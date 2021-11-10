@@ -3,9 +3,11 @@
  * Classe pour construire la base de données avec les dictionnaires
  */
  
-Medict::init(dirname(dirname(dirname(__FILE__))).'/medict/medict.sqlite');
-Medict::loadTei(dirname(dirname(__FILE__)).'/xml/medict37020d.xml');
-Medict::loadOld(dirname(dirname(__FILE__)).'/lfs/export_livancpages_dico.csv');
+Medict::init();
+// XML test file to load
+$teifile = dirname(dirname(dirname(__FILE__))) . '/medict-xml/xml/medict37020d.xml';
+Medict::loadTei($teifile);
+// Medict::loadOld(dirname(dirname(__FILE__)).'/lfs/export_livancpages_dico.csv');
 
 class Medict
 {
@@ -13,95 +15,33 @@ class Medict
   static public $pdo;
   /** Home directory of project, absolute */
   static $home;
-  /** Database absolute path */
-  static private $sqlfile;
-  /** Creation */
-  static private $create = "
-PRAGMA encoding = 'UTF-8';
-PRAGMA page_size = 8192;
-
-CREATE TABLE ref (
-  -- Renvoi
-  id             INTEGER,               -- ! rowid auto
-  target         TEXT NOT NULL,         -- ! @target
-  entry2         INTEGER,               -- ! clé article de destination (résolu après insert)
-  entry          INTEGER NOT NULL,      -- ! clé article source
-  pb             INTEGER NOT NULL,      -- ! clé de page
-  PRIMARY KEY(id ASC)
-);
+  /** Indexes to check
+ 
 CREATE INDEX ref_entry ON ref(entry);
 CREATE INDEX ref_entry2 ON ref(entry2);
-
-CREATE TABLE term (
-  -- Terme (plusieurs mots)
-  id             INTEGER,               -- ! rowid auto
-  label          TEXT NOT NULL,         -- ! vedette telle qu’affichée
-  sort           TEXT NOT NULL,         -- ! pour recherche
-  entry          INTEGER NOT NULL,      -- ! clé article source
-  pb             INTEGER NOT NULL,      -- ! clé de page
-  PRIMARY KEY(id ASC)
-);
 CREATE INDEX term_label ON term(label);
 CREATE INDEX term_sort ON term(sort, label);
-
-
-CREATE TABLE orth (
-  -- Vedette
-  id             INTEGER,               -- ! rowid auto
-  label          TEXT NOT NULL,         -- ! vedette telle qu’affichée
-  sort           TEXT NOT NULL,         -- ! pour recherche et tri
-  small          TEXT NOT NULL,         -- ! vedette courte
-  key            TEXT NOT NULL,         -- ! groupement
-  entry          INTEGER,               -- ? clé article source (parfois sans pour anciennes données)
-  pb             INTEGER NOT NULL,      -- ! clé de page
-  year           INTEGER NOT NULL,      -- ! année, pour tris
-  PRIMARY KEY(id ASC)
-);
 CREATE INDEX orth_label ON orth(label);
 CREATE INDEX orth_sort ON orth(sort, label);
 CREATE INDEX orth_small ON orth(small);
 CREATE INDEX orth_key ON orth(key, sort, label);
 CREATE INDEX orth_pb ON orth(pb);
 CREATE INDEX orth_year ON orth(year, pb);
-
-
-CREATE TABLE entry (
-  -- Article
-  id             INTEGER,               -- ! rowid auto
-  xmlid          TEXT NOT NULL,         -- ! @xml:id, identifiant xml
-  pb             INTEGER NOT NULL,      -- ! clé de page de début
-  pages          INTEGER NOT NULL,      -- ! nombre de pages supplémentaires
-  PRIMARY KEY(id ASC)
-);
-
-CREATE TABLE pb (
-  -- Page
-  id             INTEGER,               -- ! rowid auto
-  n              TEXT NOT NULL,         -- ! @n, numéro de page
-  facs           TEXT NOT NULL,         -- ! @facs, lien à l’image
-  volume         INTEGER,               -- ! clé de volume
-  PRIMARY KEY(id ASC)
-);
-
-CREATE TABLE volume (
-  -- Volume
-  id             INTEGER,               -- ! rowid auto
-  filename       TEXT NOT NULL UNIQUE,  -- ! nom de fichier
-  label          TEXT NOT NULL,         -- ! unique
-  year           INTEGER NOT NULL,      -- ! année pour recherche chrono
-  PRIMARY KEY(id ASC)
-);
 CREATE INDEX volume_year ON volume(year);
 
   
-  ";
+  */
   
-  public static function init($sqlite)
+  public static function init()
   {
-    self::$home = dirname(dirname(__FILE__)).'/';
-    self::$sqlfile = $sqlite;
-    self::$pdo = Build::sqlcreate(self::$sqlfile, self::$create);
     mb_internal_encoding("UTF-8");
+    self::$home = dirname(dirname(__FILE__)).'/';
+    self::$pdo = include dirname(__FILE__).'/connect.php';
+    // check connection
+    echo // self::$pdo->getAttribute(PDO::ATTR_SERVER_INFO), ' '
+         self::$pdo->getAttribute(PDO::ATTR_DRIVER_NAME), ' ',
+         self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n"
+    ;
   }
   
   public static function sortable($utf8)
@@ -121,10 +61,14 @@ CREATE INDEX volume_year ON volume(year);
   public static function loadTei($srcxml)
   {
     $dom = Build::dom($srcxml);
-    $tsv = Build::transformDoc($dom, dirname(__FILE__).'/medict2sql.xsl');
+    $tsv = Build::transformDoc($dom, dirname(__FILE__).'/medict2tsv.xsl');
     $srcname = pathinfo($srcxml, PATHINFO_FILENAME);
-    $dsttsv = dirname(__FILE__).'/'.$srcname.'.tsv';
+    // pour débogage
+    $dsttsv = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'medict';
+    if (!file_exists($dsttsv)) mkdir($dsttsv, 0777, true);
+    $dsttsv .= DIRECTORY_SEPARATOR . $srcname . '.tsv';
     file_put_contents($dsttsv, $tsv);
+    return;
 
     $volumeIns = self::$pdo->prepare("INSERT INTO volume (filename, label, year) VALUES (?, ?, ?);");
     $volumeId = -1;

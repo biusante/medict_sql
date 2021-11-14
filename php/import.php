@@ -1,47 +1,75 @@
 <?php
 /**
- * Classe pour construire la base de données avec les dictionnaires
+ * Classe pour construire la base de données pour les dictionnaires
  */
  
 Medict::init();
+Medict::pages2index();
 // XML test file to load
 $teifile = dirname(dirname(dirname(__FILE__))) . '/medict-xml/xml/medict37020d.xml';
-Medict::loadTei($teifile);
+// Medict::loadTei($teifile);
 // Medict::loadOld(dirname(dirname(__FILE__)).'/lfs/export_livancpages_dico.csv');
 
 class Medict
 {
+  /** Paramètres inmportés */
+  static public $pars;
   /** SQLite link */
   static public $pdo;
   /** Home directory of project, absolute */
   static $home;
-  /** Indexes to check
- 
-CREATE INDEX ref_entry ON ref(entry);
-CREATE INDEX ref_entry2 ON ref(entry2);
-CREATE INDEX term_label ON term(label);
-CREATE INDEX term_sort ON term(sort, label);
-CREATE INDEX orth_label ON orth(label);
-CREATE INDEX orth_sort ON orth(sort, label);
-CREATE INDEX orth_small ON orth(small);
-CREATE INDEX orth_key ON orth(key, sort, label);
-CREATE INDEX orth_pb ON orth(pb);
-CREATE INDEX orth_year ON orth(year, pb);
-CREATE INDEX volume_year ON volume(year);
+  /** Prepared statements shared between methods */
+  static $q = array();
+  /** Table entrée, une ligne à écrire, partagée par référence */
+  static $entree = array(
+    ':livanc' => -1,
+    ':cote' => null,
+    ':nomdico' => null, 
+    ':annee' => -1, 
+    ':livancpages' => -1, 
+    ':page' => null, 
+    ':url' => null, 
+    ':vedette' => null, 
+    ':page2' => null,
+    ':taille' => 0,
+  );
+  /** Table index, une ligne à écrire, partagée par référence */
+  static $index = array (
+    ':terme' => null, 
+    ':terme_sort' => null,
+    ':entree' => -1,
+    ':langue' => null, 
+    ':annee' => -1, 
+    ':livanc' => -1,
+  );
 
-  
-  */
   
   public static function init()
   {
+    ini_set('memory_limit', -1); // needed for this script
+    self::$pars = include dirname(__FILE__).'/pars.php';
+    self::$pdo =  new PDO(
+      "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['dbname'],
+      self::$pars['user'],
+      self::$pars['pass'],
+      array(
+        PDO::ATTR_PERSISTENT => true,
+        PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',
+        // if true : big queries need memory
+        // if false : multiple queries arre not allowed
+        // PDO::MYSQL_ATTR_USE_BUFFERED_QUERY => false,
+      ),
+    );
+    // self::$pdo->setAttribute(PDO::MYSQL_ATTR_USE_BUFFERED_QUERY, false);
     mb_internal_encoding("UTF-8");
     self::$home = dirname(dirname(__FILE__)).'/';
-    self::$pdo = include dirname(__FILE__).'/connect.php';
+    
     // check connection
     echo // self::$pdo->getAttribute(PDO::ATTR_SERVER_INFO), ' '
          self::$pdo->getAttribute(PDO::ATTR_DRIVER_NAME), ' ',
          self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n"
     ;
+
   }
   
   public static function sortable($utf8)
@@ -58,6 +86,129 @@ CREATE INDEX volume_year ON volume(year);
     return $ascii;
   }
 
+  
+  /**
+   * Alimenter la base de données des dictionnaires avec les données déjà indexées
+   */
+  public static function pages2index()
+  {
+    $selVol = self::$pdo->prepare("SELECT clenum, auteur FROM livanc WHERE cote = ?");
+    $sql = "INSERT INTO entree (" . str_replace(':', '', implode(', ', array_keys(self::$entree))) . ") VALUES (" . implode(', ', array_keys(self::$entree)) . ");";
+    self::$q['entree'] = self::$pdo->prepare($sql);
+    $sql = "INSERT INTO index (" . str_replace(':', '', implode(', ', array_keys(self::$index))) . ") VALUES (" . implode(', ', array_keys(self::$index)) . ");";
+    self::$q['index'] = self::$pdo->prepare($sql);
+    $selPage = self::$pdo->prepare("SELECT * FROM livancpages");
+    $selPage->execute();
+    // self::$pdo->beginTransaction();
+    $pages = 0;
+
+    while($page =  $selPage->fetch(PDO::FETCH_ASSOC)) {
+      // changement de volume
+      if ($page['cote'] != self::$entree[':cote']) {
+        $selVol->execute(array($page['cote']));
+        list($livanc, $auteur) = $selVol->fetch(PDO::FETCH_NUM);
+        $auteur = trim(preg_replace('/[\s]+/u', ' ', $auteur));
+        // echo $livanc,"\t",$page['cote'],"\t",$page['nomdico'],"\t",$page['annee'],"\n";
+        self::scri();  // au cas où entree pendante
+        self::$entree[':livanc']= $livanc;
+        self::$entree[':cote'] = $page['cote'];
+        if ($page['nomdico']) self::$entree[':nomdico'] = $page['nomdico'];
+        else if ($auteur) self::$entree[':nomdico'] = $auteur;
+        self::$entree[':annee'] = $page['annee'];
+      }
+      $chapitre = $page['chapitre'];
+      // Rien d’indexé dans la page
+      if ($chapitre == null || $chapitre == '') {
+        self::scri();  // au cas où entree pendante
+        continue;
+      }
+      // split chapitre
+      if (strpos($chapitre, ';') !== false) {
+        $veds =preg_split('/[  ]*; */u', $chapitre);
+      }
+      else if (strpos($chapitre, '/') !== false) {
+        $veds = preg_split('@ */ *@', $chapitre);
+      }
+      // Coeur [A. Béclard], ne pas couper sur le point
+      else if (strpos($chapitre, '[') !== false) {
+        $veds = explode('|', $chapitre);
+      }
+      else {
+        $veds =preg_split('/\. +/u', $chapitre);
+      }
+      // boucler sur les vedettes de la page
+      $fin = count($veds);
+      $pageneuve = false;
+      for ($i = 0; $i < $fin; $i++) {
+        // si entrée pendante = première vedette de la page
+        if ($i == 0 && self::$entree[':vedette'] != null && self::$entree[':vedette'] == $veds[$i]) {
+          // mise à jour de la 2e page
+          self::$entree[':taille']++;
+          self::$entree[':page2'] = $page['page'];
+          // si plus d’une vedette dans la page, alors on est sûr que l’entrée pendante se finit là
+          if ($fin > 1) self::scri();  // écrire l’entrée pendante
+          continue; 
+        }
+        // entrée pendante finie à la page précédente, on la sort, et on traite la première vedette de la page 
+        else if ($i == 0 && self::$entree[':vedette'] != null && self::$entree[':vedette'] != $veds[$i]) {
+          self::scri();  // écrire l’entrée pendante
+        }
+        // si nouvelle vedette (1, ou 2), mettre à jour les donnée de page
+        if (!$pageneuve) {
+          $pages++;
+          self::$entree[':livancpages'] = $page['numauto'];
+          self::$entree[':page'] = $page['page'];
+          self::$entree[':url'] = $page['url'];
+          $pageneuve = true;
+        }
+        self:: $entree[':vedette'] = $veds[$i];
+        // si vedette après dans la page, ça peut partir
+        if ($i < $fin - 1) self::scri();
+      }
+    }
+    // self::$pdo->commit();
+    echo "\n";
+    echo $pages;
+    return;
+
+    /*
+      
+      foreach ($words as $orth) {
+        if (!$orth) continue;
+        if ($orth == $lastorth) continue;
+        $lastorth = $orth;
+        $sort = self::sortable($orth);
+        preg_match('@(.*?)[\. \(\[,]@', $orth.' ', $matches);
+        $small = $matches[1];
+        $key = self::sortable($small);
+        $orthIns->execute(array($orth, $sort, $small, $key, $pbId, $cell[2]));
+      }
+      */
+  }
+
+  public static function scri()
+  {
+    if (self::$entree[':vedette'] == null) {
+      self::$entree[':vedette'] = null;
+      self::$entree[':page2'] = null;
+      self::$entree[':taille'] = 0;
+      return;
+    }
+    // echo "<b>";
+    echo mb_strtoupper(mb_substr(self::$entree[':vedette'], 0, 1, 'UTF-8'), 'UTF-8'), mb_substr(self::$entree[':vedette'], 1, NULL, 'UTF-8');
+    echo "\t";
+    echo self::$entree[':nomdico'];
+    echo "\t";
+    echo self::$entree[':annee'];
+    echo "\t";
+    if (self::$entree[':page2'] != null) echo "pps. ",self::$entree[':page'],"-",self::$entree[':page2'];
+    else echo "p. ",self::$entree[':page'];
+    echo "\n";
+    self::$entree[':vedette'] = null;
+    self::$entree[':page2'] = null;
+    self::$entree[':taille'] = 0;
+  }
+  
   public static function loadTei($srcxml)
   {
     $dom = Build::dom($srcxml);
@@ -70,14 +221,12 @@ CREATE INDEX volume_year ON volume(year);
     file_put_contents($dsttsv, $tsv);
     return;
 
-    $volumeIns = self::$pdo->prepare("INSERT INTO volume (filename, label, year) VALUES (?, ?, ?);");
-    $volumeId = -1;
-    $year = -1;
-    $pbIns = self::$pdo->prepare("INSERT INTO pb (n, facs, volume) VALUES (?, ?, ?);");
-    $pbId = -1;
-    $entryIns = self::$pdo->prepare("INSERT INTO entry (xmlid, pages, pb) VALUES (?, ?, ?);");
+    // get the page id 
+    $livancpagesSel = self::$pdo->prepare("SELECT numauto, annee, cote FROM livancpages WHERE cote = ? AND page = ?");
+    $livancpages = -1;
+    $entryIns = self::$pdo->prepare("INSERT INTO entry (xmlid, pages, livancpages) VALUES (?, ?, ?);");
     $entryId = -1;
-    $orthIns = self::$pdo->prepare("INSERT INTO orth (label, sort, small, key, entry, pb, year) VALUES (?, ?, ?, ?, ?, ?, ?);");
+    $orthIns = self::$pdo->prepare("INSERT INTO orth (label, label_tr, small, , small_tr, entry, livancpages,) VALUES (?, ?, ?, ?, ?, ?, ?);");
     $termIns = self::$pdo->prepare("INSERT INTO term (label, sort, entry, pb) VALUES (?, ?, ?, ?);");
     $refIns = self::$pdo->prepare("INSERT INTO ref (target, entry, pb) VALUES (?, ?, ?);");
     
@@ -127,89 +276,8 @@ CREATE INDEX volume_year ON volume(year);
     }
     self::$pdo->commit();
   }
-  
-  /**
-  "00216x01","James 1","1746","0246","191-192","O","Acanthus. Acanus. Acapnon. Acardios. Acari ou acarus. Acaricoba. Acarna. Acarnan. Acaron. Acartum. Acarus. Acatalepsia. Acatalis. Acatastatos. Acatera. Acatharsia. Acato ou araxos. Acaulis. Acaulos. Acazdir. Accatem. Accatum. Acceleratores urinae. Accessio. Accessorius"
-"00216x01","James 1","1746","0247","193-194","O","Accessorius. Accessus. Accib. Accidens. Accipiter. Accipitrina ou praedatrix. Accretio. Accurtatoria. Accusatio. Acedia. Acephalos. Acer"
-"00216x01","James 1","1746","0248","195-196","O","Acer. Aceratos. Acerbus. Acerides. Acerosus. Acescentia. Acesias. Acesis. Acesius. Aceso. Acesta. Acestides. Acestis. Acestoris. Acestra. Acestrides. Acetabulum"
-"00216x01","James 1","1746","0249","197-198","O","Acetabulum. Acetaria. Acetarium scorbuticum. Acetosa"
-"00216x01","James 1","1746","0250","199-200","O","Acetosa. Acetosa esurina. Acetosella"
-"00216x01","James 1","1746","0251","201-202","O","Acetosella. Acetum"
-"00216x01","James 1","1746","0252","203-204","","Acetum"
-"00216x01","James 1","1746","0253","205-206","","Acetum"
-"00216x01","James 1","1746","0254","207-208","","Acetum"
-"00216x01","James 1","1746","0255","209-210","","Acetum"
-"00216x01","James 1","1746","0256","211-212","","Acetum"
-"00216x01","James 1","1746","0257","213-214","","Acetum"
-"00216x01","James 1","1746","0258","215-216","","Acetum"
-"00216x01","James 1","1746","0259","217-218","","Acetum"
-"00216x01","James 1","1746","0260","219-220","","Acetum"
-"00216x01","James 1","1746","0261","221-222","","Acetum"
-"00216x01","James 1","1746","0262","223-224","","Acetum"
-"00216x01","James 1","1746","0263","225-226","O","Acetum. Acetum radicatum. Achahi. Achamelech. Achanaca. Achaovan ou achaova. Achariston"
-"00216x01","James 1","1746","0264","227-228","O","Achariston. Achates. Acheir. Achemenis. Achicolum. Achillea. Achillea montana. Achilleion. Achilleios. Achilleis. Achilles. Achillis. Achimbassi. Achiotl"
-"00216x01","James 1","1746","0265","229-230","O","Achiotl. Achiote. Achlades. Achlys"
-"00216x01","James 1","1746","0266","231-232","O","Achlys. Achmadium ou achimadium. Achne. Achor"
-"00216x01","James 1","1746","0267","233-234","O","Achor. Achoristos. Achourou. Achras. Achreion. Achroi"
-"00216x01","James 1","1746","0268","235-236","O","Achroi. Achromos. Achrous. Achy. Achyron. Acia. Acicys. Acida"
-  */
-  public static function loadOld($csvfile)
-  {
-    $handle = fopen($csvfile, "r");
-    $volume = null;
-    $volumeIns = self::$pdo->prepare("INSERT INTO volume (filename, label, year) VALUES (?, ?, ?);");
-    $volumeId = -1;
-    $pbIns = self::$pdo->prepare("INSERT INTO pb (n, facs, volume) VALUES (?, ?, ?);");
-    $pbId = -1;
-    $orthIns = self::$pdo->prepare("INSERT INTO orth (label, sort, small, key, pb, year) VALUES (?, ?, ?, ?, ?, ?);");
-    
-    self::$pdo->beginTransaction();
-    $lastorth = '';
-    while ($cell = fgetcsv($handle)) {
-      if ($cell[0] == '32923X14') $cell[0] = '32923x14';
-      // nouveau volume, insérer
-      if ($volume != $cell[0]) {
-        try {
-          $volumeIns->execute(array($cell[0], $cell[1], $cell[2]));
-        }
-        catch (Exception $e) {
-          echo "last volume ", $volume, "\n";
-          print_r($cell);
-        }
-        $volumeId = self::$pdo->lastInsertId();
-        $volume = $cell[0];
-      }
-      // $facs = 'https://iiif.archivelab.org/iiif/BIUSante_'.$cell[0].'$'.$cell[3].'/full/full/0/default.jpg';
-      $facs = '//www.biusante.parisdescartes.fr/images/livres/'.$cell[0].'/'.$cell[3].'.jpg';
-      $pbIns->execute(array($cell[4], $facs, $volumeId));
-      $pbId = self::$pdo->lastInsertId();
-      // if (!$cell[5]) continue; // article sur plusieurs pages
-      
-      if (strpos($cell[6], '/') !== false) {
-        $words = preg_split('@ */ *@', $cell[6]);
-      }
-      // Coeur [A. Béclard], ne pas couper sur le point
-      else if (strpos($cell[6], '[') !== false) {
-        $words = explode('|', $cell[6]);
-      }
-      else {
-        $words = explode('. ', $cell[6]);
-      }
-      
-      foreach ($words as $orth) {
-        if (!$orth) continue;
-        if ($orth == $lastorth) continue;
-        $lastorth = $orth;
-        $sort = self::sortable($orth);
-        preg_match('@(.*?)[\. \(\[,]@', $orth.' ', $matches);
-        $small = $matches[1];
-        $key = self::sortable($small);
-        $orthIns->execute(array($orth, $sort, $small, $key, $pbId, $cell[2]));
-      }
-    }
-    self::$pdo->commit();
-  }
-  
+
+
 }
 
 

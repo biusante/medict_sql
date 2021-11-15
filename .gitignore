@@ -1,3 +1,6 @@
 *.bak
 /data/*.sql
+php/pars.php
+/export/*.tsv
+/export/*.xlsx
 

@@ -5,13 +5,16 @@
  
 Medict::init();
 Medict::pages2db();
-// XML test file to load
+// XML test file to load
 $teifile = dirname(dirname(dirname(__FILE__))) . '/medict-xml/xml/medict37020d.xml';
 // Medict::loadTei($teifile);
 // Medict::loadOld(dirname(dirname(__FILE__)).'/lfs/export_livancpages_dico.csv');
 
 class Medict
 {
+  /** Mode write */
+  const ECHO = true;
+  const WRITE = true;
   /** Paramètres inmportés */
   static public $pars;
   /** SQLite link */
@@ -37,7 +40,8 @@ class Medict
   static $mot = array (
     ':livanc' => -1,
     ':langue' => null, 
-    ':annee' => -1, 
+    ':annee' => -1,
+    ':nomdico' => null, 
     ':entree' => -1,
     ':terme' => null, 
     ':terme_sort' => null,
@@ -78,6 +82,7 @@ class Medict
   {
     $utf8 = mb_strtolower($utf8, 'UTF-8');
     $tr = array(
+      '-' => '',
       '« ' => '"',
       ' »' => '"',
       '«' => '"',
@@ -85,6 +90,7 @@ class Medict
       'à' => 'a',
       'ä' => 'a',
       'â' => 'a',
+      'ӕ' => 'ae',
       'é' => 'e',
       'è' => 'e',
       'ê' => 'e',
@@ -93,6 +99,7 @@ class Medict
       'ï' => 'i',
       'ô' => 'o',
       'ö' => 'o',
+      'œ' => 'oe',
       'ü' => 'u',
       'û' => 'u',
       'ÿ' => 'y',
@@ -109,6 +116,10 @@ class Medict
    */
   public static function pages2db()
   {
+    self::$pdo->query("TRUNCATE TABLE mot");
+    self::$pdo->query("TRUNCATE TABLE entree");
+
+    if(self::ECHO) echo "entree.vedette	vedette.len	livancpages.nomdico	livancpages.annee	livancpages.page	mot.termes\n";
     // Charger les mots vides
     self::$stop = array_flip(explode("\n",file_get_contents(dirname(__FILE__).DIRECTORY_SEPARATOR.'stop.csv')));
     // Requêtes
@@ -117,7 +128,8 @@ class Medict
     self::$q['entree'] = self::$pdo->prepare($sql);
     $sql = "INSERT INTO mot (" . str_replace(':', '', implode(', ', array_keys(self::$mot))) . ") VALUES (" . implode(', ', array_keys(self::$mot)) . ");";
     self::$q['mot'] = self::$pdo->prepare($sql);
-    $selPage = self::$pdo->prepare("SELECT * FROM livancpages");
+    // Ordre de lecture des pages 
+    $selPage = self::$pdo->prepare("SELECT * FROM livancpages ORDER BY annee, nomdico, cote");
     $selPage->execute();
     self::$pdo->beginTransaction();
     $pages = 0;
@@ -128,7 +140,7 @@ class Medict
         $selVol->execute(array($page['cote']));
         list($livanc, $auteur) = $selVol->fetch(PDO::FETCH_NUM);
         $auteur = trim(preg_replace('@[\s]+@u', ' ', $auteur));
-        echo $livanc,"\t",$page['cote'],"\t",$page['nomdico'],"\t",$page['annee'],"\n";
+        fwrite(STDERR, $livanc . "\t" . $page['cote'] . "\t" . $page['nomdico'] . "\t" . $page['annee'] . "\n");
         self::scri();  // au cas où entree pendante
         self::$entree[':livanc']= $livanc;
         self::$entree[':cote'] = $page['cote'];
@@ -143,7 +155,11 @@ class Medict
         continue;
       }
       // Nettoyer des trucs ?
-      $chapitre = preg_replace('@V\. *@u', '', $chapitre);
+      $chapitre = preg_replace(
+        array('@V\. *@u', '@ */ *\(@'), 
+        array('',         ' ('), 
+        $chapitre
+      );
       // split chapitre
       if (strpos($chapitre, ';') !== false) {
         $veds = preg_split('@[  ]*; *@u', $chapitre);
@@ -201,7 +217,6 @@ class Medict
    */
   public static function scri()
   {
-    $db = true;
     if (self::$entree[':vedette'] == null) {
       self::$entree[':vedette'] = null;
       self::$entree[':page2'] = null;
@@ -209,11 +224,31 @@ class Medict
       return;
     }
     // insert entree
-    if($db) self::$q['entree']->execute(self::$entree);
+    if(self::WRITE) self::$q['entree']->execute(self::$entree);
+
     self::$mot[':livanc'] = self::$entree[':livanc'];
-    self::$mot[':annee'] = self::$entree[':annee'];
-    if($db) self::$mot[':entree'] = self::$pdo->lastInsertId();
     self::$mot[':langue'] = ''; 
+    self::$mot[':annee'] = self::$entree[':annee'];
+    self::$mot[':nomdico'] = self::$entree[':nomdico'];
+    if(self::WRITE) self::$mot[':entree'] = self::$pdo->lastInsertId();
+    // En cas de log, pour vérifier
+    if (self::ECHO) {
+      // echo "<b>";
+      echo mb_strtoupper(mb_substr(self::$entree[':vedette'], 0, 1, 'UTF-8'), 'UTF-8'), mb_substr(self::$entree[':vedette'], 1, NULL, 'UTF-8');
+      echo "\t";
+      echo mb_strlen(self::$entree[':vedette']);
+      echo "\t";
+      echo self::$entree[':nomdico'];
+      echo "\t";
+      echo self::$entree[':annee'];
+      echo "\t";
+      if (self::$entree[':page2'] != null) echo "pps. ",self::$entree[':page'],"-",self::$entree[':page2'];
+      else echo "p. ",self::$entree[':page'];
+      echo "\t";
+    }
+
+
+
     // indexation des termes
     $vedette = trim(preg_replace(
       array("@\[[^\]]*\]@u", "@\s+@u"),
@@ -225,32 +260,17 @@ class Medict
 
     $terms = array_flip(preg_split('@[^\p{L}\-]+@u', $vedette));
     foreach ($terms as $terme=>$value) {
-      if (!$value) continue;
+      if (!$terme) continue;
       // mot vide
-      if (isset(self::$stop[$terme])) {
-        unset($terms[$terme]);
-        continue;
-      }
+      if (isset(self::$stop[$terme])) continue;
       self::$mot[':terme'] = $terme; 
       self::$mot[':terme_sort'] = self::sortable($terme);
       // insert le terme
-      if($db) self::$q['mot']->execute(self::$mot);
+      if(self::WRITE) self::$q['mot']->execute(self::$mot);
+      if(self::ECHO) echo ', '.$terme;
     }
-    // En cas de log, pour vérifier
-    if (!$db) {
-      // echo "<b>";
-      echo mb_strtoupper(mb_substr(self::$entree[':vedette'], 0, 1, 'UTF-8'), 'UTF-8'), mb_substr(self::$entree[':vedette'], 1, NULL, 'UTF-8');
-      echo "\t";
-      echo self::$entree[':nomdico'];
-      echo "\t";
-      echo self::$entree[':annee'];
-      echo "\t";
-      if (self::$entree[':page2'] != null) echo "pps. ",self::$entree[':page'],"-",self::$entree[':page2'];
-      else echo "p. ",self::$entree[':page'];
-      echo "\t";
-      echo implode(", ", array_keys($terms));
-      echo "\n";
-    }
+
+    if (self::ECHO) echo "\n";
 
     // nettoyer les tableaux
     self::$entree[':vedette'] = null;

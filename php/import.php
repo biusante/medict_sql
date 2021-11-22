@@ -36,7 +36,7 @@ class Medict
     ':page' => null, 
     ':url' => null, 
     ':page2' => null,
-    // ':taille' => 0,
+    ':pps' => 0,
     ':vedette_len' => null, 
   );
   /** dico_index, insert courant, partagé par référence */
@@ -193,6 +193,8 @@ class Medict
     $pageq = self::$pdo->prepare("SELECT * FROM livancpages WHERE cote = ? ORDER BY cote, refimg");
     $pageq->execute(array($cote));
     self::$pdo->beginTransaction();
+    self::$pdo->query("SET unique_checks=0;");
+    self::$pdo->query("SET foreign_key_checks=0;");
     // les propriétés de dico_titre et livanc doivent ici être déjà fixée
     self::$dico_entree[':nom_volume'] = null;
     while($page =  $pageq->fetch(PDO::FETCH_ASSOC)) {
@@ -282,7 +284,16 @@ class Medict
         $veds = preg_split('@ +- +@u', $chapitre);
       }
       else if ($sep == '.') {
-        $veds =preg_split('@\. +@u', $chapitre);
+        // protéger les '.' dans les parenthèses
+        $chapitre = preg_replace_callback(
+          '@\([^\)]*\)@',
+          function ($matches) {
+            return preg_replace('@\.@', '£', $matches[0]);
+          },
+          $chapitre
+        );
+        $veds = preg_split('@\. +@u', $chapitre);
+        $veds = preg_replace('@£@', '.', $veds);
       }
       else if ($sep == '/') {
         $veds = preg_split('@ */ *@', $chapitre);
@@ -290,9 +301,6 @@ class Medict
       else if ($sep == ';') {
         $veds = preg_split('@ *; *@', $chapitre);
       }
-
-      // articles initiaux
-      self::$dico_entree[':vedette'] = preg_replace("@^ *(le|la|les|l’|l') +@ui", '', self::$dico_entree[':vedette']);
 
       $veds = preg_replace(
         array(
@@ -311,7 +319,7 @@ class Medict
         // si entrée pendante = première vedette de la page
         if ($i == 0 && self::$dico_entree[':vedette'] != null && self::$dico_entree[':vedette'] == $veds[$i]) {
           // mise à jour de la 2e page
-          // self::$dico_entree[':taille']++;
+          self::$dico_entree[':pps']++;
           self::$dico_entree[':page2'] = $page['page'];
           // si plus d’une vedette dans la page, alors on est sûr que l’entrée pendante se finit là
           if ($fin > 1) self::vedettes();  // écrire l’entrée pendante
@@ -335,6 +343,8 @@ class Medict
       }
     }
     self::vedettes();  // si entree pendante
+    self::$pdo->query("SET foreign_key_checks=1; ");
+    self::$pdo->query("SET unique_checks=1;");
     self::$pdo->commit();
     return;
   }
@@ -348,7 +358,7 @@ class Medict
     if (self::$dico_entree[':vedette'] == null) {
       self::$dico_entree[':vedette'] = null;
       self::$dico_entree[':page2'] = null;
-      // self::$dico_entree[':taille'] = 0;
+      self::$dico_entree[':pps'] = 0;
       return;
     }
     // "16 Agaricus campestris. Le champignon champêtre", "17 Agaricus déliciosus. Champignon délicieux",  "18 Agaricus cantharellus. La cantharelle"
@@ -385,7 +395,7 @@ class Medict
     // nettoyer les tableaux
     self::$dico_entree[':vedette'] = null;
     self::$dico_entree[':page2'] = null;
-    // self::$dico_entree[':taille'] = 0;
+    self::$dico_entree[':pps'] = 0;
   }
 
   /**
@@ -432,7 +442,7 @@ class Medict
         $terms = array_flip(array($vedette));
     } 
     else {
-      $terms = array_flip(preg_split('@,[\-—– ]*|,? +(ou|et|&) +@ui', $vedette));
+      $terms = array_flip(preg_split('@,? +(ou|et|&) +|,[\-—– ]+@ui', $vedette));
     }
     foreach ($terms as $terme=>$value) {
       if (!$terme) continue;

@@ -5,7 +5,8 @@
  */
 
 Medict::init();
-Medict::titres();
+// Medict::titres();
+Medict::updates();
 // XML test file to load
 // $teifile = dirname(dirname(dirname(__FILE__))) . '/medict-xml/xml/medict37020d.xml';
 // Medict::loadTei($teifile);
@@ -56,7 +57,9 @@ class Medict
         ':dico_entree' => -1,
         ':cote_volume' => null,
         ':terme1' => null,
+        ':terme1_sort' => null,
         ':terme2' => null,
+        ':terme2_sort' => null,
     );
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
@@ -91,36 +94,25 @@ class Medict
         self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n";
     }
 
-    public static function sortable($utf8)
+    public static function sortable($s)
     {
-        $utf8 = mb_strtolower($utf8, 'UTF-8');
-        $tr = array(
-            '-' => ' ',
-            '« ' => '"',
-            ' »' => '"',
-            '«' => '"',
-            '»' => '"',
-            'à' => 'a',
-            'ä' => 'a',
-            'â' => 'a',
-            'ӕ' => 'ae',
-            'é' => 'e',
-            'è' => 'e',
-            'ê' => 'e',
-            'ë' => 'e',
-            'î' => 'i',
-            'ï' => 'i',
-            'ô' => 'o',
-            'ö' => 'o',
-            'œ' => 'oe',
-            'ü' => 'u',
-            'û' => 'u',
-            'ÿ' => 'y',
+        // bas de casse
+        $s = mb_convert_case($s, MB_CASE_FOLD, "UTF-8");
+        // ligatures
+        $s = strtr(
+            $s,
+            array(
+                'œ' => 'oe',
+                'æ' => 'ae',
+            )
         );
-        $sortable = strtr($utf8, $tr);
-        // pb avec les accents, passera pas pour le grec
-        // $ascii = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $utf8);
-        return $sortable;
+        // normaliser les espaces
+        $s = preg_replace('/[\s\-]+/', ' ', trim($s));
+        // decomposer lettres et accents
+        $s = Normalizer::normalize($s, Normalizer::FORM_D);
+        // ne conserver que les lettres et les espaces
+        $s = preg_replace("/[^\pL\s]/u", '', $s);
+        return $s;
     }
 
 
@@ -236,30 +228,22 @@ class Medict
                 $chapitre
             );
 
+
+            // Supprimer le renvois
+            // Rangonus. Voyez Philologus.
+            $chapitre = preg_replace(
+                array('@[\./\)] (V\. |Voy.? |Voyez )[^\./;]+@u'),
+                array(''),
+                $chapitre
+            );
+            
+
             // supprimer un gros préfixe
             // Classe première. Les campaniformes. Section III. Genre VII. Le gloux / Genre VIII. L'alleluia
             if (startsWith(self::$dico_entree[':cote_volume'], 'pharma_019129')) {
                 $chapitre = preg_replace(
                     array('@^.*?Genre[^\.]*\. *@u', '@^.*?Supplémentaire\. *@ui', '@ */ *[^/]*?Genre[^\.]*\. *@u', '@[^\.]+classe\. *@ui'),
                     array('',                       '',                           ' / ',                           ''),
-                    $chapitre
-                );
-            }
-            // supprimer des renvois
-            // Biceps. Bichios. V. Dragonneau. Bicho. V. Dragonneau. Bicipital. 
-            else if (startsWith(self::$dico_entree[':cote_volume'], '61157')) {
-                $chapitre = preg_replace(
-                    array('@\. V\. [^.]+\.@u'),
-                    array('. '),
-                    $chapitre
-                );
-            }
-            // supprimer des renvois
-            // Rangonus. Voyez Philologus.
-            else if (startsWith(self::$dico_entree[':cote_volume'], '146144')) {
-                $chapitre = preg_replace(
-                    array('@(\.)? Voyez\.? [^.]+\.?@u'),
-                    array('$1 '),
                     $chapitre
                 );
             }
@@ -277,8 +261,8 @@ class Medict
                 // $echo = (mb_strpos($chapitre, 'Voy.') !== false);
                 // if ($echo) fwrite(STDERR, $chapitre."\n");
                 $chapitre = preg_replace(
-                    array('@ *\(bibliographie\)\.?@ui', '@\.? Voy\.? [^/]+@u'),
-                    array('',                           ''),
+                    array('@ *\(bibliographie\)\.?@ui'),
+                    array(''),
                     $chapitre
                 );
                 // if ($echo) fwrite(STDERR, $chapitre."\n");
@@ -316,6 +300,8 @@ class Medict
                 $veds = preg_split('@\. +@u', $chapitre);
                 $veds = preg_replace('@£@', '.', $veds);
             } else if ($sep == '/') {
+                // Panckoucke 55 «  574 trichocéphale / trichomatique / trichuride / tricuspide / (valvule) »
+                $chapitre = preg_replace('@ */ *\(@', ' (', $chapitre);
                 $veds = preg_split('@ */ *@', $chapitre);
             } else if ($sep == ';') {
                 $veds = preg_split('@ *; *@', $chapitre);
@@ -479,7 +465,7 @@ class Medict
         // écrire la ou les vedettes dans l’index
         foreach ($terms as $t) {
             self::$dico_index[':terme'] = $t;
-            self::$dico_index[':terme_sort'] = self::sortable($t);
+            self::$dico_index[':terme_sort'] = '1' . self::sortable($t);
             self::$dico_index[':terme_len'] = mb_strlen($t, "utf-8");
             if (self::WRITE) self::$q['dico_index']->execute(self::$dico_index); // insérer le terme
             if (self::ECHO) echo ', ' . $t;
@@ -490,12 +476,19 @@ class Medict
         if ($count > 1) {
             self::$dico_sugg[':cote_volume'] = self::$dico_entree[':cote_volume'];
             self::$dico_sugg[':dico_entree'] = self::$dico_index[':dico_entree'];
-            for ($i = 0; $i < $count - 1; $i++) {
+            // A, B, C : A->B, A->C, B->A, B->C, C->A, C->B
+            for ($i = 0; $i < $count; $i++) {
                 self::$dico_sugg[':terme1'] = $terms[$i];
-                for ($j = $i + 1; $j < $count; $j++) {
+                self::$dico_sugg[':terme1_sort'] = self::sortable(self::$dico_sugg[':terme1']);
+                for ($j = 0; $j < $count; $j++) {
+                    if ($terms[$i] ==  $terms[$j]) continue;
                     self::$dico_sugg[':terme2'] = $terms[$j];
+                    self::$dico_sugg[':terme2_sort'] = self::sortable(self::$dico_sugg[':terme2']);
                     if (self::WRITE) self::$q['dico_sugg']->execute(self::$dico_sugg); // insérer le terme
-                    if (self::ECHO) echo self::$dico_sugg[':cote_volume']. "\t" . self::$dico_sugg[':dico_entree']. "\t" . self::$dico_sugg[':terme1']. "\t" . self::$dico_sugg[':terme2']."\n";
+                    if (self::ECHO) echo self::$dico_sugg[':cote_volume']
+                        . "\t" . self::$dico_sugg[':dico_entree']
+                        . "\t" . self::$dico_sugg[':terme1']
+                        . "\t" . self::$dico_sugg[':terme2']."\n";
                 }
     
             }
@@ -517,6 +510,25 @@ class Medict
     */
 
     }
+
+    /**
+     * Des updates après chargements
+     */
+    public static function updates()
+    {
+        self::$pdo->beginTransaction();
+        // score des suggestions (les update avec des select sont spécialement compliqués avec MySQL)
+        $qcount = self::$pdo->prepare("SELECT COUNT(*) AS COUNT FROM dico_sugg WHERE terme1_sort = ? AND terme2_sort = ?");
+        $qup = self::$pdo->prepare("UPDATE dico_sugg SET score = ? WHERE id = ?");
+        foreach  (self::$pdo->query("SELECT * FROM dico_sugg", PDO::FETCH_ASSOC) as $row) {
+            $qcount->execute(array($row['terme1_sort'], $row['terme2_sort']));
+            list($count) = $qcount->fetch();
+            $qup->execute(array($count, $row['id']));
+        }
+        // loop on all
+        self::$pdo->commit();
+    }
+
 
     public static function loadTei($srcxml)
     {

@@ -7,8 +7,8 @@ Il traverse tous les éléments et retient des informations méritant d’être 
 sous la forme d’une ligne tsv.
 Cette étape intermédiaire pemet le cas échéant de vérifier ce qui est extrait.
 Un parseur (php en l’occurrence) traversera toutes ces lignes en ordre séquentiel,
-en retenant les événement utile en cours de contexte, notamment, les sauts de page,
-permettant de raccrocher chaque information lexicale à sa page sousrce.
+en retenant les événements utiles en cours de contexte, notamment, les sauts de page,
+permettant de raccrocher chaque information lexicale à sa page source.
   -->
   <xsl:output method="text" encoding="UTF-8"/>
   <xsl:variable name="lf">
@@ -37,6 +37,8 @@ permettant de raccrocher chaque information lexicale à sa page sousrce.
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@n"/>
     <xsl:value-of select="$tab"/>
+    <xsl:value-of select="@ana"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date/@when"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
@@ -56,9 +58,17 @@ permettant de raccrocher chaque information lexicale à sa page sousrce.
   <xsl:template match="tei:entry">
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="@xml:id"/>
+    <!-- Vedette -->
+    <xsl:for-each select="tei:form/tei:orth">
+      <xsl:if test="position() != 1">, </xsl:if>
+      <xsl:value-of select="."/>
+    </xsl:for-each>
+    <!-- pps -->
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="count(.//tei:pb)"/>
+    <!-- page2 -->
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="(.//tei:pb)[position() = last()]/@n"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
   </xsl:template>
@@ -79,10 +89,10 @@ permettant de raccrocher chaque information lexicale à sa page sousrce.
     <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="tei:ref[@target]">
+  <xsl:template match="tei:ref">
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="@target"/>
+    <xsl:value-of select="normalize-space(.)"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
   </xsl:template>

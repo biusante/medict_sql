@@ -5,12 +5,10 @@
  */
 
 Medict::init();
-// Medict::titres();
+// Medict::titres(); // loop on table dico_titre
+$teifile = dirname(dirname(__DIR__)) . '/medict-xml/xml/medict37020d.xml';
+Medict::teiLoad($teifile);
 Medict::updates();
-// XML test file to load
-// $teifile = dirname(dirname(dirname(__FILE__))) . '/medict-xml/xml/medict37020d.xml';
-// Medict::loadTei($teifile);
-// Medict::loadOld(dirname(dirname(__FILE__)).'/lfs/export_livancpages_dico.csv');
 
 class Medict
 {
@@ -29,14 +27,14 @@ class Medict
     static $dico_entree = array(
         ':dico_titre' => -1,
         ':annee_titre' => -1,
-        ':vedette' => null,
         ':livanc' => -1,
         ':nom_volume' => null,
         ':cote_volume' => null,
         ':annee_volume' => null,
         ':livancpages' => -1,
         ':page' => null,
-        ':url' => null,
+        ':refimg' => null,
+        ':vedette' => null,
         ':page2' => null,
         ':pps' => 0,
         ':vedette_len' => null,
@@ -46,8 +44,8 @@ class Medict
         ':dico_titre' => -1,
         ':annee_titre' => -1,
         ':langue' => null,
-        ':type' => -1,
         ':dico_entree' => -1,
+        ':type' => -1,
         ':terme' => null,
         ':terme_sort' => null,
         ':terme_len' => null,
@@ -55,7 +53,6 @@ class Medict
     /** dico_sugg, insert courant, partagé par référence */
     static $dico_sugg = array(
         ':dico_entree' => -1,
-        ':cote_volume' => null,
         ':terme1' => null,
         ':terme1_sort' => null,
         ':terme2' => null,
@@ -77,13 +74,15 @@ class Medict
             self::$pars['user'],
             self::$pars['pass'],
             array(
-                PDO::ATTR_PERSISTENT => true,
+                PDO::ATTR_PERSISTENT => false,
                 PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',
                 // if true : big queries need memory
                 // if false : multiple queries arre not allowed
                 // PDO::MYSQL_ATTR_USE_BUFFERED_QUERY => false,
             ),
         );
+        self::$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        self::$pdo->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
         // self::$pdo->setAttribute(PDO::MYSQL_ATTR_USE_BUFFERED_QUERY, false);
         mb_internal_encoding("UTF-8");
         self::$home = dirname(dirname(__FILE__)) . '/';
@@ -115,6 +114,28 @@ class Medict
         return $s;
     }
 
+    /**
+     * Prépare les requêtes d’insertion
+     */
+    static function prepare()
+    {
+        // insérer une entrée
+        $sql = "INSERT INTO dico_entree 
+        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_entree))) . ") 
+    VALUES (" . implode(', ', array_keys(self::$dico_entree)) . ");";
+        self::$q['dico_entree'] = self::$pdo->prepare($sql);
+        // insérer un terme dans l’index
+        $sql = "INSERT INTO dico_index 
+        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_index))) . ") 
+    VALUES (" . implode(', ', array_keys(self::$dico_index)) . ");";
+        self::$q['dico_index'] = self::$pdo->prepare($sql);
+        // insérer 2 termes liés dans une suggestion
+        $sql = "INSERT INTO dico_sugg 
+        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_sugg))) . ") 
+    VALUES (" . implode(', ', array_keys(self::$dico_sugg)) . ");";
+        self::$q['dico_sugg'] = self::$pdo->prepare($sql);
+       
+    }
 
     /**
      * Alimenter la base de données des dictionnaires avec les données déjà indexées,
@@ -128,22 +149,7 @@ class Medict
         self::$pdo->query("TRUNCATE TABLE dico_entree");
         self::$pdo->query("TRUNCATE TABLE dico_sugg");
         self::$page_count = 0;
-        // préparer les requêtes
-        // insérer une entrée
-        $sql = "INSERT INTO dico_entree 
-         (" . str_replace(':', '', implode(', ', array_keys(self::$dico_entree))) . ") 
-  VALUES (" . implode(', ', array_keys(self::$dico_entree)) . ");";
-        self::$q['dico_entree'] = self::$pdo->prepare($sql);
-        // insérer un terme dans l’index
-        $sql = "INSERT INTO dico_index 
-         (" . str_replace(':', '', implode(', ', array_keys(self::$dico_index))) . ") 
-  VALUES (" . implode(', ', array_keys(self::$dico_index)) . ");";
-        self::$q['dico_index'] = self::$pdo->prepare($sql);
-        // insérer 2 termes liés dans une suggestion
-        $sql = "INSERT INTO dico_sugg 
-         (" . str_replace(':', '', implode(', ', array_keys(self::$dico_sugg))) . ") 
-  VALUES (" . implode(', ', array_keys(self::$dico_sugg)) . ");";
-        self::$q['dico_sugg'] = self::$pdo->prepare($sql);
+        self::prepare();
         // Charger les mots vides
         self::$stop = array_flip(explode("\n", file_get_contents(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'stop.csv')));
         // Pour export tsv, nom des colonnes
@@ -207,7 +213,7 @@ class Medict
         $pageq = self::$pdo->prepare("SELECT * FROM livancpages WHERE cote = ? ORDER BY cote, refimg");
         $pageq->execute(array($cote));
         self::$pdo->beginTransaction();
-        self::$pdo->query("SET unique_checks=0;");
+        // self::$pdo->query("SET unique_checks=0;");
         self::$pdo->query("SET foreign_key_checks=0;");
         // les propriétés de dico_titre et livanc doivent ici être déjà fixée
         self::$dico_entree[':nom_volume'] = null;
@@ -339,7 +345,7 @@ class Medict
                     self::$page_count++;
                     self::$dico_entree[':livancpages'] = $page['numauto'];
                     self::$dico_entree[':page'] = $page['page'];
-                    self::$dico_entree[':url'] = $page['url'];
+                    self::$dico_entree[':refimg'] = $page['refimg'];
                     $pageneuve = true;
                 }
                 self::$dico_entree[':vedette'] = $veds[$i];
@@ -472,28 +478,8 @@ class Medict
         }
         if (self::ECHO) echo "\n";
         // si plus d’une vedette écrire une suggestion
-        $count = count($terms);
-        if ($count > 1) {
-            self::$dico_sugg[':cote_volume'] = self::$dico_entree[':cote_volume'];
-            self::$dico_sugg[':dico_entree'] = self::$dico_index[':dico_entree'];
-            // A, B, C : A->B, A->C, B->A, B->C, C->A, C->B
-            for ($i = 0; $i < $count; $i++) {
-                self::$dico_sugg[':terme1'] = $terms[$i];
-                self::$dico_sugg[':terme1_sort'] = self::sortable(self::$dico_sugg[':terme1']);
-                for ($j = 0; $j < $count; $j++) {
-                    if ($terms[$i] ==  $terms[$j]) continue;
-                    self::$dico_sugg[':terme2'] = $terms[$j];
-                    self::$dico_sugg[':terme2_sort'] = self::sortable(self::$dico_sugg[':terme2']);
-                    if (self::WRITE) self::$q['dico_sugg']->execute(self::$dico_sugg); // insérer le terme
-                    if (self::ECHO) echo self::$dico_sugg[':cote_volume']
-                        . "\t" . self::$dico_sugg[':dico_entree']
-                        . "\t" . self::$dico_sugg[':terme1']
-                        . "\t" . self::$dico_sugg[':terme2']."\n";
-                }
-    
-            }
-        }
-
+        self::$dico_sugg[':dico_entree'] = self::$dico_index[':dico_entree'];
+        sugg($terms);
         /*
     // splitter sur les mots ?
     $terms = array_flip(preg_split('@[^\p{L}\-]+@u', $vedette));
@@ -512,84 +498,174 @@ class Medict
     }
 
     /**
+     * Combinatoire des suggestions entre plusieurs termes
+     */
+    public static function sugg($terms)
+    {
+        $terms = array_keys(array_flip($terms));
+        $count = count($terms);
+        if ($count <2) return;
+        // A, B, C : A->B, A->C, B->A, B->C, C->A, C->B
+        for ($i = 0; $i < $count; $i++) {
+            self::$dico_sugg[':terme1'] = $terms[$i];
+            self::$dico_sugg[':terme1_sort'] = self::sortable(self::$dico_sugg[':terme1']);
+            for ($j = 0; $j < $count; $j++) {
+                if ($terms[$i] ==  $terms[$j]) continue;
+                self::$dico_sugg[':terme2'] = $terms[$j];
+                self::$dico_sugg[':terme2_sort'] = self::sortable(self::$dico_sugg[':terme2']);
+                if (self::WRITE) self::$q['dico_sugg']->execute(self::$dico_sugg); // insérer le terme
+                if (self::ECHO) echo self::$dico_sugg[':dico_entree']
+                    . "\t" . self::$dico_sugg[':terme1']
+                    . "\t" . self::$dico_sugg[':terme2']."\n";
+            }
+
+        }
+
+    }
+
+    /**
      * Des updates après chargements
      */
     public static function updates()
     {
+        echo "Start sugg.score…";
         self::$pdo->beginTransaction();
         // score des suggestions (les update avec des select sont spécialement compliqués avec MySQL)
         $qcount = self::$pdo->prepare("SELECT COUNT(*) AS COUNT FROM dico_sugg WHERE terme1_sort = ? AND terme2_sort = ?");
         $qup = self::$pdo->prepare("UPDATE dico_sugg SET score = ? WHERE id = ?");
         foreach  (self::$pdo->query("SELECT * FROM dico_sugg", PDO::FETCH_ASSOC) as $row) {
             $qcount->execute(array($row['terme1_sort'], $row['terme2_sort']));
-            list($count) = $qcount->fetch();
+            list($count) = $qcount->fetch(PDO::FETCH_NUM);
             $qup->execute(array($count, $row['id']));
         }
         // loop on all
         self::$pdo->commit();
+        echo " …done.\n";
     }
 
 
-    public static function loadTei($srcxml)
+
+
+    public static function teiLoad($srcxml)
     {
-        $dom = Build::dom($srcxml);
-        $tsv = Build::transformDoc($dom, dirname(__FILE__) . '/medict2tsv.xsl');
+        $xml = new DOMDocument;
+        $xml->load($srcxml);
+        $xsl = new DOMDocument;
+        $xsl->load(__DIR__.'/medict2tsv.xsl');
+        $proc = new XSLTProcessor;
+        $proc->importStyleSheet($xsl);
         $srcname = pathinfo($srcxml, PATHINFO_FILENAME);
-        // pour débogage
+
+        echo "Transform " . $srcname;
+        $tsv = $proc->transformToXML($xml);
+
+
+        $cote_volume = preg_replace('@^medict@', '', $srcname);
+        self::$dico_entree[':cote_volume'] = $cote_volume;
+
+        // pour débogage, copier tsv
         $dsttsv = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'medict';
         if (!file_exists($dsttsv)) mkdir($dsttsv, 0777, true);
         $dsttsv .= DIRECTORY_SEPARATOR . $srcname . '.tsv';
         file_put_contents($dsttsv, $tsv);
-        return;
+        echo " => " . $dsttsv . "\n";
+        
+        echo "Delete old…";
+        // delete things from base about this dico
+        $q = self::$pdo->prepare("DELETE dico_sugg
+        FROM dico_sugg  INNER JOIN dico_entree ON
+            dico_sugg.dico_entree = dico_entree.id AND dico_entree.cote_volume=?
+        ");
+        $q->execute(array($cote_volume));
+        $q = self::$pdo->prepare("DELETE dico_index
+        FROM dico_index
+        INNER JOIN dico_entree ON
+            dico_index.dico_entree = dico_entree.id AND dico_entree.cote_volume=?");
+        $q->execute(array($cote_volume));
+        $q = self::$pdo->prepare("DELETE FROM dico_entree WHERE cote_volume= ?");
+        $q->execute(array($cote_volume));
+        echo " …DONE.\n";
 
-        // get the page id 
-        $livancpagesSel = self::$pdo->prepare("SELECT numauto, annee, cote FROM livancpages WHERE cote = ? AND page = ?");
-        $livancpages = -1;
-        $entryIns = self::$pdo->prepare("INSERT INTO entry (xmlid, pages, livancpages) VALUES (?, ?, ?);");
-        $entryId = -1;
-        $orthIns = self::$pdo->prepare("INSERT INTO orth (label, label_tr, small, , small_tr, entry, livancpages,) VALUES (?, ?, ?, ?, ?, ?, ?);");
-        $termIns = self::$pdo->prepare("INSERT INTO term (label, sort, entry, pb) VALUES (?, ?, ?, ?);");
-        $refIns = self::$pdo->prepare("INSERT INTO ref (target, entry, pb) VALUES (?, ?, ?);");
+        $cote_livre = preg_replace('@x\d\d$@', '', $cote_volume);
+        $q = self::$pdo->prepare("SELECT id, annee FROM dico_titre WHERE cote = ?");
+        $q->execute(array($cote_livre));
+        list($dico_titre, $annee_titre) = $q->fetch(PDO::FETCH_NUM);
+        self::$dico_entree[':dico_titre'] = $dico_titre;
+        self::$dico_entree[':annee_titre'] = $annee_titre;
+        self::$dico_index[':dico_titre'] = $dico_titre;
+        self::$dico_index[':annee_titre'] = $annee_titre;
 
 
-        $n = 1;
-        $first = true;
+        $q = self::$pdo->prepare("SELECT clenum, annee_iso  FROM livanc WHERE cote = ?");
+        $q->execute(array($cote_volume));
+        list($livanc, $annee_volume) = $q->fetch(PDO::FETCH_NUM);
+        self::$dico_entree[':livanc'] = $livanc;
+        self::$dico_entree[':annee_volume'] = $annee_volume;
+
+        echo "Start loading…";
         self::$pdo->beginTransaction();
+        self::$pdo->query("SET foreign_key_checks=0;");
+        self::prepare(); // préparer les requêtes d’insertion
+        // get the page id, select by 
+        $qlivancpages = self::$pdo->prepare("SELECT numauto FROM livancpages WHERE cote = ? AND refimg = ?");
+        $sugg = array();
         foreach (explode("\n", $tsv) as $l) {
-            if ($first) { // skip first line
-                $first = false;
-                continue;
-            }
             if (!$l) continue;
             $cell = explode("\t", $l);
             $object = $cell[0];
             if ($object == 'volume') {
-                $year = $cell[2];
-                $volumeIns->execute(array($srcname, $cell[1], $year));
-                $volumeId = self::$pdo->lastInsertId();
-            } else if ($object == 'pb') {
-                $pbIns->execute(array($cell[1], $cell[2], $volumeId));
-                $pbId = self::$pdo->lastInsertId();
-            } else if ($object == 'entry') {
-                $entryIns->execute(array($cell[1], $cell[2], $pbId));
-                $entryId = self::$pdo->lastInsertId();
-            } else if ($object == 'orth') {
-                $orth = mb_strtoupper(mb_substr($cell[1], 0, 1)) . mb_strtolower(mb_substr($cell[1], 1));
-                $sort = self::sortable($cell[1]);
-                $orthIns->execute(array($orth, $sort, $orth, $sort, $entryId, $pbId, $year));
-            } else if ($object == 'term') {
-                $sort = self::sortable($cell[1]);
-                $termIns->execute(array($cell[1], $sort, $entryId, $pbId));
-            } else if ($object == 'ref') {
-                $refIns->execute(array($cell[1], $entryId, $pbId));
-            } else {
-                echo "ligne: ", $n, "\n";
-                print_r($cell);
-                exit();
+                self::$dico_entree[':nom_volume'] = $cell[2];
+            } 
+            // set current page
+            else if ($object == 'pb') {
+                $facs =  $cell[2];
+                preg_match('@p=(\d+)@', $facs, $matches);
+                $refimg = str_pad($matches[1], 4, '0', STR_PAD_LEFT);
+                $qlivancpages->execute(array($cote_volume, $refimg));
+                $row = $qlivancpages->fetch(PDO::FETCH_ASSOC);
+                self::$dico_entree[':livancpages'] = $row['numauto'];
+                self::$dico_entree[':refimg'] = $refimg;
+                self::$dico_entree[':page'] = ltrim($cell[1], '0');
+            } 
+            // insert entry
+            else if ($object == 'entry') {
+                if (count($sugg)) {
+                    self::sugg($sugg);
+                }
+                $sugg = array();
+                self::$dico_entree[':vedette'] = $cell[1];
+                self::$dico_entree[':pps'] = $cell[2];
+                if (!$cell[3]) $cell[3] = null;
+                self::$dico_entree[':page2'] = ltrim($cell[3], '0');
+                self::$q['dico_entree']->execute(self::$dico_entree);
+                $dico_entree = self::$pdo->lastInsertId();
+                self::$dico_index[':dico_entree'] = $dico_entree;
+                self::$dico_sugg[':dico_entree'] = $dico_entree;
             }
-            $n++;
+            // insert index
+            else if ($object == 'orth') {
+                $terme = $cell[1];
+                $orth = mb_strtoupper(mb_substr($terme, 0, 1)) . mb_strtolower(mb_substr($terme, 1));
+                $sugg[] = $orth;
+                self::$dico_index[':type'] = 0;
+                self::$dico_index[':terme'] = $terme;
+                self::$dico_index[':terme_sort'] = '1' . self::sortable($cell[1]);
+                self::$q['dico_index']->execute(self::$dico_index);
+            } 
+            // insert locution in index
+            else if ($object == 'term') {
+                $terme = $cell[1];
+                self::$dico_index[':type'] = 2;
+                self::$dico_index[':terme'] = $terme;
+                self::$dico_index[':terme_sort'] = '1' . self::sortable($terme);
+                self::$q['dico_index']->execute(self::$dico_index);
+            } 
+            else if ($object == 'ref') {
+                $sugg[] = $cell[1];
+            }
         }
         self::$pdo->commit();
+        echo " …loaded.\n";
     }
 }
 
@@ -612,218 +688,3 @@ function startsWith($haystack, $needle)
     return substr($haystack, 0, strlen($needle)) === $needle;
 }
 
-/**
- * Different tools to build html sites
- */
-class Build
-{
-    /** XSLTProcessors */
-    private static $transcache = array();
-    /** get a temp dir */
-    private static $tmpdir;
-
-
-    static function mois($num)
-    {
-        $mois = array(
-            1 => 'janvier',
-            2 => 'février',
-            3 => 'mars',
-            4 => 'avril',
-            5 => 'mai',
-            6 => 'juin',
-            7 => 'juillet',
-            8 => 'août',
-            9 => 'septembre',
-            10 => 'octobre',
-            11 => 'novembre',
-            12 => 'décembre',
-        );
-        return $mois[(int)$num];
-    }
-
-    /**
-     * get a pdo link to an sqlite database with good options
-     */
-    static function pdo($file, $sql)
-    {
-        $dsn = "sqlite:" . $file;
-        // if not exists, create
-        if (!file_exists($file)) return self::sqlcreate($file, $sql);
-        else return self::sqlopen($file, $sql);
-    }
-
-    /**
-     * Open a pdo link
-     */
-    static private function sqlopen($file)
-    {
-        $dsn = "sqlite:" . $file;
-        $pdo = new PDO($dsn);
-        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        $pdo->exec("PRAGMA temp_store = 2;");
-        return $pdo;
-    }
-
-    /**
-     * Renew a database with an SQL script to create tables
-     */
-    static function sqlcreate($file, $sql)
-    {
-        if (file_exists($file)) unlink($file);
-        self::mkdir(dirname($file));
-        $pdo = self::sqlopen($file);
-        @chmod($file, 0775);
-        $pdo->exec($sql);
-        return $pdo;
-    }
-
-    /**
-     * Get a DOM document with best options
-     */
-    static function dom($xmlfile)
-    {
-        $dom = new DOMDocument();
-        $dom->preserveWhiteSpace = false;
-        $dom->formatOutput = true;
-        $dom->substituteEntities = true;
-        $dom->load($xmlfile, LIBXML_NOENT | LIBXML_NONET | LIBXML_NSCLEAN | LIBXML_NOCDATA | LIBXML_NOWARNING);
-        return $dom;
-    }
-
-    /**
-     * Build an xpath processor
-     */
-    static function xpath($dom)
-    {
-        $xpath = new DOMXPath($dom);
-        $xpath->registerNamespace("tei", "http://www.tei-c.org/ns/1.0");
-        $root = $dom->documentElement;
-        foreach ($xpath->query('namespace::*', $root) as $node) {
-            // echo $node->nodeName, " ", $node->nodeValue, "\n";
-            if ($node->nodeName == 'xmlns') $xpath->registerNamespace("default", $node->nodeValue);
-        }
-        return $xpath;
-    }
-
-    /**
-     * Xsl transform from xml file
-     */
-    static function transform($xmlfile, $xslfile, $dst = null, $pars = null)
-    {
-        return self::transformDoc(self::dom($xmlfile), $xslfile, $dst, $pars);
-    }
-
-    static public function transformXml($xml, $xslfile, $dst = null, $pars = null)
-    {
-        $dom = new DOMDocument();
-        $dom->preserveWhiteSpace = false;
-        $dom->formatOutput = true;
-        $dom->substituteEntities = true;
-        $dom->loadXml($xml, LIBXML_NOENT | LIBXML_NONET | LIBXML_NSCLEAN | LIBXML_NOCDATA | LIBXML_NOWARNING);
-        return self::transformDoc($dom, $xslfile, $dst, $pars);
-    }
-
-    /**
-     * An xslt transformer with cache
-     * TOTHINK : deal with errors
-     */
-    static public function transformDoc($dom, $xslfile, $dst = null, $pars = null)
-    {
-        if (!is_a($dom, 'DOMDocument')) {
-            throw new Exception('Source is not a DOM document, use transform() for a file, or transformXml() for an xml as a string.');
-        }
-        $key = realpath($xslfile);
-        // cache compiled xsl
-        if (!isset(self::$transcache[$key])) {
-            $trans = new XSLTProcessor();
-            $trans->registerPHPFunctions();
-            // allow generation of <xsl:document>
-            if (defined('XSL_SECPREFS_NONE')) $prefs = XSL_SECPREFS_NONE;
-            else if (defined('XSL_SECPREF_NONE')) $prefs = XSL_SECPREF_NONE;
-            else $prefs = 0;
-            if (method_exists($trans, 'setSecurityPreferences')) $oldval = $trans->setSecurityPreferences($prefs);
-            else if (method_exists($trans, 'setSecurityPrefs')) $oldval = $trans->setSecurityPrefs($prefs);
-            else ini_set("xsl.security_prefs",  $prefs);
-            $xsldom = new DOMDocument();
-            $xsldom->load($xslfile);
-            $trans->importStyleSheet($xsldom);
-            self::$transcache[$key] = $trans;
-        }
-        $trans = self::$transcache[$key];
-        // add params
-        if (isset($pars) && count($pars)) {
-            foreach ($pars as $key => $value) {
-                $trans->setParameter(null, $key, $value);
-            }
-        }
-        // return a DOM document for efficient piping
-        if (is_a($dst, 'DOMDocument')) {
-            $ret = $trans->transformToDoc($dom);
-        } else if ($dst != '') {
-            self::mkdir(dirname($dst));
-            $trans->transformToURI($dom, $dst);
-            $ret = $dst;
-        }
-        // no dst file, return String
-        else {
-            $ret = $trans->transformToXML($dom);
-        }
-        // reset parameters ! or they will kept on next transform if transformer is reused
-        if (isset($pars) && count($pars)) {
-            foreach ($pars as $key => $value) $trans->removeParameter(null, $key);
-        }
-        return $ret;
-    }
-
-    /**
-     * A safe mkdir dealing with rights
-     */
-    static function mkdir($dir)
-    {
-        if (is_dir($dir)) return $dir;
-        if (!mkdir($dir, 0775, true)) throw new Exception("Directory not created: " . $dir);
-        @chmod(dirname($dir), 0775);  // let @, if www-data is not owner but allowed to write
-        return $dir;
-    }
-
-    /**
-     * Recursive deletion of a directory
-     * If $keep = true, keep directory with its acl
-     */
-    static function rmdir($dir, $keep = false)
-    {
-        $dir = rtrim($dir, "/\\") . DIRECTORY_SEPARATOR;
-        if (!is_dir($dir)) return $dir; // maybe deleted
-        if (!($handle = opendir($dir))) throw new Exception("Read impossible " . $file);
-        while (false !== ($filename = readdir($handle))) {
-            if ($filename == "." || $filename == "..") continue;
-            $file = $dir . $filename;
-            if (is_link($file)) throw new Exception("Delete a link? " . $file);
-            else if (is_dir($file)) self::rmdir($file);
-            else unlink($file);
-        }
-        closedir($handle);
-        if (!$keep) rmdir($dir);
-        return $dir;
-    }
-
-
-    /**
-     * Recursive copy of folder
-     */
-    static function rcopy($srcdir, $dstdir)
-    {
-        $srcdir = rtrim($srcdir, "/\\") . DIRECTORY_SEPARATOR;
-        $dstdir = rtrim($dstdir, "/\\") . DIRECTORY_SEPARATOR;
-        self::mkdir($dstdir);
-        $dir = opendir($srcdir);
-        while (false !== ($filename = readdir($dir))) {
-            if ($filename[0] == '.') continue;
-            $srcfile = $srcdir . $filename;
-            if (is_dir($srcfile)) self::rcopy($srcfile, $dstdir . $filename);
-            else copy($srcfile, $dstdir . $filename);
-        }
-        closedir($dir);
-    }
-}

@@ -518,9 +518,7 @@ class Medict
                     . "\t" . self::$dico_sugg[':terme1']
                     . "\t" . self::$dico_sugg[':terme2']."\n";
             }
-
         }
-
     }
 
     /**
@@ -608,7 +606,7 @@ class Medict
         self::prepare(); // préparer les requêtes d’insertion
         // get the page id, select by 
         $qlivancpages = self::$pdo->prepare("SELECT numauto FROM livancpages WHERE cote = ? AND refimg = ?");
-        $sugg = array();
+        $orth = array();
         foreach (explode("\n", $tsv) as $l) {
             if (!$l) continue;
             $cell = explode("\t", $l);
@@ -629,10 +627,7 @@ class Medict
             } 
             // insert entry
             else if ($object == 'entry') {
-                if (count($sugg)) {
-                    self::sugg($sugg);
-                }
-                $sugg = array();
+                $orth = array();
                 self::$dico_entree[':vedette'] = $cell[1];
                 self::$dico_entree[':pps'] = $cell[2];
                 if (!$cell[3]) $cell[3] = null;
@@ -645,27 +640,67 @@ class Medict
             // insert index
             else if ($object == 'orth') {
                 $terme = $cell[1];
-                $orth = mb_strtoupper(mb_substr($terme, 0, 1)) . mb_strtolower(mb_substr($terme, 1));
-                $sugg[] = $orth;
+                $terme = mb_strtoupper(mb_substr($terme, 0, 1)) . mb_strtolower(mb_substr($terme, 1));
+                $terme_sort = self::sortable($terme);
+                $orth[$terme_sort] = $terme;
                 self::$dico_index[':type'] = 0;
                 self::$dico_index[':terme'] = $terme;
-                self::$dico_index[':terme_sort'] = '1' . self::sortable($cell[1]);
+                self::$dico_index[':terme_sort'] = '1' . $terme_sort;
                 self::$q['dico_index']->execute(self::$dico_index);
             } 
             // insert locution in index
             else if ($object == 'term') {
                 $terme = $cell[1];
-                self::$dico_index[':type'] = 2;
-                self::$dico_index[':terme'] = $terme;
-                self::$dico_index[':terme_sort'] = '1' . self::sortable($terme);
-                self::$q['dico_index']->execute(self::$dico_index);
+                $terme_sort = self::sortable($terme);
+                if (!isset($orth[$terme_sort])) {
+                    self::$dico_index[':type'] = 2;
+                    self::$dico_index[':terme'] = $terme;
+                    self::$dico_index[':terme_sort'] = '1' . $terme_sort;
+                    self::$q['dico_index']->execute(self::$dico_index);
+                }
             } 
             else if ($object == 'ref') {
-                $sugg[] = $cell[1];
+                self::teiSugg($orth, $cell[1]);
+            }
+            // ce qu’il faut faire à la fin
+            else if ($object == '/entry') {
+                foreach ($orth as $src_sort => $src){
+                    array_shift($orth);
+                    foreach ($orth as $dst_sort => $dst){
+                        self::$dico_sugg[':terme1'] = $src;
+                        self::$dico_sugg[':terme1_sort'] = $src_sort;
+                        self::$dico_sugg[':terme2'] = $dst;
+                        self::$dico_sugg[':terme2_sort'] = $dst_sort;
+                        self::$q['dico_sugg']->execute(self::$dico_sugg);
+                        self::$dico_sugg[':terme1'] = $dst;
+                        self::$dico_sugg[':terme1_sort'] = $dst_sort;
+                        self::$dico_sugg[':terme2'] = $src;
+                        self::$dico_sugg[':terme2_sort'] = $src_sort;
+                        self::$q['dico_sugg']->execute(self::$dico_sugg);
+                    }    
+                }
             }
         }
         self::$pdo->commit();
         echo " …loaded.\n";
+    }
+
+    public static function teiSugg($orth, $dst)
+    {
+        $dst_sort = self::sortable($dst);
+        foreach ($orth as $src_sort => $src){
+            self::$dico_sugg[':terme1'] = $src;
+            self::$dico_sugg[':terme1_sort'] = $src_sort;
+            self::$dico_sugg[':terme2'] = $dst;
+            self::$dico_sugg[':terme2_sort'] = $dst_sort;
+            self::$q['dico_sugg']->execute(self::$dico_sugg);
+            self::$dico_sugg[':terme1'] = $dst;
+            self::$dico_sugg[':terme1_sort'] = $dst_sort;
+            self::$dico_sugg[':terme2'] = $src;
+            self::$dico_sugg[':terme2_sort'] = $src_sort;
+            self::$q['dico_sugg']->execute(self::$dico_sugg);
+        }
+
     }
 }
 

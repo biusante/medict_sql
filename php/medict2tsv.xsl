@@ -51,12 +51,14 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="@n"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@facs"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="@corresp"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="tei:entry">
-    <xsl:value-of select="local-name()"/>
+  <xsl:template match="tei:entry | tei:entryFree">
+    <xsl:text>entry</xsl:text>
     <xsl:value-of select="$tab"/>
     <!-- Vedette -->
     <xsl:for-each select="tei:form/tei:orth">

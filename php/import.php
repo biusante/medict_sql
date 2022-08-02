@@ -5,10 +5,9 @@
  */
 
 Medict::init();
-/*
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-*/
+return;
 
 // Medict::ancLoad(); // loop on table dico_titre to load old data
 

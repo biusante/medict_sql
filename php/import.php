@@ -7,12 +7,13 @@
 Medict::init();
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-return;
-
 // Medict::ancLoad(); // loop on table dico_titre to load old data
-
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
-foreach (array('medict07399.xml') as $srcBasename) {
+foreach (array(
+    'medict07399.xml',
+    'medict27898.xml',
+    'medict37020d.xml',
+) as $srcBasename) {
     $srcFile = $srcDir . $srcBasename;
     Medict::loadTei($srcFile);
 }
@@ -173,6 +174,7 @@ class Medict
         $qdico_titre->execute($pars);
 
         while ($dico_titre = $qdico_titre->fetch()) {
+            echo "[SQL load] " . $dico_titre['nom'] . "\n";
             self::$dico_entree[':dico_titre']  = self::$dico_index[':dico_titre'] = $dico_titre['id'];
             self::$dico_entree[':annee_titre'] = self::$dico_index[':annee_titre'] = $dico_titre['annee'];
             // boucler sur les volumes
@@ -485,7 +487,7 @@ class Medict
         if (self::ECHO) echo "\n";
         // si plus d’une vedette écrire une suggestion
         self::$dico_sugg[':dico_entree'] = self::$dico_index[':dico_entree'];
-        sugg($terms);
+        self::sugg($terms);
         /*
     // splitter sur les mots ?
     $terms = array_flip(preg_split('@[^\p{L}\-]+@u', $vedette));

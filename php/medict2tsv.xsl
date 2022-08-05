@@ -61,7 +61,7 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:text>entry</xsl:text>
     <xsl:value-of select="$tab"/>
     <!-- Vedette -->
-    <xsl:for-each select="tei:form/tei:orth">
+    <xsl:for-each select=".//tei:orth">
       <xsl:if test="position() != 1">, </xsl:if>
       <xsl:value-of select="."/>
     </xsl:for-each>

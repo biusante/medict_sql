@@ -4,15 +4,19 @@
  * Classe pour construire la base de données pour les dictionnaires
  */
 
+// il faudrait une API ligne de commande plus sympa pour sélectionner les opérations
+
 Medict::init();
+/*
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-// Medict::ancLoad(); // loop on table dico_titre to load old data
+Medict::ancLoad(); // loop on table dico_titre to load old data
+*/
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
-    'medict07399.xml',
     'medict27898.xml',
     'medict37020d.xml',
+    'medict07399.xml',
 ) as $srcBasename) {
     $srcFile = $srcDir . $srcBasename;
     Medict::loadTei($srcFile);
@@ -62,10 +66,20 @@ class Medict
     /** dico_sugg, insert courant, partagé par référence */
     static $dico_sugg = array(
         ':dico_entree' => -1,
-        ':terme1' => null,
-        ':terme1_sort' => null,
-        ':terme2' => null,
-        ':terme2_sort' => null,
+        ':src' => null,
+        ':src_sort' => null,
+        ':dst' => null,
+        ':dst_sort' => null,
+    );
+    /** dico_trad, insert courant, partagé par référence */
+    static $dico_trad = array(
+        ':dico_entree' => -1,
+        ':src' => null,
+        ':src_sort' => null,
+        ':src_langue' => null,
+        ':dst' => null,
+        ':dst_sort' => null,
+        ':dst_langue' => null,
     );
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
@@ -143,6 +157,11 @@ class Medict
         (" . str_replace(':', '', implode(', ', array_keys(self::$dico_sugg))) . ") 
     VALUES (" . implode(', ', array_keys(self::$dico_sugg)) . ");";
         self::$q['dico_sugg'] = self::$pdo->prepare($sql);
+        // traduction, vedette => tard
+        $sql = "INSERT INTO dico_trad 
+        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_trad))) . ") 
+    VALUES (" . implode(', ', array_keys(self::$dico_trad)) . ");";
+        self::$q['dico_trad'] = self::$pdo->prepare($sql);
     }
 
     /**
@@ -514,16 +533,16 @@ class Medict
         if ($count < 2) return;
         // A, B, C : A->B, A->C, B->A, B->C, C->A, C->B
         for ($i = 0; $i < $count; $i++) {
-            self::$dico_sugg[':terme1'] = $terms[$i];
-            self::$dico_sugg[':terme1_sort'] = self::sortable(self::$dico_sugg[':terme1']);
+            self::$dico_sugg[':src'] = $terms[$i];
+            self::$dico_sugg[':src_sort'] = self::sortable(self::$dico_sugg[':src']);
             for ($j = 0; $j < $count; $j++) {
                 if ($terms[$i] ==  $terms[$j]) continue;
-                self::$dico_sugg[':terme2'] = $terms[$j];
-                self::$dico_sugg[':terme2_sort'] = self::sortable(self::$dico_sugg[':terme2']);
+                self::$dico_sugg[':dst'] = $terms[$j];
+                self::$dico_sugg[':dst_sort'] = self::sortable(self::$dico_sugg[':dst']);
                 if (self::WRITE) self::$q['dico_sugg']->execute(self::$dico_sugg); // insérer le terme
                 if (self::ECHO) echo self::$dico_sugg[':dico_entree']
-                    . "\t" . self::$dico_sugg[':terme1']
-                    . "\t" . self::$dico_sugg[':terme2'] . "\n";
+                    . "\t" . self::$dico_sugg[':src']
+                    . "\t" . self::$dico_sugg[':dst'] . "\n";
             }
         }
     }
@@ -536,10 +555,10 @@ class Medict
         echo "Start sugg.score…";
         self::$pdo->beginTransaction();
         // score des suggestions (les update avec des select sont spécialement compliqués avec MySQL)
-        $qcount = self::$pdo->prepare("SELECT COUNT(*) AS COUNT FROM dico_sugg WHERE terme1_sort = ? AND terme2_sort = ?");
+        $qcount = self::$pdo->prepare("SELECT COUNT(*) AS COUNT FROM dico_sugg WHERE src_sort = ? AND dst_sort = ?");
         $qup = self::$pdo->prepare("UPDATE dico_sugg SET score = ? WHERE id = ?");
         foreach (self::$pdo->query("SELECT * FROM dico_sugg", PDO::FETCH_ASSOC) as $row) {
-            $qcount->execute(array($row['terme1_sort'], $row['terme2_sort']));
+            $qcount->execute(array($row['src_sort'], $row['dst_sort']));
             list($count) = $qcount->fetch(PDO::FETCH_NUM);
             $qup->execute(array($count, $row['id']));
         }
@@ -575,29 +594,28 @@ class Medict
         // suppriner les données concernant cette cote
         echo "Delete old…";
         // delete things from base about this dico
-        $q = self::$pdo->prepare("DELETE dico_sugg
-        FROM dico_sugg  INNER JOIN dico_entree ON
-            dico_sugg.dico_entree = dico_entree.id AND dico_entree.cote_volume=?
+        $q = self::$pdo->prepare("
+        DELETE dico_entree, dico_index, dico_sugg, dico_trad 
+        FROM dico_entree
+        JOIN dico_index ON dico_index.dico_entree = dico_entree.id
+        JOIN dico_sugg ON dico_sugg.dico_entree = dico_entree.id
+        JOIN dico_trad ON dico_trad.dico_entree = dico_entree.id
+        WHERE dico_entree.cote_volume=?
         ");
-        $q->execute(array($cote_volume));
-        $q = self::$pdo->prepare("DELETE dico_index
-        FROM dico_index
-        INNER JOIN dico_entree ON
-            dico_index.dico_entree = dico_entree.id AND dico_entree.cote_volume=?");
-        $q->execute(array($cote_volume));
-        $q = self::$pdo->prepare("DELETE FROM dico_entree WHERE cote_volume= ?");
         $q->execute(array($cote_volume));
         echo " …DONE.\n";
 
         // rependre des données de la table de biblio
         $cote_livre = preg_replace('@x\d\d$@', '', $cote_volume);
-        $q = self::$pdo->prepare("SELECT id, annee FROM dico_titre WHERE cote = ?");
+        $q = self::$pdo->prepare("SELECT id, annee, langue_vedette FROM dico_titre WHERE cote = ?");
         $q->execute(array($cote_livre));
-        list($dico_titre, $annee_titre) = $q->fetch(PDO::FETCH_NUM);
+        list($dico_titre, $annee_titre, $langue_vedette) = $q->fetch(PDO::FETCH_NUM);
         self::$dico_entree[':dico_titre'] = $dico_titre;
         self::$dico_entree[':annee_titre'] = $annee_titre;
         self::$dico_index[':dico_titre'] = $dico_titre;
         self::$dico_index[':annee_titre'] = $annee_titre;
+        self::$dico_trad[':src_langue'] = $langue_vedette;
+        if (!self::$dico_trad[':src_langue']) self::$dico_trad[':src_langue'] = 'fr';
 
         // attaper des données, si possible
         $q = self::$pdo->prepare("SELECT clenum, annee_iso  FROM livanc WHERE cote = ?");
@@ -622,7 +640,7 @@ class Medict
         // préparer les requêtes d’insertion
         // get the page id, select by 
         $qlivancpages = self::$pdo->prepare("SELECT numauto FROM livancpages WHERE cote = ? AND refimg = ?");
-        $orth = array();
+        $orth = array(); // keep list of orth if multiple
         foreach (explode("\n", $tsv) as $l) {
             if (!$l) continue;
             $cell = explode("\t", $l);
@@ -658,6 +676,7 @@ class Medict
                 $dico_entree = self::$pdo->lastInsertId();
                 self::$dico_index[':dico_entree'] = $dico_entree;
                 self::$dico_sugg[':dico_entree'] = $dico_entree;
+                self::$dico_trad[':dico_entree'] = $dico_entree;
             }
             // insert index
             else if ($object == 'orth') {
@@ -680,23 +699,39 @@ class Medict
                     self::$dico_index[':terme_sort'] = '1' . $terme_sort;
                     self::$q['dico_index']->execute(self::$dico_index);
                 }
-            } else if ($object == 'ref') {
+            }
+            // traduction
+            else if ($object == 'foreign') {
+                $dst = $cell[1];
+                self::$dico_trad[':dst'] = $dst;
+                self::$dico_trad[':dst_sort'] = self::sortable($dst);
+                self::$dico_trad[':dst_langue'] = $cell[2];
+                // ici on doit avoir toutes les vedettes
+                foreach ($orth as $src_sort => $src) {
+                    self::$dico_trad[':src'] = $src;
+                    self::$dico_trad[':src_sort'] = $src_sort;
+                    self::$q['dico_trad']->execute(self::$dico_trad);
+                }
+            }
+            // renvoi
+            else if ($object == 'ref') {
                 self::teiSugg($orth, $cell[1]);
             }
             // ce qu’il faut faire à la fin
             else if ($object == '/entry') {
+                // lien inverse entre les vedettes
                 foreach ($orth as $src_sort => $src) {
                     array_shift($orth);
                     foreach ($orth as $dst_sort => $dst) {
-                        self::$dico_sugg[':terme1'] = $src;
-                        self::$dico_sugg[':terme1_sort'] = $src_sort;
-                        self::$dico_sugg[':terme2'] = $dst;
-                        self::$dico_sugg[':terme2_sort'] = $dst_sort;
+                        self::$dico_sugg[':src'] = $src;
+                        self::$dico_sugg[':src_sort'] = $src_sort;
+                        self::$dico_sugg[':dst'] = $dst;
+                        self::$dico_sugg[':dst_sort'] = $dst_sort;
                         self::$q['dico_sugg']->execute(self::$dico_sugg);
-                        self::$dico_sugg[':terme1'] = $dst;
-                        self::$dico_sugg[':terme1_sort'] = $dst_sort;
-                        self::$dico_sugg[':terme2'] = $src;
-                        self::$dico_sugg[':terme2_sort'] = $src_sort;
+                        self::$dico_sugg[':src'] = $dst;
+                        self::$dico_sugg[':src_sort'] = $dst_sort;
+                        self::$dico_sugg[':dst'] = $src;
+                        self::$dico_sugg[':dst_sort'] = $src_sort;
                         self::$q['dico_sugg']->execute(self::$dico_sugg);
                     }
                 }
@@ -710,15 +745,15 @@ class Medict
     {
         $dst_sort = self::sortable($dst);
         foreach ($orth as $src_sort => $src) {
-            self::$dico_sugg[':terme1'] = $src;
-            self::$dico_sugg[':terme1_sort'] = $src_sort;
-            self::$dico_sugg[':terme2'] = $dst;
-            self::$dico_sugg[':terme2_sort'] = $dst_sort;
+            self::$dico_sugg[':src'] = $src;
+            self::$dico_sugg[':src_sort'] = $src_sort;
+            self::$dico_sugg[':dst'] = $dst;
+            self::$dico_sugg[':dst_sort'] = $dst_sort;
             self::$q['dico_sugg']->execute(self::$dico_sugg);
-            self::$dico_sugg[':terme1'] = $dst;
-            self::$dico_sugg[':terme1_sort'] = $dst_sort;
-            self::$dico_sugg[':terme2'] = $src;
-            self::$dico_sugg[':terme2_sort'] = $src_sort;
+            self::$dico_sugg[':src'] = $dst;
+            self::$dico_sugg[':src_sort'] = $dst_sort;
+            self::$dico_sugg[':dst'] = $src;
+            self::$dico_sugg[':dst_sort'] = $src_sort;
             self::$q['dico_sugg']->execute(self::$dico_sugg);
         }
     }

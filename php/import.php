@@ -10,7 +10,7 @@ Medict::init();
 /*
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-Medict::ancLoad(); // loop on table dico_titre to load old data
+Medict::ancLoad(); // fait un truncate bien propre
 */
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
@@ -76,10 +76,10 @@ class Medict
         ':dico_entree' => -1,
         ':src' => null,
         ':src_sort' => null,
-        ':src_langue' => null,
+        ':src_lang' => null,
         ':dst' => null,
         ':dst_sort' => null,
-        ':dst_langue' => null,
+        ':dst_lang' => null,
     );
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
@@ -175,6 +175,7 @@ class Medict
         self::$pdo->query("TRUNCATE TABLE dico_index");
         self::$pdo->query("TRUNCATE TABLE dico_entree");
         self::$pdo->query("TRUNCATE TABLE dico_sugg");
+        self::$pdo->query("TRUNCATE TABLE dico_trad");
         self::$page_count = 0;
         self::prepare();
         // Charger les mots vides
@@ -198,7 +199,7 @@ class Medict
             self::$dico_entree[':annee_titre'] = self::$dico_index[':annee_titre'] = $dico_titre['annee'];
             // boucler sur les volumes
             $sql = "SELECT clenum, cote, annee_iso, auteur FROM livanc WHERE ";
-            if ($dico_titre['nb_volume'] < 2) {
+            if ($dico_titre['vols'] < 2) {
                 $sql .= " cote = ?";
             } else {
                 $sql .= " cotemere = ? ORDER BY cote";
@@ -210,7 +211,7 @@ class Medict
                 self::$dico_entree[':cote_volume'] = $volume['cote'];
                 self::$dico_entree[':annee_volume'] = substr($volume['annee_iso'], 0, 4); // livanc.annee : "An VII", livanc.annee_iso : "1798/1799"
                 self::$dico_entree[':nom_volume'] = null; // absent de cette table, à prendre dans livancpages
-                self::$dico_index[':langue'] = $dico_titre['langue_vedette']; // mettre à jour la langue de la vedette
+                self::$dico_index[':langue'] = $dico_titre['orth_lang']; // mettre à jour la langue de la vedette
 
 
                 if (self::ECHO) fwrite(STDERR, $dico_titre['nom'] . "\t" . self::$dico_entree[':annee_volume'] . "\t" . self::$dico_entree[':cote_volume'] . "\n");
@@ -568,54 +569,83 @@ class Medict
     }
 
 
-
-
-    public static function loadTei($srcxml)
+    /**
+     * Charger un glossaire de traductions non consultable comme 
+     */
+    public static function loadGloss($teiFile)
     {
+        $tsv = self::tsv($teiFile);
+        // delet old ?
+
+    }
+
+
+    public static function tsv($teiFile)
+    {
+        $teiName = pathinfo($teiFile, PATHINFO_FILENAME);
+        echo "Transform " . $teiName;
         // XML -> tsv, suite plate d’événements pour l’insertion
         $xml = new DOMDocument;
-        $xml->load($srcxml);
+        $xml->load($teiFile);
         $xsl = new DOMDocument;
         $xsl->load(__DIR__ . '/medict2tsv.xsl');
         $proc = new XSLTProcessor;
         $proc->importStyleSheet($xsl);
-        $srcname = pathinfo($srcxml, PATHINFO_FILENAME);
-        // quelques données à insérer
-        $cote_volume = preg_replace('@^medict@', '', $srcname);
-        self::$dico_entree[':cote_volume'] = $cote_volume;
-        echo "Transform " . $srcname;
         $tsv = $proc->transformToXML($xml);
-        $dsttsv = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'medict';
-        if (!file_exists($dsttsv)) mkdir($dsttsv, 0777, true);
-        $dsttsv .= DIRECTORY_SEPARATOR . $srcname . '.tsv';
-        file_put_contents($dsttsv, $tsv);
-        echo " => " . $dsttsv . "\n";
+        $dstTsv = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'medict';
+        if (!file_exists($dstTsv)) mkdir($dstTsv, 0777, true);
+        $dstTsv .= DIRECTORY_SEPARATOR . $teiName . '.tsv';
+        file_put_contents($dstTsv, $tsv);
+        echo " => " . $dstTsv . "\n";
+        return $tsv;
+    }
+
+    public static function loadTei($teiFile)
+    {
+        $tsv = self::tsv($teiFile);        
+        $teiName = pathinfo($teiFile, PATHINFO_FILENAME);
+
+
+        // quelques données à insérer
+        $cote_volume = preg_replace('@^medict@', '', $teiName);
+        self::$dico_entree[':cote_volume'] = $cote_volume;
 
         // suppriner les données concernant cette cote
         echo "Delete old…";
-        // delete things from base about this dico
         $q = self::$pdo->prepare("
-        DELETE dico_entree, dico_index, dico_sugg, dico_trad 
-        FROM dico_entree
-        JOIN dico_index ON dico_index.dico_entree = dico_entree.id
-        JOIN dico_sugg ON dico_sugg.dico_entree = dico_entree.id
-        JOIN dico_trad ON dico_trad.dico_entree = dico_entree.id
-        WHERE dico_entree.cote_volume=?
+        DELETE FROM dico_index WHERE dico_entree IN (
+            SELECT id FROM dico_entree WHERE cote_volume = ?
+        )
+        ");
+        $q->execute(array($cote_volume));
+        $q = self::$pdo->prepare("
+        DELETE FROM dico_sugg WHERE dico_entree IN (
+            SELECT id FROM dico_entree WHERE cote_volume = ?
+        )
+        ");
+        $q->execute(array($cote_volume));
+        $q = self::$pdo->prepare("
+        DELETE FROM dico_trad WHERE dico_entree IN (
+            SELECT id FROM dico_entree WHERE cote_volume = ?
+        )
+        ");
+        $q->execute(array($cote_volume));
+        $q = self::$pdo->prepare("
+        DELETE FROM dico_entree WHERE cote_volume = ?
         ");
         $q->execute(array($cote_volume));
         echo " …DONE.\n";
 
         // rependre des données de la table de biblio
         $cote_livre = preg_replace('@x\d\d$@', '', $cote_volume);
-        $q = self::$pdo->prepare("SELECT id, annee, langue_vedette FROM dico_titre WHERE cote = ?");
+        $q = self::$pdo->prepare("SELECT id, annee, orth_lang FROM dico_titre WHERE cote = ?");
         $q->execute(array($cote_livre));
-        list($dico_titre, $annee_titre, $langue_vedette) = $q->fetch(PDO::FETCH_NUM);
+        list($dico_titre, $annee_titre, $orth_lang) = $q->fetch(PDO::FETCH_NUM);
         self::$dico_entree[':dico_titre'] = $dico_titre;
         self::$dico_entree[':annee_titre'] = $annee_titre;
         self::$dico_index[':dico_titre'] = $dico_titre;
         self::$dico_index[':annee_titre'] = $annee_titre;
-        self::$dico_trad[':src_langue'] = $langue_vedette;
-        if (!self::$dico_trad[':src_langue']) self::$dico_trad[':src_langue'] = 'fr';
+        if (!$orth_lang) $orth_lang = 'fr';
 
         // attaper des données, si possible
         $q = self::$pdo->prepare("SELECT clenum, annee_iso  FROM livanc WHERE cote = ?");
@@ -640,7 +670,7 @@ class Medict
         // préparer les requêtes d’insertion
         // get the page id, select by 
         $qlivancpages = self::$pdo->prepare("SELECT numauto FROM livancpages WHERE cote = ? AND refimg = ?");
-        $orth = array(); // keep list of orth if multiple
+        $orth_list = array(); // keep list of orth if multiple
         foreach (explode("\n", $tsv) as $l) {
             if (!$l) continue;
             $cell = explode("\t", $l);
@@ -667,7 +697,7 @@ class Medict
             }
             // insert entry
             else if ($object == 'entry') {
-                $orth = array();
+                $orth_list = array();
                 self::$dico_entree[':vedette'] = $cell[1];
                 self::$dico_entree[':pps'] = $cell[2];
                 if (!$cell[3]) $cell[3] = null;
@@ -683,7 +713,7 @@ class Medict
                 $terme = $cell[1];
                 $terme = mb_strtoupper(mb_substr($terme, 0, 1)) . mb_strtolower(mb_substr($terme, 1));
                 $terme_sort = self::sortable($terme);
-                $orth[$terme_sort] = $terme;
+                $orth_list[$terme_sort] = $terme;
                 self::$dico_index[':type'] = 0;
                 self::$dico_index[':terme'] = $terme;
                 self::$dico_index[':terme_sort'] = '1' . $terme_sort;
@@ -693,36 +723,46 @@ class Medict
             else if ($object == 'term') {
                 $terme = $cell[1];
                 $terme_sort = self::sortable($terme);
-                if (!isset($orth[$terme_sort])) {
+                if (!isset($orth_list[$terme_sort])) {
                     self::$dico_index[':type'] = 2;
                     self::$dico_index[':terme'] = $terme;
                     self::$dico_index[':terme_sort'] = '1' . $terme_sort;
                     self::$q['dico_index']->execute(self::$dico_index);
                 }
             }
-            // traduction
+            // traduction, on enregistre dans les 2 sens
             else if ($object == 'foreign') {
-                $dst = $cell[1];
-                self::$dico_trad[':dst'] = $dst;
-                self::$dico_trad[':dst_sort'] = self::sortable($dst);
-                self::$dico_trad[':dst_langue'] = $cell[2];
+                $foreign = $cell[1];
+                $foreign_sort = self::sortable($foreign);
+                $foreign_lang = $cell[2];
                 // ici on doit avoir toutes les vedettes
-                foreach ($orth as $src_sort => $src) {
-                    self::$dico_trad[':src'] = $src;
-                    self::$dico_trad[':src_sort'] = $src_sort;
+                foreach ($orth_list as $orth_sort => $orth) {
+                    self::$dico_trad[':src'] = $orth;
+                    self::$dico_trad[':src_sort'] = $orth_sort;
+                    self::$dico_trad[':src_lang'] = $orth_lang;
+                    self::$dico_trad[':dst'] = $foreign;
+                    self::$dico_trad[':dst_sort'] = $foreign_sort;
+                    self::$dico_trad[':dst_lang'] = $foreign_lang;
+                    self::$q['dico_trad']->execute(self::$dico_trad);
+                    self::$dico_trad[':src'] = $foreign;
+                    self::$dico_trad[':src_sort'] = $foreign_sort;
+                    self::$dico_trad[':src_lang'] = $foreign_lang;
+                    self::$dico_trad[':dst'] = $orth;
+                    self::$dico_trad[':dst_sort'] = $orth_sort;
+                    self::$dico_trad[':dst_lang'] = $orth_lang;
                     self::$q['dico_trad']->execute(self::$dico_trad);
                 }
             }
             // renvoi
             else if ($object == 'ref') {
-                self::teiSugg($orth, $cell[1]);
+                self::teiSugg($orth_list, $cell[1]);
             }
             // ce qu’il faut faire à la fin
             else if ($object == '/entry') {
-                // lien inverse entre les vedettes
-                foreach ($orth as $src_sort => $src) {
-                    array_shift($orth);
-                    foreach ($orth as $dst_sort => $dst) {
+                // lien de suggestion entre les vedettes
+                foreach ($orth_list as $src_sort => $src) {
+                    array_shift($orth_list);
+                    foreach ($orth_list as $dst_sort => $dst) {
                         self::$dico_sugg[':src'] = $src;
                         self::$dico_sugg[':src_sort'] = $src_sort;
                         self::$dico_sugg[':dst'] = $dst;
@@ -741,19 +781,19 @@ class Medict
         echo " …loaded.\n";
     }
 
-    public static function teiSugg($orth, $dst)
+    public static function teiSugg(&$orth_list, $foreign)
     {
-        $dst_sort = self::sortable($dst);
-        foreach ($orth as $src_sort => $src) {
-            self::$dico_sugg[':src'] = $src;
-            self::$dico_sugg[':src_sort'] = $src_sort;
-            self::$dico_sugg[':dst'] = $dst;
-            self::$dico_sugg[':dst_sort'] = $dst_sort;
+        $foreign_sort = self::sortable($foreign);
+        foreach ($orth_list as $orth_sort => $orth) {
+            self::$dico_sugg[':src'] = $orth;
+            self::$dico_sugg[':src_sort'] = $orth_sort;
+            self::$dico_sugg[':dst'] = $foreign;
+            self::$dico_sugg[':dst_sort'] = $foreign_sort;
             self::$q['dico_sugg']->execute(self::$dico_sugg);
-            self::$dico_sugg[':src'] = $dst;
-            self::$dico_sugg[':src_sort'] = $dst_sort;
-            self::$dico_sugg[':dst'] = $src;
-            self::$dico_sugg[':dst_sort'] = $src_sort;
+            self::$dico_sugg[':src'] = $foreign;
+            self::$dico_sugg[':src_sort'] = $foreign_sort;
+            self::$dico_sugg[':dst'] = $orth;
+            self::$dico_sugg[':dst_sort'] = $orth_sort;
             self::$q['dico_sugg']->execute(self::$dico_sugg);
         }
     }
@@ -795,10 +835,10 @@ class Medict
     Mieux vaut passer par une table temporaire
 
 DROP TEMPORARY TABLE IF EXISTS counts;
-CREATE TEMPORARY TABLE counts SELECT dico_titre.id, dico_titre.nomdico, COUNT(*) AS nb_volumes 
+CREATE TEMPORARY TABLE counts SELECT dico_titre.id, dico_titre.nomdico, COUNT(*) AS vols
   FROM dico_titre, livanc 
   WHERE livanc.cotemere = dico_titre.cote GROUP BY livanc.cotemere;
-UPDATE dico_titre SET dico_titre.nb_volumes=(SELECT nb_volumes FROM counts WHERE dico_titre.id=counts.id);
+UPDATE dico_titre SET dico_titre.vols=(SELECT vols FROM counts WHERE dico_titre.id=counts.id);
 SELECT * FROM dico_titre;
      */
 

@@ -85,6 +85,26 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:apply-templates/>
   </xsl:template>
 
+  <xsl:template match="tei:entryFree[@type='tr']/tei:orth">
+    <xsl:text>tr/orth</xsl:text>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="normalize-space(.)"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="@xml:lang"/>
+    <xsl:value-of select="$lf"/>
+    <xsl:apply-templates/>
+  </xsl:template>
+
+  <xsl:template match="tei:entryFree[@type='tr']/tei:term">
+    <xsl:text>tr/term</xsl:text>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="normalize-space(.)"/>
+    <xsl:value-of select="$lf"/>
+    <xsl:apply-templates/>
+  </xsl:template>
+
+
+
   <xsl:template match="tei:sense[starts-with(., '–') or starts-with(., '=')]/tei:emph[1]">
     <xsl:text>term</xsl:text>
     <xsl:value-of select="$tab"/>

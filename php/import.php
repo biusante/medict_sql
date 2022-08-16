@@ -7,11 +7,9 @@
 // il faudrait une API ligne de commande plus sympa pour sélectionner les opérations
 
 Medict::init();
-/*
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-Medict::ancLoad(); // fait un truncate bien propre
-*/
+// Medict::ancLoad(); // fait un truncate bien propre
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
     'medict27898.xml',
@@ -80,6 +78,17 @@ class Medict
         ':dst' => null,
         ':dst_sort' => null,
         ':dst_lang' => null,
+        ':dst_langno' => 10,
+    );
+    /** Ordre des langues */
+    static $langs = array(
+        'fra' => 1,
+        'lat' => 2,
+        'grc' => 3,
+        'eng' => 4,
+        'deu' => 5,
+        'spa' => 6,
+        'ita' => 7,
     );
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
@@ -565,6 +574,9 @@ class Medict
         }
         // loop on all
         self::$pdo->commit();
+        self::$pdo->exec("UPDATE dico_sugg SET cert=NULL;");
+        self::$pdo->exec("UPDATE dico_sugg SET cert=TRUE
+WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1', src_sort) IN (SELECT terme_sort FROM dico_index);");
         echo " …done.\n";
     }
 
@@ -618,12 +630,14 @@ class Medict
         )
         ");
         $q->execute(array($cote_volume));
+
         $q = self::$pdo->prepare("
         DELETE FROM dico_sugg WHERE dico_entree IN (
             SELECT id FROM dico_entree WHERE cote_volume = ?
         )
         ");
         $q->execute(array($cote_volume));
+
         $q = self::$pdo->prepare("
         DELETE FROM dico_trad WHERE dico_entree IN (
             SELECT id FROM dico_entree WHERE cote_volume = ?
@@ -737,12 +751,15 @@ class Medict
                 $foreign_lang = $cell[2];
                 // ici on doit avoir toutes les vedettes
                 foreach ($orth_list as $orth_sort => $orth) {
+                    $langno = 10;
+
                     self::$dico_trad[':src'] = $orth;
                     self::$dico_trad[':src_sort'] = $orth_sort;
                     self::$dico_trad[':src_lang'] = $orth_lang;
                     self::$dico_trad[':dst'] = $foreign;
                     self::$dico_trad[':dst_sort'] = $foreign_sort;
                     self::$dico_trad[':dst_lang'] = $foreign_lang;
+                    self::$dico_trad[':dst_langno'] = self::$langs[$foreign_lang] ?? 10;
                     self::$q['dico_trad']->execute(self::$dico_trad);
                     self::$dico_trad[':src'] = $foreign;
                     self::$dico_trad[':src_sort'] = $foreign_sort;
@@ -750,6 +767,7 @@ class Medict
                     self::$dico_trad[':dst'] = $orth;
                     self::$dico_trad[':dst_sort'] = $orth_sort;
                     self::$dico_trad[':dst_lang'] = $orth_lang;
+                    self::$dico_trad[':dst_langno'] = self::$langs[$orth_lang] ?? 10;
                     self::$q['dico_trad']->execute(self::$dico_trad);
                 }
             }

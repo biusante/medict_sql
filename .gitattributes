@@ -1,2 +1,11 @@
 data/* filter=lfs diff=lfs merge=lfs -text
 export/* filter=lfs diff=lfs merge=lfs -text
+medica/* filter=lfs diff=lfs merge=lfs -text
+
+
+* text eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.pptx binary

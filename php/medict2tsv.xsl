@@ -105,11 +105,15 @@ permettant de raccrocher chaque information lexicale à sa page source.
 
 
 
-  <xsl:template match="tei:sense[starts-with(., '–') or starts-with(., '=')]/tei:emph[1]">
-    <xsl:text>term</xsl:text>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="."/>
-    <xsl:value-of select="$lf"/>
+  <xsl:template match="tei:sense[starts-with(., '–') or starts-with(., '=') or starts-with(., '|')]/tei:emph[1]">
+    <xsl:variable name="txt" select="normalize-space(.)"/>
+    <!-- Éviter les termes de plus de 3 mots -->
+    <xsl:if test="string-length($txt) - string-length(translate($txt, ' ', '')) &lt;= 3">
+      <xsl:text>term</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="."/>
+      <xsl:value-of select="$lf"/>
+    </xsl:if>
     <xsl:apply-templates/>
   </xsl:template>
 

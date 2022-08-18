@@ -9,7 +9,7 @@
 Medict::init();
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-// Medict::ancLoad(); // fait un truncate bien propre
+Medict::ancLoad(); // fait un truncate bien propre
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
     'medict27898.xml',
@@ -219,7 +219,7 @@ class Medict
                 self::$dico_entree[':livanc'] = $volume['clenum'];
                 self::$dico_entree[':cote_volume'] = $volume['cote'];
                 self::$dico_entree[':annee_volume'] = substr($volume['annee_iso'], 0, 4); // livanc.annee : "An VII", livanc.annee_iso : "1798/1799"
-                self::$dico_entree[':nom_volume'] = null; // absent de cette table, à prendre dans livancpages
+                self::$dico_entree[':nom_volume'] = $dico_titre['nom_court']; // nom court sans date
                 self::$dico_index[':langue'] = $dico_titre['orth_lang']; // mettre à jour la langue de la vedette
 
 
@@ -254,7 +254,6 @@ class Medict
         // self::$pdo->query("SET unique_checks=0;");
         self::$pdo->query("SET foreign_key_checks=0;");
         // les propriétés de dico_titre et livanc doivent ici être déjà fixée
-        self::$dico_entree[':nom_volume'] = null;
         while ($page =  $pageq->fetch(PDO::FETCH_ASSOC)) {
             // provisoire, tant que toutes les infos de volume ne sont pas dans livanc
             if (self::$dico_entree[':nom_volume'] == null) {
@@ -614,7 +613,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
 
     public static function loadTei($teiFile)
     {
-        $tsv = self::tsv($teiFile);        
+        $tsv = self::tsv($teiFile);
         $teiName = pathinfo($teiFile, PATHINFO_FILENAME);
 
 
@@ -652,29 +651,29 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
 
         // rependre des données de la table de biblio
         $cote_livre = preg_replace('@x\d\d$@', '', $cote_volume);
-        $q = self::$pdo->prepare("SELECT id, annee, orth_lang FROM dico_titre WHERE cote = ?");
+        $q = self::$pdo->prepare("SELECT * FROM dico_titre WHERE cote = ?");
         $q->execute(array($cote_livre));
-        list($dico_titre, $annee_titre, $orth_lang) = $q->fetch(PDO::FETCH_NUM);
-        self::$dico_entree[':dico_titre'] = $dico_titre;
-        self::$dico_entree[':annee_titre'] = $annee_titre;
-        self::$dico_index[':dico_titre'] = $dico_titre;
-        self::$dico_index[':annee_titre'] = $annee_titre;
-        if (!$orth_lang) $orth_lang = 'fr';
+        // list($dico_titre, $annee_titre, $orth_lang) = $q->fetch(PDO::FETCH_NUM);
+        $dico_titre = $q->fetch(PDO::FETCH_ASSOC);
+        self::$dico_entree[':dico_titre'] = $dico_titre['id'];
+        self::$dico_entree[':annee_titre'] =  $dico_titre['annee'];
+        self::$dico_index[':dico_titre'] = $dico_titre['id'];
+        self::$dico_index[':annee_titre'] = $dico_titre['annee'];
+        self::$dico_entree[':nom_volume'] = $dico_titre['nom_court'];
+
+        $orth_lang = $dico_titre['orth_lang'];
+        if (!$orth_lang) $orth_lang = 'fra';
+        // valeurs par défaut
+        self::$dico_entree[':annee_volume'] = $dico_titre['annee'];
+        self::$dico_entree[':livanc'] = null;
 
         // attaper des données, si possible
         $q = self::$pdo->prepare("SELECT clenum, annee_iso  FROM livanc WHERE cote = ?");
         $q->execute(array($cote_volume));
-        $data = $q->fetch(PDO::FETCH_NUM);
-        // si pas de données pour ce fichier
-        if ($data && count($data) > 0) {
-            list($livanc, $annee_volume) = $data;
-            self::$dico_entree[':livanc'] = $livanc;
-            self::$dico_entree[':annee_volume'] = $annee_volume;
-        }
-        else {
-            // si année de volume différent, à passer par le TEI
-            self::$dico_entree[':annee_volume'] = $annee_titre;
-            self::$dico_entree[':livanc'] = null;
+        $livanc = $q->fetch(PDO::FETCH_ASSOC);
+        if ($livanc && count($livanc) > 0) {
+            self::$dico_entree[':livanc'] = $livanc['clenum'];
+            self::$dico_entree[':annee_volume'] = $livanc['annee_iso'];
         }
 
         echo "Start loading…";
@@ -689,11 +688,13 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
             if (!$l) continue;
             $cell = explode("\t", $l);
             $object = $cell[0];
+            /*
             if ($object == 'volume') {
                 self::$dico_entree[':nom_volume'] = $cell[2];
             }
+            */
             // fixer la page currente
-            else if ($object == 'pb') {
+            if ($object == 'pb') {
                 $facs =  $cell[3];
                 preg_match('@p=(\d+)@', $facs, $matches);
                 $refimg = str_pad($matches[1], 4, '0', STR_PAD_LEFT);

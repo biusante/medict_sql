@@ -12,8 +12,9 @@ Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
 Medict::ancLoad(); // fait un truncate bien propre
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
-    'medict27898.xml',
     'medict37020d.xml',
+    'medict00152.xml',
+    'medict27898.xml',
     'medict07399.xml',
 ) as $srcBasename) {
     $srcFile = $srcDir . $srcBasename;
@@ -54,12 +55,11 @@ class Medict
     static $dico_index = array(
         ':dico_titre' => -1,
         ':annee_titre' => -1,
-        ':langue' => null,
         ':dico_entree' => -1,
-        ':type' => -1,
-        ':terme' => null,
-        ':terme_sort' => null,
-        ':terme_len' => null,
+        ':orth' => null,
+        ':orth_lang' => null,
+        ':orth_sort' => null,
+        ':orth_len' => null,
     );
     /** dico_sugg, insert courant, partagé par référence */
     static $dico_sugg = array(
@@ -137,12 +137,12 @@ class Medict
                 'æ' => 'ae',
             )
         );
-        // normaliser les espaces
-        $s = preg_replace('/[\s\-]+/', ' ', trim($s));
         // decomposer lettres et accents
         $s = Normalizer::normalize($s, Normalizer::FORM_D);
         // ne conserver que les lettres et les espaces
         $s = preg_replace("/[^\pL\s]/u", '', $s);
+        // normaliser les espaces
+        $s = preg_replace('/[\s\-]+/', ' ', trim($s));
         return $s;
     }
 
@@ -203,7 +203,8 @@ class Medict
         $qdico_titre->execute($pars);
 
         while ($dico_titre = $qdico_titre->fetch()) {
-            echo "[SQL load] " . $dico_titre['nom'] . "\n";
+            echo "[SQL load] ". $dico_titre['cote']. ', ' . $dico_titre['nom'] . "\n";
+            if (!$dico_titre['orth_lang']) $dico_titre['orth_lang'] = 'fra';
             self::$dico_entree[':dico_titre']  = self::$dico_index[':dico_titre'] = $dico_titre['id'];
             self::$dico_entree[':annee_titre'] = self::$dico_index[':annee_titre'] = $dico_titre['annee'];
             // boucler sur les volumes
@@ -220,7 +221,7 @@ class Medict
                 self::$dico_entree[':cote_volume'] = $volume['cote'];
                 self::$dico_entree[':annee_volume'] = substr($volume['annee_iso'], 0, 4); // livanc.annee : "An VII", livanc.annee_iso : "1798/1799"
                 self::$dico_entree[':nom_volume'] = $dico_titre['nom_court']; // nom court sans date
-                self::$dico_index[':langue'] = $dico_titre['orth_lang']; // mettre à jour la langue de la vedette
+                self::$dico_index[':orth_lang'] = $dico_titre['orth_lang']; // mettre à jour la langue de la vedette
 
 
                 if (self::ECHO) fwrite(STDERR, $dico_titre['nom'] . "\t" . self::$dico_entree[':annee_volume'] . "\t" . self::$dico_entree[':cote_volume'] . "\n");
@@ -415,10 +416,10 @@ class Medict
             $veds = preg_split('@\. +@ui', $line);
             if (count($veds) == 2) {
                 self::$dico_entree[':vedette'] = $veds[0];
-                self::$dico_index[':langue'] = 'la';
+                self::$dico_index[':orth_lang'] = 'lat';
                 self::dico_entree();
                 self::$dico_entree[':vedette'] = $veds[1];
-                self::$dico_index[':langue'] = null; // fr
+                self::$dico_index[':orth_lang'] = 'fra'; // fr
                 self::dico_entree();
             } else {
                 foreach ($veds as $vedette) {
@@ -506,11 +507,14 @@ class Medict
 
         // écrire la ou les vedettes dans l’index
         foreach ($terms as $t) {
-            self::$dico_index[':terme'] = $t;
-            self::$dico_index[':terme_sort'] = '1' . self::sortable($t);
-            self::$dico_index[':terme_len'] = mb_strlen($t, "utf-8");
+            self::$dico_index[':orth'] = $t;
+            self::$dico_index[':orth_sort'] = '1' . self::sortable($t);
+            self::$dico_index[':orth_len'] = mb_strlen($t, "utf-8");
+            if (self::ECHO) {
+                print_r(self::$dico_index);
+                echo ', ' . $t;
+            }
             if (self::WRITE) self::$q['dico_index']->execute(self::$dico_index); // insérer le terme
-            if (self::ECHO) echo ', ' . $t;
         }
         if (self::ECHO) echo "\n";
         // si plus d’une vedette écrire une suggestion
@@ -575,7 +579,7 @@ class Medict
         self::$pdo->commit();
         self::$pdo->exec("UPDATE dico_sugg SET cert=NULL;");
         self::$pdo->exec("UPDATE dico_sugg SET cert=TRUE
-WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1', src_sort) IN (SELECT terme_sort FROM dico_index);");
+WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1', src_sort) IN (SELECT orth_sort FROM dico_index);");
         echo " …done.\n";
     }
 
@@ -621,6 +625,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
         $cote_volume = preg_replace('@^medict@', '', $teiName);
         self::$dico_entree[':cote_volume'] = $cote_volume;
 
+        /* // marche pas
         // suppriner les données concernant cette cote
         echo "Delete old…";
         $q = self::$pdo->prepare("
@@ -648,6 +653,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
         ");
         $q->execute(array($cote_volume));
         echo " …DONE.\n";
+        */
 
         // rependre des données de la table de biblio
         $cote_livre = preg_replace('@x\d\d$@', '', $cote_volume);
@@ -725,23 +731,26 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
             }
             // insert index
             else if ($object == 'orth') {
-                $terme = $cell[1];
-                $terme = mb_strtoupper(mb_substr($terme, 0, 1)) . mb_strtolower(mb_substr($terme, 1));
-                $terme_sort = self::sortable($terme);
-                $orth_list[$terme_sort] = $terme;
-                self::$dico_index[':type'] = 0;
-                self::$dico_index[':terme'] = $terme;
-                self::$dico_index[':terme_sort'] = '1' . $terme_sort;
+                $orth = $cell[1];
+                $orth = mb_strtoupper(mb_substr($orth, 0, 1)) . mb_strtolower(mb_substr($orth, 1));
+                $orth_sort = self::sortable($orth);
+                $orth_list[$orth_sort] = $orth;
+                // <orth xml:lang="…">, agira sur <foreign>
+                if (isset($cell[2]) && $cell[2]) $orth_lang = $cell[2];
+                
+                self::$dico_index[':orth'] = $orth;
+                self::$dico_index[':orth_lang'] = $orth_lang;
+                self::$dico_index[':orth_sort'] = '1' . $orth_sort;
                 self::$q['dico_index']->execute(self::$dico_index);
             }
             // insert locution in index
             else if ($object == 'term') {
-                $terme = $cell[1];
-                $terme_sort = self::sortable($terme);
-                if (!isset($orth_list[$terme_sort])) {
-                    self::$dico_index[':type'] = 2;
-                    self::$dico_index[':terme'] = $terme;
-                    self::$dico_index[':terme_sort'] = '1' . $terme_sort;
+                $orth = $cell[1];
+                $orth_sort = self::sortable($orth);
+                if (!isset($orth_list[$orth_sort])) {
+                    self::$dico_index[':orth'] = $orth;
+                    self::$dico_index[':orth_sort'] = '1' . $orth_sort;
+                    self::$dico_index[':orth_lang'] = $orth_lang;
                     self::$q['dico_index']->execute(self::$dico_index);
                 }
             }
@@ -754,6 +763,15 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
                 foreach ($orth_list as $orth_sort => $orth) {
                     $langno = 10;
 
+                    if (self::ECHO) {
+                        echo "["  .  $orth_lang . "]" 
+                        .  $orth 
+                        . " => " 
+                        . "[" . $foreign_lang . "]"
+                        . $foreign
+                        . "\n";
+                    }
+
                     self::$dico_trad[':src'] = $orth;
                     self::$dico_trad[':src_sort'] = $orth_sort;
                     self::$dico_trad[':src_lang'] = $orth_lang;
@@ -762,6 +780,9 @@ WHERE CONCAT('1', dst_sort) IN (SELECT terme_sort FROM dico_index) AND CONCAT('1
                     self::$dico_trad[':dst_lang'] = $foreign_lang;
                     self::$dico_trad[':dst_langno'] = self::$langs[$foreign_lang] ?? 10;
                     self::$q['dico_trad']->execute(self::$dico_trad);
+
+                    // lien inverse, uniquement pour latin et grec
+                    // if ($foreign_lang != 'lat' && $foreign_lang != 'grc') continue;
                     self::$dico_trad[':src'] = $foreign;
                     self::$dico_trad[':src_sort'] = $foreign_sort;
                     self::$dico_trad[':src_lang'] = $foreign_lang;

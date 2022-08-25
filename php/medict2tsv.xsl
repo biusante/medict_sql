@@ -81,14 +81,6 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="."/>
-    <xsl:value-of select="$lf"/>
-    <xsl:apply-templates/>
-  </xsl:template>
-
-  <xsl:template match="tei:entryFree[@type='tr']/tei:orth">
-    <xsl:text>tr/orth</xsl:text>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@xml:lang"/>
     <xsl:value-of select="$lf"/>

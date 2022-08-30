@@ -84,7 +84,6 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@xml:lang"/>
     <xsl:value-of select="$lf"/>
-    <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="tei:entryFree[@type='tr']/tei:term">
@@ -97,16 +96,11 @@ permettant de raccrocher chaque information lexicale à sa page source.
 
 
 
-  <xsl:template match="tei:sense[starts-with(., '–') or starts-with(., '=') or starts-with(., '|')]/tei:emph[1]">
-    <xsl:variable name="txt" select="normalize-space(.)"/>
-    <!-- Éviter les termes de plus de 3 mots -->
-    <xsl:if test="string-length($txt) - string-length(translate($txt, ' ', '')) &lt;= 3">
-      <xsl:text>term</xsl:text>
-      <xsl:value-of select="$tab"/>
-      <xsl:value-of select="."/>
-      <xsl:value-of select="$lf"/>
-    </xsl:if>
-    <xsl:apply-templates/>
+  <xsl:template match="tei:sense/tei:term">
+    <xsl:text>term</xsl:text>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="."/>
+    <xsl:value-of select="$lf"/>
   </xsl:template>
 
   <xsl:template match="tei:ref">
@@ -114,7 +108,6 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="normalize-space(.)"/>
     <xsl:value-of select="$lf"/>
-    <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="tei:foreign">
@@ -124,7 +117,6 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@xml:lang"/>
     <xsl:value-of select="$lf"/>
-    <xsl:apply-templates/>
   </xsl:template>
   
 

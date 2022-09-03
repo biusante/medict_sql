@@ -99,7 +99,7 @@ permettant de raccrocher chaque information lexicale à sa page source.
   <xsl:template match="tei:sense/tei:term">
     <xsl:text>term</xsl:text>
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="."/>
+    <xsl:value-of select="normalize-space(.)"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
 

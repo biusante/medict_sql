@@ -13,7 +13,7 @@ Medict::ancLoad(); // fait un truncate bien propre
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
     'medict37020d.xml',
-    'medict37020d_index.xml',
+    'medict37020d~index.xml',
     'medict00152.xml',
     'medict27898.xml',
     'medict07399.xml',

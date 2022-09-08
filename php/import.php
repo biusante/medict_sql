@@ -10,6 +10,7 @@ Medict::init();
 Medict::$pdo->exec("TRUNCATE dico_titre");
 Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
 Medict::ancLoad(); // fait un truncate bien propre
+/*
 $srcDir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
 foreach (array(
     'medict37020d.xml',
@@ -22,6 +23,7 @@ foreach (array(
     Medict::loadTei($srcFile);
 }
 Medict::updates();
+*/
 
 class Medict
 {
@@ -36,62 +38,51 @@ class Medict
     static $home;
     /** Prepared statements shared between methods */
     static $q = array();
-    /** dico_entree, insert courant, partagé par référence */
-    static $dico_entree = array(
+    /** Insérer un terme */
+    static $dico_terme = array(
+        ':form' => null,
+        ':lang' => -1,
+        ':ascii' => null,
+        ':grc' => null,
+        ':mots' => -1,
+        ':len' => -1,
+    );
+    /** Insérer une relation */
+    static $dico_rel = array(
+        ':dico_terme' => -1,
+        ':reltype' => -1,
         ':dico_titre' => -1,
-        ':titre_nom' => null,
-        ':titre_annee' => -1,
-        ':livanc' => -1,
-        ':volume_cote' => null,
-        ':volume_annee' => null,
-        ':volume_soustitre' => null,
-        ':livancpages' => -1,
+        ':dico_entree' => -1,
+        ':clique' => -1,
+        ':volume_annee' => -1,
+        ':page' => null,
+        ':refimg' => -1,
+    );
+    
+    /** Insérer une entrée */
+    static $dico_entree = array(
+        ':vedette' => null,
+        ':dico_titre' => -1,
+        ':dico_volume' => -1,
         ':page' => null,
         ':refimg' => null,
-        ':vedette' => null,
         ':page2' => null,
         ':pps' => 0,
-        ':vedette_len' => null,
+        ':volume_annee' => null,
+        ':livancpages' => -1,
     );
-    /** dico_index, insert courant, partagé par référence */
-    static $dico_index = array(
+    /** Insérer les informations bibliographiques d’un volume */
+    static $dico_volume = array(
         ':dico_titre' => -1,
-        ':dico_entree' => -1,
+        ':titre_nom' => null,
+        ':titre_annee' => null,
+        ':volume_cote' => -1,
+        ':volume_soustitre' => -1,
         ':volume_annee' => -1,
-        ':orth' => null,
-        ':orth_lang' => null,
-        ':orth_sort' => null,
-        ':orth_len' => null,
-    );
-    /** dico_sugg, insert courant, partagé par référence */
-    static $dico_sugg = array(
-        ':dico_titre' => -1,
-        ':volume_annee' => -1,
-        ':page' => -1,
-        ':refimg' => null,
-        ':dico_entree' => -1,
-        ':src' => null,
-        ':src_sort' => null,
-        ':dst' => null,
-        ':dst_sort' => null,
-    );
-    /** dico_trad, insert courant, partagé par référence */
-    static $dico_trad = array(
-        ':dico_titre' => -1,
-        ':volume_annee' => -1,
-        ':page' => -1,
-        ':refimg' => null,
-        ':dico_entree' => -1,
-        ':src' => null,
-        ':src_sort' => null,
-        ':src_lang' => null,
-        ':dst' => null,
-        ':dst_sort' => null,
-        ':dst_lang' => null,
-        ':dst_langno' => 10,
+        ':livanc' => -1,
     );
     /** Ordre des langues */
-    static $langs = array(
+    static $lang = array(
         'fra' => 1,
         'lat' => 2,
         'grc' => 3,
@@ -99,6 +90,15 @@ class Medict
         'deu' => 5,
         'spa' => 6,
         'ita' => 7,
+    );
+    /** Ordre des relations */
+    static $reltype = array(
+        'orth' => 1,
+        'term' => 2,
+        'foreign' => 3,
+        'ref' => 4,
+        'orthin' => 5,
+        'termin' => 6,
     );
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
@@ -133,6 +133,23 @@ class Medict
         echo // self::$pdo->getAttribute(PDO::ATTR_SERVER_INFO), ' '
         self::$pdo->getAttribute(PDO::ATTR_DRIVER_NAME), ' ',
         self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n";
+        // Charger les mots vides
+        self::$stop = array_flip(explode("\n", file_get_contents(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'stop.csv')));
+    }
+
+
+    /**
+     * Rend l’identifiant d’un terme dans la table dico_terme, 
+     * crée la ligne si nécessaire
+     */
+    public static function terme_id($form, $lang)
+    {
+        // normaliser l’accentuation (surtout pour le grec)
+        $form = Normalizer::normalize($form, Normalizer::FORM_KC);
+        $ascii = self::sortable($form);
+        self::$q['terme_id']->execute(array($ascii));
+
+
     }
 
     public static function sortable($s)
@@ -161,26 +178,22 @@ class Medict
      */
     static function prepare()
     {
-        // insérer une entrée
-        $sql = "INSERT INTO dico_entree 
-        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_entree))) . ") 
-    VALUES (" . implode(', ', array_keys(self::$dico_entree)) . ");";
-        self::$q['dico_entree'] = self::$pdo->prepare($sql);
-        // insérer un terme dans l’index
-        $sql = "INSERT INTO dico_index 
-        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_index))) . ") 
-    VALUES (" . implode(', ', array_keys(self::$dico_index)) . ");";
-        self::$q['dico_index'] = self::$pdo->prepare($sql);
-        // insérer 2 termes liés dans une suggestion
-        $sql = "INSERT INTO dico_sugg 
-        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_sugg))) . ") 
-    VALUES (" . implode(', ', array_keys(self::$dico_sugg)) . ");";
-        self::$q['dico_sugg'] = self::$pdo->prepare($sql);
-        // traduction, vedette => tard
-        $sql = "INSERT INTO dico_trad 
-        (" . str_replace(':', '', implode(', ', array_keys(self::$dico_trad))) . ") 
-    VALUES (" . implode(', ', array_keys(self::$dico_trad)) . ");";
-        self::$q['dico_trad'] = self::$pdo->prepare($sql);
+
+        foreach (array(
+            'dico_terme',
+            'dico_rel',
+            'dico_entree',
+            'dico_volume',
+        ) as $table) {
+            $sql = "INSERT INTO $table 
+    (" . str_replace(':', '', implode(', ', array_keys(self::$$table))) . ") 
+    VALUES (" . implode(', ', array_keys(self::$$table)) . ");";
+            echo $sql, "\n";
+            self::$q[$table] = self::$pdo->prepare($sql);
+        }
+
+        $sql = "SELECT id FROM dico_terme WHERE ascii LIKE ?";
+        self::$q['terme_id'] = self::$pdo->prepare($sql);
     }
 
     /**
@@ -191,14 +204,13 @@ class Medict
     public static function ancLoad($cote = null)
     {
         // vider les tables à remplir
-        self::$pdo->query("TRUNCATE TABLE dico_index");
+        self::$pdo->query("TRUNCATE TABLE dico_terme");
+        self::$pdo->query("TRUNCATE TABLE dico_rel");
         self::$pdo->query("TRUNCATE TABLE dico_entree");
-        self::$pdo->query("TRUNCATE TABLE dico_sugg");
-        self::$pdo->query("TRUNCATE TABLE dico_trad");
-        self::$page_count = 0;
+        self::$pdo->query("TRUNCATE TABLE dico_volume");
         self::prepare();
-        // Charger les mots vides
-        self::$stop = array_flip(explode("\n", file_get_contents(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'stop.csv')));
+        return;
+        self::$page_count = 0;
         // Pour export tsv, nom des colonnes
         // if(self::ECHO) echo "entree.vedette	vedette.len	livancpages.nomdico	livancpages.annee	livancpages.page	mot.termes\n";
 
@@ -320,6 +332,7 @@ class Medict
 
             // Supprimer le renvois
             // Rangonus. Voyez Philologus.
+            // TODO 
             $chapitre = preg_replace(
                 array('@[\./\)] (V\. |Voy.? |Voyez )[^\./;]+@u'),
                 array(''),
@@ -615,6 +628,7 @@ class Medict
      */
     public static function updates()
     {
+        // ALTER TABLE mydb.mytb ROW_FORMAT=Fixed;
         echo "Start sugg.score…";
         self::$pdo->beginTransaction();
         // score des suggestions (les update avec des select sont spécialement compliqués avec MySQL)

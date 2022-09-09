@@ -1,0 +1,935 @@
+page	refimg	chapitre
+[sans numérotation]	0001	[Page de faux-titre]
+[page blanche]	0002	
+[sans numérotation]	0003	[Page de titre]
+[page blanche]	0004	
+1	0005	Prospectus
+2	0006	Prospectus
+3	0007	Prospectus
+4	0008	Prospectus
+v	0009	[Préface]
+vj	0010	[Préface]
+vij	0011	[Préface]
+viij	0012	[Préface]
+ix	0013	[Préface]
+x	0014	[Préface]
+xj	0015	[Préface]
+xij	0016	[Préface]
+xiij	0017	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xiv	0018	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xv	0019	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xvj	0020	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xvij	0021	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xviij	0022	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xix	0023	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xx	0024	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xxj	0025	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xxij	0026	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xxiij	0027	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+xxiv	0028	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume
+1	0029	Aaron
+2	0030	Aaskow (Urbain-Bruan) / Abano (Pierre d'), ou Pierre d'Apono
+3	0031	Abano (Pierre d'), ou Pierre d'Apono
+4	0032	Abano (Pierre d'), ou Pierre d'Apono / Abbadie (Vincent) / Abbatio (Balde-Ange)
+5	0033	Abbatio (Balde-Ange) / Abelle (Scipion) / Abercromby (David)
+6	0034	Abercromby (David) / Abildgaard (Pierre-Chrétien) / Abraham (Nicolas)
+7	0035	Abraham (Nicolas) / Absyrte, ou Apsyrte / Acampo (Simon)
+8	0036	Acampo (Simon) / Accoramboni (Jérôme) / Accorsini (Barthélemy) / Accouchement
+9	0037	Accouchement
+10	0038	Accouchement
+11	0039	Accouchement
+12	0040	Accouchement
+13	0041	Accouchement
+14	0042	Accouchement
+15	0043	Accouchement
+16	0044	Accouchement
+17	0045	Accouchement
+18	0046	Accouchement
+19	0047	Accouchement
+20	0048	Accouchement
+21	0049	Accouchement
+22	0050	Accouchement
+23	0051	Accouchement
+24	0052	Accouchement
+25	0053	Accouchement
+26	0054	Accouchement
+27	0055	Accouchement
+28	0056	Accouchement
+29	0057	Accouchement
+30	0058	Accouchement
+31	0059	Accouchement
+32	0060	Accouchement
+33	0061	Accouchement
+34	0062	Accouchement
+35	0063	Accouchement
+36	0064	Accouchement
+37	0065	Accouchement
+36	0066	Accouchement / Achillini (Alexandre)
+39	0067	Achillini (Alexandre) / Ackermann (Jean-Chrétiens-Théophile)
+40	0068	Ackermann (Jean-Chrétiens-Théophile) / Ackermann (Jacques-Fidèle)
+41	0069	Ackermann (Jacques-Fidèle) / Acrel (Olof)
+42	0070	Acrel (Olof)
+43	0071	Acrel (Olof) / Acron
+44	0072	Acron / Actuarius jean, fils de Zacharie
+45	0073	Actuarius jean, fils de Zacharie / Adair (James-Makittrik)
+46	0074	Adair (James-Makittrik) / Adams (Joseph)
+47	0075	Adams (Joseph) / Adamucci (A.) / Adanson (Michel)
+48	0076	Adanson (Michel)
+49	0077	Adanson (Michel)
+50	0078	Adanson (Michel) / Addington (Antoine)
+51	0079	Addington (Antoine) / Adolphi (Chrétien-Michel) / Aegidius corboliensis (Petrus), Pierre Gilles de Corbeil
+52	0080	Aegidius corboliensis (Petrus), Pierre Gilles de Corbeil / Aetius
+53	0081	Aetius
+54	0082	Aetius / Agricola (Jean-Ammonius) / Agricola (George)
+55	0083	Agricola (George) / Agrippa (Henri-Corneille)
+56	0084	Agrippa (Henri-Corneille)
+57	0085	Agrippa (Henri-Corneille) / Aguero (Bartholomeo-Hidalgo de) / Aikin (Jean)
+58	0086	Aikin (Jean) / Ailhaud (Jean)
+59	0087	Ailhaud (Jean) / Ailhaud (Jean-Gaspard) / Ailleboust (Jean) / Oimar (Ozias)
+60	0088	Oimar (Ozias) / Aitken (Jean) / Akakia (Martin)
+61	0089	Akakia (Martin) / Akakia (Martin) / Akakia (Martin) / Akakia (Jean) / Akakia (Martin)
+62	0090	Akakia (Martin) / Akenside (Marc)
+63	0091	Akenside (Marc) / Alanson (Édouard)
+64	0092	Alanson (Édouard) / Alaymo (Marc-Antoine) / Albano Torino
+65	0093	Albano Torino / Al-Beithar / Albers (Jean-Abraham)
+66	0094	Albers (Jean-Abraham) / Albert-le-grand
+67	0095	Albert-le-grand / Alberti (Michel)
+68	0096	Alberti (Michel)
+69	0097	Alberti (Michel) / Alberti (Salomon)
+70	0098	Alberti (Salomon) / Albertini (Annibal) / Albertini (Barthélemy) / Albertini (Hippolyte-François)
+71	0099	Albinus (Bernard) / Albinus (Bernard-Sigefroy)
+72	0100	Albinus (Bernard-Sigefroy)
+73	0101	Albinus (Bernard-Sigefroy)
+74	0102	Albinus (Bernard-Sigefroy)
+75	0103	Albinus (Bernard-Sigefroy)
+76	0104	Albinus (Bernard-Sigefroy) / Albinus (Chrétien-Bernard) / Albinus (Jacques)
+77	0105	Albinus (Jacques) / Albucasis abul-casem-khalaf-ebn-abbas
+78	0106	Albucasis abul-casem-khalaf-ebn-abbas / Alcadino / Alcazar ou Valcazer (André) / Alchimie
+79	0107	Alchimie
+80	0108	Alchimie
+81	0109	Alchimie
+82	0110	Alchimie
+83	0111	Alchimie
+84	0112	Alchimie
+85	0113	Alchimie / Alcméon
+86	0114	Alcméon / Aldrighetti (Aldrighetto) / Alessandri (François Degli)
+87	0115	Alessandri (François Degli) / Alessandrini (Jules)
+88	0116	Alessi (Alexandre) / Alessi (Alfssio Degli)
+89	0117	Alessi (Alfssio Degli) / Alexandre
+90	0118	Alexandre
+91	0119	Alexandre (Williams) / Algarotto (Victor) / Alghisi (Thomas)
+92	0120	Alghisi (Thomas) / Ali-Ebn-Abbas, ou Haly-Abbas
+93	0121	Ali-Ebn-Abbas, ou Haly-Abbas / Alidio (Charles-Antoine) / Alix (Mathieu-François)
+94	0122	Alix (Mathieu-François) / Allemant ou Aleman (Adrien l')
+95	0123	Allemant ou Aleman (Adrien l') / Allen (Jean) / Allioni (Charles)
+96	0124	Allioni (Charles) / Alliot
+97	0125	Allmacher (Jean-Frédéric) / Allouel / Almeloveen (Théodore-Jansson van)
+98	0126	Almeloveen (Théodore-Jansson van) / Alpago (André)
+99	0127	Alpago (André) / Alphonse de Corella ou Lopez de Corella / Alpino (Prosper)
+100	0128	Alpino (Prosper) / Alsaharavi / Alsario
+101	0129	Alsario
+102	0130	Alsario / Alston (Charles)
+103	0131	Alston (Charles) / Altomare (Donat-Antoine)
+104	0132	Altomare (Donat-Antoine) / Alyon (Pierre-Philippe)
+105	0133	Alyon (Pierre-Philippe) / Amand (Pierre) / Amantea (Bruno)
+106	0134	Amantea (Bruno) / Amar (Joseph)
+107	0135	Amar (Joseph) / Amatus Lusitanus
+108	0136	Amatus Lusitanus / Ambrosini (Barthélemy) / Amico (Diomède) / Amman (Jean-Conrad)
+109	0137	Amman (Jean-Conrad) / Ammann (Paul)
+110	0138	Ammann (Paul)
+111	0139	Amoreux (Pierre-Joseph)
+112	0140	Amoreux (Pierre-Joseph) / Ampzing (Jean Assuerus) / Amusco / Anatomie
+113	0141	Anatomie
+114	0142	Anatomie
+115	0143	Anatomie
+116	0144	Anatomie
+117	0145	Anatomie
+118	0146	Anatomie
+119	0147	Anatomie
+120	0148	Anatomie
+121	0149	Anatomie
+122	0150	Anatomie
+123	0151	Anatomie
+124	0152	Anatomie
+125	0153	Anatomie
+126	0154	Anatomie
+127	0155	Anatomie
+128	0156	Anatomie
+129	0157	Anatomie
+130	0158	Anatomie / Anatomie pathologique
+131	0159	Anatomie pathologique / Anaxagore
+132	0160	Anaxagore
+133	0161	Anaxagore / Andaloro (André) / André (Nicolas)
+134	0162	André (Nicolas) / Andreae (Tobie) / Andrée (Jean)
+135	0163	Andrée (Jean) / Andria (Nicolas)
+136	0164	Andria (Nicolas)
+137	0165	Andria (Nicolas) / Andrioli (Michel-Ange) / Andromaque (l'ancien)
+138	0166	Andromaque (l'ancien) / Andry (Nicolas)
+139	0167	Andry (Nicolas) / Anel (Dominique)
+140	0168	Anel (Dominique) / Angelucci (Théodore)
+141	0169	Angelucci (Théodore) / Anthony (François)
+142	0170	Anthony (François) / Antylus, ou Antyllus
+143	0171	Antylus, ou Antyllus / Apinus (Jean-Louis)
+144	0172	Apinus (Jean-Louis) / Aquila (Sébastien dell'), ou Aquilanus
+145	0173	Aquila (Sébastien dell'), ou Aquilanus / Aquin (Joseph d'), ou Daquin / Arabes
+146	0174	Arabes
+147	0175	Arabes
+148	0176	Arabes
+149	0177	Arabes
+150	0178	Arabes
+151	0179	Arabes / Aranzi ou Aranzio (Jules-César)
+152	0180	Aranzi ou Aranzio (Jules-César)
+153	0181	Aranzi ou Aranzio (Jules-César) / Arbuthnot (Jean)
+154	0182	Arbuthnot (Jean) / Arce (François de)
+155	0183	Arce (François de) / Arcet (d') / Archagatus / Archiatre
+156	0184	Archiatre
+157	0185	Archiatre
+158	0186	Archiatre
+159	0187	Archiatre / Archigène
+160	0188	Arcolani ou Ercolani (Jean) / Ardern (Jean)
+161	0189	Ardern (Jean) / Ardoini (Sante) / Arellano (Pierre-François) / Arent Cant
+162	0190	Arent Cant / Arétée
+163	0191	Arétée
+164	0192	Arétée
+165	0193	Arétée / Argellata (Pierre d'), appelé aussi Pierre Argelata, Pierre de Largelata, Pierre de la Cerlata
+166	0194	Argellata (Pierre d'), appelé aussi Pierre Argelata, Pierre de Largelata, Pierre de la Cerlata / Argenterio (Jean), ou Argentero, Argenterius, Argentier, l'Argentière
+167	0195	Argenterio (Jean), ou Argentero, Argenterius, Argentier, l'Argentière / Aristote
+168	0196	Aristote
+169	0197	Aristote
+170	0198	Aristote
+171	0199	Aristote
+172	0200	Aristote
+173	0201	Aristote / Armstrong (Jean)
+174	0202	Armstrong (Jean)
+175	0203	Armstrong (Jean) / Arnaud de nobleville (Louis-Daniel)
+176	0204	Arnaud de nobleville (Louis-Daniel) / Arnaud (Georges), dit de Ronsil
+177	0205	Arnaud (Georges), dit de Ronsil
+178	0206	Arnaud (Georges), dit de Ronsil / Arnaud de Villeneuve
+179	0207	Arnaud de Villeneuve
+180	0208	Arnaud de Villeneuve
+181	0209	Arnaud de Villeneuve
+182	0210	Arnaud de Villeneuve / Arnemann (Just)
+183	0211	Arnemann (Just) / Arnisaeus (Henning)
+184	0212	Arnisaeus (Henning) / Arnold (Georges-Chrétien)
+185	0213	Arnold (Thomas) / Aromatari (Joseph Decli)
+186	0214	Aromatari (Joseph Decli) / Artedi (Pierre)
+187	0215	Artedi (Pierre) / Arthaud
+188	0216	Arthaud / Asclépiade
+189	0217	Asclépiade
+190	0218	Asclépiade
+191	0219	Asclépiade / Asclépiades
+192	0220	Asclépiades
+193	0221	Asclépiades
+194	0222	Asclépiades / Asellio (Gaspard), nommé communément Aselli
+195	0223	Asellio (Gaspard), nommé communément Aselli
+196	0224	Asellio (Gaspard), nommé communément Aselli / Astrologie
+197	0225	Astrologie
+198	0226	Astrologie
+199	0227	Astrologie
+200	0228	Astrologie / Astruc (Jean)
+201	0229	Astruc (Jean)
+202	0230	Astruc (Jean)
+203	0231	Astruc (Jean) / Athalin (Claude-François)
+204	0232	Aubert (B.)
+205	0233	Aubert (B.) / Aubert (Jacques) / Aubery (Jean)
+206	0234	Aubery (Jean) / Aubin (Jean de Saint-) / Aubry (Jean-François)
+207	0235	Aubry (Jean-François) / Audoin de Chaignebrun (Henri)
+208	0236	Audoin de Chaignebrun (Henri) / Auenbrugger (Léopold) / Augenio (Horace)
+209	0237	Augenio (Horace)
+210	0238	Augenio (Horace) / Aumont (Arnulphe d') / Augier Dufot (Anne-Amable) / Ausone (Jules)
+211	0239	Ausone (Jules) / Auvity (Jean-Abraham) / Auzeby (Pierre)
+212	0240	Avenzohar ou Aben-zohar
+213	0241	Avenzohar ou Aben-zohar / Averrhoes (Aboul-Vélyd-Mohammed, ou régulièrement Ibn-Rochd)
+214	0242	Averrhoes (Aboul-Vélyd-Mohammed, ou régulièrement Ibn-Rochd) / Avicenne
+215	0243	Avicenne
+216	0244	Avicenne / Aymen (Jean-Baptiste) / Azzoguidi (Germain)
+217	0245	Azzoguidi (Germain)
+218	0246	Baader (Joseph-Lambert) / Bablot (Benjamin)
+219	0247	Bablot (Benjamin) / Baccanelli / Bacchetton (Jérôme-Léopold) / Bacci ou Baccio (André)
+220	0248	Bacci ou Baccio (André)
+221	0249	Bacci ou Baccio (André) / Bacher (Georges-Frédéric) / Bacher (Alexandre-Philippe)
+222	0250	Bacher (Alexandre-Philippe) / Bacheracht (Henri, ou André, selon le Magasin encyclop.)
+223	0251	Bacheracht (Henri, ou André, selon le Magasin encyclop.) / Bachot (Étienne)
+224	0252	Bachot (Étienne) / Bachot (Gaspard)
+225	0253	Bachot (Gaspard) / Bachstrom (Jean-Frédéric)
+226	0254	Bachstrom (Jean-Frédéric)
+227	0255	Bachstrom (Jean-Frédéric) / Bacmeister (Mathieu) / Bacon (François)
+228	0256	Bacon (François)
+229	0257	Bacon (François)
+230	0258	Bacon (François)
+231	0259	Bacon (François)
+232	0260	Bacon (François)
+233	0261	Bacon (François)
+234	0262	Bacon (François)
+235	0263	Bacon (François)
+236	0264	Bacon (François)
+237	0265	Bacon (François) / Bacon (Roger)
+238	0266	Bacon (Roger)
+239	0267	Bacon (Roger)
+240	0268	Bacon (Roger)
+241	0269	Bacon (Roger) / Bado (Sébastien) / Baersdorp (Corneille van)
+242	0270	Baersdorp (Corneille van) / Bagard (Charles)
+243	0271	Bagard (Charles) / Baget (Jean)
+244	0272	Baget (Jean) / Bagieu (Jacques)
+245	0273	Bagieu (Jacques) / Baglivi (Georges)
+246	0274	Baglivi (Georges)
+247	0275	Baglivi (Georges)
+248	0276	Baglivi (Georges) / Baier (Jean-Jacques)
+249	0277	Baier (Jean-Jacques)
+250	0278	Baier (Jean-Jacques) / Baillif de la rivière (Roch Le)
+251	0279	Baillif de la rivière (Roch Le) / Baillou (Guillaume)
+252	0280	Baillou (Guillaume)
+253	0281	Baillou (Guillaume) / Bajon
+254	0282	Bajon / Baker (Georges)
+255	0283	Baker (Georges) / Baker (Georges)
+256	0284	Baker (Georges) / Baldinger (Ernest Godefroi)
+257	0285	Baldinger (Ernest Godefroi)
+258	0286	Baldinger (Ernest Godefroi)
+259	0287	Baldinger (Ernest Godefroi) / Balescon de Tarente, ou de Tharare
+260	0288	Balescon de Tarente, ou de Tharare / Baley ou Bailey (Gautier) / Balfour (François)
+261	0289	Balfour (François)
+262	0290	Balfour (François) / Ball (Jean) / Ballexerd (Jacques)
+263	0291	Ballexerd (Jacques) / Balme (Cl. D.) / Banau (J.)
+264	0292	Banau (J.) / Banister ou Banester (Jean)
+265	0293	Banister ou Banester (Jean) / Banister (Richard)
+266	0294	Banister (Richard) / Barbaut (Antoine-François) / Barberet (Denis)
+267	0295	Barberet (Denis) / Barbette (Paul)
+268	0296	Barbette (Paul) / Barbeu-Dubourg (Jacques)
+269	0297	Barbeu-Dubourg (Jacques)
+270	0298	Barbeu-Dubourg (Jacques) / Barbeyrac (Charles)
+271	0299	Barbeyrac (Charles) / Barchusen (Jean-Conrad), ou Barckausen
+272	0300	Barchusen (Jean-Conrad), ou Barckausen
+273	0301	Baron (Hyacinthe-Théodore)
+274	0302	Baron (Hyacinthe-Théodore) / Baron d'Henouville (Théodore)
+275	0303	Baron d'Henouville (Théodore)
+276	0304	Baron d'Henouville (Théodore) / Barrère (Pierre)
+277	0305	Barrère (Pierre) / Barthez (Paul-Joseph)
+278	0306	Barthez (Paul-Joseph)
+279	0307	Barthez (Paul-Joseph)
+280	0308	Barthez (Paul-Joseph)
+281	0309	Barthez (Paul-Joseph)
+282	0310	Barthez (Paul-Joseph)
+283	0311	Barthez (Paul-Joseph)
+284	0312	Barthez (Paul-Joseph)
+285	0313	Barthez (Paul-Joseph)
+286	0314	Barthez (Paul-Joseph) / Bartholin (Gaspard)
+287	0315	Bartholin (Gaspard)
+288	0316	Bartholin (Gaspard) / Bartholin (Thomas)
+289	0317	Bartholin (Thomas)
+290	0318	Bartholin (Thomas)
+291	0319	Bartholin (Thomas)
+292	0320	Bartholin (Thomas)
+293	0321	Bartholin (Thomas)
+294	0322	Bartholin (Thomas)
+295	0323	Bartholin (Thomas) / Bartholin (Gaspard)
+296	0324	Bartholin (Gaspard)
+297	0325	Bartholin (Gaspard) / Baseilhac (Jean)
+298	0326	Baseilhac (Jean)
+299	0327	Baseilhac (Jean)
+300	0328	Baseilhac (Jean) / Baseilhac (Pascal)
+301	0329	Baseilhac (Pascal) / Basile Valentin
+302	0330	Basile Valentin
+303	0331	Basile Valentin / Bass (Henri)
+304	0332	Bass (Henri) / Bassuel (Pierre)
+305	0333	Bassuel (Pierre)
+306	0334	Bassuel (Pierre) / Baudelocque (Jean-Louis)
+307	0335	Baudelocque (Jean-Louis)
+308	0336	Baudelocque (Jean-Louis)
+309	0337	Baudelocque (Jean-Louis) / Bauderon (Brice) / Baudry
+310	0338	Baudry / Bauhin (Jean) / Bauhin (Jean)
+311	0339	Bauhin (Jean)
+312	0340	Bauhin (Jean) / Bauhin (Gaspard)
+313	0341	Bauhin (Gaspard)
+314	0342	Bauhin (Gaspard)
+315	0343	Bauhin (Gaspard)
+316	0344	Bauhin (Gaspard) / Baulot, ou Baulieu (Jacques)
+317	0345	Baulot, ou Baulieu (Jacques)
+318	0346	Baulot, ou Baulieu (Jacques)
+319	0347	Baulot, ou Baulieu (Jacques)
+320	0348	Baulot, ou Baulieu (Jacques) / Baumé (Antoine)
+321	0349	Baumé (Antoine)
+322	0350	Baumé (Antoine) / Baumer (Jean-Guillaume)
+323	0351	Baumer (Jean-Guillaume) / Baux (Pierre)
+324	0352	Baux (Pierre) / Bayen (Pierre)
+325	0353	Bayen (Pierre)
+326	0354	Bayen (Pierre)
+327	0355	Bayen (Pierre) / Bayle (François)
+328	0356	Bayle (François) / Bayle (Gaspard-Laurent)
+329	0357	Bayle (Gaspard-Laurent) / Béclard (Pierre-Augustin)
+330	0358	Béclard (Pierre-Augustin)
+331	0359	Béclard (Pierre-Augustin)
+332	0360	Béclard (Pierre-Augustin)
+333	0361	Béclard (Pierre-Augustin) / Beddoes (Thomas)
+334	0362	Beddoes (Thomas)
+335	0363	Beddoes (Thomas)
+336	0364	Beddoes (Thomas) / Bègue de presle (Achille-Guillaume Le)
+337	0365	Bègue de presle (Achille-Guillaume Le) / Behr (George-Henri)
+338	0366	Behr (George-Henri) / Bell (Benjamin)
+339	0367	Bell (Benjamin) / Bellini (Laurent)
+340	0368	Bellini (Laurent)
+341	0369	Bellini (Laurent) / Belloc (Jean-Jacques)
+342	0370	Belloc (Jean-Jacques)
+343	0371	Belloc (Jean-Jacques) / Belloste (Augustin) / Benci ou Benzo (Hugues)
+344	0372	Benci ou Benzo (Hugues)
+345	0373	Benci ou Benzo (Hugues) / Benedetti (Alexandre)
+346	0374	Benedetti (Alexandre) / Benevoli (Antoine)
+347	0375	Benevoli (Antoine) / Benivieni (Antoine)
+348	0376	Benivieni (Antoine) / Bennet (Christophe)
+349	0377	Bennet (Christophe) / Benvenuti (Joseph)
+350	0378	Benvenuti (Joseph) / Berengario
+351	0379	Berengario
+352	0380	Berengario
+353	0381	Berengario / Bergen (Charles-Auguste De)
+354	0382	Bergen (Charles-Auguste De)
+355	0383	Bergen (Charles-Auguste De) / Berger (Jean-Codefroy De) / Bergius (Pierre-Jonas)
+356	0384	Bergius (Pierre-Jonas) / Bergman (Torbern)
+357	0385	Bergman (Torbern) / Berlinghieri (François Vacca)
+358	0386	Berlinghieri (François Vacca)
+359	0387	Berlinghieri (André Vacca)
+360	0388	Berlinghieri (André Vacca)
+361	0389	Berlinghieri (André Vacca)
+362	0390	Berlinghieri (André Vacca) / Bernier (Jean) / Bernoulli
+363	0391	Bernoulli / Bernoulli (Jean)
+364	0392	Bernoulli (Jean) / Bernoulli (Daniel)
+365	0393	Bernoulli (Daniel) / Berryat (Jean)
+366	0394	Berryat (Jean) / Bertapaglia (Léonard de)
+367	0395	Bertapaglia (Léonard de) / Berthe (J. N.) / Berthollet (Claude-Louis)
+368	0396	Berthollet (Claude-Louis) / Bertin (Exupère-Joseph)
+369	0397	Bertin (Exupère-Joseph)
+370	0398	Bertin (Exupère-Joseph)
+371	0399	Bertin (Exupère-Joseph)
+372	0400	Bertin (Exupère-Joseph) / Bertin (René-Joseph-Hyacinthe)
+373	0401	Bertin (René-Joseph-Hyacinthe)
+374	0402	Bertin (René-Joseph-Hyacinthe) / Bertrand (Thomas-Bernard) / Bertrand (Jean-Baptiste)
+375	0403	Bertrand (Jean-Baptiste) / Bertrandi (Ambroise)
+376	0404	Bertrandi (Ambroise)
+377	0405	Bertrandi (Ambroise)
+378	0406	Bertrandi (Ambroise) / Bertucci ou Bertruccio (Nicolas) / Beverwyck (Jean de)
+379	0407	Beverwyck (Jean de)
+380	0408	Beverwyck (Jean de) / Bianchi (Jean-Baptiste)
+381	0409	Bianchi (Jean-Baptiste)
+382	0410	Bianchi (Jean-Baptiste)
+383	0411	Bianchi (Jean-Baptiste) / Bianchi (Jean)
+384	0412	Bianchi (Jean) / Bianchini (Jean-Fortuné)
+385	0413	Bianchini (Jean-Fortuné) / Bichat (Marie-François-Xavier)
+386	0414	Bichat (Marie-François-Xavier)
+387	0415	Bichat (Marie-François-Xavier)
+388	0416	Bichat (Marie-François-Xavier)
+389	0417	Bichat (Marie-François-Xavier)
+390	0418	Bichat (Marie-François-Xavier)
+391	0419	Bichat (Marie-François-Xavier)
+392	0420	Bichat (Marie-François-Xavier)
+393	0421	Bichat (Marie-François-Xavier)
+394	0422	Bichat (Marie-François-Xavier)
+395	0423	Bichat (Marie-François-Xavier)
+396	0424	Bichat (Marie-François-Xavier) / Bidault de Villiers (F. T.)
+397	0425	Bidault de Villiers (F. T.) / Bidloo (Godefroy)
+398	0426	Bidloo (Godefroy)
+399	0427	Bidloo (Godefroy) / Bienaise (Jean)
+400	0428	Bienaise (Jean) / Bilguer (Jean-Ulric de)
+401	0429	Bilguer (Jean-Ulric de) / Binninger (Jean-Nicolas) / Biondo (Michel-Ange)
+402	0430	Biondo (Michel-Ange) / Biron (Vincent-Jean-Paul)
+403	0431	Biron (Vincent-Jean-Paul) / Bisset (Charles)
+404	0432	Bisset (Charles) / Biumi (Paul-Jérôme)
+405	0433	Biumi (Paul-Jérôme) / Black (Guillaume)
+406	0434	Black (Guillaume) / Black (Joseph)
+407	0435	Black (Joseph) / Blackmore (Richard)
+408	0436	Blackmore (Richard)
+409	0437	Blackmore (Richard) / Blackwell (Alexandre, et Élisabeth, sa femme)
+410	0438	Blackwell (Alexandre, et Élisabeth, sa femme) / Blaes (Gérard)
+411	0439	Blaes (Gérard)
+412	0440	Blaes (Gérard)
+413	0441	Blaes (Gérard) / Blair (Patrice)
+414	0442	Blair (Patrice) / Blanc (Louis le) / Blancaard (Étienne)
+415	0443	Blancaard (Étienne) / Blegny (Nicolas de)
+416	0444	Blegny (Nicolas de)
+417	0445	Blegny (Nicolas de) / Blizard (Guillaume) / Blondel (François)
+418	0446	Blondel (François) / Blondel (Jacques-Auguste)
+419	0447	Blondel (Jacques-Auguste) / Bodin (Laurent)
+420	0448	Boe (François de le)
+421	0449	Boe (François de le)
+422	0450	Boe (François de le) / Boecler (Jean)
+423	0451	Boecler (Jean) / Boehmer (Georges-Rodolphe)
+424	0452	Boehmer (Georges-Rodolphe) / Boehmer (Philippe-Adolphe)
+425	0453	Boehmer (Philippe-Adolphe) / Boerhaave ou Boerhaaven (Herman)
+426	0454	Boerhaave ou Boerhaaven (Herman)
+427	0455	Boerhaave ou Boerhaaven (Herman)
+428	0456	Boerhaave ou Boerhaaven (Herman)
+429	0457	Boerhaave ou Boerhaaven (Herman)
+430	0458	Boerhaave ou Boerhaaven (Herman)
+431	0459	Boerhaave ou Boerhaaven (Herman)
+432	0460	Boerhaave ou Boerhaaven (Herman)
+433	0461	Boerhaave ou Boerhaaven (Herman)
+434	0462	Boerhaave ou Boerhaaven (Herman)
+435	0463	Boerner (Frédéric)
+436	0464	Boerner (Frédéric) / Bogros (Jean-Annet)
+437	0465	Bogros (Jean-Annet) / Bohn (Jean)
+438	0466	Bohn (Jean)
+439	0467	Bohn (Jean)
+440	0468	Bohn (Jean) / Bois (Jacques du) / Bois (Pierre du) / Boissieu (Barthélemy-Camille de)
+441	0469	Boissieu (Barthélemy-Camille de) / Bona (Jean-Della)
+442	0470	Bona (Jean-Della) / Bonacciuoli (Louis)
+443	0471	Bonacciuoli (Louis) / Bonet (Théophile)
+444	0472	Bonet (Théophile)
+445	0473	Bonet (Théophile) / Bonhomme (Jean-Baptiste)
+446	0474	Bonhomme (Jean-Baptiste) / Bonn (André)
+446 bis	0475	Bonn (André) / Bonnefoy (Jean-Baptiste)
+[sans numérotation]	0476	[Page de faux-titre]
+[page blanche]	0477	
+[sans numérotation]	0478	[Page de titre]
+447	0479	Bonnet (Charles)
+448	0480	Bonnet (Charles)
+449	0481	Bonnet (Charles)
+450	0482	Bonnet (Charles)
+451	0483	Bonnet (Charles)
+452	0484	Bonnet (Charles) / Bontekoe (Corneille)
+453	0485	Bontekoe (Corneille)
+454	0486	Bontekoe (Corneille) / Bontius (Jacques) / Boot (Arnold)
+455	0487	Boot (Arnold) / Borch (Olaus)
+456	0488	Borch (Olaus)
+457	0489	Borch (Olaus)
+458	0490	Borch (Olaus) / Bordenave (Toussaint)
+459	0491	Bordenave (Toussaint)
+460	0492	Bordenave (Toussaint) / Bordeu (Théophile de)
+461	0493	Bordeu (Théophile de)
+462	0494	Bordeu (Théophile de)
+463	0495	Bordeu (Théophile de)
+464	0496	Bordeu (Théophile de)
+465	0497	Bordeu (Théophile de)
+466	0498	Bordeu (Théophile de) / Bording (Jacques)
+467	0499	Bording (Jacques) / Borel (Pierre)
+468	0500	Borel (Pierre) / Borelli (Jean-Alphonse)
+469	0501	Borelli (Jean-Alphonse)
+470	0502	Borelli (Jean-Alphonse)
+471	0503	Borelli (Jean-Alphonse)
+472	0504	Borelli (Jean-Alphonse) / Borgarucci (Prosper)
+473	0505	Borsieri de Kanifeld (Jean-Baptiste)
+474	0506	Borsieri de Kanifeld (Jean-Baptiste) / Bosch (Iman Jacob Van Den)
+475	0507	Bosch (Iman Jacob Van Den) / Boschi (Hippolyte) / Bosquillon (Édouard-François-Marie)
+476	0508	Bosquillon (Édouard-François-Marie)
+477	0509	Bosquillon (Édouard-François-Marie)
+478	0510	Bosquillon (Édouard-François-Marie) / Bossche (Guillaume Van Den) / Botalli (Léonard)
+479	0511	Botalli (Léonard)
+480	0512	Botalli (Léonard) / Botanique
+481	0513	Botanique
+482	0514	Botanique
+483	0515	Botanique
+484	0516	Botanique
+485	0517	Botanique
+486	0518	Botanique / Boucher (Pierre-Joseph)
+487	0519	Boucher (Pierre-Joseph)
+488	0520	Boucher (Pierre-Joseph) / Boudewyns (Michel) / Bouffey (L. D. Amable)
+489	0521	Bouffey (L. D. Amable) / Bouillet (Jean)
+490	0522	Bouillet (Jean)
+491	0523	Bouillet (Jean) / Bouillet (Jean-Henri-Nicolas)
+492	0524	Bouillet (Jean-Henri-Nicolas) / Boulton (Richard) / Bourdet
+493	0525	Bourdet / Bourgelat (Claude)
+494	0526	Bourgelat (Claude)
+495	0527	Bourgelat (Claude)
+496	0528	Bourienne (Robert)
+497	0529	Bourienne (Robert) / Bourru (Edme-Claude)
+498	0530	Bourru (Edme-Claude) / Bouvart (Michel-Philippe)
+499	0531	Bouvart (Michel-Philippe)
+500	0532	Bouvart (Michel-Philippe) / Boyer (Jean-Baptiste-Nicolas)
+501	0533	Boyer (Jean-Baptiste-Nicolas)
+502	0534	Boyer (Jean-Baptiste-Nicolas) / Boyle (Robert)
+503	0535	Boyle (Robert)
+504	0536	Boyle (Robert) / Bra (Henri a)
+505	0537	Bra (Henri a) / Bradley (Richard)
+506	0538	Bradley (Richard) / Brambilla (Jean-Alexandre)
+507	0539	Brambilla (Jean-Alexandre) / Brasavola (Antoine Musa), ou Brasavolo
+508	0540	Brasavola (Antoine Musa), ou Brasavolo
+509	0541	Brasdor (Pierre)
+510	0542	Brasdor (Pierre) / Bravo Ramirez de Sobremonte (Gaspard) / Bravo (Jean), de Pierre-Fite (Piedra-Hita)
+511	0543	Bravo (Jean), de Pierre-Fite (Piedra-Hita) / Bremser (Jean-Georges) / Brendel (Adam)
+512	0544	Brendel (Jean-Godefroy) / Briggs (Guillaume)
+513	0545	Briggs (Guillaume) / Bright (Thimothée) / Briot (Pierre-François)
+514	0546	Briot (Pierre-François)
+515	0547	Briot (Pierre-François) / Brisbane (Jean) / Brisseau (Pierre)
+516	0548	Brisseau (Pierre) / Brisseau (Michel)
+517	0549	Brisseau (Michel) / Brissot (Pierre)
+518	0550	Brissot (Pierre)
+519	0551	Brissot (Pierre)
+520	0552	Brissot (Pierre) / Brocklesby (Richard)
+521	0553	Brocklesby (Richard) / Broeckhuysen (Benjamin Van) / Broen (Jean)
+522	0554	Broen (Jean) / Broeucquez (Jean-François du) / Broeucquez (Antoine-François) / Bromfield (Guillaume)
+523	0555	Bromfield (Guillaume) / Brookes (Richard)
+524	0556	Brookes (Richard) / Brosse (Guy de La)
+525	0557	Brosse (Guy de La) / Brouzet / Brown (Jean)
+526	0558	Brown (Jean) / Brown (Jean)
+527	0559	Brown (Jean)
+528	0560	Brown (Jean)
+529	0561	Brown (Jean)
+530	0562	Brown (Jean)
+531	0563	Brown (Jean)
+532	0564	Brown (Jean)
+533	0565	Brown (Jean)
+534	0566	Brown (Jean)
+535	0567	Brown (Jean) / Browne (Patrice) / Browne (Thomas)
+536	0568	Browne (Thomas) / Browne (Joseph)
+537	0569	Browne (Joseph) / Browne (André) / Browne (Édouard)
+538	0570	Browne (Édouard) / Brownrigg (Guillaume) / Bru / Bruand (Pierre-François)
+539	0571	Bruand (Pierre-François) / Brueckmann (François-Ernest)
+540	0572	Brueckmann (François-Ernest) / Bruening (Georges-Florent-Henri) / Brugnatelli (Louis-V.)
+541	0573	Brugnatelli (Louis-V.) / Brugnone (Jean)
+542	0574	Brugnone (Jean)
+543	0575	Brugnone (Jean) / Bruhier d'Ablaincourt (Jean-Jacques)
+544	0576	Bruhier d'Ablaincourt (Jean-Jacques) / Brumfels (Othon)
+545	0577	Brumfels (Othon) / Brunn (Jean-Jacques à)
+546	0578	Brunn (Jean-Jacques à) / Brunner (Jean-Conrad)
+547	0579	Brunner (Jean-Conrad)
+548	0580	Brunner (Jean-Conrad) / Bruno (Jacques-Pancrace)
+549	0581	Bruno (Jacques-Pancrace) / Buchan (Guillaume)
+550	0582	Buchan (Guillaume) / Buchoz (Chrétien-Frédéric)
+551	0583	Buchoz (Chrétien-Frédéric) / Buchoz (Pierre-Joseph)
+552	0584	Buchoz (Pierre-Joseph)
+553	0585	Buchoz (Pierre-Joseph) / Bucquet (Jean-Baptiste-Michel)
+554	0586	Bucquet (Jean-Baptiste-Michel) / Buechner (André-Élie)
+555	0587	Buechner (André-Élie)
+556	0588	Buechner (André-Élie) / Buffon (George-Louis Leclerc, comte de)
+557	0589	Buffon (George-Louis Leclerc, comte de)
+558	0590	Buffon (George-Louis Leclerc, comte de)
+559	0591	Buffon (George-Louis Leclerc, comte de)
+560	0592	Buffon (George-Louis Leclerc, comte de)
+561	0593	Buffon (George-Louis Leclerc, comte de)
+562	0594	Buffon (George-Louis Leclerc, comte de)
+563	0595	Buffon (George-Louis Leclerc, comte de) / Buisson (Mathieu-François-Régis)
+564	0596	Buisson (Mathieu-François-Régis) / Bulleyn (Guillaume)
+565	0597	Bulleyn (Guillaume) / Bulliard (Pierre)
+566	0598	Bulliard (Pierre) / Bunon (Robert)
+567	0599	Bunon (Robert) / Burette (Pierre-Jean)
+568	0600	Burette (Pierre-Jean)
+569	0601	Burette (Pierre-Jean) / Burggrav (Jean-Philippe)
+570	0602	Burggrav (Jean-Philippe) / Burnet (Thomas) / Burrhus (Joseph-François)
+571	0603	Burrhus (Joseph-François)
+572	0604	Burrhus (Joseph-François) / Burtin (François-Xavier) / Burton (Jean)
+573	0605	Burton (Jean) / Butini (Jean-Antoine) / Butter (Guillaume)
+574	0606	Butter (Guillaume)
+575	0607	Butter (Guillaume)
+576	0608	Cabanis (Pierre-Jean-George)
+577	0609	Cabanis (Pierre-Jean-George)
+578	0610	Cabanis (Pierre-Jean-George)
+579	0611	Cabanis (Pierre-Jean-George)
+580	0612	Cabanis (Pierre-Jean-George) / Cabrol (Barthélemy)
+581	0613	Cabrol (Barthélemy)
+582	0614	Cabrol (Barthélemy) / Cachet (Christophe)
+583	0615	Cadet-de-Gassicourt (Charles-Louis)
+584	0616	Cadet-de-Gassicourt (Charles-Louis)
+585	0617	Cadet-de-Gassicourt (Charles-Louis) / Cadet-de-Vaux (Antoine-Alexis)
+586	0618	Cadet-de-Vaux (Antoine-Alexis)
+587	0619	Cadet-de-Vaux (Antoine-Alexis) / Cadet-Gassicourt (Louis-Claude)
+588	0620	Cadet-Gassicourt (Louis-Claude)
+589	0621	Cadet-Gassicourt (Louis-Claude) / Cadogan (Guillaume) / Celius Aurelianus
+590	0622	Celius Aurelianus
+591	0623	Celius Aurelianus / Caels (Théodore-Pierre)
+592	0624	Cagnati (Marsile) / Caillau (Jean-Marie)
+593	0625	Caillau (Jean-Marie)
+594	0626	Caillau (Jean-Marie)
+595	0627	Caillau (Jean-Marie) / Caius / Caldani (Léopold-Marc-Antoine)
+596	0628	Caldani (Léopold-Marc-Antoine)
+597	0629	Caldani (Léopold-Marc-Antoine)
+598	0630	Caldani (Léopold-Marc-Antoine)
+599	0631	Caldani (Léopold-Marc-Antoine)
+600	0632	Caldani (Léopold-Marc-Antoine) / Caldera de Heredia / Callard de la ducquerre (Jean-Baptiste)
+601	0633	Callard de la ducquerre (Jean-Baptiste) / Callisen (Henri)
+602	0634	Callisen (Henri) / Callot (François-Joseph)
+603	0635	Callot (François-Joseph) / Calvet (Esprit-Claude-François)
+604	0636	Calvet (Esprit-Claude-François) / Calvo (Jean) / Calvo (Marco Fabio) / Camerarius (Joachim)
+605	0637	Camerarius (Joachim) / Camerarius (Joachim II)
+606	0638	Camerarius (Joachim II)
+607	0639	Camerarius (Joachim II) / Camerarius (Jean-Rodolphe) / Camerarius (Élie-Rodolphe)
+608	0640	Camerarius (Élie-Rodolphe) / Camerarius (Rodolphe-Jacques)
+609	0641	Camerarius (Rodolphe-Jacques) / Camerarius (Élie)
+610	0642	Camerarius (Élie) / Campanella (Thomas)
+611	0643	Campanella (Thomas)
+612	0644	Campanella (Thomas) / Campardon / Camper (Pierre)
+613	0645	Camper (Pierre)
+614	0646	Camper (Pierre)
+615	0647	Camper (Pierre)
+616	0648	Camper (Pierre)
+617	0649	Camper (Pierre)
+618	0650	Camper (Pierre)
+619	0651	Camper (Pierre)
+620	0652	Camper (Pierre) / Campet (Pierre)
+621	0653	Campet (Pierre) / Campolongo (Émile)
+622	0654	Campolongo (Émile) / Camus (Antoine Le)
+623	0655	Camus (Antoine Le) / Campy (David de Planis) / Canevari (Démétrius)
+624	0656	Canevari (Démétrius) / Cangiamila (François-Emmanuel) / Cannani (Jean-Baptiste)
+625	0657	Cannani (Jean-Baptiste) / Cantwel (André)
+626	0658	Cantwel (André)
+627	0659	Cantwel (André) / Capivaccio (Jérôme)
+628	0660	Capivaccio (Jérôme) / Capoa (Léonard di) / Carcano-Leone (Jean-Baptiste)
+629	0661	Carcano-Leone (Jean-Baptiste) / Cardan (Jérôme)
+630	0662	Cardan (Jérôme)
+631	0663	Cardan (Jérôme)
+632	0664	Cardan (Jérôme) / Carl (Jean-Samuel)
+633	0665	Carl (Jean-Samuel) / Carminati (Bassiano)
+634	0666	Carminati (Bassiano)
+635	0667	Carminati (Bassiano) / Caron (J.-Ch.-Félix)
+636	0668	Caron (J.-Ch.-Félix) / Carpi / Carrère (Thomas)
+637	0669	Carrère (Thomas) / Carrère (Joseph-Barthélemy-François)
+638	0670	Carrère (Joseph-Barthélemy-François)
+639	0671	Carrère (Joseph-Barthélemy-François) / Carrero (Pierre-Garcie) / Carrozza (Jean)
+640	0672	Carrozza (Jean) / Cartheuser (Jean-Frédéric)
+641	0673	Cartheuser (Jean-Frédéric) / Cassebohm (Jean-Frédéric)
+642	0674	Cassebohm (Jean-Frédéric) / Casserio (Jules)
+643	0675	Casserio (Jules)
+644	0676	Casserio (Jules) / Cassius
+645	0677	Cassius / Castell (Pierre) / Castellanus / Castelli (Barthélemy)
+646	0678	Castelli (Barthélemy) / Castelli (Pierre)
+647	0679	Castelli (Pierre)
+648	0680	Castelli (Pierre) / Castro (Etienne-Roderic De)
+649	0681	Castro (Etienne-Roderic De) / Castro (Roderic De) / Cat (Le)
+650	0682	Cavallo (Tibère) / Caverhill (Jean)
+651	0683	Caverhill (Jean) / Cize (De La) / Celsus (A. Cornelius)
+652	0684	Celsus (A. Cornelius)
+653	0685	Celsus (A. Cornelius)
+654	0686	Celsus (A. Cornelius)
+655	0687	Celsus (A. Cornelius)
+656	0688	Celsus (A. Cornelius) / Césalpino (André)
+657	0689	Césalpino (André)
+658	0690	Césalpino (André) / Caze (de la) / Chabert (Philibert)
+659	0691	Chabert (Philibert)
+660	0692	Chabert (Philibert) / Chalmers (Lionel) / Chamberlen ou Chamberlayne (Hugues)
+661	0693	Chamberlen ou Chamberlayne (Hugues) / Chambon-de-Montaux (Nicolas)
+662	0694	Chambon-de-Montaux (Nicolas) / Chambon (Joseph) / Champeaux (Claude)
+663	0695	Champeaux (Claude) / Champier (Symphorien)
+664	0696	Champier (Symphorien)
+665	0697	Champier (Symphorien)
+666	0698	Champier (Symphorien) / Chandler (Bernard) / Chandler (George)
+667	0699	Chandler (George) / Chapman (Edmond) / Chapman (Samuel)
+668	0700	Chapman (Samuel) / Chappot / Charas (Moïse)
+669	0701	Charas (Moïse) / Charles (René)
+670	0702	Charles (René) / Charleton ou Charlton (Gauthier)
+671	0703	Charleton ou Charlton (Gauthier)
+672	0704	Charleton ou Charlton (Gauthier)
+673	0705	Charleton ou Charlton (Gauthier) / Charmetton (Jean-Baptiste) / Charrière (Joseph de La) / Chartier (René)
+674	0706	Chartier (René)
+675	0707	Chartier (René) / Chartier (Jean) / Chastel (du) / Chaumeton (François-Pierre)
+676	0708	Chaumeton (François-Pierre)
+677	0709	Chaumeton (François-Pierre) / Chaussier (François)
+678	0710	Chaussier (François)
+679	0711	Chaussier (François)
+680	0712	Chaussier (François)
+681	0713	Chaussier (François) / Chenot (Adam)
+682	0714	Cheselden (Guillaume)
+683	0715	Cheselden (Guillaume)
+684	0716	Cheselden (Guillaume) / Chesne (Du) / Chesneau (Nicolas)
+685	0717	Chesneau (Nicolas) / Cheston (Richard Browne) / Chevalier (Jean-Damien)
+686	0718	Cheyne (George)
+687	0719	Cheyne (George)
+688	0720	Cheyne (George) / Chiarugi (V.)
+689	0721	Chiarugi (V.) / Chicoyneau (François)
+690	0722	Chicoyneau (François) / Chimiatrie / Chimie
+691	0723	Chimie
+692	0724	Chimie
+693	0725	Chimie
+694	0726	Chimie
+695	0727	Chimie
+696	0728	Chimie
+697	0729	Chimie
+698	0730	Chimie
+969	0731	Chimie
+700	0732	Chimie
+701	0733	Chimie
+702	0734	Chimie / Chirac (Pierre)
+703	0735	Chirac (Pierre)
+704	0736	Chirac (Pierre)
+705	0737	Chirac (Pierre)
+706	0738	Chirac (Pierre) / Chirurgie
+707	0739	Chirurgie
+708	0740	Chirurgie
+709	0741	Chirurgie
+710	0742	Chirurgie
+711	0743	Chirurgie
+712	0744	Chirurgie
+713	0745	Chirurgie
+714	0746	Chirurgie
+715	0747	Chirurgie
+716	0748	Chirurgie
+717	0749	Chirurgie
+718	0750	Chirurgie
+719	0751	Chirurgie
+720	0752	Chirurgie
+721	0753	Chirurgie
+722	0754	Chirurgie
+723	0755	Chirurgie
+724	0756	Chirurgie
+725	0757	Chirurgie
+726	0758	Chirurgie
+727	0759	Chirurgie
+728	0760	Chirurgie
+729	0761	Chirurgie
+730	0762	Chirurgie
+731	0763	Chirurgie
+732	0764	Chirurgie
+733	0765	Chirurgie
+734	0766	Chirurgie
+735	0767	Chirurgie
+736	0768	Chirurgie
+737	0769	Chirurgie
+738	0770	Chirurgie
+739	0771	Chirurgie
+740	0772	Chirurgie
+741	0773	Chirurgie
+742	0774	Chirurgie
+743	0775	Chirurgie
+744	0776	Chirurgie
+745	0777	Chirurgie
+746	0778	Chirurgie
+747	0779	Chirurgie
+748	0780	Chirurgie
+749	0781	Chirurgie
+750	0782	Chirurgie
+751	0783	Chirurgie
+752	0784	Chirurgie
+753	0785	Chirurgie
+754	0786	Chirurgie
+755	0787	Chirurgie
+756	0788	Chirurgie
+757	0789	Chirurgie
+758	0790	Chirurgie
+759	0791	Chirurgie
+760	0792	Chirurgie
+761	0793	Chirurgie
+762	0794	Chirurgie
+763	0795	Chirurgie
+764	0796	Chirurgie
+765	0797	Chirurgie
+766	0798	Chirurgie
+767	0799	Chirurgie
+768	0800	Chirurgie
+769	0801	Chirurgie
+770	0802	Chirurgie
+771	0803	Chirurgie
+772	0804	Chirurgie
+773	0805	Chirurgie
+774	0806	Chirurgie
+775	0807	Chirurgie
+776	0808	Chirurgie
+777	0809	Chirurgie
+778	0810	Chirurgie
+779	0811	Chirurgie
+780	0812	Chirurgie
+781	0813	Chirurgie
+782	0814	Chirurgie
+783	0815	Chirurgie
+784	0816	Chirurgie
+785	0817	Chirurgie
+786	0818	Chirurgie
+787	0819	Chirurgie
+788	0820	Chirurgie
+789	0821	Chirurgie
+790	0822	Chirurgie
+791	0823	Chirurgie
+792	0824	Chirurgie
+793	0825	Chirurgie
+794	0826	Chirurgie
+795	0827	Chirurgie
+796	0828	Chirurgie
+797	0829	Chirurgie
+798	0830	Chirurgie
+799	0831	Chirurgie
+800	0832	Chirurgie
+801	0833	Chirurgie
+802	0834	Chirurgie
+803	0835	Chirurgie
+804	0836	Chirurgie
+805	0837	Chirurgie
+806	0838	Chirurgie
+807	0839	Chirurgie
+808	0840	Chirurgie
+809	0841	Chirurgie
+810	0842	Chirurgie
+811	0843	Chirurgie
+812	0844	Chirurgie / Chomel (Pierre-Jean-Baptiste)
+813	0845	Chomel (Pierre-Jean-Baptiste) / Chomel (Jean-Baptiste-Louis)
+814	0846	Chomel (Jean-Baptiste-Louis) / Chopart (François)
+815	0847	Chopart (François) / Cigna (Jean-François)
+816	0848	Cigna (Jean-François)
+817	0849	Cigna (Jean-François) / Cirillo (Dominique)
+818	0850	Cirillo (Dominique)
+819	0851	Cirillo (Dominique) / Citoys (François)
+820	0852	Citoys (François) / Clare (Pierre)
+821	0853	Clare (Pierre) / Clark (Jacques) / Clark (Jean)
+822	0854	Clark (Jean) / Clarke (Jean)
+823	0855	Clarke (Jean) / Clarke (Joseph) / Clauder (Gabriel)
+824	0856	Clauder (Gabriel) / Claudini (Jules-César)
+825	0857	Claudini (Jules-César) / Cleghorn (Georges)
+826	0858	Cleghorn (Georges) / Clerc (Nicolas-Gabriel)
+827	0859	Clerc (Nicolas-Gabriel) / Clerc (Daniel Le) / Clermont (Charles)
+828	0860	Clermont (Charles) / Cleyer (André) / Clifton (François)
+829	0861	Clifton (François) / Clifton de Wintringham
+830	0862	Clifton de Wintringham / Clinch (Guillaume) / Clinique
+831	0863	Clinique
+832	0864	Clinique
+833	0865	Clinique
+834	0866	Clinique
+835	0867	Clinique
+836	0868	Clinique
+837	0869	Clinique / Closs (Jean-Frédéric)
+838	0870	Closs (Jean-Frédéric) / Closs (Charles-Frédéric) / Clowes (Guillaume)
+839	0871	Clowes (Guillaume)
+840	0872	Clowes (Guillaume) / Cocchi (Antoine)
+841	0873	Cocchi (Antoine) / Cocchi (Antoine-Célestin) / Cockburn (Guillaume)
+842	0874	Cockburn (Guillaume) / Codronchi (Baptiste)
+843	0875	Codronchi (Baptiste) / Cohausen (Jean-Henri)
+844	0876	Cohausen (Jean-Henri)
+845	0877	Coiter (Volcard) / Col de Villars (Élie)
+846	0878	Col de Villars (Élie) / Cole (Guillaume)
+847	0879	Cole (Guillaume) / Colin (Sébastien)
+848	0880	Colin (Sébastien) / Collin (Henri-Joseph) / Collins (Samuel)
+849	0881	Collins (Samuel) / Collomb (Barthélemy)
+850	0882	Collomb (Barthélemy) / Colombier (Jean)
+851	0883	Colombier (Jean) / Colombo (Mathieu-Réald)
+852	0884	Colombo (Mathieu-Réald) / Colot
+853	0885	Colot / Combalusier (François de Paule)
+854	0886	Combalusier (François de Paule) / Comparetti (André)
+855	0887	Comparetti (André)
+856	0888	Comparetti (André) / Concoregio (Jean De) / Connor (Bernard)
+857	0889	Connor (Bernard) / Conradi (Georges-Christophe)
+858	0890	Conradi (Georges-Christophe) / Conring ou Conringius (Hermann)
+859	0891	Conring ou Conringius (Hermann)
+860	0892	Conring ou Conringius (Hermann)
+861	0893	Conring ou Conringius (Hermann) / Constantin
+862	0894	Constantin / Coopmans (Georges) / Coopmans (Gadso)
+863	0895	Coopmans (Gadso) / Coq (Pascal Le) / Cordus (Euricius)
+864	0896	Cordus (Euricius) / Cordus (Valérius) / Cornarius / Cornaro (Louis)
+865	0897	Cornaro (Louis) / Corte (Barthélemy)
+866	0898	Corte (Barthélemy) / Cortesi (Jean-Baptiste) / Corvisart Desmarest (Jean-Nicolas)
+867	0899	Corvisart Desmarest (Jean-Nicolas)
+868	0900	Corvisart Desmarest (Jean-Nicolas)
+869	0901	Corvisart Desmarest (Jean-Nicolas)
+870	0902	Corvisart Desmarest (Jean-Nicolas)
+871	0903	Corvisart Desmarest (Jean-Nicolas) / Coschwitz (Georges-Daniel)
+872	0904	Coschwitz (Georges-Daniel) / Costa (Christophe da) / Coste (Jean-François)
+873	0905	Coste (Jean-François)
+874	0906	Coste (Jean-François) / Coste (Urbain)
+875	0907	Coste (Urbain) / Costeo (Jean)
+876	0908	Cotugno (Dominique)
+877	0909	Cotugno (Dominique) / Couillard (Joseph) / Courcelles (Corneille David de)
+878	0910	Courcelles (Corneille David de) / Courcelles (Étienne Chardon de) / Courtial (Jean-Joseph) / Courtin (Germain)
+879	0911	Courtin (Germain) / Coutouly / Coward (Guillaume)
+880	0912	Coward (Guillaume) / Cowper (Guillaume)
+881	0913	Cowper (Guillaume) / Coyttar (Jean)
+882	0914	Coyttar (Jean) / Craanen (Théodore) / Crantz (Henri-Joachim-Népomucène)
+883	0915	Crantz (Henri-Joachim-Népomucène)
+884	0916	Crantz (Henri-Joachim-Népomucène) / Crasso (Jules-Paul) / Crato de crafftheim (Jean)
+885	0917	Crato de crafftheim (Jean)
+886	0918	Crato de crafftheim (Jean) / Crawford (Adair) / Crégut (Frédéric-Chrétien)
+887	0919	Crégut (Frédéric-Chrétien) / Crell (Jean-Frédéric)
+888	0920	Crell (Jean-Frédéric) / Crescenzi ou Crescenzo (Nicolas) / Crispo (Antoine)
+889	0921	Crispo (Antoine) / Croce (Jean-André della)
+890	0922	Croce (Jean-André della) / Croce (Vincent, Alsario della) / Croll (Oswald)
+891	0923	Croll (Oswald) / Cruikshank (Guillaume)
+892	0924	Cruikshank (Guillaume) / Crumpe (Samuel)
+893	0925	Crumpe (Samuel) / Cullen (Guillaume)
+894	0926	Cullen (Guillaume)
+895	0927	Cullen (Guillaume)
+896	0928	Cullen (Guillaume)
+897	0929	Cullen (Guillaume)
+898	0930	Cullen (Guillaume) / Cullerier (Michel)
+899	0931	Cullerier (Michel) / Curerau de la chambre (Marin)
+900	0932	Curerau de la chambre (Marin) / Currie (Jacques)
+901	0933	Currie (Jacques) / Curry (Jean) / Cyprianus (Abraham)
+902	0934	Cyprianus (Abraham)

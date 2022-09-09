@@ -73,8 +73,10 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="(.//tei:pb)[position() = last()]/@n"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
+    <!--
     <xsl:text>/entry</xsl:text>
     <xsl:value-of select="$lf"/>
+    -->
   </xsl:template>
 
   <xsl:template match="tei:orth">
@@ -113,9 +115,9 @@ permettant de raccrocher chaque information lexicale à sa page source.
   <xsl:template match="tei:foreign">
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
-    <xsl:value-of select="$tab"/>
     <xsl:value-of select="@xml:lang"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="normalize-space(.)"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
   

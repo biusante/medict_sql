@@ -1,5 +1,5 @@
 data/* filter=lfs diff=lfs merge=lfs -text
-medica/* filter=lfs diff=lfs merge=lfs -text
+medica_sql/* filter=lfs diff=lfs merge=lfs -text
 
 
 * text eol=lf

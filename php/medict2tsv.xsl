@@ -65,15 +65,18 @@ permettant de raccrocher chaque information lexicale à sa page source.
       <xsl:if test="position() != 1">, </xsl:if>
       <xsl:value-of select="."/>
     </xsl:for-each>
-    <!-- pps -->
+    <!-- page -->
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="count(.//tei:pb)"/>
+    <xsl:value-of select="preceding::tei:pb[1]/@n"/>
     <!-- page2 -->
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="(.//tei:pb)[position() = last()]/@n"/>
+    <!-- pps -->
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="count(.//tei:pb)"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
-    <!--
+    <!-- Non, redondant
     <xsl:text>/entry</xsl:text>
     <xsl:value-of select="$lf"/>
     -->

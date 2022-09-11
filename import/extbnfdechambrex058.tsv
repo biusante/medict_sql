@@ -392,8 +392,6 @@ entry	Mélam
 entry	Mélamine		
 entry	Melampodium		
 entry	Mélampyrine ou Mélampyrite		
-orth	Mélampyrine		
-orth	Mélampyrite		
 ref	Dulcite		
 entry	Melampyrum		
 pb	346	0350	4543752
@@ -477,14 +475,13 @@ pb	408	0412	4543814
 pb	409	0413	4543815
 pb	410	0414	4543816
 entry	Mélanotriques		
-ref	Liotriques et Pileux (système)		
+ref	Liotriques		
+ref	Pileux (système)		
 entry	Mélanthacées		
 entry	Mélanthium		
 pb	411	0415	4543817
 entry	Malanurénique (Acide)		
 entry	Mélanurine ou Mélanourine		
-orth	Mélanurine		
-orth	Mélanourine		
 entry	Mélasme		
 entry	Mélasse		
 entry	Mélassique (Acide)		
@@ -538,10 +535,9 @@ pb	428	0432	4543834
 pb	429	0433	4543835
 pb	430	0434	4543836
 entry	Mélissine, Alcool mélissique		
-orth	Mélissine		
-orth	Alcool mélissique		
 entry	Melissophylum		
-ref	Mélisse et Mélitte		
+ref	Mélisse		
+ref	Mélitte		
 entry	Mélitte		
 pb	431	0435	4543837
 entry	Mélitose		
@@ -554,8 +550,6 @@ pb	432	0436	4543838
 entry	Mellique (Acide)		
 ref	Mellitique (Acide)		
 entry	Mellitates ou Mellates		
-orth	Mellitates		
-orth	Mellates		
 entry	Mellitates d'Ammoniaque		
 entry	Mellites		
 pb	433	0437	4543839
@@ -581,8 +575,6 @@ pb	440	0444	4543846
 entry	Melon		
 entry	Botanique		
 entry	Melon. Bromatologie et emploi médical		
-orth	Melon. Bromatologie		
-orth	emploi médical		
 pb	441	0445	4543847
 entry	Mélongène		
 ref	Adbergine		
@@ -592,12 +584,14 @@ entry	Melopepo
 entry	Melothria		
 entry	Mélothron		
 entry	Melt		
-ref	Agave et Pulqué		
+ref	Agave		
+ref	Pulqué		
 entry	Membranes (Anatomie)		
 pb	442	0446	4543848
 pb	443	0447	4543849
 entry	Membranes (Fausses)		
-ref	Néomembranes et Pseudo-membranes		
+ref	Néomembranes		
+ref	Pseudo-membranes		
 entry	Membranes de l'oeuf		
 pb	444	0448	4543850
 pb	445	0449	4543851
@@ -645,8 +639,6 @@ pb	482	0486	4543888
 pb	483	0487	4543889
 pb	484	0488	4543890
 entry	Membres. Comparaison des membres pelviens et thoraciques		
-orth	Membres. Comparaison des membres pelviens		
-orth	thoraciques		
 pb	485	0489	4543891
 pb	486	0490	4543892
 pb	487	0491	4543893
@@ -671,8 +663,6 @@ pb	505	0509	4543911
 pb	506	0510	4543912
 pb	507	0511	4543913
 entry	Membres. Anthropologie et proportions		
-orth	Membres. Anthropologie		
-orth	proportions		
 pb	508	0512	4543914
 pb	509	0513	4543915
 pb	510	0514	4543916

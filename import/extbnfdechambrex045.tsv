@@ -139,8 +139,6 @@ pb	123	0127	4532964
 pb	124	0128	4532965
 entry	Glaucias		
 entry	Glaucier, Glauciaire		
-orth	Glaucier		
-orth	Glauciaire		
 ref	Glaucium		
 entry	Glaucine		
 pb	125	0129	4532966
@@ -270,8 +268,6 @@ entry	Glayeul
 ref	Glaïeul		
 entry	Gléba		
 entry	Glechon ou Gleichon		
-orth	Glechon		
-orth	Gleichon		
 pb	239	0243	4533080
 entry	Gleditsch (Johann-Gottlieb)		
 pb	240	0244	4533081
@@ -291,13 +287,12 @@ pb	246	0250	4533087
 entry	Gleisweiler (Eau minérale, hydrothérapie et cures de petit-lait et de raisin de)		
 pb	247	0251	4533088
 entry	Gleiteron, Gletteron		
-orth	Gleiteron		
-orth	Gletteron		
 entry	Gleize		
 entry	Gleizes (Jean-Antoine)		
 pb	248	0252	4533089
 entry	Glénoïde (Cavité)		
-ref	Omoplate et Crane (temporal)		
+ref	Omoplate		
+ref	Crane (temporal)		
 entry	Glénoïdien (Ligament)		
 ref	Omoplate		
 entry	Gliadine		
@@ -329,8 +324,6 @@ pb	259	0263	4533100
 pb	260	0264	4533101
 pb	261	0265	4533102
 entry	Globularine, Globularétine		
-orth	Globularine		
-orth	Globularétine		
 pb	262	0266	4533103
 entry	Globularine. Globularétine		
 pb	263	0267	4533104
@@ -345,7 +338,8 @@ pb	271	0275	4533112
 entry	Globule		
 pb	272	0276	4533113
 entry	Globuline		
-ref	Globules et Sang		
+ref	Globules		
+ref	Sang		
 entry	Glodenstede (Hermoldus)		
 entry	Gloméridés		
 entry	Gloriade		
@@ -424,8 +418,6 @@ ref	Glycosides
 entry	Gluta		
 pb	310	0314	4533151
 entry	Glutamique ou Glutaminique (Acide)		
-orth	Glutamique		
-orth	Glutaminique (Acide)		
 pb	311	0315	4533152
 entry	Glutanique (Acide)		
 ref	Glutamique		
@@ -446,9 +438,6 @@ entry	Glycéramine
 pb	314	0318	4533155
 entry	Glycérates		
 entry	Glycérés, Glycérolés, Glycérats		
-orth	Glycérés		
-orth	Glycérolés		
-orth	Glycérats		
 entry	Glycérides		
 pb	315	0319	4533156
 pb	316	0320	4533157
@@ -533,16 +522,12 @@ pb	370	0374	4533211
 entry	Glycocyamine		
 pb	371	0375	4533212
 entry	Glycogène (Matière), Glycogénie		
-orth	Glycogène (Matière)		
-orth	Glycogénie		
 ref	Foie		
 ref	Diabète		
 ref	Digestion		
 ref	Glycosurie		
 ref	Foetus		
 entry	Glycohémie ou Glycémie		
-orth	Glycohémie		
-orth	Glycémie		
 pb	372	0376	4533213
 pb	373	0377	4533214
 pb	374	0378	4533215
@@ -601,17 +586,11 @@ entry	Glyconine
 entry	Glycosane		
 pb	416	0420	4533257
 entry	Glycose, Glucose		
-orth	Glycose		
-orth	Glucose		
 entry	Glycose, Glucose. Chimie		
-orth	Glycose		
-orth	Glucose. Chimie		
 pb	417	0421	4533258
 pb	418	0422	4533259
 pb	419	0423	4533260
 entry	Glycose, Glucose. Emploi		
-orth	Glycose		
-orth	Glucose. Emploi		
 pb	420	0424	4533261
 pb	421	0425	4533262
 entry	Glycosides		
@@ -680,8 +659,6 @@ pb	465	0469	4533306
 entry	Göbel (Les)		
 pb	466	0470	4533307
 entry	Gobelet d'eau ou Écuelle d'eau		
-orth	Gobelet d'eau		
-orth	Écuelle d'eau		
 entry	Gobelets médicamenteux		
 entry	Gobe-mouche		
 pb	467	0471	4533308
@@ -898,17 +875,11 @@ entry	Golondrina
 entry	Goltz (Johann-Georg)		
 pb	634	0638	4533475
 entry	Gomart, Gommart		
-orth	Gomart		
-orth	Gommart		
 pb	635	0639	4533476
 entry	Gombo, Gombeau		
-orth	Gombo		
-orth	Gombeau		
 entry	Gomes (Bernardino-Antonio)		
 pb	636	0640	4533477
 entry	Gomes ou Gomez (Emmanuel)		
-orth	Gomes		
-orth	Gomez (Emmanuel)		
 entry	Gomez Miedes (Bernardin)		
 pb	637	0641	4533478
 entry	Gomez (Les)		
@@ -920,8 +891,6 @@ entry	Gomme-Gutte. Emploi
 pb	640	0644	4533481
 entry	Gommes		
 entry	Gommes. Matière médicale et chimie		
-orth	Gommes. Matière médicale		
-orth	chimie		
 pb	641	0645	4533482
 pb	642	0646	4533483
 pb	643	0647	4533484
@@ -943,11 +912,7 @@ pb	657	0661	4533498
 pb	658	0662	4533499
 pb	659	0663	4533500
 entry	Gommes, Tumeurs Gommeuses		
-orth	Gommes		
-orth	Tumeurs Gommeuses		
 entry	Gommes, Tumeurs Gommeuses. En général		
-orth	Gommes		
-orth	Tumeurs Gommeuses. En général		
 pb	660	0664	4533501
 pb	661	0665	4533502
 pb	662	0666	4533503
@@ -959,9 +924,6 @@ pb	667	0671	4533508
 pb	668	0672	4533509
 pb	669	0673	4533510
 entry	Gommes, Tumeurs Gommeuses. Gommes scrofuleuses ou scrofulo-tuberculeuses		
-orth	Gommes		
-orth	Tumeurs Gommeuses. Gommes scrofuleuses		
-orth	scrofulo-tuberculeuses		
 pb	670	0674	4533511
 pb	671	0675	4533512
 pb	672	0676	4533513
@@ -1006,8 +968,6 @@ entry	Gomphose
 entry	Gomphrena		
 pb	702	0706	4533543
 entry	Gonaké ou Gonakié		
-orth	Gonaké		
-orth	Gonakié		
 ref	Gommes		
 entry	Gonalgie		
 entry	Dondela (Christian-Adam)		
@@ -1044,9 +1004,6 @@ pb	714	0718	4533555
 entry	Goodwyn (Edmund)		
 pb	715	0719	4533556
 entry	Googool, Googul, Googula		
-orth	Googool		
-orth	Googul		
-orth	Googula		
 entry	Gopâla Sena Kaviraja		
 pb	716	0720	4533557
 entry	Görcke (Johann)		

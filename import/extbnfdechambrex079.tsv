@@ -92,8 +92,6 @@ pb	68	0072	4579730
 pb	69	0073	4579731
 pb	70	0074	4579732
 entry	Pouls. Pathologie et séméiotique		
-orth	Pouls. Pathologie		
-orth	séméiotique		
 pb	71	0075	4579733
 pb	72	0076	4579734
 pb	73	0077	4579735
@@ -243,8 +241,6 @@ pb	210	0214	4579872
 entry	Embolies pulmonaires		
 ref	Embolie		
 entry	Poumons. Pathologie. Hémorrhagies ou apoplexies pulmonaires		
-orth	Poumons. Pathologie. Hémorrhagies		
-orth	apoplexies pulmonaires		
 pb	211	0215	4579873
 pb	212	0216	4579874
 pb	213	0217	4579875
@@ -427,8 +423,6 @@ entry	Power (John-Hatch)
 entry	Poyais (Les)		
 ref	Centre-Amérique		
 entry	Pratensis ou A. Pratis (Jason)		
-orth	Pratensis		
-orth	A. Pratis (Jason)		
 entry	Pravaz (Charles-Gabriel)		
 pb	366	0370	4580028
 entry	Praxagoras		
@@ -481,8 +475,6 @@ entry	Presbytie. Presbiopie
 pb	395	0399	4580057
 pb	396	0400	4580058
 entry	Presbytie, Presbiopie		
-orth	Presbytie		
-orth	Presbiopie		
 entry	Prese (le) (Eaux minérales de)		
 ref	Le Prese		
 entry	Presse-artère		
@@ -543,7 +535,8 @@ pb	415	0419	4580077
 pb	416	0420	4580078
 entry	Proencéphales		
 entry	Proglottis		
-ref	Taenia et Cestoïdes		
+ref	Taenia		
+ref	Cestoïdes		
 entry	Prognathisme		
 ref	Orthognathisme		
 entry	Prolifération		
@@ -590,8 +583,6 @@ pb	434	0438	4580096
 entry	Propiac (Eaux minérales de)		
 pb	435	0439	4580097
 entry	Propionamide ou Propionylamide		
-orth	Propionamide		
-orth	Propionylamide		
 entry	Propione		
 entry	Propionique (Acide)		
 pb	436	0440	4580098
@@ -608,8 +599,6 @@ entry	Propylarsines
 entry	Propylazaurolique (Acide)		
 entry	Propylbenzine		
 entry	Propylbenzoyle ou Propylphénylacétone		
-orth	Propylbenzoyle		
-orth	Propylphénylacétone		
 entry	Propyldiéthylcarbinol		
 ref	Pseudoctylique (Alcool)		
 entry	Propyle		
@@ -619,22 +608,14 @@ pb	440	0444	4580102
 entry	Propylène-Diamine		
 entry	Propyléthényltricarbonique (Acide)		
 entry	Propyléthylacétone ou Éthylbutyryle		
-orth	Propyléthylacétone		
-orth	Éthylbutyryle		
 entry	Propylglycol		
 entry	Propyliques (Combinaisons)		
 pb	441	0445	4580103
 entry	Propylméthylacétone ou Méthylbutyryle		
-orth	Propylméthylacétone		
-orth	Méthylbutyryle		
 entry	Propylméthylcarbinol ou Méthylpropylcarbinol		
-orth	Propylméthylcarbinol		
-orth	Méthylpropylcarbinol		
 entry	Propylnitrolique (Acide)		
 entry	Propylphycite		
 entry	Propylpseudonitrol ou Nitrosonitropropane		
-orth	Propylpseudonitrol		
-orth	Nitrosonitropropane		
 pb	442	0446	4580104
 entry	Propylsuccinique (Acide)		
 entry	Propyltoluène		
@@ -645,8 +626,6 @@ ref	Trijumeau
 ref	etc		
 entry	Prostate		
 entry	Anatomie et physiologie		
-orth	Anatomie		
-orth	physiologie		
 ref	Urèthre		
 entry	Prostate. Pathologie		
 pb	443	0447	4580105
@@ -775,7 +754,8 @@ entry	Protée
 pb	558	0562	4580220
 entry	Protéine		
 entry	Protéiques (Substances)		
-ref	Protéine et Albuminoïdes		
+ref	Protéine		
+ref	Albuminoïdes		
 entry	Protéroglyphes		
 entry	Prothèse		
 ref	Opérations		
@@ -785,8 +765,6 @@ pb	559	0563	4580221
 entry	Protistes		
 ref	Protozoaires		
 entry	Protocarbure d'hydrogène ou Acétylène		
-orth	Protocarbure d'hydrogène		
-orth	Acétylène		
 pb	560	0564	4580222
 entry	Protocatéchique (Acide)		
 entry	Protopine		
@@ -969,15 +947,14 @@ entry	Pseudis
 entry	Pseudobutyléne		
 entry	Pseudobutylique (Alcool)		
 entry	Pseudochromine ou Strychnochromine		
-orth	Pseudochromine		
-orth	Strychnochromine		
 entry	Pseudoctylique (Alcool)		
 entry	Pseudocumène		
 pb	702	0706	4580364
 entry	Pseudocurarine		
 entry	Pseudoleucine		
 entry	Pseudomembranes		
-ref	Néomembranes et Pseudhymènes		
+ref	Néomembranes		
+ref	Pseudhymènes		
 entry	Pseudomorphine		
 entry	Pseudonavicelles		
 ref	Psonospermies		
@@ -1105,7 +1082,8 @@ ref	Maxillaire supérieur
 entry	Ptérygo-Palatin (Vaisseaux)		
 ref	Maxillaire-interne (Artère)		
 entry	Ptérygoïde (Apophyse)		
-ref	Crane et Sphénoïde		
+ref	Crane		
+ref	Sphénoïde		
 entry	Ptérygoïdien Interne (Nerf)		
 ref	Maxillaire Inférieur		
 entry	Ptérygoïdiens (Muscles)		
@@ -1125,8 +1103,6 @@ pb	793	0797	4580455
 pb	794	0798	4580456
 pb	795	0799	4580457
 entry	Ptyaline et Ptyalisme		
-orth	Ptyaline		
-orth	Ptyalisme		
 ref	Salivaires		
 entry	Ptychotis		
 pb	796	0800	4580458
@@ -1181,7 +1157,8 @@ entry	Puchelt (Friedr.- August-Benj.)
 entry	Puda (La) (Eaux minérales de)		
 ref	La Puda		
 entry	Puelches		
-ref	Chili et Amérique		
+ref	Chili		
+ref	Amérique		
 entry	Puerpérale (Fièvre)		
 ref	Septicémie		
 entry	Pugnet (Jean-François-Xavier)		
@@ -1208,8 +1185,6 @@ entry	Pulvérisation
 pb	842	0846	4580504
 pb	843	0847	4580505
 entry	Pulvique ou Pulvinique (Acide)		
-orth	Pulvique		
-orth	Pulvinique (Acide)		
 entry	Puma		
 pb	844	0848	4580506
 entry	Punaise		
@@ -1277,8 +1252,6 @@ pb	894	0898	4580556
 pb	895	0899	4580557
 pb	896	0900	4580558
 entry	Purpuramide ou Purpuréine		
-orth	Purpuramide		
-orth	Purpuréine		
 entry	Purpuramique (Acide)		
 entry	Purpurate		
 entry	Purpurholcine		
@@ -1289,11 +1262,7 @@ entry	Histologie
 entry	Purpurique (Acide)		
 entry	Purpurogalline		
 entry	Purrée ou Purrhée		
-orth	Purrée		
-orth	Purrhée		
 entry	Purréon ou Purrhéon		
-orth	Purréon		
-orth	Purrhéon		
 entry	Pus		
 ref	Suppuration		
 entry	Pustule Maligne		
@@ -1380,8 +1349,6 @@ pb	932	0936	4580594
 pb	933	0937	4580595
 entry	Pyroamarique (Acide)		
 entry	Pyrocatéchine ou Acide Pyrocatéchique		
-orth	Pyrocatéchine		
-orth	Acide Pyrocatéchique		
 entry	Pyrocinchonique (Acide)		
 pb	934	0938	4580596
 entry	Pyrocitriques (Acides)		
@@ -1394,8 +1361,6 @@ entry	Pyrogaïacique (Acide)
 entry	Pyrogalléine		
 pb	935	0939	4580597
 entry	Pyrogallique (Acide) ou Pyrogallol		
-orth	Pyrogallique (Acide)		
-orth	Pyrogallol		
 entry	Pyrogallocarbonique (Acide)		
 entry	Pyrogalloquinone		
 pb	936	0940	4580598
@@ -1461,8 +1426,6 @@ entry	Pyroxylique (Acide)
 entry	Pyrrhopine		
 entry	Pyrrhorétine		
 entry	Pyrrol ou Pyrrhol		
-orth	Pyrrol		
-orth	Pyrrhol		
 entry	Pyruvique (Acide)		
 pb	944	0948	4580606
 entry	Pythagore		

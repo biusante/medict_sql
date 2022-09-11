@@ -73,42 +73,28 @@ pb	64	0068	4566944
 pb	65	0069	4566945
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale		
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	66	0070	4566946
 pb	67	0071	4566947
 pb	68	0072	4566948
 pb	69	0073	4566949
 pb	70	0074	4566950
 entry	Musculaire (Tissu). Pathologie (suite). Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	71	0075	4566951
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	72	0076	4566952
 pb	73	0077	4566953
 pb	74	0078	4566954
 entry	Musculaire (Tissu). Pathologie (suite). Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	75	0079	4566955
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	76	0080	4566956
 pb	77	0081	4566957
 pb	78	0082	4566958
 pb	79	0083	4566959
 pb	80	0084	4566960
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale.  Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale.  Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	81	0085	4566961
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
-orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique		
-orth	myo-sclérosique		
 pb	82	0086	4566962
 pb	83	0087	4566963
 pb	84	0088	4566964
@@ -159,20 +145,14 @@ pb	126	0130	4567006
 entry	Musculaire de la cuisse (Artère)		
 ref	Crurale (Artère)		
 entry	Musculaires supérieure et inférieure (Artères)		
-orth	Musculaires supérieure		
-orth	inférieure (Artères)		
 ref	Ophthalmiques		
 entry	Musculine ou Syntonine		
-orth	Musculine		
-orth	Syntonine		
 ref	Musculaire (Tissu)		
 entry	Musculo-cutané du bras (Nerf)		
 ref	Brachial (Plexus)		
 entry	Musculo-cutané de la jambe (Nerf)		
 ref	Poplité externe (Nerf)		
 entry	Musculo-cutanés de la cuisse interne et externe (Nerfs)		
-orth	Musculo-cutanés de la cuisse interne		
-orth	externe (Nerfs)		
 ref	Crural (Nerf)		
 entry	Musculo-phrénique (Artère)		
 ref	Mammaire interne		
@@ -241,7 +221,8 @@ pb	172	0176	4567052
 entry	Muzel (Fréderic-Hermann-Louis)		
 entry	Myagrum		
 entry	Mycélium		
-ref	Achorion et Champignons		
+ref	Achorion		
+ref	Champignons		
 entry	Mycenés		
 ref	Agaric		
 entry	Mycétome		
@@ -304,8 +285,6 @@ entry	Myélocone
 entry	Myélocyte		
 entry	Myéloïdes (Tumeurs)		
 entry	Myéloïdine, Myéloïdique (Acide)		
-orth	Myéloïdine		
-orth	Myéloïdique (Acide)		
 entry	Myéloplaxes		
 entry	Myéloplaxome		
 entry	Mygales		
@@ -341,8 +320,6 @@ entry	Myodynie
 ref	Musculaire (Tissu)		
 entry	Myognathe		
 entry	Myographes, Myographie		
-orth	Myographes		
-orth	Myographie		
 pb	226	0230	4567106
 pb	227	0231	4567107
 pb	228	0232	4567108
@@ -458,8 +435,6 @@ entry	Myrica
 pb	318	0322	4567198
 pb	319	0323	4567199
 entry	Myricacées ou Myricées		
-orth	Myricacées		
-orth	Myricées		
 entry	Myricine		
 entry	Myricique (Alcool)		
 entry	Myriophyllum		
@@ -490,8 +465,6 @@ entry	Myroxylon
 entry	Myroxocarpine		
 entry	Myrrhe		
 entry	Myrrhe. Matière médicale et Pharmacologie		
-orth	Myrrhe. Matière médicale		
-orth	Pharmacologie		
 pb	324	0328	4567204
 pb	325	0329	4567205
 pb	326	0330	4567206
@@ -553,8 +526,6 @@ entry	Addenda. Moreau de la Sarthe (Louis-Jacques)
 pb	358	0362	4567238
 pb	359	0363	4567239
 entry	Nabca ou Nabeca		
-orth	Nabca		
-orth	Nabeca		
 entry	Nabias (Eau minérale de)		
 pb	360	0364	4567240
 entry	Naboth (Glandes, Nerfs de)		
@@ -596,15 +567,11 @@ ref	Identité
 entry	Naga-Musadie		
 entry	Nagam		
 entry	Nagas ou Naghas		
-orth	Nagas		
-orth	Naghas		
 pb	382	0386	4567262
 entry	Nagel (Les)		
 entry	Nagences		
 ref	Araignées		
 entry	Nagesur ou Nag-Kesar		
-orth	Nagesur		
-orth	Nag-Kesar		
 pb	383	0387	4567263
 entry	Nain		
 ref	Nanisme		
@@ -627,8 +594,6 @@ entry	Nandhicoba
 ref	Nhandicoba		
 entry	Nandi-Ervatam		
 entry	Nandine ou Nandin		
-orth	Nandine		
-orth	Nandin		
 pb	386	0390	4567266
 entry	Nandou		
 entry	Nanisme		
@@ -663,8 +628,6 @@ entry	Naphtaline. Chimie
 pb	399	0403	4567279
 entry	Emploi médical		
 entry	Naphthaltriamine et Naphtaltétramine		
-orth	Naphthaltriamine		
-orth	Naphtaltétramine		
 pb	400	0404	4567280
 entry	Naphtaméine		
 entry	Naphtase		
@@ -690,16 +653,11 @@ entry	Naphtoxalique (Acide)
 entry	Naphtulmine		
 pb	405	0409	4567285
 entry	Naphtylamine, Naphtalidine, Naphtalidam		
-orth	Naphtylamine		
-orth	Naphtalidine		
-orth	Naphtalidam		
 pb	406	0410	4567286
 pb	407	0411	4567287
 pb	408	0412	4567288
 entry	Naphtylcarbamide		
 entry	Naphtyldiamine ou mieux Naphtylène diamine		
-orth	Naphtyldiamine		
-orth	mieux Naphtylène diamine		
 pb	409	0413	4567289
 entry	Napitèles		
 ref	Araignées		
@@ -708,7 +666,8 @@ pb	410	0414	4567290
 pb	411	0415	4567291
 pb	412	0416	4567292
 entry	Napolitain (Onguent)		
-ref	Mercure et Onguent		
+ref	Mercure		
+ref	Onguent		
 entry	Napus		
 entry	Narcéine		
 entry	Narcéine. Chimie		
@@ -756,7 +715,8 @@ entry	Nardostachys
 pb	426	0430	4567306
 entry	Nardus		
 entry	Narines		
-ref	Nasale (Région) et Nez		
+ref	Nasale (Région)		
+ref	Nez		
 entry	Narthécine		
 entry	Narthécique (Acide)		
 entry	Narthécium		
@@ -790,9 +750,6 @@ pb	441	0445	4567321
 entry	Nasique		
 pb	442	0446	4567322
 entry	Nasitar, Nasitor ou Nasitort		
-orth	Nasitar		
-orth	Nasitor		
-orth	Nasitort		
 entry	Naso-lobaire (Artère)		
 ref	Maxillaire externe (Artère)		
 entry	Naso-lobaire (Nerf)		

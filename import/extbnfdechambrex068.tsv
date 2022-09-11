@@ -95,8 +95,6 @@ pb	82	0086	4570986
 pb	83	0087	4570987
 entry	Ophthalmo-microscope		
 entry	Ophthalmoscopie, Ophthalmoscope		
-orth	Ophthalmoscopie		
-orth	Ophthalmoscope		
 pb	84	0088	4570988
 pb	85	0089	4570989
 pb	86	0090	4570990
@@ -165,8 +163,6 @@ entry	Opitz (Rudolph-Karl-Friedrich)
 pb	136	0140	4571040
 entry	Opium		
 entry	Opium. Matière médicale et chimie		
-orth	Opium. Matière médicale		
-orth	chimie		
 pb	137	0141	4571041
 pb	138	0142	4571042
 pb	139	0143	4571043
@@ -333,8 +329,6 @@ entry	Oppression
 entry	Opsago		
 entry	Opsantha		
 entry	Opsopaeus ou Obsopaeus (Jean)		
-orth	Opsopaeus		
-orth	Obsopaeus (Jean)		
 entry	Optique (Nerf)		
 entry	Optique (Nerf). Anatomie		
 pb	273	0277	4571177
@@ -431,8 +425,6 @@ pb	349	0353	4571253
 pb	350	0354	4571254
 pb	351	0355	4571255
 entry	Optique (Nerf). Pathologie. Hemiopie ou Hemianopsie		
-orth	Optique (Nerf). Pathologie. Hemiopie		
-orth	Hemianopsie		
 pb	352	0356	4571256
 pb	353	0357	4571257
 pb	354	0358	4571258
@@ -537,8 +529,6 @@ entry	Optiques (Bandelettes)
 ref	Optique (Nerf)		
 entry	Optiques (Corps)		
 entry	Optométrie, Optomètre		
-orth	Optométrie		
-orth	Optomètre		
 pb	450	0454	4571354
 pb	451	0455	4571355
 pb	452	0456	4571356
@@ -591,8 +581,6 @@ pb	493	0497	4571397
 pb	494	0498	4571398
 entry	Or		
 entry	Or. Pharmacie et posologie		
-orth	Or. Pharmacie		
-orth	posologie		
 pb	495	0499	4571399
 pb	496	0500	4571400
 pb	497	0501	4571401
@@ -610,23 +598,14 @@ pb	503	0507	4571407
 pb	504	0508	4571408
 pb	505	0509	4571409
 entry	Orange, Orangers		
-orth	Orange		
-orth	Orangers		
 entry	Orange, Orangers. Botanique		
-orth	Orange		
-orth	Orangers. Botanique		
 pb	506	0510	4571410
 entry	Orange, Orangers. Pharmacologie		
-orth	Orange		
-orth	Orangers. Pharmacologie		
 pb	507	0511	4571411
 pb	508	0512	4571412
 pb	509	0513	4571413
 pb	510	0514	4571414
 entry	Orange, Orangers. Emploi médical et bromatologique		
-orth	Orange		
-orth	Orangers. Emploi médical		
-orth	bromatologique		
 pb	511	0515	4571415
 entry	Orangette		
 ref	Orange		
@@ -650,7 +629,8 @@ pb	526	0530	4571430
 pb	527	0531	4571431
 entry	Ora serrata		
 ref	Choroïde		
-ref	Ciliaire et Oeil		
+ref	Ciliaire		
+ref	Oeil		
 entry	Orbiculaire des lèvres		
 entry	Orbiculaire des paupières		
 pb	528	0532	4571432
@@ -921,7 +901,7 @@ pb	757	0761	4571661
 pb	758	0762	4571662
 entry	Orcyon		
 entry	Ordonez (Les)		
-entry	O'Reardon (John)		
+entry	Reardon (John)		
 pb	759	0763	4571663
 entry	Oreille		
 entry	Botanique		

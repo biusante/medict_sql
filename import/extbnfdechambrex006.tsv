@@ -11,8 +11,6 @@ entry	Arbuthnot (John)
 entry	Arbutus		
 ref	Arbousier		
 entry	Arc ou Cercle sénile		
-orth	Arc		
-orth	Cercle sénile		
 pb	5	0009	4502443
 pb	6	0010	4502444
 pb	7	0011	4502445
@@ -32,15 +30,11 @@ pb	19	0023	4502457
 entry	Arcade		
 pb	20	0024	4502458
 entry	Arcaeus (François), ou Arcé		
-orth	Arcaeus (François)		
-orth	Arcé		
 entry	Arcana polychressa		
 ref	Coïx		
 entry	Arcane		
 pb	21	0025	4502459
 entry	Arcentis, Arcenthos		
-orth	Arcentis		
-orth	Arcenthos		
 ref	Genévrier		
 entry	Archagathus		
 pb	22	0026	4502460
@@ -54,7 +48,8 @@ entry	Archangélique. Thérapeutique
 pb	25	0029	4502463
 pb	26	0030	4502464
 entry	Archée		
-ref	Van Helmont et Médecine (Histoire de la)		
+ref	Van Helmont		
+ref	Médecine (Histoire de la)		
 entry	Archena (Eau minérale d')		
 pb	27	0031	4502465
 pb	28	0032	4502466
@@ -73,8 +68,6 @@ pb	37	0041	4502475
 pb	38	0042	4502476
 entry	Archigènes		
 entry	Arcolini ou Ercolini (Giov.)		
-orth	Arcolini		
-orth	Ercolini (Giov.)		
 entry	Arconnage		
 ref	Chapeliers		
 entry	Arctium		
@@ -86,8 +79,6 @@ entry	Arcus germenaticus
 ref	Embryon		
 entry	Ardisie		
 entry	Ardoini ou Arduino (Sante)		
-orth	Ardoini		
-orth	Arduino (Sante)		
 pb	40	0044	4502478
 entry	Ardrukum		
 entry	Areaa		
@@ -103,8 +94,6 @@ entry	Arellano (Pietro-Fr.)
 entry	Arenaria		
 entry	Arénation		
 entry	Arend, Arendi		
-orth	Arend		
-orth	Arendi		
 entry	Areng		
 pb	46	0050	4502484
 pb	47	0051	4502485
@@ -125,8 +114,6 @@ pb	53	0057	4502491
 entry	Argas		
 pb	54	0058	4502492
 entry	Argel ou Arghel		
-orth	Argel		
-orth	Arghel		
 pb	55	0059	4502493
 pb	56	0060	4502494
 entry	Argémone		
@@ -196,7 +183,8 @@ entry	Argus
 entry	Argyrée		
 pb	97	0101	4502535
 entry	Aria		
-ref	Alouchier et Poirier		
+ref	Alouchier		
+ref	Poirier		
 entry	Aria-Bepou		
 ref	Melia		
 entry	Ariena		
@@ -215,8 +203,6 @@ entry	Arisar
 entry	Arisème		
 pb	105	0109	4502543
 entry	Arisi, Arisée		
-orth	Arisi		
-orth	Arisée		
 ref	Riz		
 entry	Aristalthée		
 ref	Guimauve		
@@ -249,8 +235,6 @@ ref	Mercuriale
 entry	Ark		
 ref	Salvadora		
 entry	Arlanc ou Arlant (Eaux minérales d')		
-orth	Arlanc		
-orth	Arlant (Eaux minérales d')		
 pb	126	0130	4502564
 entry	Arlant		
 ref	Arlanc (Eaux minérales d')		
@@ -262,7 +246,8 @@ ref	Amélie-les-Bains
 entry	Arma (Jean-François)		
 entry	Armadille		
 entry	Armée		
-ref	Hygiène militaire et Population		
+ref	Hygiène militaire		
+ref	Population		
 entry	Armel		
 ref	Peganum		
 entry	Armengaud de Montpellier		
@@ -297,8 +282,6 @@ pb	145	0149	4502583
 entry	Armol		
 ref	Arroche		
 entry	Armoracia, Armoraria		
-orth	Armoracia		
-orth	Armoraria		
 ref	Raifort		
 entry	Armurier		
 ref	Fer		
@@ -345,8 +328,6 @@ entry	Aroidées
 pb	161	0165	4502599
 entry	Aromadendron		
 entry	Aromatari ou De Aromatariis (Joseph)		
-orth	Aromatari		
-orth	De Aromatariis (Joseph)		
 pb	162	0166	4502600
 entry	Aromates		
 entry	Aromatiques		
@@ -370,8 +351,6 @@ pb	168	0172	4502606
 entry	Arouarou		
 ref	Icica		
 entry	Arouffle, Arousse		
-orth	Arouffle		
-orth	Arousse		
 ref	Lentille		
 entry	Arpuli		
 ref	Casse		
@@ -504,8 +483,6 @@ pb	257	0261	4502695
 pb	258	0262	4502696
 pb	259	0263	4502697
 entry	Arsenicophages ou Toxicophages		
-orth	Arsenicophages		
-orth	Toxicophages		
 pb	260	0264	4502698
 pb	261	0265	4502699
 entry	Arsénieux (Acide)		
@@ -530,9 +507,6 @@ pb	262	0266	4502700
 entry	Artemidion		
 ref	Amaracus		
 entry	Artémise, Artemisia, Arthemisia		
-orth	Artémise		
-orth	Artemisia		
-orth	Arthemisia		
 ref	Armoise		
 entry	Artère		
 entry	Artère. Anatomie		
@@ -721,7 +695,8 @@ ref	Pseudarthroses
 entry	Articulés		
 pb	409	0413	4502847
 entry	Artificiers		
-ref	Fulminates et Poudrières		
+ref	Fulminates		
+ref	Poudrières		
 entry	Artistes		
 entry	Artocarpe		
 pb	410	0414	4502848
@@ -733,9 +708,8 @@ ref	Ptychotis
 entry	Aruda		
 ref	Rue		
 entry	Aruera, Arueira		
-orth	Aruera		
-orth	Arueira		
-ref	Lentisque et Schinus		
+ref	Lentisque		
+ref	Schinus		
 entry	Arugam-Vayr		
 pb	413	0417	4502851
 entry	Arum		
@@ -772,8 +746,6 @@ pb	420	0424	4502858
 pb	421	0425	4502859
 pb	422	0426	4502860
 entry	Asa-Foetida. Matière médicale et Pharmacologie		
-orth	Asa-Foetida. Matière médicale		
-orth	Pharmacologie		
 pb	423	0427	4502861
 pb	424	0428	4502862
 entry	Asa-Foetida. Thérapeutique		
@@ -788,7 +760,8 @@ entry	Asapeixe
 entry	Asarabacca		
 ref	Asaret		
 entry	Asarath		
-ref	Chanvre et Haschisch		
+ref	Chanvre		
+ref	Haschisch		
 entry	Asaret		
 entry	Asaret. Botanique		
 pb	429	0433	4502867
@@ -798,8 +771,6 @@ pb	431	0435	4502869
 pb	432	0436	4502870
 entry	Asarine		
 entry	Asarite et Asarone		
-orth	Asarite		
-orth	Asarone		
 ref	Asaret		
 entry	Asarum		
 entry	Ascalia		
@@ -968,11 +939,7 @@ entry	Asmonich (Écorce d')
 ref	Quinquina		
 pb	569	0573	4503007
 entry	Aspalath ou Aspalathe		
-orth	Aspalath		
-orth	Aspalathe		
 entry	Aspalasome, Aspalasomie		
-orth	Aspalasome		
-orth	Aspalasomie		
 entry	Asparagine		
 pb	570	0574	4503008
 entry	Asparaginées		

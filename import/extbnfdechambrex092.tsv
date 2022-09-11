@@ -345,8 +345,6 @@ pb	323	0327	4590507
 pb	324	0328	4590508
 pb	325	0329	4590509
 entry	Suicide. Médecine légale et législation		
-orth	Suicide. Médecine légale		
-orth	législation		
 pb	326	0330	4590510
 pb	327	0331	4590511
 pb	328	0332	4590512
@@ -387,8 +385,6 @@ entry	Suint
 entry	Suisse		
 ref	Helvétique (République)		
 entry	Suji-Kar ou Kar-Suji		
-orth	Suji-Kar		
-orth	Kar-Suji		
 pb	354	0358	4590538
 entry	Sulfacétique (Acide)		
 entry	Sulfacide		
@@ -396,20 +392,12 @@ entry	Sulfamide
 entry	Sulfamique (Acide)		
 pb	355	0359	4590539
 entry	Sulfamylique (Acide) ou Amylsulfurique (Acide)		
-orth	Sulfamylique (Acide)		
-orth	Amylsulfurique (Acide)		
 pb	356	0360	4590540
 entry	Sulfamylo-sulfurique (Acide) ou Amylsulfureux (Acide)		
-orth	Sulfamylo-sulfurique (Acide)		
-orth	Amylsulfureux (Acide)		
 entry	Sulfanilique (Acide)		
 pb	357	0361	4590541
 entry	Sulfantimonieux et Sulfantimonique (Acides)		
-orth	Sulfantimonieux		
-orth	Sulfantimonique (Acides)		
 entry	Sulfarsénieux et Sulfarsénique (Acides)		
-orth	Sulfarsénieux		
-orth	Sulfarsénique (Acides)		
 entry	Sulfates en général		
 pb	358	0362	4590542
 entry	Sulfateurs et Sulfatiers (Hygiène professionnelle et industrielle)		
@@ -423,13 +411,10 @@ pb	365	0369	4590549
 pb	366	0370	4590550
 pb	367	0371	4590551
 entry	Sulfazotates, Sulfazotites		
-orth	Sulfazotates		
-orth	Sulfazotites		
 entry	Sulféthyle		
-ref	Éthers et Mercaptan		
+ref	Éthers		
+ref	Mercaptan		
 entry	Sulféthylsulfurique (Acide) ou Éthylsulfureux (Acide)		
-orth	Sulféthylsulfurique (Acide)		
-orth	Éthylsulfureux (Acide)		
 pb	368	0372	4590552
 entry	Sulfhydramide		
 entry	Sulfhydrique (Acide)		
@@ -451,23 +436,18 @@ pb	380	0384	4590564
 entry	Sulfhydroquinone		
 pb	381	0385	4590565
 entry	Sulfhydrovinique (Acide) ou Éthylsulfhydrique (Acide)		
-orth	Sulfhydrovinique (Acide)		
-orth	Éthylsulfhydrique (Acide)		
 entry	Sulfides		
 entry	Sulfindigotique (Acide) ou Sulfindylique (Acide)		
-orth	Sulfindigotique (Acide)		
-orth	Sulfindylique (Acide)		
 pb	382	0386	4590566
 entry	Sulfisatyde		
 entry	Sulfites en général		
 entry	Sulfites en général. Chimie		
 pb	383	0387	4590567
 entry	Emploi médical		
-ref	Potasse et Soude		
+ref	Potasse		
+ref	Soude		
 entry	Sulfobenzide		
 entry	Sulfobenzidique (Acide) ou Phénil-Sulfureux (Acide)		
-orth	Sulfobenzidique (Acide)		
-orth	Phénil-Sulfureux (Acide)		
 pb	384	0388	4590568
 entry	Sulfobenzoïle		
 entry	Sulfobenzoïque (Acide)		
@@ -481,32 +461,18 @@ ref	Sulfophénique (Acide)
 entry	Sulfocarbonique (Acide)		
 ref	Carbone		
 entry	Sulfocarbovinique (Acide) ou Éthyldisulfocarbonique (Acide) ou Xanthique (Acide)		
-orth	Sulfocarbovinique (Acide)		
-orth	Éthyldisulfocarbonique (Acide)		
-orth	Xanthique (Acide)		
 pb	386	0390	4590570
 entry	Sulfocyanates, Sulfocyanures		
-orth	Sulfocyanates		
-orth	Sulfocyanures		
 pb	387	0391	4590571
 entry	Sulfocyanique (Acide), Rhodonhydrique (Acide), Sulfocyanhydrique (Acide)		
-orth	Sulfocyanique (Acide)		
-orth	Rhodonhydrique (Acide)		
-orth	Sulfocyanhydrique (Acide)		
 entry	Sulfocyanogène, Sulfure de cyanogène		
-orth	Sulfocyanogène		
-orth	Sulfure de cyanogène		
 entry	Sulfoforme		
 pb	388	0392	4590572
 entry	Sulfoglycosique (Acide), Sulfoglucique (Acide)		
-orth	Sulfoglycosique (Acide)		
-orth	Sulfoglucique (Acide)		
 entry	Sulfoglycérique (Acide)		
 entry	Sulfoléique (Acide)		
 ref	Sulfomargarique (Acide)		
 entry	Sulfomargarique (Acide) et Sulfoléique (Acide)		
-orth	Sulfomargarique (Acide)		
-orth	Sulfoléique (Acide)		
 pb	389	0393	4590573
 entry	Sulfométhylique (Acide)		
 entry	Sulfonaphtalide		
@@ -516,9 +482,6 @@ pb	390	0394	4590574
 pb	391	0395	4590575
 entry	Sulfonaphtols		
 entry	Sulfophénique (Acide), Sulfocarbolique (Acide), Oxyphénylsulfureux (Acide)		
-orth	Sulfophénique (Acide)		
-orth	Sulfocarbolique (Acide)		
-orth	Oxyphénylsulfureux (Acide)		
 pb	392	0396	4590576
 entry	Sulfoprotéique (Acide)		
 entry	Sulfosaccharique (Acide)		
@@ -529,13 +492,9 @@ pb	393	0397	4590577
 entry	Sulfosinapique (Acide)		
 entry	Sulfotoluidique (Acide)		
 entry	Sulfovinique (Acide), Éthylsulfurique (Acide)		
-orth	Sulfovinique (Acide)		
-orth	Éthylsulfurique (Acide)		
 pb	394	0398	4590578
 pb	395	0399	4590579
 entry	Sulfovinique (Acide), Éthylsuflurique (Acide)		
-orth	Sulfovinique (Acide)		
-orth	Éthylsuflurique (Acide)		
 entry	Sulfuraires		
 pb	396	0400	4590580
 pb	397	0401	4590581
@@ -760,7 +719,8 @@ entry	Sureçvara
 entry	Surelle		
 entry	Suren		
 entry	Surfusion		
-ref	Chaleur et Sursaturation		
+ref	Chaleur		
+ref	Sursaturation		
 entry	Surinamine		
 ref	Geoffroyine		
 entry	Suringar (Gerherd-Conrad-Bernhard)		
@@ -832,8 +792,6 @@ entry	Sushena
 entry	Sus-hépatique (Veine)		
 pb	624	0628	4590808
 entry	Susius, Alias Susio (Jean-Baptiste)		
-orth	Susius		
-orth	Alias Susio (Jean-Baptiste)		
 entry	Sus-orbitaire (Artère)		
 ref	Ophthalmique (Artère)		
 entry	Sus-orbitaire (Nerf)		
@@ -846,7 +804,8 @@ ref	Testicule
 entry	Suspension		
 ref	Pendaison		
 entry	Suspension (Appareil de)		
-ref	Fractures et Hyponarthécie		
+ref	Fractures		
+ref	Hyponarthécie		
 entry	Suspensoirs		
 pb	625	0629	4590809
 pb	626	0630	4590810
@@ -865,7 +824,8 @@ pb	629	0633	4590813
 entry	Sutton (Les)		
 pb	630	0634	4590814
 entry	Suture (Anatomie)		
-ref	Synarthrose et Articulations		
+ref	Synarthrose		
+ref	Articulations		
 entry	Suture (Chirurgie)		
 pb	631	0635	4590815
 pb	632	0636	4590816
@@ -909,8 +869,6 @@ pb	652	0656	4590836
 entry	Swinnas (Willem)		
 entry	Syalita		
 entry	Sycéphaliens, Syncéphaliens		
-orth	Sycéphaliens		
-orth	Syncéphaliens		
 pb	653	0657	4590837
 entry	Sychnurie		
 pb	654	0658	4590838

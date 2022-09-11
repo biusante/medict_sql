@@ -114,15 +114,11 @@ pb	69	0073	4531399
 pb	70	0074	4531400
 pb	71	0075	4531401
 entry	Gattenhof ou Gatenhof (Georg-Matthias)		
-orth	Gattenhof		
-orth	Gatenhof (Georg-Matthias)		
 pb	72	0076	4531402
 entry	Gatti (Angelo)		
 entry	Gattillier		
 pb	73	0077	4531403
 entry	Gattinara ou Gattinaria (Marco)		
-orth	Gattinara		
-orth	Gattinaria (Marco)		
 pb	74	0078	4531404
 entry	Gaubert (Les deux)		
 pb	75	0079	4531405
@@ -273,8 +269,6 @@ pb	174	0178	4531504
 pb	175	0179	4531505
 entry	Gazéol		
 entry	Gazi ou Gazio (Antonio)		
-orth	Gazi		
-orth	Gazio (Antonio)		
 pb	176	0180	4531506
 entry	Gazogène		
 pb	177	0181	4531507
@@ -301,8 +295,6 @@ entry	Geai
 pb	192	0196	4531522
 pb	193	0197	4531523
 entry	Géant, Géantisme		
-orth	Géant		
-orth	Géantisme		
 entry	Géastre		
 entry	Gebauer (Les deux)		
 pb	194	0198	4531524
@@ -323,16 +315,12 @@ entry	Geddings (Gargarisme de)
 pb	202	0206	4531532
 entry	Geer (Charles de)		
 entry	Gehema ou Gehma (Johann-Abraham von)		
-orth	Gehema		
-orth	Gehma (Johann-Abraham von)		
 pb	203	0207	4531533
 entry	Gehlen (Adolph-Ferdinand)		
 pb	204	0208	4531534
 entry	Gehler (Les deux)		
 pb	205	0209	4531535
 entry	Gehuf ou Gehuph		
-orth	Gehuf		
-orth	Gehuph		
 entry	Geier (Les deux)		
 pb	206	0210	4531536
 entry	Geiger (Les deux)		
@@ -388,7 +376,8 @@ pb	238	0242	4531568
 entry	Gélidium		
 pb	239	0243	4531569
 entry	Gélin		
-ref	Gélidium et Gélose		
+ref	Gélidium		
+ref	Gélose		
 entry	Géline		
 pb	240	0244	4531570
 entry	Gelinotte		
@@ -415,12 +404,8 @@ entry	Gemmiparité
 entry	Gempak (Sougita)		
 pb	248	0252	4531578
 entry	Gemusaeus ou Geschmsaus (Hieronimus)		
-orth	Gemusaeus		
-orth	Geschmsaus (Hieronimus)		
 entry	Gencives		
 entry	Gencives. Anatomie et physiologie		
-orth	Gencives. Anatomie		
-orth	physiologie		
 pb	249	0253	4531579
 pb	250	0254	4531580
 pb	251	0255	4531581
@@ -488,8 +473,6 @@ entry	Genepi
 ref	Génipi		
 entry	Génération		
 entry	Génération. Anatomie et physiologie comparées		
-orth	Génération. Anatomie		
-orth	physiologie comparées		
 pb	301	0305	4531631
 pb	302	0306	4531632
 pb	303	0307	4531633
@@ -691,8 +674,6 @@ pb	493	0497	4531823
 pb	494	0498	4531824
 pb	495	0499	4531825
 entry	Genestrolle, Genestrelle		
-orth	Genestrolle		
-orth	Genestrelle		
 ref	Genêt		
 entry	Généthliologie		
 entry	Genette		
@@ -736,15 +717,9 @@ ref	Hypoglosse
 entry	Genipayer		
 pb	515	0519	4531845
 entry	Genipi et Genepi		
-orth	Genipi		
-orth	Genepi		
 entry	Genipi et Genepi. Botanique		
-orth	Genipi		
-orth	Genepi. Botanique		
 pb	516	0520	4531846
 entry	Genipi et Genepi. Emploi médical		
-orth	Genipi		
-orth	Genepi. Emploi médical		
 pb	517	0521	4531847
 entry	Genista		
 ref	Genêt		
@@ -757,8 +732,6 @@ pb	518	0522	4531848
 entry	Genito-crural (Nerf)		
 ref	Lombaire (Plexus)		
 entry	Genneté ou Genté (Claude-Léopold)		
-orth	Genneté		
-orth	Genté (Claude-Léopold)		
 entry	Génoplastie		
 pb	519	0523	4531849
 pb	520	0524	4531850
@@ -1035,8 +1008,6 @@ pb	736	0740	4532066
 entry	Geoffroyer		
 ref	Geoffrée		
 entry	Geoffroyine ou Surinamine		
-orth	Geoffroyine		
-orth	Surinamine		
 pb	737	0741	4532067
 entry	Geoghegan (Les deux)		
 entry	Géoglosse		

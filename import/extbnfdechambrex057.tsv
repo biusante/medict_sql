@@ -159,7 +159,8 @@ entry	Emploi médical
 entry	Marjolin (Jean-Nicolas)		
 pb	122	0126	4542792
 entry	Marjorana		
-ref	Marjolaine et Origan		
+ref	Marjolaine		
+ref	Origan		
 entry	Marlioz (Eaux minérales de)		
 ref	Aix-les-Bains		
 entry	Marmelades		
@@ -262,7 +263,8 @@ entry	Martres-de-Veyre (Les) (Eaux minérales de)
 pb	167	0171	4542837
 pb	168	0172	4542838
 entry	Maruta		
-ref	Anthémis et Maroute		
+ref	Anthémis		
+ref	Maroute		
 entry	Marx (Joseph)		
 pb	169	0173	4542839
 entry	Marx		
@@ -313,7 +315,8 @@ entry	Mastite
 ref	Mamelles		
 pb	190	0194	4542860
 entry	Mastoïde (Apophyse)		
-ref	Crâne et Temporal (Os)		
+ref	Crâne		
+ref	Temporal (Os)		
 entry	Mastoïdien (Nerf)		
 ref	Cervical (Plexus)		
 entry	Mastoïdienne (Artère)		
@@ -387,8 +390,6 @@ entry	Matteucci (Carlo)
 entry	Matthiae (Georges)		
 pb	231	0235	4542901
 entry	Mattioli (Pietro-Andrea), par corruption Matthiole		
-orth	Mattioli (Pietro-Andrea)		
-orth	par corruption Matthiole		
 pb	232	0236	4542902
 entry	Maturatifs		
 pb	233	0237	4542903
@@ -402,8 +403,6 @@ pb	237	0241	4542907
 entry	Maurice (Ile)		
 entry	Mauriceau (François)		
 entry	Mauricheau ou Moricheau (Les)		
-orth	Mauricheau		
-orth	Moricheau (Les)		
 pb	238	0242	4542908
 pb	239	0243	4542909
 entry	Mauritia (L. fil.)		
@@ -444,8 +443,6 @@ pb	264	0268	4542934
 pb	265	0269	4542935
 entry	Maxillaire (Os)		
 entry	Maxillaire (Os). Anatomie et usages		
-orth	Maxillaire (Os). Anatomie		
-orth	usages		
 pb	266	0270	4542936
 pb	267	0271	4542937
 pb	268	0272	4542938
@@ -508,13 +505,9 @@ pb	321	0325	4542991
 pb	322	0326	4542992
 pb	323	0327	4542993
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques		
 pb	324	0328	4542994
 entry	Inflammations		
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Ostéo-périostite		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Inflammations. Ostéo-périostite		
 pb	325	0329	4542995
 pb	326	0330	4542996
 pb	327	0331	4542997
@@ -541,9 +534,6 @@ pb	347	0351	4543017
 pb	348	0352	4543018
 pb	349	0353	4543019
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Nécrose, Carie		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Inflammations. Nécrose		
-orth	Carie		
 pb	350	0354	4543020
 pb	351	0355	4543021
 pb	352	0356	4543022
@@ -583,8 +573,6 @@ pb	385	0389	4543055
 pb	386	0390	4543056
 pb	387	0391	4543057
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Lésions inflamatoires du sinus maxillaire		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Inflammations. Lésions inflamatoires du sinus maxillaire		
 pb	388	0392	4543058
 pb	389	0393	4543059
 pb	390	0394	4543060
@@ -598,17 +586,11 @@ pb	397	0401	4543067
 pb	398	0402	4543068
 pb	399	0403	4543069
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Fistules du sinus maxillaire		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Inflammations. Fistules du sinus maxillaire		
 pb	400	0404	4543070
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Lésions inflammatoires de l'articulation temporo-maxillaire		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Inflammations. Lésions inflammatoires de l'articulation temporo-maxillaire		
 pb	401	0405	4543071
 pb	402	0406	4543072
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Constriction des mâchoires		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Inflammations. Constriction des mâchoires		
 pb	403	0407	4543073
 pb	404	0408	4543074
 pb	405	0409	4543075
@@ -623,8 +605,6 @@ pb	413	0417	4543083
 pb	414	0418	4543084
 entry	Tumeurs des maxillaires		
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs liquides		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Tumeurs des maxillaires. Tumeurs liquides		
 pb	415	0419	4543085
 pb	416	0420	4543086
 pb	417	0421	4543087
@@ -655,8 +635,6 @@ pb	441	0445	4543111
 pb	442	0446	4543112
 pb	443	0447	4543113
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs solides		
-orth	Maxillaire (Os). Pathologie. Lésions vitales		
-orth	organiques. Tumeurs des maxillaires. Tumeurs solides		
 pb	444	0448	4543114
 pb	445	0449	4543115
 pb	446	0450	4543116
@@ -868,9 +846,6 @@ entry	Médecin (Devoirs du)
 ref	Déontologie		
 entry	Médecine		
 entry	Médecine. Du rôle de la médecine et des médecins dans la société ; de leur influence sur le progrès et la civilisation		
-orth	Médecine. Du rôle de la médecine		
-orth	des médecins dans la société ; de leur influence sur le progrès		
-orth	la civilisation		
 pb	608	0612	4543278
 pb	609	0613	4543279
 pb	610	0614	4543280
@@ -891,8 +866,6 @@ pb	624	0628	4543294
 pb	625	0629	4543295
 entry	Médecine		
 entry	Médecine. Enseignement et exercice		
-orth	Médecine. Enseignement		
-orth	exercice		
 pb	626	0630	4543296
 pb	627	0631	4543297
 pb	628	0632	4543298
@@ -986,10 +959,6 @@ pb	714	0718	4543384
 pb	715	0719	4543385
 entry	Addenda		
 entry	Addenda. Médecins poëtes, littérateurs, architectes, numismates, etc.		
-orth	Addenda. Médecins poëtes		
-orth	littérateurs		
-orth	architectes		
-orth	numismates		
 pb	716	0720	4543386
 pb	717	0721	4543387
 pb	718	0722	4543388

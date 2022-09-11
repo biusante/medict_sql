@@ -4,8 +4,6 @@ pb	[s. pag.]	0003	4588579
 pb	[s. pag.]	0004	4588580
 pb	1	0005	4588581
 entry	Spectre, Spectre solaire		
-orth	Spectre		
-orth	Spectre solaire		
 pb	2	0006	4588582
 pb	3	0007	4588583
 pb	4	0008	4588584
@@ -13,11 +11,7 @@ pb	5	0009	4588585
 pb	6	0010	4588586
 pb	7	0011	4588587
 entry	Spectroscopie, Analyse spectrale		
-orth	Spectroscopie		
-orth	Analyse spectrale		
 entry	Spectroscopie, Analyse spectrale. Physique		
-orth	Spectroscopie		
-orth	Analyse spectrale. Physique		
 pb	8	0012	4588588
 pb	9	0013	4588589
 pb	10	0014	4588590
@@ -27,8 +21,6 @@ pb	13	0017	4588593
 pb	14	0018	4588594
 pb	15	0019	4588595
 entry	Spectroscopie, Analyse spectrale. Biologie		
-orth	Spectroscopie		
-orth	Analyse spectrale. Biologie		
 pb	16	0020	4588596
 pb	17	0021	4588597
 pb	18	0022	4588598
@@ -109,7 +101,8 @@ pb	73	0077	4588653
 entry	Spermatique (Cordon)		
 ref	Spermatiques (Artères)		
 ref	Spermatiques (Voies)		
-ref	Sympathique (Grand) et Testicule		
+ref	Sympathique (Grand)		
+ref	Testicule		
 entry	Spermatiques (Nerfs)		
 ref	Sympathique (Grand)		
 entry	Spermatiques (Voies)		
@@ -146,7 +139,8 @@ pb	99	0103	4588679
 pb	100	0104	4588680
 pb	101	0105	4588681
 entry	Médecine légale		
-ref	Impuissance et Stérilité		
+ref	Impuissance		
+ref	Stérilité		
 entry	Spermatogénie		
 ref	Sperme		
 entry	Spermatorrhée		
@@ -257,7 +251,8 @@ pb	196	0200	4588776
 entry	Sphase		
 ref	Araignée		
 entry	Sphénencéphales		
-ref	Anomocéphales et Sphénocéphales		
+ref	Anomocéphales		
+ref	Sphénocéphales		
 pb	197	0201	4588777
 entry	Sphénocéphales		
 entry	Sphéno-épineuse (Artère)		
@@ -288,8 +283,6 @@ ref	Araignée
 entry	Sphondylium		
 pb	205	0209	4588785
 entry	Sphygmographes et Sphygmomètres		
-orth	Sphygmographes		
-orth	Sphygmomètres		
 pb	206	0210	4588786
 pb	207	0211	4588787
 pb	208	0212	4588788
@@ -302,8 +295,6 @@ entry	Spica (Bot.)
 entry	Spica		
 ref	Bandages		
 entry	Spicanard, Spikenard		
-orth	Spicanard		
-orth	Spikenard		
 ref	Nard		
 entry	Spiegelberg (Otto)		
 pb	212	0216	4588792
@@ -417,8 +408,6 @@ entry	Spirée. Emploi médical
 pb	274	0278	4588854
 pb	275	0279	4588855
 entry	Spiréine ou Acide Spiréique		
-orth	Spiréine		
-orth	Acide Spiréique		
 pb	276	0280	4588856
 entry	Spirifères		
 pb	277	0281	4588857
@@ -471,8 +460,6 @@ entry	Spitta (Heinrich-Helmerich-Ludwig)
 pb	312	0316	4588892
 entry	Spittal (Robert)		
 entry	Spitzberg ou Spitzbergen		
-orth	Spitzberg		
-orth	Spitzbergen		
 pb	313	0317	4588893
 pb	314	0318	4588894
 pb	315	0319	4588895
@@ -525,8 +512,6 @@ entry	Spon (Les deux)
 pb	347	0351	4588927
 pb	348	0352	4588928
 entry	Spondiacées ou Spondiées		
-orth	Spondiacées		
-orth	Spondiées		
 pb	349	0353	4588929
 entry	Spondias		
 pb	350	0354	4588930
@@ -791,8 +776,6 @@ pb	520	0524	4589100
 entry	Statice		
 pb	521	0525	4589101
 entry	Station, Statique animale		
-orth	Station		
-orth	Statique animale		
 entry	Stations médicales		
 entry	Statique		
 pb	522	0526	4589102
@@ -977,8 +960,6 @@ pb	668	0672	4589248
 entry	Stecher (Friedrich)		
 entry	Stedman (George-William)		
 entry	Steeg ou Versteeg (Gerrit)		
-orth	Steeg		
-orth	Versteeg (Gerrit)		
 pb	669	0673	4589249
 entry	Steegmann (Carl-Marcus)		
 entry	Steele (Les deux)		
@@ -1160,7 +1141,8 @@ entry	Sterne
 pb	772	0776	4589352
 pb	773	0777	4589353
 entry	Sterno-Claviculaire (Articulation)		
-ref	Clavicule et Sternum		
+ref	Clavicule		
+ref	Sternum		
 entry	Sterno-cléido-hyoïdien		
 pb	774	0778	4589354
 pb	775	0779	4589355
@@ -1172,7 +1154,8 @@ pb	779	0783	4589359
 pb	780	0784	4589360
 pb	781	0785	4589361
 entry	Sterno-costales (Articulations)		
-ref	Côtes et Sternum		
+ref	Côtes		
+ref	Sternum		
 entry	Sterno-mastoidienne (Artère)		
 ref	Thyroidienne (Artère)		
 entry	Sternopages		

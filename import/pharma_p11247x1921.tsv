@@ -6,73 +6,48 @@ pb	sn	0005	7718186
 entry	1re Partie. Nomenclature nominale des spécialités pharmaceutiques médicales, avec noms et adresses de leurs fabricants		
 pb	pb	0006	7718187
 pb	5	0007	7718188
-entry	A		
 pb	6	0008	7718189
 pb	7	0009	7718190
 pb	8	0010	7718191
-entry	B		
 pb	9	0011	7718192
 pb	10	0012	7718193
-entry	C		
 pb	11	0013	7718194
 pb	12	0014	7718195
 pb	13	0015	7718196
-entry	D		
 pb	14	0016	7718197
 pb	15	0017	7718198
-entry	E		
 pb	16	0018	7718199
 pb	17	0019	7718200
-entry	F		
 pb	18	0020	7718201
-entry	G		
 pb	19	0021	7718202
 pb	20	0022	7718203
 pb	21	0023	7718204
-entry	H		
 pb	22	0024	7718205
 pb	23	0025	7718206
-entry	I		
 pb	24	0026	7718207
-entry	J		
-entry	K		
 pb	25	0027	7718208
-entry	L		
 pb	26	0028	7718209
-entry	M		
 pb	27	0029	7718210
 pb	28	0030	7718211
-entry	N		
 pb	29	0031	7718212
-entry	O		
 pb	30	0032	7718213
 pb	31	0033	7718214
-entry	P		
 pb	32	0034	7718215
 pb	33	0035	7718216
 pb	34	0036	7718217
 pb	35	0037	7718218
-entry	Q		
 pb	36	0038	7718219
-entry	R		
-entry	S		
 pb	37	0039	7718220
 pb	38	0040	7718221
 pb	39	0041	7718222
 pb	40	0042	7718223
 pb	41	0043	7718224
 pb	42	0044	7718225
-entry	T		
 pb	43	0045	7718226
 pb	44	0046	7718227
 pb	45	0047	7718228
-entry	U		
-entry	V		
 pb	46	0048	7718229
 pb	47	0049	7718230
-entry	X		
-entry	Y		
-entry	Z		
 pb	pb	0050	7718231
 pb	sn	0051	7718232
 entry	2e Partie. Dictionnaire de spécialités pharmaceutiques		
@@ -792,12 +767,12 @@ pb	sn	0315	7718496
 entry	Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
 pb	pb	0316	7718497
 pb	5	0317	7718498
-entry	I. - Albuminurie		
+entry	Albuminurie		
 entry	II. - Alimentation - Régimes		
 entry	III. - Analgésiques externes anesthésiques		
 entry	IV. - Analgésiques internes antinévralgiques		
 pb	6	0318	7718499
-entry	V. - Anémie - Asthénie		
+entry	Anémie - Asthénie		
 pb	7	0319	7718500
 entry	VI. - Antipyrétiques		
 entry	VII. - Antiseptiques externes (Désinfectants)		
@@ -805,7 +780,7 @@ pb	8	0320	7718501
 entry	VIII. - Antiseptiques internes (Antitoxiques)		
 entry	IX. - Artériosclérose, hypertension artérielle, angine de poitrine		
 pb	9	0321	7718502
-entry	X. - Arthritisme - Goutte - Rhumatisme		
+entry	Arthritisme - Goutte - Rhumatisme		
 entry	XI. - Blennorrhagie		
 pb	10	0322	7718503
 entry	XII. - Bronches et poumons asthme - Coqueluche, etc		

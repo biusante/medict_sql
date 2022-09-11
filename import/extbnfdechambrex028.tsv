@@ -78,11 +78,7 @@ pb	69	0073	4519921
 pb	70	0074	4519922
 pb	71	0075	4519923
 entry	Valeur du symptôme dans le diagnostic et le pronostic des maladies		
-orth	Valeur du symptôme dans le diagnostic		
-orth	le pronostic des maladies		
 entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires		
-orth	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic		
-orth	le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires		
 pb	72	0076	4519924
 pb	73	0077	4519925
 pb	74	0078	4519926
@@ -94,8 +90,6 @@ pb	79	0083	4519931
 pb	80	0084	4519932
 pb	81	0085	4519933
 entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur pronostique des symptômes organiques élémentaires		
-orth	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic		
-orth	le pronostic des maladies. Valeur pronostique des symptômes organiques élémentaires		
 pb	82	0086	4519934
 pb	83	0087	4519935
 pb	84	0088	4519936
@@ -321,8 +315,6 @@ entry	Desbordeaux (Pierre-François-Frédéric)
 pb	278	0282	4520130
 entry	Desbrest		
 entry	Descartes ou Des Quartes (René)		
-orth	Descartes		
-orth	Des Quartes (René)		
 pb	279	0283	4520131
 pb	280	0284	4520132
 pb	281	0285	4520133
@@ -334,7 +326,7 @@ entry	Descemet (Jean)
 pb	286	0290	4520138
 entry	Deschamps (Les)		
 pb	287	0291	4520139
-entry	D'Escherny (David)		
+entry	Escherny (David)		
 entry	Deschisaux (Pierre)		
 entry	Descieux (Louis-Cyprien)		
 entry	Descot (Pierre-Jules)		
@@ -364,12 +356,7 @@ entry	Deshayes (Les)
 pb	298	0302	4520150
 entry	Desiderius		
 entry	Désinfectants, Désinfection		
-orth	Désinfectants		
-orth	Désinfection		
 entry	Désinfectants, Désinfection. Définition et historique		
-orth	Désinfectants		
-orth	Désinfection. Définition		
-orth	historique		
 pb	299	0303	4520151
 pb	300	0304	4520152
 pb	301	0305	4520153
@@ -377,12 +364,8 @@ pb	302	0306	4520154
 pb	303	0307	4520155
 entry	Désinfectants		
 entry	Désinfectants, Désinfection. Désinfectants. Moyens mécaniques		
-orth	Désinfectants		
-orth	Désinfection. Désinfectants. Moyens mécaniques		
 pb	304	0308	4520156
 entry	Désinfectants, Désinfection. Désinfectants. Absorbants désodorants		
-orth	Désinfectants		
-orth	Désinfection. Désinfectants. Absorbants désodorants		
 pb	305	0309	4520157
 pb	306	0310	4520158
 pb	307	0311	4520159
@@ -391,8 +374,6 @@ pb	309	0313	4520161
 pb	310	0314	4520162
 pb	311	0315	4520163
 entry	Désinfectants, Désinfection. Désinfectants. Antiseptiques		
-orth	Désinfectants		
-orth	Désinfection. Désinfectants. Antiseptiques		
 pb	312	0316	4520164
 pb	313	0317	4520165
 pb	314	0318	4520166
@@ -416,9 +397,6 @@ pb	331	0335	4520183
 pb	332	0336	4520184
 pb	333	0337	4520185
 entry	Désinfectants, Désinfection. Désinfectants. Neutralisants ou antivirulents		
-orth	Désinfectants		
-orth	Désinfection. Désinfectants. Neutralisants		
-orth	antivirulents		
 pb	334	0338	4520186
 pb	335	0339	4520187
 pb	336	0340	4520188
@@ -440,8 +418,6 @@ pb	351	0355	4520203
 pb	352	0356	4520204
 entry	Désinfection		
 entry	Désinfectants, Désinfection. Désinfection. Désinfection nosocomiale		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection nosocomiale		
 pb	353	0357	4520205
 pb	354	0358	4520206
 pb	355	0359	4520207
@@ -450,17 +426,12 @@ pb	357	0361	4520209
 pb	358	0362	4520210
 pb	359	0363	4520211
 entry	Désinfectants, Désinfection. Désinfection. Désinfection des locaux		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection des locaux		
 pb	360	0364	4520212
 pb	361	0365	4520213
 pb	362	0366	4520214
 pb	363	0367	4520215
 pb	364	0368	4520216
 entry	Désinfectants, Désinfection. Désinfection. Désinfection des vêtements, de la literie		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection des vêtements		
-orth	de la literie		
 pb	365	0369	4520217
 pb	366	0370	4520218
 pb	367	0371	4520219
@@ -473,38 +444,21 @@ pb	373	0377	4520225
 pb	374	0378	4520226
 pb	375	0379	4520227
 entry	Désinfection du matériel instrumental et chirurgical		
-orth	Désinfection du matériel instrumental		
-orth	chirurgical		
 entry	Désinfectants, Désinfection. Désinfection. Désinfection du personnel médical ou auxiliaire		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection du personnel médical		
-orth	auxiliaire		
 pb	376	0380	4520228
 entry	Désinfection des véhicules ayant servi au transport des malades		
 entry	Désinfectants, Désinfection. Désinfection. Désinfection quarantenaire		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection quarantenaire		
 pb	377	0381	4520229
 pb	378	0382	4520230
 entry	Désinfection de la cargaison		
 entry	Désinfectants, Désinfection. Désinfection. Désinfection du navire		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection du navire		
 pb	379	0383	4520231
 pb	380	0384	4520232
 entry	Désinfectants, Désinfection. Désinfection. Désinfection vétérinaire		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection vétérinaire		
 pb	381	0385	4520233
 entry	Désinfectants, Désinfection. Désinfection. Désinfection des aliments et des boissons		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection des aliments		
-orth	des boissons		
 pb	382	0386	4520234
 entry	Désinfectants, Désinfection. Désinfection. Désinfection des habitations collectives ou privées		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection des habitations collectives		
-orth	privées		
 pb	383	0387	4520235
 pb	384	0388	4520236
 pb	385	0389	4520237
@@ -514,8 +468,6 @@ pb	388	0392	4520240
 pb	389	0393	4520241
 pb	390	0394	4520242
 entry	Désinfectants, Désinfection. Désinfection. Désinfection municipale		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection municipale		
 pb	391	0395	4520243
 pb	392	0396	4520244
 pb	393	0397	4520245
@@ -525,8 +477,6 @@ pb	396	0400	4520248
 pb	397	0401	4520249
 pb	398	0402	4520250
 entry	Désinfectants, Désinfection. Désinfection. Désinfection du sol		
-orth	Désinfectants		
-orth	Désinfection. Désinfection. Désinfection du sol		
 pb	399	0403	4520251
 pb	400	0404	4520252
 pb	401	0405	4520253
@@ -542,15 +492,13 @@ ref	Araignées
 entry	Des Jardins (Jean)		
 pb	408	0412	4520260
 entry	Deslandes (Léopold)		
-entry	D'Eslon (Charles)		
+entry	Eslon (Charles)		
 pb	409	0413	4520261
 pb	410	0414	4520262
 entry	Desman		
 pb	411	0415	4520263
 entry	Desmanthus		
 entry	Demarest, Desmarets (Les)		
-orth	Demarest		
-orth	Desmarets (Les)		
 pb	412	0416	4520264
 entry	Desmarres (Louis-Auguste)		
 pb	413	0417	4520265
@@ -577,15 +525,11 @@ entry	Désoxalique (Acide)
 pb	420	0424	4520272
 entry	Désoudin (Jean-Gaspard-Charles)		
 entry	Desparanches et non Desparanges		
-orth	Desparanches		
-orth	non Desparanges		
 pb	421	0425	4520273
 entry	Desparts (Jacques)		
 pb	422	0426	4520274
 pb	423	0427	4520275
 entry	Despine ou D'Espine (Les)		
-orth	Despine		
-orth	D'Espine (Les)		
 pb	424	0428	4520276
 pb	425	0429	4520277
 pb	426	0430	4520278
@@ -603,12 +547,8 @@ pb	431	0435	4520283
 entry	Desruelles (Henri-Marie-Joseph)		
 pb	432	0436	4520284
 entry	Dessen ou Dessenius van Cronenburg (Bernard)		
-orth	Dessen		
-orth	Dessenius van Cronenburg (Bernard)		
 pb	433	0437	4520285
 entry	Dessiccants ou Dessiccatifs		
-orth	Dessiccants		
-orth	Dessiccatifs		
 pb	434	0438	4520286
 entry	Dessiccation (Pharmacie)		
 pb	435	0439	4520287
@@ -703,8 +643,6 @@ pb	501	0505	4520353
 entry	Deville (Pierre-François-Albéric)		
 entry	Devillers (Charles)		
 entry	De Villiers, et non pas Devilliers (Les)		
-orth	De Villiers		
-orth	non pas Devilliers (Les)		
 pb	502	0506	4520354
 pb	503	0507	4520355
 entry	Devin		
@@ -715,15 +653,11 @@ entry	Dewees (William-P.)
 pb	505	0509	4520357
 entry	Dewhurst (Henry-William)		
 entry	Dexippe ou Dioxippe		
-orth	Dexippe		
-orth	Dioxippe		
 entry	Dextrine		
 entry	Dextrine. Chimie		
 pb	506	0510	4520358
 pb	507	0511	4520359
 entry	Emploi médical et chirurgical		
-orth	Emploi médical		
-orth	chirurgical		
 entry	Deyber (François-Joseph)		
 pb	508	0512	4520360
 entry	Deydier (Pierre-Isaac)		
@@ -748,12 +682,10 @@ pb	521	0525	4520373
 pb	522	0526	4520374
 pb	523	0527	4520375
 pb	524	0528	4520376
-entry	D'Hombres Firmas (Louis-Augustin)		
+entry	Hombres Firmas (Louis-Augustin)		
 pb	525	0529	4520377
 entry	Diabète		
 entry	Définition et division du sujet		
-orth	Définition		
-orth	division du sujet		
 entry	Diabète. Diabète sucré		
 pb	526	0530	4520378
 pb	527	0531	4520379
@@ -925,14 +857,13 @@ entry	Diacaryon
 entry	Diacatholicon		
 ref	Catholicon		
 entry	Diacétamide		
-ref	Acétamide et Amide		
+ref	Acétamide		
+ref	Amide		
 entry	Di-acétylène		
 pb	683	0687	4520535
 entry	Diachylon		
 pb	684	0688	4520536
 entry	Diachytis, Diachyton		
-orth	Diachytis		
-orth	Diachyton		
 entry	Diaclase		
 entry	Diacode		
 pb	685	0689	4520537
@@ -941,8 +872,6 @@ entry	Diaculahuen
 entry	Diacydonium		
 entry	Diadéma		
 entry	Diagnostic ou Diagnose		
-orth	Diagnostic		
-orth	Diagnose		
 pb	686	0690	4520538
 pb	687	0691	4520539
 pb	688	0692	4520540

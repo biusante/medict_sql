@@ -22,8 +22,6 @@ pb	10	0014	4537894
 entry	Hyménule		
 pb	11	0015	4537895
 entry	Hyocholalique (Acide), Hyocholique (Acide)		
-orth	Hyocholalique (Acide)		
-orth	Hyocholique (Acide)		
 ref	Bile		
 entry	Hyoglycocholique (Acide)		
 entry	Hyoglosse		
@@ -174,8 +172,6 @@ pb	130	0134	4538014
 pb	131	0135	4538015
 pb	132	0136	4538016
 entry	Hypoazotique (Acide) ou Hypoazotide		
-orth	Hypoazotique (Acide)		
-orth	Hypoazotide		
 ref	Azoteux (Acide)		
 entry	Hypochloreux (Acide)		
 pb	133	0137	4538017
@@ -225,7 +221,8 @@ pb	170	0174	4538054
 pb	171	0175	4538055
 entry	Hypogallique (Acide)		
 entry	Hypogastriques (Artère et Veines)		
-ref	Iliaques (Artère et Veines)		
+ref	Iliaques (Artère		
+ref	Veines)		
 pb	172	0176	4538056
 entry	Hypogastrique (Plexus)		
 ref	Sympathique (Grand)		
@@ -250,8 +247,6 @@ pb	186	0190	4538070
 pb	187	0191	4538071
 pb	188	0192	4538072
 entry	Hypoglosse (Nerf grand). Anatomie et physiologie pathologiques		
-orth	Hypoglosse (Nerf grand). Anatomie		
-orth	physiologie pathologiques		
 pb	189	0193	4538073
 pb	190	0194	4538074
 pb	191	0195	4538075
@@ -266,10 +261,6 @@ ref	Cerveau
 entry	Hypopion		
 ref	Oeil		
 entry	Hypoquébrachine, Québrachine, Québracho et ses alcaloïdes		
-orth	Hypoquébrachine		
-orth	Québrachine		
-orth	Québracho		
-orth	ses alcaloïdes		
 pb	194	0198	4538078
 pb	195	0199	4538079
 pb	196	0200	4538080
@@ -277,8 +268,6 @@ pb	197	0201	4538081
 pb	198	0202	4538082
 pb	199	0203	4538083
 entry	Hypospadias et Épispadias		
-orth	Hypospadias		
-orth	Épispadias		
 pb	200	0204	4538084
 pb	201	0205	4538085
 pb	202	0206	4538086
@@ -327,8 +316,6 @@ ref	Induction
 ref	Méthode		
 ref	Science		
 entry	Hypoxanthine ou Hypoxanthique (Acide)		
-orth	Hypoxanthine		
-orth	Hypoxanthique (Acide)		
 entry	Hypoxylon		
 pb	237	0241	4538121
 entry	Hypsométrie		
@@ -338,8 +325,6 @@ entry	Hyptis
 entry	Hyracéum		
 entry	Hysern (Don Joaquin)		
 entry	Hysope ou Hyssope		
-orth	Hysope		
-orth	Hyssope		
 pb	240	0244	4538124
 entry	Hystéralgie		
 ref	Utérus		
@@ -467,13 +452,15 @@ entry	Hystricides
 ref	Rongeurs		
 pb	353	0357	4538237
 entry	Iatrochimie		
-ref	Chimie et Médecine (Histoire)		
+ref	Chimie		
+ref	Médecine (Histoire)		
 entry	Iatromantique		
 ref	Divination		
 entry	Iatromécanicisme		
 ref	Médecine (Histoire)		
 entry	Ibériens		
-ref	Ligures et France		
+ref	Ligures		
+ref	France		
 entry	Iberis (L.)		
 entry	Ibis		
 pb	354	0358	4538238
@@ -528,8 +515,6 @@ pb	387	0391	4538271
 entry	Icicane		
 ref	Tacamaque		
 entry	Iciquier, Icica (Aublet)		
-orth	Iciquier		
-orth	Icica (Aublet)		
 pb	388	0392	4538272
 entry	Ictère		
 pb	389	0393	4538273
@@ -707,8 +692,6 @@ ref	Psoas-iliaque
 entry	Iliaque (Muscle)		
 ref	Psoas-iliaque		
 entry	Iliaque (Os) ou Ilium		
-orth	Iliaque (Os)		
-orth	Ilium		
 ref	Bassin		
 entry	Iliaques (Artères)		
 pb	531	0535	4538415
@@ -842,8 +825,6 @@ entry	Indigo
 entry	Botanique		
 ref	Indigotier		
 entry	Indigo. Chimie et emploi		
-orth	Indigo. Chimie		
-orth	emploi		
 pb	607	0611	4538491
 entry	Indigofera		
 ref	Indigotier		
@@ -894,8 +875,6 @@ pb	636	0640	4538520
 pb	637	0641	4538521
 entry	Inée		
 entry	Inée. Matière médicale et thérapeutique		
-orth	Inée. Matière médicale		
-orth	thérapeutique		
 pb	638	0642	4538522
 pb	639	0643	4538523
 pb	640	0644	4538524
@@ -1042,7 +1021,8 @@ pb	762	0766	4538646
 entry	Ingram (Dale)		
 entry	Ingrassias (Giovanni-Filippo)		
 entry	Ingrassias (Apophyse d')		
-ref	Crâne et Sphénoïde		
+ref	Crâne		
+ref	Sphénoïde		
 entry	Inguinal (Anneau et Canal)		
 ref	Aine		
 entry	Inguinal (Nerf)		

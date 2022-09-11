@@ -49,8 +49,6 @@ pb	19	0023	4505583
 entry	Boerner (Les)		
 pb	20	0024	4505584
 entry	Boetticher (Les quatre), encore nommés Boettger		
-orth	Boetticher (Les quatre)		
-orth	encore nommés Boettger		
 entry	Boeuf		
 pb	21	0025	4505585
 pb	22	0026	4505586
@@ -58,24 +56,16 @@ entry	Bogdan (Martin)
 entry	Boghead		
 entry	Bogros (Jean-Ernest)		
 entry	Bohème et Moravie		
-orth	Bohème		
-orth	Moravie		
 entry	Bohème et Moravie. Géographie		
-orth	Bohème		
-orth	Moravie. Géographie		
 pb	23	0027	4505587
 pb	24	0028	4505588
 pb	25	0029	4505589
 pb	26	0030	4505590
 pb	27	0031	4505591
 entry	Bohème et Moravie. Démographie		
-orth	Bohème		
-orth	Moravie. Démographie		
 pb	28	0032	4505592
 pb	29	0033	4505593
 entry	Bohémiens ou Tsiganes		
-orth	Bohémiens		
-orth	Tsiganes		
 ref	Anthropologie		
 ref	France		
 entry	Bohn (Jean)		
@@ -103,8 +93,6 @@ pb	40	0044	4505604
 entry	Boissieu (Barthélemi-Camille de)		
 entry	Boissons		
 entry	Boissons. Hygiène privée et publique		
-orth	Boissons. Hygiène privée		
-orth	publique		
 pb	41	0045	4505605
 pb	42	0046	4505606
 pb	43	0047	4505607
@@ -174,8 +162,6 @@ ref	Fragon
 entry	Bonn (André)		
 pb	68	0072	4505632
 entry	Bonne-Dame ou Belle-Dame		
-orth	Bonne-Dame		
-orth	Belle-Dame		
 entry	Bonnefoy (Jean-Baptiste)		
 entry	Bonnes (Eaux-)		
 ref	Eaux-bonnes (Eaux minérales de)		
@@ -205,8 +191,6 @@ entry	Bopadêva
 entry	Boquettier		
 ref	Pommier		
 entry	Bor, Bori		
-orth	Bor		
-orth	Bori		
 entry	Borassus		
 pb	74	0078	4505638
 pb	75	0079	4505639
@@ -229,15 +213,11 @@ entry	Borborygmes
 pb	84	0088	4505648
 pb	85	0089	4505649
 entry	Borcette, Burdscheit (allemand) (Eau minérale de)		
-orth	Borcette		
-orth	Burdscheit (allemand) (Eau minérale de)		
 pb	86	0090	4505650
 pb	87	0091	4505651
 entry	Borch		
 ref	Borrichius		
 entry	Borde ou Boorde (Andrew)		
-orth	Borde		
-orth	Boorde (Andrew)		
 entry	Bordeaux (Établissement hydrothérapique de)		
 entry	Bordenave (Toussaint)		
 pb	88	0092	4505652
@@ -289,7 +269,8 @@ entry	Bossy
 ref	Icaquier		
 pb	108	0112	4505672
 entry	Botal (Trou de)		
-ref	Coeur et Nouveau-né		
+ref	Coeur		
+ref	Nouveau-né		
 entry	Botalli (Léonard)		
 pb	109	0113	4505673
 entry	Botanique médicale		
@@ -374,8 +355,6 @@ entry	Bottoni (Les deux)
 pb	177	0181	4505741
 entry	Bou		
 entry	Bouba ou Bubas		
-orth	Bouba		
-orth	Bubas		
 ref	Frambesia		
 entry	Boucage		
 entry	Boucanage		
@@ -456,8 +435,6 @@ pb	247	0251	4505811
 pb	248	0252	4505812
 pb	249	0253	4505813
 entry	Bouche. Maladies vénériennes et syphilitiques		
-orth	Bouche. Maladies vénériennes		
-orth	syphilitiques		
 pb	250	0254	4505814
 pb	251	0255	4505815
 pb	252	0256	4505816
@@ -489,8 +466,6 @@ pb	272	0276	4505836
 entry	Bouchet (Les deux)		
 pb	273	0277	4505837
 entry	Boudes ou Bart (Eaux minérales de)		
-orth	Boudes		
-orth	Bart (Eaux minérales de)		
 entry	Boudet (Les)		
 pb	274	0278	4505838
 pb	275	0279	4505839
@@ -520,7 +495,8 @@ entry	Bougraine
 ref	Bugrane		
 entry	Bouhou		
 entry	Boui		
-ref	Bou et Thé		
+ref	Bou		
+ref	Thé		
 entry	Bouillet (Les deux)		
 entry	Bouillon-Lagrange (Edme-Jean-Baptiste)		
 pb	291	0295	4505855
@@ -553,12 +529,8 @@ pb	310	0314	4505874
 entry	Bouillot		
 ref	Maroute		
 entry	Bouis, Bouys		
-orth	Bouis		
-orth	Bouys		
 ref	Buis		
 entry	Bouka, Bouka-Keli		
-orth	Bouka		
-orth	Bouka-Keli		
 entry	Boukranion		
 entry	Boulangerie		
 entry	Boulangerie. Hygiène publique		
@@ -573,8 +545,6 @@ pb	315	0319	4505879
 pb	316	0320	4505880
 pb	317	0321	4505881
 entry	Boules de Mars ou de Nancy		
-orth	Boules de Mars		
-orth	de Nancy		
 pb	318	0322	4505882
 entry	Boulimie		
 pb	319	0323	4505883
@@ -596,7 +566,8 @@ entry	Bouquéron-les-Bains (Station hydrothérapique de)
 pb	328	0332	4505892
 entry	Bouquet de Riolan		
 entry	Bourbillon		
-ref	Anthrax et Furoncles		
+ref	Anthrax		
+ref	Furoncles		
 entry	Bourbon (Ile)		
 ref	Réunion (Ile de la)		
 entry	Bourbon-Lancy (Eaux minérales de)		
@@ -656,7 +627,8 @@ pb	361	0365	4505925
 pb	362	0366	4505926
 entry	Bourgeon		
 entry	Bourgeons Charnus		
-ref	Cicatrisation et Plaies		
+ref	Cicatrisation		
+ref	Plaies		
 entry	Bourg-Épine		
 ref	Nerprun		
 entry	Bourgery (Marc-Jean)		
@@ -777,16 +749,12 @@ pb	429	0433	4505993
 pb	430	0434	4505994
 entry	Brachial antérieur (Muscle)		
 entry	Brachial ou Axillaire (Plexus)		
-orth	Brachial		
-orth	Axillaire (Plexus)		
 pb	431	0435	4505995
 pb	432	0436	4505996
 pb	433	0437	4505997
 pb	434	0438	4505998
 pb	435	0439	4505999
 entry	Brachial cutané interne et B. C. externe		
-orth	Brachial cutané interne		
-orth	B. C. externe		
 ref	Brachial (Plexus)		
 entry	Brachiale (Artère)		
 entry	Brachiale (Artère). Anatomie		
@@ -848,12 +816,8 @@ pb	483	0487	4506047
 pb	484	0488	4506048
 pb	485	0489	4506049
 entry	Brachio-cubital et Brachio-radical (Ligaments)		
-orth	Brachio-cubital		
-orth	Brachio-radical (Ligaments)		
 ref	Coude		
 entry	Brachycéphalie, Brachycéphales		
-orth	Brachycéphalie		
-orth	Brachycéphales		
 pb	486	0490	4506050
 pb	487	0491	4506051
 pb	488	0492	4506052
@@ -861,7 +825,8 @@ pb	489	0493	4506053
 pb	490	0494	4506054
 entry	Brachygnathes		
 entry	Brachymétropie		
-ref	Amétropie et Myopie		
+ref	Amétropie		
+ref	Myopie		
 entry	Brachyre		
 entry	Braconnot (Henry)		
 entry	Bradley (Richard)		
@@ -873,8 +838,6 @@ entry	Brambilla (Jean-Alexandre de)
 pb	493	0497	4506057
 entry	Branca		
 entry	Branc-ursine, Branche-ursine		
-orth	Branc-ursine		
-orth	Branche-ursine		
 ref	Acanthe		
 entry	Brandt (Georges)		
 pb	494	0498	4506058
@@ -936,8 +899,6 @@ entry	Brasavola (Antonio)
 pb	544	0548	4506108
 entry	Brasdor (Pierre)		
 entry	Brasillet, Brasilleto		
-orth	Brasillet		
-orth	Brasilleto		
 ref	Brésillet		
 entry	Brasseries		
 entry	Brasseries. Hygiène publique		
@@ -966,10 +927,9 @@ pb	554	0558	4506118
 entry	Brayera		
 ref	Cousso		
 entry	Breack-Bone		
-ref	Bermudes et Dengue		
+ref	Bermudes		
+ref	Dengue		
 entry	Brèdes, Brètes		
-orth	Brèdes		
-orth	Brètes		
 pb	555	0559	4506119
 entry	Bregma		
 entry	Bremser (Johann.-Georg)		
@@ -1070,8 +1030,6 @@ entry	Bretons
 entry	Bricheteau (Isidore)		
 pb	630	0634	4506194
 entry	Bridelia, Briedelia		
-orth	Bridelia		
-orth	Briedelia		
 ref	Clutie		
 entry	Brides-les-Bains (Eau minérale et boues de)		
 pb	631	0635	4506195
@@ -1131,7 +1089,7 @@ entry	Brodequin
 ref	Bottines		
 entry	Brodeuses		
 ref	Professions sédentaires		
-ref	et Vue (Hygiène de la)		
+ref	Vue (Hygiène de la)		
 entry	Brodie (Sir Benjamin-Collins)		
 pb	652	0656	4506216
 pb	653	0657	4506217
@@ -1179,9 +1137,6 @@ pb	680	0684	4506244
 entry	Bromhydrique (Acide)		
 pb	681	0685	4506245
 entry	Bromique, Hypobromeux et Hyperbromique (Acides)		
-orth	Bromique		
-orth	Hypobromeux		
-orth	Hyperbromique (Acides)		
 pb	682	0686	4506246
 entry	Bromont (Eaux minérales de)		
 pb	683	0687	4506247
@@ -1189,8 +1144,6 @@ entry	Bromures
 ref	Brome		
 entry	Bronches		
 entry	Bronches. Anatomie et physiologie		
-orth	Bronches. Anatomie		
-orth	physiologie		
 pb	684	0688	4506248
 pb	685	0689	4506249
 pb	686	0690	4506250

@@ -309,8 +309,6 @@ ref	lisez
 entry	Caille (La)		
 ref	La Caille		
 entry	Carie des végétaux. Au lieu de Coeoma, lisez Caeoma		
-orth	Carie des végétaux. Au lieu de Coeoma		
-orth	lisez Caeoma		
 entry	Cayla (Le). Au lieu de Caya (Le)		
 entry	Charançon. Au lieu de		
 ref	Cucurlionites		
@@ -320,8 +318,6 @@ ref	Nématoïdes
 ref	lisez		
 entry	Chirognomanie. Lisez : Chirognomancie		
 entry	Chondro-costales. Au lieu de : Artères, lisez : Articulations		
-orth	Chondro-costales. Au lieu de : Artères		
-orth	lisez : Articulations		
 entry	Codogapale. Au lieu de Codugapale		
 pb	282	0286	4517805
 entry	Addenda		
@@ -345,7 +341,8 @@ entry	Caïman
 ref	Crocodiliens		
 entry	Caissan (Jacques)		
 entry	Caisses chirurgicales		
-ref	Fractures et Gouttières		
+ref	Fractures		
+ref	Gouttières		
 entry	Cajeputène		
 pb	285	0289	4517808
 entry	Addenda		
@@ -355,8 +352,6 @@ entry	Calamaire
 entry	Calamus scriptorius		
 ref	Ventricules cérébraux		
 entry	Caldarone ou Calderone (Giovanni-Giaccomo)		
-orth	Caldarone		
-orth	Calderone (Giovanni-Giaccomo)		
 entry	Addenda. Callender (George-William)		
 pb	286	0290	4517809
 entry	Callianire		
@@ -381,7 +376,8 @@ entry	Calvi (Giovanni)
 entry	Calyptoblastes		
 entry	Camacés		
 entry	Cambodge		
-ref	Indo-Chine et Cochinchine		
+ref	Indo-Chine		
+ref	Cochinchine		
 pb	288	0292	4517811
 entry	Addenda		
 entry	Campana (Antonio-Francesco)		
@@ -391,8 +387,6 @@ pb	289	0293	4517812
 entry	Campegius		
 ref	Champier		
 entry	Addenda. Camuzio ou Camutius (Andrea)		
-orth	Addenda. Camuzio		
-orth	Camutius (Andrea)		
 pb	290	0294	4517813
 entry	Canal carotidien		
 entry	Canal ciliaire		
@@ -443,7 +437,8 @@ entry	Capitelle
 pb	294	0298	4517817
 entry	Addenda		
 entry	Capnomancie		
-ref	Pyromancie et Divination		
+ref	Pyromancie		
+ref	Divination		
 entry	Cappeler (Moritz-Anton)		
 entry	Capra (Marcello)		
 entry	Caprella		
@@ -457,18 +452,18 @@ entry	Addenda
 entry	Carcassonne (Aponévrose ou Ligament de)		
 entry	Carceus (Martin)		
 entry	Cardiacés ou Cardidés		
-orth	Cardiacés		
-orth	Cardidés		
 entry	Careno (Aloisio da)		
 entry	Caribes		
-ref	Caraïbes et Amérique		
+ref	Caraïbes		
+ref	Amérique		
 entry	Addenda. Carinaire		
 pb	296	0300	4517819
 entry	Carminique (Acide)		
 ref	Cochenille		
 entry	Carmoy (Gilbert)		
 entry	Carotidien (Ganglion)		
-ref	Ganglions et Sympathique (Grand)		
+ref	Ganglions		
+ref	Sympathique (Grand)		
 entry	Carotidien (Plexus)		
 ref	Sympathique (Grand)		
 entry	Carradori (Gioachimo) 		
@@ -488,8 +483,6 @@ entry	Castellani (Luigi-Francesco)
 entry	Addenda. Castiglione (Les)		
 pb	298	0302	4517821
 entry	Catelan ou Catalan (Laurent)		
-orth	Catelan		
-orth	Catalan (Laurent)		
 entry	Addenda. Catgut		
 pb	299	0303	4517822
 pb	300	0304	4517823
@@ -509,7 +502,8 @@ entry	Addenda. Cénesthésie
 pb	304	0308	4517827
 entry	Cénobite		
 entry	Centenaires		
-ref	Longévité et Vie		
+ref	Longévité		
+ref	Vie		
 entry	Addenda. Centrisque		
 pb	305	0309	4517828
 entry	Céphaliques (Médicaments)		
@@ -538,8 +532,6 @@ entry	Chabot
 entry	Chalasodermie		
 entry	Chamidés		
 entry	Champier ou Campegius (Jean-Bruyren)		
-orth	Champier		
-orth	Campegius (Jean-Bruyren)		
 entry	Chapuys (Claude) 		
 pb	313	0317	4517836
 entry	Addenda		
@@ -586,14 +578,13 @@ entry	Chlorure chloréthysulfureux
 entry	Cholacrol		
 ref	Nitracrol		
 entry	Choline		
-ref	Bile et Neurine		
+ref	Bile		
+ref	Neurine		
 entry	Choucas		
 entry	Chouette		
 entry	Addenda. Choulant (Johann-Ludwig)		
 pb	331	0335	4517854
 entry	Addenda. Christin ou Cristini (Bernardin)		
-orth	Addenda. Christin		
-orth	Cristini (Bernardin)		
 pb	332	0336	4517855
 entry	Chromatopseudopsie		
 entry	Chrouet (Warner)		
@@ -658,8 +649,6 @@ entry	Addenda. Corrigan (Dominic-John)
 pb	348	0352	4517871
 pb	349	0353	4517872
 entry	Coster ou Costerus von Rosenburg		
-orth	Coster		
-orth	Costerus von Rosenburg		
 entry	Couroucou		
 entry	Courtois (Richard-Joseph)		
 entry	Addenda. Craig (James)		
@@ -680,8 +669,6 @@ pb	[s. pag.]	0356	4517875
 pb	353	0357	4517876
 entry	Daalen		
 entry	Daalmann et non Daelmann (Gilles)		
-orth	Daalmann		
-orth	non Daelmann (Gilles)		
 entry	Daams (Johannes)		
 entry	Daburi		
 ref	Rocou		
@@ -690,8 +677,6 @@ pb	354	0358	4517877
 entry	Dacher (Eau de)		
 entry	Daciano (Giuseppe)		
 entry	Dacka, Dakka		
-orth	Dacka		
-orth	Dakka		
 entry	Dacnidiens		
 ref	Nematoïdes		
 entry	Dacollas (Les)		
@@ -701,8 +686,6 @@ entry	Dacrydium
 pb	355	0359	4517878
 entry	Dacryocystite		
 entry	Dacryoline ou Lacrymine		
-orth	Dacryoline		
-orth	Lacrymine		
 entry	Dacryolithes		
 entry	Dacryon		
 entry	Dacryops		
@@ -754,7 +737,7 @@ entry	Dalmas (Les deux)
 pb	368	0372	4517891
 pb	369	0373	4517892
 entry	Dalmatie		
-entry	D'Alnoncourt (Franz-Ludwig-Carl)		
+entry	Alnoncourt (Franz-Ludwig-Carl)		
 entry	Dalrymple (Les)		
 pb	370	0374	4517893
 entry	Dalton (Les)		
@@ -883,8 +866,6 @@ pb	457	0461	4517980
 entry	Danse (Hygiène)		
 ref	Exercice		
 entry	Danse de Saint-Guy ou Chorée		
-orth	Danse de Saint-Guy		
-orth	Chorée		
 pb	458	0462	4517981
 pb	459	0463	4517982
 pb	460	0464	4517983
@@ -1098,13 +1079,9 @@ pb	639	0644	4518163
 entry	Darbefeuille (A.)		
 pb	640	0645	4518164
 entry	Darcet ou D'Arcet (Les)		
-orth	Darcet		
-orth	D'Arcet (Les)		
 pb	641	0646	4518165
 pb	642	0647	4518166
 entry	Darcet ou d'Arcet (les)		
-orth	Darcet		
-orth	d'Arcet (les)		
 entry	Dardana		
 entry	Dardana (Giuseppe-Antonio)		
 pb	643	0648	4518167

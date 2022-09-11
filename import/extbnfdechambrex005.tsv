@@ -109,8 +109,6 @@ pb	101	0105	4501739
 pb	102	0106	4501740
 pb	103	0107	4501741
 entry	Angiome ou Angionome		
-orth	Angiome		
-orth	Angionome		
 entry	Angiopteris		
 entry	Angioténique		
 entry	Angiotérie		
@@ -160,9 +158,6 @@ pb	126	0130	4501764
 pb	127	0131	4501765
 pb	128	0132	4501766
 entry	Angusture. Pharmacologie, Thérapeutique et Toxicologie		
-orth	Angusture. Pharmacologie		
-orth	Thérapeutique		
-orth	Toxicologie		
 pb	129	0133	4501767
 pb	130	0134	4501768
 pb	131	0135	4501769
@@ -208,8 +203,6 @@ pb	150	0154	4501788
 pb	151	0155	4501789
 pb	152	0156	4501790
 entry	Animal, Animalité		
-orth	Animal		
-orth	Animalité		
 pb	153	0157	4501791
 pb	154	0158	4501792
 pb	155	0159	4501793
@@ -252,16 +245,11 @@ pb	181	0185	4501819
 entry	Anis étoilé		
 ref	Badiane		
 entry	Anishydramide ou Anisylimidamide		
-orth	Anishydramide		
-orth	Anisylimidamide		
 entry	Anisifolius		
 entry	Anisique (acide)		
 pb	182	0186	4501820
 entry	Anisoine		
 entry	Anisol ou Dracol ou Phénométhol		
-orth	Anisol		
-orth	Dracol		
-orth	Phénométhol		
 entry	Anisomèle		
 pb	183	0187	4501821
 entry	Anison		
@@ -273,8 +261,6 @@ ref	Mouchu
 entry	Anisum		
 ref	Anis		
 entry	Anisyle ou Draconyle		
-orth	Anisyle		
-orth	Draconyle		
 entry	Ankyloblépharon		
 ref	Paupières		
 entry	Ankyloglosse		
@@ -452,8 +438,6 @@ pb	301	0305	4501939
 entry	Anthropomorphon		
 ref	Mandragore		
 entry	Anthropophagie, Anthropophage		
-orth	Anthropophagie		
-orth	Anthropophage		
 pb	302	0306	4501940
 pb	303	0307	4501941
 pb	304	0308	4501942
@@ -576,8 +560,6 @@ pb	400	0404	4502038
 pb	401	0405	4502039
 entry	Antimoniates		
 entry	Antimonieux et Antimoniques (Acides)		
-orth	Antimonieux		
-orth	Antimoniques (Acides)		
 ref	Antimoine		
 entry	Antimoniures		
 entry	Antimonyle		
@@ -598,7 +580,8 @@ pb	410	0414	4502048
 entry	Antiscrofuleux		
 pb	411	0415	4502049
 entry	Antiseptiques		
-ref	Désinfectants et Septicité		
+ref	Désinfectants		
+ref	Septicité		
 entry	Antispasmodiques (Médicaments et médication)		
 pb	412	0416	4502050
 pb	413	0417	4502051
@@ -614,12 +597,8 @@ pb	421	0425	4502059
 pb	422	0426	4502060
 entry	Antitésion		
 entry	Antjac, Antjak		
-orth	Antjac		
-orth	Antjak		
 ref	Figuier		
 entry	Antofle, Antolfe		
-orth	Antofle		
-orth	Antolfe		
 entry	Antogast (Eaux minérales d')		
 pb	423	0427	4502061
 pb	424	0428	4502062
@@ -627,8 +606,6 @@ entry	Antommarchi (Francesco)
 entry	Antonio Di Guagno (Eaux minérales d')		
 ref	Guagno		
 entry	Antony, ou Anthony (Francis)		
-orth	Antony		
-orth	Anthony (Francis)		
 pb	425	0429	4502063
 entry	Antozone		
 ref	Ozone		
@@ -643,8 +620,6 @@ entry	Anudron
 entry	Anupias		
 entry	Anus		
 entry	Anus. Anatomie et physiologie		
-orth	Anus. Anatomie		
-orth	physiologie		
 pb	426	0430	4502064
 pb	427	0431	4502065
 pb	428	0432	4502066
@@ -843,8 +818,6 @@ entry	Aouaca
 ref	Avocaties		
 pb	599	0603	4502237
 entry	Aouara, Aovara		
-orth	Aouara		
-orth	Aovara		
 entry	Aouarouchi		
 entry	Aouriole		
 ref	Centaurée		
@@ -863,9 +836,6 @@ pb	605	0609	4502243
 entry	Aphanes		
 ref	Alchémille		
 entry	Aphasie, Aphémie, Alalie		
-orth	Aphasie		
-orth	Aphémie		
-orth	Alalie		
 pb	606	0610	4502244
 pb	607	0611	4502245
 pb	608	0612	4502246
@@ -918,11 +888,7 @@ pb	652	0656	4502290
 entry	Aphrodisiaques		
 ref	Anaphrodisie		
 entry	Aphrodisie et Anaphrodisiaques		
-orth	Aphrodisie		
-orth	Anaphrodisiaques		
 entry	Aphrodisie et Anaphrodisiaques. Pathologie		
-orth	Aphrodisie		
-orth	Anaphrodisiaques. Pathologie		
 pb	653	0657	4502291
 pb	654	0658	4502292
 pb	655	0659	4502293
@@ -932,8 +898,6 @@ pb	658	0662	4502296
 pb	659	0663	4502297
 pb	660	0664	4502298
 entry	Aphrodisie et Anaphrodisiaques. Médecine légale		
-orth	Aphrodisie		
-orth	Anaphrodisiaques. Médecine légale		
 pb	661	0665	4502299
 pb	662	0666	4502300
 pb	663	0667	4502301
@@ -964,22 +928,16 @@ entry	Aplanétique (terme d'optique)
 pb	675	0679	4502313
 entry	Aplastique		
 entry	Aplotaxis, ou mieux Haplotaxis		
-orth	Aplotaxis		
-orth	mieux Haplotaxis		
 entry	Apnée		
 entry	Apocouita		
 entry	Apocrénique (acide)		
 pb	676	0680	4502314
 entry	Apocyn ou Apocin		
-orth	Apocyn		
-orth	Apocin		
 pb	677	0681	4502315
 pb	678	0682	4502316
 entry	Apocynées		
 pb	679	0683	4502317
 entry	Apocynine ou Apocyn		
-orth	Apocynine		
-orth	Apocyn		
 entry	Apodie		
 entry	Apollonius de Citium (A. Citiensis)		
 pb	680	0684	4502318
@@ -1046,8 +1004,6 @@ entry	Aporétine
 entry	Aposépédine		
 ref	Leucine		
 entry	Apothicaire, Apothicairerie		
-orth	Apothicaire		
-orth	Apothicairerie		
 pb	737	0741	4502375
 pb	738	0742	4502376
 pb	739	0743	4502377
@@ -1056,14 +1012,9 @@ entry	Apozèmes
 entry	Appareils		
 pb	741	0745	4502379
 entry	Anatomie et pathologie		
-orth	Anatomie		
-orth	pathologie		
 pb	742	0746	4502380
 entry	Appareils		
 entry	Appareils. Physique, chimie et pharmacie		
-orth	Appareils. Physique		
-orth	chimie		
-orth	pharmacie		
 pb	743	0747	4502381
 entry	Appendice		
 entry	Anatomie		
@@ -1076,36 +1027,23 @@ pb	746	0750	4502384
 entry	Applicata		
 pb	747	0751	4502385
 entry	Aprèle ou Apprelle		
-orth	Aprèle		
-orth	Apprelle		
 ref	Prêle		
 entry	Aprosopie		
 entry	Aptitudes et immunités pathologiques		
-orth	Aptitudes		
-orth	immunités pathologiques		
 entry	Aptitudes et immunités pathologiques. Pathologie générale		
-orth	Aptitudes		
-orth	immunités pathologiques. Pathologie générale		
 pb	748	0752	4502386
 pb	749	0753	4502387
 pb	750	0754	4502388
 entry	Aptitudes et immunités pathologiques. Pathologie spéciale suivant les races et les climats		
-orth	Aptitudes		
-orth	immunités pathologiques. Pathologie spéciale suivant les races		
-orth	les climats		
 pb	751	0755	4502389
 pb	752	0756	4502390
 entry	Apuleius ou appuleius (Lucius)		
-orth	Apuleius		
-orth	appuleius (Lucius)		
 pb	753	0757	4502391
 entry	Apyrexie		
 entry	Aquatique (Noix)		
 entry	Aqueduc		
 pb	754	0758	4502392
 entry	Aquifoux ou Alquifoux		
-orth	Aquifoux		
-orth	Alquifoux		
 ref	Houx		
 entry	Aquila (Jean dell')		
 entry	Aquilaire		
@@ -1147,16 +1085,10 @@ entry	Arabine
 entry	Arabique		
 ref	Gomme		
 entry	Araca ou A.-Iba		
-orth	Araca		
-orth	A.-Iba		
 ref	Goyavier		
 entry	Aracacha ou Arracacha		
-orth	Aracacha		
-orth	Arracacha		
 pb	773	0777	4502411
 entry	Arachide ou Pistache de terre. Anchie, etc.		
-orth	Arachide		
-orth	Pistache de terre. Anchie		
 entry	Arachnides		
 pb	774	0778	4502412
 pb	775	0779	4502413
@@ -1168,8 +1100,6 @@ ref	Méninges
 entry	Arachnoïdite		
 ref	Méningite		
 entry	Arachus, Aracus		
-orth	Arachus		
-orth	Aracus		
 entry	Aracouchini (Résine)		
 pb	776	0780	4502414
 entry	Aradech		
@@ -1177,8 +1107,6 @@ entry	Arah
 ref	Pistachier		
 entry	Araignée de mer		
 entry	Araignées, Aranéïdes		
-orth	Araignées		
-orth	Aranéïdes		
 pb	777	0781	4502415
 pb	778	0782	4502416
 pb	779	0783	4502417
@@ -1199,8 +1127,6 @@ pb	787	0791	4502425
 entry	Aran (François-Amilcar)		
 pb	788	0792	4502426
 entry	Aranci, Arancio		
-orth	Aranci		
-orth	Arancio		
 ref	Oranger		
 entry	Arantius (Jules-César)		
 pb	789	0793	4502427

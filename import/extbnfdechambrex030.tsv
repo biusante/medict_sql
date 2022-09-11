@@ -35,8 +35,6 @@ pb	23	0027	4521409
 entry	Diverso (Pietro-Salio)		
 entry	Dives (Station marine de)		
 entry	Dividivi ou Libidibi		
-orth	Dividivi		
-orth	Libidibi		
 pb	24	0028	4521410
 entry	Divination		
 pb	25	0029	4521411
@@ -443,8 +441,6 @@ pb	362	0366	4521748
 entry	Dolmen		
 pb	363	0367	4521749
 entry	Doloeus ou Dolée (Jean)		
-orth	Doloeus		
-orth	Dolée (Jean)		
 pb	364	0368	4521750
 entry	Doloire		
 entry	Dolomède		
@@ -490,8 +486,6 @@ entry	Doms (Les)
 ref	Nègres		
 entry	Donat (Saint-) (Eau minérale de)		
 entry	Donati ou Donato (Les)		
-orth	Donati		
-orth	Donato (Les)		
 pb	386	0390	4521772
 entry	Donation		
 entry	Donax		
@@ -517,16 +511,10 @@ entry	Doody (Samuel)
 entry	Doppet (François-Amédée)		
 pb	392	0396	4521778
 entry	Dora, Dorah, Dourah, Durra		
-orth	Dora		
-orth	Dorah		
-orth	Dourah		
-orth	Durra		
 entry	Dorade		
 ref	Daurade		
 entry	Doradille		
 entry	Dordoni ou Dordonus (Georges)		
-orth	Dordoni		
-orth	Dordonus (Georges)		
 entry	Dorée		
 pb	393	0397	4521779
 entry	Dore-l'Église (Eau minérales de)		
@@ -536,8 +524,6 @@ pb	394	0398	4521780
 pb	395	0399	4521781
 entry	Dörer (André)		
 entry	Doreurs, Argenteurs (Hygiène professionnelle)		
-orth	Doreurs		
-orth	Argenteurs (Hygiène professionnelle)		
 pb	396	0400	4521782
 pb	397	0401	4521783
 pb	398	0402	4521784
@@ -562,8 +548,6 @@ entry	Dornier (Aimé-Antoine)
 pb	405	0409	4521791
 entry	Dornkrell d'Eberhertz (Tobias)		
 entry	Doronic ou Doronique		
-orth	Doronic		
-orth	Doronique		
 pb	406	0410	4521792
 entry	Dorpe (Jean-François van)		
 pb	407	0411	4521793
@@ -723,7 +707,7 @@ entry	Dourou
 entry	Douroucouli		
 entry	Doussin-Dubreuil (Jacques-Louis)		
 pb	515	0519	4521901
-entry	D'Outrepont		
+entry	Outrepont		
 ref	Outrepont		
 entry	Douve		
 entry	Botanique		
@@ -771,7 +755,8 @@ entry	Dracaena
 entry	Botanique		
 ref	Dragonnier		
 entry	Emploi médical		
-ref	Sang-dragon et Dragonnier		
+ref	Sang-dragon		
+ref	Dragonnier		
 entry	Dracanos		
 entry	Draco		
 entry	Dracocéphale		
@@ -798,16 +783,12 @@ entry	Dragonneau
 entry	Dragonnier		
 pb	559	0563	4521945
 entry	Drain, Drainage		
-orth	Drain		
-orth	Drainage		
 pb	560	0564	4521946
 pb	561	0565	4521947
 entry	Drake (Les)		
 pb	562	0566	4521948
 entry	Drake (Racine de)		
 entry	Drakena, Drakoena		
-orth	Drakena		
-orth	Drakoena		
 pb	563	0567	4521949
 entry	Dramatiques (Artistes)		
 pb	564	0568	4521950
@@ -820,8 +801,6 @@ ref	Araignées
 entry	Drastiques		
 ref	Purgatifs		
 entry	Dravidiennes ou Draviriennes (Populations)		
-orth	Dravidiennes		
-orth	Draviriennes (Populations)		
 entry	Drebbel (Cornelius van)		
 pb	567	0571	4521953
 entry	Dreissène		
@@ -1017,7 +996,8 @@ entry	Dufresnoy (André-Ignace-Joseph)
 pb	642	0646	4522028
 entry	Duftschmid (Johann)		
 entry	Du Gardin		
-ref	Gardin et Dujardin		
+ref	Gardin		
+ref	Dujardin		
 entry	Dugas (Pierre-Théodore)		
 entry	Dugès (Antoine-Louis)		
 pb	643	0647	4522029
@@ -1046,8 +1026,6 @@ entry	Dulcamarin
 ref	Douce-amère		
 entry	Dulcichinum		
 entry	Dulcifida, Dulcisida		
-orth	Dulcifida		
-orth	Dulcisida		
 entry	Dulcitamine		
 entry	Dulcitane		
 entry	Dulcite		
@@ -1067,8 +1045,6 @@ entry	Duméril (André-Marie-Constant)
 pb	656	0660	4522042
 entry	Duméril (Auguste-Henri-André)		
 entry	Dummeiri, Domeyri		
-orth	Dummeiri		
-orth	Domeyri		
 entry	Dumont (Les)		
 pb	657	0661	4522043
 pb	658	0662	4522044
@@ -1129,8 +1105,6 @@ entry	Dur-bec
 ref	Gros-bec		
 entry	Dure-mère		
 entry	Dure-mère. Anatomie et physiologie		
-orth	Dure-mère. Anatomie		
-orth	physiologie		
 pb	679	0683	4522065
 pb	680	0684	4522066
 pb	681	0685	4522067
@@ -1182,8 +1156,6 @@ entry	Duroi (Jean-Philippe)
 entry	Durol		
 entry	Du Rondeau (Jean-Baptiste)		
 entry	Duroy, ou peut-être Desroy (Henry)		
-orth	Duroy		
-orth	peut-être Desroy (Henry)		
 pb	720	0724	4522106
 entry	Dürr (Philipp-Paulus-Theodor)		
 entry	Durtal (Eaux minérales de)		
@@ -1209,9 +1181,6 @@ entry	Duval-Jouve (Joseph)
 pb	728	0732	4522114
 pb	729	0733	4522115
 entry	Duverger ou Duvergé, et non Duvergier		
-orth	Duverger		
-orth	Duvergé		
-orth	non Duvergier		
 entry	Du Verney (Les)		
 pb	730	0734	4522116
 pb	731	0735	4522117

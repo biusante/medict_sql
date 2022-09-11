@@ -182,8 +182,6 @@ pb	168	0174	4575760
 pb	169	0175	4575761
 pb	170	0176	4575762
 entry	Peau. Hygiène professionnelle et industrielle		
-orth	Peau. Hygiène professionnelle		
-orth	industrielle		
 pb	171	0177	4575763
 pb	172	0178	4575764
 pb	173	0179	4575765
@@ -229,7 +227,8 @@ pb	199	0205	4575791
 pb	200	0206	4575792
 pb	201	0207	4575793
 entry	Pecherais (Les)		
-ref	Fuégiens et Amérique		
+ref	Fuégiens		
+ref	Amérique		
 entry	Pechlin (Jean-Nicolas)		
 entry	Péchurim		
 ref	Pitchurim (Fève)		
@@ -287,8 +286,6 @@ pb	238	0244	4575830
 entry	Pedalium (L.)		
 pb	239	0245	4575831
 entry	Pédane ou Pet d'âne		
-orth	Pédane		
-orth	Pet d'âne		
 entry	Pédarthrocace		
 entry	Pedda-Gallikara		
 entry	Pédérastie		
@@ -897,33 +894,22 @@ entry	Pentaphylloïdes
 entry	Pentaphyllon		
 pb	704	0710	4576296
 entry	Pentastome ou Linguatule		
-orth	Pentastome		
-orth	Linguatule		
 entry	Pentastome ou Linguatule. Hist. natur.		
-orth	Pentastome		
-orth	Linguatule. Hist. natur		
 pb	705	0711	4576297
 pb	706	0712	4576298
 pb	707	0713	4576299
 pb	708	0714	4576300
 entry	Pentastome ou Linguatule. Pathologie		
-orth	Pentastome		
-orth	Linguatule. Pathologie		
 pb	709	0715	4576301
 pb	710	0716	4576302
 pb	711	0717	4576303
 entry	Pentasulfures ou Quintisulfures		
-orth	Pentasulfures		
-orth	Quintisulfures		
 ref	Sulfures métalliques		
 entry	Pentathionates		
 entry	Pentathionique (Acide)		
 pb	712	0718	4576304
 entry	Pentatropis		
 entry	Pentosobon, Pentosobos, Pentosobus		
-orth	Pentosobon		
-orth	Pentosobos		
-orth	Pentosobus		
 entry	Pentzlin (Friedrich)		
 pb	713	0719	4576305
 entry	Penwar-Pait		
@@ -940,8 +926,6 @@ entry	Peplis
 pb	714	0720	4576306
 entry	Peplus		
 entry	Pépo ou Pépon		
-orth	Pépo		
-orth	Pépon		
 entry	Pepsine		
 pb	715	0721	4576307
 pb	716	0722	4576308
@@ -1047,8 +1031,6 @@ pb	770	0776	4576362
 entry	Perfect (William)		
 entry	Perforantes (Artères)		
 entry	Perforation chirurgicale, Perforateurs		
-orth	Perforation chirurgicale		
-orth	Perforateurs		
 pb	771	0777	4576363
 pb	772	0778	4576364
 pb	773	0779	4576365

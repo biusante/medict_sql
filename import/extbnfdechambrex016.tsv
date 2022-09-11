@@ -14,8 +14,6 @@ pb	3	0007	4510386
 entry	Chibou		
 ref	Cahibou		
 entry	Chica ou Chicha		
-orth	Chica		
-orth	Chicha		
 entry	Chicasahs (Les)		
 ref	Amérique		
 entry	Chichimèques (Les)		
@@ -87,7 +85,8 @@ entry	Chimères
 pb	47	0051	4510430
 pb	48	0052	4510431
 entry	Chimiatrie		
-ref	Chimie et Médecine		
+ref	Chimie		
+ref	Médecine		
 entry	Chimie (Histoire de la)		
 pb	49	0053	4510432
 pb	50	0054	4510433
@@ -279,7 +278,8 @@ entry	Chinlen
 ref	Chynlen		
 entry	Chinois (Empire)		
 entry	Chinooks (Les)		
-ref	Amérique et Britanniques (possessions)		
+ref	Amérique		
+ref	Britanniques (possessions)		
 entry	Chiocco (André)		
 pb	226	0230	4510609
 entry	Chiococca (L.)		
@@ -290,7 +290,8 @@ ref	Caïnca
 entry	Chiococcique (Acide)		
 ref	Caïnca		
 entry	Chippewas		
-ref	Amérique et Britanniques (possessions)		
+ref	Amérique		
+ref	Britanniques (possessions)		
 entry	Chique		
 pb	229	0233	4510612
 pb	230	0234	4510613
@@ -319,9 +320,11 @@ entry	Chirayta
 entry	Chiretta		
 ref	Ophélia		
 entry	Chirognomanie		
-ref	Main et Occultes (sciences)		
+ref	Main		
+ref	Occultes (sciences)		
 entry	Chiromancie		
-ref	Main et Occultes (sciences)		
+ref	Main		
+ref	Occultes (sciences)		
 pb	249	0253	4510632
 entry	Chiron (Le centaure)		
 entry	Chiron (Baume)		
@@ -601,7 +604,8 @@ pb	501	0505	4510884
 pb	502	0506	4510885
 entry	Chloralbine		
 entry	Chloraldéhyde		
-ref	Chloral et Aldéhydes		
+ref	Chloral		
+ref	Aldéhydes		
 pb	503	0507	4510886
 entry	Chloralide (Chimie)		
 entry	Chloraloïne (Chimie)		
@@ -613,16 +617,10 @@ ref	Mercure
 entry	Chloramyle (Chimie)		
 entry	Chloramylène		
 entry	Chloranilam ou acide chloranilamique		
-orth	Chloranilam		
-orth	acide chloranilamique		
 pb	504	0508	4510887
 entry	Chloranilamide ou bichloroquinonamide		
-orth	Chloranilamide		
-orth	bichloroquinonamide		
 entry	Chloranilammon		
 entry	Chloranile ou quinone perchlorée		
-orth	Chloranile		
-orth	quinone perchlorée		
 entry	Chloranilides (Chimie)		
 pb	505	0509	4510888
 entry	Chloraniline (Chimie)		
@@ -748,8 +746,6 @@ entry	Chlorazol
 pb	612	0616	4510995
 entry	Chlorazolithmine		
 entry	Chlorazoteux ou Hypochlorazotique (Acides)		
-orth	Chlorazoteux		
-orth	Hypochlorazotique (Acides)		
 entry	Chlore		
 entry	Chlore. Chimie		
 pb	613	0617	4510996
@@ -822,8 +818,6 @@ pb	643	0647	4511026
 entry	Chlorocamphène		
 entry	Chlorocamphine		
 entry	Chlorocarbonique (Acide), Chloroxycarbonique (Acide)		
-orth	Chlorocarbonique (Acide)		
-orth	Chloroxycarbonique (Acide)		
 pb	644	0648	4511027
 entry	Chlorocarvène		
 entry	Chlorocétyle		
@@ -898,7 +892,8 @@ entry	Chloromésitylène
 entry	Chlorométhylase		
 pb	691	0695	4511074
 entry	Chlorométhyle		
-ref	Chloroforme et Chlorure de Méthyle		
+ref	Chloroforme		
+ref	Chlorure de Méthyle		
 entry	Chlorométrie		
 pb	692	0696	4511075
 entry	Chloromichmylique (Acide)		
@@ -907,8 +902,6 @@ entry	Chloronaphtaline
 pb	693	0697	4511076
 pb	694	0698	4511077
 entry	Chlorophénique, Chlorophénilique (Acide)		
-orth	Chlorophénique		
-orth	Chlorophénilique (Acide)		
 pb	695	0699	4511078
 entry	Chlorophylle		
 entry	Chlorophylle. Chimie		
@@ -961,8 +954,6 @@ entry	Chloroxalamide
 pb	721	0725	4511104
 entry	Chloroxaléther		
 entry	Chloroxalique, Chloroxalvinique (Acide)		
-orth	Chloroxalique		
-orth	Chloroxalvinique (Acide)		
 entry	Chloroxéthide		
 entry	Chloroxéthose		
 pb	722	0726	4511105
@@ -1164,8 +1155,6 @@ entry	Choléra des doigts
 pb	888	0892	4511271
 entry	Addendum		
 entry	Chlorates de potasse et de soude		
-orth	Chlorates de potasse		
-orth	de soude		
 pb	889	0893	4511272
 entry	Articles contenus dans le seizième volume (1re série.)		
 pb	890	0894	4511273

@@ -6,8 +6,6 @@ pb	1	0005	4591711
 entry	Système (Philosophie)		
 ref	Doctrine		
 entry	Systèmes anatomiques ou organiques		
-orth	Systèmes anatomiques		
-orth	organiques		
 pb	2	0006	4591712
 pb	3	0007	4591713
 pb	4	0008	4591714
@@ -76,8 +74,6 @@ entry	Syzygium Jambolanum
 entry	Szerlecki (Alfred-Stanislas)		
 pb	63	0067	4591773
 entry	Szkleno ou Skleno (Eaux minérales de)		
-orth	Szkleno		
-orth	Skleno (Eaux minérales de)		
 pb	64	0068	4591774
 pb	65	0069	4591775
 pb	66	0070	4591776
@@ -219,8 +215,6 @@ entry	Scaphopodes
 pb	183	0187	4591893
 entry	Addenda		
 entry	Addenda. Schizomycètes ou Schizophytes		
-orth	Addenda. Schizomycètes		
-orth	Schizophytes		
 pb	184	0188	4591894
 pb	185	0189	4591895
 pb	186	0190	4591896
@@ -295,8 +289,6 @@ entry	Straub (Von)
 entry	Studley (William-H.)		
 entry	Stylifer		
 entry	Addenda. Succinique (Acide) et Succinates]		
-orth	Addenda. Succinique (Acide)		
-orth	Succinates]		
 pb	231	0235	4591941
 entry	Sweeting (Richard)		
 entry	Symphyséotomie		
@@ -304,7 +296,7 @@ entry	Errata
 entry	Stoeber (Victor)		
 entry	Stolz		
 pb	232	0236	4591942
-entry	T (Bandages en)		
+entry	Bandages en)		
 entry	Taam		
 entry	Tabac		
 entry	Tabac. Botanique		
@@ -313,8 +305,6 @@ pb	234	0238	4591944
 pb	235	0239	4591945
 pb	236	0240	4591946
 entry	Tabac. Chimie et falsifications		
-orth	Tabac. Chimie		
-orth	falsifications		
 pb	237	0241	4591947
 pb	238	0242	4591948
 pb	239	0243	4591949
@@ -351,8 +341,6 @@ pb	266	0270	4591976
 pb	267	0271	4591977
 pb	268	0272	4591978
 entry	Tabac. Intoxication chronique, Hygiène		
-orth	Tabac. Intoxication chronique		
-orth	Hygiène		
 pb	269	0273	4591979
 pb	270	0274	4591980
 pb	271	0275	4591981
@@ -375,9 +363,6 @@ entry	Tabaniens
 entry	Tabarrani (Pietro)		
 pb	286	0290	4591996
 entry	Tabaschir, Tabaxir, Tabasheer		
-orth	Tabaschir		
-orth	Tabaxir		
-orth	Tabasheer		
 entry	Tabascon		
 entry	Tabebuia		
 entry	Tabernaemontana		
@@ -569,8 +554,6 @@ pb	463	0467	4592173
 pb	464	0468	4592174
 pb	465	0469	4592175
 entry	Tables ou Tableaux scientifiques		
-orth	Tables		
-orth	Tableaux scientifiques		
 pb	466	0470	4592176
 entry	Tables tournantes		
 ref	Spiritisme		
@@ -591,17 +574,11 @@ entry	Tac
 ref	Horion		
 pb	472	0476	4592182
 entry	Tacamahaca ou Tacamaque		
-orth	Tacamahaca		
-orth	Tacamaque		
 entry	Tacamahaca ou Tacamaque. Matière médicale		
-orth	Tacamahaca		
-orth	Tacamaque. Matière médicale		
 pb	473	0477	4592183
 pb	474	0478	4592184
 pb	475	0479	4592185
 entry	Tacamahaca ou Tacamaque		
-orth	Tacamahaca		
-orth	Tacamaque		
 entry	Emploi		
 entry	Tacanas (Les)		
 entry	Tacca (Forst)		
@@ -637,20 +614,14 @@ entry	Tache embryonnaire
 entry	Tache germinative		
 ref	Oeuf		
 entry	Taches acoustiques ou criblées de l'oreille		
-orth	Taches acoustiques		
-orth	criblées de l'oreille		
 ref	Oreille (Anatomie)		
 entry	Taches bleues et ombrées		
-orth	Taches bleues		
-orth	ombrées		
 pb	498	0502	4592208
 pb	499	0503	4592209
 pb	500	0504	4592210
 entry	Taches hépatiques		
 ref	Foie		
 entry	Taches syphilitiques, syphilide pigmentaire		
-orth	Taches syphilitiques		
-orth	syphilide pigmentaire		
 pb	501	0505	4592211
 pb	502	0506	4592212
 pb	503	0507	4592213
@@ -668,8 +639,6 @@ entry	Tacheron (Charles-François)
 pb	513	0517	4592223
 entry	Tachi		
 entry	Tacke ou Tackius (Johann)		
-orth	Tacke		
-orth	Tackius (Johann)		
 entry	Tackir		
 entry	Taconnet		
 entry	Tact (Physiologie)		
@@ -677,13 +646,9 @@ entry	Tact médical
 pb	514	0518	4592224
 pb	515	0519	4592225
 entry	Tacuahe, Tacvache		
-orth	Tacuahe		
-orth	Tacvache		
 entry	Tacullies (Les)		
 entry	Taddei (Gioachino)		
 entry	Taddeo ou Thaddée		
-orth	Taddeo		
-orth	Thaddée		
 pb	516	0520	4592226
 entry	Tadini (Alessandro)		
 entry	Tadjiks		
@@ -734,17 +699,14 @@ ref	Taenia
 entry	Taffetas médicinaux		
 entry	Tafia		
 entry	Tagals (Les)		
-ref	Malaisie et Philippines		
+ref	Malaisie		
+ref	Philippines		
 entry	Tagault (Jean)		
 pb	552	0556	4592262
 entry	Tagera		
 entry	Tagètes		
 pb	553	0557	4592263
 entry	Tagliacozzi, Tagliacozzo, Taliacotius, et non pas Tagliacotius (Gaspar)		
-orth	Tagliacozzi		
-orth	Tagliacozzo		
-orth	Taliacotius		
-orth	non pas Tagliacotius (Gaspar)		
 pb	554	0558	4592264
 entry	Tagu		
 entry	Tagua		
@@ -752,8 +714,6 @@ entry	Taguc
 entry	Taguina		
 entry	Tahalea		
 entry	Tahaleb, Thaleb		
-orth	Tahaleb		
-orth	Thaleb		
 entry	Tahiti		
 pb	555	0559	4592265
 pb	556	0560	4592266
@@ -780,9 +740,6 @@ pb	576	0580	4592286
 pb	577	0581	4592287
 pb	578	0582	4592288
 entry	Taihoang, Tai-Hoam, Tai-huam		
-orth	Taihoang		
-orth	Tai-Hoam		
-orth	Tai-huam		
 entry	Taiguique (Acide)		
 entry	Taila		
 entry	Taille (Chirurgie)		
@@ -866,9 +823,6 @@ pb	652	0656	4592362
 pb	653	0657	4592363
 entry	Taios		
 entry	Taja, Tajaoba, Tajooba		
-orth	Taja		
-orth	Tajaoba		
-orth	Tajooba		
 entry	Tajicks		
 ref	Tadjiks		
 entry	Taka		
@@ -913,8 +867,6 @@ entry	Tamalak
 entry	Tamalaki		
 entry	Tamalapaku		
 entry	Tamalapatra, Tamalopatrum		
-orth	Tamalapatra		
-orth	Tamalopatrum		
 entry	Tamandua		
 pb	658	0662	4592368
 pb	659	0663	4592369
@@ -924,8 +876,6 @@ entry	Tamanoir
 pb	662	0666	4592372
 pb	663	0667	4592373
 entry	Tamanou ou Tamanu (Emploi)		
-orth	Tamanou		
-orth	Tamanu (Emploi)		
 pb	664	0668	4592374
 entry	Tamaotarana		
 entry	Tamapouel		
@@ -934,16 +884,10 @@ entry	Tamar-hendi
 entry	Tamara		
 pb	665	0669	4592375
 entry	Tamarin, Tamarinier		
-orth	Tamarin		
-orth	Tamarinier		
 entry	Tamarin, Tamarinier. Botanique		
-orth	Tamarin		
-orth	Tamarinier. Botanique		
 pb	666	0670	4592376
 entry	Matière médicale		
 entry	Tamarin, Tamarinier. Emploi médical		
-orth	Tamarin		
-orth	Tamarinier. Emploi médical		
 pb	667	0671	4592377
 pb	668	0672	4592378
 pb	669	0673	4592379
@@ -951,8 +895,6 @@ pb	670	0674	4592380
 entry	Tamarin (Zoologie)		
 ref	Ouistiti		
 entry	Tamarix, Tamaricinées		
-orth	Tamarix		
-orth	Tamaricinées		
 pb	671	0675	4592381
 pb	672	0676	4592382
 pb	673	0677	4592383
@@ -961,11 +903,7 @@ entry	Tamba-tan
 entry	Tambacu		
 pb	674	0678	4592384
 entry	Tamboul, Tamboulissa		
-orth	Tamboul		
-orth	Tamboulissa		
 entry	Tamier ou Taminier		
-orth	Tamier		
-orth	Taminier		
 entry	Tamis		
 ref	Tamisation		
 entry	Tamisation (Pharmacie)		
@@ -976,8 +914,6 @@ entry	Ta-mo
 entry	Tamouls		
 ref	Dravidiens		
 entry	Tamp-paiang ou Tam-baiang		
-orth	Tamp-paiang		
-orth	Tam-baiang		
 entry	Tampicine		
 pb	676	0680	4592386
 entry	Tampicique (Acide)		
@@ -987,8 +923,6 @@ ref	Tampicine
 entry	Tamplin (Richard-William)		
 entry	Tampoc		
 entry	Tampon, Tamponnement		
-orth	Tampon		
-orth	Tamponnement		
 pb	677	0681	4592387
 entry	Tamrohenni		
 entry	Tamus		
@@ -1013,8 +947,6 @@ entry	Tanche
 entry	Tanchou (Stanislas)		
 pb	683	0687	4592393
 entry	Tanck ou Tancke (Joachim)		
-orth	Tanck		
-orth	Tancke (Joachim)		
 entry	Tandler (Tobias)		
 pb	684	0688	4592394
 entry	Tandolo		
@@ -1120,16 +1052,12 @@ entry	Tapitèle
 ref	Araignée		
 entry	Tappe (Jacob)		
 entry	Tapyra-cayenna, Tapyra-coanna		
-orth	Tapyra-cayenna		
-orth	Tapyra-coanna		
 entry	Tapyra-pecu		
 entry	Tara		
 entry	Taransjubin		
 pb	735	0739	4592445
 entry	Tarascon (Eau minérale de)		
 entry	Tarasp et Schuls (Eaux minérales de)		
-orth	Tarasp		
-orth	Schuls (Eaux minérales de)		
 pb	736	0740	4592446
 pb	737	0741	4592447
 pb	738	0742	4592448
@@ -1146,8 +1074,6 @@ ref	Mexique
 entry	Tarastrusti		
 entry	Taratout		
 entry	Taratti, Tarratti		
-orth	Taratti		
-orth	Tarratti		
 entry	Taraxacine		
 pb	746	0750	4592456
 entry	Taraxacum		
@@ -1171,8 +1097,6 @@ pb	755	0759	4592465
 entry	Taret		
 pb	756	0760	4592466
 entry	Tarfa, Tarfeh		
-orth	Tarfa		
-orth	Tarfeh		
 entry	Targioni (Les)		
 pb	757	0761	4592467
 pb	758	0762	4592468

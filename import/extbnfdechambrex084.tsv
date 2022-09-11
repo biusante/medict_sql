@@ -133,8 +133,6 @@ entry	Rivallié (Jean)
 pb	67	0071	4583847
 entry	Rivera (Francisco Suares de)		
 entry	Rivière et la Rivière (Les)		
-orth	Rivière		
-orth	la Rivière (Les)		
 pb	68	0072	4583848
 pb	69	0073	4583849
 entry	Rivière (Potion de)		
@@ -207,14 +205,13 @@ pb	99	0103	4583879
 pb	100	0104	4583880
 pb	101	0105	4583881
 entry	Rocher		
-ref	Crâne et Temporal		
+ref	Crâne		
+ref	Temporal		
 entry	Roches (Les) (Eau minérale de)		
 ref	Les Roches		
 entry	Rochoux (Jacques-André)		
 pb	102	0106	4583882
 entry	Rocou, Rocouyer		
-orth	Rocou		
-orth	Rocouyer		
 pb	103	0107	4583883
 pb	104	0108	4583884
 entry	Rodet (Jean-Baptiste-Claude)		
@@ -238,14 +235,10 @@ entry	Roeslin (Eucharius)
 entry	Roestelia		
 pb	112	0116	4583892
 entry	Roger (de Parme), Ruggiero		
-orth	Roger (de Parme)		
-orth	Ruggiero		
 pb	113	0117	4583893
 entry	Rognetta (Francesco)		
 pb	114	0118	4583894
 entry	Roland ou Rolando (Les)		
-orth	Roland		
-orth	Rolando (Les)		
 pb	115	0119	4583895
 pb	116	0120	4583896
 entry	Rolfinck (Guerner)		
@@ -352,9 +345,8 @@ ref	Ronds
 entry	Rondelet (Guillaume)		
 pb	190	0194	4583970
 entry	Rondelette ou Rondette		
-orth	Rondelette		
-orth	Rondette		
-ref	Glechoma et Lierre terrestre)		
+ref	Glechoma		
+ref	Lierre terrestre)		
 entry	Rondier		
 ref	Arenga		
 entry	Ronds (Muscles grand et petit-)		
@@ -388,7 +380,8 @@ pb	204	0208	4583984
 entry	Rosacique (Acide)		
 entry	Rosains (Bernardo-Dominguez)		
 entry	Rosaniline		
-ref	Fuchsine et Goudron de houille)		
+ref	Fuchsine		
+ref	Goudron de houille)		
 entry	Rosat (Miel)		
 ref	Mellites		
 entry	Rosat (Onguent)		
@@ -396,18 +389,12 @@ pb	205	0209	4583985
 entry	Roscoff (Station marine de)		
 entry	Rose (Heinrich)		
 entry	Rose, Rosier		
-orth	Rose		
-orth	Rosier		
 entry	Rose, Rosier. Botanique		
-orth	Rose		
-orth	Rosier. Botanique		
 pb	206	0210	4583986
 pb	207	0211	4583987
 pb	208	0212	4583988
 pb	209	0213	4583989
 entry	Rose, Rosier. Pharmacologie		
-orth	Rose		
-orth	Rosier. Pharmacologie		
 pb	210	0214	4583990
 pb	211	0215	4583991
 pb	212	0216	4583992
@@ -835,8 +822,6 @@ entry	Rubiastrum
 ref	Garance		
 entry	Rubichlorique (Acide)		
 entry	Rubidehydran et Rubihydran		
-orth	Rubidehydran		
-orth	Rubihydran		
 pb	531	0535	4584311
 entry	Rubidine		
 entry	Rubidium		
@@ -937,8 +922,6 @@ entry	Rufinosulfurique (Acide)
 entry	Rufus (d'Éphèse)		
 pb	588	0592	4584368
 entry	Rugination, Rugines		
-orth	Rugination		
-orth	Rugines		
 entry	Ruïbarbo do Campo		
 entry	Ruillé (Eau minérale de)		
 pb	589	0593	4584369
@@ -960,7 +943,8 @@ pb	594	0598	4584374
 entry	Rumex		
 ref	Rhapontic		
 ref	Rhubarbe		
-ref	Oseille et Patience		
+ref	Oseille		
+ref	Patience		
 entry	Rumfort (Benjamin Thomson, comte de)		
 pb	595	0599	4584375
 entry	Rumicine		
@@ -980,8 +964,6 @@ entry	Rummel (Ludwig-Friedrich)
 pb	606	0610	4584386
 entry	Rumpelt (Carl-August-Ferdinand)		
 entry	Rumph (Georg.-Everard) ou Rumphius		
-orth	Rumph (Georg.-Everard)		
-orth	Rumphius		
 pb	607	0611	4584387
 entry	Runge (Friedrich-Ferdinand)		
 entry	Rupert's Land		

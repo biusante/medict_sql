@@ -64,7 +64,8 @@ pb	58	0062	4513735
 pb	59	0063	4513736
 pb	60	0064	4513737
 entry	Continence (Médecine légale)		
-ref	Aphrodisie et Anaphrodisie		
+ref	Aphrodisie		
+ref	Anaphrodisie		
 entry	Contra		
 ref	Semen contra		
 entry	Contractilité (En général)		
@@ -105,8 +106,6 @@ pb	93	0097	4513770
 pb	94	0098	4513771
 pb	95	0099	4513772
 entry	Contrayerba ou Contrayerva		
-orth	Contrayerba		
-orth	Contrayerva		
 entry	Contre-ouverture		
 entry	Contrexéville (Eaux minérales de)		
 pb	96	0100	4513773
@@ -265,14 +264,9 @@ entry	Convallarine
 entry	Convolvulacées		
 pb	233	0237	4513910
 entry	Convolvuline, Rhodéorétine ou Jalapine		
-orth	Convolvuline		
-orth	Rhodéorétine		
-orth	Jalapine		
 entry	Convolvulinolique (Acide)		
 pb	234	0238	4513911
 entry	Convolvulique ou Rhodéorétique (Acide)		
-orth	Convolvulique		
-orth	Rhodéorétique (Acide)		
 pb	235	0239	4513912
 entry	Convolvulus		
 pb	236	0240	4513913
@@ -333,8 +327,6 @@ ref	Épidémiques (folies)
 entry	Conyze		
 entry	Cookia		
 entry	Coolies ou Culi		
-orth	Coolies		
-orth	Culi		
 entry	Cooper (Astley Paston)		
 pb	288	0292	4513965
 pb	289	0293	4513966
@@ -359,8 +351,6 @@ entry	Coparu de Saint-Domingue
 entry	Copaier		
 ref	Copayer		
 entry	Copaifera, Copahu		
-orth	Copaifera		
-orth	Copahu		
 ref	Copayer		
 entry	Copal		
 pb	298	0302	4513975
@@ -370,8 +360,6 @@ entry	Copaline
 entry	Copalme		
 ref	Liquidambar		
 entry	Copayer, Copaier		
-orth	Copayer		
-orth	Copaier		
 pb	300	0304	4513977
 pb	301	0305	4513978
 pb	302	0306	4513979
@@ -388,7 +376,8 @@ entry	Coprinaires
 entry	Coptes		
 ref	Égypte		
 entry	Copulation		
-ref	Coït et Fécondation		
+ref	Coït		
+ref	Fécondation		
 entry	Coq		
 pb	309	0313	4513986
 pb	310	0314	4513987
@@ -499,8 +488,6 @@ pb	400	0404	4514077
 entry	Coqueluchon		
 ref	Aconit		
 entry	Coquemelle ou Coucoumelle		
-orth	Coquemelle		
-orth	Coucoumelle		
 entry	Coquemollier		
 ref	Theophrasta		
 entry	Coquereau de Nancé (Charles-Jacques-Louis)		
@@ -568,7 +555,8 @@ pb	425	0429	4514102
 entry	Corde dorsale		
 ref	Rachis (développement)		
 entry	Corde du tympan		
-ref	Oreille et Vidien (nerf)		
+ref	Oreille		
+ref	Vidien (nerf)		
 entry	Cordéac (Eau minérale de)		
 entry	Cordia		
 entry	Cordon Ombilical		
@@ -578,7 +566,8 @@ pb	427	0431	4514104
 pb	428	0432	4514105
 pb	429	0433	4514106
 entry	Pathologie		
-ref	Oeuf et Dystocie		
+ref	Oeuf		
+ref	Dystocie		
 entry	Médecine légale		
 ref	Infanticide		
 entry	Cordonniers (Hygiène industrielle)		
@@ -616,8 +605,6 @@ pb	447	0451	4514124
 entry	Coreopsis Bidens		
 entry	Corète		
 entry	Coriaire, Coriaria		
-orth	Coriaire		
-orth	Coriaria		
 ref	Redoul		
 entry	Coriamyrtine		
 entry	Coriandre		
@@ -630,7 +617,8 @@ entry	Coriarine
 entry	Coris		
 pb	451	0455	4514128
 entry	Corme		
-ref	Cormé et Sorbier		
+ref	Cormé		
+ref	Sorbier		
 entry	Cormé		
 entry	Cormier		
 entry	Cornac		
@@ -811,7 +799,8 @@ pb	594	0598	4514271
 pb	595	0599	4514272
 pb	596	0600	4514273
 entry	Cornet sphénoïdal		
-ref	Crâne et Sphénoïde		
+ref	Crâne		
+ref	Sphénoïde		
 entry	Cornets nasaux		
 entry	Cornichon		
 pb	597	0601	4514274
@@ -835,7 +824,8 @@ entry	Corona terrestris
 ref	Glechoma		
 entry	Coronaire du coeur (Artère et Veine)		
 entry	Coronaire labiale		
-ref	Maxillaire externe et Lèvres		
+ref	Maxillaire externe		
+ref	Lèvres		
 entry	Coronaire (Plexus)		
 ref	Sympathique		
 entry	Coronaire stomachique		
@@ -857,8 +847,6 @@ ref	Humérus
 entry	Coronopus		
 ref	Corne de cerf		
 entry	Corossolies, Corossols		
-orth	Corossolies		
-orth	Corossols		
 ref	Anone		
 entry	Corporations		
 pb	601	0605	4514278
@@ -962,7 +950,8 @@ ref	Testicules
 entry	Corps innominé (Giraldès)		
 ref	Corps de Wolff		
 entry	Corps jaune		
-ref	Fécondation et Menstruation		
+ref	Fécondation		
+ref	Menstruation		
 entry	Corps myrtiforme		
 ref	Vagin		
 entry	Corps opto-strié (Corps strié, Couche optique)		
@@ -1003,8 +992,6 @@ pb	717	0721	4514394
 entry	Développement		
 ref	Encéphale		
 entry	Physiologie et pathologie		
-orth	Physiologie		
-orth	pathologie		
 ref	Cerveau		
 ref	Encéphale		
 ref	Nerveux (tissu)		
@@ -1012,7 +999,8 @@ entry	Corps oviformes
 entry	Corps pituitaire		
 ref	Cerveau		
 entry	Corps restiforme		
-ref	Cervelet et Moelle		
+ref	Cervelet		
+ref	Moelle		
 entry	Corps spongieux de l'urèthre		
 ref	Urèthre		
 entry	Corps strié		
@@ -1042,8 +1030,6 @@ ref	Amyloïdes
 entry	Corpuscules de Malpighi		
 ref	Reins		
 entry	Corpuscules de Meissner ou du Tact		
-orth	Corpuscules de Meissner		
-orth	du Tact		
 entry	Corpuscules de Pacini		
 entry	Corral y Oña (Tomas)		
 pb	735	0739	4514412
@@ -1131,7 +1117,8 @@ entry	Corybantisme
 entry	Corydaline		
 pb	786	0790	4514463
 entry	Corylus		
-ref	Coudrier et Noisetier		
+ref	Coudrier		
+ref	Noisetier		
 entry	Corymbifères		
 entry	Corypha		
 pb	787	0791	4514464

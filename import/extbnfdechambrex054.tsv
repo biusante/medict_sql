@@ -4,8 +4,6 @@ pb	[s. pag.]	0003	4540307
 pb	[s. pag.]	0004	4540308
 pb	1	0005	4540309
 entry	Laryx ou Larix		
-orth	Laryx		
-orth	Larix		
 ref	Mélèze		
 entry	Saulce (Eau minérale de)		
 pb	2	0006	4540310
@@ -32,8 +30,6 @@ entry	Terrasse (Eau minérale de)
 pb	11	0015	4540319
 entry	Teste (Station marine)		
 entry	Latex, Laticifères		
-orth	Latex		
-orth	Laticifères		
 pb	12	0016	4540320
 entry	Lathraea		
 ref	Clandestine		
@@ -68,8 +64,6 @@ pb	25	0029	4540333
 entry	Laurano		
 ref	Laurier		
 entry	Laurel, Laurélie		
-orth	Laurel		
-orth	Laurélie		
 pb	26	0030	4540334
 entry	Laurent (J.-L.-Maurice)		
 entry	Laurent- (Saint-) Les-Bains (Eaux minérales de)		
@@ -98,8 +92,6 @@ pb	43	0047	4540351
 pb	44	0048	4540352
 entry	Laurine		
 entry	Laurinées ou Lauracées		
-orth	Laurinées		
-orth	Lauracées		
 entry	Laurus		
 ref	Laurier		
 pb	45	0049	4540353
@@ -246,8 +238,6 @@ entry	Crol (Eau minérale de)
 pb	130	0134	4540438
 entry	Crotoy (Station marine)		
 entry	Lecythis ou Quatelé		
-orth	Lecythis		
-orth	Quatelé		
 pb	131	0135	4540439
 entry	Ledermueller (Martin-Frobenius)		
 entry	Ledesma (Eaux minérales de)		
@@ -261,8 +251,6 @@ pb	136	0140	4540444
 entry	Leea		
 pb	137	0141	4540445
 entry	Lefebure (Guillaume-René) de Saint-Ildefont ou Ildephont		
-orth	Lefebure (Guillaume-René) de Saint-Ildefont		
-orth	Ildephont		
 pb	138	0142	4540446
 entry	Lefebvre de Villebrune (Jean-Baptiste)		
 entry	Legallois (le père et le fils)		
@@ -291,10 +279,9 @@ ref	Liomiome
 entry	Léiotrique		
 ref	Liotrique		
 entry	Léipopsychie		
-ref	Adynamie et Asthénie		
+ref	Adynamie		
+ref	Asthénie		
 entry	Lemaitre ou Magistri (Les)		
-orth	Lemaitre		
-orth	Magistri (Les)		
 entry	Lembert (Antoine)		
 pb	147	0151	4540455
 entry	Lémery (Les deux)		
@@ -390,8 +377,6 @@ pb	182	0186	4540490
 entry	Plan (Eau minérale de)		
 pb	183	0187	4540491
 entry	Pois ou Piso (Les)		
-orth	Pois		
-orth	Piso (Les)		
 entry	Poulinguen (Station marine)		
 pb	184	0188	4540492
 entry	Lèpre		
@@ -413,8 +398,6 @@ pb	193	0197	4540501
 pb	194	0198	4540502
 pb	195	0199	4540503
 entry	Leptopus, Leptus		
-orth	Leptopus		
-orth	Leptus		
 ref	Leptus		
 entry	Leptosperme		
 entry	Leptothrix		
@@ -541,8 +524,6 @@ pb	282	0292	4540596
 pb	283	0293	4540597
 pb	284	0294	4540598
 entry	Leucocythémie ou Leucémie		
-orth	Leucocythémie		
-orth	Leucémie		
 pb	285	0295	4540599
 pb	286	0296	4540600
 pb	287	0297	4540601
@@ -679,8 +660,6 @@ pb	404	0414	4540718
 pb	405	0415	4540719
 entry	Leuthner (Joh.-Nep.-Ant. von)		
 entry	Leuwenhoek, ou Leeuwenhoek (Antoine)		
-orth	Leuwenhoek		
-orth	Leeuwenhoek (Antoine)		
 pb	406	0416	4540720
 entry	Levacher (Gilles)		
 entry	Levacher (François-Guillaume)		
@@ -811,7 +790,8 @@ pb	503	0513	4540817
 entry	Liberia		
 ref	Guinée		
 entry	Liberté morale		
-ref	Responsabilité morale et interdiction		
+ref	Responsabilité morale		
+ref	interdiction		
 entry	Licari		
 ref	Dicypellium		
 pb	504	0514	4540818
@@ -857,8 +837,6 @@ entry	Lichen d'Islande. Thérapeutique
 pb	536	0546	4540850
 pb	537	0547	4540851
 entry	Lichen pulmonaire, Lichen des chiens		
-orth	Lichen pulmonaire		
-orth	Lichen des chiens		
 entry	Lichénine		
 entry	Lichénique (Acide)		
 ref	Lichens		
@@ -963,8 +941,6 @@ pb	580	0590	4540894
 entry	Lille (Chrétien-Éverard de)		
 pb	581	0591	4540895
 entry	Limace, Limaciens		
-orth	Limace		
-orth	Limaciens		
 entry	Limacien (Nerf)		
 pb	582	0592	4540896
 entry	Limacine		
@@ -1093,7 +1069,8 @@ pb	646	0656	4540960
 pb	647	0657	4540961
 pb	648	0658	4540962
 entry	Lipopsychie		
-ref	Adynamie et Asthénie		
+ref	Adynamie		
+ref	Asthénie		
 entry	Lipothymie		
 ref	Syncope		
 entry	Lippia (L.)		
@@ -1121,8 +1098,6 @@ entry	Lis. Botanique
 pb	56	0666	4540970
 entry	Emploi médical		
 entry	Lisbonne ou Lisboa (Eaux minérales de)		
-orth	Lisbonne		
-orth	Lisboa (Eaux minérales de)		
 pb	657	0667	4540971
 pb	658	0668	4540972
 pb	659	0669	4540973
@@ -1251,7 +1226,8 @@ pb	736	0746	4541050
 pb	737	0747	4541051
 entry	Lithuanie		
 entry	Litmus		
-ref	Orseille et Tournesol		
+ref	Orseille		
+ref	Tournesol		
 entry	Litsea (J.)		
 pb	738	0748	4541052
 entry	Litsea		
@@ -1267,7 +1243,8 @@ entry	Lledone
 ref	Micocoulier		
 entry	Llo (Eaux minérales de)		
 entry	Lobaires (Artères)		
-ref	Carotide interne et vértébrale (Artères)		
+ref	Carotide interne		
+ref	vértébrale (Artères)		
 entry	Lobb (Théophile)		
 pb	741	0751	4541055
 entry	Lobel (Matthieu de)		

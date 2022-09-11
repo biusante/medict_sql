@@ -24,7 +24,8 @@ pb	14	0018	4503254
 pb	15	0019	4503255
 pb	16	0020	4503256
 entry	Astrantie		
-ref	Epipactis et Hellébore noir		
+ref	Epipactis		
+ref	Hellébore noir		
 entry	Astringents (Médicaments)		
 pb	17	0021	4503257
 pb	18	0022	4503258
@@ -305,11 +306,7 @@ entry	Attaleth
 entry	Attaque		
 entry	Attaruscha		
 entry	Atte, Attier		
-orth	Atte		
-orth	Attier		
 entry	Attelle ou Éclisse		
-orth	Attelle		
-orth	Éclisse		
 pb	219	0223	4503459
 pb	220	0224	4503460
 entry	Attitudes		
@@ -328,8 +325,6 @@ pb	231	0235	4503471
 pb	232	0236	4503472
 pb	233	0237	4503473
 entry	Attitudes. Hygiène professionnelle et médecine légale		
-orth	Attitudes. Hygiène professionnelle		
-orth	médecine légale		
 pb	234	0238	4503474
 entry	Attraction		
 entry	Attrappe-mouche		
@@ -342,8 +337,6 @@ entry	Aubépine
 entry	Aubergine		
 entry	Botanique		
 entry	Aubergine. Bromatologie et thérapeutique		
-orth	Aubergine. Bromatologie		
-orth	thérapeutique		
 pb	236	0240	4503476
 entry	Aubert (Les)		
 pb	237	0241	4503477
@@ -400,8 +393,6 @@ pb	253	0257	4503493
 entry	Aumale (Eaux minérales d')		
 pb	254	0258	4503494
 entry	Aune ou Aulne		
-orth	Aune		
-orth	Aulne		
 entry	Aunée		
 pb	255	0259	4503495
 pb	256	0260	4503496
@@ -412,8 +403,6 @@ pb	257	0261	4503497
 entry	Aurantia		
 entry	Aurantiacées		
 entry	Auriculaire, Auricula Judae		
-orth	Auriculaire		
-orth	Auricula Judae		
 entry	Aurensan (Eaux minérales et boues d')		
 pb	258	0262	4503498
 entry	Auriculaires		
@@ -612,8 +601,6 @@ pb	430	0434	4503670
 pb	431	0435	4503671
 pb	432	0436	4503672
 entry	Autosites et Autositaires (Monstres)		
-orth	Autosites		
-orth	Autositaires (Monstres)		
 pb	433	0437	4503673
 entry	Autriche		
 pb	434	0438	4503674
@@ -653,10 +640,9 @@ entry	Auzebi (Pierre)
 entry	Auzon (Eaux minérales d')		
 pb	465	0469	4503705
 entry	Ava ou Awa		
-orth	Ava		
-orth	Awa		
 ref	Kawa		
-ref	Kawa-Kava et Poivre		
+ref	Kawa-Kava		
+ref	Poivre		
 entry	Availles ou Absac (Eaux minérales et boues d')		
 pb	466	0470	4503706
 entry	Avanaçu		
@@ -727,8 +713,6 @@ pb	515	0519	4503755
 pb	516	0520	4503756
 pb	517	0521	4503757
 entry	Avicenne, Avicène		
-orth	Avicenne		
-orth	Avicène		
 pb	518	0522	4503758
 pb	519	0523	4503759
 entry	Avila		
@@ -926,8 +910,6 @@ entry	Aylanthe
 ref	Ailanthe		
 entry	Ayurvéda		
 entry	Azaderach, Azederach		
-orth	Azaderach		
-orth	Azederach		
 ref	Mélie		
 entry	Azahar		
 pb	682	0686	4503922
@@ -951,15 +933,9 @@ pb	690	0694	4503930
 pb	691	0695	4503931
 pb	692	0696	4503932
 entry	Azoteux et Hypoazotique (Acides)		
-orth	Azoteux		
-orth	Hypoazotique (Acides)		
 entry	Azoteux et Hypoazotique (Acides). Chimie		
-orth	Azoteux		
-orth	Hypoazotique (Acides). Chimie		
 pb	693	0697	4503933
 entry	Azoteux et Hypoazotique (Acides). Hygiène publique		
-orth	Azoteux		
-orth	Hypoazotique (Acides). Hygiène publique		
 pb	694	0698	4503934
 pb	695	0699	4503935
 pb	696	0700	4503936

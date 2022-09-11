@@ -99,7 +99,7 @@ pb	36	0050	7325085
 pb	37	0051	7325086
 pb	38	0052	7325087
 pb	39	0053	7325088
-entry	T - Tac du bœuf		
+entry	Tac du bœuf		
 entry	Tac des brebis		
 entry	Tache		
 entry	Tachet		
@@ -455,7 +455,7 @@ pb	284	0298	7325333
 pb	285	0299	7325334
 pb	286	0300	7325335
 pb	287	0301	7325336
-entry	U - Ulcération		
+entry	Ulcération		
 entry	Ulcère		
 pb	288	0302	7325337
 pb	289	0303	7325338
@@ -489,9 +489,8 @@ entry	Utéromanie
 entry	Utérus (maladies de l')		
 pb	300	0314	7325349
 pb	301	0315	7325350
-entry	V - Vaccin		
-pb	302	0316	7325351
 entry	Vaccin		
+pb	302	0316	7325351
 pb	303	0317	7325352
 entry	Vaccination		
 pb	304	0318	7325353
@@ -811,10 +810,9 @@ pb	533	0547	7325582
 pb	534	0548	7325583
 pb	535	0549	7325584
 entry	Vor (la)		
-entry	X - Xérophthalmie		
-entry	Y - Yeux (maladies des)		
-pb	536	0550	7325585
+entry	Xérophthalmie		
 entry	Yeux (maladies des)		
+pb	536	0550	7325585
 pb	537	0551	7325586
 pb	538	0552	7325587
 pb	539	0553	7325588
@@ -826,7 +824,7 @@ pb	544	0558	7325593
 pb	545	0559	7325594
 pb	546	0560	7325595
 entry	Yeux verrons		
-entry	Z - Zooiatre		
+entry	Zooiatre		
 entry	Zooiatrie		
 entry	Zoologie		
 entry	Zoologiste		

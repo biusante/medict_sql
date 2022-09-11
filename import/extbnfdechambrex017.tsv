@@ -6,8 +6,6 @@ pb	1	0005	4511280
 entry	Cholérine		
 ref	Choléra		
 entry	Choles ou Chols		
-orth	Choles		
-orth	Chols		
 ref	Centre-Amérique		
 entry	Cholestérates		
 entry	Cholestérine		
@@ -48,8 +46,6 @@ entry	Chopart (François)
 entry	Choranche (Eau minérale de)		
 pb	9	0013	4511288
 entry	Chorée et Choromanie		
-orth	Chorée		
-orth	Choromanie		
 ref	Danse de Saint-Guy		
 entry	Chorion		
 ref	Muqueuses		
@@ -151,8 +147,6 @@ entry	Chou. Botanique
 pb	92	0096	4511371
 pb	93	0097	4511372
 entry	Chou. Bromatologie et emploi médical		
-orth	Chou. Bromatologie		
-orth	emploi médical		
 pb	94	0098	4511373
 pb	95	0099	4511374
 entry	Chou caraïbe		
@@ -167,8 +161,6 @@ ref	Chou
 entry	Choullahs (Les)		
 ref	Berbers		
 entry	Chrestien ou Chrétien (Les)		
-orth	Chrestien		
-orth	Chrétien (Les)		
 pb	96	0100	4511375
 pb	97	0101	4511376
 pb	98	0102	4511377
@@ -306,12 +298,12 @@ entry	Chuquiraga
 pb	182	0186	4511461
 entry	Churrus		
 ref	Cannabène		
-ref	Cannabine et Chanvre		
+ref	Cannabine		
+ref	Chanvre		
 entry	Chutwu ou Chytwun		
-orth	Chutwu		
-orth	Chytwun		
 entry	Chyle		
-ref	Digestion et Lymphatique (système)		
+ref	Digestion		
+ref	Lymphatique (système)		
 entry	Chylifères (Vaisseaux)		
 entry	Chylurie		
 ref	Urine)		
@@ -333,18 +325,12 @@ pb	194	0198	4511473
 pb	195	0199	4511474
 pb	196	0200	4511475
 entry	Chytridés ou Chytridinés		
-orth	Chytridés		
-orth	Chytridinés		
 entry	Ciboule		
 ref	Ail		
 entry	Ciboulette		
 ref	Ail		
 entry	Cicatrices, Cicatrisation		
-orth	Cicatrices		
-orth	Cicatrisation		
 entry	Cicatrices, Cicatrisation. Chirurgie		
-orth	Cicatrices		
-orth	Cicatrisation. Chirurgie		
 pb	197	0201	4511476
 pb	198	0202	4511477
 pb	199	0203	4511478
@@ -382,8 +368,6 @@ pb	225	0229	4511504
 entry	Cicer (T.)		
 pb	226	0230	4511505
 entry	Cicera, Cicerula		
-orth	Cicera		
-orth	Cicerula		
 entry	Cicerchie (Mal de)		
 entry	Cichorium		
 ref	Chicorée		
@@ -847,8 +831,6 @@ entry	Cirsophthalmie
 entry	Cisaille		
 ref	Ciseaux		
 entry	Ciseau et Ciseaux		
-orth	Ciseau		
-orth	Ciseaux		
 pb	568	0572	4511847
 pb	569	0573	4511848
 pb	570	0574	4511849
@@ -902,26 +884,16 @@ pb	588	0592	4511867
 entry	Emploi médical		
 ref	Citron		
 entry	Citron, Citronnier		
-orth	Citron		
-orth	Citronnier		
 entry	Citron, Citronnier. Botanique		
-orth	Citron		
-orth	Citronnier. Botanique		
 pb	589	0593	4511868
 entry	Citron, Citronnier. Pharmacologie		
-orth	Citron		
-orth	Citronnier. Pharmacologie		
 pb	590	0594	4511869
 pb	591	0595	4511870
 pb	592	0596	4511871
 pb	593	0597	4511872
 pb	594	0598	4511873
 entry	Citron, Citronnier		
-orth	Citron		
-orth	Citronnier		
 entry	Citron, Citronnier. Emploi médical		
-orth	Citron		
-orth	Citronnier. Emploi médical		
 pb	595	0599	4511874
 pb	596	0600	4511875
 pb	597	0601	4511876
@@ -1034,12 +1006,8 @@ entry	Clauder (Les)
 pb	659	0663	4511938
 entry	Claudini (Jules-César)		
 entry	Clauvisses ou Clovisses		
-orth	Clauvisses		
-orth	Clovisses		
 pb	660	0664	4511939
 entry	Clavalier, Clavelier		
-orth	Clavalier		
-orth	Clavelier		
 pb	661	0665	4511940
 pb	662	0666	4511941
 entry	Clavariés		

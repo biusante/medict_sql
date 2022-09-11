@@ -15,7 +15,8 @@ pb	7	0011	4527295
 pb	8	0012	4527296
 pb	9	0013	4527297
 entry	Feu de dents		
-ref	Dentition et Strophulus		
+ref	Dentition		
+ref	Strophulus		
 entry	Feuchtersleben (Ernst von)		
 pb	10	0014	4527298
 entry	Feuerlein (Georges-Christophe)		
@@ -36,7 +37,8 @@ pb	15	0019	4527303
 entry	Fève des marais		
 entry	Emploi médical		
 entry	Fève de Calabar		
-ref	Calabar et Physostigma		
+ref	Calabar		
+ref	Physostigma		
 entry	Fève de Saint-Ignace		
 pb	16	0020	4527304
 pb	17	0021	4527305
@@ -46,8 +48,6 @@ entry	Féverole
 entry	Fêvier		
 pb	18	0022	4527306
 entry	Fevillea L., ou Feuillea Pers.		
-orth	Fevillea L		
-orth	Feuillea Pers		
 pb	19	0023	4527307
 pb	20	0024	4527308
 entry	Fèvre (Jean-François)		
@@ -173,12 +173,8 @@ entry	Fielding (George-Hunsley)
 pb	96	0100	4527384
 entry	Fielding (Georges-Hunsley)		
 entry	Fieliz ou Fielitz (Les)		
-orth	Fieliz		
-orth	Fielitz (Les)		
 pb	97	0101	4527385
 entry	Fienus ou Fiens (Les deux)		
-orth	Fienus		
-orth	Fiens (Les deux)		
 pb	98	0102	4527386
 entry	Fiera (Jean-Baptiste)		
 entry	Fièvre		
@@ -403,11 +399,7 @@ ref	Prostitution
 entry	Fils de la vierge		
 ref	Fibroïne		
 entry	Filtration, Filtre		
-orth	Filtration		
-orth	Filtre		
 entry	Filtration, Filtre. Pharmacie		
-orth	Filtration		
-orth	Filtre. Pharmacie		
 pb	285	0289	4527573
 pb	286	0290	4527574
 entry	Hygiène publique		
@@ -478,8 +470,6 @@ entry	Fissure (Anomalies par)
 entry	Fissure (Anomalies par). Tératologie		
 pb	325	0329	4527613
 entry	Anatomie et pathologie		
-orth	Anatomie		
-orth	pathologie		
 entry	Fistulaire		
 entry	Fistules		
 pb	326	0330	4527614
@@ -519,10 +509,6 @@ pb	347	0351	4527635
 pb	348	0352	4527636
 pb	349	0353	4527637
 entry	Fitz-Gerald, Fitzgerard, Fitzgerald, Fizerald (Gérard)		
-orth	Fitz-Gerald		
-orth	Fitzgerard		
-orth	Fitzgerald		
-orth	Fizerald (Gérard)		
 pb	350	0354	4527638
 entry	Fitzler (Carl-Christoph)		
 entry	Fitzmann (Jean)		
@@ -568,8 +554,6 @@ entry	Flarer (Francesco)
 pb	374	0378	4527662
 entry	Flasshoff (Friedrich-Wilhelm)		
 entry	Flatulence, Flatuosités		
-orth	Flatulence		
-orth	Flatuosités		
 entry	Flaubert (Achille-Cléophas)		
 pb	375	0379	4527663
 entry	Flaugergues (Les)		
@@ -582,8 +566,6 @@ pb	377	0381	4527665
 entry	Flèche		
 ref	Sagittelle		
 entry	Flèche d'eau et Fléchière		
-orth	Flèche d'eau		
-orth	Fléchière		
 ref	Sagittaire		
 entry	Flèches caustiques		
 pb	378	0382	4527666
@@ -749,8 +731,6 @@ pb	472	0476	4527760
 entry	Foes (Anuce)		
 entry	Foetus		
 entry	Foetus. Anatomie et physiologie		
-orth	Foetus. Anatomie		
-orth	physiologie		
 pb	473	0477	4527761
 pb	474	0478	4527762
 pb	475	0479	4527763
@@ -838,8 +818,6 @@ pb	555	0559	4527843
 pb	556	0560	4527844
 pb	557	0561	4527845
 entry	Fogel (Martin) et non Vogel		
-orth	Fogel (Martin)		
-orth	non Vogel		
 entry	Foglia (Jean-Antoine)		
 entry	Fohmann (Vincent)		
 pb	558	0562	4527846

@@ -3,7 +3,6 @@ pb	[s. pag.]	0002	610200
 pb	[s. pag.]	0003	610201
 pb	[s. pag.]	0004	610202
 pb	[s. pag.]	0005	610203
-entry	L		
 entry	Lacuna ou Laguna (André)		
 pb	2	0006	610204
 pb	3	0007	610205
@@ -330,7 +329,6 @@ entry	Lyrius
 entry	Lyser, (Michel)		
 pb	122	0126	610324
 pb	123	0127	610325
-entry	M		
 entry	Macasius, (Jean-George)		
 entry	Macer		
 ref	Aemilius Macer		
@@ -903,7 +901,6 @@ entry	Mynsicht, (Adrien)
 pb	367	0371	610569
 entry	Myrepsus, (Nicolas)		
 pb	368	0372	610570
-entry	N		
 entry	Naeldwick, (Pierre Van)		
 entry	Naerssen ou Narssius (Jean)		
 pb	369	0373	610571
@@ -1019,7 +1016,6 @@ entry	Nunnez, (Pierre)
 pb	409	0413	610611
 entry	Nymann, (Grégoire)		
 pb	410	0414	610612
-entry	O		
 entry	Obel. (Matthias De L')		
 ref	Lobel		
 entry	Obert, (Antoine)		
@@ -1035,7 +1031,7 @@ entry	Odet, (Philippe)
 entry	Odonus, (César)		
 pb	414	0418	610616
 entry	Odoric, (Jean)		
-entry	O Dwyer (Jean)		
+entry	Dwyer (Jean)		
 entry	Oelhaf, (Joachim)		
 pb	415	0419	610617
 entry	Olargues ou De Olargis, (Jean D')		
@@ -1093,7 +1089,6 @@ entry	Oviédo, (Jean-Gonsalve D')
 pb	443	0447	610645
 entry	Owen, (George)		
 pb	444	0448	610646
-entry	P		
 entry	Paaw, (Pierre)		
 pb	445	0449	610647
 entry	Pacchioni, (Antoine)		
@@ -1607,7 +1602,8 @@ pb	642	0646	610844
 entry	Purmann		
 ref	Pourman		
 entry	Puteanus. (Guillaume)		
-ref	Dupuy ou Dupuis		
+ref	Dupuy		
+ref	Dupuis		
 entry	Puteus, (François)		
 entry	Puzos, (Nicolas)		
 pb	643	0647	610845

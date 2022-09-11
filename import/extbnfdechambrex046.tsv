@@ -4,14 +4,10 @@ pb	[s. pag.]	0003	4533623
 pb	[s. pag.]	0004	4533624
 pb	1	0005	4533625
 entry	Gourme, Gourmes		
-orth	Gourme		
-orth	Gourmes		
 pb	2	0006	4533626
 pb	3	0007	4533627
 pb	4	0008	4533628
 entry	Gournay ou Gournay-en-bray (Eaux minérales de)		
-orth	Gournay		
-orth	Gournay-en-bray (Eaux minérales de)		
 pb	5	0009	4533629
 entry	Gouroff		
 entry	Gourraigne (Hugues)		
@@ -21,8 +17,6 @@ entry	Gout
 ref	Gustation		
 entry	Goutte		
 entry	Goutte. Historique et définition		
-orth	Goutte. Historique		
-orth	définition		
 pb	7	0011	4533631
 pb	8	0012	4533632
 pb	9	0013	4533633
@@ -64,8 +58,6 @@ pb	43	0047	4533667
 pb	44	0048	4533668
 pb	45	0049	4533669
 entry	Goutte. Hématologie et urologie de la goutte		
-orth	Goutte. Hématologie		
-orth	urologie de la goutte		
 pb	46	0050	4533670
 pb	47	0051	4533671
 pb	48	0052	4533672
@@ -223,8 +215,6 @@ entry	Goutte. Pronostic
 pb	195	0199	4533819
 pb	196	0200	4533820
 entry	Goutte. Nature et pathogénie		
-orth	Goutte. Nature		
-orth	pathogénie		
 pb	197	0201	4533821
 pb	198	0202	4533822
 pb	199	0203	4533823
@@ -318,16 +308,12 @@ pb	267	0271	4533891
 pb	268	0272	4533892
 entry	Grabe (Martin-Sylvester)		
 entry	Grabner ou Graebner (David von)		
-orth	Grabner		
-orth	Graebner (David von)		
 entry	Gradi (Giovanni-Matteo de)		
 pb	269	0273	4533893
 entry	Graehs (Carl-Gustaf)		
 entry	Graeve (Peter-Henric-Frederic)		
 pb	270	0274	4533894
 entry	Graf et Graff (Les)		
-orth	Graf		
-orth	Graff (Les)		
 pb	271	0275	4533895
 entry	Gräfe (Les)		
 pb	272	0276	4533896
@@ -405,8 +391,6 @@ entry	Grande pervenche
 entry	Grande pimprenelle		
 entry	Grande valériane		
 entry	Grandeyrol et Montaigut (Eaux minérales de)		
-orth	Grandeyrol		
-orth	Montaigut (Eaux minérales de)		
 pb	292	0296	4533916
 entry	Grandi (Jacques)		
 pb	293	0297	4533917
@@ -422,13 +406,12 @@ pb	296	0300	4533920
 pb	297	0301	4533921
 pb	298	0302	4533922
 entry	Granulation, Granules (Pharmacie)		
-orth	Granulation		
-orth	Granules (Pharmacie)		
 entry	Granulations (Moléculaires)		
 entry	Granulations (Pathologie)		
 pb	299	0303	4533923
 entry	Granules		
-ref	Granulation et Dragée		
+ref	Granulation		
+ref	Dragée		
 entry	Granuleuse (Membrane)		
 ref	Ovaire		
 entry	Granulie		
@@ -474,8 +457,6 @@ pb	326	0330	4533950
 pb	327	0331	4533951
 pb	328	0332	4533952
 entry	Graset ou Grasset (Vicente)		
-orth	Graset		
-orth	Grasset (Vicente)		
 entry	Gras-fondure		
 entry	Grashuis (Jean)		
 entry	Grasmeyer (Paul-Fr.-Hermann)		
@@ -556,8 +537,6 @@ pb	363	0367	4533987
 entry	Grèce		
 pb	364	0368	4533988
 entry	Grèce. Orographie, hydrographie		
-orth	Grèce. Orographie		
-orth	hydrographie		
 pb	365	0369	4533989
 pb	366	0370	4533990
 pb	367	0371	4533991
@@ -825,8 +804,6 @@ entry	Greiner (Georg-Friedrich-Christian)
 pb	608	0612	4534232
 entry	Greisel (Johann-Georg)		
 entry	Grêle, Grésil		
-orth	Grêle		
-orth	Grésil		
 pb	609	0613	4534233
 pb	610	0614	4534234
 pb	611	0615	4534235
@@ -837,17 +814,10 @@ entry	Grenade (Nouvelle-)
 entry	Grenade (Botanique)		
 ref	Grenadier		
 entry	Grenadier, Grenade		
-orth	Grenadier		
-orth	Grenade		
 entry	Grenadier, Grenade. Botanique		
-orth	Grenadier		
-orth	Grenade. Botanique		
 pb	613	0617	4534237
 pb	614	0618	4534238
 entry	Grenadier, Grenade. Matière Médicale et Thérapeutique		
-orth	Grenadier		
-orth	Grenade. Matière Médicale		
-orth	Thérapeutique		
 pb	615	0619	4534239
 pb	616	0620	4534240
 pb	617	0621	4534241
@@ -856,8 +826,6 @@ pb	619	0623	4534243
 entry	Grenadille		
 entry	Grenadine		
 entry	Grenatées, Granatum		
-orth	Grenatées		
-orth	Granatum		
 ref	Grenadier		
 entry	Grenétine		
 ref	Gélatine		

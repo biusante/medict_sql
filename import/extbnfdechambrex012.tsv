@@ -12,8 +12,6 @@ pb	4	0008	4507138
 pb	5	0009	4507139
 pb	6	0010	4507140
 entry	Camp, Campement		
-orth	Camp		
-orth	Campement		
 pb	7	0011	4507141
 pb	8	0012	4507142
 pb	9	0013	4507143
@@ -89,8 +87,6 @@ entry	Campana
 entry	Campanella (Thomas)		
 pb	77	0081	4507211
 entry	Campanule, Campanulacées		
-orth	Campanule		
-orth	Campanulacées		
 pb	78	0082	4507212
 pb	79	0083	4507213
 entry	Campardon		
@@ -125,8 +121,6 @@ pb	86	0090	4507220
 entry	Campholone		
 entry	Camphora		
 entry	Camphora ou Camphorina		
-orth	Camphora		
-orth	Camphorina		
 entry	Camphorates		
 pb	87	0091	4507221
 entry	Camphorine		
@@ -205,8 +199,6 @@ ref	Testicules
 entry	Canal digéstif		
 ref	Digestif (appareil)		
 entry	Canal godronné ou de petit		
-orth	Canal godronné		
-orth	de petit		
 entry	Canal de Ferrein		
 entry	Canal médullaire des os		
 ref	Osseux (système)		
@@ -220,8 +212,6 @@ entry	Canal de Wirsung
 ref	Pancréas		
 entry	Canang		
 entry	Canape ou Canappe (Jean)		
-orth	Canape		
-orth	Canappe (Jean)		
 pb	124	0128	4507258
 entry	Canard		
 pb	125	0129	4507259
@@ -258,9 +248,6 @@ entry	Canaveilles (Eau minérale de)
 entry	Cancale (Station marine)		
 pb	148	0152	4507282
 entry	Cancame, Cancamon, Cancamum		
-orth	Cancame		
-orth	Cancamon		
-orth	Cancamum		
 entry	Cancer		
 pb	149	0153	4507283
 pb	150	0154	4507284
@@ -269,8 +256,6 @@ pb	152	0156	4507286
 pb	153	0157	4507287
 pb	154	0158	4507288
 entry	Canchalagua ou Cachen-Lahuen		
-orth	Canchalagua		
-orth	Cachen-Lahuen		
 pb	155	0159	4507289
 entry	Candé (Eaux minérales de)		
 entry	Candi		
@@ -282,8 +267,6 @@ pb	156	0160	4507290
 pb	157	0161	4507291
 entry	Canella de Cheiro		
 entry	Canellacées, Canellées		
-orth	Canellacées		
-orth	Canellées		
 entry	Canelo		
 entry	Canepin		
 entry	Canevari (Demetrio)		
@@ -302,8 +285,6 @@ entry	Cannabine
 entry	Cannabis		
 ref	Chanvre		
 entry	Cannacées Agardh ou Cannées Rob. Brown		
-orth	Cannacées Agardh		
-orth	Cannées Rob. Brown		
 pb	163	0167	4507297
 entry	Cannani (Jean-Baptiste)		
 entry	Canne		
@@ -416,13 +397,9 @@ entry	Canthus
 ref	Paupières		
 entry	Cantong		
 entry	Cantwel ou Cantwell (André)		
-orth	Cantwel		
-orth	Cantwell (André)		
 entry	Canule		
 pb	242	0246	4507376
 entry	Caoutchène, Caoutchine		
-orth	Caoutchène		
-orth	Caoutchine		
 entry	Caoutchou		
 ref	Figuier		
 ref	Hevea		
@@ -483,8 +460,6 @@ pb	278	0282	4507412
 pb	279	0283	4507413
 pb	280	0284	4507414
 entry	Capivaccio ou Capo di Vacca (Jérome)		
-orth	Capivaccio		
-orth	Capo di Vacca (Jérome)		
 pb	281	0285	4507415
 entry	Capnomore		
 entry	Capo di Vacca		
@@ -494,8 +469,6 @@ pb	282	0286	4507416
 entry	Capolin		
 ref	Prunier		
 entry	Capoure-Couroundou ou Coronde		
-orth	Capoure-Couroundou		
-orth	Coronde		
 ref	Cannellier		
 entry	Cappa-Corania		
 entry	Capparidées		
@@ -544,13 +517,15 @@ ref	Piment
 entry	Capsulaires (Vaisseaux)		
 ref	Reins		
 entry	Capsule de Glisson		
-ref	Foie et Porte (Veine)		
+ref	Foie		
+ref	Porte (Veine)		
 entry	Capsule du cristallin		
 ref	Cristallin		
 entry	Capsule pharmaceutiques		
 pb	292	0296	4507426
 entry	Capsulite		
-ref	Cataracte et Cristallin		
+ref	Cataracte		
+ref	Cristallin		
 entry	Capucine		
 pb	293	0297	4507427
 pb	294	0298	4507428
@@ -568,8 +543,6 @@ entry	Carabe
 pb	298	0302	4507432
 pb	299	0303	4507433
 entry	Carabé ou Karabé		
-orth	Carabé		
-orth	Karabé		
 entry	Caragne (Résine)		
 pb	300	0304	4507434
 entry	Caraïbes		
@@ -581,15 +554,11 @@ entry	Carambolier
 pb	304	0308	4507438
 entry	Caramel		
 entry	Carangue ou Caranx		
-orth	Carangue		
-orth	Caranx		
 pb	305	0309	4507439
 entry	Carapa (Aubl.)		
 pb	306	0310	4507440
 pb	307	0311	4507441
 entry	Caratas, Karatas		
-orth	Caratas		
-orth	Karatas		
 pb	308	0312	4507442
 entry	Carate		
 ref	Peau		
@@ -620,8 +589,6 @@ pb	318	0322	4507452
 pb	319	0323	4507453
 pb	320	0324	4507454
 entry	Carbone. Action physiologique et toxicologie		
-orth	Carbone. Action physiologique		
-orth	toxicologie		
 pb	321	0325	4507455
 pb	322	0326	4507456
 entry	Carbone. Emploi thérapeutique		
@@ -653,8 +620,6 @@ entry	Carbonisation
 entry	Carbopyrrolique (Acide)		
 entry	Carbothialdine		
 entry	Carbovinates ou Éthyl-carbonates		
-orth	Carbovinates		
-orth	Éthyl-carbonates		
 pb	344	0348	4507478
 entry	Carbovinique acide		
 entry	Carbure d'hydrogène		
@@ -741,8 +706,6 @@ pb	413	0417	4507547
 pb	414	0418	4507548
 pb	415	0419	4507549
 entry	Cardage, Cardeurs		
-orth	Cardage		
-orth	Cardeurs		
 pb	416	0420	4507550
 pb	417	0421	4507551
 entry	Cardamine (T.)		
@@ -763,15 +726,15 @@ entry	Cardia
 entry	Cardialgie		
 pb	424	0428	4507558
 entry	Cardiaques (Nerfs)		
-ref	Pneumogastrique et Sympathique (Nerf)		
+ref	Pneumogastrique		
+ref	Sympathique (Nerf)		
 entry	Cardiaques (Vaisseaux)		
-ref	Coeur et Coronaires (Vaisseaux)		
+ref	Coeur		
+ref	Coronaires (Vaisseaux)		
 entry	Cardinal (Zoologie)		
 entry	Cardinales (Humeurs)		
 pb	425	0429	4507559
 entry	Cardiographes et Cardiographie		
-orth	Cardiographes		
-orth	Cardiographie		
 pb	426	0430	4507560
 pb	427	0431	4507561
 pb	428	0432	4507562
@@ -997,8 +960,6 @@ entry	Caron (Jean-Charles-Félix)
 pb	609	0613	4507743
 entry	Caroncule lacrymale		
 entry	Caroncule lacrymale. Anatomie et physiologie		
-orth	Caroncule lacrymale. Anatomie		
-orth	physiologie		
 pb	610	0614	4507744
 entry	Caroncule lacrymale. Pathologie		
 pb	611	0615	4507745
@@ -1095,8 +1056,6 @@ entry	Caroubier
 pb	682	0687	4507817
 pb	683	0688	4507818
 entry	Carpasus ou Carpasum		
-orth	Carpasus		
-orth	Carpasum		
 entry	Carpe		
 ref	Main		
 entry	Carpe		
@@ -1115,13 +1074,9 @@ pb	687	0692	4507822
 entry	Carpue (Joseph-Constantine)		
 pb	688	0693	4507823
 entry	Carrageen ou Carragaheen		
-orth	Carrageen		
-orth	Carragaheen		
 pb	689	0694	4507824
 pb	690	0695	4507825
 entry	Carratraca ou Ardales (Eau minérale de)		
-orth	Carratraca		
-orth	Ardales (Eau minérale de)		
 pb	691	0696	4507826
 pb	692	0697	4507827
 pb	693	0698	4507828
@@ -1205,8 +1160,6 @@ entry	Carus
 entry	Carus (Karl-Gustav)		
 pb	739	0744	4507874
 entry	Carvacrol ou Camphocréosote		
-orth	Carvacrol		
-orth	Camphocréosote		
 ref	Camphocréosote		
 pb	740	0745	4507875
 entry	Carvallo (José-Ignatio-Nuñez de Castro)		
@@ -1243,8 +1196,6 @@ pb	755	0760	4507890
 entry	Casca		
 pb	756	0761	4507891
 entry	Casca d'Anta ou da Anta		
-orth	Casca d'Anta		
-orth	da Anta		
 entry	Cascara		
 ref	Quinquina		
 entry	Cascales de Guadalajara (Francisco-Perez)		
@@ -1261,8 +1212,6 @@ entry	Caséine
 ref	Lait		
 pb	760	0765	4507895
 entry	Casernes et Casernement		
-orth	Casernes		
-orth	Casernement		
 pb	761	0766	4507896
 pb	762	0767	4507897
 pb	763	0768	4507898

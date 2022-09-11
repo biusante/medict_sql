@@ -10,16 +10,12 @@ ref	Mimosa
 entry	Babary		
 ref	Poivre		
 entry	Bablabs ou Bablah		
-orth	Bablabs		
-orth	Bablah		
 pb	3	0007	4503967
 entry	Bablot (Louis-Nicolas-Benjamin)		
 entry	Babouny		
 entry	Baccae Norlandicae		
 entry	Baccharis		
 entry	Bacci ou Baccio (André)		
-orth	Bacci		
-orth	Baccio (André)		
 pb	4	0008	4503968
 entry	Bache		
 ref	Mauritia		
@@ -46,8 +42,6 @@ entry	Bacopa
 pb	13	0017	4503977
 entry	Bacquois		
 entry	Bactérie, Bactéridie		
-orth	Bactérie		
-orth	Bactéridie		
 pb	14	0018	4503978
 pb	15	0019	4503979
 pb	16	0020	4503980
@@ -76,7 +70,8 @@ pb	38	0042	4504002
 pb	39	0043	4504003
 entry	Bactyrilobium		
 entry	Badamier		
-ref	Myrobolans et Terminalia		
+ref	Myrobolans		
+ref	Terminalia		
 entry	Bade (Grand-duché de)		
 entry	Bade (Grand-duché de). Géographie médicale		
 pb	40	0044	4504004
@@ -158,8 +153,6 @@ pb	99	0103	4504063
 pb	100	0104	4504064
 pb	101	0105	4504065
 entry	Bagnères-de-Bigorre ou Bagnères-sur-l'Adour (Eaux minérales de (Station d'hiver))		
-orth	Bagnères-de-Bigorre		
-orth	Bagnères-sur-l'Adour (Eaux minérales de (Station d'hiver))		
 pb	102	0106	4504066
 pb	103	0107	4504067
 pb	104	0108	4504068
@@ -192,8 +185,6 @@ pb	129	0133	4504093
 pb	130	0134	4504094
 pb	131	0135	4504095
 entry	Bagni di Lucca, Bains-de-Lucques (Eaux minérales de)		
-orth	Bagni di Lucca		
-orth	Bains-de-Lucques (Eaux minérales de)		
 pb	132	0136	4504096
 pb	133	0137	4504097
 pb	134	0138	4504098
@@ -275,9 +266,6 @@ pb	196	0200	4504160
 pb	197	0201	4504161
 pb	198	0202	4504162
 entry	Bains (Des). Des bains publics dans l'antiquité, dans le moyen âge et dans les temps modernes. Réglementation		
-orth	Bains (Des). Des bains publics dans l'antiquité		
-orth	dans le moyen âge		
-orth	dans les temps modernes. Réglementation		
 pb	199	0203	4504163
 pb	200	0204	4504164
 pb	201	0205	4504165
@@ -353,8 +341,6 @@ entry	Baker (Les)
 pb	263	0267	4504227
 entry	Balane		
 entry	Balanite, Balano-posthite		
-orth	Balanite		
-orth	Balano-posthite		
 pb	264	0268	4504228
 pb	265	0269	4504229
 pb	266	0270	4504230
@@ -419,7 +405,8 @@ entry	Ball (Les deux)
 entry	Ballexserd (Jacques)		
 entry	Ballons		
 entry	Ballonnement		
-ref	Météorisme et Tympanite		
+ref	Météorisme		
+ref	Tympanite		
 entry	Ballote		
 pb	306	0310	4504270
 entry	Ballottement		
@@ -435,8 +422,6 @@ ref	Liquidambar
 entry	Balsamite		
 pb	309	0313	4504273
 entry	Balsamodendrum ou Balsamodendron		
-orth	Balsamodendrum		
-orth	Balsamodendron		
 pb	310	0314	4504274
 pb	311	0315	4504275
 pb	312	0316	4504276
@@ -485,8 +470,6 @@ entry	Bandes
 ref	Bandages		
 pb	338	0342	4504302
 entry	Bang, Bangue		
-orth	Bang		
-orth	Bangue		
 entry	Banguiling		
 ref	Chéramélier		
 entry	Banister (Les deux)		
@@ -534,8 +517,6 @@ entry	Barbue
 entry	Barcaman		
 ref	Turbith		
 entry	Barchusen ou mieux Barckhausen (Joh. Conrad)		
-orth	Barchusen		
-orth	mieux Barckhausen (Joh. Conrad)		
 pb	355	0359	4504319
 entry	Bardane		
 entry	Bardane. Botanique		
@@ -649,8 +630,6 @@ entry	Bassia
 ref	Illipé		
 entry	Bassin		
 entry	Bassin. Anatomie et physiologie		
-orth	Bassin. Anatomie		
-orth	physiologie		
 pb	415	0419	4504379
 pb	416	0420	4504380
 pb	417	0421	4504381
@@ -815,8 +794,6 @@ ref	Jalap
 entry	Bate (Georges)		
 pb	561	0565	4504525
 entry	Batec, Batic		
-orth	Batec		
-orth	Batic		
 ref	Pastèque		
 entry	Bateman (Thomas)		
 entry	Bath (Eaux minérales de)		
@@ -827,8 +804,6 @@ pb	565	0569	4504529
 pb	566	0570	4504530
 pb	567	0571	4504531
 entry	Bati, Batis		
-orth	Bati		
-orth	Batis		
 entry	Batifoil (Eau Minérale de)		
 pb	568	0572	4504532
 entry	Batignolles (Eau minérale de)		
@@ -884,20 +859,12 @@ pb	595	0599	4504559
 entry	Baumes (Jean-Baptiste-Timothée)		
 pb	596	0600	4504560
 entry	Baumier, Balsamier, ou simplement Baume		
-orth	Baumier		
-orth	Balsamier		
-orth	simplement Baume		
 pb	597	0601	4504561
 entry	Bausch (Jean-Laurent)		
 entry	Baux (Les) (Pierre)		
 entry	Bava, Bavasinga		
-orth	Bava		
-orth	Bavasinga		
 ref	Casse		
 entry	Bavang, Baveng, Banvangmira		
-orth	Bavang		
-orth	Baveng		
-orth	Banvangmira		
 ref	Oignon		
 entry	Bavière		
 entry	Bavière. Géogr. méd.		
@@ -950,7 +917,8 @@ entry	Bdellomètre
 pb	633	0637	4504597
 entry	Bdellépithèque		
 entry	Bdelura		
-ref	Camélée et Cneorum		
+ref	Camélée		
+ref	Cneorum		
 entry	Beau (Joseph-Honoré-Simon)		
 pb	634	0638	4504598
 pb	635	0639	4504599
@@ -1036,13 +1004,9 @@ entry	Beddoes (Thomas)
 pb	692	0696	4504656
 pb	693	0697	4504657
 entry	Bédégar ou Bédéguar		
-orth	Bédégar		
-orth	Bédéguar		
 entry	Beer (Georg-Joseph)		
 pb	694	0698	4504658
 entry	Bégaiement ou Psellisme		
-orth	Bégaiement		
-orth	Psellisme		
 pb	695	0699	4504659
 pb	696	0700	4504660
 pb	697	0701	4504661

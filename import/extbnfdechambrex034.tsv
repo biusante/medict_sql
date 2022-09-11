@@ -105,7 +105,8 @@ pb	66	0070	4524609
 pb	67	0071	4524610
 pb	68	0072	4524611
 entry	Empirisme		
-ref	Médecine (Histoire) et Méthode		
+ref	Médecine (Histoire)		
+ref	Méthode		
 entry	Emplâtre		
 pb	69	0073	4524612
 pb	70	0074	4524613
@@ -150,7 +151,8 @@ pb	105	0109	4524648
 entry	Emporte-pièce		
 pb	106	0110	4524649
 entry	Empyème		
-ref	Hydrothorax et Pleurésie		
+ref	Hydrothorax		
+ref	Pleurésie		
 entry	Empyromancie		
 ref	Divination		
 entry	Ems (Eaux minérales et cure de petit-lait de)		
@@ -185,8 +187,6 @@ entry	Botanique
 entry	Encens. Emploi		
 pb	120	0124	4524663
 entry	Encens américain ou commun		
-orth	Encens américain		
-orth	commun		
 pb	121	0125	4524664
 entry	Encens de Java		
 entry	Encéphale		
@@ -235,8 +235,6 @@ pb	159	0163	4524702
 pb	160	0164	4524703
 pb	161	0165	4524704
 entry	Encéphale. Physiologie. Étude expérimentale des fonctions motrices et sensitives du cerveau par la méthode des excitations		
-orth	Encéphale. Physiologie. Étude expérimentale des fonctions motrices		
-orth	sensitives du cerveau par la méthode des excitations		
 pb	162	0166	4524705
 pb	163	0167	4524706
 pb	164	0168	4524707
@@ -282,8 +280,6 @@ pb	203	0207	4524746
 pb	204	0208	4524747
 pb	205	0209	4524748
 entry	Encéphale. Physiologie. Étude expérimentale des fonctions motrices et sensitives du cerveau par la méthode des destructions partielles		
-orth	Encéphale. Physiologie. Étude expérimentale des fonctions motrices		
-orth	sensitives du cerveau par la méthode des destructions partielles		
 pb	206	0210	4524749
 pb	207	0211	4524750
 pb	208	0212	4524751
@@ -322,8 +318,6 @@ pb	240	0244	4524783
 pb	241	0245	4524784
 pb	242	0246	4524785
 entry	Encéphale. Physiologie. Étude des fonctions motrices et sensitives du cerveau de l'homme par la méthode anatomo-clinique		
-orth	Encéphale. Physiologie. Étude des fonctions motrices		
-orth	sensitives du cerveau de l'homme par la méthode anatomo-clinique		
 pb	243	0247	4524786
 pb	244	0248	4524787
 pb	245	0249	4524788
@@ -431,9 +425,6 @@ pb	344	0348	4524887
 pb	345	0349	4524888
 pb	346	0350	4524889
 entry	Encéphale. Physiologie. Pression du sang dans les vaisseaux encéphaliques et dans les sinus craniens et particulier		
-orth	Encéphale. Physiologie. Pression du sang dans les vaisseaux encéphaliques		
-orth	dans les sinus craniens		
-orth	particulier		
 pb	347	0351	4524890
 pb	348	0352	4524891
 entry	Encéphale. Physiologie. Influences mécaniques modifiant la circulation encéphalique		
@@ -445,8 +436,6 @@ pb	353	0357	4524896
 pb	354	0358	4524897
 pb	355	0359	4524898
 entry	Encéphale. Physiologie. État de la circulation cérébrale dans les divers états de sommeil et pendant l'activité intellectuelle		
-orth	Encéphale. Physiologie. État de la circulation cérébrale dans les divers états de sommeil		
-orth	pendant l'activité intellectuelle		
 pb	356	0360	4524899
 pb	357	0361	4524900
 pb	358	0362	4524901
@@ -481,8 +470,6 @@ pb	380	0384	4524923
 pb	381	0385	4524924
 pb	382	0386	4524925
 entry	Encéphalocèle et Méningocèle		
-orth	Encéphalocèle		
-orth	Méningocèle		
 pb	383	0387	4524926
 pb	384	0388	4524927
 pb	385	0389	4524928
@@ -507,8 +494,6 @@ ref	Sorcellerie
 entry	Enchélides		
 pb	401	0405	4524944
 entry	Enchondrome, Chondrome		
-orth	Enchondrome		
-orth	Chondrome		
 pb	402	0406	4524945
 pb	403	0407	4524946
 pb	404	0408	4524947
@@ -649,7 +634,8 @@ pb	523	0527	4525066
 entry	Endoclinés		
 entry	Endocymiens		
 entry	Endoderme		
-ref	Embryon et Embryonnaire		
+ref	Embryon		
+ref	Embryonnaire		
 entry	Endolymphe		
 ref	Oreille interne		
 entry	Endoproctes		
@@ -659,7 +645,8 @@ entry	Endoscope
 pb	524	0528	4525067
 pb	525	0529	4525068
 entry	Endosmose		
-ref	Osmose et Diffusion		
+ref	Osmose		
+ref	Diffusion		
 entry	Endosporés		
 entry	Endothélium		
 ref	Épithélial (Tissu)		
@@ -1002,8 +989,6 @@ entry	Épendyme
 entry	Éperlan		
 pb	769	0773	4525312
 entry	Éperon de chevalier, Éperon de la vierge		
-orth	Éperon de chevalier		
-orth	Éperon de la vierge		
 entry	Éperonelle		
 entry	Éperonnière		
 entry	Épervier		
@@ -1026,9 +1011,6 @@ pb	780	0784	4525323
 pb	781	0785	4525324
 pb	782	0786	4525325
 entry	Éphémère, Éphémère de Virginie, Éphémérine		
-orth	Éphémère		
-orth	Éphémère de Virginie		
-orth	Éphémérine		
 entry	Éphémère (Fièvre)		
 ref	Fièvre		
 entry	Éphéméron		

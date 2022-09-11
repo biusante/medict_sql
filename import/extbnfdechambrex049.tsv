@@ -44,8 +44,6 @@ ref	Fongus
 entry	Hématoïdine		
 entry	Hématoïne		
 entry	Hémato-lutéine ou Hémo-lutéine		
-orth	Hémato-lutéine		
-orth	Hémo-lutéine		
 entry	Hématome		
 pb	30	0034	4536178
 entry	Hématomètre		
@@ -59,9 +57,6 @@ entry	Hématoporphyrine
 ref	Hémoglobine		
 entry	Hématorachis.		
 entry	Hématoscopie, Hématoscope, Hémato-spectroscopes		
-orth	Hématoscopie		
-orth	Hématoscope		
-orth	Hémato-spectroscopes		
 pb	34	0038	4536182
 pb	35	0039	4536183
 pb	36	0040	4536184
@@ -253,8 +248,6 @@ entry	Hémimèles
 entry	Hémimellique (Acide)		
 entry	Hémine		
 entry	Hémiopie ou Hémianopsie		
-orth	Hémiopie		
-orth	Hémianopsie		
 pb	196	0200	4536344
 pb	197	0201	4536345
 pb	198	0202	4536346
@@ -570,7 +563,8 @@ pb	475	0479	4536623
 entry	Hémorrhoïdal (Nerf)		
 ref	Sacré (Plexus)		
 entry	Hémorrhoïdal (Plexus)		
-ref	Sympathique (Grand) et Hémorrhoïdales		
+ref	Sympathique (Grand)		
+ref	Hémorrhoïdales		
 entry	Hémorrhoïdales (Artères et Veines)		
 pb	476	0480	4536624
 pb	477	0481	4536625
@@ -632,8 +626,6 @@ ref	Circulation
 entry	Hempel (Adolph-Friedr.-Heinr.)		
 pb	528	0532	4536676
 entry	Henckel ou Henkel (Joachim-Friedrich)		
-orth	Henckel		
-orth	Henkel (Joachim-Friedrich)		
 entry	Hendricksz (Pieter)		
 entry	Hendy (James)		
 entry	Henke (Adolphe-Christ.-Heinr.)		
@@ -782,8 +774,6 @@ pb	605	0609	4536753
 entry	Herholdt (Les deux)		
 pb	606	0610	4536754
 entry	Herhondaville ou Mondeville (Henri de)		
-orth	Herhondaville		
-orth	Mondeville (Henri de)		
 entry	Hericium		
 entry	Hering (Eduard von)		
 entry	Hérissant (Les deux)		

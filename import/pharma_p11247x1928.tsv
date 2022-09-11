@@ -6,7 +6,7 @@ entry	1re Partie. Table par indications thérapeutiques des spécialités figura
 pb	sn	0005	7720962
 entry	Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
 pb	sn	0006	7720963
-entry	I. - Alimentation - Régimes		
+entry	Alimentation - Régimes		
 entry	II. - Antiseptiques - Désinfectants		
 pb	sn	0007	7720964
 entry	III. - Appareil circulatoire		
@@ -16,7 +16,7 @@ entry	IV. - Appareil digestif et ses annexes
 pb	sn	0010	7720967
 pb	sn	0011	7720968
 pb	sn	0012	7720969
-entry	V. - Appareil génito-urinaire		
+entry	Appareil génito-urinaire		
 pb	sn	0013	7720970
 entry	VI. - Appareil respiratoire		
 pb	sn	0014	7720971
@@ -28,7 +28,7 @@ pb	sn	0017	7720974
 pb	sn	0018	7720975
 entry	IX. - Gynécologie - Obstétrique		
 pb	sn	0019	7720976
-entry	X. - Hémostatiques		
+entry	Hémostatiques		
 entry	XI. - Maladies infectieuses et parasitaires		
 pb	sn	0020	7720977
 pb	sn	0021	7720978
@@ -67,7 +67,7 @@ pb	3	0039	7720996
 entry	Acodros		
 entry	Acolitol		
 pb	4	0040	7720997
-entry	A.-D. Grosjean		
+entry	D. Grosjean		
 pb	5	0041	7720998
 entry	Adoverne « Roche »		
 pb	6	0042	7720999
@@ -373,7 +373,6 @@ entry	Bulgarine Thépénier
 pb	116	0152	7721109
 entry	Butelline		
 pb	117	0153	7721110
-entry	C 40		
 entry	Cachets du Docteur Boveil		
 pb	118	0154	7721111
 entry	Cachets Kapytan		
@@ -2114,74 +2113,55 @@ pb	pb	0838	7721795
 pb	sn	0839	7721796
 entry	3e Partie. Nomenclature nominale des spécialités pharmaceutiques médicales avec les adresses de leurs fabricants		
 pb	804	0840	7721797
-entry	A		
 pb	805	0841	7721798
 pb	806	0842	7721799
 pb	807	0843	7721800
 pb	808	0844	7721801
-entry	B		
 pb	809	0845	7721802
 pb	810	0846	7721803
 pb	811	0847	7721804
 pb	812	0848	7721805
-entry	C		
 pb	813	0849	7721806
 pb	814	0850	7721807
 pb	815	0851	7721808
 pb	816	0852	7721809
 pb	817	0853	7721810
 pb	818	0854	7721811
-entry	D		
 pb	819	0855	7721812
 pb	820	0856	7721813
-entry	E		
 pb	821	0857	7721814
 pb	822	0858	7721815
 pb	823	0859	7721816
 pb	824	0860	7721817
-entry	F		
 pb	825	0861	7721818
 pb	826	0862	7721819
-entry	G		
 pb	827	0863	7721820
 pb	828	0864	7721821
 pb	829	0865	7721822
 pb	830	0866	7721823
-entry	H		
 pb	831	0867	7721824
 pb	832	0868	7721825
-entry	I		
 pb	833	0869	7721826
 pb	834	0870	7721827
-entry	J		
 pb	835	0871	7721828
-entry	K		
-entry	L		
 pb	836	0872	7721829
 pb	837	0873	7721830
 pb	838	0874	7721831
-entry	M		
 pb	839	0875	7721832
 pb	840	0876	7721833
-entry	N		
 pb	841	0877	7721834
 pb	842	0878	7721835
 pb	843	0879	7721836
-entry	O		
 pb	844	0880	7721837
 pb	845	0881	7721838
-entry	P		
 pb	846	0882	7721839
 pb	847	0883	7721840
 pb	848	0884	7721841
 pb	849	0885	7721842
 pb	850	0886	7721843
 pb	851	0887	7721844
-entry	Q		
 pb	852	0888	7721845
-entry	R		
 pb	853	0889	7721846
-entry	S		
 pb	854	0890	7721847
 pb	855	0891	7721848
 pb	856	0892	7721849
@@ -2190,18 +2170,12 @@ pb	858	0894	7721851
 pb	859	0895	7721852
 pb	860	0896	7721853
 pb	861	0897	7721854
-entry	T		
 pb	862	0898	7721855
 pb	863	0899	7721856
 pb	864	0900	7721857
-entry	U		
 pb	865	0901	7721858
-entry	V		
 pb	866	0902	7721859
 pb	867	0903	7721860
-entry	X		
 pb	868	0904	7721861
-entry	Y		
-entry	Z		
 pb	sn	0905	7721862
 pb	sn	0906	7721863

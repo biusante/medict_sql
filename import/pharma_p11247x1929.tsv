@@ -8,7 +8,7 @@ pb	pb	0006	7721869
 pb	sn	0007	7721870
 entry	Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
 pb	sn	0008	7721871
-entry	I. - Alimentation - Régimes		
+entry	Alimentation - Régimes		
 entry	II. - Antiseptiques - Désinfectants		
 pb	sn	0009	7721872
 entry	III. - Appareil circulatoire		
@@ -19,7 +19,7 @@ pb	sn	0012	7721875
 pb	sn	0013	7721876
 pb	sn	0014	7721877
 pb	sn	0015	7721878
-entry	V. - Appareil génito-urinaire		
+entry	Appareil génito-urinaire		
 pb	sn	0016	7721879
 entry	VI. - Appareil respiratoire		
 pb	sn	0017	7721880
@@ -32,7 +32,7 @@ pb	sn	0021	7721884
 pb	sn	0022	7721885
 entry	IX. - Gynécologie - Obstétrique		
 pb	sn	0023	7721886
-entry	X. - Hémostatiques		
+entry	Hémostatiques		
 pb	sn	0024	7721887
 entry	XI. - Maladies infectieuses et parasitaires		
 pb	sn	0025	7721888
@@ -75,7 +75,7 @@ entry	Acolitol
 pb	7	0045	7721908
 entry	Actine		
 pb	8	0046	7721909
-entry	A. D. Grosjean		
+entry	D. Grosjean		
 pb	9	0047	7721910
 entry	Adoverne « Roche »		
 pb	10	0048	7721911
@@ -404,7 +404,6 @@ pb	130	0168	7722031
 entry	Bronchoseptol Lauriat		
 entry	Bulgarine Thépénier		
 pb	131	0169	7722032
-entry	C 40		
 entry	Cachet du Docteur Boveil		
 pb	132	0170	7722033
 entry	Cachets Kapytan		
@@ -2376,18 +2375,15 @@ pb	sn	0943	7722806
 entry	3e Partie. Nomenclature nominale des spécialités pharmaceutiques médicales avec les adresses de leurs fabricants		
 pb	pb	0944	7722807
 pb	907	0945	7722808
-entry	A		
 pb	908	0946	7722809
 pb	909	0947	7722810
 pb	910	0948	7722811
 pb	911	0949	7722812
 pb	912	0950	7722813
-entry	B		
 pb	913	0951	7722814
 pb	914	0952	7722815
 pb	915	0953	7722816
 pb	916	0954	7722817
-entry	C		
 pb	917	0955	7722818
 pb	918	0956	7722819
 pb	919	0957	7722820
@@ -2395,49 +2391,36 @@ pb	920	0958	7722821
 pb	921	0959	7722822
 pb	922	0960	7722823
 pb	923	0961	7722824
-entry	D		
 pb	924	0962	7722825
 pb	925	0963	7722826
 pb	926	0964	7722827
-entry	E		
 pb	927	0965	7722828
 pb	928	0966	7722829
 pb	929	0967	7722830
-entry	F		
 pb	930	0968	7722831
 pb	931	0969	7722832
 pb	932	0970	7722833
-entry	G		
 pb	933	0971	7722834
 pb	934	0972	7722835
 pb	935	0973	7722836
 pb	936	0974	7722837
-entry	H		
 pb	937	0975	7722838
 pb	938	0976	7722839
 pb	939	0977	7722840
-entry	I		
 pb	940	0978	7722841
 pb	941	0979	7722842
-entry	J		
 pb	942	0980	7722843
-entry	K		
 pb	943	0981	7722844
-entry	L		
 pb	944	0982	7722845
 pb	945	0983	7722846
-entry	M		
 pb	946	0984	7722847
 pb	947	0985	7722848
 pb	948	0986	7722849
-entry	N		
 pb	949	0987	7722850
 pb	950	0988	7722851
 pb	951	0989	7722852
-entry	O		
 pb	952	0990	7722853
 pb	953	0991	7722854
-entry	P		
 pb	954	0992	7722855
 pb	955	0993	7722856
 pb	956	0994	7722857
@@ -2446,11 +2429,8 @@ pb	958	0996	7722859
 pb	959	0997	7722860
 pb	960	0998	7722861
 pb	961	0999	7722862
-entry	Q		
-entry	R		
 pb	962	1000	7722863
 pb	963	1001	7722864
-entry	S		
 pb	964	1002	7722865
 pb	965	1003	7722866
 pb	966	1004	7722867
@@ -2459,20 +2439,14 @@ pb	968	1006	7722869
 pb	969	1007	7722870
 pb	970	1008	7722871
 pb	971	1009	7722872
-entry	T		
 pb	972	1010	7722873
 pb	973	1011	7722874
 pb	974	1012	7722875
 pb	975	1013	7722876
-entry	U		
 pb	976	1014	7722877
-entry	V		
 pb	977	1015	7722878
 pb	978	1016	7722879
 pb	979	1017	7722880
-entry	X		
-entry	Y		
-entry	Z		
 pb	980	1018	7722881
 pb	pb	1019	7722882
 pb	sn	1020	7722883

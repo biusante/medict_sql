@@ -67,8 +67,6 @@ pb	60	0064	4587024
 entry	Septicémie		
 entry	Chirurgicale		
 entry	Septicémie. Chirurgicale. Histoire et doctrines		
-orth	Septicémie. Chirurgicale. Histoire		
-orth	doctrines		
 pb	61	0065	4587025
 pb	62	0066	4587026
 pb	63	0067	4587027
@@ -154,8 +152,6 @@ pb	142	0146	4587106
 pb	143	0147	4587107
 pb	144	0148	4587108
 entry	Septicémie. Chirurgicale. Affections septicoïdes ou septicémiques chirurgicales		
-orth	Septicémie. Chirurgicale. Affections septicoïdes		
-orth	septicémiques chirurgicales		
 pb	145	0149	4587109
 pb	146	0150	4587110
 pb	147	0151	4587111
@@ -271,7 +267,8 @@ pb	243	0247	4587207
 pb	244	0248	4587208
 entry	Sepulveda (Fernando de)		
 entry	Séquestres		
-ref	Nécrose et Os		
+ref	Nécrose		
+ref	Os		
 entry	Serao (Francesco)		
 pb	245	0249	4587209
 entry	Sérapéon		
@@ -424,12 +421,8 @@ pb	367	0371	4587331
 pb	368	0372	4587332
 pb	369	0373	4587333
 entry	Seriphium ou Seriphion		
-orth	Seriphium		
-orth	Seriphion		
 entry	Seris		
 entry	Serkis ou Serquis		
-orth	Serkis		
-orth	Serquis		
 pb	370	0374	4587334
 entry	Sermaize (Eau minérale de)		
 pb	371	0375	4587335
@@ -549,8 +542,6 @@ pb	435	0439	4587399
 entry	Sésame. Emploi		
 pb	436	0440	4587400
 entry	Sesanqua ou Sasanqua		
-orth	Sesanqua		
-orth	Sasanqua		
 entry	Sesban		
 entry	Séséli		
 pb	437	0441	4587401
@@ -558,8 +549,6 @@ entry	Sésiides
 entry	Sessoea		
 pb	438	0442	4587402
 entry	Sestié ou Sestier (Ami-Daniel-Félix)		
-orth	Sestié		
-orth	Sestier (Ami-Daniel-Félix)		
 entry	Sesuvium		
 pb	439	0443	4587403
 entry	Séton		
@@ -578,8 +567,6 @@ entry	Seutin (Louis-Joseph)
 pb	447	0451	4587411
 pb	448	0452	4587412
 entry	Seutlon et Teutlon		
-orth	Seutlon		
-orth	Teutlon		
 entry	Seutlostaphyllinum		
 entry	Seux (Vincent)		
 pb	449	0453	4587413
@@ -668,8 +655,6 @@ entry	Sheldon (John)
 entry	Shengatariputtay		
 entry	Sheppard (John Barnard)		
 entry	Sherard ou Sherwood (Les)		
-orth	Sherard		
-orth	Sherwood (Les)		
 pb	509	0513	4587473
 entry	Sherwen (John)		
 pb	510	0514	4587474
@@ -697,7 +682,8 @@ pb	520	0524	4587484
 pb	521	0525	4587485
 pb	522	0526	4587486
 entry	Sialorrhée		
-ref	Salivaires (glandes) et Mercure		
+ref	Salivaires (glandes)		
+ref	Mercure		
 entry	Siam (Royaume de)		
 ref	Indo-Chine		
 entry	Siami		
@@ -771,7 +757,8 @@ entry	Sidération
 entry	Sideritis		
 pb	573	0577	4587537
 entry	Sidéromancie		
-ref	Astrologie et Divination		
+ref	Astrologie		
+ref	Divination		
 entry	Sideroxylon		
 entry	Sidhée		
 entry	Sidobre (Antoine)		
@@ -837,8 +824,6 @@ entry	Sigault de Lafond
 entry	Sigillée (Terre)		
 ref	Argile		
 entry	Sigillum Mariae ou Sigillum Beatae Mariae		
-orth	Sigillum Mariae		
-orth	Sigillum Beatae Mariae		
 entry	Sigillum Salomonis		
 entry	Sigmoïde		
 pb	615	0619	4587579
@@ -887,13 +872,9 @@ pb	633	0637	4587597
 pb	634	0638	4587598
 entry	Siliciures		
 entry	Silicone ou Chryséone		
-orth	Silicone		
-orth	Chryséone		
 pb	635	0639	4587599
 entry	Siligo		
 entry	Siliqua dulcis, Silique douce		
-orth	Siliqua dulcis		
-orth	Silique douce		
 entry	Siliqua hirsuta		
 entry	Siliquastrum		
 entry	Silique		
@@ -924,8 +905,6 @@ entry	Silva (Jean-Baptiste)
 pb	651	0655	4587615
 pb	652	0656	4587616
 entry	Silvanès ou Sylvanès (Eaux minérales de)		
-orth	Silvanès		
-orth	Sylvanès (Eaux minérales de)		
 pb	653	0657	4587617
 pb	654	0658	4587618
 pb	655	0659	4587619
@@ -950,8 +929,6 @@ pb	662	0666	4587626
 pb	663	0667	4587627
 pb	664	0668	4587628
 entry	Simaroubées ou Quassiées		
-orth	Simaroubées		
-orth	Quassiées		
 pb	665	0669	4587629
 entry	Simbor Mangianam		
 entry	Siméon Seth		
@@ -1063,8 +1040,6 @@ pb	741	0745	4587705
 pb	742	0746	4587706
 entry	Sinapistrum		
 entry	Sinapoline ou Diallylurée		
-orth	Sinapoline		
-orth	Diallylurée		
 entry	Sinapius (Les deux)		
 pb	743	0747	4587707
 entry	Sincaline		
@@ -1073,8 +1048,6 @@ entry	Sinclair (Les)
 pb	744	0748	4587708
 entry	Sindhy		
 entry	Sindoc ou Sintoc		
-orth	Sindoc		
-orth	Sintoc		
 entry	Sindon		
 entry	Singes		
 pb	745	0749	4587709
@@ -1098,8 +1071,6 @@ pb	762	0766	4587726
 pb	763	0767	4587727
 pb	764	0768	4587728
 entry	Singes (Faux) ou Lémuriens		
-orth	Singes (Faux)		
-orth	Lémuriens		
 pb	765	0769	4587729
 pb	766	0770	4587730
 pb	767	0771	4587731
@@ -1138,8 +1109,6 @@ pb	782	0786	4587746
 entry	Siphonostomes		
 pb	783	0787	4587747
 entry	Sipirine ou Sépirine		
-orth	Sipirine		
-orth	Sépirine		
 entry	Sipo de Champo		
 entry	Siponcle		
 pb	784	0788	4587748

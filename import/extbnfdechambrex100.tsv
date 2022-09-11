@@ -69,14 +69,6 @@ ref	Orpin
 entry	Vermifuga		
 ref	Flaveria		
 entry	Vermifuge.., et Santonine, Semen-contra, Mousse de Corse, Kousso, Fougère male, Grenadier, Saoria, etc		
-orth	Vermifuge		
-orth	Santonine		
-orth	Semen-contra		
-orth	Mousse de Corse		
-orth	Kousso		
-orth	Fougère male		
-orth	Grenadier		
-orth	Saoria		
 ref	Lombrics		
 ref	Oxyures		
 ref	Taenia		
@@ -101,8 +93,6 @@ entry	Vernis (faux) du Japon
 ref	Ailanthe		
 entry	Vernois (Ange-Gabriel-Maxime)		
 entry	Vernoniacées ou Vernoniées		
-orth	Vernoniacées		
-orth	Vernoniées		
 entry	Vernonie		
 entry	Vernonie. Botanique		
 pb	30	0032	4596365
@@ -326,7 +316,7 @@ ref	Urinaires (Fistules)
 entry	Vésiculaire (Zool.)		
 entry	Vésiculaire (Murmure)		
 ref	Auscultation		
-ref	et Poumons		
+ref	Poumons		
 entry	Vésicule		
 ref	Cellule		
 ref	Desmatoses		
@@ -577,8 +567,6 @@ entry	Vetch (John)
 entry	Vétiver		
 entry	Botanique		
 entry	Vétiver. Emploi médical et domestique		
-orth	Vétiver. Emploi médical		
-orth	domestique		
 pb	411	0413	4596746
 entry	Vetter (Les deux)		
 entry	Vettori (Les deux)		
@@ -620,9 +608,8 @@ ref	Son
 ref	Optique		
 ref	Chaleur		
 entry	Vibrioniens et Vibrions		
-orth	Vibrioniens		
-orth	Vibrions		
-ref	Bactéries et Schizomycètes (Addenda à S)		
+ref	Bactéries		
+ref	Schizomycètes (Addenda à S)		
 entry	Vibrissea		
 entry	Vibrisses		
 ref	Nerveux		
@@ -631,8 +618,6 @@ ref	Viorne
 entry	Vic-le-Comte (Eaux minérales de)		
 ref	Maurice (Saint-)		
 entry	Vic-sur-Cère ou Vic-en-Carladès (Eaux minérales de)		
-orth	Vic-sur-Cère		
-orth	Vic-en-Carladès (Eaux minérales de)		
 pb	433	0435	4596768
 entry	Vicat (Pierre-Rodolphe)		
 entry	Vichy (Eaux minérales et hydrothérapie de)		
@@ -662,12 +647,11 @@ entry	Vicoigne (Eau minérale de)
 entry	Vicq-d'Azyr (Félix)		
 pb	453	0455	4596788
 entry	Vicuiba ou Bicuiba		
-orth	Vicuiba		
-orth	Bicuiba		
 entry	Vidal (Les deux)		
 pb	454	0456	4596789
 entry	Vidanges		
-ref	Fosses d'aisances et Égouts		
+ref	Fosses d'aisances		
+ref	Égouts		
 entry	Vidien (Nerf)		
 ref	Maxillaire supérieur (Nerf)		
 entry	Vidiennes (Artère et Veines)		
@@ -922,8 +906,6 @@ entry	Vinettier
 ref	Épine-vinette		
 entry	Vingtrinier (Artus-Barthélemy)		
 entry	Viol et Attentats aux moeurs		
-orth	Viol		
-orth	Attentats aux moeurs		
 pb	659	0661	4596994
 pb	660	0662	4596995
 pb	661	0663	4596996
@@ -968,12 +950,8 @@ pb	699	0701	4597034
 entry	Viola		
 ref	Violette		
 entry	Violacées ou Violariées		
-orth	Violacées		
-orth	Violariées		
 pb	700	0702	4597035
 entry	Violacées ou violariées		
-orth	Violacées		
-orth	violariées		
 entry	Violénique (Acide)		
 entry	Violet		
 pb	701	0703	4597036
@@ -1004,8 +982,6 @@ entry	Viridine
 entry	Viridique (Acide)		
 entry	Virola		
 entry	Virus, Maladies virulentes		
-orth	Virus		
-orth	Maladies virulentes		
 pb	715	0717	4597050
 entry	Viscache		
 pb	716	0718	4597051
@@ -1015,8 +991,6 @@ entry	Viscos (Eaux minérales de)
 entry	Viscum		
 ref	Gui		
 entry	Visigoths ou Wisigoths		
-orth	Visigoths		
-orth	Wisigoths		
 ref	Goths		
 entry	Vismia		
 pb	718	0720	4597053
@@ -1094,7 +1068,8 @@ pb	757	0759	4597092
 pb	758	0760	4597093
 pb	759	0761	4597094
 entry	Volcans		
-ref	Géographie médicale et Géologie		
+ref	Géographie médicale		
+ref	Géologie		
 entry	Voliakes		
 ref	Russie		
 entry	Volkmann (Alfred-Wilhelm)		
@@ -1279,8 +1254,6 @@ pb	844	0846	4597179
 entry	Wolff (Caspar-Friedrich)		
 pb	845	0847	4597180
 entry	Woorara ou Woorari		
-orth	Woorara		
-orth	Woorari		
 entry	Worm (Les)		
 entry	Wormiens (Os)		
 ref	Crane		
@@ -1289,10 +1262,9 @@ pb	846	0848	4597181
 entry	Wrightine		
 entry	Wrisberg (Heinrich-August)		
 entry	Wrisberg (Nerf de)		
-ref	Facial et Larynx		
+ref	Facial		
+ref	Larynx		
 entry	Wuertz ou Wirtz (Felix)		
-orth	Wuertz		
-orth	Wirtz (Felix)		
 entry	Wunderlich (Karl-Reinhold-August)		
 entry	Würtz (Charles-Adolphe)		
 pb	847	0849	4597182
@@ -1354,8 +1326,6 @@ entry	Xanthotannique (Acide)
 entry	Xanthoxylène		
 entry	Xanthoxyline		
 entry	Xanthoxylum ou Zanthoxylum		
-orth	Xanthoxylum		
-orth	Zanthoxylum		
 ref	Clavalier		
 entry	Xénoderme		
 entry	Xénodon		
@@ -1454,8 +1424,6 @@ entry	Yukayres
 ref	Asie		
 entry	Yulan		
 entry	Yverdun ou Yverdon (Eau minérale de)		
-orth	Yverdun		
-orth	Yverdon (Eau minérale de)		
 pb	913	0915	4597248
 pb	[s. pag.]	0916	4597249
 pb	915	0917	4597250
@@ -1510,9 +1478,8 @@ pb	932	0934	4597267
 entry	Zinc-éthyle		
 entry	Zinc-méthyle		
 entry	Zingaris ou Tsiganes		
-orth	Zingaris		
-orth	Tsiganes		
-ref	Anthropologie et France		
+ref	Anthropologie		
+ref	France		
 entry	Zingiber		
 entry	Zingibéracées		
 entry	Zinn (Johann-Gottfried)		
@@ -1565,7 +1532,8 @@ pb	964	0966	4597299
 pb	965	0967	4597300
 pb	966	0968	4597301
 entry	Zoogloea		
-ref	Schizomycètes et Tuberculose		
+ref	Schizomycètes		
+ref	Tuberculose		
 entry	Zoomancie		
 ref	Divination		
 entry	Zoomélanine		

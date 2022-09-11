@@ -4,9 +4,6 @@ pb	[s. pag.]	0003	4500033
 pb	[s. pag.]	0004	4500034
 pb	1	0005	4500035
 entry	Alhage, Alhagi ou Halhagi		
-orth	Alhage		
-orth	Alhagi		
-orth	Halhagi		
 pb	2	0006	4500036
 entry	Alhama de Aragon (Eaux minérales d')		
 pb	3	0007	4500037
@@ -23,8 +20,6 @@ pb	8	0012	4500042
 pb	9	0013	4500043
 entry	Alibertie		
 entry	Aliboufier ou Aligoufier		
-orth	Aliboufier		
-orth	Aligoufier		
 pb	10	0014	4500044
 pb	11	0015	4500045
 entry	Matière médicale		
@@ -275,15 +270,9 @@ entry	Alipata
 entry	Aliptique		
 pb	242	0246	4500276
 entry	Alise, Alisier		
-orth	Alise		
-orth	Alisier		
 entry	Emploi médical		
 entry	Alisma, Alismacées		
-orth	Alisma		
-orth	Alismacées		
 entry	Alisma, Alismacées. Emploi médical		
-orth	Alisma		
-orth	Alismacées. Emploi médical		
 pb	243	0247	4500277
 entry	Alitement		
 pb	244	0248	4500278
@@ -293,10 +282,9 @@ entry	Alix (Mathieu-François)
 entry	Alizarine		
 pb	247	0251	4500281
 entry	Alkanna		
-ref	Heuné et Orcanette		
+ref	Heuné		
+ref	Orcanette		
 entry	Alkékenge ou Coqueret		
-orth	Alkékenge		
-orth	Coqueret		
 pb	248	0252	4500282
 entry	Matière médicale		
 entry	Emploi médical		
@@ -350,9 +338,6 @@ pb	288	0292	4500322
 pb	289	0293	4500323
 pb	290	0294	4500324
 entry	Allantoïne ou Acide allantoïque, amniotique		
-orth	Allantoïne		
-orth	Acide allantoïque		
-orth	amniotique		
 pb	291	0295	4500325
 entry	Allasia		
 ref	Gattilier		
@@ -420,8 +405,6 @@ pb	343	0347	4500377
 entry	Allium		
 ref	Ail		
 entry	Allmacher ou Almacher (Johann-Friedrich)		
-orth	Allmacher		
-orth	Almacher (Johann-Friedrich)		
 pb	344	0348	4500378
 entry	Allopathie		
 entry	Allophyliennes (Races)		
@@ -433,8 +416,6 @@ ref	Isomérie
 entry	Allouchier		
 ref	Alisier		
 entry	Alloxane ou Acide érithrique		
-orth	Alloxane		
-orth	Acide érithrique		
 pb	346	0350	4500380
 entry	Alloxantine		
 pb	347	0351	4500381
@@ -509,13 +490,12 @@ pb	385	0389	4500419
 pb	386	0390	4500420
 pb	387	0391	4500421
 entry	Alopécure ou Vulpin		
-orth	Alopécure		
-orth	Vulpin		
 entry	Alouchi (Résine)		
 entry	Aloutcha		
 ref	Tabac		
 entry	Aloysia		
-ref	Citronnelle et Verveine		
+ref	Citronnelle		
+ref	Verveine		
 pb	388	0392	4500422
 entry	Alpago (André)		
 entry	Alphonse Lopez de Corella		
@@ -561,7 +541,8 @@ entry	Althéine
 ref	Asparagine		
 entry	Althionique (Acide)		
 entry	Altingia		
-ref	Dammara et Liquidambar		
+ref	Dammara		
+ref	Liquidambar		
 entry	Altitudes		
 pb	404	0408	4500438
 pb	405	0409	4500439
@@ -593,8 +574,6 @@ pb	429	0433	4500463
 entry	Aludel		
 ref	Appareils		
 entry	Aluine ou Aluyne		
-orth	Aluine		
-orth	Aluyne		
 ref	Absinthe		
 entry	Aluminates - Alumine		
 ref	Aluminium		
@@ -642,8 +621,6 @@ pb	461	0465	4500495
 pb	462	0466	4500496
 pb	463	0467	4500497
 entry	Alun. Hygiène industrielle et professionnelle		
-orth	Alun. Hygiène industrielle		
-orth	professionnelle		
 pb	464	0468	4500498
 entry	Alvarez (Antoine)		
 entry	Alvéolaire (Bord ou procès, processus)		
@@ -656,8 +633,6 @@ entry	Alvéolo-dentaire (Périoste)
 entry	Alviès (Résines d')		
 entry	Alyon (Pierre-Philippe)		
 entry	Alypum ou Alypon		
-orth	Alypum		
-orth	Alypon		
 entry	Alyre (Saint-) (Eaux minérales de)		
 ref	Clermont-Ferrand		
 entry	Alysson		
@@ -677,7 +652,8 @@ entry	Amadouvier
 ref	Amadou		
 entry	Amadum		
 entry	Amaigrissement		
-ref	Émaciation et Inanition		
+ref	Émaciation		
+ref	Inanition		
 entry	Amalgames		
 pb	474	0478	4500508
 pb	475	0479	4500509
@@ -699,10 +675,6 @@ ref	Amandier
 entry	Amandier		
 pb	484	0488	4500518
 entry	Amandier. Matière médicale, pharmacologie, toxicologie et thérapeutique		
-orth	Amandier. Matière médicale		
-orth	pharmacologie		
-orth	toxicologie		
-orth	thérapeutique		
 pb	485	0489	4500519
 pb	486	0490	4500520
 pb	487	0491	4500521
@@ -753,15 +725,9 @@ ref	Spondias
 entry	Amarine		
 entry	Amaroné		
 entry	Amaryllis, Amaryllidées		
-orth	Amaryllis		
-orth	Amaryllidées		
 pb	516	0520	4500550
 entry	Amarythrine ou Amer d'Érythrine		
-orth	Amarythrine		
-orth	Amer d'Érythrine		
 entry	Amasatine ou Isamide		
-orth	Amasatine		
-orth	Isamide		
 entry	Ama-Tsja		
 pb	517	0521	4500551
 entry	Amatum		
@@ -800,8 +766,6 @@ pb	546	0550	4500580
 entry	Ambalam		
 ref	Spondias		
 entry	Ambaville, Amblaville		
-orth	Ambaville		
-orth	Amblaville		
 ref	Millepertuis		
 entry	Ambela		
 ref	Chéramelier		
@@ -830,13 +794,12 @@ ref	Succin
 entry	Ambréine		
 ref	Ambre		
 entry	Ambrette		
-ref	Abelmosch et Ketmie		
+ref	Abelmosch		
+ref	Ketmie		
 entry	Ambrina		
 entry	Ambrosie		
 pb	553	0557	4500587
 entry	Ambroisie, ou Thé du Mexique		
-orth	Ambroisie		
-orth	Thé du Mexique		
 entry	Ambrosini (les deux frères)		
 entry	Ambulance		
 pb	554	0558	4500588
@@ -865,7 +828,8 @@ pb	576	0580	4500610
 pb	577	0581	4500611
 entry	Ambulie		
 entry	Ambul-Ghoorka		
-ref	Stalagmitis et Xanthochymus		
+ref	Stalagmitis		
+ref	Xanthochymus		
 entry	Ambuxon		
 ref	Herbe-aux-Gueux		
 entry	Amelanchier		
@@ -946,8 +910,6 @@ pb	639	0643	4500673
 pb	640	0644	4500674
 pb	641	0645	4500675
 entry	Amiante, Amianthe		
-orth	Amiante		
-orth	Amianthe		
 pb	642	0646	4500676
 entry	Amic (Jean, Marie)		
 entry	Amici (J. B.)		
@@ -967,8 +929,6 @@ pb	651	0655	4500685
 pb	652	0656	4500686
 entry	Amidin		
 entry	Amidine ou Amidone		
-orth	Amidine		
-orth	Amidone		
 entry	Amidon		
 entry	Amidon. Chimie		
 pb	653	0657	4500687
@@ -1112,7 +1072,8 @@ entry	Amorphe
 entry	Amouroche		
 ref	Maroute		
 entry	Ampélidées		
-ref	Vigne et Vinifères		
+ref	Vigne		
+ref	Vinifères		
 pb	750	0754	4500784
 entry	Ampélothérapie		
 ref	Raisin		
@@ -1121,8 +1082,6 @@ entry	Amphibies
 entry	Amphides		
 pb	751	0755	4500785
 entry	Amphimérine ou mieux Amphémérine		
-orth	Amphimérine		
-orth	mieux Amphémérine		
 entry	Amphion		
 ref	Évian		
 entry	Amphistome		
@@ -1138,8 +1097,6 @@ entry	Amphorique
 entry	Amphorique. Bruits amporiques		
 pb	759	0763	4500793
 entry	Ampsing ou Ampzing (Jean-Assuérus)		
-orth	Ampsing		
-orth	Ampzing (Jean-Assuérus)		
 entry	Amputations		
 pb	760	0764	4500794
 pb	761	0765	4500795

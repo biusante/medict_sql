@@ -53,7 +53,8 @@ pb	40	0044	4577228
 entry	Pharnaceum		
 pb	41	0045	4577229
 entry	Pharyngien (Nerf)		
-ref	Pharyngien (Plexus) et Maxillaires (Nerfs)		
+ref	Pharyngien (Plexus)		
+ref	Maxillaires (Nerfs)		
 entry	Pharyngien (Plexus)		
 entry	Pharyngien de bock (Nerf)		
 entry	Pharyngienne (Artère)		
@@ -65,8 +66,6 @@ ref	Rhinoscopie
 entry	Pharyngo-staphylin (Muscle)		
 ref	Pharynx		
 entry	Pharyngotomie, Pharyngectomie		
-orth	Pharyngotomie		
-orth	Pharyngectomie		
 pb	43	0047	4577231
 pb	44	0048	4577232
 pb	45	0049	4577233
@@ -231,8 +230,6 @@ entry	Phénylbutyrique (Acide)
 pb	147	0151	4577335
 entry	Phénylbutyrolactone		
 entry	Phénylcarbamides ou phénylurées		
-orth	Phénylcarbamides		
-orth	phénylurées		
 entry	Phénylcarbamique (Acide)		
 entry	Phénylcarbimide		
 entry	Phénylcarbinol		
@@ -245,8 +242,6 @@ entry	Phénylcyanurique (Acide)
 ref	Phénylcarbimide		
 entry	Phénylcystine		
 entry	Phenyle-mercure ou mercure-phényle		
-orth	Phenyle-mercure		
-orth	mercure-phényle		
 ref	Phényle		
 pb	149	0153	4577337
 entry	Phénylène		
@@ -274,8 +269,6 @@ pb	152	0156	4577340
 entry	Phénylmercapturique (Acide)		
 entry	Phénylméthanes		
 entry	Phénylméthylacétone ou acétophénone		
-orth	Phénylméthylacétone		
-orth	acétophénone		
 entry	Phénylnaphtaline		
 entry	Phénylnaphtylcarbazol		
 entry	Phényloxamide (Di-)		
@@ -295,24 +288,16 @@ entry	Phénylsuccinique (Di- (Acide))
 pb	154	0158	4577342
 entry	Phénylsuccinique (Di-(Acide))		
 entry	Phénylsulfocarbamide ou phénylsulfo-urée		
-orth	Phénylsulfocarbamide		
-orth	phénylsulfo-urée		
 entry	Phénylsulfocarbimide		
 entry	Phénylsulfopropionique (Acide)		
 entry	Phénylsulfo-urée		
 ref	Phénylsulfocarbamide		
 entry	Phénylsulfureux et phénylsulfurique (Acide)		
-orth	Phénylsulfureux		
-orth	phénylsulfurique (Acide)		
 pb	155	0159	4577343
 entry	Phényltolyle ou pényltoluène		
-orth	Phényltolyle		
-orth	pényltoluène		
 entry	Phénylurée		
 entry	Phénylvalériques (Acide)		
 entry	Phénylxylène ou xylylbenzine		
-orth	Phénylxylène		
-orth	xylylbenzine		
 entry	Phéorétine		
 entry	Phéosine		
 entry	Phérécyde		
@@ -488,7 +473,8 @@ pb	286	0290	4577474
 pb	287	0291	4577475
 entry	Phlébolithes		
 entry	Phlébotome		
-ref	Saignée et Lancette		
+ref	Saignée		
+ref	Lancette		
 entry	Phlegmasie		
 ref	Inflammation		
 entry	Phlegmatia alba dolens		
@@ -577,9 +563,6 @@ pb	336	0340	4577524
 entry	Phormium (Forst)		
 pb	337	0341	4577525
 entry	Phorone, Camphorone ou Camphoryle		
-orth	Phorone		
-orth	Camphorone		
-orth	Camphoryle		
 pb	338	0342	4577526
 entry	Phosène		
 entry	Phosgénite		
@@ -616,8 +599,6 @@ pb	358	0362	4577546
 pb	359	0363	4577547
 pb	360	0364	4577548
 entry	Phosphites et Hypophosphites		
-orth	Phosphites		
-orth	Hypophosphites		
 pb	361	0365	4577549
 pb	362	0366	4577550
 pb	363	0367	4577551
@@ -644,8 +625,6 @@ pb	378	0382	4577566
 pb	379	0383	4577567
 pb	380	0384	4577568
 entry	Phosphore. Pharmacologie et thérapeutique		
-orth	Phosphore. Pharmacologie		
-orth	thérapeutique		
 pb	381	0385	4577569
 pb	382	0386	4577570
 entry	Phosphore. Hygiène industrielle		
@@ -703,8 +682,6 @@ pb	419	0423	4577607
 pb	420	0424	4577608
 pb	421	0425	4577609
 entry	Photomètres, Photométrie		
-orth	Photomètres		
-orth	Photométrie		
 pb	422	0426	4577610
 pb	423	0427	4577611
 pb	424	0428	4577612
@@ -1157,7 +1134,8 @@ entry	Phyllis (L.)
 pb	820	0824	4578008
 entry	Phyllobate		
 entry	Phyllobothridés		
-ref	Tétraphylles et Cestoïdes		
+ref	Tétraphylles		
+ref	Cestoïdes		
 entry	Phyllocyanine		
 ref	Chlorophylle		
 entry	Phyllodactyle		
@@ -1293,8 +1271,6 @@ entry	Picrotoxine
 entry	Picrotoxine. Chimie		
 pb	856	0860	4578044
 entry	Action physiologique et thérapeutique		
-orth	Action physiologique		
-orth	thérapeutique		
 ref	Coque de Levant		
 entry	Pictet (François-Jules)		
 entry	Pictorius (Georg)		

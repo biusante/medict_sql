@@ -16,14 +16,10 @@ entry	Palfyn (Jean)
 pb	5	0009	4574073
 pb	6	0010	4574074
 entry	Palicourea, Palicurea		
-orth	Palicourea		
-orth	Palicurea		
 entry	Botanique		
 entry	Emploi		
 pb	7	0011	4574075
 entry	Palicourea, Palicurea		
-orth	Palicourea		
-orth	Palicurea		
 entry	Emploi		
 entry	Palicourine		
 ref	Palicourea		
@@ -32,8 +28,6 @@ entry	Palinurus
 entry	Palisot de Beauvois (Ambroise-Marie-François-Joseph, baron de)		
 pb	8	0012	4574076
 entry	Palissandre, Palixandre		
-orth	Palissandre		
-orth	Palixandre		
 entry	Palissy (Bernard)		
 pb	9	0013	4574077
 entry	Paliure		
@@ -84,8 +78,6 @@ pb	24	0028	4574092
 entry	Palmier de la thébaïde		
 entry	Palmier à vin		
 entry	Palmiers ou palmacées		
-orth	Palmiers		
-orth	palmacées		
 pb	25	0029	4574093
 entry	Palmi-juncus		
 entry	Palmipèdes		
@@ -97,8 +89,6 @@ ref	Ricinélaïdique (Acide)
 pb	29	0033	4574097
 entry	Palmiste		
 entry	Palmiste poison, palmiste rouge		
-orth	Palmiste poison		
-orth	palmiste rouge		
 entry	Palmitamide		
 entry	Palmitine		
 pb	30	0034	4574098
@@ -117,8 +107,6 @@ entry	Palmulae
 entry	Palo		
 entry	Palocada		
 entry	Palo maria ou bois marie		
-orth	Palo maria		
-orth	bois marie		
 entry	Palommier		
 pb	35	0039	4574103
 entry	Palpation		
@@ -177,7 +165,8 @@ entry	Paludicelle
 entry	Paludine		
 pb	81	0085	4574149
 entry	Paludisme		
-ref	Impaludisme et Intermittentes (Fièvres)		
+ref	Impaludisme		
+ref	Intermittentes (Fièvres)		
 entry	Pam		
 entry	Pamard (Les)		
 pb	82	0086	4574150
@@ -190,8 +179,6 @@ entry	Pamphile
 pb	84	0088	4574152
 entry	Pampi		
 entry	Pamplemousse ou pampelmousse		
-orth	Pamplemousse		
-orth	pampelmousse		
 entry	Pan		
 entry	Pana		
 entry	Panacée		
@@ -224,9 +211,6 @@ pb	99	0103	4574167
 entry	Panaroli (Domenico)		
 entry	Panassou (Eau minérale de)		
 entry	Panasu, Panaz, Panagon		
-orth	Panasu		
-orth	Panaz		
-orth	Panagon		
 entry	Panax		
 pb	100	0104	4574168
 entry	Panax Asclepium		
@@ -241,12 +225,7 @@ pb	101	0105	4574169
 entry	Panckow (Thomas)		
 entry	Pancoast (Joseph)		
 entry	Pancoro, pancuroo		
-orth	Pancoro		
-orth	pancuroo		
 entry	Pancrace, Pancrais ou Pancratier		
-orth	Pancrace		
-orth	Pancrais		
-orth	Pancratier		
 pb	102	0106	4574170
 entry	Pancrais		
 ref	Pancrace		
@@ -371,8 +350,6 @@ pb	189	0193	4574257
 entry	Panichekai		
 entry	Panios		
 entry	Panis cuculli ou Pain de coucou		
-orth	Panis cuculli		
-orth	Pain de coucou		
 pb	190	0194	4574258
 entry	Panis panisse		
 entry	Panizza (Bartolomeo)		
@@ -664,8 +641,6 @@ pb	426	0430	4574494
 pb	427	0431	4574495
 entry	Papalu		
 entry	Papangaye, Paponge		
-orth	Papangaye		
-orth	Paponge		
 entry	Papapa-Carica		
 ref	Papayer		
 entry	Papapara		
@@ -752,9 +727,6 @@ entry	Papiru
 entry	Papius (Carl Wilhelm)		
 pb	486	0490	4574554
 entry	Papouasie ou Terre des papous ou Nouvelle-Guinée		
-orth	Papouasie		
-orth	Terre des papous		
-orth	Nouvelle-Guinée		
 pb	487	0491	4574555
 pb	488	0492	4574556
 pb	489	0493	4574557
@@ -776,8 +748,6 @@ pb	500	0504	4574568
 entry	Papyrine		
 entry	Papyrius		
 entry	Papyrus, Papyrus d'Égypte		
-orth	Papyrus		
-orth	Papyrus d'Égypte		
 entry	Paquerette		
 entry	Paquette		
 entry	Paquover		

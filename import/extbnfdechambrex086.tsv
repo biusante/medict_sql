@@ -68,8 +68,6 @@ pb	46	0050	4585458
 entry	Sarlandière (Jean-Baptiste)		
 pb	47	0051	4585459
 entry	Sarmianta ou Sarmiente		
-orth	Sarmianta		
-orth	Sarmiente		
 pb	48	0052	4585460
 entry	Sarmates		
 ref	Slaves		
@@ -103,8 +101,6 @@ pb	58	0062	4585470
 entry	Sars (Michel)		
 pb	59	0063	4585471
 entry	Sarsa ou Sarza		
-orth	Sarsa		
-orth	Sarza		
 entry	Sarsaparilline		
 ref	Salseparine		
 entry	Sartori (Franz)		
@@ -123,12 +119,8 @@ pb	64	0068	4585476
 entry	Sassafride		
 entry	Sassia		
 entry	Sassonia ou Saxonia (Hercule)		
-orth	Sassonia		
-orth	Saxonia (Hercule)		
 pb	65	0069	4585477
 entry	Satin blanc ou Satinée		
-orth	Satin blanc		
-orth	Satinée		
 ref	Lunaire		
 entry	Satin-Wood		
 entry	Saturation		
@@ -136,7 +128,8 @@ entry	Satureia
 ref	Sarriette		
 entry	Saturne		
 entry	Saturnines (Maladies)		
-ref	Plomb et Paralysie		
+ref	Plomb		
+ref	Paralysie		
 entry	Satyriasis		
 pb	66	0070	4585478
 pb	67	0071	4585479
@@ -144,8 +137,6 @@ pb	68	0072	4585480
 pb	69	0073	4585481
 pb	70	0074	4585482
 entry	Satyrion ou Satyrium		
-orth	Satyrion		
-orth	Satyrium		
 entry	Saubuse (Eau minérale de)		
 entry	Saucats (Eau minérale de)		
 pb	71	0075	4585483
@@ -195,8 +186,6 @@ pb	94	0098	4585506
 pb	95	0099	4585507
 pb	96	0100	4585508
 entry	Saur ou Sauer (Ludwig)		
-orth	Saur		
-orth	Sauer (Ludwig)		
 entry	Saurel (Louis-Jules)		
 pb	97	0101	4585509
 entry	Sauriens		
@@ -232,7 +221,8 @@ pb	111	0115	4585523
 pb	112	0116	4585524
 pb	113	0117	4585525
 entry	Sauve-vie		
-ref	Asplenium et Doradille		
+ref	Asplenium		
+ref	Doradille		
 entry	Sauxillanges (Eau minérale de)		
 pb	114	0118	4585526
 entry	Savants (Hygiène professionnelle des)		
@@ -256,8 +246,6 @@ entry	Savigny (Les)
 pb	120	0124	4585532
 entry	Savons		
 entry	Savons. Chimie et pharmacie		
-orth	Savons. Chimie		
-orth	pharmacie		
 pb	121	0125	4585533
 pb	122	0126	4585534
 pb	123	0127	4585535
@@ -271,8 +259,6 @@ entry	Savona (Philippe)
 pb	128	0132	4585540
 entry	Savonarola (Jean-Michel)		
 entry	Savonnier ou Savonier		
-orth	Savonnier		
-orth	Savonier		
 pb	129	0133	4585541
 pb	130	0134	4585542
 entry	Savonniers (Hygiène professionnelle et industrielle)		
@@ -282,8 +268,6 @@ pb	132	0136	4585544
 pb	133	0137	4585545
 pb	134	0138	4585546
 entry	Savonules, Saponules		
-orth	Savonules		
-orth	Saponules		
 entry	Savory (John)		
 entry	Savot (Louis)		
 pb	135	0139	4585547
@@ -380,8 +364,6 @@ entry	Scandix
 ref	Cerfeuil		
 entry	Scapha		
 entry	Scaphandres et appareils plongeurs		
-orth	Scaphandres		
-orth	appareils plongeurs		
 pb	201	0205	4585613
 pb	202	0206	4585614
 pb	203	0207	4585615
@@ -470,8 +452,6 @@ entry	Scares
 pb	273	0277	4585685
 pb	274	0278	4585686
 entry	Scarification, Scarificateurs		
-orth	Scarification		
-orth	Scarificateurs		
 pb	275	0279	4585687
 pb	276	0280	4585688
 pb	277	0281	4585689
@@ -677,8 +657,6 @@ entry	Schenk (Les)
 pb	431	0435	4585843
 pb	432	0436	4585844
 entry	Schenkelius ou Schenckels (Dominique)		
-orth	Schenkelius		
-orth	Schenckels (Dominique)		
 entry	Scherb (Les)		
 entry	Scherer (Les)		
 pb	433	0437	4585845
@@ -736,8 +714,6 @@ entry	Schira
 entry	Schizocéphale		
 entry	Schizophyllon (Fr.)		
 entry	Schizotarses ou Scutigère		
-orth	Schizotarses		
-orth	Scutigère		
 pb	458	0462	4585870
 entry	Schizothorax		
 entry	Schkipetars (Les)		
@@ -773,8 +749,6 @@ entry	Schmalz (Les)
 pb	472	0476	4585884
 pb	473	0477	4585885
 entry	Schmaus ou Schmai (Leonhard)		
-orth	Schmaus		
-orth	Schmai (Leonhard)		
 entry	Schmeisser (Johann-Gottfried)		
 pb	474	0478	4585886
 entry	Schmelkes (Gottfried)		
@@ -802,16 +776,12 @@ entry	Schmieder (Sigismond)
 entry	Schmiederer (Joseph-Ignatz)		
 pb	487	0491	4585899
 entry	Schmith ou Smith (Amandus-Wilhelm)		
-orth	Schmith		
-orth	Smith (Amandus-Wilhelm)		
 entry	Schmitson (Anton)		
 entry	Schmitt (Les)		
 pb	488	0492	4585900
 entry	Schmitz (Les)		
 entry	Schmuck (Edmond-Joseph)		
 entry	Schmuck ou Schmucker (Martin)		
-orth	Schmuck		
-orth	Schmucker (Martin)		
 entry	Schmucker (Jean-Lebrecht)		
 pb	489	0493	4585901
 entry	Schmutziger (J.-Heinrich)		
@@ -1002,8 +972,6 @@ pb	575	0579	4585987
 entry	Schwägrichen (Christian-Friedrich)		
 pb	576	0580	4585988
 entry	Schwalbach ou Langenschwalbach (Eaux minérales de)		
-orth	Schwalbach		
-orth	Langenschwalbach (Eaux minérales de)		
 pb	577	0581	4585989
 pb	578	0582	4585990
 pb	579	0583	4585991
@@ -1033,8 +1001,6 @@ pb	589	0593	4586001
 entry	Schweighäuser (Jacob-Friedrich)		
 pb	590	0594	4586002
 entry	Schweikert ou Schweickert (Georg-August-Benjamin)		
-orth	Schweikert		
-orth	Schweickert (Georg-August-Benjamin)		
 pb	591	0595	4586003
 entry	Sckweinsberg (Heinrich)		
 entry	Schweitzer (Les)		
@@ -1042,15 +1008,11 @@ entry	Schweizer (Matthias-Eduard)
 pb	592	0596	4586004
 entry	Schwencke (Thomas)		
 entry	Schwenckfeld ou Schwenkfeld (Caspar)		
-orth	Schwenckfeld		
-orth	Schwenkfeld (Caspar)		
 pb	593	0597	4586005
 entry	Schwilgué (C. J. A.)		
 pb	594	0598	4586006
 entry	Schwörer (Ignaz)		
 entry	Schyron (Jean), ou mieux Scurron		
-orth	Schyron (Jean)		
-orth	mieux Scurron		
 pb	595	0599	4586007
 entry	Sciatique (Grand nerf)		
 entry	Sciatique (Grand nerf). Anatomie		
@@ -1181,8 +1143,6 @@ entry	Scinque
 entry	Scirpe		
 pb	699	0703	4586111
 entry	Scissiparité ou Fissiparité		
-orth	Scissiparité		
-orth	Fissiparité		
 ref	Génération		
 entry	Scissure		
 entry	Scitaminées		
@@ -1199,11 +1159,13 @@ ref	Salvus
 entry	Sclarée		
 ref	Sauge		
 entry	Sclérème		
-ref	nouveau-né et Sclérodermie		
+ref	nouveau-né		
+ref	Sclérodermie		
 entry	Scleria		
 pb	707	0711	4586119
 entry	Scléro-choroïdite		
-ref	Choroïde et Sclérotique		
+ref	Choroïde		
+ref	Sclérotique		
 entry	Scléroderme		
 ref	Lycoperdacées		
 entry	Sclérodermie		

@@ -4,8 +4,6 @@ pb	[s. pag.]	0003	4541133
 pb	[s. pag.]	0004	4541134
 pb	1	0005	4541135
 entry	Locus Ceruleus ou Ferrugineus		
-orth	Locus Ceruleus		
-orth	Ferrugineus		
 ref	Ventricules		
 entry	Locus Niger (de Soemmerring)		
 entry	Loder (Justus-Christian)		
@@ -89,17 +87,11 @@ pb	68	0072	4541202
 pb	69	0073	4541203
 entry	Loiseleur-deslongchamps (Jean-Louis-Augustin)		
 entry	Lolimma-Raja ou Lolimba-Raja		
-orth	Lolimma-Raja		
-orth	Lolimba-Raja		
 pb	70	0074	4541204
 entry	Lolimma-raja ou Lolimba-raja		
-orth	Lolimma-raja		
-orth	Lolimba-raja		
 entry	Lolium		
 ref	Ivraie		
 entry	Lolo, Lolotier		
-orth	Lolo		
-orth	Lolotier		
 ref	Papayer		
 entry	Lombaires (Artères, Plexus)		
 entry	Lombaires (Artères, Plexus). Artères		
@@ -135,8 +127,6 @@ ref	Dorsal (Grand)
 entry	Lombo-Sacré (Nerf)		
 ref	Lombaire (plexus)		
 entry	Lombric ou Ascaride Lombricoide		
-orth	Lombric		
-orth	Ascaride Lombricoide		
 pb	88	0092	4541222
 pb	89	0093	4541223
 pb	90	0094	4541224
@@ -167,12 +157,8 @@ entry	Long du cou
 entry	Long du cou. Muscle		
 pb	105	0109	4541239
 entry	Long extenseur du pouce, des orteils, etc		
-orth	Long extenseur du pouce		
-orth	des orteils		
 ref	Extenseur		
 entry	Long fléchisseur du gros orteil, des orteils, etc		
-orth	Long fléchisseur du gros orteil		
-orth	des orteils		
 ref	Fléchisseur		
 entry	Long Péronier		
 ref	Péroniers (Muscles)		
@@ -201,8 +187,6 @@ entry	Lordose
 entry	Lorry (Anne-Charles)		
 pb	113	0117	4541247
 entry	Lotichius (les), ou Lotich		
-orth	Lotichius (les)		
-orth	Lotich		
 pb	114	0118	4541248
 entry	Lotier (Lotus L.)		
 entry	Lotion		
@@ -222,8 +206,6 @@ pb	127	0131	4541261
 pb	128	0132	4541262
 entry	Lotos		
 entry	Lote ou Lotte		
-orth	Lote		
-orth	Lotte		
 pb	129	0133	4541263
 entry	Lotus		
 ref	Lotier		
@@ -287,8 +269,6 @@ pb	164	0168	4541298
 pb	165	0169	4541299
 pb	166	0170	4541300
 entry	Lucilie, Lucilia Hominivorax		
-orth	Lucilie		
-orth	Lucilia Hominivorax		
 pb	167	0171	4541301
 pb	168	0172	4541302
 pb	169	0173	4541303
@@ -301,13 +281,12 @@ pb	172	0176	4541306
 entry	Luculia		
 entry	Lucuma		
 entry	Ludger-Lallemand ou mieux Lallemand		
-orth	Ludger-Lallemand		
-orth	mieux Lallemand		
 entry	Ludia		
 pb	173	0177	4541307
 entry	Ludolff (Les deux)		
 entry	Luette		
-ref	Bouche et Palais		
+ref	Bouche		
+ref	Palais		
 entry	Luffa (Cav.)		
 pb	174	0178	4541308
 pb	175	0179	4541309
@@ -337,7 +316,8 @@ pb	188	0192	4541322
 pb	189	0193	4541323
 pb	190	0194	4541324
 entry	Lunettes		
-ref	Besicles et Verres		
+ref	Besicles		
+ref	Verres		
 entry	Lunule		
 ref	Ongle		
 entry	Luparia		
@@ -355,8 +335,6 @@ pb	195	0199	4541329
 pb	196	0200	4541330
 pb	197	0201	4541331
 entry	Lupulite, ou Lupuline		
-orth	Lupulite		
-orth	Lupuline		
 ref	Lupulin		
 entry	Lupulus		
 ref	Houblon		
@@ -555,8 +533,6 @@ entry	Lyciet
 entry	Lycion		
 pb	373	0377	4541507
 entry	Lycoctonum ou Tue-Loup		
-orth	Lycoctonum		
-orth	Tue-Loup		
 ref	Aconit		
 entry	Lycogolacées		
 ref	Lycoperdacées		
@@ -646,17 +622,12 @@ pb	442	0446	4541576
 pb	443	0447	4541577
 pb	444	0448	4541578
 entry	Lymphatique (Système). Du contenu du système lymphatique ou du chyle et de la lymphe		
-orth	Lymphatique (Système). Du contenu du système lymphatique		
-orth	du chyle		
-orth	de la lymphe		
 pb	445	0449	4541579
 pb	446	0450	4541580
 pb	447	0451	4541581
 pb	448	0452	4541582
 pb	449	0453	4541583
 entry	Lymphatique (Système). Physiologie du système lymphatique. Origine et cours de la lymphe		
-orth	Lymphatique (Système). Physiologie du système lymphatique. Origine		
-orth	cours de la lymphe		
 pb	450	0454	4541584
 pb	451	0455	4541585
 pb	452	0456	4541586
@@ -685,8 +656,6 @@ pb	474	0478	4541608
 entry	Lymphatique (Système)		
 entry	Pathologie		
 entry	Lymphatique (Système). Pathologie. Historique et délimitation		
-orth	Lymphatique (Système). Pathologie. Historique		
-orth	délimitation		
 pb	475	0479	4541609
 pb	476	0480	4541610
 pb	477	0481	4541611
@@ -809,8 +778,6 @@ entry	Lysuroidées
 entry	Lysses		
 ref	Rage		
 entry	Lythraire, Lythrum		
-orth	Lythraire		
-orth	Lythrum		
 ref	Salicaire		
 pb	[s. pag.]	0582	4541712
 pb	579	0583	4541713
@@ -828,8 +795,6 @@ pb	581	0585	4541715
 pb	582	0586	4541716
 entry	Macbride (David)		
 entry	Macène ou Macine		
-orth	Macène		
-orth	Macine		
 entry	Macer (Floridus)		
 pb	583	0587	4541717
 entry	Macérations anatomiques		
@@ -925,8 +890,6 @@ entry	Macrocosme
 ref	Microcosme		
 entry	Macrodactylie		
 entry	Macropie et Micropie		
-orth	Macropie		
-orth	Micropie		
 pb	633	0637	4541767
 entry	Macropodie		
 entry	Macroprosopie		
@@ -951,8 +914,6 @@ pb	649	0653	4541783
 pb	650	0654	4541784
 entry	Madai (David-Samuel de)		
 entry	Madar, Mudar		
-orth	Madar		
-orth	Mudar		
 entry	Madarose		
 entry	Madeleine de Flourens		
 ref	Magdeleine		
@@ -966,8 +927,6 @@ entry	Madrépores
 entry	Maerua		
 pb	655	0659	4541789
 entry	Mafoutre, Mafoutra (Bois de)		
-orth	Mafoutre		
-orth	Mafoutra (Bois de)		
 entry	Magati (Les deux frères)		
 entry	Magdaléon		
 pb	656	0660	4541790
@@ -1011,7 +970,8 @@ entry	Magistère
 pb	688	0692	4541822
 entry	Magnac (Eau minérale de)		
 entry	Magnanerie		
-ref	Manufactures et Ventilation		
+ref	Manufactures		
+ref	Ventilation		
 entry	Magnésie		
 entry	Magnésie. Chimie		
 pb	689	0693	4541823

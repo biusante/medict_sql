@@ -184,8 +184,6 @@ pb	163	0167	4566259
 pb	164	0168	4566260
 pb	165	0169	4566261
 entry	Morve et farcin chez l'homme		
-orth	Morve		
-orth	farcin chez l'homme		
 pb	166	0170	4566262
 pb	167	0171	4566263
 pb	168	0172	4566264
@@ -231,9 +229,6 @@ pb	207	0211	4566303
 entry	Mosambe		
 ref	Cleome		
 entry	Moscatelline, Moschatelline, Moschatella		
-orth	Moscatelline		
-orth	Moschatelline		
-orth	Moschatella		
 ref	Adoxa		
 entry	Moscati (Pierre)		
 pb	208	0212	4566304
@@ -246,8 +241,6 @@ entry	Mothe
 entry	Motherby (George)		
 pb	210	0214	4566306
 entry	Motilité et Motricité		
-orth	Motilité		
-orth	Motricité		
 entry	Mott (Valentine)		
 pb	211	0215	4566307
 entry	Mouate		
@@ -264,8 +257,6 @@ ref	Scarifications
 entry	Mouchu		
 entry	Moudang (Eau minérale de)		
 entry	Moufet (Thomas) ou Muffett		
-orth	Moufet (Thomas)		
-orth	Muffett		
 pb	215	0219	4566311
 entry	Moufette		
 pb	216	0220	4566312
@@ -279,8 +270,6 @@ ref	Phormium
 entry	Moules		
 entry	Zoologie		
 entry	Moules. Bromatologie et pathologie		
-orth	Moules. Bromatologie		
-orth	pathologie		
 pb	217	0221	4566313
 pb	218	0222	4566314
 pb	219	0223	4566315
@@ -315,9 +304,6 @@ entry	Mousse
 ref	Mousses		
 entry	Moussembey		
 entry	Mousseron ou, suivant une ancienne orthographe, Mouceron		
-orth	Mousseron ou		
-orth	suivant une ancienne orthographe		
-orth	Mouceron		
 pb	229	0233	4566325
 pb	230	0234	4566326
 entry	Mousses		
@@ -327,8 +313,6 @@ entry	Mousse de Corse
 entry	Mousse de Corse. Botanique		
 pb	233	0237	4566329
 entry	Mousse de Corse. Matière médicale et pharmacologie		
-orth	Mousse de Corse. Matière médicale		
-orth	pharmacologie		
 pb	234	0238	4566330
 entry	Mousse aquatique		
 ref	Conferves		
@@ -352,7 +336,8 @@ ref	Conferves
 ref	Varecs		
 ref	Polypiers		
 entry	Mousses membraneuses		
-ref	Tremelles et Nostocs		
+ref	Tremelles		
+ref	Nostocs		
 entry	Mousse de mer		
 ref	Mousse de Corse		
 entry	Mousse du nord		
@@ -393,16 +378,11 @@ pb	251	0255	4566347
 pb	252	0256	4566348
 pb	253	0257	4566349
 entry	Moutardier, Grand moutardier, Moutardier de Sénard		
-orth	Moutardier		
-orth	Grand moutardier		
-orth	Moutardier de Sénard		
 entry	Moutiers (Eau mère de)		
 pb	254	0258	4566350
 entry	Mouton		
 pb	255	0259	4566351
 entry	Moutouchi ou Moutouchia		
-orth	Moutouchi		
-orth	Moutouchia		
 ref	Pterocarpus		
 entry	Mouture		
 entry	Mouvement		
@@ -521,8 +501,6 @@ entry	Mucates
 entry	Mucédinées		
 pb	346	0350	4566442
 entry	Mucedo, mucédines		
-orth	Mucedo		
-orth	mucédines		
 ref	Mucédinées		
 entry	Mucherus		
 entry	Muchucunda		
@@ -556,8 +534,6 @@ entry	Mudarine
 entry	Mudge (John)		
 pb	352	0356	4566448
 entry	Mufle de boeuf, de chien, etc		
-orth	Mufle de boeuf		
-orth	de chien		
 ref	Muflier		
 entry	Muflier		
 pb	353	0357	4566449
@@ -722,9 +698,11 @@ entry	Muratori (Ludovico-Antonio)
 entry	Mure		
 ref	Mûrier		
 entry	Mure sauvage		
-ref	Ronce et Rubus		
+ref	Ronce		
+ref	Rubus		
 entry	Mure des dames		
-ref	Ronce et Rubus		
+ref	Ronce		
+ref	Rubus		
 entry	Murènes		
 pb	477	0481	4566573
 entry	Murex		
@@ -757,14 +735,10 @@ ref	Bananier
 entry	Musa (Antonius)		
 pb	485	0489	4566581
 entry	Musandinus ou Musandino (Pietro)		
-orth	Musandinus		
-orth	Musandino (Pietro)		
 entry	Musanga		
 pb	486	0490	4566582
 entry	Musc		
 entry	Musc. Matière médicale et pharmacologie		
-orth	Musc. Matière médicale		
-orth	pharmacologie		
 pb	487	0491	4566583
 pb	488	0492	4566584
 entry	Musc. Emploi médical		
@@ -790,8 +764,6 @@ entry	Muscari
 pb	501	0505	4566597
 entry	Muscat		
 entry	Muscatelle, Muscatelline		
-orth	Muscatelle		
-orth	Muscatelline		
 ref	Adoxa		
 entry	Muscle de Guthrie		
 entry	Muscle de Horner		

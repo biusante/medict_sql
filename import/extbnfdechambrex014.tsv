@@ -20,8 +20,6 @@ pb	14	0018	4508775
 pb	15	0019	4508776
 pb	16	0020	4508777
 entry	Céphalalgie, Céphalée		
-orth	Céphalalgie		
-orth	Céphalée		
 pb	17	0021	4508778
 pb	18	0022	4508779
 pb	19	0023	4508780
@@ -54,7 +52,8 @@ pb	41	0045	4508802
 pb	42	0046	4508803
 entry	Céphalidiens		
 ref	Gastéropodes		
-ref	Hétéropodes et Ptéropodes		
+ref	Hétéropodes		
+ref	Ptéropodes		
 entry	Céphalique (Veine)		
 ref	Bras		
 entry	Céphalocyste		
@@ -228,9 +227,6 @@ entry	Cerneau
 entry	Cérocome		
 pb	153	0157	4508914
 entry	Céroène, Cérouène ou Cirouène		
-orth	Céroène		
-orth	Cérouène		
-orth	Cirouène		
 entry	Céroléine		
 entry	Céromancie		
 entry	Céromel		
@@ -245,14 +241,10 @@ ref	Céroxylon
 entry	Céroxylon		
 pb	155	0159	4508916
 entry	Céruse, Cérusiers		
-orth	Céruse		
-orth	Cérusiers		
 ref	Plomb		
 entry	Cervaria		
 entry	Cerveau		
 entry	Cerveau. Anatomie, Physiologie		
-orth	Cerveau. Anatomie		
-orth	Physiologie		
 pb	156	0160	4508917
 pb	157	0161	4508918
 pb	158	0162	4508919
@@ -540,9 +532,6 @@ pb	429	0433	4509190
 pb	430	0434	4509191
 pb	431	0435	4509192
 entry	Cerveau. Pathologie. Tumeurs, Anévrysmes, Abcès		
-orth	Cerveau. Pathologie. Tumeurs		
-orth	Anévrysmes		
-orth	Abcès		
 pb	432	0436	4509193
 pb	433	0437	4509194
 pb	434	0438	4509195
@@ -763,8 +752,6 @@ pb	604	0608	4509365
 entry	Emploi médical		
 ref	Lichen d'Islande		
 entry	Cétrarin, Cétrarine		
-orth	Cétrarin		
-orth	Cétrarine		
 ref	Cétrarique (acide)		
 entry	Cétrarique (Acide)		
 pb	605	0609	4509366
@@ -843,12 +830,9 @@ pb	639	0643	4509400
 pb	640	0644	4509401
 pb	641	0645	4509402
 entry	Chaldéens ou Chardims		
-orth	Chaldéens		
-orth	Chardims		
-ref	Sémitique (race) et Kurdistan		
+ref	Sémitique (race)		
+ref	Kurdistan		
 entry	Chaldette (Eau minérale de), ou La Chaldette		
-orth	Chaldette (Eau minérale de)		
-orth	La Chaldette		
 entry	Chaleur (Physique)		
 pb	642	0646	4509403
 pb	643	0647	4509404

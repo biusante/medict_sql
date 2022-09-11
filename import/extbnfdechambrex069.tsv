@@ -119,8 +119,6 @@ pb	112	0116	4571782
 pb	113	0117	4571783
 pb	114	0118	4571784
 entry	Oreille. Développement et anatomie comparée		
-orth	Oreille. Développement		
-orth	anatomie comparée		
 pb	115	0119	4571785
 pb	116	0120	4571786
 pb	117	0121	4571787
@@ -282,8 +280,6 @@ pb	262	0266	4571932
 pb	263	0267	4571933
 pb	264	0268	4571934
 entry	Oreille. Pathologie. Des engorgements et de l'ankylose des articulations des osselets de l'ouïe		
-orth	Oreille. Pathologie. Des engorgements		
-orth	de l'ankylose des articulations des osselets de l'ouïe		
 pb	265	0269	4571935
 pb	266	0270	4571936
 pb	267	0271	4571937
@@ -323,8 +319,6 @@ pb	296	0300	4571966
 entry	Surdité nerveuse		
 ref	Surdité		
 entry	Fractures et lésions organiques du Rocher		
-orth	Fractures		
-orth	lésions organiques du Rocher		
 ref	Crâne		
 entry	Oreille. Pathologie. Bibliographie		
 pb	297	0301	4571967
@@ -397,7 +391,7 @@ pb	361	0365	4572031
 pb	362	0366	4572032
 pb	363	0367	4572033
 pb	364	0368	4572034
-entry	O'reilly (Charles)		
+entry	reilly (Charles)		
 entry	Orelline		
 entry	Orellus (Jean-Pierre)		
 entry	Orense (Eaux minérales d')		
@@ -600,8 +594,6 @@ ref	Organe
 entry	Organogénie		
 entry	Organoleptique (Propriété)		
 entry	Organologie, Organographie		
-orth	Organologie		
-orth	Organographie		
 ref	Organe		
 entry	Organo-métalliques (Composés ou radicaux)		
 pb	538	0542	4572208
@@ -618,7 +610,8 @@ pb	542	0546	4572212
 entry	Orgelet		
 ref	Paupières		
 entry	Orgueil (Monomanie de l')		
-ref	Monomanie et paralysie générale		
+ref	Monomanie		
+ref	paralysie générale		
 entry	Oriachloe		
 entry	Oribase		
 pb	543	0547	4572213
@@ -658,8 +651,6 @@ pb	558	0562	4572228
 pb	559	0563	4572229
 entry	Ormier		
 entry	Orne ou Ornier		
-orth	Orne		
-orth	Ornier		
 entry	Orne (Joseph)		
 entry	Ornière		
 entry	Ornithodelphes		
@@ -743,14 +734,10 @@ pb	606	0610	4572276
 pb	607	0611	4572277
 pb	608	0612	4572278
 entry	Oerslev ou Erslev (Jens-Peder)		
-orth	Oerslev		
-orth	Erslev (Jens-Peder)		
 entry	Oersted (Jean-Chrétien)		
 pb	609	0613	4572279
 pb	610	0614	4572280
 entry	Orta ou Huerta (Garcia de)		
-orth	Orta		
-orth	Huerta (Garcia de)		
 pb	611	0615	4572281
 entry	Ortalli (Franz)		
 entry	Ortega (Les)		
@@ -766,8 +753,6 @@ pb	618	0622	4572288
 pb	619	0623	4572289
 entry	Pathologie chirurgicale		
 entry	Orteils. Pathologie chirurgicale. Anomalies et difformités		
-orth	Orteils. Pathologie chirurgicale. Anomalies		
-orth	difformités		
 pb	620	0624	4572290
 pb	621	0625	4572291
 pb	622	0626	4572292
@@ -832,8 +817,6 @@ pb	677	0681	4572347
 pb	678	0682	4572348
 pb	679	0683	4572349
 entry	Orteils. Pathologie chirurgicale. Lésions vitales et organiques		
-orth	Orteils. Pathologie chirurgicale. Lésions vitales		
-orth	organiques		
 pb	680	0684	4572350
 pb	681	0685	4572351
 pb	682	0686	4572352

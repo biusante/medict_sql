@@ -107,8 +107,6 @@ entry	Trèfle
 pb	55	0059	4594184
 entry	Tréguier (Station marine)		
 entry	Tréhala ou Tricala		
-orth	Tréhala		
-orth	Tricala		
 ref	Larin		
 entry	Tréhalose		
 entry	Treitz (Wenzel)		
@@ -158,10 +156,12 @@ pb	81	0085	4594210
 pb	82	0086	4594211
 pb	83	0087	4594212
 entry	Trépanation		
-ref	Crâne et Trépan		
+ref	Crâne		
+ref	Trépan		
 entry	Trépang		
 entry	Tréphines		
-ref	Craniotomie et Trépan		
+ref	Craniotomie		
+ref	Trépan		
 entry	Tréport (Le) (Station marine)		
 ref	Le Tréport		
 entry	Trescléoux (Eau minérale de)		
@@ -238,8 +238,6 @@ pb	112	0116	4594241
 entry	Trichilla		
 pb	113	0117	4594242
 entry	Trichine, Trichinose		
-orth	Trichine		
-orth	Trichinose		
 pb	114	0118	4594243
 pb	115	0119	4594244
 pb	116	0120	4594245
@@ -296,8 +294,6 @@ pb	166	0170	4594295
 pb	167	0171	4594296
 pb	168	0172	4594297
 entry	Trichine, trichinose		
-orth	Trichine		
-orth	trichinose		
 pb	169	0173	4594298
 pb	170	0174	4594299
 pb	171	0175	4594300
@@ -377,8 +373,6 @@ entry	Triéthylarsine
 entry	Triéthylbenzine		
 entry	Triéthylbismuthine		
 entry	Triéthylborine ou Boréthyle		
-orth	Triéthylborine		
-orth	Boréthyle		
 entry	Triéthylcarbinol		
 entry	Triéthylglycocolle		
 ref	Glycocolle		
@@ -393,8 +387,6 @@ ref	Éthylphosphine
 entry	Triéthylrosaniline		
 entry	Triéthylsilicol		
 entry	Triéthylstibine ou Stibéthyle		
-orth	Triéthylstibine		
-orth	Stibéthyle		
 entry	Triéthylurée		
 ref	Éthylurée		
 entry	Trifolium		
@@ -404,14 +396,10 @@ pb	210	0214	4594339
 entry	Trigles		
 ref	Grondins		
 entry	Triglycérine ou Triglycérique (Alcool)		
-orth	Triglycérine		
-orth	Triglycérique (Alcool)		
 ref	Polyglycériques (Alcools)		
 entry	Triglycide		
 ref	Polyglycériques (Alcools)		
 entry	Triglycolamidique (Acide) ou Triglycolylamine		
-orth	Triglycolamidique (Acide)		
-orth	Triglycolylamine		
 entry	Trigone cérébral		
 ref	Cerveau		
 entry	Trigone vésical		
@@ -449,8 +437,6 @@ pb	233	0237	4594362
 pb	234	0238	4594363
 pb	235	0239	4594364
 entry	Trijumeau (Nerf). Anatomie et physiologie pathologiques		
-orth	Trijumeau (Nerf). Anatomie		
-orth	physiologie pathologiques		
 pb	236	0240	4594365
 pb	237	0241	4594366
 pb	238	0242	4594367
@@ -462,13 +448,11 @@ pb	243	0247	4594372
 entry	Trilaurine		
 entry	Trilithe		
 ref	Celtes		
-ref	et Dolmens		
+ref	Dolmens		
 entry	Triller (Daniel-Wilhelm)		
 pb	244	0248	4594373
 entry	Trillium		
 entry	Trillo ou bains de Charles III (Eaux minérales de)		
-orth	Trillo		
-orth	bains de Charles III (Eaux minérales de)		
 pb	245	0249	4594374
 pb	246	0250	4594375
 entry	Triloculine		
@@ -491,13 +475,9 @@ entry	Triméthyléthylène
 entry	Triméthyléthylméthane		
 pb	249	0253	4594378
 entry	Triméthylglycocolle ou Bétaine		
-orth	Triméthylglycocolle		
-orth	Bétaine		
 ref	Glycocolle		
 entry	Triméthylmélamine		
 entry	Triméthylméthane ou Pseudobutane		
-orth	Triméthylméthane		
-orth	Pseudobutane		
 entry	Triméthylphosphine		
 entry	Triméthylpyrrol		
 pb	250	0254	4594379
@@ -505,8 +485,6 @@ entry	Triméthylstibine
 entry	Trinaphtylcarbinol		
 entry	Trincavella (Vittore)		
 entry	Trinitrine ou Trinitroglycérine		
-orth	Trinitrine		
-orth	Trinitroglycérine		
 ref	Nitroglycérine		
 entry	Trinitrophénique (Acide)		
 ref	Picrique (Acide)		
@@ -536,8 +514,6 @@ entry	Trioxynaphtoquinone
 ref	Oxynaphtoquinone		
 pb	253	0257	4594382
 entry	Trioxyprotéine ou Trioxyde de protéine		
-orth	Trioxyprotéine		
-orth	Trioxyde de protéine		
 ref	Protéine		
 entry	Tripalmitine		
 ref	Trimargarine		
@@ -549,8 +525,6 @@ pb	254	0258	4594383
 entry	Triphénylbenzine		
 entry	Triphénylcarbinol		
 entry	Triphénylène ou Isocrhysène		
-orth	Triphénylène		
-orth	Isocrhysène		
 entry	Triphénylguanidine		
 ref	Phénylguanidine		
 entry	Triphénylmélamine		
@@ -589,8 +563,6 @@ ref	Valérine
 entry	Trnka von Krzowitz (Wenzel)		
 pb	258	0262	4594387
 entry	Trocart ou trois-quarts		
-orth	Trocart		
-orth	trois-quarts		
 pb	259	0263	4594388
 entry	Trochanter		
 ref	Fémur		
@@ -600,9 +572,11 @@ entry	Trochisques
 pb	260	0264	4594389
 pb	261	0265	4594390
 entry	Trochlée		
-ref	Fémur et Humérus		
+ref	Fémur		
+ref	Humérus		
 entry	Trochocéphales		
-ref	Brachycéphales et Crâne		
+ref	Brachycéphales		
+ref	Crâne		
 entry	Troène		
 pb	262	0266	4594391
 entry	Troglodyte		
@@ -614,9 +588,6 @@ entry	Trollière (La) (Eau minérale de)
 ref	La Trollière		
 entry	Trolliet (L.-F.)		
 entry	Trombidiens, Trombidiés ou Trombidides		
-orth	Trombidiens		
-orth	Trombidiés		
-orth	Trombidides		
 pb	264	0268	4594393
 entry	Trombidium		
 pb	265	0269	4594394
@@ -693,22 +664,14 @@ entry	Troxler (Ignaz-Paul-Vitalis)
 pb	301	0305	4594430
 entry	Truestedt (Friedrich-Lebrecht)		
 entry	Truffes et Tubéracés		
-orth	Truffes		
-orth	Tubéracés		
 entry	Truffes et Tubéracés. Botanique		
-orth	Truffes		
-orth	Tubéracés. Botanique		
 pb	302	0306	4594431
 pb	303	0307	4594432
 pb	304	0308	4594433
 entry	Truffes et Tubéracés. Bromatologie		
-orth	Truffes		
-orth	Tubéracés. Bromatologie		
 pb	305	0309	4594434
 pb	306	0310	4594435
 entry	Truffes de cerf ou Fausses truffes		
-orth	Truffes de cerf		
-orth	Fausses truffes		
 ref	Élaphomycètes		
 entry	Truie		
 ref	Porcins		
@@ -717,7 +680,8 @@ pb	307	0311	4594436
 entry	Trygon		
 entry	Tschallener (Johann)		
 entry	Tschoudes		
-ref	Finnois et Russie		
+ref	Finnois		
+ref	Russie		
 entry	Tschugazzis		
 ref	Esquimaux		
 entry	Tsesmé (Eaux minérales de		
@@ -725,16 +689,20 @@ pb	308	0312	4594437
 entry	Tsé-tsé		
 pb	309	0313	4594438
 entry	Tsiganes		
-ref	Bohémiens et France		
+ref	Bohémiens		
+ref	France		
 entry	Tuber		
 ref	Truffe		
 entry	Tuber cinereum		
-ref	Cerveau et Ventricules du cerveau		
+ref	Cerveau		
+ref	Ventricules du cerveau		
 entry	Tubéracés		
 entry	Tubercules mamillaires		
-ref	Cerveau et Ventricules du cerveau		
+ref	Cerveau		
+ref	Ventricules du cerveau		
 entry	Tubercules quadrijumeaux		
-ref	Cerveau et Isthme		
+ref	Cerveau		
+ref	Isthme		
 entry	Tuberculose		
 ref	Phthisie		
 entry	Tubipore		
@@ -886,8 +854,6 @@ entry	Turre (Giorgio di)
 entry	Tuson (Edward-William)		
 pb	416	0420	4594545
 entry	Tussignana ou Tossignana		
-orth	Tussignana		
-orth	Tossignana		
 ref	Pierre		
 entry	Tussilage		
 entry	Botanique		
@@ -919,8 +885,6 @@ entry	Typhacées
 ref	Typha		
 entry	Typhinum		
 entry	Typhlite et Pérityphlite		
-orth	Typhlite		
-orth	Pérityphlite		
 ref	Intestin		
 entry	Typhlops		
 entry	Typhoïde (Fièvre)		
@@ -1145,7 +1109,8 @@ entry	Tzanaki
 ref	Ponos		
 entry	Tziganes		
 ref	Bohémiens		
-ref	France et Caucasiques		
+ref	France		
+ref	Caucasiques		
 entry	Addendum		
 entry	Treyling (Johann-Jakob)		
 pb	[s. pag.]	0634	4594759

@@ -53,8 +53,6 @@ pb	41	0045	4574881
 entry	Paraménispermine		
 entry	Paramide		
 entry	Paramidique ou Paramique (Acide)		
-orth	Paramidique		
-orth	Paramique (Acide)		
 entry	Paramnésie (Lordat)		
 entry	Paramorphine		
 pb	42	0046	4574882
@@ -75,8 +73,6 @@ entry	Parapeptone
 entry	Paraphimosis		
 pb	44	0048	4574884
 entry	Paraphrénitis ou Paraphrénésie		
-orth	Paraphrénitis		
-orth	Paraphrénésie		
 entry	Paraphrosyne		
 entry	Parapicoline		
 entry	Paraplégie		
@@ -111,8 +107,6 @@ ref	Sucre
 entry	Parasalicyle		
 entry	Parasitaires (Monstres)		
 entry	Parasites, Parasitisme		
-orth	Parasites		
-orth	Parasitisme		
 pb	67	0071	4574907
 pb	68	0072	4574908
 pb	69	0073	4574909
@@ -174,7 +168,8 @@ entry	Parat (Philibert)
 pb	118	0122	4574958
 entry	Paratartralique (Acide)		
 entry	Paratartrates		
-ref	Paratartrique et Tartrates		
+ref	Paratartrique		
+ref	Tartrates		
 entry	Paratartrélique (Acide)		
 entry	Paratartrique (Acide)		
 entry	Parathionique (Acide)		
@@ -182,8 +177,6 @@ entry	Paratie-Vayr
 entry	Paratodo		
 pb	119	0123	4574959
 entry	Paratoluique ou Paratoluylique (Acide)		
-orth	Paratoluique		
-orth	Paratoluylique (Acide)		
 pb	120	0124	4574960
 entry	Paratonnerre		
 pb	121	0125	4574961
@@ -194,8 +187,6 @@ entry	Paratura
 entry	Paravas		
 entry	Paravicino (Les deux)		
 entry	Paraxylène ou Paraxylol		
-orth	Paraxylène		
-orth	Paraxylol		
 entry	Paraxylilique (Acide)		
 pb	124	0128	4574964
 entry	Parchappe de Vinay (Jean-Baptiste-Maximien)		
@@ -224,8 +215,6 @@ pb	137	0141	4574977
 pb	138	0142	4574978
 entry	Parelle		
 entry	Parellique (Acide) ou Parelline		
-orth	Parellique (Acide)		
-orth	Parelline		
 entry	Parencéphale		
 entry	Parenchyme		
 pb	139	0143	4574979
@@ -284,8 +273,6 @@ entry	Paria
 entry	Pariatacu		
 entry	Paricine		
 entry	Paridine ou Parine		
-orth	Paridine		
-orth	Parine		
 pb	184	0188	4575024
 entry	Paridol		
 entry	Pariétaire		
@@ -299,9 +286,6 @@ entry	Pariétine
 entry	Pariétique (Acide)		
 pb	187	0191	4575027
 entry	Parigline ou Parilline ou Parillique (Acide)		
-orth	Parigline		
-orth	Parilline		
-orth	Parillique (Acide)		
 entry	Parili		
 entry	Parilline		
 ref	Parigline		
@@ -658,8 +642,6 @@ entry	Parovarium
 ref	Corps de Wolff		
 entry	Paroxybenzamique (Acide)		
 entry	Paroxybenzoïque ou Paraoxybenzoïque (Acide)		
-orth	Paroxybenzoïque		
-orth	Paraoxybenzoïque (Acide)		
 ref	Oxybenzoïque (Acide)		
 entry	Paroxybenzylique (Aldéhyde)		
 entry	Paroxydiphényle		
@@ -678,11 +660,7 @@ entry	Parry (Les deux)
 entry	Parsey (William-Henry)		
 pb	491	0495	4575331
 entry	Parsis ou Ghebers		
-orth	Parsis		
-orth	Ghebers		
 entry	Parson ou Parsons (James)		
-orth	Parson		
-orth	Parsons (James)		
 pb	492	0496	4575332
 entry	Parsons (Usher)		
 entry	Parst		
@@ -737,13 +715,9 @@ entry	Passe-rose
 entry	Passe-satin		
 entry	Passe-velours		
 entry	Passiflore, Passifloracées		
-orth	Passiflore		
-orth	Passifloracées		
 pb	503	0507	4575343
 pb	504	0508	4575344
 entry	Passions, Affections morales		
-orth	Passions		
-orth	Affections morales		
 pb	505	0509	4575345
 pb	506	0510	4575346
 pb	507	0511	4575347
@@ -805,12 +779,8 @@ entry	Pata de Gallareto
 entry	Pata de Gallinazo		
 entry	Pataghi		
 entry	Patagone, Patagonelle		
-orth	Patagone		
-orth	Patagonelle		
 entry	Patagonie		
 entry	Pataoua, Patavoua		
-orth	Pataoua		
-orth	Patavoua		
 entry	Patata		
 pb	545	0549	4575385
 entry	Patata de la Manche		
@@ -925,12 +895,8 @@ pb	626	0630	4575466
 pb	627	0631	4575467
 pb	628	0632	4575468
 entry	Patience ou Grande patience		
-orth	Patience		
-orth	Grande patience		
 entry	Botanique		
 entry	Patience ou Grande patience. Applications thérapeutiques		
-orth	Patience		
-orth	Grande patience. Applications thérapeutiques		
 pb	629	0633	4575469
 pb	630	0634	4575470
 pb	631	0635	4575471
@@ -975,8 +941,6 @@ pb	645	0649	4575485
 entry	Pau de sangue		
 entry	Pauillac (Station Balnéaire)		
 entry	Paul d'Égine, Paulus Aegineta		
-orth	Paul d'Égine		
-orth	Paulus Aegineta		
 pb	646	0650	4575486
 entry	Paul de Mérida		
 pb	647	0651	4575487
@@ -1090,8 +1054,6 @@ entry	Pavage
 ref	Ville		
 entry	Pavala Poola		
 entry	Pavana, Pavane		
-orth	Pavana		
-orth	Pavane		
 entry	Pavel		
 entry	Pavet de Courteille (Charles)		
 pb	726	0730	4575566
@@ -1123,10 +1085,9 @@ entry	Payn (A.)
 pb	736	0740	4575576
 entry	Payne (Henry)		
 entry	Payngk ou Payngh (Ahasverus)		
-orth	Payngk		
-orth	Payngh (Ahasverus)		
 entry	Pays-bas		
-ref	Belgique et Hollande		
+ref	Belgique		
+ref	Hollande		
 entry	Paytamine		
 entry	Paytine		
 pb	737	0741	4575577
@@ -1148,8 +1109,6 @@ entry	Peaslee (Edmund-Randolph)
 pb	742	0746	4575582
 pb	743	0747	4575583
 entry	Articles contenus dans le vingt et unième volume (2e série)		
-orth	Articles contenus dans le vingt		
-orth	unième volume (2e série)		
 pb	744	0748	4575584
 pb	745	0749	4575585
 pb	746	0750	4575586

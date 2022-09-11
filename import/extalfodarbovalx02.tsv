@@ -21,15 +21,11 @@ orth	d'hygiène vétérinaires. Seconde édition
 orth	entièrement refondue. Tome deuxième		
 pb	[s. pag.]	0014	7322281
 pb	1	0015	7322282
-entry	D - Danse de Saint-Guy ou de Saint-With, Chorée		
-orth	D - Danse de Saint-Guy		
-orth	de Saint-With		
-orth	Chorée		
-pb	2	0016	7322283
 entry	Danse de Saint-Guy ou de Saint-With, Chorée		
 orth	Danse de Saint-Guy		
 orth	de Saint-With		
 orth	Chorée		
+pb	2	0016	7322283
 entry	Dartres		
 pb	3	0017	7322284
 pb	4	0018	7322285
@@ -174,9 +170,8 @@ entry	Dysphagie
 pb	63	0077	7322344
 entry	Dyspnée		
 entry	Dysurie		
-entry	E - Eau		
-pb	64	0078	7322345
 entry	Eau		
+pb	64	0078	7322345
 pb	65	0079	7322346
 entry	Eaux aux jambes		
 pb	66	0080	7322347
@@ -678,7 +673,7 @@ entry	Extravasation
 pb	336	0350	7322617
 entry	Exulcération		
 entry	Exutoire		
-entry	F - Faible		
+entry	Faible		
 entry	Faiblesse		
 pb	337	0351	7322618
 entry	Faim		
@@ -1134,7 +1129,7 @@ entry	Furoncle
 entry	Furoncle des paupières		
 entry	Fusée		
 pb	615	0629	7322896
-entry	G - Galatte		
+entry	Galatte		
 entry	Gale		
 pb	616	0630	7322897
 pb	617	0631	7322898

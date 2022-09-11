@@ -29,6 +29,10 @@ foreach (array(
 
 class Medict
 {
+    /**Compteurs */
+    static $count = array(
+        'ref' => 0,
+    );
     /** Mode write */
     const ECHO = false;
     const WRITE = true;
@@ -419,13 +423,23 @@ class Medict
                 array(
                     // ne pas supprimer \[
                     // '@^[^\p{L}]+|[ \.]$@u', // garder (s’)
-                    "@^ *(le |la |les |l’|l') *@ui", // Le , la , l’
+                    // V - 
+                    '/^[A-Z]$/u',
+                    '/^[A-Z][ ][^\p{L}]*/u',
+                    // Le , la , l’
+                    "@^ *(le |la |les |l’|l') *@ui", 
                 ),
-                array('', ''),
+                array(
+                    '', 
+                    '', 
+                    '', 
+                    '', 
+                ),
                 $veds,
             );
             // on tente d’écrire
             foreach($veds as $vedette) {
+                if (!trim($vedette, ' .,')) continue;
                 $data[] = array("entry", $vedette);
             }
 
@@ -505,8 +519,17 @@ class Medict
             // récupérer la vedette et la découper si nécessaire
             if ($line[0] == 'entry') {
                 $refs = null;
-                // [nom d’auteur]
-                $line[1] = preg_replace('/ *\[[^\]]+\]/u', '', $line[1]);
+                $line[1] = preg_replace(
+                    array(
+                        // [nom d’auteur]
+                        '/ *\[[^\]]+\]/u',
+                    ),
+                    array (
+                        '',
+                        '',
+                        '',
+                    ), 
+                    $line[1]);
                 if (!$line[1]) continue;
                 // nettoyer la vedette des renvois
                 if (preg_match(
@@ -519,7 +542,11 @@ class Medict
                         ' .'
                     );
                     // V. Anémie, anesthésie
-                    $refs = preg_split('/,[ ]+/u', $matches[2]);
+                    // Érythroïde (Tunique). Voy. Crémaster et Testicule
+                    $refs = preg_split(
+                        '/,? +(ou|et|&) +|,[\-—– ]+/ui', 
+                        $matches[2]
+                    );
                 }
                 // entry OK, on oute
                 $out[] = $line;
@@ -537,6 +564,10 @@ class Medict
                     // Stérogyl Stérogyl 10 et 15. Vidal (1940, p. 1788)
                     || startsWith($cote, 'pharma_p11247')
                     || startsWith($cote, '34823')
+                    // Dechambre
+                    || startsWith($cote, 'extbnfdechambre')
+                    // Pancoucke
+                    || startsWith($cote, '47661')
                     // Fuller (médecin anglais, 1654-1734)
                     || preg_match('/\([^\)]*( +(ou|et|&) +|,)/u', $line[1]) 
                 ) {
@@ -560,6 +591,7 @@ class Medict
                 // Renvois
                 if ($refs !== null) {
                     foreach($refs as $ref) {
+                        self::$count['ref']++;
                         $out[] = ['ref', trim($ref, ' .,;')];
                     }
                 }
@@ -570,149 +602,6 @@ class Medict
         }
         return $out;
     }
-
-
-    /**
-     * Découper si nécessaires les vedettes pour quelques cas particuliers
-     */
-    public static function vedettes()
-    {
-        // sert de test dans l’automate qui rassemble les vedettes à travers les pages
-        if (self::$dico_entree[':vedette'] == null) {
-            self::$dico_entree[':vedette'] = null;
-            self::$dico_entree[':page2'] = null;
-            self::$dico_entree[':pps'] = 0;
-            return;
-        }
-        // "16 Agaricus campestris. Le champignon champêtre", "17 Agaricus déliciosus. Champignon délicieux",  "18 Agaricus cantharellus. La cantharelle"
-        if (startsWith(self::$dico_entree[':volume_cote'], 'pharma_019128')) {
-            $line = preg_replace('@^[ 0-9\.]+@ui', '', self::$dico_entree[':vedette']);
-            $veds = preg_split('@\. +@ui', $line);
-            if (count($veds) == 2) {
-                self::$dico_entree[':vedette'] = $veds[0];
-                self::$dico_index[':orth_lang'] = 'lat';
-                self::dico_entree();
-                self::$dico_entree[':vedette'] = $veds[1];
-                self::$dico_index[':orth_lang'] = 'fra'; // fr
-                self::dico_entree();
-            } else {
-                foreach ($veds as $vedette) {
-                    self::$dico_entree[':vedette'] = $vedette;
-                    self::dico_entree();
-                }
-            }
-        }
-        // Coeur (maladies du) [U. Leblanc]. Des maladies du coeur et de ses enveloppes en particulier. Maladies du coeur appréciables par des lésions physiques. Maladies dites vitales. Phlegmasies du coeur et de ses enveloppes. De la cardite 
-        else if (startsWith(self::$dico_entree[':volume_cote'], '34823')) {
-            $veds = preg_split('@\.[ \-]+@ui', self::$dico_entree[':vedette']);
-            foreach ($veds as $vedette) {
-                self::$dico_entree[':vedette'] = $vedette;
-                self::dico_entree();
-            }
-        } else {
-            self::dico_entree();
-        }
-
-        // nettoyer les tableaux
-        self::$dico_entree[':vedette'] = null;
-        self::$dico_entree[':page2'] = null;
-        self::$dico_entree[':pps'] = 0;
-    }
-
-    /**
-     * self::$dico_entree doit ici être prêt pour être écrit
-     */
-    public static function dico_entree()
-    {
-        self::$dico_entree[':vedette_len'] = mb_strlen(self::$dico_entree[':vedette'], "utf-8");
-        // insert entree
-        if (self::WRITE) {
-            self::$q['dico_entree']->execute(self::$dico_entree);
-            self::$dico_index[':dico_entree'] = self::$pdo->lastInsertId();
-        }
-        // Pourquoi ici ???
-        // self::$dico_index[':annee_titre'] = self::$dico_entree[':annee_titre'];
-        // En cas de log, pour vérifier
-        if (self::ECHO) {
-            // echo "<b>";
-            echo mb_strtoupper(mb_substr(self::$dico_entree[':vedette'], 0, 1, 'UTF-8'), 'UTF-8'), mb_substr(self::$dico_entree[':vedette'], 1, NULL, 'UTF-8');
-            echo "\t";
-            echo mb_strlen(self::$dico_entree[':vedette']);
-            echo "\t";
-            echo self::$dico_entree[':volume_soustitre'];
-            echo "\t";
-            echo self::$dico_entree[':volume_annee'];
-            echo "\t";
-            if (self::$dico_entree[':page2'] != null) echo "pps. ", self::$dico_entree[':page'], "-", self::$dico_entree[':page2'];
-            else echo "p. ", self::$dico_entree[':page'];
-            echo "\t";
-        }
-
-        $vedette = self::$dico_entree[':vedette'];
-        // si pas nom propre, tout en minuscule ? mais Banc de Galien ? Incube, ou Cochemar ?
-        // $vedette = mb_strtolower(mb_substr($vedette, 0, 1, 'UTF-8'), 'UTF-8'). mb_substr($vedette, 1, NULL, 'UTF-8');
-
-        // Cas à ne pas splitter sur la virgule etc
-        if (
-            startsWith(self::$dico_entree[':volume_cote'], '24374')
-            || startsWith(self::$dico_entree[':volume_cote'], 'pharma_013686')
-            || startsWith(self::$dico_entree[':volume_cote'], 'pharma_019127') // Liste des plantes observées au Mont d'Or, au Puy de Domme, & au Cantal, par M. le Monnier. 
-            || startsWith(self::$dico_entree[':volume_cote'], 'pharma_019128') // Le pois à merveilles, à fruit noir. 
-            || startsWith(self::$dico_entree[':volume_cote'], '146144')
-            || startsWith(self::$dico_entree[':volume_cote'], 'extbnfrivet') //  Pilules hydragogues de M. Janin, oculiste de Lyon
-            || startsWith(self::$dico_entree[':volume_cote'], 'pharma_p11247') // Stérogyl Stérogyl 10 et 15. Vidal (1940, p. 1788)
-            || startsWith(self::$dico_entree[':volume_cote'], '34823')
-            || mb_strpos($vedette, '(') !== false // Fuller (médecin anglais, 1654-1734)
-        ) {
-            $terms = array($vedette);
-        } else {
-            // unique
-            $terms = array_flip(array_flip(preg_split('@,? +(ou|et|&) +|,[\-—– ]+@ui', $vedette)));
-        }
-        // filtrer les valeurs vides qui seraient sorties du split
-        $terms2 = array();
-        foreach ($terms as $t) {
-            if ($t === NULL || $t === FALSE || $t === "") continue;
-            if (isset(self::$stop[$t])) continue;
-            $terms2[] = $t;
-            /*
-            if (isset(self::$freqs[$t])) self::$freqs[$t]++;
-            else self::$freqs[$t] = 1;
-            */
-        }
-        $terms = $terms2;
-
-        // écrire la ou les vedettes dans l’index
-        foreach ($terms as $t) {
-            self::$dico_index[':orth'] = $t;
-            self::$dico_index[':orth_sort'] = '1' . self::sortable($t);
-            self::$dico_index[':orth_len'] = mb_strlen($t, "utf-8");
-            if (self::ECHO) {
-                print_r(self::$dico_index);
-                echo ', ' . $t;
-            }
-            if (self::WRITE) self::$q['dico_index']->execute(self::$dico_index); // insérer le terme
-        }
-        if (self::ECHO) echo "\n";
-        // si plus d’une vedette écrire une suggestion
-        self::$dico_sugg[':dico_entree'] = self::$dico_index[':dico_entree'];
-        self::sugg($terms);
-        /*
-    // splitter sur les mots ?
-    $terms = array_flip(preg_split('@[^\p{L}\-]+@u', $vedette));
-    foreach ($terms as $terme=>$value) {
-      if (!$terme) continue;
-      // mot vide
-      if (isset(self::$stop[$terme])) continue;
-      self::$dico_index[':terme'] = $terme; 
-      self::$dico_index[':terme_sort'] = self::sortable($terme);
-      // insert le terme
-      if(self::WRITE) self::$q['dico_index']->execute(self::$dico_index);
-      if(self::ECHO) echo ', '.$terme;
-    }
-    */
-    }
-
 
 
     public static function tei_tsv($tei_file)
@@ -799,3 +688,4 @@ function startsWith($haystack, $needle)
 {
     return substr($haystack, 0, strlen($needle)) === $needle;
 }
+

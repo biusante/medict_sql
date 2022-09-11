@@ -6,7 +6,7 @@ entry	1re Partie. Table par indications thérapeutiques des spécialités figura
 pb	sn	0005	7720242
 entry	Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
 pb	sn	0006	7720243
-entry	I. - Alimentation - Régimes		
+entry	Alimentation - Régimes		
 entry	II. - Antiseptiques - Désinfectants		
 entry	III. - Appareil circulatoire		
 pb	sn	0007	7720244
@@ -14,7 +14,7 @@ pb	sn	0008	7720245
 entry	IV. - Appareil digestif et ses annexes		
 pb	sn	0009	7720246
 pb	sn	0010	7720247
-entry	V. - Appareil génito-urinaire		
+entry	Appareil génito-urinaire		
 pb	sn	0011	7720248
 entry	VI. - Appareil respiratoire		
 pb	sn	0012	7720249
@@ -25,7 +25,7 @@ entry	VIII. - Dermatoses - Plaies
 pb	sn	0015	7720252
 entry	IX. - Gynécologie - Obstétrique		
 pb	sn	0016	7720253
-entry	X. - Hémostatiques		
+entry	Hémostatiques		
 pb	sn	0017	7720254
 entry	XI. - Maladies infectieuses et parasitaires		
 pb	sn	0018	7720255
@@ -1686,82 +1686,57 @@ pb	pb	0664	7720901
 pb	sn	0665	7720902
 entry	3e Partie. Nomenclature nominale des spécialités pharmaceutiques médicales avec les adresses de leurs fabricants		
 pb	642	0666	7720903
-entry	A		
 pb	643	0667	7720904
 pb	644	0668	7720905
 pb	645	0669	7720906
-entry	B		
 pb	646	0670	7720907
 pb	647	0671	7720908
 pb	648	0672	7720909
-entry	C		
 pb	649	0673	7720910
 pb	650	0674	7720911
 pb	651	0675	7720912
 pb	652	0676	7720913
 pb	653	0677	7720914
-entry	D		
 pb	654	0678	7720915
 pb	655	0679	7720916
-entry	E		
 pb	656	0680	7720917
 pb	657	0681	7720918
 pb	658	0682	7720919
-entry	F		
 pb	659	0683	7720920
-entry	G		
 pb	660	0684	7720921
 pb	661	0685	7720922
 pb	662	0686	7720923
 pb	663	0687	7720924
-entry	H		
 pb	664	0688	7720925
 pb	665	0689	7720926
-entry	I		
 pb	666	0690	7720927
 pb	667	0691	7720928
-entry	J		
-entry	K		
 pb	668	0692	7720929
-entry	L		
 pb	669	0693	7720930
 pb	670	0694	7720931
-entry	M		
 pb	671	0695	7720932
 pb	672	0696	7720933
-entry	N		
 pb	673	0697	7720934
 pb	674	0698	7720935
-entry	O		
 pb	675	0699	7720936
-entry	P		
 pb	676	0700	7720937
 pb	677	0701	7720938
 pb	678	0702	7720939
 pb	679	0703	7720940
 pb	680	0704	7720941
 pb	681	0705	7720942
-entry	Q		
-entry	R		
 pb	682	0706	7720943
-entry	S		
 pb	683	0707	7720944
 pb	684	0708	7720945
 pb	685	0709	7720946
 pb	686	0710	7720947
 pb	687	0711	7720948
 pb	688	0712	7720949
-entry	T		
 pb	689	0713	7720950
 pb	690	0714	7720951
 pb	691	0715	7720952
-entry	U		
 pb	692	0716	7720953
-entry	V		
 pb	693	0717	7720954
 pb	694	0718	7720955
-entry	X		
-entry	Y		
-entry	Z		
 pb	pb	0719	7720956
 pb	sn	0720	7720957

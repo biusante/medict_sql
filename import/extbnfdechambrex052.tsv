@@ -61,7 +61,8 @@ entry	Insolation
 ref	Coup de chaleur		
 entry	Insolinique (Acide)		
 entry	Insula de Reil		
-ref	Circonvolutions et Corps striés		
+ref	Circonvolutions		
+ref	Corps striés		
 entry	Intercostale (Névralgie)		
 pb	43	0047	4538751
 pb	44	0048	4538752
@@ -247,12 +248,15 @@ pb	211	0215	4538919
 pb	212	0216	4538920
 entry	Interosseuses (Artères et Veines)		
 ref	Cubitale		
-ref	Main et Pied		
+ref	Main		
+ref	Pied		
 entry	Interosseux (Ligaments)		
-ref	Jambe et Radio-cubitales (Articulation)		
+ref	Jambe		
+ref	Radio-cubitales (Articulation)		
 pb	213	0217	4538921
 entry	Interosseux (Muscles)		
-ref	Main et Pied		
+ref	Main		
+ref	Pied		
 entry	Interrupteur		
 entry	Intertransversaires (Muscles)		
 pb	214	0218	4538922
@@ -415,15 +419,11 @@ pb	340	0344	4539048
 pb	341	0345	4539049
 pb	342	0346	4539050
 entry	Iodélayle ou Iodéther		
-orth	Iodélayle		
-orth	Iodéther		
 entry	Iodéthéroïde		
 entry	Iodhydrines		
 entry	Iodhydrique (Acide)		
 pb	343	0347	4539051
 entry	Iodique et Periodique (Acides)		
-orth	Iodique		
-orth	Periodique (Acides)		
 pb	344	0348	4539052
 pb	345	0349	4539053
 entry	Iodisme		
@@ -507,12 +507,7 @@ pb	403	0407	4539111
 pb	404	0408	4539112
 entry	Ipomique (Acide)		
 entry	Iridacées ou Iridées		
-orth	Iridacées		
-orth	Iridées		
 entry	Iridectomie, Iridodialyse, Iridotomie, etc		
-orth	Iridectomie		
-orth	Iridodialyse		
-orth	Iridotomie		
 ref	Iris		
 entry	Iridique (Acide)		
 entry	Iridium		
@@ -646,8 +641,6 @@ ref	Imasatique (Acide)
 entry	Isatis		
 ref	Pastel		
 entry	Isatogène ou Diisatogène		
-orth	Isatogène		
-orth	Diisatogène		
 entry	Isatropique (Acide)		
 entry	Ischel ou Ischl (Eaux minérales et cure de petit-lait d')		
 pb	504	0508	4539212
@@ -661,9 +654,6 @@ ref	Ischiopages
 entry	Ischiatique (Artère)		
 pb	506	0510	4539214
 entry	Ischio-caverneux, Ischio-clitoridien, Ischio-coccygien (Muscles)		
-orth	Ischio-caverneux		
-orth	Ischio-clitoridien		
-orth	Ischio-coccygien (Muscles)		
 ref	Périnée		
 entry	Ischion		
 ref	Bassin		
@@ -707,8 +697,6 @@ entry	Isonandra
 pb	518	0522	4539226
 entry	Isonaphtoïque (Acide)		
 entry	Isonaphtol ou Isonaphtaline		
-orth	Isonaphtol		
-orth	Isonaphtaline		
 entry	Isonicotinique (Acide)		
 entry	Isononylique (Acide)		
 entry	Isooctylique (Acide)		
@@ -730,13 +718,9 @@ entry	Isopropylamine
 ref	Propylamine		
 pb	520	0524	4539228
 entry	Isopropyle ou Diisopropyle		
-orth	Isopropyle		
-orth	Diisopropyle		
 entry	Isopropylique (Alcool)		
 ref	Propylique (Alcool)		
 entry	Isopurpurine ou Anthrapurpurine		
-orth	Isopurpurine		
-orth	Anthrapurpurine		
 entry	Isopurpurique (Acide)		
 ref	Picrocyanique (Acide)		
 entry	Isopyromucique (Acide)		
@@ -745,17 +729,11 @@ entry	Isosuccinique (Acide)
 entry	Isotartrique (Acide)		
 entry	Isotérébenthène		
 entry	Isotoluique ou Métatoluique (Acide)		
-orth	Isotoluique		
-orth	Métatoluique (Acide)		
 ref	Toluique (Acide)		
 entry	Isourique (Acide)		
 pb	521	0525	4539229
 entry	Isoxylène ou Métaxylène		
-orth	Isoxylène		
-orth	Métaxylène		
 entry	Isuret ou Isurétine		
-orth	Isuret		
-orth	Isurétine		
 entry	Isuvitique (Acide)		
 entry	Itaconique (Acide)		
 entry	Itamalique (Acide)		
@@ -1060,30 +1038,25 @@ entry	Jolly (Paul)
 pb	705	0709	4539413
 entry	Jonc		
 entry	Joncacées ou Joncées		
-orth	Joncacées		
-orth	Joncées		
 entry	Jones (Henry-Bence)		
 pb	706	0710	4539414
 entry	Jonquille		
 ref	Narcisse		
 entry	Jose ou Médague (Eaux minérales de)		
-orth	Jose		
-orth	Médague (Eaux minérales de)		
 entry	Joserand (Eaux minérales de)		
 pb	707	0711	4539415
 entry	Joubarbe		
 entry	Joubert (Laurent)		
 pb	708	0712	4539416
 entry	Joue		
-ref	Face et Génoplastie		
+ref	Face		
+ref	Génoplastie		
 entry	Jouhe (Eau minérale de)		
 entry	Joulin (Désiré-Joseph)		
 entry	Jourdan (Antoine-Jacques-Louis)		
 entry	Jugal (Os)		
 ref	Face		
 entry	Juglandacées ou Juglandées		
-orth	Juglandacées		
-orth	Juglandées		
 pb	709	0713	4539417
 entry	Juglandine		
 entry	Juglans		
@@ -1102,8 +1075,6 @@ ref	Fontenelle
 entry	Julides		
 ref	Diplopodes		
 entry	Julien (Saint-) ou Perruchès (Eau minérale de)		
-orth	Julien (Saint-)		
-orth	Perruchès (Eau minérale de)		
 pb	713	0717	4539421
 entry	Jumeaux (de la jambe)		
 ref	Triceps sural		
@@ -1133,10 +1104,9 @@ entry	Jute
 ref	Corchorus		
 pb	723	0727	4539431
 entry	Kabyles		
-ref	Berbères et Algérie		
+ref	Berbères		
+ref	Algérie		
 entry	Kaemféride ou Kaemférine		
-orth	Kaemféride		
-orth	Kaemférine		
 entry	Kafirs		
 ref	Asie		
 entry	Kagou		
@@ -1150,7 +1120,8 @@ pb	726	0730	4539434
 entry	Kalanchoe		
 entry	Kalmia (L.)		
 entry	Kalmouks		
-ref	Sibérie et Tartarie		
+ref	Sibérie		
+ref	Tartarie		
 entry	Kaltbad (Eau minérale, hydrothérapie et cure de petit-lait)		
 pb	727	0731	4539435
 entry	Kamala		
@@ -1167,7 +1138,8 @@ entry	Karabé
 ref	Succin		
 entry	Karéliens		
 ref	Finnois		
-ref	Finlande et Russie		
+ref	Finlande		
+ref	Russie		
 entry	Karlsbad (Eaux minérales de)		
 pb	731	0735	4539439
 pb	732	0736	4539440
@@ -1188,30 +1160,22 @@ ref	Protoplasma
 entry	Katoptromancie		
 ref	Divination		
 entry	Kava ou Kawa		
-orth	Kava		
-orth	Kawa		
 ref	Poivre		
 entry	Kawaïne ou Méthysticine		
-orth	Kawaïne		
-orth	Méthysticine		
 entry	Kaye ou Key (John)		
-orth	Kaye		
-orth	Key (John)		
 entry	Kef		
 ref	Bang		
 pb	745	0749	4539453
 entry	Kelline		
 entry	Kéloïde		
-ref	Chéloïde et Cicatrice		
+ref	Chéloïde		
+ref	Cicatrice		
 entry	Kélotomie		
 ref	Hernie		
 entry	Kératine		
 entry	Kératite, Kératocèle, Kératoscopie, Kératotomie		
-orth	Kératite		
-orth	Kératocèle		
-orth	Kératoscopie		
-orth	Kératotomie		
-ref	Cornée ou Cataracte		
+ref	Cornée		
+ref	Cataracte		
 entry	Kérato-Glosse (Muscle)		
 ref	Langue		
 entry	Kératonyxis		
@@ -1239,14 +1203,10 @@ ref	Tartarie
 entry	Khaya		
 entry	Kilian (Les deux)		
 entry	Kimris ou Cimbres		
-orth	Kimris		
-orth	Cimbres		
 ref	France (Anthropologie)		
 entry	Kino		
 pb	749	0753	4539457
 entry	Kirghis.; Sibérie et Tartarie		
-orth	Kirghis.; Sibérie		
-orth	Tartarie		
 ref	Asie		
 entry	Kirkes (William-Sephouse)		
 entry	Kissingen (Eaux minérales, cure de petit-lait et bains de boues de)		
@@ -1288,12 +1248,8 @@ pb	766	0770	4539474
 pb	767	0771	4539475
 pb	768	0772	4539476
 entry	Kourils ou Kurils		
-orth	Kourils		
-orth	Kurils		
 ref	Aïnos		
 entry	Koussine ou Téniine		
-orth	Koussine		
-orth	Téniine		
 entry	Kousso		
 ref	Cousso		
 entry	Krajura		
@@ -1334,8 +1290,6 @@ entry	Kybomancie
 ref	Divination		
 entry	Kyestéine		
 entry	Kymris ou Cimbres		
-orth	Kymris		
-orth	Cimbres		
 ref	France (Anthropologie)		
 entry	Kystes		
 pb	780	0784	4539488

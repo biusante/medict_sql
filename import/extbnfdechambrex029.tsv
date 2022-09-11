@@ -109,9 +109,6 @@ pb	89	0093	4520660
 pb	90	0094	4520661
 entry	Pathologie spéciale		
 entry	Diaphragme. Pathologie spéciale. Adhérences, ulcérations et perforations du diaphragme		
-orth	Diaphragme. Pathologie spéciale. Adhérences		
-orth	ulcérations		
-orth	perforations du diaphragme		
 pb	91	0095	4520662
 entry	Diaphragme. Pathologie spéciale. Atrophie du diaphragme		
 pb	92	0096	4520663
@@ -150,8 +147,6 @@ entry	Pathologie chirurgicale
 entry	Diaphragme. Pathologie chirurgicale. Plaies du diaphragme		
 pb	120	0124	4520691
 entry	Diaphragme. Pathologie chirurgicale. Déchirures et Ruptures du diaphragme		
-orth	Diaphragme. Pathologie chirurgicale. Déchirures		
-orth	Ruptures du diaphragme		
 pb	121	0125	4520692
 entry	Diaphragme. Pathologie chirurgicale. Tumeurs du diaphragme		
 pb	122	0126	4520693
@@ -161,8 +156,6 @@ entry	Diaprum
 pb	123	0127	4520694
 entry	Diarrhée		
 entry	Diarrhée. Généralité et Définition		
-orth	Diarrhée. Généralité		
-orth	Définition		
 pb	124	0128	4520695
 pb	125	0129	4520696
 pb	126	0130	4520697
@@ -333,8 +326,6 @@ ref	Craniotomie
 entry	Diaz (Francisco)		
 pb	266	0270	4520837
 entry	Diazoïques et Azoïques (Combinaisons)		
-orth	Diazoïques		
-orth	Azoïques (Combinaisons)		
 entry	Dibon (Roger)		
 pb	267	0271	4520838
 entry	Dibranches		
@@ -366,8 +357,6 @@ entry	Dicrotisme
 ref	Pouls		
 entry	Dictamne (et non Dictame)		
 entry	Dicyanique (Acide) ou Dicarbimide		
-orth	Dicyanique (Acide)		
-orth	Dicarbimide		
 entry	Dicypellium		
 entry	Didelot (Nicolas)		
 pb	274	0278	4520845
@@ -460,8 +449,6 @@ pb	317	0321	4520888
 entry	Diffraction		
 ref	Optique		
 entry	Diffusibles, Diffusifs		
-orth	Diffusibles		
-orth	Diffusifs		
 pb	318	0322	4520889
 entry	Diffusion		
 entry	Diffusion. Diffusion des liquides		
@@ -504,7 +491,8 @@ entry	Digby (Kenelm)
 pb	350	0354	4520921
 entry	Digby (Poudre sympathique de)		
 entry	Degénèse		
-ref	Monogénèses et Génération		
+ref	Monogénèses		
+ref	Génération		
 entry	Digestif (Appareil)		
 ref	Digestion		
 entry	Digestif (Onguent)		
@@ -626,9 +614,6 @@ pb	446	0450	4521017
 pb	447	0451	4521018
 pb	448	0452	4521019
 entry	Digitalinique (Acide). Digitalirétine, Digitalosmine, Digitasoline,		
-orth	Digitalinique (Acide). Digitalirétine		
-orth	Digitalosmine		
-orth	Digitasoline		
 ref	Digitaline		
 entry	Digitigrades		
 entry	Digitonéine		
@@ -659,13 +644,9 @@ pb	457	0461	4521028
 pb	458	0462	4521029
 pb	459	0463	4521030
 entry	Dililurique (Acide) ou Nitro-Barbiturique		
-orth	Dililurique (Acide)		
-orth	Nitro-Barbiturique		
 entry	Dillen (Les deux)		
 pb	460	0464	4521031
 entry	Dilléniacées, Dilléniées		
-orth	Dilléniacées		
-orth	Dilléniées		
 pb	461	0465	4521032
 pb	462	0466	4521033
 entry	Dilution (Pharmacie)		
@@ -685,8 +666,6 @@ entry	Diméthylène
 ref	Éthylène		
 entry	Diméthylphosphine		
 entry	Diméthylpyrocatéchine ou Vératrol		
-orth	Diméthylpyrocatéchine		
-orth	Vératrol		
 ref	Vératrol		
 entry	Diméthylprotocatéchique (Acide)		
 entry	Dimocarpus		
@@ -846,8 +825,6 @@ ref	Phénylol
 entry	Diphénylméthane		
 ref	Phénylméthane		
 entry	Diphénylméthylène ou Fluorène		
-orth	Diphénylméthylène		
-orth	Fluorène		
 entry	Diphile		
 entry	Diphthérie		
 pb	549	0553	4521120
@@ -1032,8 +1009,6 @@ entry	Diplogenèse
 entry	Diploïques (Veines)		
 pb	723	0727	4521294
 entry	Diplolépis, Diplolépaires		
-orth	Diplolépis		
-orth	Diplolépaires		
 entry	Diplopie		
 pb	724	0728	4521295
 pb	725	0729	4521296
@@ -1054,8 +1029,6 @@ entry	Dippel (Huile de)
 ref	Goudron animal		
 entry	Dippold (Gottfried-Ehregott)		
 entry	Dipropargyle ou Diallylényle		
-orth	Dipropargyle		
-orth	Diallylényle		
 entry	Dipsacées		
 pb	735	0739	4521306
 entry	Dipsas		
@@ -1166,8 +1139,6 @@ pb	802	0806	4521373
 pb	803	0807	4521374
 pb	804	0808	4521375
 entry	Distomes ou Distomiens		
-orth	Distomes		
-orth	Distomiens		
 pb	805	0809	4521376
 pb	806	0810	4521377
 entry	Distorsion		

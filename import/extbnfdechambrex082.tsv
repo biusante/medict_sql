@@ -4,8 +4,6 @@ pb	[s. pag.]	0003	4582209
 pb	[s. pag.]	0004	4582210
 pb	1	0005	4582211
 entry	Redressement, Redresseurs		
-orth	Redressement		
-orth	Redresseurs		
 pb	2	0006	4582212
 pb	3	0007	4582213
 pb	4	0008	4582214
@@ -128,7 +126,8 @@ pb	99	0103	4582309
 pb	100	0104	4582310
 entry	Régime sanitaire		
 ref	Quarantaine		
-ref	Médecin et Sanitaires Mesures		
+ref	Médecin		
+ref	Sanitaires Mesures		
 entry	Regis (Pierre)		
 entry	Règles		
 ref	Menstruation		
@@ -168,11 +167,7 @@ pb	115	0119	4582325
 entry	Reimarus (Jean-Albert-Henri)		
 pb	116	0120	4582326
 entry	Rein et Capsule surrénale		
-orth	Rein		
-orth	Capsule surrénale		
 entry	Rein et Capsule surrénale. Anatomie		
-orth	Rein		
-orth	Capsule surrénale. Anatomie		
 pb	117	0121	4582327
 pb	118	0122	4582328
 pb	119	0123	4582329
@@ -180,8 +175,6 @@ pb	120	0124	4582330
 pb	121	0125	4582331
 entry	Développement		
 entry	Rein et Capsule surrénale. Physiologie		
-orth	Rein		
-orth	Capsule surrénale. Physiologie		
 pb	122	0126	4582332
 pb	123	0127	4582333
 pb	124	0128	4582334
@@ -220,11 +213,7 @@ pb	153	0157	4582363
 pb	154	0158	4582364
 pb	155	0159	4582365
 entry	Rein et Capsule surrénale		
-orth	Rein		
-orth	Capsule surrénale		
 entry	Rein et Capsule surrénale. Pathologie		
-orth	Rein		
-orth	Capsule surrénale. Pathologie		
 pb	156	0160	4582366
 pb	157	0161	4582367
 pb	158	0162	4582368
@@ -426,7 +415,8 @@ pb	343	0347	4582553
 entry	Reine (Source des bains de la)		
 ref	Mers-el-Kébir		
 entry	Reine des prés		
-ref	Ulmaire et Spirée		
+ref	Ulmaire		
+ref	Spirée		
 entry	Reineggs (Jacques)		
 entry	Reinerz (Eaux minérales, boues et cures de petit lait de)		
 pb	344	0348	4582554
@@ -469,8 +459,6 @@ pb	369	0373	4582579
 entry	Releveurs de l'anus		
 entry	Releveurs de la paupière supérieure		
 entry	Releveurs (ou Élévateurs) de l'aile du nez et de la lèvre supérieure		
-orth	Releveurs (ou Élévateurs) de l'aile du nez		
-orth	de la lèvre supérieure		
 pb	370	0374	4582580
 entry	Religieuses (Folies)		
 ref	Epidémiques (Folies)		
@@ -479,8 +467,6 @@ pb	371	0375	4582581
 entry	Remak (Ganglion de)		
 ref	Coeur (Nerf du)		
 entry	Remède, Remède secret		
-orth	Remède		
-orth	Remède secret		
 pb	372	0376	4582582
 pb	373	0377	4582583
 pb	374	0378	4582584
@@ -550,8 +536,6 @@ entry	Renouée
 entry	Renzi (Salvatore de)		
 pb	407	0411	4582617
 entry	Répercussion, Répercussifs		
-orth	Répercussion		
-orth	Répercussifs		
 pb	408	0412	4582618
 entry	Repoussoir		
 entry	Reprise		

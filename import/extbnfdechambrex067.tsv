@@ -146,8 +146,6 @@ ref	Amérique
 entry	Oliva		
 ref	Médecin-femme		
 entry	Oliva ou Uliva (Antonio)		
-orth	Oliva		
-orth	Uliva (Antonio)		
 entry	Olivaires (Corps)		
 ref	Moelle		
 entry	Olivares (Les)		
@@ -333,10 +331,11 @@ entry	Ombilicale (Veine)
 pb	264	0268	4570392
 pb	265	0269	4570393
 entry	Ombilicale (Vésicule)		
-ref	Oeuf et Vésicule		
+ref	Oeuf		
+ref	Vésicule		
 entry	Ombrelle		
 pb	266	0270	4570394
-entry	O'Meara (Barry-Edward)		
+entry	Meara (Barry-Edward)		
 pb	267	0271	4570395
 entry	Omenapo-Yeima		
 entry	Omichmyle (Oxyde d')		
@@ -441,8 +440,6 @@ pb	351	0355	4570479
 entry	Omoplato-hyoïdien		
 ref	Omo-hyoïden		
 entry	Omoplatoscopie ou Scapuloscopie		
-orth	Omoplatoscopie		
-orth	Scapuloscopie		
 entry	Omo-trachélien		
 pb	352	0356	4570480
 pb	353	0357	4570481
@@ -454,14 +451,13 @@ ref	Omphalier
 entry	Omphalier		
 pb	355	0359	4570483
 entry	Omphalocarpos, Omphalocarpon		
-orth	Omphalocarpos		
-orth	Omphalocarpon		
 entry	Omphalocèle		
 ref	Ombilical (Anneau)		
 entry	Omphalode		
 entry	Omphalomancie		
 entry	Omphalo-mésentériques (Vaisseaux)		
-ref	Circulation et OEuf		
+ref	Circulation		
+ref	OEuf		
 entry	Omphalosites		
 pb	356	0360	4570484
 pb	357	0361	4570485
@@ -469,8 +465,6 @@ entry	Omphalosoter
 entry	Onagraires		
 ref	Onagrariées		
 entry	Onagrariées, Onagrariacées		
-orth	Onagrariées		
-orth	Onagrariacées		
 pb	358	0362	4570486
 entry	Onagre (Botanique)		
 ref	Oenothère		
@@ -515,13 +509,12 @@ entry	Ondes
 entry	Onéirodynie		
 ref	Cauchemar		
 entry	Onéiromancie		
-ref	Divination et Songes		
+ref	Divination		
+ref	Songes		
 entry	Onesti (Cristoforo)		
 pb	388	0392	4570516
 entry	Ongles		
 entry	Ongles. Anatomie et physiologie		
-orth	Ongles. Anatomie		
-orth	physiologie		
 pb	389	0393	4570517
 pb	390	0394	4570518
 pb	391	0395	4570519
@@ -568,22 +561,16 @@ entry	Onguent magique
 entry	Onguentaire		
 entry	Onimus (Jean-Étienne)		
 entry	Onin, Onim		
-orth	Onin		
-orth	Onim		
 pb	429	0433	4570557
 entry	Onirodynie		
 ref	Cauchemar		
 entry	Oniscides		
 pb	430	0434	4570558
 entry	Onitis et Onites		
-orth	Onitis		
-orth	Onites		
 entry	Onobleton		
 entry	Onobrychis		
 entry	Onocérine		
 entry	Onogeros ou Onogoros		
-orth	Onogeros		
-orth	Onogoros		
 pb	431	0435	4570559
 entry	Onomancie		
 ref	Divination		
@@ -591,13 +578,9 @@ entry	Onondagas
 ref	Amérique		
 entry	Ononétine		
 entry	Ononine ou Formonétine		
-orth	Ononine		
-orth	Formonétine		
 entry	Ononis		
 ref	Bugrane		
 entry	Onoporde ou Onopordone		
-orth	Onoporde		
-orth	Onopordone		
 pb	432	0436	4570560
 entry	Onopteris		
 entry	Onopynos		
@@ -616,8 +599,6 @@ ref	Oigopsidés
 entry	Onygénés		
 entry	Onyx		
 entry	Onyxis ou ongle incarné		
-orth	Onyxis		
-orth	ongle incarné		
 ref	Ongle		
 entry	Oonin		
 entry	Oonine		

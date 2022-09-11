@@ -34,8 +34,6 @@ entry	Collique
 entry	Acide		
 entry	Collodion		
 entry	Collodion. Chimie et Pharmacie		
-orth	Collodion. Chimie		
-orth	Pharmacie		
 pb	14	0018	4512877
 pb	15	0019	4512878
 pb	16	0020	4512879
@@ -91,14 +89,10 @@ entry	Colocyntha
 entry	Colocynthine		
 pb	54	0058	4512917
 entry	Colombat (Marc), dit Colombat-de-l'Isère		
-orth	Colombat (Marc)		
-orth	dit Colombat-de-l'Isère		
 entry	Colombe		
 entry	Zoologie		
 pb	55	0059	4512918
 entry	Colombe (F.-M. Lécorché) ou Lécorché-Colombe		
-orth	Colombe (F.-M. Lécorché)		
-orth	Lécorché-Colombe		
 entry	Colombie		
 pb	56	0060	4512919
 pb	57	0061	4512920
@@ -126,8 +120,6 @@ entry	Colombine
 pb	75	0079	4512938
 entry	Colombique (Acide)		
 entry	Colombium ou Tantale		
-orth	Colombium		
-orth	Tantale		
 pb	76	0080	4512939
 entry	Colombo (Matteo-Realdo)		
 entry	Colombo		
@@ -276,8 +268,6 @@ pb	205	0209	4513068
 entry	Colonna (Fabio)		
 pb	206	0210	4513069
 entry	Colophane ou Colophone		
-orth	Colophane		
-orth	Colophone		
 pb	207	0211	4513070
 entry	Colophène		
 entry	Colophiline		
@@ -311,8 +301,6 @@ pb	218	0222	4513081
 entry	Colubridés		
 entry	Colubrina		
 entry	Colubrine ou Couleuvrée		
-orth	Colubrine		
-orth	Couleuvrée		
 ref	Bryone		
 entry	Colubrinum Lignum		
 entry	Columella (Lucius-Junius-Moderatus)		
@@ -373,7 +361,8 @@ pb	265	0269	4513128
 entry	Coma Aurea		
 ref	Immortelles		
 entry	Comanches (Les)		
-ref	Amérique et Mexique		
+ref	Amérique		
+ref	Mexique		
 entry	Comarum		
 pb	266	0270	4513129
 entry	Comatules		
@@ -413,7 +402,8 @@ pb	290	0294	4513153
 pb	291	0295	4513154
 pb	292	0296	4513155
 entry	Come (Frère)		
-ref	Baseilhac et Arsenic		
+ref	Baseilhac		
+ref	Arsenic		
 entry	Comédons		
 pb	293	0297	4513156
 entry	Coménamique (Acide)		
@@ -424,8 +414,6 @@ entry	Commelin (Les deux)
 pb	295	0299	4513158
 entry	Comméline		
 entry	Commelinées ou Commelynées		
-orth	Commelinées		
-orth	Commelynées		
 pb	296	0300	4513159
 entry	Commémoratifs		
 ref	Diagnostic		
@@ -541,8 +529,6 @@ entry	Conarium
 ref	Cerveau		
 entry	Concarneau (Station marine de)		
 entry	Concassation ou Quassation		
-orth	Concassation		
-orth	Quassation		
 entry	Conches		
 ref	La Pyronée		
 entry	Conchifères		
@@ -567,7 +553,8 @@ pb	392	0396	4513255
 pb	393	0397	4513256
 pb	394	0398	4513257
 entry	Concombre d'Ane. Concombre sauvage		
-ref	Concombre et Élaterium		
+ref	Concombre		
+ref	Élaterium		
 entry	Concorregio (Giov. de)		
 pb	395	0399	4513258
 entry	Concon		
@@ -784,8 +771,6 @@ pb	569	0573	4513432
 entry	Toxicologie		
 ref	Cigüe		
 entry	Conidiacés et Coniodés		
-orth	Conidiacés		
-orth	Coniodés		
 pb	570	0574	4513433
 pb	571	0575	4513434
 entry	Conifères		
@@ -885,8 +870,6 @@ ref	Lamineux (Tissu)
 entry	Connor (Bernard)		
 pb	648	0652	4513511
 entry	Conohoria ou Conoria		
-orth	Conohoria		
-orth	Conoria		
 entry	Conolly (Jean)		
 pb	649	0653	4513512
 entry	Conoria		
@@ -1079,7 +1062,8 @@ pb	806	0810	4513669
 entry	Constricteurs (Muscles)		
 entry	Constructions (Ouvriers employés aux)		
 entry	Consultation		
-ref	Déontologie et Médecine légale		
+ref	Déontologie		
+ref	Médecine légale		
 pb	807	0811	4513670
 entry	Articles contenus dans le dix-neuvième volume (1re série)		
 pb	808	0812	4513671

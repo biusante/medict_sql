@@ -384,7 +384,8 @@ entry	Cathartiques
 entry	Cathartocarpus		
 ref	Casse		
 entry	Cathérétiques		
-ref	Caustiques et Caustérisation)		
+ref	Caustiques		
+ref	Caustérisation)		
 entry	Cathéter		
 pb	304	0308	4508235
 entry	Cathétérisme		
@@ -491,7 +492,8 @@ pb	391	0395	4508322
 entry	Causes		
 ref	Étiologie		
 entry	Caustiques		
-ref	Cautère et Cautérisation		
+ref	Cautère		
+ref	Cautérisation		
 entry	Causus		
 pb	392	0396	4508323
 entry	Cautère		
@@ -675,8 +677,6 @@ entry	Cebatha
 entry	Cébadille		
 ref	Cevadille		
 entry	Cebipira ou Sebipira		
-orth	Cebipira		
-orth	Sebipira		
 pb	526	0530	4508457
 entry	Cébocéphale		
 entry	Ceches		
@@ -994,8 +994,6 @@ entry	Centaurée. Botanique
 pb	787	0791	4508718
 pb	788	0792	4508719
 entry	Centaurée. Pharmacologie et Emploi médical		
-orth	Centaurée. Pharmacologie		
-orth	Emploi médical		
 pb	789	0793	4508720
 pb	790	0794	4508721
 pb	791	0795	4508722
@@ -1003,7 +1001,8 @@ pb	792	0796	4508723
 pb	793	0797	4508724
 pb	794	0798	4508725
 entry	Centaurine		
-ref	Centaurée et Cnicin		
+ref	Centaurée		
+ref	Cnicin		
 entry	Centella		
 entry	Centimorbia		
 ref	Nummulaire		
@@ -1045,13 +1044,12 @@ pb	823	0827	4508754
 entry	Centre-Ovale		
 ref	Cerveau		
 entry	Centrifuge, Centripète (Force)		
-orth	Centrifuge		
-orth	Centripète (Force)		
 ref	Force		
 entry	Cénure		
 ref	Coenure		
 entry	Cèpe		
-ref	Bolet et Champignon		
+ref	Bolet		
+ref	Champignon		
 entry	Cephaelis		
 pb	824	0828	4508755
 pb	825	0829	4508756

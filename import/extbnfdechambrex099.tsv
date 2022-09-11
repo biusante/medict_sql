@@ -134,8 +134,6 @@ entry	Utricule
 ref	Cellule		
 entry	Utrus		
 entry	Utta bira, utty renut		
-orth	Utta bira		
-orth	utty renut		
 entry	Utta manu		
 entry	Uttini (Gaetano-Gaspare)		
 entry	Uva		
@@ -145,8 +143,6 @@ entry	Thérapeutique
 ref	Busserole		
 entry	Uva vulpina		
 entry	Uvae damascenae ou uvae majores		
-orth	Uvae damascenae		
-orth	uvae majores		
 entry	Uvae passulae vel passulinae		
 entry	Uvaria		
 pb	126	0130	4595660
@@ -157,8 +153,6 @@ ref	Oeil
 entry	Uvette		
 entry	Uvifera		
 entry	Uvitinique ou Uvitique (Acide)		
-orth	Uvitinique		
-orth	Uvitique (Acide)		
 entry	Uvitonique (Acide)		
 pb	128	0132	4595662
 entry	Uvularia		
@@ -174,8 +168,6 @@ entry	Vacca Berlingieri
 ref	Berlinghieri		
 entry	Vaciet		
 entry	Vaccine, vaccination 		
-orth	Vaccine		
-orth	vaccination		
 pb	130	0134	4595664
 pb	131	0135	4595665
 pb	132	0136	4595666
@@ -274,8 +266,6 @@ pb	224	0228	4595758
 pb	225	0229	4595759
 pb	226	0230	4595760
 entry	Vaccine, vaccination		
-orth	Vaccine		
-orth	vaccination		
 pb	227	0231	4595761
 pb	228	0232	4595762
 pb	229	0233	4595763
@@ -292,8 +282,6 @@ entry	Vacqueiras (Eau minérale de)
 ref	Montmirail-Vacqueiras		
 entry	Vagin		
 entry	Vagin. Anatomie et Physiologie		
-orth	Vagin. Anatomie		
-orth	Physiologie		
 pb	231	0235	4595765
 pb	232	0236	4595766
 pb	233	0237	4595767
@@ -393,8 +381,6 @@ entry	Vaillant (Sébastien)
 pb	314	0318	4595848
 entry	Vaivelunghum		
 entry	Vaire ou Vers (Eau minérale de)		
-orth	Vaire		
-orth	Vers (Eau minérale de)		
 pb	315	0319	4595849
 entry	Vairon		
 entry	Vaisse (Eau minérale de)		
@@ -432,16 +418,12 @@ entry	Val-André (Station marine)
 entry	Valcarenghi (Paul)		
 entry	Valdes (Fernando)		
 entry	Valdieri ou Vaudier (Eaux minérales de)		
-orth	Valdieri		
-orth	Vaudier (Eaux minérales de)		
 pb	341	0345	4595875
 pb	342	0346	4595876
 pb	343	0347	4595877
 pb	344	0348	4595878
 pb	345	0349	4595879
 entry	Valdivia et Valdivine		
-orth	Valdivia		
-orth	Valdivine		
 pb	346	0350	4595880
 pb	347	0351	4595881
 pb	348	0352	4595882
@@ -463,8 +445,6 @@ pb	354	0358	4595888
 pb	355	0359	4595889
 pb	356	0360	4595890
 entry	Valéraldine ou Thivaléraldine		
-orth	Valéraldine		
-orth	Thivaléraldine		
 ref	Valéral		
 entry	Valéramide		
 pb	357	0361	4595891
@@ -484,14 +464,10 @@ entry	Valériane. Botanique
 pb	358	0362	4595892
 pb	359	0363	4595893
 entry	Valériane. Matière médicale et thérapeutique		
-orth	Valériane. Matière médicale		
-orth	thérapeutique		
 pb	360	0364	4595894
 pb	361	0365	4595895
 pb	362	0366	4595896
 entry	Valérianées ou Valérianacées		
-orth	Valérianées		
-orth	Valérianacées		
 pb	363	0367	4595897
 entry	Valérianelle		
 ref	Mache		
@@ -519,9 +495,6 @@ pb	375	0379	4595909
 entry	Valérylène		
 pb	376	0380	4595910
 entry	Valescus de Tarente ou Balescon de Tarente ou de Tharare		
-orth	Valescus de Tarente		
-orth	Balescon de Tarente		
-orth	de Tharare		
 entry	Valgus		
 ref	Pied (Pied-Bot)		
 entry	Valla (Giorgio)		
@@ -532,8 +505,6 @@ pb	378	0382	4595912
 entry	Vallenzasca (Guiseppe)		
 entry	Valleriola (François)		
 entry	Valles ou Vallesius (Francisco)		
-orth	Valles		
-orth	Vallesius (Francisco)		
 pb	379	0383	4595913
 entry	Vallet (Pilules de)		
 ref	Fer		
@@ -570,8 +541,6 @@ pb	393	0397	4595927
 pb	394	0398	4595928
 pb	395	0399	4595929
 entry	Van Castere ou Van Castre (Jacques)		
-orth	Van Castere		
-orth	Van Castre (Jacques)		
 entry	Vancouver (Ile de)		
 ref	Britanniques (Possession)		
 entry	Vandales		
@@ -602,9 +571,8 @@ entry	Vanilline
 entry	Vanilline. Chimie		
 pb	404	0408	4595938
 entry	Action physiologique et emploi		
-orth	Action physiologique		
-orth	emploi		
-ref	Vanille et Vanillisme		
+ref	Vanille		
+ref	Vanillisme		
 entry	Vanillique (Acide)		
 entry	Vanillisme		
 pb	405	0409	4595939
@@ -635,16 +603,10 @@ pb	414	0418	4595948
 entry	Varandal (Jean)		
 pb	415	0419	4595949
 entry	Varec ou Varech		
-orth	Varec		
-orth	Varech		
 entry	Botanique		
 entry	Varec ou Varech. Emploi médical		
-orth	Varec		
-orth	Varech. Emploi médical		
 pb	416	0420	4595950
 entry	Varennes-sur-Loire ou Varennes-sous-Montsoreau (Eau minérale de)		
-orth	Varennes-sur-Loire		
-orth	Varennes-sous-Montsoreau (Eau minérale de)		
 pb	417	0421	4595951
 entry	Varicelle		
 pb	418	0422	4595952
@@ -814,7 +776,8 @@ entry	Varronia
 entry	Varus		
 pb	568	0572	4596102
 entry	Vascons (Les)		
-ref	Basques et France		
+ref	Basques		
+ref	France		
 entry	Vasculose		
 entry	Vase		
 ref	Ustensiles		
@@ -881,8 +844,6 @@ pb	625	0629	4596159
 pb	626	0630	4596160
 pb	627	0631	4596161
 entry	Vassé (Loys) ou Vassaeus		
-orth	Vassé (Loys)		
-orth	Vassaeus		
 pb	628	0632	4596162
 entry	Vassès (Jean)		
 entry	Vatairea		
@@ -908,8 +869,6 @@ pb	635	0639	4596169
 entry	Vaymbu		
 entry	Vaza-Nabhi		
 entry	Veddas ou Veddahs (Les)		
-orth	Veddas		
-orth	Veddahs (Les)		
 ref	Ceylan		
 entry	Vega (Les deux)		
 entry	Végétale (Colique)		
@@ -917,17 +876,11 @@ ref	Coliques sèches
 entry	Végétations		
 ref	Plaies		
 entry	Veilleuse, Veillotte		
-orth	Veilleuse		
-orth	Veillotte		
 entry	Veines		
 entry	Veines. Anatomie et Physiologie		
-orth	Veines. Anatomie		
-orth	Physiologie		
 pb	636	0640	4596170
 pb	637	0641	4596171
 entry	Veines. Anatomie et physiologie		
-orth	Veines. Anatomie		
-orth	physiologie		
 pb	638	0642	4596172
 pb	639	0643	4596173
 pb	640	0644	4596174
@@ -1121,16 +1074,19 @@ pb	789	0793	4596323
 pb	790	0794	4596324
 pb	791	0795	4596325
 entry	Ver de Médine		
-ref	Filaires et Helminthes (n° 33)		
+ref	Filaires		
+ref	Helminthes (n° 33)		
 entry	Ver du Cayor		
 entry	Ver luisant		
 pb	792	0796	4596326
 entry	Ver Macaque		
 ref	Dermatobie		
-ref	Oestres et Macaque (Ver)		
+ref	Oestres		
+ref	Macaque (Ver)		
 entry	Ver moyoquil		
 ref	Dermatobie		
-ref	Oestre et Macaque (Ver)		
+ref	Oestre		
+ref	Macaque (Ver)		
 entry	Vératre		
 entry	Vératre. Botanique		
 pb	793	0797	4596327

@@ -3,7 +3,7 @@ pb	[s. pag.]	0002	4584610
 pb	[s. pag.]	0003	4584611
 pb	[s. pag.]	0004	4584612
 pb	1	0005	4584613
-entry	S iliaque		
+entry	iliaque		
 ref	Colon		
 entry	Saade		
 entry	Saalman (Franz-Raban)		
@@ -61,8 +61,6 @@ pb	24	0028	4584636
 entry	Saccharimètre		
 ref	Polarimètre		
 entry	Saccharique (Acide) ou Oxalhydrique		
-orth	Saccharique (Acide)		
-orth	Oxalhydrique		
 pb	25	0029	4584637
 entry	Saccharolés		
 entry	Saccharomyces		
@@ -77,7 +75,8 @@ entry	Saccharum
 entry	Saccharum. Botanique		
 pb	31	0035	4584643
 entry	Emploi médical		
-ref	Canne et Sucre		
+ref	Canne		
+ref	Sucre		
 entry	Saccharures (Pharmacie)		
 entry	Sacchero (Carlo-Giacinto)		
 pb	32	0036	4584644
@@ -179,7 +178,8 @@ pb	99	0103	4584711
 pb	100	0104	4584712
 entry	Sacrum		
 entry	Anatomie		
-ref	Bassin et Rachis		
+ref	Bassin		
+ref	Rachis		
 entry	Pathologie		
 ref	Sacro-coccygienne (Région)		
 entry	Safran		
@@ -234,8 +234,6 @@ pb	131	0135	4584743
 entry	Sagittale (Suture)		
 ref	Crâne		
 entry	Sagittelle ou Flèche		
-orth	Sagittelle		
-orth	Flèche		
 entry	Sagoin		
 entry	Sagou		
 pb	132	0136	4584744
@@ -262,8 +260,6 @@ entry	Saidschütz (Eaux minérales de)
 pb	145	0149	4584757
 entry	Saiffert (André)		
 entry	Saigne ou Sagne (Eau minérale de)		
-orth	Saigne		
-orth	Sagne (Eau minérale de)		
 entry	Saignée		
 pb	146	0150	4584758
 pb	147	0151	4584759
@@ -300,8 +296,6 @@ pb	177	0181	4584789
 pb	178	0182	4584790
 pb	179	0183	4584791
 entry	Sail-les-Chateaumorand ou Sail-les-Bains (Eaux minérales de)		
-orth	Sail-les-Chateaumorand		
-orth	Sail-les-Bains (Eaux minérales de)		
 pb	180	0184	4584792
 pb	181	0185	4584793
 entry	Sail-sous-Couzan (Eaux minérales de)		
@@ -416,7 +410,8 @@ ref	Sébastien (Saint-)
 entry	Saint-Seine-l'Abbaye (Station hydrothérapique)		
 ref	Seine-l'Abbaye (Saint-)		
 entry	Saint-Simon (Eaux minérales de)		
-ref	Aix-en-Savoie ou Aix-les-Bains		
+ref	Aix-en-Savoie		
+ref	Aix-les-Bains		
 entry	Saint-Thomas (Eaux minérales de)		
 ref	Thomas (Saint-)		
 entry	Saint-Ulrich (Eau minérale de)		
@@ -429,8 +424,6 @@ ref	Valery-sur-Somme (Saint-)
 entry	Saint-Vallier (Eau minérale de)		
 ref	Vallier (Saint-)		
 entry	Saint-Vertunien (François de), dit Lavau		
-orth	Saint-Vertunien (François de)		
-orth	dit Lavau		
 pb	190	0194	4584802
 entry	Saint-Waast		
 ref	Waast		
@@ -451,8 +444,6 @@ entry	Sainte-Marthe (Gaucher de)
 entry	Sainte-Quiterie-de-Tarascon (Eau minérale de)		
 pb	193	0197	4584805
 entry	Saisons et Maladies saisonnières		
-orth	Saisons		
-orth	Maladies saisonnières		
 pb	194	0198	4584806
 pb	195	0199	4584807
 pb	196	0200	4584808
@@ -549,7 +540,8 @@ pb	263	0267	4584875
 entry	Salangane		
 entry	Salans (Marais)		
 ref	Marais		
-ref	Saline et Saunier		
+ref	Saline		
+ref	Saunier		
 pb	264	0268	4584876
 entry	Salapang		
 entry	Salat (Vicente Garcia)		
@@ -689,8 +681,6 @@ entry	Salivaire
 ref	Pirèthre		
 pb	344	0348	4584956
 entry	Salivaires (Glandes) et Salive		
-orth	Salivaires (Glandes)		
-orth	Salive		
 pb	345	0349	4584957
 pb	346	0350	4584958
 pb	347	0351	4584959
@@ -856,22 +846,16 @@ ref	Mogori
 entry	Sambarana		
 entry	Sambaya		
 entry	Sambola, Sambula		
-orth	Sambola		
-orth	Sambula		
 ref	Sumbul		
 entry	Sambos (Les)		
 ref	Centre-Amérique		
 entry	Sambouc		
 entry	Sambresnobar		
 entry	Sambuc, Sambucus		
-orth	Sambuc		
-orth	Sambucus		
 ref	Sureau		
 pb	427	0431	4585039
 entry	Sambucine		
 entry	Sambucus ou Sambuc (Jean)		
-orth	Sambucus		
-orth	Sambuc (Jean)		
 entry	Samel (Johann-Carl-Éduard)		
 pb	428	0432	4585040
 entry	Sameno		
@@ -883,15 +867,13 @@ entry	Samoloide
 entry	Samolus		
 pb	430	0434	4585042
 entry	Samoyèdes		
-ref	Asie et Sibérie		
+ref	Asie		
+ref	Sibérie		
 entry	Sampacca		
 entry	Sampang		
 entry	Samponts (Les deux)		
 pb	431	0435	4585043
 entry	Sampsuchon, Sampsuchus, Sampsucus		
-orth	Sampsuchon		
-orth	Sampsuchus		
-orth	Sampsucus		
 entry	Samucus (Les)		
 ref	Amérique		
 entry	Samutra Pullum		
@@ -906,8 +888,6 @@ entry	Sancassani (Denis-André)
 entry	Sanchez (Les)		
 pb	433	0437	4585045
 entry	Sanctorius (Sanctorius), Santorio (Santorio)		
-orth	Sanctorius (Sanctorius)		
-orth	Santorio (Santorio)		
 pb	434	0438	4585046
 entry	Sanctum Lignum		
 ref	Gayac		
@@ -926,13 +906,9 @@ pb	438	0442	4585050
 pb	439	0443	4585051
 entry	Sanders (James)		
 entry	Sanders ou Sanderus (Jean)		
-orth	Sanders		
-orth	Sanderus (Jean)		
 entry	Sandifort (Edouard)		
 pb	440	0444	4585052
 entry	Sandix ou Sandyx		
-orth	Sandix		
-orth	Sandyx		
 entry	Sandmark (Gudinund)		
 entry	Sandoricum		
 pb	441	0445	4585053
@@ -945,8 +921,6 @@ entry	Sandwith (Les)
 pb	443	0447	4585055
 entry	Sang		
 entry	Sang. Anatomie et physiologie		
-orth	Sang. Anatomie		
-orth	physiologie		
 pb	444	0448	4585056
 pb	445	0449	4585057
 pb	446	0450	4585058
@@ -1207,8 +1181,6 @@ pb	681	0685	4585293
 entry	Sangsues artificielles		
 ref	Ventouses		
 entry	Sanguenie, Sanguenita		
-orth	Sanguenie		
-orth	Sanguenita		
 entry	Sanguinaire		
 entry	Sanguinaire. Botanique		
 pb	682	0686	4585294
@@ -1253,8 +1225,6 @@ pb	699	0703	4585311
 pb	700	0704	4585312
 pb	701	0705	4585313
 entry	Santalacées, Santalées		
-orth	Santalacées		
-orth	Santalées		
 pb	702	0706	4585314
 entry	Santaline		
 ref	Santal		
@@ -1300,8 +1270,6 @@ entry	Sanve
 ref	Moutarde		
 entry	Sanz (Juan-Gil)		
 entry	Sanzenelahé, Sanzenévaué		
-orth	Sanzenelahé		
-orth	Sanzenévaué		
 entry	Saoria		
 ref	Soaria		
 entry	Saouari		
@@ -1314,8 +1282,6 @@ entry	Saphène péronier
 ref	Poplité externe		
 entry	Saphènes (Veines)		
 entry	Saphènes (Veines). Anatomie et Physiologie		
-orth	Saphènes (Veines). Anatomie		
-orth	Physiologie		
 pb	722	0726	4585334
 pb	723	0727	4585335
 pb	724	0728	4585336
@@ -1353,7 +1319,8 @@ entry	Sapindus
 ref	Savonniers		
 entry	Sapinette (Botanique)		
 entry	Sapinette (Bière)		
-ref	Bière et Sapin		
+ref	Bière		
+ref	Sapin		
 entry	Sapium		
 entry	Sapogénine		
 ref	Saponine		
@@ -1370,9 +1337,6 @@ pb	754	0758	4585366
 pb	755	0759	4585367
 pb	756	0760	4585368
 entry	Saponés, Saponulés, Saponures		
-orth	Saponés		
-orth	Saponulés		
-orth	Saponures		
 pb	757	0761	4585369
 pb	758	0762	4585370
 entry	Saponification		
@@ -1391,11 +1355,10 @@ pb	760	0764	4585372
 entry	Saponures		
 ref	Saponés		
 entry	Saporétine		
-ref	Saponine et Saponique (Acide)		
+ref	Saponine		
+ref	Saponique (Acide)		
 entry	Saporta (Les)		
 entry	Sapotacées ou Sapotées		
-orth	Sapotacées		
-orth	Sapotées		
 pb	761	0765	4585373
 entry	Sapote		
 entry	Sapotille		
@@ -1431,13 +1394,9 @@ entry	Sarcocarpe
 entry	Sarcocèle		
 ref	Testicule		
 entry	Sarcocolle, Sarcocolline		
-orth	Sarcocolle		
-orth	Sarcocolline		
 entry	Sarcocollier		
 pb	770	0774	4585382
 entry	Sarcode, Sarcodiques (Mouvements)		
-orth	Sarcode		
-orth	Sarcodiques (Mouvements)		
 pb	771	0775	4585383
 pb	772	0776	4585384
 pb	773	0777	4585385

@@ -206,8 +206,6 @@ pb	195	0199	4572631
 pb	196	0200	4572632
 pb	197	0201	4572633
 entry	Ostéomes et tumeurs des os		
-orth	Ostéomes		
-orth	tumeurs des os		
 entry	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Ostéomes		
 pb	198	0202	4572634
 pb	199	0203	4572635
@@ -379,8 +377,6 @@ pb	359	0363	4572795
 pb	360	0364	4572796
 entry	Médecine légale		
 entry	Os propres du nez ou Os nasaux		
-orth	Os propres du nez		
-orth	Os nasaux		
 entry	Osages		
 ref	Amérique		
 entry	Osann (Les)		
@@ -399,8 +395,6 @@ entry	Oscabrions
 pb	366	0370	4572802
 pb	367	0371	4572803
 entry	Oscillaires ou Oscillatoriées		
-orth	Oscillaires		
-orth	Oscillatoriées		
 pb	368	0372	4572804
 entry	Oscinis		
 pb	369	0373	4572805
@@ -410,18 +404,14 @@ pb	370	0374	4572806
 entry	Oseille. Emploi médical		
 pb	371	0375	4572807
 entry	Oseille des bois, Oseille de bucheron		
-orth	Oseille des bois		
-orth	Oseille de bucheron		
 entry	Oseille de Guinée		
 entry	Oseille à trois feuilles		
 entry	Oseillette		
 entry	Osera y Estella (Jose Miguel de)		
 entry	Oseretskowski ou Ozeretskowski (Nicolas)		
-orth	Oseretskowski		
-orth	Ozeretskowski (Nicolas)		
 pb	372	0376	4572808
 entry	Osgood (Daniel)		
-entry	O'Shaugnessy (William-B.)		
+entry	Shaugnessy (William-B.)		
 entry	Osiander (Les deux)		
 pb	373	0377	4572809
 pb	374	0378	4572810
@@ -430,8 +420,6 @@ entry	Osier
 entry	Botanique		
 entry	Emploi médical		
 entry	Osier fleuri, Osier de Saint-Antoine		
-orth	Osier fleuri		
-orth	Osier de Saint-Antoine		
 entry	Oskamp (Diedrich-Leonhard)		
 pb	376	0380	4572812
 entry	Osmazome		
@@ -470,16 +458,13 @@ entry	Accidentelle
 entry	Normale		
 ref	Os		
 entry	Ossifraga, Ossifragum		
-orth	Ossifraga		
-orth	Ossifragum		
 pb	389	0393	4572825
 entry	Ossorio de Castro (Pedro)		
 entry	Ostéide		
 entry	Ostéine		
-ref	Osséine et Os		
+ref	Osséine		
+ref	Os		
 entry	Ostéite, Ostéomyélite		
-orth	Ostéite		
-orth	Ostéomyélite		
 pb	390	0394	4572826
 pb	391	0395	4572827
 pb	392	0396	4572828
@@ -608,8 +593,6 @@ pb	506	0510	4572942
 pb	507	0511	4572943
 pb	508	0512	4572944
 entry	Ostéocolle, ou Ostéolithe		
-orth	Ostéocolle		
-orth	Ostéolithe		
 pb	509	0513	4572945
 entry	Ostéocollon		
 entry	Ostéocope		
@@ -664,7 +647,8 @@ entry	Ostéoplaste
 ref	Os		
 entry	Ostéoplastie		
 entry	Ostéosarcome		
-ref	Os et Sarcome		
+ref	Os		
+ref	Sarcome		
 pb	543	0547	4572979
 entry	Ostéotomie		
 pb	544	0548	4572980
@@ -713,9 +697,7 @@ entry	Ostréidés
 pb	572	0576	4573008
 entry	Ostrogoths		
 entry	Ostrute ou Otruche		
-orth	Ostrute		
-orth	Otruche		
-entry	O'Sullivan (Les)		
+entry	Sullivan (Les)		
 entry	Oswald (Henry-Robert)		
 entry	Osyris (L.)		
 pb	573	0577	4573009
@@ -757,8 +739,6 @@ entry	Ott (Franz-Andreas)
 entry	Ottaviani (Vincenzo)		
 pb	582	0586	4573018
 entry	Otterburg ou Otterbourg (S. I.)		
-orth	Otterburg		
-orth	Otterbourg (S. I.)		
 entry	Otth (Charles-Adolphe)		
 entry	Oettinger (Hermann)		
 pb	583	0587	4573019
@@ -843,10 +823,6 @@ entry	Ounias
 entry	Ouolofs (Les)		
 ref	Sénégambie		
 entry	Ou-Poey-tse, Ou-Pey-ste, Ou-Pei-ste, Woo-Pei-Tsze		
-orth	Ou-Poey-tse		
-orth	Ou-Pey-ste		
-orth	Ou-Pei-ste		
-orth	Woo-Pei-Tsze		
 entry	Ouragan		
 pb	637	0641	4573073
 pb	638	0642	4573074
@@ -985,8 +961,6 @@ pb	737	0741	4573173
 pb	738	0742	4573174
 pb	739	0743	4573175
 entry	Ovaire. Pathologie. Déplacements et hernies de l'ovaire		
-orth	Ovaire. Pathologie. Déplacements		
-orth	hernies de l'ovaire		
 pb	740	0744	4573176
 pb	741	0745	4573177
 pb	742	0746	4573178

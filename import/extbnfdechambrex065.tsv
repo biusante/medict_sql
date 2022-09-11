@@ -200,8 +200,6 @@ pb	192	0196	4568696
 pb	193	0197	4568697
 pb	194	0198	4568698
 entry	Nez. Anthropologie, Ethnographie		
-orth	Nez. Anthropologie		
-orth	Ethnographie		
 pb	195	0199	4568699
 pb	196	0200	4568700
 pb	197	0201	4568701
@@ -216,9 +214,8 @@ ref	Fevillea
 entry	Niam-niam		
 ref	Nègres		
 entry	Niaouli ou Niauli		
-orth	Niaouli		
-orth	Niauli		
-ref	Cajeput et Melaleuque		
+ref	Cajeput		
+ref	Melaleuque		
 entry	Nicandre		
 pb	200	0204	4568704
 entry	Nicaragua		
@@ -265,8 +262,6 @@ pb	223	0227	4568727
 entry	Nicolas Myrepsus		
 ref	Myrepsus		
 entry	Nicolas ou Niccolo dit Praepositus		
-orth	Nicolas		
-orth	Niccolo dit Praepositus		
 entry	Nicolas de Reggio (Nicola di Reggio)		
 pb	224	0228	4568728
 entry	Nicole (Nicolas)		
@@ -316,7 +311,8 @@ entry	Nieder-Selters
 ref	Selters		
 entry	Nielle		
 ref	Blé		
-ref	Céréales et Nigelle		
+ref	Céréales		
+ref	Nigelle		
 entry	Niemann (Johann-Friedrich)		
 entry	Niemeyer (Les)		
 pb	243	0247	4568747
@@ -339,23 +335,18 @@ pb	250	0254	4568754
 entry	Nihil album		
 ref	Zinc		
 entry	Nika comestible		
-ref	Salicoque et Crevette		
+ref	Salicoque		
+ref	Crevette		
 entry	Nilbédousi		
 entry	Nillgué		
 entry	Niloufar		
 entry	Nil Tutiya		
 entry	Nimmo (Les)		
 entry	Ningi ou Ningick		
-orth	Ningi		
-orth	Ningick		
 entry	Ningilan		
 entry	Ninnin (Henry)		
 pb	251	0255	4568755
 entry	Ninsi, Ninsin, Nindsin, Nisji		
-orth	Ninsi		
-orth	Ninsin		
-orth	Nindsin		
-orth	Nisji		
 entry	Niobique (Acide)		
 entry	Niobium		
 pb	252	0256	4568756
@@ -364,8 +355,6 @@ entry	Niongiogam
 pb	254	0258	4568758
 entry	Niota		
 entry	Niotout, Niottout		
-orth	Niotout		
-orth	Niottout		
 entry	Nipa		
 entry	Nira-poosée		
 entry	Niruala		
@@ -378,8 +367,6 @@ entry	Nisus formativus
 entry	Nitidèles		
 ref	Araignées		
 entry	Nitracrol, ou Cholacrol		
-orth	Nitracrol		
-orth	Cholacrol		
 entry	Nitrates		
 ref	Azotates		
 entry	Nitre		
@@ -413,8 +400,6 @@ pb	267	0271	4568771
 pb	268	0272	4568772
 pb	269	0273	4568773
 entry	Nitroaniline, Nitraniline		
-orth	Nitroaniline		
-orth	Nitraniline		
 entry	Nitroanisidine		
 pb	270	0274	4568774
 entry	Nitroanisique (Acide)		
@@ -455,24 +440,15 @@ entry	Nitroleucique (Acide)
 entry	Nitroméconine		
 pb	280	0284	4568784
 entry	Nitromésidine ou Nitromésitylamine		
-orth	Nitromésidine		
-orth	Nitromésitylamine		
 entry	Nitrométacétates		
 entry	Nitrométastyrol		
 entry	Nitrométhane		
 pb	281	0285	4568785
 entry	Nitronaphtale, Nitronaphtléise, Nitronaphtalèse, Nitronaphtalise		
-orth	Nitronaphtale		
-orth	Nitronaphtléise		
-orth	Nitronaphtalèse		
-orth	Nitronaphtalise		
 entry	Nitronaphtaline		
 pb	282	0286	4568786
 pb	283	0287	4568787
 entry	Nitronaphtalinique ou Nitrophtalinique ou Nitroxynaphtalique (Acide)		
-orth	Nitronaphtalinique		
-orth	Nitrophtalinique		
-orth	Nitroxynaphtalique (Acide)		
 ref	Nitronaphtols		
 entry	Nitronaphtols		
 entry	Nitronaphtylamine		
@@ -489,8 +465,6 @@ entry	Nitropicrique (Acide)
 ref	Picrique (acide)		
 entry	Nitropikrile		
 entry	Nitroprussianures, Nitroprussiates		
-orth	Nitroprussianures		
-orth	Nitroprussiates		
 pb	286	0290	4568790
 entry	Nitropyrène		
 entry	Nitrosés (Composés)		
@@ -502,12 +476,8 @@ entry	Nitrospirolique (Acide)
 entry	Nitrospiroylique (Acide)		
 pb	288	0292	4568792
 entry	Nitrostilbase ou Nitrostilbile		
-orth	Nitrostilbase		
-orth	Nitrostilbile		
 entry	Nitrostyphnique (Acide)		
 entry	Nitrostyrol ou Nitrocinnamène		
-orth	Nitrostyrol		
-orth	Nitrocinnamène		
 ref	Nitrocinnamène		
 entry	Nitrosulfates		
 entry	Nitrosulfures		
@@ -532,8 +502,6 @@ entry	Noctilion
 entry	Noctiluques		
 entry	Nocturnes		
 entry	Nodosité, Nodus		
-orth	Nodosité		
-orth	Nodus		
 pb	295	0299	4568799
 entry	Noessler (Georges)		
 entry	Noeud		
@@ -544,11 +512,7 @@ entry	Nohèdes (Eau minérale de)
 entry	Nointot (Eau minérale de)		
 pb	296	0300	4568800
 entry	Noir animal, ou Charbon animal		
-orth	Noir animal		
-orth	Charbon animal		
 entry	Noisetier ou Coudrier		
-orth	Noisetier		
-orth	Coudrier		
 pb	297	0301	4568801
 entry	Noisillier		
 ref	Noisetier		
@@ -559,11 +523,13 @@ ref	Anacardier
 entry	Noix d'arec		
 ref	Arec		
 entry	Noix de ben		
-ref	Ben et Moringa		
+ref	Ben		
+ref	Moringa		
 entry	Noix de cypris		
 ref	Cypris		
 entry	Noix de galles		
-ref	Galles et Chêne		
+ref	Galles		
+ref	Chêne		
 entry	Noix muscade		
 ref	Muscade		
 entry	Noix vomique		
@@ -637,8 +603,6 @@ entry	Nonna-nancoul
 entry	Nonnius		
 ref	Nunnez		
 entry	Nonus ou Theophanes		
-orth	Nonus		
-orth	Theophanes		
 entry	Nonylène		
 pb	346	0350	4568850
 entry	Noortwyk (Guillaume)		
@@ -671,8 +635,6 @@ entry	Nose (Karl-Wilhelm)
 pb	356	0360	4568860
 entry	Nosencéphales		
 entry	Nosologie, Nosographie		
-orth	Nosologie		
-orth	Nosographie		
 entry	Nosomanie		
 entry	Nosophore		
 ref	Lit		
@@ -921,8 +883,6 @@ pb	567	0571	4569071
 pb	568	0572	4569072
 pb	569	0573	4569073
 entry	Nouveau-né. Pathologie du nouveau-né. De la cyanose indépendante des anomalies du coeur et des gros vaisseaux		
-orth	Nouveau-né. Pathologie du nouveau-né. De la cyanose indépendante des anomalies du coeur		
-orth	des gros vaisseaux		
 pb	570	0574	4569074
 pb	571	0575	4569075
 entry	Nouveau-né. Pathologie du nouveau-né. Exfoliation de l'épiderme		
@@ -1037,8 +997,6 @@ pb	673	0677	4569177
 pb	674	0678	4569178
 pb	675	0679	4569179
 entry	Nouveau-né. Pathologie du nouveau-né. Oedème et sclérème chez le nouveau-né		
-orth	Nouveau-né. Pathologie du nouveau-né. Oedème		
-orth	sclérème chez le nouveau-né		
 pb	676	0680	4569180
 pb	677	0681	4569181
 pb	678	0682	4569182
@@ -1077,8 +1035,6 @@ pb	707	0711	4569211
 pb	708	0712	4569212
 pb	709	0713	4569213
 entry	Nouveau-né. Pathologie du nouveau-né. Phlegmon et abcès de la mamelle		
-orth	Nouveau-né. Pathologie du nouveau-né. Phlegmon		
-orth	abcès de la mamelle		
 pb	710	0714	4569214
 pb	711	0715	4569215
 pb	712	0716	4569216
@@ -1088,7 +1044,8 @@ pb	715	0719	4569219
 pb	716	0720	4569220
 pb	717	0721	4569221
 entry	Médecine légale		
-ref	Infanticide et Accouchement		
+ref	Infanticide		
+ref	Accouchement		
 entry	Déontologie		
 ref	Déontologie médicale		
 entry	Nouvelle (La) (Station marine)		
@@ -1097,28 +1054,18 @@ pb	718	0722	4569222
 entry	Novella (Cosme)		
 entry	Noyau		
 entry	Noyer, Noix		
-orth	Noyer		
-orth	Noix		
 entry	Noyer, Noix. Botanique		
-orth	Noyer		
-orth	Noix. Botanique		
 pb	719	0723	4569223
 pb	720	0724	4569224
 pb	721	0725	4569225
 entry	Noyer, Noix. Pharmacologie		
-orth	Noyer		
-orth	Noix. Pharmacologie		
 pb	722	0726	4569226
 pb	723	0727	4569227
 pb	724	0728	4569228
 pb	725	0729	4569229
 entry	Noyer, Noix. Action physiologique		
-orth	Noyer		
-orth	Noix. Action physiologique		
 pb	726	0730	4569230
 entry	Noyer, Noix. Action thérapeutique		
-orth	Noyer		
-orth	Noix. Action thérapeutique		
 pb	727	0731	4569231
 pb	728	0732	4569232
 pb	729	0733	4569233
@@ -1144,7 +1091,8 @@ pb	745	0749	4569249
 pb	746	0750	4569250
 pb	747	0751	4569251
 entry	Nubilité		
-ref	Age et Puberté		
+ref	Age		
+ref	Puberté		
 entry	Nuceda (Gaspar-Lopez)		
 entry	Nucine		
 entry	Nucitannique (Acide)		
@@ -1184,23 +1132,17 @@ pb	770	0774	4569274
 pb	771	0775	4569275
 entry	Numan (Alexandre)		
 entry	Numérique (Méthode) ou Numérisme		
-orth	Numérique (Méthode)		
-orth	Numérisme		
 pb	772	0776	4569276
 entry	Numesianus		
 entry	Nummulaire		
 entry	Nummulites		
 pb	773	0777	4569277
 entry	Nunez ou Nunnez (Les)		
-orth	Nunez		
-orth	Nunnez (Les)		
 pb	774	0778	4569278
 pb	775	0779	4569279
 pb	776	0780	4569280
 entry	Nunn (Richard-Lorenzo)		
 entry	Nunnari ou Nannari		
-orth	Nunnari		
-orth	Nannari		
 entry	Nunneley (Thomas)		
 pb	777	0781	4569281
 entry	Nunziante (Eau minérale de)		
@@ -1211,14 +1153,10 @@ pb	781	0785	4569285
 entry	Nuphar		
 pb	782	0786	4569286
 entry	Nursia ou Norcia (Benedetto Da)		
-orth	Nursia		
-orth	Norcia (Benedetto Da)		
 pb	783	0787	4569287
 entry	Nusshard (Franz Wilibald)		
 entry	Nusshart (Leopold)		
 entry	Nuté ou Nutiya		
-orth	Nuté		
-orth	Nutiya		
 pb	784	0788	4569288
 entry	Nutriment		
 pb	785	0789	4569289
@@ -1255,8 +1193,6 @@ entry	Nyberg (Johan-Ulric)
 pb	812	0816	4569316
 entry	Nybläus (Johan-Eric)		
 entry	Nyctaginacées, Nyctaginées		
-orth	Nyctaginacées		
-orth	Nyctaginées		
 pb	813	0817	4569317
 pb	814	0818	4569318
 entry	Nyctalis		
@@ -1325,8 +1261,6 @@ entry	Addenda. Néphrotomie
 pb	855	0859	4569359
 pb	856	0860	4569360
 entry	Nhamdu ou Nhandi		
-orth	Nhamdu		
-orth	Nhandi		
 entry	Addenda. Nicol (John-Inglis)		
 pb	857	0861	4569361
 entry	Nieremberg (Juan-Eusebio)		

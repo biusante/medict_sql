@@ -7,8 +7,6 @@ entry	Grondins
 pb	2	0006	4534426
 entry	Gronovia (L.)		
 entry	Gronovius ou Gronov (Les)		
-orth	Gronovius		
-orth	Gronov (Les)		
 pb	3	0007	4534427
 pb	4	0008	4534428
 entry	Groos (Friedrich)		
@@ -20,16 +18,10 @@ pb	7	0011	4534431
 entry	Groschke (Johann-Gottlieb von)		
 pb	8	0012	4534432
 entry	Groseille, Groseillier		
-orth	Groseille		
-orth	Groseillier		
 entry	Groseille, Groseillier. Botanique		
-orth	Groseille		
-orth	Groseillier. Botanique		
 pb	9	0013	4534433
 pb	10	0014	4534434
 entry	Groseille, Groseillier. Applications médicales		
-orth	Groseille		
-orth	Groseillier. Applications médicales		
 pb	11	0015	4534435
 pb	12	0016	4534436
 entry	Groshans (Georg-Philip-Frederik)		
@@ -467,8 +459,6 @@ pb	396	0400	4534820
 pb	397	0401	4534821
 pb	398	0402	4534822
 entry	Guagno ou Saint-Antoine de Guagno (Eaux minérales de)		
-orth	Guagno		
-orth	Saint-Antoine de Guagno (Eaux minérales de)		
 pb	399	0403	4534823
 pb	400	0404	4534824
 pb	401	0405	4534825
@@ -516,8 +506,6 @@ entry	Guarinone (Christophe)
 pb	417	0421	4534841
 entry	Guarinonius (Hippolitus)		
 entry	Guastavini ou Guastavigno (Giulio)		
-orth	Guastavini		
-orth	Guastavigno (Giulio)		
 entry	Guatémala		
 ref	Centre Amérique		
 entry	Guattani (Carlo)		
@@ -534,8 +522,6 @@ pb	422	0426	4534846
 entry	Guckenberger (Ludolf)		
 entry	Gudiel (Geronimo)		
 entry	Guèbres ou Ghebers		
-orth	Guèbres		
-orth	Ghebers		
 ref	Parsis		
 pb	423	0427	4534847
 entry	Guède		
@@ -588,8 +574,6 @@ entry	Guêtres
 entry	Guettard (Jean-Étienne)		
 pb	448	0452	4534872
 entry	Gueule de lion, Gueule de loup		
-orth	Gueule de lion		
-orth	Gueule de loup		
 entry	Gueule noire		
 entry	Guevara (Alfonso-Rodriguez de)		
 pb	449	0453	4534873
@@ -597,13 +581,7 @@ entry	Guggenbühl (J.)
 entry	Guglielmini (Domenico)		
 pb	450	0454	4534874
 entry	Gugul, Gogul, Gugulu, Gugula		
-orth	Gugul		
-orth	Gogul		
-orth	Gugulu		
-orth	Gugula		
 entry	Gui ou Guy		
-orth	Gui		
-orth	Guy		
 pb	451	0455	4534875
 pb	452	0456	4534876
 pb	453	0457	4534877
@@ -628,15 +606,11 @@ entry	Guidi (Guido)
 pb	458	0462	4534882
 pb	459	0463	4534883
 entry	Guidot ou Guidott (Thomas)		
-orth	Guidot		
-orth	Guidott (Thomas)		
 entry	Guieticoroja		
 entry	Guigne		
 ref	Cerisier		
 entry	Guilandina		
 entry	Guilandinus ou Guilandini (Melchior)		
-orth	Guilandinus		
-orth	Guilandini (Melchior)		
 pb	459	0464	4534884
 entry	Guilbert (Les deux)		
 pb	461	0465	4534885
@@ -784,9 +758,6 @@ entry	Gunâkara
 entry	Gunda Biroza		
 entry	Gundelsheimer (Andreas von)		
 entry	Gunjha, Ganja, Ganjika		
-orth	Gunjha		
-orth	Ganja		
-orth	Ganjika		
 entry	Gunnera		
 ref	Gunnère		
 pb	551	0555	4534975
@@ -794,8 +765,6 @@ entry	Gunnère
 entry	Günsburg (Friedrich)		
 pb	552	0556	4534976
 entry	Günther ou Gunther (Les)		
-orth	Günther		
-orth	Gunther (Les)		
 pb	553	0557	4534977
 pb	554	0558	4534978
 pb	555	0559	4534979
@@ -804,8 +773,6 @@ entry	Gunti Parnighia
 entry	Güntner (Franz-Xavier, Ritter von)		
 pb	557	0561	4534981
 entry	Günz ou Güntz (Les)		
-orth	Günz		
-orth	Güntz (Les)		
 pb	558	0562	4534982
 entry	Gurgitello (Eau minérale de)		
 ref	Casamicciola d'Ischia		
@@ -935,7 +902,8 @@ pb	664	0668	4535088
 pb	665	0669	4535089
 pb	666	0670	4535090
 entry	Gutta Rosacéa		
-ref	Acné et Couperose		
+ref	Acné		
+ref	Couperose		
 entry	Gutte (Gomme)		
 ref	Gomme-gutte		
 entry	Guttiers		
@@ -1214,8 +1182,6 @@ entry	Gairdner (William)
 entry	Galama (Sipke-Jans)		
 entry	Galbiati (Gennaro)		
 entry	Galette ou Gallette (Jean-François)		
-orth	Galette		
-orth	Gallette (Jean-François)		
 entry	Addenda. Galezowski (Severin)		
 pb	885	0889	4535309
 entry	Galleen (Olof)		
@@ -1278,8 +1244,6 @@ entry	Glover (Robert-Mortimer)
 entry	Addenda. Gobée (Carl)		
 pb	895	0899	4535319
 entry	Gocklenius ou Goclenius (Rodolph		
-orth	Gocklenius		
-orth	Goclenius (Rodolph		
 entry	Godefroy		
 entry	Godman (John-D.)		
 entry	Goethals (Aegidius)		
@@ -1296,8 +1260,6 @@ entry	Addenda
 entry	Göppert (Heinrich-Robert)		
 entry	Göricke (Adolph-Wilhelm-Theodor)		
 entry	Goris ou Gorris (Gerard)		
-orth	Goris		
-orth	Gorris (Gerard)		
 entry	Addenda. Gorter (David de)		
 pb	898	0902	4535322
 entry	Götz (A.-F.)		

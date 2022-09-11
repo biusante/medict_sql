@@ -116,8 +116,6 @@ entry	Daysous (Les)
 ref	Nègres		
 entry	Daza (Alonso-Diez)		
 entry	Daza ou Daça Chacon (Dionisio)		
-orth	Daza		
-orth	Daça Chacon (Dionisio)		
 pb	68	0072	4518374
 entry	Dazille (Jean-Barthélemy)		
 pb	69	0073	4518375
@@ -127,8 +125,6 @@ entry	Dease (William)
 pb	70	0074	4518376
 entry	Deauville (Station marine)		
 entry	Débardeurs, Déchargeurs de bateaux (Hygiène)		
-orth	Débardeurs		
-orth	Déchargeurs de bateaux (Hygiène)		
 pb	71	0075	4518377
 pb	72	0076	4518378
 pb	73	0077	4518379
@@ -239,8 +235,6 @@ pb	152	0156	4518458
 entry	Déclaration		
 entry	Déclin		
 entry	Décoction, Décoctum		
-orth	Décoction		
-orth	Décoctum		
 pb	153	0157	4518459
 pb	154	0158	4518460
 pb	155	0159	4518461
@@ -291,7 +285,8 @@ pb	183	0187	4518489
 pb	184	0188	4518490
 entry	Défécation (Pharmacie)		
 entry	Déférent (Canal)		
-ref	Spermatiques (Voies) et Testicule		
+ref	Spermatiques (Voies)		
+ref	Testicule		
 entry	Déflexion		
 entry	Défloration		
 ref	Viol		
@@ -328,8 +323,6 @@ pb	211	0215	4518517
 entry	Defrutum		
 entry	Degen (August-Friedrich-Ernst)		
 entry	Degener ou Degner (Les)		
-orth	Degener		
-orth	Degner (Les)		
 pb	212	0216	4518518
 entry	Dégénération		
 ref	Dégénérescence		
@@ -426,8 +419,6 @@ pb	279	0283	4518585
 pb	280	0284	4518586
 pb	281	0285	4518587
 entry	Dekan, Dekhan		
-orth	Dekan		
-orth	Dekhan		
 ref	Hindoustan		
 entry	Dekkers (Les)		
 pb	282	0286	4518588
@@ -719,29 +710,18 @@ entry	Delmas (Eugène)
 entry	Delonnes		
 ref	Imbert-Delonnes		
 entry	Delorme ou De Lorme (Les)		
-orth	Delorme		
-orth	De Lorme (Les)		
 pb	521	0525	4518827
 entry	Delpech (Les deux)		
 pb	522	0526	4518828
 pb	523	0527	4518829
 entry	Delphine, Delphinoïdine, Delphisine		
-orth	Delphine		
-orth	Delphinoïdine		
-orth	Delphisine		
 entry	Delphine, Delphinoïdine, Delphisine. Chimie		
-orth	Delphine		
-orth	Delphinoïdine		
-orth	Delphisine. Chimie		
 pb	524	0528	4518830
 pb	525	0529	4518831
 pb	526	0530	4518832
 pb	527	0531	4518833
 pb	528	0532	4518834
 entry	Delphine, Delphinoïdine, Delphisine. Action physiologique		
-orth	Delphine		
-orth	Delphinoïdine		
-orth	Delphisine. Action physiologique		
 pb	529	0533	4518835
 pb	530	0534	4518836
 pb	531	0535	4518837
@@ -756,9 +736,6 @@ pb	539	0543	4518845
 pb	540	0544	4518846
 pb	541	0545	4518847
 entry	Delphine, Delphinoïdine, Delphisine. Emploi médical		
-orth	Delphine		
-orth	Delphinoïdine		
-orth	Delphisine. Emploi médical		
 pb	542	0546	4518848
 pb	543	0547	4518849
 entry	Médecine légale		
@@ -904,8 +881,6 @@ pb	648	0652	4518954
 pb	649	0653	4518955
 pb	650	0654	4518956
 entry	Démographie, Démologie		
-orth	Démographie		
-orth	Démologie		
 pb	651	0655	4518957
 pb	652	0656	4518958
 pb	653	0657	4518959
@@ -918,9 +893,6 @@ pb	659	0663	4518965
 pb	660	0664	4518966
 pb	661	0665	4518967
 entry	Démon, Ange, Esprit		
-orth	Démon		
-orth	Ange		
-orth	Esprit		
 pb	662	0666	4518968
 pb	663	0667	4518969
 pb	664	0668	4518970
@@ -1023,7 +995,8 @@ pb	743	0747	4519049
 entry	Denonvilliers (Charles-Pierre)		
 pb	744	0748	4519050
 entry	Densimètre		
-ref	Aréomètre et Densité		
+ref	Aréomètre		
+ref	Densité		
 entry	Densité		
 pb	745	0749	4519051
 pb	746	0750	4519052

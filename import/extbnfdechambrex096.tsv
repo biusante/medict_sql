@@ -66,8 +66,6 @@ pb	55	0059	4593380
 pb	56	0060	4593381
 entry	Tête de clou		
 entry	Tête cornue ou Cornuet		
-orth	Tête cornue		
-orth	Cornuet		
 entry	Tête de Méduse		
 entry	Tête de mort		
 entry	Têtes plates		
@@ -202,8 +200,6 @@ pb	80	0084	4593405
 entry	Thaliacés		
 entry	Thalictrum		
 entry	Thaliphtorion ou Thelyphthorion		
-orth	Thaliphtorion		
-orth	Thelyphthorion		
 entry	Thallia		
 entry	Thalline		
 pb	81	0085	4593406
@@ -220,19 +216,13 @@ pb	90	0094	4593415
 entry	Thallochlore		
 entry	Thamar		
 entry	Thamath ou Tamacth		
-orth	Thamath		
-orth	Tamacth		
 entry	Than-mo ou Wa-mo		
-orth	Than-mo		
-orth	Wa-mo		
 entry	Thansa		
 ref	Sarul		
 entry	Thapsia (T.)		
 entry	Thapsia (T.). Botanique		
 pb	91	0095	4593416
 entry	Thapsia. Matière médicale et thérapeutique		
-orth	Thapsia. Matière médicale		
-orth	thérapeutique		
 pb	92	0096	4593417
 pb	93	0097	4593418
 pb	94	0098	4593419
@@ -552,8 +542,6 @@ entry	Thibaut (Jean)
 pb	316	0320	4593641
 entry	Thibert (Philibert-Félix)		
 entry	Thibet ou Tibet		
-orth	Thibet		
-orth	Tibet		
 pb	317	0321	4593642
 pb	318	0322	4593643
 pb	319	0323	4593644
@@ -587,8 +575,6 @@ entry	Thiochronique (Acide)
 entry	Thiocinnol		
 entry	Thiocuminamide		
 entry	Thiocuminol ou Thiocumol		
-orth	Thiocuminol		
-orth	Thiocumol		
 entry	Thiocyanhydrique (Acide)		
 entry	Thiodiacétique (Acide)		
 entry	Thiodiglycolamide		
@@ -623,8 +609,6 @@ entry	Thiosuccinique (Acide)
 entry	Thiotéréphtalique (Acide)		
 entry	Thiotérine		
 entry	Thiothio ou Quioquio		
-orth	Thiothio		
-orth	Quioquio		
 entry	Thiothymol		
 entry	Thiovalérique (Acide)		
 entry	Thirial (Hyacinthe-Eliezer)		
@@ -684,14 +668,16 @@ pb	366	0370	4593691
 pb	367	0371	4593692
 pb	368	0372	4593693
 entry	Thoracentèse		
-ref	Pleurésie et Poitrine		
+ref	Pleurésie		
+ref	Poitrine		
 entry	Thoracique (Canal)		
 pb	369	0373	4593694
 pb	370	0374	4593695
 entry	Thoracique (Région)		
 ref	Poitrine		
 entry	Thoracopages		
-ref	Sternopages et Xiphopages		
+ref	Sternopages		
+ref	Xiphopages		
 entry	Thoracotomie		
 ref	Poitrine (Médecine opératoire)		
 entry	Thoradelphes		
@@ -703,8 +689,6 @@ pb	371	0375	4593696
 entry	Thornton (John-Robert)		
 pb	372	0376	4593697
 entry	Thorstensen ou Thorsteinson (Jón)		
-orth	Thorstensen		
-orth	Thorsteinson (Jón)		
 entry	Thoüin (André)		
 entry	Thouret (Michel-Augustin)		
 pb	373	0377	4593698
@@ -762,15 +746,9 @@ entry	Thuri
 entry	Thurnam (John L.)		
 pb	410	0414	4593735
 entry	Thuya, Thuja (T.)		
-orth	Thuya		
-orth	Thuja (T.)		
 pb	411	0415	4593736
 entry	Thuyène		
 entry	Thuyétine, Thuyine, Thuyétique (Acide), Thuyigénine		
-orth	Thuyétine		
-orth	Thuyine		
-orth	Thuyétique (Acide)		
-orth	Thuyigénine		
 pb	412	0416	4593737
 entry	Thyion		
 entry	Thylacine		
@@ -781,10 +759,6 @@ pb	413	0417	4593738
 entry	Thym. Emploi		
 pb	414	0418	4593739
 entry	Thym (Essence de), Thymène, Thymol, Thymoquinone		
-orth	Thym (Essence de)		
-orth	Thymène		
-orth	Thymol		
-orth	Thymoquinone		
 pb	415	0419	4593740
 entry	Thymalon		
 entry	Thymbé		
@@ -793,8 +767,6 @@ entry	Thymène
 ref	Thym		
 entry	Thymiatitis		
 entry	Thymol, Thymoquinone		
-orth	Thymol		
-orth	Thymoquinone		
 ref	Thym		
 entry	Thymotique (Acide)		
 entry	Thymus		
@@ -938,14 +910,10 @@ entry	Thyroïdiennes (Veines)
 pb	520	0524	4593845
 entry	Thyrsion		
 entry	Thysanoures ou Thysanures		
-orth	Thysanoures		
-orth	Thysanures		
 pb	521	0525	4593846
 pb	522	0526	4593847
 entry	Thysselinum		
 entry	Ti ou Tii		
-orth	Ti		
-orth	Tii		
 entry	Tiaili		
 entry	Tibalau		
 entry	Tibbones		
@@ -1080,7 +1048,8 @@ pb	606	0610	4593931
 entry	Tipulaires		
 ref	Diptères		
 entry	Tiques		
-ref	Ixodes et Arachnides		
+ref	Ixodes		
+ref	Arachnides		
 entry	Tire-balle		
 pb	607	0611	4593932
 entry	Tire-fond		
@@ -1098,8 +1067,6 @@ ref	Histologie
 entry	Tissus médicamenteux		
 ref	Sparadraps		
 entry	Titane et Composés		
-orth	Titane		
-orth	Composés		
 pb	613	0617	4593938
 entry	Titanique (Acide)		
 pb	614	0618	4593939
@@ -1126,7 +1093,8 @@ ref	Sparadraps
 entry	Tolane		
 entry	Tolet (François)		
 entry	Toltèques		
-ref	Amérique et Mexique		
+ref	Amérique		
+ref	Mexique		
 entry	Tolu (Baume de)		
 pb	617	0621	4593942
 entry	Toluène		
@@ -1153,7 +1121,8 @@ entry	Tommo
 entry	Tommou		
 entry	Tonga		
 ref	Géographie médicale		
-ref	Dermatoses et Framboesia		
+ref	Dermatoses		
+ref	Framboesia		
 entry	Tongiens (Les)		
 ref	Mélanésie		
 entry	Tongouses (Les)		
@@ -1169,7 +1138,8 @@ pb	628	0632	4593953
 pb	629	0633	4593954
 pb	630	0634	4593955
 entry	Tonka (Fève)		
-ref	Coumarouna et Fève		
+ref	Coumarouna		
+ref	Fève		
 entry	Tonkin		
 pb	631	0635	4593956
 pb	632	0636	4593957
@@ -1204,7 +1174,8 @@ pb	660	0664	4593985
 pb	661	0665	4593986
 entry	Tonne		
 entry	Tonnerre		
-ref	Fulguration et Orage		
+ref	Fulguration		
+ref	Orage		
 entry	Tonsilles		
 ref	Amygdales		
 entry	Tonsilles du cervelet		
@@ -1212,7 +1183,8 @@ ref	Cervelet
 entry	Topinambour		
 pb	662	0666	4593987
 entry	Topographie médicale		
-ref	Géographie médicale et Climat		
+ref	Géographie médicale		
+ref	Climat		
 entry	Toque		
 ref	Scutellaire		
 entry	Torcol		
@@ -1274,7 +1246,8 @@ pb	698	0702	4594023
 pb	699	0703	4594024
 pb	700	0704	4594025
 entry	Torture		
-ref	Blessures et Supplices		
+ref	Blessures		
+ref	Supplices		
 entry	Torula		
 entry	Toskes (Les)		
 ref	Albanie		
@@ -1285,7 +1258,8 @@ entry	Totipalmes
 entry	Totonaques (Les)		
 ref	Mexique		
 entry	Touaregs (Les)		
-ref	Berbers et Sahara		
+ref	Berbers		
+ref	Sahara		
 entry	Toucan		
 pb	703	0707	4594028
 entry	Toucher		
@@ -1389,8 +1363,6 @@ pb	775	0779	4594100
 entry	Tozzi (Luca)		
 entry	Trachée		
 entry	Anatomie et physiologie		
-orth	Anatomie		
-orth	physiologie		
 ref	Bronches		
 entry	Développement		
 ref	Poumons		

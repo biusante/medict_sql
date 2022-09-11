@@ -97,7 +97,8 @@ pb	89	0093	4526078
 entry	Espeletia		
 entry	Espenberg (Karl von)		
 entry	Esprit		
-ref	Démons et Spiritisme		
+ref	Démons		
+ref	Spiritisme		
 entry	Esprits		
 entry	Esprits. Chimie		
 pb	90	0094	4526079
@@ -126,8 +127,6 @@ pb	97	0101	4526086
 entry	Estoher (Eau minérale d')		
 entry	Estomac		
 entry	Estomac. Anatomie et histologie		
-orth	Estomac. Anatomie		
-orth	histologie		
 pb	98	0102	4526087
 pb	99	0103	4526088
 pb	100	0104	4526089
@@ -334,16 +333,16 @@ ref	Éthyle
 entry	Éthène		
 ref	Éthylène		
 entry	Éther (Physique)		
-ref	Mouvement et Radiations		
+ref	Mouvement		
+ref	Radiations		
 entry	Éthérats ou Éthérolats		
-orth	Éthérats		
-orth	Éthérolats		
 entry	Éthérène		
 ref	Éthylène		
 pb	271	0275	4526260
 entry	Éthérine		
 entry	Éthérisation		
-ref	Anesthésie et Éthers		
+ref	Anesthésie		
+ref	Éthers		
 entry	Éthérisme		
 ref	Éthers		
 entry	Éthérol		
@@ -419,7 +418,8 @@ pb	329	0333	4526318
 entry	Ethmoïde		
 ref	Crâne		
 entry	Ethnologie		
-ref	Races et Espèce humaine		
+ref	Races		
+ref	Espèce humaine		
 entry	Éthuse		
 ref	Aethuse		
 entry	Éthylalizarine		
@@ -439,8 +439,6 @@ pb	333	0337	4526322
 pb	334	0338	4526323
 pb	335	0339	4526324
 entry	Éthylène. Action physiologique et emploi thérapeutique		
-orth	Éthylène. Action physiologique		
-orth	emploi thérapeutique		
 pb	336	0340	4526325
 pb	337	0341	4526326
 entry	Éthylène-diamine		
@@ -459,8 +457,6 @@ pb	339	0343	4526328
 entry	Éthylpropylène		
 entry	Éthylpurpurine		
 entry	Éthylterpène ou Éterpène		
-orth	Éthylterpène		
-orth	Éterpène		
 entry	Éthylurée		
 pb	340	0344	4526329
 entry	Éthylvanilline		
@@ -485,7 +481,8 @@ entry	Étourneau
 pb	354	0358	4526343
 entry	Étretat (Station marine)		
 entry	Étrier		
-ref	Facial et Oreille		
+ref	Facial		
+ref	Oreille		
 entry	Étrille		
 entry	Ettmüller (Les deux)		
 entry	Étuves naturelles		
@@ -505,16 +502,12 @@ pb	366	0370	4526355
 pb	367	0371	4526356
 entry	Eucalyne		
 entry	Eucalyptène et Eucalyptol		
-orth	Eucalyptène		
-orth	Eucalyptol		
 ref	Eucalyptus (Thérapeutique)		
 entry	Eucalyptus		
 entry	Eucalyptus. Botanique		
 pb	368	0372	4526357
 pb	369	0373	4526358
 entry	Eucalyptus. Matière médicale et thérapeutique de l'Eucalyptus globulus		
-orth	Eucalyptus. Matière médicale		
-orth	thérapeutique de l'Eucalyptus globulus		
 pb	370	0374	4526359
 pb	371	0375	4526360
 pb	372	0376	4526361
@@ -582,8 +575,6 @@ pb	401	0405	4526390
 entry	Euphraise		
 entry	Eupione		
 entry	Euribali ou Juribali		
-orth	Euribali		
-orth	Juribali		
 pb	402	0406	4526391
 entry	Eurotium		
 entry	Euryale (Euryale Salisb.)		
@@ -605,11 +596,7 @@ entry	Euterpe
 pb	404	0408	4526393
 entry	Eutychius		
 entry	Euxanthine ou Euxanthique (Acide)		
-orth	Euxanthine		
-orth	Euxanthique (Acide)		
 entry	Euxanthone ou Purréon		
-orth	Euxanthone		
-orth	Purréon		
 entry	Euzet-les-Bains (Eaux minérales d')		
 pb	405	0409	4526394
 pb	406	0410	4526395
@@ -620,7 +607,8 @@ ref	Syncope
 pb	408	0412	4526397
 entry	Evans (Les)		
 entry	Évaporation		
-ref	Chaleur et Vaporisation		
+ref	Chaleur		
+ref	Vaporisation		
 entry	Évaux (Eaux minérales et conferves d')		
 pb	409	0413	4526398
 pb	410	0414	4526399
@@ -637,8 +625,6 @@ entry	Éverninique (Acide)
 entry	Évernique (Acide)		
 entry	Evers (Otto-Justus)		
 entry	Évian et Amphion (Eaux minérales d')		
-orth	Évian		
-orth	Amphion (Eaux minérales d')		
 pb	416	0420	4526405
 pb	417	0421	4526406
 pb	418	0422	4526407
@@ -646,7 +632,8 @@ pb	419	0423	4526408
 pb	420	0424	4526409
 pb	421	0425	4526410
 entry	Évidement		
-ref	Résections et Périoste		
+ref	Résections		
+ref	Périoste		
 entry	Evodia		
 pb	422	0426	4526411
 entry	Évodyle		
@@ -669,12 +656,14 @@ entry	Excision
 ref	Opérations		
 entry	Excitabilité		
 ref	Nerveux		
-ref	Moelle et Irritabilité		
+ref	Moelle		
+ref	Irritabilité		
 entry	Excitants		
 ref	Stimulants		
 entry	Excrémentitielles (Matières)		
 ref	Fécales (Matières)		
-ref	Urines et Sécrétions		
+ref	Urines		
+ref	Sécrétions		
 entry	Excreta		
 entry	Excrétion		
 ref	Sécrétion		
@@ -700,8 +689,6 @@ entry	Exogonium (Choisy)
 entry	Exomphale		
 ref	Ombilic		
 entry	Exophthalmique (Cachexie) et Exophthalmos		
-orth	Exophthalmique (Cachexie)		
-orth	Exophthalmos		
 ref	Goître		
 entry	Exorcisme		
 ref	Démons		
@@ -725,8 +712,6 @@ pb	443	0447	4526432
 entry	Expectoration		
 ref	Crachats		
 entry	Expérience, Expérimentation		
-orth	Expérience		
-orth	Expérimentation		
 pb	444	0448	4526433
 pb	445	0449	4526434
 pb	446	0450	4526435

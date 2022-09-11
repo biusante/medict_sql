@@ -11,7 +11,8 @@ entry	Plâtre
 entry	Plâtre. Chimie		
 pb	3	0007	4578865
 entry	Emploi		
-ref	Bandages et Fractures		
+ref	Bandages		
+ref	Fractures		
 entry	Plâtriers		
 ref	Chaux (Fours à)		
 entry	Plattensee (Eaux minérales de)		
@@ -189,7 +190,8 @@ pb	140	0144	4579002
 pb	141	0145	4579003
 pb	142	0146	4579004
 entry	Plexus Choroïde (Artère du)		
-ref	Choroïde et Oeil		
+ref	Choroïde		
+ref	Oeil		
 entry	Pli de Douglas		
 ref	Péritoine		
 entry	Plie		
@@ -237,10 +239,9 @@ pb	175	0179	4579037
 entry	Plomb des vidangeurs		
 ref	Vidanges		
 entry	Plombage des dents		
-ref	Carie et Dents		
+ref	Carie		
+ref	Dents		
 entry	Plombagin ou Plombagine		
-orth	Plombagin		
-orth	Plombagine		
 pb	176	0180	4579038
 entry	Plombates		
 ref	Plomb		
@@ -275,7 +276,8 @@ pb	193	0197	4579055
 entry	Plumbago		
 ref	Dentelaire		
 entry	Plumes		
-ref	Tégumentaire et Phanérophores		
+ref	Tégumentaire		
+ref	Phanérophores		
 entry	Plumier (Charles)		
 entry	Plumiera		
 entry	Plumulaires		
@@ -283,8 +285,6 @@ pb	194	0198	4579056
 entry	Pluvier		
 pb	195	0199	4579057
 entry	Pnéomètre, Pnéoscope		
-orth	Pnéomètre		
-orth	Pnéoscope		
 ref	Spiromètre		
 entry	Pneuma		
 ref	Médecine (Histoire)		
@@ -621,8 +621,6 @@ pb	453	0457	4579315
 pb	454	0458	4579316
 entry	Anatomie comparée		
 entry	Anomalies et vices de conformation		
-orth	Anomalies		
-orth	vices de conformation		
 pb	455	0459	4579317
 entry	Poitrine		
 entry	Poitrine. Physiologie		
@@ -746,19 +744,13 @@ pb	571	0575	4579433
 pb	572	0576	4579434
 pb	573	0577	4579435
 entry	Poivrier, Poivre		
-orth	Poivrier		
-orth	Poivre		
 entry	Poivrier, Poivre. Botanique		
-orth	Poivrier		
-orth	Poivre. Botanique		
 pb	574	0578	4579436
 pb	575	0579	4579437
 pb	576	0580	4579438
 pb	577	0581	4579439
 pb	578	0582	4579440
 entry	Poivrier, Poivre. Thérapeutique		
-orth	Poivrier		
-orth	Poivre. Thérapeutique		
 pb	579	0583	4579441
 pb	580	0584	4579442
 pb	581	0585	4579443
@@ -794,7 +786,8 @@ pb	596	0600	4579458
 pb	597	0601	4579459
 pb	598	0602	4579460
 entry	Pollakiurie		
-ref	Diabète et Sychnurie		
+ref	Diabète		
+ref	Sychnurie		
 entry	Polli (Giovanni)		
 entry	Pollich (Martin)		
 entry	Pollution		
@@ -804,7 +797,8 @@ ref	Diplopodes
 entry	Polya (Josef)		
 pb	599	0603	4579461
 entry	Polyadénomes		
-ref	Adénomes et Épithéliales (Tumeurs)		
+ref	Adénomes		
+ref	Épithéliales (Tumeurs)		
 entry	Polyarthrite		
 ref	Arthrite		
 entry	Polybe		
@@ -823,25 +817,14 @@ ref	Diplopodes
 entry	Polydipsie		
 ref	Diabète		
 entry	Polygala, polygalées, polygalacées		
-orth	Polygala		
-orth	polygalées		
-orth	polygalacées		
 entry	Polygala, polygalées, polygalacées. Botanique		
-orth	Polygala		
-orth	polygalées		
-orth	polygalacées. Botanique		
 pb	601	0605	4579463
 pb	602	0606	4579464
 entry	Polygala, polygalées, polygalacées. Thérapeutique		
-orth	Polygala		
-orth	polygalées		
-orth	polygalacées. Thérapeutique		
 pb	603	0607	4579465
 pb	604	0608	4579466
 pb	605	0609	4579467
 entry	Polygaline ou Polygalique (Acide)		
-orth	Polygaline		
-orth	Polygalique (Acide)		
 ref	Polygala		
 entry	Polygenèse		
 ref	Génération		
@@ -850,8 +833,6 @@ pb	606	0610	4579468
 entry	Polygnathie		
 entry	Polygnathiens		
 entry	Polygonacées ou Polygonées		
-orth	Polygonacées		
-orth	Polygonées		
 entry	Polygonatum		
 ref	Muguet		
 pb	607	0611	4579469
@@ -935,8 +916,6 @@ pb	639	0643	4579501
 entry	Pontaillac (Station marine)		
 entry	Pontchouly (Eau minérale de)		
 entry	Pontrieux ou Portrieux (Station marine)		
-orth	Pontrieux		
-orth	Portrieux (Station marine)		
 pb	640	0644	4579502
 entry	Poplité (Muscle)		
 pb	641	0645	4579503

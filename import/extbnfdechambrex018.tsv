@@ -147,15 +147,11 @@ pb	120	0124	4512183
 pb	121	0125	4512184
 pb	122	0126	4512185
 entry	Climatériques, ou Climactériques (Années)		
-orth	Climatériques		
-orth	Climactériques (Années)		
 pb	123	0127	4512186
 pb	124	0128	4512187
 pb	125	0129	4512188
 entry	Clinch (William)		
 entry	Clinidés ou Clinosporés		
-orth	Clinidés		
-orth	Clinosporés		
 pb	126	0130	4512189
 entry	Clinique		
 pb	127	0131	4512190
@@ -189,14 +185,13 @@ ref	Narcisse
 entry	Cloisonnement (Anomalie par)		
 pb	139	0143	4512202
 entry	Clonique (Spasme)		
-ref	Convulsion et Spasme		
+ref	Convulsion		
+ref	Spasme		
 entry	Cloporte		
 pb	140	0144	4512203
 entry	Cloquet (Hippolyte)		
 entry	Cloquet (Louis-André-Ernest)		
 entry	Closs ou Clossius (Les deux)		
-orth	Closs		
-orth	Clossius (Les deux)		
 pb	141	0145	4512204
 entry	Clot (Antoine-Barthélemy)		
 pb	142	0146	4512205
@@ -207,7 +202,8 @@ ref	Furoncle
 entry	Clou de girofle		
 ref	Giroflier		
 entry	Clous fumants		
-ref	Benjoin et Fumigations		
+ref	Benjoin		
+ref	Fumigations		
 entry	Clous matrices		
 ref	Giroflier		
 entry	Cloutiers (Hygiène)		
@@ -226,8 +222,6 @@ ref	Lescluse
 entry	Clutie		
 ref	Cluytia		
 entry	Cluyt ou Clutius (Les deux)		
-orth	Cluyt		
-orth	Clutius (Les deux)		
 entry	Cluytia		
 pb	146	0150	4512209
 entry	Clymenum		
@@ -243,8 +237,6 @@ pb	147	0151	4512210
 entry	Cnéorum		
 pb	148	0152	4512211
 entry	Cnestran, Cnestum		
-orth	Cnestran		
-orth	Cnestum		
 entry	Cnestis		
 entry	Cnicin		
 entry	Cnicus		
@@ -307,11 +299,10 @@ pb	173	0177	4512236
 entry	Cocculus		
 pb	174	0178	4512237
 entry	Coccum gnidium ou Cocca gnidia		
-orth	Coccum gnidium		
-orth	Cocca gnidia		
 ref	Garou		
 entry	Coccus (Cochenille)		
-ref	Cochenille et Laque		
+ref	Cochenille		
+ref	Laque		
 entry	Coccycéphale		
 entry	Coccydinie		
 ref	Coccygodymie		
@@ -323,7 +314,8 @@ pb	177	0181	4512240
 pb	178	0182	4512241
 pb	179	0183	4512242
 entry	Coccyx		
-ref	Bassin et Rachis		
+ref	Bassin		
+ref	Rachis		
 entry	Cochenille		
 pb	180	0184	4512243
 pb	181	0185	4512244
@@ -408,8 +400,6 @@ entry	Cochon
 entry	Cochon-Dupuy (Gaspard)		
 entry	Cocinine		
 entry	Cocinique ou Cocostéarique (Acide)		
-orth	Cocinique		
-orth	Cocostéarique (Acide)		
 entry	Cockburn (Guillaume)		
 entry	Coclès (Barthélémy della Rocca, dit Coclès ou André Corvo)		
 pb	253	0257	4512316
@@ -447,7 +437,8 @@ entry	Coeliaque (Tronc)
 pb	262	0266	4512325
 pb	263	0267	4512326
 entry	Coelius		
-ref	Caelius et Soramus		
+ref	Caelius		
+ref	Soramus		
 entry	Coelognathe		
 pb	264	0268	4512327
 entry	Coelopeltis		
@@ -909,8 +900,6 @@ ref	Caféier
 entry	Coffre		
 pb	697	0701	4512760
 entry	Cofone ou Copho (Les deux)		
-orth	Cofone		
-orth	Copho (Les deux)		
 pb	698	0702	4512761
 entry	Cognassier		
 ref	Coignassier		
@@ -944,8 +933,6 @@ pb	712	0716	4512775
 pb	713	0717	4512776
 pb	714	0718	4512777
 entry	Coise ou Coeze (Eau minérale de)		
-orth	Coise		
-orth	Coeze (Eau minérale de)		
 pb	715	0719	4512778
 pb	716	0720	4512779
 entry	Coït		
@@ -967,8 +954,6 @@ entry	Colcaquahuitl
 entry	Colchicacées		
 pb	721	0725	4512784
 entry	Colchicéine, Colchicine		
-orth	Colchicéine		
-orth	Colchicine		
 entry	Colchique		
 entry	Colchique. Botanique		
 pb	722	0726	4512785

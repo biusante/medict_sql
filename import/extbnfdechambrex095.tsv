@@ -7,8 +7,6 @@ entry	Tarin
 pb	2	0006	4592479
 pb	3	0007	4592480
 entry	Taro, Tarro		
-orth	Taro		
-orth	Tarro		
 entry	Tarque		
 entry	Tarsalgie		
 ref	Pied		
@@ -22,9 +20,6 @@ ref	Singes
 entry	Tarso-métatarsienne (Articulation)		
 ref	Pied		
 entry	Tartarie, Mongolie, Mandchourie		
-orth	Tartarie		
-orth	Mongolie		
-orth	Mandchourie		
 pb	4	0008	4592481
 pb	5	0009	4592482
 pb	6	0010	4592483
@@ -134,9 +129,6 @@ entry	Taruh
 entry	Tarupara		
 entry	Tary		
 entry	Tasmanie, ou Diémenie, ou Terre de Van-Diémen		
-orth	Tasmanie		
-orth	Diémenie		
-orth	Terre de Van-Diémen		
 pb	86	0090	4592563
 pb	87	0091	4592564
 pb	88	0092	4592565
@@ -148,8 +140,6 @@ pb	92	0096	4592569
 entry	Tasmania		
 entry	Tassin (Léonard)		
 entry	Tatai-iba, Tatanba		
-orth	Tatai-iba		
-orth	Tatanba		
 entry	Tataria		
 entry	Tatou		
 pb	93	0097	4592570
@@ -243,8 +233,6 @@ entry	Taurylique (Acide)
 entry	Tauvry (Daniel)		
 entry	Tavacane		
 entry	Tavares ou Tavarez (Francesco)		
-orth	Tavares		
-orth	Tavarez (Francesco)		
 entry	Taveau (Auguste-Onésime)		
 pb	169	0173	4592646
 entry	Tavebotreeh		
@@ -264,9 +252,6 @@ entry	Taxus. Emploi médical
 pb	171	0175	4592648
 pb	172	0176	4592649
 entry	Taya, Tayauva, Tayove		
-orth	Taya		
-orth	Tayauva		
-orth	Tayove		
 entry	Tay-Huam		
 entry	Taylan		
 entry	Taylor (Les)		
@@ -274,8 +259,6 @@ pb	173	0177	4592650
 pb	174	0178	4592651
 entry	Taynga-Unnay		
 entry	Tayuya ou Tayuia		
-orth	Tayuya		
-orth	Tayuia		
 pb	175	0179	4592652
 entry	Tchèques (Les)		
 entry	Tchetchènes (Les)		
@@ -287,7 +270,7 @@ entry	Tchevenari
 entry	Tchignel Pakesey		
 entry	Tchoudes (Les)		
 ref	Russie		
-ref	et Finnois		
+ref	Finnois		
 entry	Tchouvaches (Les)		
 ref	Russie		
 entry	Tchuelches (Les)		
@@ -413,8 +396,6 @@ pb	271	0275	4592748
 pb	272	0276	4592749
 pb	273	0277	4592750
 entry	Teintures et Alcoolatures		
-orth	Teintures		
-orth	Alcoolatures		
 pb	274	0278	4592751
 pb	275	0279	4592752
 entry	Teinturiers (Hygiène professionnelle et industrielle)		
@@ -443,8 +424,6 @@ pb	292	0296	4592769
 entry	Téléostéens		
 entry	Telephium		
 entry	Téléphone, Microphone		
-orth	Téléphone		
-orth	Microphone		
 pb	293	0297	4592770
 pb	294	0298	4592771
 pb	295	0299	4592772
@@ -483,8 +462,6 @@ pb	311	0315	4592788
 entry	Télyphone		
 pb	312	0316	4592789
 entry	Temboul, Tenboul		
-orth	Temboul		
-orth	Tenboul		
 entry	Tempérament		
 pb	313	0317	4592790
 pb	314	0318	4592791
@@ -526,7 +503,8 @@ ref	Crâne
 entry	Temporal (Os)		
 ref	Crâne		
 entry	Temporal (Plexus)		
-ref	Sympathique (Nerf) et temporaux (Nerfs)		
+ref	Sympathique (Nerf)		
+ref	temporaux (Nerfs)		
 entry	Temporales (Artères)		
 pb	342	0346	4592819
 entry	Temporales (Veines)		
@@ -735,10 +713,6 @@ ref	Camphène
 entry	Téréchrysique (Acide)		
 pb	470	0474	4592947
 entry	Terengjabim, Tereniaben, Tereniabin ou Terniabin		
-orth	Terengjabim		
-orth	Tereniaben		
-orth	Tereniabin		
-orth	Terniabin		
 entry	Téréphtalique (Acide)		
 entry	Térétulaires		
 entry	Terme (Jean-François)		
@@ -779,8 +753,6 @@ entry	Terra-Merita
 entry	Terrabes (Les)		
 ref	Centre Amérique		
 entry	Terran ou Terrau (Eaux minérales du)		
-orth	Terran		
-orth	Terrau (Eaux minérales du)		
 entry	Terraneo (Lorenzo)		
 pb	487	0491	4592964
 entry	Terras (Jean-Pierre)		
@@ -827,8 +799,6 @@ pb	518	0522	4592995
 entry	Terrête		
 entry	Terrier		
 entry	Tertana, Tertanageta		
-orth	Tertana		
-orth	Tertanageta		
 entry	Terzago (Paolo-Maria)		
 pb	519	0523	4592996
 entry	Teschenmacher (Englebert)		
@@ -845,10 +815,9 @@ pb	522	0526	4592999
 pb	523	0527	4593000
 pb	524	0528	4593001
 entry	Teste (La) (Station marine et hivernale)		
-ref	La Teste et Argachon		
+ref	La Teste		
+ref	Argachon		
 entry	Testes et Nates		
-orth	Testes		
-orth	Nates		
 ref	Quadrijumeaux		
 entry	Testi (Ludovico)		
 pb	525	0529	4593002
@@ -1017,7 +986,8 @@ pb	677	0681	4593154
 pb	678	0682	4593155
 pb	679	0683	4593156
 entry	Médecine légale		
-ref	Age et Stérilité		
+ref	Age		
+ref	Stérilité		
 entry	Testudinées		
 pb	680	0684	4593157
 entry	Tétanie		

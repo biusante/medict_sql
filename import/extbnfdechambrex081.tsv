@@ -311,9 +311,6 @@ entry	Rainette (Hyla)
 pb	259	0263	4581691
 entry	Raiponce		
 entry	Rais, Raiz, Ray		
-orth	Rais		
-orth	Raiz		
-orth	Ray		
 entry	Raisin (Cure de)		
 pb	260	0264	4581692
 pb	261	0265	4581693
@@ -701,7 +698,8 @@ pb	574	0578	4582006
 entry	Rave		
 entry	Ravenala		
 entry	Ravenelle		
-ref	Radis et Cheirantus		
+ref	Radis		
+ref	Cheirantus		
 entry	Ravensara		
 pb	575	0579	4582007
 entry	Raw (Apophyse grêle de)		
@@ -963,12 +961,11 @@ entry	Récurrentes cubitales (Artères)
 ref	Cubitale (artère)		
 pb	770	0774	4582202
 entry	Récurrentes radiales (Artères)		
-ref	Radiale et Cubitale (artères)		
+ref	Radiale		
+ref	Cubitale (artères)		
 entry	Redi (Francesco)		
 pb	771	0775	4582203
 entry	Redoul ou Redon		
-orth	Redoul		
-orth	Redon		
 pb	[s. pag.]	0776	4582204
 pb	773	0777	4582205
 entry	Articles contenus dans le deuxième volume (3e série)		

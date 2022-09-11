@@ -60,8 +60,6 @@ entry	Coureurs (Cursores). Zoologie
 pb	42	0046	4515305
 pb	43	0047	4515306
 entry	Coureurs, Course (Hygiène)		
-orth	Coureurs		
-orth	Course (Hygiène)		
 pb	44	0048	4515307
 pb	45	0049	4515308
 pb	46	0050	4515309
@@ -77,13 +75,7 @@ pb	55	0059	4515318
 entry	Coureuses		
 ref	Araignées		
 entry	Courge, Gourde ou Calebasse		
-orth	Courge		
-orth	Gourde		
-orth	Calebasse		
 entry	Courge, Gourde ou Calebasse. Botanique		
-orth	Courge		
-orth	Gourde		
-orth	Calebasse. Botanique		
 pb	56	0060	4515319
 entry	Courge		
 entry	Emploi		
@@ -110,30 +102,42 @@ entry	Course
 ref	Locomotion		
 entry	Courseulle (Station marine de)		
 entry	Court abducteur du petit orteil		
-ref	Abducteur et Pied		
+ref	Abducteur		
+ref	Pied		
 entry	Court abducteur du gros orteil		
-ref	Abducteur et Pied		
+ref	Abducteur		
+ref	Pied		
 entry	Court abducteur du pouce		
-ref	Abducteur et Main		
+ref	Abducteur		
+ref	Main		
 entry	Court adducteur du gros orteil		
-ref	Adducteur et Pied		
+ref	Adducteur		
+ref	Pied		
 entry	Court adducteur du petit doigt		
-ref	Adducteur et Main		
+ref	Adducteur		
+ref	Main		
 entry	Court adducteur du pouce		
-ref	Adducteur et Main		
+ref	Adducteur		
+ref	Main		
 entry	Court extenseur du pouce		
-ref	Extenseur et Main		
+ref	Extenseur		
+ref	Main		
 entry	Court fléchisseur commun des orteils		
-ref	Fléchisseur et Pied		
+ref	Fléchisseur		
+ref	Pied		
 entry	Court fléchisseur du gros orteil		
-ref	Fléchisseur et Pied		
+ref	Fléchisseur		
+ref	Pied		
 entry	Court fléchisseur du petit doigt		
-ref	Fléchisseur et Main		
+ref	Fléchisseur		
+ref	Main		
 pb	62	0066	4515325
 entry	Court fléchisseur du petit orteil		
-ref	Fléchisseur et Pied		
+ref	Fléchisseur		
+ref	Pied		
 entry	Court fléchisseur du pouce		
-ref	Fléchisseur et Main		
+ref	Fléchisseur		
+ref	Main		
 entry	Court péronier		
 ref	Péronier		
 entry	Court supinateur		
@@ -152,36 +156,19 @@ entry	Courtomer (Eau minérale de)
 entry	Courvée (Jean-Claude de la)		
 pb	68	0072	4515331
 entry	Couscou, Coussecouche et Couchecousse		
-orth	Couscou		
-orth	Coussecouche		
-orth	Couchecousse		
 entry	Cousinot (les deux)		
 entry	Cousin		
 pb	69	0073	4515332
 pb	70	0074	4515333
 entry	Coussin, Coussinet		
-orth	Coussin		
-orth	Coussinet		
 pb	71	0075	4515334
 entry	Coussine		
 ref	Cousso		
 entry	Cousso, Kousso, et mieux Cosso, Kosso		
-orth	Cousso		
-orth	Kousso		
-orth	mieux Cosso		
-orth	Kosso		
 entry	Cousso, Kousso, et mieux Cosso, Kosso. Botanique		
-orth	Cousso		
-orth	Kousso		
-orth	mieux Cosso		
-orth	Kosso. Botanique		
 pb	72	0076	4515335
 pb	73	0077	4515336
 entry	Cousso, Kousso, et mieux Cosso, Kosso. Emploi médical		
-orth	Cousso		
-orth	Kousso		
-orth	mieux Cosso		
-orth	Kosso. Emploi médical		
 pb	74	0078	4515337
 pb	75	0079	4515338
 pb	76	0080	4515339
@@ -193,10 +180,6 @@ pb	81	0085	4515344
 pb	82	0086	4515345
 pb	83	0087	4515346
 entry	Cousso, kousso, et mieux Cosso, Kosso. Emploi médical		
-orth	Cousso		
-orth	kousso		
-orth	mieux Cosso		
-orth	Kosso. Emploi médical		
 pb	84	0088	4515347
 entry	Coutanceau (Godefroy-Barthélemy-Ange)		
 entry	Coutanceau (Madame Marguerite-Guillomance)		
@@ -554,8 +537,6 @@ entry	Cran de Bretagne
 pb	379	0383	4515642
 entry	Crâne		
 entry	Crâne. Anatomie descriptive et chirurgicale		
-orth	Crâne. Anatomie descriptive		
-orth	chirurgicale		
 pb	380	0384	4515643
 pb	381	0385	4515644
 pb	382	0386	4515645
@@ -626,8 +607,6 @@ pb	446	0450	4515709
 pb	447	0451	4515710
 pb	448	0452	4515711
 entry	Crâne. Développement et évolution		
-orth	Crâne. Développement		
-orth	évolution		
 pb	449	0453	4515712
 pb	450	0454	4515713
 pb	451	0455	4515714
@@ -690,18 +669,13 @@ pb	505	0509	4515768
 pb	506	0510	4515769
 pb	507	0511	4515770
 entry	Anatomie philosophique		
-ref	Rachis et Vertèbres		
+ref	Rachis		
+ref	Vertèbres		
 entry	Pathologie chirurgicale		
 entry	Difformités et vices de conformation du crâne		
-orth	Difformités		
-orth	vices de conformation du crâne		
 pb	508	0512	4515771
 entry	Crâne. Pathologie chirurgicale. Difformités et vices de conformation		
-orth	Crâne. Pathologie chirurgicale. Difformités		
-orth	vices de conformation		
 entry	Crâne. Pathologie chirurgicale. Lésions vitales et organiques des os du crâne		
-orth	Crâne. Pathologie chirurgicale. Lésions vitales		
-orth	organiques des os du crâne		
 pb	509	0513	4515772
 pb	510	0514	4515773
 pb	511	0515	4515774
@@ -757,17 +731,12 @@ pb	560	0564	4515823
 entry	Pathologie chirurgicale		
 entry	Cavités aériennes du crâne		
 entry	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne. Anatomie et pathologie		
-orth	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne. Anatomie		
-orth	pathologie		
 pb	561	0565	4515824
 pb	562	0566	4515825
 pb	563	0567	4515826
 pb	564	0568	4515827
 pb	565	0569	4515828
 entry	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne, anatomie et pathologie		
-orth	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne		
-orth	anatomie		
-orth	pathologie		
 pb	566	0570	4515829
 pb	567	0571	4515830
 pb	568	0572	4515831
@@ -905,8 +874,6 @@ pb	692	0696	4515955
 pb	693	0697	4515956
 pb	694	0698	4515957
 entry	Craniomancie ou Cranioscopie		
-orth	Craniomancie		
-orth	Cranioscopie		
 ref	Phrénologie		
 entry	Craniotabes		
 pb	695	0699	4515958

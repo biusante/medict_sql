@@ -6,16 +6,10 @@ pb	1	0005	4504733
 entry	Bejar y Montemayor (Eau minérale de)		
 pb	2	0006	4504734
 entry	Béjugues, Bejuco		
-orth	Béjugues		
-orth	Bejuco		
 entry	Békion		
 entry	Beleyleh, Beilehui		
-orth	Beleyleh		
-orth	Beilehui		
 ref	Myrobolans		
 entry	Belbida, Belbelta		
-orth	Belbida		
-orth	Belbelta		
 ref	Célosie		
 pb	3	0007	4504735
 entry	Belges		
@@ -100,8 +94,6 @@ ref	Faux-Jalap
 ref	Mirabilis		
 ref	Nyctago		
 entry	Bellème ou Bellesme (Eaux minérales de)		
-orth	Bellème		
-orth	Bellesme (Eaux minérales de)		
 entry	Belleville (Eau minérale de)		
 pb	69	0073	4504801
 entry	Bellevue (Établissement hydrothérapique)		
@@ -118,8 +110,6 @@ entry	Bellon
 ref	Plomb		
 entry	Belloste (Augustin)		
 entry	Bellote, Bellotas		
-orth	Bellote		
-orth	Bellotas		
 entry	Belmas (Denis-Génie)		
 pb	74	0078	4504806
 entry	Belonie		
@@ -128,12 +118,8 @@ entry	Belouchistan
 ref	Perse		
 entry	Belsamon		
 entry	Ben ou Been (Noix de)		
-orth	Ben		
-orth	Been (Noix de)		
 pb	75	0079	4504807
 entry	Benci ou Benzo		
-orth	Benci		
-orth	Benzo		
 ref	Hugo		
 entry	Benedetti (Les)		
 pb	76	0080	4504808
@@ -200,12 +186,8 @@ entry	Benzoïque (Acide)
 entry	Benzoïque (Acide). Chimie		
 pb	98	0102	4504830
 entry	Benzoïque (Acide). Pharmacologie et thérapeutique		
-orth	Benzoïque (Acide). Pharmacologie		
-orth	thérapeutique		
 pb	99	0103	4504831
 entry	Benzone, Benzophénone		
-orth	Benzone		
-orth	Benzophénone		
 pb	100	0104	4504832
 entry	Benzoyle		
 ref	Amandes amères		
@@ -265,8 +247,6 @@ entry	Bergmann (Torbern)
 pb	129	0133	4504861
 entry	Bergue (Écorce de)		
 entry	Beriberi ou Beri Beri		
-orth	Beriberi		
-orth	Beri Beri		
 pb	130	0134	4504862
 pb	131	0135	4504863
 pb	132	0136	4504864
@@ -309,7 +289,8 @@ pb	167	0171	4504899
 entry	Berlinghieri (Les deux)		
 pb	168	0172	4504900
 entry	Berlue		
-ref	Myodopsie et Spectres		
+ref	Myodopsie		
+ref	Spectres		
 entry	Bermudes (Les îles)		
 pb	169	0173	4504901
 pb	170	0174	4504902
@@ -375,8 +356,6 @@ pb	199	0203	4504931
 entry	Bétel		
 entry	Botanique		
 entry	Bétel. Hygiène, Matière médicale		
-orth	Bétel. Hygiène		
-orth	Matière médicale		
 pb	200	0204	4504932
 pb	201	0205	4504933
 pb	202	0206	4504934
@@ -398,8 +377,6 @@ entry	Bette
 entry	Bette. Botanique		
 pb	210	0214	4504942
 entry	Bette. Bromatologie et thérapeutique		
-orth	Bette. Bromatologie		
-orth	thérapeutique		
 pb	211	0215	4504943
 pb	212	0216	4504944
 entry	Betterave		
@@ -408,8 +385,6 @@ entry	Betts (John)
 entry	Betula		
 ref	Bouleau		
 entry	Bétulacées ou Bétulinées		
-orth	Bétulacées		
-orth	Bétulinées		
 entry	Bétys		
 ref	Chavica		
 entry	Beurre		
@@ -428,7 +403,8 @@ entry	Beverwyck (Jean de)
 entry	Bex (Eaux imnérales et cure de petit-lait de)		
 pb	221	0225	4504953
 entry	Bexuquillo		
-ref	Cephaelis et Ipécacuanha		
+ref	Cephaelis		
+ref	Ipécacuanha		
 entry	Beyugo		
 ref	Béjugue		
 entry	Bezetta		
@@ -438,23 +414,17 @@ pb	222	0226	4504954
 pb	223	0227	4504955
 pb	224	0228	4504956
 entry	Bhâvamiçra ou miçrabhâva		
-orth	Bhâvamiçra		
-orth	miçrabhâva		
 entry	Bianchi (Les)		
 pb	225	0229	4504957
 entry	Bianchini (Jean-Fortunat)		
 pb	226	0230	4504958
 entry	Bianconi (Giov. Luidgi)		
 entry	Biaron, Biarum.		
-orth	Biaron		
-orth	Biarum		
 entry	Biarrits ou Biarritz (Station marine et hivernale)		
 pb	227	0231	4504959
 pb	228	0232	4504960
 pb	229	0233	4504961
 entry	Bibacier, Bibassier		
-orth	Bibacier		
-orth	Bibassier		
 entry	Bibby		
 entry	Biberon		
 pb	230	0234	4504962
@@ -463,8 +433,6 @@ pb	232	0236	4504964
 pb	233	0237	4504965
 pb	234	0238	4504966
 entry	Bibir, Beebern		
-orth	Bibir		
-orth	Beebern		
 ref	Lauriers		
 entry	Bibreuil		
 entry	Bibron (Gabriel)		
@@ -472,9 +440,6 @@ entry	Bicéphale
 entry	Biceps		
 pb	235	0239	4504967
 entry	Bich, Bick, Bish		
-orth	Bich		
-orth	Bick		
-orth	Bish		
 entry	Bichat		
 pb	236	0240	4504968
 pb	237	0241	4504969
@@ -483,8 +448,6 @@ pb	239	0243	4504971
 entry	Bichet		
 ref	Rocouier		
 entry	Bicho ou Biecho		
-orth	Bicho		
-orth	Biecho		
 pb	240	0244	4504972
 pb	241	0245	4504973
 pb	242	0246	4504974
@@ -524,16 +487,12 @@ entry	Bières médicinales
 pb	262	0266	4504994
 entry	Biett (Laurent-Théodore)		
 entry	Bifide, Bifidité		
-orth	Bifide		
-orth	Bifidité		
 pb	263	0267	4504995
 entry	Bigarade		
 entry	Bigarreau		
 entry	Bihai		
 ref	Héliconie		
 entry	Bignone, Bignoniacées		
-orth	Bignone		
-orth	Bignoniacées		
 entry	Bijoutiers		
 entry	Bijoutiers. Hygiène professionnelle		
 pb	264	0268	4504996
@@ -756,7 +715,8 @@ entry	Billard (Charles-Michel)
 entry	Bils (Louis de)		
 pb	454	0458	4505186
 entry	Bimanes		
-ref	Homme et Primates		
+ref	Homme		
+ref	Primates		
 entry	Bingen (Cure de raisin)		
 pb	455	0459	4505187
 entry	Binkohumba		
@@ -836,8 +796,6 @@ pb	510	0514	4505242
 entry	Biscuits. Pharmacie		
 pb	511	0515	4505243
 entry	Biscuits. Hygiène navale et hygiène militaire		
-orth	Biscuits. Hygiène navale		
-orth	hygiène militaire		
 pb	512	0516	4505244
 pb	513	0517	4505245
 pb	514	0518	4505246
@@ -851,8 +809,6 @@ ref	Mousserons
 entry	Bislingua		
 entry	Bismuth		
 entry	Bismuth. Chimie et pharmacologie		
-orth	Bismuth. Chimie		
-orth	pharmacologie		
 pb	519	0523	4505251
 pb	520	0524	4505252
 pb	521	0525	4505253
@@ -927,8 +883,6 @@ pb	561	0565	4505293
 entry	Blamarée		
 ref	Maïs		
 entry	Blancard ou mieux Blankaard (Steph.)		
-orth	Blancard		
-orth	mieux Blankaard (Steph.)		
 pb	562	0566	4505294
 entry	Blanche (Esprit-Sylvestre)		
 entry	Blanchet (Alexandre-Paul-Louis)		
@@ -936,26 +890,16 @@ entry	Blanchette
 ref	Mâche		
 pb	563	0567	4505295
 entry	Blanc de baleine ou Spermaceti		
-orth	Blanc de baleine		
-orth	Spermaceti		
 pb	564	0568	4505296
 entry	Blanc de fer		
 ref	Cosmétiques		
 entry	Blanchisseries des toiles et des fils		
-orth	Blanchisseries des toiles		
-orth	des fils		
 entry	Blanchisseries des toiles et des fils. Hygiène publique		
-orth	Blanchisseries des toiles		
-orth	des fils. Hygiène publique		
 pb	565	0569	4505297
 pb	566	0570	4505298
 pb	56	0571	4505299
 entry	Blanchisseurs, Blanchisseuses		
-orth	Blanchisseurs		
-orth	Blanchisseuses		
 entry	Blanchisseurs, Blanchisseuses. Hygiène professionnelle		
-orth	Blanchisseurs		
-orth	Blanchisseuses. Hygiène professionnelle		
 pb	568	0572	4505300
 pb	569	0573	4505301
 pb	570	0574	4505302
@@ -996,7 +940,8 @@ pb	598	0602	4505330
 pb	599	0603	4505331
 pb	600	0604	4505332
 entry	Blastocardie		
-ref	Blastoderme et Blastodermiques (Cellules)		
+ref	Blastoderme		
+ref	Blastodermiques (Cellules)		
 entry	Blastoderme		
 pb	601	0605	4505333
 pb	602	0606	4505334
@@ -1022,14 +967,10 @@ entry	Blatti
 ref	Sonneratia acida		
 entry	Blaud (P.)		
 entry	Blavelle, Blavette		
-orth	Blavelle		
-orth	Blavette		
 entry	Blé		
 entry	Blé. Botanique		
 pb	617	0621	4505349
 entry	Blé. Bromatologie, hygiène publique		
-orth	Blé. Bromatologie		
-orth	hygiène publique		
 pb	618	0622	4505350
 pb	619	0623	4505351
 pb	620	0624	4505352

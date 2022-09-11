@@ -10,8 +10,7 @@ orth	Poids
 orth	mesures		
 pb	VIII	0008	783881
 pb	1	0009	783882
-entry	A ou AA		
-orth	AA		
+entry	ou AA		
 ref	Abréviations		
 entry	Abairucu		
 entry	Abaissement		
@@ -141,7 +140,8 @@ entry	Acarpe
 entry	Acarpellé, ée		
 orth	Acarpellé		
 entry	Acarus		
-ref	Acare et sarcopte		
+ref	Acare		
+ref	sarcopte		
 entry	Acatapose		
 entry	Acatastatique		
 entry	Acatharsie		
@@ -1548,7 +1548,8 @@ entry	Anthélitragien
 entry	Anthélix		
 entry	Anthelminthique		
 entry	Anthémis		
-ref	Camomille et pyrèthre		
+ref	Camomille		
+ref	pyrèthre		
 entry	Anthéral, ale		
 orth	Anthéral		
 entry	Anthère		
@@ -2080,7 +2081,8 @@ entry	Arquebusade
 entry	Arracache		
 entry	Arrachement		
 entry	Arrak		
-ref	Arack et rak		
+ref	Arack		
+ref	rak		
 entry	Arrêt		
 entry	Arrête-boeuf		
 entry	Arrhénotocie		
@@ -2256,7 +2258,8 @@ entry	Asplénium
 entry	Assa		
 ref	Asa		
 entry	Assainissement		
-ref	Désinfection et desséchement		
+ref	Désinfection		
+ref	desséchement		
 entry	Assaisonnement		
 ref	Condiment		
 entry	Assamare		
@@ -2601,8 +2604,7 @@ entry	Azulmique
 entry	Azygos		
 entry	Azyme		
 entry	Azymique		
-entry	B		
-entry	B. A		
+entry	A		
 ref	Abréviations		
 entry	Babeurre		
 entry	Babiche ou babichon		
@@ -2734,7 +2736,8 @@ ref	Soude
 entry	Barite et barium		
 orth	Barite		
 orth	barium		
-ref	Baryte et baryum		
+ref	Baryte		
+ref	baryum		
 entry	Baromacromètre		
 entry	Baromètre		
 entry	Barométrique		
@@ -3063,7 +3066,8 @@ entry	Bipinnatifide
 entry	Bipinné, ée		
 orth	Bipinné		
 entry	Bipolaire		
-ref	Nerf et nerveux		
+ref	Nerf		
+ref	nerveux		
 entry	Bipolarité		
 entry	Bisannuel, elle		
 orth	Bisannuel		
@@ -3116,7 +3120,8 @@ entry	Blanc de fard
 entry	Blanc des graines		
 entry	Blanc de l'oeil		
 entry	Blanc d'oeuf		
-ref	Albumine et oeuf		
+ref	Albumine		
+ref	oeuf		
 entry	Blanc de plomb		
 ref	Carbonate de plomb		
 entry	Blanc de zinc		
@@ -3210,7 +3215,7 @@ ref	Cyanose
 entry	Bleuet ou bluet		
 orth	Bleuet		
 orth	bluet		
-entry	B. M		
+entry	M		
 ref	Abréviation		
 entry	Boa		
 entry	Boa-tam-paijang		
@@ -3607,8 +3612,8 @@ entry	Butyronitrique
 entry	Butyronyle		
 entry	Butyryle		
 entry	Buxine		
-entry	B.. Abréviations		
-ref	V		
+entry	V		
+ref	Abréviations		
 entry	Byssacé, ée		
 orth	Byssacé		
 entry	Byssoïde ou byssoïdé, ée		
@@ -3616,7 +3621,7 @@ orth	Byssoïde
 orth	byssoïdé		
 entry	Byssus		
 entry	Byttnériacées		
-entry	C. C. Caapera		
+entry	C. Caapera		
 entry	Cabale		
 entry	Cabaliste		
 entry	Cabalistique		
@@ -3862,7 +3867,8 @@ entry	Camphré, ée
 orth	Camphré		
 entry	Camphrée		
 entry	Camphrier		
-ref	Camphre et laurier		
+ref	Camphre		
+ref	laurier		
 entry	Camphrone		
 entry	Camphylène		
 entry	Camphylique		
@@ -4236,7 +4242,8 @@ pb	235	0243	784116
 entry	Casseaux		
 entry	Casse-lunettes		
 entry	Cassia		
-ref	Cannelle et essence		
+ref	Cannelle		
+ref	essence		
 entry	Cassie ou cassier		
 orth	Cassie		
 orth	cassier		
@@ -6371,7 +6378,8 @@ entry	Crypte
 entry	Cryptocarve		
 entry	Cryptocéphale		
 entry	Cyptocoque		
-ref	Algue et ferment		
+ref	Algue		
+ref	ferment		
 entry	Cryptodidyme		
 entry	Cryptogame		
 entry	Cryptogamie		
@@ -6670,7 +6678,6 @@ entry	Cytoblastion
 pb	410	0418	784291
 entry	Cytogénétique		
 entry	Cytoïde		
-entry	D		
 entry	Dacryadénite		
 entry	Dacryocystite		
 entry	Dacryohémorrhagie		
@@ -7791,7 +7798,6 @@ entry	Dysthermasie
 entry	Dysthymie		
 entry	Dystocie		
 entry	Dysurie		
-entry	E		
 entry	Eau		
 pb	472	0480	784353
 pb	473	0481	784354
@@ -7861,7 +7867,8 @@ pb	485	0493	784366
 entry	Eclair		
 entry	Eclairage		
 entry	Eclaire		
-ref	Chélidoine et ficaire		
+ref	Chélidoine		
+ref	ficaire		
 entry	Eclampsie		
 entry	Eclamptique		
 entry	Eclat		
@@ -8759,7 +8766,8 @@ entry	Eschape
 entry	Escharification		
 entry	Escharotique		
 entry	Esculine		
-ref	Aesculine et saponine		
+ref	Aesculine		
+ref	saponine		
 entry	Esculique		
 ref	Saponique		
 entry	Esenbeckine		
@@ -9153,7 +9161,6 @@ entry	Exulcération
 entry	Exutoire		
 entry	Exuviabilité		
 entry	Exuviable		
-entry	F		
 entry	Face		
 entry	Facette		
 entry	Facial, ale		
@@ -9252,7 +9259,8 @@ entry	Faux, ausse
 orth	Faux		
 entry	Faux		
 entry	Faux bourdon		
-ref	Bourdon et abeille		
+ref	Bourdon		
+ref	abeille		
 entry	Faux croup		
 entry	Faux écart		
 entry	Faux germe		
@@ -9768,7 +9776,7 @@ entry	Fruticuleux, euse
 orth	Fruticuleux		
 entry	Frutiqueux, euse		
 orth	Frutiqueux		
-entry	F. S. A		
+entry	S. A		
 ref	Abréviation		
 entry	Fucacées		
 entry	Fuchsiamine		
@@ -9834,7 +9842,6 @@ entry	Fusion
 pb	633	0641	784514
 entry	Fustet		
 entry	Fustine		
-entry	G		
 entry	Gadoue		
 entry	Gaduine		
 entry	Gaïac		
@@ -10583,7 +10590,6 @@ ref	Androstylium
 entry	Gypse		
 entry	Gypso-stéatome		
 entry	Gyrome		
-entry	H		
 entry	Habbi-tchogo		
 entry	Habbi-tsalmo		
 entry	Habitat		
@@ -10747,7 +10753,8 @@ entry	Hématine ou hématoxyline
 orth	Hématine		
 orth	hématoxyline		
 entry	Hématique		
-ref	Hématome et kyste		
+ref	Hématome		
+ref	kyste		
 entry	Hématite		
 entry	Hématocèle		
 entry	Hématocéphale		
@@ -11687,7 +11694,6 @@ entry	Hystérotokotomie
 entry	Hystérotome		
 entry	Hystérotomie		
 entry	Hystérotomotocie		
-entry	I		
 entry	Iatralipte		
 entry	Iatraliptique		
 entry	Iatrion		
@@ -12400,7 +12406,8 @@ ref	Ischiocèle
 entry	Ischio-anal		
 ref	Releveur de l'anus		
 entry	Ischio-bulbaire		
-ref	Transverso-uréthral et muscle		
+ref	Transverso-uréthral		
+ref	muscle		
 entry	Ischio-caverneux		
 entry	Ischiocèle		
 entry	Ischio-clitoridien		
@@ -12499,7 +12506,6 @@ entry	Ixiné
 ref	Carline officinale		
 entry	Ixode		
 pb	813	0821	784694
-entry	J		
 entry	Jabot		
 entry	Jaca ou jaquier		
 orth	Jaca		
@@ -12542,7 +12548,8 @@ orth	Jarreux
 entry	Jasmin		
 entry	Jasminées		
 entry	Jatropha		
-ref	Manihot et médicinier		
+ref	Manihot		
+ref	médicinier		
 entry	Jatrophique		
 entry	Jaune		
 entry	Jaunisse		
@@ -12616,7 +12623,6 @@ entry	Juvia
 entry	Juxtaposition		
 entry	Juzom		
 pb	819	0827	784700
-entry	K		
 entry	Kaempférine ou kaempféride		
 orth	Kaempférine		
 orth	kaempféride		
@@ -12694,7 +12700,7 @@ entry	Kérosolène ou kéroforme
 orth	Kérosolène		
 orth	kéroforme		
 entry	Kerry (race de)		
-entry	K'ertmat		
+entry	ertmat		
 entry	Kess		
 entry	Ketab		
 entry	Ketmie		
@@ -12764,7 +12770,6 @@ orth	Kystitome
 orth	cystitome		
 entry	Kystotomie		
 ref	Cystotomie		
-entry	L		
 entry	Labdanum		
 ref	Ladanum		
 entry	Labelle		
@@ -13500,9 +13505,7 @@ entry	Lysses
 entry	Lythracées ou lythrariées		
 orth	Lythracées		
 orth	lythrariées		
-entry	M		
-entry	M		
-ref	Abréviation		
+entry	V. Abréviation		
 entry	Macacu (fièvre de)		
 ref	Fièvre		
 entry	Macaroni		
@@ -13890,7 +13893,8 @@ entry	Mauchamp (race bovine de)
 entry	Maurelle		
 entry	Mauve		
 entry	Maux de nerfs		
-ref	Hystérie et névropathie		
+ref	Hystérie		
+ref	névropathie		
 entry	Maxillaire		
 entry	Maxille		
 entry	Maxillo-alvéoli-nasal		
@@ -13898,7 +13902,8 @@ ref	Abaisseur de l'aile du nez
 entry	Maxillo-labial		
 ref	Triangulaire des lèvres		
 entry	Maxillo-labi-nasal		
-ref	Elévateur commun de l'aile du nez et de la lèvre supérieure		
+ref	Elévateur commun de l'aile du nez		
+ref	de la lèvre supérieure		
 entry	Maxillo-narinal		
 ref	Transverse du nez		
 entry	Maxillo-palpébral		
@@ -14429,7 +14434,8 @@ entry	Milk sickness
 entry	Millefeuille		
 entry	Millepertuis		
 entry	Millet		
-ref	Miliaire et panic		
+ref	Miliaire		
+ref	panic		
 entry	Millet		
 entry	Milphose		
 entry	Mimosées		
@@ -14836,7 +14842,8 @@ entry	Multiplication
 entry	Multiplié, ée		
 orth	Multiplié		
 entry	Multipolaire		
-ref	Nerf et nerveux		
+ref	Nerf		
+ref	nerveux		
 entry	Multisérié, ée		
 orth	Multisérié		
 entry	Multisiliqueux, euse		
@@ -15016,9 +15023,7 @@ entry	Myxagène
 entry	Myxinoïdes		
 entry	Myxome		
 entry	Myxosarcome		
-entry	N		
-entry	N° 1, N° 2, etc		
-orth	N° 1		
+entry	N° 2, etc		
 orth	N° 2		
 ref	Abréviation		
 entry	Naboth (glandes de)		
@@ -15259,7 +15264,8 @@ entry	Névrimotilité
 entry	Névriste		
 entry	Névrite		
 entry	Névritique		
-ref	Nerval et Nervin		
+ref	Nerval		
+ref	Nervin		
 entry	Névrographie		
 entry	Névrohypnologie		
 pb	1005	1013	784886
@@ -15278,7 +15284,8 @@ orth	névrospasmie
 entry	Névrosthénie		
 entry	Névrothèle		
 entry	Névrotique		
-ref	Baume et nervin		
+ref	Baume		
+ref	nervin		
 entry	Névrotome		
 entry	Névrotomie		
 entry	Nez		
@@ -15517,7 +15524,8 @@ orth	Nu
 orth	nue		
 entry	Nuage		
 entry	Nubécule		
-ref	Néphélion et nuage		
+ref	Néphélion		
+ref	nuage		
 entry	Nubile		
 pb	1018	1026	784899
 entry	Nubilité		
@@ -15569,9 +15577,7 @@ entry	Nymphomanie
 entry	Nymphotomie		
 entry	Nystagme		
 pb	1021	1029	784902
-entry	O		
-entry	O		
-ref	Abréviation		
+entry	V. Abréviation		
 entry	Oariule		
 entry	Oba		
 pb	1022	1030	784903
@@ -16338,7 +16344,8 @@ ref	Oariule
 entry	Ové, ée		
 orth	Ové		
 entry	Ovicapsule		
-ref	Ovaire et ovisac		
+ref	Ovaire		
+ref	ovisac		
 entry	Oviducte		
 entry	Ovification		
 entry	Ovines (races)		
@@ -16484,9 +16491,8 @@ entry	Ozonomètre
 pb	1081	1089	784962
 entry	Ozonométrie		
 entry	Ozonométrique		
-entry	P		
-entry	P. Ae. ou P. E		
-orth	P. Ae		
+entry	Ae. ou P. E		
+orth	Ae		
 orth	P. E		
 ref	Abréviation		
 entry	Pabulum vitae		
@@ -17250,7 +17256,8 @@ ref	Fléchisseur (long) du gros orteil
 entry	Péronéo-sous-tarsien		
 ref	Péronier (long) latéral		
 entry	Péronéo-sus-métatarsien		
-ref	Péronier (court) latéral et péronier antérieur		
+ref	Péronier (court) latéral		
+ref	péronier antérieur		
 entry	Péronéo-sus-phalangettien commun		
 ref	Extenseur commun des orteils		
 entry	Péronéo-sus-phalangettien du pouce		
@@ -17324,7 +17331,8 @@ entry	Pétiolule
 entry	Pétiolulé, ée		
 orth	Pétiolulé		
 entry	Petit-chêne		
-ref	Chamaepytis et germandrée		
+ref	Chamaepytis		
+ref	germandrée		
 entry	Petit-houx		
 ref	Houx (petit)		
 entry	Petit-lait		
@@ -17810,7 +17818,8 @@ entry	Pissélaeon
 entry	Pissement de pus		
 ref	Pyurie		
 entry	Pissement de sang		
-ref	Hématurie et miction		
+ref	Hématurie		
+ref	miction		
 entry	Pissenlit		
 entry	Pistache		
 entry	Pistation		
@@ -18858,7 +18867,8 @@ entry	Purpurique
 entry	Purrhée		
 entry	Purrhéique		
 entry	Purrhéon		
-ref	Pyrrhée et euxanthine		
+ref	Pyrrhée		
+ref	euxanthine		
 entry	Purulent, ente		
 orth	Purulent		
 entry	Pus		
@@ -19018,15 +19028,15 @@ entry	Pyrrhomée
 entry	Pyrrhopine		
 ref	Sangunarine		
 entry	Python		
-ref	Boa et couleuvre		
+ref	Boa		
+ref	couleuvre		
 entry	Pyulque		
 entry	Pyurie		
 entry	Pyxide		
 entry	Pyxidie		
-entry	Q		
-entry	Q. P		
+entry	P		
 ref	Abréviation		
-entry	Q. S		
+entry	S		
 ref	Abréviation		
 entry	Qhitegn		
 entry	Quadri		
@@ -19131,9 +19141,7 @@ orth	Quinteux
 entry	Quintine		
 entry	Quotidien, ienne		
 orth	Quotidien		
-entry	R		
-entry	R		
-ref	Abréviation		
+entry	V. Abréviation		
 entry	Rabdoïde		
 entry	Rabiéique		
 entry	Rabien		
@@ -19833,7 +19841,8 @@ entry	Ronflement
 entry	Rongé, ée		
 orth	Rongé		
 entry	Rongeant		
-ref	Phagénédique et ulcère		
+ref	Phagénédique		
+ref	ulcère		
 entry	Rongeurs		
 entry	Roquette		
 entry	Rorifère		
@@ -19946,10 +19955,9 @@ entry	Rutilinosulfurique (acide)
 entry	Rutine		
 entry	Ruyschienne		
 entry	Rytidome		
-entry	S		
-entry	S. A		
+entry	A		
 ref	Abréviation		
-entry	S. du côlon		
+entry	du côlon		
 ref	Côlon		
 entry	Sabadilline		
 entry	Sabadillique		
@@ -20284,7 +20292,8 @@ ref	Adducteur (court) du pouce
 entry	Scaptine		
 entry	Scapulaire		
 entry	Scapulalgie		
-ref	Omagre et omocace		
+ref	Omagre		
+ref	omocace		
 entry	Scapularthrocace		
 entry	Scapulodynie		
 entry	Scapulo-huméral, ale		
@@ -20803,7 +20812,8 @@ entry	Skodique
 entry	Smegma		
 pb	1392	1400	785273
 entry	Smilace		
-ref	Salsepareille et squine		
+ref	Salsepareille		
+ref	squine		
 entry	Smilacées		
 entry	Smilacine		
 ref	Parigline		
@@ -21960,7 +21970,8 @@ entry	Sus-pubio-fémoral
 ref	Pectiné		
 entry	Sus-scapulaire		
 entry	Sus-scapulo-trochitérien		
-ref	Rond (petit) et sous-épineux		
+ref	Rond (petit)		
+ref	sous-épineux		
 ref	sus-épineux		
 entry	Sus-spini-scapulo-trochitérien		
 ref	Sus-épineux		
@@ -22150,10 +22161,7 @@ pb	1488	1496	785369
 entry	Systolide		
 ref	Rotateur		
 entry	Systolique		
-entry	T		
-entry	T		
-ref	Abréviation		
-entry	T		
+entry	V. Abréviation		
 entry	Tabac		
 pb	1489	1497	785370
 entry	Tabacique		
@@ -22849,7 +22857,8 @@ entry	Tragant
 entry	Traganthine ou tragantine		
 orth	Traganthine		
 orth	tragantine		
-ref	Adragant et bassorine		
+ref	Adragant		
+ref	bassorine		
 entry	Tragien		
 entry	Tragus		
 entry	Traînasse		
@@ -23225,7 +23234,8 @@ entry	Typhloentérite
 entry	Typhlo-diclidite		
 entry	Typhlographe		
 entry	Typhode		
-ref	Typhique et typhoïde		
+ref	Typhique		
+ref	typhoïde		
 entry	Typhoémie		
 entry	Typhoïde		
 pb	1576	1584	785457
@@ -23234,12 +23244,12 @@ entry	Typhomanie
 entry	Typhus		
 pb	1577	1585	785458
 entry	Tyrosine		
-entry	U		
 entry	Udomètre		
 ref	Pluviomètre		
 entry	Ulcératif, ive		
 orth	Ulcératif		
-ref	Nutrition et ulcère		
+ref	Nutrition		
+ref	ulcère		
 entry	Ulcération		
 pb	1578	1586	785459
 entry	Ulcère		
@@ -23415,7 +23425,8 @@ entry	Uroplanie
 entry	Uropoèse		
 entry	Uropoétique		
 entry	Urorrhagie		
-ref	Urorrhée et hématurie		
+ref	Urorrhée		
+ref	hématurie		
 entry	Urorrhée		
 entry	Uroschéocèle		
 entry	Uroscopie		
@@ -23480,10 +23491,10 @@ ref	Arbousier
 entry	Uvée		
 entry	Uvéite		
 entry	Uvique		
-ref	Tartrique et paratartrique		
+ref	Tartrique		
+ref	paratartrique		
 entry	Uvulaire		
-entry	V		
-entry	V lingual		
+entry	lingual		
 entry	Vaccin		
 pb	1603	1611	785484
 entry	Vaccinal, ale		
@@ -23683,7 +23694,8 @@ entry	Ventricule
 entry	Ventrier		
 entry	Ventriloque		
 entry	Ventrosité		
-ref	Infarctus et physconie		
+ref	Infarctus		
+ref	physconie		
 entry	Ventru, ue		
 orth	Ventru		
 entry	Vents		
@@ -23764,7 +23776,8 @@ pb	1630	1638	785511
 pb	1631	1639	785512
 entry	Vertigineux		
 entry	Vertigo		
-ref	Tournis et vertige		
+ref	Tournis		
+ref	vertige		
 entry	Veruga		
 entry	Verumontanum		
 entry	Verveine		
@@ -24016,7 +24029,6 @@ entry	Vulvite
 entry	Vulvo-utérin, ine		
 orth	Vulvo-utérin		
 entry	Vulvo-vaginal		
-entry	W		
 entry	Waggart		
 entry	Walida		
 entry	Waren		
@@ -24034,7 +24046,6 @@ entry	Woormien
 entry	Wrightie		
 entry	Wrisberg (ganglion de)		
 ref	Optique		
-entry	X		
 entry	Xanthamylique (acide)		
 entry	Xanthématine		
 entry	Xanthensulfide		
@@ -24086,7 +24097,6 @@ entry	Xyloïdine
 entry	Xylon		
 entry	Xyridées		
 entry	Xythensulfide		
-entry	Y		
 entry	Yallhoy		
 entry	Yaws		
 entry	Yèble		
@@ -24094,7 +24104,6 @@ ref	Hièble
 entry	Yeux d'écrevisse		
 entry	Yttria		
 entry	Yttrium		
-entry	Z		
 entry	Zain		
 entry	Zanthopicrite		
 entry	Zanthoxylées		
@@ -24266,7 +24275,8 @@ entry	Aphasique
 entry	Aphémétrique		
 entry	Aphémique		
 entry	Aphrasie		
-ref	Aphémie et paramnésie		
+ref	Aphémie		
+ref	paramnésie		
 entry	Aphrodite		
 entry	Aphthongie		
 entry	Apséphalésie		
@@ -24275,7 +24285,8 @@ entry	Arsenicisme
 entry	Arthridite		
 ref	Arthritie		
 entry	Arthritis		
-ref	Arthritie et arthrite		
+ref	Arthritie		
+ref	arthrite		
 entry	Arthritisme		
 entry	Ataxo-phémie		
 entry	Atélo-myélie		
@@ -24284,7 +24295,6 @@ entry	Atrétisme
 entry	Autonomie		
 pb	1666	1674	785547
 entry	Autostéthoscope		
-entry	B		
 entry	Baccilariées		
 entry	Badigeonnage		
 entry	Balnéothérapie		
@@ -24309,7 +24319,6 @@ entry	Brassicour
 entry	Broncho-mycosis		
 entry	Broncho-pleurésie		
 entry	Bulbo-uréthral		
-entry	C		
 entry	Cachiman		
 entry	Calcifié		
 entry	Caproene		
@@ -24365,7 +24374,6 @@ entry	Cuirasse
 entry	Cuticole		
 entry	Cylindroma		
 pb	1669	1677	785550
-entry	D		
 entry	Dacryocystoblennorrhée		
 entry	Déduplication		
 entry	Défibriné, ée		
@@ -24375,7 +24383,6 @@ ref	Diastématie
 entry	Diatomées		
 entry	Disjonctif, ive		
 orth	Disjonctif		
-entry	E		
 entry	Ectatique		
 entry	Electivité		
 entry	Electrologie		
@@ -24394,14 +24401,12 @@ entry	Exocardiaque
 entry	Exomphalie		
 ref	Exomphale		
 pb	1670	1678	785551
-entry	F		
 entry	Fera ou ferra		
 orth	Fera		
 orth	ferra		
 entry	Fluidificateur		
 entry	Fonctionnement		
 entry	Fuligo		
-entry	G		
 entry	Gastricole		
 entry	Gélatinisation		
 entry	Génito-spinal		
@@ -24412,7 +24417,6 @@ entry	Gommique
 entry	Graduateur		
 entry	Graphitique		
 entry	Gravidisme		
-entry	H		
 entry	Haphémétrique		
 entry	Hélicoïdal ou hélicoïde		
 orth	Hélicoïdal		
@@ -24447,7 +24451,6 @@ entry	Hyperchromatopsie
 entry	Hypérinose		
 entry	Hypnogène		
 entry	Hypoderme		
-entry	I		
 entry	Iboga		
 entry	Icaja		
 entry	Incohérence		
@@ -24462,7 +24465,6 @@ entry	Isocarpé, ée
 orth	Isocarpé		
 entry	Isopathe		
 entry	Isopathie		
-entry	K		
 entry	Kakerlaque		
 entry	Kakerlaquisme		
 entry	Kélectome		
@@ -24470,7 +24472,6 @@ entry	Kératique
 entry	Kératophyte		
 entry	Kératose		
 entry	Koiradaimatisme		
-entry	L		
 entry	Lactoprotéine		
 entry	Laparotomie		
 entry	Laryngalgie		
@@ -24483,7 +24484,6 @@ ref	Tournesol
 entry	Lobélie		
 entry	Lobulisation		
 entry	Lymphatisme		
-entry	M		
 entry	Mal-coeur ou mal d'estomac des nègres		
 orth	Mal-coeur		
 orth	mal d'estomac des nègres		
@@ -24507,13 +24507,11 @@ entry	Myélatélie
 entry	Myélencéphale		
 entry	Myéline		
 pb	1674	1682	785555
-entry	N		
 entry	Navicule		
 entry	Néo-vitalisme		
 entry	Néphritique		
 entry	Neurisme		
 entry	Nosophthobie		
-entry	O		
 entry	Occipito-bregmatique		
 entry	Oligocythémie		
 entry	Omble ou ombre		
@@ -24530,7 +24528,6 @@ entry	Ovarocélie
 ref	Ovariocèle		
 entry	Oxymuriate		
 entry	Oxymuriatique (acide)		
-entry	P		
 entry	Paragnathe		
 entry	Parité		
 entry	Peaussier		
@@ -24568,10 +24565,8 @@ entry	Protophyte
 entry	Pubio-caverneux		
 entry	Punctum remotissimum		
 entry	Pygodidyme		
-entry	Q		
 entry	Quadroxalate		
 entry	Quinoïde		
-entry	R		
 entry	Radical		
 entry	Rhinocéphale		
 ref	Rhinencéphale		
@@ -24579,7 +24574,6 @@ entry	Rhizospermées
 ref	Rhizocarpées		
 entry	Rutilance		
 pb	1676	1684	785557
-entry	S		
 entry	Salicor		
 entry	Scélodydime		
 entry	Séro-sanguin, ine		
@@ -24601,7 +24595,6 @@ entry	Suraigu, uë
 orth	Suraigu		
 entry	Sus-coccygien		
 entry	Syrium		
-entry	T		
 entry	Térébrateur		
 entry	Térébration		
 entry	Thérapeutisme		
@@ -24610,11 +24603,9 @@ entry	Tristernal
 entry	Tristichiasis		
 ref	Trichiasis		
 entry	Tristique		
-entry	U		
 entry	Uropygial ou uropygien		
 orth	Uropygial		
 orth	uropygien		
-entry	V		
 entry	Vaccinide		
 pb	1677	1685	785558
 entry	Glossaire latin		

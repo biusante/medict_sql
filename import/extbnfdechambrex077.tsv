@@ -4,11 +4,7 @@ pb	[s. pag.]	0003	4578053
 pb	[s. pag.]	0004	4578054
 pb	1	0005	4578055
 entry	Pied, Cou-de-pied		
-orth	Pied		
-orth	Cou-de-pied		
 entry	Pied, Cou-de-pied. Anatomie		
-orth	Pied		
-orth	Cou-de-pied. Anatomie		
 pb	2	0006	4578056
 pb	3	0007	4578057
 pb	4	0008	4578058
@@ -30,18 +26,11 @@ pb	19	0023	4578073
 pb	20	0024	4578074
 pb	21	0025	4578075
 entry	Pied, Cou-de-pied. Physiologie		
-orth	Pied		
-orth	Cou-de-pied. Physiologie		
 pb	22	0026	4578076
 pb	23	0027	4578077
 pb	24	0028	4578078
 entry	Difformités et déformations		
-orth	Difformités		
-orth	déformations		
 entry	Pied, Cou-de-pied. Difformités et déformations. Pied-bot		
-orth	Pied		
-orth	Cou-de-pied. Difformités		
-orth	déformations. Pied-bot		
 pb	25	0029	4578079
 pb	26	0030	4578080
 pb	27	0031	4578081
@@ -70,9 +59,6 @@ pb	49	0053	4578103
 pb	50	0054	4578104
 pb	51	0055	4578105
 entry	Pied, Cou-de-pied. Difformités et déformations. Pied plat		
-orth	Pied		
-orth	Cou-de-pied. Difformités		
-orth	déformations. Pied plat		
 pb	52	0056	4578106
 pb	53	0057	4578107
 pb	54	0058	4578108
@@ -95,26 +81,14 @@ pb	70	0074	4578124
 pb	71	0075	4578125
 pb	72	0076	4578126
 entry	Pied, Cou-de-pied. Difformités et déformations		
-orth	Pied		
-orth	Cou-de-pied. Difformités		
-orth	déformations		
 entry	Pied, Cou-de-pied. Difformités et déformations. Pied creux		
-orth	Pied		
-orth	Cou-de-pied. Difformités		
-orth	déformations. Pied creux		
 pb	73	0077	4578127
 pb	74	0078	4578128
 pb	75	0079	4578129
 entry	Pied, Cou-de-pied		
-orth	Pied		
-orth	Cou-de-pied		
 entry	Difformités et déformations. Pied creux		
-orth	Difformités		
-orth	déformations. Pied creux		
 entry	Pied tabétique		
 entry	Pied, Cou-de-pied. Lésions traumatiques		
-orth	Pied		
-orth	Cou-de-pied. Lésions traumatiques		
 pb	76	0080	4578130
 pb	77	0081	4578131
 pb	78	0082	4578132
@@ -169,8 +143,6 @@ pb	126	0130	4578180
 pb	127	0131	4578181
 pb	128	0132	4578182
 entry	Pied, Cou-de-pied. Affections organiques		
-orth	Pied		
-orth	Cou-de-pied. Affections organiques		
 pb	129	0133	4578183
 pb	130	0134	4578184
 pb	131	0135	4578185
@@ -221,8 +193,6 @@ pb	175	0179	4578229
 pb	176	0180	4578230
 pb	177	0181	4578231
 entry	Pied, Cou-de-pied. Médecine opératoire		
-orth	Pied		
-orth	Cou-de-pied. Médecine opératoire		
 pb	178	0182	4578232
 pb	179	0183	4578233
 pb	180	0184	4578234
@@ -573,12 +543,8 @@ pb	420	0424	4578474
 entry	Piper		
 ref	Poivre		
 entry	Pipéracées, Pipéritées		
-orth	Pipéracées		
-orth	Pipéritées		
 entry	Pipéridine		
 entry	Pipérine ou Pipérin (Chimie)		
-orth	Pipérine		
-orth	Pipérin (Chimie)		
 entry	Thérapeutique		
 ref	Poivre		
 entry	Pipérique (Acide)		
@@ -589,8 +555,6 @@ entry	Pipéronylique (Acide)
 pb	422	0426	4578476
 entry	Pipéronylique (Alcool)		
 entry	Pipéronylique (Aldhéyde) ou Pipéronal		
-orth	Pipéronylique (Aldhéyde)		
-orth	Pipéronal		
 entry	Pipi		
 ref	Pétivérie		
 entry	Pipitzahuique (Acide)		
@@ -661,8 +625,6 @@ pb	453	0457	4578507
 entry	Pistia		
 pb	454	0458	4578508
 entry	Pistorius ou Pistoris (Les)		
-orth	Pistorius		
-orth	Pistoris (Les)		
 entry	Pistyan (Eau minérale et boues de)		
 pb	455	0459	4578509
 pb	456	0460	4578510
@@ -788,7 +750,8 @@ pb	540	0544	4578594
 pb	541	0545	4578595
 entry	Placotomus (Johannes)		
 entry	Plagiocéphale		
-ref	Crâne et Brachycéphale		
+ref	Crâne		
+ref	Brachycéphale		
 entry	Plagiodon		
 entry	Plagiostomes		
 pb	542	0546	4578596
@@ -1006,15 +969,11 @@ entry	Planaires
 ref	Turbellariés		
 entry	Planchon (Jean-Baptiste)		
 entry	Plançon ou Plancy (Guillaume)		
-orth	Plançon		
-orth	Plancy (Guillaume)		
 entry	Planer (Les deux)		
 entry	Planorbe		
 pb	748	0752	4578802
 entry	Planque (François)		
 entry	Plantaginacées ou Plantaginées		
-orth	Plantaginacées		
-orth	Plantaginées		
 entry	Plantago		
 ref	Plantain		
 pb	749	0753	4578803
@@ -1031,12 +990,15 @@ entry	Plantaire grêle (Muscle)
 pb	753	0757	4578807
 pb	754	0758	4578808
 entry	Plantaires (Nerfs)		
-ref	Tibial postérieur (Nerf) et Pied		
+ref	Tibial postérieur (Nerf)		
+ref	Pied		
 entry	Plantations		
-ref	Villes et Rurale (Hygiène)		
+ref	Villes		
+ref	Rurale (Hygiène)		
 entry	Plantigrades		
 entry	Planum (Os)		
-ref	Crâne et Orbite		
+ref	Crâne		
+ref	Orbite		
 entry	Plaqueminier		
 pb	755	0759	4578809
 entry	Plaques de Peyer		
@@ -1096,8 +1058,6 @@ entry	Platane
 entry	Platearius (De Platea)		
 pb	796	0800	4578850
 entry	Plater ou Platter (Les)		
-orth	Plater		
-orth	Platter (Les)		
 entry	Platinage des glaces		
 ref	Glaces		
 entry	Platine		

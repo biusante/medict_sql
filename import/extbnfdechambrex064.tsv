@@ -14,7 +14,8 @@ entry	Navet galant
 ref	Bryone		
 entry	Navette		
 entry	Naviculaire (Fosse)		
-ref	Urèthre et Vagin		
+ref	Urèthre		
+ref	Vagin		
 entry	Navier (Pierre-Toussaint)		
 pb	3	0007	4567707
 entry	Navigation		
@@ -35,8 +36,6 @@ entry	Néarthrose
 ref	Pseudarthroses		
 entry	Nebel (les)		
 entry	Nébouzat ou Nabouzat (Eaux minérales de)		
-orth	Nébouzat		
-orth	Nabouzat (Eaux minérales de)		
 pb	13	0017	4567717
 entry	Necker (Noël-Joseph)		
 entry	Nécromancie		
@@ -190,7 +189,8 @@ entry	Nephelium
 entry	Néphogène		
 ref	Pulvérisation		
 entry	Néphrétique (Colique)		
-ref	Colique et Reins		
+ref	Colique		
+ref	Reins		
 entry	Néphrite		
 entry	Nephrodium		
 ref	Fougère mâle		
@@ -414,7 +414,6 @@ pb	311	0315	4568015
 pb	312	0316	4568016
 pb	313	0317	4568017
 entry	Nerfs de Bock, etc		
-orth	Nerfs de Bock		
 entry	Neri-Visham		
 entry	Nerion		
 pb	314	0318	4568018
@@ -613,8 +612,6 @@ pb	493	0497	4568197
 pb	494	0498	4568198
 pb	495	0499	4568199
 entry	Nerveux (Système). Anatomie et physiologie du système nerveux envisagé dans la série animale		
-orth	Nerveux (Système). Anatomie		
-orth	physiologie du système nerveux envisagé dans la série animale		
 pb	496	0500	4568200
 pb	497	0501	4568201
 pb	498	0502	4568202
@@ -751,7 +748,9 @@ pb	627	0631	4568331
 pb	628	0632	4568332
 entry	Nervins		
 entry	Nervosisme		
-ref	Médecine (Histoire de la) et Névropathie et Nerveuses (maladies)		
+ref	Médecine (Histoire de la)		
+ref	Névropathie		
+ref	Nerveuses (maladies)		
 entry	Nesoea		
 ref	Salicaire		
 entry	Nessel (Les)		
@@ -782,9 +781,6 @@ pb	639	0643	4568343
 pb	640	0644	4568344
 entry	Neunzig (Joseph)		
 entry	Neurine, Névrine ou Choline		
-orth	Neurine		
-orth	Névrine		
-orth	Choline		
 pb	641	0645	4568345
 entry	Neurohr (Johann-Anton)		
 pb	642	0646	4568346
@@ -923,7 +919,8 @@ pb	757	0761	4568461
 pb	758	0762	4568462
 pb	759	0763	4568463
 entry	Névrosisme		
-ref	Névropathie et Nerveuses (Maladies)		
+ref	Névropathie		
+ref	Nerveuses (Maladies)		
 entry	Névrosthéniques		
 pb	760	0764	4568464
 pb	761	0765	4568465

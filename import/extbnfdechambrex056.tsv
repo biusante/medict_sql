@@ -6,15 +6,11 @@ pb	1	0005	4541887
 entry	Magnus		
 pb	2	0006	4541888
 entry	Maguai, Maguey		
-orth	Maguai		
-orth	Maguey		
 entry	Mahon (Paul-Augustin-Olivier)		
 pb	3	0007	4541889
 entry	Mahonie		
 entry	Maia		
 entry	Maigre ou Le Maigre		
-orth	Maigre		
-orth	Le Maigre		
 entry	Maillechort		
 entry	Maillot		
 ref	Nouveau-né		
@@ -53,8 +49,6 @@ pb	33	0037	4541919
 pb	34	0038	4541920
 entry	Physiologie		
 entry	Main. Anatomie comparée et anthropologie		
-orth	Main. Anatomie comparée		
-orth	anthropologie		
 pb	35	0039	4541921
 pb	36	0040	4541922
 pb	37	0041	4541923
@@ -246,8 +240,6 @@ entry	Mal de la Baie de Saint-Paul
 pb	206	0210	4542092
 pb	207	0211	4542093
 entry	Mal de Bassine, Mal de vers		
-orth	Mal de Bassine		
-orth	Mal de vers		
 pb	208	0212	4542094
 pb	209	0213	4542095
 pb	210	0214	4542096
@@ -266,8 +258,6 @@ ref	Éléphantiasis
 entry	Mal d'estomac		
 ref	Cachexie acqueuse		
 entry	Mal de Fiume ou de Scherlievo		
-orth	Mal de Fiume		
-orth	de Scherlievo		
 pb	215	0219	4542101
 pb	216	0220	4542102
 pb	217	0221	4542103
@@ -290,13 +280,11 @@ ref	Pellagre
 entry	Mal de montagne		
 ref	Altitudes		
 entry	Mal napolitain, Mal français, Mal espagnol		
-orth	Mal napolitain		
-orth	Mal français		
-orth	Mal espagnol		
 ref	Syphilis		
 pb	227	0231	4542113
 entry	Mal de Puna		
-ref	Maréo et Altitudes		
+ref	Maréo		
+ref	Altitudes		
 entry	Mal perforant		
 ref	Pied		
 entry	Mal rouge de Cayenne		
@@ -444,8 +432,6 @@ entry	Malamide
 pb	332	0336	4542218
 entry	Malanea		
 entry	Malapari, Malaparius		
-orth	Malapari		
-orth	Malaparius		
 entry	Malaria		
 pb	333	0337	4542219
 entry	Malates		
@@ -480,7 +466,8 @@ entry	Mallat de Bassilan (J.)
 entry	Malle (Pierre-Nicolas-François)		
 pb	349	0353	4542235
 entry	Malléolaires (Artères)		
-ref	Pied et Tibiale antérieure		
+ref	Pied		
+ref	Tibiale antérieure		
 entry	Malléoles		
 ref	Jambes		
 ref	Péroné		
@@ -545,8 +532,6 @@ pb	380	0384	4542266
 pb	381	0385	4542267
 entry	Pathologie		
 entry	Mamelles. Pathologie. Contusions et Plaies		
-orth	Mamelles. Pathologie. Contusions		
-orth	Plaies		
 pb	382	0386	4542268
 pb	383	0387	4542269
 pb	384	0388	4542270
@@ -585,8 +570,6 @@ pb	416	0420	4542302
 pb	417	0421	4542303
 pb	418	0422	4542304
 entry	Mamelles. Pathologie. Maladies des mamelles dans leur rapport avec la lactation et l'allaitement		
-orth	Mamelles. Pathologie. Maladies des mamelles dans leur rapport avec la lactation		
-orth	l'allaitement		
 pb	419	0423	4542305
 pb	420	0424	4542306
 pb	421	0425	4542307
@@ -606,8 +589,6 @@ pb	434	0438	4542320
 pb	435	0439	4542321
 pb	436	0440	4542322
 entry	Mamelles. Pathologie. Maladies vénériennes et syphilitiques		
-orth	Mamelles. Pathologie. Maladies vénériennes		
-orth	syphilitiques		
 pb	437	0441	4542323
 pb	438	0442	4542324
 pb	439	0443	4542325
@@ -707,7 +688,8 @@ pb	505	0509	4542391
 entry	Mangara		
 entry	Manget (Jean-Jacques)		
 entry	Manghas		
-ref	Manguier et Cerbera		
+ref	Manguier		
+ref	Cerbera		
 entry	Mangifera		
 ref	Manguier		
 entry	Mangles		
@@ -716,8 +698,6 @@ entry	Mangliers
 entry	Mangold (Les deux)		
 entry	Mangoustan		
 entry	Mangue, Manguier		
-orth	Mangue		
-orth	Manguier		
 pb	507	0511	4542393
 entry	Manie		
 pb	508	0512	4542394
@@ -774,9 +754,6 @@ pb	558	0562	4542444
 pb	559	0563	4542445
 pb	560	0564	4542446
 entry	Maniguette, Malaguette, Meleguetta		
-orth	Maniguette		
-orth	Malaguette		
-orth	Meleguetta		
 pb	561	0565	4542447
 entry	Manille		
 ref	Philippines		
@@ -1030,8 +1007,6 @@ pb	766	0770	4542652
 entry	Marcard (Henry-Matthieu)		
 entry	Marcé (Louis-Victor)		
 entry	Marcello de Cumes ou Marcellus Cumanus		
-orth	Marcello de Cumes		
-orth	Marcellus Cumanus		
 pb	767	0771	4542653
 entry	Marcellus		
 entry	Marcellus Sideta		
@@ -1055,11 +1030,10 @@ entry	Marchi (Marco de)
 entry	Marcot (Eustache)		
 pb	774	0778	4542660
 entry	Marcus ou Markus (Adalbert-Friedreich)		
-orth	Marcus		
-orth	Markus (Adalbert-Friedreich)		
 pb	775	0779	4542661
 entry	Mare		
-ref	Rurale (hygiène) et Marais		
+ref	Rurale (hygiène)		
+ref	Marais		
 entry	Maréo		
 entry	Mareschal (Georges)		
 pb	776	0780	4542662

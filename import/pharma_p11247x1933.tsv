@@ -11,7 +11,7 @@ pb	sn	0009	7725421
 entry	Première partie. Classification des chapitres par actions médicamenteuses et indications thérapeutiques		
 pb	pb	0010	7725422
 pb	sn	0011	7725423
-entry	I. - Appareil circulatoire. thérapeutique générale		
+entry	Appareil circulatoire. thérapeutique générale		
 entry	thérapeutique spéciale		
 entry	II. - Appareil digestif. thérapeutique générale		
 pb	sn	0012	7725424
@@ -22,7 +22,7 @@ entry	Thérapeutique spéciale
 entry	IV. - Appareil respiratoire. thérapeutique générale		
 entry	thérapeutique spéciale		
 pb	sn	0014	7725426
-entry	V. - Chirurgie - thérapeutique externe. thérapeutique générale		
+entry	Chirurgie - thérapeutique externe. thérapeutique générale		
 entry	thérapeutique spéciale		
 entry	VI. - Diététique		
 entry	VII. - Instrumentation - Appareils		
@@ -32,7 +32,7 @@ pb	sn	0015	7725427
 entry	Thérapeutique spéciale		
 entry	IX. - Maladies de la peau. thérapeutique générale		
 entry	thérapeutique spéciale		
-entry	X. - Maladies infectieuses. thérapeutique générale		
+entry	Maladies infectieuses. thérapeutique générale		
 pb	sn	0016	7725428
 entry	Thérapeutique générale		
 entry	thérapeutique spéciale		
@@ -978,7 +978,6 @@ pb	171	0357	7725769
 entry	Bucmine		
 entry	Bulgarine Thépénier		
 pb	172	0358	7725770
-entry	C 40		
 entry	Cachets du Docteur Boveil		
 pb	173	0359	7725771
 entry	Cachets Kapytan		
@@ -1064,7 +1063,7 @@ pb	202	0388	7725800
 entry	Cataplasme du Docteur Lelièvre		
 entry	Cateményl		
 pb	203	0389	7725801
-entry	C. B. K.		
+entry	B. K.		
 pb	204	0390	7725802
 entry	Cellu-son		
 entry	Céréales bébé Favrichon		
@@ -3328,7 +3327,7 @@ pb	1062	1248	7726660
 entry	Tartrate Borico-potassique Pachaut		
 entry	Taxol		
 pb	1063	1249	7726661
-entry	T. B. X. Métacrysine		
+entry	B. X. Métacrysine		
 entry	Tébéphaguine Fornet		
 pb	1064	1250	7726662
 entry	Técarine		
@@ -3695,7 +3694,6 @@ pb	sn	1393	7726805
 entry	3e Partie. Nomenclature nominale des spécialités pharmaceutiques médicales avec les adresses de leurs fabricants		
 pb	pb	1394	7726806
 pb	1209	1395	7726807
-entry	A		
 pb	1210	1396	7726808
 pb	1211	1397	7726809
 pb	1212	1398	7726810
@@ -3705,7 +3703,6 @@ pb	1215	1401	7726813
 pb	1216	1402	7726814
 pb	1217	1403	7726815
 pb	1218	1404	7726816
-entry	B		
 pb	1219	1405	7726817
 pb	1220	1406	7726818
 pb	1221	1407	7726819
@@ -3714,7 +3711,6 @@ pb	1223	1409	7726821
 pb	1224	1410	7726822
 pb	1225	1411	7726823
 pb	1226	1412	7726824
-entry	C		
 pb	1227	1413	7726825
 pb	1228	1414	7726826
 pb	1229	1415	7726827
@@ -3726,24 +3722,20 @@ pb	1234	1420	7726832
 pb	1235	1421	7726833
 pb	1236	1422	7726834
 pb	1237	1423	7726835
-entry	D		
 pb	1238	1424	7726836
 pb	1239	1425	7726837
 pb	1240	1426	7726838
 pb	1241	1427	7726839
 pb	1242	1428	7726840
-entry	E		
 pb	1243	1429	7726841
 pb	1244	1430	7726842
 pb	1245	1431	7726843
 pb	1246	1432	7726844
 pb	1247	1433	7726845
-entry	F		
 pb	1248	1434	7726846
 pb	1249	1435	7726847
 pb	1250	1436	7726848
 pb	1251	1437	7726849
-entry	G		
 pb	1252	1438	7726850
 pb	1253	1439	7726851
 pb	1254	1440	7726852
@@ -3752,45 +3744,36 @@ pb	1256	1442	7726854
 pb	1257	1443	7726855
 pb	1258	1444	7726856
 pb	1259	1445	7726857
-entry	H		
 pb	1260	1446	7726858
 pb	1261	1447	7726859
 pb	1262	1448	7726860
 pb	1263	1449	7726861
 pb	1264	1450	7726862
-entry	I		
 pb	1265	1451	7726863
 pb	1266	1452	7726864
 pb	1267	1453	7726865
 pb	1268	1454	7726866
-entry	J		
-entry	K		
 pb	1269	1455	7726867
 pb	1270	1456	7726868
-entry	L		
 pb	1271	1457	7726869
 pb	1272	1458	7726870
 pb	1273	1459	7726871
 pb	1274	1460	7726872
-entry	M		
 pb	1275	1461	7726873
 pb	1276	1462	7726874
 pb	1277	1463	7726875
 pb	1278	1464	7726876
 pb	1279	1465	7726877
-entry	N		
 pb	1280	1466	7726878
 pb	1281	1467	7726879
 pb	1282	1468	7726880
 pb	1283	1469	7726881
 pb	1284	1470	7726882
-entry	O		
 pb	1285	1471	7726883
 pb	1286	1472	7726884
 pb	1287	1473	7726885
 pb	1288	1474	7726886
 pb	1289	1475	7726887
-entry	P		
 pb	1290	1476	7726888
 pb	1291	1477	7726889
 pb	1292	1478	7726890
@@ -3804,13 +3787,10 @@ pb	1299	1485	7726897
 pb	1300	1486	7726898
 pb	1301	1487	7726899
 pb	1302	1488	7726900
-entry	Q		
 pb	1303	1489	7726901
-entry	R		
 pb	1304	1490	7726902
 pb	1305	1491	7726903
 pb	1306	1492	7726904
-entry	S		
 pb	1307	1493	7726905
 pb	1308	1494	7726906
 pb	1309	1495	7726907
@@ -3825,27 +3805,20 @@ pb	1317	1503	7726915
 pb	1318	1504	7726916
 pb	1319	1505	7726917
 pb	1320	1506	7726918
-entry	T		
 pb	1321	1507	7726919
 pb	1322	1508	7726920
 pb	1323	1509	7726921
 pb	1324	1510	7726922
 pb	1325	1511	7726923
 pb	1326	1512	7726924
-entry	U		
 pb	1327	1513	7726925
 pb	1328	1514	7726926
-entry	V		
 pb	1329	1515	7726927
 pb	1330	1516	7726928
 pb	1331	1517	7726929
 pb	1332	1518	7726930
 pb	1333	1519	7726931
-entry	W		
-entry	X		
-entry	Y		
 pb	1334	1520	7726932
-entry	Z		
 pb	sn	1521	7726933
 entry	4e Partie. Nomenclature de spécialités pharmaceutiques classées par laboratoires		
 pb	pb	1522	7726934
@@ -3861,7 +3834,7 @@ entry	Pierre Alexandre
 entry	Amibiasine		
 entry	Amicros		
 entry	Produits Amido		
-entry	H. Ammann		
+entry	Ammann		
 entry	Amphotonyl		
 entry	Ampho-Vaccins (Ronchèse)		
 entry	Angelini		
@@ -3874,9 +3847,9 @@ entry	Antiseptiques chlorés
 entry	Aphosal		
 entry	Application pharmacodynamique		
 entry	Applications thérapeutiques « Théraplix »		
-entry	L. Arquevaux		
+entry	Arquevaux		
 entry	Aseptor		
-entry	P. Astier		
+entry	Astier		
 entry	Docteur E. Aubert		
 entry	Aubry		
 entry	Marcel Audibert		
@@ -3889,25 +3862,25 @@ entry	Docteur Baissade
 entry	Baldisédan		
 entry	Bardet		
 entry	Docteur Barey		
-entry	C. Baron		
+entry	Baron		
 entry	Bassin		
 entry	Basuyaux		
-entry	B. C. L.		
-entry	B. E. A.		
+entry	C. L.		
+entry	E. A.		
 entry	Beau		
 entry	Beaufour		
 entry	Beauxis-Lagrave		
 entry	Bejean		
 entry	Belhomme		
-entry	M. Belières		
+entry	Belières		
 entry	MM. Benderitter et Compagnie		
 entry	Docteur Bengué		
 entry	Béral		
 pb	1340	1526	7726938
 entry	Berger		
 entry	Bergevin		
-entry	G. Bernhard		
-entry	G. Berthon		
+entry	Bernhard		
+entry	Berthon		
 entry	Bexinine		
 entry	Beytout		
 entry	Biochimie médicale (Ch. Desgrez)		
@@ -3930,7 +3903,7 @@ entry	Bottu
 entry	Boudin		
 entry	Bouillet		
 entry	Boules Quiès		
-entry	E. Boulle		
+entry	Boulle		
 entry	Boulommier		
 entry	Docteur Bourdeau		
 entry	Bousquet et Leroux		
@@ -3941,14 +3914,14 @@ entry	Bouvelot
 entry	Bouvot		
 entry	Bracquemond et Compagnie		
 entry	Ch. Brésil		
-entry	J. Bressier		
+entry	Bressier		
 entry	Brichard et fils		
 entry	Compagnie de Brides (Sous-Produits)		
 entry	Pierre Brisson		
 entry	Bruneau et Compagnie		
 pb	1342	1528	7726940
 entry	Docteur Brunerye		
-entry	A. Brunot		
+entry	Brunot		
 entry	Buriat		
 entry	Byla		
 entry	Caillaud		
@@ -3956,7 +3929,7 @@ entry	Calmel-Domergue
 entry	Camuset		
 entry	Canol		
 entry	Cantin		
-entry	M. J. Capin		
+entry	J. Capin		
 entry	Caresmel		
 entry	Carlier		
 entry	Carron		
@@ -3969,13 +3942,12 @@ entry	Laboratoire Central
 entry	Cesbron		
 entry	Céthocal		
 entry	Chaix		
-entry	P. Chambon		
-entry	R. Chantereau		
+entry	Chambon		
 entry	Chantereau		
 entry	Charbons Fraudin		
 entry	Charmaison		
-entry	V. Charret-Tomasi		
-entry	M. Henri Chartier		
+entry	Charret-Tomasi		
+entry	Henri Chartier		
 entry	Chassaing Le Coq et Compagnie		
 entry	Pierre Château		
 entry	Chatelut		
@@ -3987,7 +3959,7 @@ entry	Chevillon
 entry	Chevretin-Lematte		
 entry	Chiarini		
 pb	1344	1530	7726942
-entry	M. Chibret		
+entry	Chibret		
 entry	Chimico-thérapique de Paris		
 entry	Chimie appliquée de Nanterre		
 entry	français de Chimiothérapie		
@@ -3996,13 +3968,13 @@ entry	Christiaens (Laboratoire de la Pharmacie de Place-Royale)
 entry	Churchill		
 entry	Ciba		
 entry	Cimatryl		
-entry	C. I. P.		
+entry	I. P.		
 entry	Claeys		
 entry	Claverie		
 entry	Clupeyl		
 entry	Cluzel		
 entry	Produits Cognet (Armingeat et Compagnie)		
-entry	A. Coirier		
+entry	Coirier		
 entry	Colas		
 entry	Produits Collas et Boudault		
 entry	Raoul Columeau		
@@ -4010,7 +3982,7 @@ pb	1345	1531	7726943
 entry	Complexes colloïdaux du Docteur Riquoir (Laboratoire Merminod et Compagnie)		
 entry	Complextraits Huckel, Héricourt (Haute-S.)		
 entry	Comte		
-entry	C. Cons		
+entry	Cons		
 entry	Coprex		
 entry	Coquelu		
 entry	Corbière		
@@ -4018,7 +3990,7 @@ entry	Cornaud et Brossard
 entry	Cortial		
 entry	Coulloux		
 entry	Cousin		
-entry	G. Coussinet		
+entry	Coussinet		
 entry	Couturieux		
 entry	Créoformine		
 entry	Croc		
@@ -4038,7 +4010,7 @@ entry	Daniel Brunet
 entry	Danjou		
 entry	Dannec'h (MM. Brun et Martineau)		
 entry	Darrasse		
-entry	P. Daumas		
+entry	Daumas		
 entry	Daupez		
 entry	Dausse		
 entry	Docteur Debat		
@@ -4094,9 +4066,9 @@ entry	Dumesny
 entry	Durand		
 entry	Docteur Durand		
 entry	Duret et Rémy		
-entry	E. Duriez		
+entry	Duriez		
 entry	Docteur Henri-Dussaud		
-entry	A. Duteil		
+entry	Duteil		
 entry	Eaux minérales de Decize		
 entry	Entériode		
 entry	Eon		
@@ -4109,7 +4081,7 @@ entry	Evine
 entry	Société française d'Extension bio-chimique		
 entry	Fagard		
 entry	Falcoz et Compagnie		
-entry	P. Famel		
+entry	Famel		
 entry	Brasserie Fanta		
 entry	Fanyau		
 entry	Faure		
@@ -4117,11 +4089,11 @@ entry	Faure et Dussuel
 entry	Favrichon et Vignon		
 entry	Feignoux		
 entry	Feminadène		
-entry	G. Fermé		
+entry	Fermé		
 entry	Ferme de Lafaye		
 entry	Fer-Ovarine Vitalis		
 entry	Docteur Ferré		
-entry	E. Ferré		
+entry	Ferré		
 pb	1351	1537	7726949
 entry	Docteur Fialip		
 entry	Fisch et Compagnie		
@@ -4131,34 +4103,34 @@ entry	Fluxine (M. Bonthoux)
 entry	Fokiényl		
 entry	Paul Fontanier		
 entry	Fouard		
-entry	H. Foucher		
+entry	Foucher		
 entry	Fournie		
-entry	A. Fournier et Compagnie		
+entry	Fournier et Compagnie		
 entry	Fournier frères		
-entry	M. Fraisse		
+entry	Fraisse		
 entry	Docteur Fraysse		
 entry	Freyssinge		
 entry	Fumouze et Compagnie		
 pb	1352	1538	7726950
 entry	Galbrun		
-entry	R. Gallier		
+entry	Gallier		
 entry	Gallina		
 entry	Clément Gardiol		
 entry	Gauchon		
-entry	J. Gautier		
+entry	Gautier		
 entry	Genevet		
 entry	Génévrier		
 entry	Gerda		
 entry	Produits du Docteur Gigon		
 entry	Gilbert		
-entry	A. Girard		
+entry	Girard		
 entry	Givaudan Lavirotte		
 entry	Glory		
 entry	Gloxines		
 entry	Gmet		
 entry	Gobey		
 pb	1353	1539	7726951
-entry	P. Godfrin		
+entry	Godfrin		
 entry	Gomenol		
 entry	Gonnon		
 entry	Gouin		
@@ -4174,7 +4146,7 @@ entry	Gros
 entry	Grysa		
 entry	André Guerbet et Compagnie		
 entry	Guéret		
-entry	P. Guérin		
+entry	Guérin		
 entry	André Guillaumin		
 entry	Guillaumin et Gérard		
 pb	1354	1540	7726952
@@ -4191,7 +4163,7 @@ entry	Hocquette
 entry	Hoffmann La Roche et Compagnie		
 entry	Houdé		
 entry	Hourquet et Vienne		
-entry	J. Huerre et Compagnie		
+entry	Huerre et Compagnie		
 pb	1355	1541	7726953
 entry	Huet		
 entry	Hy		
@@ -4217,9 +4189,9 @@ entry	Jonids
 entry	Jooss		
 entry	Julien		
 entry	Kaobrol		
-entry	L. Kerfyser		
+entry	Kerfyser		
 entry	Kervan		
-entry	A. Koehler		
+entry	Koehler		
 entry	Kraus		
 entry	Krieger		
 entry	Kuhimann		
@@ -4234,15 +4206,13 @@ pb	1357	1543	7726955
 entry	Laleuf		
 entry	Lamar		
 entry	Lambert		
-entry	L. Lambert		
-entry	Lambert		
 entry	Lambiotte frères		
 entry	Produits Lamo		
 entry	Lancosme		
 entry	Landrin et Compagnie		
 entry	Lang et Compagnie		
 entry	Langlois		
-entry	L. Laroze		
+entry	Laroze		
 entry	Laryngologique du Docteur Cordier		
 entry	Latour		
 entry	Docteur Laurent-Gérard		
@@ -4257,7 +4227,7 @@ entry	Leboime
 entry	Lebon		
 entry	Lebreton		
 entry	Lebrun		
-entry	T. Leclerc		
+entry	Leclerc		
 entry	Lecoq et Ferrand		
 entry	Davay		
 entry	Lees		
@@ -4273,10 +4243,10 @@ entry	Leporcq
 entry	Docteur Leprince		
 entry	Lerck		
 entry	Lescene		
-entry	G. Lesourd		
+entry	Lesourd		
 entry	Lesure		
 entry	Lettry		
-entry	L. E		
+entry	E		
 ref	A		
 entry	Licardy		
 entry	Lipides		
@@ -4284,7 +4254,7 @@ entry	Liposeptine
 entry	Lobica		
 entry	Lobry		
 entry	Emile Logeais		
-entry	J. Logeais		
+entry	Logeais		
 entry	Longuet		
 entry	Lorrain de produits synthétique purs		
 pb	1360	1546	7726958
@@ -4299,7 +4269,7 @@ entry	Malone (M. Vincent)
 entry	Mannet		
 entry	Marchand et Leroy		
 entry	Marinier		
-entry	A. Martin		
+entry	Martin		
 entry	Docteur Martinet		
 entry	Martinie		
 entry	Mauchant		
@@ -4310,7 +4280,7 @@ entry	Médecine Expérimentale
 entry	Médico-pharmaceutique de France		
 entry	Mercier		
 entry	Merminod		
-entry	J. Messis		
+entry	Messis		
 entry	Métacuprol		
 entry	Métadier		
 entry	Meunier		
@@ -4319,7 +4289,7 @@ entry	Michelon
 entry	Michels		
 entry	Mictasol		
 entry	Midy frères		
-entry	E. Millet		
+entry	Millet		
 entry	Millet et Guillaumin		
 entry	Millot		
 pb	1362	1548	7726960
@@ -4341,14 +4311,14 @@ entry	Néobiol
 pb	1363	1549	7726961
 entry	Nestosyl		
 entry	Neuville		
-entry	R. Niel		
-entry	H. Noé		
+entry	Niel		
+entry	Noé		
 entry	Noelline		
-entry	H. Nogues		
+entry	Nogues		
 entry	Novalis		
 entry	Oberlin		
 entry	Océana		
-entry	O. C. P.		
+entry	C. P.		
 entry	Odilia		
 entry	Odinot		
 entry	Olivéol		
@@ -4374,14 +4344,14 @@ entry	Pellissier
 entry	Pépin et Leboucq		
 entry	Pepticol		
 entry	Perichon		
-entry	H. Perignon		
+entry	Perignon		
 entry	Compagnie française des Peroxydes		
 entry	Perrier		
 entry	Perrin et Bruno		
 entry	Perrochon		
 entry	Perroud		
 pb	1366	1552	7726964
-entry	E. Petit		
+entry	Petit		
 entry	Pharmacie anglaise des Champs-Elysées		
 entry	Biologique		
 entry	Pharmacie centrale de Belgique		
@@ -4399,7 +4369,7 @@ entry	Maison du Docteur Pillet
 entry	Docteur Pinard		
 entry	Planche		
 entry	Docteur Plantier		
-entry	J. Plé		
+entry	Plé		
 entry	Pneumogénol		
 entry	Pointet et Girard		
 entry	Pompanon		
@@ -4407,7 +4377,7 @@ entry	Porcher
 entry	Probios		
 entry	Progil		
 entry	Prothérapia		
-entry	L. Prothière		
+entry	Prothière		
 entry	Protonic		
 entry	Proxytases		
 entry	Georges Prunier et Compagie		
@@ -4431,7 +4401,7 @@ entry	Remeaud
 entry	Remy et Lecoq		
 entry	Renard		
 entry	Renard et Compagnie		
-entry	M. Renaud		
+entry	Renaud		
 entry	Renovol		
 entry	Revel		
 entry	Révulsifs		
@@ -4443,8 +4413,8 @@ entry	Ricardou et Compagnie
 entry	Richer		
 entry	Riethe		
 entry	Rissa		
-entry	H. Rivier		
-entry	J. Robert (J. Boudier, succ.)		
+entry	Rivier		
+entry	Robert (J. Boudier, succ.)		
 entry	Robert et Carrière		
 entry	Roberts et Compagnie		
 entry	Robin		
@@ -4466,7 +4436,7 @@ entry	Rozoderme
 entry	Sabatier		
 entry	Salantale		
 entry	Salavert		
-entry	H. Salle		
+entry	Salle		
 entry	Salvoxyl		
 entry	Sambul		
 entry	Produits « Sana »		
@@ -4474,7 +4444,7 @@ entry	Sandoz
 pb	1371	1557	7726969
 entry	Sanova		
 entry	Santhéose		
-entry	A. Savigneux		
+entry	Savigneux		
 entry	Schmit		
 entry	Produits Scientia (Docteur E. Perraudin)		
 entry	Scott et fils		
@@ -4482,16 +4452,16 @@ entry	Seguin
 entry	Sels du Jura		
 entry	Sephyda		
 entry	Serindat		
-entry	J.-M. Serre		
+entry	M. Serre		
 entry	Servier		
 entry	Sevenet		
 entry	Sévigné		
-entry	S. F. E. A. T.		
+entry	F. E. A. T.		
 entry	Siècle		
 entry	Silbert et Ripert		
 entry	Guy Simon		
 entry	Soudan		
-entry	A. Soulas		
+entry	Soulas		
 entry	Soulié		
 entry	« Spécia » (Société parisienne d'expansion chimique)		
 pb	1372	1558	7726970
@@ -4500,22 +4470,22 @@ entry	Splénocarbine
 entry	Stalys		
 entry	Sténé		
 entry	Stomagyl		
-entry	H. Stouls		
+entry	Stouls		
 entry	Substantia		
 entry	Sulfo-Thiorine		
 entry	Tamarine		
-entry	H. Tavernier		
+entry	Tavernier		
 entry	Docteur Testart		
 entry	Teyssèdre		
 entry	Théovadil		
-entry	A. Thépénier		
+entry	Thépénier		
 entry	thérapeutique exotique		
 entry	thérapeutique générale		
 pb	1373	1559	7726971
 entry	Thérapeutique générale		
 entry	Thévenot		
 entry	Thiriet et Compagnie		
-entry	G. Tinard		
+entry	Tinard		
 entry	Docteur G. Tissot		
 entry	Toraude		
 entry	Trouette-Perret		
@@ -4534,12 +4504,12 @@ entry	Valovarine
 entry	Valthène (A. Valat)		
 entry	Vanda		
 entry	Varilaxine (M. Crestey)		
-entry	J. Variot		
+entry	Variot		
 entry	Vaso-Rhinol		
 entry	Vaudin et Guillaumin		
 entry	Vécor		
 entry	Végétol		
-entry	F. Vellay		
+entry	Vellay		
 entry	Produits Vely		
 entry	Compagnie française de la Vénécine		
 entry	Venot		

@@ -84,8 +84,6 @@ entry	Frauenfeld (Georg von)
 entry	Fraunhofer (Joseph von)		
 pb	34	0038	4530572
 entry	Fraxine ou Paviine		
-orth	Fraxine		
-orth	Paviine		
 pb	35	0039	4530573
 entry	Fraxinelle		
 pb	36	0040	4530574
@@ -94,8 +92,6 @@ entry	Fraxinus
 ref	Frêne		
 entry	Frébault (J.-F.)		
 entry	Frédéricille et non Frédéricelle		
-orth	Frédéricille		
-orth	non Frédéricelle		
 pb	38	0042	4530576
 entry	Freeman (Les)		
 entry	Fréese (Nils-Fredric)		
@@ -131,8 +127,6 @@ pb	49	0053	4530587
 pb	50	0054	4530588
 pb	51	0055	4530589
 entry	Frénésie, ou mieux Phrénésie		
-orth	Frénésie		
-orth	mieux Phrénésie		
 entry	Frenga		
 entry	Frenzel (Les)		
 pb	52	0056	4530590
@@ -247,8 +241,6 @@ ref	Frohbeen
 pb	121	0125	4530659
 entry	Frobenius (Sigismund-August)		
 entry	Frohbeen ou Froben (Eduard-Friedrich)		
-orth	Frohbeen		
-orth	Froben (Eduard-Friedrich)		
 entry	Fröhlich (Les)		
 entry	Froid		
 entry	Froid. Physique		
@@ -368,8 +360,6 @@ pb	226	0230	4530764
 entry	Fromage de Feugrès (Charles-Michel-François)		
 pb	227	0231	4530765
 entry	Fromage ou Fromageon		
-orth	Fromage		
-orth	Fromageon		
 entry	Fromager		
 pb	228	0232	4530766
 entry	Fromann (Conrad)		
@@ -578,7 +568,8 @@ pb	340	0344	4530878
 entry	Fumeterre. Emploi médical		
 pb	341	0345	4530879
 entry	Fumiers		
-ref	Habitations et Rurale (Hygiène)		
+ref	Habitations		
+ref	Rurale (Hygiène)		
 pb	342	0346	4530880
 entry	Fumigations		
 pb	343	0347	4530881
@@ -622,8 +613,6 @@ ref	Fungique (Acide)
 entry	Funger (Johannes)		
 pb	378	0382	4530916
 entry	Fungidés ou Fongidés		
-orth	Fungidés		
-orth	Fongidés		
 entry	Fungique (Acide)		
 entry	Fungus		
 pb	379	0383	4530917
@@ -633,9 +622,6 @@ entry	Funke (Les)
 pb	380	0384	4530918
 pb	381	0385	4530919
 entry	Furcroea ou Furcroya ou Fourcroya		
-orth	Furcroea		
-orth	Furcroya		
-orth	Fourcroya		
 entry	Füred (Eau minérale et boue de)		
 ref	Balaton-Füred		
 entry	Furfur		
@@ -677,14 +663,10 @@ entry	Fusinieri (Ambrogio)
 entry	Fusion (Anomalies par)		
 entry	Fusisporium		
 entry	Fusogh ou Fasogh.		
-orth	Fusogh		
-orth	Fasogh		
 entry	Fuster (Les)		
 pb	402	0406	4530940
 pb	403	0407	4530941
 entry	Fustet, Fustec		
-orth	Fustet		
-orth	Fustec		
 entry	Botanique		
 entry	Emploi		
 entry	Füter (Edward)		
@@ -705,7 +687,8 @@ entry	Addenda. Fleming (John-Gibson)
 pb	406	0410	4530944
 entry	Fontanelles (Anatomie)		
 entry	Fonte (Pathologie)		
-ref	Colliquation et Fondants		
+ref	Colliquation		
+ref	Fondants		
 entry	Forceps (Anatomie)		
 ref	Cerveau		
 entry	Addenda. Foster (Michael)		
@@ -717,8 +700,6 @@ entry	Fraisse (Charles-Antoine)
 entry	Frégate (Zoologie)		
 pb	409	0413	4530947
 entry	Gabelchover ou Gabelkhover (Les deux)		
-orth	Gabelchover		
-orth	Gabelkhover (Les deux)		
 entry	Gaber (Jean-Baptiste)		
 pb	410	0414	4530948
 entry	Gabian (Eaux minérales de)		
@@ -747,8 +728,6 @@ entry	Gadermann (Joseph)
 entry	Gadinière (La)		
 ref	La Gadinière		
 entry	Gadinine ou Gaduine		
-orth	Gadinine		
-orth	Gaduine		
 entry	Gadinique (Acide)		
 pb	417	0421	4530955
 entry	Gaels (Gaulois)		
@@ -773,8 +752,6 @@ entry	Gaïacine
 entry	Gaïacique (Acide)		
 pb	426	0430	4530964
 entry	Gaïacol ou Hydrure de Gaïacyle		
-orth	Gaïacol		
-orth	Hydrure de Gaïacyle		
 entry	Gaïaconique (Acide)		
 pb	427	0431	4530965
 entry	Gaïarétique (Acide)		
@@ -800,8 +777,6 @@ pb	433	0437	4530971
 entry	Gaitsekll (Les deux)		
 pb	434	0438	4530972
 entry	Gakenholz ou Gackenholz (Alexander-Christian)		
-orth	Gakenholz		
-orth	Gackenholz (Alexander-Christian)		
 entry	Galactagogues		
 pb	435	0439	4530973
 pb	436	0440	4530974
@@ -892,18 +867,15 @@ pb	490	0494	4531028
 entry	Gale (Pathologie)		
 pb	491	0495	4531029
 entry	Galé odorant ou Piment royal		
-orth	Galé odorant		
-orth	Piment royal		
 entry	Galeano (Giuseppe)		
 entry	Gatéanthropie		
 entry	Galeati ou Galeazzi (Domenico-Maria-Gusmano)		
-orth	Galeati		
-orth	Galeazzi (Domenico-Maria-Gusmano)		
 pb	492	0496	4531030
 entry	Galega		
 entry	Galène		
 entry	Galenisme		
-ref	Galien et Médecine (Histoire de la)		
+ref	Galien		
+ref	Médecine (Histoire de la)		
 entry	Galenzowski		
 pb	493	0497	4531031
 entry	Galeobdolon		
@@ -936,13 +908,8 @@ pb	511	0515	4531049
 pb	512	0516	4531050
 pb	513	0517	4531051
 entry	Galiet, Gaillet ou Caille-lait		
-orth	Galiet		
-orth	Gaillet		
-orth	Caille-lait		
 pb	514	0518	4531052
 entry	Galilée ou Galilei (Galileo)		
-orth	Galilée		
-orth	Galilei (Galileo)		
 pb	515	0519	4531053
 entry	Galinsoga (Mariano-Martinez de)		
 entry	Galiote		
@@ -952,8 +919,6 @@ entry	Galipea. Emploi thérapeutique
 pb	516	0520	4531054
 pb	517	0521	4531055
 entry	Galipot ou Barras		
-orth	Galipot		
-orth	Barras		
 entry	Galium		
 ref	Galiet		
 entry	Gall (Franz-Joseph)		
@@ -961,8 +926,6 @@ pb	518	0522	4531056
 pb	519	0523	4531057
 entry	Galla		
 entry	Gallae tinctoriae et Gallae Turcicae		
-orth	Gallae tinctoriae		
-orth	Gallae Turcicae		
 pb	520	0524	4531058
 entry	Gallandat (David-Henri)		
 entry	Gallas		
@@ -1113,8 +1076,6 @@ entry	Gama (J.-P.)
 entry	Gamarde (Eaux minérales de)		
 pb	618	0622	4531156
 entry	Gamases, Gamasidés		
-orth	Gamases		
-orth	Gamasidés		
 pb	619	0623	4531157
 pb	620	0624	4531158
 pb	621	0625	4531159
@@ -1122,8 +1083,6 @@ pb	622	0626	4531160
 entry	Gambarini (Alessandro)		
 pb	623	0627	4531161
 entry	Gambir ou Gambeer		
-orth	Gambir		
-orth	Gambeer		
 entry	Gambodge (pour Camboge)		
 entry	Gambodique (acide)		
 pb	624	0628	4531162
@@ -1170,7 +1129,8 @@ pb	651	0655	4531189
 pb	652	0656	4531190
 pb	653	0657	4531191
 entry	Ganglions synoviaux		
-ref	Bourses et Poignet		
+ref	Bourses		
+ref	Poignet		
 entry	Gangrène		
 pb	654	0658	4531192
 pb	655	0659	4531193
@@ -1219,10 +1179,6 @@ pb	697	0701	4531235
 pb	698	0702	4531236
 pb	699	0703	4531237
 entry	Ganja, Gaujo, Gaujica, Gunjha		
-orth	Ganja		
-orth	Gaujo		
-orth	Gaujica		
-orth	Gunjha		
 entry	Gannal (Jean-Nicolas)		
 pb	700	0704	4531238
 entry	Ganoïdes		
@@ -1234,10 +1190,6 @@ pb	705	0709	4531243
 pb	706	0710	4531244
 entry	Gant		
 entry	Gant de Notre-Dame, Gantelée, Gantelet, Gantélier		
-orth	Gant de Notre-Dame		
-orth	Gantelée		
-orth	Gantelet		
-orth	Gantélier		
 entry	Gantelet		
 pb	707	0711	4531245
 entry	Gantu-Bharangé		
@@ -1337,24 +1289,14 @@ entry	Garnot (Prosper)
 pb	751	0755	4531289
 entry	Garo		
 entry	Garosmus, Garosmum		
-orth	Garosmus		
-orth	Garosmum		
 entry	Garou, Garouette		
-orth	Garou		
-orth	Garouette		
 entry	Botanique		
 entry	Garou, Garouette. Matière médicale		
-orth	Garou		
-orth	Garouette. Matière médicale		
 pb	752	0756	4531290
 entry	Garou, Garouette. Pharmacologie		
-orth	Garou		
-orth	Garouette. Pharmacologie		
 pb	753	0757	4531291
 pb	754	0758	4531292
 entry	Garouilhe, Garouille		
-orth	Garouilhe		
-orth	Garouille		
 entry	Garris (Eau minérale de)		
 pb	755	0759	4531293
 entry	Garrod (Alfred-Henry)		
@@ -1392,8 +1334,6 @@ entry	Gastaldy (Les deux)
 pb	767	0771	4531305
 entry	Gasté (Léonard-Fulcrand)		
 entry	Gastein ou Wildbad-Gastein (Eaux minérales de)		
-orth	Gastein		
-orth	Wildbad-Gastein (Eaux minérales de)		
 pb	768	0772	4531306
 pb	769	0773	4531307
 pb	770	0774	4531308

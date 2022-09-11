@@ -15,9 +15,6 @@ pb	7	0011	4589379
 entry	Sternum. Physiologie		
 pb	8	0012	4589380
 entry	Sternum. Anomalies et difformités congénitales ou acquises		
-orth	Sternum. Anomalies		
-orth	difformités congénitales		
-orth	acquises		
 pb	9	0013	4589381
 pb	10	0014	4589382
 pb	11	0015	4589383
@@ -118,8 +115,6 @@ entry	Stiebel (Salomon-Friedrich)
 pb	88	0092	4589460
 entry	Stieck (Nicolaus-Ulrich)		
 entry	Stief ou Stieff (Johann-Ernst)		
-orth	Stief		
-orth	Stieff (Johann-Ernst)		
 entry	Stieglitz (Johann)		
 pb	89	0093	4589461
 entry	Stierling (Gysbert-Swartenjik)		
@@ -135,8 +130,6 @@ pb	95	0099	4589467
 entry	Stilbène		
 pb	96	0100	4589468
 entry	Stilbinées ou Stilbacées		
-orth	Stilbinées		
-orth	Stilbacées		
 pb	97	0101	4589469
 entry	Stille (Sven-Jonas)		
 entry	Stillé (Moreton)		
@@ -147,8 +140,6 @@ pb	100	0104	4589472
 entry	Stillingie		
 entry	Stillistéarique (Acide)		
 entry	Stimulants et Contro-stimulants		
-orth	Stimulants		
-orth	Contro-stimulants		
 pb	101	0105	4589473
 pb	102	0106	4589474
 pb	103	0107	4589475
@@ -169,8 +160,6 @@ pb	117	0121	4589489
 pb	118	0122	4589490
 pb	119	0123	4589491
 entry	Stimulisme et Contro-stimulisme		
-orth	Stimulisme		
-orth	Contro-stimulisme		
 pb	120	0124	4589492
 pb	121	0125	4589493
 pb	122	0126	4589494
@@ -220,8 +209,6 @@ entry	Stomacace
 entry	Stomacal		
 entry	Stomachique		
 entry	Stomapodes ou stomatopodes		
-orth	Stomapodes		
-orth	stomatopodes		
 pb	145	0149	4589517
 pb	146	0150	4589518
 entry	Stomatites		
@@ -309,8 +296,6 @@ entry	Storch (Les)
 pb	219	0223	4589591
 pb	220	0224	4589592
 entry	Störck ou sotrk (Auton von)		
-orth	Störck		
-orth	sotrk (Auton von)		
 pb	221	0225	4589593
 entry	Storène		
 ref	Araignée		
@@ -465,8 +450,6 @@ pb	350	0354	4589722
 entry	Strangurie		
 entry	Strass		
 entry	Straten (Willem van der) et non Straeten		
-orth	Straten (Willem van der)		
-orth	non Straeten		
 pb	351	0355	4589723
 entry	Stratico (Simone)		
 entry	Stratification		
@@ -488,8 +471,6 @@ pb	356	0360	4589728
 entry	Strepitosus Morbus		
 entry	Streubel (Carl-Wilhelm)		
 entry	Strictum et Laxum		
-orth	Strictum		
-orth	Laxum		
 entry	Stridulation		
 entry	Stridulation. Séméiologie		
 pb	357	0361	4589729
@@ -637,8 +618,6 @@ pb	453	0457	4589825
 entry	Stupéfiants		
 pb	454	0458	4589826
 entry	Stupeur, Stupidité		
-orth	Stupeur		
-orth	Stupidité		
 pb	455	0459	4589827
 pb	456	0460	4589828
 pb	457	0461	4589829
@@ -657,8 +636,6 @@ pb	469	0473	4589841
 entry	Sturioniens		
 pb	470	0474	4589842
 entry	Sturmius ou Storms (Roland)		
-orth	Sturmius		
-orth	Storms (Roland)		
 entry	Stutz (Wenzel-Aloys)		
 entry	Stycérine		
 pb	471	0475	4589843
@@ -671,7 +648,8 @@ pb	472	0476	4589844
 entry	Stylo-hyoïdien (Ligament)		
 entry	Styloïde (Apophyse)		
 ref	Crâne		
-ref	Cubitus et Radius		
+ref	Cubitus		
+ref	Radius		
 entry	Stylo-mastoïdien (Trou)		
 ref	Crâne		
 entry	Stylo-matoïdienne (Artère)		
@@ -685,9 +663,6 @@ entry	Styracine
 pb	474	0478	4589846
 entry	Styracone		
 entry	Styrax, Styracacées, Styracées		
-orth	Styrax		
-orth	Styracacées		
-orth	Styracées		
 entry	Styrax		
 entry	Styrax. Chimie		
 pb	475	0479	4589847
@@ -714,8 +689,6 @@ pb	479	0483	4589851
 entry	Subérone		
 entry	Subintrantes (Fièvres)		
 entry	Subjee ou Sidhee		
-orth	Subjee		
-orth	Sidhee		
 ref	Sidhee		
 entry	Sublimation (Pharmacie)		
 pb	480	0484	4589852
@@ -743,8 +716,6 @@ pb	495	0499	4589867
 pb	496	0500	4589868
 pb	497	0501	4589869
 entry	Formes médicamenteuses et doses		
-orth	Formes médicamenteuses		
-orth	doses		
 pb	498	0502	4589870
 pb	499	0503	4589871
 pb	500	0504	4589872
@@ -874,8 +845,6 @@ entry	Succinates
 pb	604	0608	4589976
 entry	Succinée		
 entry	Succineupione ou Eupione de succin		
-orth	Succineupione		
-orth	Eupione de succin		
 ref	Musc artificiel		
 entry	Succinique (Acide)		
 pb	605	0609	4589977
@@ -887,8 +856,6 @@ pb	608	0612	4589980
 pb	609	0613	4589981
 entry	Succistérène		
 entry	Succotrin ou Soccotrin		
-orth	Succotrin		
-orth	Soccotrin		
 pb	610	0614	4589982
 entry	Succow (Georg-Adolph)		
 entry	Succube		
@@ -968,8 +935,6 @@ pb	671	0675	4590043
 pb	672	0676	4590044
 pb	673	0677	4590045
 entry	Sudamina, Sudamen		
-orth	Sudamina		
-orth	Sudamen		
 pb	674	0678	4590046
 pb	675	0679	4590047
 pb	676	0680	4590048
@@ -1008,8 +973,6 @@ pb	704	0708	4590076
 pb	705	0709	4590077
 pb	706	0710	4590078
 entry	Suède, Norvège		
-orth	Suède		
-orth	Norvège		
 pb	707	0711	4590079
 pb	708	0712	4590080
 pb	709	0713	4590081

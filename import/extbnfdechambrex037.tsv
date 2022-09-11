@@ -25,21 +25,14 @@ pb	9	0017	4526513
 entry	Fabbroni (Les deux frères)		
 pb	10	0018	4526514
 entry	Faber, Fabre, Fabri (Les)		
-orth	Faber		
-orth	Fabre		
-orth	Fabri (Les)		
 pb	11	0019	4526515
 pb	12	0020	4526516
 entry	Fabini (Les deux)		
 pb	13	0021	4526517
 entry	Fabius (Guillaume) ou Bonnaerts		
-orth	Fabius (Guillaume)		
-orth	Bonnaerts		
 entry	Fabré-Palaprat (Bernard-Raymond)		
 pb	14	0022	4526518
 entry	Fabrice, Fabricius (Les)		
-orth	Fabrice		
-orth	Fabricius (Les)		
 pb	15	0023	4526519
 pb	16	0024	4526520
 pb	17	0025	4526521
@@ -198,14 +191,9 @@ pb	150	0158	4526654
 entry	Faguer (Les deux)		
 pb	151	0159	4526655
 entry	Fagus, Fayard		
-orth	Fagus		
-orth	Fayard		
 ref	Hêtre		
 pb	152	0160	4526656
 entry	Faham, Fahan ou Fahon		
-orth	Faham		
-orth	Fahan		
-orth	Fahon		
 entry	Botanique		
 entry	Emploi médical		
 entry	Fahlberg (Samuel)		
@@ -219,8 +207,6 @@ entry	Fahrenhorst (Alexandre)
 entry	Faille (Clément de la)		
 pb	155	0163	4526659
 entry	Faim et Soif		
-orth	Faim		
-orth	Soif		
 pb	156	0164	4526660
 pb	157	0165	4526661
 pb	158	0166	4526662
@@ -241,8 +227,6 @@ entry	Faithorn (John)
 entry	Falck (Les)		
 pb	163	0171	4526667
 entry	Falco ou Faucon (Jean)		
-orth	Falco		
-orth	Faucon (Jean)		
 pb	164	0172	4526668
 entry	Falconer (Les deux)		
 entry	Falconet (Les quatre)		
@@ -279,7 +263,8 @@ pb	186	0194	4526690
 pb	187	0195	4526691
 entry	Faltrank		
 entry	Famine		
-ref	Disette et Inanition		
+ref	Disette		
+ref	Inanition		
 entry	Famine (Fièvre de)		
 pb	188	0196	4526692
 pb	189	0197	4526693
@@ -367,8 +352,6 @@ entry	Farine (Pathologie)
 entry	Farine médicamenteuses		
 entry	Farmer (John)		
 entry	Farnese ou Farnesi (Tommaso)		
-orth	Farnese		
-orth	Farnesi (Tommaso)		
 pb	254	0262	4526758
 entry	Faro		
 ref	Bière		
@@ -379,9 +362,6 @@ pb	255	0263	4526759
 entry	Farradesche-Chaubasse (Jean-Baptiste)		
 entry	Farrago		
 entry	Farraguth ou Ferraguth, Ferragius		
-orth	Farraguth		
-orth	Ferraguth		
-orth	Ferragius		
 pb	256	0264	4526760
 entry	Farre (John-Richard)		
 pb	257	0265	4526761
@@ -401,8 +381,6 @@ pb	263	0271	4526767
 entry	Faskook		
 ref	Feskook		
 entry	Fasogh ou Fusogh		
-orth	Fasogh		
-orth	Fusogh		
 entry	Fattori (Santo)		
 entry	Fauchard (Pierre)		
 entry	Fauchier (J.-F.)		
@@ -417,8 +395,6 @@ entry	Faulcon
 ref	Falco		
 entry	Faulhaber (Albert-Frédéric)		
 entry	Faulisio (Joseph) ou Faulisius		
-orth	Faulisio (Joseph)		
-orth	Faulisius		
 entry	Faulkner (Sir Arthur Brooke)		
 entry	Faure (Jean-François)		
 pb	266	0274	4526770
@@ -429,8 +405,6 @@ pb	267	0275	4526771
 entry	Fausse-Germandrée		
 ref	Véronique		
 entry	Fausse-Orange ou Fausse-Coloquinte		
-orth	Fausse-Orange		
-orth	Fausse-Coloquinte		
 ref	Citrouille		
 entry	Fausse-Poire		
 ref	Citrouille		
@@ -440,7 +414,8 @@ entry	Fausse-Rhubarbe
 ref	Pigamon		
 entry	Fausse-Roquette		
 entry	Fausses membranes		
-ref	Néomembranes et Pseudo-membranes		
+ref	Néomembranes		
+ref	Pseudo-membranes		
 entry	Faust (Bernard-Christophe)		
 pb	268	0276	4526772
 entry	Fauteuils mécaniques		
@@ -464,18 +439,16 @@ ref	Marrube
 entry	Faux-ébénier		
 ref	Cytise		
 entry	Faux-hermodacte		
-ref	Iris et Hermodacte		
+ref	Iris		
+ref	Hermodacte		
 entry	Faux-jalap		
 ref	Jalap		
 entry	Faux-narcisse ou Narcisse-des-prés		
-orth	Faux-narcisse		
-orth	Narcisse-des-prés		
 ref	Narcisse		
 entry	Faux-nard		
-ref	Ail et Nard		
+ref	Ail		
+ref	Nard		
 entry	Faux-platane ou Faux-plane		
-orth	Faux-platane		
-orth	Faux-plane		
 ref	Érable		
 entry	Faux-safran		
 ref	Carthame		
@@ -541,8 +514,6 @@ pb	315	0323	4526819
 pb	316	0324	4526820
 entry	Fawdington (Thomas)		
 entry	Fayard ou Fau		
-orth	Fayard		
-orth	Fau		
 ref	Hêtre		
 entry	Faye		
 ref	Lafaye		
@@ -655,8 +626,6 @@ pb	409	0417	4526913
 pb	410	0418	4526914
 pb	411	0419	4526915
 entry	Féculeries, Amidonneries (Hygiène industrielle)		
-orth	Féculeries		
-orth	Amidonneries (Hygiène industrielle)		
 pb	412	0420	4526916
 pb	413	0421	4526917
 pb	414	0422	4526918
@@ -680,11 +649,7 @@ entry	Felatahs
 entry	Feldmann (Bernhard)		
 pb	423	0431	4526927
 entry	Felfal-tavil ou Felfel-tavil		
-orth	Felfal-tavil		
-orth	Felfel-tavil		
 entry	Felici ou Felice (Giuseppe M. di)		
-orth	Felici		
-orth	Felice (Giuseppe M. di)		
 entry	Felicianus (Jean Bernard)		
 entry	Féline (Monomanie)		
 ref	Lycanthropie		
@@ -693,7 +658,8 @@ pb	424	0432	4526928
 pb	425	0433	4526929
 entry	Félix-des-Pallières (Saint-) (Eau minérale de)		
 entry	Fellahs		
-ref	Afrique et Égypte		
+ref	Afrique		
+ref	Égypte		
 entry	Fellanique (Acide)		
 pb	426	0434	4526930
 entry	Fellanis		
@@ -702,8 +668,6 @@ entry	Fellatas
 ref	Foulahs		
 entry	Feller (Christian-Gotthold)		
 entry	Fellinique ou Fellique (Acide)		
-orth	Fellinique		
-orth	Fellique (Acide)		
 entry	Féloupes		
 entry	Fels (Les)		
 pb	427	0435	4526931
@@ -1045,16 +1009,8 @@ ref	Farraguth
 entry	Ferral (Joseph-M.)		
 entry	Ferrand (Jacques)		
 entry	Ferrara, Ferrari, Ferrario, Ferraro (Les)		
-orth	Ferrara		
-orth	Ferrari		
-orth	Ferrario		
-orth	Ferraro (Les)		
 pb	712	0720	4527216
 entry	Ferrara, Ferrari, Ferrario, Ferraro (les)		
-orth	Ferrara		
-orth	Ferrari		
-orth	Ferrario		
-orth	Ferraro (les)		
 pb	713	0721	4527217
 pb	714	0722	4527218
 entry	Ferraria		
@@ -1062,8 +1018,6 @@ entry	Ferrary (François)
 entry	Ferrein (Antoine)		
 pb	715	0723	4527219
 entry	Ferreira ou Ferreyra (Antonio)		
-orth	Ferreira		
-orth	Ferreyra (Antonio)		
 pb	716	0724	4527220
 entry	Ferrer (Les)		
 entry	Ferrero (Jacinthe)		
@@ -1108,7 +1062,8 @@ pb	736	0744	4527240
 pb	737	0745	4527241
 pb	738	0746	4527242
 entry	Emploi		
-ref	Asa-foetida et Sagapenum		
+ref	Asa-foetida		
+ref	Sagapenum		
 entry	Férussac (Les deux)		
 entry	Ferussac (Jean-Baptiste-Louis d'Audebard, baron de)		
 pb	739	0747	4527243
@@ -1117,8 +1072,6 @@ pb	740	0748	4527244
 entry	Fese		
 ref	Éléphantiasis des Arabes		
 entry	Feskook et Feskouk		
-orth	Feskook		
-orth	Feskouk		
 ref	Fasogh		
 entry	Fesquet (Gaspard)		
 entry	Fessier (Muscle grand)		

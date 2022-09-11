@@ -4,8 +4,6 @@ pb	[s. pag.]	0003	4539519
 pb	[s. pag.]	0004	4539520
 pb	1	0005	4539521
 entry	Baraquette ou du Beil (Eaux minérales de)		
-orth	Baraquette		
-orth	du Beil (Eaux minérales de)		
 entry	Labarthe-de-Neste (Eau minérale de)		
 pb	2	0006	4539522
 entry	Labarthe-Rivière (Eau minérale de)		
@@ -61,8 +59,6 @@ entry	Lacauchie (Adolphe euclide)
 entry	Lacaze (Louis de)		
 pb	19	0023	4539539
 entry	Lacca, Laccin		
-orth	Lacca		
-orth	Laccin		
 ref	Laque		
 entry	Laccine		
 ref	Laque		
@@ -168,8 +164,6 @@ pb	89	0093	4539609
 entry	Lactés (Vaisseaux)		
 ref	Chylifères		
 entry	Lactine ou Lactose		
-orth	Lactine		
-orth	Lactose		
 ref	Lait		
 entry	Lactique (Acide)		
 entry	Lactique (Acide). Chimie		
@@ -191,29 +185,19 @@ ref	Laitue
 entry	Lactucérin		
 ref	Lactucone		
 entry	Lactucin ou Lactucine		
-orth	Lactucin		
-orth	Lactucine		
 ref	Laitue		
 entry	Lactucique (Acide)		
 ref	Laitue		
 entry	Lactucone ou Lactucérin		
-orth	Lactucone		
-orth	Lactucérin		
 ref	Laitue		
 entry	Lacunes		
 pb	94	0098	4539614
 entry	Lac-Villers (Eau minérale de)		
 entry	Ladaniers, Labdaniers		
-orth	Ladaniers		
-orth	Labdaniers		
 entry	Labanum ou Labdanum		
-orth	Labanum		
-orth	Labdanum		
 pb	95	0099	4539615
 entry	Ladrerie		
 entry	Ladrerie. Description. Hygiène publique et police médicale		
-orth	Ladrerie. Description. Hygiène publique		
-orth	police médicale		
 pb	96	0100	4539616
 pb	97	0101	4539617
 pb	98	0102	4539618
@@ -274,8 +258,6 @@ entry	Laisseron
 ref	Laitron		
 entry	Lait		
 entry	Lait. Chimie, Hygiène publique		
-orth	Lait. Chimie		
-orth	Hygiène publique		
 pb	130	0134	4539650
 pb	131	0135	4539651
 pb	132	0136	4539652
@@ -308,17 +290,12 @@ pb	157	0161	4539677
 pb	158	0162	4539678
 pb	159	0163	4539679
 entry	Lait. Modifications du lait par les aliments et les médicaments		
-orth	Lait. Modifications du lait par les aliments		
-orth	les médicaments		
 pb	160	0164	4539680
 pb	161	0165	4539681
 pb	162	0166	4539682
 pb	163	0167	4539683
 pb	164	0168	4539684
 entry	Lait. Bromatologie, thérapeutique et toxicologie		
-orth	Lait. Bromatologie		
-orth	thérapeutique		
-orth	toxicologie		
 pb	165	0169	4539685
 pb	166	0170	4539686
 pb	167	0171	4539687
@@ -491,8 +468,6 @@ pb	302	0306	4539822
 pb	303	0307	4539823
 pb	304	0308	4539824
 entry	Lampajum, Lampujum		
-orth	Lampajum		
-orth	Lampujum		
 pb	305	0309	4539825
 entry	Lampaos		
 ref	Squine		
@@ -530,8 +505,6 @@ entry	Lanfranc
 pb	319	0323	4539839
 entry	Langage		
 entry	Langage. Origine et nature du langage		
-orth	Langage. Origine		
-orth	nature du langage		
 pb	320	0324	4539840
 pb	321	0325	4539841
 pb	322	0326	4539842
@@ -613,8 +586,6 @@ pb	376	0380	4539896
 pb	377	0381	4539897
 pb	378	0382	4539898
 entry	Langue. Vices de conformation et pathologie chirurgicale		
-orth	Langue. Vices de conformation		
-orth	pathologie chirurgicale		
 pb	379	0383	4539899
 pb	380	0384	4539900
 pb	381	0385	4539901
@@ -668,14 +639,13 @@ entry	Lanhoa
 ref	Olivier		
 entry	nouvelle (Station marine de)		
 entry	Lanquas, Lanquas-kitsjil		
-orth	Lanquas		
-orth	Lanquas-kitsjil		
 ref	Galanga		
 entry	Lansium		
 entry	Lantana		
 pb	426	0430	4539946
 entry	Lantar		
-ref	Lontar et Rondier		
+ref	Lontar		
+ref	Rondier		
 entry	Lanzoni (Joseph)		
 entry	Lapagerie		
 pb	427	0431	4539947
@@ -698,8 +668,6 @@ pb	432	0436	4539952
 pb	433	0437	4539953
 pb	434	0438	4539954
 entry	Laponie. Flore et Faune		
-orth	Laponie. Flore		
-orth	Faune		
 pb	435	0439	4539955
 pb	436	0440	4539956
 entry	Laponie. Anthropologie		
@@ -736,23 +704,20 @@ pb	456	0460	4539976
 pb	457	0461	4539977
 pb	458	0462	4539978
 entry	Pyronée et Conches (Eaux minérales de)		
-orth	Pyronée		
-orth	Conches (Eaux minérales de)		
 pb	459	0463	4539979
 entry	Laque		
 pb	460	0464	4539980
 entry	Laquedives		
 ref	Indoustan		
 entry	Revaute ou les Ribautes (Eau minérale de)		
-orth	Revaute		
-orth	les Ribautes (Eau minérale de)		
 pb	461	0465	4539981
 entry	Larin		
 pb	462	0466	4539982
 entry	Larix		
 ref	Mélèze		
 entry	Larmes		
-ref	Lacrymale (Glande) et Dacryoline		
+ref	Lacrymale (Glande)		
+ref	Dacryoline		
 entry	Larmes de Job		
 entry	Larmes de Pin		
 entry	Larmille		
@@ -770,8 +735,6 @@ pb	466	0470	4539986
 pb	467	0471	4539987
 entry	Larroque (J. Brice de)		
 entry	Larve, Larves		
-orth	Larve		
-orth	Larves		
 pb	468	0472	4539988
 pb	469	0473	4539989
 pb	470	0474	4539990
@@ -785,9 +748,6 @@ entry	Larvées (Fièvres)
 pb	477	0481	4539997
 entry	Larvée (Fièvres)		
 entry	Laryngées, Inférieure et supérieure (Artères)		
-orth	Laryngées		
-orth	Inférieure		
-orth	supérieure (Artères)		
 ref	Thyroïdienne supérieure (Artère)		
 entry	Laryngés (Nerfs)		
 pb	478	0482	4539998
@@ -798,8 +758,6 @@ pb	482	0486	4540002
 entry	Laryngisme		
 ref	Larynx		
 entry	Laryngoscope, Laryngoscopie		
-orth	Laryngoscope		
-orth	Laryngoscopie		
 pb	483	0487	4540003
 pb	484	0488	4540004
 pb	485	0489	4540005
@@ -843,8 +801,6 @@ pb	522	0526	4540042
 pb	523	0527	4540043
 entry	Larynx		
 entry	Larynx. Anatomie et Physiologie		
-orth	Larynx. Anatomie		
-orth	Physiologie		
 pb	524	0528	4540044
 pb	525	0529	4540045
 pb	526	0530	4540046
@@ -942,8 +898,6 @@ entry	Larynx. Pathologie médicale. Maladies inflammatoires. Épiglottite
 pb	609	0613	4540129
 pb	610	0614	4540130
 entry	Larynx. Pathologie médicale. Maladies inflammatoires Périchondrite et Chondrite du larynx		
-orth	Larynx. Pathologie médicale. Maladies inflammatoires Périchondrite		
-orth	Chondrite du larynx		
 pb	611	0615	4540131
 entry	Larynx. Pathologie médicale. Maladies inflammatoires. Laryngite oedémateuse		
 pb	612	0616	4540132
@@ -977,16 +931,12 @@ pb	637	0641	4540157
 pb	638	0642	4540158
 pb	639	0643	4540159
 entry	Larynx. Pathologie médicale. Maladies inflammatoires. Laryngites symptomatiques ou secondaires		
-orth	Larynx. Pathologie médicale. Maladies inflammatoires. Laryngites symptomatiques		
-orth	secondaires		
 pb	640	0644	4540160
 pb	641	0645	4540161
 pb	642	0646	4540162
 pb	643	0647	4540163
 pb	644	0648	4540164
 entry	Larynx. Pathologie médicale. Maladies inflammatoires. Laryngite ulcéreuse des tuberculeux ou phthisie laryngée		
-orth	Larynx. Pathologie médicale. Maladies inflammatoires. Laryngite ulcéreuse des tuberculeux		
-orth	phthisie laryngée		
 pb	645	0649	4540165
 pb	646	0650	4540166
 pb	647	0651	4540167
@@ -1018,9 +968,6 @@ pb	672	0676	4540192
 pb	673	0677	4540193
 pb	674	0678	4540194
 entry	Larynx. Pathologie médicale. Maladies inflammatoires. Altérations partielles du larynx, suivant les régions et les tissus		
-orth	Larynx. Pathologie médicale. Maladies inflammatoires. Altérations partielles du larynx		
-orth	suivant les régions		
-orth	les tissus		
 pb	675	0679	4540195
 pb	676	0680	4540196
 pb	677	0681	4540197
@@ -1034,7 +981,8 @@ pb	682	0686	4540202
 pb	683	0687	4540203
 pb	684	0688	4540204
 entry	Larynx. Pathologie médicale. Maladies inflammatoires. Névroses du larynx. Spasme de la glotte		
-ref	Aphonie et Toux nerveuses		
+ref	Aphonie		
+ref	Toux nerveuses		
 pb	685	0689	4540205
 pb	686	0690	4540206
 pb	687	0691	4540207
@@ -1050,8 +998,6 @@ pb	695	0699	4540215
 pb	696	0700	4540216
 entry	Pathologie chirurgicale		
 entry	Larynx. Pathologie chirurgicale. Corps étrangers du larynx et des voies aériennes		
-orth	Larynx. Pathologie chirurgicale. Corps étrangers du larynx		
-orth	des voies aériennes		
 pb	697	0701	4540217
 pb	698	0702	4540218
 pb	699	0703	4540219
@@ -1130,8 +1076,6 @@ pb	767	0771	4540287
 pb	768	0772	4540288
 pb	769	0773	4540289
 entry	Tumeurs Osseuses et cartilagineuses du Larynx		
-orth	Tumeurs Osseuses		
-orth	cartilagineuses du Larynx		
 entry	Larynx. Pathologie chirurgicale. Cancer du Larynx		
 pb	770	0774	4540290
 pb	771	0775	4540291

@@ -406,8 +406,6 @@ entry	Ovule
 pb	380	0384	4573628
 entry	Owen (George)		
 entry	Ox ou Oxy		
-orth	Ox		
-orth	Oxy		
 entry	Oxacétique (Acide)		
 entry	Oxacétylurée		
 entry	Oxacides		
@@ -440,8 +438,6 @@ pb	394	0398	4573642
 pb	395	0399	4573643
 pb	396	0400	4573644
 entry	Oxalique (Acide). Physiologie et Physiologie pathologique		
-orth	Oxalique (Acide). Physiologie		
-orth	Physiologie pathologique		
 pb	397	0401	4573645
 pb	398	0402	4573646
 entry	Oxalique (Acide). Toxicologie		
@@ -568,12 +564,8 @@ entry	Oxybenzoylurée
 entry	Oxybenzuramide		
 ref	Oxybenzuramique (Acide)		
 entry	Oxybenzuramique ou Uramidobenzoique (Acide)		
-orth	Oxybenzuramique		
-orth	Uramidobenzoique (Acide)		
 pb	464	0468	4573712
 entry	Oxybromokakodyle ou Oxybromure de kakodyle		
-orth	Oxybromokakodyle		
-orth	Oxybromure de kakodyle		
 entry	Oxybutyriques (Acides)		
 entry	Oxycamphorique (Acide)		
 pb	465	0469	4573713
@@ -592,21 +584,13 @@ entry	Anthropologie
 entry	Oxycéphaliens		
 pb	467	0471	4573715
 entry	Oxychloracétyle ou Éther chloré		
-orth	Oxychloracétyle		
-orth	Éther chloré		
 entry	Oxychlorique (Acide)		
 pb	468	0472	4573716
 entry	Oxychlorocarbonique (Acide)		
 entry	Oxychloroformyle ou Oxyde de méthyle térachloré		
-orth	Oxychloroformyle		
-orth	Oxyde de méthyle térachloré		
 pb	469	0473	4573717
 entry	Oxychlorokakodyle ou Oxychlorure de kakodyle		
-orth	Oxychlorokakodyle		
-orth	Oxychlorure de kakodyle		
 entry	Oxychlorokakodylique (Acide) ou Perchlorure de cacodyle basique (Bunsen)		
-orth	Oxychlorokakodylique (Acide)		
-orth	Perchlorure de cacodyle basique (Bunsen)		
 entry	Oxychloronaphtoquinone		
 ref	Oxynaphtoquinone		
 entry	Oxychloronaphtose		
@@ -628,8 +612,6 @@ entry	Oxycuminamique (Acide)
 entry	Oxycuminique (Acide)		
 entry	Oxycyanobenzoile		
 entry	Oxycyanure ou Oxydocyanure de mercure		
-orth	Oxycyanure		
-orth	Oxydocyanure de mercure		
 entry	Oxycyclopine		
 pb	474	0478	4573722
 entry	Oxydes		
@@ -699,7 +681,8 @@ pb	526	0530	4573774
 entry	Oxyguanine		
 entry	Oxygummique (Acide)		
 entry	Oxyhémoglobine		
-ref	Sang et Hémoglobine		
+ref	Sang		
+ref	Hémoglobine		
 entry	Oxyhippurique (Acide)		
 entry	Oxyhypogéique (Acide)		
 entry	Oxyigasurine		
@@ -725,20 +708,14 @@ entry	Oxyméthylène-disulfureux (Acide)
 entry	Oxyméthylphénylformique (Acide)		
 ref	Oxytoluique (Acide)		
 entry	Oxymorphine ou Pseudomorphine		
-orth	Oxymorphine		
-orth	Pseudomorphine		
 pb	532	0536	4573780
 entry	Oxymuconique (Acide)		
 entry	Oxynaphtalique ou Naphtalique (Acide)		
-orth	Oxynaphtalique		
-orth	Naphtalique (Acide)		
 ref	Oxynaphtoquinone		
 entry	Oxynaphtoïque (Acide)		
 entry	Oxynaphtol		
 pb	533	0537	4573781
 entry	Oxynaphtoquinone ou Acide Naphtalique		
-orth	Oxynaphtoquinone		
-orth	Acide Naphtalique		
 pb	534	0538	4573782
 entry	Oxynaphtoquinosulfureux (Acide)		
 entry	Oxynaphtylamine		
@@ -775,16 +752,12 @@ pb	540	0544	4573788
 entry	Oxysulfure de phényle		
 entry	Oxysylvique (Acide)		
 entry	Oxytéréphtalamique ou Amidotéréphtalique (Acide)		
-orth	Oxytéréphtalamique		
-orth	Amidotéréphtalique (Acide)		
 entry	Oxytétraldine		
 entry	Oxytéréphtalique (Acide)		
 entry	Oxytolidène		
 entry	Oxytolique (Acide)		
 pb	541	0545	4573789
 entry	Oxytoluiques ou Oxytoluyliques (Acides)		
-orth	Oxytoluiques		
-orth	Oxytoluyliques (Acides)		
 entry	Oxytrialdine		
 pb	542	0546	4573790
 entry	Oxytrichiens		
@@ -858,8 +831,6 @@ pb	596	0600	4573844
 pb	597	0601	4573845
 pb	598	0602	4573846
 entry	Ozone. Hygiène et pathologie		
-orth	Ozone. Hygiène		
-orth	pathologie		
 pb	599	0603	4573847
 pb	600	0604	4573848
 pb	601	0605	4573849
@@ -894,8 +865,6 @@ entry	Orpin
 entry	Applications médicales		
 entry	Erratum		
 entry	Obstétrique et Opthalmologie		
-orth	Obstétrique		
-orth	Opthalmologie		
 pb	617	0621	4573865
 entry	Paak		
 entry	Paan		
@@ -906,13 +875,9 @@ pb	619	0623	4573867
 entry	Paca		
 entry	Pacab		
 entry	Pacae, Pacaes		
-orth	Pacae		
-orth	Pacaes		
 entry	Pacal		
 pb	620	0624	4573868
 entry	Pacane, Pacage		
-orth	Pacane		
-orth	Pacage		
 entry	Pacanier		
 entry	Pacao-bendo		
 entry	Pacchioni (Antoine)		
@@ -961,9 +926,6 @@ entry	Paco Ceroba
 entry	Pacona		
 pb	646	0650	4573894
 entry	Paco Pacoba, Pacobuque, Pacquonere		
-orth	Paco Pacoba		
-orth	Pacobuque		
-orth	Pacquonere		
 entry	Pacoud (Denis-François)		
 entry	Pacouri-Rana		
 entry	Pacouria		
@@ -987,8 +949,6 @@ entry	Paederia (L.)
 pb	649	0653	4573897
 entry	Paediomètre		
 entry	Paenoe, Paenu		
-orth	Paenoe		
-orth	Paenu		
 entry	Paeonia		
 ref	Pivoines		
 entry	Paganica (Nicolo Di)		
@@ -999,8 +959,6 @@ entry	Pagenstecher (Alexander)
 pb	651	0655	4573899
 entry	Pagès (Les)		
 entry	Pagimirioba, Paiomirioba		
-orth	Pagimirioba		
-orth	Paiomirioba		
 entry	Pagoneton		
 entry	Pagre		
 pb	652	0656	4573900
@@ -1065,8 +1023,6 @@ entry	Pain de singe
 entry	Pain des Indes		
 entry	Pain d'Oiseau		
 entry	Pain-pain ou Pin-pin		
-orth	Pain-pain		
-orth	Pin-pin		
 entry	Paina Schulli		
 entry	Pains médicamenteux		
 entry	Paiparoca		
@@ -1177,8 +1133,6 @@ pb	758	0762	4574006
 entry	Palatins (Vaisseaux)		
 pb	759	0763	4574007
 entry	Palato-glosse ou Glosso-staphylin (Muscle)		
-orth	Palato-glosse		
-orth	Glosso-staphylin (Muscle)		
 entry	Palato-pharyngien (Muscle)		
 pb	760	0764	4574008
 entry	Palato-staphylin (Muscle)		

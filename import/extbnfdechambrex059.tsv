@@ -300,13 +300,15 @@ pb	210	0214	4544410
 pb	211	0215	4544411
 entry	Mesnard (Jacques)		
 entry	Mésocaecum		
-ref	Coecum et Péritoine		
+ref	Coecum		
+ref	Péritoine		
 entry	Mésocéphale		
 ref	Pont de Varole		
 entry	Mésocéphalique (Artère)		
 ref	Basilaire (Artère)		
 entry	Mésocolon		
-ref	Côlon et Péritoine		
+ref	Côlon		
+ref	Péritoine		
 entry	Mésologie		
 pb	212	0216	4544412
 pb	213	0217	4544413
@@ -366,7 +368,8 @@ pb	266	0270	4544466
 entry	Mésopotamie		
 ref	Syrie		
 entry	Mésorectum		
-ref	Péritoine et Rectum		
+ref	Péritoine		
+ref	Rectum		
 entry	Mésoroptre		
 ref	Accommodation		
 pb	267	0271	4544467
@@ -383,7 +386,8 @@ ref	Naghas
 entry	Mesué (Les)		
 pb	269	0273	4544469
 entry	Mesures sanitaires		
-ref	Sanitaires (mesures) et Quarantaines		
+ref	Sanitaires (mesures)		
+ref	Quarantaines		
 entry	Mesyrilus		
 ref	Néflier		
 pb	270	0274	4544470
@@ -477,7 +481,8 @@ pb	300	0304	4544500
 entry	Métatarse		
 ref	Pied		
 entry	Métatarsiennes (Articulations)		
-ref	Pied et Orteils		
+ref	Pied		
+ref	Orteils		
 entry	Métatarsiens (Vaisseaux)		
 ref	Pied		
 entry	Métatartrique (Acide)		
@@ -525,16 +530,12 @@ pb	333	0337	4544533
 pb	334	0338	4544534
 pb	335	0339	4544535
 entry	Météorologie. Météorologie ou aérologie mystique		
-orth	Météorologie. Météorologie		
-orth	aérologie mystique		
 pb	336	0340	4544536
 pb	337	0341	4544537
 pb	338	0342	4544538
 pb	339	0343	4544539
 entry	Meteorus coccineus		
 entry	Métherie (Jean-Claude de la), ou plutôt Delamétherie		
-orth	Métherie (Jean-Claude de la)		
-orth	plutôt Delamétherie		
 pb	340	0344	4544540
 pb	341	0345	4544541
 entry	Méthionique (Acide)		
@@ -706,11 +707,10 @@ pb	464	0468	4544664
 entry	Meurtre		
 ref	Blessures		
 ref	Homicide		
-ref	Monomanie et Suicide		
+ref	Monomanie		
+ref	Suicide		
 entry	Mexique		
 entry	Mexique. Géographie et démographie		
-orth	Mexique. Géographie		
-orth	démographie		
 pb	465	0469	4544665
 pb	466	0470	4544666
 pb	467	0471	4544667
@@ -765,8 +765,6 @@ entry	Meza (Christian-Jacob-Théophile de)
 entry	Meza (Salomon-Théophile)		
 entry	Mezéréine		
 entry	Mezereon ou Mezereum		
-orth	Mezereon		
-orth	Mezereum		
 ref	Daphné		
 entry	Mézières (Eau minérale de)		
 entry	Mezler (Franz-Xav.)		
@@ -818,8 +816,6 @@ entry	Michaelis (Les)
 pb	552	0556	4544752
 entry	Michel de Trétaigne (Le baron Jean-Baptiste)		
 entry	Michel Lévy ou Lévy (Michel)		
-orth	Michel Lévy		
-orth	Lévy (Michel)		
 pb	553	0557	4544753
 pb	554	0558	4544754
 entry	Michelia		
@@ -827,8 +823,6 @@ entry	Michelotti (Pietro-Antonio)
 pb	555	0559	4544755
 entry	Michon (Louis-Marie)		
 entry	Mic-Macs ou Mickmacks		
-orth	Mic-Macs		
-orth	Mickmacks		
 ref	Amérique		
 entry	Micocoulier		
 pb	556	0560	4544756
@@ -837,13 +831,12 @@ entry	Miconia
 pb	557	0561	4544757
 entry	Microcéphalie		
 entry	Microcosme et Macrocosme		
-orth	Microcosme		
-orth	Macrocosme		
 pb	558	0562	4544758
 pb	559	0563	4544759
 pb	560	0564	4544760
 entry	Micrographie		
-ref	Microscope et Microscope		
+ref	Microscope		
+ref	Microscope		
 entry	Micromètre		
 ref	Microscope		
 ref	Microscopie		
@@ -982,7 +975,8 @@ pb	673	0677	4544873
 pb	674	0678	4544874
 pb	675	0679	4544875
 entry	Miliaires (Anévrysmes)		
-ref	Capillaires (pathologie) et Cerveau (pathologie)		
+ref	Capillaires (pathologie)		
+ref	Cerveau (pathologie)		
 entry	Milieux		
 ref	Mésologie		
 entry	Militaire (Profession - Hygiène)		

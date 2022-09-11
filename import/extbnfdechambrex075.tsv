@@ -284,8 +284,6 @@ entry	Périssodactyles
 entry	Péristaltiques (Mouvements)		
 ref	Intestin		
 entry	Péristaphylins externe et interne		
-orth	Péristaphylins externe		
-orth	interne		
 entry	Peristeron		
 entry	Péristerona		
 pb	235	0239	4576615
@@ -516,7 +514,8 @@ pb	442	0446	4576822
 pb	443	0447	4576823
 pb	444	0448	4576824
 entry	Pérityphlite		
-ref	Coecum et Péritonite		
+ref	Coecum		
+ref	Péritonite		
 entry	Péri-utérin (Phlegmon)		
 ref	Utérus		
 entry	Perkinisme		
@@ -596,8 +595,6 @@ ref	Tibio-péronier (tronc)
 entry	Peronospora		
 pb	485	0489	4576865
 entry	Pérou et Bolivie		
-orth	Pérou		
-orth	Bolivie		
 pb	486	0490	4576866
 pb	487	0491	4576867
 pb	488	0492	4576868
@@ -641,7 +638,8 @@ pb	517	0521	4576897
 entry	Perrottet (G.-Samuel)		
 entry	Perruchés (Eau minérale de)		
 entry	Perruques		
-ref	Cheveux et Postiches		
+ref	Cheveux		
+ref	Postiches		
 entry	Per se (Précipité)		
 entry	Perse		
 entry	Perse. Géographie médicale		
@@ -754,7 +752,8 @@ entry	Peru
 entry	Perusse		
 entry	Peruviana		
 entry	Péruviens (Les)		
-ref	Amérique et Pérou		
+ref	Amérique		
+ref	Pérou		
 entry	Péruvine		
 entry	Pervenche		
 entry	Pervenche. Botanique		
@@ -963,8 +962,6 @@ pb	769	0773	4577149
 pb	770	0774	4577150
 entry	Pétrole (Botanique)		
 entry	Pétron ou Pétrot		
-orth	Pétron		
-orth	Pétrot		
 entry	Pétroncianum		
 entry	Petronio		
 entry	Petronius (Alessandro-Trajano)		
@@ -988,9 +985,11 @@ entry	Peucédanine
 pb	776	0780	4577156
 entry	Peucer (Gaspard)		
 entry	Peuls		
-ref	Foulahs et Sénégambie		
+ref	Foulahs		
+ref	Sénégambie		
 entry	Peulvans		
-ref	Dolmen et Celtes		
+ref	Dolmen		
+ref	Celtes		
 entry	Peumus (Mol.)		
 entry	Peumus (Mol.). Botanique		
 pb	777	0781	4577157
@@ -1051,9 +1050,11 @@ entry	Phaéton
 entry	Phagédénisme		
 pb	799	0803	4577179
 entry	Phalanges		
-ref	Doigts et Orteils		
+ref	Doigts		
+ref	Orteils		
 entry	Phalangiens		
-ref	Arachnides et Faucheurs		
+ref	Arachnides		
+ref	Faucheurs		
 entry	Phalangium		
 pb	800	0804	4577180
 entry	Phalangose		

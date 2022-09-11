@@ -25,8 +25,6 @@ pb	16	0020	4506356
 pb	17	0021	4506357
 pb	18	0022	4506358
 entry	Bronchopneumonie, ou plutôt Bronchiopneumonie		
-orth	Bronchopneumonie		
-orth	plutôt Bronchiopneumonie		
 pb	19	0023	4506359
 pb	20	0024	4506360
 pb	21	0025	4506361
@@ -205,7 +203,8 @@ pb	172	0176	4506512
 entry	Brownien (Mouvement)		
 pb	173	0177	4506513
 entry	Brownisme		
-ref	Brown et Médecine (Histoire de la)		
+ref	Brown		
+ref	Médecine (Histoire de la)		
 entry	Brownring (William)		
 pb	174	0178	4506514
 entry	Broyeurs de couleurs		
@@ -215,8 +214,6 @@ entry	Bruand (Pierre-François)
 entry	Brucea Mill		
 pb	175	0179	4506515
 entry	Bruceus ou Brucaeus (Henri)		
-orth	Bruceus		
-orth	Brucaeus (Henri)		
 pb	176	0180	4506516
 entry	Brückenau (Eaux minérales, boues et cure de petit-lait de)		
 pb	177	0181	4506517
@@ -284,8 +281,6 @@ ref	Brunnfels
 entry	Brunelle		
 ref	Prunelle		
 entry	Brunisseurs, Brunisseuses (Hygiène professionnelle)		
-orth	Brunisseurs		
-orth	Brunisseuses (Hygiène professionnelle)		
 pb	223	0227	4506563
 pb	224	0228	4506564
 entry	Brunn (Jean-Jacques de)		
@@ -298,27 +293,17 @@ entry	Bruno (Jacobus-Pancratius)
 pb	227	0231	4506567
 entry	Brunsfelsie		
 entry	Brunschwig ou Brauschweig (Hieronymus)		
-orth	Brunschwig		
-orth	Brauschweig (Hieronymus)		
 pb	228	0232	4506568
 entry	Brunswick (Nouveau)		
 ref	Britanniques (Possessions)		
 entry	Brunswigia		
 entry	Brunsvigia		
 entry	Bryone ou Bryoine		
-orth	Bryone		
-orth	Bryoine		
 entry	Bryone ou Bryoine. Botanique		
-orth	Bryone		
-orth	Bryoine. Botanique		
 pb	229	0233	4506569
 pb	230	0234	4506570
 entry	Bryone ou Bryoine		
-orth	Bryone		
-orth	Bryoine		
 entry	Bryone ou Bryoine. Emploi médical		
-orth	Bryone		
-orth	Bryoine. Emploi médical		
 pb	231	0235	4506571
 pb	232	0236	4506572
 pb	233	0237	4506573
@@ -392,24 +377,13 @@ pb	279	0283	4506619
 entry	Buc'Hoz (Pierre-Joseph)		
 pb	280	0284	4506620
 entry	Buchu, Bucco, Bocco		
-orth	Buchu		
-orth	Bucco		
-orth	Bocco		
 entry	Buchu, Bucco, Bocco. Botanique		
-orth	Buchu		
-orth	Bucco		
-orth	Bocco. Botanique		
 pb	281	0285	4506621
 entry	Buchu, Bucco, Bocco. Emploi médical		
-orth	Buchu		
-orth	Bucco		
-orth	Bocco. Emploi médical		
 pb	282	0286	4506622
 entry	Bucquet (Jean-Baptiste-Michel)		
 pb	283	0287	4506623
 entry	Buda ou Bude (Eaux minérales de)		
-orth	Buda		
-orth	Bude (Eaux minérales de)		
 ref	Ofen		
 entry	Bué (Eau minérale de)		
 pb	284	0288	4506624
@@ -427,16 +401,10 @@ pb	290	0294	4506630
 entry	Bugle		
 pb	291	0295	4506631
 entry	Buglosse ou Buglose		
-orth	Buglosse		
-orth	Buglose		
 entry	Buglosse ou Buglose. Botanique		
-orth	Buglosse		
-orth	Buglose. Botanique		
 pb	292	0296	4506632
 entry	Pharmacologie		
 entry	Buglosse ou Buglose. Thérapeutique		
-orth	Buglosse		
-orth	Buglose. Thérapeutique		
 pb	293	0297	4506633
 entry	Bugrane		
 entry	Bugrane. Botanique		
@@ -514,8 +482,6 @@ pb	320	0324	4506660
 pb	321	0325	4506661
 pb	322	0326	4506662
 entry	Burrhus ou mieux Borro (Guis.-Fr.)		
-orth	Burrhus		
-orth	mieux Borro (Guis.-Fr.)		
 entry	Bursera (L.)		
 pb	323	0327	4506663
 entry	Burséracées		
@@ -556,8 +522,6 @@ pb	339	0343	4506679
 pb	340	0344	4506680
 entry	Butylamine		
 entry	Butyle et ses composés		
-orth	Butyle		
-orth	ses composés		
 pb	341	0345	4506681
 entry	Butylique (Alcool)		
 entry	Butylique (Éther)		
@@ -581,8 +545,6 @@ ref	Buis
 entry	Byssinées		
 pb	348	0352	4506688
 entry	Byttnère, Byttnériacées		
-orth	Byttnère		
-orth	Byttnériacées		
 pb	349	0353	4506689
 entry	Caa (Herbe)		
 entry	Cabale		
@@ -602,9 +564,6 @@ ref	Asaret
 entry	Cabasse		
 ref	Cacaoier		
 entry	Cabeliau, Cabliau ou Cabillaud		
-orth	Cabeliau		
-orth	Cabliau		
-orth	Cabillaud		
 entry	Cabial		
 entry	Cabotz		
 ref	Brayera		
@@ -622,8 +581,6 @@ pb	362	0366	4506702
 pb	363	0367	4506703
 pb	364	0368	4506704
 entry	Cacaoier ou Cacaoyer		
-orth	Cacaoier		
-orth	Cacaoyer		
 pb	365	0369	4506705
 pb	366	0370	4506706
 entry	Cachalot		
@@ -687,8 +644,6 @@ pb	408	0412	4506748
 entry	Cacogenèses		
 entry	Cacothéline		
 entry	Cactacées ou Cactées		
-orth	Cactacées		
-orth	Cactées		
 pb	409	0413	4506749
 entry	Cactos		
 entry	Cactus		
@@ -895,8 +850,6 @@ pb	556	0560	4506896
 pb	557	0561	4506897
 pb	558	0562	4506898
 entry	Cahagne, ou Cahaigne (Jacques)		
-orth	Cahagne		
-orth	Cahaigne (Jacques)		
 entry	Cailcedra		
 ref	Khaya		
 entry	Cailcedra		
@@ -982,8 +935,6 @@ entry	Calabar (Fève de). Botanique
 pb	591	0595	4506931
 pb	592	0596	4506932
 entry	Calabar (Fève de). Physiologie et emploi médical		
-orth	Calabar (Fève de). Physiologie		
-orth	emploi médical		
 pb	593	0597	4506933
 pb	594	0598	4506934
 pb	595	0599	4506935
@@ -998,9 +949,6 @@ entry	Calafatti (Georges)
 entry	Calagéri		
 entry	Calagirah		
 entry	Calaguala, Calaguela, Calahuala		
-orth	Calaguala		
-orth	Calaguela		
-orth	Calahuala		
 pb	599	0603	4506939
 pb	600	0604	4506940
 entry	Calais (Station marine)		
@@ -1011,8 +959,6 @@ pb	602	0606	4506942
 entry	Calamine		
 entry	Calamus		
 entry	Calamus aromaticus ou Calamus verus		
-orth	Calamus aromaticus		
-orth	Calamus verus		
 pb	603	0607	4506943
 entry	Calat		
 entry	Calcanéum		
@@ -1053,12 +999,15 @@ pb	635	0639	4506975
 pb	636	0640	4506976
 pb	637	0641	4506977
 entry	Calcanéo-astragalienne (Articulation)		
-ref	Calcanéum et Pied		
+ref	Calcanéum		
+ref	Pied		
 pb	638	0642	4506978
 entry	Calcanéo-cuboidienne (Articulation)		
-ref	Calcanéum et Pied		
+ref	Calcanéum		
+ref	Pied		
 entry	Calcanéo-scaphoidienne (Articulation)		
-ref	Calcanéum et Pied		
+ref	Calcanéum		
+ref	Pied		
 entry	Calcéolaire		
 entry	Calcination		
 pb	639	0643	4506979
@@ -1096,8 +1045,6 @@ ref	Caldas
 entry	Caldiero		
 entry	Caldwall (Richard)		
 entry	Calebasse, Calebassier		
-orth	Calebasse		
-orth	Calebassier		
 pb	657	0661	4506997
 entry	Calédonie (Nouvelle-)		
 pb	658	0662	4506998
@@ -1162,8 +1109,6 @@ ref	Quinquina
 entry	Calla		
 pb	709	0713	4507049
 entry	Callalu, Calalou		
-orth	Callalu		
-orth	Calalou		
 ref	Brèdes		
 entry	Calliard de la Ducquerie (Jean-Baptiste)		
 entry	Calleirion		
@@ -1176,7 +1121,8 @@ entry	Callichrome
 entry	Calligone		
 pb	711	0715	4507051
 entry	Calliphore		
-ref	Lucilie et Mouche		
+ref	Lucilie		
+ref	Mouche		
 entry	Callisen (Les)		
 pb	712	0716	4507052
 entry	Callisthénie		
@@ -1308,8 +1254,6 @@ pb	774	0778	4507114
 entry	Camellia		
 ref	Thé		
 entry	Camepitis, Camepitys		
-orth	Camepitis		
-orth	Camepitys		
 ref	Germandrée		
 entry	Cameraria		
 entry	Camerarius (Les)		
@@ -1321,12 +1265,8 @@ pb	779	0783	4507119
 entry	Cameri		
 ref	Aleurites		
 entry	Camerisier, Chamecerisier		
-orth	Camerisier		
-orth	Chamecerisier		
 ref	Chèvrefeuille		
 entry	Cametti, Cammetti		
-orth	Cametti		
-orth	Cammetti		
 pb	780	0784	4507120
 entry	Camisole		
 pb	781	0785	4507121

@@ -573,6 +573,20 @@ class Medict
                 ) {
 
                 }
+                // "16 Agaricus campestris. Le champignon champêtre", "17 Agaricus déliciosus. Champignon délicieux",  "18 Agaricus cantharellus. La cantharelle"
+                else if (startsWith($cote, 'pharma_019128')) {
+                    $s = preg_replace('@^[ 0-9\.]+@ui', '', $line[1]);
+                    $orths = preg_split('@\. +@ui', $s);
+                    if (count($orths) == 2) {
+                        $out[] = ['orth', $orths[0], 'lat'];
+                        $out[] = ['orth', $orths[1], 'fra'];
+                    } else {
+                        foreach ($orths as $orth) {
+                            $out[] = ['orth', $orth];
+                        }
+                    }
+                }
+
                 else {
                     $orths = preg_split(
                         '/,? +(ou|et|&) +|,[\-—– ]+/ui', 

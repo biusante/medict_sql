@@ -29,7 +29,7 @@ pb	sn	0025	7730639
 entry	Table par actions médicamenteuses et indications thérapeutiques des spécialités figurant dans cet ouvrage		
 pb	pb	0026	7730640
 pb	25	0027	7730641
-entry	Appareil circulatoire. T. G. Antispasmodiques artériels		
+entry	I. - Appareil circulatoire. T. G. Antispasmodiques artériels		
 entry	Diurétiques		
 pb	26	0028	7730642
 pb	27	0029	7730643
@@ -45,7 +45,7 @@ pb	31	0033	7730647
 entry	Vaso-dilatateurs artériels hypotenseurs		
 pb	32	0034	7730648
 pb	33	0035	7730649
-entry	Appareil circulatoire. T. S. Anémies - Chlorose - Leucémie - Lymphadénie		
+entry	I. - Appareil circulatoire. T. S. Anémies - Chlorose - Leucémie - Lymphadénie		
 pb	34	0036	7730650
 entry	Anémies - Chlorose - Leucémie - Lymphadénie		
 pb	35	0037	7730651
@@ -259,7 +259,7 @@ pb	147	0149	7730763
 pb	148	0150	7730764
 pb	149	0151	7730765
 pb	150	0152	7730766
-entry	Chirurgie thérapeutique externe. T. G. Anesthésiques		
+entry	V. - Chirurgie thérapeutique externe. T. G. Anesthésiques		
 entry	Antiseptiques externes comprimés		
 entry	Antiseptiques externes liquides		
 pb	151	0153	7730767
@@ -271,7 +271,7 @@ entry	Bains
 entry	Cataplasmes - Révulsifs		
 pb	153	0155	7730769
 entry	Cicatrisants		
-entry	Chirurgie thérapeutique externe. T. S. Adénites		
+entry	V. - Chirurgie thérapeutique externe. T. S. Adénites		
 pb	154	0156	7730770
 entry	Adénites		
 pb	155	0157	7730771
@@ -375,7 +375,7 @@ pb	207	0209	7730823
 pb	208	0210	7730824
 entry	Urticaire		
 pb	209	0211	7730825
-entry	Maladies infectieuses. T. G. Antipyrétiques		
+entry	X. - Maladies infectieuses. T. G. Antipyrétiques		
 pb	210	0212	7730826
 entry	Antiseptiques internes		
 pb	211	0213	7730827
@@ -385,7 +385,7 @@ entry	Chimiothérapie - Colloïdes
 pb	212	0214	7730828
 entry	Sérums - Vaccins		
 pb	213	0215	7730829
-entry	Maladies infectieuses. T. S. Colibacillose		
+entry	X. - Maladies infectieuses. T. S. Colibacillose		
 pb	214	0216	7730830
 entry	Diphtérie		
 entry	Érysipèle		
@@ -1279,7 +1279,7 @@ pb	556	0558	7731172
 entry	Catéményl		
 entry	Cavéform		
 pb	557	0559	7731173
-entry	B. K.		
+entry	C. B. K.		
 entry	Cellargos		
 pb	558	0560	7731174
 entry	Cellona		
@@ -4708,7 +4708,7 @@ pb	1864	1866	7732480
 entry	Vaso-Rhinol		
 entry	Vaso-Rhinol adrénaliné		
 pb	1865	1867	7732481
-entry	A		
+entry	V. A		
 ref	technique du Docteur Vaudremer		
 pb	1866	1868	7732482
 entry	Véganine		
@@ -5036,7 +5036,7 @@ entry	Adrian et Compagnie
 entry	Aéïne		
 entry	Aérocid		
 entry	Aethone		
-entry	Aguettant		
+entry	N. Aguettant		
 entry	Aiguë d'Or		
 entry	Pierre Alexandre		
 entry	Alexime		
@@ -5046,7 +5046,7 @@ pb	2096	2098	7732712
 entry	Amibiasine		
 entry	Amicros		
 entry	Amido		
-entry	Ammann		
+entry	H. Ammann		
 entry	Ampho-Vaccins (Ronchèse)		
 entry	Ana		
 entry	Androvar		
@@ -5066,28 +5066,29 @@ entry	Société générale d'application thérapeutique « Théraplix »
 entry	Argyrophédrine		
 entry	Armanite		
 entry	Armoril		
-entry	Arquevaux		
+entry	L. Arquevaux		
 entry	Arviset		
 entry	Aseptor		
-entry	Astier		
+entry	P. Astier		
 entry	Docteur E. Aubert		
 entry	Aubriot		
 entry	Aubry		
 entry	Marcel Audibert		
 entry	Audras		
 entry	Augier		
-entry	V.E.		
+entry	A.V.E.		
 pb	2098	2100	7732714
 entry	Badel		
-entry	Baetz		
+entry	G. Baetz		
 entry	Bailly et Compagnie		
 entry	Docteur Baissade		
 entry	Bardet		
 entry	Barthélemy		
 entry	Basuyaux		
 entry	Baude		
-entry	C. L.		
-entry	E. A.		
+entry	P. Baude		
+entry	B. C. L.		
+entry	B. E. A.		
 entry	Beaufour		
 entry	Beaugourdon		
 entry	Beaulieu		
@@ -5096,7 +5097,7 @@ entry	Bebia
 pb	2099	2101	7732715
 entry	Spécifique Bejean		
 entry	Bellair		
-entry	Belières		
+entry	L. Belières		
 entry	MM. Benderitter et Compagnie		
 entry	Docteur Bengué		
 entry	Bensimon		
@@ -5104,8 +5105,8 @@ entry	Béral
 entry	Berger		
 entry	Bergevin		
 entry	Bernard Garcin		
-entry	Bernhard		
-entry	Berthon		
+entry	G. Bernhard		
+entry	G. Berthon		
 entry	Beytout		
 entry	Bière des Nurses		
 entry	Biochimie médicale (Ch. Desgrez)		
@@ -5118,12 +5119,12 @@ entry	Bionéol
 entry	Biopausine		
 entry	Biothérapie		
 entry	Bismucarbone		
-entry	Blanchard		
+entry	J. Blanchard		
 entry	Blanchot		
 entry	Bloch		
 entry	Idon Bloch		
 entry	Blouin		
-entry	Boissel		
+entry	H. Boissel		
 entry	Boize et Alliot		
 entry	Bomel		
 entry	Bonetti		
@@ -5131,13 +5132,13 @@ entry	Bordelais
 entry	Borne		
 entry	Bornet		
 entry	Bottu		
-entry	Bouchara		
+entry	E.-Bouchara		
 entry	Boudin		
 entry	Bouillet		
 pb	2101	2103	7732717
 entry	Boules Quiès		
-entry	Boulet		
-entry	Boulle		
+entry	G. Boulet		
+entry	E. Boulle		
 entry	Bourillot		
 entry	Bouteille		
 entry	Boutroux		
@@ -5148,14 +5149,14 @@ entry	Bouvot
 entry	Boyer		
 entry	Bracquemond et Compagnie		
 entry	Ch. Brésil		
-entry	Bressier		
+entry	J. Bressier		
 entry	Brichard et fils		
 entry	Pierre Brisson		
 pb	2102	2104	7732718
 entry	Bromo-Garnal		
 entry	Bruel		
 entry	Bruneau et Compagnie		
-entry	Brunot		
+entry	A. Brunot		
 entry	Brunschwik		
 entry	Buriat		
 entry	Byla		
@@ -5169,7 +5170,7 @@ entry	Camuset
 entry	Canol		
 pb	2103	2105	7732719
 entry	Cantin		
-entry	J. Capin		
+entry	M.-J. Capin		
 entry	Carbou		
 entry	Caresmel		
 entry	Carlier		
@@ -5178,7 +5179,7 @@ entry	Biologiques Carrion
 entry	Carrion-Lagnel		
 entry	Carron		
 entry	Carteret		
-entry	Cassedanne		
+entry	R. Cassedanne		
 entry	Castanol		
 entry	Castel		
 entry	Catillon		
@@ -5187,15 +5188,15 @@ entry	Laboratoire Central
 pb	2104	2106	7732720
 entry	Laboratoire Central de la Bastille		
 entry	Laboratoire Central de Paris		
-entry	Cerbelaud		
+entry	R. Cerbelaud		
 entry	Cesbron		
 entry	Yves Chabrol		
 entry	Chaix		
 entry	Chalas		
-entry	Chambon		
+entry	P. Chambon		
 entry	Chanteaud		
 entry	Chantereau (Produits Innothéra)		
-entry	Chapellier		
+entry	M. Chapellier		
 entry	Chapès		
 entry	Chapotot		
 entry	Charbons Fraudin		
@@ -5207,7 +5208,7 @@ entry	Chatelut
 entry	Chaumel		
 pb	2105	2107	7732721
 entry	Alfred Chauvin		
-entry	Chauvin		
+entry	L. Chauvin		
 entry	Chavialle		
 entry	Chenu		
 entry	Chevillon		
@@ -5223,13 +5224,13 @@ entry	Churchill
 entry	Ciba		
 pb	2106	2108	7732722
 entry	Cimatryl		
-entry	I.P.		
+entry	C.I.P.		
 entry	Claverie		
 entry	Clin		
 entry	Cluzel		
 entry	Cobratoxine		
 entry	Cognet (Armingeat et Compagnie)		
-entry	Coirier		
+entry	A. Coirier		
 entry	Colas		
 entry	Colizyl		
 entry	Collas et Boudault		
@@ -5237,7 +5238,7 @@ entry	Colonial
 entry	Columeau		
 entry	Comte		
 entry	Condou et Lefort		
-entry	Cons		
+entry	C. Cons		
 entry	Coquelu		
 pb	2107	2109	7732723
 entry	Corbière		
@@ -5246,7 +5247,8 @@ entry	Cortial
 entry	Cospha		
 entry	Couderc		
 entry	Coudert		
-entry	Coussinet		
+entry	R. Coudert		
+entry	G. Coussinet		
 entry	Couturieux		
 entry	Créoformine		
 entry	Creuzé		
@@ -5259,14 +5261,14 @@ entry	Curatine Brunet
 entry	Cynabiline		
 entry	Daguin		
 entry	Dalayeun		
-entry	Dalin		
+entry	C. Dalin		
 entry	Dalin (R. Boitias et Compagnie)		
 entry	Dalloz et Compagnie		
 entry	Daney		
 entry	Daniel Brunet		
 entry	Danjou		
 entry	Dannec'h (MM. Brun et Martineau)		
-entry	J. Dardelet		
+entry	M. J. Dardelet		
 entry	Darrasse		
 entry	Daupez		
 pb	2109	2111	7732725
@@ -5291,7 +5293,7 @@ entry	Delimar
 entry	Delta		
 entry	Demasles		
 entry	Demoulin		
-entry	Denard		
+entry	F. Denard		
 entry	Denis		
 entry	Denisot		
 entry	Docteur Densmore		
@@ -5308,9 +5310,9 @@ pb	2111	2113	7732727
 entry	Donagol		
 entry	Dor (M. Dorantowicz)		
 entry	Dorantowicz		
-entry	Dordin		
+entry	P. Dordin		
 entry	Dosurine		
-entry	Doucet		
+entry	J. Doucet		
 entry	Douetteau frères		
 entry	Dreyer-Dufer		
 entry	Drouet et Plet		
@@ -5328,11 +5330,11 @@ pb	2112	2114	7732728
 entry	Dulcis, Docteur Ferry		
 entry	Dumesnil		
 entry	Dumesny		
-entry	L. Durand		
+entry	M.-L. Durand		
 entry	Docteur Durand		
 entry	Duret et Rémy		
-entry	Duriez		
-entry	Duteil		
+entry	E. Duriez		
+entry	A. Duteil		
 entry	Eaux minérales de Decize		
 entry	Echard-Gillier		
 entry	Echeman		
@@ -5364,23 +5366,23 @@ entry	Fabre
 entry	Fagard		
 entry	Fagex		
 entry	Falvy		
-entry	Famel		
+entry	P. Famel		
 entry	Fanta		
 entry	Fantine Adoue		
 entry	Spécialités Farma		
 entry	Faure		
 entry	Faure et Dussuel		
 entry	Faure et Lagente		
-entry	Faye		
+entry	F. Faye		
 entry	Feignoux		
 entry	Félix		
 entry	Fercocq		
-entry	Fermé		
+entry	G. Fermé		
 entry	Lafaye		
 pb	2115	2117	7732731
 entry	Docteur Ferré		
 entry	Docteur Ferry		
-entry	Ferré		
+entry	E. Ferré		
 entry	Docteur Fialip		
 entry	Fides (M. Vouzellaud)		
 entry	Fisch et Compagnie		
@@ -5393,11 +5395,11 @@ entry	Fortin
 entry	Fosset		
 entry	Fouard		
 pb	2116	2118	7732732
-entry	Foucher		
+entry	H. Foucher		
 entry	Fouchère		
 entry	Foulon et Compagnie		
 entry	Fournie		
-entry	Fournier et Compagnie		
+entry	A. Fournier et Compagnie		
 entry	Fournier frères		
 entry	Fourton		
 entry	Fraisse Père et Fils		
@@ -5413,7 +5415,7 @@ ref	A
 entry	Gaizard		
 entry	Galbrun		
 entry	Docteur Galimard		
-entry	Gallier		
+entry	R. Gallier		
 entry	Gallina		
 entry	Gallo		
 entry	Gambéol (J. Gautier)		
@@ -5429,14 +5431,14 @@ entry	Géo Gignoux S. A.
 entry	Gerda		
 entry	Ch. Gervais		
 entry	Gilbert		
-entry	Girard		
+entry	A. Girard		
 pb	2118	2120	7732734
 entry	Givaudan		
 entry	Glefina, Scott et fils		
 entry	Gloxines		
 entry	Glyco M		
 entry	Gmet		
-entry	Godfrin		
+entry	P. Godfrin		
 entry	Jammes de Golbery		
 entry	Gomenol		
 entry	Gonnon		
@@ -5454,8 +5456,8 @@ entry	Gros
 entry	Grysa		
 entry	André Guerbet et Compagnie		
 entry	Guéret		
-entry	Guérin		
-entry	Guilbert		
+entry	P. Guérin		
+entry	F. Guilbert		
 entry	André Guillaumin		
 entry	Guillaumin et Gérard		
 entry	Guimelinde		
@@ -5469,10 +5471,10 @@ entry	Hépatomagnésion
 entry	Heudebert		
 entry	Hinglais		
 entry	Hocquette		
-entry	Hoffmann, La Roche et Compagnie		
+entry	F. Hoffmann, La Roche et Compagnie		
 entry	Hormos		
 entry	Houdé		
-entry	Huerre et Compagnie		
+entry	J. Huerre et Compagnie		
 pb	2121	2123	7732737
 entry	Compagnie de L'Hydroxydase		
 entry	Hygiène et thérapeutique appliquées		
@@ -5500,7 +5502,7 @@ entry	Juranol
 entry	Kalmobrol		
 entry	Kaobrol		
 entry	Kaviase		
-entry	Kerfyser		
+entry	L. Kerfyser		
 entry	Kervan		
 entry	Képhédryl		
 entry	Kraus		
@@ -5528,9 +5530,9 @@ entry	Lambiotte frères
 entry	Lancosme		
 entry	Landrin et Compagnie		
 entry	Lang et Compagnie		
-entry	Laroze		
+entry	J. Laroze		
 entry	Laryngologique		
-entry	Latour		
+entry	F. Latour		
 entry	Docteur Laurent-Gérard		
 entry	Lauriat		
 entry	Ch.-Lavergne		
@@ -5542,7 +5544,7 @@ entry	Blond
 entry	Leboime		
 entry	Lebrun		
 pb	2125	2127	7732741
-entry	Leclerc		
+entry	T. Leclerc		
 entry	Leconte		
 entry	Lecoq et Ferrand		
 entry	Lees		
@@ -5559,12 +5561,12 @@ pb	2126	2128	7732742
 entry	Docteur Leprince		
 entry	Lersam		
 entry	Lescène		
-entry	Lesourd		
+entry	G. Lesourd		
 entry	Lesure		
 entry	Docteur Le Tanneur		
 entry	Lettry		
 entry	Leurquin		
-entry	E.V.A.		
+entry	L.E.V.A.		
 entry	Levure Mycéta		
 entry	Licardy		
 entry	Lices		
@@ -5579,8 +5581,8 @@ entry	Marcel Logeais
 entry	Longuet		
 entry	Lormeau		
 entry	Lorrain de produits synthétiques purs		
-entry	Lorthioir		
-entry	Louveau		
+entry	J. Lorthioir		
+entry	A. Louveau		
 entry	Lucinia		
 entry	Lumière (Produits chimiques spéciaux « Brevets Lumière »)		
 entry	Lutsia		
@@ -5604,7 +5606,7 @@ entry	Docteur Martinet
 entry	Martinie		
 entry	Marubor		
 pb	2129	2131	7732745
-entry	L. Mathivat		
+entry	R.-L. Mathivat		
 entry	Masson		
 entry	Mauchant		
 entry	Mayaud		
@@ -5612,7 +5614,7 @@ entry	Mayoly Spindler
 entry	Médécine expérimentale		
 entry	Mercier		
 entry	Merlet		
-entry	Messis		
+entry	J. Messis		
 entry	Métacuprol		
 entry	Métadier		
 entry	Métère		
@@ -5627,7 +5629,7 @@ entry	Microbiologie
 entry	Microlyse		
 entry	Mictasol		
 entry	Midy		
-entry	Millet		
+entry	E. Millet		
 entry	Millet et Guillaumin		
 entry	Millot		
 entry	Miluc (M. Ragoucy)		
@@ -5637,7 +5639,7 @@ entry	Moncour
 entry	Monin		
 pb	2131	2133	7732747
 entry	Montagu		
-entry	Morand		
+entry	P. Morand		
 entry	Moreau		
 entry	Morellet		
 entry	Moser et Compagnie		
@@ -5649,7 +5651,7 @@ entry	Mousnier-Delerme
 entry	Docteur Moustier		
 entry	Muxagol		
 entry	Myoral		
-entry	Nadaud		
+entry	P. Nadaud		
 entry	Docteur Narodetzki		
 entry	Nasopon et du Paniode		
 entry	Nativelle		
@@ -5661,20 +5663,20 @@ entry	Néorexine, E. Chauvin
 entry	Nésal		
 entry	Nestlé		
 entry	Neurotensyl		
-entry	Noé		
+entry	H. Noé		
 entry	Noelline		
-entry	Nogues		
+entry	H. Nogues		
 entry	Nollet		
 entry	Normogastryl		
 entry	Notre-Dame-des-Champs		
 entry	Novalis		
 entry	Oberlin		
-entry	C.P.		
+entry	O.C.P.		
 entry	Odilia		
 pb	2133	2135	7732749
 entry	Odinot		
 entry	Oliphédrol		
-entry	Olive		
+entry	J. Olive		
 entry	Produits Ollivier		
 entry	Oliviéro		
 entry	Ophidios		
@@ -5691,7 +5693,7 @@ entry	Pampryl
 pb	2134	2136	7732750
 entry	Pangermine		
 entry	Paret		
-entry	Paris		
+entry	A. Paris		
 entry	Parolagar		
 entry	Produits Paterson (G. et M. Armingeat)		
 entry	Pathologie générale		
@@ -5700,14 +5702,14 @@ entry	Pellissier
 entry	Pelviformine		
 entry	Pépin et Leboucq		
 entry	Perichon		
-entry	Perignon		
+entry	H. Perignon		
 entry	Peroxydes médicinaux		
 entry	Perquinol		
 entry	Perrier		
 entry	Perrin		
 entry	Perrin et Bruno		
 entry	Perroud		
-entry	Petit		
+entry	E. Petit		
 entry	Phagolysine		
 pb	2135	2137	7732751
 entry	Pharmacie anglaise des Champs-Elysées		
@@ -5733,7 +5735,7 @@ entry	Plagnol
 entry	Planche		
 entry	Docteur Plantier		
 entry	Plasmocalcium		
-entry	Plé		
+entry	J. Plé		
 entry	Pointet et Girard		
 entry	Pompanon		
 entry	Porcher		
@@ -5747,7 +5749,7 @@ pb	2137	2139	7732753
 entry	Produits du maïs		
 entry	Progil		
 entry	progrès scientifique		
-entry	Prothière		
+entry	L. Prothière		
 entry	Georges Prunier et Compagnie		
 entry	Pulmodynol		
 entry	Purgos		
@@ -5763,7 +5765,7 @@ entry	Raimbaldi
 pb	2138	2140	7732754
 entry	Raimoa		
 entry	Ranque et Senez		
-entry	Raquet		
+entry	D. Raquet		
 entry	Reaubourg		
 entry	Reboul		
 entry	Redeuil		
@@ -5788,9 +5790,9 @@ entry	Richomme
 entry	Ringeade		
 entry	Rissa		
 entry	Rive		
-entry	Rivier		
-entry	L.D.		
-entry	Robert (J. Boudier, succ.)		
+entry	H. Rivier		
+entry	R.L.D.		
+entry	J. Robert (J. Boudier, succ.)		
 entry	Robert		
 entry	Robert et Carrière		
 entry	Robin		
@@ -5801,7 +5803,7 @@ entry	Rochereau
 entry	Rogé Cavaillès		
 entry	Henry Rogier		
 entry	Albert Rolland		
-entry	A. Rolland		
+entry	F. A. Rolland		
 entry	Pierre Rolland		
 entry	Romon		
 entry	Roques		
@@ -5809,19 +5811,20 @@ entry	Rosa
 entry	Rousseau		
 entry	Roussel		
 entry	Docteur Roussel		
-entry	Roussel		
+entry	R. Roussel		
 entry	Routier		
-entry	A. Roux (M. A. R.)		
+entry	M.-A. Roux (M. A. R.)		
 entry	Roux		
 pb	2141	2143	7732757
+entry	A. Roy		
 entry	Roy		
 entry	Biol. Appl. G. Roze		
-entry	Ruin		
+entry	G. Ruin		
 entry	Sabatier		
 entry	Saint-Michel		
 entry	Salantale		
 entry	Salavert		
-entry	Salles		
+entry	A. Salles		
 entry	Salmon		
 entry	Salvandra		
 entry	Salyfrêne		
@@ -5845,7 +5848,7 @@ entry	Seguin
 entry	Séguin		
 entry	Séphyda		
 entry	Serindat		
-entry	M. Serre		
+entry	J.-M. Serre		
 entry	Servier		
 entry	Sevenet		
 entry	Sévigné		
@@ -5865,17 +5868,17 @@ pb	2144	2146	7732760
 entry	Spes Guiraud		
 entry	Stelvia		
 entry	Sténé		
-entry	Stouls		
+entry	H. Stouls		
 entry	Substantia		
 entry	Substantia S. A.		
 entry	Sulfo-Thiorine		
 entry	Docteur Talon		
 entry	Tamarine		
-entry	Tavernier		
+entry	P. Tavernier		
 entry	Teyssèdre		
 entry	Thaïdelmo		
 entry	Thé d'oranger (J. Nègre)		
-entry	Thépénier		
+entry	A. Thépénier		
 entry	thérapeutique		
 entry	thérapeutique expérimentale médico-pharmaceutique		
 pb	2145	2147	7732761
@@ -5885,9 +5888,9 @@ entry	Thévenot
 entry	Thiers		
 entry	Thiriet et Compagnie		
 entry	Thirode		
-entry	Thomas		
+entry	L. Thomas		
 entry	Thoral		
-entry	Tinard		
+entry	G. Tinard		
 entry	Docteur G. Tissot		
 entry	Tophol		
 entry	Toraude		
@@ -5915,16 +5918,16 @@ entry	Van Lier
 entry	Varilaxine		
 pb	2147	2149	7732763
 entry	Védé		
-entry	Vellay		
+entry	F. Vellay		
 entry	Fabrique vendéenne de produits pharmaceutiques		
 entry	Venot		
 entry	Ch. Vergelot		
 entry	Opothérapique E. Vergelot		
 entry	Docteur Vermersch		
 entry	Verne		
-entry	Vial		
+entry	H. Vial		
 entry	Vicario		
-entry	Vigier et Compagnie		
+entry	F. Vigier et Compagnie		
 entry	Vincent		
 entry	Labo-Vita		
 entry	Viophan		
@@ -5936,7 +5939,7 @@ entry	Produits Wander
 entry	Wander		
 entry	Warin		
 entry	Weber		
-entry	Welcker et Compagnie		
+entry	A. Welcker et Compagnie		
 entry	Yaourtine (L.-J. Mounier)		
 entry	Yvrard		
 entry	Docteur Zizine		

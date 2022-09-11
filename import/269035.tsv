@@ -759,7 +759,7 @@ entry	Azoturie
 entry	Azygos		
 entry	Azyme		
 pb	124	0142	4827576
-entry	a.		
+entry	B. a.		
 entry	Babeurre		
 pb	125	0143	4827577
 entry	Babinski (Signe de)		
@@ -962,7 +962,7 @@ pb	159	0177	4827611
 entry	Bleu de Prusse		
 entry	Bleue (Maladie)		
 entry	Bleuet		
-entry	m.		
+entry	B.-m.		
 entry	Bock		
 entry	Boeuf		
 entry	Bois exotiques (Dermatite par les)		
@@ -1119,7 +1119,7 @@ entry	Bussang (vosges)
 entry	Busserole		
 entry	Butyrique (Acide)		
 entry	Butyromètre		
-entry	v.		
+entry	B. v.		
 pb	182	0202	4827636
 entry	Cabinets d'aisances		
 pb	183	0203	4827637
@@ -2959,6 +2959,7 @@ entry	Extrait
 entry	Extra-systole		
 entry	Exutoire		
 pb	477	0520	4827954
+entry	F.		
 entry	Faam (ou Faham ou thé de Bourbon)		
 entry	Fabulation		
 entry	Face		
@@ -3207,7 +3208,7 @@ entry	Frottis
 pb	527	0570	4828004
 entry	Frottoir		
 entry	Fruits		
-entry	s. a.		
+entry	F. s. a.		
 entry	Fuchsine (Chlorhydrate de rosaniline)		
 entry	Fucus crispus (Carragahen)		
 entry	Fugue		
@@ -4835,6 +4836,7 @@ entry	Myxoedème
 pb	782	0835	4828269
 entry	Myxome		
 pb	783	0836	4828270
+entry	N°		
 entry	Naboth		
 entry	Nacriers		
 entry	Naevus		
@@ -5296,8 +5298,8 @@ entry	Pachydermie
 entry	Pachydermique (Cachexie)		
 entry	Pachyméningite		
 entry	Pachyvaginalite		
-entry	ae ou p. e		
-orth	ae		
+entry	P. ae ou p. e		
+orth	P. ae		
 orth	p. e		
 entry	Paget (Maladie osseuse de)		
 pb	896	0959	4828393
@@ -6354,7 +6356,8 @@ entry	Rupture musculaire
 entry	Rusma		
 entry	Rythme		
 pb	1079	1148	4828582
-entry	A. ou s. a.		
+entry	S. A. ou s. a.		
+orth	S. A		
 orth	s. a		
 entry	Sabine		
 entry	Sable (Bains de)		

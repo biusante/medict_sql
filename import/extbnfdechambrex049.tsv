@@ -3,7 +3,7 @@ pb	[s. pag.]	0002	4536146
 pb	[s. pag.]	0003	4536147
 pb	[s. pag.]	0004	4536148
 pb	1	0005	4536149
-entry	Hématocèle vaginale
+entry	Hématocèle vaginale		
 pb	2	0006	4536150
 pb	3	0007	4536151
 pb	4	0008	4536152
@@ -31,37 +31,37 @@ pb	25	0029	4536173
 pb	26	0030	4536174
 pb	27	0031	4536175
 pb	28	0032	4536176
-entry	Hématochlorine
-entry	Hématochylurie
-ref	Hématurie endémique
+entry	Hématochlorine		
+entry	Hématochylurie		
+ref	Hématurie endémique		
 pb	29	0033	4536177
-entry	Hématocristalline
-ref	Hémoglobine
-entry	Hématocyanine
-ref	Hémacyanine
-entry	Hématode (Fongus)
-ref	Fongus
-entry	Hématoïdine
-entry	Hématoïne
-entry	Hémato-lutéine ou Hémo-lutéine
-orth	Hémato-lutéine
-orth	Hémo-lutéine
-entry	Hématome
+entry	Hématocristalline		
+ref	Hémoglobine		
+entry	Hématocyanine		
+ref	Hémacyanine		
+entry	Hématode (Fongus)		
+ref	Fongus		
+entry	Hématoïdine		
+entry	Hématoïne		
+entry	Hémato-lutéine ou Hémo-lutéine		
+orth	Hémato-lutéine		
+orth	Hémo-lutéine		
+entry	Hématome		
 pb	30	0034	4536178
-entry	Hématomètre
-ref	Hémodynamomètre
-entry	Hématomyélie
-entry	Hématopote
+entry	Hématomètre		
+ref	Hémodynamomètre		
+entry	Hématomyélie		
+entry	Hématopote		
 pb	31	0035	4536179
 pb	32	0036	4536180
 pb	33	0037	4536181
-entry	Hématoporphyrine
-ref	Hémoglobine
-entry	Hématorachis.
-entry	Hématoscopie, Hématoscope, Hémato-spectroscopes
-orth	Hématoscopie
-orth	Hématoscope
-orth	Hémato-spectroscopes
+entry	Hématoporphyrine		
+ref	Hémoglobine		
+entry	Hématorachis.		
+entry	Hématoscopie, Hématoscope, Hémato-spectroscopes		
+orth	Hématoscopie		
+orth	Hématoscope		
+orth	Hémato-spectroscopes		
 pb	34	0038	4536182
 pb	35	0039	4536183
 pb	36	0040	4536184
@@ -70,15 +70,15 @@ pb	38	0042	4536186
 pb	39	0043	4536187
 pb	40	0044	4536188
 pb	41	0045	4536189
-entry	Hématosine
-entry	Hématoxyline
-entry	Hématoxylon
-entry	Botanique
-ref	Champêche
-entry	Hématoxylon. Emploi médical
+entry	Hématosine		
+entry	Hématoxyline		
+entry	Hématoxylon		
+entry	Botanique		
+ref	Champêche		
+entry	Hématoxylon. Emploi médical		
 pb	42	0046	4536190
 pb	43	0047	4536191
-entry	Hématozoaires
+entry	Hématozoaires		
 pb	44	0048	4536192
 pb	45	0049	4536193
 pb	46	0050	4536194
@@ -109,7 +109,7 @@ pb	70	0074	4536218
 pb	71	0075	4536219
 pb	72	0076	4536220
 pb	73	0077	4536221
-entry	Hématurie
+entry	Hématurie		
 pb	74	0078	4536222
 pb	75	0079	4536223
 pb	76	0080	4536224
@@ -138,7 +138,7 @@ pb	98	0102	4536246
 pb	99	0103	4536247
 pb	100	0104	4536248
 pb	101	0105	4536249
-entry	Hématurie endémique des pays chauds
+entry	Hématurie endémique des pays chauds		
 pb	102	0106	4536250
 pb	103	0107	4536251
 pb	104	0108	4536252
@@ -183,9 +183,9 @@ pb	142	0146	4536290
 pb	143	0147	4536291
 pb	144	0148	4536292
 pb	145	0149	4536293
-entry	Hémenterie
-ref	Hirudinées
-entry	Héméralopie
+entry	Hémenterie		
+ref	Hirudinées		
+entry	Héméralopie		
 pb	146	0150	4536294
 pb	147	0151	4536295
 pb	148	0152	4536296
@@ -218,13 +218,13 @@ pb	174	0178	4536322
 pb	175	0179	4536323
 pb	176	0180	4536324
 pb	177	0181	4536325
-entry	Heméris
-entry	Hémérocalle
-entry	Héméros
-ref	Sureau
-entry	Hémérosichys
-entry	Hémerotes
-entry	Hémianesthésie
+entry	Heméris		
+entry	Hémérocalle		
+entry	Héméros		
+ref	Sureau		
+entry	Hémérosichys		
+entry	Hémerotes		
+entry	Hémianesthésie		
 pb	178	0182	4536326
 pb	179	0183	4536327
 pb	180	0184	4536328
@@ -235,8 +235,8 @@ pb	184	0188	4536332
 pb	185	0189	4536333
 pb	186	0190	4536334
 pb	187	0191	4536335
-entry	Hémiacéphales
-entry	Hémichorée
+entry	Hémiacéphales		
+entry	Hémichorée		
 pb	188	0192	4536336
 pb	189	0193	4536337
 pb	190	0194	4536338
@@ -244,27 +244,27 @@ pb	191	0195	4536339
 pb	192	0196	4536340
 pb	193	0197	4536341
 pb	194	0198	4536342
-entry	Hémicrânie
-ref	Migraine
-entry	Hémidactyle
+entry	Hémicrânie		
+ref	Migraine		
+entry	Hémidactyle		
 pb	195	0199	4536343
-entry	Hémiancéphales
-entry	Hémimèles
-entry	Hémimellique (Acide)
-entry	Hémine
-entry	Hémiopie ou Hémianopsie
-orth	Hémiopie
-orth	Hémianopsie
+entry	Hémiancéphales		
+entry	Hémimèles		
+entry	Hémimellique (Acide)		
+entry	Hémine		
+entry	Hémiopie ou Hémianopsie		
+orth	Hémiopie		
+orth	Hémianopsie		
 pb	196	0200	4536344
 pb	197	0201	4536345
 pb	198	0202	4536346
 pb	199	0203	4536347
-entry	Hémipages
-entry	Hémiphracte
+entry	Hémipages		
+entry	Hémiphracte		
 pb	200	0204	4536348
-entry	Hémipinique (Acide)
-entry	Hémiplégie en général
-entry	Hémiplégie spasmodique infantile
+entry	Hémipinique (Acide)		
+entry	Hémiplégie en général		
+entry	Hémiplégie spasmodique infantile		
 pb	201	0205	4536349
 pb	202	0206	4536350
 pb	203	0207	4536351
@@ -302,7 +302,7 @@ pb	234	0238	4536382
 pb	235	0239	4536383
 pb	236	0240	4536384
 pb	237	0241	4536385
-entry	Hémiptères
+entry	Hémiptères		
 pb	238	0242	4536386
 pb	239	0243	4536387
 pb	240	0244	4536388
@@ -313,22 +313,22 @@ pb	244	0248	4536392
 pb	245	0249	4536393
 pb	246	0250	4536394
 pb	247	0251	4536395
-entry	Hémistome
-ref	Trématodes
-entry	Hémitéries
+entry	Hémistome		
+ref	Trématodes		
+entry	Hémitéries		
 pb	248	0252	4536396
-entry	Hémitritée (Fièvre)
-entry	Hemming (William-Douglas)
-entry	Hémochromogène
-ref	Hémoglobine
-entry	Hémocyanine
-entry	Hémodromographe
-ref	Circulation
-entry	Hémodromomètre
-ref	Circulation
-entry	Hémodynamomètre
-ref	Circulation
-entry	Hémoglobine
+entry	Hémitritée (Fièvre)		
+entry	Hemming (William-Douglas)		
+entry	Hémochromogène		
+ref	Hémoglobine		
+entry	Hémocyanine		
+entry	Hémodromographe		
+ref	Circulation		
+entry	Hémodromomètre		
+ref	Circulation		
+entry	Hémodynamomètre		
+ref	Circulation		
+entry	Hémoglobine		
 pb	249	0253	4536397
 pb	250	0254	4536398
 pb	251	0255	4536399
@@ -354,9 +354,9 @@ pb	270	0274	4536418
 pb	271	0275	4536419
 pb	272	0276	4536420
 pb	273	0277	4536421
-entry	Hémoglobuline
-ref	Hémoglobine
-entry	Hémoglobinurie (Hématinurie. Méthémoglobinurie)
+entry	Hémoglobuline		
+ref	Hémoglobine		
+entry	Hémoglobinurie (Hématinurie. Méthémoglobinurie)		
 pb	274	0278	4536422
 pb	275	0279	4536423
 pb	276	0280	4536424
@@ -375,10 +375,10 @@ pb	288	0292	4536436
 pb	289	0293	4536437
 pb	290	0294	4536438
 pb	291	0295	4536439
-entry	Hémomanomètre
-entry	Hémomètre
-ref	Hémomanomètre
-entry	Hémophilie
+entry	Hémomanomètre		
+entry	Hémomètre		
+ref	Hémomanomètre		
+entry	Hémophilie		
 pb	292	0296	4536440
 pb	293	0297	4536441
 pb	294	0298	4536442
@@ -392,9 +392,9 @@ pb	301	0305	4536449
 pb	302	0306	4536450
 pb	303	0307	4536451
 pb	304	0308	4536452
-entry	Hémopis
-ref	Hirudinées
-entry	Hémoptysie
+entry	Hémopis		
+ref	Hirudinées		
+entry	Hémoptysie		
 pb	305	0309	4536453
 pb	306	0310	4536454
 pb	307	0311	4536455
@@ -426,7 +426,7 @@ pb	332	0336	4536480
 pb	333	0337	4536481
 pb	334	0338	4536482
 pb	335	0339	4536483
-entry	Hémorrhagie
+entry	Hémorrhagie		
 pb	336	0340	4536484
 pb	337	0341	4536485
 pb	338	0342	4536486
@@ -567,15 +567,15 @@ pb	472	0476	4536620
 pb	473	0477	4536621
 pb	474	0478	4536622
 pb	475	0479	4536623
-entry	Hémorrhoïdal (Nerf)
-ref	Sacré (Plexus)
-entry	Hémorrhoïdal (Plexus)
-ref	Sympathique (Grand) et Hémorrhoïdales
-entry	Hémorrhoïdales (Artères et Veines)
+entry	Hémorrhoïdal (Nerf)		
+ref	Sacré (Plexus)		
+entry	Hémorrhoïdal (Plexus)		
+ref	Sympathique (Grand) et Hémorrhoïdales		
+entry	Hémorrhoïdales (Artères et Veines)		
 pb	476	0480	4536624
 pb	477	0481	4536625
 pb	478	0482	4536626
-entry	Hémorrhoïdes
+entry	Hémorrhoïdes		
 pb	479	0483	4536627
 pb	480	0484	4536628
 pb	481	0485	4536629
@@ -606,13 +606,13 @@ pb	505	0509	4536653
 pb	506	0510	4536654
 pb	507	0511	4536655
 pb	508	0512	4536656
-entry	Hémospasie
+entry	Hémospasie		
 pb	509	0513	4536657
 pb	510	0514	4536658
 pb	511	0515	4536659
 pb	512	0516	4536660
 pb	513	0517	4536661
-entry	Hémostase
+entry	Hémostase		
 pb	514	0518	4536662
 pb	515	0519	4536663
 pb	516	0520	4536664
@@ -627,53 +627,53 @@ pb	524	0528	4536672
 pb	525	0529	4536673
 pb	526	0530	4536674
 pb	527	0531	4536675
-entry	Hémotachomètre
-ref	Circulation
-entry	Hempel (Adolph-Friedr.-Heinr.)
+entry	Hémotachomètre		
+ref	Circulation		
+entry	Hempel (Adolph-Friedr.-Heinr.)		
 pb	528	0532	4536676
-entry	Henckel ou Henkel (Joachim-Friedrich)
-orth	Henckel
-orth	Henkel (Joachim-Friedrich)
-entry	Hendricksz (Pieter)
-entry	Hendy (James)
-entry	Henke (Adolphe-Christ.-Heinr.)
+entry	Henckel ou Henkel (Joachim-Friedrich)		
+orth	Henckel		
+orth	Henkel (Joachim-Friedrich)		
+entry	Hendricksz (Pieter)		
+entry	Hendy (James)		
+entry	Henke (Adolphe-Christ.-Heinr.)		
 pb	52	0533	4536677
-entry	Henkel
-ref	Henckel
-entry	Henle (Friedr.-Gust.-Jakob)
-entry	Henné
+entry	Henkel		
+ref	Henckel		
+entry	Henle (Friedr.-Gust.-Jakob)		
+entry	Henné		
 pb	530	0534	4536678
-entry	Hennebane
-ref	Jusquiame
-entry	Hennebon (Station marine)
-entry	Hennen (John)
-entry	Henninger (Les deux)
-entry	Hennings (Wilhelm)
+entry	Hennebane		
+ref	Jusquiame		
+entry	Hennebon (Station marine)		
+entry	Hennen (John)		
+entry	Henninger (Les deux)		
+entry	Hennings (Wilhelm)		
 pb	531	0535	4536679
-entry	Henri de Mondeville
-ref	Hermondaville
-entry	Henriques (Jorge-Henrique)
-entry	Henry (Les)
-entry	Henschel (Les deux)
+entry	Henri de Mondeville		
+ref	Hermondaville		
+entry	Henriques (Jorge-Henrique)		
+entry	Henry (Les)		
+entry	Henschel (Les deux)		
 pb	532	0536	4536680
-entry	Hensler (Les)
-entry	Hépatalgie
-ref	Foie
-entry	Hépatique
-entry	Hépatique. Botanique
+entry	Hensler (Les)		
+entry	Hépatalgie		
+ref	Foie		
+entry	Hépatique		
+entry	Hépatique. Botanique		
 pb	533	0537	4536681
-entry	Hépatique (Artère)
-ref	Coeliaque
-entry	Hépatique (Canal)
-ref	Biliaires (Voies)
-entry	Hépatique (Plexus)
-ref	Sympathique
-entry	Hépatiques (Veines sus-)
-ref	Foie
-entry	Hépatiques
-entry	Hépatiques. Botanique
+entry	Hépatique (Artère)		
+ref	Coeliaque		
+entry	Hépatique (Canal)		
+ref	Biliaires (Voies)		
+entry	Hépatique (Plexus)		
+ref	Sympathique		
+entry	Hépatiques (Veines sus-)		
+ref	Foie		
+entry	Hépatiques		
+entry	Hépatiques. Botanique		
 pb	534	0538	4536682
-entry	Hépatiques (Coliques)
+entry	Hépatiques (Coliques)		
 pb	535	0539	4536683
 pb	536	0540	4536684
 pb	537	0541	4536685
@@ -718,50 +718,50 @@ pb	575	0579	4536723
 pb	576	0580	4536724
 pb	577	0581	4536725
 pb	578	0582	4536726
-entry	Hépatisation
-entry	Hépatite
-ref	Foie
-entry	Hépatoscopie
-ref	Divination
-entry	Heptanes
+entry	Hépatisation		
+entry	Hépatite		
+ref	Foie		
+entry	Hépatoscopie		
+ref	Divination		
+entry	Heptanes		
 pb	579	0583	4536727
-entry	Heptylacétique (Acide)
-entry	Heptylamine
-entry	Heptyle
-entry	Heptyle (Hydrure d')
-ref	Heptanes
-entry	Heptylène
-entry	Heptylidène
+entry	Heptylacétique (Acide)		
+entry	Heptylamine		
+entry	Heptyle		
+entry	Heptyle (Hydrure d')		
+ref	Heptanes		
+entry	Heptylène		
+entry	Heptylidène		
 pb	580	0584	4536728
-entry	Heptylique (Alcool)
-entry	Heptyliques (Éthers)
-entry	Heptylmalonique (Acide)
+entry	Heptylique (Alcool)		
+entry	Heptyliques (Éthers)		
+entry	Heptylmalonique (Acide)		
 pb	581	0585	4536729
-entry	Heptylsulfurique (Acide)
-entry	Héracléum
-ref	Berce
-entry	Héraclide (Les)
-entry	Héraclite
+entry	Heptylsulfurique (Acide)		
+entry	Héracléum		
+ref	Berce		
+entry	Héraclide (Les)		
+entry	Héraclite		
 pb	582	0586	4536730
-entry	Herambasena
-entry	Héras
-entry	Hérat
-ref	Iran
-entry	Herbe
+entry	Herambasena		
+entry	Héras		
+entry	Hérat		
+ref	Iran		
+entry	Herbe		
 pb	583	0587	4536731
 pb	584	0588	4536732
 pb	585	0589	4536733
-entry	Herbes (Sucs d')
+entry	Herbes (Sucs d')		
 pb	586	0590	4536734
-entry	Herbiniaux
-entry	Herbivores
-entry	Herboriste
+entry	Herbiniaux		
+entry	Herbivores		
+entry	Herboriste		
 pb	587	0591	4536735
 pb	588	0592	4536736
-entry	Hercules (Bains d')
-ref	Mehadia
-entry	Heredia (Les deux)
-entry	Hérédité
+entry	Hercules (Bains d')		
+ref	Mehadia		
+entry	Heredia (Les deux)		
+entry	Hérédité		
 pb	589	0593	4536737
 pb	590	0594	4536738
 pb	591	0595	4536739
@@ -779,23 +779,23 @@ pb	602	0606	4536750
 pb	603	0607	4536751
 pb	604	0608	4536752
 pb	605	0609	4536753
-entry	Herholdt (Les deux)
+entry	Herholdt (Les deux)		
 pb	606	0610	4536754
-entry	Herhondaville ou Mondeville (Henri de)
-orth	Herhondaville
-orth	Mondeville (Henri de)
-entry	Hericium
-entry	Hering (Eduard von)
-entry	Hérissant (Les deux)
+entry	Herhondaville ou Mondeville (Henri de)		
+orth	Herhondaville		
+orth	Mondeville (Henri de)		
+entry	Hericium		
+entry	Hering (Eduard von)		
+entry	Hérissant (Les deux)		
 pb	607	0611	4536755
-entry	Hérisson
+entry	Hérisson		
 pb	608	0612	4536756
-entry	Heritiera (Ait.)
+entry	Heritiera (Ait.)		
 pb	609	0613	4536757
-entry	Herlitz (David)
-entry	Hermann (Les)
-entry	Hermaphrodisme
-entry	Hermaphrodisme. Tératologie
+entry	Herlitz (David)		
+entry	Hermann (Les)		
+entry	Hermaphrodisme		
+entry	Hermaphrodisme. Tératologie		
 pb	610	0614	4536758
 pb	611	0615	4536759
 pb	612	0616	4536760
@@ -822,7 +822,7 @@ pb	632	0636	4536780
 pb	633	0637	4536781
 pb	634	0638	4536782
 pb	635	0639	4536783
-entry	Hermaphrodisme. Médecine légale
+entry	Hermaphrodisme. Médecine légale		
 pb	636	0640	4536784
 pb	637	0641	4536785
 pb	638	0642	4536786
@@ -851,19 +851,19 @@ pb	660	0664	4536808
 pb	661	0665	4536809
 pb	662	0666	4536810
 pb	663	0667	4536811
-entry	Hermbstädt (Sigismund-Friedrich)
+entry	Hermbstädt (Sigismund-Friedrich)		
 pb	664	0668	4536812
-entry	Hermine
-entry	Hermione
-entry	Hermodactes
+entry	Hermine		
+entry	Hermione		
+entry	Hermodactes		
 pb	665	0669	4536813
-entry	Hermondaville
-entry	Hernandez (Les)
+entry	Hermondaville		
+entry	Hernandez (Les)		
 pb	666	0670	4536814
-entry	Hernandia (Plum.)
-entry	Herniaire
+entry	Hernandia (Plum.)		
+entry	Herniaire		
 pb	667	0671	4536815
-entry	Hernies en général
+entry	Hernies en général		
 pb	668	0672	4536816
 pb	669	0673	4536817
 pb	670	0674	4536818
@@ -1083,18 +1083,18 @@ pb	883	0887	4537031
 pb	884	0888	4537032
 pb	885	0889	4537033
 pb	886	0890	4537034
-entry	Héroard (Jean)
-entry	Herodicus
-entry	Hérodiens
-ref	Hérons
-entry	Hérodote (Les deux)
-entry	Herold (Johann-Moritz-David)
+entry	Héroard (Jean)		
+entry	Herodicus		
+entry	Hérodiens		
+ref	Hérons		
+entry	Hérodote (Les deux)		
+entry	Herold (Johann-Moritz-David)		
 pb	887	0891	4537035
-entry	Héron
+entry	Héron		
 pb	888	0892	4537036
 pb	889	0893	4537037
-entry	Hérophile
+entry	Hérophile		
 pb	890	0894	4537038
 pb	891	0895	4537039
-entry	Articles contenus dans le treizième volume (4e série)
+entry	Articles contenus dans le treizième volume (4e série)		
 pb	892	0896	4537040

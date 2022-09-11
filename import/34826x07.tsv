@@ -2,7 +2,7 @@ pb	[s. pag.]	0001	452202
 pb	[s. pag.]	0002	452203
 pb	[s. pag.]	0003	452204
 pb	[s. pag.]	0004	452205
-entry	Electricité
+entry	Electricité		
 pb	2	0005	452206
 pb	3	0006	452207
 pb	4	0007	452208
@@ -26,7 +26,7 @@ pb	21	0024	452225
 pb	22	0025	452226
 pb	23	0026	452227
 pb	24	0027	452228
-entry	Electuaires
+entry	Electuaires		
 pb	25	0028	452229
 pb	26	0029	452230
 pb	27	0030	452231
@@ -34,19 +34,19 @@ pb	28	0031	452232
 pb	29	0032	452233
 pb	30	0033	452234
 pb	31	0034	452235
-entry	Eléocérolés ou Elaeocérolés
-orth	Eléocérolés
-orth	Elaeocérolés
-entry	Eléolés ou Elaeolés
-orth	Eléolés
-orth	Elaeolés
+entry	Eléocérolés ou Elaeocérolés		
+orth	Eléocérolés		
+orth	Elaeocérolés		
+entry	Eléolés ou Elaeolés		
+orth	Eléolés		
+orth	Elaeolés		
 pb	32	0035	452236
-entry	Eléolés, ou élaeolés
-orth	Eléolés
-orth	élaeolés
-entry	Eléphantiasis
+entry	Eléolés, ou élaeolés		
+orth	Eléolés		
+orth	élaeolés		
+entry	Eléphantiasis		
 pb	33	0036	452237
-entry	Eléphantiasis des arabes
+entry	Eléphantiasis des arabes		
 pb	34	0037	452238
 pb	35	0038	452239
 pb	36	0039	452240
@@ -67,7 +67,7 @@ pb	50	0053	452254
 pb	51	0054	452255
 pb	52	0055	452256
 pb	53	0056	452257
-entry	Eléphantiasis des grecs
+entry	Eléphantiasis des grecs		
 pb	54	0057	452258
 pb	55	0058	452259
 pb	56	0059	452260
@@ -80,9 +80,9 @@ pb	62	0065	452266
 pb	63	0066	452267
 pb	64	0067	452268
 pb	65	0068	452269
-entry	Elixir
+entry	Elixir		
 pb	66	0069	452270
-entry	Emanations
+entry	Emanations		
 pb	67	0070	452271
 pb	68	0071	452272
 pb	69	0072	452273
@@ -110,19 +110,19 @@ pb	90	0093	452294
 pb	91	0094	452295
 pb	92	0095	452296
 pb	93	0096	452297
-entry	Embarras gastrique
+entry	Embarras gastrique		
 pb	94	0097	452298
 pb	95	0098	452299
 pb	96	0099	452300
 pb	97	0100	452301
 pb	98	0101	452302
 pb	99	0102	452303
-entry	Embarras intestinal
-entry	Emétine
+entry	Embarras intestinal		
+entry	Emétine		
 pb	100	0103	452304
 pb	101	0104	452305
 pb	102	0105	452306
-entry	Emétiques
+entry	Emétiques		
 pb	103	0106	452307
 pb	104	0107	452308
 pb	105	0108	452309
@@ -131,11 +131,11 @@ pb	107	0110	452311
 pb	108	0111	452312
 pb	109	0112	452313
 pb	110	0113	452314
-entry	Eméto-cathartiques
-entry	Emménagogues
+entry	Eméto-cathartiques		
+entry	Emménagogues		
 pb	111	0114	452315
 pb	112	0115	452316
-entry	Emphysème
+entry	Emphysème		
 pb	113	0116	452317
 pb	114	0117	452318
 pb	115	0118	452319
@@ -160,12 +160,12 @@ pb	133	0136	452337
 pb	134	0137	452338
 pb	135	0138	452339
 pb	136	0139	452340
-entry	Emplatre
+entry	Emplatre		
 pb	137	0140	452341
 pb	138	0141	452342
 pb	139	0142	452343
 pb	140	0143	452344
-entry	Empoisonnement
+entry	Empoisonnement		
 pb	141	0144	452345
 pb	142	0145	452346
 pb	143	0146	452347
@@ -184,7 +184,7 @@ pb	155	0158	452359
 pb	156	0159	452360
 pb	157	0160	452361
 pb	158	0161	452362
-entry	Empyème
+entry	Empyème		
 pb	159	0162	452363
 pb	160	0163	452364
 pb	161	0164	452365
@@ -212,15 +212,15 @@ pb	182	0185	452386
 pb	183	0186	452387
 pb	184	0187	452388
 pb	185	0188	452389
-entry	Emulsion
+entry	Emulsion		
 pb	186	0189	452390
-entry	Encanthis
+entry	Encanthis		
 pb	187	0190	452391
 pb	188	0191	452392
 pb	189	0192	452393
 pb	190	0193	452394
 pb	191	0194	452395
-entry	Encephale
+entry	Encephale		
 pb	192	0195	452396
 pb	193	0196	452397
 pb	194	0197	452398
@@ -279,11 +279,11 @@ pb	246	0249	452450
 pb	247	0250	452451
 pb	248	0251	452452
 pb	tb7	0252	452453
-entry	Tableau d'observationde ramollissement
+entry	Tableau d'observationde ramollissement		
 pb	249	0253	452454
-entry	Encephale
+entry	Encephale		
 pb	250	0254	452455
-entry	Encéphalite
+entry	Encéphalite		
 pb	251	0255	452456
 pb	252	0256	452457
 pb	253	0257	452458
@@ -313,13 +313,13 @@ pb	276	0280	452481
 pb	277	0281	452482
 pb	278	0282	452483
 pb	279	0283	452484
-entry	Endémiques (maladies)
+entry	Endémiques (maladies)		
 pb	280	0284	452485
 pb	281	0285	452486
 pb	282	0286	452487
 pb	283	0287	452488
 pb	284	0288	452489
-entry	Endermique (méthode)
+entry	Endermique (méthode)		
 pb	285	0289	452490
 pb	286	0290	452491
 pb	287	0291	452492
@@ -327,10 +327,10 @@ pb	288	0292	452493
 pb	289	0293	452494
 pb	290	0294	452495
 pb	291	0295	452496
-entry	Endurcissement
-entry	Enéorème
-entry	Engelures
-entry	Entérite
+entry	Endurcissement		
+entry	Enéorème		
+entry	Engelures		
+entry	Entérite		
 pb	292	0296	452497
 pb	293	0297	452498
 pb	294	0298	452499
@@ -356,13 +356,13 @@ pb	313	0317	452518
 pb	314	0318	452519
 pb	315	0319	452520
 pb	316	0320	452521
-entry	Entérocèle
-entry	Entorse
+entry	Entérocèle		
+entry	Entorse		
 pb	317	0321	452522
 pb	318	0322	452523
 pb	319	0323	452524
 pb	320	0324	452525
-entry	Entozoaires
+entry	Entozoaires		
 pb	321	0325	452526
 pb	322	0326	452527
 pb	323	0327	452528
@@ -412,23 +412,23 @@ pb	366	0370	452571
 pb	367	0371	452572
 pb	368	0372	452573
 pb	369	0373	452574
-entry	Entérétome
-entry	Ephélide
+entry	Entérétome		
+entry	Ephélide		
 pb	370	0374	452575
 pb	371	0375	452576
 pb	372	0376	452577
 pb	373	0377	452578
 pb	374	0378	452579
-entry	Entropion
+entry	Entropion		
 pb	375	0379	452580
 pb	376	0380	452581
 pb	377	0381	452582
 pb	378	0382	452583
 pb	379	0383	452584
-entry	Epanchement
+entry	Epanchement		
 pb	380	0384	452585
 pb	381	0385	452586
-entry	Epidémiques (maladies)
+entry	Epidémiques (maladies)		
 pb	382	0386	452587
 pb	383	0387	452588
 pb	384	0388	452589
@@ -460,7 +460,7 @@ pb	409	0413	452614
 pb	410	0414	452615
 pb	411	0415	452616
 pb	412	0416	452617
-entry	Epilepsie
+entry	Epilepsie		
 pb	413	0417	452618
 pb	414	0418	452619
 pb	415	0419	452620
@@ -478,22 +478,22 @@ pb	426	0430	452631
 pb	427	0431	452632
 pb	428	0432	452633
 pb	429	0433	452634
-entry	Epispadias
-entry	Epistaxis
+entry	Epispadias		
+entry	Epistaxis		
 pb	430	0434	452635
 pb	431	0435	452636
 pb	432	0436	452637
 pb	433	0437	452638
 pb	434	0438	452639
 pb	435	0439	452640
-entry	Epithème
-entry	Eponge
+entry	Epithème		
+entry	Eponge		
 pb	436	0440	452641
 pb	437	0441	452642
-entry	Epulie
+entry	Epulie		
 pb	438	0442	452643
 pb	439	0443	452644
-entry	Erectile
+entry	Erectile		
 pb	440	0444	452645
 pb	441	0445	452646
 pb	442	0446	452647
@@ -504,7 +504,7 @@ pb	446	0450	452651
 pb	447	0451	452652
 pb	448	0452	452653
 pb	449	0453	452654
-entry	Ergot
+entry	Ergot		
 pb	450	0454	452655
 pb	451	0455	452656
 pb	452	0456	452657
@@ -523,7 +523,7 @@ pb	464	0468	452669
 pb	465	0469	452670
 pb	466	0470	452671
 pb	467	0471	452672
-entry	Ergotisme
+entry	Ergotisme		
 pb	468	0472	452673
 pb	469	0473	452674
 pb	470	0474	452675
@@ -535,7 +535,7 @@ pb	475	0479	452680
 pb	476	0480	452681
 pb	477	0481	452682
 pb	478	0482	452683
-entry	Erysipèle
+entry	Erysipèle		
 pb	479	0483	452684
 pb	480	0484	452685
 pb	481	0485	452686
@@ -549,16 +549,16 @@ pb	488	0492	452693
 pb	489	0493	452694
 pb	490	0494	452695
 pb	491	0495	452696
-entry	Erythème
+entry	Erythème		
 pb	492	0496	452697
 pb	493	0497	452698
 pb	494	0498	452699
 pb	495	0499	452700
 pb	496	0500	452701
-entry	Espèces
-entry	Essence
+entry	Espèces		
+entry	Essence		
 pb	497	0501	452702
-entry	Estomac (maladies de l')
+entry	Estomac (maladies de l')		
 pb	498	0502	452703
 pb	499	0503	452704
 pb	500	0504	452705
@@ -574,7 +574,7 @@ pb	509	0513	452714
 pb	510	0514	452715
 pb	511	0515	452716
 pb	512	0516	452717
-entry	Etain
+entry	Etain		
 pb	513	0517	452718
 pb	514	0518	452719
 pb	515	0519	452720
@@ -584,7 +584,7 @@ pb	518	0522	452723
 pb	519	0523	452724
 pb	520	0524	452725
 pb	521	0525	452726
-entry	Ether
+entry	Ether		
 pb	522	0526	452727
 pb	523	0527	452728
 pb	524	0528	452729
@@ -600,7 +600,7 @@ pb	533	0537	452738
 pb	534	0538	452739
 pb	535	0539	452740
 pb	536	0540	452741
-entry	Etiologie
+entry	Etiologie		
 pb	537	0541	452742
 pb	538	0542	452743
 pb	539	0543	452744
@@ -625,22 +625,22 @@ pb	557	0561	452762
 pb	558	0562	452763
 pb	559	0563	452764
 pb	560	0564	452765
-entry	Etoilé
+entry	Etoilé		
 pb	561	0565	452766
-entry	Etranglement
+entry	Etranglement		
 pb	562	0566	452767
-entry	Etuve
-entry	Euphorbes
+entry	Etuve		
+entry	Euphorbes		
 pb	563	0567	452768
 pb	564	0568	452769
 pb	565	0569	452770
 pb	566	0570	452771
 pb	567	0571	452772
-entry	Exacerbation
-entry	Exanthème
+entry	Exacerbation		
+entry	Exanthème		
 pb	568	0572	452773
-entry	Excipient
-entry	Excroissance
+entry	Excipient		
+entry	Excroissance		
 pb	569	0573	452774
 pb	570	0574	452775
 pb	571	0575	452776
@@ -651,8 +651,8 @@ pb	575	0579	452780
 pb	576	0580	452781
 pb	577	0581	452782
 pb	578	0582	452783
-entry	Exercice
-entry	Exostose
+entry	Exercice		
+entry	Exostose		
 pb	579	0583	452784
 pb	580	0584	452785
 pb	581	0585	452786
@@ -664,19 +664,19 @@ pb	586	0590	452791
 pb	587	0591	452792
 pb	588	0592	452793
 pb	589	0593	452794
-entry	Expectorant
+entry	Expectorant		
 pb	590	0594	452795
-entry	Exstrophie
-entry	Extase
+entry	Exstrophie		
+entry	Extase		
 pb	591	0595	452796
 pb	592	0596	452797
 pb	593	0597	452798
 pb	594	0598	452799
 pb	595	0599	452800
-entry	Extraction
-entry	Extraits
+entry	Extraction		
+entry	Extraits		
 pb	596	0600	452801
 pb	597	0601	452802
 pb	598	0602	452803
-entry	Exutoire
+entry	Exutoire		
 pb	599	0603	452804

@@ -2,8 +2,8 @@ pb	[s. pag.]	0001	7285445
 pb	[s. pag.]	0002	7285446
 pb	[s. pag.]	0003	7285447
 pb	[s. pag.]	0004	7285448
-entry	Atrésie
-entry	Atrophie
+entry	Atrésie		
+entry	Atrophie		
 pb	2	0005	7285449
 pb	3	0006	7285450
 pb	4	0007	7285451
@@ -30,7 +30,7 @@ pb	24	0027	7285471
 pb	25	0028	7285472
 pb	26	0029	7285473
 pb	27	0030	7285474
-entry	Atrophie musculaire progressive
+entry	Atrophie musculaire progressive		
 pb	28	0031	7285475
 pb	29	0032	7285476
 pb	30	0033	7285477
@@ -87,7 +87,7 @@ pb	80	0083	7285527
 pb	81	0084	7285528
 pb	82	0085	7285529
 pb	83	0086	7285530
-entry	Atropine
+entry	Atropine		
 pb	84	0087	7285531
 pb	85	0088	7285532
 pb	86	0089	7285533
@@ -95,8 +95,8 @@ pb	87	0090	7285534
 pb	88	0091	7285535
 pb	89	0092	7285536
 pb	90	0093	7285537
-entry	Auditif (conduit)
-entry	Auscultation
+entry	Auditif (conduit)		
+entry	Auscultation		
 pb	91	0094	7285538
 pb	92	0095	7285539
 pb	93	0096	7285540
@@ -219,7 +219,7 @@ pb	209	0212	7285656
 pb	210	0213	7285657
 pb	211	0214	7285658
 pb	212	0215	7285659
-entry	Autoplastie
+entry	Autoplastie		
 pb	213	0216	7285660
 pb	214	0217	7285661
 pb	215	0218	7285662
@@ -232,9 +232,9 @@ pb	221	0224	7285668
 pb	222	0225	7285669
 pb	223	0226	7285670
 pb	224	0227	7285671
-entry	Autopsie
+entry	Autopsie		
 pb	225	0228	7285672
-entry	Avant-bras
+entry	Avant-bras		
 pb	226	0229	7285673
 pb	227	0230	7285674
 pb	228	0231	7285675
@@ -314,7 +314,7 @@ pb	301	0304	7285748
 pb	302	0305	7285749
 pb	303	0306	7285750
 pb	304	0307	7285751
-entry	Avortement
+entry	Avortement		
 pb	305	0308	7285752
 pb	306	0309	7285753
 pb	307	0310	7285754
@@ -366,12 +366,12 @@ pb	352	0355	7285799
 pb	353	0356	7285800
 pb	354	0357	7285801
 pb	355	0358	7285802
-entry	Ax
+entry	Ax		
 pb	356	0359	7285803
 pb	357	0360	7285804
 pb	358	0361	7285805
 pb	359	0362	7285806
-entry	Axillaires
+entry	Axillaires		
 pb	360	0363	7285807
 pb	361	0364	7285808
 pb	362	0365	7285809
@@ -395,14 +395,14 @@ pb	379	0382	7285826
 pb	380	0383	7285827
 pb	381	0384	7285828
 pb	382	0385	7285829
-entry	Axis
-entry	Axonge
+entry	Axis		
+entry	Axonge		
 pb	383	0386	7285830
-entry	Azote
+entry	Azote		
 pb	384	0387	7285831
 pb	385	0388	7285832
-entry	Azotates
-entry	Azygos (veine)
+entry	Azotates		
+entry	Azygos (veine)		
 pb	386	0389	7285833
 pb	387	0390	7285834
 pb	388	0391	7285835
@@ -411,9 +411,9 @@ pb	390	0393	7285837
 pb	391	0394	7285838
 pb	392	0395	7285839
 pb	393	0396	7285840
-entry	Lettre B
-entry	Badiane
-entry	Bagnères-de-Bigorre
+entry	Lettre B		
+entry	Badiane		
+entry	Bagnères-de-Bigorre		
 pb	394	0397	7285841
 pb	395	0398	7285842
 pb	396	0399	7285843
@@ -422,20 +422,20 @@ pb	398	0401	7285845
 pb	399	0402	7285846
 pb	400	0403	7285847
 pb	401	0404	7285848
-entry	Bagnères-de-Luchon
+entry	Bagnères-de-Luchon		
 pb	402	0405	7285849
 pb	403	0406	7285850
 pb	404	0407	7285851
 pb	405	0408	7285852
 pb	406	0409	7285853
-entry	Bagnoles
+entry	Bagnoles		
 pb	407	0410	7285854
 pb	408	0411	7285855
 pb	409	0412	7285856
 pb	410	0413	7285857
-entry	Bagnols
+entry	Bagnols		
 pb	411	0414	7285858
-entry	Bains
+entry	Bains		
 pb	412	0415	7285859
 pb	413	0416	7285860
 pb	414	0417	7285861
@@ -540,9 +540,9 @@ pb	512	0515	7285959
 pb	513	0516	7285960
 pb	514	0517	7285961
 pb	515	0518	7285962
-entry	Balanite, Balano-posthite
-orth	Balanite
-orth	Balano-posthite
+entry	Balanite, Balano-posthite		
+orth	Balanite		
+orth	Balano-posthite		
 pb	516	0519	7285963
 pb	517	0520	7285964
 pb	518	0521	7285965
@@ -563,17 +563,17 @@ pb	532	0535	7285979
 pb	533	0536	7285980
 pb	534	0537	7285981
 pb	535	0538	7285982
-entry	Balaruc
+entry	Balaruc		
 pb	536	0539	7285983
-entry	Ballonement
-entry	Ballottement
+entry	Ballonement		
+entry	Ballottement		
 pb	537	0540	7285984
 pb	538	0541	7285985
 pb	539	0542	7285986
 pb	540	0543	7285987
 pb	541	0544	7285988
-entry	Balsamique
-entry	Bandage
+entry	Balsamique		
+entry	Bandage		
 pb	542	0545	7285989
 pb	543	0546	7285990
 pb	544	0547	7285991
@@ -599,21 +599,21 @@ pb	563	0566	7286010
 pb	564	0567	7286011
 pb	565	0568	7286012
 pb	566	0569	7286013
-entry	Bandage herniaire
-entry	Bardane
-entry	Baréges
+entry	Bandage herniaire		
+entry	Bardane		
+entry	Baréges		
 pb	567	0570	7286014
 pb	568	0571	7286015
 pb	569	0572	7286016
 pb	570	0573	7286017
 pb	571	0574	7286018
-entry	Barégine
-entry	Baryte
+entry	Barégine		
+entry	Baryte		
 pb	572	0575	7286019
 pb	573	0576	7286020
 pb	574	0577	7286021
 pb	575	0578	7286022
-entry	Bassin
+entry	Bassin		
 pb	576	0579	7286023
 pb	577	0580	7286024
 pb	578	0581	7286025
@@ -683,7 +683,7 @@ pb	641	0644	7286088
 pb	642	0645	7286089
 pb	643	0646	7286090
 pb	644	0647	7286091
-entry	Baumes
+entry	Baumes		
 pb	645	0648	7286092
 pb	646	0649	7286093
 pb	647	0650	7286094
@@ -694,9 +694,9 @@ pb	651	0654	7286098
 pb	652	0655	7286099
 pb	653	0656	7286100
 pb	654	0657	7286101
-entry	Bdellium
+entry	Bdellium		
 pb	655	0658	7286102
-entry	Bec-de-lièvre
+entry	Bec-de-lièvre		
 pb	656	0659	7286103
 pb	657	0660	7286104
 pb	658	0661	7286105
@@ -758,8 +758,8 @@ pb	713	0716	7286160
 pb	714	0717	7286161
 pb	715	0718	7286162
 pb	716	0719	7286163
-entry	Béchiques
-entry	Bégaiement
+entry	Béchiques		
+entry	Bégaiement		
 pb	717	0720	7286164
 pb	718	0721	7286165
 pb	719	0722	7286166
@@ -795,7 +795,7 @@ pb	748	0751	7286195
 pb	749	0752	7286196
 pb	750	0753	7286197
 pb	751	0754	7286198
-entry	Belladone
+entry	Belladone		
 pb	752	0755	7286199
 pb	753	0756	7286200
 pb	754	0757	7286201
@@ -817,9 +817,9 @@ pb	769	0772	7286216
 pb	770	0773	7286217
 pb	771	0774	7286218
 pb	772	0775	7286219
-entry	Benjoin
-entry	Benzoique (acide)
-entry	Béribéri
+entry	Benjoin		
+entry	Benzoique (acide)		
+entry	Béribéri		
 pb	773	0776	7286220
 pb	774	0777	7286221
 pb	775	0778	7286222
@@ -827,15 +827,15 @@ pb	776	0779	7286223
 pb	777	0780	7286224
 pb	778	0781	7286225
 pb	779	0782	7286226
-entry	Berlue
+entry	Berlue		
 pb	780	0783	7286227
 pb	781	0784	7286228
-entry	Beurre d'antimoine
-entry	Beurre de cacao
-entry	Biberon
+entry	Beurre d'antimoine		
+entry	Beurre de cacao		
+entry	Biberon		
 pb	782	0785	7286229
 pb	783	0786	7286230
 pb	784	0787	7286231
 pb	785	0788	7286232
 pb	[s. pag.]	0789	7286233
-entry	Table des auteurs
+entry	Table des auteurs		

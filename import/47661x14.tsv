@@ -3,9 +3,9 @@ pb	[s. pag.]	0002	5556857
 pb	[s. pag.]	0003	409631
 pb	[s. pag.]	0004	5556858
 pb	1	0005	409632
-entry	excréteur
+entry	excréteur		
 pb	2	0006	409633
-entry	excrétion
+entry	excrétion		
 pb	3	0007	409634
 pb	4	0008	409635
 pb	5	0009	409636
@@ -69,8 +69,8 @@ pb	62	0066	409693
 pb	63	0067	409694
 pb	64	0068	409695
 pb	65	0069	409696
-entry	excrétoire
-entry	excroissance
+entry	excrétoire		
+entry	excroissance		
 pb	66	0070	409697
 pb	67	0071	409698
 pb	68	0072	409699
@@ -81,8 +81,8 @@ pb	72	0076	409703
 pb	73	0077	409704
 pb	74	0078	409705
 pb	75	0079	409706
-entry	excussion
-entry	exercice
+entry	excussion		
+entry	exercice		
 pb	76	0080	409707
 pb	77	0081	409708
 pb	78	0082	409709
@@ -110,7 +110,7 @@ pb	99	0103	409730
 pb	100	0104	409731
 pb	101	0105	409732
 pb	102	0106	409733
-entry	exérèse
+entry	exérèse		
 pb	103	0107	409734
 pb	104	0108	409735
 pb	105	0109	409736
@@ -119,9 +119,9 @@ pb	107	0111	409738
 pb	108	0112	409739
 pb	109	0113	409740
 pb	110	0114	409741
-entry	exfoliatif
+entry	exfoliatif		
 pb	111	0115	409742
-entry	exfoliation
+entry	exfoliation		
 pb	112	0116	409743
 pb	113	0117	409744
 pb	114	0118	409745
@@ -130,7 +130,7 @@ pb	116	0120	409747
 pb	117	0121	409748
 pb	118	0122	409749
 pb	119	0123	409750
-entry	exhalaison
+entry	exhalaison		
 pb	120	0124	409751
 pb	121	0125	409752
 pb	122	0126	409753
@@ -147,7 +147,7 @@ pb	132	0136	409763
 pb	133	0137	409764
 pb	134	0138	409765
 pb	135	0139	409766
-entry	exhalation
+entry	exhalation		
 pb	136	0140	409767
 pb	137	0141	409768
 pb	138	0142	409769
@@ -199,7 +199,7 @@ pb	183	0187	409814
 pb	184	0188	409815
 pb	185	0189	409816
 pb	186	0190	409817
-entry	exhumation
+entry	exhumation		
 pb	187	0191	409818
 pb	188	0192	409819
 pb	189	0193	409820
@@ -220,8 +220,8 @@ pb	203	0207	409834
 pb	204	0208	409835
 pb	205	0209	409836
 pb	206	0210	409837
-entry	exoine
-entry	exomphale
+entry	exoine		
+entry	exomphale		
 pb	207	0211	409838
 pb	208	0212	409839
 pb	209	0213	409840
@@ -230,13 +230,13 @@ pb	211	0215	409842
 pb	212	0216	409843
 pb	213	0217	409844
 pb	214	0218	409845
-entry	exophtalmie
+entry	exophtalmie		
 pb	215	0219	409846
 pb	216	0220	409847
 pb	217	0221	409848
-entry	exorbitisme
+entry	exorbitisme		
 pb	218	0222	409849
-entry	exostose
+entry	exostose		
 pb	219	0223	409850
 pb	220	0224	409851
 pb	221	0225	409852
@@ -249,14 +249,14 @@ pb	227	0231	409858
 pb	228	0232	409859
 pb	229	0233	409860
 pb	230	0234	409861
-entry	exotique
+entry	exotique		
 pb	231	0235	409862
 pb	232	0236	409863
 pb	233	0237	409864
 pb	234	0238	409865
 pb	235	0239	409866
 pb	236	0240	409867
-entry	expansibilité
+entry	expansibilité		
 pb	237	0241	409868
 pb	238	0242	409869
 pb	239	0243	409870
@@ -264,12 +264,12 @@ pb	240	0244	409871
 pb	241	0245	409872
 pb	242	0246	409873
 pb	243	0247	409874
-entry	expansion
+entry	expansion		
 pb	244	0248	409875
 pb	245	0249	409876
 pb	246	0250	409877
 pb	247	0251	409878
-entry	expectation
+entry	expectation		
 pb	248	0252	409879
 pb	249	0253	409880
 pb	250	0254	409881
@@ -279,7 +279,7 @@ pb	253	0257	409884
 pb	254	0258	409885
 pb	255	0259	409886
 pb	256	0260	409887
-entry	expectorant
+entry	expectorant		
 pb	257	0261	409888
 pb	258	0262	409889
 pb	259	0263	409890
@@ -290,9 +290,9 @@ pb	263	0267	409894
 pb	264	0268	409895
 pb	265	0269	409896
 pb	266	0270	409897
-entry	expectoration
+entry	expectoration		
 pb	267	0271	409898
-entry	expérience
+entry	expérience		
 pb	268	0272	409899
 pb	269	0273	409900
 pb	270	0274	409901
@@ -300,9 +300,9 @@ pb	271	0275	409902
 pb	272	0276	409903
 pb	273	0277	409904
 pb	274	0278	409905
-entry	expiration
+entry	expiration		
 pb	275	0279	409906
-entry	exploration
+entry	exploration		
 pb	276	0280	409907
 pb	277	0281	409908
 pb	278	0282	409909
@@ -319,22 +319,22 @@ pb	288	0292	409919
 pb	289	0293	409920
 pb	290	0294	409921
 pb	291	0295	409922
-entry	explosion
+entry	explosion		
 pb	292	0296	409923
-entry	exposition des morts
-entry	expression
+entry	exposition des morts		
+entry	expression		
 pb	293	0297	409924
-entry	expulsif
+entry	expulsif		
 pb	294	0298	409925
-entry	exstrophie
-entry	extase
+entry	exstrophie		
+entry	extase		
 pb	295	0299	409926
 pb	296	0300	409927
 pb	297	0301	409928
 pb	298	0302	409929
 pb	299	0303	409930
-entry	extemporané
-entry	extensibilité
+entry	extemporané		
+entry	extensibilité		
 pb	300	0304	409931
 pb	301	0305	409932
 pb	302	0306	409933
@@ -342,7 +342,7 @@ pb	303	0307	409934
 pb	304	0308	409935
 pb	305	0309	409936
 pb	306	0310	409937
-entry	extension
+entry	extension		
 pb	307	0311	409938
 pb	308	0312	409939
 pb	309	0313	409940
@@ -356,15 +356,15 @@ pb	316	0320	409947
 pb	317	0321	409948
 pb	318	0322	409949
 pb	319	0323	409950
-entry	exténuation
-entry	extinction
+entry	exténuation		
+entry	extinction		
 pb	320	0324	409951
-entry	extirpation
+entry	extirpation		
 pb	321	0325	409952
 pb	322	0326	409953
-entry	extractif
+entry	extractif		
 pb	323	0327	409954
-entry	extraction
+entry	extraction		
 pb	324	0328	409955
 pb	325	0329	409956
 pb	326	0330	409957
@@ -377,8 +377,8 @@ pb	332	0336	409963
 pb	333	0337	409964
 pb	334	0338	409965
 pb	335	0339	409966
-entry	extracto-résine
-entry	extrait
+entry	extracto-résine		
+entry	extrait		
 pb	336	0340	409967
 pb	337	0341	409968
 pb	338	0342	409969
@@ -388,9 +388,9 @@ pb	341	0345	409972
 pb	342	0346	409973
 pb	343	0347	409974
 pb	344	0348	409975
-entry	extravasation
-entry	extrémité
-entry	extroversion
+entry	extravasation		
+entry	extrémité		
+entry	extroversion		
 pb	345	0349	409976
 pb	346	0350	409977
 pb	347	0351	409978
@@ -407,17 +407,17 @@ pb	357	0361	409988
 pb	358	0362	409989
 pb	359	0363	409990
 pb	360	0364	409991
-entry	extumescence
-entry	exudation
-entry	exsudation
+entry	extumescence		
+entry	exudation		
+entry	exsudation		
 pb	361	0365	409992
-entry	exulcération
-entry	exutoire
+entry	exulcération		
+entry	exutoire		
 pb	362	0366	409993
 pb	363	0367	409994
 pb	364	0368	409995
 pb	365	0369	409996
-entry	face
+entry	face		
 pb	366	0370	409997
 pb	367	0371	409998
 pb	368	0372	409999
@@ -438,34 +438,34 @@ pb	382	0386	410013
 pb	383	0387	410014
 pb	384	0388	410015
 pb	385	0389	410016
-entry	facette
+entry	facette		
 pb	386	0390	410017
-entry	fach
-entry	facial
+entry	fach		
+entry	facial		
 pb	387	0391	410018
 pb	388	0392	410019
-entry	factice
+entry	factice		
 pb	[s. pag.]	0393	5556859
 pb	[s. pag.]	0394	410020
-entry	angle facial : explication de la planche I
+entry	angle facial : explication de la planche I		
 pb	[s. pag.]	0395	410021
-entry	angle facial : planche I
+entry	angle facial : planche I		
 pb	[s. pag.]	0396	5556860
 pb	[s. pag.]	0397	5556861
 pb	[s. pag.]	0398	410022
-entry	angle facial : explication de la planche II
+entry	angle facial : explication de la planche II		
 pb	[s. pag.]	0399	410023
-entry	angle facial : planche II
+entry	angle facial : planche II		
 pb	[s. pag.]	0400	5556862
 pb	[s. pag.]	0401	5556863
 pb	[s. pag.]	0402	410024
-entry	angle facial : explication de la planche III
+entry	angle facial : explication de la planche III		
 pb	[s. pag.]	0403	410025
-entry	angle facial : planche III
+entry	angle facial : planche III		
 pb	[s. pag.]	0404	5556864
 pb	389	0405	410026
-entry	factice
-entry	faculté
+entry	factice		
+entry	faculté		
 pb	390	0406	410027
 pb	391	0407	410028
 pb	392	0408	410029
@@ -497,16 +497,16 @@ pb	417	0433	410054
 pb	418	0434	410055
 pb	419	0435	410056
 pb	420	0436	410057
-entry	faiblesse
+entry	faiblesse		
 pb	421	0437	410058
 pb	422	0438	410059
-entry	faim
+entry	faim		
 pb	423	0439	410060
 pb	424	0440	410061
 pb	425	0441	410062
 pb	426	0442	410063
 pb	427	0443	410064
-entry	falsification
+entry	falsification		
 pb	428	0444	410065
 pb	429	0445	410066
 pb	430	0446	410067
@@ -516,39 +516,39 @@ pb	433	0449	410070
 pb	434	0450	410071
 pb	435	0451	410072
 pb	436	0452	410073
-entry	faltrank
-entry	fanon
+entry	faltrank		
+entry	fanon		
 pb	437	0453	410074
 pb	438	0454	410075
 pb	439	0455	410076
 pb	440	0456	410077
-entry	fantome
+entry	fantome		
 pb	441	0457	410078
-entry	fard
+entry	fard		
 pb	442	0458	410079
 pb	443	0459	410080
 pb	444	0460	410081
 pb	445	0461	410082
 pb	446	0462	410083
-entry	farineux
-entry	fascia-lata
+entry	farineux		
+entry	fascia-lata		
 pb	447	0463	410084
 pb	448	0464	410085
-entry	fascicule
-entry	fatuité
+entry	fascicule		
+entry	fatuité		
 pb	449	0465	410086
 pb	450	0466	410087
 pb	451	0467	410088
 pb	452	0468	410089
-entry	fausse-cote
-entry	fausse-couche
+entry	fausse-cote		
+entry	fausse-couche		
 pb	453	0469	410090
-entry	fausse-grossesse
-entry	faux
+entry	fausse-grossesse		
+entry	faux		
 pb	454	0470	410091
-entry	faux-germe
-entry	faux du cerveau
-entry	fébrifuge
+entry	faux-germe		
+entry	faux du cerveau		
+entry	fébrifuge		
 pb	455	0471	410092
 pb	456	0472	410093
 pb	457	0473	410094
@@ -557,9 +557,9 @@ pb	459	0475	410096
 pb	460	0476	410097
 pb	461	0477	410098
 pb	462	0478	410099
-entry	fébrile
+entry	fébrile		
 pb	463	0479	410100
-entry	fécondation
+entry	fécondation		
 pb	464	0480	410101
 pb	465	0481	410102
 pb	466	0482	410103
@@ -577,7 +577,7 @@ pb	477	0493	410114
 pb	478	0494	410115
 pb	479	0495	410116
 pb	480	0496	410117
-entry	fécondité
+entry	fécondité		
 pb	481	0497	410118
 pb	482	0498	410119
 pb	483	0499	410120
@@ -596,15 +596,15 @@ pb	495	0511	410132
 pb	496	0512	410133
 pb	497	0513	410134
 pb	498	0514	410135
-entry	fécule
+entry	fécule		
 pb	499	0515	410136
 pb	500	0516	410137
 pb	501	0517	410138
 pb	502	0518	410139
 pb	503	0519	410140
-entry	fégarite
-entry	feintes (maladies)
-entry	femme (anthropologie et physiologie)
+entry	fégarite		
+entry	feintes (maladies)		
+entry	femme (anthropologie et physiologie)		
 pb	504	0520	410141
 pb	505	0521	410142
 pb	506	0522	410143
@@ -675,7 +675,7 @@ pb	570	0586	410207
 pb	571	0587	410208
 pb	572	0588	410209
 pb	573	0589	410210
-entry	femmes (maladies des)
+entry	femmes (maladies des)		
 pb	574	0590	410211
 pb	575	0591	410212
 pb	576	0592	410213

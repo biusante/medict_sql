@@ -1,6 +1,6 @@
 pb	1	0001	4519075
-entry	Dent
-entry	Dent. Anatomie descriptive
+entry	Dent		
+entry	Dent. Anatomie descriptive		
 pb	2	0002	4519076
 pb	3	0003	4519077
 pb	4	0004	4519078
@@ -10,7 +10,7 @@ pb	7	0007	4519081
 pb	8	0008	4519082
 pb	9	0009	4519083
 pb	10	0010	4519084
-entry	Dent. Structure histologique
+entry	Dent. Structure histologique		
 pb	11	0011	4519085
 pb	12	0012	4519086
 pb	13	0013	4519087
@@ -30,7 +30,7 @@ pb	26	0026	4519100
 pb	27	0027	4519101
 pb	28	0028	4519102
 pb	29	0029	4519103
-entry	Dent. Anatomie comparée
+entry	Dent. Anatomie comparée		
 pb	30	0030	4519104
 pb	31	0031	4519105
 pb	32	0032	4519106
@@ -43,7 +43,7 @@ pb	38	0038	4519112
 pb	39	0039	4519113
 pb	40	0040	4519114
 pb	41	0041	4519115
-entry	Dent. Physiologie
+entry	Dent. Physiologie		
 pb	42	0042	4519116
 pb	43	0043	4519117
 pb	44	0044	4519118
@@ -143,9 +143,9 @@ pb	137	0137	4519211
 pb	138	0138	4519212
 pb	139	0139	4519213
 pb	140	0140	4519214
-entry	Pathologie
-entry	Maladies des dents
-entry	Dent. Pathologie. Maladies des dents. Vices de conformation de l'appareil dentaire
+entry	Pathologie		
+entry	Maladies des dents		
+entry	Dent. Pathologie. Maladies des dents. Vices de conformation de l'appareil dentaire		
 pb	141	0141	4519215
 pb	142	0142	4519216
 pb	143	0143	4519217
@@ -214,7 +214,7 @@ pb	205	0205	4519279
 pb	206	0206	4519280
 pb	207	0207	4519281
 pb	208	0208	4519282
-entry	Dent. Pathologie. Maladies des dents. Affections de l'organe dentaire en totalité
+entry	Dent. Pathologie. Maladies des dents. Affections de l'organe dentaire en totalité		
 pb	209	0209	4519283
 pb	210	0210	4519284
 pb	211	0211	4519285
@@ -225,9 +225,9 @@ pb	215	0215	4519289
 pb	216	0216	4519290
 pb	217	0217	4519291
 pb	218	0218	4519292
-entry	Affection des tissus dentaires isolément
+entry	Affection des tissus dentaires isolément		
 pb	219	0219	4519293
-entry	Dent. Pathologie. Maladies des dents. Affections des tissus dentaires isolément
+entry	Dent. Pathologie. Maladies des dents. Affections des tissus dentaires isolément		
 pb	220	0220	4519294
 pb	221	0221	4519295
 pb	222	0222	4519296
@@ -315,7 +315,7 @@ pb	303	0303	4519377
 pb	304	0304	4519378
 pb	305	0305	4519379
 pb	306	0306	4519380
-entry	Dent. Pathologie. Opérations qui se pratiquent sur les dents
+entry	Dent. Pathologie. Opérations qui se pratiquent sur les dents		
 pb	307	0307	4519381
 pb	308	0308	4519382
 pb	309	0309	4519383
@@ -418,12 +418,12 @@ pb	405	0405	4519479
 pb	406	0406	4519480
 pb	407	0407	4519481
 pb	408	0408	4519482
-entry	Dent-de-chien
-entry	Dent-de-lion
-entry	Dentaire
-entry	Dentaire. Botanique
+entry	Dent-de-chien		
+entry	Dent-de-lion		
+entry	Dentaire		
+entry	Dentaire. Botanique		
 pb	409	0409	4519483
-entry	Dentaire (Hygiène)
+entry	Dentaire (Hygiène)		
 pb	410	0410	4519484
 pb	411	0411	4519485
 pb	412	0412	4519486
@@ -437,25 +437,25 @@ pb	419	0419	4519493
 pb	420	0420	4519494
 pb	421	0421	4519495
 pb	422	0422	4519496
-entry	Dentaire (Prothèse)
+entry	Dentaire (Prothèse)		
 pb	423	0423	4519497
 pb	424	0424	4519498
 pb	425	0425	4519499
-entry	Dentaires (Artères)
+entry	Dentaires (Artères)		
 pb	426	0426	4519500
-entry	Dentaires (Nerfs)
+entry	Dentaires (Nerfs)		
 pb	427	0427	4519501
 pb	428	0428	4519502
-entry	Dentale
+entry	Dentale		
 pb	429	0429	4519503
 pb	430	0430	4519504
-entry	Denteculaï
-entry	Dentelaire (Plumbago L.)
+entry	Denteculaï		
+entry	Dentelaire (Plumbago L.)		
 pb	431	0431	4519505
-entry	Dentelés
-entry	Dentelés. Anatomie et physiologie
-orth	Dentelés. Anatomie
-orth	physiologie
+entry	Dentelés		
+entry	Dentelés. Anatomie et physiologie		
+orth	Dentelés. Anatomie		
+orth	physiologie		
 pb	432	0432	4519506
 pb	433	0433	4519507
 pb	434	0434	4519508
@@ -467,27 +467,27 @@ pb	439	0439	4519513
 pb	440	0440	4519514
 pb	441	0441	4519515
 pb	442	0442	4519516
-entry	Dentelés. Pathologie
+entry	Dentelés. Pathologie		
 pb	443	0443	4519517
 pb	444	0444	4519518
 pb	445	0445	4519519
 pb	446	0446	4519520
 pb	447	0447	4519521
-entry	Dentellières (Hygiène professionnelle)
+entry	Dentellières (Hygiène professionnelle)		
 pb	448	0448	4519522
 pb	449	0449	4519523
 pb	450	0450	4519524
-entry	Dentiers
-ref	Dentaire (Prothèse)
-entry	Dentifrices
+entry	Dentiers		
+ref	Dentaire (Prothèse)		
+entry	Dentifrices		
 pb	451	0451	4519525
 pb	452	0452	4519526
 pb	453	0453	4519527
 pb	454	0454	4519528
-entry	Dentine
-ref	Dent
-entry	Dentirostres
-entry	Dentiste
+entry	Dentine		
+ref	Dent		
+entry	Dentirostres		
+entry	Dentiste		
 pb	455	0455	4519529
 pb	456	0456	4519530
 pb	457	0457	4519531
@@ -500,7 +500,7 @@ pb	463	0463	4519537
 pb	464	0464	4519538
 pb	465	0465	4519539
 pb	466	0466	4519540
-entry	Dentition
+entry	Dentition		
 pb	467	0467	4519541
 pb	468	0468	4519542
 pb	469	0469	4519543
@@ -510,22 +510,22 @@ pb	472	0472	4519546
 pb	473	0473	4519547
 pb	474	0474	4519548
 pb	475	0475	4519549
-entry	Denyau (Les deux)
+entry	Denyau (Les deux)		
 pb	476	0476	4519550
-entry	Denys (Jacobus)
-entry	Déodactyles
+entry	Denys (Jacobus)		
+entry	Déodactyles		
 pb	477	0477	4519551
 pb	478	0478	4519552
 pb	479	0479	4519553
 pb	480	0480	4519554
-entry	Déodar
-entry	Déontologie et Dicéologie médicales
-orth	Déontologie
-orth	Dicéologie médicales
+entry	Déodar		
+entry	Déontologie et Dicéologie médicales		
+orth	Déontologie		
+orth	Dicéologie médicales		
 pb	481	0481	4519555
-entry	Déontologie et Dicéologie médicales. Coup d'oeil historique
-orth	Déontologie
-orth	Dicéologie médicales. Coup d'oeil historique
+entry	Déontologie et Dicéologie médicales. Coup d'oeil historique		
+orth	Déontologie		
+orth	Dicéologie médicales. Coup d'oeil historique		
 pb	482	0482	4519556
 pb	483	0483	4519557
 pb	484	0484	4519558
@@ -542,28 +542,28 @@ pb	494	0494	4519568
 pb	495	0495	4519569
 pb	496	0496	4519570
 pb	497	0497	4519571
-entry	Déontologie et Dicéologie médicales. Devoirs publics du médecin
-orth	Déontologie
-orth	Dicéologie médicales. Devoirs publics du médecin
+entry	Déontologie et Dicéologie médicales. Devoirs publics du médecin		
+orth	Déontologie		
+orth	Dicéologie médicales. Devoirs publics du médecin		
 pb	498	0498	4519572
 pb	499	0499	4519573
-entry	Qualités et devoirs privés du médecin
-orth	Qualités
-orth	devoirs privés du médecin
-entry	Conduite du médecin vis-à-vis de lui-même
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités extrinsèques
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités extrinsèques
+entry	Qualités et devoirs privés du médecin		
+orth	Qualités		
+orth	devoirs privés du médecin		
+entry	Conduite du médecin vis-à-vis de lui-même		
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités extrinsèques		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités extrinsèques		
 pb	500	0500	4519574
 pb	501	0501	4519575
 pb	502	0502	4519576
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités intellectuelles, littéraires et scientifiques
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités intellectuelles
-orth	littéraires
-orth	scientifiques
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités intellectuelles, littéraires et scientifiques		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités intellectuelles		
+orth	littéraires		
+orth	scientifiques		
 pb	503	0503	4519577
 pb	504	0504	4519578
 pb	505	0505	4519579
@@ -573,10 +573,10 @@ pb	508	0508	4519582
 pb	509	0509	4519583
 pb	510	0510	4519584
 pb	511	0511	4519585
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités morales
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités morales
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités morales		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de lui-même. Qualités morales		
 pb	512	0512	4519586
 pb	513	0513	4519587
 pb	514	0514	4519588
@@ -590,141 +590,141 @@ pb	521	0521	4519595
 pb	522	0522	4519596
 pb	523	0523	4519597
 pb	524	0524	4519598
-entry	Conduite du médecin vis-à-vis des clients
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Scepticisme, préjugés, idées religieuses du client, baptême du foetus
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Scepticisme
-orth	préjugés
-orth	idées religieuses du client
-orth	baptême du foetus
+entry	Conduite du médecin vis-à-vis des clients		
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Scepticisme, préjugés, idées religieuses du client, baptême du foetus		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Scepticisme		
+orth	préjugés		
+orth	idées religieuses du client		
+orth	baptême du foetus		
 pb	525	0525	4519599
 pb	526	0526	4519600
 pb	527	0527	4519601
 pb	528	0528	4519602
 pb	529	0529	4519603
 pb	530	0530	4519604
-entry	Qualités médicales
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Dévouement, activité
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Dévouement
-orth	activité
+entry	Qualités médicales		
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Dévouement, activité		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Dévouement		
+orth	activité		
 pb	531	0531	4519605
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Abnégation. Ingratitude des clients
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Abnégation. Ingratitude des clients
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Abnégation. Ingratitude des clients		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Abnégation. Ingratitude des clients		
 pb	532	0532	4519606
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Douceur, sensibilité, charité, bienfaisance
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Douceur
-orth	sensibilité
-orth	charité
-orth	bienfaisance
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Douceur, sensibilité, charité, bienfaisance		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Douceur		
+orth	sensibilité		
+orth	charité		
+orth	bienfaisance		
 pb	533	0533	4519607
 pb	534	0534	4519608
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Patience
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Patience
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Patience		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Patience		
 pb	535	0535	4519609
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Autorité, fermeté, intimidation
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Autorité
-orth	fermeté
-orth	intimidation
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Autorité, fermeté, intimidation		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Autorité		
+orth	fermeté		
+orth	intimidation		
 pb	536	0536	4519610
 pb	537	0537	4519611
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Discrétion
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Discrétion
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Discrétion		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Discrétion		
 pb	538	0538	4519612
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Prudence
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Prudence
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Prudence		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Prudence		
 pb	539	0539	4519613
 pb	540	0540	4519614
-entry	Conscience
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Nombre de visites
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Nombre de visites
+entry	Conscience		
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Nombre de visites		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Nombre de visites		
 pb	541	0541	4519615
 pb	542	0542	4519616
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Moyens thérapeutiques
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Moyens thérapeutiques
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Moyens thérapeutiques		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Moyens thérapeutiques		
 pb	543	0543	4519617
-entry	Conduite du médecin dans des cas particuliers
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Opportunité des consultations
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Opportunité des consultations
+entry	Conduite du médecin dans des cas particuliers		
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Opportunité des consultations		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Opportunité des consultations		
 pb	544	0544	4519618
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies chroniques incurables
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies chroniques incurables
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies chroniques incurables		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies chroniques incurables		
 pb	545	0545	4519619
 pb	546	0546	4519620
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Imminence de la mort ; mort confirmée
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Imminence de la mort ; mort confirmée
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Imminence de la mort ; mort confirmée		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Imminence de la mort ; mort confirmée		
 pb	547	0547	4519621
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies imaginaires, hypochondrie, névrosisme, pusillanimité
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies imaginaires
-orth	hypochondrie
-orth	névrosisme
-orth	pusillanimité
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies imaginaires, hypochondrie, névrosisme, pusillanimité		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Maladies imaginaires		
+orth	hypochondrie		
+orth	névrosisme		
+orth	pusillanimité		
 pb	548	0548	4519622
 pb	549	0549	4519623
 pb	550	0550	4519624
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Aliénation mentale
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Aliénation mentale
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Aliénation mentale		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Aliénation mentale		
 pb	551	0551	4519625
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Passions
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Passions
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Passions		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Passions		
 pb	552	0552	4519626
 pb	553	0553	4519627
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Age
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Age
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Age		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Age		
 pb	554	0554	4519628
 pb	555	0555	4519629
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Sexe
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Sexe
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Sexe		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Sexe		
 pb	556	0556	4519630
 pb	557	0557	4519631
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Avortement
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Avortement
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Avortement		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Avortement		
 pb	558	0558	4519632
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Médecin des campagnes
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Médecin des campagnes
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Médecin des campagnes		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Conduite du médecin dans des cas particuliers. Médecin des campagnes		
 pb	559	0559	4519633
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Honoraires
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Honoraires
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Honoraires		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis des clients. Qualités médicales. Honoraires		
 pb	560	0560	4519634
 pb	561	0561	4519635
 pb	562	0562	4519636
@@ -733,49 +733,49 @@ pb	564	0564	4519638
 pb	565	0565	4519639
 pb	566	0566	4519640
 pb	567	0567	4519641
-entry	Cessation d'exercice
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères
+entry	Cessation d'exercice		
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères		
 pb	568	0568	4519642
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Détournement de malades
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Détournement de malades
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Détournement de malades		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Détournement de malades		
 pb	569	0569	4519643
 pb	570	0570	4519644
 pb	571	0571	4519645
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Consultations entre confrères
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Consultations entre confrères
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Consultations entre confrères		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Consultations entre confrères		
 pb	572	0572	4519646
 pb	573	0573	4519647
 pb	574	0574	4519648
 pb	575	0575	4519649
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Cercles médicaux
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Cercles médicaux
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Cercles médicaux		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Cercles médicaux		
 pb	576	0576	4519650
 pb	577	0577	4519651
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin
-orth	Déontologie
-orth	Dicéologie médicales. Qualités
-orth	devoirs privés du médecin. Les commandements du médecin
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin		
+orth	Déontologie		
+orth	Dicéologie médicales. Qualités		
+orth	devoirs privés du médecin. Les commandements du médecin		
 pb	578	0578	4519652
 pb	579	0579	4519653
 pb	580	0580	4519654
-entry	Dépilation
-ref	Épilation
-entry	Dépilatoires
-ref	Épilatoires
+entry	Dépilation		
+ref	Épilation		
+entry	Dépilatoires		
+ref	Épilatoires		
 pb	581	0581	4519655
-entry	Déplacement (Pharmacie)
-entry	Déplacement des organes
-ref	Ectopies
-entry	Déplacements (Chirurgie)
+entry	Déplacement (Pharmacie)		
+entry	Déplacement des organes		
+ref	Ectopies		
+entry	Déplacements (Chirurgie)		
 pb	582	0582	4519656
 pb	583	0583	4519657
 pb	584	0584	4519658
@@ -795,49 +795,49 @@ pb	597	0597	4519671
 pb	598	0598	4519672
 pb	599	0599	4519673
 pb	600	0600	4519674
-entry	De Pois, ou Le Pois
-orth	De Pois
-orth	Le Pois
-ref	Le Pois (Les)
-entry	Déportation
-ref	Pénitentiaire (Système)
+entry	De Pois, ou Le Pois		
+orth	De Pois		
+orth	Le Pois		
+ref	Le Pois (Les)		
+entry	Déportation		
+ref	Pénitentiaire (Système)		
 pb	601	0601	4519675
-entry	Déposition
-entry	Dépotoirs
-ref	Fosses d'aisances et Vidanges
-entry	Depping (Georges-Bernard)
-entry	Depré (Johann-Friederich)
+entry	Déposition		
+entry	Dépotoirs		
+ref	Fosses d'aisances et Vidanges		
+entry	Depping (Georges-Bernard)		
+entry	Depré (Johann-Friederich)		
 pb	602	0602	4519676
-entry	Dépresseurs
-entry	Anatomie
-ref	Pneumogastrique et Vaso-moteurs
-entry	Chirurgie
-entry	Dépression
-entry	Dépressoir
+entry	Dépresseurs		
+entry	Anatomie		
+ref	Pneumogastrique et Vaso-moteurs		
+entry	Chirurgie		
+entry	Dépression		
+entry	Dépressoir		
 pb	603	0603	4519677
-entry	Dépuration
+entry	Dépuration		
 pb	604	0604	4519678
 pb	605	0605	4519679
 pb	606	0606	4519680
 pb	607	0607	4519681
-entry	Déradelphes
-entry	De Raet (Jean)
+entry	Déradelphes		
+entry	De Raet (Jean)		
 pb	608	0608	4519682
-entry	Derahim
-entry	Dérencéphales
-entry	De Renou (Jean)
-entry	Derham (Samuel)
-entry	Dérivation
+entry	Derahim		
+entry	Dérencéphales		
+entry	De Renou (Jean)		
+entry	Derham (Samuel)		
+entry	Dérivation		
 pb	609	0609	4519683
-entry	Dérivés chimiques
+entry	Dérivés chimiques		
 pb	610	0610	4519684
 pb	611	0611	4519685
 pb	612	0612	4519686
 pb	613	0613	4519687
 pb	614	0614	4519688
-entry	Dermalgie ou Dermatalgie
-orth	Dermalgie
-orth	Dermatalgie
+entry	Dermalgie ou Dermatalgie		
+orth	Dermalgie		
+orth	Dermatalgie		
 pb	615	0615	4519689
 pb	616	0616	4519690
 pb	617	0617	4519691
@@ -858,29 +858,29 @@ pb	631	0631	4519705
 pb	632	0632	4519706
 pb	633	0633	4519707
 pb	634	0634	4519708
-entry	Dermanysse
-entry	Dermaptères
-entry	Dermatalgie
-ref	Dermalgie
-entry	Dermatite
-ref	Peau
-entry	Dermatobie
+entry	Dermanysse		
+entry	Dermaptères		
+entry	Dermatalgie		
+ref	Dermalgie		
+entry	Dermatite		
+ref	Peau		
+entry	Dermatobie		
 pb	635	0635	4519709
 pb	636	0636	4519710
 pb	637	0637	4519711
-entry	Dermatobranches
-entry	Dermatochelys
-entry	Dermatodecte
-entry	Dermatolysie
+entry	Dermatobranches		
+entry	Dermatochelys		
+entry	Dermatodecte		
+entry	Dermatolysie		
 pb	638	0638	4519712
 pb	639	0639	4519713
-entry	Dermatomes
-ref	Peau
-entry	Dermatophile
+entry	Dermatomes		
+ref	Peau		
+entry	Dermatophile		
 pb	640	0640	4519714
-entry	Dermatoptères
-entry	Dermatoses
-entry	Dermatoses. Historique des dermatoses
+entry	Dermatoptères		
+entry	Dermatoses		
+entry	Dermatoses. Historique des dermatoses		
 pb	641	0641	4519715
 pb	642	0642	4519716
 pb	643	0643	4519717
@@ -924,7 +924,7 @@ pb	680	0680	4519754
 pb	681	0681	4519755
 pb	682	0682	4519756
 pb	683	0683	4519757
-entry	Dermatoses. Étiologie des dermatoses
+entry	Dermatoses. Étiologie des dermatoses		
 pb	684	0684	4519758
 pb	685	0685	4519759
 pb	686	0686	4519760
@@ -943,7 +943,7 @@ pb	698	0698	4519772
 pb	699	0699	4519773
 pb	700	0700	4519774
 pb	701	0701	4519775
-entry	Dermatoses. Anatomie pathologique
+entry	Dermatoses. Anatomie pathologique		
 pb	702	0702	4519776
 pb	703	0703	4519777
 pb	704	0704	4519778
@@ -956,7 +956,7 @@ pb	710	0710	4519784
 pb	711	0711	4519785
 pb	712	0712	4519786
 pb	713	0713	4519787
-entry	Dermatoses. Symptomatologie
+entry	Dermatoses. Symptomatologie		
 pb	714	0714	4519788
 pb	715	0715	4519789
 pb	716	0716	4519790
@@ -1017,5 +1017,5 @@ pb	770	0770	4519844
 pb	771	0771	4519845
 pb	[s. pag.]	0772	4519846
 pb	773	0773	4519847
-entry	Articles contenus dans le vingt-septième volume (1re série)
+entry	Articles contenus dans le vingt-septième volume (1re série)		
 pb	774	0774	4519848

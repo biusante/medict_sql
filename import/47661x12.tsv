@@ -3,13 +3,13 @@ pb	[s. pag.]	0002	5556870
 pb	[s. pag.]	0003	408418
 pb	[s. pag.]	0004	5556871
 pb	[s. pag.]	0005	408419
-entry	Lettre de l'éditeur
+entry	Lettre de l'éditeur		
 pb	[s. pag.]	0006	408420
 pb	[s. pag.]	0007	408421
 pb	[s. pag.]	0008	408422
 pb	1	0009	408423
-entry	emphraxie mésentérique
-entry	emphysème
+entry	emphraxie mésentérique		
+entry	emphysème		
 pb	2	0010	408424
 pb	3	0011	408425
 pb	4	0012	408426
@@ -42,7 +42,7 @@ pb	30	0038	408452
 pb	31	0039	408453
 pb	32	0040	408454
 pb	33	0041	408455
-entry	empirique
+entry	empirique		
 pb	34	0042	408456
 pb	35	0043	408457
 pb	36	0044	408458
@@ -51,21 +51,21 @@ pb	38	0046	408460
 pb	39	0047	408461
 pb	40	0048	408462
 pb	41	0049	408463
-entry	empirisme
+entry	empirisme		
 pb	42	0050	408464
 pb	43	0051	408465
 pb	44	0052	408466
 pb	45	0053	408467
-entry	emplastique
-entry	emplâtre
+entry	emplastique		
+entry	emplâtre		
 pb	46	0054	408468
 pb	47	0055	408469
-entry	empoisonnement
-entry	empreinte
+entry	empoisonnement		
+entry	empreinte		
 pb	48	0056	408470
-entry	emprosthotonos
+entry	emprosthotonos		
 pb	49	0057	408471
-entry	empyème
+entry	empyème		
 pb	50	0058	408472
 pb	51	0059	408473
 pb	52	0060	408474
@@ -159,21 +159,21 @@ pb	139	0147	408561
 pb	140	0148	408562
 pb	141	0149	408563
 pb	142	0150	408564
-entry	empyocèle
+entry	empyocèle		
 pb	143	0151	408565
-entry	empyomphale
-entry	empyreume
-entry	emulgent
+entry	empyomphale		
+entry	empyreume		
+entry	emulgent		
 pb	144	0152	408566
-entry	émulsif
-entry	émulsion
+entry	émulsif		
+entry	émulsion		
 pb	145	0153	408567
 pb	146	0154	408568
-entry	énarthrose
-entry	encanthis
-entry	encavure
+entry	énarthrose		
+entry	encanthis		
+entry	encavure		
 pb	147	0155	408569
-entry	encéphale
+entry	encéphale		
 pb	148	0156	408570
 pb	149	0157	408571
 pb	150	0158	408572
@@ -189,12 +189,12 @@ pb	159	0167	408581
 pb	160	0168	408582
 pb	161	0169	408583
 pb	162	0170	408584
-entry	encéphalite
+entry	encéphalite		
 pb	163	0171	408585
-entry	encéphalocèle
+entry	encéphalocèle		
 pb	164	0172	408586
 pb	165	0173	408587
-entry	encéphaloides
+entry	encéphaloides		
 pb	166	0174	408588
 pb	167	0175	408589
 pb	168	0176	408590
@@ -208,14 +208,14 @@ pb	175	0183	408597
 pb	176	0184	408598
 pb	177	0185	408599
 pb	178	0186	408600
-entry	enchiffrênement
+entry	enchiffrênement		
 pb	179	0187	408601
-entry	enclavement de la tête
+entry	enclavement de la tête		
 pb	180	0188	408602
 pb	181	0189	408603
 pb	182	0190	408604
 pb	183	0191	408605
-entry	endémique (maladie)
+entry	endémique (maladie)		
 pb	184	0192	408606
 pb	185	0193	408607
 pb	186	0194	408608
@@ -238,11 +238,11 @@ pb	202	0210	408624
 pb	203	0211	408625
 pb	204	0212	408626
 pb	205	0213	408627
-entry	endurcissement
+entry	endurcissement		
 pb	206	0214	408628
 pb	207	0215	408629
-entry	eneorème
-entry	énergie
+entry	eneorème		
+entry	énergie		
 pb	208	0216	408630
 pb	209	0217	408631
 pb	210	0218	408632
@@ -250,11 +250,11 @@ pb	211	0219	408633
 pb	212	0220	408634
 pb	213	0221	408635
 pb	214	0222	408636
-entry	enervation
+entry	enervation		
 pb	215	0223	408637
 pb	216	0224	408638
 pb	217	0225	408639
-entry	enfance
+entry	enfance		
 pb	218	0226	408640
 pb	219	0227	408641
 pb	220	0228	408642
@@ -294,7 +294,7 @@ pb	253	0261	408675
 pb	254	0262	408676
 pb	255	0263	408677
 pb	256	0264	408678
-entry	enfans (maladie des)
+entry	enfans (maladie des)		
 pb	257	0265	408679
 pb	258	0266	408680
 pb	259	0267	408681
@@ -306,7 +306,7 @@ pb	264	0272	408686
 pb	265	0273	408687
 pb	266	0274	408688
 pb	267	0275	408689
-entry	enfant trouvé (hygiène publique)
+entry	enfant trouvé (hygiène publique)		
 pb	268	0276	408690
 pb	269	0277	408691
 pb	270	0278	408692
@@ -334,7 +334,7 @@ pb	291	0299	408713
 pb	292	0300	408714
 pb	293	0301	408715
 pb	294	0302	408716
-entry	enfantement
+entry	enfantement		
 pb	295	0303	408717
 pb	296	0304	408718
 pb	297	0305	408719
@@ -345,8 +345,8 @@ pb	301	0309	408723
 pb	302	0310	408724
 pb	303	0311	408725
 pb	304	0312	408726
-entry	enflure
-entry	engastrimysme
+entry	enflure		
+entry	engastrimysme		
 pb	305	0313	408727
 pb	306	0314	408728
 pb	307	0315	408729
@@ -361,36 +361,36 @@ pb	315	0323	408737
 pb	316	0324	408738
 pb	317	0325	408739
 pb	318	0326	408740
-entry	engelure
+entry	engelure		
 pb	319	0327	408741
 pb	320	0328	408742
 pb	321	0329	408743
 pb	322	0330	408744
-entry	engorgement
+entry	engorgement		
 pb	323	0331	408745
 pb	324	0332	408746
 pb	325	0333	408747
-entry	engouement
+entry	engouement		
 pb	326	0334	408748
 pb	327	0335	408749
 pb	328	0336	408750
-entry	engourdissement
+entry	engourdissement		
 pb	329	0337	408751
 pb	330	0338	408752
 pb	331	0339	408753
 pb	332	0340	408754
 pb	333	0341	408755
 pb	334	0342	408756
-entry	engrenure
-entry	enivrant
-entry	enkysté
+entry	engrenure		
+entry	enivrant		
+entry	enkysté		
 pb	335	0343	408757
 pb	336	0344	408758
 pb	337	0345	408759
 pb	338	0346	408760
-entry	entaille
+entry	entaille		
 pb	339	0347	408761
-entry	ente animale
+entry	ente animale		
 pb	340	0348	408762
 pb	341	0349	408763
 pb	342	0350	408764
@@ -411,7 +411,7 @@ pb	356	0364	408778
 pb	357	0365	408779
 pb	358	0366	408780
 pb	359	0367	408781
-entry	entérite
+entry	entérite		
 pb	360	0368	408782
 pb	361	0369	408783
 pb	362	0370	408784
@@ -423,21 +423,21 @@ pb	367	0375	408789
 pb	368	0376	408790
 pb	369	0377	408791
 pb	370	0378	408792
-entry	entérocèle
-entry	entéro-cystocèle
-entry	entéro-épiplocèle
+entry	entérocèle		
+entry	entéro-cystocèle		
+entry	entéro-épiplocèle		
 pb	371	0379	408793
-entry	entéro-épiplomphale
-entry	entéro-hydrocèle
-entry	entéro-hydromphale
-entry	entéro-mérocèle
-entry	entéromphale
-entry	entéro-sarcocèle
-entry	entéro-ischiocèle
-entry	entérotomie
+entry	entéro-épiplomphale		
+entry	entéro-hydrocèle		
+entry	entéro-hydromphale		
+entry	entéro-mérocèle		
+entry	entéromphale		
+entry	entéro-sarcocèle		
+entry	entéro-ischiocèle		
+entry	entérotomie		
 pb	372	0380	408794
-entry	enthlasis
-entry	enthousiasme
+entry	enthlasis		
+entry	enthousiasme		
 pb	373	0381	408795
 pb	374	0382	408796
 pb	375	0383	408797
@@ -450,22 +450,22 @@ pb	381	0389	408803
 pb	382	0390	408804
 pb	383	0391	408805
 pb	384	0392	408806
-entry	entonnoir
+entry	entonnoir		
 pb	385	0393	408807
-entry	entorse
+entry	entorse		
 pb	386	0394	408808
-entry	entrailles
+entry	entrailles		
 pb	387	0395	408809
-entry	enucléation
+entry	enucléation		
 pb	388	0396	408810
-entry	énurésie
-entry	envie
+entry	énurésie		
+entry	envie		
 pb	389	0397	408811
 pb	390	0398	408812
 pb	391	0399	408813
 pb	392	0400	408814
 pb	393	0401	408815
-entry	épanchement
+entry	épanchement		
 pb	394	0402	408816
 pb	395	0403	408817
 pb	396	0404	408818
@@ -509,17 +509,17 @@ pb	433	0441	408855
 pb	434	0442	408856
 pb	435	0443	408857
 pb	436	0444	408858
-entry	épaule
+entry	épaule		
 pb	437	0445	408859
 pb	438	0446	408860
 pb	439	0447	408861
 pb	440	0448	408862
 pb	441	0449	408863
-entry	épervier
-entry	éphèbe
+entry	épervier		
+entry	éphèbe		
 pb	442	0450	408864
 pb	443	0451	408865
-entry	éphélide
+entry	éphélide		
 pb	444	0452	408866
 pb	445	0453	408867
 pb	446	0454	408868
@@ -527,10 +527,10 @@ pb	447	0455	408869
 pb	448	0456	408870
 pb	449	0457	408871
 pb	450	0458	408872
-entry	éphémère
+entry	éphémère		
 pb	451	0459	408873
 pb	452	0460	408874
-entry	éphémérides
+entry	éphémérides		
 pb	453	0461	408875
 pb	454	0462	408876
 pb	455	0463	408877
@@ -538,24 +538,24 @@ pb	456	0464	408878
 pb	457	0465	408879
 pb	458	0466	408880
 pb	459	0467	408881
-entry	éphialte
+entry	éphialte		
 pb	460	0468	408882
-entry	éphidrose
-entry	épi
+entry	éphidrose		
+entry	épi		
 pb	461	0469	408883
 pb	462	0470	408884
 pb	463	0471	408885
 pb	464	0472	408886
-entry	épiale
+entry	épiale		
 pb	465	0473	408887
-entry	épian
-entry	épicarpe
-entry	épichorion
+entry	épian		
+entry	épicarpe		
+entry	épichorion		
 pb	466	0474	408888
-entry	épicrane
+entry	épicrane		
 pb	467	0475	408889
-entry	épicrase
-entry	épidémie
+entry	épicrase		
+entry	épidémie		
 pb	468	0476	408890
 pb	469	0477	408891
 pb	470	0478	408892
@@ -581,7 +581,7 @@ pb	489	0497	408911
 pb	490	0498	408912
 pb	491	0499	408913
 pb	492	0500	408914
-entry	épidémique
+entry	épidémique		
 pb	493	0501	408915
 pb	494	0502	408916
 pb	495	0503	408917
@@ -594,22 +594,22 @@ pb	501	0509	408923
 pb	502	0510	408924
 pb	503	0511	408925
 pb	504	0512	408926
-entry	épididyme
+entry	épididyme		
 pb	505	0513	408927
-entry	épigastre
+entry	épigastre		
 pb	506	0514	408928
 pb	507	0515	408929
-entry	épigastrocèle
+entry	épigastrocèle		
 pb	508	0516	408930
-entry	épigénèse
-entry	épigennème
-entry	épiginomène
-entry	épiglotte
+entry	épigénèse		
+entry	épigennème		
+entry	épiginomène		
+entry	épiglotte		
 pb	509	0517	408931
 pb	510	0518	408932
-entry	épiglottique
-entry	épilatoire
-entry	épilepsie
+entry	épiglottique		
+entry	épilatoire		
+entry	épilepsie		
 pb	511	0519	408933
 pb	512	0520	408934
 pb	513	0521	408935
@@ -644,40 +644,40 @@ pb	541	0549	408963
 pb	542	0550	408964
 pb	543	0551	408965
 pb	544	0552	408966
-entry	épine
+entry	épine		
 pb	545	0553	408967
-entry	épineux
+entry	épineux		
 pb	546	0554	408968
-entry	épine-vinette
-entry	épingle
+entry	épine-vinette		
+entry	épingle		
 pb	547	0555	408969
-entry	épinière
-entry	épinyctide
+entry	épinière		
+entry	épinyctide		
 pb	548	0556	408970
 pb	549	0557	408971
 pb	550	0558	408972
 pb	551	0559	408973
 pb	552	0560	408974
-entry	épiphénomène
-entry	épiphora
+entry	épiphénomène		
+entry	épiphora		
 pb	553	0561	408975
 pb	554	0562	408976
 pb	555	0563	408977
-entry	épiphyse
+entry	épiphyse		
 pb	556	0564	408978
 pb	557	0565	408979
 pb	558	0566	408980
-entry	épiplocèle
+entry	épiplocèle		
 pb	559	0567	408981
 pb	560	0568	408982
 pb	561	0569	408983
-entry	épiploentérocèle
+entry	épiploentérocèle		
 pb	562	0570	408984
-entry	épiploite
+entry	épiploite		
 pb	563	0571	408985
 pb	564	0572	408986
-entry	épiplomerocèle
-entry	épiplomphale
+entry	épiplomerocèle		
+entry	épiplomphale		
 pb	565	0573	408987
 pb	566	0574	408988
 pb	567	0575	408989
@@ -693,17 +693,17 @@ pb	576	0584	408998
 pb	577	0585	408999
 pb	578	0586	409000
 pb	579	0587	409001
-entry	épiplosarcomphale
-entry	épiploschéocèle
-entry	épiploischiocèle
-entry	épischèse
-entry	épispadias
+entry	épiplosarcomphale		
+entry	épiploschéocèle		
+entry	épiploischiocèle		
+entry	épischèse		
+entry	épispadias		
 pb	580	0588	409002
 pb	581	0589	409003
 pb	582	0590	409004
 pb	583	0591	409005
 pb	584	0592	409006
-entry	épispastique
+entry	épispastique		
 pb	585	0593	409007
 pb	586	0594	409008
 pb	587	0595	409009
@@ -718,20 +718,20 @@ pb	595	0603	409017
 pb	596	0604	409018
 pb	597	0605	409019
 pb	598	0606	409020
-entry	épistase
-entry	épistaxis
+entry	épistase		
+entry	épistaxis		
 pb	599	0607	409021
 pb	600	0608	409022
 pb	601	0609	409023
 pb	602	0610	409024
 pb	603	0611	409025
 pb	604	0612	409026
-entry	épisynthétique
-entry	épithème
+entry	épisynthétique		
+entry	épithème		
 pb	605	0613	409027
 pb	606	0614	409028
 pb	607	0615	409029
 pb	608	0616	409030
 pb	609	0617	409031
-entry	épitrochlée
+entry	épitrochlée		
 pb	610	0618	409032

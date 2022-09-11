@@ -3,7 +3,7 @@ pb	[s. pag.]	0002	5556736
 pb	[s. pag.]	0003	418754
 pb	[s. pag.]	0004	5556737
 pb	1	0005	418755
-entry	long
+entry	long		
 pb	2	0006	418756
 pb	3	0007	418757
 pb	4	0008	418758
@@ -11,7 +11,7 @@ pb	5	0009	418759
 pb	6	0010	418760
 pb	7	0011	418761
 pb	8	0012	418762
-entry	longévité
+entry	longévité		
 pb	9	0013	418763
 pb	10	0014	418764
 pb	11	0015	418765
@@ -72,23 +72,23 @@ pb	65	0069	418819
 pb	66	0070	418820
 pb	67	0071	418821
 pb	68	0072	418822
-entry	looch
+entry	looch		
 pb	69	0073	418823
 pb	70	0074	418824
-entry	loquacité
+entry	loquacité		
 pb	71	0075	418825
-entry	lordose
+entry	lordose		
 pb	72	0076	418826
-entry	lotier odorant
+entry	lotier odorant		
 pb	73	0077	418827
-entry	lotion
+entry	lotion		
 pb	74	0078	418828
 pb	75	0079	418829
-entry	louche
+entry	louche		
 pb	76	0080	418830
-entry	louchette
-entry	loup
-entry	loupe
+entry	louchette		
+entry	loup		
+entry	loupe		
 pb	77	0081	418831
 pb	78	0082	418832
 pb	79	0083	418833
@@ -133,13 +133,13 @@ pb	117	0121	418871
 pb	118	0122	418872
 pb	119	0123	418873
 pb	120	0124	418874
-entry	loxarthre
-entry	lubricité
-entry	luce
+entry	loxarthre		
+entry	lubricité		
+entry	luce		
 pb	121	0125	418875
-entry	lucide
-entry	luctueux
-entry	luette
+entry	lucide		
+entry	luctueux		
+entry	luette		
 pb	122	0126	418876
 pb	123	0127	418877
 pb	124	0128	418878
@@ -147,7 +147,7 @@ pb	125	0129	418879
 pb	126	0130	418880
 pb	127	0131	418881
 pb	128	0132	418882
-entry	lumière
+entry	lumière		
 pb	129	0133	418883
 pb	130	0134	418884
 pb	131	0135	418885
@@ -203,10 +203,10 @@ pb	180	0184	418934
 pb	181	0185	418935
 pb	182	0186	418936
 pb	183	0187	418937
-entry	lunaire
+entry	lunaire		
 pb	184	0188	418938
-entry	lunatique
-entry	lune (de ses influences)
+entry	lunatique		
+entry	lune (de ses influences)		
 pb	185	0189	418939
 pb	186	0190	418940
 pb	187	0191	418941
@@ -233,7 +233,7 @@ pb	207	0211	418961
 pb	208	0212	418962
 pb	209	0213	418963
 pb	210	0214	418964
-entry	lunette
+entry	lunette		
 pb	211	0215	418965
 pb	212	0216	418966
 pb	213	0217	418967
@@ -244,22 +244,22 @@ pb	217	0221	418971
 pb	218	0222	418972
 pb	219	0223	418973
 pb	220	0224	418974
-entry	lupin
+entry	lupin		
 pb	221	0225	418975
 pb	222	0226	418976
-entry	lurde (eaux minérales de)
+entry	lurde (eaux minérales de)		
 pb	223	0227	418977
-entry	lut
+entry	lut		
 pb	224	0228	418978
 pb	225	0229	418979
-entry	lutte
+entry	lutte		
 pb	226	0230	418980
 pb	227	0231	418981
 pb	228	0232	418982
 pb	229	0233	418983
 pb	230	0234	418984
 pb	231	0235	418985
-entry	luxation
+entry	luxation		
 pb	232	0236	418986
 pb	233	0237	418987
 pb	234	0238	418988
@@ -275,13 +275,13 @@ pb	243	0247	418997
 pb	244	0248	418998
 pb	245	0249	418999
 pb	246	0250	419000
-entry	luxeuil (eaux minérales de)
-entry	lycanthropie
+entry	luxeuil (eaux minérales de)		
+entry	lycanthropie		
 pb	247	0251	419001
-entry	lycopode
+entry	lycopode		
 pb	248	0252	419002
-entry	lycorexie
-entry	lymphatique
+entry	lycorexie		
+entry	lymphatique		
 pb	249	0253	419003
 pb	250	0254	419004
 pb	251	0255	419005
@@ -322,29 +322,29 @@ pb	285	0289	419039
 pb	286	0290	419040
 pb	287	0291	419041
 pb	288	0292	419042
-entry	lymphatiques (maladies)
-entry	lymphe
+entry	lymphatiques (maladies)		
+entry	lymphe		
 pb	289	0293	419043
 pb	290	0294	419044
 pb	291	0295	419045
-entry	lymphose
-entry	lyngode
-entry	lyre
-entry	lysimachie
+entry	lymphose		
+entry	lyngode		
+entry	lyre		
+entry	lysimachie		
 pb	292	0296	419046
-entry	lysis
+entry	lysis		
 pb	293	0297	419047
-entry	macaroni
-entry	macer
+entry	macaroni		
+entry	macer		
 pb	294	0298	419048
-entry	macération
+entry	macération		
 pb	295	0299	419049
 pb	296	0300	419050
-entry	maceron
+entry	maceron		
 pb	297	0301	419051
-entry	mache
+entry	mache		
 pb	298	0302	419052
-entry	machinal
+entry	machinal		
 pb	299	0303	419053
 pb	300	0304	419054
 pb	301	0305	419055
@@ -379,7 +379,7 @@ pb	329	0333	419083
 pb	330	0334	419084
 pb	331	0335	419085
 pb	332	0336	419086
-entry	machine
+entry	machine		
 pb	333	0337	419087
 pb	334	0338	419088
 pb	335	0339	419089
@@ -423,7 +423,7 @@ pb	372	0376	419126
 pb	373	0377	419127
 pb	374	0378	419128
 pb	375	0379	419129
-entry	mâchoire
+entry	mâchoire		
 pb	376	0380	419130
 pb	377	0381	419131
 pb	378	0382	419132
@@ -475,17 +475,17 @@ pb	423	0427	419177
 pb	424	0428	419178
 pb	[s. pag.]	0429	5556738
 pb	[s. pag.]	0430	419179
-entry	mâchoire : planche I
+entry	mâchoire : planche I		
 pb	425	0431	419180
-entry	mâchoire
+entry	mâchoire		
 pb	426	0432	419181
 pb	427	0433	419182
 pb	428	0434	419183
 pb	[s. pag.]	0435	419184
-entry	mâchoire : planche II
+entry	mâchoire : planche II		
 pb	[s. pag.]	0436	5556739
 pb	429	0437	419185
-entry	mâchoire
+entry	mâchoire		
 pb	430	0438	419186
 pb	431	0439	419187
 pb	432	0440	419188
@@ -497,49 +497,49 @@ pb	437	0445	419193
 pb	438	0446	419194
 pb	439	0447	419195
 pb	440	0448	419196
-entry	macis
+entry	macis		
 pb	441	0449	419197
-entry	maçons (santé des)
+entry	maçons (santé des)		
 pb	442	0450	419198
 pb	443	0451	419199
 pb	444	0452	419200
 pb	445	0453	419201
 pb	446	0454	419202
-entry	macre
+entry	macre		
 pb	447	0455	419203
 pb	448	0456	419204
 pb	449	0457	419205
-entry	macrobiotique (art)
-entry	macrocéphale
+entry	macrobiotique (art)		
+entry	macrocéphale		
 pb	450	0458	419206
-entry	macrocosme
+entry	macrocosme		
 pb	451	0459	419207
-entry	macrophysocéphale
-entry	macule
+entry	macrophysocéphale		
+entry	macule		
 pb	452	0460	419208
-entry	madarose
-entry	madéfaction
+entry	madarose		
+entry	madéfaction		
 pb	453	0461	419209
-entry	magdaléon
+entry	magdaléon		
 pb	454	0462	419210
-entry	magicien
-entry	magicienne
-entry	magie
+entry	magicien		
+entry	magicienne		
+entry	magie		
 pb	455	0463	419211
 pb	456	0464	419212
 pb	457	0465	419213
 pb	458	0466	419214
 pb	459	0467	419215
-entry	magistère
+entry	magistère		
 pb	460	0468	419216
-entry	magistral
+entry	magistral		
 pb	461	0469	419217
-entry	magma
-entry	magnésie
+entry	magma		
+entry	magnésie		
 pb	462	0470	419218
 pb	463	0471	419219
-entry	magnétique
-entry	magnétisme animal
+entry	magnétique		
+entry	magnétisme animal		
 pb	464	0472	419220
 pb	465	0473	419221
 pb	466	0474	419222
@@ -635,13 +635,13 @@ pb	555	0563	419311
 pb	556	0564	419312
 pb	557	0565	419313
 pb	558	0566	419314
-entry	magnoliées
+entry	magnoliées		
 pb	559	0567	419315
 pb	560	0568	419316
-entry	magnolier
+entry	magnolier		
 pb	561	0569	419317
 pb	562	0570	419318
 pb	563	0571	419319
 pb	564	0572	419320
-entry	mahaleb
+entry	mahaleb		
 pb	565	0573	419321

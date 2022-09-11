@@ -1,13 +1,13 @@
 pb	[s. pag.]	0001	520578
 pb	[s. pag.]	0002	520579
-entry	Liste Germer Baillière
+entry	Liste Germer Baillière		
 pb	[s. pag.]	0003	520580
 pb	[s. pag.]	0004	520581
-entry	Avis de l'éditeur
+entry	Avis de l'éditeur		
 pb	[s. pag.]	0005	520582
 pb	[s. pag.]	0006	520583
-entry	Lettre A
-entry	Ages
+entry	Lettre A		
+entry	Ages		
 pb	2	0007	520584
 pb	3	0008	520585
 pb	4	0009	520586
@@ -23,7 +23,7 @@ pb	13	0018	520595
 pb	14	0019	520596
 pb	15	0020	520597
 pb	16	0021	520598
-entry	Aine
+entry	Aine		
 pb	17	0022	520599
 pb	18	0023	520600
 pb	19	0024	520601
@@ -45,7 +45,7 @@ pb	34	0039	520616
 pb	35	0040	520617
 pb	36	0041	520618
 pb	37	0042	520619
-entry	Air
+entry	Air		
 pb	38	0043	520620
 pb	39	0044	520621
 pb	40	0045	520622
@@ -58,13 +58,13 @@ pb	46	0051	520628
 pb	47	0052	520629
 pb	48	0053	520630
 pb	49	0054	520631
-entry	Aisselle
-entry	Allaitement
-entry	Ambulance
+entry	Aisselle		
+entry	Allaitement		
+entry	Ambulance		
 pb	50	0055	520632
 pb	51	0056	520633
 pb	52	0057	520634
-entry	Anesthésiques
+entry	Anesthésiques		
 pb	53	0058	520635
 pb	54	0059	520636
 pb	55	0060	520637
@@ -80,7 +80,7 @@ pb	64	0069	520646
 pb	65	0070	520647
 pb	66	0071	520648
 pb	67	0072	520649
-entry	Articulations
+entry	Articulations		
 pb	68	0073	520650
 pb	69	0074	520651
 pb	70	0075	520652
@@ -92,7 +92,7 @@ pb	75	0080	520657
 pb	76	0081	520658
 pb	77	0082	520659
 pb	78	0083	520660
-entry	Ascarides
+entry	Ascarides		
 pb	79	0084	520661
 pb	80	0085	520662
 pb	81	0086	520663
@@ -101,7 +101,7 @@ pb	83	0088	520665
 pb	84	0089	520666
 pb	85	0090	520667
 pb	86	0091	520668
-entry	Axillaire
+entry	Axillaire		
 pb	87	0092	520669
 pb	88	0093	520670
 pb	89	0094	520671
@@ -115,8 +115,8 @@ pb	96	0101	520678
 pb	97	0102	520679
 pb	98	0103	520680
 pb	99	0104	520681
-entry	Lettre B
-entry	Biliaires
+entry	Lettre B		
+entry	Biliaires		
 pb	100	0105	520682
 pb	101	0106	520683
 pb	102	0107	520684
@@ -126,8 +126,8 @@ pb	105	0110	520687
 pb	106	0111	520688
 pb	107	0112	520689
 pb	108	0113	520690
-entry	Lettre C
-entry	Céphalalgie
+entry	Lettre C		
+entry	Céphalalgie		
 pb	109	0114	520691
 pb	110	0115	520692
 pb	111	0116	520693
@@ -137,10 +137,10 @@ pb	114	0119	520696
 pb	115	0120	520697
 pb	116	0121	520698
 pb	117	0122	520699
-entry	Céphalagie
-entry	Chauffage et réfrigération des édifices publics
-orth	Chauffage
-orth	réfrigération des édifices publics
+entry	Céphalagie		
+entry	Chauffage et réfrigération des édifices publics		
+orth	Chauffage		
+orth	réfrigération des édifices publics		
 pb	118	0123	520700
 pb	119	0124	520701
 pb	120	0125	520702
@@ -149,7 +149,7 @@ pb	122	0127	520704
 pb	123	0128	520705
 pb	124	0129	520706
 pb	125	0130	520707
-entry	Chloroforme
+entry	Chloroforme		
 pb	126	0131	520708
 pb	127	0132	520709
 pb	128	0133	520710
@@ -157,7 +157,7 @@ pb	129	0134	520711
 pb	130	0135	520712
 pb	131	0136	520713
 pb	132	0137	520714
-entry	Cirrhose
+entry	Cirrhose		
 pb	133	0138	520715
 pb	134	0139	520716
 pb	135	0140	520717
@@ -168,7 +168,7 @@ pb	139	0144	520721
 pb	140	0145	520722
 pb	141	0146	520723
 pb	142	0147	520724
-entry	Coliques (séméiotique)
+entry	Coliques (séméiotique)		
 pb	143	0148	520725
 pb	144	0149	520726
 pb	145	0150	520727
@@ -178,12 +178,12 @@ pb	148	0153	520730
 pb	149	0154	520731
 pb	150	0155	520732
 pb	151	0156	520733
-entry	Collodion
+entry	Collodion		
 pb	152	0157	520734
 pb	153	0158	520735
 pb	154	0159	520736
 pb	155	0160	520737
-entry	Compression
+entry	Compression		
 pb	156	0161	520738
 pb	157	0162	520739
 pb	158	0163	520740
@@ -195,7 +195,7 @@ pb	163	0168	520745
 pb	164	0169	520746
 pb	165	0170	520747
 pb	166	0171	520748
-entry	Consultation
+entry	Consultation		
 pb	167	0172	520749
 pb	168	0173	520750
 pb	169	0174	520751
@@ -204,7 +204,7 @@ pb	171	0176	520753
 pb	172	0177	520754
 pb	173	0178	520755
 pb	174	0179	520756
-entry	Contagion
+entry	Contagion		
 pb	175	0180	520757
 pb	176	0181	520758
 pb	177	0182	520759
@@ -214,29 +214,29 @@ pb	180	0185	520762
 pb	181	0186	520763
 pb	182	0187	520764
 pb	183	0188	520765
-entry	Convalescence
+entry	Convalescence		
 pb	184	0189	520766
 pb	185	0190	520767
 pb	186	0191	520768
 pb	187	0192	520769
 pb	188	0193	520770
-entry	Lettre D
-entry	Délire
+entry	Lettre D		
+entry	Délire		
 pb	189	0194	520771
 pb	190	0195	520772
 pb	191	0196	520773
 pb	192	0197	520774
 pb	193	0198	520775
 pb	194	0199	520776
-entry	Désinfectants, Désintection
-orth	Désinfectants
-orth	Désintection
+entry	Désinfectants, Désintection		
+orth	Désinfectants		
+orth	Désintection		
 pb	195	0200	520777
 pb	196	0201	520778
 pb	197	0202	520779
 pb	198	0203	520780
 pb	199	0204	520781
-entry	Diabète
+entry	Diabète		
 pb	200	0205	520782
 pb	201	0206	520783
 pb	202	0207	520784
@@ -247,7 +247,7 @@ pb	206	0211	520788
 pb	207	0212	520789
 pb	208	0213	520790
 pb	209	0214	520791
-entry	Digestion
+entry	Digestion		
 pb	210	0215	520792
 pb	211	0216	520793
 pb	212	0217	520794
@@ -271,7 +271,7 @@ pb	229	0234	520811
 pb	230	0235	520812
 pb	231	0236	520813
 pb	232	0237	520814
-entry	Dyspepsie
+entry	Dyspepsie		
 pb	233	0238	520815
 pb	234	0239	520816
 pb	235	0240	520817
@@ -282,8 +282,8 @@ pb	239	0244	520821
 pb	240	0245	520822
 pb	241	0246	520823
 pb	242	0247	520824
-entry	Lettre E
-entry	Enfance
+entry	Lettre E		
+entry	Enfance		
 pb	243	0248	520825
 pb	244	0249	520826
 pb	245	0250	520827
@@ -301,15 +301,15 @@ pb	256	0261	520838
 pb	257	0262	520839
 pb	258	0263	520840
 pb	259	0264	520841
-entry	Echinocoque
+entry	Echinocoque		
 pb	260	0265	520842
 pb	261	0266	520843
 pb	262	0267	520844
 pb	263	0268	520845
 pb	264	0269	520846
 pb	265	0270	520847
-entry	Ethers
-entry	Etiologie
+entry	Ethers		
+entry	Etiologie		
 pb	266	0271	520848
 pb	267	0272	520849
 pb	268	0273	520850
@@ -318,8 +318,8 @@ pb	270	0275	520852
 pb	271	0276	520853
 pb	272	0277	520854
 pb	273	0278	520855
-entry	Lettre F
-entry	Fièvre
+entry	Lettre F		
+entry	Fièvre		
 pb	274	0279	520856
 pb	275	0280	520857
 pb	276	0281	520858
@@ -327,11 +327,11 @@ pb	277	0282	520859
 pb	278	0283	520860
 pb	279	0284	520861
 pb	280	0285	520862
-entry	Fièvre éphémère
+entry	Fièvre éphémère		
 pb	281	0286	520863
 pb	282	0287	520864
 pb	283	0288	520865
-entry	Fièvres intermittentes
+entry	Fièvres intermittentes		
 pb	284	0289	520866
 pb	285	0290	520867
 pb	286	0291	520868
@@ -339,7 +339,7 @@ pb	287	0292	520869
 pb	288	0293	520870
 pb	289	0294	520871
 pb	290	0295	520872
-entry	Flux
+entry	Flux		
 pb	291	0296	520873
 pb	292	0297	520874
 pb	293	0298	520875
@@ -349,13 +349,13 @@ pb	296	0301	520878
 pb	297	0302	520879
 pb	298	0303	520880
 pb	299	0304	520881
-entry	Formuler
+entry	Formuler		
 pb	300	0305	520882
 pb	301	0306	520883
 pb	302	0307	520884
 pb	303	0308	520885
-entry	Lettre G
-entry	Génération
+entry	Lettre G		
+entry	Génération		
 pb	304	0309	520886
 pb	305	0310	520887
 pb	306	0311	520888
@@ -366,12 +366,12 @@ pb	310	0315	520892
 pb	311	0316	520893
 pb	312	0317	520894
 pb	313	0318	520895
-entry	Gutta-percha
+entry	Gutta-percha		
 pb	314	0319	520896
 pb	315	0320	520897
 pb	316	0321	520898
-entry	Lettre H
-entry	Habitations
+entry	Lettre H		
+entry	Habitations		
 pb	317	0322	520899
 pb	318	0323	520900
 pb	319	0324	520901
@@ -381,14 +381,14 @@ pb	322	0327	520904
 pb	323	0328	520905
 pb	324	0329	520906
 pb	325	0330	520907
-entry	Haschisch
+entry	Haschisch		
 pb	326	0331	520908
 pb	327	0332	520909
 pb	328	0333	520910
 pb	329	0334	520911
 pb	330	0335	520912
 pb	331	0336	520913
-entry	Homoeopathie
+entry	Homoeopathie		
 pb	332	0337	520914
 pb	333	0338	520915
 pb	334	0339	520916
@@ -404,7 +404,7 @@ pb	343	0348	520925
 pb	344	0349	520926
 pb	345	0350	520927
 pb	346	0351	520928
-entry	Honoraires
+entry	Honoraires		
 pb	347	0352	520929
 pb	348	0353	520930
 pb	349	0354	520931
@@ -412,7 +412,7 @@ pb	350	0355	520932
 pb	351	0356	520933
 pb	352	0357	520934
 pb	353	0358	520935
-entry	Hydrothérapie
+entry	Hydrothérapie		
 pb	354	0359	520936
 pb	355	0360	520937
 pb	356	0361	520938
@@ -424,8 +424,8 @@ pb	361	0366	520943
 pb	362	0367	520944
 pb	363	0368	520945
 pb	364	0369	520946
-entry	Lettre I
-entry	Identité
+entry	Lettre I		
+entry	Identité		
 pb	365	0370	520947
 pb	366	0371	520948
 pb	367	0372	520949
@@ -433,7 +433,7 @@ pb	368	0373	520950
 pb	369	0374	520951
 pb	370	0375	520952
 pb	371	0376	520953
-entry	Inhumation
+entry	Inhumation		
 pb	372	0377	520954
 pb	373	0378	520955
 pb	374	0379	520956
@@ -441,7 +441,7 @@ pb	375	0380	520957
 pb	376	0381	520958
 pb	377	0382	520959
 pb	378	0383	520960
-entry	Interdiction des aliénés
+entry	Interdiction des aliénés		
 pb	379	0384	520961
 pb	380	0385	520962
 pb	381	0386	520963
@@ -451,20 +451,20 @@ pb	384	0389	520966
 pb	385	0390	520967
 pb	386	0391	520968
 pb	387	0392	520969
-entry	Ivresse, Ivrognerie
-orth	Ivresse
-orth	Ivrognerie
+entry	Ivresse, Ivrognerie		
+orth	Ivresse		
+orth	Ivrognerie		
 pb	388	0393	520970
 pb	389	0394	520971
 pb	390	0395	520972
-entry	Lettre K
-entry	Kinésithérapie
+entry	Lettre K		
+entry	Kinésithérapie		
 pb	391	0396	520973
 pb	392	0397	520974
 pb	393	0398	520975
 pb	394	0399	520976
-entry	Lettre M
-entry	Magnétisme animal
+entry	Lettre M		
+entry	Magnétisme animal		
 pb	395	0400	520977
 pb	396	0401	520978
 pb	397	0402	520979
@@ -478,7 +478,7 @@ pb	404	0409	520986
 pb	405	0410	520987
 pb	406	0411	520988
 pb	407	0412	520989
-entry	Maladie
+entry	Maladie		
 pb	408	0413	520990
 pb	409	0414	520991
 pb	410	0415	520992
@@ -490,7 +490,7 @@ pb	415	0420	520997
 pb	416	0421	520998
 pb	417	0422	520999
 pb	418	0423	521000
-entry	Médecin
+entry	Médecin		
 pb	419	0424	521001
 pb	420	0425	521002
 pb	421	0426	521003
@@ -500,7 +500,7 @@ pb	424	0429	521006
 pb	425	0430	521007
 pb	426	0431	521008
 pb	427	0432	521009
-entry	Méningite cérébro-spinale épidémique
+entry	Méningite cérébro-spinale épidémique		
 pb	428	0433	521010
 pb	429	0434	521011
 pb	430	0435	521012
@@ -518,7 +518,7 @@ pb	441	0446	521023
 pb	442	0447	521024
 pb	443	0448	521025
 pb	444	0449	521026
-entry	Menstruation
+entry	Menstruation		
 pb	445	0450	521027
 pb	446	0451	521028
 pb	447	0452	521029
@@ -528,7 +528,7 @@ pb	450	0455	521032
 pb	451	0456	521033
 pb	452	0457	521034
 pb	453	0458	521035
-entry	Microscope
+entry	Microscope		
 pb	454	0459	521036
 pb	455	0460	521037
 pb	456	0461	521038
@@ -563,7 +563,7 @@ pb	484	0489	521066
 pb	485	0490	521067
 pb	486	0491	521068
 pb	487	0492	521069
-entry	Mort
+entry	Mort		
 pb	488	0493	521070
 pb	489	0494	521071
 pb	490	0495	521072
@@ -583,8 +583,8 @@ pb	503	0508	521085
 pb	504	0509	521086
 pb	505	0510	521087
 pb	506	0511	521088
-entry	Lettre N
-entry	Nourrice
+entry	Lettre N		
+entry	Nourrice		
 pb	507	0512	521089
 pb	508	0513	521090
 pb	509	0514	521091
@@ -595,8 +595,8 @@ pb	513	0518	521095
 pb	514	0519	521096
 pb	515	0520	521097
 pb	516	0521	521098
-entry	Lettre O
-entry	Oeuf humain
+entry	Lettre O		
+entry	Oeuf humain		
 pb	517	0522	521099
 pb	518	0523	521100
 pb	519	0524	521101
@@ -618,7 +618,7 @@ pb	534	0539	521116
 pb	535	0540	521117
 pb	536	0541	521118
 pb	537	0542	521119
-entry	Opérations
+entry	Opérations		
 pb	538	0543	521120
 pb	539	0544	521121
 pb	540	0545	521122
@@ -628,7 +628,7 @@ pb	543	0548	521125
 pb	544	0549	521126
 pb	545	0550	521127
 pb	546	0551	521128
-entry	Os
+entry	Os		
 pb	547	0552	521129
 pb	548	0553	521130
 pb	549	0554	521131
@@ -643,7 +643,7 @@ pb	557	0562	521139
 pb	558	0563	521140
 pb	559	0564	521141
 pb	560	0565	521142
-entry	Ostéogénie
+entry	Ostéogénie		
 pb	561	0566	521143
 pb	562	0567	521144
 pb	563	0568	521145
@@ -659,8 +659,8 @@ pb	572	0577	521154
 pb	573	0578	521155
 pb	574	0579	521156
 pb	575	0580	521157
-entry	Lettre P
-entry	Pansements
+entry	Lettre P		
+entry	Pansements		
 pb	576	0581	521158
 pb	577	0582	521159
 pb	578	0583	521160
@@ -682,7 +682,7 @@ pb	593	0598	521175
 pb	594	0599	521176
 pb	595	0600	521177
 pb	596	0601	521178
-entry	Paralysie générale progressive
+entry	Paralysie générale progressive		
 pb	597	0602	521179
 pb	598	0603	521180
 pb	599	0604	521181
@@ -695,7 +695,7 @@ pb	605	0610	521187
 pb	606	0611	521188
 pb	607	0612	521189
 pb	608	0613	521190
-entry	Pellagre
+entry	Pellagre		
 pb	609	0614	521191
 pb	610	0615	521192
 pb	611	0616	521193
@@ -705,7 +705,7 @@ pb	614	0619	521196
 pb	615	0620	521197
 pb	616	0621	521198
 pb	617	0622	521199
-entry	Phrénologie
+entry	Phrénologie		
 pb	618	0623	521200
 pb	619	0624	521201
 pb	620	0625	521202
@@ -715,12 +715,12 @@ pb	623	0628	521205
 pb	624	0629	521206
 pb	625	0630	521207
 pb	626	0631	521208
-entry	Poids et mesures
-orth	Poids
-orth	mesures
+entry	Poids et mesures		
+orth	Poids		
+orth	mesures		
 pb	627	0632	521209
 pb	628	0633	521210
-entry	Pouls
+entry	Pouls		
 pb	629	0634	521211
 pb	630	0635	521212
 pb	631	0636	521213
@@ -735,9 +735,9 @@ pb	639	0644	521221
 pb	640	0645	521222
 pb	641	0646	521223
 pb	642	0647	521224
-entry	Priapisme
+entry	Priapisme		
 pb	643	0648	521225
-entry	Pronostic
+entry	Pronostic		
 pb	644	0649	521226
 pb	645	0650	521227
 pb	646	0651	521228
@@ -747,7 +747,7 @@ pb	649	0654	521231
 pb	650	0655	521232
 pb	651	0656	521233
 pb	652	0657	521234
-entry	Purulente (infection)
+entry	Purulente (infection)		
 pb	653	0658	521235
 pb	654	0659	521236
 pb	655	0660	521237
@@ -765,18 +765,18 @@ pb	666	0671	521248
 pb	667	0672	521249
 pb	668	0673	521250
 pb	669	0674	521251
-entry	Pus
+entry	Pus		
 pb	670	0675	521252
 pb	671	0676	521253
 pb	672	0677	521254
 pb	673	0678	521255
 pb	674	0679	521256
-entry	Putréfraction
+entry	Putréfraction		
 pb	675	0680	521257
 pb	676	0681	521258
 pb	677	0682	521259
-entry	Lettre Q
-entry	Quarantaine
+entry	Lettre Q		
+entry	Quarantaine		
 pb	678	0683	521260
 pb	679	0684	521261
 pb	680	0685	521262
@@ -786,13 +786,13 @@ pb	683	0688	521265
 pb	684	0689	521266
 pb	685	0690	521267
 pb	686	0691	521268
-entry	Lettre R
-entry	Rapport (médecine légale)
+entry	Lettre R		
+entry	Rapport (médecine légale)		
 pb	687	0692	521269
 pb	688	0693	521270
 pb	689	0694	521271
 pb	690	0695	521272
-entry	Recrutement militaire
+entry	Recrutement militaire		
 pb	691	0696	521273
 pb	692	0697	521274
 pb	693	0698	521275
@@ -817,12 +817,12 @@ pb	711	0716	521293
 pb	712	0717	521294
 pb	713	0718	521295
 pb	714	0719	521296
-entry	Révulsion
+entry	Révulsion		
 pb	715	0720	521297
 pb	716	0721	521298
 pb	717	0722	521299
 pb	718	0723	521300
-entry	Rotule
+entry	Rotule		
 pb	719	0724	521301
 pb	720	0725	521302
 pb	721	0726	521303
@@ -841,8 +841,8 @@ pb	733	0738	521315
 pb	734	0739	521316
 pb	735	0740	521317
 pb	736	0741	521318
-entry	Lettre S
-entry	Sang
+entry	Lettre S		
+entry	Sang		
 pb	737	0742	521319
 pb	738	0743	521320
 pb	739	0744	521321
@@ -853,20 +853,20 @@ pb	743	0748	521325
 pb	744	0749	521326
 pb	745	0750	521327
 pb	746	0751	521328
-entry	Satyriasis
+entry	Satyriasis		
 pb	747	0752	521329
-entry	Somnanbulisme
-entry	Sternum
+entry	Somnanbulisme		
+entry	Sternum		
 pb	748	0753	521330
 pb	749	0754	521331
 pb	750	0755	521332
 pb	751	0756	521333
-entry	Stupidité
+entry	Stupidité		
 pb	752	0757	521334
 pb	753	0758	521335
 pb	754	0759	521336
 pb	755	0760	521337
-entry	Submersion
+entry	Submersion		
 pb	756	0761	521338
 pb	757	0762	521339
 pb	758	0763	521340
@@ -874,7 +874,7 @@ pb	759	0764	521341
 pb	760	0765	521342
 pb	761	0766	521343
 pb	762	0767	521344
-entry	Suicide
+entry	Suicide		
 pb	763	0768	521345
 pb	764	0769	521346
 pb	765	0770	521347
@@ -898,16 +898,16 @@ pb	782	0787	521364
 pb	783	0788	521365
 pb	784	0789	521366
 pb	785	0790	521367
-entry	Superfétation
+entry	Superfétation		
 pb	786	0791	521368
 pb	787	0792	521369
-entry	Survie
+entry	Survie		
 pb	788	0793	521370
 pb	789	0794	521371
 pb	790	0795	521372
-entry	Suspension et strangulation
-orth	Suspension
-orth	strangulation
+entry	Suspension et strangulation		
+orth	Suspension		
+orth	strangulation		
 pb	791	0796	521373
 pb	792	0797	521374
 pb	793	0798	521375
@@ -922,14 +922,14 @@ pb	801	0806	521383
 pb	802	0807	521384
 pb	803	0808	521385
 pb	804	0809	521386
-entry	Lettre T
-entry	Taches
+entry	Lettre T		
+entry	Taches		
 pb	805	0810	521387
 pb	806	0811	521388
 pb	807	0812	521389
 pb	808	0813	521390
 pb	809	0814	521391
-entry	Taenia
+entry	Taenia		
 pb	810	0815	521392
 pb	811	0816	521393
 pb	812	0817	521394
@@ -941,7 +941,7 @@ pb	817	0822	521399
 pb	818	0823	521400
 pb	819	0824	521401
 pb	820	0825	521402
-entry	Tubercules
+entry	Tubercules		
 pb	821	0826	521403
 pb	822	0827	521404
 pb	823	0828	521405
@@ -952,8 +952,8 @@ pb	827	0832	521409
 pb	828	0833	521410
 pb	829	0834	521411
 pb	830	0835	521412
-entry	Lettre U
-entry	Urinaires (maladies des voies)
+entry	Lettre U		
+entry	Urinaires (maladies des voies)		
 pb	831	0836	521413
 pb	832	0837	521414
 pb	833	0838	521415
@@ -984,8 +984,8 @@ pb	857	0862	521439
 pb	858	0863	521440
 pb	859	0864	521441
 pb	860	0865	521442
-entry	Lettre V
-entry	Ventilation
+entry	Lettre V		
+entry	Ventilation		
 pb	861	0866	521443
 pb	862	0867	521444
 pb	863	0868	521445
@@ -993,10 +993,10 @@ pb	864	0869	521446
 pb	865	0870	521447
 pb	866	0871	521448
 pb	867	0872	521449
-entry	Viabilité
+entry	Viabilité		
 pb	868	0873	521450
 pb	869	0874	521451
-entry	Vieillesse (maladie de la)
+entry	Vieillesse (maladie de la)		
 pb	870	0875	521452
 pb	871	0876	521453
 pb	872	0877	521454
@@ -1030,71 +1030,71 @@ pb	899	0904	521481
 pb	900	0905	521482
 pb	901	0906	521483
 pb	[s. pag.]	0907	521484
-entry	Table alphabétique at analytique des matières
-entry	A
+entry	Table alphabétique at analytique des matières		
+entry	A		
 pb	903	0908	521485
 pb	904	0909	521486
 pb	905	0910	521487
 pb	906	0911	521488
-entry	B
+entry	B		
 pb	907	0912	521489
 pb	908	0913	521490
-entry	C
+entry	C		
 pb	909	0914	521491
 pb	910	0915	521492
 pb	911	0916	521493
 pb	912	0917	521494
 pb	913	0918	521495
-entry	D
+entry	D		
 pb	914	0919	521496
 pb	915	0920	521497
-entry	E
+entry	E		
 pb	916	0921	521498
 pb	917	0922	521499
-entry	F
+entry	F		
 pb	918	0923	521500
 pb	919	0924	521501
-entry	G
+entry	G		
 pb	920	0925	521502
 pb	921	0926	521503
-entry	H
+entry	H		
 pb	922	0927	521504
 pb	923	0928	521505
-entry	I
+entry	I		
 pb	924	0929	521506
 pb	925	0930	521507
-entry	J
-entry	K
-entry	L
+entry	J		
+entry	K		
+entry	L		
 pb	926	0931	521508
 pb	927	0932	521509
-entry	M
+entry	M		
 pb	928	0933	521510
 pb	929	0934	521511
-entry	N
+entry	N		
 pb	930	0935	521512
-entry	O
+entry	O		
 pb	931	0936	521513
-entry	P
+entry	P		
 pb	932	0937	521514
 pb	933	0938	521515
 pb	934	0939	521516
 pb	935	0940	521517
-entry	Q
-entry	R
+entry	Q		
+entry	R		
 pb	936	0941	521518
 pb	937	0942	521519
-entry	S
+entry	S		
 pb	938	0943	521520
 pb	939	0944	521521
-entry	T
+entry	T		
 pb	940	0945	521522
 pb	941	0946	521523
-entry	U
+entry	U		
 pb	942	0947	521524
-entry	V
+entry	V		
 pb	943	0948	521525
 pb	944	0949	521526
-entry	X
-entry	Y
-entry	Z
+entry	X		
+entry	Y		
+entry	Z		

@@ -441,9 +441,14 @@ class Medict
      */
     public static function tsv_write($file, $data)
     {
+        $width = 4;
         $out = fopen($file, 'w');
-        foreach ($data as $line) {
-            $line = implode("\t", $line) . "\n";
+        foreach ($data as $row) {
+            $c = count($row);
+            $line = '';
+            $line .= implode("\t", $row);
+            $line .= substr("\t\t\t\t\t\t", 0, $width - $c);
+            $line .= "\n";
             fwrite($out, $line);
         }
         fclose($out);

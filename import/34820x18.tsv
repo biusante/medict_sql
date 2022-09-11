@@ -2,12 +2,12 @@ pb	[s. pag.]	0001	470487
 pb	[s. pag.]	0002	470488
 pb	[s. pag.]	0003	470489
 pb	[s. pag.]	0004	470490
-entry	Légumineuses
+entry	Légumineuses		
 pb	2	0005	470491
 pb	3	0006	470492
 pb	4	0007	470493
 pb	5	0008	470494
-entry	Lèpre
+entry	Lèpre		
 pb	6	0009	470495
 pb	7	0010	470496
 pb	8	0011	470497
@@ -26,10 +26,10 @@ pb	20	0023	470509
 pb	21	0024	470510
 pb	22	0025	470511
 pb	23	0026	470512
-entry	Lethargie
-entry	Leucophlegmatie
-entry	Leucoma
-entry	Leucorrhée
+entry	Lethargie		
+entry	Leucophlegmatie		
+entry	Leucoma		
+entry	Leucorrhée		
 pb	24	0027	470513
 pb	25	0028	470514
 pb	26	0029	470515
@@ -52,11 +52,11 @@ pb	42	0045	470531
 pb	43	0046	470532
 pb	44	0047	470533
 pb	45	0048	470534
-entry	Levier
+entry	Levier		
 pb	46	0049	470535
 pb	47	0050	470536
 pb	48	0051	470537
-entry	Lèvres
+entry	Lèvres		
 pb	49	0052	470538
 pb	50	0053	470539
 pb	51	0054	470540
@@ -72,7 +72,7 @@ pb	60	0063	470549
 pb	61	0064	470550
 pb	62	0065	470551
 pb	63	0066	470552
-entry	Liberté morale
+entry	Liberté morale		
 pb	64	0067	470553
 pb	65	0068	470554
 pb	66	0069	470555
@@ -83,7 +83,7 @@ pb	70	0073	470559
 pb	71	0074	470560
 pb	72	0075	470561
 pb	73	0076	470562
-entry	Lichen
+entry	Lichen		
 pb	74	0077	470563
 pb	75	0078	470564
 pb	76	0079	470565
@@ -104,12 +104,12 @@ pb	90	0093	470579
 pb	91	0094	470580
 pb	92	0095	470581
 pb	93	0096	470582
-entry	Lichenées
+entry	Lichenées		
 pb	94	0097	470583
-entry	Lierre
+entry	Lierre		
 pb	95	0098	470584
 pb	96	0099	470585
-entry	Ligature
+entry	Ligature		
 pb	97	0100	470586
 pb	98	0101	470587
 pb	99	0102	470588
@@ -128,30 +128,30 @@ pb	111	0114	470600
 pb	112	0115	470601
 pb	113	0116	470602
 pb	114	0117	470603
-entry	Liliacées
+entry	Liliacées		
 pb	115	0118	470604
-entry	Limon
+entry	Limon		
 pb	116	0119	470605
-entry	Limonade
+entry	Limonade		
 pb	117	0120	470606
-entry	Lin
+entry	Lin		
 pb	118	0121	470607
-entry	Limacées
-entry	Liniment
+entry	Limacées		
+entry	Liniment		
 pb	119	0122	470608
 pb	120	0123	470609
-entry	Lipome
-entry	Lipothymie
-entry	Liqueur minerale d'hoffmann
-entry	Liquidambar
+entry	Lipome		
+entry	Lipothymie		
+entry	Liqueur minerale d'hoffmann		
+entry	Liquidambar		
 pb	121	0124	470610
-entry	Liseron
+entry	Liseron		
 pb	122	0125	470611
-entry	Lithontriptique
-entry	Lithotomie
-entry	Lithotritie ou Lithotrypsie
-orth	Lithotritie
-orth	Lithotrypsie
+entry	Lithontriptique		
+entry	Lithotomie		
+entry	Lithotritie ou Lithotrypsie		
+orth	Lithotritie		
+orth	Lithotrypsie		
 pb	123	0126	470612
 pb	124	0127	470613
 pb	125	0128	470614
@@ -204,16 +204,16 @@ pb	171	0174	470660
 pb	172	0175	470661
 pb	173	0176	470662
 pb	174	0177	470663
-entry	Lobelie
+entry	Lobelie		
 pb	175	0178	470664
-entry	Localites
-entry	Lochies
+entry	Localites		
+entry	Lochies		
 pb	176	0179	470665
 pb	177	0180	470666
 pb	178	0181	470667
 pb	179	0182	470668
 pb	180	0183	470669
-entry	Locomotion
+entry	Locomotion		
 pb	181	0184	470670
 pb	182	0185	470671
 pb	183	0186	470672
@@ -227,24 +227,24 @@ pb	190	0193	470679
 pb	191	0194	470680
 pb	192	0195	470681
 pb	193	0196	470682
-entry	Lombrics
-entry	Looch
+entry	Lombrics		
+entry	Looch		
 pb	194	0197	470683
 pb	195	0198	470684
-entry	Louesche
+entry	Louesche		
 pb	196	0199	470685
 pb	197	0200	470686
 pb	198	0201	470687
-entry	Loupe
+entry	Loupe		
 pb	199	0202	470688
 pb	200	0203	470689
 pb	201	0204	470690
 pb	202	0205	470691
-entry	Lucques
+entry	Lucques		
 pb	203	0206	470692
-entry	Luette
-entry	Lumbago
-entry	Lumière
+entry	Luette		
+entry	Lumbago		
+entry	Lumière		
 pb	204	0207	470693
 pb	205	0208	470694
 pb	206	0209	470695
@@ -277,8 +277,8 @@ pb	232	0235	470721
 pb	233	0236	470722
 pb	234	0237	470723
 pb	235	0238	470724
-entry	Lupuline
-entry	Lupus
+entry	Lupuline		
+entry	Lupus		
 pb	236	0239	470725
 pb	237	0240	470726
 pb	238	0241	470727
@@ -298,7 +298,7 @@ pb	251	0254	470740
 pb	252	0255	470741
 pb	253	0256	470742
 pb	254	0257	470743
-entry	Luxations
+entry	Luxations		
 pb	255	0258	470744
 pb	256	0259	470745
 pb	257	0260	470746
@@ -330,11 +330,11 @@ pb	282	0285	470771
 pb	283	0286	470772
 pb	284	0287	470773
 pb	285	0288	470774
-entry	Luxeuil
+entry	Luxeuil		
 pb	286	0289	470775
 pb	287	0290	470776
 pb	288	0291	470777
-entry	Lymphatiques
+entry	Lymphatiques		
 pb	289	0292	470778
 pb	290	0293	470779
 pb	291	0294	470780
@@ -440,9 +440,9 @@ pb	390	0393	470879
 pb	391	0394	470880
 pb	392	0395	470881
 pb	[s. pag.]	0396	470882
-entry	Lettre M
-entry	Machines
-entry	Machoires
+entry	Lettre M		
+entry	Machines		
+entry	Machoires		
 pb	394	0397	470883
 pb	395	0398	470884
 pb	396	0399	470885
@@ -504,13 +504,13 @@ pb	451	0454	470940
 pb	452	0455	470941
 pb	453	0456	470942
 pb	454	0457	470943
-entry	Magnésie
+entry	Magnésie		
 pb	455	0458	470944
 pb	456	0459	470945
 pb	457	0460	470946
 pb	458	0461	470947
 pb	459	0462	470948
-entry	Magnétisme animal
+entry	Magnétisme animal		
 pb	460	0463	470949
 pb	461	0464	470950
 pb	462	0465	470951
@@ -537,10 +537,10 @@ pb	482	0485	470971
 pb	483	0486	470972
 pb	484	0487	470973
 pb	485	0488	470974
-entry	Magnoliacées
+entry	Magnoliacées		
 pb	486	0489	470975
-entry	Migreur
-entry	Main
+entry	Migreur		
+entry	Main		
 pb	487	0490	470976
 pb	488	0491	470977
 pb	489	0492	470978
@@ -620,13 +620,13 @@ pb	562	0565	471051
 pb	563	0566	471052
 pb	564	0567	471053
 pb	565	0568	471054
-entry	Maïs
+entry	Maïs		
 pb	566	0569	471055
 pb	567	0570	471056
 pb	568	0571	471057
-entry	Main
-entry	Mal de mer
-entry	Maladie
+entry	Main		
+entry	Mal de mer		
+entry	Maladie		
 pb	569	0572	471058
 pb	570	0573	471059
 pb	571	0574	471060
@@ -645,11 +645,11 @@ pb	583	0586	471072
 pb	584	0587	471073
 pb	585	0588	471074
 pb	586	0589	471075
-entry	Maligne
-entry	Malvacées
+entry	Maligne		
+entry	Malvacées		
 pb	587	0590	471076
 pb	[s. pag.]	0591	471077
-entry	Table des principaux articles contenus dans ce volume
+entry	Table des principaux articles contenus dans ce volume		
 pb	[s. pag.]	0592	471078
-entry	Table alphabétique des matières
+entry	Table alphabétique des matières		
 pb	592	0593	471079

@@ -556,8 +556,6 @@ class Medict
                     || startsWith($cote, 'pharma_013686')
                     // Liste des plantes observées au Mont d'Or, au Puy de Domme, & au Cantal, par M. le Monnier. 
                     || startsWith($cote, 'pharma_019127') 
-                    // Le pois à merveilles, à fruit noir. 
-                    || startsWith($cote, 'pharma_019128') 
                     || startsWith($cote, '146144')
                     //  Pilules hydragogues de M. Janin, oculiste de Lyon
                     || startsWith($cote, 'extbnfrivet') 

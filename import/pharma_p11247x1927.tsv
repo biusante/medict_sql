@@ -1,6 +1,8 @@
 pb	sn	0001	7720238
+entry	[Plat]		
 pb	pb	0002	7720239
 pb	sn	0003	7720240
+entry	[Page de titre]		
 pb	sn	0004	7720241
 entry	1re Partie. Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
 pb	sn	0005	7720242
@@ -194,7 +196,7 @@ entry	Backérine
 entry	Bain Carré		
 pb	54	0080	7720317
 entry	Bakolyse		
-entry	Ballotyl		
+entry	Le Ballotyl		
 pb	55	0081	7720318
 entry	Balsamol Lescène		
 entry	Banikol. Procédé André Lancien		
@@ -704,7 +706,7 @@ entry	Gouttes de Sérû
 pb	250	0276	7720513
 entry	Grains de Vals		
 pb	251	0277	7720514
-entry	Granions de Fouard		
+entry	Les Granions de Fouard		
 pb	252	0278	7720515
 entry	Granulé Caresmel		
 entry	Granulé-dépuratif végétal du Docteur A. Künckel		
@@ -1276,7 +1278,7 @@ entry	Quinoïdine Duriez
 pb	479	0503	7720740
 entry	Quinsal		
 pb	480	0504	7720741
-entry	Quotidien		
+entry	Le Quotidien		
 pb	481	0505	7720742
 entry	Radiolysine		
 entry	Radiopaque Heudebert		
@@ -1673,7 +1675,7 @@ entry	Vitamine Rogier
 pb	635	0659	7720896
 entry	Vulcase		
 pb	636	0660	7720897
-entry	Yaourtine		
+entry	La Yaourtine		
 pb	637	0661	7720898
 entry	Zaryl (ancien Myrrh). Procédé André Lancien		
 entry	Zimbyl. Procédé André Lancien		
@@ -1740,3 +1742,4 @@ pb	693	0717	7720954
 pb	694	0718	7720955
 pb	pb	0719	7720956
 pb	sn	0720	7720957
+entry	[Plat]		

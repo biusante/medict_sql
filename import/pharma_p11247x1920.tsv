@@ -1,6 +1,8 @@
 pb	sn	0001	7717864
+entry	[Plat]		
 pb	pb	0002	7717865
 pb	sn	0003	7717866
+entry	[Page de titre]		
 pb	pb	0004	7717867
 pb	sn	0005	7717868
 entry	Introduction		
@@ -180,7 +182,7 @@ pb	97	0099	7717962
 entry	Colloïdes		
 pb	98	0100	7717963
 entry	Collosol simple		
-entry	Collosols médicamenteux		
+entry	Les Collosols médicamenteux		
 pb	99	0101	7717964
 entry	Collothiol		
 pb	100	0102	7717965
@@ -721,3 +723,4 @@ pb	314	0316	7718179
 entry	Voies génito-urinaires (reins, vessie, urèthre, testicules, etc...)		
 pb	sn	0317	7718180
 pb	sn	0318	7718181
+entry	[Plat]		

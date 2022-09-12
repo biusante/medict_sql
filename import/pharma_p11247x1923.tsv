@@ -1,6 +1,8 @@
 pb	sn	0001	7718520
+entry	[Plat]		
 pb	pb	0002	7718521
 pb	sn	0003	7718522
+entry	[Page de titre]		
 pb	pb	0004	7718523
 pb	sn	0005	7718524
 entry	1re Partie. Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
@@ -139,7 +141,7 @@ entry	Antiasthme Bengalais
 entry	Antigrippine Midy		
 pb	22	0060	7718579
 entry	Antiphlogistine		
-entry	antirroïde		
+entry	L'antirroïde		
 pb	23	0061	7718580
 entry	Antiurique de Contrexéville		
 entry	Antodyne		
@@ -741,7 +743,7 @@ entry	Néo-Dmetys
 pb	244	0282	7718801
 entry	Néol. Néolides		
 pb	245	0283	7718802
-entry	néolyse		
+entry	La néolyse		
 entry	Néoplalysines du Docteur Riquoir		
 pb	246	0284	7718803
 entry	Néo-Rhomnol		
@@ -1061,7 +1063,7 @@ pb	369	0407	7718926
 entry	Silisode		
 pb	370	0408	7718927
 entry	Sinahin		
-entry	sinaplasme		
+entry	Le sinaplasme		
 pb	371	0409	7718928
 entry	Sinrénaline Dehaussy		
 entry	Sirop Auzes		
@@ -1273,7 +1275,7 @@ entry	Vin Girard
 entry	Vitamyl		
 pb	452	0488	7719007
 entry	Xémaderm		
-entry	Yaourtine		
+entry	La Yaourtine		
 pb	453	0489	7719008
 entry	Zohol		
 entry	Zymatine Lescène		
@@ -1333,3 +1335,4 @@ pb	505	0541	7719060
 pb	506	0542	7719061
 pb	pb	0543	7719062
 pb	sn	0544	7719063
+entry	[Plat]		

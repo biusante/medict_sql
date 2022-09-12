@@ -1,5 +1,7 @@
 pb	[s. pag.]	0001	437259
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	437260
+entry	[Page de titre]		
 pb	1	0003	437261
 entry	Lacération		
 pb	2	0004	437262
@@ -934,7 +936,8 @@ entry	Yves
 entry	(Charles de Saint-)		
 entry	Zigoma		
 pb	499	0493	437751
-entry	 Table des matières contenues dans tout l'ouvrage		
+entry	[Index] Table des matières contenues dans tout l'ouvrage		
+orth	Table des matières contenues dans tout l'ouvrage		
 pb	500	0494	437752
 pb	501	0495	437753
 pb	502	0496	437754
@@ -1015,6 +1018,7 @@ pb	6	0565	437823
 pb	7	0566	437824
 pb	8	0567	437825
 pb	9	0568	437826
+entry	[Explication des planches]		
 pb	10	0569	437827
 pb	11	0570	437828
 pb	12	0571	437829

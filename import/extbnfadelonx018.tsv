@@ -1,23 +1,27 @@
 pb	[s. pag.]	0001	4816870
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4816871
 pb	[s. pag.]	0003	4816872
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4816873
 pb	1	0005	4816874
 entry	Psellisme		
-entry	Pseudo-membrane ou Fausse membrane		
+entry	Pseudo-membrane ou Fausse membrane [Andral fils]		
 orth	Pseudo-membrane		
 orth	Fausse membrane		
 pb	2	0006	4816875
 pb	3	0007	4816876
 pb	4	0008	4816877
 pb	5	0009	4816878
-entry	Psoas		
+entry	Psoas [Marjolin]		
+orth	Psoas		
 pb	6	0010	4816879
-entry	Psoite ou Psoitis		
+entry	Psoite ou Psoitis [G. Ferrus]		
 orth	Psoite		
 orth	Psoitis		
 pb	7	0011	4816880
-entry	Psoriasis		
+entry	Psoriasis [P. Rayer]		
+orth	Psoriasis		
 pb	8	0012	4816881
 pb	9	0013	4816882
 pb	10	0014	4816883
@@ -35,10 +39,13 @@ pb	21	0025	4816894
 entry	Psorique		
 entry	Psychologie		
 entry	Psydracium		
-entry	Psyllium		
-entry	Ptarmique		
+entry	Psyllium [A. Richard]		
+orth	Psyllium		
+entry	Ptarmique [A. Richard]		
+orth	Ptarmique		
 pb	22	0026	4816895
-entry	Ptérygion		
+entry	Ptérygion [Jules Cloquet]		
+orth	Ptérygion		
 pb	23	0027	4816896
 pb	24	0028	4816897
 entry	Ptérygoïde		
@@ -46,31 +53,39 @@ entry	Ptérygoïdien
 pb	25	0029	4816898
 entry	Ptérygo-maxillaire		
 entry	Ptérygo-pharingien		
-entry	Ptérygo-staphylin		
+entry	Ptérygo-staphylin [Marjolin]		
+orth	Ptérygo-staphylin		
 entry	Ptyalisme		
 pb	26	0030	4816899
-entry	Puberté		
+entry	Puberté [Rullier]		
+orth	Puberté		
 pb	27	0031	4816900
 pb	28	0032	4816901
 entry	Pubien, ne		
 orth	Pubien		
 pb	29	0033	4816902
-entry	Pubis		
+entry	Pubis [Marjolin]		
+orth	Pubis		
 entry	Pudendagre		
 pb	30	0034	4816903
 entry	Pudendum		
-entry	Puerpéral		
-entry	Pulmonaire		
+entry	Puerpéral [Desormeaux]		
+orth	Puerpéral		
+entry	Pulmonaire [A. Richard]		
+orth	Pulmonaire		
 pb	31	0035	4816904
-entry	Pulmonaire		
+entry	Pulmonaire [Marjolin]		
+orth	Pulmonaire		
 pb	32	0036	4816905
 pb	33	0037	4816906
 entry	Pulmonie		
 entry	Pulmonique		
 entry	Pulpe		
 entry	Pulsatif		
-entry	Pulsatille		
-entry	Pulsation		
+entry	Pulsatille [A. Richard]		
+orth	Pulsatille		
+entry	Pulsation [Rochoux]		
+orth	Pulsation		
 pb	34	0038	4816907
 entry	Pultacé		
 entry	Punais		
@@ -80,15 +95,17 @@ orth	Puogénie
 orth	Pyogénie		
 pb	35	0039	4816908
 entry	Pupillaire		
-entry	Pupille ou Prunelle		
+entry	Pupille ou Prunelle [Marjolin]		
 orth	Pupille		
 orth	Prunelle		
-entry	Pupille artificielle		
+entry	Pupille artificielle [Jules Cloquet]		
+orth	Pupille artificielle		
 pb	36	0040	4816909
 pb	37	0041	4816910
 pb	38	0042	4816911
 pb	39	0043	4816912
-entry	Purgatif		
+entry	Purgatif [Guersent]		
+orth	Purgatif		
 pb	40	0044	4816913
 pb	41	0045	4816914
 pb	42	0046	4816915
@@ -104,9 +121,11 @@ pb	51	0055	4816924
 pb	52	0056	4816925
 entry	Purgation		
 entry	Puriforme		
-entry	Purpurique (acide)		
+entry	Purpurique (acide) [Orfila]		
+orth	Purpurique (acide)		
 entry	Purulent		
-entry	Pus		
+entry	Pus [Andral fils]		
+orth	Pus		
 pb	53	0057	4816926
 pb	54	0058	4816927
 pb	55	0059	4816928
@@ -114,7 +133,8 @@ pb	56	0060	4816929
 pb	57	0061	4816930
 entry	Pustule		
 pb	58	0062	4816931
-entry	Pustule maligne		
+entry	Pustule maligne [Rochoux]		
+orth	Pustule maligne		
 pb	59	0063	4816932
 pb	60	0064	4816933
 pb	61	0065	4816934
@@ -123,7 +143,8 @@ pb	63	0067	4816936
 pb	64	0068	4816937
 pb	65	0069	4816938
 pb	66	0070	4816939
-entry	Pustules syphilitiques		
+entry	Pustules syphilitiques [L		
+ref	Lagneau]		
 pb	67	0071	4816940
 pb	68	0072	4816941
 pb	69	0073	4816942
@@ -140,7 +161,8 @@ pb	79	0083	4816952
 pb	80	0084	4816953
 pb	81	0085	4816954
 entry	Pustuleux		
-entry	Putréfaction		
+entry	Putréfaction [Orfila]		
+orth	Putréfaction		
 pb	82	0086	4816955
 pb	83	0087	4816956
 pb	84	0088	4816957
@@ -170,15 +192,19 @@ entry	Pylorique
 pb	103	0107	4816976
 entry	Pyramidal		
 pb	104	0108	4816977
-entry	Pyramide		
-entry	Pyrèthre		
+entry	Pyramide [Marjolin]		
+orth	Pyramide		
+entry	Pyrèthre [A. Richard]		
+orth	Pyrèthre		
 pb	105	0109	4816978
 entry	Pyrétique		
 entry	Pyrétologie		
 entry	Pyrexie		
-entry	Pyroacétique (esprit)		
+entry	Pyroacétique (esprit) [Orfila]		
+orth	Pyroacétique (esprit)		
 entry	Pyrocitrique (acide)		
-entry	Pyrole		
+entry	Pyrole [A. Richard]		
+orth	Pyrole		
 pb	106	0110	4816979
 pb	107	0111	4816980
 entry	Pyroligneux ou Pyrolignique (acide)		
@@ -187,7 +213,8 @@ orth	Pyrolignique (acide)
 entry	Pyromalique		
 entry	Pyromucique		
 entry	Pyroquinique		
-entry	Pyrosis		
+entry	Pyrosis [Raige Delorme]		
+orth	Pyrosis		
 pb	108	0112	4816981
 pb	109	0113	4816982
 entry	Pyrotartarique		
@@ -200,10 +227,11 @@ orth	Pyoulque
 entry	Pyurie		
 pb	111	0115	4816984
 entry	Quadriga		
-entry	Quadrijumeaux, melles		
+entry	Quadrijumeaux, melles [Marjolin]		
 orth	Quadrijumeaux		
 orth	melles		
-entry	Quarantaine (hygiène publique)		
+entry	Quarantaine (hygiène publique) [Marc]		
+orth	Quarantaine (hygiène publique)		
 pb	112	0116	4816985
 pb	113	0117	4816986
 pb	114	0118	4816987
@@ -211,18 +239,25 @@ pb	115	0119	4816988
 pb	116	0120	4816989
 pb	117	0121	4816990
 entry	Quarte		
-entry	Quassia amara		
+entry	Quassia amara [A. Richard]		
+orth	Quassia amara		
 pb	118	0122	4816991
-entry	Quassine		
-entry	Queue		
-entry	Quinate		
-entry	Quinine		
+entry	Quassine [Orfila]		
+orth	Quassine		
+entry	Queue [Marjolin]		
+orth	Queue		
+entry	Quinate [Orfila]		
+orth	Quinate		
+entry	Quinine [Orfila]		
+orth	Quinine		
 pb	119	0123	4816992
 pb	120	0124	4816993
 pb	121	0125	4816994
 pb	122	0126	4816995
-entry	Quinique (acide)		
-entry	Quinquina		
+entry	Quinique (acide) [Orfila]		
+orth	Quinique (acide)		
+entry	Quinquina [A. Richard, Guersent]		
+orth	Quinquina		
 pb	123	0127	4816996
 pb	124	0128	4816997
 pb	125	0129	4816998
@@ -256,7 +291,8 @@ entry	Rabique, Rabieïque ou Rabifique
 orth	Rabique		
 orth	Rabieïque		
 orth	Rabifique		
-entry	Race		
+entry	Race [Rullier]		
+orth	Race		
 pb	145	0149	4817018
 pb	146	0150	4817019
 pb	147	0151	4817020
@@ -268,7 +304,8 @@ entry	Rachidien, enne
 orth	Rachidien		
 pb	151	0155	4817024
 pb	152	0156	4817025
-entry	Rachis		
+entry	Rachis [C. P. Ollivier]		
+orth	Rachis		
 pb	153	0157	4817026
 pb	154	0158	4817027
 pb	155	0159	4817028
@@ -279,7 +316,7 @@ pb	159	0163	4817032
 pb	160	0164	4817033
 entry	Rachisagre		
 entry	Rachitique		
-entry	Rachitisme ou Rachitis		
+entry	Rachitisme ou Rachitis [Guersent]		
 orth	Rachitisme		
 orth	Rachitis		
 pb	161	0165	4817034
@@ -294,8 +331,10 @@ pb	169	0173	4817042
 pb	170	0174	4817043
 pb	171	0175	4817044
 entry	Racine		
-entry	Racine giroflée		
-entry	Racine de Jean Lopez		
+entry	Racine giroflée [A. Richard]		
+orth	Racine giroflée		
+entry	Racine de Jean Lopez [A. Richard]		
+orth	Racine de Jean Lopez		
 entry	Radial, ale		
 orth	Radial		
 pb	172	0176	4817045
@@ -306,13 +345,17 @@ pb	176	0180	4817049
 entry	Radio-carpien		
 entry	Radio-cubital		
 pb	177	0181	4817050
-entry	Radio-musculaire		
-entry	Radis		
+entry	Radio-musculaire [Marjolin]		
+orth	Radio-musculaire		
+entry	Radis [A. Richard]		
+orth	Radis		
 pb	178	0182	4817051
-entry	Radius		
+entry	Radius [Marjolin]		
+orth	Radius		
 pb	179	0183	4817052
 entry	Rafraïchissant		
-entry	Rage		
+entry	Rage [Rochoux]		
+orth	Rage		
 pb	180	0184	4817053
 pb	181	0185	4817054
 pb	182	0186	4817055
@@ -331,15 +374,18 @@ pb	194	0198	4817067
 pb	195	0199	4817068
 pb	196	0200	4817069
 pb	197	0201	4817070
-entry	Raifort		
+entry	Raifort [A. Richard]		
+orth	Raifort		
 pb	198	0202	4817071
 entry	Rainure		
 entry	Raisin		
-entry	Raisin d'ours		
+entry	Raisin d'ours [A. Richard]		
+orth	Raisin d'ours		
 entry	Rale		
 entry	Rameau		
 entry	Ramification		
-entry	Ramollissement		
+entry	Ramollissement [Andral fils]		
+orth	Ramollissement		
 pb	199	0203	4817072
 pb	200	0204	4817073
 pb	201	0205	4817074
@@ -352,7 +398,8 @@ entry	Rancité
 entry	Ranine		
 entry	Ranule		
 entry	Raphé		
-entry	Rapport (Méd. lég.)		
+entry	Rapport (Méd. lég.) [Marc]		
+orth	Rapport (Méd. lég.)		
 pb	206	0210	4817079
 pb	207	0211	4817080
 pb	208	0212	4817081
@@ -360,9 +407,11 @@ pb	209	0213	4817082
 pb	210	0214	4817083
 entry	Rare		
 pb	211	0215	4817084
-entry	Ratanhia		
+entry	Ratanhia [A. Richard]		
+orth	Ratanhia		
 pb	212	0216	4817085
-entry	Rate		
+entry	Rate [C. P. Ollivier]		
+orth	Rate		
 pb	213	0217	4817086
 pb	214	0218	4817087
 pb	215	0219	4817088
@@ -381,9 +430,11 @@ orth	Réalgal
 entry	Rebondissant		
 entry	Recette		
 pb	222	0226	4817095
-entry	Rechute		
+entry	Rechute [Raige Delorme]		
+orth	Rechute		
 pb	223	0227	4817096
-entry	Récidive		
+entry	Récidive [Raige Delorme]		
+orth	Récidive		
 pb	224	0228	4817097
 entry	Recrémentitiel ou Recrémenteux		
 orth	Recrémentitiel		
@@ -393,7 +444,8 @@ entry	Récrudescence
 entry	Recto-vaginal		
 entry	Recto-vésical		
 pb	225	0229	4817098
-entry	Rectum		
+entry	Rectum [Marjolin, Andral fils]		
+orth	Rectum		
 pb	226	0230	4817099
 pb	227	0231	4817100
 pb	228	0232	4817101
@@ -404,14 +456,15 @@ pb	232	0236	4817105
 pb	233	0237	4817106
 pb	234	0238	4817107
 pb	235	0239	4817108
-entry	Récurrent, te		
+entry	Récurrent, te [Marjolin]		
 orth	Récurrent		
 pb	236	0240	4817109
 entry	Redoublement		
 entry	Réduction		
 entry	Réfrigérant		
 entry	Régénération		
-entry	Régime		
+entry	Régime [L. Rostan]		
+orth	Régime		
 pb	237	0241	4817110
 pb	238	0242	4817111
 pb	239	0243	4817112
@@ -422,15 +475,18 @@ pb	243	0247	4817116
 pb	244	0248	4817117
 pb	245	0249	4817118
 pb	246	0250	4817119
-entry	Région		
+entry	Région [C. P. Ollivier]		
+orth	Région		
 entry	Règles		
-entry	Réglisse		
+entry	Réglisse [A. Richard]		
+orth	Réglisse		
 pb	247	0251	4817120
 pb	248	0252	4817121
 entry	Régule		
 entry	Régulier		
 entry	Régurgitation		
-entry	Rein		
+entry	Rein [Marjolin]		
+orth	Rein		
 pb	249	0253	4817122
 pb	250	0254	4817123
 pb	251	0255	4817124
@@ -439,26 +495,32 @@ pb	253	0257	4817126
 pb	254	0258	4817127
 entry	Relachant		
 entry	Relachement		
-entry	Releveur		
+entry	Releveur [Marjolin]		
+orth	Releveur		
 pb	255	0259	4817128
 entry	Remède		
 pb	256	0260	4817129
 entry	Rémission		
-entry	Rémittent		
+entry	Rémittent [P. Rayer]		
+orth	Rémittent		
 pb	257	0261	4817130
 pb	258	0262	4817131
 pb	259	0263	4817132
 entry	Rénal, ale		
 orth	Rénal		
 pb	260	0264	4817133
-entry	Réniforme		
+entry	Réniforme [Marjolin]		
+orth	Réniforme		
 entry	Renitent		
-entry	Renonculacées		
+entry	Renonculacées [A. Richard]		
+orth	Renonculacées		
 pb	261	0265	4817134
 pb	262	0266	4817135
-entry	Renoncule		
+entry	Renoncule [A. Richard]		
+orth	Renoncule		
 pb	263	0267	4817136
-entry	Renversement de matrice		
+entry	Renversement de matrice [Desormeaux]		
+orth	Renversement de matrice		
 pb	264	0268	4817137
 pb	265	0269	4817138
 pb	266	0270	4817139
@@ -473,7 +535,7 @@ pb	274	0278	4817147
 pb	275	0279	4817148
 pb	276	0280	4817149
 pb	277	0281	4817150
-entry	Répercussif, ive (thérap.)		
+entry	Répercussif, ive (thérap.) [Guersent]		
 orth	Répercussif		
 orth	ive (thérap.)		
 pb	278	0282	4817151
@@ -481,10 +543,12 @@ pb	279	0283	4817152
 pb	280	0284	4817153
 entry	Replétion		
 entry	Repoussoir		
-entry	Reprise		
+entry	Reprise [A. Richard]		
+orth	Reprise		
 entry	Reproduction		
 entry	Réseau		
-entry	Résection		
+entry	Résection [Jules Cloquet]		
+orth	Résection		
 pb	281	0285	4817154
 pb	282	0286	4817155
 pb	283	0287	4817156
@@ -507,14 +571,17 @@ pb	299	0303	4817172
 pb	300	0304	4817173
 pb	301	0305	4817174
 entry	Réservoir		
-entry	Résines		
+entry	Résines [A. Richard]		
+orth	Résines		
 pb	302	0306	4817175
 pb	303	0307	4817176
-entry	Résolutif		
+entry	Résolutif [Guersent]		
+orth	Résolutif		
 pb	304	0308	4817177
 entry	Résolution		
 entry	Résorption		
-entry	Respiration		
+entry	Respiration [Coutanceau, L. Rostan]		
+orth	Respiration		
 pb	305	0309	4817178
 pb	306	0310	4817179
 pb	307	0311	4817180
@@ -602,8 +669,10 @@ pb	388	0392	4817261
 pb	389	0393	4817262
 pb	390	0394	4817263
 pb	391	0395	4817264
-entry	Restiforme		
-entry	Rétention		
+entry	Restiforme [C. P. Ollivier]		
+orth	Restiforme		
+entry	Rétention [Roux]		
+orth	Rétention		
 pb	392	0396	4817265
 pb	393	0397	4817266
 pb	394	0398	4817267
@@ -634,11 +703,13 @@ entry	Réticulaire ou Rétiforme
 orth	Réticulaire		
 orth	Rétiforme		
 entry	Rétiforme		
-entry	Rétine		
+entry	Rétine [C. P. Ollivier]		
+orth	Rétine		
 pb	418	0422	4817291
 entry	Rétraction		
 pb	419	0423	4817292
-entry	Rétrécissement		
+entry	Rétrécissement [C. P. Ollivier]		
+orth	Rétrécissement		
 pb	420	0424	4817293
 pb	421	0425	4817294
 pb	422	0426	4817295
@@ -675,14 +746,18 @@ pb	451	0455	4817324
 entry	Rétroversion		
 entry	Rêvasserie		
 entry	Rêve		
-entry	Réveil-matin		
-entry	Révulsif		
-entry	Révulsion		
+entry	Réveil-matin [A. Richard]		
+orth	Réveil-matin		
+entry	Révulsif [Guersent]		
+orth	Révulsif		
+entry	Révulsion [Guersent]		
+orth	Révulsion		
 pb	452	0456	4817325
 entry	Rhabarbarin et Rhabarbarine		
 orth	Rhabarbarin		
 orth	Rhabarbarine		
-entry	Rhagades		
+entry	Rhagades [L		
+ref	Lagneau]		
 pb	453	0457	4817326
 pb	454	0458	4817327
 pb	455	0459	4817328
@@ -690,16 +765,20 @@ pb	456	0460	4817329
 pb	457	0461	4817330
 pb	458	0462	4817331
 pb	459	0463	4817332
-entry	Rhamnées		
+entry	Rhamnées [A. Richard]		
+orth	Rhamnées		
 pb	460	0464	4817333
-entry	Rhapontic		
+entry	Rhapontic [A. Richard]		
+orth	Rhapontic		
 pb	461	0465	4817334
-entry	Rhodium		
-entry	Rhomboïde ou Rhomboïdal		
+entry	Rhodium [Orfila]		
+orth	Rhodium		
+entry	Rhomboïde ou Rhomboïdal [Marjolin]		
 orth	Rhomboïde		
 orth	Rhomboïdal		
 pb	462	0466	4817335
-entry	Rhubarbe		
+entry	Rhubarbe [A. Richard]		
+orth	Rhubarbe		
 pb	463	0467	4817336
 pb	464	0468	4817337
 pb	465	0469	4817338
@@ -708,7 +787,8 @@ entry	Rhumatismal, Rhumatique
 orth	Rhumatismal		
 orth	Rhumatique		
 entry	Rhumatisant		
-entry	Rhumatisme		
+entry	Rhumatisme [G. Ferrus]		
+orth	Rhumatisme		
 pb	467	0471	4817340
 pb	468	0472	4817341
 pb	469	0473	4817342
@@ -726,20 +806,22 @@ pb	480	0484	4817353
 pb	481	0485	4817354
 pb	482	0486	4817355
 entry	Rhume		
-entry	Rhus radicans et Rhus toxicodendrum		
+entry	Rhus radicans et Rhus toxicodendrum [A. Richard]		
 orth	Rhus radicans		
 orth	Rhus toxicodendrum		
 entry	Rhythme		
-entry	Ribésiées		
+entry	Ribésiées [A. Richard]		
+orth	Ribésiées		
 pb	483	0487	4817356
-entry	Ricin ou Palma Christi		
+entry	Ricin ou Palma Christi [A. Richard]		
 orth	Ricin		
 orth	Palma Christi		
 pb	484	0488	4817357
 pb	485	0489	4817358
 entry	Ride		
 entry	Rigor		
-entry	Rire		
+entry	Rire [Adelon]		
+orth	Rire		
 pb	486	0490	4817359
 pb	487	0491	4817360
 pb	488	0492	4817361
@@ -748,45 +830,55 @@ pb	490	0494	4817363
 pb	491	0495	4817364
 pb	492	0496	4817365
 pb	493	0497	4817366
-entry	Riz		
+entry	Riz [A. Richard]		
+orth	Riz		
 pb	494	0498	4817367
 entry	Rob ou Roob		
 orth	Rob		
 orth	Roob		
 entry	Rocher		
 entry	Roideur		
-entry	Romarin		
+entry	Romarin [A. Richard]		
+orth	Romarin		
 pb	495	0499	4817368
-entry	Ronce		
+entry	Ronce [A. Richard]		
+orth	Ronce		
 entry	Rond		
 pb	496	0500	4817369
 entry	Ronflement		
-entry	Roquette		
+entry	Roquette [A. Richard]		
+orth	Roquette		
 pb	497	0501	4817370
-entry	Rosacées		
+entry	Rosacées [A. Richard]		
+orth	Rosacées		
 pb	498	0502	4817371
 pb	499	0503	4817372
 pb	500	0504	4817373
 pb	501	0505	4817374
 pb	502	0506	4817375
-entry	Rosacique (acide)		
+entry	Rosacique (acide) [Orfila]		
+orth	Rosacique (acide)		
 pb	503	0507	4817376
 entry	Rosat (onguent)		
-entry	Rose		
+entry	Rose [A. Richard]		
+orth	Rose		
 pb	504	0508	4817377
 pb	505	0509	4817378
-entry	Roseau ou canne de Provence		
+entry	Roseau ou canne de Provence [A. Richard]		
 orth	Roseau		
 orth	canne de Provence		
-entry	Roséole		
+entry	Roséole [Guersent]		
+orth	Roséole		
 pb	506	0510	4817379
 pb	507	0511	4817380
 pb	508	0512	4817381
 entry	Rotateurs		
 entry	Rotation		
-entry	Rotule		
+entry	Rotule [Marjolin]		
+orth	Rotule		
 pb	509	0513	4817382
-entry	Rougeole		
+entry	Rougeole [Guersent]		
+orth	Rougeole		
 pb	510	0514	4817383
 pb	511	0515	4817384
 pb	512	0516	4817385
@@ -798,29 +890,35 @@ entry	Rougeur
 pb	517	0521	4817390
 entry	Rousseurs		
 entry	Rubéfaction		
-entry	Rubéfiant		
+entry	Rubéfiant [Guersent]		
+orth	Rubéfiant		
 pb	518	0522	4817391
 pb	519	0523	4817392
-entry	Rubiacées		
+entry	Rubiacées [A. Richard]		
+orth	Rubiacées		
 pb	520	0524	4817393
 pb	521	0525	4817394
 pb	522	0526	4817395
-entry	Rue		
+entry	Rue [A. Richard]		
+orth	Rue		
 entry	Rugine		
 pb	523	0527	4817396
 entry	Rugosité		
-entry	Rumination		
+entry	Rumination [Rullier]		
+orth	Rumination		
 pb	524	0528	4817397
 pb	525	0529	4817398
 pb	526	0530	4817399
 pb	527	0531	4817400
-entry	Rupia		
+entry	Rupia [P. Rayer]		
+orth	Rupia		
 pb	528	0532	4817401
 pb	529	0533	4817402
 pb	530	0534	4817403
 pb	531	0535	4817404
 pb	532	0536	4817405
-entry	Rupture		
+entry	Rupture [Rochoux, Desormeaux]		
+orth	Rupture		
 pb	533	0537	4817406
 pb	534	0538	4817407
 pb	535	0539	4817408
@@ -849,7 +947,8 @@ pb	557	0561	4817430
 pb	558	0562	4817431
 pb	559	0563	4817432
 pb	560	0564	4817433
-entry	Rutacées		
+entry	Rutacées [A. Richard]		
+orth	Rutacées		
 pb	561	0565	4817434
 pb	[s. pag.]	0566	4817435
 pb	[s. pag.]	0567	4817436

@@ -1,6 +1,8 @@
 pb	[s. pag.]	0001	4832086
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4832087
 pb	[s. pag.]	0003	4832088
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4832089
 pb	593	0005	4832090
 entry	Oxalique		
@@ -2542,11 +2544,14 @@ entry	Zygomatique
 entry	Zygomato-auriculaire		
 entry	Zythogala		
 pb	[s. pag.]	0265	4832350
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0266	4832351
 pb	[s. pag.]	0267	4832352
+entry	[Page de titre]		
 pb	[s. pag.]	0268	4832353
 pb	[s. pag.]	0269	4832354
-entry	Avertissement		
+entry	Avertissement [Mérat]		
+orth	Avertissement		
 pb	[s. pag.]	0270	4832355
 pb	[s. pag.]	0271	4832356
 entry	Introduction		
@@ -3259,7 +3264,7 @@ entry	Lamentin
 entry	Lamineuses (membranes)		
 entry	Lampates		
 entry	Laque		
-entry	vure de chairs		
+entry	La vure de chairs		
 entry	Laxidité		
 entry	Laxum		
 entry	Ledum		

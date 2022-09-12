@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4827435
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4827436
 entry	Ouvrages du Dr Galtier-Boissière		
 pb	[s. pag.]	0003	4827437
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4827438
 pb	V	0005	4827439
+entry	[Préface]		
 pb	VI	0006	4827440
 pb	VII	0007	4827441
 entry	Introduction		
@@ -1478,7 +1481,8 @@ entry	Chimisme gastrique
 pb	245	0275	4827709
 entry	Chine (Hygiène en)		
 entry	Chinois		
-entry	Chique (fig. 456)		
+entry	Chique (fig. 456) [Insecte]		
+orth	Chique (fig. 456)		
 entry	Chique (tabac)		
 entry	Chiromégalie		
 entry	Chirurgie		
@@ -2828,7 +2832,8 @@ entry	Érythrol
 entry	Érythromélalgie		
 entry	Érythromélie (de Pick)		
 entry	Esbach (Tube d')		
-entry	Escaldas (Les)		
+entry	Escaldas (Les) [Pyrénées-Orientales]		
+orth	Escaldas (Les)		
 entry	Escalier		
 entry	Escargot		
 pb	461	0504	4827938
@@ -2970,9 +2975,11 @@ entry	Face à main
 entry	Facial (Nerf)		
 pb	480	0523	4827957
 entry	Facial (Spasme)		
-entry	Faciale (Hémiatrophie) (Trophonévrose)		
+entry	Faciale (Hémiatrophie) (Trophonévrose) [fig. 820]		
+orth	Faciale (Hémiatrophie) (Trophonévrose)		
 entry	Faciale (Névralgie)		
-entry	Faciale (Paralysie)		
+entry	Faciale (Paralysie) [fig. 821]		
+orth	Faciale (Paralysie)		
 pb	481	0524	4827958
 entry	Facies		
 entry	Facultés et Écoles de Médecine		
@@ -3711,7 +3718,8 @@ entry	Hygiène
 entry	Hygroma		
 entry	Hygrométrie		
 entry	Hymen		
-entry	Hyoïde (Os)		
+entry	Hyoïde (Os) [fig. 1053]		
+orth	Hyoïde (Os)		
 entry	Hyosciamine et Hyoscine		
 orth	Hyosciamine		
 orth	Hyoscine		
@@ -4056,9 +4064,9 @@ entry	Kyste
 pb	652	0697	4828131
 entry	Lab (Ferment)		
 entry	Labarraque (Liqueur de)		
-entry	Baule (Loire-Inférieure)		
+entry	La Baule (Loire-Inférieure)		
 entry	Laboratoire		
-entry	Bourboule		
+entry	La Bourboule		
 entry	Labyrinthe		
 entry	Lacrymal		
 entry	Lactagol		
@@ -4102,10 +4110,10 @@ entry	Lambdoïde (Suture)
 entry	Lamblia		
 entry	Lamier blanc (ortie blanche)		
 entry	Laminaire		
-entry	Motte-Beuvron (Loire-et-Cher)		
+entry	La Motte-Beuvron (Loire-et-Cher)		
 pb	659	0704	4828138
-entry	Motte-les-Bains (Isère)		
-entry	Mouillère (Besançon)		
+entry	La Motte-les-Bains (Isère)		
+entry	La Mouillère (Besançon)		
 entry	Laminectomie		
 entry	Lampes		
 entry	Lampourde		
@@ -4123,7 +4131,7 @@ entry	Langueur
 entry	Lanoline		
 entry	Lanugo		
 entry	Lapin		
-entry	Preste (Pyrénées-Orientales)		
+entry	La Preste (Pyrénées-Orientales)		
 entry	Larme		
 entry	Larmoiement		
 pb	663	0708	4828142
@@ -6585,7 +6593,8 @@ entry	Séléniteuses (Eaux)
 entry	Sélénium		
 entry	Selles		
 entry	Sels		
-entry	Seltz (Eau de Nassau)		
+entry	Seltz (Eau de Nassau [Allemagne])		
+orth	Seltz (Eau de Nassau)		
 pb	1107	1178	4828612
 entry	Séméiologie		
 entry	Semences		
@@ -6790,7 +6799,8 @@ entry	Spigélie
 entry	Spina bifida		
 pb	1144	1215	4828649
 entry	Spina ventosa		
-entry	Spinal (Nerf)		
+entry	Spinal (Nerf [ou accessoire de Willis])		
+orth	Spinal (Nerf)		
 entry	Spirée		
 entry	Spirille		
 entry	Spirochétidés		
@@ -7686,7 +7696,8 @@ entry	Vermiculaire
 entry	Vermifuges		
 entry	Vermineuses		
 entry	Vermout		
-entry	Vernet (Le)		
+entry	Vernet (Le) [Pyrénées-Orientales]		
+orth	Vernet (Le)		
 entry	Vernis		
 entry	Vérole		
 entry	Véronal (Diéthylmalonylurée)		

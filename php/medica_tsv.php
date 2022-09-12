@@ -426,8 +426,6 @@ class Medict
                     // V - 
                     '/^[A-Z]$/u',
                     '/^[A-Z][ ][^\p{L}]*/u',
-                    // Le , la , l’
-                    "@^ *(le |la |les |l’|l') *@ui", 
                 ),
                 array(
                     '', 
@@ -519,18 +517,6 @@ class Medict
             // récupérer la vedette et la découper si nécessaire
             if ($line[0] == 'entry') {
                 $refs = null;
-                $line[1] = preg_replace(
-                    array(
-                        // [nom d’auteur]
-                        '/ *\[[^\]]+\]/u',
-                    ),
-                    array (
-                        '',
-                        '',
-                        '',
-                    ), 
-                    $line[1]);
-                if (!$line[1]) continue;
                 // nettoyer la vedette des renvois
                 if (preg_match(
                     '/ (V\. |Voy\.? |Voyez )([^\.\/;]+)/u', 
@@ -548,8 +534,29 @@ class Medict
                         $matches[2]
                     );
                 }
-                // entry OK, on oute
+                // entry OK, on oute, et on ne touche plus à la vedette
                 $out[] = $line;
+                $s = preg_replace(
+                    array(
+                        // [nom d’auteur]
+                        '/ *\[[^\]]+\]/u',
+                        // Le , la , l’
+                        // '/^ *(le |la |les |l’|l\') */ui',
+                    ), 
+                    array(
+                        '',
+                        '',
+                    ),
+                    $line[1]
+                );
+                if (
+                    startsWith($cote, 'pharma_019129')
+                ) {
+                    // Le , la , l’
+                    $s = preg_replace('/^ *(le |la |les |l’|l\') */ui', '', $s);
+                }
+                if (!$s) continue;
+
                 // vedettes hiérarchiques, ne pas séparer
                 if (
                     startsWith($cote, '24374')
@@ -567,13 +574,14 @@ class Medict
                     // Pancoucke
                     || startsWith($cote, '47661')
                     // Fuller (médecin anglais, 1654-1734)
-                    || preg_match('/\([^\)]*( +(ou|et|&) +|,)/u', $line[1]) 
+                    || preg_match('/\([^\)]*( +(ou|et|&) +|,)/u', $s) 
                 ) {
-
+                    // si nom d’auteur dans la vedette, le sortir du terme. 
+                    if ($s != $line[1]) $out[] = ['orth', $s];
                 }
                 // "16 Agaricus campestris. Le champignon champêtre", "17 Agaricus déliciosus. Champignon délicieux",  "18 Agaricus cantharellus. La cantharelle"
                 else if (startsWith($cote, 'pharma_019128')) {
-                    $s = preg_replace('@^[ 0-9\.]+@ui', '', $line[1]);
+                    $s = preg_replace('@^[ 0-9\.]+@ui', '', $s);
                     $orths = preg_split('@\. +@ui', $s);
                     if (count($orths) == 2) {
                         $out[] = ['orth', $orths[0], 'lat'];
@@ -586,12 +594,9 @@ class Medict
                 }
 
                 else {
-                    $orths = preg_split(
-                        '/,? +(ou|et|&) +|,[\-—– ]+/ui', 
-                        $line[1]
-                    );
+                    $orths = preg_split('/,? +(ou|et|&) +|,[\-—– ]+/ui', $s);
                     // si une seule vedette, inutile de détailler
-                    if (count($orths) > 1) {
+                    if (count($orths) > 1 || $s != $line[1]) {
                         foreach ($orths as $o) {
                             if ($o === NULL || $o === FALSE || $o === "") continue;
                             if (isset(self::$stop[$o])) continue;

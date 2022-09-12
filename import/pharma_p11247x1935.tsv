@@ -1,6 +1,9 @@
 pb	sn	0001	7728720
+entry	[Plat]		
 pb	sn	0002	7728721
+entry	[Contreplat]		
 pb	sn	0003	7728722
+entry	[Page de titre]		
 pb	sn	0004	7728723
 pb	3	0005	7728724
 entry	Au corps médical		
@@ -1908,7 +1911,7 @@ pb	766	0768	7729487
 entry	Glottyl		
 pb	pb	0769	7729488
 pb	768	0770	7729489
-entry	Gloxines		
+entry	Les Gloxines		
 pb	769	0771	7729490
 pb	770	0772	7729491
 entry	Glucolactol		
@@ -1968,7 +1971,7 @@ pb	793	0795	7729514
 entry	Grains d'éphédrine Béral		
 entry	Grains de Vals		
 pb	794	0796	7729515
-entry	Granions		
+entry	Les Granions		
 pb	795	0797	7729516
 entry	Granoxyl		
 entry	Granulé Cabasson		
@@ -2537,7 +2540,7 @@ entry	Méta-vaccin
 pb	1011	1013	7729732
 entry	Métophan		
 pb	1012	1014	7729733
-entry	Métricine		
+entry	La Métricine		
 pb	1013	1015	7729734
 entry	Métritols		
 pb	1014	1016	7729735
@@ -3287,7 +3290,7 @@ pb	1294	1296	7730015
 entry	Radiopaque Heudebert		
 entry	Radiotétrane Gérard		
 pb	1295	1297	7730016
-entry	raisin quotidien		
+entry	Le raisin quotidien		
 entry	Rangol		
 pb	1296	1298	7730017
 entry	Réalphène		
@@ -3539,7 +3542,7 @@ pb	1395	1397	7730116
 entry	Silisode		
 entry	Sinahin		
 pb	1396	1398	7730117
-entry	Sinaplasme		
+entry	Le Sinaplasme		
 entry	Sinapol		
 pb	1397	1399	7730118
 entry	Sinaqua Nutricia		
@@ -3869,7 +3872,7 @@ entry	Tétranitrol Roussel
 entry	Thaolaxine		
 pb	1522	1524	7730243
 entry	Thébaïl		
-entry	thé d'oranger. Joseph Nègre		
+entry	Le thé d'oranger. Joseph Nègre		
 pb	1523	1525	7730244
 entry	Théinol		
 entry	Théisine Dubat		
@@ -4237,7 +4240,7 @@ entry	Vulcase
 pb	1665	1667	7730386
 entry	Vulnérine du Docteur Bergen		
 pb	1666	1668	7730387
-entry	Yaourtine		
+entry	La Yaourtine		
 pb	1667	1669	7730388
 entry	Yo-Androl		
 pb	1668	1670	7730389
@@ -4865,7 +4868,7 @@ entry	Lauriat
 entry	Lavire		
 entry	Lavoué		
 entry	Lebeault		
-entry	Blond		
+entry	Le Blond		
 entry	Leboime		
 entry	Lebrun		
 pb	1858	1860	7730579
@@ -4878,17 +4881,17 @@ entry	Legoux frères
 entry	Legrand		
 entry	Leisyn		
 entry	Lejeune		
-entry	Marois		
+entry	Le Marois		
 entry	Lematte et Boinot		
 entry	Léonardon		
-entry	Perdriel		
+entry	Le Perdriel		
 pb	1859	1861	7730580
 entry	Leporcq		
 entry	Leprince		
 entry	Lersam		
 entry	Lescène		
 entry	G. Lesourd		
-entry	Tanneur		
+entry	Le Tanneur		
 entry	Lettry		
 entry	Leurquin		
 entry	L. E		
@@ -5221,4 +5224,6 @@ entry	Yvrard
 entry	Zizine		
 entry	Zyma		
 pb	sn	1880	7730599
+entry	[Contreplat]		
 pb	sn	1881	7730600
+entry	[Plat]		

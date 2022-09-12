@@ -1,10 +1,13 @@
 pb	[s. pag.]	0001	4827089
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4827090
 entry	Ouvrages du même auteur		
 pb	[s. pag.]	0003	4827091
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4827092
 pb	V	0005	4827093
-entry	Préface		
+entry	Préface [Galtier-Boissière]		
+orth	Préface		
 pb	VI	0006	4827094
 pb	[s. pag.]	0007	4827095
 entry	Liste des auteurs d'articles		
@@ -42,7 +45,10 @@ entry	Arthrodynamomètre
 pb	14	0022	4827110
 pb	15	0023	4827111
 entry	Attelles (nouveaux modèles)		
-entry	Audition (perte de l'). Rééducation		
+entry	Audition (perte de l'). Rééducation [H. Marichelle, L. Dupuis,		
+orth	Audition (perte de l'). Rééducation [H. Marichelle		
+orth	L. Dupuis		
+ref	Hervaux]		
 pb	16	0024	4827112
 pb	17	0025	4827113
 pb	18	0026	4827114
@@ -56,7 +62,8 @@ pb	Tableau V	0033	4827121
 pb	Tableau VI	0034	4827122
 pb	27	0035	4827123
 entry	Automobilistes (Névralgie radiale des)		
-entry	Aveugles de guerre		
+entry	Aveugles de guerre [G. Pérouze,		
+ref	Typhlographie]		
 pb	28	0036	4827124
 pb	29	0037	4827125
 pb	30	0038	4827126
@@ -78,7 +85,8 @@ entry	Avivement
 entry	Avulsion		
 pb	44	0052	4827140
 entry	Bain-douche		
-entry	Bain de vapeur local		
+entry	Bain de vapeur local [L. Salignat]		
+orth	Bain de vapeur local		
 pb	45	0053	4827141
 pb	46	0054	4827142
 pb	47	0055	4827143
@@ -101,7 +109,7 @@ entry	Boues de semelles de chaussures
 entry	Boule de pain (Ingestion de la)		
 entry	Boulet (Vent du)		
 pb	53	0061	4827149
-entry	Brancards et Brancardiers		
+entry	Brancards et Brancardiers [J. Molinie]		
 orth	Brancards		
 orth	Brancardiers		
 pb	54	0062	4827150
@@ -145,7 +153,8 @@ entry	Dents et dentiste
 orth	Dents		
 orth	dentiste		
 pb	72	0080	4827168
-entry	Dermites		
+entry	Dermites [F. Debat]		
+orth	Dermites		
 pb	73	0081	4827169
 pb	74	0082	4827170
 pb	Tableau XIII	0083	4827171
@@ -187,17 +196,20 @@ pb	96	0104	4827192
 entry	Ectoplasme et Endoplasme		
 orth	Ectoplasme		
 orth	Endoplasme		
-entry	Ecthyma		
+entry	Ecthyma [F. Debat, Galtier-Boissière]		
+orth	Ecthyma		
 pb	97	0105	4827193
 entry	Élasticité		
-entry	Électricité		
+entry	Électricité [H. Guilleminot]		
+orth	Électricité		
 pb	98	0106	4827194
 pb	99	0107	4827195
 entry	Engagés volontaires		
 entry	Engelures		
 pb	Tableau XV	0108	4827196
 pb	101	0109	4827197
-entry	Explosion (troubles consécutifs sur la chevelure)		
+entry	Explosion (troubles consécutifs sur la chevelure) [F. Debat]		
+orth	Explosion (troubles consécutifs sur la chevelure)		
 pb	102	0110	4827198
 entry	Fatigue (Délassement de la)		
 entry	Fatigue professionnelle (ouvriers, artistes, soldats)		
@@ -228,12 +240,14 @@ pb	Tableau XVII	0121	4827209
 pb	114	0122	4827210
 entry	Glace (Conservation de la)		
 entry	Gouttière		
-entry	Greffes		
+entry	Greffes [F. Debat]		
+orth	Greffes		
 pb	Tableau XVIII	0123	4827211
 pb	116	0124	4827212
 pb	117	0125	4827213
 pb	118	0126	4827214
-entry	Gymnastique élévatoire		
+entry	Gymnastique élévatoire [F. Debat]		
+orth	Gymnastique élévatoire		
 pb	Tableau XIX	0127	4827215
 pb	120	0128	4827216
 pb	121	0129	4827217
@@ -260,7 +274,8 @@ orth	Hypotrichose
 pb	134	0142	4827230
 entry	Hypnose des batailles		
 pb	135	0143	4827231
-entry	Impotences fonctionnelles		
+entry	Impotences fonctionnelles [H. Nepper & Ch. Vallée]		
+orth	Impotences fonctionnelles		
 pb	136	0144	4827232
 pb	Tableau XXIII	0145	4827233
 pb	138	0146	4827234
@@ -283,7 +298,8 @@ entry	Invalidité
 pb	145	0153	4827241
 entry	Lavement goutte à goutte de Murphy		
 pb	146	0154	4827242
-entry	Mâchoires		
+entry	Mâchoires [Kouindjy]		
+orth	Mâchoires		
 pb	Tableau XXIV	0155	4827243
 pb	148	0156	4827244
 pb	149	0157	4827245
@@ -328,7 +344,8 @@ pb	Tableau XXVIII	0183	4827271
 pb	176	0184	4827272
 entry	Microbes		
 entry	Microbisme latent des plaies		
-entry	Mobilisation		
+entry	Mobilisation [Kouindjy]		
+orth	Mobilisation		
 pb	Tableau XXIX	0185	4827273
 pb	178	0186	4827274
 pb	Tableau XXX	0187	4827275
@@ -374,11 +391,13 @@ entry	Oculaire (Préservation)
 pb	208	0216	4827304
 entry	Opération (Soins après)		
 pb	209	0217	4827305
-entry	Orbitaire (Prothèse)		
+entry	Orbitaire (Prothèse) [G. Valois]		
+orth	Orbitaire (Prothèse)		
 pb	210	0218	4827306
 pb	211	0219	4827307
 entry	Orthopédie de guerre		
-entry	Os (fractures de guerre)		
+entry	Os (fractures de guerre) [Floersheim, Galtier-Boissière]		
+orth	Os (fractures de guerre)		
 pb	212	0220	4827308
 pb	Tableau XXXVI	0221	4827309
 pb	214	0222	4827310
@@ -412,7 +431,7 @@ pb	234	0244	4827332
 pb	235	0245	4827333
 entry	Paraffine		
 entry	Paralysie d'origine cérébrale avec aphasie		
-entry	Paralysies par blessures des nerfs et prothèse nerveuse		
+entry	Paralysies par blessures des nerfs et prothèse nerveuse [Ducroquet]		
 orth	Paralysies par blessures des nerfs		
 orth	prothèse nerveuse		
 pb	236	0246	4827334
@@ -421,7 +440,8 @@ pb	238	0248	4827336
 pb	239	0249	4827337
 entry	Paresthésie		
 entry	Photothérapie		
-entry	Plaies de guerre		
+entry	Plaies de guerre [Debat]		
+orth	Plaies de guerre		
 pb	240	0250	4827338
 pb	241	0251	4827339
 pb	242	0252	4827340
@@ -445,7 +465,8 @@ entry	Pou et Phtiriase
 orth	Pou		
 orth	Phtiriase		
 entry	Projectiles (Tolérance pour les)		
-entry	Prothèse des membres		
+entry	Prothèse des membres [Galtier-Boissière, Ducroquet]		
+orth	Prothèse des membres		
 pb	249	0259	4827347
 pb	250	0260	4827348
 pb	251	0261	4827349
@@ -456,7 +477,8 @@ pb	Tableau XLII	0265	4827353
 pb	256	0266	4827354
 pb	257	0267	4827355
 pb	258	0268	4827356
-entry	Psoriasis		
+entry	Psoriasis [F. Debat]		
+orth	Psoriasis		
 entry	Psychoses commotionnelles		
 entry	Publicité hygiénique trompeuse		
 pb	Tableau XLIII	0269	4827357
@@ -464,7 +486,8 @@ pb	260	0270	4827358
 entry	Puce		
 entry	Pus		
 pb	261	0271	4827359
-entry	Radiologie de guerre		
+entry	Radiologie de guerre [Guilleminot]		
+orth	Radiologie de guerre		
 pb	262	0272	4827360
 pb	263	0273	4827361
 pb	Tableau XLIV	0274	4827362
@@ -476,7 +499,8 @@ pb	Tableau XLVI	0279	4827367
 pb	Tableau XLVII	0280	4827368
 pb	271	0281	4827369
 pb	272	0282	4827370
-entry	Radium (Applications du)		
+entry	Radium (Applications du) [Degrais]		
+orth	Radium (Applications du)		
 pb	273	0283	4827371
 pb	Tableau XLVIII	0284	4827372
 pb	275	0285	4827373
@@ -484,7 +508,8 @@ entry	Rage
 pb	275	0286	4827374
 pb	277	0287	4827375
 entry	Rats (Destruction des)		
-entry	Rééducation fonctionnelle par le travail		
+entry	Rééducation fonctionnelle par le travail [Kouindjy]		
+orth	Rééducation fonctionnelle par le travail		
 pb	278	0288	4827376
 pb	Tableau XLIX	0289	4827377
 pb	280	0290	4827378
@@ -544,7 +569,7 @@ pb	308	0318	4827406
 entry	Tétragénémie épidémique		
 entry	Thermoconservateur		
 pb	309	0319	4827407
-entry	Thermothérapie et Photothérapie		
+entry	Thermothérapie et Photothérapie [Félix Allard]		
 orth	Thermothérapie		
 orth	Photothérapie		
 pb	310	0320	4827408
@@ -583,7 +608,8 @@ pb	330	0340	4827428
 pb	331	0341	4827429
 entry	Typhus exanthématique		
 pb	332	0342	4827430
-entry	Vénériennes (Maladies)		
+entry	Vénériennes (Maladies) [F. Debat]		
+orth	Vénériennes (Maladies)		
 pb	Tableau LVII	0343	4827431
 pb	334	0344	4827432
 pb	335	0345	4827433

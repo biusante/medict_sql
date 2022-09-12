@@ -1,6 +1,8 @@
 pb	sn	0001	7719064
+entry	[Plat]		
 pb	pb	0002	7719065
 pb	sn	0003	7719066
+entry	[Page de titre]		
 pb	pb	0004	7719067
 pb	sn	0005	7719068
 entry	1re Partie. Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
@@ -153,7 +155,7 @@ pb	25	0065	7719128
 entry	Antiphlogistine		
 entry	Antiphymique Vadam		
 pb	26	0066	7719129
-entry	antirroïde		
+entry	L'antirroïde		
 entry	Antiurique de Contrexéville		
 pb	27	0067	7719130
 entry	Antodyne		
@@ -778,7 +780,7 @@ entry	Néo-Trépol
 pb	255	0295	7719358
 entry	Néol. Néolides		
 pb	256	0296	7719359
-entry	Néolyse		
+entry	La Néolyse		
 entry	Néoplalysine du Docteur Riquoir		
 pb	257	0297	7719360
 entry	Nergine Heudebert		
@@ -1354,7 +1356,7 @@ entry	Vitamyl
 pb	480	0520	7719583
 entry	Xémaderm		
 pb	481	0521	7719584
-entry	Yaourtine		
+entry	La Yaourtine		
 entry	Yoghourt Lactella		
 pb	482	0522	7719585
 entry	Zohol		
@@ -1418,3 +1420,4 @@ pb	537	0577	7719640
 pb	538	0578	7719641
 pb	sn	0579	7719642
 pb	sn	0580	7719643
+entry	[Plat]		

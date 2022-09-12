@@ -1,6 +1,8 @@
 pb	sn	0001	7722884
+entry	[Plat]		
 pb	pb	0002	7722885
 pb	sn	0003	7722886
+entry	[Page de titre]		
 pb	sn	0004	7722887
 pb	sn	0005	7722888
 entry	Première partie. Table par indications thérapeutiques des spécialités figurant dans cet ouvrage		
@@ -593,7 +595,7 @@ entry	Cholécystine
 entry	Choléine Camus		
 pb	199	0241	7723124
 entry	Choléine lactique		
-entry	Cholélyse Carbou		
+entry	La Cholélyse Carbou		
 pb	200	0242	7723125
 entry	Choléo-Combretol boldinisé		
 entry	Choléokinase		
@@ -1099,7 +1101,7 @@ entry	Grains de Vals
 pb	394	0436	7723319
 entry	Grains d'Évian		
 pb	395	0437	7723320
-entry	Granions		
+entry	Les Granions		
 pb	396	0438	7723321
 entry	Granulé Caresmel		
 entry	Granules de Pantofort du Docteur Boveil		
@@ -1311,7 +1313,7 @@ entry	Iodures Souffron
 entry	Ionyl		
 pb	473	0515	7723398
 entry	Irénine Gonnon		
-entry	Irradiol		
+entry	L'Irradiol		
 pb	474	0516	7723399
 entry	Irrastérine		
 pb	475	0517	7723400
@@ -2034,7 +2036,7 @@ pb	752	0794	7723677
 entry	Quinsal		
 pb	753	0795	7723678
 entry	Quinthéryl		
-entry	Quotidien		
+entry	Le Quotidien		
 pb	754	0796	7723679
 entry	Radiobaume Adrian		
 entry	Radiolysine		
@@ -2221,7 +2223,7 @@ pb	830	0872	7723755
 entry	Silisode		
 entry	Sinahin		
 pb	831	0873	7723756
-entry	Sinaplasme. Cataplasme sinapisé instantané du Docteur Jean Faure		
+entry	Le Sinaplasme. Cataplasme sinapisé instantané du Docteur Jean Faure		
 entry	Sirop Brahma		
 pb	832	0874	7723757
 entry	Sirop composé aux hypophosphites « Fellows »		
@@ -2689,7 +2691,7 @@ pb	1011	1053	7723936
 entry	Vulcase		
 entry	Vulnérine du Docteur Bergen		
 pb	1012	1054	7723937
-entry	Yaourtine		
+entry	La Yaourtine		
 entry	Yo-Androl		
 pb	1013	1055	7723938
 entry	Zohol		
@@ -2795,3 +2797,4 @@ pb	1107	1149	7724032
 pb	1108	1150	7724033
 pb	pb	1151	7724034
 pb	sn	1152	7724035
+entry	[Plat]		

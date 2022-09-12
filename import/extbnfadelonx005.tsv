@@ -1,12 +1,17 @@
 pb	[s. pag.]	0001	4809300
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4809301
 pb	[s. pag.]	0003	4809302
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4809303
 pb	1	0005	4809304
-entry	Chair		
-entry	Chaleur		
+entry	Chair [L. Rostan]		
+orth	Chair		
+entry	Chaleur [Coutanceau]		
+orth	Chaleur		
 pb	2	0006	4809305
-entry	Chaleur animale		
+entry	Chaleur animale [Coutanceau, Chomel]		
+orth	Chaleur animale		
 pb	3	0007	4809306
 pb	4	0008	4809307
 pb	5	0009	4809308
@@ -39,15 +44,18 @@ pb	31	0035	4809334
 pb	32	0036	4809335
 pb	33	0037	4809336
 pb	34	0038	4809337
-entry	Chalybé, ée		
+entry	Chalybé, ée [Orfila]		
 orth	Chalybé		
 pb	35	0039	4809338
-entry	Chambre		
-entry	Chamaedrys ou Petit chêne		
+entry	Chambre [A. Béclard]		
+orth	Chambre		
+entry	Chamaedrys ou Petit chêne [A. Richard]		
 orth	Chamaedrys		
 orth	Petit chêne		
-entry	Chamaepitis		
-entry	Champignons		
+entry	Chamaepitis [A. Richard]		
+orth	Chamaepitis		
+entry	Champignons [A. Richard]		
+orth	Champignons		
 pb	36	0040	4809339
 pb	37	0041	4809340
 pb	38	0042	4809341
@@ -61,7 +69,8 @@ pb	45	0049	4809348
 pb	46	0050	4809349
 pb	47	0051	4809350
 pb	48	0052	4809351
-entry	Chancre		
+entry	Chancre [L		
+ref	Lagneau]		
 pb	49	0053	4809352
 pb	50	0054	4809353
 pb	51	0055	4809354
@@ -86,27 +95,33 @@ pb	69	0073	4809372
 pb	70	0074	4809373
 pb	71	0075	4809374
 pb	72	0076	4809375
-entry	Chant		
+entry	Chant [Rullier]		
+orth	Chant		
 pb	73	0077	4809376
 pb	74	0078	4809377
 pb	75	0079	4809378
 pb	76	0080	4809379
 pb	77	0081	4809380
 pb	78	0082	4809381
-entry	Chanterelle		
-entry	Chanvre		
+entry	Chanterelle [A. Richard]		
+orth	Chanterelle		
+entry	Chanvre [A. Richard]		
+orth	Chanvre		
 pb	79	0083	4809382
 entry	Chapeau		
-entry	Charanson		
+entry	Charanson [Hippol. Cloquet]		
+orth	Charanson		
 pb	80	0084	4809383
 pb	81	0085	4809384
-entry	Charbon		
+entry	Charbon [Orfila]		
+orth	Charbon		
 pb	82	0086	4809385
 pb	83	0087	4809386
 pb	84	0088	4809387
 pb	85	0089	4809388
 pb	86	0090	4809389
-entry	Charbon		
+entry	Charbon [Marjolin]		
+orth	Charbon		
 pb	87	0091	4809390
 pb	88	0092	4809391
 pb	89	0093	4809392
@@ -123,35 +138,47 @@ pb	99	0103	4809402
 pb	100	0104	4809403
 pb	101	0105	4809404
 pb	102	0106	4809405
-entry	Chardon		
-entry	Chardon hémorrhoïdal		
-entry	Chardon étoilé		
-entry	Chardon Roland ou Roulant		
+entry	Chardon [A. Richard]		
+orth	Chardon		
+entry	Chardon hémorrhoïdal [A. Richard]		
+orth	Chardon hémorrhoïdal		
+entry	Chardon étoilé [A. Richard]		
+orth	Chardon étoilé		
+entry	Chardon Roland ou Roulant [A. Richard]		
 orth	Chardon Roland		
 orth	Roulant		
-entry	Charlatan		
+entry	Charlatan [Raige Delorme]		
+orth	Charlatan		
 pb	103	0107	4809406
 pb	104	0108	4809407
 pb	105	0109	4809408
 pb	106	0110	4809409
 pb	107	0111	4809410
-entry	Charnu, ue		
+entry	Charnu, ue [A. Béclard]		
 orth	Charnu		
-entry	Charpie		
+entry	Charpie [Marjolin]		
+orth	Charpie		
 pb	108	0112	4809411
 entry	Chartre		
-entry	Chassie		
-entry	Chataigne		
-entry	Chataignier		
+entry	Chassie [Raige Delorme]		
+orth	Chassie		
+entry	Chataigne [A. Richard]		
+orth	Chataigne		
+entry	Chataignier [A. Richard]		
+orth	Chataignier		
 pb	109	0113	4809412
-entry	Chatonnement		
+entry	Chatonnement [Raige Delorme, Desormeaux]		
+orth	Chatonnement		
 pb	110	0114	4809413
-entry	Chatouillement		
+entry	Chatouillement [Adelon]		
+orth	Chatouillement		
 pb	111	0115	4809414
 pb	112	0116	4809415
 entry	Chaudepisse		
-entry	Chausse-trape		
-entry	Chaux		
+entry	Chausse-trape [A. Richard]		
+orth	Chausse-trape		
+entry	Chaux [Orfila]		
+orth	Chaux		
 pb	113	0117	4809416
 pb	114	0118	4809417
 pb	115	0119	4809418
@@ -159,40 +186,59 @@ pb	116	0120	4809419
 pb	117	0121	4809420
 pb	118	0122	4809421
 entry	Chef		
-entry	Chélidoine		
+entry	Chélidoine [A. Richard]		
+orth	Chélidoine		
 pb	119	0123	4809422
-entry	Chémiatrie		
-entry	Chémosis		
-entry	Chêne		
+entry	Chémiatrie [Coutanceau]		
+orth	Chémiatrie		
+entry	Chémosis [Jules Cloquet]		
+orth	Chémosis		
+entry	Chêne [A. Richard]		
+orth	Chêne		
 pb	120	0124	4809423
 pb	121	0125	4809424
 pb	122	0126	4809425
-entry	Chénevis		
-entry	Chénopodées		
-entry	Chevauchement		
-entry	Chevelure		
-entry	Chevestre		
+entry	Chénevis [A. Richard]		
+orth	Chénevis		
+entry	Chénopodées [A. Richard]		
+orth	Chénopodées		
+entry	Chevauchement [Jules Cloquet]		
+orth	Chevauchement		
+entry	Chevelure [A. Béclard]		
+orth	Chevelure		
+entry	Chevestre [Marjolin]		
+orth	Chevestre		
 pb	123	0127	4809426
 pb	124	0128	4809427
-entry	Cheveu		
-entry	Cheville		
-entry	Chèvre		
+entry	Cheveu [A. Béclard]		
+orth	Cheveu		
+entry	Cheville [A. Béclard]		
+orth	Cheville		
+entry	Chèvre [Hippol. Cloquet]		
+orth	Chèvre		
 pb	125	0129	4809428
-entry	Chèvre-feuille		
-entry	Chevreuil		
-entry	Chicoracées		
+entry	Chèvre-feuille [A. Richard]		
+orth	Chèvre-feuille		
+entry	Chevreuil [Hippol. Cloquet]		
+orth	Chevreuil		
+entry	Chicoracées [A. Richard]		
+orth	Chicoracées		
 pb	126	0130	4809429
-entry	Chicorée		
-entry	Chiendent		
+entry	Chicorée [A. Richard]		
+orth	Chicorée		
+entry	Chiendent [A. Richard]		
+orth	Chiendent		
 pb	127	0131	4809430
-entry	Chimie		
+entry	Chimie [Orfila]		
+orth	Chimie		
 pb	128	0132	4809431
 pb	129	0133	4809432
 pb	130	0134	4809433
 pb	131	0135	4809434
 pb	132	0136	4809435
 pb	133	0137	4809436
-entry	Chimisme		
+entry	Chimisme [Coutanceau]		
+orth	Chimisme		
 pb	134	0138	4809437
 pb	135	0139	4809438
 pb	136	0140	4809439
@@ -201,12 +247,16 @@ pb	138	0142	4809441
 pb	139	0143	4809442
 pb	140	0144	4809443
 pb	141	0145	4809444
-entry	Chique		
+entry	Chique [Hippol. Cloquet]		
+orth	Chique		
 pb	142	0146	4809445
 entry	Chiragre		
-entry	Chiromancie		
-entry	Chironien		
-entry	Chirurgie		
+entry	Chiromancie [Raige Delorme]		
+orth	Chiromancie		
+entry	Chironien [Jules Cloquet]		
+orth	Chironien		
+entry	Chirurgie [Jules Cloquet]		
+orth	Chirurgie		
 pb	143	0147	4809446
 pb	144	0148	4809447
 pb	145	0149	4809448
@@ -220,11 +270,13 @@ pb	152	0156	4809455
 pb	153	0157	4809456
 pb	154	0158	4809457
 pb	155	0159	4809458
-entry	Chirurgien		
+entry	Chirurgien [Jules Cloquet]		
+orth	Chirurgien		
 pb	156	0160	4809459
 pb	157	0161	4809460
 entry	Chlorate		
-entry	Chlorate oxygéné		
+entry	Chlorate oxygéné [Orfila]		
+orth	Chlorate oxygéné		
 entry	Chlore		
 pb	158	0162	4809461
 pb	159	0163	4809462
@@ -240,10 +292,13 @@ entry	Chlorique oxygéné (acide)
 entry	Chlorocyanate		
 entry	Chlorocyanique (acide)		
 entry	Chloro-phosphate		
-entry	Chloro-phosphorique (acide)		
-entry	Chlorophylle		
+entry	Chloro-phosphorique (acide) [Orfila]		
+orth	Chloro-phosphorique (acide)		
+entry	Chlorophylle [J. Pelletier]		
+orth	Chlorophylle		
 pb	166	0170	4809469
-entry	Chlorose		
+entry	Chlorose [Désormeaux]		
+orth	Chlorose		
 pb	167	0171	4809470
 pb	168	0172	4809471
 pb	169	0173	4809472
@@ -253,16 +308,22 @@ pb	172	0176	4809475
 pb	173	0177	4809476
 pb	174	0178	4809477
 entry	Chloroxycarbonate		
-entry	Chloroxycarbonique (acide)		
-entry	Chlorure		
+entry	Chloroxycarbonique (acide) [Orfila]		
+orth	Chloroxycarbonique (acide)		
+entry	Chlorure [Orfila]		
+orth	Chlorure		
 pb	175	0179	4809478
 pb	176	0180	4809479
-entry	Chocolat		
+entry	Chocolat [L. Rostan]		
+orth	Chocolat		
 pb	177	0181	4809480
 pb	178	0182	4809481
-entry	Cholagogue		
-entry	Cholédoque		
-entry	Cholera-morbus		
+entry	Cholagogue [Guersent]		
+orth	Cholagogue		
+entry	Cholédoque [A. Béclard]		
+orth	Cholédoque		
+entry	Cholera-morbus [G. Ferrus]		
+orth	Cholera-morbus		
 pb	179	0183	4809482
 pb	180	0184	4809483
 pb	181	0185	4809484
@@ -275,40 +336,56 @@ pb	187	0191	4809490
 pb	188	0192	4809491
 pb	189	0193	4809492
 pb	190	0194	4809493
-entry	Cholérique		
+entry	Cholérique [Coutanceau]		
+orth	Cholérique		
 entry	Cholesterate		
 entry	Cholesterine		
 pb	191	0195	4809494
-entry	Cholestérique (acide)		
+entry	Cholestérique (acide) [Orfila]		
+orth	Cholestérique (acide)		
 pb	192	0196	4809495
-entry	Chondro-glosse		
-entry	Chondrographie, - logie, - tomie		
+entry	Chondro-glosse [A. Béclard]		
+orth	Chondro-glosse		
+entry	Chondrographie, - logie, - tomie [A. Béclard]		
 orth	Chondrographie		
 orth	logie		
 orth	tomie		
 entry	Chordapse		
-entry	Chorée		
+entry	Chorée [Georget]		
+orth	Chorée		
 pb	193	0197	4809496
 pb	194	0198	4809497
 pb	195	0199	4809498
 pb	196	0200	4809499
-entry	Chorion		
-entry	Choroïde		
-entry	Choroïdien		
-entry	Chose		
+entry	Chorion [Desormeaux]		
+orth	Chorion		
+entry	Choroïde [A. Béclard]		
+orth	Choroïde		
+entry	Choroïdien [A. Béclard]		
+orth	Choroïdien		
+entry	Chose [L. Rostan]		
+orth	Chose		
 pb	197	0201	4809500
-entry	Chou		
+entry	Chou [A. Richard]		
+orth	Chou		
 pb	198	0202	4809501
 pb	199	0203	4809502
-entry	Chou-fleur		
-entry	Chromate		
-entry	Chrome		
+entry	Chou-fleur [L		
+ref	Lagneau]		
+entry	Chromate [Orfila]		
+orth	Chromate		
+entry	Chrome [Orfila]		
+orth	Chrome		
 pb	200	0204	4809503
-entry	Chromique (acide)		
+entry	Chromique (acide) [Orfila]		
+orth	Chromique (acide)		
 pb	201	0205	4809504
-entry	Chronique		
-entry	Chryside		
-entry	Chute		
+entry	Chronique [Chomel]		
+orth	Chronique		
+entry	Chryside [Hippol. Cloquet]		
+orth	Chryside		
+entry	Chute [Marjolin, Desormeaux]		
+orth	Chute		
 pb	202	0206	4809505
 pb	203	0207	4809506
 pb	204	0208	4809507
@@ -335,10 +412,13 @@ pb	224	0228	4809527
 pb	225	0229	4809528
 pb	226	0230	4809529
 pb	227	0231	4809530
-entry	Chyle		
+entry	Chyle [Adelon]		
+orth	Chyle		
 pb	228	0232	4809531
-entry	Chyleux		
-entry	Chylifère		
+entry	Chyleux [Adelon]		
+orth	Chyleux		
+entry	Chylifère [A. Béclard, Adelon]		
+orth	Chylifère		
 pb	229	0233	4809532
 pb	230	0234	4809533
 pb	231	0235	4809534
@@ -351,25 +431,33 @@ pb	237	0241	4809540
 pb	238	0242	4809541
 pb	239	0243	4809542
 pb	240	0244	4809543
-entry	Chylification		
+entry	Chylification [Adelon]		
+orth	Chylification		
 pb	241	0245	4809544
-entry	Chylose		
-entry	Chyme		
+entry	Chylose [Adelon]		
+orth	Chylose		
+entry	Chyme [Rullier]		
+orth	Chyme		
 pb	242	0246	4809545
 pb	243	0247	4809546
 pb	244	0248	4809547
-entry	Chymification		
-entry	Cicatrice		
+entry	Chymification [Rullier]		
+orth	Chymification		
+entry	Cicatrice [Breschet]		
+orth	Cicatrice		
 pb	245	0249	4809548
 pb	246	0250	4809549
 pb	247	0251	4809550
 pb	248	0252	4809551
 pb	249	0253	4809552
 pb	250	0254	4809553
-entry	Cicatricule		
-entry	Cicatrisant		
+entry	Cicatricule [Breschet]		
+orth	Cicatricule		
+entry	Cicatrisant [Raige Delorme]		
+orth	Cicatrisant		
 pb	251	0255	4809554
-entry	Cicatrisation		
+entry	Cicatrisation [G. Breschet]		
+orth	Cicatrisation		
 pb	252	0256	4809555
 pb	253	0257	4809556
 pb	254	0258	4809557
@@ -407,36 +495,47 @@ pb	285	0289	4809588
 pb	286	0290	4809589
 pb	287	0291	4809590
 pb	288	0292	4809591
-entry	Cicutaire		
+entry	Cicutaire [A. Richard]		
+orth	Cicutaire		
 pb	289	0293	4809592
-entry	Cidre		
+entry	Cidre [L. Rostan]		
+orth	Cidre		
 pb	290	0294	4809593
 pb	291	0295	4809594
 pb	292	0296	4809595
-entry	Cigue		
+entry	Cigue [A. Richard]		
+orth	Cigue		
 pb	293	0297	4809596
 pb	294	0298	4809597
 pb	295	0299	4809598
 pb	296	0300	4809599
-entry	Cil		
-entry	Ciliaire		
+entry	Cil [A. Béclard]		
+orth	Cil		
+entry	Ciliaire [A. Béclard]		
+orth	Ciliaire		
 pb	297	0301	4809600
 entry	Cillement		
 entry	Cimetière		
 entry	Cimolée (terre)		
-entry	Cinabre ou Cinnabre		
+entry	Cinabre ou Cinnabre [Orfila]		
 orth	Cinabre		
 orth	Cinnabre		
-entry	Cinchonine		
+entry	Cinchonine [Orfila]		
+orth	Cinchonine		
 pb	298	0302	4809601
 pb	299	0303	4809602
-entry	Circée		
-entry	Circoncision		
+entry	Circée [A. Richard]		
+orth	Circée		
+entry	Circoncision [Raige Delorme]		
+orth	Circoncision		
 pb	300	0304	4809603
-entry	Circonflexe		
-entry	Circonvolution		
+entry	Circonflexe [A. Béclard]		
+orth	Circonflexe		
+entry	Circonvolution [A. Béclard]		
+orth	Circonvolution		
 entry	Circulaire		
-entry	Circulation		
+entry	Circulation [Adelon]		
+orth	Circulation		
 pb	301	0305	4809604
 pb	302	0306	4809605
 pb	303	0307	4809606
@@ -477,54 +576,79 @@ pb	337	0341	4809640
 pb	338	0342	4809641
 pb	339	0343	4809642
 pb	340	0344	4809643
-entry	Circumfusa		
-entry	Cire		
+entry	Circumfusa [L. Rostan]		
+orth	Circumfusa		
+entry	Cire [J. Pelletier]		
+orth	Cire		
 pb	341	0345	4809644
-entry	Ciron		
+entry	Ciron [Hippol. Cloquet]		
+orth	Ciron		
 pb	342	0346	4809645
-entry	Cirsocéle		
-entry	Cirsomphale		
-entry	Cirsophthalmie		
-entry	Ciseau		
+entry	Cirsocéle [Jules Cloquet]		
+orth	Cirsocéle		
+entry	Cirsomphale [Jules Cloquet]		
+orth	Cirsomphale		
+entry	Cirsophthalmie [Jules Cloquet]		
+orth	Cirsophthalmie		
+entry	Ciseau [Jules Cloquet]		
+orth	Ciseau		
 pb	343	0347	4809646
 pb	344	0348	4809647
-entry	Ciseaux		
+entry	Ciseaux [Jules Cloquet]		
+orth	Ciseaux		
 pb	345	0349	4809648
 pb	346	0350	4809649
 pb	347	0351	4809650
 pb	348	0352	4809651
 pb	349	0353	4809652
 pb	350	0354	4809653
-entry	Citerne		
-entry	Citrate		
-entry	Citrique (acide)		
+entry	Citerne [A. Béclard]		
+orth	Citerne		
+entry	Citrate [J. Pelletier]		
+orth	Citrate		
+entry	Citrique (acide) [J. Pelletier]		
+orth	Citrique (acide)		
 pb	351	0355	4809654
 pb	352	0356	4809655
 entry	Citron		
-entry	Citronnier		
+entry	Citronnier [A. Richard]		
+orth	Citronnier		
 pb	353	0357	4809656
-entry	Citrouille		
-entry	Civette		
+entry	Citrouille [A. Richard]		
+orth	Citrouille		
+entry	Civette [Hippol. Cloquet]		
+orth	Civette		
 pb	354	0358	4809657
-entry	Clapier		
-entry	Classification		
+entry	Clapier [Raige Delorme]		
+orth	Clapier		
+entry	Classification [Raige Delorme]		
+orth	Classification		
 pb	355	0359	4809658
-entry	Claudication		
-entry	Clavaire		
+entry	Claudication [G. Breschet]		
+orth	Claudication		
+entry	Clavaire [A. Richard]		
+orth	Clavaire		
 pb	356	0360	4809659
 entry	Claviculaire		
-entry	Clavicule		
+entry	Clavicule [A. Béclard]		
+orth	Clavicule		
 pb	357	0361	4809660
 pb	358	0362	4809661
-entry	Clef		
-entry	Cleisagre		
-entry	Clématite		
+entry	Clef [Marjolin]		
+orth	Clef		
+entry	Cleisagre [Raige Delorme]		
+orth	Cleisagre		
+entry	Clématite [A. Richard]		
+orth	Clématite		
 pb	359	0363	4809662
-entry	Clignement		
-entry	Clignotement		
+entry	Clignement [Raige Delorme]		
+orth	Clignement		
+entry	Clignotement [Jules Cloquet]		
+orth	Clignotement		
 pb	360	0364	4809663
 pb	361	0365	4809664
-entry	Climat		
+entry	Climat [L. Rostan]		
+orth	Climat		
 pb	362	0366	4809665
 pb	363	0367	4809666
 pb	364	0368	4809667
@@ -540,26 +664,37 @@ pb	373	0377	4809676
 pb	374	0378	4809677
 pb	375	0379	4809678
 pb	376	0380	4809679
-entry	Climatologie		
-entry	Climatérique		
+entry	Climatologie [L. Rostan]		
+orth	Climatologie		
+entry	Climatérique [Chomel]		
+orth	Climatérique		
 pb	377	0381	4809680
-entry	Clinique		
+entry	Clinique [Raige Delorme]		
+orth	Clinique		
 pb	378	0382	4809681
 pb	379	0383	4809682
 pb	380	0384	4809683
-entry	Clinoïde		
-entry	Cliquetis		
-entry	Cliséomètre		
-entry	Clitoris		
+entry	Clinoïde [A. Béclard]		
+orth	Clinoïde		
+entry	Cliquetis [Jules Cloquet]		
+orth	Cliquetis		
+entry	Cliséomètre [Desormeaux]		
+orth	Cliséomètre		
+entry	Clitoris [A. Béclard]		
+orth	Clitoris		
 pb	381	0385	4809684
-entry	Clonique		
-entry	Cloporte		
+entry	Clonique [Georget]		
+orth	Clonique		
+entry	Cloporte [Hippol. Cloquet]		
+orth	Cloporte		
 pb	382	0386	4809685
-entry	Clou		
-entry	Clou de gérofle ou de Girofle		
+entry	Clou [Jules Cloquet, Georget]		
+orth	Clou		
+entry	Clou de gérofle ou de Girofle [A. Béclard]		
 orth	Clou de gérofle		
 orth	de Girofle		
-entry	Clystère		
+entry	Clystère [Guersent]		
+orth	Clystère		
 pb	383	0387	4809686
 pb	384	0388	4809687
 pb	385	0389	4809688
@@ -567,46 +702,60 @@ pb	386	0390	4809689
 pb	387	0391	4809690
 pb	388	0392	4809691
 pb	389	0393	4809692
-entry	Coagulant		
-entry	Coagulum		
-entry	Coalescence, Coalition		
+entry	Coagulant [Raige Delorme]		
+orth	Coagulant		
+entry	Coagulum [Orfila]		
+orth	Coagulum		
+entry	Coalescence, Coalition [Raige Delorme]		
 orth	Coalescence		
 orth	Coalition		
-entry	Coaptation		
-entry	Coarctation		
-entry	Cobalt		
+entry	Coaptation [Jules Cloquet]		
+orth	Coaptation		
+entry	Coarctation [Raige Delorme]		
+orth	Coarctation		
+entry	Cobalt [Orfila]		
+orth	Cobalt		
 pb	390	0394	4809693
 pb	391	0395	4809694
 entry	Coccygien		
 entry	Coccygio-anal (muscle)		
-entry	Coccyx		
+entry	Coccyx [A. Béclard]		
+orth	Coccyx		
 pb	392	0396	4809695
 entry	Cochée (pilule)		
-entry	Cochléaria ou Cranson		
+entry	Cochléaria ou Cranson [A. Richard]		
 orth	Cochléaria		
 orth	Cranson		
 pb	393	0397	4809696
 pb	394	0398	4809697
-entry	Cochon		
-entry	Coction		
+entry	Cochon [Hippol. Cloquet]		
+orth	Cochon		
+entry	Coction [Landré Beauvais]		
+orth	Coction		
 pb	395	0399	4809698
 pb	396	0400	4809699
 pb	397	0401	4809700
 pb	398	0402	4809701
 entry	Cocyte		
-entry	Codagapale		
+entry	Codagapale [A. Richard]		
+orth	Codagapale		
 pb	399	0403	4809702
-entry	Code		
+entry	Code [Guersent]		
+orth	Code		
 entry	Coecal		
-entry	Coecum et Caecum		
+entry	Coecum et Caecum [Raige Delorme]		
 orth	Coecum		
 orth	Caecum		
-entry	Coeffe		
-entry	Coeliaque		
+entry	Coeffe [Desormeaux]		
+orth	Coeffe		
+entry	Coeliaque [A. Béclard, Raige Delorme]		
+orth	Coeliaque		
 pb	400	0404	4809703
-entry	Coeloma		
+entry	Coeloma [Jules Cloquet]		
+orth	Coeloma		
 pb	401	0405	4809704
-entry	Coeur		
+entry	Coeur [A. Béclard]		
+orth	Coeur		
 pb	402	0406	4809705
 pb	403	0407	4809706
 pb	404	0408	4809707
@@ -622,9 +771,11 @@ pb	413	0417	4809716
 pb	414	0418	4809717
 pb	415	0419	4809718
 pb	416	0420	4809719
-entry	Coeur (maladies du)		
+entry	Coeur (maladies du) [Chomel]		
+orth	Coeur (maladies du)		
 pb	417	0421	4809720
-entry	Coeur (maldies du)		
+entry	Coeur (maldies du) [Chomel]		
+orth	Coeur (maldies du)		
 pb	418	0422	4809721
 pb	419	0423	4809722
 pb	420	0424	4809723
@@ -641,12 +792,17 @@ pb	430	0434	4809733
 pb	431	0435	4809734
 pb	432	0436	4809735
 pb	433	0437	4809736
-entry	Coeur (maladies du)		
-entry	Coignassier		
-entry	Coïncidence		
-entry	Coindication		
+entry	Coeur (maladies du) [Chomel]		
+orth	Coeur (maladies du)		
+entry	Coignassier [A. Richard]		
+orth	Coignassier		
+entry	Coïncidence [Raige Delorme]		
+orth	Coïncidence		
+entry	Coindication [Guersent]		
+orth	Coindication		
 pb	434	0438	4809737
-entry	Coït		
+entry	Coït [L. Rostan]		
+orth	Coït		
 pb	435	0439	4809738
 pb	436	0440	4809739
 pb	437	0441	4809740
@@ -658,18 +814,23 @@ pb	442	0446	4809745
 pb	443	0447	4809746
 pb	444	0448	4809747
 pb	445	0449	4809748
-entry	Col		
+entry	Col [A. Béclard]		
+orth	Col		
 pb	446	0450	4809749
-entry	Colchicacées		
-entry	Colchique		
+entry	Colchicacées [A. Richard]		
+orth	Colchicacées		
+entry	Colchique [A. Richard]		
+orth	Colchique		
 pb	447	0451	4809750
 pb	448	0452	4809751
-entry	Colcothar ou Chalcite		
+entry	Colcothar ou Chalcite [Orfila]		
 orth	Colcothar		
 orth	Chalcite		
 entry	Colère		
-entry	Colique		
-entry	Colique		
+entry	Colique [A. Béclard]		
+orth	Colique		
+entry	Colique [Chomel]		
+orth	Colique		
 pb	449	0453	4809752
 pb	450	0454	4809753
 pb	451	0455	4809754
@@ -683,46 +844,59 @@ pb	458	0462	4809761
 pb	459	0463	4809762
 pb	460	0464	4809763
 entry	Colite		
-entry	Collapsus		
+entry	Collapsus [Georget]		
+orth	Collapsus		
 pb	461	0465	4809764
-entry	Collatéral		
+entry	Collatéral [A. Béclard]		
+orth	Collatéral		
 entry	Colle de poisson		
 entry	Collet		
 pb	462	0466	4809765
 entry	Colliquatif		
-entry	Colliquation		
+entry	Colliquation [Raige Delorme]		
+orth	Colliquation		
 pb	463	0467	4809766
-entry	Collision		
+entry	Collision [Raige Delorme]		
+orth	Collision		
 pb	464	0468	4809767
-entry	Collutoire		
-entry	Collyre		
+entry	Collutoire [Guersent]		
+orth	Collutoire		
+entry	Collyre [Guersent]		
+orth	Collyre		
 pb	465	0469	4809768
 pb	466	0470	4809769
 pb	467	0471	4809770
 pb	468	0472	4809771
 pb	469	0473	4809772
-entry	Colombo ou Columbo		
+entry	Colombo ou Columbo [A. Richard]		
 orth	Colombo		
 orth	Columbo		
 pb	470	0474	4809773
 entry	Colon		
-entry	Colonne		
+entry	Colonne [A. Béclard]		
+orth	Colonne		
 entry	Colophone		
 pb	471	0475	4809774
-entry	Coloquinte		
+entry	Coloquinte [A. Richard]		
+orth	Coloquinte		
 pb	472	0476	4809775
-entry	Colostration		
-entry	Colostrum		
-entry	Coma		
+entry	Colostration [Désormeaux]		
+orth	Colostration		
+entry	Colostrum [Désormeaux]		
+orth	Colostrum		
+entry	Coma [Georget]		
+orth	Coma		
 pb	473	0477	4809776
-entry	Combustion humaine spontanée		
+entry	Combustion humaine spontanée [G. Breschet]		
+orth	Combustion humaine spontanée		
 pb	474	0478	4809777
 pb	475	0479	4809778
 pb	476	0480	4809779
 pb	477	0481	4809780
 pb	478	0482	4809781
 pb	479	0483	4809782
-entry	Comestible		
+entry	Comestible [Raige Delorme]		
+orth	Comestible		
 pb	480	0484	4809783
 pb	481	0485	4809784
 pb	482	0486	4809785
@@ -744,96 +918,137 @@ pb	497	0501	4809800
 pb	498	0502	4809801
 entry	Commémoratif		
 entry	Comminutif		
-entry	Commissure		
+entry	Commissure [A. Béclard]		
+orth	Commissure		
 pb	499	0503	4809802
-entry	Commotion		
+entry	Commotion [Georget]		
+orth	Commotion		
 pb	500	0504	4809803
 pb	501	0505	4809804
 pb	502	0506	4809805
 pb	503	0507	4809806
 pb	504	0508	4809807
-entry	Communicant		
+entry	Communicant [A. Béclard]		
+orth	Communicant		
 pb	505	0509	4809808
 entry	Compact (substance ou tissu)		
-entry	Complexion		
-entry	Complexus (muscles)		
+entry	Complexion [L. Rostan]		
+orth	Complexion		
+entry	Complexus (muscles) [A. Béclard]		
+orth	Complexus (muscles)		
 pb	506	0510	4809809
-entry	Complication		
+entry	Complication [Chomel]		
+orth	Complication		
 pb	507	0511	4809810
 pb	508	0512	4809811
 pb	509	0513	4809812
 entry	Composé		
-entry	Composition		
-entry	Compresse		
+entry	Composition [Raige Delorme]		
+orth	Composition		
+entry	Compresse [Marjolin]		
+orth	Compresse		
 pb	510	0514	4809813
 entry	Compressif		
-entry	Compression		
+entry	Compression [Marjolin]		
+orth	Compression		
 pb	511	0515	4809814
 pb	512	0516	4809815
 pb	513	0517	4809816
-entry	Conarium		
+entry	Conarium [A. Béclard]		
+orth	Conarium		
 pb	514	0518	4809817
-entry	Concentration		
+entry	Concentration [Raige Delorme]		
+orth	Concentration		
 entry	Concentré		
 entry	Conception		
-entry	Concombre		
+entry	Concombre [A. Richard]		
+orth	Concombre		
 pb	515	0519	4809818
 entry	Concomitant		
-entry	Concrétion		
+entry	Concrétion [G. Breschet]		
+orth	Concrétion		
 pb	516	0520	4809819
 entry	Condiment		
 entry	Conducteur		
 entry	Conduit		
 entry	Condyle		
-entry	Condylien ou Condyloïdien		
+entry	Condylien ou Condyloïdien [A. Béclard]		
 orth	Condylien		
 orth	Condyloïdien		
 pb	517	0521	4809820
-entry	Condylome		
-entry	Confection		
+entry	Condylome [L		
+ref	Lagneau]		
+entry	Confection [Guersent]		
+orth	Confection		
 pb	518	0522	4809821
-entry	Conformation		
-entry	Confortant		
-entry	Congénère		
-entry	Congénial		
+entry	Conformation [Raige Delorme]		
+orth	Conformation		
+entry	Confortant [Guersent]		
+orth	Confortant		
+entry	Congénère [A. Béclard]		
+orth	Congénère		
+entry	Congénial [Chomel]		
+orth	Congénial		
 pb	519	0523	4809822
-entry	Congestion		
+entry	Congestion [Chomel]		
+orth	Congestion		
 entry	Conglobées (glandes)		
-entry	Conglomérées (glandes)		
-entry	Congrès		
-entry	Conifères		
+entry	Conglomérées (glandes) [A. Béclard]		
+orth	Conglomérées (glandes)		
+entry	Congrès [Raige Delorme]		
+orth	Congrès		
+entry	Conifères [A. Richard]		
+orth	Conifères		
 pb	520	0524	4809823
-entry	Conjonctive		
+entry	Conjonctive [A. Béclard]		
+orth	Conjonctive		
 pb	521	0525	4809824
-entry	Conjugaison (trous de)		
-entry	Conoïde		
-entry	Conquassant		
-entry	Conque		
-entry	Consécutifs (phénomènes)		
+entry	Conjugaison (trous de) [A. Béclard]		
+orth	Conjugaison (trous de)		
+entry	Conoïde [A. Béclard]		
+orth	Conoïde		
+entry	Conquassant [Raige Delorme]		
+orth	Conquassant		
+entry	Conque [A. Béclard]		
+orth	Conque		
+entry	Consécutifs (phénomènes) [Chomel]		
+orth	Consécutifs (phénomènes)		
 pb	522	0526	4809825
 entry	Consensus		
-entry	Conserve		
+entry	Conserve [Guersent]		
+orth	Conserve		
 pb	523	0527	4809826
-entry	Conserves		
-entry	Consolidant		
-entry	Consommé		
-entry	Consomptif		
-entry	Consomption		
+entry	Conserves [L. Rostan]		
+orth	Conserves		
+entry	Consolidant [Raige Delorme]		
+orth	Consolidant		
+entry	Consommé [L. Rostan]		
+orth	Consommé		
+entry	Consomptif [Marjolin]		
+orth	Consomptif		
+entry	Consomption [Raige Delorme]		
+orth	Consomption		
 pb	524	0528	4809827
-entry	Consoude		
+entry	Consoude [A. Richard]		
+orth	Consoude		
 pb	525	0529	4809828
-entry	Constipation		
+entry	Constipation [Chomel]		
+orth	Constipation		
 pb	526	0530	4809829
 pb	527	0531	4809830
-entry	Constitution		
+entry	Constitution [L. Rostan]		
+orth	Constitution		
 pb	528	0532	4809831
 pb	529	0533	4809832
 pb	530	0534	4809833
-entry	Constitutionnel		
+entry	Constitutionnel [Chomel]		
+orth	Constitutionnel		
 entry	Constricteur		
 pb	531	0535	4809834
-entry	Constriction		
-entry	Consultation		
+entry	Constriction [Raige Delorme]		
+orth	Constriction		
+entry	Consultation [Raige Delorme]		
+orth	Consultation		
 pb	532	0536	4809835
 pb	533	0537	4809836
 pb	534	0538	4809837
@@ -842,7 +1057,8 @@ pb	536	0540	4809839
 pb	537	0541	4809840
 pb	538	0542	4809841
 entry	Contagieux		
-entry	Contagion		
+entry	Contagion [Rochoux]		
+orth	Contagion		
 pb	539	0543	4809842
 pb	540	0544	4809843
 pb	541	0545	4809844
@@ -852,7 +1068,8 @@ pb	544	0548	4809847
 pb	545	0549	4809848
 pb	546	0550	4809849
 pb	547	0551	4809850
-entry	Contagion		
+entry	Contagion [Marc]		
+orth	Contagion		
 pb	548	0552	4809851
 pb	549	0553	4809852
 pb	550	0554	4809853
@@ -871,54 +1088,70 @@ pb	562	0566	4809865
 pb	563	0567	4809866
 pb	564	0568	4809867
 pb	565	0569	4809868
-entry	Contemplation		
+entry	Contemplation [Georget]		
+orth	Contemplation		
 entry	Contentif		
-entry	Continence		
-entry	Continent		
-entry	Continu		
+entry	Continence [L. Rostan]		
+orth	Continence		
+entry	Continent [Coutanceau]		
+orth	Continent		
+entry	Continu [Coutanceau]		
+orth	Continu		
 pb	566	0570	4809869
-entry	Contondant		
-entry	Contorsion		
-entry	Contractile		
+entry	Contondant [Raige Delorme]		
+orth	Contondant		
+entry	Contorsion [Georget]		
+orth	Contorsion		
+entry	Contractile [Rullier]		
+orth	Contractile		
 pb	567	0571	4809870
-entry	Contractilité		
+entry	Contractilité [Rullier]		
+orth	Contractilité		
 pb	568	0572	4809871
 pb	569	0573	4809872
 pb	570	0574	4809873
 pb	571	0575	4809874
 pb	572	0576	4809875
 pb	573	0577	4809876
-entry	Contraction		
-entry	Contracture		
-entry	Contra-yerva		
+entry	Contraction [Rullier]		
+orth	Contraction		
+entry	Contracture [Georget]		
+orth	Contracture		
+entry	Contra-yerva [A. Richard]		
+orth	Contra-yerva		
 pb	574	0578	4809877
-entry	Contre-coup		
+entry	Contre-coup [Guersent]		
+orth	Contre-coup		
 pb	575	0579	4809878
 pb	576	0580	4809879
 pb	577	0581	4809880
 pb	580	0582	4809881
 entry	Contre-indiquant		
 entry	Contre-ouverture		
-entry	Contre-poison		
+entry	Contre-poison [Orfila]		
+orth	Contre-poison		
 pb	581	0583	4809882
 pb	582	0584	4809883
 pb	583	0585	4809884
 pb	584	0586	4809885
-entry	Contre-stimulant		
+entry	Contre-stimulant [Guersent]		
+orth	Contre-stimulant		
 pb	585	0587	4809886
 pb	586	0588	4809887
 entry	Contre-stimuliste ou Contro-stimuliste		
 orth	Contre-stimuliste		
 orth	Contro-stimuliste		
 pb	587	0589	4809888
-entry	Contre-stimulus (théorie du)		
+entry	Contre-stimulus (théorie du) [Coutanceau]		
+orth	Contre-stimulus (théorie du)		
 pb	588	0590	4809889
 pb	589	0591	4809890
 pb	590	0592	4809891
 pb	591	0593	4809892
 pb	592	0594	4809893
 pb	593	0595	4809894
-entry	Contusion		
+entry	Contusion [Marjolin]		
+orth	Contusion		
 pb	594	0596	4809895
 pb	595	0597	4809896
 pb	596	0598	4809897
@@ -931,16 +1164,20 @@ pb	600	0604	4809903
 pb	601	0605	4809904
 pb	602	0606	4809905
 pb	603	0607	4809906
-entry	Convalescence		
+entry	Convalescence [Chomel]		
+orth	Convalescence		
 pb	604	0608	4809907
 pb	605	0609	4809908
 pb	606	0610	4809909
 pb	607	0611	4809910
-entry	Conversion		
+entry	Conversion [Raige Delorme]		
+orth	Conversion		
 pb	608	0612	4809911
-entry	Convolvulacées		
+entry	Convolvulacées [A. Richard]		
+orth	Convolvulacées		
 entry	Convulsif		
-entry	Convulsion		
+entry	Convulsion [Georget]		
+orth	Convulsion		
 pb	609	0613	4809912
 pb	610	0614	4809913
 pb	611	0615	4809914

@@ -1,15 +1,20 @@
 pb	sn	0001	8139297
+entry	[Plat]		
 pb	sn	0002	8139298
+entry	[Contreplat]		
 pb	sn	0003	8139299
+entry	[Page de garde]		
 pb	pb	0004	8139300
 pb	pb	0005	8139301
 pb	pb	0006	8139302
 pb	pb	0007	8139303
 pb	pb	0008	8139304
 pb	1	0009	8139305
-entry	 (manuscrite)		
+entry	[Page de faux titre] [Dédicace] (manuscrite)		
+orth	 (manuscrite)		
 pb	2	0010	8139306
 pb	3	0011	8139307
+entry	[Page de titre]		
 pb	4	0012	8139308
 pb	5	0013	8139309
 entry	Avant-propos		
@@ -845,7 +850,7 @@ entry	Lamotte Jean
 entry	Lamy Guillaume		
 entry	Lançade Jean		
 entry	Lanoaille (de) Bardon		
-entry	Noaille Guillaume		
+entry	La Noaille Guillaume		
 entry	Lanoaille Antoine		
 entry	Laplace (de) Claude		
 entry	Lapleau Pierre		
@@ -875,9 +880,9 @@ entry	Laselve Jean-Baptiste
 entry	Laselve Guillaume		
 pb	116	0124	8139420
 entry	Laselve Jean-Baptiste		
-entry	Sonde Pierre		
+entry	La Sonde Pierre		
 entry	Lasterie		
-entry	Sudrie Hugues		
+entry	La Sudrie Hugues		
 entry	Latreille Joseph, Latreille Joseph à Saint Robert		
 entry	Latreille Noel		
 entry	Laudon François		
@@ -940,7 +945,7 @@ pb	122	0130	8139426
 entry	Libourne		
 entry	Ligneyroux Antoine		
 entry	Limousin Martial		
-entry	Oberye (de)		
+entry	L'Oberye (de)		
 entry	Loménie (de) Martial		
 entry	Longour Jean		
 entry	Loubest Léonard		
@@ -1524,5 +1529,8 @@ pb	pb	0223	8139519
 pb	pb	0224	8139520
 pb	pb	0225	8139521
 pb	sn	0226	8139522
+entry	[Page de garde]		
 pb	sn	0227	8139523
+entry	[Contreplat]		
 pb	sn	0228	8139524
+entry	[Plat]		

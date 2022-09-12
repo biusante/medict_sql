@@ -1,10 +1,13 @@
 pb	[s. pag.]	0001	4818014
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4818015
 pb	[s. pag.]	0003	4818016
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4818017
 pb	1	0005	4818018
 entry	Subérine		
-entry	Subérique (acide)		
+entry	Subérique (acide) [Orfila]		
+orth	Subérique (acide)		
 entry	Sub-inflammation		
 entry	Subintrant		
 entry	Sublime		
@@ -12,9 +15,10 @@ entry	Sublimé
 pb	2	0006	4818019
 entry	Sublingual, ale		
 orth	Sublingual		
-entry	Submental, ale		
+entry	Submental, ale [Marjolin]		
 orth	Submental		
-entry	Submersion		
+entry	Submersion [Orfila]		
+orth	Submersion		
 pb	3	0007	4818020
 pb	4	0008	4818021
 pb	5	0009	4818022
@@ -51,32 +55,38 @@ pb	34	0038	4818051
 pb	35	0039	4818052
 pb	36	0040	4818053
 entry	Succédané		
-entry	Succenturiaux		
-entry	Succin ou Karabé		
+entry	Succenturiaux [Marjolin]		
+orth	Succenturiaux		
+entry	Succin ou Karabé [Hippol. Cloquet]		
 orth	Succin		
 orth	Karabé		
 pb	37	0041	4818054
 pb	38	0042	4818055
 pb	39	0043	4818056
 entry	Succinates		
-entry	Succinique (acide)		
+entry	Succinique (acide) [J. Pelletier]		
+orth	Succinique (acide)		
 pb	40	0044	4818057
 entry	Succube		
-entry	Succussion		
+entry	Succussion [Andral fils]		
+orth	Succussion		
 pb	41	0045	4818058
-entry	Sucre		
+entry	Sucre [J. Pelletier]		
+orth	Sucre		
 pb	42	0046	4818059
 pb	43	0047	4818060
 pb	44	0048	4818061
 pb	45	0049	4818062
 pb	46	0050	4818063
 entry	Sudatoire		
-entry	Sudorifique		
+entry	Sudorifique [Guersent]		
+orth	Sudorifique		
 pb	47	0051	4818064
 pb	48	0052	4818065
 pb	49	0053	4818066
 pb	50	0054	4818067
-entry	Suette miliaire		
+entry	Suette miliaire [Rochoux]		
+orth	Suette miliaire		
 pb	51	0055	4818068
 pb	52	0056	4818069
 pb	53	0057	4818070
@@ -84,7 +94,8 @@ pb	54	0058	4818071
 pb	55	0059	4818072
 pb	56	0060	4818073
 pb	57	0061	4818074
-entry	Sueur		
+entry	Sueur [Chomel]		
+orth	Sueur		
 pb	58	0062	4818075
 pb	59	0063	4818076
 entry	Suffocant		
@@ -92,30 +103,39 @@ entry	Suffocation
 pb	60	0064	4818077
 entry	Suffusion		
 entry	Sugillation		
-entry	Suicide (médecine légale)		
+entry	Suicide (médecine légale) [Georget]		
+orth	Suicide (médecine légale)		
 pb	61	0065	4818078
 pb	62	0066	4818079
 pb	63	0067	4818080
 entry	Suintement		
-entry	Sulfate		
+entry	Sulfate [Orfila]		
+orth	Sulfate		
 pb	64	0068	4818081
-entry	Sulfite		
-entry	Sulfovineux (acide)		
-entry	Sulfure		
+entry	Sulfite [Orfila]		
+orth	Sulfite		
+entry	Sulfovineux (acide) [Orfila]		
+orth	Sulfovineux (acide)		
+entry	Sulfure [Orfila]		
+orth	Sulfure		
 pb	65	0069	4818082
-entry	Sulfureux (acide)		
+entry	Sulfureux (acide) [Orfila]		
+orth	Sulfureux (acide)		
 pb	66	0070	4818083
 pb	67	0071	4818084
-entry	Sulfurique (acide)		
+entry	Sulfurique (acide) [Orfila]		
+orth	Sulfurique (acide)		
 pb	68	0072	4818085
 pb	69	0073	4818086
 pb	70	0074	4818087
 pb	71	0075	4818088
 pb	72	0076	4818089
-entry	Sumac		
+entry	Sumac [A. Richard]		
+orth	Sumac		
 pb	73	0077	4818090
 pb	74	0078	4818091
-entry	Superfétation		
+entry	Superfétation [Raige Delorme]		
+orth	Superfétation		
 pb	75	0079	4818092
 pb	76	0080	4818093
 pb	77	0081	4818094
@@ -127,23 +147,28 @@ pb	82	0086	4818099
 entry	Superpurgation		
 entry	Supinateur		
 pb	83	0087	4818100
-entry	Supination		
-entry	Supposition de part (méd. légale)		
+entry	Supination [Marjolin]		
+orth	Supination		
+entry	Supposition de part (méd. légale) [Marc]		
+orth	Supposition de part (méd. légale)		
 pb	84	0088	4818101
 pb	85	0089	4818102
-entry	Suppression de part (méd. légale)		
+entry	Suppression de part (méd. légale) [Marc]		
+orth	Suppression de part (méd. légale)		
 entry	Suppuratif		
 entry	Suppuration		
 pb	86	0090	4818103
 entry	Surcilier		
 entry	Sur-costal, ale		
 orth	Sur-costal		
-entry	Surdi-mutité		
+entry	Surdi-mutité [Andral fils]		
+orth	Surdi-mutité		
 pb	87	0091	4818104
 pb	88	0092	4818105
 pb	89	0093	4818106
 pb	90	0094	4818107
-entry	Surdité		
+entry	Surdité [Andral fils]		
+orth	Surdité		
 pb	91	0095	4818108
 pb	92	0096	4818109
 pb	93	0097	4818110
@@ -152,20 +177,22 @@ pb	95	0099	4818112
 pb	96	0100	4818113
 pb	97	0101	4818114
 pb	98	0102	4818115
-entry	Sureau		
+entry	Sureau [A. Richard]		
+orth	Sureau		
 pb	99	0103	4818116
 pb	100	0104	4818117
 entry	Sud-épineux		
 entry	Sur-excitation, Sur-irritation		
 orth	Sur-excitation		
 orth	Sur-irritation		
-entry	Surrénal, ale		
+entry	Surrénal, ale [C. P. Ollivier]		
 orth	Surrénal		
 pb	101	0105	4818118
 pb	102	0106	4818119
 entry	Surtout ligamenteux du rachis		
 pb	103	0107	4818120
-entry	Survie		
+entry	Survie [Raige Delorme]		
+orth	Survie		
 pb	104	0108	4818121
 entry	Sus-carpien, nne		
 orth	Sus-carpien		
@@ -173,7 +200,8 @@ orth	nne
 entry	Susceptibilité		
 entry	Sus-claviculaire		
 pb	105	0109	4818122
-entry	Sus-costaux (les muscles)		
+entry	Sus-costaux (les muscles) [Marjolin]		
+orth	Sus-costaux (les muscles)		
 entry	Sus-épineux, euse		
 orth	Sus-épineux		
 pb	106	0110	4818123
@@ -182,9 +210,11 @@ orth	Sus-hyoïdien
 orth	nne		
 pb	107	0111	4818124
 entry	Sus-orbitaire		
-entry	Suspenseur		
+entry	Suspenseur [Marjolin]		
+orth	Suspenseur		
 pb	108	0112	4818125
-entry	Suspensoire		
+entry	Suspensoire [Murat]		
+orth	Suspensoire		
 pb	109	0113	4818126
 entry	Suspirieux		
 entry	Sus-pubien, nne		
@@ -192,8 +222,10 @@ orth	Sus-pubien
 orth	nne		
 entry	Sus-scapulaire		
 pb	110	0114	4818127
-entry	Suture		
-entry	Suture		
+entry	Suture [Marjolin]		
+orth	Suture		
+entry	Suture [Jules Cloquet]		
+orth	Suture		
 pb	111	0115	4818128
 pb	112	0116	4818129
 pb	113	0117	4818130
@@ -205,8 +237,10 @@ pb	118	0122	4818135
 entry	Symétrie		
 pb	119	0123	4818136
 pb	120	0124	4818137
-entry	Symétrique		
-entry	Sympathie		
+entry	Symétrique [C. P. Ollivier]		
+orth	Symétrique		
+entry	Sympathie [Adelon]		
+orth	Sympathie		
 pb	121	0125	4818138
 pb	122	0126	4818139
 pb	123	0127	4818140
@@ -230,7 +264,8 @@ pb	140	0144	4818157
 pb	141	0145	4818158
 pb	142	0146	4818159
 pb	143	0147	4818160
-entry	Sympathique		
+entry	Sympathique [C. P. Ollivier]		
+orth	Sympathique		
 pb	144	0148	4818161
 pb	145	0149	4818162
 pb	146	0150	4818163
@@ -246,7 +281,8 @@ pb	155	0159	4818172
 pb	156	0160	4818173
 pb	157	0161	4818174
 pb	158	0162	4818175
-entry	Symphyse		
+entry	Symphyse [Marjolin, Desormeaux]		
+orth	Symphyse		
 pb	159	0163	4818176
 pb	160	0164	4818177
 pb	161	0165	4818178
@@ -254,7 +290,7 @@ pb	162	0166	4818179
 pb	163	0167	4818180
 pb	164	0168	4818181
 pb	165	0169	4818182
-entry	Symphyséotomie ou Symphysiotomie		
+entry	Symphyséotomie ou Symphysiotomie [Desormeaux]		
 orth	Symphyséotomie		
 orth	Symphysiotomie		
 pb	166	0170	4818183
@@ -269,7 +305,8 @@ pb	174	0178	4818191
 entry	Symptômatique		
 entry	Symptômatologie		
 entry	Symptôme		
-entry	Synanthérées		
+entry	Synanthérées [A. Richard]		
+orth	Synanthérées		
 pb	175	0179	4818192
 pb	176	0180	4818193
 pb	177	0181	4818194
@@ -277,31 +314,39 @@ pb	178	0182	4818195
 entry	Synarthrodial, ale		
 orth	Synarthrodial		
 entry	Synarthrose		
-entry	Synchondrose		
-entry	Synchondrotomie		
+entry	Synchondrose [Marjolin]		
+orth	Synchondrose		
+entry	Synchondrotomie [Desormeaux]		
+orth	Synchondrotomie		
 entry	Synciput		
 entry	Syncopal		
 pb	179	0183	4818196
-entry	Syncope		
+entry	Syncope [Rochoux]		
+orth	Syncope		
 pb	180	0184	4818197
 pb	181	0185	4818198
 pb	182	0186	4818199
 pb	183	0187	4818200
 entry	Syndesmologie		
 entry	Syndesmose		
-entry	Synergie		
+entry	Synergie [Adelon]		
+orth	Synergie		
 pb	184	0188	4818201
 entry	Synévrose		
-entry	Synézizis		
+entry	Synézizis [Jules Cloquet]		
+orth	Synézizis		
 pb	185	0189	4818202
 entry	Synoque		
 entry	Synovial, ale		
 orth	Synovial		
-entry	Synovie		
+entry	Synovie [Marjolin]		
+orth	Synovie		
 pb	186	0190	4818203
 entry	Synthèse		
-entry	Syphilides		
-entry	Syphilis		
+entry	Syphilides [L		
+ref	Lagneau]		
+entry	Syphilis [L		
+ref	Lagneau]		
 pb	187	0191	4818204
 pb	188	0192	4818205
 pb	189	0193	4818206
@@ -339,26 +384,32 @@ pb	220	0224	4818237
 pb	221	0225	4818238
 pb	222	0226	4818239
 entry	Syphilitique		
-entry	Syringotome		
+entry	Syringotome [Murat]		
+orth	Syringotome		
 pb	223	0227	4818240
 entry	Systaltique		
-entry	Système		
+entry	Système [Coutanceau]		
+orth	Système		
 pb	224	0228	4818241
 pb	225	0229	4818242
 entry	Systole		
 pb	226	0230	4818243
-entry	Tabac		
+entry	Tabac [A. Richard]		
+orth	Tabac		
 pb	227	0231	4818244
 pb	228	0232	4818245
 pb	229	0233	4818246
 pb	230	0234	4818247
 entry	Tabes		
-entry	Table		
+entry	Table [Marjolin]		
+orth	Table		
 entry	Tablette		
 pb	231	0235	4818248
 entry	Tâche		
-entry	Tâche jaune		
-entry	Tact		
+entry	Tâche jaune [Marjolin]		
+orth	Tâche jaune		
+entry	Tact [Rullier]		
+orth	Tact		
 pb	232	0236	4818249
 pb	233	0237	4818250
 pb	234	0238	4818251
@@ -367,7 +418,8 @@ pb	236	0240	4818253
 pb	237	0241	4818254
 pb	238	0242	4818255
 entry	Tactile		
-entry	Taenia		
+entry	Taenia [Hippol. Cloquet]		
+orth	Taenia		
 pb	239	0243	4818256
 pb	240	0244	4818257
 pb	241	0245	4818258
@@ -385,18 +437,25 @@ pb	252	0256	4818269
 entry	Taffetas		
 entry	Taie		
 entry	Taille		
-entry	Talon		
-entry	Tamarin		
+entry	Talon [Marjolin]		
+orth	Talon		
+entry	Tamarin [A. Richard]		
+orth	Tamarin		
 pb	253	0257	4818270
-entry	Tambour		
+entry	Tambour [Marjolin]		
+orth	Tambour		
 entry	Tamponnement		
-entry	Tan		
+entry	Tan [J. Pelletier]		
+orth	Tan		
 pb	254	0258	4818271
-entry	Tanaisie		
-entry	Tannin		
+entry	Tanaisie [A. Richard]		
+orth	Tanaisie		
+entry	Tannin [J. Pelletier]		
+orth	Tannin		
 pb	255	0259	4818272
 pb	256	0260	4818273
-entry	Tapioka		
+entry	Tapioka [A. Richard]		
+orth	Tapioka		
 entry	Tarentisme ou Tarentulisme		
 orth	Tarentisme		
 orth	Tarentulisme		
@@ -406,7 +465,7 @@ pb	258	0262	4818275
 entry	Tarsien, nne		
 orth	Tarsien		
 orth	nne		
-entry	Tarso-métatarsien, nne		
+entry	Tarso-métatarsien, nne [Marjolin]		
 orth	Tarso-métatarsien		
 orth	nne		
 entry	Tartarique ou Tartrique (acide)		
@@ -414,13 +473,16 @@ orth	Tartarique
 orth	Tartrique (acide)		
 pb	259	0263	4818276
 entry	Tartrates		
-entry	Tartre		
+entry	Tartre [J. Pelletier]		
+orth	Tartre		
 entry	Tartre dentaire		
 entry	Taupe		
 entry	Taxis		
 pb	260	0264	4818277
-entry	Tégument		
-entry	Teigne		
+entry	Tégument [Marjolin]		
+orth	Tégument		
+entry	Teigne [P. Rayer]		
+orth	Teigne		
 pb	261	0265	4818278
 pb	262	0266	4818279
 pb	263	0267	4818280
@@ -448,8 +510,10 @@ pb	283	0287	4818300
 pb	284	0288	4818301
 pb	285	0289	4818302
 entry	Téléphien		
-entry	Tellure		
-entry	Tempéramens		
+entry	Tellure [Orfila]		
+orth	Tellure		
+entry	Tempéramens [Adelon]		
+orth	Tempéramens		
 pb	286	0290	4818303
 pb	287	0291	4818304
 pb	288	0292	4818305
@@ -466,7 +530,8 @@ pb	298	0302	4818315
 pb	299	0303	4818316
 entry	Tempérant		
 entry	Température		
-entry	Tempe		
+entry	Tempe [Marjolin]		
+orth	Tempe		
 pb	300	0304	4818317
 entry	Temporal		
 pb	301	0305	4818318
@@ -474,38 +539,45 @@ pb	302	0306	4818319
 pb	303	0307	4818320
 pb	304	0308	4818321
 pb	305	0309	4818322
-entry	Temporo-maxillaire		
+entry	Temporo-maxillaire [Marjolin]		
+orth	Temporo-maxillaire		
 pb	306	0310	4818323
 entry	Tenaille		
 entry	Tendineux, euse		
 orth	Tendineux		
-entry	Tendon		
+entry	Tendon [Marjolin]		
+orth	Tendon		
 pb	307	0311	4818324
 pb	308	0312	4818325
 entry	Tendu		
 entry	Tenesme		
-entry	Tenette		
+entry	Tenette [Murat]		
+orth	Tenette		
 pb	309	0313	4818326
 pb	310	0314	4818327
 pb	311	0315	4818328
-entry	Tenseur		
+entry	Tenseur [Marjolin]		
+orth	Tenseur		
 entry	Tensif		
 pb	312	0316	4818329
 entry	Tente		
 entry	Tente du cervelet		
-entry	Térébintacées		
+entry	Térébintacées [A. Richard]		
+orth	Térébintacées		
 pb	313	0317	4818330
-entry	Térébentine ou Térébenthine		
+entry	Térébentine ou Térébenthine [A. Richard]		
 orth	Térébentine		
 orth	Térébenthine		
 pb	314	0318	4818331
 pb	315	0319	4818332
 pb	316	0320	4818333
 pb	317	0321	4818334
-entry	Terre		
+entry	Terre [Orfila]		
+orth	Terre		
 entry	Testes		
 entry	Testiculaire		
-entry	Testicule		
+entry	Testicule [Marjolin, C. P. Ollivier]		
+orth	Testicule		
 pb	318	0322	4818335
 pb	319	0323	4818336
 pb	320	0324	4818337
@@ -521,7 +593,8 @@ pb	329	0333	4818346
 pb	330	0334	4818347
 pb	331	0335	4818348
 pb	332	0336	4818349
-entry	Tétanos		
+entry	Tétanos [Rochoux]		
+orth	Tétanos		
 pb	333	0337	4818350
 pb	334	0338	4818351
 pb	335	0339	4818352
@@ -532,7 +605,8 @@ pb	339	0343	4818356
 pb	340	0344	4818357
 pb	341	0345	4818358
 pb	342	0346	4818359
-entry	Tête		
+entry	Tête [C. P. Ollivier]		
+orth	Tête		
 pb	343	0347	4818360
 pb	344	0348	4818361
 pb	345	0349	4818362
@@ -545,9 +619,11 @@ pb	351	0355	4818368
 pb	352	0356	4818369
 pb	353	0357	4818370
 pb	354	0358	4818371
-entry	Texture		
+entry	Texture [Marjolin]		
+orth	Texture		
 pb	355	0359	4818372
-entry	Thé		
+entry	Thé [A. Richard]		
+orth	Thé		
 pb	356	0360	4818373
 pb	357	0361	4818374
 pb	358	0362	4818375
@@ -555,15 +631,18 @@ pb	359	0363	4818376
 pb	360	0364	4818377
 pb	361	0365	4818378
 pb	362	0366	4818379
-entry	Thénar		
+entry	Thénar [Marjolin]		
+orth	Thénar		
 entry	Théorétique, Théorique		
 orth	Théorétique		
 orth	Théorique		
-entry	Théorie		
+entry	Théorie [Coutanceau]		
+orth	Théorie		
 pb	363	0367	4818380
 pb	364	0368	4818381
 pb	365	0369	4818382
-entry	Théosophie		
+entry	Théosophie [Raige Delorme]		
+orth	Théosophie		
 pb	366	0370	4818383
 pb	367	0371	4818384
 pb	368	0372	4818385
@@ -575,7 +654,8 @@ pb	373	0377	4818390
 pb	374	0378	4818391
 pb	375	0379	4818392
 pb	376	0380	4818393
-entry	Thérapeutique		
+entry	Thérapeutique [Guersent]		
+orth	Thérapeutique		
 pb	377	0381	4818394
 pb	378	0382	4818395
 pb	379	0383	4818396
@@ -586,14 +666,16 @@ pb	383	0387	4818400
 pb	384	0388	4818401
 pb	385	0389	4818402
 pb	386	0390	4818403
-entry	Thériaque		
+entry	Thériaque [Guersent]		
+orth	Thériaque		
 pb	387	0391	4818404
 pb	388	0392	4818405
 pb	389	0393	4818406
 pb	390	0394	4818407
 entry	Thermal		
 entry	Thermes		
-entry	Thermomètre		
+entry	Thermomètre [L. Rostan]		
+orth	Thermomètre		
 pb	391	0395	4818408
 pb	392	0396	4818409
 pb	393	0397	4818410
@@ -601,11 +683,13 @@ pb	394	0398	4818411
 pb	395	0399	4818412
 pb	396	0400	4818413
 pb	397	0401	4818414
-entry	Thitymale		
+entry	Thitymale [A. Richard]		
+orth	Thitymale		
 entry	Thoracique ou Thorachique		
 orth	Thoracique		
 orth	Thorachique		
-entry	Thorax		
+entry	Thorax [C. P. Ollivier]		
+orth	Thorax		
 pb	398	0402	4818415
 pb	399	0403	4818416
 pb	400	0404	4818417
@@ -618,11 +702,14 @@ entry	Thrombus ou Thrumbus, Trumbus
 orth	Thrombus		
 orth	Thrumbus		
 orth	Trumbus		
-entry	Thym		
-entry	Thymélées		
+entry	Thym [A. Richard]		
+orth	Thym		
+entry	Thymélées [A. Richard]		
+orth	Thymélées		
 pb	405	0409	4818422
 entry	Thymique		
-entry	Thymus		
+entry	Thymus [C. P. Ollivier]		
+orth	Thymus		
 pb	406	0410	4818423
 pb	407	0411	4818424
 pb	408	0412	4818425
@@ -631,7 +718,8 @@ entry	Thyrocèle
 entry	Thyro-épiglottique		
 entry	Thyro-hyoïdien		
 pb	409	0413	4818426
-entry	Thyroïde		
+entry	Thyroïde [C. P. Ollivier]		
+orth	Thyroïde		
 pb	410	0414	4818427
 pb	411	0415	4818428
 pb	412	0416	4818429
@@ -648,7 +736,7 @@ orth	Tibial
 pb	415	0419	4818432
 pb	416	0420	4818433
 pb	417	0421	4818434
-entry	Tibio-tarsien, nne		
+entry	Tibio-tarsien, nne [Marjolin]		
 orth	Tibio-tarsien		
 orth	nne		
 pb	418	0422	4818435
@@ -656,42 +744,55 @@ entry	Tic
 entry	Tierce		
 entry	Tige pituitaire		
 pb	419	0423	4818436
-entry	Tiglium		
+entry	Tiglium [A. Richard]		
+orth	Tiglium		
 pb	420	0424	4818437
 pb	421	0425	4818438
-entry	Tiliacées		
+entry	Tiliacées [A. Richard]		
+orth	Tiliacées		
 pb	422	0426	4818439
-entry	Tilleul		
+entry	Tilleul [A. Richard]		
+orth	Tilleul		
 pb	423	0427	4818440
 entry	Tinkal		
-entry	Tintement		
+entry	Tintement [Andral fils]		
+orth	Tintement		
 pb	424	0428	4818441
 entry	Tintement métallique		
-entry	Tire-balle		
+entry	Tire-balle [Murat]		
+orth	Tire-balle		
 pb	425	0429	4818442
 pb	426	0430	4818443
 pb	427	0431	4818444
 pb	428	0432	4818445
-entry	Tire-fond		
+entry	Tire-fond [Murat]		
+orth	Tire-fond		
 pb	429	0433	4818446
-entry	Tire-tête		
+entry	Tire-tête [Desormeaux]		
+orth	Tire-tête		
 pb	430	0434	4818447
 pb	431	0435	4818448
 pb	432	0436	4818449
 pb	433	0437	4818450
 entry	Tisane		
 pb	434	0438	4818451
-entry	Tissu		
-entry	Titane		
-entry	Tithymale		
+entry	Tissu [Marjolin]		
+orth	Tissu		
+entry	Titane [Orfila]		
+orth	Titane		
+entry	Tithymale [A. Richard]		
+orth	Tithymale		
 entry	Titillation		
 entry	Toile de mai		
-entry	Tomotocie		
+entry	Tomotocie [Desormeaux]		
+orth	Tomotocie		
 entry	Ton		
 pb	435	0439	4818452
-entry	Tonicité		
+entry	Tonicité [Rullier]		
+orth	Tonicité		
 pb	436	0440	4818453
-entry	Tonique (thérap.)		
+entry	Tonique (thérap.) [Guersent]		
+orth	Tonique (thérap.)		
 pb	437	0441	4818454
 pb	438	0442	4818455
 pb	439	0443	4818456
@@ -699,20 +800,25 @@ pb	440	0444	4818457
 pb	441	0445	4818458
 pb	442	0446	4818459
 entry	Tonsillaire		
-entry	Tonsille		
+entry	Tonsille [Marjolin]		
+orth	Tonsille		
 entry	Tophus, Tophacées (concrétions)		
 orth	Tophus		
 orth	Tophacées (concrétions)		
-entry	Topique		
+entry	Topique [Guersent]		
+orth	Topique		
 pb	443	0447	4818460
-entry	Tormentille		
+entry	Tormentille [A. Richard]		
+orth	Tormentille		
 pb	444	0448	4818461
 entry	Torpeur		
 entry	Torticolis		
-entry	Tortue		
+entry	Tortue [Hippol. Cloquet]		
+orth	Tortue		
 pb	445	0449	4818462
 pb	446	0450	4818463
-entry	Toucher		
+entry	Toucher [Rullier, Desormeaux]		
+orth	Toucher		
 pb	447	0451	4818464
 pb	448	0452	4818465
 pb	449	0453	4818466
@@ -725,13 +831,15 @@ pb	455	0459	4818472
 pb	456	0460	4818473
 pb	457	0461	4818474
 entry	Tourniole		
-entry	Tourniquet		
+entry	Tourniquet [Murat]		
+orth	Tourniquet		
 pb	458	0462	4818475
 pb	459	0463	4818476
 pb	460	0464	4818477
 pb	461	0465	4818478
 pb	462	0466	4818479
-entry	Toux		
+entry	Toux [Raige Delorme]		
+orth	Toux		
 pb	463	0467	4818480
 entry	Toxicologie		
 entry	Toxique		
@@ -746,17 +854,21 @@ entry	Trachéocèle
 entry	Trachéotomie		
 entry	Tractus		
 pb	464	0468	4818481
-entry	Tragus		
+entry	Tragus [Marjolin]		
+orth	Tragus		
 entry	Tranchées		
-entry	Transformation		
+entry	Transformation [Andral fils]		
+orth	Transformation		
 pb	465	0469	4818482
 pb	466	0470	4818483
 pb	467	0471	4818484
 pb	468	0472	4818485
-entry	Transfusion		
+entry	Transfusion [Rochoux]		
+orth	Transfusion		
 pb	469	0473	4818486
 pb	470	0474	4818487
-entry	Transpiration		
+entry	Transpiration [Adelon]		
+orth	Transpiration		
 pb	471	0475	4818488
 pb	472	0476	4818489
 pb	473	0477	4818490
@@ -776,16 +888,21 @@ pb	482	0486	4818499
 pb	483	0487	4818500
 entry	Trapèze		
 pb	484	0488	4818501
-entry	Trapézoïde		
+entry	Trapézoïde [Marjolin]		
+orth	Trapézoïde		
 pb	485	0489	4818502
 entry	Traumatique		
-entry	Travail d'enfantement		
-entry	Trèfle d'eau		
+entry	Travail d'enfantement [Desormeaux]		
+orth	Travail d'enfantement		
+entry	Trèfle d'eau [A. Richard]		
+orth	Trèfle d'eau		
 pb	486	0490	4818503
-entry	Tremblement		
+entry	Tremblement [Chomel]		
+orth	Tremblement		
 pb	487	0491	4818504
 pb	488	0492	4818505
-entry	Trépan		
+entry	Trépan [Murat]		
+orth	Trépan		
 pb	489	0493	4818506
 pb	490	0494	4818507
 pb	491	0495	4818508
@@ -801,27 +918,35 @@ pb	500	0504	4818517
 pb	501	0505	4818518
 pb	502	0506	4818519
 entry	Trépanation		
-entry	Tréphine		
+entry	Tréphine [Murat]		
+orth	Tréphine		
 pb	503	0507	4818520
-entry	Triangulaire		
-entry	Tribulçon		
+entry	Triangulaire [Marjolin]		
+orth	Triangulaire		
+entry	Tribulçon [Murat]		
+orth	Tribulçon		
 pb	504	0508	4818521
-entry	Triceps		
+entry	Triceps [Marjolin]		
+orth	Triceps		
 pb	505	0509	4818522
 pb	506	0510	4818523
-entry	Trichiasis		
+entry	Trichiasis [Jules Cloquet]		
+orth	Trichiasis		
 pb	507	0511	4818524
 pb	508	0512	4818525
 pb	509	0513	4818526
-entry	Trichocéphale		
+entry	Trichocéphale [Hippol. Cloquet]		
+orth	Trichocéphale		
 pb	510	0514	4818527
 entry	Trichoma		
 entry	Trichuride		
 entry	Tricuspide		
 entry	Triglochine		
 entry	Trigone		
-entry	Trigonelle		
-entry	Trijumeaux		
+entry	Trigonelle [A. Richard]		
+orth	Trigonelle		
+entry	Trijumeaux [C. P. Ollivier]		
+orth	Trijumeaux		
 pb	511	0515	4818528
 pb	512	0516	4818529
 entry	Trismus		
@@ -835,16 +960,19 @@ orth	Trois-quarts
 orth	Trocart		
 pb	514	0518	4818531
 entry	Trompe		
-entry	Tronc		
+entry	Tronc [Marjolin]		
+orth	Tronc		
 pb	515	0519	4818532
 entry	Trousseau		
 entry	Trousse-galant		
-entry	Truffe		
+entry	Truffe [A. Richard]		
+orth	Truffe		
 entry	Tubaire		
 entry	Tube digestif		
 entry	Tuber cinereum		
 entry	Tubercules mamillaires		
-entry	Tubercule		
+entry	Tubercule [Andral fils]		
+orth	Tubercule		
 pb	516	0520	4818533
 pb	517	0521	4818534
 pb	518	0522	4818535
@@ -858,9 +986,11 @@ pb	525	0529	4818542
 entry	Tuberculeux		
 entry	Tubérosité		
 pb	526	0530	4818543
-entry	Tulipier		
+entry	Tulipier [A. Richard]		
+orth	Tulipier		
 entry	Tuméfaction		
-entry	Tumeur		
+entry	Tumeur [Roux]		
+orth	Tumeur		
 pb	527	0531	4818544
 pb	528	0532	4818545
 pb	529	0533	4818546
@@ -901,7 +1031,8 @@ pb	563	0567	4818580
 entry	Tungstate		
 entry	Tungstène		
 pb	564	0568	4818581
-entry	Tungstique (acide)		
+entry	Tungstique (acide) [Orfila]		
+orth	Tungstique (acide)		
 entry	Tunique		
 entry	Turbith ou Turbith végétal		
 orth	Turbith		
@@ -911,7 +1042,8 @@ entry	Turbith nitreux (sous-deuto nitrate de mercure jaune)
 entry	Turcique (selle)		
 entry	Turgescence		
 pb	565	0569	4818582
-entry	Tussilage		
+entry	Tussilage [A. Richard]		
+orth	Tussilage		
 entry	Tuthie ou Tutie		
 orth	Tuthie		
 orth	Tutie		

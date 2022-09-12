@@ -1,10 +1,14 @@
 pb	[s. pag.]	0001	7315506
+entry	[Plat]		
 pb	[s. pag.]	0002	7315507
+entry	[Contreplat]		
 pb	[s. pag.]	0003	7315508
 pb	[s. pag.]	0004	7315509
 pb	[s. pag.]	0005	7315510
+entry	[Page de faux titre]		
 pb	[s. pag.]	0006	7315511
 pb	[s. pag.]	0007	7315512
+entry	[Page de titre]		
 pb	[s. pag.]	0008	7315513
 pb	1	0009	7315514
 entry	Abattis		
@@ -114,9 +118,9 @@ entry	Alose
 pb	63	0071	7315576
 pb	64	0072	7315577
 pb	65	0073	7315578
-entry	Alouette		
+entry	L'Alouette		
 pb	66	0074	7315579
-entry	alouette		
+entry	L'alouette		
 pb	67	0075	7315580
 pb	68	0076	7315581
 pb	69	0077	7315582
@@ -151,8 +155,8 @@ pb	85	0093	7315598
 pb	86	0094	7315599
 pb	87	0095	7315600
 pb	88	0096	7315601
-entry	Ane, l'Asne		
-orth	Ane		
+entry	L'Ane, l'Asne		
+orth	L'Ane		
 orth	l'Asne		
 pb	[s. pag.]	0097	7315602
 pb	[s. pag.]	0098	7315603
@@ -211,7 +215,7 @@ entry	Approcher
 pb	114	0124	7315629
 pb	115	0125	7315630
 pb	116	0126	7315631
-entry	Apron		
+entry	L'Apron		
 entry	Aquatique		
 entry	Araignée		
 pb	117	0127	7315632
@@ -917,4 +921,6 @@ pb	624	0666	7316171
 pb	[s. pag.]	0667	7316172
 pb	[s. pag.]	0668	7316173
 pb	[s. pag.]	0669	7316174
+entry	[Contreplat]		
 pb	[s. pag.]	0670	7316175
+entry	[Plat]		

@@ -1,6 +1,8 @@
 pb	sn	0001	7725413
+entry	[Plat]		
 pb	pb	0002	7725414
 pb	sn	0003	7725415
+entry	[Page de titre]		
 pb	pb	0004	7725416
 pb	sn	0005	7725417
 entry	Au corps médical		
@@ -1758,7 +1760,7 @@ pb	465	0651	7726063
 entry	Grains de Vals		
 entry	Grains d'Évian		
 pb	466	0652	7726064
-entry	Granions		
+entry	Les Granions		
 pb	467	0653	7726065
 entry	Granoxyl		
 entry	Granules de Pantofort du Docteur Boveil		
@@ -2252,7 +2254,7 @@ entry	Méthylarsinates Bouty
 pb	652	0838	7726250
 entry	Métophan		
 pb	653	0839	7726251
-entry	Métricine		
+entry	La Métricine		
 entry	Métritols		
 pb	654	0840	7726252
 entry	Mialbaïne		
@@ -2892,7 +2894,7 @@ entry	Radiopaque Heudebert
 entry	Radiotétrane Gérard		
 pb	895	1081	7726493
 entry	Radiotropine		
-entry	Raisin quotidien		
+entry	Le Raisin quotidien		
 pb	896	1082	7726494
 entry	Réalphène Buisson		
 pb	897	1083	7726495
@@ -3093,7 +3095,7 @@ pb	975	1161	7726573
 entry	Silisode		
 entry	Sinahin		
 pb	976	1162	7726574
-entry	Sinaplasme		
+entry	Le Sinaplasme		
 entry	Sinaseptic		
 pb	977	1163	7726575
 entry	Sinuzyl		
@@ -3166,7 +3168,7 @@ entry	Somnothyril
 pb	1003	1189	7726601
 entry	Sonagar		
 pb	1004	1190	7726602
-entry	Sonène		
+entry	Le Sonène		
 entry	Sonéryl		
 pb	1005	1191	7726603
 entry	Soporalose		
@@ -3213,7 +3215,7 @@ entry	Stéramine
 entry	Stérogyl du Docteur Roussel		
 pb	1021	1207	7726619
 entry	Sthenoxal		
-entry	Stomagyl du Docteur Frémont		
+entry	Le Stomagyl du Docteur Frémont		
 pb	1022	1208	7726620
 entry	Stomarine Billault		
 entry	Stomarol		
@@ -3672,7 +3674,7 @@ entry	Vulnérine du Docteur Bergen
 pb	1197	1383	7726795
 entry	Wismuthane Vély		
 pb	1198	1384	7726796
-entry	yaourtine		
+entry	La yaourtine		
 pb	1199	1385	7726797
 entry	Yo-Androl		
 pb	1200	1386	7726798
@@ -4225,22 +4227,22 @@ entry	Lavire
 pb	1358	1544	7726956
 entry	Docteur Lavoué		
 entry	Lebeault et Compagnie		
-entry	Blond		
+entry	Le Blond		
 entry	Leboime		
 entry	Lebon		
 entry	Lebreton		
 entry	Lebrun		
 entry	T. Leclerc		
 entry	Lecoq et Ferrand		
-entry	Davay		
+entry	Le Davay		
 entry	Lees		
 entry	Legendre et Compagnie		
 entry	Legoux frères		
 entry	Lejeune		
-entry	Marois		
+entry	Le Marois		
 entry	Lematte et Boinot		
 entry	Léonardon		
-entry	Perdriel		
+entry	Le Perdriel		
 pb	1359	1545	7726957
 entry	Leporcq		
 entry	Docteur Leprince		
@@ -4520,3 +4522,4 @@ entry	Opothérapique E. Vergelot
 entry	Verne		
 pb	pb	1561	7726973
 pb	sn	1562	7726974
+entry	[Plat]		

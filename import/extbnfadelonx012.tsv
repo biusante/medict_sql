@@ -1,11 +1,13 @@
 pb	[s. pag.]	0001	4813398
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4813399
 pb	[s. pag.]	0003	4813400
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4813401
 pb	1	0005	4813402
 entry	Iatraleptique		
 entry	Iatrique		
-entry	Iatromathématique, Iatromécanique		
+entry	Iatromathématique, Iatromécanique [Raige Delorme]		
 orth	Iatromathématique		
 orth	Iatromécanique		
 pb	2	0006	4813403
@@ -19,12 +21,15 @@ pb	9	0013	4813410
 entry	Ichor		
 pb	10	0014	4813411
 entry	Ichoreux		
-entry	Ichthyocolle		
-entry	Ichthyose		
+entry	Ichthyocolle [Orfila]		
+orth	Ichthyocolle		
+entry	Ichthyose [Rochoux]		
+orth	Ichthyose		
 pb	11	0015	4813412
 pb	12	0016	4813413
 pb	13	0017	4813414
-entry	Ictère		
+entry	Ictère [G. Ferrus, Desormeaux]		
+orth	Ictère		
 pb	14	0018	4813415
 pb	15	0019	4813416
 pb	16	0020	4813417
@@ -41,7 +46,7 @@ entry	Idiopathie
 entry	Idiopathique		
 entry	Idiosyncrasie		
 pb	25	0029	4813426
-entry	Idiotisme et Idiotie		
+entry	Idiotisme et Idiotie [Georget]		
 orth	Idiotisme		
 orth	Idiotie		
 pb	26	0030	4813427
@@ -55,17 +60,21 @@ pb	33	0037	4813434
 pb	34	0038	4813435
 pb	35	0039	4813436
 entry	If		
-entry	Iléo-coecal		
-entry	Iléo-colique		
-entry	Iles		
-entry	Iléum et Iléon		
+entry	Iléo-coecal [A. Béclard]		
+orth	Iléo-coecal		
+entry	Iléo-colique [A. Béclard]		
+orth	Iléo-colique		
+entry	Iles [A. Béclard]		
+orth	Iles		
+entry	Iléum et Iléon [A. Béclard]		
 orth	Iléum		
 orth	Iléon		
 entry	Iléus, Passion iliaque		
 orth	Iléus		
 orth	Passion iliaque		
 pb	36	0040	4813437
-entry	Iliaque		
+entry	Iliaque [A. Béclard]		
+orth	Iliaque		
 pb	37	0041	4813438
 pb	38	0042	4813439
 pb	39	0043	4813440
@@ -73,21 +82,28 @@ pb	40	0044	4813441
 pb	41	0045	4813442
 pb	42	0046	4813443
 pb	43	0047	4813444
-entry	Ilio-fémorale (articulation)		
-entry	Ilio-lombaire		
-entry	Ilio-pectiné		
-entry	Ilium et Ilion		
+entry	Ilio-fémorale (articulation) [A. Béclard]		
+orth	Ilio-fémorale (articulation)		
+entry	Ilio-lombaire [A. Béclard]		
+orth	Ilio-lombaire		
+entry	Ilio-pectiné [A. Béclard]		
+orth	Ilio-pectiné		
+entry	Ilium et Ilion [A. Béclard]		
 orth	Ilium		
 orth	Ilion		
 entry	Illégitime		
-entry	Imaginaire		
-entry	Imagination		
+entry	Imaginaire [Raige Delorme]		
+orth	Imaginaire		
+entry	Imagination [Raige Delorme]		
+orth	Imagination		
 pb	44	0048	4813445
 entry	Imbécillité		
-entry	Immersion		
+entry	Immersion [Raige Delorme]		
+orth	Immersion		
 pb	45	0049	4813446
 entry	Impératoire		
-entry	Imperforation		
+entry	Imperforation [Jules Cloquet]		
+orth	Imperforation		
 pb	46	0050	4813447
 pb	47	0051	4813448
 pb	48	0052	4813449
@@ -114,15 +130,18 @@ pb	67	0071	4813468
 pb	68	0072	4813469
 pb	69	0073	4813470
 entry	Imprégnation		
-entry	Impression		
-entry	Impressionnabilité		
+entry	Impression [A. Béclard]		
+orth	Impression		
+entry	Impressionnabilité [Rullier]		
+orth	Impressionnabilité		
 pb	70	0074	4813471
 pb	71	0075	4813472
 pb	72	0076	4813473
 pb	73	0077	4813474
 pb	74	0078	4813475
 entry	Impubère		
-entry	Impuissance		
+entry	Impuissance [Raige Delorme]		
+orth	Impuissance		
 pb	75	0079	4813476
 pb	76	0080	4813477
 pb	77	0081	4813478
@@ -138,13 +157,17 @@ pb	86	0090	4813487
 pb	87	0091	4813488
 pb	88	0092	4813489
 pb	89	0093	4813490
-entry	Inanition		
+entry	Inanition [Rullier]		
+orth	Inanition		
 pb	90	0094	4813491
 entry	Inappétence		
-entry	Incarnatif		
+entry	Incarnatif [Raige Delorme]		
+orth	Incarnatif		
 entry	Incarnation		
-entry	Incisif		
-entry	Incision		
+entry	Incisif [A. Béclard, Raige Delorme]		
+orth	Incisif		
+entry	Incision [Murat]		
+orth	Incision		
 pb	91	0095	4813492
 pb	92	0096	4813493
 pb	93	0097	4813494
@@ -155,7 +178,8 @@ orth	Incitabilité
 orth	Incitation		
 orth	Incitant		
 entry	Incisure		
-entry	Incontinence		
+entry	Incontinence [L		
+ref	Lagneau]		
 pb	96	0100	4813497
 pb	97	0101	4813498
 pb	98	0102	4813499
@@ -163,18 +187,22 @@ pb	99	0103	4813500
 pb	100	0104	4813501
 pb	101	0105	4813502
 pb	102	0106	4813503
-entry	Incrassant		
+entry	Incrassant [Raige Delorme]		
+orth	Incrassant		
 pb	103	0107	4813504
 entry	Incrustation		
-entry	Incubation		
+entry	Incubation [Raige Delorme]		
+orth	Incubation		
 entry	Incurabilité		
-entry	Index, et Indicateur		
+entry	Index, et Indicateur [A. Béclard]		
 orth	Index		
 orth	Indicateur		
-entry	Indication		
+entry	Indication [Raige Delorme]		
+orth	Indication		
 pb	104	0108	4813505
 entry	Indigeste		
-entry	Indigestion		
+entry	Indigestion [Raige Delorme]		
+orth	Indigestion		
 pb	105	0109	4813506
 pb	106	0110	4813507
 pb	107	0111	4813508
@@ -187,7 +215,8 @@ pb	113	0117	4813514
 pb	114	0118	4813515
 entry	Indisposition		
 entry	Indolent		
-entry	Induration		
+entry	Induration [Rochoux]		
+orth	Induration		
 pb	115	0119	4813516
 pb	116	0120	4813517
 pb	117	0121	4813518
@@ -199,10 +228,12 @@ pb	122	0126	4813523
 pb	123	0127	4813524
 pb	124	0128	4813525
 entry	Inégal		
-entry	Inertie de matrice		
+entry	Inertie de matrice [Desormeaux]		
+orth	Inertie de matrice		
 pb	125	0129	4813526
 pb	126	0130	4813527
-entry	Infanticide (hygiène publique, médecine légale)		
+entry	Infanticide (hygiène publique, médecine légale) [Marc]		
+orth	Infanticide (hygiène publique, médecine légale)		
 pb	127	0131	4813528
 pb	128	0132	4813529
 pb	129	0133	4813530
@@ -279,7 +310,8 @@ pb	199	0203	4813600
 pb	200	0204	4813601
 pb	201	0205	4813602
 pb	202	0206	4813603
-entry	Infection		
+entry	Infection [Rochoux]		
+orth	Infection		
 pb	203	0207	4813604
 pb	204	0208	4813605
 pb	205	0209	4813606
@@ -297,7 +329,8 @@ entry	Infiltré
 entry	Infirmerie		
 entry	Infirmier		
 entry	Infirmité		
-entry	Inflammation		
+entry	Inflammation [Chomel]		
+orth	Inflammation		
 pb	214	0218	4813615
 pb	215	0219	4813616
 pb	216	0220	4813617
@@ -352,17 +385,20 @@ pb	264	0268	4813665
 pb	265	0269	4813666
 entry	Inflammatoire		
 entry	Infundibulum		
-entry	Infusion		
+entry	Infusion [J. Pelletier]		
+orth	Infusion		
 pb	266	0270	4813667
 entry	Ingesta		
 entry	Ingrédient		
-entry	Inguinal		
+entry	Inguinal [A. Béclard]		
+orth	Inguinal		
 pb	267	0271	4813668
 pb	268	0272	4813669
 pb	269	0273	4813670
 pb	270	0274	4813671
 entry	Inhérent		
-entry	Inhumation (hygiène publique)		
+entry	Inhumation (hygiène publique) [Marc]		
+orth	Inhumation (hygiène publique)		
 pb	271	0275	4813672
 pb	272	0276	4813673
 pb	273	0277	4813674
@@ -385,7 +421,8 @@ pb	289	0293	4813690
 pb	290	0294	4813691
 pb	291	0295	4813692
 pb	292	0296	4813693
-entry	Injection		
+entry	Injection [Guersent]		
+orth	Injection		
 pb	293	0297	4813694
 pb	294	0298	4813695
 pb	295	0299	4813696
@@ -393,7 +430,8 @@ pb	296	0300	4813697
 pb	297	0301	4813698
 pb	298	0302	4813699
 pb	299	0303	4813700
-entry	Innervation		
+entry	Innervation [Adelon]		
+orth	Innervation		
 pb	300	0304	4813701
 pb	301	0305	4813702
 pb	302	0306	4813703
@@ -415,18 +453,22 @@ pb	317	0321	4813718
 pb	318	0322	4813719
 pb	319	0323	4813720
 entry	Inné		
-entry	Innominé		
+entry	Innominé [A. Béclard]		
+orth	Innominé		
 entry	Inoculation		
 entry	Inosculation		
 entry	Inquiétude		
 pb	320	0324	4813721
-entry	Insalivation		
-entry	Insecte		
+entry	Insalivation [Rullier]		
+orth	Insalivation		
+entry	Insecte [Hippol. Cloquet]		
+orth	Insecte		
 pb	321	0325	4813722
 entry	Insensibilité		
 entry	Insensible		
 pb	322	0326	4813723
-entry	Insertion		
+entry	Insertion [A. Béclard]		
+orth	Insertion		
 entry	Insidieux		
 entry	Insolation		
 entry	Insomnie		
@@ -434,40 +476,48 @@ entry	Inspirateur
 entry	Inspiration		
 entry	Instillation		
 pb	323	0327	4813724
-entry	Instinct		
+entry	Instinct [Adelon]		
+orth	Instinct		
 pb	324	0328	4813725
 pb	325	0329	4813726
 pb	326	0330	4813727
 entry	Instrument		
 entry	Insufflation		
 pb	327	0331	4813728
-entry	Intelligence		
+entry	Intelligence [Adelon]		
+orth	Intelligence		
 pb	328	0332	4813729
 entry	Intempérance		
 entry	Intempérie		
 entry	Intention		
-entry	Inter-articulaire		
+entry	Inter-articulaire [A. Béclard]		
+orth	Inter-articulaire		
 pb	329	0333	4813730
 entry	Intercadent		
 entry	Intercalaire		
-entry	Inter-claviculaire (ligament)		
-entry	Intercostal		
+entry	Inter-claviculaire (ligament) [A. Béclard]		
+orth	Inter-claviculaire (ligament)		
+entry	Intercostal [A. Béclard]		
+orth	Intercostal		
 pb	330	0334	4813731
 pb	331	0335	4813732
 pb	332	0336	4813733
 entry	Intercurrent		
 pb	333	0337	4813734
-entry	Inter-épineux		
-entry	Interlobaire et Interlobulaire		
+entry	Inter-épineux [A. Béclard]		
+orth	Inter-épineux		
+entry	Interlobaire et Interlobulaire [A. D.]		
 orth	Interlobaire		
 orth	Interlobulaire		
-entry	Inter-maxillaire		
+entry	Inter-maxillaire [A. Béclard]		
+orth	Inter-maxillaire		
 entry	Intermède		
-entry	Intermission ou Intermittence		
+entry	Intermission ou Intermittence [P. Rayer]		
 orth	Intermission		
 orth	Intermittence		
 pb	334	0338	4813735
-entry	Intermittent		
+entry	Intermittent [P. Rayer]		
+orth	Intermittent		
 pb	335	0339	4813736
 pb	336	0340	4813737
 pb	337	0341	4813738
@@ -538,15 +588,22 @@ pb	401	0405	4813802
 pb	402	0406	4813803
 pb	403	0407	4813804
 pb	404	0408	4813805
-entry	Intermusculaire		
-entry	Interosseux		
+entry	Intermusculaire [A. Béclard]		
+orth	Intermusculaire		
+entry	Interosseux [A. Béclard]		
+orth	Interosseux		
 pb	405	0409	4813806
-entry	Intersection		
-entry	Interstice		
-entry	Inter-transversaire		
+entry	Intersection [A. Béclard]		
+orth	Intersection		
+entry	Interstice [A. Béclard]		
+orth	Interstice		
+entry	Inter-transversaire [A. Béclard]		
+orth	Inter-transversaire		
 pb	406	0410	4813807
-entry	Intervertebral		
-entry	Intestin		
+entry	Intervertebral [A. Béclard]		
+orth	Intervertebral		
+entry	Intestin [A. Béclard]		
+orth	Intestin		
 pb	407	0411	4813808
 pb	408	0412	4813809
 pb	409	0413	4813810
@@ -559,12 +616,16 @@ pb	415	0419	4813816
 pb	416	0420	4813817
 pb	417	0421	4813818
 pb	418	0422	4813819
-entry	Intestinal		
+entry	Intestinal [A. Béclard]		
+orth	Intestinal		
 entry	Intumescence		
-entry	Intussusception		
-entry	Inuline		
+entry	Intussusception [Rullier]		
+orth	Intussusception		
+entry	Inuline [Orfila]		
+orth	Inuline		
 pb	419	0423	4813820
-entry	Invagination		
+entry	Invagination [Murat]		
+orth	Invagination		
 pb	420	0424	4813821
 pb	421	0425	4813822
 pb	422	0426	4813823
@@ -573,17 +634,22 @@ pb	424	0428	4813825
 pb	425	0429	4813826
 entry	Inviscant		
 entry	Iodate		
-entry	Iode		
+entry	Iode [Orfila, Guersent]		
+orth	Iode		
 pb	426	0430	4813827
 pb	427	0431	4813828
 pb	428	0432	4813829
 pb	429	0433	4813830
 pb	430	0434	4813831
 pb	431	0435	4813832
-entry	Iodeux (acide)		
-entry	Iodique (acide)		
-entry	Iodure		
-entry	Ipécacuanha		
+entry	Iodeux (acide) [Orfila]		
+orth	Iodeux (acide)		
+entry	Iodique (acide) [Orfila]		
+orth	Iodique (acide)		
+entry	Iodure [Orfila]		
+orth	Iodure		
+entry	Ipécacuanha [A. Richard]		
+orth	Ipécacuanha		
 pb	432	0436	4813833
 pb	433	0437	4813834
 pb	434	0438	4813835
@@ -600,19 +666,23 @@ pb	444	0448	4813845
 pb	445	0449	4813846
 entry	Iridées		
 pb	446	0450	4813847
-entry	Irien		
+entry	Irien [A. Béclard]		
+orth	Irien		
 entry	Iris		
 pb	447	0451	4813848
-entry	Iris		
+entry	Iris [A. Béclard]		
+orth	Iris		
 entry	Iritis		
 entry	Irradiation		
 entry	Irréductible		
 entry	Irrégulier		
-entry	Irritabilité		
+entry	Irritabilité [Rullier]		
+orth	Irritabilité		
 pb	448	0452	4813849
 pb	449	0453	4813850
 entry	Irritant		
-entry	Irritation		
+entry	Irritation [Coutanceau]		
+orth	Irritation		
 pb	450	0454	4813851
 pb	451	0455	4813852
 pb	452	0456	4813853
@@ -646,24 +716,29 @@ pb	479	0483	4813880
 pb	480	0484	4813881
 pb	481	0485	4813882
 pb	482	0486	4813883
-entry	Ischiatique		
+entry	Ischiatique [A. Béclard]		
+orth	Ischiatique		
 pb	483	0487	4813884
-entry	Ischio-caverneux		
+entry	Ischio-caverneux [A. Béclard]		
+orth	Ischio-caverneux		
 entry	Ischiocèle		
 pb	484	0488	4813885
-entry	Ischio-coccygien		
-entry	Ischium et Ischion		
+entry	Ischio-coccygien [A. Béclard]		
+orth	Ischio-coccygien		
+entry	Ischium et Ischion [A. Béclard]		
 orth	Ischium		
 orth	Ischion		
 entry	Ischurie		
 entry	Isochrone		
-entry	Isthme du Gosier		
+entry	Isthme du Gosier [A. Béclard]		
+orth	Isthme du Gosier		
 pb	485	0489	4813886
 entry	Ivette		
 entry	Ivoire		
 entry	Ivraie		
 pb	486	0490	4813887
-entry	Ivresse		
+entry	Ivresse [Rochoux]		
+orth	Ivresse		
 pb	487	0491	4813888
 pb	488	0492	4813889
 pb	489	0493	4813890
@@ -677,7 +752,8 @@ entry	Jalap
 pb	495	0499	4813896
 pb	496	0500	4813897
 pb	497	0501	4813898
-entry	Jambe		
+entry	Jambe [A. Béclard]		
+orth	Jambe		
 pb	498	0502	4813899
 pb	499	0503	4813900
 pb	500	0504	4813901
@@ -686,22 +762,27 @@ entry	Jambier, ière
 orth	Jambier		
 pb	502	0506	4813903
 entry	Jarret		
-entry	Jasminées		
+entry	Jasminées [A. Richard]		
+orth	Jasminées		
 pb	503	0507	4813904
 pb	504	0508	4813905
 entry	Jaune		
 entry	Jéjunum		
-entry	Jeunesse		
+entry	Jeunesse [Rullier]		
+orth	Jeunesse		
 entry	Jointure		
 entry	Joubarbe		
 pb	505	0509	4813906
-entry	Joue		
+entry	Joue [A. Béclard]		
+orth	Joue		
 pb	506	0510	4813907
 entry	Jugal		
 entry	Jugement		
 pb	507	0511	4813908
-entry	Juglandées		
-entry	Jugulaire		
+entry	Juglandées [A. Richard]		
+orth	Juglandées		
+entry	Jugulaire [A. Béclard]		
+orth	Jugulaire		
 pb	508	0512	4813909
 pb	509	0513	4813910
 pb	510	0514	4813911
@@ -710,7 +791,8 @@ entry	Jujubier
 pb	511	0515	4813912
 entry	Julep		
 entry	Jumeau		
-entry	Jumeaux (muscles)		
+entry	Jumeaux (muscles) [A. Béclard]		
+orth	Jumeaux (muscles)		
 pb	512	0516	4813913
 entry	Jus		
 pb	513	0517	4813914
@@ -723,26 +805,30 @@ entry	Karabé
 entry	Kératite		
 entry	Kératome		
 entry	Kératonyxis		
-entry	Kelloïde, ou Chéloïde		
+entry	Kelloïde, ou Chéloïde [Breschet]		
 orth	Kelloïde		
 orth	Chéloïde		
 pb	518	0522	4813919
 entry	Kermès Animal		
 pb	519	0523	4813920
-entry	Kermès Minéral		
+entry	Kermès Minéral [Orfila]		
+orth	Kermès Minéral		
 pb	520	0524	4813921
 pb	521	0525	4813922
 pb	522	0526	4813923
 pb	523	0527	4813924
-entry	Kiastre		
+entry	Kiastre [Murat]		
+orth	Kiastre		
 pb	524	0528	4813925
 entry	Kina, Kinakina		
 orth	Kina		
 orth	Kinakina		
 entry	Kino		
 pb	525	0529	4813926
-entry	Kiotome		
-entry	Kyste		
+entry	Kiotome [Murat]		
+orth	Kiotome		
+entry	Kyste [Marjolin]		
+orth	Kyste		
 pb	526	0530	4813927
 pb	527	0531	4813928
 pb	528	0532	4813929
@@ -766,25 +852,29 @@ entry	Labdanum ou Ladanum
 orth	Labdanum		
 orth	Ladanum		
 entry	Labial		
-entry	Labiées		
+entry	Labiées [A. Richard]		
+orth	Labiées		
 pb	545	0549	4813946
 entry	Laborieux		
 entry	Labyrinthe		
 entry	Lacération		
 pb	546	0550	4813947
-entry	Lacq ou Lacs		
+entry	Lacq ou Lacs [Desormeaux]		
 orth	Lacq		
 orth	Lacs		
 pb	547	0551	4813948
-entry	Lacrymal		
+entry	Lacrymal [A. Béclard, Adelon]		
+orth	Lacrymal		
 pb	548	0552	4813949
 pb	549	0553	4813950
 pb	550	0554	4813951
 pb	551	0555	4813952
 pb	552	0556	4813953
 pb	553	0557	4813954
-entry	Lactate		
-entry	Lactation		
+entry	Lactate [Orfila]		
+orth	Lactate		
+entry	Lactation [Desormeaux]		
+orth	Lactation		
 pb	554	0558	4813955
 pb	555	0559	4813956
 pb	556	0560	4813957
@@ -801,14 +891,16 @@ pb	566	0570	4813967
 pb	567	0571	4813968
 entry	Lactifère		
 pb	568	0572	4813969
-entry	Lactique (acide)		
+entry	Lactique (acide) [Orfila]		
+orth	Lactique (acide)		
 entry	Lactucarium		
 entry	Lacune		
 entry	Ladrerie		
 entry	Lagophthalmie		
 entry	Laiche		
 pb	569	0573	4813970
-entry	Lait		
+entry	Lait [Orfila]		
+orth	Lait		
 pb	570	0574	4813971
 pb	571	0575	4813972
 pb	572	0576	4813973
@@ -820,7 +912,8 @@ pb	577	0581	4813978
 entry	Lait répandu		
 entry	Laiteron		
 pb	578	0582	4813979
-entry	Laiteuses (maladies)		
+entry	Laiteuses (maladies) [Desormeaux]		
+orth	Laiteuses (maladies)		
 pb	579	0583	4813980
 pb	580	0584	4813981
 entry	Laitue		

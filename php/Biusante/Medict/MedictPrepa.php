@@ -9,7 +9,7 @@ declare(strict_types=1);
 
 namespace Biusante\Medict;
 
-use DOMDocument, PDO, XSLTProcessor;
+use DOMDocument, Exception, PDO, XSLTProcessor;
 
 include_once(__DIR__.'/MedictUtil.php');
 
@@ -27,8 +27,6 @@ class MedictPrepa extends MedictUtil
     static $dico_titre = null;
     /** fichier tsv en cours d’écriture */
     static $ftsv;
-    /** Dossier des fichiers tsv */
-    static $tsv_dir;
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
 
@@ -39,23 +37,23 @@ class MedictPrepa extends MedictUtil
         mb_internal_encoding("UTF-8");
         // Charger les mots vides
         self::$stop = array_flip(explode("\n", file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'stop.csv')));
-        /*
-        self::$tsv_dir = dirname(__DIR__).'/import/';
-        if (!file_exists(self::$tsv_dir)) mkdir(self::$tsv_dir, 0777, true);
-        */
     }
 
 
     /**
-     * 
+     * Boucle sur tous les exports medica pour produire un tsv chargeable 
+     * dans la base.
      */
-    public static function write_medica()
+    public static function tsv_dir()
     {
-
+        foreach (glob(self::home().'anc/anc_*.tsv') as $file) {
+            $volume_cote = self::anc_cote($file);
+            self::tsv_volume($volume_cote);
+        }
     }
 
 
-    public static function anc_write()
+    public static function anc_select()
     {
         $separator = "\t";
         $titre_file = self::home() . 'dico_titre.tsv';
@@ -77,23 +75,44 @@ class MedictPrepa extends MedictUtil
             $volq = self::$pdo->prepare($sql);
             $volq->execute(array($titre_cote));
             while ($volume = $volq->fetch(PDO::FETCH_ASSOC)) {
-                self::volume_write($volume['cote']);
+                self::anc_volume($volume['cote']);
                 print($volume['cote']."\n");
             }
         }
         
     }
 
+    private static function anc_file($volume_cote)
+    {
+        $file = self::home().'anc/anc_'.$volume_cote.'.tsv';
+        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
+        return $file;
+    }
+    private static function anc_cote($anc_file)
+    {
+        preg_match('anc_(.*)\.tsv$', $anc_file, $matches);
+        if (!isset($matches[1]) || !$matches[1]) {
+            throw new Exception("Cote non trouvée dans le fichier " . $anc_file);
+        }
+        return $matches[1];
+    }
+
+    private static function tsv_file($volume_cote)
+    {
+        $file = self::home().'import/'.$volume_cote.'.tsv';
+        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
+        return $file;
+    }
+
     /**
      * Écrire les données d’un ancien volume dans un fichier
      */
-    private static function volume_write($volume_cote)
+    private static function anc_volume($volume_cote)
     {
         // sortir les données sources
-        $file = self::home().'medica/medica_'.$volume_cote.'.tsv';
+        $anc_file = self::anc_file($volume_cote);
         // créer le dossier si nécessaire
-        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
-        $fsrc = fopen($file, 'w');
+        $fsrc = fopen($anc_file, 'w');
         fwrite($fsrc, "page\trefimg\tnumauto\tchapitre\n");
         $pageq = self::$pdo->prepare("SELECT * FROM livancpages WHERE cote = ? ORDER BY cote, refimg");
         $pageq->execute(array($volume_cote));
@@ -106,89 +125,71 @@ class MedictPrepa extends MedictUtil
         }
     }
 
-    /**
-     * Alimenter la base de données des dictionnaires avec les données déjà indexées,
-     * commencer par parcourir la table des titres.
-     * Si $cote non null, permet de filtrer (pour déboguage)
-     */
-    public static function anc_tsv()
+
+    private static function anc_sep($volume_cote)
     {
-
-        // boucler sur la table des titres pour attraper les lignes concernées
-        // dans la table Medica des volumes
-        // $pars = array();
-
-        // supposons pour l’instant que l’ordre naturel est bon 
-        $sql =  "SELECT * FROM dico_titre "; // ORDER BY annee
-        $pars = [];
-        // filtrer pour une seule cote ? NON TESTÉ ? manque DELETE
-        /*
-        if ($cote) { 
-            $sql .= " WHERE cote LIKE ?";
-            $pars[] = $cote;
-        }
-        */
-        $qdico_titre = self::$pdo->prepare($sql);
-        $qdico_titre->execute($pars);
-
-        while (self::$dico_titre = $qdico_titre->fetch()) {
-            echo "[SQL load] ". self::$dico_titre['cote']. ', ' . self::$dico_titre['nom'] . "\n";
-
-            self::$dico_volume[':dico_titre'] = self::$dico_titre['id'];
-            self::$dico_volume[':titre_nom'] = self::$dico_titre['nom'];
-            self::$dico_volume[':titre_annee'] = self::$dico_titre['annee'];
-            self::$dico_entree[':dico_titre'] = self::$dico_titre['id'];
-            self::$dico_rel[':dico_titre'] = self::$dico_titre['id'];
-
-            if (!self::$dico_titre['orth_langue']) self::$dico_titre['orth_langue'] = 'fra';
-
-            // boucler sur les volumes dans livanc
-            $sql = "SELECT * FROM livanc WHERE ";
-            if (self::$dico_titre['vols'] < 2) {
-                $sql .= " cote = ?";
-            } else {
-                $sql .= " cotemere = ? ORDER BY cote";
-            }
-            $volq = self::$pdo->prepare($sql);
-            $volq->execute(array(self::$dico_titre['cote']));
-
-
-            while ($volume = $volq->fetch(PDO::FETCH_ASSOC)) {
-
-                // de quoi renseigner un enregistrement de volume
-                self::$dico_volume[':volume_cote'] = $volume['cote'];
-                $soustitre = null;
-                if (self::$dico_titre['vol_re']) {
-                    $titre = trim(preg_replace('@[\s]+@u', ' ', $volume['titre']));
-                    preg_match('@'.self::$dico_titre['vol_re'].'@', $titre, $matches);
-                    if (isset($matches[1]) && $matches[1]) {
-                        $soustitre = trim($matches[1], ". \n\r\t\v\x00");
-                    }
-                }
-                self::$dico_volume[':volume_soustitre'] = $soustitre;
-                // livanc.annee : "An VII", livanc.annee_iso : "1798/1799"
-                self::$dico_volume[':volume_annee'] = substr($volume['annee_iso'], 0, 4); 
-                self::$dico_volume[':livanc'] = $volume['clenum'];
-                try {
-                    self::$q['dico_volume']->execute(self::$dico_volume);
-                }
-                catch(Exception $e) {
-                    print($e);
-                    print_r($volume);
-                    print_r(self::$dico_volume);
-                    exit();
-                }
-                $id = self::$pdo->lastInsertId();
-                self::$dico_entree[':dico_volume'] = $id;
-
-                // boucler sur les pages du volume
-                self::livancpages(
-                    self::$dico_volume[':volume_cote'], 
-                    self::$dico_titre['sep']
-                );
-            }
-        }
+        if(
+               self::starts_with($volume_cote, '01208')
+            || self::starts_with($volume_cote, '01686')
+            || self::starts_with($volume_cote, '146144')
+            || self::starts_with($volume_cote, '20311')
+            || self::starts_with($volume_cote, '21244')
+            || self::starts_with($volume_cote, '21575')
+            || self::starts_with($volume_cote, '26087')
+            || self::starts_with($volume_cote, '269035')
+            || self::starts_with($volume_cote, '27898')
+            || self::starts_with($volume_cote, '31873')
+            || self::starts_with($volume_cote, '32546')
+            || self::starts_with($volume_cote, '34823')
+            || self::starts_with($volume_cote, '35573')
+            || self::starts_with($volume_cote, '37020c')
+            || self::starts_with($volume_cote, '45392')
+            || self::starts_with($volume_cote, '47661')
+            || self::starts_with($volume_cote, '56140')
+            || self::starts_with($volume_cote, '57503')
+            || self::starts_with($volume_cote, 'extalfobuchoz')
+            || self::starts_with($volume_cote, 'extalfodarboval')
+            || self::starts_with($volume_cote, 'extbnfadelon')
+            || self::starts_with($volume_cote, 'extbnfbeaude')
+            || self::starts_with($volume_cote, 'extbnfdechambre')
+            || self::starts_with($volume_cote, 'extbnfdezeimeris')
+            || self::starts_with($volume_cote, 'extbnfnysten')
+            || self::starts_with($volume_cote, 'extbnfpoujol')
+            || self::starts_with($volume_cote, 'extbnfrivet')
+            || self::starts_with($volume_cote, 'pharma_000103')
+            || self::starts_with($volume_cote, 'pharma_006061')
+            || self::starts_with($volume_cote, 'pharma_013686')
+            || self::starts_with($volume_cote, 'pharma_014023')
+            || self::starts_with($volume_cote, 'pharma_014236')
+            || self::starts_with($volume_cote, 'pharma_019127')
+            || self::starts_with($volume_cote, 'pharma_019128')
+            || self::starts_with($volume_cote, 'pharma_019129')
+            || self::starts_with($volume_cote, 'pharma_019428')
+            || self::starts_with($volume_cote, 'pharma_p11247')
+        ) return '/';
+        if (
+               self::starts_with($volume_cote, '00216')
+            || self::starts_with($volume_cote, '07410xC')
+            || self::starts_with($volume_cote, '07410xM')
+            || self::starts_with($volume_cote, '27518')
+            || self::starts_with($volume_cote, '30944')
+            || self::starts_with($volume_cote, '32923')
+            || self::starts_with($volume_cote, '34820')
+            || self::starts_with($volume_cote, '34826')
+            || self::starts_with($volume_cote, '37020b')
+            || self::starts_with($volume_cote, '37020d')
+            || self::starts_with($volume_cote, '37020d~index')
+            || self::starts_with($volume_cote, '37029')
+            || self::starts_with($volume_cote, '61157')
+        ) return '.';
+        if (
+            self::starts_with($volume_cote, '47667')
+        ) return "-";
+        if (
+            self::starts_with($volume_cote, '24374')
+        ) return ';';
     }
+
 
     /**
      * Lit les informations page à page de livancpages.chapitre.
@@ -196,39 +197,42 @@ class MedictPrepa extends MedictUtil
      * Produit un premier tableau d’événements, à reparser,
      * pour regrouper les entrées sur plusieurs pages.
      */
-    private static function livancpages($cote, $sep)
+    public static function tsv_volume($volume_cote)
     {
-        $sep = trim($sep);
-
+        $anc_file = self::anc_file($volume_cote);
+        if (!file_exists($anc_file)) {
+            throw new Exception('Fichier non trouvé '.$anc_file);
+        }
+        $anc_sep = self::anc_sep($volume_cote);
         // Les données à produire
         $data = [];
-        while(false) { 
-        // Lecture des pages d’un volume, dans l’ordre naturel
-            $refimg = str_pad($page['refimg'], 4, '0', STR_PAD_LEFT);
-
+        // boucler sur les ligne de fichier Medica
+        $separator = "\t";
+        $handle = fopen($anc_file, 'r');
+        // first line, colums names
+        $keys = fgetcsv($handle, null, $separator);
+        while ((list($page, $refimg, $numauto, $chapitre) = fgetcsv($handle, null, $separator)) !== FALSE) {
             // Événement page
-            $p = $page['page'];
-            if ($p == '[sans numérotation]' 
-                || $p == '[page blanche]'
+            if ($page == '[sans numérotation]' 
+                || $page == '[page blanche]'
             ) {
-                $p = '[s. pag.]';
+                $page = '[s. pag.]';
             }
             $data[] = array(
                 'pb',
-                $p,
+                $page,
                 $refimg,
                 // "https://www.biusante.parisdescartes.fr/iiif/2/bibnum:" . $cote . ":" . $refimg . "/full/full/0/default.jpg",
                 // "https://www.biusante.parisdescartes.fr/histmed/medica/page?" . $cote . '&p=' . $refimg,
-                $page['numauto']
+                $numauto
             );
 
             // traiter un chapitre
-            $chapitre = $page['chapitre'];
 
 
             // restaurer de la hiérachie dans les Bouley
             // tout est traité ici
-            if (self::starts_with(self::$dico_volume[':volume_cote'], '34823')) {
+            if (self::starts_with($volume_cote, '34823')) {
                 // 438	0442	Vendéenne [A. Sanson] / Variété maraichine
                 // 439	0443	Vendéenne [A. Sanson]. Variété maraichine
                 $chapitre = preg_replace('@\] / @', ']. ', $chapitre);
@@ -272,7 +276,7 @@ class MedictPrepa extends MedictUtil
 
             // supprimer un gros préfixe
             // Classe première. Les campaniformes. Section III. Genre VII. Le gloux / Genre VIII. L'alleluia
-            if (self::starts_with(self::$dico_volume[':volume_cote'], 'pharma_019129')) {
+            if (self::starts_with($volume_cote, 'pharma_019129')) {
                 $chapitre = preg_replace(
                     array('@^.*?Genre[^\.]*\. *@u', '@^.*?Supplémentaire\. *@ui', '@ */ *[^/]*?Genre[^\.]*\. *@u', '@[^\.]+classe\. *@ui'),
                     array('',                       '',                           ' / ',                           ''),
@@ -281,7 +285,7 @@ class MedictPrepa extends MedictUtil
             }
             // supprimer un gros préfixe
             // Petit traité de matière médicale, ou des substances médicamenteuses indiquées dans le cours de ce dictionnaire. Division des substances médicamenteuses par ordre alphabétique, et d'après leur manière d'agir sur le corps humain. Médicamens composés / 
-            else if (self::starts_with(self::$dico_volume[':volume_cote'], '57503')) {
+            else if (self::starts_with($volume_cote, '57503')) {
                 $chapitre = preg_replace(
                     array('@^.*Médicamens composés\P{L}*@u', '@^.*?Règne végétal\. *@ui', '@^.*Médicamens simples\P{L}*@u', '@Vocabulaire des matières contenues.*?@u'),
                     array('',                                '',                                '',                               ''),
@@ -289,7 +293,7 @@ class MedictPrepa extends MedictUtil
                 );
             }
             // Absorbants [A. Gubler] (bibliographie) [Raige-Delorme] / Absorbants (vaisseaux). Voy. Lymphatiques / Absorption [Jules Béclard]
-            else if (self::starts_with(self::$dico_volume[':volume_cote'], 'extbnfdechambre')) {
+            else if (self::starts_with($volume_cote, 'extbnfdechambre')) {
                 $chapitre = preg_replace(
                     array('@ *\(bibliographie\)\.?@ui', '/ *\[[^\]]+\]/u'),
                     array('', ''),
@@ -298,7 +302,7 @@ class MedictPrepa extends MedictUtil
                 // if ($echo) fwrite(STDERR, $chapitre."\n");
             }
             //  H. - Habrioux; Hardy François; Hauterive Jean-Baptiste; Hélitas Jean; Heur (d') François; Hospital Gaspard; Houpin René; Hugon Jean; Hugon Joseph; Hugonnaud Jean; Hugonneau Martial / I. - Itier Jacques
-            else if (self::starts_with(self::$dico_volume[':volume_cote'], '24374')) {
+            else if (self::starts_with($volume_cote, '24374')) {
                 $chapitre = preg_replace(
                     array('@( */ *)?[A-Z]\.[ \-]+@u'),
                     array(';'),
@@ -315,9 +319,12 @@ class MedictPrepa extends MedictUtil
             // Nettoyer des trucs ?
 
             // Spliter selon le séparateur de saisie
-            if ($sep == '-') {
+            // sépararteur '-'
+            if ($anc_sep == '-') {
                 $veds = preg_split('@ +- +@u', $chapitre);
-            } else if ($sep == '.') {
+            } 
+            // séparateur '.'
+            else if ($anc_sep == '.') {
                 // protéger les '.' dans les parenthèses
                 $chapitre = preg_replace_callback(
                     '@\([^\)]*\)@',
@@ -328,11 +335,15 @@ class MedictPrepa extends MedictUtil
                 );
                 $veds = preg_split('@\. +@u', $chapitre);
                 $veds = preg_replace('@£@', '.', $veds);
-            } else if ($sep == '/') {
+            } 
+            // séparateur '/'
+            else if ($anc_sep == '/') {
                 // Panckoucke 55 «  574 trichocéphale / trichomatique / trichuride / tricuspide / (valvule) »
                 $chapitre = preg_replace('@ */ *\(@', ' (', $chapitre);
                 $veds = preg_split('@ */ *@', $chapitre);
-            } else if ($sep == ';') {
+            } 
+            // séparateur ;
+            else if ($anc_sep == ';') {
                 $veds = preg_split('@ *; *@', $chapitre);
             }
 
@@ -362,15 +373,15 @@ class MedictPrepa extends MedictUtil
 
         }
         $data = self::livancpages2($data);
-        $data = self::livancpages3($data);
-        self::tsv_write(self::$tsv_dir . $cote.'.tsv', $data);
+        $data = self::livancpages3($data, $volume_cote);
+        self::tsv_write(self::tsv_file($volume_cote), $data);
         return;
     }
 
     /**
      * Écrire des événement lexicograhiques dans un fichier
      */
-    public static function tsv_write($file, $data)
+    private static function tsv_write($file, $data)
     {
         $width = 4;
         $out = fopen($file, 'w');
@@ -388,7 +399,7 @@ class MedictPrepa extends MedictUtil
     /**
      * Réduire les sauts de page
      */
-    public static function livancpages2($data) {
+    private static function livancpages2($data) {
         $out = [];
         $vedette = null;
         $pb = 0;
@@ -428,9 +439,8 @@ class MedictPrepa extends MedictUtil
     /**
      * Découper la vedette en mots
      */
-    public static function livancpages3($data) {
+    public static function livancpages3($data, $volume_cote) {
         $out = [];
-        $cote = self::$dico_volume[':volume_cote'];
         for ($i = 0, $max = count($data); $i < $max; $i++) {
             $line = $data[$i];
             // récupérer la vedette et la découper si nécessaire
@@ -469,7 +479,7 @@ class MedictPrepa extends MedictUtil
                     $line[1]
                 );
                 if (
-                    self::starts_with($cote, 'pharma_019129')
+                    self::starts_with($volume_cote, 'pharma_019129')
                 ) {
                     // Le , la , l’
                     $s = preg_replace('/^ *(le |la |les |l’|l\') */ui', '', $s);
@@ -478,20 +488,20 @@ class MedictPrepa extends MedictUtil
 
                 // vedettes hiérarchiques, ne pas séparer
                 if (
-                    self::starts_with($cote, '24374')
-                    || self::starts_with($cote, 'pharma_013686')
+                    self::starts_with($volume_cote, '24374')
+                    || self::starts_with($volume_cote, 'pharma_013686')
                     // Liste des plantes observées au Mont d'Or, au Puy de Domme, & au Cantal, par M. le Monnier. 
-                    || self::starts_with($cote, 'pharma_019127') 
-                    || self::starts_with($cote, '146144')
+                    || self::starts_with($volume_cote, 'pharma_019127') 
+                    || self::starts_with($volume_cote, '146144')
                     //  Pilules hydragogues de M. Janin, oculiste de Lyon
-                    || self::starts_with($cote, 'extbnfrivet') 
+                    || self::starts_with($volume_cote, 'extbnfrivet') 
                     // Stérogyl Stérogyl 10 et 15. Vidal (1940, p. 1788)
-                    || self::starts_with($cote, 'pharma_p11247')
-                    || self::starts_with($cote, '34823')
+                    || self::starts_with($volume_cote, 'pharma_p11247')
+                    || self::starts_with($volume_cote, '34823')
                     // Dechambre
-                    || self::starts_with($cote, 'extbnfdechambre')
+                    || self::starts_with($volume_cote, 'extbnfdechambre')
                     // Pancoucke
-                    || self::starts_with($cote, '47661')
+                    || self::starts_with($volume_cote, '47661')
                     // Fuller (médecin anglais, 1654-1734)
                     || preg_match('/\([^\)]*( +(ou|et|&) +|,)/u', $s) 
                 ) {
@@ -499,7 +509,7 @@ class MedictPrepa extends MedictUtil
                     if ($s != $line[1]) $out[] = ['orth', $s];
                 }
                 // "16 Agaricus campestris. Le champignon champêtre", "17 Agaricus déliciosus. Champignon délicieux",  "18 Agaricus cantharellus. La cantharelle"
-                else if (self::starts_with($cote, 'pharma_019128')) {
+                else if (self::starts_with($volume_cote, 'pharma_019128')) {
                     $s = preg_replace('@^[ 0-9\.]+@ui', '', $s);
                     $orths = preg_split('@\. +@ui', $s);
                     if (count($orths) == 2) {
@@ -527,7 +537,6 @@ class MedictPrepa extends MedictUtil
                 // Renvois
                 if ($refs !== null) {
                     foreach($refs as $ref) {
-                        self::$count['ref']++;
                         $out[] = ['ref', trim($ref, ' .,;')];
                     }
                 }
@@ -554,7 +563,7 @@ class MedictPrepa extends MedictUtil
         $proc->importStyleSheet($xsl);
         $tsv = $proc->transformToXML($xml);
 
-        $tsv_file = self::$tsv_dir . $tei_name . '.tsv';
+        $tsv_file = self::tsv_file($tei_name);
         file_put_contents($tsv_file, $tsv);
         echo " => " . $tsv_file . "\n";
         return $tsv_file;

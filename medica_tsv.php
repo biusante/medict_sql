@@ -4,7 +4,10 @@ require (__DIR__.'/php/Biusante/Medict/MedictPrepa.php');
 
 use Biusante\Medict\{MedictPrepa};
 // sort les données utiles de la base Medica pour écrire la base Medict
-MedictPrepa::anc_write();
+// faire une fois suffit
+MedictPrepa::anc_select();
+// tester 1
+MedictPrepa::tsv_volume('extbnfdechambrex079');
 
 $src_dir = dirname(__DIR__) . '/medict-xml/xml/';
 /*

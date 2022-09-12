@@ -105,7 +105,7 @@ class MedictUtil
         return $s;
     }
 
-    function starts_with($haystack, $needle)
+    public static function starts_with($haystack, $needle)
     {
         return substr($haystack, 0, strlen($needle)) === $needle;
     }

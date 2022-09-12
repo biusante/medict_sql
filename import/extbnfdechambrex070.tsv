@@ -1,10 +1,13 @@
 pb	[s. pag.]	0001	4572433
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4572434
 pb	[s. pag.]	0003	4572435
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4572436
 pb	1	0005	4572437
 entry	Os (Élément et tissu)		
-entry	Os (Élément et tissu). Anatomie et physiologie		
+entry	Os (Élément et tissu). Anatomie et physiologie [Ch. Robin]		
+orth	Os (Élément et tissu). Anatomie et physiologie		
 pb	2	0006	4572438
 pb	3	0007	4572439
 pb	4	0008	4572440
@@ -175,7 +178,8 @@ pb	168	0172	4572604
 pb	169	0173	4572605
 pb	170	0174	4572606
 pb	171	0175	4572607
-entry	Os (Élément et tissu). Anatomie et physiologie. Bibliographie		
+entry	Os (Élément et tissu). Anatomie et physiologie. Bibliographie [L. Hahn]		
+orth	Os (Élément et tissu). Anatomie et physiologie. Bibliographie		
 pb	172	0176	4572608
 pb	173	0177	4572609
 pb	174	0178	4572610
@@ -189,8 +193,10 @@ pb	181	0185	4572617
 pb	182	0186	4572618
 pb	183	0187	4572619
 pb	184	0188	4572620
-entry	Pathologie		
-entry	Os (Élément et tissu). Pathologie. Plaies et contusions des os		
+entry	Pathologie [Albert Heydenreich]		
+orth	Pathologie		
+entry	Os (Élément et tissu). Pathologie. Plaies et contusions des os [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Plaies et contusions des os		
 pb	185	0189	4572621
 pb	186	0190	4572622
 pb	187	0191	4572623
@@ -198,20 +204,24 @@ pb	188	0192	4572624
 pb	189	0193	4572625
 pb	190	0194	4572626
 pb	191	0195	4572627
-entry	Os (Élément et tissu). Pathologie. Atrophie des os		
+entry	Os (Élément et tissu). Pathologie. Atrophie des os [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Atrophie des os		
 pb	192	0196	4572628
 pb	193	0197	4572629
 pb	194	0198	4572630
 pb	195	0199	4572631
 pb	196	0200	4572632
 pb	197	0201	4572633
-entry	Ostéomes et tumeurs des os		
-entry	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Ostéomes		
+entry	Ostéomes et tumeurs des os [Albert Heydenreich]		
+orth	Ostéomes et tumeurs des os		
+entry	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Ostéomes [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Ostéomes		
 pb	198	0202	4572634
 pb	199	0203	4572635
 pb	200	0204	4572636
 pb	201	0205	4572637
-entry	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Tumeurs des os		
+entry	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Tumeurs des os [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Ostéomes et tumeurs des os. Tumeurs des os		
 pb	202	0206	4572638
 pb	203	0207	4572639
 pb	204	0208	4572640
@@ -314,7 +324,8 @@ pb	300	0304	4572736
 pb	301	0305	4572737
 pb	302	0306	4572738
 pb	303	0307	4572739
-entry	Os (Élément et tissu). Pathologie. Affections syphilitiques des os		
+entry	Os (Élément et tissu). Pathologie. Affections syphilitiques des os [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Affections syphilitiques des os		
 pb	304	0308	4572740
 pb	305	0309	4572741
 pb	306	0310	4572742
@@ -332,7 +343,8 @@ pb	317	0321	4572753
 pb	318	0322	4572754
 pb	319	0323	4572755
 pb	320	0324	4572756
-entry	Os (Élément et tissu). Pathologie. Affections tuberculeuses des os		
+entry	Os (Élément et tissu). Pathologie. Affections tuberculeuses des os [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Affections tuberculeuses des os		
 pb	321	0325	4572757
 pb	322	0326	4572758
 pb	323	0327	4572759
@@ -362,7 +374,8 @@ pb	346	0350	4572782
 pb	347	0351	4572783
 pb	348	0352	4572784
 pb	349	0353	4572785
-entry	Os (Élément et tissu). Pathologie. Bibliographie		
+entry	Os (Élément et tissu). Pathologie. Bibliographie [Albert Heydenreich]		
+orth	Os (Élément et tissu). Pathologie. Bibliographie		
 pb	350	0354	4572786
 pb	351	0355	4572787
 pb	352	0356	4572788
@@ -370,101 +383,146 @@ pb	353	0357	4572789
 pb	354	0358	4572790
 pb	355	0359	4572791
 pb	356	0360	4572792
-entry	Os (Élément et tissu). Hygiène industrielle		
+entry	Os (Élément et tissu). Hygiène industrielle [Alexandre Layet]		
+orth	Os (Élément et tissu). Hygiène industrielle		
 pb	357	0361	4572793
 pb	358	0362	4572794
 pb	359	0363	4572795
 pb	360	0364	4572796
-entry	Médecine légale		
-entry	Os propres du nez ou Os nasaux		
+entry	Médecine légale [Amédée Dechambre]		
+orth	Médecine légale		
+entry	Os propres du nez ou Os nasaux [Amédée Dechambre]		
+orth	Os propres du nez ou Os nasaux		
 entry	Osages		
-ref	Amérique		
-entry	Osann (Les)		
+ref	Amérique [Amédée Dechambre]		
+entry	Osann (Les) [L. Hahn]		
+orth	Osann (Les)		
 pb	361	0365	4572797
 pb	362	0366	4572798
 entry	Osaughnessy		
 ref	Oshaughnessy		
-entry	Osbeck (Carl-Gustaf)		
-entry	Osborn (Les)		
+entry	Osbeck (Carl-Gustaf) [A. Dureau]		
+orth	Osbeck (Carl-Gustaf)		
+entry	Osborn (Les) [L. Hahn]		
+orth	Osborn (Les)		
 pb	363	0367	4572799
-entry	Osborne (Les)		
+entry	Osborne (Les) [L. Hahn]		
+orth	Osborne (Les)		
 pb	364	0368	4572800
 pb	365	0369	4572801
-entry	Osburg (Johann-Jacob)		
-entry	Oscabrions		
+entry	Osburg (Johann-Jacob) [L. Hahn]		
+orth	Osburg (Johann-Jacob)		
+entry	Oscabrions [Ed. Lefèvre]		
+orth	Oscabrions		
 pb	366	0370	4572802
 pb	367	0371	4572803
-entry	Oscillaires ou Oscillatoriées		
+entry	Oscillaires ou Oscillatoriées [Ed. Lefèvre]		
+orth	Oscillaires ou Oscillatoriées		
 pb	368	0372	4572804
-entry	Oscinis		
+entry	Oscinis [A. Laboulbène]		
+orth	Oscinis		
 pb	369	0373	4572805
 entry	Oseille		
-entry	Oseille. Botanique		
+entry	Oseille. Botanique [G. Planchon]		
+orth	Oseille. Botanique		
 pb	370	0374	4572806
-entry	Oseille. Emploi médical		
+entry	Oseille. Emploi médical [L. Hahn]		
+orth	Oseille. Emploi médical		
 pb	371	0375	4572807
-entry	Oseille des bois, Oseille de bucheron		
-entry	Oseille de Guinée		
-entry	Oseille à trois feuilles		
-entry	Oseillette		
-entry	Osera y Estella (Jose Miguel de)		
-entry	Oseretskowski ou Ozeretskowski (Nicolas)		
+entry	Oseille des bois, Oseille de bucheron [G. Planchon]		
+orth	Oseille des bois, Oseille de bucheron		
+entry	Oseille de Guinée [G. Planchon]		
+orth	Oseille de Guinée		
+entry	Oseille à trois feuilles [G. Planchon]		
+orth	Oseille à trois feuilles		
+entry	Oseillette [G. Planchon]		
+orth	Oseillette		
+entry	Osera y Estella (Jose Miguel de) [L. Hahn]		
+orth	Osera y Estella (Jose Miguel de)		
+entry	Oseretskowski ou Ozeretskowski (Nicolas) [L. Hahn]		
+orth	Oseretskowski ou Ozeretskowski (Nicolas)		
 pb	372	0376	4572808
-entry	Osgood (Daniel)		
-entry	O'Shaugnessy (William-B.)		
-entry	Osiander (Les deux)		
+entry	Osgood (Daniel) [L. Hahn]		
+orth	Osgood (Daniel)		
+entry	O'Shaugnessy (William-B.) [L. Hahn]		
+orth	O'Shaugnessy (William-B.)		
+entry	Osiander (Les deux) [A. Dureau]		
+orth	Osiander (Les deux)		
 pb	373	0377	4572809
 pb	374	0378	4572810
 pb	375	0379	4572811
 entry	Osier		
-entry	Botanique		
-entry	Emploi médical		
-entry	Osier fleuri, Osier de Saint-Antoine		
-entry	Oskamp (Diedrich-Leonhard)		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Emploi médical [Amédée Dechambre]		
+orth	Emploi médical		
+entry	Osier fleuri, Osier de Saint-Antoine [G. Planchon]		
+orth	Osier fleuri, Osier de Saint-Antoine		
+entry	Oskamp (Diedrich-Leonhard) [L. Hahn]		
+orth	Oskamp (Diedrich-Leonhard)		
 pb	376	0380	4572812
-entry	Osmazome		
-entry	Osmidrose		
-entry	Osmique (Acide)		
+entry	Osmazome [C. Lutz]		
+orth	Osmazome		
+entry	Osmidrose [Amédée Dechambre]		
+orth	Osmidrose		
+entry	Osmique (Acide) [C. Lutz]		
+orth	Osmique (Acide)		
 pb	377	0381	4572813
-entry	Osmitopsis		
+entry	Osmitopsis [G. Planchon]		
+orth	Osmitopsis		
 pb	378	0382	4572814
-entry	Osmium		
+entry	Osmium [C. Lutz]		
+orth	Osmium		
 pb	379	0383	4572815
 entry	Osmonde		
-entry	Osmonde. Botanique		
+entry	Osmonde. Botanique [Ed. Lefèvre]		
+orth	Osmonde. Botanique		
 pb	380	0384	4572816
-entry	Osmonde. Emploi médical		
+entry	Osmonde. Emploi médical [L. Hahn]		
+orth	Osmonde. Emploi médical		
 pb	381	0385	4572817
-entry	Osmose		
+entry	Osmose [L. Hahn]		
+orth	Osmose		
 pb	382	0386	4572818
 pb	383	0387	4572819
 pb	384	0388	4572820
 pb	385	0389	4572821
 pb	386	0390	4572822
 pb	387	0391	4572823
-entry	Osona (Félix)		
+entry	Osona (Félix) [L. Hahn]		
+orth	Osona (Félix)		
 pb	388	0392	4572824
-entry	Osprion		
-entry	Ossea		
-entry	Osséine		
-entry	Osselets (Divination par les)		
+entry	Osprion [G. Planchon]		
+orth	Osprion		
+entry	Ossea [G. Planchon]		
+orth	Ossea		
+entry	Osséine [Amédée Dechambre]		
+orth	Osséine		
+entry	Osselets (Divination par les) [Amédée Dechambre]		
+orth	Osselets (Divination par les)		
 entry	Osselets de l'ouïe		
 ref	Oreille		
-entry	Ossètes		
+entry	Ossètes [Amédée Dechambre]		
+orth	Ossètes		
 entry	Osseux (Tissu)		
 ref	Os		
 entry	Ossification		
-entry	Accidentelle		
+entry	Accidentelle [Albert Hénocque]		
+orth	Accidentelle		
 entry	Normale		
 ref	Os		
-entry	Ossifraga, Ossifragum		
+entry	Ossifraga, Ossifragum [H. Baillon]		
+orth	Ossifraga, Ossifragum		
 pb	389	0393	4572825
-entry	Ossorio de Castro (Pedro)		
-entry	Ostéide		
+entry	Ossorio de Castro (Pedro) [L. Hahn]		
+orth	Ossorio de Castro (Pedro)		
+entry	Ostéide [Amédée Dechambre]		
+orth	Ostéide		
 entry	Ostéine		
 ref	Osséine		
 ref	Os		
-entry	Ostéite, Ostéomyélite		
+entry	Ostéite, Ostéomyélite [Albert Heydenreich]		
+orth	Ostéite, Ostéomyélite		
 pb	390	0394	4572826
 pb	391	0395	4572827
 pb	392	0396	4572828
@@ -560,15 +618,21 @@ pb	481	0485	4572917
 pb	482	0486	4572918
 pb	483	0487	4572919
 pb	484	0488	4572920
-entry	Ostenac (Eau minérale d')		
-entry	Ostende (Station marine d')		
+entry	Ostenac (Eau minérale d') [A. Rotureau]		
+orth	Ostenac (Eau minérale d')		
+entry	Ostende (Station marine d') [A. Rotureau]		
+orth	Ostende (Station marine d')		
 pb	485	0489	4572921
-entry	Ostenade (Station marine d')		
-entry	Ostenfeld (Christian)		
-entry	Östenius (Olof)		
+entry	Ostenade (Station marine d') [A. Rotureau]		
+orth	Ostenade (Station marine d')		
+entry	Ostenfeld (Christian) [L. Hahn]		
+orth	Ostenfeld (Christian)		
+entry	Östenius (Olof) [A. Dureau]		
+orth	Östenius (Olof)		
 entry	Ostéoblaste		
 ref	Os		
-entry	Ostéoclasie		
+entry	Ostéoclasie [Albert Hénocque]		
+orth	Ostéoclasie		
 pb	486	0490	4572922
 pb	487	0491	4572923
 pb	488	0492	4572924
@@ -592,18 +656,24 @@ pb	505	0509	4572941
 pb	506	0510	4572942
 pb	507	0511	4572943
 pb	508	0512	4572944
-entry	Ostéocolle, ou Ostéolithe		
+entry	Ostéocolle, ou Ostéolithe [Amédée Dechambre]		
+orth	Ostéocolle, ou Ostéolithe		
 pb	509	0513	4572945
-entry	Ostéocollon		
-entry	Ostéocope		
-entry	Ostéodermes		
+entry	Ostéocollon [G. Planchon]		
+orth	Ostéocollon		
+entry	Ostéocope [Amédée Dechambre]		
+orth	Ostéocope		
+entry	Ostéodermes [E. Oustalet]		
+orth	Ostéodermes		
 pb	510	0514	4572946
 entry	Ostéogénie		
 ref	Os		
 entry	Ostéolithe		
 ref	Ostéocolle		
-entry	Ostéolyse		
-entry	Ostéomalacie		
+entry	Ostéolyse [Amédée Dechambre]		
+orth	Ostéolyse		
+entry	Ostéomalacie [Albert Hénocque]		
+orth	Ostéomalacie		
 pb	511	0515	4572947
 pb	512	0516	4572948
 pb	513	0517	4572949
@@ -641,16 +711,19 @@ entry	Ostéomyélite
 ref	Os		
 entry	Ostéopériostite		
 ref	Os		
-entry	Ostéophytes		
+entry	Ostéophytes [Albert Hénocque]		
+orth	Ostéophytes		
 pb	542	0546	4572978
 entry	Ostéoplaste		
 ref	Os		
-entry	Ostéoplastie		
+entry	Ostéoplastie [Albert Hénocque]		
+orth	Ostéoplastie		
 entry	Ostéosarcome		
 ref	Os		
 ref	Sarcome		
 pb	543	0547	4572979
-entry	Ostéotomie		
+entry	Ostéotomie [Albert Hénocque]		
+orth	Ostéotomie		
 pb	544	0548	4572980
 pb	545	0549	4572981
 pb	546	0550	4572982
@@ -676,30 +749,46 @@ pb	565	0569	4573001
 pb	566	0570	4573002
 pb	567	0571	4573003
 pb	568	0572	4573004
-entry	Ostéozoaires		
-entry	Osterhausen (Johann-Carl)		
-entry	Ostericum		
-entry	Osteritium		
-entry	Österlen (Les)		
+entry	Ostéozoaires [Amédée Dechambre]		
+orth	Ostéozoaires		
+entry	Osterhausen (Johann-Carl) [L. Hahn]		
+orth	Osterhausen (Johann-Carl)		
+entry	Ostericum [G. Planchon]		
+orth	Ostericum		
+entry	Osteritium [G. Planchon]		
+orth	Osteritium		
+entry	Österlen (Les) [A. Dureau, L. Hahn]		
+orth	Österlen (Les)		
 pb	569	0573	4573005
 pb	570	0574	4573006
-entry	Österreicher (Johann-Henrich)		
-entry	Osthoff (Heinrich-Christian-August)		
-entry	Ostiaks (Les)		
+entry	Österreicher (Johann-Henrich) [L. Hahn]		
+orth	Österreicher (Johann-Henrich)		
+entry	Osthoff (Heinrich-Christian-August) [L. Hahn]		
+orth	Osthoff (Heinrich-Christian-August)		
+entry	Ostiaks (Les) [Amédée Dechambre]		
+orth	Ostiaks (Les)		
 pb	571	0575	4573007
 entry	Ostracés		
 ref	Ostréidés		
-entry	Ostracion		
-entry	Ostracodes		
+entry	Ostracion [E. Oustalet]		
+orth	Ostracion		
+entry	Ostracodes [Ed. Lefèvre]		
+orth	Ostracodes		
 entry	Ostréiculture		
 ref	Huître		
-entry	Ostréidés		
+entry	Ostréidés [Ed. Lefèvre]		
+orth	Ostréidés		
 pb	572	0576	4573008
-entry	Ostrogoths		
-entry	Ostrute ou Otruche		
-entry	O'Sullivan (Les)		
-entry	Oswald (Henry-Robert)		
-entry	Osyris (L.)		
+entry	Ostrogoths [Amédée Dechambre]		
+orth	Ostrogoths		
+entry	Ostrute ou Otruche [G. Planchon]		
+orth	Ostrute ou Otruche		
+entry	O'Sullivan (Les) [A. Dureau]		
+orth	O'Sullivan (Les)		
+entry	Oswald (Henry-Robert) [L. Hahn]		
+orth	Oswald (Henry-Robert)		
+entry	Osyris (L.) [H. Baillon]		
+orth	Osyris (L.)		
 pb	573	0577	4573009
 entry	Otalgie		
 ref	Oreille (Pathologie)		
@@ -707,63 +796,91 @@ entry	Othiotops
 ref	Araignée		
 entry	Othomis		
 ref	Otomis		
-entry	Othon (de Crémone)		
-entry	Othonna		
-entry	Oetinger (Les deux)		
+entry	Othon (de Crémone) [L. Hahn]		
+orth	Othon (de Crémone)		
+entry	Othonna [G. Planchon]		
+orth	Othonna		
+entry	Oetinger (Les deux) [L. Hahn]		
+orth	Oetinger (Les deux)		
 pb	574	0578	4573010
 entry	Otique (Ganglion)		
 ref	Maxillaire inférieur (Nerf)		
-entry	Otis (George-Alexander)		
+entry	Otis (George-Alexander) [L. Hahn]		
+orth	Otis (George-Alexander)		
 pb	575	0579	4573011
-entry	Otite		
-ref	Oreille (Pathologie)		
-entry	Otites		
-entry	Otoba		
-entry	Otocéphaliens		
+entry	Otite..]		
+ref	Oreille (Pathologie) [D		
+entry	Otites [G. Planchon]		
+orth	Otites		
+entry	Otoba [H. Baillon]		
+orth	Otoba		
+entry	Otocéphaliens [O. Larcher]		
+orth	Otocéphaliens		
 pb	576	0580	4573012
 pb	577	0581	4573013
-entry	Otoconie		
+entry	Otoconie [Amédée Dechambre]		
+orth	Otoconie		
 entry	Otomis (Les)		
-ref	Mexique		
-entry	Otoplastie		
+ref	Mexique [Amédée Dechambre]		
+entry	Otoplastie [Albert Hénocque]		
+orth	Otoplastie		
 pb	578	0582	4573014
 pb	579	0583	4573015
 pb	580	0584	4573016
 entry	Otorrhée		
 ref	Oreille (Pathologie)		
-entry	Otoscopie		
+entry	Otoscopie [Amédée Dechambre]		
+orth	Otoscopie		
 pb	581	0585	4573017
 entry	Otruche		
 ref	Ostrute		
-entry	Ott (Franz-Andreas)		
-entry	Ottaviani (Vincenzo)		
+entry	Ott (Franz-Andreas) [L. Hahn]		
+orth	Ott (Franz-Andreas)		
+entry	Ottaviani (Vincenzo) [L. Hahn]		
+orth	Ottaviani (Vincenzo)		
 pb	582	0586	4573018
-entry	Otterburg ou Otterbourg (S. I.)		
-entry	Otth (Charles-Adolphe)		
-entry	Oettinger (Hermann)		
+entry	Otterburg ou Otterbourg (S. I.) [L. Hahn]		
+orth	Otterburg ou Otterbourg (S. I.)		
+entry	Otth (Charles-Adolphe) [L. Hahn]		
+orth	Otth (Charles-Adolphe)		
+entry	Oettinger (Hermann) [L. Hahn]		
+orth	Oettinger (Hermann)		
 pb	583	0587	4573019
-entry	Ottley (Les deux)		
+entry	Ottley (Les deux) [L. Hahn]		
+orth	Ottley (Les deux)		
 pb	584	0588	4573020
-entry	Otto (Les) 		
+entry	Otto (Les) [A. Dureau] 		
+orth	Otto (Les) 		
 pb	585	0589	4573021
-entry	Otto (Les)		
+entry	Otto (Les) [A. Dureau]		
+orth	Otto (Les)		
 pb	586	0590	4573022
 pb	587	0591	4573023
-entry	Otto (Friedrich-Julius)		
+entry	Otto (Friedrich-Julius) [L. Hahn]		
+orth	Otto (Friedrich-Julius)		
 pb	588	0592	4573024
-entry	Ottoes (Les)		
-entry	Ottoni (Gregorio)		
+entry	Ottoes (Les) [Amédée Dechambre]		
+orth	Ottoes (Les)		
+entry	Ottoni (Gregorio) [L. Hahn]		
+orth	Ottoni (Gregorio)		
 entry	Ouate		
 ref	Coton		
-entry	Ouatta-pana		
-entry	Ouche (Eau minérale d')		
+entry	Ouatta-pana [G. Planchon]		
+orth	Ouatta-pana		
+entry	Ouche (Eau minérale d') [A. Rotureau]		
+orth	Ouche (Eau minérale d')		
 pb	589	0593	4573025
-entry	Ouchterlony (John)		
-entry	Oudet (Jean-Étienne)		
+entry	Ouchterlony (John) [A. Dureau]		
+orth	Ouchterlony (John)		
+entry	Oudet (Jean-Étienne) [A. Chéreau]		
+orth	Oudet (Jean-Étienne)		
 pb	590	0594	4573026
-entry	Oudney (Walter)		
-entry	Ouebouhou		
-entry	Ouïe		
+entry	Oudney (Walter) [L. Hahn]		
+orth	Oudney (Walter)		
+entry	Ouebouhou [G. Planchon]		
+orth	Ouebouhou		
+entry	Ouïe [C. Coÿne]		
+orth	Ouïe		
 pb	591	0595	4573027
 pb	592	0596	4573028
 pb	593	0597	4573029
@@ -803,30 +920,39 @@ pb	626	0630	4573062
 pb	627	0631	4573063
 pb	628	0632	4573064
 pb	629	0633	4573065
-entry	Ouïe. Bibliographie		
+entry	Ouïe. Bibliographie [L. Hahn]		
+orth	Ouïe. Bibliographie		
 pb	630	0634	4573066
 pb	631	0635	4573067
 pb	632	0636	4573068
 pb	633	0637	4573069
-entry	Ouistitis		
+entry	Ouistitis [E. Oustalet]		
+orth	Ouistitis		
 pb	634	0638	4573070
 pb	635	0639	4573071
-entry	Ould (Sir Fielding)		
+entry	Ould (Sir Fielding) [A. Chéreau]		
+orth	Ould (Sir Fielding)		
 pb	636	0640	4573072
 entry	Oulgate		
 ref	Houlgate (station maritime)		
 entry	Oulliot (Eau minérale d')		
 ref	Gabian		
-entry	Ouln		
-entry	Oumines		
-entry	Ounias		
+entry	Ouln [G. Planchon]		
+orth	Ouln		
+entry	Oumines [G. Planchon]		
+orth	Oumines		
+entry	Ounias [G. Planchon]		
+orth	Ounias		
 entry	Ouolofs (Les)		
-ref	Sénégambie		
-entry	Ou-Poey-tse, Ou-Pey-ste, Ou-Pei-ste, Woo-Pei-Tsze		
-entry	Ouragan		
+ref	Sénégambie [Amédée Dechambre]		
+entry	Ou-Poey-tse, Ou-Pey-ste, Ou-Pei-ste, Woo-Pei-Tsze [G. Planchon]		
+orth	Ou-Poey-tse, Ou-Pey-ste, Ou-Pei-ste, Woo-Pei-Tsze		
+entry	Ouragan [E. Renou]		
+orth	Ouragan		
 pb	637	0641	4573073
 pb	638	0642	4573074
-entry	Ouralo-Altaïque (Peuples)		
+entry	Ouralo-Altaïque (Peuples) [Amédée Dechambre]		
+orth	Ouralo-Altaïque (Peuples)		
 entry	Ouranoplastie		
 ref	Uranoplastie		
 entry	Ouraque		
@@ -836,36 +962,48 @@ ref	Curare
 entry	Ouratea		
 ref	Ochna		
 ref	Ochnacées		
-entry	Ours		
+entry	Ours [E. Oustalet]		
+orth	Ours		
 pb	639	0643	4573075
 pb	640	0644	4573076
 pb	641	0645	4573077
 pb	642	0646	4573078
 pb	643	0647	4573079
-entry	Ours (Saint-) (Eau minérale de)		
+entry	Ours (Saint-) (Eau minérale de) [A. Rotureau]		
+orth	Ours (Saint-) (Eau minérale de)		
 pb	644	0648	4573080
-entry	Oursins		
-entry	Outarde		
+entry	Oursins [Ed. Lefèvre]		
+orth	Oursins		
+entry	Outarde [E. Oustalet]		
+orth	Outarde		
 pb	645	0649	4573081
 pb	646	0650	4573082
 entry	Outauais (Les)		
-ref	Canada		
-entry	Outrancourt (Eau minérale d')		
+ref	Canada [Amédée Dechambre]		
+entry	Outrancourt (Eau minérale d') [A. Rotureau]		
+orth	Outrancourt (Eau minérale d')		
 pb	647	0651	4573083
-entry	Outre (Eau minérale d')		
-entry	Outrepont (Joseph-Servatus d')		
+entry	Outre (Eau minérale d') [A. Rotureau]		
+orth	Outre (Eau minérale d')		
+entry	Outrepont (Joseph-Servatus d') [A. Chéreau]		
+orth	Outrepont (Joseph-Servatus d')		
 pb	648	0652	4573084
-entry	Ouvi-lassa		
-entry	Ouvrard (J.-P.)		
+entry	Ouvi-lassa [G. Planchon]		
+orth	Ouvi-lassa		
+entry	Ouvrard (J.-P.) [A. Chéreau]		
+orth	Ouvrard (J.-P.)		
 pb	649	0653	4573085
-entry	Ouvre-bouche		
+entry	Ouvre-bouche [Amédée Dechambre]		
+orth	Ouvre-bouche		
 entry	Ouvriers		
 ref	Corporations		
 ref	Professions		
 entry	Ovahs (Les)		
 ref	Madagascar		
-entry	Ovaire		
-entry	Ovaire. Développement		
+entry	Ovaire [Ch. Rouget]		
+orth	Ovaire		
+entry	Ovaire. Développement [Ch. Rouget]		
+orth	Ovaire. Développement		
 pb	650	0654	4573086
 pb	651	0655	4573087
 pb	652	0656	4573088
@@ -901,7 +1039,8 @@ pb	681	0685	4573117
 pb	682	0686	4573118
 pb	683	0687	4573119
 pb	684	0688	4573120
-entry	Ovaire. Anatomie		
+entry	Ovaire. Anatomie [Ch. Rouget]		
+orth	Ovaire. Anatomie		
 pb	685	0689	4573121
 pb	686	0690	4573122
 pb	687	0691	4573123
@@ -945,13 +1084,15 @@ pb	724	0728	4573160
 pb	725	0729	4573161
 pb	726	0730	4573162
 entry	Pathologie		
-entry	Ovaire. Pathologie. Généralités		
+entry	Ovaire. Pathologie. Généralités [A. Ferrand]		
+orth	Ovaire. Pathologie. Généralités		
 pb	727	0731	4573163
 pb	728	0732	4573164
 pb	729	0733	4573165
 pb	730	0734	4573166
 pb	731	0735	4573167
-entry	Ovaire. Pathologie. Anomalies (absence d'ovaire et ovaire surnuméraire), atrophies et adhérences de l'ovaire		
+entry	Ovaire. Pathologie. Anomalies (absence d'ovaire et ovaire surnuméraire), atrophies et adhérences de l'ovaire [A. Ferrand]		
+orth	Ovaire. Pathologie. Anomalies (absence d'ovaire et ovaire surnuméraire), atrophies et adhérences de l'ovaire		
 pb	732	0736	4573168
 pb	733	0737	4573169
 pb	734	0738	4573170
@@ -960,7 +1101,8 @@ pb	736	0740	4573172
 pb	737	0741	4573173
 pb	738	0742	4573174
 pb	739	0743	4573175
-entry	Ovaire. Pathologie. Déplacements et hernies de l'ovaire		
+entry	Ovaire. Pathologie. Déplacements et hernies de l'ovaire [A. Ferrand]		
+orth	Ovaire. Pathologie. Déplacements et hernies de l'ovaire		
 pb	740	0744	4573176
 pb	741	0745	4573177
 pb	742	0746	4573178
@@ -971,20 +1113,23 @@ pb	746	0750	4573182
 pb	747	0751	4573183
 pb	748	0752	4573184
 pb	749	0753	4573185
-entry	Ovaire. Pathologie. Apoplexie de l'ovaire		
+entry	Ovaire. Pathologie. Apoplexie de l'ovaire [A. Ferrand]		
+orth	Ovaire. Pathologie. Apoplexie de l'ovaire		
 pb	750	0754	4573186
 pb	751	0755	4573187
 pb	752	0756	4573188
 pb	753	0757	4573189
 pb	754	0758	4573190
 pb	755	0759	4573191
-entry	Ovaire. Pathologie. Névralgie de l'ovaire		
+entry	Ovaire. Pathologie. Névralgie de l'ovaire [A. Ferrand]		
+orth	Ovaire. Pathologie. Névralgie de l'ovaire		
 pb	756	0760	4573192
 pb	757	0761	4573193
 pb	758	0762	4573194
 pb	759	0763	4573195
 pb	760	0764	4573196
-entry	Ovaire. Pathologie. Ovarites		
+entry	Ovaire. Pathologie. Ovarites [A. Ferrand]		
+orth	Ovaire. Pathologie. Ovarites		
 pb	761	0765	4573197
 pb	762	0766	4573198
 pb	763	0767	4573199
@@ -1007,7 +1152,8 @@ pb	779	0783	4573215
 pb	780	0784	4573216
 pb	781	0785	4573217
 pb	782	0786	4573218
-entry	Ovaire. Pathologie. Ovarites. Variétés		
+entry	Ovaire. Pathologie. Ovarites. Variétés [A. Ferrand]		
+orth	Ovaire. Pathologie. Ovarites. Variétés		
 pb	783	0787	4573219
 pb	784	0788	4573220
 pb	785	0789	4573221

@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4574837
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4574838
 pb	[s. pag.]	0003	4574839
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4574840
 pb	1	0005	4574841
-entry	Paralysie générale (Suite)		
+entry	Paralysie générale (Suite) [J. Christian, Ant. Ritti]		
+orth	Paralysie générale (Suite)		
 pb	2	0006	4574842
 pb	3	0007	4574843
 pb	4	0008	4574844
@@ -41,41 +44,68 @@ pb	35	0039	4574875
 pb	36	0040	4574876
 pb	37	0041	4574877
 pb	38	0042	4574878
-entry	Param		
+entry	Param [L. Hahn]		
+orth	Param		
 pb	39	0043	4574879
-entry	Paramaléique (Acide)		
-entry	Paramalique (Acide)		
-entry	Paramécie		
+entry	Paramaléique (Acide) [L. Hahn]		
+orth	Paramaléique (Acide)		
+entry	Paramalique (Acide) [L. Hahn]		
+orth	Paramalique (Acide)		
+entry	Paramécie [F. Henneguy]		
+orth	Paramécie		
 pb	40	0044	4574880
-entry	Paraméconique (Acide)		
-entry	Parameçvara Rakshita		
+entry	Paraméconique (Acide) [L. Hahn]		
+orth	Paraméconique (Acide)		
+entry	Parameçvara Rakshita [G. Liétard]		
+orth	Parameçvara Rakshita		
 pb	41	0045	4574881
-entry	Paraménispermine		
-entry	Paramide		
-entry	Paramidique ou Paramique (Acide)		
-entry	Paramnésie (Lordat)		
-entry	Paramorphine		
+entry	Paraménispermine [L. Hahn]		
+orth	Paraménispermine		
+entry	Paramide [L. Hahn]		
+orth	Paramide		
+entry	Paramidique ou Paramique (Acide) [L. Hahn]		
+orth	Paramidique ou Paramique (Acide)		
+entry	Paramnésie (Lordat) [Amédée Dechambre]		
+orth	Paramnésie (Lordat)		
+entry	Paramorphine [L. Hahn]		
+orth	Paramorphine		
 pb	42	0046	4574882
-entry	Paramucique (Acide)		
-entry	Paramylène		
-entry	Paramylon		
-entry	Paranaphtaline		
-entry	Paranga-Jaca		
+entry	Paramucique (Acide) [L. Hahn]		
+orth	Paramucique (Acide)		
+entry	Paramylène [L. Hahn]		
+orth	Paramylène		
+entry	Paramylon [L. Hahn]		
+orth	Paramylon		
+entry	Paranaphtaline [L. Hahn]		
+orth	Paranaphtaline		
+entry	Paranga-Jaca [G. Planchon]		
+orth	Paranga-Jaca		
 pb	43	0047	4574883
-entry	Paraniline		
-entry	Paranthracène		
-entry	Paraomphaliques (Vaisseaux)		
+entry	Paraniline [L. Hahn]		
+orth	Paraniline		
+entry	Paranthracène [L. Hahn]		
+orth	Paranthracène		
+entry	Paraomphaliques (Vaisseaux) [Amédée Dechambre]		
+orth	Paraomphaliques (Vaisseaux)		
 entry	Paraoxybenzoïque (Acide)		
 ref	Oxybenzoïque (Acide)		
-entry	Parapectine		
-entry	Parapectique (Acide)		
-entry	Parapeptone		
-entry	Paraphimosis		
+entry	Parapectine [L. Hahn]		
+orth	Parapectine		
+entry	Parapectique (Acide) [L. Hahn]		
+orth	Parapectique (Acide)		
+entry	Parapeptone [L. Hahn]		
+orth	Parapeptone		
+entry	Paraphimosis [Amédée Dechambre]		
+orth	Paraphimosis		
 pb	44	0048	4574884
-entry	Paraphrénitis ou Paraphrénésie		
-entry	Paraphrosyne		
-entry	Parapicoline		
-entry	Paraplégie		
+entry	Paraphrénitis ou Paraphrénésie [Amédée Dechambre]		
+orth	Paraphrénitis ou Paraphrénésie		
+entry	Paraphrosyne [Amédée Dechambre]		
+orth	Paraphrosyne		
+entry	Parapicoline [L. Hahn]		
+orth	Parapicoline		
+entry	Paraplégie [E. Demange]		
+orth	Paraplégie		
 pb	45	0049	4574885
 pb	46	0050	4574886
 pb	47	0051	4574887
@@ -98,15 +128,20 @@ pb	63	0067	4574903
 pb	64	0068	4574904
 pb	65	0069	4574905
 pb	66	0070	4574906
-entry	Paraplexie		
-entry	Pararhodéorétine		
-ref	Jalapine		
-entry	Pararo		
+entry	Paraplexie [Amédée Dechambre]		
+orth	Paraplexie		
+entry	Pararhodéorétine.. Hahn]		
+ref	Jalapine [L		
+entry	Pararo [G. Planchon]		
+orth	Pararo		
 entry	Parasaccharose		
 ref	Sucre		
-entry	Parasalicyle		
-entry	Parasitaires (Monstres)		
-entry	Parasites, Parasitisme		
+entry	Parasalicyle [L. Hahn]		
+orth	Parasalicyle		
+entry	Parasitaires (Monstres) [O. Larcher]		
+orth	Parasitaires (Monstres)		
+entry	Parasites, Parasitisme [C. Davaine, A. Laboulbène]		
+orth	Parasites, Parasitisme		
 pb	67	0071	4574907
 pb	68	0072	4574908
 pb	69	0073	4574909
@@ -157,49 +192,76 @@ pb	113	0117	4574953
 pb	114	0118	4574954
 pb	115	0119	4574955
 pb	116	0120	4574956
-entry	Parasiticides		
+entry	Parasiticides [Amédée Dechambre]		
+orth	Parasiticides		
 pb	117	0121	4574957
-entry	Parasitisme.		
-entry	Parasol		
-entry	Parasol chinois		
-entry	Parasol du grand seigneur		
-entry	Parasorbique (Acide)		
-entry	Parat (Philibert)		
+entry	Parasitisme. [Amédée Dechambre]		
+orth	Parasitisme.		
+entry	Parasol [G. Planchon]		
+orth	Parasol		
+entry	Parasol chinois [G. Planchon]		
+orth	Parasol chinois		
+entry	Parasol du grand seigneur [G. Planchon]		
+orth	Parasol du grand seigneur		
+entry	Parasorbique (Acide) [L. Hahn]		
+orth	Parasorbique (Acide)		
+entry	Parat (Philibert) [L. Hahn]		
+orth	Parat (Philibert)		
 pb	118	0122	4574958
-entry	Paratartralique (Acide)		
+entry	Paratartralique (Acide) [L. Hahn]		
+orth	Paratartralique (Acide)		
 entry	Paratartrates		
 ref	Paratartrique		
 ref	Tartrates		
-entry	Paratartrélique (Acide)		
-entry	Paratartrique (Acide)		
-entry	Parathionique (Acide)		
-entry	Paratie-Vayr		
-entry	Paratodo		
+entry	Paratartrélique (Acide) [L. Hahn]		
+orth	Paratartrélique (Acide)		
+entry	Paratartrique (Acide) [Bourgoin]		
+orth	Paratartrique (Acide)		
+entry	Parathionique (Acide) [L. Hahn]		
+orth	Parathionique (Acide)		
+entry	Paratie-Vayr [G. Planchon]		
+orth	Paratie-Vayr		
+entry	Paratodo [G. Planchon]		
+orth	Paratodo		
 pb	119	0123	4574959
-entry	Paratoluique ou Paratoluylique (Acide)		
+entry	Paratoluique ou Paratoluylique (Acide) [L. Hahn]		
+orth	Paratoluique ou Paratoluylique (Acide)		
 pb	120	0124	4574960
-entry	Paratonnerre		
+entry	Paratonnerre [C.-M. Gariel]		
+orth	Paratonnerre		
 pb	121	0125	4574961
 pb	122	0126	4574962
 pb	123	0127	4574963
-entry	Paratrimme.		
-entry	Paratura		
-entry	Paravas		
-entry	Paravicino (Les deux)		
-entry	Paraxylène ou Paraxylol		
-entry	Paraxylilique (Acide)		
+entry	Paratrimme. [Amédée Dechambre]		
+orth	Paratrimme.		
+entry	Paratura [G. Planchon]		
+orth	Paratura		
+entry	Paravas [G. Planchon]		
+orth	Paravas		
+entry	Paravicino (Les deux) [L. Hahn]		
+orth	Paravicino (Les deux)		
+entry	Paraxylène ou Paraxylol [L. Hahn]		
+orth	Paraxylène ou Paraxylol		
+entry	Paraxylilique (Acide) [L. Hahn]		
+orth	Paraxylilique (Acide)		
 pb	124	0128	4574964
-entry	Parchappe de Vinay (Jean-Baptiste-Maximien)		
+entry	Parchappe de Vinay (Jean-Baptiste-Maximien) [A. Chéreau]		
+orth	Parchappe de Vinay (Jean-Baptiste-Maximien)		
 pb	125	0129	4574965
 entry	Parcheminiers		
 ref	Peaux		
-entry	Parcul		
-entry	Pardalianches		
-entry	Pardoux (Barthélemy)		
-entry	Pardoux (Saint-) (Eaux minérales de)		
+entry	Parcul [G. Planchon]		
+orth	Parcul		
+entry	Pardalianches [G. Planchon]		
+orth	Pardalianches		
+entry	Pardoux (Barthélemy) [L. Hahn]		
+orth	Pardoux (Barthélemy)		
+entry	Pardoux (Saint-) (Eaux minérales de) [A. Rotureau]		
+orth	Pardoux (Saint-) (Eaux minérales de)		
 pb	126	0130	4574966
 pb	127	0131	4574967
-entry	Paré (Ambroise)		
+entry	Paré (Ambroise) [A. Chéreau]		
+orth	Paré (Ambroise)		
 pb	128	0132	4574968
 pb	129	0133	4574969
 pb	130	0134	4574970
@@ -209,14 +271,20 @@ pb	133	0137	4574973
 pb	134	0138	4574974
 pb	135	0139	4574975
 pb	136	0140	4574976
-entry	Parea (Hannibal)		
-entry	Pareira-brava		
+entry	Parea (Hannibal) [L. Hahn]		
+orth	Parea (Hannibal)		
+entry	Pareira-brava [H. Baillon]		
+orth	Pareira-brava		
 pb	137	0141	4574977
 pb	138	0142	4574978
-entry	Parelle		
-entry	Parellique (Acide) ou Parelline		
-entry	Parencéphale		
-entry	Parenchyme		
+entry	Parelle [G. Planchon]		
+orth	Parelle		
+entry	Parellique (Acide) ou Parelline [L. Hahn]		
+orth	Parellique (Acide) ou Parelline		
+entry	Parencéphale [Amédée Dechambre]		
+orth	Parencéphale		
+entry	Parenchyme [Ch. Robin]		
+orth	Parenchyme		
 pb	139	0143	4574979
 pb	140	0144	4574980
 pb	141	0145	4574981
@@ -251,52 +319,75 @@ pb	169	0173	4575009
 pb	170	0174	4575010
 pb	171	0175	4575011
 pb	172	0176	4575012
-entry	Parent-Duchatelet (Alexandre-Jean-Baptiste)		
+entry	Parent-Duchatelet (Alexandre-Jean-Baptiste) [A. Chéreau]		
+orth	Parent-Duchatelet (Alexandre-Jean-Baptiste)		
 pb	173	0177	4575013
 pb	174	0178	4575014
-entry	Parésie		
-entry	Paresseux		
+entry	Parésie [Amédée Dechambre]		
+orth	Parésie		
+entry	Paresseux [E. Oustalet]		
+orth	Paresseux		
 pb	175	0179	4575015
 pb	176	0180	4575016
 pb	177	0181	4575017
-entry	Paresthésie		
-entry	Parfait		
-entry	Parfait-amour		
-entry	Parfumeurs. Parfums (Hygiène)		
+entry	Paresthésie [Amédée Dechambre]		
+orth	Paresthésie		
+entry	Parfait [A. Dureau]		
+orth	Parfait		
+entry	Parfait-amour [Amédée Dechambre]		
+orth	Parfait-amour		
+entry	Parfumeurs. Parfums (Hygiène) [Alexandre Layet]		
+orth	Parfumeurs. Parfums (Hygiène)		
 pb	178	0182	4575018
 pb	179	0183	4575019
 pb	180	0184	4575020
 pb	181	0185	4575021
 pb	182	0186	4575022
 pb	183	0187	4575023
-entry	Paria		
-entry	Pariatacu		
-entry	Paricine		
-entry	Paridine ou Parine		
+entry	Paria [Amédée Dechambre]		
+orth	Paria		
+entry	Pariatacu [G. Planchon]		
+orth	Pariatacu		
+entry	Paricine [L. Hahn]		
+orth	Paricine		
+entry	Paridine ou Parine [L. Hahn]		
+orth	Paridine ou Parine		
 pb	184	0188	4575024
-entry	Paridol		
+entry	Paridol [L. Hahn]		
+orth	Paridol		
 entry	Pariétaire		
-entry	Pariétaire. Botanique		
+entry	Pariétaire. Botanique [H. Baillon]		
+orth	Pariétaire. Botanique		
 pb	185	0189	4575025
-entry	Pariétaire. Applications thérapeutiques		
+entry	Pariétaire. Applications thérapeutiques [Ernest Labbée]		
+orth	Pariétaire. Applications thérapeutiques		
 pb	186	0190	4575026
 entry	Pariétal		
-ref	Crane		
-entry	Pariétine		
-entry	Pariétique (Acide)		
+ref	Crane [Amédée Dechambre]		
+entry	Pariétine [L. Hahn]		
+orth	Pariétine		
+entry	Pariétique (Acide) [L. Hahn]		
+orth	Pariétique (Acide)		
 pb	187	0191	4575027
-entry	Parigline ou Parilline ou Parillique (Acide)		
-entry	Parili		
+entry	Parigline ou Parilline ou Parillique (Acide) [L. Hahn]		
+orth	Parigline ou Parilline ou Parillique (Acide)		
+entry	Parili [G. Planchon]		
+orth	Parili		
 entry	Parilline		
-ref	Parigline		
-entry	Parinari		
+ref	Parigline [Amédée Dechambre]		
+entry	Parinari [H. Baillon]		
+orth	Parinari		
 entry	Parine		
 ref	Paridine		
-entry	Paringay-Puttay		
-entry	Pariparobo.		
+entry	Paringay-Puttay [G. Planchon]		
+orth	Paringay-Puttay		
+entry	Pariparobo. [G. Planchon]		
+orth	Pariparobo.		
 pb	188	0192	4575028
-entry	Paripou		
-entry	Paris		
+entry	Paripou [G. Planchon]		
+orth	Paripou		
+entry	Paris [Léon Colin]		
+orth	Paris		
 pb	189	0193	4575029
 pb	190	0194	4575030
 pb	191	0195	4575031
@@ -449,52 +540,79 @@ pb	337	0341	4575177
 pb	338	0342	4575178
 pb	339	0343	4575179
 pb	340	0344	4575180
-entry	Paris. Parisette		
+entry	Paris. Parisette [H. Baillon]		
+orth	Paris. Parisette		
 pb	341	0345	4575181
-entry	Paris (P.)		
-entry	Parisano (Emilio)		
+entry	Paris (P.) [A. Chéreau]		
+orth	Paris (P.)		
+entry	Parisano (Emilio) [L. Hahn]		
+orth	Parisano (Emilio)		
 pb	342	0346	4575182
-entry	Parisataco		
-entry	Pariset (Étienne)		
+entry	Parisataco [G. Planchon]		
+orth	Parisataco		
+entry	Pariset (Étienne) [A. Chéreau]		
+orth	Pariset (Étienne)		
 entry	Parisette		
 ref	Paris		
 pb	343	0347	4575183
-entry	Parisot (Léon-Ignace)		
-entry	Paristyphnine		
-entry	Pariti		
+entry	Parisot (Léon-Ignace) [A. Dureau]		
+orth	Parisot (Léon-Ignace)		
+entry	Paristyphnine [L. Hahn]		
+orth	Paristyphnine		
+entry	Pariti [H. Baillon]		
+orth	Pariti		
 pb	344	0348	4575184
-entry	Parisius (Petrus)		
-entry	Parize (Saint-) (Eau minérale de)		
+entry	Parisius (Petrus) [L. Hahn]		
+orth	Parisius (Petrus)		
+entry	Parize (Saint-) (Eau minérale de) [A. Rotureau]		
+orth	Parize (Saint-) (Eau minérale de)		
 pb	345	0349	4575185
-entry	Park (Henry)		
-entry	Parker (Les)		
+entry	Park (Henry) [L. Hahn]		
+orth	Park (Henry)		
+entry	Parker (Les) [L. Hahn]		
+orth	Parker (Les)		
 pb	346	0350	4575186
-entry	Parkériacées		
-entry	Parkes (Les deux)		
+entry	Parkériacées [Ed. Lefèvre]		
+orth	Parkériacées		
+entry	Parkes (Les deux) [L. Hahn]		
+orth	Parkes (Les deux)		
 pb	347	0351	4575187
-entry	Parkia		
+entry	Parkia [H. Baillon]		
+orth	Parkia		
 pb	348	0352	4575188
-entry	Parkin (John)		
-entry	Parkinson (Les)		
+entry	Parkin (John) [L. Hahn]		
+orth	Parkin (John)		
+entry	Parkinson (Les) [L. Hahn]		
+orth	Parkinson (Les)		
 pb	349	0353	4575189
-entry	Parkinsonia		
+entry	Parkinsonia [H. Baillon]		
+orth	Parkinsonia		
 pb	350	0354	4575190
-entry	Parlatore (Filippo)		
-entry	Parmélie		
-entry	Parménie		
-entry	Parmentier (Antoine-Augustin)		
+entry	Parlatore (Filippo) [L. Hahn]		
+orth	Parlatore (Filippo)		
+entry	Parmélie [Ed. Lefèvre]		
+orth	Parmélie		
+entry	Parménie [G. Planchon]		
+orth	Parménie		
+entry	Parmentier (Antoine-Augustin) [A. Chéreau]		
+orth	Parmentier (Antoine-Augustin)		
 pb	351	0355	4575191
 pb	352	0356	4575192
 pb	353	0357	4575193
-entry	Parmentière		
-entry	Parnassie		
+entry	Parmentière [G. Planchon]		
+orth	Parmentière		
+entry	Parnassie [H. Baillon]		
+orth	Parnassie		
 pb	354	0358	4575194
-entry	Parobo		
+entry	Parobo [G. Planchon]		
+orth	Parobo		
 entry	Parodontis		
 ref	Parulie		
 pb	355	0359	4575195
-entry	Paroisse (Jean-Baptiste)		
-entry	Parole		
+entry	Paroisse (Jean-Baptiste) [A. Dureau]		
+orth	Paroisse (Jean-Baptiste)		
+entry	Parole [Arthur Chervin]		
+orth	Parole		
 pb	356	0360	4575196
 pb	357	0361	4575197
 pb	358	0362	4575198
@@ -517,15 +635,20 @@ pb	374	0378	4575214
 pb	375	0379	4575215
 pb	376	0380	4575216
 pb	377	0381	4575217
-entry	Parolino (Francisco-Roncalli)		
-entry	Paronique		
+entry	Parolino (Francisco-Roncalli) [L. Hahn]		
+orth	Parolino (Francisco-Roncalli)		
+entry	Paronique [H. Baillon]		
+orth	Paronique		
 pb	378	0382	4575218
 entry	Paroophoron		
 ref	Corps de Wolff		
-entry	Paropsie		
-entry	Parote		
+entry	Paropsie [Amédée Dechambre]		
+orth	Paropsie		
+entry	Parote [G. Planchon]		
+orth	Parote		
 entry	Parotide		
-entry	Parotide. Anatomie		
+entry	Parotide. Anatomie [H. Chrétien]		
+orth	Parotide. Anatomie		
 pb	379	0383	4575219
 pb	380	0384	4575220
 pb	381	0385	4575221
@@ -542,8 +665,10 @@ pb	391	0395	4575231
 pb	392	0396	4575232
 pb	393	0397	4575233
 pb	394	0398	4575234
-entry	Physiologie		
-entry	Parotide. Pathologie chirurgicale		
+entry	Physiologie [H. Chrétien]		
+orth	Physiologie		
+entry	Parotide. Pathologie chirurgicale [H. Chrétien]		
+orth	Parotide. Pathologie chirurgicale		
 pb	395	0399	4575235
 pb	396	0400	4575236
 pb	397	0401	4575237
@@ -624,7 +749,8 @@ pb	471	0475	4575311
 pb	472	0476	4575312
 pb	473	0477	4575313
 pb	474	0478	4575314
-entry	Parotidite (Phlegmon parotidien, bubon parotidien des Anglais, parotidite métastatique)		
+entry	Parotidite (Phlegmon parotidien, bubon parotidien des Anglais, parotidite métastatique) [Paul Spillman]		
+orth	Parotidite (Phlegmon parotidien, bubon parotidien des Anglais, parotidite métastatique)		
 pb	475	0479	4575315
 pb	476	0480	4575316
 pb	477	0481	4575317
@@ -637,87 +763,138 @@ pb	483	0487	4575323
 pb	484	0488	4575324
 pb	485	0489	4575325
 pb	486	0490	4575326
-entry	Parouti		
+entry	Parouti [G. Planchon]		
+orth	Parouti		
 entry	Parovarium		
 ref	Corps de Wolff		
-entry	Paroxybenzamique (Acide)		
-entry	Paroxybenzoïque ou Paraoxybenzoïque (Acide)		
-ref	Oxybenzoïque (Acide)		
-entry	Paroxybenzylique (Aldéhyde)		
-entry	Paroxydiphényle		
-entry	Paroxysme		
-entry	Parqui		
-entry	Parr (Bartholomew)		
+entry	Paroxybenzamique (Acide) [L. Hahn]		
+orth	Paroxybenzamique (Acide)		
+entry	Paroxybenzoïque ou Paraoxybenzoïque (Acide).. Hahn]		
+ref	Oxybenzoïque (Acide) [L		
+entry	Paroxybenzylique (Aldéhyde) [L. Hahn]		
+orth	Paroxybenzylique (Aldéhyde)		
+entry	Paroxydiphényle [L. Hahn]		
+orth	Paroxydiphényle		
+entry	Paroxysme [Amédée Dechambre]		
+orth	Paroxysme		
+entry	Parqui [G. Planchon]		
+orth	Parqui		
+entry	Parr (Bartholomew) [A. Dureau]		
+orth	Parr (Bartholomew)		
 pb	487	0491	4575327
-entry	Parrang		
-entry	Parrish (Joseph)		
-entry	Parrot (Les)		
+entry	Parrang [G. Planchon]		
+orth	Parrang		
+entry	Parrish (Joseph) [L. Hahn]		
+orth	Parrish (Joseph)		
+entry	Parrot (Les) [A. Chéreau]		
+orth	Parrot (Les)		
 pb	488	0492	4575328
-entry	Parrot (Marie-Jules)		
+entry	Parrot (Marie-Jules) [A. Dureau, L. Hahn]		
+orth	Parrot (Marie-Jules)		
 pb	489	0493	4575329
 pb	490	0494	4575330
-entry	Parry (Les deux)		
-entry	Parsey (William-Henry)		
+entry	Parry (Les deux) [L. Hahn]		
+orth	Parry (Les deux)		
+entry	Parsey (William-Henry) [L. Hahn]		
+orth	Parsey (William-Henry)		
 pb	491	0495	4575331
-entry	Parsis ou Ghebers		
-entry	Parson ou Parsons (James)		
+entry	Parsis ou Ghebers [Amédée Dechambre]		
+orth	Parsis ou Ghebers		
+entry	Parson ou Parsons (James) [L. Hahn]		
+orth	Parson ou Parsons (James)		
 pb	492	0496	4575332
-entry	Parsons (Usher)		
-entry	Parst		
+entry	Parsons (Usher) [L. Hahn]		
+orth	Parsons (Usher)		
+entry	Parst [G. Planchon]		
+orth	Parst		
 entry	Part (Supposition et suppression de)		
 ref	Suppression		
-entry	Part (James)		
-entry	Parthenion		
-entry	Parthenis		
-entry	Parthénogenèse		
+entry	Part (James) [L. Hahn]		
+orth	Part (James)		
+entry	Parthenion [G. Planchon]		
+orth	Parthenion		
+entry	Parthenis [G. Planchon]		
+orth	Parthenis		
+entry	Parthénogenèse [Amédée Dechambre]		
+orth	Parthénogenèse		
 pb	493	0497	4575333
-entry	Partridge-berry		
-entry	Partridge-wood		
+entry	Partridge-berry [G. Planchon]		
+orth	Partridge-berry		
+entry	Partridge-wood [G. Planchon]		
+orth	Partridge-wood		
 entry	Parturition		
 ref	Accouchement		
-entry	Parulie		
-entry	Parvoline		
-entry	Pascal (Les trois)		
+entry	Parulie [Amédée Dechambre]		
+orth	Parulie		
+entry	Parvoline [L. Hahn]		
+orth	Parvoline		
+entry	Pascal (Les trois) [A. Chéreau]		
+orth	Pascal (Les trois)		
 pb	494	0498	4575334
-entry	Pascalis (Félix)		
+entry	Pascalis (Félix) [L. Hahn]		
+orth	Pascalis (Félix)		
 entry	Paschalis		
 ref	Pascual		
-entry	Pascoli (Les deux)		
+entry	Pascoli (Les deux) [A. Dureau]		
+orth	Pascoli (Les deux)		
 pb	495	0499	4575335
-entry	Pascual (Les deux)		
-entry	Pas'd'âne		
-entry	Pas-de-Compains (Eau minérale de)		
+entry	Pascual (Les deux) [L. Hahn]		
+orth	Pascual (Les deux)		
+entry	Pas'd'âne [G. Planchon]		
+orth	Pas'd'âne		
+entry	Pas-de-Compains (Eau minérale de) [A. Rotureau]		
+orth	Pas-de-Compains (Eau minérale de)		
 pb	496	0500	4575336
-entry	Pasini (Les deux)		
-entry	Paspalon		
-entry	Paspalum		
+entry	Pasini (Les deux) [A. Dureau]		
+orth	Pasini (Les deux)		
+entry	Paspalon [G. Planchon]		
+orth	Paspalon		
+entry	Paspalum [G. Planchon]		
+orth	Paspalum		
 pb	497	0501	4575337
-entry	Pasquali (Pier-Paolo)		
-entry	Pasquier (Les deux)		
+entry	Pasquali (Pier-Paolo) [A. Dureau]		
+orth	Pasquali (Pier-Paolo)		
+entry	Pasquier (Les deux) [A. Chéreau]		
+orth	Pasquier (Les deux)		
 pb	498	0502	4575338
-entry	Passa		
-ref	Passum		
-entry	Passapu		
-entry	Passapuvenny		
-entry	Passavant (Claude)		
+entry	Passa.. Planchon]		
+ref	Passum [G		
+entry	Passapu [G. Planchon]		
+orth	Passapu		
+entry	Passapuvenny [G. Planchon]		
+orth	Passapuvenny		
+entry	Passavant (Claude) [A. Chéreau]		
+orth	Passavant (Claude)		
 pb	499	0503	4575339
-entry	Passe-fleur		
-entry	Passe-fleur-sauvage		
-entry	Passementier (Hygiène)		
-entry	Passe-pierre		
-entry	Passe-rage		
+entry	Passe-fleur [G. Planchon]		
+orth	Passe-fleur		
+entry	Passe-fleur-sauvage [G. Planchon]		
+orth	Passe-fleur-sauvage		
+entry	Passementier (Hygiène) [Alexandre Layet]		
+orth	Passementier (Hygiène)		
+entry	Passe-pierre [G. Planchon]		
+orth	Passe-pierre		
+entry	Passe-rage [G. Planchon]		
+orth	Passe-rage		
 pb	500	0504	4575340
 pb	501	0505	4575341
-entry	Passereaux		
-entry	Passerina (L.)		
+entry	Passereaux [E. Oustalet]		
+orth	Passereaux		
+entry	Passerina (L.) [H. Baillon]		
+orth	Passerina (L.)		
 pb	502	0506	4575342
-entry	Passe-rose		
-entry	Passe-satin		
-entry	Passe-velours		
-entry	Passiflore, Passifloracées		
+entry	Passe-rose [G. Planchon]		
+orth	Passe-rose		
+entry	Passe-satin [G. Planchon]		
+orth	Passe-satin		
+entry	Passe-velours [G. Planchon]		
+orth	Passe-velours		
+entry	Passiflore, Passifloracées [H. Baillon]		
+orth	Passiflore, Passifloracées		
 pb	503	0507	4575343
 pb	504	0508	4575344
-entry	Passions, Affections morales		
+entry	Passions, Affections morales [B. Brochin]		
+orth	Passions, Affections morales		
 pb	505	0509	4575345
 pb	506	0510	4575346
 pb	507	0511	4575347
@@ -750,60 +927,94 @@ pb	533	0537	4575373
 pb	534	0538	4575374
 pb	535	0539	4575375
 pb	536	0540	4575376
-entry	Passow (Ludwig-Carl-Friedrich-Franz)		
+entry	Passow (Ludwig-Carl-Friedrich-Franz) [A. Dureau]		
+orth	Passow (Ludwig-Carl-Friedrich-Franz)		
 pb	537	0541	4575377
 entry	Passulae		
 ref	Passum		
-entry	Passum		
-entry	Passy (Eau minérale de)		
+entry	Passum [Amédée Dechambre]		
+orth	Passum		
+entry	Passy (Eau minérale de) [A. Rotureau]		
+orth	Passy (Eau minérale de)		
 pb	538	0542	4575378
 pb	539	0543	4575379
-entry	Pasta (Les deux)		
+entry	Pasta (Les deux) [L. Hahn]		
+orth	Pasta (Les deux)		
 pb	540	0544	4575380
-entry	Paste		
-entry	Pastel		
+entry	Paste [G. Planchon]		
+orth	Paste		
+entry	Pastel [H. Baillon]		
+orth	Pastel		
 pb	541	0545	4575381
-entry	Pastellus herba		
-entry	Pastenade		
-entry	Pastenague		
+entry	Pastellus herba [G. Planchon]		
+orth	Pastellus herba		
+entry	Pastenade [G. Planchon]		
+orth	Pastenade		
+entry	Pastenague [H.-E. Sauvage]		
+orth	Pastenague		
 pb	542	0546	4575382
-entry	Pastèque		
+entry	Pastèque [G. Planchon]		
+orth	Pastèque		
 pb	543	0547	4575383
 pb	544	0548	4575384
 entry	Pastilles		
 ref	Bonbons		
-entry	Pastinaca		
-entry	Pastinacine		
-entry	Pasturacaos		
-entry	Pata de Gallareto		
-entry	Pata de Gallinazo		
-entry	Pataghi		
-entry	Patagone, Patagonelle		
-entry	Patagonie		
-entry	Pataoua, Patavoua		
-entry	Patata		
+entry	Pastinaca [H. Baillon]		
+orth	Pastinaca		
+entry	Pastinacine [L. Hahn]		
+orth	Pastinacine		
+entry	Pasturacaos [G. Planchon]		
+orth	Pasturacaos		
+entry	Pata de Gallareto [G. Planchon]		
+orth	Pata de Gallareto		
+entry	Pata de Gallinazo [G. Planchon]		
+orth	Pata de Gallinazo		
+entry	Pataghi [G. Planchon]		
+orth	Pataghi		
+entry	Patagone, Patagonelle [G. Planchon]		
+orth	Patagone, Patagonelle		
+entry	Patagonie [Amédée Dechambre]		
+orth	Patagonie		
+entry	Pataoua, Patavoua [G. Planchon]		
+orth	Pataoua, Patavoua		
+entry	Patata [G. Planchon]		
+orth	Patata		
 pb	545	0549	4575385
-entry	Patata de la Manche		
-entry	Patate de Purga		
-entry	Patate		
+entry	Patata de la Manche [G. Planchon]		
+orth	Patata de la Manche		
+entry	Patate de Purga [G. Planchon]		
+orth	Patate de Purga		
+entry	Patate [G. Planchon]		
+orth	Patate		
 pb	546	0550	4575386
-entry	Patate à Dubang		
-entry	Patate de la Virginie		
+entry	Patate à Dubang [G. Planchon]		
+orth	Patate à Dubang		
+entry	Patate de la Virginie [G. Planchon]		
+orth	Patate de la Virginie		
 entry	Patchouly		
-entry	Botanique		
-entry	Patchouly. Emploi		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Patchouly. Emploi [Amédée Dechambre]		
+orth	Patchouly. Emploi		
 pb	547	0551	4575387
 entry	Pate		
 ref	Pâtes		
-entry	Patellaria		
-entry	Patellarique (Acide)		
-entry	Patelle		
+entry	Patellaria [Ed. Lefèvre]		
+orth	Patellaria		
+entry	Patellarique (Acide) [L. Hahn]		
+orth	Patellarique (Acide)		
+entry	Patelle [Ed. Lefèvre]		
+orth	Patelle		
 pb	548	0552	4575388
-entry	Patenotier		
-entry	Patenotier des Italiens		
-entry	Patente		
+entry	Patenotier [G. Planchon]		
+orth	Patenotier		
+entry	Patenotier des Italiens [G. Planchon]		
+orth	Patenotier des Italiens		
+entry	Patente [Amédée Dechambre]		
+orth	Patente		
 pb	549	0553	4575389
-entry	Paternité (Médecine légale)		
+entry	Paternité (Médecine légale) [G. Tourdes]		
+orth	Paternité (Médecine légale)		
 pb	550	0554	4575390
 pb	551	0555	4575391
 pb	552	0556	4575392
@@ -832,25 +1043,31 @@ pb	574	0578	4575414
 pb	575	0579	4575415
 pb	576	0580	4575416
 pb	577	0581	4575417
-entry	Paterno (Bernardino)		
+entry	Paterno (Bernardino) [L. Hahn]		
+orth	Paterno (Bernardino)		
 pb	578	0582	4575418
-entry	Pater-Noster		
-entry	Pates		
+entry	Pater-Noster [G. Planchon]		
+orth	Pater-Noster		
+entry	Pates [Amédée Dechambre]		
+orth	Pates		
 pb	579	0583	4575419
 entry	Pathétique (Nerf)		
-entry	Pathétique (Nerf). Anatomie		
+entry	Pathétique (Nerf). Anatomie [Henri Strauss]		
+orth	Pathétique (Nerf). Anatomie		
 pb	580	0584	4575420
 pb	581	0585	4575421
 pb	582	0586	4575422
 pb	583	0587	4575423
 pb	584	0588	4575424
 pb	585	0589	4575425
-entry	Pathétique (Nerf). Physiologie		
+entry	Pathétique (Nerf). Physiologie [Henri Strauss]		
+orth	Pathétique (Nerf). Physiologie		
 pb	586	0590	4575426
 pb	587	0591	4575427
 pb	588	0592	4575428
 pb	589	0593	4575429
-entry	Pathétique (Nerf). Pathologie		
+entry	Pathétique (Nerf). Pathologie [Henri Strauss]		
+orth	Pathétique (Nerf). Pathologie		
 pb	590	0594	4575430
 pb	591	0595	4575431
 pb	592	0596	4575432
@@ -859,14 +1076,18 @@ pb	594	0598	4575434
 pb	595	0599	4575435
 pb	596	0600	4575436
 pb	597	0601	4575437
-entry	Pathogénie		
+entry	Pathogénie [L. Hecht]		
+orth	Pathogénie		
 pb	598	0602	4575438
-entry	Pathognomonie		
+entry	Pathognomonie [L. Hecht]		
+orth	Pathognomonie		
 pb	599	0603	4575439
-entry	Pathologie (en général)		
+entry	Pathologie (en général) [L. Hecht]		
+orth	Pathologie (en général)		
 pb	600	0604	4575440
 pb	601	0605	4575441
-entry	Pathologie comparée		
+entry	Pathologie comparée [O. Larcher]		
+orth	Pathologie comparée		
 pb	602	0606	4575442
 pb	603	0607	4575443
 pb	604	0608	4575444
@@ -895,79 +1116,119 @@ pb	626	0630	4575466
 pb	627	0631	4575467
 pb	628	0632	4575468
 entry	Patience ou Grande patience		
-entry	Botanique		
-entry	Patience ou Grande patience. Applications thérapeutiques		
+entry	Botanique [H. Baillon]		
+orth	Botanique		
+entry	Patience ou Grande patience. Applications thérapeutiques [Ernest Labbée]		
+orth	Patience ou Grande patience. Applications thérapeutiques		
 pb	629	0633	4575469
 pb	630	0634	4575470
 pb	631	0635	4575471
-entry	Patin (Botanique)		
-entry	Patin (Les)		
+entry	Patin (Botanique) [G. Planchon]		
+orth	Patin (Botanique)		
+entry	Patin (Les) [A. Chéreau]		
+orth	Patin (Les)		
 pb	632	0636	4575472
 pb	633	0637	4575473
 pb	634	0638	4575474
 pb	635	0639	4575475
 pb	636	0640	4575476
 pb	637	0641	4575477
-entry	Patissier (Philibert)		
+entry	Patissier (Philibert) [A. Chéreau]		
+orth	Patissier (Philibert)		
 pb	638	0642	4575478
 entry	Patissiers		
 ref	Cuisiniers		
-entry	Patisson		
-entry	Patranga		
-entry	Patraque		
-entry	Patrix-Palaw (Emmanuel-G.)		
-entry	Patruban (Karl von)		
-entry	Patrushi		
+entry	Patisson [G. Planchon]		
+orth	Patisson		
+entry	Patranga [G. Planchon]		
+orth	Patranga		
+entry	Patraque [G. Planchon]		
+orth	Patraque		
+entry	Patrix-Palaw (Emmanuel-G.) [L. Hahn]		
+orth	Patrix-Palaw (Emmanuel-G.)		
+entry	Patruban (Karl von) [L. Hahn]		
+orth	Patruban (Karl von)		
+entry	Patrushi [G. Planchon]		
+orth	Patrushi		
 pb	639	0643	4575479
-entry	Patte d'araignée		
-entry	Patte de lapin		
-entry	Patte de lièvre		
-entry	Patte de loup		
-entry	Patte d'oie		
-entry	Patte d'ours		
-entry	Patterson (Les deux)		
-entry	Pattison (Granville-Sharp)		
+entry	Patte d'araignée [G. Planchon]		
+orth	Patte d'araignée		
+entry	Patte de lapin [G. Planchon]		
+orth	Patte de lapin		
+entry	Patte de lièvre [G. Planchon]		
+orth	Patte de lièvre		
+entry	Patte de loup [G. Planchon]		
+orth	Patte de loup		
+entry	Patte d'oie [G. Planchon]		
+orth	Patte d'oie		
+entry	Patte d'ours [G. Planchon]		
+orth	Patte d'ours		
+entry	Patterson (Les deux) [L. Hahn]		
+orth	Patterson (Les deux)		
+entry	Pattison (Granville-Sharp) [L. Hahn]		
+orth	Pattison (Granville-Sharp)		
 pb	640	0644	4575480
-entry	Patuna (Bartolomeo)		
-entry	Paturin		
-entry	Paty		
+entry	Patuna (Bartolomeo) [L. Hahn]		
+orth	Patuna (Bartolomeo)		
+entry	Paturin [G. Planchon]		
+orth	Paturin		
+entry	Paty [G. Planchon]		
+orth	Paty		
 pb	641	0645	4575481
-entry	Patzisivandra		
-entry	Pau (Station hivernale de)		
+entry	Patzisivandra [G. Planchon]		
+orth	Patzisivandra		
+entry	Pau (Station hivernale de) [A. Rotureau]		
+orth	Pau (Station hivernale de)		
 pb	642	0646	4575482
 pb	643	0647	4575483
 pb	644	0648	4575484
 pb	645	0649	4575485
-entry	Pau de sangue		
-entry	Pauillac (Station Balnéaire)		
-entry	Paul d'Égine, Paulus Aegineta		
+entry	Pau de sangue [G. Planchon]		
+orth	Pau de sangue		
+entry	Pauillac (Station Balnéaire) [A. Rotureau]		
+orth	Pauillac (Station Balnéaire)		
+entry	Paul d'Égine, Paulus Aegineta [A. Chéreau]		
+orth	Paul d'Égine, Paulus Aegineta		
 pb	646	0650	4575486
-entry	Paul de Mérida		
+entry	Paul de Mérida [L. Hahn]		
+orth	Paul de Mérida		
 pb	647	0651	4575487
-entry	Paulet (Jean-Jacques)		
+entry	Paulet (Jean-Jacques) [A. Chéreau]		
+orth	Paulet (Jean-Jacques)		
 pb	648	0652	4575488
-entry	Pauli (Les)		
+entry	Pauli (Les) [L. Hahn]		
+orth	Pauli (Les)		
 pb	649	0653	4575489
 pb	650	0654	4575490
-entry	Paulin (Armand)		
-entry	Paulizky (Les deux)		
-entry	Paullini (Christian-Franz)		
+entry	Paulin (Armand) [L. Hahn]		
+orth	Paulin (Armand)		
+entry	Paulizky (Les deux) [L. Hahn]		
+orth	Paulizky (Les deux)		
+entry	Paullini (Christian-Franz) [L. Hahn]		
+orth	Paullini (Christian-Franz)		
 pb	651	0655	4575491
 entry	Paullinia		
-entry	Paullinia. Botanique		
+entry	Paullinia. Botanique [H. Baillon]		
+orth	Paullinia. Botanique		
 pb	652	0656	4575492
-entry	Paullinia. Thérapeutique		
+entry	Paullinia. Thérapeutique [Ernest Labbée]		
+orth	Paullinia. Thérapeutique		
 pb	653	0657	4575493
 pb	654	0658	4575494
 pb	655	0659	4575495
-entry	Paulmier (Les le)		
+entry	Paulmier (Les le) [A. Chéreau]		
+orth	Paulmier (Les le)		
 pb	656	0660	4575496
 pb	657	0661	4575497
-entry	Paulus (Carl-Christian-Ludwig)		
-entry	Pauly (Jean-Hippolyte)		
-entry	Paumelle		
+entry	Paulus (Carl-Christian-Ludwig) [A. Dureau]		
+orth	Paulus (Carl-Christian-Ludwig)		
+entry	Pauly (Jean-Hippolyte) [L. Hahn]		
+orth	Pauly (Jean-Hippolyte)		
+entry	Paumelle [G. Planchon]		
+orth	Paumelle		
 entry	Paupières		
-entry	Paupières. Anatomie		
+entry	Paupières. Anatomie [Charvot]		
+orth	Paupières. Anatomie		
 pb	658	0662	4575498
 pb	659	0663	4575499
 pb	660	0664	4575500
@@ -977,32 +1238,38 @@ pb	663	0667	4575503
 pb	664	0668	4575504
 pb	665	0669	4575505
 pb	666	0670	4575506
-entry	Paupières. Physiologie		
+entry	Paupières. Physiologie [Charvot]		
+orth	Paupières. Physiologie		
 pb	667	0671	4575507
 pb	668	0672	4575508
-entry	Paupières. Anomalies congénitales		
+entry	Paupières. Anomalies congénitales [Charvot]		
+orth	Paupières. Anomalies congénitales		
 pb	669	0673	4575509
 pb	670	0674	4575510
 pb	671	0675	4575511
 pb	672	0676	4575512
 pb	673	0677	4575513
 entry	Pathologie		
-entry	Paupières. Pathologie. Lésions traumatiques		
+entry	Paupières. Pathologie. Lésions traumatiques [Charvot]		
+orth	Paupières. Pathologie. Lésions traumatiques		
 pb	674	0678	4575514
 pb	675	0679	4575515
 pb	676	0680	4575516
 pb	677	0681	4575517
 pb	678	0682	4575518
-entry	Paupières. Pathologie. Inflammations		
+entry	Paupières. Pathologie. Inflammations [Charvot]		
+orth	Paupières. Pathologie. Inflammations		
 pb	679	0683	4575519
 pb	680	0684	4575520
 pb	681	0685	4575521
 pb	682	0686	4575522
-entry	Paupières. Pathologie. Pustule maligne. Oedème malin des paupières		
+entry	Paupières. Pathologie. Pustule maligne. Oedème malin des paupières [Charvot]		
+orth	Paupières. Pathologie. Pustule maligne. Oedème malin des paupières		
 pb	683	0687	4575523
 pb	684	0688	4575524
 pb	685	0689	4575525
-entry	Paupières. Pathologie. Affections cutanées des paupiéres		
+entry	Paupières. Pathologie. Affections cutanées des paupiéres [Charvot]		
+orth	Paupières. Pathologie. Affections cutanées des paupiéres		
 pb	686	0690	4575526
 pb	687	0691	4575527
 pb	688	0692	4575528
@@ -1012,11 +1279,13 @@ pb	691	0695	4575531
 pb	692	0696	4575532
 pb	693	0697	4575533
 pb	694	0698	4575534
-entry	Paupières. Pathologie. Affections vénériennes des paupiéres		
+entry	Paupières. Pathologie. Affections vénériennes des paupiéres [Charvot]		
+orth	Paupières. Pathologie. Affections vénériennes des paupiéres		
 pb	695	0699	4575535
 pb	696	0700	4575536
 pb	697	0701	4575537
-entry	Paupières. Pathologie. Tumeurs des paupières		
+entry	Paupières. Pathologie. Tumeurs des paupières [Charvot]		
+orth	Paupières. Pathologie. Tumeurs des paupières		
 pb	698	0702	4575538
 pb	699	0703	4575539
 pb	700	0704	4575540
@@ -1028,7 +1297,8 @@ pb	705	0709	4575545
 pb	706	0710	4575546
 pb	707	0711	4575547
 pb	708	0712	4575548
-entry	Paupières. Pathologie. Troubles fonctionnels des paupières		
+entry	Paupières. Pathologie. Troubles fonctionnels des paupières [Charvot]		
+orth	Paupières. Pathologie. Troubles fonctionnels des paupières		
 pb	709	0713	4575549
 pb	710	0714	4575550
 pb	711	0715	4575551
@@ -1045,67 +1315,101 @@ pb	721	0725	4575561
 pb	722	0726	4575562
 pb	723	0727	4575563
 pb	724	0728	4575564
-entry	Paute (La) (Eau minérale de)		
-ref	La Paute		
-entry	Pautrier (Jean-Jacques)		
+entry	Paute (La) (Eau minérale de).. Rotureau]		
+ref	La Paute [A		
+entry	Pautrier (Jean-Jacques) [L. Hahn]		
+orth	Pautrier (Jean-Jacques)		
 pb	725	0729	4575565
-entry	Pauwnees (Les)		
+entry	Pauwnees (Les) [Amédée Dechambre]		
+orth	Pauwnees (Les)		
 entry	Pavage		
 ref	Ville		
-entry	Pavala Poola		
-entry	Pavana, Pavane		
-entry	Pavel		
-entry	Pavet de Courteille (Charles)		
+entry	Pavala Poola [G. Planchon]		
+orth	Pavala Poola		
+entry	Pavana, Pavane [G. Planchon]		
+orth	Pavana, Pavane		
+entry	Pavel [G. Planchon]		
+orth	Pavel		
+entry	Pavet de Courteille (Charles) [L. Hahn]		
+orth	Pavet de Courteille (Charles)		
 pb	726	0730	4575566
-entry	Pavetta (L.)		
-entry	Paveurs (Hygiène)		
-entry	Pavia		
-entry	Pavie		
+entry	Pavetta (L.) [H. Baillon]		
+orth	Pavetta (L.)		
+entry	Paveurs (Hygiène) [Alexandre Layet]		
+orth	Paveurs (Hygiène)		
+entry	Pavia [H. Baillon]		
+orth	Pavia		
+entry	Pavie [G. Planchon]		
+orth	Pavie		
 pb	727	0731	4575567
-entry	Pavillon		
-entry	Pavonia (Cav.)		
+entry	Pavillon [Amédée Dechambre]		
+orth	Pavillon		
+entry	Pavonia (Cav.) [H. Baillon]		
+orth	Pavonia (Cav.)		
 entry	Pavot		
-entry	Pavot. Botanique		
+entry	Pavot. Botanique [H. Baillon]		
+orth	Pavot. Botanique		
 pb	728	0732	4575568
 pb	729	0733	4575569
 pb	730	0734	4575570
 pb	731	0735	4575571
-entry	Pavot. Emploi médical		
+entry	Pavot. Emploi médical [Amédée Dechambre]		
+orth	Pavot. Emploi médical		
 pb	732	0736	4575572
-entry	Paxille		
-entry	Paxton (James)		
-entry	Payco		
+entry	Paxille [Ed. Lefèvre]		
+orth	Paxille		
+entry	Paxton (James) [A. Dureau]		
+orth	Paxton (James)		
+entry	Payco [G. Planchon]		
+orth	Payco		
 pb	733	0737	4575573
-entry	Payen (Les)		
+entry	Payen (Les) [A. Chéreau, L. Hahn]		
+orth	Payen (Les)		
 pb	734	0738	4575574
-entry	Payer (Jean-Baptiste)		
+entry	Payer (Jean-Baptiste) [L. Hahn]		
+orth	Payer (Jean-Baptiste)		
 pb	735	0739	4575575
-entry	Payerou		
-entry	Payn (A.)		
+entry	Payerou [G. Planchon]		
+orth	Payerou		
+entry	Payn (A.) [L. Hahn]		
+orth	Payn (A.)		
 pb	736	0740	4575576
-entry	Payne (Henry)		
-entry	Payngk ou Payngh (Ahasverus)		
+entry	Payne (Henry) [L. Hahn]		
+orth	Payne (Henry)		
+entry	Payngk ou Payngh (Ahasverus) [L. Hahn]		
+orth	Payngk ou Payngh (Ahasverus)		
 entry	Pays-bas		
 ref	Belgique		
 ref	Hollande		
-entry	Paytamine		
-entry	Paytine		
+entry	Paytamine [L. Hahn]		
+orth	Paytamine		
+entry	Paytine [L. Hahn]		
+orth	Paytine		
 pb	737	0741	4575577
-entry	Paz		
-entry	Pe-la		
-entry	Pe-la-chu		
-entry	Pe-tsai		
-entry	Pe-tse		
-entry	Peacock (Thomas-Bevill)		
+entry	Paz [L. Hahn]		
+orth	Paz		
+entry	Pe-la [L. Hahn]		
+orth	Pe-la		
+entry	Pe-la-chu [L. Hahn]		
+orth	Pe-la-chu		
+entry	Pe-tsai [L. Hahn]		
+orth	Pe-tsai		
+entry	Pe-tse [L. Hahn]		
+orth	Pe-tse		
+entry	Peacock (Thomas-Bevill) [L. Hahn]		
+orth	Peacock (Thomas-Bevill)		
 pb	738	0742	4575578
-entry	Pearson (Les)		
+entry	Pearson (Les) [L. Hahn]		
+orth	Pearson (Les)		
 pb	739	0743	4575579
 pb	740	0744	4575580
 pb	741	0745	4575581
 entry	Pearson (Liqueur de)		
 ref	Arsenic		
-entry	Peart (Edward)		
-entry	Peaslee (Edmund-Randolph)		
+entry	Peart (Edward) [L. Hahn]		
+orth	Peart (Edward)		
+entry	Peaslee (Edmund-Randolph) [L. Hahn]		
+orth	Peaslee (Edmund-Randolph)		
 pb	742	0746	4575582
 pb	743	0747	4575583
 entry	Articles contenus dans le vingt et unième volume (2e série)		

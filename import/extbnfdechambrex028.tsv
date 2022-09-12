@@ -1,10 +1,13 @@
 pb	[s. pag.]	0001	4519849
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4519850
 pb	[s. pag.]	0003	4519851
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4519852
 pb	1	0005	4519853
 entry	Dermatoses (suite)		
-entry	Dermatoses (suite). Symptomatologie		
+entry	Dermatoses (suite). Symptomatologie [E. Bazin]		
+orth	Dermatoses (suite). Symptomatologie		
 pb	2	0006	4519854
 pb	3	0007	4519855
 pb	4	0008	4519856
@@ -52,7 +55,8 @@ pb	45	0049	4519897
 pb	46	0050	4519898
 pb	47	0051	4519899
 entry	Séméiotique		
-entry	Dermatoses (suite). Séméiotique. Diagnostic des symptômes		
+entry	Dermatoses (suite). Séméiotique. Diagnostic des symptômes [E. Bazin]		
+orth	Dermatoses (suite). Séméiotique. Diagnostic des symptômes		
 pb	48	0052	4519900
 pb	49	0053	4519901
 pb	50	0054	4519902
@@ -78,7 +82,8 @@ pb	69	0073	4519921
 pb	70	0074	4519922
 pb	71	0075	4519923
 entry	Valeur du symptôme dans le diagnostic et le pronostic des maladies		
-entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires		
+entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires [E. Bazin]		
+orth	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires		
 pb	72	0076	4519924
 pb	73	0077	4519925
 pb	74	0078	4519926
@@ -89,7 +94,8 @@ pb	78	0082	4519930
 pb	79	0083	4519931
 pb	80	0084	4519932
 pb	81	0085	4519933
-entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur pronostique des symptômes organiques élémentaires		
+entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur pronostique des symptômes organiques élémentaires [E. Bazin]		
+orth	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur pronostique des symptômes organiques élémentaires		
 pb	82	0086	4519934
 pb	83	0087	4519935
 pb	84	0088	4519936
@@ -101,7 +107,8 @@ pb	89	0093	4519941
 pb	90	0094	4519942
 pb	91	0095	4519943
 entry	Dermatoses (suite)		
-entry	Dermatoses (suite). Indications thérapeutiques		
+entry	Dermatoses (suite). Indications thérapeutiques [E. Bazin]		
+orth	Dermatoses (suite). Indications thérapeutiques		
 pb	92	0096	4519944
 pb	93	0097	4519945
 pb	94	0098	4519946
@@ -153,7 +160,8 @@ pb	139	0143	4519991
 pb	140	0144	4519992
 pb	141	0145	4519993
 entry	Dermatoses		
-entry	Dermatoses. Anatomie pathologique générale		
+entry	Dermatoses. Anatomie pathologique générale [J. Renaut]		
+orth	Dermatoses. Anatomie pathologique générale		
 pb	142	0146	4519994
 pb	143	0147	4519995
 pb	144	0148	4519996
@@ -283,38 +291,54 @@ pb	267	0271	4520119
 pb	268	0272	4520120
 entry	Derme		
 ref	Peau		
-entry	Derminés		
+entry	Derminés [Ed. Lefèvre]		
+orth	Derminés		
 pb	269	0273	4520121
 entry	Dermochélius		
 ref	Dermatochélys		
-entry	Dermocymes		
-entry	Dermoïde (Tissu)		
-entry	Dermott (D.-G.)		
-entry	Dérochage (Hygiène industrielle)		
+entry	Dermocymes [O. Larcher]		
+orth	Dermocymes		
+entry	Dermoïde (Tissu) [Amédée Dechambre]		
+orth	Dermoïde (Tissu)		
+entry	Dermott (D.-G.) [L. Hahn]		
+orth	Dermott (D.-G.)		
+entry	Dérochage (Hygiène industrielle) [Alexandre Layet]		
+orth	Dérochage (Hygiène industrielle)		
 pb	270	0274	4520122
-entry	Dérodymes		
-entry	Derosne (Les deux)		
+entry	Dérodymes [O. Larcher]		
+orth	Dérodymes		
+entry	Derosne (Les deux) [L. Hahn]		
+orth	Derosne (Les deux)		
 pb	271	0275	4520123
-entry	Derris		
-entry	Des Aguliers (Jean-Théophile)		
+entry	Derris [H. Baillon]		
+orth	Derris		
+entry	Des Aguliers (Jean-Théophile) [L. Hahn]		
+orth	Des Aguliers (Jean-Théophile)		
 pb	272	0276	4520124
 entry	Désarticulation		
 ref	Amputation		
 entry	Désassimilation		
 ref	Nutrition		
-entry	Desault (Les)		
+entry	Desault (Les) [A. Chéreau]		
+orth	Desault (Les)		
 pb	273	0277	4520125
 pb	274	0278	4520126
-entry	Desbarreaux-Bernard (Tibulle-Pellet)		
+entry	Desbarreaux-Bernard (Tibulle-Pellet) [A. Chéreau]		
+orth	Desbarreaux-Bernard (Tibulle-Pellet)		
 pb	275	0279	4520127
 pb	276	0280	4520128
-entry	Desberger (Anton)		
-entry	Des Bois de Rochefort (Louis)		
+entry	Desberger (Anton) [L. Hahn]		
+orth	Desberger (Anton)		
+entry	Des Bois de Rochefort (Louis) [A. Chéreau]		
+orth	Des Bois de Rochefort (Louis)		
 pb	277	0281	4520129
-entry	Desbordeaux (Pierre-François-Frédéric)		
+entry	Desbordeaux (Pierre-François-Frédéric) [L. Hahn]		
+orth	Desbordeaux (Pierre-François-Frédéric)		
 pb	278	0282	4520130
-entry	Desbrest		
-entry	Descartes ou Des Quartes (René)		
+entry	Desbrest [L. Hahn]		
+orth	Desbrest		
+entry	Descartes ou Des Quartes (René) [L. Hahn]		
+orth	Descartes ou Des Quartes (René)		
 pb	279	0283	4520131
 pb	280	0284	4520132
 pb	281	0285	4520133
@@ -322,50 +346,71 @@ pb	282	0286	4520134
 pb	283	0287	4520135
 pb	284	0288	4520136
 pb	285	0289	4520137
-entry	Descemet (Jean)		
+entry	Descemet (Jean) [A. Chéreau]		
+orth	Descemet (Jean)		
 pb	286	0290	4520138
-entry	Deschamps (Les)		
+entry	Deschamps (Les) [A. Chéreau]		
+orth	Deschamps (Les)		
 pb	287	0291	4520139
-entry	D'Escherny (David)		
-entry	Deschisaux (Pierre)		
-entry	Descieux (Louis-Cyprien)		
-entry	Descot (Pierre-Jules)		
+entry	D'Escherny (David) [L. Hahn]		
+orth	D'Escherny (David)		
+entry	Deschisaux (Pierre) [L. Hahn]		
+orth	Deschisaux (Pierre)		
+entry	Descieux (Louis-Cyprien) [L. Hahn]		
+orth	Descieux (Louis-Cyprien)		
+entry	Descot (Pierre-Jules) [L. Hahn]		
+orth	Descot (Pierre-Jules)		
 pb	288	0292	4520140
-entry	Descourtilz (Michel-Étienne)		
-entry	Descrin (J.-B.)		
-entry	Descroizilles (Les deux)		
+entry	Descourtilz (Michel-Étienne) [L. Hahn]		
+orth	Descourtilz (Michel-Étienne)		
+entry	Descrin (J.-B.) [L. Hahn]		
+orth	Descrin (J.-B.)		
+entry	Descroizilles (Les deux) [L. Hahn]		
+orth	Descroizilles (Les deux)		
 pb	289	0293	4520141
-entry	Descuret (Jean-Baptiste-Félix)		
+entry	Descuret (Jean-Baptiste-Félix) [A. Chéreau]		
+orth	Descuret (Jean-Baptiste-Félix)		
 pb	290	0294	4520142
 entry	Désert		
 ref	Géographie médicale		
-entry	Désessarts (Jean-Louis)		
-entry	De Sèze (Victor)		
+entry	Désessarts (Jean-Louis) [A. Chéreau]		
+orth	Désessarts (Jean-Louis)		
+entry	De Sèze (Victor) [A. Chéreau]		
+orth	De Sèze (Victor)		
 pb	291	0295	4520143
-entry	Desfontaines (René-Louiche)		
+entry	Desfontaines (René-Louiche) [A. Chéreau]		
+orth	Desfontaines (René-Louiche)		
 pb	292	0296	4520144
 pb	293	0297	4520145
-entry	Desgaultière (Philippe-B.-Raymond)		
-entry	Desgenettes (Nicolas-René-Dufriche, baron)		
+entry	Desgaultière (Philippe-B.-Raymond) [L. Hahn]		
+orth	Desgaultière (Philippe-B.-Raymond)		
+entry	Desgenettes (Nicolas-René-Dufriche, baron) [L. Hahn]		
+orth	Desgenettes (Nicolas-René-Dufriche, baron)		
 pb	294	0298	4520146
 pb	295	0299	4520147
 pb	296	0300	4520148
 pb	297	0301	4520149
-entry	Desgranges (Jean-Baptiste)		
-entry	Deshayes (Les)		
+entry	Desgranges (Jean-Baptiste) [A. Chéreau]		
+orth	Desgranges (Jean-Baptiste)		
+entry	Deshayes (Les) [L. Hahn]		
+orth	Deshayes (Les)		
 pb	298	0302	4520150
-entry	Desiderius		
+entry	Desiderius [L. Hahn]		
+orth	Desiderius		
 entry	Désinfectants, Désinfection		
-entry	Désinfectants, Désinfection. Définition et historique		
+entry	Désinfectants, Désinfection. Définition et historique [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Définition et historique		
 pb	299	0303	4520151
 pb	300	0304	4520152
 pb	301	0305	4520153
 pb	302	0306	4520154
 pb	303	0307	4520155
 entry	Désinfectants		
-entry	Désinfectants, Désinfection. Désinfectants. Moyens mécaniques		
+entry	Désinfectants, Désinfection. Désinfectants. Moyens mécaniques [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfectants. Moyens mécaniques		
 pb	304	0308	4520156
-entry	Désinfectants, Désinfection. Désinfectants. Absorbants désodorants		
+entry	Désinfectants, Désinfection. Désinfectants. Absorbants désodorants [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfectants. Absorbants désodorants		
 pb	305	0309	4520157
 pb	306	0310	4520158
 pb	307	0311	4520159
@@ -373,7 +418,8 @@ pb	308	0312	4520160
 pb	309	0313	4520161
 pb	310	0314	4520162
 pb	311	0315	4520163
-entry	Désinfectants, Désinfection. Désinfectants. Antiseptiques		
+entry	Désinfectants, Désinfection. Désinfectants. Antiseptiques [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfectants. Antiseptiques		
 pb	312	0316	4520164
 pb	313	0317	4520165
 pb	314	0318	4520166
@@ -396,7 +442,8 @@ pb	330	0334	4520182
 pb	331	0335	4520183
 pb	332	0336	4520184
 pb	333	0337	4520185
-entry	Désinfectants, Désinfection. Désinfectants. Neutralisants ou antivirulents		
+entry	Désinfectants, Désinfection. Désinfectants. Neutralisants ou antivirulents [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfectants. Neutralisants ou antivirulents		
 pb	334	0338	4520186
 pb	335	0339	4520187
 pb	336	0340	4520188
@@ -417,7 +464,8 @@ pb	350	0354	4520202
 pb	351	0355	4520203
 pb	352	0356	4520204
 entry	Désinfection		
-entry	Désinfectants, Désinfection. Désinfection. Désinfection nosocomiale		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection nosocomiale [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection nosocomiale		
 pb	353	0357	4520205
 pb	354	0358	4520206
 pb	355	0359	4520207
@@ -425,13 +473,15 @@ pb	356	0360	4520208
 pb	357	0361	4520209
 pb	358	0362	4520210
 pb	359	0363	4520211
-entry	Désinfectants, Désinfection. Désinfection. Désinfection des locaux		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection des locaux [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection des locaux		
 pb	360	0364	4520212
 pb	361	0365	4520213
 pb	362	0366	4520214
 pb	363	0367	4520215
 pb	364	0368	4520216
-entry	Désinfectants, Désinfection. Désinfection. Désinfection des vêtements, de la literie		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection des vêtements, de la literie [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection des vêtements, de la literie		
 pb	365	0369	4520217
 pb	366	0370	4520218
 pb	367	0371	4520219
@@ -443,22 +493,31 @@ pb	372	0376	4520224
 pb	373	0377	4520225
 pb	374	0378	4520226
 pb	375	0379	4520227
-entry	Désinfection du matériel instrumental et chirurgical		
-entry	Désinfectants, Désinfection. Désinfection. Désinfection du personnel médical ou auxiliaire		
+entry	Désinfection du matériel instrumental et chirurgical [E. Vallin, A. Gérardin]		
+orth	Désinfection du matériel instrumental et chirurgical		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection du personnel médical ou auxiliaire [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection du personnel médical ou auxiliaire		
 pb	376	0380	4520228
-entry	Désinfection des véhicules ayant servi au transport des malades		
-entry	Désinfectants, Désinfection. Désinfection. Désinfection quarantenaire		
+entry	Désinfection des véhicules ayant servi au transport des malades [E. Vallin, A. Gérardin]		
+orth	Désinfection des véhicules ayant servi au transport des malades		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection quarantenaire [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection quarantenaire		
 pb	377	0381	4520229
 pb	378	0382	4520230
-entry	Désinfection de la cargaison		
-entry	Désinfectants, Désinfection. Désinfection. Désinfection du navire		
+entry	Désinfection de la cargaison [E. Vallin, A. Gérardin]		
+orth	Désinfection de la cargaison		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection du navire [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection du navire		
 pb	379	0383	4520231
 pb	380	0384	4520232
-entry	Désinfectants, Désinfection. Désinfection. Désinfection vétérinaire		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection vétérinaire [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection vétérinaire		
 pb	381	0385	4520233
-entry	Désinfectants, Désinfection. Désinfection. Désinfection des aliments et des boissons		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection des aliments et des boissons [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection des aliments et des boissons		
 pb	382	0386	4520234
-entry	Désinfectants, Désinfection. Désinfection. Désinfection des habitations collectives ou privées		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection des habitations collectives ou privées [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection des habitations collectives ou privées		
 pb	383	0387	4520235
 pb	384	0388	4520236
 pb	385	0389	4520237
@@ -467,7 +526,8 @@ pb	387	0391	4520239
 pb	388	0392	4520240
 pb	389	0393	4520241
 pb	390	0394	4520242
-entry	Désinfectants, Désinfection. Désinfection. Désinfection municipale		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection municipale [E. Vallin, A. Gérardin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection municipale		
 pb	391	0395	4520243
 pb	392	0396	4520244
 pb	393	0397	4520245
@@ -476,7 +536,8 @@ pb	395	0399	4520247
 pb	396	0400	4520248
 pb	397	0401	4520249
 pb	398	0402	4520250
-entry	Désinfectants, Désinfection. Désinfection. Désinfection du sol		
+entry	Désinfectants, Désinfection. Désinfection. Désinfection du sol [E. Vallin, A. Gérardin] [E. Vallin]		
+orth	Désinfectants, Désinfection. Désinfection. Désinfection du sol		
 pb	399	0403	4520251
 pb	400	0404	4520252
 pb	401	0405	4520253
@@ -485,76 +546,113 @@ pb	403	0407	4520255
 pb	404	0408	4520256
 pb	405	0409	4520257
 pb	406	0410	4520258
-entry	Des Innocens (G.)		
+entry	Des Innocens (G.) [A. Chéreau]		
+orth	Des Innocens (G.)		
 pb	407	0411	4520259
 entry	Désis		
 ref	Araignées		
-entry	Des Jardins (Jean)		
+entry	Des Jardins (Jean) [A. Chéreau]		
+orth	Des Jardins (Jean)		
 pb	408	0412	4520260
-entry	Deslandes (Léopold)		
-entry	D'Eslon (Charles)		
+entry	Deslandes (Léopold) [A. Chéreau]		
+orth	Deslandes (Léopold)		
+entry	D'Eslon (Charles) [Amédée Dechambre]		
+orth	D'Eslon (Charles)		
 pb	409	0413	4520261
 pb	410	0414	4520262
-entry	Desman		
+entry	Desman [E. Oustalet]		
+orth	Desman		
 pb	411	0415	4520263
-entry	Desmanthus		
-entry	Demarest, Desmarets (Les)		
+entry	Desmanthus [G. Planchon]		
+orth	Desmanthus		
+entry	Demarest, Desmarets (Les) [L. Hahn]		
+orth	Demarest, Desmarets (Les)		
 pb	412	0416	4520264
-entry	Desmarres (Louis-Auguste)		
+entry	Desmarres (Louis-Auguste) [L. Hahn]		
+orth	Desmarres (Louis-Auguste)		
 pb	413	0417	4520265
 pb	414	0418	4520266
-entry	Desmars		
-entry	Desmazières (Jean-Baptiste-Henri-Joseph)		
-entry	Desmidiées		
+entry	Desmars [Amédée Dechambre]		
+orth	Desmars		
+entry	Desmazières (Jean-Baptiste-Henri-Joseph) [L. Hahn]		
+orth	Desmazières (Jean-Baptiste-Henri-Joseph)		
+entry	Desmidiées [Ed. Lefèvre]		
+orth	Desmidiées		
 pb	415	0419	4520267
-entry	Desmilleville		
-entry	Desmodes		
+entry	Desmilleville [L. Hahn]		
+orth	Desmilleville		
+entry	Desmodes [E. Oustalet]		
+orth	Desmodes		
 pb	416	0420	4520268
-entry	Desmoïde		
-entry	Desmonceaux (l'abbé)		
-entry	Desmoulins (Louis-Antoine)		
+entry	Desmoïde [Amédée Dechambre]		
+orth	Desmoïde		
+entry	Desmonceaux (l'abbé) [A. Dureau]		
+orth	Desmonceaux (l'abbé)		
+entry	Desmoulins (Louis-Antoine) [A. Dureau]		
+orth	Desmoulins (Louis-Antoine)		
 pb	417	0421	4520269
 pb	418	0422	4520270
-entry	Desnoues (Guillaume)		
-entry	Désobstruants (Médicaments)		
+entry	Desnoues (Guillaume) [L. Hahn]		
+orth	Desnoues (Guillaume)		
+entry	Désobstruants (Médicaments) [Amédée Dechambre]		
+orth	Désobstruants (Médicaments)		
 entry	Désorganisation		
 ref	Organisation		
-entry	Désormeaux (Marie-Alexandre)		
+entry	Désormeaux (Marie-Alexandre) [A. Chéreau]		
+orth	Désormeaux (Marie-Alexandre)		
 pb	419	0423	4520271
-entry	Désoxalique (Acide)		
+entry	Désoxalique (Acide) [L. Hahn]		
+orth	Désoxalique (Acide)		
 pb	420	0424	4520272
-entry	Désoudin (Jean-Gaspard-Charles)		
-entry	Desparanches et non Desparanges		
+entry	Désoudin (Jean-Gaspard-Charles) [L. Hahn]		
+orth	Désoudin (Jean-Gaspard-Charles)		
+entry	Desparanches et non Desparanges [L. Hahn]		
+orth	Desparanches et non Desparanges		
 pb	421	0425	4520273
-entry	Desparts (Jacques)		
+entry	Desparts (Jacques) [A. Chéreau]		
+orth	Desparts (Jacques)		
 pb	422	0426	4520274
 pb	423	0427	4520275
-entry	Despine ou D'Espine (Les)		
+entry	Despine ou D'Espine (Les) [A. Dureau]		
+orth	Despine ou D'Espine (Les)		
 pb	424	0428	4520276
 pb	425	0429	4520277
 pb	426	0430	4520278
 pb	427	0431	4520279
-entry	Despiney (Félix)		
-entry	Desplas (Jean-Baptiste)		
+entry	Despiney (Félix) [L. Hahn]		
+orth	Despiney (Félix)		
+entry	Desplas (Jean-Baptiste) [L. Hahn]		
+orth	Desplas (Jean-Baptiste)		
 pb	428	0432	4520280
-entry	Desportes (Les)		
+entry	Desportes (Les) [A. Chéreau]		
+orth	Desportes (Les)		
 pb	429	0433	4520281
-entry	Desports (François)		
-entry	Després (Charles-Denis)		
+entry	Desports (François) [A. Chéreau]		
+orth	Desports (François)		
+entry	Després (Charles-Denis) [L. Hahn]		
+orth	Després (Charles-Denis)		
 pb	430	0434	4520282
-entry	Despretz (César-Mansuète)		
+entry	Despretz (César-Mansuète) [L. Hahn]		
+orth	Despretz (César-Mansuète)		
 pb	431	0435	4520283
-entry	Desruelles (Henri-Marie-Joseph)		
+entry	Desruelles (Henri-Marie-Joseph) [A. Chéreau]		
+orth	Desruelles (Henri-Marie-Joseph)		
 pb	432	0436	4520284
-entry	Dessen ou Dessenius van Cronenburg (Bernard)		
+entry	Dessen ou Dessenius van Cronenburg (Bernard) [L. Hahn]		
+orth	Dessen ou Dessenius van Cronenburg (Bernard)		
 pb	433	0437	4520285
-entry	Dessiccants ou Dessiccatifs		
+entry	Dessiccants ou Dessiccatifs [Amédée Dechambre]		
+orth	Dessiccants ou Dessiccatifs		
 pb	434	0438	4520286
-entry	Dessiccation (Pharmacie)		
+entry	Dessiccation (Pharmacie) [Amédée Dechambre]		
+orth	Dessiccation (Pharmacie)		
 pb	435	0439	4520287
-entry	Destrugesia		
-entry	Desvauxia Fluitans		
-entry	Déterminisme		
+entry	Destrugesia [G. Planchon]		
+orth	Destrugesia		
+entry	Desvauxia Fluitans [G. Planchon]		
+orth	Desvauxia Fluitans		
+entry	Déterminisme [Amédée Dechambre]		
+orth	Déterminisme		
 pb	436	0440	4520288
 pb	437	0441	4520289
 pb	438	0442	4520290
@@ -569,29 +667,40 @@ pb	446	0450	4520298
 pb	447	0451	4520299
 pb	448	0452	4520300
 pb	449	0453	4520301
-entry	Détersifs		
-entry	Detharding (Les)		
+entry	Détersifs [Amédée Dechambre]		
+orth	Détersifs		
+entry	Detharding (Les) [L. Hahn]		
+orth	Detharding (Les)		
 pb	450	0454	4520302
 pb	451	0455	4520303
 pb	452	0456	4520304
-entry	Detmold (Johann-Hermann)		
+entry	Detmold (Johann-Hermann) [A. Dureau]		
+orth	Detmold (Johann-Hermann)		
 pb	453	0457	4520305
 entry	Détroncation		
 ref	Embryotomie		
-entry	Detten (Moritz)		
-entry	Deusing (Anton)		
+entry	Detten (Moritz) [L. Hahn]		
+orth	Detten (Moritz)		
+entry	Deusing (Anton) [L. Hahn]		
+orth	Deusing (Anton)		
 pb	454	0458	4520306
 pb	455	0459	4520307
-entry	Deutéropathie		
+entry	Deutéropathie [Amédée Dechambre]		
+orth	Deutéropathie		
 pb	456	0460	4520308
-entry	Deutsch (Les)		
+entry	Deutsch (Les) [L. Hahn]		
+orth	Deutsch (Les)		
 pb	457	0461	4520309
-entry	Deval (Charles)		
-entry	De Vaux (Jean)		
+entry	Deval (Charles) [A. Chéreau]		
+orth	Deval (Charles)		
+entry	De Vaux (Jean) [A. Chéreau]		
+orth	De Vaux (Jean)		
 pb	458	0462	4520310
-entry	Devay (Francisque)		
+entry	Devay (Francisque) [A. Chéreau]		
+orth	Devay (Francisque)		
 pb	459	0463	4520311
-entry	Développement		
+entry	Développement [Ch. Robin]		
+orth	Développement		
 pb	460	0464	4520312
 pb	461	0465	4520313
 pb	462	0466	4520314
@@ -628,49 +737,70 @@ pb	492	0496	4520344
 pb	493	0497	4520345
 pb	494	0498	4520346
 pb	495	0499	4520347
-entry	Deventer (Hendrix van)		
+entry	Deventer (Hendrix van) [L. Hahn]		
+orth	Deventer (Hendrix van)		
 pb	496	0500	4520348
 pb	497	0501	4520349
-entry	Devergie (Marie-Guillaume-Alphonse)		
+entry	Devergie (Marie-Guillaume-Alphonse) [A. Chéreau]		
+orth	Devergie (Marie-Guillaume-Alphonse)		
 pb	498	0502	4520350
 pb	499	0503	4520351
-entry	Devèze (Jean)		
+entry	Devèze (Jean) [L. Hahn]		
+orth	Devèze (Jean)		
 pb	500	0504	4520352
 entry	Déviation		
-entry	Tératologie		
-entry	Déviation. Pathologie		
+entry	Tératologie [Amédée Dechambre]		
+orth	Tératologie		
+entry	Déviation. Pathologie [Amédée Dechambre]		
+orth	Déviation. Pathologie		
 pb	501	0505	4520353
-entry	Deville (Pierre-François-Albéric)		
-entry	Devillers (Charles)		
-entry	De Villiers, et non pas Devilliers (Les)		
+entry	Deville (Pierre-François-Albéric) [A. Chéreau]		
+orth	Deville (Pierre-François-Albéric)		
+entry	Devillers (Charles) [L. Hahn]		
+orth	Devillers (Charles)		
+entry	De Villiers, et non pas Devilliers (Les) [A. Chéreau]		
+orth	De Villiers, et non pas Devilliers (Les)		
 pb	502	0506	4520354
 pb	503	0507	4520355
 entry	Devin		
 ref	Divination		
-entry	Dewar (Henry)		
+entry	Dewar (Henry) [L. Hahn]		
+orth	Dewar (Henry)		
 pb	504	0508	4520356
-entry	Dewees (William-P.)		
+entry	Dewees (William-P.) [A. Dureau]		
+orth	Dewees (William-P.)		
 pb	505	0509	4520357
-entry	Dewhurst (Henry-William)		
-entry	Dexippe ou Dioxippe		
+entry	Dewhurst (Henry-William) [L. Hahn]		
+orth	Dewhurst (Henry-William)		
+entry	Dexippe ou Dioxippe [L. Hahn]		
+orth	Dexippe ou Dioxippe		
 entry	Dextrine		
-entry	Dextrine. Chimie		
+entry	Dextrine. Chimie [Malaguti]		
+orth	Dextrine. Chimie		
 pb	506	0510	4520358
 pb	507	0511	4520359
-entry	Emploi médical et chirurgical		
-entry	Deyber (François-Joseph)		
+entry	Emploi médical et chirurgical [Amédée Dechambre]		
+orth	Emploi médical et chirurgical		
+entry	Deyber (François-Joseph) [L. Hahn]		
+orth	Deyber (François-Joseph)		
 pb	508	0512	4520360
-entry	Deydier (Pierre-Isaac)		
-entry	Deyeux (Nicolas)		
+entry	Deydier (Pierre-Isaac) [L. Hahn]		
+orth	Deydier (Pierre-Isaac)		
+entry	Deyeux (Nicolas) [A. Chéreau]		
+orth	Deyeux (Nicolas)		
 pb	509	0513	4520361
-entry	Deyon		
-entry	Dezeimeris (Jean-Eugène)		
+entry	Deyon [L. Hahn]		
+orth	Deyon		
+entry	Dezeimeris (Jean-Eugène) [A. Dureau]		
+orth	Dezeimeris (Jean-Eugène)		
 pb	510	0514	4520362
 pb	511	0515	4520363
 pb	512	0516	4520364
-entry	Dézoteux (François)		
+entry	Dézoteux (François) [A. Chéreau]		
+orth	Dézoteux (François)		
 pb	513	0517	4520365
-entry	Dhanvantari		
+entry	Dhanvantari [G. Liétard]		
+orth	Dhanvantari		
 pb	514	0518	4520366
 pb	515	0519	4520367
 pb	516	0520	4520368
@@ -682,11 +812,14 @@ pb	521	0525	4520373
 pb	522	0526	4520374
 pb	523	0527	4520375
 pb	524	0528	4520376
-entry	D'Hombres Firmas (Louis-Augustin)		
+entry	D'Hombres Firmas (Louis-Augustin) [L. Hahn]		
+orth	D'Hombres Firmas (Louis-Augustin)		
 pb	525	0529	4520377
 entry	Diabète		
-entry	Définition et division du sujet		
-entry	Diabète. Diabète sucré		
+entry	Définition et division du sujet [E. Demange]		
+orth	Définition et division du sujet		
+entry	Diabète. Diabète sucré [E. Demange]		
+orth	Diabète. Diabète sucré		
 pb	526	0530	4520378
 pb	527	0531	4520379
 pb	528	0532	4520380
@@ -823,7 +956,8 @@ pb	658	0662	4520510
 pb	659	0663	4520511
 pb	660	0664	4520512
 pb	661	0665	4520513
-entry	Diabète. Diabète azoturique		
+entry	Diabète. Diabète azoturique [E. Demange]		
+orth	Diabète. Diabète azoturique		
 pb	662	0666	4520514
 pb	663	0667	4520515
 pb	664	0668	4520516
@@ -835,7 +969,8 @@ pb	669	0673	4520521
 pb	670	0674	4520522
 pb	671	0675	4520523
 pb	672	0676	4520524
-entry	Diabète. Diabète hydrurique		
+entry	Diabète. Diabète hydrurique [E. Demange]		
+orth	Diabète. Diabète hydrurique		
 pb	673	0677	4520525
 pb	674	0678	4520526
 pb	675	0679	4520527
@@ -846,32 +981,48 @@ pb	679	0683	4520531
 pb	680	0684	4520532
 pb	681	0685	4520533
 pb	682	0686	4520534
-entry	Diabétomètre		
+entry	Diabétomètre [Amédée Dechambre]		
+orth	Diabétomètre		
 entry	Diable		
 ref	Démon		
-entry	Diable-au-corps		
-entry	Diablotins stimulants		
-entry	Diabotanum		
-entry	Diacarthame		
-entry	Diacaryon		
+entry	Diable-au-corps [Amédée Dechambre]		
+orth	Diable-au-corps		
+entry	Diablotins stimulants [Amédée Dechambre]		
+orth	Diablotins stimulants		
+entry	Diabotanum [Amédée Dechambre]		
+orth	Diabotanum		
+entry	Diacarthame [Amédée Dechambre]		
+orth	Diacarthame		
+entry	Diacaryon [Amédée Dechambre]		
+orth	Diacaryon		
 entry	Diacatholicon		
-ref	Catholicon		
+ref	Catholicon [Amédée Dechambre]		
 entry	Diacétamide		
 ref	Acétamide		
 ref	Amide		
-entry	Di-acétylène		
+entry	Di-acétylène [C. Lutz]		
+orth	Di-acétylène		
 pb	683	0687	4520535
-entry	Diachylon		
+entry	Diachylon [Amédée Dechambre]		
+orth	Diachylon		
 pb	684	0688	4520536
-entry	Diachytis, Diachyton		
-entry	Diaclase		
-entry	Diacode		
+entry	Diachytis, Diachyton [G. Planchon]		
+orth	Diachytis, Diachyton		
+entry	Diaclase [Amédée Dechambre]		
+orth	Diaclase		
+entry	Diacode [Amédée Dechambre]		
+orth	Diacode		
 pb	685	0689	4520537
-entry	Diacrise		
-entry	Diaculahuen		
-entry	Diacydonium		
-entry	Diadéma		
-entry	Diagnostic ou Diagnose		
+entry	Diacrise [Amédée Dechambre]		
+orth	Diacrise		
+entry	Diaculahuen [G. Planchon]		
+orth	Diaculahuen		
+entry	Diacydonium [G. Planchon]		
+orth	Diacydonium		
+entry	Diadéma [Ed. Lefèvre]		
+orth	Diadéma		
+entry	Diagnostic ou Diagnose [L. Hecht]		
+orth	Diagnostic ou Diagnose		
 pb	686	0690	4520538
 pb	687	0691	4520539
 pb	688	0692	4520540
@@ -880,50 +1031,72 @@ pb	690	0694	4520542
 pb	691	0695	4520543
 pb	692	0696	4520544
 pb	693	0697	4520545
-entry	Diagomètre		
+entry	Diagomètre [C.-M. Gariel]		
+orth	Diagomètre		
 pb	694	0698	4520546
-entry	Diagoras		
+entry	Diagoras [L. Hahn]		
+orth	Diagoras		
 pb	695	0699	4520547
-entry	Diagrède		
-entry	Dialion		
-entry	Diallyle		
+entry	Diagrède [Amédée Dechambre]		
+orth	Diagrède		
+entry	Dialion [G. Planchon]		
+orth	Dialion		
+entry	Diallyle [C. Lutz]		
+orth	Diallyle		
 pb	696	0700	4520548
-entry	Dialuramide		
+entry	Dialuramide [C. Lutz]		
+orth	Dialuramide		
 pb	697	0701	4520549
-entry	Dialurique (Acide)		
-entry	Dialyse		
+entry	Dialurique (Acide) [C. Lutz]		
+orth	Dialurique (Acide)		
+entry	Dialyse [L. Hahn]		
+orth	Dialyse		
 pb	698	0702	4520550
 pb	699	0703	4520551
 pb	700	0704	4520552
 pb	701	0705	4520553
-entry	Diamagnétisme		
+entry	Diamagnétisme [C.-M. Gariel]		
+orth	Diamagnétisme		
 pb	702	0706	4520554
 pb	703	0707	4520555
 pb	704	0708	4520556
-entry	Diamant		
+entry	Diamant [Malaguti]		
+orth	Diamant		
 entry	Diamides		
 ref	Amides		
 pb	705	0709	4520557
-entry	Diamorum		
-entry	Diamyle		
-entry	Diamylène		
-entry	Diamyloxalique (Acide)		
+entry	Diamorum [Amédée Dechambre]		
+orth	Diamorum		
+entry	Diamyle [Malaguti]		
+orth	Diamyle		
+entry	Diamylène [Malaguti]		
+orth	Diamylène		
+entry	Diamyloxalique (Acide) [Malaguti]		
+orth	Diamyloxalique (Acide)		
 pb	706	0710	4520558
-entry	Diamylvaléral		
-entry	Diannyère (Les deux)		
+entry	Diamylvaléral [Malaguti]		
+orth	Diamylvaléral		
+entry	Diannyère (Les deux) [L. Hahn]		
+orth	Diannyère (Les deux)		
 entry	Dianthus		
 ref	Oeillet		
-entry	Diapalme (Emplâtre)		
+entry	Diapalme (Emplâtre) [Amédée Dechambre]		
+orth	Diapalme (Emplâtre)		
 pb	707	0711	4520559
-entry	Diapasme		
-entry	Diapason		
+entry	Diapasme [Amédée Dechambre]		
+orth	Diapasme		
+entry	Diapason [C.-M. Gariel]		
+orth	Diapason		
 pb	708	0712	4520560
 pb	709	0713	4520561
 pb	710	0714	4520562
-entry	Diapensia		
-entry	Diaphoenix (Électuaire)		
+entry	Diapensia [H. Baillon]		
+orth	Diapensia		
+entry	Diaphoenix (Électuaire) [Amédée Dechambre]		
+orth	Diaphoenix (Électuaire)		
 pb	711	0715	4520563
-entry	Diaphorétiques		
+entry	Diaphorétiques [Amédée Dechambre]		
+orth	Diaphorétiques		
 pb	[s. pag.]	0716	4520564
 pb	713	0717	4520565
 entry	Articles contenus dans le vingt-huitième volume premère série		

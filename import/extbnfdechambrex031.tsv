@@ -1,20 +1,27 @@
 pb	[s. pag.]	0001	4522151
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4522152
 pb	[s. pag.]	0003	4522153
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4522154
 pb	1	0005	4522155
-entry	Dynamomètre		
+entry	Dynamomètre [C.-M. Gariel]		
+orth	Dynamomètre		
 pb	2	0006	4522156
 pb	3	0007	4522157
-entry	Dynamoscopie		
-entry	Dyrsen (Les deux)		
+entry	Dynamoscopie [Amédée Dechambre]		
+orth	Dynamoscopie		
+entry	Dyrsen (Les deux) [L. Hahn]		
+orth	Dyrsen (Les deux)		
 pb	4	0008	4522158
-entry	Dyscrasie		
+entry	Dyscrasie [Amédée Dechambre]		
+orth	Dyscrasie		
 entry	Dyschromatopsie		
 ref	Chromatopseudopsie		
 entry	Dysdère		
 ref	Araignée		
-entry	Dysenterie		
+entry	Dysenterie [Léon Colin]		
+orth	Dysenterie		
 pb	5	0009	4522159
 pb	6	0010	4522160
 pb	7	0011	4522161
@@ -111,8 +118,10 @@ pb	97	0101	4522251
 pb	98	0102	4522252
 pb	99	0103	4522253
 pb	100	0104	4522254
-entry	Dyslysine		
-entry	Dysménorrhée		
+entry	Dyslysine [Amédée Dechambre]		
+orth	Dyslysine		
+entry	Dysménorrhée [André Petit]		
+orth	Dysménorrhée		
 pb	101	0105	4522255
 pb	102	0106	4522256
 pb	103	0107	4522257
@@ -156,11 +165,13 @@ pb	140	0144	4522294
 pb	141	0145	4522295
 pb	142	0146	4522296
 pb	143	0147	4522297
-entry	Dysodes		
+entry	Dysodes [E. Oustalet]		
+orth	Dysodes		
 pb	144	0148	4522298
 pb	145	0149	4522299
 pb	146	0150	4522300
-entry	Dyspepsie		
+entry	Dyspepsie [B. Brochin]		
+orth	Dyspepsie		
 pb	147	0151	4522301
 pb	148	0152	4522302
 pb	149	0153	4522303
@@ -254,7 +265,8 @@ pb	236	0240	4522390
 pb	237	0241	4522391
 pb	238	0242	4522392
 pb	239	0243	4522393
-entry	Dysphagie		
+entry	Dysphagie [Bernheim]		
+orth	Dysphagie		
 pb	240	0244	4522394
 pb	241	0245	4522395
 pb	242	0246	4522396
@@ -270,7 +282,8 @@ pb	251	0255	4522405
 pb	252	0256	4522406
 pb	253	0257	4522407
 pb	254	0258	4522408
-entry	Dyspnée		
+entry	Dyspnée [L. Hecht]		
+orth	Dyspnée		
 pb	255	0259	4522409
 pb	256	0260	4522410
 pb	257	0261	4522411
@@ -287,7 +300,8 @@ pb	267	0271	4522421
 pb	268	0272	4522422
 pb	269	0273	4522423
 pb	270	0274	4522424
-entry	Dystocie		
+entry	Dystocie [A. Bouchacourt]		
+orth	Dystocie		
 pb	271	0275	4522425
 pb	272	0276	4522426
 pb	273	0277	4522427
@@ -414,46 +428,68 @@ pb	393	0397	4522547
 pb	394	0398	4522548
 pb	395	0399	4522549
 pb	396	0400	4522550
-entry	Dysurie		
-entry	Dzondi (Carl-Heinrich)		
+entry	Dysurie [Amédée Dechambre]		
+orth	Dysurie		
+entry	Dzondi (Carl-Heinrich) [L. Hahn]		
+orth	Dzondi (Carl-Heinrich)		
 pb	397	0401	4522551
-entry	Dzoungarie		
+entry	Dzoungarie [Amédée Dechambre]		
+orth	Dzoungarie		
 entry	Errata		
-entry	Errata. Déontologie		
+entry	Errata. Déontologie [Amédée Dechambre]		
+orth	Errata. Déontologie		
 pb	398	0402	4522552
-entry	Drümpelmann (Ernst-Wilhelm von)		
+entry	Drümpelmann (Ernst-Wilhelm von) [L. Hahn]		
+orth	Drümpelmann (Ernst-Wilhelm von)		
 entry	Addenda		
-entry	Dahl (Voldemar-Ferdinand)		
-entry	Dahlerup (Edoard-August)		
-entry	Addenda. D'Alnoncourt (Franz-Ludwig-Carl)		
+entry	Dahl (Voldemar-Ferdinand) [L. Hahn]		
+orth	Dahl (Voldemar-Ferdinand)		
+entry	Dahlerup (Edoard-August) [L. Hahn]		
+orth	Dahlerup (Edoard-August)		
+entry	Addenda. D'Alnoncourt (Franz-Ludwig-Carl) [L. Hahn]		
+orth	Addenda. D'Alnoncourt (Franz-Ludwig-Carl)		
 pb	399	0403	4522553
-entry	Dando (La)		
-entry	Addenda. Danse de Saint-Guy ou Danse de Saint-Constantin		
+entry	Dando (La) [Amédée Dechambre]		
+orth	Dando (La)		
+entry	Addenda. Danse de Saint-Guy ou Danse de Saint-Constantin [Amédée Dechambre]		
+orth	Addenda. Danse de Saint-Guy ou Danse de Saint-Constantin		
 pb	400	0404	4522554
-entry	Darby (John-Thomson)		
-entry	Darrach (William)		
-entry	Addenda. Davaine (Casimir-Joseph)		
+entry	Darby (John-Thomson) [L. Hahn]		
+orth	Darby (John-Thomson)		
+entry	Darrach (William) [L. Hahn]		
+orth	Darrach (William)		
+entry	Addenda. Davaine (Casimir-Joseph) [L. Hahn]		
+orth	Addenda. Davaine (Casimir-Joseph)		
 pb	401	0405	4522555
 pb	402	0406	4522556
 pb	403	0407	4522557
 pb	404	0408	4522558
 pb	405	0409	4522559
 pb	406	0410	4522560
-entry	Addenda. Davis (Les deux)		
+entry	Addenda. Davis (Les deux) [L. Hahn]		
+orth	Addenda. Davis (Les deux)		
 pb	407	0411	4522561
-entry	Day (Henry)		
-entry	Addenda. Decaisne (Joseph)		
+entry	Day (Henry) [L. Hahn]		
+orth	Day (Henry)		
+entry	Addenda. Decaisne (Joseph) [L. Hahn]		
+orth	Addenda. Decaisne (Joseph)		
 pb	408	0412	4522562
-entry	Deen (Van)		
+entry	Deen (Van) [L. Hahn]		
+orth	Deen (Van)		
 pb	409	0413	4522563
 entry	Addenda		
-entry	Deleuze (Joseph-Philippe-François)		
-entry	Delwart (Louis-Valentin)		
-entry	Addenda. Depaul (Jean-Marie)		
+entry	Deleuze (Joseph-Philippe-François) [A. Chéreau]		
+orth	Deleuze (Joseph-Philippe-François)		
+entry	Delwart (Louis-Valentin) [L. Hahn]		
+orth	Delwart (Louis-Valentin)		
+entry	Addenda. Depaul (Jean-Marie) [L. Hahn]		
+orth	Addenda. Depaul (Jean-Marie)		
 pb	410	0414	4522564
 pb	411	0415	4522565
-entry	De Sanctis (Tito-Livio)		
-entry	Addenda. Deville (Jean-Charles-Amédée)		
+entry	De Sanctis (Tito-Livio) [L. Hahn]		
+orth	De Sanctis (Tito-Livio)		
+entry	Addenda. Deville (Jean-Charles-Amédée) [L. Hahn]		
+orth	Addenda. Deville (Jean-Charles-Amédée)		
 pb	412	0416	4522566
 entry	Diacétamide		
 ref	Amides		
@@ -464,112 +500,165 @@ entry	Diacétorromhydrine
 ref	Glycérides		
 entry	Diacétochlorhydrine		
 ref	Glycérides		
-entry	Diacétylène		
+entry	Diacétylène [Amédée Dechambre]		
+orth	Diacétylène		
 entry	Diacétylophénylène ou Naphtaline		
 ref	Naphtaline		
-entry	Diacétylurée		
-entry	Dialdéhyde		
-entry	Diallyle		
+entry	Diacétylurée [Amédée Dechambre]		
+orth	Diacétylurée		
+entry	Dialdéhyde [Amédée Dechambre]		
+orth	Dialdéhyde		
+entry	Diallyle [Amédée Dechambre]		
+orth	Diallyle		
 entry	Diamides ou Biamides		
 ref	Amides		
 pb	413	0417	4522567
 entry	Addenda		
 entry	Diamidonaphtaline ou Naphtylène-diamine		
 ref	Naphtaline		
-entry	Diamines		
-entry	Diamylacétal		
-entry	Diamyle		
+entry	Diamines [Amédée Dechambre]		
+orth	Diamines		
+entry	Diamylacétal [Amédée Dechambre]		
+orth	Diamylacétal		
+entry	Diamyle [Amédée Dechambre]		
+orth	Diamyle		
 entry	Diamylène		
 ref	Amylène		
-entry	Diamyloxalique (Acide)		
-entry	Diamylvaléral		
+entry	Diamyloxalique (Acide) [Amédée Dechambre]		
+orth	Diamyloxalique (Acide)		
+entry	Diamylvaléral [Amédée Dechambre]		
+orth	Diamylvaléral		
 entry	Dianilide		
 ref	Anilides		
-entry	Diarachine		
-entry	Diatérébique (Acide)		
-entry	Diazo... (préf.)		
+entry	Diarachine [Amédée Dechambre]		
+orth	Diarachine		
+entry	Diatérébique (Acide) [Amédée Dechambre]		
+orth	Diatérébique (Acide)		
+entry	Diazo... (préf.) [Amédée Dechambre]		
+orth	Diazo... (préf.)		
 pb	414	0418	4522568
-entry	Addenda. Diazo... (Préf.)		
-entry	Dibenzylamine		
+entry	Addenda. Diazo... (Préf.) [Amédée Dechambre]		
+orth	Addenda. Diazo... (Préf.)		
+entry	Dibenzylamine [Amédée Dechambre]		
+orth	Dibenzylamine		
 entry	Dibromhydrine		
 ref	Glycérides		
 entry	Dibutyrine		
 ref	Butyrine		
-entry	Dichloracétique (Acide)		
+entry	Dichloracétique (Acide) [Amédée Dechambre]		
+orth	Dichloracétique (Acide)		
 entry	Dichlorhydrine		
 ref	Chlorhydrine		
-entry	Addenda. Dick (Hermann)		
+entry	Addenda. Dick (Hermann) [L. Hahn]		
+orth	Addenda. Dick (Hermann)		
 pb	415	0419	4522569
-entry	Dicodéine		
+entry	Dicodéine [Amédée Dechambre]		
+orth	Dicodéine		
 entry	Dicyanamide		
 ref	Cyanamide		
-entry	Dicyanique (Acide) ou Dicarbimide		
-entry	Diesing (Karl-Moriz)		
+entry	Dicyanique (Acide) ou Dicarbimide [Amédée Dechambre]		
+orth	Dicyanique (Acide) ou Dicarbimide		
+entry	Diesing (Karl-Moriz) [L. Hahn]		
+orth	Diesing (Karl-Moriz)		
 entry	Diéthacétique ou Caproïque (Acide)		
 ref	Caproïque (Acide)		
-entry	Diéthoxalique (Acide)		
-entry	Diéthylacétone		
-entry	Addenda. Diéthylamine		
+entry	Diéthoxalique (Acide) [Amédée Dechambre]		
+orth	Diéthoxalique (Acide)		
+entry	Diéthylacétone [Amédée Dechambre]		
+orth	Diéthylacétone		
+entry	Addenda. Diéthylamine [Amédée Dechambre]		
+orth	Addenda. Diéthylamine		
 pb	416	0420	4522570
-entry	Diéthylaniline		
-entry	Diéthylbenzol		
+entry	Diéthylaniline [Amédée Dechambre]		
+orth	Diéthylaniline		
+entry	Diéthylbenzol [Amédée Dechambre]		
+orth	Diéthylbenzol		
 entry	Diéthyline		
 ref	Glycérides		
-entry	Diéthylurée		
-entry	Dietl (Josef)		
-entry	Dieudonné (Jean-François-Joseph)		
-entry	Addenda. Dieuxivoye (Les deux)		
+entry	Diéthylurée [Amédée Dechambre]		
+orth	Diéthylurée		
+entry	Dietl (Josef) [L. Hahn]		
+orth	Dietl (Josef)		
+entry	Dieudonné (Jean-François-Joseph) [L. Hahn]		
+orth	Dieudonné (Jean-François-Joseph)		
+entry	Addenda. Dieuxivoye (Les deux) [A. Chéreau]		
+orth	Addenda. Dieuxivoye (Les deux)		
 pb	417	0421	4522571
 pb	418	0422	4522572
 entry	Addenda		
-entry	Digallique (Acide)		
-entry	Digitation		
+entry	Digallique (Acide) [Amédée Dechambre]		
+orth	Digallique (Acide)		
+entry	Digitation [Amédée Dechambre]		
+orth	Digitation		
 entry	Dilacération		
 ref	Déchirure		
-entry	Dilatomètre		
-entry	Addenda. Discomycètes		
+entry	Dilatomètre [Amédée Dechambre]		
+orth	Dilatomètre		
+entry	Addenda. Discomycètes [Ed. Lefèvre]		
+orth	Addenda. Discomycètes		
 pb	419	0423	4522573
-entry	Addenda. Dispensaires		
+entry	Addenda. Dispensaires [Amédée Dechambre]		
+orth	Addenda. Dispensaires		
 pb	420	0424	4522574
 pb	421	0425	4522575
 pb	422	0426	4522576
 pb	423	0427	4522577
 pb	424	0428	4522578
-entry	Ditterich (Georg-Ludwig)		
-entry	Dittrich (Franz)		
-entry	Addenda. Djezla ou Dschezla (Ebn)		
+entry	Ditterich (Georg-Ludwig) [L. Hahn]		
+orth	Ditterich (Georg-Ludwig)		
+entry	Dittrich (Franz) [L. Hahn]		
+orth	Dittrich (Franz)		
+entry	Addenda. Djezla ou Dschezla (Ebn) [L. Hahn]		
+orth	Addenda. Djezla ou Dschezla (Ebn)		
 pb	425	0429	4522579
-entry	Dover (Thomas)		
-entry	Dreyer (Johann-Traugott)		
-entry	Droeze (Frederik-Jan-Haver)		
-entry	Ducasse (Jean-Marie-Augustin)		
+entry	Dover (Thomas) [L. Hahn]		
+orth	Dover (Thomas)		
+entry	Dreyer (Johann-Traugott) [L. Hahn]		
+orth	Dreyer (Johann-Traugott)		
+entry	Droeze (Frederik-Jan-Haver) [L. Hahn]		
+orth	Droeze (Frederik-Jan-Haver)		
+entry	Ducasse (Jean-Marie-Augustin) [L. Hahn]		
+orth	Ducasse (Jean-Marie-Augustin)		
 pb	426	0430	4522580
 entry	Addenda		
-entry	Duchassaing de Fontbressin (Placide)		
-entry	Addenda. Duchek (Adalbert)		
+entry	Duchassaing de Fontbressin (Placide) [L. Hahn]		
+orth	Duchassaing de Fontbressin (Placide)		
+entry	Addenda. Duchek (Adalbert) [L. Hahn]		
+orth	Addenda. Duchek (Adalbert)		
 pb	427	0431	4522581
-entry	Dufour (Charles)		
-entry	Dunn (Robert)		
+entry	Dufour (Charles) [L. Hahn]		
+orth	Dufour (Charles)		
+entry	Dunn (Robert) [L. Hahn]		
+orth	Dunn (Robert)		
 entry	Du Petit		
 ref	Petit		
-entry	Addenda. Duplay (Mathieu-Simon-Justin-Maurice)		
+entry	Addenda. Duplay (Mathieu-Simon-Justin-Maurice) [L. Hahn]		
+orth	Addenda. Duplay (Mathieu-Simon-Justin-Maurice)		
 pb	428	0432	4522582
-entry	Duret (Jacques)		
-entry	Dursy (Emil)		
-entry	Addenda. Dutcher (P.)		
+entry	Duret (Jacques) [L. Hahn]		
+orth	Duret (Jacques)		
+entry	Dursy (Emil) [L. Hahn]		
+orth	Dursy (Emil)		
+entry	Addenda. Dutcher (P.) [L. Hahn]		
+orth	Addenda. Dutcher (P.)		
 pb	429	0433	4522583
-entry	Duvernoy (Jean-Georges)		
+entry	Duvernoy (Jean-Georges) [L. Hahn]		
+orth	Duvernoy (Jean-Georges)		
 entry	Dyschromie		
 ref	Taches		
 pb	[s. pag.]	0434	4522584
 pb	431	0435	4522585
-entry	Earle (Les)		
+entry	Earle (Les) [A. Chéreau, L. Hahn]		
+orth	Earle (Les)		
 pb	432	0436	4522586
-entry	Easley (Tandy-Edward)		
-entry	Easton (John-Alexander)		
+entry	Easley (Tandy-Edward) [L. Hahn]		
+orth	Easley (Tandy-Edward)		
+entry	Easton (John-Alexander) [L. Hahn]		
+orth	Easton (John-Alexander)		
 pb	433	0437	4522587
 entry	Eau		
-entry	Eau. Chimie		
+entry	Eau. Chimie [C. Lutz]		
+orth	Eau. Chimie		
 pb	434	0438	4522588
 pb	435	0439	4522589
 pb	436	0440	4522590
@@ -582,7 +671,8 @@ pb	442	0446	4522596
 pb	443	0447	4522597
 pb	444	0448	4522598
 pb	445	0449	4522599
-entry	Eau. Hygiène		
+entry	Eau. Hygiène [Jules Arnould]		
+orth	Eau. Hygiène		
 pb	446	0450	4522600
 pb	447	0451	4522601
 pb	448	0452	4522602
@@ -707,7 +797,8 @@ pb	566	0570	4522720
 pb	567	0571	4522721
 pb	568	0572	4522722
 pb	569	0573	4522723
-entry	Eau de mer		
+entry	Eau de mer [A. Rotureau]		
+orth	Eau de mer		
 pb	570	0574	4522724
 pb	571	0575	4522725
 pb	572	0576	4522726
@@ -717,7 +808,8 @@ pb	575	0579	4522729
 pb	576	0580	4522730
 entry	Eau balsamique d'Arnold		
 ref	Soultzmatt (Eaux minérales de)		
-entry	Eaux-Bonnes (Eaux minérales d')		
+entry	Eaux-Bonnes (Eaux minérales d') [A. Rotureau]		
+orth	Eaux-Bonnes (Eaux minérales d')		
 pb	577	0581	4522731
 pb	578	0582	4522732
 pb	579	0583	4522733
@@ -731,7 +823,8 @@ pb	586	0590	4522740
 pb	587	0591	4522741
 pb	588	0592	4522742
 pb	589	0593	4522743
-entry	Eaux-Chaudes (Eaux Minérales des)		
+entry	Eaux-Chaudes (Eaux Minérales des) [A. Rotureau]		
+orth	Eaux-Chaudes (Eaux Minérales des)		
 pb	590	0594	4522744
 pb	591	0595	4522745
 pb	592	0596	4522746
@@ -743,7 +836,8 @@ pb	597	0601	4522751
 pb	598	0602	4522752
 pb	599	0603	4522753
 entry	Eaux-de-vie		
-entry	Eaux-de-vie. Hygiène		
+entry	Eaux-de-vie. Hygiène [Alexandre Layet]		
+orth	Eaux-de-vie. Hygiène		
 pb	600	0604	4522754
 pb	601	0605	4522755
 pb	602	0606	4522756
@@ -763,7 +857,8 @@ pb	615	0619	4522769
 pb	616	0620	4522770
 pb	617	0621	4522771
 pb	618	0622	4522772
-entry	Eaux-de-vie. Thérapeutique		
+entry	Eaux-de-vie. Thérapeutique [Armand de Fleury]		
+orth	Eaux-de-vie. Thérapeutique		
 pb	619	0623	4522773
 pb	620	0624	4522774
 pb	621	0625	4522775
@@ -786,7 +881,8 @@ pb	637	0641	4522791
 pb	638	0642	4522792
 pb	639	0643	4522793
 pb	640	0644	4522794
-entry	Eaux médicinales		
+entry	Eaux médicinales [Amédée Dechambre]		
+orth	Eaux médicinales		
 pb	641	0645	4522795
 pb	642	0646	4522796
 pb	643	0647	4522797
@@ -796,14 +892,16 @@ pb	646	0650	4522800
 pb	647	0651	4522801
 pb	648	0652	4522802
 pb	649	0653	4522803
-entry	Eaux mères		
+entry	Eaux mères [A. Rotureau]		
+orth	Eaux mères		
 pb	650	0654	4522804
 pb	651	0655	4522805
 pb	652	0656	4522806
 pb	653	0657	4522807
 pb	654	0658	4522808
 pb	655	0659	4522809
-entry	Eaux minérales (Législation)		
+entry	Eaux minérales (Législation) [A. Rotureau]		
+orth	Eaux minérales (Législation)		
 pb	656	0660	4522810
 pb	657	0661	4522811
 pb	658	0662	4522812
@@ -820,14 +918,16 @@ pb	668	0672	4522822
 pb	669	0673	4522823
 pb	670	0674	4522824
 pb	671	0675	4522825
-entry	Eaux minérales artificielles		
+entry	Eaux minérales artificielles [A. Rotureau]		
+orth	Eaux minérales artificielles		
 pb	672	0676	4522826
 pb	673	0677	4522827
 pb	674	0678	4522828
 pb	675	0679	4522829
 pb	676	0680	4522830
 pb	677	0681	4522831
-entry	Eaux minérales naturelles		
+entry	Eaux minérales naturelles [A. Rotureau]		
+orth	Eaux minérales naturelles		
 pb	678	0682	4522832
 pb	679	0683	4522833
 pb	680	0684	4522834
@@ -944,17 +1044,21 @@ pb	790	0794	4522944
 pb	791	0795	4522945
 pb	792	0796	4522946
 pb	793	0797	4522947
-entry	Eaux minérales transportées		
+entry	Eaux minérales transportées [A. Rotureau]		
+orth	Eaux minérales transportées		
 pb	794	0798	4522948
 pb	795	0799	4522949
 pb	796	0800	4522950
 pb	797	0801	4522951
 pb	798	0802	4522952
-entry	Ebanos		
-entry	Ebeaupin (Eau minérale d')		
+entry	Ebanos [G. Planchon]		
+orth	Ebanos		
+entry	Ebeaupin (Eau minérale d') [A. Rotureau]		
+orth	Ebeaupin (Eau minérale d')		
 pb	799	0803	4522953
 pb	800	0804	4522954
-entry	Ebel (Botanique)		
+entry	Ebel (Botanique) [G. Planchon]		
+orth	Ebel (Botanique)		
 pb	801	0805	4522955
 entry	Articles contenus dans le trente et unième volume (1re série)		
 pb	802	0806	4522956

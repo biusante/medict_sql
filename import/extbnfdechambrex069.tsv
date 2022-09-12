@@ -1,10 +1,13 @@
 pb	[s. pag.]	0001	4571667
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4571668
 pb	[s. pag.]	0003	4571669
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4571670
 pb	1	0005	4571671
 entry	Oreille		
-entry	Oreille. Anatomie		
+entry	Oreille. Anatomie [C. Coÿne]		
+orth	Oreille. Anatomie		
 pb	2	0006	4571672
 pb	3	0007	4571673
 pb	4	0008	4571674
@@ -118,7 +121,8 @@ pb	111	0115	4571781
 pb	112	0116	4571782
 pb	113	0117	4571783
 pb	114	0118	4571784
-entry	Oreille. Développement et anatomie comparée		
+entry	Oreille. Développement et anatomie comparée [C. Coÿne]		
+orth	Oreille. Développement et anatomie comparée		
 pb	115	0119	4571785
 pb	116	0120	4571786
 pb	117	0121	4571787
@@ -130,7 +134,8 @@ pb	122	0126	4571792
 pb	123	0127	4571793
 pb	124	0128	4571794
 pb	125	0129	4571795
-entry	Oreille. Physiologie		
+entry	Oreille. Physiologie [C. Coÿne]		
+orth	Oreille. Physiologie		
 pb	126	0130	4571796
 pb	127	0131	4571797
 pb	128	0132	4571798
@@ -158,12 +163,14 @@ pb	149	0153	4571819
 pb	150	0154	4571820
 pb	151	0155	4571821
 entry	Pathologie		
-entry	Oreille. Pathologie. Généralités		
+entry	Oreille. Pathologie. Généralités [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Généralités		
 pb	152	0156	4571822
 pb	153	0157	4571823
 pb	154	0158	4571824
 pb	155	0159	4571825
-entry	Oreille. Pathologie. Exploration de l'oreille		
+entry	Oreille. Pathologie. Exploration de l'oreille [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Exploration de l'oreille		
 pb	156	0160	4571826
 pb	157	0161	4571827
 pb	158	0162	4571828
@@ -175,7 +182,8 @@ pb	163	0167	4571833
 pb	164	0168	4571834
 pb	165	0169	4571835
 pb	166	0170	4571836
-entry	Oreille. Pathologie. Pavillon de l'oreille		
+entry	Oreille. Pathologie. Pavillon de l'oreille [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Pavillon de l'oreille		
 pb	167	0171	4571837
 pb	168	0172	4571838
 pb	169	0173	4571839
@@ -187,7 +195,8 @@ pb	174	0178	4571844
 pb	175	0179	4571845
 pb	176	0180	4571846
 pb	177	0181	4571847
-entry	Oreille. Pathologie. Conduit auditif		
+entry	Oreille. Pathologie. Conduit auditif [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Conduit auditif		
 pb	178	0182	4571848
 pb	179	0183	4571849
 pb	180	0184	4571850
@@ -217,7 +226,8 @@ pb	203	0207	4571873
 pb	204	0208	4571874
 pb	205	0209	4571875
 pb	206	0210	4571876
-entry	Oreille. Pathologie. Membrane du tympan		
+entry	Oreille. Pathologie. Membrane du tympan [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Membrane du tympan		
 pb	207	0211	4571877
 pb	208	0212	4571878
 pb	209	0213	4571879
@@ -235,7 +245,8 @@ pb	220	0224	4571890
 pb	221	0225	4571891
 pb	222	0226	4571892
 pb	223	0227	4571893
-entry	Oreille. Pathologie. Inflammations de l'oreille moyenne		
+entry	Oreille. Pathologie. Inflammations de l'oreille moyenne [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Inflammations de l'oreille moyenne		
 pb	224	0228	4571894
 pb	225	0229	4571895
 pb	226	0230	4571896
@@ -263,7 +274,8 @@ pb	247	0251	4571917
 pb	248	0252	4571918
 pb	249	0253	4571919
 pb	250	0254	4571920
-entry	Oreille. Pathologie. Polypes de l'oreille		
+entry	Oreille. Pathologie. Polypes de l'oreille [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Polypes de l'oreille		
 pb	251	0255	4571921
 pb	252	0256	4571922
 pb	253	0257	4571923
@@ -273,24 +285,28 @@ pb	256	0260	4571926
 pb	257	0261	4571927
 pb	258	0262	4571928
 pb	259	0263	4571929
-entry	Oreille. Pathologie. Maladies de la trompe d'Eustache		
+entry	Oreille. Pathologie. Maladies de la trompe d'Eustache [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Maladies de la trompe d'Eustache		
 pb	260	0264	4571930
 pb	261	0265	4571931
 pb	262	0266	4571932
 pb	263	0267	4571933
 pb	264	0268	4571934
-entry	Oreille. Pathologie. Des engorgements et de l'ankylose des articulations des osselets de l'ouïe		
+entry	Oreille. Pathologie. Des engorgements et de l'ankylose des articulations des osselets de l'ouïe [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Des engorgements et de l'ankylose des articulations des osselets de l'ouïe		
 pb	265	0269	4571935
 pb	266	0270	4571936
 pb	267	0271	4571937
 pb	268	0272	4571938
 pb	269	0273	4571939
-entry	Oreille. Pathologie. Apophyse mastoïde		
+entry	Oreille. Pathologie. Apophyse mastoïde [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Apophyse mastoïde		
 pb	270	0274	4571940
 pb	271	0275	4571941
 pb	272	0276	4571942
 pb	273	0277	4571943
-entry	Oreille. Pathologie. Affection du labyrinthe		
+entry	Oreille. Pathologie. Affection du labyrinthe [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Affection du labyrinthe		
 pb	274	0278	4571944
 pb	275	0279	4571945
 pb	276	0280	4571946
@@ -308,19 +324,22 @@ pb	287	0291	4571957
 pb	288	0292	4571958
 pb	289	0293	4571959
 pb	290	0294	4571960
-entry	Oreille. Pathologie. Bourdonnement		
+entry	Oreille. Pathologie. Bourdonnement [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Bourdonnement		
 pb	291	0295	4571961
 pb	292	0296	4571962
 pb	293	0297	4571963
 pb	294	0298	4571964
 pb	295	0299	4571965
-entry	Oreille. Pathologie. Otalgie		
+entry	Oreille. Pathologie. Otalgie [Ladreit de Lacharrière]		
+orth	Oreille. Pathologie. Otalgie		
 pb	296	0300	4571966
 entry	Surdité nerveuse		
 ref	Surdité		
 entry	Fractures et lésions organiques du Rocher		
-ref	Crâne		
-entry	Oreille. Pathologie. Bibliographie		
+ref	Crâne [Ladreit de la Charrière]		
+entry	Oreille. Pathologie. Bibliographie [L. Hahn]		
+orth	Oreille. Pathologie. Bibliographie		
 pb	297	0301	4571967
 pb	298	0302	4571968
 pb	299	0303	4571969
@@ -335,8 +354,10 @@ pb	307	0311	4571977
 pb	308	0312	4571978
 pb	309	0313	4571979
 pb	310	0314	4571980
-entry	Oreille de mer		
-entry	Oreillons		
+entry	Oreille de mer [Ed. Lefèvre]		
+orth	Oreille de mer		
+entry	Oreillons [A. Laveran]		
+orth	Oreillons		
 pb	311	0315	4571981
 pb	312	0316	4571982
 pb	313	0317	4571983
@@ -391,32 +412,44 @@ pb	361	0365	4572031
 pb	362	0366	4572032
 pb	363	0367	4572033
 pb	364	0368	4572034
-entry	O'reilly (Charles)		
-entry	Orelline		
-entry	Orellus (Jean-Pierre)		
-entry	Orense (Eaux minérales d')		
+entry	O'reilly (Charles) [L. Hahn]		
+orth	O'reilly (Charles)		
+entry	Orelline [Amédée Dechambre]		
+orth	Orelline		
+entry	Orellus (Jean-Pierre) [L. Hahn]		
+orth	Orellus (Jean-Pierre)		
+entry	Orense (Eaux minérales d') [A. Rotureau]		
+orth	Orense (Eaux minérales d')		
 pb	365	0369	4572035
 pb	366	0370	4572036
-entry	Oreodoxa		
-entry	Oreomalia		
-entry	Oreoselinum		
+entry	Oreodoxa [G. Planchon]		
+orth	Oreodoxa		
+entry	Oreomalia [G. Planchon]		
+orth	Oreomalia		
+entry	Oreoselinum [G. Planchon]		
+orth	Oreoselinum		
 entry	Oréosélone		
 ref	Orosélone		
-entry	Orestion		
-entry	Orezza (Eaux minérales d')		
+entry	Orestion [G. Planchon]		
+orth	Orestion		
+entry	Orezza (Eaux minérales d') [A. Rotureau]		
+orth	Orezza (Eaux minérales d')		
 pb	367	0371	4572037
 pb	368	0372	4572038
 pb	369	0373	4572039
 pb	370	0374	4572040
-entry	Orfila (Mathéo-José-Bonaventure)		
+entry	Orfila (Mathéo-José-Bonaventure) [A. Chéreau]		
+orth	Orfila (Mathéo-José-Bonaventure)		
 pb	371	0375	4572041
 pb	372	0376	4572042
 pb	373	0377	4572043
 pb	374	0378	4572044
-entry	Orfraie		
+entry	Orfraie [E. Oustalet]		
+orth	Orfraie		
 pb	375	0379	4572045
 pb	376	0380	4572046
-entry	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme		
+entry	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme [Ch. Robin]		
+orth	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme		
 pb	377	0381	4572047
 pb	378	0382	4572048
 pb	379	0383	4572049
@@ -578,113 +611,161 @@ pb	534	0538	4572204
 pb	535	0539	4572205
 entry	Organe de Corti		
 ref	Oreille interne		
-entry	Organe de Jacobson		
-entry	Organe de Rosenmüller		
-ref	Corps de Wolff		
+entry	Organe de Jacobson [Amédée Dechambre]		
+orth	Organe de Jacobson		
+entry	Organe de Rosenmüller..]		
+ref	Corps de Wolff [D		
 pb	536	0540	4572206
-entry	Organes (Changement de volume des)		
+entry	Organes (Changement de volume des) [François-Frank]		
+orth	Organes (Changement de volume des)		
 pb	537	0541	4572207
-entry	Organicisme		
-ref	Organe		
+entry	Organicisme..]		
+ref	Organe [D		
 entry	Organisation		
 ref	Organe		
-entry	Organisation médicale		
+entry	Organisation médicale [Amédée Dechambre]		
+orth	Organisation médicale		
 entry	Organisme		
 ref	Organe		
-entry	Organogénie		
-entry	Organoleptique (Propriété)		
+entry	Organogénie [Amédée Dechambre]		
+orth	Organogénie		
+entry	Organoleptique (Propriété) [Amédée Dechambre]		
+orth	Organoleptique (Propriété)		
 entry	Organologie, Organographie		
 ref	Organe		
-entry	Organo-métalliques (Composés ou radicaux)		
+entry	Organo-métalliques (Composés ou radicaux) [L. Hahn]		
+orth	Organo-métalliques (Composés ou radicaux)		
 pb	538	0542	4572208
 pb	539	0543	4572209
-entry	Orgasme		
+entry	Orgasme [Amédée Dechambre]		
+orth	Orgasme		
 entry	Orge		
-entry	Orge. Botanique		
+entry	Orge. Botanique [G. Planchon]		
+orth	Orge. Botanique		
 pb	540	0544	4572210
-entry	Orge. Bromatologie		
+entry	Orge. Bromatologie [P. Coulier]		
+orth	Orge. Bromatologie		
 pb	541	0545	4572211
-entry	Emploi thérapeutique		
-entry	Orgeat (Sirop d')		
+entry	Emploi thérapeutique [Amédée Dechambre]		
+orth	Emploi thérapeutique		
+entry	Orgeat (Sirop d') [Amédée Dechambre]		
+orth	Orgeat (Sirop d')		
 pb	542	0546	4572212
 entry	Orgelet		
 ref	Paupières		
 entry	Orgueil (Monomanie de l')		
 ref	Monomanie		
 ref	paralysie générale		
-entry	Oriachloe		
-entry	Oribase		
+entry	Oriachloe [G. Planchon]		
+orth	Oriachloe		
+entry	Oribase [L. Leclerc]		
+orth	Oribase		
 pb	543	0547	4572213
 pb	544	0548	4572214
-entry	Oribate		
-entry	Oricia		
+entry	Oribate [A. Laboulbène]		
+orth	Oribate		
+entry	Oricia [G. Planchon]		
+orth	Oricia		
 entry	Orient (Écoles médicales d')		
 ref	Écoles		
 entry	Origan		
-entry	Origan. Botanique		
+entry	Origan. Botanique [G. Planchon]		
+orth	Origan. Botanique		
 pb	545	0549	4572215
 pb	546	0550	4572216
-entry	Origan. Emploi médical		
+entry	Origan. Emploi médical [Fonssagrives]		
+orth	Origan. Emploi médical		
 pb	547	0551	4572217
-entry	Origéron		
-entry	Origny (Eaux minérales d')		
+entry	Origéron [G. Planchon]		
+orth	Origéron		
+entry	Origny (Eaux minérales d') [A. Rotureau]		
+orth	Origny (Eaux minérales d')		
 pb	548	0552	4572218
-entry	Orillette		
-entry	Oriol (Eaux de minérales d')		
+entry	Orillette [G. Planchon]		
+orth	Orillette		
+entry	Oriol (Eaux de minérales d') [A. Rotureau]		
+orth	Oriol (Eaux de minérales d')		
 pb	549	0553	4572219
-entry	Orivai y de Monréal (Juan-Bautista)		
-entry	Orlovius (Andreas-Johann)		
+entry	Orivai y de Monréal (Juan-Bautista) [L. Hahn]		
+orth	Orivai y de Monréal (Juan-Bautista)		
+entry	Orlovius (Andreas-Johann) [L. Hahn]		
+orth	Orlovius (Andreas-Johann)		
 pb	550	0554	4572220
 entry	Orme		
-entry	Orme. Botanique		
+entry	Orme. Botanique [H. Baillon]		
+orth	Orme. Botanique		
 pb	551	0555	4572221
 pb	552	0556	4572222
 pb	553	0557	4572223
-entry	Orme. Pharmacologie		
+entry	Orme. Pharmacologie [Bazile Féris]		
+orth	Orme. Pharmacologie		
 pb	554	0558	4572224
-entry	Orme. Thérapeutique		
+entry	Orme. Thérapeutique [Bazile Féris]		
+orth	Orme. Thérapeutique		
 pb	555	0559	4572225
 pb	556	0560	4572226
 pb	557	0561	4572227
-entry	Ormerod (Les deux)		
+entry	Ormerod (Les deux) [L. Hahn]		
+orth	Ormerod (Les deux)		
 pb	558	0562	4572228
 pb	559	0563	4572229
-entry	Ormier		
-entry	Orne ou Ornier		
-entry	Orne (Joseph)		
-entry	Ornière		
-entry	Ornithodelphes		
-entry	Ornithogale		
+entry	Ormier [Ed. Lefèvre]		
+orth	Ormier		
+entry	Orne ou Ornier [G. Planchon]		
+orth	Orne ou Ornier		
+entry	Orne (Joseph) [L. Hahn]		
+orth	Orne (Joseph)		
+entry	Ornière [G. Planchon]		
+orth	Ornière		
+entry	Ornithodelphes [E. Oustalet]		
+orth	Ornithodelphes		
+entry	Ornithogale [G. Planchon]		
+orth	Ornithogale		
 pb	560	0564	4572230
-entry	Ornithoglossa		
-entry	Ornithomyie		
+entry	Ornithoglossa [G. Planchon]		
+orth	Ornithoglossa		
+entry	Ornithomyie [A. Laboulbène]		
+orth	Ornithomyie		
 pb	561	0565	4572231
-entry	Ornithopus		
-entry	Ornithorhynque		
+entry	Ornithopus [G. Planchon]		
+orth	Ornithopus		
+entry	Ornithorhynque [E. Oustalet]		
+orth	Ornithorhynque		
 pb	562	0566	4572232
 pb	563	0567	4572233
 pb	564	0568	4572234
 pb	565	0569	4572235
 pb	566	0570	4572236
-entry	Ornus		
-entry	Orobanche		
+entry	Ornus [G. Planchon]		
+orth	Ornus		
+entry	Orobanche [G. Planchon]		
+orth	Orobanche		
 pb	567	0571	4572237
 entry	Orobe		
-entry	Botanique		
-entry	Orobe. Emploi médical		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Orobe. Emploi médical [Ernest Labbée]		
+orth	Orobe. Emploi médical		
 pb	568	0572	4572238
-entry	Oronge		
-entry	Oronoz y Soroeta (Jose de)		
-entry	Oropesa (Francisco-Sanchez de)		
+entry	Oronge [Ed. Lefèvre]		
+orth	Oronge		
+entry	Oronoz y Soroeta (Jose de) [L. Hahn]		
+orth	Oronoz y Soroeta (Jose de)		
+entry	Oropesa (Francisco-Sanchez de) [L. Hahn]		
+orth	Oropesa (Francisco-Sanchez de)		
 pb	569	0573	4572239
 entry	Oroséline		
 ref	Orosélone		
-entry	Orosélone		
+entry	Orosélone [L. Hahn]		
+orth	Orosélone		
 pb	570	0574	4572240
 pb	571	0575	4572241
-entry	Orozco (Cristobal)		
-entry	Orpen (Thomas-Herbert)		
-entry	Orphelinat		
+entry	Orozco (Cristobal) [L. Hahn]		
+orth	Orozco (Cristobal)		
+entry	Orpen (Thomas-Herbert) [L. Hahn]		
+orth	Orpen (Thomas-Herbert)		
+entry	Orphelinat [B. Brochin]		
+orth	Orphelinat		
 pb	572	0576	4572242
 pb	573	0577	4572243
 pb	574	0578	4572244
@@ -712,38 +793,53 @@ pb	595	0599	4572265
 pb	596	0600	4572266
 pb	597	0601	4572267
 pb	598	0602	4572268
-entry	Orphie		
-entry	Orpiment		
+entry	Orphie [P. Oustalet] [E. O.]		
+orth	Orphie		
+entry	Orpiment [L. Hahn]		
+orth	Orpiment		
 pb	599	0603	4572269
-entry	Orpin		
+entry	Orpin [H. Baillon]		
+orth	Orpin		
 pb	600	0604	4572270
-entry	Orräus (Gustav)		
+entry	Orräus (Gustav) [L. Hahn]		
+orth	Orräus (Gustav)		
 pb	601	0605	4572271
-entry	Oernstrup (Carl-Christian)		
+entry	Oernstrup (Carl-Christian) [A. Dureau]		
+orth	Oernstrup (Carl-Christian)		
 pb	602	0606	4572272
-entry	Orsato (Jean-Baptiste)		
-entry	Orseille		
-entry	Orseilles		
+entry	Orsato (Jean-Baptiste) [L. Hahn]		
+orth	Orsato (Jean-Baptiste)		
+entry	Orseille [G. Planchon]		
+orth	Orseille		
+entry	Orseilles [G. Planchon]		
+orth	Orseilles		
 pb	603	0607	4572273
 entry	Orsellinique (Acide)		
 ref	Orsellique		
-entry	Orsellique (Acide)		
+entry	Orsellique (Acide) [L. Hahn]		
+orth	Orsellique (Acide)		
 pb	604	0608	4572274
 pb	605	0609	4572275
 pb	606	0610	4572276
 pb	607	0611	4572277
 pb	608	0612	4572278
-entry	Oerslev ou Erslev (Jens-Peder)		
-entry	Oersted (Jean-Chrétien)		
+entry	Oerslev ou Erslev (Jens-Peder) [A. Dureau]		
+orth	Oerslev ou Erslev (Jens-Peder)		
+entry	Oersted (Jean-Chrétien) [L. Hahn]		
+orth	Oersted (Jean-Chrétien)		
 pb	609	0613	4572279
 pb	610	0614	4572280
-entry	Orta ou Huerta (Garcia de)		
+entry	Orta ou Huerta (Garcia de) [L. Hahn]		
+orth	Orta ou Huerta (Garcia de)		
 pb	611	0615	4572281
-entry	Ortalli (Franz)		
-entry	Ortega (Les)		
+entry	Ortalli (Franz) [L. Hahn]		
+orth	Ortalli (Franz)		
+entry	Ortega (Les) [L. Hahn]		
+orth	Ortega (Les)		
 pb	612	0616	4572282
 entry	Orteils		
-entry	Orteils. Anatomie		
+entry	Orteils. Anatomie [V. Paulet]		
+orth	Orteils. Anatomie		
 pb	613	0617	4572283
 pb	614	0618	4572284
 pb	615	0619	4572285
@@ -752,7 +848,8 @@ pb	617	0621	4572287
 pb	618	0622	4572288
 pb	619	0623	4572289
 entry	Pathologie chirurgicale		
-entry	Orteils. Pathologie chirurgicale. Anomalies et difformités		
+entry	Orteils. Pathologie chirurgicale. Anomalies et difformités [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Anomalies et difformités		
 pb	620	0624	4572290
 pb	621	0625	4572291
 pb	622	0626	4572292
@@ -773,14 +870,16 @@ pb	636	0640	4572306
 pb	637	0641	4572307
 pb	638	0642	4572308
 pb	639	0643	4572309
-entry	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision		
+entry	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision		
 pb	640	0644	4572310
 pb	641	0645	4572311
 pb	642	0646	4572312
 pb	643	0647	4572313
 pb	644	0648	4572314
 pb	645	0649	4572315
-entry	Orteils. Pathologie chirurgicale. Lésions traumatiques		
+entry	Orteils. Pathologie chirurgicale. Lésions traumatiques [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Lésions traumatiques		
 pb	646	0650	4572316
 pb	647	0651	4572317
 pb	648	0652	4572318
@@ -789,7 +888,8 @@ pb	650	0654	4572320
 pb	651	0655	4572321
 pb	652	0656	4572322
 pb	653	0657	4572323
-entry	Orteils. Pathologie chirurgicale. Luxations		
+entry	Orteils. Pathologie chirurgicale. Luxations [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Luxations		
 pb	654	0658	4572324
 pb	655	0659	4572325
 pb	656	0660	4572326
@@ -816,11 +916,13 @@ pb	676	0680	4572346
 pb	677	0681	4572347
 pb	678	0682	4572348
 pb	679	0683	4572349
-entry	Orteils. Pathologie chirurgicale. Lésions vitales et organiques		
+entry	Orteils. Pathologie chirurgicale. Lésions vitales et organiques [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Lésions vitales et organiques		
 pb	680	0684	4572350
 pb	681	0685	4572351
 pb	682	0686	4572352
-entry	Orteils. Pathologie chirurgicale. Ainhum		
+entry	Orteils. Pathologie chirurgicale. Ainhum [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Ainhum		
 pb	683	0687	4572353
 pb	684	0688	4572354
 pb	685	0689	4572355
@@ -830,12 +932,14 @@ pb	688	0692	4572358
 pb	689	0693	4572359
 pb	690	0694	4572360
 pb	691	0695	4572361
-entry	Orteils. Pathologie chirurgicale. Tumeurs		
+entry	Orteils. Pathologie chirurgicale. Tumeurs [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Tumeurs		
 pb	692	0696	4572362
 pb	693	0697	4572363
 pb	694	0698	4572364
 pb	695	0699	4572365
-entry	Orteils. Pathologie chirurgicale. Exostose sous-unguéale		
+entry	Orteils. Pathologie chirurgicale. Exostose sous-unguéale [V. Paulet]		
+orth	Orteils. Pathologie chirurgicale. Exostose sous-unguéale		
 pb	696	0700	4572366
 pb	697	0701	4572367
 pb	698	0702	4572368
@@ -847,7 +951,8 @@ pb	703	0707	4572373
 pb	704	0708	4572374
 pb	705	0709	4572375
 pb	706	0710	4572376
-entry	Orteils. Médecine opératoire		
+entry	Orteils. Médecine opératoire [V. Paulet]		
+orth	Orteils. Médecine opératoire		
 pb	707	0711	4572377
 pb	708	0712	4572378
 pb	709	0713	4572379
@@ -858,19 +963,26 @@ pb	713	0717	4572383
 pb	714	0718	4572384
 pb	715	0719	4572385
 pb	716	0720	4572386
-entry	Oertel (Les)		
+entry	Oertel (Les) [L. Hahn]		
+orth	Oertel (Les)		
 pb	717	0721	4572387
-entry	Ortelius (Les)		
-entry	Oertenblad (Gustav-Jacob)		
+entry	Ortelius (Les) [L. Hahn]		
+orth	Ortelius (Les)		
+entry	Oertenblad (Gustav-Jacob) [A. Dureau]		
+orth	Oertenblad (Gustav-Jacob)		
 pb	718	0722	4572388
-entry	Orteschi (Piètre)		
-entry	Orthocéras		
-entry	Orthognathisme		
+entry	Orteschi (Piètre) [A. Dureau]		
+orth	Orteschi (Piètre)		
+entry	Orthocéras [Ed. Lefèvre]		
+orth	Orthocéras		
+entry	Orthognathisme [Ch. Letourneau]		
+orth	Orthognathisme		
 pb	719	0723	4572389
 pb	720	0724	4572390
 pb	721	0725	4572391
 pb	722	0726	4572392
-entry	Orthopédie		
+entry	Orthopédie [L. H. Petit]		
+orth	Orthopédie		
 pb	723	0727	4572393
 pb	724	0728	4572394
 pb	725	0729	4572395
@@ -881,8 +993,10 @@ pb	729	0733	4572399
 pb	730	0734	4572400
 pb	731	0735	4572401
 pb	732	0736	4572402
-entry	Orthopnée		
-entry	Orthoptères		
+entry	Orthopnée [Amédée Dechambre]		
+orth	Orthopnée		
+entry	Orthoptères [A. Laboulbène]		
+orth	Orthoptères		
 pb	733	0737	4572403
 pb	734	0738	4572404
 pb	735	0739	4572405
@@ -896,32 +1010,45 @@ pb	742	0746	4572412
 pb	743	0747	4572413
 pb	744	0748	4572414
 pb	745	0749	4572415
-entry	Orthoscope		
+entry	Orthoscope [Amédée Dechambre]		
+orth	Orthoscope		
 pb	746	0750	4572416
 entry	Ortie		
-entry	Ortie. Botanique		
+entry	Ortie. Botanique [H. Baillon]		
+orth	Ortie. Botanique		
 pb	747	0751	4572417
 pb	748	0752	4572418
 pb	749	0753	4572419
-entry	Ortie. Emploi médical		
+entry	Ortie. Emploi médical [Amédée Dechambre]		
+orth	Ortie. Emploi médical		
 pb	750	0754	4572420
 pb	751	0755	4572421
 pb	752	0756	4572422
-entry	Ortie de mer		
-entry	Ortiz (Les deux)		
+entry	Ortie de mer [Ed. Lefèvre]		
+orth	Ortie de mer		
+entry	Ortiz (Les deux) [L. Hahn]		
+orth	Ortiz (Les deux)		
 pb	753	0757	4572423
-entry	Ortlob (Johann-Friedrich)		
-entry	Ortolan		
+entry	Ortlob (Johann-Friedrich) [L. Hahn]		
+orth	Ortlob (Johann-Friedrich)		
+entry	Ortolan [E. Oustalet]		
+orth	Ortolan		
 pb	754	0758	4572424
-entry	Ortolff (von Bayrlandt)		
-entry	Orton (Les deux)		
+entry	Ortolff (von Bayrlandt) [L. Hahn]		
+orth	Ortolff (von Bayrlandt)		
+entry	Orton (Les deux) [L. Hahn]		
+orth	Orton (Les deux)		
 pb	755	0759	4572425
-entry	Orvale		
-entry	Orvet		
+entry	Orvale [G. Planchon]		
+orth	Orvale		
+entry	Orvet [E. Oustalet]		
+orth	Orvet		
 pb	756	0760	4572426
-entry	Orviétan		
+entry	Orviétan [Amédée Dechambre]		
+orth	Orviétan		
 pb	757	0761	4572427
-entry	Oryctérope		
+entry	Oryctérope [E. Oustalet]		
+orth	Oryctérope		
 pb	758	0762	4572428
 pb	759	0763	4572429
 entry	Oryza		

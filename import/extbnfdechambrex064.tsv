@@ -1,24 +1,32 @@
 pb	[s. pag.]	0001	4567701
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4567702
 pb	[s. pag.]	0003	4567703
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4567704
 pb	1	0005	4567705
-entry	Navarrete (Francisco-Fernandez)		
+entry	Navarrete (Francisco-Fernandez) [L. Hahn]		
+orth	Navarrete (Francisco-Fernandez)		
 pb	2	0006	4567706
 entry	Navet		
-entry	Botanique		
-entry	Emploi		
-entry	Navet du diable		
-ref	Bryone		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
+entry	Navet du diable.. Planchon]		
+ref	Bryone [G		
 entry	Navet galant		
 ref	Bryone		
-entry	Navette		
+entry	Navette [G. Planchon]		
+orth	Navette		
 entry	Naviculaire (Fosse)		
 ref	Urèthre		
 ref	Vagin		
-entry	Navier (Pierre-Toussaint)		
+entry	Navier (Pierre-Toussaint) [A. Dureau]		
+orth	Navier (Pierre-Toussaint)		
 pb	3	0007	4567707
-entry	Navigation		
+entry	Navigation [A. Le Roy de Méricourt]		
+orth	Navigation		
 pb	4	0008	4567708
 pb	5	0009	4567709
 pb	6	0010	4567710
@@ -26,24 +34,33 @@ pb	7	0011	4567711
 pb	8	0012	4567712
 pb	9	0013	4567713
 pb	10	0014	4567714
-entry	Navire		
-entry	Nayadées		
-entry	Neale (Les)		
+entry	Navire [Amédée Dechambre]		
+orth	Navire		
+entry	Nayadées [G. Planchon]		
+orth	Nayadées		
+entry	Neale (Les) [L. Hahn]		
+orth	Neale (Les)		
 pb	11	0015	4567715
-entry	Neander (Les deux)		
+entry	Neander (Les deux) [L. Hahn]		
+orth	Neander (Les deux)		
 pb	12	0016	4567716
 entry	Néarthrose		
 ref	Pseudarthroses		
-entry	Nebel (les)		
-entry	Nébouzat ou Nabouzat (Eaux minérales de)		
+entry	Nebel (les) [A. Dureau]		
+orth	Nebel (les)		
+entry	Nébouzat ou Nabouzat (Eaux minérales de) [A. Rotureau]		
+orth	Nébouzat ou Nabouzat (Eaux minérales de)		
 pb	13	0017	4567717
-entry	Necker (Noël-Joseph)		
-entry	Nécromancie		
+entry	Necker (Noël-Joseph) [A. Chéreau]		
+orth	Necker (Noël-Joseph)		
+entry	Nécromancie [Amédée Dechambre]		
+orth	Nécromancie		
 entry	Nécrophiles		
 ref	Vampirisme		
 entry	Nécrocopsie		
 ref	Autopsie		
-entry	Nécrose		
+entry	Nécrose [Servier]		
+orth	Nécrose		
 pb	14	0018	4567718
 pb	15	0019	4567719
 pb	16	0020	4567720
@@ -72,7 +89,8 @@ pb	38	0042	4567742
 pb	39	0043	4567743
 pb	40	0044	4567744
 pb	41	0045	4567745
-entry	Nectaire (Saint) (Eaux minérales et cures de petit-lait de)		
+entry	Nectaire (Saint) (Eaux minérales et cures de petit-lait de) [A. Rotureau]		
+orth	Nectaire (Saint) (Eaux minérales et cures de petit-lait de)		
 pb	42	0046	4567746
 pb	43	0047	4567747
 pb	44	0048	4567748
@@ -85,24 +103,33 @@ pb	50	0054	4567754
 pb	51	0055	4567755
 pb	52	0056	4567756
 pb	53	0057	4567757
-entry	Nectandra		
+entry	Nectandra [G. Planchon]		
+orth	Nectandra		
 pb	54	0058	4567758
 entry	Nectria		
 ref	Spheriacés		
-entry	Nedel (Friedrich-Wilhelm)		
+entry	Nedel (Friedrich-Wilhelm) [L. Hahn]		
+orth	Nedel (Friedrich-Wilhelm)		
 pb	55	0059	4567759
-entry	Needham (Les)		
+entry	Needham (Les) [L. Hahn]		
+orth	Needham (Les)		
 pb	56	0060	4567760
-entry	Neeradimoottoo		
-entry	Neergaard (Jens-Weibel)		
+entry	Neeradimoottoo [G. Planchon]		
+orth	Neeradimoottoo		
+entry	Neergaard (Jens-Weibel) [L. Hahn]		
+orth	Neergaard (Jens-Weibel)		
 pb	57	0061	4567761
-entry	Nees von Esenbeck (Les deux)		
+entry	Nees von Esenbeck (Les deux) [L. Hahn]		
+orth	Nees von Esenbeck (Les deux)		
 pb	58	0062	4567762
 pb	59	0063	4567763
-entry	Neffiach (Eau minérale de)		
-entry	Néflier		
+entry	Neffiach (Eau minérale de) [A. Rotureau]		
+orth	Neffiach (Eau minérale de)		
+entry	Néflier [H. Baillon]		
+orth	Néflier		
 pb	60	0064	4567764
-entry	Nègres		
+entry	Nègres [V. De Rochas]		
+orth	Nègres		
 pb	61	0065	4567765
 pb	62	0066	4567766
 pb	63	0067	4567767
@@ -120,81 +147,111 @@ pb	74	0078	4567778
 pb	75	0079	4567779
 pb	76	0080	4567780
 pb	77	0081	4567781
-entry	Négrier (Charles)		
+entry	Négrier (Charles) [A. Chéreau]		
+orth	Négrier (Charles)		
 pb	78	0082	4567782
-entry	Négritos		
+entry	Négritos [Amédée Dechambre]		
+orth	Négritos		
 pb	79	0083	4567783
-entry	Negundo		
+entry	Negundo [H. Baillon]		
+orth	Negundo		
 entry	Nehai		
 ref	Angioptères		
-entry	Neifeld (Ernst-Jeremias)		
-entry	Neige		
+entry	Neifeld (Ernst-Jeremias) [L. Hahn]		
+orth	Neifeld (Ernst-Jeremias)		
+entry	Neige [Ch. Martins]		
+orth	Neige		
 pb	80	0084	4567784
 pb	81	0085	4567785
 pb	82	0086	4567786
 pb	83	0087	4567787
-entry	Neill (Les)		
+entry	Neill (Les) [L. Hahn]		
+orth	Neill (Les)		
 pb	84	0088	4567788
-entry	Nela Naregam		
-entry	Nélaton (Auguste)		
+entry	Nela Naregam [G. Planchon]		
+orth	Nela Naregam		
+entry	Nélaton (Auguste) [A. Chéreau]		
+orth	Nélaton (Auguste)		
 pb	85	0089	4567789
 pb	86	0090	4567790
-entry	Neligan (John-Moore)		
+entry	Neligan (John-Moore) [E. Beaugrand]		
+orth	Neligan (John-Moore)		
 entry	Nelumbium		
 ref	Nelumbo		
-entry	Nelumbo		
+entry	Nelumbo [H. Baillon]		
+orth	Nelumbo		
 pb	87	0091	4567791
 entry	Nématés		
 ref	Champignon		
 pb	88	0092	4567792
-entry	Nématoïdes		
+entry	Nématoïdes [Paul Gervais]		
+orth	Nématoïdes		
 pb	89	0093	4567793
 pb	90	0094	4567794
-entry	Némerte		
-entry	Nemesius		
+entry	Némerte [Paul Gervais]		
+orth	Némerte		
+entry	Nemesius [E. Beaugrand]		
+orth	Nemesius		
 pb	91	0095	4567795
-entry	Némocères		
+entry	Némocères [A. Laboulbène]		
+orth	Némocères		
 pb	92	0096	4567796
-entry	Nenndorf (Eaux minérales, boues et cure de petit lait)		
+entry	Nenndorf (Eaux minérales, boues et cure de petit lait) [A. Rotureau]		
+orth	Nenndorf (Eaux minérales, boues et cure de petit lait)		
 pb	93	0097	4567797
 pb	94	0098	4567798
-entry	Nenter (George-Philippe)		
+entry	Nenter (George-Philippe) [A. Dureau]		
+orth	Nenter (George-Philippe)		
 entry	Nénuphar		
-entry	Nénuphar. Botanique		
+entry	Nénuphar. Botanique [H. Baillon]		
+orth	Nénuphar. Botanique		
 pb	95	0099	4567799
 pb	96	0100	4567800
-entry	Nénuphar. Emploi médical		
+entry	Nénuphar. Emploi médical [Ernest Labbée]		
+orth	Nénuphar. Emploi médical		
 pb	97	0101	4567801
 pb	98	0102	4567802
 pb	99	0103	4567803
 pb	100	0104	4567804
-entry	Néomembrane		
+entry	Néomembrane [Ch. Robin]		
+orth	Néomembrane		
 pb	101	0105	4567805
-entry	Néoplasie		
+entry	Néoplasie [Ch. Robin]		
+orth	Néoplasie		
 entry	Népaul		
 ref	Hindoustan		
-entry	Nèpe		
+entry	Nèpe [A. Laboulbène]		
+orth	Nèpe		
 pb	102	0106	4567806
 entry	Népenthès		
-entry	Népenthès. Considérations historiques		
+entry	Népenthès. Considérations historiques [L. Hahn]		
+orth	Népenthès. Considérations historiques		
 pb	103	0107	4567807
-entry	Népenthès. Botanique		
+entry	Népenthès. Botanique [H. Baillon]		
+orth	Népenthès. Botanique		
 pb	104	0108	4567808
-entry	Nepeta		
-entry	Nephelion		
-entry	Néphélion.		
-entry	Néphélis		
+entry	Nepeta [G. Planchon]		
+orth	Nepeta		
+entry	Nephelion [H. Baillon]		
+orth	Nephelion		
+entry	Néphélion. [Amédée Dechambre]		
+orth	Néphélion.		
+entry	Néphélis [Paul Gervais]		
+orth	Néphélis		
 pb	105	0109	4567809
-entry	Nephelium		
+entry	Nephelium [H. Baillon]		
+orth	Nephelium		
 entry	Néphogène		
 ref	Pulvérisation		
 entry	Néphrétique (Colique)		
 ref	Colique		
 ref	Reins		
-entry	Néphrite		
+entry	Néphrite [Amédée Dechambre]		
+orth	Néphrite		
 entry	Nephrodium		
 ref	Fougère mâle		
-entry	Néphrotomie		
+entry	Néphrotomie [Servier]		
+orth	Néphrotomie		
 pb	106	0110	4567810
 pb	107	0111	4567811
 pb	108	0112	4567812
@@ -215,12 +272,16 @@ pb	122	0126	4567826
 pb	123	0127	4567827
 entry	Nepissings (Les)		
 ref	Canada		
-entry	Nepple (P.-Frédéric)		
+entry	Nepple (P.-Frédéric) [E. Beaugrand]		
+orth	Nepple (P.-Frédéric)		
 pb	124	0128	4567828
-entry	Neptunia		
-entry	Néréides		
+entry	Neptunia [H. Baillon]		
+orth	Neptunia		
+entry	Néréides [Paul Gervais]		
+orth	Néréides		
 entry	Nerfs		
-entry	Nerfs. Anatomie générale		
+entry	Nerfs. Anatomie générale [J. Renaut]		
+orth	Nerfs. Anatomie générale		
 pb	125	0129	4567829
 pb	126	0130	4567830
 pb	127	0131	4567831
@@ -276,7 +337,8 @@ pb	176	0180	4567880
 pb	177	0181	4567881
 pb	178	0182	4567882
 pb	179	0183	4567883
-entry	Nerfs. Physiologie générale		
+entry	Nerfs. Physiologie générale [François-Franck]		
+orth	Nerfs. Physiologie générale		
 pb	180	0184	4567884
 pb	181	0185	4567885
 pb	182	0186	4567886
@@ -321,7 +383,8 @@ pb	220	0224	4567924
 pb	221	0225	4567925
 pb	222	0226	4567926
 pb	223	0227	4567927
-entry	Nerfs. Pathologie médicale		
+entry	Nerfs. Pathologie médicale [L. Lereboullet]		
+orth	Nerfs. Pathologie médicale		
 pb	224	0228	4567928
 pb	225	0229	4567929
 pb	226	0230	4567930
@@ -340,7 +403,8 @@ pb	238	0242	4567942
 pb	239	0243	4567943
 pb	240	0244	4567944
 pb	241	0245	4567945
-entry	Nerfs. Pathologie chirurgicale		
+entry	Nerfs. Pathologie chirurgicale [Léon Tripier]		
+orth	Nerfs. Pathologie chirurgicale		
 pb	242	0246	4567946
 pb	243	0247	4567947
 pb	244	0248	4567948
@@ -413,11 +477,15 @@ pb	310	0314	4568014
 pb	311	0315	4568015
 pb	312	0316	4568016
 pb	313	0317	4568017
-entry	Nerfs de Bock, etc		
-entry	Neri-Visham		
-entry	Nerion		
+entry	Nerfs de Bock, etc [Amédée Dechambre]		
+orth	Nerfs de Bock, etc		
+entry	Neri-Visham [G. Planchon]		
+orth	Neri-Visham		
+entry	Nerion [G. Planchon]		
+orth	Nerion		
 pb	314	0318	4568018
-entry	Néris (Eaux minérales de)		
+entry	Néris (Eaux minérales de) [A. Rotureau]		
+orth	Néris (Eaux minérales de)		
 pb	315	0319	4568019
 pb	316	0320	4568020
 pb	317	0321	4568021
@@ -431,21 +499,26 @@ pb	324	0328	4568028
 pb	325	0329	4568029
 pb	326	0330	4568030
 pb	327	0331	4568031
-entry	Nerium		
+entry	Nerium [G. Planchon]		
+orth	Nerium		
 pb	328	0332	4568032
-entry	Nerium des Alpes		
-ref	Rosage		
-entry	Néroli		
+entry	Nerium des Alpes.. Planchon]		
+ref	Rosage [G		
+entry	Néroli [Amédée Dechambre]		
+orth	Néroli		
 entry	Nerprun		
-entry	Nerprun. Botanique		
+entry	Nerprun. Botanique [G. Planchon]		
+orth	Nerprun. Botanique		
 pb	329	0333	4568033
 pb	330	0334	4568034
-entry	Nerprun. Emploi médical		
+entry	Nerprun. Emploi médical [J. Delioux de Savignac]		
+orth	Nerprun. Emploi médical		
 pb	331	0335	4568035
 pb	332	0336	4568036
 entry	Nerval (Baume)		
 ref	Baume		
-entry	Nerveuses (Maladies et affections ; Névropathie)		
+entry	Nerveuses (Maladies et affections ; Névropathie) [B. Brochin]		
+orth	Nerveuses (Maladies et affections ; Névropathie)		
 pb	333	0337	4568037
 pb	334	0338	4568038
 pb	335	0339	4568039
@@ -506,7 +579,8 @@ pb	389	0393	4568093
 pb	390	0394	4568094
 pb	391	0395	4568095
 entry	Nerveux (Système)		
-entry	Nerveux (Système). Anatomie générale		
+entry	Nerveux (Système). Anatomie générale [J. Renaud]		
+orth	Nerveux (Système). Anatomie générale		
 pb	392	0396	4568096
 pb	393	0397	4568097
 pb	394	0398	4568098
@@ -611,7 +685,8 @@ pb	492	0496	4568196
 pb	493	0497	4568197
 pb	494	0498	4568198
 pb	495	0499	4568199
-entry	Nerveux (Système). Anatomie et physiologie du système nerveux envisagé dans la série animale		
+entry	Nerveux (Système). Anatomie et physiologie du système nerveux envisagé dans la série animale [G. Carlet]		
+orth	Nerveux (Système). Anatomie et physiologie du système nerveux envisagé dans la série animale		
 pb	496	0500	4568200
 pb	497	0501	4568201
 pb	498	0502	4568202
@@ -637,7 +712,8 @@ pb	517	0521	4568221
 pb	518	0522	4568222
 pb	519	0523	4568223
 pb	520	0524	4568224
-entry	Nerveux (Système). Physiologie		
+entry	Nerveux (Système). Physiologie [François-Franck]		
+orth	Nerveux (Système). Physiologie		
 pb	521	0525	4568225
 pb	522	0526	4568226
 pb	523	0527	4568227
@@ -746,53 +822,77 @@ pb	625	0629	4568329
 pb	626	0630	4568330
 pb	627	0631	4568331
 pb	628	0632	4568332
-entry	Nervins		
+entry	Nervins [Amédée Dechambre]		
+orth	Nervins		
 entry	Nervosisme		
 ref	Médecine (Histoire de la)		
 ref	Névropathie		
-ref	Nerveuses (maladies)		
+ref	Nerveuses (maladies) [Amédée Dechambre]		
 entry	Nesoea		
 ref	Salicaire		
-entry	Nessel (Les)		
+entry	Nessel (Les) [L. Hahn]		
+orth	Nessel (Les)		
 pb	629	0633	4568333
-entry	Nessi (Joseph)		
-entry	Nestler (Christian-Godefroid)		
+entry	Nessi (Joseph) [A. Dureau]		
+orth	Nessi (Joseph)		
+entry	Nestler (Christian-Godefroid) [L. Hahn]		
+orth	Nestler (Christian-Godefroid)		
 pb	630	0634	4568334
-entry	Neubauer (Jean-Ernest)		
-entry	Neubeck (Valerius-Wilhelm)		
+entry	Neubauer (Jean-Ernest) [A. Dureau]		
+orth	Neubauer (Jean-Ernest)		
+entry	Neubeck (Valerius-Wilhelm) [L. Hahn]		
+orth	Neubeck (Valerius-Wilhelm)		
 pb	631	0635	4568335
-entry	Neuber (Les)		
+entry	Neuber (Les) [L. Hahn]		
+orth	Neuber (Les)		
 pb	632	0636	4568336
-entry	Neuburg (Les)		
+entry	Neuburg (Les) [L. Hahn]		
+orth	Neuburg (Les)		
 pb	633	0637	4568337
-entry	Neucrantz (Les)		
-entry	Neuenahr (Eaux minérales de)		
+entry	Neucrantz (Les) [L. Hahn]		
+orth	Neucrantz (Les)		
+entry	Neuenahr (Eaux minérales de) [A. Rotureau]		
+orth	Neuenahr (Eaux minérales de)		
 pb	634	0638	4568338
 pb	635	0639	4568339
 pb	636	0640	4568340
-entry	Neuenheim (Eaux minérales de)		
-entry	Neufville (Les)		
+entry	Neuenheim (Eaux minérales de) [A. Rotureau]		
+orth	Neuenheim (Eaux minérales de)		
+entry	Neufville (Les) [L. Hahn]		
+orth	Neufville (Les)		
 pb	637	0641	4568341
-entry	Neuhaus (Eaux minérales de)		
-entry	Neuhaus (Eaux minérales et cure de petit-lait de)		
+entry	Neuhaus (Eaux minérales de) [A. Rotureau]		
+orth	Neuhaus (Eaux minérales de)		
+entry	Neuhaus (Eaux minérales et cure de petit-lait de) [A. Rotureau]		
+orth	Neuhaus (Eaux minérales et cure de petit-lait de)		
 pb	638	0642	4568342
-entry	Neumann (Les)		
+entry	Neumann (Les) [L. Hahn]		
+orth	Neumann (Les)		
 pb	639	0643	4568343
 pb	640	0644	4568344
-entry	Neunzig (Joseph)		
-entry	Neurine, Névrine ou Choline		
+entry	Neunzig (Joseph) [L. Hahn]		
+orth	Neunzig (Joseph)		
+entry	Neurine, Névrine ou Choline [Amédée Dechambre]		
+orth	Neurine, Névrine ou Choline		
 pb	641	0645	4568345
-entry	Neurohr (Johann-Anton)		
+entry	Neurohr (Johann-Anton) [L. Hahn]		
+orth	Neurohr (Johann-Anton)		
 pb	642	0646	4568346
-entry	Neuville-lez-La-Charité (Eaux minérales de)		
+entry	Neuville-lez-La-Charité (Eaux minérales de) [A. Rotureau]		
+orth	Neuville-lez-La-Charité (Eaux minérales de)		
 pb	643	0647	4568347
-entry	Neuville-sur-Saône (Eaux minérales de)		
-entry	Nevermann (Johann-Friedrich-Wilhelm)		
+entry	Neuville-sur-Saône (Eaux minérales de) [A. Rotureau]		
+orth	Neuville-sur-Saône (Eaux minérales de)		
+entry	Nevermann (Johann-Friedrich-Wilhelm) [L. Hahn]		
+orth	Nevermann (Johann-Friedrich-Wilhelm)		
 pb	644	0648	4568348
-entry	Nevianus (Marc)		
-entry	Névragmie		
+entry	Nevianus (Marc) [L. Hahn]		
+orth	Nevianus (Marc)		
+entry	Névragmie [Amédée Dechambre]		
+orth	Névragmie		
 pb	645	0649	4568349
-entry	Névralgies		
+entry	Névralgies [L. Lereboullet]		
+orth	Névralgies		
 pb	646	0650	4568350
 pb	647	0651	4568351
 pb	648	0652	4568352
@@ -852,8 +952,10 @@ entry	Névrine
 ref	Neurine		
 entry	Névrite		
 ref	Nerfs		
-entry	Névrolique (acide)		
-entry	Névrome		
+entry	Névrolique (acide) [Amédée Dechambre]		
+orth	Névrolique (acide)		
+entry	Névrome [Léon Tripier]		
+orth	Névrome		
 pb	699	0703	4568403
 pb	700	0704	4568404
 pb	701	0705	4568405
@@ -882,10 +984,14 @@ pb	723	0727	4568427
 pb	724	0728	4568428
 pb	725	0729	4568429
 pb	726	0730	4568430
+entry	Névrome [Léon Tripier, L. Hahn]		
+orth	Névrome		
 pb	727	0731	4568431
 pb	728	0732	4568432
-entry	Névropathie		
-entry	Névroptères		
+entry	Névropathie [Amédée Dechambre]		
+orth	Névropathie		
+entry	Névroptères [A. Laboulbène]		
+orth	Névroptères		
 pb	729	0733	4568433
 pb	730	0734	4568434
 pb	731	0735	4568435
@@ -896,7 +1002,8 @@ pb	735	0739	4568439
 pb	736	0740	4568440
 pb	737	0741	4568441
 pb	738	0742	4568442
-entry	Névroses		
+entry	Névroses [B. Brochin]		
+orth	Névroses		
 pb	739	0743	4568443
 pb	740	0744	4568444
 pb	741	0745	4568445
@@ -921,7 +1028,8 @@ pb	759	0763	4568463
 entry	Névrosisme		
 ref	Névropathie		
 ref	Nerveuses (Maladies)		
-entry	Névrosthéniques		
+entry	Névrosthéniques [A. Bordier]		
+orth	Névrosthéniques		
 pb	760	0764	4568464
 pb	761	0765	4568465
 pb	762	0766	4568466
@@ -931,7 +1039,8 @@ pb	765	0769	4568469
 pb	766	0770	4568470
 pb	767	0771	4568471
 pb	768	0772	4568472
-entry	Névrotomie		
+entry	Névrotomie [Léon Tripier]		
+orth	Névrotomie		
 pb	769	0773	4568473
 pb	770	0774	4568474
 pb	771	0775	4568475
@@ -950,16 +1059,22 @@ pb	783	0787	4568487
 pb	784	0788	4568488
 pb	785	0789	4568489
 pb	786	0790	4568490
+entry	Névrotomie [Léon Tripier, L. Hahn]		
+orth	Névrotomie		
 pb	787	0791	4568491
 pb	788	0792	4568492
 pb	789	0793	4568493
 pb	790	0794	4568494
-entry	Newbigging (Les)		
+entry	Newbigging (Les) [L. Hahn]		
+orth	Newbigging (Les)		
 pb	791	0795	4568495
-entry	Newnham (William)		
+entry	Newnham (William) [L. Hahn]		
+orth	Newnham (William)		
 pb	792	0796	4568496
-entry	Neygenfind (Friedrich-Wilhelm)		
-entry	Neyrac (Eaux minérales de)		
+entry	Neygenfind (Friedrich-Wilhelm) [L. Hahn]		
+orth	Neygenfind (Friedrich-Wilhelm)		
+entry	Neyrac (Eaux minérales de) [A. Rotureau]		
+orth	Neyrac (Eaux minérales de)		
 pb	793	0797	4568497
 pb	794	0798	4568498
 pb	795	0799	4568499

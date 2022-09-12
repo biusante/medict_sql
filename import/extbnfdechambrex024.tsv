@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4516820
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4516821
 pb	[s. pag.]	0003	4516822
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4516823
 pb	1	0005	4516824
-entry	Crustacés		
+entry	Crustacés [Ed. Lefèvre]		
+orth	Crustacés		
 pb	2	0006	4516825
 pb	3	0007	4516826
 pb	4	0008	4516827
@@ -13,19 +16,28 @@ pb	7	0011	4516830
 pb	8	0012	4516831
 pb	9	0013	4516832
 pb	10	0014	4516833
-entry	Cruveilhier (Jean)		
+entry	Cruveilhier (Jean) [A. Chéreau]		
+orth	Cruveilhier (Jean)		
 pb	11	0015	4516834
 pb	12	0016	4516835
 pb	13	0017	4516836
-entry	Cryptidine		
-entry	Cryptocéphale		
-entry	Cryptococcus		
-entry	Cryptogames		
+entry	Cryptidine [Amédée Dechambre]		
+orth	Cryptidine		
+entry	Cryptocéphale [O. Larcher]		
+orth	Cryptocéphale		
+entry	Cryptococcus [J. De Seynes]		
+orth	Cryptococcus		
+entry	Cryptogames [J. De Seynes]		
+orth	Cryptogames		
 pb	14	0018	4516837
-entry	Cryptophanique (Acide)		
-entry	Cryptopine		
-entry	Cryptopode		
-entry	Cryptorchide		
+entry	Cryptophanique (Acide) [Amédée Dechambre]		
+orth	Cryptophanique (Acide)		
+entry	Cryptopine [Amédée Dechambre]		
+orth	Cryptopine		
+entry	Cryptopode [E. Oustalet]		
+orth	Cryptopode		
+entry	Cryptorchide [U. Trélat, J.-J. Peyrot]		
+orth	Cryptorchide		
 pb	15	0019	4516838
 pb	16	0020	4516839
 pb	17	0021	4516840
@@ -62,22 +74,29 @@ pb	47	0051	4516870
 pb	48	0052	4516871
 pb	49	0053	4516872
 pb	50	0054	4516873
-entry	Crystalline ou Cristalline		
-entry	Csuzi-Cseh (Jean)		
+entry	Crystalline ou Cristalline [Amédée Dechambre]		
+orth	Crystalline ou Cristalline		
+entry	Csuzi-Cseh (Jean) [L. Hahn]		
+orth	Csuzi-Cseh (Jean)		
 pb	51	0055	4516874
 entry	Ctène		
 ref	Araignée		
-entry	Cténocères		
+entry	Cténocères [Ed. Lefèvre]		
+orth	Cténocères		
 pb	52	0056	4516875
 pb	53	0057	4516876
-entry	Cténophores		
+entry	Cténophores [Ed. Lefèvre]		
+orth	Cténophores		
 pb	54	0058	4516877
 pb	55	0059	4516878
 pb	56	0060	4516879
-entry	Ctésias		
-entry	Cuba (Johann)		
+entry	Ctésias [E. Beaugrand]		
+orth	Ctésias		
+entry	Cuba (Johann) [L. Hahn]		
+orth	Cuba (Johann)		
 pb	57	0061	4516880
-entry	Cuba		
+entry	Cuba [Féris,		
+ref	de Rochas]		
 pb	58	0062	4516881
 pb	59	0063	4516882
 pb	60	0064	4516883
@@ -103,10 +122,12 @@ pb	79	0083	4516902
 pb	80	0084	4516903
 pb	81	0085	4516904
 entry	Cubèbe		
-entry	Cubèbe. Botanique		
+entry	Cubèbe. Botanique [H. Baillon]		
+orth	Cubèbe. Botanique		
 pb	82	0086	4516905
 pb	83	0087	4516906
-entry	Cubèbe. Emploi médical		
+entry	Cubèbe. Emploi médical [Fonssagrives]		
+orth	Cubèbe. Emploi médical		
 pb	84	0088	4516907
 pb	85	0089	4516908
 pb	86	0090	4516909
@@ -119,19 +140,25 @@ pb	92	0096	4516915
 pb	93	0097	4516916
 entry	Cubébine		
 ref	Cubèbe		
-entry	Cubilose		
-entry	Cubital (Antérieur) (Muscle)		
+entry	Cubilose [Amédée Dechambre]		
+orth	Cubilose		
+entry	Cubital (Antérieur) (Muscle) [Albert Hénocque]		
+orth	Cubital (Antérieur) (Muscle)		
 pb	94	0098	4516917
 pb	95	0099	4516918
-entry	Cubital (Postérieur) (Muscle)		
+entry	Cubital (Postérieur) (Muscle) [Albert Hénocque]		
+orth	Cubital (Postérieur) (Muscle)		
 pb	96	0100	4516919
 entry	Cubital (Nerf)		
-entry	Cubital (Nerf). Anatomie		
+entry	Cubital (Nerf). Anatomie [D. Charvot]		
+orth	Cubital (Nerf). Anatomie		
 pb	97	0101	4516920
 pb	98	0102	4516921
 pb	99	0103	4516922
-entry	Physiologie		
-entry	Cubital (Nerf). Pathologie chirurgicale		
+entry	Physiologie [D. Charvot]		
+orth	Physiologie		
+entry	Cubital (Nerf). Pathologie chirurgicale [D. Charvot]		
+orth	Cubital (Nerf). Pathologie chirurgicale		
 pb	100	0104	4516923
 pb	101	0105	4516924
 pb	102	0106	4516925
@@ -165,8 +192,11 @@ pb	129	0133	4516952
 pb	130	0134	4516953
 pb	131	0135	4516954
 entry	Cubitale (Artère)		
-entry	Cubitale (Artère). Anatomie		
+entry	Anatomie [Gillette]		
+orth	Anatomie		
 pb	132	0136	4516955
+entry	Cubitale (Artère). Anatomie [G. Gillette]		
+orth	Cubitale (Artère). Anatomie		
 pb	133	0137	4516956
 pb	134	0138	4516957
 pb	135	0139	4516958
@@ -176,8 +206,12 @@ pb	138	0142	4516961
 pb	139	0143	4516962
 pb	140	0144	4516963
 pb	141	0145	4516964
-entry	Physiologie		
-entry	Cubitale (Artère). Pathologie chirurgicale		
+entry	Cubitale (Artère). Anatomie [Gillette]		
+orth	Cubitale (Artère). Anatomie		
+entry	Physiologie [Gillette]		
+orth	Physiologie		
+entry	Cubitale (Artère). Pathologie chirurgicale [A. Heydenreich]		
+orth	Cubitale (Artère). Pathologie chirurgicale		
 pb	142	0146	4516965
 pb	143	0147	4516966
 pb	144	0148	4516967
@@ -199,11 +233,14 @@ pb	159	0163	4516982
 pb	160	0164	4516983
 pb	161	0165	4516984
 entry	Cubitales (Veines)		
-entry	Cubitales (Veines). Anatomie et physiologie		
+entry	Cubitales (Veines). Anatomie et physiologie [A. Heydenrich]		
+orth	Cubitales (Veines). Anatomie et physiologie		
 pb	162	0166	4516985
-entry	Pathologie		
+entry	Pathologie [A. Heydenrich]		
+orth	Pathologie		
 entry	Cubitus		
-entry	Cubitus. Anatomie		
+entry	Cubitus. Anatomie [Polaillon]		
+orth	Cubitus. Anatomie		
 pb	163	0167	4516986
 pb	164	0168	4516987
 pb	165	0169	4516988
@@ -213,13 +250,16 @@ ref	les articles Coude
 ref	Poignet		
 ref	Membres		
 ref	Radio-cubitales (Articulations)		
-entry	Vices de conformation		
-entry	Cubitus. Pathologie		
+entry	Vices de conformation [Polaillon]		
+orth	Vices de conformation		
+entry	Cubitus. Pathologie [Polaillon]		
+orth	Cubitus. Pathologie		
 pb	166	0170	4516989
 pb	167	0171	4516990
 pb	168	0172	4516991
 pb	169	0173	4516992
-entry	Cubitus. Médecine opératoire		
+entry	Cubitus. Médecine opératoire [Polaillon]		
+orth	Cubitus. Médecine opératoire		
 pb	170	0174	4516993
 pb	171	0175	4516994
 pb	172	0176	4516995
@@ -229,34 +269,49 @@ pb	175	0179	4516998
 pb	176	0180	4516999
 pb	177	0181	4517000
 pb	178	0182	4517001
-entry	Cucubalus		
+entry	Cucubalus [G. Planchon]		
+orth	Cucubalus		
 pb	179	0183	4517002
-entry	Cucullata		
+entry	Cucullata [G. Planchon]		
+orth	Cucullata		
 entry	Cucullan		
 ref	Sclérostomiens		
-entry	Cuculus		
-entry	Cucumis		
-entry	Cucuphe		
+entry	Cuculus [G. Planchon]		
+orth	Cuculus		
+entry	Cucumis [G. Planchon]		
+orth	Cucumis		
+entry	Cucuphe [Amédée Dechambre]		
+orth	Cucuphe		
 entry	Cucurbita		
 ref	Citrouille		
-entry	Cucurbitacées		
+entry	Cucurbitacées [G. Planchon]		
+orth	Cucurbitacées		
 pb	180	0184	4517003
 entry	Cucurbite		
 ref	Alambic		
-entry	Cudowa (Eaux minérales de)		
+entry	Cudowa (Eaux minérales de) [A. Rotureau]		
+orth	Cudowa (Eaux minérales de)		
 pb	181	0185	4517004
-entry	Cuellar (Francisco)		
-entry	Cuhuraquam		
+entry	Cuellar (Francisco) [L. Hahn]		
+orth	Cuellar (Francisco)		
+entry	Cuhuraquam [G. Planchon]		
+orth	Cuhuraquam		
 pb	182	0186	4517005
-entry	Cuiller médicinale		
-entry	Cuipouna		
-entry	Cuir chevelu		
+entry	Cuiller médicinale [Amédée Dechambre]		
+orth	Cuiller médicinale		
+entry	Cuipouna [G. Planchon]		
+orth	Cuipouna		
+entry	Cuir chevelu [Amédée Dechambre]		
+orth	Cuir chevelu		
 pb	183	0187	4517006
-entry	Cuisiniers (Hygiène industrielle)		
+entry	Cuisiniers (Hygiène industrielle) [E. Beaugrand]		
+orth	Cuisiniers (Hygiène industrielle)		
 pb	184	0188	4517007
-entry	Cuissart		
+entry	Cuissart [Amédée Dechambre]		
+orth	Cuissart		
 entry	Cuisse		
-entry	Cuisse. Anatomie		
+entry	Cuisse. Anatomie [E. Spillmann]		
+orth	Cuisse. Anatomie		
 pb	185	0189	4517008
 pb	186	0190	4517009
 pb	187	0191	4517010
@@ -269,10 +324,12 @@ pb	193	0197	4517016
 pb	194	0198	4517017
 pb	195	0199	4517018
 entry	Pathologie		
-entry	Vices de conformation		
+entry	Vices de conformation [E. Spillmann]		
+orth	Vices de conformation		
 pb	196	0200	4517019
 entry	Cuisse. Pathologie		
-entry	Cuisse. Pathologie. Lésions traumatiques		
+entry	Cuisse. Pathologie. Lésions traumatiques [E. Spillmann]		
+orth	Cuisse. Pathologie. Lésions traumatiques		
 pb	197	0201	4517020
 pb	198	0202	4517021
 pb	199	0203	4517022
@@ -351,39 +408,52 @@ pb	271	0275	4517094
 pb	272	0276	4517095
 entry	Luxations		
 ref	Hanche		
-entry	Cuisse. Pathologie. Inflammations de la cuisse		
+entry	Cuisse. Pathologie. Inflammations de la cuisse [E. Spillmann]		
+orth	Cuisse. Pathologie. Inflammations de la cuisse		
 pb	273	0277	4517096
 pb	274	0278	4517097
-entry	Cuisse		
-entry	Pathologie		
-entry	Cuisse. Pathologie. Tumeurs		
+entry	Cuisse [E. Spillmann]		
+orth	Cuisse		
+entry	Pathologie [E. Spillmann]		
+orth	Pathologie		
+entry	Cuisse. Pathologie. Tumeurs [E. Spillmann]		
+orth	Cuisse. Pathologie. Tumeurs		
 pb	275	0279	4517098
 pb	276	0280	4517099
 pb	277	0281	4517100
-entry	Médecine opératoire		
-entry	Cuisse. Médecine opératoire. Amputations		
+entry	Médecine opératoire [E. Spillmann]		
+orth	Médecine opératoire		
+entry	Cuisse. Médecine opératoire. Amputations [E. Spillmann]		
+orth	Cuisse. Médecine opératoire. Amputations		
 pb	278	0282	4517101
 pb	279	0283	4517102
 pb	280	0284	4517103
 pb	281	0285	4517104
 pb	282	0286	4517105
 pb	283	0287	4517106
-entry	Cuisse. Médecine opératoire. Évidement		
+entry	Cuisse. Médecine opératoire [E. Spillmann]. Amputations [E. Spillmann]		
+orth	Cuisse. Médecine opératoire. Amputations		
+entry	Cuisse. Médecine opératoire. Évidement [E. Spillmann]		
+orth	Cuisse. Médecine opératoire. Évidement		
 pb	284	0288	4517107
 pb	285	0289	4517108
 pb	286	0290	4517109
 pb	287	0291	4517110
-entry	Cuisse. Médecine opératoire. Résections		
+entry	Cuisse. Médecine opératoire. Résections [L. Gustave Richelot]		
+orth	Cuisse. Médecine opératoire. Résections		
 pb	288	0292	4517111
 pb	289	0293	4517112
 pb	290	0294	4517113
 pb	291	0295	4517114
 pb	292	0296	4517115
 pb	293	0297	4517116
-entry	Prothèse		
-entry	Cuisson		
+entry	Prothèse [Amédée Dechambre]		
+orth	Prothèse		
+entry	Cuisson [Amédée Dechambre]		
+orth	Cuisson		
 entry	Cuivre		
-entry	Cuivre. Chimie		
+entry	Cuivre. Chimie [C. Lutz]		
+orth	Cuivre. Chimie		
 pb	294	0298	4517117
 pb	295	0299	4517118
 pb	296	0300	4517119
@@ -398,12 +468,14 @@ pb	304	0308	4517127
 pb	305	0309	4517128
 pb	306	0310	4517129
 pb	307	0311	4517130
-entry	Cuivre. Pharmacologie		
+entry	Cuivre. Pharmacologie [E. Burcker]		
+orth	Cuivre. Pharmacologie		
 pb	308	0312	4517131
 pb	309	0313	4517132
 pb	310	0314	4517133
 pb	311	0315	4517134
-entry	Cuivre. Thérapeutique		
+entry	Cuivre. Thérapeutique [Fonssagrives]		
+orth	Cuivre. Thérapeutique		
 pb	312	0316	4517135
 pb	313	0317	4517136
 pb	314	0318	4517137
@@ -420,7 +492,8 @@ pb	324	0328	4517147
 pb	325	0329	4517148
 pb	326	0330	4517149
 pb	327	0331	4517150
-entry	Cuivre. Toxicologie		
+entry	Cuivre. Toxicologie [Fonssagrives]		
+orth	Cuivre. Toxicologie		
 pb	328	0332	4517151
 pb	329	0333	4517152
 pb	330	0334	4517153
@@ -437,7 +510,8 @@ pb	340	0344	4517163
 pb	341	0345	4517164
 pb	342	0346	4517165
 pb	343	0347	4517166
-entry	Cuivre. Hygiène		
+entry	Cuivre. Hygiène [Alexandre Layet]		
+orth	Cuivre. Hygiène		
 pb	344	0348	4517167
 pb	345	0349	4517168
 pb	346	0350	4517169
@@ -465,78 +539,118 @@ pb	367	0371	4517190
 pb	368	0372	4517191
 pb	369	0373	4517192
 pb	370	0374	4517193
-entry	Cul-de-Chien		
-entry	Cul-de-Négresse		
-entry	Culen Cullen		
-entry	Culex		
-entry	Culilaban, Culilawan		
-entry	Cullen (William)		
+entry	Cul-de-Chien [G. Planchon]		
+orth	Cul-de-Chien		
+entry	Cul-de-Négresse [G. Planchon]		
+orth	Cul-de-Négresse		
+entry	Culen Cullen [G. Planchon]		
+orth	Culen Cullen		
+entry	Culex [G. Planchon]		
+orth	Culex		
+entry	Culilaban, Culilawan [G. Planchon]		
+orth	Culilaban, Culilawan		
+entry	Cullen (William) [E. Beaugrand, L. Hahn]		
+orth	Cullen (William)		
 pb	371	0375	4517194
 pb	372	0376	4517195
 pb	373	0377	4517196
-entry	Cullerier (Les)		
+entry	Cullerier (Les) [A. Chéreau]		
+orth	Cullerier (Les)		
 pb	374	0378	4517197
-entry	Culotte-de-Suisse		
-entry	Culpeper (Nicolas)		
-entry	Cul-tout-nud		
+entry	Culotte-de-Suisse [G. Planchon]		
+orth	Culotte-de-Suisse		
+entry	Culpeper (Nicolas) [L. Hahn]		
+orth	Culpeper (Nicolas)		
+entry	Cul-tout-nud [G. Planchon]		
+orth	Cul-tout-nud		
 entry	Cultrirostres		
 ref	Echassiers		
-entry	Cumana		
+entry	Cumana [G. Planchon]		
+orth	Cumana		
 pb	375	0379	4517198
-entry	Cumbi-Pisin		
-entry	Cumène, Cumolène ou Triméthylbenzine		
-entry	Cumidine		
+entry	Cumbi-Pisin [G. Planchon]		
+orth	Cumbi-Pisin		
+entry	Cumène, Cumolène ou Triméthylbenzine [E. Burcker]		
+orth	Cumène, Cumolène ou Triméthylbenzine		
+entry	Cumidine [E. Burcker]		
+orth	Cumidine		
 pb	376	0380	4517199
 entry	Cumin		
-entry	Cumin. Botanique		
+entry	Cumin. Botanique [G. Planchon]		
+orth	Cumin. Botanique		
 pb	377	0381	4517200
-entry	Cumin. Emploi médical		
+entry	Cumin. Emploi médical [L. Hahn]		
+orth	Cumin. Emploi médical		
 pb	378	0382	4517201
-entry	Bromatologie		
-entry	Cuminamide		
+entry	Bromatologie [L. Hahn]		
+orth	Bromatologie		
+entry	Cuminamide [E. Burcker]		
+orth	Cuminamide		
 pb	379	0383	4517202
 entry	Cuminamine		
 ref	Cymylamine		
-entry	Cuminique (Acide)		
+entry	Cuminique (Acide) [E. Burcker]		
+orth	Cuminique (Acide)		
 pb	380	0384	4517203
-entry	Cuminol		
-entry	Cuminurique (Acide)		
-entry	Cummin (William)		
+entry	Cuminol [E. Burcker]		
+orth	Cuminol		
+entry	Cuminurique (Acide) [E. Burcker]		
+orth	Cuminurique (Acide)		
+entry	Cummin (William) [L. Hahn]		
+orth	Cummin (William)		
 pb	381	0385	4517204
-entry	Cumonitrile		
-entry	Cumyle		
-entry	Cumylène		
+entry	Cumonitrile [E. Burcker]		
+orth	Cumonitrile		
+entry	Cumyle [E. Burcker]		
+orth	Cumyle		
+entry	Cumylène [E. Burcker]		
+orth	Cumylène		
 pb	382	0386	4517205
 entry	Cunches (Les)		
 ref	Chili		
-entry	Cunéiformes		
-entry	Cuneus (Gabriel)		
-entry	Cunier (Florent)		
-entry	Cunila		
+entry	Cunéiformes [Amédée Dechambre]		
+orth	Cunéiformes		
+entry	Cuneus (Gabriel) [L. Hahn]		
+orth	Cuneus (Gabriel)		
+entry	Cunier (Florent) [L. Hahn]		
+orth	Cunier (Florent)		
+entry	Cunila [G. Planchon]		
+orth	Cunila		
 pb	383	0387	4517206
-entry	Cuningham (William)		
-entry	Cunningham (Les deux)		
+entry	Cuningham (William) [L. Hahn]		
+orth	Cuningham (William)		
+entry	Cunningham (Les deux) [L. Hahn]		
+orth	Cunningham (Les deux)		
 pb	384	0388	4517207
-entry	Cunrad (Henri)		
-entry	Cupani (François)		
+entry	Cunrad (Henri) [L. Hahn]		
+orth	Cunrad (Henri)		
+entry	Cupani (François) [L. Hahn]		
+orth	Cupani (François)		
 pb	385	0389	4517208
-entry	Cupanie		
+entry	Cupanie [H. Baillon]		
+orth	Cupanie		
 pb	386	0390	4517209
-entry	Cuphea		
+entry	Cuphea [G. Planchon]		
+orth	Cuphea		
 pb	387	0391	4517210
 entry	Cupressus		
 ref	Cyprès		
-entry	Curaçao (Géographie médicale)		
-entry	Curadapala		
+entry	Curaçao (Géographie médicale) [Amédée Dechambre]		
+orth	Curaçao (Géographie médicale)		
+entry	Curadapala [G. Planchon]		
+orth	Curadapala		
 entry	Curage		
 ref	Canaux		
 ref	Egouts		
-entry	Curanga		
+entry	Curanga [G. Planchon]		
+orth	Curanga		
 entry	Curare		
-entry	Curare. Botanique		
+entry	Curare. Botanique [G. Planchon]		
+orth	Curare. Botanique		
 pb	388	0392	4517211
 pb	389	0393	4517212
-entry	Curare. Action physiologique		
+entry	Curare. Action physiologique [Henri Chouppe]		
+orth	Curare. Action physiologique		
 pb	390	0394	4517213
 pb	391	0395	4517214
 pb	392	0396	4517215
@@ -566,7 +680,8 @@ pb	415	0419	4517238
 pb	416	0420	4517239
 pb	417	0421	4517240
 pb	418	0422	4517241
-entry	Curare. Effets thérapeutiques du curare		
+entry	Curare. Effets thérapeutiques du curare [Henri Chouppe]		
+orth	Curare. Effets thérapeutiques du curare		
 pb	419	0423	4517242
 pb	420	0424	4517243
 pb	421	0425	4517244
@@ -581,113 +696,160 @@ pb	429	0433	4517252
 pb	430	0434	4517253
 entry	Curarine		
 ref	Curare		
-entry	Curatelle		
+entry	Curatelle [H. Baillon]		
+orth	Curatelle		
 pb	431	0435	4517254
-entry	Curaudau (François-Réné)		
-entry	Curcas		
+entry	Curaudau (François-Réné) [L. Hahn]		
+orth	Curaudau (François-Réné)		
+entry	Curcas [H. Baillon]		
+orth	Curcas		
 pb	432	0436	4517255
 pb	433	0437	4517256
-entry	Curculigo		
+entry	Curculigo [G. Planchon]		
+orth	Curculigo		
 pb	434	0438	4517257
-entry	Curculionites		
+entry	Curculionites [A. Laboulbène]		
+orth	Curculionites		
 entry	Curcuma		
-entry	Curcuma. Botanique		
+entry	Curcuma. Botanique [G. Planchon]		
+orth	Curcuma. Botanique		
 pb	435	0439	4517258
-entry	Curcuma. Pharmacologie		
+entry	Curcuma. Pharmacologie [L. Hahn]		
+orth	Curcuma. Pharmacologie		
 pb	436	0440	4517259
 pb	437	0441	4517260
-entry	Thérapeutique		
+entry	Thérapeutique [L. Hahn]		
+orth	Thérapeutique		
 pb	438	0442	4517261
 entry	Curcuma		
-entry	Thérapeutique		
-entry	Curcumine		
+entry	Thérapeutique [L. Hahn]		
+orth	Thérapeutique		
+entry	Curcumine [L. Hahn]		
+orth	Curcumine		
 pb	439	0443	4517262
-entry	Cure (Hydrologie)		
-entry	Cureau de la Chambre (Les deux)		
-entry	Cure-Dents		
+entry	Cure (Hydrologie) [A. Rotureau]		
+orth	Cure (Hydrologie)		
+entry	Cureau de la Chambre (Les deux) [A. Chéreau]		
+orth	Cureau de la Chambre (Les deux)		
+entry	Cure-Dents [Amédée Dechambre]		
+orth	Cure-Dents		
 pb	440	0444	4517263
-entry	Cure-Langue		
+entry	Cure-Langue [Amédée Dechambre]		
+orth	Cure-Langue		
 entry	Cure-Oreille		
 ref	Curette		
-entry	Curette		
-entry	Cureus (Joachim)		
+entry	Curette [Amédée Dechambre]		
+orth	Curette		
+entry	Cureus (Joachim) [L. Hahn]		
+orth	Cureus (Joachim)		
 pb	441	0445	4517264
-entry	Curio ou Curion (Les)		
-entry	Curran (John-Olivier)		
+entry	Curio ou Curion (Les) [L. Hahn]		
+orth	Curio ou Curion (Les)		
+entry	Curran (John-Olivier) [L. Hahn]		
+orth	Curran (John-Olivier)		
 pb	442	0446	4517265
-entry	Currie (Les)		
+entry	Currie (Les) [L. Hahn]		
+orth	Currie (Les)		
 pb	443	0447	4517266
-entry	Curry (Les)		
-entry	Curtis (William)		
-entry	Curtis (John Harrison)		
+entry	Curry (Les) [E. Beaugrand]		
+orth	Curry (Les)		
+entry	Curtis (William) [L. Hahn]		
+orth	Curtis (William)		
+entry	Curtis (John Harrison) [E. Beaugrand]		
+orth	Curtis (John Harrison)		
 pb	444	0448	4517267
-entry	Curtze (Georg)		
+entry	Curtze (Georg) [L. Hahn]		
+orth	Curtze (Georg)		
 entry	Curucanécas		
 ref	Amérique		
-entry	Curuivi		
+entry	Curuivi [G. Planchon]		
+orth	Curuivi		
 entry	Curuminacas (Les)		
 ref	Amérique		
-entry	Curvo (Joao-Semmedo)		
+entry	Curvo (Joao-Semmedo) [L. Hahn]		
+orth	Curvo (Joao-Semmedo)		
 pb	445	0449	4517268
-entry	Cusac (Louis)		
-entry	Cusack (James-William)		
-entry	Cuscute		
+entry	Cusac (Louis) [L. Hahn]		
+orth	Cusac (Louis)		
+entry	Cusack (James-William) [E. Beaugrand, L. Hahn]		
+orth	Cusack (James-William)		
+entry	Cuscute [G. Planchon]		
+orth	Cuscute		
 pb	446	0450	4517269
 entry	Cuspare, Cusparia		
 ref	Angusture vraie		
 entry	Cusparine		
 ref	Angusture		
 pb	447	0451	4517270
-entry	Cuspinien (Jean)		
-entry	Cusset (Eaux minérales de)		
+entry	Cuspinien (Jean) [L. Hahn]		
+orth	Cuspinien (Jean)		
+entry	Cusset (Eaux minérales de) [A. Rotureau]		
+orth	Cusset (Eaux minérales de)		
 pb	448	0452	4517271
 pb	449	0453	4517272
 pb	450	0454	4517273
-entry	Cusson (Pierre)		
+entry	Cusson (Pierre) [L. Hahn]		
+orth	Cusson (Pierre)		
 pb	451	0455	4517274
 pb	452	0456	4517275
 entry	Cutané interne (Nerf)		
 ref	Brachial (Plexus)		
-entry	Cutérèbre		
-entry	Cuvage		
-entry	Cuve-de-Vénus		
-entry	Cuvier (Les deux frères)		
+entry	Cutérèbre [A. Laboulbène]		
+orth	Cutérèbre		
+entry	Cuvage [G. Planchon]		
+orth	Cuvage		
+entry	Cuve-de-Vénus [G. Planchon]		
+orth	Cuve-de-Vénus		
+entry	Cuvier (Les deux frères) [A. Chéreau]		
+orth	Cuvier (Les deux frères)		
 pb	453	0457	4517276
 pb	454	0458	4517277
 pb	455	0459	4517278
 pb	456	0460	4517279
 pb	457	0461	4517280
-entry	Cyame		
-entry	Cyamélide		
+entry	Cyame [Ed. Lefèvre]		
+orth	Cyame		
+entry	Cyamélide [E. Burcker]		
+orth	Cyamélide		
 pb	458	0462	4517281
-entry	Cyamélurique (Acide)		
-entry	Cyaméthine		
-entry	Cyamos		
-entry	Cyanamide		
+entry	Cyamélurique (Acide) [E. Burcker]		
+orth	Cyamélurique (Acide)		
+entry	Cyaméthine [E. Burcker]		
+orth	Cyaméthine		
+entry	Cyamos [G. Planchon]		
+orth	Cyamos		
+entry	Cyanamide [E. Burcker]		
+orth	Cyanamide		
 pb	459	0463	4517282
 pb	460	0464	4517283
 entry	Cyanates		
 ref	Cyanique		
-entry	Cyanella		
+entry	Cyanella [G. Planchon]		
+orth	Cyanella		
 entry	Cyanhydrates		
 ref	Cyanhydrique		
 entry	Cyanhydrique (Acide)		
-entry	Cyanhydrique (Acide). Chimie		
+entry	Cyanhydrique (Acide). Chimie [E. Burcker]		
+orth	Cyanhydrique (Acide). Chimie		
 pb	461	0465	4517284
 pb	462	0466	4517285
 pb	463	0467	4517286
 pb	464	0468	4517287
 pb	465	0469	4517288
-entry	Cyanhydrique (Acide). Pharmacologie		
+entry	Cyanhydrique (Acide). Pharmacologie [E. Burcker, Henri Chouppe]		
+orth	Cyanhydrique (Acide). Pharmacologie		
 pb	466	0470	4517289
 pb	467	0471	4517290
-entry	Cyanhydrique (Acide). Action physiologique		
+entry	Cyanhydrique (Acide). Action physiologique [Henri Chouppe]		
+orth	Cyanhydrique (Acide). Action physiologique		
 pb	468	0472	4517291
 pb	469	0473	4517292
-entry	Emploi thérapeutique		
+entry	Emploi thérapeutique [Henri Chouppe]		
+orth	Emploi thérapeutique		
 pb	470	0474	4517293
 entry	Cyanhydrique (Acide)		
-entry	Cyanhydrique (Acide). Toxicologie		
+entry	Cyanhydrique (Acide). Toxicologie [Henri Chouppe]		
+orth	Cyanhydrique (Acide). Toxicologie		
 pb	471	0475	4517294
 pb	472	0476	4517295
 pb	473	0477	4517296
@@ -697,21 +859,26 @@ entry	Cyaniferrure
 ref	Ferricyanure		
 entry	Cyanilates		
 ref	Cyanilique		
-entry	Cyanilique (Acide)		
+entry	Cyanilique (Acide) [E. Burcker]		
+orth	Cyanilique (Acide)		
 pb	474	0478	4517297
-entry	Cyanine		
-entry	Cyanique (Acide) et Cyanates		
+entry	Cyanine [E. Burcker]		
+orth	Cyanine		
+entry	Cyanique (Acide) et Cyanates [E. Burcker]		
+orth	Cyanique (Acide) et Cyanates		
 pb	475	0479	4517298
 pb	476	0480	4517299
 pb	477	0481	4517300
 entry	Cyanoferrure		
 ref	Ferrocyanure		
-entry	Cyanogène		
+entry	Cyanogène [E. Burcker]		
+orth	Cyanogène		
 pb	478	0482	4517301
 pb	479	0483	4517302
 pb	480	0484	4517303
 pb	481	0485	4517304
-entry	Cyanose		
+entry	Cyanose [J. Grancher]		
+orth	Cyanose		
 pb	482	0486	4517305
 pb	483	0487	4517306
 pb	484	0488	4517307
@@ -736,7 +903,8 @@ pb	502	0506	4517325
 pb	503	0507	4517326
 pb	504	0508	4517327
 entry	Cyanures		
-entry	Cyanures. Chimie		
+entry	Cyanures. Chimie [E. Burcker]		
+orth	Cyanures. Chimie		
 pb	505	0509	4517328
 pb	506	0510	4517329
 pb	507	0511	4517330
@@ -748,33 +916,48 @@ pb	512	0516	4517335
 pb	513	0517	4517336
 entry	Thérapeutique et Toxicologie		
 ref	Cyanhydrique		
-entry	Cyanurine, Urocyanine, Uroglaucine		
-entry	Cyanurique (Acide)		
+entry	Cyanurine, Urocyanine, Uroglaucine [E. Burcker]		
+orth	Cyanurine, Urocyanine, Uroglaucine		
+entry	Cyanurique (Acide) [E. Burcker]		
+orth	Cyanurique (Acide)		
 pb	514	0518	4517337
-entry	Cyanus		
-entry	Cyathée et Cyathéacées		
-entry	Cyathocrinides		
+entry	Cyanus [G. Planchon]		
+orth	Cyanus		
+entry	Cyathée et Cyathéacées [Eug. Fournier]		
+orth	Cyathée et Cyathéacées		
+entry	Cyathocrinides [Ed. Lefèvre]		
+orth	Cyathocrinides		
 pb	515	0519	4517338
-entry	Cyathostome		
+entry	Cyathostome [Amédée Dechambre]		
+orth	Cyathostome		
 entry	Cyathys		
 ref	Nidulariées		
-entry	Cybellion		
-entry	Cycadées		
-entry	Cycas		
+entry	Cybellion [G. Planchon]		
+orth	Cybellion		
+entry	Cycadées [G. Planchon]		
+orth	Cycadées		
+entry	Cycas [G. Planchon]		
+orth	Cycas		
 pb	516	0520	4517339
-entry	Cycéon		
-entry	Cyclade		
+entry	Cycéon [Amédée Dechambre]		
+orth	Cycéon		
+entry	Cyclade [Ed. Lefèvre]		
+orth	Cyclade		
 entry	Cyclame		
-entry	Cyclame. Botanique		
+entry	Cyclame. Botanique [G. Planchon]		
+orth	Cyclame. Botanique		
 pb	517	0521	4517340
-entry	Cyclame. Emploi médical		
+entry	Cyclame. Emploi médical [L. Hahn]		
+orth	Cyclame. Emploi médical		
 pb	518	0522	4517341
 entry	Cyclamine		
-entry	Cyclamine. Chimie		
+entry	Cyclamine. Chimie [L. Hahn]		
+orth	Cyclamine. Chimie		
 pb	519	0523	4517342
 pb	520	0524	4517343
 pb	521	0525	4517344
-entry	Cyclamine. Action physiologique		
+entry	Cyclamine. Action physiologique [L. Hahn]		
+orth	Cyclamine. Action physiologique		
 pb	522	0526	4517345
 pb	523	0527	4517346
 pb	524	0528	4517347
@@ -794,7 +977,8 @@ pb	537	0541	4517360
 pb	538	0542	4517361
 entry	Cyclocéphalie		
 ref	Cyclopie		
-entry	Cyclope, Cyclopie		
+entry	Cyclope, Cyclopie [O. Larcher]		
+orth	Cyclope, Cyclopie		
 pb	539	0543	4517362
 pb	540	0544	4517363
 pb	541	0545	4517364
@@ -802,139 +986,200 @@ pb	542	0546	4517365
 pb	543	0547	4517366
 pb	544	0548	4517367
 pb	545	0549	4517368
-entry	Cyclopigènes		
-entry	Cyclopique (Acide)		
-entry	Cyclops		
+entry	Cyclopigènes [Ed. Lefèvre]		
+orth	Cyclopigènes		
+entry	Cyclopique (Acide) [L. Hahn]		
+orth	Cyclopique (Acide)		
+entry	Cyclops [Ed. Lefèvre]		
+orth	Cyclops		
 pb	546	0550	4517369
-entry	Cycloptère		
+entry	Cycloptère [E. Oustalet]		
+orth	Cycloptère		
 pb	547	0551	4517370
 entry	Cyclostome		
-entry	Cyclostome. Poissons		
+entry	Cyclostome. Poissons [E. Oustalet]		
+orth	Cyclostome. Poissons		
 pb	548	0552	4517371
 entry	Cyclostome		
-entry	Cyclostome. Mollusques		
+entry	Cyclostome. Mollusques [Ed. Lefèvre]		
+orth	Cyclostome. Mollusques		
 pb	549	0553	4517372
 entry	Cydippe		
 ref	Cténophores		
-entry	Cydista		
+entry	Cydista [Ed. Lefèvre]		
+orth	Cydista		
 entry	Cydonia		
 ref	Coing		
 ref	Cognassier		
-entry	Cygne		
+entry	Cygne [E. Oustalet]		
+orth	Cygne		
 pb	550	0554	4517373
 pb	551	0555	4517374
 entry	Cylindre-Axe		
 ref	Nerfs		
-entry	Cyllosomie		
-entry	Cymbalaire		
-entry	Cymbalion		
+entry	Cyllosomie [O. Larcher]		
+orth	Cyllosomie		
+entry	Cymbalaire [G. Planchon]		
+orth	Cymbalaire		
+entry	Cymbalion [G. Planchon]		
+orth	Cymbalion		
 pb	552	0556	4517375
-entry	Cymbulidés		
+entry	Cymbulidés [Ed. Lefèvre]		
+orth	Cymbulidés		
 entry	Cymène ou Cymol		
-entry	Cymène ou Cymol. Chimie		
+entry	Cymène ou Cymol. Chimie [L. Hahn]		
+orth	Cymène ou Cymol. Chimie		
 pb	553	0557	4517376
 pb	554	0558	4517377
 pb	555	0559	4517378
-entry	Cymène ou Cymol. Action physiologique		
+entry	Cymène ou Cymol. Action physiologique [L. Hahn]		
+orth	Cymène ou Cymol. Action physiologique		
 pb	556	0560	4517379
-entry	Cymidine		
+entry	Cymidine [L. Hahn]		
+orth	Cymidine		
 pb	557	0561	4517380
 entry	Cymol		
 ref	Cymène		
-entry	Cymothoé		
-entry	Cymylamines		
+entry	Cymothoé [Ed. Lefèvre]		
+orth	Cymothoé		
+entry	Cymylamines [L. Hahn]		
+orth	Cymylamines		
 pb	558	0562	4517381
 pb	559	0563	4517382
 entry	Cyna		
 ref	Cina		
-entry	Cynagrostis		
-entry	Cynanche		
-entry	Cynanchica		
-entry	Cynanchol		
-entry	Cynanchum		
+entry	Cynagrostis [G. Planchon]		
+orth	Cynagrostis		
+entry	Cynanche [Amédée Dechambre]		
+orth	Cynanche		
+entry	Cynanchica [G. Planchon]		
+orth	Cynanchica		
+entry	Cynanchol [L. Hahn]		
+orth	Cynanchol		
+entry	Cynanchum [G. Planchon]		
+orth	Cynanchum		
 pb	560	0564	4517383
 entry	Cynanthropie		
 ref	Lycanthropie		
-entry	Cynapine		
-entry	Cynare		
+entry	Cynapine [L. Hahn]		
+orth	Cynapine		
+entry	Cynare [G. Planchon]		
+orth	Cynare		
 pb	561	0565	4517384
-entry	Cynarocéphales		
-entry	Cynène		
-entry	Cynips, Cynipides		
+entry	Cynarocéphales [G. Planchon]		
+orth	Cynarocéphales		
+entry	Cynène [L. Hahn]		
+orth	Cynène		
+entry	Cynips, Cynipides [A. Laboulbène]		
+orth	Cynips, Cynipides		
 pb	562	0566	4517385
 pb	563	0567	4517386
 pb	564	0568	4517387
 pb	565	0569	4517388
-entry	Cynocéphale		
+entry	Cynocéphale [E. Oustalet]		
+orth	Cynocéphale		
 pb	566	0570	4517389
-entry	Cynocrambe (T.)		
+entry	Cynocrambe (T.) [H. Baillon]		
+orth	Cynocrambe (T.)		
 pb	567	0571	4517390
-entry	Cynodine		
+entry	Cynodine [L. Hahn]		
+orth	Cynodine		
 entry	Cynodon		
 ref	Chiendent		
 entry	Cynoglosse		
-entry	Cynoglosse. Botanique		
+entry	Cynoglosse. Botanique [G. Planchon]		
+orth	Cynoglosse. Botanique		
 pb	568	0572	4517391
-entry	Cynoglosse. Emploi médical		
+entry	Cynoglosse. Emploi médical [L. Hahn]		
+orth	Cynoglosse. Emploi médical		
 pb	569	0573	4517392
 pb	570	0574	4517393
 entry	Cynoglossum Major		
 ref	Cynoglosse		
-entry	Cynometra (L.)		
+entry	Cynometra (L.) [H. Baillon]		
+orth	Cynometra (L.)		
 pb	571	0575	4517394
-entry	Cynomorium		
-entry	Cynopithèque		
+entry	Cynomorium [G. Planchon]		
+orth	Cynomorium		
+entry	Cynopithèque [E. Oustalet]		
+orth	Cynopithèque		
 pb	572	0576	4517395
 entry	Cynorrhodon		
-entry	Botanique		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
 pb	573	0577	4517396
 entry	Cynorrhodon		
-entry	Emploi		
-entry	Cynosbatos, Cynosbatum		
-entry	Cynosurus		
-entry	Cynthie		
-entry	Cynurénique (Acide)		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
+entry	Cynosbatos, Cynosbatum [G. Planchon]		
+orth	Cynosbatos, Cynosbatum		
+entry	Cynosurus [G. Planchon]		
+orth	Cynosurus		
+entry	Cynthie [Ed. Lefèvre]		
+orth	Cynthie		
+entry	Cynurénique (Acide) [L. Hahn]		
+orth	Cynurénique (Acide)		
 pb	574	0578	4517397
 pb	575	0579	4517398
-entry	Cyopine		
-entry	Cyparisias		
-entry	Cypéracées		
+entry	Cyopine [L. Hahn]		
+orth	Cyopine		
+entry	Cyparisias [G. Planchon]		
+orth	Cyparisias		
+entry	Cypéracées [G. Planchon]		
+orth	Cypéracées		
 pb	576	0580	4517399
-entry	Cypéroides		
+entry	Cypéroides [G. Planchon]		
+orth	Cypéroides		
 entry	Cyperus		
 ref	Souchet		
-entry	Cyphella		
-entry	Cyphose		
+entry	Cyphella [Ed. Lefèvre]		
+orth	Cyphella		
+entry	Cyphose [Amédée Dechambre]		
+orth	Cyphose		
 entry	Cypraea		
 ref	Porcelaine		
 entry	Cyprès		
-entry	Cyprès. Botanique		
+entry	Cyprès. Botanique [G. Planchon]		
+orth	Cyprès. Botanique		
 pb	577	0581	4517400
-entry	Emploi médical		
-entry	Cyprianus (Les deux)		
+entry	Emploi médical [Amédée Dechambre]		
+orth	Emploi médical		
+entry	Cyprianus (Les deux) [L. Hahn]		
+orth	Cyprianus (Les deux)		
 pb	578	0582	4517401
-entry	Cyprin		
+entry	Cyprin [E. Oustalet]		
+orth	Cyprin		
 pb	579	0583	4517402
 pb	580	0584	4517403
 pb	581	0585	4517404
-entry	Cyprine		
-entry	Cypripédine		
-entry	Cypripedium		
-entry	Cypris		
+entry	Cyprine [Ed. Lefèvre]		
+orth	Cyprine		
+entry	Cypripédine [L. Hahn]		
+orth	Cypripédine		
+entry	Cypripedium [G. Planchon]		
+orth	Cypripedium		
+entry	Cypris [Ed. Lefèvre]		
+orth	Cypris		
 pb	582	0586	4517405
-entry	Cyrène		
-entry	Cyriaque de Mangin (Clément)		
-entry	Cyrillo (Pommade de)		
+entry	Cyrène [Ed. Lefèvre]		
+orth	Cyrène		
+entry	Cyriaque de Mangin (Clément) [L. Hahn]		
+orth	Cyriaque de Mangin (Clément)		
+entry	Cyrillo (Pommade de) [Amédée Dechambre]		
+orth	Cyrillo (Pommade de)		
 entry	Cyrtocéphales		
 ref	Araignées		
 entry	Cyrtographe		
 ref	Cyrtomètre		
-entry	Cyrtomètre		
+entry	Cyrtomètre [Ernest Besnier]		
+orth	Cyrtomètre		
 pb	583	0587	4517406
 pb	584	0588	4517407
 pb	585	0589	4517408
-entry	Cystencéphalie		
-entry	Cysticerque		
+entry	Cystencéphalie [O. Larcher]		
+orth	Cystencéphalie		
+entry	Cysticerque [C. Davaine]		
+orth	Cysticerque		
 pb	586	0590	4517409
 pb	587	0591	4517410
 pb	588	0592	4517411
@@ -947,15 +1192,18 @@ pb	594	0598	4517417
 pb	595	0599	4517418
 pb	596	0600	4517419
 pb	597	0601	4517420
-entry	Cystides		
+entry	Cystides [Ed. Lefèvre]		
+orth	Cystides		
 pb	598	0602	4517421
-entry	Cystine		
+entry	Cystine [L. Hahn]		
+orth	Cystine		
 pb	599	0603	4517422
 pb	600	0604	4517423
 entry	Cystique (Anatomie)		
 ref	Biliaires (Voies)		
 entry	Cystiques (Rudolphi)		
-entry	Cystiques (Rudolphi). Zoologie		
+entry	Cystiques (Rudolphi). Zoologie [C. Davaine]		
+orth	Cystiques (Rudolphi). Zoologie		
 pb	601	0605	4517424
 pb	602	0606	4517425
 pb	603	0607	4517426
@@ -965,19 +1213,25 @@ pb	606	0610	4517429
 pb	607	0611	4517430
 pb	608	0612	4517431
 pb	609	0613	4517432
-entry	Cystite		
-entry	Cystite. Division		
+entry	Cystite [J. Chauvel]		
+orth	Cystite		
+entry	Cystite. Division [J. Chauvel]		
+orth	Cystite. Division		
 pb	610	0614	4517433
-entry	Cystite. Cystite aiguë		
+entry	Cystite. Cystite aiguë [J. Chauvel]		
+orth	Cystite. Cystite aiguë		
 pb	611	0615	4517434
 pb	612	0616	4517435
 pb	613	0617	4517436
 pb	614	0618	4517437
-entry	Cystite. Cystite aiguë. Cystite essentielle		
+entry	Cystite. Cystite aiguë. Cystite essentielle [J. Chauvel]		
+orth	Cystite. Cystite aiguë. Cystite essentielle		
 pb	615	0619	4517438
-entry	Cystite. Cystite aiguë. Cystite traumatique		
+entry	Cystite. Cystite aiguë. Cystite traumatique [J. Chauvel]		
+orth	Cystite. Cystite aiguë. Cystite traumatique		
 pb	616	0620	4517439
-entry	Cystite. Cystite aiguë. Cystite symptomatique		
+entry	Cystite. Cystite aiguë. Cystite symptomatique [J. Chauvel]		
+orth	Cystite. Cystite aiguë. Cystite symptomatique		
 pb	617	0621	4517440
 pb	618	0622	4517441
 pb	619	0623	4517442
@@ -993,15 +1247,18 @@ pb	628	0632	4517451
 pb	629	0633	4517452
 entry	Variétés. Cystite cantharidienne		
 ref	Cantharides		
-entry	Cystite du Col		
+entry	Cystite du Col [J. Chauvel]		
+orth	Cystite du Col		
 pb	630	0634	4517453
-entry	Cystite. Cystite aiguë. Variétés. Cystite cantharidienne.. Cystite du col		
+entry	Cystite. Cystite aiguë. Variétés. Cystite cantharidienne.. Cystite du col [J. Chauvel]		
+orth	Cystite. Cystite aiguë. Variétés. Cystite cantharidienne.. Cystite du col		
 ref	Cantharides		
 pb	631	0635	4517454
 pb	632	0636	4517455
 pb	633	0637	4517456
 pb	634	0638	4517457
-entry	Cystite. Cystite aiguë. Variétés. Cystite cantharidienne.. Cystite blennorrhagique		
+entry	Cystite. Cystite aiguë. Variétés. Cystite cantharidienne.. Cystite blennorrhagique [J. Chauvel]		
+orth	Cystite. Cystite aiguë. Variétés. Cystite cantharidienne.. Cystite blennorrhagique		
 ref	Cantharides		
 pb	635	0639	4517458
 pb	636	0640	4517459
@@ -1011,7 +1268,8 @@ pb	639	0643	4517462
 pb	640	0644	4517463
 pb	641	0645	4517464
 pb	642	0646	4517465
-entry	Cystite.Cystite chronique. Catarrhe de la vessie (Cystorrhée)		
+entry	Cystite.Cystite chronique. Catarrhe de la vessie (Cystorrhée) [J. Chauvel]		
+orth	Cystite.Cystite chronique. Catarrhe de la vessie (Cystorrhée)		
 pb	643	0647	4517466
 pb	644	0648	4517467
 pb	645	0649	4517468
@@ -1051,13 +1309,17 @@ pb	678	0682	4517501
 pb	679	0683	4517502
 pb	680	0684	4517503
 pb	681	0685	4517504
-entry	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée)		
-entry	Variétés		
-entry	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée). Variétés. Cystite pseudo-membraneuse		
+entry	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée) [J. Chauvel]		
+orth	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée)		
+entry	Variétés [J. Chauvel]		
+orth	Variétés		
+entry	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée). Variétés. Cystite pseudo-membraneuse [J. Chauvel]		
+orth	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée). Variétés. Cystite pseudo-membraneuse		
 pb	682	0686	4517505
 pb	683	0687	4517506
 pb	684	0688	4517507
-entry	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée). Variétés. Cystite tuberculeuse		
+entry	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée). Variétés. Cystite tuberculeuse [J. Chauvel]		
+orth	Cystite. Cystite chronique. Catarrhe de la vessie (Cystorrhée). Variétés. Cystite tuberculeuse		
 pb	685	0689	4517508
 pb	686	0690	4517509
 pb	687	0691	4517510
@@ -1069,10 +1331,13 @@ entry	Cystitome
 ref	Cystotome		
 entry	Cystocèle		
 ref	Vessie		
-entry	Cystoïde		
-entry	Cystopteris		
+entry	Cystoïde [Amédée Dechambre]		
+orth	Cystoïde		
+entry	Cystopteris [Fournier]		
+orth	Cystopteris		
 pb	692	0696	4517515
-entry	Cystopus		
+entry	Cystopus [Ed. Lefèvre]		
+orth	Cystopus		
 pb	693	0697	4517516
 entry	Articles contenus dans le vingt-quatrième volume (1re série)		
 pb	694	0698	4517517

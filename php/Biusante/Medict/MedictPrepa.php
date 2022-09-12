@@ -271,9 +271,7 @@ class MedictPrepa extends MedictUtil
                     }
                 }
                 foreach($veds as $v) {
-                    // supprimer l’auteur
-                    $v = preg_replace('/ *\[[^\]]+\]/u', '', $v);
-                    if (!$v) continue;
+                    // NE PAS supprimer l’auteur
                     $data[] = array("entry", $v);
                 }
                 continue;
@@ -300,7 +298,9 @@ class MedictPrepa extends MedictUtil
             // Absorbants [A. Gubler] (bibliographie) [Raige-Delorme] / Absorbants (vaisseaux). Voy. Lymphatiques / Absorption [Jules Béclard]
             else if (self::starts_with($volume_cote, 'extbnfdechambre')) {
                 $chapitre = preg_replace(
-                    array('@ *\(bibliographie\)\.?@ui', '/ *\[[^\]]+\]/u'),
+                    // NE PAS supprimer l’auteur
+
+                    array('/ *\(bibliographie\)\.?/ui'),
                     array('', ''),
                     $chapitre
                 );

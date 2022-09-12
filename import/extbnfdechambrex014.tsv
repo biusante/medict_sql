@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4508758
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4508759
 pb	[s. pag.]	0003	4508760
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4508761
 pb	1	0005	4508762
-entry	Céphalaematome		
+entry	Céphalaematome [A. Bouchacourt]		
+orth	Céphalaematome		
 pb	2	0006	4508763
 pb	3	0007	4508764
 pb	4	0008	4508765
@@ -19,7 +22,8 @@ pb	13	0017	4508774
 pb	14	0018	4508775
 pb	15	0019	4508776
 pb	16	0020	4508777
-entry	Céphalalgie, Céphalée		
+entry	Céphalalgie, Céphalée [Léon Colin]		
+orth	Céphalalgie, Céphalée		
 pb	17	0021	4508778
 pb	18	0022	4508779
 pb	19	0023	4508780
@@ -43,11 +47,13 @@ pb	36	0040	4508797
 pb	37	0041	4508798
 pb	38	0042	4508799
 pb	39	0043	4508800
-entry	Céphalanthus		
+entry	Céphalanthus [G. Planchon]		
+orth	Céphalanthus		
 pb	40	0044	4508801
 entry	Céphalée		
 ref	Céphalalgie		
-entry	Céphalémyie		
+entry	Céphalémyie [A. Laboulbène]		
+orth	Céphalémyie		
 pb	41	0045	4508802
 pb	42	0046	4508803
 entry	Céphalidiens		
@@ -58,15 +64,20 @@ entry	Céphalique (Veine)
 ref	Bras		
 entry	Céphalocyste		
 ref	Cestoïdes		
-entry	Céphalomèle		
-entry	Céphalomètre		
+entry	Céphalomèle [Amédée Dechambre]		
+orth	Céphalomèle		
+entry	Céphalomètre [E. Dally]		
+orth	Céphalomètre		
 pb	43	0047	4508804
 pb	44	0048	4508805
-entry	Céphalopage		
-entry	Céphalopodes		
+entry	Céphalopage [Amédée Dechambre]		
+orth	Céphalopage		
+entry	Céphalopodes [A. Laboulbène]		
+orth	Céphalopodes		
 pb	45	0049	4508806
 pb	46	0050	4508807
-entry	Céphalo-Rachidien (Liquide)		
+entry	Céphalo-Rachidien (Liquide) [V. Paulet]		
+orth	Céphalo-Rachidien (Liquide)		
 pb	47	0051	4508808
 pb	48	0052	4508809
 pb	49	0053	4508810
@@ -86,10 +97,12 @@ pb	62	0066	4508823
 pb	63	0067	4508824
 pb	64	0068	4508825
 pb	65	0069	4508826
-entry	Céphalote		
+entry	Céphalote [P. Schützenberger]		
+orth	Céphalote		
 entry	Céphalotomie		
 ref	Craniotomie		
-entry	Céphalotripsie		
+entry	Céphalotripsie [Pajot]		
+orth	Céphalotripsie		
 pb	66	0070	4508827
 pb	67	0071	4508828
 pb	68	0072	4508829
@@ -111,14 +124,17 @@ entry	Cérasine
 ref	Adragantine		
 entry	Cérasite		
 ref	Prosgénite		
-entry	Céraste		
+entry	Céraste [A. Laboulbène]		
+orth	Céraste		
 pb	79	0083	4508840
 entry	Cérat		
-entry	Cérat. Pharmacologie		
+entry	Cérat. Pharmacologie [T. Gobley]		
+orth	Cérat. Pharmacologie		
 pb	80	0084	4508841
 pb	81	0085	4508842
 pb	82	0086	4508843
-entry	Cérat. Emploi thérapeutique		
+entry	Cérat. Emploi thérapeutique [G. Gillette]		
+orth	Cérat. Emploi thérapeutique		
 pb	83	0087	4508844
 pb	84	0088	4508845
 pb	85	0089	4508846
@@ -134,29 +150,38 @@ ref	Langue
 entry	Ceratonia		
 ref	Caroube		
 ref	Caroubier		
-entry	Cerbera		
-entry	Cercaires		
+entry	Cerbera [G. Planchon]		
+orth	Cerbera		
+entry	Cercaires [P.-J. Van Beneden]		
+orth	Cercaires		
 pb	91	0095	4508852
 entry	Cercle cilaire		
 ref	Ciliaires		
 entry	Cercomonas		
 ref	Monadiens		
-entry	Céréales (de Cérès)		
+entry	Céréales (de Cérès) [P. Coulier]		
+orth	Céréales (de Cérès)		
 pb	92	0096	4508853
 pb	93	0097	4508854
 pb	94	0098	4508855
 pb	95	0099	4508856
 pb	96	0100	4508857
-entry	Céréaline		
-entry	Cérébelleuses (Artères et Veines)		
+entry	Céréaline [Amédée Dechambre]		
+orth	Céréaline		
+entry	Cérébelleuses (Artères et Veines) [V. Paulet]		
+orth	Cérébelleuses (Artères et Veines)		
 pb	97	0101	4508858
-entry	Cérébrales (Artères et Veines)		
+entry	Cérébrales (Artères et Veines) [V. Paulet]		
+orth	Cérébrales (Artères et Veines)		
 pb	98	0102	4508859
 pb	99	0103	4508860
-entry	Cérébrine		
+entry	Cérébrine [P. Schützenberger]		
+orth	Cérébrine		
 pb	100	0104	4508861
-entry	Cérébrique (Acide)		
-entry	Cérébro-cardiaque (Névropathie)		
+entry	Cérébrique (Acide) [P. Schützenberger]		
+orth	Cérébrique (Acide)		
+entry	Cérébro-cardiaque (Névropathie) [Maurice Krishaber]		
+orth	Cérébro-cardiaque (Névropathie)		
 pb	101	0105	4508862
 pb	102	0106	4508863
 pb	103	0107	4508864
@@ -201,50 +226,75 @@ pb	[s. pag.]	0145	4508902
 pb	142	0146	4508903
 entry	Cérébro-spinal (Liquide)		
 ref	Céphalo-rachidien		
-entry	Céréléon		
-entry	Cerf		
+entry	Céréléon [F. Gobley]		
+orth	Céréléon		
+entry	Cerf [A. Laboulbène]		
+orth	Cerf		
 pb	143	0147	4508904
 pb	144	0148	4508905
 entry	Cerfeuil		
-entry	Cerfeuil. Botanique		
+entry	Cerfeuil. Botanique [G. Planchon]		
+orth	Cerfeuil. Botanique		
 pb	145	0149	4508906
-entry	Cerfeuil. Emploi médical		
+entry	Cerfeuil. Emploi médical [Fonssagrives]		
+orth	Cerfeuil. Emploi médical		
 pb	146	0150	4508907
-entry	Cérine		
-entry	Cérinthe		
+entry	Cérine [Malaguti]		
+orth	Cérine		
+entry	Cérinthe [G. Planchon]		
+orth	Cérinthe		
 pb	147	0151	4508908
-entry	Cérique (Acide)		
-entry	Cérise (Laurent-Alexandre-Philibert Cerisi, dit)		
-entry	Cerisier		
+entry	Cérique (Acide) [Malaguti]		
+orth	Cérique (Acide)		
+entry	Cérise (Laurent-Alexandre-Philibert Cerisi, dit) [H. Montanier]		
+orth	Cérise (Laurent-Alexandre-Philibert Cerisi, dit)		
+entry	Cerisier [G. Planchon]		
+orth	Cerisier		
 pb	148	0152	4508909
 pb	149	0153	4508910
 pb	150	0154	4508911
-entry	Cerises		
+entry	Cerises [Fonssagrives]		
+orth	Cerises		
 pb	151	0155	4508912
-entry	Cérium (Chimie)		
+entry	Cérium (Chimie) [C. Lutz]		
+orth	Cérium (Chimie)		
 pb	152	0156	4508913
-entry	Cerneau		
-entry	Cérocome		
+entry	Cerneau [Fonssagrives]		
+orth	Cerneau		
+entry	Cérocome [A. Laboulbène]		
+orth	Cérocome		
 pb	153	0157	4508914
-entry	Céroène, Cérouène ou Cirouène		
-entry	Céroléine		
-entry	Céromancie		
-entry	Céromel		
-entry	Céropegia		
-entry	Cérosie		
+entry	Céroène, Cérouène ou Cirouène [T. Gobley]		
+orth	Céroène, Cérouène ou Cirouène		
+entry	Céroléine [Malaguti]		
+orth	Céroléine		
+entry	Céromancie [Amédée Dechambre]		
+orth	Céromancie		
+entry	Céromel [F. Gobley]		
+orth	Céromel		
+entry	Céropegia [G. Planchon]		
+orth	Céropegia		
+entry	Cérosie [Malaguti]		
+orth	Cérosie		
 pb	154	0158	4508915
-entry	Cérosique (Acide)		
-entry	Cérotène		
-entry	Cérotique (Acide)		
+entry	Cérosique (Acide) [Malaguti]		
+orth	Cérosique (Acide)		
+entry	Cérotène [Malaguti]		
+orth	Cérotène		
+entry	Cérotique (Acide) [Malaguti]		
+orth	Cérotique (Acide)		
 entry	Céroxyline		
 ref	Céroxylon		
-entry	Céroxylon		
+entry	Céroxylon [G. Planchon]		
+orth	Céroxylon		
 pb	155	0159	4508916
 entry	Céruse, Cérusiers		
 ref	Plomb		
-entry	Cervaria		
+entry	Cervaria [G. Planchon]		
+orth	Cervaria		
 entry	Cerveau		
-entry	Cerveau. Anatomie, Physiologie		
+entry	Cerveau. Anatomie, Physiologie [Paul Berger]		
+orth	Cerveau. Anatomie, Physiologie		
 pb	156	0160	4508917
 pb	157	0161	4508918
 pb	158	0162	4508919
@@ -304,7 +354,8 @@ pb	211	0215	4508972
 pb	212	0216	4508973
 pb	213	0217	4508974
 pb	214	0218	4508975
-entry	Cerveau. Pathologie		
+entry	Cerveau. Pathologie [C. Potain]		
+orth	Cerveau. Pathologie		
 pb	215	0219	4508976
 pb	216	0220	4508977
 pb	217	0221	4508978
@@ -384,7 +435,8 @@ pb	290	0294	4509051
 pb	291	0295	4509052
 pb	292	0296	4509053
 pb	293	0297	4509054
-entry	Cerveau. Pathologie. Atrophie		
+entry	Cerveau. Pathologie. Atrophie [C. Potain]		
+orth	Cerveau. Pathologie. Atrophie		
 pb	294	0298	4509055
 pb	295	0299	4509056
 pb	296	0300	4509057
@@ -393,13 +445,15 @@ pb	298	0302	4509059
 pb	299	0303	4509060
 pb	300	0304	4509061
 pb	301	0305	4509062
-entry	Cerveau. Pathologie. Hypertrophie		
+entry	Cerveau. Pathologie. Hypertrophie [C. Potain]		
+orth	Cerveau. Pathologie. Hypertrophie		
 pb	302	0306	4509063
 pb	303	0307	4509064
 pb	304	0308	4509065
 pb	305	0309	4509066
 pb	306	0310	4509067
-entry	Cerveau. Pathologie. Anémie cérébrale		
+entry	Cerveau. Pathologie. Anémie cérébrale [C. Potain]		
+orth	Cerveau. Pathologie. Anémie cérébrale		
 pb	307	0311	4509068
 pb	308	0312	4509069
 pb	309	0313	4509070
@@ -416,7 +470,8 @@ pb	319	0323	4509080
 pb	320	0324	4509081
 pb	321	0325	4509082
 pb	322	0326	4509083
-entry	Cerveau. Pathologie. Hypérémie cérébrale		
+entry	Cerveau. Pathologie. Hypérémie cérébrale [C. Potain]		
+orth	Cerveau. Pathologie. Hypérémie cérébrale		
 pb	323	0327	4509084
 pb	324	0328	4509085
 pb	325	0329	4509086
@@ -433,18 +488,21 @@ pb	335	0339	4509096
 pb	336	0340	4509097
 pb	337	0341	4509098
 pb	338	0342	4509099
-entry	Cerveau. Pathologie. Sclérose		
+entry	Cerveau. Pathologie. Sclérose [C. Potain]		
+orth	Cerveau. Pathologie. Sclérose		
 pb	339	0343	4509100
 pb	340	0344	4509101
 pb	341	0345	4509102
 pb	342	0346	4509103
 pb	343	0347	4509104
-entry	Cerveau. Pathologie. Gangrène		
+entry	Cerveau. Pathologie. Gangrène [C. Potain]		
+orth	Cerveau. Pathologie. Gangrène		
 pb	344	0348	4509105
 pb	345	0349	4509106
 pb	346	0350	4509107
 entry	Cerveau. Pathologie		
-entry	Cerveau. Pathologie. Hémorrhagie		
+entry	Cerveau. Pathologie. Hémorrhagie [P. Brouardel]		
+orth	Cerveau. Pathologie. Hémorrhagie		
 pb	347	0351	4509108
 pb	348	0352	4509109
 pb	349	0353	4509110
@@ -499,7 +557,8 @@ pb	397	0401	4509158
 pb	398	0402	4509159
 pb	399	0403	4509160
 pb	400	0404	4509161
-entry	Cerveau. Pathologie. Ramollissement		
+entry	Cerveau. Pathologie. Ramollissement [J. Parrot]		
+orth	Cerveau. Pathologie. Ramollissement		
 pb	401	0405	4509162
 pb	402	0406	4509163
 pb	403	0407	4509164
@@ -531,7 +590,8 @@ pb	428	0432	4509189
 pb	429	0433	4509190
 pb	430	0434	4509191
 pb	431	0435	4509192
-entry	Cerveau. Pathologie. Tumeurs, Anévrysmes, Abcès		
+entry	Cerveau. Pathologie. Tumeurs, Anévrysmes, Abcès [B. Ball, Maurice Krishaber]		
+orth	Cerveau. Pathologie. Tumeurs, Anévrysmes, Abcès		
 pb	432	0436	4509193
 pb	433	0437	4509194
 pb	434	0438	4509195
@@ -608,7 +668,8 @@ pb	504	0508	4509265
 pb	505	0509	4509266
 pb	506	0510	4509267
 entry	Cervelet		
-entry	Cervelet. Anatomie		
+entry	Cervelet. Anatomie [Marc Sée]		
+orth	Cervelet. Anatomie		
 pb	507	0511	4509268
 pb	508	0512	4509269
 pb	509	0513	4509270
@@ -620,11 +681,13 @@ pb	514	0518	4509275
 entry	Cervelet		
 entry	Développement		
 ref	Encéphale		
-entry	Cervelet. Physiologie		
+entry	Cervelet. Physiologie [Leven]		
+orth	Cervelet. Physiologie		
 pb	515	0519	4509276
 pb	516	0520	4509277
 pb	517	0521	4509278
-entry	Cervelet. Pathologie		
+entry	Cervelet. Pathologie [Blachez]		
+orth	Cervelet. Pathologie		
 pb	518	0522	4509279
 pb	519	0523	4509280
 pb	520	0524	4509281
@@ -642,9 +705,11 @@ pb	531	0535	4509292
 pb	532	0536	4509293
 pb	533	0537	4509294
 pb	534	0538	4509295
-entry	Cervical (Ligament)		
+entry	Cervical (Ligament) [Albert Hénocque]		
+orth	Cervical (Ligament)		
 pb	535	0539	4509296
-entry	Cervical (Plexus)		
+entry	Cervical (Plexus) [Albert Hénocque]		
+orth	Cervical (Plexus)		
 pb	536	0540	4509297
 pb	537	0541	4509298
 pb	538	0542	4509299
@@ -654,9 +719,11 @@ ref	Cervical (plexus)
 entry	Cervical transverse (Nerf)		
 ref	Cervical (plexus)		
 pb	540	0544	4509301
-entry	Cervicales (Artères et Veines)		
+entry	Cervicales (Artères et Veines) [V. Paulet]		
+orth	Cervicales (Artères et Veines)		
 pb	541	0545	4509302
-entry	Cervicales (Paires)		
+entry	Cervicales (Paires) [Albert Hénocque]		
+orth	Cervicales (Paires)		
 pb	542	0546	4509303
 entry	Cervicales (Vertèbres)		
 ref	Rachis		
@@ -664,19 +731,25 @@ entry	Cervicaux (Ganglions lymphatiques)
 ref	Lymphatiques)		
 entry	Cervicaux (Ganglions nerveux)		
 ref	Symphatique (Nerf grand)		
-entry	Cérylique		
+entry	Cérylique [Malaguti]		
+orth	Cérylique		
 pb	543	0547	4509304
-entry	Césaire (Saint)		
-entry	Césalpino (André)		
+entry	Césaire (Saint) [A. Dureau]		
+orth	Césaire (Saint)		
+entry	Césalpino (André) [A. Chéreau]		
+orth	Césalpino (André)		
 pb	544	0548	4509305
 pb	545	0549	4509306
-entry	César (Julius)		
+entry	César (Julius) [A Dureau]		
+orth	César (Julius)		
 entry	Césarienne (Opération)		
 ref	Hystérotomie		
-entry	Césium		
+entry	Césium [Malaguti]		
+orth	Césium		
 pb	546	0550	4509307
 pb	547	0551	4509308
-entry	Cestoïdes (Les)		
+entry	Cestoïdes (Les) [C. Davaine]		
+orth	Cestoïdes (Les)		
 pb	548	0552	4509309
 pb	549	0553	4509310
 pb	550	0554	4509311
@@ -723,54 +796,72 @@ pb	590	0594	4509351
 pb	591	0595	4509352
 pb	592	0596	4509353
 pb	593	0597	4509354
-entry	Cestona (Eaux minérales de)		
+entry	Cestona (Eaux minérales de) [A. Rotureau]		
+orth	Cestona (Eaux minérales de)		
 pb	594	0598	4509355
 pb	595	0599	4509356
 pb	596	0600	4509357
-entry	Cestoni (Giacinto)		
+entry	Cestoni (Giacinto) [E. Beaugrand]		
+orth	Cestoni (Giacinto)		
 pb	597	0601	4509358
-entry	Cestreau		
+entry	Cestreau [G. Planchon]		
+orth	Cestreau		
 pb	598	0602	4509359
-entry	Cétacés		
+entry	Cétacés [P. Gervais]		
+orth	Cétacés		
 pb	599	0603	4509360
 pb	600	0604	4509361
 pb	601	0605	4509362
 pb	602	0606	4509363
 entry	Cétène		
 ref	Cétylène		
-entry	Céterach		
-entry	Cétine		
+entry	Céterach [G. Planchon]		
+orth	Céterach		
+entry	Cétine [Malaguti]		
+orth	Cétine		
 pb	603	0607	4509364
-entry	Cétique (Acide)		
-entry	Cétodontes		
-entry	Cétoine		
+entry	Cétique (Acide) [Malaguti]		
+orth	Cétique (Acide)		
+entry	Cétodontes [P. Gervais]		
+orth	Cétodontes		
+entry	Cétoine [P. Gervais]		
+orth	Cétoine		
 entry	Cétol		
 ref	Cétylique (Alcool)		
 entry	Cétraire		
-entry	Cétraire. Botanique		
+entry	Cétraire. Botanique [G. Planchon]		
+orth	Cétraire. Botanique		
 pb	604	0608	4509365
 entry	Emploi médical		
 ref	Lichen d'Islande		
 entry	Cétrarin, Cétrarine		
 ref	Cétrarique (acide)		
-entry	Cétrarique (Acide)		
+entry	Cétrarique (Acide) [Malaguti]		
+orth	Cétrarique (Acide)		
 pb	605	0609	4509366
-entry	Cette (Station marine de)		
+entry	Cette (Station marine de) [A. Rotureau]		
+orth	Cette (Station marine de)		
 pb	606	0610	4509367
-entry	Cétylates		
-entry	Cétylique (Alcool)		
+entry	Cétylates [Malaguti]		
+orth	Cétylates		
+entry	Cétylique (Alcool) [Malaguti]		
+orth	Cétylique (Alcool)		
 pb	607	0611	4509368
 entry	Cévadille		
-entry	Cévadille. Botanique		
+entry	Cévadille. Botanique [G. Planchon]		
+orth	Cévadille. Botanique		
 pb	608	0612	4509369
-entry	Cévadille. Pharmacologie		
+entry	Cévadille. Pharmacologie [J. Delioux de Savignac]		
+orth	Cévadille. Pharmacologie		
 pb	609	0613	4509370
-entry	Cévadille. Emploi médical		
+entry	Cévadille. Emploi médical [J. Delioux de Savignac]		
+orth	Cévadille. Emploi médical		
 pb	610	0614	4509371
 entry	Cévadique (Acide)		
 pb	611	0615	4509372
 entry	Ceylan		
-entry	Ceylan. Géographie médicale		
+entry	Ceylan. Géographie médicale [G. Liétard]		
+orth	Ceylan. Géographie médicale		
 pb	612	0616	4509373
 pb	613	0617	4509374
 pb	614	0618	4509375
@@ -784,43 +875,60 @@ pb	621	0625	4509382
 pb	622	0626	4509383
 pb	623	0627	4509384
 pb	624	0628	4509385
-entry	Ceylan. Pathologie		
+entry	Ceylan. Pathologie [A. Le Roy de Méricourt]		
+orth	Ceylan. Pathologie		
 pb	625	0629	4509386
 pb	626	0630	4509387
+entry	Ceylan. Pathologie [A. Le Roy de Méricourt] [G. Liétard]		
+orth	Ceylan. Pathologie		
 pb	627	0631	4509388
 entry	Chaab		
 ref	Chavica		
-entry	Chabert (Les)		
+entry	Chabert (Les) [E. Beaugrand]		
+orth	Chabert (Les)		
 pb	628	0632	4509389
-entry	Chabetout (Eaux minérales de)		
+entry	Chabetout (Eaux minérales de) [A. Rotureau]		
+orth	Chabetout (Eaux minérales de)		
 pb	629	0633	4509390
-entry	Chabodie (David)		
-entry	Chabrée (Dominique)		
-entry	Chabrely (Bernard-Auguste)		
+entry	Chabodie (David) [A. Dureau]		
+orth	Chabodie (David)		
+entry	Chabrée (Dominique) [A. Dureau]		
+orth	Chabrée (Dominique)		
+entry	Chabrely (Bernard-Auguste) [E. Beaugrand]		
+orth	Chabrely (Bernard-Auguste)		
 pb	630	0634	4509391
-entry	Chabrol (Matthieu)		
-entry	Chachaca		
-entry	Chacal		
+entry	Chabrol (Matthieu) [A. Dureau]		
+orth	Chabrol (Matthieu)		
+entry	Chachaca [Amédée Dechambre]		
+orth	Chachaca		
+entry	Chacal [P. Gervais]		
+orth	Chacal		
 pb	631	0635	4509392
 entry	Chach		
 ref	Kakii		
-entry	Chacon (Diego Alvarez)		
+entry	Chacon (Diego Alvarez) [E. Beaugrand]		
+orth	Chacon (Diego Alvarez)		
 entry	Chaerophyllum		
 ref	Cerfeuil		
 entry	Chaerophylline		
-entry	Chailletia		
-entry	Chaillou (Jacques)		
+entry	Chailletia [G. Planchon]		
+orth	Chailletia		
+entry	Chaillou (Jacques) [A. Chéreau]		
+orth	Chaillou (Jacques)		
 pb	632	0636	4509393
-entry	Chailly-Honoré (Nicolas-Charles)		
+entry	Chailly-Honoré (Nicolas-Charles) [H. Montanier]		
+orth	Chailly-Honoré (Nicolas-Charles)		
 entry	Chaine électrique		
 ref	Électrothéraphie		
 entry	Chaire de poule		
 ref	Frisson		
 ref	Frissonnement		
-entry	Chala		
+entry	Chala [G. Planchon]		
+orth	Chala		
 entry	Chalasie		
 pb	633	0637	4509394
-entry	Chalazion		
+entry	Chalazion [E. Warlomont]		
+orth	Chalazion		
 pb	634	0638	4509395
 pb	635	0639	4509396
 pb	636	0640	4509397
@@ -832,8 +940,10 @@ pb	641	0645	4509402
 entry	Chaldéens ou Chardims		
 ref	Sémitique (race)		
 ref	Kurdistan		
-entry	Chaldette (Eau minérale de), ou La Chaldette		
-entry	Chaleur (Physique)		
+entry	Chaldette (Eau minérale de), ou La Chaldette [A. Rotureau]		
+orth	Chaldette (Eau minérale de), ou La Chaldette		
+entry	Chaleur (Physique) [Gavarret]		
+orth	Chaleur (Physique)		
 pb	642	0646	4509403
 pb	643	0647	4509404
 pb	644	0648	4509405

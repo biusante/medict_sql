@@ -1,29 +1,36 @@
 pb	[s. pag.]	0001	4581429
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4581430
 pb	[s. pag.]	0003	4581431
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4581432
 pb	1	0005	4581433
-entry	Radiaux (Muscles)		
+entry	Radiaux (Muscles) [Samuel Pozzi]		
+orth	Radiaux (Muscles)		
 pb	2	0006	4581434
 pb	3	0007	4581435
 pb	4	0008	4581436
 pb	5	0009	4581437
 pb	6	0010	4581438
 pb	7	0011	4581439
-entry	Radical (Chimie)		
+entry	Radical (Chimie) [C. Lutz]		
+orth	Radical (Chimie)		
 pb	8	0012	4581440
 pb	9	0013	4581441
 pb	10	0014	4581442
-entry	Radiées		
+entry	Radiées [G. Planchon]		
+orth	Radiées		
 entry	Radio-Carpienne (Articulation)		
 ref	Poignet		
 pb	11	0015	4581443
 entry	Radio-Cubitales (Articulations)		
-entry	Radio-Cubitales (Articulations). Anatomie		
+entry	Radio-Cubitales (Articulations). Anatomie [Samuel Pozzi]		
+orth	Radio-Cubitales (Articulations). Anatomie		
 pb	12	0016	4581444
 pb	13	0017	4581445
 pb	14	0018	4581446
-entry	Radio-Cubitales (Articulations). Physiologie		
+entry	Radio-Cubitales (Articulations). Physiologie [Samuel Pozzi]		
+orth	Radio-Cubitales (Articulations). Physiologie		
 pb	15	0019	4581447
 pb	16	0020	4581448
 pb	17	0021	4581449
@@ -35,39 +42,51 @@ pb	22	0026	4581454
 pb	23	0027	4581455
 entry	Radio-humérale (Articulation)		
 ref	Coude		
-entry	Radiolaires		
+entry	Radiolaires [Paul Gervais]		
+orth	Radiolaires		
 entry	Radio-Palmaire (Artère)		
 ref	Main		
 entry	Radis		
-entry	Radis. Botanique		
+entry	Radis. Botanique [H. Baillon]		
+orth	Radis. Botanique		
 pb	24	0028	4581456
-entry	Emploi		
-entry	Radius		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
+entry	Radius [Samuel Pozzi]		
+orth	Radius		
 pb	25	0029	4581457
-entry	Radius. Anatomie		
+entry	Radius. Anatomie [Samuel Pozzi]		
+orth	Radius. Anatomie		
 pb	26	0030	4581458
 pb	27	0031	4581459
-entry	Radius. Anatomie comparée		
+entry	Radius. Anatomie comparée [Samuel Pozzi]		
+orth	Radius. Anatomie comparée		
 pb	28	0032	4581460
 pb	29	0033	4581461
 entry	Développement		
 ref	Membres		
-entry	Radius. Pathologie		
+entry	Radius. Pathologie [Samuel Pozzi]		
+orth	Radius. Pathologie		
 pb	30	0034	4581462
 pb	31	0035	4581463
 pb	32	0036	4581464
 pb	33	0037	4581465
 pb	34	0038	4581466
-entry	Radulum		
-entry	Rae-Suna		
-entry	Raffeneau-Delille (Alire)		
+entry	Radulum [Jacques Bertillon]		
+orth	Radulum		
+entry	Rae-Suna [Amédée Dechambre]		
+orth	Rae-Suna		
+entry	Raffeneau-Delille (Alire) [A. Dureau]		
+orth	Raffeneau-Delille (Alire)		
 entry	Raffineries		
 ref	Sucreries		
-entry	Rafraichissants		
+entry	Rafraichissants [Amédée Dechambre]		
+orth	Rafraichissants		
 pb	35	0039	4581467
 entry	Ragaz (Eau minérale de)		
 ref	Hof-Ragaz		
-entry	Rage		
+entry	Rage [H. Bouley]		
+orth	Rage		
 pb	36	0040	4581468
 pb	37	0041	4581469
 pb	38	0042	4581470
@@ -218,7 +237,8 @@ pb	182	0186	4581614
 pb	183	0187	4581615
 pb	184	0188	4581616
 pb	185	0189	4581617
-entry	Rage chez l'homme		
+entry	Rage chez l'homme [P. Brouardel]		
+orth	Rage chez l'homme		
 pb	186	0190	4581618
 pb	187	0191	4581619
 pb	188	0192	4581620
@@ -275,56 +295,76 @@ pb	238	0242	4581670
 pb	239	0243	4581671
 pb	240	0244	4581672
 pb	241	0245	4581673
+entry	Rage chez l'homme [P. Brouardel] [H. B.]		
+orth	Rage chez l'homme		
 pb	242	0246	4581674
 pb	243	0247	4581675
 pb	244	0248	4581676
 pb	245	0249	4581677
 pb	246	0250	4581678
-entry	Raggi (Joseph)		
-entry	Ragle		
+entry	Raggi (Joseph) [A. Chéreau]		
+orth	Raggi (Joseph)		
+entry	Ragle [Léon Colin]		
+orth	Ragle		
 pb	247	0251	4581679
 pb	248	0252	4581680
 pb	249	0253	4581681
 pb	250	0254	4581682
 pb	251	0255	4581683
-entry	Rahn (Jean-Conrad)		
-entry	Rahn (Joh.-Heinr.)		
-entry	Raicilla		
+entry	Rahn (Jean-Conrad) [A. Dureau]		
+orth	Rahn (Jean-Conrad)		
+entry	Rahn (Joh.-Heinr.) [E. Beaugrand]		
+orth	Rahn (Joh.-Heinr.)		
+entry	Raicilla [G. Planchon]		
+orth	Raicilla		
 pb	252	0256	4581684
-entry	Raie		
+entry	Raie [A. Laboulbène]		
+orth	Raie		
 pb	253	0257	4581685
 pb	254	0258	4581686
 pb	255	0259	4581687
 entry	Raifort		
-entry	Botanique		
-entry	Raifort. Emploi médical		
+entry	Botanique [H. Baillon]		
+orth	Botanique		
+entry	Raifort. Emploi médical [A. Bordier]		
+orth	Raifort. Emploi médical		
 pb	256	0260	4581688
 entry	Rai Grass		
 ref	Ray Grass		
-entry	Raikem (Ant.-François-Jos)		
+entry	Raikem (Ant.-François-Jos) [E. Beaugrand]		
+orth	Raikem (Ant.-François-Jos)		
 pb	257	0261	4581689
-entry	Raimann (Johann-Nepomuk, de)		
+entry	Raimann (Johann-Nepomuk, de) [E. Beaugrand]		
+orth	Raimann (Johann-Nepomuk, de)		
 pb	258	0262	4581690
 entry	Raimond de Vinardio		
 ref	Chalin		
-entry	Rainette (Hyla)		
+entry	Rainette (Hyla) [Paul Gervais]		
+orth	Rainette (Hyla)		
 pb	259	0263	4581691
-entry	Raiponce		
-entry	Rais, Raiz, Ray		
-entry	Raisin (Cure de)		
+entry	Raiponce [H. Baillon]		
+orth	Raiponce		
+entry	Rais, Raiz, Ray [H. Baillon]		
+orth	Rais, Raiz, Ray		
+entry	Raisin (Cure de) [A. Rotureau]		
+orth	Raisin (Cure de)		
 pb	260	0264	4581692
 pb	261	0265	4581693
 pb	262	0266	4581694
 pb	263	0267	4581695
 pb	264	0268	4581696
 pb	265	0269	4581697
-entry	Raisins purgatifs		
-entry	Raisinier		
+entry	Raisins purgatifs [Amédée Dechambre]		
+orth	Raisins purgatifs		
+entry	Raisinier [G. Planchon]		
+orth	Raisinier		
 entry	Raiz		
 ref	Rais		
-entry	Rale		
+entry	Rale [Paul Gervais]		
+orth	Rale		
 pb	266	0270	4581698
-entry	Rales		
+entry	Rales [Henri Barth, Henri Roger]		
+orth	Rales		
 pb	267	0271	4581699
 pb	268	0272	4581700
 pb	269	0273	4581701
@@ -335,12 +375,16 @@ pb	273	0277	4581705
 pb	274	0278	4581706
 pb	275	0279	4581707
 pb	276	0280	4581708
-entry	Ramaline		
-entry	Ramazzini (Bernardino)		
+entry	Ramaline [J. De Seynes]		
+orth	Ramaline		
+entry	Ramazzini (Bernardino) [A. Chéreau]		
+orth	Ramazzini (Bernardino)		
 pb	277	0281	4581709
 pb	278	0282	4581710
-entry	Rambaud (Jean-Charles de)		
-entry	Ramollissement		
+entry	Rambaud (Jean-Charles de) [A. Dureau]		
+orth	Rambaud (Jean-Charles de)		
+entry	Ramollissement [V. Cornil]		
+orth	Ramollissement		
 pb	279	0283	4581711
 pb	280	0284	4581712
 pb	281	0285	4581713
@@ -357,26 +401,37 @@ pb	291	0295	4581723
 pb	292	0296	4581724
 entry	Rampes de l'oreille		
 ref	Oreille		
-entry	Rampulla (Ange-Marie)		
-entry	Ramsbotham (Les)		
+entry	Rampulla (Ange-Marie) [A. Dureau]		
+orth	Rampulla (Ange-Marie)		
+entry	Ramsbotham (Les) [E. Beaugrand]		
+orth	Ramsbotham (Les)		
 pb	293	0297	4581725
-entry	Ramsgate (Station marine de)		
-entry	Ranchin (François)		
+entry	Ramsgate (Station marine de) [A. Rotureau]		
+orth	Ramsgate (Station marine de)		
+entry	Ranchin (François) [E. Beaugrand]		
+orth	Ranchin (François)		
 pb	294	0298	4581726
-entry	Rançon (Eau minérale de)		
+entry	Rançon (Eau minérale de) [A. Rotureau]		
+orth	Rançon (Eau minérale de)		
 pb	295	0299	4581727
-entry	Randia		
+entry	Randia [G. Planchon]		
+orth	Randia		
 entry	Ranines (Artères et veines)		
 ref	Linguales		
-entry	Ranque (Hugues-Félix)		
+entry	Ranque (Hugues-Félix) [E. Beaugrand]		
+orth	Ranque (Hugues-Félix)		
 pb	296	0300	4581728
 entry	Ranunculus		
 ref	Renoncule		
-entry	Rapaert (François)		
-entry	Rapaces		
+entry	Rapaert (François) [E. Beaugrand]		
+orth	Rapaert (François)		
+entry	Rapaces [Paul Gervais]		
+orth	Rapaces		
 pb	297	0301	4581729
-entry	Rape (Bruit de)		
-entry	Raphanie		
+entry	Rape (Bruit de) [Amédée Dechambre]		
+orth	Rape (Bruit de)		
+entry	Raphanie [Léon Colin]		
+orth	Raphanie		
 pb	298	0302	4581730
 pb	299	0303	4581731
 pb	300	0304	4581732
@@ -409,9 +464,11 @@ entry	Raphanus
 ref	Radis		
 entry	Rapistrum		
 ref	Caméline		
-entry	Rapou (Toussaint)		
+entry	Rapou (Toussaint) [E. Beaugrand]		
+orth	Rapou (Toussaint)		
 pb	324	0328	4581756
-entry	Rapports (Médecine légale, Hygiène publique)		
+entry	Rapports (Médecine légale, Hygiène publique) [G. Tourdes]		
+orth	Rapports (Médecine légale, Hygiène publique)		
 pb	325	0329	4581757
 pb	326	0330	4581758
 pb	327	0331	4581759
@@ -440,12 +497,16 @@ pb	349	0353	4581781
 pb	350	0354	4581782
 pb	351	0355	4581783
 pb	352	0356	4581784
-entry	Raquette		
-entry	Rasario (Jean-Baptiste)		
+entry	Raquette [H. Baillon]		
+orth	Raquette		
+entry	Rasario (Jean-Baptiste) [A. Chéreau]		
+orth	Rasario (Jean-Baptiste)		
 pb	353	0357	4581785
-entry	Raschig (Chrétien-Eusèbe)		
+entry	Raschig (Chrétien-Eusèbe) [A. Chéreau]		
+orth	Raschig (Chrétien-Eusèbe)		
 pb	354	0358	4581786
-entry	Rash		
+entry	Rash [A. Legroux]		
+orth	Rash		
 pb	355	0359	4581787
 pb	356	0360	4581788
 pb	357	0361	4581789
@@ -457,26 +518,36 @@ pb	362	0366	4581794
 pb	363	0367	4581795
 pb	364	0368	4581796
 pb	365	0369	4581797
-entry	Rasion		
-entry	Rasori (Giovanni)		
+entry	Rasion [Amédée Dechambre]		
+orth	Rasion		
+entry	Rasori (Giovanni) [E. Beaugrand]		
+orth	Rasori (Giovanni)		
 pb	366	0370	4581798
 pb	367	0371	4581799
-entry	Rasot		
-entry	Rasse Coronde		
-entry	Rast-Maupas (Jean-Baptiste-Antoine)		
-entry	Rat		
+entry	Rasot [Amédée Dechambre]		
+orth	Rasot		
+entry	Rasse Coronde [G. Planchon]		
+orth	Rasse Coronde		
+entry	Rast-Maupas (Jean-Baptiste-Antoine) [A. Dureau]		
+orth	Rast-Maupas (Jean-Baptiste-Antoine)		
+entry	Rat [Paul Gervais]		
+orth	Rat		
 pb	368	0372	4581800
-entry	Ratafias		
+entry	Ratafias [Amédée Dechambre]		
+orth	Ratafias		
 pb	369	0373	4581801
 entry	Ratanhia		
-entry	Ratanhia. Botanique		
+entry	Ratanhia. Botanique [H. Baillon]		
+orth	Ratanhia. Botanique		
 pb	370	0374	4581802
 pb	371	0375	4581803
-entry	Ratanhia. Pharmacologie		
+entry	Ratanhia. Pharmacologie [J. Delioux de Savignac]		
+orth	Ratanhia. Pharmacologie		
 pb	372	0376	4581804
 pb	373	0377	4581805
 pb	374	0378	4581806
-entry	Ratanhia. Emploi médical		
+entry	Ratanhia. Emploi médical [J. Delioux de Savignac]		
+orth	Ratanhia. Emploi médical		
 pb	375	0379	4581807
 pb	376	0380	4581808
 pb	377	0381	4581809
@@ -486,7 +557,8 @@ pb	380	0384	4581812
 entry	Ratanhine		
 ref	Ratanhia		
 entry	Rate		
-entry	Rate. Anatomie descriptive de la rate		
+entry	Rate. Anatomie descriptive de la rate [Ch. Legros, Ch. Robin]		
+orth	Rate. Anatomie descriptive de la rate		
 pb	381	0385	4581813
 pb	382	0386	4581814
 pb	383	0387	4581815
@@ -515,11 +587,13 @@ pb	405	0409	4581837
 pb	406	0410	4581838
 pb	407	0411	4581839
 pb	408	0412	4581840
-entry	Rate. Développement de la rate		
+entry	Rate. Développement de la rate [Ch. Robin]		
+orth	Rate. Développement de la rate		
 pb	409	0413	4581841
 pb	410	0414	4581842
 pb	411	0415	4581843
-entry	Rate. Physiologie		
+entry	Rate. Physiologie [Ch. Robin]		
+orth	Rate. Physiologie		
 pb	412	0416	4581844
 pb	413	0417	4581845
 pb	414	0418	4581846
@@ -548,7 +622,8 @@ pb	436	0440	4581868
 pb	437	0441	4581869
 pb	438	0442	4581870
 entry	Rate		
-entry	Rate. Pathologie		
+entry	Rate. Pathologie [Ernest Besnier]		
+orth	Rate. Pathologie		
 pb	439	0443	4581871
 pb	440	0444	4581872
 pb	441	0445	4581873
@@ -679,52 +754,80 @@ pb	565	0569	4581997
 pb	566	0570	4581998
 pb	567	0571	4581999
 pb	568	0572	4582000
-entry	Rathanine		
-entry	Rathlauw (Jean-Pierre)		
+entry	Rathanine [Amédée Dechambre]		
+orth	Rathanine		
+entry	Rathlauw (Jean-Pierre) [A. Chéreau]		
+orth	Rathlauw (Jean-Pierre)		
 pb	569	0573	4582001
-entry	Ratier (Félix-Séverin)		
+entry	Ratier (Félix-Séverin) [E. Beaugrand]		
+orth	Ratier (Félix-Séverin)		
 pb	570	0574	4582002
-entry	Ratoncule		
-entry	Ratte (Étienne-Hyacinthe de)		
+entry	Ratier (Félix-Séverin) [E. Beaugrand] [G. Planchon]		
+orth	Ratier (Félix-Séverin)		
+entry	Ratoncule [G. Planchon]		
+orth	Ratoncule		
+entry	Ratte (Étienne-Hyacinthe de) [A. Chéreau]		
+orth	Ratte (Étienne-Hyacinthe de)		
 pb	571	0575	4582003
-entry	Rau (Jean-Jacques)		
-entry	Raulin (Joseph)		
+entry	Rau (Jean-Jacques) [A. Chéreau]		
+orth	Rau (Jean-Jacques)		
+entry	Raulin (Joseph) [A. Chéreau]		
+orth	Raulin (Joseph)		
 pb	572	0576	4582004
-entry	Rauwolf (Léonard)		
+entry	Rauwolf (Léonard) [A. Dureau]		
+orth	Rauwolf (Léonard)		
 pb	573	0577	4582005
-entry	Rauwolfia		
-entry	Ravaton (Hugues)		
+entry	Rauwolf (Léonard) [A. Dureau] [G. Planchon]		
+orth	Rauwolf (Léonard)		
+entry	Rauwolfia [G. Planchon]		
+orth	Rauwolfia		
+entry	Ravaton (Hugues) [A. Dureau]		
+orth	Ravaton (Hugues)		
 pb	574	0578	4582006
-entry	Rave		
-entry	Ravenala		
+entry	Rave [G. Planchon]		
+orth	Rave		
+entry	Ravenala [G. Planchon]		
+orth	Ravenala		
 entry	Ravenelle		
 ref	Radis		
 ref	Cheirantus		
-entry	Ravensara		
+entry	Ravensara [G. Planchon]		
+orth	Ravensara		
 pb	575	0579	4582007
+entry	Ravensara [G. Planchon] [A. Dureau]		
+orth	Ravensara		
 entry	Raw (Apophyse grêle de)		
 ref	Oreille interne		
-entry	Rawson (William-Adams)		
+entry	Rawson (William-Adams) [A. Dureau]		
+orth	Rawson (William-Adams)		
 pb	576	0580	4582008
-entry	Ray		
-entry	Rayer (Pierre-François-Olive) 		
+entry	Ray [E. Beaugrand]		
+orth	Ray		
+entry	Rayer (Pierre-François-Olive) [A. Chéreau] 		
+orth	Rayer (Pierre-François-Olive) 		
 pb	577	0581	4582009
 pb	578	0582	4582010
-entry	Rayer (Pierre-François-Olive)		
+entry	Rayer (Pierre-François-Olive) [A. Chéreau]		
+orth	Rayer (Pierre-François-Olive)		
 pb	579	0583	4582011
 entry	Ray-grass		
 ref	Ivraie		
-entry	Raymond (Les)		
+entry	Raymond (Les) [A. Chéreau]		
+orth	Raymond (Les)		
 pb	580	0584	4582012
 entry	Rayons		
 ref	Radiations		
-entry	Razès (Abou-Bekr-Mohammed-den-Zakarya-Errazy)		
+entry	Razès (Abou-Bekr-Mohammed-den-Zakarya-Errazy) [L. Leclerc]		
+orth	Razès (Abou-Bekr-Mohammed-den-Zakarya-Errazy)		
 pb	581	0585	4582013
 pb	582	0586	4582014
 pb	583	0587	4582015
-entry	Razoux (Jean)		
-entry	Re (Jean-François)		
-entry	Réaction		
+entry	Razoux (Jean) [A. Dureau]		
+orth	Razoux (Jean)		
+entry	Re (Jean-François) [A. Dureau]		
+orth	Re (Jean-François)		
+entry	Réaction [H. Bernheim]		
+orth	Réaction		
 pb	584	0588	4582016
 pb	585	0589	4582017
 pb	586	0590	4582018
@@ -732,41 +835,58 @@ pb	587	0591	4582019
 pb	588	0592	4582020
 pb	589	0593	4582021
 pb	590	0594	4582022
-entry	Read (Les)		
+entry	Read (Les) [E. Beaugrand]		
+orth	Read (Les)		
 pb	591	0595	4582023
-entry	Réadique (Acide)		
+entry	Réadique (Acide) [L.]		
+orth	Réadique (Acide)		
 entry	Réalgar		
 ref	Arsenic		
-entry	Réaumur (Réné-Antoine Ferchault de)		
+entry	Réaumur (Réné-Antoine Ferchault de) [A. Chéreau]		
+orth	Réaumur (Réné-Antoine Ferchault de)		
 pb	592	0596	4582024
 pb	593	0597	4582025
-entry	Reaumuria		
-entry	Rebecque (Jacques-Constant de)		
+entry	Reaumuria [G. Planchon]		
+orth	Reaumuria		
+entry	Rebecque (Jacques-Constant de) [A. Chéreau]		
+orth	Rebecque (Jacques-Constant de)		
 pb	594	0598	4582026
-entry	Recaire (Eau minérale de)		
-entry	Recalcus (Jules)		
-entry	Récamier (Caustique)		
-entry	Récamier (Joseph-Claude-Anthelme)		
+entry	Recaire (Eau minérale de) [A. Rotureau]		
+orth	Recaire (Eau minérale de)		
+entry	Recalcus (Jules) [A. Dureau]		
+orth	Recalcus (Jules)		
+entry	Récamier (Caustique) [Amédée Dechambre]		
+orth	Récamier (Caustique)		
+entry	Récamier (Joseph-Claude-Anthelme) [A. Chéreau]		
+orth	Récamier (Joseph-Claude-Anthelme)		
 pb	595	0599	4582027
 pb	596	0600	4582028
 pb	597	0601	4582029
-entry	Recchi (Nardo-Antonio)		
+entry	Recchi (Nardo-Antonio) [E. Beaugrand]		
+orth	Recchi (Nardo-Antonio)		
 pb	598	0602	4582030
 entry	Recessus cochléaris		
 ref	Oreille interne		
-entry	Rech (André-Pamphile-Hippolyte)		
+entry	Rech (André-Pamphile-Hippolyte) [E. Beaugrand]		
+orth	Rech (André-Pamphile-Hippolyte)		
 entry	Réchaud		
 ref	Chauffage		
-entry	Réchideddin (Les deux)		
-entry	Réchideddin (les deux)		
+entry	Réchideddin (Les deux) [L. Leclerc]		
+orth	Réchideddin (Les deux)		
+entry	Réchideddin (les deux) [L. Leclerc]		
+orth	Réchideddin (les deux)		
 pb	599	0603	4582031
-entry	Réchideddin (les deux) 		
+entry	Réchideddin (les deux) [L. Leclerc] 		
+orth	Réchideddin (les deux) 		
 pb	600	0604	4582032
-entry	Réchideddin (les deux)		
+entry	Réchideddin (les deux) [L. Leclerc]		
+orth	Réchideddin (les deux)		
 entry	Rechute (Fièvre)		
 ref	Relapsing fevers		
-entry	Récipient florentin		
-entry	Recoaro (Eaux minérales de)		
+entry	Récipient florentin [T. Gobley]		
+orth	Récipient florentin		
+entry	Recoaro (Eaux minérales de) [A. Rotureau]		
+orth	Recoaro (Eaux minérales de)		
 pb	601	0605	4582033
 pb	602	0606	4582034
 pb	603	0607	4582035
@@ -774,7 +894,8 @@ pb	604	0608	4582036
 pb	605	0609	4582037
 pb	606	0610	4582038
 pb	607	0611	4582039
-entry	Reconstituants		
+entry	Reconstituants [Ernest Labbée]		
+orth	Reconstituants		
 pb	608	0612	4582040
 pb	609	0613	4582041
 pb	610	0614	4582042
@@ -790,9 +911,11 @@ pb	619	0623	4582051
 pb	620	0624	4582052
 pb	621	0625	4582053
 pb	622	0626	4582054
-entry	Recorde (Robert)		
+entry	Recorde (Robert) [A. Dureau]		
+orth	Recorde (Robert)		
 pb	623	0627	4582055
-entry	Recrutement		
+entry	Recrutement [C. Ely]		
+orth	Recrutement		
 pb	624	0628	4582056
 pb	625	0629	4582057
 pb	626	0630	4582058
@@ -833,14 +956,18 @@ pb	660	0664	4582092
 pb	661	0665	4582093
 pb	662	0666	4582094
 pb	663	0667	4582095
-entry	Rectification		
-entry	Rectotomes		
+entry	Rectification [T. Gobley]		
+orth	Rectification		
+entry	Rectotomes [Amédée Dechambre]		
+orth	Rectotomes		
 entry	Recto-vaginales (Fistules)		
 ref	Rectum		
 entry	Recto-vésicales (Fistules)		
 ref	Urinaires fistules		
-entry	Rectum		
-entry	Rectum. Anatomie		
+entry	Rectum [E. Delens]		
+orth	Rectum		
+entry	Rectum. Anatomie [E. Delens]		
+orth	Rectum. Anatomie		
 pb	664	0668	4582096
 pb	665	0669	4582097
 pb	666	0670	4582098
@@ -855,11 +982,13 @@ pb	674	0678	4582106
 pb	675	0679	4582107
 entry	Développement		
 ref	Intestins		
-entry	Rectum. Physiologie		
+entry	Rectum. Physiologie [E. Delens]		
+orth	Rectum. Physiologie		
 pb	676	0680	4582108
 pb	677	0681	4582109
 pb	678	0682	4582110
-entry	Rectum. Pathologie médicale		
+entry	Rectum. Pathologie médicale [Emile Vidal]		
+orth	Rectum. Pathologie médicale		
 pb	579	0683	4582111
 pb	680	0684	4582112
 pb	681	0685	4582113
@@ -872,7 +1001,8 @@ pb	687	0691	4582119
 pb	688	0692	4582120
 pb	689	0693	4582121
 pb	690	0694	4582122
-entry	Rectum. Pathologie chirurgicale		
+entry	Rectum. Pathologie chirurgicale [U. Trélat, E. Delens]		
+orth	Rectum. Pathologie chirurgicale		
 pb	691	0695	4582123
 pb	692	0696	4582124
 pb	693	0697	4582125
@@ -963,9 +1093,11 @@ pb	770	0774	4582202
 entry	Récurrentes radiales (Artères)		
 ref	Radiale		
 ref	Cubitale (artères)		
-entry	Redi (Francesco)		
+entry	Redi (Francesco) [E. Beaugrand]		
+orth	Redi (Francesco)		
 pb	771	0775	4582203
-entry	Redoul ou Redon		
+entry	Redoul ou Redon [G. Planchon]		
+orth	Redoul ou Redon		
 pb	[s. pag.]	0776	4582204
 pb	773	0777	4582205
 entry	Articles contenus dans le deuxième volume (3e série)		

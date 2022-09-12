@@ -1,11 +1,16 @@
 pb	[s. pag.]	0001	4514470
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4514471
 pb	[s. pag.]	0003	4514472
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4514473
 pb	1	0005	4514474
-entry	Coryphodon		
-entry	Coryza		
-entry	Coryza. Pathologie		
+entry	Coryphodon [Amédée Dechambre]		
+orth	Coryphodon		
+entry	Coryza [B. Brochin]		
+orth	Coryza		
+entry	Coryza. Pathologie [B. Brochin]		
+orth	Coryza. Pathologie		
 pb	2	0006	4514475
 pb	3	0007	4514476
 pb	4	0008	4514477
@@ -21,15 +26,19 @@ pb	13	0017	4514486
 pb	14	0018	4514487
 pb	15	0019	4514488
 pb	16	0020	4514489
-entry	Coryza. Thérapeutique		
+entry	Coryza. Thérapeutique [B. Brochin]		
+orth	Coryza. Thérapeutique		
 pb	17	0021	4514490
 pb	18	0022	4514491
 pb	19	0023	4514492
 pb	20	0024	4514493
 pb	21	0025	4514494
-entry	Coschwitz (Georges-Daniel)		
-entry	Coscinomancie		
-entry	Cosmétique		
+entry	Coschwitz (Georges-Daniel) [A. Dureau]		
+orth	Coschwitz (Georges-Daniel)		
+entry	Coscinomancie [Amédée Dechambre]		
+orth	Coscinomancie		
+entry	Cosmétique [P. Coulier]		
+orth	Cosmétique		
 pb	22	0026	4514495
 pb	23	0027	4514496
 pb	24	0028	4514497
@@ -39,39 +48,56 @@ pb	27	0031	4514500
 pb	28	0032	4514501
 pb	29	0033	4514502
 pb	30	0034	4514503
-entry	Cosmibuena		
-entry	Costa (Cristovalda)		
+entry	Cosmibuena [G. Planchon]		
+orth	Cosmibuena		
+entry	Costa (Cristovalda) [E. Beaugrand]		
+orth	Costa (Cristovalda)		
 pb	31	0035	4514504
-entry	Costa ben Luca		
+entry	Costa ben Luca [L. Leclerc]		
+orth	Costa ben Luca		
 entry	Costa-Rica		
 ref	Centre-Amérique		
-entry	Costa-Sicre (Laur.-François-Raphaël)		
+entry	Costa-Sicre (Laur.-François-Raphaël) [E. Beaugrand]		
+orth	Costa-Sicre (Laur.-François-Raphaël)		
 pb	32	0036	4514505
-entry	Costallat (Arnault)		
-entry	Coste (Les)		
+entry	Costallat (Arnault) [E. Beaugrand]		
+orth	Costallat (Arnault)		
+entry	Coste (Les) [E. Beaugrand]		
+orth	Coste (Les)		
 pb	33	0037	4514506
 pb	34	0038	4514507
-entry	Costello (William-B.)		
+entry	Costello (William-B.) [L. Hahn]		
+orth	Costello (William-B.)		
 pb	35	0039	4514508
-entry	Costeo ou Costoeus (Jean)		
-entry	Coster (Jacques)		
+entry	Costeo ou Costoeus (Jean) [A. Chéreau]		
+orth	Costeo ou Costoeus (Jean)		
+entry	Coster (Jacques) [E. Beaugrand]		
+orth	Coster (Jacques)		
 pb	36	0040	4514509
-entry	Costo-claviculaire (Ligament)		
+entry	Costo-claviculaire (Ligament) [Amédée Dechambre]		
+orth	Costo-claviculaire (Ligament)		
 entry	Costo-sternales (Articulations)		
 ref	Côtes		
 entry	Costo-vertébrales (Articulations)		
 ref	Côtes		
-entry	Costo-xiphoïdien (Ligament)		
-entry	Costus		
+entry	Costo-xiphoïdien (Ligament) [Amédée Dechambre]		
+orth	Costo-xiphoïdien (Ligament)		
+entry	Costus [G. Planchon]		
+orth	Costus		
 pb	37	0041	4514510
-entry	Costus (Racine de)		
+entry	Costus (Racine de) [G. Planchon]		
+orth	Costus (Racine de)		
 pb	38	0042	4514511
-entry	Cota		
-entry	Cotarnine		
+entry	Cota [G. Planchon]		
+orth	Cota		
+entry	Cotarnine [L. Hahn]		
+orth	Cotarnine		
 pb	39	0043	4514512
-entry	Cotarnique (Acide)		
+entry	Cotarnique (Acide) [L. Hahn]		
+orth	Cotarnique (Acide)		
 entry	Côtes		
-entry	Côtes. Anatomie		
+entry	Côtes. Anatomie [V. Paulet]		
+orth	Côtes. Anatomie		
 pb	40	0044	4514513
 pb	41	0045	4514514
 pb	42	0046	4514515
@@ -87,10 +113,12 @@ pb	51	0055	4514524
 pb	52	0056	4514525
 pb	53	0057	4514526
 pb	54	0058	4514527
-entry	Côtes. Physiologie		
+entry	Côtes. Physiologie [V. Paulet]		
+orth	Côtes. Physiologie		
 pb	55	0059	4514528
 pb	56	0060	4514529
-entry	Côtes. Pathologie		
+entry	Côtes. Pathologie [V. Paulet]		
+orth	Côtes. Pathologie		
 pb	57	0061	4514530
 pb	58	0062	4514531
 pb	59	0063	4514532
@@ -146,7 +174,8 @@ pb	108	0112	4514581
 pb	109	0113	4514582
 pb	110	0114	4514583
 pb	111	0115	4514584
-entry	Côtes. Médecine opératoire		
+entry	Côtes. Médecine opératoire [V. Paulet]		
+orth	Côtes. Médecine opératoire		
 pb	112	0116	4514585
 pb	113	0117	4514586
 pb	114	0118	4514587
@@ -167,12 +196,14 @@ pb	128	0132	4514601
 entry	Cotinus		
 ref	Sumac		
 entry	Coton, Cotonnier		
-entry	Coton, Cotonnier. Botanique		
+entry	Coton, Cotonnier. Botanique [H. Baillon]		
+orth	Coton, Cotonnier. Botanique		
 pb	129	0133	4514602
 pb	130	0134	4514603
 pb	131	0135	4514604
 pb	132	0136	4514605
-entry	Coton, Cotonnier. Emploi chirurgical		
+entry	Coton, Cotonnier. Emploi chirurgical [Servier]		
+orth	Coton, Cotonnier. Emploi chirurgical		
 pb	133	0137	4514606
 pb	134	0138	4514607
 pb	135	0139	4514608
@@ -182,24 +213,35 @@ entry	Hygiène professionnelle
 ref	Filatures		
 entry	Coton-poudre		
 ref	Pyroxyline		
-entry	Cotonaria		
-entry	Cotonea		
+entry	Cotonaria [G. Planchon]		
+orth	Cotonaria		
+entry	Cotonea [G. Planchon]		
+orth	Cotonea		
 pb	138	0142	4514611
-entry	Cottereau (Pierre-Louis)		
-entry	Cotugno (Domenico)		
+entry	Cottereau (Pierre-Louis) [E. Beaugrand, L. Hahn]		
+orth	Cottereau (Pierre-Louis)		
+entry	Cotugno (Domenico) [E. Beaugrand, L. Hahn]		
+orth	Cotugno (Domenico)		
 pb	139	0143	4514612
-entry	Cotula		
-entry	Cotylédon		
-entry	Cotylet		
+entry	Cotula [G. Planchon]		
+orth	Cotula		
+entry	Cotylédon [G. Planchon]		
+orth	Cotylédon		
+entry	Cotylet [H. Baillon]		
+orth	Cotylet		
 pb	140	0144	4514613
 entry	Cotyloïde (Cavité)		
 ref	Bassin		
-entry	Cotylides		
+entry	Cotylides [Amédée Dechambre]		
+orth	Cotylides		
 entry	Cotyliole		
 ref	Hydrocotyle		
 entry	Cou		
-entry	Cou. Anatomie		
+entry	Anatomie [Gillette]		
+orth	Anatomie		
 pb	141	0145	4514614
+entry	Cou. Anatomie [G. Gillette]		
+orth	Cou. Anatomie		
 pb	142	0146	4514615
 pb	143	0147	4514616
 pb	144	0148	4514617
@@ -224,7 +266,8 @@ pb	162	0166	4514635
 pb	163	0167	4514636
 pb	164	0168	4514637
 pb	165	0169	4514638
-entry	Cou. Pathologie chirurgicale		
+entry	Cou. Pathologie chirurgicale [G. Gillette]		
+orth	Cou. Pathologie chirurgicale		
 pb	166	0170	4514639
 pb	167	0171	4514640
 pb	168	0172	4514641
@@ -450,12 +493,14 @@ pb	387	0391	4514860
 entry	Médecine légale		
 ref	Blessure		
 ref	Pendaison		
-entry	Couch (Les)		
+entry	Couch (Les) [L. Hahn]		
+orth	Couch (Les)		
 pb	388	0392	4514861
 entry	Couche des bâtonnets		
 ref	Rétine		
 entry	Couche, Couches, Suites de couches		
-entry	Couche, Couches, Suites de couches. Suites physiologiques		
+entry	Couche, Couches, Suites de couches. Suites physiologiques [A. Bouchacourt]		
+orth	Couche, Couches, Suites de couches. Suites physiologiques		
 pb	389	0393	4514862
 pb	390	0394	4514863
 pb	391	0395	4514864
@@ -504,7 +549,8 @@ pb	433	0437	4514906
 pb	434	0438	4514907
 pb	435	0439	4514908
 pb	436	0440	4514909
-entry	Couche, Couches, Suites de couches. Pathologie		
+entry	Couche, Couches, Suites de couches. Pathologie [A. Courty]		
+orth	Couche, Couches, Suites de couches. Pathologie		
 pb	437	0441	4514910
 pb	438	0442	4514911
 pb	439	0443	4514912
@@ -524,10 +570,14 @@ pb	452	0456	4514925
 pb	453	0457	4514926
 entry	Couches optiques		
 ref	Corps opto-striés		
-entry	Couchons (Eau minérale de)		
-entry	Coucou		
-entry	Coude		
-entry	Coude. Anatomie		
+entry	Couchons (Eau minérale de) [A. Rotureau]		
+orth	Couchons (Eau minérale de)		
+entry	Coucou [P. Gervais]		
+orth	Coucou		
+entry	Coude [E. Pingaud]		
+orth	Coude		
+entry	Coude. Anatomie [E. Pingaud]		
+orth	Coude. Anatomie		
 pb	454	0458	4514927
 pb	455	0459	4514928
 pb	456	0460	4514929
@@ -545,11 +595,13 @@ pb	467	0471	4514940
 pb	468	0472	4514941
 pb	469	0473	4514942
 pb	470	0474	4514943
-entry	Coude. Physiologie		
+entry	Coude. Physiologie [E. Pingaud]		
+orth	Coude. Physiologie		
 pb	471	0475	4514944
 pb	472	0476	4514945
 pb	473	0477	4514946
-entry	Coude. Pathologie		
+entry	Coude. Pathologie [E. Pingaud]		
+orth	Coude. Pathologie		
 pb	474	0478	4514947
 pb	475	0479	4514948
 pb	476	0480	4514949
@@ -770,7 +822,8 @@ pb	690	0694	4515163
 pb	691	0695	4515164
 pb	692	0696	4515165
 pb	693	0697	4515166
-entry	Coude. Médecine opératoire		
+entry	Coude. Médecine opératoire [E. Pingaud]		
+orth	Coude. Médecine opératoire		
 pb	694	0698	4515167
 pb	695	0699	4515168
 pb	696	0700	4515169
@@ -793,15 +846,21 @@ pb	712	0716	4515185
 pb	713	0717	4515186
 pb	714	0718	4515187
 pb	715	0719	4515188
-entry	Coudes (Eaux minérales de)		
-entry	Coudrier		
+entry	Coudes (Eaux minérales de) [A. Rotureau]		
+orth	Coudes (Eaux minérales de)		
+entry	Coudrier [Amédée Dechambre]		
+orth	Coudrier		
 pb	716	0720	4515189
 entry	Couenne du sang		
 ref	Sang		
-entry	Couepi, Couepia, Coupi		
-entry	Coui, Couis		
-entry	Couillard (Joseph)		
-entry	Couleur		
+entry	Couepi, Couepia, Coupi [H. Baillon]		
+orth	Couepi, Couepia, Coupi		
+entry	Coui, Couis [G. Planchon]		
+orth	Coui, Couis		
+entry	Couillard (Joseph) [E. Beaugrand]		
+orth	Couillard (Joseph)		
+entry	Couleur [C.-M. Gariel]		
+orth	Couleur		
 pb	717	0721	4515190
 pb	718	0722	4515191
 pb	719	0723	4515192
@@ -816,7 +875,8 @@ pb	727	0731	4515200
 pb	728	0732	4515201
 pb	729	0733	4515202
 pb	730	0734	4515203
-entry	Couleurs nuisibles		
+entry	Couleurs nuisibles [P. Coulier]		
+orth	Couleurs nuisibles		
 pb	731	0735	4515204
 pb	732	0736	4515205
 pb	733	0737	4515206
@@ -834,28 +894,39 @@ pb	744	0748	4515217
 pb	745	0749	4515218
 pb	746	0750	4515219
 pb	747	0751	4515220
-entry	Couleuvre		
+entry	Couleuvre [P. Gervais]		
+orth	Couleuvre		
 pb	748	0752	4515221
 pb	749	0753	4515222
-entry	Couleuvrée		
-entry	Coulson (William)		
+entry	Couleuvrée [G. Planchon]		
+orth	Couleuvrée		
+entry	Coulson (William) [L. Hahn]		
+orth	Coulson (William)		
 pb	750	0754	4515223
-entry	Coulteria		
+entry	Coulteria [H. Baillon]		
+orth	Coulteria		
 pb	751	0755	4515224
-entry	Coumaramine		
+entry	Coumaramine [L. Hahn]		
+orth	Coumaramine		
 entry	Coumarine		
-entry	Coumarine. Chimie		
+entry	Coumarine. Chimie [L. Hahn]		
+orth	Coumarine. Chimie		
 pb	752	0756	4515225
 pb	753	0757	4515226
-entry	Coumarine. Action physiologique		
+entry	Coumarine. Action physiologique [L. Hahn]		
+orth	Coumarine. Action physiologique		
 pb	754	0758	4515227
 pb	755	0759	4515228
-entry	Coumarique (Acide)		
-entry	Coumarouna		
+entry	Coumarique (Acide) [L. Hahn]		
+orth	Coumarique (Acide)		
+entry	Coumarouna [H. Baillon]		
+orth	Coumarouna		
 pb	756	0760	4515229
 pb	757	0761	4515230
-entry	Coumier		
-entry	Coup de chaleur		
+entry	Coumier [G. Planchon]		
+orth	Coumier		
+entry	Coup de chaleur [A. Le Roy de Méricourt, Obet]		
+orth	Coup de chaleur		
 pb	758	0762	4515231
 pb	759	0763	4515232
 pb	760	0764	4515233
@@ -877,13 +948,15 @@ pb	775	0779	4515248
 pb	776	0780	4515249
 pb	777	0781	4515250
 pb	778	0782	4515251
-entry	Coup de fouet		
+entry	Coup de fouet [Servier]		
+orth	Coup de fouet		
 pb	779	0783	4515252
 pb	780	0784	4515253
 pb	781	0785	4515254
 pb	782	0786	4515255
 pb	783	0787	4515256
-entry	Coupe-bride		
+entry	Coupe-bride [Amédée Dechambre]		
+orth	Coupe-bride		
 pb	[s. pag.]	0788	4515257
 pb	785	0789	4515258
 entry	Articles contenus dans le vingt et unième volume (1re série)		

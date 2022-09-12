@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4590941
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4590942
 pb	[s. pag.]	0003	4590943
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4590944
 pb	1	0005	4590945
-entry	Sympathique (Grand)		
+entry	Sympathique (Grand) [François-Franck]		
+orth	Sympathique (Grand)		
 pb	2	0006	4590946
 pb	3	0007	4590947
 pb	4	0008	4590948
@@ -157,15 +160,23 @@ pb	151	0155	4591095
 pb	152	0156	4591096
 pb	153	0157	4591097
 pb	154	0158	4591098
-entry	Sympexis, Sympexion		
-entry	Symphonia		
-entry	Symphyse		
-entry	Symphytum		
-entry	Sympiézomètre		
-entry	Symplocarpus		
+entry	Sympexis, Sympexion [Amédée Dechambre]		
+orth	Sympexis, Sympexion		
+entry	Symphonia [H. Baillon]		
+orth	Symphonia		
+entry	Symphyse [Amédée Dechambre]		
+orth	Symphyse		
+entry	Symphytum [G. Planchon]		
+orth	Symphytum		
+entry	Sympiézomètre [Amédée Dechambre]		
+orth	Sympiézomètre		
+entry	Symplocarpus [G. Planchon]		
+orth	Symplocarpus		
 pb	155	0159	4591099
-entry	Symplocos		
-entry	Symptôme		
+entry	Symplocos [G. Planchon]		
+orth	Symplocos		
+entry	Symptôme [L. Hecht]		
+orth	Symptôme		
 pb	156	0160	4591100
 pb	157	0161	4591101
 pb	158	0162	4591102
@@ -173,22 +184,30 @@ pb	159	0163	4591103
 pb	160	0164	4591104
 pb	161	0165	4591105
 pb	162	0166	4591106
-entry	Symptose		
-entry	Synadelphes Synanche		
+entry	Symptose [Amédée Dechambre]		
+orth	Symptose		
+entry	Synadelphes [Amédée Dechambre] Synanche		
+orth	Synadelphes Synanche		
 ref	Cynanche		
 entry	Synanthérées		
 ref	Composées		
-entry	Synanthrose		
+entry	Synanthrose [Amédée Dechambre]		
+orth	Synanthrose		
 entry	Synaptase ou Émulsine		
 ref	Émulsine		
-entry	Synaptes ou Synaptidés		
+entry	Synaptes ou Synaptidés [Ed. Lefèvre]		
+orth	Synaptes ou Synaptidés		
 pb	163	0167	4591107
-entry	Synarthrose ou Sutures		
-entry	Synchysis		
-entry	Synchondrose		
+entry	Synarthrose ou Sutures [Amédée Dechambre]		
+orth	Synarthrose ou Sutures		
+entry	Synchysis [Amédée Dechambre]		
+orth	Synchysis		
+entry	Synchondrose [Amédée Dechambre]		
+orth	Synchondrose		
 entry	Syncinésie		
 ref	Moelle		
-entry	Syncope		
+entry	Syncope [Émile Bertin-Sans]		
+orth	Syncope		
 pb	164	0168	4591108
 pb	165	0169	4591109
 pb	166	0170	4591110
@@ -211,59 +230,79 @@ pb	182	0186	4591126
 pb	183	0187	4591127
 pb	184	0188	4591128
 pb	185	0189	4591129
-entry	Syndactyles		
+entry	Syndactyles [E. Oustalet]		
+orth	Syndactyles		
 pb	186	0190	4591130
 pb	187	0191	4591131
 pb	188	0192	4591132
 pb	189	0193	4591133
 entry	Syndactylie		
 ref	Doigts (Pathologie)		
-entry	Syndicats médicaux		
+entry	Syndicats médicaux [Amédée Dechambre]		
+orth	Syndicats médicaux		
 pb	190	0194	4591134
 pb	191	0195	4591135
 pb	192	0196	4591136
 pb	193	0197	4591137
 pb	194	0198	4591138
 pb	195	0199	4591139
-entry	Syndrome		
+entry	Syndrome [L. Hecht]		
+orth	Syndrome		
 pb	196	0200	4591140
-entry	Synéchie		
-entry	Synergies		
+entry	Synéchie [Amédée Dechambre]		
+orth	Synéchie		
+entry	Synergies [E. Dally]		
+orth	Synergies		
 pb	197	0201	4591141
 pb	198	0202	4591142
-entry	Synésius		
+entry	Synésius [L. Hahn]		
+orth	Synésius		
 pb	199	0203	4591143
 entry	Synesthésie		
 ref	Moelle		
-entry	Syngame		
+entry	Syngame [Ed. Lefèvre]		
+orth	Syngame		
 pb	200	0204	4591144
-entry	Syngénésisme		
-entry	Syngnathes		
+entry	Syngénésisme [Amédée Dechambre]		
+orth	Syngénésisme		
+entry	Syngnathes [H.-E. Sauvage]		
+orth	Syngnathes		
 pb	201	0205	4591145
-entry	Synizésis		
-entry	Synoptique (Méthode)		
-entry	Synoque (Fièvre)		
-entry	Synote		
+entry	Synizésis [Amédée Dechambre]		
+orth	Synizésis		
+entry	Synoptique (Méthode) [Amédée Dechambre]		
+orth	Synoptique (Méthode)		
+entry	Synoque (Fièvre) [Amédée Dechambre]		
+orth	Synoque (Fièvre)		
+entry	Synote [Amédée Dechambre]		
+orth	Synote		
 entry	Synoviales (Membranes)		
-entry	Synoviales (Membranes). Anatomie		
+entry	Synoviales (Membranes). Anatomie [J. Aubry]		
+orth	Synoviales (Membranes). Anatomie		
 pb	202	0206	4591146
 pb	203	0207	4591147
 pb	204	0208	4591148
 pb	205	0209	4591149
 pb	206	0210	4591150
 entry	Synoviales (Membranes)		
-entry	Synoviales (Membranes). Pathologie		
+entry	Synoviales (Membranes). Pathologie [J. Aubry]		
+orth	Synoviales (Membranes). Pathologie		
 pb	207	0211	4591151
-entry	Synoviales tendineuses (Gaines)		
+entry	Synoviales tendineuses (Gaines) [J. Aubry]		
+orth	Synoviales tendineuses (Gaines)		
 pb	208	0212	4591152
 pb	209	0213	4591153
 pb	210	0214	4591154
 pb	211	0215	4591155
-entry	Synthèse		
-entry	Syntonine		
+entry	Synthèse [Amédée Dechambre]		
+orth	Synthèse		
+entry	Syntonine [Amédée Dechambre]		
+orth	Syntonine		
 pb	212	0216	4591156
-entry	Syouthy		
-entry	Syphilides		
+entry	Syouthy [L. Leclerc]		
+orth	Syouthy		
+entry	Syphilides [J. Rollet, E. Chambard]		
+orth	Syphilides		
 pb	213	0217	4591157
 pb	214	0218	4591158
 pb	215	0219	4591159
@@ -299,6 +338,8 @@ pb	244	0248	4591188
 pb	245	0249	4591189
 pb	246	0250	4591190
 pb	247	0251	4591191
+entry	Syphilides [J. Rollet, E. Chambard] [L. Hahn]		
+orth	Syphilides		
 pb	248	0252	4591192
 pb	249	0253	4591193
 pb	250	0254	4591194
@@ -308,9 +349,11 @@ pb	253	0257	4591197
 pb	254	0258	4591198
 pb	255	0259	4591199
 entry	Syphilis		
-entry	Syphilis. Synonymie		
+entry	Syphilis. Synonymie [J. Rollet]		
+orth	Syphilis. Synonymie		
 pb	256	0260	4591200
-entry	Syphilis. Historique		
+entry	Syphilis. Historique [J. Rollet]		
+orth	Syphilis. Historique		
 pb	257	0261	4591201
 pb	258	0262	4591202
 pb	259	0263	4591203
@@ -347,7 +390,8 @@ pb	289	0293	4591233
 pb	290	0294	4591234
 entry	Distribution géographique		
 ref	Géographie médicale		
-entry	Syphilis. Anatomie pathologique générale		
+entry	Syphilis. Anatomie pathologique générale [V. Cornil]		
+orth	Syphilis. Anatomie pathologique générale		
 pb	291	0295	4591235
 pb	292	0296	4591236
 pb	293	0297	4591237
@@ -367,7 +411,8 @@ pb	306	0310	4591250
 pb	307	0311	4591251
 pb	308	0312	4591252
 pb	309	0313	4591253
-entry	Syphilis. Nosographie		
+entry	Syphilis. Nosographie [J. Rollet]		
+orth	Syphilis. Nosographie		
 pb	310	0314	4591254
 pb	311	0315	4591255
 pb	312	0316	4591256
@@ -460,7 +505,8 @@ pb	398	0402	4591342
 pb	399	0403	4591343
 pb	400	0404	4591344
 pb	401	0405	4591345
-entry	Syphilis. Traitement		
+entry	Syphilis. Traitement [J. Rollet]		
+orth	Syphilis. Traitement		
 pb	402	0406	4591346
 pb	403	0407	4591347
 pb	404	0408	4591348
@@ -519,7 +565,8 @@ pb	456	0460	4591400
 pb	457	0461	4591401
 pb	458	0462	4591402
 pb	459	0463	4591403
-entry	Syphilis. Prophylaxie		
+entry	Syphilis. Prophylaxie [J. Rollet]		
+orth	Syphilis. Prophylaxie		
 pb	460	0464	4591404
 pb	461	0465	4591405
 pb	462	0466	4591406
@@ -546,7 +593,8 @@ pb	482	0486	4591426
 pb	483	0487	4591427
 pb	484	0488	4591428
 pb	485	0489	4591429
-entry	Syphilis. Syphilis des animaux		
+entry	Syphilis. Syphilis des animaux [J. Rollet]		
+orth	Syphilis. Syphilis des animaux		
 pb	486	0490	4591430
 pb	487	0491	4591431
 pb	488	0492	4591432
@@ -564,9 +612,11 @@ pb	499	0503	4591443
 pb	500	0504	4591444
 pb	501	0505	4591445
 pb	502	0506	4591446
-entry	Syphilis. Bibliographie 		
+entry	Syphilis. Bibliographie [L. Hahn] 		
+orth	Syphilis. Bibliographie 		
 pb	503	0507	4591447
-entry	Syphilis. Bibliographie		
+entry	Syphilis. Bibliographie [L. Hahn]		
+orth	Syphilis. Bibliographie		
 pb	504	0508	4591448
 pb	505	0509	4591449
 pb	506	0510	4591450
@@ -599,9 +649,11 @@ pb	532	0536	4591476
 pb	533	0537	4591477
 pb	534	0538	4591478
 pb	535	0539	4591479
-entry	Syphilis congénitale ou héréditaire ou encore infantile		
+entry	Syphilis congénitale ou héréditaire ou encore infantile [Paul Diday, Émile Diday]		
+orth	Syphilis congénitale ou héréditaire ou encore infantile		
 pb	536	0540	4591480
-entry	Syphilis. Syphilis congénitale ou héréditaitre ou encore infantile		
+entry	Syphilis. Syphilis congénitale ou héréditaitre ou encore infantile [Paul Diday, Émile Diday]		
+orth	Syphilis. Syphilis congénitale ou héréditaitre ou encore infantile		
 pb	537	0541	4591481
 pb	538	0542	4591482
 pb	539	0543	4591483
@@ -738,14 +790,16 @@ pb	669	0673	4591613
 pb	670	0674	4591614
 pb	671	0675	4591615
 pb	672	0676	4591616
-entry	Syphilis. Syphilis congénitale ou héréditaitre ou encore infantile. Bibliographie		
+entry	Syphilis. Syphilis congénitale ou héréditaitre ou encore infantile [Paul Diday, Émile Diday]. Bibliographie [L. Hahn]		
+orth	Syphilis. Syphilis congénitale ou héréditaitre ou encore infantile. Bibliographie		
 pb	673	0677	4591617
 pb	674	0678	4591618
 pb	675	0679	4591619
 pb	676	0680	4591620
 pb	677	0681	4591621
 pb	678	0682	4591622
-entry	Syphilisation		
+entry	Syphilisation [J. Rollet]		
+orth	Syphilisation		
 pb	679	0683	4591623
 pb	680	0684	4591624
 pb	681	0685	4591625
@@ -759,14 +813,22 @@ pb	688	0692	4591632
 pb	689	0693	4591633
 pb	690	0694	4591634
 pb	691	0695	4591635
+entry	Syphilisation [J. Rollet] [L. Hahn]		
+orth	Syphilisation		
 pb	692	0696	4591636
-entry	Syphiloïdes		
+entry	Syphiloïdes [Amédée Dechambre]		
+orth	Syphiloïdes		
 pb	693	0697	4591637
-entry	Syphilome		
-entry	Syphophorus		
-entry	Syriaque (Onguent)		
-entry	Syriaque (Ulcère)		
-entry	Syrie, Mésopotamie et Babylonie		
+entry	Syphilome [Amédée Dechambre]		
+orth	Syphilome		
+entry	Syphophorus [G. Planchon]		
+orth	Syphophorus		
+entry	Syriaque (Onguent) [Amédée Dechambre]		
+orth	Syriaque (Onguent)		
+entry	Syriaque (Ulcère) [Amédée Dechambre]		
+orth	Syriaque (Ulcère)		
+entry	Syrie, Mésopotamie et Babylonie [G. Liétard]		
+orth	Syrie, Mésopotamie et Babylonie		
 pb	694	0698	4591638
 pb	695	0699	4591639
 pb	696	0700	4591640
@@ -834,12 +896,15 @@ pb	757	0761	4591701
 pb	758	0762	4591702
 entry	Syringa		
 ref	Lilas		
-entry	Syringine		
-entry	Syringotome		
+entry	Syringine [Amédée Dechambre]		
+orth	Syringine		
+entry	Syringotome [Amédée Dechambre]		
+orth	Syringotome		
 pb	759	0763	4591703
 entry	Syro-Arabes		
 ref	Sémites		
-entry	Sysomiens (Monstres)		
+entry	Sysomiens (Monstres) [Amédée Dechambre]		
+orth	Sysomiens (Monstres)		
 pb	[s. pag.]	0764	4591704
 pb	[s. pag.]	0765	4591705
 entry	Articles contenus dans le quatorzième volume (3e série)		

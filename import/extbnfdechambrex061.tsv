@@ -1,10 +1,13 @@
 pb	[s. pag.]	0001	4565296
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4565297
 pb	[s. pag.]	0003	4565298
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4565299
 pb	1	0005	4565300
 entry	Moelle des os		
-entry	Moelle des os. Anatomie		
+entry	Moelle des os. Anatomie [Ch. Robin]		
+orth	Moelle des os. Anatomie		
 pb	2	0006	4565301
 pb	3	0007	4565302
 pb	4	0008	4565303
@@ -29,7 +32,8 @@ pb	22	0026	4565321
 pb	23	0027	4565322
 pb	24	0028	4565323
 pb	25	0029	4565324
-entry	Moelle des os. Physiologie		
+entry	Moelle des os. Physiologie [Ch. Robin]		
+orth	Moelle des os. Physiologie		
 pb	26	0030	4565325
 pb	27	0031	4565326
 pb	28	0032	4565327
@@ -38,7 +42,8 @@ pb	30	0034	4565329
 pb	31	0035	4565330
 pb	32	0036	4565331
 pb	33	0037	4565332
-entry	Moelle des os. Pathologie		
+entry	Moelle des os. Pathologie [A.-H. Marchand, Ar. Verneuil]		
+orth	Moelle des os. Pathologie		
 pb	34	0038	4565333
 pb	35	0039	4565334
 pb	36	0040	4565335
@@ -78,74 +83,105 @@ pb	69	0073	4565368
 pb	70	0074	4565369
 entry	Moesopotamie		
 ref	Syrie		
-entry	Mofettes		
-ref	Mines		
+entry	Mofettes..]		
+ref	Mines [D		
 pb	71	0075	4565370
-entry	Mogori		
-entry	Mogreb, Mohgreb, Mograb		
-entry	Mohammed (les)		
-entry	Mohawks (Les)		
-ref	Amérique		
-entry	Mohl (Paul)		
-entry	Moho-moho		
-ref	Poivre		
-entry	Mohomo		
-ref	Poivre		
-entry	Mohrenheim (Joseph van)		
-entry	Mohy (Henry de)		
+entry	Mogori [G. Planchon]		
+orth	Mogori		
+entry	Mogreb, Mohgreb, Mograb [Amédée Dechambre]		
+orth	Mogreb, Mohgreb, Mograb		
+entry	Mohammed (les) [A. Dureau]		
+orth	Mohammed (les)		
+entry	Mohawks (Les)..]		
+ref	Amérique [D		
+entry	Mohl (Paul) [A. Dureau]		
+orth	Mohl (Paul)		
+entry	Moho-moho.. Planchon]		
+ref	Poivre [G		
+entry	Mohomo.. Planchon]		
+ref	Poivre [G		
+entry	Mohrenheim (Joseph van) [A. Chéreau]		
+orth	Mohrenheim (Joseph van)		
+entry	Mohy (Henry de) [A. Dureau]		
+orth	Mohy (Henry de)		
 pb	72	0076	4565371
 entry	Moignon		
 ref	Amputation		
-entry	Moi-moi		
-entry	Moineau		
-entry	Moingt (Eau minérale de)		
+entry	Moi-moi [G. Planchon]		
+orth	Moi-moi		
+entry	Moineau [Paul Gervais]		
+orth	Moineau		
+entry	Moingt (Eau minérale de) [A. Rotureau]		
+orth	Moingt (Eau minérale de)		
 pb	73	0077	4565372
-entry	Moinichen (Henri de)		
-entry	Moisissures		
+entry	Moinichen (Henri de) [A. Chéreau]		
+orth	Moinichen (Henri de)		
+entry	Moisissures [J. de Seynes]		
+orth	Moisissures		
 pb	74	0078	4565373
 pb	75	0079	4565374
-entry	Moizin (Claude-Joseph)		
+entry	Moizin (Claude-Joseph) [E. Beaugrand]		
+orth	Moizin (Claude-Joseph)		
 pb	76	0080	4565375
-entry	Mojobamba		
-entry	Mojon (les)		
+entry	Mojobamba [G. Planchon]		
+orth	Mojobamba		
+entry	Mojon (les) [E. Beaugrand]		
+orth	Mojon (les)		
 pb	77	0081	4565376
 entry	Molaires		
 ref	Dents		
-entry	Molanga, Molago-codi		
-entry	Molar (El) (Eau minérale de)		
+entry	Molanga, Molago-codi [G. Planchon]		
+orth	Molanga, Molago-codi		
+entry	Molar (El) (Eau minérale de) [A. Rotureau]		
+orth	Molar (El) (Eau minérale de)		
 pb	78	0082	4565377
 pb	79	0083	4565378
 entry	Moldavie		
 ref	Danubiennes (Provinces)		
-entry	Moldavique		
+entry	Moldavique [G. Planchon]		
+orth	Moldavique		
 pb	80	0084	4565379
-entry	Mole (Zoologie)		
-entry	Mole (Obstétrique)		
+entry	Mole (Zoologie) [Paul Gervais]		
+orth	Mole (Zoologie)		
+entry	Mole (Obstétrique) [Depaul]		
+orth	Mole (Obstétrique)		
 pb	81	0085	4565380
-entry	Molécule (Chimie)		
+entry	Molécule (Chimie) [C. Lutz]		
+orth	Molécule (Chimie)		
 pb	82	0086	4565381
-entry	Molène		
+entry	Molène [G. Planchon]		
+orth	Molène		
 pb	83	0087	4565382
 pb	84	0088	4565383
-entry	Molette		
-ref	Capselle		
-entry	Molette (Pharmacie)		
-entry	Molicorium ou plutôt Malicorium		
-entry	Molitg (Eaux minérales et boues de)		
+entry	Molette.. Planchon]		
+ref	Capselle [G		
+entry	Molette (Pharmacie) [Amédée Dechambre]		
+orth	Molette (Pharmacie)		
+entry	Molicorium ou plutôt Malicorium [G. Planchon]		
+orth	Molicorium ou plutôt Malicorium		
+entry	Molitg (Eaux minérales et boues de) [A. Rotureau]		
+orth	Molitg (Eaux minérales et boues de)		
 pb	85	0089	4565384
 pb	86	0090	4565385
-entry	Molimen		
-entry	Molin (Jacques)		
-entry	Molina		
+entry	Molimen [Amédée Dechambre]		
+orth	Molimen		
+entry	Molin (Jacques) [A. Dureau]		
+orth	Molin (Jacques)		
+entry	Molina [G. Planchon]		
+orth	Molina		
 pb	87	0091	4565386
-entry	Molinelli (Pierre-Paul)		
-entry	Molinetti (Les)		
-entry	Molle		
-ref	Schinus		
+entry	Molinelli (Pierre-Paul) [A. Chéreau]		
+orth	Molinelli (Pierre-Paul)		
+entry	Molinetti (Les) [A. Chéreau]		
+orth	Molinetti (Les)		
+entry	Molle.. Planchon]		
+ref	Schinus [G		
 entry	Mollène		
 ref	Molène		
-entry	Mollugo		
-entry	Molluscum		
+entry	Mollugo [G. Planchon]		
+orth	Mollugo		
+entry	Molluscum [Michel]		
+orth	Molluscum		
 pb	88	0092	4565387
 pb	89	0093	4565388
 pb	90	0094	4565389
@@ -161,7 +197,8 @@ pb	99	0103	4565398
 pb	100	0104	4565399
 pb	101	0105	4565400
 pb	102	0106	4565401
-entry	Mollusques		
+entry	Mollusques [Paul Gervais]		
+orth	Mollusques		
 pb	103	0107	4565402
 pb	104	0108	4565403
 pb	105	0109	4565404
@@ -170,30 +207,43 @@ pb	107	0111	4565406
 pb	108	0112	4565407
 entry	Molly		
 ref	Moly		
-entry	Moloch		
-entry	Molosse		
-entry	Molucelle ou Moluque		
+entry	Moloch [Paul Gervais]		
+orth	Moloch		
+entry	Molosse [Paul Gervais]		
+orth	Molosse		
+entry	Molucelle ou Moluque [G. Planchon]		
+orth	Molucelle ou Moluque		
 pb	109	0113	4565408
-entry	Moly		
+entry	Moly [G. Planchon]		
+orth	Moly		
 pb	110	0114	4565409
-entry	Molybdates		
-entry	Molybdène		
+entry	Molybdates [C. Lutz]		
+orth	Molybdates		
+entry	Molybdène [C. Lutz]		
+orth	Molybdène		
 pb	111	0115	4565410
-entry	Molybdique (Acide)		
-entry	Molybdomancie		
-entry	Molyza		
+entry	Molybdique (Acide) [C. Lutz]		
+orth	Molybdique (Acide)		
+entry	Molybdomancie [Amédée Dechambre]		
+orth	Molybdomancie		
+entry	Molyza [G. Planchon]		
+orth	Molyza		
 entry	Momie		
 ref	Embaumement		
-entry	Momification		
+entry	Momification [Albert Hénocque]		
+orth	Momification		
 pb	112	0116	4565411
-entry	Momordique		
+entry	Momordique [G. Planchon]		
+orth	Momordique		
 pb	113	0117	4565412
-entry	Monaco (Station hivernale et marine)		
+entry	Monaco (Station hivernale et marine) [A. Rotureau]		
+orth	Monaco (Station hivernale et marine)		
 pb	114	0118	4565413
 pb	115	0119	4565414
 entry	Monadénomes		
 ref	Adénomes		
-entry	Monadiens		
+entry	Monadiens [C. Davaine]		
+orth	Monadiens		
 pb	116	0120	4565415
 pb	117	0121	4565416
 pb	118	0122	4565417
@@ -213,29 +263,38 @@ entry	Monamides
 ref	Amides		
 entry	Monamines		
 ref	Alcaloïdes		
-entry	Monarde		
+entry	Monarde [G. Planchon]		
+orth	Monarde		
 pb	131	0135	4565430
-entry	Monardes (les)		
+entry	Monardes (les) [E. Beaugrand]		
+orth	Monardes (les)		
 pb	132	0136	4565431
 entry	Monas		
 ref	Monadiens		
 entry	Monaste		
 ref	Araignée		
-entry	Monbin		
+entry	Monbin [H. Baillon]		
+orth	Monbin		
 pb	133	0137	4565432
-entry	Mondière (J.-T.)		
+entry	Mondière (J.-T.) [E. Beaugrand]		
+orth	Mondière (J.-T.)		
 pb	134	0138	4565433
-entry	Mondino (les deux)		
+entry	Mondino (les deux) [E. Beaugrand]		
+orth	Mondino (les deux)		
 pb	13	0139	4565434
-entry	Mondo		
+entry	Mondo [G. Planchon]		
+orth	Mondo		
 pb	136	0140	4565435
-entry	Mondorf (Eau minérale de)		
+entry	Mondorf (Eau minérale de) [A. Rotureau]		
+orth	Mondorf (Eau minérale de)		
 pb	137	0141	4565436
 entry	Monesia (Écorce de)		
-entry	Botanique		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
 pb	138	0142	4565437
 entry	Monesia (Écorce de)		
-entry	Monesia (Écorce de). Emploi médical		
+entry	Monesia (Écorce de). Emploi médical [J. Delioux de Savignac]		
+orth	Monesia (Écorce de). Emploi médical		
 pb	139	0143	4565438
 pb	140	0144	4565439
 entry	Monestier (le) de Briançon (Eau minérale de)		
@@ -245,7 +304,8 @@ entry	Monestier (le) de Clermont (Eau minérale de)
 ref	Le Monestier de Clermont		
 entry	Monfalcon		
 ref	à l'Addendum		
-entry	Mongellaz (Pierre-Joseph)		
+entry	Mongellaz (Pierre-Joseph) [E. Beaugrand]		
+orth	Mongellaz (Pierre-Joseph)		
 entry	Mongolie		
 ref	Tartarie		
 entry	Mongori ou Mongorium		
@@ -253,33 +313,49 @@ ref	Mogori
 entry	Mongos ou Mongo		
 ref	Mungos		
 ref	Mungo		
-entry	Monnaie du pape		
-entry	Monneret (Jules-Auguste-Edouard)		
+entry	Monnaie du pape [G. Planchon]		
+orth	Monnaie du pape		
+entry	Monneret (Jules-Auguste-Edouard) [E. Beaugrand]		
+orth	Monneret (Jules-Auguste-Edouard)		
 pb	142	0146	4565441
-entry	Monnieria ou Monneria		
+entry	Monnieria ou Monneria [G. Planchon]		
+orth	Monnieria ou Monneria		
 pb	143	0147	4565442
-entry	Monnoyère		
-ref	Nummulaire		
-entry	Monoacétine		
-entry	Monoarachine		
-entry	Monobenzoycine		
+entry	Monnoyère.. Planchon]		
+ref	Nummulaire [G		
+entry	Monoacétine [Malaguti]		
+orth	Monoacétine		
+entry	Monoarachine [Malaguti]		
+orth	Monoarachine		
+entry	Monobenzoycine [Malaguti]		
+orth	Monobenzoycine		
 pb	144	0148	4565443
-entry	Monobromhydrine		
-entry	Monobutyrine		
-entry	Monocéphalien		
-entry	Monochlorhydrine		
+entry	Monobromhydrine [Malaguti]		
+orth	Monobromhydrine		
+entry	Monobutyrine [Malaguti]		
+orth	Monobutyrine		
+entry	Monocéphalien [C. Davaine]		
+orth	Monocéphalien		
+entry	Monochlorhydrine [Malaguti]		
+orth	Monochlorhydrine		
 pb	145	0149	4565444
 entry	Monocle		
 ref	Bandages		
 entry	Monocotylédonées (Plantes)		
 ref	Botanique		
-entry	Monodelphes		
-entry	Monodora		
-entry	Monogenèse		
+entry	Monodelphes [Paul Gervais]		
+orth	Monodelphes		
+entry	Monodora [G. Planchon]		
+orth	Monodora		
+entry	Monogenèse [C. Davaine]		
+orth	Monogenèse		
 pb	146	0150	4565445
-entry	Monogénisme		
-entry	Monoléine		
-entry	Monomanie		
+entry	Monogénisme [Amédée Dechambre]		
+orth	Monogénisme		
+entry	Monoléine [Malaguti]		
+orth	Monoléine		
+entry	Monomanie [A. Linas]		
+orth	Monomanie		
 pb	147	0151	4565446
 pb	148	0152	4565447
 pb	14	0153	4565448
@@ -329,30 +405,42 @@ pb	192	0196	4565491
 pb	193	0197	4565492
 pb	194	0198	4565493
 pb	195	0199	4565494
-entry	Monomargarine		
-entry	Monopalmitine		
-entry	Monomphaliens		
+entry	Monomargarine [Malaguti]		
+orth	Monomargarine		
+entry	Monopalmitine [Malaguti]		
+orth	Monopalmitine		
+entry	Monomphaliens [C. Davaine]		
+orth	Monomphaliens		
 pb	196	0200	4565495
 entry	Monopsie		
 ref	Cyclopie		
 entry	Monorchidie		
 ref	Testicules		
-entry	Monosomiens		
-entry	Monostéarine		
-entry	Monostomes		
-entry	Monotrèmes		
+entry	Monosomiens [C. Davaine]		
+orth	Monosomiens		
+entry	Monostéarine [Malaguti]		
+orth	Monostéarine		
+entry	Monostomes [Amédée Dechambre]		
+orth	Monostomes		
+entry	Monotrèmes [Paul Gervais]		
+orth	Monotrèmes		
 pb	197	0201	4565496
-entry	Monovalérine (Monophocénine)		
+entry	Monovalérine (Monophocénine) [Malaguti]		
+orth	Monovalérine (Monophocénine)		
 pb	198	0202	4565497
-entry	Monrepos (Eau minérale de)		
-entry	Monro (les)		
+entry	Monrepos (Eau minérale de) [A. Rotureau]		
+orth	Monrepos (Eau minérale de)		
+entry	Monro (les) [A. Dureau]		
+orth	Monro (les)		
 pb	199	0203	4565498
 pb	200	0204	4565499
 entry	Monro (Trou de)		
 ref	Cerveau		
-entry	Mons (Jean-Baptiste Van)		
+entry	Mons (Jean-Baptiste Van) [A. Dureau]		
+orth	Mons (Jean-Baptiste Van)		
 pb	201	0205	4565500
-entry	Monstres, Monstruosité		
+entry	Monstres, Monstruosité [C. Davaine]		
+orth	Monstres, Monstruosité		
 pb	202	0206	4565501
 pb	203	0207	4565502
 pb	204	0208	4565503
@@ -416,40 +504,55 @@ pb	261	0265	4565560
 pb	262	0266	4565561
 pb	263	0267	4565562
 pb	264	0268	4565563
-entry	Monsummano (Eaux minérales et grottes de)		
+entry	Monsummano (Eaux minérales et grottes de) [A. Rotureau]		
+orth	Monsummano (Eaux minérales et grottes de)		
 pb	265	0269	4565564
 pb	266	0270	4565565
 pb	267	0271	4565566
 pb	268	0272	4565567
 pb	269	0273	4565568
-entry	Montagnana (Les deux)		
-entry	Montagne (Jean-Fr.-Camille)		
-entry	Montagnite		
+entry	Montagnana (Les deux) [A. Chéreau]		
+orth	Montagnana (Les deux)		
+entry	Montagne (Jean-Fr.-Camille) [E. Beaugrand]		
+orth	Montagne (Jean-Fr.-Camille)		
+entry	Montagnite [Jacques Bertillon]		
+orth	Montagnite		
 pb	270	0274	4565569
 pb	271	0275	4565570
 entry	Montaigut (Eau minérale de)		
 ref	Grandevrol		
-entry	Montain (Les deux frères)		
+entry	Montain (Les deux frères) [E. Beaugrand]		
+orth	Montain (Les deux frères)		
 pb	272	0276	4565571
 pb	273	0277	4565572
-entry	Montana de Monserrate (Bernardino)		
-entry	Montanier (Joseph-Henry)		
+entry	Montana de Monserrate (Bernardino) [E. Beaugrand]		
+orth	Montana de Monserrate (Bernardino)		
+entry	Montanier (Joseph-Henry) [E. Beaugrand]		
+orth	Montanier (Joseph-Henry)		
 pb	274	0278	4565573
-entry	Montanine		
-entry	Montano (Jean-Baptiste)		
+entry	Montanine [Amédée Dechambre]		
+orth	Montanine		
+entry	Montano (Jean-Baptiste) [A. Dureau]		
+orth	Montano (Jean-Baptiste)		
 entry	Montante (Apophyse)		
 ref	Maxillaire supérieur		
-entry	Montanus (Thomas)		
-entry	Montbrison (Eaux minérales de)		
+entry	Montanus (Thomas) [E. Beaugrand]		
+orth	Montanus (Thomas)		
+entry	Montbrison (Eaux minérales de) [A. Rotureau]		
+orth	Montbrison (Eaux minérales de)		
 pb	275	0279	4565574
-entry	Montbrun (Eaux minérales et boues de)		
+entry	Montbrun (Eaux minérales et boues de) [A. Rotureau]		
+orth	Montbrun (Eaux minérales et boues de)		
 pb	276	0280	4565575
-entry	Montcel (Eau minérale de)		
+entry	Montcel (Eau minérale de) [A. Rotureau]		
+orth	Montcel (Eau minérale de)		
 pb	277	0281	4565576
-entry	Montchanson (Eau minérale de)		
+entry	Montchanson (Eau minérale de) [A. Rotureau]		
+orth	Montchanson (Eau minérale de)		
 entry	Mont de vénus		
 ref	Vulve		
-entry	Mont-Dore (Eaux minérales du)		
+entry	Mont-Dore (Eaux minérales du) [A. Rotureau]		
+orth	Mont-Dore (Eaux minérales du)		
 pb	278	0282	4565577
 pb	279	0283	4565578
 pb	280	0284	4565579
@@ -463,11 +566,14 @@ pb	287	0291	4565586
 pb	288	0292	4565587
 pb	289	0293	4565588
 pb	290	0294	4565589
-entry	Monte (Jean-Baptiste)		
+entry	Monte (Jean-Baptiste) [A. Chéreau]		
+orth	Monte (Jean-Baptiste)		
 pb	291	0295	4565590
-entry	Monte-Calvario (Eau minérale de)		
+entry	Monte-Calvario (Eau minérale de) [A. Rotureau]		
+orth	Monte-Calvario (Eau minérale de)		
 pb	292	0296	4565591
-entry	Montecatini (Eaux minérales de)		
+entry	Montecatini (Eaux minérales de) [A. Rotureau]		
+orth	Montecatini (Eaux minérales de)		
 pb	293	0297	4565592
 pb	294	0298	4565593
 pb	295	0299	4565594
@@ -477,56 +583,78 @@ pb	298	0302	4565597
 pb	299	0303	4565598
 pb	300	0304	4565599
 pb	301	0305	4565600
-entry	Monteggia (Giovan-Battista)		
-entry	Montègre (Antoine-François-Jenin de)		
+entry	Monteggia (Giovan-Battista) [A. Chéreau]		
+orth	Monteggia (Giovan-Battista)		
+entry	Montègre (Antoine-François-Jenin de) [A. Dureau]		
+orth	Montègre (Antoine-François-Jenin de)		
 pb	302	0306	4565601
-entry	Montègre (Horace de)		
+entry	Montègre (Horace de) [E. Beaugrand]		
+orth	Montègre (Horace de)		
 entry	Monte-Grosso (Eau minérale de)		
 ref	Abano		
-entry	Montegut-Ségla (Eau minérale de)		
+entry	Montegut-Ségla (Eau minérale de) [A. Rotureau]		
+orth	Montegut-Ségla (Eau minérale de)		
 pb	303	0307	4565602
-entry	Montemayor (Cristobal)		
+entry	Montemayor (Cristobal) [E. Beaugrand]		
+orth	Montemayor (Cristobal)		
 entry	Montemayor (Eaux minérales de)		
 ref	Bejar		
 entry	Monténégro		
 ref	Turquie		
-entry	Monteregio (Giov. Malfatti de)		
-entry	Montero (Luiz)		
+entry	Monteregio (Giov. Malfatti de) [E. Beaugrand]		
+orth	Monteregio (Giov. Malfatti de)		
+entry	Montero (Luiz) [E. Beaugrand]		
+orth	Montero (Luiz)		
 pb	304	0308	4565603
-entry	Montero de Espinosa (Geronimo)		
-entry	Montesanto (Giuseppe-Antonio-Maria)		
-entry	Montgarny (Jean-Baptiste-Harmand de)		
-entry	Montgomery (William-Fetherston-H.)		
+entry	Montero de Espinosa (Geronimo) [E. Beaugrand]		
+orth	Montero de Espinosa (Geronimo)		
+entry	Montesanto (Giuseppe-Antonio-Maria) [E. Beaugrand]		
+orth	Montesanto (Giuseppe-Antonio-Maria)		
+entry	Montgarny (Jean-Baptiste-Harmand de) [A. Dureau]		
+orth	Montgarny (Jean-Baptiste-Harmand de)		
+entry	Montgomery (William-Fetherston-H.) [E. Beaugrand]		
+orth	Montgomery (William-Fetherston-H.)		
 pb	305	0309	4565604
-entry	Montlignon (Eau minérale de)		
-entry	Mont-Louis (Eau minérale de)		
+entry	Montlignon (Eau minérale de) [A. Rotureau]		
+orth	Montlignon (Eau minérale de)		
+entry	Mont-Louis (Eau minérale de) [A. Rotureau]		
+orth	Mont-Louis (Eau minérale de)		
 pb	306	0310	4565605
-entry	Montmirail (Eaux minérales de)		
+entry	Montmirail (Eaux minérales de) [A. Rotureau]		
+orth	Montmirail (Eaux minérales de)		
 pb	307	0311	4565606
 pb	308	0312	4565607
 entry	Montmorot (Eau minérale de)		
 ref	Lons-le-Saulnier		
-entry	Montner (Eaux minérales de)		
+entry	Montner (Eaux minérales de) [A. Rotureau]		
+orth	Montner (Eaux minérales de)		
 pb	309	0313	4565608
-entry	Montpellier (Station d'hiver et bains de mer)		
+entry	Montpellier (Station d'hiver et bains de mer) [A. Rotureau]		
+orth	Montpellier (Station d'hiver et bains de mer)		
 pb	310	0314	4565609
-entry	Montpensier (Eaux minérales de)		
+entry	Montpensier (Eaux minérales de) [A. Rotureau]		
+orth	Montpensier (Eaux minérales de)		
 entry	Montserrat (Eaux minérales de)		
 ref	La Puda		
-entry	Moore (Charles-Hewitt)		
+entry	Moore (Charles-Hewitt) [E. Beaugrand]		
+orth	Moore (Charles-Hewitt)		
 pb	311	0315	4565610
-entry	Moquin-Tandon (Cristian-Horace-Benedict-Alfred)		
+entry	Moquin-Tandon (Cristian-Horace-Benedict-Alfred) [A. Chéreau]		
+orth	Moquin-Tandon (Cristian-Horace-Benedict-Alfred)		
 pb	312	0316	4565611
 pb	313	0317	4565612
 entry	Moquis (Les)		
 ref	Mexique		
-entry	Morand (Les)		
+entry	Morand (Les) [A. Chéreau]		
+orth	Morand (Les)		
 pb	314	0318	4565613
-entry	Morandi-Manzolini (Anna)		
+entry	Morandi-Manzolini (Anna) [A. Dureau]		
+orth	Morandi-Manzolini (Anna)		
 entry	Moravie		
 ref	Bohême		
 pb	315	0319	4565614
-entry	Morbidité		
+entry	Morbidité [Léon Colin]		
+orth	Morbidité		
 pb	316	0320	4565615
 pb	317	0321	4565616
 pb	318	0322	4565617
@@ -567,7 +695,8 @@ pb	352	0356	4565651
 pb	353	0357	4565652
 pb	354	0358	4565653
 pb	355	0359	4565654
-entry	Morbidité militaire		
+entry	Morbidité militaire [Léon Colin]		
+orth	Morbidité militaire		
 pb	356	0360	4565655
 pb	357	0361	4565656
 pb	358	0362	4565657
@@ -672,63 +801,90 @@ entry	Morchellei
 ref	Morille		
 entry	Mordechi		
 ref	Choléra (synonymie)		
-entry	Moreau (Les)		
+entry	Moreau (Les) [A. Chéreau]		
+orth	Moreau (Les)		
 pb	456	0460	4565755
-entry	Morée		
+entry	Morée [G. Planchon]		
+orth	Morée		
 entry	Moreine		
 ref	Marine		
-entry	Morejon (Antonio-Hernandez)		
+entry	Morejon (Antonio-Hernandez) [E. Beaugrand]		
+orth	Morejon (Antonio-Hernandez)		
 pb	457	0461	4565756
-entry	Morel (Bénédict-Auguste)		
+entry	Morel (Bénédict-Auguste) [E. Beaugrand]		
+orth	Morel (Bénédict-Auguste)		
 pb	458	0462	4565757
-entry	Morel-Lavallée (Victor-Auguste-François)		
+entry	Morel-Lavallée (Victor-Auguste-François) [E. Beaugrand]		
+orth	Morel-Lavallée (Victor-Auguste-François)		
 pb	459	0463	4565758
 entry	Morelle		
-entry	Morelle. Botanique		
+entry	Morelle. Botanique [G. Planchon]		
+orth	Morelle. Botanique		
 pb	460	0464	4565759
 pb	461	0465	4565760
 pb	462	0466	4565761
 pb	463	0467	4565762
 pb	464	0468	4565763
-entry	Morelle. Emploi médical		
+entry	Morelle. Emploi médical [J. Delioux de Savignac]		
+orth	Morelle. Emploi médical		
 pb	465	0469	4565764
 pb	466	0470	4565765
-entry	Moreschi (Alessandro)		
+entry	Moreschi (Alessandro) [E. Beaugrand]		
+orth	Moreschi (Alessandro)		
 pb	467	0471	4565766
-entry	Moret		
-entry	Morette		
-entry	Morgagni (Jean-Baptiste)		
+entry	Moret [G. Planchon]		
+orth	Moret		
+entry	Morette [G. Planchon]		
+orth	Morette		
+entry	Morgagni (Jean-Baptiste) [A. Chéreau]		
+orth	Morgagni (Jean-Baptiste)		
 pb	468	0472	4565767
 entry	Morgagni (Hydatides)		
 ref	Testicules		
 ref	Ovaires		
-entry	Morgan (John)		
+entry	Morgan (John) [E. Beaugrand]		
+orth	Morgan (John)		
 pb	469	0473	4565768
-entry	Morgeline		
-entry	Morgue		
+entry	Morgeline [G. Planchon]		
+orth	Morgeline		
+entry	Morgue [Amédée Dechambre]		
+orth	Morgue		
 entry	Moricheau		
 ref	Mauricheau		
-entry	Morilles		
+entry	Morilles [Jacques Bertillon]		
+orth	Morilles		
 pb	470	0474	4565769
 pb	471	0475	4565770
 pb	472	0476	4565771
 pb	473	0477	4565772
-entry	Mora		
-entry	Morin		
+entry	Mora [Amédée Dechambre]		
+orth	Mora		
+entry	Morin [D.]		
+orth	Morin		
 pb	474	0478	4565773
-entry	Morinda		
+entry	Morinda [G. Planchon]		
+orth	Morinda		
 pb	475	0479	4565774
-entry	Morindine		
-entry	Morine		
-entry	Moringa		
+entry	Morindine [Amédée Dechambre]		
+orth	Morindine		
+entry	Morine [Amédée Dechambre]		
+orth	Morine		
+entry	Moringa [G. Planchon]		
+orth	Moringa		
 pb	476	0480	4565775
-entry	Moringique (Acide)		
-entry	Morintannique (Acide) ou Maclurine		
-entry	Morio		
-entry	Morison (Robert)		
+entry	Moringique (Acide) [Amédée Dechambre]		
+orth	Moringique (Acide)		
+entry	Morintannique (Acide) ou Maclurine [Amédée Dechambre]		
+orth	Morintannique (Acide) ou Maclurine		
+entry	Morio [G. Planchon]		
+orth	Morio		
+entry	Morison (Robert) [A. Dureau]		
+orth	Morison (Robert)		
 pb	477	0481	4565776
-entry	Morisonia		
-entry	Moritz (Saint-) (Eaux minérales de)		
+entry	Morisonia [H. Baillon]		
+orth	Morisonia		
+entry	Moritz (Saint-) (Eaux minérales de) [A. Rotureau]		
+orth	Moritz (Saint-) (Eaux minérales de)		
 pb	478	0482	4565777
 pb	479	0483	4565778
 pb	480	0484	4565779
@@ -737,26 +893,35 @@ pb	482	0486	4565781
 pb	483	0487	4565782
 pb	484	0488	4565783
 pb	485	0489	4565784
-entry	Mormyres		
-entry	Moron		
-entry	Moronoboea		
-entry	Moroxylique (Acide)		
-entry	Morpain (Denis-Alphonse-François)		
+entry	Mormyres [Paul Gervais]		
+orth	Mormyres		
+entry	Moron [G. Planchon]		
+orth	Moron		
+entry	Moronoboea [G. Planchon]		
+orth	Moronoboea		
+entry	Moroxylique (Acide) [Amédée Dechambre]		
+orth	Moroxylique (Acide)		
+entry	Morpain (Denis-Alphonse-François) [E. Beaugrand]		
+orth	Morpain (Denis-Alphonse-François)		
 pb	486	0490	4565785
-entry	Morphée		
+entry	Morphée [E. Bazin]		
+orth	Morphée		
 pb	487	0491	4565786
 entry	Morphée (Mycologie)		
 ref	Fumagine		
-entry	Morphétine		
+entry	Morphétine [C. Lutz]		
+orth	Morphétine		
 entry	Morphine et Apomorphine		
-entry	Morphine et Apomorphine. Chimie et pharmacie		
+entry	Morphine et Apomorphine. Chimie et pharmacie [C. Lutz]		
+orth	Morphine et Apomorphine. Chimie et pharmacie		
 pb	488	0492	4565787
 pb	489	0493	4565788
 pb	490	0494	4565789
 pb	491	0495	4565790
 pb	492	0496	4565791
 pb	493	0497	4565792
-entry	Morphine et Apomorphine. Thérapeutique		
+entry	Morphine et Apomorphine. Thérapeutique [Fonssagrives]		
+orth	Morphine et Apomorphine. Thérapeutique		
 pb	494	0498	4565793
 pb	495	0499	4565794
 pb	496	0500	4565795
@@ -784,15 +949,18 @@ entry	Toxicologie
 ref	Opium		
 entry	Morpion		
 ref	Pou		
-entry	Mors du diable		
+entry	Mors du diable [G. Planchon]		
+orth	Mors du diable		
 entry	Mors de poule		
 ref	Mouron		
-entry	Morse		
+entry	Morse [Paul Gervais]		
+orth	Morse		
 pb	517	0521	4565816
 entry	Morsures		
 ref	Plaies		
 entry	Mort		
-entry	Mort. Physiologie		
+entry	Mort. Physiologie [Émile Bertin]		
+orth	Mort. Physiologie		
 pb	518	0522	4565817
 pb	519	0523	4565818
 pb	520	0524	4565819
@@ -855,7 +1023,8 @@ pb	576	0580	4565875
 pb	577	0581	4565876
 pb	578	0582	4565877
 pb	579	0583	4565878
-entry	Mort. Médecine légale		
+entry	Mort. Médecine légale [G. Tourdes]		
+orth	Mort. Médecine légale		
 pb	580	0584	4565879
 pb	581	0585	4565880
 pb	582	0586	4565881
@@ -992,7 +1161,8 @@ pb	712	0716	4566011
 pb	713	0717	4566012
 pb	714	0718	4566013
 entry	Mort-né		
-entry	Mort violente		
+entry	Mort violente [Jacques Bertillon]		
+orth	Mort violente		
 pb	715	0719	4566014
 pb	716	0720	4566015
 pb	717	0721	4566016
@@ -1020,7 +1190,8 @@ entry	Mort au safran
 ref	Rhizoctonia Crocorum		
 entry	Mort aux vaches		
 ref	Renoncule scélérate		
-entry	Mortalité		
+entry	Mortalité [Jacques Bertillon]		
+orth	Mortalité		
 pb	726	0730	4566025
 pb	727	0731	4566026
 pb	728-729	0732	4566027

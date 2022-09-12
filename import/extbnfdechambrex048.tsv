@@ -1,34 +1,55 @@
 pb	[s. pag.]	0001	4535337
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4535338
 pb	[s. pag.]	0003	4535339
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4535340
 pb	1	0005	4535341
-entry	Haaff (Les)		
-entry	Haak (Pehr-Reinhold)		
+entry	Haaff (Les) [L. Hahn]		
+orth	Haaff (Les)		
+entry	Haak (Pehr-Reinhold) [A. Dureau]		
+orth	Haak (Pehr-Reinhold)		
 pb	2	0006	4535342
-entry	Haar (Jacob van der)		
-entry	Haartman (Les)		
+entry	Haar (Jacob van der) [L. Hahn]		
+orth	Haar (Jacob van der)		
+entry	Haartman (Les) [L. Hahn]		
+orth	Haartman (Les)		
 pb	3	0007	4535343
-entry	Haas (Friedrich-Joseph)		
+entry	Haartman (Les) [L. Hahn] [A. Dureau]		
+orth	Haartman (Les)		
+entry	Haas (Friedrich-Joseph) [L. Hahn]		
+orth	Haas (Friedrich-Joseph)		
 pb	4	0008	4535344
-entry	Haase (Les)		
+entry	Haase (Les) [L. Hahn]		
+orth	Haase (Les)		
 pb	5	0009	4535345
-entry	Habascon		
-entry	Habb-Hal ou Habbeschi		
-entry	Habbanil		
-entry	Habben		
-entry	Habbi		
-entry	Häberl (Les deux)		
+entry	Habascon [G. Planchon]		
+orth	Habascon		
+entry	Habb-Hal ou Habbeschi [G. Planchon]		
+orth	Habb-Hal ou Habbeschi		
+entry	Habbanil [G. Planchon]		
+orth	Habbanil		
+entry	Habben [G. Planchon]		
+orth	Habben		
+entry	Habbi [Amédée Dechambre]		
+orth	Habbi		
+entry	Häberl (Les deux) [L. Hahn]		
+orth	Häberl (Les deux)		
 pb	6	0010	4535346
-entry	Haberle (Karl-Constantin)		
+entry	Haberle (Karl-Constantin) [L. Hahn]		
+orth	Haberle (Karl-Constantin)		
 pb	7	0011	4535347
-entry	Habhah		
-entry	Habicot (Nicolas)		
+entry	Habhah [G. Planchon]		
+orth	Habhah		
+entry	Habicot (Nicolas) [A. Chéreau]		
+orth	Habicot (Nicolas)		
 pb	8	0012	4535348
 entry	Habit		
 ref	Vêtement		
-entry	Habitation		
-entry	Habitude		
+entry	Habitation [A.-J. Martin]		
+orth	Habitation		
+entry	Habitude [Amédée Dechambre]		
+orth	Habitude		
 pb	9	0013	4535349
 pb	10	0014	4535350
 pb	11	0015	4535351
@@ -36,30 +57,47 @@ pb	12	0016	4535352
 pb	13	0017	4535353
 pb	14	0018	4535354
 pb	15	0019	4535355
-entry	Habitus ou Habitude du corps		
-entry	Habseli		
-entry	Habzelia		
+entry	Habitus ou Habitude du corps [Amédée Dechambre]		
+orth	Habitus ou Habitude du corps		
+entry	Habseli [G. Planchon]		
+orth	Habseli		
+entry	Habzelia [G. Planchon]		
+orth	Habzelia		
 pb	16	0020	4535356
-entry	Hachic		
+entry	Hachic [G. Planchon]		
+orth	Hachic		
 entry	Hachisch		
 ref	Haschisch		
-entry	Hachure		
-entry	Hackel (Johann-Christoph)		
-entry	Hacker (Heinrich-August)		
-entry	Hacquet (Balthasar)		
+entry	Hachure [Amédée Dechambre]		
+orth	Hachure		
+entry	Hackel (Johann-Christoph) [L. Hahn]		
+orth	Hackel (Johann-Christoph)		
+entry	Hacker (Heinrich-August) [L. Hahn]		
+orth	Hacker (Heinrich-August)		
+entry	Hacquet (Balthasar) [L. Hahn]		
+orth	Hacquet (Balthasar)		
 pb	17	0021	4535357
-entry	Hacub		
-entry	Hadar		
-entry	Hadhas		
-entry	Haedes		
-entry	Haedhad, Hadath		
-entry	Haeggstrom (Olof)		
-entry	Hae-kin-sha		
+entry	Hacub [G. Planchon] [A. Dureau]		
+orth	Hacub		
+entry	Hadar [G. Planchon]		
+orth	Hadar		
+entry	Hadhas [G. Planchon]		
+orth	Hadhas		
+entry	Haedes [G. Planchon]		
+orth	Haedes		
+entry	Haedhad, Hadath [G. Planchon]		
+orth	Haedhad, Hadath		
+entry	Haeggstrom (Olof) [A. Dureau]		
+orth	Haeggstrom (Olof)		
+entry	Hae-kin-sha [G. Planchon]		
+orth	Hae-kin-sha		
 pb	18	0022	4535358
 entry	Haemacyanine		
 ref	Hémacyanine		
-entry	Haemagogum		
-entry	Haemanthus		
+entry	Haemagogum [G. Planchon]		
+orth	Haemagogum		
+entry	Haemanthus [G. Planchon]		
+orth	Haemanthus		
 entry	Haemaphéine		
 ref	Hémaphéine		
 entry	Haematéine		
@@ -75,59 +113,88 @@ entry	Haemophilie
 ref	Hémophilie		
 entry	Haemopis		
 ref	Hémopis		
-entry	Haën (Antoine de)		
+entry	Haën (Antoine de) [A. Chéreau]		
+orth	Haën (Antoine de)		
 pb	19	0023	4535359
 pb	20	0024	4535360
 entry	Haeser		
 ref	Häser		
-entry	Hafenreffer ou Haffenreffer (Samuel)		
-entry	Hafs, Hafus		
-entry	Hagedorn (Marius)		
-entry	Hagelstein (Franz-Daniel)		
+entry	Hafenreffer ou Haffenreffer (Samuel) [L. Hahn]		
+orth	Hafenreffer ou Haffenreffer (Samuel)		
+entry	Hafs, Hafus [G. Planchon]		
+orth	Hafs, Hafus		
+entry	Hagedorn (Marius) [L. Hahn]		
+orth	Hagedorn (Marius)		
+entry	Hagelstein (Franz-Daniel) [A. Dureau]		
+orth	Hagelstein (Franz-Daniel)		
 pb	21	0025	4535361
-entry	Hagen (Les)		
+entry	Hagen (Les) [L. Hahn]		
+orth	Hagen (Les)		
 pb	22	0026	4535362
 pb	23	0027	4535363
-entry	Hagenbach (Les)		
+entry	Hagenbach (Les) [L. Hahn]		
+orth	Hagenbach (Les)		
 pb	24	0028	4535364
-entry	Hagenbut, Haynpol ou Hanbut (Janus)		
+entry	Hagenbut, Haynpol ou Hanbut (Janus) [L. Hahn]		
+orth	Hagenbut, Haynpol ou Hanbut (Janus)		
 pb	25	0029	4535365
-entry	Hagendorn (Ehrenfried)		
+entry	Hagendorn (Ehrenfried) [A. Dureau]		
+orth	Hagendorn (Ehrenfried)		
 entry	Hagenia		
 ref	Cousso		
-entry	Hager (Johan-Henric		
-entry	Hagias		
-entry	Hagström (Les)		
+entry	Hager (Johan-Henric [A. Dureau]		
+orth	Hager (Johan-Henric		
+entry	Hagias [G. Planchon]		
+orth	Hagias		
+entry	Hagström (Les) [A. Dureau]		
+orth	Hagström (Les)		
 pb	26	0030	4535366
-entry	Hagströmer (Anders-Johan)		
+entry	Hagströmer (Anders-Johan) [A. Dureau]		
+orth	Hagströmer (Anders-Johan)		
 pb	27	0031	4535367
-entry	Haguenot (Henry)		
+entry	Haguenot (Henry) [A. Chéreau]		
+orth	Haguenot (Henry)		
 pb	28	0032	4535368
-entry	Hahn (Les)		
+entry	Hahn (Les) [L. Hahn]		
+orth	Hahn (Les)		
 pb	29	0033	4535369
 pb	30	0034	4535370
-entry	Hahnemann (Samuel-Chrétien-Frédéric)		
+entry	Hahnemann (Samuel-Chrétien-Frédéric) [A. Chéreau]		
+orth	Hahnemann (Samuel-Chrétien-Frédéric)		
 pb	31	0035	4535371
 pb	32	0036	4535372
 pb	33	0037	4535373
-entry	Hahnemann (Mercure soluble d')		
-entry	Haidenreich (Johann-Ludwig		
+entry	Hahnemann (Mercure soluble d') [Amédée Dechambre]		
+orth	Hahnemann (Mercure soluble d')		
+entry	Haidenreich (Johann-Ludwig [L. Hahn]		
+orth	Haidenreich (Johann-Ludwig		
 pb	34	0038	4535374
 entry	Haigans (Les)		
 ref	Arménie		
-entry	Haighton (John)		
-entry	Hai-Houng		
-entry	Haimarada		
-entry	Haimavati		
-entry	Haime (Auguste)		
-entry	Haindl (Anton-Franz)		
+entry	Haighton (John) [L. Hahn]		
+orth	Haighton (John)		
+entry	Hai-Houng [G. Planchon]		
+orth	Hai-Houng		
+entry	Haimarada [G. Planchon]		
+orth	Haimarada		
+entry	Haimavati [G. Planchon]		
+orth	Haimavati		
+entry	Haime (Auguste) [L. Hahn]		
+orth	Haime (Auguste)		
+entry	Haindl (Anton-Franz) [L. Hahn]		
+orth	Haindl (Anton-Franz)		
 pb	35	0039	4535375
-entry	Haindorf (Alexander)		
-entry	Hainlin (Sebastian)		
-entry	Hais		
-entry	Haiszler (Georg)		
+entry	Haindorf (Alexander) [L. Hahn]		
+orth	Haindorf (Alexander)		
+entry	Hainlin (Sebastian) [L. Hahn]		
+orth	Hainlin (Sebastian)		
+entry	Hais [G. Planchon]		
+orth	Hais		
+entry	Haiszler (Georg) [L. Hahn]		
+orth	Haiszler (Georg)		
 pb	36	0040	4535376
-entry	Haïti		
+entry	Haïti [A. Borius]		
+orth	Haïti		
 pb	37	0041	4535377
 pb	38	0042	4535378
 pb	39	0043	4535379
@@ -145,71 +212,102 @@ pb	50	0054	4535390
 pb	51	0055	4535391
 pb	52	0056	4535392
 pb	53	0057	4535393
-entry	Hai-yu		
+entry	Hai-yu [G. Planchon]		
+orth	Hai-yu		
 entry	Haja		
 ref	Aspic		
-entry	Hakea		
-entry	Halandal, Halandel		
+entry	Hakea [G. Planchon]		
+orth	Hakea		
+entry	Halandal, Halandel [Ed. Lefèvre]		
+orth	Halandal, Halandel		
 pb	54	0058	4535394
-entry	Halantlaquacuit-lapille		
-entry	Halbach (Daniel)		
-entry	Halberstaedter (Joseph)		
-entry	Halbertsma (Hidde-Justusz)		
+entry	Halantlaquacuit-lapille [Ed. Lefèvre]		
+orth	Halantlaquacuit-lapille		
+entry	Halbach (Daniel) [L. Hahn]		
+orth	Halbach (Daniel)		
+entry	Halberstaedter (Joseph) [A. Dureau]		
+orth	Halberstaedter (Joseph)		
+entry	Halbertsma (Hidde-Justusz) [L. Hahn]		
+orth	Halbertsma (Hidde-Justusz)		
 pb	55	0059	4535395
-entry	Halcacahualt		
-entry	Haldat du Lys (Charles-Nicolas-Alexandre)		
-entry	Haleine		
+entry	Halcacahualt [Ed. Lefèvre]		
+orth	Halcacahualt		
+entry	Haldat du Lys (Charles-Nicolas-Alexandre) [L. Hahn]		
+orth	Haldat du Lys (Charles-Nicolas-Alexandre)		
+entry	Haleine [Amédée Dechambre, L. Hahn]		
+orth	Haleine		
 pb	56	0060	4535396
 pb	57	0061	4535397
 pb	58	0062	4535398
 pb	59	0063	4535399
 pb	60	0064	4535400
-entry	Halem (Friedrich-Wilhelm von)		
+entry	Halem (Friedrich-Wilhelm von) [L. Hahn]		
+orth	Halem (Friedrich-Wilhelm von)		
 pb	61	0065	4535401
-entry	Halenius (Jonas-Petri)		
-entry	Hales (Stephen)		
+entry	Halenius (Jonas-Petri) [L. Hahn]		
+orth	Halenius (Jonas-Petri)		
+entry	Hales (Stephen) [L. Hahn]		
+orth	Hales (Stephen)		
 pb	62	0066	4535402
-entry	Halford (Sir Henry)		
+entry	Halford (Sir Henry) [L. Hahn]		
+orth	Halford (Sir Henry)		
 entry	Hali-ben-Abbas		
 ref	Haly Abbas		
 pb	63	0067	4535403
-entry	Halicacabum		
-entry	Halim		
-entry	Halimatia		
-entry	Haliotide		
-entry	Halitueux		
+entry	Halicacabum [Ed. Lefèvre]		
+orth	Halicacabum		
+entry	Halim [Ed. Lefèvre]		
+orth	Halim		
+entry	Halimatia [Ed. Lefèvre]		
+orth	Halimatia		
+entry	Haliotide [Ed. Lefèvre]		
+orth	Haliotide		
+entry	Halitueux [L. Hahn]		
+orth	Halitueux		
 pb	64	0068	4535404
-entry	Hall (Les)		
+entry	Hall (Les) [L. Hahn]		
+orth	Hall (Les)		
 pb	65	0069	4535405
 pb	66	0070	4535406
 entry	Hall (John)		
 ref	Halle		
-entry	Hall (Eaux minérales de) (Basse-Autriche)		
+entry	Hall (Eaux minérales de) (Basse-Autriche) [A. Rotureau]		
+orth	Hall (Eaux minérales de) (Basse-Autriche)		
 pb	67	0071	4535407
 pb	68	0072	4535408
-entry	Hall (Eaux minérale de) (Tyrol autrichien)		
-entry	Hall (Eau minérale de ) (Wurtemberg)		
+entry	Hall (Eaux minérale de) (Tyrol autrichien) [A. Rotureau]		
+orth	Hall (Eaux minérale de) (Tyrol autrichien)		
+entry	Hall (Eau minérale de ) (Wurtemberg) [A. Rotureau]		
+orth	Hall (Eau minérale de ) (Wurtemberg)		
 pb	69	0073	4535409
-entry	Halle ou Hall (John)		
+entry	Halle ou Hall (John) [L. Hahn]		
+orth	Halle ou Hall (John)		
 pb	70	0074	4535410
-entry	Halle (Eaux minérales de)		
+entry	Halle (Eaux minérales de) [A. Rotureau]		
+orth	Halle (Eaux minérales de)		
 pb	71	0075	4535411
-entry	Hallé (Jean-Noël)		
+entry	Hallé (Jean-Noël) [A. Chéreau]		
+orth	Hallé (Jean-Noël)		
 pb	72	0076	4535412
-entry	Haller (Albert)		
+entry	Haller (Albert) [A. Chéreau]		
+orth	Haller (Albert)		
 pb	73	0077	4535413
 pb	74	0078	4535414
 pb	75	0079	4535415
 pb	76	0080	4535416
 entry	Halles et Marchés		
 ref	Ville		
-entry	Halliday (Andrew)		
-entry	Hallmann (Eduard)		
+entry	Halliday (Andrew) [L. Hahn]		
+orth	Halliday (Andrew)		
+entry	Hallmann (Eduard) [L. Hahn]		
+orth	Hallmann (Eduard)		
 pb	77	0081	4535417
 entry	Halloran		
 ref	O'Halloran		
-entry	Hallström (Carl-Emanuel)		
-entry	Hallucination		
+entry	Hallström (Carl-Emanuel) [A. Dureau]		
+orth	Hallström (Carl-Emanuel)		
+entry	Hallucination [J. Christian]		
+orth	Hallucination		
 pb	78	0082	4535418
 pb	79	0083	4535419
 pb	80	0084	4535420
@@ -254,41 +352,61 @@ pb	118	0122	4535458
 pb	119	0123	4535459
 pb	120	0124	4535460
 pb	121	0125	4535461
-entry	Halogènes (Corps)		
+entry	Halogènes (Corps) [C. Lutz]		
+orth	Halogènes (Corps)		
 pb	122	0126	4535462
-entry	Halogeton		
+entry	Halogeton [Ed. Lefèvre]		
+orth	Halogeton		
 entry	Haloïdes (Sels)		
 ref	Halogènes (Corps)		
-entry	Haloragées		
-entry	Haltères		
-entry	Haly-Abbas		
+entry	Haloragées [Ed. Lefèvre]		
+orth	Haloragées		
+entry	Haltères [L. Hahn]		
+orth	Haltères		
+entry	Haly-Abbas [L. Leclerc]		
+orth	Haly-Abbas		
 pb	123	0127	4535463
 entry	Hamamelis		
-entry	Hamamelis. Botanique		
+entry	Hamamelis. Botanique [H. Baillon]		
+orth	Hamamelis. Botanique		
 pb	124	0128	4535464
-entry	Hamamelis. Emploi médical		
+entry	Hamamelis. Emploi médical [Bazile Féris]		
+orth	Hamamelis. Emploi médical		
 pb	125	0129	4535465
 pb	126	0130	4535466
 pb	127	0131	4535467
 pb	128	0132	4535468
-entry	Hamberger (Les)		
+entry	Hamberger (Les) [A. Chéreau, L. Hahn]		
+orth	Hamberger (Les)		
 pb	129	0133	4535469
-entry	Hamchavella		
-entry	Hameau (Jean)		
+entry	Hamchavella [Ed. Lefèvre]		
+orth	Hamchavella		
+entry	Hameau (Jean) [L. Hahn]		
+orth	Hameau (Jean)		
 pb	130	0134	4535470
-entry	Hamefiteos		
-entry	Hamel (Les deux)		
-entry	Hamelia		
+entry	Hamefiteos [Ed. Lefèvre]		
+orth	Hamefiteos		
+entry	Hamel (Les deux) [L. Hahn]		
+orth	Hamel (Les deux)		
+entry	Hamelia [Ed. Lefèvre]		
+orth	Hamelia		
 pb	131	0135	4535471
-entry	Hamey (Baldwin)		
-entry	Hamilton (Les)		
+entry	Hamelia [Ed. Lefèvre] [L. Hahn]		
+orth	Hamelia		
+entry	Hamey (Baldwin) [L. Hahn]		
+orth	Hamey (Baldwin)		
+entry	Hamilton (Les) [L. Hahn]		
+orth	Hamilton (Les)		
 pb	132	0136	4535472
 pb	133	0137	4535473
 pb	134	0138	4535474
-entry	Hamma (Eaux minérales de)		
-entry	Hammam		
+entry	Hamma (Eaux minérales de) [A. Rotureau]		
+orth	Hamma (Eaux minérales de)		
+entry	Hammam [A. Rotureau]		
+orth	Hammam		
 pb	135	0139	4535475
-entry	Hammams (Les)		
+entry	Hammams (Les) [A. Rotureau]		
+orth	Hammams (Les)		
 pb	136	0140	4535476
 pb	137	0141	4535477
 pb	138	0142	4535478
@@ -321,22 +439,34 @@ pb	164	0168	4535504
 pb	165	0169	4535505
 pb	166	0170	4535506
 pb	167	0171	4535507
-entry	Hammen (Ludwig von)		
+entry	Hammen (Ludwig von) [L. Hahn]		
+orth	Hammen (Ludwig von)		
 pb	168	0172	4535508
-entry	Hammer (Adam)		
-entry	Hammick (Sir Stephen Love)		
+entry	Hammer (Adam) [L. Hahn]		
+orth	Hammer (Adam)		
+entry	Hammick (Sir Stephen Love) [L. Hahn]		
+orth	Hammick (Sir Stephen Love)		
 entry	Hamoa		
 ref	Océanie		
-entry	Hamon (Jean)		
+entry	Hamon (Jean) [A. Chéreau]		
+orth	Hamon (Jean)		
 pb	169	0173	4535509
-entry	Hamont (Pierre-François)		
+entry	Hamont (Pierre-François) [L. Hahn]		
+orth	Hamont (Pierre-François)		
 pb	170	0174	4535510
-entry	Hampe (Friedrich-Ludwig)		
-entry	Hamulaire		
-entry	Hanbury (Les deux)		
+entry	Hamont (Pierre-François) [L. Hahn] [A. Dureau]		
+orth	Hamont (Pierre-François)		
+entry	Hampe (Friedrich-Ludwig) [A. Dureau]		
+orth	Hampe (Friedrich-Ludwig)		
+entry	Hamulaire [Ed. Lefèvre]		
+orth	Hamulaire		
+entry	Hanbury (Les deux) [L. Hahn]		
+orth	Hanbury (Les deux)		
 pb	171	0175	4535511
-entry	Hanche		
-entry	Hanche. Anatomie		
+entry	Hanche [Rohmer de Nancy]		
+orth	Hanche		
+entry	Hanche. Anatomie [Rohmer de Nancy]		
+orth	Hanche. Anatomie		
 pb	172	0176	4535512
 pb	173	0177	4535513
 pb	174	0178	4535514
@@ -346,7 +476,8 @@ pb	177	0181	4535517
 pb	178	0182	4535518
 pb	179	0183	4535519
 pb	180	0184	4535520
-entry	Hanche. Physiologie		
+entry	Hanche. Physiologie [Rohmer de Nancy]		
+orth	Hanche. Physiologie		
 pb	181	0185	4535521
 pb	182	0186	4535522
 pb	183	0187	4535523
@@ -361,11 +492,13 @@ pb	191	0195	4535531
 pb	192	0196	4535532
 pb	193	0197	4535533
 pb	194	0198	4535534
-entry	Hanche. Développement		
+entry	Hanche. Développement [Rohmer de Nancy]		
+orth	Hanche. Développement		
 pb	195	0199	4535535
 pb	196	0200	4535536
 entry	Pathologie		
-entry	Hanche. Pathologie. Affections congénitales		
+entry	Hanche. Pathologie. Affections congénitales [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Affections congénitales		
 pb	197	0201	4535537
 pb	198	0202	4535538
 pb	199	0203	4535539
@@ -390,7 +523,8 @@ pb	217	0221	4535557
 pb	218	0222	4535558
 pb	219	0223	4535559
 pb	220	0224	4535560
-entry	Hanche. Pathologie. Traumatismes		
+entry	Hanche. Pathologie. Traumatismes [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Traumatismes		
 pb	221	0225	4535561
 pb	222	0226	4535562
 pb	223	0227	4535563
@@ -435,7 +569,8 @@ pb	261	0265	4535601
 pb	262	0266	4535602
 pb	263	0267	4535603
 pb	264	0268	4535604
-entry	Hanche. Pathologie. Luxations traumatiques		
+entry	Hanche. Pathologie. Luxations traumatiques [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Luxations traumatiques		
 pb	265	0269	4535605
 pb	266	0270	4535606
 pb	267	0271	4535607
@@ -500,7 +635,8 @@ pb	325	0329	4535665
 pb	326	0330	4535666
 pb	327	0331	4535667
 entry	Hanche. Pathologie		
-entry	Hanche. Pathologie. Arthrite déformante		
+entry	Hanche. Pathologie. Arthrite déformante [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Arthrite déformante		
 pb	328	0332	4535668
 pb	329	0333	4535669
 pb	330	0334	4535670
@@ -512,7 +648,8 @@ pb	335	0339	4535675
 pb	336	0340	4535676
 pb	337	0341	4535677
 pb	338	0342	4535678
-entry	Hanche. Pathologie. Périarthrite coxo-fémorale		
+entry	Hanche. Pathologie. Périarthrite coxo-fémorale [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Périarthrite coxo-fémorale		
 pb	339	0343	4535679
 pb	340	0344	4535680
 pb	341	0345	4535681
@@ -524,7 +661,8 @@ pb	346	0350	4535686
 pb	347	0351	4535687
 pb	348	0352	4535688
 pb	349	0353	4535689
-entry	Hanche. Pathologie. Coxalgie hystérique		
+entry	Hanche. Pathologie. Coxalgie hystérique [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Coxalgie hystérique		
 pb	350	0354	4535690
 pb	351	0355	4535691
 pb	352	0356	4535692
@@ -534,7 +672,8 @@ pb	355	0359	4535695
 pb	356	0360	4535696
 pb	357	0361	4535697
 pb	358	0362	4535698
-entry	Hanche. Pathologie. Tumeurs de la hanche		
+entry	Hanche. Pathologie. Tumeurs de la hanche [Rohmer de Nancy]		
+orth	Hanche. Pathologie. Tumeurs de la hanche		
 pb	359	0363	4535699
 pb	360	0364	4535700
 pb	361	0365	4535701
@@ -557,7 +696,8 @@ pb	377	0381	4535717
 pb	378	0382	4535718
 pb	379	0383	4535719
 entry	Médecine opératoire		
-entry	Hanche. Médecine opératoire. Désarticulation coxo-fémorale		
+entry	Hanche. Médecine opératoire. Désarticulation coxo-fémorale [Rohmer de Nancy]		
+orth	Hanche. Médecine opératoire. Désarticulation coxo-fémorale		
 pb	380	0384	4535720
 pb	381	0385	4535721
 pb	382	0386	4535722
@@ -585,7 +725,8 @@ pb	403	0407	4535743
 pb	404	0408	4535744
 pb	405	0409	4535745
 pb	406	0410	4535746
-entry	Hanche. Médecine opératoire. Résection coxo-fémorale		
+entry	Hanche. Médecine opératoire. Résection coxo-fémorale [Rohmer de Nancy]		
+orth	Hanche. Médecine opératoire. Résection coxo-fémorale		
 pb	407	0411	4535747
 pb	408	0412	4535748
 pb	409	0413	4535749
@@ -599,7 +740,8 @@ pb	416	0420	4535756
 pb	417	0421	4535757
 pb	418	0422	4535758
 pb	419	0423	4535759
-entry	Hanche. Médecine opératoire. Prothèse		
+entry	Hanche. Médecine opératoire. Prothèse [Rohmer de Nancy]		
+orth	Hanche. Médecine opératoire. Prothèse		
 pb	420	0424	4535760
 pb	421	0425	4535761
 pb	422	0426	4535762
@@ -613,33 +755,55 @@ pb	429	0433	4535769
 pb	430	0434	4535770
 pb	431	0435	4535771
 pb	432	0436	4535772
-entry	Hancke (Johann-Wenceslaus)		
+entry	Hanche. Médecine opératoire. Prothèse [Rohmer de Nancy] [L. Hahn]		
+orth	Hanche. Médecine opératoire. Prothèse		
+entry	Hancke (Johann-Wenceslaus) [L. Hahn]		
+orth	Hancke (Johann-Wenceslaus)		
 pb	433	0437	4535773
-entry	Hancock (Les trois)		
+entry	Hancock (Les trois) [L. Hahn]		
+orth	Hancock (Les trois)		
 pb	434	0438	4535774
-entry	Hancornia		
-entry	Handalam. Handhal. Handhel. Hensal		
-entry	Handel (Georg-Theodor-Christoph)		
+entry	Hancock (Les trois) [L. Hahn] [Ed. Lefèvre]		
+orth	Hancock (Les trois)		
+entry	Hancornia [Ed. Lefèvre]		
+orth	Hancornia		
+entry	Handalam. Handhal. Handhel. Hensal [Ed. Lefèvre]		
+orth	Handalam. Handhal. Handhel. Hensal		
+entry	Handel (Georg-Theodor-Christoph) [L. Hahn]		
+orth	Handel (Georg-Theodor-Christoph)		
 pb	435	0439	4535775
-entry	Handschuh (Georg-Friedrich)		
-entry	Handtwig (Gustave-Chrétien de)		
-entry	Handyside (Peter-David)		
+entry	Handschuh (Georg-Friedrich) [L. Hahn]		
+orth	Handschuh (Georg-Friedrich)		
+entry	Handtwig (Gustave-Chrétien de) [A. Dureau]		
+orth	Handtwig (Gustave-Chrétien de)		
+entry	Handyside (Peter-David) [L. Hahn]		
+orth	Handyside (Peter-David)		
 pb	436	0440	4535776
-entry	Hänel (Albert-Friedrich)		
-entry	Hanin (L.)		
+entry	Hänel (Albert-Friedrich) [L. Hahn]		
+orth	Hänel (Albert-Friedrich)		
+entry	Hanin (L.) [L. Hahn]		
+orth	Hanin (L.)		
 pb	437	0441	4535777
-entry	Hanius (Martin)		
-entry	Hänke (Thaddée)		
-entry	Hanmann (Heinrich-Friedrich-Carl)		
-entry	Hannemann (Johann-Ludwig)		
+entry	Hanius (Martin) [L. Hahn]		
+orth	Hanius (Martin)		
+entry	Hänke (Thaddée) [L. Hahn]		
+orth	Hänke (Thaddée)		
+entry	Hanmann (Heinrich-Friedrich-Carl) [L. Hahn]		
+orth	Hanmann (Heinrich-Friedrich-Carl)		
+entry	Hannemann (Johann-Ludwig) [L. Hahn]		
+orth	Hannemann (Johann-Ludwig)		
 pb	438	0442	4535778
-entry	Hannes (Christian-Rudolph)		
-entry	Hanneton		
+entry	Hannes (Christian-Rudolph) [A. Dureau]		
+orth	Hannes (Christian-Rudolph)		
+entry	Hanneton [A. Laboulbène]		
+orth	Hanneton		
 pb	439	0443	4535779
 pb	440	0444	4535780
 pb	441	0445	4535781
-entry	Hannon (Joseph-Désiré)		
-entry	Hanovre ou Hannovre		
+entry	Hannon (Joseph-Désiré) [L. Hahn]		
+orth	Hannon (Joseph-Désiré)		
+entry	Hanovre ou Hannovre [Bazile Féris]		
+orth	Hanovre ou Hannovre		
 pb	442	0446	4535782
 pb	443	0447	4535783
 pb	444	0448	4535784
@@ -652,17 +816,23 @@ pb	450	0454	4535790
 pb	451	0455	4535791
 pb	452	0456	4535792
 pb	453	0457	4535793
-entry	Hansen (Les)		
-entry	Hanstein (Samuel-Ferdinand)		
+entry	Hansen (Les) [A. Dureau, L. Hahn]		
+orth	Hansen (Les)		
+entry	Hanstein (Samuel-Ferdinand) [L. Hahn]		
+orth	Hanstein (Samuel-Ferdinand)		
 pb	454	0458	4535794
-entry	Hanström (Svante-Peter)		
-entry	Hanta		
-entry	Haofach		
+entry	Hanström (Svante-Peter) [A. Dureau]		
+orth	Hanström (Svante-Peter)		
+entry	Hanta [Ed. Lefèvre]		
+orth	Hanta		
+entry	Haofach [L. Hahn]		
+orth	Haofach		
 entry	Haoussas		
 ref	Nègres		
 entry	Haplotaxis		
 ref	Aplotaxis		
-entry	Haptogène		
+entry	Haptogène [Retterer]		
+orth	Haptogène		
 pb	455	0459	4535795
 pb	456	0460	4535796
 pb	457	0461	4535797
@@ -674,66 +844,112 @@ pb	462	0466	4535802
 pb	463	0467	4535803
 pb	464	0468	4535804
 pb	465	0469	4535805
-entry	Har, Hara		
-entry	Haradul		
-entry	Haram		
-entry	Haran-Kaha		
-entry	Harchies (Josse de)		
-entry	Hardeck (Eau minérale de)		
+entry	Har, Hara [Ed. Lefèvre]		
+orth	Har, Hara		
+entry	Haradul [Ed. Lefèvre]		
+orth	Haradul		
+entry	Haram [Ed. Lefèvre]		
+orth	Haram		
+entry	Haran-Kaha [Ed. Lefèvre]		
+orth	Haran-Kaha		
+entry	Harchies (Josse de) [L. Hahn]		
+orth	Harchies (Josse de)		
+entry	Hardeck (Eau minérale de) [A. Rotureau]		
+orth	Hardeck (Eau minérale de)		
 pb	466	0470	4535806
-entry	Harder (Les deux)		
-entry	Hardy (Les deux)		
+entry	Harder (Les deux) [L. Hahn]		
+orth	Harder (Les deux)		
+entry	Hardy (Les deux) [L. Hahn]		
+orth	Hardy (Les deux)		
 pb	467	0471	4535807
-entry	Hare (Robert)		
-entry	Harel du Tancrel (Augustin)		
-entry	Hareng		
+entry	Hare (Robert) [L. Hahn]		
+orth	Hare (Robert)		
+entry	Harel du Tancrel (Augustin) [L. Hahn]		
+orth	Harel du Tancrel (Augustin)		
+entry	Hareng [H.-E. Sauvage]		
+orth	Hareng		
 pb	468	0472	4535808
 pb	469	0473	4535809
-entry	Hargens (Christian-Friedrich)		
+entry	Hargens (Christian-Friedrich) [A. Dureau]		
+orth	Hargens (Christian-Friedrich)		
 pb	470	0474	4535810
-entry	Hari Raja Sarma		
-entry	Haricot		
+entry	Hari Raja Sarma [G. Liétard]		
+orth	Hari Raja Sarma		
+entry	Haricot [H. Baillon]		
+orth	Haricot		
 pb	471	0475	4535811
-entry	Haridra		
-entry	Hârîta		
+entry	Haricot [H. Baillon] [G. Liétard]		
+orth	Haricot		
+entry	Haridra [Ed. Lefèvre]		
+orth	Haridra		
+entry	Hârîta [G. Liétard]		
+orth	Hârîta		
 pb	472	0476	4535812
-entry	Haritaka		
-entry	Harlan (Richard)		
-entry	Harle		
+entry	Haritaka [Ed. Lefèvre]		
+orth	Haritaka		
+entry	Harlan (Richard) [A. Dureau]		
+orth	Harlan (Richard)		
+entry	Harle [E. Oustalet]		
+orth	Harle		
 pb	473	0477	4535813
-entry	Harlem (Huile de)		
-entry	Harless (Les deux)		
+entry	Harle [E. Oustalet] [L. Hahn]		
+orth	Harle		
+entry	Harlem (Huile de) [L. Hahn]		
+orth	Harlem (Huile de)		
+entry	Harless (Les deux) [L. Hahn]		
+orth	Harless (Les deux)		
 pb	474	0478	4535814
 entry	Harmala, Harmel		
 ref	Peganum		
-entry	Harmaline		
+entry	Harmaline [L. Hahn]		
+orth	Harmaline		
 pb	475	0479	4535815
-entry	Harmand de Montgarny (Les)		
-entry	Harmant (Dominique-Benoit)		
+entry	Harmand de Montgarny (Les) [L. Hahn]		
+orth	Harmand de Montgarny (Les)		
+entry	Harmant (Dominique-Benoit) [L. Hahn]		
+orth	Harmant (Dominique-Benoit)		
 pb	476	0480	4535816
-entry	Harmaou		
-entry	Harmattan		
-entry	Harmel		
-entry	Harmes (Heinrich)		
-entry	Harmine		
-entry	Harmon		
-entry	Harnier (Richard-Maria)		
+entry	Harmaou [Ed. Lefèvre]		
+orth	Harmaou		
+entry	Harmattan [L. Hahn]		
+orth	Harmattan		
+entry	Harmel [L. Hahn]		
+orth	Harmel		
+entry	Harmes (Heinrich) [A. Dureau]		
+orth	Harmes (Heinrich)		
+entry	Harmine [L. Hahn]		
+orth	Harmine		
+entry	Harmon [Ed. Lefèvre]		
+orth	Harmon		
+entry	Harnier (Richard-Maria) [L. Hahn]		
+orth	Harnier (Richard-Maria)		
 pb	477	0481	4535817
-entry	Harpacantha		
-entry	Harpe		
-entry	Harpe (Philippe de la)		
+entry	Harpacantha [Ed. Lefèvre]		
+orth	Harpacantha		
+entry	Harpe [Ed. Lefèvre]		
+orth	Harpe		
+entry	Harpe (Philippe de la) [L. Hahn]		
+orth	Harpe (Philippe de la)		
 pb	478	0482	4535818
-entry	Harper (Andrew)		
-entry	Harpestreng (Henrik)		
-entry	Harrach (Karl-Borromäus, comte de)		
-entry	Harrer (Hubert von)		
+entry	Harper (Andrew) [L. Hahn]		
+orth	Harper (Andrew)		
+entry	Harpestreng (Henrik) [L. Hahn]		
+orth	Harpestreng (Henrik)		
+entry	Harrach (Karl-Borromäus, comte de) [L. Hahn]		
+orth	Harrach (Karl-Borromäus, comte de)		
+entry	Harrer (Hubert von) [A. Dureau]		
+orth	Harrer (Hubert von)		
 pb	479	0483	4535819
-entry	Harries (Gwynne)		
-entry	Harris (Les deux)		
+entry	Harries (Gwynne) [L. Hahn]		
+orth	Harries (Gwynne)		
+entry	Harris (Les deux) [L. Hahn]		
+orth	Harris (Les deux)		
 pb	480	0484	4535820
-entry	Harrison (Les)		
+entry	Harrison (Les) [L. Hahn]		
+orth	Harrison (Les)		
 pb	481	0485	4535821
-entry	Harrogate ou Harrowgate (Eaux minérales de)		
+entry	Harrogate ou Harrowgate (Eaux minérales de) [A. Rotureau]		
+orth	Harrogate ou Harrowgate (Eaux minérales de)		
 pb	482	0486	4535822
 pb	483	0487	4535823
 pb	484	0488	4535824
@@ -741,40 +957,60 @@ pb	485	0489	4535825
 pb	486	0490	4535826
 pb	487	0491	4535827
 pb	488	0492	4535828
-entry	Harshakirti Suri		
-entry	Harsu (Jacques de)		
+entry	Harshakirti Suri [G. Liétard] [L. Hahn]		
+orth	Harshakirti Suri		
+entry	Harsu (Jacques de) [L. Hahn]		
+orth	Harsu (Jacques de)		
 pb	489	0493	4535829
-entry	Hartenfels (Georg-Christoph-Petri von)		
-entry	Hartenkeil (Johann-Jacob)		
+entry	Hartenfels (Georg-Christoph-Petri von) [L. Hahn]		
+orth	Hartenfels (Georg-Christoph-Petri von)		
+entry	Hartenkeil (Johann-Jacob) [L. Hahn]		
+orth	Hartenkeil (Johann-Jacob)		
 pb	490	0494	4535830
-entry	Hartig (Johann)		
-entry	Hartlaub (Carl-Georg-Christian)		
-entry	Hartley (David)		
+entry	Hartig (Johann) [L. Hahn]		
+orth	Hartig (Johann)		
+entry	Hartlaub (Carl-Georg-Christian) [A. Dureau]		
+orth	Hartlaub (Carl-Georg-Christian)		
+entry	Hartley (David) [L. Hahn]		
+orth	Hartley (David)		
 pb	491	0495	4535831
-entry	Hartlier (Johann)		
-entry	Hartman (Carl-Johan)		
-entry	Hartmann (Les)		
+entry	Hartlier (Johann) [L. Hahn]		
+orth	Hartlier (Johann)		
+entry	Hartman (Carl-Johan) [L. Hahn]		
+orth	Hartman (Carl-Johan)		
+entry	Hartmann (Les) [L. Hahn]		
+orth	Hartmann (Les)		
 pb	492	0496	4535832
 pb	493	0497	4535833
 pb	494	0498	4535834
 pb	495	0499	4535835
-entry	Hartmann (Poudre de)		
-entry	Hartshorne (Joseph)		
-entry	Hartsöker (Nicolaas)		
+entry	Hartmann (Poudre de) [L. Hahn]		
+orth	Hartmann (Poudre de)		
+entry	Hartshorne (Joseph) [L. Hahn]		
+orth	Hartshorne (Joseph)		
+entry	Hartsöker (Nicolaas) [L. Hahn]		
+orth	Hartsöker (Nicolaas)		
 pb	496	0500	4535836
-entry	Hartwig (Christian-Adolph)		
+entry	Hartwig (Christian-Adolph) [L. Hahn]		
+orth	Hartwig (Christian-Adolph)		
 entry	Haruspices		
 ref	Divination		
-entry	Harvet (Israel)		
-entry	Harvey (Les)		
+entry	Harvet (Israel) [L. Hahn]		
+orth	Harvet (Israel)		
+entry	Harvey (Les) [L. Hahn]		
+orth	Harvey (Les)		
 pb	497	0501	4535837
 pb	498	0502	4535838
 pb	499	0503	4535839
 pb	500	0504	4535840
-entry	Harwood (sir Besick)		
-entry	Hasar		
-entry	Haschaert (Pierre)		
-entry	Haschisch		
+entry	Harwood (sir Besick) [L. Hahn]		
+orth	Harwood (sir Besick)		
+entry	Hasar [Ed. Lefèvre]		
+orth	Hasar		
+entry	Haschaert (Pierre) [L. Hahn]		
+orth	Haschaert (Pierre)		
+entry	Haschisch [Charles Éloy]		
+orth	Haschisch		
 pb	501	0505	4535841
 pb	502	0506	4535842
 pb	503	0507	4535843
@@ -793,58 +1029,94 @@ pb	515	0519	4535855
 pb	516	0520	4535856
 entry	Haschischine		
 ref	Haschisch		
-entry	Hase (Johann-Friedrich von)		
-entry	Haselberg (Les deux)		
+entry	Hase (Johann-Friedrich von) [A. Dureau]		
+orth	Hase (Johann-Friedrich von)		
+entry	Haselberg (Les deux) [A. Dureau]		
+orth	Haselberg (Les deux)		
 pb	517	0521	4535857
-entry	Hasenest (Les deux)		
-entry	Hasenoehrl (Johann-Georg)		
-entry	Häser (Heinrich)		
+entry	Hasenest (Les deux) [L. Hahn]		
+orth	Hasenest (Les deux)		
+entry	Hasenoehrl (Johann-Georg) [L. Hahn]		
+orth	Hasenoehrl (Johann-Georg)		
+entry	Häser (Heinrich) [L. Hahn]		
+orth	Häser (Heinrich)		
 pb	518	0522	4535858
 pb	519	0523	4535859
-entry	Haslam (John)		
-entry	Hasper (Moritz)		
-entry	Hasselqvist (Fredrik)		
+entry	Haslam (John) [A. Dureau]		
+orth	Haslam (John)		
+entry	Hasper (Moritz) [L. Hahn]		
+orth	Hasper (Moritz)		
+entry	Hasselqvist (Fredrik) [L. Hahn]		
+orth	Hasselqvist (Fredrik)		
 pb	520	0524	4535860
-entry	Hasselt (J.-C. van)		
-entry	Hassing (Morten-Mortensen)		
+entry	Hasselt (J.-C. van) [L. Hahn]		
+orth	Hasselt (J.-C. van)		
+entry	Hassing (Morten-Mortensen) [L. Hahn]		
+orth	Hassing (Morten-Mortensen)		
 pb	521	0525	4535861
-entry	Hastings (Charles)		
-entry	Hastula Regis		
-entry	Hatab-Ahmar		
-entry	Hatin (Les deux)		
+entry	Hastings (Charles) [A. Dureau]		
+orth	Hastings (Charles)		
+entry	Hastula Regis [Ed. Lefèvre]		
+orth	Hastula Regis		
+entry	Hatab-Ahmar [Ed. Lefèvre]		
+orth	Hatab-Ahmar		
+entry	Hatin (Les deux) [L. Hahn]		
+orth	Hatin (Les deux)		
 pb	522	0526	4535862
-entry	Hatle		
-entry	Hattab-Achmar		
-entry	Hatvani de Hatvan (Étienne)		
+entry	Hatle [Ed. Lefèvre]		
+orth	Hatle		
+entry	Hattab-Achmar [Ed. Lefèvre]		
+orth	Hattab-Achmar		
+entry	Hatvani de Hatvan (Étienne) [L. Hahn]		
+orth	Hatvani de Hatvan (Étienne)		
 pb	523	0527	4535863
-entry	Haubner (Gottlieb-Carl)		
-entry	Hauck (Georg-Gustav-Philipp)		
+entry	Haubner (Gottlieb-Carl) [L. Hahn]		
+orth	Haubner (Gottlieb-Carl)		
+entry	Hauck (Georg-Gustav-Philipp) [L. Hahn]		
+orth	Hauck (Georg-Gustav-Philipp)		
 pb	524	0528	4535864
-entry	Haud		
-entry	Hauff (Gottlieb-Christian-Friedrich von)		
-entry	Haugsted (Frederik-Christian)		
+entry	Haud [Ed. Lefèvre]		
+orth	Haud		
+entry	Hauff (Gottlieb-Christian-Friedrich von) [L. Hahn]		
+orth	Hauff (Gottlieb-Christian-Friedrich von)		
+entry	Haugsted (Frederik-Christian) [A. Dureau]		
+orth	Haugsted (Frederik-Christian)		
 pb	525	0529	4535865
-entry	Hauner (August von)		
-entry	Haupt (Friedrich-Gottlieb)		
-entry	Hauptmann (August)		
-entry	Haurowitz (Harry-Valentin von)		
+entry	Hauner (August von) [L. Hahn]		
+orth	Hauner (August von)		
+entry	Haupt (Friedrich-Gottlieb) [L. Hahn]		
+orth	Haupt (Friedrich-Gottlieb)		
+entry	Hauptmann (August) [L. Hahn]		
+orth	Hauptmann (August)		
+entry	Haurowitz (Harry-Valentin von) [L. Hahn]		
+orth	Haurowitz (Harry-Valentin von)		
 pb	526	0530	4535866
-entry	Hausegi		
-entry	Hauser (Franz)		
-entry	Hausleutner (Emmanuel-Friedrich)		
+entry	Hausegi [Ed. Lefèvre]		
+orth	Hausegi		
+entry	Hauser (Franz) [L. Hahn]		
+orth	Hauser (Franz)		
+entry	Hausleutner (Emmanuel-Friedrich) [L. Hahn]		
+orth	Hausleutner (Emmanuel-Friedrich)		
 pb	527	0531	4535867
-entry	Hausmann (Johann-Stephan)		
-entry	Haustus		
+entry	Hausmann (Johann-Stephan) [L. Hahn]		
+orth	Hausmann (Johann-Stephan)		
+entry	Haustus [L. Hahn]		
+orth	Haustus		
 entry	Hauterive (Eau minérale d')		
 ref	Vichy		
-entry	Havenreuter (Sebaldus)		
-entry	Havers (Clopton)		
+entry	Havenreuter (Sebaldus) [L. Hahn]		
+orth	Havenreuter (Sebaldus)		
+entry	Havers (Clopton) [L. Hahn]		
+orth	Havers (Clopton)		
 pb	528	0532	4535868
-entry	Havet (Armand-Ernest-Maurice)		
-entry	Haviland (John)		
+entry	Havet (Armand-Ernest-Maurice) [L. Hahn]		
+orth	Havet (Armand-Ernest-Maurice)		
+entry	Haviland (John) [L. Hahn]		
+orth	Haviland (John)		
 entry	Havre (Le) (Station marine)		
 ref	Le havre		
-entry	Hawaï ou Havaï		
+entry	Hawaï ou Havaï [Bazile Féris]		
+orth	Hawaï ou Havaï		
 pb	529	0533	4535869
 pb	530	0534	4535870
 pb	531	0535	4535871
@@ -853,196 +1125,305 @@ pb	533	0537	4535873
 pb	534	0538	4535874
 pb	535	0539	4535875
 pb	536	0540	4535876
-entry	Hawkins (Les)		
+entry	Hawkins (Les) [L. Hahn]		
+orth	Hawkins (Les)		
 pb	537	0541	4535877
-entry	Haxis-Cachule		
+entry	Haxis-Cachule [Ed. Lefèvre]		
+orth	Haxis-Cachule		
 pb	538	0542	4535878
-entry	Haxthausen (Johann-Ludwig)		
-entry	Hayck (Thaddée de)		
-entry	Hayden (Les deux)		
+entry	Haxthausen (Johann-Ludwig) [L. Hahn]		
+orth	Haxthausen (Johann-Ludwig)		
+entry	Hayck (Thaddée de) [A. Dureau]		
+orth	Hayck (Thaddée de)		
+entry	Hayden (Les deux) [L. Hahn]		
+orth	Hayden (Les deux)		
 pb	539	0543	4535879
-entry	Hay-Fever		
+entry	Hay-Fever [B. Brochin]		
+orth	Hay-Fever		
 pb	540	0544	4535880
-entry	Haygarth (John)		
+entry	Haygarth (John) [L. Hahn]		
+orth	Haygarth (John)		
 pb	541	0545	4535881
-entry	Hay-Hoang		
-entry	Hayn (Albert)		
-entry	Hayne (Friedrich-Gottlob)		
+entry	Hay-Hoang [Ed. Lefèvre]		
+orth	Hay-Hoang		
+entry	Hayn (Albert) [L. Hahn]		
+orth	Hayn (Albert)		
+entry	Hayne (Friedrich-Gottlob) [L. Hahn]		
+orth	Hayne (Friedrich-Gottlob)		
 pb	542	0546	4535882
-entry	Hayner (Christian-August-Ferchtegott)		
+entry	Hayner (Christian-August-Ferchtegott) [A. Dureau]		
+orth	Hayner (Christian-August-Ferchtegott)		
 entry	Haynpol		
 ref	Hagenbut		
-entry	Hays (Isaac)		
-entry	Hayward (George)		
+entry	Hays (Isaac) [L. Hahn]		
+orth	Hays (Isaac)		
+entry	Hayward (George) [L. Hahn]		
+orth	Hayward (George)		
 pb	543	0547	4535883
-entry	Hayswen		
-entry	Hazon (Jacques-Albert)		
-entry	Hebenstreit (Les deux)		
+entry	Hayswen [Ed. Lefèvre]		
+orth	Hayswen		
+entry	Hazon (Jacques-Albert) [L. Hahn]		
+orth	Hazon (Jacques-Albert)		
+entry	Hebenstreit (Les deux) [L. Hahn]		
+orth	Hebenstreit (Les deux)		
 pb	544	0548	4535884
 pb	545	0549	4535885
-entry	Heberden (Les deux)		
+entry	Heberden (Les deux) [L. Hahn]		
+orth	Heberden (Les deux)		
 pb	546	0550	4535886
-entry	Hébétude		
+entry	Hébétude [B. Brochin]		
+orth	Hébétude		
 pb	547	0551	4535887
-entry	Hébra (Ferdinand-Ritter von)		
+entry	Hébra (Ferdinand-Ritter von) [L. Hahn]		
+orth	Hébra (Ferdinand-Ritter von)		
 pb	548	0552	4535888
-entry	Hebradendron		
-entry	Hébréard (François)		
+entry	Hébra (Ferdinand-Ritter von) [L. Hahn] [A. Dureau]		
+orth	Hébra (Ferdinand-Ritter von)		
+entry	Hebradendron [Ed. Lefèvre]		
+orth	Hebradendron		
+entry	Hébréard (François) [A. Dureau]		
+orth	Hébréard (François)		
 entry	Hébrides (Nouvelles)		
 ref	Mélanésie		
 pb	549	0553	4535889
-entry	Hechell (Frédéric-Bogumir)		
-entry	Hechtel (Joann-Leonhard)		
-entry	Heck (Johannes)		
+entry	Hechell (Frédéric-Bogumir) [L. Hahn]		
+orth	Hechell (Frédéric-Bogumir)		
+entry	Hechtel (Joann-Leonhard) [L. Hahn]		
+orth	Hechtel (Joann-Leonhard)		
+entry	Heck (Johannes) [L. Hahn]		
+orth	Heck (Johannes)		
 pb	550	0554	4535890
-entry	Hecker (Les)		
+entry	Hecker (Les) [L. Hahn]		
+orth	Hecker (Les)		
 pb	551	0555	4535891
 pb	552	0556	4535892
 pb	553	0557	4535893
-entry	Hecquet (Les deux)		
+entry	Hecquet (Les deux) [L. Hahn]		
+orth	Hecquet (Les deux)		
 pb	554	0558	4535894
 pb	555	0559	4535895
-entry	Hecticité		
+entry	Hecticité [B. Brochin]		
+orth	Hecticité		
 pb	556	0560	4535896
 pb	557	0561	4535897
 pb	558	0562	4535898
 pb	559	0563	4535899
-entry	Hectocotyle		
-entry	Hédémias		
-entry	Hedenborg (Johan)		
+entry	Hectocotyle [Ed. Lefèvre]		
+orth	Hectocotyle		
+entry	Hédémias [Ed. Lefèvre]		
+orth	Hédémias		
+entry	Hedenborg (Johan) [L. Hahn]		
+orth	Hedenborg (Johan)		
 pb	560	0564	4535900
-entry	Hedenus (Les deux)		
+entry	Hedenus (Les deux) [L. Hahn]		
+orth	Hedenus (Les deux)		
 pb	561	0565	4535901
-entry	Hedera (L.)		
-entry	Hédéralis		
-entry	Hédérine		
-entry	Hédérique (Acide)		
-entry	Hédérula		
+entry	Hedera (L.) [Ed. Lefèvre]		
+orth	Hedera (L.)		
+entry	Hédéralis [Ed. Lefèvre]		
+orth	Hédéralis		
+entry	Hédérine [L. Hahn]		
+orth	Hédérine		
+entry	Hédérique (Acide) [L. Hahn]		
+orth	Hédérique (Acide)		
+entry	Hédérula [Ed. Lefèvre]		
+orth	Hédérula		
 pb	562	0566	4535902
-entry	Hedychium		
-entry	Hedin (Sven-Anders)		
-entry	Hedlund (Thomas)		
+entry	Hedychium [Ed. Lefèvre]		
+orth	Hedychium		
+entry	Hedin (Sven-Anders) [L. Hahn]		
+orth	Hedin (Sven-Anders)		
+entry	Hedlund (Thomas) [A. Dureau]		
+orth	Hedlund (Thomas)		
 pb	563	0567	4535903
-entry	Hedman (Axel-Emanuel)		
-entry	Hedrich (Karl-Ernst)		
-entry	Hedwig (Les deux)		
+entry	Hedman (Axel-Emanuel) [A. Dureau]		
+orth	Hedman (Axel-Emanuel)		
+entry	Hedrich (Karl-Ernst) [L. Hahn]		
+orth	Hedrich (Karl-Ernst)		
+entry	Hedwig (Les deux) [L. Hahn]		
+orth	Hedwig (Les deux)		
 pb	564	0568	4535904
-entry	Hedwigia		
+entry	Hedwigia [Ed. Lefèvre]		
+orth	Hedwigia		
 pb	565	0569	4535905
-entry	Hedyotis		
+entry	Hedyotis [H. Baillon]		
+orth	Hedyotis		
 entry	Hedysarum		
-entry	Hedysarum. Botanique		
+entry	Hedysarum. Botanique [Ed. Lefèvre]		
+orth	Hedysarum. Botanique		
 pb	566	0570	4535906
-entry	Hedysarum. Emploi		
+entry	Hedysarum. Emploi [Charles Éloy]		
+orth	Hedysarum. Emploi		
 pb	567	0571	4535907
-entry	Heekeren (Jan van)		
-entry	Heer (Martin)		
+entry	Heekeren (Jan van) [L. Hahn]		
+orth	Heekeren (Jan van)		
+entry	Heer (Martin) [L. Hahn]		
+orth	Heer (Martin)		
 entry	Heer (Van)		
 ref	Heers		
-entry	Heerkens (Gerhard-Nikolaus)		
+entry	Heerkens (Gerhard-Nikolaus) [A. Dureau]		
+orth	Heerkens (Gerhard-Nikolaus)		
 pb	568	0572	4535908
-entry	Heermann (G.-H.)		
-entry	Heers (Henri van)		
-entry	Heffter (Johann-Karl)		
-entry	Hegar (Johann-Auguste)		
+entry	Heermann (G.-H.) [L. Hahn]		
+orth	Heermann (G.-H.)		
+entry	Heers (Henri van) [L. Hahn]		
+orth	Heers (Henri van)		
+entry	Heffter (Johann-Karl) [L. Hahn]		
+orth	Heffter (Johann-Karl)		
+entry	Hegar (Johann-Auguste) [L. Hahn]		
+orth	Hegar (Johann-Auguste)		
 pb	569	0573	4535909
-entry	Hegetschweiler (Johann-Heinrich)		
-entry	Hegewisch (Franz-Hermann)		
-entry	Heiberg (Les)		
+entry	Hegetschweiler (Johann-Heinrich) [L. Hahn]		
+orth	Hegetschweiler (Johann-Heinrich)		
+entry	Hegewisch (Franz-Hermann) [A. Dureau]		
+orth	Hegewisch (Franz-Hermann)		
+entry	Heiberg (Les) [L. Hahn]		
+orth	Heiberg (Les)		
 pb	570	0574	4535910
-entry	Heidenreich (Les)		
+entry	Heidenreich (Les) [L. Hahn]		
+orth	Heidenreich (Les)		
 pb	571	0575	4535911
-entry	Heidenschreider (Johann-Anton)		
-entry	Heider (Moritz-H.)		
+entry	Heidenschreider (Johann-Anton) [L. Hahn]		
+orth	Heidenschreider (Johann-Anton)		
+entry	Heider (Moritz-H.) [A. Dureau]		
+orth	Heider (Moritz-H.)		
 pb	572	0576	4535912
-entry	Heidler (Karl-Joseph)		
-entry	Heidsick (Franz-Heinrich)		
+entry	Heidler (Karl-Joseph) [L. Hahn]		
+orth	Heidler (Karl-Joseph)		
+entry	Heidsick (Franz-Heinrich) [A. Dureau]		
+orth	Heidsick (Franz-Heinrich)		
 entry	Heiland		
 ref	Heidenreich		
-entry	Heilbron (David-Cz)		
-entry	Heilbrunnen ou Heilbrunn ou Adelheidsquelle (Eaux minérale de)		
+entry	Heilbron (David-Cz) [L. Hahn]		
+orth	Heilbron (David-Cz)		
+entry	Heilbrunnen ou Heilbrunn ou Adelheidsquelle (Eaux minérale de) [A. Rotureau]		
+orth	Heilbrunnen ou Heilbrunn ou Adelheidsquelle (Eaux minérale de)		
 pb	573	0577	4535913
 pb	574	0578	4535914
 pb	575	0579	4535915
-entry	Heim (Ernst-Ludwiz)		
-entry	Heimreich (Johann)		
-entry	Heine (Les)		
+entry	Heim (Ernst-Ludwiz) [L. Hahn]		
+orth	Heim (Ernst-Ludwiz)		
+entry	Heimreich (Johann) [L. Hahn]		
+orth	Heimreich (Johann)		
+entry	Heine (Les) [L. Hahn]		
+orth	Heine (Les)		
 pb	576	0580	4535916
 pb	577	0581	4535917
 pb	578	0582	4535918
-entry	Heineke (Les)		
+entry	Heineke (Les) [L. Hahn]		
+orth	Heineke (Les)		
 pb	579	0583	4535919
-entry	Heineken ou Heinecken (Les)		
+entry	Heineken ou Heinecken (Les) [L. Hahn]		
+orth	Heineken ou Heinecken (Les)		
 pb	580	0584	4535920
-entry	Heiningius (Fr.)		
-entry	Heinrich (Les deux)		
-entry	Heinroth (Johann-Christian-August)		
+entry	Heiningius (Fr.) [L. Hahn]		
+orth	Heiningius (Fr.)		
+entry	Heinrich (Les deux) [L. Hahn]		
+orth	Heinrich (Les deux)		
+entry	Heinroth (Johann-Christian-August) [L. Hahn]		
+orth	Heinroth (Johann-Christian-August)		
 pb	581	0585	4535921
-entry	Heins		
-entry	Heinsius (Johann-August)		
-entry	Heintze ou Heinze (Friedrich-Adolph von)		
-entry	Heister (Les deux)		
+entry	Heins [A. Dureau]		
+orth	Heins		
+entry	Heinsius (Johann-August) [L. Hahn]		
+orth	Heinsius (Johann-August)		
+entry	Heintze ou Heinze (Friedrich-Adolph von) [L. Hahn]		
+orth	Heintze ou Heinze (Friedrich-Adolph von)		
+entry	Heister (Les deux) [L. Hahn]		
+orth	Heister (Les deux)		
 pb	582	0586	4535922
 pb	583	0587	4535923
 pb	584	0588	4535924
-entry	Hel		
-entry	Helbane		
-entry	Helbé ou Helbeh		
-entry	Helbert (Georg)		
-entry	Helbunion		
-entry	Helcalimbat		
-entry	Helch		
-entry	Held (Les)		
+entry	Hel [Ed. Lefèvre]		
+orth	Hel		
+entry	Helbane [Ed. Lefèvre]		
+orth	Helbane		
+entry	Helbé ou Helbeh [Ed. Lefèvre]		
+orth	Helbé ou Helbeh		
+entry	Helbert (Georg) [L. Hahn]		
+orth	Helbert (Georg)		
+entry	Helbunion [Ed. Lefèvre]		
+orth	Helbunion		
+entry	Helcalimbat [Ed. Lefèvre]		
+orth	Helcalimbat		
+entry	Helch [Ed. Lefèvre]		
+orth	Helch		
+entry	Held (Les) [L. Hahn]		
+orth	Held (Les)		
 pb	585	0589	4535925
-entry	Held von Hagelsheim (Gottfried)		
-entry	Hélène (Sainte-)		
+entry	Held von Hagelsheim (Gottfried) [L. Hahn]		
+orth	Held von Hagelsheim (Gottfried)		
+entry	Hélène (Sainte-) [Eug. Rochard]		
+orth	Hélène (Sainte-)		
 pb	586	0590	4535926
-entry	Hélène (Sainte)		
+entry	Hélène (Sainte) [Eug. Rochard]		
+orth	Hélène (Sainte)		
 pb	587	0591	4535927
 pb	588	0592	4535928
 pb	589	0593	4535929
-entry	Hélénine		
+entry	Hélénine [L. Hahn]		
+orth	Hélénine		
 pb	590	0594	4535930
-entry	Hélénium		
+entry	Hélénium [Ed. Lefèvre]		
+orth	Hélénium		
 pb	591	0595	4535931
-entry	Helfft (Hermann-Ludwig)		
-entry	Hélianthe		
+entry	Helfft (Hermann-Ludwig) [L. Hahn]		
+orth	Helfft (Hermann-Ludwig)		
+entry	Hélianthe [Ed. Lefèvre]		
+orth	Hélianthe		
 pb	592	0596	4535932
-entry	Hélianthème		
+entry	Hélianthème [Ed. Lefèvre]		
+orth	Hélianthème		
 entry	Hélice		
-entry	Hélice. Zoologie		
+entry	Hélice. Zoologie [Ed. Lefèvre]		
+orth	Hélice. Zoologie		
 pb	593	0597	4535933
 pb	594	0598	4535934
-entry	Hélice. Emploi		
+entry	Hélice. Emploi [L. Hahn]		
+orth	Hélice. Emploi		
 pb	595	0599	4535935
-entry	Hélichryse		
+entry	Hélichryse [Ed. Lefèvre]		
+orth	Hélichryse		
 pb	596	0600	4535936
-entry	Hélicine		
-entry	Héliçoïdine		
-entry	Hélie (Louis-Théodore)		
+entry	Hélicine [L. Hahn]		
+orth	Hélicine		
+entry	Héliçoïdine [L. Hahn]		
+orth	Héliçoïdine		
+entry	Hélie (Louis-Théodore) [L. Hahn]		
+orth	Hélie (Louis-Théodore)		
 pb	597	0601	4535937
-entry	Hélileh Kelan		
-entry	Héliodore (Les)		
-entry	Héliosacte		
+entry	Hélileh Kelan [Ed. Lefèvre]		
+orth	Hélileh Kelan		
+entry	Héliodore (Les) [L. Hahn]		
+orth	Héliodore (Les)		
+entry	Héliosacte [Ed. Lefèvre]		
+orth	Héliosacte		
 pb	598	0602	4535938
-entry	Helioscopion		
-entry	Héliotrope		
-entry	Heliotropium		
+entry	Helioscopion [Ed. Lefèvre]		
+orth	Helioscopion		
+entry	Héliotrope [Ed. Lefèvre]		
+orth	Héliotrope		
+entry	Heliotropium [Ed. Lefèvre]		
+orth	Heliotropium		
 pb	599	0603	4535939
-entry	Héliozoaires		
+entry	Héliozoaires [F. Henneguy]		
+orth	Héliozoaires		
 pb	600	0604	4535940
 entry	Helix (Anatomie)		
 ref	Oreille interne		
 entry	Helix (Mollusques)		
 ref	Hélice		
-entry	Helleboraster		
+entry	Helleboraster [Ed. Lefèvre]		
+orth	Helleboraster		
 entry	Hellébore		
-entry	Hellébore. Botanique		
+entry	Hellébore. Botanique [H. Baillon]		
+orth	Hellébore. Botanique		
 pb	601	0605	4535941
 pb	602	0606	4535942
 pb	603	0607	4535943
 pb	604	0608	4535944
-entry	Hellébore. Thérapeutique		
+entry	Hellébore. Thérapeutique [Pécholier]		
+orth	Hellébore. Thérapeutique		
 pb	605	0609	4535945
 pb	606	0610	4535946
 pb	607	0611	4535947
@@ -1060,36 +1441,53 @@ pb	618	0622	4535958
 pb	619	0623	4535959
 pb	620	0624	4535960
 entry	Hélléboréine		
-entry	Chimie		
-entry	Hélléboréine. Action physiologique		
+entry	Chimie [L. Hahn]		
+orth	Chimie		
+entry	Hélléboréine. Action physiologique [L. Hahn]		
+orth	Hélléboréine. Action physiologique		
 pb	621	0625	4535961
-entry	Emploi médical		
+entry	Emploi médical [L. Hahn]		
+orth	Emploi médical		
 entry	Helléborine		
-entry	Helléborine. Chimie		
+entry	Helléborine. Chimie [L. Hahn]		
+orth	Helléborine. Chimie		
 pb	622	0626	4535962
-entry	Action physiologique		
-entry	Helleborites		
-entry	Helleborus Albus		
+entry	Action physiologique [L. Hahn]		
+orth	Action physiologique		
+entry	Helleborites [Ed. Lefèvre]		
+orth	Helleborites		
+entry	Helleborus Albus [L. Hahn]		
+orth	Helleborus Albus		
 pb	623	0627	4535963
 entry	Hellènes		
 ref	Grèce		
-entry	Heller (Les deux)		
-entry	Hellfeld (Christian-August-Friedrich von)		
+entry	Heller (Les deux) [L. Hahn]		
+orth	Heller (Les deux)		
+entry	Hellfeld (Christian-August-Friedrich von) [L. Hahn]		
+orth	Hellfeld (Christian-August-Friedrich von)		
 pb	624	0628	4535964
-entry	Helling (Georg-Lebrecht-Andreas)		
-entry	Hellmann (Johann-Caspar)		
-entry	Hellot (Jean)		
-entry	Hellwag ou Hellwaag (Christoph-Friedrich)		
+entry	Helling (Georg-Lebrecht-Andreas) [L. Hahn]		
+orth	Helling (Georg-Lebrecht-Andreas)		
+entry	Hellmann (Johann-Caspar) [L. Hahn]		
+orth	Hellmann (Johann-Caspar)		
+entry	Hellot (Jean) [L. Hahn]		
+orth	Hellot (Jean)		
+entry	Hellwag ou Hellwaag (Christoph-Friedrich) [L. Hahn]		
+orth	Hellwag ou Hellwaag (Christoph-Friedrich)		
 pb	625	0629	4535965
-entry	Hellwig (Les)		
+entry	Hellwig (Les) [L. Hahn]		
+orth	Hellwig (Les)		
 pb	626	0630	4535966
-entry	Helm (Theodor)		
+entry	Helm (Theodor) [L. Hahn]		
+orth	Helm (Theodor)		
 pb	627	0631	4535967
 entry	Helmerich (Pommade d')		
 ref	Soufre		
 ref	Gale		
-entry	Helmershausen (Paulus-Johann-Friedrich)		
-entry	Helminthes, Helminthiase, Helminthologie		
+entry	Helmershausen (Paulus-Johann-Friedrich) [A. Dechambre]		
+orth	Helmershausen (Paulus-Johann-Friedrich)		
+entry	Helminthes, Helminthiase, Helminthologie [Raphael Blanchard]		
+orth	Helminthes, Helminthiase, Helminthologie		
 pb	628	0632	4535968
 pb	629	0633	4535969
 pb	630	0634	4535970
@@ -1123,23 +1521,31 @@ ref	Helminthes
 entry	Helminthicides		
 ref	Vermicides		
 ref	Toenia		
-entry	Helminthocorton, Helminthocortos		
+entry	Helminthocorton, Helminthocortos [Ed. Lefèvre]		
+orth	Helminthocorton, Helminthocortos		
 entry	Helminthologie		
 ref	Helminthes		
-entry	Helmont (Les van)		
+entry	Helmont (Les van) [L. Hahn]		
+orth	Helmont (Les van)		
 pb	656	0660	4535996
 pb	657	0661	4535997
-entry	Hélonias (L.)		
+entry	Hélonias (L.) [H. Baillon]		
+orth	Hélonias (L.)		
 pb	658	0662	4535998
-entry	Helotium		
-entry	Helvellacés		
+entry	Helotium [Ed. Lefèvre]		
+orth	Helotium		
+entry	Helvellacés [Ed. Lefèvre]		
+orth	Helvellacés		
 pb	659	0663	4535999
 entry	Helvelle		
-entry	Helvelle. Botanique		
+entry	Helvelle. Botanique [Ed. Lefèvre]		
+orth	Helvelle. Botanique		
 pb	660	0664	4536000
-entry	Helvelle. Bromatologie		
+entry	Helvelle. Bromatologie [Th. Éloy]		
+orth	Helvelle. Bromatologie		
 pb	661	0665	4536001
-entry	Helvétique (Confédération) ou Suisse		
+entry	Helvétique (Confédération) ou Suisse [Bazile Féris]		
+orth	Helvétique (Confédération) ou Suisse		
 pb	662	0666	4536002
 pb	663	0667	4536003
 pb	664	0668	4536004
@@ -1179,13 +1585,17 @@ pb	697	0701	4536037
 pb	698	0702	4536038
 pb	699	0703	4536039
 pb	700	0704	4536040
-entry	Helvetius (Les Trois)		
+entry	Helvetius (Les Trois) [A. Chéreau, L. Hahn]		
+orth	Helvetius (Les Trois)		
 pb	701	0705	4536041
 entry	Helwig		
 ref	Hellwig		
-entry	Helxine		
-entry	Hémacyanine ou Hématocyanine		
-entry	Hemadri		
+entry	Helxine [Ed. Lefèvre]		
+orth	Helxine		
+entry	Hémacyanine ou Hématocyanine [L. Hahn]		
+orth	Hémacyanine ou Hématocyanine		
+entry	Hemadri [G. Liétard]		
+orth	Hemadri		
 pb	702	0706	4536042
 entry	Hémadromomètre ou Hémodromomètre		
 ref	Circulation		
@@ -1193,7 +1603,8 @@ entry	Hémanthe
 ref	Haemanthe		
 entry	Hémaphéine		
 ref	Ictère		
-entry	Hématémèse		
+entry	Hématémèse [Jules Arnould]		
+orth	Hématémèse		
 pb	703	0707	4536043
 pb	704	0708	4536044
 pb	705	0709	4536045
@@ -1209,7 +1620,8 @@ ref	Hématoxyline
 entry	Hématidrose		
 ref	Sueur		
 ref	Hémorrhagie		
-entry	Hématie		
+entry	Hématie [J. Renaut]		
+orth	Hématie		
 pb	713	0717	4536053
 pb	714	0718	4536054
 pb	715	0719	4536055
@@ -1233,19 +1645,25 @@ pb	732	0736	4536072
 pb	733	0737	4536073
 pb	734	0738	4536074
 pb	735	0739	4536075
-entry	Hématimétrie		
-entry	Hématine		
+entry	Hématimétrie [L. Hahn]		
+orth	Hématimétrie		
+entry	Hématine [Albert Hénocque]		
+orth	Hématine		
 entry	Hématinurie		
 ref	Hémoglobinurie		
-entry	Hématique (Acide)		
+entry	Hématique (Acide) [Albert Hénocque]		
+orth	Hématique (Acide)		
 pb	736	0740	4536076
 entry	Hématiques (Tumeurs)		
 ref	Kyste		
 ref	Hématocèle		
 ref	Hématome		
-entry	Hématobie		
-entry	Hématoblaste		
-entry	Hématocèle		
+entry	Hématobie [L. Hahn]		
+orth	Hématobie		
+entry	Hématoblaste [L. Hahn]		
+orth	Hématoblaste		
+entry	Hématocèle [Ant. Poncet (de Lyon)]		
+orth	Hématocèle		
 pb	737	0741	4536077
 pb	738	0742	4536078
 pb	739	0743	4536079

@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4525986
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4525987
 pb	[s. pag.]	0003	4525988
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4525989
 pb	1	0005	4525990
-entry	Espèce		
+entry	Espèce [A. de Quatrefages]		
+orth	Espèce		
 pb	2	0006	4525991
 pb	3	0007	4525992
 pb	4	0008	4525993
@@ -47,7 +50,8 @@ pb	41	0045	4526030
 pb	42	0046	4526031
 pb	43	0047	4526032
 pb	44	0048	4526033
-entry	Espèce humaine		
+entry	Espèce humaine [A. de Quatrefages]		
+orth	Espèce humaine		
 pb	45	0049	4526034
 pb	46	0050	4526035
 pb	47	0051	4526036
@@ -92,41 +96,56 @@ pb	85	0089	4526074
 pb	86	0090	4526075
 pb	87	0091	4526076
 pb	88	0092	4526077
-entry	Espèces médicinales		
+entry	Espèces médicinales [L. Hahn]		
+orth	Espèces médicinales		
 pb	89	0093	4526078
-entry	Espeletia		
-entry	Espenberg (Karl von)		
+entry	Espeletia [Ed. Lefèvre]		
+orth	Espeletia		
+entry	Espenberg (Karl von) [L. Hahn]		
+orth	Espenberg (Karl von)		
 entry	Esprit		
 ref	Démons		
 ref	Spiritisme		
 entry	Esprits		
-entry	Esprits. Chimie		
+entry	Esprits. Chimie [L. Hahn]		
+orth	Esprits. Chimie		
 pb	90	0094	4526079
 pb	91	0095	4526080
-entry	Esquimaux		
-entry	Esquirol (Jean-Étienne-Dominique)		
-entry	Esse (C.-H.)		
+entry	Esquimaux [L. Hahn]		
+orth	Esquimaux		
+entry	Esquirol (Jean-Étienne-Dominique) [L. Hahn]		
+orth	Esquirol (Jean-Étienne-Dominique)		
+entry	Esse (C.-H.) [L. Hahn]		
+orth	Esse (C.-H.)		
 pb	92	0096	4526081
-entry	Essences		
+entry	Essences [L. Hahn]		
+orth	Essences		
 pb	93	0097	4526082
 pb	94	0098	4526083
-entry	Essich (Johann-Gottfried)		
-entry	Esterle (Carlo)		
+entry	Essich (Johann-Gottfried) [L. Hahn]		
+orth	Essich (Johann-Gottfried)		
+entry	Esterle (Carlo) [L. Hahn]		
+orth	Esterle (Carlo)		
 pb	95	0099	4526084
-entry	Esteve (les deux)		
+entry	Esteve (les deux) [L. Hahn]		
+orth	Esteve (les deux)		
 entry	Esthiomène		
 ref	Vulve		
 entry	Esthoniens		
 ref	Russie		
 pb	96	0100	4526085
-entry	Estienne (Charles)		
+entry	Estienne (Charles) [A. Chéreau]		
+orth	Estienne (Charles)		
 entry	Estlander (Opération d')		
 ref	Poitrine		
-entry	Estlander (Jakob-Auguste)		
+entry	Estlander (Jakob-Auguste) [L. Hahn]		
+orth	Estlander (Jakob-Auguste)		
 pb	97	0101	4526086
-entry	Estoher (Eau minérale d')		
+entry	Estoher (Eau minérale d') [A. Rotureau]		
+orth	Estoher (Eau minérale d')		
 entry	Estomac		
-entry	Estomac. Anatomie et histologie		
+entry	Estomac. Anatomie et histologie [A. Nicolas]		
+orth	Estomac. Anatomie et histologie		
 pb	98	0102	4526087
 pb	99	0103	4526088
 pb	100	0104	4526089
@@ -152,7 +171,8 @@ pb	119	0123	4526108
 pb	120	0124	4526109
 pb	121	0125	4526110
 pb	122	0126	4526111
-entry	Estomac. Physiologie		
+entry	Estomac. Physiologie [E. Gley, P. Langlois]		
+orth	Estomac. Physiologie		
 pb	123	0127	4526112
 pb	124	0128	4526113
 pb	125	0129	4526114
@@ -177,7 +197,8 @@ pb	143	0147	4526132
 pb	144	0148	4526133
 pb	145	0149	4526134
 pb	146	0150	4526135
-entry	Estomac. Pathologie générale		
+entry	Estomac. Pathologie générale [Albert Mathieu]		
+orth	Estomac. Pathologie générale		
 pb	147	0151	4526136
 pb	148	0152	4526137
 pb	149	0153	4526138
@@ -290,16 +311,20 @@ pb	255	0259	4526244
 pb	256	0260	4526245
 pb	257	0261	4526246
 pb	258	0262	4526247
-entry	Estor (J.-L.-Eugène)		
+entry	Estor (J.-L.-Eugène) [L. Hahn]		
+orth	Estor (J.-L.-Eugène)		
 pb	259	0263	4526248
-entry	Estragon		
-entry	Estrejcher (Aloysius-Raphael)		
+entry	Estragon [Ed. Lefèvre]		
+orth	Estragon		
+entry	Estrejcher (Aloysius-Raphael) [L. Hahn]		
+orth	Estrejcher (Aloysius-Raphael)		
 entry	Ésule		
 ref	Euphorbe		
 entry	Établissements insalubres		
 ref	Insalubrité		
 entry	Étain		
-entry	Étain. Chimie		
+entry	Étain. Chimie [C. Lutz]		
+orth	Étain. Chimie		
 pb	260	0264	4526249
 pb	261	0265	4526250
 pb	262	0266	4526251
@@ -307,11 +332,13 @@ pb	263	0267	4526252
 pb	264	0268	4526253
 pb	265	0269	4526254
 pb	266	0270	4526255
-entry	Étain. Emploi		
+entry	Étain. Emploi [L. Hahn]		
+orth	Étain. Emploi		
 pb	267	0271	4526256
 pb	268	0272	4526257
 pb	269	0273	4526258
-entry	Étamage		
+entry	Étamage [L. Hahn]		
+orth	Étamage		
 pb	270	0274	4526259
 entry	Étangs		
 ref	Marais		
@@ -327,7 +354,8 @@ entry	Éternument
 ref	Sternutation		
 entry	Éthal		
 ref	Cétylique (Alcool)		
-entry	Éthalique (Acide)		
+entry	Éthalique (Acide) [L. Hahn]		
+orth	Éthalique (Acide)		
 entry	Éthane		
 ref	Éthyle		
 entry	Éthène		
@@ -335,21 +363,27 @@ ref	Éthylène
 entry	Éther (Physique)		
 ref	Mouvement		
 ref	Radiations		
-entry	Éthérats ou Éthérolats		
+entry	Éthérats ou Éthérolats [L. Hahn]		
+orth	Éthérats ou Éthérolats		
 entry	Éthérène		
 ref	Éthylène		
 pb	271	0275	4526260
-entry	Éthérine		
+entry	Éthérine [L. Hahn]		
+orth	Éthérine		
 entry	Éthérisation		
 ref	Anesthésie		
 ref	Éthers		
 entry	Éthérisme		
 ref	Éthers		
-entry	Éthérol		
-entry	Éthérolés		
-entry	Éthérone		
+entry	Éthérol [L. Hahn]		
+orth	Éthérol		
+entry	Éthérolés [L. Hahn]		
+orth	Éthérolés		
+entry	Éthérone [L. Hahn]		
+orth	Éthérone		
 pb	272	0276	4526261
-entry	Éthers. Chimie		
+entry	Éthers. Chimie [L. Hahn]		
+orth	Éthers. Chimie		
 pb	273	0277	4526262
 pb	274	0278	4526263
 pb	275	0279	4526264
@@ -366,7 +400,8 @@ pb	285	0289	4526274
 pb	286	0290	4526275
 pb	287	0291	4526276
 pb	288	0292	4526277
-entry	Éthers. Emploi médical		
+entry	Éthers. Emploi médical [Ch. Debierre]		
+orth	Éthers. Emploi médical		
 pb	289	0293	4526278
 pb	290	0294	4526279
 pb	291	0295	4526280
@@ -406,14 +441,19 @@ pb	324	0328	4526313
 pb	325	0329	4526314
 pb	326	0330	4526315
 pb	327	0331	4526316
-entry	Éthionique (Acide)		
+entry	Éthionique (Acide) [L. Hahn]		
+orth	Éthionique (Acide)		
 entry	Éthiopiens		
 ref	Nègres		
-entry	Éthiops		
+entry	Éthiops [L. Hahn]		
+orth	Éthiops		
 pb	328	0332	4526317
-entry	Ethmocéphales		
-entry	Ethmoïdal (Filet)		
-entry	Ethmoïdales (Artères)		
+entry	Ethmocéphales [L. Hahn]		
+orth	Ethmocéphales		
+entry	Ethmoïdal (Filet) [L. Testut]		
+orth	Ethmoïdal (Filet)		
+entry	Ethmoïdales (Artères) [L. Testut]		
+orth	Ethmoïdales (Artères)		
 pb	329	0333	4526318
 entry	Ethmoïde		
 ref	Crâne		
@@ -422,46 +462,74 @@ ref	Races
 ref	Espèce humaine		
 entry	Éthuse		
 ref	Aethuse		
-entry	Éthylalizarine		
-entry	Éthylamine		
+entry	Éthylalizarine [L. Hahn]		
+orth	Éthylalizarine		
+entry	Éthylamine [L. Hahn]		
+orth	Éthylamine		
 pb	330	0334	4526319
 pb	331	0335	4526320
-entry	Éthylaniline		
-entry	Éthylbenzine		
-entry	Éthyle		
-entry	Éthyle-Allyle		
-entry	Éthyle-Amyle		
-entry	Éthyle-Butyle		
+entry	Éthylaniline [L. Hahn]		
+orth	Éthylaniline		
+entry	Éthylbenzine [L. Hahn]		
+orth	Éthylbenzine		
+entry	Éthyle [L. Hahn]		
+orth	Éthyle		
+entry	Éthyle-Allyle [L. Hahn]		
+orth	Éthyle-Allyle		
+entry	Éthyle-Amyle [L. Hahn]		
+orth	Éthyle-Amyle		
+entry	Éthyle-Butyle [L. Hahn]		
+orth	Éthyle-Butyle		
 entry	Éthylène		
-entry	Éthylène. Chimie		
+entry	Éthylène. Chimie [L. Hahn]		
+orth	Éthylène. Chimie		
 pb	332	0336	4526321
 pb	333	0337	4526322
 pb	334	0338	4526323
 pb	335	0339	4526324
-entry	Éthylène. Action physiologique et emploi thérapeutique		
+entry	Éthylène. Action physiologique et emploi thérapeutique [Ch. Debierre]		
+orth	Éthylène. Action physiologique et emploi thérapeutique		
 pb	336	0340	4526325
 pb	337	0341	4526326
-entry	Éthylène-diamine		
-entry	Éthylène-disulfureux (Acide)		
-entry	Éthylglycocolle		
-entry	Éthylglycol		
-entry	Éthylglycose		
+entry	Éthylène-diamine [L. Hahn]		
+orth	Éthylène-diamine		
+entry	Éthylène-disulfureux (Acide) [L. Hahn]		
+orth	Éthylène-disulfureux (Acide)		
+entry	Éthylglycocolle [L. Hahn]		
+orth	Éthylglycocolle		
+entry	Éthylglycol [L. Hahn]		
+orth	Éthylglycol		
+entry	Éthylglycose [L. Hahn]		
+orth	Éthylglycose		
 pb	338	0342	4526327
-entry	Éthylhydantoïne		
-entry	Éthylidène		
-entry	Éthylmannite		
-entry	Éthyloxamide		
-entry	Éthylphénol		
-entry	Éthylphosphine		
+entry	Éthylhydantoïne [L. Hahn]		
+orth	Éthylhydantoïne		
+entry	Éthylidène [L. Hahn]		
+orth	Éthylidène		
+entry	Éthylmannite [L. Hahn]		
+orth	Éthylmannite		
+entry	Éthyloxamide [L. Hahn]		
+orth	Éthyloxamide		
+entry	Éthylphénol [L. Hahn]		
+orth	Éthylphénol		
+entry	Éthylphosphine [L. Hahn]		
+orth	Éthylphosphine		
 pb	339	0343	4526328
-entry	Éthylpropylène		
-entry	Éthylpurpurine		
-entry	Éthylterpène ou Éterpène		
-entry	Éthylurée		
+entry	Éthylpropylène [L. Hahn]		
+orth	Éthylpropylène		
+entry	Éthylpurpurine [L. Hahn]		
+orth	Éthylpurpurine		
+entry	Éthylterpène ou Éterpène [L. Hahn]		
+orth	Éthylterpène ou Éterpène		
+entry	Éthylurée [L. Hahn]		
+orth	Éthylurée		
 pb	340	0344	4526329
-entry	Éthylvanilline		
-entry	Étioline		
-entry	Étiologie médicale		
+entry	Éthylvanilline [L. Hahn]		
+orth	Éthylvanilline		
+entry	Étioline [L. Hahn]		
+orth	Étioline		
+entry	Étiologie médicale [B. Brochin]		
+orth	Étiologie médicale		
 pb	341	0345	4526330
 pb	342	0346	4526331
 pb	343	0347	4526332
@@ -477,17 +545,23 @@ pb	352	0356	4526341
 pb	353	0357	4526342
 entry	Étoiles de mer		
 ref	Astéries		
-entry	Étourneau		
+entry	Étourneau [E. Oustalet]		
+orth	Étourneau		
 pb	354	0358	4526343
-entry	Étretat (Station marine)		
+entry	Étretat (Station marine) [A. Rotureau]		
+orth	Étretat (Station marine)		
 entry	Étrier		
 ref	Facial		
 ref	Oreille		
-entry	Étrille		
-entry	Ettmüller (Les deux)		
-entry	Étuves naturelles		
+entry	Étrille [Ed. Lefèvre]		
+orth	Étrille		
+entry	Ettmüller (Les deux) [L. Hahn]		
+orth	Ettmüller (Les deux)		
+entry	Étuves naturelles [A. Rotureau]		
+orth	Étuves naturelles		
 pb	355	0359	4526344
-entry	Étymologie		
+entry	Étymologie [L. Lereboullet]		
+orth	Étymologie		
 pb	356	0360	4526345
 pb	357	0361	4526346
 pb	358	0362	4526347
@@ -500,14 +574,17 @@ pb	364	0368	4526353
 pb	365	0369	4526354
 pb	366	0370	4526355
 pb	367	0371	4526356
-entry	Eucalyne		
+entry	Eucalyne [L. Hahn]		
+orth	Eucalyne		
 entry	Eucalyptène et Eucalyptol		
 ref	Eucalyptus (Thérapeutique)		
 entry	Eucalyptus		
-entry	Eucalyptus. Botanique		
+entry	Eucalyptus. Botanique [H. Baillon]		
+orth	Eucalyptus. Botanique		
 pb	368	0372	4526357
 pb	369	0373	4526358
-entry	Eucalyptus. Matière médicale et thérapeutique de l'Eucalyptus globulus		
+entry	Eucalyptus. Matière médicale et thérapeutique de l'Eucalyptus globulus [Ed. Heckel]		
+orth	Eucalyptus. Matière médicale et thérapeutique de l'Eucalyptus globulus		
 pb	370	0374	4526359
 pb	371	0375	4526360
 pb	372	0376	4526361
@@ -518,40 +595,60 @@ pb	376	0380	4526365
 pb	377	0381	4526366
 pb	378	0382	4526367
 pb	379	0383	4526368
-entry	Euchlorine		
-entry	Euclea		
-entry	Eudème (Les deux)		
-entry	Eudes (Pierre-Jean)		
+entry	Euchlorine [L. Hahn]		
+orth	Euchlorine		
+entry	Euclea [Ed. Lefèvre]		
+orth	Euclea		
+entry	Eudème (Les deux) [L. Hahn]		
+orth	Eudème (Les deux)		
+entry	Eudes (Pierre-Jean) [A. Dureau]		
+orth	Eudes (Pierre-Jean)		
 pb	380	0384	4526369
-entry	Eudoxe		
-entry	Eugénéthyle		
-entry	Eugenia		
+entry	Eudoxe [L. Hahn]		
+orth	Eudoxe		
+entry	Eugénéthyle [L. Hahn]		
+orth	Eugénéthyle		
+entry	Eugenia [Ed. Lefèvre]		
+orth	Eugenia		
 pb	381	0385	4526370
-entry	Eugénie-les-Bains (Eau minérale d')		
-entry	Eugénine		
+entry	Eugénie-les-Bains (Eau minérale d') [A. Rotureau]		
+orth	Eugénie-les-Bains (Eau minérale d')		
+entry	Eugénine [L. Hahn]		
+orth	Eugénine		
 entry	Eugénique (Acide)		
 ref	Eugénol		
-entry	Eugénol		
+entry	Eugénol [L. Hahn]		
+orth	Eugénol		
 pb	382	0386	4526371
-entry	Eugétique (Acide)		
-entry	Euglène		
+entry	Eugétique (Acide) [L. Hahn]		
+orth	Eugétique (Acide)		
+entry	Euglène [F. Henneguy]		
+orth	Euglène		
 pb	383	0387	4526372
 pb	384	0388	4526373
-entry	Eulophia		
-entry	Eulysine		
-entry	Eumelus		
-entry	Eunecte		
-entry	Eupatoire		
+entry	Eulophia [Ed. Lefèvre]		
+orth	Eulophia		
+entry	Eulysine [L. Hahn]		
+orth	Eulysine		
+entry	Eumelus [L. Hahn]		
+orth	Eumelus		
+entry	Eunecte [H.-E. Sauvage]		
+orth	Eunecte		
+entry	Eupatoire [Ed. Lefèvre]		
+orth	Eupatoire		
 pb	385	0389	4526374
-entry	Eupatorine		
+entry	Eupatorine [L. Hahn]		
+orth	Eupatorine		
 entry	Eupatorium		
 ref	Eupatoire		
 entry	Euphorbe		
-entry	Euphorbe. Botanique		
+entry	Euphorbe. Botanique [H. Baillon]		
+orth	Euphorbe. Botanique		
 pb	386	0390	4526375
 pb	387	0391	4526376
 pb	388	0392	4526377
-entry	Euphorbe. Emploi médical		
+entry	Euphorbe. Emploi médical [Charles Éloy]		
+orth	Euphorbe. Emploi médical		
 pb	389	0393	4526378
 pb	390	0394	4526379
 pb	391	0395	4526380
@@ -561,70 +658,101 @@ pb	394	0398	4526383
 pb	395	0399	4526384
 pb	396	0400	4526385
 pb	397	0401	4526386
-entry	Euphorbe		
-entry	Euphorbiacées		
+entry	Euphorbe [L. Hahn]		
+orth	Euphorbe		
+entry	Euphorbiacées [H. Baillon]		
+orth	Euphorbiacées		
 pb	398	0402	4526387
 pb	399	0403	4526388
 pb	400	0404	4526389
-entry	Euphorbine		
-entry	Euphorbique (Acide)		
+entry	Euphorbine [L. Hahn]		
+orth	Euphorbine		
+entry	Euphorbique (Acide) [L. Hahn]		
+orth	Euphorbique (Acide)		
 entry	Euphorbone		
 ref	Euphorbes		
-entry	Euphorie		
+entry	Euphorie [Ed. Lefèvre]		
+orth	Euphorie		
 pb	401	0405	4526390
-entry	Euphraise		
-entry	Eupione		
-entry	Euribali ou Juribali		
+entry	Euphraise [Ed. Lefèvre]		
+orth	Euphraise		
+entry	Eupione [L. Hahn]		
+orth	Eupione		
+entry	Euribali ou Juribali [L. Hahn]		
+orth	Euribali ou Juribali		
 pb	402	0406	4526391
-entry	Eurotium		
-entry	Euryale (Euryale Salisb.)		
-entry	Euryales		
-entry	Euryangium		
+entry	Eurotium [Ed. Lefèvre]		
+orth	Eurotium		
+entry	Euryale (Euryale Salisb.) [Ed. Lefèvre]		
+orth	Euryale (Euryale Salisb.)		
+entry	Euryales [Ed. Lefèvre]		
+orth	Euryales		
+entry	Euryangium [H. Baillon]		
+orth	Euryangium		
 entry	Eurycéphale		
 ref	Craniologie		
 entry	Eurygnathe		
 ref	Craniologie		
 pb	403	0407	4526392
-entry	Euryphon		
+entry	Euryphon [L. Hahn]		
+orth	Euryphon		
 entry	Euscorpion		
 ref	Scorpion		
-entry	Eusomphaliens		
+entry	Eusomphaliens [L. Hahn]		
+orth	Eusomphaliens		
 entry	Eustache (Trompe d')		
 ref	Oreille		
-entry	Eustachi (Bartolommeo)		
-entry	Euterpe		
+entry	Eustachi (Bartolommeo) [L. Hahn]		
+orth	Eustachi (Bartolommeo)		
+entry	Euterpe [Ed. Lefèvre]		
+orth	Euterpe		
 pb	404	0408	4526393
-entry	Eutychius		
-entry	Euxanthine ou Euxanthique (Acide)		
-entry	Euxanthone ou Purréon		
-entry	Euzet-les-Bains (Eaux minérales d')		
+entry	Eutychius [A. Dureau]		
+orth	Eutychius		
+entry	Euxanthine ou Euxanthique (Acide) [L. Hahn]		
+orth	Euxanthine ou Euxanthique (Acide)		
+entry	Euxanthone ou Purréon [L. Hahn]		
+orth	Euxanthone ou Purréon		
+entry	Euzet-les-Bains (Eaux minérales d') [A. Rotureau]		
+orth	Euzet-les-Bains (Eaux minérales d')		
 pb	405	0409	4526394
 pb	406	0410	4526395
 pb	407	0411	4526396
-entry	Évacuants (Médicaments)		
+entry	Évacuants (Médicaments) [L. Hahn]		
+orth	Évacuants (Médicaments)		
 entry	Évanouissement		
 ref	Syncope		
 pb	408	0412	4526397
-entry	Evans (Les)		
+entry	Evans (Les) [A. Dureau]		
+orth	Evans (Les)		
 entry	Évaporation		
 ref	Chaleur		
 ref	Vaporisation		
-entry	Évaux (Eaux minérales et conferves d')		
+entry	Évaux (Eaux minérales et conferves d') [A. Rotureau]		
+orth	Évaux (Eaux minérales et conferves d')		
 pb	409	0413	4526398
 pb	410	0414	4526399
 pb	411	0415	4526400
 pb	412	0416	4526401
 pb	413	0417	4526402
 pb	414	0418	4526403
-entry	Eve (Paul-Fitzsimmons)		
-entry	Éventration		
-entry	Evernia		
+entry	Eve (Paul-Fitzsimmons) [L. Hahn]		
+orth	Eve (Paul-Fitzsimmons)		
+entry	Éventration [L. Hahn]		
+orth	Éventration		
+entry	Evernia [Ed. Lefèvre]		
+orth	Evernia		
 pb	415	0419	4526404
-entry	Éverninine		
-entry	Éverninique (Acide)		
-entry	Évernique (Acide)		
-entry	Evers (Otto-Justus)		
-entry	Évian et Amphion (Eaux minérales d')		
+entry	Éverninine [L. Hahn]		
+orth	Éverninine		
+entry	Éverninique (Acide) [L. Hahn]		
+orth	Éverninique (Acide)		
+entry	Évernique (Acide) [L. Hahn]		
+orth	Évernique (Acide)		
+entry	Evers (Otto-Justus) [L. Hahn]		
+orth	Evers (Otto-Justus)		
+entry	Évian et Amphion (Eaux minérales d') [A. Rotureau]		
+orth	Évian et Amphion (Eaux minérales d')		
 pb	416	0420	4526405
 pb	417	0421	4526406
 pb	418	0422	4526407
@@ -634,23 +762,32 @@ pb	421	0425	4526410
 entry	Évidement		
 ref	Résections		
 ref	Périoste		
-entry	Evodia		
+entry	Evodia [Ed. Lefèvre]		
+orth	Evodia		
 pb	422	0426	4526411
-entry	Évodyle		
+entry	Évodyle [L. Hahn]		
+orth	Évodyle		
 entry	Évolution		
 ref	Développement		
-entry	Évonymine		
-entry	Évonymite		
+entry	Évonymine [L. Hahn]		
+orth	Évonymine		
+entry	Évonymite [L. Hahn]		
+orth	Évonymite		
 entry	Évonymus		
 ref	Fusain		
-entry	Ewert		
+entry	Ewert [A. Dureau]		
+orth	Ewert		
 pb	423	0427	4526412
-entry	Ewich (Johann von)		
-entry	Exacum		
-entry	Exanthème		
+entry	Ewich (Johann von) [L. Hahn]		
+orth	Ewich (Johann von)		
+entry	Exacum [Ed. Lefèvre]		
+orth	Exacum		
+entry	Exanthème [A. Pignot]		
+orth	Exanthème		
 pb	424	0428	4526413
 pb	425	0429	4526414
-entry	Excaecaria		
+entry	Excaecaria [Ed. Lefèvre]		
+orth	Excaecaria		
 pb	426	0430	4526415
 entry	Excision		
 ref	Opérations		
@@ -664,10 +801,12 @@ entry	Excrémentitielles (Matières)
 ref	Fécales (Matières)		
 ref	Urines		
 ref	Sécrétions		
-entry	Excreta		
+entry	Excreta [L. Hahn]		
+orth	Excreta		
 entry	Excrétion		
 ref	Sécrétion		
-entry	Exencéphalien		
+entry	Exencéphalien [L. Hahn]		
+orth	Exencéphalien		
 pb	427	0431	4526416
 entry	Exercices		
 ref	Gymnastique		
@@ -675,17 +814,23 @@ entry	Exérèse
 ref	Opérations		
 entry	Exhalation		
 ref	Respiration		
-entry	Exhibitionnistes		
+entry	Exhibitionnistes [Ant. Ritti]		
+orth	Exhibitionnistes		
 pb	428	0432	4526417
 pb	429	0433	4526418
-entry	Exhumation		
+entry	Exhumation [L. Lereboullet]		
+orth	Exhumation		
 pb	430	0434	4526419
 pb	431	0435	4526420
-entry	Exidia		
-entry	Exoascus		
-entry	Exocet		
+entry	Exidia [Ed. Lefèvre]		
+orth	Exidia		
+entry	Exoascus [Ed. Lefèvre]		
+orth	Exoascus		
+entry	Exocet [H.-E. Sauvage]		
+orth	Exocet		
 pb	432	0436	4526421
-entry	Exogonium (Choisy)		
+entry	Exogonium (Choisy) [H. Baillon]		
+orth	Exogonium (Choisy)		
 entry	Exomphale		
 ref	Ombilic		
 entry	Exophthalmique (Cachexie) et Exophthalmos		
@@ -693,11 +838,14 @@ ref	Goître
 entry	Exorcisme		
 ref	Démons		
 ref	etc		
-entry	Exosporés		
-entry	Exostema		
+entry	Exosporés [Ed. Lefèvre]		
+orth	Exosporés		
+entry	Exostema [Ed. Lefèvre]		
+orth	Exostema		
 entry	Exostose		
 ref	Os		
-entry	Expectation		
+entry	Expectation [B. Brochin]		
+orth	Expectation		
 pb	433	0437	4526422
 pb	434	0438	4526423
 pb	435	0439	4526424
@@ -711,7 +859,8 @@ pb	442	0446	4526431
 pb	443	0447	4526432
 entry	Expectoration		
 ref	Crachats		
-entry	Expérience, Expérimentation		
+entry	Expérience, Expérimentation [Victor Egger]		
+orth	Expérience, Expérimentation		
 pb	444	0448	4526433
 pb	445	0449	4526434
 pb	446	0450	4526435
@@ -724,7 +873,8 @@ entry	Explorateurs
 ref	Corps étrangers		
 entry	Exsudats		
 ref	Inflammation		
-entry	Extenseurs des doigts (Muscles)		
+entry	Extenseurs des doigts (Muscles) [L. Testut]		
+orth	Extenseurs des doigts (Muscles)		
 pb	448	0452	4526437
 pb	449	0453	4526438
 pb	450	0454	4526439
@@ -733,7 +883,8 @@ pb	452	0456	4526441
 pb	453	0457	4526442
 pb	454	0458	4526443
 pb	455	0459	4526444
-entry	Extenseurs des orteils (Muscles)		
+entry	Extenseurs des orteils (Muscles) [L. Testut]		
+orth	Extenseurs des orteils (Muscles)		
 pb	456	0460	4526445
 pb	457	0461	4526446
 pb	458	0462	4526447
@@ -744,7 +895,8 @@ entry	Extra-courant
 ref	Induction		
 entry	Extractif		
 ref	Extraits		
-entry	Extraits		
+entry	Extraits [Edme Bourgoin]		
+orth	Extraits		
 pb	460	0464	4526449
 pb	461	0465	4526450
 pb	462	0466	4526451
@@ -754,7 +906,8 @@ pb	465	0469	4526454
 pb	466	0470	4526455
 pb	467	0471	4526456
 pb	468	0472	4526457
-entry	Extrémités (Asphyxie locale des)		
+entry	Extrémités (Asphyxie locale des) [William Dubreuilh]		
+orth	Extrémités (Asphyxie locale des)		
 pb	469	0473	4526458
 pb	470	0474	4526459
 pb	471	0475	4526460
@@ -779,11 +932,14 @@ pb	489	0493	4526478
 pb	490	0494	4526479
 pb	491	0495	4526480
 pb	492	0496	4526481
-entry	Eysel (Johann-Philipp)		
-entry	Eysson (Les deux)		
+entry	Eysel (Johann-Philipp) [A. Dureau]		
+orth	Eysel (Johann-Philipp)		
+entry	Eysson (Les deux) [L. Hahn]		
+orth	Eysson (Les deux)		
 pb	493	0497	4526482
 entry	Addenda		
-entry	Addenda. Élongation nerveuse		
+entry	Addenda. Élongation nerveuse [Charles Éloy]		
+orth	Addenda. Élongation nerveuse		
 pb	494	0498	4526483
 pb	495	0499	4526484
 pb	496	0500	4526485

@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4501635
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4501636
 pb	[s. pag.]	0003	4501637
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4501638
 pb	1	0005	4501639
-entry	Angine diphthérique		
+entry	Angine diphthérique [Henri Roger, Michel Peter]		
+orth	Angine diphthérique		
 pb	2	0006	4501640
 pb	3	0007	4501641
 pb	4	0008	4501642
@@ -48,11 +51,14 @@ pb	42	0046	4501680
 pb	43	0047	4501681
 pb	44	0048	4501682
 pb	45	0049	4501683
+entry	Angine diphthérique [Henri Roger, Michel Peter] [E. Beaugrand]		
+orth	Angine diphthérique		
 pb	46	0050	4501684
 pb	47	0051	4501685
 pb	48	0052	4501686
 pb	49	0053	4501687
-entry	Angine de poitrine		
+entry	Angine de poitrine [J. Parrot]		
+orth	Angine de poitrine		
 pb	50	0054	4501688
 pb	51	0055	4501689
 pb	52	0056	4501690
@@ -70,7 +76,8 @@ pb	63	0067	4501701
 pb	64	0068	4501702
 pb	65	0069	4501703
 pb	66	0070	4501704
-entry	Angioleucite		
+entry	Angioleucite [Velpeau]		
+orth	Angioleucite		
 pb	67	0071	4501705
 pb	68	0072	4501706
 pb	69	0073	4501707
@@ -107,16 +114,24 @@ pb	99	0103	4501737
 pb	100	0104	4501738
 pb	101	0105	4501739
 pb	102	0106	4501740
+entry	Angioleucite [Velpeau] [E. Beaugrand]		
+orth	Angioleucite		
 pb	103	0107	4501741
-entry	Angiome ou Angionome		
-entry	Angiopteris		
-entry	Angioténique		
-entry	Angiotérie		
+entry	Angiome ou Angionome [V. Cornil]		
+orth	Angiome ou Angionome		
+entry	Angiopteris [H. Baillon]		
+orth	Angiopteris		
+entry	Angioténique [Amédée Dechambre]		
+orth	Angioténique		
+entry	Angiotérie [Paul Broca]		
+orth	Angiotérie		
 pb	104	0108	4501742
-entry	Anginon		
-ref	Ciguë		
-entry	Anglada (Joseph)		
-entry	Angles céphaliques		
+entry	Anginon.. Baillon]		
+ref	Ciguë [H		
+entry	Anglada (Joseph) [E. Beaugrand]		
+orth	Anglada (Joseph)		
+entry	Angles céphaliques [Jacques Bertillon]		
+orth	Angles céphaliques		
 pb	105	0109	4501743
 pb	106	0110	4501744
 pb	107	0111	4501745
@@ -141,68 +156,89 @@ entry	Angolam
 ref	Alangier		
 entry	Angostura		
 ref	Angusture		
-entry	Angourie		
+entry	Angourie [H. Baillon]		
+orth	Angourie		
 pb	123	0127	4501761
-entry	Angrec		
-entry	Anguilles		
-entry	Anguillules		
+entry	Angrec [H. Baillon]		
+orth	Angrec		
+entry	Anguilles [Amédée Dechambre]		
+orth	Anguilles		
+entry	Anguillules [Amédée Dechambre]		
+orth	Anguillules		
 pb	124	0128	4501762
-entry	Angulaire de l'omoplate		
-entry	Angulaires (Artères et Veines)		
+entry	Angulaire de l'omoplate [Léon Lefort]		
+orth	Angulaire de l'omoplate		
+entry	Angulaires (Artères et Veines) [Léon Lefort]		
+orth	Angulaires (Artères et Veines)		
 entry	Angurek		
 ref	Angrec		
 entry	Angusture		
-entry	Angusture. Botanique		
+entry	Angusture. Botanique [H. Baillon]		
+orth	Angusture. Botanique		
 pb	125	0129	4501763
 pb	126	0130	4501764
 pb	127	0131	4501765
 pb	128	0132	4501766
-entry	Angusture. Pharmacologie, Thérapeutique et Toxicologie		
+entry	Angusture. Pharmacologie, Thérapeutique et Toxicologie [Fonssagrives]		
+orth	Angusture. Pharmacologie, Thérapeutique et Toxicologie		
 pb	129	0133	4501767
 pb	130	0134	4501768
 pb	131	0135	4501769
 pb	132	0136	4501770
 pb	133	0137	4501771
 pb	134	0138	4501772
-entry	Anhélation		
+entry	Anhélation [Amédée Dechambre]		
+orth	Anhélation		
 entry	Anhématosie. - Anhématose		
 ref	Asphyxie		
-entry	Anhydrides		
+entry	Anhydrides [Wurtz]		
+orth	Anhydrides		
 pb	135	0139	4501773
 pb	136	0140	4501774
 pb	137	0141	4501775
-entry	Aniba		
+entry	Aniba [H. Baillon]		
+orth	Aniba		
 entry	Anicet		
 ref	Anis		
-entry	Anicillo		
-ref	Poivre		
-entry	Anidiens		
+entry	Anicillo.. Baillon]		
+ref	Poivre [H		
+entry	Anidiens [V. Cornil]		
+orth	Anidiens		
 pb	138	0142	4501776
 pb	139	0143	4501777
-entry	Anigosanthe		
+entry	Anigosanthe [H. Baillon]		
+orth	Anigosanthe		
 entry	Aniketon		
 ref	Salsepareille		
-entry	Anilides		
-entry	Aniline		
-entry	Aniline. Chimie		
+entry	Anilides [T. Malaguti]		
+orth	Anilides		
+entry	Aniline [F. Malaguti]		
+orth	Aniline		
+entry	Aniline. Chimie [F. Malaguti]		
+orth	Aniline. Chimie		
 pb	140	0144	4501778
 pb	141	0145	4501779
 pb	142	0146	4501780
-entry	Aniline. Physiologie		
+entry	Aniline. Physiologie [E. Beaugrand]		
+orth	Aniline. Physiologie		
 pb	143	0147	4501781
 pb	144	0148	4501782
 pb	145	0149	4501783
-entry	Aniline. Thérapeutique		
+entry	Aniline. Thérapeutique [E. Beaugrand]		
+orth	Aniline. Thérapeutique		
 pb	146	0150	4501784
-entry	Aniline. Toxicologie		
+entry	Aniline. Toxicologie [L. Orfila]		
+orth	Aniline. Toxicologie		
 pb	147	0151	4501785
-entry	Aniline. Hygiène publique		
+entry	Aniline. Hygiène publique [E. Beaugrand]		
+orth	Aniline. Hygiène publique		
 pb	148	0152	4501786
 pb	149	0153	4501787
 pb	150	0154	4501788
 pb	151	0155	4501789
 pb	152	0156	4501790
-entry	Animal, Animalité		
+entry	Animal, Animalité [H. Hollard]		
+orth	Animal, Animalité		
 pb	153	0157	4501791
 pb	154	0158	4501792
 pb	155	0159	4501793
@@ -216,15 +252,19 @@ pb	162	0166	4501800
 pb	163	0167	4501801
 pb	164	0168	4501802
 pb	165	0169	4501803
-entry	Animaux nuisibles		
+entry	Animaux nuisibles [A. Laboulbène]		
+orth	Animaux nuisibles		
 pb	166	0170	4501804
 pb	167	0171	4501805
 pb	168	0172	4501806
-entry	Animé (Résine)		
+entry	Animé (Résine) [O. Reveil]		
+orth	Animé (Résine)		
 pb	169	0173	4501807
 pb	170	0174	4501808
-entry	Animine		
-entry	Animisme		
+entry	Animine [O. Reveil]		
+orth	Animine		
+entry	Animisme [E. Littré]		
+orth	Animisme		
 pb	171	0175	4501809
 pb	172	0176	4501810
 pb	173	0177	4501811
@@ -232,40 +272,52 @@ pb	174	0178	4501812
 entry	Aninga-Iba		
 ref	Gouet		
 entry	Anis		
-entry	Anis. Botanique		
+entry	Anis. Botanique [H. Baillon]		
+orth	Anis. Botanique		
 pb	175	0179	4501813
 pb	176	0180	4501814
-entry	Anis. Pharmacologie		
+entry	Anis. Pharmacologie [J. Delioux de Savignac]		
+orth	Anis. Pharmacologie		
 pb	177	0181	4501815
 pb	178	0182	4501816
-entry	Anis. Thérapeutique		
+entry	Anis. Thérapeutique [J. Delioux de Savignac]		
+orth	Anis. Thérapeutique		
 pb	179	0183	4501817
 pb	180	0184	4501818
 pb	181	0185	4501819
 entry	Anis étoilé		
 ref	Badiane		
 entry	Anishydramide ou Anisylimidamide		
-entry	Anisifolius		
-entry	Anisique (acide)		
+entry	Anisifolius [H. Baillon]		
+orth	Anisifolius		
+entry	Anisique (acide) [O. Reveil]		
+orth	Anisique (acide)		
 pb	182	0186	4501820
-entry	Anisoine		
-entry	Anisol ou Dracol ou Phénométhol		
-entry	Anisomèle		
+entry	Anisoine [O. Reveil]		
+orth	Anisoine		
+entry	Anisol ou Dracol ou Phénométhol [O. Reveil]		
+orth	Anisol ou Dracol ou Phénométhol		
+entry	Anisomèle [H. Baillon]		
+orth	Anisomèle		
 pb	183	0187	4501821
 entry	Anison		
 ref	Anis		
-entry	Anisophyllum		
-entry	Anisosperme		
+entry	Anisophyllum [H. Baillon]		
+orth	Anisophyllum		
+entry	Anisosperme [H. Baillon]		
+orth	Anisosperme		
 entry	Anissao		
 ref	Mouchu		
 entry	Anisum		
 ref	Anis		
-entry	Anisyle ou Draconyle		
+entry	Anisyle ou Draconyle [O. Reveil]		
+orth	Anisyle ou Draconyle		
 entry	Ankyloblépharon		
 ref	Paupières		
 entry	Ankyloglosse		
 ref	Langue		
-entry	Ankylose		
+entry	Ankylose [Ollier]		
+orth	Ankylose		
 pb	184	0188	4501822
 pb	185	0189	4501823
 pb	186	0190	4501824
@@ -302,39 +354,55 @@ pb	216	0220	4501854
 pb	217	0221	4501855
 pb	218	0222	4501856
 pb	219	0223	4501857
-entry	Anneau		
-entry	Annelés (Animaux)		
+entry	Anneau [Léon Lefort]		
+orth	Anneau		
+entry	Annelés (Animaux) [A. Laboulbène]		
+orth	Annelés (Animaux)		
 pb	220	0224	4501858
-entry	Annélides		
-entry	Annesley (Sir James)		
+entry	Annélides [A. Laboulbène]		
+orth	Annélides		
+entry	Annesley (Sir James) [E. Beaugrand]		
+orth	Annesley (Sir James)		
 pb	221	0225	4501859
-entry	Annulaire du carpe (Ligament)		
-entry	Annulaire du tarse (Ligament)		
-entry	Annulaire du radius (Ligament)		
+entry	Annulaire du carpe (Ligament) [Léon Lefort]		
+orth	Annulaire du carpe (Ligament)		
+entry	Annulaire du tarse (Ligament) [Léon Lefort]		
+orth	Annulaire du tarse (Ligament)		
+entry	Annulaire du radius (Ligament) [Léon Lefort]		
+orth	Annulaire du radius (Ligament)		
 entry	Annulaire (protubérance)		
 ref	Cerveau		
 entry	Anodyns		
-entry	Anoma		
-entry	Anomalie		
+entry	Anoma [H. Baillon]		
+orth	Anoma		
+entry	Anomalie [Simon Duplay]		
+orth	Anomalie		
 pb	222	0226	4501860
-entry	Anomocéphales (Monstres)		
+entry	Anomocéphales (Monstres) [Paul Broca]		
+orth	Anomocéphales (Monstres)		
 pb	223	0227	4501861
-entry	Anonacées		
-entry	Anone		
+entry	Anonacées [H. Baillon]		
+orth	Anonacées		
+entry	Anone [H. Baillon]		
+orth	Anone		
 pb	224	0228	4501862
 pb	225	0229	4501863
 entry	Anorchide		
 ref	Cryptorchide		
-entry	Anorexie		
+entry	Anorexie [Béhier]		
+orth	Anorexie		
 pb	226	0230	4501864
 pb	227	0231	4501865
 pb	228	0232	4501866
 pb	229	0233	4501867
 entry	Anosmie		
 ref	Odorat		
-entry	Ansérine		
-entry	Antacs		
-entry	Antagonisme (Pathologie)		
+entry	Ansérine [H. Baillon]		
+orth	Ansérine		
+entry	Antacs [H. Baillon]		
+orth	Antacs		
+entry	Antagonisme (Pathologie) [Laveran]		
+orth	Antagonisme (Pathologie)		
 pb	230	0234	4501868
 pb	231	0235	4501869
 pb	232	0236	4501870
@@ -353,7 +421,8 @@ pb	244	0248	4501882
 pb	245	0249	4501883
 entry	Antagonisme (Thérapeutique)		
 ref	Antidote		
-entry	Antennaire		
+entry	Antennaire [H. Baillon]		
+orth	Antennaire		
 pb	246	0250	4501884
 entry	Antéversion		
 ref	Utérus		
@@ -361,23 +430,32 @@ entry	Anthelmie
 ref	Spigélie		
 entry	Anthelminthiques		
 ref	Vermifuges		
-entry	Anthemis		
-entry	Anthéric		
+entry	Anthemis [H. Baillon]		
+orth	Anthemis		
+entry	Anthéric [H. Baillon]		
+orth	Anthéric		
 entry	Anthiar		
 ref	Antiar		
-entry	Anthocleista		
-entry	Anthofles		
+entry	Anthocleista [H. Baillon]		
+orth	Anthocleista		
+entry	Anthofles [H. Baillon]		
+orth	Anthofles		
 pb	247	0251	4501885
-entry	Anthophylle		
+entry	Anthophylle [H. Baillon]		
+orth	Anthophylle		
 entry	Anthora		
 ref	Aconit		
-entry	Anthos		
+entry	Anthos [H. Baillon]		
+orth	Anthos		
 entry	Anthoxanthum		
 ref	Flouvr		
-entry	Anthracite		
-entry	Anthracokali		
+entry	Anthracite [O. Reveil]		
+orth	Anthracite		
+entry	Anthracokali [O. Reveil]		
+orth	Anthracokali		
 pb	248	0252	4501886
-entry	Anthracosis		
+entry	Anthracosis [Amédée Dechambre]		
+orth	Anthracosis		
 pb	249	0253	4501887
 pb	250	0254	4501888
 pb	251	0255	4501889
@@ -390,7 +468,10 @@ pb	257	0261	4501895
 pb	258	0262	4501896
 pb	259	0263	4501897
 pb	260	0264	4501898
-entry	Anthrax		
+entry	Anthracosis [Amédée Dechambre] [E. Beaugrand]		
+orth	Anthracosis		
+entry	Anthrax [U. Trélat]		
+orth	Anthrax		
 pb	261	0265	4501899
 pb	262	0266	4501900
 pb	263	0267	4501901
@@ -407,8 +488,10 @@ pb	273	0277	4501911
 pb	274	0278	4501912
 pb	275	0279	4501913
 pb	276	0280	4501914
-entry	Anthriscus		
-entry	Anthropologie		
+entry	Anthriscus [H. Baillon]		
+orth	Anthriscus		
+entry	Anthropologie [Paul Broca]		
+orth	Anthropologie		
 pb	277	0281	4501915
 pb	278	0282	4501916
 pb	279	0283	4501917
@@ -433,33 +516,42 @@ pb	297	0301	4501935
 pb	298	0302	4501936
 pb	299	0303	4501937
 pb	300	0304	4501938
-entry	Anthropomorphes		
+entry	Anthropomorphes [Paul Broca]		
+orth	Anthropomorphes		
 pb	301	0305	4501939
 entry	Anthropomorphon		
 ref	Mandragore		
-entry	Anthropophagie, Anthropophage		
+entry	Anthropophagie, Anthropophage [U. Trélat]		
+orth	Anthropophagie, Anthropophage		
 pb	302	0306	4501940
 pb	303	0307	4501941
 pb	304	0308	4501942
 pb	305	0309	4501943
-entry	Athyllide		
+entry	Athyllide [H. Baillon]		
+orth	Athyllide		
 pb	306	0310	4501944
-entry	Antiar		
+entry	Antiar [H. Baillon]		
+orth	Antiar		
 pb	307	0311	4501945
 pb	308	0312	4501946
 pb	309	0313	4501947
 pb	310	0314	4501948
-entry	Antibes (Station marine et hivernale)		
+entry	Antibes (Station marine et hivernale) [A. Rotureau]		
+orth	Antibes (Station marine et hivernale)		
 pb	311	0315	4501949
 pb	312	0316	4501950
 pb	313	0317	4501951
-entry	Anticholerica		
+entry	Anticholerica [H. Baillon]		
+orth	Anticholerica		
 entry	Antichore		
 ref	Corchorus		
-entry	Antidesma		
+entry	Antidesma [H. Baillon]		
+orth	Antidesma		
 pb	314	0318	4501952
-entry	Antidesmées		
-entry	Antidote		
+entry	Antidesmées [H. Baillon]		
+orth	Antidesmées		
+entry	Antidote [A. Gubler]		
+orth	Antidote		
 pb	315	0319	4501953
 pb	316	0320	4501954
 pb	317	0321	4501955
@@ -468,8 +560,10 @@ pb	319	0323	4501957
 pb	320	0324	4501958
 pb	321	0325	4501959
 pb	322	0326	4501960
-entry	Antiherpétiques		
-entry	Antilles		
+entry	Antiherpétiques [Amédée Dechambre]		
+orth	Antiherpétiques		
+entry	Antilles [Dutroulau]		
+orth	Antilles		
 pb	323	0327	4501961
 pb	324	0328	4501962
 pb	325	0329	4501963
@@ -494,8 +588,10 @@ entry	Antimimon
 ref	Muflier		
 entry	Antimion		
 ref	Mandragore		
-entry	Antimoine		
-entry	Antimoine. Chimie		
+entry	Antimoine [A. Dureau]		
+orth	Antimoine		
+entry	Antimoine. Chimie [L. Orfila]		
+orth	Antimoine. Chimie		
 pb	343	0347	4501981
 pb	344	0348	4501982
 pb	345	0349	4501983
@@ -503,7 +599,8 @@ pb	346	0350	4501984
 pb	347	0351	4501985
 pb	348	0352	4501986
 pb	349	0353	4501987
-entry	Antimoine. Pharmacologie		
+entry	Antimoine. Pharmacologie [T. Gobley]		
+orth	Antimoine. Pharmacologie		
 pb	350	0354	4501988
 pb	351	0355	4501989
 pb	352	0356	4501990
@@ -512,7 +609,8 @@ pb	354	0358	4501992
 pb	355	0359	4501993
 pb	356	0360	4501994
 pb	357	0361	4501995
-entry	Antimoine. Thérapeutique		
+entry	Antimoine. Thérapeutique [J. Delioux de Savignac]		
+orth	Antimoine. Thérapeutique		
 pb	358	0362	4501996
 pb	359	0363	4501997
 pb	360	0364	4501998
@@ -555,34 +653,45 @@ pb	396	0400	4502034
 pb	397	0401	4502035
 pb	398	0402	4502036
 pb	399	0403	4502037
-entry	Antimoine. Toxicologie		
+entry	Antimoine. Toxicologie [L. Orfila]		
+orth	Antimoine. Toxicologie		
 pb	400	0404	4502038
 pb	401	0405	4502039
-entry	Antimoniates		
+entry	Antimoniates [Amédée Dechambre]		
+orth	Antimoniates		
 entry	Antimonieux et Antimoniques (Acides)		
 ref	Antimoine		
-entry	Antimoniures		
-entry	Antimonyle		
-entry	Antipériodiques (Médicaments)		
+entry	Antimoniures [T. Gobley]		
+orth	Antimoniures		
+entry	Antimonyle [T. Gobley]		
+orth	Antimonyle		
+entry	Antipériodiques (Médicaments) [A. Gubler]		
+orth	Antipériodiques (Médicaments)		
 pb	402	0406	4502040
 pb	403	0407	4502041
 pb	404	0408	4502042
 pb	405	0409	4502043
 pb	406	0410	4502044
 pb	407	0411	4502045
-entry	Antiphlogistiques		
-entry	Antirhée		
+entry	Antiphlogistiques [Amédée Dechambre]		
+orth	Antiphlogistiques		
+entry	Antirhée [H. Baillon]		
+orth	Antirhée		
 pb	408	0412	4502046
-entry	Antirrhinum		
-entry	Antiscorbutiques (adjectif pris substantivement)		
+entry	Antirrhinum [H. Baillon]		
+orth	Antirrhinum		
+entry	Antiscorbutiques (adjectif pris substantivement) [A. Le Roy de Méricourt]		
+orth	Antiscorbutiques (adjectif pris substantivement)		
 pb	409	0413	4502047
 pb	410	0414	4502048
-entry	Antiscrofuleux		
+entry	Antiscrofuleux [Amédée Dechambre]		
+orth	Antiscrofuleux		
 pb	411	0415	4502049
 entry	Antiseptiques		
 ref	Désinfectants		
 ref	Septicité		
-entry	Antispasmodiques (Médicaments et médication)		
+entry	Antispasmodiques (Médicaments et médication) [Fonssagrives]		
+orth	Antispasmodiques (Médicaments et médication)		
 pb	412	0416	4502050
 pb	413	0417	4502051
 pb	414	0418	4502052
@@ -592,20 +701,26 @@ pb	417	0421	4502055
 pb	418	0422	4502056
 pb	419	0423	4502057
 pb	420	0424	4502058
-entry	Antisyphilitiques		
+entry	Antisyphilitiques [J. Rollet]		
+orth	Antisyphilitiques		
 pb	421	0425	4502059
 pb	422	0426	4502060
-entry	Antitésion		
+entry	Antitésion [H. Baillon]		
+orth	Antitésion		
 entry	Antjac, Antjak		
 ref	Figuier		
-entry	Antofle, Antolfe		
-entry	Antogast (Eaux minérales d')		
+entry	Antofle, Antolfe [H. Baillon]		
+orth	Antofle, Antolfe		
+entry	Antogast (Eaux minérales d') [A. Rotureau]		
+orth	Antogast (Eaux minérales d')		
 pb	423	0427	4502061
 pb	424	0428	4502062
-entry	Antommarchi (Francesco)		
+entry	Antommarchi (Francesco) [E. Beaugrand]		
+orth	Antommarchi (Francesco)		
 entry	Antonio Di Guagno (Eaux minérales d')		
 ref	Guagno		
-entry	Antony, ou Anthony (Francis)		
+entry	Antony, ou Anthony (Francis) [A. Chéreau]		
+orth	Antony, ou Anthony (Francis)		
 pb	425	0429	4502063
 entry	Antozone		
 ref	Ozone		
@@ -613,19 +728,28 @@ entry	Antriscus
 ref	Anthriscus		
 entry	Antsjar		
 ref	Antiar		
-entry	Antura		
-entry	Anty		
-entry	Antyllus		
-entry	Anudron		
-entry	Anupias		
-entry	Anus		
-entry	Anus. Anatomie et physiologie		
+entry	Antura [H. Baillon]		
+orth	Antura		
+entry	Anty [H. Baillon]		
+orth	Anty		
+entry	Antyllus [W. A. Greenhill, Ch. Daremberg]		
+orth	Antyllus		
+entry	Anudron [H. Baillon]		
+orth	Anudron		
+entry	Anupias [H. Baillon]		
+orth	Anupias		
+entry	Anus [Marc Sée]		
+orth	Anus		
+entry	Anus. Anatomie et physiologie [Marc Sée]		
+orth	Anus. Anatomie et physiologie		
 pb	426	0430	4502064
 pb	427	0431	4502065
 pb	428	0432	4502066
-entry	Anus. Développement		
+entry	Anus. Développement [Campana]		
+orth	Anus. Développement		
 pb	429	0433	4502067
-entry	Anus. Vices de conformation		
+entry	Anus. Vices de conformation [U. Trélat]		
+orth	Anus. Vices de conformation		
 pb	430	0434	4502068
 pb	431	0435	4502069
 pb	432	0436	4502070
@@ -649,14 +773,16 @@ pb	449	0453	4502087
 pb	450	0454	4502088
 pb	451	0455	4502089
 pb	452	0456	4502090
-entry	Anus. Pathologie		
+entry	Anus. Pathologie [Amédée Dechambre]		
+orth	Anus. Pathologie		
 pb	453	0457	4502091
 pb	454	0458	4502092
 pb	455	0459	4502093
 pb	456	0460	4502094
 pb	457	0461	4502095
 pb	458	0462	4502096
-entry	Anus. Pathologie chirurgicale		
+entry	Anus. Pathologie chirurgicale [Chassaignac]		
+orth	Anus. Pathologie chirurgicale		
 pb	459	0463	4502097
 pb	460	0464	4502098
 pb	461	0465	4502099
@@ -665,8 +791,12 @@ pb	463	0467	4502101
 pb	464	0468	4502102
 pb	465	0469	4502103
 pb	466	0470	4502104
+entry	Anus. Pathologie chirurgicale [Chassaignac] [E. Beaugrand]		
+orth	Anus. Pathologie chirurgicale		
 pb	467	0471	4502105
 pb	468	0472	4502106
+entry	Anus. Pathologie chirurgicale [Chassaignac]		
+orth	Anus. Pathologie chirurgicale		
 pb	469	0473	4502107
 pb	470	0474	4502108
 pb	471	0475	4502109
@@ -690,7 +820,8 @@ pb	488	0492	4502126
 pb	489	0493	4502127
 pb	490	0494	4502128
 pb	491	0495	4502129
-entry	Anus. Maladies vénériennes de l'anus		
+entry	Anus. Maladies vénériennes de l'anus [J. Rollet]		
+orth	Anus. Maladies vénériennes de l'anus		
 pb	492	0496	4502130
 pb	493	0497	4502131
 pb	494	0498	4502132
@@ -702,7 +833,8 @@ pb	499	0503	4502137
 pb	500	0504	4502138
 pb	501	0505	4502139
 pb	502	0506	4502140
-entry	Anus. Anus contre nature		
+entry	Anus. Anus contre nature [F. Guyon]		
+orth	Anus. Anus contre nature		
 pb	503	0507	4502141
 pb	504	0508	4502142
 pb	505	0509	4502143
@@ -720,30 +852,39 @@ pb	516	0520	4502154
 pb	517	0521	4502155
 pb	518	0522	4502156
 pb	519	0523	4502157
+entry	Anus. Anus contre nature [F. Guyon] [E. Beaugrand]		
+orth	Anus. Anus contre nature		
 pb	520	0524	4502158
 pb	521	0525	4502159
 entry	Anus		
-entry	Anus. Anus artificiel		
+entry	Anus. Anus artificiel [F. Guyon]		
+orth	Anus. Anus artificiel		
 pb	522	0526	4502160
 pb	523	0527	4502161
 pb	524	0528	4502162
 pb	525	0529	4502163
 pb	526	0530	4502164
+entry	Anus. Anus artificiel [F. Guyon] [E. Beaugrand, U. Trélat]		
+orth	Anus. Anus artificiel		
 pb	527	0531	4502165
-entry	Anvali		
+entry	Anvali [H. Baillon]		
+orth	Anvali		
 entry	Anverus		
 ref	Arrow-root		
 ref	Maranta		
 entry	Aongra		
 ref	Phyllanthe		
-entry	Aorte		
-entry	Aorte. Anatomie		
+entry	Aorte [Marc Sée]		
+orth	Aorte		
+entry	Aorte. Anatomie [Marc Sée]		
+orth	Aorte. Anatomie		
 pb	528	0532	4502166
 pb	529	0533	4502167
 pb	530	0534	4502168
 pb	531	0535	4502169
 pb	532	0536	4502170
-entry	Aorte. Maladies de l'aorte		
+entry	Aorte. Maladies de l'aorte [Charcot, Ball]		
+orth	Aorte. Maladies de l'aorte		
 pb	533	0537	4502171
 pb	534	0538	4502172
 pb	535	0539	4502173
@@ -800,13 +941,15 @@ pb	585	0589	4502223
 pb	586	0590	4502224
 pb	587	0591	4502225
 pb	588	0592	4502226
-entry	Aorte. Lésions traumatiques de l'aorte		
+entry	Aorte. Lésions traumatiques de l'aorte [Legouest]		
+orth	Aorte. Lésions traumatiques de l'aorte		
 pb	589	0593	4502227
 pb	590	0594	4502228
 pb	591	0595	4502229
 pb	592	0596	4502230
 pb	593	0597	4502231
-entry	Aorte. Opérations qui peuvent être pratiquées sur l'aorte		
+entry	Aorte. Opérations qui peuvent être pratiquées sur l'aorte [Legouest]		
+orth	Aorte. Opérations qui peuvent être pratiquées sur l'aorte		
 pb	594	0598	4502232
 pb	595	0599	4502233
 pb	596	0600	4502234
@@ -817,16 +960,24 @@ ref	Aorte
 entry	Aouaca		
 ref	Avocaties		
 pb	599	0603	4502237
-entry	Aouara, Aovara		
-entry	Aouarouchi		
-entry	Aouriole		
-ref	Centaurée		
-entry	Aourniers		
-entry	Apama		
-entry	Apantropon		
-entry	Aparine		
-entry	Apepsie		
-entry	Apéritifs		
+entry	Aouara, Aovara [H. Baillon]		
+orth	Aouara, Aovara		
+entry	Aouarouchi [H. Baillon]		
+orth	Aouarouchi		
+entry	Aouriole.. Baillon]		
+ref	Centaurée [H		
+entry	Aourniers [H. Baillon]		
+orth	Aourniers		
+entry	Apama [H. Baillon]		
+orth	Apama		
+entry	Apantropon [H. Baillon]		
+orth	Apantropon		
+entry	Aparine [H. Baillon]		
+orth	Aparine		
+entry	Apepsie [Amédée Dechambre]		
+orth	Apepsie		
+entry	Apéritifs [Fonssagrives]		
+orth	Apéritifs		
 pb	600	0604	4502238
 pb	601	0605	4502239
 pb	602	0606	4502240
@@ -835,7 +986,8 @@ pb	604	0608	4502242
 pb	605	0609	4502243
 entry	Aphanes		
 ref	Alchémille		
-entry	Aphasie, Aphémie, Alalie		
+entry	Aphasie, Aphémie, Alalie [J. Falret]		
+orth	Aphasie, Aphémie, Alalie		
 pb	606	0610	4502244
 pb	607	0611	4502245
 pb	608	0612	4502246
@@ -875,8 +1027,10 @@ pb	641	0645	4502279
 pb	642	0646	4502280
 pb	643	0647	4502281
 pb	644	0648	4502282
-entry	Aphloia		
-entry	Aphonie		
+entry	Aphloia [H. Baillon]		
+orth	Aphloia		
+entry	Aphonie [Amédée Dechambre]		
+orth	Aphonie		
 pb	645	0649	4502283
 pb	646	0650	4502284
 pb	647	0651	4502285
@@ -888,7 +1042,8 @@ pb	652	0656	4502290
 entry	Aphrodisiaques		
 ref	Anaphrodisie		
 entry	Aphrodisie et Anaphrodisiaques		
-entry	Aphrodisie et Anaphrodisiaques. Pathologie		
+entry	Aphrodisie et Anaphrodisiaques. Pathologie [F. Fonssagrives]		
+orth	Aphrodisie et Anaphrodisiaques. Pathologie		
 pb	653	0657	4502291
 pb	654	0658	4502292
 pb	655	0659	4502293
@@ -897,7 +1052,8 @@ pb	657	0661	4502295
 pb	658	0662	4502296
 pb	659	0663	4502297
 pb	660	0664	4502298
-entry	Aphrodisie et Anaphrodisiaques. Médecine légale		
+entry	Aphrodisie et Anaphrodisiaques. Médecine légale [G. Tourdes]		
+orth	Aphrodisie et Anaphrodisiaques. Médecine légale		
 pb	661	0665	4502299
 pb	662	0666	4502300
 pb	663	0667	4502301
@@ -905,47 +1061,69 @@ pb	664	0668	4502302
 pb	665	0669	4502303
 pb	666	0670	4502304
 pb	667	0671	4502305
-entry	Aphthes		
+entry	Aphthes [Jules Worms]		
+orth	Aphthes		
 pb	668	0672	4502306
 pb	669	0673	4502307
 pb	670	0674	4502308
-entry	Apiastrum		
+entry	Apiastrum [H. Baillon]		
+orth	Apiastrum		
 entry	Apichu		
 ref	Patate		
 pb	671	0675	4502309
-entry	Apicius		
-entry	Apiine		
+entry	Apicius [E. Beaugrand]		
+orth	Apicius		
+entry	Apiine [T. Gobley]		
+orth	Apiine		
 pb	672	0676	4502310
-entry	Apinel		
-entry	Apinus (Jean-Louis)		
-entry	Apiol		
+entry	Apinel [H. Baillon]		
+orth	Apinel		
+entry	Apinus (Jean-Louis) [A. Chéreau]		
+orth	Apinus (Jean-Louis)		
+entry	Apiol [T. Gobley]		
+orth	Apiol		
 pb	673	0677	4502311
 pb	274	0678	4502312
-entry	Apios		
+entry	Apios [H. Baillon]		
+orth	Apios		
 entry	Apium		
 ref	Ache		
-entry	Aplanétique (terme d'optique)		
+entry	Aplanétique (terme d'optique) [J. Gubler]		
+orth	Aplanétique (terme d'optique)		
 pb	675	0679	4502313
-entry	Aplastique		
-entry	Aplotaxis, ou mieux Haplotaxis		
-entry	Apnée		
-entry	Apocouita		
-entry	Apocrénique (acide)		
+entry	Aplastique [Gubler]		
+orth	Aplastique		
+entry	Aplotaxis, ou mieux Haplotaxis [H. Baillon]		
+orth	Aplotaxis, ou mieux Haplotaxis		
+entry	Apnée [Amédée Dechambre]		
+orth	Apnée		
+entry	Apocouita [H. Baillon]		
+orth	Apocouita		
+entry	Apocrénique (acide) [M. Malaguti]		
+orth	Apocrénique (acide)		
 pb	676	0680	4502314
-entry	Apocyn ou Apocin		
+entry	Apocyn ou Apocin [H. Baillon]		
+orth	Apocyn ou Apocin		
 pb	677	0681	4502315
 pb	678	0682	4502316
-entry	Apocynées		
+entry	Apocynées [H. Baillon]		
+orth	Apocynées		
 pb	679	0683	4502317
-entry	Apocynine ou Apocyn		
-entry	Apodie		
-entry	Apollonius de Citium (A. Citiensis)		
+entry	Apocynine ou Apocyn [O. Reveil]		
+orth	Apocynine ou Apocyn		
+entry	Apodie [Simon Duplay]		
+orth	Apodie		
+entry	Apollonius de Citium (A. Citiensis) [Daremberg]		
+orth	Apollonius de Citium (A. Citiensis)		
 pb	680	0684	4502318
-entry	Aponévrose		
+entry	Aponévrose [Marc Sée]		
+orth	Aponévrose		
 pb	681	0685	4502319
 pb	682	0686	4502320
-entry	Apophyse		
-entry	Apoplexie		
+entry	Apophyse [Léon Lefort]		
+orth	Apophyse		
+entry	Apoplexie [S. Schützenberger, Hecht]		
+orth	Apoplexie		
 pb	683	0687	4502321
 pb	684	0688	4502322
 pb	685	0689	4502323
@@ -1000,59 +1178,81 @@ pb	733	0737	4502371
 pb	734	0738	4502372
 pb	735	0739	4502373
 pb	736	0740	4502374
-entry	Aporétine		
+entry	Aporétine [O. Reveil]		
+orth	Aporétine		
 entry	Aposépédine		
 ref	Leucine		
-entry	Apothicaire, Apothicairerie		
+entry	Apothicaire, Apothicairerie [A. Chéreau]		
+orth	Apothicaire, Apothicairerie		
 pb	737	0741	4502375
 pb	738	0742	4502376
 pb	739	0743	4502377
 pb	740	0744	4502378
-entry	Apozèmes		
-entry	Appareils		
+entry	Apozèmes [J. Regnauld]		
+orth	Apozèmes		
+entry	Appareils [Legouest]		
+orth	Appareils		
 pb	741	0745	4502379
-entry	Anatomie et pathologie		
+entry	Anatomie et pathologie [Legouest]		
+orth	Anatomie et pathologie		
 pb	742	0746	4502380
 entry	Appareils		
-entry	Appareils. Physique, chimie et pharmacie		
+entry	Appareils. Physique, chimie et pharmacie [L. Orfila]		
+orth	Appareils. Physique, chimie et pharmacie		
 pb	743	0747	4502381
 entry	Appendice		
-entry	Anatomie		
-entry	Botanique		
-entry	Appétence		
+entry	Anatomie [Simon Duplay]		
+orth	Anatomie		
+entry	Botanique [H. Baillon]		
+orth	Botanique		
+entry	Appétence [Amédée Dechambre]		
+orth	Appétence		
 pb	744	0748	4502382
-entry	Appétit		
+entry	Appétit [Fonssagrives]		
+orth	Appétit		
 pb	745	0749	4502383
 pb	746	0750	4502384
-entry	Applicata		
+entry	Applicata [E. Beaugrand]		
+orth	Applicata		
 pb	747	0751	4502385
 entry	Aprèle ou Apprelle		
 ref	Prêle		
-entry	Aprosopie		
+entry	Aprosopie [Simon Duplay]		
+orth	Aprosopie		
 entry	Aptitudes et immunités pathologiques		
-entry	Aptitudes et immunités pathologiques. Pathologie générale		
+entry	Aptitudes et immunités pathologiques. Pathologie générale [Fonsagrives]		
+orth	Aptitudes et immunités pathologiques. Pathologie générale		
 pb	748	0752	4502386
 pb	749	0753	4502387
 pb	750	0754	4502388
-entry	Aptitudes et immunités pathologiques. Pathologie spéciale suivant les races et les climats		
+entry	Aptitudes et immunités pathologiques. Pathologie spéciale suivant les races et les climats [Jacques Bertillon]		
+orth	Aptitudes et immunités pathologiques. Pathologie spéciale suivant les races et les climats		
 pb	751	0755	4502389
 pb	752	0756	4502390
-entry	Apuleius ou appuleius (Lucius)		
+entry	Apuleius ou appuleius (Lucius) [W. A. Greenhill]		
+orth	Apuleius ou appuleius (Lucius)		
 pb	753	0757	4502391
-entry	Apyrexie		
-entry	Aquatique (Noix)		
-entry	Aqueduc		
+entry	Apyrexie [Amédée Dechambre]		
+orth	Apyrexie		
+entry	Aquatique (Noix) [H. Baillon]		
+orth	Aquatique (Noix)		
+entry	Aqueduc [Léon Lefort]		
+orth	Aqueduc		
 pb	754	0758	4502392
 entry	Aquifoux ou Alquifoux		
 ref	Houx		
-entry	Aquila (Jean dell')		
-entry	Aquilaire		
+entry	Aquila (Jean dell') [A. Chéreau]		
+orth	Aquila (Jean dell')		
+entry	Aquilaire [H. Baillon]		
+orth	Aquilaire		
 pb	755	0759	4502393
-entry	Aquilano (Sébastien)		
+entry	Aquilano (Sébastien) [A. Chéreau]		
+orth	Aquilano (Sébastien)		
 pb	756	0760	4502394
 entry	Aquilegia		
 ref	Ancolie		
-entry	Aquilicia		
+entry	Aquilicia [H. Baillon]		
+orth	Aquilicia		
 entry	Aquilina		
 ref	Pteris		
 entry	Aquin (D')		
@@ -1063,9 +1263,11 @@ ref	France
 ref	Ethnologie		
 entry	Arabes (médecine des)		
 ref	Médecine		
-entry	Arabette		
+entry	Arabette [H. Baillon]		
+orth	Arabette		
 pb	757	0761	4502395
-entry	Arabie (Géographie médicale)		
+entry	Arabie (Géographie médicale) [G. Liétard]		
+orth	Arabie (Géographie médicale)		
 pb	758	0762	4502396
 pb	759	0763	4502397
 pb	760	0764	4502398
@@ -1081,32 +1283,42 @@ pb	769	0773	4502407
 pb	770	0774	4502408
 pb	771	0775	4502409
 pb	772	0776	4502410
-entry	Arabine		
+entry	Arabine [T. Gobley]		
+orth	Arabine		
 entry	Arabique		
 ref	Gomme		
 entry	Araca ou A.-Iba		
 ref	Goyavier		
-entry	Aracacha ou Arracacha		
+entry	Aracacha ou Arracacha [H. Baillon]		
+orth	Aracacha ou Arracacha		
 pb	773	0777	4502411
-entry	Arachide ou Pistache de terre. Anchie, etc.		
-entry	Arachnides		
+entry	Arachide ou Pistache de terre. Anchie, etc. [H. Baillon]		
+orth	Arachide ou Pistache de terre. Anchie, etc.		
+entry	Arachnides [A. Laboulbène]		
+orth	Arachnides		
 pb	774	0778	4502412
 pb	775	0779	4502413
-entry	Arachnides nuisibles		
+entry	Arachnides nuisibles [A. Laboulbène]		
+orth	Arachnides nuisibles		
 entry	Arachnitis		
 ref	Méningite		
 entry	Arachnoïde		
 ref	Méninges		
 entry	Arachnoïdite		
 ref	Méningite		
-entry	Arachus, Aracus		
-entry	Aracouchini (Résine)		
+entry	Arachus, Aracus [H. Baillon]		
+orth	Arachus, Aracus		
+entry	Aracouchini (Résine) [H. Baillon]		
+orth	Aracouchini (Résine)		
 pb	776	0780	4502414
-entry	Aradech		
+entry	Aradech [H. Baillon]		
+orth	Aradech		
 entry	Arah		
 ref	Pistachier		
-entry	Araignée de mer		
-entry	Araignées, Aranéïdes		
+entry	Araignée de mer [A. Laboulbène]		
+orth	Araignée de mer		
+entry	Araignées, Aranéïdes [A. Laboulbène]		
+orth	Araignées, Aranéïdes		
 pb	777	0781	4502415
 pb	778	0782	4502416
 pb	779	0783	4502417
@@ -1117,18 +1329,24 @@ pb	783	0787	4502421
 pb	784	0788	4502422
 entry	Aralda		
 ref	Digitale		
-entry	Araldi (Michel)		
-entry	Araliacées		
-entry	Aralie		
+entry	Araldi (Michel) [A. Chéreau]		
+orth	Araldi (Michel)		
+entry	Araliacées [H. Baillon]		
+orth	Araliacées		
+entry	Aralie [H. Baillon]		
+orth	Aralie		
 pb	785	0789	4502423
-entry	Aramayona (Eaux minérales d')		
+entry	Aramayona (Eaux minérales d') [A. Rotureau]		
+orth	Aramayona (Eaux minérales d')		
 pb	786	0790	4502424
 pb	787	0791	4502425
-entry	Aran (François-Amilcar)		
+entry	Aran (François-Amilcar) [E. Beaugrand]		
+orth	Aran (François-Amilcar)		
 pb	788	0792	4502426
 entry	Aranci, Arancio		
 ref	Oranger		
-entry	Arantius (Jules-César)		
+entry	Arantius (Jules-César) [A. Chéreau]		
+orth	Arantius (Jules-César)		
 pb	789	0793	4502427
 entry	Arapabaca		
 ref	Spigélie		
@@ -1145,7 +1363,8 @@ entry	Arbor insania
 ref	Caragne		
 entry	Arbor lactaria		
 ref	Cerbera		
-entry	Arbousier		
+entry	Arbousier [H. Baillon]		
+orth	Arbousier		
 pb	790	0794	4502428
 pb	791	0795	4502429
 pb	[s. pag.]	0796	4502430

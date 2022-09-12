@@ -1,10 +1,14 @@
 pb	[s. pag.]	0001	4577185
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4577186
 pb	[s. pag.]	0003	4577187
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4577188
 pb	1	0005	4577189
-entry	Phanérogames		
-entry	Phanérophore		
+entry	Phanérogames [Ed. Lefèvre]		
+orth	Phanérogames		
+entry	Phanérophore [Ed. Retterer]		
+orth	Phanérophore		
 pb	2	0006	4577190
 pb	3	0007	4577191
 pb	4	0008	4577192
@@ -23,9 +27,11 @@ pb	16	0020	4577204
 pb	17	0021	4577205
 pb	18	0022	4577206
 pb	19	0023	4577207
-entry	Pharbitis		
+entry	Pharbitis [Ed. Lefèvre]		
+orth	Pharbitis		
 pb	20	0024	4577208
-entry	Pharmacie		
+entry	Pharmacie [L. Thomas]		
+orth	Pharmacie		
 pb	21	0025	4577209
 pb	22	0026	4577210
 pb	23	0027	4577211
@@ -44,20 +50,26 @@ pb	35	0039	4577223
 pb	36	0040	4577224
 entry	Pharmaciens (Hygiène professionnelle)		
 ref	Chimistes		
-entry	Pharmacologie		
+entry	Pharmacologie [Ch. Blarez]		
+orth	Pharmacologie		
 pb	37	0041	4577225
 pb	38	0042	4577226
 pb	39	0043	4577227
-entry	Pharmacopée		
+entry	Pharmacopée [Ch. Blarez]		
+orth	Pharmacopée		
 pb	40	0044	4577228
-entry	Pharnaceum		
+entry	Pharnaceum [Ed. Lefèvre]		
+orth	Pharnaceum		
 pb	41	0045	4577229
 entry	Pharyngien (Nerf)		
 ref	Pharyngien (Plexus)		
 ref	Maxillaires (Nerfs)		
-entry	Pharyngien (Plexus)		
-entry	Pharyngien de bock (Nerf)		
-entry	Pharyngienne (Artère)		
+entry	Pharyngien (Plexus) [L. Testut]		
+orth	Pharyngien (Plexus)		
+entry	Pharyngien de bock (Nerf) [L. Testut]		
+orth	Pharyngien de bock (Nerf)		
+entry	Pharyngienne (Artère) [L. Testut]		
+orth	Pharyngienne (Artère)		
 pb	42	0046	4577230
 entry	Pharyngo-glosse (Muscle)		
 ref	Langue		
@@ -65,7 +77,8 @@ entry	Pharyngoscopie
 ref	Rhinoscopie		
 entry	Pharyngo-staphylin (Muscle)		
 ref	Pharynx		
-entry	Pharyngotomie, Pharyngectomie		
+entry	Pharyngotomie, Pharyngectomie [A. Broca]		
+orth	Pharyngotomie, Pharyngectomie		
 pb	43	0047	4577231
 pb	44	0048	4577232
 pb	45	0049	4577233
@@ -85,7 +98,8 @@ pb	58	0062	4577246
 pb	59	0063	4577247
 pb	60	0064	4577248
 entry	Pharynx		
-entry	Pharynx. Anatomie		
+entry	Pharynx. Anatomie [Arloing]		
+orth	Pharynx. Anatomie		
 pb	61	0065	4577249
 pb	62	0066	4577250
 pb	63	0067	4577251
@@ -93,11 +107,13 @@ pb	64	0068	4577252
 pb	65	0069	4577253
 pb	66	0070	4577254
 pb	67	0071	4577255
-entry	Pharynx. Physiologie		
+entry	Pharynx. Physiologie [Arloing]		
+orth	Pharynx. Physiologie		
 pb	68	0072	4577256
 pb	69	0073	4577257
 entry	Pharynx		
-entry	Pharynx. Pathologie		
+entry	Pharynx. Pathologie [X. Arnozan, E. J. Moure]		
+orth	Pharynx. Pathologie		
 pb	70	0074	4577258
 pb	71	0075	4577259
 pb	72	0076	4577260
@@ -127,42 +143,65 @@ pb	95	0099	4577283
 pb	96	0100	4577284
 pb	97	0101	4577285
 pb	98	0102	4577286
-entry	Phascogale		
+entry	Phascogale [E. Oustalet]		
+orth	Phascogale		
 pb	99	0103	4577287
-entry	Phascolome		
-entry	Phascum		
-entry	Phaséole		
-entry	Phaséomannite		
-entry	Phélipée		
+entry	Phascolome [E. Oustalet]		
+orth	Phascolome		
+entry	Phascum [Ed. Lefèvre]		
+orth	Phascum		
+entry	Phaséole [Ed. Lefèvre]		
+orth	Phaséole		
+entry	Phaséomannite [L. Hahn]		
+orth	Phaséomannite		
+entry	Phélipée [Ed. Lefèvre]		
+orth	Phélipée		
 pb	100	0104	4577288
 entry	Phellandrie		
-entry	Phellandrie. Botanique		
+entry	Phellandrie. Botanique [Ed. Lefèvre]		
+orth	Phellandrie. Botanique		
 pb	101	0105	4577289
-entry	Phellandrie. Emploi médical		
+entry	Phellandrie. Emploi médical [Charles Éloy]		
+orth	Phellandrie. Emploi médical		
 pb	102	0106	4577290
 pb	103	0107	4577291
-entry	Phellique (Alcool)		
+entry	Phellique (Alcool) [L. Hahn]		
+orth	Phellique (Alcool)		
 pb	104	0108	4577292
-entry	Phénacétéine		
-entry	Phénacéturique (Acide)		
-entry	Phénaconique		
-entry	Phénaméine		
-entry	Phénanthraquinone		
-entry	Phénanthrène		
-entry	Phénanthrolines		
+entry	Phénacétéine [L. Hahn]		
+orth	Phénacétéine		
+entry	Phénacéturique (Acide) [L. Hahn]		
+orth	Phénacéturique (Acide)		
+entry	Phénaconique [L. Hahn]		
+orth	Phénaconique		
+entry	Phénaméine [L. Hahn]		
+orth	Phénaméine		
+entry	Phénanthraquinone [L. Hahn]		
+orth	Phénanthraquinone		
+entry	Phénanthrène [L. Hahn]		
+orth	Phénanthrène		
+entry	Phénanthrolines [L. Hahn]		
+orth	Phénanthrolines		
 pb	105	0109	4577293
-entry	Phénanthrolique (Acide)		
-entry	Phène		
-entry	Phénényltriamine		
-entry	Phénéthol		
-entry	Phénicine		
+entry	Phénanthrolique (Acide) [L. Hahn]		
+orth	Phénanthrolique (Acide)		
+entry	Phène [L. Hahn]		
+orth	Phène		
+entry	Phénényltriamine [L. Hahn]		
+orth	Phénényltriamine		
+entry	Phénéthol [L. Hahn]		
+orth	Phénéthol		
+entry	Phénicine [L. Hahn]		
+orth	Phénicine		
 entry	Phénique (Acide)		
-entry	Phénique (Acide). Chimie		
+entry	Phénique (Acide). Chimie [L. Hahn]		
+orth	Phénique (Acide). Chimie		
 pb	106	0110	4577294
 pb	107	0111	4577295
 pb	108	0112	4577296
 pb	109	0113	4577297
-entry	Phénique (Acide). Emploi médical		
+entry	Phénique (Acide). Emploi médical [Pécholier, Brousse]		
+orth	Phénique (Acide). Emploi médical		
 pb	110	0114	4577298
 pb	111	0115	4577299
 pb	112	0116	4577300
@@ -196,122 +235,210 @@ pb	139	0143	4577327
 pb	140	0144	4577328
 pb	141	0145	4577329
 pb	142	0146	4577330
-entry	Phénoglucine		
-entry	Phénoïque (Acide)		
-entry	Phénolamine		
-entry	Phénoldicarboxylique		
+entry	Phénoglucine [L. Hahn]		
+orth	Phénoglucine		
+entry	Phénoïque (Acide) [L. Hahn]		
+orth	Phénoïque (Acide)		
+entry	Phénolamine [L. Hahn]		
+orth	Phénolamine		
+entry	Phénoldicarboxylique [L. Hahn]		
+orth	Phénoldicarboxylique		
 pb	143	0147	4577331
-entry	Phénols		
+entry	Phénols [L. Hahn]		
+orth	Phénols		
 pb	144	0148	4577332
-entry	Phénomalique (Acide)		
-entry	Phénoquinone		
-entry	Phénose		
-entry	Phénylacétamide		
+entry	Phénomalique (Acide) [L. Hahn]		
+orth	Phénomalique (Acide)		
+entry	Phénoquinone [L. Hahn]		
+orth	Phénoquinone		
+entry	Phénose [L. Hahn]		
+orth	Phénose		
+entry	Phénylacétamide [L. Hahn]		
+orth	Phénylacétamide		
 pb	145	0149	4577333
-entry	Phénylacétique (Acide)		
-entry	Phénylacétones		
-entry	Phénylacétylène		
-entry	Phénylacrylique (Acide)		
-entry	Phénylamines		
-entry	Phénylammoniums		
-entry	Phénylangélique (Acide)		
-entry	Phénylaniline		
-entry	Phénylanthracène		
+entry	Phénylacétique (Acide) [L. Hahn]		
+orth	Phénylacétique (Acide)		
+entry	Phénylacétones [L. Hahn]		
+orth	Phénylacétones		
+entry	Phénylacétylène [L. Hahn]		
+orth	Phénylacétylène		
+entry	Phénylacrylique (Acide) [L. Hahn]		
+orth	Phénylacrylique (Acide)		
+entry	Phénylamines [L. Hahn]		
+orth	Phénylamines		
+entry	Phénylammoniums [L. Hahn]		
+orth	Phénylammoniums		
+entry	Phénylangélique (Acide) [L. Hahn]		
+orth	Phénylangélique (Acide)		
+entry	Phénylaniline [L. Hahn]		
+orth	Phénylaniline		
+entry	Phénylanthracène [L. Hahn]		
+orth	Phénylanthracène		
 pb	146	0150	4577334
-entry	Phénylanthranol		
-entry	Phénylbenzine (Di-)		
-entry	Phénylbenzilkétone		
-entry	Phénylbiuret		
-entry	Phénilbromolactique (Acide)		
-entry	Phénylbutyle		
-entry	Phénylbutylène		
-entry	Phénylbutylglycol		
-entry	Phénylbutyrique (Acide)		
+entry	Phénylanthranol [L. Hahn]		
+orth	Phénylanthranol		
+entry	Phénylbenzine (Di-) [L. Hahn]		
+orth	Phénylbenzine (Di-)		
+entry	Phénylbenzilkétone [L. Hahn]		
+orth	Phénylbenzilkétone		
+entry	Phénylbiuret [L. Hahn]		
+orth	Phénylbiuret		
+entry	Phénilbromolactique (Acide) [L. Hahn]		
+orth	Phénilbromolactique (Acide)		
+entry	Phénylbutyle [L. Hahn]		
+orth	Phénylbutyle		
+entry	Phénylbutylène [L. Hahn]		
+orth	Phénylbutylène		
+entry	Phénylbutylglycol [L. Hahn]		
+orth	Phénylbutylglycol		
+entry	Phénylbutyrique (Acide) [L. Hahn]		
+orth	Phénylbutyrique (Acide)		
 pb	147	0151	4577335
-entry	Phénylbutyrolactone		
-entry	Phénylcarbamides ou phénylurées		
-entry	Phénylcarbamique (Acide)		
-entry	Phénylcarbimide		
-entry	Phénylcarbinol		
+entry	Phénylbutyrolactone [L. Hahn]		
+orth	Phénylbutyrolactone		
+entry	Phénylcarbamides ou phénylurées [L. Hahn]		
+orth	Phénylcarbamides ou phénylurées		
+entry	Phénylcarbamique (Acide) [L. Hahn]		
+orth	Phénylcarbamique (Acide)		
+entry	Phénylcarbimide [L. Hahn]		
+orth	Phénylcarbimide		
+entry	Phénylcarbinol [L. Hahn]		
+orth	Phénylcarbinol		
 pb	148	0152	4577336
-entry	Phénylcarbostyryle		
-entry	Phénylchrorolactique (Acide)		
-entry	Phénylcrotonique (Acide)		
-entry	Phénylcyanamide		
+entry	Phénylcarbostyryle [L. Hahn]		
+orth	Phénylcarbostyryle		
+entry	Phénylchrorolactique (Acide) [L. Hahn]		
+orth	Phénylchrorolactique (Acide)		
+entry	Phénylcrotonique (Acide) [L. Hahn]		
+orth	Phénylcrotonique (Acide)		
+entry	Phénylcyanamide [L. Hahn]		
+orth	Phénylcyanamide		
 entry	Phénylcyanurique (Acide)		
 ref	Phénylcarbimide		
-entry	Phénylcystine		
+entry	Phénylcystine [L. Hahn]		
+orth	Phénylcystine		
+entry	Phényle [L. Hahn]		
+orth	Phényle		
+pb	149	0153	4577337
 entry	Phenyle-mercure ou mercure-phényle		
 ref	Phényle		
-pb	149	0153	4577337
-entry	Phénylène		
+entry	Phénylène [L. Hahn]		
+orth	Phénylène		
 entry	Phénylène-diamines		
 ref	Phénylène		
-entry	Phényléthylacétone		
-entry	Phényléthylènes		
-entry	Phénylformamide		
-entry	Phénylfumarique (Acide)		
-entry	Phénylglycérine		
-entry	Phényglycérique (Acide)		
-entry	Phénylglycocolle		
+entry	Phényléthylacétone [L. Hahn]		
+orth	Phényléthylacétone		
+entry	Phényléthylènes [L. Hahn]		
+orth	Phényléthylènes		
+entry	Phénylformamide [L. Hahn]		
+orth	Phénylformamide		
+entry	Phénylfumarique (Acide) [L. Hahn]		
+orth	Phénylfumarique (Acide)		
+entry	Phénylglycérine [L. Hahn]		
+orth	Phénylglycérine		
+entry	Phényglycérique (Acide) [L. Hahn]		
+orth	Phényglycérique (Acide)		
+entry	Phénylglycocolle [L. Hahn]		
+orth	Phénylglycocolle		
 pb	150	0154	4577338
-entry	Phénylglycolique (Acide)		
-entry	Phénylguanidines		
-entry	Phénylglyoxylique (Acide)		
-entry	Phénylhydracrylique (Acide)		
-entry	Phénylhydrazine		
+entry	Phénylglycolique (Acide) [L. Hahn]		
+orth	Phénylglycolique (Acide)		
+entry	Phénylguanidines [L. Hahn]		
+orth	Phénylguanidines		
+entry	Phénylglyoxylique (Acide) [L. Hahn]		
+orth	Phénylglyoxylique (Acide)		
+entry	Phénylhydracrylique (Acide) [L. Hahn]		
+orth	Phénylhydracrylique (Acide)		
+entry	Phénylhydrazine [L. Hahn]		
+orth	Phénylhydrazine		
 entry	Phényliques (Composés)		
 ref	Phényle		
-entry	Phényliques (Éthers)		
+entry	Phényliques (Éthers) [L. Hahn]		
+orth	Phényliques (Éthers)		
 pb	151	0155	4577339
-entry	Phényllactique (Acide)		
+entry	Phényllactique (Acide) [L. Hahn]		
+orth	Phényllactique (Acide)		
 pb	152	0156	4577340
-entry	Phénylmercapturique (Acide)		
-entry	Phénylméthanes		
-entry	Phénylméthylacétone ou acétophénone		
-entry	Phénylnaphtaline		
-entry	Phénylnaphtylcarbazol		
-entry	Phényloxamide (Di-)		
-entry	Phényloxamique (Acide)		
-entry	Phényloxyacrylique (Acide)		
-entry	Phényloxycrotonique (Acide)		
+entry	Phénylmercapturique (Acide) [L. Hahn]		
+orth	Phénylmercapturique (Acide)		
+entry	Phénylméthanes [L. Hahn]		
+orth	Phénylméthanes		
+entry	Phénylméthylacétone ou acétophénone [L. Hahn]		
+orth	Phénylméthylacétone ou acétophénone		
+entry	Phénylnaphtaline [L. Hahn]		
+orth	Phénylnaphtaline		
+entry	Phénylnaphtylcarbazol [L. Hahn]		
+orth	Phénylnaphtylcarbazol		
+entry	Phényloxamide (Di-) [L. Hahn]		
+orth	Phényloxamide (Di-)		
+entry	Phényloxamique (Acide) [L. Hahn]		
+orth	Phényloxamique (Acide)		
+entry	Phényloxyacrylique (Acide) [L. Hahn]		
+orth	Phényloxyacrylique (Acide)		
+entry	Phényloxycrotonique (Acide) [L. Hahn]		
+orth	Phényloxycrotonique (Acide)		
 pb	153	0157	4577341
-entry	Phényloxysulfide		
+entry	Phényloxysulfide [L. Hahn]		
+orth	Phényloxysulfide		
 entry	Phénylphosphine		
 ref	Phosphatiniline		
-entry	Phénylphtalimide		
-entry	Phénylphtalamique (Acide)		
-entry	Phénylpropiolique (Acide)		
-entry	Phénylpropionique (Acide)		
-entry	Phénylpropylène		
-entry	Phénylsuccinique (Di- (Acide))		
+entry	Phénylphtalimide [L. Hahn]		
+orth	Phénylphtalimide		
+entry	Phénylphtalamique (Acide) [L. Hahn]		
+orth	Phénylphtalamique (Acide)		
+entry	Phénylpropiolique (Acide) [L. Hahn]		
+orth	Phénylpropiolique (Acide)		
+entry	Phénylpropionique (Acide) [L. Hahn]		
+orth	Phénylpropionique (Acide)		
+entry	Phénylpropylène [L. Hahn]		
+orth	Phénylpropylène		
+entry	Phénylsuccinique (Di- (Acide)) [L. Hahn]		
+orth	Phénylsuccinique (Di- (Acide))		
 pb	154	0158	4577342
-entry	Phénylsuccinique (Di-(Acide))		
-entry	Phénylsulfocarbamide ou phénylsulfo-urée		
-entry	Phénylsulfocarbimide		
-entry	Phénylsulfopropionique (Acide)		
+entry	Phénylsuccinique (Di-(Acide)) [L. Hahn]		
+orth	Phénylsuccinique (Di-(Acide))		
+entry	Phénylsulfocarbamide ou phénylsulfo-urée [L. Hahn]		
+orth	Phénylsulfocarbamide ou phénylsulfo-urée		
+entry	Phénylsulfocarbimide [L. Hahn]		
+orth	Phénylsulfocarbimide		
+entry	Phénylsulfopropionique (Acide) [L. Hahn]		
+orth	Phénylsulfopropionique (Acide)		
 entry	Phénylsulfo-urée		
 ref	Phénylsulfocarbamide		
-entry	Phénylsulfureux et phénylsulfurique (Acide)		
+entry	Phénylsulfureux et phénylsulfurique (Acide) [L. Hahn]		
+orth	Phénylsulfureux et phénylsulfurique (Acide)		
 pb	155	0159	4577343
-entry	Phényltolyle ou pényltoluène		
-entry	Phénylurée		
-entry	Phénylvalériques (Acide)		
-entry	Phénylxylène ou xylylbenzine		
-entry	Phéorétine		
-entry	Phéosine		
-entry	Phérécyde		
+entry	Phényltolyle ou pényltoluène [L. Hahn]		
+orth	Phényltolyle ou pényltoluène		
+entry	Phénylurée [L. Hahn]		
+orth	Phénylurée		
+entry	Phénylvalériques (Acide) [L. Hahn]		
+orth	Phénylvalériques (Acide)		
+entry	Phénylxylène ou xylylbenzine [L. Hahn]		
+orth	Phénylxylène ou xylylbenzine		
+entry	Phéorétine [L. Hahn]		
+orth	Phéorétine		
+entry	Phéosine [L. Hahn]		
+orth	Phéosine		
+entry	Phérécyde [L. Hahn]		
+orth	Phérécyde		
 pb	156	0160	4577344
-entry	Philagrius		
-entry	Philaltheus (Lucille)		
-entry	Philinus		
+entry	Philagrius [L. Hahn]		
+orth	Philagrius		
+entry	Philaltheus (Lucille) [L. Hahn]		
+orth	Philaltheus (Lucille)		
+entry	Philinus [L. Hahn]		
+orth	Philinus		
 entry	Philip		
 ref	Wilson		
-entry	Philippe (Adrien-P.-N.)		
+entry	Philippe (Adrien-P.-N.) [L. Hahn]		
+orth	Philippe (Adrien-P.-N.)		
 pb	157	0161	4577345
-entry	Philippeville-stora (Eaux minérales de)		
+entry	Philippeville-stora (Eaux minérales de) [A. Rotureau]		
+orth	Philippeville-stora (Eaux minérales de)		
 pb	158	0162	4577346
-entry	Philippines		
+entry	Philippines [H. Bourru]		
+orth	Philippines		
 pb	159	0163	4577347
 pb	160	0164	4577348
 pb	161	0165	4577349
@@ -327,34 +454,51 @@ pb	170	0174	4577358
 pb	171	0175	4577359
 pb	172	0176	4577360
 pb	173	0177	4577361
-entry	Philippson (Phoebus-Moses)		
+entry	Philippson (Phoebus-Moses) [A. Dureau]		
+orth	Philippson (Phoebus-Moses)		
 pb	174	0178	4577362
-entry	Philipsson (Lorenz-Munter)		
-entry	Philistion		
-entry	Phillimore (William-Phillimore)		
-entry	Phillips (Les)		
+entry	Philipsson (Lorenz-Munter) [A. Dureau]		
+orth	Philipsson (Lorenz-Munter)		
+entry	Philistion [L. Hahn]		
+orth	Philistion		
+entry	Phillimore (William-Phillimore) [L. Hahn]		
+orth	Phillimore (William-Phillimore)		
+entry	Phillips (Les) [L. Hahn]		
+orth	Phillips (Les)		
 pb	175	0179	4577363
 pb	176	0180	4577364
-entry	Philodendron		
+entry	Philodendron [Ed. Lefèvre]		
+orth	Philodendron		
 entry	Philodrome		
 ref	Araignées		
-entry	Philologus (Thomas Rangonus, dit)		
+entry	Philologus (Thomas Rangonus, dit) [L. Hahn]		
+orth	Philologus (Thomas Rangonus, dit)		
 pb	177	0181	4577365
-entry	Philomides		
-entry	Philon (Herennius)		
-entry	Philonexidés		
+entry	Philomides [L. Hahn]		
+orth	Philomides		
+entry	Philon (Herennius) [L. Hahn]		
+orth	Philon (Herennius)		
+entry	Philonexidés [Ed. Lefèvre]		
+orth	Philonexidés		
 pb	178	0182	4577366
-entry	Philonides		
+entry	Philonides [L. Hahn]		
+orth	Philonides		
 entry	Philonium		
 ref	Philon		
-entry	Philoptères		
-entry	Philygénine		
-entry	Philyrine		
+entry	Philoptères [A. Laboulbène]		
+orth	Philoptères		
+entry	Philygénine [L. Hahn]		
+orth	Philygénine		
+entry	Philyrine [L. Hahn]		
+orth	Philyrine		
 pb	179	0183	4577367
 entry	Phimosis		
-entry	Phimosis. Pathologie		
+entry	Pathologie [E. Mathieu]		
+orth	Pathologie		
 pb	180	0184	4577368
-entry	Phimosis. Phimosis congénital		
+entry	Phimosis. Pathologie		
+entry	Phimosis. Phimosis congénital [E. Mathieu]		
+orth	Phimosis. Phimosis congénital		
 pb	181	0185	4577369
 pb	182	0186	4577370
 pb	183	0187	4577371
@@ -368,7 +512,8 @@ pb	190	0194	4577378
 pb	191	0195	4577379
 pb	192	0196	4577380
 pb	193	0197	4577381
-entry	Phimosis. Phimosis accidentel		
+entry	Phimosis. Phimosis accidentel [E. Mathieu]		
+orth	Phimosis. Phimosis accidentel		
 pb	194	0198	4577382
 pb	195	0199	4577383
 pb	196	0200	4577384
@@ -392,7 +537,8 @@ pb	213	0217	4577401
 pb	214	0218	4577402
 pb	215	0219	4577403
 pb	216	0220	4577404
-entry	Phimosis. Médecine opératoire		
+entry	Phimosis. Médecine opératoire [E. Mathieu]		
+orth	Phimosis. Médecine opératoire		
 pb	217	0221	4577405
 pb	218	0222	4577406
 pb	219	0223	4577407
@@ -403,7 +549,8 @@ pb	223	0227	4577411
 pb	224	0228	4577412
 pb	225	0229	4577413
 pb	226	0230	4577414
-entry	Phimosis. Paraphimosis		
+entry	Phimosis. Paraphimosis [E. Mathieu]		
+orth	Phimosis. Paraphimosis		
 pb	227	0231	4577415
 pb	228	0232	4577416
 pb	229	0233	4577417
@@ -431,8 +578,10 @@ pb	250	0254	4577438
 pb	251	0255	4577439
 entry	Phlébectasie		
 ref	Veines		
-entry	Phlébentérés		
-entry	Phlébentérisme		
+entry	Phlébentérés [Ed. Lefèvre]		
+orth	Phlébentérés		
+entry	Phlébentérisme [Ed. Retterer]		
+orth	Phlébentérisme		
 pb	252	0256	4577440
 pb	253	0257	4577441
 pb	254	0258	4577442
@@ -442,9 +591,11 @@ pb	257	0261	4577445
 pb	258	0262	4577446
 pb	259	0263	4577447
 pb	260	0264	4577448
-entry	Phlebia		
+entry	Phlebia [Ed. Lefèvre]		
+orth	Phlebia		
 pb	261	0265	4577449
-entry	Phlébite		
+entry	Phlébite [Muselier, Nourric]		
+orth	Phlébite		
 pb	262	0266	4577450
 pb	263	0267	4577451
 pb	264	0268	4577452
@@ -471,13 +622,15 @@ pb	284	0288	4577472
 pb	285	0289	4577473
 pb	286	0290	4577474
 pb	287	0291	4577475
-entry	Phlébolithes		
+entry	Phlébolithes [L. Hahn]		
+orth	Phlébolithes		
 entry	Phlébotome		
 ref	Saignée		
 ref	Lancette		
 entry	Phlegmasie		
 ref	Inflammation		
-entry	Phlegmatia alba dolens		
+entry	Phlegmatia alba dolens [X. Delore, Poullet]		
+orth	Phlegmatia alba dolens		
 pb	288	0292	4577476
 pb	289	0293	4577477
 pb	290	0294	4577478
@@ -494,8 +647,10 @@ pb	300	0304	4577488
 pb	301	0305	4577489
 pb	302	0306	4577490
 pb	303	0307	4577491
-entry	Phlegme		
-entry	Phlegmon		
+entry	Phlegme [L. Hahn]		
+orth	Phlegme		
+entry	Phlegmon [E. Kirmisson]		
+orth	Phlegmon		
 pb	304	0308	4577492
 pb	305	0309	4577493
 pb	306	0310	4577494
@@ -515,25 +670,35 @@ pb	319	0323	4577507
 pb	320	0324	4577508
 pb	321	0325	4577509
 pb	322	0326	4577510
-entry	Phlobaphène		
+entry	Phlobaphène [C. Lutz]		
+orth	Phlobaphène		
 entry	Phlogistique		
 ref	Chimie (Histoire)		
 entry	Phlogose		
 ref	Inflammation		
-entry	Phlomis		
+entry	Phlomis [Ed. Lefèvre]		
+orth	Phlomis		
 pb	323	0327	4577511
-entry	Phloramine		
-entry	Phlorétine		
+entry	Phloramine [C. Lutz]		
+orth	Phloramine		
+entry	Phlorétine [C. Lutz]		
+orth	Phlorétine		
 pb	324	0328	4577512
-entry	Phlorétique (Acide)		
+entry	Phlorétique (Acide) [C. Lutz]		
+orth	Phlorétique (Acide)		
 pb	325	0329	4577513
-entry	Phlorétol		
-entry	Phlorizéine		
+entry	Phlorétol [C. Lutz]		
+orth	Phlorétol		
+entry	Phlorizéine [C. Lutz]		
+orth	Phlorizéine		
 pb	326	0330	4577514
-entry	Phlorizine		
-entry	Phloroglucine		
+entry	Phlorizine [C. Lutz]		
+orth	Phlorizine		
+entry	Phloroglucine [C. Lutz]		
+orth	Phloroglucine		
 pb	327	0331	4577515
-entry	Phlorol		
+entry	Phlorol [C. Lutz]		
+orth	Phlorol		
 entry	Phlyctènes		
 ref	Dermatoses		
 entry	Phlyzacia		
@@ -542,40 +707,57 @@ entry	Phocénine
 ref	Valérine		
 entry	Phocénique (Acide)		
 ref	Valérique (Acide)		
-entry	Phocomèles		
-entry	Phoebus (Philipp)		
+entry	Phocomèles [O. Larcher]		
+orth	Phocomèles		
+entry	Phoebus (Philipp) [L. Hahn]		
+orth	Phoebus (Philipp)		
 pb	328	0332	4577516
-entry	Phoenix (L.)		
+entry	Phoenix (L.) [H. Baillon]		
+orth	Phoenix (L.)		
 pb	329	0333	4577517
-entry	Pholade		
+entry	Pholade [Ed. Lefèvre]		
+orth	Pholade		
 pb	330	0334	4577518
-entry	Pholque		
+entry	Pholque [A. Laboulbène]		
+orth	Pholque		
 pb	331	0335	4577519
 pb	332	0336	4577520
-entry	Phonation		
+entry	Phonation [Arthur Chervin]		
+orth	Phonation		
 pb	333	0337	4577521
 pb	334	0338	4577522
 pb	335	0339	4577523
 entry	Phonomètre		
 ref	Acoumètre		
-entry	Phoques		
+entry	Phoques [E. Oustalet]		
+orth	Phoques		
 pb	336	0340	4577524
-entry	Phormium (Forst)		
+entry	Phormium (Forst) [H. Baillon]		
+orth	Phormium (Forst)		
 pb	337	0341	4577525
-entry	Phorone, Camphorone ou Camphoryle		
+entry	Phorone, Camphorone ou Camphoryle [C. Lutz]		
+orth	Phorone, Camphorone ou Camphoryle		
 pb	338	0342	4577526
-entry	Phosène		
-entry	Phosgénite		
-entry	Phospham		
+entry	Phosène [C. Lutz]		
+orth	Phosène		
+entry	Phosgénite [C. Lutz]		
+orth	Phosgénite		
+entry	Phospham [Ch. Blarez]		
+orth	Phospham		
 pb	339	0343	4577527
-entry	Phosphamides		
-entry	Phosphamique (Acide)		
+entry	Phosphamides [Ch. Blarez]		
+orth	Phosphamides		
+entry	Phosphamique (Acide) [Ch. Blarez]		
+orth	Phosphamique (Acide)		
 pb	340	0344	4577528
-entry	Phosphanilides		
+entry	Phosphanilides [Ch. Blarez]		
+orth	Phosphanilides		
 pb	341	0345	4577529
-entry	Phosphaniline		
+entry	Phosphaniline [Ch. Blarez]		
+orth	Phosphaniline		
 pb	342	0346	4577530
-entry	Phosphates		
+entry	Phosphates [Ch. Blarez]		
+orth	Phosphates		
 pb	343	0347	4577531
 pb	344	0348	4577532
 pb	345	0349	4577533
@@ -583,32 +765,41 @@ pb	346	0350	4577534
 pb	347	0351	4577535
 pb	348	0352	4577536
 pb	349	0353	4577537
-entry	Phosphatique (Acide)		
+entry	Phosphatique (Acide) [Ch. Blarez]		
+orth	Phosphatique (Acide)		
 pb	350	0354	4577538
-entry	Phosphaturie		
+entry	Phosphaturie [Louis Ménard]		
+orth	Phosphaturie		
 pb	351	0355	4577539
 pb	352	0356	4577540
 pb	353	0357	4577541
 pb	354	0358	4577542
 pb	355	0359	4577543
-entry	Phosphènes		
+entry	Phosphènes [Nuel]		
+orth	Phosphènes		
 pb	356	0360	4577544
 pb	357	0361	4577545
-entry	Phosphines		
+entry	Phosphines [Ch. Blarez]		
+orth	Phosphines		
 pb	358	0362	4577546
 pb	359	0363	4577547
 pb	360	0364	4577548
-entry	Phosphites et Hypophosphites		
+entry	Phosphites et Hypophosphites [Ch. Blarez]		
+orth	Phosphites et Hypophosphites		
 pb	361	0365	4577549
 pb	362	0366	4577550
 pb	363	0367	4577551
-entry	Phosphobergamique (Acide)		
-entry	Phosphoglycérique (Acide)		
+entry	Phosphobergamique (Acide) [Ch. Blarez]		
+orth	Phosphobergamique (Acide)		
+entry	Phosphoglycérique (Acide) [Ch. Blarez]		
+orth	Phosphoglycérique (Acide)		
 pb	364	0368	4577552
-entry	Phosphoplatiniques (Combinaisons)		
+entry	Phosphoplatiniques (Combinaisons) [Ch. Blarez]		
+orth	Phosphoplatiniques (Combinaisons)		
 pb	365	0369	4577553
 entry	Phosphore		
-entry	Phosphore. Chimie		
+entry	Phosphore. Chimie [Ch. Blarez]		
+orth	Phosphore. Chimie		
 pb	366	0370	4577554
 pb	367	0371	4577555
 pb	368	0372	4577556
@@ -624,15 +815,18 @@ pb	377	0381	4577565
 pb	378	0382	4577566
 pb	379	0383	4577567
 pb	380	0384	4577568
-entry	Phosphore. Pharmacologie et thérapeutique		
+entry	Phosphore. Pharmacologie et thérapeutique [Ch. Blarez]		
+orth	Phosphore. Pharmacologie et thérapeutique		
 pb	381	0385	4577569
 pb	382	0386	4577570
-entry	Phosphore. Hygiène industrielle		
+entry	Phosphore. Hygiène industrielle [Ch. Blarez]		
+orth	Phosphore. Hygiène industrielle		
 pb	383	0387	4577571
 pb	384	0388	4577572
 pb	385	0389	4577573
 pb	386	0390	4577574
-entry	Phosphore. Toxicologie		
+entry	Phosphore. Toxicologie [Ch. Blarez]		
+orth	Phosphore. Toxicologie		
 pb	387	0391	4577575
 pb	388	0392	4577576
 pb	389	0393	4577577
@@ -640,15 +834,18 @@ pb	390	0394	4577578
 pb	391	0395	4577579
 pb	392	0396	4577580
 pb	393	0397	4577581
-entry	Phosphorescence		
+entry	Phosphorescence [C.-M. Gariel]		
+orth	Phosphorescence		
 pb	394	0398	4577582
 pb	395	0399	4577583
 pb	396	0400	4577584
 pb	397	0401	4577585
 pb	398	0402	4577586
-entry	Phosphoreux (Acide)		
+entry	Phosphoreux (Acide) [Ch. Blarez]		
+orth	Phosphoreux (Acide)		
 pb	399	0403	4577587
-entry	Phosphoriques (Acides)		
+entry	Phosphoriques (Acides) [Ch. Blarez]		
+orth	Phosphoriques (Acides)		
 pb	400	0404	4577588
 pb	401	0405	4577589
 pb	402	0406	4577590
@@ -656,32 +853,40 @@ pb	403	0407	4577591
 pb	404	0408	4577592
 pb	405	0409	4577593
 pb	406	0410	4577594
-entry	Phosphoroscope		
+entry	Phosphoroscope [Ch. Blarez]		
+orth	Phosphoroscope		
 pb	407	0411	4577595
-entry	Phosphotungstiques (Acides)		
-entry	Phosphures		
+entry	Phosphotungstiques (Acides) [Ch. Blarez]		
+orth	Phosphotungstiques (Acides)		
+entry	Phosphures [Ch. Blarez]		
+orth	Phosphures		
 pb	408	0412	4577596
 pb	409	0413	4577597
 pb	410	0414	4577598
 pb	411	0415	4577599
 pb	412	0416	4577600
 pb	413	0417	4577601
-entry	Photius		
+entry	Photius [L. Hahn]		
+orth	Photius		
 pb	414	0418	4577602
-entry	Photocyanine		
+entry	Photocyanine [C. Lutz]		
+orth	Photocyanine		
 entry	Photoérythrine		
 ref	Photocyanine		
 entry	Photographie		
-entry	Photographie. Applications aux sciences médicales		
+entry	Photographie. Applications aux sciences médicales [Albert Hénocque]		
+orth	Photographie. Applications aux sciences médicales		
 pb	415	0419	4577603
 pb	416	0420	4577604
 pb	417	0421	4577605
 pb	418	0422	4577606
-entry	Photographie. Hygiène professionnelle		
+entry	Photographie. Hygiène professionnelle [Alexandre Layet]		
+orth	Photographie. Hygiène professionnelle		
 pb	419	0423	4577607
 pb	420	0424	4577608
 pb	421	0425	4577609
-entry	Photomètres, Photométrie		
+entry	Photomètres, Photométrie [C.-M. Gariel]		
+orth	Photomètres, Photométrie		
 pb	422	0426	4577610
 pb	423	0427	4577611
 pb	424	0428	4577612
@@ -691,21 +896,27 @@ pb	427	0431	4577615
 pb	428	0432	4577616
 pb	429	0433	4577617
 pb	430	0434	4577618
-entry	Photophobie		
+entry	Photophobie [A. Gayet]		
+orth	Photophobie		
 pb	431	0435	4577619
 pb	432	0436	4577620
 pb	433	0437	4577621
 pb	434	0438	4577622
-entry	Photopsie		
+entry	Photopsie [A. Gayet]		
+orth	Photopsie		
 pb	435	0439	4577623
-entry	Phragmites		
-entry	Phrasium		
-entry	Phreas (John)		
+entry	Phragmites [Ed. Lefèvre]		
+orth	Phragmites		
+entry	Phrasium [Ed. Lefèvre]		
+orth	Phrasium		
+entry	Phreas (John) [L. Hahn]		
+orth	Phreas (John)		
 entry	Phrénique (Nerf)		
 ref	Diaphragmatique		
 entry	Phrénitis		
 ref	Causus		
-entry	Phrénologie		
+entry	Phrénologie [A. Rist]		
+orth	Phrénologie		
 pb	436	0440	4577624
 pb	437	0441	4577625
 pb	438	0442	4577626
@@ -715,35 +926,52 @@ pb	441	0445	4577629
 pb	442	0446	4577630
 pb	443	0447	4577631
 pb	444	0448	4577632
-entry	Phrynaglosse		
-entry	Phryne		
-entry	Phrynium		
+entry	Phrynaglosse [H.-E. Sauvage]		
+orth	Phrynaglosse		
+entry	Phryne [A. Laboulbène]		
+orth	Phryne		
+entry	Phrynium [Ed. Lefèvre]		
+orth	Phrynium		
 pb	445	0449	4577633
-entry	Phtalamide		
-entry	Phtalamine		
-entry	Phtalamique (Acide)		
+entry	Phtalamide [C. Lutz]		
+orth	Phtalamide		
+entry	Phtalamine [C. Lutz]		
+orth	Phtalamine		
+entry	Phtalamique (Acide) [C. Lutz]		
+orth	Phtalamique (Acide)		
 entry	Phtalanile		
 ref	Pénylphtalimide		
 entry	Phtalanilique		
 ref	Phénylphtalamique		
-entry	Phtaléines		
+entry	Phtaléines [C. Lutz]		
+orth	Phtaléines		
 pb	446	0450	4577634
-entry	Phtalide		
-entry	Phtalidine		
-entry	Phtalimide		
-entry	Phtalique (Acide)		
+entry	Phtalide [C. Lutz]		
+orth	Phtalide		
+entry	Phtalidine [C. Lutz]		
+orth	Phtalidine		
+entry	Phtalimide [L. Hahn]		
+orth	Phtalimide		
+entry	Phtalique (Acide) [C. Lutz]		
+orth	Phtalique (Acide)		
 pb	447	0451	4577635
 entry	Phtalique (Aldéhyde)		
 ref	Phtalide		
 entry	Phtalique (Anhydride)		
 ref	Phtalique (Acide)		
-entry	Phtaliques (Amides)		
-entry	Phtalurique (Acide)		
+entry	Phtaliques (Amides) [L. Hahn]		
+orth	Phtaliques (Amides)		
+entry	Phtalurique (Acide) [L. Hahn]		
+orth	Phtalurique (Acide)		
 pb	448	0452	4577636
-entry	Phtalylacétique (Acide)		
-entry	Phtalyle		
-entry	Phtalylpropionique (Acide)		
-entry	Phthiriase		
+entry	Phtalylacétique (Acide) [L. Hahn]		
+orth	Phtalylacétique (Acide)		
+entry	Phtalyle [C. Lutz]		
+orth	Phtalyle		
+entry	Phtalylpropionique (Acide) [L. Hahn]		
+orth	Phtalylpropionique (Acide)		
+entry	Phthiriase [Albert Pignot]		
+orth	Phthiriase		
 pb	449	0453	4577637
 pb	450	0454	4577638
 pb	451	0455	4577639
@@ -756,7 +984,8 @@ pb	457	0461	4577645
 pb	458	0462	4577646
 pb	459	0463	4577647
 pb	460	0464	4577648
-entry	Phthisie pulmonaire		
+entry	Phthisie pulmonaire [J. Grancher,		
+ref	Hutinel]		
 pb	461	0465	4577649
 pb	462	0466	4577650
 pb	463	0467	4577651
@@ -1113,46 +1342,66 @@ pb	813	0817	4578001
 pb	814	0818	4578002
 entry	Phthore		
 ref	Fluor		
-entry	Phycique (Acide)		
+entry	Phycique (Acide) [L. Hahn]		
+orth	Phycique (Acide)		
 pb	815	0819	4578003
-entry	Phycite		
-entry	Phycocyane		
-entry	Phycoérythrine		
-entry	Phycomématine		
-entry	Phycoxanthine		
+entry	Phycite [L. Hahn]		
+orth	Phycite		
+entry	Phycocyane [L. Hahn]		
+orth	Phycocyane		
+entry	Phycoérythrine [L. Hahn]		
+orth	Phycoérythrine		
+entry	Phycomématine [L. Hahn]		
+orth	Phycomématine		
+entry	Phycoxanthine [L. Hahn]		
+orth	Phycoxanthine		
 pb	816	0820	4578004
-entry	Phylactères		
-entry	Phyllanthe		
+entry	Phylactères [L. Hahn]		
+orth	Phylactères		
+entry	Phyllanthe [H. Baillon]		
+orth	Phyllanthe		
 pb	817	0821	4578005
 pb	818	0822	4578006
-entry	Phyllescitannin		
+entry	Phyllescitannin [L. Hahn]		
+orth	Phyllescitannin		
 pb	819	0823	4578007
-entry	Phyllirea (T.)		
+entry	Phyllirea (T.) [H. Baillon]		
+orth	Phyllirea (T.)		
 entry	Phyllirine		
 ref	Philyrine		
-entry	Phyllis (L.)		
+entry	Phyllis (L.) [H. Baillon]		
+orth	Phyllis (L.)		
 pb	820	0824	4578008
-entry	Phyllobate		
+entry	Phyllobate [H.-E. Sauvage]		
+orth	Phyllobate		
 entry	Phyllobothridés		
 ref	Tétraphylles		
 ref	Cestoïdes		
 entry	Phyllocyanine		
 ref	Chlorophylle		
-entry	Phyllodactyle		
+entry	Phyllodactyle [H.-E. Sauvage]		
+orth	Phyllodactyle		
 entry	Phyllomancie		
 ref	Divination		
-entry	Phylloméduse		
-entry	Phyllon		
-entry	Phyllopodes		
+entry	Phylloméduse [H.-E. Sauvage]		
+orth	Phylloméduse		
+entry	Phyllon [Ed. Lefèvre]		
+orth	Phyllon		
+entry	Phyllopodes [Ed. Lefèvre]		
+orth	Phyllopodes		
 pb	821	0825	4578009
 pb	822	0826	4578010
-entry	Phyllorhétine		
-entry	Phyllosomes		
-entry	Phyllostome		
+entry	Phyllorhétine [L. Hahn]		
+orth	Phyllorhétine		
+entry	Phyllosomes [Ed. Lefèvre]		
+orth	Phyllosomes		
+entry	Phyllostome [E. Oustalet]		
+orth	Phyllostome		
 pb	823	0827	4578011
 entry	Phylloxanthine		
 ref	Chlorophylle		
-entry	Phylloxera		
+entry	Phylloxera [A. Laboulbène]		
+orth	Phylloxera		
 pb	824	0828	4578012
 pb	825	0829	4578013
 pb	826	0830	4578014
@@ -1166,99 +1415,151 @@ pb	833	0837	4578021
 pb	834	0838	4578022
 pb	835	0839	4578023
 pb	836	0840	4578024
-entry	Physalidés		
+entry	Physalidés [Ed. Lefèvre]		
+orth	Physalidés		
 entry	Physalis		
 ref	Alkékenge		
-entry	Physaline		
+entry	Physaline [L. Hahn]		
+orth	Physaline		
 pb	837	0841	4578025
-entry	Physarum		
-entry	Physcie		
-entry	Physe		
+entry	Physarum [Ed. Lefèvre]		
+orth	Physarum		
+entry	Physcie [Ed. Lefèvre]		
+orth	Physcie		
+entry	Physe [Ed. Lefèvre]		
+orth	Physe		
 pb	838	0842	4578026
-entry	Physétoléique (Acide)		
-entry	Physicien		
+entry	Physétoléique (Acide) [L. Hahn]		
+orth	Physétoléique (Acide)		
+entry	Physicien [A. Chéreau]		
+orth	Physicien		
 pb	839	0843	4578027
-entry	Physick (Philip-Syng)		
+entry	Physick (Philip-Syng) [L. Hahn]		
+orth	Physick (Philip-Syng)		
 pb	840	0844	4578028
-entry	Physocalymma		
-entry	Physodine		
+entry	Physocalymma [Ed. Lefèvre]		
+orth	Physocalymma		
+entry	Physodine [L. Hahn]		
+orth	Physodine		
 pb	841	0845	4578029
-entry	Physométrie		
-entry	Physophoridés		
-entry	Physostigma		
+entry	Physométrie [L. Hahn]		
+orth	Physométrie		
+entry	Physophoridés [Ed. Lefèvre]		
+orth	Physophoridés		
+entry	Physostigma [Ed. Lefèvre]		
+orth	Physostigma		
 entry	Physostigmine		
 ref	Ésérine		
-entry	Phytelephas (R. et Pav.)		
+entry	Phytelephas (R. et Pav.) [H. Baillon]		
+orth	Phytelephas (R. et Pav.)		
 pb	842	0846	4578030
-entry	Phyteuma (L.)		
-entry	Phytocrène		
+entry	Phyteuma (L.) [H. Baillon]		
+orth	Phyteuma (L.)		
+entry	Phytocrène [Ed. Lefèvre]		
+orth	Phytocrène		
 pb	843	0847	4578031
-entry	Phytolaccacées		
-entry	Phytolaccine		
-entry	Phytolaccique (Acide)		
-entry	Phytolaque		
+entry	Phytolaccacées [Ed. Lefèvre]		
+orth	Phytolaccacées		
+entry	Phytolaccine [L. Hahn]		
+orth	Phytolaccine		
+entry	Phytolaccique (Acide) [L. Hahn]		
+orth	Phytolaccique (Acide)		
+entry	Phytolaque [Ed. Lefèvre]		
+orth	Phytolaque		
 pb	844	0848	4578032
 entry	Phytoméline		
 ref	Rutine		
-entry	Phytostérine		
-entry	Pia (Philippe-Nicolas)		
+entry	Phytostérine [L. Hahn]		
+orth	Phytostérine		
+entry	Pia (Philippe-Nicolas) [L. Hahn]		
+orth	Pia (Philippe-Nicolas)		
 pb	845	0849	4578033
 entry	Pian		
 ref	Framboesia		
-entry	Pibrac (Gilles-Bertrand)		
-entry	Pic		
+entry	Pibrac (Gilles-Bertrand) [L. Hahn]		
+orth	Pibrac (Gilles-Bertrand)		
+entry	Pic [E. Oustalet]		
+orth	Pic		
 pb	846	0850	4578034
 pb	847	0851	4578035
 entry	Pica		
 ref	Malacie		
-entry	Picamare		
-entry	Picarel		
-entry	Piccolomini (Archangelo)		
-entry	Picène		
+entry	Picamare [L. Hahn]		
+orth	Picamare		
+entry	Picarel [H.-E. Sauvage]		
+orth	Picarel		
+entry	Piccolomini (Archangelo) [L. Hahn]		
+orth	Piccolomini (Archangelo)		
+entry	Picène [L. Hahn]		
+orth	Picène		
 pb	848	0852	4578036
-entry	Pichard (François-Louis)		
-entry	Pichler (Johann-Friedr.-Christian)		
+entry	Pichard (François-Louis) [L. Hahn]		
+orth	Pichard (François-Louis)		
+entry	Pichler (Johann-Friedr.-Christian) [L. Hahn]		
+orth	Pichler (Johann-Friedr.-Christian)		
 entry	Pichurim		
 ref	Nectandra		
 entry	Picolines		
-entry	Picolines. Chimie		
+entry	Picolines. Chimie [L. Hahn]		
+orth	Picolines. Chimie		
 pb	849	0853	4578037
-entry	Action physiologique		
-entry	Picolique (Acide)		
+entry	Action physiologique [L. Hahn]		
+orth	Action physiologique		
+entry	Picolique (Acide) [L. Hahn]		
+orth	Picolique (Acide)		
 entry	Picraconitine		
 ref	Picroaconitine		
-entry	Picraena		
+entry	Picraena [Ed. Lefèvre]		
+orth	Picraena		
 pb	850	0854	4578038
-entry	Picramine		
-entry	Picramique (Acide)		
+entry	Picramine [L. Hahn]		
+orth	Picramine		
+entry	Picramique (Acide) [L. Hahn]		
+orth	Picramique (Acide)		
 entry	Picrammonium		
 ref	Picramine		
-entry	Picramnia		
+entry	Picramnia [Ed. Lefèvre]		
+orth	Picramnia		
 pb	851	0855	4578039
 entry	Picramyle		
 ref	Stilbène		
-entry	Picranisique (Acide)		
-entry	Picrasma		
-entry	Picrates		
-entry	Picrine		
+entry	Picranisique (Acide) [L. Hahn]		
+orth	Picranisique (Acide)		
+entry	Picrasma [Ed. Lefèvre]		
+orth	Picrasma		
+entry	Picrates [L. Hahn]		
+orth	Picrates		
+entry	Picrine [L. Hahn]		
+orth	Picrine		
 pb	852	0856	4578040
 entry	Picrique (Acide)		
-entry	Picrique (Acide). Chimie		
+entry	Picrique (Acide). Chimie [L. Hahn]		
+orth	Picrique (Acide). Chimie		
 pb	853	0857	4578041
-entry	Emploi		
-entry	Picroaconitine		
+entry	Emploi [L. Hahn]		
+orth	Emploi		
+entry	Picroaconitine [L. Hahn]		
+orth	Picroaconitine		
 entry	Picro-carminate		
 ref	Picrique (Acide)		
-entry	Picrocyanique (Acide)		
-entry	Picrodendron		
+entry	Picrocyanique (Acide) [L. Hahn]		
+orth	Picrocyanique (Acide)		
+entry	Picrodendron [Ed. Lefèvre]		
+orth	Picrodendron		
 pb	854	0858	4578042
-entry	Picroérythrine		
-entry	Picroglycion		
-entry	Picrolichénine		
-entry	Picromel		
-entry	Picropodophylline		
+entry	Picroérythrine [L. Hahn]		
+orth	Picroérythrine		
+entry	Picroglycion [L. Hahn]		
+orth	Picroglycion		
+entry	Picrolichénine [L. Hahn]		
+orth	Picrolichénine		
+entry	Picromel [L. Hahn]		
+orth	Picromel		
+entry	Picropodophylline [L. Hahn]		
+orth	Picropodophylline		
 pb	855	0859	4578043
-entry	Picroroccelline		
+entry	Picroroccelline [L. Hahn]		
+orth	Picroroccelline		
 entry	Picrotine		
 ref	Picrotoxine		
 entry	Picrotoxide		
@@ -1268,16 +1569,22 @@ ref	Picrotoxine
 entry	Picrotoxique (Acide)		
 ref	Picrotoxine		
 entry	Picrotoxine		
-entry	Picrotoxine. Chimie		
+entry	Picrotoxine. Chimie [L. Hahn]		
+orth	Picrotoxine. Chimie		
 pb	856	0860	4578044
 entry	Action physiologique et thérapeutique		
 ref	Coque de Levant		
-entry	Pictet (François-Jules)		
-entry	Pictorius (Georg)		
-entry	Pidoux (Les)		
-entry	Pie		
+entry	Pictet (François-Jules) [L. Hahn]		
+orth	Pictet (François-Jules)		
+entry	Pictorius (Georg) [L. Hahn]		
+orth	Pictorius (Georg)		
+entry	Pidoux (Les) [L. Hahn]		
+orth	Pidoux (Les)		
+entry	Pie [E. Oustalet]		
+orth	Pie		
 pb	857	0861	4578045
-entry	Pie-grièche		
+entry	Pie-grièche [E. Oustalet]		
+orth	Pie-grièche		
 pb	858	0862	4578046
 entry	Pie-Mère		
 ref	Méninges		

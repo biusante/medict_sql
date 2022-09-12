@@ -1,42 +1,62 @@
 pb	[s. pag.]	0001	4512060
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4512061
 pb	[s. pag.]	0003	4512062
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4512063
 pb	1	0005	4512064
-entry	Clément (Julien)		
-entry	Clementino (Clemente)		
+entry	Clément (Julien) [E. Beaugrand]		
+orth	Clément (Julien)		
+entry	Clementino (Clemente) [E. Beaugrand]		
+orth	Clementino (Clemente)		
 pb	2	0006	4512065
-entry	Cléome (L.)		
+entry	Cléome (L.) [H. Baillon]		
+orth	Cléome (L.)		
 pb	3	0007	4512066
-entry	Cléopatre		
+entry	Cléopatre [E. Beaugrand]		
+orth	Cléopatre		
 entry	Clerc (Le)		
 ref	Le Clerc		
-entry	Clerc (Nicolas-Gabriel)		
+entry	Clerc (Nicolas-Gabriel) [E. Beaugrand]		
+orth	Clerc (Nicolas-Gabriel)		
 pb	4	0008	4512067
-entry	Clermont (Ch.)		
-entry	Clermont-Ferrand (Eaux minérales de)		
+entry	Clermont (Ch.) [E. Beaugrand]		
+orth	Clermont (Ch.)		
+entry	Clermont-Ferrand (Eaux minérales de) [A. Rotureau]		
+orth	Clermont-Ferrand (Eaux minérales de)		
 pb	5	0009	4512068
 pb	6	0010	4512069
 pb	7	0011	4512070
-entry	Clerodendron		
+entry	Clerodendron [G. Planchon]		
+orth	Clerodendron		
 pb	8	0012	4512071
-entry	Cléromancie		
-ref	Divination		
-entry	Cletrha		
-entry	Cleyer (André)		
-entry	Clias (P.-H.)		
+entry	Cléromancie..]		
+ref	Divination [D		
+entry	Cletrha [G. Planchon]		
+orth	Cletrha		
+entry	Cleyer (André) [H. Montanier]		
+orth	Cleyer (André)		
+entry	Clias (P.-H.) [E. Beaugrand]		
+orth	Clias (P.-H.)		
 pb	9	0013	4512072
-entry	Clientèle		
+entry	Clientèle [Amédée Dechambre]		
+orth	Clientèle		
 pb	10	0014	4512073
-entry	Clift (William)		
-entry	Clifton (Francis)		
+entry	Clift (William) [E. Beaugrand]		
+orth	Clift (William)		
+entry	Clifton (Francis) [A. Chéreau]		
+orth	Clifton (Francis)		
 pb	11	0015	4512074
-entry	Clifton (Eaux minérale de)		
+entry	Clifton (Eaux minérale de) [A. Rotureau]		
+orth	Clifton (Eaux minérale de)		
 pb	12	0016	4512075
 pb	13	0017	4512076
-entry	Clignotante (Membrane)		
-entry	Clignotement		
-entry	Climat		
+entry	Clignotante (Membrane) [Amédée Dechambre]		
+orth	Clignotante (Membrane)		
+entry	Clignotement [E. Warlomont]		
+orth	Clignotement		
+entry	Climat [Fonssagrives]		
+orth	Climat		
 pb	14	0018	4512077
 pb	15	0019	4512078
 pb	16	0020	4512079
@@ -146,54 +166,70 @@ pb	119	0123	4512182
 pb	120	0124	4512183
 pb	121	0125	4512184
 pb	122	0126	4512185
-entry	Climatériques, ou Climactériques (Années)		
+entry	Climatériques, ou Climactériques (Années) [A. Chéreau]		
+orth	Climatériques, ou Climactériques (Années)		
 pb	123	0127	4512186
 pb	124	0128	4512187
 pb	125	0129	4512188
-entry	Clinch (William)		
-entry	Clinidés ou Clinosporés		
+entry	Clinch (William) [E. Beaugrand]		
+orth	Clinch (William)		
+entry	Clinidés ou Clinosporés [Jacques Bertillon]		
+orth	Clinidés ou Clinosporés		
 pb	126	0130	4512189
-entry	Clinique		
+entry	Clinique [L. Hecht]		
+orth	Clinique		
 pb	127	0131	4512190
 pb	128	0132	4512191
 pb	129	0133	4512192
 pb	130	0134	4512193
 pb	131	0135	4512194
 pb	132	0136	4512195
-entry	Clinochlore		
+entry	Clinochlore [P. Schützenberger]		
+orth	Clinochlore		
 entry	Clinoïde (Apophyse)		
 ref	Splénoïde		
 pb	133	0137	4512196
-entry	Clinopode		
+entry	Clinopode [G. Planchon]		
+orth	Clinopode		
 entry	Clinosporés		
 ref	Clinidés		
-entry	Clinotrichés		
+entry	Clinotrichés [Jacques Bertillon]		
+orth	Clinotrichés		
 pb	134	0138	4512197
 pb	135	0139	4512198
 pb	136	0140	4512199
 pb	137	0141	4512200
 entry	Clitoridienne (Artère)		
 ref	Honteuse interne		
-entry	Clitorie		
+entry	Clitorie [H. Baillon]		
+orth	Clitorie		
 pb	138	0142	4512201
-entry	Clitoris		
-entry	Cloaque		
+entry	Clitoris [Amédée Dechambre]		
+orth	Clitoris		
+entry	Cloaque [Amédée Dechambre]		
+orth	Cloaque		
 entry	Cloaque (Hygiène)		
 ref	Égouts		
 entry	Clochette des bois		
 ref	Narcisse		
-entry	Cloisonnement (Anomalie par)		
+entry	Cloisonnement (Anomalie par) [O. Larcher]		
+orth	Cloisonnement (Anomalie par)		
 pb	139	0143	4512202
 entry	Clonique (Spasme)		
 ref	Convulsion		
 ref	Spasme		
-entry	Cloporte		
+entry	Cloporte [A. Laboulbène]		
+orth	Cloporte		
 pb	140	0144	4512203
-entry	Cloquet (Hippolyte)		
-entry	Cloquet (Louis-André-Ernest)		
-entry	Closs ou Clossius (Les deux)		
+entry	Cloquet (Hippolyte) [H. Montanier]		
+orth	Cloquet (Hippolyte)		
+entry	Cloquet (Louis-André-Ernest) [H. Montanier]		
+orth	Cloquet (Louis-André-Ernest)		
+entry	Closs ou Clossius (Les deux) [A. Chéreau]		
+orth	Closs ou Clossius (Les deux)		
 pb	141	0145	4512204
-entry	Clot (Antoine-Barthélemy)		
+entry	Clot (Antoine-Barthélemy) [E. Beaugrand]		
+orth	Clot (Antoine-Barthélemy)		
 pb	142	0146	4512205
 entry	Clotho		
 ref	Araignées		
@@ -201,53 +237,75 @@ entry	Clou (Pathologie)
 ref	Furoncle		
 entry	Clou de girofle		
 ref	Giroflier		
-entry	Clous fumants		
+entry	Clous fumants..]		
 ref	Benjoin		
-ref	Fumigations		
+ref	Fumigations [D		
 entry	Clous matrices		
 ref	Giroflier		
 entry	Cloutiers (Hygiène)		
 ref	Fer		
 entry	Clovisses		
 ref	Clauvisses		
-entry	Clowes (William)		
+entry	Clowes (William) [E. Beaugrand]		
+orth	Clowes (William)		
 pb	143	0147	4512206
-entry	Clubione		
+entry	Clubione [A. Laboulbène]		
+orth	Clubione		
 pb	144	0148	4512207
-entry	Clupes		
-entry	Clusia		
+entry	Clupes [P. Gervais]		
+orth	Clupes		
+entry	Clusia [G. Planchon]		
+orth	Clusia		
 pb	145	0149	4512208
 entry	Clusius		
 ref	Lescluse		
 entry	Clutie		
 ref	Cluytia		
-entry	Cluyt ou Clutius (Les deux)		
-entry	Cluytia		
+entry	Cluyt ou Clutius (Les deux) [A. Chéreau]		
+orth	Cluyt ou Clutius (Les deux)		
+entry	Cluytia [H. Baillon]		
+orth	Cluytia		
 pb	146	0150	4512209
-entry	Clymenum		
-entry	Clypeola		
-entry	Clysoir		
-ref	Lavement (Instrumentation)		
-entry	Clysopompe		
+entry	Clymenum [G. Planchon]		
+orth	Clymenum		
+entry	Clypeola [G. Planchon]		
+orth	Clypeola		
+entry	Clysoir..]		
+ref	Lavement (Instrumentation) [D		
+entry	Clysopompe [Amédée Dechambre]		
+orth	Clysopompe		
 entry	Clystère		
 ref	Lavement		
-entry	Cnéoron		
-entry	Cnéorum (L.)		
+entry	Cnéoron [H. Baillon]		
+orth	Cnéoron		
+entry	Cnéorum (L.) [H. Baillon]		
+orth	Cnéorum (L.)		
 pb	147	0151	4512210
-entry	Cnéorum		
+entry	Cnéorum [H. Baillon]		
+orth	Cnéorum		
 pb	148	0152	4512211
-entry	Cnestran, Cnestum		
-entry	Cnestis		
-entry	Cnicin		
-entry	Cnicus		
+entry	Cnestran, Cnestum [H. Baillon]		
+orth	Cnestran, Cnestum		
+entry	Cnestis [G. Planchon]		
+orth	Cnestis		
+entry	Cnicin [Amédée Dechambre]		
+orth	Cnicin		
+entry	Cnicus [G. Planchon]		
+orth	Cnicus		
 pb	149	0153	4512212
-entry	Cnide		
-entry	Cnidium granum		
-entry	Cniquier		
-entry	Cnopf (Les deux)		
-entry	Coagulation		
+entry	Cnide [G. Planchon]		
+orth	Cnide		
+entry	Cnidium granum [G. Planchon]		
+orth	Cnidium granum		
+entry	Cniquier [H. Baillon]		
+orth	Cniquier		
+entry	Cnopf (Les deux) [A. Chéreau]		
+orth	Cnopf (Les deux)		
+entry	Coagulation [Amédée Dechambre]		
+orth	Coagulation		
 pb	150	0154	4512213
-entry	Coaltar		
+entry	Coaltar [Servier]		
+orth	Coaltar		
 pb	151	0155	4512214
 pb	152	0156	4512215
 pb	153	0157	4512216
@@ -255,23 +313,31 @@ pb	154	0158	4512217
 pb	155	0159	4512218
 pb	156	0160	4512219
 entry	Cobalt		
-entry	Cobalt. Chimie		
+entry	Cobalt. Chimie [Malaguti]		
+orth	Cobalt. Chimie		
 pb	157	0161	4512220
 pb	158	0162	4512221
 pb	159	0163	4512222
 entry	Cobalt		
-entry	Emploi médical		
-entry	Cobaltamines		
+entry	Emploi médical [Albert Hénocque]		
+orth	Emploi médical		
+entry	Cobaltamines [Malaguti]		
+orth	Cobaltamines		
 pb	160	0164	4512223
-entry	Cobaye		
+entry	Cobaye [P. Gervais]		
+orth	Cobaye		
 pb	161	0165	4512224
-entry	Cobban		
-entry	Cobra di Capello		
+entry	Cobban [G. Planchon]		
+orth	Cobban		
+entry	Cobra di Capello [A. Laboulbène]		
+orth	Cobra di Capello		
 entry	Coca		
-entry	Coca. Botanique		
+entry	Coca. Botanique [H. Baillon]		
+orth	Coca. Botanique		
 pb	162	0166	4512225
 pb	163	0167	4512226
-entry	Coca. Emploi médical		
+entry	Coca. Emploi médical [A. Bordier]		
+orth	Coca. Emploi médical		
 pb	164	0168	4512227
 pb	165	0169	4512228
 pb	166	0170	4512229
@@ -282,32 +348,43 @@ pb	170	0174	4512233
 entry	Cocaïne		
 ref	Coca		
 ref	emploi médical		
-entry	Cocagne		
-entry	Cocatannique (Acide)		
-entry	Cocchi (Les)		
+entry	Cocagne [G. Planchon]		
+orth	Cocagne		
+entry	Cocatannique (Acide) [P. Schützenberger]		
+orth	Cocatannique (Acide)		
+entry	Cocchi (Les) [E. Beaugrand]		
+orth	Cocchi (Les)		
 pb	171	0175	4512234
 entry	Coccigrue		
 ref	Sumac		
-entry	Coccinelle		
+entry	Coccinelle [A. Laboulbène]		
+orth	Coccinelle		
 pb	172	0176	4512235
-entry	Coccinonique (Acide)		
+entry	Coccinonique (Acide) [P. Schützenberger]		
+orth	Coccinonique (Acide)		
 entry	Cocco		
 ref	Arum		
-entry	Coccognidique (Acide)		
-entry	Coccoloba		
+entry	Coccognidique (Acide) [P. Schützenberger]		
+orth	Coccognidique (Acide)		
+entry	Coccoloba [G. Planchon]		
+orth	Coccoloba		
 pb	173	0177	4512236
-entry	Cocculus		
+entry	Cocculus [H. Baillon]		
+orth	Cocculus		
 pb	174	0178	4512237
 entry	Coccum gnidium ou Cocca gnidia		
 ref	Garou		
-entry	Coccus (Cochenille)		
+entry	Coccus (Cochenille)..]		
 ref	Cochenille		
-ref	Laque		
-entry	Coccycéphale		
+ref	Laque [D		
+entry	Coccycéphale [O. Larcher]		
+orth	Coccycéphale		
 entry	Coccydinie		
 ref	Coccygodymie		
-entry	Coccygienne (Glande)		
-entry	Coccygodynie		
+entry	Coccygienne (Glande) [Amédée Dechambre]		
+orth	Coccygienne (Glande)		
+entry	Coccygodynie [Jules Worms]		
+orth	Coccygodynie		
 pb	175	0179	4512238
 pb	176	0180	4512239
 pb	177	0181	4512240
@@ -316,7 +393,8 @@ pb	179	0183	4512242
 entry	Coccyx		
 ref	Bassin		
 ref	Rachis		
-entry	Cochenille		
+entry	Cochenille [A. Laboulbène]		
+orth	Cochenille		
 pb	180	0184	4512243
 pb	181	0185	4512244
 pb	182	0186	4512245
@@ -336,7 +414,8 @@ pb	195	0199	4512258
 pb	196	0200	4512259
 pb	197	0201	4512260
 pb	198	0202	4512261
-entry	Cochinchine		
+entry	Cochinchine [A. Le Roy de Méricourt, A. Layet]		
+orth	Cochinchine		
 pb	199	0203	4512262
 pb	200	0204	4512263
 pb	201	0205	4512264
@@ -383,71 +462,97 @@ pb	241	0245	4512304
 pb	242	0246	4512305
 pb	243	0247	4512306
 entry	Cochléaria		
-entry	Cochléaria. Botanique		
+entry	Cochléaria. Botanique [H. Baillon]		
+orth	Cochléaria. Botanique		
 pb	244	0248	4512307
 pb	245	0249	4512308
 pb	246	0250	4512309
 pb	247	0251	4512310
-entry	Cochléaria. Emploi médical		
+entry	Cochléaria. Emploi médical [El. Hamelin]		
+orth	Cochléaria. Emploi médical		
 pb	248	0252	4512311
 pb	249	0253	4512312
 pb	250	0254	4512313
 pb	251	0255	4512314
-entry	Cochléarine		
-entry	Cochlosperme		
+entry	Cochléarine [Amédée Dechambre]		
+orth	Cochléarine		
+entry	Cochlosperme [H. Baillon]		
+orth	Cochlosperme		
 pb	252	0256	4512315
-entry	Cochon		
-entry	Cochon-Dupuy (Gaspard)		
-entry	Cocinine		
-entry	Cocinique ou Cocostéarique (Acide)		
-entry	Cockburn (Guillaume)		
-entry	Coclès (Barthélémy della Rocca, dit Coclès ou André Corvo)		
+entry	Cochon [P. Gervais]		
+orth	Cochon		
+entry	Cochon-Dupuy (Gaspard) [A. Chéreau]		
+orth	Cochon-Dupuy (Gaspard)		
+entry	Cocinine [Amédée Dechambre]		
+orth	Cocinine		
+entry	Cocinique ou Cocostéarique (Acide) [Amédée Dechambre]		
+orth	Cocinique ou Cocostéarique (Acide)		
+entry	Cockburn (Guillaume) [A. Dureau]		
+orth	Cockburn (Guillaume)		
+entry	Coclès (Barthélémy della Rocca, dit Coclès ou André Corvo) [A. Dureau]		
+orth	Coclès (Barthélémy della Rocca, dit Coclès ou André Corvo)		
 pb	253	0257	4512316
 entry	Coco		
 ref	Cocotier		
-entry	Cocotier		
+entry	Cocotier [G. Planchon]		
+orth	Cocotier		
 pb	254	0258	4512317
-entry	Coction		
-entry	Cocue		
-entry	Codamine		
+entry	Coction [Amédée Dechambre]		
+orth	Coction		
+entry	Cocue [G. Planchon]		
+orth	Cocue		
+entry	Codamine [Amédée Dechambre]		
+orth	Codamine		
 entry	Codarium (Vahl)		
 ref	Dialium		
 pb	255	0259	4512318
 entry	Coddam-Pulli (Rheede)		
 ref	Garcinia		
 entry	Codéine		
-entry	Codéine. Chimie		
+entry	Codéine. Chimie [Malaguti]		
+orth	Codéine. Chimie		
 pb	256	0260	4512319
-entry	Codéine. Thérapeutique		
+entry	Codéine. Thérapeutique [Fonssagrives]		
+orth	Codéine. Thérapeutique		
 pb	257	0261	4512320
 pb	258	0262	4512321
 pb	259	0263	4512322
 pb	260	0264	4512323
 entry	Toxicologie		
 ref	Opium		
-entry	Codex medicamentarius		
-entry	Codia		
-entry	Codronchi (Baptista)		
+entry	Codex medicamentarius [Amédée Dechambre]		
+orth	Codex medicamentarius		
+entry	Codia [H. Baillon]		
+orth	Codia		
+entry	Codronchi (Baptista) [E. Beaugrand]		
+orth	Codronchi (Baptista)		
 pb	261	0265	4512324
 entry	Codugapale		
 ref	Wrigtia		
 entry	Coeliaque (Plexus)		
 ref	Sympathique (Grand)		
-entry	Coeliaque (Tronc)		
+entry	Coeliaque (Tronc) [V. Paulet]		
+orth	Coeliaque (Tronc)		
 pb	262	0266	4512325
 pb	263	0267	4512326
 entry	Coelius		
 ref	Caelius		
 ref	Soramus		
-entry	Coelognathe		
+entry	Coelognathe [A. Laboulbène]		
+orth	Coelognathe		
 pb	264	0268	4512327
-entry	Coelopeltis		
-entry	Coenadelphes		
-entry	Coenure		
+entry	Coelopeltis [P. Gervais]		
+orth	Coelopeltis		
+entry	Coenadelphes [O. Larcher]		
+orth	Coenadelphes		
+entry	Coenure [C. Davaine]		
+orth	Coenure		
 entry	Coeoma		
 ref	Caeoma		
-entry	Coeur		
-entry	Coeur. Anatomie		
+entry	Coeur [Chauveau, Arloing]		
+orth	Coeur		
+entry	Coeur. Anatomie [Chauveau, Arloing]		
+orth	Coeur. Anatomie		
 pb	265	0269	4512328
 pb	266	0270	4512329
 pb	267	0271	4512330
@@ -468,7 +573,8 @@ pb	281	0285	4512344
 pb	282	0286	4512345
 pb	283	0287	4512346
 pb	284	0288	4512347
-entry	Coeur. Développement		
+entry	Coeur. Développement [Campana]		
+orth	Coeur. Développement		
 pb	285	0289	4512348
 pb	286	0290	4512349
 pb	287	0291	4512350
@@ -479,7 +585,8 @@ pb	291	0295	4512354
 pb	292	0296	4512355
 pb	293	0297	4512356
 entry	Coeur		
-entry	Coeur. Anomalies		
+entry	Coeur. Anomalies [O. Larcher]		
+orth	Coeur. Anomalies		
 pb	294	0298	4512357
 pb	295	0299	4512358
 pb	296	0300	4512359
@@ -501,7 +608,8 @@ pb	311	0315	4512374
 pb	312	0316	4512375
 pb	313	0317	4512376
 pb	314	0318	4512377
-entry	Coeur. Physiologie		
+entry	Coeur. Physiologie [Chauveau, Arloing]		
+orth	Coeur. Physiologie		
 pb	315	0319	4512378
 pb	316	0320	4512379
 pb	317	0321	4512380
@@ -570,7 +678,8 @@ pb	379	0383	4512442
 pb	380	0384	4512443
 pb	381	0385	4512444
 pb	382	0386	4512445
-entry	Coeur. Pathologie médicale		
+entry	Coeur. Pathologie médicale [J. Parrot]		
+orth	Coeur. Pathologie médicale		
 pb	383	0387	4512446
 pb	384	0388	4512447
 pb	385	0389	4512448
@@ -676,7 +785,8 @@ pb	484	0488	4512547
 pb	485	0489	4512548
 pb	486	0490	4512549
 pb	487	0491	4512550
-entry	Coeur. Pathol. spéciale		
+entry	Coeur. Pathol. spéciale [C. Potain, H. Rendu]		
+orth	Coeur. Pathol. spéciale		
 pb	488	0492	4512551
 pb	489	0493	4512552
 pb	490	0494	4512553
@@ -874,7 +984,8 @@ pb	681	0685	4512744
 pb	682	0686	4512745
 pb	683	0687	4512746
 pb	684	0688	4512747
-entry	Coeur. Chirurgie		
+entry	Coeur. Chirurgie [Legouest]		
+orth	Coeur. Chirurgie		
 pb	685	0689	4512748
 pb	686	0690	4512749
 pb	687	0691	4512750
@@ -884,7 +995,8 @@ pb	690	0694	4512753
 pb	691	0695	4512754
 pb	692	0696	4512755
 pb	693	0697	4512756
-entry	Coeur. Affections syphilitiques		
+entry	Coeur. Affections syphilitiques [J. Rollet]		
+orth	Coeur. Affections syphilitiques		
 pb	694	0698	4512757
 pb	695	0699	4512758
 pb	696	0700	4512759
@@ -894,71 +1006,97 @@ entry	Coeur de boeuf
 ref	Anona		
 entry	Coeur des Indes		
 ref	Cardiosperme		
-entry	Coeur de Jésus		
+entry	Coeur de Jésus [G. Planchon]		
+orth	Coeur de Jésus		
 entry	Coffoea		
 ref	Caféier		
-entry	Coffre		
+entry	Coffre [P. Gervais]		
+orth	Coffre		
 pb	697	0701	4512760
-entry	Cofone ou Copho (Les deux)		
+entry	Cofone ou Copho (Les deux) [E. Beaugrand]		
+orth	Cofone ou Copho (Les deux)		
 pb	698	0702	4512761
 entry	Cognassier		
 ref	Coignassier		
-entry	Cogrossi (Charles-François)		
-entry	Cohausen (Jean-Henri)		
+entry	Cogrossi (Charles-François) [A. Dureau]		
+orth	Cogrossi (Charles-François)		
+entry	Cohausen (Jean-Henri) [A. Dureau]		
+orth	Cohausen (Jean-Henri)		
 pb	699	0703	4512762
-entry	Cohen el Athar		
-entry	Cohésion		
+entry	Cohen el Athar [L. Leclerc]		
+orth	Cohen el Athar		
+entry	Cohésion [J. Gavarret]		
+orth	Cohésion		
 pb	700	0704	4512763
 pb	701	0705	4512764
 pb	702	0706	4512765
 pb	703	0707	4512766
 pb	704	0708	4512767
 pb	705	0709	4512768
-entry	Coiffeurs (Hygiène professionnelle)		
+entry	Coiffeurs (Hygiène professionnelle) [E. Beaugrand]		
+orth	Coiffeurs (Hygiène professionnelle)		
 pb	706	0710	4512769
-entry	Coiffure		
+entry	Coiffure [E. Beaugrand]		
+orth	Coiffure		
 pb	707	0711	4512770
 pb	708	0712	4512771
 pb	709	0713	4512772
-entry	Coignassier		
+entry	Coignassier [H. Baillon]		
+orth	Coignassier		
 pb	710	0714	4512773
-entry	Coindet (Jean-François)		
+entry	Coindet (Jean-François) [A. Chéreau]		
+orth	Coindet (Jean-François)		
 pb	711	0715	4512774
-entry	Coindet (Léon-Alex.-Hipp.)		
+entry	Coindet (Léon-Alex.-Hipp.) [E. Beaugrand]		
+orth	Coindet (Léon-Alex.-Hipp.)		
 entry	Coing		
 entry	Botanique		
 ref	Coignassier		
-entry	Coing. Emploi médical		
+entry	Coing. Emploi médical [J. Delioux de Savignac]		
+orth	Coing. Emploi médical		
 pb	712	0716	4512775
 pb	713	0717	4512776
 pb	714	0718	4512777
-entry	Coise ou Coeze (Eau minérale de)		
+entry	Coise ou Coeze (Eau minérale de) [A. Rotureau]		
+orth	Coise ou Coeze (Eau minérale de)		
 pb	715	0719	4512778
 pb	716	0720	4512779
-entry	Coït		
-entry	Coiter (Volcher)		
+entry	Coït [Amédée Dechambre]		
+orth	Coït		
+entry	Coiter (Volcher) [A. Dureau]		
+orth	Coiter (Volcher)		
 pb	717	0721	4512780
-entry	Coitier (Jacques)		
+entry	Coitier (Jacques) [A. Chéreau]		
+orth	Coitier (Jacques)		
 pb	718	0722	4512781
-entry	Coix		
+entry	Coix [G. Planchon]		
+orth	Coix		
 pb	719	0723	4512782
-entry	Col de Vilars (Hélie)		
+entry	Col de Vilars (Hélie) [A. Chéreau]		
+orth	Col de Vilars (Hélie)		
 entry	Cola		
 ref	Kola		
-entry	Colature		
-ref	Filtration		
-entry	Colbatch (Jean)		
+entry	Colature..]		
+ref	Filtration [D		
+entry	Colbatch (Jean) [A. Dureau]		
+orth	Colbatch (Jean)		
 pb	720	0724	4512783
-entry	Colbertia		
-entry	Colcaquahuitl		
-entry	Colchicacées		
+entry	Colbertia [H. Baillon]		
+orth	Colbertia		
+entry	Colcaquahuitl [G. Planchon]		
+orth	Colcaquahuitl		
+entry	Colchicacées [G. Planchon]		
+orth	Colchicacées		
 pb	721	0725	4512784
-entry	Colchicéine, Colchicine		
+entry	Colchicéine, Colchicine [Amédée Dechambre]		
+orth	Colchicéine, Colchicine		
 entry	Colchique		
-entry	Colchique. Botanique		
+entry	Colchique. Botanique [G. Planchon]		
+orth	Colchique. Botanique		
 pb	722	0726	4512785
 pb	723	0727	4512786
-entry	Colchique. Colchique d'Automne		
+entry	Colchique. Colchique d'Automne [J. Delioux de Savignac]		
+orth	Colchique. Colchique d'Automne		
 pb	724	0728	4512787
 pb	725	0729	4512788
 pb	726	0730	4512789
@@ -984,14 +1122,20 @@ pb	745	0749	4512808
 pb	746	0750	4512809
 pb	747	0751	4512810
 pb	748	0752	4512811
-entry	Colcotar		
-entry	Cold-Cream		
+entry	Colcotar [Amédée Dechambre]		
+orth	Colcotar		
+entry	Cold-Cream [Amédée Dechambre]		
+orth	Cold-Cream		
 pb	749	0753	4512812
-entry	Colden (Cadwallader)		
-entry	Coldenia		
-entry	Cole (Willm.)		
+entry	Colden (Cadwallader) [E. Beaugrand]		
+orth	Colden (Cadwallader)		
+entry	Coldenia [G. Planchon]		
+orth	Coldenia		
+entry	Cole (Willm.) [E. Beaugrand]		
+orth	Cole (Willm.)		
 pb	750	0754	4512813
-entry	Coléoptères		
+entry	Coléoptères [A. Laboulbène, L. Fairmaire]		
+orth	Coléoptères		
 pb	751	0755	4512814
 pb	752	0756	4512815
 pb	753	0757	4512816
@@ -1009,15 +1153,18 @@ pb	764	0768	4512827
 pb	765	0769	4512828
 entry	Coleus		
 ref	Patchouly		
-entry	Colhuas (Les)		
-ref	Mexique		
-entry	Colibris		
-ref	Oiseaux-Mouches		
-entry	Coligat		
+entry	Colhuas (Les)..]		
+ref	Mexique [D		
+entry	Colibris.. Gervais]		
+ref	Oiseaux-Mouches [P		
+entry	Coligat [G. Planchon]		
+orth	Coligat		
 entry	Colimaçon		
 ref	Limaçon		
-entry	Colin (Sébastien)		
-entry	Colique		
+entry	Colin (Sébastien) [A. Chéreau]		
+orth	Colin (Sébastien)		
+entry	Colique [Morache, C. Zuber]		
+orth	Colique		
 pb	766	0770	4512829
 pb	767	0771	4512830
 pb	768	0772	4512831
@@ -1040,12 +1187,17 @@ pb	784	0788	4512847
 pb	785	0789	4512848
 entry	Colite		
 ref	Colon		
-entry	Colla		
-entry	Collado (Luiz)		
+entry	Colla [G. Planchon]		
+orth	Colla		
+entry	Collado (Luiz) [E. Beaugrand]		
+orth	Collado (Luiz)		
 pb	786	0790	4512849
-entry	Colladon (Les deux)		
-entry	Collagène		
-entry	Collapsus		
+entry	Colladon (Les deux) [A. Chéreau]		
+orth	Colladon (Les deux)		
+entry	Collagène [Amédée Dechambre]		
+orth	Collagène		
+entry	Collapsus [Amédée Dechambre]		
+orth	Collapsus		
 pb	787	0791	4512850
 entry	Collatérales (Artères)		
 ref	Brachiale (Artère)		
@@ -1055,20 +1207,24 @@ entry	Colle
 entry	Chimie		
 ref	Gélatine		
 entry	Hygiène publique		
-entry	Colle. Hygiène publique. Fabrication		
+entry	Colle. Hygiène publique. Fabrication [E. Beaugrand]		
+orth	Colle. Hygiène publique. Fabrication		
 pb	788	0792	4512851
 pb	789	0793	4512852
-entry	Colle (Jean de)		
+entry	Colle (Jean de) [A. Chéreau]		
+orth	Colle (Jean de)		
 entry	Colle-chair		
 ref	Sarcocolle		
 entry	Colléges		
 ref	Écoles		
 ref	Éducation		
-entry	Collemé		
+entry	Collemé [J. De Seynes]		
+orth	Collemé		
 pb	790	0794	4512853
 pb	791	0795	4512854
 entry	Addendum		
-entry	Codagapala (Écorce de)		
+entry	Codagapala (Écorce de) [G. Planchon]		
+orth	Codagapala (Écorce de)		
 pb	[s. pag.]	0796	4512855
 pb	793	0797	4512856
 entry	Articles contenus dans le dix-huitième volume (1re série)		

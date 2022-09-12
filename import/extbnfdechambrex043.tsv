@@ -1,13 +1,19 @@
 pb	[s. pag.]	0001	4531327
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4531328
 pb	[s. pag.]	0003	4531329
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4531330
 pb	1	0005	4531331
-entry	Gastérostome		
-entry	Gastier (André-François)		
-entry	Gasto (Flaminius)		
+entry	Gastérostome [C. Davaine]		
+orth	Gastérostome		
+entry	Gastier (André-François) [L. Hahn]		
+orth	Gastier (André-François)		
+entry	Gasto (Flaminius) [A. Dureau]		
+orth	Gasto (Flaminius)		
 pb	2	0006	4531332
-entry	Gastralgie		
+entry	Gastralgie [Leven]		
+orth	Gastralgie		
 pb	3	0007	4531333
 pb	4	0008	4531334
 pb	5	0009	4531335
@@ -19,12 +25,16 @@ pb	10	0014	4531340
 pb	11	0015	4531341
 pb	12	0016	4531342
 pb	13	0017	4531343
-entry	Gastrique supérieure (Artère)		
-entry	Gastrique inférieure (Artère)		
-entry	Gastrique (Suc)		
+entry	Gastrique supérieure (Artère) [Amédée Dechambre]		
+orth	Gastrique supérieure (Artère)		
+entry	Gastrique inférieure (Artère) [Amédée Dechambre]		
+orth	Gastrique inférieure (Artère)		
+entry	Gastrique (Suc) [Amédée Dechambre]		
+orth	Gastrique (Suc)		
 entry	Gastriques (Nerfs)		
 ref	Pneumogastrique (Nerf)		
-entry	Gastrite		
+entry	Gastrite [Leven]		
+orth	Gastrite		
 pb	14	0018	4531344
 pb	15	0019	4531345
 pb	16	0020	4531346
@@ -34,25 +44,35 @@ pb	19	0023	4531349
 pb	20	0024	4531350
 pb	21	0025	4531351
 pb	22	0026	4531352
-entry	Gastrocèle		
+entry	Gastrocèle [Amédée Dechambre]		
+orth	Gastrocèle		
 pb	23	0027	4531353
-entry	Gastrochaenides		
+entry	Gastrochaenides [Ed. Lefèvre]		
+orth	Gastrochaenides		
 entry	Gastrocnémiens (Muscles)		
 ref	Jumeaux		
-entry	Gastro-colique (Veine)		
+entry	Gastro-colique (Veine) [Amédée Dechambre]		
+orth	Gastro-colique (Veine)		
 pb	24	0028	4531354
-entry	Gastro-épiploïques (Artères et Veines)		
-entry	Gastro-épiploïques (Nerfs)		
+entry	Gastro-épiploïques (Artères et Veines) [Amédée Dechambre]		
+orth	Gastro-épiploïques (Artères et Veines)		
+entry	Gastro-épiploïques (Nerfs) [Amédée Dechambre]		
+orth	Gastro-épiploïques (Nerfs)		
 entry	Gastro-hépatique		
 ref	Coeliaque		
-entry	Gastromancie		
-entry	Gastroméliens		
-entry	Gastroplax		
-entry	Gastroptère		
+entry	Gastromancie [Amédée Dechambre]		
+orth	Gastromancie		
+entry	Gastroméliens [O. Larcher]		
+orth	Gastroméliens		
+entry	Gastroplax [Ed. Lefèvre]		
+orth	Gastroplax		
+entry	Gastroptère [Ed. Lefèvre]		
+orth	Gastroptère		
 entry	Gastrorrhagie		
 ref	Hématémèse		
 ref	Melaena		
-entry	Gastrorrhée		
+entry	Gastrorrhée [Leven]		
+orth	Gastrorrhée		
 pb	25	0029	4531355
 pb	26	0030	4531356
 pb	27	0031	4531357
@@ -64,9 +84,11 @@ pb	32	0036	4531362
 pb	33	0037	4531363
 entry	Gastro-splénique (Vaisseaux, Vaisseaux courts)		
 ref	Coeliaque		
-entry	Gastro-stomie.		
+entry	Gastro-stomie. [Amédée Dechambre]		
+orth	Gastro-stomie.		
 entry	Gastrotomie		
-entry	Gastrotomie. Définition. Historique		
+entry	Gastrotomie. Définition. Historique [L.-H. Petit]		
+orth	Gastrotomie. Définition. Historique		
 pb	34	0038	4531364
 pb	35	0039	4531365
 pb	36	0040	4531366
@@ -82,14 +104,17 @@ pb	45	0049	4531375
 pb	46	0050	4531376
 pb	47	0051	4531377
 pb	48	0052	4531378
-entry	Gastrotomie. Opportunité de la gastrotomie		
+entry	Gastrotomie. Opportunité de la gastrotomie [Boinet]		
+orth	Gastrotomie. Opportunité de la gastrotomie		
 pb	49	0053	4531379
 pb	50	0054	4531380
 pb	51	0055	4531381
 pb	52	0056	4531382
-entry	Opération de la Gastrotomie		
+entry	Opération de la Gastrotomie [Boinet]		
+orth	Opération de la Gastrotomie		
 pb	53	0057	4531383
-entry	Gastrotomie. Opération de la gastrotomie		
+entry	Gastrotomie. Opération de la gastrotomie [Boinet]		
+orth	Gastrotomie. Opération de la gastrotomie		
 pb	54	0058	4531384
 pb	55	0059	4531385
 pb	56	0060	4531386
@@ -98,11 +123,14 @@ pb	58	0062	4531388
 pb	59	0063	4531389
 pb	60	0064	4531390
 pb	61	0065	4531391
-entry	Gataker (Thomas)		
-entry	Gateaux mercuriels		
+entry	Gataker (Thomas) [L. Hahn]		
+orth	Gataker (Thomas)		
+entry	Gateaux mercuriels [Amédée Dechambre]		
+orth	Gateaux mercuriels		
 entry	Gatenhof		
 ref	Gattenhof		
-entry	Gateux		
+entry	Gateux [Ant. Ritti]		
+orth	Gateux		
 pb	62	0066	4531392
 pb	63	0067	4531393
 pb	64	0068	4531394
@@ -113,75 +141,108 @@ pb	68	0072	4531398
 pb	69	0073	4531399
 pb	70	0074	4531400
 pb	71	0075	4531401
-entry	Gattenhof ou Gatenhof (Georg-Matthias)		
+entry	Gattenhof ou Gatenhof (Georg-Matthias) [L. Hahn]		
+orth	Gattenhof ou Gatenhof (Georg-Matthias)		
 pb	72	0076	4531402
-entry	Gatti (Angelo)		
-entry	Gattillier		
+entry	Gatti (Angelo) [L. Hahn]		
+orth	Gatti (Angelo)		
+entry	Gattillier [G. Planchon]		
+orth	Gattillier		
 pb	73	0077	4531403
-entry	Gattinara ou Gattinaria (Marco)		
+entry	Gattinara ou Gattinaria (Marco) [L. Hahn]		
+orth	Gattinara ou Gattinaria (Marco)		
 pb	74	0078	4531404
-entry	Gaubert (Les deux)		
+entry	Gaubert (Les deux) [A. Chéreau]		
+orth	Gaubert (Les deux)		
 pb	75	0079	4531405
-entry	Gaubius (Jérôme-David)		
+entry	Gaubius (Jérôme-David) [A. Chéreau]		
+orth	Gaubius (Jérôme-David)		
 pb	76	0080	4531406
-entry	Gaude		
-entry	Gaudefroy (Louis)		
-entry	Gaudet (M.-A.-M.)		
+entry	Gaude [G. Planchon]		
+orth	Gaude		
+entry	Gaudefroy (Louis) [L. Hahn]		
+orth	Gaudefroy (Louis)		
+entry	Gaudet (M.-A.-M.) [L. Hahn]		
+orth	Gaudet (M.-A.-M.)		
 pb	77	0081	4531407
-entry	Gaudichaud-Beaupré (Charles)		
+entry	Gaudichaud-Beaupré (Charles) [L. Hahn]		
+orth	Gaudichaud-Beaupré (Charles)		
 pb	78	0082	4531408
-entry	Gauger (Nicolas)		
-entry	Gaukes (Yvo)		
+entry	Gauger (Nicolas) [L. Hahn]		
+orth	Gauger (Nicolas)		
+entry	Gaukes (Yvo) [L. Hahn]		
+orth	Gaukes (Yvo)		
 entry	Gaulois		
 ref	Celtes		
 ref	Gaëls		
 ref	France		
-entry	Gaultheria		
+entry	Gaultheria [G. Planchon]		
+orth	Gaultheria		
 pb	79	0083	4531409
-entry	Gaulthérilène		
-entry	Gaultier de Claubry (Les trois)		
+entry	Gaulthérilène [L. Hahn]		
+orth	Gaulthérilène		
+entry	Gaultier de Claubry (Les trois) [A. Chéreau]		
+orth	Gaultier de Claubry (Les trois)		
 pb	80	0084	4531410
 pb	81	0085	4531411
-entry	Gaultier de Salerne		
+entry	Gaultier de Salerne [E. Beaugrand, L. Hahn]		
+orth	Gaultier de Salerne		
 entry	Gaurées		
 ref	Onagrariées		
-entry	Gaurico (Luca)		
+entry	Gaurico (Luca) [L. Hahn]		
+orth	Gaurico (Luca)		
 pb	82	0086	4531412
-entry	Gaussail (Adrien-Joseph)		
+entry	Gaussail (Adrien-Joseph) [L. Hahn]		
+orth	Gaussail (Adrien-Joseph)		
 pb	83	0087	4531413
-entry	Gauteron (Antoine)		
-entry	Gauthier (Les)		
+entry	Gauteron (Antoine) [L. Hahn]		
+orth	Gauteron (Antoine)		
+entry	Gauthier (Les) [A. Dureau]		
+orth	Gauthier (Les)		
 pb	84	0088	4531414
-entry	Gauthier d'Agoty (Les)		
+entry	Gauthier d'Agoty (Les) [A. Chéreau, L. Hahn]		
+orth	Gauthier d'Agoty (Les)		
 pb	85	0089	4531415
-entry	Gautier (Henri)		
-entry	Gautieri (Giuseppe)		
+entry	Gautier (Henri) [A. Dureau]		
+orth	Gautier (Henri)		
+entry	Gautieri (Giuseppe) [L. Hahn]		
+orth	Gautieri (Giuseppe)		
 pb	86	0090	4531416
-entry	Gavard (Hyacinthe)		
+entry	Gavard (Hyacinthe) [A. Chéreau]		
+orth	Gavard (Hyacinthe)		
 pb	87	0091	4531417
-entry	Gavasseti (Michaeli)		
-entry	Gavet (Jacques)		
+entry	Gavasseti (Michaeli) [L. Hahn]		
+orth	Gavasseti (Michaeli)		
+entry	Gavet (Jacques) [L. Hahn]		
+orth	Gavet (Jacques)		
 entry	Gavial		
 ref	Crocodile		
-entry	Gavinet (Jean-Marie)		
-entry	Gaviria y Léon (Diégo)		
-entry	Gay (Les)		
+entry	Gavinet (Jean-Marie) [A. Chéreau]		
+orth	Gavinet (Jean-Marie)		
+entry	Gaviria y Léon (Diégo) [L. Hahn]		
+orth	Gaviria y Léon (Diégo)		
+entry	Gay (Les) [L. Hahn]		
+orth	Gay (Les)		
 pb	88	0092	4531418
 pb	89	0093	4531419
 entry	Gayac		
 ref	Gaïac		
-entry	Gayam		
+entry	Gayam [Ed. Lefèvre]		
+orth	Gayam		
 pb	90	0094	4531420
-entry	Gayan y Santoyo (Juan)		
+entry	Gayan y Santoyo (Juan) [L. Hahn]		
+orth	Gayan y Santoyo (Juan)		
 entry	Gayant (Les Deux)		
-entry	Gay-Lussac (Louis-Joseph)		
+entry	Gay-Lussac (Louis-Joseph) [L. Hahn]		
+orth	Gay-Lussac (Louis-Joseph)		
 pb	91	0095	4531421
 pb	92	0096	4531422
 pb	93	0097	4531423
 entry	Gaz en général		
 ref	Corps		
 pb	94	0098	4531424
-entry	Gaz d'éclairage (Hygiène)		
+entry	Gaz d'éclairage (Hygiène) [Alexandre Layet]		
+orth	Gaz d'éclairage (Hygiène)		
 pb	95	0099	4531425
 pb	96	0100	4531426
 pb	97	0101	4531427
@@ -220,7 +281,8 @@ pb	129	0133	4531459
 pb	130	0134	4531460
 pb	131	0135	4531461
 pb	132	0136	4531462
-entry	Gaz Hilarant		
+entry	Gaz Hilarant [A. Lutaud]		
+orth	Gaz Hilarant		
 pb	133	0137	4531463
 pb	134	0138	4531464
 pb	135	0139	4531465
@@ -251,13 +313,16 @@ pb	159	0163	4531489
 pb	160	0164	4531490
 pb	161	0165	4531491
 pb	162	0166	4531492
-entry	Gazage (Hygiène industrielle)		
+entry	Gazage (Hygiène industrielle) [Alexandre Layet]		
+orth	Gazage (Hygiène industrielle)		
 pb	163	0167	4531493
 pb	164	0168	4531494
 pb	165	0169	4531495
-entry	Gaze		
+entry	Gaze [Amédée Dechambre]		
+orth	Gaze		
 pb	166	0170	4531496
-entry	Gazelles		
+entry	Gazelles [E. Oustalet]		
+orth	Gazelles		
 pb	167	0171	4531497
 pb	168	0172	4531498
 pb	169	0173	4531499
@@ -267,10 +332,13 @@ pb	172	0176	4531502
 pb	173	0177	4531503
 pb	174	0178	4531504
 pb	175	0179	4531505
-entry	Gazéol		
-entry	Gazi ou Gazio (Antonio)		
+entry	Gazéol [L. Hahn]		
+orth	Gazéol		
+entry	Gazi ou Gazio (Antonio) [L. Hahn]		
+orth	Gazi ou Gazio (Antonio)		
 pb	176	0180	4531506
-entry	Gazogène		
+entry	Gazogène [A. Rotureau]		
+orth	Gazogène		
 pb	177	0181	4531507
 pb	178	0182	4531508
 pb	179	0183	4531509
@@ -282,75 +350,109 @@ pb	184	0188	4531514
 pb	185	0189	4531515
 pb	186	0190	4531516
 pb	187	0191	4531517
-entry	Gazo-injecteurs (Appareils)		
-entry	Gazola (Giuseppe)		
+entry	Gazo-injecteurs (Appareils) [Amédée Dechambre]		
+orth	Gazo-injecteurs (Appareils)		
+entry	Gazola (Giuseppe) [L. Hahn]		
+orth	Gazola (Giuseppe)		
 pb	188	0192	4531518
-entry	Gazolène		
-entry	Gazost (Eaux minérales de)		
+entry	Gazolène [L. Hahn]		
+orth	Gazolène		
+entry	Gazost (Eaux minérales de) [A. Rotureau]		
+orth	Gazost (Eaux minérales de)		
 pb	189	0193	4531519
 pb	190	0194	4531520
 pb	191	0195	4531521
-entry	Geach (Francis)		
-entry	Geai		
+entry	Geach (Francis) [L. Hahn]		
+orth	Geach (Francis)		
+entry	Geai [E. Oustalet]		
+orth	Geai		
 pb	192	0196	4531522
 pb	193	0197	4531523
-entry	Géant, Géantisme		
-entry	Géastre		
-entry	Gebauer (Les deux)		
+entry	Géant, Géantisme [O. Larcher]		
+orth	Géant, Géantisme		
+entry	Géastre [Ed. Lefèvre]		
+orth	Géastre		
+entry	Gebauer (Les deux) [L. Hahn]		
+orth	Gebauer (Les deux)		
 pb	194	0198	4531524
-entry	Gebel (Joseph-Bernhard-August)		
-entry	Géber		
+entry	Gebel (Joseph-Bernhard-August) [L. Hahn]		
+orth	Gebel (Joseph-Bernhard-August)		
+entry	Géber [L. Leclerc]		
+orth	Géber		
 pb	195	0199	4531525
 pb	196	0200	4531526
 pb	197	0201	4531527
-entry	Gebhard (Les deux)		
-entry	Gécarcin		
+entry	Gebhard (Les deux) [L. Hahn]		
+orth	Gebhard (Les deux)		
+entry	Gécarcin [Ed. Lefèvre]		
+orth	Gécarcin		
 pb	198	0202	4531528
-entry	Gecko		
+entry	Gecko [E. Oustalet]		
+orth	Gecko		
 pb	199	0203	4531529
 pb	200	0204	4531530
 pb	201	0205	4531531
-entry	Geddings (Ely-S.)		
-entry	Geddings (Gargarisme de)		
+entry	Geddings (Ely-S.) [L. Hahn]		
+orth	Geddings (Ely-S.)		
+entry	Geddings (Gargarisme de) [Amédée Dechambre]		
+orth	Geddings (Gargarisme de)		
 pb	202	0206	4531532
-entry	Geer (Charles de)		
-entry	Gehema ou Gehma (Johann-Abraham von)		
+entry	Geer (Charles de) [L. Hahn]		
+orth	Geer (Charles de)		
+entry	Gehema ou Gehma (Johann-Abraham von) [L. Hahn]		
+orth	Gehema ou Gehma (Johann-Abraham von)		
 pb	203	0207	4531533
-entry	Gehlen (Adolph-Ferdinand)		
+entry	Gehlen (Adolph-Ferdinand) [L. Hahn]		
+orth	Gehlen (Adolph-Ferdinand)		
 pb	204	0208	4531534
-entry	Gehler (Les deux)		
+entry	Gehler (Les deux) [L. Hahn]		
+orth	Gehler (Les deux)		
 pb	205	0209	4531535
-entry	Gehuf ou Gehuph		
-entry	Geier (Les deux)		
+entry	Gehuf ou Gehuph [G. Planchon]		
+orth	Gehuf ou Gehuph		
+entry	Geier (Les deux) [L. Hahn]		
+orth	Geier (Les deux)		
 pb	206	0210	4531536
-entry	Geiger (Les deux)		
+entry	Geiger (Les deux) [L. Hahn]		
+orth	Geiger (Les deux)		
 pb	207	0211	4531537
-entry	Geilnau (Eau minérale de)		
+entry	Geilnau (Eau minérale de) [A. Rotureau]		
+orth	Geilnau (Eau minérale de)		
 pb	208	0212	4531538
-entry	Géine		
-entry	Géinique (Acide)		
-entry	Geiseler (Eduard-Ferdinand)		
+entry	Géine [L. Hahn]		
+orth	Géine		
+entry	Géinique (Acide) [L. Hahn]		
+orth	Géinique (Acide)		
+entry	Geiseler (Eduard-Ferdinand) [L. Hahn]		
+orth	Geiseler (Eduard-Ferdinand)		
 pb	209	0213	4531539
-entry	Geissel (Richard)		
+entry	Geissel (Richard) [L. Hahn]		
+orth	Geissel (Richard)		
 entry	Geissospermum		
-entry	Geissospermum. Botanique		
+entry	Geissospermum. Botanique [H. Baillon]		
+orth	Geissospermum. Botanique		
 pb	210	0214	4531540
-entry	Geissospermum. Action physiologique		
+entry	Geissospermum. Action physiologique [L. Hahn]		
+orth	Geissospermum. Action physiologique		
 pb	211	0215	4531541
 pb	212	0216	4531542
 pb	213	0217	4531543
 pb	214	0218	4531544
-entry	Geitner (Ernst-August)		
-entry	Gélasime		
+entry	Geitner (Ernst-August) [L. Hahn]		
+orth	Geitner (Ernst-August)		
+entry	Gélasime [Ed. Lefèvre]		
+orth	Gélasime		
 pb	215	0219	4531545
 entry	Gélatine		
-entry	Gélatine. Chimie		
+entry	Gélatine. Chimie [Ed. Willm]		
+orth	Gélatine. Chimie		
 pb	216	0220	4531546
 pb	217	0221	4531547
 pb	218	0222	4531548
 pb	219	0223	4531549
 pb	220	0224	4531550
-entry	Gélatine. Bromatologie		
+entry	Gélatine. Bromatologie [P. Coulier]		
+orth	Gélatine. Bromatologie		
 pb	221	0225	4531551
 pb	222	0226	4531552
 pb	223	0227	4531553
@@ -362,66 +464,93 @@ pb	228	0232	4531558
 pb	229	0233	4531559
 pb	230	0234	4531560
 pb	231	0235	4531561
-entry	Gélatine. Hygiène industrielle		
+entry	Gélatine. Hygiène industrielle [Alexandre Layet]		
+orth	Gélatine. Hygiène industrielle		
 pb	232	0236	4531562
 pb	233	0237	4531563
-entry	Gelée (Météorologie)		
+entry	Gelée (Météorologie) [E. Renou]		
+orth	Gelée (Météorologie)		
 pb	234	0238	4531564
 pb	235	0239	4531565
-entry	Gelée (Théophile)		
+entry	Gelée (Théophile) [A. Chéreau]		
+orth	Gelée (Théophile)		
 pb	236	0240	4531566
-entry	Gelées		
+entry	Gelées [P. Coulier]		
+orth	Gelées		
 pb	237	0241	4531567
 pb	238	0242	4531568
-entry	Gélidium		
+entry	Gélidium [Ed. Lefèvre]		
+orth	Gélidium		
 pb	239	0243	4531569
 entry	Gélin		
 ref	Gélidium		
 ref	Gélose		
-entry	Géline		
+entry	Géline [L. Hahn]		
+orth	Géline		
 pb	240	0244	4531570
-entry	Gelinotte		
+entry	Gelinotte [E. Oustalet]		
+orth	Gelinotte		
 pb	241	0245	4531571
 pb	242	0246	4531572
-entry	Geller (Carl-Gottfried)		
+entry	Geller (Carl-Gottfried) [L. Hahn]		
+orth	Geller (Carl-Gottfried)		
 pb	243	0247	4531573
-entry	Gellert (Christlieb-Ehregott)		
-entry	Gellhaus (Ferdinand)		
+entry	Gellert (Christlieb-Ehregott) [L. Hahn]		
+orth	Gellert (Christlieb-Ehregott)		
+entry	Gellhaus (Ferdinand) [L. Hahn]		
+orth	Gellhaus (Ferdinand)		
 entry	Gélose		
-entry	Gélose. Origine botanique		
+entry	Gélose. Origine botanique [Eug. Fournier]		
+orth	Gélose. Origine botanique		
 pb	244	0248	4531574
-entry	Gélose. Chimie		
+entry	Gélose. Chimie [Ed. Willm]		
+orth	Gélose. Chimie		
 pb	245	0249	4531575
-entry	Gelous (Sigismond)		
+entry	Gelous (Sigismond) [L. Hahn]		
+orth	Gelous (Sigismond)		
 pb	246	0250	4531576
-entry	Gelsemium (Jussieu)		
-entry	Gemeiner (Andreas-Theodor)		
-entry	Gemma (Les)		
+entry	Gelsemium (Jussieu) [G. Planchon]		
+orth	Gelsemium (Jussieu)		
+entry	Gemeiner (Andreas-Theodor) [L. Hahn]		
+orth	Gemeiner (Andreas-Theodor)		
+entry	Gemma (Les) [A. Dureau]		
+orth	Gemma (Les)		
 pb	247	0251	4531577
-entry	Gemmation		
-entry	Gemme		
-entry	Gemmiparité		
-entry	Gempak (Sougita)		
+entry	Gemmation [Amédée Dechambre]		
+orth	Gemmation		
+entry	Gemme [Amédée Dechambre]		
+orth	Gemme		
+entry	Gemmiparité [Amédée Dechambre]		
+orth	Gemmiparité		
+entry	Gempak (Sougita) [L. Hahn]		
+orth	Gempak (Sougita)		
 pb	248	0252	4531578
-entry	Gemusaeus ou Geschmsaus (Hieronimus)		
+entry	Gemusaeus ou Geschmsaus (Hieronimus) [L. Hahn]		
+orth	Gemusaeus ou Geschmsaus (Hieronimus)		
 entry	Gencives		
-entry	Gencives. Anatomie et physiologie		
+entry	Gencives. Anatomie et physiologie [E. Magitot]		
+orth	Gencives. Anatomie et physiologie		
 pb	249	0253	4531579
 pb	250	0254	4531580
 pb	251	0255	4531581
-entry	Pathologie		
-entry	Gencives. Pathologie. Lésions traumatiques		
+entry	Pathologie [E. Magitot]		
+orth	Pathologie		
+entry	Gencives. Pathologie. Lésions traumatiques [E. Magitot]		
+orth	Gencives. Pathologie. Lésions traumatiques		
 pb	252	0256	4531582
-entry	Gencives. Pathologie. Lésions inflammatoires		
+entry	Gencives. Pathologie. Lésions inflammatoires [E. Magitot]		
+orth	Gencives. Pathologie. Lésions inflammatoires		
 pb	253	0257	4531583
 pb	254	0258	4531584
-entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites traumatiques		
+entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites traumatiques [E. Magitot]		
+orth	Gencives. Pathologie. Lésions inflammatoires. Gingivites traumatiques		
 pb	255	0259	4531585
 pb	256	0260	4531586
 pb	257	0261	4531587
 pb	258	0262	4531588
 pb	259	0263	4531589
-entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites Essentielles		
+entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites Essentielles [E. Magitot]		
+orth	Gencives. Pathologie. Lésions inflammatoires. Gingivites Essentielles		
 pb	260	0264	4531590
 pb	261	0265	4531591
 pb	262	0266	4531592
@@ -435,7 +564,8 @@ pb	269	0273	4531599
 pb	270	0274	4531600
 pb	271	0275	4531601
 pb	272	0276	4531602
-entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites toxiques		
+entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites toxiques [E. Magitot]		
+orth	Gencives. Pathologie. Lésions inflammatoires. Gingivites toxiques		
 pb	273	0277	4531603
 pb	274	0278	4531604
 pb	275	0279	4531605
@@ -444,7 +574,8 @@ pb	277	0281	4531607
 pb	278	0282	4531608
 pb	279	0283	4531609
 pb	280	0284	4531610
-entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites spécifiques		
+entry	Gencives. Pathologie. Lésions inflammatoires. Gingivites spécifiques [E. Magitot]		
+orth	Gencives. Pathologie. Lésions inflammatoires. Gingivites spécifiques		
 pb	281	0285	4531611
 pb	282	0286	4531612
 pb	283	0287	4531613
@@ -457,22 +588,27 @@ pb	289	0293	4531619
 pb	290	0294	4531620
 pb	291	0295	4531621
 pb	292	0296	4531622
-entry	Gencives. Pathologie. Lésions organiques		
+entry	Gencives. Pathologie. Lésions organiques [E. Magitot]		
+orth	Gencives. Pathologie. Lésions organiques		
 pb	293	0297	4531623
 pb	294	0298	4531624
 pb	295	0299	4531625
 pb	296	0300	4531626
 pb	297	0301	4531627
 pb	298	0302	4531628
-entry	Gendarussa		
+entry	Gendarussa [Ed. Lefèvre]		
+orth	Gendarussa		
 pb	299	0303	4531629
-entry	Gendats (Matsou-Woka)		
-entry	Gendron (Les)		
+entry	Gendats (Matsou-Woka) [L. Hahn]		
+orth	Gendats (Matsou-Woka)		
+entry	Gendron (Les) [A. Chéreau]		
+orth	Gendron (Les)		
 pb	300	0304	4531630
 entry	Genepi		
 ref	Génipi		
 entry	Génération		
-entry	Génération. Anatomie et physiologie comparées		
+entry	Génération. Anatomie et physiologie comparées [G. Carlet]		
+orth	Génération. Anatomie et physiologie comparées		
 pb	301	0305	4531631
 pb	302	0306	4531632
 pb	303	0307	4531633
@@ -508,7 +644,8 @@ pb	332	0336	4531662
 pb	333	0337	4531663
 pb	334	0338	4531664
 pb	335	0339	4531665
-entry	Génération. Physiologie		
+entry	Génération. Physiologie [Ch. Robin]		
+orth	Génération. Physiologie		
 pb	336	0340	4531666
 pb	337	0341	4531667
 pb	338	0342	4531668
@@ -667,24 +804,30 @@ pb	490	0494	4531820
 pb	491	0495	4531821
 entry	Genèse		
 ref	Génération		
-entry	Genest (Jean-Louis)		
+entry	Genest (Jean-Louis) [L. Hahn]		
+orth	Genest (Jean-Louis)		
 pb	492	0496	4531822
-entry	Genêt		
+entry	Genêt [H. Baillon]		
+orth	Genêt		
 pb	493	0497	4531823
 pb	494	0498	4531824
 pb	495	0499	4531825
 entry	Genestrolle, Genestrelle		
 ref	Genêt		
-entry	Généthliologie		
-entry	Genette		
+entry	Généthliologie [Amédée Dechambre]		
+orth	Généthliologie		
+entry	Genette [E. Oustalet]		
+orth	Genette		
 pb	496	0500	4531826
 pb	497	0501	4531827
 pb	498	0502	4531828
 entry	Genévrier		
-entry	Genévrier. Botanique		
+entry	Genévrier. Botanique [G. Planchon]		
+orth	Genévrier. Botanique		
 pb	499	0503	4531829
 pb	500	0504	4531830
-entry	Genévrier. Emploi médical		
+entry	Genévrier. Emploi médical [Ernest Labbée]		
+orth	Genévrier. Emploi médical		
 pb	501	0505	4531831
 pb	502	0506	4531832
 pb	503	0507	4531833
@@ -698,28 +841,34 @@ pb	510	0514	4531840
 pb	511	0515	4531841
 pb	512	0516	4531842
 pb	513	0517	4531843
-entry	Genga (Bernardino)		
+entry	Genga (Bernardino) [L. Hahn]		
+orth	Genga (Bernardino)		
 pb	514	0518	4531844
 entry	Genger-Grass		
 ref	Ginger-Grass		
 entry	Géni (Apophyse)		
 ref	Maxillaire inférieur (Os)		
-entry	Genicularis		
+entry	Genicularis [G. Planchon]		
+orth	Genicularis		
 entry	Geniculé (Ganglion)		
 ref	Facial (Nerf)		
 entry	Genièvre		
 ref	Genévrier		
 entry	Génioglosse (Muscle)		
 ref	Langue		
-entry	Génio-Hyoïdien (Muscle)		
+entry	Génio-Hyoïdien (Muscle) [Amédée Dechambre]		
+orth	Génio-Hyoïdien (Muscle)		
 entry	Génio-Hyoïdien (Nerf)		
 ref	Hypoglosse		
-entry	Genipayer		
+entry	Genipayer [G. Planchon]		
+orth	Genipayer		
 pb	515	0519	4531845
 entry	Genipi et Genepi		
-entry	Genipi et Genepi. Botanique		
+entry	Genipi et Genepi. Botanique [G. Planchon]		
+orth	Genipi et Genepi. Botanique		
 pb	516	0520	4531846
-entry	Genipi et Genepi. Emploi médical		
+entry	Genipi et Genepi. Emploi médical [Ernest Labbée]		
+orth	Genipi et Genepi. Emploi médical		
 pb	517	0521	4531847
 entry	Genista		
 ref	Genêt		
@@ -727,12 +876,15 @@ entry	Genistelle
 ref	Genestrolle		
 entry	Genistrolle		
 ref	Genestrolle		
-entry	Génitaux (Organes)		
+entry	Génitaux (Organes) [Amédée Dechambre]		
+orth	Génitaux (Organes)		
 pb	518	0522	4531848
 entry	Genito-crural (Nerf)		
 ref	Lombaire (Plexus)		
-entry	Genneté ou Genté (Claude-Léopold)		
-entry	Génoplastie		
+entry	Genneté ou Genté (Claude-Léopold) [L. Hahn]		
+orth	Genneté ou Genté (Claude-Léopold)		
+entry	Génoplastie [A. Courty]		
+orth	Génoplastie		
 pb	519	0523	4531849
 pb	520	0524	4531850
 pb	521	0525	4531851
@@ -745,7 +897,8 @@ pb	527	0531	4531857
 pb	528	0532	4531858
 pb	529	0533	4531859
 entry	Genou		
-entry	Genou. Anatomie		
+entry	Genou. Anatomie [E. Spillmann]		
+orth	Genou. Anatomie		
 pb	530	0534	4531860
 pb	531	0535	4531861
 pb	532	0536	4531862
@@ -756,10 +909,13 @@ pb	536	0540	4531866
 pb	537	0541	4531867
 pb	538	0542	4531868
 pb	539	0543	4531869
-entry	Genou. Physiologie		
+entry	Genou. Physiologie [E. Spillmann]		
+orth	Genou. Physiologie		
 pb	540	0544	4531870
-entry	Pathologie		
-entry	Genou. Pathologie. Contusions		
+entry	Pathologie [E. Spillmann]		
+orth	Pathologie		
+entry	Genou. Pathologie. Contusions [E. Spillmann]		
+orth	Genou. Pathologie. Contusions		
 pb	541	0545	4531871
 pb	542	0546	4531872
 pb	543	0547	4531873
@@ -773,7 +929,8 @@ pb	550	0554	4531880
 pb	551	0555	4531881
 pb	552	0556	4531882
 pb	553	0557	4531883
-entry	Genou. Pathologie. Plaies		
+entry	Genou. Pathologie. Plaies [E. Spillmann]		
+orth	Genou. Pathologie. Plaies		
 pb	554	0558	4531884
 pb	555	0559	4531885
 pb	556	0560	4531886
@@ -808,20 +965,25 @@ pb	584	0588	4531914
 pb	585	0589	4531915
 pb	586	0590	4531916
 pb	587	0591	4531917
-entry	Fractures		
-entry	Genou. Pathologie. Entorse		
+entry	[E. Spillmann]		
+entry	Fractures [E. Spillmann]		
+orth	Fractures		
+entry	Genou. Pathologie. Entorse [E. Spillmann]		
+orth	Genou. Pathologie. Entorse		
 pb	588	0592	4531918
 pb	589	0593	4531919
 pb	590	0594	4531920
 pb	591	0595	4531921
 pb	592	0596	4531922
 pb	593	0597	4531923
-entry	Genou. Pathologie. Diastasis		
+entry	Genou. Pathologie. Diastasis [E. Spillmann]		
+orth	Genou. Pathologie. Diastasis		
 pb	594	0598	4531924
 pb	595	0599	4531925
 pb	596	0600	4531926
 pb	597	0601	4531927
-entry	Genou. Pathologie. Luxations		
+entry	Genou. Pathologie. Luxations [E. Spillmann]		
+orth	Genou. Pathologie. Luxations		
 pb	598	0602	4531928
 pb	599	0603	4531929
 pb	600	0604	4531930
@@ -847,7 +1009,8 @@ pb	619	0623	4531949
 pb	620	0624	4531950
 pb	621	0625	4531951
 pb	622	0626	4531952
-entry	Genou. Pathologie. Maladies du genou		
+entry	Genou. Pathologie. Maladies du genou [E. Spillmann]		
+orth	Genou. Pathologie. Maladies du genou		
 pb	623	0627	4531953
 pb	624	0628	4531954
 pb	625	0629	4531955
@@ -875,7 +1038,8 @@ pb	646	0650	4531976
 pb	647	0651	4531977
 pb	648	0652	4531978
 pb	649	0653	4531979
-entry	Genou. Médecine opératoire		
+entry	Genou. Médecine opératoire [E. Spillmann]		
+orth	Genou. Médecine opératoire		
 pb	650	0654	4531980
 pb	651	0655	4531981
 pb	652	0656	4531982
@@ -901,7 +1065,8 @@ pb	671	0675	4532001
 pb	672	0676	4532002
 pb	673	0677	4532003
 pb	674	0678	4532004
-entry	Genou. Déviation en dedans du genou. Genou de cagneux. Genu valgum. Knoch-kuce. Bacckerbein		
+entry	Genou. Déviation en dedans du genou. Genou de cagneux. Genu valgum. Knoch-kuce. Bacckerbein [Pierre Bouland]		
+orth	Genou. Déviation en dedans du genou. Genou de cagneux. Genu valgum. Knoch-kuce. Bacckerbein		
 pb	675	0679	4532005
 pb	676	0680	4532006
 pb	677	0681	4532007
@@ -931,86 +1096,116 @@ pb	700	0704	4532030
 pb	701	0705	4532031
 pb	702	0706	4532032
 pb	703	0707	4532033
-entry	Genou. Déviation en dedans du genou. Genou de cagneux. Genu valgum. Knoch-kuce. Bacckerhein		
+entry	Genou. Déviation en dedans du genou. Genou de cagneux. Genu valgum. Knoch-kuce. Bacckerhein [Pierre Bouland]		
+orth	Genou. Déviation en dedans du genou. Genou de cagneux. Genu valgum. Knoch-kuce. Bacckerhein		
 pb	704	0708	4532034
-entry	Genouillière		
+entry	Genouillière [Amédée Dechambre]		
+orth	Genouillière		
 pb	705	0709	4532035
-entry	Genouillet		
-entry	Genre		
-entry	Gensana (Tommaso)		
-entry	Gensel (Johann-Adam)		
+entry	Genouillet [G. Planchon]		
+orth	Genouillet		
+entry	Genre [Amédée Dechambre]		
+orth	Genre		
+entry	Gensana (Tommaso) [L. Hahn]		
+orth	Gensana (Tommaso)		
+entry	Gensel (Johann-Adam) [L. Hahn]		
+orth	Gensel (Johann-Adam)		
 pb	706	0710	4532036
 entry	Gen-seng		
 ref	Gin-Seng		
-entry	Gensoul (Joseph)		
+entry	Gensoul (Joseph) [A. Chéreau]		
+orth	Gensoul (Joseph)		
 pb	707	0711	4532037
 pb	708	0712	4532038
-entry	Genssane (De)		
+entry	Genssane (De) [L. Hahn]		
+orth	Genssane (De)		
 entry	Gentiane		
-entry	Gentiane. Botanique		
+entry	Gentiane. Botanique [G. Planchon]		
+orth	Gentiane. Botanique		
 pb	709	0713	4532039
-entry	Gentiane. Emploi médical		
+entry	Gentiane. Emploi médical [Fonssagrives]		
+orth	Gentiane. Emploi médical		
 pb	710	0714	4532040
 pb	711	0715	4532041
 pb	712	0716	4532042
 pb	713	0717	4532043
 pb	714	0718	4532044
 pb	715	0719	4532045
-entry	Gentianées		
+entry	Gentianées [G. Planchon]		
+orth	Gentianées		
 entry	Gentianelle		
 ref	Gentiane		
 entry	Gentianique (Acide)		
 ref	Gentisin		
-entry	Gentil (Les deux)		
+entry	Gentil (Les deux) [L. Hahn]		
+orth	Gentil (Les deux)		
 pb	716	0720	4532046
 pb	717	0721	4532047
-entry	Gentile da Foligno		
+entry	Gentile da Foligno [L. Hahn]		
+orth	Gentile da Foligno		
 pb	718	0722	4532048
-entry	Gentile (Francesco)		
+entry	Gentile (Francesco) [L. Hahn]		
+orth	Gentile (Francesco)		
 entry	Gentiogénin		
 ref	Gentiopicrin		
-entry	Gentiopicrin		
+entry	Gentiopicrin [L. Hahn]		
+orth	Gentiopicrin		
 pb	719	0723	4532049
 entry	Gentiotannique (Acide)		
 ref	Gentiane		
 entry	Gentisin		
-entry	Gentisin. Chimie		
+entry	Gentisin. Chimie [L. Hahn]		
+orth	Gentisin. Chimie		
 pb	720	0724	4532050
 pb	721	0725	4532051
-entry	Gentisin. Emploi médical		
+entry	Gentisin. Emploi médical [L. Hahn]		
+orth	Gentisin. Emploi médical		
 pb	722	0726	4532052
 entry	Gentisique (Acide)		
 ref	Gentisin		
-entry	Géobdelle		
+entry	Géobdelle [Ed. Lefèvre]		
+orth	Géobdelle		
 pb	723	0727	4532053
-entry	Géocérine		
-entry	Géocérinique (Acide)		
-entry	Géocérinone		
-entry	Géocorises		
+entry	Géocérine [L. Hahn]		
+orth	Géocérine		
+entry	Géocérinique (Acide) [L. Hahn]		
+orth	Géocérinique (Acide)		
+entry	Géocérinone [L. Hahn]		
+orth	Géocérinone		
+entry	Géocorises [Ed. Lefèvre]		
+orth	Géocorises		
 pb	724	0728	4532054
 pb	725	0729	4532055
 pb	726	0730	4532056
 pb	727	0731	4532057
 pb	728	0732	4532058
-entry	Geoffrée		
+entry	Geoffrée [H. Baillon]		
+orth	Geoffrée		
 pb	729	0733	4532059
-entry	Geoffron (Jacques)		
-entry	Geoffroy (Les)		
+entry	Geoffron (Jacques) [L. Hahn]		
+orth	Geoffron (Jacques)		
+entry	Geoffroy (Les) [A. Chéreau]		
+orth	Geoffroy (Les)		
 pb	730	0734	4532060
 pb	731	0735	4532061
-entry	Geoffroy de Villeneuve (René-Claude)		
+entry	Geoffroy de Villeneuve (René-Claude) [L. Hahn]		
+orth	Geoffroy de Villeneuve (René-Claude)		
 pb	732	0736	4532062
-entry	Geoffroy Saint-Hilaire (Les deux)		
+entry	Geoffroy Saint-Hilaire (Les deux) [A. Chéreau]		
+orth	Geoffroy Saint-Hilaire (Les deux)		
 pb	733	0737	4532063
 pb	734	0738	4532064
 pb	735	0739	4532065
 pb	736	0740	4532066
 entry	Geoffroyer		
 ref	Geoffrée		
-entry	Geoffroyine ou Surinamine		
+entry	Geoffroyine ou Surinamine [L. Hahn]		
+orth	Geoffroyine ou Surinamine		
 pb	737	0741	4532067
-entry	Geoghegan (Les deux)		
-entry	Géoglosse		
+entry	Geoghegan (Les deux) [L. Hahn]		
+orth	Geoghegan (Les deux)		
+entry	Géoglosse [Ed. Lefèvre]		
+orth	Géoglosse		
 pb	[s. pag.]	0742	4532068
 pb	[s. pag.]	0743	4532069
 entry	Articles contenus dans le septième volume (4e série)		

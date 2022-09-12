@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4498415
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4498416
 pb	[s. pag.]	0003	4498417
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4498418
 pb	I	0005	4498419
-entry	Introduction 		
+entry	Introduction [Amédée Dechambre] 		
+orth	Introduction 		
 pb	II	0006	4498420
 pb	III	0007	4498421
 pb	IV	0008	4498422
@@ -44,32 +47,46 @@ pb	XXXVIII	0042	4498456
 pb	XXXIX	0043	4498457
 pb	XL	0044	4498458
 pb	XLI	0045	4498459
-entry	Introduction (bibliographie: lexiques)		
+entry	Introduction [Amédée Dechambre] (bibliographie: lexiques)		
+orth	Introduction (bibliographie: lexiques)		
 pb	XLII	0046	4498460
-entry	Introduction		
+entry	Introduction [Amédée Dechambre]		
+orth	Introduction		
 pb	XLIII	0047	4498461
-entry	Introduction (bibliographie: lexiques-dictionnaires)		
+entry	Introduction [Amédée Dechambre] (bibliographie: lexiques-dictionnaires)		
+orth	Introduction (bibliographie: lexiques-dictionnaires)		
 pb	XLIV	0048	4498462
-entry	Introduction		
+entry	Introduction [Amédée Dechambre]		
+orth	Introduction		
 pb	XLV	0049	4498463
-entry	Introduction (bibliographie: dictionnaires)		
+entry	Introduction [Amédée Dechambre] (bibliographie: dictionnaires)		
+orth	Introduction (bibliographie: dictionnaires)		
 pb	XLVI	0050	4498464
-entry	Introduction		
+entry	Introduction [Amédée Dechambre]		
+orth	Introduction		
 pb	XLVII	0051	4498465
 pb	XLVIII	0052	4498466
 pb	1	0053	4498467
 entry	Aachen (Eaux minérales d')		
 ref	Aix-la-Chapelle		
-entry	Aans		
-entry	Aaron ou Ahron		
-entry	Aaskow (Urban Brunn)		
+entry	Aans [H. Baillon]		
+orth	Aans		
+entry	Aaron ou Ahron [Ch. Daremberg]		
+orth	Aaron ou Ahron		
+entry	Aaskow (Urban Brunn) [Raige-Delorme]		
+orth	Aaskow (Urban Brunn)		
 pb	2	0054	4498468
-entry	Abaca		
-entry	Abaisse-langues		
+entry	Abaca [H. Baillon]		
+orth	Abaca		
+entry	Abaisse-langues [Léon Lefort]		
+orth	Abaisse-langues		
 pb	3	0055	4498469
-entry	Abaisseur		
-entry	Abama		
-entry	Abano (Eaux minérales d')		
+entry	Abaisseur [Léon Lefort]		
+orth	Abaisseur		
+entry	Abama [H. Baillon]		
+orth	Abama		
+entry	Abano (Eaux minérales d') [A. Rotureau]		
+orth	Abano (Eaux minérales d')		
 pb	4	0056	4498470
 pb	5	0057	4498471
 pb	6	0058	4498472
@@ -78,16 +95,20 @@ pb	8	0060	4498474
 pb	9	0061	4498475
 entry	Abano (Pierre)		
 ref	Pietro d'Abano		
-entry	Abbate ou Abbati (Balde Angelo d')		
+entry	Abbate ou Abbati (Balde Angelo d') [Raige-Delorme]		
+orth	Abbate ou Abbati (Balde Angelo d')		
 entry	Abattement		
 ref	Forces (état des)		
-entry	Abattoirs		
+entry	Abattoirs [E. Beaugrand]		
+orth	Abattoirs		
 pb	10	0062	4498476
 pb	11	0063	4498477
 pb	12	0064	4498478
-entry	Abbecourt (Eaux minérales d')		
+entry	Abbecourt (Eaux minérales d') [A. Rotureau]		
+orth	Abbecourt (Eaux minérales d')		
 pb	13	0065	4498479
-entry	Abcès		
+entry	Abcès [C. Denonvilliers]		
+orth	Abcès		
 pb	14	0066	4498480
 pb	15	0067	4498481
 pb	16	0068	4498482
@@ -142,15 +163,18 @@ pb	64	0116	4498530
 pb	65	0117	4498531
 pb	66	0118	4498532
 pb	67	0119	4498533
-entry	Abcès. Histoire et bibliographie des abcès		
+entry	Abcès [C. Denonvilliers]. Histoire et bibliographie des abcès [Raige-Delorme]		
+orth	Abcès. Histoire et bibliographie des abcès		
 pb	68	0120	4498534
 pb	69	0121	4498535
 pb	70	0122	4498536
 pb	71	0123	4498537
 pb	72	0124	4498538
-entry	Abdomen		
+entry	Abdomen [Léon Lefort, Campana, Liégeois]		
+orth	Abdomen		
 pb	73	0125	4498539
-entry	Abdomen. Anatomie et physiologie		
+entry	Abdomen. Anatomie et physiologie [Léon Lefort, Campana, Liégeois]		
+orth	Abdomen. Anatomie et physiologie		
 pb	74	0126	4498540
 pb	75	0127	4498541
 pb	76	0128	4498542
@@ -176,7 +200,8 @@ pb	95	0147	4498561
 pb	96	0148	4498562
 pb	97	0149	4498563
 pb	98	0150	4498564
-entry	Abdomen. Pathologie médicale		
+entry	Abdomen. Pathologie médicale [Axenfeld, Potain]		
+orth	Abdomen. Pathologie médicale		
 pb	99	0151	4498565
 pb	100	0152	4498566
 pb	101	0153	4498567
@@ -214,9 +239,14 @@ pb	132	0184	4498598
 pb	133	0185	4498599
 pb	134	0186	4498600
 pb	135	0187	4498601
+entry	Abdomen. Pathologie médicale [Axenfeld, Potain] [Raige-Delorme]		
+orth	Abdomen. Pathologie médicale		
 pb	136	0188	4498602
 pb	137	0189	4498603
-entry	Abdomen. Pathologie chirurgicale		
+entry	Abdomen. Pathologie médicale [Axenfeld, Potain]		
+orth	Abdomen. Pathologie médicale		
+entry	Abdomen. Pathologie chirurgicale [E. Follin, F. Guyon]		
+orth	Abdomen. Pathologie chirurgicale		
 pb	138	0190	4498604
 pb	139	0191	4498605
 pb	140	0192	4498606
@@ -273,33 +303,50 @@ pb	190	0242	4498656
 pb	191	0243	4498657
 pb	192	0244	4498658
 pb	193	0245	4498659
+entry	Abdomen. Pathologie chirurgicale [E. Follin, F. Guyon] [Raige-Delorme]		
+orth	Abdomen. Pathologie chirurgicale		
 pb	194	0246	4498660
-entry	Abducteur		
+entry	Abducteur [Léon Lefort]		
+orth	Abducteur		
 pb	195	0247	4498661
-entry	Abduction		
-entry	Abeille (Apis)		
+entry	Abduction [Léon Lefort]		
+orth	Abduction		
+entry	Abeille (Apis) [J. Léon Soubeiran]		
+orth	Abeille (Apis)		
 pb	196	0248	4498662
 pb	197	0249	4498663
 pb	198	0250	4498664
 pb	199	0251	4498665
 pb	200	0252	4498666
-entry	Abeille (Scipion)		
-entry	Abel (Jacob-Fréd.)		
-entry	Abelasie		
-entry	Abelmeluch, Abelmoluch		
-entry	Abelmosch		
+entry	Abeille (Scipion) [E. Beaugrand]		
+orth	Abeille (Scipion)		
+entry	Abel (Jacob-Fréd.) [E. Beaugrand]		
+orth	Abel (Jacob-Fréd.)		
+entry	Abelasie [H. Baillon]		
+orth	Abelasie		
+entry	Abelmeluch, Abelmoluch [H. Baillon]		
+orth	Abelmeluch, Abelmoluch		
+entry	Abelmosch [H. Baillon]		
+orth	Abelmosch		
 pb	201	0253	4498667
-entry	Abenguefit		
-entry	Abercrombie (John)		
+entry	Abenguefit [Raige-Delorme]		
+orth	Abenguefit		
+entry	Abercrombie (John) [E. Beaugrand]		
+orth	Abercrombie (John)		
 pb	202	0254	4498668
-entry	Abercromby (David)		
-entry	Abernethy (John)		
+entry	Abercromby (David) [E. Beaugrand]		
+orth	Abercromby (David)		
+entry	Abernethy (John) [E. Beaugrand]		
+orth	Abernethy (John)		
 pb	203	0255	4498669
-entry	Abies		
-entry	Abildgaard (Pierre-Chrétien)		
+entry	Abies [H. Baillon]		
+orth	Abies		
+entry	Abildgaard (Pierre-Chrétien) [E. Beaugrand]		
+orth	Abildgaard (Pierre-Chrétien)		
 entry	Abimeron		
 ref	Avenzoar		
-entry	Ablution		
+entry	Ablution [E. Beaugrand]		
+orth	Ablution		
 entry	Abnormité		
 ref	Anomalie		
 pb	204	0256	4498670
@@ -307,16 +354,22 @@ entry	Aboali
 ref	Avicenne		
 entry	Abortif		
 entry	Aboussenna		
-entry	Abrasin		
-entry	Abrasion		
-entry	Abricot, Abricotier		
+entry	Abrasin [H. Baillon]		
+orth	Abrasin		
+entry	Abrasion [Léon Lefort]		
+orth	Abrasion		
+entry	Abricot, Abricotier [H. Baillon]		
+orth	Abricot, Abricotier		
 pb	205	0257	4498671
-entry	Abrotanum, Abrotone		
-entry	Abrus		
+entry	Abrotanum, Abrotone [H. Baillon]		
+orth	Abrotanum, Abrotone		
+entry	Abrus [H. Baillon]		
+orth	Abrus		
 pb	206	0258	4498672
 entry	Absac (Eaux minérales d')		
 ref	Avails		
-entry	Absinthe		
+entry	Absinthe [O. Reveil, Debout]		
+orth	Absinthe		
 pb	207	0259	4498673
 pb	208	0260	4498674
 pb	209	0261	4498675
@@ -324,14 +377,18 @@ pb	210	0262	4498676
 pb	211	0263	4498677
 pb	212	0264	4498678
 pb	213	0265	4498679
-entry	Absorbants		
+entry	Absorbants [A. Gubler]		
+orth	Absorbants		
 pb	214	0266	4498680
 pb	215	0267	4498681
 pb	216	0268	4498682
+entry	Absorbants [A. Gubler] [Raige-Delorme]		
+orth	Absorbants		
 pb	217	0269	4498683
 entry	Absorbants (vaisseaux)		
 ref	Lymphatiques		
-entry	Absorption		
+entry	Absorption [Jules Béclard]		
+orth	Absorption		
 pb	218	0270	4498684
 pb	219	0271	4498685
 pb	220	0272	4498686
@@ -360,18 +417,22 @@ pb	242	0294	4498708
 pb	243	0295	4498709
 pb	244	0296	4498710
 pb	245	0297	4498711
-entry	Abstinence		
+entry	Abstinence [E. Beaugrand]		
+orth	Abstinence		
 entry	Absus		
 entry	Abubekr		
 ref	Rhazès		
 entry	Abulkasem		
 ref	Albucasis		
-entry	Abuta		
+entry	Abuta [H. Baillon]		
+orth	Abuta		
 pb	246	0298	4498712
-entry	Abutilon		
+entry	Abutilon [H. Baillon]		
+orth	Abutilon		
 entry	Abu Zeid Honain		
 ref	Joannitius		
-entry	Abyssinie ou Habesh		
+entry	Abyssinie ou Habesh [E. Dally]		
+orth	Abyssinie ou Habesh		
 pb	247	0299	4498713
 pb	248	0300	4498714
 pb	249	0301	4498715
@@ -380,8 +441,10 @@ pb	251	0303	4498717
 pb	252	0304	4498718
 pb	253	0305	4498719
 pb	254	0306	4498720
-entry	Acacali		
-entry	Acacia		
+entry	Acacali [H. Baillon]		
+orth	Acacali		
+entry	Acacia [H. Baillon]		
+orth	Acacia		
 pb	255	0307	4498721
 pb	256	0308	4498722
 pb	257	0309	4498723
@@ -396,28 +459,40 @@ entry	Acadie
 ref	Écosse (Nouvelle-)		
 entry	Acaja		
 ref	Spondias		
-entry	Acajou		
+entry	Acajou [H. Baillon]		
+orth	Acajou		
 pb	263	0315	4498729
-entry	Acajuba		
-entry	Acalypha		
+entry	Acajuba [H. Baillon]		
+orth	Acajuba		
+entry	Acalypha [H. Baillon]		
+orth	Acalypha		
 pb	264	0316	4498730
-entry	Acampo (Simon)		
-entry	Acanthacées		
-entry	Acanthe		
+entry	Acampo (Simon) [E. Beaugrand]		
+orth	Acampo (Simon)		
+entry	Acanthacées [H. Baillon]		
+orth	Acanthacées		
+entry	Acanthe [H. Baillon]		
+orth	Acanthe		
 pb	265	0317	4498731
-entry	Acares, - Acariens		
+entry	Acares, - Acariens [A. Laboulbène]		
+orth	Acares, - Acariens		
 pb	266	0318	4498732
 pb	267	0319	4498733
-entry	Acarna		
-entry	Acaropse		
+entry	Acarna [H. Baillon]		
+orth	Acarna		
+entry	Acaropse [A. Laboulbène]		
+orth	Acaropse		
 pb	268	0320	4498734
 entry	Accablement		
 ref	Forces (état des)		
-entry	Accès		
+entry	Accès [B. Brochin]		
+orth	Accès		
 pb	269	0321	4498735
 pb	270	0322	4498736
-entry	Accessoire (Muscle)		
-entry	Acclimatement, Acclimatation		
+entry	Accessoire (Muscle) [Léon Lefort]		
+orth	Accessoire (Muscle)		
+entry	Acclimatement, Acclimatation [Jacques Bertillon]		
+orth	Acclimatement, Acclimatation		
 pb	271	0323	4498737
 pb	272	0324	4498738
 pb	273	0325	4498739
@@ -471,7 +546,8 @@ pb	320	0372	4498786
 pb	321	0373	4498787
 pb	322	0374	4498788
 pb	323	0375	4498789
-entry	Accommodation		
+entry	Accommodation [Giraud-Teulon]		
+orth	Accommodation		
 pb	324	0376	4498790
 pb	325	0377	4498791
 pb	326	0378	4498792
@@ -492,10 +568,12 @@ pb	340	0392	4498806
 pb	341	0393	4498807
 pb	342	0394	4498808
 entry	Accoromboni (Jérôme)		
-entry	Accouchement		
+entry	Accouchement [Depaul]		
+orth	Accouchement		
 pb	343	0395	4498809
 pb	344	0396	4498810
-entry	Accouchement. De l'accouchement physiologique envisagé d'une manière générale		
+entry	Accouchement. De l'accouchement physiologique envisagé d'une manière générale [Depaul]		
+orth	Accouchement. De l'accouchement physiologique envisagé d'une manière générale		
 pb	345	0397	4498811
 pb	346	0398	4498812
 pb	347	0399	4498813
@@ -529,7 +607,8 @@ pb	374	0426	4498840
 pb	375	0427	4498841
 pb	376	0428	4498842
 pb	377	0429	4498843
-entry	Accouchement. Phénomènes mécaniques de l'accouchement		
+entry	Accouchement. Phénomènes mécaniques de l'accouchement [Pajot]		
+orth	Accouchement. Phénomènes mécaniques de l'accouchement		
 pb	378	0430	4498844
 pb	379	0431	4498845
 pb	380	0432	4498846
@@ -559,7 +638,8 @@ pb	403	0455	4498869
 pb	404	0456	4498870
 pb	405	0457	4498871
 pb	406	0458	4498872
-entry	Accouchement. Des soins à donner à la femme pendant l'accouchement physiologique		
+entry	Accouchement. Des soins à donner à la femme pendant l'accouchement physiologique [Depaul]		
+orth	Accouchement. Des soins à donner à la femme pendant l'accouchement physiologique		
 pb	407	0459	4498873
 pb	408	0460	4498874
 pb	409	0461	4498875
@@ -574,11 +654,14 @@ pb	417	0469	4498883
 pb	418	0470	4498884
 pb	419	0471	4498885
 pb	420	0472	4498886
+entry	Accouchement. Des soins à donner à la femme pendant l'accouchement physiologique [Depaul] [Raige-Delorme]		
+orth	Accouchement. Des soins à donner à la femme pendant l'accouchement physiologique		
 pb	421	0473	4498887
 pb	422	0474	4498888
 pb	423	0475	4498889
 pb	424	0476	4498890
-entry	Accouchement. Accouchement prématuré artificiel, accouchement provoqué		
+entry	Accouchement. Accouchement prématuré artificiel, accouchement provoqué [Jacquemier]		
+orth	Accouchement. Accouchement prématuré artificiel, accouchement provoqué		
 pb	425	0477	4498891
 pb	426	0478	4498892
 pb	427	0479	4498893
@@ -600,9 +683,12 @@ pb	442	0494	4498908
 pb	443	0495	4498909
 pb	444	0496	4498910
 pb	445	0497	4498911
+entry	Accouchement. Accouchement prématuré artificiel, accouchement provoqué [Jacquemier] [Jacquemier, Raige-Delorme]		
+orth	Accouchement. Accouchement prématuré artificiel, accouchement provoqué		
 pb	446	0498	4498912
 pb	447	0499	4498913
-entry	Accouchement. De l'accouchement considéré sous le rapport de la médecine légale		
+entry	Accouchement. De l'accouchement considéré sous le rapport de la médecine légale [G. Tourdes]		
+orth	Accouchement. De l'accouchement considéré sous le rapport de la médecine légale		
 pb	448	0500	4498914
 pb	449	0501	4498915
 pb	450	0502	4498916
@@ -649,12 +735,15 @@ ref	Obstétricie
 entry	Accoucheur, Accoucheuse		
 ref	Obstétricie		
 ref	Sage-femme		
-entry	Accroissement		
+entry	Accroissement [Jules Béclard]		
+orth	Accroissement		
 pb	484	0536	4498950
-entry	Accum (Friedrich)		
+entry	Accum (Friedrich) [E. Beaugrand]		
+orth	Accum (Friedrich)		
 entry	Acéphale, Acéphalie		
 pb	485	0537	4498951
-entry	Acéphaliens (Monstres)		
+entry	Acéphaliens (Monstres) [Simon Duplay]		
+orth	Acéphaliens (Monstres)		
 pb	486	0538	4498952
 pb	487	0539	4498953
 pb	488	0540	4498954
@@ -666,11 +755,15 @@ pb	493	0545	4498959
 entry	Acéphalocyste		
 entry	Acer		
 ref	Érable		
-entry	Aceras		
-entry	Acerdèse		
-entry	Acérinées		
+entry	Aceras [H. Baillon]		
+orth	Aceras		
+entry	Acerdèse [O. Reveil]		
+orth	Acerdèse		
+entry	Acérinées [H. Baillon]		
+orth	Acérinées		
 entry	Acervules		
-entry	Acescence		
+entry	Acescence [A. Gubler]		
+orth	Acescence		
 pb	494	0546	4498960
 pb	495	0547	4498961
 pb	496	0548	4498962
@@ -684,79 +777,106 @@ pb	503	0555	4498969
 pb	504	0556	4498970
 pb	505	0557	4498971
 pb	506	0558	4498972
-entry	Acétamide		
+entry	Acétamide [C. Lutz]		
+orth	Acétamide		
 pb	507	0559	4498973
-entry	Acétates		
-entry	Acétification		
+entry	Acétates [L. Pasteur]		
+orth	Acétates		
+entry	Acétification [L. Pasteur]		
+orth	Acétification		
 pb	508	0560	4498974
 pb	509	0561	4498975
-entry	Acétimétrie		
+entry	Acétimétrie [O. Reveil]		
+orth	Acétimétrie		
 pb	510	0562	4498976
 pb	511	0563	4498977
 entry	Acétique (Acide)		
-entry	Acétique (Acide). Chimie		
+entry	Acétique (Acide). Chimie [L. Pasteur]		
+orth	Acétique (Acide). Chimie		
 pb	512	0564	4498978
 pb	513	0565	4498979
-entry	Acétique (Acide). Pharmacologie		
+entry	Acétique (Acide). Pharmacologie [O. Reveil]		
+orth	Acétique (Acide). Pharmacologie		
 pb	514	0566	4498980
 pb	515	0567	4498981
-entry	Acétique (Acide). Thérapeutique		
+entry	Acétique (Acide). Thérapeutique [Debout]		
+orth	Acétique (Acide). Thérapeutique		
 pb	516	0568	4498982
-entry	Acétique (Acide). Toxicologie		
+entry	Acétique (Acide). Toxicologie [L. Orfila]		
+orth	Acétique (Acide). Toxicologie		
 pb	517	0569	4498983
 pb	518	0570	4498984
-entry	Acétone		
+entry	Acétone [F. Malaguti]		
+orth	Acétone		
 pb	519	0571	4498985
 pb	520	0572	4498986
 pb	521	0573	4498987
-entry	Ache (Apium)		
+entry	Ache (Apium) [H. Baillon]		
+orth	Ache (Apium)		
 pb	522	0574	4498988
-entry	Ache. Pharmacologie		
+entry	Ache. Pharmacologie [O. Reveil]		
+orth	Ache. Pharmacologie		
 pb	523	0575	4498989
-entry	Achillée		
+entry	Achillée [H. Baillon]		
+orth	Achillée		
 pb	524	0576	4498990
-entry	Achillée. Pharmacologie		
+entry	Achillée. Pharmacologie [O. Reveil]		
+orth	Achillée. Pharmacologie		
 pb	525	0577	4498991
-entry	Achilléine		
+entry	Achilléine [O. Reveil]		
+orth	Achilléine		
 entry	Achilléis d'hippocrate		
 ref	Orge		
-entry	Achillini (Alexandre)		
+entry	Achillini (Alexandre) [A. Chéreau]		
+orth	Achillini (Alexandre)		
 pb	526	0578	4498992
 entry	Achiras		
 entry	Achlys		
 entry	Acholie		
-entry	Achores		
+entry	Achores [E. Beaugrand]		
+orth	Achores		
 pb	527	0579	4498993
-entry	Achorion		
+entry	Achorion [Robin, Legros]		
+orth	Achorion		
 pb	528	0580	4498994
 pb	529	0581	4498995
 pb	530	0582	4498996
 pb	531	0583	4498997
-entry	Achras		
-entry	Achromatisme		
+entry	Achras [Baillon]		
+orth	Achras		
+entry	Achromatisme [J. Gavarret]		
+orth	Achromatisme		
 pb	532	0584	4498998
-entry	Achromatopsie		
-entry	Achromie		
+entry	Achromatopsie [E. Warlomont]		
+orth	Achromatopsie		
+entry	Achromie [Bazin]		
+orth	Achromie		
 pb	533	0585	4498999
 pb	534	0586	4499000
 pb	535	0587	4499001
-entry	Achyrantre ou Cadelari		
+entry	Achyrantre ou Cadelari [H. Baillon]		
+orth	Achyrantre ou Cadelari		
 pb	536	0588	4499002
 entry	Acides		
-entry	Acides. Chimie		
+entry	Acides. Chimie [Ad. Wurtz]		
+orth	Acides. Chimie		
 pb	537	0589	4499003
 pb	538	0590	4499004
-entry	Acides. Thérapeutique		
+entry	Acides. Thérapeutique [Debout]		
+orth	Acides. Thérapeutique		
 pb	539	0591	4499005
-entry	Acides. Toxicologie		
+entry	Acides. Toxicologie [L. Orfila]		
+orth	Acides. Toxicologie		
 pb	540	0592	4499006
-entry	Acides alcoolisés		
+entry	Acides alcoolisés [J. Regnauld]		
+orth	Acides alcoolisés		
 pb	541	0593	4499007
 entry	Acidités		
 ref	Acescence		
 ref	Acrimonie		
 ref	Pyrosis		
-entry	Acidules		
+entry	Acidules [A. Gubler]		
+orth	Acidules		
 pb	542	0594	4499008
 pb	543	0595	4499009
 pb	544	0596	4499010
@@ -765,23 +885,32 @@ pb	546	0598	4499012
 pb	547	0599	4499013
 pb	548	0600	4499014
 pb	549	0601	4499015
-entry	Acier - Aciération		
+entry	Acier - Aciération [L. Grandeau]		
+orth	Acier - Aciération		
 pb	550	0602	4499016
 pb	551	0603	4499017
 pb	552	0604	4499018
 pb	553	0605	4499019
-entry	Acier (hygiène professionnelle)		
+entry	Acier (hygiène professionnelle) [E. Beaugrand]		
+orth	Acier (hygiène professionnelle)		
 pb	554	0606	4499020
-entry	Acini		
+entry	Acini [Cornil]		
+orth	Acini		
 entry	Acinos.		
-entry	Ackermann (Joh.-Christ.-Gottlieb)		
+entry	Ackermann (Joh.-Christ.-Gottlieb) [E. Beaugrand]		
+orth	Ackermann (Joh.-Christ.-Gottlieb)		
 pb	555	0607	4499021
 pb	556	0608	4499022
-entry	Ackermann (Jacobus-Fidelis)		
-entry	Ackermann (Johann-Friederich)		
-entry	Eckermann (Joh.-Karl-Heinr.)		
-entry	Ackermann (Karl-Wilh.)		
-entry	Acné		
+entry	Ackermann (Jacobus-Fidelis) [E. Beaugrand]		
+orth	Ackermann (Jacobus-Fidelis)		
+entry	Ackermann (Johann-Friederich) [E. Beaugrand]		
+orth	Ackermann (Johann-Friederich)		
+entry	Eckermann (Joh.-Karl-Heinr.) [E. Beaugrand]		
+orth	Eckermann (Joh.-Karl-Heinr.)		
+entry	Ackermann (Karl-Wilh.) [E. Beaugrand]		
+orth	Ackermann (Karl-Wilh.)		
+entry	Acné [Bazin]		
+orth	Acné		
 pb	557	0609	4499023
 pb	558	0610	4499024
 pb	559	0611	4499025
@@ -797,20 +926,26 @@ pb	568	0620	4499034
 pb	569	0621	4499035
 pb	570	0622	4499036
 pb	571	0623	4499037
-entry	Acné syphilitique		
+entry	Acné syphilitique [J. Rollet]		
+orth	Acné syphilitique		
 pb	572	0624	4499038
 pb	573	0625	4499039
 pb	574	0626	4499040
+entry	Acné syphilitique [J. Rollet] [E. Beaugrand]		
+orth	Acné syphilitique		
 entry	Acomas.		
 entry	Aconit		
-entry	Aconit. Botanique		
+entry	Aconit. Botanique [H. Baillon]		
+orth	Aconit. Botanique		
 pb	575	0627	4499041
 pb	576	0628	4499042
 pb	577	0629	4499043
-entry	Aconit. Pharmacologie		
+entry	Aconit. Pharmacologie [O. Reveil]		
+orth	Aconit. Pharmacologie		
 pb	578	0630	4499044
 pb	579	0631	4499045
-entry	Aconit. Thérapeutique		
+entry	Aconit. Thérapeutique [Debout]		
+orth	Aconit. Thérapeutique		
 pb	580	0632	4499046
 pb	581	0633	4499047
 pb	582	0634	4499048
@@ -827,36 +962,49 @@ pb	592	0644	4499058
 pb	593	0645	4499059
 pb	594	0646	4499060
 pb	595	0647	4499061
-entry	Aconit. Toxicologie		
+entry	Aconit. Toxicologie [O. Reveil]		
+orth	Aconit. Toxicologie		
 pb	596	0648	4499062
 pb	597	0649	4499063
+entry	Aconit. Toxicologie [O. Reveil] [Raige-Delorme]		
+orth	Aconit. Toxicologie		
 pb	598	0650	4499064
-entry	Aconitine		
+entry	Aconitine [O. Reveil]		
+orth	Aconitine		
 pb	599	0651	4499065
-entry	Aconitine. Thérapeutique		
+entry	Aconitine. Thérapeutique [Debout]		
+orth	Aconitine. Thérapeutique		
 pb	600	0652	4499066
 pb	601	0653	4499067
 pb	602	0654	4499068
 pb	603	0655	4499069
 pb	604	0656	4499070
 pb	605	0657	4499071
-entry	Aconitine. Toxicologie		
+entry	Aconitine. Toxicologie [O. Reveil] [Raige-Delorme]		
+orth	Aconitine. Toxicologie		
 pb	606	0658	4499072
-entry	Aconitique (Acide)		
+entry	Aconitique (Acide) [C. Lutz]		
+orth	Aconitique (Acide)		
 pb	607	0659	4499073
-entry	Acore (Acorus L.)		
+entry	Acore (Acorus L.) [H. Baillon]		
+orth	Acore (Acorus L.)		
 pb	608	0660	4499074
-entry	Acore (Acorus L.). Pharmacologie et Thérapeutique		
+entry	Acore (Acorus L.) [H. Baillon]. Pharmacologie et Thérapeutique [O. Reveil]		
+orth	Acore (Acorus L.). Pharmacologie et Thérapeutique		
 pb	609	0661	4499075
-entry	Açores		
+entry	Açores [Bertillon, Guillard]		
+orth	Açores		
 pb	610	0662	4499076
 pb	611	0663	4499077
 pb	612	0664	4499078
-entry	Acotylédones, Acotylédonie		
+entry	Acotylédones, Acotylédonie [H. Baillon]		
+orth	Acotylédones, Acotylédonie		
 pb	613	0665	4499079
-entry	Acoumètre		
+entry	Acoumètre [J. Gavarret]		
+orth	Acoumètre		
 pb	614	0666	4499080
-entry	Acoustique		
+entry	Acoustique [J. Gavarret]		
+orth	Acoustique		
 pb	615	0667	4499081
 pb	616	0668	4499082
 pb	617	0669	4499083
@@ -888,23 +1036,31 @@ pb	642	0694	4499108
 pb	643	0695	4499109
 pb	644	0696	4499110
 pb	645	0697	4499111
-entry	Acque Albule, près Tivoli		
+entry	Acque Albule, près Tivoli [A. Rotureau]		
+orth	Acque Albule, près Tivoli		
 pb	646	0698	4499112
 pb	647	0699	4499113
-entry	Acqui (Eaux minérales d')		
+entry	Acqui (Eaux minérales d') [A. Rotureau]		
+orth	Acqui (Eaux minérales d')		
 pb	648	0700	4499114
 pb	649	0701	4499115
 pb	650	0702	4499116
 pb	651	0703	4499117
 pb	652	0704	4499118
 pb	653	0705	4499119
-entry	Acrel (Olof)		
-entry	Acrel (J. Gust)		
-entry	Acrel (Olof)		
-entry	Acres		
+entry	Acrel (Olof) [E. Beaugrand]		
+orth	Acrel (Olof)		
+entry	Acrel (J. Gust) [E. Beaugrand]		
+orth	Acrel (J. Gust)		
+entry	Acrel (Olof) [E. Beaugrand]		
+orth	Acrel (Olof)		
+entry	Acres [A. Gubler]		
+orth	Acres		
 pb	654	0706	4499120
-entry	Acreté, Acrimonie		
-entry	Acrodynie		
+entry	Acreté, Acrimonie [A. Gubler]		
+orth	Acreté, Acrimonie		
+entry	Acrodynie [Émile Vidal]		
+orth	Acrodynie		
 pb	655	0707	4499121
 pb	656	0708	4499122
 pb	657	0709	4499123
@@ -915,25 +1071,38 @@ pb	661	0713	4499127
 pb	662	0714	4499128
 pb	663	0715	4499129
 pb	664	0716	4499130
-entry	Acrobystite		
-entry	Acromio-claviculaire (Articulation)		
-entry	Acromion		
-entry	Acromio-thoracique		
-entry	Acrostic		
+entry	Acrobystite [Amédée Dechambre]		
+orth	Acrobystite		
+entry	Acromio-claviculaire (Articulation) [Amédée Dechambre]		
+orth	Acromio-claviculaire (Articulation)		
+entry	Acromion [Amédée Dechambre]		
+orth	Acromion		
+entry	Acromio-thoracique [Amédée Dechambre]		
+orth	Acromio-thoracique		
+entry	Acrostic [H. Baillon]		
+orth	Acrostic		
 pb	665	0717	4499131
-entry	Pharmacologie		
-entry	Acrothymiose		
-entry	Actaea		
+entry	Pharmacologie [O. Reveil]		
+orth	Pharmacologie		
+entry	Acrothymiose [Amédée Dechambre]		
+orth	Acrothymiose		
+entry	Actaea [H. Baillon]		
+orth	Actaea		
 pb	666	0718	4499132
 pb	667	0719	4499133
-entry	Actinie		
+entry	Actinie [A. Laboulbène]		
+orth	Actinie		
 pb	668	0720	4499134
-entry	Actinozoaires		
-entry	Actuarius		
-entry	Acupressure		
+entry	Actinozoaires [A. Laboulbène]		
+orth	Actinozoaires		
+entry	Actuarius [A. W. Greenhill, Ch. Daremberg]		
+orth	Actuarius		
+entry	Acupressure [A. Dubrueil]		
+orth	Acupressure		
 pb	669	0721	4499135
 pb	670	0722	4499136
-entry	Acupuncture		
+entry	Acupuncture [Debout]		
+orth	Acupuncture		
 pb	671	0723	4499137
 pb	672	0724	4499138
 pb	673	0725	4499139
@@ -951,27 +1120,41 @@ pb	684	0736	4499150
 pb	685	0737	4499151
 pb	686	0738	4499152
 pb	687	0739	4499153
+entry	Acupuncture [Debout] [Raige-Delorme]		
+orth	Acupuncture		
 pb	688	0740	4499154
-entry	Ada		
-entry	Adair (James-Makittrik)		
-entry	Adams (Joseph)		
+entry	Ada [H. Baillon]		
+orth	Ada		
+entry	Adair (James-Makittrik) [E. Beaugrand]		
+orth	Adair (James-Makittrik)		
+entry	Adams (Joseph) [E. Beaugrand]		
+orth	Adams (Joseph)		
 pb	689	0741	4499155
-entry	Adams (William)		
-entry	Adamucci (A.)		
-entry	Adanson (Michel)		
+entry	Adams (William) [E. Beaugrand]		
+orth	Adams (William)		
+entry	Adamucci (A.) [E. Beaugrand]		
+orth	Adamucci (A.)		
+entry	Adanson (Michel) [H. Baillon]		
+orth	Adanson (Michel)		
 pb	690	0742	4499156
 pb	691	0743	4499157
-entry	Adansonia		
+entry	Adansonia [H. Baillon]		
+orth	Adansonia		
 pb	692	0744	4499158
-entry	Addington (Anthony)		
-entry	Adducteur		
+entry	Addington (Anthony) [E. Beaugrand]		
+orth	Addington (Anthony)		
+entry	Adducteur [Léon Lefort]		
+orth	Adducteur		
 pb	693	0745	4499159
-entry	Adelon (Nicolas-Philibert)		
+entry	Adelon (Nicolas-Philibert) [E. Beaugrand]		
+orth	Adelon (Nicolas-Philibert)		
 pb	694	0746	4499160
-entry	Adenandra		
+entry	Adenandra [H. Baillon]		
+orth	Adenandra		
 entry	Adenanthera		
 ref	Condori		
-entry	Adénite		
+entry	Adénite [Velpeau]		
+orth	Adénite		
 pb	695	0747	4499161
 pb	696	0748	4499162
 pb	697	0749	4499163
@@ -995,8 +1178,11 @@ pb	714	0766	4499180
 pb	715	0767	4499181
 pb	716	0768	4499182
 pb	717	0769	4499183
+entry	Adénite [Velpeau] [Raige-Delorme]		
+orth	Adénite		
 pb	718	0770	4499184
-entry	Adénomes		
+entry	Adénomes [Paul Broca]		
+orth	Adénomes		
 pb	719	0771	4499185
 pb	720	0772	4499186
 pb	721	0773	4499187

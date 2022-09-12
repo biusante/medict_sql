@@ -1,24 +1,31 @@
 pb	[s. pag.]	0001	4589369
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4589370
 pb	[s. pag.]	0003	4589371
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4589372
 pb	1	0005	4589373
-entry	Sterno-thyroïdien		
+entry	Sterno-thyroïdien [A. Le Double]		
+orth	Sterno-thyroïdien		
 pb	2	0006	4589374
 pb	3	0007	4589375
 entry	Sternum		
-entry	Sternum. Anatomie		
+entry	Sternum. Anatomie [Servier]		
+orth	Sternum. Anatomie		
 pb	4	0008	4589376
 pb	5	0009	4589377
 pb	6	0010	4589378
 pb	7	0011	4589379
-entry	Sternum. Physiologie		
+entry	Sternum. Physiologie [Servier]		
+orth	Sternum. Physiologie		
 pb	8	0012	4589380
-entry	Sternum. Anomalies et difformités congénitales ou acquises		
+entry	Sternum. Anomalies et difformités congénitales ou acquises [Servier]		
+orth	Sternum. Anomalies et difformités congénitales ou acquises		
 pb	9	0013	4589381
 pb	10	0014	4589382
 pb	11	0015	4589383
-entry	Sternum. Pathologie		
+entry	Sternum. Pathologie [Servier]		
+orth	Sternum. Pathologie		
 pb	12	0016	4589384
 pb	13	0017	4589385
 pb	14	0018	4589386
@@ -54,15 +61,18 @@ pb	43	0047	4589415
 pb	44	0048	4589416
 pb	45	0049	4589417
 pb	46	0050	4589418
-entry	Sternum. Médecine opératoire		
+entry	Sternum. Médecine opératoire [Servier]		
+orth	Sternum. Médecine opératoire		
 pb	47	0051	4589419
 pb	48	0052	4589420
 pb	49	0053	4589421
 pb	50	0054	4589422
 pb	51	0055	4589423
 pb	52	0056	4589424
-entry	Sternutation		
-entry	Sternutatoires		
+entry	Sternutation [Amédée Dechambre]		
+orth	Sternutation		
+entry	Sternutatoires [Ernest Labbée]		
+orth	Sternutatoires		
 pb	53	0057	4589425
 pb	54	0058	4589426
 pb	55	0059	4589427
@@ -73,8 +83,10 @@ pb	59	0063	4589431
 pb	60	0064	4589432
 pb	61	0065	4589433
 pb	62	0066	4589434
-entry	Stertor		
-entry	Stéthoscope		
+entry	Stertor [Amédée Dechambre]		
+orth	Stertor		
+entry	Stéthoscope [Amédée Dechambre, André Petit]		
+orth	Stéthoscope		
 pb	63	0067	4589435
 pb	64	0068	4589436
 pb	65	0069	4589437
@@ -95,51 +107,78 @@ pb	79	0083	4589451
 pb	80	0084	4589452
 pb	81	0085	4589453
 pb	82	0086	4589454
-entry	Stéthylique (Alcool)		
-entry	Steudel (Ernst-Gottlieb von)		
-entry	Stevens (Les trois)		
+entry	Stéthylique (Alcool) [Amédée Dechambre]		
+orth	Stéthylique (Alcool)		
+entry	Steudel (Ernst-Gottlieb von) [L. Hahn]		
+orth	Steudel (Ernst-Gottlieb von)		
+entry	Stevens (Les trois) [L. Hahn]		
+orth	Stevens (Les trois)		
 pb	83	0087	4589455
 pb	84	0088	4589456
-entry	Stevenson (Les)		
-entry	Stevia		
-entry	Stewart (Les)		
+entry	Stevenson (Les) [L. Hahn]		
+orth	Stevenson (Les)		
+entry	Stevia [G. Planchon]		
+orth	Stevia		
+entry	Stewart (Les) [A. Chéreau, L. Hahn]		
+orth	Stewart (Les)		
 pb	85	0089	4589457
 pb	86	0090	4589458
-entry	Steyrer (Johann-Philipp)		
-entry	Sthénie		
-entry	Stiche (José)		
-entry	Sticta		
+entry	Steyrer (Johann-Philipp) [L. Hahn]		
+orth	Steyrer (Johann-Philipp)		
+entry	Sthénie [Amédée Dechambre]		
+orth	Sthénie		
+entry	Stiche (José) [L. Hahn]		
+orth	Stiche (José)		
+entry	Sticta [Ed. Lefèvre]		
+orth	Sticta		
 pb	87	0091	4589459
-entry	Stictées		
-entry	Stiebel (Salomon-Friedrich)		
+entry	Stictées [Ed. Lefèvre]		
+orth	Stictées		
+entry	Stiebel (Salomon-Friedrich) [L. Hahn]		
+orth	Stiebel (Salomon-Friedrich)		
 pb	88	0092	4589460
-entry	Stieck (Nicolaus-Ulrich)		
-entry	Stief ou Stieff (Johann-Ernst)		
-entry	Stieglitz (Johann)		
+entry	Stieck (Nicolaus-Ulrich) [L. Hahn]		
+orth	Stieck (Nicolaus-Ulrich)		
+entry	Stief ou Stieff (Johann-Ernst) [L. Hahn]		
+orth	Stief ou Stieff (Johann-Ernst)		
+entry	Stieglitz (Johann) [L. Hahn]		
+orth	Stieglitz (Johann)		
 pb	89	0093	4589461
-entry	Stierling (Gysbert-Swartenjik)		
+entry	Stierling (Gysbert-Swartenjik) [L. Hahn]		
+orth	Stierling (Gysbert-Swartenjik)		
 pb	90	0094	4589462
-entry	Stifft (Andreas-Joseph, Freiherr von)		
-entry	Stigmate		
+entry	Stifft (Andreas-Joseph, Freiherr von) [L. Hahn]		
+orth	Stifft (Andreas-Joseph, Freiherr von)		
+entry	Stigmate [Amédée Dechambre]		
+orth	Stigmate		
 pb	91	0095	4589463
-entry	Stigmatisés		
+entry	Stigmatisés [A. Chéreau]		
+orth	Stigmatisés		
 pb	92	0096	4589464
 pb	93	0097	4589465
 pb	94	0098	4589466
 pb	95	0099	4589467
-entry	Stilbène		
+entry	Stilbène [Malaguti]		
+orth	Stilbène		
 pb	96	0100	4589468
-entry	Stilbinées ou Stilbacées		
+entry	Stilbinées ou Stilbacées [G. Planchon]		
+orth	Stilbinées ou Stilbacées		
 pb	97	0101	4589469
-entry	Stille (Sven-Jonas)		
-entry	Stillé (Moreton)		
-entry	Stilling (Benedikt)		
+entry	Stille (Sven-Jonas) [A. Dureau]		
+orth	Stille (Sven-Jonas)		
+entry	Stillé (Moreton) [L. Hahn]		
+orth	Stillé (Moreton)		
+entry	Stilling (Benedikt) [L. Hahn]		
+orth	Stilling (Benedikt)		
 pb	98	0102	4589470
 pb	99	0103	4589471
 pb	100	0104	4589472
-entry	Stillingie		
-entry	Stillistéarique (Acide)		
-entry	Stimulants et Contro-stimulants		
+entry	Stillingie [H. Baillon]		
+orth	Stillingie		
+entry	Stillistéarique (Acide) [Amédée Dechambre]		
+orth	Stillistéarique (Acide)		
+entry	Stimulants et Contro-stimulants [Fonssagrives]		
+orth	Stimulants et Contro-stimulants		
 pb	101	0105	4589473
 pb	102	0106	4589474
 pb	103	0107	4589475
@@ -159,7 +198,8 @@ pb	116	0120	4589488
 pb	117	0121	4589489
 pb	118	0122	4589490
 pb	119	0123	4589491
-entry	Stimulisme et Contro-stimulisme		
+entry	Stimulisme et Contro-stimulisme [Fonssagrives]		
+orth	Stimulisme et Contro-stimulisme		
 pb	120	0124	4589492
 pb	121	0125	4589493
 pb	122	0126	4589494
@@ -174,44 +214,65 @@ pb	130	0134	4589502
 pb	131	0135	4589503
 entry	Stimulus		
 ref	Stimulisme		
-entry	Stipa		
+entry	Stipa [G. Planchon]		
+orth	Stipa		
 pb	132	0136	4589504
-entry	Stipnïaan-luiscius (Abraham van)		
-entry	Stisser (Johann-Andreas)		
+entry	Stipnïaan-luiscius (Abraham van) [L. Hahn]		
+orth	Stipnïaan-luiscius (Abraham van)		
+entry	Stisser (Johann-Andreas) [L. Hahn]		
+orth	Stisser (Johann-Andreas)		
 pb	133	0137	4589505
-entry	Stizolobium		
-entry	Stobée (Kilian)		
-entry	Stock (Jean-Chrétien)		
+entry	Stizolobium [G. Planchon]		
+orth	Stizolobium		
+entry	Stobée (Kilian) [L. Hahn]		
+orth	Stobée (Kilian)		
+entry	Stock (Jean-Chrétien) [A. Chéreau]		
+orth	Stock (Jean-Chrétien)		
 pb	134	0138	4589506
-entry	Stockmann (Joachim)		
+entry	Stockmann (Joachim) [L. Hahn]		
+orth	Stockmann (Joachim)		
 pb	135	0139	4589507
-entry	Stoebe		
-entry	Stoeber (Victor)		
+entry	Stoebe [G. Planchon]		
+orth	Stoebe		
+entry	Stoeber (Victor) [L. Hahn]		
+orth	Stoeber (Victor)		
 pb	136	0140	4589508
 pb	137	0141	4589509
 pb	138	0142	4589510
 pb	139	0143	4589511
-entry	Stoechas		
+entry	Stoechas [G. Planchon]		
+orth	Stoechas		
 entry	Stoerck		
 ref	Störck		
-entry	Stoker (William)		
-entry	Stokes (Les)		
+entry	Stoker (William) [L. Hahn]		
+orth	Stoker (William)		
+entry	Stokes (Les) [L. Hahn]		
+orth	Stokes (Les)		
 pb	140	0144	4589512
 pb	141	0145	4589513
 pb	142	0146	4589514
-entry	Stoll (Maximilien)		
+entry	Stoll (Maximilien) [A. Chéreau]		
+orth	Stoll (Maximilien)		
 pb	143	0147	4589515
-entry	Stolle (Gottlieb)		
-entry	Stöller (Friedrich-Christian)		
-entry	Stolterfoht (Johann-jacob)		
+entry	Stolle (Gottlieb) [L. Hahn]		
+orth	Stolle (Gottlieb)		
+entry	Stöller (Friedrich-Christian) [L. Hahn]		
+orth	Stöller (Friedrich-Christian)		
+entry	Stolterfoht (Johann-jacob) [L. Hahn]		
+orth	Stolterfoht (Johann-jacob)		
 pb	144	0148	4589516
-entry	Stomacace		
-entry	Stomacal		
-entry	Stomachique		
-entry	Stomapodes ou stomatopodes		
+entry	Stomacace [Amédée Dechambre]		
+orth	Stomacace		
+entry	Stomacal [Amédée Dechambre]		
+orth	Stomacal		
+entry	Stomachique [Amédée Dechambre]		
+orth	Stomachique		
+entry	Stomapodes ou stomatopodes [Ed. Lefèvre]		
+orth	Stomapodes ou stomatopodes		
 pb	145	0149	4589517
 pb	146	0150	4589518
-entry	Stomatites		
+entry	Stomatites [Jules Bergeron]		
+orth	Stomatites		
 pb	147	0151	4589519
 pb	148	0152	4589520
 pb	149	0153	4589521
@@ -282,31 +343,45 @@ pb	213	0217	4589585
 pb	214	0218	4589586
 pb	215	0219	4589587
 pb	216	0220	4589588
-entry	Stomatorrhagie		
+entry	Stomatorrhagie [Amédée Dechambre]		
+orth	Stomatorrhagie		
 pb	217	0221	4589589
-entry	Stomatoscope		
+entry	Stomatoscope [A. Dechambre]		
+orth	Stomatoscope		
 entry	Stomencéphales		
 ref	Cyclopes		
-entry	Stomoxes		
-entry	Stones (Les)		
+entry	Stomoxes [A. Laboulbène]		
+orth	Stomoxes		
+entry	Stones (Les) [L. Hahn]		
+orth	Stones (Les)		
 pb	218	0222	4589590
-entry	Stone-cit		
-entry	Storax		
-entry	Storch (Les)		
+entry	Stone-cit [Amédée Dechambre]		
+orth	Stone-cit		
+entry	Storax [Amédée Dechambre]		
+orth	Storax		
+entry	Storch (Les) [L. Hahn]		
+orth	Storch (Les)		
 pb	219	0223	4589591
 pb	220	0224	4589592
-entry	Störck ou sotrk (Auton von)		
+entry	Störck ou sotrk (Auton von) [L. Hahn]		
+orth	Störck ou sotrk (Auton von)		
 pb	221	0225	4589593
 entry	Storène		
 ref	Araignée		
-entry	Storer (John)		
-entry	Storms (Jean)		
+entry	Storer (John) [L. Hahn]		
+orth	Storer (John)		
+entry	Storms (Jean) [A. Chéreau]		
+orth	Storms (Jean)		
 pb	222	0226	4589594
-entry	Storr (Les deux)		
-entry	Stosch (August-Wilhelm von)		
+entry	Storr (Les deux) [L. Hahn]		
+orth	Storr (Les deux)		
+entry	Stosch (August-Wilhelm von) [L. Hahn]		
+orth	Stosch (August-Wilhelm von)		
 pb	223	0227	4589595
-entry	Stoughton (Élixir de)		
-entry	Strabisme		
+entry	Stoughton (Élixir de) [Amédée Dechambre]		
+orth	Stoughton (Élixir de)		
+entry	Strabisme [E. Landolt]		
+orth	Strabisme		
 pb	224	0228	4589596
 pb	225	0229	4589597
 pb	226	0230	4589598
@@ -388,23 +463,29 @@ pb	301	0305	4589673
 pb	302	0306	4589674
 pb	303	0307	4589675
 pb	304	0308	4589676
-entry	Strabo (Walafried)		
-entry	Strack (Carl)		
+entry	Strabo (Walafried) [L. Hahn]		
+orth	Strabo (Walafried)		
+entry	Strack (Carl) [L. Hahn]		
+orth	Strack (Carl)		
 pb	305	0309	4589677
 entry	Strahl		
 ref	Schlesinger		
-entry	Strahsen (Friedrich-Christian)		
-entry	Strambio (Les deux)		
+entry	Strahsen (Friedrich-Christian) [L. Hahn]		
+orth	Strahsen (Friedrich-Christian)		
+entry	Strambio (Les deux) [L. Hahn]		
+orth	Strambio (Les deux)		
 pb	306	0310	4589678
 entry	Stramoine		
-entry	Stramoine. Botanique		
+entry	Stramoine. Botanique [H. Baillon]		
+orth	Stramoine. Botanique		
 pb	307	0311	4589679
 pb	308	0312	4589680
 entry	Emploi		
 ref	Datura		
 entry	Stramonine		
 ref	Daturine		
-entry	Strangulation (Médecine légale)		
+entry	Strangulation (Médecine légale) [G. Tourdes]		
+orth	Strangulation (Médecine légale)		
 pb	309	0313	4589681
 pb	310	0314	4589682
 pb	311	0315	4589683
@@ -447,32 +528,51 @@ pb	347	0351	4589719
 pb	348	0352	4589720
 pb	349	0353	4589721
 pb	350	0354	4589722
-entry	Strangurie		
-entry	Strass		
-entry	Straten (Willem van der) et non Straeten		
+entry	Strangurie [Amédée Dechambre]		
+orth	Strangurie		
+entry	Strass [Amédée Dechambre]		
+orth	Strass		
+entry	Straten (Willem van der) et non Straeten [L. Hahn]		
+orth	Straten (Willem van der) et non Straeten		
 pb	351	0355	4589723
-entry	Stratico (Simone)		
-entry	Stratification		
-entry	Stratingh (Les)		
+entry	Stratico (Simone) [L. Hahn]		
+orth	Stratico (Simone)		
+entry	Stratification [Amédée Dechambre]		
+orth	Stratification		
+entry	Stratingh (Les) [L. Hahn]		
+orth	Stratingh (Les)		
 pb	352	0356	4589724
-entry	Stratiotes		
-entry	Straton de Béryte		
-entry	Straton de Lampsaque		
-entry	Strauss (Lorenz)		
+entry	Stratiotes [G. Planchon]		
+orth	Stratiotes		
+entry	Straton de Béryte [L. Hahn]		
+orth	Straton de Béryte		
+entry	Straton de Lampsaque [L. Hahn]		
+orth	Straton de Lampsaque		
+entry	Strauss (Lorenz) [A. Dureau]		
+orth	Strauss (Lorenz)		
 pb	353	0357	4589725
-entry	Strecker (Adolph)		
+entry	Strecker (Adolph) [L. Hahn]		
+orth	Strecker (Adolph)		
 pb	354	0358	4589726
-entry	Streeten (Robert-J.-N.)		
-entry	Streinz (Wenzel-M.)		
+entry	Streeten (Robert-J.-N.) [L. Hahn]		
+orth	Streeten (Robert-J.-N.)		
+entry	Streinz (Wenzel-M.) [L. Hahn]		
+orth	Streinz (Wenzel-M.)		
 pb	355	0359	4589727
-entry	Strelitzia		
-entry	Strempel (Carl-Friedrich)		
+entry	Strelitzia [G. Planchon]		
+orth	Strelitzia		
+entry	Strempel (Carl-Friedrich) [L. Hahn]		
+orth	Strempel (Carl-Friedrich)		
 pb	356	0360	4589728
-entry	Strepitosus Morbus		
-entry	Streubel (Carl-Wilhelm)		
-entry	Strictum et Laxum		
+entry	Strepitosus Morbus [Amédée Dechambre]		
+orth	Strepitosus Morbus		
+entry	Streubel (Carl-Wilhelm) [L. Hahn]		
+orth	Streubel (Carl-Wilhelm)		
+entry	Strictum et Laxum [Amédée Dechambre]		
+orth	Strictum et Laxum		
 entry	Stridulation		
-entry	Stridulation. Séméiologie		
+entry	Stridulation. Séméiologie [Henri Barth]		
+orth	Stridulation. Séméiologie		
 pb	357	0361	4589729
 pb	358	0362	4589730
 pb	359	0363	4589731
@@ -480,7 +580,8 @@ pb	360	0364	4589732
 pb	361	0365	4589733
 pb	362	0366	4589734
 entry	Stridulation		
-entry	Stridulation. Zoologie		
+entry	Stridulation. Zoologie [G. Carlet]		
+orth	Stridulation. Zoologie		
 pb	363	0367	4589735
 pb	364	0368	4589736
 pb	365	0369	4589737
@@ -492,59 +593,83 @@ entry	Striés (Muscles)
 ref	Musculaire (Tissu)		
 entry	Striges		
 ref	Stryges		
-entry	Strobelberger (Johann-Stephan)		
-entry	Strobile		
-entry	Strobon		
+entry	Strobelberger (Johann-Stephan) [L. Hahn]		
+orth	Strobelberger (Johann-Stephan)		
+entry	Strobile [G. Planchon]		
+orth	Strobile		
+entry	Strobon [G. Planchon]		
+orth	Strobon		
 entry	Stroemia tetrandra Vahl		
 ref	Cadaba		
-entry	Strom (Christian)		
+entry	Strom (Christian) [A. Dureau]		
+orth	Strom (Christian)		
 pb	368	0372	4589740
-entry	Ström (Gabriel-Tobias)		
-entry	Stroma		
-entry	Strombe		
-entry	Stromer (Heinrich)		
+entry	Ström (Gabriel-Tobias) [L. Hahn]		
+orth	Ström (Gabriel-Tobias)		
+entry	Stroma [Amédée Dechambre]		
+orth	Stroma		
+entry	Strombe [Ed. Lefèvre]		
+orth	Strombe		
+entry	Stromer (Heinrich) [A. Dureau]		
+orth	Stromer (Heinrich)		
 pb	369	0373	4589741
-entry	Stromeyer (Les)		
+entry	Stromeyer (Les) [L. Hahn]		
+orth	Stromeyer (Les)		
 pb	370	0374	4589742
 pb	371	0375	4589743
 pb	372	0376	4589744
-entry	Strongle		
+entry	Strongle [Ed. Lefèvre]		
+orth	Strongle		
 pb	373	0377	4589745
-entry	Strongyle		
+entry	Strongyle [Ed. Lefèvre]		
+orth	Strongyle		
 pb	374	0378	4589746
 entry	Strontiane		
 ref	Strontium		
-entry	Strontium		
+entry	Strontium [C. Lutz]		
+orth	Strontium		
 pb	375	0379	4589747
 pb	376	0380	4589748
 pb	377	0381	4589749
-entry	Strophulus		
+entry	Strophulus [A. Sanné]		
+orth	Strophulus		
 pb	378	0382	4589750
 pb	379	0383	4589751
 pb	380	0384	4589752
 pb	381	0385	4589753
-entry	Stropher (Edward)		
+entry	Stropher (Edward) [L. Hahn]		
+orth	Stropher (Edward)		
 pb	382	0386	4589754
-entry	Strumea (Herba)		
-entry	Strumpfia (Jacquin)		
-entry	Struthionidés		
+entry	Strumea (Herba) [G. Planchon]		
+orth	Strumea (Herba)		
+entry	Strumpfia (Jacquin) [G. Planchon]		
+orth	Strumpfia (Jacquin)		
+entry	Struthionidés [E. Oustalet]		
+orth	Struthionidés		
 pb	383	0387	4589755
 pb	384	0388	4589756
 pb	385	0389	4589757
 pb	386	0390	4589758
 pb	387	0391	4589759
-entry	Struthium		
-entry	Struthius (Joseph)		
-entry	Struve (Les)		
+entry	Struthium [G. Planchon]		
+orth	Struthium		
+entry	Struthius (Joseph) [L. Hahn]		
+orth	Struthius (Joseph)		
+entry	Struve (Les) [L. Hahn]		
+orth	Struve (Les)		
 pb	388	0392	4589760
 pb	389	0393	4589761
-entry	Struve (Ludvig-August)		
-entry	Strychnées		
+entry	Struve (Ludvig-August) [A. Dureau]		
+orth	Struve (Ludvig-August)		
+entry	Strychnées [G. Planchon]		
+orth	Strychnées		
 entry	Strychnine		
-entry	Strychnine. Chimie		
+entry	Strychnine. Chimie [Malaguti]		
+orth	Strychnine. Chimie		
 pb	390	0394	4589762
 pb	391	0395	4589763
-entry	Strychnine. Applications médicales		
+entry	Strychnine. Applications médicales [Ernest Labbée]		
+orth	Strychnine. Applications médicales		
 pb	392	0396	4589764
 pb	393	0397	4589765
 pb	394	0398	4589766
@@ -605,19 +730,25 @@ pb	448	0452	4589820
 pb	449	0453	4589821
 pb	450	0454	4589822
 pb	451	0455	4589823
-entry	Strychnique (Acide)		
+entry	Strychnique (Acide) [Malaguti]		
+orth	Strychnique (Acide)		
 entry	Strychnos		
 ref	Vomiquier		
 entry	Stryges		
 ref	Oiseaux		
-entry	Stuart (Alexander)		
+entry	Stuart (Alexander) [A. Dureau]		
+orth	Stuart (Alexander)		
 pb	452	0456	4589824
-entry	Stubbes (Henry)		
-entry	Stupan (Les)		
+entry	Stubbes (Henry) [L. Hahn]		
+orth	Stubbes (Henry)		
+entry	Stupan (Les) [L. Hahn]		
+orth	Stupan (Les)		
 pb	453	0457	4589825
-entry	Stupéfiants		
+entry	Stupéfiants [Fonssagrives]		
+orth	Stupéfiants		
 pb	454	0458	4589826
-entry	Stupeur, Stupidité		
+entry	Stupeur, Stupidité [Ant. Ritti]		
+orth	Stupeur, Stupidité		
 pb	455	0459	4589827
 pb	456	0460	4589828
 pb	457	0461	4589829
@@ -633,19 +764,27 @@ pb	466	0470	4589838
 pb	467	0471	4589839
 pb	468	0472	4589840
 pb	469	0473	4589841
-entry	Sturioniens		
+entry	Sturioniens [E. Oustalet]		
+orth	Sturioniens		
 pb	470	0474	4589842
-entry	Sturmius ou Storms (Roland)		
-entry	Stutz (Wenzel-Aloys)		
-entry	Stycérine		
+entry	Sturmius ou Storms (Roland) [L. Hahn]		
+orth	Sturmius ou Storms (Roland)		
+entry	Stutz (Wenzel-Aloys) [L. Hahn]		
+orth	Stutz (Wenzel-Aloys)		
+entry	Stycérine [L. Hahn]		
+orth	Stycérine		
 pb	471	0475	4589843
-entry	Stylet		
-entry	Stylidium		
+entry	Stylet [Amédée Dechambre]		
+orth	Stylet		
+entry	Stylidium [H. Baillon]		
+orth	Stylidium		
 entry	Stylo-glosse (Muscle)		
 ref	Langue		
-entry	Stylo-Hyoïdien (Muscle)		
+entry	Stylo-Hyoïdien (Muscle) [J. Aubry]		
+orth	Stylo-Hyoïdien (Muscle)		
 pb	472	0476	4589844
-entry	Stylo-hyoïdien (Ligament)		
+entry	Stylo-hyoïdien (Ligament) [J. Aubry]		
+orth	Stylo-hyoïdien (Ligament)		
 entry	Styloïde (Apophyse)		
 ref	Crâne		
 ref	Cubitus		
@@ -657,50 +796,74 @@ ref	Auriculaires (Vaisseaux)
 entry	Stylo-pharyngien (Muscle)		
 ref	Pharynx		
 pb	473	0477	4589845
-entry	Styphelia		
-entry	Styphnique (Acide)		
-entry	Styracine		
+entry	Styphelia [G. Planchon]		
+orth	Styphelia		
+entry	Styphnique (Acide) [L. Hahn]		
+orth	Styphnique (Acide)		
+entry	Styracine [L. Hahn]		
+orth	Styracine		
 pb	474	0478	4589846
-entry	Styracone		
-entry	Styrax, Styracacées, Styracées		
+entry	Styracone [L. Hahn]		
+orth	Styracone		
+entry	Styrax, Styracacées, Styracées [H. Baillon]		
+orth	Styrax, Styracacées, Styracées		
 entry	Styrax		
-entry	Styrax. Chimie		
+entry	Styrax. Chimie [Amédée Dechambre]		
+orth	Styrax. Chimie		
 pb	475	0479	4589847
-entry	Emploi médical		
+entry	Emploi médical [Amédée Dechambre]		
+orth	Emploi médical		
 entry	Styrol		
 ref	Cinnamène		
 entry	Styrolique (Acide)		
 ref	Cinnamique		
-entry	Styrolyle		
-entry	Styrolylique (Alcool)		
+entry	Styrolyle [L. Hahn]		
+orth	Styrolyle		
+entry	Styrolylique (Alcool) [L. Hahn]		
+orth	Styrolylique (Alcool)		
 pb	476	0480	4589848
-entry	Styrone		
-entry	Styryle		
-entry	Styrylique (Alcool)		
-entry	Styx (Martin-Ernst)		
-entry	Suarez (Alonso)		
-entry	Subbrachiens		
+entry	Styrone [L. Hahn]		
+orth	Styrone		
+entry	Styryle [L. Hahn]		
+orth	Styryle		
+entry	Styrylique (Alcool) [L. Hahn]		
+orth	Styrylique (Alcool)		
+entry	Styx (Martin-Ernst) [L. Hahn]		
+orth	Styx (Martin-Ernst)		
+entry	Suarez (Alonso) [L. Hahn]		
+orth	Suarez (Alonso)		
+entry	Subbrachiens [H.-E. Sauvage]		
+orth	Subbrachiens		
 pb	477	0481	4589849
 pb	478	0482	4589850
-entry	Subdelirium		
-entry	Suber		
-entry	Subérique (Acide)		
+entry	Subdelirium [Amédée Dechambre]		
+orth	Subdelirium		
+entry	Suber [G. Planchon]		
+orth	Suber		
+entry	Subérique (Acide) [C. Lutz]		
+orth	Subérique (Acide)		
 pb	479	0483	4589851
-entry	Subérone		
-entry	Subintrantes (Fièvres)		
+entry	Subérone [C. Lutz]		
+orth	Subérone		
+entry	Subintrantes (Fièvres) [Amédée Dechambre]		
+orth	Subintrantes (Fièvres)		
 entry	Subjee ou Sidhee		
-ref	Sidhee		
-entry	Sublimation (Pharmacie)		
+ref	Sidhee [Amédée Dechambre]		
+entry	Sublimation (Pharmacie) [Amédée Dechambre]		
+orth	Sublimation (Pharmacie)		
 pb	480	0484	4589852
 entry	Sublimé		
 entry	Chimie		
 ref	Mercure		
-entry	Sublimé. Pharmacographie		
+entry	Sublimé. Pharmacographie [Fonssagrives]		
+orth	Sublimé. Pharmacographie		
 pb	481	0485	4589853
-entry	Sublimé. Action physiologique		
+entry	Sublimé. Action physiologique [Fonssagrives]		
+orth	Sublimé. Action physiologique		
 pb	482	0486	4589854
 pb	483	0487	4589855
-entry	Sublimé. Emploi thérapeutique		
+entry	Sublimé. Emploi thérapeutique [Fonssagrives]		
+orth	Sublimé. Emploi thérapeutique		
 pb	484	0488	4589856
 pb	485	0489	4589857
 pb	486	0490	4589858
@@ -715,17 +878,20 @@ pb	494	0498	4589866
 pb	495	0499	4589867
 pb	496	0500	4589868
 pb	497	0501	4589869
-entry	Formes médicamenteuses et doses		
+entry	Formes médicamenteuses et doses [Fonssagrives]		
+orth	Formes médicamenteuses et doses		
 pb	498	0502	4589870
 pb	499	0503	4589871
 pb	500	0504	4589872
 pb	501	0505	4589873
 entry	Sublingual (Ganglion)		
 ref	Maxillaires (Nerfs)		
-entry	Sublinguale (Glande)		
+entry	Sublinguale (Glande) [J. Aubry]		
+orth	Sublinguale (Glande)		
 pb	502	0506	4589874
 pb	503	0507	4589875
-entry	Submersion		
+entry	Submersion [G. Tourdes]		
+orth	Submersion		
 pb	504	0508	4589876
 pb	505	0509	4589877
 pb	506	0510	4589878
@@ -797,7 +963,8 @@ pb	571	0575	4589943
 pb	572	0576	4589944
 pb	573	0577	4589945
 pb	574	0578	4589946
-entry	Subsistances		
+entry	Subsistances [E. Dally]		
+orth	Subsistances		
 pb	575	0579	4589947
 pb	576	0580	4589948
 pb	577	0581	4589949
@@ -812,8 +979,10 @@ pb	585	0589	4589957
 pb	586	0590	4589958
 pb	587	0591	4589959
 pb	588	0592	4589960
-entry	Substance		
-entry	Substitutifs		
+entry	Substance [Amédée Dechambre]		
+orth	Substance		
+entry	Substitutifs [Ernest Labbée]		
+orth	Substitutifs		
 pb	589	0593	4589961
 pb	590	0594	4589962
 pb	591	0595	4589963
@@ -821,56 +990,79 @@ pb	592	0596	4589964
 pb	593	0597	4589965
 pb	594	0598	4589966
 pb	595	0599	4589967
-entry	Substitution		
+entry	Substitution [Amédée Dechambre]		
+orth	Substitution		
 pb	596	0600	4589968
-entry	Substitution de part		
-entry	Subulaire		
+entry	Substitution de part [Amédée Dechambre]		
+orth	Substitution de part		
+entry	Subulaire [H. Baillon]		
+orth	Subulaire		
 pb	597	0601	4589969
-entry	Subulaire (bibliograhie)		
-entry	Suc		
+entry	Subulaire [H. Baillon] (bibliograhie)		
+orth	Subulaire (bibliograhie)		
+entry	Suc [Amédée Dechambre]		
+orth	Suc		
 pb	598	0602	4589970
 pb	599	0603	4589971
-entry	Succédané		
+entry	Succédané [Amédée Dechambre]		
+orth	Succédané		
 pb	600	0604	4589972
-entry	Succenturiaux		
-entry	Succenturié		
+entry	Succenturiaux [Amédée Dechambre]		
+orth	Succenturiaux		
+entry	Succenturié [Amédée Dechambre]		
+orth	Succenturié		
 entry	Succin		
-entry	Succin. Chimie		
+entry	Succin. Chimie [C. Lutz]		
+orth	Succin. Chimie		
 pb	601	0605	4589973
-entry	Succin. Empoi médical		
+entry	Succin. Empoi médical [Fonssagrives]		
+orth	Succin. Empoi médical		
 pb	602	0606	4589974
 pb	603	0607	4589975
-entry	Succinamide		
-entry	Succinates		
+entry	Succinamide [Malaguti]		
+orth	Succinamide		
+entry	Succinates [Malaguti]		
+orth	Succinates		
 pb	604	0608	4589976
-entry	Succinée		
+entry	Succinée [Ed. Lefèvre]		
+orth	Succinée		
 entry	Succineupione ou Eupione de succin		
 ref	Musc artificiel		
-entry	Succinique (Acide)		
+entry	Succinique (Acide) [C. Lutz]		
+orth	Succinique (Acide)		
 pb	605	0609	4589977
-entry	Succinone		
+entry	Succinone [Amédée Dechambre]		
+orth	Succinone		
 pb	606	0610	4589978
-entry	Succion		
+entry	Succion [G. Carlet]		
+orth	Succion		
 pb	607	0611	4589979
 pb	608	0612	4589980
 pb	609	0613	4589981
-entry	Succistérène		
-entry	Succotrin ou Soccotrin		
+entry	Succistérène [Amédée Dechambre]		
+orth	Succistérène		
+entry	Succotrin ou Soccotrin [G. Planchon]		
+orth	Succotrin ou Soccotrin		
 pb	610	0614	4589982
-entry	Succow (Georg-Adolph)		
+entry	Succow (Georg-Adolph) [A. Dureau]		
+orth	Succow (Georg-Adolph)		
 entry	Succube		
 ref	Incube		
-entry	Succussion		
+entry	Succussion [Henri Barth]		
+orth	Succussion		
 pb	611	0615	4589983
 pb	612	0616	4589984
 pb	613	0617	4589985
 pb	614	0618	4589986
 pb	615	0619	4589987
-entry	Suceurs (Insectes)		
+entry	Suceurs (Insectes) [A. Laboulbène]		
+orth	Suceurs (Insectes)		
 pb	616	0620	4589988
-entry	Suckow (Wilhelm-Carl-Friedrich)		
+entry	Suckow (Wilhelm-Carl-Friedrich) [A. Dureau]		
+orth	Suckow (Wilhelm-Carl-Friedrich)		
 entry	Sucre		
-entry	Sucre. Chimie		
+entry	Sucre. Chimie [Malaguti]		
+orth	Sucre. Chimie		
 pb	617	0621	4589989
 pb	618	0622	4589990
 pb	619	0623	4589991
@@ -878,12 +1070,16 @@ pb	620	0624	4589992
 pb	621	0625	4589993
 pb	622	0626	4589994
 pb	623	0627	4589995
-entry	Bromatologie		
-entry	Sucre. Emploi médical		
+entry	Bromatologie [Amédée Dechambre]		
+orth	Bromatologie		
+entry	Sucre. Emploi médical [Amédée Dechambre]		
+orth	Sucre. Emploi médical		
 pb	624	0628	4589996
-entry	Sucres médicamenteux		
+entry	Sucres médicamenteux [Amédée Dechambre]		
+orth	Sucres médicamenteux		
 pb	625	0629	4589997
-entry	Sucreries et Raffineries (Hygiène professionnelle et industrielle)		
+entry	Sucreries et Raffineries (Hygiène professionnelle et industrielle) [Alexandre Layet]		
+orth	Sucreries et Raffineries (Hygiène professionnelle et industrielle)		
 pb	626	0630	4589998
 pb	627	0631	4589999
 pb	628	0632	4590000
@@ -893,8 +1089,10 @@ pb	631	0635	4590003
 pb	632	0636	4590004
 pb	633	0637	4590005
 pb	634	0638	4590006
-entry	Sucrier de Montagne		
-entry	Suçruta		
+entry	Sucrier de Montagne [H. Baillon]		
+orth	Sucrier de Montagne		
+entry	Suçruta [G. Liétard]		
+orth	Suçruta		
 pb	635	0639	4590007
 pb	636	0640	4590008
 pb	637	0641	4590009
@@ -934,7 +1132,8 @@ pb	670	0674	4590042
 pb	671	0675	4590043
 pb	672	0676	4590044
 pb	673	0677	4590045
-entry	Sudamina, Sudamen		
+entry	Sudamina, Sudamen [Ernest Besnier]		
+orth	Sudamina, Sudamen		
 pb	674	0678	4590046
 pb	675	0679	4590047
 pb	676	0680	4590048
@@ -943,7 +1142,8 @@ pb	678	0682	4590050
 pb	679	0683	4590051
 pb	680	0684	4590052
 pb	681	0685	4590053
-entry	Sudorifiques		
+entry	Sudorifiques [E. Demange]		
+orth	Sudorifiques		
 pb	682	0686	4590054
 pb	683	0687	4590055
 pb	684	0688	4590056
@@ -951,7 +1151,8 @@ pb	685	0689	4590057
 pb	686	0690	4590058
 pb	687	0691	4590059
 pb	688	0692	4590060
-entry	Sudoripares (Follicules et Appareil)		
+entry	Sudoripares (Follicules et Appareil) [Ch. Robin]		
+orth	Sudoripares (Follicules et Appareil)		
 pb	689	0693	4590061
 pb	690	0694	4590062
 pb	691	0695	4590063
@@ -967,12 +1168,15 @@ pb	700	0704	4590072
 pb	701	0705	4590073
 pb	702	0706	4590074
 pb	703	0707	4590075
-entry	Sudorique (Acide)		
-entry	Sue (Les)		
+entry	Sudorique (Acide) [D.]		
+orth	Sudorique (Acide)		
+entry	Sue (Les) [A. Chéreau]		
+orth	Sue (Les)		
 pb	704	0708	4590076
 pb	705	0709	4590077
 pb	706	0710	4590078
-entry	Suède, Norvège		
+entry	Suède, Norvège [Jacques Bertillon]		
+orth	Suède, Norvège		
 pb	707	0711	4590079
 pb	708	0712	4590080
 pb	709	0713	4590081
@@ -1072,8 +1276,10 @@ pb	802	0806	4590174
 pb	803	0807	4590175
 entry	Suédoise (Gymnastique)		
 ref	Gymnastique		
-entry	Suédoises (Pilules)		
-entry	Suelto (Garcia)		
+entry	Suédoises (Pilules) [Amédée Dechambre]		
+orth	Suédoises (Pilules)		
+entry	Suelto (Garcia) [L. Hahn]		
+orth	Suelto (Garcia)		
 pb	804	0808	4590176
 pb	805	0809	4590177
 entry	Articles contenus dans le douzième volume troisième série		

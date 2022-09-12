@@ -1,6 +1,8 @@
 pb	[s. pag.]	0001	4515260
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4515261
 pb	[s. pag.]	0003	4515262
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4515263
 pb	1	0005	4515264
 entry	Couperose bleue		
@@ -8,7 +10,8 @@ ref	Cuivre
 entry	Couperose verte		
 ref	Fer		
 entry	Couperose		
-entry	Couperose. Pathologie		
+entry	Couperose. Pathologie [E. Bazin]		
+orth	Couperose. Pathologie		
 pb	2	0006	4515265
 pb	3	0007	4515266
 pb	4	0008	4515267
@@ -37,10 +40,13 @@ pb	26	0030	4515289
 pb	27	0031	4515290
 pb	28	0032	4515291
 pb	29	0033	4515292
-entry	Couradi		
-entry	Courant électrique		
+entry	Couradi [G. Planchon]		
+orth	Couradi		
+entry	Courant électrique [C.-M. Gariel]		
+orth	Courant électrique		
 pb	30	0034	4515293
-entry	Courants marins		
+entry	Courants marins [Amédée Dechambre]		
+orth	Courants marins		
 pb	31	0035	4515294
 pb	32	0036	4515295
 pb	33	0037	4515296
@@ -49,17 +55,22 @@ pb	35	0039	4515298
 pb	36	0040	4515299
 pb	37	0041	4515300
 pb	38	0042	4515301
-entry	Courbaril		
+entry	Courbaril [H. Baillon]		
+orth	Courbaril		
 pb	39	0043	4515302
 pb	40	0044	4515303
 pb	41	0045	4515304
-entry	Courbature		
-entry	Courcelles (Etienne-François-Marie Chardon de)		
+entry	Courbature [Amédée Dechambre]		
+orth	Courbature		
+entry	Courcelles (Etienne-François-Marie Chardon de) [A. Chéreau]		
+orth	Courcelles (Etienne-François-Marie Chardon de)		
 entry	Coureurs (Cursores)		
-entry	Coureurs (Cursores). Zoologie		
+entry	Coureurs (Cursores). Zoologie [P. Gervais]		
+orth	Coureurs (Cursores). Zoologie		
 pb	42	0046	4515305
 pb	43	0047	4515306
-entry	Coureurs, Course (Hygiène)		
+entry	Coureurs, Course (Hygiène) [Alexandre Layet]		
+orth	Coureurs, Course (Hygiène)		
 pb	44	0048	4515307
 pb	45	0049	4515308
 pb	46	0050	4515309
@@ -75,32 +86,47 @@ pb	55	0059	4515318
 entry	Coureuses		
 ref	Araignées		
 entry	Courge, Gourde ou Calebasse		
-entry	Courge, Gourde ou Calebasse. Botanique		
+entry	Courge, Gourde ou Calebasse. Botanique [G. Planchon]		
+orth	Courge, Gourde ou Calebasse. Botanique		
 pb	56	0060	4515319
 entry	Courge		
-entry	Emploi		
-entry	Courlis		
-entry	Courmayeur (Eaux minérales de)		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
+entry	Courlis [P. Gervais]		
+orth	Courlis		
+entry	Courmayeur (Eaux minérales de) [A. Rotureau]		
+orth	Courmayeur (Eaux minérales de)		
 pb	57	0061	4515320
 pb	58	0062	4515321
 pb	59	0063	4515322
-entry	Courondi		
-entry	Couronne impériale		
-entry	Couronne de Saint-Jean		
-entry	Couronne de Moine		
-entry	Couronne Royale		
-entry	Couronne du soleil		
-entry	Couronne de terre		
-entry	Couroupita		
+entry	Courondi [G. Planchon]		
+orth	Courondi		
+entry	Couronne impériale [G. Planchon]		
+orth	Couronne impériale		
+entry	Couronne de Saint-Jean [G. Planchon]		
+orth	Couronne de Saint-Jean		
+entry	Couronne de Moine [G. Planchon]		
+orth	Couronne de Moine		
+entry	Couronne Royale [G. Planchon]		
+orth	Couronne Royale		
+entry	Couronne du soleil [G. Planchon]		
+orth	Couronne du soleil		
+entry	Couronne de terre [G. Planchon]		
+orth	Couronne de terre		
+entry	Couroupita [G. Planchon]		
+orth	Couroupita		
 pb	60	0064	4515323
-entry	Courpière (Eaux minérales de)		
+entry	Courpière (Eaux minérales de) [A. Rotureau]		
+orth	Courpière (Eaux minérales de)		
 entry	Courrière (La) (Eau minérale de)		
 ref	Durtal		
-entry	Cours (Eau minérale de)		
+entry	Cours (Eau minérale de) [A. Rotureau]		
+orth	Cours (Eau minérale de)		
 pb	61	0065	4515324
 entry	Course		
 ref	Locomotion		
-entry	Courseulle (Station marine de)		
+entry	Courseulle (Station marine de) [A. Rotureau]		
+orth	Courseulle (Station marine de)		
 entry	Court abducteur du petit orteil		
 ref	Abducteur		
 ref	Pied		
@@ -142,33 +168,46 @@ entry	Court péronier
 ref	Péronier		
 entry	Court supinateur		
 ref	Supinateur		
-entry	Courtaud (Siméon)		
-entry	Courtial (Jean-Joseph)		
-entry	Courtilière		
+entry	Courtaud (Siméon) [E. Beaugrand]		
+orth	Courtaud (Siméon)		
+entry	Courtial (Jean-Joseph) [A. Chéreau]		
+orth	Courtial (Jean-Joseph)		
+entry	Courtilière [A. Laboulbène]		
+orth	Courtilière		
 pb	63	0067	4515326
 pb	64	0068	4515327
 pb	65	0069	4515328
 pb	66	0070	4515329
-entry	Courtin (Germain)		
-entry	Courtois (Bernard)		
+entry	Courtin (Germain) [A. Chéreau]		
+orth	Courtin (Germain)		
+entry	Courtois (Bernard) [E. Beaugrand, L. Hahn]		
+orth	Courtois (Bernard)		
 pb	67	0071	4515330
-entry	Courtomer (Eau minérale de)		
-entry	Courvée (Jean-Claude de la)		
+entry	Courtomer (Eau minérale de) [A. Rotureau]		
+orth	Courtomer (Eau minérale de)		
+entry	Courvée (Jean-Claude de la) [L. Hahn]		
+orth	Courvée (Jean-Claude de la)		
 pb	68	0072	4515331
-entry	Couscou, Coussecouche et Couchecousse		
-entry	Cousinot (les deux)		
-entry	Cousin		
+entry	Couscou, Coussecouche et Couchecousse [G. Planchon]		
+orth	Couscou, Coussecouche et Couchecousse		
+entry	Cousinot (les deux) [A. Chéreau]		
+orth	Cousinot (les deux)		
+entry	Cousin [A. Laboulbène]		
+orth	Cousin		
 pb	69	0073	4515332
 pb	70	0074	4515333
-entry	Coussin, Coussinet		
+entry	Coussin, Coussinet [Amédée Dechambre]		
+orth	Coussin, Coussinet		
 pb	71	0075	4515334
 entry	Coussine		
 ref	Cousso		
 entry	Cousso, Kousso, et mieux Cosso, Kosso		
-entry	Cousso, Kousso, et mieux Cosso, Kosso. Botanique		
+entry	Cousso, Kousso, et mieux Cosso, Kosso. Botanique [H. Baillon]		
+orth	Cousso, Kousso, et mieux Cosso, Kosso. Botanique		
 pb	72	0076	4515335
 pb	73	0077	4515336
-entry	Cousso, Kousso, et mieux Cosso, Kosso. Emploi médical		
+entry	Cousso, Kousso, et mieux Cosso, Kosso. Emploi médical [Ernest Labbée]		
+orth	Cousso, Kousso, et mieux Cosso, Kosso. Emploi médical		
 pb	74	0078	4515337
 pb	75	0079	4515338
 pb	76	0080	4515339
@@ -179,13 +218,18 @@ pb	80	0084	4515343
 pb	81	0085	4515344
 pb	82	0086	4515345
 pb	83	0087	4515346
-entry	Cousso, kousso, et mieux Cosso, Kosso. Emploi médical		
+entry	Cousso, kousso, et mieux Cosso, Kosso. Emploi médical [Ernest Labbée]		
+orth	Cousso, kousso, et mieux Cosso, Kosso. Emploi médical		
 pb	84	0088	4515347
-entry	Coutanceau (Godefroy-Barthélemy-Ange)		
-entry	Coutanceau (Madame Marguerite-Guillomance)		
-entry	Coutarea		
+entry	Coutanceau (Godefroy-Barthélemy-Ange) [A. Dureau]		
+orth	Coutanceau (Godefroy-Barthélemy-Ange)		
+entry	Coutanceau (Madame Marguerite-Guillomance) [E. Beaugrand]		
+orth	Coutanceau (Madame Marguerite-Guillomance)		
+entry	Coutarea [G. Planchon]		
+orth	Coutarea		
 pb	85	0089	4515348
-entry	Couteaux à opérations		
+entry	Couteaux à opérations [H. Chrétien]		
+orth	Couteaux à opérations		
 pb	86	0090	4515349
 pb	87	0091	4515350
 pb	88	0092	4515351
@@ -203,21 +247,29 @@ pb	99	0103	4515362
 pb	100	0104	4515363
 entry	Couteliers		
 ref	Aiguiseurs		
-entry	Coutinia		
-entry	Coutoubea		
+entry	Coutinia [G. Planchon]		
+orth	Coutinia		
+entry	Coutoubea [G. Planchon]		
+orth	Coutoubea		
 pb	101	0105	4515364
-entry	Coutouly (Pierre-Victor)		
-entry	Couturier (Muscle)		
+entry	Coutouly (Pierre-Victor) [A. Dureau]		
+orth	Coutouly (Pierre-Victor)		
+entry	Couturier (Muscle) [Amédée Dechambre]		
+orth	Couturier (Muscle)		
 pb	102	0106	4515365
-entry	Couturières (Hygiène professionnelle)		
+entry	Couturières (Hygiène professionnelle) [E. Beaugrand]		
+orth	Couturières (Hygiène professionnelle)		
 pb	103	0107	4515366
 pb	104	0108	4515367
 pb	105	0109	4515368
 pb	106	0110	4515369
 pb	107	0111	4515370
-entry	Couve		
-entry	Couvre-chef		
-entry	Couvreurs (Hygiène professionnelle)		
+entry	Couve [G. Planchon]		
+orth	Couve		
+entry	Couvre-chef [Amédée Dechambre]		
+orth	Couvre-chef		
+entry	Couvreurs (Hygiène professionnelle) [Alexandre Layet]		
+orth	Couvreurs (Hygiène professionnelle)		
 pb	108	0112	4515371
 pb	109	0113	4515372
 entry	Couzan		
@@ -227,20 +279,25 @@ entry	Covarécas (Les)
 ref	Amérique		
 entry	Covillard		
 ref	Couillard		
-entry	Coward (William)		
-entry	Cowper (Guillaume)		
+entry	Coward (William) [A. Chéreau]		
+orth	Coward (William)		
+entry	Cowper (Guillaume) [A. Dureau]		
+orth	Cowper (Guillaume)		
 entry	Cowper (Glande de)		
 ref	Urèthre		
 entry	Cowpox		
 ref	Vaccine		
 entry	Cox		
-entry	Cox (Joseph-Mason)		
+entry	Cox (Joseph-Mason) [A. Dureau]		
+orth	Cox (Joseph-Mason)		
 pb	111	0115	4515374
-entry	Cox (William-Sands)		
+entry	Cox (William-Sands) [L. Hahn]		
+orth	Cox (William-Sands)		
 pb	112	0116	4515375
 entry	Coxal (Os)		
 ref	Bassin		
-entry	Coxalgie		
+entry	Coxalgie [E. Mathieu, H. Strauss]		
+orth	Coxalgie		
 pb	113	0117	4515376
 pb	114	0118	4515377
 pb	115	0119	4515378
@@ -424,24 +481,31 @@ pb	292	0296	4515555
 pb	293	0297	4515556
 pb	294	0298	4515557
 pb	295	0299	4515558
-entry	Coxe (John-Redman)		
+entry	Coxe (John-Redman) [L. Hahn]		
+orth	Coxe (John-Redman)		
 pb	296	0300	4515559
 entry	Coxo-fémorale (Art.)		
 ref	Hanche		
-entry	Coyttar (Jean)		
-entry	Coze (Les)		
+entry	Coyttar (Jean) [A. Dureau]		
+orth	Coyttar (Jean)		
+entry	Coze (Les) [L. Hahn]		
+orth	Coze (Les)		
 pb	297	0301	4515560
 pb	298	0302	4515561
-entry	Craanen (Théodore)		
-entry	Crabe (Cancer)		
+entry	Craanen (Théodore) [A. Chéreau]		
+orth	Craanen (Théodore)		
+entry	Crabe (Cancer) [P. Gervais]		
+orth	Crabe (Cancer)		
 pb	299	0303	4515562
-entry	Crabe		
+entry	Crabe [P. Gervais]		
+orth	Crabe		
 pb	300	0304	4515563
 entry	Crabe (Ulcère des pieds)		
 ref	Framboesia		
-entry	Craca		
-ref	Vesce		
-entry	Crachats		
+entry	Craca.. Planchon]		
+ref	Vesce [G		
+entry	Crachats [C. Zuber]		
+orth	Crachats		
 pb	301	0305	4515564
 pb	302	0306	4515565
 pb	303	0307	4515566
@@ -508,13 +572,17 @@ pb	363	0367	4515626
 pb	364	0368	4515627
 entry	Craie		
 ref	Chaux		
-entry	Craigie (David)		
-entry	Crambe (T.)		
+entry	Craigie (David) [A. Dureau]		
+orth	Craigie (David)		
+entry	Crambe (T.) [H. Baillon]		
+orth	Crambe (T.)		
 pb	365	0369	4515628
 pb	366	0370	4515629
-entry	Cramer (Les)		
+entry	Cramer (Les) [A. Chéreau, L. Hahn]		
+orth	Cramer (Les)		
 pb	367	0371	4515630
-entry	Crampes		
+entry	Crampes [C. Zuber]		
+orth	Crampes		
 pb	368	0372	4515631
 pb	369	0373	4515632
 pb	370	0374	4515633
@@ -526,17 +594,22 @@ pb	375	0379	4515638
 pb	376	0380	4515639
 pb	377	0381	4515640
 pb	378	0382	4515641
-entry	Crampe du coeur		
-entry	Crampe des écrivains		
+entry	Crampe du coeur [Amédée Dechambre]		
+orth	Crampe du coeur		
+entry	Crampe des écrivains [Amédée Dechambre]		
+orth	Crampe des écrivains		
 entry	Crampe d'estomac		
 ref	Gastralgie		
-entry	Crampton (sir Philip)		
+entry	Crampton (sir Philip) [E. Beaugrand, L. Hahn]		
+orth	Crampton (sir Philip)		
 entry	Cran		
 ref	Cochléaria		
-entry	Cran de Bretagne		
+entry	Cran de Bretagne [H. Baillon]		
+orth	Cran de Bretagne		
 pb	379	0383	4515642
 entry	Crâne		
-entry	Crâne. Anatomie descriptive et chirurgicale		
+entry	Crâne. Anatomie descriptive et chirurgicale [Samuel Pozzi]		
+orth	Crâne. Anatomie descriptive et chirurgicale		
 pb	380	0384	4515643
 pb	381	0385	4515644
 pb	382	0386	4515645
@@ -606,7 +679,8 @@ pb	445	0449	4515708
 pb	446	0450	4515709
 pb	447	0451	4515710
 pb	448	0452	4515711
-entry	Crâne. Développement et évolution		
+entry	Crâne. Développement et évolution [Samuel Pozzi]		
+orth	Crâne. Développement et évolution		
 pb	449	0453	4515712
 pb	450	0454	4515713
 pb	451	0455	4515714
@@ -658,7 +732,8 @@ pb	496	0500	4515759
 pb	497	0501	4515760
 pb	498	0502	4515761
 entry	Crâne		
-entry	Crâne. Anatomie comparée		
+entry	Crâne. Anatomie comparée [G. Carlet]		
+orth	Crâne. Anatomie comparée		
 pb	499	0503	4515762
 pb	500	0504	4515763
 pb	501	0505	4515764
@@ -672,10 +747,13 @@ entry	Anatomie philosophique
 ref	Rachis		
 ref	Vertèbres		
 entry	Pathologie chirurgicale		
-entry	Difformités et vices de conformation du crâne		
+entry	Difformités et vices de conformation du crâne [E. Gayraud]		
+orth	Difformités et vices de conformation du crâne		
 pb	508	0512	4515771
-entry	Crâne. Pathologie chirurgicale. Difformités et vices de conformation		
-entry	Crâne. Pathologie chirurgicale. Lésions vitales et organiques des os du crâne		
+entry	Crâne. Pathologie chirurgicale. Difformités et vices de conformation [E. Gayraud]		
+orth	Crâne. Pathologie chirurgicale. Difformités et vices de conformation		
+entry	Crâne. Pathologie chirurgicale. Lésions vitales et organiques des os du crâne [E. Gayraud]		
+orth	Crâne. Pathologie chirurgicale. Lésions vitales et organiques des os du crâne		
 pb	509	0513	4515772
 pb	510	0514	4515773
 pb	511	0515	4515774
@@ -729,14 +807,17 @@ pb	558	0562	4515821
 pb	559	0563	4515822
 pb	560	0564	4515823
 entry	Pathologie chirurgicale		
-entry	Cavités aériennes du crâne		
-entry	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne. Anatomie et pathologie		
+entry	Cavités aériennes du crâne [E. Gayraud]		
+orth	Cavités aériennes du crâne		
+entry	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne. Anatomie et pathologie [E. Gayraud]		
+orth	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne. Anatomie et pathologie		
 pb	561	0565	4515824
 pb	562	0566	4515825
 pb	563	0567	4515826
 pb	564	0568	4515827
 pb	565	0569	4515828
-entry	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne, anatomie et pathologie		
+entry	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne, anatomie et pathologie [E. Gayraud]		
+orth	Crâne. Pathologie chirurgicale. Cavités aériennes du crâne, anatomie et pathologie		
 pb	566	0570	4515829
 pb	567	0571	4515830
 pb	568	0572	4515831
@@ -752,7 +833,8 @@ pb	577	0581	4515840
 pb	578	0582	4515841
 pb	579	0583	4515842
 pb	580	0584	4515843
-entry	Crâne. Pathologie chirurgicale. Lésions traumatiques du crâne		
+entry	Crâne. Pathologie chirurgicale. Lésions traumatiques du crâne [Legouest et Servier]		
+orth	Crâne. Pathologie chirurgicale. Lésions traumatiques du crâne		
 pb	581	0585	4515844
 pb	582	0586	4515845
 pb	583	0587	4515846
@@ -819,8 +901,10 @@ ref	Crevettes
 entry	Cranioclaste		
 ref	Céphalotripsie		
 pb	642	0646	4515905
-entry	Craniolaria		
-entry	Craniologie		
+entry	Craniolaria [G. Planchon]		
+orth	Craniolaria		
+entry	Craniologie [E. Dally]		
+orth	Craniologie		
 pb	643	0647	4515906
 pb	644	0648	4515907
 pb	645	0649	4515908
@@ -875,9 +959,11 @@ pb	693	0697	4515956
 pb	694	0698	4515957
 entry	Craniomancie ou Cranioscopie		
 ref	Phrénologie		
-entry	Craniotabes		
+entry	Craniotabes [Amédée Dechambre]		
+orth	Craniotabes		
 pb	695	0699	4515958
-entry	Craniotomie		
+entry	Craniotomie [Guéniot]		
+orth	Craniotomie		
 pb	696	0700	4515959
 pb	697	0701	4515960
 pb	698	0702	4515961
@@ -900,37 +986,51 @@ pb	714	0718	4515977
 pb	715	0719	4515978
 pb	716	0720	4515979
 pb	717	0721	4515980
-entry	Cransac (Eaux minérales de)		
+entry	Cransac (Eaux minérales de) [A. Rotureau]		
+orth	Cransac (Eaux minérales de)		
 pb	718	0722	4515981
 pb	719	0723	4515982
 pb	720	0724	4515983
 pb	721	0725	4515984
 pb	722	0726	4515985
-entry	Crantz (Henri-Joachim-Népomucène)		
-entry	Crapaud		
+entry	Crantz (Henri-Joachim-Népomucène) [A. Dureau]		
+orth	Crantz (Henri-Joachim-Népomucène)		
+entry	Crapaud [P. Gervais]		
+orth	Crapaud		
 pb	723	0727	4515986
 pb	724	0728	4515987
-entry	Craquements		
+entry	Craquements [V. Widal]		
+orth	Craquements		
 pb	725	0729	4515988
 pb	726	0730	4515989
 pb	727	0731	4515990
 pb	728	0732	4515991
 pb	729	0733	4515992
-entry	Crase		
-entry	Crasso (Giulio-Paolo)		
+entry	Crase [Amédée Dechambre]		
+orth	Crase		
+entry	Crasso (Giulio-Paolo) [E. Beaugrand]		
+orth	Crasso (Giulio-Paolo)		
 pb	730	0734	4515993
-entry	Crataegus (T)		
+entry	Crataegus (T) [H. Baillon]		
+orth	Crataegus (T)		
 pb	731	0735	4515994
 pb	732	0736	4515995
-entry	Cratégine		
-entry	Craterelle		
-entry	Cratevas		
+entry	Cratégine [Amédée Dechambre]		
+orth	Cratégine		
+entry	Craterelle [J. De Seynes]		
+orth	Craterelle		
+entry	Cratevas [E. Beaugrand]		
+orth	Cratevas		
 pb	733	0737	4515996
-entry	Crato de Krafftheim (Jean)		
-entry	Crause de Mellingen (Rodolphe-Guillaume)		
-entry	Crawford (Adair)		
+entry	Crato de Krafftheim (Jean) [A. Chéreau]		
+orth	Crato de Krafftheim (Jean)		
+entry	Crause de Mellingen (Rodolphe-Guillaume) [A. Chéreau]		
+orth	Crause de Mellingen (Rodolphe-Guillaume)		
+entry	Crawford (Adair) [A. Dureau]		
+orth	Crawford (Adair)		
 pb	734	0738	4515997
-entry	Créatine		
+entry	Créatine [L. Hahn]		
+orth	Créatine		
 pb	735	0739	4515998
 pb	736	0740	4515999
 pb	737	0741	4516000
@@ -938,11 +1038,13 @@ pb	738	0742	4516001
 pb	739	0743	4516002
 pb	740	0744	4516003
 pb	741	0745	4516004
-entry	Créatinine		
+entry	Créatinine [L. Hahn]		
+orth	Créatinine		
 pb	742	0746	4516005
 pb	743	0747	4516006
 pb	744	0748	4516007
-entry	Crèches		
+entry	Crèches [Siry]		
+orth	Crèches		
 pb	745	0749	4516008
 pb	746	0750	4516009
 pb	747	0751	4516010

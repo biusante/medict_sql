@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4583777
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4583778
 pb	[s. pag.]	0003	4583779
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4583780
 pb	1	0005	4583781
-entry	Rhume		
+entry	Rhume [Brochin]		
+orth	Rhume		
 pb	2	0006	4583782
 pb	3	0007	4583783
 pb	4	0008	4583784
@@ -16,49 +19,65 @@ pb	10	0014	4583790
 pb	11	0015	4583791
 pb	12	0016	4583792
 pb	13	0017	4583793
-entry	Rhumel (Jean-Conrad)		
+entry	Rhumel (Jean-Conrad) [A. Chéreau]		
+orth	Rhumel (Jean-Conrad)		
 entry	Rhus		
 ref	Sumac		
 entry	Rhygolène		
 ref	Rhigolène		
-entry	Rhynchophores		
-entry	Rhyne (Guillaume)		
-entry	Riberi (Alessandro)		
+entry	Rhynchophores [Paul Gervais]		
+orth	Rhynchophores		
+entry	Rhyne (Guillaume) [A. Chéreau]		
+orth	Rhyne (Guillaume)		
+entry	Riberi (Alessandro) [E. Beaugrand]		
+orth	Riberi (Alessandro)		
 pb	14	0018	4583794
-entry	Ribes (Les deux)		
+entry	Ribes (Les deux) [E. Beaugrand]		
+orth	Ribes (Les deux)		
 pb	15	0019	4583795
 pb	16	0020	4583796
 entry	Ribes		
 ref	Groseillier		
-entry	Richard l'Anglais		
-entry	Richard (Les)		
+entry	Richard l'Anglais [E. Beaugrand]		
+orth	Richard l'Anglais		
+entry	Richard (Les) [A. Chéreau, E. Beaugrand]		
+orth	Richard (Les)		
 pb	17	0021	4583797
 pb	18	0022	4583798
 pb	19	0023	4583799
-entry	Richard de Hantesierk (Le Baron)		
+entry	Richard de Hantesierk (Le Baron) [A. Chéreau]		
+orth	Richard de Hantesierk (Le Baron)		
 pb	20	0024	4583800
 entry	Richardia		
 ref	Richardsonia		
-entry	Richardsonia		
-entry	Riche (Claude-Antoine-Gaspard)		
+entry	Richardsonia [G. Planchon]		
+orth	Richardsonia		
+entry	Riche (Claude-Antoine-Gaspard) [A. Dureau]		
+orth	Riche (Claude-Antoine-Gaspard)		
 pb	21	0025	4583801
-entry	Richerand (Anthelme-Balthasar)		
+entry	Richerand (Anthelme-Balthasar) [A. Chéreau]		
+orth	Richerand (Anthelme-Balthasar)		
 pb	22	0026	4583802
 pb	23	0027	4583803
 pb	24	0028	4583804
-entry	Richond des Brus (Louis-François-Régis-Adolphe)		
-entry	Richter (Les)		
+entry	Richond des Brus (Louis-François-Régis-Adolphe) [E. Beaugrand]		
+orth	Richond des Brus (Louis-François-Régis-Adolphe)		
+entry	Richter (Les) [A. Dureau]		
+orth	Richter (Les)		
 pb	25	0029	4583805
 pb	26	0030	4583806
 pb	27	0031	4583807
 entry	Ricin		
-entry	Ricin. Botanique		
+entry	Ricin. Botanique [H. Baillon]		
+orth	Ricin. Botanique		
 pb	28	0032	4583808
-entry	Ricin. Pharmacologie		
+entry	Ricin. Pharmacologie [T. Gobley]		
+orth	Ricin. Pharmacologie		
 pb	29	0033	4583809
 pb	30	0034	4583810
 pb	31	0035	4583811
-entry	Ricin. Thérapeutique		
+entry	Ricin. Thérapeutique [J. Delioux de Savignac]		
+orth	Ricin. Thérapeutique		
 pb	32	0036	4583812
 pb	33	0037	4583813
 pb	34	0038	4583814
@@ -67,83 +86,125 @@ pb	36	0040	4583816
 pb	37	0041	4583817
 pb	38	0042	4583818
 pb	39	0043	4583819
-entry	Ricin (Zool)		
-entry	Ricinélaïdine		
+entry	Ricin (Zool) [A. Laboulbène]		
+orth	Ricin (Zool)		
+entry	Ricinélaïdine [Malaguti]		
+orth	Ricinélaïdine		
 pb	40	0044	4583820
-entry	Ricinélaïdique (Acide)		
-entry	Ricinine		
-entry	Ricinique (Acide)		
-entry	Ricinolamide		
+entry	Ricinélaïdique (Acide) [Malaguti]		
+orth	Ricinélaïdique (Acide)		
+entry	Ricinine [Malaguti]		
+orth	Ricinine		
+entry	Ricinique (Acide) [Malaguti]		
+orth	Ricinique (Acide)		
+entry	Ricinolamide [Malaguti]		
+orth	Ricinolamide		
 pb	41	0045	4583821
-entry	Ricinolique (Acide)		
-entry	Ricins		
+entry	Ricinolique (Acide) [Malaguti]		
+orth	Ricinolique (Acide)		
+entry	Ricins [A. Laboulbène]		
+orth	Ricins		
 pb	42	0046	4583822
 pb	43	0047	4583823
 pb	44	0048	4583824
-entry	Rideux (Les)		
+entry	Rideux (Les) [L. Hahn]		
+orth	Rideux (Les)		
 pb	45	0049	4583825
-entry	Ridley (Les)		
-entry	Riedel (Les)		
+entry	Ridley (Les) [A. Chéreau]		
+orth	Ridley (Les)		
+entry	Riedel (Les) [L. Hahn]		
+orth	Riedel (Les)		
 pb	46	0050	4583826
 pb	47	0051	4583827
-entry	Riedlin (Les Deux)		
-entry	Rieumajou (Eaux minérales de)		
+entry	Riedlin (Les Deux) [A. Chéreau]		
+orth	Riedlin (Les Deux)		
+entry	Rieumajou (Eaux minérales de) [A. Rotureau]		
+orth	Rieumajou (Eaux minérales de)		
 pb	48	0052	4583828
-entry	Riffault-Deshêtres (Jean-René-Denis)		
-entry	Rigal (Les deux)		
+entry	Riffault-Deshêtres (Jean-René-Denis) [A. Dureau]		
+orth	Riffault-Deshêtres (Jean-René-Denis)		
+entry	Rigal (Les deux) [E. Beaugrand]		
+orth	Rigal (Les deux)		
 pb	49	0053	4583829
-entry	Rigby (Les deux)		
+entry	Rigby (Les deux) [E. Beaugrand]		
+orth	Rigby (Les deux)		
 pb	50	0054	4583830
 pb	51	0055	4583831
-entry	Rigidité		
-entry	Rigor		
-ref	Frisson		
-entry	Rigord		
+entry	Rigidité [Amédée Dechambre]		
+orth	Rigidité		
+entry	Rigor..]		
+ref	Frisson [D		
+entry	Rigord [E. Beaugrand]		
+orth	Rigord		
 pb	52	0056	4583832
-entry	Rigot (Félix)		
-entry	Rilliet (Frédéric)		
+entry	Rigot (Félix) [E. Beaugrand]		
+orth	Rigot (Félix)		
+entry	Rilliet (Frédéric) [E. Beaugrand]		
+orth	Rilliet (Frédéric)		
 pb	53	0057	4583833
-entry	Ring (John)		
-entry	Riolan (Les deux)		
+entry	Ring (John) [A. Chéreau]		
+orth	Ring (John)		
+entry	Riolan (Les deux) [A. Chéreau]		
+orth	Riolan (Les deux)		
 pb	54	0058	4583834
 pb	55	0059	4583835
 pb	56	0060	4583836
-entry	Riolozinique (Acide)		
+entry	Riolozinique (Acide) [Schützenberger]		
+orth	Riolozinique (Acide)		
 pb	57	0061	4583837
-entry	Ripault (L.-H.-Ant.)		
-entry	Rippoldsau (Eaux minérales, cures de petit-lait, bains de gaz de)		
+entry	Ripault (L.-H.-Ant.) [E. Beaugrand]		
+orth	Ripault (L.-H.-Ant.)		
+entry	Rippoldsau (Eaux minérales, cures de petit-lait, bains de gaz de) [A. Rotureau]		
+orth	Rippoldsau (Eaux minérales, cures de petit-lait, bains de gaz de)		
 pb	58	0062	4583838
-entry	Rippoldsau (Eaux minérales de)		
+entry	Rippoldsau (Eaux minérales de) [A. Rotureau]		
+orth	Rippoldsau (Eaux minérales de)		
 pb	59	0063	4583839
 pb	60	0064	4583840
 pb	61	0065	4583841
-entry	Rire		
+entry	Rire [Amédée Dechambre]		
+orth	Rire		
 pb	62	0066	4583842
 pb	63	0067	4583843
 pb	64	0068	4583844
-entry	Risorius novus de Santorini		
-entry	Risueno de Amador (Benigno-Juan-Isidoro)		
-entry	Ristelhueber (M.-A.)		
+entry	Risorius novus de Santorini [Amédée Dechambre]		
+orth	Risorius novus de Santorini		
+entry	Risueno de Amador (Benigno-Juan-Isidoro) [E. Beaugrand]		
+orth	Risueno de Amador (Benigno-Juan-Isidoro)		
+entry	Ristelhueber (M.-A.) [E. Beaugrand]		
+orth	Ristelhueber (M.-A.)		
 pb	65	0069	4583845
-entry	Rité		
-entry	Ritgen (Fred.-Aug.-Max.-Franz von)		
+entry	Rité [G. Planchon]		
+orth	Rité		
+entry	Ritgen (Fred.-Aug.-Max.-Franz von) [E. Beaugrand]		
+orth	Ritgen (Fred.-Aug.-Max.-Franz von)		
 pb	66	0070	4583846
-entry	Ritter (Les)		
-entry	Rivallié (Jean)		
+entry	Ritter (Les) [A. Dureau]		
+orth	Ritter (Les)		
+entry	Rivallié (Jean) [E. Beaugrand]		
+orth	Rivallié (Jean)		
 pb	67	0071	4583847
-entry	Rivera (Francisco Suares de)		
-entry	Rivière et la Rivière (Les)		
+entry	Rivera (Francisco Suares de) [E. Beaugrand]		
+orth	Rivera (Francisco Suares de)		
+entry	Rivière et la Rivière (Les) [A. Chéreau]		
+orth	Rivière et la Rivière (Les)		
 pb	68	0072	4583848
 pb	69	0073	4583849
-entry	Rivière (Potion de)		
-entry	Rivinus (Bachman dit André)		
-entry	Rivinus (Augustus-Quirinus)		
+entry	Rivière (Potion de) [Amédée Dechambre]		
+orth	Rivière (Potion de)		
+entry	Rivinus (Bachman dit André) [A. Dureau]		
+orth	Rivinus (Bachman dit André)		
+entry	Rivinus (Augustus-Quirinus) [A. Dureau]		
+orth	Rivinus (Augustus-Quirinus)		
 pb	70	0074	4583850
-entry	Rivuline		
+entry	Rivuline [Schützenberger]		
+orth	Rivuline		
 entry	Riz		
-entry	Riz. Botanique		
+entry	Riz. Botanique [G. Planchon]		
+orth	Riz. Botanique		
 pb	71	0075	4583851
-entry	Riz. Bromatologie		
+entry	Riz. Bromatologie [Ernest Labbée]		
+orth	Riz. Bromatologie		
 pb	72	0076	4583852
 pb	73	0077	4583853
 pb	74	0078	4583854
@@ -152,9 +213,11 @@ pb	76	0080	4583856
 pb	77	0081	4583857
 pb	78	0082	4583858
 pb	79	0083	4583859
-entry	Riz. Thérapeutique		
+entry	Riz. Thérapeutique [Ernest Labbée]		
+orth	Riz. Thérapeutique		
 pb	80	0084	4583860
-entry	Rizières (Hygiène agricole)		
+entry	Rizières (Hygiène agricole) [E. Beaugrand]		
+orth	Rizières (Hygiène agricole)		
 pb	81	0085	4583861
 pb	82	0086	4583862
 pb	83	0087	4583863
@@ -164,22 +227,33 @@ pb	86	0090	4583866
 pb	87	0091	4583867
 pb	88	0092	4583868
 pb	89	0093	4583869
-entry	Roanne (Eau minérale de)		
-entry	Rob		
-entry	Robert (Les)		
+entry	Roanne (Eau minérale de) [A. Rotureau]		
+orth	Roanne (Eau minérale de)		
+entry	Rob [T. Gobley]		
+orth	Rob		
+entry	Robert (Les) [E. Beaugrand]		
+orth	Robert (Les)		
 pb	90	0094	4583870
 pb	91	0095	4583871
-entry	Robert Thomas (Poudre de)		
-entry	Robertson		
+entry	Robert Thomas (Poudre de) [Amédée Dechambre]		
+orth	Robert Thomas (Poudre de)		
+entry	Robertson [E. Beaugrand]		
+orth	Robertson		
 pb	92	0096	4583872
-entry	Robinet (Stéphane)		
-entry	Robinier		
+entry	Robinet (Stéphane) [E. Beaugrand]		
+orth	Robinet (Stéphane)		
+entry	Robinier [G. Planchon]		
+orth	Robinier		
 pb	93	0097	4583873
-entry	Robinine		
-entry	Robinique (Acide)		
-entry	Robiquet (Les)		
+entry	Robinine [Amédée Dechambre]		
+orth	Robinine		
+entry	Robinique (Acide) [Amédée Dechambre]		
+orth	Robinique (Acide)		
+entry	Robiquet (Les) [A. Dureau, E. Beaugrand]		
+orth	Robiquet (Les)		
 pb	94	0098	4583874
-entry	Robsahm (Olof-Abraham)		
+entry	Robsahm (Olof-Abraham) [A. Dureau]		
+orth	Robsahm (Olof-Abraham)		
 entry	Robur		
 ref	Chêne		
 pb	95	0099	4583875
@@ -187,20 +261,27 @@ entry	Rocambole
 ref	Ail		
 entry	Roccelle		
 ref	Orseille		
-entry	Roccelline		
-entry	Roccellique (Acide)		
-entry	Roche (Juan-Luis)		
-entry	Roche (Louis-Charles)		
+entry	Roccelline [Malaguti]		
+orth	Roccelline		
+entry	Roccellique (Acide) [Malaguti]		
+orth	Roccellique (Acide)		
+entry	Roche (Juan-Luis) [A. Beaugrand]		
+orth	Roche (Juan-Luis)		
+entry	Roche (Louis-Charles) [E. Beaugrand]		
+orth	Roche (Louis-Charles)		
 pb	96	0100	4583876
 pb	97	0101	4583877
 entry	Roche-Carbon (La) (Eau minérale de)		
 ref	La Roche-Cardon		
-entry	Roche-Corbon (Eau minérale de)		
+entry	Roche-Corbon (Eau minérale de) [A. Rotureau]		
+orth	Roche-Corbon (Eau minérale de)		
 entry	Roche-Posay (La) (Eau minérale de)		
 ref	La Roche-Posay		
-entry	Roche-Savine (Saint-Amant-) (Eaux minérales de)		
+entry	Roche-Savine (Saint-Amant-) (Eaux minérales de) [A. Rotureau]		
+orth	Roche-Savine (Saint-Amant-) (Eaux minérales de)		
 pb	98	0102	4583878
-entry	Rochefort (Eau minérale de)		
+entry	Rochefort (Eau minérale de) [A. Rotureau]		
+orth	Rochefort (Eau minérale de)		
 pb	99	0103	4583879
 pb	100	0104	4583880
 pb	101	0105	4583881
@@ -209,64 +290,92 @@ ref	Crâne
 ref	Temporal		
 entry	Roches (Les) (Eau minérale de)		
 ref	Les Roches		
-entry	Rochoux (Jacques-André)		
+entry	Rochoux (Jacques-André) [A. Dureau]		
+orth	Rochoux (Jacques-André)		
 pb	102	0106	4583882
-entry	Rocou, Rocouyer		
+entry	Rocou, Rocouyer [H. Baillon]		
+orth	Rocou, Rocouyer		
 pb	103	0107	4583883
 pb	104	0108	4583884
-entry	Rodet (Jean-Baptiste-Claude)		
+entry	Rodet (Jean-Baptiste-Claude) [E. Beaugrand]		
+orth	Rodet (Jean-Baptiste-Claude)		
 pb	105	0109	4583885
-entry	Rodriguez (Les)		
+entry	Rodriguez (Les) [E. Beaugrand]		
+orth	Rodriguez (Les)		
 pb	106	0110	4583886
-entry	Rodriguez de Vera (Manuel-Ant.)		
-entry	Roeber (Frédéric-Auguste)		
-entry	Roebruck (John)		
+entry	Rodriguez de Vera (Manuel-Ant.) [E. Beaugrand]		
+orth	Rodriguez de Vera (Manuel-Ant.)		
+entry	Roeber (Frédéric-Auguste) [A. Dureau]		
+orth	Roeber (Frédéric-Auguste)		
+entry	Roebruck (John) [A. Dureau]		
+orth	Roebruck (John)		
 pb	107	0111	4583887
-entry	Roederer (Les)		
+entry	Roederer (Les) [A. Dureau]		
+orth	Roederer (Les)		
 pb	108	0112	4583888
-entry	Roemer (Les)		
+entry	Roemer (Les) [L. Hahn]		
+orth	Roemer (Les)		
 pb	109	0113	4583889
-entry	Roeschlaub (Johann-Andreas)		
+entry	Roeschlaub (Johann-Andreas) [E. Beaugrand]		
+orth	Roeschlaub (Johann-Andreas)		
 pb	110	0114	4583890
-entry	Roesel von Rosenhof (August-Johann)		
-entry	Roeser (Les)		
+entry	Roesel von Rosenhof (August-Johann) [L. Hahn]		
+orth	Roesel von Rosenhof (August-Johann)		
+entry	Roeser (Les) [L. Hahn]		
+orth	Roeser (Les)		
 pb	111	0115	4583891
-entry	Roeslin (Eucharius)		
-entry	Roestelia		
+entry	Roeslin (Eucharius) [E. Beaugrand]		
+orth	Roeslin (Eucharius)		
+entry	Roestelia [J. De Seynes]		
+orth	Roestelia		
 pb	112	0116	4583892
-entry	Roger (de Parme), Ruggiero		
+entry	Roger (de Parme), Ruggiero [E. Beaugrand]		
+orth	Roger (de Parme), Ruggiero		
 pb	113	0117	4583893
-entry	Rognetta (Francesco)		
+entry	Rognetta (Francesco) [E. Beaugrand]		
+orth	Rognetta (Francesco)		
 pb	114	0118	4583894
-entry	Roland ou Rolando (Les)		
+entry	Roland ou Rolando (Les) [E. Beaugrand]		
+orth	Roland ou Rolando (Les)		
 pb	115	0119	4583895
 pb	116	0120	4583896
-entry	Rolfinck (Guerner)		
+entry	Rolfinck (Guerner) [A. Chéreau]		
+orth	Rolfinck (Guerner)		
 pb	117	0121	4583897
-entry	Rollo (John)		
-entry	Roloff (Chrétien-Louis)		
+entry	Rollo (John) [E. Beaugrand]		
+orth	Rollo (John)		
+entry	Roloff (Chrétien-Louis) [A. Dureau]		
+orth	Roloff (Chrétien-Louis)		
 pb	118	0122	4583898
-entry	Romain (Adrien)		
+entry	Romain (Adrien) [A. Dureau]		
+orth	Romain (Adrien)		
 entry	Romain (Éthnologie)		
 ref	Italie		
 entry	Romaine		
 ref	Laitue		
-entry	Romain-le-Puy (Saint-) (Eaux minérales de)		
+entry	Romain-le-Puy (Saint-) (Eaux minérales de) [A. Rotureau]		
+orth	Romain-le-Puy (Saint-) (Eaux minérales de)		
 pb	119	0123	4583899
-entry	Romani (Giovanni de)		
+entry	Romani (Giovanni de) [E. Beaugrand]		
+orth	Romani (Giovanni de)		
 entry	Romanie		
 ref	Roumanie		
-entry	Romanson (Henri-Wilhelm)		
+entry	Romanson (Henri-Wilhelm) [A. Dureau]		
+orth	Romanson (Henri-Wilhelm)		
 entry	Romarin		
-entry	Romarin. Botanique		
+entry	Romarin. Botanique [G. Planchon]		
+orth	Romarin. Botanique		
 pb	120	0124	4583900
-entry	Romarin. Emploi médical		
+entry	Romarin. Emploi médical [Ernest Labbée]		
+orth	Romarin. Emploi médical		
 pb	121	0125	4583901
 pb	122	0126	4583902
 pb	123	0127	4583903
-entry	Romberg (Moritz-Heinrich)		
+entry	Romberg (Moritz-Heinrich) [E. Beaugrand]		
+orth	Romberg (Moritz-Heinrich)		
 pb	124	0128	4583904
-entry	Rome		
+entry	Rome [Léon Colin]		
+orth	Rome		
 pb	125	0129	4583905
 pb	126	0130	4583906
 pb	127	0131	4583907
@@ -327,74 +436,98 @@ pb	181	0185	4583961
 pb	182	0186	4583962
 pb	183	0187	4583963
 pb	184	0188	4583964
-entry	Ronander (Carl-Wilhelm-Henrik)		
-entry	Ronas		
-entry	Roncalli-Parolino (Francesco, comte)		
+entry	Ronander (Carl-Wilhelm-Henrik) [A. Dureau]		
+orth	Ronander (Carl-Wilhelm-Henrik)		
+entry	Ronas [G. Planchon]		
+orth	Ronas		
+entry	Roncalli-Parolino (Francesco, comte) [E. Beaugrand]		
+orth	Roncalli-Parolino (Francesco, comte)		
 pb	185	0189	4583965
 entry	Ronce		
-entry	Ronce. Botanique		
+entry	Ronce. Botanique [H. Baillon]		
+orth	Ronce. Botanique		
 pb	186	0190	4583966
 pb	187	0191	4583967
 pb	188	0192	4583968
-entry	Emploi médical		
+entry	Emploi médical [J. Delioux de Savignac]		
+orth	Emploi médical		
 pb	189	0193	4583969
 entry	Ronce		
-entry	Emploi médical		
+entry	Emploi médical [J. Delioux de Savignac]		
+orth	Emploi médical		
 entry	Rond (Muscle)		
 ref	Ronds		
-entry	Rondelet (Guillaume)		
+entry	Rondelet (Guillaume) [A. Chéreau]		
+orth	Rondelet (Guillaume)		
 pb	190	0194	4583970
 entry	Rondelette ou Rondette		
 ref	Glechoma		
 ref	Lierre terrestre)		
 entry	Rondier		
 ref	Arenga		
-entry	Ronds (Muscles grand et petit-)		
-entry	Ronflement		
+entry	Ronds (Muscles grand et petit-) [Amédée Dechambre]		
+orth	Ronds (Muscles grand et petit-)		
+entry	Ronflement [Maurice Krishaber]		
+orth	Ronflement		
 pb	191	0195	4583971
 entry	Ronflement (Auscultation)		
 ref	Râle		
-entry	Rongeurs		
+entry	Rongeurs [Paul Gervais]		
+orth	Rongeurs		
 pb	192	0196	4583972
 pb	193	0197	4583973
 pb	194	0198	4583974
 pb	195	0199	4583975
-entry	Roonhuysen (Les deux)		
-entry	Roose (Théodore-George-Auguste)		
+entry	Roonhuysen (Les deux) [A. Chéreau]		
+orth	Roonhuysen (Les deux)		
+entry	Roose (Théodore-George-Auguste) [A. Chéreau]		
+orth	Roose (Théodore-George-Auguste)		
 pb	196	0200	4583976
-entry	Roquetaillade (Jean de la)		
+entry	Roquetaillade (Jean de la) [L. Hahn]		
+orth	Roquetaillade (Jean de la)		
 pb	197	0201	4583977
-entry	Roques (Joseph)		
+entry	Roques (Joseph) [E. Beaugrand]		
+orth	Roques (Joseph)		
 pb	198	0202	4583978
-entry	Roquette		
-entry	Rorquals		
+entry	Roquette [G. Planchon]		
+orth	Roquette		
+entry	Rorquals [Paul Gervais]		
+orth	Rorquals		
 pb	199	0203	4583979
 pb	200	0204	4583980
 pb	201	0205	4583981
 pb	202	0206	4583982
 entry	Ros Solis		
 ref	Drosera		
-entry	Rosacées		
+entry	Rosacées [H. Baillon]		
+orth	Rosacées		
 pb	203	0207	4583983
 pb	204	0208	4583984
-entry	Rosacique (Acide)		
-entry	Rosains (Bernardo-Dominguez)		
+entry	Rosacique (Acide) [Amédée Dechambre]		
+orth	Rosacique (Acide)		
+entry	Rosains (Bernardo-Dominguez) [E. Beaugrand]		
+orth	Rosains (Bernardo-Dominguez)		
 entry	Rosaniline		
 ref	Fuchsine		
-ref	Goudron de houille)		
+ref	Goudron de houille) [Schützenberger]		
 entry	Rosat (Miel)		
 ref	Mellites		
-entry	Rosat (Onguent)		
+entry	Rosat (Onguent) [T. Gobley]		
+orth	Rosat (Onguent)		
 pb	205	0209	4583985
-entry	Roscoff (Station marine de)		
-entry	Rose (Heinrich)		
+entry	Roscoff (Station marine de) [A. Rotureau]		
+orth	Roscoff (Station marine de)		
+entry	Rose (Heinrich) [E. Beaugrand]		
+orth	Rose (Heinrich)		
 entry	Rose, Rosier		
-entry	Rose, Rosier. Botanique		
+entry	Rose, Rosier. Botanique [H. Baillon, G. Planchon]		
+orth	Rose, Rosier. Botanique		
 pb	206	0210	4583986
 pb	207	0211	4583987
 pb	208	0212	4583988
 pb	209	0213	4583989
-entry	Rose, Rosier. Pharmacologie		
+entry	Rose, Rosier. Pharmacologie [J. Delioux de Savignac]		
+orth	Rose, Rosier. Pharmacologie		
 pb	210	0214	4583990
 pb	211	0215	4583991
 pb	212	0216	4583992
@@ -404,21 +537,29 @@ pb	215	0219	4583995
 pb	216	0220	4583996
 pb	217	0221	4583997
 entry	Roseau		
-entry	Roseau. Botanique		
+entry	Roseau. Botanique [G. Planchon]		
+orth	Roseau. Botanique		
 pb	218	0222	4583998
-entry	Emploi médical		
-entry	Rosée		
+entry	Emploi médical [Amédée Dechambre]		
+orth	Emploi médical		
+entry	Rosée [E. Renou]		
+orth	Rosée		
 pb	219	0223	4583999
 pb	220	0224	4584000
-entry	Roséine		
-entry	Rosen de Rosenstein (Nicolas)		
+entry	Roséine [Schützenberger]		
+orth	Roséine		
+entry	Rosen de Rosenstein (Nicolas) [A. Chéreau]		
+orth	Rosen de Rosenstein (Nicolas)		
 pb	221	0225	4584001
-entry	Rosenmueller (Jean-Chrétien)		
+entry	Rosenmueller (Jean-Chrétien) [A. Chéreau]		
+orth	Rosenmueller (Jean-Chrétien)		
 entry	Rosenmueller (Organe de)		
 ref	Ovaires		
-entry	Rosenthal (Friedrich-Christian)		
+entry	Rosenthal (Friedrich-Christian) [L. Hahn]		
+orth	Rosenthal (Friedrich-Christian)		
 pb	222	0226	4584002
-entry	Roséole		
+entry	Roséole [Henri Roger, Damaschino]		
+orth	Roséole		
 pb	223	0227	4584003
 pb	224	0228	4584004
 pb	225	0229	4584005
@@ -433,51 +574,74 @@ pb	233	0237	4584013
 pb	234	0238	4584014
 pb	235	0239	4584015
 pb	236	0240	4584016
-entry	Rosheim (Eau minérale et cure de petit-lait de)		
-entry	Rosheim (Eau minérale de)		
+entry	Rosheim (Eau minérale et cure de petit-lait de) [A. Rotureau]		
+orth	Rosheim (Eau minérale et cure de petit-lait de)		
+entry	Rosheim (Eau minérale de) [A. Rotureau]		
+orth	Rosheim (Eau minérale de)		
 pb	237	0241	4584017
 entry	Rosier		
 ref	Rose		
 entry	Rosmarinus		
 ref	Romarin		
-entry	Rosocyanine		
-entry	Rosolique (Acide)		
-entry	Rossi (Giovanni)		
+entry	Rosocyanine [Schützenberger]		
+orth	Rosocyanine		
+entry	Rosolique (Acide) [Schützenberger]		
+orth	Rosolique (Acide)		
+entry	Rossi (Giovanni) [E. Beaugrand]		
+orth	Rossi (Giovanni)		
 pb	238	0242	4584018
-entry	Rossignol		
-entry	Rossignol des Tanneurs		
-entry	Rostan (Léon-Louis)		
+entry	Rossignol [Paul Gervais]		
+orth	Rossignol		
+entry	Rossignol des Tanneurs [Amédée Dechambre]		
+orth	Rossignol des Tanneurs		
+entry	Rostan (Léon-Louis) [A. Chéreau]		
+orth	Rostan (Léon-Louis)		
 pb	239	0243	4584019
 pb	240	0244	4584020
 entry	Rot		
 ref	Éructation		
-entry	Rota (Les)		
-entry	Rotang		
+entry	Rota (Les) [A. Dureau]		
+orth	Rota (Les)		
+entry	Rotang [G. Planchon]		
+orth	Rotang		
 pb	241	0245	4584021
-entry	Rotarius (Sébastien)		
-entry	Rotateurs		
+entry	Rotarius (Sébastien) [A. Dureau]		
+orth	Rotarius (Sébastien)		
+entry	Rotateurs [Paul Gervais]		
+orth	Rotateurs		
 pb	242	0246	4584022
-entry	Rotatoire (Bruit)		
+entry	Rotatoire (Bruit) [Amédée Dechambre]		
+orth	Rotatoire (Bruit)		
 pb	243	0247	4584023
-entry	Roth (Albert-Guillaume)		
-entry	Rothenbach (Eau minérale de)		
-entry	Rothenfels (Eau minérale de)		
+entry	Roth (Albert-Guillaume) [A. Dureau]		
+orth	Roth (Albert-Guillaume)		
+entry	Rothenbach (Eau minérale de) [A. Rotureau]		
+orth	Rothenbach (Eau minérale de)		
+entry	Rothenfels (Eau minérale de) [A. Rotureau]		
+orth	Rothenfels (Eau minérale de)		
 pb	244	0248	4584024
-entry	Rotifères		
+entry	Rotifères [Paul Gervais]		
+orth	Rotifères		
 pb	245	0249	4584025
 entry	Rotin		
 ref	Rotang		
-entry	Rotterdam (Jean-Charles Van)		
-entry	Rottlera		
-entry	Rottlerine		
-entry	Rotule		
-entry	Rotule. Anatomie		
+entry	Rotterdam (Jean-Charles Van) [E. Beaugrand]		
+orth	Rotterdam (Jean-Charles Van)		
+entry	Rottlera [H. Baillon]		
+orth	Rottlera		
+entry	Rottlerine [Amédée Dechambre]		
+orth	Rottlerine		
+entry	Rotule [Paul Berger]		
+orth	Rotule		
+entry	Rotule. Anatomie [Paul Berger]		
+orth	Rotule. Anatomie		
 pb	246	0250	4584026
 pb	247	0251	4584027
 pb	248	0252	4584028
 pb	249	0253	4584029
 pb	250	0254	4584030
-entry	Rotule. Pathologie		
+entry	Rotule. Pathologie [Paul Berger]		
+orth	Rotule. Pathologie		
 pb	251	0255	4584031
 pb	252	0256	4584032
 pb	253	0257	4584033
@@ -598,20 +762,28 @@ pb	367	0371	4584147
 pb	368	0372	4584148
 pb	369	0373	4584149
 pb	370	0374	4584150
-entry	Rouanet (J.)		
+entry	Rouanet (J.) [E. Beaugrand]		
+orth	Rouanet (J.)		
 pb	371	0375	4584151
-entry	Roucas-Blanc (Eau minérale, station marine et station d'hiver du)		
+entry	Roucas-Blanc (Eau minérale, station marine et station d'hiver du) [A. Rotureau]		
+orth	Roucas-Blanc (Eau minérale, station marine et station d'hiver du)		
 pb	372	0376	4584152
 pb	373	0377	4584153
-entry	Roucher (Les)		
-entry	Rouelle (Les)		
+entry	Roucher (Les) [A. Dureau]		
+orth	Roucher (Les)		
+entry	Rouelle (Les) [A. Chéreau]		
+orth	Rouelle (Les)		
 pb	374	0378	4584154
-entry	Rouen (Eaux minérales et établissement hydrothérapique de)		
+entry	Rouen (Eaux minérales et établissement hydrothérapique de) [A. Rotureau]		
+orth	Rouen (Eaux minérales et établissement hydrothérapique de)		
 pb	375	0379	4584155
-entry	Rouge		
-entry	Rougemont (Joseph-Claude)		
+entry	Rouge [Amédée Dechambre]		
+orth	Rouge		
+entry	Rougemont (Joseph-Claude) [A. Chéreau]		
+orth	Rougemont (Joseph-Claude)		
 pb	376	0380	4584156
-entry	Rougeole		
+entry	Rougeole [A. Sanné]		
+orth	Rougeole		
 pb	377	0381	4584157
 pb	378	0382	4584158
 pb	379	0383	4584159
@@ -665,14 +837,20 @@ pb	426	0430	4584206
 pb	427	0431	4584207
 entry	Rougeole (Botanique)		
 ref	Mélampyrum		
-entry	Rouget		
-entry	Rougier (Louis-Auguste)		
+entry	Rouget [Paul Gervais]		
+orth	Rouget		
+entry	Rougier (Louis-Auguste) [A. Dureau]		
+orth	Rougier (Louis-Auguste)		
 pb	428	0432	4584208
-entry	Rougnon de Magny (Nicolas-François)		
-entry	Rouhault (Pierre-Simon)		
+entry	Rougnon de Magny (Nicolas-François) [A. Dureau]		
+orth	Rougnon de Magny (Nicolas-François)		
+entry	Rouhault (Pierre-Simon) [A. Dureau]		
+orth	Rouhault (Pierre-Simon)		
 pb	429	0433	4584209
-entry	Rouille		
-entry	Rouissage		
+entry	Rouille [J. de Seynes]		
+orth	Rouille		
+entry	Rouissage [Em. Vallin]		
+orth	Rouissage		
 pb	430	0434	4584210
 pb	431	0435	4584211
 pb	432	0436	4584212
@@ -720,9 +898,11 @@ pb	473	0477	4584253
 pb	474	0478	4584254
 pb	475	0479	4584255
 pb	476	0480	4584256
-entry	Roulin (François-Désiré)		
+entry	Roulin (François-Désiré) [E. Beaugrand]		
+orth	Roulin (François-Désiré)		
 pb	477	0481	4584257
-entry	Roumains		
+entry	Roumains [Obédénare]		
+orth	Roumains		
 pb	478	0482	4584258
 pb	479	0483	4584259
 pb	480	0484	4584260
@@ -746,39 +926,54 @@ pb	497	0501	4584277
 pb	498	0502	4584278
 pb	499	0503	4584279
 pb	500	0504	4584280
-entry	Rouppe (Louis)		
-entry	Rousseau (Georges-Louis-Claude)		
-entry	Rousseau (Louis-Fr.-Emmanuel)		
+entry	Rouppe (Louis) [A. Dureau]		
+orth	Rouppe (Louis)		
+entry	Rousseau (Georges-Louis-Claude) [A. Chéreau]		
+orth	Rousseau (Georges-Louis-Claude)		
+entry	Rousseau (Louis-Fr.-Emmanuel) [E. Beaugrand]		
+orth	Rousseau (Louis-Fr.-Emmanuel)		
 pb	501	0505	4584281
-entry	Roussel (Les)		
+entry	Roussel (Les) [A. Chéreau]		
+orth	Roussel (Les)		
 pb	502	0506	4584282
 pb	503	0507	4584283
 entry	Rousselot (Poudre de)		
 ref	Arsenic		
-entry	Rousset (François)		
+entry	Rousset (François) [A. Dureau]		
+orth	Rousset (François)		
 entry	Roussette		
 ref	Chanterelle		
-entry	Roussette (Pteropus)		
+entry	Roussette (Pteropus) [Paul Gervais]		
+orth	Roussette (Pteropus)		
 pb	504	0508	4584284
-entry	Roussette (Scyllium)		
-entry	Roussille de Chamseru (Jean-François-Jacques)		
+entry	Roussette (Scyllium) [Paul Gervais]		
+orth	Roussette (Scyllium)		
+entry	Roussille de Chamseru (Jean-François-Jacques) [E. Beaugrand]		
+orth	Roussille de Chamseru (Jean-François-Jacques)		
 entry	Rouvre		
 ref	Chêne		
-entry	Roux (Les)		
+entry	Roux (Les) [E. Beaugrand]		
+orth	Roux (Les)		
 pb	505	0509	4584285
 pb	506	0510	4584286
 pb	507	0511	4584287
 pb	508	0512	4584288
 pb	509	0513	4584289
-entry	Rouzat (Eaux minérales de)		
+entry	Rouzat (Eaux minérales de) [A. Rotureau]		
+orth	Rouzat (Eaux minérales de)		
 pb	510	0514	4584290
-entry	Rouzet (François-Léon)		
-entry	Roverelli (Jean-Antoine)		
-entry	Rowley (William)		
+entry	Rouzet (François-Léon) [A. Dureau]		
+orth	Rouzet (François-Léon)		
+entry	Roverelli (Jean-Antoine) [L. Hahn]		
+orth	Roverelli (Jean-Antoine)		
+entry	Rowley (William) [A. Dureau]		
+orth	Rowley (William)		
 pb	511	0515	4584291
-entry	Royan (Station marine de)		
+entry	Royan (Station marine de) [A. Rotureau]		
+orth	Royan (Station marine de)		
 pb	512	0516	4584292
-entry	Royat (Eaux minérales, cures de petit-lait et de raisin de)		
+entry	Royat (Eaux minérales, cures de petit-lait et de raisin de) [A. Rotureau]		
+orth	Royat (Eaux minérales, cures de petit-lait et de raisin de)		
 pb	513	0517	4584293
 pb	514	0518	4584294
 pb	515	0519	4584295
@@ -787,75 +982,115 @@ pb	517	0521	4584297
 pb	518	0522	4584298
 pb	519	0523	4584299
 pb	520	0524	4584300
-entry	Royen (Les van)		
-entry	Royer (Les)		
+entry	Royen (Les van) [L. Hahn]		
+orth	Royen (Les van)		
+entry	Royer (Les) [L. Hahn]		
+orth	Royer (Les)		
 pb	521	0525	4584301
-entry	Royer-Collard (Les Deux)		
+entry	Royer-Collard (Les Deux) [A. Chéreau]		
+orth	Royer-Collard (Les Deux)		
 pb	522	0526	4584302
 pb	523	0527	4584303
-entry	Royle (J.-Forbes)		
-entry	Royo (José-Miguel)		
+entry	Royle (J.-Forbes) [E. Beaugrand]		
+orth	Royle (J.-Forbes)		
+entry	Royo (José-Miguel) [L. Hahn]		
+orth	Royo (José-Miguel)		
 pb	524	0528	4584304
-entry	Ruban de Reil		
-entry	Rube (Adolph-Wilhelm-Ludwig-Friedrich)		
-entry	Rubéfiants		
+entry	Ruban de Reil [Amédée Dechambre]		
+orth	Ruban de Reil		
+entry	Rube (Adolph-Wilhelm-Ludwig-Friedrich) [L. Hahn]		
+orth	Rube (Adolph-Wilhelm-Ludwig-Friedrich)		
+entry	Rubéfiants [Amédée Dechambre]		
+orth	Rubéfiants		
 pb	525	0529	4584305
-entry	Rubérythrique (Acide)		
+entry	Rubérythrique (Acide) [L. Hahn]		
+orth	Rubérythrique (Acide)		
 pb	526	0530	4584306
 entry	Rubia		
 ref	Garance		
-entry	Rubiacées		
+entry	Rubiacées [G. Planchon]		
+orth	Rubiacées		
 pb	527	0531	4584307
-entry	Rubiacine		
-entry	Rubiacique (Acide)		
-entry	Rubiadine		
-entry	Rubiadipine		
+entry	Rubiacine [L. Hahn]		
+orth	Rubiacine		
+entry	Rubiacique (Acide) [L. Hahn]		
+orth	Rubiacique (Acide)		
+entry	Rubiadine [L. Hahn]		
+orth	Rubiadine		
+entry	Rubiadipine [L. Hahn]		
+orth	Rubiadipine		
 pb	528	0532	4584308
-entry	Rubiafine		
-entry	Rubiagine		
-entry	Rubian		
+entry	Rubiafine [L. Hahn]		
+orth	Rubiafine		
+entry	Rubiagine [L. Hahn]		
+orth	Rubiagine		
+entry	Rubian [L. Hahn]		
+orth	Rubian		
 pb	529	0533	4584309
-entry	Rubianine		
-entry	Rubianique (Acide)		
+entry	Rubianine [L. Hahn]		
+orth	Rubianine		
+entry	Rubianique (Acide) [L. Hahn]		
+orth	Rubianique (Acide)		
 pb	530	0534	4584310
 entry	Rubiastrum		
 ref	Garance		
-entry	Rubichlorique (Acide)		
-entry	Rubidehydran et Rubihydran		
+entry	Rubichlorique (Acide) [L. Hahn]		
+orth	Rubichlorique (Acide)		
+entry	Rubidehydran et Rubihydran [L. Hahn]		
+orth	Rubidehydran et Rubihydran		
 pb	531	0535	4584311
-entry	Rubidine		
-entry	Rubidium		
+entry	Rubidine [L. Hahn]		
+orth	Rubidine		
+entry	Rubidium [Malaguti]		
+orth	Rubidium		
 pb	532	0536	4584312
 pb	533	0537	4584313
 entry	Rubigo		
 ref	Rouille		
-entry	Rubine		
-entry	Rubini (Pietro)		
-entry	Rubinique (Acide)		
-entry	Rubinonitrique (Acide)		
+entry	Rubine [L. Hahn]		
+orth	Rubine		
+entry	Rubini (Pietro) [A. Chéreau]		
+orth	Rubini (Pietro)		
+entry	Rubinique (Acide) [L. Hahn]		
+orth	Rubinique (Acide)		
+entry	Rubinonitrique (Acide) [L. Hahn]		
+orth	Rubinonitrique (Acide)		
 pb	534	0538	4584314
-entry	Rubio (Francisco)		
-entry	Rubirétine		
-entry	Rubitannique (Acide)		
+entry	Rubio (Francisco) [E. Beaugrand, L. Hahn]		
+orth	Rubio (Francisco)		
+entry	Rubirétine [L. Hahn]		
+orth	Rubirétine		
+entry	Rubitannique (Acide) [L. Hahn]		
+orth	Rubitannique (Acide)		
 pb	535	0539	4584315
-entry	Rublack (Friedrich-Wilhelm		
+entry	Rublack (Friedrich-Wilhelm [L. Hahn]		
+orth	Rublack (Friedrich-Wilhelm		
 entry	Rubus		
 ref	Ronce		
-entry	Rudbeck (Les)		
+entry	Rudbeck (Les) [A. Dureau]		
+orth	Rudbeck (Les)		
 pb	536	0540	4584316
-entry	Rudel (Sigismond)		
-entry	Rudiger (Antoine)		
+entry	Rudel (Sigismond) [L. Hahn]		
+orth	Rudel (Sigismond)		
+entry	Rudiger (Antoine) [A. Dureau]		
+orth	Rudiger (Antoine)		
 pb	537	0541	4584317
-entry	Rudius (Eustache)		
-entry	Rudolph (Jean-Philippe-Jules)		
-entry	Rudolphi (Carl-Asmund)		
-entry	Rudtorffer (François-Xavier de)		
+entry	Rudius (Eustache) [A. Dureau]		
+orth	Rudius (Eustache)		
+entry	Rudolph (Jean-Philippe-Jules) [A. Dureau]		
+orth	Rudolph (Jean-Philippe-Jules)		
+entry	Rudolphi (Carl-Asmund) [E. Beaugrand]		
+orth	Rudolphi (Carl-Asmund)		
+entry	Rudtorffer (François-Xavier de) [A. Dureau]		
+orth	Rudtorffer (François-Xavier de)		
 pb	538	0542	4584318
 entry	Rue		
-entry	Rue. Botanique		
+entry	Rue. Botanique [H. Baillon]		
+orth	Rue. Botanique		
 pb	539	0543	4584319
 pb	540	0544	4584320
-entry	Rue. Emploi médical		
+entry	Rue. Emploi médical [E. Hamelin]		
+orth	Rue. Emploi médical		
 pb	541	0545	4584321
 pb	542	0546	4584322
 pb	543	0547	4584323
@@ -900,59 +1135,85 @@ pb	581	0585	4584361
 pb	582	0586	4584362
 entry	Rue de Chèvre		
 ref	Galéga		
-entry	Rue de Muraille		
+entry	Rue de Muraille [G. Planchon]		
+orth	Rue de Muraille		
 entry	Rue des Prés		
 ref	Pigamon		
 entry	Rue (Hygiène)		
 ref	Villes		
-entry	Ruehl (Joh.-Georg.-V.)		
-entry	Ruel (Jean)		
+entry	Ruehl (Joh.-Georg.-V.) [E. Beaugrand]		
+orth	Ruehl (Joh.-Georg.-V.)		
+entry	Ruel (Jean) [A. Chéreau]		
+orth	Ruel (Jean)		
 pb	583	0587	4584363
-entry	Ruellia		
+entry	Ruellia [G. Planchon]		
+orth	Ruellia		
 pb	584	0588	4584364
-entry	Ruer (Julius-Wilhelm)		
+entry	Ruer (Julius-Wilhelm) [L. Hahn]		
+orth	Ruer (Julius-Wilhelm)		
 pb	585	0589	4584365
-entry	Ruette (G.-P.)		
-entry	Ruff (Jacques)		
+entry	Ruette (G.-P.) [L. Hahn]		
+orth	Ruette (G.-P.)		
+entry	Ruff (Jacques) [A. Dureau]		
+orth	Ruff (Jacques)		
 pb	586	0590	4584366
-entry	Rufigallique (Acide)		
-entry	Rufine		
+entry	Rufigallique (Acide) [L. Hahn]		
+orth	Rufigallique (Acide)		
+entry	Rufine [L. Hahn]		
+orth	Rufine		
 pb	587	0591	4584367
-entry	Rufinosulfurique (Acide)		
-entry	Rufus (d'Éphèse)		
+entry	Rufinosulfurique (Acide) [L. Hahn]		
+orth	Rufinosulfurique (Acide)		
+entry	Rufus (d'Éphèse) [E. Beaugrand]		
+orth	Rufus (d'Éphèse)		
 pb	588	0592	4584368
-entry	Rugination, Rugines		
-entry	Ruïbarbo do Campo		
-entry	Ruillé (Eau minérale de)		
+entry	Rugination, Rugines [Amédée Dechambre]		
+orth	Rugination, Rugines		
+entry	Ruïbarbo do Campo [G. Planchon]		
+orth	Ruïbarbo do Campo		
+entry	Ruillé (Eau minérale de) [A. Rotureau]		
+orth	Ruillé (Eau minérale de)		
 pb	589	0593	4584369
-entry	Ruini (Carlo)		
+entry	Ruini (Carlo) [A. Chéreau]		
+orth	Ruini (Carlo)		
 pb	590	0594	4584370
 entry	Ruisseaux. (Hygiène)		
 ref	Villes		
-entry	Ruiz de Luzuriaga (Ignacio-Maria)		
+entry	Ruiz de Luzuriaga (Ignacio-Maria) [E. Beaugrand]		
+orth	Ruiz de Luzuriaga (Ignacio-Maria)		
 pb	591	0595	4584371
-entry	Rukafe		
-entry	Ruland (Les)		
+entry	Rukafe [G. Planchon]		
+orth	Rukafe		
+entry	Ruland (Les) [A. Dureau]		
+orth	Ruland (Les)		
 pb	592	0596	4584372
-entry	Ruland (Thomas-August)		
-entry	Ruleau (Jean)		
-entry	Rullier (P.)		
+entry	Ruland (Thomas-August) [L. Hahn]		
+orth	Ruland (Thomas-August)		
+entry	Ruleau (Jean) [A. Dureau]		
+orth	Ruleau (Jean)		
+entry	Rullier (P.) [A. Chéreau]		
+orth	Rullier (P.)		
 pb	593	0597	4584373
-entry	Rumbaum (Christophe)		
+entry	Rumbaum (Christophe) [L. Hahn]		
+orth	Rumbaum (Christophe)		
 pb	594	0598	4584374
-entry	Rumex		
+entry	Rumex.. Planchon]		
 ref	Rhapontic		
 ref	Rhubarbe		
 ref	Oseille		
-ref	Patience		
-entry	Rumfort (Benjamin Thomson, comte de)		
+ref	Patience [G		
+entry	Rumfort (Benjamin Thomson, comte de) [A. Chéreau]		
+orth	Rumfort (Benjamin Thomson, comte de)		
 pb	595	0599	4584375
-entry	Rumicine		
-entry	Ruminants		
+entry	Rumicine [L. Hahn]		
+orth	Rumicine		
+entry	Ruminants [Paul Gervais]		
+orth	Ruminants		
 pb	596	0600	4584376
 pb	597	0601	4584377
 pb	598	0602	4584378
-entry	Rumination		
+entry	Rumination [G. Carlet]		
+orth	Rumination		
 pb	599	0603	4584379
 pb	600	0604	4584380
 pb	601	0605	4584381
@@ -960,15 +1221,20 @@ pb	602	0606	4584382
 pb	603	0607	4584383
 pb	604	0608	4584384
 pb	605	0609	4584385
-entry	Rummel (Ludwig-Friedrich)		
+entry	Rummel (Ludwig-Friedrich) [L. Hahn]		
+orth	Rummel (Ludwig-Friedrich)		
 pb	606	0610	4584386
-entry	Rumpelt (Carl-August-Ferdinand)		
-entry	Rumph (Georg.-Everard) ou Rumphius		
+entry	Rumpelt (Carl-August-Ferdinand) [L. Hahn]		
+orth	Rumpelt (Carl-August-Ferdinand)		
+entry	Rumph (Georg.-Everard) ou Rumphius [E. Beaugrand]		
+orth	Rumph (Georg.-Everard) ou Rumphius		
 pb	607	0611	4584387
-entry	Runge (Friedrich-Ferdinand)		
+entry	Runge (Friedrich-Ferdinand) [L. Hahn]		
+orth	Runge (Friedrich-Ferdinand)		
 entry	Rupert's Land		
 ref	Britanniques (possessions)		
-entry	Rupia		
+entry	Rupia [E. Bazin]		
+orth	Rupia		
 pb	608	0612	4584388
 pb	609	0613	4584389
 pb	610	0614	4584390
@@ -986,12 +1252,17 @@ pb	621	0625	4584401
 pb	622	0626	4584402
 pb	623	0627	4584403
 pb	624	0628	4584404
-entry	Rupia syphilitique		
+entry	Rupia [E. Bazin] [L. Hahn]		
+orth	Rupia		
+entry	Rupia syphilitique [J. Rollet]		
+orth	Rupia syphilitique		
 pb	625	0629	4584405
 pb	626	0630	4584406
 pb	627	0631	4584407
-entry	Ruppricht (Siegfried-Benjamin-Franz)		
-entry	Rurale (Hygiène. Pathologie)		
+entry	Ruppricht (Siegfried-Benjamin-Franz) [L. Hahn]		
+orth	Ruppricht (Siegfried-Benjamin-Franz)		
+entry	Rurale (Hygiène. Pathologie) [Alexandre Layet]		
+orth	Rurale (Hygiène. Pathologie)		
 pb	628	0632	4584408
 pb	629	0633	4584409
 pb	630	0634	4584410
@@ -1084,22 +1355,30 @@ pb	716	0720	4584496
 pb	717	0721	4584497
 pb	718	0722	4584498
 pb	719	0723	4584499
-entry	Rusa-ka-tel		
-entry	Rusconi (Mauro)		
+entry	Rusa-ka-tel [Amédée Dechambre]		
+orth	Rusa-ka-tel		
+entry	Rusconi (Mauro) [E. Beaugrand]		
+orth	Rusconi (Mauro)		
 pb	720	0724	4584500
 entry	Ruscus		
 ref	Fragon		
-entry	Rush (Benj.)		
-entry	Rusiochine		
-entry	Rusma		
+entry	Rush (Benj.) [E. Beaugrand]		
+orth	Rush (Benj.)		
+entry	Rusiochine [L. Hahn]		
+orth	Rusiochine		
+entry	Rusma [Amédée Dechambre]		
+orth	Rusma		
 pb	721	0725	4584501
 entry	Rusot		
 ref	Rasot		
-entry	Russe (Pierre)		
-entry	Russel (Les)		
+entry	Russe (Pierre) [L. Hahn]		
+orth	Russe (Pierre)		
+entry	Russel (Les) [A. Dureau]		
+orth	Russel (Les)		
 pb	722	0726	4584502
 entry	Russie		
-entry	Russie. Géographie physique		
+entry	Russie. Géographie physique [Jacques Bertillon]		
+orth	Russie. Géographie physique		
 pb	723	0727	4584503
 pb	724	0728	4584504
 pb	725	0729	4584505
@@ -1139,7 +1418,8 @@ pb	758	0762	4584538
 pb	759	0763	4584539
 pb	760	0764	4584540
 pb	761	0765	4584541
-entry	Russie. Démographie		
+entry	Russie. Démographie [Jacques Bertillon]		
+orth	Russie. Démographie		
 pb	762	0766	4584542
 pb	763	0767	4584543
 pb	764	0768	4584544
@@ -1166,7 +1446,8 @@ pb	784	0788	4584564
 pb	785	0789	4584565
 pb	786	0790	4584566
 entry	Russie		
-entry	Russie. Topographie médicale		
+entry	Russie. Topographie médicale [Jacques Bertillon]		
+orth	Russie. Topographie médicale		
 pb	787	0791	4584567
 pb	788	0792	4584568
 pb	789	0793	4584569
@@ -1177,7 +1458,8 @@ pb	793	0797	4584573
 pb	794	0798	4584574
 pb	795	0799	4584575
 pb	796	0800	4584576
-entry	Russules		
+entry	Russules [J. de Seynes]		
+orth	Russules		
 pb	797	0801	4584577
 pb	798	0802	4584578
 pb	799	0803	4584579
@@ -1185,54 +1467,75 @@ pb	800	0804	4584580
 pb	801	0805	4584581
 pb	802	0806	4584582
 pb	805	0807	4584583
-entry	Rust (Johann-Nepomuk)		
+entry	Rust (Johann-Nepomuk) [E. Beaugrand]		
+orth	Rust (Johann-Nepomuk)		
 pb	804	0808	4584584
-entry	Rustichelli (Pietro-Torrigiano)		
+entry	Rustichelli (Pietro-Torrigiano) [E. Beaugrand]		
+orth	Rustichelli (Pietro-Torrigiano)		
 entry	Ruta		
 ref	Rue		
-entry	Rutabaga		
-entry	Rutacées		
+entry	Rutabaga [G. Planchon]		
+orth	Rutabaga		
+entry	Rutacées [H. Baillon]		
+orth	Rutacées		
 pb	805	0809	4584585
 pb	806	0810	4584586
 pb	807	0811	4584587
 pb	808	0812	4584588
 pb	809	0813	4584589
-entry	Ruthènes		
+entry	Ruthènes [Gustave Lagneau]		
+orth	Ruthènes		
 pb	810	0814	4584590
-entry	Ruthénium		
+entry	Ruthénium [C. Lutz]		
+orth	Ruthénium		
 pb	811	0815	4584591
 pb	812	0816	4584592
 pb	813	0817	4584593
-entry	Rutiline		
-entry	Rutine		
+entry	Rutiline [C. Lutz]		
+orth	Rutiline		
+entry	Rutine [C. Lutz]		
+orth	Rutine		
 pb	814	0818	4584594
 entry	Rutique (Acide)		
 ref	Caprique (Acide)		
-entry	Rutter (John)		
-entry	Rutty (John)		
+entry	Rutter (John) [L. Hahn]		
+orth	Rutter (John)		
+entry	Rutty (John) [L. Hahn]		
+orth	Rutty (John)		
 pb	815	0819	4584595
-entry	Rutylène		
+entry	Rutylène [C. Lutz]		
+orth	Rutylène		
 pb	816	0820	4584596
-entry	Ruysch (Frédéric)		
+entry	Ruysch (Frédéric) [A. Chéreau]		
+orth	Ruysch (Frédéric)		
 pb	817	0821	4584597
 entry	Ruysch (Membrane de)		
 ref	Choroïde		
-entry	Ryan (Michel)		
-entry	Ryba (Joseph-Ernst)		
+entry	Ryan (Michel) [A. Dureau]		
+orth	Ryan (Michel)		
+entry	Ryba (Joseph-Ernst) [L. Hahn]		
+orth	Ryba (Joseph-Ernst)		
 pb	818	0822	4584598
 pb	819	0823	4584599
-entry	Ryff (Walther-Hermann)		
+entry	Ryff (Walther-Hermann) [A. Dureau]		
+orth	Ryff (Walther-Hermann)		
 pb	820	0824	4584600
-entry	Rynd (Francis)		
-entry	Ryss (Auguste)		
-entry	Rytine		
+entry	Rynd (Francis) [L. Hahn]		
+orth	Rynd (Francis)		
+entry	Ryss (Auguste) [L. Hahn]		
+orth	Ryss (Auguste)		
+entry	Rytine [Paul Gervais]		
+orth	Rytine		
 pb	821	0825	4584601
 pb	822	0826	4584602
 entry	Addenda		
-entry	Rhubarbe		
-entry	Addenda. Ritter (Georg-Heinrich)		
+entry	Rhubarbe [D.]		
+orth	Rhubarbe		
+entry	Addenda. Ritter (Georg-Heinrich) [L. Hahn]		
+orth	Addenda. Ritter (Georg-Heinrich)		
 pb	823	0827	4584603
-entry	Addenda. Ross (George)		
+entry	Addenda. Ross (George) [L. Hahn]		
+orth	Addenda. Ross (George)		
 pb	824	0828	4584604
 pb	825	0829	4584605
 entry	Articles contenus dans le cinquième volume (3e série)		

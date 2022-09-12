@@ -1,9 +1,12 @@
 pb	[s. pag.]	0001	4526497
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4526498
 pb	[s. pag.]	0003	4526499
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4526500
 pb	I	0005	4526501
-entry	Avant propos de la quatrième série		
+entry	Avant propos de la quatrième série [Amédée Dechambre]		
+orth	Avant propos de la quatrième série		
 pb	II	0006	4526502
 pb	III	0007	4526503
 pb	IV	0008	4526504
@@ -14,34 +17,46 @@ pb	VIII	0012	4526508
 pb	IX	0013	4526509
 pb	X	0014	4526510
 pb	7	0015	4526511
-entry	Faalin		
+entry	Faalin [G. Planchon]		
+orth	Faalin		
 entry	Faam		
 ref	Faham		
-entry	Faba		
-entry	Fabbra (Della)		
+entry	Faba [G. Planchon]		
+orth	Faba		
+entry	Fabbra (Della) [A. Dureau]		
+orth	Fabbra (Della)		
 pb	8	0016	4526512
-entry	Fabbri (Jean-Baptiste)		
+entry	Fabbri (Jean-Baptiste) [A. Dureau]		
+orth	Fabbri (Jean-Baptiste)		
 pb	9	0017	4526513
-entry	Fabbroni (Les deux frères)		
+entry	Fabbroni (Les deux frères) [A. Chéreau]		
+orth	Fabbroni (Les deux frères)		
 pb	10	0018	4526514
-entry	Faber, Fabre, Fabri (Les)		
+entry	Faber, Fabre, Fabri (Les) [A. Chéreau]		
+orth	Faber, Fabre, Fabri (Les)		
 pb	11	0019	4526515
 pb	12	0020	4526516
-entry	Fabini (Les deux)		
+entry	Fabini (Les deux) [L. Hahn]		
+orth	Fabini (Les deux)		
 pb	13	0021	4526517
-entry	Fabius (Guillaume) ou Bonnaerts		
-entry	Fabré-Palaprat (Bernard-Raymond)		
+entry	Fabius (Guillaume) ou Bonnaerts [L. Hahn]		
+orth	Fabius (Guillaume) ou Bonnaerts		
+entry	Fabré-Palaprat (Bernard-Raymond) [A. Chéreau]		
+orth	Fabré-Palaprat (Bernard-Raymond)		
 pb	14	0022	4526518
-entry	Fabrice, Fabricius (Les)		
+entry	Fabrice, Fabricius (Les) [A. Chéreau]		
+orth	Fabrice, Fabricius (Les)		
 pb	15	0023	4526519
 pb	16	0024	4526520
 pb	17	0025	4526521
 pb	18	0026	4526522
 entry	Fabriques		
 ref	Manufactures		
-entry	Facaldine		
+entry	Facaldine [J. Rollet]		
+orth	Facaldine		
 entry	Face		
-entry	Face. Anatomie		
+entry	Face. Anatomie [Coyne]		
+orth	Face. Anatomie		
 pb	19	0027	4526523
 pb	20	0028	4526524
 pb	21	0029	4526525
@@ -64,7 +79,8 @@ pb	37	0045	4526541
 pb	38	0046	4526542
 pb	39	0047	4526543
 pb	40	0048	4526544
-entry	Face. Pathologie médicale		
+entry	Face. Pathologie médicale [Troisier]		
+orth	Face. Pathologie médicale		
 pb	41	0049	4526545
 pb	42	0050	4526546
 pb	43	0051	4526547
@@ -119,7 +135,8 @@ pb	91	0099	4526595
 pb	92	0100	4526596
 pb	93	0101	4526597
 pb	94	0102	4526598
-entry	Face. Pathologie chirurgicale		
+entry	Face. Pathologie chirurgicale [Servier]		
+orth	Face. Pathologie chirurgicale		
 pb	95	0103	4526599
 pb	96	0104	4526600
 pb	97	0105	4526601
@@ -139,9 +156,11 @@ pb	110	0118	4526614
 pb	111	0119	4526615
 pb	112	0120	4526616
 pb	113	0121	4526617
-entry	Fachingen (Eaux minérales de)		
+entry	Fachingen (Eaux minérales de) [A. Rotureau]		
+orth	Fachingen (Eaux minérales de)		
 pb	114	0122	4526618
-entry	Facial (Nerf)		
+entry	Facial (Nerf) [Coyne]		
+orth	Facial (Nerf)		
 pb	115	0123	4526619
 pb	116	0124	4526620
 pb	117	0125	4526621
@@ -160,10 +179,12 @@ pb	129	0137	4526633
 pb	130	0138	4526634
 pb	131	0139	4526635
 pb	132	0140	4526636
-entry	Faciale (Artère et veine)		
+entry	Faciale (Artère et veine) [Amédée Dechambre]		
+orth	Faciale (Artère et veine)		
 entry	Faciale (Hémiplégie)		
 ref	Face		
-entry	Facies		
+entry	Facies [V. Widal]		
+orth	Facies		
 pb	133	0141	4526637
 pb	134	0142	4526638
 pb	135	0143	4526639
@@ -180,33 +201,50 @@ pb	145	0153	4526649
 pb	146	0154	4526650
 pb	147	0155	4526651
 pb	148	0156	4526652
-entry	Faehtz (Philippe)		
-entry	Fagarier		
-entry	Fages (Joseph)		
-entry	Faget		
-entry	Fagine		
+entry	Faehtz (Philippe) [L. Hahn]		
+orth	Faehtz (Philippe)		
+entry	Fagarier [G. Planchon]		
+orth	Fagarier		
+entry	Fages (Joseph) [A. Chéreau]		
+orth	Fages (Joseph)		
+entry	Faget [A. Chéreau]		
+orth	Faget		
+entry	Fagine [L. Hahn]		
+orth	Fagine		
 pb	149	0157	4526653
-entry	Fagon (Guy-Crescent)		
+entry	Fagon (Guy-Crescent) [A. Chéreau]		
+orth	Fagon (Guy-Crescent)		
 pb	150	0158	4526654
-entry	Faguer (Les deux)		
+entry	Faguer (Les deux) [L. Hahn]		
+orth	Faguer (Les deux)		
 pb	151	0159	4526655
 entry	Fagus, Fayard		
 ref	Hêtre		
 pb	152	0160	4526656
 entry	Faham, Fahan ou Fahon		
-entry	Botanique		
-entry	Emploi médical		
-entry	Fahlberg (Samuel)		
-entry	Fahner (Jean-Christophe)		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Emploi médical [Amédée Dechambre]		
+orth	Emploi médical		
+entry	Fahlberg (Samuel) [L. Hahn]		
+orth	Fahlberg (Samuel)		
+entry	Fahner (Jean-Christophe) [L. Hahn]		
+orth	Fahner (Jean-Christophe)		
 pb	153	0161	4526657
-entry	Fahnestock (Willyam-M.)		
-entry	Fahree (Johan)		
-entry	Fahrenheit (Gabriel-Daniel)		
+entry	Fahnestock (Willyam-M.) [A. Dureau]		
+orth	Fahnestock (Willyam-M.)		
+entry	Fahree (Johan) [A. Dureau]		
+orth	Fahree (Johan)		
+entry	Fahrenheit (Gabriel-Daniel) [A. Chéreau]		
+orth	Fahrenheit (Gabriel-Daniel)		
 pb	154	0162	4526658
-entry	Fahrenhorst (Alexandre)		
-entry	Faille (Clément de la)		
+entry	Fahrenhorst (Alexandre) [A. Dureau]		
+orth	Fahrenhorst (Alexandre)		
+entry	Faille (Clément de la) [A. Chéreau]		
+orth	Faille (Clément de la)		
 pb	155	0163	4526659
-entry	Faim et Soif		
+entry	Faim et Soif [G. Carlet]		
+orth	Faim et Soif		
 pb	156	0164	4526660
 pb	157	0165	4526661
 pb	158	0166	4526662
@@ -217,34 +255,52 @@ entry	Botanique
 ref	Hêtre		
 pb	161	0169	4526665
 entry	Faine		
-entry	Bromatologie		
-entry	Fairbairn (Les)		
-entry	Faisan		
+entry	Bromatologie [Amédée Dechambre]		
+orth	Bromatologie		
+entry	Fairbairn (Les) [L. Hahn]		
+orth	Fairbairn (Les)		
+entry	Faisan [P. Gervais]		
+orth	Faisan		
 pb	162	0170	4526666
-entry	Faisaons d'empige		
-entry	Faitan		
-entry	Faithorn (John)		
-entry	Falck (Les)		
+entry	Faisaons d'empige [G. Planchon]		
+orth	Faisaons d'empige		
+entry	Faitan [Amédée Dechambre]		
+orth	Faitan		
+entry	Faithorn (John) [L. Hahn]		
+orth	Faithorn (John)		
+entry	Falck (Les) [A. Dureau]		
+orth	Falck (Les)		
 pb	163	0171	4526667
-entry	Falco ou Faucon (Jean)		
+entry	Falco ou Faucon (Jean) [A. Chéreau]		
+orth	Falco ou Faucon (Jean)		
 pb	164	0172	4526668
-entry	Falconer (Les deux)		
-entry	Falconet (Les quatre)		
+entry	Falconer (Les deux) [A. Chéreau]		
+orth	Falconer (Les deux)		
+entry	Falconet (Les quatre) [A. Chéreau]		
+orth	Falconet (Les quatre)		
 pb	165	0173	4526669
 pb	166	0174	4526670
-entry	Falconidés		
-entry	Falcucci de Falcone (Nicolas)		
+entry	Falconidés [Amédée Dechambre]		
+orth	Falconidés		
+entry	Falcucci de Falcone (Nicolas) [E. Beaugrand]		
+orth	Falcucci de Falcone (Nicolas)		
 pb	167	0175	4526671
-entry	Falguerolles (Jean-Pierre)		
-entry	Falkner (Thomas)		
-entry	Fallopio (Gabriel)		
+entry	Falguerolles (Jean-Pierre) [A. Chéreau]		
+orth	Falguerolles (Jean-Pierre)		
+entry	Falkner (Thomas) [A. Dureau]		
+orth	Falkner (Thomas)		
+entry	Fallopio (Gabriel) [A. Chéreau]		
+orth	Fallopio (Gabriel)		
 pb	168	0176	4526672
-entry	Fallot (Louis-Salomon)		
+entry	Fallot (Louis-Salomon) [A. Dureau]		
+orth	Fallot (Louis-Salomon)		
 pb	169	0177	4526673
 pb	170	0178	4526674
 pb	171	0179	4526675
-entry	Falret (Jean-Pierre)		
-entry	Falsification		
+entry	Falret (Jean-Pierre) [A. Chéreau]		
+orth	Falret (Jean-Pierre)		
+entry	Falsification [P. Coulier]		
+orth	Falsification		
 pb	172	0180	4526676
 pb	173	0181	4526677
 pb	174	0182	4526678
@@ -261,11 +317,13 @@ pb	184	0192	4526688
 pb	185	0193	4526689
 pb	186	0194	4526690
 pb	187	0195	4526691
-entry	Faltrank		
+entry	Faltrank [Amédée Dechambre]		
+orth	Faltrank		
 entry	Famine		
 ref	Disette		
 ref	Inanition		
-entry	Famine (Fièvre de)		
+entry	Famine (Fièvre de) [Jules Arnould]		
+orth	Famine (Fièvre de)		
 pb	188	0196	4526692
 pb	189	0197	4526693
 pb	190	0198	4526694
@@ -314,27 +372,41 @@ pb	232	0240	4526736
 pb	233	0241	4526737
 pb	234	0242	4526738
 pb	235	0243	4526739
-entry	Fanon		
-entry	Fant (Élis-Michael)		
-entry	Fantini (Antonio)		
-entry	Fantonetti (Giovanni-Battista-Bernardo)		
+entry	Fanon [Amédée Dechambre]		
+orth	Fanon		
+entry	Fant (Élis-Michael) [A. Dureau]		
+orth	Fant (Élis-Michael)		
+entry	Fantini (Antonio) [L. Hahn]		
+orth	Fantini (Antonio)		
+entry	Fantonetti (Giovanni-Battista-Bernardo) [L. Hahn]		
+orth	Fantonetti (Giovanni-Battista-Bernardo)		
 pb	236	0244	4526740
-entry	Fantoni (Les deux)		
+entry	Fantoni (Les deux) [A. Chéreau]		
+orth	Fantoni (Les deux)		
 pb	237	0245	4526741
-entry	Fanzago (Francesco-Luigi)		
-entry	Faraday (Michel)		
+entry	Fanzago (Francesco-Luigi) [A. Dureau]		
+orth	Fanzago (Francesco-Luigi)		
+entry	Faraday (Michel) [A. Chéreau]		
+orth	Faraday (Michel)		
 pb	238	0246	4526742
 pb	239	0247	4526743
-entry	Faradayne		
-entry	Faradisation		
+entry	Faradayne [L. Hahn]		
+orth	Faradayne		
+entry	Faradisation [Amédée Dechambre]		
+orth	Faradisation		
 entry	Farcin		
 ref	Morve		
-entry	Fard		
+entry	Fard [Amédée Dechambre]		
+orth	Fard		
 pb	240	0248	4526744
-entry	Fardeau (Urbain-Jean)		
-entry	Farec		
-entry	Farfara		
-entry	Farine		
+entry	Fardeau (Urbain-Jean) [A. Chéreau]		
+orth	Fardeau (Urbain-Jean)		
+entry	Farec [G. Planchon]		
+orth	Farec		
+entry	Farfara [G. Planchon]		
+orth	Farfara		
+entry	Farine [P. Coulier]		
+orth	Farine		
 pb	241	0249	4526745
 pb	242	0250	4526746
 pb	243	0251	4526747
@@ -348,125 +420,169 @@ pb	250	0258	4526754
 pb	251	0259	4526755
 pb	252	0260	4526756
 pb	253	0261	4526757
-entry	Farine (Pathologie)		
-entry	Farine médicamenteuses		
-entry	Farmer (John)		
-entry	Farnese ou Farnesi (Tommaso)		
+entry	Farine (Pathologie) [Amédée Dechambre]		
+orth	Farine (Pathologie)		
+entry	Farine médicamenteuses [Amédée Dechambre]		
+orth	Farine médicamenteuses		
+entry	Farmer (John) [A. Dureau]		
+orth	Farmer (John)		
+entry	Farnese ou Farnesi (Tommaso) [L. Hahn]		
+orth	Farnese ou Farnesi (Tommaso)		
 pb	254	0262	4526758
 entry	Faro		
 ref	Bière		
-entry	Faroba		
-entry	Farquharson (William)		
-entry	Farr (Samuel)		
+entry	Faroba [G. Planchon]		
+orth	Faroba		
+entry	Farquharson (William) [A. Dureau]		
+orth	Farquharson (William)		
+entry	Farr (Samuel) [A. Chéreau]		
+orth	Farr (Samuel)		
 pb	255	0263	4526759
-entry	Farradesche-Chaubasse (Jean-Baptiste)		
-entry	Farrago		
-entry	Farraguth ou Ferraguth, Ferragius		
+entry	Farradesche-Chaubasse (Jean-Baptiste) [L. Hahn]		
+orth	Farradesche-Chaubasse (Jean-Baptiste)		
+entry	Farrago [G. Planchon]		
+orth	Farrago		
+entry	Farraguth ou Ferraguth, Ferragius [A. Chéreau]		
+orth	Farraguth ou Ferraguth, Ferragius		
 pb	256	0264	4526760
-entry	Farre (John-Richard)		
+entry	Farre (John-Richard) [L. Hahn]		
+orth	Farre (John-Richard)		
 pb	257	0265	4526761
-entry	Farrell (Les)		
-entry	Fas (Dietrich)		
-entry	Fasch (Aug.-Henri)		
+entry	Farrell (Les) [L. Hahn]		
+orth	Farrell (Les)		
+entry	Fas (Dietrich) [L. Hahn]		
+orth	Fas (Dietrich)		
+entry	Fasch (Aug.-Henri) [L. Hahn]		
+orth	Fasch (Aug.-Henri)		
 pb	258	0266	4526762
-entry	Fascia		
-entry	Fascia Lata (Muscle du)		
+entry	Fascia [Amédée Dechambre]		
+orth	Fascia		
+entry	Fascia Lata (Muscle du) [E. Spillmann]		
+orth	Fascia Lata (Muscle du)		
 pb	259	0267	4526763
-entry	Fascination		
+entry	Fascination [A. Chéreau]		
+orth	Fascination		
 pb	260	0268	4526764
 pb	261	0269	4526765
 pb	262	0270	4526766
-entry	Faselius (J. Frédéric)		
+entry	Faselius (J. Frédéric) [A. Dureau]		
+orth	Faselius (J. Frédéric)		
 pb	263	0271	4526767
 entry	Faskook		
 ref	Feskook		
-entry	Fasogh ou Fusogh		
-entry	Fattori (Santo)		
-entry	Fauchard (Pierre)		
-entry	Fauchier (J.-F.)		
+entry	Fasogh ou Fusogh [G. Planchon]		
+orth	Fasogh ou Fusogh		
+entry	Fattori (Santo) [A. Dureau]		
+orth	Fattori (Santo)		
+entry	Fauchard (Pierre) [A. Chéreau]		
+orth	Fauchard (Pierre)		
+entry	Fauchier (J.-F.) [L. Hahn]		
+orth	Fauchier (J.-F.)		
 pb	264	0272	4526768
 entry	Faucon (Jean)		
 ref	Falco		
-entry	Faucon		
-entry	Faudacq (Charles-François)		
-entry	Fauken (Jean-Pierre-François-Xavier)		
+entry	Faucon [P. Gervais]		
+orth	Faucon		
+entry	Faudacq (Charles-François) [A. Dureau]		
+orth	Faudacq (Charles-François)		
+entry	Fauken (Jean-Pierre-François-Xavier) [L. Hahn]		
+orth	Fauken (Jean-Pierre-François-Xavier)		
 pb	265	0273	4526769
 entry	Faulcon		
 ref	Falco		
-entry	Faulhaber (Albert-Frédéric)		
-entry	Faulisio (Joseph) ou Faulisius		
-entry	Faulkner (Sir Arthur Brooke)		
-entry	Faure (Jean-François)		
+entry	Faulhaber (Albert-Frédéric) [A. Dureau]		
+orth	Faulhaber (Albert-Frédéric)		
+entry	Faulisio (Joseph) ou Faulisius [L. Hahn]		
+orth	Faulisio (Joseph) ou Faulisius		
+entry	Faulkner (Sir Arthur Brooke) [L. Hahn]		
+orth	Faulkner (Sir Arthur Brooke)		
+entry	Faure (Jean-François) [A. Chéreau]		
+orth	Faure (Jean-François)		
 pb	266	0274	4526770
-entry	Faure-Villar (Anselme-Cl.-Nic.)		
-entry	Fausse-angusture.		
-entry	Fause-branc-ursine. 		
+entry	Faure-Villar (Anselme-Cl.-Nic.) [L. Hahn]		
+orth	Faure-Villar (Anselme-Cl.-Nic.)		
+entry	Fausse-angusture. [G. Planchon]		
+orth	Fausse-angusture.		
+entry	Fause-branc-ursine. [G. Planchon] 		
+orth	Fause-branc-ursine. 		
 pb	267	0275	4526771
-entry	Fausse-Germandrée		
-ref	Véronique		
-entry	Fausse-Orange ou Fausse-Coloquinte		
-ref	Citrouille		
-entry	Fausse-Poire		
-ref	Citrouille		
-entry	Fausse-Réglisse		
-ref	Astragale		
-entry	Fausse-Rhubarbe		
-ref	Pigamon		
-entry	Fausse-Roquette		
+entry	Fausse-Germandrée.. Planchon]		
+ref	Véronique [G		
+entry	Fausse-Orange ou Fausse-Coloquinte.. Planchon]		
+ref	Citrouille [G		
+entry	Fausse-Poire.. Planchon]		
+ref	Citrouille [G		
+entry	Fausse-Réglisse.. Planchon]		
+ref	Astragale [G		
+entry	Fausse-Rhubarbe.. Planchon]		
+ref	Pigamon [G		
+entry	Fausse-Roquette [G. Planchon]		
+orth	Fausse-Roquette		
 entry	Fausses membranes		
 ref	Néomembranes		
 ref	Pseudo-membranes		
-entry	Faust (Bernard-Christophe)		
+entry	Faust (Bernard-Christophe) [A. Chéreau]		
+orth	Faust (Bernard-Christophe)		
 pb	268	0276	4526772
-entry	Fauteuils mécaniques		
+entry	Fauteuils mécaniques [Amédée Dechambre]		
+orth	Fauteuils mécaniques		
 pb	269	0277	4526773
-entry	Fautrel (Pierre-Nicolas)		
-entry	Fauverge (Jacques-Pierre)		
+entry	Fautrel (Pierre-Nicolas) [L. Hahn]		
+orth	Fautrel (Pierre-Nicolas)		
+entry	Fauverge (Jacques-Pierre) [A. Dureau]		
+orth	Fauverge (Jacques-Pierre)		
 pb	270	0278	4526774
-entry	Faux (Falx)		
-entry	Faux-acacia		
-ref	Robinier		
-entry	Faux-acore		
-ref	Iris		
-entry	Faux-anis		
-ref	Cumin		
-entry	Faux-colombo		
-ref	Frasera		
+entry	Faux (Falx) [Amédée Dechambre]		
+orth	Faux (Falx)		
+entry	Faux-acacia.. Planchon]		
+ref	Robinier [G		
+entry	Faux-acore.. Planchon]		
+ref	Iris [G		
+entry	Faux-anis.. Planchon]		
+ref	Cumin [G		
+entry	Faux-colombo.. Planchon]		
+ref	Frasera [G		
 entry	Faux croup		
 ref	Larynx		
-entry	Faux-dictamne		
-ref	Marrube		
-entry	Faux-ébénier		
-ref	Cytise		
-entry	Faux-hermodacte		
+entry	Faux-dictamne.. Planchon]		
+ref	Marrube [G		
+entry	Faux-ébénier.. Planchon]		
+ref	Cytise [G		
+entry	Faux-hermodacte.. Planchon]		
 ref	Iris		
-ref	Hermodacte		
-entry	Faux-jalap		
-ref	Jalap		
-entry	Faux-narcisse ou Narcisse-des-prés		
-ref	Narcisse		
-entry	Faux-nard		
+ref	Hermodacte [G		
+entry	Faux-jalap.. Planchon]		
+ref	Jalap [G		
+entry	Faux-narcisse ou Narcisse-des-prés.. Planchon]		
+ref	Narcisse [G		
+entry	Faux-nard.. Planchon]		
 ref	Ail		
-ref	Nard		
-entry	Faux-platane ou Faux-plane		
-ref	Érable		
-entry	Faux-safran		
-ref	Carthame		
-entry	Faux-scordium		
-ref	Germandrée		
-entry	Faux-séné		
-ref	Baguenaudier		
+ref	Nard [G		
+entry	Faux-platane ou Faux-plane.. Planchon]		
+ref	Érable [G		
+entry	Faux-safran.. Planchon]		
+ref	Carthame [G		
+entry	Faux-scordium.. Planchon]		
+ref	Germandrée [G		
+entry	Faux-séné.. Planchon]		
+ref	Baguenaudier [G		
 entry	Faux-simarouba		
 ref	Laiche		
-entry	Faux-souchet		
-entry	Faux-turbith		
-ref	Thapsia		
+entry	Faux-souchet [G. Planchon]		
+orth	Faux-souchet		
+entry	Faux-turbith.. Planchon]		
+ref	Thapsia [G		
 pb	271	0279	4526775
-entry	Favart (Jean-Pierre)		
-entry	Favelet (Jean-François)		
-entry	Faventinus (Leonellus)		
-entry	Favoli (Hugues)		
-entry	Favus		
+entry	Favart (Jean-Pierre) [A. Dureau]		
+orth	Favart (Jean-Pierre)		
+entry	Favelet (Jean-François) [A. Chéreau]		
+orth	Favelet (Jean-François)		
+entry	Faventinus (Leonellus) [A. Chéreau]		
+orth	Faventinus (Leonellus)		
+entry	Favoli (Hugues) [A. Chéreau]		
+orth	Favoli (Hugues)		
+entry	Favus [N. Bazin]		
+orth	Favus		
 pb	272	0280	4526776
 pb	273	0281	4526777
 pb	274	0282	4526778
@@ -512,24 +628,31 @@ pb	313	0321	4526817
 pb	314	0322	4526818
 pb	315	0323	4526819
 pb	316	0324	4526820
-entry	Fawdington (Thomas)		
+entry	Fawdington (Thomas) [L. Hahn]		
+orth	Fawdington (Thomas)		
 entry	Fayard ou Fau		
 ref	Hêtre		
 entry	Faye		
 ref	Lafaye		
-entry	Fearn (Les)		
+entry	Fearn (Les) [L. Hahn]		
+orth	Fearn (Les)		
 pb	317	0325	4526821
-entry	Fearon (Les)		
+entry	Fearon (Les) [L. Hahn]		
+orth	Fearon (Les)		
 pb	318	0326	4526822
-entry	Fébrifuges		
-entry	Fécamp (Station marine)		
+entry	Fébrifuges [Amédée Dechambre]		
+orth	Fébrifuges		
+entry	Fécamp (Station marine) [A. Rotureau]		
+orth	Fécamp (Station marine)		
 entry	Fèces		
 ref	Stercorales (Matières)		
 ref	Colon		
 ref	Digestion		
 ref	Intestin		
-entry	Fechner (Johann-Gottfried)		
-entry	Fécondation		
+entry	Fechner (Johann-Gottfried) [L. Hahn]		
+orth	Fechner (Johann-Gottfried)		
+entry	Fécondation [Ch. Robin]		
+orth	Fécondation		
 pb	319	0327	4526823
 pb	320	0328	4526824
 pb	321	0329	4526825
@@ -609,9 +732,11 @@ pb	394	0402	4526898
 pb	395	0403	4526899
 pb	396	0404	4526900
 pb	397	0405	4526901
-entry	Fécondité		
+entry	Fécondité [Pinard]		
+orth	Fécondité		
 pb	398	0406	4526902
-entry	Fécule		
+entry	Fécule [P. Coulier]		
+orth	Fécule		
 pb	399	0407	4526903
 pb	400	0408	4526904
 pb	401	0409	4526905
@@ -625,53 +750,75 @@ pb	408	0416	4526912
 pb	409	0417	4526913
 pb	410	0418	4526914
 pb	411	0419	4526915
-entry	Féculeries, Amidonneries (Hygiène industrielle)		
+entry	Féculeries, Amidonneries (Hygiène industrielle) [Alexandre Layet]		
+orth	Féculeries, Amidonneries (Hygiène industrielle)		
 pb	412	0420	4526916
 pb	413	0421	4526917
 pb	414	0422	4526918
 pb	415	0423	4526919
 pb	416	0424	4526920
 pb	417	0425	4526921
-entry	Fedelissimi (Les)		
-entry	Federigo (Gaspare)		
+entry	Fedelissimi (Les) [L. Hahn]		
+orth	Fedelissimi (Les)		
+entry	Federigo (Gaspare) [L. Hahn]		
+orth	Federigo (Gaspare)		
 pb	418	0426	4526922
-entry	Fedia		
-entry	Fée (Antoine-Laurent-Apollinaire)		
+entry	Fedia [H. Baillon]		
+orth	Fedia		
+entry	Fée (Antoine-Laurent-Apollinaire) [A. Chéreau]		
+orth	Fée (Antoine-Laurent-Apollinaire)		
 pb	419	0427	4526923
-entry	Fé-fé		
-entry	Fégarite		
+entry	Fé-fé [Amédée Dechambre]		
+orth	Fé-fé		
+entry	Fégarite [A. Laveran]		
+orth	Fégarite		
 pb	420	0428	4526924
-entry	Fehr (Les)		
+entry	Fehr (Les) [L. Hahn]		
+orth	Fehr (Les)		
 pb	421	0429	4526925
-entry	Feist (Franz-Ludwig)		
+entry	Feist (Franz-Ludwig) [L. Hahn]		
+orth	Feist (Franz-Ludwig)		
 pb	422	0430	4526926
-entry	Felatahs		
-entry	Feldmann (Bernhard)		
+entry	Felatahs [Amédée Dechambre]		
+orth	Felatahs		
+entry	Feldmann (Bernhard) [L. Hahn]		
+orth	Feldmann (Bernhard)		
 pb	423	0431	4526927
-entry	Felfal-tavil ou Felfel-tavil		
-entry	Felici ou Felice (Giuseppe M. di)		
-entry	Felicianus (Jean Bernard)		
+entry	Felfal-tavil ou Felfel-tavil [G. Planchon]		
+orth	Felfal-tavil ou Felfel-tavil		
+entry	Felici ou Felice (Giuseppe M. di) [L. Hahn]		
+orth	Felici ou Felice (Giuseppe M. di)		
+entry	Felicianus (Jean Bernard) [A. Chéreau]		
+orth	Felicianus (Jean Bernard)		
 entry	Féline (Monomanie)		
 ref	Lycanthropie		
-entry	Félix (Les deux)		
+entry	Félix (Les deux) [A. Chéreau]		
+orth	Félix (Les deux)		
 pb	424	0432	4526928
 pb	425	0433	4526929
-entry	Félix-des-Pallières (Saint-) (Eau minérale de)		
+entry	Félix-des-Pallières (Saint-) (Eau minérale de) [A. Rotureau]		
+orth	Félix-des-Pallières (Saint-) (Eau minérale de)		
 entry	Fellahs		
 ref	Afrique		
 ref	Égypte		
-entry	Fellanique (Acide)		
+entry	Fellanique (Acide) [L. Hahn]		
+orth	Fellanique (Acide)		
 pb	426	0434	4526930
 entry	Fellanis		
 ref	Foulahs		
 entry	Fellatas		
 ref	Foulahs		
-entry	Feller (Christian-Gotthold)		
-entry	Fellinique ou Fellique (Acide)		
-entry	Féloupes		
-entry	Fels (Les)		
+entry	Feller (Christian-Gotthold) [A. Chéreau]		
+orth	Feller (Christian-Gotthold)		
+entry	Fellinique ou Fellique (Acide) [L. Hahn]		
+orth	Fellinique ou Fellique (Acide)		
+entry	Féloupes [Amédée Dechambre]		
+orth	Féloupes		
+entry	Fels (Les) [L. Hahn]		
+orth	Fels (Les)		
 pb	427	0435	4526931
-entry	Femmes		
+entry	Femmes [E. Dally]		
+orth	Femmes		
 pb	428	0436	4526932
 pb	429	0437	4526933
 pb	430	0438	4526934
@@ -684,12 +831,14 @@ pb	436	0444	4526940
 pb	437	0445	4526941
 pb	438	0446	4526942
 pb	439	0447	4526943
-entry	Fémorale (Artère)		
+entry	Fémorale (Artère) [Amédée Dechambre]		
+orth	Fémorale (Artère)		
 entry	Fémoro-cutané (Nerf)		
 ref	Lombaire (plexus)		
 entry	Fémoro-tibiale (Articulation)		
 ref	Genou		
-entry	Fémur (Anatomie)		
+entry	Fémur (Anatomie) [L. Gustave Richelot]		
+orth	Fémur (Anatomie)		
 pb	440	0448	4526944
 pb	441	0449	4526945
 pb	442	0450	4526946
@@ -714,32 +863,45 @@ pb	460	0468	4526964
 pb	461	0469	4526965
 pb	462	0470	4526966
 pb	463	0471	4526967
-entry	Fend (Melchior)		
+entry	Fend (Melchior) [A. Chéreau]		
+orth	Fend (Melchior)		
 entry	Fenêtre		
 ref	Oreille		
-entry	Feneu (Eaux minérales de)		
+entry	Feneu (Eaux minérales de) [A. Rotureau]		
+orth	Feneu (Eaux minérales de)		
 pb	464	0472	4526968
-entry	Fenger (Andreas-Christian)		
-entry	Fennel (William-W.)		
-entry	Fenner (E.-D)		
+entry	Fenger (Andreas-Christian) [L. Hahn]		
+orth	Fenger (Andreas-Christian)		
+entry	Fennel (William-W.) [L. Hahn]		
+orth	Fennel (William-W.)		
+entry	Fenner (E.-D) [L. Hahn]		
+orth	Fenner (E.-D)		
 pb	465	0473	4526969
-entry	Fenner von Fenneberg (Joh.-Heinr.-Chr.-Matth.)		
-entry	Fenoglio (Giuseppe Cesare)		
+entry	Fenner von Fenneberg (Joh.-Heinr.-Chr.-Matth.) [L. Hahn]		
+orth	Fenner von Fenneberg (Joh.-Heinr.-Chr.-Matth.)		
+entry	Fenoglio (Giuseppe Cesare) [L. Hahn]		
+orth	Fenoglio (Giuseppe Cesare)		
 pb	466	0474	4526970
 entry	Fenouil		
-entry	Fenouil. Botanique		
+entry	Fenouil. Botanique [G. Planchon]		
+orth	Fenouil. Botanique		
 pb	467	0475	4526971
-entry	Fenouil. Emploi médical		
+entry	Fenouil. Emploi médical [Amédée Dechambre]		
+orth	Fenouil. Emploi médical		
 pb	468	0476	4526972
 entry	Fenugrec		
-entry	Botanique		
-entry	Fenugrec. Propriétés thérapeutiques		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Fenugrec. Propriétés thérapeutiques [Ernest Labbée]		
+orth	Fenugrec. Propriétés thérapeutiques		
 pb	469	0477	4526973
 pb	470	0478	4526974
 pb	471	0479	4526975
-entry	Fenwick (Les)		
+entry	Fenwick (Les) [L. Hahn]		
+orth	Fenwick (Les)		
 entry	Fer		
-entry	Fer. Chimie		
+entry	Fer. Chimie [Ed. Willm]		
+orth	Fer. Chimie		
 pb	472	0480	4526976
 pb	473	0481	4526977
 pb	474	0482	4526978
@@ -763,7 +925,8 @@ pb	491	0499	4526995
 pb	492	0500	4526996
 pb	493	0501	4526997
 entry	Fer		
-entry	Fer. Pharmacie		
+entry	Fer. Pharmacie [A. Bordier]		
+orth	Fer. Pharmacie		
 pb	494	0502	4526998
 pb	495	0503	4526999
 pb	496	0504	4527000
@@ -775,7 +938,8 @@ pb	501	0509	4527005
 pb	502	0510	4527006
 pb	503	0511	4527007
 pb	504	0512	4527008
-entry	Fer. Thérapeutique		
+entry	Fer. Thérapeutique [A. Bordier]		
+orth	Fer. Thérapeutique		
 pb	505	0513	4527009
 pb	506	0514	4527010
 pb	507	0515	4527011
@@ -796,7 +960,8 @@ pb	521	0529	4527025
 pb	522	0530	4527026
 pb	523	0531	4527027
 pb	524	0532	4527028
-entry	Fer. Hygiène		
+entry	Fer. Hygiène [Al. Layet]		
+orth	Fer. Hygiène		
 pb	525	0533	4527029
 pb	526	0534	4527030
 pb	527	0535	4527031
@@ -811,22 +976,30 @@ pb	535	0543	4527039
 pb	536	0544	4527040
 pb	537	0545	4527041
 pb	538	0546	4527042
-entry	Féra		
-entry	Ferber (Jean-Jacques)		
+entry	Féra [P. Gervais]		
+orth	Féra		
+entry	Ferber (Jean-Jacques) [L. Hahn]		
+orth	Ferber (Jean-Jacques)		
 entry	Ferblantiers		
 ref	Fer (Hygiène)		
-entry	Ferdinandi (Épiphane)		
+entry	Ferdinandi (Épiphane) [A. Chéreau]		
+orth	Ferdinandi (Épiphane)		
 pb	539	0547	4527043
-entry	Ferg (Les)		
-entry	Fergus (John-Frealand)		
-entry	Ferguson (Robert)		
+entry	Ferg (Les) [L. Hahn]		
+orth	Ferg (Les)		
+entry	Fergus (John-Frealand) [L. Hahn]		
+orth	Fergus (John-Frealand)		
+entry	Ferguson (Robert) [L. Hahn]		
+orth	Ferguson (Robert)		
 pb	540	0548	4527044
 pb	541	0549	4527045
-entry	Fergusson (Les)		
+entry	Fergusson (Les) [L. Hahn]		
+orth	Fergusson (Les)		
 pb	542	0550	4527046
 pb	543	0551	4527047
 pb	544	0552	4527048
-entry	Fermentations		
+entry	Fermentations [E. Duclaux]		
+orth	Fermentations		
 pb	545	0553	4527049
 pb	546	0554	4527050
 pb	547	0555	4527051
@@ -961,16 +1134,21 @@ pb	675	0683	4527179
 pb	676	0684	4527180
 pb	677	0685	4527181
 pb	678	0686	4527182
-entry	Fermin (Philippe)		
-entry	Fernandez (Les)		
+entry	Fermin (Philippe) [A. Chéreau]		
+orth	Fermin (Philippe)		
+entry	Fernandez (Les) [L. Hahn]		
+orth	Fernandez (Les)		
 pb	679	0687	4527183
 pb	680	0688	4527184
-entry	Ferneham (Nicolas de)		
-entry	Fernel (Jean)		
+entry	Ferneham (Nicolas de) [L. Hahn]		
+orth	Ferneham (Nicolas de)		
+entry	Fernel (Jean) [A. Chéreau]		
+orth	Fernel (Jean)		
 pb	681	0689	4527185
 pb	682	0690	4527186
 pb	683	0691	4527187
-entry	Feroe (Archipel des)		
+entry	Feroe (Archipel des) [Bourel-Roncière]		
+orth	Feroe (Archipel des)		
 pb	684	0692	4527188
 pb	685	0693	4527189
 pb	686	0694	4527190
@@ -997,60 +1175,86 @@ pb	706	0714	4527210
 pb	707	0715	4527211
 pb	708	0716	4527212
 pb	709	0717	4527213
-entry	Ferolia		
-entry	Féron (Eaux minérales de)		
+entry	Ferolia [H. Baillon]		
+orth	Ferolia		
+entry	Féron (Eaux minérales de) [A. Rotureau]		
+orth	Féron (Eaux minérales de)		
 pb	710	0718	4527214
-entry	Feronia		
+entry	Feronia [H. Baillon]		
+orth	Feronia		
 pb	711	0719	4527215
 entry	Ferra		
 ref	Fera		
 entry	Ferraguth		
 ref	Farraguth		
-entry	Ferral (Joseph-M.)		
-entry	Ferrand (Jacques)		
-entry	Ferrara, Ferrari, Ferrario, Ferraro (Les)		
+entry	Ferral (Joseph-M.) [L. Hahn]		
+orth	Ferral (Joseph-M.)		
+entry	Ferrand (Jacques) [A. Chéreau]		
+orth	Ferrand (Jacques)		
+entry	Ferrara, Ferrari, Ferrario, Ferraro (Les) [A. Chéreau]		
+orth	Ferrara, Ferrari, Ferrario, Ferraro (Les)		
 pb	712	0720	4527216
-entry	Ferrara, Ferrari, Ferrario, Ferraro (les)		
+entry	Ferrara, Ferrari, Ferrario, Ferraro (les) [A. Chéreau]		
+orth	Ferrara, Ferrari, Ferrario, Ferraro (les)		
 pb	713	0721	4527217
 pb	714	0722	4527218
-entry	Ferraria		
-entry	Ferrary (François)		
-entry	Ferrein (Antoine)		
+entry	Ferraria [G. Planchon]		
+orth	Ferraria		
+entry	Ferrary (François) [L. Hahn]		
+orth	Ferrary (François)		
+entry	Ferrein (Antoine) [A. Chéreau]		
+orth	Ferrein (Antoine)		
 pb	715	0723	4527219
-entry	Ferreira ou Ferreyra (Antonio)		
+entry	Ferreira ou Ferreyra (Antonio) [L. Hahn]		
+orth	Ferreira ou Ferreyra (Antonio)		
 pb	716	0724	4527220
-entry	Ferrer (Les)		
-entry	Ferrero (Jacinthe)		
+entry	Ferrer (Les) [L. Hahn]		
+orth	Ferrer (Les)		
+entry	Ferrero (Jacinthe) [L. Hahn]		
+orth	Ferrero (Jacinthe)		
 pb	717	0725	4527221
-entry	Ferret (Laurent)		
+entry	Ferret (Laurent) [L. Hahn]		
+orth	Ferret (Laurent)		
 entry	Ferreyra		
 ref	Ferreira		
-entry	Ferri (Alphonse)		
+entry	Ferri (Alphonse) [L. Hahn]		
+orth	Ferri (Alphonse)		
 pb	718	0726	4527222
-entry	Ferriar (John)		
-entry	Ferricyanures		
+entry	Ferriar (John) [L. Hahn]		
+orth	Ferriar (John)		
+entry	Ferricyanures [Ed. Willm]		
+orth	Ferricyanures		
 pb	719	0727	4527223
 pb	720	0728	4527224
-entry	Ferrier (Auger)		
+entry	Ferrier (Auger) [A. Chéreau]		
+orth	Ferrier (Auger)		
 pb	721	0729	4527225
 entry	Ferrière (La) (Eau minérale de)		
 ref	La Ferrière		
-entry	Ferrières (Eau minérale de)		
-entry	Ferrique (Acide)		
-entry	Ferris (Samuel)		
+entry	Ferrières (Eau minérale de) [A. Rotureau]		
+orth	Ferrières (Eau minérale de)		
+entry	Ferrique (Acide) [Ed. Willm]		
+orth	Ferrique (Acide)		
+entry	Ferris (Samuel) [L. Hahn]		
+orth	Ferris (Samuel)		
 pb	722	0730	4527226
-entry	Ferro (Pascal-Joseph Von)		
-entry	Ferrocyanures		
+entry	Ferro (Pascal-Joseph Von) [A. Dureau]		
+orth	Ferro (Pascal-Joseph Von)		
+entry	Ferrocyanures [Ed. Willm, Amédée Dechambre]		
+orth	Ferrocyanures		
 pb	723	0731	4527227
 pb	724	0732	4527228
 pb	725	0733	4527229
 pb	726	0734	4527230
 pb	727	0735	4527231
-entry	Ferrus (Guillaume-Marie-André)		
+entry	Ferrus (Guillaume-Marie-André) [L. Hahn]		
+orth	Ferrus (Guillaume-Marie-André)		
 pb	728	0736	4527232
-entry	Ferulago		
+entry	Ferulago [H. Baillon]		
+orth	Ferulago		
 entry	Férule		
-entry	Férule. Botanique		
+entry	Férule. Botanique [H. Baillon]		
+orth	Férule. Botanique		
 pb	729	0737	4527233
 pb	730	0738	4527234
 pb	731	0739	4527235
@@ -1065,23 +1269,28 @@ entry	Emploi
 ref	Asa-foetida		
 ref	Sagapenum		
 entry	Férussac (Les deux)		
-entry	Ferussac (Jean-Baptiste-Louis d'Audebard, baron de)		
+entry	Ferussac (Jean-Baptiste-Louis d'Audebard, baron de) [A. Chéreau]		
+orth	Ferussac (Jean-Baptiste-Louis d'Audebard, baron de)		
 pb	739	0747	4527243
-entry	Férussac (André-Étienne-Just-Paschal-Joseph-François d'Audebard, baron de)		
+entry	Férussac (André-Étienne-Just-Paschal-Joseph-François d'Audebard, baron de) [A. Chéreau]		
+orth	Férussac (André-Étienne-Just-Paschal-Joseph-François d'Audebard, baron de)		
 pb	740	0748	4527244
 entry	Fese		
 ref	Éléphantiasis des Arabes		
 entry	Feskook et Feskouk		
 ref	Fasogh		
-entry	Fesquet (Gaspard)		
-entry	Fessier (Muscle grand)		
+entry	Fesquet (Gaspard) [L. Hahn]		
+orth	Fesquet (Gaspard)		
+entry	Fessier (Muscle grand) [Farabeuf]		
+orth	Fessier (Muscle grand)		
 pb	741	0749	4527245
 pb	742	0750	4527246
 pb	743	0751	4527247
 pb	744	0752	4527248
 entry	Fessier (Nerf)		
 ref	Sacré (Plexus)		
-entry	Fessière (Artère)		
+entry	Fessière (Artère) [Farabeuf]		
+orth	Fessière (Artère)		
 pb	745	0753	4527249
 pb	746	0754	4527250
 pb	747	0755	4527251
@@ -1090,12 +1299,14 @@ pb	749	0757	4527253
 pb	750	0758	4527254
 pb	751	0759	4527255
 entry	Fessière (Région)		
-entry	Fessière (Région). Anatomie		
+entry	Fessière (Région). Anatomie [L.-H. Farabeuf]		
+orth	Fessière (Région). Anatomie		
 pb	752	0760	4527256
 pb	753	0761	4527257
 pb	754	0762	4527258
 pb	755	0763	4527259
-entry	Fessière. Pathologie		
+entry	Fessière. Pathologie [L.-H. Farabeuf]		
+orth	Fessière. Pathologie		
 pb	756	0764	4527260
 pb	757	0765	4527261
 pb	758	0766	4527262
@@ -1114,13 +1325,17 @@ pb	770	0778	4527274
 pb	771	0779	4527275
 pb	772	0780	4527276
 pb	773	0781	4527277
-entry	Festari (Jérôme)		
-entry	Festler (Francesco-Saverio)		
+entry	Festari (Jérôme) [L. Hahn]		
+orth	Festari (Jérôme)		
+entry	Festler (Francesco-Saverio) [L. Hahn]		
+orth	Festler (Francesco-Saverio)		
 pb	774	0782	4527278
 entry	Festuca		
 ref	Fétuque		
-entry	Fétidier		
-entry	Fétuque		
+entry	Fétidier [G. Planchon]		
+orth	Fétidier		
+entry	Fétuque [G. Planchon]		
+orth	Fétuque		
 pb	775	0783	4527279
 pb	[s. pag.]	0784	4527280
 pb	777	0785	4527281

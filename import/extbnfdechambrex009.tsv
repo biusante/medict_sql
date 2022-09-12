@@ -1,12 +1,17 @@
 pb	[s. pag.]	0001	4504729
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4504730
 pb	[s. pag.]	0003	4504731
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4504732
 pb	1	0005	4504733
-entry	Bejar y Montemayor (Eau minérale de)		
+entry	Bejar y Montemayor (Eau minérale de) [A. Rotureau]		
+orth	Bejar y Montemayor (Eau minérale de)		
 pb	2	0006	4504734
-entry	Béjugues, Bejuco		
-entry	Békion		
+entry	Béjugues, Bejuco [H. Baillon]		
+orth	Béjugues, Bejuco		
+entry	Békion [H. Baillon]		
+orth	Békion		
 entry	Beleyleh, Beilehui		
 ref	Myrobolans		
 entry	Belbida, Belbelta		
@@ -14,7 +19,8 @@ ref	Célosie
 pb	3	0007	4504735
 entry	Belges		
 entry	Belgique		
-entry	Belgique. Géographie		
+entry	Belgique. Géographie [Achille Guillard]		
+orth	Belgique. Géographie		
 pb	4	0008	4504736
 pb	5	0009	4504737
 pb	6	0010	4504738
@@ -24,7 +30,8 @@ pb	9	0013	4504741
 pb	10	0014	4504742
 pb	11	0015	4504743
 pb	12	0016	4504744
-entry	Belgique. Démographie		
+entry	Belgique. Démographie [Jacques Bertillon]		
+orth	Belgique. Démographie		
 pb	13	0017	4504745
 pb	14	0018	4504746
 pb	15	0019	4504747
@@ -61,20 +68,24 @@ pb	45	0049	4504777
 pb	46	0050	4504778
 entry	Bélion		
 ref	Germandrée		
-entry	Bell (Les)		
+entry	Bell (Les) [E. Beaugrand]		
+orth	Bell (Les)		
 pb	47	0051	4504779
 pb	48	0052	4504780
 pb	49	0053	4504781
 entry	Belladone		
-entry	Belladone. Botanique		
+entry	Belladone. Botanique [H. Baillon]		
+orth	Belladone. Botanique		
 pb	50	0054	4504782
 pb	51	0055	4504783
-entry	Belladone. Pharmacologie		
+entry	Belladone. Pharmacologie [T. Gobley]		
+orth	Belladone. Pharmacologie		
 pb	52	0056	4504784
 pb	53	0057	4504785
 pb	54	0058	4504786
 pb	55	0059	4504787
-entry	Belladone. Thérapeutique		
+entry	Belladone. Thérapeutique [A. Gubler]		
+orth	Belladone. Thérapeutique		
 pb	56	0060	4504788
 pb	57	0061	4504789
 pb	58	0062	4504790
@@ -84,122 +95,172 @@ pb	61	0065	4504793
 pb	62	0066	4504794
 pb	63	0067	4504795
 pb	64	0068	4504796
+entry	Belladone. Thérapeutique [A. Gubler] [E. Beaugrand]		
+orth	Belladone. Thérapeutique		
 pb	65	0069	4504797
 pb	66	0070	4504798
 pb	67	0071	4504799
 pb	68	0072	4504800
-entry	Belle-Dame		
+entry	Belle-Dame [H. Baillon]		
+orth	Belle-Dame		
 entry	Belle-de-nuit		
 ref	Faux-Jalap		
 ref	Mirabilis		
 ref	Nyctago		
-entry	Bellème ou Bellesme (Eaux minérales de)		
-entry	Belleville (Eau minérale de)		
+entry	Bellème ou Bellesme (Eaux minérales de) [A. Rotureau]		
+orth	Bellème ou Bellesme (Eaux minérales de)		
+entry	Belleville (Eau minérale de) [A. Rotureau]		
+orth	Belleville (Eau minérale de)		
 pb	69	0073	4504801
-entry	Bellevue (Établissement hydrothérapique)		
+entry	Bellevue (Établissement hydrothérapique) [A. Rotureau]		
+orth	Bellevue (Établissement hydrothérapique)		
 pb	70	0074	4504802
 pb	71	0075	4504803
-entry	Bellini (Laurent)		
-entry	Bellis		
+entry	Bellini (Laurent) [A. Chéreau]		
+orth	Bellini (Laurent)		
+entry	Bellis [H. Baillon]		
+orth	Bellis		
 pb	72	0076	4504804
-entry	Belloc (Eau minérale de)		
-entry	Belloc (Jean-Jacques) 		
+entry	Belloc (Eau minérale de) [A. Rotureau]		
+orth	Belloc (Eau minérale de)		
+entry	Belloc (Jean-Jacques) [E. Beaugrand] 		
+orth	Belloc (Jean-Jacques) 		
 pb	73	0077	4504805
-entry	Belloc (Jean-Jacques)		
+entry	Belloc (Jean-Jacques) [E. Beaugrand]		
+orth	Belloc (Jean-Jacques)		
 entry	Bellon		
 ref	Plomb		
-entry	Belloste (Augustin)		
-entry	Bellote, Bellotas		
-entry	Belmas (Denis-Génie)		
+entry	Belloste (Augustin) [A. Chéreau]		
+orth	Belloste (Augustin)		
+entry	Bellote, Bellotas [H. Baillon]		
+orth	Bellote, Bellotas		
+entry	Belmas (Denis-Génie) [E. Beaugrand]		
+orth	Belmas (Denis-Génie)		
 pb	74	0078	4504806
-entry	Belonie		
-entry	Belou		
+entry	Belonie [H. Baillon]		
+orth	Belonie		
+entry	Belou [H. Baillon]		
+orth	Belou		
 entry	Belouchistan		
 ref	Perse		
-entry	Belsamon		
-entry	Ben ou Been (Noix de)		
+entry	Belsamon [H. Baillon]		
+orth	Belsamon		
+entry	Ben ou Been (Noix de) [H. Baillon]		
+orth	Ben ou Been (Noix de)		
 pb	75	0079	4504807
 entry	Benci ou Benzo		
 ref	Hugo		
-entry	Benedetti (Les)		
+entry	Benedetti (Les) [E. Beaugrand]		
+orth	Benedetti (Les)		
 pb	76	0080	4504808
 entry	Benevenuti		
 ref	Benvenuti		
-entry	Benevoli (Antoine)		
+entry	Benevoli (Antoine) [A. Chéreau]		
+orth	Benevoli (Antoine)		
 entry	Bengale		
 ref	Indoustan		
-entry	Bengiri		
-entry	Bénignité		
+entry	Bengiri [H. Baillon]		
+orth	Bengiri		
+entry	Bénignité [Amédée Dechambre]		
+orth	Bénignité		
 pb	77	0081	4504809
-entry	Béniqué (Pierres-Jules)		
-entry	Benivieni (Ant.)		
+entry	Béniqué (Pierres-Jules) [E. Beaugrand]		
+orth	Béniqué (Pierres-Jules)		
+entry	Benivieni (Ant.) [E. Beaugrand]		
+orth	Benivieni (Ant.)		
 pb	78	0082	4504810
 entry	Benjan		
 ref	Sésame		
 entry	Benjoin		
-entry	Botanique		
-entry	Benjoin. Pharmacologie		
+entry	Botanique [H. Baillon]		
+orth	Botanique		
+entry	Benjoin. Pharmacologie [T. Gobley]		
+orth	Benjoin. Pharmacologie		
 pb	79	0083	4504811
-entry	Benjoin. Thérapeutique		
+entry	Benjoin. Thérapeutique [Fonssagrives]		
+orth	Benjoin. Thérapeutique		
 pb	80	0084	4504812
 pb	81	0085	4504813
 pb	82	0086	4504814
-entry	Bennati (Fr.)		
+entry	Bennati (Fr.) [E. Beaugrand]		
+orth	Bennati (Fr.)		
 pb	83	0087	4504815
-entry	Bennet (Christophe)		
-entry	Benoiston de Châteauneuf (Louis-François)		
+entry	Bennet (Christophe) [A. Chéreau]		
+orth	Bennet (Christophe)		
+entry	Benoiston de Châteauneuf (Louis-François) [E. Beaugrand]		
+orth	Benoiston de Châteauneuf (Louis-François)		
 pb	84	0088	4504816
 entry	Benoîte		
-entry	Benoîte. Botanique		
+entry	Benoîte. Botanique [H. Baillon]		
+orth	Benoîte. Botanique		
 pb	85	0089	4504817
-entry	Benoîte. Pharmacologie		
+entry	Benoîte. Pharmacologie [J. Delioux de Savignac]		
+orth	Benoîte. Pharmacologie		
 pb	86	0090	4504818
-entry	Benoîte. Thérapeutique		
+entry	Benoîte. Thérapeutique [J. Delioux de Savignac]		
+orth	Benoîte. Thérapeutique		
 pb	87	0091	4504819
 pb	88	0092	4504820
 pb	89	0093	4504821
-entry	Benvenuti (Guiseppe)		
+entry	Benvenuti (Guiseppe) [E. Beaugrand]		
+orth	Benvenuti (Guiseppe)		
 entry	Benzamide (azoture de benzoïle et d'hyrogène)		
-entry	Benzamide (azoture de benoïle et d'hyrogène). Chimie		
+entry	Benzamide (azoture de benoïle et d'hyrogène). Chimie [Malaguti]		
+orth	Benzamide (azoture de benoïle et d'hyrogène). Chimie		
 pb	90	0094	4504822
 entry	Benzimide (hydrure de cyano-benzoïle)		
-entry	Chimie		
+entry	Chimie [Malaguti]		
+orth	Chimie		
 entry	Benzine		
-entry	Benzine. Chimie		
+entry	Benzine. Chimie [Malaguti]		
+orth	Benzine. Chimie		
 pb	91	0095	4504823
-entry	Benzine. Thérapeutique		
+entry	Benzine. Thérapeutique [Fonssagrives]		
+orth	Benzine. Thérapeutique		
 pb	92	0096	4504824
 pb	93	0097	4504825
 pb	94	0098	4504826
-entry	Benzine. Toxicologie		
+entry	Benzine. Toxicologie [Fonssagrives]		
+orth	Benzine. Toxicologie		
 pb	95	0099	4504827
 entry	Benzoates		
-entry	Benzoates. Chimie		
+entry	Benzoates. Chimie [Malaguti]		
+orth	Benzoates. Chimie		
 pb	96	0100	4504828
-entry	Emploi médical		
+entry	Emploi médical [Fonssagrives]		
+orth	Emploi médical		
 entry	Benzoile		
 ref	Benzoyle		
-entry	Benzoin		
+entry	Benzoin [H. Baillon]		
+orth	Benzoin		
 pb	97	0101	4504829
-entry	Benzoine		
+entry	Benzoine [Malaguti]		
+orth	Benzoine		
 entry	Benzoïque (Acide)		
-entry	Benzoïque (Acide). Chimie		
+entry	Benzoïque (Acide). Chimie [Malaguti]		
+orth	Benzoïque (Acide). Chimie		
 pb	98	0102	4504830
-entry	Benzoïque (Acide). Pharmacologie et thérapeutique		
+entry	Benzoïque (Acide). Pharmacologie et thérapeutique [Malaguti]		
+orth	Benzoïque (Acide). Pharmacologie et thérapeutique		
 pb	99	0103	4504831
-entry	Benzone, Benzophénone		
+entry	Benzone, Benzophénone [Malaguti]		
+orth	Benzone, Benzophénone		
 pb	100	0104	4504832
 entry	Benzoyle		
 ref	Amandes amères		
 entry	Ber		
 ref	Jujube		
-entry	Bérard (Frédéric)		
-entry	Bérard (Les deux frères)		
+entry	Bérard (Frédéric) [E. Beaugrand]		
+orth	Bérard (Frédéric)		
+entry	Bérard (Les deux frères) [E. Beaugrand]		
+orth	Bérard (Les deux frères)		
 pb	101	0105	4504833
 pb	102	0106	4504834
 pb	103	0107	4504835
-entry	Béraud (Bruno-Jacques)		
-entry	Berbers		
+entry	Béraud (Bruno-Jacques) [E. Beaugrand]		
+orth	Béraud (Bruno-Jacques)		
+entry	Berbers [Gustave Lagneau]		
+orth	Berbers		
 pb	104	0108	4504836
 pb	105	0109	4504837
 pb	106	0110	4504838
@@ -213,40 +274,54 @@ pb	113	0117	4504845
 pb	114	0118	4504846
 pb	115	0119	4504847
 pb	116	0120	4504848
-entry	Berbéridées		
+entry	Berbéridées [H. Baillon]		
+orth	Berbéridées		
 entry	Berberis		
 ref	Épine-vinette		
 ref	Vinettier		
-entry	Berce		
+entry	Berce [H. Baillon]		
+orth	Berce		
 pb	117	0121	4504849
 pb	118	0122	4504850
-entry	Berck-sur-Mer (Station marine)		
+entry	Berck-sur-Mer (Station marine) [A. Rotureau]		
+orth	Berck-sur-Mer (Station marine)		
 pb	119	0123	4504851
 pb	120	0124	4504852
 pb	121	0125	4504853
-entry	Berends (Carl.-Aug.-Wilh.)		
-entry	Berengario (Giacomo)		
+entry	Berends (Carl.-Aug.-Wilh.) [E. Beaugrand]		
+orth	Berends (Carl.-Aug.-Wilh.)		
+entry	Berengario (Giacomo) [E. Beaugrand]		
+orth	Berengario (Giacomo)		
 pb	122	0126	4504854
 pb	123	0127	4504855
 entry	Berenger		
 ref	Berengario		
-entry	Berg (Eaux minérales, boues et cure de petit-lait de)		
+entry	Berg (Eaux minérales, boues et cure de petit-lait de) [A. Rotureau]		
+orth	Berg (Eaux minérales, boues et cure de petit-lait de)		
 pb	124	0128	4504856
 pb	125	0129	4504857
 entry	Berg Giesshubel		
 ref	Giesshubel (Eau minérale de)		
-entry	Bergamotte		
-entry	Bergen (Les deux)		
+entry	Bergamotte [H. Baillon]		
+orth	Bergamotte		
+entry	Bergen (Les deux) [A. Chéreau]		
+orth	Bergen (Les deux)		
 pb	126	0130	4504858
-entry	Berger (Les)		
+entry	Berger (Les) [A. Chéreau]		
+orth	Berger (Les)		
 pb	127	0131	4504859
-entry	Bergera		
+entry	Bergera [H. Baillon]		
+orth	Bergera		
 pb	128	0132	4504860
-entry	Berghe (Les trois de)		
-entry	Bergmann (Torbern)		
+entry	Berghe (Les trois de) [A. Chéreau]		
+orth	Berghe (Les trois de)		
+entry	Bergmann (Torbern) [E. Beaugrand]		
+orth	Bergmann (Torbern)		
 pb	129	0133	4504861
-entry	Bergue (Écorce de)		
-entry	Beriberi ou Beri Beri		
+entry	Bergue (Écorce de) [H. Baillon]		
+orth	Bergue (Écorce de)		
+entry	Beriberi ou Beri Beri [A. Le Roy de Méricourt]		
+orth	Beriberi ou Beri Beri		
 pb	130	0134	4504862
 pb	131	0135	4504863
 pb	132	0136	4504864
@@ -283,15 +358,18 @@ pb	162	0166	4504894
 pb	163	0167	4504895
 pb	164	0168	4504896
 pb	165	0169	4504897
-entry	Berle		
+entry	Berle [H. Baillon]		
+orth	Berle		
 pb	166	0170	4504898
 pb	167	0171	4504899
-entry	Berlinghieri (Les deux)		
+entry	Berlinghieri (Les deux) [E. Beaugrand]		
+orth	Berlinghieri (Les deux)		
 pb	168	0172	4504900
 entry	Berlue		
 ref	Myodopsie		
 ref	Spectres		
-entry	Bermudes (Les îles)		
+entry	Bermudes (Les îles) [A. Le Roy de Méricourt]		
+orth	Bermudes (Les îles)		
 pb	169	0173	4504901
 pb	170	0174	4504902
 pb	171	0175	4504903
@@ -301,40 +379,56 @@ pb	174	0178	4504906
 pb	175	0179	4504907
 pb	176	0180	4504908
 pb	177	0181	4504909
-entry	Bernard de Gordon		
+entry	Bernard de Gordon [Beaugrand]		
+orth	Bernard de Gordon		
 pb	178	0182	4504910
-entry	Bernier (Les deux)		
-entry	Bernières (Station marine)		
+entry	Bernier (Les deux) [A. Chéreau]		
+orth	Bernier (Les deux)		
+entry	Bernières (Station marine) [A. Rotureau]		
+orth	Bernières (Station marine)		
 pb	179	0183	4504911
-entry	Bernoulli (Les)		
+entry	Bernoulli (Les) [A. Chéreau]		
+orth	Bernoulli (Les)		
 pb	180	0184	4504912
 entry	Béroé		
 ref	Polype		
-entry	Berryat (Jean)		
-entry	Bertapaglia (Leonardo)		
+entry	Berryat (Jean) [A. Chéreau]		
+orth	Berryat (Jean)		
+entry	Bertapaglia (Leonardo) [E. Beaugrand]		
+orth	Bertapaglia (Leonardo)		
 pb	181	0185	4504913
-entry	Berthemin (Dominique)		
-entry	Berthollet (Claude-Louis)		
+entry	Berthemin (Dominique) [E. Beaugrand]		
+orth	Berthemin (Dominique)		
+entry	Berthollet (Claude-Louis) [E. Beaugrand]		
+orth	Berthollet (Claude-Louis)		
 pb	182	0186	4504914
-entry	Bertholletie		
+entry	Bertholletie [H. Baillon]		
+orth	Bertholletie		
 pb	183	0187	4504915
-entry	Bertin (Les deux)		
+entry	Bertin (Les deux) [E. Beaugrand]		
+orth	Bertin (Les deux)		
 pb	184	0188	4504916
-entry	Bertrand (Les)		
+entry	Bertrand (Les) [A. Chéreau]		
+orth	Bertrand (Les)		
 pb	185	0189	4504917
-entry	Bertrandi (Jean-Antoine-Marie)		
+entry	Bertrandi (Jean-Antoine-Marie) [A. Chéreau]		
+orth	Bertrandi (Jean-Antoine-Marie)		
 pb	186	0190	4504918
-entry	Bertrich (Eau minérale de)		
+entry	Bertrich (Eau minérale de) [A. Rotureau]		
+orth	Bertrich (Eau minérale de)		
 pb	187	0191	4504919
-entry	Bertruccio		
+entry	Bertruccio [E. Beaugrand]		
+orth	Bertruccio		
 pb	188	0192	4504920
 entry	Bertuzzo		
 ref	Bertruccio		
-entry	Berzelius (Jacobus, baron de)		
+entry	Berzelius (Jacobus, baron de) [E. Beaugrand]		
+orth	Berzelius (Jacobus, baron de)		
 pb	189	0193	4504921
 entry	Berula		
 ref	Berle		
-entry	Besicles		
+entry	Besicles [J. Gavarret]		
+orth	Besicles		
 pb	190	0194	4504922
 pb	191	0195	4504923
 pb	192	0196	4504924
@@ -342,20 +436,26 @@ pb	193	0197	4504925
 pb	194	0198	4504926
 pb	195	0199	4504927
 pb	196	0200	4504928
-entry	Besler (Les trois)		
+entry	Besler (Les trois) [A. Chéreau]		
+orth	Besler (Les trois)		
 pb	197	0201	4504929
-entry	Besse (Eaux minérales de)		
+entry	Besse (Eaux minérales de) [A. Rotureau]		
+orth	Besse (Eaux minérales de)		
 pb	198	0202	4504930
 entry	Bessi		
 ref	Eucalypte		
 entry	Beta		
 ref	Bette		
-entry	Bétaille (Eau minérale de)		
-entry	Bête d'Aout		
+entry	Bétaille (Eau minérale de) [A. Rotureau]		
+orth	Bétaille (Eau minérale de)		
+entry	Bête d'Aout [A. Laboulbène]		
+orth	Bête d'Aout		
 pb	199	0203	4504931
 entry	Bétel		
-entry	Botanique		
-entry	Bétel. Hygiène, Matière médicale		
+entry	Botanique [H. Baillon]		
+orth	Botanique		
+entry	Bétel. Hygiène, Matière médicale [J. Delioux de Savignac]		
+orth	Bétel. Hygiène, Matière médicale		
 pb	200	0204	4504932
 pb	201	0205	4504933
 pb	202	0206	4504934
@@ -364,43 +464,59 @@ pb	204	0208	4504936
 pb	205	0209	4504937
 pb	206	0210	4504938
 entry	Bétoine		
-entry	Bétoine. Botanique		
+entry	Bétoine. Botanique [H. Baillon]		
+orth	Bétoine. Botanique		
 pb	207	0211	4504939
-entry	Bétoine. Pharmacologie		
+entry	Bétoine. Pharmacologie [J. Delioux de Savignac]		
+orth	Bétoine. Pharmacologie		
 pb	208	0212	4504940
-entry	Thérapeutique		
+entry	Thérapeutique [J. Delioux de Savignac]		
+orth	Thérapeutique		
 entry	Betonica		
 ref	Bétoine		
-entry	Béthencourt (Jacques de)		
+entry	Béthencourt (Jacques de) [E. Beaugrand]		
+orth	Béthencourt (Jacques de)		
 pb	209	0213	4504941
 entry	Bette		
-entry	Bette. Botanique		
+entry	Bette. Botanique [H. Baillon]		
+orth	Bette. Botanique		
 pb	210	0214	4504942
-entry	Bette. Bromatologie et thérapeutique		
+entry	Bette. Bromatologie et thérapeutique [Fonssagrives]		
+orth	Bette. Bromatologie et thérapeutique		
 pb	211	0215	4504943
 pb	212	0216	4504944
 entry	Betterave		
 ref	Bette		
-entry	Betts (John)		
+entry	Betts (John) [A. Chéreau]		
+orth	Betts (John)		
 entry	Betula		
 ref	Bouleau		
-entry	Bétulacées ou Bétulinées		
+entry	Bétulacées ou Bétulinées [H. Baillon]		
+orth	Bétulacées ou Bétulinées		
 entry	Bétys		
 ref	Chavica		
-entry	Beurre		
+entry	Beurre [P. Coulier]		
+orth	Beurre		
 pb	213	0217	4504945
 pb	214	0218	4504946
 pb	215	0219	4504947
 pb	216	0220	4504948
 pb	217	0221	4504949
 pb	218	0222	4504950
-entry	Beurres médicamenteux		
+entry	Beurre [P. Coulier] [E. Beaugrand]		
+orth	Beurre		
+entry	Beurres médicamenteux [T. Gobley]		
+orth	Beurres médicamenteux		
 pb	219	0223	4504951
-entry	Beures végétaux		
+entry	Beures végétaux [H. Baillon]		
+orth	Beures végétaux		
 pb	220	0224	4504952
-entry	Beuzeval (Station marine)		
-entry	Beverwyck (Jean de)		
-entry	Bex (Eaux imnérales et cure de petit-lait de)		
+entry	Beuzeval (Station marine) [A. Rotureau]		
+orth	Beuzeval (Station marine)		
+entry	Beverwyck (Jean de) [A. Chéreau]		
+orth	Beverwyck (Jean de)		
+entry	Bex (Eaux imnérales et cure de petit-lait de) [A. Rotureau]		
+orth	Bex (Eaux imnérales et cure de petit-lait de)		
 pb	221	0225	4504953
 entry	Bexuquillo		
 ref	Cephaelis		
@@ -409,24 +525,36 @@ entry	Beyugo
 ref	Béjugue		
 entry	Bezetta		
 ref	Crozophora		
-entry	Bézoard		
+entry	Bézoard [A. Laboulbène]		
+orth	Bézoard		
 pb	222	0226	4504954
 pb	223	0227	4504955
+entry	Bézoard [A. Laboulbène] [E. Beaugrand]		
+orth	Bézoard		
 pb	224	0228	4504956
-entry	Bhâvamiçra ou miçrabhâva		
-entry	Bianchi (Les)		
+entry	Bhâvamiçra ou miçrabhâva [G. Liétard]		
+orth	Bhâvamiçra ou miçrabhâva		
+entry	Bianchi (Les) [A. Chéreau]		
+orth	Bianchi (Les)		
 pb	225	0229	4504957
-entry	Bianchini (Jean-Fortunat)		
+entry	Bianchini (Jean-Fortunat) [A. Chéreau]		
+orth	Bianchini (Jean-Fortunat)		
 pb	226	0230	4504958
-entry	Bianconi (Giov. Luidgi)		
-entry	Biaron, Biarum.		
-entry	Biarrits ou Biarritz (Station marine et hivernale)		
+entry	Bianconi (Giov. Luidgi) [E. Beaugrand]		
+orth	Bianconi (Giov. Luidgi)		
+entry	Biaron, Biarum. [H. Baillon]		
+orth	Biaron, Biarum.		
+entry	Biarrits ou Biarritz (Station marine et hivernale) [A. Rotureau]		
+orth	Biarrits ou Biarritz (Station marine et hivernale)		
 pb	227	0231	4504959
 pb	228	0232	4504960
 pb	229	0233	4504961
-entry	Bibacier, Bibassier		
-entry	Bibby		
-entry	Biberon		
+entry	Bibacier, Bibassier [H. Baillon]		
+orth	Bibacier, Bibassier		
+entry	Bibby [H. Baillon]		
+orth	Bibby		
+entry	Biberon [E. Beaugrand]		
+orth	Biberon		
 pb	230	0234	4504962
 pb	231	0235	4504963
 pb	232	0236	4504964
@@ -434,39 +562,52 @@ pb	233	0237	4504965
 pb	234	0238	4504966
 entry	Bibir, Beebern		
 ref	Lauriers		
-entry	Bibreuil		
-entry	Bibron (Gabriel)		
-entry	Bicéphale		
-entry	Biceps		
+entry	Bibreuil [H. Baillon]		
+orth	Bibreuil		
+entry	Bibron (Gabriel) [A. Chéreau]		
+orth	Bibron (Gabriel)		
+entry	Bicéphale [Simon Duplay]		
+orth	Bicéphale		
+entry	Biceps [V. Paulet]		
+orth	Biceps		
 pb	235	0239	4504967
-entry	Bich, Bick, Bish		
-entry	Bichat		
+entry	Bich, Bick, Bish [H. Baillon]		
+orth	Bich, Bick, Bish		
+entry	Bichat [E. Beaugrand]		
+orth	Bichat		
 pb	236	0240	4504968
 pb	237	0241	4504969
 pb	238	0242	4504970
 pb	239	0243	4504971
 entry	Bichet		
 ref	Rocouier		
-entry	Bicho ou Biecho		
+entry	Bicho ou Biecho [A. Le Roy de Méricourt]		
+orth	Bicho ou Biecho		
 pb	240	0244	4504972
 pb	241	0245	4504973
 pb	242	0246	4504974
 entry	Bichromate de potasse		
 ref	Chromates		
-entry	Bicipitale (Gouttière)		
+entry	Bicipitale (Gouttière) [V. Paulet]		
+orth	Bicipitale (Gouttière)		
 pb	243	0247	4504975
 entry	Bicorne (Utérus)		
 ref	Utérus		
-entry	Bidault de Villiers (F. T.)		
-entry	Bident		
-entry	Bidloo (Godfr.)		
+entry	Bidault de Villiers (F. T.) [E. Beaugrand]		
+orth	Bidault de Villiers (F. T.)		
+entry	Bident [H. Baillon]		
+orth	Bident		
+entry	Bidloo (Godfr.) [E. Beaugrand]		
+orth	Bidloo (Godfr.)		
 pb	244	0248	4504976
-entry	Bienaise (Jean)		
+entry	Bienaise (Jean) [E. Beaugrand]		
+orth	Bienaise (Jean)		
 pb	245	0249	4504977
 entry	Bienfaisance		
 ref	Assistance		
 ref	Association		
-entry	Bière		
+entry	Bière [P. Coulier]		
+orth	Bière		
 pb	246	0250	4504978
 pb	247	0251	4504979
 pb	248	0252	4504980
@@ -482,24 +623,35 @@ pb	257	0261	4504989
 pb	258	0262	4504990
 pb	259	0263	4504991
 pb	260	0264	4504992
+entry	Bière [P. Coulier] [E. Beaugrand]		
+orth	Bière		
 pb	261	0265	4504993
-entry	Bières médicinales		
+entry	Bières médicinales [Amédée Dechambre]		
+orth	Bières médicinales		
 pb	262	0266	4504994
-entry	Biett (Laurent-Théodore)		
-entry	Bifide, Bifidité		
+entry	Biett (Laurent-Théodore) [E. Beaugrand]		
+orth	Biett (Laurent-Théodore)		
+entry	Bifide, Bifidité [U. Trélat]		
+orth	Bifide, Bifidité		
 pb	263	0267	4504995
-entry	Bigarade		
-entry	Bigarreau		
+entry	Bigarade [H. Baillon]		
+orth	Bigarade		
+entry	Bigarreau [H. Baillon]		
+orth	Bigarreau		
 entry	Bihai		
 ref	Héliconie		
-entry	Bignone, Bignoniacées		
+entry	Bignone, Bignoniacées [H. Baillon]		
+orth	Bignone, Bignoniacées		
 entry	Bijoutiers		
-entry	Bijoutiers. Hygiène professionnelle		
+entry	Bijoutiers. Hygiène professionnelle [E. Beaugrand]		
+orth	Bijoutiers. Hygiène professionnelle		
 pb	264	0268	4504996
 pb	265	0269	4504997
-entry	Bilazai (Eau minérale de)		
+entry	Bilazai (Eau minérale de) [A. Rotureau]		
+orth	Bilazai (Eau minérale de)		
 pb	266	0270	4504998
-entry	Bile		
+entry	Bile [Liégeois]		
+orth	Bile		
 pb	267	0271	4504999
 pb	268	0272	4505000
 pb	269	0273	4505001
@@ -528,10 +680,12 @@ pb	291	0295	4505023
 pb	292	0296	4505024
 pb	293	0297	4505025
 pb	294	0298	4505026
-entry	Bilguer (Jean-Ulric de)		
+entry	Bilguer (Jean-Ulric de) [A. Chéreau]		
+orth	Bilguer (Jean-Ulric de)		
 pb	295	0299	4505027
 entry	Biliaires (Voies)		
-entry	Biliaires (Voies). Anatomie		
+entry	Biliaires (Voies). Anatomie [V. Paulet]		
+orth	Biliaires (Voies). Anatomie		
 pb	296	0300	4505028
 pb	297	0301	4505029
 pb	298	0302	4505030
@@ -548,11 +702,13 @@ pb	308	0312	4505040
 pb	309	0313	4505041
 pb	310	0314	4505042
 pb	311	0315	4505043
-entry	Biliaires (Voies). Physiologie		
+entry	Biliaires (Voies). Physiologie [V. Paulet]		
+orth	Biliaires (Voies). Physiologie		
 pb	312	0316	4505044
 pb	313	0317	4505045
 pb	314	0318	4505046
-entry	Biliaires (Voies). Pathologie		
+entry	Biliaires (Voies). Pathologie [Barth, Ernest Besnier]		
+orth	Biliaires (Voies). Pathologie		
 pb	315	0319	4505047
 pb	316	0320	4505048
 pb	317	0321	4505049
@@ -666,6 +822,8 @@ pb	424	0428	4505156
 pb	425	0429	4505157
 pb	426	0430	4505158
 pb	427	0431	4505159
+entry	Biliaires (Voies). Pathologie [Barth, Ernest Besnier] [Ernest Besnier]		
+orth	Biliaires (Voies). Pathologie		
 pb	428	0432	4505160
 pb	429	0433	4505161
 pb	430	0434	4505162
@@ -674,7 +832,8 @@ pb	432	0436	4505164
 pb	433	0437	4505165
 entry	Bilibumine		
 ref	Bile		
-entry	Bilieux (Flux bilieux, état bilieux, affections, fièvres et constitutions bilieuses)		
+entry	Bilieux (Flux bilieux, état bilieux, affections, fièvres et constitutions bilieuses) [B. Brochin]		
+orth	Bilieux (Flux bilieux, état bilieux, affections, fièvres et constitutions bilieuses)		
 pb	434	0438	4505166
 pb	435	0439	4505167
 pb	436	0440	4505168
@@ -699,8 +858,10 @@ entry	Bilifuscine
 ref	Bile		
 entry	Bilihumine		
 ref	Bile		
-entry	Bilimbi		
-entry	Bilin (Eaux Minérales de)		
+entry	Bilimbi [H. Baillon]		
+orth	Bilimbi		
+entry	Bilin (Eaux Minérales de) [A. Rotureau]		
+orth	Bilin (Eaux Minérales de)		
 pb	452	0456	4505184
 entry	Biliphéine		
 ref	Bile		
@@ -711,16 +872,21 @@ ref	Bile
 entry	Biliverdine		
 ref	Bile		
 pb	453	0457	4505185
-entry	Billard (Charles-Michel)		
-entry	Bils (Louis de)		
+entry	Billard (Charles-Michel) [E. Beaugrand]		
+orth	Billard (Charles-Michel)		
+entry	Bils (Louis de) [A. Chéreau]		
+orth	Bils (Louis de)		
 pb	454	0458	4505186
 entry	Bimanes		
 ref	Homme		
 ref	Primates		
-entry	Bingen (Cure de raisin)		
+entry	Bingen (Cure de raisin) [A. Rotureau]		
+orth	Bingen (Cure de raisin)		
 pb	455	0459	4505187
-entry	Binkohumba		
-entry	Benninger (Les)		
+entry	Binkohumba [H. Baillon]		
+orth	Binkohumba		
+entry	Benninger (Les) [A. Chéreau]		
+orth	Benninger (Les)		
 pb	456	0460	4505188
 entry	Binnouges		
 ref	Periploca		
@@ -729,9 +895,11 @@ ref	Bésicles
 ref	Bandages		
 entry	Binoculaire (Vision)		
 ref	Vision		
-entry	Bio (Eaux minérales de)		
+entry	Bio (Eaux minérales de) [A. Rotureau]		
+orth	Bio (Eaux minérales de)		
 pb	457	0461	4505189
-entry	Biologie		
+entry	Biologie [Ch. Robin]		
+orth	Biologie		
 pb	458	0462	4505190
 pb	459	0463	4505191
 pb	460	0464	4505192
@@ -780,42 +948,53 @@ pb	502	0506	4505234
 pb	503	0507	4505235
 pb	504	0508	4505236
 pb	505	0509	4505237
-entry	Biondo (Michel-Ange)		
-entry	Biotaxie		
+entry	Biondo (Michel-Ange) [A. Chéreau]		
+orth	Biondo (Michel-Ange)		
+entry	Biotaxie [Ch. Robin]		
+orth	Biotaxie		
 pb	506	0510	4505238
 pb	507	0511	4505239
 entry	Birman (Empire)		
 ref	Indo-Chine		
-entry	Birmenstorf (Eaux minérales de)		
+entry	Birmenstorf (Eaux minérales de) [A. Rotureau]		
+orth	Birmenstorf (Eaux minérales de)		
 pb	508	0512	4505240
-entry	Biron (Vincent-Jean-Paul)		
+entry	Biron (Vincent-Jean-Paul) [E. Beaugrand]		
+orth	Biron (Vincent-Jean-Paul)		
 entry	Biscuits		
-entry	Biscuits. Bromatologie		
+entry	Biscuits. Bromatologie [Fonssagrives]		
+orth	Biscuits. Bromatologie		
 pb	509	0513	4505241
 pb	510	0514	4505242
-entry	Biscuits. Pharmacie		
+entry	Biscuits. Pharmacie [Fonssagrives]		
+orth	Biscuits. Pharmacie		
 pb	511	0515	4505243
-entry	Biscuits. Hygiène navale et hygiène militaire		
+entry	Biscuits. Hygiène navale et hygiène militaire [Fonssagrives]		
+orth	Biscuits. Hygiène navale et hygiène militaire		
 pb	512	0516	4505244
 pb	513	0517	4505245
 pb	514	0518	4505246
 pb	515	0519	4505247
 pb	516	0520	4505248
 pb	317	0521	4505249
-entry	Biscuits médicamenteux		
+entry	Biscuits médicamenteux [T. Gobley]		
+orth	Biscuits médicamenteux		
 pb	518	0522	4505250
-entry	Bisettes		
-ref	Mousserons		
-entry	Bislingua		
+entry	Bisettes.. Baillon]		
+ref	Mousserons [H		
+entry	Bislingua [H. Baillon]		
+orth	Bislingua		
 entry	Bismuth		
-entry	Bismuth. Chimie et pharmacologie		
+entry	Bismuth. Chimie et pharmacologie [J. Regnauld]		
+orth	Bismuth. Chimie et pharmacologie		
 pb	519	0523	4505251
 pb	520	0524	4505252
 pb	521	0525	4505253
 pb	522	0526	4505254
 pb	523	0527	4505255
 pb	524	0528	4505256
-entry	Bismuth. Thérapeutique		
+entry	Bismuth. Thérapeutique [Fonssagrives]		
+orth	Bismuth. Thérapeutique		
 pb	525	0529	4505257
 pb	526	0530	4505258
 pb	527	0531	4505259
@@ -830,20 +1009,26 @@ pb	535	0539	4505267
 pb	536	0540	4505268
 pb	537	0541	4505269
 pb	538	0542	4505270
-entry	Bismuth. Toxicologie		
+entry	Bismuth. Toxicologie [Fonssagrives]		
+orth	Bismuth. Toxicologie		
 pb	539	0543	4505271
 pb	540	0544	4505272
 entry	Bispora		
 ref	Septoménée		
-entry	Bisset (Charles)		
+entry	Bisset (Charles) [A. Chéreau]		
+orth	Bisset (Charles)		
 pb	541	0545	4505273
 entry	Bistorte		
-entry	Bistorte. Botanique		
+entry	Bistorte. Botanique [H. Baillon]		
+orth	Bistorte. Botanique		
 pb	542	0546	4505274
-entry	Pharmacologie		
-entry	Bistorte. Thérapeutique		
+entry	Pharmacologie [J. Delioux de Savignac]		
+orth	Pharmacologie		
+entry	Bistorte. Thérapeutique [J. Delioux de Savignac]		
+orth	Bistorte. Thérapeutique		
 pb	543	0547	4505275
-entry	Bistouri		
+entry	Bistouri [Polaillon]		
+orth	Bistouri		
 pb	544	0548	4505276
 pb	545	0549	4505277
 pb	546	0550	4505278
@@ -854,64 +1039,85 @@ pb	550	0554	4505282
 pb	551	0555	4505283
 pb	552	0556	4505284
 pb	553	0557	4505285
-entry	Bit-Laban		
+entry	Bit-Laban [A. Le Roy de Méricourt]		
+orth	Bit-Laban		
 pb	554	0558	4505286
-entry	Bitume (Hygiène publique)		
+entry	Bitume (Hygiène publique) [E. Beaugrand]		
+orth	Bitume (Hygiène publique)		
 pb	555	0559	4505287
 pb	556	0560	4505288
-entry	Biumi (Paul-Jérôme)		
+entry	Biumi (Paul-Jérôme) [A. Chéreau]		
+orth	Biumi (Paul-Jérôme)		
 entry	Bixa		
 ref	Rocou		
-entry	Blaberopus		
+entry	Blaberopus [H. Baillon]		
+orth	Blaberopus		
 pb	557	0561	4505289
-entry	Black (Joseph)		
+entry	Black (Joseph) [A. Chéreau]		
+orth	Black (Joseph)		
 entry	Black Drops (Gouttes noires)		
 ref	Gouttes		
 ref	Laudanum		
-entry	Blackmore (Richard)		
-entry	Blackwell (Alex.)		
+entry	Blackmore (Richard) [A. Chéreau]		
+orth	Blackmore (Richard)		
+entry	Blackwell (Alex.) [E. Beaugrand]		
+orth	Blackwell (Alex.)		
 pb	558	0562	4505290
-entry	Blaes (Les trois)		
+entry	Blaes (Les trois) [A. Chéreau]		
+orth	Blaes (Les trois)		
 entry	Blafards		
 ref	Albinisme		
-entry	Blainville (Henri-Marie-Ducrotay de)		
+entry	Blainville (Henri-Marie-Ducrotay de) [E. Beaugrand]		
+orth	Blainville (Henri-Marie-Ducrotay de)		
 pb	559	0563	4505291
 pb	560	0564	4505292
-entry	Blair (Patrice)		
-entry	Blaireau		
+entry	Blair (Patrice) [A. Chéreau]		
+orth	Blair (Patrice)		
+entry	Blaireau [A. Laboulbène]		
+orth	Blaireau		
 pb	561	0565	4505293
-entry	Blamarée		
-ref	Maïs		
-entry	Blancard ou mieux Blankaard (Steph.)		
+entry	Blamarée.. Baillon]		
+ref	Maïs [H		
+entry	Blancard ou mieux Blankaard (Steph.) [E. Beaugrand]		
+orth	Blancard ou mieux Blankaard (Steph.)		
 pb	562	0566	4505294
-entry	Blanche (Esprit-Sylvestre)		
-entry	Blanchet (Alexandre-Paul-Louis)		
+entry	Blanche (Esprit-Sylvestre) [E. Beaugrand]		
+orth	Blanche (Esprit-Sylvestre)		
+entry	Blanchet (Alexandre-Paul-Louis) [E. Beaugrand]		
+orth	Blanchet (Alexandre-Paul-Louis)		
 entry	Blanchette		
 ref	Mâche		
 pb	563	0567	4505295
-entry	Blanc de baleine ou Spermaceti		
+entry	Blanc de baleine ou Spermaceti [T. Gobley]		
+orth	Blanc de baleine ou Spermaceti		
 pb	564	0568	4505296
 entry	Blanc de fer		
 ref	Cosmétiques		
 entry	Blanchisseries des toiles et des fils		
-entry	Blanchisseries des toiles et des fils. Hygiène publique		
+entry	Blanchisseries des toiles et des fils. Hygiène publique [E. Beaugrand]		
+orth	Blanchisseries des toiles et des fils. Hygiène publique		
 pb	565	0569	4505297
 pb	566	0570	4505298
 pb	56	0571	4505299
 entry	Blanchisseurs, Blanchisseuses		
-entry	Blanchisseurs, Blanchisseuses. Hygiène professionnelle		
+entry	Blanchisseurs, Blanchisseuses. Hygiène professionnelle [E. Beaugrand]		
+orth	Blanchisseurs, Blanchisseuses. Hygiène professionnelle		
 pb	568	0572	4505300
 pb	569	0573	4505301
 pb	570	0574	4505302
 pb	571	0575	4505303
-entry	Blanc-manger		
-entry	Blandin (Philippe-Frédéric)		
+entry	Blanc-manger [T. Gobley]		
+orth	Blanc-manger		
+entry	Blandin (Philippe-Frédéric) [E. Beaugrand]		
+orth	Blandin (Philippe-Frédéric)		
 pb	572	0576	4505304
-entry	Blaps		
+entry	Blaps [A. Laboulbène]		
+orth	Blaps		
 pb	573	0577	4505305
 entry	Blasius		
 ref	Blaes		
-entry	Blastème		
+entry	Blastème [Ch. Robin]		
+orth	Blastème		
 pb	574	0578	4505306
 pb	575	0579	4505307
 pb	576	0580	4505308
@@ -942,7 +1148,8 @@ pb	600	0604	4505332
 entry	Blastocardie		
 ref	Blastoderme		
 ref	Blastodermiques (Cellules)		
-entry	Blastoderme		
+entry	Blastoderme [Campana]		
+orth	Blastoderme		
 pb	601	0605	4505333
 pb	602	0606	4505334
 pb	603	0607	4505335
@@ -953,7 +1160,8 @@ pb	607	0611	4505339
 pb	608	0612	4505340
 pb	609	0613	4505341
 pb	610	0614	4505342
-entry	Blastodermiques (Cellules)		
+entry	Blastodermiques (Cellules) [Ch. Robin]		
+orth	Blastodermiques (Cellules)		
 pb	611	0615	4505343
 pb	612	0616	4505344
 pb	613	0617	4505345
@@ -961,16 +1169,21 @@ pb	614	0618	4505346
 pb	615	0619	4505347
 entry	Blattaire		
 ref	Molène		
-entry	Blatte		
+entry	Blatte [A. Laboulbène]		
+orth	Blatte		
 pb	616	0620	4505348
 entry	Blatti		
 ref	Sonneratia acida		
-entry	Blaud (P.)		
-entry	Blavelle, Blavette		
+entry	Blaud (P.) [E. Beaugrand]		
+orth	Blaud (P.)		
+entry	Blavelle, Blavette [H. Baillon]		
+orth	Blavelle, Blavette		
 entry	Blé		
-entry	Blé. Botanique		
+entry	Blé. Botanique [H. Baillon]		
+orth	Blé. Botanique		
 pb	617	0621	4505349
-entry	Blé. Bromatologie, hygiène publique		
+entry	Blé. Bromatologie, hygiène publique [P. Coulier]		
+orth	Blé. Bromatologie, hygiène publique		
 pb	618	0622	4505350
 pb	619	0623	4505351
 pb	620	0624	4505352
@@ -994,14 +1207,18 @@ entry	Blé cornu
 ref	Ergot		
 entry	Blé de Turquie		
 ref	Maïs		
-entry	Blé noir		
+entry	Blé noir [P. Coulier]		
+orth	Blé noir		
 pb	637	0641	4505369
-entry	Bléchon		
-entry	Blegny (Nicolas de)		
+entry	Bléchon [H. Baillon]		
+orth	Bléchon		
+entry	Blegny (Nicolas de) [E. Beaugrand]		
+orth	Blegny (Nicolas de)		
 pb	638	0642	4505370
 entry	Blennophthalmie		
 ref	Conjonctivite		
-entry	Blennorrhagie		
+entry	Blennorrhagie [J. Rollet]		
+orth	Blennorrhagie		
 pb	639	0643	4505371
 pb	640	0644	4505372
 pb	641	0645	4505373
@@ -1009,7 +1226,8 @@ pb	642	0646	4505374
 entry	Blennorrhagie balano-préputiale		
 ref	Balanite		
 ref	Balano-postrite		
-entry	Blennorrhagie. Blennorrhagie uréthrale de l'homme		
+entry	Blennorrhagie. Blennorrhagie uréthrale de l'homme [J. Rollet]		
+orth	Blennorrhagie. Blennorrhagie uréthrale de l'homme		
 pb	643	0647	4505375
 pb	644	0648	4505376
 pb	645	0649	4505377
@@ -1052,7 +1270,8 @@ pb	681	0685	4505413
 pb	682	0686	4505414
 pb	683	0687	4505415
 pb	684	0688	4505416
-entry	Blennorrhagie. Blennorrhagie génitale de la femme		
+entry	Blennorrhagie. Blennorrhagie génitale de la femme [J. Rollet]		
+orth	Blennorrhagie. Blennorrhagie génitale de la femme		
 pb	685	0689	4505417
 pb	686	0690	4505418
 pb	687	0691	4505419
@@ -1071,13 +1290,15 @@ entry	Blennorrhagie oculaire
 ref	Conjonctivite blennorrhagique		
 entry	Blennorrhagie buccale		
 ref	Bouche		
-entry	Blennorrhagie nasale		
-ref	Coryza		
+entry	Blennorrhagie nasale.. Beaugrand]		
+ref	Coryza [E		
 pb	697	0701	4505429
-entry	Blennorrhagie		
+entry	Blennorrhagie [J. Rollet] [E. Beaugrand]		
+orth	Blennorrhagie		
 pb	698	0702	4505430
 pb	699	0703	4505431
-entry	Blépharite		
+entry	Blépharite [A. Testelin]		
+orth	Blépharite		
 pb	700	0704	4505432
 pb	701	0705	4505433
 pb	702	0706	4505434
@@ -1092,7 +1313,8 @@ pb	710	0714	4505442
 pb	711	0715	4505443
 pb	712	0716	4505444
 pb	713	0717	4505445
-entry	Blépharoplastie		
+entry	Blépharoplastie [F. Guyon]		
+orth	Blépharoplastie		
 pb	714	0718	4505446
 pb	715	0719	4505447
 pb	716	0720	4505448
@@ -1102,11 +1324,15 @@ pb	719	0723	4505451
 pb	720	0724	4505452
 pb	721	0725	4505453
 pb	722	0726	4505454
+entry	Blépharoplastie [F. Guyon] [E. Beaugrand]		
+orth	Blépharoplastie		
 pb	723	0727	4505455
 pb	724	0728	4505456
 entry	Blessures		
-entry	Chirurgie		
-entry	Blessures. Médecine légale		
+entry	Chirurgie [Legouest]		
+orth	Chirurgie		
+entry	Blessures. Médecine légale [G. Tourdes]		
+orth	Blessures. Médecine légale		
 pb	725	0729	4505457
 pb	726	0730	4505458
 pb	727	0731	4505459

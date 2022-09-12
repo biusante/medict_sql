@@ -1,15 +1,24 @@
 pb	[s. pag.]	0001	4512860
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4512861
 pb	[s. pag.]	0003	4512862
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4512863
 pb	1	0005	4512864
-entry	Colletia		
+entry	Colletia [H. Baillon]		
+orth	Colletia		
 pb	2	0006	4512865
-entry	Collétiine		
-entry	Colliberts		
-entry	Collidine		
+entry	Collétiine [Amédée Dechambre]		
+orth	Collétiine		
+entry	Colliberts [O. Larcher]		
+orth	Colliberts		
+entry	Collidine [P. Schützenberger]		
+orth	Collidine		
 pb	3	0007	4512866
-entry	Colliers orthopédiques		
+entry	Collidine [Schützenberger]		
+orth	Collidine		
+entry	Colliers orthopédiques [H. Bouvier, Pierre Bouland]		
+orth	Colliers orthopédiques		
 pb	4	0008	4512867
 pb	5	0009	4512868
 pb	6	0010	4512869
@@ -17,27 +26,38 @@ pb	7	0011	4512870
 pb	8	0012	4512871
 pb	9	0013	4512872
 pb	10	0014	4512873
-entry	Colliers (Pharmacie)		
-entry	Colliguaja		
-entry	Collin (Henry-Joseph)		
-entry	Collineau (Jean-Charles)		
+entry	Colliers (Pharmacie) [Amédée Dechambre]		
+orth	Colliers (Pharmacie)		
+entry	Colliguaja [H. Baillon]		
+orth	Colliguaja		
+entry	Collin (Henry-Joseph) [A. Chéreau]		
+orth	Collin (Henry-Joseph)		
+entry	Collineau (Jean-Charles) [A. Dureau]		
+orth	Collineau (Jean-Charles)		
 pb	11	0015	4512874
 entry	Collinique (Acide)		
 ref	Collique (Acide)		
-entry	Collins (Samuel)		
-entry	Collinsonia		
+entry	Collins (Samuel) [A. Dureau]		
+orth	Collins (Samuel)		
+entry	Collinsonia [G. Planchon]		
+orth	Collinsonia		
 pb	12	0016	4512875
-entry	Collioure (Eau minérale de)		
-entry	Colliquation		
+entry	Collioure (Eau minérale de) [A. Rotureau]		
+orth	Collioure (Eau minérale de)		
+entry	Colliquation [Amédée Dechambre]		
+orth	Colliquation		
 pb	13	0017	4512876
 entry	Collique		
-entry	Acide		
+entry	Acide [Schützenberger]		
+orth	Acide		
 entry	Collodion		
-entry	Collodion. Chimie et Pharmacie		
+entry	Collodion. Chimie et Pharmacie [T. Gobley]		
+orth	Collodion. Chimie et Pharmacie		
 pb	14	0018	4512877
 pb	15	0019	4512878
 pb	16	0020	4512879
-entry	Collodion. Emploi thérapeutique		
+entry	Collodion. Emploi thérapeutique [G. Gillette]		
+orth	Collodion. Emploi thérapeutique		
 pb	17	0021	4512880
 pb	18	0022	4512881
 pb	19	0023	4512882
@@ -66,34 +86,49 @@ pb	41	0045	4512904
 pb	42	0046	4512905
 pb	43	0047	4512906
 pb	44	0048	4512907
-entry	Colloïde. Pathologie		
+entry	Colloïde. Pathologie [Albert Hénocque]		
+orth	Colloïde. Pathologie		
 pb	45	0049	4512908
 pb	46	0050	4512909
 pb	47	0051	4512910
-entry	Collomb (Barthélemy)		
-entry	Collophora		
-entry	Collutoires		
+entry	Collomb (Barthélemy) [A. Chéreau]		
+orth	Collomb (Barthélemy)		
+entry	Collophora [G. Planchon]		
+orth	Collophora		
+entry	Collutoires [T. Gobley]		
+orth	Collutoires		
 pb	48	0052	4512911
-entry	Collyres		
+entry	Collyres [T. Gobley]		
+orth	Collyres		
 pb	49	0053	4512912
 pb	50	0054	4512913
 pb	51	0055	4512914
-entry	Colobe		
+entry	Colobe [P. Gervais]		
+orth	Colobe		
 pb	52	0056	4512915
-entry	Coloboma		
+entry	Coloboma [E. Warlomont]		
+orth	Coloboma		
 entry	Colocasia		
-entry	Colocasia. Botanique		
+entry	Colocasia. Botanique [G. Planchon]		
+orth	Colocasia. Botanique		
 pb	53	0057	4512916
-entry	Emploi médical		
-entry	Colocyntha		
-entry	Colocynthine		
+entry	Emploi médical [Amédée Dechambre]		
+orth	Emploi médical		
+entry	Colocyntha [G. Planchon]		
+orth	Colocyntha		
+entry	Colocynthine [Schützenberger]		
+orth	Colocynthine		
 pb	54	0058	4512917
-entry	Colombat (Marc), dit Colombat-de-l'Isère		
+entry	Colombat (Marc), dit Colombat-de-l'Isère [E. Beaugrand]		
+orth	Colombat (Marc), dit Colombat-de-l'Isère		
 entry	Colombe		
-entry	Zoologie		
+entry	Zoologie [P. Gervais]		
+orth	Zoologie		
 pb	55	0059	4512918
-entry	Colombe (F.-M. Lécorché) ou Lécorché-Colombe		
-entry	Colombie		
+entry	Colombe (F.-M. Lécorché) ou Lécorché-Colombe [E. Beaugrand]		
+orth	Colombe (F.-M. Lécorché) ou Lécorché-Colombe		
+entry	Colombie [V. De Rochas]		
+orth	Colombie		
 pb	56	0060	4512919
 pb	57	0061	4512920
 pb	58	0062	4512921
@@ -115,22 +150,30 @@ pb	73	0077	4512936
 pb	74	0078	4512937
 entry	Colombie Britannique		
 ref	Britanniques		
-entry	Colombier (Jean)		
-entry	Colombine		
+entry	Colombier (Jean) [A. Dureau]		
+orth	Colombier (Jean)		
+entry	Colombine [Amédée Dechambre]		
+orth	Colombine		
 pb	75	0079	4512938
-entry	Colombique (Acide)		
-entry	Colombium ou Tantale		
+entry	Colombique (Acide) [Amédée Dechambre]		
+orth	Colombique (Acide)		
+entry	Colombium ou Tantale [C. Lutz]		
+orth	Colombium ou Tantale		
 pb	76	0080	4512939
-entry	Colombo (Matteo-Realdo)		
+entry	Colombo (Matteo-Realdo) [E. Beaugrand]		
+orth	Colombo (Matteo-Realdo)		
 entry	Colombo		
-entry	Colombo. Botanique		
+entry	Colombo. Botanique [H. Baillon]		
+orth	Colombo. Botanique		
 pb	77	0081	4512940
-entry	Colombo. Emploi médical		
+entry	Colombo. Emploi médical [J. Delioux de Savignac]		
+orth	Colombo. Emploi médical		
 pb	78	0082	4512941
 pb	79	0083	4512942
 pb	80	0084	4512943
 entry	Colon		
-entry	Colon. Anatomie		
+entry	Colon. Anatomie [Émile Bertin]		
+orth	Colon. Anatomie		
 pb	81	0085	4512944
 pb	82	0086	4512945
 pb	83	0087	4512946
@@ -144,7 +187,8 @@ pb	90	0094	4512953
 pb	91	0095	4512954
 entry	Développement		
 ref	Intestin		
-entry	Colon. Physiologie		
+entry	Colon. Physiologie [Émile Bertin]		
+orth	Colon. Physiologie		
 pb	92	0096	4512955
 pb	93	0097	4512956
 pb	94	0098	4512957
@@ -156,7 +200,8 @@ pb	99	0103	4512962
 pb	100	0104	4512963
 pb	101	0105	4512964
 pb	102	0106	4512965
-entry	Colon. Pathologie		
+entry	Colon. Pathologie [Émile Bertin]		
+orth	Colon. Pathologie		
 pb	103	0107	4512966
 pb	104	0108	4512967
 pb	105	0109	4512968
@@ -224,7 +269,8 @@ entry	Colonies pénitentiaires
 ref	Pénitentiaire (Système)		
 entry	Colonies d'aliénés		
 ref	Aliénés		
-entry	Colonisation		
+entry	Colonisation [Ém. Vallin]		
+orth	Colonisation		
 pb	166	0170	4513029
 pb	167	0171	4513030
 pb	168	0172	4513031
@@ -265,19 +311,28 @@ pb	202	0206	4513065
 pb	203	0207	4513066
 pb	204	0208	4513067
 pb	205	0209	4513068
-entry	Colonna (Fabio)		
+entry	Colonna (Fabio) [E. Beaugrand]		
+orth	Colonna (Fabio)		
 pb	206	0210	4513069
-entry	Colophane ou Colophone		
+entry	Colophane ou Colophone [T. Gobley]		
+orth	Colophane ou Colophone		
 pb	207	0211	4513070
-entry	Colophène		
-entry	Colophiline		
-entry	Colopholique (Acide)		
-entry	Colophonia		
+entry	Colophène [T. Gobley]		
+orth	Colophène		
+entry	Colophiline [T. Gobley]		
+orth	Colophiline		
+entry	Colopholique (Acide) [T. Gobley]		
+orth	Colopholique (Acide)		
+entry	Colophonia [H. Baillon]		
+orth	Colophonia		
 pb	208	0212	4513071
-entry	Colophonone		
+entry	Colophonone [T. Gobley]		
+orth	Colophonone		
 entry	Coloquinte		
-entry	Botanique		
-entry	Coloquinte. Emploi médical		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Coloquinte. Emploi médical [J. Delioux de Savignac]		
+orth	Coloquinte. Emploi médical		
 pb	209	0213	4513072
 pb	210	0214	4513073
 pb	211	0215	4513074
@@ -289,29 +344,39 @@ entry	Coloristes (Hygiène Professionnelle)
 ref	Couleurs		
 entry	Colostrum		
 ref	Lait		
-entry	Colot (Les)		
+entry	Colot (Les) [A. Chéreau]		
+orth	Colot (Les)		
 pb	216	0220	4513079
 pb	217	0221	4513080
 entry	Colotomie		
 ref	Anus artificiel		
 entry	Colouches (Les)		
 ref	Britanniques (Possessions)		
-entry	Colpeurynter		
+entry	Colpeurynter [Amédée Dechambre]		
+orth	Colpeurynter		
 pb	218	0222	4513081
-entry	Colubridés		
-entry	Colubrina		
+entry	Colubridés [P. Gervais]		
+orth	Colubridés		
+entry	Colubrina [G. Planchon]		
+orth	Colubrina		
 entry	Colubrine ou Couleuvrée		
 ref	Bryone		
-entry	Colubrinum Lignum		
-entry	Columella (Lucius-Junius-Moderatus)		
+entry	Colubrinum Lignum [G. Planchon]		
+orth	Colubrinum Lignum		
+entry	Columella (Lucius-Junius-Moderatus) [A. Dureau]		
+orth	Columella (Lucius-Junius-Moderatus)		
 pb	219	0223	4513082
-entry	Columelle		
-entry	Colutea		
+entry	Columelle [G. Planchon]		
+orth	Columelle		
+entry	Colutea [G. Planchon]		
+orth	Colutea		
 entry	Colza		
 entry	Botanique		
 ref	Chou		
-entry	Emploi		
-entry	Coma		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
+entry	Coma [Emile Bertin]		
+orth	Coma		
 pb	220	0224	4513083
 pb	221	0225	4513084
 pb	222	0226	4513085
@@ -363,21 +428,28 @@ ref	Immortelles
 entry	Comanches (Les)		
 ref	Amérique		
 ref	Mexique		
-entry	Comarum		
+entry	Comarum [H. Baillon]		
+orth	Comarum		
 pb	266	0270	4513129
-entry	Comatules		
-entry	Combalusier (François-de-Paule)		
+entry	Comatules [P. Gervais]		
+orth	Comatules		
+entry	Combalusier (François-de-Paule) [E. Beaugrand]		
+orth	Combalusier (François-de-Paule)		
 pb	267	0271	4513130
-entry	Combes (Joseph-Marie-Louis-Hippolyte)		
+entry	Combes (Joseph-Marie-Louis-Hippolyte) [E. Beaugrand]		
+orth	Combes (Joseph-Marie-Louis-Hippolyte)		
 pb	268	0272	4513131
-entry	Combrétacées		
-entry	Combretum		
+entry	Combrétacées [G. Planchon]		
+orth	Combrétacées		
+entry	Combretum [G. Planchon]		
+orth	Combretum		
 entry	Combustibles		
 ref	Chauffage		
 pb	269	0273	4513132
 entry	Combustion		
 ref	Chaleur		
-entry	Combustion humaine spontanée (Médecine légale)		
+entry	Combustion humaine spontanée (Médecine légale) [G. Tourdes]		
+orth	Combustion humaine spontanée (Médecine légale)		
 pb	270	0274	4513133
 pb	271	0275	4513134
 pb	272	0276	4513135
@@ -404,27 +476,40 @@ pb	292	0296	4513155
 entry	Come (Frère)		
 ref	Baseilhac		
 ref	Arsenic		
-entry	Comédons		
+entry	Comédons [Amédée Dechambre]		
+orth	Comédons		
 pb	293	0297	4513156
-entry	Coménamique (Acide)		
-entry	Coménique (Acide)		
+entry	Coménamique (Acide) [Schützenberger]		
+orth	Coménamique (Acide)		
+entry	Coménique (Acide) [Schützenberger]		
+orth	Coménique (Acide)		
 pb	294	0298	4513157
-entry	Comitial (Mal)		
-entry	Commelin (Les deux)		
+entry	Comitial (Mal) [Amédée Dechambre]		
+orth	Comitial (Mal)		
+entry	Commelin (Les deux) [A. Chéreau]		
+orth	Commelin (Les deux)		
 pb	295	0299	4513158
-entry	Comméline		
-entry	Commelinées ou Commelynées		
+entry	Comméline [G. Planchon]		
+orth	Comméline		
+entry	Commelinées ou Commelynées [G. Planchon]		
+orth	Commelinées ou Commelynées		
 pb	296	0300	4513159
 entry	Commémoratifs		
 ref	Diagnostic		
-entry	Commensalisme		
+entry	Commensalisme [Jacques Bertillon]		
+orth	Commensalisme		
 pb	297	0301	4513160
 pb	298	0302	4513161
-entry	Commerson (Philibert)		
-entry	Commia		
-entry	Commiphora		
-entry	Commissures		
-entry	Commotion		
+entry	Commerson (Philibert) [E. Beaugrand]		
+orth	Commerson (Philibert)		
+entry	Commia [H. Baillon]		
+orth	Commia		
+entry	Commiphora [H. Baillon]		
+orth	Commiphora		
+entry	Commissures [Amédée Dechambre]		
+orth	Commissures		
+entry	Commotion [Verneuil]		
+orth	Commotion		
 pb	299	0303	4513162
 pb	300	0304	4513163
 pb	301	0305	4513164
@@ -451,29 +536,40 @@ pb	321	0325	4513184
 pb	322	0326	4513185
 pb	323	0327	4513186
 pb	324	0328	4513187
-entry	Communicantes (Artères)		
-entry	Comocladia		
+entry	Communicantes (Artères) [V. Pozzi]		
+orth	Communicantes (Artères)		
+entry	Comocladia [H. Baillon]		
+orth	Comocladia		
 pb	325	0329	4513188
 entry	Comores (Iles)		
 ref	Madagascar		
-entry	Comou		
-entry	Compans (Eau minérale de)		
-entry	Comparetti (André)		
+entry	Comou [G. Planchon]		
+orth	Comou		
+entry	Compans (Eau minérale de) [A. Rotureau]		
+orth	Compans (Eau minérale de)		
+entry	Comparetti (André) [Dureau]		
+orth	Comparetti (André)		
 pb	326	0330	4513189
-entry	Complexion		
-entry	Complexus		
+entry	Complexion [Amédée Dechambre]		
+orth	Complexion		
+entry	Complexus [Servier]		
+orth	Complexus		
 pb	327	0331	4513190
 pb	328	0332	4513191
-entry	Composées		
+entry	Composées [G. Planchon]		
+orth	Composées		
 pb	329	0333	4513192
-entry	Compresses		
+entry	Compresses [Servier]		
+orth	Compresses		
 pb	330	0334	4513193
 pb	331	0335	4513194
 pb	332	0336	4513195
 pb	333	0337	4513196
-entry	Compression (Appareils compresseurs)		
+entry	Compression (Appareils compresseurs) [Servier]		
+orth	Compression (Appareils compresseurs)		
 pb	334	0338	4513197
-entry	Compression		
+entry	Compression [Servier]		
+orth	Compression		
 pb	335	0339	4513198
 pb	336	0340	4513199
 pb	337	0341	4513200
@@ -517,29 +613,40 @@ pb	374	0378	4513237
 pb	375	0379	4513238
 pb	376	0380	4513239
 pb	377	0381	4513240
-entry	Compte-gouttes		
+entry	Compte-gouttes [T. Gobley]		
+orth	Compte-gouttes		
 pb	378	0382	4513241
 entry	Comptonia		
 ref	Myrica		
-entry	Comte (Joseph-Achille)		
+entry	Comte (Joseph-Achille) [A. Chéreau]		
+orth	Comte (Joseph-Achille)		
 pb	379	0383	4513242
-entry	Conami		
-entry	Conanthera		
+entry	Conami [H. Baillon]		
+orth	Conami		
+entry	Conanthera [G. Planchon]		
+orth	Conanthera		
 entry	Conarium		
 ref	Cerveau		
-entry	Concarneau (Station marine de)		
-entry	Concassation ou Quassation		
+entry	Concarneau (Station marine de) [A. Rotureau]		
+orth	Concarneau (Station marine de)		
+entry	Concassation ou Quassation [Amédée Dechambre]		
+orth	Concassation ou Quassation		
 entry	Conches		
 ref	La Pyronée		
-entry	Conchifères		
-entry	Conchioline		
-entry	Conchos (Les)		
+entry	Conchifères [P. Gervais]		
+orth	Conchifères		
+entry	Conchioline [Amédée Dechambre]		
+orth	Conchioline		
+entry	Conchos (Les) [Amédée Dechambre]		
+orth	Conchos (Les)		
 pb	380	0384	4513243
 entry	Concombre		
-entry	Concombre. Botanique		
+entry	Concombre. Botanique [G. Planchon]		
+orth	Concombre. Botanique		
 pb	381	0385	4513244
 pb	382	0386	4513245
-entry	Concombre. Emploi médical		
+entry	Concombre. Emploi médical [Ernest Labbée]		
+orth	Concombre. Emploi médical		
 pb	383	0387	4513246
 pb	384	0388	4513247
 pb	385	0389	4513248
@@ -555,13 +662,18 @@ pb	394	0398	4513257
 entry	Concombre d'Ane. Concombre sauvage		
 ref	Concombre		
 ref	Élaterium		
-entry	Concorregio (Giov. de)		
+entry	Concorregio (Giov. de) [E. Beaugrand]		
+orth	Concorregio (Giov. de)		
 pb	395	0399	4513258
-entry	Concon		
-entry	Concrétions		
-entry	Condaminea		
+entry	Concon [G. Planchon]		
+orth	Concon		
+entry	Concrétions [Amédée Dechambre]		
+orth	Concrétions		
+entry	Condaminea [H. Baillon]		
+orth	Condaminea		
 pb	396	0400	4513259
-entry	Condensateurs électriques		
+entry	Condensateurs électriques [C.-M. Gariel]		
+orth	Condensateurs électriques		
 pb	397	0401	4513260
 pb	398	0402	4513261
 pb	399	0403	4513262
@@ -569,28 +681,37 @@ pb	400	0404	4513263
 pb	401	0405	4513264
 pb	402	0406	4513265
 pb	403	0407	4513266
-entry	Condensateur (Pharmacie)		
+entry	Condensateur (Pharmacie) [Amédée Dechambre]		
+orth	Condensateur (Pharmacie)		
 pb	404	0408	4513267
-entry	Condillac (Eaux minérales de)		
+entry	Condillac (Eaux minérales de) [A. Rotureau]		
+orth	Condillac (Eaux minérales de)		
 pb	405	0409	4513268
 pb	406	0410	4513269
-entry	Condiments		
+entry	Condiments [P. Coulier]		
+orth	Condiments		
 pb	407	0411	4513270
 pb	408	0412	4513271
 pb	409	0413	4513272
 pb	410	0414	4513273
-entry	Condori		
-entry	Conducteurs (Chirurgie)		
+entry	Condori [H. Baillon]		
+orth	Condori		
+entry	Conducteurs (Chirurgie) [Amédée Dechambre]		
+orth	Conducteurs (Chirurgie)		
 pb	411	0415	4513274
-entry	Condurango (Botanique)		
+entry	Condurango (Botanique) [A. Bordier]		
+orth	Condurango (Botanique)		
 pb	412	0416	4513275
 pb	413	0417	4513276
 entry	Conduri		
 ref	Abrus		
-entry	Condurnum		
+entry	Condurnum [G. Planchon]		
+orth	Condurnum		
 pb	414	0418	4513277
-entry	Condyles		
-entry	Condylomes		
+entry	Condyles [D.]		
+orth	Condyles		
+entry	Condylomes [E. Pingaud]		
+orth	Condylomes		
 pb	415	0419	4513278
 pb	416	0420	4513279
 pb	417	0421	4513280
@@ -658,16 +779,20 @@ pb	478	0482	4513341
 pb	479	0483	4513342
 pb	480	0484	4513343
 pb	481	0485	4513344
-entry	Conessi Bark		
-entry	Confections		
+entry	Conessi Bark [Amédée Dechambre]		
+orth	Conessi Bark		
+entry	Confections [Amédée Dechambre]		
+orth	Confections		
 pb	482	0486	4513345
 entry	Confervacées		
 ref	Conferve		
 entry	Conferve		
-entry	Conferve. Botanique		
+entry	Conferve. Botanique [J. De Seynes]		
+orth	Conferve. Botanique		
 pb	483	0487	4513346
 pb	484	0488	4513347
-entry	Conferves (Hydrologie médicale)		
+entry	Conferves (Hydrologie médicale) [A. Rotureau]		
+orth	Conferves (Hydrologie médicale)		
 pb	485	0489	4513348
 pb	486	0490	4513349
 pb	487	0491	4513350
@@ -680,10 +805,12 @@ pb	493	0497	4513356
 pb	494	0498	4513357
 pb	495	0499	4513358
 pb	496	0500	4513359
-entry	Confiseurs (Hyg. industrielle)		
+entry	Confiseurs (Hyg. industrielle) [E. Beaugrand]		
+orth	Confiseurs (Hyg. industrielle)		
 pb	497	0501	4513360
 entry	Congélation		
-entry	Congélation. Physique		
+entry	Congélation. Physique [J. Gavarret]		
+orth	Congélation. Physique		
 pb	498	0502	4513361
 pb	499	0503	4513362
 pb	500	0504	4513363
@@ -698,7 +825,8 @@ pb	508	0512	4513371
 pb	509	0513	4513372
 pb	510	0514	4513373
 pb	511	0515	4513374
-entry	Congélation. Pathologie		
+entry	Congélation. Pathologie [Servier]		
+orth	Congélation. Pathologie		
 pb	512	0516	4513375
 pb	513	0517	4513376
 pb	514	0518	4513377
@@ -727,7 +855,8 @@ pb	536	0540	4513399
 pb	537	0541	4513400
 pb	538	0542	4513401
 pb	539	0543	4513402
-entry	Congestion		
+entry	Congestion [A. Kelsch]		
+orth	Congestion		
 pb	540	0544	4513403
 pb	541	0545	4513404
 pb	542	0546	4513405
@@ -755,31 +884,42 @@ pb	563	0567	4513426
 pb	564	0568	4513427
 entry	Congo		
 ref	Guinée		
-entry	Congre		
+entry	Congre [P. Gervais]		
+orth	Congre		
 pb	565	0569	4513428
-entry	Conhydrine		
+entry	Conhydrine [T. Gobley]		
+orth	Conhydrine		
 pb	566	0570	4513429
 entry	Conicine		
-entry	Conicine. Chimie		
+entry	Conicine. Chimie [T. Gobley]		
+orth	Conicine. Chimie		
 pb	567	0571	4513430
-entry	Pharmacologie		
+entry	Pharmacologie [T. Gobley]		
+orth	Pharmacologie		
 pb	568	0572	4513431
 entry	Conicine		
-entry	Pharmacologie		
-entry	Conicine. Emploi médical		
+entry	Pharmacologie [T. Gobley]		
+orth	Pharmacologie		
+entry	Conicine. Emploi médical [J. Delioux de Savignac]		
+orth	Conicine. Emploi médical		
 pb	569	0573	4513432
 entry	Toxicologie		
 ref	Cigüe		
-entry	Conidiacés et Coniodés		
+entry	Conidiacés et Coniodés [Jacques Bertillon]		
+orth	Conidiacés et Coniodés		
 pb	570	0574	4513433
 pb	571	0575	4513434
-entry	Conifères		
+entry	Conifères [H. Baillon]		
+orth	Conifères		
 pb	572	0576	4513435
 pb	573	0577	4513436
 pb	574	0578	4513437
-entry	Coniomycètes		
-entry	Conique (Acide)		
-entry	Conirostres		
+entry	Coniomycètes [Jacques Bertillon]		
+orth	Coniomycètes		
+entry	Conique (Acide) [Amédée Dechambre]		
+orth	Conique (Acide)		
+entry	Conirostres [P. Gervais]		
+orth	Conirostres		
 entry	Conium		
 ref	Ciguë		
 entry	Coniza major		
@@ -787,7 +927,8 @@ ref	Conyza
 entry	Conjonctif (Tissu)		
 ref	Lamineux (Tissu)		
 entry	Conjonctive		
-entry	Conjonctive. Anatomie		
+entry	Conjonctive. Anatomie [Nuel]		
+orth	Conjonctive. Anatomie		
 pb	575	0579	4513438
 pb	576	0580	4513439
 pb	577	0581	4513440
@@ -799,9 +940,11 @@ pb	582	0586	4513445
 pb	583	0587	4513446
 pb	584	0588	4513447
 pb	585	0589	4513448
-entry	Conjonctive. Physiologie		
+entry	Conjonctive. Physiologie [Nuel]		
+orth	Conjonctive. Physiologie		
 pb	586	0590	4513449
-entry	Conjonctive. Pathologie		
+entry	Conjonctive. Pathologie [E. Warlomont]		
+orth	Conjonctive. Pathologie		
 pb	587	0591	4513450
 pb	588	0592	4513451
 pb	589	0593	4513452
@@ -859,31 +1002,41 @@ pb	640	0644	4513503
 pb	641	0645	4513504
 pb	642	0646	4513505
 pb	643	0647	4513506
-entry	Conjugaison chimique		
+entry	Conjugaison chimique [Malaguti]		
+orth	Conjugaison chimique		
 pb	644	0648	4513507
 pb	645	0649	4513508
 pb	646	0650	4513509
-entry	Connare		
+entry	Connare [H. Baillon]		
+orth	Connare		
 pb	647	0651	4513510
 entry	Connectif (Tissu)		
 ref	Lamineux (Tissu)		
-entry	Connor (Bernard)		
+entry	Connor (Bernard) [A. Dureau]		
+orth	Connor (Bernard)		
 pb	648	0652	4513511
-entry	Conohoria ou Conoria		
-entry	Conolly (Jean)		
+entry	Conohoria ou Conoria [G. Planchon]		
+orth	Conohoria ou Conoria		
+entry	Conolly (Jean) [A. Dureau]		
+orth	Conolly (Jean)		
 pb	649	0653	4513512
 entry	Conoria		
 ref	Conohoria		
-entry	Conques (Eau minérale de)		
-entry	Conquest (John T.)		
+entry	Conques (Eau minérale de) [A. Rotureau]		
+orth	Conques (Eau minérale de)		
+entry	Conquest (John T.) [E. Beaugrand]		
+orth	Conquest (John T.)		
 pb	650	0654	4513513
 entry	Conquest (Le)		
 ref	Le Conquest		
-entry	Conradi (Georges-Christophe)		
-entry	Conring (Hermann)		
+entry	Conradi (Georges-Christophe) [A. Dureau]		
+orth	Conradi (Georges-Christophe)		
+entry	Conring (Hermann) [A. Chéreau]		
+orth	Conring (Hermann)		
 pb	651	0655	4513514
 pb	652	0656	4513515
-entry	Consanguinité		
+entry	Consanguinité [A. Lacassagne]		
+orth	Consanguinité		
 pb	653	0657	4513516
 pb	654	0658	4513517
 pb	655	0659	4513518
@@ -948,11 +1101,14 @@ pb	713	0717	4513576
 pb	714	0718	4513577
 pb	715	0719	4513578
 pb	716	0720	4513579
-entry	Consbruch (Wilh.-Geo.-Christ.)		
+entry	Consbruch (Wilh.-Geo.-Christ.) [E. Beaugrand]		
+orth	Consbruch (Wilh.-Geo.-Christ.)		
 entry	Conseils d'hygiène		
 ref	Hygiène		
-entry	Conservation (Technique anatomique)		
-entry	Conserves alimentaires		
+entry	Conservation (Technique anatomique) [Albert Hénocque]		
+orth	Conservation (Technique anatomique)		
+entry	Conserves alimentaires [P. Coulier]		
+orth	Conserves alimentaires		
 pb	717	0721	4513580
 pb	718	0722	4513581
 pb	719	0723	4513582
@@ -963,25 +1119,33 @@ pb	723	0727	4513586
 pb	724	0728	4513587
 pb	725	0729	4513588
 pb	726	0730	4513589
-entry	Conserves médicamenteuses		
+entry	Conserves médicamenteuses [T. Gobley]		
+orth	Conserves médicamenteuses		
 pb	727	0731	4513590
 pb	728	0732	4513591
 pb	729	0733	4513592
-entry	Consiligo		
+entry	Consiligo [H. Baillon]		
+orth	Consiligo		
 entry	Consolida		
 ref	Consoude		
-entry	Consomption		
+entry	Consomption [Amédée Dechambre]		
+orth	Consomption		
 entry	Consonne		
 ref	Parole		
 entry	Consoude		
-entry	Consoude. Botanique		
+entry	Consoude. Botanique [G. Planchon]		
+orth	Consoude. Botanique		
 pb	730	0734	4513593
-entry	Consoude. Emploi médical		
+entry	Consoude. Emploi médical [Amédée Dechambre]		
+orth	Consoude. Emploi médical		
 pb	731	0735	4513594
-entry	Constantin (Ant.)		
-entry	Constantin (L'Africain)		
+entry	Constantin (Ant.) [E. Beaugrand]		
+orth	Constantin (Ant.)		
+entry	Constantin (L'Africain) [E. Beaugrand]		
+orth	Constantin (L'Africain)		
 pb	732	0736	4513595
-entry	Constipation		
+entry	Constipation [Villemin]		
+orth	Constipation		
 pb	733	0737	4513596
 pb	734	0738	4513597
 pb	735	0739	4513598
@@ -1003,7 +1167,8 @@ pb	750	0754	4513613
 pb	751	0755	4513614
 entry	Constitution		
 ref	Complexion		
-entry	Constitutions médicales. Constitutions épidémiques		
+entry	Constitutions médicales. Constitutions épidémiques [B. Brochin]		
+orth	Constitutions médicales. Constitutions épidémiques		
 pb	752	0756	4513615
 pb	753	0757	4513616
 pb	754	0758	4513617
@@ -1059,8 +1224,10 @@ pb	803	0807	4513666
 pb	804	0808	4513667
 pb	805	0809	4513668
 pb	806	0810	4513669
-entry	Constricteurs (Muscles)		
-entry	Constructions (Ouvriers employés aux)		
+entry	Constricteurs (Muscles) [Amédée Dechambre]		
+orth	Constricteurs (Muscles)		
+entry	Constructions (Ouvriers employés aux) [Alexandre Layet]		
+orth	Constructions (Ouvriers employés aux)		
 entry	Consultation		
 ref	Déontologie		
 ref	Médecine légale		

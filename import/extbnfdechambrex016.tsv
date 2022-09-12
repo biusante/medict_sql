@@ -1,33 +1,45 @@
 pb	[s. pag.]	0001	4510380
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4510381
 pb	[s. pag.]	0003	4510382
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4510383
 pb	1	0005	4510384
-entry	Chiappa (Giuseppe Antonio del)		
-entry	Chiari (Joh.-Bapt.)		
+entry	Chiappa (Giuseppe Antonio del) [E. Beaugrand]		
+orth	Chiappa (Giuseppe Antonio del)		
+entry	Chiari (Joh.-Bapt.) [E. Beaugrand]		
+orth	Chiari (Joh.-Bapt.)		
 pb	2	0006	4510385
-entry	Chiarugi (Vincenzo)		
+entry	Chiarugi (Vincenzo) [E. Beaugrand]		
+orth	Chiarugi (Vincenzo)		
 entry	Chiasma		
 ref	Optiques (nerfs)		
-entry	Chiaverini (Luigi)		
+entry	Chiaverini (Luigi) [E. Beaugrand]		
+orth	Chiaverini (Luigi)		
 pb	3	0007	4510386
 entry	Chibou		
 ref	Cahibou		
-entry	Chica ou Chicha		
+entry	Chica ou Chicha [H. Baillon]		
+orth	Chica ou Chicha		
 entry	Chicasahs (Les)		
 ref	Amérique		
 entry	Chichimèques (Les)		
 ref	Mexique		
-entry	Chiclana (Eaux minérales de)		
+entry	Chiclana (Eaux minérales de) [A. Rotureau]		
+orth	Chiclana (Eaux minérales de)		
 pb	4	0008	4510387
 pb	5	0009	4510388
-entry	Chicongo		
-entry	Chicoracées		
+entry	Chicongo [G. Planchon]		
+orth	Chicongo		
+entry	Chicoracées [G. Planchon]		
+orth	Chicoracées		
 pb	6	0010	4510389
 entry	Chicorées		
-entry	Chicorées. Botanique		
+entry	Chicorées. Botanique [G. Planchon]		
+orth	Chicorées. Botanique		
 pb	7	0011	4510390
-entry	Chicorées. Emploi médical		
+entry	Chicorées. Emploi médical [E. Hamelin]		
+orth	Chicorées. Emploi médical		
 pb	8	0012	4510391
 pb	9	0013	4510392
 pb	10	0014	4510393
@@ -36,10 +48,12 @@ pb	12	0016	4510395
 pb	13	0017	4510396
 pb	14	0018	4510397
 pb	15	0019	4510398
-entry	Chicoyneau (Les)		
+entry	Chicoyneau (Les) [A. Chéreau]		
+orth	Chicoyneau (Les)		
 pb	16	0020	4510399
 pb	17	0021	4510400
-entry	Chien (Canis)		
+entry	Chien (Canis) [P. Gervais]		
+orth	Chien (Canis)		
 pb	18	0022	4510401
 pb	19	0023	4510402
 pb	20	0024	4510403
@@ -49,24 +63,30 @@ pb	23	0027	4510406
 entry	Chien-de-mer		
 ref	Roussette		
 entry	Chiendent		
-entry	Chiendent. Botanique		
+entry	Chiendent. Botanique [G. Planchon]		
+orth	Chiendent. Botanique		
 pb	24	0028	4510407
-entry	Chiendent. Emploi médical		
+entry	Chiendent. Emploi médical [J. Delioux de Savignac]		
+orth	Chiendent. Emploi médical		
 pb	25	0029	4510408
 pb	26	0030	4510409
-entry	Chifflet (Jean-Jacques)		
+entry	Chifflet (Jean-Jacques) [A. Chéreau]		
+orth	Chifflet (Jean-Jacques)		
 pb	27	0031	4510410
-entry	Chiffonniers (Hygiène industrielle)		
+entry	Chiffonniers (Hygiène industrielle) [E. Beaugrand]		
+orth	Chiffonniers (Hygiène industrielle)		
 pb	28	0032	4510411
 pb	29	0033	4510412
 pb	30	0034	4510413
-entry	Chiffons (Dépôts de)		
+entry	Chiffons (Dépôts de) [E. Beaugrand]		
+orth	Chiffons (Dépôts de)		
 pb	31	0035	4510414
 pb	32	0036	4510415
 pb	33	0037	4510416
 entry	Chikasahs (Les)		
 ref	Amérique		
-entry	Chili		
+entry	Chili [V. De Rochas]		
+orth	Chili		
 pb	34	0038	4510417
 pb	35	0039	4510418
 pb	36	0040	4510419
@@ -80,14 +100,17 @@ pb	43	0047	4510426
 pb	44	0048	4510427
 pb	45	0049	4510428
 pb	46	0050	4510429
-entry	Chilopodes		
-entry	Chimères		
+entry	Chilopodes [A. Laboulbène]		
+orth	Chilopodes		
+entry	Chimères [P. Gervais]		
+orth	Chimères		
 pb	47	0051	4510430
 pb	48	0052	4510431
 entry	Chimiatrie		
 ref	Chimie		
 ref	Médecine		
-entry	Chimie (Histoire de la)		
+entry	Chimie (Histoire de la) [Schützenberger]		
+orth	Chimie (Histoire de la)		
 pb	49	0053	4510432
 pb	50	0054	4510433
 pb	51	0055	4510434
@@ -143,23 +166,27 @@ pb	100	0104	4510483
 pb	101	0105	4510484
 pb	102	0106	4510485
 pb	103	0107	4510486
-entry	Chimiques (Fabriques de produits)		
+entry	Chimiques (Fabriques de produits) [E. Beaugrand]		
+orth	Chimiques (Fabriques de produits)		
 pb	104	0108	4510487
 pb	105	0109	4510488
 pb	106	0110	4510489
 pb	107	0111	4510490
 pb	108	0112	4510491
 pb	109	0113	4510492
-entry	Chimistes (Hygiène professionnelle)		
+entry	Chimistes (Hygiène professionnelle) [E. Beaugrand]		
+orth	Chimistes (Hygiène professionnelle)		
 pb	110	0114	4510493
 pb	111	0115	4510494
 pb	112	0116	4510495
 pb	113	0117	4510496
 pb	114	0118	4510497
-entry	Chimophila		
+entry	Chimophila [H. Baillon]		
+orth	Chimophila		
 pb	115	0119	4510498
 pb	116	0120	4510499
-entry	Chimpanzé (Troglodytes)		
+entry	Chimpanzé (Troglodytes) [P. Gervais]		
+orth	Chimpanzé (Troglodytes)		
 pb	117	0121	4510500
 pb	118	0122	4510501
 pb	119	0123	4510502
@@ -170,11 +197,14 @@ pb	123	0127	4510506
 pb	124	0128	4510507
 pb	125	0129	4510508
 pb	126	0130	4510509
-entry	China		
-entry	Chinche		
+entry	China [Amédée Dechambre]		
+orth	China		
+entry	Chinche [A. Laboulbène]		
+orth	Chinche		
 pb	127	0131	4510510
 entry	Chine		
-entry	Chine. Généralités géographiques		
+entry	Chine. Généralités géographiques [G. Morache]		
+orth	Chine. Généralités géographiques		
 pb	128	0132	4510511
 pb	129	0133	4510512
 pb	130	0134	4510513
@@ -272,17 +302,21 @@ pb	221	0225	4510604
 pb	222	0226	4510605
 pb	223	0227	4510606
 pb	224	0228	4510607
-entry	Chinguirito		
+entry	Chinguirito [Le Roy de Méricourt]		
+orth	Chinguirito		
 pb	225	0229	4510608
 entry	Chinlen		
 ref	Chynlen		
-entry	Chinois (Empire)		
+entry	Chinois (Empire) [G. Morache]		
+orth	Chinois (Empire)		
 entry	Chinooks (Les)		
 ref	Amérique		
 ref	Britanniques (possessions)		
-entry	Chiocco (André)		
+entry	Chiocco (André) [H. Montanier]		
+orth	Chiocco (André)		
 pb	226	0230	4510609
-entry	Chiococca (L.)		
+entry	Chiococca (L.) [H. Baillon]		
+orth	Chiococca (L.)		
 pb	227	0231	4510610
 pb	228	0232	4510611
 entry	Chiococcine		
@@ -292,7 +326,8 @@ ref	Caïnca
 entry	Chippewas		
 ref	Amérique		
 ref	Britanniques (possessions)		
-entry	Chique		
+entry	Chique [A. Laboulbène]		
+orth	Chique		
 pb	229	0233	4510612
 pb	230	0234	4510613
 pb	231	0235	4510614
@@ -314,9 +349,11 @@ pb	246	0250	4510629
 entry	Chiquitéens		
 ref	Amérique		
 pb	247	0251	4510630
-entry	Chirac (Pierre)		
+entry	Chirac (Pierre) [A. Chéreau]		
+orth	Chirac (Pierre)		
 pb	248	0252	4510631
-entry	Chirayta		
+entry	Chirayta [G. Planchon]		
+orth	Chirayta		
 entry	Chiretta		
 ref	Ophélia		
 entry	Chirognomanie		
@@ -326,14 +363,19 @@ entry	Chiromancie
 ref	Main		
 ref	Occultes (sciences)		
 pb	249	0253	4510632
-entry	Chiron (Le centaure)		
-entry	Chiron (Baume)		
-entry	Chironia		
+entry	Chiron (Le centaure) [B. Beaugrand]		
+orth	Chiron (Le centaure)		
+entry	Chiron (Baume) [Amédée Dechambre]		
+orth	Chiron (Baume)		
+entry	Chironia [G. Planchon]		
+orth	Chironia		
 entry	Chironien (Ulcère)		
 ref	Chiron		
-entry	Chironium		
+entry	Chironium [G. Planchon]		
+orth	Chironium		
 pb	250	0254	4510633
-entry	Chirurgie (Histoire de la)		
+entry	Chirurgie (Histoire de la) [L. Boyer]		
+orth	Chirurgie (Histoire de la)		
 pb	251	0255	4510634
 pb	252	0256	4510635
 pb	253	0257	4510636
@@ -528,34 +570,49 @@ pb	441	0445	4510824
 pb	442	0446	4510825
 pb	443	0447	4510826
 pb	444	0448	4510827
+entry	Chirurgie (Histoire de la) [L. Boyer] [E. Beaugrand]		
+orth	Chirurgie (Histoire de la)		
 pb	445	0449	4510828
 pb	446	0450	4510829
-entry	Chisecco		
-entry	Chisholm (Colin)		
+entry	Chisecco [G. Planchon]		
+orth	Chisecco		
+entry	Chisholm (Colin) [E. Beaugrand]		
+orth	Chisholm (Colin)		
 pb	447	0451	4510830
 entry	Chitimaches		
 ref	Amérique		
-entry	Chitine		
-entry	Chladni (Ern. Fr. Fl.)		
+entry	Chitine [T. Gobley]		
+orth	Chitine		
+entry	Chladni (Ern. Fr. Fl.) [E. Beaugrand]		
+orth	Chladni (Ern. Fr. Fl.)		
 pb	448	0452	4510831
-entry	Chloasma		
-entry	Chlora		
-entry	Chloracétamide (Chimie)		
+entry	Chloasma [Amédée Dechambre]		
+orth	Chloasma		
+entry	Chlora [H. Baillon]		
+orth	Chlora		
+entry	Chloracétamide (Chimie) [C. Lutz]		
+orth	Chloracétamide (Chimie)		
 pb	449	0453	4510832
-entry	Chloracétène		
-entry	Choracétique acide		
+entry	Chloracétène [Amédée Dechambre]		
+orth	Chloracétène		
+entry	Choracétique acide [C. Lutz]		
+orth	Choracétique acide		
 pb	450	0454	4510833
 pb	451	0455	4510834
-entry	Chloracétyle (Chimie)		
+entry	Chloracétyle (Chimie) [C. Lutz]		
+orth	Chloracétyle (Chimie)		
 entry	Chloral		
-entry	Chloral. Chimie		
+entry	Chloral. Chimie [J. Regnauld]		
+orth	Chloral. Chimie		
 pb	452	0456	4510835
 pb	453	0457	4510836
 pb	454	0458	4510837
 pb	455	0459	4510838
-entry	Chloral. Pharmacologie		
+entry	Chloral. Pharmacologie [J. Regnauld]		
+orth	Chloral. Pharmacologie		
 pb	456	0460	4510839
-entry	Chloral. Emploi médical		
+entry	Chloral. Emploi médical [Ernest Labbée]		
+orth	Chloral. Emploi médical		
 pb	457	0461	4510840
 pb	458	0462	4510841
 pb	459	0463	4510842
@@ -602,40 +659,59 @@ pb	499	0503	4510882
 pb	500	0504	4510883
 pb	501	0505	4510884
 pb	502	0506	4510885
-entry	Chloralbine		
+entry	Chloralbine [C. Lutz]		
+orth	Chloralbine		
 entry	Chloraldéhyde		
 ref	Chloral		
 ref	Aldéhydes		
 pb	503	0507	4510886
-entry	Chloralide (Chimie)		
-entry	Chloraloïne (Chimie)		
-entry	Chloralurique (Acide)		
+entry	Chloralide (Chimie) [C. Lutz]		
+orth	Chloralide (Chimie)		
+entry	Chloraloïne (Chimie) [C. Lutz]		
+orth	Chloraloïne (Chimie)		
+entry	Chloralurique (Acide) [Amédée Dechambre]		
+orth	Chloralurique (Acide)		
 entry	Chloramide		
 ref	Chlorure d'azote au mot azote		
 entry	Chloramidure de mercure		
 ref	Mercure		
-entry	Chloramyle (Chimie)		
-entry	Chloramylène		
-entry	Chloranilam ou acide chloranilamique		
+entry	Chloramyle (Chimie) [C. Lutz]		
+orth	Chloramyle (Chimie)		
+entry	Chloramylène [Amédée Dechambre]		
+orth	Chloramylène		
+entry	Chloranilam ou acide chloranilamique [C. Lutz]		
+orth	Chloranilam ou acide chloranilamique		
 pb	504	0508	4510887
-entry	Chloranilamide ou bichloroquinonamide		
-entry	Chloranilammon		
-entry	Chloranile ou quinone perchlorée		
-entry	Chloranilides (Chimie)		
+entry	Chloranilamide ou bichloroquinonamide [C. Lutz]		
+orth	Chloranilamide ou bichloroquinonamide		
+entry	Chloranilammon [C. Lutz]		
+orth	Chloranilammon		
+entry	Chloranile ou quinone perchlorée [C. Lutz]		
+orth	Chloranile ou quinone perchlorée		
+entry	Chloranilides (Chimie) [C. Lutz]		
+orth	Chloranilides (Chimie)		
 pb	505	0509	4510888
-entry	Chloraniline (Chimie)		
-entry	Chloranisique acide (Chimie)		
-entry	Chloranisol		
-entry	Chloranthracène		
-entry	Chloranthus (Sw.)		
+entry	Chloraniline (Chimie) [C. Lutz]		
+orth	Chloraniline (Chimie)		
+entry	Chloranisique acide (Chimie) [C. Lutz]		
+orth	Chloranisique acide (Chimie)		
+entry	Chloranisol [C. Lutz]		
+orth	Chloranisol		
+entry	Chloranthracène [C. Lutz]		
+orth	Chloranthracène		
+entry	Chloranthus (Sw.) [H. Baillon]		
+orth	Chloranthus (Sw.)		
 pb	506	0510	4510889
 entry	Chlorates		
-entry	Chlorates. Chimie		
+entry	Chlorates. Chimie [C. Lutz]		
+orth	Chlorates. Chimie		
 pb	507	0511	4510890
 pb	508	0512	4510891
-entry	Chlorates. Pharmacologie		
+entry	Chlorates. Pharmacologie [T. Gobley]		
+orth	Chlorates. Pharmacologie		
 pb	509	0513	4510892
-entry	Chlorates. Thérapeutique		
+entry	Chlorates. Thérapeutique [E. Isambert]		
+orth	Chlorates. Thérapeutique		
 pb	510	0514	4510893
 pb	511	0515	4510894
 pb	512	0516	4510895
@@ -741,20 +817,27 @@ pb	610	0614	4510993
 pb	611	0615	4510994
 entry	Chloraurates		
 ref	Chloraurique		
-entry	Chloraurique (Acide)		
-entry	Chlorazol		
+entry	Chloraurique (Acide) [Amédée Dechambre]		
+orth	Chloraurique (Acide)		
+entry	Chlorazol [C. Lutz]		
+orth	Chlorazol		
 pb	612	0616	4510995
-entry	Chlorazolithmine		
-entry	Chlorazoteux ou Hypochlorazotique (Acides)		
+entry	Chlorazolithmine [C. Lutz]		
+orth	Chlorazolithmine		
+entry	Chlorazoteux ou Hypochlorazotique (Acides) [C. Lutz]		
+orth	Chlorazoteux ou Hypochlorazotique (Acides)		
 entry	Chlore		
-entry	Chlore. Chimie		
+entry	Chlore. Chimie [C. Lutz]		
+orth	Chlore. Chimie		
 pb	613	0617	4510996
 pb	614	0618	4510997
 pb	615	0619	4510998
-entry	Chlore. Pharmacologie		
+entry	Chlore. Pharmacologie [T. Gobley]		
+orth	Chlore. Pharmacologie		
 pb	616	0620	4510999
 pb	617	0621	4511000
-entry	Chlore. Thérapeutique		
+entry	Chlore. Thérapeutique [J. Delioux de Savignac]		
+orth	Chlore. Thérapeutique		
 pb	618	0622	4511001
 pb	619	0623	4511002
 pb	620	0624	4511003
@@ -763,84 +846,123 @@ pb	622	0626	4511005
 pb	623	0627	4511006
 pb	624	0628	4511007
 pb	625	0629	4511008
-entry	Chlore. Toxicologie		
+entry	Chlore. Toxicologie [J. Delioux de Savignac]		
+orth	Chlore. Toxicologie		
 pb	626	0630	4511009
-entry	Emploi hygiénique		
-entry	Chloréther		
+entry	Emploi hygiénique [J. Delioux de Savignac]		
+orth	Emploi hygiénique		
+entry	Chloréther [C. Lutz]		
+orth	Chloréther		
 pb	627	0631	4511010
-entry	Chloreux. Acide		
+entry	Chloreux. Acide [C. Lutz]		
+orth	Chloreux. Acide		
 pb	628	0632	4511011
-entry	Chloreux Acide		
-entry	Chlorhellénine		
+entry	Chloreux Acide [C. Lutz]		
+orth	Chloreux Acide		
+entry	Chlorhellénine [C. Lutz]		
+orth	Chlorhellénine		
 entry	Chlorhydrates		
 ref	Chlorures		
-entry	Chlorhydrines		
+entry	Chlorhydrines [C. Lutz]		
+orth	Chlorhydrines		
 pb	629	0633	4511012
 entry	Chlorhydrique (Acide)		
-entry	Chlorhydrique (Acide). Chimie		
+entry	Chlorhydrique (Acide). Chimie [C. Lutz]		
+orth	Chlorhydrique (Acide). Chimie		
 pb	630	0634	4511013
 pb	631	0635	4511014
 pb	632	0636	4511015
-entry	Pharmacologie		
-entry	Chlorhydrique (Acide). Emploi médical		
+entry	Pharmacologie [J. Delioux de Savignac]		
+orth	Pharmacologie		
+entry	Chlorhydrique (Acide). Emploi médical [J. Delioux de Savignac]		
+orth	Chlorhydrique (Acide). Emploi médical		
 pb	633	0637	4511016
 pb	634	0638	4511017
 pb	635	0639	4511018
-entry	Chlorhydrique (Acide). Toxicologie		
+entry	Chlorhydrique (Acide). Toxicologie [J. Delioux de Savignac]		
+orth	Chlorhydrique (Acide). Toxicologie		
 pb	636	0640	4511019
 entry	Chlorhydrique (Éther)		
 ref	Éthers		
-entry	Chlorydroprotéique (Acide)		
-entry	Chlorides		
-entry	Chlorindine		
+entry	Chlorydroprotéique (Acide) [C. Lutz]		
+orth	Chlorydroprotéique (Acide)		
+entry	Chlorides [C. Lutz]		
+orth	Chlorides		
+entry	Chlorindine [C. Lutz]		
+orth	Chlorindine		
 entry	Chlorindoptique (Acide)		
 ref	Thrichlorophénique (Acide)		
-entry	Chlorique (Acide)		
+entry	Chlorique (Acide) [C. Lutz]		
+orth	Chlorique (Acide)		
 pb	637	0641	4511020
 pb	638	0642	4511021
-entry	Chlorisamide		
-entry	Chlorisatates		
-entry	Chlorisatide		
+entry	Chlorisamide [C. Lutz]		
+orth	Chlorisamide		
+entry	Chlorisatates [C. Lutz]		
+orth	Chlorisatates		
+entry	Chlorisatide [C. Lutz]		
+orth	Chlorisatide		
 pb	639	0643	4511022
-entry	Chlorisatimide		
-entry	Chlorisatine		
-entry	Chlorites		
-entry	Chlorobenzamide		
-entry	Chlorobenzine		
+entry	Chlorisatimide [C. Lutz]		
+orth	Chlorisatimide		
+entry	Chlorisatine [C. Lutz]		
+orth	Chlorisatine		
+entry	Chlorites [C. Lutz]		
+orth	Chlorites		
+entry	Chlorobenzamide [C. Lutz]		
+orth	Chlorobenzamide		
+entry	Chlorobenzine [C. Lutz]		
+orth	Chlorobenzine		
 pb	640	0644	4511023
 pb	641	0645	4511024
-entry	Chlorobenzoile		
+entry	Chlorobenzoile [C. Lutz]		
+orth	Chlorobenzoile		
 pb	642	0646	4511025
-entry	Chlorobenzoique (Acide)		
-entry	Chloroborique (Acide)		
-entry	Chlorobutyrone. Chlorobutyrène		
+entry	Chlorobenzoique (Acide) [C. Lutz]		
+orth	Chlorobenzoique (Acide)		
+entry	Chloroborique (Acide) [C. Lutz]		
+orth	Chloroborique (Acide)		
+entry	Chlorobutyrone. Chlorobutyrène [C. Lutz]		
+orth	Chlorobutyrone. Chlorobutyrène		
 pb	643	0647	4511026
-entry	Chlorocamphène		
-entry	Chlorocamphine		
-entry	Chlorocarbonique (Acide), Chloroxycarbonique (Acide)		
+entry	Chlorocamphène [C. Lutz]		
+orth	Chlorocamphène		
+entry	Chlorocamphine [C. Lutz]		
+orth	Chlorocamphine		
+entry	Chlorocarbonique (Acide), Chloroxycarbonique (Acide) [C. Lutz]		
+orth	Chlorocarbonique (Acide), Chloroxycarbonique (Acide)		
 pb	644	0648	4511027
-entry	Chlorocarvène		
-entry	Chlorocétyle		
+entry	Chlorocarvène [C. Lutz]		
+orth	Chlorocarvène		
+entry	Chlorocétyle [C. Lutz]		
+orth	Chlorocétyle		
 entry	Chlorocinnamène		
 ref	Chlorostyrol		
-entry	Chlorocinnose		
+entry	Chlorocinnose [C. Lutz]		
+orth	Chlorocinnose		
 pb	645	0649	4511028
-entry	Chlorocuminol		
-entry	Chlorocyanamide		
-entry	Chlorocyane		
-ref	Cyanogène (chlorure de)		
-entry	Chlorocyanilide		
+entry	Chlorocuminol [C. Lutz]		
+orth	Chlorocuminol		
+entry	Chlorocyanamide [C. Lutz]		
+orth	Chlorocyanamide		
+entry	Chlorocyane.. Lutz]		
+ref	Cyanogène (chlorure de) [C		
+entry	Chlorocyanilide [C. Lutz]		
+orth	Chlorocyanilide		
 pb	646	0650	4511029
-entry	Chlorocyanique (Acide)		
+entry	Chlorocyanique (Acide) [C. Lutz]		
+orth	Chlorocyanique (Acide)		
 entry	Chloroforme		
-entry	Chloroforme. Chimie		
+entry	Chloroforme. Chimie [J. Regnauld]		
+orth	Chloroforme. Chimie		
 pb	647	0651	4511030
 pb	648	0652	4511031
 pb	649	0653	4511032
 pb	650	0654	4511033
 pb	651	0655	4511034
 pb	652	0656	4511035
-entry	Chloroforme. Emploi médical		
+entry	Chloroforme. Emploi médical [Ernest Labbée]		
+orth	Chloroforme. Emploi médical		
 pb	653	0657	4511036
 pb	654	0658	4511037
 pb	655	0659	4511038
@@ -873,54 +995,81 @@ pb	681	0685	4511064
 pb	682	0686	4511065
 pb	683	0687	4511066
 pb	684	0688	4511067
-entry	Chloroforme. Pharmacologie		
+entry	Chloroforme. Pharmacologie [Ernest Labbée]		
+orth	Chloroforme. Pharmacologie		
 pb	685	0689	4511068
 pb	686	0690	4511069
 pb	687	0691	4511070
 pb	688	0692	4511071
-entry	Chlorogénine		
-entry	Chlorohélicine		
-entry	Chlorohématine		
-entry	Chlorohydroquinone		
+entry	Chlorogénine [C. Lutz]		
+orth	Chlorogénine		
+entry	Chlorohélicine [C. Lutz]		
+orth	Chlorohélicine		
+entry	Chlorohématine [C. Lutz]		
+orth	Chlorohématine		
+entry	Chlorohydroquinone [C. Lutz]		
+orth	Chlorohydroquinone		
 pb	689	0693	4511072
-entry	Chloroiodoforme		
-entry	Chloroiodures		
-entry	Chloromenthène		
+entry	Chloroiodoforme [C. Lutz]		
+orth	Chloroiodoforme		
+entry	Chloroiodures [C. Lutz]		
+orth	Chloroiodures		
+entry	Chloromenthène [C. Lutz]		
+orth	Chloromenthène		
 pb	690	0694	4511073
-entry	Chloromésityle		
-entry	Chloromésitylène		
-entry	Chlorométhylase		
+entry	Chloromésityle [C. Lutz]		
+orth	Chloromésityle		
+entry	Chloromésitylène [C. Lutz]		
+orth	Chloromésitylène		
+entry	Chlorométhylase [C. Lutz]		
+orth	Chlorométhylase		
 pb	691	0695	4511074
-entry	Chlorométhyle		
+entry	Chlorométhyle.. Lutz]		
 ref	Chloroforme		
-ref	Chlorure de Méthyle		
-entry	Chlorométrie		
+ref	Chlorure de Méthyle [C		
+entry	Chlorométrie [C. Lutz]		
+orth	Chlorométrie		
 pb	692	0696	4511075
-entry	Chloromichmylique (Acide)		
-entry	Chloronaphtalides		
-entry	Chloronaphtaline		
+entry	Chloromichmylique (Acide) [C. Lutz]		
+orth	Chloromichmylique (Acide)		
+entry	Chloronaphtalides [C. Lutz]		
+orth	Chloronaphtalides		
+entry	Chloronaphtaline [C. Lutz]		
+orth	Chloronaphtaline		
 pb	693	0697	4511076
 pb	694	0698	4511077
-entry	Chlorophénique, Chlorophénilique (Acide)		
+entry	Chlorophénique, Chlorophénilique (Acide) [C. Lutz]		
+orth	Chlorophénique, Chlorophénilique (Acide)		
 pb	695	0699	4511078
 entry	Chlorophylle		
-entry	Chlorophylle. Chimie		
+entry	Chlorophylle. Chimie [C. Lutz]		
+orth	Chlorophylle. Chimie		
 pb	696	0700	4511079
-entry	Applications médicales		
+entry	Applications médicales [Amédée Dechambre]		
+orth	Applications médicales		
 entry	Chloropicramyle		
 ref	Chlorostilbène		
-entry	Chloropicrine		
+entry	Chloropicrine [C. Lutz]		
+orth	Chloropicrine		
 pb	697	0701	4511080
-entry	Chloropicryle		
-entry	Chloroquinone		
-entry	Chlororcéine		
-entry	Chlorosalicine		
+entry	Chloropicryle [C. Lutz]		
+orth	Chloropicryle		
+entry	Chloroquinone [C. Lutz]		
+orth	Chloroquinone		
+entry	Chlororcéine [C. Lutz]		
+orth	Chlororcéine		
+entry	Chlorosalicine [C. Lutz]		
+orth	Chlorosalicine		
 pb	698	0702	4511081
-entry	Chlorosalicyle		
-entry	Chlorosalicylique (Acide) Chlorospiroilique (Acide)		
-entry	Chlorosamide		
+entry	Chlorosalicyle [C. Lutz]		
+orth	Chlorosalicyle		
+entry	Chlorosalicylique (Acide) Chlorospiroilique (Acide) [C. Lutz]		
+orth	Chlorosalicylique (Acide) Chlorospiroilique (Acide)		
+entry	Chlorosamide [C. Lutz]		
+orth	Chlorosamide		
 pb	699	0703	4511082
-entry	Chlorose		
+entry	Chlorose [J. Parrot]		
+orth	Chlorose		
 pb	700	0704	4511083
 pb	701	0705	4511084
 pb	702	0706	4511085
@@ -945,17 +1094,26 @@ entry	Chlorospermées
 ref	Algues		
 entry	Chlorospiroilique (Acide)		
 ref	Chlorosalicylique (Acide)		
-entry	Chlorostyrol. Chlorocinnamène		
-entry	Chlorosulfoquinone		
+entry	Chlorostyrol. Chlorocinnamène [C. Lutz]		
+orth	Chlorostyrol. Chlorocinnamène		
+entry	Chlorosulfoquinone [C. Lutz]		
+orth	Chlorosulfoquinone		
 pb	720	0724	4511103
-entry	Chlorostilbène. Chloropicramyle		
-entry	Chlorotérébène		
-entry	Chloroxalamide		
+entry	Chlorostilbène. Chloropicramyle [C. Lutz]		
+orth	Chlorostilbène. Chloropicramyle		
+entry	Chlorotérébène [C. Lutz]		
+orth	Chlorotérébène		
+entry	Chloroxalamide [C. Lutz]		
+orth	Chloroxalamide		
 pb	721	0725	4511104
-entry	Chloroxaléther		
-entry	Chloroxalique, Chloroxalvinique (Acide)		
-entry	Chloroxéthide		
-entry	Chloroxéthose		
+entry	Chloroxaléther [C. Lutz]		
+orth	Chloroxaléther		
+entry	Chloroxalique, Chloroxalvinique (Acide) [C. Lutz]		
+orth	Chloroxalique, Chloroxalvinique (Acide)		
+entry	Chloroxéthide [C. Lutz]		
+orth	Chloroxéthide		
+entry	Chloroxéthose [C. Lutz]		
+orth	Chloroxéthose		
 pb	722	0726	4511105
 entry	Chloroxycarbonique (Acide)		
 ref	Chlorocarbonique acide		
@@ -963,14 +1121,18 @@ entry	Chloroxéthyle
 ref	Chloroxaléther		
 entry	Chloroxydes		
 ref	Hypochlorites		
-entry	Chloroxylon		
-entry	Chlorures		
+entry	Chloroxylon [H. Baillon]		
+orth	Chloroxylon		
+entry	Chlorures [C. Lutz]		
+orth	Chlorures		
 pb	723	0727	4511106
 pb	724	0728	4511107
-entry	Chlorure de méthyle chloré		
+entry	Chlorure de méthyle chloré [Amédée Dechambre]		
+orth	Chlorure de méthyle chloré		
 entry	Chob-China		
 ref	China		
-entry	Chocolat		
+entry	Chocolat [Fonssagrives]		
+orth	Chocolat		
 pb	725	0729	4511108
 pb	726	0730	4511109
 pb	727	0731	4511110
@@ -985,9 +1147,11 @@ pb	735	0739	4511118
 pb	736	0740	4511119
 entry	Choctaws		
 ref	Amérique		
-entry	Choerophyllum		
+entry	Choerophyllum [H. Baillon]		
+orth	Choerophyllum		
 pb	737	0741	4511120
-entry	Cholagogues		
+entry	Cholagogues [Amédée Dechambre]		
+orth	Cholagogues		
 entry	Cholalique (Acide)		
 ref	Bile		
 entry	Cholate (de Soude)		
@@ -1001,7 +1165,8 @@ entry	Choléique (Acide)
 ref	Bile		
 entry	Cholépyrrhine		
 ref	Bile		
-entry	Choléra		
+entry	Choléra [L. Laveran]		
+orth	Choléra		
 pb	739	0743	4511122
 pb	740	0744	4511123
 pb	741	0745	4511124
@@ -1151,10 +1316,12 @@ pb	884	0888	4511267
 pb	885	0889	4511268
 pb	886	0890	4511269
 pb	887	0891	4511270
-entry	Choléra des doigts		
+entry	Choléra des doigts [D.]		
+orth	Choléra des doigts		
 pb	888	0892	4511271
 entry	Addendum		
-entry	Chlorates de potasse et de soude		
+entry	Chlorates de potasse et de soude [E. Isambert]		
+orth	Chlorates de potasse et de soude		
 pb	889	0893	4511272
 entry	Articles contenus dans le seizième volume (1re série.)		
 pb	890	0894	4511273

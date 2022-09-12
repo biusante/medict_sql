@@ -1,18 +1,25 @@
 pb	[s. pag.]	0001	4586177
+entry	[Page de faux-titre]		
 pb	[s. pag.]	0002	4586178
 pb	[s. pag.]	0003	4586179
+entry	[Page de titre]		
 pb	[s. pag.]	0004	4586180
 pb	1	0005	4586181
-entry	Sclérostomes		
+entry	Sclérostomes [C. Davaine]		
+orth	Sclérostomes		
 pb	2	0006	4586182
-entry	Sclérostomiens (Dujardin)		
+entry	Sclérostomiens (Dujardin) [C. Davaine]		
+orth	Sclérostomiens (Dujardin)		
 pb	3	0007	4586183
-entry	Scléroticonyxis		
-entry	Sléroticotomie		
+entry	Scléroticonyxis [Amédée Dechambre]		
+orth	Scléroticonyxis		
+entry	Sléroticotomie [Amédée Dechambre]		
+orth	Sléroticotomie		
 entry	Sclérotinique (Acide)		
 ref	Ergot de seigle		
 entry	Sclérotique		
-entry	Sclérotique. Anatomie		
+entry	Sclérotique. Anatomie [A. Gayet]		
+orth	Sclérotique. Anatomie		
 pb	4	0008	4586184
 pb	5	0009	4586185
 pb	6	0010	4586186
@@ -23,9 +30,11 @@ pb	10	0014	4586190
 pb	11	0015	4586191
 pb	12	0016	4586192
 pb	13	0017	4586193
-entry	Sclérotique. Physiologie		
+entry	Sclérotique. Physiologie [A. Gayet]		
+orth	Sclérotique. Physiologie		
 pb	14	0018	4586194
-entry	Sclérotique. Pathologie		
+entry	Sclérotique. Pathologie [A. Gayet]		
+orth	Sclérotique. Pathologie		
 pb	15	0019	4586195
 pb	16	0020	4586196
 pb	17	0021	4586197
@@ -42,31 +51,44 @@ pb	27	0031	4586207
 pb	28	0032	4586208
 pb	29	0033	4586209
 pb	30	0034	4586210
-entry	Sclerotium, sclérote		
-entry	Sclérotrichés		
-entry	Scoffo (Luigi)		
+entry	Sclerotium, sclérote [J. de Seynes]		
+orth	Sclerotium, sclérote		
+entry	Sclérotrichés [Amédée Dechambre]		
+orth	Sclérotrichés		
+entry	Scoffo (Luigi) [L. Hahn]		
+orth	Scoffo (Luigi)		
 entry	Scolaire (Hygiène)		
 ref	Écoles		
-entry	Scolex		
+entry	Scolex [C. Davaine]		
+orth	Scolex		
 pb	31	0035	4586211
 pb	32	0036	4586212
 entry	Scoliose		
 ref	Rachis (déviation)		
-entry	Scolopendre (Botanique)		
-entry	Scolopendre (Zoologie)		
-entry	Scolopendrelle		
-entry	Scolymus		
+entry	Scolopendre (Botanique) [Henri Fournier]		
+orth	Scolopendre (Botanique)		
+entry	Scolopendre (Zoologie) [Amédée Dechambre]		
+orth	Scolopendre (Zoologie)		
+entry	Scolopendrelle [Amédée Dechambre]		
+orth	Scolopendrelle		
+entry	Scolymus [G. Planchon]		
+orth	Scolymus		
 pb	33	0037	4586213
-entry	Scoparia		
+entry	Scoparia [G. Planchon]		
+orth	Scoparia		
 pb	34	0038	4586214
-entry	Scoparine		
-entry	Scopoli (Jean-Antoine)		
+entry	Scoparine [J. Regnauld]		
+orth	Scoparine		
+entry	Scopoli (Jean-Antoine) [L. Hahn]		
+orth	Scopoli (Jean-Antoine)		
 pb	35	0039	4586215
 entry	Scorbut		
-entry	Scorbut. Définition		
+entry	Scorbut. Définition [J. Mahé]		
+orth	Scorbut. Définition		
 pb	36	0040	4586216
 pb	37	0041	4586217
-entry	Scorbut. Historique		
+entry	Scorbut. Historique [J. Mahé]		
+orth	Scorbut. Historique		
 pb	38	0042	4586218
 pb	39	0043	4586219
 pb	40	0044	4586220
@@ -111,7 +133,8 @@ pb	78	0082	4586258
 pb	79	0083	4586259
 pb	80	0084	4586260
 pb	81	0085	4586261
-entry	Scorbut. Étiologie		
+entry	Scorbut. Étiologie [J. Mahé]		
+orth	Scorbut. Étiologie		
 pb	82	0086	4586262
 pb	83	0087	4586263
 pb	84	0088	4586264
@@ -159,7 +182,8 @@ pb	125	0129	4586305
 pb	126	0130	4586306
 pb	127	0131	4586307
 pb	128	0132	4586308
-entry	Scorbut. Séméiologie		
+entry	Scorbut. Séméiologie [J. Mahé]		
+orth	Scorbut. Séméiologie		
 pb	129	0133	4586309
 pb	130	0134	4586310
 pb	131	0135	4586311
@@ -240,25 +264,29 @@ pb	205	0209	4586385
 pb	206	0210	4586386
 pb	207	0211	4586387
 pb	208	0212	4586388
-entry	Scorbut. Pathogénie		
+entry	Scorbut. Pathogénie [J. Mahé]		
+orth	Scorbut. Pathogénie		
 pb	209	0213	4586389
 pb	210	0214	4586390
 pb	211	0215	4586391
 pb	212	0216	4586392
 pb	213	0217	4586393
-entry	Scorbut. Marche et terminaisons, reliquats du scorbut		
+entry	Scorbut. Marche et terminaisons, reliquats du scorbut [J. Mahé]		
+orth	Scorbut. Marche et terminaisons, reliquats du scorbut		
 pb	214	0218	4586394
 pb	215	0219	4586395
 pb	216	0220	4586396
 pb	217	0221	4586397
 pb	218	0222	4586398
 pb	219	0223	4586399
-entry	Scorbut. Diagnostic		
+entry	Scorbut. Diagnostic [J. Mahé]		
+orth	Scorbut. Diagnostic		
 pb	220	0224	4586400
 pb	221	0225	4586401
 pb	222	0226	4586402
 pb	223	0227	4586403
-entry	Scorbut. Traitement		
+entry	Scorbut. Traitement [J. Mahé]		
+orth	Scorbut. Traitement		
 pb	224	0228	4586404
 pb	225	0229	4586405
 pb	226	0230	4586406
@@ -293,24 +321,35 @@ pb	254	0258	4586434
 pb	255	0259	4586435
 pb	256	0260	4586436
 pb	257	0261	4586437
-entry	Scordéine		
-entry	Scordium		
+entry	Scordéine [J. Regnault]		
+orth	Scordéine		
+entry	Scordium [G. Planchon]		
+orth	Scordium		
 pb	258	0262	4586438
 entry	Scordolaser		
 ref	Asa foetida		
-entry	Scordotis, Scorodotis		
-entry	Scorodon		
-entry	Scorodonia		
-entry	Scorodoprason		
-entry	Scorodosma		
-entry	Scorpène		
+entry	Scordotis, Scorodotis [G. Planchon]		
+orth	Scordotis, Scorodotis		
+entry	Scorodon [G. Planchon]		
+orth	Scorodon		
+entry	Scorodonia [G. Planchon]		
+orth	Scorodonia		
+entry	Scorodoprason [G. Planchon]		
+orth	Scorodoprason		
+entry	Scorodosma [B. Hamelin]		
+orth	Scorodosma		
+entry	Scorpène [E. Oustalet]		
+orth	Scorpène		
 pb	259	0263	4586439
 pb	260	0264	4586440
 pb	261	0265	4586441
-entry	Scorpioïdes		
+entry	Scorpioïdes [G. Planchon]		
+orth	Scorpioïdes		
 pb	262	0266	4586442
-entry	Scorpione		
-entry	Scorpions, Scorpionides		
+entry	Scorpione [G. Planchon]		
+orth	Scorpione		
+entry	Scorpions, Scorpionides [A. Laboulbène]		
+orth	Scorpions, Scorpionides		
 pb	263	0267	4586443
 pb	264	0268	4586444
 pb	265	0269	4586445
@@ -327,35 +366,52 @@ pb	275	0279	4586455
 pb	276	0280	4586456
 pb	277	0281	4586457
 pb	278	0282	4586458
-entry	Scorzonère		
-entry	Scotome		
+entry	Scorzonère [G. Planchon]		
+orth	Scorzonère		
+entry	Scotome [Amédée Dechambre]		
+orth	Scotome		
 pb	279	0283	4586459
-entry	Scott (Les)		
+entry	Scott (Les) [A. Dureau]		
+orth	Scott (Les)		
 pb	280	0284	4586460
-entry	Scoutetten (Raoul-Henri-Joseph)		
+entry	Scoutetten (Raoul-Henri-Joseph) [A. Dureau]		
+orth	Scoutetten (Raoul-Henri-Joseph)		
 pb	281	0285	4586461
 pb	282	0286	4586462
 pb	283	0287	4586463
 pb	284	0288	4586464
-entry	Screta (Jean) ou Schotnovius de Zavorzig		
-entry	Scribonius (Guillaume-Adolphe)		
-entry	Scribonius ou Scribonianus Largus		
+entry	Screta (Jean) ou Schotnovius de Zavorzig [A. Dureau]		
+orth	Screta (Jean) ou Schotnovius de Zavorzig		
+entry	Scribonius (Guillaume-Adolphe) [L. Hahn]		
+orth	Scribonius (Guillaume-Adolphe)		
+entry	Scribonius ou Scribonianus Largus [L. Hahn]		
+orth	Scribonius ou Scribonianus Largus		
 pb	285	0289	4586465
-entry	Scrinci (Johann-Anton-Joseph)		
-entry	Scrive (Gaspard-Léonard)		
+entry	Scrinci (Johann-Anton-Joseph) [L. Hahn]		
+orth	Scrinci (Johann-Anton-Joseph)		
+entry	Scrive (Gaspard-Léonard) [L. Hahn]		
+orth	Scrive (Gaspard-Léonard)		
 pb	286	0290	4586466
-entry	Scrofa (Sébastien)		
-entry	Scrofano (Jean-Antoine)		
-entry	Scrofulacrine		
+entry	Scrofa (Sébastien) [L. Hahn]		
+orth	Scrofa (Sébastien)		
+entry	Scrofano (Jean-Antoine) [L. Hahn]		
+orth	Scrofano (Jean-Antoine)		
+entry	Scrofulacrine [Amédée Dechambre]		
+orth	Scrofulacrine		
 entry	Scrofulaire ou Scrophulaire		
-entry	Scrofulaire ou Scrophulaire. Botanique		
+entry	Scrofulaire ou Scrophulaire. Botanique [G. Planchon]		
+orth	Scrofulaire ou Scrophulaire. Botanique		
 pb	287	0291	4586467
-entry	Scrofulaire ou Scrophulaire. Emploi médical		
+entry	Scrofulaire ou Scrophulaire. Emploi médical [Fonssagrives]		
+orth	Scrofulaire ou Scrophulaire. Emploi médical		
 pb	288	0292	4586468
-entry	Scrofulariacées ou Scrofularinées		
+entry	Scrofulariacées ou Scrofularinées [G. Planchon]		
+orth	Scrofulariacées ou Scrofularinées		
 pb	289	0293	4586469
-entry	Scrofularine		
-entry	Scrofule		
+entry	Scrofularine [J. Regnauld]		
+orth	Scrofularine		
+entry	Scrofule [J. Grancher]		
+orth	Scrofule		
 pb	290	0294	4586470
 pb	291	0295	4586471
 pb	292	0296	4586472
@@ -419,21 +475,27 @@ pb	349	0353	4586529
 pb	350	0354	4586530
 pb	351	0355	4586531
 pb	352	0356	4586532
-entry	Scrofule 		
+entry	Scrofule [J. Grancher] 		
+orth	Scrofule 		
 pb	353	0357	4586533
 pb	354	0358	4586534
 pb	355	0359	4586535
-entry	Scrofule		
-entry	Scrofulides		
+entry	Scrofule [J. Grancher]		
+orth	Scrofule		
+entry	Scrofulides [E. Bazin]		
+orth	Scrofulides		
 pb	356	0360	4586536
 pb	357	0361	4586537
 entry	Scrotum		
-entry	Scrotum. Anatomie		
+entry	Scrotum. Anatomie [L. G. Richelot]		
+orth	Scrotum. Anatomie		
 pb	358	0362	4586538
 pb	359	0363	4586539
-entry	Scrotum. Développement		
+entry	Scrotum. Développement [L. G. Richelot]		
+orth	Scrotum. Développement		
 pb	360	0364	4586540
-entry	Scrotum. Pathologie		
+entry	Scrotum. Pathologie [L. G. Richelot]		
+orth	Scrotum. Pathologie		
 pb	361	0365	4586541
 pb	362	0366	4586542
 pb	363	0367	4586543
@@ -443,41 +505,62 @@ pb	366	0370	4586546
 pb	367	0371	4586547
 pb	368	0372	4586548
 pb	369	0373	4586549
-entry	Scudamore (Charles)		
+entry	Scudamore (Charles) [L. Hahn]		
+orth	Scudamore (Charles)		
 pb	370	0374	4586550
-entry	Scuderi (Les deux)		
+entry	Scuderi (Les deux) [L. Hahn]		
+orth	Scuderi (Les deux)		
 pb	371	0375	4586551
-entry	Scudery (Lucas)		
-entry	Sculpteurs		
-entry	Scultet (Les deux)		
+entry	Scudery (Lucas) [L. Hahn]		
+orth	Scudery (Lucas)		
+entry	Sculpteurs [Amédée Dechambre]		
+orth	Sculpteurs		
+entry	Scultet (Les deux) [L. Hahn]		
+orth	Scultet (Les deux)		
 pb	372	0376	4586552
 entry	Scurron		
 ref	Schyron		
-entry	Scutellaire		
-entry	Scutellarine		
+entry	Scutellaire [G. Planchon]		
+orth	Scutellaire		
+entry	Scutellarine [J. Regnault]		
+orth	Scutellarine		
 pb	373	0377	4586553
 entry	Scutigères		
 ref	Schizotarses		
-entry	Scutius (Corneille)		
-entry	Scutron		
-entry	Scutula		
+entry	Scutius (Corneille) [L. Hahn]		
+orth	Scutius (Corneille)		
+entry	Scutron [L. Hahn]		
+orth	Scutron		
+entry	Scutula [G. Planchon]		
+orth	Scutula		
 pb	374	0378	4586554
-entry	Scyllare		
-entry	Scytale		
+entry	Scyllare [Ed. Lefèvre]		
+orth	Scyllare		
+entry	Scytale [E. Oustalet]		
+orth	Scytale		
 pb	375	0379	4586555
-entry	Scytalia		
-entry	Scytalion		
-entry	Scythica		
-entry	Scythion		
+entry	Scytalia [G. Planchon]		
+orth	Scytalia		
+entry	Scytalion [G. Planchon]		
+orth	Scytalion		
+entry	Scythica [G. Planchon]		
+orth	Scythica		
+entry	Scythion [G. Planchon]		
+orth	Scythion		
 entry	Scytide		
 ref	Araignées		
-entry	Seaman (Valentine)		
-entry	Searle (Les deux)		
+entry	Seaman (Valentine) [Amédée Dechambre]		
+orth	Seaman (Valentine)		
+entry	Searle (Les deux) [L. Hahn]		
+orth	Searle (Les deux)		
 pb	376	0380	4586556
-entry	Seaton (Edward-Cator)		
+entry	Seaton (Edward-Cator) [L. Hahn]		
+orth	Seaton (Edward-Cator)		
 pb	377	0381	4586557
-entry	Sera (Albert)		
-entry	Sébacées (Glandes et matières)		
+entry	Sera (Albert) [L. Hahn]		
+orth	Sera (Albert)		
+entry	Sébacées (Glandes et matières) [Ch. Robin]		
+orth	Sébacées (Glandes et matières)		
 pb	378	0382	4586558
 pb	379	0383	4586559
 pb	380	0384	4586560
@@ -506,49 +589,68 @@ pb	402	0406	4586582
 pb	403	0407	4586583
 pb	404	0408	4586584
 pb	405	0409	4586585
-entry	Sébacine		
-entry	Sébacique ou Pyroléique (Acide)		
+entry	Sébacine [L. Hahn]		
+orth	Sébacine		
+entry	Sébacique ou Pyroléique (Acide) [L. Hahn]		
+orth	Sébacique ou Pyroléique (Acide)		
 pb	406	0410	4586586
 pb	407	0411	4586587
-entry	Sebald (Johann-Anton)		
-entry	Sébamides		
+entry	Sebald (Johann-Anton) [L. Hahn]		
+orth	Sebald (Johann-Anton)		
+entry	Sébamides [L. Hahn]		
+orth	Sébamides		
 pb	408	0412	4586588
-entry	Sebastian (Les deux)		
+entry	Sebastian (Les deux) [L. Hahn]		
+orth	Sebastian (Les deux)		
 pb	409	0413	4586589
-entry	Sébastien (Saint-) (Station marine)		
+entry	Sébastien (Saint-) (Station marine) [A. Rotureau]		
+orth	Sébastien (Saint-) (Station marine)		
 pb	410	0414	4586590
-entry	Sébestes		
-entry	Sébestier		
+entry	Sébestes [G. Planchon]		
+orth	Sébestes		
+entry	Sébestier [G. Planchon]		
+orth	Sébestier		
 pb	411	0415	4586591
-entry	Sébine		
-entry	Sebipiva		
-entry	Sebizius, Sebitz ou Sebisch (Les quatre)		
+entry	Sébine [L. Hahn]		
+orth	Sébine		
+entry	Sebipiva [G. Planchon]		
+orth	Sebipiva		
+entry	Sebizius, Sebitz ou Sebisch (Les quatre) [L. Hahn]		
+orth	Sebizius, Sebitz ou Sebisch (Les quatre)		
 pb	412	0416	4586592
 pb	413	0417	4586593
 entry	Sebum		
 ref	Sébacées (Matières)		
 entry	Secale		
 ref	Seigle		
-entry	Secalis mater		
-entry	Secamone		
+entry	Secalis mater [G. Planchon]		
+orth	Secalis mater		
+entry	Secamone [G. Planchon]		
+orth	Secamone		
 pb	414	0418	4586594
-entry	Sécateurs		
+entry	Sécateurs [E. Spillmann]		
+orth	Sécateurs		
 pb	415	0419	4586595
-entry	Secchi (le Père Angelo)		
+entry	Secchi (le Père Angelo) [L. Hahn]		
+orth	Secchi (le Père Angelo)		
 pb	416	0420	4586596
-entry	Séche ou Seiche		
+entry	Séche ou Seiche [Ed. Lefèvre]		
+orth	Séche ou Seiche		
 pb	417	0421	4586597
 entry	Sechelles		
 ref	Seychelles		
-entry	Sechium		
+entry	Sechium [G. Planchon]		
+orth	Sechium		
 entry	Séchoir		
-entry	Pharmacie		
+entry	Pharmacie [Amédée Dechambre]		
+orth	Pharmacie		
 entry	Hygiène		
 ref	Lavoir		
 pb	418	0422	4586598
 entry	Secos (Les)		
 ref	Centre-Amérique		
-entry	Secret médical		
+entry	Secret médical [G. Tourdes]		
+orth	Secret médical		
 pb	419	0423	4586599
 pb	420	0424	4586600
 pb	421	0425	4586601
@@ -591,124 +693,188 @@ pb	457	0461	4586637
 pb	458	0462	4586638
 pb	459	0463	4586639
 pb	460	0464	4586640
-entry	Secreta		
+entry	Secreta [Amédée Dechambre]		
+orth	Secreta		
 entry	Secrétage des peaux		
-entry	Secretain (A.)		
+entry	Secretain (A.) [L. Hahn]		
+orth	Secretain (A.)		
 pb	461	0465	4586641
-entry	Secrétaire		
-entry	Sécrétion et Excrétion		
+entry	Secrétaire [E. Oustalet]		
+orth	Secrétaire		
+entry	Sécrétion et Excrétion [G. Carlet]		
+orth	Sécrétion et Excrétion		
 pb	462	0466	4586642
 pb	463	0467	4586643
 pb	464	0468	4586644
-entry	Secua		
-entry	Secup		
+entry	Secua [G. Planchon]		
+orth	Secua		
+entry	Secup [G. Planchon]		
+orth	Secup		
 pb	465	0469	4586645
-entry	Securidaca		
-entry	Sédatifs		
-entry	Sedecias		
+entry	Securidaca [G. Planchon]		
+orth	Securidaca		
+entry	Sédatifs [Fonssagrives]		
+orth	Sédatifs		
+entry	Sedecias [L. Hahn]		
+orth	Sedecias		
 pb	466	0470	4586646
-entry	Sédillot (Les)		
+entry	Sédillot (Les) [A. Chéreau]		
+orth	Sédillot (Les)		
 pb	467	0471	4586647
 pb	468	0472	4586648
 pb	469	0473	4586649
-entry	Sédillot (Pilules de)		
-entry	Sédiment		
+entry	Sédillot (Pilules de) [Amédée Dechambre]		
+orth	Sédillot (Pilules de)		
+entry	Sédiment [Amédée Dechambre]		
+orth	Sédiment		
 entry	Sedlitz		
 ref	Seidlitz		
 entry	Sedum		
 ref	Orpin		
-entry	Seebeck (Les deux)		
+entry	Seebeck (Les deux) [L. Hahn]		
+orth	Seebeck (Les deux)		
 pb	470	0474	4586650
-entry	Seeds (Thomas)		
-entry	Seegen (Joseph)		
+entry	Seeds (Thomas) [L. Hahn]		
+orth	Seeds (Thomas)		
+entry	Seegen (Joseph) [L. Hahn]		
+orth	Seegen (Joseph)		
 pb	471	0475	4586651
-entry	Seeger (Carl-Albert)		
-entry	Seegert (Johann-Friedrich-Wilhelm)		
-entry	Seemann (Les)		
+entry	Seeger (Carl-Albert) [L. Hahn]		
+orth	Seeger (Carl-Albert)		
+entry	Seegert (Johann-Friedrich-Wilhelm) [L. Hahn]		
+orth	Seegert (Johann-Friedrich-Wilhelm)		
+entry	Seemann (Les) [A. Dureau]		
+orth	Seemann (Les)		
 pb	472	0476	4586652
-entry	Seemann (Berthold)		
-entry	Seerig (Albert-Wilhelm-Herrmann)		
+entry	Seemann (Berthold) [L. Hahn]		
+orth	Seemann (Berthold)		
+entry	Seerig (Albert-Wilhelm-Herrmann) [L. Hahn]		
+orth	Seerig (Albert-Wilhelm-Herrmann)		
 pb	473	0477	4586653
-entry	Seerup (Georg)		
-entry	Seetzen (Ulrich-Jasper)		
-entry	Sefström (Nils-Gabriel)		
+entry	Seerig (Albert-Wilhelm-Herrmann) [L. Hahn] [A. D.]		
+orth	Seerig (Albert-Wilhelm-Herrmann)		
+entry	Seerup (Georg) [L. Hahn]		
+orth	Seerup (Georg)		
+entry	Seetzen (Ulrich-Jasper) [L. Hahn]		
+orth	Seetzen (Ulrich-Jasper)		
+entry	Sefström (Nils-Gabriel) [L. Hahn]		
+orth	Sefström (Nils-Gabriel)		
 pb	474	0478	4586654
-entry	Ségalas (Pierre-Salomon)		
+entry	Ségalas (Pierre-Salomon) [A. Chéreau]		
+orth	Ségalas (Pierre-Salomon)		
 pb	475	0479	4586655
-entry	Segarra (Jaime)		
+entry	Segarra (Jaime) [L. Hahn]		
+orth	Segarra (Jaime)		
 pb	476	0480	4586656
-entry	Ségaud (Jean-Joseph)		
-entry	Seger (Georg)		
-entry	Segersted (Fredrick)		
+entry	Ségaud (Jean-Joseph) [A. Chéreau]		
+orth	Ségaud (Jean-Joseph)		
+entry	Seger (Georg) [L. Hahn]		
+orth	Seger (Georg)		
+entry	Segersted (Fredrick) [Amédée Dechambre]		
+orth	Segersted (Fredrick)		
 pb	477	0481	4586657
-entry	Ségestrie		
+entry	Ségestrie [A. Laboulbène]		
+orth	Ségestrie		
 pb	478	0482	4586658
 pb	479	0483	4586659
-entry	Segmentation		
-entry	Segner (Johann-Andreas von)		
+entry	Segmentation [Amédée Dechambre]		
+orth	Segmentation		
+entry	Segner (Johann-Andreas von) [L. Hahn]		
+orth	Segner (Johann-Andreas von)		
 pb	480	0484	4586660
-entry	Segnitz (Friedrich-Ludwig)		
-entry	Segond (Alexandre)		
+entry	Segnitz (Friedrich-Ludwig) [L. Hahn]		
+orth	Segnitz (Friedrich-Ludwig)		
+entry	Segond (Alexandre) [L. Hahn]		
+orth	Segond (Alexandre)		
 pb	481	0485	4586661
-entry	Segray (Eau minérale de)		
-entry	Segré (Eau minérale de)		
+entry	Segray (Eau minérale de) [A. Rotureau]		
+orth	Segray (Eau minérale de)		
+entry	Segré (Eau minérale de) [A. Rotureau]		
+orth	Segré (Eau minérale de)		
 pb	482	0486	4586662
-entry	Seguer (Mariano)		
-entry	Seguier (Jean-François)		
-entry	Seguin (Armand)		
+entry	Seguer (Mariano) [L. Hahn]		
+orth	Seguer (Mariano)		
+entry	Seguier (Jean-François) [L. Hahn]		
+orth	Seguier (Jean-François)		
+entry	Seguin (Armand) [L. Hahn]		
+orth	Seguin (Armand)		
 pb	483	0487	4586663
-entry	Segura (Francisco)		
-entry	Segura de Aragon (Eau minérale de)		
+entry	Segura (Francisco) [L. Hahn]		
+orth	Segura (Francisco)		
+entry	Segura de Aragon (Eau minérale de) [A. Rotureau]		
+orth	Segura de Aragon (Eau minérale de)		
 pb	484	0488	4586664
 entry	Seiche		
 ref	Sèche		
-entry	Seidel (Les)		
+entry	Seidel (Les) [L. Hahn]		
+orth	Seidel (Les)		
 pb	485	0489	4586665
-entry	Seidenschnur (C.-Otto)		
-entry	Seidl (Emanuel)		
-entry	Seidler (F.-L.-F.)		
+entry	Seidenschnur (C.-Otto) [L. Hahn]		
+orth	Seidenschnur (C.-Otto)		
+entry	Seidl (Emanuel) [L. Hahn]		
+orth	Seidl (Emanuel)		
+entry	Seidler (F.-L.-F.) [A. Dureau]		
+orth	Seidler (F.-L.-F.)		
 pb	486	0490	4586666
-entry	Seidlitz, Sedlitz (Eaux minérales de)		
+entry	Seidlitz, Sedlitz (Eaux minérales de) [A. Rotureau]		
+orth	Seidlitz, Sedlitz (Eaux minérales de)		
 pb	487	0491	4586667
-entry	Seidlitz Powders		
-entry	Seidlitz (Carl-Johann von)		
+entry	Seidlitz Powders [Amédée Dechambre]		
+orth	Seidlitz Powders		
+entry	Seidlitz (Carl-Johann von) [L. Hahn]		
+orth	Seidlitz (Carl-Johann von)		
 pb	488	0492	4586668
-entry	Seiferheld (Johann-Friedrich)		
-entry	Seifert (Les deux)		
+entry	Seiferheld (Johann-Friedrich) [L. Hahn]		
+orth	Seiferheld (Johann-Friedrich)		
+entry	Seifert (Les deux) [L. Hahn]		
+orth	Seifert (Les deux)		
 pb	489	0493	4586669
-entry	Seiffert ou Saiffert (D.-André)		
+entry	Seiffert ou Saiffert (D.-André) [L. Hahn]		
+orth	Seiffert ou Saiffert (D.-André)		
 entry	Seigle		
-entry	Seigle. Botanique		
+entry	Seigle. Botanique [G. Planchon]		
+orth	Seigle. Botanique		
 pb	490	0494	4586670
-entry	Emploi		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
 entry	Seigle (Ergot de)		
 ref	Ergot		
-entry	Seignette (Pierre)		
-entry	Seigneur-Gens (J.-F.-Augustin)		
-entry	Seiler (Burckhard-Wilhelm)		
+entry	Seignette (Pierre) [L. Hahn]		
+orth	Seignette (Pierre)		
+entry	Seigneur-Gens (J.-F.-Augustin) [L. Hahn]		
+orth	Seigneur-Gens (J.-F.-Augustin)		
+entry	Seiler (Burckhard-Wilhelm) [L. Hahn]		
+orth	Seiler (Burckhard-Wilhelm)		
 pb	491	0495	4586671
 pb	492	0496	4586672
-entry	Seine-l'Abbaye (Saint-) (Établissement hydrothérapique)		
-entry	Seip (Johann-Philipp)		
+entry	Seine-l'Abbaye (Saint-) (Établissement hydrothérapique) [A. Rotureau]		
+orth	Seine-l'Abbaye (Saint-) (Établissement hydrothérapique)		
+entry	Seip (Johann-Philipp) [L. Hahn]		
+orth	Seip (Johann-Philipp)		
 pb	493	0497	4586673
 entry	Sel (Divination par le)		
 ref	Divination		
 entry	Sel marin		
-entry	Sel marin. Chimie		
+entry	Sel marin. Chimie [C. Lutz]		
+orth	Sel marin. Chimie		
 pb	494	0498	4586674
-entry	Sel marin. Emploi médical		
+entry	Sel marin. Emploi médical [E. Demange]		
+orth	Sel marin. Emploi médical		
 pb	495	0499	4586675
 pb	496	0500	4586676
 pb	497	0501	4586677
 pb	498	0502	4586678
 pb	499	0503	4586679
 pb	500	0504	4586680
-entry	Sela		
-entry	Sélaciens		
+entry	Sela [G. Planchon]		
+orth	Sela		
+entry	Sélaciens [E. Oustalet]		
+orth	Sélaciens		
 pb	501	0505	4586681
 pb	502	0506	4586682
 pb	503	0507	4586683
-entry	Sélection		
+entry	Sélection [André Sanson]		
+orth	Sélection		
 pb	504	0508	4586684
 pb	505	0509	4586685
 pb	506	0510	4586686
@@ -739,39 +905,55 @@ pb	530	0534	4586710
 pb	531	0535	4586711
 pb	532	0536	4586712
 pb	533	0537	4586713
-entry	Sélénaldine		
-entry	Sélénhydrique (Acide)		
+entry	Sélénaldine [Malaguti]		
+orth	Sélénaldine		
+entry	Sélénhydrique (Acide) [Malaguti]		
+orth	Sélénhydrique (Acide)		
 pb	534	0538	4586714
-entry	Séléniates		
-entry	Sélénieux (Acide)		
+entry	Séléniates [Malaguti]		
+orth	Séléniates		
+entry	Sélénieux (Acide) [Malaguti]		
+orth	Sélénieux (Acide)		
 pb	535	0539	4586715
-entry	Séléniocyanique (Acide)		
+entry	Séléniocyanique (Acide) [Malaguti]		
+orth	Séléniocyanique (Acide)		
 pb	536	0540	4586716
-entry	Sélénique (Acide)		
-entry	Sélénium		
+entry	Sélénique (Acide) [Malaguti]		
+orth	Sélénique (Acide)		
+entry	Sélénium [Malaguti]		
+orth	Sélénium		
 pb	537	0541	4586717
 pb	538	0542	4586718
 pb	539	0543	4586719
-entry	Séléniures		
+entry	Séléniures [Malaguti]		
+orth	Séléniures		
 pb	540	0544	4586720
 entry	Sélénops		
 ref	Araignées		
-entry	Selig (Théodor-Valentin)		
-entry	Seligmann (F.-Romeo)		
+entry	Selig (Théodor-Valentin) [L. Hahn]		
+orth	Selig (Théodor-Valentin)		
+entry	Seligmann (F.-Romeo) [L. Hahn]		
+orth	Seligmann (F.-Romeo)		
 entry	Selin		
-entry	Botanique		
-entry	Selin. Emploi médical		
+entry	Botanique [G. Planchon]		
+orth	Botanique		
+entry	Selin. Emploi médical [Amédée Dechambre]		
+orth	Selin. Emploi médical		
 pb	541	0545	4586721
-entry	Séline		
+entry	Séline [Amédée Dechambre]		
+orth	Séline		
 entry	Selinum		
 ref	Selin		
 pb	542	0546	4586722
-entry	Selle (Christian-Gottlieb)		
+entry	Selle (Christian-Gottlieb) [L. Hahn]		
+orth	Selle (Christian-Gottlieb)		
 pb	543	0547	4586723
 entry	Selle turcique		
 ref	Sphénoïdes		
-entry	Seller (William)		
-entry	Sels (généralités)		
+entry	Seller (William) [L. Hahn]		
+orth	Seller (William)		
+entry	Sels (généralités) [C. Lutz]		
+orth	Sels (généralités)		
 pb	544	0548	4586724
 pb	545	0549	4586725
 pb	546	0550	4586726
@@ -785,17 +967,22 @@ pb	553	0557	4586733
 pb	554	0558	4586734
 pb	555	0559	4586735
 pb	556	0560	4586736
-entry	Sels divers		
+entry	Sels divers [Amédée Dechambre]		
+orth	Sels divers		
 pb	557	0561	4586737
-entry	Selters ou Seltz (Eau minérale de)		
+entry	Selters ou Seltz (Eau minérale de) [A. Rotureau]		
+orth	Selters ou Seltz (Eau minérale de)		
 pb	558	0562	4586738
 pb	559	0563	4586739
 entry	Seltz		
 ref	Selters		
-entry	Sem		
-entry	Semecarpus (L. F.)		
+entry	Sem [G. Planchon]		
+orth	Sem		
+entry	Semecarpus (L. F.) [H. Baillon]		
+orth	Semecarpus (L. F.)		
 pb	560	0564	4586740
-entry	Séméiotique		
+entry	Séméiotique [L. Hecht]		
+orth	Séméiotique		
 pb	561	0565	4586741
 pb	562	0566	4586742
 pb	563	0567	4586743
@@ -806,22 +993,28 @@ pb	567	0571	4586747
 pb	568	0572	4586748
 pb	569	0573	4586749
 pb	570	0574	4586750
-entry	Semences		
+entry	Semences [J. Regnauld]		
+orth	Semences		
 pb	571	0575	4586751
 pb	572	0576	4586752
 entry	Semencine		
 ref	Semen-contra		
 entry	Semen-contra		
-entry	Semen-contra. Matière médicale		
+entry	Semen-contra. Matière médicale [G. Planchon]		
+orth	Semen-contra. Matière médicale		
 pb	573	0577	4586753
-entry	Semen-contra. Emploi médical		
+entry	Semen-contra. Emploi médical [Amédée Dechambre]		
+orth	Semen-contra. Emploi médical		
 pb	574	0578	4586754
-entry	Sementini (Les deux)		
+entry	Sementini (Les deux) [L. Hahn]		
+orth	Sementini (Les deux)		
 pb	575	0579	4586755
-entry	Semiarillaria		
-entry	Semi-flosculeuses.		
+entry	Semiarillaria [G. Planchon]		
+orth	Semiarillaria		
+entry	Semi-flosculeuses. [G. Planchon]		
+orth	Semi-flosculeuses.		
 entry	Semi-lunaires (Cartilages)		
-ref	Genou		
+ref	Genou [Amédée Dechambre]		
 entry	Semi-lunaire (Ganglion)		
 ref	Symphatique (Grand)		
 entry	Semi-lunaire (Os)		
@@ -830,7 +1023,8 @@ entry	Séminales (Vésicules)
 ref	Spermatiques (Voies)		
 entry	Séminoles		
 ref	Amérique		
-entry	Sémites		
+entry	Sémites [G. Liétard]		
+orth	Sémites		
 pb	576	0580	4586756
 pb	577	0581	4586757
 pb	578	0582	4586758
@@ -855,67 +1049,92 @@ pb	596	0600	4586776
 pb	597	0601	4586777
 pb	598	0602	4586778
 pb	599	0603	4586779
-entry	Semler (Christian-August)		
+entry	Semler (Christian-August) [A. Dureau]		
+orth	Semler (Christian-August)		
 pb	600	0604	4586780
-entry	Semmelweiss (Ignatz-Philipp)		
-entry	Semmola (Giovanni)		
+entry	Semmelweiss (Ignatz-Philipp) [L. Hahn]		
+orth	Semmelweiss (Ignatz-Philipp)		
+entry	Semmola (Giovanni) [L. Hahn]		
+orth	Semmola (Giovanni)		
 pb	601	0605	4586781
 pb	602	0606	4586782
-entry	Semnopithèques		
+entry	Semnopithèques [E. Oustalet]		
+orth	Semnopithèques		
 pb	603	0607	4586783
-entry	Semoule		
+entry	Semoule [P. Coulier]		
+orth	Semoule		
 entry	Sempervivum		
 ref	Joubarbe		
-entry	Semur (Eau minérale de)		
+entry	Semur (Eau minérale de) [A. Rotureau]		
+orth	Semur (Eau minérale de)		
 pb	604	0608	4586784
-entry	Sénac (Jean-Baptiste)		
+entry	Sénac (Jean-Baptiste) [L. Hahn]		
+orth	Sénac (Jean-Baptiste)		
 pb	605	0609	4586785
-entry	Senckenberg (Johann-Christian)		
+entry	Senckenberg (Johann-Christian) [L. Hahn]		
+orth	Senckenberg (Johann-Christian)		
 pb	606	0610	4586786
-entry	Sendel (Christian)		
-entry	Sendivog (Michel)		
+entry	Sendel (Christian) [L. Hahn]		
+orth	Sendel (Christian)		
+entry	Sendivog (Michel) [L. Hahn]		
+orth	Sendivog (Michel)		
 pb	607	0611	4586787
 entry	Séné		
-entry	Séné. Botanique		
+entry	Séné. Botanique [G. Planchon]		
+orth	Séné. Botanique		
 pb	608	0612	4586788
-entry	Séné. Pharmacologie		
+entry	Séné. Pharmacologie [L. Hahn]		
+orth	Séné. Pharmacologie		
 pb	609	0613	4586789
 pb	610	0614	4586790
 pb	611	0615	4586791
-entry	Séné. Action physiologique		
+entry	Séné. Action physiologique [L. Hahn]		
+orth	Séné. Action physiologique		
 pb	612	0616	4586792
 pb	613	0617	4586793
 pb	614	0618	4586794
-entry	Séné. Emploi thérapeutique		
+entry	Séné. Emploi thérapeutique [L. Hahn]		
+orth	Séné. Emploi thérapeutique		
 pb	615	0619	4586795
 pb	616	0620	4586796
-entry	Séné (Jean-Antoine-Etienne)		
-entry	Seneaux (Les deux)		
+entry	Séné (Jean-Antoine-Etienne) [L. Hahn]		
+orth	Séné (Jean-Antoine-Etienne)		
+entry	Seneaux (Les deux) [L. Hahn]		
+orth	Seneaux (Les deux)		
 pb	617	0621	4586797
-entry	Senebier (Jean)		
+entry	Senebier (Jean) [L. Hahn]		
+orth	Senebier (Jean)		
 pb	618	0622	4586798
-entry	Senebiera		
+entry	Senebiera [G. Planchon]		
+orth	Senebiera		
 pb	619	0623	4586799
 entry	Senecas (Les)		
 ref	Amérique		
-entry	Senécionidées		
+entry	Senécionidées [G. Planchon]		
+orth	Senécionidées		
 entry	Seneçon		
-entry	Seneçon. Botanique		
+entry	Seneçon. Botanique [G. Planchon]		
+orth	Seneçon. Botanique		
 pb	620	0624	4586800
-entry	Emploi		
-entry	Sénégambie		
-entry	Sénégambie. Géographie et topographie		
+entry	Emploi [Amédée Dechambre]		
+orth	Emploi		
+entry	Sénégambie [A. Borius]		
+orth	Sénégambie		
+entry	Sénégambie. Géographie et topographie [A. Borius]		
+orth	Sénégambie. Géographie et topographie		
 pb	621	0625	4586801
 pb	622	0626	4586802
 pb	623	0627	4586803
 pb	624	0628	4586804
-entry	Sénégambie. Nature du sol		
+entry	Sénégambie. Nature du sol [A. Borius]		
+orth	Sénégambie. Nature du sol		
 pb	625	0629	4586805
 pb	626	0630	4586806
 pb	627	0631	4586807
 pb	628	0632	4586808
 pb	629	0633	4586809
-entry	Sénégambie. Climatologie		
+entry	Sénégambie. Climatologie [A. Borius]		
+orth	Sénégambie. Climatologie		
 pb	630	0634	4586810
 pb	631	0635	4586811
 pb	632	0636	4586812
@@ -930,20 +1149,25 @@ pb	640	0644	4586820
 pb	641	0645	4586821
 pb	642	0646	4586822
 pb	643	0647	4586823
-entry	Sénégambie. Flore		
+entry	Sénégambie. Flore [A. Borius]		
+orth	Sénégambie. Flore		
 pb	644	0648	4586824
 pb	645	0649	4586825
-entry	Faune		
-entry	Sénégambie Anthropologie		
+entry	Faune [A. Borius]		
+orth	Faune		
+entry	Sénégambie Anthropologie [A. Borius]		
+orth	Sénégambie Anthropologie		
 pb	646	0650	4586826
 pb	647	0651	4586827
-entry	Sénégambie. Anthropologie		
+entry	Sénégambie. Anthropologie [A. Borius]		
+orth	Sénégambie. Anthropologie		
 pb	648	0652	4586828
 pb	649	0653	4586829
 pb	650	0654	4586830
 pb	651	0655	4586831
 pb	652	0656	4586832
-entry	Sénégambie. Pathologie		
+entry	Sénégambie. Pathologie [A. Borius]		
+orth	Sénégambie. Pathologie		
 pb	653	0657	4586833
 pb	654	0658	4586834
 pb	655	0659	4586835
@@ -954,7 +1178,8 @@ pb	659	0663	4586839
 pb	660	0664	4586840
 pb	661	0665	4586841
 pb	662	0666	4586842
-entry	Sénégambie. État sanitaire de la Sénégambie selon les saisons et selon les races		
+entry	Sénégambie. État sanitaire de la Sénégambie selon les saisons et selon les races [A. Borius]		
+orth	Sénégambie. État sanitaire de la Sénégambie selon les saisons et selon les races		
 pb	663	0667	4586843
 pb	664	0668	4586844
 pb	665	0669	4586845
@@ -964,19 +1189,29 @@ pb	668	0672	4586848
 pb	669	0673	4586849
 pb	670	0674	4586850
 pb	671	0675	4586851
-entry	Sénégine		
-entry	Seneuil (Eau minérale de)		
-entry	Sénevé		
+entry	Sénégine [Amédée Dechambre]		
+orth	Sénégine		
+entry	Seneuil (Eau minérale de) [A. Rotureau]		
+orth	Seneuil (Eau minérale de)		
+entry	Sénevé [G. Planchon]		
+orth	Sénevé		
 pb	672	0676	4586852
-entry	Senff (Les)		
-entry	Senft (Adam-Andreas)		
-entry	Seng ou Sengius (Jeremias)		
+entry	Senff (Les) [A. Dureau]		
+orth	Senff (Les)		
+entry	Senft (Adam-Andreas) [A. Dureau]		
+orth	Senft (Adam-Andreas)		
+entry	Seng ou Sengius (Jeremias) [L. Hahn]		
+orth	Seng ou Sengius (Jeremias)		
 pb	673	0677	4586853
-entry	Senguerd (Les deux)		
-entry	Senn (Louis)		
-entry	Sennert (Daniel)		
+entry	Senguerd (Les deux) [A. Dureau]		
+orth	Senguerd (Les deux)		
+entry	Senn (Louis) [A. Dureau]		
+orth	Senn (Louis)		
+entry	Sennert (Daniel) [A. Dureau]		
+orth	Sennert (Daniel)		
 pb	674	0678	4586854
-entry	Sens (Appareils des)		
+entry	Sens (Appareils des) [G. Carlet]		
+orth	Sens (Appareils des)		
 pb	675	0679	4586855
 pb	676	0680	4586856
 pb	677	0681	4586857
@@ -998,34 +1233,52 @@ pb	692	0696	4586872
 pb	693	0697	4586873
 entry	Sens musculaire, Sens de température		
 ref	Sensibilité		
-entry	Sensation		
-entry	Sensibilité		
+entry	Sensation [Amédée Dechambre]		
+orth	Sensation		
+entry	Sensibilité [Amédée Dechambre]		
+orth	Sensibilité		
 pb	694	0698	4586874
 pb	695	0699	4586875
 pb	696	0700	4586876
-entry	Sensitive		
-entry	Sensorium		
-entry	Sentein (Eau minérale de)		
+entry	Sensitive [H. Baillon]		
+orth	Sensitive		
+entry	Sensorium [Amédée Dechambre]		
+orth	Sensorium		
+entry	Sentein (Eau minérale de) [A. Rotureau]		
+orth	Sentein (Eau minérale de)		
 pb	697	0701	4586877
-entry	Senter (Isaac)		
-entry	Sentiment		
+entry	Senter (Isaac) [A. Dureau]		
+orth	Senter (Isaac)		
+entry	Sentiment [Amédée Dechambre]		
+orth	Sentiment		
 pb	698	0702	4586878
-entry	Sentinelli (Bartolomeo)		
-entry	Sentrup (Anton)		
-entry	Sépédionacées		
+entry	Sentinelli (Bartolomeo) [L. Hahn]		
+orth	Sentinelli (Bartolomeo)		
+entry	Sentrup (Anton) [L. Hahn]		
+orth	Sentrup (Anton)		
+entry	Sépédionacées [Amédée Dechambre]		
+orth	Sépédionacées		
 pb	699	0703	4586879
-entry	Sépiadés		
-entry	Sépiole		
-entry	Sépioteuthe		
-entry	Sépirine ou Sipirine		
+entry	Sépiadés [Ed. Lefèvre]		
+orth	Sépiadés		
+entry	Sépiole [Ed. Lefèvre]		
+orth	Sépiole		
+entry	Sépioteuthe [Ed. Lefèvre]		
+orth	Sépioteuthe		
+entry	Sépirine ou Sipirine [Amédée Dechambre]		
+orth	Sépirine ou Sipirine		
 pb	700	0704	4586880
-entry	Seps		
-entry	Septane (Fièvre)		
+entry	Seps [E. Oustalet]		
+orth	Seps		
+entry	Septane (Fièvre) [Amédée Dechambre]		
+orth	Septane (Fièvre)		
 entry	Septicémie		
-entry	Septicémie. Définition		
+entry	Septicémie. Définition [J. Chauvel]		
+orth	Septicémie. Définition		
 pb	701	0705	4586881
 pb	702	0706	4586882
-entry	Septicémie. En général		
+entry	Septicémie. En général [J. Chauvel]		
+orth	Septicémie. En général		
 pb	703	0707	4586883
 pb	704	0708	4586884
 pb	705	0709	4586885
@@ -1045,7 +1298,8 @@ pb	718	0722	4586898
 pb	719	0723	4586899
 pb	720	0724	4586900
 pb	721	0725	4586901
-entry	Septicémie. Expérimentale		
+entry	Septicémie. Expérimentale [J. Chauvel]		
+orth	Septicémie. Expérimentale		
 pb	722	0726	4586902
 pb	723	0727	4586903
 pb	724	0728	4586904

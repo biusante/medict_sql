@@ -1,180 +1,109 @@
 <?php
-
 /**
- * Classe pour construire la base de données pour les dictionnaires
+ * Part of Medict https://github.com/biusante/medict-sql
+ * Copyright (c) 2021 Université de Paris, BIU Santé
+ * MIT License https://opensource.org/licenses/mit-license.php
  */
 
-// il faudrait une API ligne de commande plus sympa pour sélectionner les opérations
+declare(strict_types=1);
 
-Medict::init();
-$src_dir = dirname(dirname(__DIR__)) . '/medict-xml/xml/';
+namespace Biusante\Medict;
 
-Medict::$pdo->exec("TRUNCATE dico_titre");
-Medict::tsvInsert(dirname(__DIR__) . '/dico_titre.tsv', 'dico_titre');
-// produire des tsv avec la table ancpages
-Medict::prepare();
-Medict::anc_tsv();
-// à faire après, pour recouvri les cotes communes à anc
-foreach (array(
-    'medict37020d.xml',
-    'medict37020d~index.xml',
-    'medict00152.xml',
-    'medict27898.xml',
-    'medict07399.xml',
-) as $src_basename) {
-    $src_file = $src_dir . $src_basename;
-    Medict::tei_tsv($src_file);
-}
+use DOMDocument, PDO, XSLTProcessor;
+
+include_once(__DIR__.'/MedictUtil.php');
 
 
-class Medict
+/**
+ * Prépare des données à insérer dans la base de données Medict
+ * à partir des tables Medica. Il faut donc avoir une connexion
+ * en lecture seule aux tables Medica.
+ * 1. 
+ */
+
+class MedictPrepa extends MedictUtil
 {
-    /**Compteurs */
-    static $count = array(
-        'ref' => 0,
-    );
-    /** Mode write */
-    const ECHO = false;
-    const WRITE = true;
-    /** Paramètres inmportés */
-    static public $pars;
-    /** SQLite link */
-    static public $pdo;
-    /** Home directory of project, absolute */
-    static $home;
-    /** Prepared statements shared between methods */
-    static $q = array();
-    /** Table de correspondances betacode */
-    static $grc_lat;
     /** Propriétés du titre en cours de traitement */
     static $dico_titre = null;
     /** fichier tsv en cours d’écriture */
     static $ftsv;
     /** Dossier des fichiers tsv */
     static $tsv_dir;
-    /** Insérer un terme */
-    static $dico_terme = array(
-        ':forme' => null,
-        ':langue' => -1,
-        ':sortable' => null,
-        ':taille' => -1,
-        ':mots' => -1,
-        ':betacode' => null,
-    );
-    /** Insérer une relation */
-    static $dico_rel = array(
-        ':dico_terme' => -1,
-        ':reltype' => -1,
-        ':dico_titre' => -1,
-        ':dico_entree' => -1,
-        ':clique' => -1,
-        ':volume_annee' => -1,
-        ':page' => null,
-        ':refimg' => -1,
-    );
-    
-    /** Insérer une entrée */
-    static $dico_entree = array(
-        ':vedette' => null,
-        ':dico_titre' => -1,
-        ':dico_volume' => -1,
-        ':page' => null,
-        ':refimg' => null,
-        ':page2' => null,
-        ':pps' => 0,
-        ':volume_annee' => null,
-        ':livancpages' => -1,
-    );
-    /** Insérer les informations bibliographiques d’un volume */
-    static $dico_volume = array(
-        ':dico_titre' => -1,
-        ':titre_nom' => null,
-        ':titre_annee' => null,
-        ':volume_cote' => -1,
-        ':volume_soustitre' => -1,
-        ':volume_annee' => -1,
-        ':livanc' => -1,
-    );
-    /** Ordre des langues */
-    static $langs = array(
-        'fra' => 1,
-        'lat' => 2,
-        'grc' => 3,
-        'eng' => 4,
-        'deu' => 5,
-        'spa' => 6,
-        'ita' => 7,
-    );
-    /** Ordre des relations */
-    static $reltypes = array(
-        'orth' => 1,
-        'foreign' => 2,
-        'ref' => 3,
-        'term' => 4,
-        'inorth' => 5,
-        'interm' => 6,
-    );
     /** Des mots vides à filtrer pour la colonne d’index */
     static $stop;
-    /** Des  */
-    static $re_suff = "aine|aire|aise|aisse|aite|ale|ande|ane|ante|aque|arde|arse|asse|ate|atrice|ausse|ée|éée|elle|eine|enne|ente|ère|erte|ète|ette|eure|euse|ie|ienne|ière|igne|ile|ine|ise|ite|ive|oide|oise|oite|olle|onde|ongue|ouce|trice|ue|uë|une|uque|ure|use";
 
     public static function init()
     {
-        ini_set('memory_limit', -1); // needed for this script
-        self::$pars = include dirname(__FILE__) . '/pars.php';
-        self::$pdo =  new PDO(
-            "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['dbname'],
-            self::$pars['user'],
-            self::$pars['pass'],
-            array(
-                PDO::ATTR_PERSISTENT => false,
-                PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',
-                // if true : big queries need memory
-                // if false : multiple queries arre not allowed
-                // PDO::MYSQL_ATTR_USE_BUFFERED_QUERY => false,
-            ),
-        );
-        self::$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        self::$pdo->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
-        // self::$pdo->setAttribute(PDO::MYSQL_ATTR_USE_BUFFERED_QUERY, false);
+        self::connect();
+        ini_set('memory_limit', '-1'); // needed for this script
         mb_internal_encoding("UTF-8");
-        self::$grc_lat = include(__DIR__ . '/grc_lat.php');
-        self::$home = dirname(dirname(__FILE__)) . '/';
-
-        // check connection
-        echo // self::$pdo->getAttribute(PDO::ATTR_SERVER_INFO), ' '
-        self::$pdo->getAttribute(PDO::ATTR_DRIVER_NAME), ' ',
-        self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n";
         // Charger les mots vides
         self::$stop = array_flip(explode("\n", file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'stop.csv')));
+        /*
         self::$tsv_dir = dirname(__DIR__).'/import/';
         if (!file_exists(self::$tsv_dir)) mkdir(self::$tsv_dir, 0777, true);
+        */
     }
 
 
-
     /**
-     * Prépare les requêtes d’insertion
+     * 
      */
-    static function prepare()
+    public static function write_medica()
     {
 
-        foreach (array(
-            'dico_terme',
-            'dico_rel',
-            'dico_entree',
-            'dico_volume',
-        ) as $table) {
-            $sql = "INSERT INTO $table 
-    (" . str_replace(':', '', implode(', ', array_keys(self::$$table))) . ") 
-    VALUES (" . implode(', ', array_keys(self::$$table)) . ");";
-            // echo $sql, "\n";
-            self::$q[$table] = self::$pdo->prepare($sql);
-        }
+    }
 
-        $sql = "SELECT id FROM dico_terme WHERE langue = ? AND sortable = ?";
-        self::$q['terme_id'] = self::$pdo->prepare($sql);
+
+    public static function anc_write()
+    {
+        $separator = "\t";
+        $titre_file = self::home() . 'dico_titre.tsv';
+        $handle = fopen($titre_file, 'r');
+        // first line, colums names
+        $keys = fgetcsv($handle, null, $separator);
+        while (($values = fgetcsv($handle, null, $separator)) !== FALSE) {
+            $titre = array_combine($keys, $values);
+
+            $titre_cote = ltrim($titre['cote'], ' _');
+            $titre_vols = $titre['vols'];
+            // boucler sur les volumes dans livanc
+            $sql = "SELECT * FROM livanc WHERE ";
+            if ($titre_vols < 2) {
+                $sql .= " cote = ?";
+            } else {
+                $sql .= " cotemere = ? ORDER BY cote";
+            }
+            $volq = self::$pdo->prepare($sql);
+            $volq->execute(array($titre_cote));
+            while ($volume = $volq->fetch(PDO::FETCH_ASSOC)) {
+                self::volume_write($volume['cote']);
+                print($volume['cote']."\n");
+            }
+        }
+        
+    }
+
+    /**
+     * Écrire les données d’un ancien volume dans un fichier
+     */
+    private static function volume_write($volume_cote)
+    {
+        // sortir les données sources
+        $file = self::home().'medica/medica_'.$volume_cote.'.tsv';
+        // créer le dossier si nécessaire
+        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
+        $fsrc = fopen($file, 'w');
+        fwrite($fsrc, "page\trefimg\tnumauto\tchapitre\n");
+        $pageq = self::$pdo->prepare("SELECT * FROM livancpages WHERE cote = ? ORDER BY cote, refimg");
+        $pageq->execute(array($volume_cote));
+        while ($page =  $pageq->fetch(PDO::FETCH_ASSOC)) {
+            // écrire le fichier source
+            fwrite(
+                $fsrc, 
+                "{$page['page']}\t{$page['refimg']}\t{$page['numauto']}\t{$page['chapitre']}\n"
+            );
+        }
     }
 
     /**
@@ -270,23 +199,11 @@ class Medict
     private static function livancpages($cote, $sep)
     {
         $sep = trim($sep);
-        // sortir les données sources
-        $file = dirname(__DIR__).'/medica/medica_'.$cote.'.tsv';
-        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
-        $fsrc = fopen($file, 'w');
-        fwrite($fsrc, "page\trefimg\tchapitre\n");
 
         // Les données à produire
         $data = [];
+        while(false) { 
         // Lecture des pages d’un volume, dans l’ordre naturel
-        $pageq = self::$pdo->prepare("SELECT * FROM livancpages WHERE cote = ? ORDER BY cote, refimg");
-        $pageq->execute(array($cote));
-        while ($page =  $pageq->fetch(PDO::FETCH_ASSOC)) {
-            // écrire le fichier source
-            fwrite(
-                $fsrc, 
-                "{$page['page']}\t{$page['refimg']}\t{$page['chapitre']}\n"
-            );
             $refimg = str_pad($page['refimg'], 4, '0', STR_PAD_LEFT);
 
             // Événement page
@@ -311,7 +228,7 @@ class Medict
 
             // restaurer de la hiérachie dans les Bouley
             // tout est traité ici
-            if (startsWith(self::$dico_volume[':volume_cote'], '34823')) {
+            if (self::starts_with(self::$dico_volume[':volume_cote'], '34823')) {
                 // 438	0442	Vendéenne [A. Sanson] / Variété maraichine
                 // 439	0443	Vendéenne [A. Sanson]. Variété maraichine
                 $chapitre = preg_replace('@\] / @', ']. ', $chapitre);
@@ -355,7 +272,7 @@ class Medict
 
             // supprimer un gros préfixe
             // Classe première. Les campaniformes. Section III. Genre VII. Le gloux / Genre VIII. L'alleluia
-            if (startsWith(self::$dico_volume[':volume_cote'], 'pharma_019129')) {
+            if (self::starts_with(self::$dico_volume[':volume_cote'], 'pharma_019129')) {
                 $chapitre = preg_replace(
                     array('@^.*?Genre[^\.]*\. *@u', '@^.*?Supplémentaire\. *@ui', '@ */ *[^/]*?Genre[^\.]*\. *@u', '@[^\.]+classe\. *@ui'),
                     array('',                       '',                           ' / ',                           ''),
@@ -364,7 +281,7 @@ class Medict
             }
             // supprimer un gros préfixe
             // Petit traité de matière médicale, ou des substances médicamenteuses indiquées dans le cours de ce dictionnaire. Division des substances médicamenteuses par ordre alphabétique, et d'après leur manière d'agir sur le corps humain. Médicamens composés / 
-            else if (startsWith(self::$dico_volume[':volume_cote'], '57503')) {
+            else if (self::starts_with(self::$dico_volume[':volume_cote'], '57503')) {
                 $chapitre = preg_replace(
                     array('@^.*Médicamens composés\P{L}*@u', '@^.*?Règne végétal\. *@ui', '@^.*Médicamens simples\P{L}*@u', '@Vocabulaire des matières contenues.*?@u'),
                     array('',                                '',                                '',                               ''),
@@ -372,7 +289,7 @@ class Medict
                 );
             }
             // Absorbants [A. Gubler] (bibliographie) [Raige-Delorme] / Absorbants (vaisseaux). Voy. Lymphatiques / Absorption [Jules Béclard]
-            else if (startsWith(self::$dico_volume[':volume_cote'], 'extbnfdechambre')) {
+            else if (self::starts_with(self::$dico_volume[':volume_cote'], 'extbnfdechambre')) {
                 $chapitre = preg_replace(
                     array('@ *\(bibliographie\)\.?@ui', '/ *\[[^\]]+\]/u'),
                     array('', ''),
@@ -381,7 +298,7 @@ class Medict
                 // if ($echo) fwrite(STDERR, $chapitre."\n");
             }
             //  H. - Habrioux; Hardy François; Hauterive Jean-Baptiste; Hélitas Jean; Heur (d') François; Hospital Gaspard; Houpin René; Hugon Jean; Hugon Joseph; Hugonnaud Jean; Hugonneau Martial / I. - Itier Jacques
-            else if (startsWith(self::$dico_volume[':volume_cote'], '24374')) {
+            else if (self::starts_with(self::$dico_volume[':volume_cote'], '24374')) {
                 $chapitre = preg_replace(
                     array('@( */ *)?[A-Z]\.[ \-]+@u'),
                     array(';'),
@@ -426,6 +343,8 @@ class Medict
                     // V - 
                     '/^[A-Z]$/u',
                     '/^[A-Z][ ][^\p{L}]*/u',
+                    // Thorax ou Poitrine (fig. 2160)
+                    '/ *\(fig\.[^\)]\)/ui'
                 ),
                 array(
                     '', 
@@ -540,8 +459,8 @@ class Medict
                     array(
                         // [nom d’auteur]
                         '/ *\[[^\]]+\]/u',
-                        // Le , la , l’
-                        // '/^ *(le |la |les |l’|l\') */ui',
+                        // Poplité (anat.)
+                        // '/ *\((path|anat|)\.\) */ui',
                     ), 
                     array(
                         '',
@@ -550,7 +469,7 @@ class Medict
                     $line[1]
                 );
                 if (
-                    startsWith($cote, 'pharma_019129')
+                    self::starts_with($cote, 'pharma_019129')
                 ) {
                     // Le , la , l’
                     $s = preg_replace('/^ *(le |la |les |l’|l\') */ui', '', $s);
@@ -559,20 +478,20 @@ class Medict
 
                 // vedettes hiérarchiques, ne pas séparer
                 if (
-                    startsWith($cote, '24374')
-                    || startsWith($cote, 'pharma_013686')
+                    self::starts_with($cote, '24374')
+                    || self::starts_with($cote, 'pharma_013686')
                     // Liste des plantes observées au Mont d'Or, au Puy de Domme, & au Cantal, par M. le Monnier. 
-                    || startsWith($cote, 'pharma_019127') 
-                    || startsWith($cote, '146144')
+                    || self::starts_with($cote, 'pharma_019127') 
+                    || self::starts_with($cote, '146144')
                     //  Pilules hydragogues de M. Janin, oculiste de Lyon
-                    || startsWith($cote, 'extbnfrivet') 
+                    || self::starts_with($cote, 'extbnfrivet') 
                     // Stérogyl Stérogyl 10 et 15. Vidal (1940, p. 1788)
-                    || startsWith($cote, 'pharma_p11247')
-                    || startsWith($cote, '34823')
+                    || self::starts_with($cote, 'pharma_p11247')
+                    || self::starts_with($cote, '34823')
                     // Dechambre
-                    || startsWith($cote, 'extbnfdechambre')
+                    || self::starts_with($cote, 'extbnfdechambre')
                     // Pancoucke
-                    || startsWith($cote, '47661')
+                    || self::starts_with($cote, '47661')
                     // Fuller (médecin anglais, 1654-1734)
                     || preg_match('/\([^\)]*( +(ou|et|&) +|,)/u', $s) 
                 ) {
@@ -580,7 +499,7 @@ class Medict
                     if ($s != $line[1]) $out[] = ['orth', $s];
                 }
                 // "16 Agaricus campestris. Le champignon champêtre", "17 Agaricus déliciosus. Champignon délicieux",  "18 Agaricus cantharellus. La cantharelle"
-                else if (startsWith($cote, 'pharma_019128')) {
+                else if (self::starts_with($cote, 'pharma_019128')) {
                     $s = preg_replace('@^[ 0-9\.]+@ui', '', $s);
                     $orths = preg_split('@\. +@ui', $s);
                     if (count($orths) == 2) {
@@ -641,68 +560,10 @@ class Medict
         return $tsv_file;
     }
 
-    /**
-     *         // vider les tables à remplir
-        foreach (array(
-            'dico_terme',
-            'dico_rel',
-            'dico_entree',
-            'dico_volume',
-        ) as $table) {
-            self::$pdo->query("TRUNCATE TABLE $table");
-        }
-        self::prepare();
-
-     */
 
 
-    /**
-     * Charger une table avec des lignes tsv
-     */
-    static function tsvInsert($file, $table, $separator="\t")
-    {
-        // first line, colums names
-        $handle = fopen($file, 'r');
-        $cols = fgetcsv($handle, null, $separator);
-        $count = count($cols);
-        $sql = "INSERT INTO " . $table . " (" . implode(", ", $cols) . ") VALUES (?" . str_repeat(', ?', $count - 1) . ");";
-
-
-        $stmt = self::$pdo->prepare($sql);
-        self::$pdo->beginTransaction();
-        while (($data = fgetcsv($handle, null, $separator)) !== FALSE) {
-            $cell1 = trim($data[0]);
-            if (count($data) == 0) continue;
-            if (count($data) == 1 && !$cell1) continue;
-            if ($cell1 && $cell1[0] == '#') continue;
-            $values = array_slice($data, 0, $count);
-            array_walk_recursive($values, function(&$value) {
-                if ($value === "") return $value = NULL;
-                // hack pour ne pas perdre les 0 initiaux
-                if ($value[0] === "_") return $value = substr($value, 1);
-            });
-            $stmt->execute($values);
-        }
-        self::$pdo->commit();
-    }
 }
 
-/*
-    Pour mémoire, update complexe limité en MySQL 
-    MySQL Error 1093 - Can't specify target table for update in FROM clause
-    Mieux vaut passer par une table temporaire
+MedictPrepa::init();
 
-DROP TEMPORARY TABLE IF EXISTS counts;
-CREATE TEMPORARY TABLE counts SELECT dico_titre.id, dico_titre.nomdico, COUNT(*) AS vols
-  FROM dico_titre, livanc 
-  WHERE livanc.cotemere = dico_titre.cote GROUP BY livanc.cotemere;
-UPDATE dico_titre SET dico_titre.vols=(SELECT vols FROM counts WHERE dico_titre.id=counts.id);
-SELECT * FROM dico_titre;
-     */
-
-
-function startsWith($haystack, $needle)
-{
-    return substr($haystack, 0, strlen($needle)) === $needle;
-}
 

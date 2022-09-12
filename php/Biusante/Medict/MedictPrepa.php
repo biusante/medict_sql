@@ -48,12 +48,13 @@ class MedictPrepa extends MedictUtil
     {
         foreach (glob(self::home().'anc/anc_*.tsv') as $file) {
             $volume_cote = self::anc_cote($file);
+            echo "Medict > tsv ". $file . "\n";
             self::tsv_volume($volume_cote);
         }
     }
 
 
-    public static function anc_select()
+    public static function anc_dir()
     {
         $separator = "\t";
         $titre_file = self::home() . 'dico_titre.tsv';
@@ -90,7 +91,7 @@ class MedictPrepa extends MedictUtil
     }
     private static function anc_cote($anc_file)
     {
-        preg_match('anc_(.*)\.tsv$', $anc_file, $matches);
+        preg_match('/anc_(.*)\.tsv$/', $anc_file, $matches);
         if (!isset($matches[1]) || !$matches[1]) {
             throw new Exception("Cote non trouvée dans le fichier " . $anc_file);
         }
@@ -249,7 +250,11 @@ class MedictPrepa extends MedictUtil
                    mais laisse la dernière se renseigner avec la suivante */
                 if (count($veds) > 2) {
                     $veds[0] = trim($veds[0], " \t.");
-                    $pref = substr($veds[0], 0, strrpos($veds[0], '.'));
+                    $pref = '';
+                    $pos =  strrpos($veds[0], '.');
+                    if (FALSE !== $pos) {
+                        $pref = substr($veds[0], 0, $pos);
+                    }
                     /*
                     $matches = [];
                     // print_r($matches);
@@ -549,7 +554,7 @@ class MedictPrepa extends MedictUtil
     }
 
 
-    public static function tei_tsv($tei_file)
+    public static function tsv_tei($tei_file)
     {
         $tei_name = pathinfo($tei_file, PATHINFO_FILENAME);
         $tei_name = preg_replace('@^medict@', '', $tei_name);

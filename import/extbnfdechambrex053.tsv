@@ -136,8 +136,9 @@ pb	41	0045	4539561
 pb	42	0046	4539562
 pb	43	0047	4539563
 pb	44	0048	4539564
-entry	Lacrymales (Artère et veine).. et veine)	0	
+entry	Lacrymales (Artère et veine)	0	
 ref	Ophtalmiques (Art		
+ref	veine)		
 entry	Lacrymales (Voies)	0	
 entry	Lacrymales (Voies). Anatomie [J.-F. Jarjavay]	2	
 orth	Lacrymales (Voies). Anatomie		
@@ -1166,8 +1167,7 @@ pb	683	0687	4540203
 pb	684	0688	4540204
 entry	Larynx. Pathologie médicale. Maladies inflammatoires. Névroses du larynx. Spasme de la glotte	7	
 ref	Aphonie		
-ref	Toux nerveuses [Maurice Krishaber		
-ref	Michel Peter]		
+ref	Toux nerveuses		
 pb	685	0689	4540205
 pb	686	0690	4540206
 pb	687	0691	4540207

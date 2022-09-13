@@ -42,10 +42,10 @@ entry	Feurs (Eau minérale de) [A. Rotureau]	0
 orth	Feurs (Eau minérale de)		
 entry	Fève	0	
 entry	Fève. Botanique [G. Planchon] Fève des marais	1	
-orth	Fève. Botanique Fève des marais		
+orth	Fève. BotaniqueFève des marais		
 pb	14	0018	4527302
 entry	Emploi médical [Amédée Dechambre] 	0	
-orth	Emploi médical 		
+orth	Emploi médical		
 pb	15	0019	4527303
 entry	Fève des marais	0	
 entry	Emploi médical [Amédée Dechambre]	0	
@@ -694,8 +694,8 @@ orth	Flavindine
 pb	377	0381	4527665
 entry	Flèche	0	
 ref	Sagittelle		
-entry	Flèche d'eau et Fléchière.. Planchon]	0	
-ref	Sagittaire [G		
+entry	Flèche d'eau et Fléchière	0	
+ref	Sagittaire		
 entry	Flèches caustiques [L. Gustave Richelot]	10	
 orth	Flèches caustiques		
 pb	378	0382	4527666
@@ -833,8 +833,8 @@ pb	424	0428	4527712
 pb	425	0429	4527713
 entry	Flurant (Claude) [L. Hahn]	0	
 orth	Flurant (Claude)		
-entry	Fluteau.. Planchon]	0	
-ref	Alisma [G		
+entry	Fluteau	0	
+ref	Alisma		
 pb	426	0430	4527714
 entry	Flux	0	
 ref	Fluxion		

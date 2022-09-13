@@ -514,10 +514,10 @@ orth	Sulfobutylique (Acide)
 pb	385	0389	4590569
 entry	Sulfocamphorique (Acide) [C. Lutz]	0	
 orth	Sulfocamphorique (Acide)		
-entry	Sulfocarbolique (Acide).. Lutz]	0	
-ref	Sulfophénique (Acide) [C		
-entry	Sulfocarbonique (Acide).. Lutz]	0	
-ref	Carbone [C		
+entry	Sulfocarbolique (Acide)	0	
+ref	Sulfophénique (Acide)		
+entry	Sulfocarbonique (Acide)	0	
+ref	Carbone		
 entry	Sulfocarbovinique (Acide) ou Éthyldisulfocarbonique (Acide) ou Xanthique (Acide) [C. Lutz]	1	
 orth	Sulfocarbovinique (Acide) ou Éthyldisulfocarbonique (Acide) ou Xanthique (Acide)		
 pb	386	0390	4590570
@@ -1038,9 +1038,9 @@ ref	Araignée
 entry	Sydenham (Thomas) [A. Chéreau]	1	
 orth	Sydenham (Thomas)		
 pb	659	0663	4590843
-entry	Sydenham (Thérapeut.)..]	0	
+entry	Sydenham (Thérapeut.)	0	
 ref	Décoction blanche		
-ref	Laudanum [D		
+ref	Laudanum		
 entry	Sylibum	0	
 ref	Silybum		
 entry	Sylphium	0	

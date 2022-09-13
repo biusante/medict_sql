@@ -11,7 +11,7 @@ use Biusante\Medict\{MedictPrepa};
 MedictPrepa::tsv_dir();
 
 $src_dir = dirname(__DIR__) . '/medict-xml/xml/';
-// à faire après, pour recouvri les cotes communes à anc
+// à faire après, pour recouvrir les cotes communes à anc
 foreach (array(
     'medict37020d.xml',
     'medict37020d~index.xml',

@@ -22,6 +22,8 @@ class MedictInsert extends MedictUtil
     static $titre = null;
     /** Propriétés du volume en cours de traitement */
     static $volume = null;
+    /** Table de données en cours de tritement */
+    static $data = null;
     /** Dossier des fichiers tsv */
     static $tsv_dir;
     /** Insérer un terme */
@@ -51,11 +53,11 @@ class MedictInsert extends MedictUtil
         ':vedette' => null,
         ':dico_titre' => -1,
         ':dico_volume' => -1,
+        ':volume_annee' => null,
         ':page' => null,
         ':refimg' => null,
-        ':page2' => null,
         ':pps' => 0,
-        ':volume_annee' => null,
+        ':page2' => null,
         ':livancpages' => -1,
     );
     /** Insérer les informations bibliographiques d’un volume */
@@ -88,7 +90,6 @@ class MedictInsert extends MedictUtil
             'dico_terme',
             'dico_rel',
             'dico_entree',
-            'dico_volume',
         ) as $table) {
             self::$pdo->query("TRUNCATE TABLE $table");
         }
@@ -101,7 +102,7 @@ class MedictInsert extends MedictUtil
     static public function dico_titre()
     {
         self::$pdo->exec("TRUNCATE dico_titre");
-        self::tsv_insert(self::home() . 'dico_titre.tsv', 'dico_titre');
+        self::insert_volume(self::home() . 'dico_titre.tsv', 'dico_titre');
     }
 
     /**
@@ -109,6 +110,7 @@ class MedictInsert extends MedictUtil
      */
     static public function dico_volume()
     {
+        self::$pdo->exec("TRUNCATE dico_volume");
         // supposons pour l’instant que l’ordre naturel est bon 
         $sql =  "SELECT * FROM dico_titre "; // ORDER BY annee
         $qdico_titre = self::$pdo->prepare($sql);
@@ -168,7 +170,6 @@ class MedictInsert extends MedictUtil
      */
     static function prepare()
     {
-
         foreach (array(
             'dico_terme',
             'dico_rel',
@@ -181,32 +182,48 @@ class MedictInsert extends MedictUtil
             // echo $sql, "\n";
             self::$q[$table] = self::$pdo->prepare($sql);
         }
-
-        $sql = "SELECT id FROM dico_terme WHERE langue = ? AND sortable = ?";
-        self::$q['terme_id'] = self::$pdo->prepare($sql);
+        // requête avec langue ou sans langue
+        $sql = "SELECT id FROM dico_terme WHERE sortable = ? AND langue = ?";
+        self::$q['forme_langue_id'] = self::$pdo->prepare($sql);
+        $sql = "SELECT id FROM dico_terme WHERE sortable = ?";
+        self::$q['forme_id'] = self::$pdo->prepare($sql);
     }
 
     /**
      * Rend l’identifiant d’un terme dans la table dico_terme, 
      * crée la ligne si nécessaire
      */
-    public static function terme_id($langue, $forme)
+    public static function terme_id($forme, $langue)
     {
+        // Forme nulle ? 
+        if (!$forme) {
+            fwrite(STDERR, 'Erreur ? Terme vide p. ' . self::$dico_rel[':page']."\n");
+            return null;
+        }
         $sortable = self::sortable($forme);
-        self::$q['terme_id']->execute(array($langue, $sortable));
-        $row = self::$q['terme_id']->fetch(PDO::FETCH_NUM);
+        if (false) {
+            // echo $forme. "\t" . $sortable. "\t". implode(' ', str_split($sortable)) . "\t" . bin2hex($sortable) . "\n";
+        }
+        if ($langue) {
+            self::$q['forme_langue_id']->execute(array($sortable, $langue));
+            $row = self::$q['forme_langue_id']->fetch(PDO::FETCH_NUM);
+        } else {
+            self::$q['forme_id']->execute(array($sortable));
+            $row = self::$q['forme_id']->fetch(PDO::FETCH_NUM);
+        }
         if ($row) { // le terme existe, retourner son identifiant
             return $row[0];
         }
         // normaliser l’accentuation (surtout pour le grec)
         $forme = Normalizer::normalize($forme, Normalizer::FORM_KC);
         self::$dico_terme[':forme'] = $forme;
-        self::$dico_terme[':langue'] = self::$langs[$langue];
+        self::$dico_terme[':langue'] = self::$langs[$langue] ?? NULL;
         self::$dico_terme[':sortable'] = $sortable;
         self::$dico_terme[':taille'] = mb_strlen($sortable);
         // compter les mots non vides
         $wc = 0;
-        $words = preg_split('@[^\p{L}]+@ui', $forme);
+        // compter les mots $sortable, sinon strpos($sortable, " ") = -1
+        $words = preg_split('@[^\p{L}]+@ui', $sortable);
         foreach ($words as $w) {
             if (isset(self::$stop[$w])) continue;
             $wc++;
@@ -276,9 +293,33 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
     public static function insert_titre($titre_cote)
     {
-        // nettoyer le titre
+        $sql = "SELECT * FROM dico_titre WHERE cote = ?";
+        $q = self::$pdo->prepare($sql);
+        $q->execute(array($titre_cote));
+        self::$titre = $q->fetch();
+        if (!self::$titre) {
+            throw new Exception("Pas de titre trouvé pour la cote : ".$titre_cote);
+        }
+        // effacer ici des données ?
+        $dico_titre = self::$titre['id'];
+        $sql = "SELECT volume_cote FROM dico_volume WHERE dico_titre = ?";
+        $q = self::$pdo->prepare($sql);
+        $q->execute(array($dico_titre));
+        while ($row = $q->fetch()) {
+            $tsv_file = self::tsv_file($row['volume_cote']);
+            self::insert_volume($tsv_file);
+        }
     }
 
+    /**
+     * Insérer une vedette
+     */
+    private static function insert_orth($forme, $langue=null)
+    {
+        self::$dico_rel[':dico_terme'] = self::terme_id($forme, $langue);
+        self::$dico_rel[':reltype'] = self::$reltype['orth'];
+        self::$q['dico_rel']->execute(self::$dico_rel);
+    }
 
     /**
      * Insérer le fichier TSV d’un volume. 
@@ -313,8 +354,6 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Rien dans la table dico_titre la cote de volume : ".$volume_cote);
         }
 
-
-        print_r(self::$volume);
         self::$dico_entree[':dico_volume'] = self::$volume['id'];
         self::$dico_entree[':dico_titre'] = self::$volume['dico_titre'];
         self::$dico_entree[':volume_annee'] = self::$volume['volume_annee'];
@@ -323,15 +362,72 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
 
 
-        $orth_lang = self::$titre['orth_lang'];
+        $orth_langue = self::$titre['orth_langue'];
         // forcer la langue par défaut ?
         // if (!$orth_lang) $orth_lang = 'fra';
         // valeurs par défaut
         echo "[insert_volume] ".$volume_cote.'…';
+        // Charger la totalité du fichier dans un tableau 
+        // pour calculer la taille des entrées
+        self::$data = [];
+        $handle = fopen($tsv_file, 'r');
+        $orth = true; // au début, ne pas cracher d’orth
+        while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
+            // echo implode("\t", $row)."\n";
+            if ($row[0] == 'pb') {
+                self::$dico_entree[':page'] = $row[1];
+                self::$dico_entree[':refimg'] = $row[2];
+                self::$dico_entree[':livancpages'] = $row[3];
+                self::$dico_rel[':page'] = $row[1];
+                self::$dico_rel[':refimg'] = $row[2];
+                self::$dico_rel[':clique'] = 0; // TODO
+            }
+            else if ($row[0] == 'orth') {
+                $forme = trim($row[1], ' .,;');
+                if (!$forme) continue;
+                $orth = true;
+                // terme avec langue 
+                if ($row[2]) {
+                    self::insert_orth($forme, $row[2]);
+                }
+                // langue par défaut
+                else {
+                    self::insert_orth($forme, $orth_langue);
+                }
+            }
+            // il faut rentrer l’entrée avant tout
+            else if ($row[0] == 'entry') {
+                // si pas d’événement orth depuis la denière entrée, rentrer la vedette
+                if (!$orth && self::$dico_entree[':vedette']) {
+                    self::insert_orth(self::$dico_entree[':vedette'], $orth_langue);
+                }
+                // par précaution, si c’est des humains
+                $vedette = trim($row[1], ' .,;');
+                // titre forgé comme [Page de faux-titre]
+                if (preg_match('/^\[[^]]*\]$/', $vedette)) $vedette = NULL;
+                self::$dico_entree[':vedette'] = $vedette;
+                if (!$vedette) continue;
+                $orth = false;
+                self::$dico_entree[':pps'] = $row[2];
+                if ($row[2] > 0) {
+                    self::$dico_entree[':page2'] = self::$dico_entree[':page'] + $row[2];
+                }
+                else {
+                    self::$dico_entree[':page2'] = null;
+                }
+                self::$q['dico_entree']->execute(self::$dico_entree);
+                self::$dico_rel[':dico_entree'] = self::$pdo->lastInsertId();
+                // echo  "dico entre->".self::$dico_rel[':dico_entree']."\n";
+            }
+            else {
+                fwrite(STDERR, "???\t" . implode("\t", $row) . "\n");
+            }
+        }
 
-        
 
         return;
+
+
         self::$pdo->beginTransaction();
         self::$pdo->query("SET foreign_key_checks=0;");
         // self::prepare(); 

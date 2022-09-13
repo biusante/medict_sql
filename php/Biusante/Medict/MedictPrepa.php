@@ -94,12 +94,7 @@ class MedictPrepa extends MedictUtil
         return $matches[1];
     }
 
-    private static function tsv_file($volume_cote)
-    {
-        $file = self::home().'import/'.$volume_cote.'.tsv';
-        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
-        return $file;
-    }
+
 
     /**
      * Écrire les données d’un ancien volume dans un fichier
@@ -450,21 +445,24 @@ class MedictPrepa extends MedictUtil
             // récupérer la vedette et la découper si nécessaire
             if ($line[0] == 'entry') {
                 $refs = null;
+                // Arlemasaia. Voy. Armoise [H. Baillon]
                 // nettoyer la vedette des renvois
                 if (preg_match(
-                    '/ (V\. |Voy\.? |Voyez )([^\.\/;]+)/u', 
+                    '/ (V\. |Voy\.? |Voyez )(.*)/u', 
                     $line[1], 
                     $matches)
                 ) {
                     $line[1] = trim(
-                        preg_replace('/ (V\. |Voy\.? |Voyez )([^\.\/;]+)/ui', '', $line[1]),
+                        preg_replace('/ (V\. |Voy\.? |Voyez ).*/ui', '', $line[1]),
                         ' .'
                     );
                     // V. Anémie, anesthésie
                     // Érythroïde (Tunique). Voy. Crémaster et Testicule
+                    // suprimer auteurs
+                    $renvoi = preg_replace('/ *\[[^\]]+\] */u', '', $matches[2]);
                     $refs = preg_split(
                         '/,? +(ou|et|&) +|,[\-—– ]+/ui', 
-                        $matches[2]
+                        $renvoi
                     );
                 }
                 // entry OK, on oute, et on ne touche plus à la vedette
@@ -472,7 +470,7 @@ class MedictPrepa extends MedictUtil
                 $s = preg_replace(
                     array(
                         // [nom d’auteur]
-                        '/ *\[[^\]]+\]/u',
+                        '/ *\[[^\]]+\] */u',
                         // Poplité (anat.)
                         // '/ *\((path|anat|)\.\) */ui',
                     ), 

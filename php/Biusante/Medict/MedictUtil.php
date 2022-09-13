@@ -42,7 +42,7 @@ class MedictUtil
         'ita' => 7,
     );
     /** Ordre des relations */
-    static $reltypes = array(
+    static $reltype = array(
         'orth' => 1,
         'foreign' => 2,
         'ref' => 3,
@@ -61,6 +61,13 @@ class MedictUtil
     public static function home()
     {
         return self::$home;
+    }
+
+    protected static function tsv_file($volume_cote)
+    {
+        $file = self::home().'import/'.$volume_cote.'.tsv';
+        if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
+        return $file;
     }
 
     public static function connect()

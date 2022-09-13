@@ -44,7 +44,7 @@ pb	28	0032	4582238
 entry	Réflexion	0	
 ref	Acoustique		
 ref	Catoptrique		
-ref	Radiations [Amédée Dechambre]		
+ref	Radiations		
 entry	Réfraction	0	
 ref	Chaleur		
 ref	Dioptrique		
@@ -262,7 +262,7 @@ pb	166	0170	4582376
 pb	167	0171	4582377
 entry	Reins	0	
 entry	Pathologie [E. Lancereaux] 	0	
-orth	Pathologie 		
+orth	Pathologie		
 pb	168	0172	4582378
 entry	Reins. Pathologie [E. Lancereaux]	4	
 orth	Reins. Pathologie		
@@ -272,7 +272,7 @@ pb	171	0175	4582381
 pb	172	0176	4582382
 pb	173	0177	4582383
 entry	Reins. Pathologie [E. Lancereaux] 	6	
-orth	Reins. Pathologie 		
+orth	Reins. Pathologie		
 pb	174	0178	4582384
 pb	175	0179	4582385
 pb	176	0180	4582386
@@ -299,7 +299,7 @@ pb	194	0198	4582404
 pb	195	0199	4582405
 pb	196	0200	4582406
 entry	Reins. Pathologie [E. Lancereaux] 	24	
-orth	Reins. Pathologie 		
+orth	Reins. Pathologie		
 pb	197	0201	4582407
 pb	198	0202	4582408
 pb	199	0203	4582409
@@ -352,7 +352,7 @@ pb	243	0247	4582453
 pb	244	0248	4582454
 pb	245	0249	4582455
 entry	Reins. Pathologie [E. Lancereaux] 	10	
-orth	Reins. Pathologie 		
+orth	Reins. Pathologie		
 pb	246	0250	4582456
 pb	247	0251	4582457
 pb	248	0252	4582458
@@ -457,9 +457,9 @@ orth	Reina (Francisco de la)
 pb	343	0347	4582553
 entry	Reine (Source des bains de la)	0	
 ref	Mers-el-Kébir		
-entry	Reine des prés.. Planchon]	0	
+entry	Reine des prés	0	
 ref	Ulmaire		
-ref	Spirée [G		
+ref	Spirée		
 entry	Reineggs (Jacques) [A. Chéreau]	0	
 orth	Reineggs (Jacques)		
 entry	Reinerz (Eaux minérales, boues et cures de petit lait de) [A. Rotureau]	2	
@@ -469,8 +469,8 @@ pb	345	0349	4582555
 entry	Reinesius (Thomas) [E. Beaugrand]	1	
 orth	Reinesius (Thomas)		
 pb	346	0350	4582556
-entry	Reinette.. Planchon]	0	
-ref	Pomme [G		
+entry	Reinette	0	
+ref	Pomme		
 entry	Reinhard [A. Dureau]	0	
 orth	Reinhard		
 entry	Reischoffen (Eau minérale de) [A. Rotureau]	0	
@@ -518,7 +518,7 @@ entry	Releveurs (ou Élévateurs) de l'aile du nez et de la lèvre supérieure [
 orth	Releveurs (ou Élévateurs) de l'aile du nez et de la lèvre supérieure		
 pb	370	0374	4582580
 entry	Religieuses (Folies)	0	
-ref	Epidémiques (Folies) [Amédée Dechambre]		
+ref	Epidémiques (Folies)		
 entry	Remak (Robert) [E. Beaugrand]	1	
 orth	Remak (Robert)		
 pb	371	0375	4582581

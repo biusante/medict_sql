@@ -8,6 +8,9 @@
 declare(strict_types=1);
 
 namespace Biusante\Medict;
+
+use Exception, Normalizer, PDO;
+
 include_once(__DIR__.'/MedictUtil.php');
 
 /**
@@ -16,9 +19,9 @@ include_once(__DIR__.'/MedictUtil.php');
 class MedictInsert extends MedictUtil
 {
     /** Propriétés du titre en cours de traitement */
-    static $dico_titre = null;
-    /** fichier tsv en cours d’écriture */
-    static $ftsv;
+    static $titre = null;
+    /** Propriétés du volume en cours de traitement */
+    static $volume = null;
     /** Dossier des fichiers tsv */
     static $tsv_dir;
     /** Insérer un terme */
@@ -26,6 +29,7 @@ class MedictInsert extends MedictUtil
         ':forme' => null,
         ':langue' => -1,
         ':sortable' => null,
+        ':locutable' => null,
         ':taille' => -1,
         ':mots' => -1,
         ':betacode' => null,
@@ -67,13 +71,12 @@ class MedictInsert extends MedictUtil
 
     public static function init()
     {
-        self::connect(); 
-        ini_set('memory_limit', -1); // nécessaire à ce script
+        self::connect();
+        self::prepare();
+        ini_set('memory_limit', '-1'); // nécessaire à ce script
         mb_internal_encoding("UTF-8");
         // Pour quoi ?
         // self::$grc_lat = include(__DIR__ . '/grc_lat.php');
-        // Charger les mots vides
-        // self::$stop = array_flip(explode("\n", file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'stop.csv')));
     }
 
     /**
@@ -81,72 +84,58 @@ class MedictInsert extends MedictUtil
      */
     public static function truncate()
     {
+        foreach (array(
+            'dico_terme',
+            'dico_rel',
+            'dico_entree',
+            'dico_volume',
+        ) as $table) {
+            self::$pdo->query("TRUNCATE TABLE $table");
+        }
 
     }
 
     /**
-     * Recharge dico_titres et dico_volumes
+     * Recharger la table dico_titre
+     */
+    static public function dico_titre()
+    {
+        self::$pdo->exec("TRUNCATE dico_titre");
+        self::tsv_insert(self::home() . 'dico_titre.tsv', 'dico_titre');
+    }
+
+    /**
+     * Recharge dico_volumes
      */
     static public function dico_volume()
     {
-
-    }
-
-    /**
-     * Alimenter la base de données des dictionnaires avec les données déjà indexées,
-     * commencer par parcourir la table des titres.
-     * Si $cote non null, permet de filtrer (pour déboguage)
-     */
-    public static function anc_tsv()
-    {
-
-        // boucler sur la table des titres pour attraper les lignes concernées
-        // dans la table Medica des volumes
-        // $pars = array();
-
         // supposons pour l’instant que l’ordre naturel est bon 
         $sql =  "SELECT * FROM dico_titre "; // ORDER BY annee
-        $pars = [];
-        // filtrer pour une seule cote ? NON TESTÉ ? manque DELETE
-        /*
-        if ($cote) { 
-            $sql .= " WHERE cote LIKE ?";
-            $pars[] = $cote;
-        }
-        */
         $qdico_titre = self::$pdo->prepare($sql);
-        $qdico_titre->execute($pars);
+        $qdico_titre->execute(array());
+        while ($dico_titre = $qdico_titre->fetch()) {
 
-        while (self::$dico_titre = $qdico_titre->fetch()) {
-            echo "[SQL load] ". self::$dico_titre['cote']. ', ' . self::$dico_titre['nom'] . "\n";
-
-            self::$dico_volume[':dico_titre'] = self::$dico_titre['id'];
-            self::$dico_volume[':titre_nom'] = self::$dico_titre['nom'];
-            self::$dico_volume[':titre_annee'] = self::$dico_titre['annee'];
-            self::$dico_entree[':dico_titre'] = self::$dico_titre['id'];
-            self::$dico_rel[':dico_titre'] = self::$dico_titre['id'];
-
-            if (!self::$dico_titre['orth_langue']) self::$dico_titre['orth_langue'] = 'fra';
-
-            // boucler sur les volumes dans livanc
+            self::$dico_volume[':dico_titre'] = $dico_titre['id'];
+            self::$dico_volume[':titre_nom'] = $dico_titre['nom'];
+            self::$dico_volume[':titre_annee'] = $dico_titre['annee'];
+            // boucler sur les volumes
             $sql = "SELECT * FROM livanc WHERE ";
-            if (self::$dico_titre['vols'] < 2) {
+            if ($dico_titre['vols'] < 2) {
                 $sql .= " cote = ?";
             } else {
                 $sql .= " cotemere = ? ORDER BY cote";
             }
             $volq = self::$pdo->prepare($sql);
-            $volq->execute(array(self::$dico_titre['cote']));
-
-
+            $volq->execute(array($dico_titre['cote']));
+            
             while ($volume = $volq->fetch(PDO::FETCH_ASSOC)) {
 
                 // de quoi renseigner un enregistrement de volume
                 self::$dico_volume[':volume_cote'] = $volume['cote'];
                 $soustitre = null;
-                if (self::$dico_titre['vol_re']) {
+                if ($dico_titre['vol_re']) {
                     $titre = trim(preg_replace('@[\s]+@u', ' ', $volume['titre']));
-                    preg_match('@'.self::$dico_titre['vol_re'].'@', $titre, $matches);
+                    preg_match('@'.$dico_titre['vol_re'].'@', $titre, $matches);
                     if (isset($matches[1]) && $matches[1]) {
                         $soustitre = trim($matches[1], ". \n\r\t\v\x00");
                     }
@@ -164,17 +153,14 @@ class MedictInsert extends MedictUtil
                     print_r(self::$dico_volume);
                     exit();
                 }
+                /*
                 $id = self::$pdo->lastInsertId();
                 self::$dico_entree[':dico_volume'] = $id;
-
-                // boucler sur les pages du volume
-                self::livancpages(
-                    self::$dico_volume[':volume_cote'], 
-                    self::$dico_titre['sep']
-                );
+                */
             }
         }
     }
+
 
 
     /**
@@ -199,11 +185,6 @@ class MedictInsert extends MedictUtil
         $sql = "SELECT id FROM dico_terme WHERE langue = ? AND sortable = ?";
         self::$q['terme_id'] = self::$pdo->prepare($sql);
     }
-
-
-    /**
-     * Charge les tables dico_
-     */
 
     /**
      * Rend l’identifiant d’un terme dans la table dico_terme, 
@@ -230,14 +211,20 @@ class MedictInsert extends MedictUtil
             if (isset(self::$stop[$w])) continue;
             $wc++;
         }
-        self::$dico_terme[':mots'] = $wc; 
+        self::$dico_terme[':mots'] = $wc;
+        if ($wc > 1) {
+            self::$dico_terme[':locutable'] = substr($sortable, strpos($sortable, " ") + 1);
+        }
+        else {
+            self::$dico_terme[':locutable'] = null;
+        }
         if ('grc' == $langue) { // betacode
             self::$dico_terme[':betacode'] = strtr($sortable, self::$grc_lat);
         }
         else {
             self::$dico_terme[':betacode'] = null;
         }
-        self::$q['dico_sugg']->execute(self::$dico_sugg);
+        self::$q['dico_terme']->execute(self::$dico_terme);
         $id = self::$pdo->lastInsertId();
         return $id;
     }
@@ -287,76 +274,64 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
     }
 
 
-    /**
-     *         // vider les tables à remplir
-        foreach (array(
-            'dico_terme',
-            'dico_rel',
-            'dico_entree',
-            'dico_volume',
-        ) as $table) {
-            self::$pdo->query("TRUNCATE TABLE $table");
-        }
-        self::prepare();
+    public static function insert_titre($titre_cote)
+    {
+        // nettoyer le titre
+    }
 
+
+    /**
+     * Insérer le fichier TSV d’un volume. 
+     * Attention, il faut avoir nettoyé les tables avant,
+     * ou l’on produit des doublons.
      */
 
-    public static function load_tsv($tsv_file)
+    public static function insert_volume($tsv_file)
     {
+        if (!file_exists($tsv_file)) {
+            throw new Exception("Fichier introuvable : ".$tsv_file);
+        }
+        // le nom de fichier doit être une cote de volume
         $tsv_name = pathinfo($tsv_file, PATHINFO_FILENAME);
-
-
-        // quelques données à insérer
-        $volume_cote = preg_replace('@^medict@', '', $tsv_name);
-        self::$dico_entree[':volume_cote'] = $volume_cote;
-
-        // rependre des données de la table de biblio
-        $cote_livre = preg_replace('@x\d\d$@', '', $volume_cote);
-        $q = self::$pdo->prepare("SELECT * FROM dico_titre WHERE cote = ?");
-        $q->execute(array($cote_livre));
-        // list($dico_titre, $annee_titre, $orth_lang) = $q->fetch(PDO::FETCH_NUM);
-        $dico_titre = $q->fetch(PDO::FETCH_ASSOC);
-        // Si le titre n’est pas connu dans la biblio, crier
-        if (!$dico_titre) {
-            throw new Exception("cote “{$cote_livre}” inconnue de la table dico_titre" );
-        }
-        $q = self::$pdo->prepare("DELETE FROM dico_index WHERE dico_titre = ?");
-        $q->execute(array($dico_titre['id']));
-        $q = self::$pdo->prepare("DELETE FROM dico_entree WHERE dico_titre = ?");
-        $q->execute(array($dico_titre['id']));
-        $q = self::$pdo->prepare("DELETE FROM dico_sugg WHERE dico_titre = ?");
-        $q->execute(array($dico_titre['id']));
-        $q = self::$pdo->prepare("DELETE FROM dico_trad WHERE dico_titre = ?");
-        $q->execute(array($dico_titre['id']));
-
-        self::$dico_entree[':dico_titre'] = $dico_titre['id'];
-        self::$dico_sugg[':dico_titre'] = $dico_titre['id'];
-        self::$dico_trad[':dico_titre'] = $dico_titre['id'];
-        self::$dico_index[':dico_titre'] = $dico_titre['id'];
-        self::$dico_entree[':titre_annee'] = $dico_titre['annee'];
-        self::$dico_entree[':titre_nom'] = $dico_titre['nom'];
-        // self::$dico_entree[':nom_volume'] = $dico_titre['nom_court'];
-
-        $orth_lang = $dico_titre['orth_lang'];
-        if (!$orth_lang) $orth_lang = 'fra';
-        // valeurs par défaut
-        self::$dico_entree[':volume_annee'] = $dico_titre['annee'];
-        self::$dico_index[':volume_annee'] = $dico_titre['annee'];
-        self::$dico_entree[':livanc'] = null;
-
-        // attaper des données, si possible
-        $q = self::$pdo->prepare("SELECT clenum, annee_iso  FROM livanc WHERE cote = ?");
+        $volume_cote = $tsv_name;
+        $sql = "SELECT * FROM dico_volume WHERE volume_cote = ?";
+        $q = self::$pdo->prepare($sql);
         $q->execute(array($volume_cote));
-        $livanc = $q->fetch(PDO::FETCH_ASSOC);
-        if ($livanc && count($livanc) > 0) {
-            self::$dico_entree[':livanc'] = $livanc['clenum'];
-            self::$dico_entree[':volume_annee'] = $livanc['annee_iso'];
+        $rows = $q->fetchAll();
+        if (!$rows || !count($rows)) {
+            throw new Exception("Cote de volume inconnue pour ce fichier : ".$tsv_file);
         }
-        self::$dico_sugg[':volume_annee'] = self::$dico_entree[':volume_annee'];
-        self::$dico_trad[':volume_annee'] = self::$dico_entree[':volume_annee'];
-        self::$dico_index[':volume_annee'] = self::$dico_entree[':volume_annee'];
+        if (count($rows) > 1) {
+            throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Plus de 1 volume pour la cote : ".$volume_cote);
+        }
+        self::$volume = $rows[0];
+        $sql = "SELECT * FROM dico_titre WHERE id = ?";
+        $q = self::$pdo->prepare($sql);
+        $q->execute(array(self::$volume['dico_titre']));
+        self::$titre = $q->fetch();
+        if (!self::$titre) {
+            throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Rien dans la table dico_titre la cote de volume : ".$volume_cote);
+        }
 
-        echo "Start loading…";
+
+        print_r(self::$volume);
+        self::$dico_entree[':dico_volume'] = self::$volume['id'];
+        self::$dico_entree[':dico_titre'] = self::$volume['dico_titre'];
+        self::$dico_entree[':volume_annee'] = self::$volume['volume_annee'];
+        self::$dico_rel[':dico_titre'] = self::$volume['dico_titre'];
+        self::$dico_rel[':volume_annee'] = self::$volume['volume_annee'];
+
+
+
+        $orth_lang = self::$titre['orth_lang'];
+        // forcer la langue par défaut ?
+        // if (!$orth_lang) $orth_lang = 'fra';
+        // valeurs par défaut
+        echo "[insert_volume] ".$volume_cote.'…';
+
+        
+
+        return;
         self::$pdo->beginTransaction();
         self::$pdo->query("SET foreign_key_checks=0;");
         // self::prepare(); 
@@ -518,5 +493,5 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
 }
 
-
+MedictInsert::init();
 

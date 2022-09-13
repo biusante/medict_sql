@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4543403
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4543404
 pb	[s. pag.]	0003	4543405
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4543406
 pb	1	0005	4543407
-entry	Médecine (Histoire de la) [L. Boyer]		
+entry	Médecine (Histoire de la) [L. Boyer]	196	
 orth	Médecine (Histoire de la)		
 pb	2	0006	4543408
 pb	3	0007	4543409
@@ -204,7 +204,7 @@ pb	195	0199	4543601
 pb	196	0200	4543602
 pb	197	0201	4543603
 pb	198	0202	4543604
-entry	Médecine (Histoire de la) [L. Boyer] [E. Beaugrand]		
+entry	Médecine (Histoire de la) [L. Boyer] [E. Beaugrand]	11	
 orth	Médecine (Histoire de la)		
 pb	199	0203	4543605
 pb	200	0204	4543606
@@ -218,21 +218,21 @@ pb	207	0211	4543613
 pb	208	0212	4543614
 pb	209	0213	4543615
 pb	210	0214	4543616
-entry	Médéole [G. Planchon]		
+entry	Médéole [G. Planchon]	0	
 orth	Médéole		
-entry	Médian (Nerf)		
-entry	Médian (Nerf). Anatomie [G. Gillette]		
+entry	Médian (Nerf)	0	
+entry	Médian (Nerf). Anatomie [G. Gillette]	5	
 orth	Médian (Nerf). Anatomie		
 pb	211	0215	4543617
 pb	212	0216	4543618
 pb	213	0217	4543619
 pb	214	0218	4543620
 pb	215	0219	4543621
-entry	Médian (Nerf). Physiologie [G. Gillette]		
+entry	Médian (Nerf). Physiologie [G. Gillette]	2	
 orth	Médian (Nerf). Physiologie		
 pb	216	0220	4543622
 pb	217	0221	4543623
-entry	Médian (Nerf). Pathologie [G. Gillette]		
+entry	Médian (Nerf). Pathologie [G. Gillette]	12	
 orth	Médian (Nerf). Pathologie		
 pb	218	0222	4543624
 pb	219	0223	4543625
@@ -246,15 +246,15 @@ pb	226	0230	4543632
 pb	227	0231	4543633
 pb	228	0232	4543634
 pb	229	0233	4543635
-entry	Médiastin		
-entry	Médiastin. Anatomie [Servier]		
+entry	Médiastin	0	
+entry	Médiastin. Anatomie [Servier]	3	
 orth	Médiastin. Anatomie		
 pb	230	0234	4543636
 pb	231	0235	4543637
 pb	232	0236	4543638
 pb	233	0237	4543639
-entry	Médiastin		
-entry	Médiastin. Pathologie [Servier]		
+entry	Médiastin	0	
+entry	Médiastin. Pathologie [Servier]	6	
 orth	Médiastin. Pathologie		
 pb	234	0238	4543640
 pb	235	0239	4543641
@@ -262,12 +262,12 @@ pb	236	0240	4543642
 pb	237	0241	4543643
 pb	238	0242	4543644
 pb	239	0243	4543645
-entry	Médiastines (Artères et veines) [Servier]		
+entry	Médiastines (Artères et veines) [Servier]	1	
 orth	Médiastines (Artères et veines)		
 pb	240	0244	4543646
-entry	Médicago		
+entry	Médicago	0	
 ref	Luzerne		
-entry	Médicament [Fonssagrives]		
+entry	Médicament [Fonssagrives]	70	
 orth	Médicament		
 pb	241	0245	4543647
 pb	242	0246	4543648
@@ -340,43 +340,43 @@ pb	308	0312	4543714
 pb	309	0313	4543715
 pb	310	0314	4543716
 pb	311	0315	4543717
-entry	Médicament [Fonssagrives] [E. Beaugrand]		
+entry	Médicament [Fonssagrives] [E. Beaugrand]	5	
 orth	Médicament		
 pb	312	0316	4543718
 pb	313	0317	4543719
 pb	314	0318	4543720
 pb	315	0319	4543721
 pb	316	0320	4543722
-entry	Médicastre		
+entry	Médicastre	0	
 ref	Charlatanisme		
-entry	Médiciner [H. Baillon]		
+entry	Médiciner [H. Baillon]	0	
 orth	Médiciner		
-entry	Médicus (Friedr. Casimir) [E. Beaugrand]		
+entry	Médicus (Friedr. Casimir) [E. Beaugrand]	1	
 orth	Médicus (Friedr. Casimir)		
 pb	317	0321	4543723
-entry	Médium [G. Planchon]		
+entry	Médium [G. Planchon]	0	
 orth	Médium		
-entry	Mèdre Amboye [G. Planchon]		
+entry	Mèdre Amboye [G. Planchon]	0	
 orth	Mèdre Amboye		
-entry	Médullaires (Artères, Canal, Membrane, Tissu)		
+entry	Médullaires (Artères, Canal, Membrane, Tissu)	0	
 ref	Cerveau		
 ref	Moelle		
 ref	Os		
-entry	Médullite		
+entry	Médullite	0	
 ref	Ostéomyélite		
-entry	Médullocelle		
+entry	Médullocelle	0	
 ref	Moelle des os		
-entry	Méduses [P. Gervais]		
+entry	Méduses [P. Gervais]	3	
 orth	Méduses		
 pb	318	0322	4543724
 pb	319	0323	4543725
 pb	320	0324	4543726
-entry	Meeru [G. Planchon]		
+entry	Meeru [G. Planchon]	0	
 orth	Meeru		
-entry	Méglin (J.-A.) [E. Beaugrand]		
+entry	Méglin (J.-A.) [E. Beaugrand]	0	
 orth	Méglin (J.-A.)		
 pb	321	0325	4543727
-entry	Mehadia (Eaux minérales de) [A. Rotureau]		
+entry	Mehadia (Eaux minérales de) [A. Rotureau]	9	
 orth	Mehadia (Eaux minérales de)		
 pb	322	0326	4543728
 pb	323	0327	4543729
@@ -387,14 +387,14 @@ pb	327	0331	4543733
 pb	328	0332	4543734
 pb	329	0333	4543735
 pb	330	0334	4543736
-entry	Meibon (Les) [A. Chéreau]		
+entry	Meibon (Les) [A. Chéreau]	0	
 orth	Meibon (Les)		
-entry	Meinberg (Eaux minérales et boues de) [A. Rotureau]		
+entry	Meinberg (Eaux minérales et boues de) [A. Rotureau]	3	
 orth	Meinberg (Eaux minérales et boues de)		
 pb	331	0335	4543737
 pb	332	0336	4543738
 pb	333	0337	4543739
-entry	Mélaena [G. Morache]		
+entry	Mélaena [G. Morache]	10	
 orth	Mélaena		
 pb	334	0338	4543740
 pb	335	0339	4543741
@@ -406,38 +406,38 @@ pb	340	0344	4543746
 pb	341	0345	4543747
 pb	342	0346	4543748
 pb	343	0347	4543749
-entry	Mélaenagogues [J. Delioux de Savignac]		
+entry	Mélaenagogues [J. Delioux de Savignac]	0	
 orth	Mélaenagogues		
-entry	Mélagre [Amédée Dechambre]		
+entry	Mélagre [Amédée Dechambre]	0	
 orth	Mélagre		
-entry	Mélaguette		
+entry	Mélaguette	0	
 ref	Maniguette		
-entry	Mélaine [P. Schützenberger]		
+entry	Mélaine [P. Schützenberger]	1	
 orth	Mélaine		
 pb	344	0348	4543750
-entry	Mélaleuque [G. Planchon]		
+entry	Mélaleuque [G. Planchon]	1	
 orth	Mélaleuque		
 pb	345	0349	4543751
-entry	Mélam [P. Schützenberger]		
+entry	Mélam [P. Schützenberger]	0	
 orth	Mélam		
-entry	Mélamine [P. Schützenberger]		
+entry	Mélamine [P. Schützenberger]	0	
 orth	Mélamine		
-entry	Melampodium [G. Planchon]		
+entry	Melampodium [G. Planchon]	0	
 orth	Melampodium		
-entry	Mélampyrine ou Mélampyrite		
+entry	Mélampyrine ou Mélampyrite	0	
 ref	Dulcite		
-entry	Melampyrum [G. Planchon]		
+entry	Melampyrum [G. Planchon]	1	
 orth	Melampyrum		
 pb	346	0350	4543752
-entry	Mélancolie		
+entry	Mélancolie	0	
 ref	Lypémanie		
-entry	Mélanconiées [Jacques Bertillon]		
+entry	Mélanconiées [Jacques Bertillon]	4	
 orth	Mélanconiées		
 pb	347	0351	4543753
 pb	348	0352	4543754
 pb	349	0353	4543755
 pb	350	0354	4543756
-entry	Mélanémie [B. Ball]		
+entry	Mélanémie [B. Ball]	9	
 orth	Mélanémie		
 pb	351	0355	4543757
 pb	352	0356	4543758
@@ -448,7 +448,7 @@ pb	356	0360	4543762
 pb	357	0361	4543763
 pb	358	0362	4543764
 pb	359	0363	4543765
-entry	Mélanésie [V. de Rochas]		
+entry	Mélanésie [V. de Rochas]	10	
 orth	Mélanésie		
 pb	360	0364	4543766
 pb	361	0365	4543767
@@ -461,25 +461,25 @@ pb	367	0371	4543773
 pb	368	0372	4543774
 pb	369	0373	4543775
 pb	370	0374	4543776
-entry	Mélanidrose		
+entry	Mélanidrose	0	
 ref	Chromidrose		
-entry	Mélaniline [P. Schützenberger]		
+entry	Mélaniline [P. Schützenberger]	0	
 orth	Mélaniline		
-entry	Mélanine [P. Schützenberger]		
+entry	Mélanine [P. Schützenberger]	0	
 orth	Mélanine		
-entry	Mélanique (Acide) [P. Schützenberger]		
+entry	Mélanique (Acide) [P. Schützenberger]	0	
 orth	Mélanique (Acide)		
-entry	Mélanisme [Amédée Dechambre]		
+entry	Mélanisme [Amédée Dechambre]	1	
 orth	Mélanisme		
 pb	371	0375	4543777
-entry	Mélanochine [P. Schützenberger]		
+entry	Mélanochine [P. Schützenberger]	0	
 orth	Mélanochine		
-entry	Mélanogallique (Acide) [P. Schützenberger]		
+entry	Mélanogallique (Acide) [P. Schützenberger]	0	
 orth	Mélanogallique (Acide)		
-entry	Melanorrhoea [G. Planchon]		
+entry	Melanorrhoea [G. Planchon]	0	
 orth	Melanorrhoea		
 pb	372	0376	4543778
-entry	Mélanose [Ch. Robin]		
+entry	Mélanose [Ch. Robin]	38	
 orth	Mélanose		
 pb	373	0377	4543779
 pb	374	0378	4543780
@@ -519,85 +519,85 @@ pb	407	0411	4543813
 pb	408	0412	4543814
 pb	409	0413	4543815
 pb	410	0414	4543816
-entry	Mélanotriques		
+entry	Mélanotriques	0	
 ref	Liotriques		
 ref	Pileux (système)		
-entry	Mélanthacées [G. Planchon]		
+entry	Mélanthacées [G. Planchon]	0	
 orth	Mélanthacées		
-entry	Mélanthium [G. Planchon]		
+entry	Mélanthium [G. Planchon]	1	
 orth	Mélanthium		
 pb	411	0415	4543817
-entry	Malanurénique (Acide) [C. Lutz]		
+entry	Malanurénique (Acide) [C. Lutz]	0	
 orth	Malanurénique (Acide)		
-entry	Mélanurine ou Mélanourine [Amédée Dechambre]		
+entry	Mélanurine ou Mélanourine [Amédée Dechambre]	0	
 orth	Mélanurine ou Mélanourine		
-entry	Mélasme [Amédée Dechambre]		
+entry	Mélasme [Amédée Dechambre]	0	
 orth	Mélasme		
-entry	Mélasse [Amédée Dechambre]		
+entry	Mélasse [Amédée Dechambre]	0	
 orth	Mélasse		
-entry	Mélassique (Acide) [P. Schützenberger]		
+entry	Mélassique (Acide) [P. Schützenberger]	0	
 orth	Mélassique (Acide)		
-entry	Mélastomacées [G. Planchon]		
+entry	Mélastomacées [G. Planchon]	1	
 orth	Mélastomacées		
 pb	412	0416	4543818
-entry	Mélastomes [G. Planchon]		
+entry	Mélastomes [G. Planchon]	1	
 orth	Mélastomes		
 pb	413	0417	4543819
-entry	Mélène sulfide [P. Schützenberger]		
+entry	Mélène sulfide [P. Schützenberger]	0	
 orth	Mélène sulfide		
 pb	414	0418	4543820
-entry	Meletius [E. Beaugrand]		
+entry	Meletius [E. Beaugrand]	0	
 orth	Meletius		
-entry	Melette [P. Gervais]		
+entry	Melette [P. Gervais]	1	
 orth	Melette		
 pb	415	0419	4543821
-entry	Mélèze		
-entry	Mélèze. Botanique [G. Planchon]		
+entry	Mélèze	0	
+entry	Mélèze. Botanique [G. Planchon]	1	
 orth	Mélèze. Botanique		
 pb	416	0420	4543822
-entry	Emploi médical [Amédée Dechambre]		
+entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
-entry	Mélézitose [Amédée Dechambre]		
+entry	Mélézitose [Amédée Dechambre]	0	
 orth	Mélézitose		
-entry	Mélia [H. Baillon]		
+entry	Mélia [H. Baillon]	1	
 orth	Mélia		
 pb	417	0421	4543823
-entry	Méliacées [H. Baillon]		
+entry	Méliacées [H. Baillon]	0	
 orth	Méliacées		
-entry	Mélianthus [G. Planchon]		
+entry	Mélianthus [G. Planchon]	1	
 orth	Mélianthus		
 pb	418	0422	4543824
-entry	Mélica		
+entry	Mélica	0	
 ref	Sorgho		
-entry	Mélicéris [Amédée Dechambre]		
+entry	Mélicéris [Amédée Dechambre]	0	
 orth	Mélicéris		
-entry	Melicocca [G. Planchon]		
+entry	Melicocca [G. Planchon]	1	
 orth	Melicocca		
 pb	419	0423	4543825
-entry	Mélie		
+entry	Mélie	0	
 ref	Mélia		
-entry	Mélier (F.) [H. Montanier]		
+entry	Mélier (F.) [H. Montanier]	1	
 orth	Mélier (F.)		
 pb	420	0424	4543826
-entry	Méliguette		
+entry	Méliguette	0	
 ref	Maniguette		
-entry	Mélilot		
-entry	Mélilot. Botanique [G. Planchon]		
+entry	Mélilot	0	
+entry	Mélilot. Botanique [G. Planchon]	1	
 orth	Mélilot. Botanique		
 pb	421	0425	4543827
-entry	Mélilot. Emploi médical [J. Delioux de Savignac]		
+entry	Mélilot. Emploi médical [J. Delioux de Savignac]	1	
 orth	Mélilot. Emploi médical		
 pb	422	0426	4543828
-entry	Mélilot. Thérapeutique [J. Delioux de Savignac]		
+entry	Mélilot. Thérapeutique [J. Delioux de Savignac]	1	
 orth	Mélilot. Thérapeutique		
 pb	423	0427	4543829
-entry	Mélinet		
+entry	Mélinet	0	
 ref	Cérinthe		
-entry	Mélisse		
-entry	Mélisse. Botanique [G. Planchon]		
+entry	Mélisse	0	
+entry	Mélisse. Botanique [G. Planchon]	1	
 orth	Mélisse. Botanique		
 pb	424	0428	4543830
-entry	Mélisse. Emploi médical [J. Delioux de Savignac]		
+entry	Mélisse. Emploi médical [J. Delioux de Savignac]	6	
 orth	Mélisse. Emploi médical		
 pb	425	0429	4543831
 pb	426	0430	4543832
@@ -605,92 +605,92 @@ pb	427	0431	4543833
 pb	428	0432	4543834
 pb	429	0433	4543835
 pb	430	0434	4543836
-entry	Mélissine, Alcool mélissique [Amédée Dechambre]		
+entry	Mélissine, Alcool mélissique [Amédée Dechambre]	0	
 orth	Mélissine, Alcool mélissique		
-entry	Melissophylum		
+entry	Melissophylum	0	
 ref	Mélisse		
 ref	Mélitte		
-entry	Mélitte [G. Planchon]		
+entry	Mélitte [G. Planchon]	1	
 orth	Mélitte		
 pb	431	0435	4543837
-entry	Mélitose [C. Lutz]		
+entry	Mélitose [C. Lutz]	0	
 orth	Mélitose		
-entry	Mellates		
+entry	Mellates	0	
 ref	Mellitates		
-entry	Melléolés [T. Gobley]		
+entry	Melléolés [T. Gobley]	0	
 orth	Melléolés		
-entry	Melli (Sébastien) [H. Montanier]		
+entry	Melli (Sébastien) [H. Montanier]	0	
 orth	Melli (Sébastien)		
-entry	Mellifères [A. Laboulbène]		
+entry	Mellifères [A. Laboulbène]	0	
 orth	Mellifères		
 pb	432	0436	4543838
-entry	Mellique (Acide)		
+entry	Mellique (Acide)	0	
 ref	Mellitique (Acide)		
-entry	Mellitates ou Mellates [C. Lutz]		
+entry	Mellitates ou Mellates [C. Lutz]	0	
 orth	Mellitates ou Mellates		
-entry	Mellitates d'Ammoniaque [C. Lutz]		
+entry	Mellitates d'Ammoniaque [C. Lutz]	0	
 orth	Mellitates d'Ammoniaque		
-entry	Mellites [T. Gobley]		
+entry	Mellites [T. Gobley]	2	
 orth	Mellites		
 pb	433	0437	4543839
 pb	434	0438	4543840
-entry	Mellitate		
+entry	Mellitate	0	
 ref	Mellitique (Acide)		
-entry	Mellitique (Acide) [C. Lutz]		
+entry	Mellitique (Acide) [C. Lutz]	0	
 orth	Mellitique (Acide)		
-entry	Mellon [C. Lutz]		
+entry	Mellon [C. Lutz]	1	
 orth	Mellon		
 pb	435	0439	4543841
-entry	Mellonhydrique (Acide) [C. Lutz]		
+entry	Mellonhydrique (Acide) [C. Lutz]	0	
 orth	Mellonhydrique (Acide)		
-entry	Mellonures [C. Lutz]		
+entry	Mellonures [C. Lutz]	1	
 orth	Mellonures		
 pb	436	0440	4543842
-entry	Melocactus [G. Planchon]		
+entry	Melocactus [G. Planchon]	0	
 orth	Melocactus		
-entry	Melocarcopalli [G. Planchon]		
+entry	Melocarcopalli [G. Planchon]	0	
 orth	Melocarcopalli		
-entry	Melochia [H. Baillon]		
+entry	Melochia [H. Baillon]	0	
 orth	Melochia		
-entry	Melodin [G. Planchon]		
+entry	Melodin [G. Planchon]	0	
 orth	Melodin		
-entry	Meloe [A. Laboulbène]		
+entry	Meloe [A. Laboulbène]	3	
 orth	Meloe		
 pb	437	0441	4543843
 pb	438	0442	4543844
 pb	439	0443	4543845
-entry	Mélomèles [Amédée Dechambre]		
+entry	Mélomèles [Amédée Dechambre]	1	
 orth	Mélomèles		
 pb	440	0444	4543846
-entry	Melon		
-entry	Botanique [G. Planchon]		
+entry	Melon	0	
+entry	Botanique [G. Planchon]	0	
 orth	Botanique		
-entry	Melon. Bromatologie et emploi médical [Amédée Dechambre]		
+entry	Melon. Bromatologie et emploi médical [Amédée Dechambre]	1	
 orth	Melon. Bromatologie et emploi médical		
 pb	441	0445	4543847
-entry	Mélongène		
+entry	Mélongène	0	
 ref	Adbergine		
-entry	Mélophage du mouton [Amédée Dechambre]		
+entry	Mélophage du mouton [Amédée Dechambre]	0	
 orth	Mélophage du mouton		
-entry	Méloplastie [Amédée Dechambre]		
+entry	Méloplastie [Amédée Dechambre]	0	
 orth	Méloplastie		
-entry	Melopepo [G. Planchon]		
+entry	Melopepo [G. Planchon]	0	
 orth	Melopepo		
-entry	Melothria [G. Planchon]		
+entry	Melothria [G. Planchon]	0	
 orth	Melothria		
-entry	Mélothron [G. Planchon]		
+entry	Mélothron [G. Planchon]	0	
 orth	Mélothron		
-entry	Melt		
+entry	Melt	0	
 ref	Agave		
 ref	Pulqué		
-entry	Membranes (Anatomie) [Albert Hénocque]		
+entry	Membranes (Anatomie) [Albert Hénocque]	2	
 orth	Membranes (Anatomie)		
 pb	442	0446	4543848
 pb	443	0447	4543849
-entry	Membranes (Fausses)		
+entry	Membranes (Fausses)	0	
 ref	Néomembranes		
 ref	Pseudo-membranes		
-entry	Membranes de l'oeuf [Campana]		
+entry	Membranes de l'oeuf [Campana]	9	
 orth	Membranes de l'oeuf		
 pb	444	0448	4543850
 pb	445	0449	4543851
@@ -702,8 +702,8 @@ pb	450	0454	4543856
 pb	451	0455	4543857
 pb	452	0456	4543858
 pb	453	0457	4543859
-entry	Membres		
-entry	Membres. Anatomie générale [Nicaise]		
+entry	Membres	0	
+entry	Membres. Anatomie générale [Nicaise]	13	
 orth	Membres. Anatomie générale		
 pb	454	0458	4543860
 pb	455	0459	4543861
@@ -718,7 +718,7 @@ pb	463	0467	4543869
 pb	464	0468	4543870
 pb	465	0469	4543871
 pb	466	0470	4543872
-entry	Membres. Physiologie [Nicaise]		
+entry	Membres. Physiologie [Nicaise]	8	
 orth	Membres. Physiologie		
 pb	467	0471	4543873
 pb	468	0472	4543874
@@ -728,7 +728,7 @@ pb	471	0475	4543877
 pb	472	0476	4543878
 pb	473	0477	4543879
 pb	474	0478	4543880
-entry	Membres. Développement [Campana]		
+entry	Membres. Développement [Campana]	10	
 orth	Membres. Développement		
 pb	475	0479	4543881
 pb	476	0480	4543882
@@ -740,7 +740,7 @@ pb	481	0485	4543887
 pb	482	0486	4543888
 pb	483	0487	4543889
 pb	484	0488	4543890
-entry	Membres. Comparaison des membres pelviens et thoraciques [Ch. Martins]		
+entry	Membres. Comparaison des membres pelviens et thoraciques [Ch. Martins]	23	
 orth	Membres. Comparaison des membres pelviens et thoraciques		
 pb	485	0489	4543891
 pb	486	0490	4543892
@@ -765,7 +765,7 @@ pb	504	0508	4543910
 pb	505	0509	4543911
 pb	506	0510	4543912
 pb	507	0511	4543913
-entry	Membres. Anthropologie et proportions [E. Dally]		
+entry	Membres. Anthropologie et proportions [E. Dally]	12	
 orth	Membres. Anthropologie et proportions		
 pb	508	0512	4543914
 pb	509	0513	4543915
@@ -779,46 +779,46 @@ pb	516	0520	4543922
 pb	517	0521	4543923
 pb	518	0522	4543924
 pb	519	0523	4543925
-entry	Membres. Pathologie [Nicaise]		
+entry	Membres. Pathologie [Nicaise]	1	
 orth	Membres. Pathologie		
 pb	520	0524	4543926
-entry	Mémoire [Amédée Dechambre]		
+entry	Mémoire [Amédée Dechambre]	0	
 orth	Mémoire		
-entry	Mena (Fernando) [E. Beaugrand]		
+entry	Mena (Fernando) [E. Beaugrand]	0	
 orth	Mena (Fernando)		
-entry	Menachin		
+entry	Menachin	0	
 ref	Titane		
-entry	Ménagogue		
+entry	Ménagogue	0	
 ref	Emménagogue		
-entry	Menaphtylamine [P. Schützenberger]		
+entry	Menaphtylamine [P. Schützenberger]	1	
 orth	Menaphtylamine		
 pb	521	0525	4543927
-entry	Ménard (J. L. M.) [E. Beaugrand]		
+entry	Ménard (J. L. M.) [E. Beaugrand]	0	
 orth	Ménard (J. L. M.)		
-entry	Mendanha		
+entry	Mendanha	0	
 ref	Strychnos		
-entry	Mende (Louis-Jules-Gaspard) [H. Montanier]		
+entry	Mende (Louis-Jules-Gaspard) [H. Montanier]	0	
 orth	Mende (Louis-Jules-Gaspard)		
-entry	Mendicité (Dépôts de) [Amédée Dechambre]		
+entry	Mendicité (Dépôts de) [Amédée Dechambre]	1	
 orth	Mendicité (Dépôts de)		
 pb	522	0526	4543928
-entry	Ménécrate [E. Beaugrand]		
+entry	Ménécrate [E. Beaugrand]	1	
 orth	Ménécrate		
 pb	523	0527	4543929
-entry	Ménestrel (Alex.-Ch.-Ferd.) [E. Beaugrand]		
+entry	Ménestrel (Alex.-Ch.-Ferd.) [E. Beaugrand]	0	
 orth	Ménestrel (Alex.-Ch.-Ferd.)		
-entry	Ménianthe		
+entry	Ménianthe	0	
 ref	Ményanthe		
-entry	Ménidrose [Amédée Dechambre]		
+entry	Ménidrose [Amédée Dechambre]	0	
 orth	Ménidrose		
-entry	Ménière (Prosper) [H. Montanier]		
+entry	Ménière (Prosper) [H. Montanier]	0	
 orth	Ménière (Prosper)		
-entry	Méningés (Vaisseaux) [Marc Sée]		
+entry	Méningés (Vaisseaux) [Marc Sée]	2	
 orth	Méningés (Vaisseaux)		
 pb	524	0528	4543930
 pb	525	0529	4543931
-entry	Méninges		
-entry	Méninges. Anatomie [Marc Sée]		
+entry	Méninges	0	
+entry	Méninges. Anatomie [Marc Sée]	7	
 orth	Méninges. Anatomie		
 pb	526	0530	4543932
 pb	527	0531	4543933
@@ -827,9 +827,9 @@ pb	529	0533	4543935
 pb	530	0534	4543936
 pb	531	0535	4543937
 pb	532	0536	4543938
-entry	Développement		
+entry	Développement	0	
 ref	Moelle		
-entry	Méninges. Pathologie [Archambault]		
+entry	Méninges. Pathologie [Archambault]	100	
 orth	Méninges. Pathologie		
 pb	533	0537	4543939
 pb	534	0538	4543940
@@ -931,7 +931,7 @@ pb	629	0633	4544035
 pb	630	0634	4544036
 pb	631	0635	4544037
 pb	632	0636	4544038
-entry	Méningite [L. Laveran]		
+entry	Méningite [L. Laveran]	14	
 orth	Méningite		
 pb	633	0637	4544039
 pb	634	0638	4544040
@@ -948,7 +948,7 @@ pb	644	0648	4544050
 pb	645	0649	4544051
 pb	646	0650	4544052
 pb	647	0651	4544053
-entry	Méningite [A. Laveran]		
+entry	Méningite [A. Laveran]	29	
 orth	Méningite		
 pb	648	0652	4544054
 pb	649	0653	4544055
@@ -979,27 +979,27 @@ pb	673	0677	4544079
 pb	674	0678	4544080
 pb	675	0679	4544081
 pb	676	0680	4544082
-entry	Méningocèle		
+entry	Méningocèle	0	
 ref	Crâne		
-entry	Méningo-gastrique (Fièvre)		
+entry	Méningo-gastrique (Fièvre)	0	
 ref	Bilieux		
-entry	Ménisperme [H. Baillon]		
+entry	Ménisperme [H. Baillon]	1	
 orth	Ménisperme		
 pb	677	0681	4544083
-entry	Ménispermine [P. Schützenberger]		
+entry	Ménispermine [P. Schützenberger]	0	
 orth	Ménispermine		
-entry	Ménispermique (Acide) [P. Schützenberger]		
+entry	Ménispermique (Acide) [P. Schützenberger]	0	
 orth	Ménispermique (Acide)		
-entry	Ménisques [Amédée Dechambre]		
+entry	Ménisques [Amédée Dechambre]	0	
 orth	Ménisques		
 pb	678	0682	4544084
-entry	Menjot (Antoine) [A. Chéreau]		
+entry	Menjot (Antoine) [A. Chéreau]	0	
 orth	Menjot (Antoine)		
-entry	Ménopause [Amédée Dechambre]		
+entry	Ménopause [Amédée Dechambre]	0	
 orth	Ménopause		
-entry	Ménorrhagie		
+entry	Ménorrhagie	0	
 ref	Métrorrhagie		
-entry	Menstruation [Depaul, Guéniot]		
+entry	Menstruation [Depaul, Guéniot]	60	
 orth	Menstruation		
 pb	679	0683	4544085
 pb	680	0684	4544086
@@ -1061,11 +1061,11 @@ pb	735	0739	4544141
 pb	736	0740	4544142
 pb	737	0741	4544143
 pb	738	0742	4544144
-entry	Menstrue [Amédée Dechambre]		
+entry	Menstrue [Amédée Dechambre]	0	
 orth	Menstrue		
-entry	Menstrues		
+entry	Menstrues	0	
 ref	Menstruation		
-entry	Mentagre [E. Bazin]		
+entry	Mentagre [E. Bazin]	29	
 orth	Mentagre		
 pb	739	0743	4544145
 pb	740	0744	4544146
@@ -1096,20 +1096,20 @@ pb	764	0768	4544170
 pb	765	0769	4544171
 pb	766	0770	4544172
 pb	767	0771	4544173
-entry	Mentagrophyte		
+entry	Mentagrophyte	0	
 ref	Mentagre [Amédée Dechambre]		
-entry	Mentale (Sous-) (Artère)		
+entry	Mentale (Sous-) (Artère)	0	
 ref	Maxillaire interne (Artère)		
-entry	Mentel (Jacques) [A. Dureau]		
+entry	Mentel (Jacques) [A. Dureau]	0	
 orth	Mentel (Jacques)		
-entry	Menthe		
-entry	Menthe. Botanique [G. Planchon]		
+entry	Menthe	0	
+entry	Menthe. Botanique [G. Planchon]	4	
 orth	Menthe. Botanique		
 pb	768	0772	4544174
 pb	769	0773	4544175
 pb	770	0774	4544176
 pb	771	0775	4544177
-entry	Menthe. Emploi médical [J. Delioux de Savignac]		
+entry	Menthe. Emploi médical [J. Delioux de Savignac]	12	
 orth	Menthe. Emploi médical		
 pb	772	0776	4544178
 pb	773	0777	4544179
@@ -1123,41 +1123,41 @@ pb	780	0784	4544186
 pb	781	0785	4544187
 pb	782	0786	4544188
 pb	783	0787	4544189
-entry	Menthène [Amédée Dechambre]		
+entry	Menthène [Amédée Dechambre]	0	
 orth	Menthène		
-entry	Menthol [Amédée Dechambre]		
+entry	Menthol [Amédée Dechambre]	0	
 orth	Menthol		
-entry	Menton		
+entry	Menton	0	
 ref	Face		
-entry	Menton (Station hivernale de) [A. Rotureau]		
+entry	Menton (Station hivernale de) [A. Rotureau]	2	
 orth	Menton (Station hivernale de)		
 pb	784	0788	4544190
 pb	785	0789	4544191
-entry	Mentonnier (Nerf)		
+entry	Mentonnier (Nerf)	0	
 ref	Maxillaire inférieur (Nerf)		
-entry	Mentonnière (Bandage)		
+entry	Mentonnière (Bandage)	0	
 ref	Bandages		
-entry	Mentonniers (Vaisseaux)		
+entry	Mentonniers (Vaisseaux)	0	
 ref	Maxillaires (Vaisseaux)		
-entry	Mentzelia [G. Planchon]		
+entry	Mentzelia [G. Planchon]	0	
 orth	Mentzelia		
-entry	Menuisier		
+entry	Menuisier	0	
 ref	Charpentier		
-entry	Menuret de Chambaud (Jean-Jacques) [H. Montanier]		
+entry	Menuret de Chambaud (Jean-Jacques) [H. Montanier]	1	
 orth	Menuret de Chambaud (Jean-Jacques)		
 pb	786	0790	4544192
-entry	Ményanthe [G. Planchon]		
+entry	Ményanthe [G. Planchon]	1	
 orth	Ményanthe		
 pb	787	0791	4544193
-entry	Ményanthine [P. Schützenberger]		
+entry	Ményanthine [P. Schützenberger]	0	
 orth	Ményanthine		
-entry	Menzer (Poudres de)		
-entry	Méphitisme [G. Morache]		
+entry	Menzer (Poudres de)	0	
+entry	Méphitisme [G. Morache]	1	
 orth	Méphitisme		
 pb	788	0792	4544194
-entry	Addendum		
-entry	Melanoxylon [G. Planchon]		
+entry	Addendum	0	
+entry	Melanoxylon [G. Planchon]	0	
 orth	Melanoxylon		
 pb	789	0793	4544195
-entry	Articles contenus dans le sixième volume		
+entry	Articles contenus dans le sixième volume	1	
 pb	790	0794	4544196

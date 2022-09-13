@@ -1,50 +1,50 @@
 pb	[s. pag.]	0001	4534421
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4534422
 pb	[s. pag.]	0003	4534423
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4534424
 pb	1	0005	4534425
-entry	Grondins [H.-E. Sauvage]		
+entry	Grondins [H.-E. Sauvage]	1	
 orth	Grondins		
 pb	2	0006	4534426
-entry	Gronovia (L.) [H. Baillon]		
+entry	Gronovia (L.) [H. Baillon]	0	
 orth	Gronovia (L.)		
-entry	Gronovius ou Gronov (Les) [A. Chéreau, L. Hahn]		
+entry	Gronovius ou Gronov (Les) [A. Chéreau, L. Hahn]	2	
 orth	Gronovius ou Gronov (Les)		
 pb	3	0007	4534427
 pb	4	0008	4534428
-entry	Groos (Friedrich) [L. Hahn]		
+entry	Groos (Friedrich) [L. Hahn]	1	
 orth	Groos (Friedrich)		
 pb	5	0009	4534429
-entry	Gros (Léon-Julien) [L. Hahn]		
+entry	Gros (Léon-Julien) [L. Hahn]	0	
 orth	Gros (Léon-Julien)		
-entry	Gros-Bec [E. Oustalet]		
+entry	Gros-Bec [E. Oustalet]	2	
 orth	Gros-Bec		
 pb	6	0010	4534430
 pb	7	0011	4534431
-entry	Groschke (Johann-Gottlieb von) [L. Hahn]		
+entry	Groschke (Johann-Gottlieb von) [L. Hahn]	1	
 orth	Groschke (Johann-Gottlieb von)		
 pb	8	0012	4534432
-entry	Groseille, Groseillier		
-entry	Groseille, Groseillier. Botanique [H. Baillon]		
+entry	Groseille, Groseillier	0	
+entry	Groseille, Groseillier. Botanique [H. Baillon]	2	
 orth	Groseille, Groseillier. Botanique		
 pb	9	0013	4534433
 pb	10	0014	4534434
-entry	Groseille, Groseillier. Applications médicales [Ernest Labbée]		
+entry	Groseille, Groseillier. Applications médicales [Ernest Labbée]	2	
 orth	Groseille, Groseillier. Applications médicales		
 pb	11	0015	4534435
 pb	12	0016	4534436
-entry	Groshans (Georg-Philip-Frederik) [L. Hahn]		
+entry	Groshans (Georg-Philip-Frederik) [L. Hahn]	0	
 orth	Groshans (Georg-Philip-Frederik)		
 pb	13	0017	4534437
-entry	Grosmann (Les deux) [L. Hahn]		
+entry	Grosmann (Les deux) [L. Hahn]	0	
 orth	Grosmann (Les deux)		
-entry	Gross (Samuel-D.) [L. Hahn]		
+entry	Gross (Samuel-D.) [L. Hahn]	1	
 orth	Gross (Samuel-D.)		
 pb	14	0018	4534438
-entry	Grossesse		
-entry	Grossesse. Physiologie [A. Pinard]		
+entry	Grossesse	0	
+entry	Grossesse. Physiologie [A. Pinard]	44	
 orth	Grossesse. Physiologie		
 pb	15	0019	4534439
 pb	16	0020	4534440
@@ -91,7 +91,7 @@ pb	56	0060	4534480
 pb	57	0061	4534481
 pb	58	0062	4534482
 pb	59	0063	4534483
-entry	Grossesse. Physiologie [A. Pinard] [L. Hahn]		
+entry	Grossesse. Physiologie [A. Pinard] [L. Hahn]	9	
 orth	Grossesse. Physiologie		
 pb	60	0064	4534484
 pb	61	0065	4534485
@@ -103,9 +103,9 @@ pb	66	0070	4534490
 pb	67	0071	4534491
 pb	68	0072	4534492
 pb	69	0073	4534493
-entry	Grossesse. Physiologie [A. Pinard]		
+entry	Grossesse. Physiologie [A. Pinard]	0	
 orth	Grossesse. Physiologie		
-entry	Grossesse. Grossesse multiple [A. Pinard]		
+entry	Grossesse. Grossesse multiple [A. Pinard]	30	
 orth	Grossesse. Grossesse multiple		
 pb	70	0074	4534494
 pb	71	0075	4534495
@@ -138,10 +138,10 @@ pb	97	0101	4534521
 pb	98	0102	4534522
 pb	99	0103	4534523
 pb	100	0104	4534524
-entry	Grossesse. Grossesse multiple [A. Pinard] [L. Hahn]		
+entry	Grossesse. Grossesse multiple [A. Pinard] [L. Hahn]	1	
 orth	Grossesse. Grossesse multiple		
 pb	101	0105	4534525
-entry	Grossesse. Grossesse pathologique [A. Pinard]		
+entry	Grossesse. Grossesse pathologique [A. Pinard]	42	
 orth	Grossesse. Grossesse pathologique		
 pb	102	0106	4534526
 pb	103	0107	4534527
@@ -186,7 +186,7 @@ pb	141	0145	4534565
 pb	142	0146	4534566
 pb	143	0147	4534567
 pb	144	0148	4534568
-entry	Grossesse. Grossesse pathologique [A. Pinard] [L. Hahn]		
+entry	Grossesse. Grossesse pathologique [A. Pinard] [L. Hahn]	7	
 orth	Grossesse. Grossesse pathologique		
 pb	145	0149	4534569
 pb	146	0150	4534570
@@ -195,7 +195,7 @@ pb	148	0152	4534572
 pb	149	0153	4534573
 pb	150	0154	4534574
 pb	151	0155	4534575
-entry	Grossesse. Grossesse compliquée [A. Pinard]		
+entry	Grossesse. Grossesse compliquée [A. Pinard]	34	
 orth	Grossesse. Grossesse compliquée		
 pb	152	0156	4534576
 pb	153	0157	4534577
@@ -232,7 +232,7 @@ pb	183	0187	4534607
 pb	184	0188	4534608
 pb	185	0189	4534609
 pb	186	0190	4534610
-entry	Grossesse. Grossesse compliquée [A. Pinard] [L. Hahn]		
+entry	Grossesse. Grossesse compliquée [A. Pinard] [L. Hahn]	7	
 orth	Grossesse. Grossesse compliquée		
 pb	187	0191	4534611
 pb	188	0192	4534612
@@ -242,9 +242,9 @@ pb	191	0195	4534615
 pb	192	0196	4534616
 pb	193	0197	4534617
 pb	194	0198	4534618
-entry	Grossesse. Grossesse compliquée [A. Pinard]		
+entry	Grossesse. Grossesse compliquée [A. Pinard]	0	
 orth	Grossesse. Grossesse compliquée		
-entry	Grossesse. Grossesse extra-utérine [A. Pinard]		
+entry	Grossesse. Grossesse extra-utérine [A. Pinard]	41	
 orth	Grossesse. Grossesse extra-utérine		
 pb	195	0199	4534619
 pb	196	0200	4534620
@@ -288,7 +288,7 @@ pb	233	0237	4534657
 pb	234	0238	4534658
 pb	235	0239	4534659
 pb	236	0240	4534660
-entry	Grossesse. Grossesse extra-utérine [A. Pinard] [L. Hahn]		
+entry	Grossesse. Grossesse extra-utérine [A. Pinard] [L. Hahn]	9	
 orth	Grossesse. Grossesse extra-utérine		
 pb	237	0241	4534661
 pb	238	0242	4534662
@@ -299,7 +299,7 @@ pb	242	0246	4534666
 pb	243	0247	4534667
 pb	244	0248	4534668
 pb	245	0249	4534669
-entry	Grossesse. Médecine légale [G. Tourdes]		
+entry	Grossesse. Médecine légale [G. Tourdes]	84	
 orth	Grossesse. Médecine légale		
 pb	246	0250	4534670
 pb	247	0251	4534671
@@ -386,14 +386,14 @@ pb	327	0331	4534751
 pb	328	0332	4534752
 pb	329	0333	4534753
 pb	330	0334	4534754
-entry	Grossheim (Ernst-Léopold) [L. Hahn]		
+entry	Grossheim (Ernst-Léopold) [L. Hahn]	0	
 orth	Grossheim (Ernst-Léopold)		
-entry	Grossi (Ernest de) [A. Dureau]		
+entry	Grossi (Ernest de) [A. Dureau]	1	
 orth	Grossi (Ernest de)		
 pb	331	0335	4534755
-entry	Grossin Duhaume (Étienne) [A. Chéreau]		
+entry	Grossin Duhaume (Étienne) [A. Chéreau]	0	
 orth	Grossin Duhaume (Étienne)		
-entry	Grossissement [C.-M. Gariel]		
+entry	Grossissement [C.-M. Gariel]	11	
 orth	Grossissement		
 pb	332	0336	4534756
 pb	333	0337	4534757
@@ -406,85 +406,85 @@ pb	339	0343	4534763
 pb	340	0344	4534764
 pb	341	0345	4534765
 pb	342	0346	4534766
-entry	Grossulariées [Ed. Lefèvre]		
+entry	Grossulariées [Ed. Lefèvre]	0	
 orth	Grossulariées		
-entry	Gros-ventres [Amédée Dechambre]		
+entry	Gros-ventres [Amédée Dechambre]	0	
 orth	Gros-ventres		
-entry	Grothuss (Theodor) [L. Hahn]		
+entry	Grothuss (Theodor) [L. Hahn]	0	
 orth	Grothuss (Theodor)		
-entry	Grottanelli (Stanislao) [L. Hahn]		
+entry	Grottanelli (Stanislao) [L. Hahn]	0	
 orth	Grottanelli (Stanislao)		
-entry	Grottes		
+entry	Grottes	0	
 ref	Paléontologie		
-entry	Cruau [P. Coulier]		
+entry	Cruau [P. Coulier]	1	
 orth	Cruau		
 pb	343	0347	4534767
-entry	Grube (Hermann) [L. Hahn]		
+entry	Grube (Hermann) [L. Hahn]	0	
 orth	Grube (Hermann)		
-entry	Gruber (Ignaz) [L. Hahn]		
+entry	Gruber (Ignaz) [L. Hahn]	1	
 orth	Gruber (Ignaz)		
 pb	344	0348	4534768
-entry	Grue [E. Oustalet]		
+entry	Grue [E. Oustalet]	4	
 orth	Grue		
 pb	345	0349	4534769
 pb	346	0350	4534770
 pb	347	0351	4534771
 pb	348	0352	4534772
-entry	Gruithuisen (Franz Paula von) [L. Hahn]		
+entry	Gruithuisen (Franz Paula von) [L. Hahn]	1	
 orth	Gruithuisen (Franz Paula von)		
 pb	349	0353	4534773
-entry	Gruiwardt (Ferdinand) [L. Hahn]		
+entry	Gruiwardt (Ferdinand) [L. Hahn]	0	
 orth	Gruiwardt (Ferdinand)		
-entry	Grüling (Philipp) [L. Hahn]		
+entry	Grüling (Philipp) [L. Hahn]	1	
 orth	Grüling (Philipp)		
 pb	350	0354	4534774
-entry	Grum-Grzymallo (Konrad) [L. Hahn]		
+entry	Grum-Grzymallo (Konrad) [L. Hahn]	0	
 orth	Grum-Grzymallo (Konrad)		
-entry	Grünberg (Leo-Raphaelowicz) [L. Hahn]		
+entry	Grünberg (Leo-Raphaelowicz) [L. Hahn]	0	
 orth	Grünberg (Leo-Raphaelowicz)		
-entry	Grundelia		
+entry	Grundelia	0	
 ref	Grindelia		
-entry	Gründer (J.-W.-Ludwig) [L. Hahn]		
+entry	Gründer (J.-W.-Ludwig) [L. Hahn]	1	
 orth	Gründer (J.-W.-Ludwig)		
 pb	351	0355	4534775
-entry	Gründler (Andreas) [L. Hahn]		
+entry	Gründler (Andreas) [L. Hahn]	0	
 orth	Gründler (Andreas)		
-entry	Grundmann (Johann-Gottlieb) [L. Hahn]		
+entry	Grundmann (Johann-Gottlieb) [L. Hahn]	0	
 orth	Grundmann (Johann-Gottlieb)		
-entry	Gruner (Christian-Gottfried) [L. Hahn]		
+entry	Gruner (Christian-Gottfried) [L. Hahn]	3	
 orth	Gruner (Christian-Gottfried)		
 pb	352	0356	4534776
 pb	353	0357	4534777
 pb	354	0358	4534778
-entry	Grünpeck von Burghausen (Joseph) [L. Hahn]		
+entry	Grünpeck von Burghausen (Joseph) [L. Hahn]	1	
 orth	Grünpeck von Burghausen (Joseph)		
 pb	355	0359	4534779
-entry	Grünwald (Friedrich-Emmanuel) [L. Hahn]		
+entry	Grünwald (Friedrich-Emmanuel) [L. Hahn]	0	
 orth	Grünwald (Friedrich-Emmanuel)		
-entry	Grunwaldt (Franz-Josef) [L. Hahn]		
+entry	Grunwaldt (Franz-Josef) [L. Hahn]	1	
 orth	Grunwaldt (Franz-Josef)		
 pb	356	0360	4534780
-entry	Gruter (Pierre) [L. Hahn]		
+entry	Gruter (Pierre) [L. Hahn]	0	
 orth	Gruter (Pierre)		
-entry	Grypose [Amédée Dechambre]		
+entry	Grypose [Amédée Dechambre]	0	
 orth	Grypose		
-entry	Guabicobaïba [G. Planchon]		
+entry	Guabicobaïba [G. Planchon]	0	
 orth	Guabicobaïba		
-entry	Guabiraba [G. Planchon]		
+entry	Guabiraba [G. Planchon]	0	
 orth	Guabiraba		
-entry	Guacatène [G. Planchon]		
+entry	Guacatène [G. Planchon]	0	
 orth	Guacatène		
-entry	Guacharo [E. Oustalet]		
+entry	Guacharo [E. Oustalet]	2	
 orth	Guacharo		
 pb	357	0361	4534781
 pb	358	0362	4534782
 pb	359	0363	4534783
-entry	Guaco		
-entry	Botanique [G. Planchon]		
+entry	Guaco	0	
+entry	Botanique [G. Planchon]	0	
 orth	Botanique		
-entry	Emploi [Amédée Dechambre]		
+entry	Emploi [Amédée Dechambre]	0	
 orth	Emploi		
-entry	Guadeloupe [E. Rochefort]		
+entry	Guadeloupe [E. Rochefort]	39	
 orth	Guadeloupe		
 pb	360	0364	4534784
 pb	361	0365	4534785
@@ -525,52 +525,52 @@ pb	395	0399	4534819
 pb	396	0400	4534820
 pb	397	0401	4534821
 pb	398	0402	4534822
-entry	Guagno ou Saint-Antoine de Guagno (Eaux minérales de) [A. Rotureau]		
+entry	Guagno ou Saint-Antoine de Guagno (Eaux minérales de) [A. Rotureau]	4	
 orth	Guagno ou Saint-Antoine de Guagno (Eaux minérales de)		
 pb	399	0403	4534823
 pb	400	0404	4534824
 pb	401	0405	4534825
 pb	402	0406	4534826
-entry	Guaguasi [Bazile Féris]		
+entry	Guaguasi [Bazile Féris]	0	
 orth	Guaguasi		
-entry	Guaiaba [G. Planchon]		
+entry	Guaiaba [G. Planchon]	0	
 orth	Guaiaba		
-entry	Guaiabara [G. Planchon]		
+entry	Guaiabara [G. Planchon]	0	
 orth	Guaiabara		
 pb	403	0407	4534827
-entry	Guaibipocaiba [Ed. Lefèvre]		
+entry	Guaibipocaiba [Ed. Lefèvre]	0	
 orth	Guaibipocaiba		
-entry	Guaiac		
+entry	Guaiac	0	
 ref	Gaïac		
-entry	Guajacum		
+entry	Guajacum	0	
 ref	Gaïac		
-entry	Guainerio (Antonio) [A. Chéreau, L. Hahn]		
+entry	Guainerio (Antonio) [A. Chéreau, L. Hahn]	0	
 orth	Guainerio (Antonio)		
-entry	Gualtieri (Nicola) [L. Hahn]		
+entry	Gualtieri (Nicola) [L. Hahn]	1	
 orth	Gualtieri (Nicola)		
 pb	404	0408	4534828
-entry	Guanas (Les) [Amédée Dechambre]		
+entry	Guanas (Les) [Amédée Dechambre]	0	
 orth	Guanas (Les)		
-entry	Guanidine [E. Willm]		
+entry	Guanidine [E. Willm]	1	
 orth	Guanidine		
 pb	405	0409	4534829
-entry	Guanine [Ed. Willm]		
+entry	Guanine [Ed. Willm]	2	
 orth	Guanine		
 pb	406	0410	4534830
 pb	407	0411	4534831
-entry	Guano		
-entry	Guano. Chimie [E. Willm]		
+entry	Guano	0	
+entry	Guano. Chimie [E. Willm]	1	
 orth	Guano. Chimie		
 pb	408	0412	4534832
-entry	Emploi médical [Amédée Dechambre]		
+entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
-entry	Guapeba [G. Planchon]		
+entry	Guapeba [G. Planchon]	0	
 orth	Guapeba		
-entry	Guarana		
-entry	Guarana. Botanique [H. Baillon]		
+entry	Guarana	0	
+entry	Guarana. Botanique [H. Baillon]	1	
 orth	Guarana. Botanique		
 pb	409	0413	4534833
-entry	Emploi [Bazile Féris]		
+entry	Emploi [Bazile Féris]	6	
 orth	Emploi		
 pb	410	0414	4534834
 pb	411	0415	4534835
@@ -578,69 +578,69 @@ pb	412	0416	4534836
 pb	413	0417	4534837
 pb	414	0418	4534838
 pb	415	0419	4534839
-entry	Guaranhem [G. Planchon]		
+entry	Guaranhem [G. Planchon]	0	
 orth	Guaranhem		
-entry	Guaranis		
+entry	Guaranis	0	
 ref	Amérique		
-entry	Guaraquymia [G. Planchon]		
+entry	Guaraquymia [G. Planchon]	0	
 orth	Guaraquymia		
-entry	Guarea (L.) [H. Baillon]		
+entry	Guarea (L.) [H. Baillon]	1	
 orth	Guarea (L.)		
 pb	416	0420	4534840
-entry	Guarinone (Christophe) [A. Dureau]		
+entry	Guarinone (Christophe) [A. Dureau]	0	
 orth	Guarinone (Christophe)		
 pb	417	0421	4534841
-entry	Guarinonius (Hippolitus) [L. Hahn]		
+entry	Guarinonius (Hippolitus) [L. Hahn]	0	
 orth	Guarinonius (Hippolitus)		
-entry	Guastavini ou Guastavigno (Giulio) [L. Hahn]		
+entry	Guastavini ou Guastavigno (Giulio) [L. Hahn]	0	
 orth	Guastavini ou Guastavigno (Giulio)		
-entry	Guatémala		
+entry	Guatémala	0	
 ref	Centre Amérique		
-entry	Guattani (Carlo) [A. Dureau]		
+entry	Guattani (Carlo) [A. Dureau]	1	
 orth	Guattani (Carlo)		
 pb	418	0422	4534842
-entry	Guazuma		
-entry	Botanique [H. Baillon]		
+entry	Guazuma	0	
+entry	Botanique [H. Baillon]	0	
 orth	Botanique		
-entry	Guazuma. Emploi [Bazile Féris]		
+entry	Guazuma. Emploi [Bazile Féris]	1	
 orth	Guazuma. Emploi		
 pb	419	0423	4534843
 pb	420	0424	4534844
-entry	Gubian (Louis) [L. Hahn]		
+entry	Gubian (Louis) [L. Hahn]	0	
 orth	Gubian (Louis)		
-entry	Gubler (Adolphe) [L. Hahn]		
+entry	Gubler (Adolphe) [L. Hahn]	2	
 orth	Gubler (Adolphe)		
 pb	421	0425	4534845
 pb	422	0426	4534846
-entry	Guckenberger (Ludolf) [L. Hahn]		
+entry	Guckenberger (Ludolf) [L. Hahn]	0	
 orth	Guckenberger (Ludolf)		
-entry	Gudiel (Geronimo) [L. Hahn]		
+entry	Gudiel (Geronimo) [L. Hahn]	0	
 orth	Gudiel (Geronimo)		
-entry	Guèbres ou Ghebers		
+entry	Guèbres ou Ghebers	0	
 ref	Parsis		
 pb	423	0427	4534847
-entry	Guède [G. Planchon]		
+entry	Guède [G. Planchon]	0	
 orth	Guède		
-entry	Guègues (Les)		
+entry	Guègues (Les)	0	
 ref	Albanie		
-entry	Guénault (Les trois) [A. Chéreau]		
+entry	Guénault (Les trois) [A. Chéreau]	1	
 orth	Guénault (Les trois)		
 pb	424	0428	4534848
-entry	Guéneau de Montbéliard (Philibert) [L. Hahn]		
+entry	Guéneau de Montbéliard (Philibert) [L. Hahn]	0	
 orth	Guéneau de Montbéliard (Philibert)		
-entry	Guéneau de Mussy (François) [A. Chéreau]		
+entry	Guéneau de Mussy (François) [A. Chéreau]	1	
 orth	Guéneau de Mussy (François)		
 pb	425	0429	4534849
-entry	Guéneau de Mussy (Noël-François-Odon) [L. Hahn]		
+entry	Guéneau de Mussy (Noël-François-Odon) [L. Hahn]	1	
 orth	Guéneau de Mussy (Noël-François-Odon)		
 pb	426	0430	4534850
-entry	Guenon [E. Oustalet]		
+entry	Guenon [E. Oustalet]	0	
 orth	Guenon		
-entry	Guépard [E. Oustalet]		
+entry	Guépard [E. Oustalet]	2	
 orth	Guépard		
 pb	427	0431	4534851
 pb	428	0432	4534852
-entry	Guêpe [A. Laboulbène]		
+entry	Guêpe [A. Laboulbène]	6	
 orth	Guêpe		
 pb	429	0433	4534853
 pb	430	0434	4534854
@@ -648,187 +648,187 @@ pb	431	0435	4534855
 pb	432	0436	4534856
 pb	433	0437	4534857
 pb	434	0438	4534858
-entry	Guêpier [E. Oustalet]		
+entry	Guêpier [E. Oustalet]	3	
 orth	Guêpier		
 pb	435	0439	4534859
 pb	436	0440	4534860
 pb	437	0441	4534861
-entry	Guépin (Ange) [A. Chéreau]		
+entry	Guépin (Ange) [A. Chéreau]	1	
 orth	Guépin (Ange)		
 pb	438	0442	4534862
-entry	Guépratte (Alphonse-Pierre-Prosper) [L. Hahn]		
+entry	Guépratte (Alphonse-Pierre-Prosper) [L. Hahn]	1	
 orth	Guépratte (Alphonse-Pierre-Prosper)		
 pb	439	0443	4534863
-entry	Guerard (Bernard) [L. Hahn]		
+entry	Guerard (Bernard) [L. Hahn]	0	
 orth	Guerard (Bernard)		
-entry	Guérard (Alphonse) [L. Hahn]		
+entry	Guérard (Alphonse) [L. Hahn]	1	
 orth	Guérard (Alphonse)		
 pb	440	0444	4534864
-entry	Guerbois (Denis-François-Noël) [A. Chéreau]		
+entry	Guerbois (Denis-François-Noël) [A. Chéreau]	1	
 orth	Guerbois (Denis-François-Noël)		
 pb	441	0445	4534865
-entry	Guericke (Les deux) [L. Hahn]		
+entry	Guericke (Les deux) [L. Hahn]	1	
 orth	Guericke (Les deux)		
 pb	442	0446	4534866
-entry	Guérin (Les) [A. Chéreau]		
+entry	Guérin (Les) [A. Chéreau]	2	
 orth	Guérin (Les)		
 pb	443	0447	4534867
 pb	444	0448	4534868
-entry	Guérin-Méneville (Félix-Édouard) [L. Hahn]		
+entry	Guérin-Méneville (Félix-Édouard) [L. Hahn]	0	
 orth	Guérin-Méneville (Félix-Édouard)		
-entry	Guérit-tout [L. Planchon]		
+entry	Guérit-tout [L. Planchon]	0	
 orth	Guérit-tout		
-entry	Guernesey (Ile de) [A. Rotureau]		
+entry	Guernesey (Ile de) [A. Rotureau]	1	
 orth	Guernesey (Ile de)		
 pb	445	0449	4534869
 pb	446	0450	4534870
-entry	Guersent (Les deux) [A. Chéreau]		
+entry	Guersent (Les deux) [A. Chéreau]	1	
 orth	Guersent (Les deux)		
 pb	447	0451	4534871
-entry	Guêtres [Amédée Dechambre]		
+entry	Guêtres [Amédée Dechambre]	0	
 orth	Guêtres		
-entry	Guettard (Jean-Étienne) [L. Hahn]		
+entry	Guettard (Jean-Étienne) [L. Hahn]	1	
 orth	Guettard (Jean-Étienne)		
 pb	448	0452	4534872
-entry	Gueule de lion, Gueule de loup [G. Planchon]		
+entry	Gueule de lion, Gueule de loup [G. Planchon]	0	
 orth	Gueule de lion, Gueule de loup		
-entry	Gueule noire [G. Planchon]		
+entry	Gueule noire [G. Planchon]	0	
 orth	Gueule noire		
-entry	Guevara (Alfonso-Rodriguez de) [L. Hahn]		
+entry	Guevara (Alfonso-Rodriguez de) [L. Hahn]	1	
 orth	Guevara (Alfonso-Rodriguez de)		
 pb	449	0453	4534873
-entry	Guggenbühl (J.) [L. Hahn]		
+entry	Guggenbühl (J.) [L. Hahn]	0	
 orth	Guggenbühl (J.)		
-entry	Guglielmini (Domenico) [A. Dureau]		
+entry	Guglielmini (Domenico) [A. Dureau]	1	
 orth	Guglielmini (Domenico)		
 pb	450	0454	4534874
-entry	Gugul, Gogul, Gugulu, Gugula [H. Baillon]		
+entry	Gugul, Gogul, Gugulu, Gugula [H. Baillon]	0	
 orth	Gugul, Gogul, Gugulu, Gugula		
-entry	Gui ou Guy [Ed. Lefèvre]		
+entry	Gui ou Guy [Ed. Lefèvre]	3	
 orth	Gui ou Guy		
 pb	451	0455	4534875
 pb	452	0456	4534876
 pb	453	0457	4534877
-entry	Guiandam [G. Planchon]		
+entry	Guiandam [G. Planchon]	0	
 orth	Guiandam		
-entry	Guiart (Dominique-Louis) [L. Hahn]		
+entry	Guiart (Dominique-Louis) [L. Hahn]	0	
 orth	Guiart (Dominique-Louis)		
-entry	Guiaud (Jacques-Marie-Étienne) [L. Hahn]		
+entry	Guiaud (Jacques-Marie-Étienne) [L. Hahn]	0	
 orth	Guiaud (Jacques-Marie-Étienne)		
 pb	454	0458	4534878
-entry	Guibelet (Jourdain) [L. Hahn]		
+entry	Guibelet (Jourdain) [L. Hahn]	0	
 orth	Guibelet (Jourdain)		
-entry	Guibert (Jean-Baptiste-Louis-Melchior) [A. Chéreau]		
+entry	Guibert (Jean-Baptiste-Louis-Melchior) [A. Chéreau]	0	
 orth	Guibert (Jean-Baptiste-Louis-Melchior)		
-entry	Guibert (Nicolas) [L. Hahn]		
+entry	Guibert (Nicolas) [L. Hahn]	1	
 orth	Guibert (Nicolas)		
 pb	455	0459	4534879
-entry	Guibert de Celsoy [A. Chéreau]		
+entry	Guibert de Celsoy [A. Chéreau]	1	
 orth	Guibert de Celsoy		
 pb	456	0460	4534880
-entry	Guiberts (Les)		
+entry	Guiberts (Les)	0	
 ref	Les Guiberts (Eaux minérales de)		
-entry	Guibourt (Nicolas-Jean-Baptiste-Gaston) [A. Chéreau]		
+entry	Guibourt (Nicolas-Jean-Baptiste-Gaston) [A. Chéreau]	1	
 orth	Guibourt (Nicolas-Jean-Baptiste-Gaston)		
 pb	457	0461	4534881
-entry	Guibourtia [H. Baillon]		
+entry	Guibourtia [H. Baillon]	0	
 orth	Guibourtia		
-entry	Guide (Philippe) [L. Hahn]		
+entry	Guide (Philippe) [L. Hahn]	0	
 orth	Guide (Philippe)		
-entry	Guidetti (Giovanni-Tommaso) [A. Dureau]		
+entry	Guidetti (Giovanni-Tommaso) [A. Dureau]	0	
 orth	Guidetti (Giovanni-Tommaso)		
-entry	Guidi (Guido) [L. Hahn]		
+entry	Guidi (Guido) [L. Hahn]	2	
 orth	Guidi (Guido)		
 pb	458	0462	4534882
 pb	459	0463	4534883
-entry	Guidot ou Guidott (Thomas) [L. Hahn]		
+entry	Guidot ou Guidott (Thomas) [L. Hahn]	0	
 orth	Guidot ou Guidott (Thomas)		
-entry	Guieticoroja [G. Planchon]		
+entry	Guieticoroja [G. Planchon]	0	
 orth	Guieticoroja		
-entry	Guigne		
+entry	Guigne	0	
 ref	Cerisier		
-entry	Guilandina [H. Baillon]		
+entry	Guilandina [H. Baillon]	0	
 orth	Guilandina		
-entry	Guilandinus ou Guilandini (Melchior) [L. Hahn]		
+entry	Guilandinus ou Guilandini (Melchior) [L. Hahn]	1	
 orth	Guilandinus ou Guilandini (Melchior)		
 pb	459	0464	4534884
-entry	Guilbert (Les deux) [A. Chéreau]		
+entry	Guilbert (Les deux) [A. Chéreau]	1	
 orth	Guilbert (Les deux)		
 pb	461	0465	4534885
-entry	Guillard (Jean-Claude-Achille) [L. Hahn]		
+entry	Guillard (Jean-Claude-Achille) [L. Hahn]	1	
 orth	Guillard (Jean-Claude-Achille)		
 pb	462	0466	4534886
-entry	Guillaume d'Aurillac [A. Chéreau]		
+entry	Guillaume d'Aurillac [A. Chéreau]	0	
 orth	Guillaume d'Aurillac		
 pb	463	0467	4534887
-entry	Guillaume de Bresse [L. Hahn]		
+entry	Guillaume de Bresse [L. Hahn]	0	
 orth	Guillaume de Bresse		
-entry	Guillaume de Saliceto		
+entry	Guillaume de Saliceto	0	
 ref	Saliceto		
-entry	Guillaume de Varignana		
+entry	Guillaume de Varignana	0	
 ref	Varignana		
-entry	Guillaumet (Tannegui) [L. Hahn]		
+entry	Guillaumet (Tannegui) [L. Hahn]	1	
 orth	Guillaumet (Tannegui)		
 pb	464	0468	4534888
-entry	Guillemeau (Les) [A. Chéreau]		
+entry	Guillemeau (Les) [A. Chéreau]	3	
 orth	Guillemeau (Les)		
 pb	465	0469	4534889
 pb	466	0470	4534890
 pb	467	0471	4534891
-entry	Guillemin (Jean-Antoine) [L. Hahn]		
+entry	Guillemin (Jean-Antoine) [L. Hahn]	0	
 orth	Guillemin (Jean-Antoine)		
-entry	Guillemot [E. Oustalet]		
+entry	Guillemot [E. Oustalet]	4	
 orth	Guillemot		
 pb	468	0472	4534892
 pb	469	0473	4534893
 pb	470	0474	4534894
 pb	471	0475	4534895
-entry	Guillen (Les deux) [L. Hahn]		
+entry	Guillen (Les deux) [L. Hahn]	0	
 orth	Guillen (Les deux)		
 pb	472	0476	4534896
-entry	Guillié (Sébastien) [L. Hahn]		
+entry	Guillié (Sébastien) [L. Hahn]	0	
 orth	Guillié (Sébastien)		
-entry	Guilliermond [L. Hahn]		
+entry	Guilliermond [L. Hahn]	0	
 orth	Guilliermond		
-entry	Guillon (François-Gabriel) [A. Dureau]		
+entry	Guillon (François-Gabriel) [A. Dureau]	1	
 orth	Guillon (François-Gabriel)		
 pb	473	0477	4534897
-entry	Guillon (Eau minérale, établissement hydrothérapique, cure de petit-lait de) [A. Rotureau]		
+entry	Guillon (Eau minérale, établissement hydrothérapique, cure de petit-lait de) [A. Rotureau]	3	
 orth	Guillon (Eau minérale, établissement hydrothérapique, cure de petit-lait de)		
 pb	474	0478	4534898
 pb	475	0479	4534899
 pb	476	0480	4534900
-entry	Guillot (Natalis) [A. Chéreau]		
+entry	Guillot (Natalis) [A. Chéreau]	1	
 orth	Guillot (Natalis)		
 pb	477	0481	4534901
-entry	Guillotin (Joseph-Ignace) [A. Chéreau]		
+entry	Guillotin (Joseph-Ignace) [A. Chéreau]	2	
 orth	Guillotin (Joseph-Ignace)		
 pb	478	0482	4534902
 pb	479	0483	4534903
-entry	Guillotine		
+entry	Guillotine	0	
 ref	Supplice		
-entry	Guimauve		
-entry	Guimauve. Botanique [G. Planchon]		
+entry	Guimauve	0	
+entry	Guimauve. Botanique [G. Planchon]	1	
 orth	Guimauve. Botanique		
 pb	480	0484	4534904
-entry	Emploi médical [Amédée Dechambre]		
+entry	Emploi médical [Amédée Dechambre]	2	
 orth	Emploi médical		
 pb	481	0485	4534905
 pb	482	0486	4534906
-entry	Guimauve des Indes [G. Planchon]		
+entry	Guimauve des Indes [G. Planchon]	0	
 orth	Guimauve des Indes		
-entry	Guimauve veloutée [G. Planchon]		
+entry	Guimauve veloutée [G. Planchon]	0	
 orth	Guimauve veloutée		
-entry	Guin [G. Planchon]		
+entry	Guin [G. Planchon]	0	
 orth	Guin		
 pb	483	0487	4534907
-entry	Guindant (Toussaint) [L. Hahn]		
+entry	Guindant (Toussaint) [L. Hahn]	0	
 orth	Guindant (Toussaint)		
-entry	Guindoulier [Ed. Lefèvre]		
+entry	Guindoulier [Ed. Lefèvre]	0	
 orth	Guindoulier		
-entry	Guindre (Sel de) [Amédée Dechambre]		
+entry	Guindre (Sel de) [Amédée Dechambre]	0	
 orth	Guindre (Sel de)		
-entry	Guinée [A. Borius]		
+entry	Guinée [A. Borius]	60	
 orth	Guinée		
 pb	484	0488	4534908
 pb	485	0489	4534909
@@ -890,88 +890,88 @@ pb	540	0544	4534964
 pb	541	0545	4534965
 pb	542	0546	4534966
 pb	543	0547	4534967
-entry	Guinée (Nouvelle-)		
+entry	Guinée (Nouvelle-)	0	
 ref	Papouasie		
-entry	Guinguin [G. Planchon]		
+entry	Guinguin [G. Planchon]	0	
 orth	Guinguin		
-entry	Guinna [G. Planchon]		
+entry	Guinna [G. Planchon]	0	
 orth	Guinna		
-entry	Guiot (Daniel) [A. Chéreau]		
+entry	Guiot (Daniel) [A. Chéreau]	0	
 orth	Guiot (Daniel)		
-entry	Guisard (Pierre) [L. Hahn]		
+entry	Guisard (Pierre) [L. Hahn]	1	
 orth	Guisard (Pierre)		
 pb	544	0548	4534968
-entry	Guislain (Joseph) [L. Hahn]		
+entry	Guislain (Joseph) [L. Hahn]	1	
 orth	Guislain (Joseph)		
 pb	545	0549	4534969
-entry	Guitard (J.-F.) [L. Hahn]		
+entry	Guitard (J.-F.) [L. Hahn]	0	
 orth	Guitard (J.-F.)		
-entry	Guitera (Eau minérale de) [A. Rotureau]		
+entry	Guitera (Eau minérale de) [A. Rotureau]	1	
 orth	Guitera (Eau minérale de)		
 pb	546	0550	4534970
-entry	Guizotia [G. Planchon]		
+entry	Guizotia [G. Planchon]	0	
 orth	Guizotia		
-entry	Gujpipul [Amédée Dechambre]		
+entry	Gujpipul [Amédée Dechambre]	0	
 orth	Gujpipul		
-entry	Gul-i-pista [Amédée Dechambre]		
+entry	Gul-i-pista [Amédée Dechambre]	0	
 orth	Gul-i-pista		
-entry	Guldbrand (Jean-Guillaume) [L. Hahn]		
+entry	Guldbrand (Jean-Guillaume) [L. Hahn]	1	
 orth	Guldbrand (Jean-Guillaume)		
 pb	547	0551	4534971
-entry	Guldener de Lobes (Edmond-Vincent) [L. Hahn]		
+entry	Guldener de Lobes (Edmond-Vincent) [L. Hahn]	0	
 orth	Guldener de Lobes (Edmond-Vincent)		
-entry	Güldenstädt (Anton-Johann) [L. Hahn]		
+entry	Güldenstädt (Anton-Johann) [L. Hahn]	0	
 orth	Güldenstädt (Anton-Johann)		
-entry	Gulliver (George) [L. Hahn]		
+entry	Gulliver (George) [L. Hahn]	1	
 orth	Gulliver (George)		
 pb	548	0552	4534972
-entry	Gully (James-Manby) [L. Hahn]		
+entry	Gully (James-Manby) [L. Hahn]	0	
 orth	Gully (James-Manby)		
 pb	549	0553	4534973
-entry	Gummi [G. Planchon]		
+entry	Gummi [G. Planchon]	0	
 orth	Gummi		
-entry	Gummique (Acide) [L. Hahn]		
+entry	Gummique (Acide) [L. Hahn]	0	
 orth	Gummique (Acide)		
-entry	Gumpert (Les) [L. Hahn]		
+entry	Gumpert (Les) [L. Hahn]	0	
 orth	Gumpert (Les)		
-entry	Gumprecht (Les) [L. Hahn]		
+entry	Gumprecht (Les) [L. Hahn]	1	
 orth	Gumprecht (Les)		
 pb	550	0554	4534974
-entry	Gunâkara [G. Liétard]		
+entry	Gunâkara [G. Liétard]	0	
 orth	Gunâkara		
-entry	Gunda Biroza [Amédée Dechambre]		
+entry	Gunda Biroza [Amédée Dechambre]	0	
 orth	Gunda Biroza		
-entry	Gundelsheimer (Andreas von) [L. Hahn]		
+entry	Gundelsheimer (Andreas von) [L. Hahn]	0	
 orth	Gundelsheimer (Andreas von)		
-entry	Gunjha, Ganja, Ganjika [G. Planchon]		
+entry	Gunjha, Ganja, Ganjika [G. Planchon]	0	
 orth	Gunjha, Ganja, Ganjika		
-entry	Gunnera		
+entry	Gunnera	0	
 ref	Gunnère		
 pb	551	0555	4534975
-entry	Gunnère [H. Baillon]		
+entry	Gunnère [H. Baillon]	0	
 orth	Gunnère		
-entry	Günsburg (Friedrich) [L. Hahn]		
+entry	Günsburg (Friedrich) [L. Hahn]	1	
 orth	Günsburg (Friedrich)		
 pb	552	0556	4534976
-entry	Günther ou Gunther (Les) [L. Hahn]		
+entry	Günther ou Gunther (Les) [L. Hahn]	4	
 orth	Günther ou Gunther (Les)		
 pb	553	0557	4534977
 pb	554	0558	4534978
 pb	555	0559	4534979
 pb	556	0560	4534980
-entry	Gunti Parnighia [G. Planchon]		
+entry	Gunti Parnighia [G. Planchon]	0	
 orth	Gunti Parnighia		
-entry	Güntner (Franz-Xavier, Ritter von) [L. Hahn]		
+entry	Güntner (Franz-Xavier, Ritter von) [L. Hahn]	1	
 orth	Güntner (Franz-Xavier, Ritter von)		
 pb	557	0561	4534981
-entry	Günz ou Güntz (Les) [L. Hahn]		
+entry	Günz ou Güntz (Les) [L. Hahn]	1	
 orth	Günz ou Güntz (Les)		
 pb	558	0562	4534982
-entry	Gurgitello (Eau minérale de)		
+entry	Gurgitello (Eau minérale de)	0	
 ref	Casamicciola d'Ischia		
-entry	Gurgunique (Acide) [L. Hahn]		
+entry	Gurgunique (Acide) [L. Hahn]	0	
 orth	Gurgunique (Acide)		
-entry	Gurjun [Bazile Féris]		
+entry	Gurjun [Bazile Féris]	6	
 orth	Gurjun		
 pb	559	0563	4534983
 pb	560	0564	4534984
@@ -979,19 +979,19 @@ pb	561	0565	4534985
 pb	562	0566	4534986
 pb	563	0567	4534987
 pb	564	0568	4534988
-entry	Gurlt (Ernst-Friedrich) [L. Hahn]		
+entry	Gurlt (Ernst-Friedrich) [L. Hahn]	1	
 orth	Gurlt (Ernst-Friedrich)		
 pb	565	0569	4534989
-entry	Gurnigel (Eaux minérales et cure de petit-lait de) [A. Rotureau]		
+entry	Gurnigel (Eaux minérales et cure de petit-lait de) [A. Rotureau]	4	
 orth	Gurnigel (Eaux minérales et cure de petit-lait de)		
 pb	566	0570	4534990
 pb	567	0571	4534991
 pb	568	0572	4534992
 pb	569	0573	4534993
-entry	Gusserow (Carl-August) [L. Hahn]		
+entry	Gusserow (Carl-August) [L. Hahn]	0	
 orth	Gusserow (Carl-August)		
-entry	Gustation		
-entry	Gustation. Anatomie [Alfred Pousson]		
+entry	Gustation	0	
+entry	Gustation. Anatomie [Alfred Pousson]	11	
 orth	Gustation. Anatomie		
 pb	570	0574	4534994
 pb	571	0575	4534995
@@ -1004,7 +1004,7 @@ pb	577	0581	4535001
 pb	578	0582	4535002
 pb	579	0583	4535003
 pb	580	0584	4535004
-entry	Gustation. Physiologie [Eugène Gley]		
+entry	Gustation. Physiologie [Eugène Gley]	73	
 orth	Gustation. Physiologie		
 pb	581	0585	4535005
 pb	582	0586	4535006
@@ -1079,41 +1079,41 @@ pb	650	0654	4535074
 pb	651	0655	4535075
 pb	652	0656	4535076
 pb	653	0657	4535077
-entry	Gutberlet (Les deux) [L. Hahn]		
+entry	Gutberlet (Les deux) [L. Hahn]	1	
 orth	Gutberlet (Les deux)		
 pb	654	0658	4535078
-entry	Gutermann (Georg-Friedrich) [L. Hahn]		
+entry	Gutermann (Georg-Friedrich) [L. Hahn]	0	
 orth	Gutermann (Georg-Friedrich)		
-entry	Gutfeld (Friedrich-Augustin-Philipp) [L. Hahn]		
+entry	Gutfeld (Friedrich-Augustin-Philipp) [L. Hahn]	1	
 orth	Gutfeld (Friedrich-Augustin-Philipp)		
 pb	655	0659	4535079
-entry	Guthrie (Les) [L. Hahn]		
+entry	Guthrie (Les) [L. Hahn]	1	
 orth	Guthrie (Les)		
 pb	656	0660	4535080
-entry	Guthrie (Muscle)		
-entry	Guttierrez (Les deux) [L. Hahn]		
+entry	Guthrie (Muscle)	0	
+entry	Guttierrez (Les deux) [L. Hahn]	1	
 orth	Guttierrez (Les deux)		
 pb	657	0661	4535081
-entry	Gutta-percha		
-entry	Gutta-percha. Botanique [H. Baillon]		
+entry	Gutta-percha	0	
+entry	Gutta-percha. Botanique [H. Baillon]	4	
 orth	Gutta-percha. Botanique		
 pb	658	0662	4535082
 pb	659	0663	4535083
 pb	660	0664	4535084
 pb	661	0665	4535085
-entry	Gutta-percha. Emploi en chirurgie [J. Chauvel]		
+entry	Gutta-percha. Emploi en chirurgie [J. Chauvel]	5	
 orth	Gutta-percha. Emploi en chirurgie		
 pb	662	0666	4535086
 pb	663	0667	4535087
 pb	664	0668	4535088
 pb	665	0669	4535089
 pb	666	0670	4535090
-entry	Gutta Rosacéa		
+entry	Gutta Rosacéa	0	
 ref	Acné		
 ref	Couperose		
-entry	Gutte (Gomme)		
+entry	Gutte (Gomme)	0	
 ref	Gomme-gutte		
-entry	Guttiers [H. Baillon, L. Pierre]		
+entry	Guttiers [H. Baillon, L. Pierre]	8	
 orth	Guttiers		
 pb	667	0671	4535091
 pb	668	0672	4535092
@@ -1123,23 +1123,23 @@ pb	671	0675	4535095
 pb	672	0676	4535096
 pb	673	0677	4535097
 pb	674	0678	4535098
-entry	Guttifères [H. Baillon]		
+entry	Guttifères [H. Baillon]	2	
 orth	Guttifères		
 pb	675	0679	4535099
 pb	676	0680	4535100
-entry	Gutzeit (Hugo-Leonard von) [L. Hahn]		
+entry	Gutzeit (Hugo-Leonard von) [L. Hahn]	0	
 orth	Gutzeit (Hugo-Leonard von)		
-entry	Guy de Chauliac (Guido de Cauliaco) [A. Chéreau]		
+entry	Guy de Chauliac (Guido de Cauliaco) [A. Chéreau]	5	
 orth	Guy de Chauliac (Guido de Cauliaco)		
 pb	677	0681	4535101
 pb	678	0682	4535102
 pb	679	0683	4535103
 pb	680	0684	4535104
 pb	681	0685	4535105
-entry	Guy de Vigevano [A. Chéreau]		
+entry	Guy de Vigevano [A. Chéreau]	1	
 orth	Guy de Vigevano		
 pb	682	0686	4535106
-entry	Guyanes (Les) [Maurel]		
+entry	Guyanes (Les) [Maurel]	101	
 orth	Guyanes (Les)		
 pb	683	0687	4535107
 pb	684	0688	4535108
@@ -1243,38 +1243,38 @@ pb	781	0785	4535205
 pb	782	0786	4535206
 pb	783	0787	4535207
 pb	784	0788	4535208
-entry	Guybert (Philibert) [A. Chéreau]		
+entry	Guybert (Philibert) [A. Chéreau]	0	
 orth	Guybert (Philibert)		
-entry	Guyétant (Les deux) [A. Chéreau]		
+entry	Guyétant (Les deux) [A. Chéreau]	1	
 orth	Guyétant (Les deux)		
 pb	785	0789	4535209
-entry	Guyon (Les) [A. Dureau]		
+entry	Guyon (Les) [A. Dureau]	4	
 orth	Guyon (Les)		
 pb	786	0790	4535210
 pb	787	0791	4535211
 pb	788	0792	4535212
 pb	789	0793	4535213
-entry	Guyongossi a Petteny (Paulus) [L. Hahn]		
+entry	Guyongossi a Petteny (Paulus) [L. Hahn]	0	
 orth	Guyongossi a Petteny (Paulus)		
-entry	Guyot (Jules) [A. Chéreau]		
+entry	Guyot (Jules) [A. Chéreau]	1	
 orth	Guyot (Jules)		
 pb	790	0794	4535214
-entry	Guyton de Morveau (Louis-Bernard) [A. Chéreau]		
+entry	Guyton de Morveau (Louis-Bernard) [A. Chéreau]	2	
 orth	Guyton de Morveau (Louis-Bernard)		
 pb	791	0795	4535215
 pb	792	0796	4535216
-entry	Guzanjabin [Amédée Dechambre]		
+entry	Guzanjabin [Amédée Dechambre]	0	
 orth	Guzanjabin		
-entry	Guzman y Gonzalez (Juan-Geronimo) [L. Hahn]		
+entry	Guzman y Gonzalez (Juan-Geronimo) [L. Hahn]	0	
 orth	Guzman y Gonzalez (Juan-Geronimo)		
-entry	Gwinne (Matthew) [L. Hahn]		
+entry	Gwinne (Matthew) [L. Hahn]	0	
 orth	Gwinne (Matthew)		
-entry	Gyergyai (Arpad) [L. Hahn]		
+entry	Gyergyai (Arpad) [L. Hahn]	1	
 orth	Gyergyai (Arpad)		
 pb	793	0797	4535217
-entry	Gyllenbaal (Leonhard) [L. Hahn]		
+entry	Gyllenbaal (Leonhard) [L. Hahn]	0	
 orth	Gyllenbaal (Leonhard)		
-entry	Gymnastique [E. Dally]		
+entry	Gymnastique [E. Dally]	76	
 orth	Gymnastique		
 pb	794	0798	4535218
 pb	795	0799	4535219
@@ -1352,313 +1352,313 @@ pb	866	0870	4535290
 pb	867	0871	4535291
 pb	868	0872	4535292
 pb	869	0873	4535293
-entry	Gymnema [G. Planchon]		
+entry	Gymnema [G. Planchon]	0	
 orth	Gymnema		
-entry	Gymnoblastes [Ed. Lefèvre]		
+entry	Gymnoblastes [Ed. Lefèvre]	1	
 orth	Gymnoblastes		
 pb	870	0874	4535294
-entry	Gymnobranches [Ed. Lefèvre]		
+entry	Gymnobranches [Ed. Lefèvre]	0	
 orth	Gymnobranches		
-entry	Gymnocladus (Lamk) [H. Baillon]		
+entry	Gymnocladus (Lamk) [H. Baillon]	1	
 orth	Gymnocladus (Lamk)		
 pb	871	0875	4535295
 pb	872	0876	4535296
-entry	Gymnodinida [F. Henneguy]		
+entry	Gymnodinida [F. Henneguy]	0	
 orth	Gymnodinida		
-entry	Gymnodontes [H.-E. Sauvage]		
+entry	Gymnodontes [H.-E. Sauvage]	1	
 orth	Gymnodontes		
 pb	873	0877	4535297
-entry	Gymnomycètes [Ed. Lefèvre]		
+entry	Gymnomycètes [Ed. Lefèvre]	0	
 orth	Gymnomycètes		
-entry	Gymnopus [Ed. Lefèvre]		
+entry	Gymnopus [Ed. Lefèvre]	0	
 orth	Gymnopus		
 pb	874	0878	4535298
-entry	Gymnostromés [Ed. Lefèvre]		
+entry	Gymnostromés [Ed. Lefèvre]	0	
 orth	Gymnostromés		
-entry	Gymnote [H.-E. Sauvage]		
+entry	Gymnote [H.-E. Sauvage]	1	
 orth	Gymnote		
 pb	875	0879	4535299
-entry	Gynandropsis [G. Planchon]		
+entry	Gynandropsis [G. Planchon]	0	
 orth	Gynandropsis		
-entry	Gynécanthe [G. Planchon]		
+entry	Gynécanthe [G. Planchon]	0	
 orth	Gynécanthe		
-entry	Gynécomaste [Amédée Dechambre]		
+entry	Gynécomaste [Amédée Dechambre]	0	
 orth	Gynécomaste		
-entry	Gynocardia		
-entry	Gynocardia. Botanique [H. Baillon]		
+entry	Gynocardia	0	
+entry	Gynocardia. Botanique [H. Baillon]	1	
 orth	Gynocardia. Botanique		
 pb	876	0880	4535300
-entry	Gynocardia. Emploi médical [Bazile Féris]		
+entry	Gynocardia. Emploi médical [Bazile Féris]	2	
 orth	Gynocardia. Emploi médical		
 pb	877	0881	4535301
 pb	878	0882	4535302
-entry	Gypaètes [E. Oustalet]		
+entry	Gypaètes [E. Oustalet]	2	
 orth	Gypaètes		
 pb	879	0883	4535303
 pb	880	0884	4535304
-entry	Gypse		
+entry	Gypse	0	
 ref	Plâtre		
-entry	Gypsophile [G. Planchon]		
+entry	Gypsophile [G. Planchon]	1	
 orth	Gypsophile		
 pb	881	0885	4535305
-entry	Gyrole		
-entry	Cryptog.. Planchon]		
+entry	Gyrole	0	
+entry	Cryptog.. Planchon]	0	
 ref	Chanterelle [G		
-entry	Gyromancie [Amédée Dechambre]		
+entry	Gyromancie [Amédée Dechambre]	0	
 orth	Gyromancie		
-entry	Gyrophora [Ed. Lefèvre]		
+entry	Gyrophora [Ed. Lefèvre]	0	
 orth	Gyrophora		
-entry	Erratum		
-entry	Gras de cadavre [L. Hahn]		
+entry	Erratum	0	
+entry	Gras de cadavre [L. Hahn]	0	
 orth	Gras de cadavre		
 pb	882	0886	4535306
-entry	Addenda		
-entry	Gaal (Gustav von) [L. Hahn]		
+entry	Addenda	0	
+entry	Gaal (Gustav von) [L. Hahn]	0	
 orth	Gaal (Gustav von)		
-entry	Gabillot (Joseph-Damien) [L. Hahn]		
+entry	Gabillot (Joseph-Damien) [L. Hahn]	0	
 orth	Gabillot (Joseph-Damien)		
-entry	Addenda. Gabriel (Benno) [L. Hahn]		
+entry	Addenda. Gabriel (Benno) [L. Hahn]	1	
 orth	Addenda. Gabriel (Benno)		
 pb	883	0887	4535307
-entry	Gaddi (Paolo) [L. Hahn]		
+entry	Gaddi (Paolo) [L. Hahn]	0	
 orth	Gaddi (Paolo)		
-entry	Gadelius (Eric) [L. Hahn]		
+entry	Gadelius (Eric) [L. Hahn]	0	
 orth	Gadelius (Eric)		
-entry	Gadermann (Joseph) [L. Hahn]		
+entry	Gadermann (Joseph) [L. Hahn]	0	
 orth	Gadermann (Joseph)		
-entry	Gahn (Henric) [L. Hahn]		
+entry	Gahn (Henric) [L. Hahn]	0	
 orth	Gahn (Henric)		
-entry	Addenda. Gaillard (Edwin-Samuel) [L. Hahn]		
+entry	Addenda. Gaillard (Edwin-Samuel) [L. Hahn]	1	
 orth	Addenda. Gaillard (Edwin-Samuel)		
 pb	884	0888	4535308
-entry	Gairdner (William) [L. Hahn]		
+entry	Gairdner (William) [L. Hahn]	0	
 orth	Gairdner (William)		
-entry	Galama (Sipke-Jans) [L. Hahn]		
+entry	Galama (Sipke-Jans) [L. Hahn]	0	
 orth	Galama (Sipke-Jans)		
-entry	Galbiati (Gennaro) [L. Hahn]		
+entry	Galbiati (Gennaro) [L. Hahn]	0	
 orth	Galbiati (Gennaro)		
-entry	Galette ou Gallette (Jean-François) [L. Hahn]		
+entry	Galette ou Gallette (Jean-François) [L. Hahn]	0	
 orth	Galette ou Gallette (Jean-François)		
-entry	Addenda. Galezowski (Severin) [L. Hahn]		
+entry	Addenda. Galezowski (Severin) [L. Hahn]	1	
 orth	Addenda. Galezowski (Severin)		
 pb	885	0889	4535309
-entry	Galleen (Olof) [L. Hahn]		
+entry	Galleen (Olof) [L. Hahn]	0	
 orth	Galleen (Olof)		
-entry	Gallini (Stefano) [L. Hahn]		
+entry	Gallini (Stefano) [L. Hahn]	0	
 orth	Gallini (Stefano)		
-entry	Gama (Jean-Pierre) [L. Hahn]		
+entry	Gama (Jean-Pierre) [L. Hahn]	0	
 orth	Gama (Jean-Pierre)		
-entry	Gamelleira		
+entry	Gamelleira	0	
 ref	Doliaria		
-entry	Gandolfi (Giovanni) [L. Hahn]		
+entry	Gandolfi (Giovanni) [L. Hahn]	0	
 orth	Gandolfi (Giovanni)		
-entry	Addenda. Gasiorowski (Louis) [L. Hahn]		
+entry	Addenda. Gasiorowski (Louis) [L. Hahn]	1	
 orth	Addenda. Gasiorowski (Louis)		
 pb	886	0890	4535310
-entry	Gastroscopie [Amédée Dechambre]		
+entry	Gastroscopie [Amédée Dechambre]	0	
 orth	Gastroscopie		
-entry	Gatscher (F.-P.) [L. Hahn]		
+entry	Gatscher (F.-P.) [L. Hahn]	0	
 orth	Gatscher (F.-P.)		
-entry	Gaubert (Paul-Marie-Léon) [L. Hahn]		
+entry	Gaubert (Paul-Marie-Léon) [L. Hahn]	0	
 orth	Gaubert (Paul-Marie-Léon)		
-entry	Addenda. Gay (John) [L. Hahn]		
+entry	Addenda. Gay (John) [L. Hahn]	1	
 orth	Addenda. Gay (John)		
 pb	887	0891	4535311
-entry	Gayer (Edward-J.) [L. Hahn]		
+entry	Gayer (Edward-J.) [L. Hahn]	0	
 orth	Gayer (Edward-J.)		
-entry	Gebler (Friedrich-August) [L. Hahn]		
+entry	Gebler (Friedrich-August) [L. Hahn]	0	
 orth	Gebler (Friedrich-August)		
-entry	Addenda. Geddings (Ely) [L. Hahn]		
+entry	Addenda. Geddings (Ely) [L. Hahn]	1	
 orth	Addenda. Geddings (Ely)		
 pb	888	0892	4535312
-entry	Gehewe (Carl-Wilfried) [L. Hahn]		
+entry	Gehewe (Carl-Wilfried) [L. Hahn]	0	
 orth	Gehewe (Carl-Wilfried)		
-entry	Geiger (Malachie ou mieux Malachias [L. Hahn]		
+entry	Geiger (Malachie ou mieux Malachias [L. Hahn]	0	
 orth	Geiger (Malachie ou mieux Malachias		
-entry	Geist (Lorenz) [L. Hahn]		
+entry	Geist (Lorenz) [L. Hahn]	0	
 orth	Geist (Lorenz)		
-entry	Addenda. Gellhorn (Arthur von) [L. Hahn]		
+entry	Addenda. Gellhorn (Arthur von) [L. Hahn]	1	
 orth	Addenda. Gellhorn (Arthur von)		
 pb	889	0893	4535313
-entry	Gerding (Johann-Ulrich) [L. Hahn]		
+entry	Gerding (Johann-Ulrich) [L. Hahn]	0	
 orth	Gerding (Johann-Ulrich)		
-entry	Gerhard (William-W) [L. Hahn]		
+entry	Gerhard (William-W) [L. Hahn]	0	
 orth	Gerhard (William-W)		
-entry	Addenda. Germann (Heinrich-Friedrich) [L. Hahn]		
+entry	Addenda. Germann (Heinrich-Friedrich) [L. Hahn]	1	
 orth	Addenda. Germann (Heinrich-Friedrich)		
 pb	890	0894	4535314
-entry	Geromini (Felice-Giuseppe) [L. Hahn]		
+entry	Geromini (Felice-Giuseppe) [L. Hahn]	0	
 orth	Geromini (Felice-Giuseppe)		
-entry	Gerson (Joseph) [L. Hahn]		
+entry	Gerson (Joseph) [L. Hahn]	0	
 orth	Gerson (Joseph)		
-entry	Gesscher (David van) [L. Hahn]		
+entry	Gesscher (David van) [L. Hahn]	0	
 orth	Gesscher (David van)		
-entry	Geuns (Jan van) [L. Hahn]		
+entry	Geuns (Jan van) [L. Hahn]	0	
 orth	Geuns (Jan van)		
-entry	Giacomini (Giacomo-Andrea) [L. Hahn]		
+entry	Giacomini (Giacomo-Andrea) [L. Hahn]	0	
 orth	Giacomini (Giacomo-Andrea)		
-entry	Addenda. Gianelli (Guiseppe-Luigi) [L. Hahn]		
+entry	Addenda. Gianelli (Guiseppe-Luigi) [L. Hahn]	1	
 orth	Addenda. Gianelli (Guiseppe-Luigi)		
 pb	891	0895	4535315
-entry	Gibson (William) [L. Hahn]		
+entry	Gibson (William) [L. Hahn]	0	
 orth	Gibson (William)		
-entry	Gierse (August) [L. Hahn]		
+entry	Gierse (August) [L. Hahn]	0	
 orth	Gierse (August)		
-entry	Gilchrist (William) [L. Hahn]		
+entry	Gilchrist (William) [L. Hahn]	0	
 orth	Gilchrist (William)		
-entry	Giles		
+entry	Giles	0	
 ref	Gilles		
-entry	Gilewski (Karl) [L. Hahn]		
+entry	Gilewski (Karl) [L. Hahn]	0	
 orth	Gilewski (Karl)		
-entry	Addenda. Gill (Henry-Clifford) [L. Hahn]		
+entry	Addenda. Gill (Henry-Clifford) [L. Hahn]	1	
 orth	Addenda. Gill (Henry-Clifford)		
 pb	892	0896	4535316
-entry	Gilles [L. Hahn]		
+entry	Gilles [L. Hahn]	0	
 orth	Gilles		
-entry	Giovanni di Procida [L. Hahn]		
+entry	Giovanni di Procida [L. Hahn]	0	
 orth	Giovanni di Procida		
-entry	Girdlestone (Thomas) [L. Hahn]		
+entry	Girdlestone (Thomas) [L. Hahn]	0	
 orth	Girdlestone (Thomas)		
-entry	Addenda. Girelli (Giovanni-Francesco) [L. Hahn]		
+entry	Addenda. Girelli (Giovanni-Francesco) [L. Hahn]	1	
 orth	Addenda. Girelli (Giovanni-Francesco)		
 pb	893	0897	4535317
-entry	Girgensohn (Otto-Gottlieb-Leonhard von) [L. Hahn]		
+entry	Girgensohn (Otto-Gottlieb-Leonhard von) [L. Hahn]	0	
 orth	Girgensohn (Otto-Gottlieb-Leonhard von)		
-entry	Girsztowt (Polycarp) [L. Hahn]		
+entry	Girsztowt (Polycarp) [L. Hahn]	0	
 orth	Girsztowt (Polycarp)		
-entry	Gistrén (Jonas-Henric) [L. Hahn]		
+entry	Gistrén (Jonas-Henric) [L. Hahn]	0	
 orth	Gistrén (Jonas-Henric)		
-entry	Gitler (Balthasar) [L. Hahn]		
+entry	Gitler (Balthasar) [L. Hahn]	0	
 orth	Gitler (Balthasar)		
-entry	Gladbach (Johann-Bernhard) [L. Hahn]		
+entry	Gladbach (Johann-Bernhard) [L. Hahn]	0	
 orth	Gladbach (Johann-Bernhard)		
-entry	Addenda. Gladbach (Les) [L. Hahn]		
+entry	Addenda. Gladbach (Les) [L. Hahn]	1	
 orth	Addenda. Gladbach (Les)		
 pb	894	0898	4535318
-entry	Glaeopeltis [Fournier]		
+entry	Glaeopeltis [Fournier]	0	
 orth	Glaeopeltis		
-entry	Glandorp (Mathias-Ludwig) [L. Hahn]		
+entry	Glandorp (Mathias-Ludwig) [L. Hahn]	0	
 orth	Glandorp (Mathias-Ludwig)		
-entry	Glas (Olof) [L. Hahn]		
+entry	Glas (Olof) [L. Hahn]	0	
 orth	Glas (Olof)		
-entry	Glover (Robert-Mortimer) [L. Hahn]		
+entry	Glover (Robert-Mortimer) [L. Hahn]	0	
 orth	Glover (Robert-Mortimer)		
-entry	Addenda. Gobée (Carl) [L. Hahn]		
+entry	Addenda. Gobée (Carl) [L. Hahn]	1	
 orth	Addenda. Gobée (Carl)		
 pb	895	0899	4535319
-entry	Gocklenius ou Goclenius (Rodolph [L. Hahn]		
+entry	Gocklenius ou Goclenius (Rodolph [L. Hahn]	0	
 orth	Gocklenius ou Goclenius (Rodolph		
-entry	Godefroy [Amédée Dechambre]		
+entry	Godefroy [Amédée Dechambre]	0	
 orth	Godefroy		
-entry	Godman (John-D.) [L. Hahn]		
+entry	Godman (John-D.) [L. Hahn]	0	
 orth	Godman (John-D.)		
-entry	Goethals (Aegidius) [L. Hahn]		
+entry	Goethals (Aegidius) [L. Hahn]	0	
 orth	Goethals (Aegidius)		
-entry	Goldschmidt (Johann-Baptista) [L. Hahn]		
+entry	Goldschmidt (Johann-Baptista) [L. Hahn]	0	
 orth	Goldschmidt (Johann-Baptista)		
 pb	896	0900	4535320
-entry	Addenda		
-entry	Gonzalez (Don Pedro-Maria) [L. Hahn]		
+entry	Addenda	0	
+entry	Gonzalez (Don Pedro-Maria) [L. Hahn]	0	
 orth	Gonzalez (Don Pedro-Maria)		
-entry	Gonzalez de Samano (Don Mariano) [L. Hahn]		
+entry	Gonzalez de Samano (Don Mariano) [L. Hahn]	0	
 orth	Gonzalez de Samano (Don Mariano)		
-entry	Gooch (Benjamin) [L. Hahn]		
+entry	Gooch (Benjamin) [L. Hahn]	0	
 orth	Gooch (Benjamin)		
-entry	Gooch (Robert) [L. Hahn]		
+entry	Gooch (Robert) [L. Hahn]	0	
 orth	Gooch (Robert)		
-entry	Goodeve (Henry-Hurry-Iles) [L. Hahn]		
+entry	Goodeve (Henry-Hurry-Iles) [L. Hahn]	0	
 orth	Goodeve (Henry-Hurry-Iles)		
 pb	897	0901	4535321
-entry	Addenda		
-entry	Göppert (Heinrich-Robert) [L. Hahn]		
+entry	Addenda	0	
+entry	Göppert (Heinrich-Robert) [L. Hahn]	0	
 orth	Göppert (Heinrich-Robert)		
-entry	Göricke (Adolph-Wilhelm-Theodor) [L. Hahn]		
+entry	Göricke (Adolph-Wilhelm-Theodor) [L. Hahn]	0	
 orth	Göricke (Adolph-Wilhelm-Theodor)		
-entry	Goris ou Gorris (Gerard) [L. Hahn]		
+entry	Goris ou Gorris (Gerard) [L. Hahn]	0	
 orth	Goris ou Gorris (Gerard)		
-entry	Addenda. Gorter (David de) [L. Hahn]		
+entry	Addenda. Gorter (David de) [L. Hahn]	1	
 orth	Addenda. Gorter (David de)		
 pb	898	0902	4535322
-entry	Götz (A.-F.) [L. Hahn]		
+entry	Götz (A.-F.) [L. Hahn]	0	
 orth	Götz (A.-F.)		
-entry	Goupyl (Jacques) [L. Hahn]		
+entry	Goupyl (Jacques) [L. Hahn]	0	
 orth	Goupyl (Jacques)		
-entry	Gourmelon (Station marine) [A. Rotureau]		
+entry	Gourmelon (Station marine) [A. Rotureau]	0	
 orth	Gourmelon (Station marine)		
-entry	Goyrand (Jean-Gasp.-Blaise) [L. Hahn]		
+entry	Goyrand (Jean-Gasp.-Blaise) [L. Hahn]	0	
 orth	Goyrand (Jean-Gasp.-Blaise)		
-entry	Addenda. Grabau (Johann-Heinrich-Wilhelm) [L. Hahn]		
+entry	Addenda. Grabau (Johann-Heinrich-Wilhelm) [L. Hahn]	1	
 orth	Addenda. Grabau (Johann-Heinrich-Wilhelm)		
 pb	899	0903	4535323
-entry	Graehs (Carl-Gustaf) [L. Hahn]		
+entry	Graehs (Carl-Gustaf) [L. Hahn]	0	
 orth	Graehs (Carl-Gustaf)		
-entry	Gräfe (Eduard-Adolph) [L. Hahn]		
+entry	Gräfe (Eduard-Adolph) [L. Hahn]	0	
 orth	Gräfe (Eduard-Adolph)		
-entry	Graff (Les) [L. Hahn]		
+entry	Graff (Les) [L. Hahn]	0	
 orth	Graff (Les)		
-entry	Grahl (Gustav-Adolph ou Dietrich-Christian) [L. Hahn]		
+entry	Grahl (Gustav-Adolph ou Dietrich-Christian) [L. Hahn]	0	
 orth	Grahl (Gustav-Adolph ou Dietrich-Christian)		
-entry	Addenda. Grambs (Johann-Jacob) [L. Hahn]		
+entry	Addenda. Grambs (Johann-Jacob) [L. Hahn]	1	
 orth	Addenda. Grambs (Johann-Jacob)		
 pb	900	0904	4535324
-entry	Grandidier (Les trois) [L. Hahn]		
+entry	Grandidier (Les trois) [L. Hahn]	0	
 orth	Grandidier (Les trois)		
-entry	Grant (Les) [L. Hahn]		
+entry	Grant (Les) [L. Hahn]	0	
 orth	Grant (Les)		
 pb	901	0905	4535325
-entry	Addenda		
-entry	Granville (Augustin-Bozzi) [L. Hahn]		
+entry	Addenda	0	
+entry	Granville (Augustin-Bozzi) [L. Hahn]	0	
 orth	Granville (Augustin-Bozzi)		
-entry	Gräser (Carl) [L. Hahn]		
+entry	Gräser (Carl) [L. Hahn]	0	
 orth	Gräser (Carl)		
-entry	Grassi (Francesco) [L. Hahn]		
+entry	Grassi (Francesco) [L. Hahn]	0	
 orth	Grassi (Francesco)		
-entry	Addenda. Graux (Pierre-Joseph) [L. Hahn]		
+entry	Addenda. Graux (Pierre-Joseph) [L. Hahn]	1	
 orth	Addenda. Graux (Pierre-Joseph)		
 pb	902	0906	4535326
-entry	Grävell (Friedrich) [L. Hahn]		
+entry	Grävell (Friedrich) [L. Hahn]	0	
 orth	Grävell (Friedrich)		
-entry	Greenhow (Thomas-Michael) [L. Hahn]		
+entry	Greenhow (Thomas-Michael) [L. Hahn]	0	
 orth	Greenhow (Thomas-Michael)		
-entry	Addenda. Gregorius (Friedrich von) [L. Hahn]		
+entry	Addenda. Gregorius (Friedrich von) [L. Hahn]	1	
 orth	Addenda. Gregorius (Friedrich von)		
 pb	903	0907	4535327
-entry	Gregory (George) [L. Hahn]		
+entry	Gregory (George) [L. Hahn]	0	
 orth	Gregory (George)		
-entry	Grenser (Woldemar-Ludwig) [L. Hahn]		
+entry	Grenser (Woldemar-Ludwig) [L. Hahn]	0	
 orth	Grenser (Woldemar-Ludwig)		
-entry	Greve (Wilhelms) [L. Hahn]		
+entry	Greve (Wilhelms) [L. Hahn]	0	
 orth	Greve (Wilhelms)		
 pb	904	0908	4535328
-entry	Addenda		
-entry	Grill (Les) [L. Hahn]		
+entry	Addenda	0	
+entry	Grill (Les) [L. Hahn]	0	
 orth	Grill (Les)		
-entry	Grim (Herman-Niclas) [L. Hahn]		
+entry	Grim (Herman-Niclas) [L. Hahn]	0	
 orth	Grim (Herman-Niclas)		
-entry	Addenda. Grimm (Heinrich-Gottfried) [L. Hahn]		
+entry	Addenda. Grimm (Heinrich-Gottfried) [L. Hahn]	1	
 orth	Addenda. Grimm (Heinrich-Gottfried)		
 pb	905	0909	4535329
-entry	Grimberg (Nicolaus) [L. Hahn]		
+entry	Grimberg (Nicolaus) [L. Hahn]	0	
 orth	Grimberg (Nicolaus)		
-entry	Grimelli (Geminiano) [L. Hahn]		
+entry	Grimelli (Geminiano) [L. Hahn]	0	
 orth	Grimelli (Geminiano)		
-entry	Grindel (David-Hieronymus) [L. Hahn]		
+entry	Grindel (David-Hieronymus) [L. Hahn]	0	
 orth	Grindel (David-Hieronymus)		
-entry	Addenda. Grisaunt (William) [L. Hahn]		
+entry	Addenda. Grisaunt (William) [L. Hahn]	1	
 orth	Addenda. Grisaunt (William)		
 pb	906	0910	4535330
-entry	Grisou (Feu) [Amédée Dechambre]		
+entry	Grisou (Feu) [Amédée Dechambre]	0	
 orth	Grisou (Feu)		
-entry	Gudden (Bernhard von) [L. Hahn]		
+entry	Gudden (Bernhard von) [L. Hahn]	0	
 orth	Gudden (Bernhard von)		
-entry	Addenda. Guérin (Jules-René) [L. Hahn]		
+entry	Addenda. Guérin (Jules-René) [L. Hahn]	2	
 orth	Addenda. Guérin (Jules-René)		
 pb	907	0911	4535331
 pb	908	0912	4535332
-entry	Guy (William-Augustus) [L. Hahn]		
+entry	Guy (William-Augustus) [L. Hahn]	0	
 orth	Guy (William-Augustus)		
 pb	909	0913	4535333
-entry	Articles contenus dans le onzième volume (4e série)		
+entry	Articles contenus dans le onzième volume (4e série)	3	
 pb	910	0914	4535334
 pb	911	0915	4535335
 pb	912	0916	4535336

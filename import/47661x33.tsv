@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	5556719
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556720
 pb	[s. pag.]	0003	421090
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556721
 pb	1	0005	421091
-entry	métabolélogie		
-entry	métacarpe		
+entry	métabolélogie	0	
+entry	métacarpe	8	
 pb	2	0006	421092
 pb	3	0007	421093
 pb	4	0008	421094
@@ -15,22 +15,22 @@ pb	6	0010	421096
 pb	7	0011	421097
 pb	8	0012	421098
 pb	9	0013	421099
-entry	métacarpien		
-entry	métacarpo-phalangien du pouce		
-entry	métacarpo-phalangiens latéraux externes		
+entry	métacarpien	0	
+entry	métacarpo-phalangien du pouce	0	
+entry	métacarpo-phalangiens latéraux externes	1	
 pb	10	0014	421100
-entry	métacarpo-phalangiens latéraux internes		
-entry	métachorèse		
-entry	métal		
+entry	métacarpo-phalangiens latéraux internes	0	
+entry	métachorèse	0	
+entry	métal	5	
 pb	11	0015	421101
 pb	12	0016	421102
 pb	13	0017	421103
 pb	14	0018	421104
 pb	15	0019	421105
-entry	métaptose		
+entry	métaptose	1	
 pb	16	0020	421106
-entry	métaschématisme		
-entry	métastase		
+entry	métaschématisme	0	
+entry	métastase	89	
 pb	17	0021	421107
 pb	18	0022	421108
 pb	19	0023	421109
@@ -120,9 +120,9 @@ pb	102	0106	421192
 pb	103	0107	421193
 pb	104	0108	421194
 pb	105	0109	421195
-entry	métasyncrise		
-entry	métasyncritique		
-entry	métatarse		
+entry	métasyncrise	0	
+entry	métasyncritique	0	
+entry	métatarse	9	
 pb	106	0110	421196
 pb	107	0111	421197
 pb	108	0112	421198
@@ -132,14 +132,14 @@ pb	111	0115	421201
 pb	112	0116	421202
 pb	113	0117	421203
 pb	114	0118	421204
-entry	métatarso-phalangiens latéraux inférieurs		
-entry	métatarso-phalangiens latéraux supérieurs		
-entry	métatarso-sous-phalanginien transversal des orteils		
-entry	métatarso-sous-phalanginien du cinquième orteil		
+entry	métatarso-phalangiens latéraux inférieurs	0	
+entry	métatarso-phalangiens latéraux supérieurs	0	
+entry	métatarso-sous-phalanginien transversal des orteils	0	
+entry	métatarso-sous-phalanginien du cinquième orteil	0	
 pb	115	0119	421205
-entry	métathèse		
-entry	météore		
-entry	météorisme		
+entry	métathèse	0	
+entry	météore	0	
+entry	météorisme	7	
 pb	116	0120	421206
 pb	117	0121	421207
 pb	118	0122	421208
@@ -147,7 +147,7 @@ pb	119	0123	421209
 pb	120	0124	421210
 pb	121	0125	421211
 pb	122	0126	421212
-entry	météorologie		
+entry	météorologie	70	
 pb	123	0127	421213
 pb	124	0128	421214
 pb	125	0129	421215
@@ -219,17 +219,17 @@ pb	190	0194	421280
 pb	191	0195	421281
 pb	192	0196	421282
 pb	[s. pag.]	0197	421283
-entry	considérations sur la correspondance des observations médicales		
+entry	considérations sur la correspondance des observations médicales	0	
 pb	[s. pag.]	0198	421284
-entry	résumé des observations météorologiques		
+entry	résumé des observations météorologiques	0	
 pb	[s. pag.]	0199	421285
-entry	observations météorologiques faites à Paris		
+entry	observations météorologiques faites à Paris	0	
 pb	193	0200	421286
-entry	météorologie		
+entry	météorologie	1	
 pb	194	0201	421287
-entry	météorologique		
+entry	météorologique	1	
 pb	195	0202	421288
-entry	méthode botanique		
+entry	méthode botanique	26	
 pb	196	0203	421289
 pb	197	0204	421290
 pb	198	0205	421291
@@ -256,7 +256,7 @@ pb	218	0225	421311
 pb	219	0226	421312
 pb	220	0227	421313
 pb	221	0228	421314
-entry	méthodique (secte)		
+entry	méthodique (secte)	7	
 pb	222	0229	421315
 pb	223	0230	421316
 pb	224	0231	421317
@@ -264,7 +264,7 @@ pb	225	0232	421318
 pb	226	0233	421319
 pb	227	0234	421320
 pb	228	0235	421321
-entry	méthodologie médicale		
+entry	méthodologie médicale	35	
 pb	229	0236	421322
 pb	230	0237	421323
 pb	231	0238	421324
@@ -300,19 +300,19 @@ pb	260	0267	421353
 pb	261	0268	421354
 pb	262	0269	421355
 pb	263	0270	421356
-entry	métis		
+entry	métis	2	
 pb	264	0271	421357
 pb	265	0272	421358
-entry	métoscopie		
-entry	métose		
+entry	métoscopie	0	
+entry	métose	0	
 pb	266	0273	421359
-entry	métralgie		
+entry	métralgie	1	
 pb	267	0274	421360
 pb	268	0275	421361
-entry	métremphraxis		
-entry	métrenchyte		
+entry	métremphraxis	0	
+entry	métrenchyte	1	
 pb	269	0276	421362
-entry	métrite		
+entry	métrite	25	
 pb	270	0277	421363
 pb	271	0278	421364
 pb	272	0279	421365
@@ -338,8 +338,8 @@ pb	291	0298	421384
 pb	292	0299	421385
 pb	293	0300	421386
 pb	294	0301	421387
-entry	métromanie		
-entry	métrorrhagie		
+entry	métromanie	0	
+entry	métrorrhagie	56	
 pb	295	0302	421388
 pb	296	0303	421389
 pb	297	0304	421390
@@ -396,14 +396,14 @@ pb	347	0354	421440
 pb	348	0355	421441
 pb	349	0356	421442
 pb	350	0357	421443
-entry	méum		
+entry	méum	2	
 pb	351	0358	421444
 pb	352	0359	421445
-entry	meurtrissure		
+entry	meurtrissure	1	
 pb	353	0360	421446
-entry	meynes (eaux minérales de)		
-entry	miasmatique		
-entry	miasme		
+entry	meynes (eaux minérales de)	0	
+entry	miasmatique	0	
+entry	miasme	9	
 pb	354	0361	421447
 pb	355	0362	421448
 pb	356	0363	421449
@@ -413,7 +413,7 @@ pb	359	0366	421452
 pb	360	0367	421453
 pb	361	0368	421454
 pb	362	0369	421455
-entry	microcosme		
+entry	microcosme	7	
 pb	363	0370	421456
 pb	364	0371	421457
 pb	365	0372	421458
@@ -421,24 +421,24 @@ pb	366	0373	421459
 pb	367	0374	421460
 pb	368	0375	421461
 pb	369	0376	421462
-entry	microcoustique		
+entry	microcoustique	1	
 pb	370	0377	421463
-entry	micrographie		
-entry	microphone		
-entry	microphthalmie		
+entry	micrographie	0	
+entry	microphone	0	
+entry	microphthalmie	1	
 pb	371	0378	421464
-entry	microrchide		
-entry	microscope		
+entry	microrchide	0	
+entry	microscope	6	
 pb	372	0379	421465
 pb	373	0380	421466
 pb	374	0381	421467
 pb	375	0382	421468
 pb	376	0383	421469
 pb	377	0384	421470
-entry	microscopiques		
+entry	microscopiques	2	
 pb	378	0385	421471
 pb	379	0386	421472
-entry	miel		
+entry	miel	12	
 pb	380	0387	421473
 pb	381	0388	421474
 pb	382	0389	421475
@@ -451,7 +451,7 @@ pb	388	0395	421481
 pb	389	0396	421482
 pb	390	0397	421483
 pb	391	0398	421484
-entry	migraine		
+entry	migraine	9	
 pb	392	0399	421485
 pb	393	0400	421486
 pb	394	0401	421487
@@ -461,10 +461,10 @@ pb	397	0404	421490
 pb	398	0405	421491
 pb	399	0406	421492
 pb	400	0407	421493
-entry	milieu		
+entry	milieu	2	
 pb	401	0408	421494
 pb	402	0409	421495
-entry	miliaire		
+entry	miliaire	31	
 pb	403	0410	421496
 pb	404	0411	421497
 pb	405	0412	421498
@@ -496,26 +496,26 @@ pb	430	0437	421523
 pb	431	0438	421524
 pb	432	0439	421525
 pb	433	0440	421526
-entry	millefeuille		
+entry	millefeuille	1	
 pb	434	0441	421527
-entry	millet		
-entry	millet (plante)		
+entry	millet	0	
+entry	millet (plante)	2	
 pb	435	0442	421528
 pb	436	0443	421529
-entry	millepertuis		
+entry	millepertuis	3	
 pb	437	0444	421530
 pb	438	0445	421531
 pb	439	0446	421532
-entry	milphose		
+entry	milphose	1	
 pb	440	0447	421533
-entry	minéral		
+entry	minéral	6	
 pb	441	0448	421534
 pb	442	0449	421535
 pb	443	0450	421536
 pb	444	0451	421537
 pb	445	0452	421538
 pb	446	0453	421539
-entry	minérales (eaux)		
+entry	minérales (eaux)	43	
 pb	447	0454	421540
 pb	448	0455	421541
 pb	449	0456	421542
@@ -559,20 +559,20 @@ pb	486	0493	421579
 pb	487	0494	421580
 pb	488	0495	421581
 pb	489	0496	421582
-entry	minium		
+entry	minium	2	
 pb	490	0497	421583
 pb	491	0498	421584
-entry	minoratif		
-entry	minoration		
-entry	mirage		
+entry	minoratif	0	
+entry	minoration	0	
+entry	mirage	3	
 pb	492	0499	421585
 pb	493	0500	421586
 pb	494	0501	421587
-entry	mirebeau (eaux minérales de)		
-entry	mirobolan		
-entry	miroitiers (maladie des)		
+entry	mirebeau (eaux minérales de)	0	
+entry	mirobolan	0	
+entry	miroitiers (maladie des)	1	
 pb	495	0502	421588
-entry	misanthropie		
+entry	misanthropie	7	
 pb	496	0503	421589
 pb	497	0504	421590
 pb	498	0505	421591
@@ -580,26 +580,26 @@ pb	499	0506	421592
 pb	500	0507	421593
 pb	501	0508	421594
 pb	502	0509	421595
-entry	miseréré		
-entry	misogame		
-entry	mithridate		
+entry	miseréré	0	
+entry	misogame	0	
+entry	mithridate	1	
 pb	503	0510	421596
-entry	mitral		
+entry	mitral	1	
 pb	504	0511	421597
-entry	mitre d'hippocrate		
-entry	mitte		
+entry	mitre d'hippocrate	0	
+entry	mitte	2	
 pb	505	0512	421598
 pb	506	0513	421599
-entry	miva		
-entry	mixte		
-entry	mixtion		
+entry	miva	0	
+entry	mixte	0	
+entry	mixtion	3	
 pb	507	0514	421600
 pb	508	0515	421601
 pb	509	0516	421602
-entry	mixture		
+entry	mixture	1	
 pb	510	0517	421603
-entry	mnémonique		
-entry	mobilité		
+entry	mnémonique	0	
+entry	mobilité	18	
 pb	511	0518	421604
 pb	512	0519	421605
 pb	513	0520	421606
@@ -618,14 +618,14 @@ pb	525	0532	421618
 pb	526	0533	421619
 pb	527	0534	421620
 pb	528	0535	421621
-entry	mochlique		
-entry	mode		
+entry	mochlique	0	
+entry	mode	5	
 pb	529	0536	421622
 pb	530	0537	421623
 pb	531	0538	421624
 pb	532	0539	421625
 pb	533	0540	421626
-entry	moelle		
+entry	moelle	35	
 pb	534	0541	421627
 pb	535	0542	421628
 pb	536	0543	421629
@@ -661,7 +661,7 @@ pb	565	0572	421658
 pb	566	0573	421659
 pb	567	0574	421660
 pb	568	0575	421661
-entry	mofette		
-entry	mogilalisme		
+entry	mofette	0	
+entry	mogilalisme	1	
 pb	569	0576	421662
-entry	moiteur		
+entry	moiteur	0	

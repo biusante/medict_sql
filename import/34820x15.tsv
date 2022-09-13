@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	468028
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	468029
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	468030
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	468031
-entry	Hanche		
+entry	Hanche	83	
 pb	2	0005	468032
 pb	3	0006	468033
 pb	4	0007	468034
@@ -89,12 +89,12 @@ pb	81	0084	468111
 pb	82	0085	468112
 pb	83	0086	468113
 pb	84	0087	468114
-entry	Harrogate ou Harrowgate		
+entry	Harrogate ou Harrowgate	2	
 orth	Harrogate		
 orth	Harrowgate		
 pb	85	0088	468115
 pb	86	0089	468116
-entry	Hectique		
+entry	Hectique	7	
 pb	87	0090	468117
 pb	88	0091	468118
 pb	89	0092	468119
@@ -102,7 +102,7 @@ pb	90	0093	468120
 pb	91	0094	468121
 pb	92	0095	468122
 pb	93	0096	468123
-entry	Hellébore ou Ellebore		
+entry	Hellébore ou Ellebore	8	
 orth	Hellébore		
 orth	Ellebore		
 pb	94	0097	468124
@@ -113,18 +113,18 @@ pb	98	0101	468128
 pb	99	0102	468129
 pb	100	0103	468130
 pb	101	0104	468131
-entry	Hematemese		
-entry	Hematocele		
+entry	Hematemese	0	
+entry	Hematocele	0	
 pb	102	0105	468132
-entry	Hematemese		
-entry	Hematocele		
+entry	Hematemese	0	
+entry	Hematocele	0	
 pb	103	0106	468133
-entry	Hematemese		
-entry	Hematocele		
+entry	Hematemese	0	
+entry	Hematocele	0	
 pb	104	0107	468134
-entry	Hematemese		
-entry	Hematocele		
-entry	Hematurie		
+entry	Hematemese	0	
+entry	Hematocele	0	
+entry	Hematurie	10	
 pb	105	0108	468135
 pb	106	0109	468136
 pb	107	0110	468137
@@ -135,7 +135,7 @@ pb	111	0114	468141
 pb	112	0115	468142
 pb	113	0116	468143
 pb	114	0117	468144
-entry	Hemeralopie		
+entry	Hemeralopie	11	
 pb	115	0118	468145
 pb	116	0119	468146
 pb	117	0120	468147
@@ -147,9 +147,9 @@ pb	122	0125	468152
 pb	123	0126	468153
 pb	124	0127	468154
 pb	125	0128	468155
-entry	Hemiopie		
-entry	Hemiplegie		
-entry	Hémoptysie		
+entry	Hemiopie	0	
+entry	Hemiplegie	0	
+entry	Hémoptysie	20	
 pb	126	0129	468156
 pb	127	0130	468157
 pb	128	0131	468158
@@ -170,7 +170,7 @@ pb	142	0145	468172
 pb	143	0146	468173
 pb	144	0147	468174
 pb	145	0148	468175
-entry	Hemorrhagie		
+entry	Hemorrhagie	35	
 pb	146	0149	468176
 pb	147	0150	468177
 pb	148	0151	468178
@@ -206,7 +206,7 @@ pb	177	0180	468207
 pb	178	0181	468208
 pb	179	0182	468209
 pb	180	0183	468210
-entry	Hemorrhoides		
+entry	Hemorrhoides	50	
 pb	181	0184	468211
 pb	182	0185	468212
 pb	183	0186	468213
@@ -257,7 +257,7 @@ pb	227	0230	468257
 pb	228	0231	468258
 pb	229	0232	468259
 pb	230	0233	468260
-entry	Hemostatique		
+entry	Hemostatique	11	
 pb	231	0234	468261
 pb	232	0235	468262
 pb	233	0236	468263
@@ -269,8 +269,8 @@ pb	238	0241	468268
 pb	239	0242	468269
 pb	240	0243	468270
 pb	241	0244	468271
-entry	Hépatite		
-entry	Hermaphrodisme		
+entry	Hépatite	0	
+entry	Hermaphrodisme	26	
 pb	242	0245	468272
 pb	243	0246	468273
 pb	244	0247	468274
@@ -297,7 +297,7 @@ pb	264	0267	468294
 pb	265	0268	468295
 pb	266	0269	468296
 pb	267	0270	468297
-entry	Hernie		
+entry	Hernie	67	
 pb	268	0271	468298
 pb	269	0272	468299
 pb	270	0273	468300
@@ -366,7 +366,7 @@ pb	332	0335	468362
 pb	329 bis	0336	468363
 pb	330 bis	0337	468364
 pb	331 bis	0338	468365
-entry	Herpes		
+entry	Herpes	13	
 pb	332	0339	468366
 pb	333	0340	468367
 pb	334	0341	468368
@@ -380,7 +380,7 @@ pb	341	0348	468375
 pb	342	0349	468376
 pb	343	0350	468377
 pb	344	0351	468378
-entry	Homoeopathie		
+entry	Homoeopathie	14	
 pb	345	0352	468379
 pb	346	0353	468380
 pb	347	0354	468381
@@ -395,7 +395,7 @@ pb	355	0362	468389
 pb	356	0363	468390
 pb	357	0364	468391
 pb	358	0365	468392
-entry	Hopital		
+entry	Hopital	26	
 pb	359	0366	468393
 pb	360	0367	468394
 pb	361	0368	468395
@@ -422,7 +422,7 @@ pb	381	0388	468415
 pb	382	0389	468416
 pb	383	0390	468417
 pb	384	0391	468418
-entry	Hoquet		
+entry	Hoquet	7	
 pb	385	0392	468419
 pb	386	0393	468420
 pb	387	0394	468421
@@ -430,12 +430,12 @@ pb	388	0395	468422
 pb	389	0396	468423
 pb	390	0397	468424
 pb	391	0398	468425
-entry	Houblon		
+entry	Houblon	2	
 pb	392	0399	468426
 pb	393	0400	468427
-entry	Houx epineux		
+entry	Houx epineux	1	
 pb	394	0401	468428
-entry	Huile		
+entry	Huile	17	
 pb	395	0402	468429
 pb	396	0403	468430
 pb	397	0404	468431
@@ -453,22 +453,22 @@ pb	408	0415	468442
 pb	409	0416	468443
 pb	410	0417	468444
 pb	411	0418	468445
-entry	Humeurs		
+entry	Humeurs	6	
 pb	412	0419	468446
 pb	413	0420	468447
 pb	414	0421	468448
 pb	415	0422	468449
 pb	416	0423	468450
 pb	417	0424	468451
-entry	Humeurs froides		
-entry	Hydarthrose		
+entry	Humeurs froides	0	
+entry	Hydarthrose	6	
 pb	418	0425	468452
 pb	419	0426	468453
 pb	420	0427	468454
 pb	421	0428	468455
 pb	422	0429	468456
 pb	423	0430	468457
-entry	Hydatide		
+entry	Hydatide	18	
 pb	424	0431	468458
 pb	425	0432	468459
 pb	426	0433	468460
@@ -487,8 +487,8 @@ pb	438	0445	468472
 pb	439	0446	468473
 pb	440	0447	468474
 pb	441	0448	468475
-entry	Hydrargyrie		
-entry	Hydrocèle		
+entry	Hydrargyrie	0	
+entry	Hydrocèle	55	
 pb	442	0449	468476
 pb	443	0450	468477
 pb	444	0451	468478
@@ -544,7 +544,7 @@ pb	493	0500	468527
 pb	494	0501	468528
 pb	495	0502	468529
 pb	496	0503	468530
-entry	Hydrocephale		
+entry	Hydrocephale	53	
 pb	497	0504	468531
 pb	498	0505	468532
 pb	499	0506	468533
@@ -598,16 +598,16 @@ pb	546	0553	468580
 pb	547	0554	468581
 pb	548	0555	468582
 pb	549	0556	468583
-entry	Hydrochlorique		
+entry	Hydrochlorique	5	
 pb	550	0557	468584
 pb	551	0558	468585
 pb	552	0559	468586
 pb	553	0560	468587
 pb	554	0561	468588
-entry	Hydrocyanate, Hydrocyanique		
+entry	Hydrocyanate, Hydrocyanique	0	
 orth	Hydrocyanate		
 orth	Hydrocyanique		
-entry	Hydromètre		
+entry	Hydromètre	18	
 pb	555	0562	468589
 pb	556	0563	468590
 pb	557	0564	468591
@@ -626,7 +626,7 @@ pb	569	0576	468603
 pb	570	0577	468604
 pb	571	0578	468605
 pb	572	0579	468606
-entry	Hydropéricarde		
+entry	Hydropéricarde	10	
 pb	573	0580	468607
 pb	574	0581	468608
 pb	575	0582	468609
@@ -637,7 +637,7 @@ pb	579	0586	468613
 pb	580	0587	468614
 pb	581	0588	468615
 pb	582	0589	468616
-entry	Hydrophobie		
+entry	Hydrophobie	9	
 pb	583	0590	468617
 pb	584	0591	468618
 pb	585	0592	468619
@@ -647,7 +647,7 @@ pb	588	0595	468622
 pb	589	0596	468623
 pb	590	0597	468624
 pb	591	0598	468625
-entry	Hydrophthalmie		
+entry	Hydrophthalmie	9	
 pb	592	0599	468626
 pb	593	0600	468627
 pb	594	0601	468628
@@ -658,6 +658,6 @@ pb	598	0605	468632
 pb	599	0606	468633
 pb	600	0607	468634
 pb	[s. pag.]	0608	468635
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0609	468636
-entry	Table alphabétique des matières contenues dans ce volume		
+entry	Table alphabétique des matières contenues dans ce volume	0	

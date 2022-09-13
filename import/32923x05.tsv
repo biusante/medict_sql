@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7286234
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7286235
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7286236
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7286237
-entry	Bile		
+entry	Bile	32	
 pb	2	0005	7286238
 pb	3	0006	7286239
 pb	4	0007	7286240
@@ -38,7 +38,7 @@ pb	30	0033	7286266
 pb	31	0034	7286267
 pb	32	0035	7286268
 pb	33	0036	7286269
-entry	Billiaires (voies)		
+entry	Billiaires (voies)	68	
 pb	34	0037	7286270
 pb	35	0038	7286271
 pb	36	0039	7286272
@@ -107,14 +107,14 @@ pb	98	0101	7286334
 pb	99	0102	7286335
 pb	100	0103	7286336
 pb	101	0104	7286337
-entry	Bilieuse (fièvre)		
-entry	Bilieux (état)		
-entry	Biscuit		
+entry	Bilieuse (fièvre)	0	
+entry	Bilieux (état)	0	
+entry	Biscuit	3	
 pb	102	0105	7286338
 pb	103	0106	7286339
 pb	104	0107	7286340
 pb	105	0108	7286341
-entry	Bismuth		
+entry	Bismuth	17	
 pb	106	0109	7286342
 pb	107	0110	7286343
 pb	108	0111	7286344
@@ -132,7 +132,7 @@ pb	119	0122	7286355
 pb	120	0123	7286356
 pb	121	0124	7286357
 pb	122	0125	7286358
-entry	Bistorte		
+entry	Bistorte	7	
 pb	123	0126	7286359
 pb	124	0127	7286360
 pb	125	0128	7286361
@@ -140,7 +140,7 @@ pb	126	0129	7286362
 pb	127	0130	7286363
 pb	128	0131	7286364
 pb	129	0132	7286365
-entry	Blennorrhagie		
+entry	Blennorrhagie	133	
 pb	130	0133	7286366
 pb	131	0134	7286367
 pb	132	0135	7286368
@@ -274,7 +274,7 @@ pb	259	0262	7286495
 pb	260	0263	7286496
 pb	261	0264	7286497
 pb	262	0265	7286498
-entry	Blépharite		
+entry	Blépharite	29	
 pb	263	0266	7286499
 pb	264	0267	7286500
 pb	265	0268	7286501
@@ -304,16 +304,16 @@ pb	288	0291	7286524
 pb	289	0292	7286525
 pb	290	0293	7286526
 pb	291	0294	7286527
-entry	Blépharoplastie		
-entry	Blépharoptose		
+entry	Blépharoplastie	0	
+entry	Blépharoptose	3	
 pb	292	0295	7286528
 pb	293	0296	7286529
 pb	294	0297	7286530
-entry	Blépharospasme		
+entry	Blépharospasme	3	
 pb	295	0298	7286531
 pb	296	0299	7286532
 pb	297	0300	7286533
-entry	Blessures		
+entry	Blessures	30	
 pb	298	0301	7286534
 pb	299	0302	7286535
 pb	300	0303	7286536
@@ -344,9 +344,9 @@ pb	324	0327	7286560
 pb	325	0328	7286561
 pb	326	0329	7286562
 pb	327	0330	7286563
-entry	Bleue (maladie)		
-entry	Bleues (taches)		
-entry	Boissons		
+entry	Bleue (maladie)	0	
+entry	Bleues (taches)	0	
+entry	Boissons	49	
 pb	328	0331	7286564
 pb	329	0332	7286565
 pb	330	0333	7286566
@@ -396,13 +396,13 @@ pb	373	0376	7286609
 pb	374	0377	7286610
 pb	375	0378	7286611
 pb	376	0379	7286612
-entry	Bol d'Arménie		
-entry	Bols		
-entry	Bonbons		
+entry	Bol d'Arménie	0	
+entry	Bols	0	
+entry	Bonbons	3	
 pb	377	0380	7286613
 pb	378	0381	7286614
 pb	379	0382	7286615
-entry	Bonnes (eaux de)		
+entry	Bonnes (eaux de)	13	
 pb	380	0383	7286616
 pb	381	0384	7286617
 pb	382	0385	7286618
@@ -416,19 +416,19 @@ pb	389	0392	7286625
 pb	390	0393	7286626
 pb	391	0394	7286627
 pb	392	0395	7286628
-entry	Borax ou Borate de soude		
+entry	Borax ou Borate de soude	4	
 orth	Borax		
 orth	Borate de soude		
 pb	393	0396	7286629
 pb	394	0397	7286630
 pb	395	0398	7286631
 pb	396	0399	7286632
-entry	Borborygmes		
+entry	Borborygmes	2	
 pb	397	0400	7286633
 pb	398	0401	7286634
-entry	Botriocéphale		
+entry	Botriocéphale	0	
 pb	399	0402	7286635
-entry	Bouche		
+entry	Bouche	32	
 pb	400	0403	7286636
 pb	401	0404	7286637
 pb	402	0405	7286638
@@ -461,9 +461,9 @@ pb	428	0431	7286664
 pb	429	0432	7286665
 pb	430	0433	7286666
 pb	431	0434	7286667
-entry	Boues minérales		
+entry	Boues minérales	0	
 pb	432	0435	7286668
-entry	Bougie		
+entry	Bougie	10	
 pb	433	0436	7286669
 pb	434	0437	7286670
 pb	435	0438	7286671
@@ -474,17 +474,17 @@ pb	439	0442	7286675
 pb	440	0443	7286676
 pb	441	0444	7286677
 pb	442	0445	7286678
-entry	Bouillons		
+entry	Bouillons	6	
 pb	443	0446	7286679
 pb	444	0447	7286680
 pb	445	0448	7286681
 pb	446	0449	7286682
 pb	447	0450	7286683
 pb	448	0451	7286684
-entry	Bouillon-blanc		
+entry	Bouillon-blanc	2	
 pb	449	0452	7286685
 pb	450	0453	7286686
-entry	Boulimie		
+entry	Boulimie	7	
 pb	451	0454	7286687
 pb	452	0455	7286688
 pb	453	0456	7286689
@@ -492,33 +492,33 @@ pb	454	0457	7286690
 pb	455	0458	7286691
 pb	456	0459	7286692
 pb	457	0460	7286693
-entry	Boulou		
-entry	Bourbon-l'Archambault		
+entry	Boulou	0	
+entry	Bourbon-l'Archambault	5	
 pb	458	0461	7286694
 pb	459	0462	7286695
 pb	460	0463	7286696
 pb	461	0464	7286697
 pb	462	0465	7286698
-entry	Bourbon-Lancy		
+entry	Bourbon-Lancy	3	
 pb	463	0466	7286699
 pb	464	0467	7286700
 pb	465	0468	7286701
-entry	Bourbonne-les-Bains		
+entry	Bourbonne-les-Bains	3	
 pb	466	0469	7286702
 pb	467	0470	7286703
 pb	468	0471	7286704
 pb	469	0472	7286705
-entry	Bourboule		
+entry	Bourboule	3	
 pb	470	0473	7286706
 pb	471	0474	7286707
 pb	472	0475	7286708
-entry	Bourdonnement		
+entry	Bourdonnement	3	
 pb	473	0476	7286709
 pb	474	0477	7286710
 pb	475	0478	7286711
 pb	476	0479	7286712
-entry	Bourraché		
-entry	Bourses sérieuses sous-cutanées		
+entry	Bourraché	0	
+entry	Bourses sérieuses sous-cutanées	17	
 pb	477	0480	7286713
 pb	478	0481	7286714
 pb	479	0482	7286715
@@ -536,7 +536,7 @@ pb	490	0493	7286726
 pb	491	0494	7286727
 pb	492	0495	7286728
 pb	493	0496	7286729
-entry	Bouton d'Alep		
+entry	Bouton d'Alep	10	
 pb	494	0497	7286730
 pb	495	0498	7286731
 pb	496	0499	7286732
@@ -547,7 +547,7 @@ pb	500	0503	7286736
 pb	501	0504	7286737
 pb	502	0505	7286738
 pb	503	0506	7286739
-entry	Bras		
+entry	Bras	40	
 pb	504	0507	7286740
 pb	505	0508	7286741
 pb	506	0509	7286742
@@ -588,14 +588,14 @@ pb	540	0543	7286776
 pb	541	0544	7286777
 pb	542	0545	7286778
 pb	543	0546	7286779
-entry	Bright (mal de)		
-entry	Brome		
+entry	Bright (mal de)	0	
+entry	Brome	5	
 pb	544	0547	7286780
 pb	545	0548	7286781
 pb	546	0549	7286782
 pb	547	0550	7286783
 pb	548	0551	7286784
-entry	Bronches		
+entry	Bronches	128	
 pb	549	0552	7286785
 pb	550	0553	7286786
 pb	551	0554	7286787
@@ -724,7 +724,7 @@ pb	673	0676	7286909
 pb	674	0677	7286910
 pb	675	0678	7286911
 pb	676	0679	7286912
-entry	Bronzée (maladie)		
+entry	Bronzée (maladie)	58	
 pb	677	0680	7286913
 pb	678	0681	7286914
 pb	679	0682	7286915
@@ -784,10 +784,10 @@ pb	732	0735	7286968
 pb	733	0736	7286969
 pb	734	0737	7286970
 pb	735	0738	7286971
-entry	Brucine		
+entry	Brucine	1	
 pb	736	0739	7286972
 pb	737	0740	7286973
-entry	Brulure		
+entry	Brulure	19	
 pb	738	0741	7286974
 pb	739	0742	7286975
 pb	740	0743	7286976
@@ -807,9 +807,9 @@ pb	753	0756	7286989
 pb	754	0757	7286990
 pb	755	0758	7286991
 pb	756	0759	7286992
-entry	Bryone		
+entry	Bryone	1	
 pb	757	0760	7286993
-entry	Bubon		
+entry	Bubon	49	
 pb	758	0761	7286994
 pb	759	0762	7286995
 pb	760	0763	7286996
@@ -860,14 +860,14 @@ pb	804	0807	7287040
 pb	805	0808	7287041
 pb	806	0809	7287042
 pb	807	0810	7287043
-entry	Bulles, Bulleuses (affections)		
+entry	Bulles, Bulleuses (affections)	2	
 orth	Bulles		
 orth	Bulleuses (affections)		
 pb	808	0811	7287044
 pb	809	0812	7287045
-entry	Bussang		
+entry	Bussang	1	
 pb	810	0813	7287046
-entry	Busserole		
+entry	Busserole	1	
 pb	811	0814	7287047
 pb	[s. pag.]	0815	7287048
-entry	Table des auteurs		
+entry	Table des auteurs	0	

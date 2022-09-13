@@ -1,13 +1,13 @@
 pb	[s. pag.]	0001	4590181
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4590182
 pb	[s. pag.]	0003	4590183
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4590184
 pb	1	0005	4590185
-entry	Suerman (Les deux) [L. Hahn]		
+entry	Suerman (Les deux) [L. Hahn]	0	
 orth	Suerman (Les deux)		
-entry	Suette [Léon Colin]		
+entry	Suette [Léon Colin]	50	
 orth	Suette		
 pb	2	0006	4590186
 pb	3	0007	4590187
@@ -59,8 +59,8 @@ pb	48	0052	4590232
 pb	49	0053	4590233
 pb	50	0054	4590234
 pb	51	0055	4590235
-entry	Sueur		
-entry	Sueur. Physiologie [François-Franck]		
+entry	Sueur	0	
+entry	Sueur. Physiologie [François-Franck]	121	
 orth	Sueur. Physiologie		
 pb	52	0056	4590236
 pb	53	0057	4590237
@@ -184,8 +184,8 @@ pb	170	0174	4590354
 pb	171	0175	4590355
 pb	172	0176	4590356
 pb	173	0177	4590357
-entry	Sueur		
-entry	Sueur. Pathologie [L. Du Cazal]		
+entry	Sueur	0	
+entry	Sueur. Pathologie [L. Du Cazal]	47	
 orth	Sueur. Pathologie		
 pb	174	0178	4590358
 pb	175	0179	4590359
@@ -234,10 +234,10 @@ pb	217	0221	4590401
 pb	218	0222	4590402
 pb	219	0223	4590403
 pb	220	0224	4590404
-entry	Suèves [Gustave Lagneau]		
+entry	Suèves [Gustave Lagneau]	1	
 orth	Suèves		
 pb	221	0225	4590405
-entry	Suffocation [G. Morache]		
+entry	Suffocation [G. Morache]	20	
 orth	Suffocation		
 pb	222	0226	4590406
 pb	223	0227	4590407
@@ -259,14 +259,14 @@ pb	238	0242	4590422
 pb	239	0243	4590423
 pb	240	0244	4590424
 pb	24	0245	4590425
-entry	Sugillation [Amédée Dechambre]		
+entry	Sugillation [Amédée Dechambre]	0	
 orth	Sugillation		
-entry	Sugita Fusai [L. Hahn]		
+entry	Sugita Fusai [L. Hahn]	1	
 orth	Sugita Fusai		
 pb	242	0246	4590426
-entry	Suicide [A. Legoyt]		
+entry	Suicide [A. Legoyt]	0	
 orth	Suicide		
-entry	Suicide. Historique [A. Legoyt]		
+entry	Suicide. Historique [A. Legoyt]	7	
 orth	Suicide. Historique		
 pb	243	0247	4590427
 pb	244	0248	4590428
@@ -275,11 +275,11 @@ pb	246	0250	4590430
 pb	247	0251	4590431
 pb	248	0252	4590432
 pb	249	0253	4590433
-entry	Suicide. Législation à diverses époques [A. Legoyt]		
+entry	Suicide. Législation à diverses époques [A. Legoyt]	2	
 orth	Suicide. Législation à diverses époques		
 pb	250	0254	4590434
 pb	251	0255	4590435
-entry	Suicide. Statistique [A. Legoyt]		
+entry	Suicide. Statistique [A. Legoyt]	28	
 orth	Suicide. Statistique		
 pb	252	0256	4590436
 pb	253	0257	4590437
@@ -309,7 +309,7 @@ pb	276	0280	4590460
 pb	277	0281	4590461
 pb	278	0282	4590462
 pb	279	0283	4590463
-entry	Suicide. Causes des suicides [A. Legoyt]		
+entry	Suicide. Causes des suicides [A. Legoyt]	9	
 orth	Suicide. Causes des suicides		
 pb	280	0284	4590464
 pb	281	0285	4590465
@@ -320,7 +320,7 @@ pb	285	0289	4590469
 pb	286	0290	4590470
 pb	287	0291	4590471
 pb	288	0292	4590472
-entry	Suicide. Mesures préventives du suicide [A. Legoyt]		
+entry	Suicide. Mesures préventives du suicide [A. Legoyt]	8	
 orth	Suicide. Mesures préventives du suicide		
 pb	289	0293	4590473
 pb	290	0294	4590474
@@ -330,7 +330,7 @@ pb	293	0297	4590477
 pb	294	0298	4590478
 pb	295	0299	4590479
 pb	296	0300	4590480
-entry	Suicide. Pathologie [Ant. Ritti]		
+entry	Suicide. Pathologie [Ant. Ritti]	29	
 orth	Suicide. Pathologie		
 pb	297	0301	4590481
 pb	298	0302	4590482
@@ -361,7 +361,7 @@ pb	322	0326	4590506
 pb	323	0327	4590507
 pb	324	0328	4590508
 pb	325	0329	4590509
-entry	Suicide. Médecine légale et législation [Ant. Ritti]		
+entry	Suicide. Médecine légale et législation [Ant. Ritti]	22	
 orth	Suicide. Médecine légale et législation		
 pb	326	0330	4590510
 pb	327	0331	4590511
@@ -385,59 +385,59 @@ pb	344	0348	4590528
 pb	345	0349	4590529
 pb	346	0350	4590530
 pb	347	0351	4590531
-entry	Suie [C. Lutz]		
+entry	Suie [C. Lutz]	0	
 orth	Suie		
-entry	Chimie [C. Lutz]		
+entry	Chimie [C. Lutz]	0	
 orth	Chimie		
-entry	Suie. Emploi médical [Servier]		
+entry	Suie. Emploi médical [Servier]	4	
 orth	Suie. Emploi médical		
 pb	348	0352	4590532
 pb	349	0353	4590533
 pb	350	0354	4590534
 pb	351	0355	4590535
-entry	Suif		
-entry	Suif. Chimie [C. Lutz]		
+entry	Suif	0	
+entry	Suif. Chimie [C. Lutz]	1	
 orth	Suif. Chimie		
 pb	352	0356	4590536
-entry	Suif. Emploi médical [Amédée Dechambre]		
+entry	Suif. Emploi médical [Amédée Dechambre]	1	
 orth	Suif. Emploi médical		
 pb	353	0357	4590537
-entry	Hygiène industrielle [Amédée Dechambre]		
+entry	Hygiène industrielle [Amédée Dechambre]	0	
 orth	Hygiène industrielle		
-entry	Suillus [Ed. Lefèvre]		
+entry	Suillus [Ed. Lefèvre]	0	
 orth	Suillus		
-entry	Suint [L. Hahn]		
+entry	Suint [L. Hahn]	0	
 orth	Suint		
-entry	Suisse		
+entry	Suisse	0	
 ref	Helvétique (République)		
-entry	Suji-Kar ou Kar-Suji [Amédée Dechambre]		
+entry	Suji-Kar ou Kar-Suji [Amédée Dechambre]	0	
 orth	Suji-Kar ou Kar-Suji		
 pb	354	0358	4590538
-entry	Sulfacétique (Acide) [C. Lutz]		
+entry	Sulfacétique (Acide) [C. Lutz]	0	
 orth	Sulfacétique (Acide)		
-entry	Sulfacide [Amédée Dechambre]		
+entry	Sulfacide [Amédée Dechambre]	0	
 orth	Sulfacide		
-entry	Sulfamide [C. Lutz]		
+entry	Sulfamide [C. Lutz]	0	
 orth	Sulfamide		
-entry	Sulfamique (Acide) [C. Lutz]		
+entry	Sulfamique (Acide) [C. Lutz]	1	
 orth	Sulfamique (Acide)		
 pb	355	0359	4590539
-entry	Sulfamylique (Acide) ou Amylsulfurique (Acide) [C. Lutz]		
+entry	Sulfamylique (Acide) ou Amylsulfurique (Acide) [C. Lutz]	1	
 orth	Sulfamylique (Acide) ou Amylsulfurique (Acide)		
 pb	356	0360	4590540
-entry	Sulfamylo-sulfurique (Acide) ou Amylsulfureux (Acide) [C. Lutz]		
+entry	Sulfamylo-sulfurique (Acide) ou Amylsulfureux (Acide) [C. Lutz]	0	
 orth	Sulfamylo-sulfurique (Acide) ou Amylsulfureux (Acide)		
-entry	Sulfanilique (Acide) [C. Lutz]		
+entry	Sulfanilique (Acide) [C. Lutz]	1	
 orth	Sulfanilique (Acide)		
 pb	357	0361	4590541
-entry	Sulfantimonieux et Sulfantimonique (Acides) [C. Lutz]		
+entry	Sulfantimonieux et Sulfantimonique (Acides) [C. Lutz]	0	
 orth	Sulfantimonieux et Sulfantimonique (Acides)		
-entry	Sulfarsénieux et Sulfarsénique (Acides) [C. Lutz]		
+entry	Sulfarsénieux et Sulfarsénique (Acides) [C. Lutz]	0	
 orth	Sulfarsénieux et Sulfarsénique (Acides)		
-entry	Sulfates en général [C. Lutz]		
+entry	Sulfates en général [C. Lutz]	1	
 orth	Sulfates en général		
 pb	358	0362	4590542
-entry	Sulfateurs et Sulfatiers (Hygiène professionnelle et industrielle) [Alexandre Layet]		
+entry	Sulfateurs et Sulfatiers (Hygiène professionnelle et industrielle) [Alexandre Layet]	9	
 orth	Sulfateurs et Sulfatiers (Hygiène professionnelle et industrielle)		
 pb	359	0363	4590543
 pb	360	0364	4590544
@@ -448,23 +448,23 @@ pb	364	0368	4590548
 pb	365	0369	4590549
 pb	366	0370	4590550
 pb	367	0371	4590551
-entry	Sulfazotates, Sulfazotites [C. Lutz]		
+entry	Sulfazotates, Sulfazotites [C. Lutz]	0	
 orth	Sulfazotates, Sulfazotites		
-entry	Sulféthyle		
+entry	Sulféthyle	0	
 ref	Éthers		
 ref	Mercaptan		
-entry	Sulféthylsulfurique (Acide) ou Éthylsulfureux (Acide) [C. Lutz]		
+entry	Sulféthylsulfurique (Acide) ou Éthylsulfureux (Acide) [C. Lutz]	1	
 orth	Sulféthylsulfurique (Acide) ou Éthylsulfureux (Acide)		
 pb	368	0372	4590552
-entry	Sulfhydramide [C. Lutz]		
+entry	Sulfhydramide [C. Lutz]	0	
 orth	Sulfhydramide		
-entry	Sulfhydrique (Acide)		
-entry	Sulfhydrique (Acide). Chimie [C. Lutz]		
+entry	Sulfhydrique (Acide)	0	
+entry	Sulfhydrique (Acide). Chimie [C. Lutz]	3	
 orth	Sulfhydrique (Acide). Chimie		
 pb	369	0373	4590553
 pb	370	0374	4590554
 pb	371	0375	4590555
-entry	Sulfhydrique (Acide). Applications médicales [Ernest Labbée]		
+entry	Sulfhydrique (Acide). Applications médicales [Ernest Labbée]	8	
 orth	Sulfhydrique (Acide). Applications médicales		
 pb	372	0376	4590556
 pb	373	0377	4590557
@@ -474,119 +474,119 @@ pb	376	0380	4590560
 pb	377	0381	4590561
 pb	378	0382	4590562
 pb	379	0383	4590563
-entry	Sulfhydrométrie [C. Lutz]		
+entry	Sulfhydrométrie [C. Lutz]	1	
 orth	Sulfhydrométrie		
 pb	380	0384	4590564
-entry	Sulfhydroquinone [C. Lutz]		
+entry	Sulfhydroquinone [C. Lutz]	1	
 orth	Sulfhydroquinone		
 pb	381	0385	4590565
-entry	Sulfhydrovinique (Acide) ou Éthylsulfhydrique (Acide) [C. Lutz]		
+entry	Sulfhydrovinique (Acide) ou Éthylsulfhydrique (Acide) [C. Lutz]	0	
 orth	Sulfhydrovinique (Acide) ou Éthylsulfhydrique (Acide)		
-entry	Sulfides [C. Lutz]		
+entry	Sulfides [C. Lutz]	0	
 orth	Sulfides		
-entry	Sulfindigotique (Acide) ou Sulfindylique (Acide) [C. Lutz]		
+entry	Sulfindigotique (Acide) ou Sulfindylique (Acide) [C. Lutz]	1	
 orth	Sulfindigotique (Acide) ou Sulfindylique (Acide)		
 pb	382	0386	4590566
-entry	Sulfisatyde [C. Lutz]		
+entry	Sulfisatyde [C. Lutz]	0	
 orth	Sulfisatyde		
-entry	Sulfites en général		
-entry	Sulfites en général. Chimie [C. Lutz]		
+entry	Sulfites en général	0	
+entry	Sulfites en général. Chimie [C. Lutz]	1	
 orth	Sulfites en général. Chimie		
 pb	383	0387	4590567
-entry	Emploi médical		
+entry	Emploi médical	0	
 ref	Potasse		
 ref	Soude		
-entry	Sulfobenzide [C. Lutz]		
+entry	Sulfobenzide [C. Lutz]	0	
 orth	Sulfobenzide		
-entry	Sulfobenzidique (Acide) ou Phénil-Sulfureux (Acide) [C. Lutz]		
+entry	Sulfobenzidique (Acide) ou Phénil-Sulfureux (Acide) [C. Lutz]	1	
 orth	Sulfobenzidique (Acide) ou Phénil-Sulfureux (Acide)		
 pb	384	0388	4590568
-entry	Sulfobenzoïle [C. Lutz]		
+entry	Sulfobenzoïle [C. Lutz]	0	
 orth	Sulfobenzoïle		
-entry	Sulfobenzoïque (Acide) [C. Lutz]		
+entry	Sulfobenzoïque (Acide) [C. Lutz]	0	
 orth	Sulfobenzoïque (Acide)		
-entry	Sulfobenzol [C. Lutz]		
+entry	Sulfobenzol [C. Lutz]	0	
 orth	Sulfobenzol		
-entry	Sulfobenzosulfurique (Acide) [C. Lutz]		
+entry	Sulfobenzosulfurique (Acide) [C. Lutz]	0	
 orth	Sulfobenzosulfurique (Acide)		
-entry	Sulfobutylique (Acide) [C. Lutz]		
+entry	Sulfobutylique (Acide) [C. Lutz]	1	
 orth	Sulfobutylique (Acide)		
 pb	385	0389	4590569
-entry	Sulfocamphorique (Acide) [C. Lutz]		
+entry	Sulfocamphorique (Acide) [C. Lutz]	0	
 orth	Sulfocamphorique (Acide)		
-entry	Sulfocarbolique (Acide).. Lutz]		
+entry	Sulfocarbolique (Acide).. Lutz]	0	
 ref	Sulfophénique (Acide) [C		
-entry	Sulfocarbonique (Acide).. Lutz]		
+entry	Sulfocarbonique (Acide).. Lutz]	0	
 ref	Carbone [C		
-entry	Sulfocarbovinique (Acide) ou Éthyldisulfocarbonique (Acide) ou Xanthique (Acide) [C. Lutz]		
+entry	Sulfocarbovinique (Acide) ou Éthyldisulfocarbonique (Acide) ou Xanthique (Acide) [C. Lutz]	1	
 orth	Sulfocarbovinique (Acide) ou Éthyldisulfocarbonique (Acide) ou Xanthique (Acide)		
 pb	386	0390	4590570
-entry	Sulfocyanates, Sulfocyanures [C. Lutz]		
+entry	Sulfocyanates, Sulfocyanures [C. Lutz]	1	
 orth	Sulfocyanates, Sulfocyanures		
 pb	387	0391	4590571
-entry	Sulfocyanique (Acide), Rhodonhydrique (Acide), Sulfocyanhydrique (Acide) [C. Lutz]		
+entry	Sulfocyanique (Acide), Rhodonhydrique (Acide), Sulfocyanhydrique (Acide) [C. Lutz]	0	
 orth	Sulfocyanique (Acide), Rhodonhydrique (Acide), Sulfocyanhydrique (Acide)		
-entry	Sulfocyanogène, Sulfure de cyanogène [C. Lutz]		
+entry	Sulfocyanogène, Sulfure de cyanogène [C. Lutz]	0	
 orth	Sulfocyanogène, Sulfure de cyanogène		
-entry	Sulfoforme [C. Lutz]		
+entry	Sulfoforme [C. Lutz]	1	
 orth	Sulfoforme		
 pb	388	0392	4590572
-entry	Sulfoglycosique (Acide), Sulfoglucique (Acide) [C. Lutz]		
+entry	Sulfoglycosique (Acide), Sulfoglucique (Acide) [C. Lutz]	0	
 orth	Sulfoglycosique (Acide), Sulfoglucique (Acide)		
-entry	Sulfoglycérique (Acide) [C. Lutz]		
+entry	Sulfoglycérique (Acide) [C. Lutz]	0	
 orth	Sulfoglycérique (Acide)		
-entry	Sulfoléique (Acide)		
+entry	Sulfoléique (Acide)	0	
 ref	Sulfomargarique (Acide)		
-entry	Sulfomargarique (Acide) et Sulfoléique (Acide) [C. Lutz]		
+entry	Sulfomargarique (Acide) et Sulfoléique (Acide) [C. Lutz]	1	
 orth	Sulfomargarique (Acide) et Sulfoléique (Acide)		
 pb	389	0393	4590573
-entry	Sulfométhylique (Acide) [C. Lutz]		
+entry	Sulfométhylique (Acide) [C. Lutz]	0	
 orth	Sulfométhylique (Acide)		
-entry	Sulfonaphtalide [C. Lutz]		
+entry	Sulfonaphtalide [C. Lutz]	0	
 orth	Sulfonaphtalide		
-entry	Sulfonaphtaline [C. Lutz]		
+entry	Sulfonaphtaline [C. Lutz]	0	
 orth	Sulfonaphtaline		
-entry	Sulfonaphtaliques (Acide) [C. Lutz]		
+entry	Sulfonaphtaliques (Acide) [C. Lutz]	2	
 orth	Sulfonaphtaliques (Acide)		
 pb	390	0394	4590574
 pb	391	0395	4590575
-entry	Sulfonaphtols [C. Lutz]		
+entry	Sulfonaphtols [C. Lutz]	0	
 orth	Sulfonaphtols		
-entry	Sulfophénique (Acide), Sulfocarbolique (Acide), Oxyphénylsulfureux (Acide) [C. Lutz]		
+entry	Sulfophénique (Acide), Sulfocarbolique (Acide), Oxyphénylsulfureux (Acide) [C. Lutz]	1	
 orth	Sulfophénique (Acide), Sulfocarbolique (Acide), Oxyphénylsulfureux (Acide)		
 pb	392	0396	4590576
-entry	Sulfoprotéique (Acide) [C. Lutz]		
+entry	Sulfoprotéique (Acide) [C. Lutz]	0	
 orth	Sulfoprotéique (Acide)		
-entry	Sulfosaccharique (Acide)		
+entry	Sulfosaccharique (Acide)	0	
 ref	Sulfoglycosique (Acide)		
-entry	Sulfosalicylique (Acide) [C. Lutz]		
+entry	Sulfosalicylique (Acide) [C. Lutz]	0	
 orth	Sulfosalicylique (Acide)		
-entry	Sulfosels [C. Lutz]		
+entry	Sulfosels [C. Lutz]	0	
 orth	Sulfosels		
 pb	393	0397	4590577
-entry	Sulfosinapique (Acide) [C. Lutz]		
+entry	Sulfosinapique (Acide) [C. Lutz]	0	
 orth	Sulfosinapique (Acide)		
-entry	Sulfotoluidique (Acide) [C. Lutz]		
+entry	Sulfotoluidique (Acide) [C. Lutz]	0	
 orth	Sulfotoluidique (Acide)		
-entry	Sulfovinique (Acide), Éthylsulfurique (Acide) [C. Lutz]		
+entry	Sulfovinique (Acide), Éthylsulfurique (Acide) [C. Lutz]	1	
 orth	Sulfovinique (Acide), Éthylsulfurique (Acide)		
 pb	394	0398	4590578
 pb	395	0399	4590579
-entry	Sulfovinique (Acide), Éthylsuflurique (Acide) [C. Lutz]		
+entry	Sulfovinique (Acide), Éthylsuflurique (Acide) [C. Lutz]	0	
 orth	Sulfovinique (Acide), Éthylsuflurique (Acide)		
-entry	Sulfuraires [Édouard Heckel]		
+entry	Sulfuraires [Édouard Heckel]	3	
 orth	Sulfuraires		
 pb	396	0400	4590580
 pb	397	0401	4590581
 pb	398	0402	4590582
-entry	Sulfures métalliques [C. Lutz]		
+entry	Sulfures métalliques [C. Lutz]	4	
 orth	Sulfures métalliques		
 pb	399	0403	4590583
 pb	400	0404	4590584
 pb	401	0405	4590585
 pb	402	0406	4590586
-entry	Sulfures alcalins		
-entry	Sulfures alcalins. Thérapeutique [Fonssagrives]		
+entry	Sulfures alcalins	0	
+entry	Sulfures alcalins. Thérapeutique [Fonssagrives]	7	
 orth	Sulfures alcalins. Thérapeutique		
 pb	403	0407	4590587
 pb	404	0408	4590588
@@ -595,23 +595,23 @@ pb	406	0410	4590590
 pb	407	0411	4590591
 pb	408	0412	4590592
 pb	409	0413	4590593
-entry	Sulfures alcalins. Toxicologie [Fonssagrives]		
+entry	Sulfures alcalins. Toxicologie [Fonssagrives]	1	
 orth	Sulfures alcalins. Toxicologie		
 pb	410	0414	4590594
-entry	Sulfureux (Acide) Sulfuryle [C. Lutz]		
+entry	Sulfureux (Acide) Sulfuryle [C. Lutz]	3	
 orth	Sulfureux (Acide) Sulfuryle		
 pb	411	0415	4590595
 pb	412	0416	4590596
 pb	413	0417	4590597
-entry	Sulfurique (Acide)		
-entry	Sulfurique (Acide). Chimie [C. Lutz]		
+entry	Sulfurique (Acide)	0	
+entry	Sulfurique (Acide). Chimie [C. Lutz]	5	
 orth	Sulfurique (Acide). Chimie		
 pb	414	0418	4590598
 pb	415	0419	4590599
 pb	416	0420	4590600
 pb	417	0421	4590601
 pb	418	0422	4590602
-entry	Sulfurique (Acide). Emploi médical [Fonssagrives]		
+entry	Sulfurique (Acide). Emploi médical [Fonssagrives]	7	
 orth	Sulfurique (Acide). Emploi médical		
 pb	419	0423	4590603
 pb	420	0424	4590604
@@ -620,56 +620,56 @@ pb	422	0426	4590606
 pb	423	0427	4590607
 pb	424	0428	4590608
 pb	425	0429	4590609
-entry	Sulfurique (Acide). Toxicologie [Fonssagrives]		
+entry	Sulfurique (Acide). Toxicologie [Fonssagrives]	2	
 orth	Sulfurique (Acide). Toxicologie		
 pb	426	0430	4590610
 pb	427	0431	4590611
 pb	428	0432	4590612
-entry	Sullivan (John) [L. Hahn]		
+entry	Sullivan (John) [L. Hahn]	0	
 orth	Sullivan (John)		
-entry	Suma [G. Planchon]		
+entry	Suma [G. Planchon]	0	
 orth	Suma		
-entry	Sumac		
-entry	Sumac. Botanique [Ed. Lefèvre]		
+entry	Sumac	0	
+entry	Sumac. Botanique [Ed. Lefèvre]	2	
 orth	Sumac. Botanique		
 pb	429	0433	4590613
 pb	430	0434	4590614
-entry	Sumac. Emploi médical [L. Hahn]		
+entry	Sumac. Emploi médical [L. Hahn]	4	
 orth	Sumac. Emploi médical		
 pb	431	0435	4590615
 pb	432	0436	4590616
 pb	433	0437	4590617
 pb	434	0438	4590618
-entry	Sumbul		
-entry	Botanique [Ed. Lefèvre]		
+entry	Sumbul	0	
+entry	Botanique [Ed. Lefèvre]	0	
 orth	Botanique		
-entry	Sumbul. Applications thérapeutiques [Ernest Labbée]		
+entry	Sumbul. Applications thérapeutiques [Ernest Labbée]	3	
 orth	Sumbul. Applications thérapeutiques		
 pb	435	0439	4590619
 pb	436	0440	4590620
 pb	437	0441	4590621
-entry	Sumbulique (Acide) [Amédée Dechambre]		
+entry	Sumbulique (Acide) [Amédée Dechambre]	0	
 orth	Sumbulique (Acide)		
-entry	Sundaradeva [G. Liétard]		
+entry	Sundaradeva [G. Liétard]	0	
 orth	Sundaradeva		
-entry	Sundberg (Peter) [L. Hahn]		
+entry	Sundberg (Peter) [L. Hahn]	1	
 orth	Sundberg (Peter)		
 pb	438	0442	4590622
-entry	Sundelin (Carl-Heinrich-Wilhelm) [L. Hahn]		
+entry	Sundelin (Carl-Heinrich-Wilhelm) [L. Hahn]	0	
 orth	Sundelin (Carl-Heinrich-Wilhelm)		
-entry	Sundius (Jacob) [L. Hahn]		
+entry	Sundius (Jacob) [L. Hahn]	0	
 orth	Sundius (Jacob)		
-entry	Suñol y Piñol (José) [L. Hahn]		
+entry	Suñol y Piñol (José) [L. Hahn]	1	
 orth	Suñol y Piñol (José)		
 pb	439	0443	4590623
-entry	Superfétation		
+entry	Superfétation	0	
 ref	Grossesse		
-entry	Superville (Daniel de) [A. Chéreau]		
+entry	Superville (Daniel de) [A. Chéreau]	0	
 orth	Superville (Daniel de)		
-entry	Supinateurs (Muscles) [J. Aubry]		
+entry	Supinateurs (Muscles) [J. Aubry]	1	
 orth	Supinateurs (Muscles)		
 pb	440	0444	4590624
-entry	Supplices (Médecine légale) [G. Tourdes]		
+entry	Supplices (Médecine légale) [G. Tourdes]	33	
 orth	Supplices (Médecine légale)		
 pb	441	0445	4590625
 pb	442	0446	4590626
@@ -704,14 +704,14 @@ pb	470	0474	4590654
 pb	471	0475	4590655
 pb	472	0476	4590656
 pb	473	0477	4590657
-entry	Supposition d'enfant [Amédée Dechambre]		
+entry	Supposition d'enfant [Amédée Dechambre]	0	
 orth	Supposition d'enfant		
-entry	Suppositoires [Amédée Dechambre]		
+entry	Suppositoires [Amédée Dechambre]	1	
 orth	Suppositoires		
 pb	474	0478	4590658
-entry	Suppression [Amédée Dechambre]		
+entry	Suppression [Amédée Dechambre]	0	
 orth	Suppression		
-entry	Suppuration [Albert Hénocque]		
+entry	Suppuration [Albert Hénocque]	39	
 orth	Suppuration		
 pb	475	0479	4590659
 pb	476	0480	4590660
@@ -752,14 +752,14 @@ pb	510	0514	4590694
 pb	511	0515	4590695
 pb	512	0516	4590696
 pb	513	0517	4590697
-entry	Surcostal antérieur [A. Le Double]		
+entry	Surcostal antérieur [A. Le Double]	2	
 orth	Surcostal antérieur		
 pb	514	0518	4590698
 pb	515	0519	4590699
-entry	Surcostaux (Muscles) [A. Le Double]		
+entry	Surcostaux (Muscles) [A. Le Double]	1	
 orth	Surcostaux (Muscles)		
 pb	516	0520	4590700
-entry	Surdi-mutité [Ladreit de Lacharrière]		
+entry	Surdi-mutité [Ladreit de Lacharrière]	24	
 orth	Surdi-mutité		
 pb	517	0521	4590701
 pb	518	0522	4590702
@@ -785,7 +785,7 @@ pb	537	0541	4590721
 pb	538	0542	4590722
 pb	539	0543	4590723
 pb	540	0544	4590724
-entry	Surdité [Ladreit de Lacharrière]		
+entry	Surdité [Ladreit de Lacharrière]	25	
 orth	Surdité		
 pb	541	0545	4590725
 pb	542	0546	4590726
@@ -812,11 +812,11 @@ pb	562	0566	4590746
 pb	563	0567	4590747
 pb	564	0568	4590748
 pb	565	0569	4590749
-entry	Sureau		
-entry	Sureau. Botanique [G. Planchon]		
+entry	Sureau	0	
+entry	Sureau. Botanique [G. Planchon]	1	
 orth	Sureau. Botanique		
 pb	566	0570	4590750
-entry	Sureau. Applications thérapeutiques [Ernest Labbée]		
+entry	Sureau. Applications thérapeutiques [Ernest Labbée]	9	
 orth	Sureau. Applications thérapeutiques		
 pb	567	0571	4590751
 pb	568	0572	4590752
@@ -827,21 +827,21 @@ pb	572	0576	4590756
 pb	573	0577	4590757
 pb	574	0578	4590758
 pb	575	0579	4590759
-entry	Sureçvara [G. Liétard]		
+entry	Sureçvara [G. Liétard]	0	
 orth	Sureçvara		
-entry	Surelle [H. Baillon]		
+entry	Surelle [H. Baillon]	0	
 orth	Surelle		
-entry	Suren [G. Planchon]		
+entry	Suren [G. Planchon]	0	
 orth	Suren		
-entry	Surfusion		
+entry	Surfusion	0	
 ref	Chaleur		
 ref	Sursaturation		
-entry	Surinamine		
+entry	Surinamine	0	
 ref	Geoffroyine		
-entry	Suringar (Gerherd-Conrad-Bernhard) [L. Hahn]		
+entry	Suringar (Gerherd-Conrad-Bernhard) [L. Hahn]	1	
 orth	Suringar (Gerherd-Conrad-Bernhard)		
 pb	576	0580	4590760
-entry	Surmenage [S. Arloing]		
+entry	Surmenage [S. Arloing]	7	
 orth	Surmenage		
 pb	577	0581	4590761
 pb	578	0582	4590762
@@ -850,25 +850,25 @@ pb	580	0584	4590764
 pb	581	0585	4590765
 pb	582	0586	4590766
 pb	583	0587	4590767
-entry	Surmulot [E. Oustalet]		
+entry	Surmulot [E. Oustalet]	1	
 orth	Surmulot		
 pb	584	0588	4590768
-entry	Surrénal (Plexus)		
+entry	Surrénal (Plexus)	0	
 ref	Sympathique (Grand)		
-entry	Surrénale (Capsule)		
+entry	Surrénale (Capsule)	0	
 ref	Rein		
-entry	Sursaturation [C.-M. Gariel]		
+entry	Sursaturation [C.-M. Gariel]	3	
 orth	Sursaturation		
 pb	585	0589	4590769
 pb	586	0590	4590770
 pb	587	0591	4590771
-entry	Sursaut		
+entry	Sursaut	0	
 ref	Soubresaut		
-entry	Surun (Alexandre) [A. Chéreau]		
+entry	Surun (Alexandre) [A. Chéreau]	1	
 orth	Surun (Alexandre)		
 pb	588	0592	4590772
-entry	Survie		
-entry	Survie. Démographie [Jacques Bertillon]		
+entry	Survie	0	
+entry	Survie. Démographie [Jacques Bertillon]	11	
 orth	Survie. Démographie		
 pb	589	0593	4590773
 pb	590	0594	4590774
@@ -881,7 +881,7 @@ pb	596	0600	4590780
 pb	597	0601	4590781
 pb	598	0602	4590782
 pb	599	0603	4590783
-entry	Survie. Médecine légale [G. Tourdes]		
+entry	Survie. Médecine légale [G. Tourdes]	23	
 orth	Survie. Médecine légale		
 pb	600	0604	4590784
 pb	601	0605	4590785
@@ -906,83 +906,83 @@ pb	619	0623	4590803
 pb	620	0624	4590804
 pb	621	0625	4590805
 pb	622	0626	4590806
-entry	Sus-claviculaire (Nerf)		
+entry	Sus-claviculaire (Nerf)	0	
 ref	Cervical (Plexus)		
-entry	Sus-épineux (Muscle) [J. Aubry]		
+entry	Sus-épineux (Muscle) [J. Aubry]	1	
 orth	Sus-épineux (Muscle)		
 pb	623	0627	4590807
-entry	Sushena [G. Liétard]		
+entry	Sushena [G. Liétard]	0	
 orth	Sushena		
-entry	Sus-hépatique (Veine) [J. Aubry]		
+entry	Sus-hépatique (Veine) [J. Aubry]	1	
 orth	Sus-hépatique (Veine)		
 pb	624	0628	4590808
-entry	Susius, Alias Susio (Jean-Baptiste) [A. Chéreau]		
+entry	Susius, Alias Susio (Jean-Baptiste) [A. Chéreau]	0	
 orth	Susius, Alias Susio (Jean-Baptiste)		
-entry	Sus-orbitaire (Artère)		
+entry	Sus-orbitaire (Artère)	0	
 ref	Ophthalmique (Artère)		
-entry	Sus-orbitaire (Nerf)		
+entry	Sus-orbitaire (Nerf)	0	
 ref	Ophthalmique (Nerf)		
-entry	Sus-scapulaires (Artères)		
+entry	Sus-scapulaires (Artères)	0	
 ref	scapulaires		
-entry	Suspenseurs (Ligaments)		
+entry	Suspenseurs (Ligaments)	0	
 ref	Vessie		
 ref	Testicule		
-entry	Suspension		
+entry	Suspension	0	
 ref	Pendaison		
-entry	Suspension (Appareil de)		
+entry	Suspension (Appareil de)	0	
 ref	Fractures		
 ref	Hyponarthécie		
-entry	Suspensoirs [J. Aubry]		
+entry	Suspensoirs [J. Aubry]	3	
 orth	Suspensoirs		
 pb	625	0629	4590809
 pb	626	0630	4590810
 pb	627	0631	4590811
-entry	Sus-pubien (Nerf)		
+entry	Sus-pubien (Nerf)	0	
 ref	Lombaire (Nerf)		
-entry	Sus-pubienne (Artère) [Amédée Dechambre]		
+entry	Sus-pubienne (Artère) [Amédée Dechambre]	0	
 orth	Sus-pubienne (Artère)		
-entry	Sus-scapulaires (Artères)		
+entry	Sus-scapulaires (Artères)	0	
 ref	Scapulaire		
-entry	Susurrus [Henri Barth]		
+entry	Susurrus [Henri Barth]	1	
 orth	Susurrus		
 pb	628	0632	4590812
-entry	Susus		
+entry	Susus	0	
 ref	Nègres		
-entry	Sutherland (Alexander-John) [L. Hahn]		
+entry	Sutherland (Alexander-John) [L. Hahn]	1	
 orth	Sutherland (Alexander-John)		
 pb	629	0633	4590813
-entry	Sutton (Les) [L. Hahn, A. Chéreau]		
+entry	Sutton (Les) [L. Hahn, A. Chéreau]	1	
 orth	Sutton (Les)		
 pb	630	0634	4590814
-entry	Suture (Anatomie)		
+entry	Suture (Anatomie)	0	
 ref	Synarthrose		
 ref	Articulations		
-entry	Suture (Chirurgie) [Amédée Dechambre]		
+entry	Suture (Chirurgie) [Amédée Dechambre]	4	
 orth	Suture (Chirurgie)		
 pb	631	0635	4590815
 pb	632	0636	4590816
 pb	633	0637	4590817
 pb	634	0638	4590818
-entry	Suyer [Amédée Dechambre]		
+entry	Suyer [Amédée Dechambre]	0	
 orth	Suyer		
-entry	Svedenborg (Emmanuel) [L. Hahn]		
+entry	Svedenborg (Emmanuel) [L. Hahn]	2	
 orth	Svedenborg (Emmanuel)		
 pb	635	0639	4590819
 pb	636	0640	4590820
-entry	Svendsen (Svend-Bensen) [L. Hahn]		
+entry	Svendsen (Svend-Bensen) [L. Hahn]	0	
 orth	Svendsen (Svend-Bensen)		
-entry	Svitzer (Erick) [L. Hahn]		
+entry	Svitzer (Erick) [L. Hahn]	0	
 orth	Svitzer (Erick)		
-entry	Swalin (Olof-August) [A. Dureau]		
+entry	Swalin (Olof-August) [A. Dureau]	1	
 orth	Swalin (Olof-August)		
 pb	637	0641	4590821
-entry	Swalve (Bernhardus) [L. Hahn]		
+entry	Swalve (Bernhardus) [L. Hahn]	1	
 orth	Swalve (Bernhardus)		
 pb	638	0642	4590822
-entry	Swammerdam (Jean) [A. Chéreau]		
+entry	Swammerdam (Jean) [A. Chéreau]	1	
 orth	Swammerdam (Jean)		
 pb	639	0643	4590823
-entry	Swamp-Sickness [Maurel]		
+entry	Swamp-Sickness [Maurel]	8	
 orth	Swamp-Sickness		
 pb	640	0644	4590824
 pb	641	0645	4590825
@@ -992,82 +992,82 @@ pb	644	0648	4590828
 pb	645	0649	4590829
 pb	646	0650	4590830
 pb	647	0651	4590831
-entry	Swan (Joseph) [L. Hahn]		
+entry	Swan (Joseph) [L. Hahn]	1	
 orth	Swan (Joseph)		
 pb	648	0652	4590832
-entry	Swartz (Olaus) [L. Hahn]		
+entry	Swartz (Olaus) [L. Hahn]	1	
 orth	Swartz (Olaus)		
 pb	649	0653	4590833
-entry	Swartzia [Ed. Lefèvre]		
+entry	Swartzia [Ed. Lefèvre]	0	
 orth	Swartzia		
-entry	Swediaur		
+entry	Swediaur	0	
 ref	Schwediaur		
-entry	Sweerts (Emmanuel) [L. Hahn]		
+entry	Sweerts (Emmanuel) [L. Hahn]	0	
 orth	Sweerts (Emmanuel)		
-entry	Swertie [G. Planchon]		
+entry	Swertie [G. Planchon]	0	
 orth	Swertie		
-entry	Swieten (Gerard van) [A. Chéreau]		
+entry	Swieten (Gerard van) [A. Chéreau]	2	
 orth	Swieten (Gerard van)		
 pb	650	0654	4590834
 pb	651	0655	4590835
-entry	Swietenia (L.) [H. Baillon]		
+entry	Swietenia (L.) [H. Baillon]	1	
 orth	Swietenia (L.)		
 pb	652	0656	4590836
-entry	Swinnas (Willem) [L. Hahn]		
+entry	Swinnas (Willem) [L. Hahn]	0	
 orth	Swinnas (Willem)		
-entry	Syalita [G. Planchon]		
+entry	Syalita [G. Planchon]	0	
 orth	Syalita		
-entry	Sycéphaliens, Syncéphaliens [O. Larcher]		
+entry	Sycéphaliens, Syncéphaliens [O. Larcher]	1	
 orth	Sycéphaliens, Syncéphaliens		
 pb	653	0657	4590837
-entry	Sychnurie [Amédée Dechambre]		
+entry	Sychnurie [Amédée Dechambre]	2	
 orth	Sychnurie		
 pb	654	0658	4590838
 pb	655	0659	4590839
-entry	Sycomancie [Amédée Dechambre]		
+entry	Sycomancie [Amédée Dechambre]	0	
 orth	Sycomancie		
-entry	Sycomore [G. Planchon]		
+entry	Sycomore [G. Planchon]	0	
 orth	Sycomore		
-entry	Sycocis [Ernest Besnier]		
+entry	Sycocis [Ernest Besnier]	3	
 orth	Sycocis		
 pb	656	0660	4590840
 pb	657	0661	4590841
 pb	658	0662	4590842
-entry	Syctodes		
+entry	Syctodes	0	
 ref	Araignée		
-entry	Sydenham (Thomas) [A. Chéreau]		
+entry	Sydenham (Thomas) [A. Chéreau]	1	
 orth	Sydenham (Thomas)		
 pb	659	0663	4590843
-entry	Sydenham (Thérapeut.)..]		
+entry	Sydenham (Thérapeut.)..]	0	
 ref	Décoction blanche		
 ref	Laudanum [D		
-entry	Sylibum		
+entry	Sylibum	0	
 ref	Silybum		
-entry	Sylphium		
+entry	Sylphium	0	
 ref	Silphium		
-entry	Sylvanès		
+entry	Sylvanès	0	
 ref	Silvanès (Eaux minérales de)		
-entry	Sylvi [L. Hahn]		
+entry	Sylvi [L. Hahn]	1	
 orth	Sylvi		
 pb	660	0664	4590844
-entry	Sylvie [H. Baillon]		
+entry	Sylvie [H. Baillon]	0	
 orth	Sylvie		
-entry	Sylviennes (Artères) [Amédée Dechambre]		
+entry	Sylviennes (Artères) [Amédée Dechambre]	0	
 orth	Sylviennes (Artères)		
-entry	Sylvique (Acide) [Malaguti]		
+entry	Sylvique (Acide) [Malaguti]	0	
 orth	Sylvique (Acide)		
-entry	Sylvius (Les) [A. Chéreau]		
+entry	Sylvius (Les) [A. Chéreau]	2	
 orth	Sylvius (Les)		
 pb	661	0665	4590845
 pb	662	0666	4590846
-entry	Symbiotes		
+entry	Symbiotes	0	
 ref	Sarcoptides		
-entry	Symblépharon [Amédée Dechambre]		
+entry	Symblépharon [Amédée Dechambre]	0	
 orth	Symblépharon		
-entry	Syme (James) [L. Hahn]		
+entry	Syme (James) [L. Hahn]	1	
 orth	Syme (James)		
 pb	663	0667	4590847
-entry	Syméliens [O. Larcher]		
+entry	Syméliens [O. Larcher]	6	
 orth	Syméliens		
 pb	664	0668	4590848
 pb	665	0669	4590849
@@ -1075,10 +1075,10 @@ pb	666	0670	4590850
 pb	667	0671	4590851
 pb	668	0672	4590852
 pb	669	0673	4590853
-entry	Symonds (John-Addington) [L. Hahn]		
+entry	Symonds (John-Addington) [L. Hahn]	0	
 orth	Symonds (John-Addington)		
 pb	670	0674	4590854
-entry	Sympathie [L. Hecht]		
+entry	Sympathie [L. Hecht]	14	
 orth	Sympathie		
 pb	671	0675	4590855
 pb	672	0676	4590856
@@ -1094,7 +1094,7 @@ pb	681	0685	4590865
 pb	682	0686	4590866
 pb	683	0687	4590867
 pb	684	0688	4590868
-entry	Sympathique (Folie) [E. Régis]		
+entry	Sympathique (Folie) [E. Régis]	38	
 orth	Sympathique (Folie)		
 pb	685	0689	4590869
 pb	686	0690	4590870
@@ -1134,9 +1134,9 @@ pb	719	0723	4590903
 pb	720	0724	4590904
 pb	721	0725	4590905
 pb	722	0726	4590906
-entry	Sympathique (Grand) (Nerf) [Henri Strauss]		
+entry	Sympathique (Grand) (Nerf) [Henri Strauss]	0	
 orth	Sympathique (Grand) (Nerf)		
-entry	Sympathique (grand) (Nerf). Anatomie [Henri Strauss]		
+entry	Sympathique (grand) (Nerf). Anatomie [Henri Strauss]	32	
 orth	Sympathique (grand) (Nerf). Anatomie		
 pb	723	0727	4590907
 pb	724	0728	4590908
@@ -1171,5 +1171,5 @@ pb	752	0756	4590936
 pb	753	0757	4590937
 pb	754	0758	4590938
 pb	755	0759	4590939
-entry	Articles contenus dans le treizième volume (3e série)		
+entry	Articles contenus dans le treizième volume (3e série)	1	
 pb	756	0760	4590940

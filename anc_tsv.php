@@ -3,6 +3,7 @@
 require (__DIR__.'/php/Biusante/Medict/MedictPrepa.php');
 
 use Biusante\Medict\{MedictPrepa};
+
 // sort les données utiles de la base Medica pour écrire la base Medict
 // faire une fois suffit
 // MedictPrepa::anc_dir();

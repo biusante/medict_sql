@@ -1,18 +1,18 @@
 pb	[s. pag.]	0001	7330272
 pb	[s. pag.]	0002	7330273
-entry	[Page de faux titre]		
+entry	[Page de faux titre]	0	
 pb	[s. pag.]	0003	7330274
 pb	[s. pag.]	0004	7330275
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0005	7330276
 pb	1	0006	7330277
-entry	Dictionnaire abrégé des Sciences médicales. Hépatalgie		
-entry	Hépatique		
+entry	Dictionnaire abrégé des Sciences médicales. Hépatalgie	0	
+entry	Hépatique	1	
 pb	2	0007	7330278
-entry	Hépatirrhée		
+entry	Hépatirrhée	1	
 pb	3	0008	7330279
 pb	4	0009	7330280
-entry	Hépatite		
+entry	Hépatite	37	
 pb	5	0010	7330281
 pb	6	0011	7330282
 pb	7	0012	7330283
@@ -50,42 +50,42 @@ pb	38	0043	7330314
 pb	39	0044	7330315
 pb	40	0045	7330316
 pb	41	0046	7330317
-entry	Hépato-arachnoidite		
-entry	Hépatocèle		
+entry	Hépato-arachnoidite	0	
+entry	Hépatocèle	1	
 pb	42	0047	7330318
-entry	Hépato-céphalite		
-entry	Hépato-cystique		
-entry	Hépato-encéphalite		
-entry	Hépato-gastrite		
-entry	Hépatomphale		
-entry	Herbe		
+entry	Hépato-céphalite	0	
+entry	Hépato-cystique	0	
+entry	Hépato-encéphalite	0	
+entry	Hépato-gastrite	0	
+entry	Hépatomphale	0	
+entry	Herbe	0	
 pb	43	0048	7330319
-entry	Herbier		
-entry	Herbivore		
-entry	Herborisation		
+entry	Herbier	0	
+entry	Herbivore	0	
+entry	Herborisation	1	
 pb	44	0049	7330320
-entry	Herboriste		
+entry	Herboriste	1	
 pb	45	0050	7330321
-entry	Héréditaire		
+entry	Héréditaire	0	
 pb	46	0051	7330322
-entry	Héréditaire 		
+entry	Héréditaire 	2	
 pb	47	0052	7330323
 pb	48	0053	7330324
 pb	49	0054	7330325
-entry	Héréditaire		
-entry	Hermaphrodisme 		
+entry	Héréditaire	0	
+entry	Hermaphrodisme 	4	
 pb	50	0055	7330326
 pb	51	0056	7330327
 pb	52	0057	7330328
 pb	53	0058	7330329
 pb	54	0059	7330330
-entry	Hermaphrodisme		
-entry	Hermodacte		
+entry	Hermaphrodisme	0	
+entry	Hermodacte	1	
 pb	55	0060	7330331
-entry	Herniaire		
-entry	Hernie		
+entry	Herniaire	0	
+entry	Hernie	0	
 pb	56	0061	7330332
-entry	Hernie 		
+entry	Hernie 	48	
 pb	57	0062	7330333
 pb	58	0063	7330334
 pb	59	0064	7330335
@@ -135,28 +135,28 @@ pb	102	0107	7330378
 pb	103	0108	7330379
 pb	104	0109	7330380
 pb	105	0110	7330381
-entry	Hernie		
-entry	Herniole		
+entry	Hernie	0	
+entry	Herniole	1	
 pb	106	0111	7330382
-entry	Hêtre		
-entry	Hiatus de Fallope		
-entry	Hièble		
+entry	Hêtre	0	
+entry	Hiatus de Fallope	0	
+entry	Hièble	1	
 pb	107	0112	7330383
-entry	Hiera picra		
-entry	Hippiatrique		
+entry	Hiera picra	0	
+entry	Hippiatrique	2	
 pb	108	0113	7330384
 pb	109	0114	7330385
-entry	Hippocratique		
-entry	Hippocratisme		
+entry	Hippocratique	0	
+entry	Hippocratisme	0	
 pb	110	0115	7330386
-entry	Hippocratisme 		
+entry	Hippocratisme 	0	
 pb	111	0116	7330387
-entry	Hippocratisme		
-entry	Hiver		
+entry	Hippocratisme	0	
+entry	Hiver	1	
 pb	112	0117	7330388
-entry	Homme		
+entry	Homme	0	
 pb	113	0118	7330389
-entry	Homme 		
+entry	Homme 	26	
 pb	114	0119	7330390
 pb	115	0120	7330391
 pb	116	0121	7330392
@@ -184,14 +184,14 @@ pb	137	0142	7330413
 pb	138	0143	7330414
 pb	139	0144	7330415
 pb	140	0145	7330416
-entry	Homme		
-entry	Honoraires		
+entry	Homme	0	
+entry	Honoraires	2	
 pb	141	0146	7330417
 pb	142	0147	7330418
-entry	Honteux		
+entry	Honteux	2	
 pb	143	0148	7330419
 pb	144	0149	7330420
-entry	Hôpital		
+entry	Hôpital	13	
 pb	145	0150	7330421
 pb	146	0151	7330422
 pb	147	0152	7330423
@@ -205,33 +205,33 @@ pb	154	0159	7330430
 pb	155	0160	7330431
 pb	156	0161	7330432
 pb	157	0162	7330433
-entry	Hoquet		
+entry	Hoquet	0	
 pb	158	0163	7330434
-entry	Hoquet 		
+entry	Hoquet 	0	
 pb	159	0164	7330435
-entry	Hoquet		
-entry	Hordéine		
-entry	Horripilation		
-entry	Hospice		
+entry	Hoquet	0	
+entry	Hordéine	0	
+entry	Horripilation	0	
+entry	Hospice	1	
 pb	160	0165	7330436
-entry	Hôtel-Dieu		
-entry	Houblon		
+entry	Hôtel-Dieu	0	
+entry	Houblon	0	
 pb	161	0166	7330437
-entry	Houblon 		
+entry	Houblon 	0	
 pb	162	0167	7330438
-entry	Houblon		
-entry	Houppe du menton		
-entry	Houx		
+entry	Houblon	0	
+entry	Houppe du menton	0	
+entry	Houx	1	
 pb	163	0168	7330439
-entry	Huile		
+entry	Huile	2	
 pb	164	0169	7330440
 pb	165	0170	7330441
-entry	Huit de chiffre		
-entry	Huitre		
+entry	Huit de chiffre	0	
+entry	Huitre	1	
 pb	166	0171	7330442
-entry	Humectant		
-entry	Huméral		
-entry	Huméro-cubital		
+entry	Humectant	0	
+entry	Huméral	0	
+entry	Huméro-cubital	11	
 pb	167	0172	7330443
 pb	168	0173	7330444
 pb	169	0174	7330445
@@ -243,9 +243,9 @@ pb	174	0179	7330450
 pb	175	0180	7330451
 pb	176	0181	7330452
 pb	177	0182	7330453
-entry	Huméro-scapulaire		
+entry	Huméro-scapulaire	1	
 pb	178	0183	7330454
-entry	Humérus		
+entry	Humérus	12	
 pb	179	0184	7330455
 pb	180	0185	7330456
 pb	181	0186	7330457
@@ -258,27 +258,27 @@ pb	187	0192	7330463
 pb	188	0193	7330464
 pb	189	0194	7330465
 pb	190	0195	7330466
-entry	Humeur 		
+entry	Humeur 	4	
 pb	191	0196	7330467
 pb	192	0197	7330468
 pb	193	0198	7330469
 pb	194	0199	7330470
 pb	195	0200	7330471
-entry	Humeur		
-entry	Humidité		
+entry	Humeur	0	
+entry	Humidité	4	
 pb	196	0201	7330472
 pb	197	0202	7330473
 pb	198	0203	7330474
 pb	199	0204	7330475
-entry	Humoral		
-entry	Humorisme		
+entry	Humoral	0	
+entry	Humorisme	3	
 pb	200	0205	7330476
 pb	201	0206	7330477
 pb	202	0207	7330478
-entry	Humoriste		
-entry	Hyaloïde		
+entry	Humoriste	0	
+entry	Hyaloïde	0	
 pb	203	0208	7330479
-entry	Hydatide		
+entry	Hydatide	11	
 pb	204	0209	7330480
 pb	205	0210	7330481
 pb	206	0211	7330482
@@ -290,11 +290,11 @@ pb	211	0216	7330487
 pb	212	0217	7330488
 pb	213	0218	7330489
 pb	214	0219	7330490
-entry	Hydatidocèle		
-entry	Hydatoïde		
+entry	Hydatidocèle	0	
+entry	Hydatoïde	0	
 pb	215	0220	7330491
-entry	Hydragogue		
-entry	Hydrarthre		
+entry	Hydragogue	0	
+entry	Hydrarthre	8	
 pb	216	0221	7330492
 pb	217	0222	7330493
 pb	218	0223	7330494
@@ -303,12 +303,12 @@ pb	220	0225	7330496
 pb	221	0226	7330497
 pb	222	0227	7330498
 pb	223	0228	7330499
-entry	Hydrate		
-entry	Hydrentérocèle		
-entry	Hydriodate		
-entry	Hydriodate ioduré		
-entry	Hydriodique		
-entry	Hydrocèle		
+entry	Hydrate	0	
+entry	Hydrentérocèle	0	
+entry	Hydriodate	0	
+entry	Hydriodate ioduré	0	
+entry	Hydriodique	0	
+entry	Hydrocèle	18	
 pb	224	0229	7330500
 pb	225	0230	7330501
 pb	226	0231	7330502
@@ -327,7 +327,7 @@ pb	238	0243	7330514
 pb	239	0244	7330515
 pb	240	0245	7330516
 pb	241	0246	7330517
-entry	Hydrocéphale		
+entry	Hydrocéphale	23	
 pb	242	0247	7330518
 pb	243	0248	7330519
 pb	244	0249	7330520
@@ -351,12 +351,12 @@ pb	261	0266	7330537
 pb	262	0267	7330538
 pb	263	0268	7330539
 pb	264	0269	7330540
-entry	Hydrochlorate		
+entry	Hydrochlorate	2	
 pb	265	0270	7330541
 pb	266	0271	7330542
 pb	267	0272	7330543
-entry	Hydrochlorique		
-entry	Hydrocyanique		
+entry	Hydrochlorique	0	
+entry	Hydrocyanique	9	
 pb	268	0273	7330544
 pb	269	0274	7330545
 pb	270	0275	7330546
@@ -366,30 +366,30 @@ pb	273	0278	7330549
 pb	274	0279	7330550
 pb	275	0280	7330551
 pb	276	0281	7330552
-entry	Hydro-entérocèle		
-entry	Hydro-entéro-épiplocèle		
-entry	Hydro-entéro-épiplomphale		
-entry	Hydro-épiplocèle		
-entry	Hydrogastre		
+entry	Hydro-entérocèle	0	
+entry	Hydro-entéro-épiplocèle	0	
+entry	Hydro-entéro-épiplomphale	0	
+entry	Hydro-épiplocèle	0	
+entry	Hydrogastre	1	
 pb	277	0282	7330553
-entry	Hydrogène		
+entry	Hydrogène	4	
 pb	278	0283	7330554
 pb	279	0284	7330555
 pb	280	0285	7330556
 pb	281	0286	7330557
-entry	Hydromédiastin		
+entry	Hydromédiastin	1	
 pb	282	0287	7330558
-entry	Hydromel		
-entry	Hydromètre		
+entry	Hydromel	0	
+entry	Hydromètre	6	
 pb	283	0288	7330559
 pb	284	0289	7330560
 pb	285	0290	7330561
 pb	286	0291	7330562
 pb	287	0292	7330563
 pb	288	0293	7330564
-entry	Hydromphale		
+entry	Hydromphale	0	
 pb	289	0294	7330565
-entry	Hydropéricarde		
+entry	Hydropéricarde	9	
 pb	290	0295	7330566
 pb	291	0296	7330567
 pb	292	0297	7330568
@@ -399,19 +399,19 @@ pb	295	0300	7330571
 pb	296	0301	7330572
 pb	297	0302	7330573
 pb	298	0303	7330574
-entry	Hydrophobe		
-entry	Hydrophobie		
+entry	Hydrophobe	0	
+entry	Hydrophobie	3	
 pb	299	0304	7330575
 pb	300	0305	7330576
 pb	301	0306	7330577
-entry	Hydrophthalmie		
+entry	Hydrophthalmie	3	
 pb	302	0307	7330578
 pb	303	0308	7330579
 pb	304	0309	7330580
-entry	Hydrophthorate		
-entry	Hydrophthorique		
-entry	Hydro-physocèle		
-entry	Hydropisie		
+entry	Hydrophthorate	0	
+entry	Hydrophthorique	0	
+entry	Hydro-physocèle	0	
+entry	Hydropisie	22	
 pb	305	0310	7330581
 pb	306	0311	7330582
 pb	307	0312	7330583
@@ -434,14 +434,14 @@ pb	323	0328	7330599
 pb	324	0329	7330600
 pb	325	0330	7330601
 pb	326	0331	7330602
-entry	Hydropneumonie		
+entry	Hydropneumonie	5	
 pb	327	0332	7330603
 pb	328	0333	7330604
 pb	329	0334	7330605
 pb	330	0335	7330606
 pb	331	0336	7330607
-entry	Hydropote		
-entry	Hydrorachis		
+entry	Hydropote	0	
+entry	Hydrorachis	7	
 pb	332	0337	7330608
 pb	333	0338	7330609
 pb	334	0339	7330610
@@ -449,17 +449,17 @@ pb	335	0340	7330611
 pb	336	0341	7330612
 pb	337	0342	7330613
 pb	338	0343	7330614
-entry	Hydro-sarcocèle		
+entry	Hydro-sarcocèle	1	
 pb	339	0344	7330615
-entry	Hydroséléniate		
-entry	Hydrosélénique		
-entry	Hydrosulfate		
+entry	Hydroséléniate	0	
+entry	Hydrosélénique	0	
+entry	Hydrosulfate	1	
 pb	340	0345	7330616
-entry	Hydrosulfate sulfuré		
+entry	Hydrosulfate sulfuré	1	
 pb	341	0346	7330617
-entry	Hydrosulfurique		
+entry	Hydrosulfurique	1	
 pb	342	0347	7330618
-entry	Hydrothorax		
+entry	Hydrothorax	12	
 pb	343	0348	7330619
 pb	344	0349	7330620
 pb	345	0350	7330621
@@ -472,34 +472,34 @@ pb	351	0356	7330627
 pb	352	0357	7330628
 pb	353	0358	7330629
 pb	354	0359	7330630
-entry	Hydrotite		
+entry	Hydrotite	1	
 pb	355	0360	7330631
-entry	Hydrure		
-entry	Hygiène		
+entry	Hydrure	0	
+entry	Hygiène	3	
 pb	356	0361	7330632
 pb	357	0362	7330633
 pb	358	0363	7330634
-entry	Hygroblépharique		
-entry	Hygromètre		
+entry	Hygroblépharique	0	
+entry	Hygromètre	1	
 pb	359	0364	7330635
-entry	Hymen		
+entry	Hymen	1	
 pb	360	0365	7330636
-entry	Hyo-épiglottique		
-entry	Hyo-glosse		
-entry	Hyoïde		
+entry	Hyo-épiglottique	0	
+entry	Hyo-glosse	0	
+entry	Hyoïde	1	
 pb	361	0366	7330637
-entry	Hyovertébrotomie		
+entry	Hyovertébrotomie	3	
 pb	362	0367	7330638
 pb	363	0368	7330639
 pb	364	0369	7330640
-entry	Hypersthénie		
-entry	Hyperesthésie		
-entry	Hypertonie		
-entry	Hypertrophie		
+entry	Hypersthénie	0	
+entry	Hyperesthésie	0	
+entry	Hypertonie	0	
+entry	Hypertrophie	1	
 pb	365	0370	7330641
-entry	Hypochondre		
+entry	Hypochondre	0	
 pb	366	0371	7330642
-entry	Hypochondrie		
+entry	Hypochondrie	17	
 pb	367	0372	7330643
 pb	368	0373	7330644
 pb	369	0374	7330645
@@ -517,35 +517,35 @@ pb	380	0385	7330656
 pb	381	0386	7330657
 pb	382	0387	7330658
 pb	383	0388	7330659
-entry	Hypociste		
-entry	Hypocophose		
-entry	Hypocras		
-entry	Hypogastre		
+entry	Hypociste	0	
+entry	Hypocophose	0	
+entry	Hypocras	0	
+entry	Hypogastre	1	
 pb	384	0389	7330660
-entry	Hypogastrique		
+entry	Hypogastrique	1	
 pb	385	0390	7330661
-entry	Hypogastrocèle		
-entry	Hypoglosse		
+entry	Hypogastrocèle	0	
+entry	Hypoglosse	2	
 pb	386	0391	7330662
 pb	387	0392	7330663
-entry	Hypophthalmie		
-entry	Hypophyse		
-entry	Hypopyon		
+entry	Hypophthalmie	0	
+entry	Hypophyse	0	
+entry	Hypopyon	2	
 pb	388	0393	7330664
 pb	389	0394	7330665
 pb	390	0395	7330666
-entry	Hypospadias		
+entry	Hypospadias	1	
 pb	391	0396	7330667
-entry	Hypostaphyle		
+entry	Hypostaphyle	1	
 pb	392	0397	7330668
-entry	Hypothénar		
-entry	Hypothèse		
+entry	Hypothénar	0	
+entry	Hypothèse	1	
 pb	393	0398	7330669
-entry	Hyssope		
-entry	Hystéralgie		
+entry	Hyssope	0	
+entry	Hystéralgie	1	
 pb	394	0399	7330670
-entry	Hystéricisme		
-entry	Hystérie		
+entry	Hystéricisme	0	
+entry	Hystérie	15	
 pb	395	0400	7330671
 pb	396	0401	7330672
 pb	397	0402	7330673
@@ -561,12 +561,12 @@ pb	406	0411	7330682
 pb	407	0412	7330683
 pb	408	0413	7330684
 pb	409	0414	7330685
-entry	Hystérocèle		
+entry	Hystérocèle	2	
 pb	410	0415	7330686
 pb	411	0416	7330687
-entry	Hystéro-cystique		
-entry	Hystéro-cystocèle		
-entry	Hystéroloxie		
+entry	Hystéro-cystique	0	
+entry	Hystéro-cystocèle	0	
+entry	Hystéroloxie	9	
 pb	412	0417	7330688
 pb	413	0418	7330689
 pb	414	0419	7330690
@@ -576,8 +576,8 @@ pb	417	0422	7330693
 pb	418	0423	7330694
 pb	419	0424	7330695
 pb	420	0425	7330696
-entry	Hystéromanie		
-entry	Hystéroptose		
+entry	Hystéromanie	0	
+entry	Hystéroptose	10	
 pb	421	0426	7330697
 pb	422	0427	7330698
 pb	423	0428	7330699
@@ -588,7 +588,7 @@ pb	427	0432	7330703
 pb	428	0433	7330704
 pb	429	0434	7330705
 pb	430	0435	7330706
-entry	Hystérorragie		
+entry	Hystérorragie	14	
 pb	431	0436	7330707
 pb	432	0437	7330708
 pb	433	0438	7330709
@@ -603,23 +603,23 @@ pb	441	0446	7330717
 pb	442	0447	7330718
 pb	443	0448	7330719
 pb	444	0449	7330720
-entry	Hystérostomatome		
-entry	Hystérotome		
+entry	Hystérostomatome	0	
+entry	Hystérotome	1	
 pb	445	0450	7330721
-entry	Hystérotomie		
+entry	Hystérotomie	4	
 pb	446	0451	7330722
 pb	447	0452	7330723
 pb	448	0453	7330724
 pb	449	0454	7330725
-entry	Iatraleptique		
-entry	Ichor		
-entry	Ichthyocolle		
+entry	Iatraleptique	0	
+entry	Ichor	0	
+entry	Ichthyocolle	1	
 pb	450	0455	7330726
-entry	Ichthyose		
+entry	Ichthyose	3	
 pb	451	0456	7330727
 pb	452	0457	7330728
 pb	453	0458	7330729
-entry	Ictère		
+entry	Ictère	9	
 pb	454	0459	7330730
 pb	455	0460	7330731
 pb	456	0461	7330732
@@ -629,11 +629,11 @@ pb	459	0464	7330735
 pb	460	0465	7330736
 pb	461	0466	7330737
 pb	462	0467	7330738
-entry	Ictérique		
-entry	Idiopathie		
-entry	Idiosyncrasie		
+entry	Ictérique	0	
+entry	Idiopathie	0	
+entry	Idiosyncrasie	1	
 pb	463	0468	7330739
-entry	Idiotisme		
+entry	Idiotisme	14	
 pb	464	0469	7330740
 pb	465	0470	7330741
 pb	466	0471	7330742
@@ -648,36 +648,36 @@ pb	474	0479	7330750
 pb	475	0480	7330751
 pb	476	0481	7330752
 pb	477	0482	7330753
-entry	If		
+entry	If	1	
 pb	478	0483	7330754
-entry	Iléo-coecal		
+entry	Iléo-coecal	1	
 pb	479	0484	7330755
-entry	Iléon		
-entry	Iles		
-entry	Iléus		
+entry	Iléon	0	
+entry	Iles	0	
+entry	Iléus	3	
 pb	480	0485	7330756
 pb	481	0486	7330757
 pb	482	0487	7330758
-entry	Ilial		
-entry	Iliaque		
+entry	Ilial	0	
+entry	Iliaque	5	
 pb	483	0488	7330759
 pb	484	0489	7330760
 pb	485	0490	7330761
 pb	486	0491	7330762
 pb	487	0492	7330763
-entry	Ilio-lombaire		
-entry	Ilion 		
+entry	Ilio-lombaire	0	
+entry	Ilion 	0	
 pb	488	0493	7330764
-entry	Ilio-pectiné		
-entry	Illégitime		
-entry	Imaginaire		
-entry	Imagination		
+entry	Ilio-pectiné	0	
+entry	Illégitime	0	
+entry	Imaginaire	0	
+entry	Imagination	2	
 pb	489	0494	7330765
 pb	490	0495	7330766
-entry	Imaginations		
-entry	Imbécillité		
-entry	Immersion		
-entry	Immobilité		
+entry	Imaginations	0	
+entry	Imbécillité	0	
+entry	Immersion	0	
+entry	Immobilité	11	
 pb	491	0496	7330767
 pb	492	0497	7330768
 pb	493	0498	7330769
@@ -689,63 +689,63 @@ pb	498	0503	7330774
 pb	499	0504	7330775
 pb	500	0505	7330776
 pb	501	0506	7330777
-entry	Impératoire		
+entry	Impératoire	1	
 pb	502	0507	7330778
-entry	Imperforation		
-entry	Impétigineux		
-entry	Importation		
+entry	Imperforation	0	
+entry	Impétigineux	0	
+entry	Importation	3	
 pb	503	0508	7330779
 pb	504	0509	7330780
 pb	505	0510	7330781
 pb	506	0511	7330782
-entry	Impotent		
-entry	Imprégnation		
-entry	Impression		
-entry	Impubère		
-entry	Impuissance		
+entry	Impotent	0	
+entry	Imprégnation	0	
+entry	Impression	0	
+entry	Impubère	0	
+entry	Impuissance	5	
 pb	507	0512	7330783
 pb	508	0513	7330784
 pb	509	0514	7330785
 pb	510	0515	7330786
 pb	511	0516	7330787
-entry	Inanition		
-entry	Inappétence		
-entry	Incarnatif		
+entry	Inanition	0	
+entry	Inappétence	0	
+entry	Incarnatif	1	
 pb	512	0517	7330788
-entry	Incération		
-entry	Incinération		
-entry	Incisif		
-entry	Incision 		
+entry	Incération	0	
+entry	Incinération	0	
+entry	Incisif	0	
+entry	Incision 	0	
 pb	513	0518	7330789
-entry	Incision		
+entry	Incision	4	
 pb	514	0519	7330790
 pb	515	0520	7330791
 pb	516	0521	7330792
 pb	517	0522	7330793
-entry	Incitabilité		
+entry	Incitabilité	1	
 pb	518	0523	7330794
-entry	Incitant		
+entry	Incitant	1	
 pb	519	0524	7330795
-entry	Incitation		
-entry	Incontinence		
+entry	Incitation	0	
+entry	Incontinence	2	
 pb	520	0525	7330796
 pb	521	0526	7330797
-entry	Incorporation		
-entry	Incrassant		
-entry	Incrustation		
+entry	Incorporation	0	
+entry	Incrassant	0	
+entry	Incrustation	1	
 pb	522	0527	7330798
-entry	Incubation		
-entry	Incube		
-entry	Incurabilité		
+entry	Incubation	0	
+entry	Incube	0	
+entry	Incurabilité	1	
 pb	523	0528	7330799
-entry	Index		
-entry	Indicateur		
-entry	Indication		
+entry	Index	0	
+entry	Indicateur	0	
+entry	Indication	2	
 pb	524	0529	7330800
 pb	525	0530	7330801
 pb	526	0531	7330802
-entry	Indigeste		
-entry	Indigestion		
+entry	Indigeste	0	
+entry	Indigestion	38	
 pb	527	0532	7330803
 pb	528	0533	7330804
 pb	529	0534	7330805
@@ -784,19 +784,19 @@ pb	561	0566	7330837
 pb	562	0567	7330838
 pb	563	0568	7330839
 pb	564	0569	7330840
-entry	Indigo		
+entry	Indigo	1	
 pb	565	0570	7330841
-entry	Indigotine		
-entry	Indiquant		
-entry	Indiqué		
-entry	Indisposition		
-entry	Indolence		
-entry	Indolent		
-entry	Induration		
+entry	Indigotine	0	
+entry	Indiquant	0	
+entry	Indiqué	0	
+entry	Indisposition	0	
+entry	Indolence	0	
+entry	Indolent	0	
+entry	Induration	1	
 pb	566	0571	7330842
-entry	Inertie		
+entry	Inertie	1	
 pb	567	0572	7330843
-entry	Infanticide		
+entry	Infanticide	22	
 pb	568	0573	7330844
 pb	569	0574	7330845
 pb	570	0575	7330846
@@ -819,10 +819,10 @@ pb	586	0591	7330862
 pb	587	0592	7330863
 pb	588	0593	7330864
 pb	589	0594	7330865
-entry	Infect		
-entry	Infecté		
-entry	Infectieux		
-entry	Infection		
+entry	Infect	0	
+entry	Infecté	0	
+entry	Infectieux	0	
+entry	Infection	2	
 pb	590	0595	7330866
 pb	591	0596	7330867
-entry	Infernal		
+entry	Infernal	0	

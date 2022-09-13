@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4538705
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4538706
 pb	[s. pag.]	0003	4538707
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4538708
 pb	1	0005	4538709
-entry	Inhibition [C.-E. Brown-Séquard]		
+entry	Inhibition [C.-E. Brown-Séquard]	18	
 orth	Inhibition		
 pb	2	0006	4538710
 pb	3	0007	4538711
@@ -25,27 +25,27 @@ pb	16	0020	4538724
 pb	17	0021	4538725
 pb	18	0022	4538726
 pb	19	0023	4538727
-entry	Iniencéphales [L. Hahn]		
+entry	Iniencéphales [L. Hahn]	0	
 orth	Iniencéphales		
-entry	Iniodymes [L. Hahn]		
+entry	Iniodymes [L. Hahn]	0	
 orth	Iniodymes		
-entry	Iniopes [L. Hahn]		
+entry	Iniopes [L. Hahn]	0	
 orth	Iniopes		
-entry	Inocarpine [L. Hahn]		
+entry	Inocarpine [L. Hahn]	0	
 orth	Inocarpine		
-entry	Inocarpus (Forst) [H. Baillon]		
+entry	Inocarpus (Forst) [H. Baillon]	0	
 orth	Inocarpus (Forst)		
-entry	Inogène [L. Hahn]		
+entry	Inogène [L. Hahn]	0	
 orth	Inogène		
 pb	20	0024	4538728
-entry	Inosique (Acide) [L. Hahn]		
+entry	Inosique (Acide) [L. Hahn]	0	
 orth	Inosique (Acide)		
-entry	Inosite [L. Hahn]		
+entry	Inosite [L. Hahn]	1	
 orth	Inosite		
 pb	21	0025	4538729
-entry	Inosurie		
+entry	Inosurie	0	
 ref	Urine		
-entry	Insectes [A. Laboulbène]		
+entry	Insectes [A. Laboulbène]	20	
 orth	Insectes		
 pb	22	0026	4538730
 pb	23	0027	4538731
@@ -67,17 +67,17 @@ pb	38	0042	4538746
 pb	39	0043	4538747
 pb	40	0044	4538748
 pb	41	0045	4538749
-entry	Insectivores [E. Oustalet]		
+entry	Insectivores [E. Oustalet]	1	
 orth	Insectivores		
 pb	42	0046	4538750
-entry	Insolation		
+entry	Insolation	0	
 ref	Coup de chaleur		
-entry	Insolinique (Acide) [L. Hahn]		
+entry	Insolinique (Acide) [L. Hahn]	0	
 orth	Insolinique (Acide)		
-entry	Insula de Reil		
+entry	Insula de Reil	0	
 ref	Circonvolutions		
 ref	Corps striés		
-entry	Intercostale (Névralgie) [L. Ménard]		
+entry	Intercostale (Névralgie) [L. Ménard]	6	
 orth	Intercostale (Névralgie)		
 pb	43	0047	4538751
 pb	44	0048	4538752
@@ -85,21 +85,21 @@ pb	45	0049	4538753
 pb	46	0050	4538754
 pb	47	0051	4538755
 pb	48	0052	4538756
-entry	Intercostaux (Muscles) [L. Testut]		
+entry	Intercostaux (Muscles) [L. Testut]	2	
 orth	Intercostaux (Muscles)		
 pb	49	0053	4538757
 pb	50	0054	4538758
-entry	Intercostaux (Nerfs) [L. Testut]		
+entry	Intercostaux (Nerfs) [L. Testut]	3	
 orth	Intercostaux (Nerfs)		
 pb	51	0055	4538759
 pb	52	0056	4538760
 pb	53	0057	4538761
 pb	54	0058	4538762
-entry	Intercostaux (Vaisseaux) [L. Testut]		
+entry	Intercostaux (Vaisseaux) [L. Testut]	2	
 orth	Intercostaux (Vaisseaux)		
 pb	55	0059	4538763
 pb	56	0060	4538764
-entry	Interdiction des aliénés [Ant. Ritti]		
+entry	Interdiction des aliénés [Ant. Ritti]	17	
 orth	Interdiction des aliénés		
 pb	57	0061	4538765
 pb	58	0062	4538766
@@ -118,15 +118,15 @@ pb	70	0074	4538778
 pb	71	0075	4538779
 pb	72	0076	4538780
 pb	73	0077	4538781
-entry	Interépineux (Muscles) [L. Testut]		
+entry	Interépineux (Muscles) [L. Testut]	0	
 orth	Interépineux (Muscles)		
-entry	Interférences		
+entry	Interférences	0	
 ref	Optique		
-entry	Intermaxillaire (Os)		
+entry	Intermaxillaire (Os)	0	
 ref	Maxillaire supérieur		
-entry	Intermédiaire de Wrisberg (Nerf)		
+entry	Intermédiaire de Wrisberg (Nerf)	0	
 ref	Facial (Nerf)		
-entry	Intermittentes (Fièvres) [Léon Colin]		
+entry	Intermittentes (Fièvres) [Léon Colin]	139	
 orth	Intermittentes (Fièvres)		
 pb	74	0078	4538782
 pb	75	0079	4538783
@@ -267,33 +267,33 @@ pb	209	0213	4538917
 pb	210	0214	4538918
 pb	211	0215	4538919
 pb	212	0216	4538920
-entry	Interosseuses (Artères et Veines)		
+entry	Interosseuses (Artères et Veines)	0	
 ref	Cubitale		
 ref	Main		
 ref	Pied		
-entry	Interosseux (Ligaments)		
+entry	Interosseux (Ligaments)	0	
 ref	Jambe		
 ref	Radio-cubitales (Articulation)		
 pb	213	0217	4538921
-entry	Interosseux (Muscles)		
+entry	Interosseux (Muscles)	0	
 ref	Main		
 ref	Pied		
-entry	Interrupteur [L. Hahn]		
+entry	Interrupteur [L. Hahn]	0	
 orth	Interrupteur		
-entry	Intertransversaires (Muscles) [L. Testut]		
+entry	Intertransversaires (Muscles) [L. Testut]	1	
 orth	Intertransversaires (Muscles)		
 pb	214	0218	4538922
-entry	Intertrigo [Henri Fournier]		
+entry	Intertrigo [Henri Fournier]	5	
 orth	Intertrigo		
 pb	215	0219	4538923
 pb	216	0220	4538924
 pb	217	0221	4538925
 pb	218	0222	4538926
 pb	219	0223	4538927
-entry	Inter-utéro-placentaire (Membrane)		
+entry	Inter-utéro-placentaire (Membrane)	0	
 ref	Placenta		
-entry	Intestin		
-entry	Intestin. Anatomie [E. Wertheimer]		
+entry	Intestin	0	
+entry	Intestin. Anatomie [E. Wertheimer]	18	
 orth	Intestin. Anatomie		
 pb	220	0224	4538928
 pb	221	0225	4538929
@@ -313,7 +313,7 @@ pb	234	0238	4538942
 pb	235	0239	4538943
 pb	236	0240	4538944
 pb	237	0241	4538945
-entry	Intestin. Histologie [F. Tourneux, G. Herrmann]		
+entry	Intestin. Histologie [F. Tourneux, G. Herrmann]	9	
 orth	Intestin. Histologie		
 pb	238	0242	4538946
 pb	239	0243	4538947
@@ -324,14 +324,14 @@ pb	243	0247	4538951
 pb	244	0248	4538952
 pb	245	0249	4538953
 pb	246	0250	4538954
-entry	Intestin. Développement [F. Tourneux, G. Herrmann]		
+entry	Intestin. Développement [F. Tourneux, G. Herrmann]	3	
 orth	Intestin. Développement		
 pb	247	0251	4538955
 pb	248	0252	4538956
 pb	249	0253	4538957
 pb	250	0254	4538958
-entry	Intestin		
-entry	Intestin. Physiologie [G.-H. Roger]		
+entry	Intestin	0	
+entry	Intestin. Physiologie [G.-H. Roger]	40	
 orth	Intestin. Physiologie		
 pb	251	0255	4538959
 pb	252	0256	4538960
@@ -373,7 +373,7 @@ pb	287	0291	4538995
 pb	288	0292	4538996
 pb	289	0293	4538997
 pb	290	0294	4538998
-entry	Intestin. Pathologie [Blachez]		
+entry	Intestin. Pathologie [Blachez]	20	
 orth	Intestin. Pathologie		
 pb	291	0295	4538999
 pb	292	0296	4539000
@@ -395,34 +395,34 @@ pb	307	0311	4539015
 pb	308	0312	4539016
 pb	309	0313	4539017
 pb	310	0314	4539018
-entry	Intestin (Gros)		
+entry	Intestin (Gros)	0	
 ref	Intestin		
 ref	Caecum		
 ref	Côlon		
 ref	Rectum		
 ref	Digestif		
-entry	Inula		
+entry	Inula	0	
 ref	Aunée		
-entry	Inuline [L. Hahn]		
+entry	Inuline [L. Hahn]	0	
 orth	Inuline		
-entry	Inuloïde [L. Hahn]		
+entry	Inuloïde [L. Hahn]	0	
 orth	Inuloïde		
 pb	311	0315	4539019
-entry	Invagination		
+entry	Invagination	0	
 ref	Intestin (Pathologie)		
-entry	Inversion [L. Hahn]		
+entry	Inversion [L. Hahn]	0	
 orth	Inversion		
-entry	Invertébrés [Ed. Lefèvre]		
+entry	Invertébrés [Ed. Lefèvre]	0	
 orth	Invertébrés		
-entry	Invertine [L. Hahn]		
+entry	Invertine [L. Hahn]	0	
 orth	Invertine		
-entry	Iodal [L. Hahn]		
+entry	Iodal [L. Hahn]	0	
 orth	Iodal		
-entry	Iodates [L. Hahn]		
+entry	Iodates [L. Hahn]	1	
 orth	Iodates		
 pb	312	0316	4539020
-entry	Iode		
-entry	Iode. Chimie [L. Hahn]		
+entry	Iode	0	
+entry	Iode. Chimie [L. Hahn]	8	
 orth	Iode. Chimie		
 pb	313	0317	4539021
 pb	314	0318	4539022
@@ -432,7 +432,7 @@ pb	317	0321	4539025
 pb	318	0322	4539026
 pb	319	0323	4539027
 pb	320	0324	4539028
-entry	Iode. Emploi médical [Charles Éloy]		
+entry	Iode. Emploi médical [Charles Éloy]	22	
 orth	Iode. Emploi médical		
 pb	321	0325	4539029
 pb	322	0326	4539030
@@ -456,20 +456,20 @@ pb	339	0343	4539047
 pb	340	0344	4539048
 pb	341	0345	4539049
 pb	342	0346	4539050
-entry	Iodélayle ou Iodéther [L. Hahn]		
+entry	Iodélayle ou Iodéther [L. Hahn]	0	
 orth	Iodélayle ou Iodéther		
-entry	Iodéthéroïde [L. Hahn]		
+entry	Iodéthéroïde [L. Hahn]	0	
 orth	Iodéthéroïde		
-entry	Iodhydrines [L. Hahn]		
+entry	Iodhydrines [L. Hahn]	0	
 orth	Iodhydrines		
-entry	Iodhydrique (Acide) [L. Hahn]		
+entry	Iodhydrique (Acide) [L. Hahn]	1	
 orth	Iodhydrique (Acide)		
 pb	343	0347	4539051
-entry	Iodique et Periodique (Acides) [L. Hahn]		
+entry	Iodique et Periodique (Acides) [L. Hahn]	1	
 orth	Iodique et Periodique (Acides)		
 pb	344	0348	4539052
 pb	345	0349	4539053
-entry	Iodisme [A. Pignot]		
+entry	Iodisme [A. Pignot]	11	
 orth	Iodisme		
 pb	346	0350	4539054
 pb	347	0351	4539055
@@ -482,18 +482,18 @@ pb	353	0357	4539061
 pb	354	0358	4539062
 pb	355	0359	4539063
 pb	356	0360	4539064
-entry	Iodobenzoïques (Acides) [L. Hahn]		
+entry	Iodobenzoïques (Acides) [L. Hahn]	0	
 orth	Iodobenzoïques (Acides)		
-entry	Iodobenzoyle [L. Hahn]		
+entry	Iodobenzoyle [L. Hahn]	0	
 orth	Iodobenzoyle		
-entry	Iodocyane [L. Hahn]		
+entry	Iodocyane [L. Hahn]	0	
 orth	Iodocyane		
-entry	Iodoforme		
-entry	Iodoforme. Chimie [L. Hahn]		
+entry	Iodoforme	0	
+entry	Iodoforme. Chimie [L. Hahn]	2	
 orth	Iodoforme. Chimie		
 pb	357	0361	4539065
 pb	358	0362	4539066
-entry	Iodoforme. Emploi médical [Charles Éloy]		
+entry	Iodoforme. Emploi médical [Charles Éloy]	13	
 orth	Iodoforme. Emploi médical		
 pb	359	0363	4539067
 pb	360	0364	4539068
@@ -508,24 +508,24 @@ pb	368	0372	4539076
 pb	369	0373	4539077
 pb	370	0374	4539078
 pb	371	0375	4539079
-entry	Iodol		
-entry	Iodol. Chimie [L. Hahn]		
+entry	Iodol	0	
+entry	Iodol. Chimie [L. Hahn]	1	
 orth	Iodol. Chimie		
 pb	372	0376	4539080
-entry	Iodol. Emploi médical [Charles Éloy]		
+entry	Iodol. Emploi médical [Charles Éloy]	1	
 orth	Iodol. Emploi médical		
 pb	373	0377	4539081
-entry	Iodométrie		
+entry	Iodométrie	0	
 ref	Iode		
-entry	Iodures		
-entry	Iodures. Chimie [L. Hahn]		
+entry	Iodures	0	
+entry	Iodures. Chimie [L. Hahn]	5	
 orth	Iodures. Chimie		
 pb	374	0378	4539082
 pb	375	0379	4539083
 pb	376	0380	4539084
 pb	377	0381	4539085
 pb	378	0382	4539086
-entry	Iodures. Emploi médical [Charles Éloy]		
+entry	Iodures. Emploi médical [Charles Éloy]	11	
 orth	Iodures. Emploi médical		
 pb	379	0383	4539087
 pb	380	0384	4539088
@@ -538,16 +538,16 @@ pb	386	0390	4539094
 pb	387	0391	4539095
 pb	388	0392	4539096
 pb	389	0393	4539097
-entry	Ionidium [Ed. Lefèvre]		
+entry	Ionidium [Ed. Lefèvre]	0	
 orth	Ionidium		
 pb	390	0394	4539098
-entry	Ipécacuanha		
-entry	Ipécacuanha. Botanique [H. Baillon]		
+entry	Ipécacuanha	0	
+entry	Ipécacuanha. Botanique [H. Baillon]	3	
 orth	Ipécacuanha. Botanique		
 pb	391	0395	4539099
 pb	392	0396	4539100
 pb	393	0397	4539101
-entry	Ipécacuanha. Emploi médical [Ch. Debierre]		
+entry	Ipécacuanha. Emploi médical [Ch. Debierre]	9	
 orth	Ipécacuanha. Emploi médical		
 pb	394	0398	4539102
 pb	395	0399	4539103
@@ -558,29 +558,29 @@ pb	399	0403	4539107
 pb	400	0404	4539108
 pb	401	0405	4539109
 pb	402	0406	4539110
-entry	Ipomée [H. Baillon]		
+entry	Ipomée [H. Baillon]	2	
 orth	Ipomée		
 pb	403	0407	4539111
 pb	404	0408	4539112
-entry	Ipomique (Acide) [L. Hahn]		
+entry	Ipomique (Acide) [L. Hahn]	0	
 orth	Ipomique (Acide)		
-entry	Iridacées ou Iridées [Ed. Lefèvre]		
+entry	Iridacées ou Iridées [Ed. Lefèvre]	0	
 orth	Iridacées ou Iridées		
-entry	Iridectomie, Iridodialyse, Iridotomie, etc		
+entry	Iridectomie, Iridodialyse, Iridotomie, etc	0	
 ref	Iris		
-entry	Iridique (Acide) [Edme Bourgoin]		
+entry	Iridique (Acide) [Edme Bourgoin]	0	
 orth	Iridique (Acide)		
-entry	Iridium [Edme Bourgoin]		
+entry	Iridium [Edme Bourgoin]	2	
 orth	Iridium		
 pb	405	0409	4539113
 pb	406	0410	4539114
-entry	Iridoline [L. Hahn]		
+entry	Iridoline [L. Hahn]	0	
 orth	Iridoline		
-entry	Iridotomie		
+entry	Iridotomie	0	
 ref	Iris		
-entry	Iris [J. Chauvel, H. Nimier]		
+entry	Iris [J. Chauvel, H. Nimier]	0	
 orth	Iris		
-entry	Iris. Anatomie [J. Chauvel, H. Nimier]		
+entry	Iris. Anatomie [J. Chauvel, H. Nimier]	11	
 orth	Iris. Anatomie		
 pb	407	0411	4539115
 pb	408	0412	4539116
@@ -593,7 +593,7 @@ pb	414	0418	4539122
 pb	415	0419	4539123
 pb	416	0420	4539124
 pb	417	0421	4539125
-entry	Iris. Anomalies congénitales [J. Chauvel, H. Nimier]		
+entry	Iris. Anomalies congénitales [J. Chauvel, H. Nimier]	9	
 orth	Iris. Anomalies congénitales		
 pb	418	0422	4539126
 pb	419	0423	4539127
@@ -604,14 +604,14 @@ pb	423	0427	4539131
 pb	424	0428	4539132
 pb	425	0429	4539133
 pb	426	0430	4539134
-entry	Iris. Physiologie de l'iris [J. Chauvel, H. Nimier]		
+entry	Iris. Physiologie de l'iris [J. Chauvel, H. Nimier]	5	
 orth	Iris. Physiologie de l'iris		
 pb	427	0431	4539135
 pb	428	0432	4539136
 pb	429	0433	4539137
 pb	430	0434	4539138
 pb	431	0435	4539139
-entry	Iris. Pathologie [J. Chauvel, H. Nimier]		
+entry	Iris. Pathologie [J. Chauvel, H. Nimier]	26	
 orth	Iris. Pathologie		
 pb	432	0436	4539140
 pb	433	0437	4539141
@@ -639,7 +639,7 @@ pb	454	0458	4539162
 pb	455	0459	4539163
 pb	456	0460	4539164
 pb	457	0461	4539165
-entry	Iris. Médecine opératoire [J. Chauvel, H. Nimier]		
+entry	Iris. Médecine opératoire [J. Chauvel, H. Nimier]	10	
 orth	Iris. Médecine opératoire		
 pb	458	0462	4539166
 pb	459	0463	4539167
@@ -651,13 +651,13 @@ pb	464	0468	4539172
 pb	465	0469	4539173
 pb	466	0470	4539174
 pb	467	0471	4539175
-entry	Iris		
-entry	Iris. Botanique [Ed. Lefèvre]		
+entry	Iris	0	
+entry	Iris. Botanique [Ed. Lefèvre]	1	
 orth	Iris. Botanique		
 pb	468	0472	4539176
-entry	Iritis		
+entry	Iritis	0	
 ref	Iris (Pathologie)		
-entry	Irritabilité [E. Gley]		
+entry	Irritabilité [E. Gley]	32	
 orth	Irritabilité		
 pb	469	0473	4539177
 pb	470	0474	4539178
@@ -691,233 +691,233 @@ pb	497	0501	4539205
 pb	498	0502	4539206
 pb	499	0503	4539207
 pb	500	0504	4539208
-entry	Isalizarine [L. Hahn]		
+entry	Isalizarine [L. Hahn]	0	
 orth	Isalizarine		
-entry	Isalloxanique (Acide) [L. Hahn]		
+entry	Isalloxanique (Acide) [L. Hahn]	1	
 orth	Isalloxanique (Acide)		
 pb	501	0505	4539209
-entry	Isambert (Émile) [L. Hahn]		
+entry	Isambert (Émile) [L. Hahn]	0	
 orth	Isambert (Émile)		
-entry	Isanthracène-carboxylique [L. Hahn]		
+entry	Isanthracène-carboxylique [L. Hahn]	0	
 orth	Isanthracène-carboxylique		
-entry	Isanthraflavique (Acide) [L. Hahn]		
+entry	Isanthraflavique (Acide) [L. Hahn]	0	
 orth	Isanthraflavique (Acide)		
-entry	Isaria [Ed. Lefèvre]		
+entry	Isaria [Ed. Lefèvre]	0	
 orth	Isaria		
 pb	502	0506	4539210
-entry	Isard [E. Oustalet]		
+entry	Isard [E. Oustalet]	0	
 orth	Isard		
-entry	Isatane [L. Hahn]		
+entry	Isatane [L. Hahn]	0	
 orth	Isatane		
-entry	Isathyde [L. Hahn]		
+entry	Isathyde [L. Hahn]	0	
 orth	Isathyde		
-entry	Isatimide [L. Hahn]		
+entry	Isatimide [L. Hahn]	0	
 orth	Isatimide		
-entry	Isatine [L. Hahn]		
+entry	Isatine [L. Hahn]	0	
 orth	Isatine		
-entry	Isatique (Acide) [L. Hahn]		
+entry	Isatique (Acide) [L. Hahn]	1	
 orth	Isatique (Acide)		
 pb	503	0507	4539211
-entry	Isatinique (Acide)		
+entry	Isatinique (Acide)	0	
 ref	Imasatique (Acide)		
-entry	Isatis		
+entry	Isatis	0	
 ref	Pastel		
-entry	Isatogène ou Diisatogène [L. Hahn]		
+entry	Isatogène ou Diisatogène [L. Hahn]	0	
 orth	Isatogène ou Diisatogène		
-entry	Isatropique (Acide) [L. Hahn]		
+entry	Isatropique (Acide) [L. Hahn]	0	
 orth	Isatropique (Acide)		
-entry	Ischel ou Ischl (Eaux minérales et cure de petit-lait d') [A. Rotureau]		
+entry	Ischel ou Ischl (Eaux minérales et cure de petit-lait d') [A. Rotureau]	2	
 orth	Ischel ou Ischl (Eaux minérales et cure de petit-lait d')		
 pb	504	0508	4539212
 pb	505	0509	4539213
-entry	Ischémie		
+entry	Ischémie	0	
 ref	Anémie		
-entry	Ischia (Eaux minérales d')		
+entry	Ischia (Eaux minérales d')	0	
 ref	Casamicciola		
-entry	Ischiadelphes		
+entry	Ischiadelphes	0	
 ref	Ischiopages		
-entry	Ischiatique (Artère) [L. Testut]		
+entry	Ischiatique (Artère) [L. Testut]	1	
 orth	Ischiatique (Artère)		
 pb	506	0510	4539214
-entry	Ischio-caverneux, Ischio-clitoridien, Ischio-coccygien (Muscles)		
+entry	Ischio-caverneux, Ischio-clitoridien, Ischio-coccygien (Muscles)	0	
 ref	Périnée		
-entry	Ischion		
+entry	Ischion	0	
 ref	Bassin		
-entry	Ischiopages [L. Hahn]		
+entry	Ischiopages [L. Hahn]	0	
 orth	Ischiopages		
-entry	Iséthionique (Acide) [L. Hahn]		
+entry	Iséthionique (Acide) [L. Hahn]	1	
 orth	Iséthionique (Acide)		
 pb	507	0511	4539215
-entry	Isfordink (Johann-Nepomuk) [A. Dureau]		
+entry	Isfordink (Johann-Nepomuk) [A. Dureau]	0	
 orth	Isfordink (Johann-Nepomuk)		
-entry	Isoamylène [L. Hahn]		
+entry	Isoamylène [L. Hahn]	0	
 orth	Isoamylène		
-entry	Isoamylique (Alcool) [L. Hahn]		
+entry	Isoamylique (Alcool) [L. Hahn]	0	
 orth	Isoamylique (Alcool)		
-entry	Isobiuret [L. Hahn]		
+entry	Isobiuret [L. Hahn]	0	
 orth	Isobiuret		
-entry	Isobutylène [L. Hahn]		
+entry	Isobutylène [L. Hahn]	0	
 orth	Isobutylène		
-entry	Isobutyrique (Acide) [L. Hahn]		
+entry	Isobutyrique (Acide) [L. Hahn]	1	
 orth	Isobutyrique (Acide)		
 pb	508	0512	4539216
-entry	Isocaproïque (Acide) [L. Hahn]		
+entry	Isocaproïque (Acide) [L. Hahn]	0	
 orth	Isocaproïque (Acide)		
-entry	Isocétique (Acide) [L. Hahn]		
+entry	Isocétique (Acide) [L. Hahn]	0	
 orth	Isocétique (Acide)		
-entry	Isocholestérine [L. Hahn]		
+entry	Isocholestérine [L. Hahn]	0	
 orth	Isocholestérine		
-entry	Isocinchoméronique (Acide) [L. Hahn]		
+entry	Isocinchoméronique (Acide) [L. Hahn]	0	
 orth	Isocinchoméronique (Acide)		
-entry	Isocrotonique (Acide) [L. Hahn]		
+entry	Isocrotonique (Acide) [L. Hahn]	0	
 orth	Isocrotonique (Acide)		
-entry	Isocyanurique (Acide)		
+entry	Isocyanurique (Acide)	0	
 ref	Fulminurique (Acide)		
-entry	Isodulcite [L. Hahn]		
+entry	Isodulcite [L. Hahn]	1	
 orth	Isodulcite		
 pb	509	0513	4539217
-entry	Isodulcitique (Acide) [L. Hahn]		
+entry	Isodulcitique (Acide) [L. Hahn]	0	
 orth	Isodulcitique (Acide)		
-entry	Isodurol [L. Hahn]		
+entry	Isodurol [L. Hahn]	0	
 orth	Isodurol		
-entry	Isoduryliques (Acides) [L. Hahn]		
+entry	Isoduryliques (Acides) [L. Hahn]	0	
 orth	Isoduryliques (Acides)		
-entry	Isoetes [Ed. Lefèvre]		
+entry	Isoetes [Ed. Lefèvre]	1	
 orth	Isoetes		
 pb	510	0514	4539218
-entry	Isoheptylique (Acide) [L. Hahn]		
+entry	Isoheptylique (Acide) [L. Hahn]	0	
 orth	Isoheptylique (Acide)		
-entry	Isolement des aliénés [Ant. Ritti]		
+entry	Isolement des aliénés [Ant. Ritti]	4	
 orth	Isolement des aliénés		
 pb	511	0515	4539219
 pb	512	0516	4539220
 pb	513	0517	4539221
 pb	514	0518	4539222
-entry	Isomérie [L. Hahn]		
+entry	Isomérie [L. Hahn]	3	
 orth	Isomérie		
 pb	515	0519	4539223
 pb	516	0520	4539224
 pb	517	0521	4539225
-entry	Isomorphisme		
+entry	Isomorphisme	0	
 ref	Atomique (Théorie)		
-entry	Isonandra [H. Baillon]		
+entry	Isonandra [H. Baillon]	0	
 orth	Isonandra		
 pb	518	0522	4539226
-entry	Isonaphtoïque (Acide) [L. Hahn]		
+entry	Isonaphtoïque (Acide) [L. Hahn]	0	
 orth	Isonaphtoïque (Acide)		
-entry	Isonaphtol ou Isonaphtaline [L. Hahn]		
+entry	Isonaphtol ou Isonaphtaline [L. Hahn]	0	
 orth	Isonaphtol ou Isonaphtaline		
-entry	Isonicotinique (Acide) [L. Hahn]		
+entry	Isonicotinique (Acide) [L. Hahn]	0	
 orth	Isonicotinique (Acide)		
-entry	Isononylique (Acide) [L. Hahn]		
+entry	Isononylique (Acide) [L. Hahn]	0	
 orth	Isononylique (Acide)		
-entry	Isooctylique (Acide) [L. Hahn]		
+entry	Isooctylique (Acide) [L. Hahn]	0	
 orth	Isooctylique (Acide)		
-entry	Isophlorétine		
+entry	Isophlorétine	0	
 ref	Isophloridzine		
-entry	Isophlorétique (Acide) [L. Hahn]		
+entry	Isophlorétique (Acide) [L. Hahn]	0	
 orth	Isophlorétique (Acide)		
-entry	Isophloridzine [L. Hahn]		
+entry	Isophloridzine [L. Hahn]	0	
 orth	Isophloridzine		
-entry	Isophloroglucine [L. Hahn]		
+entry	Isophloroglucine [L. Hahn]	0	
 orth	Isophloroglucine		
-entry	Isophtalique (Acide) [L. Hahn]		
+entry	Isophtalique (Acide) [L. Hahn]	1	
 orth	Isophtalique (Acide)		
 pb	519	0523	4539227
-entry	Isophtalophénone [L. Hahn]		
+entry	Isophtalophénone [L. Hahn]	0	
 orth	Isophtalophénone		
-entry	Isopique (Acide) [L. Hahn]		
+entry	Isopique (Acide) [L. Hahn]	0	
 orth	Isopique (Acide)		
-entry	Isopodes [Ed. Lefèvre]		
+entry	Isopodes [Ed. Lefèvre]	0	
 orth	Isopodes		
-entry	Isoprène [L. Hahn]		
+entry	Isoprène [L. Hahn]	0	
 orth	Isoprène		
-entry	Isopropylacétique (Acide) [L. Hahn]		
+entry	Isopropylacétique (Acide) [L. Hahn]	0	
 orth	Isopropylacétique (Acide)		
-entry	Isopropylacétylène		
+entry	Isopropylacétylène	0	
 ref	Propylacétylène		
-entry	Isopropylamine		
+entry	Isopropylamine	0	
 ref	Propylamine		
 pb	520	0524	4539228
-entry	Isopropyle ou Diisopropyle [L. Hahn]		
+entry	Isopropyle ou Diisopropyle [L. Hahn]	0	
 orth	Isopropyle ou Diisopropyle		
-entry	Isopropylique (Alcool)		
+entry	Isopropylique (Alcool)	0	
 ref	Propylique (Alcool)		
-entry	Isopurpurine ou Anthrapurpurine [L. Hahn]		
+entry	Isopurpurine ou Anthrapurpurine [L. Hahn]	0	
 orth	Isopurpurine ou Anthrapurpurine		
-entry	Isopurpurique (Acide)		
+entry	Isopurpurique (Acide)	0	
 ref	Picrocyanique (Acide)		
-entry	Isopyromucique (Acide) [L. Hahn]		
+entry	Isopyromucique (Acide) [L. Hahn]	0	
 orth	Isopyromucique (Acide)		
-entry	Isorcine [L. Hahn]		
+entry	Isorcine [L. Hahn]	0	
 orth	Isorcine		
-entry	Isosuccinique (Acide) [L. Hahn]		
+entry	Isosuccinique (Acide) [L. Hahn]	0	
 orth	Isosuccinique (Acide)		
-entry	Isotartrique (Acide) [L. Hahn]		
+entry	Isotartrique (Acide) [L. Hahn]	0	
 orth	Isotartrique (Acide)		
-entry	Isotérébenthène [L. Hahn]		
+entry	Isotérébenthène [L. Hahn]	0	
 orth	Isotérébenthène		
-entry	Isotoluique ou Métatoluique (Acide)		
+entry	Isotoluique ou Métatoluique (Acide)	0	
 ref	Toluique (Acide)		
-entry	Isourique (Acide) [L. Hahn]		
+entry	Isourique (Acide) [L. Hahn]	1	
 orth	Isourique (Acide)		
 pb	521	0525	4539229
-entry	Isoxylène ou Métaxylène [L. Hahn]		
+entry	Isoxylène ou Métaxylène [L. Hahn]	0	
 orth	Isoxylène ou Métaxylène		
-entry	Isuret ou Isurétine [L. Hahn]		
+entry	Isuret ou Isurétine [L. Hahn]	0	
 orth	Isuret ou Isurétine		
-entry	Isuvitique (Acide) [L. Hahn]		
+entry	Isuvitique (Acide) [L. Hahn]	0	
 orth	Isuvitique (Acide)		
-entry	Itaconique (Acide) [L. Hahn]		
+entry	Itaconique (Acide) [L. Hahn]	0	
 orth	Itaconique (Acide)		
-entry	Itamalique (Acide) [L. Hahn]		
+entry	Itamalique (Acide) [L. Hahn]	1	
 orth	Itamalique (Acide)		
 pb	522	0526	4539230
-entry	Itapyruvique (Acide) [L. Hahn]		
+entry	Itapyruvique (Acide) [L. Hahn]	0	
 orth	Itapyruvique (Acide)		
-entry	Itard (Jean-E.-Marie-Gaspard) [L. Hahn]		
+entry	Itard (Jean-E.-Marie-Gaspard) [L. Hahn]	0	
 orth	Itard (Jean-E.-Marie-Gaspard)		
-entry	Itatartrique (Acide) [L. Hahn]		
+entry	Itatartrique (Acide) [L. Hahn]	0	
 orth	Itatartrique (Acide)		
-entry	Iules		
+entry	Iules	0	
 ref	Myriapodes		
-entry	Ivaïne [L. Hahn]		
+entry	Ivaïne [L. Hahn]	0	
 orth	Ivaïne		
-entry	Ivanda (Eau minérale d') [A. Rotureau]		
+entry	Ivanda (Eau minérale d') [A. Rotureau]	1	
 orth	Ivanda (Eau minérale d')		
 pb	523	0527	4539231
-entry	Ivaol [L. Hahn]		
+entry	Ivaol [L. Hahn]	0	
 orth	Ivaol		
-entry	Ivette [Ed. Lefèvre]		
+entry	Ivette [Ed. Lefèvre]	1	
 orth	Ivette		
 pb	524	0528	4539232
-entry	Ivonicz (Eaux minérales d') [A. Rotureau]		
+entry	Ivonicz (Eaux minérales d') [A. Rotureau]	0	
 orth	Ivonicz (Eaux minérales d')		
-entry	Ivraie [Ed. Lefèvre]		
+entry	Ivraie [Ed. Lefèvre]	1	
 orth	Ivraie		
 pb	525	0529	4539233
-entry	Ivresse		
+entry	Ivresse	0	
 ref	Alcoolisme		
 ref	Delirium tremens		
-entry	Iwanoff (Alexander) [A. Dureau]		
+entry	Iwanoff (Alexander) [A. Dureau]	0	
 orth	Iwanoff (Alexander)		
-entry	Ixodes [A. Laboulbène]		
+entry	Ixodes [A. Laboulbène]	3	
 orth	Ixodes		
 pb	526	0530	4539234
 pb	527	0531	4539235
 pb	528	0532	4539236
-entry	Ixora (L.) [H. Baillon]		
+entry	Ixora (L.) [H. Baillon]	0	
 orth	Ixora (L.)		
 pb	529	0533	4539237
-entry	Jabiru [E. Oustalet]		
+entry	Jabiru [E. Oustalet]	0	
 orth	Jabiru		
 pb	530	0534	4539238
-entry	Jaborandi		
-entry	Jaborandi. Botanique [H. Baillon]		
+entry	Jaborandi	0	
+entry	Jaborandi. Botanique [H. Baillon]	2	
 orth	Jaborandi. Botanique		
 pb	531	0535	4539239
 pb	532	0536	4539240
-entry	Jaborandi. Action physiologique [Ch. Debierre]		
+entry	Jaborandi. Action physiologique [Ch. Debierre]	14	
 orth	Jaborandi. Action physiologique		
 pb	533	0537	4539241
 pb	534	0538	4539242
@@ -933,7 +933,7 @@ pb	543	0547	4539251
 pb	544	0548	4539252
 pb	545	0549	4539253
 pb	546	0550	4539254
-entry	Jaborandi. Emploi thérapeutique [Ch. Debierre]		
+entry	Jaborandi. Emploi thérapeutique [Ch. Debierre]	8	
 orth	Jaborandi. Emploi thérapeutique		
 pb	547	0551	4539255
 pb	548	0552	4539256
@@ -943,83 +943,83 @@ pb	551	0555	4539259
 pb	552	0556	4539260
 pb	553	0557	4539261
 pb	554	0558	4539262
-entry	Jacamar [E. Oustalet]		
+entry	Jacamar [E. Oustalet]	1	
 orth	Jacamar		
 pb	555	0559	4539263
-entry	Jacana [E. Oustalet]		
+entry	Jacana [E. Oustalet]	0	
 orth	Jacana		
-entry	Jacaranda [Ed. Lefèvre]		
+entry	Jacaranda [Ed. Lefèvre]	1	
 orth	Jacaranda		
 pb	556	0560	4539264
-entry	Jacée		
+entry	Jacée	0	
 ref	Centaurée		
-entry	Jacinthe		
+entry	Jacinthe	0	
 ref	Hyacinthus		
-entry	Jackson (Les) [L. Hahn]		
+entry	Jackson (Les) [L. Hahn]	0	
 orth	Jackson (Les)		
-entry	Jacksonnienne (Épilepsie)		
+entry	Jacksonnienne (Épilepsie)	0	
 ref	Épilepsie		
-entry	Jacob (Arthur) [L. Hahn]		
+entry	Jacob (Arthur) [L. Hahn]	0	
 orth	Jacob (Arthur)		
-entry	Jacob (Membrane de)		
+entry	Jacob (Membrane de)	0	
 ref	Rétine		
-entry	Jacobée		
+entry	Jacobée	0	
 ref	Seneçon		
-entry	Jacobi (Carl-Wigand-Maximilian) [L. Hahn]		
+entry	Jacobi (Carl-Wigand-Maximilian) [L. Hahn]	0	
 orth	Jacobi (Carl-Wigand-Maximilian)		
-entry	Jacobsen (Holger) [A. Dureau]		
+entry	Jacobsen (Holger) [A. Dureau]	1	
 orth	Jacobsen (Holger)		
 pb	557	0561	4539265
-entry	Jacobson (Ludvic-Levin) [L. Hahn]		
+entry	Jacobson (Ludvic-Levin) [L. Hahn]	0	
 orth	Jacobson (Ludvic-Levin)		
-entry	Jacobson (Rameau de)		
+entry	Jacobson (Rameau de)	0	
 ref	Glosso-pharyngien (Nerf)		
-entry	Jacquemier (Jean-Marie) [L. Hahn]		
+entry	Jacquemier (Jean-Marie) [L. Hahn]	0	
 orth	Jacquemier (Jean-Marie)		
-entry	Jacques (Les) [L. Hahn]		
+entry	Jacques (Les) [L. Hahn]	1	
 orth	Jacques (Les)		
 pb	558	0562	4539266
-entry	Jacquier		
+entry	Jacquier	0	
 ref	Artocarpe		
-entry	Jadelot (Les) [L. Hahn]		
+entry	Jadelot (Les) [L. Hahn]	0	
 orth	Jadelot (Les)		
-entry	Jäger (Les) [L. Hahn]		
+entry	Jäger (Les) [L. Hahn]	1	
 orth	Jäger (Les)		
 pb	559	0563	4539267
-entry	Jaguar [E. Oustalet]		
+entry	Jaguar [E. Oustalet]	0	
 orth	Jaguar		
-entry	Jalap		
-entry	Botanique [Ed. Lefèvre]		
+entry	Jalap	0	
+entry	Botanique [Ed. Lefèvre]	0	
 orth	Botanique		
-entry	Jalap. Thérapeutique [L. Hahn]		
+entry	Jalap. Thérapeutique [L. Hahn]	1	
 orth	Jalap. Thérapeutique		
 pb	560	0564	4539268
-entry	Jalapine [L. Hahn]		
+entry	Jalapine [L. Hahn]	1	
 orth	Jalapine		
 pb	561	0565	4539269
-entry	Jalapinol [L. Hahn]		
+entry	Jalapinol [L. Hahn]	0	
 orth	Jalapinol		
-entry	Jalapinolique (Acide) [L. Hahn]		
+entry	Jalapinolique (Acide) [L. Hahn]	0	
 orth	Jalapinolique (Acide)		
-entry	Jalapique (Acide) [L. Hahn]		
+entry	Jalapique (Acide) [L. Hahn]	0	
 orth	Jalapique (Acide)		
-entry	Jalleyrac (Eau minérale de) [A. Rotureau]		
+entry	Jalleyrac (Eau minérale de) [A. Rotureau]	0	
 orth	Jalleyrac (Eau minérale de)		
-entry	Jamaïcine [L. Hahn]		
+entry	Jamaïcine [L. Hahn]	1	
 orth	Jamaïcine		
 pb	562	0566	4539270
-entry	Jamain (Jean-Alexandre) [L. Hahn]		
+entry	Jamain (Jean-Alexandre) [L. Hahn]	0	
 orth	Jamain (Jean-Alexandre)		
-entry	Jambe [H. Nimier]		
+entry	Jambe [H. Nimier]	0	
 orth	Jambe		
-entry	Jambe. Anatomie [H. Nimier]		
+entry	Jambe. Anatomie [H. Nimier]	3	
 orth	Jambe. Anatomie		
 pb	563	0567	4539271
 pb	564	0568	4539272
 pb	565	0569	4539273
-entry	Physiologie [H. Nimier]		
+entry	Physiologie [H. Nimier]	0	
 orth	Physiologie		
-entry	Jambe. Pathologie [H. Nimier]		
+entry	Jambe. Pathologie [H. Nimier]	41	
 orth	Jambe. Pathologie		
 pb	566	0570	4539274
 pb	567	0571	4539275
@@ -1062,7 +1062,7 @@ pb	603	0607	4539311
 pb	604	0608	4539312
 pb	605	0609	4539313
 pb	606	0610	4539314
-entry	Jambe. Médecine opératoire [H. Nimier]		
+entry	Jambe. Médecine opératoire [H. Nimier]	10	
 orth	Jambe. Médecine opératoire		
 pb	607	0611	4539315
 pb	608	0612	4539316
@@ -1074,7 +1074,7 @@ pb	613	0617	4539321
 pb	614	0618	4539322
 pb	615	0619	4539323
 pb	616	0620	4539324
-entry	Jambe articificielle [H. Nimier]		
+entry	Jambe articificielle [H. Nimier]	8	
 orth	Jambe articificielle		
 pb	617	0621	4539325
 pb	618	0622	4539326
@@ -1084,32 +1084,32 @@ pb	621	0625	4539329
 pb	622	0626	4539330
 pb	623	0627	4539331
 pb	624	0628	4539332
-entry	Jambier antérieur (Muscle) [L. Testut]		
+entry	Jambier antérieur (Muscle) [L. Testut]	1	
 orth	Jambier antérieur (Muscle)		
 pb	625	0629	4539333
-entry	Jambier postérieur (Muscle) [L. Testut]		
+entry	Jambier postérieur (Muscle) [L. Testut]	2	
 orth	Jambier postérieur (Muscle)		
 pb	626	0630	4539334
 pb	627	0631	4539335
-entry	Jambonneau [Ed. Lefèvre]		
+entry	Jambonneau [Ed. Lefèvre]	0	
 orth	Jambonneau		
-entry	Jambose		
+entry	Jambose	0	
 ref	Eugenia		
-entry	James (John-Haddy) [L. Hahn]		
+entry	James (John-Haddy) [L. Hahn]	0	
 orth	James (John-Haddy)		
-entry	Janiceps [L. Hahn]		
+entry	Janiceps [L. Hahn]	0	
 orth	Janiceps		
-entry	Janin de Combe-Blanche (Jean) [L. Hahn]		
+entry	Janin de Combe-Blanche (Jean) [L. Hahn]	0	
 orth	Janin de Combe-Blanche (Jean)		
-entry	Janthine [Ed. Lefèvre]		
+entry	Janthine [Ed. Lefèvre]	0	
 orth	Janthine		
-entry	Japaconitine [L. Hahn]		
+entry	Japaconitine [L. Hahn]	0	
 orth	Japaconitine		
 pb	628	0632	4539336
-entry	Japétique (Race)		
+entry	Japétique (Race)	0	
 ref	Aryens		
-entry	Japon		
-entry	Japon. Pathologie [L. Vincent]		
+entry	Japon	0	
+entry	Japon. Pathologie [L. Vincent]	13	
 orth	Japon. Pathologie		
 pb	629	0633	4539337
 pb	630	0634	4539338
@@ -1124,26 +1124,26 @@ pb	638	0642	4539346
 pb	639	0643	4539347
 pb	640	0644	4539348
 pb	641	0645	4539349
-entry	Japonique (Acide) [L. Hahn]		
+entry	Japonique (Acide) [L. Hahn]	1	
 orth	Japonique (Acide)		
 pb	642	0646	4539350
-entry	Jarjavay (Jean-François) [L. Hahn]		
+entry	Jarjavay (Jean-François) [L. Hahn]	0	
 orth	Jarjavay (Jean-François)		
-entry	Jaseur [E. Oustalet]		
+entry	Jaseur [E. Oustalet]	1	
 orth	Jaseur		
 pb	643	0647	4539351
-entry	Jasmin [H. Baillon]		
+entry	Jasmin [H. Baillon]	0	
 orth	Jasmin		
-entry	Jasminées [H. Baillon]		
+entry	Jasminées [H. Baillon]	0	
 orth	Jasminées		
-entry	Jatamansi		
+entry	Jatamansi	0	
 ref	Sumbul		
-entry	Jatropha		
+entry	Jatropha	0	
 ref	Manioc		
 pb	644	0648	4539352
-entry	Jaude (Eau minérale de)		
+entry	Jaude (Eau minérale de)	0	
 ref	Clermont-Ferrand		
-entry	Jaune (Fièvre) [E. Rochefort]		
+entry	Jaune (Fièvre) [E. Rochefort]	42	
 orth	Jaune (Fièvre)		
 pb	645	0649	4539353
 pb	646	0650	4539354
@@ -1187,12 +1187,12 @@ pb	683	0687	4539391
 pb	684	0688	4539392
 pb	685	0689	4539393
 pb	686	0690	4539394
-entry	Jaune (Liane) [Édouard Heckel]		
+entry	Jaune (Liane) [Édouard Heckel]	2	
 orth	Jaune (Liane)		
 pb	687	0691	4539395
 pb	688	0692	4539396
-entry	Jaunes		
-entry	Jaunes. Chimie [Ch. Blarez]		
+entry	Jaunes	0	
+entry	Jaunes. Chimie [Ch. Blarez]	9	
 orth	Jaunes. Chimie		
 pb	689	0693	4539397
 pb	690	0694	4539398
@@ -1203,186 +1203,186 @@ pb	694	0698	4539402
 pb	695	0699	4539403
 pb	696	0700	4539404
 pb	697	0701	4539405
-entry	Jaunisse		
+entry	Jaunisse	0	
 ref	Ictère		
-entry	Java		
+entry	Java	0	
 ref	Malaisie		
-entry	Javelle (Eau de)		
+entry	Javelle (Eau de)	0	
 ref	Hypochlorites		
 pb	698	0702	4539406
-entry	Jean (Les) [L. Hahn]		
+entry	Jean (Les) [L. Hahn]	0	
 orth	Jean (Les)		
-entry	Jean de Luz (Saint-) (Station marine) [A. Rotureau]		
+entry	Jean de Luz (Saint-) (Station marine) [A. Rotureau]	1	
 orth	Jean de Luz (Saint-) (Station marine)		
 pb	699	0703	4539407
-entry	Jeffersonia (Bart.) [H. Baillon]		
+entry	Jeffersonia (Bart.) [H. Baillon]	0	
 orth	Jeffersonia (Bart.)		
-entry	Jéjunum		
+entry	Jéjunum	0	
 ref	Intestin		
-entry	Jenner (Edward) [L. Hahn]		
+entry	Jenner (Edward) [L. Hahn]	0	
 orth	Jenner (Edward)		
-entry	Jenzat (Eaux minérales de) [A. Rotureau]		
+entry	Jenzat (Eaux minérales de) [A. Rotureau]	1	
 orth	Jenzat (Eaux minérales de)		
 pb	700	0704	4539408
-entry	Jéquirity [Édouard Heckel]		
+entry	Jéquirity [Édouard Heckel]	2	
 orth	Jéquirity		
 pb	701	0705	4539409
 pb	702	0706	4539410
-entry	Jersey (Station marine) [A. Rotureau]		
+entry	Jersey (Station marine) [A. Rotureau]	1	
 orth	Jersey (Station marine)		
 pb	703	0707	4539411
-entry	Jervine [L. Hahn]		
+entry	Jervine [L. Hahn]	0	
 orth	Jervine		
-entry	Job (Eaux minérales de) [A. Rotureau]		
+entry	Job (Eaux minérales de) [A. Rotureau]	0	
 orth	Job (Eaux minérales de)		
-entry	Jobert (de Lamballe) (Antoine-Joseph) [L. Hahn]		
+entry	Jobert (de Lamballe) (Antoine-Joseph) [L. Hahn]	1	
 orth	Jobert (de Lamballe) (Antoine-Joseph)		
 pb	704	0708	4539412
-entry	Johannesia [Ed. Lefèvre]		
+entry	Johannesia [Ed. Lefèvre]	0	
 orth	Johannesia		
-entry	Johnson (James) [L. Hahn]		
+entry	Johnson (James) [L. Hahn]	0	
 orth	Johnson (James)		
-entry	Jolly (Paul) [A. Dureau]		
+entry	Jolly (Paul) [A. Dureau]	1	
 orth	Jolly (Paul)		
 pb	705	0709	4539413
-entry	Jonc [Ed. Lefèvre]		
+entry	Jonc [Ed. Lefèvre]	0	
 orth	Jonc		
-entry	Joncacées ou Joncées [Ed. Lefèvre]		
+entry	Joncacées ou Joncées [Ed. Lefèvre]	0	
 orth	Joncacées ou Joncées		
-entry	Jones (Henry-Bence) [A. Dureau]		
+entry	Jones (Henry-Bence) [A. Dureau]	1	
 orth	Jones (Henry-Bence)		
 pb	706	0710	4539414
-entry	Jonquille		
+entry	Jonquille	0	
 ref	Narcisse		
-entry	Jose ou Médague (Eaux minérales de) [A. Rotureau]		
+entry	Jose ou Médague (Eaux minérales de) [A. Rotureau]	0	
 orth	Jose ou Médague (Eaux minérales de)		
-entry	Joserand (Eaux minérales de) [A. Rotureau]		
+entry	Joserand (Eaux minérales de) [A. Rotureau]	1	
 orth	Joserand (Eaux minérales de)		
 pb	707	0711	4539415
-entry	Joubarbe [H. Baillon]		
+entry	Joubarbe [H. Baillon]	0	
 orth	Joubarbe		
-entry	Joubert (Laurent) [L. Hahn]		
+entry	Joubert (Laurent) [L. Hahn]	1	
 orth	Joubert (Laurent)		
 pb	708	0712	4539416
-entry	Joue		
+entry	Joue	0	
 ref	Face		
 ref	Génoplastie		
-entry	Jouhe (Eau minérale de) [A. Rotureau]		
+entry	Jouhe (Eau minérale de) [A. Rotureau]	0	
 orth	Jouhe (Eau minérale de)		
-entry	Joulin (Désiré-Joseph) [L. Hahn]		
+entry	Joulin (Désiré-Joseph) [L. Hahn]	0	
 orth	Joulin (Désiré-Joseph)		
-entry	Jourdan (Antoine-Jacques-Louis) [L. Hahn]		
+entry	Jourdan (Antoine-Jacques-Louis) [L. Hahn]	0	
 orth	Jourdan (Antoine-Jacques-Louis)		
-entry	Jugal (Os)		
+entry	Jugal (Os)	0	
 ref	Face		
-entry	Juglandacées ou Juglandées [Ed. Lefèvre]		
+entry	Juglandacées ou Juglandées [Ed. Lefèvre]	1	
 orth	Juglandacées ou Juglandées		
 pb	709	0713	4539417
-entry	Juglandine [L. Hahn]		
+entry	Juglandine [L. Hahn]	0	
 orth	Juglandine		
-entry	Juglans		
+entry	Juglans	0	
 ref	Noyer		
-entry	Jugulaires (Ganglions)		
+entry	Jugulaires (Ganglions)	0	
 ref	Pneumogastrique		
-entry	Jugulaires (Veines) [L. Testut]		
+entry	Jugulaires (Veines) [L. Testut]	2	
 orth	Jugulaires (Veines)		
 pb	710	0714	4539418
 pb	711	0715	4539419
-entry	Jujubier [H. Baillon]		
+entry	Jujubier [H. Baillon]	1	
 orth	Jujubier		
 pb	712	0716	4539420
-entry	Julep		
+entry	Julep	0	
 ref	Potion		
-entry	Julia de Fontenelle		
+entry	Julia de Fontenelle	0	
 ref	Fontenelle		
-entry	Julides		
+entry	Julides	0	
 ref	Diplopodes		
-entry	Julien (Saint-) ou Perruchès (Eau minérale de) [A. Rotureau]		
+entry	Julien (Saint-) ou Perruchès (Eau minérale de) [A. Rotureau]	1	
 orth	Julien (Saint-) ou Perruchès (Eau minérale de)		
 pb	713	0717	4539421
-entry	Jumeaux (de la jambe)		
+entry	Jumeaux (de la jambe)	0	
 ref	Triceps sural		
-entry	Jumeaux (du bassin) [L. Testut]		
+entry	Jumeaux (du bassin) [L. Testut]	0	
 orth	Jumeaux (du bassin)		
-entry	Jumentés [E. Oustalet]		
+entry	Jumentés [E. Oustalet]	1	
 orth	Jumentés		
 pb	714	0718	4539422
-entry	Juniperus		
+entry	Juniperus	0	
 ref	Genévrier		
-entry	Juribali		
+entry	Juribali	0	
 ref	Euribali		
-entry	Jurine (Louis) [A. Dureau]		
+entry	Jurine (Louis) [A. Dureau]	0	
 orth	Jurine (Louis)		
-entry	Juripeba [L. Hahn]		
+entry	Juripeba [L. Hahn]	0	
 orth	Juripeba		
 pb	715	0719	4539423
-entry	Jusquiame		
-entry	Jusquiame. Botanique [H. Baillon]		
+entry	Jusquiame	0	
+entry	Jusquiame. Botanique [H. Baillon]	1	
 orth	Jusquiame. Botanique		
 pb	716	0720	4539424
-entry	Jusquiame. Emploi médical [Charles Éloy]		
+entry	Jusquiame. Emploi médical [Charles Éloy]	5	
 orth	Jusquiame. Emploi médical		
 pb	717	0721	4539425
 pb	718	0722	4539426
 pb	719	0723	4539427
 pb	720	0724	4539428
 pb	721	0725	4539429
-entry	Jussieu (Les de) [L. Hahn]		
+entry	Jussieu (Les de) [L. Hahn]	0	
 orth	Jussieu (Les de)		
-entry	Justicia [Ed. Lefèvre]		
+entry	Justicia [Ed. Lefèvre]	1	
 orth	Justicia		
 pb	722	0726	4539430
-entry	Jute		
+entry	Jute	0	
 ref	Corchorus		
 pb	723	0727	4539431
-entry	Kabyles		
+entry	Kabyles	0	
 ref	Berbères		
 ref	Algérie		
-entry	Kaemféride ou Kaemférine [L. Hahn]		
+entry	Kaemféride ou Kaemférine [L. Hahn]	0	
 orth	Kaemféride ou Kaemférine		
-entry	Kafirs		
+entry	Kafirs	0	
 ref	Asie		
-entry	Kagou [E. Oustalet]		
+entry	Kagou [E. Oustalet]	1	
 orth	Kagou		
 pb	724	0728	4539432
-entry	Kaï-Meuou [Édouard Heckel]		
+entry	Kaï-Meuou [Édouard Heckel]	1	
 orth	Kaï-Meuou		
 pb	725	0729	4539433
-entry	Kaior (Ver de)		
+entry	Kaior (Ver de)	0	
 ref	Ver		
-entry	Kakodyle [L. Hahn]		
+entry	Kakodyle [L. Hahn]	1	
 orth	Kakodyle		
 pb	726	0730	4539434
-entry	Kalanchoe [Ed. Lefèvre]		
+entry	Kalanchoe [Ed. Lefèvre]	0	
 orth	Kalanchoe		
-entry	Kalmia (L.) [H. Baillon]		
+entry	Kalmia (L.) [H. Baillon]	0	
 orth	Kalmia (L.)		
-entry	Kalmouks		
+entry	Kalmouks	0	
 ref	Sibérie		
 ref	Tartarie		
-entry	Kaltbad (Eau minérale, hydrothérapie et cure de petit-lait) [A. Rotureau]		
+entry	Kaltbad (Eau minérale, hydrothérapie et cure de petit-lait) [A. Rotureau]	1	
 orth	Kaltbad (Eau minérale, hydrothérapie et cure de petit-lait)		
 pb	727	0731	4539435
-entry	Kamala		
+entry	Kamala	0	
 ref	Echinus		
-entry	Kamichi [E. Oustalet]		
+entry	Kamichi [E. Oustalet]	1	
 orth	Kamichi		
 pb	728	0732	4539436
-entry	Kangourou [E. Oustalet]		
+entry	Kangourou [E. Oustalet]	2	
 orth	Kangourou		
 pb	729	0733	4539437
 pb	730	0734	4539438
-entry	Kanold (Johann) [L. Hahn]		
+entry	Kanold (Johann) [L. Hahn]	0	
 orth	Kanold (Johann)		
-entry	Kapnomancie		
+entry	Kapnomancie	0	
 ref	Divination		
-entry	Karabé		
+entry	Karabé	0	
 ref	Succin		
-entry	Karéliens		
+entry	Karéliens	0	
 ref	Finnois		
 ref	Finlande		
 ref	Russie		
-entry	Karlsbad (Eaux minérales de) [A. Rotureau]		
+entry	Karlsbad (Eaux minérales de) [A. Rotureau]	14	
 orth	Karlsbad (Eaux minérales de)		
 pb	731	0735	4539439
 pb	732	0736	4539440
@@ -1398,102 +1398,102 @@ pb	741	0745	4539449
 pb	742	0746	4539450
 pb	743	0747	4539451
 pb	744	0748	4539452
-entry	Karyokinèse		
+entry	Karyokinèse	0	
 ref	Protoplasma		
-entry	Katoptromancie		
+entry	Katoptromancie	0	
 ref	Divination		
-entry	Kava ou Kawa		
+entry	Kava ou Kawa	0	
 ref	Poivre		
-entry	Kawaïne ou Méthysticine [L. Hahn]		
+entry	Kawaïne ou Méthysticine [L. Hahn]	0	
 orth	Kawaïne ou Méthysticine		
-entry	Kaye ou Key (John) [L. Hahn]		
+entry	Kaye ou Key (John) [L. Hahn]	0	
 orth	Kaye ou Key (John)		
-entry	Kef		
+entry	Kef	0	
 ref	Bang		
 pb	745	0749	4539453
-entry	Kelline [L. Hahn]		
+entry	Kelline [L. Hahn]	0	
 orth	Kelline		
-entry	Kéloïde		
+entry	Kéloïde	0	
 ref	Chéloïde		
 ref	Cicatrice		
-entry	Kélotomie		
+entry	Kélotomie	0	
 ref	Hernie		
-entry	Kératine [L. Hahn]		
+entry	Kératine [L. Hahn]	0	
 orth	Kératine		
-entry	Kératite, Kératocèle, Kératoscopie, Kératotomie		
+entry	Kératite, Kératocèle, Kératoscopie, Kératotomie	0	
 ref	Cornée		
 ref	Cataracte		
-entry	Kérato-Glosse (Muscle)		
+entry	Kérato-Glosse (Muscle)	0	
 ref	Langue		
-entry	Kératonyxis		
+entry	Kératonyxis	0	
 ref	Cataracte		
-entry	Keraudren (Pierre-François) [A. Dureau]		
+entry	Keraudren (Pierre-François) [A. Dureau]	0	
 orth	Keraudren (Pierre-François)		
-entry	Kéraunoscopie		
+entry	Kéraunoscopie	0	
 ref	Divination		
-entry	Kerckring (Theodorus) [L. Hahn]		
+entry	Kerckring (Theodorus) [L. Hahn]	0	
 orth	Kerckring (Theodorus)		
 pb	746	0750	4539454
-entry	Kermès (Chimie)		
+entry	Kermès (Chimie)	0	
 ref	Antimoine		
-entry	Kermès (Zoologie) [A. Laboulbène]		
+entry	Kermès (Zoologie) [A. Laboulbène]	0	
 orth	Kermès (Zoologie)		
-entry	Kern (Vincenz, Ritter von) [L. Hahn]		
+entry	Kern (Vincenz, Ritter von) [L. Hahn]	0	
 orth	Kern (Vincenz, Ritter von)		
-entry	Kerner (Andreas-Justinus) [A. Dureau]		
+entry	Kerner (Andreas-Justinus) [A. Dureau]	0	
 orth	Kerner (Andreas-Justinus)		
-entry	Kérosène		
+entry	Kérosène	0	
 ref	Pétrole		
-entry	Kétines [L. Hahn]		
+entry	Kétines [L. Hahn]	1	
 orth	Kétines		
 pb	747	0751	4539455
-entry	Ketmie [H. Baillon]		
+entry	Ketmie [H. Baillon]	0	
 orth	Ketmie		
-entry	Kétones [L. Hahn]		
+entry	Kétones [L. Hahn]	0	
 orth	Kétones		
-entry	Key (Charles-Aston) [L. Hahn]		
+entry	Key (Charles-Aston) [L. Hahn]	1	
 orth	Key (Charles-Aston)		
 pb	748	0752	4539456
-entry	Khatkhas		
+entry	Khatkhas	0	
 ref	Tartarie		
-entry	Khaya [Ed. Lefèvre]		
+entry	Khaya [Ed. Lefèvre]	0	
 orth	Khaya		
-entry	Kilian (Les deux) [L. Hahn]		
+entry	Kilian (Les deux) [L. Hahn]	0	
 orth	Kilian (Les deux)		
-entry	Kimris ou Cimbres		
+entry	Kimris ou Cimbres	0	
 ref	France (Anthropologie)		
-entry	Kino [L. Hahn]		
+entry	Kino [L. Hahn]	1	
 orth	Kino		
 pb	749	0753	4539457
-entry	Kirghis.; Sibérie et Tartarie		
+entry	Kirghis.; Sibérie et Tartarie	0	
 ref	Asie		
-entry	Kirkes (William-Sephouse) [A. Dureau]		
+entry	Kirkes (William-Sephouse) [A. Dureau]	0	
 orth	Kirkes (William-Sephouse)		
-entry	Kissingen (Eaux minérales, cure de petit-lait et bains de boues de) [A. Rotureau]		
+entry	Kissingen (Eaux minérales, cure de petit-lait et bains de boues de) [A. Rotureau]	5	
 orth	Kissingen (Eaux minérales, cure de petit-lait et bains de boues de)		
 pb	750	0754	4539458
 pb	751	0755	4539459
 pb	752	0756	4539460
 pb	753	0757	4539461
 pb	754	0758	4539462
-entry	Kiwisch (Franz) [L. Hahn]		
+entry	Kiwisch (Franz) [L. Hahn]	0	
 orth	Kiwisch (Franz)		
-entry	Kleptomanie		
+entry	Kleptomanie	0	
 ref	Monomanie		
-entry	Klob (Julius) [L. Hahn]		
+entry	Klob (Julius) [L. Hahn]	0	
 orth	Klob (Julius)		
-entry	Knolz (Josef-Johann) [A. Dureau]		
+entry	Knolz (Josef-Johann) [A. Dureau]	1	
 orth	Knolz (Josef-Johann)		
 pb	755	0759	4539463
-entry	Knowltonia [Ed. Lefèvre]		
+entry	Knowltonia [Ed. Lefèvre]	0	
 orth	Knowltonia		
-entry	Knox (Robert) [L. Hahn]		
+entry	Knox (Robert) [L. Hahn]	0	
 orth	Knox (Robert)		
-entry	Köhler (Les deux) [L. Hahn]		
+entry	Köhler (Les deux) [L. Hahn]	0	
 orth	Köhler (Les deux)		
-entry	Kohlrausch (Otto-Ludwig-Bernhard) [L. Hahn]		
+entry	Kohlrausch (Otto-Ludwig-Bernhard) [L. Hahn]	0	
 orth	Kohlrausch (Otto-Ludwig-Bernhard)		
-entry	Kola [Édouard Heckel]		
+entry	Kola [Édouard Heckel]	6	
 orth	Kola		
 pb	756	0760	4539464
 pb	757	0761	4539465
@@ -1501,89 +1501,89 @@ pb	758	0762	4539466
 pb	759	0763	4539467
 pb	760	0764	4539468
 pb	761	0765	4539469
-entry	Kolk (Schroeder van der)		
+entry	Kolk (Schroeder van der)	0	
 ref	Schroeder		
-entry	Kolpode [Henneguy, Fabre-Domergue]		
+entry	Kolpode [Henneguy, Fabre-Domergue]	1	
 orth	Kolpode		
 pb	762	0766	4539470
-entry	Kondylostome [Henneguy, Fabre-Domergue]		
+entry	Kondylostome [Henneguy, Fabre-Domergue]	0	
 orth	Kondylostome		
-entry	Königswart (Eaux minérales de) [A. Rotureau]		
+entry	Königswart (Eaux minérales de) [A. Rotureau]	1	
 orth	Königswart (Eaux minérales de)		
 pb	763	0767	4539471
-entry	Koesen ou Kösen (Eaux minérales, cures et petit-lait et de raisin de) [A. Rotureau]		
+entry	Koesen ou Kösen (Eaux minérales, cures et petit-lait et de raisin de) [A. Rotureau]	1	
 orth	Koesen ou Kösen (Eaux minérales, cures et petit-lait et de raisin de)		
 pb	764	0768	4539472
-entry	Kosséine [L. Hahn]		
+entry	Kosséine [L. Hahn]	0	
 orth	Kosséine		
-entry	Koumys [Charles Éloy]		
+entry	Koumys [Charles Éloy]	4	
 orth	Koumys		
 pb	765	0769	4539473
 pb	766	0770	4539474
 pb	767	0771	4539475
 pb	768	0772	4539476
-entry	Kourils ou Kurils		
+entry	Kourils ou Kurils	0	
 ref	Aïnos		
-entry	Koussine ou Téniine [L. Hahn]		
+entry	Koussine ou Téniine [L. Hahn]	0	
 orth	Koussine ou Téniine		
-entry	Kousso		
+entry	Kousso	0	
 ref	Cousso		
-entry	Krajura		
+entry	Krajura	0	
 ref	Chica		
-entry	Kramer (Wilhelm) [L. Hahn]		
+entry	Kramer (Wilhelm) [L. Hahn]	0	
 orth	Kramer (Wilhelm)		
-entry	Krameria [H. Baillon]		
+entry	Krameria [H. Baillon]	0	
 orth	Krameria		
-entry	Kramérique (Acide) [L. Hahn]		
+entry	Kramérique (Acide) [L. Hahn]	0	
 orth	Kramérique (Acide)		
-entry	Krankenheil (Eaux minérales et cure de petit-lait) [A. Rotureau]		
+entry	Krankenheil (Eaux minérales et cure de petit-lait) [A. Rotureau]	2	
 orth	Krankenheil (Eaux minérales et cure de petit-lait)		
 pb	769	0773	4539477
 pb	770	0774	4539478
-entry	Krause (Carl) [A. Dureau]		
+entry	Krause (Carl) [A. Dureau]	0	
 orth	Krause (Carl)		
-entry	Krause (Carl-Friedrich-Theodor) [L. Hahn]		
+entry	Krause (Carl-Friedrich-Theodor) [L. Hahn]	0	
 orth	Krause (Carl-Friedrich-Theodor)		
-entry	Kreuth (Eaux minérales et cure de petit-lait) [A. Rotureau]		
+entry	Kreuth (Eaux minérales et cure de petit-lait) [A. Rotureau]	1	
 orth	Kreuth (Eaux minérales et cure de petit-lait)		
 pb	771	0775	4539479
-entry	Kreuznach ou Creuznach (Eaux minérales, cures de raisin et de petit-lait) [A. Rotureau]		
+entry	Kreuznach ou Creuznach (Eaux minérales, cures de raisin et de petit-lait) [A. Rotureau]	5	
 orth	Kreuznach ou Creuznach (Eaux minérales, cures de raisin et de petit-lait)		
 pb	772	0776	4539480
 pb	773	0777	4539481
 pb	774	0778	4539482
 pb	775	0779	4539483
 pb	776	0780	4539484
-entry	Kreysig (Friedrich-Ludwig) [L. Hahn]		
+entry	Kreysig (Friedrich-Ludwig) [L. Hahn]	1	
 orth	Kreysig (Friedrich-Ludwig)		
 pb	777	0781	4539485
-entry	Krishaber (Maurice) [A. Dureau]		
+entry	Krishaber (Maurice) [A. Dureau]	0	
 orth	Krishaber (Maurice)		
-entry	Krithmomancie		
+entry	Krithmomancie	0	
 ref	Divination		
-entry	Kronthal (Eaux minérales et cure de petit-lait de) [A. Rotureau]		
+entry	Kronthal (Eaux minérales et cure de petit-lait de) [A. Rotureau]	1	
 orth	Kronthal (Eaux minérales et cure de petit-lait de)		
 pb	778	0782	4539486
-entry	Krukenberg (Les deux) [L. Hahn]		
+entry	Krukenberg (Les deux) [L. Hahn]	0	
 orth	Krukenberg (Les deux)		
-entry	Kuamobolie		
+entry	Kuamobolie	0	
 ref	Divination		
-entry	Kühn (Carl-Gottlob) [L. Hahn]		
+entry	Kühn (Carl-Gottlob) [L. Hahn]	0	
 orth	Kühn (Carl-Gottlob)		
-entry	Kuhnholtz (Henri-Marcel) [A. Dureau]		
+entry	Kuhnholtz (Henri-Marcel) [A. Dureau]	1	
 orth	Kuhnholtz (Henri-Marcel)		
 pb	779	0783	4539487
-entry	Küss (Émile) [L. Hahn]		
+entry	Küss (Émile) [L. Hahn]	0	
 orth	Küss (Émile)		
-entry	Kutira		
+entry	Kutira	0	
 ref	Gommes		
-entry	Kybomancie		
+entry	Kybomancie	0	
 ref	Divination		
-entry	Kyestéine [L. Hahn]		
+entry	Kyestéine [L. Hahn]	0	
 orth	Kyestéine		
-entry	Kymris ou Cimbres		
+entry	Kymris ou Cimbres	0	
 ref	France (Anthropologie)		
-entry	Kystes [E. Kirmisson]		
+entry	Kystes [E. Kirmisson]	25	
 orth	Kystes		
 pb	780	0784	4539488
 pb	781	0785	4539489
@@ -1610,12 +1610,12 @@ pb	801	0805	4539509
 pb	802	0806	4539510
 pb	803	0807	4539511
 pb	804	0808	4539512
-entry	Kystitome		
+entry	Kystitome	0	
 ref	Cataracte		
-entry	Kythnos (Archipel grec) (Eau minér. de) [Cl. Stéphanos]		
+entry	Kythnos (Archipel grec) (Eau minér. de) [Cl. Stéphanos]	0	
 orth	Kythnos (Archipel grec) (Eau minér. de)		
 pb	805	0809	4539513
-entry	Articles contenus dans le seizième volume (4e série)		
+entry	Articles contenus dans le seizième volume (4e série)	3	
 pb	806	0810	4539514
 pb	807	0811	4539515
 pb	808	0812	4539516

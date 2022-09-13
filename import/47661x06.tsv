@@ -1,22 +1,22 @@
 pb	[s. pag.]	0001	5556928
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556929
 pb	[s. pag.]	0003	404702
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556930
 pb	1	0005	404703
-entry	colchique		
+entry	colchique	2	
 pb	2	0006	404704
 pb	3	0007	404705
-entry	colcothar		
-entry	colère		
+entry	colcothar	0	
+entry	colère	6	
 pb	4	0008	404706
 pb	5	0009	404707
 pb	6	0010	404708
 pb	7	0011	404709
 pb	8	0012	404710
 pb	9	0013	404711
-entry	colique		
+entry	colique	43	
 pb	10	0014	404712
 pb	11	0015	404713
 pb	12	0016	404714
@@ -60,52 +60,52 @@ pb	49	0053	404751
 pb	50	0054	404752
 pb	51	0055	404753
 pb	52	0056	404754
-entry	collapsus		
-entry	collatéral		
+entry	collapsus	0	
+entry	collatéral	1	
 pb	53	0057	404755
-entry	colle de poisson		
-entry	collétique		
-entry	colliquatif		
+entry	colle de poisson	0	
+entry	collétique	0	
+entry	colliquatif	6	
 pb	54	0058	404756
 pb	55	0059	404757
 pb	56	0060	404758
 pb	57	0061	404759
 pb	58	0062	404760
 pb	59	0063	404761
-entry	colliquation		
+entry	colliquation	3	
 pb	60	0064	404762
 pb	61	0065	404763
 pb	62	0066	404764
-entry	collision		
-entry	collutoire		
-entry	collyre		
+entry	collision	0	
+entry	collutoire	0	
+entry	collyre	5	
 pb	63	0067	404765
 pb	64	0068	404766
 pb	65	0069	404767
 pb	66	0070	404768
 pb	67	0071	404769
-entry	coloboma		
-entry	colombo		
+entry	coloboma	0	
+entry	colombo	1	
 pb	68	0072	404770
-entry	colon		
+entry	colon	3	
 pb	69	0073	404771
 pb	70	0074	404772
 pb	71	0075	404773
-entry	colonne		
-entry	colophone		
+entry	colonne	0	
+entry	colophone	1	
 pb	72	0076	404774
-entry	coloquinte		
-entry	colostration		
+entry	coloquinte	0	
+entry	colostration	1	
 pb	73	0077	404775
 pb	74	0078	404776
-entry	colostrum		
-entry	colpocèle		
-entry	colpoptose		
+entry	colostrum	0	
+entry	colpocèle	0	
+entry	colpoptose	0	
 pb	75	0079	404777
-entry	coma		
-entry	combinaison		
-entry	combustible		
-entry	combustion		
+entry	coma	0	
+entry	combinaison	0	
+entry	combustible	0	
+entry	combustion	12	
 pb	76	0080	404778
 pb	77	0081	404779
 pb	78	0082	404780
@@ -118,7 +118,7 @@ pb	84	0088	404786
 pb	85	0089	404787
 pb	86	0090	404788
 pb	87	0091	404789
-entry	comestible		
+entry	comestible	63	
 pb	88	0092	404790
 pb	89	0093	404791
 pb	90	0094	404792
@@ -182,26 +182,26 @@ pb	147	0151	404849
 pb	148	0152	404850
 pb	149	0153	404851
 pb	150	0154	404852
-entry	commémoratif		
+entry	commémoratif	1	
 pb	151	0155	404853
-entry	comminutif		
+entry	comminutif	1	
 pb	152	0156	404854
-entry	commissure		
-entry	commotion		
+entry	commissure	0	
+entry	commotion	5	
 pb	153	0157	404855
 pb	154	0158	404856
 pb	155	0159	404857
 pb	156	0160	404858
 pb	157	0161	404859
-entry	communicant		
-entry	compacité		
+entry	communicant	0	
+entry	compacité	1	
 pb	158	0162	404860
-entry	compacte		
-entry	complexion		
+entry	compacte	0	
+entry	complexion	1	
 pb	159	0163	404861
-entry	complexus		
+entry	complexus	1	
 pb	160	0164	404862
-entry	complication		
+entry	complication	11	
 pb	161	0165	404863
 pb	162	0166	404864
 pb	163	0167	404865
@@ -213,20 +213,20 @@ pb	168	0172	404870
 pb	169	0173	404871
 pb	170	0174	404872
 pb	171	0175	404873
-entry	compose		
+entry	compose	3	
 pb	172	0176	404874
 pb	173	0177	404875
 pb	174	0178	404876
 pb	175	0179	404877
-entry	composition		
+entry	composition	2	
 pb	176	0180	404878
 pb	177	0181	404879
-entry	compresse		
+entry	compresse	3	
 pb	178	0182	404880
 pb	179	0183	404881
 pb	180	0184	404882
-entry	compressif		
-entry	compression		
+entry	compressif	0	
+entry	compression	18	
 pb	181	0185	404883
 pb	182	0186	404884
 pb	183	0187	404885
@@ -245,12 +245,12 @@ pb	195	0199	404897
 pb	196	0200	404898
 pb	197	0201	404899
 pb	198	0202	404900
-entry	conarium		
-entry	concassé		
-entry	concave		
+entry	conarium	0	
+entry	concassé	0	
+entry	concave	1	
 pb	199	0203	404901
-entry	concentration		
-entry	conception		
+entry	concentration	0	
+entry	conception	7	
 pb	200	0204	404902
 pb	201	0205	404903
 pb	202	0206	404904
@@ -258,76 +258,76 @@ pb	203	0207	404905
 pb	204	0208	404906
 pb	205	0209	404907
 pb	206	0210	404908
-entry	concho-anthélix		
-entry	concho-hélix		
-entry	concombre		
+entry	concho-anthélix	0	
+entry	concho-hélix	0	
+entry	concombre	2	
 pb	207	0211	404909
 pb	208	0212	404910
-entry	concomitant		
+entry	concomitant	2	
 pb	209	0213	404911
 pb	210	0214	404912
-entry	concret		
-entry	concrétion		
+entry	concret	0	
+entry	concrétion	1	
 pb	211	0215	404913
-entry	condensation		
-entry	conducteur		
-entry	conduit		
-entry	condyle		
+entry	condensation	0	
+entry	conducteur	0	
+entry	conduit	0	
+entry	condyle	1	
 pb	212	0216	404914
-entry	condyloide		
-entry	condyloidien		
-entry	condylome		
-entry	cône		
-entry	confection		
+entry	condyloide	0	
+entry	condyloidien	0	
+entry	condylome	0	
+entry	cône	0	
+entry	confection	1	
 pb	213	0217	404915
-entry	configuration		
-entry	confiture		
+entry	configuration	0	
+entry	confiture	1	
 pb	214	0218	404916
-entry	confluent		
+entry	confluent	1	
 pb	215	0219	404917
-entry	conformation		
+entry	conformation	1	
 pb	216	0220	404918
-entry	confortant		
+entry	confortant	2	
 pb	217	0221	404919
 pb	218	0222	404920
-entry	confusion		
-entry	congélation		
+entry	confusion	0	
+entry	congélation	1	
 pb	219	0223	404921
-entry	congélation des membres		
-entry	congénère		
-entry	congénial		
+entry	congélation des membres	0	
+entry	congénère	0	
+entry	congénial	1	
 pb	220	0224	404922
-entry	congestion		
+entry	congestion	4	
 pb	221	0225	404923
 pb	222	0226	404924
 pb	223	0227	404925
 pb	224	0228	404926
-entry	conglobé		
-entry	congloméré		
-entry	conglutinant		
-entry	congrès		
+entry	conglobé	0	
+entry	congloméré	0	
+entry	conglutinant	0	
+entry	congrès	3	
 pb	225	0229	404927
 pb	226	0230	404928
 pb	227	0231	404929
-entry	conifères (famille des)		
-entry	conjonctive		
+entry	conifères (famille des)	0	
+entry	conjonctive	1	
 pb	228	0232	404930
-entry	conjugaison		
-entry	connexion		
-entry	conoide		
-entry	conquassantes		
-entry	conque		
+entry	conjugaison	0	
+entry	connexion	0	
+entry	conoide	0	
+entry	conquassantes	0	
+entry	conque	1	
 pb	229	0233	404931
-entry	consentement		
-entry	conserve		
+entry	consentement	0	
+entry	conserve	1	
 pb	230	0234	404932
-entry	conserves		
-entry	consistance		
-entry	consolidant		
+entry	conserves	0	
+entry	consistance	0	
+entry	consolidant	1	
 pb	231	0235	404933
-entry	consommé		
-entry	consomptif		
-entry	consomption		
+entry	consommé	0	
+entry	consomptif	0	
+entry	consomption	19	
 pb	232	0236	404934
 pb	233	0237	404935
 pb	234	0238	404936
@@ -347,9 +347,9 @@ pb	247	0251	404949
 pb	248	0252	404950
 pb	249	0253	404951
 pb	250	0254	404952
-entry	consoude		
+entry	consoude	1	
 pb	251	0255	404953
-entry	constipation		
+entry	constipation	7	
 pb	252	0256	404954
 pb	253	0257	404955
 pb	254	0258	404956
@@ -358,9 +358,9 @@ pb	256	0260	404958
 pb	257	0261	404959
 pb	258	0262	404960
 pb	1	0263	404961
-entry	Dictionnaire des sciences médicales, deuxième partie. constitution		
+entry	Dictionnaire des sciences médicales, deuxième partie. constitution	0	
 pb	2	0264	404962
-entry	constitution		
+entry	constitution	19	
 pb	3	0265	404963
 pb	4	0266	404964
 pb	5	0267	404965
@@ -380,7 +380,7 @@ pb	18	0280	404978
 pb	19	0281	404979
 pb	20	0282	404980
 pb	21	0283	404981
-entry	constitutionnel		
+entry	constitutionnel	9	
 pb	22	0284	404982
 pb	23	0285	404983
 pb	24	0286	404984
@@ -390,12 +390,12 @@ pb	27	0289	404987
 pb	28	0290	404988
 pb	29	0291	404989
 pb	30	0292	404990
-entry	constricteur		
+entry	constricteur	1	
 pb	31	0293	404991
-entry	constriction		
+entry	constriction	2	
 pb	32	0294	404992
 pb	33	0295	404993
-entry	consultation		
+entry	consultation	9	
 pb	34	0296	404994
 pb	35	0297	404995
 pb	36	0298	404996
@@ -405,13 +405,13 @@ pb	39	0301	404999
 pb	40	0302	405000
 pb	41	0303	405001
 pb	42	0304	405002
-entry	contact		
+entry	contact	2	
 pb	43	0305	405003
 pb	44	0306	405004
-entry	contagieux		
+entry	contagieux	2	
 pb	45	0307	405005
 pb	46	0308	405006
-entry	contagion		
+entry	contagion	34	
 pb	47	0309	405007
 pb	48	0310	405008
 pb	49	0311	405009
@@ -446,7 +446,7 @@ pb	77	0339	405037
 pb	78	0340	405038
 pb	79	0341	405039
 pb	80	0342	405040
-entry	contemplatif		
+entry	contemplatif	10	
 pb	81	0343	405041
 pb	82	0344	405042
 pb	83	0345	405043
@@ -458,18 +458,18 @@ pb	88	0350	405048
 pb	89	0351	405049
 pb	90	0352	405050
 pb	91	0353	405051
-entry	contemplation		
+entry	contemplation	5	
 pb	92	0354	405052
 pb	93	0355	405053
 pb	94	0356	405054
 pb	95	0357	405055
 pb	96	0358	405056
-entry	contentif		
-entry	contexture		
+entry	contentif	0	
+entry	contexture	1	
 pb	97	0359	405057
-entry	contiguité		
-entry	continence		
-entry	continent		
+entry	contiguité	0	
+entry	continence	0	
+entry	continent	36	
 pb	98	0360	405058
 pb	99	0361	405059
 pb	100	0362	405060
@@ -506,50 +506,50 @@ pb	130	0392	405090
 pb	131	0393	405091
 pb	132	0394	405092
 pb	133	0395	405093
-entry	continu		
+entry	continu	2	
 pb	134	0396	405094
 pb	135	0397	405095
-entry	continuité		
-entry	contondant		
-entry	contorsion		
+entry	continuité	0	
+entry	contondant	0	
+entry	contorsion	1	
 pb	136	0398	405096
-entry	contractile		
+entry	contractile	1	
 pb	137	0399	405097
-entry	contractilité		
+entry	contractilité	5	
 pb	138	0400	405098
 pb	139	0401	405099
 pb	140	0402	405100
 pb	141	0403	405101
 pb	142	0404	405102
-entry	contraction		
+entry	contraction	3	
 pb	143	0405	405103
 pb	144	0406	405104
 pb	145	0407	405105
-entry	contracture		
-entry	contrayerva		
+entry	contracture	0	
+entry	contrayerva	1	
 pb	146	0408	405106
-entry	contre-coup		
+entry	contre-coup	4	
 pb	147	0409	405107
 pb	148	0410	405108
 pb	149	0411	405109
 pb	150	0412	405110
-entry	contre-extension		
-entry	contre-indication		
+entry	contre-extension	0	
+entry	contre-indication	1	
 pb	151	0413	405111
-entry	contre-ouverture		
-entry	contre-poison		
+entry	contre-ouverture	0	
+entry	contre-poison	1	
 pb	152	0414	405112
 pb	153	0415	405113
-entry	controstimulant		
-entry	controstimuliste		
-entry	controstimulus		
+entry	controstimulant	0	
+entry	controstimuliste	0	
+entry	controstimulus	6	
 pb	154	0416	405114
 pb	155	0417	405115
 pb	156	0418	405116
 pb	157	0419	405117
 pb	158	0420	405118
 pb	159	0421	405119
-entry	contusion		
+entry	contusion	8	
 pb	160	0422	405120
 pb	161	0423	405121
 pb	162	0424	405122
@@ -558,7 +558,7 @@ pb	164	0426	405124
 pb	165	0427	405125
 pb	166	0428	405126
 pb	167	0429	405127
-entry	convalescence		
+entry	convalescence	24	
 pb	168	0430	405128
 pb	169	0431	405129
 pb	170	0432	405130
@@ -583,19 +583,19 @@ pb	188	0450	405148
 pb	189	0451	405149
 pb	190	0452	405150
 pb	191	0453	405151
-entry	convergent		
-entry	conversion		
+entry	convergent	0	
+entry	conversion	5	
 pb	192	0454	405152
 pb	193	0455	405153
 pb	194	0456	405154
 pb	195	0457	405155
 pb	196	0458	405156
-entry	convexe		
-entry	convolvulacées		
+entry	convexe	0	
+entry	convolvulacées	1	
 pb	197	0459	405157
-entry	convulsé		
-entry	convulsif		
-entry	convulsion		
+entry	convulsé	0	
+entry	convulsif	0	
+entry	convulsion	13	
 pb	198	0460	405158
 pb	199	0461	405159
 pb	200	0462	405160
@@ -609,7 +609,7 @@ pb	207	0469	405167
 pb	208	0470	405168
 pb	209	0471	405169
 pb	210	0472	405170
-entry	convulsionnaires		
+entry	convulsionnaires	28	
 pb	211	0473	405171
 pb	212	0474	405172
 pb	213	0475	405173
@@ -638,17 +638,17 @@ pb	235	0497	405195
 pb	236	0498	405196
 pb	237	0499	405197
 pb	238	0500	405198
-entry	copahu (baume de)		
+entry	copahu (baume de)	4	
 pb	239	0501	405199
 pb	240	0502	405200
 pb	241	0503	405201
 pb	242	0504	405202
-entry	copal		
+entry	copal	1	
 pb	243	0505	405203
-entry	cophose		
-entry	coprocritique		
-entry	coprostasie		
-entry	copulation		
+entry	cophose	0	
+entry	coprocritique	0	
+entry	coprostasie	0	
+entry	copulation	68	
 pb	244	0506	405204
 pb	245	0507	405205
 pb	246	0508	405206
@@ -717,12 +717,12 @@ pb	308	0570	405268
 pb	309	0571	405269
 pb	310	0572	405270
 pb	311	0573	405271
-entry	coque du levant		
+entry	coque du levant	1	
 pb	312	0574	405272
-entry	coquelicot		
+entry	coquelicot	1	
 pb	313	0575	405273
-entry	coquelourde		
-entry	coqueluche		
+entry	coquelourde	0	
+entry	coqueluche	16	
 pb	314	0576	405274
 pb	315	0577	405275
 pb	316	0578	405276
@@ -739,23 +739,23 @@ pb	326	0588	405286
 pb	327	0589	405287
 pb	328	0590	405288
 pb	329	0591	405289
-entry	coraco-brachial		
-entry	coraco-huméral		
-entry	coraco-hyoidien		
-entry	coracoide		
-entry	corail		
+entry	coraco-brachial	0	
+entry	coraco-huméral	0	
+entry	coraco-hyoidien	0	
+entry	coracoide	0	
+entry	corail	1	
 pb	330	0592	405290
-entry	coralline		
+entry	coralline	1	
 pb	331	0593	405291
-entry	corbeau		
-entry	corde		
+entry	corbeau	0	
+entry	corde	2	
 pb	332	0594	405292
 pb	333	0595	405293
-entry	cordée		
-entry	cordial		
+entry	cordée	0	
+entry	cordial	2	
 pb	334	0596	405294
 pb	335	0597	405295
-entry	cordon		
+entry	cordon	9	
 pb	336	0598	405296
 pb	337	0599	405297
 pb	338	0600	405298
@@ -766,28 +766,28 @@ pb	342	0604	405302
 pb	343	0605	405303
 pb	344	0606	405304
 pb	345	0607	405305
-entry	coriandre		
-entry	coris		
-entry	cormé		
+entry	coriandre	0	
+entry	coris	0	
+entry	cormé	1	
 pb	346	0608	405306
-entry	corne		
-entry	corné		
+entry	corne	0	
+entry	corné	1	
 pb	347	0609	405307
-entry	cornée		
+entry	cornée	5	
 pb	348	0610	405308
 pb	349	0611	405309
 pb	350	0612	405310
 pb	351	0613	405311
 pb	352	0614	405312
-entry	cornet		
-entry	cornet acoustique		
+entry	cornet	0	
+entry	cornet acoustique	1	
 pb	353	0615	405313
 pb	354	0616	405314
-entry	coronaire		
-entry	coronal		
-entry	coronoide		
+entry	coronaire	0	
+entry	coronal	0	
+entry	coronoide	0	
 pb	[s. pag.]	0617	5556931
 pb	[s. pag.]	0618	405315
-entry	cornets acoustiques : explication de la planche		
+entry	cornets acoustiques : explication de la planche	0	
 pb	[s. pag.]	0619	405316
-entry	cornets acoustiques : planche		
+entry	cornets acoustiques : planche	0	

@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7288661
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7288662
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7288663
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	1	0004	7288664
-entry	Clavicule		
+entry	Clavicule	46	
 pb	2	0005	7288665
 pb	3	0006	7288666
 pb	4	0007	7288667
@@ -53,7 +53,7 @@ pb	45	0048	7288708
 pb	46	0049	7288709
 pb	47	0050	7288710
 pb	48	0051	7288711
-entry	Climat		
+entry	Climat	177	
 pb	49	0052	7288712
 pb	50	0053	7288713
 pb	51	0054	7288714
@@ -231,17 +231,17 @@ pb	223	0225	7288885
 pb	224	0226	7288886
 pb	225	0227	7288887
 pb	226	0228	7288888
-entry	Clitoris		
-entry	Clopémanie		
-entry	Cnidosis		
-entry	Coaltar		
-entry	Cobalt		
+entry	Clitoris	0	
+entry	Clopémanie	0	
+entry	Cnidosis	0	
+entry	Coaltar	0	
+entry	Cobalt	1	
 pb	227	0229	7288889
-entry	Coccyx		
+entry	Coccyx	0	
 pb	228	0230	7288890
-entry	Cochléaria		
+entry	Cochléaria	1	
 pb	229	0231	7288891
-entry	Codéine		
+entry	Codéine	7	
 pb	230	0232	7288892
 pb	231	0233	7288893
 pb	232	0234	7288894
@@ -249,8 +249,8 @@ pb	233	0235	7288895
 pb	234	0236	7288896
 pb	235	0237	7288897
 pb	236	0238	7288898
-entry	Coecum		
-entry	Coeliaque (artère)		
+entry	Coecum	0	
+entry	Coeliaque (artère)	13	
 pb	237	0239	7288899
 pb	238	0240	7288900
 pb	239	0241	7288901
@@ -264,8 +264,8 @@ pb	246	0248	7288908
 pb	247	0249	7288909
 pb	248	0250	7288910
 pb	249	0251	7288911
-entry	Coenure		
-entry	Coeur		
+entry	Coenure	0	
+entry	Coeur	134	
 pb	250	0252	7288912
 pb	251	0253	7288913
 pb	252	0254	7288914
@@ -401,9 +401,9 @@ pb	381	0383	7289043
 pb	382	0384	7289044
 pb	383	0385	7289045
 pb	384	0386	7289046
-entry	Cœur		
+entry	Cœur	0	
 pb	385	0387	7289047
-entry	Coeur		
+entry	Coeur	296	
 pb	386	0388	7289048
 pb	387	0389	7289049
 pb	388	0390	7289050
@@ -700,7 +700,7 @@ pb	678	0680	7289340
 pb	679	0681	7289341
 pb	680	0682	7289342
 pb	681	0683	7289343
-entry	Colchique		
+entry	Colchique	15	
 pb	682	0684	7289344
 pb	683	0685	7289345
 pb	684	0686	7289346
@@ -716,7 +716,7 @@ pb	693	0695	7289355
 pb	694	0696	7289356
 pb	695	0697	7289357
 pb	696	0698	7289358
-entry	Colique		
+entry	Colique	30	
 pb	697	0699	7289359
 pb	698	0700	7289360
 pb	699	0701	7289361
@@ -747,9 +747,9 @@ pb	723	0725	7289385
 pb	724	0726	7289386
 pb	725	0727	7289387
 pb	726	0728	7289388
-entry	Colite		
-entry	Collapsus		
-entry	Collodion		
+entry	Colite	0	
+entry	Collapsus	0	
+entry	Collodion	8	
 pb	727	0729	7289389
 pb	728	0730	7289390
 pb	729	0731	7289391
@@ -758,16 +758,16 @@ pb	731	0733	7289393
 pb	732	0734	7289394
 pb	733	0735	7289395
 pb	734	0736	7289396
-entry	Colloïde		
-entry	Coloboma		
-entry	Colombo		
+entry	Colloïde	0	
+entry	Coloboma	0	
+entry	Colombo	2	
 pb	735	0737	7289397
 pb	736	0738	7289398
-entry	Colon		
-entry	Coloquinte		
+entry	Colon	0	
+entry	Coloquinte	1	
 pb	737	0739	7289399
-entry	Colostrum		
-entry	Coma		
+entry	Colostrum	0	
+entry	Coma	36	
 pb	738	0740	7289400
 pb	739	0741	7289401
 pb	740	0742	7289402
@@ -804,16 +804,16 @@ pb	770	0772	7289432
 pb	771	0773	7289433
 pb	772	0774	7289434
 pb	773	0775	7289435
-entry	Commotion		
+entry	Commotion	5	
 pb	774	0776	7289436
 pb	775	0777	7289437
 pb	776	0778	7289438
 pb	777	0779	7289439
 pb	778	0780	7289440
-entry	Compresse		
+entry	Compresse	1	
 pb	779	0781	7289441
 pb	780	0782	7289442
-entry	Compresseur, Compression		
+entry	Compresseur, Compression	21	
 orth	Compresseur		
 orth	Compression		
 pb	781	0783	7289443
@@ -838,4 +838,4 @@ pb	799	0801	7289461
 pb	800	0802	7289462
 pb	801	0803	7289463
 pb	802	0804	7289464
-entry	Table des auteurs		
+entry	Table des auteurs	0	

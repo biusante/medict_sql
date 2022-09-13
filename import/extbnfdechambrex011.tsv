@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4506337
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4506338
 pb	[s. pag.]	0003	4506339
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4506340
 pb	1	0005	4506341
-entry	Bronchite capillaire [Blachez]		
+entry	Bronchite capillaire [Blachez]	12	
 orth	Bronchite capillaire		
 pb	2	0006	4506342
 pb	3	0007	4506343
@@ -20,17 +20,17 @@ pb	11	0015	4506351
 pb	12	0016	4506352
 pb	13	0017	4506353
 pb	14	0018	4506354
-entry	Bronchite capillaire [Blachez] [E. Beaugrand]		
+entry	Bronchite capillaire [Blachez] [E. Beaugrand]	1	
 orth	Bronchite capillaire		
 pb	15	0019	4506355
-entry	Bronchocèle		
+entry	Bronchocèle	0	
 ref	Goître		
-entry	Bronchophonie [Barth, Henri Roger]		
+entry	Bronchophonie [Barth, Henri Roger]	3	
 orth	Bronchophonie		
 pb	16	0020	4506356
 pb	17	0021	4506357
 pb	18	0022	4506358
-entry	Bronchopneumonie, ou plutôt Bronchiopneumonie [Henri Roger]		
+entry	Bronchopneumonie, ou plutôt Bronchiopneumonie [Henri Roger]	54	
 orth	Bronchopneumonie, ou plutôt Bronchiopneumonie		
 pb	19	0023	4506359
 pb	20	0024	4506360
@@ -87,15 +87,15 @@ pb	70	0074	4506410
 pb	71	0075	4506411
 pb	72	0076	4506412
 pb	73	0077	4506413
-entry	Bronchopneumonie, ou plutôt Bronchiopneumonie [Henri Roger] [E. Beaugrand]		
+entry	Bronchopneumonie, ou plutôt Bronchiopneumonie [Henri Roger] [E. Beaugrand]	1	
 orth	Bronchopneumonie, ou plutôt Bronchiopneumonie		
 pb	74	0078	4506414
-entry	Bronchorrhée		
+entry	Bronchorrhée	0	
 ref	Bronchite chronique		
-entry	Bronchotomie		
+entry	Bronchotomie	0	
 ref	Trachéotomie		
 pb	75	0079	4506415
-entry	Bronzée (Peau ou Maladie) [B. Ball]		
+entry	Bronzée (Peau ou Maladie) [B. Ball]	70	
 orth	Bronzée (Peau ou Maladie)		
 pb	76	0080	4506416
 pb	77	0081	4506417
@@ -168,20 +168,20 @@ pb	143	0147	4506483
 pb	144	0148	4506484
 pb	145	0149	4506485
 pb	146	0150	4506486
-entry	Brookes (Les deux) [A. Chéreau]		
+entry	Brookes (Les deux) [A. Chéreau]	0	
 orth	Brookes (Les deux)		
-entry	Brosse (Guy de la) [A. Chéreau]		
+entry	Brosse (Guy de la) [A. Chéreau]	2	
 orth	Brosse (Guy de la)		
 pb	147	0151	4506487
 pb	148	0152	4506488
-entry	Brosses médicales [A. Tartivel]		
+entry	Brosses médicales [A. Tartivel]	3	
 orth	Brosses médicales		
 pb	149	0153	4506489
 pb	150	0154	4506490
 pb	151	0155	4506491
-entry	Brossiers		
+entry	Brossiers	0	
 ref	Criniers		
-entry	Brouillard [Ch. Martins]		
+entry	Brouillard [Ch. Martins]	9	
 orth	Brouillard		
 pb	152	0156	4506492
 pb	153	0157	4506493
@@ -192,92 +192,92 @@ pb	157	0161	4506497
 pb	158	0162	4506498
 pb	159	0163	4506499
 pb	160	0164	4506500
-entry	Broussais (François-Joseph-Victor) [E. Beaugrand]		
+entry	Broussais (François-Joseph-Victor) [E. Beaugrand]	3	
 orth	Broussais (François-Joseph-Victor)		
 pb	161	0165	4506501
 pb	162	0166	4506502
 pb	163	0167	4506503
 pb	164	0168	4506504
-entry	Broussais (Casimir-Anne-Marie) [E. Beaugrand]		
+entry	Broussais (Casimir-Anne-Marie) [E. Beaugrand]	0	
 orth	Broussais (Casimir-Anne-Marie)		
-entry	Brousse (Eaux minérales de) [A. Rotureau]		
+entry	Brousse (Eaux minérales de) [A. Rotureau]	3	
 orth	Brousse (Eaux minérales de)		
 pb	165	0169	4506505
 pb	166	0170	4506506
 pb	167	0171	4506507
-entry	Broussonnet (Les) [E. Beaugrand]		
+entry	Broussonnet (Les) [E. Beaugrand]	1	
 orth	Broussonnet (Les)		
 pb	168	0172	4506508
-entry	Broussonetie		
+entry	Broussonetie	0	
 ref	Murier à papier		
-entry	Brouzet [Amédée Dechambre]		
+entry	Brouzet [Amédée Dechambre]	0	
 orth	Brouzet		
-entry	Browallia (L.) [H. Baillon]		
+entry	Browallia (L.) [H. Baillon]	0	
 orth	Browallia (L.)		
 pb	169	0173	4506509
-entry	Brown (Les) [E. Beaugrand]		
+entry	Brown (Les) [E. Beaugrand]	2	
 orth	Brown (Les)		
 pb	170	0174	4506510
 pb	171	0175	4506511
-entry	Browne (Les) [A. Chéreau]		
+entry	Browne (Les) [A. Chéreau]	1	
 orth	Browne (Les)		
 pb	172	0176	4506512
-entry	Brownien (Mouvement) [V. Cornil]		
+entry	Brownien (Mouvement) [V. Cornil]	1	
 orth	Brownien (Mouvement)		
 pb	173	0177	4506513
-entry	Brownisme		
+entry	Brownisme	0	
 ref	Brown		
 ref	Médecine (Histoire de la)		
-entry	Brownring (William) [A. Chéreau]		
+entry	Brownring (William) [A. Chéreau]	1	
 orth	Brownring (William)		
 pb	174	0178	4506514
-entry	Broyeurs de couleurs		
+entry	Broyeurs de couleurs	0	
 ref	Couleurs		
-entry	Bru [E. Beaugrand]		
+entry	Bru [E. Beaugrand]	0	
 orth	Bru		
-entry	Bruand (Pierre-François) [A. Chéreau]		
+entry	Bruand (Pierre-François) [A. Chéreau]	0	
 orth	Bruand (Pierre-François)		
-entry	Brucea Mill [H. Baillon]		
+entry	Brucea Mill [H. Baillon]	1	
 orth	Brucea Mill		
 pb	175	0179	4506515
-entry	Bruceus ou Brucaeus (Henri) [A. Chéreau]		
+entry	Bruceus ou Brucaeus (Henri) [A. Chéreau]	1	
 orth	Bruceus ou Brucaeus (Henri)		
 pb	176	0180	4506516
-entry	Brückenau (Eaux minérales, boues et cure de petit-lait de) [A. Rotureau]		
+entry	Brückenau (Eaux minérales, boues et cure de petit-lait de) [A. Rotureau]	1	
 orth	Brückenau (Eaux minérales, boues et cure de petit-lait de)		
 pb	177	0181	4506517
-entry	Bruckmann		
+entry	Bruckmann	0	
 ref	Brueckmann		
-entry	Brucourt (Eau minérale de) [A. Rotureau]		
+entry	Brucourt (Eau minérale de) [A. Rotureau]	2	
 orth	Brucourt (Eau minérale de)		
 pb	178	0182	4506518
 pb	179	0183	4506519
-entry	Bruekmann (Les) [A. Chéreau]		
+entry	Bruekmann (Les) [A. Chéreau]	0	
 orth	Bruekmann (Les)		
 pb	180	0184	4506520
-entry	Bruening (George-Florian-Henri) [A. Chéreau]		
+entry	Bruening (George-Florian-Henri) [A. Chéreau]	0	
 orth	Bruening (George-Florian-Henri)		
-entry	Bruenninghausen (Hermann-Joseph) [E. Beaugrand]		
+entry	Bruenninghausen (Hermann-Joseph) [E. Beaugrand]	0	
 orth	Bruenninghausen (Hermann-Joseph)		
-entry	Brugheas (Eau minérale de) [A. Rotureau]		
+entry	Brugheas (Eau minérale de) [A. Rotureau]	1	
 orth	Brugheas (Eau minérale de)		
 pb	181	0185	4506521
-entry	Brugmans (Sébald-Justinus) [E. Beaugrand]		
+entry	Brugmans (Sébald-Justinus) [E. Beaugrand]	0	
 orth	Brugmans (Sébald-Justinus)		
-entry	Brugnatelli (Luigi V.) [E. Beaugrand]		
+entry	Brugnatelli (Luigi V.) [E. Beaugrand]	0	
 orth	Brugnatelli (Luigi V.)		
-entry	Brugnone (Jean) [A. Chéreau]		
+entry	Brugnone (Jean) [A. Chéreau]	1	
 orth	Brugnone (Jean)		
 pb	182	0186	4506522
-entry	Bruhenzen (Pierre van) [A. Chéreau]		
+entry	Bruhenzen (Pierre van) [A. Chéreau]	0	
 orth	Bruhenzen (Pierre van)		
-entry	Bruhier d'Ablaincourt (Jacques-Jean) [A. Chéreau]		
+entry	Bruhier d'Ablaincourt (Jacques-Jean) [A. Chéreau]	1	
 orth	Bruhier d'Ablaincourt (Jacques-Jean)		
 pb	183	0187	4506523
-entry	Bruits [Amédée Dechambre]		
+entry	Bruits [Amédée Dechambre]	1	
 orth	Bruits		
 pb	184	0188	4506524
-entry	Brûlure [Legouest]		
+entry	Brûlure [Legouest]	38	
 orth	Brûlure		
 pb	185	0189	4506525
 pb	186	0190	4506526
@@ -317,61 +317,61 @@ pb	219	0223	4506559
 pb	220	0224	4506560
 pb	221	0225	4506561
 pb	222	0226	4506562
-entry	Brumfels (Otto)		
+entry	Brumfels (Otto)	0	
 ref	Brunnfels		
-entry	Brunelle		
+entry	Brunelle	0	
 ref	Prunelle		
-entry	Brunisseurs, Brunisseuses (Hygiène professionnelle) [E. Beaugrand]		
+entry	Brunisseurs, Brunisseuses (Hygiène professionnelle) [E. Beaugrand]	1	
 orth	Brunisseurs, Brunisseuses (Hygiène professionnelle)		
 pb	223	0227	4506563
 pb	224	0228	4506564
-entry	Brunn (Jean-Jacques de) [A. Chéreau]		
+entry	Brunn (Jean-Jacques de) [A. Chéreau]	0	
 orth	Brunn (Jean-Jacques de)		
-entry	Brunner (Les) [A. Chéreau]		
+entry	Brunner (Les) [A. Chéreau]	1	
 orth	Brunner (Les)		
 pb	225	0229	4506565
-entry	Brunnfels (Otto) [A. Chéreau]		
+entry	Brunnfels (Otto) [A. Chéreau]	0	
 orth	Brunnfels (Otto)		
-entry	Bruno [E. Beaugrand]		
+entry	Bruno [E. Beaugrand]	1	
 orth	Bruno		
 pb	226	0230	4506566
-entry	Bruno (Jacobus-Pancratius) [E. Beaugrand]		
+entry	Bruno (Jacobus-Pancratius) [E. Beaugrand]	1	
 orth	Bruno (Jacobus-Pancratius)		
 pb	227	0231	4506567
-entry	Brunsfelsie [H. Baillon]		
+entry	Brunsfelsie [H. Baillon]	0	
 orth	Brunsfelsie		
-entry	Brunschwig ou Brauschweig (Hieronymus) [E. Beaugrand]		
+entry	Brunschwig ou Brauschweig (Hieronymus) [E. Beaugrand]	1	
 orth	Brunschwig ou Brauschweig (Hieronymus)		
 pb	228	0232	4506568
-entry	Brunswick (Nouveau)		
+entry	Brunswick (Nouveau)	0	
 ref	Britanniques (Possessions)		
-entry	Brunswigia [H. Baillon]		
+entry	Brunswigia [H. Baillon]	0	
 orth	Brunswigia		
-entry	Brunsvigia [H. Baillon]		
+entry	Brunsvigia [H. Baillon]	0	
 orth	Brunsvigia		
-entry	Bryone ou Bryoine		
-entry	Bryone ou Bryoine. Botanique [G. Planchon]		
+entry	Bryone ou Bryoine	0	
+entry	Bryone ou Bryoine. Botanique [G. Planchon]	1	
 orth	Bryone ou Bryoine. Botanique		
 pb	229	0233	4506569
 pb	230	0234	4506570
-entry	Bryone ou Bryoine		
-entry	Bryone ou Bryoine. Emploi médical [Fonssagrives]		
+entry	Bryone ou Bryoine	0	
+entry	Bryone ou Bryoine. Emploi médical [Fonssagrives]	5	
 orth	Bryone ou Bryoine. Emploi médical		
 pb	231	0235	4506571
 pb	232	0236	4506572
 pb	233	0237	4506573
 pb	234	0238	4506574
 pb	235	0239	4506575
-entry	Bryonine		
-entry	Bryonitine		
-entry	Bryozoaires [A. Laboulbène]		
+entry	Bryonine	0	
+entry	Bryonitine	0	
+entry	Bryozoaires [A. Laboulbène]	1	
 orth	Bryozoaires		
 pb	236	0240	4506576
-entry	Bubas		
+entry	Bubas	0	
 ref	Frambaesia		
-entry	Bubon [H. Baillon]		
+entry	Bubon [H. Baillon]	0	
 orth	Bubon		
-entry	Bubon [J. Rollet]		
+entry	Bubon [J. Rollet]	39	
 orth	Bubon		
 pb	237	0241	4506577
 pb	238	0242	4506578
@@ -412,120 +412,120 @@ pb	272	0276	4506612
 pb	273	0277	4506613
 pb	274	0278	4506614
 pb	275	0279	4506615
-entry	Bubonium [H. Baillon]		
+entry	Bubonium [H. Baillon]	0	
 orth	Bubonium		
-entry	Bubonocèle		
+entry	Bubonocèle	0	
 ref	Inguinale (Hernie)		
-entry	Bucarde [A. Laboulbène]		
+entry	Bucarde [A. Laboulbène]	1	
 orth	Bucarde		
 pb	276	0280	4506616
-entry	Buccal (Nerf)		
+entry	Buccal (Nerf)	0	
 ref	Maxillaire inférieur (Nerf)		
-entry	Buccale (Artère)		
+entry	Buccale (Artère)	0	
 ref	Maxillaire interne (Artère)		
-entry	Buccales (Glandes) [Marc Sée]		
+entry	Buccales (Glandes) [Marc Sée]	0	
 orth	Buccales (Glandes)		
-entry	Buccinateur (Muscle) [Marc Sée]		
+entry	Buccinateur (Muscle) [Marc Sée]	1	
 orth	Buccinateur (Muscle)		
 pb	277	0281	4506617
-entry	Bucco		
+entry	Bucco	0	
 ref	Buchu		
-entry	Buchan (Guillaume) [A. Chéreau]		
+entry	Buchan (Guillaume) [A. Chéreau]	1	
 orth	Buchan (Guillaume)		
 pb	278	0282	4506618
-entry	Buchez (Philippe-Jos.-Benj.) [E. Beaugrand]		
+entry	Buchez (Philippe-Jos.-Benj.) [E. Beaugrand]	0	
 orth	Buchez (Philippe-Jos.-Benj.)		
-entry	Bucholz (Père et fils) [E. Beaugrand]		
+entry	Bucholz (Père et fils) [E. Beaugrand]	1	
 orth	Bucholz (Père et fils)		
 pb	279	0283	4506619
-entry	Buc'Hoz (Pierre-Joseph) [E. Beaugrand]		
+entry	Buc'Hoz (Pierre-Joseph) [E. Beaugrand]	1	
 orth	Buc'Hoz (Pierre-Joseph)		
 pb	280	0284	4506620
-entry	Buchu, Bucco, Bocco		
-entry	Buchu, Bucco, Bocco. Botanique [G. Planchon]		
+entry	Buchu, Bucco, Bocco	0	
+entry	Buchu, Bucco, Bocco. Botanique [G. Planchon]	1	
 orth	Buchu, Bucco, Bocco. Botanique		
 pb	281	0285	4506621
-entry	Buchu, Bucco, Bocco. Emploi médical [Amédée Dechambre]		
+entry	Buchu, Bucco, Bocco. Emploi médical [Amédée Dechambre]	1	
 orth	Buchu, Bucco, Bocco. Emploi médical		
 pb	282	0286	4506622
-entry	Bucquet (Jean-Baptiste-Michel) [A. Chéreau]		
+entry	Bucquet (Jean-Baptiste-Michel) [A. Chéreau]	1	
 orth	Bucquet (Jean-Baptiste-Michel)		
 pb	283	0287	4506623
-entry	Buda ou Bude (Eaux minérales de)		
+entry	Buda ou Bude (Eaux minérales de)	0	
 ref	Ofen		
-entry	Bué (Eau minérale de) [A. Rotureau]		
+entry	Bué (Eau minérale de) [A. Rotureau]	1	
 orth	Bué (Eau minérale de)		
 pb	284	0288	4506624
-entry	Buechner (André-Élie van) [A. Chéreau]		
+entry	Buechner (André-Élie van) [A. Chéreau]	0	
 orth	Buechner (André-Élie van)		
-entry	Buettner (Les) [E. Beaugrand]		
+entry	Buettner (Les) [E. Beaugrand]	2	
 orth	Buettner (Les)		
 pb	285	0289	4506625
 pb	286	0290	4506626
-entry	Buettneria		
+entry	Buettneria	0	
 ref	Byttnère		
-entry	Buffon (Georges-Louis Leclerc de) [A. Chéreau]		
+entry	Buffon (Georges-Louis Leclerc de) [A. Chéreau]	4	
 orth	Buffon (Georges-Louis Leclerc de)		
 pb	287	0291	4506627
 pb	288	0292	4506628
 pb	289	0293	4506629
 pb	290	0294	4506630
-entry	Bugle [H. Baillon]		
+entry	Bugle [H. Baillon]	1	
 orth	Bugle		
 pb	291	0295	4506631
-entry	Buglosse ou Buglose [G. Planchon]		
+entry	Buglosse ou Buglose [G. Planchon]	0	
 orth	Buglosse ou Buglose		
-entry	Buglosse ou Buglose. Botanique [G. Planchon]		
+entry	Buglosse ou Buglose. Botanique [G. Planchon]	1	
 orth	Buglosse ou Buglose. Botanique		
 pb	292	0296	4506632
-entry	Pharmacologie [J. Delioux de Savignac]		
+entry	Pharmacologie [J. Delioux de Savignac]	0	
 orth	Pharmacologie		
-entry	Buglosse ou Buglose. Thérapeutique [J. Delioux de Savignac]		
+entry	Buglosse ou Buglose. Thérapeutique [J. Delioux de Savignac]	1	
 orth	Buglosse ou Buglose. Thérapeutique		
 pb	293	0297	4506633
-entry	Bugrane		
-entry	Bugrane. Botanique [G. Planchon]		
+entry	Bugrane	0	
+entry	Bugrane. Botanique [G. Planchon]	1	
 orth	Bugrane. Botanique		
 pb	294	0298	4506634
-entry	Bugrane. Emploi médical [J. Delioux de Savignac]		
+entry	Bugrane. Emploi médical [J. Delioux de Savignac]	2	
 orth	Bugrane. Emploi médical		
 pb	295	0299	4506635
 pb	296	0300	4506636
-entry	Buhualiha Ben Guezla [E. Beaugrand]		
+entry	Buhualiha Ben Guezla [E. Beaugrand]	0	
 orth	Buhualiha Ben Guezla		
-entry	Buis		
-entry	Buis. Botanique [H. Baillon]		
+entry	Buis	0	
+entry	Buis. Botanique [H. Baillon]	2	
 orth	Buis. Botanique		
 pb	297	0301	4506637
 pb	298	0302	4506638
-entry	Buis. Pharmacologie [J. Delioux de Savignac]		
+entry	Buis. Pharmacologie [J. Delioux de Savignac]	1	
 orth	Buis. Pharmacologie		
 pb	299	0303	4506639
-entry	Buis. Thérapeutique [J. Delioux de Savignac]		
+entry	Buis. Thérapeutique [J. Delioux de Savignac]	4	
 orth	Buis. Thérapeutique		
 pb	300	0304	4506640
 pb	301	0305	4506641
 pb	302	0306	4506642
 pb	303	0307	4506643
-entry	Buisson (Matthieu-François-Régis) [E. Beaugrand]		
+entry	Buisson (Matthieu-François-Régis) [E. Beaugrand]	1	
 orth	Buisson (Matthieu-François-Régis)		
 pb	304	0308	4506644
-entry	Bulbaire		
+entry	Bulbaire	0	
 ref	Honteuse interne (Artère)		
-entry	Bulbe [Amédée Dechambre]		
+entry	Bulbe [Amédée Dechambre]	0	
 orth	Bulbe		
-entry	Bulbe Rachidien		
+entry	Bulbe Rachidien	0	
 ref	Moelle		
-entry	Bulbo-caverneux (Muscles)		
+entry	Bulbo-caverneux (Muscles)	0	
 ref	Urèthre		
-entry	Bulgaria		
+entry	Bulgaria	0	
 ref	Pézizées		
-entry	Bulgarie		
+entry	Bulgarie	0	
 ref	Danubiennes (Provinces)		
-entry	Bulgnéville (Eau minérale de) [A. Rotureau]		
+entry	Bulgnéville (Eau minérale de) [A. Rotureau]	0	
 orth	Bulgnéville (Eau minérale de)		
 pb	305	0309	4506645
-entry	Bulles (Affections bulleuses) [Bazin]		
+entry	Bulles (Affections bulleuses) [Bazin]	6	
 orth	Bulles (Affections bulleuses)		
 pb	306	0310	4506646
 pb	307	0311	4506647
@@ -533,216 +533,216 @@ pb	308	0312	4506648
 pb	309	0313	4506649
 pb	310	0314	4506650
 pb	311	0315	4506651
-entry	Bulleyn (William) [E. Beaugrand]		
+entry	Bulleyn (William) [E. Beaugrand]	0	
 orth	Bulleyn (William)		
-entry	Bulliard (Pierre) [E. Beaugrand]		
+entry	Bulliard (Pierre) [E. Beaugrand]	1	
 orth	Bulliard (Pierre)		
 pb	312	0316	4506652
-entry	Bullicame (Eau minérale de)		
+entry	Bullicame (Eau minérale de)	0	
 ref	Viterbe		
-entry	Bun-Haldi [A. Le Roy de Méricourt]		
+entry	Bun-Haldi [A. Le Roy de Méricourt]	0	
 orth	Bun-Haldi		
-entry	Bunium L. [G. Planchon]		
+entry	Bunium L. [G. Planchon]	0	
 orth	Bunium L.		
-entry	Buniva (Michele-Francesco) [E. Beaugrand]		
+entry	Buniva (Michele-Francesco) [E. Beaugrand]	1	
 orth	Buniva (Michele-Francesco)		
 pb	313	0317	4506653
-entry	Bunon (Robert) [E. Beaugrand]		
+entry	Bunon (Robert) [E. Beaugrand]	0	
 orth	Bunon (Robert)		
-entry	Buonacossa (Ercole) [E. Beaugrand]		
+entry	Buonacossa (Ercole) [E. Beaugrand]	0	
 orth	Buonacossa (Ercole)		
-entry	Buplèvre [G. Planchon]		
+entry	Buplèvre [G. Planchon]	1	
 orth	Buplèvre		
 pb	314	0318	4506654
-entry	Bupreste [A. Laboulbène]		
+entry	Bupreste [A. Laboulbène]	1	
 orth	Bupreste		
 pb	315	0319	4506655
-entry	Burdach (Karl-Friedreich) [E. Beaugrand]		
+entry	Burdach (Karl-Friedreich) [E. Beaugrand]	1	
 orth	Burdach (Karl-Friedreich)		
 pb	316	0320	4506656
-entry	Burdin (Les deux frères) [E. Beaugrand]		
+entry	Burdin (Les deux frères) [E. Beaugrand]	1	
 orth	Burdin (Les deux frères)		
 pb	317	0321	4506657
-entry	Burdscheid (Eaux minérales de)		
+entry	Burdscheid (Eaux minérales de)	0	
 ref	Borcette		
-entry	Burette (Pierre-Jean) [E. Beaugrand]		
+entry	Burette (Pierre-Jean) [E. Beaugrand]	0	
 orth	Burette (Pierre-Jean)		
-entry	Burggrav (Les) [E. Beaugrand]		
+entry	Burggrav (Les) [E. Beaugrand]	0	
 orth	Burggrav (Les)		
 pb	318	0322	4506658
-entry	Burggrav (les) [E. Beaugrand]		
+entry	Burggrav (les) [E. Beaugrand]	0	
 orth	Burggrav (les)		
-entry	Burgundes		
+entry	Burgundes	0	
 ref	France (Anthropologie)		
-entry	Burhuis		
+entry	Burhuis	0	
 ref	France (anthropologie)		
-entry	Burnet (Thomas) [E. Beaugrand]		
+entry	Burnet (Thomas) [E. Beaugrand]	0	
 orth	Burnet (Thomas)		
-entry	Burning of the feet (Sensation de brûlure aux pieds) [A. Le Roy de Méricourt]		
+entry	Burning of the feet (Sensation de brûlure aux pieds) [A. Le Roy de Méricourt]	4	
 orth	Burning of the feet (Sensation de brûlure aux pieds)		
 pb	319	0323	4506659
 pb	320	0324	4506660
 pb	321	0325	4506661
 pb	322	0326	4506662
-entry	Burrhus ou mieux Borro (Guis.-Fr.) [E. Beaugrand]		
+entry	Burrhus ou mieux Borro (Guis.-Fr.) [E. Beaugrand]	0	
 orth	Burrhus ou mieux Borro (Guis.-Fr.)		
-entry	Bursera (L.) [H. Baillon]		
+entry	Bursera (L.) [H. Baillon]	1	
 orth	Bursera (L.)		
 pb	323	0327	4506663
-entry	Burséracées [H. Baillon]		
+entry	Burséracées [H. Baillon]	1	
 orth	Burséracées		
 pb	324	0328	4506664
-entry	Burtin (François-Xavier) [E. Beaugrand]		
+entry	Burtin (François-Xavier) [E. Beaugrand]	0	
 orth	Burtin (François-Xavier)		
-entry	Burton (Les deux) [A. Chéreau]		
+entry	Burton (Les deux) [A. Chéreau]	1	
 orth	Burton (Les deux)		
 pb	325	0329	4506665
-entry	Busignargues (Eau minérale de) [A. Rotureau]		
+entry	Busignargues (Eau minérale de) [A. Rotureau]	0	
 orth	Busignargues (Eau minérale de)		
-entry	Busot (Eaux minérales de) [A. Rotureau]		
+entry	Busot (Eaux minérales de) [A. Rotureau]	2	
 orth	Busot (Eaux minérales de)		
 pb	326	0330	4506666
 pb	327	0331	4506667
-entry	Bussang (Eaux minérales de) [A. Rotureau]		
+entry	Bussang (Eaux minérales de) [A. Rotureau]	2	
 orth	Bussang (Eaux minérales de)		
 pb	328	0332	4506668
 pb	329	0333	4506669
-entry	Bussemaker (U. C.) [E. Beaugrand]		
+entry	Bussemaker (U. C.) [E. Beaugrand]	0	
 orth	Bussemaker (U. C.)		
 pb	330	0334	4506670
-entry	Busserolle		
-entry	Botanique [H. Baillon]		
+entry	Busserolle	0	
+entry	Botanique [H. Baillon]	0	
 orth	Botanique		
 pb	331	0335	4506671
-entry	Busserolle		
-entry	Pharmacologie [J. Delioux de Savignac]		
+entry	Busserolle	0	
+entry	Pharmacologie [J. Delioux de Savignac]	0	
 orth	Pharmacologie		
-entry	Busserolle. Thérapeutique [J. Delioux de Savignac]		
+entry	Busserolle. Thérapeutique [J. Delioux de Savignac]	3	
 orth	Busserolle. Thérapeutique		
 pb	332	0336	4506672
 pb	333	0337	4506673
 pb	334	0338	4506674
-entry	Bussiares (Eau minérale de) [A. Rotureau]		
+entry	Bussiares (Eau minérale de) [A. Rotureau]	0	
 orth	Bussiares (Eau minérale de)		
-entry	Butée [H. Baillon]		
+entry	Butée [H. Baillon]	2	
 orth	Butée		
 pb	335	0339	4506675
 pb	336	0340	4506676
-entry	Buthus [A. Laboulbène]		
+entry	Buthus [A. Laboulbène]	0	
 orth	Buthus		
-entry	Butini (Les) [A. Chéreau]		
+entry	Butini (Les) [A. Chéreau]	1	
 orth	Butini (Les)		
 pb	337	0341	4506677
-entry	Butome [H. Baillon]		
+entry	Butome [H. Baillon]	0	
 orth	Butome		
-entry	Butter (W. M.) [E. Beaugrand]		
+entry	Butter (W. M.) [E. Beaugrand]	1	
 orth	Butter (W. M.)		
 pb	338	0342	4506678
-entry	Button-Scurvy [A. Le Roy de Méricourt]		
+entry	Button-Scurvy [A. Le Roy de Méricourt]	2	
 orth	Button-Scurvy		
 pb	339	0343	4506679
 pb	340	0344	4506680
-entry	Butylamine [Schützenberger]		
+entry	Butylamine [Schützenberger]	0	
 orth	Butylamine		
-entry	Butyle et ses composés [Schützenberger]		
+entry	Butyle et ses composés [Schützenberger]	1	
 orth	Butyle et ses composés		
 pb	341	0345	4506681
-entry	Butylique (Alcool) [Schützenberger]		
+entry	Butylique (Alcool) [Schützenberger]	0	
 orth	Butylique (Alcool)		
-entry	Butylique (Éther)		
+entry	Butylique (Éther)	0	
 ref	Éthers		
 pb	342	0346	4506682
-entry	Butyramide [Schützenberger]		
+entry	Butyramide [Schützenberger]	0	
 orth	Butyramide		
-entry	Butyrines [Amédée Dechambre]		
+entry	Butyrines [Amédée Dechambre]	0	
 orth	Butyrines		
-entry	Butyrique (Acide) [Schützenberger]		
+entry	Butyrique (Acide) [Schützenberger]	2	
 orth	Butyrique (Acide)		
 pb	343	0347	4506683
 pb	344	0348	4506684
-entry	Butyromètre		
+entry	Butyromètre	0	
 ref	Lait		
-entry	Buxine		
+entry	Buxine	0	
 ref	Buis		
-entry	Buxton (Eaux minérales de) [A. Rotureau]		
+entry	Buxton (Eaux minérales de) [A. Rotureau]	3	
 orth	Buxton (Eaux minérales de)		
 pb	345	0349	4506685
 pb	346	0350	4506686
 pb	347	0351	4506687
-entry	Buxus		
+entry	Buxus	0	
 ref	Buis		
-entry	Byssinées [Jacques Bertillon]		
+entry	Byssinées [Jacques Bertillon]	0	
 orth	Byssinées		
 pb	348	0352	4506688
-entry	Byttnère, Byttnériacées [H. Baillon]		
+entry	Byttnère, Byttnériacées [H. Baillon]	0	
 orth	Byttnère, Byttnériacées		
 pb	349	0353	4506689
-entry	Caa (Herbe) [H. Baillon]		
+entry	Caa (Herbe) [H. Baillon]	0	
 orth	Caa (Herbe)		
-entry	Cabale [A. Chéreau]		
+entry	Cabale [A. Chéreau]	2	
 orth	Cabale		
 pb	350	0354	4506690
 pb	351	0355	4506691
-entry	Caballuz		
+entry	Caballuz	0	
 ref	Cavallo		
-entry	Cabaniers. [L.]		
+entry	Cabaniers. [L.]	0	
 orth	Cabaniers.		
-entry	Cabanis (Pierre-Jean-Georges) [H. Montanier]		
+entry	Cabanis (Pierre-Jean-Georges) [H. Montanier]	5	
 orth	Cabanis (Pierre-Jean-Georges)		
 pb	352	0356	4506692
 pb	353	0357	4506693
 pb	354	0358	4506694
 pb	355	0359	4506695
 pb	356	0360	4506696
-entry	Cabaret		
+entry	Cabaret	0	
 ref	Asaret		
-entry	Cabasse		
+entry	Cabasse	0	
 ref	Cacaoier		
-entry	Cabeliau, Cabliau ou Cabillaud [A. Laboulbène]		
+entry	Cabeliau, Cabliau ou Cabillaud [A. Laboulbène]	0	
 orth	Cabeliau, Cabliau ou Cabillaud		
-entry	Cabial [A. Laboulbène]		
+entry	Cabial [A. Laboulbène]	0	
 orth	Cabial		
-entry	Cabotz		
+entry	Cabotz	0	
 ref	Brayera		
 ref	Cousso		
-entry	Cabourg (Station marine) [A. Rotureau]		
+entry	Cabourg (Station marine) [A. Rotureau]	1	
 orth	Cabourg (Station marine)		
 pb	357	0361	4506697
-entry	Cabrol (Barthélemy) [A. Chéreau]		
+entry	Cabrol (Barthélemy) [A. Chéreau]	1	
 orth	Cabrol (Barthélemy)		
 pb	358	0362	4506698
-entry	Cacalie [H. Baillon]		
+entry	Cacalie [H. Baillon]	1	
 orth	Cacalie		
 pb	359	0363	4506699
-entry	Cacao [Fonssagrives]		
+entry	Cacao [Fonssagrives]	5	
 orth	Cacao		
 pb	360	0364	4506700
 pb	361	0365	4506701
 pb	362	0366	4506702
 pb	363	0367	4506703
 pb	364	0368	4506704
-entry	Cacaoier ou Cacaoyer [H. Baillon]		
+entry	Cacaoier ou Cacaoyer [H. Baillon]	2	
 orth	Cacaoier ou Cacaoyer		
 pb	365	0369	4506705
 pb	366	0370	4506706
-entry	Cachalot [A. Laboulbène]		
+entry	Cachalot [A. Laboulbène]	1	
 orth	Cachalot		
 pb	367	0371	4506707
-entry	Cacheloudi		
+entry	Cacheloudi	0	
 ref	Cachanlagua		
-entry	Cachen-Lahuen		
+entry	Cachen-Lahuen	0	
 ref	Cachalagua		
-entry	Cachet (Christophe) [A. Chéreau]		
+entry	Cachet (Christophe) [A. Chéreau]	1	
 orth	Cachet (Christophe)		
 pb	368	0372	4506708
-entry	Cachets oculistiques romains [A. Chéreau]		
+entry	Cachets oculistiques romains [A. Chéreau]	5	
 orth	Cachets oculistiques romains		
 pb	369	0373	4506709
 pb	370	0374	4506710
 pb	371	0375	4506711
 pb	372	0376	4506712
 pb	373	0377	4506713
-entry	Cachexie [Blachez]		
+entry	Cachexie [Blachez]	18	
 orth	Cachexie		
 pb	374	0378	4506714
 pb	375	0379	4506715
@@ -762,7 +762,7 @@ pb	388	0392	4506728
 pb	389	0393	4506729
 pb	390	0394	4506730
 pb	391	0395	4506731
-entry	Cachexie aqueuse [A. Le Roy de Méricourt]		
+entry	Cachexie aqueuse [A. Le Roy de Méricourt]	9	
 orth	Cachexie aqueuse		
 pb	392	0396	4506732
 pb	393	0397	4506733
@@ -773,11 +773,11 @@ pb	397	0401	4506737
 pb	398	0402	4506738
 pb	399	0403	4506739
 pb	400	0404	4506740
-entry	Cachibou [H. Baillon]		
+entry	Cachibou [H. Baillon]	0	
 orth	Cachibou		
-entry	Cachimans [H. Baillon]		
+entry	Cachimans [H. Baillon]	0	
 orth	Cachimans		
-entry	Cachou [J. Delioux de Savignac]		
+entry	Cachou [J. Delioux de Savignac]	6	
 orth	Cachou		
 pb	401	0405	4506741
 pb	402	0406	4506742
@@ -785,33 +785,33 @@ pb	403	0407	4506743
 pb	404	0408	4506744
 pb	405	0409	4506745
 pb	406	0410	4506746
-entry	Cachrys [G. Planchon]		
+entry	Cachrys [G. Planchon]	1	
 orth	Cachrys		
 pb	407	0411	4506747
-entry	Cachundé [T. Gobley]		
+entry	Cachundé [T. Gobley]	0	
 orth	Cachundé		
-entry	Cachutique (Acide)		
-entry	Cacochymie [Amédée Dechambre]		
+entry	Cachutique (Acide)	0	
+entry	Cacochymie [Amédée Dechambre]	1	
 orth	Cacochymie		
 pb	408	0412	4506748
-entry	Cacogenèses [Amédée Dechambre]		
+entry	Cacogenèses [Amédée Dechambre]	0	
 orth	Cacogenèses		
-entry	Cacothéline [Malaguti]		
+entry	Cacothéline [Malaguti]	0	
 orth	Cacothéline		
-entry	Cactacées ou Cactées [G. Planchon]		
+entry	Cactacées ou Cactées [G. Planchon]	1	
 orth	Cactacées ou Cactées		
 pb	409	0413	4506749
-entry	Cactos [H. Baillon]		
+entry	Cactos [H. Baillon]	0	
 orth	Cactos		
-entry	Cactus [G. Planchon]		
+entry	Cactus [G. Planchon]	0	
 orth	Cactus		
-entry	Cacubalou [H. Baillon]		
+entry	Cacubalou [H. Baillon]	0	
 orth	Cacubalou		
-entry	Cadaba [H. Baillon]		
+entry	Cadaba [H. Baillon]	0	
 orth	Cadaba		
-entry	Cadagua-Pala		
+entry	Cadagua-Pala	0	
 ref	Wrightia		
-entry	Cadavre (Médecine légale) [G. Tourdes]		
+entry	Cadavre (Médecine légale) [G. Tourdes]	21	
 orth	Cadavre (Médecine légale)		
 pb	410	0414	4506750
 pb	411	0415	4506751
@@ -834,13 +834,13 @@ pb	427	0431	4506767
 pb	428	0432	4506768
 pb	429	0433	4506769
 pb	430	0434	4506770
-entry	Cade		
-entry	Botanique		
-entry	Cade (Huile de)		
-entry	Cade (Huile de). Pharmacologie [T. Gobley]		
+entry	Cade	0	
+entry	Botanique	0	
+entry	Cade (Huile de)	0	
+entry	Cade (Huile de). Pharmacologie [T. Gobley]	1	
 orth	Cade (Huile de). Pharmacologie		
 pb	431	0435	4506771
-entry	Cade (Huile de). Emploi thérapeutique [Bazin]		
+entry	Cade (Huile de). Emploi thérapeutique [Bazin]	16	
 orth	Cade (Huile de). Emploi thérapeutique		
 pb	432	0436	4506772
 pb	433	0437	4506773
@@ -858,34 +858,34 @@ pb	444	0448	4506784
 pb	445	0449	4506785
 pb	446	0450	4506786
 pb	447	0451	4506787
-entry	Cadéac (Eaux minérales de) [A. Rotureau]		
+entry	Cadéac (Eaux minérales de) [A. Rotureau]	1	
 orth	Cadéac (Eaux minérales de)		
 pb	448	0452	4506788
-entry	Cadelari [G. Planchon]		
+entry	Cadelari [G. Planchon]	1	
 orth	Cadelari		
 pb	449	0453	4506789
-entry	Cadel-Avanaçu		
+entry	Cadel-Avanaçu	0	
 ref	Croton Tiglium		
-entry	Cadenelles		
-entry	Cadet (Les) [H. Montanier]		
+entry	Cadenelles	0	
+entry	Cadet (Les) [H. Montanier]	2	
 orth	Cadet (Les)		
 pb	450	0454	4506790
 pb	451	0455	4506791
-entry	Cadet de Vaux (Antoine-Alexis-François) [H. Montanier]		
+entry	Cadet de Vaux (Antoine-Alexis-François) [H. Montanier]	2	
 orth	Cadet de Vaux (Antoine-Alexis-François)		
 pb	452	0456	4506792
 pb	453	0457	4506793
-entry	Cadie [H. Baillon]		
+entry	Cadie [H. Baillon]	0	
 orth	Cadie		
-entry	Cadmium [C. Lutz]		
+entry	Cadmium [C. Lutz]	2	
 orth	Cadmium		
 pb	454	0458	4506794
 pb	455	0459	4506795
-entry	Cadogan (William) [E. Beaugrand]		
+entry	Cadogan (William) [E. Beaugrand]	0	
 orth	Cadogan (William)		
-entry	Caduc (Mal)		
+entry	Caduc (Mal)	0	
 ref	Épilepsie		
-entry	Caduque (Membrane) [Campana]		
+entry	Caduque (Membrane) [Campana]	12	
 orth	Caduque (Membrane)		
 pb	456	0460	4506796
 pb	457	0461	4506797
@@ -899,16 +899,16 @@ pb	464	0468	4506804
 pb	465	0469	4506805
 pb	466	0470	4506806
 pb	467	0471	4506807
-entry	Caecal (Appendice)		
+entry	Caecal (Appendice)	0	
 ref	Caecum		
-entry	Caecum		
-entry	Caecum. Anatomie [Marc Sée]		
+entry	Caecum	0	
+entry	Caecum. Anatomie [Marc Sée]	4	
 orth	Caecum. Anatomie		
 pb	468	0472	4506808
 pb	469	0473	4506809
 pb	470	0474	4506810
 pb	471	0475	4506811
-entry	Caecum. Pathologie [Blachez]		
+entry	Caecum. Pathologie [Blachez]	13	
 orth	Caecum. Pathologie		
 pb	472	0476	4506812
 pb	473	0477	4506813
@@ -924,30 +924,30 @@ pb	482	0486	4506822
 pb	483	0487	4506823
 pb	484	0488	4506824
 pb	485	0489	4506825
-entry	Caecum. Pathologie [Blachez] [E. Beaugrand]		
+entry	Caecum. Pathologie [Blachez] [E. Beaugrand]	2	
 orth	Caecum. Pathologie		
 pb	486	0490	4506826
 pb	487	0491	4506827
-entry	Caelius-Aurelianus [Ch. Daremberg]		
+entry	Caelius-Aurelianus [Ch. Daremberg]	0	
 orth	Caelius-Aurelianus		
-entry	Caels (Théod.-Pierre) [E. Beaugrand]		
+entry	Caels (Théod.-Pierre) [E. Beaugrand]	0	
 orth	Caels (Théod.-Pierre)		
-entry	Caeoma [J. De Seynes]		
+entry	Caeoma [J. De Seynes]	0	
 orth	Caeoma		
-entry	Caesalpiniées [H. Baillon]		
+entry	Caesalpiniées [H. Baillon]	1	
 orth	Caesalpiniées		
 pb	488	0492	4506828
-entry	Caesarius (Jean) [A. Chéreau]		
+entry	Caesarius (Jean) [A. Chéreau]	0	
 orth	Caesarius (Jean)		
-entry	Caesium [Malaguti]		
+entry	Caesium [Malaguti]	1	
 orth	Caesium		
 pb	489	0493	4506829
-entry	Caeshacées		
+entry	Caeshacées	0	
 ref	Uridinées		
-entry	Caeths		
+entry	Caeths	0	
 ref	Cagots		
-entry	Café		
-entry	Café. Hygiène [Fonssagrives]		
+entry	Café	0	
+entry	Café. Hygiène [Fonssagrives]	10	
 orth	Café. Hygiène		
 pb	490	0494	4506830
 pb	491	0495	4506831
@@ -959,11 +959,11 @@ pb	496	0500	4506836
 pb	497	0501	4506837
 pb	498	0502	4506838
 pb	499	0503	4506839
-entry	Café. Pharmacologie [Fonssagrives]		
+entry	Café. Pharmacologie [Fonssagrives]	2	
 orth	Café. Pharmacologie		
 pb	500	0504	4506840
 pb	501	0505	4506841
-entry	Café. Thérapeutique [Fonssagrives]		
+entry	Café. Thérapeutique [Fonssagrives]	15	
 orth	Café. Thérapeutique		
 pb	502	0506	4506842
 pb	503	0507	4506843
@@ -980,29 +980,29 @@ pb	513	0517	4506853
 pb	514	0518	4506854
 pb	515	0519	4506855
 pb	516	0520	4506856
-entry	Café. Établissements [Fonssagrives]		
+entry	Café. Établissements [Fonssagrives]	4	
 orth	Café. Établissements		
 pb	517	0521	4506857
 pb	518	0522	4506858
 pb	519	0523	4506859
 pb	520	0524	4506860
-entry	Caféier [Plachon]		
+entry	Caféier [Plachon]	2	
 orth	Caféier		
 pb	521	0525	4506861
 pb	522	0526	4506862
-entry	Caféine [Amédée Dechambre]		
+entry	Caféine [Amédée Dechambre]	1	
 orth	Caféine		
 pb	523	0527	4506863
-entry	Caféique		
+entry	Caféique	0	
 ref	Cafétannique (Acide)		
-entry	Caféone [Amédée Dechambre]		
+entry	Caféone [Amédée Dechambre]	0	
 orth	Caféone		
-entry	Cafétannique (Acide) [Amédée Dechambre]		
+entry	Cafétannique (Acide) [Amédée Dechambre]	0	
 orth	Cafétannique (Acide)		
-entry	Caffin (Jacques-François) [E. Beaugrand]		
+entry	Caffin (Jacques-François) [E. Beaugrand]	1	
 orth	Caffin (Jacques-François)		
 pb	524	0528	4506864
-entry	Caffres [Ch. Letourneau]		
+entry	Caffres [Ch. Letourneau]	10	
 orth	Caffres		
 pb	525	0529	4506865
 pb	526	0530	4506866
@@ -1014,9 +1014,9 @@ pb	531	0535	4506871
 pb	532	0536	4506872
 pb	533	0537	4506873
 pb	534	0538	4506874
-entry	Cagnati (Marcel) [A. Chéreau]		
+entry	Cagnati (Marcel) [A. Chéreau]	0	
 orth	Cagnati (Marcel)		
-entry	Cagots [Gustave Lagneau]		
+entry	Cagots [Gustave Lagneau]	23	
 orth	Cagots		
 pb	535	0539	4506875
 pb	536	0540	4506876
@@ -1042,84 +1042,84 @@ pb	555	0559	4506895
 pb	556	0560	4506896
 pb	557	0561	4506897
 pb	558	0562	4506898
-entry	Cahagne, ou Cahaigne (Jacques) [A. Chéreau]		
+entry	Cahagne, ou Cahaigne (Jacques) [A. Chéreau]	0	
 orth	Cahagne, ou Cahaigne (Jacques)		
-entry	Cailcedra.. Baillon]		
+entry	Cailcedra.. Baillon]	0	
 ref	Khaya [H		
-entry	Cailcedra [Fonssagrives]		
+entry	Cailcedra [Fonssagrives]	0	
 orth	Cailcedra		
-entry	Caillau (Jean-Marie) [H. Montanier]		
+entry	Caillau (Jean-Marie) [H. Montanier]	2	
 orth	Caillau (Jean-Marie)		
 pb	559	0563	4506899
 pb	560	0564	4506900
-entry	Caille [A. Laboulbène]		
+entry	Caille [A. Laboulbène]	0	
 orth	Caille		
-entry	Caille-lait		
+entry	Caille-lait	0	
 ref	Galiet		
-entry	Caille (La)		
+entry	Caille (La)	0	
 ref	Caille		
-entry	Cailleu-Tassart [A. Laboulbène]		
+entry	Cailleu-Tassart [A. Laboulbène]	1	
 orth	Cailleu-Tassart		
 pb	561	0565	4506901
-entry	Caillot		
-entry	Caillonteur		
+entry	Caillot	0	
+entry	Caillonteur	0	
 ref	Aiguiseurs		
-entry	Caïmitier [G. Planchon]		
+entry	Caïmitier [G. Planchon]	1	
 orth	Caïmitier		
 pb	562	0566	4506902
-entry	Caimo (Les deux) [A. Chéreau]		
+entry	Caimo (Les deux) [A. Chéreau]	1	
 orth	Caimo (Les deux)		
 pb	563	0567	4506903
-entry	Cainca		
-entry	Botanique		
+entry	Cainca	0	
+entry	Botanique	0	
 ref	Chiococca		
-entry	Cainca. Pharmacologie [J. Delioux de Savignac]		
+entry	Cainca. Pharmacologie [J. Delioux de Savignac]	2	
 orth	Cainca. Pharmacologie		
 pb	564	0568	4506904
 pb	565	0569	4506905
-entry	Cainca. Emploi médical [J. Delioux de Savignac]		
+entry	Cainca. Emploi médical [J. Delioux de Savignac]	3	
 orth	Cainca. Emploi médical		
 pb	566	0570	4506906
 pb	567	0571	4506907
 pb	568	0572	4506908
-entry	Caïncine		
+entry	Caïncine	0	
 ref	Cainca		
-entry	Caïncique (Acide)		
+entry	Caïncique (Acide)	0	
 ref	Cainca		
-entry	Caire		
+entry	Caire	0	
 ref	Le Caire		
-entry	Caisse du tambour		
+entry	Caisse du tambour	0	
 ref	Oreille interne		
-entry	Cains		
+entry	Cains	0	
 ref	Kaye		
-entry	Caizergues (Fulcrand-César) [H. Montanier]		
+entry	Caizergues (Fulcrand-César) [H. Montanier]	0	
 orth	Caizergues (Fulcrand-César)		
-entry	Cajeput		
-entry	Botanique [J. Delioux de Savignac]		
+entry	Cajeput	0	
+entry	Botanique [J. Delioux de Savignac]	0	
 orth	Botanique		
 pb	569	0573	4506909
-entry	Cajeput		
-entry	Cajeput. Pharmacologie [J. Delioux de Savignac]		
+entry	Cajeput	0	
+entry	Cajeput. Pharmacologie [J. Delioux de Savignac]	1	
 orth	Cajeput. Pharmacologie		
 pb	570	0574	4506910
 pb	571	0575	4506911
-entry	Cajeput		
-entry	Cajeput. Emploi médical [J. Delioux de Savignac]		
+entry	Cajeput	0	
+entry	Cajeput. Emploi médical [J. Delioux de Savignac]	1	
 orth	Cajeput. Emploi médical		
 pb	572	0576	4506912
-entry	Cajous		
+entry	Cajous	0	
 ref	Anacarde		
-entry	Caju [H. Baillon]		
+entry	Caju [H. Baillon]	1	
 orth	Caju		
 pb	573	0577	4506913
-entry	Cak [A. Le Roy de Méricourt]		
+entry	Cak [A. Le Roy de Méricourt]	0	
 orth	Cak		
-entry	Cakile		
+entry	Cakile	0	
 ref	Caquilier		
-entry	Cakradatta [G. Liétard]		
+entry	Cakradatta [G. Liétard]	1	
 orth	Cakradatta		
 pb	574	0578	4506914
-entry	Cal [Maurice Perrin]		
+entry	Cal [Maurice Perrin]	12	
 orth	Cal		
 pb	575	0579	4506915
 pb	576	0580	4506916
@@ -1134,69 +1134,69 @@ pb	584	0588	4506924
 pb	585	0589	4506925
 pb	586	0590	4506926
 pb	587	0591	4506927
-entry	Cal [Maurice Perrin] [E. Beaugrand]		
+entry	Cal [Maurice Perrin] [E. Beaugrand]	2	
 orth	Cal		
 pb	588	0592	4506928
 pb	589	0593	4506929
-entry	Cala		
+entry	Cala	0	
 ref	Noyer		
-entry	Calaba [G. Planchon]		
+entry	Calaba [G. Planchon]	1	
 orth	Calaba		
 pb	590	0594	4506930
-entry	Calabar (Fève de)		
-entry	Calabar (Fève de). Botanique [H. Baillon]		
+entry	Calabar (Fève de)	0	
+entry	Calabar (Fève de). Botanique [H. Baillon]	2	
 orth	Calabar (Fève de). Botanique		
 pb	591	0595	4506931
 pb	592	0596	4506932
-entry	Calabar (Fève de). Physiologie et emploi médical [Léon Lefort]		
+entry	Calabar (Fève de). Physiologie et emploi médical [Léon Lefort]	3	
 orth	Calabar (Fève de). Physiologie et emploi médical		
 pb	593	0597	4506933
 pb	594	0598	4506934
 pb	595	0599	4506935
-entry	Calabar (Fève de). Emploi thérapeutique [Léon Lefort]		
+entry	Calabar (Fève de). Emploi thérapeutique [Léon Lefort]	3	
 orth	Calabar (Fève de). Emploi thérapeutique		
 pb	596	0600	4506936
 pb	597	0601	4506937
 pb	598	0602	4506938
-entry	Calac		
+entry	Calac	0	
 ref	Carissa		
-entry	Caladium [G. Planchon]		
+entry	Caladium [G. Planchon]	0	
 orth	Caladium		
-entry	Calafatti (Georges) [A. Chéreau]		
+entry	Calafatti (Georges) [A. Chéreau]	0	
 orth	Calafatti (Georges)		
-entry	Calagéri [Amédée Dechambre]		
+entry	Calagéri [Amédée Dechambre]	0	
 orth	Calagéri		
-entry	Calagirah [Amédée Dechambre]		
+entry	Calagirah [Amédée Dechambre]	0	
 orth	Calagirah		
-entry	Calaguala, Calaguela, Calahuala [J. De Seynes]		
+entry	Calaguala, Calaguela, Calahuala [J. De Seynes]	2	
 orth	Calaguala, Calaguela, Calahuala		
 pb	599	0603	4506939
 pb	600	0604	4506940
-entry	Calais (Station marine) [A. Rotureau]		
+entry	Calais (Station marine) [A. Rotureau]	0	
 orth	Calais (Station marine)		
-entry	Calambac [G. Planchon]		
+entry	Calambac [G. Planchon]	1	
 orth	Calambac		
 pb	601	0605	4506941
-entry	Calament [G. Planchon]		
+entry	Calament [G. Planchon]	1	
 orth	Calament		
 pb	602	0606	4506942
-entry	Calamine		
-entry	Calamus [H. Baillon]		
+entry	Calamine	0	
+entry	Calamus [H. Baillon]	0	
 orth	Calamus		
-entry	Calamus aromaticus ou Calamus verus [H. Baillon]		
+entry	Calamus aromaticus ou Calamus verus [H. Baillon]	0	
 orth	Calamus aromaticus ou Calamus verus		
 pb	603	0607	4506943
-entry	Calamus aromaticus ou Calamus verus [H. Baillon] [G. Planchon]		
+entry	Calamus aromaticus ou Calamus verus [H. Baillon] [G. Planchon]	0	
 orth	Calamus aromaticus ou Calamus verus		
-entry	Calat [H. Baillon]		
+entry	Calat [H. Baillon]	0	
 orth	Calat		
-entry	Calcanéum		
-entry	Calcanéum. Anatomie [Polaillon]		
+entry	Calcanéum	0	
+entry	Calcanéum. Anatomie [Polaillon]	3	
 orth	Calcanéum. Anatomie		
 pb	604	0608	4506944
 pb	605	0609	4506945
 pb	606	0610	4506946
-entry	Calcanéum. Pathologie [Polaillon]		
+entry	Calcanéum. Pathologie [Polaillon]	31	
 orth	Calcanéum. Pathologie		
 pb	607	0611	4506947
 pb	608	0612	4506948
@@ -1229,68 +1229,68 @@ pb	634	0638	4506974
 pb	635	0639	4506975
 pb	636	0640	4506976
 pb	637	0641	4506977
-entry	Calcanéo-astragalienne (Articulation)		
+entry	Calcanéo-astragalienne (Articulation)	0	
 ref	Calcanéum		
 ref	Pied		
 pb	638	0642	4506978
-entry	Calcanéo-cuboidienne (Articulation)		
+entry	Calcanéo-cuboidienne (Articulation)	0	
 ref	Calcanéum		
 ref	Pied		
-entry	Calcanéo-scaphoidienne (Articulation)		
+entry	Calcanéo-scaphoidienne (Articulation)	0	
 ref	Calcanéum		
 ref	Pied		
-entry	Calcéolaire [H. Baillon]		
+entry	Calcéolaire [H. Baillon]	0	
 orth	Calcéolaire		
-entry	Calcination [P. Coulier]		
+entry	Calcination [P. Coulier]	3	
 orth	Calcination		
 pb	639	0643	4506979
 pb	640	0644	4506980
 pb	641	0645	4506981
-entry	Calcitrapique (Acide)		
-entry	Calcium [Malaguti]		
+entry	Calcitrapique (Acide)	0	
+entry	Calcium [Malaguti]	0	
 orth	Calcium		
-entry	Calculs [Amédée Dechambre]		
+entry	Calculs [Amédée Dechambre]	1	
 orth	Calculs		
 pb	642	0646	4506982
-entry	Caldani (Léopold-Marc-Antoine) [A. Chéreau]		
+entry	Caldani (Léopold-Marc-Antoine) [A. Chéreau]	1	
 orth	Caldani (Léopold-Marc-Antoine)		
 pb	643	0647	4506983
-entry	Caldaniccia (Eaux minérales de) [A. Rotureau]		
+entry	Caldaniccia (Eaux minérales de) [A. Rotureau]	1	
 orth	Caldaniccia (Eaux minérales de)		
 pb	644	0648	4506984
-entry	Caldas de Cuntis (Eaux minérales de) [A. Rotureau]		
+entry	Caldas de Cuntis (Eaux minérales de) [A. Rotureau]	2	
 orth	Caldas de Cuntis (Eaux minérales de)		
 pb	645	0649	4506985
 pb	646	0650	4506986
-entry	Caldas de Mombuy (Eaux minérales de) [A. Rotureau]		
+entry	Caldas de Mombuy (Eaux minérales de) [A. Rotureau]	5	
 orth	Caldas de Mombuy (Eaux minérales de)		
 pb	647	0651	4506987
 pb	648	0652	4506988
 pb	649	0653	4506989
 pb	650	0654	4506990
 pb	651	0655	4506991
-entry	Caldas de Oviedo (Eau minérale de) [A. Rotureau]		
+entry	Caldas de Oviedo (Eau minérale de) [A. Rotureau]	2	
 orth	Caldas de Oviedo (Eau minérale de)		
 pb	652	0656	4506992
 pb	653	0657	4506993
-entry	Caldas da Rainha (Eaux minérales de) [A. Rotureau]		
+entry	Caldas da Rainha (Eaux minérales de) [A. Rotureau]	1	
 orth	Caldas da Rainha (Eaux minérales de)		
 pb	654	0658	4506994
-entry	Caldas de Reyes (Eaux minérales de) [A. Rotureau]		
+entry	Caldas de Reyes (Eaux minérales de) [A. Rotureau]	2	
 orth	Caldas de Reyes (Eaux minérales de)		
 pb	655	0659	4506995
 pb	656	0660	4506996
-entry	Caldeira de Heredia		
+entry	Caldeira de Heredia	0	
 ref	Heredia		
-entry	Caldellas (Eaux minérales de)		
+entry	Caldellas (Eaux minérales de)	0	
 ref	Caldas		
-entry	Caldiero		
-entry	Caldwall (Richard) [E. Beaugrand]		
+entry	Caldiero	0	
+entry	Caldwall (Richard) [E. Beaugrand]	0	
 orth	Caldwall (Richard)		
-entry	Calebasse, Calebassier [H. Baillon]		
+entry	Calebasse, Calebassier [H. Baillon]	1	
 orth	Calebasse, Calebassier		
 pb	657	0661	4506997
-entry	Calédonie (Nouvelle-) [A. Le Roy de Méricourt,		
+entry	Calédonie (Nouvelle-) [A. Le Roy de Méricourt,	26	
 ref	de Rochas]		
 pb	658	0662	4506998
 pb	659	0663	4506999
@@ -1318,14 +1318,14 @@ pb	680	0684	4507020
 pb	681	0685	4507021
 pb	682	0686	4507022
 pb	683	0687	4507023
-entry	Calendula		
+entry	Calendula	0	
 ref	Souci		
-entry	Calenture [A. Le Roy de Méricourt]		
+entry	Calenture [A. Le Roy de Méricourt]	0	
 orth	Calenture		
-entry	Calenture (Bois de) [G. Planchon]		
+entry	Calenture (Bois de) [G. Planchon]	1	
 orth	Calenture (Bois de)		
 pb	684	0688	4507024
-entry	Californie [V. de Rochas]		
+entry	Californie [V. de Rochas]	24	
 orth	Californie		
 pb	685	0689	4507025
 pb	686	0690	4507026
@@ -1351,52 +1351,52 @@ pb	705	0709	4507045
 pb	706	0710	4507046
 pb	707	0711	4507047
 pb	708	0712	4507048
-entry	Çalinatha [G. Liétard]		
+entry	Çalinatha [G. Liétard]	0	
 orth	Çalinatha		
-entry	Calisaya		
+entry	Calisaya	0	
 ref	Quinquina		
-entry	Calla [H. Baillon]		
+entry	Calla [H. Baillon]	1	
 orth	Calla		
 pb	709	0713	4507049
-entry	Callalu, Calalou		
+entry	Callalu, Calalou	0	
 ref	Brèdes		
-entry	Calliard de la Ducquerie (Jean-Baptiste) [E. Beaugrand]		
+entry	Calliard de la Ducquerie (Jean-Baptiste) [E. Beaugrand]	0	
 orth	Calliard de la Ducquerie (Jean-Baptiste)		
-entry	Calleirion		
-entry	Calleux (Corps)		
+entry	Calleirion	0	
+entry	Calleux (Corps)	0	
 ref	Cerveau		
-entry	Calliandra (Benth) [H. Baillon]		
+entry	Calliandra (Benth) [H. Baillon]	1	
 orth	Calliandra (Benth)		
 pb	710	0714	4507050
-entry	Callicarpe [G. Planchon]		
+entry	Callicarpe [G. Planchon]	0	
 orth	Callicarpe		
-entry	Callichrome		
-entry	Calligone [H. Baillon]		
+entry	Callichrome	0	
+entry	Calligone [H. Baillon]	1	
 orth	Calligone		
 pb	711	0715	4507051
-entry	Calliphore		
+entry	Calliphore	0	
 ref	Lucilie		
 ref	Mouche		
-entry	Callisen (Les) [E. Beaugrand]		
+entry	Callisen (Les) [E. Beaugrand]	1	
 orth	Callisen (Les)		
 pb	712	0716	4507052
-entry	Callisthénie		
+entry	Callisthénie	0	
 ref	Gymnastique		
-entry	Callitriche (L.) [H. Baillon]		
+entry	Callitriche (L.) [H. Baillon]	0	
 orth	Callitriche (L.)		
-entry	Callosités [Amédée Déchambre]		
+entry	Callosités [Amédée Déchambre]	0	
 orth	Callosités		
 pb	713	0717	4507053
-entry	Callosités [Amédée Dechambre]		
+entry	Callosités [Amédée Dechambre]	0	
 orth	Callosités		
-entry	Callot (François-Joseph) [A. Chéreau]		
+entry	Callot (François-Joseph) [A. Chéreau]	0	
 orth	Callot (François-Joseph)		
-entry	Calmants		
+entry	Calmants	0	
 ref	Sédatifs		
-entry	Calmar [A. Laboulbène]		
+entry	Calmar [A. Laboulbène]	0	
 orth	Calmar		
 pb	714	0718	4507054
-entry	Calomel [Fonssagrives]		
+entry	Calomel [Fonssagrives]	13	
 orth	Calomel		
 pb	715	0719	4507055
 pb	716	0720	4507056
@@ -1411,15 +1411,15 @@ pb	724	0728	4507064
 pb	725	0729	4507065
 pb	726	0730	4507066
 pb	727	0731	4507067
-entry	Calophyllum		
+entry	Calophyllum	0	
 ref	Calaba		
-entry	Calorie		
+entry	Calorie	0	
 ref	Calorimétrie		
-entry	Calorification		
+entry	Calorification	0	
 ref	Chaleur animale		
-entry	Calorimètre		
+entry	Calorimètre	0	
 ref	Calorimétrie		
-entry	Calorimétrie [J. Gavarret]		
+entry	Calorimétrie [J. Gavarret]	34	
 orth	Calorimétrie		
 pb	728	0732	4507068
 pb	729	0733	4507069
@@ -1455,114 +1455,114 @@ pb	758	0762	4507098
 pb	759	0763	4507099
 pb	760	0764	4507100
 pb	761	0765	4507101
-entry	Calorique		
+entry	Calorique	0	
 ref	Chaleur		
-entry	Calosanthes [H. Baillon]		
+entry	Calosanthes [H. Baillon]	0	
 orth	Calosanthes		
-entry	Calotropis (R. Brown) [G. Planchon]		
+entry	Calotropis (R. Brown) [G. Planchon]	1	
 orth	Calotropis (R. Brown)		
 pb	762	0766	4507102
-entry	Caltha		
+entry	Caltha	0	
 ref	Populage		
-entry	Calumba		
+entry	Calumba	0	
 ref	Colombo		
 ref	Jateorhiza		
 ref	Tinospora		
-entry	Calumbuk		
+entry	Calumbuk	0	
 ref	Bois d'aigle		
 ref	d'aloès		
-entry	Calvanella-de-Mosi (Eau minérale de) [A. Rotureau]		
+entry	Calvanella-de-Mosi (Eau minérale de) [A. Rotureau]	1	
 orth	Calvanella-de-Mosi (Eau minérale de)		
 pb	763	0767	4507103
-entry	Calvet (Esprit-Claude-François) [H. Montanier]		
+entry	Calvet (Esprit-Claude-François) [H. Montanier]	0	
 orth	Calvet (Esprit-Claude-François)		
-entry	Calvitie [Bazin]		
+entry	Calvitie [Bazin]	3	
 orth	Calvitie		
 pb	764	0768	4507104
 pb	765	0769	4507105
 pb	766	0770	4507106
-entry	Calvo (Les) [E. Beaugrand]		
+entry	Calvo (Les) [E. Beaugrand]	1	
 orth	Calvo (Les)		
 pb	767	0771	4507107
-entry	Calyptranthe [G. Planchon]		
+entry	Calyptranthe [G. Planchon]	0	
 orth	Calyptranthe		
-entry	Calysaya		
+entry	Calysaya	0	
 ref	Quinquina		
-entry	Calystegia [G. Planchon]		
+entry	Calystegia [G. Planchon]	1	
 orth	Calystegia		
 pb	768	0772	4507108
-entry	Camanioc		
+entry	Camanioc	0	
 ref	Manioc		
 ref	Manihot		
-entry	Camara		
+entry	Camara	0	
 ref	Lantana		
-entry	Camarès (Eaux minérales de) [A. Rotureau]		
+entry	Camarès (Eaux minérales de) [A. Rotureau]	1	
 orth	Camarès (Eaux minérales de)		
 pb	769	0773	4507109
-entry	Cambaiba [H. Baillon]		
+entry	Cambaiba [H. Baillon]	1	
 orth	Cambaiba		
 pb	770	0774	4507110
-entry	Cambaibinha [H. Baillon]		
+entry	Cambaibinha [H. Baillon]	0	
 orth	Cambaibinha		
-entry	Cambo (Eaux minérales de) [A. Rotureau]		
+entry	Cambo (Eaux minérales de) [A. Rotureau]	2	
 orth	Cambo (Eaux minérales de)		
 pb	771	0775	4507111
 pb	772	0776	4507112
-entry	Cambodge		
+entry	Cambodge	0	
 ref	Indo-Chine		
-entry	Cambogia		
+entry	Cambogia	0	
 ref	Garcinie		
 ref	Gomme-gutte		
 ref	Guttier		
-entry	Cambon (Eau minérale de) [A. Rotureau]		
+entry	Cambon (Eau minérale de) [A. Rotureau]	0	
 orth	Cambon (Eau minérale de)		
-entry	Camélée		
+entry	Camélée	0	
 ref	Chamelaea		
 ref	Cneorum		
 pb	773	0777	4507113
-entry	Caméléon [A. Laboulbène]		
+entry	Caméléon [A. Laboulbène]	0	
 orth	Caméléon		
-entry	Caméléon (Bot.)		
+entry	Caméléon (Bot.)	0	
 ref	Chamaeleon		
-entry	Caméléon (Chimie)		
+entry	Caméléon (Chimie)	0	
 ref	Potasse		
-entry	Caméline [G. Planchon]		
+entry	Caméline [G. Planchon]	1	
 orth	Caméline		
 pb	774	0778	4507114
-entry	Camellia.. Baillon]		
+entry	Camellia.. Baillon]	0	
 ref	Thé [H		
-entry	Camepitis, Camepitys		
+entry	Camepitis, Camepitys	0	
 ref	Germandrée		
-entry	Cameraria [H. Baillon]		
+entry	Cameraria [H. Baillon]	0	
 orth	Cameraria		
-entry	Camerarius (Les) [H. Montanier]		
+entry	Camerarius (Les) [H. Montanier]	5	
 orth	Camerarius (Les)		
 pb	775	0779	4507115
 pb	776	0780	4507116
 pb	777	0781	4507117
 pb	778	0782	4507118
 pb	779	0783	4507119
-entry	Cameri		
+entry	Cameri	0	
 ref	Aleurites		
-entry	Camerisier, Chamecerisier		
+entry	Camerisier, Chamecerisier	0	
 ref	Chèvrefeuille		
-entry	Cametti, Cammetti [H. Baillon]		
+entry	Cametti, Cammetti [H. Baillon]	0	
 orth	Cametti, Cammetti		
 pb	780	0784	4507120
-entry	Camisole [Magnan]		
+entry	Camisole [Magnan]	4	
 orth	Camisole		
 pb	781	0785	4507121
 pb	782	0786	4507122
 pb	783	0787	4507123
 pb	784	0788	4507124
-entry	Camoins-Les-Bains (Eau minérale de) [A. Rotureau]		
+entry	Camoins-Les-Bains (Eau minérale de) [A. Rotureau]	0	
 orth	Camoins-Les-Bains (Eau minérale de)		
 pb	785	0789	4507125
-entry	Camoins-les-bains (Eau minérale de) [A. Rotureau]		
+entry	Camoins-les-bains (Eau minérale de) [A. Rotureau]	1	
 orth	Camoins-les-bains (Eau minérale de)		
 pb	786	0790	4507126
 pb	787	0791	4507127
-entry	Articles contenus dans le onzième volume		
+entry	Articles contenus dans le onzième volume	3	
 pb	788	0792	4507128
 pb	789	0793	4507129
 pb	790	0794	4507130

@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	462021
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	462022
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	462023
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	462024
-entry	Bandages		
+entry	Bandages	15	
 pb	2	0005	462025
 pb	3	0006	462026
 pb	4	0007	462027
@@ -21,11 +21,11 @@ pb	13	0016	462036
 pb	14	0017	462037
 pb	15	0018	462038
 pb	16	0019	462039
-entry	Barbotan		
+entry	Barbotan	1	
 pb	17	0020	462040
-entry	Bardane		
+entry	Bardane	1	
 pb	18	0021	462041
-entry	Bareges		
+entry	Bareges	12	
 pb	19	0022	462042
 pb	20	0023	462043
 pb	21	0024	462044
@@ -38,7 +38,7 @@ pb	27	0030	462050
 pb	28	0031	462051
 pb	29	0032	462052
 pb	30	0033	462053
-entry	Baryte		
+entry	Baryte	7	
 pb	31	0034	462054
 pb	32	0035	462055
 pb	33	0036	462056
@@ -47,7 +47,7 @@ pb	35	0038	462058
 pb	36	0039	462059
 pb	37	0040	462060
 pb	38	0041	462061
-entry	Bassin		
+entry	Bassin	61	
 pb	39	0042	462062
 pb	40	0043	462063
 pb	41	0044	462064
@@ -109,17 +109,17 @@ pb	96	0099	462119
 pb	97	0100	462120
 pb	98	0101	462121
 pb	99	0102	462122
-entry	Bath		
+entry	Bath	3	
 pb	100	0103	462123
 pb	101	0104	462124
 pb	102	0105	462125
-entry	Baumes naturels		
+entry	Baumes naturels	5	
 pb	103	0106	462126
 pb	104	0107	462127
 pb	105	0108	462128
 pb	106	0109	462129
 pb	107	0110	462130
-entry	Baumes pharmaceutiques		
+entry	Baumes pharmaceutiques	6	
 pb	108	0111	462131
 pb	109	0112	462132
 pb	110	0113	462133
@@ -127,7 +127,7 @@ pb	111	0114	462134
 pb	112	0115	462135
 pb	113	0116	462136
 pb	114	0117	462137
-entry	Bec-de-lievre		
+entry	Bec-de-lievre	29	
 pb	115	0118	462138
 pb	116	0119	462139
 pb	117	0120	462140
@@ -157,13 +157,13 @@ pb	140	0143	462163
 pb	141	0144	462164
 pb	142	0145	462165
 pb	143	0146	462166
-entry	Beccabunga		
+entry	Beccabunga	1	
 pb	144	0147	462167
-entry	Béchiques		
+entry	Béchiques	3	
 pb	145	0148	462168
 pb	146	0149	462169
 pb	147	0150	462170
-entry	Begaiement		
+entry	Begaiement	25	
 pb	148	0151	462171
 pb	149	0152	462172
 pb	150	0153	462173
@@ -189,7 +189,7 @@ pb	169	0172	462192
 pb	170	0173	462193
 pb	171	0174	462194
 pb	172	0175	462195
-entry	Belladone		
+entry	Belladone	25	
 pb	173	0176	462196
 pb	174	0177	462197
 pb	175	0178	462198
@@ -215,35 +215,35 @@ pb	194	0197	462217
 pb	195	0198	462218
 pb	196	0199	462219
 pb	197	0200	462220
-entry	Benjoin		
+entry	Benjoin	3	
 pb	198	0201	462221
 pb	199	0202	462222
 pb	200	0203	462223
-entry	Benoite		
+entry	Benoite	1	
 pb	201	0204	462224
-entry	Benzoique		
+entry	Benzoique	2	
 pb	202	0205	462225
 pb	203	0206	462226
-entry	Berberis		
-entry	Bériberi		
+entry	Berberis	0	
+entry	Bériberi	1	
 pb	204	0207	462227
-entry	Berlue		
+entry	Berlue	3	
 pb	205	0208	462228
 pb	206	0209	462229
 pb	207	0210	462230
-entry	Betel		
+entry	Betel	1	
 pb	208	0211	462231
-entry	Betoine		
+entry	Betoine	1	
 pb	209	0212	462232
-entry	Bette		
+entry	Bette	1	
 pb	210	0213	462233
-entry	Betterave		
-entry	Beurre		
+entry	Betterave	0	
+entry	Beurre	3	
 pb	211	0214	462234
 pb	212	0215	462235
 pb	213	0216	462236
-entry	Bicephalie		
-entry	Biere		
+entry	Bicephalie	0	
+entry	Biere	8	
 pb	214	0217	462237
 pb	215	0218	462238
 pb	216	0219	462239
@@ -252,7 +252,7 @@ pb	218	0221	462241
 pb	219	0222	462242
 pb	220	0223	462243
 pb	221	0224	462244
-entry	Bile		
+entry	Bile	9	
 pb	222	0225	462245
 pb	223	0226	462246
 pb	224	0227	462247
@@ -262,7 +262,7 @@ pb	227	0230	462250
 pb	228	0231	462251
 pb	229	0232	462252
 pb	230	0233	462253
-entry	Biliaire		
+entry	Biliaire	37	
 pb	231	0234	462254
 pb	232	0235	462255
 pb	233	0236	462256
@@ -300,11 +300,11 @@ pb	264	0267	462287
 pb	265	0268	462288
 pb	266	0269	462289
 pb	267	0270	462290
-entry	Bilieuses (affections)		
+entry	Bilieuses (affections)	3	
 pb	268	0271	462291
 pb	269	0272	462292
 pb	270	0273	462293
-entry	Bilieuse (fièvre)		
+entry	Bilieuse (fièvre)	27	
 pb	271	0274	462294
 pb	272	0275	462295
 pb	273	0276	462296
@@ -333,10 +333,10 @@ pb	295	0298	462318
 pb	296	0299	462319
 pb	297	0300	462320
 pb	298	0301	462321
-entry	Biscuit		
+entry	Biscuit	2	
 pb	299	0302	462322
 pb	300	0303	462323
-entry	Bismuth		
+entry	Bismuth	11	
 pb	301	0304	462324
 pb	302	0305	462325
 pb	303	0306	462326
@@ -348,16 +348,16 @@ pb	308	0311	462331
 pb	309	0312	462332
 pb	310	0313	462333
 pb	311	0314	462334
-entry	Bistorte		
+entry	Bistorte	1	
 pb	312	0315	462335
-entry	Bistouri		
+entry	Bistouri	6	
 pb	313	0316	462336
 pb	314	0317	462337
 pb	315	0318	462338
 pb	316	0319	462339
 pb	317	0320	462340
 pb	318	0321	462341
-entry	Blennophthalmie		
+entry	Blennophthalmie	34	
 pb	319	0322	462342
 pb	320	0323	462343
 pb	321	0324	462344
@@ -392,7 +392,7 @@ pb	349	0352	462372
 pb	350	0353	462373
 pb	351	0354	462374
 pb	352	0355	462375
-entry	Blennorrhagie		
+entry	Blennorrhagie	41	
 pb	353	0356	462376
 pb	354	0357	462377
 pb	355	0358	462378
@@ -434,7 +434,7 @@ pb	390	0393	462413
 pb	391	0394	462414
 pb	392	0395	462415
 pb	393	0396	462416
-entry	Blepharite		
+entry	Blepharite	8	
 pb	394	0397	462417
 pb	395	0398	462418
 pb	396	0399	462419
@@ -444,9 +444,9 @@ pb	399	0402	462422
 pb	400	0403	462423
 pb	401	0404	462424
 pb	402	0405	462425
-entry	Blepharophthalmie		
-entry	Blepharoptose		
-entry	Blessures		
+entry	Blepharophthalmie	0	
+entry	Blepharoptose	0	
+entry	Blessures	56	
 pb	403	0406	462426
 pb	404	0407	462427
 pb	405	0408	462428
@@ -503,7 +503,7 @@ pb	455	0458	462478
 pb	456	0459	462479
 pb	457	0460	462480
 pb	458	0461	462481
-entry	Boissons		
+entry	Boissons	23	
 pb	459	0462	462482
 pb	460	0463	462483
 pb	461	0464	462484
@@ -527,15 +527,15 @@ pb	478	0481	462501
 pb	479	0482	462502
 pb	480	0483	462503
 pb	481	0484	462504
-entry	Bol		
-entry	Bol d'armenie		
-entry	Bonbons		
+entry	Bol	0	
+entry	Bol d'armenie	0	
+entry	Bonbons	2	
 pb	482	0485	462505
 pb	483	0486	462506
-entry	Bonnes		
+entry	Bonnes	2	
 pb	484	0487	462507
 pb	485	0488	462508
-entry	Borax, Borique ou Boracique		
+entry	Borax, Borique ou Boracique	4	
 orth	Borax		
 orth	Borique		
 orth	Boracique		
@@ -543,22 +543,22 @@ pb	486	0489	462509
 pb	487	0490	462510
 pb	488	0491	462511
 pb	489	0492	462512
-entry	Borborygme ou Borborysme		
+entry	Borborygme ou Borborysme	1	
 orth	Borborygme		
 orth	Borborysme		
 pb	490	0493	462513
-entry	Borraginees		
+entry	Borraginees	1	
 pb	491	0494	462514
-entry	Botanique		
+entry	Botanique	5	
 pb	492	0495	462515
 pb	493	0496	462516
 pb	494	0497	462517
 pb	495	0498	462518
 pb	496	0499	462519
-entry	Bothricéphale		
-entry	Botrys		
+entry	Bothricéphale	0	
+entry	Botrys	1	
 pb	497	0500	462520
-entry	Bouche		
+entry	Bouche	10	
 pb	498	0501	462521
 pb	499	0502	462522
 pb	500	0503	462523
@@ -569,7 +569,7 @@ pb	504	0507	462527
 pb	505	0508	462528
 pb	506	0509	462529
 pb	507	0510	462530
-entry	Bougie		
+entry	Bougie	7	
 pb	508	0511	462531
 pb	509	0512	462532
 pb	510	0513	462533
@@ -577,7 +577,7 @@ pb	511	0514	462534
 pb	512	0515	462535
 pb	513	0516	462536
 pb	514	0517	462537
-entry	Bouillon		
+entry	Bouillon	7	
 pb	515	0518	462538
 pb	516	0519	462539
 pb	517	0520	462540
@@ -586,29 +586,29 @@ pb	519	0522	462542
 pb	520	0523	462543
 pb	521	0524	462544
 pb	522	0525	462545
-entry	Bouillon-blanc		
+entry	Bouillon-blanc	1	
 pb	523	0526	462546
-entry	Boulimie		
+entry	Boulimie	4	
 pb	524	0527	462547
 pb	525	0528	462548
 pb	526	0529	462549
 pb	527	0530	462550
-entry	Bourbon-l'archambault		
+entry	Bourbon-l'archambault	4	
 pb	528	0531	462551
 pb	529	0532	462552
 pb	530	0533	462553
 pb	531	0534	462554
-entry	Bourbon-lancy		
+entry	Bourbon-lancy	2	
 pb	532	0535	462555
 pb	533	0536	462556
-entry	Bourbonne-les-bains		
+entry	Bourbonne-les-bains	3	
 pb	534	0537	462557
 pb	535	0538	462558
 pb	536	0539	462559
-entry	Bourdonnement		
-entry	Bourrache		
+entry	Bourdonnement	0	
+entry	Bourrache	1	
 pb	537	0540	462560
-entry	Bourses muqueuses ou Bourses mucilagineuses, Synoviales		
+entry	Bourses muqueuses ou Bourses mucilagineuses, Synoviales	29	
 orth	Bourses muqueuses		
 orth	Bourses mucilagineuses		
 orth	Synoviales		
@@ -642,14 +642,14 @@ pb	564	0567	462587
 pb	565	0568	462588
 pb	566	0569	462589
 pb	567	0570	462590
-entry	Bouton		
-entry	Boutond'alep		
+entry	Bouton	0	
+entry	Boutond'alep	4	
 pb	568	0571	462591
 pb	569	0572	462592
 pb	570	0573	462593
 pb	571	0574	462594
-entry	Boutonniere		
-entry	Bras		
+entry	Boutonniere	0	
+entry	Bras	24	
 pb	572	0575	462595
 pb	573	0576	462596
 pb	574	0577	462597
@@ -675,7 +675,7 @@ pb	593	0596	462616
 pb	594	0597	462617
 pb	595	0598	462618
 pb	[s. pag.]	0599	462619
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0600	462620
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	599	0601	462621

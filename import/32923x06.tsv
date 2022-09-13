@@ -1,19 +1,19 @@
 pb	[s. pag.]	0001	7287049
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7287050
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7287051
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7287052
-entry	Lettre C		
-entry	Cabaret		
-entry	Cacao		
+entry	Lettre C	0	
+entry	Cabaret	0	
+entry	Cacao	5	
 pb	2	0005	7287053
 pb	3	0006	7287054
 pb	4	0007	7287055
 pb	5	0008	7287056
 pb	6	0009	7287057
-entry	Cachexies		
+entry	Cachexies	29	
 pb	7	0010	7287058
 pb	8	0011	7287059
 pb	9	0012	7287060
@@ -43,19 +43,19 @@ pb	32	0035	7287083
 pb	33	0036	7287084
 pb	34	0037	7287085
 pb	35	0038	7287086
-entry	Cachous		
+entry	Cachous	6	
 pb	36	0039	7287087
 pb	37	0040	7287088
 pb	38	0041	7287089
 pb	39	0042	7287090
 pb	40	0043	7287091
 pb	41	0044	7287092
-entry	Cadavre		
-entry	Cadmium		
+entry	Cadavre	0	
+entry	Cadmium	2	
 pb	42	0045	7287093
 pb	43	0046	7287094
-entry	Caduque (membrane)		
-entry	Café		
+entry	Caduque (membrane)	0	
+entry	Café	25	
 pb	44	0047	7287095
 pb	45	0048	7287096
 pb	46	0049	7287097
@@ -81,17 +81,17 @@ pb	65	0068	7287116
 pb	66	0069	7287117
 pb	67	0070	7287118
 pb	68	0071	7287119
-entry	Cainça		
+entry	Cainça	2	
 pb	69	0072	7287120
 pb	70	0073	7287121
-entry	Cajeput		
+entry	Cajeput	0	
 pb	71	0074	7287122
-entry	Caille-lait		
-entry	Calabar (fève de)		
-entry	Calamus aromaticus		
+entry	Caille-lait	0	
+entry	Calabar (fève de)	0	
+entry	Calamus aromaticus	1	
 pb	72	0075	7287123
-entry	Cal		
-entry	Calculs		
+entry	Cal	0	
+entry	Calculs	21	
 pb	73	0076	7287124
 pb	74	0077	7287125
 pb	75	0078	7287126
@@ -113,24 +113,24 @@ pb	90	0093	7287141
 pb	91	0094	7287142
 pb	92	0095	7287143
 pb	93	0096	7287144
-entry	Calenture		
+entry	Calenture	6	
 pb	94	0097	7287145
 pb	95	0098	7287146
 pb	96	0099	7287147
 pb	97	0100	7287148
 pb	98	0101	7287149
 pb	99	0102	7287150
-entry	Calomel		
-entry	Calorique		
-entry	Calvite		
-entry	Camisole		
+entry	Calomel	0	
+entry	Calorique	0	
+entry	Calvite	0	
+entry	Camisole	3	
 pb	100	0103	7287151
 pb	101	0104	7287152
 pb	102	0105	7287153
-entry	Camomille		
+entry	Camomille	2	
 pb	103	0106	7287154
 pb	104	0107	7287155
-entry	Camphre		
+entry	Camphre	21	
 pb	105	0108	7287156
 pb	106	0109	7287157
 pb	107	0110	7287158
@@ -152,7 +152,7 @@ pb	122	0125	7287173
 pb	123	0126	7287174
 pb	124	0127	7287175
 pb	125	0128	7287176
-entry	Cancer		
+entry	Cancer	79	
 pb	126	0129	7287177
 pb	127	0130	7287178
 pb	128	0131	7287179
@@ -233,7 +233,7 @@ pb	202	0205	7287253
 pb	203	0206	7287254
 pb	204	0207	7287255
 pb	205	0208	7287256
-entry	Cancroïde		
+entry	Cancroïde	26	
 pb	206	0209	7287257
 pb	207	0210	7287258
 pb	208	0211	7287259
@@ -260,15 +260,15 @@ pb	228	0231	7287279
 pb	229	0232	7287280
 pb	230	0233	7287281
 pb	231	0234	7287282
-entry	Canne aromatique		
-entry	Canne de Provence		
+entry	Canne aromatique	0	
+entry	Canne de Provence	2	
 pb	232	0235	7287283
 pb	233	0236	7287284
-entry	Cannelles		
+entry	Cannelles	3	
 pb	234	0237	7287285
 pb	235	0238	7287286
 pb	236	0239	7287287
-entry	Cantharides		
+entry	Cantharides	16	
 pb	237	0240	7287288
 pb	238	0241	7287289
 pb	239	0242	7287290
@@ -285,8 +285,8 @@ pb	249	0252	7287300
 pb	250	0253	7287301
 pb	251	0254	7287302
 pb	252	0255	7287303
-entry	Cantharidine		
-entry	Caoutchouc		
+entry	Cantharidine	0	
+entry	Caoutchouc	19	
 pb	253	0256	7287304
 pb	254	0257	7287305
 pb	255	0258	7287306
@@ -306,11 +306,11 @@ pb	268	0271	7287319
 pb	269	0272	7287320
 pb	270	0273	7287321
 pb	271	0274	7287322
-entry	Capeline		
-entry	Capillaires		
+entry	Capeline	0	
+entry	Capillaires	2	
 pb	272	0275	7287323
 pb	273	0276	7287324
-entry	Capillaires (vaisseaux)		
+entry	Capillaires (vaisseaux)	22	
 pb	274	0277	7287325
 pb	275	0278	7287326
 pb	276	0279	7287327
@@ -333,12 +333,12 @@ pb	292	0295	7287343
 pb	293	0296	7287344
 pb	294	0297	7287345
 pb	295	0298	7287346
-entry	Carbonates		
+entry	Carbonates	3	
 pb	296	0299	7287347
 pb	297	0300	7287348
 pb	298	0301	7287349
 pb	299	0302	7287350
-entry	Carbone		
+entry	Carbone	50	
 pb	300	0303	7287351
 pb	301	0304	7287352
 pb	302	0305	7287353
@@ -389,13 +389,13 @@ pb	346	0349	7287397
 pb	347	0350	7287398
 pb	348	0351	7287399
 pb	349	0352	7287400
-entry	Carbonique (acide)		
-entry	Carcinome		
-entry	Cardamomes		
+entry	Carbonique (acide)	0	
+entry	Carcinome	0	
+entry	Cardamomes	2	
 pb	350	0353	7287401
 pb	351	0354	7287402
 pb	352	0355	7287403
-entry	Cardiographie		
+entry	Cardiographie	7	
 pb	353	0356	7287404
 pb	354	0357	7287405
 pb	355	0358	7287406
@@ -403,11 +403,11 @@ pb	356	0359	7287407
 pb	357	0360	7287408
 pb	358	0361	7287409
 pb	359	0362	7287410
-entry	Cardialgie		
-entry	Cardite		
-entry	Carie		
-entry	Carie des dents		
-entry	Carlsbad		
+entry	Cardialgie	0	
+entry	Cardite	0	
+entry	Carie	0	
+entry	Carie des dents	0	
+entry	Carlsbad	12	
 pb	360	0363	7287411
 pb	361	0364	7287412
 pb	362	0365	7287413
@@ -420,11 +420,11 @@ pb	368	0371	7287419
 pb	369	0372	7287420
 pb	370	0373	7287421
 pb	371	0374	7287422
-entry	Carminatifs		
+entry	Carminatifs	3	
 pb	372	0375	7287423
 pb	373	0376	7287424
 pb	374	0377	7287425
-entry	Carotides		
+entry	Carotides	49	
 pb	375	0378	7287426
 pb	376	0379	7287427
 pb	377	0380	7287428
@@ -474,21 +474,21 @@ pb	422	0423	7287471
 pb	423	0424	7287472
 pb	424	0425	7287473
 pb	425	0426	7287474
-entry	Carotte		
+entry	Carotte	3	
 pb	426	0427	7287475
 pb	427	0428	7287476
 pb	428	0429	7287477
-entry	Carphologie		
+entry	Carphologie	1	
 pb	429	0430	7287478
-entry	Carrageen ou Carragaheen		
+entry	Carrageen ou Carragaheen	1	
 orth	Carrageen		
 orth	Carragaheen		
 pb	430	0431	7287479
-entry	Carreau		
-entry	Carthame		
+entry	Carreau	0	
+entry	Carthame	2	
 pb	431	0432	7287480
 pb	432	0433	7287481
-entry	Cartilage		
+entry	Cartilage	14	
 pb	433	0434	7287482
 pb	434	0435	7287483
 pb	435	0436	7287484
@@ -504,25 +504,25 @@ pb	444	0445	7287493
 pb	445	0446	7287494
 pb	446	0447	7287495
 pb	447	0448	7287496
-entry	Carus		
-entry	Carvi		
-entry	Cascarille		
+entry	Carus	0	
+entry	Carvi	0	
+entry	Cascarille	1	
 pb	448	0449	7287497
-entry	Casse		
+entry	Casse	1	
 pb	449	0450	7287498
-entry	Castoreum		
+entry	Castoreum	4	
 pb	450	0451	7287499
 pb	451	0452	7287500
 pb	452	0453	7287501
 pb	453	0454	7287502
-entry	Castration		
-entry	Catalepsie		
+entry	Castration	0	
+entry	Catalepsie	5	
 pb	454	0455	7287503
 pb	455	0456	7287504
 pb	456	0457	7287505
 pb	457	0458	7287506
 pb	458	0459	7287507
-entry	Catalyse		
+entry	Catalyse	9	
 pb	459	0460	7287508
 pb	460	0461	7287509
 pb	461	0462	7287510
@@ -532,8 +532,8 @@ pb	464	0465	7287513
 pb	465	0466	7287514
 pb	466	0467	7287515
 pb	467	0468	7287516
-entry	Cataphora		
-entry	Cataplasmes		
+entry	Cataphora	0	
+entry	Cataplasmes	11	
 pb	468	0469	7287517
 pb	469	0470	7287518
 pb	470	0471	7287519
@@ -546,7 +546,7 @@ pb	476	0477	7287525
 pb	477	0478	7287526
 pb	478	0479	7287527
 pb	479	0480	7287528
-entry	Cataracte		
+entry	Cataracte	39	
 pb	480	0481	7287529
 pb	481	0482	7287530
 pb	482	0483	7287531
@@ -586,12 +586,12 @@ pb	515	0516	7287564
 pb	516	0517	7287565
 pb	517	0518	7287566
 pb	518	0519	7287567
-entry	Cataracte capsulaire		
+entry	Cataracte capsulaire	4	
 pb	519	0520	7287568
 pb	520	0521	7287569
 pb	521	0522	7287570
 pb	522	0523	7287571
-entry	Catarrhe		
+entry	Catarrhe	14	
 pb	523	0524	7287572
 pb	524	0525	7287573
 pb	525	0526	7287574
@@ -606,11 +606,11 @@ pb	533	0534	7287582
 pb	534	0535	7287583
 pb	535	0536	7287584
 pb	536	0537	7287585
-entry	Cataracle capsulaire		
-entry	Catarrhale (fièvre)		
-entry	Catarrhe vésical		
-entry	Cathartique		
-entry	Cathéter, Cathétérisme		
+entry	Cataracle capsulaire	0	
+entry	Catarrhale (fièvre)	0	
+entry	Catarrhe vésical	0	
+entry	Cathartique	0	
+entry	Cathéter, Cathétérisme	13	
 orth	Cathéter		
 orth	Cathétérisme		
 pb	537	0538	7287586
@@ -627,8 +627,8 @@ pb	547	0548	7287596
 pb	548	0549	7287597
 pb	549	0550	7287598
 pb	550	0551	7287599
-entry	Catholicum		
-entry	Cauchemar		
+entry	Catholicum	0	
+entry	Cauchemar	17	
 pb	551	0552	7287600
 pb	552	0553	7287601
 pb	553	0554	7287602
@@ -646,7 +646,7 @@ pb	564	0565	7287613
 pb	565	0566	7287614
 pb	566	0567	7287615
 pb	567	0568	7287616
-entry	Caustique - Cautère		
+entry	Caustique - Cautère	25	
 pb	568	0569	7287617
 pb	569	0570	7287618
 pb	570	0571	7287619
@@ -672,7 +672,7 @@ pb	589	0590	7287638
 pb	590	0591	7287639
 pb	591	0592	7287640
 pb	592	0593	7287641
-entry	Cauterets		
+entry	Cauterets	7	
 pb	593	0594	7287642
 pb	594	0595	7287643
 pb	595	0596	7287644
@@ -681,7 +681,7 @@ pb	597	0598	7287646
 pb	598	0599	7287647
 pb	599	0600	7287648
 pb	600	0601	7287649
-entry	Caves (veines)		
+entry	Caves (veines)	37	
 pb	601	0602	7287650
 pb	602	0603	7287651
 pb	603	0604	7287652
@@ -720,13 +720,13 @@ pb	635	0636	7287684
 pb	636	0637	7287685
 pb	637	0638	7287686
 pb	638	0639	7287687
-entry	Cellulaire (tissu)		
-entry	Cellule		
-entry	Centaurées		
+entry	Cellulaire (tissu)	0	
+entry	Cellule	0	
+entry	Centaurées	3	
 pb	639	0640	7287688
 pb	640	0641	7287689
 pb	641	0642	7287690
-entry	Céphalalgie, Céphalée		
+entry	Céphalalgie, Céphalée	24	
 orth	Céphalalgie		
 orth	Céphalée		
 pb	642	0643	7287691
@@ -753,7 +753,7 @@ pb	662	0663	7287711
 pb	663	0664	7287712
 pb	664	0665	7287713
 pb	665	0666	7287714
-entry	Céphaloematome		
+entry	Céphaloematome	11	
 pb	666	0667	7287715
 pb	667	0668	7287716
 pb	668	0669	7287717
@@ -765,7 +765,7 @@ pb	673	0674	7287722
 pb	674	0675	7287723
 pb	675	0676	7287724
 pb	676	0677	7287725
-entry	Céphalomètrie		
+entry	Céphalomètrie	9	
 pb	677	0678	7287726
 pb	678	0679	7287727
 pb	679	0680	7287728
@@ -775,19 +775,19 @@ pb	682	0683	7287731
 pb	683	0684	7287732
 pb	684	0685	7287733
 pb	685	0686	7287734
-entry	Céphalotome, Céphalotomie, Céphalotrine et Céphalotripsie		
+entry	Céphalotome, Céphalotomie, Céphalotrine et Céphalotripsie	0	
 orth	Céphalotome		
 orth	Céphalotomie		
 orth	Céphalotrine		
 orth	Céphalotripsie		
-entry	Cérats		
+entry	Cérats	3	
 pb	686	0687	7287735
 pb	687	0688	7287736
 pb	688	0689	7287737
-entry	Cerveau et Cervelet		
+entry	Cerveau et Cervelet	0	
 orth	Cerveau		
 orth	Cervelet		
-entry	Césarienne (opération)		
+entry	Césarienne (opération)	25	
 pb	689	0690	7287738
 pb	690	0691	7287739
 pb	691	0692	7287740
@@ -813,9 +813,9 @@ pb	710	0711	7287759
 pb	711	0712	7287760
 pb	712	0713	7287761
 pb	713	0714	7287762
-entry	Cévadille		
+entry	Cévadille	1	
 pb	714	0715	7287763
-entry	Chaleur		
+entry	Chaleur	117	
 pb	715	0716	7287764
 pb	716	0717	7287765
 pb	717	0718	7287766
@@ -934,4 +934,4 @@ pb	829	0830	7287878
 pb	830	0831	7287879
 pb	831	0832	7287880
 pb	[s. pag.]	0833	7287881
-entry	Table des auteurs		
+entry	Table des auteurs	0	

@@ -1,19 +1,19 @@
 pb	[s. pag.]	0001	450989
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	450990
 pb	[s. pag.]	0003	450991
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	450992
-entry	Cascarille		
+entry	Cascarille	1	
 pb	2	0005	450993
-entry	Casse		
+entry	Casse	2	
 pb	3	0006	450994
 pb	4	0007	450995
-entry	Castoréum		
+entry	Castoréum	3	
 pb	5	0008	450996
 pb	6	0009	450997
 pb	7	0010	450998
-entry	Castration		
+entry	Castration	8	
 pb	8	0011	450999
 pb	9	0012	451000
 pb	10	0013	451001
@@ -22,7 +22,7 @@ pb	12	0015	451003
 pb	13	0016	451004
 pb	14	0017	451005
 pb	15	0018	451006
-entry	Catalepsie		
+entry	Catalepsie	13	
 pb	16	0019	451007
 pb	17	0020	451008
 pb	18	0021	451009
@@ -36,14 +36,14 @@ pb	25	0028	451016
 pb	26	0029	451017
 pb	27	0030	451018
 pb	28	0031	451019
-entry	Cataplasme		
+entry	Cataplasme	6	
 pb	29	0032	451020
 pb	30	0033	451021
 pb	31	0034	451022
 pb	32	0035	451023
 pb	33	0036	451024
 pb	34	0037	451025
-entry	Cataracte		
+entry	Cataracte	53	
 pb	35	0038	451026
 pb	36	0039	451027
 pb	37	0040	451028
@@ -97,14 +97,14 @@ pb	84	0087	451075
 pb	85	0088	451076
 pb	86	0089	451077
 pb	87	0090	451078
-entry	Catarrhe		
+entry	Catarrhe	1	
 pb	88	0091	451079
-entry	Catarrhe suffocant		
-entry	Cathartiques		
-entry	Cathéter		
+entry	Catarrhe suffocant	0	
+entry	Cathartiques	0	
+entry	Cathéter	2	
 pb	89	0092	451080
 pb	90	0093	451081
-entry	Cathétérisme		
+entry	Cathétérisme	15	
 pb	91	0094	451082
 pb	92	0095	451083
 pb	93	0096	451084
@@ -120,13 +120,13 @@ pb	102	0105	451093
 pb	103	0106	451094
 pb	104	0107	451095
 pb	105	0108	451096
-entry	Catholicon		
-entry	Cauchemar		
+entry	Catholicon	0	
+entry	Cauchemar	3	
 pb	106	0109	451097
 pb	107	0110	451098
 pb	108	0111	451099
-entry	Causes des maladies		
-entry	Caustiques		
+entry	Causes des maladies	0	
+entry	Caustiques	19	
 pb	109	0112	451100
 pb	110	0113	451101
 pb	111	0114	451102
@@ -146,13 +146,13 @@ pb	124	0127	451115
 pb	125	0128	451116
 pb	126	0129	451117
 pb	127	0130	451118
-entry	Caustiques (application des)		
+entry	Caustiques (application des)	3	
 pb	128	0131	451119
 pb	129	0132	451120
 pb	130	0133	451121
 pb	131	0134	451122
-entry	Causus		
-entry	Cautère		
+entry	Causus	0	
+entry	Cautère	12	
 pb	132	0135	451123
 pb	133	0136	451124
 pb	134	0137	451125
@@ -165,7 +165,7 @@ pb	140	0143	451131
 pb	141	0144	451132
 pb	142	0145	451133
 pb	143	0146	451134
-entry	Cautérisation		
+entry	Cautérisation	7	
 pb	144	0147	451135
 pb	145	0148	451136
 pb	146	0149	451137
@@ -173,47 +173,47 @@ pb	147	0150	451138
 pb	148	0151	451139
 pb	149	0152	451140
 pb	150	0153	451141
-entry	Centaurée		
-entry	Céphalalgie		
+entry	Centaurée	0	
+entry	Céphalalgie	6	
 pb	151	0154	451142
 pb	152	0155	451143
 pb	153	0156	451144
 pb	154	0157	451145
 pb	155	0158	451146
 pb	156	0159	451147
-entry	Céphalée		
-entry	Céphalomètre, Céphalomètrie		
+entry	Céphalée	0	
+entry	Céphalomètre, Céphalomètrie	2	
 orth	Céphalomètre		
 orth	Céphalomètrie		
 pb	157	0160	451148
 pb	158	0161	451149
-entry	Céphalotome, Céphalotomie		
+entry	Céphalotome, Céphalotomie	4	
 orth	Céphalotome		
 orth	Céphalotomie		
 pb	159	0162	451150
 pb	160	0163	451151
 pb	161	0164	451152
 pb	162	0165	451153
-entry	Céphalotribe		
-entry	Cérats		
+entry	Céphalotribe	0	
+entry	Cérats	1	
 pb	163	0166	451154
-entry	Cerfeuil		
+entry	Cerfeuil	1	
 pb	164	0167	451155
-entry	Céruse (blanc de)		
-entry	Cerveau (maladies du)		
-entry	Cervelet (maladies du)		
-entry	Césarienne (opération)		
+entry	Céruse (blanc de)	0	
+entry	Cerveau (maladies du)	0	
+entry	Cervelet (maladies du)	0	
+entry	Césarienne (opération)	6	
 pb	165	0168	451156
 pb	166	0169	451157
 pb	167	0170	451158
 pb	168	0171	451159
 pb	169	0172	451160
 pb	170	0173	451161
-entry	Cévadille		
+entry	Cévadille	2	
 pb	171	0174	451162
 pb	172	0175	451163
-entry	Chaleur		
-entry	Champignons		
+entry	Chaleur	0	
+entry	Champignons	8	
 pb	173	0176	451164
 pb	174	0177	451165
 pb	175	0178	451166
@@ -222,8 +222,8 @@ pb	177	0180	451168
 pb	178	0181	451169
 pb	179	0182	451170
 pb	180	0183	451171
-entry	Chancre		
-entry	Charbon		
+entry	Chancre	0	
+entry	Charbon	20	
 pb	181	0184	451172
 pb	182	0185	451173
 pb	183	0186	451174
@@ -244,21 +244,21 @@ pb	197	0200	451188
 pb	198	0201	451189
 pb	199	0202	451190
 pb	200	0203	451191
-entry	Chardon bénit, Chardon étoile et Chardon rouland		
+entry	Chardon bénit, Chardon étoile et Chardon rouland	1	
 orth	Chardon bénit		
 orth	Chardon étoile		
 orth	Chardon rouland		
 pb	201	0204	451192
-entry	Charpie		
+entry	Charpie	0	
 pb	202	0205	451193
-entry	Chardon bénit, Chardon étoile et Chardon rouland		
+entry	Chardon bénit, Chardon étoile et Chardon rouland	0	
 orth	Chardon bénit		
 orth	Chardon étoile		
 orth	Chardon rouland		
-entry	Charpie		
+entry	Charpie	2	
 pb	203	0206	451194
 pb	204	0207	451195
-entry	Chéiloplastie		
+entry	Chéiloplastie	7	
 pb	205	0208	451196
 pb	206	0209	451197
 pb	207	0210	451198
@@ -266,27 +266,27 @@ pb	208	0211	451199
 pb	209	0212	451200
 pb	210	0213	451201
 pb	211	0214	451202
-entry	Chaux		
-entry	Chélidoine		
+entry	Chaux	0	
+entry	Chélidoine	2	
 pb	212	0215	451203
 pb	213	0216	451204
-entry	Chémosis		
-entry	Chicorée sauvage		
+entry	Chémosis	0	
+entry	Chicorée sauvage	2	
 pb	214	0217	451205
 pb	215	0218	451206
-entry	Chiendent		
+entry	Chiendent	1	
 pb	216	0219	451207
-entry	Chlorates		
+entry	Chlorates	1	
 pb	217	0220	451208
-entry	Chlore		
+entry	Chlore	6	
 pb	218	0221	451209
 pb	219	0222	451210
 pb	220	0223	451211
 pb	221	0224	451212
 pb	222	0225	451213
 pb	223	0226	451214
-entry	Chlore gazeux		
-entry	Chlore liquide et Chlorures alcalins		
+entry	Chlore gazeux	0	
+entry	Chlore liquide et Chlorures alcalins	7	
 orth	Chlore liquide		
 orth	Chlorures alcalins		
 pb	224	0227	451215
@@ -296,7 +296,7 @@ pb	227	0230	451218
 pb	228	0231	451219
 pb	229	0232	451220
 pb	230	0233	451221
-entry	Chlorose		
+entry	Chlorose	7	
 pb	231	0234	451222
 pb	232	0235	451223
 pb	233	0236	451224
@@ -304,7 +304,7 @@ pb	234	0237	451225
 pb	235	0238	451226
 pb	236	0239	451227
 pb	237	0240	451228
-entry	Chlorure		
+entry	Chlorure	12	
 pb	238	0241	451229
 pb	239	0242	451230
 pb	240	0243	451231
@@ -317,9 +317,9 @@ pb	246	0249	451237
 pb	247	0250	451238
 pb	248	0251	451239
 pb	249	0252	451240
-entry	Chocolat		
+entry	Chocolat	1	
 pb	250	0253	451241
-entry	Choléra		
+entry	Choléra	12	
 pb	251	0254	451242
 pb	252	0255	451243
 pb	253	0256	451244
@@ -332,7 +332,7 @@ pb	259	0262	451250
 pb	260	0263	451251
 pb	261	0264	451252
 pb	262	0265	451253
-entry	Chorée		
+entry	Chorée	10	
 pb	263	0266	451254
 pb	264	0267	451255
 pb	265	0268	451256
@@ -343,15 +343,15 @@ pb	269	0272	451260
 pb	270	0273	451261
 pb	271	0274	451262
 pb	272	0275	451263
-entry	Chroniques		
-entry	Cicatrice		
+entry	Chroniques	0	
+entry	Cicatrice	5	
 pb	273	0276	451264
 pb	274	0277	451265
 pb	275	0278	451266
 pb	276	0279	451267
 pb	277	0280	451268
-entry	Cidre		
-entry	Ciguë		
+entry	Cidre	0	
+entry	Ciguë	9	
 pb	278	0281	451269
 pb	279	0282	451270
 pb	280	0283	451271
@@ -361,43 +361,43 @@ pb	283	0286	451274
 pb	284	0287	451275
 pb	285	0288	451276
 pb	286	0289	451277
-entry	Cinabre		
-entry	Cinchonine		
-entry	Circulation		
+entry	Cinabre	0	
+entry	Cinchonine	0	
+entry	Circulation	6	
 pb	287	0290	451278
 pb	288	0291	451279
 pb	289	0292	451280
 pb	290	0293	451281
 pb	291	0294	451282
 pb	292	0295	451283
-entry	Cirrhose		
+entry	Cirrhose	1	
 pb	293	0296	451284
-entry	Citrique (acide)		
+entry	Citrique (acide)	1	
 pb	294	0297	451285
-entry	Clématite		
+entry	Clématite	2	
 pb	295	0298	451286
 pb	296	0299	451287
-entry	Climat		
+entry	Climat	4	
 pb	297	0300	451288
 pb	298	0301	451289
 pb	299	0302	451290
 pb	300	0303	451291
-entry	Cloportes		
-entry	Clysoire		
-entry	Coeur		
+entry	Cloportes	0	
+entry	Clysoire	0	
+entry	Coeur	3	
 pb	301	0304	451292
 pb	302	0305	451293
 pb	303	0306	451294
-entry	Cochléaria		
+entry	Cochléaria	2	
 pb	304	0307	451295
 pb	305	0308	451296
-entry	Colchique		
+entry	Colchique	4	
 pb	306	0309	451297
 pb	307	0310	451298
 pb	308	0311	451299
 pb	309	0312	451300
-entry	Colchotar		
-entry	Colique		
+entry	Colchotar	0	
+entry	Colique	22	
 pb	310	0313	451301
 pb	311	0314	451302
 pb	312	0315	451303
@@ -420,7 +420,7 @@ pb	328	0331	451319
 pb	329	0332	451320
 pb	330	0333	451321
 pb	331	0334	451322
-entry	Colite		
+entry	Colite	29	
 pb	332	0335	451323
 pb	333	0336	451324
 pb	334	0337	451325
@@ -450,26 +450,26 @@ pb	357	0360	451348
 pb	358	0361	451349
 pb	359	0362	451350
 pb	360	0363	451351
-entry	Collyre		
+entry	Collyre	1	
 pb	361	0364	451352
-entry	Colombo ou Columbo		
+entry	Colombo ou Columbo	2	
 orth	Colombo		
 orth	Columbo		
 pb	362	0365	451353
 pb	363	0366	451354
-entry	Colophane, Colophone, Colofane, Colofone		
+entry	Colophane, Colophone, Colofane, Colofone	0	
 orth	Colophane		
 orth	Colophone		
 orth	Colofane		
 orth	Colofone		
-entry	Coloquinte 		
+entry	Coloquinte 	0	
 pb	364	0367	451355
-entry	Coloquinte		
+entry	Coloquinte	3	
 pb	365	0368	451356
 pb	366	0369	451357
 pb	367	0370	451358
-entry	Coma		
-entry	Combustion humaine spontanée		
+entry	Coma	0	
+entry	Combustion humaine spontanée	15	
 pb	368	0371	451359
 pb	369	0372	451360
 pb	370	0373	451361
@@ -485,29 +485,29 @@ pb	379	0382	451370
 pb	380	0383	451371
 pb	381	0384	451372
 pb	382	0385	451373
-entry	Commotion		
+entry	Commotion	0	
 pb	pl1	0386	451374
-entry	[Tableau des principaux cas de combustion humaine spontanée rapportés par les auteurs.]		
+entry	[Tableau des principaux cas de combustion humaine spontanée rapportés par les auteurs.]	0	
 pb	383	0387	451375
-entry	Commotion		
+entry	Commotion	2	
 pb	384	0388	451376
 pb	385	0389	451377
-entry	Compresseur		
+entry	Compresseur	1	
 pb	386	0390	451378
 pb	387	0391	451379
-entry	Compression		
+entry	Compression	6	
 pb	388	0392	451380
 pb	389	0393	451381
 pb	390	0394	451382
 pb	391	0395	451383
 pb	392	0396	451384
 pb	393	0397	451385
-entry	Concombre		
+entry	Concombre	1	
 pb	394	0398	451386
-entry	Condiment		
-entry	Condylome		
-entry	Confection		
-entry	Congélation		
+entry	Condiment	0	
+entry	Condylome	0	
+entry	Confection	0	
+entry	Congélation	13	
 pb	395	0399	451387
 pb	396	0400	451388
 pb	397	0401	451389
@@ -521,20 +521,20 @@ pb	404	0408	451396
 pb	405	0409	451397
 pb	406	0410	451398
 pb	407	0411	451399
-entry	Congestion		
+entry	Congestion	4	
 pb	408	0412	451400
 pb	409	0413	451401
 pb	410	0414	451402
 pb	411	0415	451403
-entry	Conjonctivite		
-entry	Conserve		
-entry	Consoude (grande)		
+entry	Conjonctivite	0	
+entry	Conserve	0	
+entry	Consoude (grande)	1	
 pb	412	0416	451404
-entry	Constitution		
+entry	Constitution	3	
 pb	413	0417	451405
 pb	414	0418	451406
 pb	415	0419	451407
-entry	Consultations		
+entry	Consultations	7	
 pb	416	0420	451408
 pb	417	0421	451409
 pb	418	0422	451410
@@ -542,7 +542,7 @@ pb	419	0423	451411
 pb	420	0424	451412
 pb	421	0425	451413
 pb	422	0426	451414
-entry	Contagion		
+entry	Contagion	14	
 pb	423	0427	451415
 pb	424	0428	451416
 pb	425	0429	451417
@@ -557,20 +557,20 @@ pb	433	0437	451425
 pb	434	0438	451426
 pb	435	0439	451427
 pb	436	0440	451428
-entry	Contracture		
+entry	Contracture	1	
 pb	437	0441	451429
-entry	Contrayerva		
+entry	Contrayerva	1	
 pb	438	0442	451430
-entry	Contre-coup		
+entry	Contre-coup	1	
 pb	439	0443	451431
-entry	Contrepoison		
+entry	Contrepoison	6	
 pb	440	0444	451432
 pb	441	0445	451433
 pb	442	0446	451434
 pb	443	0447	451435
 pb	444	0448	451436
 pb	445	0449	451437
-entry	Contre-stimulant		
+entry	Contre-stimulant	23	
 pb	446	0450	451438
 pb	447	0451	451439
 pb	448	0452	451440
@@ -594,14 +594,14 @@ pb	465	0469	451457
 pb	466	0470	451458
 pb	467	0471	451459
 pb	468	0472	451460
-entry	Contusion		
+entry	Contusion	1	
 pb	469	0473	451461
-entry	Convalescence		
+entry	Convalescence	4	
 pb	470	0474	451462
 pb	471	0475	451463
 pb	472	0476	451464
 pb	473	0477	451465
-entry	Convulsion, Maladies convulsives		
+entry	Convulsion, Maladies convulsives	14	
 orth	Convulsion		
 orth	Maladies convulsives		
 pb	474	0478	451466
@@ -618,9 +618,9 @@ pb	484	0488	451476
 pb	485	0489	451477
 pb	486	0490	451478
 pb	487	0491	451479
-entry	Copahu		
-entry	Coquelicot		
-entry	Coqueluche		
+entry	Copahu	0	
+entry	Coquelicot	0	
+entry	Coqueluche	8	
 pb	488	0492	451480
 pb	489	0493	451481
 pb	490	0494	451482
@@ -629,15 +629,15 @@ pb	492	0496	451484
 pb	493	0497	451485
 pb	494	0498	451486
 pb	495	0499	451487
-entry	Cor		
+entry	Cor	2	
 pb	496	0500	451488
 pb	497	0501	451489
-entry	Cordon ombilical		
+entry	Cordon ombilical	3	
 pb	498	0502	451490
 pb	499	0503	451491
 pb	500	0504	451492
 pb	501	0505	451493
-entry	Corps étrangers		
+entry	Corps étrangers	39	
 pb	502	0506	451494
 pb	503	0507	451495
 pb	504	0508	451496
@@ -677,44 +677,44 @@ pb	537	0541	451529
 pb	538	0542	451530
 pb	539	0543	451531
 pb	540	0544	451532
-entry	Couenne		
-entry	Couperose		
+entry	Couenne	0	
+entry	Couperose	5	
 pb	541	0545	451533
 pb	542	0546	451534
 pb	543	0547	451535
 pb	544	0548	451536
 pb	545	0549	451537
-entry	Couteau		
+entry	Couteau	2	
 pb	546	0550	451538
 pb	547	0551	451539
-entry	Crachats		
-entry	Crampe		
+entry	Crachats	0	
+entry	Crampe	1	
 pb	548	0552	451540
-entry	Crème de tartre		
-entry	Cresson		
+entry	Crème de tartre	0	
+entry	Cresson	1	
 pb	549	0553	451541
-entry	Crétinisme		
+entry	Crétinisme	3	
 pb	550	0554	451542
 pb	551	0555	451543
 pb	552	0556	451544
-entry	Crevasse		
+entry	Crevasse	2	
 pb	553	0557	451545
 pb	554	0558	451546
-entry	Crise		
+entry	Crise	6	
 pb	555	0559	451547
 pb	556	0560	451548
 pb	557	0561	451549
 pb	558	0562	451550
 pb	559	0563	451551
 pb	560	0564	451552
-entry	Crochet		
+entry	Crochet	3	
 pb	561	0565	451553
 pb	562	0566	451554
 pb	563	0567	451555
-entry	Croton tiglium		
+entry	Croton tiglium	2	
 pb	564	0568	451556
 pb	565	0569	451557
-entry	Croup		
+entry	Croup	20	
 pb	566	0570	451558
 pb	567	0571	451559
 pb	568	0572	451560
@@ -735,14 +735,14 @@ pb	582	0586	451574
 pb	583	0587	451575
 pb	584	0588	451576
 pb	585	0589	451577
-entry	Croute		
-entry	Croute laiteuse		
-entry	Crucifères		
+entry	Croute	0	
+entry	Croute laiteuse	0	
+entry	Crucifères	2	
 pb	586	0590	451578
 pb	587	0591	451579
-entry	Crystalline		
-entry	Cubèbe		
-entry	Cuivre		
+entry	Crystalline	0	
+entry	Cubèbe	0	
+entry	Cuivre	26	
 pb	588	0592	451580
 pb	589	0593	451581
 pb	590	0594	451582

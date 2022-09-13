@@ -1,17 +1,17 @@
 pb	[s. pag.]	0001	432469
-entry	Avertissement		
+entry	Avertissement	0	
 pb	[s. pag.]	0002	5556578
 pb	[s. pag.]	0003	432470
-entry	Aux souscripteurs		
+entry	Aux souscripteurs	1	
 pb	[s. pag.]	0004	432471
 pb	[s. pag.]	0005	5556579
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0006	5556580
 pb	[s. pag.]	0007	432472
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0008	5556581
 pb	1	0009	432473
-entry	somascétique		
+entry	somascétique	31	
 pb	2	0010	432474
 pb	3	0011	432475
 pb	4	0012	432476
@@ -45,9 +45,9 @@ pb	31	0039	432503
 pb	32	0040	432504
 pb	[s. pag.]	0041	5556582
 pb	[s. pag.]	0042	432505
-entry	somascétique : planche I		
+entry	somascétique : planche I	0	
 pb	33	0043	432506
-entry	somascétique		
+entry	somascétique	23	
 pb	34	0044	432507
 pb	35	0045	432508
 pb	36	0046	432509
@@ -73,9 +73,9 @@ pb	55	0065	432528
 pb	56	0066	432529
 pb	[s. pag.]	0067	5556583
 pb	[s. pag.]	0068	432530
-entry	somascétique : planche II		
+entry	somascétique : planche II	0	
 pb	57	0069	432531
-entry	somascétique		
+entry	somascétique	11	
 pb	58	0070	432532
 pb	59	0071	432533
 pb	60	0072	432534
@@ -87,8 +87,8 @@ pb	65	0077	432539
 pb	66	0078	432540
 pb	67	0079	432541
 pb	68	0080	432542
-entry	somatologie		
-entry	sommeil		
+entry	somatologie	0	
+entry	sommeil	47	
 pb	69	0081	432543
 pb	70	0082	432544
 pb	71	0083	432545
@@ -136,11 +136,11 @@ pb	112	0124	432586
 pb	113	0125	432587
 pb	114	0126	432588
 pb	115	0127	432589
-entry	sommet		
-entry	sommités fleuries		
+entry	sommet	0	
+entry	sommités fleuries	1	
 pb	116	0128	432590
-entry	somnambule		
-entry	somnambulisme		
+entry	somnambule	0	
+entry	somnambulisme	12	
 pb	117	0129	432591
 pb	118	0130	432592
 pb	119	0131	432593
@@ -153,10 +153,10 @@ pb	125	0137	432599
 pb	126	0138	432600
 pb	127	0139	432601
 pb	128	0140	432602
-entry	somnifère		
-entry	somnolence		
+entry	somnifère	0	
+entry	somnolence	1	
 pb	129	0141	432603
-entry	son		
+entry	son	17	
 pb	130	0142	432604
 pb	131	0143	432605
 pb	132	0144	432606
@@ -175,21 +175,21 @@ pb	144	0156	432618
 pb	145	0157	432619
 pb	146	0158	432620
 pb	[s. pag.]	0159	5556584
-entry	sonde : planche		
+entry	sonde : planche	0	
 pb	[s. pag.]	0160	432621
-entry	sonde : explication planche		
+entry	sonde : explication planche	0	
 pb	[s. pag.]	0161	432622
 pb	147	0162	432623
-entry	son		
-entry	soncelles (eau minérale de)		
-entry	sonde		
+entry	son	0	
+entry	soncelles (eau minérale de)	0	
+entry	sonde	3	
 pb	148	0163	432624
 pb	149	0164	432625
 pb	150	0165	432626
-entry	songes		
+entry	songes	2	
 pb	151	0166	432627
 pb	152	0167	432628
-entry	sophistication		
+entry	sophistication	7	
 pb	153	0168	432629
 pb	154	0169	432630
 pb	155	0170	432631
@@ -197,33 +197,33 @@ pb	156	0171	432632
 pb	157	0172	432633
 pb	158	0173	432634
 pb	159	0174	432635
-entry	soporatif		
-entry	soporeux		
-entry	sora		
+entry	soporatif	0	
+entry	soporeux	0	
+entry	sora	1	
 pb	160	0175	432636
-entry	sorbates		
-entry	sorbier		
+entry	sorbates	0	
+entry	sorbier	2	
 pb	161	0176	432637
 pb	162	0177	432638
-entry	sorbique (acide)		
-entry	sordide		
-entry	sororiant		
-entry	sort		
+entry	sorbique (acide)	0	
+entry	sordide	0	
+entry	sororiant	0	
+entry	sort	1	
 pb	163	0178	432639
-entry	sort (eau minérale de)		
-entry	soubise (eau minérale de)		
-entry	soubresaut		
+entry	sort (eau minérale de)	0	
+entry	soubise (eau minérale de)	0	
+entry	soubresaut	1	
 pb	164	0179	432640
-entry	souchet		
+entry	souchet	2	
 pb	165	0180	432641
 pb	166	0181	432642
-entry	souci		
+entry	souci	2	
 pb	167	0182	432643
 pb	168	0183	432644
-entry	soude		
+entry	soude	1	
 pb	169	0184	432645
-entry	souffle		
-entry	soufflet (médecine pratique et légale)		
+entry	souffle	0	
+entry	soufflet (médecine pratique et légale)	8	
 pb	170	0185	432646
 pb	171	0186	432647
 pb	172	0187	432648
@@ -232,9 +232,9 @@ pb	174	0189	432650
 pb	175	0190	432651
 pb	176	0191	432652
 pb	177	0192	432653
-entry	souffrance		
+entry	souffrance	1	
 pb	178	0193	432654
-entry	soufre		
+entry	soufre	17	
 pb	179	0194	432655
 pb	180	0195	432656
 pb	181	0196	432657
@@ -252,11 +252,11 @@ pb	192	0207	432668
 pb	193	0208	432669
 pb	194	0209	432670
 pb	195	0210	432671
-entry	soulier		
-entry	souline		
-entry	soult - cure		
+entry	soulier	0	
+entry	souline	0	
+entry	soult - cure	1	
 pb	196	0211	432672
-entry	soupe		
+entry	soupe	8	
 pb	197	0212	432673
 pb	198	0213	432674
 pb	199	0214	432675
@@ -265,23 +265,23 @@ pb	201	0216	432677
 pb	202	0217	432678
 pb	203	0218	432679
 pb	204	0219	432680
-entry	soupir		
+entry	soupir	2	
 pb	205	0220	432681
 pb	206	0221	432682
-entry	sourcil		
+entry	sourcil	4	
 pb	207	0222	432683
 pb	208	0223	432684
 pb	209	0224	432685
 pb	210	0225	432686
-entry	sourcilier		
-entry	sourd		
+entry	sourcilier	0	
+entry	sourd	1	
 pb	211	0226	432687
-entry	sourd - muet		
+entry	sourd - muet	4	
 pb	212	0227	432688
 pb	213	0228	432689
 pb	214	0229	432690
 pb	215	0230	432691
-entry	souris		
+entry	souris	20	
 pb	216	0231	432692
 pb	217	0232	432693
 pb	218	0233	432694
@@ -302,8 +302,8 @@ pb	232	0247	432708
 pb	233	0248	432709
 pb	234	0249	432710
 pb	235	0250	432711
-entry	soyons (eau minérale de)		
-entry	spagyrisme (secte ou système médical)		
+entry	soyons (eau minérale de)	0	
+entry	spagyrisme (secte ou système médical)	11	
 pb	236	0251	432712
 pb	237	0252	432713
 pb	238	0253	432714
@@ -316,21 +316,21 @@ pb	244	0259	432720
 pb	245	0260	432721
 pb	246	0261	432722
 pb	[s. pag.]	0262	432723
-entry	sparadrap : planche		
+entry	sparadrap : planche	0	
 pb	[s. pag.]	0263	432724
-entry	sparadrap : explication planche		
+entry	sparadrap : explication planche	0	
 pb	[s. pag.]	0264	5556646
 pb	247	0265	432725
-entry	spagyrisme (secte ou système médical)		
-entry	spanopogon		
-entry	sparadrap		
+entry	spagyrisme (secte ou système médical)	0	
+entry	spanopogon	0	
+entry	sparadrap	3	
 pb	248	0266	432726
 pb	249	0267	432727
 pb	250	0268	432728
-entry	sparadrapier		
+entry	sparadrapier	1	
 pb	251	0269	432729
-entry	sparganose		
-entry	spasme		
+entry	sparganose	0	
+entry	spasme	16	
 pb	252	0270	432730
 pb	253	0271	432731
 pb	254	0272	432732
@@ -347,29 +347,29 @@ pb	264	0282	432742
 pb	265	0283	432743
 pb	266	0284	432744
 pb	267	0285	432745
-entry	spasmodique		
-entry	spasmologie		
-entry	spatule		
+entry	spasmodique	0	
+entry	spasmologie	0	
+entry	spatule	1	
 pb	268	0286	432746
-entry	spécifiques		
+entry	spécifiques	3	
 pb	269	0287	432747
 pb	270	0288	432748
 pb	271	0289	432749
-entry	spéculum		
+entry	spéculum	3	
 pb	272	0290	432750
 pb	273	0291	432751
 pb	274	0292	432752
-entry	sperma - ceti		
-entry	spermatique		
+entry	sperma - ceti	0	
+entry	spermatique	1	
 pb	275	0293	432753
-entry	spematocèle		
+entry	spematocèle	1	
 pb	276	0294	432754
-entry	spermatologie		
+entry	spermatologie	1	
 pb	277	0295	432755
-entry	spermatopées		
+entry	spermatopées	0	
 pb	278	0296	432756
-entry	spermatose		
-entry	sperme		
+entry	spermatose	0	
+entry	sperme	15	
 pb	279	0297	432757
 pb	280	0298	432758
 pb	281	0299	432759
@@ -385,15 +385,15 @@ pb	290	0308	432768
 pb	291	0309	432769
 pb	292	0310	432770
 pb	293	0311	432771
-entry	sperniole		
-entry	sphacèle		
+entry	sperniole	0	
+entry	sphacèle	2	
 pb	294	0312	432772
 pb	295	0313	432773
-entry	sphéno - épineux		
-entry	sphénoidal		
+entry	sphéno - épineux	0	
+entry	sphénoidal	2	
 pb	296	0314	432774
 pb	297	0315	432775
-entry	sphénoide		
+entry	sphénoide	8	
 pb	298	0316	432776
 pb	299	0317	432777
 pb	300	0318	432778
@@ -402,17 +402,17 @@ pb	302	0320	432780
 pb	303	0321	432781
 pb	304	0322	432782
 pb	305	0323	432783
-entry	sphéroide		
-entry	sphincter		
+entry	sphéroide	0	
+entry	sphincter	1	
 pb	306	0324	432784
-entry	sphygmique		
+entry	sphygmique	1	
 pb	307	0325	432785
-entry	spigélie		
+entry	spigélie	1	
 pb	308	0326	432786
-entry	spilus		
+entry	spilus	1	
 pb	309	0327	432787
-entry	spina bifida		
-entry	spina ventosa		
+entry	spina bifida	0	
+entry	spina ventosa	11	
 pb	310	0328	432788
 pb	311	0329	432789
 pb	312	0330	432790
@@ -424,51 +424,51 @@ pb	317	0335	432795
 pb	318	0336	432796
 pb	319	0337	432797
 pb	320	0338	432798
-entry	spinal		
+entry	spinal	2	
 pb	321	0339	432799
 pb	322	0340	432800
-entry	spinitis		
-entry	spiréacées		
-entry	spiritueux		
+entry	spinitis	0	
+entry	spiréacées	0	
+entry	spiritueux	1	
 pb	323	0341	432801
-entry	spiroide		
-entry	splanchnique		
-entry	splanchnologie		
-entry	splanchnotomie		
-entry	spleen		
+entry	spiroide	0	
+entry	splanchnique	0	
+entry	splanchnologie	0	
+entry	splanchnotomie	0	
+entry	spleen	5	
 pb	324	0342	432802
 pb	325	0343	432803
 pb	326	0344	432804
 pb	327	0345	432805
 pb	328	0346	432806
-entry	splenalgie		
+entry	splenalgie	1	
 pb	329	0347	432807
-entry	splénemphraxis		
-entry	splénique		
-entry	splénitis		
-entry	splenius		
+entry	splénemphraxis	0	
+entry	splénique	0	
+entry	splénitis	0	
+entry	splenius	1	
 pb	330	0348	432808
-entry	splénocèle		
+entry	splénocèle	1	
 pb	331	0349	432809
-entry	splénographie		
+entry	splénographie	1	
 pb	332	0350	432810
-entry	splénologie		
-entry	splénoparectame		
-entry	splénotomie		
-entry	spode		
+entry	splénologie	0	
+entry	splénoparectame	0	
+entry	splénotomie	0	
+entry	spode	1	
 pb	333	0351	432811
-entry	spoliatif		
-entry	spoliation		
-entry	spondylarthrocace		
+entry	spoliatif	0	
+entry	spoliation	0	
+entry	spondylarthrocace	1	
 pb	334	0352	432812
-entry	spondyle		
+entry	spondyle	1	
 pb	335	0353	432813
-entry	spongieux		
-entry	spontané		
-entry	sputation		
+entry	spongieux	0	
+entry	spontané	0	
+entry	sputation	1	
 pb	336	0354	432814
-entry	squameux		
-entry	squelette		
+entry	squameux	0	
+entry	squelette	7	
 pb	337	0355	432815
 pb	338	0356	432816
 pb	339	0357	432817
@@ -476,8 +476,8 @@ pb	340	0358	432818
 pb	341	0359	432819
 pb	342	0360	432820
 pb	343	0361	432821
-entry	squelettologie		
-entry	squelettopée		
+entry	squelettologie	0	
+entry	squelettopée	32	
 pb	344	0362	432822
 pb	345	0363	432823
 pb	346	0364	432824
@@ -510,12 +510,12 @@ pb	372	0390	432850
 pb	373	0391	432851
 pb	374	0392	432852
 pb	375	0393	432853
-entry	squinancie		
-entry	squine		
+entry	squinancie	0	
+entry	squine	3	
 pb	376	0394	432854
 pb	377	0395	432855
 pb	378	0396	432856
-entry	squirre		
+entry	squirre	20	
 pb	379	0397	432857
 pb	380	0398	432858
 pb	381	0399	432859
@@ -536,16 +536,16 @@ pb	395	0413	432873
 pb	396	0414	432874
 pb	397	0415	432875
 pb	398	0416	432876
-entry	squirreux		
+entry	squirreux	1	
 pb	399	0417	432877
-entry	squoenanthe		
-entry	stachide		
+entry	squoenanthe	0	
+entry	stachide	2	
 pb	400	0418	432878
 pb	401	0419	432879
-entry	stacté		
-entry	stade		
-entry	stagnation		
-entry	stahlianisme		
+entry	stacté	0	
+entry	stade	0	
+entry	stagnation	0	
+entry	stahlianisme	48	
 pb	402	0420	432880
 pb	403	0421	432881
 pb	404	0422	432882
@@ -594,11 +594,11 @@ pb	446	0464	432924
 pb	447	0465	432925
 pb	448	0466	432926
 pb	449	0467	432927
-entry	stapédien		
-entry	staphyle		
-entry	staphylin		
-entry	staphylino - phrayngien		
-entry	staphylome		
+entry	stapédien	0	
+entry	staphyle	0	
+entry	staphylin	0	
+entry	staphylino - phrayngien	0	
+entry	staphylome	13	
 pb	450	0468	432928
 pb	451	0469	432929
 pb	452	0470	432930
@@ -612,10 +612,10 @@ pb	459	0477	432937
 pb	460	0478	432938
 pb	461	0479	432939
 pb	462	0480	432940
-entry	staphysaigre		
-entry	statice		
+entry	staphysaigre	0	
+entry	statice	1	
 pb	463	0481	432941
-entry	station		
+entry	station	24	
 pb	464	0482	432942
 pb	465	0483	432943
 pb	466	0484	432944
@@ -640,8 +640,8 @@ pb	484	0502	432962
 pb	485	0503	432963
 pb	486	0504	432964
 pb	487	0505	432965
-entry	stationnaire		
-entry	statistique médicale		
+entry	stationnaire	0	
+entry	statistique médicale	9	
 pb	488	0506	432966
 pb	489	0507	432967
 pb	490	0508	432968
@@ -651,7 +651,7 @@ pb	493	0511	432971
 pb	494	0512	432972
 pb	495	0513	432973
 pb	496	0514	432974
-entry	stature		
+entry	stature	7	
 pb	497	0515	432975
 pb	498	0516	432976
 pb	499	0517	432977
@@ -659,22 +659,22 @@ pb	500	0518	432978
 pb	501	0519	432979
 pb	502	0520	432980
 pb	503	0521	432981
-entry	stéarine		
+entry	stéarine	0	
 pb	504	0522	432982
-entry	stéarique (acide)		
-entry	stéatite		
-entry	stéatocèle		
-entry	stéatome		
-entry	stéchas		
-entry	stegnose		
-entry	stegnotique		
-entry	stenocardie		
-entry	stenon (conduit de)		
-entry	stercoraire		
-entry	stéréologie		
+entry	stéarique (acide)	0	
+entry	stéatite	0	
+entry	stéatocèle	0	
+entry	stéatome	0	
+entry	stéchas	0	
+entry	stegnose	0	
+entry	stegnotique	0	
+entry	stenocardie	0	
+entry	stenon (conduit de)	0	
+entry	stercoraire	0	
+entry	stéréologie	1	
 pb	505	0523	432983
-entry	stérile		
-entry	stérilité (physiologie)		
+entry	stérile	0	
+entry	stérilité (physiologie)	18	
 pb	506	0524	432984
 pb	507	0525	432985
 pb	508	0526	432986
@@ -693,7 +693,7 @@ pb	520	0538	432998
 pb	521	0539	432999
 pb	522	0540	433000
 pb	523	0541	433001
-entry	sternalgie		
+entry	sternalgie	34	
 pb	524	0542	433002
 pb	525	0543	433003
 pb	526	0544	433004
@@ -728,7 +728,7 @@ pb	554	0572	433032
 pb	555	0573	433033
 pb	556	0574	433034
 pb	557	0575	433035
-entry	sternum		
+entry	sternum	20	
 pb	558	0576	433036
 pb	559	0577	433037
 pb	560	0578	433038
@@ -749,7 +749,7 @@ pb	574	0592	433052
 pb	575	0593	433053
 pb	576	0594	433054
 pb	577	0595	433055
-entry	sternutation		
+entry	sternutation	8	
 pb	578	0596	433056
 pb	579	0597	433057
 pb	580	0598	433058
@@ -758,15 +758,15 @@ pb	582	0600	433060
 pb	583	0601	433061
 pb	584	0602	433062
 pb	585	0603	433063
-entry	sternutatoires		
+entry	sternutatoires	1	
 pb	586	0604	433064
-entry	stertoreux		
-entry	stéthoscope		
+entry	stertoreux	0	
+entry	stéthoscope	4	
 pb	587	0605	433065
 pb	588	0606	433066
 pb	589	0607	433067
 pb	590	0608	433068
-entry	sthénie		
-entry	sthénique		
+entry	sthénie	0	
+entry	sthénique	0	
 pb	[s. pag.]	0609	433069
-entry	Errata		
+entry	Errata	0	

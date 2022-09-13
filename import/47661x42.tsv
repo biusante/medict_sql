@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	5556647
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556648
 pb	[s. pag.]	0003	426454
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556649
 pb	1	0005	426455
-entry	phthiriase		
+entry	phthiriase	13	
 pb	2	0006	426456
 pb	3	0007	426457
 pb	4	0008	426458
@@ -19,9 +19,9 @@ pb	11	0015	426465
 pb	12	0016	426466
 pb	13	0017	426467
 pb	14	0018	426468
-entry	phthrophage		
+entry	phthrophage	1	
 pb	15	0019	426469
-entry	phthisie		
+entry	phthisie	169	
 pb	16	0020	426470
 pb	17	0021	426471
 pb	18	0022	426472
@@ -191,20 +191,20 @@ pb	181	0185	426635
 pb	182	0186	426636
 pb	183	0187	426637
 pb	184	0188	426638
-entry	phthisiographie		
-entry	phthisiologie		
+entry	phthisiographie	0	
+entry	phthisiologie	1	
 pb	185	0189	426639
-entry	phthisique		
+entry	phthisique	1	
 pb	186	0190	426640
-entry	phygéthton		
-entry	phylactère		
-entry	phyma		
+entry	phygéthton	0	
+entry	phylactère	0	
+entry	phyma	1	
 pb	187	0191	426641
-entry	phiscocèle		
-entry	physocéphale		
-entry	physconie		
+entry	phiscocèle	0	
+entry	physocéphale	0	
+entry	physconie	1	
 pb	188	0192	426642
-entry	physiognomonie		
+entry	physiognomonie	42	
 pb	189	0193	426643
 pb	190	0194	426644
 pb	191	0195	426645
@@ -247,8 +247,8 @@ pb	227	0231	426681
 pb	228	0232	426682
 pb	229	0233	426683
 pb	230	0234	426684
-entry	physiographie		
-entry	physiologie		
+entry	physiographie	0	
+entry	physiologie	76	
 pb	231	0235	426685
 pb	232	0236	426686
 pb	233	0237	426687
@@ -325,10 +325,10 @@ pb	303	0307	426757
 pb	304	0308	426758
 pb	305	0309	426759
 pb	306	0310	426760
-entry	physiologique		
-entry	physionomie		
+entry	physiologique	0	
+entry	physionomie	1	
 pb	307	0311	426761
-entry	physique médicale		
+entry	physique médicale	37	
 pb	308	0312	426762
 pb	309	0313	426763
 pb	310	0314	426764
@@ -366,24 +366,24 @@ pb	341	0345	426795
 pb	342	0346	426796
 pb	343	0347	426797
 pb	344	0348	426798
-entry	physomètre		
-entry	phytolacque		
+entry	physomètre	0	
+entry	phytolacque	2	
 pb	345	0349	426799
 pb	346	0350	426800
-entry	pian		
+entry	pian	1	
 pb	347	0351	426801
-entry	pica		
+entry	pica	1	
 pb	348	0352	426802
-entry	pication		
-entry	picote		
-entry	picotement		
-entry	picrochole		
-entry	picromel		
+entry	pication	0	
+entry	picote	0	
+entry	picotement	0	
+entry	picrochole	0	
+entry	picromel	1	
 pb	349	0353	426803
-entry	picrotoxine		
+entry	picrotoxine	1	
 pb	350	0354	426804
-entry	pièce		
-entry	pied		
+entry	pièce	0	
+entry	pied	56	
 pb	351	0355	426805
 pb	352	0356	426806
 pb	353	0357	426807
@@ -440,38 +440,38 @@ pb	403	0407	426857
 pb	404	0408	426858
 pb	405	0409	426859
 pb	406	0410	426860
-entry	pieds - bots ou piebots		
+entry	pieds - bots ou piebots	2	
 pb	407	0411	426861
 pb	408	0412	426862
 pb	[s. pag.]	0413	426863
-entry	pieds - bots  ou piebots : planche 1		
+entry	pieds - bots  ou piebots : planche 1	0	
 pb	[s. pag.]	0414	5556650
 pb	[s. pag.]	0415	426864
-entry	pieds - bots  ou piebots : planche 2		
+entry	pieds - bots  ou piebots : planche 2	0	
 pb	[s. pag.]	0416	5556651
 pb	409	0417	426865
-entry	pieds - bots ou piebots		
+entry	pieds - bots ou piebots	1	
 pb	410	0418	426866
-entry	Pied-d'alouette		
+entry	Pied-d'alouette	4	
 pb	411	0419	426867
 pb	412	0420	426868
 pb	413	0421	426869
 pb	414	0422	426870
-entry	Pied-de-biche		
-entry	Pied-de Chat		
-entry	Pied-de-coq ou pied-de-corbin		
-entry	Pied-de-corneille de ruelle		
+entry	Pied-de-biche	0	
+entry	Pied-de Chat	0	
+entry	Pied-de-coq ou pied-de-corbin	0	
+entry	Pied-de-corneille de ruelle	1	
 pb	415	0423	426871
-entry	Pied-de-griffon		
-entry	Pied d'hippocampe		
-entry	Pied-de-lion		
-entry	Pied-de-pigeon		
-entry	Pied-de-veau		
+entry	Pied-de-griffon	0	
+entry	Pied d'hippocampe	0	
+entry	Pied-de-lion	0	
+entry	Pied-de-pigeon	0	
+entry	Pied-de-veau	4	
 pb	416	0424	426872
 pb	417	0425	426873
 pb	418	0426	426874
 pb	419	0427	426875
-entry	pie - mère		
+entry	pie - mère	8	
 pb	420	0428	426876
 pb	421	0429	426877
 pb	422	0430	426878
@@ -480,7 +480,7 @@ pb	424	0432	426880
 pb	425	0433	426881
 pb	426	0434	426882
 pb	427	0435	426883
-entry	pierre (maladie de la)		
+entry	pierre (maladie de la)	13	
 pb	428	0436	426884
 pb	429	0437	426885
 pb	430	0438	426886
@@ -494,53 +494,53 @@ pb	437	0445	426893
 pb	438	0446	426894
 pb	439	0447	426895
 pb	440	0448	426896
-entry	pierreux		
-entry	pigamon		
+entry	pierreux	0	
+entry	pigamon	1	
 pb	441	0449	426897
-entry	pignons		
+entry	pignons	2	
 pb	442	0450	426898
 pb	443	0451	426899
-entry	pile de volta		
-entry	pileux		
-entry	pilier		
+entry	pile de volta	0	
+entry	pileux	0	
+entry	pilier	1	
 pb	444	0452	426900
-entry	pili - miction		
+entry	pili - miction	1	
 pb	445	0453	426901
-entry	pilon		
-entry	piloselle		
-entry	pilule		
+entry	pilon	0	
+entry	piloselle	0	
+entry	pilule	2	
 pb	446	0454	426902
 pb	447	0455	426903
-entry	pilulier		
+entry	pilulier	1	
 pb	448	0456	426904
-entry	piment		
+entry	piment	0	
 pb	[s. pag.]	0457	5556652
 pb	[s. pag.]	0458	426905
-entry	pilulier : explication de la planche		
+entry	pilulier : explication de la planche	0	
 pb	[s. pag.]	0459	426906
-entry	pilulier : planche		
+entry	pilulier : planche	0	
 pb	[s. pag.]	0460	5556653
 pb	449	0461	426907
-entry	piment		
+entry	piment	1	
 pb	450	0462	426908
-entry	pimprenelle		
+entry	pimprenelle	1	
 pb	451	0463	426909
-entry	pin		
+entry	pin	5	
 pb	452	0464	426910
 pb	453	0465	426911
 pb	454	0466	426912
 pb	455	0467	426913
 pb	456	0468	426914
-entry	pinces		
+entry	pinces	4	
 pb	457	0469	426915
 pb	458	0470	426916
 pb	459	0471	426917
 pb	460	0472	426918
-entry	pincée		
-entry	pincement		
-entry	pinéal		
+entry	pincée	0	
+entry	pincement	0	
+entry	pinéal	1	
 pb	461	0473	426919
-entry	pipe (hygiène)		
+entry	pipe (hygiène)	13	
 pb	462	0474	426920
 pb	463	0475	426921
 pb	464	0476	426922
@@ -554,8 +554,8 @@ pb	471	0483	426929
 pb	472	0484	426930
 pb	473	0485	426931
 pb	474	0486	426932
-entry	pipéritées		
-entry	piquette (hygiène)		
+entry	pipéritées	0	
+entry	piquette (hygiène)	20	
 pb	475	0487	426933
 pb	476	0488	426934
 pb	477	0489	426935
@@ -576,13 +576,13 @@ pb	491	0503	426949
 pb	492	0504	426950
 pb	493	0505	426951
 pb	494	0506	426952
-entry	piscianelli (eau minérale de)		
-entry	pisciarelli (eau minérale de)		
-entry	pisiforme		
+entry	piscianelli (eau minérale de)	0	
+entry	pisciarelli (eau minérale de)	0	
+entry	pisiforme	1	
 pb	495	0507	426953
-entry	pissalphalte		
+entry	pissalphalte	1	
 pb	496	0508	426954
-entry	pissement		
+entry	pissement	9	
 pb	497	0509	426955
 pb	498	0510	426956
 pb	499	0511	426957
@@ -592,28 +592,28 @@ pb	502	0514	426960
 pb	503	0515	426961
 pb	504	0516	426962
 pb	505	0517	426963
-entry	pissenlit		
+entry	pissenlit	1	
 pb	506	0518	426964
-entry	pistache		
-entry	pistachier		
+entry	pistache	0	
+entry	pistachier	1	
 pb	507	0519	426965
-entry	pittosporées		
+entry	pittosporées	1	
 pb	508	0520	426966
-entry	pituitaire		
+entry	pituitaire	4	
 pb	509	0521	426967
 pb	510	0522	426968
 pb	511	0523	426969
 pb	512	0524	426970
-entry	pituite		
+entry	pituite	1	
 pb	513	0525	426971
-entry	pituiteux		
-entry	pityriase		
-entry	pivoine		
+entry	pituiteux	0	
+entry	pityriase	0	
+entry	pivoine	3	
 pb	514	0526	426972
 pb	515	0527	426973
 pb	516	0528	426974
-entry	pjoulques		
-entry	placenta		
+entry	pjoulques	0	
+entry	placenta	30	
 pb	517	0529	426975
 pb	518	0530	426976
 pb	519	0531	426977
@@ -646,14 +646,14 @@ pb	545	0557	427003
 pb	546	0558	427004
 pb	[s. pag.]	0559	427005
 pb	[s. pag.]	0560	427006
-entry	placenta : explication de la planche		
+entry	placenta : explication de la planche	0	
 pb	[s. pag.]	0561	427007
-entry	planche		
+entry	planche	0	
 pb	[s. pag.]	0562	427008
 pb	547	0563	427009
-entry	placenta		
+entry	placenta	3	
 pb	548	0564	427010
 pb	549	0565	427011
 pb	550	0566	427012
 pb	551	0567	427013
-entry	pladarotes		
+entry	pladarotes	0	

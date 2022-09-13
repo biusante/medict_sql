@@ -1,18 +1,18 @@
 pb	[s. pag.]	0001	466214
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	466215
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	466216
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	466217
-entry	Encéphalocele		
+entry	Encéphalocele	5	
 pb	2	0005	466218
 pb	3	0006	466219
 pb	4	0007	466220
 pb	5	0008	466221
 pb	6	0009	466222
-entry	Encephaloide		
-entry	Enclavement		
+entry	Encephaloide	0	
+entry	Enclavement	9	
 pb	7	0010	466223
 pb	8	0011	466224
 pb	9	0012	466225
@@ -22,7 +22,7 @@ pb	12	0015	466228
 pb	13	0016	466229
 pb	14	0017	466230
 pb	15	0018	466231
-entry	Endémie, Endemiques		
+entry	Endémie, Endemiques	12	
 orth	Endémie		
 orth	Endemiques		
 pb	16	0019	466232
@@ -37,22 +37,22 @@ pb	24	0027	466240
 pb	25	0028	466241
 pb	26	0029	466242
 pb	27	0030	466243
-entry	Endermique		
-entry	Endurcissement du tissu cellulaire		
-entry	Engelure		
+entry	Endermique	0	
+entry	Endurcissement du tissu cellulaire	0	
+entry	Engelure	2	
 pb	28	0031	466244
 pb	29	0032	466245
-entry	Enghien, Enghien-les-bain		
+entry	Enghien, Enghien-les-bain	4	
 orth	Enghien		
 orth	Enghien-les-bain		
 pb	30	0033	466246
 pb	31	0034	466247
 pb	32	0035	466248
 pb	33	0036	466249
-entry	Enrouement		
-entry	Enterite		
+entry	Enrouement	0	
+entry	Enterite	0	
 pb	34	0037	466250
-entry	Entorse		
+entry	Entorse	6	
 pb	35	0038	466251
 pb	36	0039	466252
 pb	37	0040	466253
@@ -60,8 +60,8 @@ pb	38	0041	466254
 pb	39	0042	466255
 pb	40	0043	466256
 pb	41	0044	466257
-entry	Enterite		
-entry	Entozoaires		
+entry	Enterite	0	
+entry	Entozoaires	11	
 pb	42	0045	466258
 pb	43	0046	466259
 pb	44	0047	466260
@@ -73,11 +73,11 @@ pb	49	0052	466265
 pb	50	0053	466266
 pb	51	0054	466267
 pb	52	0055	466268
-entry	Entropion		
-entry	Envie		
-entry	Epanchement		
+entry	Entropion	0	
+entry	Envie	0	
+entry	Epanchement	1	
 pb	53	0056	466269
-entry	Epaule		
+entry	Epaule	70	
 pb	54	0057	466270
 pb	55	0058	466271
 pb	56	0059	466272
@@ -148,7 +148,7 @@ pb	120	0123	466336
 pb	121	0124	466337
 pb	122	0125	466338
 pb	123	0126	466339
-entry	Ephelide		
+entry	Ephelide	7	
 pb	124	0127	466340
 pb	125	0128	466341
 pb	126	0129	466342
@@ -156,7 +156,7 @@ pb	127	0130	466343
 pb	128	0131	466344
 pb	129	0132	466345
 pb	130	0133	466346
-entry	Epidémie, epidémiques		
+entry	Epidémie, epidémiques	42	
 orth	Epidémie		
 orth	epidémiques		
 pb	131	0134	466347
@@ -201,7 +201,7 @@ pb	169	0172	466385
 pb	170	0173	466386
 pb	171	0174	466387
 pb	172	0175	466388
-entry	Epilepsie		
+entry	Epilepsie	27	
 pb	173	0176	466389
 pb	174	0177	466390
 pb	175	0178	466391
@@ -229,14 +229,14 @@ pb	196	0199	466412
 pb	197	0200	466413
 pb	198	0201	466414
 pb	199	0202	466415
-entry	Epine-vinette		
-entry	Epinyctide		
+entry	Epine-vinette	0	
+entry	Epinyctide	2	
 pb	200	0203	466416
 pb	201	0204	466417
-entry	Epiploon		
-entry	Epispadias		
-entry	Epispastique		
-entry	Epistaxis		
+entry	Epiploon	0	
+entry	Epispadias	0	
+entry	Epispastique	0	
+entry	Epistaxis	8	
 pb	202	0205	466418
 pb	203	0206	466419
 pb	204	0207	466420
@@ -245,22 +245,22 @@ pb	206	0209	466422
 pb	207	0210	466423
 pb	208	0211	466424
 pb	209	0212	466425
-entry	Epizoaires		
+entry	Epizoaires	1	
 pb	210	0213	466426
-entry	Epsom		
-entry	Epulis		
-entry	Epurge		
-entry	Erectile		
+entry	Epsom	0	
+entry	Epulis	0	
+entry	Epurge	0	
+entry	Erectile	4	
 pb	211	0214	466427
 pb	212	0215	466428
 pb	213	0216	466429
 pb	214	0217	466430
-entry	Ergot, Ergotisme		
+entry	Ergot, Ergotisme	0	
 orth	Ergot		
 orth	Ergotisme		
-entry	Ericinees		
+entry	Ericinees	1	
 pb	215	0218	466431
-entry	Erysipele		
+entry	Erysipele	33	
 pb	216	0219	466432
 pb	217	0220	466433
 pb	218	0221	466434
@@ -295,7 +295,7 @@ pb	246	0249	466462
 pb	247	0250	466463
 pb	248	0251	466464
 pb	249	0252	466465
-entry	Erythème		
+entry	Erythème	8	
 pb	250	0253	466466
 pb	251	0254	466467
 pb	252	0255	466468
@@ -304,13 +304,13 @@ pb	254	0257	466470
 pb	255	0258	466471
 pb	256	0259	466472
 pb	257	0260	466473
-entry	Especes		
+entry	Especes	2	
 pb	258	0261	466474
 pb	259	0262	466475
-entry	Esprit		
-entry	Esquinancie		
-entry	Essence		
-entry	Estomac		
+entry	Esprit	0	
+entry	Esquinancie	0	
+entry	Essence	0	
+entry	Estomac	129	
 pb	260	0263	466476
 pb	261	0264	466477
 pb	262	0265	466478
@@ -440,15 +440,15 @@ pb	385	0388	466601
 pb	386	0389	466602
 pb	387	0390	466603
 pb	388	0391	466604
-entry	Etain		
+entry	Etain	5	
 pb	389	0392	466605
 pb	390	0393	466606
 pb	391	0394	466607
 pb	392	0395	466608
 pb	393	0396	466609
-entry	Eternuement		
+entry	Eternuement	1	
 pb	394	0397	466610
-entry	Ethers		
+entry	Ethers	21	
 pb	395	0398	466611
 pb	396	0399	466612
 pb	397	0400	466613
@@ -470,7 +470,7 @@ pb	412	0415	466628
 pb	413	0416	466629
 pb	414	0417	466630
 pb	415	0418	466631
-entry	Etiologie		
+entry	Etiologie	10	
 pb	416	0419	466632
 pb	417	0420	466633
 pb	418	0421	466634
@@ -481,8 +481,8 @@ pb	422	0425	466638
 pb	423	0426	466639
 pb	424	0427	466640
 pb	425	0428	466641
-entry	Etranglement		
-entry	Eunuque		
+entry	Etranglement	0	
+entry	Eunuque	8	
 pb	426	0429	466642
 pb	427	0430	466643
 pb	428	0431	466644
@@ -491,23 +491,23 @@ pb	430	0433	466646
 pb	431	0434	466647
 pb	432	0435	466648
 pb	433	0436	466649
-entry	Eupatoire		
+entry	Eupatoire	1	
 pb	434	0437	466650
-entry	Euphorbe		
+entry	Euphorbe	5	
 pb	435	0438	466651
 pb	436	0439	466652
 pb	437	0440	466653
 pb	438	0441	466654
 pb	439	0442	466655
-entry	Euphorbiacees		
+entry	Euphorbiacees	3	
 pb	440	0443	466656
 pb	441	0444	466657
 pb	442	0445	466658
-entry	Exanthème		
-entry	Excitans		
-entry	Excretions		
+entry	Exanthème	0	
+entry	Excitans	0	
+entry	Excretions	0	
 pb	443	0446	466659
-entry	Excroissances syphilitiques		
+entry	Excroissances syphilitiques	14	
 pb	444	0447	466660
 pb	445	0448	466661
 pb	446	0449	466662
@@ -522,16 +522,16 @@ pb	454	0457	466670
 pb	455	0458	466671
 pb	456	0459	466672
 pb	457	0460	466673
-entry	Exercices		
-entry	Exhalation		
-entry	Exhumation		
+entry	Exercices	0	
+entry	Exhalation	0	
+entry	Exhumation	6	
 pb	458	0461	466674
 pb	459	0462	466675
 pb	460	0463	466676
 pb	461	0464	466677
 pb	462	0465	466678
 pb	463	0466	466679
-entry	Exophthalmie		
+entry	Exophthalmie	7	
 pb	464	0467	466680
 pb	465	0468	466681
 pb	466	0469	466682
@@ -539,7 +539,7 @@ pb	467	0470	466683
 pb	468	0471	466684
 pb	469	0472	466685
 pb	470	0473	466686
-entry	Exostose		
+entry	Exostose	22	
 pb	471	0474	466687
 pb	472	0475	466688
 pb	473	0476	466689
@@ -562,26 +562,26 @@ pb	489	0492	466705
 pb	490	0493	466706
 pb	491	0494	466707
 pb	492	0495	466708
-entry	Expectation		
+entry	Expectation	4	
 pb	493	0496	466709
 pb	494	0497	466710
 pb	495	0498	466711
 pb	496	0499	466712
-entry	Expectorant, Expectoration		
+entry	Expectorant, Expectoration	3	
 orth	Expectorant		
 orth	Expectoration		
 pb	497	0500	466713
 pb	498	0501	466714
 pb	499	0502	466715
-entry	Extase		
+entry	Extase	6	
 pb	500	0503	466716
 pb	501	0504	466717
 pb	502	0505	466718
 pb	503	0506	466719
 pb	504	0507	466720
 pb	505	0508	466721
-entry	Extirpation		
-entry	Extraits		
+entry	Extirpation	0	
+entry	Extraits	7	
 pb	506	0509	466722
 pb	507	0510	466723
 pb	508	0511	466724
@@ -589,7 +589,7 @@ pb	509	0512	466725
 pb	510	0513	466726
 pb	511	0514	466727
 pb	512	0515	466728
-entry	Exutoires		
+entry	Exutoires	8	
 pb	513	0516	466729
 pb	514	0517	466730
 pb	515	0518	466731
@@ -599,8 +599,8 @@ pb	518	0521	466734
 pb	519	0522	466735
 pb	520	0523	466736
 pb	521	0524	466737
-entry	Lettre F		
-entry	Face		
+entry	Lettre F	0	
+entry	Face	93	
 pb	522	0525	466738
 pb	523	0526	466739
 pb	524	0527	466740
@@ -694,15 +694,15 @@ pb	611	0614	466827
 pb	612	0615	466828
 pb	613	0616	466829
 pb	614	0617	466830
-entry	Facultés affectives et intellectuelles		
+entry	Facultés affectives et intellectuelles	0	
 orth	Facultés affectives		
 orth	intellectuelles		
-entry	Faiblesse		
-entry	Farine		
+entry	Faiblesse	0	
+entry	Farine	2	
 pb	615	0618	466831
 pb	616	0619	466832
 pb	[s. pag.]	0620	466833
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0621	466834
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	620	0622	466835

@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7314009
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7314010
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7314011
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7314012
-entry	Venin		
+entry	Venin	7	
 pb	2	0005	7314013
 pb	3	0006	7314014
 pb	4	0007	7314015
@@ -13,7 +13,7 @@ pb	5	0008	7314016
 pb	6	0009	7314017
 pb	7	0010	7314018
 pb	8	0011	7314019
-entry	Ventilation		
+entry	Ventilation	67	
 pb	9	0012	7314020
 pb	10	0013	7314021
 pb	11	0014	7314022
@@ -81,12 +81,12 @@ pb	72	0075	7314083
 pb	73	0076	7314084
 pb	74	0077	7314085
 pb	75	0078	7314086
-entry	Ventouses		
+entry	Ventouses	3	
 pb	76	0079	7314087
 pb	77	0080	7314088
 pb	78	0081	7314089
 pb	79	0082	7314090
-entry	Vératrine		
+entry	Vératrine	24	
 pb	80	0083	7314091
 pb	81	0084	7314092
 pb	82	0085	7314093
@@ -111,16 +111,16 @@ pb	100	0103	7314111
 pb	101	0104	7314112
 pb	102	0105	7314113
 pb	103	0106	7314114
-entry	Vernet		
+entry	Vernet	2	
 pb	104	0107	7314115
 pb	105	0108	7314116
-entry	Verrues		
+entry	Verrues	5	
 pb	106	0109	7314117
 pb	107	0110	7314118
 pb	108	0111	7314119
 pb	109	0112	7314120
 pb	110	0113	7314121
-entry	Version		
+entry	Version	62	
 pb	111	0114	7314122
 pb	112	0115	7314123
 pb	113	0116	7314124
@@ -184,7 +184,7 @@ pb	170	0173	7314181
 pb	171	0174	7314182
 pb	172	0175	7314183
 pb	173	0176	7314184
-entry	Vertèbres, vertébrale		
+entry	Vertèbres, vertébrale	63	
 orth	Vertèbres		
 orth	vertébrale		
 pb	174	0177	7314185
@@ -250,7 +250,7 @@ pb	233	0236	7314244
 pb	234	0237	7314245
 pb	235	0238	7314246
 pb	236	0239	7314247
-entry	Vertige		
+entry	Vertige	8	
 pb	237	0240	7314248
 pb	238	0241	7314249
 pb	239	0242	7314250
@@ -260,11 +260,11 @@ pb	242	0245	7314253
 pb	243	0246	7314254
 pb	244	0247	7314255
 pb	245	0248	7314256
-entry	Vertige - Vésicants, vésicatoire		
+entry	Vertige - Vésicants, vésicatoire	0	
 orth	Vertige - Vésicants		
 orth	vésicatoire		
 pb	246	0249	7314257
-entry	Vésicants, vésicatoire		
+entry	Vésicants, vésicatoire	19	
 orth	Vésicants		
 orth	vésicatoire		
 pb	247	0250	7314258
@@ -286,10 +286,10 @@ pb	262	0265	7314273
 pb	263	0266	7314274
 pb	264	0267	7314275
 pb	265	0268	7314276
-entry	Vésicules		
+entry	Vésicules	0	
 pb	266	0269	7314277
-entry	Vesicules		
-entry	Vessie		
+entry	Vesicules	0	
+entry	Vessie	174	
 pb	267	0270	7314278
 pb	268	0271	7314279
 pb	269	0272	7314280
@@ -464,7 +464,7 @@ pb	437	0440	7314448
 pb	438	0441	7314449
 pb	439	0442	7314450
 pb	440	0443	7314451
-entry	Viable, viabilité		
+entry	Viable, viabilité	16	
 orth	Viable		
 orth	viabilité		
 pb	441	0444	7314452
@@ -483,7 +483,7 @@ pb	453	0456	7314464
 pb	454	0457	7314465
 pb	455	0458	7314466
 pb	456	0459	7314467
-entry	Vichy		
+entry	Vichy	17	
 pb	457	0460	7314468
 pb	458	0461	7314469
 pb	459	0462	7314470
@@ -502,20 +502,20 @@ pb	471	0474	7314482
 pb	472	0475	7314483
 pb	473	0476	7314484
 pb	474	0477	7314485
-entry	Vichy - Vins médicinaux		
+entry	Vichy - Vins médicinaux	0	
 pb	475	0478	7314486
-entry	Vins médicinaux		
+entry	Vins médicinaux	5	
 pb	476	0479	7314487
 pb	477	0480	7314488
 pb	478	0481	7314489
 pb	479	0482	7314490
 pb	480	0483	7314491
-entry	Vinaigre		
+entry	Vinaigre	3	
 pb	481	0484	7314492
 pb	482	0485	7314493
 pb	483	0486	7314494
 pb	484	0487	7314495
-entry	Viol et attentats aux moeurs		
+entry	Viol et attentats aux moeurs	25	
 orth	Viol		
 orth	attentats aux moeurs		
 pb	485	0488	7314496
@@ -544,17 +544,17 @@ pb	507	0510	7314518
 pb	508	0511	7314519
 pb	509	0512	7314520
 pb	510	0513	7314521
-entry	Viol et attentats aux mœurs		
+entry	Viol et attentats aux mœurs	0	
 orth	Viol		
 orth	attentats aux mœurs		
-entry	Violette		
+entry	Violette	6	
 pb	511	0514	7314522
 pb	512	0515	7314523
 pb	513	0516	7314524
 pb	514	0517	7314525
 pb	515	0518	7314526
 pb	516	0519	7314527
-entry	Vision		
+entry	Vision	35	
 pb	517	0520	7314528
 pb	518	0521	7314529
 pb	519	0522	7314530
@@ -590,15 +590,15 @@ pb	548	0551	7314559
 pb	549	0552	7314560
 pb	550	0553	7314561
 pb	551	0554	7314562
-entry	Vitiligo		
+entry	Vitiligo	3	
 pb	552	0555	7314563
 pb	553	0556	7314564
 pb	554	0557	7314565
-entry	Vittel		
+entry	Vittel	3	
 pb	555	0558	7314566
 pb	556	0559	7314567
 pb	557	0560	7314568
-entry	Voix		
+entry	Voix	42	
 pb	558	0561	7314569
 pb	559	0562	7314570
 pb	560	0563	7314571
@@ -641,7 +641,7 @@ pb	596	0599	7314607
 pb	597	0600	7314608
 pb	598	0601	7314609
 pb	599	0602	7314610
-entry	Vomissement		
+entry	Vomissement	16	
 pb	600	0603	7314611
 pb	601	0604	7314612
 pb	602	0605	7314613
@@ -658,7 +658,7 @@ pb	612	0615	7314623
 pb	613	0616	7314624
 pb	614	0617	7314625
 pb	615	0618	7314626
-entry	Vomitifs		
+entry	Vomitifs	13	
 pb	616	0619	7314627
 pb	617	0620	7314628
 pb	618	0621	7314629
@@ -672,20 +672,20 @@ pb	625	0628	7314636
 pb	626	0629	7314637
 pb	627	0630	7314638
 pb	628	0631	7314639
-entry	Wiesbaden		
+entry	Wiesbaden	6	
 pb	629	0632	7314640
 pb	630	0633	7314641
 pb	631	0634	7314642
 pb	632	0635	7314643
 pb	633	0636	7314644
 pb	634	0637	7314645
-entry	Wildbad		
+entry	Wildbad	5	
 pb	635	0638	7314646
 pb	636	0639	7314647
 pb	637	0640	7314648
 pb	638	0641	7314649
 pb	639	0642	7314650
-entry	Xanthélasma		
+entry	Xanthélasma	25	
 pb	640	0643	7314651
 pb	641	0644	7314652
 pb	642	0645	7314653
@@ -711,7 +711,7 @@ pb	661	0664	7314672
 pb	662	0665	7314673
 pb	663	0666	7314674
 pb	664	0667	7314675
-entry	Xéroderma		
+entry	Xéroderma	12	
 pb	665	0668	7314676
 pb	666	0669	7314677
 pb	667	0670	7314678
@@ -725,8 +725,8 @@ pb	674	0677	7314685
 pb	675	0678	7314686
 pb	676	0679	7314687
 pb	677	0680	7314688
-entry	Lettre Z		
-entry	Zinc		
+entry	Lettre Z	0	
+entry	Zinc	16	
 pb	678	0681	7314689
 pb	679	0682	7314690
 pb	680	0683	7314691
@@ -743,7 +743,7 @@ pb	690	0693	7314701
 pb	691	0694	7314702
 pb	692	0695	7314703
 pb	693	0696	7314704
-entry	Zona		
+entry	Zona	12	
 pb	694	0697	7314705
 pb	695	0698	7314706
 pb	696	0699	7314707
@@ -757,4 +757,4 @@ pb	703	0706	7314714
 pb	704	0707	7314715
 pb	705	0708	7314716
 pb	[s. pag.]	0709	7314717
-entry	Table des auteurs		
+entry	Table des auteurs	0	

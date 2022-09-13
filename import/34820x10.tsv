@@ -1,27 +1,27 @@
 pb	[s. pag.]	0001	464973
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	464974
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	464975
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	464976
-entry	Lettre D		
-entry	Danse de saint-guy ou De saint-weit		
+entry	Lettre D	0	
+entry	Danse de saint-guy ou De saint-weit	0	
 orth	Danse de saint-guy		
 orth	De saint-weit		
-entry	Daphné		
-entry	Dartre		
+entry	Daphné	0	
+entry	Dartre	1	
 pb	2	0005	464977
-entry	Datte		
+entry	Datte	1	
 pb	3	0006	464978
-entry	Datura		
+entry	Datura	1	
 pb	4	0007	464979
-entry	Débilitant		
+entry	Débilitant	2	
 pb	5	0008	464980
 pb	6	0009	464981
 pb	7	0010	464982
-entry	Decoction		
-entry	Decollation		
+entry	Decoction	0	
+entry	Decollation	7	
 pb	8	0011	464983
 pb	9	0012	464984
 pb	10	0013	464985
@@ -29,18 +29,18 @@ pb	11	0014	464986
 pb	12	0015	464987
 pb	13	0016	464988
 pb	14	0017	464989
-entry	Decubitus		
-entry	Defaillance		
-entry	Defecation		
-entry	Deglutition		
-entry	Délayant		
+entry	Decubitus	0	
+entry	Defaillance	0	
+entry	Defecation	0	
+entry	Deglutition	0	
+entry	Délayant	1	
 pb	15	0018	464990
-entry	Déligation		
+entry	Déligation	4	
 pb	16	0019	464991
 pb	17	0020	464992
 pb	18	0021	464993
 pb	19	0022	464994
-entry	Délire		
+entry	Délire	11	
 pb	20	0023	464995
 pb	21	0024	464996
 pb	22	0025	464997
@@ -52,7 +52,7 @@ pb	27	0030	465002
 pb	28	0031	465003
 pb	29	0032	465004
 pb	30	0033	465005
-entry	Delirium tremens		
+entry	Delirium tremens	16	
 pb	31	0034	465006
 pb	32	0035	465007
 pb	33	0036	465008
@@ -69,7 +69,7 @@ pb	43	0046	465018
 pb	44	0047	465019
 pb	45	0048	465020
 pb	46	0049	465021
-entry	Delivrance		
+entry	Delivrance	24	
 pb	47	0050	465022
 pb	48	0051	465023
 pb	49	0052	465024
@@ -94,7 +94,7 @@ pb	67	0070	465042
 pb	68	0071	465043
 pb	69	0072	465044
 pb	70	0073	465045
-entry	Démence		
+entry	Démence	15	
 pb	71	0074	465046
 pb	72	0075	465047
 pb	73	0076	465048
@@ -110,8 +110,8 @@ pb	82	0085	465057
 pb	83	0086	465058
 pb	84	0087	465059
 pb	85	0088	465060
-entry	Demi-bain		
-entry	Dent, Dentition		
+entry	Demi-bain	0	
+entry	Dent, Dentition	125	
 orth	Dent		
 orth	Dentition		
 pb	86	0089	465061
@@ -239,20 +239,20 @@ pb	207	0210	465182
 pb	208	0211	465183
 pb	209	0212	465184
 pb	210	0213	465185
-entry	Depilation		
+entry	Depilation	2	
 pb	211	0214	465186
 pb	212	0215	465187
 pb	213	0216	465188
-entry	Dépuration, Dépuratifs		
+entry	Dépuration, Dépuratifs	2	
 orth	Dépuration		
 orth	Dépuratifs		
 pb	214	0217	465189
 pb	215	0218	465190
-entry	Dérivatifs, Dérivation		
+entry	Dérivatifs, Dérivation	0	
 orth	Dérivatifs		
 orth	Dérivation		
-entry	Désarticulation		
-entry	Désinfection		
+entry	Désarticulation	0	
+entry	Désinfection	9	
 pb	216	0219	465191
 pb	217	0220	465192
 pb	218	0221	465193
@@ -262,12 +262,12 @@ pb	221	0224	465196
 pb	222	0225	465197
 pb	223	0226	465198
 pb	224	0227	465199
-entry	Desquammation		
+entry	Desquammation	1	
 pb	225	0228	465200
-entry	Déttroncation		
-entry	Deviation organique		
-entry	Devoiement		
-entry	Diabete		
+entry	Déttroncation	0	
+entry	Deviation organique	0	
+entry	Devoiement	0	
+entry	Diabete	17	
 pb	226	0229	465201
 pb	227	0230	465202
 pb	228	0231	465203
@@ -285,9 +285,9 @@ pb	239	0242	465214
 pb	240	0243	465215
 pb	241	0244	465216
 pb	242	0245	465217
-entry	Diachylon		
-entry	Diacode		
-entry	Diagnostic		
+entry	Diachylon	0	
+entry	Diacode	0	
+entry	Diagnostic	10	
 pb	243	0246	465218
 pb	244	0247	465219
 pb	245	0248	465220
@@ -298,8 +298,8 @@ pb	249	0252	465224
 pb	250	0253	465225
 pb	251	0254	465226
 pb	252	0255	465227
-entry	Diagrede		
-entry	Diaphragme		
+entry	Diagrede	0	
+entry	Diaphragme	17	
 pb	253	0256	465228
 pb	254	0257	465229
 pb	255	0258	465230
@@ -317,8 +317,8 @@ pb	266	0269	465241
 pb	267	0270	465242
 pb	268	0271	465243
 pb	269	0272	465244
-entry	Diaphoretiques		
-entry	Diarrhee		
+entry	Diaphoretiques	0	
+entry	Diarrhee	10	
 pb	270	0273	465245
 pb	271	0274	465246
 pb	272	0275	465247
@@ -329,9 +329,9 @@ pb	276	0279	465251
 pb	277	0280	465252
 pb	278	0281	465253
 pb	279	0282	465254
-entry	Diascordium		
+entry	Diascordium	1	
 pb	280	0283	465255
-entry	Diete, Dietetique		
+entry	Diete, Dietetique	11	
 orth	Diete		
 orth	Dietetique		
 pb	281	0284	465256
@@ -345,7 +345,7 @@ pb	288	0291	465263
 pb	289	0292	465264
 pb	290	0293	465265
 pb	291	0294	465266
-entry	Digestion		
+entry	Digestion	77	
 pb	292	0295	465267
 pb	293	0296	465268
 pb	294	0297	465269
@@ -423,7 +423,7 @@ pb	365	0368	465340
 pb	366	0369	465341
 pb	367	0370	465342
 pb	368	0371	465343
-entry	Digitale		
+entry	Digitale	14	
 pb	369	0372	465344
 pb	370	0373	465345
 pb	371	0374	465346
@@ -438,16 +438,16 @@ pb	379	0382	465354
 pb	380	0383	465355
 pb	381	0384	465356
 pb	382	0385	465357
-entry	Digne		
+entry	Digne	2	
 pb	383	0386	465358
 pb	384	0387	465359
-entry	Dilatation		
+entry	Dilatation	3	
 pb	385	0388	465360
 pb	386	0389	465361
 pb	387	0390	465362
-entry	Dinan		
+entry	Dinan	1	
 pb	388	0391	465363
-entry	Diphthérite		
+entry	Diphthérite	7	
 pb	389	0392	465364
 pb	390	0393	465365
 pb	391	0394	465366
@@ -456,7 +456,7 @@ pb	393	0396	465368
 pb	394	0397	465369
 pb	395	0398	465370
 pb	396	0399	465371
-entry	Diplogénése		
+entry	Diplogénése	24	
 pb	397	0400	465372
 pb	398	0401	465373
 pb	399	0402	465374
@@ -481,23 +481,23 @@ pb	417	0420	465392
 pb	418	0421	465393
 pb	419	0422	465394
 pb	420	0423	465395
-entry	Diplopie		
-entry	Dipsacees		
-entry	Dissection		
+entry	Diplopie	0	
+entry	Dipsacees	0	
+entry	Dissection	1	
 pb	421	0424	465396
-entry	Ditrachycéros		
-entry	Diurétique		
+entry	Ditrachycéros	0	
+entry	Diurétique	6	
 pb	422	0425	465397
 pb	423	0426	465398
 pb	424	0427	465399
 pb	425	0428	465400
 pb	426	0429	465401
 pb	427	0430	465402
-entry	Docimasie pulmonaire		
-entry	Dogmatisme		
-entry	Doigts		
-entry	Dos		
-entry	Dothiénenterie		
+entry	Docimasie pulmonaire	0	
+entry	Dogmatisme	0	
+entry	Doigts	0	
+entry	Dos	0	
+entry	Dothiénenterie	64	
 pb	428	0431	465403
 pb	429	0432	465404
 pb	430	0433	465405
@@ -562,14 +562,14 @@ pb	488	0491	465463
 pb	489	0492	465464
 pb	490	0493	465465
 pb	491	0494	465466
-entry	Douce-amere		
-entry	Douche		
+entry	Douce-amere	0	
+entry	Douche	5	
 pb	492	0495	465467
 pb	493	0496	465468
 pb	494	0497	465469
 pb	495	0498	465470
 pb	496	0499	465471
-entry	Douleur		
+entry	Douleur	17	
 pb	497	0500	465472
 pb	498	0501	465473
 pb	499	0502	465474
@@ -587,11 +587,11 @@ pb	510	0513	465485
 pb	511	0514	465486
 pb	512	0515	465487
 pb	513	0516	465488
-entry	Dragonneau		
-entry	Drastiques		
-entry	Duodénum		
+entry	Dragonneau	0	
+entry	Drastiques	0	
+entry	Duodénum	0	
 pb	514	0517	465489
-entry	Dure-mère		
+entry	Dure-mère	19	
 pb	515	0518	465490
 pb	516	0519	465491
 pb	517	0520	465492
@@ -612,8 +612,8 @@ pb	531	0534	465506
 pb	532	0535	465507
 pb	533	0536	465508
 pb	534	0537	465509
-entry	Durillon		
-entry	Dysécée		
+entry	Durillon	0	
+entry	Dysécée	10	
 pb	535	0538	465510
 pb	536	0539	465511
 pb	537	0540	465512
@@ -624,7 +624,7 @@ pb	541	0544	465516
 pb	542	0545	465517
 pb	543	0546	465518
 pb	544	0547	465519
-entry	Dysenterie		
+entry	Dysenterie	32	
 pb	545	0548	465520
 pb	546	0549	465521
 pb	547	0550	465522
@@ -657,17 +657,17 @@ pb	573	0576	465548
 pb	574	0577	465549
 pb	575	0578	465550
 pb	576	0579	465551
-entry	Dysmenorrhee		
-entry	Dyspepsie		
-entry	Dysphagie		
+entry	Dysmenorrhee	0	
+entry	Dyspepsie	0	
+entry	Dysphagie	6	
 pb	577	0580	465552
 pb	578	0581	465553
 pb	579	0582	465554
 pb	580	0583	465555
 pb	581	0584	465556
 pb	582	0585	465557
-entry	Dyspnée		
-entry	Dystocie		
+entry	Dyspnée	0	
+entry	Dystocie	39	
 pb	583	0586	465558
 pb	584	0587	465559
 pb	585	0588	465560
@@ -707,10 +707,10 @@ pb	618	0621	465593
 pb	619	0622	465594
 pb	620	0623	465595
 pb	621	0624	465596
-entry	C36Dysurie		
+entry	C36Dysurie	0	
 pb	[s. pag.]	0625	465597
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0626	465598
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	624	0627	465599
 pb	[s. pag.]	0628	465600

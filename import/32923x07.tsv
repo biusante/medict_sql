@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7287882
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7287883
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7287884
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7287885
-entry	Champignons		
+entry	Champignons	57	
 pb	2	0005	7287886
 pb	3	0006	7287887
 pb	4	0007	7287888
@@ -63,7 +63,7 @@ pb	55	0058	7287939
 pb	56	0059	7287940
 pb	57	0060	7287941
 pb	58	0061	7287942
-entry	Chancre		
+entry	Chancre	85	
 pb	59	0062	7287943
 pb	60	0063	7287944
 pb	61	0064	7287945
@@ -149,7 +149,7 @@ pb	140	0143	7288024
 pb	141	0144	7288025
 pb	142	0145	7288026
 pb	143	0146	7288027
-entry	Charbon (affections charbonneuses)		
+entry	Charbon (affections charbonneuses)	55	
 pb	144	0147	7288028
 pb	145	0148	7288029
 pb	146	0149	7288030
@@ -205,13 +205,13 @@ pb	195	0198	7288079
 pb	196	0199	7288080
 pb	197	0200	7288081
 pb	198	0201	7288082
-entry	Charpie		
+entry	Charpie	5	
 pb	199	0202	7288083
 pb	200	0203	7288084
 pb	201	0204	7288085
 pb	202	0205	7288086
 pb	203	0206	7288087
-entry	Chauffage		
+entry	Chauffage	22	
 pb	204	0207	7288088
 pb	205	0208	7288089
 pb	206	0209	7288090
@@ -235,7 +235,7 @@ pb	223	0226	7288107
 pb	224	0227	7288108
 pb	225	0228	7288109
 pb	226	0229	7288110
-entry	Chaux		
+entry	Chaux	15	
 pb	227	0230	7288111
 pb	228	0231	7288112
 pb	229	0232	7288113
@@ -251,25 +251,25 @@ pb	238	0241	7288122
 pb	239	0242	7288123
 pb	240	0243	7288124
 pb	241	0244	7288125
-entry	Cheiloplastie		
-entry	Chemosis		
+entry	Cheiloplastie	0	
+entry	Chemosis	0	
 pb	242	0245	7288126
-entry	Chène		
+entry	Chène	2	
 pb	243	0246	7288127
 pb	244	0247	7288128
-entry	Cheveux		
+entry	Cheveux	4	
 pb	245	0248	7288129
 pb	246	0249	7288130
 pb	247	0250	7288131
 pb	248	0251	7288132
-entry	Chicorée		
+entry	Chicorée	2	
 pb	249	0252	7288133
 pb	250	0253	7288134
-entry	Chiendent		
+entry	Chiendent	1	
 pb	251	0254	7288135
 pb	252	0255	7288136
-entry	Chiloplastie		
-entry	Chlore, Chlorates, Chlorures		
+entry	Chiloplastie	0	
+entry	Chlore, Chlorates, Chlorures	35	
 orth	Chlore		
 orth	Chlorates		
 orth	Chlorures		
@@ -308,7 +308,7 @@ pb	284	0287	7288168
 pb	285	0288	7288169
 pb	286	0289	7288170
 pb	287	0290	7288171
-entry	Chloroforme		
+entry	Chloroforme	10	
 pb	288	0291	7288172
 pb	289	0292	7288173
 pb	290	0293	7288174
@@ -319,7 +319,7 @@ pb	294	0297	7288178
 pb	295	0298	7288179
 pb	296	0299	7288180
 pb	297	0300	7288181
-entry	Chlorose		
+entry	Chlorose	24	
 pb	298	0301	7288182
 pb	299	0302	7288183
 pb	300	0303	7288184
@@ -344,8 +344,8 @@ pb	318	0321	7288202
 pb	319	0322	7288203
 pb	320	0323	7288204
 pb	321	0324	7288205
-entry	Cholécystite		
-entry	Choléra		
+entry	Cholécystite	0	
+entry	Choléra	176	
 pb	322	0325	7288206
 pb	323	0326	7288207
 pb	324	0327	7288208
@@ -522,9 +522,9 @@ pb	494	0497	7288378
 pb	495	0498	7288379
 pb	496	0499	7288380
 pb	497	0500	7288381
-entry	Cholérine		
+entry	Cholérine	0	
 pb	498	0501	7288382
-entry	Chondrome		
+entry	Chondrome	27	
 pb	499	0502	7288383
 pb	500	0503	7288384
 pb	501	0504	7288385
@@ -552,7 +552,7 @@ pb	522	0525	7288406
 pb	523	0526	7288407
 pb	524	0527	7288408
 pb	525	0528	7288409
-entry	Chorée		
+entry	Chorée	31	
 pb	526	0529	7288410
 pb	527	0530	7288411
 pb	528	0531	7288412
@@ -584,13 +584,13 @@ pb	553	0556	7288437
 pb	554	0557	7288438
 pb	555	0558	7288439
 pb	556	0559	7288440
-entry	Cloison		
-entry	Choroïde		
+entry	Cloison	0	
+entry	Choroïde	4	
 pb	557	0560	7288441
 pb	558	0561	7288442
 pb	559	0562	7288443
 pb	560	0563	7288444
-entry	Choroïdite		
+entry	Choroïdite	13	
 pb	561	0564	7288445
 pb	562	0565	7288446
 pb	563	0566	7288447
@@ -604,7 +604,7 @@ pb	570	0573	7288454
 pb	571	0574	7288455
 pb	572	0575	7288456
 pb	573	0576	7288457
-entry	Chrome chromates		
+entry	Chrome chromates	7	
 pb	574	0577	7288458
 pb	575	0578	7288459
 pb	576	0579	7288460
@@ -612,7 +612,7 @@ pb	577	0580	7288461
 pb	578	0581	7288462
 pb	579	0582	7288463
 pb	580	0583	7288464
-entry	Chromhydrose		
+entry	Chromhydrose	7	
 pb	581	0584	7288465
 pb	582	0585	7288466
 pb	583	0586	7288467
@@ -620,15 +620,15 @@ pb	584	0587	7288468
 pb	585	0588	7288469
 pb	586	0589	7288470
 pb	587	0590	7288471
-entry	Chyle, Chylifère (vaisseau), Chylification		
+entry	Chyle, Chylifère (vaisseau), Chylification	0	
 orth	Chyle		
 orth	Chylifère (vaisseau)		
 orth	Chylification		
-entry	Chylevie		
-entry	Chyme, Chymification		
+entry	Chylevie	0	
+entry	Chyme, Chymification	0	
 orth	Chyme		
 orth	Chymification		
-entry	Cicatrice, Cicatrisation		
+entry	Cicatrice, Cicatrisation	27	
 orth	Cicatrice		
 orth	Cicatrisation		
 pb	588	0591	7288472
@@ -658,9 +658,9 @@ pb	611	0614	7288495
 pb	612	0615	7288496
 pb	613	0616	7288497
 pb	614	0617	7288498
-entry	Cicutine		
+entry	Cicutine	0	
 pb	615	0618	7288499
-entry	Ciguës		
+entry	Ciguës	16	
 pb	616	0619	7288500
 pb	617	0620	7288501
 pb	618	0621	7288502
@@ -677,13 +677,13 @@ pb	628	0631	7288512
 pb	629	0632	7288513
 pb	630	0633	7288514
 pb	631	0634	7288515
-entry	Cinchonine		
+entry	Cinchonine	4	
 pb	632	0635	7288516
 pb	633	0636	7288517
 pb	634	0637	7288518
 pb	635	0638	7288519
-entry	Cinnabre		
-entry	Circoncision		
+entry	Cinnabre	0	
+entry	Circoncision	9	
 pb	636	0639	7288520
 pb	637	0640	7288521
 pb	638	0641	7288522
@@ -693,7 +693,7 @@ pb	641	0644	7288525
 pb	642	0645	7288526
 pb	643	0646	7288527
 pb	644	0647	7288528
-entry	Circulation		
+entry	Circulation	95	
 pb	645	0648	7288529
 pb	646	0649	7288530
 pb	647	0650	7288531
@@ -789,19 +789,19 @@ pb	736	0739	7288620
 pb	737	0740	7288621
 pb	738	0741	7288622
 pb	739	0742	7288623
-entry	Cire		
+entry	Cire	6	
 pb	740	0743	7288624
 pb	741	0744	7288625
 pb	742	0745	7288626
 pb	743	0746	7288627
 pb	744	0747	7288628
 pb	745	0748	7288629
-entry	Cirecise (dégénérescence)		
-entry	Cirrhose		
-entry	Ciseaux		
+entry	Cirecise (dégénérescence)	0	
+entry	Cirrhose	0	
+entry	Ciseaux	2	
 pb	746	0749	7288630
 pb	747	0750	7288631
-entry	Citrique (acide)		
+entry	Citrique (acide)	8	
 pb	748	0751	7288632
 pb	749	0752	7288633
 pb	750	0753	7288634
@@ -810,12 +810,12 @@ pb	752	0755	7288636
 pb	753	0756	7288637
 pb	754	0757	7288638
 pb	755	0758	7288639
-entry	Citron		
+entry	Citron	2	
 pb	756	0759	7288640
 pb	757	0760	7288641
-entry	Citrouille		
+entry	Citrouille	1	
 pb	758	0761	7288642
-entry	Claudication		
+entry	Claudication	16	
 pb	759	0762	7288643
 pb	760	0763	7288644
 pb	761	0764	7288645
@@ -833,6 +833,6 @@ pb	772	0775	7288656
 pb	773	0776	7288657
 pb	774	0777	7288658
 pb	[s. pag.]	0778	7288659
-entry	Table des auteurs		
+entry	Table des auteurs	0	
 pb	[s. pag.]	0779	7288660
-entry	Publicité Baillière		
+entry	Publicité Baillière	0	

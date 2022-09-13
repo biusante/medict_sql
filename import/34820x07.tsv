@@ -1,15 +1,15 @@
 pb	[s. pag.]	0001	463213
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	463214
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	463215
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	463216
-entry	Cathartique		
-entry	Cathérétique		
-entry	Cathéter		
+entry	Cathartique	0	
+entry	Cathérétique	0	
+entry	Cathéter	1	
 pb	2	0005	463217
-entry	Cathétérisme		
+entry	Cathétérisme	24	
 pb	3	0006	463218
 pb	4	0007	463219
 pb	5	0008	463220
@@ -34,24 +34,24 @@ pb	23	0026	463238
 pb	24	0027	463239
 pb	25	0028	463240
 pb	26	0029	463241
-entry	Cauchemar		
+entry	Cauchemar	4	
 pb	27	0030	463242
 pb	28	0031	463243
 pb	29	0032	463244
 pb	30	0033	463245
-entry	Cause		
-entry	Caustique		
+entry	Cause	0	
+entry	Caustique	5	
 pb	31	0034	463246
 pb	32	0035	463247
 pb	33	0036	463248
 pb	34	0037	463249
 pb	35	0038	463250
-entry	Cautère		
+entry	Cautère	3	
 pb	36	0039	463251
 pb	37	0040	463252
 pb	38	0041	463253
 pb	39	0042	463254
-entry	Cauterets		
+entry	Cauterets	9	
 pb	40	0043	463255
 pb	41	0044	463256
 pb	42	0045	463257
@@ -62,8 +62,8 @@ pb	46	0049	463261
 pb	47	0050	463262
 pb	48	0051	463263
 pb	49	0052	463264
-entry	Cautère		
-entry	Cautérisation		
+entry	Cautère	0	
+entry	Cautérisation	13	
 pb	50	0053	463265
 pb	51	0054	463266
 pb	52	0055	463267
@@ -77,7 +77,7 @@ pb	59	0062	463274
 pb	60	0063	463275
 pb	61	0064	463276
 pb	62	0065	463277
-entry	Caves		
+entry	Caves	8	
 pb	63	0066	463278
 pb	64	0067	463279
 pb	65	0068	463280
@@ -86,16 +86,16 @@ pb	67	0070	463282
 pb	68	0071	463283
 pb	69	0072	463284
 pb	70	0073	463285
-entry	Cécité		
+entry	Cécité	1	
 pb	71	0074	463286
-entry	Ceinture		
+entry	Ceinture	2	
 pb	72	0075	463287
 pb	73	0076	463288
-entry	Cellulaire		
+entry	Cellulaire	0	
 pb	74	0077	463289
-entry	Celulaire		
+entry	Celulaire	0	
 pb	75	0078	463290
-entry	Cellulaire		
+entry	Cellulaire	9	
 pb	76	0079	463291
 pb	77	0080	463292
 pb	78	0081	463293
@@ -105,12 +105,12 @@ pb	81	0084	463296
 pb	82	0085	463297
 pb	83	0086	463298
 pb	84	0087	463299
-entry	Centauree		
+entry	Centauree	4	
 pb	85	0088	463300
 pb	86	0089	463301
 pb	87	0090	463302
 pb	88	0091	463303
-entry	Céphalaematome		
+entry	Céphalaematome	28	
 pb	89	0092	463304
 pb	90	0093	463305
 pb	91	0094	463306
@@ -140,7 +140,7 @@ pb	114	0117	463329
 pb	115	0118	463330
 pb	116	0119	463331
 pb	117	0120	463332
-entry	Cephalalgie, Cephalee		
+entry	Cephalalgie, Cephalee	11	
 orth	Cephalalgie		
 orth	Cephalee		
 pb	118	0121	463333
@@ -154,18 +154,18 @@ pb	125	0128	463340
 pb	126	0129	463341
 pb	127	0130	463342
 pb	128	0131	463343
-entry	Cérat		
+entry	Cérat	3	
 pb	129	0132	463344
 pb	130	0133	463345
 pb	131	0134	463346
-entry	Cérébrale		
+entry	Cérébrale	1	
 pb	132	0135	463347
-entry	Cerfeuil		
+entry	Cerfeuil	1	
 pb	133	0136	463348
-entry	Cerveau, Cervelet		
+entry	Cerveau, Cervelet	0	
 orth	Cerveau		
 orth	Cervelet		
-entry	Césarienne		
+entry	Césarienne	24	
 pb	134	0137	463349
 pb	135	0138	463350
 pb	136	0139	463351
@@ -190,9 +190,9 @@ pb	154	0157	463369
 pb	155	0158	463370
 pb	156	0159	463371
 pb	157	0160	463372
-entry	Cévadille		
+entry	Cévadille	1	
 pb	158	0161	463373
-entry	Chaleur		
+entry	Chaleur	17	
 pb	159	0162	463374
 pb	160	0163	463375
 pb	161	0164	463376
@@ -210,7 +210,7 @@ pb	172	0175	463387
 pb	173	0176	463388
 pb	174	0177	463389
 pb	175	0178	463390
-entry	Chaleur animale		
+entry	Chaleur animale	41	
 pb	176	0179	463391
 pb	177	0180	463392
 pb	178	0181	463393
@@ -252,7 +252,7 @@ pb	213	0216	463428
 pb	214	0217	463429
 pb	215	0218	463430
 pb	116	0219	463431
-entry	Champignons		
+entry	Champignons	30	
 pb	117	0220	463432
 pb	218	0221	463433
 pb	219	0222	463434
@@ -283,7 +283,7 @@ pb	243	0246	463458
 pb	244	0247	463459
 pb	245	0248	463460
 pb	246	0249	463461
-entry	Chancres syphilitiques		
+entry	Chancres syphilitiques	13	
 pb	247	0250	463462
 pb	248	0251	463463
 pb	249	0252	463464
@@ -297,10 +297,10 @@ pb	256	0259	463471
 pb	257	0260	463472
 pb	258	0261	463473
 pb	259	0262	463474
-entry	Chanvre		
+entry	Chanvre	2	
 pb	260	0263	463475
 pb	261	0264	463476
-entry	Charbon		
+entry	Charbon	7	
 pb	262	0265	463477
 pb	263	0266	463478
 pb	264	0267	463479
@@ -308,7 +308,7 @@ pb	265	0268	463480
 pb	266	0269	463481
 pb	267	0270	463482
 pb	268	0271	463483
-entry	Charbon, Charbonneuses		
+entry	Charbon, Charbonneuses	14	
 orth	Charbon		
 orth	Charbonneuses		
 pb	269	0272	463484
@@ -326,18 +326,18 @@ pb	280	0283	463495
 pb	281	0284	463496
 pb	282	0285	463497
 pb	283	0286	463498
-entry	Charpie		
+entry	Charpie	4	
 pb	284	0287	463499
 pb	285	0288	463500
 pb	286	0289	463501
 pb	287	0290	463502
-entry	Chataigne		
-entry	Chaudes-aigues		
+entry	Chataigne	0	
+entry	Chaudes-aigues	4	
 pb	288	0291	463503
 pb	289	0292	463504
 pb	290	0293	463505
 pb	291	0294	463506
-entry	Chaux		
+entry	Chaux	9	
 pb	292	0295	463507
 pb	293	0296	463508
 pb	294	0297	463509
@@ -347,31 +347,31 @@ pb	297	0300	463512
 pb	298	0301	463513
 pb	299	0302	463514
 pb	300	0303	463515
-entry	Cheioloplastie		
-entry	Chélidoine		
+entry	Cheioloplastie	0	
+entry	Chélidoine	1	
 pb	301	0304	463516
-entry	Cheltenham		
+entry	Cheltenham	1	
 pb	302	0305	463517
-entry	Chemiatrie		
-entry	Chémosis		
+entry	Chemiatrie	0	
+entry	Chémosis	0	
 pb	303	0306	463518
-entry	Chene		
+entry	Chene	2	
 pb	304	0307	463519
 pb	305	0308	463520
-entry	Chénopodèes		
-entry	Cheveux		
-entry	Chicoracées		
+entry	Chénopodèes	0	
+entry	Cheveux	0	
+entry	Chicoracées	1	
 pb	306	0309	463521
-entry	Chicorée		
+entry	Chicorée	1	
 pb	307	0310	463522
-entry	Chiendent		
+entry	Chiendent	1	
 pb	308	0311	463523
-entry	Chimie		
+entry	Chimie	4	
 pb	309	0312	463524
 pb	310	0313	463525
 pb	311	0314	463526
 pb	312	0315	463527
-entry	Chimisme		
+entry	Chimisme	8	
 pb	313	0316	463528
 pb	314	0317	463529
 pb	315	0318	463530
@@ -380,12 +380,12 @@ pb	317	0320	463532
 pb	318	0321	463533
 pb	319	0322	463534
 pb	320	0323	463535
-entry	Chiococca		
+entry	Chiococca	3	
 pb	321	0324	463536
 pb	322	0325	463537
 pb	323	0326	463538
-entry	Chique		
-entry	Chirurgie		
+entry	Chique	0	
+entry	Chirurgie	69	
 pb	324	0327	463539
 pb	325	0328	463540
 pb	326	0329	463541
@@ -455,7 +455,7 @@ pb	389	0392	463604
 pb	390	0393	463605
 pb	391	0394	463606
 pb	392	0395	463607
-entry	Chlore, Chlorures		
+entry	Chlore, Chlorures	44	
 orth	Chlore		
 orth	Chlorures		
 pb	393	0396	463608
@@ -502,7 +502,7 @@ pb	433	0436	463648
 pb	434	0437	463649
 pb	435	0438	463650
 pb	436	0439	463651
-entry	Chlorose		
+entry	Chlorose	13	
 pb	437	0440	463652
 pb	438	0441	463653
 pb	439	0442	463654
@@ -516,10 +516,10 @@ pb	446	0449	463661
 pb	447	0450	463662
 pb	448	0451	463663
 pb	449	0452	463664
-entry	Chocolat		
+entry	Chocolat	2	
 pb	450	0453	463665
 pb	451	0454	463666
-entry	Choléra		
+entry	Choléra	92	
 pb	452	0455	463667
 pb	453	0456	463668
 pb	454	0457	463669
@@ -612,7 +612,7 @@ pb	540	0543	463755
 pb	541	0544	463756
 pb	542	0545	463757
 pb	543	0546	463758
-entry	Chorée		
+entry	Chorée	20	
 pb	544	0547	463759
 pb	545	0548	463760
 pb	546	0549	463761
@@ -633,26 +633,26 @@ pb	560	0563	463775
 pb	561	0564	463776
 pb	562	0565	463777
 pb	563	0566	463778
-entry	Chou		
+entry	Chou	2	
 pb	564	0567	463779
 pb	565	0568	463780
-entry	Choufleurs		
-entry	Chrome, Chromates		
+entry	Choufleurs	0	
+entry	Chrome, Chromates	3	
 orth	Chrome		
 orth	Chromates		
 pb	566	0569	463781
 pb	567	0570	463782
 pb	568	0571	463783
-entry	Chroniques		
-entry	Chute		
+entry	Chroniques	0	
+entry	Chute	0	
 pb	569	0572	463784
-entry	Chyle, Chylifere		
+entry	Chyle, Chylifere	0	
 orth	Chyle		
 orth	Chylifere		
-entry	Chyme, Chymification		
+entry	Chyme, Chymification	0	
 orth	Chyme		
 orth	Chymification		
-entry	Cicatrice, Cicatrisation		
+entry	Cicatrice, Cicatrisation	17	
 orth	Cicatrice		
 orth	Cicatrisation		
 pb	570	0573	463785
@@ -672,12 +672,12 @@ pb	583	0586	463798
 pb	584	0587	463799
 pb	585	0588	463800
 pb	586	0589	463801
-entry	Cidre		
+entry	Cidre	3	
 pb	587	0590	463802
 pb	588	0591	463803
 pb	589	0592	463804
 pb	[s. pag.]	0593	463805
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0594	463806
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	592	0595	463807

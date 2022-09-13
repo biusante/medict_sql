@@ -1,20 +1,20 @@
 pb	[s. pag.]	0001	7333168
-entry	[Plat]		
+entry	[Plat]	0	
 pb	[s. pag.]	0002	7333169
-entry	[Page de faux titre]		
+entry	[Page de faux titre]	0	
 pb	[s. pag.]	0003	7333170
 pb	[s. pag.]	0004	7333171
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0005	7333172
 pb	1	0006	7333173
-entry	Dictionnaire abrégé des Sciences Médicales. Réactif		
-entry	Rechute		
+entry	Dictionnaire abrégé des Sciences Médicales. Réactif	0	
+entry	Rechute	1	
 pb	2	0007	7333174
-entry	Récidive		
-entry	Récipient		
-entry	Recrudescence		
-entry	Rectification		
-entry	Rectum		
+entry	Récidive	0	
+entry	Récipient	0	
+entry	Recrudescence	0	
+entry	Rectification	0	
+entry	Rectum	15	
 pb	3	0008	7333175
 pb	4	0009	7333176
 pb	5	0010	7333177
@@ -30,13 +30,13 @@ pb	14	0019	7333186
 pb	15	0020	7333187
 pb	16	0021	7333188
 pb	17	0022	7333189
-entry	Récurrent		
-entry	Réduction		
-entry	Réflexion		
-entry	Réfraction		
+entry	Récurrent	0	
+entry	Réduction	0	
+entry	Réflexion	0	
+entry	Réfraction	1	
 pb	18	0023	7333190
-entry	Réfrigérant		
-entry	Régime 		
+entry	Réfrigérant	0	
+entry	Régime 	8	
 pb	19	0024	7333191
 pb	20	0025	7333192
 pb	21	0026	7333193
@@ -46,11 +46,11 @@ pb	24	0029	7333196
 pb	25	0030	7333197
 pb	26	0031	7333198
 pb	27	0032	7333199
-entry	Réglisse		
+entry	Réglisse	1	
 pb	28	0033	7333200
-entry	Rein		
+entry	Rein	0	
 pb	29	0034	7333201
-entry	Rein 		
+entry	Rein 	12	
 pb	30	0035	7333202
 pb	31	0036	7333203
 pb	32	0037	7333204
@@ -64,16 +64,16 @@ pb	39	0044	7333211
 pb	40	0045	7333212
 pb	41	0046	7333213
 pb	42	0047	7333214
-entry	Rein		
-entry	Relâchement		
+entry	Rein	0	
+entry	Relâchement	1	
 pb	43	0048	7333215
-entry	Releveur		
+entry	Releveur	1	
 pb	44	0049	7333216
-entry	Remède		
-entry	Rémission		
-entry	Rémittent		
+entry	Remède	0	
+entry	Rémission	0	
+entry	Rémittent	1	
 pb	45	0050	7333217
-entry	Rémittente (fièvre)		
+entry	Rémittente (fièvre)	11	
 pb	46	0051	7333218
 pb	47	0052	7333219
 pb	48	0053	7333220
@@ -85,34 +85,34 @@ pb	53	0058	7333225
 pb	54	0059	7333226
 pb	55	0060	7333227
 pb	56	0061	7333228
-entry	Rénal		
+entry	Rénal	3	
 pb	57	0062	7333229
 pb	58	0063	7333230
 pb	59	0064	7333231
-entry	Renoncule		
+entry	Renoncule	1	
 pb	60	0065	7333232
-entry	Renversement		
-entry	Repoussoir		
-entry	Répulsion		
-entry	Réseau		
-entry	Répercussif		
+entry	Renversement	0	
+entry	Repoussoir	0	
+entry	Répulsion	0	
+entry	Réseau	0	
+entry	Répercussif	1	
 pb	61	0066	7333233
-entry	Répercussion		
-entry	Résection		
+entry	Répercussion	0	
+entry	Résection	0	
 pb	62	0067	7333234
-entry	Résection 		
+entry	Résection 	2	
 pb	63	0068	7333235
 pb	64	0069	7333236
 pb	65	0070	7333237
-entry	Résection		
-entry	Résine		
+entry	Résection	0	
+entry	Résine	1	
 pb	66	0071	7333238
-entry	Résolutif		
-entry	Résolution		
-entry	Respirable		
-entry	Respiration		
+entry	Résolutif	0	
+entry	Résolution	0	
+entry	Respirable	0	
+entry	Respiration	0	
 pb	67	0072	7333239
-entry	Respiration 		
+entry	Respiration 	17	
 pb	68	0073	7333240
 pb	69	0074	7333241
 pb	70	0075	7333242
@@ -131,34 +131,34 @@ pb	82	0087	7333254
 pb	83	0088	7333255
 pb	84	0089	7333256
 pb	85	0090	7333257
-entry	Respiration		
-entry	Respiratoire		
+entry	Respiration	0	
+entry	Respiratoire	1	
 pb	86	0091	7333258
-entry	Restiforme		
-entry	Réticulaire		
-entry	Rétine		
+entry	Restiforme	0	
+entry	Réticulaire	0	
+entry	Rétine	0	
 pb	87	0092	7333259
-entry	Rétine 		
+entry	Rétine 	0	
 pb	88	0093	7333260
-entry	Rétine		
-entry	Rétraction		
-entry	Révulsion		
+entry	Rétine	0	
+entry	Rétraction	0	
+entry	Révulsion	0	
 pb	89	0094	7333261
-entry	Révulsion 		
+entry	Révulsion 	1	
 pb	90	0095	7333262
 pb	91	0096	7333263
-entry	Révulsion		
-entry	Rhagade		
+entry	Révulsion	0	
+entry	Rhagade	1	
 pb	92	0097	7333264
-entry	Rheumique		
-entry	Rhodium		
-entry	Rhomboïde		
+entry	Rheumique	0	
+entry	Rhodium	0	
+entry	Rhomboïde	0	
 pb	93	0098	7333265
-entry	Rhubarbe		
+entry	Rhubarbe	1	
 pb	94	0099	7333266
-entry	Rhumatismal		
+entry	Rhumatismal	0	
 pb	95	0100	7333267
-entry	Rhumatisme		
+entry	Rhumatisme	15	
 pb	96	0101	7333268
 pb	97	0102	7333269
 pb	98	0103	7333270
@@ -174,31 +174,31 @@ pb	107	0112	7333279
 pb	108	0113	7333280
 pb	109	0114	7333281
 pb	110	0115	7333282
-entry	Rhume		
-entry	Ricin		
+entry	Rhume	0	
+entry	Ricin	0	
 pb	111	0116	7333283
-entry	Ricin 		
+entry	Ricin 	0	
 pb	112	0117	7333284
-entry	Ricin		
-entry	Ride		
-entry	Rigidité		
-entry	Rire		
+entry	Ricin	0	
+entry	Ride	0	
+entry	Rigidité	0	
+entry	Rire	1	
 pb	113	0118	7333285
-entry	Riz		
+entry	Riz	1	
 pb	114	0119	7333286
-entry	Rob		
-entry	Romarin		
-entry	Ronce		
+entry	Rob	0	
+entry	Romarin	0	
+entry	Ronce	1	
 pb	115	0120	7333287
-entry	Rond		
+entry	Rond	1	
 pb	116	0121	7333288
-entry	Ronflement		
-entry	Rosacique		
-entry	Roseau		
+entry	Ronflement	0	
+entry	Rosacique	0	
+entry	Roseau	1	
 pb	117	0122	7333289
-entry	Rosier		
+entry	Rosier	1	
 pb	118	0123	7333290
-entry	Rotule		
+entry	Rotule	8	
 pb	119	0124	7333291
 pb	120	0125	7333292
 pb	121	0126	7333293
@@ -207,69 +207,69 @@ pb	123	0128	7333295
 pb	124	0129	7333296
 pb	125	0130	7333297
 pb	126	0131	7333298
-entry	Rougeole		
+entry	Rougeole	6	
 pb	127	0132	7333299
 pb	128	0133	7333300
 pb	129	0134	7333301
 pb	130	0135	7333302
 pb	131	0136	7333303
 pb	132	0137	7333304
-entry	Rougeur		
+entry	Rougeur	0	
 pb	133	0138	7333305
-entry	Rougeur 		
+entry	Rougeur 	0	
 pb	134	0139	7333306
-entry	Rougeur		
-entry	Rousseur		
-entry	Routine		
-entry	Rubéfaction		
+entry	Rougeur	0	
+entry	Rousseur	0	
+entry	Routine	0	
+entry	Rubéfaction	1	
 pb	135	0140	7333307
-entry	Rubéfiant		
-entry	Rue		
+entry	Rubéfiant	0	
+entry	Rue	1	
 pb	136	0141	7333308
-entry	Rugine		
-entry	Rumination 		
+entry	Rugine	0	
+entry	Rumination 	0	
 pb	137	0142	7333309
-entry	Rumination		
-entry	Ruyschienne		
-entry	Sabine		
-entry	Saburre		
+entry	Rumination	0	
+entry	Ruyschienne	0	
+entry	Sabine	0	
+entry	Saburre	0	
 pb	138	0143	7333310
-entry	Saccharinite		
-entry	Saccharoite		
-entry	Sacco-gommite		
-entry	Sacré		
+entry	Saccharinite	0	
+entry	Saccharoite	0	
+entry	Sacco-gommite	0	
+entry	Sacré	0	
 pb	139	0144	7333311
-entry	Sacré 		
+entry	Sacré 	1	
 pb	140	0145	7333312
 pb	141	0146	7333313
-entry	Sacré		
-entry	Sacro-coccygien		
+entry	Sacré	0	
+entry	Sacro-coccygien	1	
 pb	142	0147	7333314
-entry	Sacro-épineux		
-entry	Sacro-iliaque		
+entry	Sacro-épineux	0	
+entry	Sacro-iliaque	0	
 pb	143	0148	7333315
-entry	Sacro-iliaque 		
+entry	Sacro-iliaque 	0	
 pb	144	0149	7333316
-entry	Sacro-iliaque		
-entry	Sacro-lombaire		
+entry	Sacro-iliaque	0	
+entry	Sacro-lombaire	0	
 pb	145	0150	7333317
-entry	Sacro-sciatique		
-entry	Sacro-spinal		
-entry	Sacro-vertébral		
+entry	Sacro-sciatique	0	
+entry	Sacro-spinal	0	
+entry	Sacro-vertébral	1	
 pb	146	0151	7333318
-entry	Sacrum		
+entry	Sacrum	3	
 pb	147	0152	7333319
 pb	148	0153	7333320
 pb	149	0154	7333321
-entry	Safran		
+entry	Safran	1	
 pb	150	0155	7333322
-entry	Sagapenum		
+entry	Sagapenum	1	
 pb	151	0156	7333323
-entry	Sagittale		
-entry	Sagou		
-entry	Saignée		
+entry	Sagittale	0	
+entry	Sagou	0	
+entry	Saignée	0	
 pb	152	0157	7333324
-entry	Saignée 		
+entry	Saignée 	14	
 pb	153	0158	7333325
 pb	154	0159	7333326
 pb	155	0160	7333327
@@ -285,49 +285,49 @@ pb	164	0169	7333336
 pb	165	0170	7333337
 pb	166	0171	7333338
 pb	167	0172	7333339
-entry	Saignée		
-entry	Saignement		
-entry	Saisissement		
+entry	Saignée	0	
+entry	Saignement	0	
+entry	Saisissement	1	
 pb	168	0173	7333340
-entry	Saison		
-entry	Salep		
-entry	Salicaire		
+entry	Saison	0	
+entry	Salep	0	
+entry	Salicaire	1	
 pb	169	0174	7333341
-entry	Salifiable		
-entry	Salin		
-entry	Salivaire		
+entry	Salifiable	0	
+entry	Salin	0	
+entry	Salivaire	0	
 pb	170	0175	7333342
-entry	Salivaire 		
+entry	Salivaire 	3	
 pb	171	0176	7333343
 pb	172	0177	7333344
 pb	173	0178	7333345
 pb	174	0179	7333346
-entry	Salivaire		
-entry	Salivation		
+entry	Salivaire	0	
+entry	Salivation	0	
 pb	175	0180	7333347
-entry	Salivation 		
+entry	Salivation 	1	
 pb	176	0181	7333348
 pb	177	0182	7333349
-entry	Salivation		
-entry	Salive		
+entry	Salivation	0	
+entry	Salive	1	
 pb	178	0183	7333350
-entry	Salsepareille		
+entry	Salsepareille	2	
 pb	179	0184	7333351
 pb	180	0185	7333352
-entry	Salvatelle		
-entry	Sandaraque		
+entry	Salvatelle	0	
+entry	Sandaraque	0	
 pb	181	0186	7333353
-entry	Sanaraque		
-entry	Sang		
+entry	Sanaraque	0	
+entry	Sang	3	
 pb	182	0187	7333354
 pb	183	0188	7333355
 pb	184	0189	7333356
-entry	Sang-dragon		
+entry	Sang-dragon	1	
 pb	185	0190	7333357
-entry	Sanglot		
-entry	Sangsue		
+entry	Sanglot	0	
+entry	Sangsue	0	
 pb	186	0191	7333358
-entry	Sangsue 		
+entry	Sangsue 	7	
 pb	187	0192	7333359
 pb	188	0193	7333360
 pb	189	0194	7333361
@@ -336,29 +336,29 @@ pb	191	0196	7333363
 pb	192	0197	7333364
 pb	193	0198	7333365
 pb	194	0199	7333366
-entry	Sangsue		
-entry	Sanguin		
-entry	Sanguinolent		
+entry	Sangsue	0	
+entry	Sanguin	0	
+entry	Sanguinolent	0	
 pb	195	0200	7333367
-entry	Sanicle		
-entry	Sanie		
-entry	Santal		
-entry	Santaline		
+entry	Sanicle	0	
+entry	Sanie	0	
+entry	Santal	0	
+entry	Santaline	1	
 pb	196	0201	7333368
-entry	Santé		
-entry	Santoline		
-entry	Sapa		
-entry	Saphène		
+entry	Santé	0	
+entry	Santoline	0	
+entry	Sapa	0	
+entry	Saphène	1	
 pb	197	0202	7333369
-entry	Sapide		
-entry	Sapidité		
-entry	Sapin 		
+entry	Sapide	0	
+entry	Sapidité	0	
+entry	Sapin 	0	
 pb	198	0203	7333370
-entry	Sapin		
-entry	Saponaire		
-entry	Saponification		
+entry	Sapin	0	
+entry	Saponaire	0	
+entry	Saponification	1	
 pb	199	0204	7333371
-entry	Sarcocèle 		
+entry	Sarcocèle 	6	
 pb	200	0205	7333372
 pb	201	0206	7333373
 pb	202	0207	7333374
@@ -366,49 +366,49 @@ pb	203	0208	7333375
 pb	204	0209	7333376
 pb	205	0210	7333377
 pb	206	0211	7333378
-entry	Sarcocèle		
-entry	Sarcocolle		
-entry	Sarcocolline		
-entry	Sarcome		
-entry	Sardonique		
-entry	Sarriette		
+entry	Sarcocèle	0	
+entry	Sarcocolle	0	
+entry	Sarcocolline	0	
+entry	Sarcome	0	
+entry	Sardonique	0	
+entry	Sarriette	1	
 pb	207	0212	7333379
-entry	Sassafras		
-entry	Saturation		
-entry	Satyriasis		
+entry	Sassafras	0	
+entry	Saturation	0	
+entry	Satyriasis	0	
 pb	208	0213	7333380
-entry	Satyriasis 		
+entry	Satyriasis 	2	
 pb	209	0214	7333381
 pb	210	0215	7333382
 pb	211	0216	7333383
-entry	Satyriasis		
-entry	Sauge		
-entry	Saule		
+entry	Satyriasis	0	
+entry	Sauge	0	
+entry	Saule	1	
 pb	212	0217	7333384
-entry	Saut		
+entry	Saut	0	
 pb	213	0218	7333385
-entry	Saut 		
+entry	Saut 	0	
 pb	214	0219	7333386
-entry	Saut		
-entry	Saveur		
-entry	Savon		
+entry	Saut	0	
+entry	Saveur	0	
+entry	Savon	1	
 pb	215	0220	7333387
-entry	Savonule		
-entry	Saxifrage		
+entry	Savonule	0	
+entry	Saxifrage	0	
 pb	216	0221	7333388
-entry	Scabie		
-entry	Scabieuse		
-entry	Scalène		
+entry	Scabie	0	
+entry	Scabieuse	0	
+entry	Scalène	1	
 pb	217	0222	7333389
-entry	Scalpel		
-entry	Scammonée		
+entry	Scalpel	0	
+entry	Scammonée	1	
 pb	218	0223	7333390
-entry	Scaphoïde		
+entry	Scaphoïde	1	
 pb	219	0224	7333391
-entry	Scaphoïdo-astragalien		
-entry	Scapulaire		
+entry	Scaphoïdo-astragalien	0	
+entry	Scapulaire	1	
 pb	220	0225	7333392
-entry	Scapulo-huméral		
+entry	Scapulo-huméral	18	
 pb	221	0226	7333393
 pb	222	0227	7333394
 pb	223	0228	7333395
@@ -427,11 +427,11 @@ pb	235	0240	7333407
 pb	236	0241	7333408
 pb	237	0242	7333409
 pb	238	0243	7333410
-entry	Scarificateur		
+entry	Scarificateur	1	
 pb	239	0244	7333411
-entry	Scarification		
+entry	Scarification	1	
 pb	240	0245	7333412
-entry	Scarlatine		
+entry	Scarlatine	8	
 pb	241	0246	7333413
 pb	242	0247	7333414
 pb	243	0248	7333415
@@ -440,25 +440,25 @@ pb	245	0250	7333417
 pb	246	0251	7333418
 pb	247	0252	7333419
 pb	248	0253	7333420
-entry	Sciatique		
+entry	Sciatique	1	
 pb	249	0254	7333421
-entry	Scille		
+entry	Scille	1	
 pb	250	0255	7333422
-entry	Scillitine		
+entry	Scillitine	1	
 pb	251	0256	7333423
-entry	Scissure		
-entry	Sclérème		
+entry	Scissure	0	
+entry	Sclérème	0	
 pb	252	0257	7333424
-entry	Sclérème 		
+entry	Sclérème 	1	
 pb	253	0258	7333425
 pb	254	0259	7333426
-entry	Sclérème		
-entry	Sclérotique		
+entry	Sclérème	0	
+entry	Sclérotique	1	
 pb	255	0260	7333427
-entry	Scolopendre		
-entry	Scorbut		
+entry	Scolopendre	0	
+entry	Scorbut	0	
 pb	256	0261	7333428
-entry	Scorbut 		
+entry	Scorbut 	14	
 pb	257	0262	7333429
 pb	258	0263	7333430
 pb	259	0264	7333431
@@ -474,11 +474,11 @@ pb	268	0273	7333440
 pb	269	0274	7333441
 pb	270	0275	7333442
 pb	271	0276	7333443
-entry	Scorbut		
-entry	Scorsonère		
-entry	Scrofulaire		
+entry	Scorbut	0	
+entry	Scorsonère	0	
+entry	Scrofulaire	1	
 pb	272	0277	7333444
-entry	Scrofules		
+entry	Scrofules	22	
 pb	273	0278	7333445
 pb	274	0279	7333446
 pb	275	0280	7333447
@@ -501,146 +501,146 @@ pb	291	0296	7333463
 pb	292	0297	7333464
 pb	293	0298	7333465
 pb	294	0299	7333466
-entry	Scrotum		
+entry	Scrotum	0	
 pb	295	0300	7333467
-entry	Scrotum 		
+entry	Scrotum 	2	
 pb	296	0301	7333468
 pb	297	0302	7333469
 pb	298	0303	7333470
-entry	Scrotum		
-entry	Scutellaire		
+entry	Scrotum	0	
+entry	Scutellaire	1	
 pb	299	0304	7333471
-entry	Sébacé		
-entry	Sébacique		
+entry	Sébacé	0	
+entry	Sébacique	1	
 pb	300	0305	7333472
-entry	Sebeste		
-entry	Secondines		
-entry	Sécrétion		
+entry	Sebeste	0	
+entry	Secondines	0	
+entry	Sécrétion	1	
 pb	301	0306	7333473
-entry	Sédatif		
+entry	Sédatif	0	
 pb	302	0307	7333474
-entry	Sédatif 		
+entry	Sédatif 	0	
 pb	303	0308	7333475
-entry	Sédatif		
-entry	Sédiment		
-entry	Sédon		
+entry	Sédatif	0	
+entry	Sédiment	0	
+entry	Sédon	1	
 pb	304	0309	7333476
-entry	Seigle		
-entry	Sel		
+entry	Seigle	0	
+entry	Sel	1	
 pb	305	0310	7333477
-entry	Séléniate		
-entry	Sélénique		
-entry	Sélénium		
+entry	Séléniate	0	
+entry	Sélénique	0	
+entry	Sélénium	1	
 pb	306	0311	7333478
-entry	Séléniure		
-entry	Séméiotique		
-entry	Semence		
-entry	Semi-lunaire		
-entry	Séminal		
+entry	Séléniure	0	
+entry	Séméiotique	0	
+entry	Semence	0	
+entry	Semi-lunaire	0	
+entry	Séminal	1	
 pb	307	0312	7333479
-entry	Séné		
+entry	Séné	1	
 pb	308	0313	7333480
-entry	Séneçon		
+entry	Séneçon	1	
 pb	309	0314	7333481
-entry	Seneka		
-entry	Sens		
+entry	Seneka	0	
+entry	Sens	1	
 pb	310	0315	7333482
-entry	Sensation		
-entry	Sensibilité		
+entry	Sensation	0	
+entry	Sensibilité	5	
 pb	311	0316	7333483
 pb	312	0317	7333484
 pb	313	0318	7333485
 pb	314	0319	7333486
 pb	315	0320	7333487
-entry	Sensible		
-entry	Sensitif		
-entry	Sentiment		
-entry	Septique		
-entry	Septum		
-entry	Séquestration		
+entry	Sensible	0	
+entry	Sensitif	0	
+entry	Sentiment	0	
+entry	Septique	0	
+entry	Septum	0	
+entry	Séquestration	0	
 pb	316	0321	7333488
-entry	Séquestration 		
+entry	Séquestration 	0	
 pb	317	0322	7333489
-entry	Séquestre		
-entry	Serein		
-entry	Séreux		
+entry	Séquestre	0	
+entry	Serein	0	
+entry	Séreux	0	
 pb	318	0323	7333490
-entry	Séreux 		
+entry	Séreux 	4	
 pb	319	0324	7333491
 pb	320	0325	7333492
 pb	321	0326	7333493
 pb	322	0327	7333494
 pb	323	0328	7333495
-entry	Séreux		
-entry	Sérosité		
+entry	Séreux	0	
+entry	Sérosité	1	
 pb	324	0329	7333496
-entry	Serpentaire		
-entry	Serpentin		
-entry	Serpigineux		
-entry	Serpolet		
+entry	Serpentaire	0	
+entry	Serpentin	0	
+entry	Serpigineux	0	
+entry	Serpolet	1	
 pb	325	0330	7333497
-entry	Serré		
-entry	Serre-noeud		
-entry	Sésame		
-entry	Sésamoïde		
+entry	Serré	0	
+entry	Serre-noeud	0	
+entry	Sésame	0	
+entry	Sésamoïde	1	
 pb	326	0331	7333498
-entry	Séton		
+entry	Séton	3	
 pb	327	0332	7333499
 pb	328	0333	7333500
 pb	329	0334	7333501
-entry	Sevrage		
+entry	Sevrage	1	
 pb	330	0335	7333502
-entry	Sexe		
-entry	Sextane		
-entry	Sialalogue		
+entry	Sexe	0	
+entry	Sextane	0	
+entry	Sialalogue	1	
 pb	331	0336	7333503
-entry	Sidération		
-entry	Sibbens		
+entry	Sidération	0	
+entry	Sibbens	0	
 pb	332	0337	7333504
-entry	Sibbens 		
+entry	Sibbens 	0	
 pb	333	0338	7333505
-entry	Sibbens		
-entry	Sifflant		
-entry	Sifflement		
+entry	Sibbens	0	
+entry	Sifflant	0	
+entry	Sifflement	1	
 pb	334	0339	7333506
-entry	Sigillé		
-entry	Sigmoïde		
-entry	Signature		
-entry	Signe		
+entry	Sigillé	0	
+entry	Sigmoïde	0	
+entry	Signature	0	
+entry	Signe	1	
 pb	335	0340	7333507
-entry	Silice		
-entry	Silicium		
-entry	Simarouba		
+entry	Silice	0	
+entry	Silicium	0	
+entry	Simarouba	0	
 pb	336	0341	7333508
-entry	Simaroube		
-entry	Simple		
-entry	Sinapisme		
+entry	Simaroube	0	
+entry	Simple	0	
+entry	Sinapisme	1	
 pb	337	0342	7333509
-entry	Sinciput		
-entry	Singultueux		
-entry	Sinus		
+entry	Sinciput	0	
+entry	Singultueux	0	
+entry	Sinus	1	
 pb	338	0343	7333510
-entry	Sirop		
-entry	Sison		
-entry	Sodium		
+entry	Sirop	0	
+entry	Sison	0	
+entry	Sodium	1	
 pb	339	0344	7333511
-entry	Soif		
+entry	Soif	3	
 pb	340	0345	7333512
 pb	341	0346	7333513
 pb	342	0347	7333514
 pb	343	0348	7333515
-entry	Solaire		
-entry	Soldanelle		
-entry	Soléaire		
+entry	Solaire	0	
+entry	Soldanelle	0	
+entry	Soléaire	1	
 pb	344	0349	7333516
-entry	Solidisme		
+entry	Solidisme	1	
 pb	345	0350	7333517
-entry	Solubilité		
+entry	Solubilité	1	
 pb	346	0351	7333518
-entry	Solution		
-entry	Sommeil		
+entry	Solution	0	
+entry	Sommeil	0	
 pb	347	0352	7333519
-entry	Sommeil 		
+entry	Sommeil 	7	
 pb	348	0353	7333520
 pb	349	0354	7333521
 pb	350	0355	7333522
@@ -649,137 +649,137 @@ pb	352	0357	7333524
 pb	353	0358	7333525
 pb	354	0359	7333526
 pb	355	0360	7333527
-entry	Sommeil		
-entry	Somnambulisme		
+entry	Sommeil	0	
+entry	Somnambulisme	2	
 pb	356	0361	7333528
 pb	357	0362	7333529
-entry	Somnolence		
-entry	Son		
+entry	Somnolence	0	
+entry	Son	0	
 pb	358	0363	7333530
-entry	Son 		
+entry	Son 	0	
 pb	359	0364	7333531
-entry	Son		
-entry	Sonde		
+entry	Son	0	
+entry	Sonde	0	
 pb	360	0365	7333532
-entry	Sonde 		
+entry	Sonde 	1	
 pb	361	0366	7333533
 pb	362	0367	7333534
-entry	Sonde		
-entry	Soporeux		
-entry	Sorbate		
-entry	Sorbier		
+entry	Sonde	0	
+entry	Soporeux	0	
+entry	Sorbate	0	
+entry	Sorbier	1	
 pb	363	0368	7333535
-entry	Sorbique		
-entry	Sordide		
-entry	Soubresaut		
-entry	Souchet		
+entry	Sorbique	0	
+entry	Sordide	0	
+entry	Soubresaut	0	
+entry	Souchet	1	
 pb	364	0369	7333536
-entry	Souci		
-entry	Soude		
-entry	Soufre		
+entry	Souci	0	
+entry	Soude	0	
+entry	Soufre	0	
 pb	365	0370	7333537
-entry	Soufre 		
+entry	Soufre 	1	
 pb	366	0371	7333538
 pb	367	0372	7333539
-entry	Soufre		
-entry	Soupir		
-entry	Sourcil		
+entry	Soufre	0	
+entry	Soupir	0	
+entry	Sourcil	0	
 pb	368	0373	7333540
-entry	Sourcil 		
+entry	Sourcil 	0	
 pb	369	0374	7333541
-entry	Sourcil		
-entry	Sourcilier		
+entry	Sourcil	0	
+entry	Sourcilier	0	
 pb	370	0375	7333542
-entry	Sourd		
-entry	Sous-clavier		
+entry	Sourd	0	
+entry	Sous-clavier	0	
 pb	371	0376	7333543
-entry	Sous-clavier 		
+entry	Sous-clavier 	3	
 pb	372	0377	7333544
 pb	373	0378	7333545
 pb	374	0379	7333546
 pb	375	0380	7333547
-entry	Sous-occipital		
+entry	Sous-occipital	0	
 pb	376	0381	7333548
-entry	Sous-orbitaire		
+entry	Sous-orbitaire	2	
 pb	377	0382	7333549
 pb	378	0383	7333550
-entry	Sparadrap		
-entry	Sparadrapier		
+entry	Sparadrap	0	
+entry	Sparadrapier	1	
 pb	379	0384	7333551
-entry	Spasme		
+entry	Spasme	1	
 pb	380	0385	7333552
-entry	Spatule		
-entry	Spécifique		
+entry	Spatule	0	
+entry	Spécifique	1	
 pb	381	0386	7333553
-entry	Speculum		
-entry	Spermatique		
+entry	Speculum	0	
+entry	Spermatique	0	
 pb	382	0387	7333554
-entry	Spermatique 		
+entry	Spermatique 	0	
 pb	383	0388	7333555
-entry	Spermatique		
-entry	Spermatocèle		
-entry	Spermatope		
+entry	Spermatique	0	
+entry	Spermatocèle	0	
+entry	Spermatope	1	
 pb	384	0389	7333556
-entry	Spermatorrhée		
-entry	Sperme		
+entry	Spermatorrhée	0	
+entry	Sperme	0	
 pb	385	0390	7333557
-entry	Sphacèle		
-entry	Sphéno-épineux		
-entry	Sphénoïdal		
+entry	Sphacèle	0	
+entry	Sphéno-épineux	0	
+entry	Sphénoïdal	1	
 pb	386	0391	7333558
-entry	Sphénoïde		
+entry	Sphénoïde	3	
 pb	387	0392	7333559
 pb	388	0393	7333560
 pb	389	0394	7333561
-entry	Sphéno-maxillaire		
-entry	Sphéno-occipital		
-entry	Sphéno-orbitaire		
+entry	Sphéno-maxillaire	0	
+entry	Sphéno-occipital	0	
+entry	Sphéno-orbitaire	1	
 pb	390	0395	7333562
-entry	Sphéno-palatin		
+entry	Sphéno-palatin	1	
 pb	391	0396	7333563
-entry	Sphincter		
-entry	Spica		
+entry	Sphincter	0	
+entry	Spica	1	
 pb	392	0397	7333564
-entry	Spigelie		
+entry	Spigelie	1	
 pb	393	0398	7333565
-entry	Spina bifida		
+entry	Spina bifida	0	
 pb	394	0399	7333566
-entry	Spina bifida 		
+entry	Spina bifida 	0	
 pb	395	0400	7333567
-entry	Spina bifida		
-entry	Spina ventosa		
+entry	Spina bifida	0	
+entry	Spina ventosa	0	
 pb	396	0401	7333568
-entry	Spina ventosa 		
+entry	Spina ventosa 	1	
 pb	397	0402	7333569
 pb	398	0403	7333570
-entry	Spina ventosa		
-entry	Spinal		
+entry	Spina ventosa	0	
+entry	Spinal	1	
 pb	399	0404	7333571
-entry	Spinite		
+entry	Spinite	5	
 pb	400	0405	7333572
 pb	401	0406	7333573
 pb	402	0407	7333574
 pb	403	0408	7333575
 pb	404	0409	7333576
-entry	Splanchnique		
-entry	Splénite		
+entry	Splanchnique	0	
+entry	Splénite	0	
 pb	405	0410	7333577
-entry	Splénite 		
+entry	Splénite 	1	
 pb	406	0411	7333578
 pb	407	0412	7333579
-entry	Splénite		
-entry	Splénius		
+entry	Splénite	0	
+entry	Splénius	1	
 pb	408	0413	7333580
-entry	Spoliatif		
-entry	Spongieux		
-entry	Spontané		
-entry	Sporadique		
-entry	Spuition		
+entry	Spoliatif	0	
+entry	Spongieux	0	
+entry	Spontané	0	
+entry	Sporadique	0	
+entry	Spuition	1	
 pb	409	0414	7333581
-entry	Sputation		
-entry	Squameux		
-entry	Squelette		
-entry	Squelettopée		
+entry	Sputation	0	
+entry	Squameux	0	
+entry	Squelette	0	
+entry	Squelettopée	10	
 pb	410	0415	7333582
 pb	411	0416	7333583
 pb	412	0417	7333584
@@ -791,22 +791,22 @@ pb	417	0422	7333589
 pb	418	0423	7333590
 pb	419	0424	7333591
 pb	420	0425	7333592
-entry	Squine		
-entry	Squirrhe		
+entry	Squine	0	
+entry	Squirrhe	0	
 pb	421	0426	7333593
-entry	Squirrhe 		
+entry	Squirrhe 	1	
 pb	422	0427	7333594
 pb	423	0428	7333595
-entry	Squirrhe		
-entry	Stachide		
-entry	Stahlianisme		
+entry	Squirrhe	0	
+entry	Stachide	0	
+entry	Stahlianisme	0	
 pb	424	0429	7333596
-entry	Stahlianisme 		
+entry	Stahlianisme 	0	
 pb	425	0430	7333597
-entry	Stahlianisme		
-entry	Staphylome		
+entry	Stahlianisme	0	
+entry	Staphylome	1	
 pb	426	0431	7333598
-entry	Staphyloraphie		
+entry	Staphyloraphie	8	
 pb	427	0432	7333599
 pb	428	0433	7333600
 pb	429	0434	7333601
@@ -815,194 +815,194 @@ pb	431	0436	7333603
 pb	432	0437	7333604
 pb	433	0438	7333605
 pb	434	0439	7333606
-entry	Stase		
-entry	Station		
+entry	Stase	0	
+entry	Station	0	
 pb	435	0440	7333607
-entry	Station 		
+entry	Station 	3	
 pb	436	0441	7333608
 pb	437	0442	7333609
 pb	438	0443	7333610
 pb	439	0444	7333611
-entry	Station		
-entry	Stature		
-entry	Stéarate		
-entry	Stéarine		
-entry	Stéarique		
-entry	Stéatome		
-entry	Sténocardie		
+entry	Station	0	
+entry	Stature	0	
+entry	Stéarate	0	
+entry	Stéarine	0	
+entry	Stéarique	0	
+entry	Stéatome	0	
+entry	Sténocardie	0	
 pb	440	0445	7333612
-entry	Stérilité		
+entry	Stérilité	1	
 pb	441	0446	7333613
-entry	Sternalgie		
+entry	Sternalgie	0	
 pb	442	0447	7333614
-entry	Sternalgie 		
+entry	Sternalgie 	0	
 pb	443	0448	7333615
-entry	Sternalgie		
-entry	Sterno-cléido-mastoïdien		
+entry	Sternalgie	0	
+entry	Sterno-cléido-mastoïdien	0	
 pb	444	0449	7333616
-entry	Sterno-hyoïdien		
-entry	Sterno-thyroïdien		
-entry	Sternum		
+entry	Sterno-hyoïdien	0	
+entry	Sterno-thyroïdien	0	
+entry	Sternum	0	
 pb	445	0450	7333617
-entry	Sternum 		
+entry	Sternum 	3	
 pb	446	0451	7333618
 pb	447	0452	7333619
 pb	448	0453	7333620
 pb	449	0454	7333621
-entry	Sternum		
-entry	Sternutatoire		
+entry	Sternum	0	
+entry	Sternutatoire	1	
 pb	450	0455	7333622
-entry	Stéthoscope		
+entry	Stéthoscope	1	
 pb	451	0456	7333623
-entry	Sthénie		
+entry	Sthénie	1	
 pb	452	0457	7333624
-entry	Stimulant		
-entry	Stoechiométrie		
-entry	Stomacace		
-entry	Stomacal		
+entry	Stimulant	0	
+entry	Stoechiométrie	0	
+entry	Stomacace	0	
+entry	Stomacal	1	
 pb	453	0458	7333625
-entry	Stomachique		
-entry	Storax		
+entry	Stomachique	0	
+entry	Storax	1	
 pb	454	0459	7333626
-entry	Strabisme		
-entry	Stramoine		
+entry	Strabisme	0	
+entry	Stramoine	0	
 pb	455	0460	7333627
-entry	Stramoine 		
+entry	Stramoine 	0	
 pb	456	0461	7333628
-entry	Stramoine		
-entry	Strangulation		
+entry	Stramoine	0	
+entry	Strangulation	4	
 pb	457	0462	7333629
 pb	458	0463	7333630
 pb	459	0464	7333631
 pb	460	0465	7333632
-entry	Strangurie		
-entry	Strié		
+entry	Strangurie	0	
+entry	Strié	1	
 pb	461	0466	7333633
-entry	Strontiane		
-entry	Strontium		
-entry	Strume		
-entry	Strychnate		
-entry	Strychnine		
-entry	Strychnique		
+entry	Strontiane	0	
+entry	Strontium	0	
+entry	Strume	0	
+entry	Strychnate	0	
+entry	Strychnine	0	
+entry	Strychnique	0	
 pb	462	0467	7333634
-entry	Stupéfiant		
-entry	Stupeur		
-entry	Stylet		
-entry	Stylo-glosse		
-entry	Stylo-hyoïdien		
+entry	Stupéfiant	0	
+entry	Stupeur	0	
+entry	Stylet	0	
+entry	Stylo-glosse	0	
+entry	Stylo-hyoïdien	1	
 pb	463	0468	7333635
-entry	Styloïde		
-entry	Stylo-mastoïdien		
-entry	Stylo-maxillaire		
-entry	Stylo-pharyngien		
-entry	Styrax		
+entry	Styloïde	0	
+entry	Stylo-mastoïdien	0	
+entry	Stylo-maxillaire	0	
+entry	Stylo-pharyngien	0	
+entry	Styrax	1	
 pb	464	0469	7333636
-entry	Subérate		
-entry	Subérine		
-entry	Subérique		
-entry	Sub-inflammation		
+entry	Subérate	0	
+entry	Subérine	0	
+entry	Subérique	0	
+entry	Sub-inflammation	1	
 pb	465	0470	7333637
-entry	Subintrant		
+entry	Subintrant	1	
 pb	466	0471	7333638
-entry	Sublimation		
-entry	Sublimé		
-entry	Sublime		
+entry	Sublimation	0	
+entry	Sublimé	0	
+entry	Sublime	1	
 pb	467	0472	7333639
-entry	Sublingual		
-entry	Submental		
+entry	Sublingual	0	
+entry	Submental	1	
 pb	468	0473	7333640
-entry	Submersion 		
+entry	Submersion 	1	
 pb	469	0474	7333641
 pb	470	0475	7333642
-entry	Submersion		
-entry	Suc		
+entry	Submersion	0	
+entry	Suc	1	
 pb	471	0476	7333643
-entry	Succédané		
+entry	Succédané	1	
 pb	472	0477	7333644
-entry	Succenturiaux		
-entry	Succin		
+entry	Succenturiaux	0	
+entry	Succin	1	
 pb	473	0478	7333645
-entry	Succinate		
-entry	Succinique		
+entry	Succinate	0	
+entry	Succinique	0	
 pb	474	0479	7333646
-entry	Succinite		
-entry	Succion		
-entry	Succussion		
-entry	Sucre		
+entry	Succinite	0	
+entry	Succion	0	
+entry	Succussion	0	
+entry	Sucre	0	
 pb	475	0480	7333647
-entry	Sucre 		
+entry	Sucre 	1	
 pb	476	0481	7333648
 pb	477	0482	7333649
-entry	Sucre		
-entry	Sudorifique		
+entry	Sucre	0	
+entry	Sudorifique	1	
 pb	478	0483	7333650
-entry	Suette		
+entry	Suette	6	
 pb	479	0484	7333651
 pb	480	0485	7333652
 pb	481	0486	7333653
 pb	482	0487	7333654
 pb	483	0488	7333655
 pb	484	0489	7333656
-entry	Sueur		
+entry	Sueur	0	
 pb	485	0490	7333657
-entry	Sueur 		
+entry	Sueur 	1	
 pb	486	0491	7333658
 pb	487	0492	7333659
-entry	Sueur		
-entry	Suffocant		
-entry	Suffocation		
+entry	Sueur	0	
+entry	Suffocant	0	
+entry	Suffocation	1	
 pb	488	0493	7333660
-entry	Suffusion		
-entry	Sugillation		
-entry	Suicide		
+entry	Suffusion	0	
+entry	Sugillation	0	
+entry	Suicide	0	
 pb	489	0494	7333661
-entry	Suicide 		
+entry	Suicide 	3	
 pb	490	0495	7333662
 pb	491	0496	7333663
 pb	492	0497	7333664
 pb	493	0498	7333665
-entry	Suicide		
-entry	Suif		
-entry	Suint		
+entry	Suicide	0	
+entry	Suif	0	
+entry	Suint	0	
 pb	494	0499	7333666
-entry	Suintement		
-entry	Sulfate		
+entry	Suintement	0	
+entry	Sulfate	0	
 pb	495	0500	7333667
-entry	Sulfate 		
+entry	Sulfate 	2	
 pb	496	0501	7333668
 pb	497	0502	7333669
 pb	498	0503	7333670
-entry	Sulfate		
-entry	Sulfite		
+entry	Sulfate	0	
+entry	Sulfite	1	
 pb	499	0504	7333671
-entry	Sulfo-cyanique		
-entry	Sulfure		
+entry	Sulfo-cyanique	0	
+entry	Sulfure	0	
 pb	500	0505	7333672
-entry	Sulfure 		
+entry	Sulfure 	1	
 pb	501	0506	7333673
 pb	502	0507	7333674
-entry	Sulfure		
-entry	Sulfureux		
-entry	Sulfurique		
+entry	Sulfure	0	
+entry	Sulfureux	0	
+entry	Sulfurique	1	
 pb	503	0508	7333675
-entry	Sumac		
-entry	Superfétation		
+entry	Sumac	0	
+entry	Superfétation	1	
 pb	504	0509	7333676
-entry	Superpurgation		
-entry	Supinateur		
+entry	Superpurgation	0	
+entry	Supinateur	1	
 pb	505	0510	7333677
-entry	Supination		
-entry	Suppuratif		
-entry	Suppuration		
+entry	Supination	0	
+entry	Suppuratif	0	
+entry	Suppuration	0	
 pb	506	0511	7333678
-entry	Suppuration 		
+entry	Suppuration 	0	
 pb	507	0512	7333679
-entry	Suppuration		
-entry	Sural		
-entry	Surcostal		
-entry	Surdent		
+entry	Suppuration	0	
+entry	Sural	0	
+entry	Surcostal	0	
+entry	Surdent	0	
 pb	508	0513	7333680
-entry	Surdité		
+entry	Surdité	10	
 pb	509	0514	7333681
 pb	510	0515	7333682
 pb	511	0516	7333683
@@ -1013,34 +1013,34 @@ pb	515	0520	7333687
 pb	516	0521	7333688
 pb	517	0522	7333689
 pb	518	0523	7333690
-entry	Sureau		
-entry	Surexcitabilité		
+entry	Sureau	0	
+entry	Surexcitabilité	1	
 pb	519	0524	7333691
-entry	Surexcitation		
-entry	Surrénal		
+entry	Surexcitation	0	
+entry	Surrénal	1	
 pb	520	0525	7333692
-entry	Survie		
-entry	Sus-acromien		
+entry	Survie	0	
+entry	Sus-acromien	0	
 pb	521	0526	7333693
-entry	Sous-claviculaire		
-entry	Sus-épineux		
-entry	Sous-orbitaire		
-entry	Suspensoire		
+entry	Sous-claviculaire	0	
+entry	Sus-épineux	0	
+entry	Sous-orbitaire	0	
+entry	Suspensoire	1	
 pb	522	0527	7333694
-entry	Suspirieux		
-entry	Sus-scapulaire		
-entry	Suture		
+entry	Suspirieux	0	
+entry	Sus-scapulaire	0	
+entry	Suture	0	
 pb	523	0528	7333695
-entry	Suture 		
+entry	Suture 	2	
 pb	524	0529	7333696
 pb	525	0530	7333697
 pb	526	0531	7333698
-entry	Suture		
-entry	Symétrie		
+entry	Suture	0	
+entry	Symétrie	3	
 pb	527	0532	7333699
 pb	528	0533	7333700
 pb	529	0534	7333701
-entry	Sympathie		
+entry	Sympathie	14	
 pb	530	0535	7333702
 pb	531	0536	7333703
 pb	532	0537	7333704
@@ -1055,10 +1055,10 @@ pb	540	0545	7333712
 pb	541	0546	7333713
 pb	542	0547	7333714
 pb	543	0548	7333715
-entry	Sympathique		
-entry	Symphyse		
+entry	Sympathique	0	
+entry	Symphyse	0	
 pb	544	0549	7333716
-entry	Symphyséotomie		
+entry	Symphyséotomie	10	
 pb	545	0550	7333717
 pb	546	0551	7333718
 pb	547	0552	7333719
@@ -1069,29 +1069,29 @@ pb	551	0556	7333723
 pb	552	0557	7333724
 pb	553	0558	7333725
 pb	554	0559	7333726
-entry	Symptomatique		
-entry	Symptomatisme		
+entry	Symptomatique	0	
+entry	Symptomatisme	1	
 pb	555	0560	7333727
-entry	Symptôme		
+entry	Symptôme	0	
 pb	556	0561	7333728
-entry	Symptôme 		
+entry	Symptôme 	0	
 pb	557	0562	7333729
-entry	Symptôme		
-entry	Synarthrose		
-entry	Synchondrose		
-entry	Syncopal		
+entry	Symptôme	0	
+entry	Synarthrose	0	
+entry	Synchondrose	0	
+entry	Syncopal	1	
 pb	558	0563	7333730
-entry	Syncope		
+entry	Syncope	4	
 pb	559	0564	7333731
 pb	560	0565	7333732
 pb	561	0566	7333733
 pb	562	0567	7333734
-entry	Syncranien		
-entry	Syndrome		
-entry	Synéchie		
-entry	Synergie		
+entry	Syncranien	0	
+entry	Syndrome	0	
+entry	Synéchie	0	
+entry	Synergie	0	
 pb	563	0568	7333735
-entry	Synoque		
+entry	Synoque	11	
 pb	564	0569	7333736
 pb	565	0570	7333737
 pb	566	0571	7333738
@@ -1103,28 +1103,28 @@ pb	571	0576	7333743
 pb	572	0577	7333744
 pb	573	0578	7333745
 pb	574	0579	7333746
-entry	Synovial		
+entry	Synovial	0	
 pb	575	0580	7333747
-entry	Synovial 		
+entry	Synovial 	1	
 pb	576	0581	7333748
 pb	577	0582	7333749
-entry	Synovial		
-entry	Synovie		
-entry	Synthèse 		
+entry	Synovial	0	
+entry	Synovie	0	
+entry	Synthèse 	0	
 pb	578	0583	7333750
-entry	Synthèse		
-entry	Synthétisme		
-entry	Syphilide		
-entry	Syphilis		
-entry	Syringotomie		
-entry	Syssarcose		
-entry	Systaltique		
-entry	Systématisme		
+entry	Synthèse	0	
+entry	Synthétisme	0	
+entry	Syphilide	0	
+entry	Syphilis	0	
+entry	Syringotomie	0	
+entry	Syssarcose	0	
+entry	Systaltique	0	
+entry	Systématisme	0	
 pb	579	0584	7333751
-entry	Systématisme 		
+entry	Systématisme 	2	
 pb	580	0585	7333752
 pb	581	0586	7333753
 pb	582	0587	7333754
-entry	Systématisme		
-entry	Système		
-entry	Systole		
+entry	Systématisme	0	
+entry	Système	0	
+entry	Systole	0	

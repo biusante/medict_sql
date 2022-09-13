@@ -1,68 +1,68 @@
 pb	[s. pag.]	0001	5556932
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556933
 pb	[s. pag.]	0003	404149
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556934
 pb	1	0005	404150
-entry	chaste		
-entry	chasteté		
+entry	chaste	0	
+entry	chasteté	3	
 pb	2	0006	404151
 pb	3	0007	404152
 pb	4	0008	404153
-entry	châtaigner		
+entry	châtaigner	3	
 pb	5	0009	404154
 pb	6	0010	404155
 pb	7	0011	404156
-entry	chatonné		
+entry	chatonné	2	
 pb	8	0012	404157
 pb	9	0013	404158
-entry	chatouillement		
+entry	chatouillement	1	
 pb	10	0014	404159
-entry	chatouilleux		
-entry	chatré		
-entry	chaude-pisse		
-entry	chauffage		
+entry	chatouilleux	0	
+entry	chatré	0	
+entry	chaude-pisse	0	
+entry	chauffage	1	
 pb	11	0015	404160
-entry	chaufferette		
+entry	chaufferette	1	
 pb	12	0016	404161
-entry	chausse d'Hippocrate		
-entry	chausse-trape		
+entry	chausse d'Hippocrate	0	
+entry	chausse-trape	1	
 pb	13	0017	404162
-entry	chaussure		
+entry	chaussure	2	
 pb	14	0018	404163
 pb	15	0019	404164
-entry	chauveté		
-entry	chaux		
+entry	chauveté	0	
+entry	chaux	3	
 pb	16	0020	404165
 pb	17	0021	404166
 pb	18	0022	404167
-entry	chef		
-entry	chélidoine		
+entry	chef	0	
+entry	chélidoine	3	
 pb	19	0023	404168
 pb	20	0024	404169
 pb	21	0025	404170
-entry	.chémosis		
+entry	.chémosis	0	
 pb	22	0026	404171
-entry	chêne		
+entry	chêne	4	
 pb	23	0027	404172
 pb	24	0028	404173
 pb	25	0029	404174
 pb	26	0030	404175
-entry	chenevis		
-entry	chenopodées		
+entry	chenevis	0	
+entry	chenopodées	1	
 pb	27	0031	404176
-entry	chervi		
-entry	chevauchement		
+entry	chervi	0	
+entry	chevauchement	1	
 pb	28	0032	404177
-entry	chevelure		
+entry	chevelure	5	
 pb	29	0033	404178
 pb	30	0034	404179
 pb	31	0035	404180
 pb	32	0036	404181
 pb	33	0037	404182
-entry	chevêtre		
-entry	cheveu		
+entry	chevêtre	0	
+entry	cheveu	7	
 pb	34	0038	404183
 pb	35	0039	404184
 pb	36	0040	404185
@@ -70,20 +70,20 @@ pb	37	0041	404186
 pb	38	0042	404187
 pb	39	0043	404188
 pb	40	0044	404189
-entry	cheville		
-entry	chèvre		
+entry	cheville	0	
+entry	chèvre	1	
 pb	41	0045	404190
-entry	chèvre-feuille		
-entry	chicoracées		
+entry	chèvre-feuille	0	
+entry	chicoracées	1	
 pb	42	0046	404191
-entry	chicorée		
+entry	chicorée	1	
 pb	43	0047	404192
-entry	chiendent		
+entry	chiendent	1	
 pb	44	0048	404193
-entry	chilon		
-entry	chimiatre		
-entry	chimiatrie		
-entry	chimie		
+entry	chilon	0	
+entry	chimiatre	0	
+entry	chimiatrie	0	
+entry	chimie	16	
 pb	45	0049	404194
 pb	46	0050	404195
 pb	47	0051	404196
@@ -100,10 +100,10 @@ pb	57	0061	404206
 pb	58	0062	404207
 pb	59	0063	404208
 pb	60	0064	404209
-entry	chique		
+entry	chique	1	
 pb	61	0065	404210
-entry	chiragre		
-entry	chiromancie		
+entry	chiragre	0	
+entry	chiromancie	9	
 pb	62	0066	404211
 pb	63	0067	404212
 pb	64	0068	404213
@@ -113,21 +113,21 @@ pb	67	0071	404216
 pb	68	0072	404217
 pb	69	0073	404218
 pb	70	0074	404219
-entry	chironien		
-entry	chirurgicale (anatomie)		
+entry	chironien	0	
+entry	chirurgicale (anatomie)	0	
 pb	[s. pag.]	0075	5556935
 pb	[s. pag.]	0076	404220
-entry	chiromancie : planche		
+entry	chiromancie : planche	0	
 pb	[s. pag.]	0077	404221
-entry	chiromancie. Explication de la planche		
+entry	chiromancie. Explication de la planche	0	
 pb	[s. pag.]	0078	5556936
 pb	71	0079	404222
-entry	chirurgicale (anatomie)		
+entry	chirurgicale (anatomie)	4	
 pb	72	0080	404223
 pb	73	0081	404224
 pb	74	0082	404225
 pb	75	0083	404226
-entry	chirurgicales (maladies)		
+entry	chirurgicales (maladies)	7	
 pb	76	0084	404227
 pb	77	0085	404228
 pb	78	0086	404229
@@ -135,10 +135,10 @@ pb	79	0087	404230
 pb	80	0088	404231
 pb	81	0089	404232
 pb	82	0090	404233
-entry	chirurgicales (opérations)		
+entry	chirurgicales (opérations)	2	
 pb	83	0091	404234
 pb	84	0092	404235
-entry	chirurgie		
+entry	chirurgie	24	
 pb	85	0093	404236
 pb	86	0094	404237
 pb	87	0095	404238
@@ -165,22 +165,22 @@ pb	107	0115	404258
 pb	108	0116	404259
 pb	[s. pag.]	0117	5556937
 pb	[s. pag.]	0118	404260
-entry	ambulance de M. le baron Percy : planche		
+entry	ambulance de M. le baron Percy : planche	0	
 pb	[s. pag.]	0119	404261
-entry	ambulance de M. le baron Percy		
+entry	ambulance de M. le baron Percy	0	
 pb	[s. pag.]	0120	5556938
 pb	[s. pag.]	0121	5556939
 pb	[s. pag.]	0122	404262
-entry	ambulance de M. le baron Larrey. Explication de la planche		
+entry	ambulance de M. le baron Larrey. Explication de la planche	0	
 pb	[s. pag.]	0123	404263
-entry	ambulance de M. le baron Larrey : planche		
+entry	ambulance de M. le baron Larrey : planche	0	
 pb	[s. pag.]	0124	5556940
 pb	109	0125	404264
-entry	chirurgie		
+entry	chirurgie	3	
 pb	110	0126	404265
 pb	111	0127	404266
 pb	112	0128	404267
-entry	chirurgien		
+entry	chirurgien	17	
 pb	113	0129	404268
 pb	114	0130	404269
 pb	115	0131	404270
@@ -198,7 +198,7 @@ pb	126	0142	404281
 pb	127	0143	404282
 pb	128	0144	404283
 pb	129	0145	404284
-entry	chlorose		
+entry	chlorose	8	
 pb	130	0146	404285
 pb	131	0147	404286
 pb	132	0148	404287
@@ -207,28 +207,28 @@ pb	134	0150	404289
 pb	135	0151	404290
 pb	136	0152	404291
 pb	137	0153	404292
-entry	choc		
-entry	chocolat		
+entry	choc	0	
+entry	chocolat	4	
 pb	138	0154	404293
 pb	139	0155	404294
 pb	140	0156	404295
 pb	141	0157	404296
-entry	cholagogue		
+entry	cholagogue	1	
 pb	142	0158	404297
-entry	cholédoque		
+entry	cholédoque	0	
 pb	143	0159	404298
-entry	cholera		
+entry	cholera	5	
 pb	144	0160	404299
 pb	145	0161	404300
 pb	146	0162	404301
 pb	147	0163	404302
 pb	148	0164	404303
-entry	cholérique		
-entry	cholose		
-entry	chondrographie		
-entry	chordapse		
+entry	cholérique	0	
+entry	cholose	0	
+entry	chondrographie	0	
+entry	chordapse	1	
 pb	149	0165	404304
-entry	chorée		
+entry	chorée	9	
 pb	150	0166	404305
 pb	151	0167	404306
 pb	152	0168	404307
@@ -238,60 +238,60 @@ pb	155	0171	404310
 pb	156	0172	404311
 pb	157	0173	404312
 pb	158	0174	404313
-entry	chorion		
+entry	chorion	1	
 pb	159	0175	404314
-entry	choroide		
+entry	choroide	1	
 pb	160	0176	404315
-entry	choroidien		
-entry	chose		
+entry	choroidien	0	
+entry	chose	4	
 pb	161	0177	404316
 pb	162	0178	404317
 pb	163	0179	404318
 pb	164	0180	404319
-entry	chou		
+entry	chou	6	
 pb	165	0181	404320
 pb	166	0182	404321
 pb	167	0183	404322
 pb	168	0184	404323
 pb	169	0185	404324
 pb	170	0186	404325
-entry	chou-fleur		
+entry	chou-fleur	0	
 pb	171	0187	404326
-entry	chronique (maladies chroniques)		
+entry	chronique (maladies chroniques)	6	
 pb	172	0188	404327
 pb	173	0189	404328
 pb	174	0190	404329
 pb	175	0191	404330
 pb	176	0192	404331
 pb	177	0193	404332
-entry	chronogunée		
-entry	chryside		
+entry	chronogunée	0	
+entry	chryside	1	
 pb	178	0194	404333
-entry	chrysocolle		
-entry	chrysomèle		
-entry	chrysopée		
+entry	chrysocolle	0	
+entry	chrysomèle	0	
+entry	chrysopée	1	
 pb	179	0195	404334
-entry	chute		
+entry	chute	1	
 pb	180	0196	404335
-entry	chylaire		
-entry	chyle		
+entry	chylaire	0	
+entry	chyle	1	
 pb	181	0197	404336
-entry	chyleux		
-entry	chylifère		
-entry	chylification		
+entry	chyleux	0	
+entry	chylifère	0	
+entry	chylification	1	
 pb	182	0198	404337
-entry	chylose		
-entry	chyme		
-entry	cicatrice		
+entry	chylose	0	
+entry	chyme	0	
+entry	cicatrice	1	
 pb	183	0199	404338
-entry	cicatricule		
-entry	cicatrisant		
-entry	cicatrisation		
+entry	cicatricule	0	
+entry	cicatrisant	0	
+entry	cicatrisation	3	
 pb	184	0200	404339
 pb	185	0201	404340
 pb	186	0202	404341
-entry	cicutaire		
-entry	cidre		
+entry	cicutaire	0	
+entry	cidre	15	
 pb	187	0203	404342
 pb	188	0204	404343
 pb	189	0205	404344
@@ -307,7 +307,7 @@ pb	198	0214	404353
 pb	199	0215	404354
 pb	200	0216	404355
 pb	201	0217	404356
-entry	ciguë		
+entry	ciguë	17	
 pb	202	0218	404357
 pb	203	0219	404358
 pb	204	0220	404359
@@ -325,32 +325,32 @@ pb	215	0231	404370
 pb	216	0232	404371
 pb	217	0233	404372
 pb	218	0234	404373
-entry	cil		
+entry	cil	1	
 pb	219	0235	404374
-entry	ciliaire		
+entry	ciliaire	1	
 pb	220	0236	404375
-entry	cillement		
+entry	cillement	1	
 pb	221	0237	404376
-entry	cimetière		
-entry	cimolée		
-entry	cinabre		
+entry	cimetière	0	
+entry	cimolée	0	
+entry	cinabre	1	
 pb	222	0238	404377
-entry	cinclèse		
-entry	cionis		
-entry	circée		
-entry	circonférence		
-entry	circonflexe		
+entry	cinclèse	0	
+entry	cionis	0	
+entry	circée	0	
+entry	circonférence	0	
+entry	circonflexe	1	
 pb	223	0239	404378
-entry	circoncision		
+entry	circoncision	4	
 pb	224	0240	404379
 pb	225	0241	404380
 pb	226	0242	404381
 pb	227	0243	404382
-entry	circonscrit		
-entry	circonvolution		
+entry	circonscrit	0	
+entry	circonvolution	1	
 pb	228	0244	404383
-entry	circulaire		
-entry	circulation		
+entry	circulaire	0	
+entry	circulation	26	
 pb	229	0245	404384
 pb	230	0246	404385
 pb	231	0247	404386
@@ -377,55 +377,55 @@ pb	251	0267	404406
 pb	252	0268	404407
 pb	253	0269	404408
 pb	254	0270	404409
-entry	circumfusa		
-entry	cire		
+entry	circumfusa	0	
+entry	cire	2	
 pb	255	0271	404410
 pb	256	0272	404411
-entry	cirier		
+entry	cirier	1	
 pb	257	0273	404412
-entry	ciron		
-entry	cirsocèle		
+entry	ciron	0	
+entry	cirsocèle	4	
 pb	258	0274	404413
 pb	259	0275	404414
 pb	260	0276	404415
 pb	261	0277	404416
-entry	cirsomphale		
+entry	cirsomphale	1	
 pb	262	0278	404417
-entry	cirsophthalmie		
-entry	ciseau		
+entry	cirsophthalmie	0	
+entry	ciseau	1	
 pb	263	0279	404418
-entry	ciseaux		
+entry	ciseaux	5	
 pb	264	0280	404419
 pb	265	0281	404420
 pb	266	0282	404421
 pb	267	0283	404422
 pb	268	0284	404423
-entry	cistes		
+entry	cistes	0	
 pb	[s. pag.]	0285	5556941
 pb	[s. pag.]	0286	404424
-entry	ciseaux. Explication de la planche		
+entry	ciseaux. Explication de la planche	0	
 pb	[s. pag.]	0287	404425
-entry	ciseaux : planche		
+entry	ciseaux : planche	0	
 pb	[s. pag.]	0288	5556942
 pb	269	0289	404426
-entry	cistes		
-entry	citerne		
-entry	citronelle		
-entry	citronnier		
+entry	cistes	0	
+entry	citerne	0	
+entry	citronelle	0	
+entry	citronnier	2	
 pb	270	0290	404427
 pb	271	0291	404428
-entry	citrouille		
-entry	citta		
+entry	citrouille	0	
+entry	citta	1	
 pb	272	0292	404429
-entry	civette		
+entry	civette	1	
 pb	273	0293	404430
-entry	clangor		
+entry	clangor	1	
 pb	274	0294	404431
-entry	clapier		
-entry	clarification		
+entry	clapier	0	
+entry	clarification	2	
 pb	275	0295	404432
 pb	276	0296	404433
-entry	classification		
+entry	classification	11	
 pb	277	0297	404434
 pb	278	0298	404435
 pb	279	0299	404436
@@ -437,13 +437,13 @@ pb	284	0304	404441
 pb	285	0305	404442
 pb	286	0306	404443
 pb	287	0307	404444
-entry	claudication		
+entry	claudication	3	
 pb	288	0308	404445
 pb	289	0309	404446
 pb	290	0310	404447
-entry	claveau		
+entry	claveau	1	
 pb	291	0311	404448
-entry	clavelée		
+entry	clavelée	11	
 pb	292	0312	404449
 pb	293	0313	404450
 pb	294	0314	404451
@@ -455,12 +455,12 @@ pb	299	0319	404456
 pb	300	0320	404457
 pb	301	0321	404458
 pb	302	0322	404459
-entry	clavelisation		
+entry	clavelisation	3	
 pb	303	0323	404460
 pb	304	0324	404461
 pb	305	0325	404462
-entry	claviculaire		
-entry	clavicule		
+entry	claviculaire	0	
+entry	clavicule	18	
 pb	306	0326	404463
 pb	307	0327	404464
 pb	308	0328	404465
@@ -479,20 +479,20 @@ pb	320	0340	404477
 pb	321	0341	404478
 pb	322	0342	404479
 pb	323	0343	404480
-entry	clef		
+entry	clef	3	
 pb	324	0344	404481
 pb	325	0345	404482
 pb	326	0346	404483
-entry	cleisagre		
+entry	cleisagre	1	
 pb	327	0347	404484
-entry	clématite		
+entry	clématite	1	
 pb	328	0348	404485
-entry	clignement		
-entry	clignotante		
+entry	clignement	0	
+entry	clignotante	1	
 pb	329	0349	404486
-entry	clignotement		
+entry	clignotement	1	
 pb	330	0350	404487
-entry	climat		
+entry	climat	30	
 pb	331	0351	404488
 pb	332	0352	404489
 pb	333	0353	404490
@@ -524,11 +524,11 @@ pb	358	0378	404515
 pb	359	0379	404516
 pb	360	0380	404517
 pb	361	0381	404518
-entry	climatérique		
+entry	climatérique	3	
 pb	362	0382	404519
 pb	363	0383	404520
 pb	364	0384	404521
-entry	clinique		
+entry	clinique	7	
 pb	365	0385	404522
 pb	366	0386	404523
 pb	367	0387	404524
@@ -536,33 +536,33 @@ pb	368	0388	404525
 pb	369	0389	404526
 pb	370	0390	404527
 pb	371	0391	404528
-entry	clinoide		
-entry	cliquetis		
+entry	clinoide	0	
+entry	cliquetis	1	
 pb	372	0392	404529
-entry	cliseomètre		
+entry	cliseomètre	0	
 pb	373	0393	404530
-entry	clitoris		
+entry	clitoris	2	
 pb	374	0394	404531
 pb	375	0395	404532
 pb	376	0396	404533
-entry	clitorisme		
+entry	clitorisme	2	
 pb	377	0397	404534
 pb	378	0398	404535
-entry	cloaque		
-entry	cloche		
-entry	cloison		
+entry	cloaque	0	
+entry	cloche	0	
+entry	cloison	2	
 pb	379	0399	404536
 pb	380	0400	404537
-entry	clonique		
-entry	clonisme		
-entry	cloporte		
+entry	clonique	0	
+entry	clonisme	0	
+entry	cloporte	1	
 pb	381	0401	404538
-entry	clou		
+entry	clou	3	
 pb	382	0402	404539
 pb	383	0403	404540
 pb	384	0404	404541
-entry	clunésie		
-entry	clystère		
+entry	clunésie	0	
+entry	clystère	14	
 pb	385	0405	404542
 pb	386	0406	404543
 pb	387	0407	404544
@@ -578,50 +578,50 @@ pb	396	0416	404553
 pb	397	0417	404554
 pb	398	0418	404555
 pb	399	0419	404556
-entry	coagulant		
-entry	coagulation		
-entry	coagulum		
-entry	coalescence		
+entry	coagulant	0	
+entry	coagulation	0	
+entry	coagulum	0	
+entry	coalescence	1	
 pb	400	0420	404557
-entry	coalition		
-entry	coaptation		
+entry	coalition	0	
+entry	coaptation	2	
 pb	401	0421	404558
 pb	402	0422	404559
-entry	coarctation		
-entry	cobalt		
+entry	coarctation	0	
+entry	cobalt	1	
 pb	403	0423	404560
-entry	coccinelle		
-entry	coccyx		
+entry	coccinelle	0	
+entry	coccyx	2	
 pb	404	0424	404561
 pb	405	0425	404562
-entry	coccygien		
-entry	coccygio-anal		
-entry	cochée		
-entry	cochemar		
-entry	cochenille		
+entry	coccygien	0	
+entry	coccygio-anal	0	
+entry	cochée	0	
+entry	cochemar	0	
+entry	cochenille	1	
 pb	406	0426	404563
-entry	cochléaria		
+entry	cochléaria	1	
 pb	407	0427	404564
-entry	cochon		
-entry	coction		
+entry	cochon	0	
+entry	coction	6	
 pb	408	0428	404565
 pb	409	0429	404566
 pb	410	0430	404567
 pb	411	0431	404568
 pb	412	0432	404569
 pb	413	0433	404570
-entry	cocyte		
-entry	codaga-pale		
+entry	cocyte	0	
+entry	codaga-pale	1	
 pb	414	0434	404571
-entry	codex		
-entry	coecum		
+entry	codex	0	
+entry	coecum	3	
 pb	415	0435	404572
 pb	416	0436	404573
 pb	417	0437	404574
-entry	coeliaque		
-entry	coeloma		
-entry	coenologie		
-entry	coeur		
+entry	coeliaque	0	
+entry	coeloma	0	
+entry	coenologie	0	
+entry	coeur	95	
 pb	418	0438	404575
 pb	419	0439	404576
 pb	420	0440	404577
@@ -717,25 +717,25 @@ pb	509	0529	404666
 pb	510	0530	404667
 pb	511	0531	404668
 pb	512	0532	404669
-entry	cohabitation		
-entry	cohobation		
-entry	cohérence		
-entry	cohésion		
+entry	cohabitation	0	
+entry	cohobation	0	
+entry	cohérence	0	
+entry	cohésion	2	
 pb	513	0533	404670
 pb	514	0534	404671
-entry	coeffe		
+entry	coeffe	1	
 pb	515	0535	404672
-entry	coiffure		
+entry	coiffure	2	
 pb	516	0536	404673
 pb	517	0537	404674
-entry	coignassier		
+entry	coignassier	1	
 pb	518	0538	404675
-entry	coincidence		
+entry	coincidence	2	
 pb	519	0539	404676
 pb	520	0540	404677
-entry	co-indication		
+entry	co-indication	1	
 pb	521	0541	404678
-entry	coït		
+entry	coït	7	
 pb	522	0542	404679
 pb	523	0543	404680
 pb	524	0544	404681
@@ -743,7 +743,7 @@ pb	525	0545	404682
 pb	526	0546	404683
 pb	527	0547	404684
 pb	528	0548	404685
-entry	col		
+entry	col	16	
 pb	529	0549	404686
 pb	530	0550	404687
 pb	531	0551	404688
@@ -760,5 +760,5 @@ pb	541	0561	404698
 pb	542	0562	404699
 pb	543	0563	404700
 pb	544	0564	404701
-entry	colature		
-entry	colchicacées		
+entry	colature	0	
+entry	colchicacées	0	

@@ -1,13 +1,13 @@
 pb	[s. pag.]	0001	4528053
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4528054
 pb	[s. pag.]	0003	4528055
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4528056
 pb	1	0005	4528057
-entry	Foie		
-entry	Pathologie (suite)		
-entry	Foie. Pathologie (suite). Congestion du foie [H. Rendu]		
+entry	Foie	0	
+entry	Pathologie (suite)	0	
+entry	Foie. Pathologie (suite). Congestion du foie [H. Rendu]	22	
 orth	Foie. Pathologie (suite). Congestion du foie		
 pb	2	0006	4528058
 pb	3	0007	4528059
@@ -31,7 +31,7 @@ pb	20	0024	4528076
 pb	21	0025	4528077
 pb	22	0026	4528078
 pb	23	0027	4528079
-entry	Foie. Pathologie (suite). Maladies inflammatoires du foie [H. Rendu]		
+entry	Foie. Pathologie (suite). Maladies inflammatoires du foie [H. Rendu]	65	
 orth	Foie. Pathologie (suite). Maladies inflammatoires du foie		
 pb	24	0028	4528080
 pb	25	0029	4528081
@@ -98,7 +98,7 @@ pb	85	0089	4528141
 pb	86	0090	4528142
 pb	87	0091	4528143
 pb	88	0092	4528144
-entry	Foie. Pathologie (suite). Cirrhose atrophique [H. Rendu]		
+entry	Foie. Pathologie (suite). Cirrhose atrophique [H. Rendu]	31	
 orth	Foie. Pathologie (suite). Cirrhose atrophique		
 pb	89	0093	4528145
 pb	90	0094	4528146
@@ -131,7 +131,7 @@ pb	116	0120	4528172
 pb	117	0121	4528173
 pb	118	0122	4528174
 pb	119	0123	4528175
-entry	Foie. Pathologie (suite). Cirrhose hypertrophique [H. Rendu]		
+entry	Foie. Pathologie (suite). Cirrhose hypertrophique [H. Rendu]	19	
 orth	Foie. Pathologie (suite). Cirrhose hypertrophique		
 pb	120	0124	4528176
 pb	121	0125	4528177
@@ -152,7 +152,7 @@ pb	135	0139	4528191
 pb	136	0140	4528192
 pb	137	0141	4528193
 pb	138	0142	4528194
-entry	Foie. Pathologie (suite). Syphilis hépatique [H. Rendu]		
+entry	Foie. Pathologie (suite). Syphilis hépatique [H. Rendu]	19	
 orth	Foie. Pathologie (suite). Syphilis hépatique		
 pb	139	0143	4528195
 pb	140	0144	4528196
@@ -173,7 +173,7 @@ pb	154	0158	4528210
 pb	155	0159	4528211
 pb	156	0160	4528212
 pb	157	0161	4528213
-entry	Foie. Pathologie (suite). Dégénérescence du foie [H. Rendu]		
+entry	Foie. Pathologie (suite). Dégénérescence du foie [H. Rendu]	24	
 orth	Foie. Pathologie (suite). Dégénérescence du foie		
 pb	158	0162	4528214
 pb	159	0163	4528215
@@ -200,8 +200,8 @@ pb	179	0183	4528235
 pb	180	0184	4528236
 pb	181	0185	4528237
 pb	182	0186	4528238
-entry	Foie. Pathologie (suite)		
-entry	Foie. Pathologie (suite). Néoplasies du foie [H. Rendu]		
+entry	Foie. Pathologie (suite)	0	
+entry	Foie. Pathologie (suite). Néoplasies du foie [H. Rendu]	27	
 orth	Foie. Pathologie (suite). Néoplasies du foie		
 pb	183	0187	4528239
 pb	184	0188	4528240
@@ -230,7 +230,7 @@ pb	206	0210	4528262
 pb	207	0211	4528263
 pb	208	0212	4528264
 pb	209	0213	4528265
-entry	Foie. Pathologie (suite). Productions parasitaires [H. Rendu]		
+entry	Foie. Pathologie (suite). Productions parasitaires [H. Rendu]	55	
 orth	Foie. Pathologie (suite). Productions parasitaires		
 pb	210	0214	4528266
 pb	211	0215	4528267
@@ -287,7 +287,7 @@ pb	261	0265	4528317
 pb	262	0266	4528318
 pb	263	0267	4528319
 pb	264	0268	4528320
-entry	Foie. Pathologie (suite). Anomalie de situation du foie [H. Rendu]		
+entry	Foie. Pathologie (suite). Anomalie de situation du foie [H. Rendu]	7	
 orth	Foie. Pathologie (suite). Anomalie de situation du foie		
 pb	265	0269	4528321
 pb	266	0270	4528322
@@ -296,15 +296,15 @@ pb	268	0272	4528324
 pb	269	0273	4528325
 pb	270	0274	4528326
 pb	271	0275	4528327
-entry	Foie (Chimie) [Amédée Dechambre]		
+entry	Foie (Chimie) [Amédée Dechambre]	0	
 orth	Foie (Chimie)		
-entry	Foin [G. Planchon]		
+entry	Foin [G. Planchon]	0	
 orth	Foin		
-entry	Foin (Fièvre de)		
+entry	Foin (Fièvre de)	0	
 ref	Asthme		
-entry	Folha de Carobba.. Planchon]		
+entry	Folha de Carobba.. Planchon]	0	
 ref	Jacaranda [G		
-entry	Folie [J. Cotard]		
+entry	Folie [J. Cotard]	35	
 orth	Folie		
 pb	272	0276	4528328
 pb	273	0277	4528329
@@ -341,26 +341,26 @@ pb	303	0307	4528359
 pb	304	0308	4528360
 pb	305	0309	4528361
 pb	306	0310	4528362
-entry	Folies diverses [Ant. Ritti]		
+entry	Folies diverses [Ant. Ritti]	1	
 orth	Folies diverses		
 pb	307	0311	4528363
-entry	Folie des actes		
+entry	Folie des actes	0	
 ref	Manie		
 ref	Monomanie		
 ref	Héréditaire (Folie)		
-entry	Folie alcoolique		
+entry	Folie alcoolique	0	
 ref	Alcoolisme		
 ref	Dipsomanie		
-entry	Folie ambitieuse		
+entry	Folie ambitieuse	0	
 ref	Délire des persécutions		
 ref	Monomanie		
 ref	Paralysie générale		
-entry	Folie choréique		
+entry	Folie choréique	0	
 ref	Danse de Saint-Guy		
-entry	Folie communiquée		
+entry	Folie communiquée	0	
 ref	Délire des persécutions		
 ref	Épidémiques (Folies)		
-entry	Folie avec conscience [Ant. Ritti]		
+entry	Folie avec conscience [Ant. Ritti]	13	
 orth	Folie avec conscience		
 pb	308	0312	4528364
 pb	309	0313	4528365
@@ -376,13 +376,13 @@ pb	318	0322	4528374
 pb	319	0323	4528375
 pb	320	0324	4528376
 pb	321	0325	4528377
-entry	Folie démonomaniaque		
+entry	Folie démonomaniaque	0	
 ref	Démonomanie		
-entry	Folie à deux		
+entry	Folie à deux	0	
 ref	Délire des persécutions		
-entry	Folie diathésique [Ant. Ritti]		
+entry	Folie diathésique [Ant. Ritti]	0	
 orth	Folie diathésique		
-entry	Folie à double forme (Pathologie et Médecine légale) [Ant. Ritti]		
+entry	Folie à double forme (Pathologie et Médecine légale) [Ant. Ritti]	18	
 orth	Folie à double forme (Pathologie et Médecine légale)		
 pb	322	0326	4528378
 pb	323	0327	4528379
@@ -402,7 +402,7 @@ pb	336	0340	4528392
 pb	337	0341	4528393
 pb	338	0342	4528394
 pb	339	0343	4528395
-entry	Folie du doute avec délire du toucher [Ant. Ritti]		
+entry	Folie du doute avec délire du toucher [Ant. Ritti]	9	
 orth	Folie du doute avec délire du toucher		
 pb	340	0344	4528396
 pb	341	0345	4528397
@@ -413,108 +413,108 @@ pb	345	0349	4528401
 pb	346	0350	4528402
 pb	347	0351	4528403
 pb	348	0352	4528404
-entry	Folie épidémique		
+entry	Folie épidémique	0	
 ref	Épidémiques (Folies)		
-entry	Folie épileptique		
+entry	Folie épileptique	0	
 ref	Épilepsie		
-entry	Folie érotique		
+entry	Folie érotique	0	
 ref	Monomanie		
 ref	Nymphomanie		
 ref	Satyriasis		
-entry	Folie héréditaire		
+entry	Folie héréditaire	0	
 ref	Héréditaire (Folie)		
-entry	Folie hypochondriaque		
+entry	Folie hypochondriaque	0	
 ref	Hypochondrie		
-entry	Folie hystérique		
+entry	Folie hystérique	0	
 ref	Hystérie		
-entry	Folie impulsive, Folie instinctive		
+entry	Folie impulsive, Folie instinctive	0	
 ref	Héréditaire (Folie)		
 ref	Manie		
 ref	Monomanie		
 pb	349	0353	4528405
-entry	Folies par intoxication [Ant. Ritti]		
+entry	Folies par intoxication [Ant. Ritti]	1	
 orth	Folies par intoxication		
 pb	350	0354	4528406
-entry	Folie lucide, Folie morale		
+entry	Folie lucide, Folie morale	0	
 ref	Héréditaire (Folie)		
 ref	Manie		
 ref	Monomanie		
-entry	Folie paralytique		
+entry	Folie paralytique	0	
 ref	Paralysie générale		
-entry	Folie pellagreuse		
+entry	Folie pellagreuse	0	
 ref	Pellagre		
-entry	Folie pénitentiaire		
+entry	Folie pénitentiaire	0	
 ref	Pénitentiaire (Système)		
-entry	Folie des persécutions		
+entry	Folie des persécutions	0	
 ref	Délire de persécution		
-entry	Folie puerpérale		
+entry	Folie puerpérale	0	
 ref	Puerpérale (Folie)		
-entry	Folie raisonnante		
+entry	Folie raisonnante	0	
 ref	Héréditaire (Folie)		
 ref	Manie		
 ref	Monomanie		
-entry	Folie religieuse [Ant. Ritti]		
+entry	Folie religieuse [Ant. Ritti]	1	
 orth	Folie religieuse		
 pb	351	0355	4528407
-entry	Folie simulée		
+entry	Folie simulée	0	
 ref	Aliénés (Médecine légale)		
-entry	Folie suicide		
+entry	Folie suicide	0	
 ref	Suicide		
-entry	Folie sympathique.. Ritti]		
+entry	Folie sympathique.. Ritti]	0	
 ref	Sympathiques (Folies) [Ant		
-entry	Folie transitoire [Ant. Ritti]		
+entry	Folie transitoire [Ant. Ritti]	0	
 orth	Folie transitoire		
-entry	Folinea (Les deux) [L. Hahn]		
+entry	Folinea (Les deux) [L. Hahn]	0	
 orth	Folinea (Les deux)		
-entry	Folio ou Fuoli (Cecilio) [L. Hahn]		
+entry	Folio ou Fuoli (Cecilio) [L. Hahn]	1	
 orth	Folio ou Fuoli (Cecilio)		
 pb	352	0356	4528408
-entry	Folium Indum.. Planchon]		
+entry	Folium Indum.. Planchon]	0	
 ref	Malabathrum [G		
-entry	Follet (L. A. H.) [A. Chéreau]		
+entry	Follet (L. A. H.) [A. Chéreau]	0	
 orth	Follet (L. A. H.)		
-entry	Follicules (Anatomie) [Amédée Dechambre]		
+entry	Follicules (Anatomie) [Amédée Dechambre]	0	
 orth	Follicules (Anatomie)		
-entry	Follicules (Botanique) [Ernest Labbée]		
+entry	Follicules (Botanique) [Ernest Labbée]	0	
 orth	Follicules (Botanique)		
-entry	Follie (Louis-Guillaume de La) [A. Chéreau]		
+entry	Follie (Louis-Guillaume de La) [A. Chéreau]	1	
 orth	Follie (Louis-Guillaume de La)		
 pb	353	0357	4528409
-entry	Follin (Les) [L. Hahn, A. Dureau]		
+entry	Follin (Les) [L. Hahn, A. Dureau]	3	
 orth	Follin (Les)		
 pb	354	0358	4528410
 pb	355	0359	4528411
 pb	356	0360	4528412
-entry	Follio ou Folli (Francesco) [L. Hahn]		
+entry	Follio ou Folli (Francesco) [L. Hahn]	0	
 orth	Follio ou Folli (Francesco)		
-entry	Foltz (Jean-Charles-Eugène) [L. Hahn]		
+entry	Foltz (Jean-Charles-Eugène) [L. Hahn]	1	
 orth	Foltz (Jean-Charles-Eugène)		
 pb	357	0361	4528413
-entry	Folwarczny (Carl) [L. Hahn]		
+entry	Folwarczny (Carl) [L. Hahn]	1	
 orth	Folwarczny (Carl)		
 pb	358	0362	4528414
-entry	Fomentation [A. Tartivel]		
+entry	Fomentation [A. Tartivel]	5	
 orth	Fomentation		
 pb	359	0363	4528415
 pb	360	0364	4528416
 pb	361	0365	4528417
 pb	362	0366	4528418
 pb	363	0367	4528419
-entry	Foncaude (Eau minérale de) [A. Rotureau]		
+entry	Foncaude (Eau minérale de) [A. Rotureau]	1	
 orth	Foncaude (Eau minérale de)		
 pb	364	0368	4528420
-entry	Foncirgue (Eau minérale de) [A. Rotureau]		
+entry	Foncirgue (Eau minérale de) [A. Rotureau]	1	
 orth	Foncirgue (Eau minérale de)		
 pb	365	0369	4528421
-entry	Fonction [G. Carlet]		
+entry	Fonction [G. Carlet]	3	
 orth	Fonction		
 pb	366	0370	4528422
 pb	367	0371	4528423
 pb	368	0372	4528424
-entry	Fondants [Amédée Dechambre]		
+entry	Fondants [Amédée Dechambre]	0	
 orth	Fondants		
-entry	Fonderies		
-entry	Fonderies. Hygiène professionnelle et industrielle [Alexandre Layet]		
+entry	Fonderies	0	
+entry	Fonderies. Hygiène professionnelle et industrielle [Alexandre Layet]	15	
 orth	Fonderies. Hygiène professionnelle et industrielle		
 pb	369	0373	4528425
 pb	370	0374	4528426
@@ -531,133 +531,133 @@ pb	380	0384	4528436
 pb	381	0385	4528437
 pb	382	0386	4528438
 pb	383	0387	4528439
-entry	Fondeurs		
+entry	Fondeurs	0	
 ref	Fonderies		
 pb	384	0388	4528440
-entry	Fondoirs de Graisse [Amédée Dechambre]		
+entry	Fondoirs de Graisse [Amédée Dechambre]	0	
 orth	Fondoirs de Graisse		
-entry	Fonfrède (Eau minérale de) [A. Rotureau]		
+entry	Fonfrède (Eau minérale de) [A. Rotureau]	1	
 orth	Fonfrède (Eau minérale de)		
 pb	385	0389	4528441
-entry	Fongie [P. Gervais]		
+entry	Fongie [P. Gervais]	0	
 orth	Fongie		
-entry	Fongosités, Fongueux [Albert Hénocque]		
+entry	Fongosités, Fongueux [Albert Hénocque]	1	
 orth	Fongosités, Fongueux		
 pb	386	0390	4528442
-entry	Fongus [Albert Hénocque]		
+entry	Fongus [Albert Hénocque]	2	
 orth	Fongus		
 pb	387	0391	4528443
 pb	388	0392	4528444
-entry	Fongus de l'Inde		
+entry	Fongus de l'Inde	0	
 ref	Mycétonne		
-entry	Fonsange (Eau minérale de) [A. Rotureau]		
+entry	Fonsange (Eau minérale de) [A. Rotureau]	0	
 orth	Fonsange (Eau minérale de)		
-entry	Fonseca (Les cinq) [A. Chéreau, L. Hahn]		
+entry	Fonseca (Les cinq) [A. Chéreau, L. Hahn]	1	
 orth	Fonseca (Les cinq)		
 pb	389	0393	4528445
-entry	Fonsorbe (Arnaud) [L. Hahn]		
+entry	Fonsorbe (Arnaud) [L. Hahn]	0	
 orth	Fonsorbe (Arnaud)		
-entry	Fontaine (Les) [A. Chéreau]		
+entry	Fontaine (Les) [A. Chéreau]	1	
 orth	Fontaine (Les)		
 pb	390	0394	4528446
-entry	Fontaine-Bonneleau (Eaux minérales de) [A. Rotureau]		
+entry	Fontaine-Bonneleau (Eaux minérales de) [A. Rotureau]	2	
 orth	Fontaine-Bonneleau (Eaux minérales de)		
 pb	391	0395	4528447
 pb	392	0396	4528448
-entry	Fontaine-Marin ou Marina (Eau minérale de)		
+entry	Fontaine-Marin ou Marina (Eau minérale de)	0	
 ref	Dizier (Saint)		
-entry	Fontainea Pancheri [Édouard Heckel]		
+entry	Fontainea Pancheri [Édouard Heckel]	3	
 orth	Fontainea Pancheri		
 pb	393	0397	4528449
 pb	394	0398	4528450
 pb	395	0399	4528451
-entry	Fontan (Jean-Pierre-Amédée) [A. Chéreau]		
+entry	Fontan (Jean-Pierre-Amédée) [A. Chéreau]	0	
 orth	Fontan (Jean-Pierre-Amédée)		
-entry	Fontana (Félix) [A. Dureau]		
+entry	Fontana (Félix) [A. Dureau]	2	
 orth	Fontana (Félix)		
 pb	396	0400	4528452
 pb	397	0401	4528453
-entry	Fontana (Nicolas) [L. Hahn]		
+entry	Fontana (Nicolas) [L. Hahn]	0	
 orth	Fontana (Nicolas)		
-entry	Fontanes (Eau minérale de) [A. Rotureau]		
+entry	Fontanes (Eau minérale de) [A. Rotureau]	1	
 orth	Fontanes (Eau minérale de)		
 pb	398	0402	4528454
-entry	Fontaneilles (François-Philibert) [A. Chéreau]		
+entry	Fontaneilles (François-Philibert) [A. Chéreau]	0	
 orth	Fontaneilles (François-Philibert)		
-entry	Fontanelles [Amédée Dechambre]		
+entry	Fontanelles [Amédée Dechambre]	1	
 orth	Fontanelles		
 pb	399	0403	4528455
-entry	Fontaneyre (Eau minérale de) [A. Rotureau]		
+entry	Fontaneyre (Eau minérale de) [A. Rotureau]	0	
 orth	Fontaneyre (Eau minérale de)		
-entry	Fontanon (Denis) [A. Chéreau]		
+entry	Fontanon (Denis) [A. Chéreau]	0	
 orth	Fontanon (Denis)		
-entry	Fontanus		
+entry	Fontanus	0	
 ref	Fonteyn		
-entry	Fontarabie (Station maritime) [A. Rotureau]		
+entry	Fontarabie (Station maritime) [A. Rotureau]	0	
 orth	Fontarabie (Station maritime)		
-entry	Fonte (Chimie) [Ed. Willm]		
+entry	Fonte (Chimie) [Ed. Willm]	1	
 orth	Fonte (Chimie)		
 pb	400	0404	4528456
-entry	Fonte. (Hygiène)		
+entry	Fonte. (Hygiène)	0	
 ref	Fonderies		
-entry	Fonte. (Pathologie)		
+entry	Fonte. (Pathologie)	0	
 ref	Colligation		
 ref	Fondants		
-entry	Fonte (Lelius A.) [L. Hahn]		
+entry	Fonte (Lelius A.) [L. Hahn]	0	
 orth	Fonte (Lelius A.)		
-entry	Fontecha (Juan-Alonso de los Ruices y) [L. Hahn]		
+entry	Fontecha (Juan-Alonso de los Ruices y) [L. Hahn]	1	
 orth	Fontecha (Juan-Alonso de los Ruices y)		
 pb	401	0405	4528457
-entry	Fontenelle (Julia de) [A. Chéreau]		
+entry	Fontenelle (Julia de) [A. Chéreau]	1	
 orth	Fontenelle (Julia de)		
 pb	402	0406	4528458
-entry	Fontenelle (Eau minérale de) [A. Rotureau]		
+entry	Fontenelle (Eau minérale de) [A. Rotureau]	0	
 orth	Fontenelle (Eau minérale de)		
-entry	Fontenelles (Eau minérale de) [A. Rotureau]		
+entry	Fontenelles (Eau minérale de) [A. Rotureau]	1	
 orth	Fontenelles (Eau minérale de)		
 pb	403	0407	4528459
-entry	Fontenettes (Louis de) [A. Chéreau]		
+entry	Fontenettes (Louis de) [A. Chéreau]	0	
 orth	Fontenettes (Louis de)		
-entry	Fonteyn (Nicolas) [A. Dureau]		
+entry	Fonteyn (Nicolas) [A. Dureau]	0	
 orth	Fonteyn (Nicolas)		
 pb	404	0408	4528460
-entry	Fonticule ou Exutoire [U. Trélat]		
+entry	Fonticule ou Exutoire [U. Trélat]	2	
 orth	Fonticule ou Exutoire		
 pb	405	0409	4528461
 pb	406	0410	4528462
-entry	Fontinales, Fontinalis [J. de Seynes]		
+entry	Fontinales, Fontinalis [J. de Seynes]	0	
 orth	Fontinales, Fontinalis		
-entry	Fooraha ou Fouraha		
+entry	Fooraha ou Fouraha	0	
 ref	Calaba		
-entry	Foot (Les) [L. Hahn]		
+entry	Foot (Les) [L. Hahn]	2	
 orth	Foot (Les)		
 pb	407	0411	4528463
 pb	408	0412	4528464
-entry	Foraminifères [P. Gervais]		
+entry	Foraminifères [P. Gervais]	2	
 orth	Foraminifères		
 pb	409	0413	4528465
 pb	410	0414	4528466
-entry	Forbach (Eau minérale de) [A. Rotureau]		
+entry	Forbach (Eau minérale de) [A. Rotureau]	0	
 orth	Forbach (Eau minérale de)		
-entry	Forbes (Les) [L. Hahn]		
+entry	Forbes (Les) [L. Hahn]	4	
 orth	Forbes (Les)		
 pb	411	0415	4528467
 pb	412	0416	4528468
 pb	413	0417	4528469
 pb	414	0418	4528470
-entry	Forcade (J.-B.-T.-Alexandre) [A. Chéreau]		
+entry	Forcade (J.-B.-T.-Alexandre) [A. Chéreau]	0	
 orth	Forcade (J.-B.-T.-Alexandre)		
-entry	Forçats		
+entry	Forçats	0	
 ref	Bagne		
 ref	Pénitentiaire		
-entry	Force centrifuge [J. Gavarret]		
+entry	Force centrifuge [J. Gavarret]	4	
 orth	Force centrifuge		
 pb	415	0419	4528471
 pb	416	0420	4528472
 pb	417	0421	4528473
 pb	418	0422	4528474
-entry	Forces		
-entry	Forces. Physiologie [J. Gavarret]		
+entry	Forces	0	
+entry	Forces. Physiologie [J. Gavarret]	64	
 orth	Forces. Physiologie		
 pb	419	0423	4528475
 pb	420	0424	4528476
@@ -723,7 +723,7 @@ pb	479	0483	4528535
 pb	480	0484	4528536
 pb	481	0485	4528537
 pb	482	0486	4528538
-entry	Forces. Pathologie [J. Grasset]		
+entry	Forces. Pathologie [J. Grasset]	15	
 orth	Forces. Pathologie		
 pb	483	0487	4528539
 pb	484	0488	4528540
@@ -740,8 +740,8 @@ pb	494	0498	4528550
 pb	495	0499	4528551
 pb	496	0500	4528552
 pb	497	0501	4528553
-entry	Forceps		
-entry	Forceps. Historique [A. Chéreau]		
+entry	Forceps	0	
+entry	Forceps. Historique [A. Chéreau]	27	
 orth	Forceps. Historique		
 pb	498	0502	4528554
 pb	499	0503	4528555
@@ -770,7 +770,7 @@ pb	521	0525	4528577
 pb	522	0526	4528578
 pb	523	0527	4528579
 pb	524	0528	4528580
-entry	Forceps. Instruments [Pinard]		
+entry	Forceps. Instruments [Pinard]	15	
 orth	Forceps. Instruments		
 pb	525	0529	4528581
 pb	526	0530	4528582
@@ -787,7 +787,7 @@ pb	536	0540	4528592
 pb	537	0541	4528593
 pb	538	0542	4528594
 pb	539	0543	4528595
-entry	Forceps. Application [Pinard]		
+entry	Forceps. Application [Pinard]	68	
 orth	Forceps. Application		
 pb	540	0544	4528596
 pb	541	0545	4528597
@@ -857,107 +857,107 @@ pb	604	0608	4528660
 pb	605	0609	4528661
 pb	606	0610	4528662
 pb	607	0611	4528663
-entry	Forceps (Anatomie) [Amédée Dechambre]		
+entry	Forceps (Anatomie) [Amédée Dechambre]	0	
 orth	Forceps (Anatomie)		
-entry	Forceps (Chirurgie) [Amédée Dechambre]		
+entry	Forceps (Chirurgie) [Amédée Dechambre]	1	
 orth	Forceps (Chirurgie)		
 pb	608	0612	4528664
-entry	Forceps-scie		
+entry	Forceps-scie	0	
 ref	Craniotomie [Amédée Dechambre]		
-entry	Forceral (Eau minérale de) [A. Rotureau]		
+entry	Forceral (Eau minérale de) [A. Rotureau]	0	
 orth	Forceral (Eau minérale de)		
-entry	Forchhammer (Jean-Georges) [L. Hahn]		
+entry	Forchhammer (Jean-Georges) [L. Hahn]	1	
 orth	Forchhammer (Jean-Georges)		
 pb	609	0613	4528665
-entry	Forcipressure [Amédée Dechambre]		
+entry	Forcipressure [Amédée Dechambre]	0	
 orth	Forcipressure		
-entry	Ford (Edward) [A. Dureau]		
+entry	Ford (Edward) [A. Dureau]	0	
 orth	Ford (Edward)		
-entry	Ford (John) [L. Hahn]		
+entry	Ford (John) [L. Hahn]	1	
 orth	Ford (John)		
 pb	610	0614	4528666
-entry	Fordyce (Les) [A. Dureau]		
+entry	Fordyce (Les) [A. Dureau]	1	
 orth	Fordyce (Les)		
 pb	611	0615	4528667
-entry	Foreest (Peter van) [L. Hahn]		
+entry	Foreest (Peter van) [L. Hahn]	1	
 orth	Foreest (Peter van)		
 pb	612	0616	4528668
-entry	Forest de la Croix (A.) [A. Chéreau]		
+entry	Forest de la Croix (A.) [A. Chéreau]	0	
 orth	Forest de la Croix (A.)		
-entry	Forestier (Les) [L. Hahn]		
+entry	Forestier (Les) [L. Hahn]	1	
 orth	Forestier (Les)		
 pb	613	0617	4528669
-entry	Foret (Chirurgie) [Amédée Dechambre]		
+entry	Foret (Chirurgie) [Amédée Dechambre]	1	
 orth	Foret (Chirurgie)		
 pb	614	0618	4528670
-entry	Forêt		
+entry	Forêt	0	
 ref	Rurale (Hygiène)		
-entry	Forge (Louis de la) [L. Hahn]		
+entry	Forge (Louis de la) [L. Hahn]	0	
 orth	Forge (Louis de la)		
-entry	Forgerons		
+entry	Forgerons	0	
 ref	Fer		
-entry	Forges (Eau minérale de)		
+entry	Forges (Eau minérale de)	0	
 ref	Chapelle-sur-Erdre (La)		
-entry	Forges-les-Eaux (Eaux minérale de) [A. Rotureau]		
+entry	Forges-les-Eaux (Eaux minérale de) [A. Rotureau]	4	
 orth	Forges-les-Eaux (Eaux minérale de)		
 pb	615	0619	4528671
 pb	616	0620	4528672
 pb	617	0621	4528673
 pb	618	0622	4528674
-entry	Forges-sur-Briis ou Forges-les-Bains (Eaux minérales de) [A. Rotureau]		
+entry	Forges-sur-Briis ou Forges-les-Bains (Eaux minérales de) [A. Rotureau]	1	
 orth	Forges-sur-Briis ou Forges-les-Bains (Eaux minérales de)		
 pb	619	0623	4528675
-entry	Forget (Charles-Polydore) [A. Chéreau]		
+entry	Forget (Charles-Polydore) [A. Chéreau]	3	
 orth	Forget (Charles-Polydore)		
 pb	620	0624	4528676
 pb	621	0625	4528677
 pb	622	0626	4528678
-entry	Forget (Jean) [L. Hahn]		
+entry	Forget (Jean) [L. Hahn]	0	
 orth	Forget (Jean)		
-entry	Forlenze (Joseph-Nicolas-Blaise) [A. Dureau]		
+entry	Forlenze (Joseph-Nicolas-Blaise) [A. Dureau]	0	
 orth	Forlenze (Joseph-Nicolas-Blaise)		
-entry	Forman (Simon) [L. Hahn]		
+entry	Forman (Simon) [L. Hahn]	0	
 orth	Forman (Simon)		
 pb	623	0627	4528679
-entry	Formène [Amédée Dechambre]		
+entry	Formène [Amédée Dechambre]	0	
 orth	Formène		
-entry	Formey (Jean-Louis) [L. Hahn]		
+entry	Formey (Jean-Louis) [L. Hahn]	0	
 orth	Formey (Jean-Louis)		
-entry	Formiamide [L. Hahn]		
+entry	Formiamide [L. Hahn]	2	
 orth	Formiamide		
 pb	624	0628	4528680
 pb	625	0629	4528681
-entry	Formiates [L. Hahn]		
+entry	Formiates [L. Hahn]	2	
 orth	Formiates		
 pb	626	0630	4528682
 pb	627	0631	4528683
-entry	Formication [Amédée Dechambre]		
+entry	Formication [Amédée Dechambre]	0	
 orth	Formication		
-entry	Formicides		
+entry	Formicides	0	
 ref	Fourmis		
-entry	Formique (Acide)		
-entry	Formique (Acide). Chimie [L. Hahn]		
+entry	Formique (Acide)	0	
+entry	Formique (Acide). Chimie [L. Hahn]	4	
 orth	Formique (Acide). Chimie		
 pb	628	0632	4528684
 pb	629	0633	4528685
 pb	630	0634	4528686
 pb	631	0635	4528687
-entry	Formique (Acide). Emploi médical [L. Hahn]		
+entry	Formique (Acide). Emploi médical [L. Hahn]	1	
 orth	Formique (Acide). Emploi médical		
 pb	632	0636	4528688
-entry	Formique (Éther)		
+entry	Formique (Éther)	0	
 ref	Éthers		
-entry	Formis ou Formi (Les deux) [L. Hahn]		
+entry	Formis ou Formi (Les deux) [L. Hahn]	1	
 orth	Formis ou Formi (Les deux)		
 pb	633	0637	4528689
-entry	Formobenzoylique (Acide) [L. Hahn]		
+entry	Formobenzoylique (Acide) [L. Hahn]	1	
 orth	Formobenzoylique (Acide)		
 pb	634	0638	4528690
-entry	Formométhylal [L. Hahn]		
+entry	Formométhylal [L. Hahn]	0	
 orth	Formométhylal		
-entry	Formonaphthalide ou Naphthylformiamide		
+entry	Formonaphthalide ou Naphthylformiamide	0	
 ref	Formiamide		
-entry	Formulaire [A. Vidau]		
+entry	Formulaire [A. Vidau]	23	
 orth	Formulaire		
 pb	635	0639	4528691
 pb	636	0640	4528692
@@ -983,32 +983,32 @@ pb	655	0659	4528711
 pb	656	0660	4528712
 pb	657	0661	4528713
 pb	658	0662	4528714
-entry	Formulaires arabes [L. Leclerc]		
+entry	Formulaires arabes [L. Leclerc]	2	
 orth	Formulaires arabes		
 pb	659	0663	4528715
 pb	660	0664	4528716
-entry	Formy (Samuel) [L. Hahn]		
+entry	Formy (Samuel) [L. Hahn]	0	
 orth	Formy (Samuel)		
-entry	Formyle [L. Hahn]		
+entry	Formyle [L. Hahn]	1	
 orth	Formyle		
 pb	661	0665	4528717
-entry	Formylène [L. Hahn]		
+entry	Formylène [L. Hahn]	0	
 orth	Formylène		
-entry	Fornés (José) [L. Hahn]		
+entry	Fornés (José) [L. Hahn]	0	
 orth	Fornés (José)		
-entry	Forni (Louis) [L. Hahn]		
+entry	Forni (Louis) [L. Hahn]	1	
 orth	Forni (Louis)		
 pb	662	0666	4528718
-entry	Forsberg (Carl-Peter) [A. Dureau]		
+entry	Forsberg (Carl-Peter) [A. Dureau]	0	
 orth	Forsberg (Carl-Peter)		
-entry	Forskaal (Peter) [L. Hahn]		
+entry	Forskaal (Peter) [L. Hahn]	1	
 orth	Forskaal (Peter)		
 pb	663	0667	4528719
-entry	Forskohlea [H. Baillon]		
+entry	Forskohlea [H. Baillon]	0	
 orth	Forskohlea		
-entry	Forssell (Joseph) [L. Hahn]		
+entry	Forssell (Joseph) [L. Hahn]	0	
 orth	Forssell (Joseph)		
-entry	Förster, Forster (Les) [L. Hahn, A. Dureau]		
+entry	Förster, Forster (Les) [L. Hahn, A. Dureau]	6	
 orth	Förster, Forster (Les)		
 pb	664	0668	4528720
 pb	665	0669	4528721
@@ -1016,32 +1016,32 @@ pb	666	0670	4528722
 pb	667	0671	4528723
 pb	668	0672	4528724
 pb	669	0673	4528725
-entry	Forsyth (Les) [L. Hahn]		
+entry	Forsyth (Les) [L. Hahn]	1	
 orth	Forsyth (Les)		
 pb	670	0674	4528726
-entry	Forte ou Fortio (Ange) [L. Hahn]		
+entry	Forte ou Fortio (Ange) [L. Hahn]	0	
 orth	Forte ou Fortio (Ange)		
-entry	Forti ou Fortis (Raimond-Jean) [L. Hahn]		
+entry	Forti ou Fortis (Raimond-Jean) [L. Hahn]	1	
 orth	Forti ou Fortis (Raimond-Jean)		
 pb	671	0675	4528727
-entry	Fortis (l'abbé Jean-Baptiste, dit Albert) [L. Hahn]		
+entry	Fortis (l'abbé Jean-Baptiste, dit Albert) [L. Hahn]	0	
 orth	Fortis (l'abbé Jean-Baptiste, dit Albert)		
-entry	Fosbroke (John) [A. Dureau]		
+entry	Fosbroke (John) [A. Dureau]	1	
 orth	Fosbroke (John)		
 pb	672	0676	4528728
-entry	Fosco (Placido) [L. Hahn]		
+entry	Fosco (Placido) [L. Hahn]	0	
 orth	Fosco (Placido)		
-entry	Fossati (Jean-Antoine-Laurent) [A. Chéreau]		
+entry	Fossati (Jean-Antoine-Laurent) [A. Chéreau]	1	
 orth	Fossati (Jean-Antoine-Laurent)		
 pb	673	0677	4528729
-entry	Fosse iliaque		
+entry	Fosse iliaque	0	
 ref	Iliaque (Fosse)		
 ref	Bassin		
-entry	Fosse nasale		
+entry	Fosse nasale	0	
 ref	Nez		
-entry	Fosse naviculaire		
+entry	Fosse naviculaire	0	
 ref	Urèthre		
-entry	Fosses d'aisances et Latrines (Hygiène) [Alexandre Layet]		
+entry	Fosses d'aisances et Latrines (Hygiène) [Alexandre Layet]	33	
 orth	Fosses d'aisances et Latrines (Hygiène)		
 pb	674	0678	4528730
 pb	675	0679	4528731
@@ -1076,45 +1076,45 @@ pb	703	0707	4528759
 pb	704	0708	4528760
 pb	705	0709	4528761
 pb	706	0710	4528762
-entry	Fossiles [P. Gervais]		
+entry	Fossiles [P. Gervais]	1	
 orth	Fossiles		
 pb	707	0711	4528763
-entry	Fossius (Nicolas) [L. Hahn]		
+entry	Fossius (Nicolas) [L. Hahn]	0	
 orth	Fossius (Nicolas)		
-entry	Fossoyeurs (Hygiène professionnelle) [Alexandre Layet]		
+entry	Fossoyeurs (Hygiène professionnelle) [Alexandre Layet]	2	
 orth	Fossoyeurs (Hygiène professionnelle)		
 pb	708	0712	4528764
 pb	709	0713	4528765
-entry	Foster (Edward) [Amédée Dechambre]		
+entry	Foster (Edward) [Amédée Dechambre]	0	
 orth	Foster (Edward)		
-entry	Fothergill (Les deux) [L. Hahn]		
+entry	Fothergill (Les deux) [L. Hahn]	3	
 orth	Fothergill (Les deux)		
 pb	710	0714	4528766
 pb	711	0715	4528767
 pb	712	0716	4528768
-entry	Fothergilla [G. Planchon]		
+entry	Fothergilla [G. Planchon]	0	
 orth	Fothergilla		
-entry	Foubert (Pierre) [A. Chéreau]		
+entry	Foubert (Pierre) [A. Chéreau]	0	
 orth	Foubert (Pierre)		
 pb	713	0717	4528769
-entry	Foucart (Les deux) [L. Hahn]		
+entry	Foucart (Les deux) [L. Hahn]	1	
 orth	Foucart (Les deux)		
 pb	714	0718	4528770
-entry	Foucault (Jean-Bernard-Léon) [A. Chéreau]		
+entry	Foucault (Jean-Bernard-Léon) [A. Chéreau]	2	
 orth	Foucault (Jean-Bernard-Léon)		
 pb	715	0719	4528771
 pb	716	0720	4528772
-entry	Foucher (Jean-Timothée-Émile) [A. Dureau]		
+entry	Foucher (Jean-Timothée-Émile) [A. Dureau]	3	
 orth	Foucher (Jean-Timothée-Émile)		
 pb	717	0721	4528773
 pb	718	0722	4528774
 pb	719	0723	4528775
-entry	Foudre (Météorologie)		
+entry	Foudre (Météorologie)	0	
 ref	Orage		
-entry	Foudre (Pathologie, médecine légale)		
+entry	Foudre (Pathologie, médecine légale)	0	
 ref	Fulguration		
-entry	Fougères		
-entry	Fougères. Botanique [E. Fournier]		
+entry	Fougères	0	
+entry	Fougères. Botanique [E. Fournier]	13	
 orth	Fougères. Botanique		
 pb	720	0724	4528776
 pb	721	0725	4528777
@@ -1129,70 +1129,70 @@ pb	729	0733	4528785
 pb	730	0734	4528786
 pb	731	0735	4528787
 pb	732	0736	4528788
-entry	Fougères. Emploi médical [Fonssagrives]		
+entry	Fougères. Emploi médical [Fonssagrives]	4	
 orth	Fougères. Emploi médical		
 pb	733	0737	4528789
 pb	734	0738	4528790
 pb	735	0739	4528791
 pb	736	0740	4528792
-entry	Fougerolles (François de) [A. Chéreau]		
+entry	Fougerolles (François de) [A. Chéreau]	1	
 orth	Fougerolles (François de)		
 pb	737	0741	4528793
-entry	Fougeroux de Bondaroy (Auguste-Denis) [L. Hahn]		
+entry	Fougeroux de Bondaroy (Auguste-Denis) [L. Hahn]	0	
 orth	Fougeroux de Bondaroy (Auguste-Denis)		
-entry	Fouilloux (Eau minérale de) [A. Rotureau]		
+entry	Fouilloux (Eau minérale de) [A. Rotureau]	0	
 orth	Fouilloux (Eau minérale de)		
-entry	Foulahs, Foulbes, Foullans, Fellatas, Peuls [Amédée Dechambre]		
+entry	Foulahs, Foulbes, Foullans, Fellatas, Peuls [Amédée Dechambre]	1	
 orth	Foulahs, Foulbes, Foullans, Fellatas, Peuls		
 pb	738	0742	4528794
-entry	Foulbes		
+entry	Foulbes	0	
 ref	Foulahs		
-entry	Fou-lin ou Fouling.. Planchon]		
+entry	Fou-lin ou Fouling.. Planchon]	0	
 ref	Squine [G		
-entry	Foullas		
+entry	Foullas	0	
 ref	Foulahs		
-entry	Foullioy (Louis-Mathurin) [L. Hahn]		
+entry	Foullioy (Louis-Mathurin) [L. Hahn]	1	
 orth	Foullioy (Louis-Mathurin)		
 pb	739	0743	4528795
-entry	Fouloir [Amédée Dechambre]		
+entry	Fouloir [Amédée Dechambre]	0	
 orth	Fouloir		
-entry	Foulque [P. Gervais]		
+entry	Foulque [P. Gervais]	0	
 orth	Foulque		
-entry	Fouquet (Henri) [L. Hahn]		
+entry	Fouquet (Henri) [L. Hahn]	3	
 orth	Fouquet (Henri)		
 pb	740	0744	4528796
 pb	741	0745	4528797
 pb	742	0746	4528798
-entry	Fouquier (Pierre-Éloi) [A. Chéreau]		
+entry	Fouquier (Pierre-Éloi) [A. Chéreau]	1	
 orth	Fouquier (Pierre-Éloi)		
 pb	743	0747	4528799
-entry	Four à pain		
+entry	Four à pain	0	
 ref	Boulangerie		
-entry	Four à chaux		
+entry	Four à chaux	0	
 ref	Chaux		
-entry	Fourcault (Alexandre) [A. Chéreau]		
+entry	Fourcault (Alexandre) [A. Chéreau]	0	
 orth	Fourcault (Alexandre)		
-entry	Fourche, Fourchette [Amédée Dechambre]		
+entry	Fourche, Fourchette [Amédée Dechambre]	1	
 orth	Fourche, Fourchette		
 pb	744	0748	4528800
-entry	Fourcroy (Antoine-François) [A. Chéreau]		
+entry	Fourcroy (Antoine-François) [A. Chéreau]	3	
 orth	Fourcroy (Antoine-François)		
 pb	745	0749	4528801
 pb	746	0750	4528802
 pb	747	0751	4528803
-entry	Fouré (Jean) [L. Hahn]		
+entry	Fouré (Jean) [L. Hahn]	1	
 orth	Fouré (Jean)		
 pb	748	0752	4528804
-entry	Fourmi		
+entry	Fourmi	0	
 ref	Fourmis		
-entry	Fourmiliers [P. Gervais]		
+entry	Fourmiliers [P. Gervais]	1	
 orth	Fourmiliers		
 pb	749	0753	4528805
-entry	Fourmilion [A. Laboulbène]		
+entry	Fourmilion [A. Laboulbène]	2	
 orth	Fourmilion		
 pb	750	0754	4528806
 pb	751	0755	4528807
-entry	Fourmis [A. Laboulbène]		
+entry	Fourmis [A. Laboulbène]	15	
 orth	Fourmis		
 pb	752	0756	4528808
 pb	753	0757	4528809
@@ -1209,52 +1209,52 @@ pb	763	0767	4528819
 pb	764	0768	4528820
 pb	765	0769	4528821
 pb	766	0770	4528822
-entry	Fourna [G. Planchon]		
+entry	Fourna [G. Planchon]	0	
 orth	Fourna		
-entry	Fournel (D. H. L.) [L. Hahn]		
+entry	Fournel (D. H. L.) [L. Hahn]	0	
 orth	Fournel (D. H. L.)		
 pb	767	0771	4528823
-entry	Fournier (Les) [A. Chéreau]		
+entry	Fournier (Les) [A. Chéreau]	1	
 orth	Fournier (Les)		
 pb	768	0772	4528824
-entry	Fournier-Deschamps (Jean-Adrien) [L. Hahn]		
+entry	Fournier-Deschamps (Jean-Adrien) [L. Hahn]	0	
 orth	Fournier-Deschamps (Jean-Adrien)		
-entry	Fournier de Pescay [L. Hahn]		
+entry	Fournier de Pescay [L. Hahn]	1	
 orth	Fournier de Pescay		
 pb	769	0773	4528825
-entry	Fourrures [Amédée Dechambre]		
+entry	Fourrures [Amédée Dechambre]	0	
 orth	Fourrures		
-entry	Foville (Achille-Louis) [A. Ritti]		
+entry	Foville (Achille-Louis) [A. Ritti]	1	
 orth	Foville (Achille-Louis)		
 pb	770	0774	4528826
-entry	Fowle (William) [L. Hahn]		
+entry	Fowle (William) [L. Hahn]	0	
 orth	Fowle (William)		
 pb	771	0775	4528827
-entry	Fowler (Thomas) [A. Dureau]		
+entry	Fowler (Thomas) [A. Dureau]	0	
 orth	Fowler (Thomas)		
-entry	Fowler (Richard) [L. Hahn]		
+entry	Fowler (Richard) [L. Hahn]	0	
 orth	Fowler (Richard)		
 pb	772	0776	4528828
-entry	Fowler (Liqueur de)		
+entry	Fowler (Liqueur de)	0	
 ref	Arsenic		
-entry	Fownes (George) [L. Hahn]		
+entry	Fownes (George) [L. Hahn]	0	
 orth	Fownes (George)		
-entry	Fox (Les) [L. Hahn]		
+entry	Fox (Les) [L. Hahn]	2	
 orth	Fox (Les)		
 pb	773	0777	4528829
 pb	774	0778	4528830
-entry	Foy-Vaillant (Les deux) [A. Chéreau]		
+entry	Foy-Vaillant (Les deux) [A. Chéreau]	1	
 orth	Foy-Vaillant (Les deux)		
 pb	775	0779	4528831
-entry	Fracanzano (Antonio) [L. Hahn]		
+entry	Fracanzano (Antonio) [L. Hahn]	1	
 orth	Fracanzano (Antonio)		
 pb	776	0780	4528832
-entry	Fracassati ou Fracassato (Charles) [L. Hahn]		
+entry	Fracassati ou Fracassato (Charles) [L. Hahn]	0	
 orth	Fracassati ou Fracassato (Charles)		
-entry	Fracassini (Antonio) [L. Hahn]		
+entry	Fracassini (Antonio) [L. Hahn]	0	
 orth	Fracassini (Antonio)		
 pb	777	0781	4528833
-entry	Articles contenus dans le troisième volume (4e série)		
+entry	Articles contenus dans le troisième volume (4e série)	2	
 pb	778	0782	4528834
 pb	779	0783	4528835
 pb	[s. pag.]	0784	4528836

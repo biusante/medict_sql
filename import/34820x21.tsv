@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	473376
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	473377
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	473378
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	473379
-entry	Nevralgie		
+entry	Nevralgie	25	
 pb	2	0005	473380
 pb	3	0006	473381
 pb	4	0007	473382
@@ -32,7 +32,7 @@ pb	24	0027	473402
 pb	25	0028	473403
 pb	26	0029	473404
 pb	27	0030	473405
-entry	Nevroses		
+entry	Nevroses	14	
 pb	28	0031	473406
 pb	29	0032	473407
 pb	30	0033	473408
@@ -47,7 +47,7 @@ pb	38	0041	473416
 pb	39	0042	473417
 pb	40	0043	473418
 pb	41	0044	473419
-entry	Nez		
+entry	Nez	77	
 pb	42	0045	473420
 pb	43	0046	473421
 pb	44	0047	473422
@@ -125,7 +125,7 @@ pb	115	0118	473493
 pb	116	0119	473494
 pb	117	0120	473495
 pb	118	0121	473496
-entry	Nitrique		
+entry	Nitrique	7	
 pb	119	0122	473497
 pb	120	0123	473498
 pb	121	0124	473499
@@ -133,19 +133,19 @@ pb	122	0125	473500
 pb	123	0126	473501
 pb	124	0127	473502
 pb	125	0128	473503
-entry	Noix vomique		
-entry	Nosologie, Nosographie		
+entry	Noix vomique	0	
+entry	Nosologie, Nosographie	0	
 orth	Nosologie		
 orth	Nosographie		
-entry	Nostalgie		
+entry	Nostalgie	0	
 pb	126	0129	473504
-entry	Nourrice		
+entry	Nourrice	4	
 pb	127	0130	473505
 pb	128	0131	473506
 pb	129	0132	473507
 pb	130	0133	473508
 pb	131	0134	473509
-entry	Nouveau-né		
+entry	Nouveau-né	32	
 pb	132	0135	473510
 pb	133	0136	473511
 pb	134	0137	473512
@@ -178,8 +178,8 @@ pb	160	0163	473538
 pb	161	0164	473539
 pb	162	0165	473540
 pb	163	0166	473541
-entry	Noyés		
-entry	Nutrition		
+entry	Noyés	0	
+entry	Nutrition	22	
 pb	164	0167	473542
 pb	165	0168	473543
 pb	166	0169	473544
@@ -202,19 +202,19 @@ pb	182	0185	473560
 pb	183	0186	473561
 pb	184	0187	473562
 pb	185	0188	473563
-entry	Nyctalopie		
+entry	Nyctalopie	2	
 pb	186	0189	473564
 pb	187	0190	473565
-entry	Nymphea		
-entry	Nympheacées		
+entry	Nymphea	0	
+entry	Nympheacées	2	
 pb	188	0191	473566
 pb	189	0192	473567
-entry	Nymphes, Nymphotomie		
+entry	Nymphes, Nymphotomie	0	
 orth	Nymphes		
 orth	Nymphotomie		
-entry	Nymphomanie		
-entry	Lettre O		
-entry	Obstétrique		
+entry	Nymphomanie	0	
+entry	Lettre O	0	
+entry	Obstétrique	43	
 pb	190	0193	473568
 pb	191	0194	473569
 pb	192	0195	473570
@@ -258,12 +258,12 @@ pb	229	0232	473607
 pb	230	0233	473608
 pb	231	0234	473609
 pb	232	0235	473610
-entry	Odontalgie		
+entry	Odontalgie	4	
 pb	233	0236	473611
 pb	234	0237	473612
 pb	235	0238	473613
 pb	236	0239	473614
-entry	Odontotechnie		
+entry	Odontotechnie	39	
 pb	237	0240	473615
 pb	238	0241	473616
 pb	239	0242	473617
@@ -303,9 +303,9 @@ pb	272	0275	473650
 pb	273	0276	473651
 pb	274	0277	473652
 pb	275	0278	473653
-entry	Odorat		
+entry	Odorat	0	
 pb	276	0279	473654
-entry	Oedème		
+entry	Oedème	7	
 pb	277	0280	473655
 pb	278	0281	473656
 pb	279	0282	473657
@@ -313,7 +313,7 @@ pb	280	0283	473658
 pb	281	0284	473659
 pb	282	0285	473660
 pb	283	0286	473661
-entry	Oeil		
+entry	Oeil	84	
 pb	284	0287	473662
 pb	285	0288	473663
 pb	286	0289	473664
@@ -399,10 +399,10 @@ pb	365	0368	473743
 pb	366	0369	473744
 pb	367	0370	473745
 pb	368	0371	473746
-entry	Oenanthe		
+entry	Oenanthe	1	
 pb	369	0372	473747
 pb	370	0373	473748
-entry	Oesophage		
+entry	Oesophage	63	
 pb	371	0374	473749
 pb	372	0375	473750
 pb	373	0376	473751
@@ -466,7 +466,7 @@ pb	430	0433	473808
 pb	431	0434	473809
 pb	432	0435	473810
 pb	433	0436	473811
-entry	Oeuf humain		
+entry	Oeuf humain	162	
 pb	434	0437	473812
 pb	435	0438	473813
 pb	436	0439	473814
@@ -630,7 +630,7 @@ pb	593	0596	473971
 pb	594	0597	473972
 pb	595	0598	473973
 pb	[s. pag.]	0599	473974
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0600	473975
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	600	0601	473976

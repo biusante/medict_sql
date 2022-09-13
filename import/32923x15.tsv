@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7294282
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7294283
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7294284
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7294285
-entry	Foetus		
+entry	Foetus	57	
 pb	2	0005	7294286
 pb	3	0006	7294287
 pb	4	0007	7294288
@@ -63,7 +63,7 @@ pb	55	0058	7294339
 pb	56	0059	7294340
 pb	57	0060	7294341
 pb	58	0061	7294342
-entry	Foie		
+entry	Foie	150	
 pb	59	0062	7294343
 pb	60	0063	7294344
 pb	61	0064	7294345
@@ -214,8 +214,8 @@ pb	205	0208	7294489
 pb	206	0209	7294490
 pb	207	0210	7294491
 pb	208	0211	7294492
-entry	Foie de soufre		
-entry	Folie		
+entry	Foie de soufre	0	
+entry	Folie	141	
 pb	209	0212	7294493
 pb	210	0213	7294494
 pb	211	0214	7294495
@@ -357,10 +357,10 @@ pb	346	0349	7294630
 pb	347	0350	7294631
 pb	348	0351	7294632
 pb	349	0352	7294633
-entry	Fomentation		
+entry	Fomentation	1	
 pb	350	0353	7294634
 pb	351	0354	7294635
-entry	Forceps		
+entry	Forceps	61	
 pb	352	0355	7294636
 pb	353	0356	7294637
 pb	354	0357	7294638
@@ -423,10 +423,10 @@ pb	410	0413	7294694
 pb	411	0414	7294695
 pb	412	0415	7294696
 pb	413	0416	7294697
-entry	Forges-les-Eaux		
+entry	Forges-les-Eaux	2	
 pb	414	0417	7294698
 pb	415	0418	7294699
-entry	Formuler		
+entry	Formuler	7	
 pb	416	0419	7294700
 pb	417	0420	7294701
 pb	418	0421	7294702
@@ -434,15 +434,15 @@ pb	419	0422	7294703
 pb	420	0423	7294704
 pb	421	0424	7294705
 pb	422	0425	7294706
-entry	Fougères		
+entry	Fougères	3	
 pb	423	0426	7294707
 pb	424	0427	7294708
 pb	425	0428	7294709
-entry	Fourmillement		
+entry	Fourmillement	2	
 pb	426	0429	7294710
 pb	427	0430	7294711
 pb	428	0431	7294712
-entry	Fractures		
+entry	Fractures	82	
 pb	429	0432	7294713
 pb	430	0433	7294714
 pb	431	0434	7294715
@@ -525,16 +525,16 @@ pb	507	0510	7294791
 pb	508	0511	7294792
 pb	509	0512	7294793
 pb	510	0513	7294794
-entry	Fraisier		
+entry	Fraisier	2	
 pb	511	0514	7294795
 pb	512	0515	7294796
-entry	Framboesia		
-entry	Franzensbad		
+entry	Framboesia	0	
+entry	Franzensbad	1	
 pb	513	0516	7294797
-entry	Friedrichshall		
+entry	Friedrichshall	1	
 pb	514	0517	7294798
-entry	Frisson		
-entry	Froid		
+entry	Frisson	0	
+entry	Froid	7	
 pb	515	0518	7294799
 pb	516	0519	7294800
 pb	517	0520	7294801
@@ -542,17 +542,17 @@ pb	518	0521	7294802
 pb	519	0522	7294803
 pb	520	0523	7294804
 pb	521	0524	7294805
-entry	Fucus		
+entry	Fucus	2	
 pb	522	0525	7294806
 pb	523	0526	7294807
-entry	Fumeterre		
+entry	Fumeterre	1	
 pb	524	0527	7294808
-entry	Fumigation		
+entry	Fumigation	4	
 pb	525	0528	7294809
 pb	526	0529	7294810
 pb	527	0530	7294811
 pb	528	0531	7294812
-entry	Furoncle		
+entry	Furoncle	13	
 pb	529	0532	7294813
 pb	530	0533	7294814
 pb	531	0534	7294815
@@ -566,12 +566,12 @@ pb	538	0541	7294822
 pb	539	0542	7294823
 pb	540	0543	7294824
 pb	541	0544	7294825
-entry	Lettre G		
-entry	Gaïac		
+entry	Lettre G	0	
+entry	Gaïac	3	
 pb	542	0545	7294826
 pb	543	0546	7294827
 pb	544	0547	7294828
-entry	Galactirrhée ou Galactorrhée		
+entry	Galactirrhée ou Galactorrhée	19	
 orth	Galactirrhée		
 orth	Galactorrhée		
 pb	545	0548	7294829
@@ -593,8 +593,8 @@ pb	560	0563	7294844
 pb	561	0564	7294845
 pb	562	0565	7294846
 pb	563	0566	7294847
-entry	Galbanum		
-entry	Gale		
+entry	Galbanum	0	
+entry	Gale	26	
 pb	564	0567	7294848
 pb	565	0568	7294849
 pb	566	0569	7294850
@@ -621,17 +621,17 @@ pb	586	0589	7294870
 pb	587	0590	7294871
 pb	588	0591	7294872
 pb	589	0592	7294873
-entry	Galle		
+entry	Galle	3	
 pb	590	0593	7294874
 pb	591	0594	7294875
 pb	592	0595	7294876
-entry	Galvanisme		
-entry	Galvano-caustique, Galvano-puncture		
+entry	Galvanisme	0	
+entry	Galvano-caustique, Galvano-puncture	0	
 orth	Galvano-caustique		
 orth	Galvano-puncture		
-entry	Ganglion		
-entry	Ganglion lymphatique		
-entry	Gangrène		
+entry	Ganglion	0	
+entry	Ganglion lymphatique	0	
+entry	Gangrène	124	
 pb	593	0596	7294877
 pb	594	0597	7294878
 pb	595	0598	7294879
@@ -757,24 +757,24 @@ pb	714	0717	7294998
 pb	715	0718	7294999
 pb	716	0719	7295000
 pb	717	0720	7295001
-entry	Gargarisme		
+entry	Gargarisme	2	
 pb	718	0721	7295002
 pb	719	0722	7295003
 pb	720	0723	7295004
-entry	Garou		
+entry	Garou	2	
 pb	721	0724	7295005
 pb	722	0725	7295006
-entry	Gastein		
+entry	Gastein	3	
 pb	723	0726	7295007
 pb	724	0727	7295008
 pb	725	0728	7295009
-entry	Gastralgie		
-entry	Gastrique		
-entry	Gastrite		
+entry	Gastralgie	0	
+entry	Gastrique	0	
+entry	Gastrite	0	
 pb	726	0729	7295010
-entry	Gastrodynie		
-entry	Gastrotomie		
-entry	Gélatine		
+entry	Gastrodynie	0	
+entry	Gastrotomie	0	
+entry	Gélatine	8	
 pb	727	0730	7295011
 pb	728	0731	7295012
 pb	729	0732	7295013
@@ -783,11 +783,11 @@ pb	731	0734	7295015
 pb	732	0735	7295016
 pb	733	0736	7295017
 pb	734	0737	7295018
-entry	Gelées		
+entry	Gelées	3	
 pb	735	0738	7295019
 pb	736	0739	7295020
 pb	737	0740	7295021
-entry	Gencives		
+entry	Gencives	14	
 pb	738	0741	7295022
 pb	739	0742	7295023
 pb	740	0743	7295024
@@ -802,7 +802,7 @@ pb	748	0751	7295032
 pb	749	0752	7295033
 pb	750	0753	7295034
 pb	751	0754	7295035
-entry	Génération		
+entry	Génération	34	
 pb	752	0755	7295036
 pb	753	0756	7295037
 pb	754	0757	7295038
@@ -838,4 +838,4 @@ pb	783	0786	7295067
 pb	784	0787	7295068
 pb	785	0788	7295069
 pb	[s. pag.]	0789	7295070
-entry	Table des auteurs		
+entry	Table des auteurs	0	

@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4570901
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4570902
 pb	[s. pag.]	0003	4570903
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4570904
 pb	1	0005	4570905
-entry	Ophthalmie sympathique (Ophthalmie réflexe) [Nuel]		
+entry	Ophthalmie sympathique (Ophthalmie réflexe) [Nuel]	29	
 orth	Ophthalmie sympathique (Ophthalmie réflexe)		
 pb	2	0006	4570906
 pb	3	0007	4570907
@@ -36,7 +36,7 @@ pb	27	0031	4570931
 pb	28	0032	4570932
 pb	29	0033	4570933
 pb	30	0034	4570934
-entry	Ophthalmique (Nerf) [Nuel]		
+entry	Ophthalmique (Nerf) [Nuel]	6	
 orth	Ophthalmique (Nerf)		
 pb	31	0035	4570935
 pb	32	0036	4570936
@@ -44,8 +44,8 @@ pb	33	0037	4570937
 pb	34	0038	4570938
 pb	35	0039	4570939
 pb	36	0040	4570940
-entry	Ophthalmiques (Vaisseaux)		
-entry	Ophthalmiques (Vaisseaux). Anatomie [Nuel]		
+entry	Ophthalmiques (Vaisseaux)	0	
+entry	Ophthalmiques (Vaisseaux). Anatomie [Nuel]	17	
 orth	Ophthalmiques (Vaisseaux). Anatomie		
 pb	37	0041	4570941
 pb	38	0042	4570942
@@ -64,18 +64,18 @@ pb	50	0054	4570954
 pb	51	0055	4570955
 pb	52	0056	4570956
 pb	53	0057	4570957
-entry	Ophthalmiques (Vaisseaux). Pathologie [Nuel]		
+entry	Ophthalmiques (Vaisseaux). Pathologie [Nuel]	2	
 orth	Ophthalmiques (Vaisseaux). Pathologie		
 pb	54	0058	4570958
 pb	55	0059	4570959
-entry	Ophthalmitis [Nuel]		
+entry	Ophthalmitis [Nuel]	5	
 orth	Ophthalmitis		
 pb	56	0060	4570960
 pb	57	0061	4570961
 pb	58	0062	4570962
 pb	59	0063	4570963
 pb	60	0064	4570964
-entry	Ophthalmologie (Historique) [A. Chéreau]		
+entry	Ophthalmologie (Historique) [A. Chéreau]	15	
 orth	Ophthalmologie (Historique)		
 pb	61	0065	4570965
 pb	62	0066	4570966
@@ -92,7 +92,7 @@ pb	72	0076	4570976
 pb	73	0077	4570977
 pb	74	0078	4570978
 pb	75	0079	4570979
-entry	Ophthalmométrie [H. Schiötz]		
+entry	Ophthalmométrie [H. Schiötz]	8	
 orth	Ophthalmométrie		
 pb	76	0080	4570980
 pb	77	0081	4570981
@@ -102,9 +102,9 @@ pb	80	0084	4570984
 pb	81	0085	4570985
 pb	82	0086	4570986
 pb	83	0087	4570987
-entry	Ophthalmo-microscope [Amédée Dechambre]		
+entry	Ophthalmo-microscope [Amédée Dechambre]	0	
 orth	Ophthalmo-microscope		
-entry	Ophthalmoscopie, Ophthalmoscope [Maurice Perrin]		
+entry	Ophthalmoscopie, Ophthalmoscope [Maurice Perrin]	41	
 orth	Ophthalmoscopie, Ophthalmoscope		
 pb	84	0088	4570988
 pb	85	0089	4570989
@@ -147,46 +147,46 @@ pb	121	0125	4571025
 pb	122	0126	4571026
 pb	123	0127	4571027
 pb	124	0128	4571028
-entry	Ophthalmostats [O. Aubry]		
+entry	Ophthalmostats [O. Aubry]	5	
 orth	Ophthalmostats		
 pb	125	0129	4571029
 pb	126	0130	4571030
 pb	127	0131	4571031
 pb	128	0132	4571032
 pb	129	0133	4571033
-entry	Ophthalmoxystre [Amédée Dechambre]		
+entry	Ophthalmoxystre [Amédée Dechambre]	0	
 orth	Ophthalmoxystre		
-entry	Opianine [Malaguti]		
+entry	Opianine [Malaguti]	0	
 orth	Opianine		
-entry	Opianique (Acide) [Malaguti]		
+entry	Opianique (Acide) [Malaguti]	1	
 orth	Opianique (Acide)		
 pb	130	0134	4571034
-entry	Opiats [E. Burcker]		
+entry	Opiats [E. Burcker]	4	
 orth	Opiats		
 pb	131	0135	4571035
 pb	132	0136	4571036
 pb	133	0137	4571037
 pb	134	0138	4571038
-entry	Opine [Amédée Dechambre]		
+entry	Opine [Amédée Dechambre]	0	
 orth	Opine		
-entry	Opinique (Acide) [Malaguti]		
+entry	Opinique (Acide) [Malaguti]	0	
 orth	Opinique (Acide)		
-entry	Opisthobranches [Ed. Lefèvre]		
+entry	Opisthobranches [Ed. Lefèvre]	1	
 orth	Opisthobranches		
 pb	135	0139	4571039
-entry	Opisthocrane [Amédée Dechambre]		
+entry	Opisthocrane [Amédée Dechambre]	0	
 orth	Opisthocrane		
-entry	Opisthocyphose [Amédée Dechambre]		
+entry	Opisthocyphose [Amédée Dechambre]	0	
 orth	Opisthocyphose		
-entry	Opisthognathisme [Amédée Dechambre]		
+entry	Opisthognathisme [Amédée Dechambre]	0	
 orth	Opisthognathisme		
-entry	Opisthotonos [Amédée Dechambre]		
+entry	Opisthotonos [Amédée Dechambre]	0	
 orth	Opisthotonos		
-entry	Opitz (Rudolph-Karl-Friedrich) [L. Hahn]		
+entry	Opitz (Rudolph-Karl-Friedrich) [L. Hahn]	1	
 orth	Opitz (Rudolph-Karl-Friedrich)		
 pb	136	0140	4571040
-entry	Opium		
-entry	Opium. Matière médicale et chimie [P. Coulier]		
+entry	Opium	0	
+entry	Opium. Matière médicale et chimie [P. Coulier]	10	
 orth	Opium. Matière médicale et chimie		
 pb	137	0141	4571041
 pb	138	0142	4571042
@@ -198,7 +198,7 @@ pb	143	0147	4571047
 pb	144	0148	4571048
 pb	145	0149	4571049
 pb	146	0150	4571050
-entry	Opium. Emploi médical [Fonssagrives]		
+entry	Opium. Emploi médical [Fonssagrives]	94	
 orth	Opium. Emploi médical		
 pb	147	0151	4571051
 pb	148	0152	4571052
@@ -294,7 +294,7 @@ pb	237	0241	4571141
 pb	238	0242	4571142
 pb	239	0243	4571143
 pb	240	0244	4571144
-entry	Opium. Toxicologie [Fonssagrives]		
+entry	Opium. Toxicologie [Fonssagrives]	25	
 orth	Opium. Toxicologie		
 pb	241	0245	4571145
 pb	242	0246	4571146
@@ -322,58 +322,58 @@ pb	263	0267	4571167
 pb	264	0268	4571168
 pb	265	0269	4571169
 pb	266	0270	4571170
-entry	Opobalsamum		
+entry	Opobalsamum	0	
 ref	Balsamodendron		
 ref	Baumes		
-entry	Opocalpasum [H. Baillon]		
+entry	Opocalpasum [H. Baillon]	0	
 orth	Opocalpasum		
-entry	Opocéphales [O. Larcher]		
+entry	Opocéphales [O. Larcher]	0	
 orth	Opocéphales		
-entry	Opodeldoch		
+entry	Opodeldoch	0	
 ref	Baumes		
-entry	Opodymes [O. Larcher]		
+entry	Opodymes [O. Larcher]	0	
 orth	Opodymes		
-entry	Opoix (Christophe) [L. Hahn]		
+entry	Opoix (Christophe) [L. Hahn]	0	
 orth	Opoix (Christophe)		
-entry	Opopanax		
-entry	Opopanax. Botanique [G. Planchon]		
+entry	Opopanax	0	
+entry	Opopanax. Botanique [G. Planchon]	1	
 orth	Opopanax. Botanique		
 pb	267	0271	4571171
-entry	Opopanax. Matière médicale [L. Hahn]		
+entry	Opopanax. Matière médicale [L. Hahn]	1	
 orth	Opopanax. Matière médicale		
 pb	268	0272	4571172
-entry	Emploi médical [L. Hahn]		
+entry	Emploi médical [L. Hahn]	0	
 orth	Emploi médical		
-entry	Oposine [C. Lutz]		
+entry	Oposine [C. Lutz]	0	
 orth	Oposine		
 pb	269	0273	4571173
-entry	Oppenheim (Les) [L. Hahn]		
+entry	Oppenheim (Les) [L. Hahn]	1	
 orth	Oppenheim (Les)		
 pb	270	0274	4571174
-entry	Oppert (Carl-G.-Th.) [A. Dureau]		
+entry	Oppert (Carl-G.-Th.) [A. Dureau]	0	
 orth	Oppert (Carl-G.-Th.)		
-entry	Opphoff (Carl-Adolf) [L. Hahn]		
+entry	Opphoff (Carl-Adolf) [L. Hahn]	1	
 orth	Opphoff (Carl-Adolf)		
 pb	271	0275	4571175
-entry	Oppolzer (Johann) [L. Hahn]		
+entry	Oppolzer (Johann) [L. Hahn]	0	
 orth	Oppolzer (Johann)		
-entry	Opposant du petit doigt		
+entry	Opposant du petit doigt	0	
 ref	Main		
-entry	Opposant du petit orteil		
+entry	Opposant du petit orteil	0	
 ref	Pied		
-entry	Opposant du pouce		
+entry	Opposant du pouce	0	
 ref	Main		
 pb	272	0276	4571176
-entry	Oppression [Amédée Dechambre]		
+entry	Oppression [Amédée Dechambre]	0	
 orth	Oppression		
-entry	Opsago [G. Planchon]		
+entry	Opsago [G. Planchon]	0	
 orth	Opsago		
-entry	Opsantha [G. Planchon]		
+entry	Opsantha [G. Planchon]	0	
 orth	Opsantha		
-entry	Opsopaeus ou Obsopaeus (Jean) [L. Hahn]		
+entry	Opsopaeus ou Obsopaeus (Jean) [L. Hahn]	0	
 orth	Opsopaeus ou Obsopaeus (Jean)		
-entry	Optique (Nerf)		
-entry	Optique (Nerf). Anatomie [Duwez]		
+entry	Optique (Nerf)	0	
+entry	Optique (Nerf). Anatomie [Duwez]	26	
 orth	Optique (Nerf). Anatomie		
 pb	273	0277	4571177
 pb	274	0278	4571178
@@ -402,14 +402,14 @@ pb	296	0300	4571200
 pb	297	0301	4571201
 pb	[s. pag.]	0302	4571202
 pb	299	0303	4571203
-entry	Physiologie [Duwez]		
+entry	Physiologie [Duwez]	0	
 orth	Physiologie		
 pb	[s. pag.]	0304	4571204
 pb	301	0305	4571205
-entry	Optique (Nerf). Physiologie [Duwez]		
+entry	Optique (Nerf). Physiologie [Duwez]	0	
 orth	Optique (Nerf). Physiologie		
-entry	Pathologie		
-entry	Optique (Nerf). Pathologie. Considér. génér. [Duwez]		
+entry	Pathologie	0	
+entry	Optique (Nerf). Pathologie. Considér. génér. [Duwez]	7	
 orth	Optique (Nerf). Pathologie. Considér. génér.		
 pb	302	0306	4571206
 pb	303	0307	4571207
@@ -418,16 +418,16 @@ pb	305	0309	4571209
 pb	306	0310	4571210
 pb	307	0311	4571211
 pb	308	0312	4571212
-entry	Optique (Nerf). Pathologie. Anomalies congénitales du nerf optique [Duwez]		
+entry	Optique (Nerf). Pathologie. Anomalies congénitales du nerf optique [Duwez]	2	
 orth	Optique (Nerf). Pathologie. Anomalies congénitales du nerf optique		
 pb	309	0313	4571213
 pb	310	0314	4571214
-entry	Hyperémie du nerf optique		
+entry	Hyperémie du nerf optique	0	
 ref	Rétine		
-entry	Névrite optique.. Rétine		
+entry	Névrite optique.. Rétine	0	
 ref	Neuro-rétinite		
 ref	art		
-entry	Optique (Nerf). Pathologie. Atrophie du nerf optique [Duwez]		
+entry	Optique (Nerf). Pathologie. Atrophie du nerf optique [Duwez]	28	
 orth	Optique (Nerf). Pathologie. Atrophie du nerf optique		
 pb	311	0315	4571215
 pb	312	0316	4571216
@@ -457,26 +457,26 @@ pb	335	0339	4571239
 pb	336	0340	4571240
 pb	337	0341	4571241
 pb	338	0342	4571242
-entry	Optique (Nerf). Pathologie. Apoplexie du nerf optique [Duwez]		
+entry	Optique (Nerf). Pathologie. Apoplexie du nerf optique [Duwez]	4	
 orth	Optique (Nerf). Pathologie. Apoplexie du nerf optique		
 pb	339	0343	4571243
 pb	340	0344	4571244
 pb	341	0345	4571245
 pb	342	0346	4571246
-entry	Optique (Nerf). Pathologie. Blessures du nerf optique [Duwez]		
+entry	Optique (Nerf). Pathologie. Blessures du nerf optique [Duwez]	5	
 orth	Optique (Nerf). Pathologie. Blessures du nerf optique		
 pb	343	0347	4571247
 pb	344	0348	4571248
 pb	345	0349	4571249
 pb	346	0350	4571250
 pb	347	0351	4571251
-entry	Optique (Nerf). Pathologie. Tumeurs du nerf optique [Duwez]		
+entry	Optique (Nerf). Pathologie. Tumeurs du nerf optique [Duwez]	3	
 orth	Optique (Nerf). Pathologie. Tumeurs du nerf optique		
 pb	348	0352	4571252
 pb	349	0353	4571253
 pb	350	0354	4571254
 pb	351	0355	4571255
-entry	Optique (Nerf). Pathologie. Hemiopie ou Hemianopsie [Duwez]		
+entry	Optique (Nerf). Pathologie. Hemiopie ou Hemianopsie [Duwez]	19	
 orth	Optique (Nerf). Pathologie. Hemiopie ou Hemianopsie		
 pb	352	0356	4571256
 pb	353	0357	4571257
@@ -498,7 +498,7 @@ pb	368	0372	4571272
 pb	369	0373	4571273
 pb	370	0374	4571274
 pb	371	0375	4571275
-entry	Optique (Physique) [C.-M. Gariel]		
+entry	Optique (Physique) [C.-M. Gariel]	78	
 orth	Optique (Physique)		
 pb	372	0376	4571276
 pb	373	0377	4571277
@@ -578,13 +578,13 @@ pb	446	0450	4571350
 pb	447	0451	4571351
 pb	448	0452	4571352
 pb	449	0453	4571353
-entry	Optique (Instruments d') [G.]		
+entry	Optique (Instruments d') [G.]	0	
 orth	Optique (Instruments d')		
-entry	Optiques (Bandelettes)		
+entry	Optiques (Bandelettes)	0	
 ref	Optique (Nerf)		
-entry	Optiques (Corps) [Amédée Dechambre]		
+entry	Optiques (Corps) [Amédée Dechambre]	0	
 orth	Optiques (Corps)		
-entry	Optométrie, Optomètre [Maurice Perrin]		
+entry	Optométrie, Optomètre [Maurice Perrin]	28	
 orth	Optométrie, Optomètre		
 pb	450	0454	4571354
 pb	451	0455	4571355
@@ -614,19 +614,19 @@ pb	474	0478	4571378
 pb	475	0479	4571379
 pb	476	0480	4571380
 pb	477	0481	4571381
-entry	Opulus [G. Planchon]		
+entry	Opulus [G. Planchon]	0	
 orth	Opulus		
-entry	Opuntia [G. Planchon]		
+entry	Opuntia [G. Planchon]	1	
 orth	Opuntia		
 pb	478	0482	4571382
-entry	Or		
-entry	Or. Chimie [Malaguti]		
+entry	Or	0	
+entry	Or. Chimie [Malaguti]	4	
 orth	Or. Chimie		
 pb	479	0483	4571383
 pb	480	0484	4571384
 pb	481	0485	4571385
 pb	482	0486	4571386
-entry	Or. Thérapeutique [Fonssagrives]		
+entry	Or. Thérapeutique [Fonssagrives]	11	
 orth	Or. Thérapeutique		
 pb	483	0487	4571387
 pb	484	0488	4571388
@@ -640,45 +640,45 @@ pb	491	0495	4571395
 pb	492	0496	4571396
 pb	493	0497	4571397
 pb	494	0498	4571398
-entry	Or		
-entry	Or. Pharmacie et posologie [Fonssagrives]		
+entry	Or	0	
+entry	Or. Pharmacie et posologie [Fonssagrives]	4	
 orth	Or. Pharmacie et posologie		
 pb	495	0499	4571399
 pb	496	0500	4571400
 pb	497	0501	4571401
 pb	498	0502	4571402
-entry	Or. Toxicologie [Fonssagrives]		
+entry	Or. Toxicologie [Fonssagrives]	2	
 orth	Or. Toxicologie		
 pb	499	0503	4571403
 pb	500	0504	4571404
-entry	Hygiène industrielle		
+entry	Hygiène industrielle	0	
 ref	Doreurs		
-entry	Oracle [Amédée Dechambre]		
+entry	Oracle [Amédée Dechambre]	1	
 orth	Oracle		
 pb	501	0505	4571405
 pb	502	0506	4571406
-entry	Orage [E. Renou]		
+entry	Orage [E. Renou]	3	
 orth	Orage		
 pb	503	0507	4571407
 pb	504	0508	4571408
 pb	505	0509	4571409
-entry	Orange, Orangers		
-entry	Orange, Orangers. Botanique [H. Baillon]		
+entry	Orange, Orangers	0	
+entry	Orange, Orangers. Botanique [H. Baillon]	1	
 orth	Orange, Orangers. Botanique		
 pb	506	0510	4571410
-entry	Orange, Orangers. Pharmacologie [Amédée Dechambre]		
+entry	Orange, Orangers. Pharmacologie [Amédée Dechambre]	4	
 orth	Orange, Orangers. Pharmacologie		
 pb	507	0511	4571411
 pb	508	0512	4571412
 pb	509	0513	4571413
 pb	510	0514	4571414
-entry	Orange, Orangers. Emploi médical et bromatologique [Amédée Dechambre]		
+entry	Orange, Orangers. Emploi médical et bromatologique [Amédée Dechambre]	1	
 orth	Orange, Orangers. Emploi médical et bromatologique		
 pb	511	0515	4571415
-entry	Orangette		
+entry	Orangette	0	
 ref	Orange		
 ref	Orangers		
-entry	Orang-Outan [E. Oustalet]		
+entry	Orang-Outan [E. Oustalet]	16	
 orth	Orang-Outan		
 pb	512	0516	4571416
 pb	513	0517	4571417
@@ -696,13 +696,13 @@ pb	524	0528	4571428
 pb	525	0529	4571429
 pb	526	0530	4571430
 pb	527	0531	4571431
-entry	Ora serrata		
+entry	Ora serrata	0	
 ref	Choroïde		
 ref	Ciliaire		
 ref	Oeil		
-entry	Orbiculaire des lèvres [A. Le Double]		
+entry	Orbiculaire des lèvres [A. Le Double]	0	
 orth	Orbiculaire des lèvres		
-entry	Orbiculaire des paupières [A. Le Double]		
+entry	Orbiculaire des paupières [A. Le Double]	12	
 orth	Orbiculaire des paupières		
 pb	528	0532	4571432
 pb	529	0533	4571433
@@ -716,32 +716,32 @@ pb	536	0540	4571440
 pb	537	0541	4571441
 pb	538	0542	4571442
 pb	539	0543	4571443
-entry	Orbiculaire de l'urèthre (Muscle)		
+entry	Orbiculaire de l'urèthre (Muscle)	0	
 ref	Urèthre		
-entry	Orbicule [Ed. Lefèvre]		
+entry	Orbicule [Ed. Lefèvre]	0	
 orth	Orbicule		
 pb	540	0544	4571444
-entry	Orbigny (Les D') [L. Hahn]		
+entry	Orbigny (Les D') [L. Hahn]	1	
 orth	Orbigny (Les D')		
 pb	541	0545	4571445
-entry	Orbitaire (Artère)		
+entry	Orbitaire (Artère)	0	
 ref	Ophthalmique (Artère)		
-entry	Orbitaires (Nerfs) [Amédée Dechambre]		
+entry	Orbitaires (Nerfs) [Amédée Dechambre]	1	
 orth	Orbitaires (Nerfs)		
 pb	542	0546	4571446
-entry	Orbite		
-entry	Orbite. Anatomie [J. Chauvel]		
+entry	Orbite	0	
+entry	Orbite. Anatomie [J. Chauvel]	4	
 orth	Orbite. Anatomie		
 pb	543	0547	4571447
 pb	544	0548	4571448
 pb	545	0549	4571449
 pb	546	0550	4571450
-entry	Orbite. Anatomie. Dimensions de l'orbite [J. Chauvel]		
+entry	Orbite. Anatomie. Dimensions de l'orbite [J. Chauvel]	3	
 orth	Orbite. Anatomie. Dimensions de l'orbite		
 pb	547	0551	4571451
 pb	548	0552	4571452
 pb	549	0553	4571453
-entry	Orbite. Anatomie. Cubage de l'orbite [J. Chauvel]		
+entry	Orbite. Anatomie. Cubage de l'orbite [J. Chauvel]	6	
 orth	Orbite. Anatomie. Cubage de l'orbite		
 pb	550	0554	4571454
 pb	551	0555	4571455
@@ -749,30 +749,30 @@ pb	552	0556	4571456
 pb	553	0557	4571457
 pb	554	0558	4571458
 pb	555	0559	4571459
-entry	Orbite. Anatomie. Anatomie comparée [J. Chauvel]		
+entry	Orbite. Anatomie. Anatomie comparée [J. Chauvel]	1	
 orth	Orbite. Anatomie. Anatomie comparée		
 pb	556	0560	4571460
-entry	Développement [J. Chauvel]		
+entry	Développement [J. Chauvel]	0	
 orth	Développement		
-entry	Contenu de l'orbite [J. Chauvel] 		
+entry	Contenu de l'orbite [J. Chauvel] 	0	
 orth	Contenu de l'orbite 		
 pb	557	0561	4571461
-entry	Orbite. Anatomie. Contenu de l'orbite [J. Chauvel]		
+entry	Orbite. Anatomie. Contenu de l'orbite [J. Chauvel]	0	
 orth	Orbite. Anatomie. Contenu de l'orbite		
-entry	Anatomie des plans [J. Chauvel] 		
+entry	Anatomie des plans [J. Chauvel] 	0	
 orth	Anatomie des plans 		
 pb	558	0562	4571462
-entry	Orbite. Anatomie. Anatomie des plans [J. Chauvel]		
+entry	Orbite. Anatomie. Anatomie des plans [J. Chauvel]	0	
 orth	Orbite. Anatomie. Anatomie des plans		
-entry	Orbite. Abnormités congénitales [J. Chauvel]		
+entry	Orbite. Abnormités congénitales [J. Chauvel]	1	
 orth	Orbite. Abnormités congénitales		
 pb	559	0563	4571463
-entry	Pathologie		
-entry	Orbite. Pathologie. Généralités [J. Chauvel]		
+entry	Pathologie	0	
+entry	Orbite. Pathologie. Généralités [J. Chauvel]	2	
 orth	Orbite. Pathologie. Généralités		
 pb	560	0564	4571464
 pb	561	0565	4571465
-entry	Orbite. Pathologie. Lésions traumatiques de l'orbite [J. Chauvel]		
+entry	Orbite. Pathologie. Lésions traumatiques de l'orbite [J. Chauvel]	37	
 orth	Orbite. Pathologie. Lésions traumatiques de l'orbite		
 pb	562	0566	4571466
 pb	563	0567	4571467
@@ -811,7 +811,7 @@ pb	595	0599	4571499
 pb	596	0600	4571500
 pb	597	0601	4571501
 pb	598	0602	4571502
-entry	Orbite. Pathologie. Maladies inflammatoires [J. Chauvel]		
+entry	Orbite. Pathologie. Maladies inflammatoires [J. Chauvel]	26	
 orth	Orbite. Pathologie. Maladies inflammatoires		
 pb	599	0603	4571503
 pb	600	0604	4571504
@@ -839,7 +839,7 @@ pb	621	0625	4571525
 pb	622	0626	4571526
 pb	623	0627	4571527
 pb	624	0628	4571528
-entry	Orbite. Pathologie. Tumeurs de l'orbite [J. Chauvel]		
+entry	Orbite. Pathologie. Tumeurs de l'orbite [J. Chauvel]	127	
 orth	Orbite. Pathologie. Tumeurs de l'orbite		
 pb	625	0629	4571529
 pb	626	0630	4571530
@@ -968,43 +968,43 @@ pb	748	0752	4571652
 pb	749	0753	4571653
 pb	750	0754	4571654
 pb	751	0755	4571655
-entry	Orbitèle		
+entry	Orbitèle	0	
 ref	Araignée		
-entry	Orcanette		
-entry	Botanique [G. Planchon]		
+entry	Orcanette	0	
+entry	Botanique [G. Planchon]	0	
 orth	Botanique		
-entry	Orcanette. Emploi [L. Hahn]		
+entry	Orcanette. Emploi [L. Hahn]	2	
 orth	Orcanette. Emploi		
 pb	752	0756	4571656
 pb	753	0757	4571657
-entry	Orcéine [C. Lutz]		
+entry	Orcéine [C. Lutz]	1	
 orth	Orcéine		
 pb	754	0758	4571658
-entry	Orchidées [G. Planchon]		
+entry	Orchidées [G. Planchon]	1	
 orth	Orchidées		
 pb	755	0759	4571659
-entry	Orchion		
+entry	Orchion	0	
 ref	Orcyon		
-entry	Orchis [G. Planchon]		
+entry	Orchis [G. Planchon]	1	
 orth	Orchis		
 pb	756	0760	4571660
-entry	Orchite [Amédée Dechambre]		
+entry	Orchite [Amédée Dechambre]	0	
 orth	Orchite		
-entry	Orcine [C. Lutz]		
+entry	Orcine [C. Lutz]	1	
 orth	Orcine		
 pb	757	0761	4571661
 pb	758	0762	4571662
-entry	Orcyon [G. Planchon]		
+entry	Orcyon [G. Planchon]	0	
 orth	Orcyon		
-entry	Ordonez (Les) [L. Hahn]		
+entry	Ordonez (Les) [L. Hahn]	0	
 orth	Ordonez (Les)		
-entry	O'Reardon (John) [L. Hahn]		
+entry	O'Reardon (John) [L. Hahn]	1	
 orth	O'Reardon (John)		
 pb	759	0763	4571663
-entry	Oreille		
-entry	Botanique [G. Planchon]		
+entry	Oreille	0	
+entry	Botanique [G. Planchon]	0	
 orth	Botanique		
 pb	[s. pag.]	0764	4571664
 pb	761	0765	4571665
-entry	Articles contenus dans le seizième volume (2e série)		
+entry	Articles contenus dans le seizième volume (2e série)	1	
 pb	762	0766	4571666

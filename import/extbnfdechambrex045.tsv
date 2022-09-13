@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	4532838
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4532839
 pb	[s. pag.]	0003	4532840
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4532841
 pb	1	0005	4532842
-entry	Glandes		
-entry	Glandes. Anatomie descriptive [H. Chrétien]		
+entry	Glandes	0	
+entry	Glandes. Anatomie descriptive [H. Chrétien]	9	
 orth	Glandes. Anatomie descriptive		
 pb	2	0006	4532843
 pb	3	0007	4532844
@@ -17,7 +17,7 @@ pb	7	0011	4532848
 pb	8	0012	4532849
 pb	9	0013	4532850
 pb	10	0014	4532851
-entry	Glandes. Histologie [H. Chrétien]		
+entry	Glandes. Histologie [H. Chrétien]	62	
 orth	Glandes. Histologie		
 pb	11	0015	4532852
 pb	12	0016	4532853
@@ -81,7 +81,7 @@ pb	69	0073	4532910
 pb	70	0074	4532911
 pb	71	0075	4532912
 pb	72	0076	4532913
-entry	Glandes. Physiologie [H. Chrétien]		
+entry	Glandes. Physiologie [H. Chrétien]	45	
 orth	Glandes. Physiologie		
 pb	73	0077	4532914
 pb	74	0078	4532915
@@ -128,43 +128,43 @@ pb	114	0118	4532955
 pb	115	0119	4532956
 pb	116	0120	4532957
 pb	117	0121	4532958
-entry	Glandes [Amédée Dechambre]		
+entry	Glandes [Amédée Dechambre]	1	
 orth	Glandes		
 pb	118	0122	4532959
-entry	Glandorp (Les deux) [L. Hahn]		
+entry	Glandorp (Les deux) [L. Hahn]	0	
 orth	Glandorp (Les deux)		
-entry	Glans Unguentaria [G. Planchon]		
+entry	Glans Unguentaria [G. Planchon]	0	
 orth	Glans Unguentaria		
-entry	Glas (Olof) [A. Dureau]		
+entry	Glas (Olof) [A. Dureau]	0	
 orth	Glas (Olof)		
 pb	119	0123	4532960
-entry	Glas (Olof) [A. Dureau] [L. Hahn]		
+entry	Glas (Olof) [A. Dureau] [L. Hahn]	0	
 orth	Glas (Olof)		
-entry	Glaser (Les) [L. Hahn]		
+entry	Glaser (Les) [L. Hahn]	2	
 orth	Glaser (Les)		
 pb	120	0124	4532961
 pb	121	0125	4532962
-entry	Glass (Les) [L. Hahn]		
+entry	Glass (Les) [L. Hahn]	1	
 orth	Glass (Les)		
 pb	122	0126	4532963
-entry	Glauber (Jean-Rodolphe) [A. Chéreau]		
+entry	Glauber (Jean-Rodolphe) [A. Chéreau]	2	
 orth	Glauber (Jean-Rodolphe)		
 pb	123	0127	4532964
 pb	124	0128	4532965
-entry	Glaucias [A. Chéreau]		
+entry	Glaucias [A. Chéreau]	0	
 orth	Glaucias		
-entry	Glaucier, Glauciaire		
+entry	Glaucier, Glauciaire	0	
 ref	Glaucium		
-entry	Glaucine [L. Hahn]		
+entry	Glaucine [L. Hahn]	1	
 orth	Glaucine		
 pb	125	0129	4532966
-entry	Glaucique (Acide) [L. Hahn]		
+entry	Glaucique (Acide) [L. Hahn]	0	
 orth	Glaucique (Acide)		
-entry	Glaucium (T.) [H. Baillon]		
+entry	Glaucium (T.) [H. Baillon]	2	
 orth	Glaucium (T.)		
 pb	126	0130	4532967
 pb	127	0131	4532968
-entry	Glaucome [Gayet]		
+entry	Glaucome [Gayet]	109	
 orth	Glaucome		
 pb	128	0132	4532969
 pb	129	0133	4532970
@@ -275,107 +275,107 @@ pb	233	0237	4533074
 pb	234	0238	4533075
 pb	235	0239	4533076
 pb	236	0240	4533077
-entry	Glaucopicrine [L. Hahn]		
+entry	Glaucopicrine [L. Hahn]	1	
 orth	Glaucopicrine		
 pb	237	0241	4533078
-entry	Glaucothoé [Ed. Lefèvre]		
+entry	Glaucothoé [Ed. Lefèvre]	0	
 orth	Glaucothoé		
-entry	Glaucotine [L. Hahn]		
+entry	Glaucotine [L. Hahn]	0	
 orth	Glaucotine		
-entry	Glaucus [Ed. Lefèvre]		
+entry	Glaucus [Ed. Lefèvre]	0	
 orth	Glaucus		
-entry	Glaux [H. Baillon]		
+entry	Glaux [H. Baillon]	1	
 orth	Glaux		
 pb	238	0242	4533079
-entry	Glawnig (Ernst-Gottlieb) [L. Hahn]		
+entry	Glawnig (Ernst-Gottlieb) [L. Hahn]	0	
 orth	Glawnig (Ernst-Gottlieb)		
-entry	Glayeul		
+entry	Glayeul	0	
 ref	Glaïeul		
-entry	Gléba [Ed. Lefèvre]		
+entry	Gléba [Ed. Lefèvre]	0	
 orth	Gléba		
-entry	Glechon ou Gleichon [G. Planchon]		
+entry	Glechon ou Gleichon [G. Planchon]	0	
 orth	Glechon ou Gleichon		
 pb	239	0243	4533080
-entry	Gleditsch (Johann-Gottlieb) [L. Hahn]		
+entry	Gleditsch (Johann-Gottlieb) [L. Hahn]	2	
 orth	Gleditsch (Johann-Gottlieb)		
 pb	240	0244	4533081
 pb	241	0245	4533082
-entry	Gleditschia		
+entry	Gleditschia	0	
 ref	Févier		
-entry	Gleichen (Friedrich-Wilhelm von) [L. Hahn]		
+entry	Gleichen (Friedrich-Wilhelm von) [L. Hahn]	1	
 orth	Gleichen (Friedrich-Wilhelm von)		
 pb	242	0246	4533083
-entry	Gleichenberg (Eaux minérales de) [A. Rotureau]		
+entry	Gleichenberg (Eaux minérales de) [A. Rotureau]	3	
 orth	Gleichenberg (Eaux minérales de)		
 pb	243	0247	4533084
 pb	244	0248	4533085
 pb	245	0249	4533086
-entry	Gleichéniacées		
+entry	Gleichéniacées	0	
 ref	Fougères		
-entry	Gleissen (Eaux minérales, cures de petit-lait et bains de Boues de) [A. Rotureau]		
+entry	Gleissen (Eaux minérales, cures de petit-lait et bains de Boues de) [A. Rotureau]	1	
 orth	Gleissen (Eaux minérales, cures de petit-lait et bains de Boues de)		
 pb	246	0250	4533087
-entry	Gleisweiler (Eau minérale, hydrothérapie et cures de petit-lait et de raisin de) [A. Rotureau]		
+entry	Gleisweiler (Eau minérale, hydrothérapie et cures de petit-lait et de raisin de) [A. Rotureau]	1	
 orth	Gleisweiler (Eau minérale, hydrothérapie et cures de petit-lait et de raisin de)		
 pb	247	0251	4533088
-entry	Gleiteron, Gletteron [G. Planchon]		
+entry	Gleiteron, Gletteron [G. Planchon]	0	
 orth	Gleiteron, Gletteron		
-entry	Gleize [L. Hahn]		
+entry	Gleize [L. Hahn]	0	
 orth	Gleize		
-entry	Gleizes (Jean-Antoine) [L. Hahn]		
+entry	Gleizes (Jean-Antoine) [L. Hahn]	1	
 orth	Gleizes (Jean-Antoine)		
 pb	248	0252	4533089
-entry	Glénoïde (Cavité)		
+entry	Glénoïde (Cavité)	0	
 ref	Omoplate		
 ref	Crane (temporal)		
-entry	Glénoïdien (Ligament)		
+entry	Glénoïdien (Ligament)	0	
 ref	Omoplate		
-entry	Gliadine		
+entry	Gliadine	0	
 ref	Gluten		
-entry	Glicyphages		
+entry	Glicyphages	0	
 ref	Sarcoptides		
-entry	Gliome		
+entry	Gliome	0	
 ref	Colloïdes		
-entry	Gliridés [E. Oustalet]		
+entry	Gliridés [E. Oustalet]	1	
 orth	Gliridés		
 pb	249	0253	4533090
 pb	250	0254	4533091
-entry	Gliridés [E. Oustalet] [L. Hahn]		
+entry	Gliridés [E. Oustalet] [L. Hahn]	0	
 orth	Gliridés		
-entry	Gliscenti (Fabio) [L. Hahn]		
+entry	Gliscenti (Fabio) [L. Hahn]	0	
 orth	Gliscenti (Fabio)		
-entry	Glisson (François) [A. Chéreau]		
+entry	Glisson (François) [A. Chéreau]	0	
 orth	Glisson (François)		
 pb	251	0255	4533092
-entry	Glisson (François) [A. Chéreau] [G. Planchon]		
+entry	Glisson (François) [A. Chéreau] [G. Planchon]	0	
 orth	Glisson (François)		
-entry	Globbée [G. Planchon]		
+entry	Globbée [G. Planchon]	0	
 orth	Globbée		
 pb	252	0256	4533093
-entry	Globbée [G. Planchon] [E. Oustalet]		
+entry	Globbée [G. Planchon] [E. Oustalet]	0	
 orth	Globbée		
-entry	Globicéphale [E. Oustalet]		
+entry	Globicéphale [E. Oustalet]	0	
 orth	Globicéphale		
-entry	Globulaire		
-entry	Globulaire. Botanique [Edouard Heckel]		
+entry	Globulaire	0	
+entry	Globulaire. Botanique [Edouard Heckel]	4	
 orth	Globulaire. Botanique		
 pb	253	0257	4533094
 pb	254	0258	4533095
 pb	255	0259	4533096
 pb	256	0260	4533097
-entry	Globulaire. Constitution chimique [Edouard Heckel]		
+entry	Globulaire. Constitution chimique [Edouard Heckel]	1	
 orth	Globulaire. Constitution chimique		
 pb	257	0261	4533098
-entry	Globulaire. Thérapeutique [Edouard Heckel]		
+entry	Globulaire. Thérapeutique [Edouard Heckel]	4	
 orth	Globulaire. Thérapeutique		
 pb	258	0262	4533099
 pb	259	0263	4533100
 pb	260	0264	4533101
 pb	261	0265	4533102
-entry	Globularine, Globularétine [Edouard Heckel]		
+entry	Globularine, Globularétine [Edouard Heckel]	0	
 orth	Globularine, Globularétine		
 pb	262	0266	4533103
-entry	Globularine. Globularétine [Edouard Heckel]		
+entry	Globularine. Globularétine [Edouard Heckel]	9	
 orth	Globularine. Globularétine		
 pb	263	0267	4533104
 pb	264	0268	4533105
@@ -386,35 +386,35 @@ pb	268	0272	4533109
 pb	269	0273	4533110
 pb	270	0274	4533111
 pb	271	0275	4533112
-entry	Globule [Ch. Robin]		
+entry	Globule [Ch. Robin]	1	
 orth	Globule		
 pb	272	0276	4533113
-entry	Globuline		
+entry	Globuline	0	
 ref	Globules		
 ref	Sang		
-entry	Glodenstede (Hermoldus) [L. Hahn]		
+entry	Glodenstede (Hermoldus) [L. Hahn]	0	
 orth	Glodenstede (Hermoldus)		
-entry	Gloméridés [Amédée Dechambre]		
+entry	Gloméridés [Amédée Dechambre]	0	
 orth	Gloméridés		
-entry	Gloriade [Amédée Dechambre]		
+entry	Gloriade [Amédée Dechambre]	0	
 orth	Gloriade		
-entry	Glorianes (Eau minérale de) [A. Rotureau]		
+entry	Glorianes (Eau minérale de) [A. Rotureau]	0	
 orth	Glorianes (Eau minérale de)		
-entry	Gloriosa [G. Planchon]		
+entry	Gloriosa [G. Planchon]	0	
 orth	Gloriosa		
 pb	273	0277	4533114
-entry	Glossine		
+entry	Glossine	0	
 ref	Hirudinées		
-entry	Glossite		
+entry	Glossite	0	
 ref	Langue		
-entry	Glosso-épiglottiques (Muscles)		
+entry	Glosso-épiglottiques (Muscles)	0	
 ref	Langue		
-entry	Glossophages [E. Oustalet]		
+entry	Glossophages [E. Oustalet]	0	
 orth	Glossophages		
-entry	Glosso-pharyngien (Muscle)		
+entry	Glosso-pharyngien (Muscle)	0	
 ref	Langue		
-entry	Glosso-Pharyngien (Nerf)		
-entry	Glosso-Pharyngien (Nerf). Anatomie [Coyne]		
+entry	Glosso-Pharyngien (Nerf)	0	
+entry	Glosso-Pharyngien (Nerf). Anatomie [Coyne]	8	
 orth	Glosso-Pharyngien (Nerf). Anatomie		
 pb	274	0278	4533115
 pb	275	0279	4533116
@@ -424,29 +424,29 @@ pb	278	0282	4533119
 pb	279	0283	4533120
 pb	280	0284	4533121
 pb	281	0285	4533122
-entry	Glosso-Pharyngien (Nerf). Physiologie [Coyne]		
+entry	Glosso-Pharyngien (Nerf). Physiologie [Coyne]	5	
 orth	Glosso-Pharyngien (Nerf). Physiologie		
 pb	282	0286	4533123
 pb	283	0287	4533124
 pb	284	0288	4533125
 pb	285	0289	4533126
 pb	286	0290	4533127
-entry	Glosso-staphylin (Muscle)		
+entry	Glosso-staphylin (Muscle)	0	
 ref	Langue		
-entry	Glotte		
-entry	Glotte. Généralités [Maurice Krishaber]		
+entry	Glotte	0	
+entry	Glotte. Généralités [Maurice Krishaber]	1	
 orth	Glotte. Généralités		
 pb	287	0291	4533128
-entry	Glotte. Physiologie [Maurice Krishaber]		
+entry	Glotte. Physiologie [Maurice Krishaber]	2	
 orth	Glotte. Physiologie		
 pb	288	0292	4533129
 pb	289	0293	4533130
-entry	Glotte. Physiologie pathologique [Maurice Krishaber]		
+entry	Glotte. Physiologie pathologique [Maurice Krishaber]	3	
 orth	Glotte. Physiologie pathologique		
 pb	290	0294	4533131
 pb	291	0295	4533132
 pb	292	0296	4533133
-entry	Glotte. Pathologie [Maurice Krishaber]		
+entry	Glotte. Pathologie [Maurice Krishaber]	9	
 orth	Glotte. Pathologie		
 pb	293	0297	4533134
 pb	294	0298	4533135
@@ -457,88 +457,88 @@ pb	298	0302	4533139
 pb	299	0303	4533140
 pb	300	0304	4533141
 pb	301	0305	4533142
-entry	Glouteron [G. Planchon]		
+entry	Glouteron [G. Planchon]	0	
 orth	Glouteron		
 pb	302	0306	4533143
-entry	Glouteron (Petit) [G. Planchon]		
+entry	Glouteron (Petit) [G. Planchon]	0	
 orth	Glouteron (Petit)		
-entry	Glouton [E. Oustalet]		
+entry	Glouton [E. Oustalet]	2	
 orth	Glouton		
 pb	303	0307	4533144
 pb	304	0308	4533145
-entry	Glover (Joseph) [L. Hahn]		
+entry	Glover (Joseph) [L. Hahn]	0	
 orth	Glover (Joseph)		
-entry	Glu [L. Hahn]		
+entry	Glu [L. Hahn]	0	
 orth	Glu		
-entry	Glucinium [Ed. Willm]		
+entry	Glucinium [Ed. Willm]	4	
 orth	Glucinium		
 pb	305	0309	4533146
 pb	306	0310	4533147
 pb	307	0311	4533148
 pb	308	0312	4533149
-entry	Glucique (Acide) [Ed. Willm]		
+entry	Glucique (Acide) [Ed. Willm]	1	
 orth	Glucique (Acide)		
 pb	309	0313	4533150
-entry	Glück (Friedrich-Gottfried) [L. Hahn]		
+entry	Glück (Friedrich-Gottfried) [L. Hahn]	0	
 orth	Glück (Friedrich-Gottfried)		
-entry	Glucosane		
+entry	Glucosane	0	
 ref	Glycosane		
-entry	Glucose		
+entry	Glucose	0	
 ref	Glycose		
-entry	Glucosides		
+entry	Glucosides	0	
 ref	Glycosides		
-entry	Gluta [H. Baillon]		
+entry	Gluta [H. Baillon]	1	
 orth	Gluta		
 pb	310	0314	4533151
-entry	Glutamique ou Glutaminique (Acide) [L. Hahn]		
+entry	Glutamique ou Glutaminique (Acide) [L. Hahn]	1	
 orth	Glutamique ou Glutaminique (Acide)		
 pb	311	0315	4533152
-entry	Glutanique (Acide)		
+entry	Glutanique (Acide)	0	
 ref	Glutamique		
-entry	Gluten [L. Hahn]		
+entry	Gluten [L. Hahn]	2	
 orth	Gluten		
 pb	312	0316	4533153
 pb	313	0317	4533154
-entry	Glutinaria [G. Planchon]		
+entry	Glutinaria [G. Planchon]	0	
 orth	Glutinaria		
-entry	Glutine [L. Hahn]		
+entry	Glutine [L. Hahn]	0	
 orth	Glutine		
-entry	Glutineux [Amédée Dechambre]		
+entry	Glutineux [Amédée Dechambre]	0	
 orth	Glutineux		
-entry	Gluttier [G. Planchon]		
+entry	Gluttier [G. Planchon]	0	
 orth	Gluttier		
-entry	Gluvia		
+entry	Gluvia	0	
 ref	Galéodes		
-entry	Glycaraton [G. Planchon]		
+entry	Glycaraton [G. Planchon]	0	
 orth	Glycaraton		
-entry	Glycémie		
+entry	Glycémie	0	
 ref	Glycohémie		
-entry	Glycérals [Amédée Dechambre]		
+entry	Glycérals [Amédée Dechambre]	0	
 orth	Glycérals		
-entry	Glycéramine [Ed. Willm]		
+entry	Glycéramine [Ed. Willm]	1	
 orth	Glycéramine		
 pb	314	0318	4533155
-entry	Glycérates [Ed. Willm]		
+entry	Glycérates [Ed. Willm]	0	
 orth	Glycérates		
-entry	Glycérés, Glycérolés, Glycérats [Amédée Dechambre]		
+entry	Glycérés, Glycérolés, Glycérats [Amédée Dechambre]	0	
 orth	Glycérés, Glycérolés, Glycérats		
-entry	Glycérides [Ed. Willm]		
+entry	Glycérides [Ed. Willm]	4	
 orth	Glycérides		
 pb	315	0319	4533156
 pb	316	0320	4533157
 pb	317	0321	4533158
 pb	318	0322	4533159
-entry	Glycémie		
+entry	Glycémie	0	
 ref	Glycohémie		
-entry	Glycérine		
-entry	Glycérine. Chimie [Ed. Willm]		
+entry	Glycérine	0	
+entry	Glycérine. Chimie [Ed. Willm]	5	
 orth	Glycérine. Chimie		
 pb	319	0323	4533160
 pb	320	0324	4533161
 pb	321	0325	4533162
 pb	322	0326	4533163
 pb	323	0327	4533164
-entry	Glycérine. Thérapeutique [Ernest Labbée]		
+entry	Glycérine. Thérapeutique [Ernest Labbée]	39	
 orth	Glycérine. Thérapeutique		
 pb	324	0328	4533165
 pb	325	0329	4533166
@@ -579,48 +579,48 @@ pb	359	0363	4533200
 pb	360	0364	4533201
 pb	361	0365	4533202
 pb	362	0366	4533203
-entry	Glycérique (Acide) [Ed. Willm]		
+entry	Glycérique (Acide) [Ed. Willm]	1	
 orth	Glycérique (Acide)		
 pb	363	0367	4533204
-entry	Glycérolés		
+entry	Glycérolés	0	
 ref	Glycérine		
-entry	Glycide [Ed. Willm]		
+entry	Glycide [Ed. Willm]	1	
 orth	Glycide		
 pb	364	0368	4533205
-entry	Glycine		
-entry	Glycine. Botanique [G. Planchon]		
+entry	Glycine	0	
+entry	Glycine. Botanique [G. Planchon]	1	
 orth	Glycine. Botanique		
 pb	365	0369	4533206
-entry	Glycine		
-entry	Chimie		
+entry	Glycine	0	
+entry	Chimie	0	
 ref	Glycocolle		
-entry	Glycinium		
+entry	Glycinium	0	
 ref	Glucinium [Amédée Dechambre]		
-entry	Glyciphages		
+entry	Glyciphages	0	
 ref	Sarcoptides		
-entry	Glycique		
+entry	Glycique	0	
 ref	Glucique		
-entry	Glycocholates [Ed. Willm]		
+entry	Glycocholates [Ed. Willm]	1	
 orth	Glycocholates		
 pb	366	0370	4533207
-entry	Glycocholique (Acide)		
+entry	Glycocholique (Acide)	0	
 ref	Bile		
-entry	Glycocolle [Ed. Willm]		
+entry	Glycocolle [Ed. Willm]	4	
 orth	Glycocolle		
 pb	367	0371	4533208
 pb	368	0372	4533209
 pb	369	0373	4533210
 pb	370	0374	4533211
-entry	Glycocyamine [Ed. Willm]		
+entry	Glycocyamine [Ed. Willm]	1	
 orth	Glycocyamine		
 pb	371	0375	4533212
-entry	Glycogène (Matière), Glycogénie		
+entry	Glycogène (Matière), Glycogénie	0	
 ref	Foie		
 ref	Diabète		
 ref	Digestion		
 ref	Glycosurie		
 ref	Foetus		
-entry	Glycohémie ou Glycémie [Arnozan]		
+entry	Glycohémie ou Glycémie [Arnozan]	36	
 orth	Glycohémie ou Glycémie		
 pb	372	0376	4533213
 pb	373	0377	4533214
@@ -658,52 +658,52 @@ pb	404	0408	4533245
 pb	405	0409	4533246
 pb	406	0410	4533247
 pb	407	0411	4533248
-entry	Glycol (Alcool éthylénique) [Ed. Willm]		
+entry	Glycol (Alcool éthylénique) [Ed. Willm]	4	
 orth	Glycol (Alcool éthylénique)		
 pb	408	0412	4533249
 pb	409	0413	4533250
 pb	410	0414	4533251
 pb	411	0415	4533252
-entry	Glycolamide [Ed. Willm]		
+entry	Glycolamide [Ed. Willm]	0	
 orth	Glycolamide		
-entry	Glycolide [Ed. Willm]		
+entry	Glycolide [Ed. Willm]	0	
 orth	Glycolide		
-entry	Glycolilurée		
+entry	Glycolilurée	0	
 ref	Hydantoïne		
-entry	Glycolique (Acide) [Ed. Willm]		
+entry	Glycolique (Acide) [Ed. Willm]	2	
 orth	Glycolique (Acide)		
 pb	412	0416	4533253
 pb	413	0417	4533254
-entry	Glycols [Ed. Willm]		
+entry	Glycols [Ed. Willm]	2	
 orth	Glycols		
 pb	414	0418	4533255
 pb	415	0419	4533256
-entry	Glycolurique (Acide) [Ed. Willm]		
+entry	Glycolurique (Acide) [Ed. Willm]	0	
 orth	Glycolurique (Acide)		
-entry	Glycoluryle [Ed. Willm]		
+entry	Glycoluryle [Ed. Willm]	0	
 orth	Glycoluryle		
-entry	Glycomalique (Acide) [Ed. Willm]		
+entry	Glycomalique (Acide) [Ed. Willm]	0	
 orth	Glycomalique (Acide)		
-entry	Glyconine [Amédée Dechambre]		
+entry	Glyconine [Amédée Dechambre]	0	
 orth	Glyconine		
-entry	Glycosane [C. Lutz]		
+entry	Glycosane [C. Lutz]	1	
 orth	Glycosane		
 pb	416	0420	4533257
-entry	Glycose, Glucose		
-entry	Glycose, Glucose. Chimie [C. Lutz]		
+entry	Glycose, Glucose	0	
+entry	Glycose, Glucose. Chimie [C. Lutz]	3	
 orth	Glycose, Glucose. Chimie		
 pb	417	0421	4533258
 pb	418	0422	4533259
 pb	419	0423	4533260
-entry	Glycose, Glucose. Emploi [C. Lutz]		
+entry	Glycose, Glucose. Emploi [C. Lutz]	2	
 orth	Glycose, Glucose. Emploi		
 pb	420	0424	4533261
 pb	421	0425	4533262
-entry	Glycosides [C. Lutz]		
+entry	Glycosides [C. Lutz]	0	
 orth	Glycosides		
-entry	Glycosmis (Corr) [Baillon]		
+entry	Glycosmis (Corr) [Baillon]	0	
 orth	Glycosmis (Corr)		
-entry	Glycosurie [G. Morache]		
+entry	Glycosurie [G. Morache]	33	
 orth	Glycosurie		
 pb	422	0426	4533263
 pb	423	0427	4533264
@@ -738,23 +738,23 @@ pb	451	0455	4533292
 pb	452	0456	4533293
 pb	453	0457	4533294
 pb	454	0458	4533295
-entry	Glycyrrhiza		
+entry	Glycyrrhiza	0	
 ref	Réglisse		
-entry	Glycyrrhizine [Ed. Willm]		
+entry	Glycyrrhizine [Ed. Willm]	0	
 orth	Glycyrrhizine		
-entry	Glycys [G. Planchon]		
+entry	Glycys [G. Planchon]	0	
 orth	Glycys		
-entry	Glycyzida [G. Planchon]		
+entry	Glycyzida [G. Planchon]	0	
 orth	Glycyzida		
 pb	455	0459	4533296
-entry	Glyoxal [Ed. Willm]		
+entry	Glyoxal [Ed. Willm]	0	
 orth	Glyoxal		
-entry	Glyoxaline [Ed. Willm]		
+entry	Glyoxaline [Ed. Willm]	0	
 orth	Glyoxaline		
-entry	Glyoxylique [Ed. Willm]		
+entry	Glyoxylique [Ed. Willm]	1	
 orth	Glyoxylique		
 pb	456	0460	4533297
-entry	Gmelin (Les) [L. Hahn]		
+entry	Gmelin (Les) [L. Hahn]	6	
 orth	Gmelin (Les)		
 pb	457	0461	4533298
 pb	458	0462	4533299
@@ -763,119 +763,119 @@ pb	460	0464	4533301
 pb	461	0465	4533302
 pb	462	0466	4533303
 pb	463	0467	4533304
-entry	Gmelin (Les) [L. Hahn] [G. Planchon]		
+entry	Gmelin (Les) [L. Hahn] [G. Planchon]	0	
 orth	Gmelin (Les)		
-entry	Gmelina [G. Planchon]		
+entry	Gmelina [G. Planchon]	0	
 orth	Gmelina		
-entry	Gnaphale [G. Planchon]		
+entry	Gnaphale [G. Planchon]	1	
 orth	Gnaphale		
 pb	464	0468	4533305
-entry	Gnavelle [G. Planchon]		
+entry	Gnavelle [G. Planchon]	0	
 orth	Gnavelle		
-entry	Gnetum [G. Planchon]		
+entry	Gnetum [G. Planchon]	0	
 orth	Gnetum		
-entry	Gnidium [G. Planchon]		
+entry	Gnidium [G. Planchon]	0	
 orth	Gnidium		
-entry	Gnuschke (Johann-Eduard) [G. Planchon]		
+entry	Gnuschke (Johann-Eduard) [G. Planchon]	0	
 orth	Gnuschke (Johann-Eduard)		
-entry	Gobaura [G. Planchon]		
+entry	Gobaura [G. Planchon]	0	
 orth	Gobaura		
 pb	465	0469	4533306
-entry	Göbel (Les) [L. Hahn]		
+entry	Göbel (Les) [L. Hahn]	1	
 orth	Göbel (Les)		
 pb	466	0470	4533307
-entry	Gobelet d'eau ou Écuelle d'eau [G. Planchon]		
+entry	Gobelet d'eau ou Écuelle d'eau [G. Planchon]	0	
 orth	Gobelet d'eau ou Écuelle d'eau		
-entry	Gobelets médicamenteux [Amédée Dechambre]		
+entry	Gobelets médicamenteux [Amédée Dechambre]	0	
 orth	Gobelets médicamenteux		
-entry	Gobe-mouche [E. Oustalet]		
+entry	Gobe-mouche [E. Oustalet]	2	
 orth	Gobe-mouche		
 pb	467	0471	4533308
 pb	468	0472	4533309
-entry	Gobley (Nicolas-Théodore) [L. Hahn]		
+entry	Gobley (Nicolas-Théodore) [L. Hahn]	2	
 orth	Gobley (Nicolas-Théodore)		
 pb	469	0473	4533310
 pb	470	0474	4533311
-entry	Gockel (Les) [L. Hahn]		
+entry	Gockel (Les) [L. Hahn]	1	
 orth	Gockel (Les)		
 pb	471	0475	4533312
-entry	Göckel (Philip-Casper) [L. Hahn]		
+entry	Göckel (Philip-Casper) [L. Hahn]	0	
 orth	Göckel (Philip-Casper)		
-entry	Gocklénius (Rodolph) [A. Chéreau]		
+entry	Gocklénius (Rodolph) [A. Chéreau]	1	
 orth	Gocklénius (Rodolph)		
 pb	472	0476	4533313
-entry	Coçvani Çivanandabhatta [G. Liétard]		
+entry	Coçvani Çivanandabhatta [G. Liétard]	1	
 orth	Coçvani Çivanandabhatta		
 pb	473	0477	4533314
-entry	Godard (Les) [A. Dureau]		
+entry	Godard (Les) [A. Dureau]	2	
 orth	Godard (Les)		
 pb	474	0478	4533315
 pb	475	0479	4533316
-entry	Goddard (Jonathan) [A. Dureau]		
+entry	Goddard (Jonathan) [A. Dureau]	0	
 orth	Goddard (Jonathan)		
-entry	Godefroy (Les deux) [A. Dureau]		
+entry	Godefroy (Les deux) [A. Dureau]	1	
 orth	Godefroy (Les deux)		
 pb	476	0480	4533317
 pb	477	0481	4533318
-entry	Godefroy (Les deux) [A. Dureau] [L. Hahn]		
+entry	Godefroy (Les deux) [A. Dureau] [L. Hahn]	0	
 orth	Godefroy (Les deux)		
-entry	Göden (Hans-Adolph) [L. Hahn]		
+entry	Göden (Hans-Adolph) [L. Hahn]	0	
 orth	Göden (Hans-Adolph)		
-entry	Godernaux (Poudre de) [Amédée Dechambre]		
+entry	Godernaux (Poudre de) [Amédée Dechambre]	0	
 orth	Godernaux (Poudre de)		
 pb	478	0482	4533319
-entry	Godi (Giovanni-Antonio) [L. Hahn]		
+entry	Godi (Giovanni-Antonio) [L. Hahn]	0	
 orth	Godi (Giovanni-Antonio)		
-entry	Godier (Frédéric) [A. Dureau]		
+entry	Godier (Frédéric) [A. Dureau]	0	
 orth	Godier (Frédéric)		
-entry	Godin (Nicolas) [A. Dureau]		
+entry	Godin (Nicolas) [A. Dureau]	0	
 orth	Godin (Nicolas)		
-entry	Godman (John-D.) [L. Hahn]		
+entry	Godman (John-D.) [L. Hahn]	1	
 orth	Godman (John-D.)		
 pb	479	0483	4533320
 pb	480	0484	4533321
-entry	Godman (John-D.) [L. Hahn] [G. Planchon]		
+entry	Godman (John-D.) [L. Hahn] [G. Planchon]	0	
 orth	Godman (John-D.)		
-entry	Godomolla [G. Planchon]		
+entry	Godomolla [G. Planchon]	0	
 orth	Godomolla		
-entry	Godoy (Les) [L. Hahn]		
+entry	Godoy (Les) [L. Hahn]	1	
 orth	Godoy (Les)		
 pb	481	0485	4533322
-entry	Godronné (Canal) [Amédée Dechambre]		
+entry	Godronné (Canal) [Amédée Dechambre]	0	
 orth	Godronné (Canal)		
-entry	Goebel		
+entry	Goebel	0	
 ref	Göbel		
-entry	Goedart (Jean) [L. Hahn]		
+entry	Goedart (Jean) [L. Hahn]	0	
 orth	Goedart (Jean)		
-entry	Goéland [E. Oustalet]		
+entry	Goéland [E. Oustalet]	3	
 orth	Goéland		
 pb	482	0486	4533323
 pb	483	0487	4533324
 pb	484	0488	4533325
-entry	Goemoery (David) [L. Hahn]		
+entry	Goemoery (David) [L. Hahn]	1	
 orth	Goemoery (David)		
 pb	485	0489	4533326
-entry	Goerce (Les) [L. Hahn]		
+entry	Goerce (Les) [L. Hahn]	0	
 orth	Goerce (Les)		
-entry	Goethe		
+entry	Goethe	0	
 ref	Göthe		
-entry	Goeutot (Jean) [L. Hahn]		
+entry	Goeutot (Jean) [L. Hahn]	0	
 orth	Goeutot (Jean)		
-entry	Goffres (Joseph-Marie) [L. Hahn]		
+entry	Goffres (Joseph-Marie) [L. Hahn]	1	
 orth	Goffres (Joseph-Marie)		
 pb	486	0490	4533327
-entry	Gohier (Jean-Baptiste) [L. Hahn]		
+entry	Gohier (Jean-Baptiste) [L. Hahn]	1	
 orth	Gohier (Jean-Baptiste)		
 pb	487	0491	4533328
-entry	Gohier (Eau minérale de) [A. Rotureau]		
+entry	Gohier (Eau minérale de) [A. Rotureau]	1	
 orth	Gohier (Eau minérale de)		
 pb	488	0492	4533329
-entry	Gohl (Johann-Daniel) [L. Hahn]		
+entry	Gohl (Johann-Daniel) [L. Hahn]	0	
 orth	Gohl (Johann-Daniel)		
-entry	Goiffon (Jean-Baptiste) [A. Chéreau]		
+entry	Goiffon (Jean-Baptiste) [A. Chéreau]	1	
 orth	Goiffon (Jean-Baptiste)		
 pb	489	0493	4533330
-entry	Goître [Maurice Krishaber]		
+entry	Goître [Maurice Krishaber]	64	
 orth	Goître		
 pb	490	0494	4533331
 pb	491	0495	4533332
@@ -941,7 +941,7 @@ pb	550	0554	4533391
 pb	551	0555	4533392
 pb	552	0556	4533393
 pb	553	0557	4533394
-entry	Goître exophthalmique [H. Rendu]		
+entry	Goître exophthalmique [H. Rendu]	74	
 orth	Goître exophthalmique		
 pb	554	0558	4533395
 pb	555	0559	4533396
@@ -1017,66 +1017,66 @@ pb	624	0628	4533465
 pb	625	0629	4533466
 pb	626	0630	4533467
 pb	627	0631	4533468
-entry	Goldanus (Bartolinus) [L. Hahn]		
+entry	Goldanus (Bartolinus) [L. Hahn]	0	
 orth	Goldanus (Bartolinus)		
-entry	Goldbeck (Johann-Christian) [L. Hahn]		
+entry	Goldbeck (Johann-Christian) [L. Hahn]	1	
 orth	Goldbeck (Johann-Christian)		
 pb	628	0632	4533469
-entry	Goldfuss (Georg-August) [L. Hahn]		
+entry	Goldfuss (Georg-August) [L. Hahn]	0	
 orth	Goldfuss (Georg-August)		
-entry	Goldhagen (Johann-Friedrich-Gottlieb) [L. Hahn]		
+entry	Goldhagen (Johann-Friedrich-Gottlieb) [L. Hahn]	1	
 orth	Goldhagen (Johann-Friedrich-Gottlieb)		
 pb	629	0633	4533470
-entry	Goldsmith (Oliver) [A. Dureau]		
+entry	Goldsmith (Oliver) [A. Dureau]	1	
 orth	Goldsmith (Oliver)		
 pb	630	0634	4533471
-entry	Goldson (William) [A. Dureau]		
+entry	Goldson (William) [A. Dureau]	0	
 orth	Goldson (William)		
-entry	Goldwiz (Sebastian) [L. Hahn]		
+entry	Goldwiz (Sebastian) [L. Hahn]	1	
 orth	Goldwiz (Sebastian)		
 pb	631	0635	4533472
-entry	Golfin (Prosper-Hippolyte) [L. Hahn]		
+entry	Golfin (Prosper-Hippolyte) [L. Hahn]	0	
 orth	Golfin (Prosper-Hippolyte)		
-entry	Gölicke (Andreas-Ottomar) [L. Hahn]		
+entry	Gölicke (Andreas-Ottomar) [L. Hahn]	1	
 orth	Gölicke (Andreas-Ottomar)		
 pb	632	0636	4533473
 pb	633	0637	4533474
-entry	Gölicke (Andreas-Ottomar) [L. Hahn] [G. Planchon]		
+entry	Gölicke (Andreas-Ottomar) [L. Hahn] [G. Planchon]	0	
 orth	Gölicke (Andreas-Ottomar)		
-entry	Gölis (Leopold-Anton) [L. Hahn]		
+entry	Gölis (Leopold-Anton) [L. Hahn]	0	
 orth	Gölis (Leopold-Anton)		
-entry	Golondrina [G. Planchon]		
+entry	Golondrina [G. Planchon]	0	
 orth	Golondrina		
-entry	Goltz (Johann-Georg) [L. Hahn]		
+entry	Goltz (Johann-Georg) [L. Hahn]	1	
 orth	Goltz (Johann-Georg)		
 pb	634	0638	4533475
-entry	Gomart, Gommart [H. Baillon]		
+entry	Gomart, Gommart [H. Baillon]	1	
 orth	Gomart, Gommart		
 pb	635	0639	4533476
-entry	Gombo, Gombeau [G. Planchon]		
+entry	Gombo, Gombeau [G. Planchon]	0	
 orth	Gombo, Gombeau		
-entry	Gomes (Bernardino-Antonio) [L. Hahn]		
+entry	Gomes (Bernardino-Antonio) [L. Hahn]	1	
 orth	Gomes (Bernardino-Antonio)		
 pb	636	0640	4533477
-entry	Gomes ou Gomez (Emmanuel) [L. Hahn]		
+entry	Gomes ou Gomez (Emmanuel) [L. Hahn]	0	
 orth	Gomes ou Gomez (Emmanuel)		
-entry	Gomez Miedes (Bernardin) [A. Dureau]		
+entry	Gomez Miedes (Bernardin) [A. Dureau]	0	
 orth	Gomez Miedes (Bernardin)		
 pb	637	0641	4533478
-entry	Gomez Miedes (Bernardin) [A. Dureau] [L. Hahn]		
+entry	Gomez Miedes (Bernardin) [A. Dureau] [L. Hahn]	0	
 orth	Gomez Miedes (Bernardin)		
-entry	Gomez (Les) [L. Hahn]		
+entry	Gomez (Les) [L. Hahn]	0	
 orth	Gomez (Les)		
-entry	Gomme-Gutte		
-entry	Gomme-Gutte. Matière médicale [L. Hahn]		
+entry	Gomme-Gutte	0	
+entry	Gomme-Gutte. Matière médicale [L. Hahn]	2	
 orth	Gomme-Gutte. Matière médicale		
 pb	638	0642	4533479
 pb	639	0643	4533480
-entry	Gomme-Gutte. Emploi [L. Hahn]		
+entry	Gomme-Gutte. Emploi [L. Hahn]	1	
 orth	Gomme-Gutte. Emploi		
 pb	640	0644	4533481
-entry	Gommes		
-entry	Gommes. Matière médicale et chimie [L. Hahn, E. Lefèvre]		
+entry	Gommes	0	
+entry	Gommes. Matière médicale et chimie [L. Hahn, E. Lefèvre]	15	
 orth	Gommes. Matière médicale et chimie		
 pb	641	0645	4533482
 pb	642	0646	4533483
@@ -1093,14 +1093,14 @@ pb	652	0656	4533493
 pb	653	0657	4533494
 pb	654	0658	4533495
 pb	655	0659	4533496
-entry	Gommes. Emploi médical [L. Hahn]		
+entry	Gommes. Emploi médical [L. Hahn]	4	
 orth	Gommes. Emploi médical		
 pb	656	0660	4533497
 pb	657	0661	4533498
 pb	658	0662	4533499
 pb	659	0663	4533500
-entry	Gommes, Tumeurs Gommeuses		
-entry	Gommes, Tumeurs Gommeuses. En général [Ernest Besnier]		
+entry	Gommes, Tumeurs Gommeuses	0	
+entry	Gommes, Tumeurs Gommeuses. En général [Ernest Besnier]	10	
 orth	Gommes, Tumeurs Gommeuses. En général		
 pb	660	0664	4533501
 pb	661	0665	4533502
@@ -1112,7 +1112,7 @@ pb	666	0670	4533507
 pb	667	0671	4533508
 pb	668	0672	4533509
 pb	669	0673	4533510
-entry	Gommes, Tumeurs Gommeuses. Gommes scrofuleuses ou scrofulo-tuberculeuses [Ernest Besnier]		
+entry	Gommes, Tumeurs Gommeuses. Gommes scrofuleuses ou scrofulo-tuberculeuses [Ernest Besnier]	21	
 orth	Gommes, Tumeurs Gommeuses. Gommes scrofuleuses ou scrofulo-tuberculeuses		
 pb	670	0674	4533511
 pb	671	0675	4533512
@@ -1135,7 +1135,7 @@ pb	687	0691	4533528
 pb	688	0692	4533529
 pb	689	0693	4533530
 pb	690	0694	4533531
-entry	Gommes syphilitiques [J. Rollet]		
+entry	Gommes syphilitiques [J. Rollet]	10	
 orth	Gommes syphilitiques		
 pb	691	0695	4533532
 pb	692	0696	4533533
@@ -1147,119 +1147,119 @@ pb	697	0701	4533538
 pb	698	0702	4533539
 pb	699	0703	4533540
 pb	700	0704	4533541
-entry	Gommiers [L. Hahn]		
+entry	Gommiers [L. Hahn]	0	
 orth	Gommiers		
-entry	Gomphia		
+entry	Gomphia	0	
 ref	Ochna		
 ref	Ochnacées		
-entry	Gomphide [Ed. Lefèvre]		
+entry	Gomphide [Ed. Lefèvre]	0	
 orth	Gomphide		
-entry	Gomphides [Ed. Lefèvre]		
+entry	Gomphides [Ed. Lefèvre]	0	
 orth	Gomphides		
-entry	Gomphocarpus [H. Baillon]		
+entry	Gomphocarpus [H. Baillon]	0	
 orth	Gomphocarpus		
 pb	701	0705	4533542
-entry	Gomphocarpus [H. Baillon] [G. Planchon]		
+entry	Gomphocarpus [H. Baillon] [G. Planchon]	0	
 orth	Gomphocarpus		
-entry	Gomphose [Amédée Dechambre]		
+entry	Gomphose [Amédée Dechambre]	0	
 orth	Gomphose		
-entry	Gomphrena [G. Planchon]		
+entry	Gomphrena [G. Planchon]	0	
 orth	Gomphrena		
 pb	702	0706	4533543
-entry	Gonaké ou Gonakié		
+entry	Gonaké ou Gonakié	0	
 ref	Gommes		
-entry	Gonalgie [Amédée Dechambre]		
+entry	Gonalgie [Amédée Dechambre]	0	
 orth	Gonalgie		
-entry	Dondela (Christian-Adam) [L. Hahn] [A. Chéreau]		
+entry	Dondela (Christian-Adam) [L. Hahn] [A. Chéreau]	0	
 orth	Dondela (Christian-Adam)		
-entry	Gondinet (Pierre) [L. Hahn]		
+entry	Gondinet (Pierre) [L. Hahn]	0	
 orth	Gondinet (Pierre)		
 pb	703	0707	4533544
-entry	Gondran (Eau de) [Amédée Dechambre]		
+entry	Gondran (Eau de) [Amédée Dechambre]	0	
 orth	Gondran (Eau de)		
-entry	Gondret (Louis-François) [A. Chéreau]		
+entry	Gondret (Louis-François) [A. Chéreau]	0	
 orth	Gondret (Louis-François)		
-entry	Gonds (Les)		
+entry	Gonds (Les)	0	
 ref	Gounds		
-entry	Goniatite [Ed. Lefèvre]		
+entry	Goniatite [Ed. Lefèvre]	1	
 orth	Goniatite		
 pb	704	0708	4533545
-entry	Gonolobus [G. Planchon]		
+entry	Gonolobus [G. Planchon]	0	
 orth	Gonolobus		
-entry	Gonoplax [Ed. Lefèvre]		
+entry	Gonoplax [Ed. Lefèvre]	0	
 orth	Gonoplax		
 pb	705	0709	4533546
-entry	Gonthen (Eaux minérales et cures de petit-lait de) [A. Rotureau]		
+entry	Gonthen (Eaux minérales et cures de petit-lait de) [A. Rotureau]	0	
 orth	Gonthen (Eaux minérales et cures de petit-lait de)		
-entry	Gonthier (Jean) [A. Chéreau]		
+entry	Gonthier (Jean) [A. Chéreau]	2	
 orth	Gonthier (Jean)		
 pb	706	0710	4533547
 pb	707	0711	4533548
-entry	Gonzalez (Les) [L. Hahn]		
+entry	Gonzalez (Les) [L. Hahn]	0	
 orth	Gonzalez (Les)		
 pb	708	0712	4533549
-entry	Gonzalez (Les) [L. Hahn] [A. Dureau]		
+entry	Gonzalez (Les) [L. Hahn] [A. Dureau]	0	
 orth	Gonzalez (Les)		
-entry	Gooch (Les deux) [A. Dureau]		
+entry	Gooch (Les deux) [A. Dureau]	1	
 orth	Gooch (Les deux)		
 pb	709	0713	4533550
-entry	Good (John-Mason) [L. Hahn]		
+entry	Good (John-Mason) [L. Hahn]	1	
 orth	Good (John-Mason)		
 pb	710	0714	4533551
-entry	Goodall (Charles) [L. Hahn]		
+entry	Goodall (Charles) [L. Hahn]	1	
 orth	Goodall (Charles)		
 pb	711	0715	4533552
-entry	Goodeve (Edward) [L. Hahn]		
+entry	Goodeve (Edward) [L. Hahn]	0	
 orth	Goodeve (Edward)		
 pb	712	0716	4533553
-entry	Goodeve (Les) [L. Hahn]		
+entry	Goodeve (Les) [L. Hahn]	0	
 orth	Goodeve (Les)		
-entry	Goodlad (William) [L. Hahn]		
+entry	Goodlad (William) [L. Hahn]	0	
 orth	Goodlad (William)		
-entry	Goodsir (Les) [L. Hahn]		
+entry	Goodsir (Les) [L. Hahn]	2	
 orth	Goodsir (Les)		
 pb	713	0717	4533554
 pb	714	0718	4533555
-entry	Goodwyn (Edmund) [L. Hahn]		
+entry	Goodwyn (Edmund) [L. Hahn]	0	
 orth	Goodwyn (Edmund)		
 pb	715	0719	4533556
-entry	Goodwyn (Edmund) [L. Hahn] [G. Planchon]		
+entry	Goodwyn (Edmund) [L. Hahn] [G. Planchon]	0	
 orth	Goodwyn (Edmund)		
-entry	Googool, Googul, Googula [G. Planchon]		
+entry	Googool, Googul, Googula [G. Planchon]	0	
 orth	Googool, Googul, Googula		
-entry	Gopâla Sena Kaviraja [G. Liétard]		
+entry	Gopâla Sena Kaviraja [G. Liétard]	1	
 orth	Gopâla Sena Kaviraja		
 pb	716	0720	4533557
-entry	Görcke (Johann) [L. Hahn]		
+entry	Görcke (Johann) [L. Hahn]	1	
 orth	Görcke (Johann)		
 pb	717	0721	4533558
-entry	Gorcy (Pierre-Christophe) [L. Hahn]		
+entry	Gorcy (Pierre-Christophe) [L. Hahn]	1	
 orth	Gorcy (Pierre-Christophe)		
 pb	718	0722	4533559
-entry	Gordiacés [Ed. Lefèvre]		
+entry	Gordiacés [Ed. Lefèvre]	1	
 orth	Gordiacés		
 pb	719	0723	4533560
-entry	Gordius		
+entry	Gordius	0	
 ref	Gordiacés		
-entry	Gordon (Les) [A. Chéreau]		
+entry	Gordon (Les) [A. Chéreau]	2	
 orth	Gordon (Les)		
 pb	720	0724	4533561
 pb	721	0725	4533562
 pb	722	0726	4533563
-entry	Gordon (Les) [A. Chéreau] [L. Hahn]		
+entry	Gordon (Les) [A. Chéreau] [L. Hahn]	0	
 orth	Gordon (Les)		
-entry	Gore (Richard-Thomas) [L. Hahn]		
+entry	Gore (Richard-Thomas) [L. Hahn]	0	
 orth	Gore (Richard-Thomas)		
-entry	Gorgeret [Amédée Dechambre]		
+entry	Gorgeret [Amédée Dechambre]	0	
 orth	Gorgeret		
-entry	Gorgias [L. Hahn]		
+entry	Gorgias [L. Hahn]	1	
 orth	Gorgias		
 pb	723	0727	4533564
-entry	Gorgone [Ed. Lefèvre]		
+entry	Gorgone [Ed. Lefèvre]	0	
 orth	Gorgone		
-entry	Göricke (Adolph-Wilhelm-Théodor) [L. Hahn]		
+entry	Göricke (Adolph-Wilhelm-Théodor) [L. Hahn]	0	
 orth	Göricke (Adolph-Wilhelm-Théodor)		
-entry	Gorille [E. Oustalet]		
+entry	Gorille [E. Oustalet]	5	
 orth	Gorille		
 pb	724	0728	4533565
 pb	725	0729	4533566
@@ -1267,38 +1267,38 @@ pb	726	0730	4533567
 pb	727	0731	4533568
 pb	728	0732	4533569
 pb	729	0733	4533570
-entry	Goring (C.-R.) [L. Hahn]		
+entry	Goring (C.-R.) [L. Hahn]	0	
 orth	Goring (C.-R.)		
-entry	Gorp (Jean van) [L. Hahn]		
+entry	Gorp (Jean van) [L. Hahn]	0	
 orth	Gorp (Jean van)		
-entry	Gorris (Les) [A. Chéreau]		
+entry	Gorris (Les) [A. Chéreau]	3	
 orth	Gorris (Les)		
 pb	730	0734	4533571
 pb	731	0735	4533572
 pb	732	0736	4533573
-entry	Gorter (Jean de) [L. Hahn]		
+entry	Gorter (Jean de) [L. Hahn]	1	
 orth	Gorter (Jean de)		
 pb	733	0737	4533574
-entry	Görtz (Johann-Friedrich) [L. Hahn]		
+entry	Görtz (Johann-Friedrich) [L. Hahn]	1	
 orth	Görtz (Johann-Friedrich)		
 pb	734	0738	4533575
-entry	Gorup-Besanez (Eugen-Franz von) [L. Hahn]		
+entry	Gorup-Besanez (Eugen-Franz von) [L. Hahn]	1	
 orth	Gorup-Besanez (Eugen-Franz von)		
 pb	735	0739	4533576
-entry	Göschen (Alexander) [L. Hahn]		
+entry	Göschen (Alexander) [L. Hahn]	1	
 orth	Göschen (Alexander)		
 pb	736	0740	4533577
-entry	Gosse (Les) [L. Hahn]		
+entry	Gosse (Les) [L. Hahn]	2	
 orth	Gosse (Les)		
 pb	737	0741	4533578
 pb	738	0742	4533579
-entry	Gosselet (Auguste-Napoléon) [L. Hahn]		
+entry	Gosselet (Auguste-Napoléon) [L. Hahn]	0	
 orth	Gosselet (Auguste-Napoléon)		
-entry	Gosset [L. Hahn]		
+entry	Gosset [L. Hahn]	0	
 orth	Gosset		
-entry	Gossypium		
+entry	Gossypium	0	
 ref	Cotonnier		
-entry	Göthe (Johann-Wolfgang) [L. Hahn]		
+entry	Göthe (Johann-Wolfgang) [L. Hahn]	6	
 orth	Göthe (Johann-Wolfgang)		
 pb	739	0743	4533580
 pb	740	0744	4533581
@@ -1306,118 +1306,118 @@ pb	741	0745	4533582
 pb	742	0746	4533583
 pb	743	0747	4533584
 pb	744	0748	4533585
-entry	Gothén (C.-Olof) [L. Hahn]		
+entry	Gothén (C.-Olof) [L. Hahn]	1	
 orth	Gothén (C.-Olof)		
 pb	745	0749	4533586
-entry	Goths [Amédée Dechambre]		
+entry	Goths [Amédée Dechambre]	0	
 orth	Goths		
-entry	Gotthard (Joseph-Friedrich) [L. Hahn]		
+entry	Gotthard (Joseph-Friedrich) [L. Hahn]	0	
 orth	Gotthard (Joseph-Friedrich)		
-entry	Göttling (Johann-Friedrich-August) [L. Hahn]		
+entry	Göttling (Johann-Friedrich-August) [L. Hahn]	1	
 orth	Göttling (Johann-Friedrich-August)		
 pb	746	0750	4533587
-entry	Gottsched (Johann) [L. Hahn]		
+entry	Gottsched (Johann) [L. Hahn]	0	
 orth	Gottsched (Johann)		
-entry	Gottwald (Christoph) [L. Hahn]		
+entry	Gottwald (Christoph) [L. Hahn]	1	
 orth	Gottwald (Christoph)		
 pb	747	0751	4533588
-entry	Götz (Les deux) [L. Hahn]		
+entry	Götz (Les deux) [L. Hahn]	0	
 orth	Götz (Les deux)		
-entry	Götze (Les) [L. Hahn]		
+entry	Götze (Les) [L. Hahn]	1	
 orth	Götze (Les)		
 pb	748	0752	4533589
-entry	Gouan (Antoine) [A. Chéreau]		
+entry	Gouan (Antoine) [A. Chéreau]	1	
 orth	Gouan (Antoine)		
 pb	749	0753	4533590
-entry	Gouaré [G. Planchon]		
+entry	Gouaré [G. Planchon]	0	
 orth	Gouaré		
-entry	Goubelly (Claude-André) [A. Chéreau]		
+entry	Goubelly (Claude-André) [A. Chéreau]	1	
 orth	Goubelly (Claude-André)		
 pb	750	0754	4533591
-entry	Goudron		
-entry	Goudron. Chimie [L. Hahn]		
+entry	Goudron	0	
+entry	Goudron. Chimie [L. Hahn]	4	
 orth	Goudron. Chimie		
 pb	751	0755	4533592
 pb	752	0756	4533593
 pb	753	0757	4533594
 pb	754	0758	4533595
-entry	Goudron. Pharmacologie [L. Hahn]		
+entry	Goudron. Pharmacologie [L. Hahn]	3	
 orth	Goudron. Pharmacologie		
 pb	755	0759	4533596
 pb	756	0760	4533597
 pb	757	0761	4533598
-entry	Goudron. Emploi médical [L. Hahn]		
+entry	Goudron. Emploi médical [L. Hahn]	3	
 orth	Goudron. Emploi médical		
 pb	758	0762	4533599
 pb	759	0763	4533600
 pb	760	0764	4533601
-entry	Goudron animal [L. Hahn]		
+entry	Goudron animal [L. Hahn]	1	
 orth	Goudron animal		
 pb	761	0765	4533602
-entry	Gouet [G. Planchon]		
+entry	Gouet [G. Planchon]	0	
 orth	Gouet		
-entry	Gouey (Louis-Léger de) [L. Hahn]		
+entry	Gouey (Louis-Léger de) [L. Hahn]	1	
 orth	Gouey (Louis-Léger de)		
 pb	762	0766	4533603
-entry	Gouge [Amédée Dechambre]		
+entry	Gouge [Amédée Dechambre]	0	
 orth	Gouge		
-entry	Gough (John) [A. Dureau]		
+entry	Gough (John) [A. Dureau]	0	
 orth	Gough (John)		
-entry	Gougoul [G. Planchon]		
+entry	Gougoul [G. Planchon]	0	
 orth	Gougoul		
-entry	Goujon [E. Oustalet]		
+entry	Goujon [E. Oustalet]	0	
 orth	Goujon		
 pb	763	0767	4533604
-entry	Goujon [E. Oustalet] [A. Chéreau]		
+entry	Goujon [E. Oustalet] [A. Chéreau]	0	
 orth	Goujon		
-entry	Goulard (Thomas) [A. Chéreau]		
+entry	Goulard (Thomas) [A. Chéreau]	0	
 orth	Goulard (Thomas)		
-entry	Goulard (Eau et cérat de) [Amédée Dechambre]		
+entry	Goulard (Eau et cérat de) [Amédée Dechambre]	1	
 orth	Goulard (Eau et cérat de)		
 pb	764	0768	4533605
-entry	Gould (John) [L. Hahn]		
+entry	Gould (John) [L. Hahn]	0	
 orth	Gould (John)		
-entry	Goulin (Jean) [A. Chéreau]		
+entry	Goulin (Jean) [A. Chéreau]	1	
 orth	Goulin (Jean)		
 pb	765	0769	4533606
 pb	766	0770	4533607
-entry	Goulston (Théodore) [A. Dureau]		
+entry	Goulston (Théodore) [A. Dureau]	0	
 orth	Goulston (Théodore)		
-entry	Goulu (Jérôme) [A. Chéreau]		
+entry	Goulu (Jérôme) [A. Chéreau]	0	
 orth	Goulu (Jérôme)		
-entry	Gounds (Les) [Amédée Dechambre]		
+entry	Gounds (Les) [Amédée Dechambre]	0	
 orth	Gounds (Les)		
-entry	Goupia (Aubl.) [H. Baillon]		
+entry	Goupia (Aubl.) [H. Baillon]	1	
 orth	Goupia (Aubl.)		
 pb	767	0771	4533608
-entry	Goupil (Les deux) [L. Hahn]		
+entry	Goupil (Les deux) [L. Hahn]	2	
 orth	Goupil (Les deux)		
 pb	768	0772	4533609
 pb	769	0773	4533610
 pb	770	0774	4533611
-entry	Goupil-Despallièbes (Claude-Antoine) [A. Chéreau]		
+entry	Goupil-Despallièbes (Claude-Antoine) [A. Chéreau]	0	
 orth	Goupil-Despallièbes (Claude-Antoine)		
-entry	Goupyl (André) [L. Hahn]		
+entry	Goupyl (André) [L. Hahn]	0	
 orth	Goupyl (André)		
-entry	Gourami [E. Oustalet]		
+entry	Gourami [E. Oustalet]	1	
 orth	Gourami		
 pb	771	0775	4533612
-entry	Gouraud (Les deux) [A. Chéreau]		
+entry	Gouraud (Les deux) [A. Chéreau]	2	
 orth	Gouraud (Les deux)		
 pb	772	0776	4533613
 pb	773	0777	4533614
-entry	Gourde [G. Planchon]		
+entry	Gourde [G. Planchon]	2	
 orth	Gourde		
 pb	774	0778	4533615
 pb	775	0779	4533616
-entry	Gouriens		
+entry	Gouriens	0	
 ref	Caucasique		
-entry	Gourlay (William) [A. Dureau]		
+entry	Gourlay (William) [A. Dureau]	0	
 orth	Gourlay (William)		
-entry	Gourmelin (Étienne) [A. Chéreau]		
+entry	Gourmelin (Étienne) [A. Chéreau]	0	
 orth	Gourmelin (Étienne)		
 pb	[s. pag.]	0780	4533617
 pb	777	0781	4533618
-entry	Articles contenus dans la neuvième volume (4e série)		
+entry	Articles contenus dans la neuvième volume (4e série)	2	
 pb	778	0782	4533619
 pb	779	0783	4533620

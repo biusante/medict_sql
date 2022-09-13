@@ -1,21 +1,21 @@
 pb	[s. pag.]	0001	7320855
-entry	[Plat]		
+entry	[Plat]	0	
 pb	[s. pag.]	0002	7320856
-entry	[Contreplat]		
+entry	[Contreplat]	0	
 pb	[s. pag.]	0003	7320857
 pb	[s. pag.]	0004	7320858
 pb	i	0005	7320859
-entry	[Page de faux titre]		
+entry	[Page de faux titre]	0	
 pb	ij	0006	7320860
 pb	iij	0007	7320861
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	iv	0008	7320862
 pb	v	0009	7320863
-entry	Dictionnaire Vétérinaire, et des animaux domestiques. Ven - Vénerie		
+entry	Dictionnaire Vétérinaire, et des animaux domestiques. Ven - Vénerie	0	
 orth	Dictionnaire Vétérinaire		
 orth	des animaux domestiques. Ven - Vénerie		
 pb	vj	0010	7320864
-entry	Vénerie		
+entry	Vénerie	28	
 pb	vij	0011	7320865
 pb	viij	0012	7320866
 pb	ix	0013	7320867
@@ -44,7 +44,7 @@ pb	xxxj	0035	7320889
 pb	xxxij	0036	7320890
 pb	xxxiij	0037	7320891
 pb	xxxiv	0038	7320892
-entry	Vénéneux		
+entry	Vénéneux	28	
 pb	xxxv	0039	7320893
 pb	xxxvj	0040	7320894
 pb	xxxvij	0041	7320895
@@ -73,17 +73,17 @@ pb	lix	0063	7320917
 pb	lx	0064	7320918
 pb	lxj	0065	7320919
 pb	lxij	0066	7320920
-entry	Veneur		
+entry	Veneur	0	
 pb	lxiij	0067	7320921
-entry	Vent		
-entry	Verdier		
+entry	Vent	0	
+entry	Verdier	1	
 pb	lxiv	0068	7320922
-entry	Vermiller		
-entry	Vermillonner		
-entry	Verminiere		
+entry	Vermiller	0	
+entry	Vermillonner	0	
+entry	Verminiere	2	
 pb	lxv	0069	7320923
 pb	lxvj	0070	7320924
-entry	Ver		
+entry	Ver	8	
 pb	lxvij	0071	7320925
 pb	lxviij	0072	7320926
 pb	lxix	0073	7320927
@@ -92,7 +92,7 @@ pb	lxxi	0075	7320929
 pb	lxxii	0076	7320930
 pb	lxxiii	0077	7320931
 pb	lxxiv	0078	7320932
-entry	Ver-à-soie		
+entry	Ver-à-soie	44	
 pb	lxxv	0079	7320933
 pb	lxxvj	0080	7320934
 pb	lxxvij	0081	7320935
@@ -137,11 +137,11 @@ pb	cxv	0119	7320973
 pb	cxvj	0120	7320974
 pb	cxvij	0121	7320975
 pb	cxviij	0122	7320976
-entry	Verveux		
-entry	Vespertilion		
+entry	Verveux	0	
+entry	Vespertilion	2	
 pb	cxix	0123	7320977
 pb	cxx	0124	7320978
-entry	Vétérinaire		
+entry	Vétérinaire	45	
 pb	cxxj	0125	7320979
 pb	cxxij	0126	7320980
 pb	cxxiij	0127	7320981
@@ -187,12 +187,12 @@ pb	clxij	0166	7321020
 pb	clxiij	0167	7321021
 pb	clxiv	0168	7321022
 pb	clxv	0169	7321023
-entry	Vipère		
+entry	Vipère	6	
 pb	clxvj	0170	7321024
 pb	clxvij	0171	7321025
 pb	clxviij	0172	7321026
 pb	clxix	0173	7321027
 pb	clxx	0174	7321028
 pb	clxxj	0175	7321029
-entry	Vivier		
-entry	Volaille		
+entry	Vivier	0	
+entry	Volaille	0	

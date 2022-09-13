@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4811680
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4811681
 pb	[s. pag.]	0003	4811682
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4811683
 pb	1	0005	4811684
-entry	Fièvre [Coutanceau, P. Rayer]		
+entry	Fièvre [Coutanceau, P. Rayer]	100	
 orth	Fièvre		
 pb	2	0006	4811685
 pb	3	0007	4811686
@@ -107,29 +107,29 @@ pb	98	0102	4811781
 pb	99	0103	4811782
 pb	100	0104	4811783
 pb	101	0105	4811784
-entry	Figue		
-entry	Figuier [A. Richard]		
+entry	Figue	0	
+entry	Figuier [A. Richard]	1	
 orth	Figuier		
 pb	102	0106	4811785
-entry	Figure		
-entry	Filaire [Hippol. Cloquet]		
+entry	Figure	0	
+entry	Filaire [Hippol. Cloquet]	3	
 orth	Filaire		
 pb	103	0107	4811786
 pb	104	0108	4811787
 pb	105	0109	4811788
-entry	Filament		
-entry	Filet		
+entry	Filament	0	
+entry	Filet	1	
 pb	106	0110	4811789
-entry	Filipendule [A. Richard]		
+entry	Filipendule [A. Richard]	0	
 orth	Filipendule		
-entry	Fissure [Murat]		
+entry	Fissure [Murat]	5	
 orth	Fissure		
 pb	107	0111	4811790
 pb	108	0112	4811791
 pb	109	0113	4811792
 pb	110	0114	4811793
 pb	111	0115	4811794
-entry	Fistule [Marjolin]		
+entry	Fistule [Marjolin]	59	
 orth	Fistule		
 pb	112	0116	4811795
 pb	113	0117	4811796
@@ -190,20 +190,20 @@ pb	167	0171	4811850
 pb	168	0172	4811851
 pb	169	0173	4811852
 pb	170	0174	4811853
-entry	Flabellation [Raige Delorme]		
+entry	Flabellation [Raige Delorme]	0	
 orth	Flabellation		
-entry	Flamme, Flammette		
+entry	Flamme, Flammette	1	
 orth	Flamme		
 orth	Flammette		
 pb	171	0175	4811854
-entry	Flanc		
-entry	Flatueux, Flatulent		
+entry	Flanc	0	
+entry	Flatueux, Flatulent	0	
 orth	Flatueux		
 orth	Flatulent		
-entry	Flatulence, Flatuosité [Chomel]		
+entry	Flatulence, Flatuosité [Chomel]	0	
 orth	Flatulence		
 orth	Flatuosité		
-entry	Fléchisseur [Hippol. Cloquet]		
+entry	Fléchisseur [Hippol. Cloquet]	9	
 orth	Fléchisseur		
 pb	172	0176	4811855
 pb	173	0177	4811856
@@ -214,30 +214,30 @@ pb	177	0181	4811860
 pb	178	0182	4811861
 pb	179	0183	4811862
 pb	180	0184	4811863
-entry	Fleur		
+entry	Fleur	1	
 pb	181	0185	4811864
-entry	Flexion [Raige Delorme]		
+entry	Flexion [Raige Delorme]	0	
 orth	Flexion		
-entry	Fluate		
-entry	Fluctuation		
+entry	Fluate	0	
+entry	Fluctuation	1	
 pb	182	0186	4811865
-entry	Flueurs blanches		
-entry	Fluo-borate		
-entry	Fluo-borique		
+entry	Flueurs blanches	0	
+entry	Fluo-borate	0	
+entry	Fluo-borique	0	
 pb	183	0187	4811866
-entry	Fluor		
-entry	Fluorique		
-entry	Flux [Chomel]		
+entry	Fluor	0	
+entry	Fluorique	0	
+entry	Flux [Chomel]	0	
 orth	Flux		
-entry	Fluxion [Raige Delorme]		
+entry	Fluxion [Raige Delorme]	1	
 orth	Fluxion		
 pb	184	0188	4811867
-entry	Foetal		
-entry	Foetus		
-entry	Foie [Hippol. Cloquet]		
+entry	Foetal	0	
+entry	Foetus	0	
+entry	Foie [Hippol. Cloquet]	0	
 orth	Foie		
 pb	185	0189	4811868
-entry	Foie [Hippol. Cloquet, Adelon, G. Ferrus]		
+entry	Foie [Hippol. Cloquet, Adelon, G. Ferrus]	29	
 orth	Foie		
 pb	186	0190	4811869
 pb	187	0191	4811870
@@ -268,8 +268,8 @@ pb	211	0215	4811894
 pb	212	0216	4811895
 pb	213	0217	4811896
 pb	214	0218	4811897
-entry	Foie		
-entry	Folie [Georget]		
+entry	Foie	0	
+entry	Folie [Georget]	87	
 orth	Folie		
 pb	215	0219	4811898
 pb	216	0220	4811899
@@ -358,21 +358,21 @@ pb	298	0302	4811981
 pb	299	0303	4811982
 pb	300	0304	4811983
 pb	301	0305	4811984
-entry	Follicule [A. Béclard]		
+entry	Follicule [A. Béclard]	0	
 orth	Follicule		
-entry	Fomentation [Guersent]		
+entry	Fomentation [Guersent]	2	
 orth	Fomentation		
 pb	302	0306	4811985
 pb	303	0307	4811986
-entry	Fonction [Raige Delorme]		
+entry	Fonction [Raige Delorme]	0	
 orth	Fonction		
-entry	Fondant [Raige Delorme]		
+entry	Fondant [Raige Delorme]	1	
 orth	Fondant		
 pb	304	0308	4811987
-entry	Fondement		
-entry	Fongosité		
-entry	Fongueux		
-entry	Fongus [Marjolin]		
+entry	Fondement	0	
+entry	Fongosité	0	
+entry	Fongueux	0	
+entry	Fongus [Marjolin]	13	
 orth	Fongus		
 pb	305	0309	4811988
 pb	306	0310	4811989
@@ -387,10 +387,10 @@ pb	314	0318	4811997
 pb	315	0319	4811998
 pb	316	0320	4811999
 pb	317	0321	4812000
-entry	Fontanelle		
+entry	Fontanelle	0	
 pb	318	0322	4812001
-entry	Fonticule		
-entry	Force [Rullier, Chomel]		
+entry	Fonticule	0	
+entry	Force [Rullier, Chomel]	13	
 orth	Force		
 pb	319	0323	4812002
 pb	320	0324	4812003
@@ -405,7 +405,7 @@ pb	328	0332	4812011
 pb	329	0333	4812012
 pb	330	0334	4812013
 pb	331	0335	4812014
-entry	Forceps [Desormeaux]		
+entry	Forceps [Desormeaux]	14	
 orth	Forceps		
 pb	332	0336	4812015
 pb	333	0337	4812016
@@ -421,15 +421,15 @@ pb	342	0346	4812025
 pb	343	0347	4812026
 pb	344	0348	4812027
 pb	345	0349	4812028
-entry	Formicant		
+entry	Formicant	0	
 pb	346	0350	4812029
-entry	Formication		
-entry	Formulaire [Guersent]		
+entry	Formication	0	
+entry	Formulaire [Guersent]	0	
 orth	Formulaire		
-entry	Formique (acide) [Orfila]		
+entry	Formique (acide) [Orfila]	1	
 orth	Formique (acide)		
 pb	347	0351	4812030
-entry	Formule [Guersent]		
+entry	Formule [Guersent]	7	
 orth	Formule		
 pb	348	0352	4812031
 pb	349	0353	4812032
@@ -438,28 +438,28 @@ pb	351	0355	4812034
 pb	352	0356	4812035
 pb	353	0357	4812036
 pb	354	0358	4812037
-entry	Fortifiant [Raige Delorme]		
+entry	Fortifiant [Raige Delorme]	0	
 orth	Fortifiant		
-entry	Fosse [A. Béclard]		
+entry	Fosse [A. Béclard]	0	
 orth	Fosse		
-entry	Fosse d'Amintas		
-entry	Fossette [A. Béclard]		
+entry	Fosse d'Amintas	0	
+entry	Fossette [A. Béclard]	0	
 orth	Fossette		
-entry	Fougères [A. Richard]		
+entry	Fougères [A. Richard]	4	
 orth	Fougères		
 pb	355	0359	4812038
 pb	356	0360	4812039
 pb	357	0361	4812040
 pb	358	0362	4812041
-entry	Foulure [Jules Cloquet]		
+entry	Foulure [Jules Cloquet]	0	
 orth	Foulure		
-entry	Fourchette [Murat]		
+entry	Fourchette [Murat]	0	
 orth	Fourchette		
-entry	Fourmi		
+entry	Fourmi	1	
 pb	359	0363	4812042
-entry	Fourmillement		
-entry	Foyer		
-entry	Fracture [Jules Cloquet]		
+entry	Fourmillement	0	
+entry	Foyer	0	
+entry	Fracture [Jules Cloquet]	133	
 orth	Fracture		
 pb	360	0364	4812043
 pb	361	0365	4812044
@@ -594,61 +594,61 @@ pb	489	0493	4812172
 pb	490	0494	4812173
 pb	491	0495	4812174
 pb	492	0496	4812175
-entry	Fragilité		
+entry	Fragilité	1	
 pb	493	0497	4812176
-entry	Fragment		
-entry	Fragon [A. Richard]		
+entry	Fragment	0	
+entry	Fragon [A. Richard]	0	
 orth	Fragon		
-entry	Fraise [A. Richard]		
+entry	Fraise [A. Richard]	0	
 orth	Fraise		
-entry	Fraisier [A. Richard]		
+entry	Fraisier [A. Richard]	2	
 orth	Fraisier		
 pb	494	0498	4812177
 pb	495	0499	4812178
-entry	Framboesia		
-entry	Framboise [A. Richard]		
+entry	Framboesia	0	
+entry	Framboise [A. Richard]	0	
 orth	Framboise		
-entry	Framboisier [A. Richard]		
+entry	Framboisier [A. Richard]	0	
 orth	Framboisier		
-entry	Fraxinelle [A. Richard]		
+entry	Fraxinelle [A. Richard]	1	
 orth	Fraxinelle		
 pb	496	0500	4812179
-entry	Frein [A. Béclard]		
+entry	Frein [A. Béclard]	0	
 orth	Frein		
-entry	Frémissement		
+entry	Frémissement	1	
 pb	497	0501	4812180
-entry	Frêne [A. Richard]		
+entry	Frêne [A. Richard]	0	
 orth	Frêne		
-entry	Fréquence		
-entry	Friction [Guersent]		
+entry	Fréquence	0	
+entry	Friction [Guersent]	2	
 orth	Friction		
 pb	498	0502	4812181
 pb	499	0503	4812182
-entry	Frigorifique		
-entry	Frisson		
-entry	Frissonnement		
-entry	Froid [Raige Delorme]		
+entry	Frigorifique	0	
+entry	Frisson	0	
+entry	Frissonnement	0	
+entry	Froid [Raige Delorme]	1	
 orth	Froid		
 pb	500	0504	4812183
-entry	Froment [A. Richard]		
+entry	Froment [A. Richard]	0	
 orth	Froment		
-entry	Fronde		
+entry	Fronde	1	
 pb	501	0505	4812184
-entry	Front		
-entry	Frontal [A. Béclard]		
+entry	Front	0	
+entry	Frontal [A. Béclard]	4	
 orth	Frontal		
 pb	502	0506	4812185
 pb	503	0507	4812186
 pb	504	0508	4812187
 pb	505	0509	4812188
-entry	Fugace		
-entry	Fuligineux		
-entry	Fumariacées [A. Richard]		
+entry	Fugace	0	
+entry	Fuligineux	0	
+entry	Fumariacées [A. Richard]	0	
 orth	Fumariacées		
-entry	Fumeterre [A. Richard]		
+entry	Fumeterre [A. Richard]	1	
 orth	Fumeterre		
 pb	506	0510	4812189
-entry	Fumigation [Guersent]		
+entry	Fumigation [Guersent]	8	
 orth	Fumigation		
 pb	507	0511	4812190
 pb	508	0512	4812191
@@ -658,47 +658,47 @@ pb	511	0515	4812194
 pb	512	0516	4812195
 pb	513	0517	4812196
 pb	514	0518	4812197
-entry	Fungine [J. Pelletier]		
+entry	Fungine [J. Pelletier]	1	
 orth	Fungine		
 pb	515	0519	4812198
-entry	Fungique (acide) [J. Pelletier]		
+entry	Fungique (acide) [J. Pelletier]	0	
 orth	Fungique (acide)		
-entry	Fureur		
-entry	Furfuracé		
+entry	Fureur	0	
+entry	Furfuracé	1	
 pb	516	0520	4812199
-entry	Furie infernale [Hippol. Cloquet]		
+entry	Furie infernale [Hippol. Cloquet]	0	
 orth	Furie infernale		
-entry	Furoncle ou Clou [Marjolin]		
+entry	Furoncle ou Clou [Marjolin]	2	
 orth	Furoncle		
 orth	Clou		
 pb	517	0521	4812200
 pb	518	0522	4812201
 pb	519	0523	4812202
-entry	Gaïac ou Gayac [A. Richard]		
+entry	Gaïac ou Gayac [A. Richard]	3	
 orth	Gaïac		
 orth	Gayac		
 pb	520	0524	4812203
 pb	521	0525	4812204
 pb	522	0526	4812205
-entry	Gaine [A. Béclard]		
+entry	Gaine [A. Béclard]	0	
 orth	Gaine		
-entry	Galactique		
-entry	Galactirrhée [Desormeaux]		
+entry	Galactique	0	
+entry	Galactirrhée [Desormeaux]	1	
 orth	Galactirrhée		
 pb	523	0527	4812206
-entry	Galactophore [Desormeaux]		
+entry	Galactophore [Desormeaux]	0	
 orth	Galactophore		
-entry	Galactopoiétique [Desormeaux]		
+entry	Galactopoiétique [Desormeaux]	0	
 orth	Galactopoiétique		
-entry	Galactose [Desormeaux]		
+entry	Galactose [Desormeaux]	0	
 orth	Galactose		
-entry	Galanga [A. Richard]		
+entry	Galanga [A. Richard]	1	
 orth	Galanga		
 pb	524	0528	4812207
-entry	Galbanum [A. Richard]		
+entry	Galbanum [A. Richard]	1	
 orth	Galbanum		
 pb	525	0529	4812208
-entry	Gale [L. Biett]		
+entry	Gale [L. Biett]	30	
 orth	Gale		
 pb	526	0530	4812209
 pb	527	0531	4812210
@@ -730,9 +730,9 @@ pb	552	0556	4812235
 pb	553	0557	4812236
 pb	554	0558	4812237
 pb	555	0559	4812238
-entry	Galéga [A. Richard]		
+entry	Galéga [A. Richard]	0	
 orth	Galéga		
-entry	Galénisme [Coutanceau]		
+entry	Galénisme [Coutanceau]	8	
 orth	Galénisme		
 pb	556	0560	4812239
 pb	557	0561	4812240
@@ -742,15 +742,15 @@ pb	560	0564	4812243
 pb	561	0565	4812244
 pb	562	0566	4812245
 pb	563	0567	4812246
-entry	Gallate		
-entry	Galle [A. Richard]		
+entry	Gallate	0	
+entry	Galle [A. Richard]	1	
 orth	Galle		
 pb	564	0568	4812247
-entry	Gallique (acide) [Orfila]		
+entry	Gallique (acide) [Orfila]	1	
 orth	Gallique (acide)		
 pb	565	0569	4812248
 pb	[s. pag.]	0570	4812249
 pb	[s. pag.]	0571	4812250
-entry	Table des principaux articles contenus dans le neuvième volume		
+entry	Table des principaux articles contenus dans le neuvième volume	0	
 pb	[s. pag.]	0572	4812251
-entry	Distribution des matières		
+entry	Distribution des matières	0	

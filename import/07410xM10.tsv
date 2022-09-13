@@ -1,9 +1,9 @@
 pb	[s. pag.]	0001	445141
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	445142
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0003	445143
-entry	Considérations préliminaires		
+entry	Considérations préliminaires	0	
 pb	ij	0004	445144
 pb	iij	0005	445145
 pb	iv	0006	445146
@@ -20,7 +20,7 @@ pb	xiv	0016	445156
 pb	xv	0017	445157
 pb	xvj	0018	445158
 pb	[s. pag.]	0019	445159
-entry	Notes et additions		
+entry	Notes et additions	0	
 orth	Notes		
 orth	additions		
 pb	xviij	0020	445160
@@ -30,20 +30,20 @@ pb	xxj	0023	445163
 pb	xxij	0024	445164
 pb	xxiij	0025	445165
 pb	[s. pag.]	0026	445166
-entry	Mésange (hygiène)		
-entry	Mésaraïque		
-entry	Mesclerie		
+entry	Mésange (hygiène)	0	
+entry	Mésaraïque	0	
+entry	Mesclerie	2	
 pb	2	0027	445167
 pb	3	0028	445168
-entry	Mésentère		
+entry	Mésentère	1	
 pb	4	0029	445169
-entry	Mesenteremphraxis		
-entry	Mésentérique (Atrophie)		
+entry	Mesenteremphraxis	0	
+entry	Mésentérique (Atrophie)	2	
 pb	5	0030	445170
 pb	6	0031	445171
-entry	Mésentèrite		
+entry	Mésentèrite	1	
 pb	7	0032	445172
-entry	Mesmérisme		
+entry	Mesmérisme	15	
 pb	8	0033	445173
 pb	9	0034	445174
 pb	10	0035	445175
@@ -59,65 +59,65 @@ pb	19	0044	445184
 pb	20	0045	445185
 pb	21	0046	445186
 pb	22	0047	445187
-entry	Mésocéphale		
-entry	Mésocéphalique		
-entry	Mésochondriaque		
-entry	Mésocolon		
-entry	Mésocrane		
-entry	Mésoglosse		
-entry	Mésolobe		
+entry	Mésocéphale	0	
+entry	Mésocéphalique	0	
+entry	Mésochondriaque	0	
+entry	Mésocolon	0	
+entry	Mésocrane	0	
+entry	Mésoglosse	0	
+entry	Mésolobe	1	
 pb	23	0048	445188
-entry	Mésopie		
-entry	Mésothénar		
-entry	Mésué (Jean)		
+entry	Mésopie	0	
+entry	Mésothénar	0	
+entry	Mésué (Jean)	1	
 pb	24	0049	445189
-entry	Mesures (thérapeutique)		
+entry	Mesures (thérapeutique)	1	
 pb	25	0050	445190
-entry	Métabolélogie (pathologie générale)		
+entry	Métabolélogie (pathologie générale)	4	
 pb	26	0051	445191
 pb	27	0052	445192
 pb	28	0053	445193
 pb	29	0054	445194
-entry	Métacarpe		
-entry	Métal, Métaux		
+entry	Métacarpe	0	
+entry	Métal, Métaux	0	
 orth	Métal		
 orth	Métaux		
-entry	Métallique (Colique)		
+entry	Métallique (Colique)	1	
 pb	30	0055	445195
-entry	Métaporopoièse		
-entry	Métaptose (pathologie générale)		
+entry	Métaporopoièse	0	
+entry	Métaptose (pathologie générale)	1	
 pb	31	0056	445196
-entry	Métaschématisme		
-entry	Métastases (pathologie générale)		
+entry	Métaschématisme	0	
+entry	Métastases (pathologie générale)	5	
 pb	32	0057	445197
 pb	33	0058	445198
 pb	34	0059	445199
 pb	35	0060	445200
 pb	36	0061	445201
-entry	Metasyncrise (thérapeutique)		
-entry	Métasyncritique		
-entry	Métatarse		
-entry	Métathèse		
-entry	Métel (hygiène)		
-entry	Météores		
+entry	Metasyncrise (thérapeutique)	0	
+entry	Métasyncritique	0	
+entry	Métatarse	0	
+entry	Métathèse	0	
+entry	Métel (hygiène)	0	
+entry	Météores	6	
 pb	37	0062	445202
 pb	38	0063	445203
 pb	39	0064	445204
 pb	40	0065	445205
 pb	41	0066	445206
 pb	42	0067	445207
-entry	Météorisation		
+entry	Météorisation	2	
 pb	43	0068	445208
 pb	44	0069	445209
-entry	Météorisme		
+entry	Météorisme	1	
 pb	45	0070	445210
 pb	46	0071	445211
-entry	Météorologie		
-entry	Météorologique		
+entry	Météorologie	0	
+entry	Météorologique	2	
 pb	47	0072	445212
 pb	48	0073	445213
-entry	Methemerine		
-entry	Méthodes		
+entry	Methemerine	0	
+entry	Méthodes	14	
 pb	49	0074	445214
 pb	50	0075	445215
 pb	51	0076	445216
@@ -132,10 +132,10 @@ pb	59	0084	445224
 pb	60	0085	445225
 pb	61	0086	445226
 pb	62	0087	445227
-entry	Méthodisme, Méthodistes		
+entry	Méthodisme, Méthodistes	0	
 orth	Méthodisme		
 orth	Méthodistes		
-entry	Métiers (infalubrité des)		
+entry	Métiers (infalubrité des)	13	
 pb	63	0088	445228
 pb	64	0089	445229
 pb	65	0090	445230
@@ -149,22 +149,22 @@ pb	72	0097	445237
 pb	73	0098	445238
 pb	74	0099	445239
 pb	75	0100	445240
-entry	Métis (anthropologie)		
+entry	Métis (anthropologie)	1	
 pb	76	0101	445241
-entry	Métonomasie		
-entry	Métope		
-entry	Métoposcopie		
-entry	Métoscopie		
+entry	Métonomasie	0	
+entry	Métope	0	
+entry	Métoposcopie	0	
+entry	Métoscopie	1	
 pb	77	0102	445242
-entry	Métose		
-entry	Métralgie		
+entry	Métose	0	
+entry	Métralgie	1	
 pb	78	0103	445243
-entry	Métremphraxis		
-entry	Métrenchyte		
-entry	Metretes		
-entry	Métriopathie		
+entry	Métremphraxis	0	
+entry	Métrenchyte	0	
+entry	Metretes	0	
+entry	Métriopathie	0	
 pb	79	0104	445244
-entry	Métrite		
+entry	Métrite	8	
 pb	80	0105	445245
 pb	81	0106	445246
 pb	82	0107	445247
@@ -173,52 +173,52 @@ pb	84	0109	445249
 pb	85	0110	445250
 pb	86	0111	445251
 pb	87	0112	445252
-entry	Métromanie		
-entry	Métroproptose		
-entry	Métrorrhagie		
+entry	Métromanie	0	
+entry	Métroproptose	0	
+entry	Métrorrhagie	3	
 pb	88	0113	445253
 pb	89	0114	445254
 pb	90	0115	445255
-entry	Mets		
-entry	Meum		
-entry	Meunier (hygiène)		
+entry	Mets	0	
+entry	Meum	0	
+entry	Meunier (hygiène)	0	
 pb	91	0116	445256
-entry	Meurtre		
-entry	Meurtrier		
-entry	Meurtrissure		
+entry	Meurtre	0	
+entry	Meurtrier	0	
+entry	Meurtrissure	6	
 pb	92	0117	445257
 pb	93	0118	445258
 pb	94	0119	445259
 pb	95	0120	445260
 pb	96	0121	445261
 pb	97	0122	445262
-entry	Meus (eaux minérales de)		
-entry	Meynes (eaux minérales de)		
-entry	Mezereum (Daphné)		
+entry	Meus (eaux minérales de)	0	
+entry	Meynes (eaux minérales de)	0	
+entry	Mezereum (Daphné)	1	
 pb	98	0123	445263
-entry	Miasmatique		
-entry	Miasme		
+entry	Miasmatique	0	
+entry	Miasme	2	
 pb	99	0124	445264
 pb	100	0125	445265
-entry	Michelotti (Pierre-Antoine)		
-entry	Michon (Pierre)		
+entry	Michelotti (Pierre-Antoine)	0	
+entry	Michon (Pierre)	1	
 pb	101	0126	445266
-entry	Microcosme		
-entry	Microcoustique		
-entry	Micrographie		
-entry	Microphone		
-entry	Microphthalmie		
-entry	Microrchide		
-entry	Microscope		
+entry	Microcosme	0	
+entry	Microcoustique	0	
+entry	Micrographie	0	
+entry	Microphone	0	
+entry	Microphthalmie	0	
+entry	Microrchide	0	
+entry	Microscope	1	
 pb	102	0127	445267
-entry	Microscopiques		
-entry	Midi (hygiène)		
+entry	Microscopiques	0	
+entry	Midi (hygiène)	2	
 pb	103	0128	445268
 pb	104	0129	445269
-entry	Miel		
+entry	Miel	1	
 pb	105	0130	445270
-entry	Mier (eaux minérales de)		
-entry	Migraine		
+entry	Mier (eaux minérales de)	0	
+entry	Migraine	8	
 pb	106	0131	445271
 pb	107	0132	445272
 pb	108	0133	445273
@@ -227,8 +227,8 @@ pb	110	0135	445275
 pb	111	0136	445276
 pb	112	0137	445277
 pb	113	0138	445278
-entry	Milhaud (eaux minérales de)		
-entry	Miliaire (éruption)		
+entry	Milhaud (eaux minérales de)	0	
+entry	Miliaire (éruption)	7	
 pb	114	0139	445279
 pb	115	0140	445280
 pb	116	0141	445281
@@ -236,7 +236,7 @@ pb	117	0142	445282
 pb	118	0143	445283
 pb	119	0144	445284
 pb	120	0145	445285
-entry	Militaire (médecine, hygiène)		
+entry	Militaire (médecine, hygiène)	7	
 pb	121	0146	445286
 pb	122	0147	445287
 pb	123	0148	445288
@@ -244,18 +244,18 @@ pb	124	0149	445289
 pb	125	0150	445290
 pb	126	0151	445291
 pb	127	0152	445292
-entry	Mille-Feuille		
-entry	Mille-Pertuis		
-entry	Millerie (eaux minerales de la)		
-entry	Millery (eaux minérales de)		
-entry	Millot, Millet (pathologie)		
+entry	Mille-Feuille	0	
+entry	Mille-Pertuis	0	
+entry	Millerie (eaux minerales de la)	0	
+entry	Millery (eaux minérales de)	0	
+entry	Millot, Millet (pathologie)	1	
 orth	Millot		
 orth	Millet (pathologie)		
 pb	128	0153	445293
-entry	Milphose		
-entry	Minadous (Jean-Baptifte)		
-entry	Minderer (Raïmond)		
-entry	Minérales (eaux)		
+entry	Milphose	0	
+entry	Minadous (Jean-Baptifte)	0	
+entry	Minderer (Raïmond)	0	
+entry	Minérales (eaux)	20	
 pb	129	0154	445294
 pb	130	0155	445295
 pb	131	0156	445296
@@ -276,109 +276,109 @@ pb	145	0170	445310
 pb	146	0171	445311
 pb	147	0172	445312
 pb	148	0173	445313
-entry	Mines		
+entry	Mines	5	
 pb	149	0174	445314
 pb	150	0175	445315
 pb	151	0176	445316
 pb	152	0177	445317
 pb	153	0178	445318
-entry	Mineurs (Maladies des)		
+entry	Mineurs (Maladies des)	1	
 pb	154	0179	445319
-entry	Minium		
-entry	Minoratif		
+entry	Minium	0	
+entry	Minoratif	1	
 pb	155	0180	445320
-entry	Mirabelle (hygiène)		
-entry	Mirage		
-entry	Mirebeau (eaux minérales de)		
-entry	Mirobolan		
-entry	Miroitiers (maladies des)		
-entry	Miron (Marc)		
-entry	Mirte		
-entry	Mirtille		
-entry	Mirtille, Airelle, Raisin de bois, Morette (matière médicale)		
+entry	Mirabelle (hygiène)	0	
+entry	Mirage	0	
+entry	Mirebeau (eaux minérales de)	0	
+entry	Mirobolan	0	
+entry	Miroitiers (maladies des)	0	
+entry	Miron (Marc)	0	
+entry	Mirte	0	
+entry	Mirtille	0	
+entry	Mirtille, Airelle, Raisin de bois, Morette (matière médicale)	0	
 orth	Mirtille		
 orth	Airelle		
 orth	Raisin de bois		
 orth	Morette (matière médicale)		
-entry	Misanthrope		
-entry	Misanthropie		
+entry	Misanthrope	0	
+entry	Misanthropie	1	
 pb	156	0181	445321
-entry	Miserere		
-entry	Misla (hygiène)		
-entry	Misogame		
+entry	Miserere	0	
+entry	Misla (hygiène)	0	
+entry	Misogame	1	
 pb	157	0182	445322
-entry	Misogynie		
-entry	Misum (hygiène)		
-entry	Mithridate		
-entry	Mitre		
-entry	Mitte		
-entry	Miva		
-entry	Mixte		
-entry	Mixtion		
-entry	Mixture (matière médicale)		
-entry	Mizaud (Antoine)		
-entry	Mnème, Mnémoneutique		
+entry	Misogynie	0	
+entry	Misum (hygiène)	0	
+entry	Mithridate	0	
+entry	Mitre	0	
+entry	Mitte	0	
+entry	Miva	0	
+entry	Mixte	0	
+entry	Mixtion	0	
+entry	Mixture (matière médicale)	0	
+entry	Mizaud (Antoine)	0	
+entry	Mnème, Mnémoneutique	0	
 orth	Mnème		
 orth	Mnémoneutique		
 pb	158	0183	445323
-entry	Mnémécéphalique		
-entry	Mnémon		
-entry	Mnémonique		
-entry	Mnésithée		
-entry	Mobile		
-entry	Mobilité		
+entry	Mnémécéphalique	0	
+entry	Mnémon	0	
+entry	Mnémonique	0	
+entry	Mnésithée	0	
+entry	Mobile	0	
+entry	Mobilité	1	
 pb	159	0184	445324
-entry	Mochlie		
-entry	Mochlique		
-entry	Mochliques ou Drastiques		
+entry	Mochlie	0	
+entry	Mochlique	0	
+entry	Mochliques ou Drastiques	0	
 orth	Mochliques		
 orth	Drastiques		
-entry	Mode		
-entry	Modes		
+entry	Mode	0	
+entry	Modes	1	
 pb	160	0185	445325
-entry	Moebin (Godefroi)		
-entry	Moelle (hygiène)		
+entry	Moebin (Godefroi)	0	
+entry	Moelle (hygiène)	2	
 pb	161	0186	445326
 pb	162	0187	445327
-entry	Moellenbroeck (Valentin-André)		
-entry	Moeurs		
+entry	Moellenbroeck (Valentin-André)	0	
+entry	Moeurs	1	
 pb	163	0188	445328
-entry	Mofette ou Moufette		
+entry	Mofette ou Moufette	0	
 orth	Mofette		
 orth	Moufette		
-entry	Mogilalisme		
-entry	Moinichen (Henri de)		
+entry	Mogilalisme	0	
+entry	Moinichen (Henri de)	0	
 pb	164	0189	445329
-entry	Moïse (histoire de la médecine)		
+entry	Moïse (histoire de la médecine)	1	
 pb	165	0190	445330
-entry	Moisissure (hygiène)		
-entry	Moiteur (hygiène)		
+entry	Moisissure (hygiène)	0	
+entry	Moiteur (hygiène)	1	
 pb	166	0191	445331
-entry	Mlaires ou Meulières		
+entry	Mlaires ou Meulières	0	
 orth	Mlaires		
 orth	Meulières		
-entry	Moldavique		
-entry	Mole (médecine légale)		
+entry	Moldavique	0	
+entry	Mole (médecine légale)	3	
 pb	167	0192	445332
 pb	168	0193	445333
 pb	169	0194	445334
-entry	Molinetti (Antoine)		
-entry	Molotx (eaux minérales de)		
-entry	Moly		
+entry	Molinetti (Antoine)	0	
+entry	Molotx (eaux minérales de)	0	
+entry	Moly	1	
 pb	170	0195	445335
-entry	Mollesse		
-entry	Mollet		
-entry	Mollettes (chirurgie vétérinaire)		
+entry	Mollesse	0	
+entry	Mollet	0	
+entry	Mollettes (chirurgie vétérinaire)	1	
 pb	171	0196	445336
-entry	Molluscum		
-entry	Momie		
+entry	Molluscum	0	
+entry	Momie	3	
 pb	172	0197	445337
 pb	173	0198	445338
 pb	174	0199	445339
-entry	Monantheuil (Henri de)		
+entry	Monantheuil (Henri de)	1	
 pb	175	0200	445340
-entry	Monardes (Nicolas)		
-entry	Monastiques (Ordres)		
+entry	Monardes (Nicolas)	0	
+entry	Monastiques (Ordres)	7	
 pb	176	0201	445341
 pb	177	0202	445342
 pb	178	0203	445343
@@ -386,56 +386,56 @@ pb	179	0204	445344
 pb	180	0205	445345
 pb	181	0206	445346
 pb	182	0207	445347
-entry	Monchausson (eaux minérales de)		
-entry	Monde (régime des gens du)		
+entry	Monchausson (eaux minérales de)	0	
+entry	Monde (régime des gens du)	6	
 pb	183	0208	445348
 pb	184	0209	445349
 pb	185	0210	445350
 pb	186	0211	445351
 pb	187	0212	445352
 pb	188	0213	445353
-entry	Mondé		
-entry	Mondificatif		
-entry	Mondo (matière médicale)		
-entry	Moneins (eaux minérales de)		
-entry	Monfin (eaux minérales de)		
+entry	Mondé	0	
+entry	Mondificatif	0	
+entry	Mondo (matière médicale)	0	
+entry	Moneins (eaux minérales de)	0	
+entry	Monfin (eaux minérales de)	1	
 pb	189	0214	445354
-entry	Mongol		
-entry	Mongols, Mongoliques		
+entry	Mongol	0	
+entry	Mongols, Mongoliques	0	
 orth	Mongols		
 orth	Mongoliques		
-entry	Monné (eaux minérales de)		
-entry	Monocle		
-entry	Monocotylédones		
+entry	Monné (eaux minérales de)	0	
+entry	Monocle	0	
+entry	Monocotylédones	1	
 pb	190	0215	445355
-entry	Monocule		
-entry	Monoecie		
+entry	Monocule	0	
+entry	Monoecie	1	
 pb	191	0216	445356
-entry	Monogamie		
-entry	Monogastriques		
-entry	Monographie		
-entry	Monogynie		
-entry	Monoïques		
-entry	Monomanie		
+entry	Monogamie	0	
+entry	Monogastriques	0	
+entry	Monographie	0	
+entry	Monogynie	0	
+entry	Monoïques	0	
+entry	Monomanie	1	
 pb	192	0217	445357
-entry	Monopagie ou Monopégie		
+entry	Monopagie ou Monopégie	0	
 orth	Monopagie		
 orth	Monopégie		
-entry	Monopétale		
-entry	Monophage		
-entry	Monophthalme		
-entry	Monophylle		
-entry	Monoptère		
-entry	Monopyrène		
-entry	Monorchide		
-entry	Monositie		
-entry	Monosperme		
-entry	Monro (Alexandre)		
+entry	Monopétale	0	
+entry	Monophage	0	
+entry	Monophthalme	0	
+entry	Monophylle	0	
+entry	Monoptère	0	
+entry	Monopyrène	0	
+entry	Monorchide	0	
+entry	Monositie	0	
+entry	Monosperme	0	
+entry	Monro (Alexandre)	1	
 pb	193	0218	445358
-entry	Monstroeil (Jean de)		
+entry	Monstroeil (Jean de)	1	
 pb	194	0219	445359
-entry	Monstrueux		
-entry	Monstruosités		
+entry	Monstrueux	0	
+entry	Monstruosités	25	
 pb	195	0220	445360
 pb	196	0221	445361
 pb	197	0222	445362
@@ -461,34 +461,34 @@ pb	216	0241	445381
 pb	217	0242	445382
 pb	218	0243	445383
 pb	219	0244	445384
-entry	Montagnana (Barthélemi)		
-entry	Montagne		
+entry	Montagnana (Barthélemi)	0	
+entry	Montagne	5	
 pb	220	0245	445385
 pb	221	0246	445386
 pb	222	0247	445387
 pb	223	0248	445388
 pb	224	0249	445389
-entry	Montaigu (eaux minérales de)		
-entry	Montalbani (Ovidio)		
-entry	Mont-Bosc (eaux minérales de)		
-entry	Montbrison (eaux minérales de)		
-entry	Montbrun (eaux minérales de)		
-entry	Mont-Cenis		
-entry	Montcontour (eaux minérales de)		
-entry	Mont-Dauphin (eaux minérales de)		
+entry	Montaigu (eaux minérales de)	0	
+entry	Montalbani (Ovidio)	0	
+entry	Mont-Bosc (eaux minérales de)	0	
+entry	Montbrison (eaux minérales de)	0	
+entry	Montbrun (eaux minérales de)	0	
+entry	Mont-Cenis	0	
+entry	Montcontour (eaux minérales de)	0	
+entry	Mont-Dauphin (eaux minérales de)	1	
 pb	225	0250	445390
-entry	Mont-De-Marsan (eaux minérales de)		
-entry	Mont-d'or (eaux minérale de)		
+entry	Mont-De-Marsan (eaux minérales de)	0	
+entry	Mont-d'or (eaux minérale de)	2	
 pb	226	0251	445391
 pb	227	0252	445392
-entry	Montendre (eaux minérales de)		
-entry	Mont-Ferrand (eaux minérales de)		
-entry	Monti (Jean-Baptiste)		
+entry	Montendre (eaux minérales de)	0	
+entry	Mont-Ferrand (eaux minérales de)	0	
+entry	Monti (Jean-Baptiste)	1	
 pb	228	0253	445393
-entry	Montigné (eaux minérales de)		
-entry	Mont-Louis (eaux minérales de)		
-entry	Montmorency		
-entry	Montpellier (médecins, école, faculté de)		
+entry	Montigné (eaux minérales de)	0	
+entry	Mont-Louis (eaux minérales de)	0	
+entry	Montmorency	0	
+entry	Montpellier (médecins, école, faculté de)	20	
 pb	229	0254	445394
 pb	230	0255	445395
 pb	231	0256	445396
@@ -509,16 +509,16 @@ pb	245	0270	445410
 pb	246	0271	445411
 pb	247	0272	445412
 pb	248	0273	445413
-entry	Mont-Pezat (eaux minérales de)		
-entry	Montrichart (eaux minérales de)		
-entry	Montuus ou De Monteux (Sébastien)		
+entry	Mont-Pezat (eaux minérales de)	0	
+entry	Montrichart (eaux minérales de)	0	
+entry	Montuus ou De Monteux (Sébastien)	1	
 orth	Montuus		
 orth	De Monteux (Sébastien)		
 pb	249	0274	445414
-entry	Mont-Venus		
-entry	Moor (Barthélémi de)		
+entry	Mont-Venus	0	
+entry	Moor (Barthélémi de)	1	
 pb	250	0275	445415
-entry	Moral		
+entry	Moral	26	
 pb	251	0276	445416
 pb	252	0277	445417
 pb	253	0278	445418
@@ -545,55 +545,55 @@ pb	273	0298	445438
 pb	274	0299	445439
 pb	275	0300	445440
 pb	276	0301	445441
-entry	Morand (Jean-François-Clément)		
-entry	Morate		
-entry	Morbide		
-entry	Morbidesse		
+entry	Morand (Jean-François-Clément)	0	
+entry	Morate	0	
+entry	Morbide	0	
+entry	Morbidesse	1	
 pb	277	0302	445442
-entry	Morbifique		
-entry	Morbus (Cholera-)		
+entry	Morbifique	0	
+entry	Morbus (Cholera-)	3	
 pb	278	0303	445443
 pb	279	0304	445444
 pb	280	0305	445445
-entry	Morceau du diable.Mordehi;  Mordexin		
-entry	Mordicant, Mordicante (charleur)		
+entry	Morceau du diable.Mordehi;  Mordexin	0	
+entry	Mordicant, Mordicante (charleur)	0	
 orth	Mordicant		
 orth	Mordicante (charleur)		
-entry	Mordication		
-entry	Mordre		
-entry	Moreau du moulin (Réné)		
+entry	Mordication	0	
+entry	Mordre	0	
+entry	Moreau du moulin (Réné)	3	
 pb	281	0306	445446
 pb	282	0307	445447
 pb	283	0308	445448
-entry	Morelle		
-entry	Morènes		
-entry	Morfondure		
+entry	Morelle	0	
+entry	Morènes	0	
+entry	Morfondure	1	
 pb	284	0309	445449
-entry	Morgagni (Jean-Baptiste)		
+entry	Morgagni (Jean-Baptiste)	4	
 pb	285	0310	445450
 pb	286	0311	445451
 pb	287	0312	445452
 pb	288	0313	445453
-entry	Morgeline		
-entry	Morgue		
-entry	Moribond		
-entry	Morienus		
-entry	Morilles		
+entry	Morgeline	0	
+entry	Morgue	0	
+entry	Moribond	0	
+entry	Morienus	0	
+entry	Morilles	1	
 pb	289	0314	445454
-entry	Morin (Jean-Baptifte)		
-entry	Morin (Nicolas)		
-entry	Moringa (hygiène & matière médicale)		
-entry	Morique (Acide)		
-entry	Morisot-Deslandes (Pierres-Jofeph)		
+entry	Morin (Jean-Baptifte)	0	
+entry	Morin (Nicolas)	0	
+entry	Moringa (hygiène & matière médicale)	0	
+entry	Morique (Acide)	0	
+entry	Morisot-Deslandes (Pierres-Jofeph)	1	
 pb	290	0315	445455
-entry	Morne		
-entry	Morose, Morosité (pathalogie générale)		
+entry	Morne	0	
+entry	Morose, Morosité (pathalogie générale)	0	
 orth	Morose		
 orth	Morosité (pathalogie générale)		
-entry	Morosité		
+entry	Morosité	1	
 pb	291	0316	445456
-entry	Morphèe		
-entry	Morphine		
+entry	Morphèe	0	
+entry	Morphine	7	
 pb	292	0317	445457
 pb	293	0318	445458
 pb	294	0319	445459
@@ -601,9 +601,9 @@ pb	295	0320	445460
 pb	296	0321	445461
 pb	297	0322	445462
 pb	298	0323	445463
-entry	Morpion		
-entry	Morsure		
-entry	Mort (histoire naturelle & physiologique)		
+entry	Morpion	0	
+entry	Morsure	0	
+entry	Mort (histoire naturelle & physiologique)	36	
 pb	299	0324	445464
 pb	300	0325	445465
 pb	301	0326	445466
@@ -640,9 +640,9 @@ pb	331	0356	445496
 pb	332	0357	445497
 pb	333	0358	445498
 pb	334	0359	445499
-entry	Mortagne (eaux minérales de)		
-entry	Mortain (eaux minérales de)		
-entry	Mortalité		
+entry	Mortagne (eaux minérales de)	0	
+entry	Mortain (eaux minérales de)	0	
+entry	Mortalité	14	
 pb	335	0360	445500
 pb	336	0361	445501
 pb	337	0362	445502
@@ -657,21 +657,21 @@ pb	345	0370	445510
 pb	346	0371	445511
 pb	347	0372	445512
 pb	348	0373	445513
-entry	Mort-Chien		
-entry	Mortel, Mortelles		
+entry	Mort-Chien	0	
+entry	Mortel, Mortelles	0	
 orth	Mortel		
 orth	Mortelles		
-entry	Mortifère		
-entry	Mortification		
+entry	Mortifère	0	
+entry	Mortification	1	
 pb	349	0374	445514
-entry	Mort-Né		
+entry	Mort-Né	4	
 pb	350	0375	445515
 pb	351	0376	445516
 pb	352	0377	445517
 pb	353	0378	445518
-entry	Morts (soins relatifs aux)		
-entry	Morue (hygiène)		
-entry	Morve (médecine vétérinaire)		
+entry	Morts (soins relatifs aux)	0	
+entry	Morue (hygiène)	0	
+entry	Morve (médecine vétérinaire)	9	
 pb	354	0379	445519
 pb	355	0380	445520
 pb	356	0381	445521
@@ -681,100 +681,100 @@ pb	359	0384	445524
 pb	360	0385	445525
 pb	361	0386	445526
 pb	362	0387	445527
-entry	Morxy (médecine pratique)		
-entry	Moscatelle		
-entry	Moschifère		
-entry	Moschion (biograph. Médic)		
+entry	Morxy (médecine pratique)	0	
+entry	Moscatelle	0	
+entry	Moschifère	0	
+entry	Moschion (biograph. Médic)	1	
 pb	363	0388	445528
-entry	Moschus (biograph. Médic.)		
-entry	Moscouade (hygiène)		
-entry	Mosquites		
-entry	Motelle (hygiène)		
-entry	Mothe (biograph. Médic)		
-entry	Moteur, Motrice		
+entry	Moschus (biograph. Médic.)	0	
+entry	Moscouade (hygiène)	0	
+entry	Mosquites	0	
+entry	Motelle (hygiène)	0	
+entry	Mothe (biograph. Médic)	0	
+entry	Moteur, Motrice	0	
 orth	Moteur		
 orth	Motrice		
-entry	Motilité		
+entry	Motilité	2	
 pb	364	0389	445529
 pb	365	0390	445530
-entry	Motte		
-entry	Mou, Mol		
+entry	Motte	0	
+entry	Mou, Mol	0	
 orth	Mou		
 orth	Mol		
-entry	Mouches (pathologie)		
-entry	Mouchetures (chirurgie miniflrante ou petite chirurgie)		
+entry	Mouches (pathologie)	0	
+entry	Mouchetures (chirurgie miniflrante ou petite chirurgie)	1	
 pb	366	0391	445531
-entry	Mouchoir		
-entry	Moufett (Thomas)		
-entry	Moufle		
-entry	Moule		
+entry	Mouchoir	0	
+entry	Moufett (Thomas)	0	
+entry	Moufle	0	
+entry	Moule	1	
 pb	367	0392	445532
-entry	Moulins (eaux minérales de)		
-entry	Moulin-Lacoste (eaux minérales de)		
-entry	Moulin-Le-Comte (eaux minérales de)		
-entry	Moulins-la-Marche (eaux minérales de)		
-entry	Moulins (hygiène)		
+entry	Moulins (eaux minérales de)	0	
+entry	Moulin-Lacoste (eaux minérales de)	0	
+entry	Moulin-Le-Comte (eaux minérales de)	0	
+entry	Moulins-la-Marche (eaux minérales de)	0	
+entry	Moulins (hygiène)	0	
 pb	368	0393	445533
-entry	Mourant		
+entry	Mourant	4	
 pb	369	0394	445534
 pb	370	0395	445535
 pb	371	0396	445536
 pb	372	0397	445537
-entry	Mouron (matière médicale)		
+entry	Mouron (matière médicale)	1	
 pb	373	0398	445538
-entry	Mousseron (matière médic)		
-entry	Mousses (mat. Médic)		
-entry	Moustique		
-entry	Moutarde (matière médicale)		
+entry	Mousseron (matière médic)	0	
+entry	Mousses (mat. Médic)	0	
+entry	Moustique	0	
+entry	Moutarde (matière médicale)	1	
 pb	374	0399	445539
-entry	Mouton (hygiène)		
-entry	Mouvement		
+entry	Mouton (hygiène)	0	
+entry	Mouvement	4	
 pb	375	0400	445540
 pb	376	0401	445541
 pb	377	0402	445542
 pb	378	0403	445543
-entry	Moxa (thérapeutique)		
+entry	Moxa (thérapeutique)	1	
 pb	379	0404	445544
-entry	Moyen-Moutier (eaux minérales de)		
-entry	Mucates (matière médicle)		
-entry	Muchucunda (matière médicle)		
+entry	Moyen-Moutier (eaux minérales de)	0	
+entry	Mucates (matière médicle)	0	
+entry	Muchucunda (matière médicle)	0	
 pb	380	0405	445545
-entry	Mucilage (hygiène)		
+entry	Mucilage (hygiène)	2	
 pb	381	0406	445546
 pb	382	0407	445547
-entry	Mucilagineux		
-entry	Mucique (Acide)		
-entry	Mucosité (pathologie générale)		
+entry	Mucilagineux	0	
+entry	Mucique (Acide)	0	
+entry	Mucosité (pathologie générale)	2	
 pb	383	0408	445548
 pb	384	0409	445549
-entry	Mucus		
+entry	Mucus	1	
 pb	385	0410	445550
-entry	Mue		
-entry	Muet		
+entry	Mue	0	
+entry	Muet	2	
 pb	386	0411	445551
 pb	387	0412	445552
-entry	Mufflier		
-entry	Mugnaio (matière médicle)		
-entry	Muguet		
+entry	Mufflier	0	
+entry	Mugnaio (matière médicle)	0	
+entry	Muguet	3	
 pb	388	0413	445553
 pb	389	0414	445554
 pb	390	0415	445555
 pb	391	0416	445556
-entry	Muquet		
-entry	Mulatre		
-entry	Mules		
-entry	Mulet		
+entry	Muquet	0	
+entry	Mulatre	0	
+entry	Mules	0	
+entry	Mulet	1	
 pb	392	0417	445557
-entry	Muller (Godefroid-Guillaume)		
+entry	Muller (Godefroid-Guillaume)	1	
 pb	393	0418	445558
-entry	Multifide (hift. Nat. Médic)		
-entry	Multimammes (anatomie)		
-entry	Multimannes (anatomie)		
-entry	Mundanella (Louis)		
-entry	Mundinus (biograph. Médic.)		
-entry	Mungo (hygiène)		
-entry	Munier (Jean-Alcide)		
-entry	Muqueuse (fièvre)		
+entry	Multifide (hift. Nat. Médic)	0	
+entry	Multimammes (anatomie)	0	
+entry	Multimannes (anatomie)	0	
+entry	Mundanella (Louis)	0	
+entry	Mundinus (biograph. Médic.)	0	
+entry	Mungo (hygiène)	0	
+entry	Munier (Jean-Alcide)	0	
+entry	Muqueuse (fièvre)	14	
 pb	394	0419	445559
 pb	395	0420	445560
 pb	396	0421	445561
@@ -790,26 +790,26 @@ pb	405	0430	445570
 pb	406	0431	445571
 pb	407	0432	445572
 pb	408	0433	445573
-entry	Mur		
-entry	Mur de barrès (eaux minérales de)		
-entry	Mural		
-entry	Murlait		
-entry	Mures (hygiène)		
-entry	Muriates (matière médicale)		
+entry	Mur	0	
+entry	Mur de barrès (eaux minérales de)	0	
+entry	Mural	0	
+entry	Murlait	0	
+entry	Mures (hygiène)	0	
+entry	Muriates (matière médicale)	1	
 pb	409	0434	445574
-entry	Muriatique (matière médic.)		
-entry	Murier		
-entry	Musc (matière médicale & hygiène)		
+entry	Muriatique (matière médic.)	0	
+entry	Murier	0	
+entry	Musc (matière médicale & hygiène)	1	
 pb	410	0435	445575
-entry	Muscade (hygiène)		
-entry	Muscadier		
-entry	Muscat (hygiène)		
+entry	Muscade (hygiène)	0	
+entry	Muscadier	0	
+entry	Muscat (hygiène)	1	
 pb	411	0436	445576
-entry	Muscle (hygiène)		
+entry	Muscle (hygiène)	3	
 pb	412	0437	445577
 pb	413	0438	445578
 pb	414	0439	445579
-entry	Musculaire (physiologie)		
+entry	Musculaire (physiologie)	19	
 pb	415	0440	445580
 pb	416	0441	445581
 pb	417	0442	445582
@@ -829,98 +829,98 @@ pb	430	0455	445595
 pb	431	0456	445596
 pb	432	0457	445597
 pb	433	0458	445598
-entry	Musculeux		
-entry	Muscus erectus (mat. Médic.)		
-entry	Musgrave (Guillaume)		
-entry	Musiciens (hygiène)		
-entry	Musique		
+entry	Musculeux	0	
+entry	Muscus erectus (mat. Médic.)	0	
+entry	Musgrave (Guillaume)	0	
+entry	Musiciens (hygiène)	0	
+entry	Musique	4	
 pb	434	0459	445599
 pb	435	0460	445600
 pb	436	0461	445601
 pb	437	0462	445602
-entry	Musitan (Charles)		
-entry	Musomanie		
-entry	Mussitation (pathologie générale)		
-entry	Mutacisme (pathologie)		
-entry	Mutés (vins)		
+entry	Musitan (Charles)	0	
+entry	Musomanie	0	
+entry	Mussitation (pathologie générale)	0	
+entry	Mutacisme (pathologie)	0	
+entry	Mutés (vins)	1	
 pb	438	0463	445603
-entry	Muths (donald)		
-entry	Mutilation (chirurgie, médecine légale)		
-entry	Mutis (biogr. Médic.)		
-entry	Mutisme		
+entry	Muths (donald)	0	
+entry	Mutilation (chirurgie, médecine légale)	0	
+entry	Mutis (biogr. Médic.)	0	
+entry	Mutisme	4	
 pb	439	0464	445604
 pb	440	0465	445605
 pb	441	0466	445606
 pb	442	0467	445607
-entry	Mutité		
-entry	Muys		
+entry	Mutité	0	
+entry	Muys	1	
 pb	443	0468	445608
-entry	Muyten		
-entry	Mychthisme		
-entry	Mydese		
-entry	Mydriase (patholog. Génér. Séméiotique)		
-entry	Mydros		
-entry	Mye (frédéric van der)		
-entry	Mylabres		
-entry	Mynsicht (Adrien)		
-entry	Myocéphalon (pathologie)		
-entry	Myocoilitis (nosologie)		
+entry	Muyten	0	
+entry	Mychthisme	0	
+entry	Mydese	0	
+entry	Mydriase (patholog. Génér. Séméiotique)	0	
+entry	Mydros	0	
+entry	Mye (frédéric van der)	0	
+entry	Mylabres	0	
+entry	Mynsicht (Adrien)	0	
+entry	Myocéphalon (pathologie)	0	
+entry	Myocoilitis (nosologie)	1	
 pb	444	0469	445609
-entry	Myodésopsie (pathologie)		
-entry	Myodynie (nofographie)		
-entry	Myographie, Myologie		
+entry	Myodésopsie (pathologie)	0	
+entry	Myodynie (nofographie)	0	
+entry	Myographie, Myologie	0	
 orth	Myographie		
 orth	Myologie		
-entry	Myon (saint-)		
-entry	Myope, Myopie (nofographie)		
+entry	Myon (saint-)	0	
+entry	Myope, Myopie (nofographie)	0	
 orth	Myope		
 orth	Myopie (nofographie)		
-entry	Myosie		
-entry	Myositie		
-entry	Myotilité		
-entry	Myotomie		
-entry	Myracopum		
-entry	Myrepsus (Nicolas)		
+entry	Myosie	0	
+entry	Myositie	0	
+entry	Myotilité	0	
+entry	Myotomie	0	
+entry	Myracopum	0	
+entry	Myrepsus (Nicolas)	1	
 pb	445	0470	445610
-entry	Myre		
-entry	Myrica		
-entry	Myristica		
-entry	Myristicées		
-entry	Myrmècie		
-entry	Myrobolan		
+entry	Myre	0	
+entry	Myrica	0	
+entry	Myristica	0	
+entry	Myristicées	0	
+entry	Myrmècie	0	
+entry	Myrobolan	1	
 pb	446	0471	445611
-entry	Myroxilon (mat. Médic)		
-entry	Myrrhe		
-entry	Myrte		
-entry	Myrtées ou Myrtinées (mat. Médic)		
+entry	Myroxilon (mat. Médic)	0	
+entry	Myrrhe	0	
+entry	Myrte	0	
+entry	Myrtées ou Myrtinées (mat. Médic)	1	
 orth	Myrtées		
 orth	Myrtinées (mat. Médic)		
 pb	447	0472	445612
-entry	Myrtiforme (caroncule)		
-entry	Myure (Pouls)		
-entry	Myxa		
-entry	Myxosarcome		
+entry	Myrtiforme (caroncule)	0	
+entry	Myure (Pouls)	0	
+entry	Myxa	0	
+entry	Myxosarcome	0	
 pb	448	0473	445613
-entry	Lettre N		
-entry	Naboth (Martin)		
-entry	Nacre de perle (matière médicale)		
-entry	Nacrée		
+entry	Lettre N	0	
+entry	Naboth (Martin)	0	
+entry	Nacre de perle (matière médicale)	0	
+entry	Nacrée	1	
 pb	449	0474	445614
-entry	Naeldwyck (Pierre Van)		
-entry	Naerssen		
+entry	Naeldwyck (Pierre Van)	0	
+entry	Naerssen	1	
 pb	450	0475	445615
-entry	Nevian (biographie médicale)		
-entry	Naevius (Gafpard)		
-entry	Naevus		
-entry	Nagates		
-entry	Nageur		
-entry	Nagrus (dominique)		
-entry	Nain		
+entry	Nevian (biographie médicale)	0	
+entry	Naevius (Gafpard)	0	
+entry	Naevus	0	
+entry	Nagates	0	
+entry	Nageur	0	
+entry	Nagrus (dominique)	0	
+entry	Nain	1	
 pb	451	0476	445616
-entry	Naissance (anatomie & physiologie)		
+entry	Naissance (anatomie & physiologie)	2	
 pb	452	0477	445617
 pb	453	0478	445618
-entry	Naissances précoces, Naissances tardives (médecine légale)		
+entry	Naissances précoces, Naissances tardives (médecine légale)	8	
 orth	Naissances précoces		
 orth	Naissances tardives (médecine légale)		
 pb	454	0479	445619
@@ -931,31 +931,31 @@ pb	458	0483	445623
 pb	459	0484	445624
 pb	460	0485	445625
 pb	461	0486	445626
-entry	Naldius (Matthias)		
-entry	Nanaris (matière médiclae)		
+entry	Naldius (Matthias)	0	
+entry	Nanaris (matière médiclae)	1	
 pb	462	0487	445627
-entry	Nancéates		
-entry	Nancéique (acide)		
-entry	Nancel (Nicolas de)		
-entry	Nancy (eaux minérales de)		
-entry	Nannius (biographie médicale)		
-entry	Nannoni (Angelo)		
+entry	Nancéates	0	
+entry	Nancéique (acide)	0	
+entry	Nancel (Nicolas de)	0	
+entry	Nancy (eaux minérales de)	0	
+entry	Nannius (biographie médicale)	0	
+entry	Nannoni (Angelo)	1	
 pb	463	0488	445628
-entry	Nant (eau ninérale de)		
-entry	Napel		
+entry	Nant (eau ninérale de)	0	
+entry	Napel	1	
 pb	464	0489	445629
-entry	Napha (matière médicale)		
-entry	Naphte		
-entry	Napier (Richard)		
-entry	Naples (eaux minérales de)		
+entry	Napha (matière médicale)	0	
+entry	Naphte	0	
+entry	Napier (Richard)	0	
+entry	Naples (eaux minérales de)	1	
 pb	465	0490	445630
-entry	Narcissées (matière médicale)		
-entry	Narcissus (François-Nicolas)		
-entry	Narcose (nofologie)		
-entry	Narcotico-Acres (poisons)		
+entry	Narcissées (matière médicale)	0	
+entry	Narcissus (François-Nicolas)	0	
+entry	Narcose (nofologie)	0	
+entry	Narcotico-Acres (poisons)	1	
 pb	466	0491	445631
-entry	Narcotine (matière médicale)		
-entry	Narcotiques (médecine légale)		
+entry	Narcotine (matière médicale)	0	
+entry	Narcotiques (médecine légale)	11	
 pb	467	0492	445632
 pb	468	0493	445633
 pb	469	0494	445634
@@ -967,15 +967,15 @@ pb	474	0499	445639
 pb	475	0500	445640
 pb	476	0501	445641
 pb	477	0502	445642
-entry	Narcotisme		
+entry	Narcotisme	1	
 pb	478	0503	445643
-entry	Nard (matière médicale)		
-entry	Nardius (Jean)		
-entry	Narez (Urfmer)		
+entry	Nard (matière médicale)	0	
+entry	Nardius (Jean)	0	
+entry	Narez (Urfmer)	1	
 pb	479	0504	445644
-entry	Narines		
-entry	Narvatius (Math)		
-entry	Nasal		
+entry	Narines	0	
+entry	Narvatius (Math)	0	
+entry	Nasal	11	
 pb	480	0505	445645
 pb	481	0506	445646
 pb	482	0507	445647
@@ -987,16 +987,16 @@ pb	487	0512	445652
 pb	488	0513	445653
 pb	489	0514	445654
 pb	490	0515	445655
-entry	Nascus (biographie médicale)		
-entry	Naséale (pathologie)		
-entry	Nasillard		
-entry	Nasitort (matière médicale)		
-entry	Naso-Oculaire		
-entry	Nassavius (Louis)		
-entry	Nata		
+entry	Nascus (biographie médicale)	0	
+entry	Naséale (pathologie)	0	
+entry	Nasillard	0	
+entry	Nasitort (matière médicale)	0	
+entry	Naso-Oculaire	0	
+entry	Nassavius (Louis)	0	
+entry	Nata	1	
 pb	491	0516	445656
-entry	Natalis (Jean)		
-entry	Natation (hygiène)		
+entry	Natalis (Jean)	0	
+entry	Natation (hygiène)	7	
 pb	492	0517	445657
 pb	493	0518	445658
 pb	494	0519	445659
@@ -1004,10 +1004,10 @@ pb	495	0520	445660
 pb	496	0521	445661
 pb	497	0522	445662
 pb	498	0523	445663
-entry	Nates (anatomie)		
-entry	Natrum (matière médicale)		
-entry	Naturalisme (médecine légale)		
-entry	Nature		
+entry	Nates (anatomie)	0	
+entry	Natrum (matière médicale)	0	
+entry	Naturalisme (médecine légale)	0	
+entry	Nature	10	
 pb	499	0524	445664
 pb	500	0525	445665
 pb	501	0526	445666
@@ -1018,8 +1018,8 @@ pb	505	0530	445670
 pb	506	0531	445671
 pb	507	0532	445672
 pb	508	0533	445673
-entry	Naturel		
-entry	Naturelles (familles)		
+entry	Naturel	0	
+entry	Naturelles (familles)	9	
 pb	509	0534	445674
 pb	510	0535	445675
 pb	511	0536	445676
@@ -1029,15 +1029,15 @@ pb	514	0539	445679
 pb	515	0540	445680
 pb	516	0541	445681
 pb	517	0542	445682
-entry	Naturisme		
-entry	Naturistes (médecine)		
-entry	Natus (Pierre)		
-entry	Nauche		
-entry	Naudé (Gabriel)		
+entry	Naturisme	0	
+entry	Naturistes (médecine)	0	
+entry	Natus (Pierre)	0	
+entry	Nauche	0	
+entry	Naudé (Gabriel)	1	
 pb	518	0543	445683
-entry	Nauséabond (pathologie)		
-entry	Nausée		
-entry	Navale (hygiène)		
+entry	Nauséabond (pathologie)	0	
+entry	Nausée	0	
+entry	Navale (hygiène)	14	
 pb	519	0544	445684
 pb	520	0545	445685
 pb	521	0546	445686
@@ -1052,18 +1052,18 @@ pb	529	0554	445694
 pb	530	0555	445695
 pb	531	0556	445696
 pb	532	0557	445697
-entry	Navale (médecine)		
-entry	Navet (matière médicale)		
-entry	Naviculaire		
-entry	Navier (Pierre-Touffaint)		
+entry	Navale (médecine)	0	
+entry	Navet (matière médicale)	0	
+entry	Naviculaire	0	
+entry	Navier (Pierre-Touffaint)	1	
 pb	533	0558	445698
-entry	Navigateurs		
-entry	Navigation (pathologie générale)		
+entry	Navigateurs	0	
+entry	Navigation (pathologie générale)	2	
 pb	534	0559	445699
 pb	535	0560	445700
-entry	Navrure (médecine légale)		
-entry	Nayadées (matière médicale)		
-entry	Né (nouveau-)		
+entry	Navrure (médecine légale)	0	
+entry	Nayadées (matière médicale)	0	
+entry	Né (nouveau-)	13	
 pb	536	0561	445701
 pb	537	0562	445702
 pb	538	0563	445703
@@ -1077,72 +1077,72 @@ pb	545	0570	445710
 pb	546	0571	445711
 pb	547	0572	445712
 pb	548	0573	445713
-entry	Neander (Michel)		
+entry	Neander (Michel)	1	
 pb	549	0574	445714
-entry	Nebel (Daniel)		
-entry	Necker (Noël joseph de)		
+entry	Nebel (Daniel)	0	
+entry	Necker (Noël joseph de)	1	
 pb	550	0575	445715
-entry	Nécrologie (hygiène publique)		
-entry	Nécromancie (médecine morale)		
-entry	Nécrophobe (médecine morale)		
-entry	Nécrose		
+entry	Nécrologie (hygiène publique)	0	
+entry	Nécromancie (médecine morale)	0	
+entry	Nécrophobe (médecine morale)	0	
+entry	Nécrose	2	
 pb	551	0576	445716
 pb	552	0577	445717
-entry	Nectaire (Saint-)		
+entry	Nectaire (Saint-)	1	
 pb	553	0578	445718
-entry	Needham (Gafpar)		
+entry	Needham (Gafpar)	1	
 pb	554	0579	445719
-entry	Nèfle		
-entry	Néflier (hygiène, matière médicale)		
-entry	Négates		
-entry	Nègre (anthropologie)		
+entry	Nèfle	0	
+entry	Néflier (hygiène, matière médicale)	0	
+entry	Négates	0	
+entry	Nègre (anthropologie)	1	
 pb	555	0580	445720
-entry	Negrendis		
-entry	Negundo (matière médicale)		
-entry	Nehemia (Abraham)		
-entry	Neige (hygiène)		
-entry	Neirac (eaux minérales de)		
+entry	Negrendis	0	
+entry	Negundo (matière médicale)	0	
+entry	Nehemia (Abraham)	0	
+entry	Neige (hygiène)	0	
+entry	Neirac (eaux minérales de)	1	
 pb	556	0581	445721
-entry	Nelumbo		
-entry	Nenndorf (eau minérale de)		
-entry	Nenter (Georges-Philippe)		
-entry	Nenuphar (matière médicale)		
-entry	Neogala		
-entry	Nèpenthes (histoire de la médecine)		
+entry	Nelumbo	0	
+entry	Nenndorf (eau minérale de)	0	
+entry	Nenter (Georges-Philippe)	0	
+entry	Nenuphar (matière médicale)	0	
+entry	Neogala	0	
+entry	Nèpenthes (histoire de la médecine)	1	
 pb	557	0582	445722
-entry	Néphelion		
-entry	Néphéloïde (pathologie)		
-entry	Néphralgie (pathologie)		
-entry	Nephre (pathologie)		
-entry	Néphrelmintique (pathologie)		
-entry	Néphremphraxis (nofologie)		
-entry	Néphrétique		
-entry	Néphridion (nofologie)		
-entry	Néphrite (pathologie)		
+entry	Néphelion	0	
+entry	Néphéloïde (pathologie)	0	
+entry	Néphralgie (pathologie)	0	
+entry	Nephre (pathologie)	0	
+entry	Néphrelmintique (pathologie)	0	
+entry	Néphremphraxis (nofologie)	0	
+entry	Néphrétique	0	
+entry	Néphridion (nofologie)	0	
+entry	Néphrite (pathologie)	5	
 pb	558	0583	445723
 pb	559	0584	445724
 pb	560	0585	445725
 pb	561	0586	445726
 pb	562	0587	445727
-entry	Néphrographie (pathologie)		
+entry	Néphrographie (pathologie)	1	
 pb	563	0588	445728
-entry	Néphrolithe (pathologie)		
-entry	Néphrologie (nofologie)		
-entry	Néphro-Phlegmatique (nofologie)		
-entry	Néphroplégique, Néphro-Pléthorique (nofologie)		
+entry	Néphrolithe (pathologie)	0	
+entry	Néphrologie (nofologie)	0	
+entry	Néphro-Phlegmatique (nofologie)	0	
+entry	Néphroplégique, Néphro-Pléthorique (nofologie)	0	
 orth	Néphroplégique		
 orth	Néphro-Pléthorique (nofologie)		
-entry	Néphropyique (nofologie)		
-entry	Néphrospastique (nofographie)		
-entry	Néphrotomie (nofographie)		
+entry	Néphropyique (nofologie)	0	
+entry	Néphrospastique (nofographie)	0	
+entry	Néphrotomie (nofographie)	5	
 pb	564	0589	445729
 pb	565	0590	445730
 pb	566	0591	445731
 pb	567	0592	445732
 pb	568	0593	445733
-entry	Nephrotromboïde (nofographie)		
-entry	Népitymies (nofologie)		
-entry	Nerf		
+entry	Nephrotromboïde (nofographie)	0	
+entry	Népitymies (nofologie)	0	
+entry	Nerf	11	
 pb	569	0594	445734
 pb	570	0595	445735
 pb	571	0596	445736
@@ -1154,28 +1154,28 @@ pb	576	0601	445741
 pb	577	0602	445742
 pb	578	0603	445743
 pb	579	0604	445744
-entry	Nèrion		
+entry	Nèrion	1	
 pb	580	0605	445745
-entry	Néris		
+entry	Néris	1	
 pb	581	0606	445746
-entry	Néroli (matière médicale)		
-entry	Nerprun (matière médicale)		
-entry	Nerveuses (affections, maladies)		
+entry	Néroli (matière médicale)	0	
+entry	Nerprun (matière médicale)	0	
+entry	Nerveuses (affections, maladies)	1	
 pb	582	0607	445747
-entry	Nerveux (système, appareil)		
+entry	Nerveux (système, appareil)	1	
 pb	583	0608	445748
-entry	Nervin		
-entry	Nessel (Edmond)		
+entry	Nervin	0	
+entry	Nessel (Edmond)	1	
 pb	584	0609	445749
-entry	Neucrantz (Jean)		
-entry	Neucrantz (Paul)		
-entry	Neufville (Gérard de)		
-entry	Neumann (Gafpar)		
+entry	Neucrantz (Jean)	0	
+entry	Neucrantz (Paul)	0	
+entry	Neufville (Gérard de)	0	
+entry	Neumann (Gafpar)	1	
 pb	585	0610	445750
-entry	Neumarkt (eau minérale de)		
-entry	Neutre		
-entry	Névianus (Marc)		
-entry	Névralgie (pathologie)		
+entry	Neumarkt (eau minérale de)	0	
+entry	Neutre	0	
+entry	Névianus (Marc)	0	
+entry	Névralgie (pathologie)	11	
 pb	586	0611	445751
 pb	587	0612	445752
 pb	588	0613	445753
@@ -1187,15 +1187,15 @@ pb	593	0618	445758
 pb	594	0619	445759
 pb	595	0620	445760
 pb	596	0621	445761
-entry	Névrilème ou Neurilème		
+entry	Névrilème ou Neurilème	1	
 orth	Névrilème		
 orth	Neurilème		
 pb	597	0622	445762
-entry	Névrite (pathologie)		
+entry	Névrite (pathologie)	1	
 pb	598	0623	445763
-entry	Névographie		
-entry	Névrologie		
-entry	Névroses		
+entry	Névographie	0	
+entry	Névrologie	0	
+entry	Névroses	17	
 pb	599	0624	445764
 pb	600	0625	445765
 pb	601	0626	445766
@@ -1213,90 +1213,90 @@ pb	612	0637	445777
 pb	613	0638	445778
 pb	614	0639	445779
 pb	615	0640	445780
-entry	Névrotique		
-entry	Névrotome (chirurgie)		
-entry	Névrotomie (chirurgie)		
-entry	Nez (anatomie)		
+entry	Névrotique	0	
+entry	Névrotome (chirurgie)	0	
+entry	Névrotomie (chirurgie)	0	
+entry	Nez (anatomie)	1	
 pb	616	0641	445781
-entry	Nicandre (nicander)		
-entry	Nicrératus		
-entry	Nichols (François)		
-entry	Nickel (matière médicale)		
-entry	Nicolaï (Chriftophe)		
+entry	Nicandre (nicander)	0	
+entry	Nicrératus	0	
+entry	Nichols (François)	0	
+entry	Nickel (matière médicale)	0	
+entry	Nicolaï (Chriftophe)	0	
 pb	617	0642	445782
-entry	Nicole (Nicolas)		
-entry	Niconitius (François)		
-entry	Nicot (Jean)		
-entry	Nicotiane (mat. Médic.)		
-entry	Nictation		
-entry	Nid d'hirondelle (matière médicale)		
-entry	Niederbronn (eaux minérales de)		
+entry	Nicole (Nicolas)	0	
+entry	Niconitius (François)	0	
+entry	Nicot (Jean)	0	
+entry	Nicotiane (mat. Médic.)	0	
+entry	Nictation	0	
+entry	Nid d'hirondelle (matière médicale)	0	
+entry	Niederbronn (eaux minérales de)	1	
 pb	618	0643	445783
-entry	Nidoreux (pathologie)		
-entry	Nielle (matière médicale)		
-entry	Nieuwentyt (Bernard de)		
-entry	Nigelle (mat. Méd.)		
-entry	Niger (Antoine)		
-entry	Nigrini (biographie)		
-entry	Nigrisoli (Jérôme)		
+entry	Nidoreux (pathologie)	0	
+entry	Nielle (matière médicale)	0	
+entry	Nieuwentyt (Bernard de)	0	
+entry	Nigelle (mat. Méd.)	0	
+entry	Niger (Antoine)	0	
+entry	Nigrini (biographie)	0	
+entry	Nigrisoli (Jérôme)	2	
 pb	619	0644	445784
 pb	620	0645	445785
-entry	Nihell (Jacques)		
-entry	Nihil-Album (mat. Méd.)		
-entry	Ninnin (Henri)		
-entry	Ninsi (mat. Méd)		
-entry	Ninzin (mat. Méd.)		
-entry	Niphus (Auguftin)		
+entry	Nihell (Jacques)	0	
+entry	Nihil-Album (mat. Méd.)	0	
+entry	Ninnin (Henri)	0	
+entry	Ninsi (mat. Méd)	0	
+entry	Ninzin (mat. Méd.)	0	
+entry	Niphus (Auguftin)	1	
 pb	621	0646	445786
-entry	Nissole (guillaume)		
+entry	Nissole (guillaume)	1	
 pb	622	0647	445787
-entry	Nitrate d'argent (mat. Méd.)		
-entry	Nitrates (matière médicale)		
-entry	Nitre		
+entry	Nitrate d'argent (mat. Méd.)	0	
+entry	Nitrates (matière médicale)	0	
+entry	Nitre	1	
 pb	623	0648	445788
-entry	Nitreux (acide)		
-entry	Nitrique (acide)		
+entry	Nitreux (acide)	0	
+entry	Nitrique (acide)	2	
 pb	624	0649	445789
 pb	625	0650	445790
-entry	Nitrique (acide nitrique alcoolifé)		
+entry	Nitrique (acide nitrique alcoolifé)	1	
 pb	626	0651	445791
-entry	Nitrites (mat. Méd.)		
-entry	Nitrogéne (mat. Méd.)		
-entry	Nitro-Muriatique (mat. Médic.)		
-entry	Nivéole (mat. Méd.)		
-entry	Nobleville (Arnault de)		
-entry	Nocera (Jofeph)		
+entry	Nitrites (mat. Méd.)	0	
+entry	Nitrogéne (mat. Méd.)	0	
+entry	Nitro-Muriatique (mat. Médic.)	0	
+entry	Nivéole (mat. Méd.)	0	
+entry	Nobleville (Arnault de)	0	
+entry	Nocera (Jofeph)	1	
 pb	627	0652	445792
-entry	Noctambule		
-entry	Nodosité		
-entry	Nodus (chirurgie)		
-entry	Noèdes		
-entry	Noessler (Georges)		
-entry	Noguez (Pierre)		
+entry	Noctambule	0	
+entry	Nodosité	0	
+entry	Nodus (chirurgie)	0	
+entry	Noèdes	0	
+entry	Noessler (Georges)	0	
+entry	Noguez (Pierre)	1	
 pb	628	0653	445793
-entry	Nointot (eaux minérales de)		
-entry	Noir de fumée		
-entry	Noire (maladie)		
+entry	Nointot (eaux minérales de)	0	
+entry	Noir de fumée	0	
+entry	Noire (maladie)	1	
 pb	629	0654	445794
-entry	Noisetier		
-entry	Noix (mat méd)		
+entry	Noisetier	0	
+entry	Noix (mat méd)	3	
 pb	630	0655	445795
 pb	631	0656	445796
 pb	632	0657	445797
-entry	Noli me tangere (chirurgie)		
-entry	Nomade (histoire de la médecine)		
-entry	Nombril		
-entry	Nombril de vénus (mat. Méd.)		
-entry	Nomenclature (philofogie médicale)		
+entry	Noli me tangere (chirurgie)	0	
+entry	Nomade (histoire de la médecine)	0	
+entry	Nombril	0	
+entry	Nombril de vénus (mat. Méd.)	0	
+entry	Nomenclature (philofogie médicale)	4	
 pb	633	0658	445798
 pb	634	0659	445799
 pb	635	0660	445800
 pb	636	0661	445801
-entry	Nonnius (biographie médicale)		
-entry	Nonoy (eaux minérales de)		
-entry	Nopal (mat. Méd.)		
-entry	Normal		
-entry	Nosogénie (patholog. Géné.)		
+entry	Nonnius (biographie médicale)	0	
+entry	Nonoy (eaux minérales de)	0	
+entry	Nopal (mat. Méd.)	0	
+entry	Normal	0	
+entry	Nosogénie (patholog. Géné.)	7	
 pb	637	0662	445802
 pb	638	0663	445803
 pb	639	0664	445804
@@ -1304,7 +1304,7 @@ pb	640	0665	445805
 pb	641	0666	445806
 pb	642	0667	445807
 pb	643	0668	445808
-entry	Nosographie		
+entry	Nosographie	18	
 pb	644	0669	445809
 pb	645	0670	445810
 pb	646	0671	445811
@@ -1323,27 +1323,27 @@ pb	658	0683	445823
 pb	659	0684	445824
 pb	660	0685	445825
 pb	661	0686	445826
-entry	Nosologie		
-entry	Nossa (eaux minérales de)		
-entry	Nostalgie (nofographie)		
+entry	Nosologie	0	
+entry	Nossa (eaux minérales de)	0	
+entry	Nostalgie (nofographie)	4	
 pb	662	0687	445827
 pb	663	0688	445828
 pb	664	0689	445829
 pb	665	0690	445830
-entry	Nostialgie		
-entry	Nostoch		
-entry	Nostomanie		
-entry	Nostradamus ou Nostre-Dame (Michel)		
+entry	Nostialgie	0	
+entry	Nostoch	0	
+entry	Nostomanie	0	
+entry	Nostradamus ou Nostre-Dame (Michel)	1	
 orth	Nostradamus		
 orth	Nostre-Dame (Michel)		
 pb	666	0691	445831
-entry	Notre-Dame de consolation (eau minérale de)		
-entry	Noué		
-entry	Nouet		
-entry	Noueure		
-entry	Nouffer (remède de madame)		
+entry	Notre-Dame de consolation (eau minérale de)	0	
+entry	Noué	0	
+entry	Nouet	0	
+entry	Noueure	0	
+entry	Nouffer (remède de madame)	0	
 pb	667	0692	445832
-entry	Nourrice		
+entry	Nourrice	7	
 pb	668	0693	445833
 pb	669	0694	445834
 pb	670	0695	445835
@@ -1351,8 +1351,8 @@ pb	671	0696	445836
 pb	672	0697	445837
 pb	673	0698	445838
 pb	674	0699	445839
-entry	Nourricier		
-entry	Nourriture (phyfiologie & hygiène)		
+entry	Nourricier	0	
+entry	Nourriture (phyfiologie & hygiène)	87	
 pb	675	0700	445840
 pb	676	0701	445841
 pb	677	0702	445842
@@ -1440,6 +1440,6 @@ pb	758	0783	445923
 pb	759	0784	445924
 pb	760	0785	445925
 pb	761	0786	445926
-entry	Nouzet (eaux minérales)		
+entry	Nouzet (eaux minérales)	0	
 pb	[s. pag.]	0787	445927
-entry	Errata		
+entry	Errata	0	

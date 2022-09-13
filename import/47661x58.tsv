@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	5556588
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556589
 pb	[s. pag.]	0003	436032
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556590
 pb	1	0005	436033
-entry	vieillard		
-entry	vieillesse		
+entry	vieillard	0	
+entry	vieillesse	40	
 pb	2	0006	436034
 pb	3	0007	436035
 pb	4	0008	436036
@@ -47,14 +47,14 @@ pb	38	0042	436070
 pb	39	0043	436071
 pb	40	0044	436072
 pb	41	0045	436073
-entry	vierge		
+entry	vierge	1	
 pb	42	0046	436074
-entry	vif - argent		
-entry	vigne		
+entry	vif - argent	0	
+entry	vigne	3	
 pb	43	0047	436075
 pb	44	0048	436076
 pb	45	0049	436077
-entry	vigueur		
+entry	vigueur	23	
 pb	46	0050	436078
 pb	47	0051	436079
 pb	48	0052	436080
@@ -78,14 +78,14 @@ pb	65	0069	436097
 pb	66	0070	436098
 pb	67	0071	436099
 pb	68	0072	436100
-entry	villarsie		
-entry	villefranche (eaux minérales de)		
+entry	villarsie	0	
+entry	villefranche (eaux minérales de)	1	
 pb	69	0073	436101
-entry	villeguihen (eau minérale de)		
-entry	villeneuve de maguelonne (eau minérale de)		
-entry	villequier (eau minérale de)		
-entry	villeux		
-entry	vin		
+entry	villeguihen (eau minérale de)	0	
+entry	villeneuve de maguelonne (eau minérale de)	0	
+entry	villequier (eau minérale de)	0	
+entry	villeux	0	
+entry	vin	52	
 pb	70	0074	436102
 pb	71	0075	436103
 pb	72	0076	436104
@@ -138,7 +138,7 @@ pb	118	0122	436150
 pb	119	0123	436151
 pb	120	0124	436152
 pb	121	0125	436153
-entry	vinaigre		
+entry	vinaigre	24	
 pb	122	0126	436154
 pb	123	0127	436155
 pb	124	0128	436156
@@ -163,12 +163,12 @@ pb	142	0146	436174
 pb	143	0147	436175
 pb	144	0148	436176
 pb	145	0149	436177
-entry	vinagrillo		
+entry	vinagrillo	1	
 pb	146	0150	436178
-entry	vinca (eau minérale de)		
-entry	vinettier		
-entry	vinter (écorce de)		
-entry	viol (médecine légale)		
+entry	vinca (eau minérale de)	0	
+entry	vinettier	0	
+entry	vinter (écorce de)	0	
+entry	viol (médecine légale)	10	
 pb	147	0151	436179
 pb	148	0152	436180
 pb	149	0153	436181
@@ -179,16 +179,16 @@ pb	153	0157	436185
 pb	154	0158	436186
 pb	155	0159	436187
 pb	156	0160	436188
-entry	violées		
-entry	violette		
+entry	violées	0	
+entry	violette	3	
 pb	157	0161	436189
 pb	158	0162	436190
 pb	159	0163	436191
-entry	violier		
+entry	violier	1	
 pb	160	0164	436192
-entry	viorne		
+entry	viorne	1	
 pb	161	0165	436193
-entry	vipère		
+entry	vipère	7	
 pb	162	0166	436194
 pb	163	0167	436195
 pb	164	0168	436196
@@ -196,14 +196,14 @@ pb	165	0169	436197
 pb	166	0170	436198
 pb	167	0171	436199
 pb	168	0172	436200
-entry	viperine		
+entry	viperine	1	
 pb	169	0173	436201
-entry	vire (eau minérale de)		
-entry	vireux		
+entry	vire (eau minérale de)	0	
+entry	vireux	1	
 pb	170	0174	436202
-entry	viril		
+entry	viril	1	
 pb	171	0175	436203
-entry	virilité		
+entry	virilité	9	
 pb	172	0176	436204
 pb	173	0177	436205
 pb	174	0178	436206
@@ -213,15 +213,15 @@ pb	177	0181	436209
 pb	178	0182	436210
 pb	179	0183	436211
 pb	180	0184	436212
-entry	virulent		
-entry	virus		
+entry	virulent	0	
+entry	virus	6	
 pb	181	0185	436213
 pb	182	0186	436214
 pb	183	0187	436215
 pb	184	0188	436216
 pb	185	0189	436217
 pb	186	0190	436218
-entry	visage		
+entry	visage	67	
 pb	187	0191	436219
 pb	188	0192	436220
 pb	189	0193	436221
@@ -289,11 +289,11 @@ pb	250	0254	436282
 pb	251	0255	436283
 pb	252	0256	436284
 pb	253	0257	436285
-entry	viscères		
+entry	viscères	2	
 pb	254	0258	436286
 pb	255	0259	436287
-entry	viscosité		
-entry	vision		
+entry	viscosité	0	
+entry	vision	23	
 pb	256	0260	436288
 pb	257	0261	436289
 pb	258	0262	436290
@@ -317,36 +317,36 @@ pb	275	0279	436307
 pb	276	0280	436308
 pb	277	0281	436309
 pb	278	0282	436310
-entry	visite		
+entry	visite	2	
 pb	279	0283	436311
 pb	280	0284	436312
-entry	visos (eaux minérales de)		
-entry	visuel		
-entry	vital		
-entry	vitalité		
-entry	vitalistes		
+entry	visos (eaux minérales de)	0	
+entry	visuel	0	
+entry	vital	0	
+entry	vitalité	0	
+entry	vitalistes	1	
 pb	281	0285	436313
-entry	vitilige		
-entry	vitré (eau minérale de)		
-entry	vitré		
-entry	vitriol		
+entry	vitilige	0	
+entry	vitré (eau minérale de)	0	
+entry	vitré	0	
+entry	vitriol	2	
 pb	282	0286	436314
 pb	283	0287	436315
-entry	vitriolique		
-entry	vitry - le - français (eau minérale de)		
-entry	vivace		
+entry	vitriolique	0	
+entry	vitry - le - français (eau minérale de)	0	
+entry	vivace	0	
 pb	284	0288	436316
-entry	vivacité		
-entry	vocabulaire		
-entry	vocal		
+entry	vivacité	0	
+entry	vocabulaire	0	
+entry	vocal	1	
 pb	285	0289	436317
-entry	voie		
-entry	voile du palais		
+entry	voie	0	
+entry	voile du palais	2	
 pb	286	0290	436318
 pb	287	0291	436319
-entry	voiture		
+entry	voiture	1	
 pb	288	0292	436320
-entry	voix		
+entry	voix	20	
 pb	289	0293	436321
 pb	290	0294	436322
 pb	291	0295	436323
@@ -367,23 +367,23 @@ pb	305	0309	436337
 pb	306	0310	436338
 pb	307	0311	436339
 pb	308	0312	436340
-entry	volante (petite vérole)		
-entry	volatil		
+entry	volante (petite vérole)	0	
+entry	volatil	1	
 pb	309	0313	436341
-entry	volatilisation		
-entry	volition		
-entry	volontaire		
+entry	volatilisation	0	
+entry	volition	0	
+entry	volontaire	1	
 pb	310	0314	436342
-entry	volonté		
-entry	voltaique (électricité)		
+entry	volonté	0	
+entry	voltaique (électricité)	4	
 pb	311	0315	436343
 pb	312	0316	436344
 pb	313	0317	436345
 pb	314	0318	436346
-entry	volvulus		
+entry	volvulus	1	
 pb	315	0319	436347
-entry	vomer		
-entry	vomique		
+entry	vomer	0	
+entry	vomique	7	
 pb	316	0320	436348
 pb	317	0321	436349
 pb	318	0322	436350
@@ -391,7 +391,7 @@ pb	319	0323	436351
 pb	320	0324	436352
 pb	321	0325	436353
 pb	322	0326	436354
-entry	vomissement		
+entry	vomissement	57	
 pb	323	0327	436355
 pb	324	0328	436356
 pb	325	0329	436357
@@ -449,16 +449,16 @@ pb	376	0380	436408
 pb	377	0381	436409
 pb	378	0382	436410
 pb	379	0383	436411
-entry	vomitif		
+entry	vomitif	2	
 pb	380	0384	436412
 pb	381	0385	436413
-entry	vomiturition		
+entry	vomiturition	1	
 pb	382	0386	436414
-entry	vorace		
-entry	voracité		
-entry	voûte		
+entry	vorace	0	
+entry	voracité	0	
+entry	voûte	1	
 pb	383	0387	436415
-entry	voyages		
+entry	voyages	16	
 pb	384	0388	436416
 pb	385	0389	436417
 pb	386	0390	436418
@@ -475,21 +475,21 @@ pb	396	0400	436428
 pb	397	0401	436429
 pb	398	0402	436430
 pb	399	0403	436431
-entry	voyans		
-entry	vrai		
-entry	vrigny (eaux minérales de)		
-entry	vue		
+entry	voyans	0	
+entry	vrai	0	
+entry	vrigny (eaux minérales de)	0	
+entry	vue	1	
 pb	400	0404	436432
-entry	vulgaire		
+entry	vulgaire	1	
 pb	401	0405	436433
-entry	vulnéraire (matière médicale)		
+entry	vulnéraire (matière médicale)	3	
 pb	402	0406	436434
 pb	403	0407	436435
 pb	404	0408	436436
-entry	vultueux		
-entry	vulvaire		
+entry	vultueux	0	
+entry	vulvaire	1	
 pb	405	0409	436437
-entry	vulve		
+entry	vulve	15	
 pb	406	0410	436438
 pb	407	0411	436439
 pb	408	0412	436440
@@ -505,78 +505,78 @@ pb	417	0421	436449
 pb	418	0422	436450
 pb	419	0423	436451
 pb	420	0424	436452
-entry	vulvo - utérin		
+entry	vulvo - utérin	0	
 pb	421	0425	436453
-entry	warthon		
-entry	wasserburg (eau minérale de)		
-entry	wattweiler (eau minérale de)		
-entry	weilbach (eau minérale de)		
-entry	wemding (eau minérale de)		
-entry	wety - ver		
+entry	warthon	0	
+entry	wasserburg (eau minérale de)	0	
+entry	wattweiler (eau minérale de)	0	
+entry	weilbach (eau minérale de)	0	
+entry	wemding (eau minérale de)	0	
+entry	wety - ver	1	
 pb	422	0426	436454
-entry	wière - au - bois (eau minérale de)		
-entry	wiessau (eau minérale de)		
-entry	wildung		
-entry	wildungen (eau minérale de)		
+entry	wière - au - bois (eau minérale de)	0	
+entry	wiessau (eau minérale de)	0	
+entry	wildung	0	
+entry	wildungen (eau minérale de)	1	
 pb	423	0427	436455
-entry	winterane		
+entry	winterane	1	
 pb	424	0428	436456
-entry	wisbad (eau minérale de)		
-entry	wisbaden (eau minérale de)		
-entry	wolfram		
-entry	woorara		
+entry	wisbad (eau minérale de)	0	
+entry	wisbaden (eau minérale de)	0	
+entry	wolfram	0	
+entry	woorara	1	
 pb	425	0429	436457
-entry	wormiens		
+entry	wormiens	1	
 pb	426	0430	436458
-entry	xérasie		
-entry	xérophagie		
+entry	xérasie	0	
+entry	xérophagie	1	
 pb	427	0431	436459
-entry	xérophthalmie		
-entry	xérotribie		
-entry	xylobalsamum		
+entry	xérophthalmie	0	
+entry	xérotribie	0	
+entry	xylobalsamum	1	
 pb	428	0432	436460
-entry	xyphoide		
-entry	xystre		
+entry	xyphoide	0	
+entry	xystre	0	
 pb	429	0433	436461
-entry	yaw		
+entry	yaw	5	
 pb	430	0434	436462
 pb	431	0435	436463
 pb	432	0436	436464
 pb	433	0437	436465
 pb	434	0438	436466
-entry	yèble		
+entry	yèble	0	
 pb	435	0439	436467
-entry	yerva		
-entry	yeuse		
-entry	yeuset (eau minérale de)		
-entry	yeux		
+entry	yerva	0	
+entry	yeuse	0	
+entry	yeuset (eau minérale de)	0	
+entry	yeux	1	
 pb	436	0440	436468
-entry	yttria		
+entry	yttria	1	
 pb	437	0441	436469
-entry	yttrium		
-entry	yulan		
-entry	yvraie		
-entry	zanthoxylon		
+entry	yttrium	0	
+entry	yulan	0	
+entry	yvraie	0	
+entry	zanthoxylon	1	
 pb	438	0442	436470
-entry	zedoaire		
+entry	zedoaire	2	
 pb	439	0443	436471
 pb	440	0444	436472
-entry	zerumbet		
+entry	zerumbet	2	
 pb	441	0445	436473
 pb	442	0446	436474
-entry	zestes		
-entry	zinc		
+entry	zestes	0	
+entry	zinc	5	
 pb	443	0447	436475
 pb	444	0448	436476
 pb	445	0449	436477
 pb	446	0450	436478
 pb	447	0451	436479
-entry	zircone		
+entry	zircone	2	
 pb	448	0452	436480
 pb	449	0453	436481
-entry	zirconium		
-entry	zoantropie		
-entry	zona		
+entry	zirconium	0	
+entry	zoantropie	0	
+entry	zona	8	
 pb	450	0454	436482
 pb	451	0455	436483
 pb	452	0456	436484
@@ -585,30 +585,30 @@ pb	454	0458	436486
 pb	455	0459	436487
 pb	456	0460	436488
 pb	457	0461	436489
-entry	zones		
+entry	zones	6	
 pb	458	0462	436490
 pb	459	0463	436491
 pb	460	0464	436492
 pb	461	0465	436493
 pb	462	0466	436494
 pb	463	0467	436495
-entry	zoo - coccine		
-entry	zoogène		
-entry	zoo - hematine		
-entry	zoonique (acide)		
-entry	zoonomie		
+entry	zoo - coccine	0	
+entry	zoogène	0	
+entry	zoo - hematine	0	
+entry	zoonique (acide)	0	
+entry	zoonomie	1	
 pb	464	0468	436496
-entry	zoophyte		
-entry	zootomie		
-entry	zopissa		
-entry	zostère		
+entry	zoophyte	0	
+entry	zootomie	0	
+entry	zopissa	0	
+entry	zostère	1	
 pb	465	0469	436497
-entry	zumique		
+entry	zumique	1	
 pb	466	0470	436498
-entry	zygoma		
-entry	zygomatique		
+entry	zygoma	0	
+entry	zygomatique	1	
 pb	467	0471	436499
-entry	zygomato - auriculaire		
+entry	zygomato - auriculaire	1	
 pb	468	0472	436500
-entry	zymome		
-entry	zythogala		
+entry	zymome	0	
+entry	zythogala	0	

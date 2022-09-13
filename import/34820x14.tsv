@@ -1,25 +1,25 @@
 pb	[s. pag.]	0001	467469
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	467470
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	467471
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	467472
-entry	Gargarisme		
+entry	Gargarisme	3	
 pb	2	0005	467473
 pb	3	0006	467474
 pb	4	0007	467475
-entry	Garou		
+entry	Garou	2	
 pb	5	0008	467476
 pb	6	0009	467477
-entry	Gastralgie		
+entry	Gastralgie	6	
 pb	7	0010	467478
 pb	8	0011	467479
 pb	9	0012	467480
 pb	10	0013	467481
 pb	11	0014	467482
 pb	12	0015	467483
-entry	Gastrique		
+entry	Gastrique	8	
 pb	13	0016	467484
 pb	14	0017	467485
 pb	15	0018	467486
@@ -28,8 +28,8 @@ pb	17	0020	467488
 pb	18	0021	467489
 pb	19	0022	467490
 pb	20	0023	467491
-entry	Gastrite		
-entry	Gastro-enterite		
+entry	Gastrite	0	
+entry	Gastro-enterite	10	
 pb	21	0024	467492
 pb	22	0025	467493
 pb	23	0026	467494
@@ -40,14 +40,14 @@ pb	27	0030	467498
 pb	28	0031	467499
 pb	29	0032	467500
 pb	30	0033	467501
-entry	Gayac		
+entry	Gayac	6	
 pb	31	0034	467502
 pb	32	0035	467503
 pb	33	0036	467504
 pb	34	0037	467505
 pb	35	0038	467506
 pb	36	0039	467507
-entry	Gélatine		
+entry	Gélatine	15	
 pb	37	0040	467508
 pb	38	0041	467509
 pb	39	0042	467510
@@ -63,15 +63,15 @@ pb	48	0051	467519
 pb	49	0052	467520
 pb	50	0053	467521
 pb	51	0054	467522
-entry	Gelee		
+entry	Gelee	1	
 pb	52	0055	467523
-entry	Gencives		
+entry	Gencives	5	
 pb	53	0056	467524
 pb	54	0057	467525
 pb	55	0058	467526
 pb	56	0059	467527
 pb	57	0060	467528
-entry	Generation		
+entry	Generation	28	
 pb	58	0061	467529
 pb	59	0062	467530
 pb	60	0063	467531
@@ -101,10 +101,10 @@ pb	83	0086	467554
 pb	84	0087	467555
 pb	85	0088	467556
 pb	86	0089	467557
-entry	Genièvre		
+entry	Genièvre	2	
 pb	87	0090	467558
 pb	88	0091	467559
-entry	Genou		
+entry	Genou	54	
 pb	89	0092	467560
 pb	90	0093	467561
 pb	91	0094	467562
@@ -159,34 +159,34 @@ pb	139	0142	467610
 pb	140	0143	467611
 pb	141	0144	467612
 pb	142	0145	467613
-entry	Gentiane		
+entry	Gentiane	4	
 pb	143	0146	467614
 pb	144	0147	467615
 pb	145	0148	467616
 pb	146	0149	467617
-entry	Gentianées		
-entry	Geraniacées		
+entry	Gentianées	0	
+entry	Geraniacées	1	
 pb	147	0150	467618
-entry	Gerçure		
+entry	Gerçure	1	
 pb	148	0151	467619
-entry	Germandrée		
+entry	Germandrée	1	
 pb	149	0152	467620
-entry	Gerofle ou Girofle		
+entry	Gerofle ou Girofle	2	
 orth	Gerofle		
 orth	Girofle		
 pb	150	0153	467621
 pb	151	0154	467622
-entry	Gibbosite		
-entry	Gingembre		
+entry	Gibbosite	0	
+entry	Gingembre	2	
 pb	152	0155	467623
 pb	153	0156	467624
-entry	Ginseng		
+entry	Ginseng	2	
 pb	154	0157	467625
 pb	155	0158	467626
-entry	Glace		
-entry	Glaire		
-entry	Gland		
-entry	Glande		
+entry	Glace	0	
+entry	Glaire	0	
+entry	Gland	0	
+entry	Glande	7	
 pb	156	0159	467627
 pb	157	0160	467628
 pb	158	0161	467629
@@ -194,15 +194,15 @@ pb	159	0162	467630
 pb	160	0163	467631
 pb	161	0164	467632
 pb	162	0165	467633
-entry	Glaucome		
+entry	Glaucome	3	
 pb	163	0166	467634
 pb	164	0167	467635
 pb	165	0168	467636
-entry	Globulairiees		
+entry	Globulairiees	1	
 pb	O	0169	467637
-entry	Glossite		
-entry	Glotte		
-entry	Goitre		
+entry	Glossite	0	
+entry	Glotte	0	
+entry	Goitre	18	
 pb	167	0170	467638
 pb	168	0171	467639
 pb	169	0172	467640
@@ -221,26 +221,26 @@ pb	181	0184	467652
 pb	182	0185	467653
 pb	183	0186	467654
 pb	184	0187	467655
-entry	Gomme		
+entry	Gomme	5	
 pb	185	0188	467656
 pb	186	0189	467657
 pb	187	0190	467658
 pb	188	0191	467659
 pb	189	0192	467660
-entry	Gommes-resines		
+entry	Gommes-resines	1	
 pb	190	0193	467661
-entry	Gomme, Gommeuses		
+entry	Gomme, Gommeuses	2	
 orth	Gomme		
 orth	Gommeuses		
 pb	191	0194	467662
 pb	192	0195	467663
-entry	Gonorrhée		
-entry	Goudron		
+entry	Gonorrhée	0	
+entry	Goudron	2	
 pb	193	0196	467664
 pb	194	0197	467665
-entry	Gourme		
+entry	Gourme	1	
 pb	195	0198	467666
-entry	Gout		
+entry	Gout	15	
 pb	196	0199	467667
 pb	197	0200	467668
 pb	198	0201	467669
@@ -256,7 +256,7 @@ pb	207	0210	467678
 pb	208	0211	467679
 pb	209	0212	467680
 pb	210	0213	467681
-entry	Goutte		
+entry	Goutte	37	
 pb	211	0214	467682
 pb	212	0215	467683
 pb	213	0216	467684
@@ -294,19 +294,19 @@ pb	244	0247	467715
 pb	245	0248	467716
 pb	246	0249	467717
 pb	247	0250	467718
-entry	Goutte-rose		
-entry	Goutte-sereine		
-entry	Graisse		
+entry	Goutte-rose	0	
+entry	Goutte-sereine	0	
+entry	Graisse	3	
 pb	248	0251	467719
 pb	249	0252	467720
 pb	250	0253	467721
-entry	Graminées		
+entry	Graminées	2	
 pb	251	0254	467722
 pb	252	0255	467723
-entry	Gratiole		
+entry	Gratiole	2	
 pb	253	0256	467724
 pb	254	0257	467725
-entry	Gravelle		
+entry	Gravelle	13	
 pb	255	0258	467726
 pb	256	0259	467727
 pb	257	0260	467728
@@ -321,7 +321,7 @@ pb	265	0268	467736
 pb	266	0269	467737
 pb	267	0270	467738
 pb	268	0271	467739
-entry	Grenadier		
+entry	Grenadier	7	
 pb	269	0272	467740
 pb	270	0273	467741
 pb	271	0274	467742
@@ -330,13 +330,13 @@ pb	273	0276	467744
 pb	274	0277	467745
 pb	275	0278	467746
 pb	276	0279	467747
-entry	Grenouillette		
+entry	Grenouillette	5	
 pb	277	0280	467748
 pb	278	0281	467749
 pb	279	0282	467750
 pb	280	0283	467751
 pb	281	0284	467752
-entry	Grippe		
+entry	Grippe	44	
 pb	282	0285	467753
 pb	283	0286	467754
 pb	284	0287	467755
@@ -381,7 +381,7 @@ pb	322	0325	467793
 pb	323	0326	467794
 pb	324	0327	467795
 pb	325	0328	467796
-entry	Grossesse		
+entry	Grossesse	121	
 pb	326	0329	467797
 pb	327	0330	467798
 pb	328	0331	467799
@@ -503,17 +503,17 @@ pb	443	0446	467914
 pb	444	0447	467915
 pb	445	0448	467916
 pb	446	0449	467917
-entry	Gruau		
-entry	Guaco		
+entry	Gruau	0	
+entry	Guaco	1	
 pb	447	0450	467918
-entry	Guepe		
+entry	Guepe	0	
 pb	448	0451	467919
-entry	Guimauve		
+entry	Guimauve	0	
 pb	449	0452	467920
-entry	Gutte		
+entry	Gutte	1	
 pb	450	0453	467921
-entry	Guttiferes		
-entry	Gymnastique		
+entry	Guttiferes	0	
+entry	Gymnastique	27	
 pb	451	0454	467922
 pb	452	0455	467923
 pb	453	0456	467924
@@ -542,8 +542,8 @@ pb	475	0478	467946
 pb	476	0479	467947
 pb	477	0480	467948
 pb	478	0481	467949
-entry	Lettre H		
-entry	Habitation		
+entry	Lettre H	0	
+entry	Habitation	13	
 pb	479	0482	467950
 pb	480	0483	467951
 pb	481	0484	467952
@@ -557,7 +557,7 @@ pb	488	0491	467959
 pb	489	0492	467960
 pb	490	0493	467961
 pb	491	0494	467962
-entry	Habitude extérieure, Habitude du corps		
+entry	Habitude extérieure, Habitude du corps	20	
 orth	Habitude extérieure		
 orth	Habitude du corps		
 pb	492	0495	467963
@@ -580,7 +580,7 @@ pb	508	0511	467979
 pb	509	0512	467980
 pb	510	0513	467981
 pb	511	0514	467982
-entry	Hallucinations		
+entry	Hallucinations	42	
 pb	512	0515	467983
 pb	513	0516	467984
 pb	514	0517	467985
@@ -624,7 +624,7 @@ pb	551	0554	468022
 pb	552	0555	468023
 pb	553	0556	468024
 pb	[s. pag.]	0557	468025
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0558	468026
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	558	0559	468027

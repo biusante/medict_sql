@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	5556599
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556600
 pb	[s. pag.]	0003	434269
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556601
 pb	1	0005	434270
-entry	tétanos		
+entry	tétanos	35	
 pb	2	0006	434271
 pb	3	0007	434272
 pb	4	0008	434273
@@ -41,19 +41,19 @@ pb	33	0037	434302
 pb	34	0038	434303
 pb	35	0039	434304
 pb	36	0040	434305
-entry	tétartophie		
-entry	tête		
+entry	tétartophie	0	
+entry	tête	5	
 pb	37	0041	434306
 pb	38	0042	434307
 pb	39	0043	434308
 pb	40	0044	434309
 pb	41	0045	434310
-entry	tête - morte		
-entry	tetrapharmacum		
-entry	teucrium		
-entry	texture		
-entry	thalitron		
-entry	thé		
+entry	tête - morte	0	
+entry	tetrapharmacum	0	
+entry	teucrium	0	
+entry	texture	0	
+entry	thalitron	0	
+entry	thé	21	
 pb	42	0046	434311
 pb	43	0047	434312
 pb	44	0048	434313
@@ -75,14 +75,14 @@ pb	59	0063	434328
 pb	60	0064	434329
 pb	61	0065	434330
 pb	62	0066	434331
-entry	théacées		
+entry	théacées	1	
 pb	63	0067	434332
-entry	théâtre		
+entry	théâtre	3	
 pb	64	0068	434333
 pb	65	0069	434334
 pb	66	0070	434335
-entry	théiforme		
-entry	theion		
+entry	théiforme	0	
+entry	theion	18	
 pb	67	0071	434336
 pb	68	0072	434337
 pb	69	0073	434338
@@ -102,31 +102,31 @@ pb	82	0086	434351
 pb	83	0087	434352
 pb	84	0088	434353
 pb	85	0089	434354
-entry	thénar		
-entry	théomanie		
+entry	thénar	0	
+entry	théomanie	2	
 pb	86	0090	434355
 pb	87	0091	434356
-entry	théorie		
+entry	théorie	3	
 pb	88	0092	434357
 pb	89	0093	434358
 pb	90	0094	434359
-entry	thérapeutique		
-entry	thérapie		
-entry	theriaque		
+entry	thérapeutique	0	
+entry	thérapie	0	
+entry	theriaque	5	
 pb	91	0095	434360
 pb	92	0096	434361
 pb	93	0097	434362
 pb	94	0098	434363
 pb	95	0099	434364
-entry	thériotomie		
-entry	thermales (eaux minérales)		
+entry	thériotomie	0	
+entry	thermales (eaux minérales)	4	
 pb	96	0100	434365
 pb	97	0101	434366
 pb	98	0102	434367
 pb	99	0103	434368
-entry	thermantique		
-entry	thermes		
-entry	thermomètre		
+entry	thermantique	0	
+entry	thermes	0	
+entry	thermomètre	13	
 pb	100	0104	434369
 pb	101	0105	434370
 pb	102	0106	434371
@@ -140,25 +140,25 @@ pb	109	0113	434378
 pb	110	0114	434379
 pb	111	0115	434380
 pb	112	0116	434381
-entry	thermoscope		
-entry	these		
-entry	thiesac (eau minérale de)		
-entry	thlasis		
-entry	thlaspi		
+entry	thermoscope	0	
+entry	these	0	
+entry	thiesac (eau minérale de)	0	
+entry	thlasis	0	
+entry	thlaspi	2	
 pb	113	0117	434382
 pb	114	0118	434383
-entry	thlipsie		
-entry	thoez (eau minérale de)		
-entry	thomas (eau minérale de saint-)		
-entry	thoracique		
+entry	thlipsie	0	
+entry	thoez (eau minérale de)	0	
+entry	thomas (eau minérale de saint-)	0	
+entry	thoracique	1	
 pb	115	0119	434384
-entry	thoraco - facial		
-entry	thorax		
+entry	thoraco - facial	0	
+entry	thorax	1	
 pb	116	0120	434385
-entry	thorinium		
+entry	thorinium	2	
 pb	117	0121	434386
 pb	118	0122	434387
-entry	thrombus		
+entry	thrombus	7	
 pb	119	0123	434388
 pb	120	0124	434389
 pb	121	0125	434390
@@ -166,16 +166,16 @@ pb	122	0126	434391
 pb	123	0127	434392
 pb	124	0128	434393
 pb	125	0129	434394
-entry	thuren (eau minérale de)		
-entry	thym		
+entry	thuren (eau minérale de)	0	
+entry	thym	2	
 pb	126	0130	434395
 pb	127	0131	434396
-entry	thymelée		
+entry	thymelée	1	
 pb	128	0132	434397
-entry	thymiatechnie		
-entry	thymique		
+entry	thymiatechnie	0	
+entry	thymique	0	
 pb	129	0133	434398
-entry	thymus		
+entry	thymus	7	
 pb	130	0134	434399
 pb	131	0135	434400
 pb	132	0136	434401
@@ -183,23 +183,23 @@ pb	133	0137	434402
 pb	134	0138	434403
 pb	135	0139	434404
 pb	136	0140	434405
-entry	thyrocèle		
+entry	thyrocèle	5	
 pb	137	0141	434406
 pb	138	0142	434407
 pb	139	0143	434408
 pb	140	0144	434409
 pb	141	0145	434410
-entry	thyro - aryténoidien		
+entry	thyro - aryténoidien	1	
 pb	142	0146	434411
-entry	thyroide		
+entry	thyroide	5	
 pb	143	0147	434412
 pb	144	0148	434413
 pb	145	0149	434414
 pb	146	0150	434415
 pb	147	0151	434416
-entry	thyroidien		
+entry	thyroidien	0	
 pb	148	0152	434417
-entry	tibia		
+entry	tibia	11	
 pb	149	0153	434418
 pb	150	0154	434419
 pb	151	0155	434420
@@ -211,40 +211,40 @@ pb	156	0160	434425
 pb	157	0161	434426
 pb	158	0162	434427
 pb	159	0163	434428
-entry	tibial		
+entry	tibial	6	
 pb	160	0164	434429
 pb	161	0165	434430
 pb	162	0166	434431
 pb	163	0167	434432
 pb	164	0168	434433
 pb	165	0169	434434
-entry	tic		
+entry	tic	2	
 pb	166	0170	434435
 pb	167	0171	434436
-entry	tierce (fièvre)		
-entry	tige		
-entry	tiliacées		
-entry	tilleul		
+entry	tierce (fièvre)	0	
+entry	tige	0	
+entry	tiliacées	0	
+entry	tilleul	4	
 pb	168	0172	434437
 pb	169	0173	434438
 pb	170	0174	434439
 pb	171	0175	434440
-entry	tilly (graines de)		
-entry	timidité		
+entry	tilly (graines de)	0	
+entry	timidité	2	
 pb	172	0176	434441
 pb	173	0177	434442
-entry	tinckal		
-entry	tintement		
+entry	tinckal	0	
+entry	tintement	2	
 pb	174	0178	434443
 pb	175	0179	434444
-entry	tintouin		
+entry	tintouin	1	
 pb	176	0180	434445
-entry	tiraillement		
+entry	tiraillement	1	
 pb	177	0181	434446
-entry	tire - balle		
-entry	tire - fond		
-entry	tire - pus		
-entry	tire - tête		
+entry	tire - balle	0	
+entry	tire - fond	0	
+entry	tire - pus	0	
+entry	tire - tête	20	
 pb	178	0182	434447
 pb	179	0183	434448
 pb	180	0184	434449
@@ -265,7 +265,7 @@ pb	194	0198	434463
 pb	195	0199	434464
 pb	196	0200	434465
 pb	197	0201	434466
-entry	tisane		
+entry	tisane	10	
 pb	198	0202	434467
 pb	199	0203	434468
 pb	200	0204	434469
@@ -276,10 +276,10 @@ pb	204	0208	434473
 pb	205	0209	434474
 pb	206	0210	434475
 pb	207	0211	434476
-entry	tisserands (maladies des)		
+entry	tisserands (maladies des)	2	
 pb	208	0212	434477
 pb	209	0213	434478
-entry	tissu		
+entry	tissu	30	
 pb	210	0214	434479
 pb	211	0215	434480
 pb	212	0216	434481
@@ -310,29 +310,29 @@ pb	236	0240	434505
 pb	237	0241	434506
 pb	238	0242	434507
 pb	239	0243	434508
-entry	titane		
+entry	titane	2	
 pb	240	0244	434509
 pb	241	0245	434510
-entry	tithymale		
+entry	tithymale	5	
 pb	242	0246	434511
 pb	243	0247	434512
 pb	244	0248	434513
 pb	245	0249	434514
 pb	246	0250	434515
-entry	titillation		
-entry	toddalie		
-entry	toile		
+entry	titillation	0	
+entry	toddalie	0	
+entry	toile	1	
 pb	247	0251	434516
-entry	tomate		
-entry	tomentum		
-entry	tomotocie		
+entry	tomate	0	
+entry	tomentum	0	
+entry	tomotocie	0	
 pb	248	0252	434517
-entry	ton		
-entry	tongres (eaux minérales de)		
-entry	tonicité		
+entry	ton	0	
+entry	tongres (eaux minérales de)	0	
+entry	tonicité	2	
 pb	249	0253	434518
 pb	250	0254	434519
-entry	tonique		
+entry	tonique	27	
 pb	251	0255	434520
 pb	252	0256	434521
 pb	253	0257	434522
@@ -361,7 +361,7 @@ pb	275	0279	434544
 pb	276	0280	434545
 pb	277	0281	434546
 pb	278	0282	434547
-entry	tonnerre (hygiène publique)		
+entry	tonnerre (hygiène publique)	13	
 pb	279	0283	434548
 pb	280	0284	434549
 pb	281	0285	434550
@@ -375,20 +375,20 @@ pb	288	0292	434557
 pb	289	0293	434558
 pb	290	0294	434559
 pb	291	0295	434560
-entry	tonsillaire		
-entry	tonsilles		
+entry	tonsillaire	0	
+entry	tonsilles	1	
 pb	292	0296	434561
-entry	topaze		
+entry	topaze	1	
 pb	293	0297	434562
-entry	tophacées		
-entry	tophus		
-entry	topique		
+entry	tophacées	0	
+entry	tophus	0	
+entry	topique	5	
 pb	294	0298	434563
 pb	295	0299	434564
 pb	296	0300	434565
 pb	297	0301	434566
 pb	298	0302	434567
-entry	topographie (médicale)		
+entry	topographie (médicale)	13	
 pb	299	0303	434568
 pb	300	0304	434569
 pb	301	0305	434570
@@ -402,28 +402,28 @@ pb	308	0312	434577
 pb	309	0313	434578
 pb	310	0314	434579
 pb	311	0315	434580
-entry	tordyle		
+entry	tordyle	1	
 pb	312	0316	434581
-entry	tormentille		
-entry	torpille		
-entry	torréfaction		
+entry	tormentille	0	
+entry	torpille	0	
+entry	torréfaction	1	
 pb	313	0317	434582
-entry	torride (zone)		
+entry	torride (zone)	6	
 pb	314	0318	434583
 pb	315	0319	434584
 pb	316	0320	434585
 pb	317	0321	434586
 pb	318	0322	434587
 pb	319	0323	434588
-entry	tors		
+entry	tors	1	
 pb	320	0324	434589
-entry	torticolis		
+entry	torticolis	3	
 pb	321	0325	434590
 pb	322	0326	434591
 pb	323	0327	434592
-entry	tortue		
+entry	tortue	1	
 pb	324	0328	434593
-entry	torture (médecine légale)		
+entry	torture (médecine légale)	12	
 pb	325	0329	434594
 pb	326	0330	434595
 pb	327	0331	434596
@@ -436,7 +436,7 @@ pb	333	0337	434602
 pb	334	0338	434603
 pb	335	0339	434604
 pb	336	0340	434605
-entry	toucher		
+entry	toucher	31	
 pb	337	0341	434606
 pb	338	0342	434607
 pb	339	0343	434608
@@ -468,21 +468,21 @@ pb	364	0368	434633
 pb	365	0369	434634
 pb	366	0370	434635
 pb	367	0371	434636
-entry	toucy (eau minérale de)		
-entry	touffreville (eau minérale de)		
+entry	toucy (eau minérale de)	0	
+entry	touffreville (eau minérale de)	0	
 pb	368	0372	434637
-entry	tour de maitre		
-entry	tourbillon		
-entry	tournesol		
-entry	tourniole		
-entry	tourniquet		
+entry	tour de maitre	0	
+entry	tourbillon	0	
+entry	tournesol	0	
+entry	tourniole	0	
+entry	tourniquet	4	
 pb	369	0373	434638
 pb	370	0374	434639
 pb	371	0375	434640
 pb	372	0376	434641
-entry	tournoiement		
-entry	toute - bonne		
-entry	toux		
+entry	tournoiement	0	
+entry	toute - bonne	0	
+entry	toux	9	
 pb	373	0377	434642
 pb	374	0378	434643
 pb	375	0379	434644
@@ -492,8 +492,8 @@ pb	378	0382	434647
 pb	379	0383	434648
 pb	380	0384	434649
 pb	381	0385	434650
-entry	toxicodendron		
-entry	toxicologie		
+entry	toxicodendron	0	
+entry	toxicologie	64	
 pb	382	0386	434651
 pb	383	0387	434652
 pb	384	0388	434653
@@ -558,10 +558,10 @@ pb	442	0446	434711
 pb	443	0447	434712
 pb	444	0448	434713
 pb	445	0449	434714
-entry	toxique		
-entry	trachéal		
-entry	trachée		
-entry	trachée - artère		
+entry	toxique	0	
+entry	trachéal	0	
+entry	trachée	0	
+entry	trachée - artère	11	
 pb	446	0450	434715
 pb	447	0451	434716
 pb	448	0452	434717
@@ -573,58 +573,58 @@ pb	453	0457	434722
 pb	454	0458	434723
 pb	455	0459	434724
 pb	456	0460	434725
-entry	trachelagre		
-entry	trachélée		
-entry	trachélien		
+entry	trachelagre	0	
+entry	trachélée	0	
+entry	trachélien	4	
 pb	457	0461	434726
 pb	458	0462	434727
 pb	459	0463	434728
 pb	460	0464	434729
-entry	trachélo - cervicale		
+entry	trachélo - cervicale	4	
 pb	461	0465	434730
 pb	462	0466	434731
 pb	463	0467	434732
 pb	464	0468	434733
-entry	trachéocèle		
-entry	trachéotomie		
+entry	trachéocèle	0	
+entry	trachéotomie	4	
 pb	465	0469	434734
 pb	466	0470	434735
 pb	467	0471	434736
 pb	468	0472	434737
-entry	trachoma		
-entry	traction		
-entry	tragacantha		
-entry	tragien		
+entry	trachoma	0	
+entry	traction	0	
+entry	tragacantha	0	
+entry	tragien	1	
 pb	469	0473	434738
-entry	tragus		
-entry	trainasse		
-entry	traitement		
+entry	tragus	0	
+entry	trainasse	0	
+entry	traitement	6	
 pb	470	0474	434739
 pb	471	0475	434740
 pb	472	0476	434741
 pb	473	0477	434742
 pb	474	0478	434743
 pb	475	0479	434744
-entry	tranchées		
+entry	tranchées	6	
 pb	476	0480	434745
 pb	477	0481	434746
 pb	478	0482	434747
 pb	479	0483	434748
 pb	480	0484	434749
 pb	481	0485	434750
-entry	tranquilliseur		
-entry	transformation		
+entry	tranquilliseur	0	
+entry	transformation	3	
 pb	482	0486	434751
 pb	483	0487	434752
 pb	484	0488	434753
-entry	transfusion		
+entry	transfusion	6	
 pb	485	0489	434754
 pb	486	0490	434755
 pb	487	0491	434756
 pb	488	0492	434757
 pb	489	0493	434758
 pb	490	0494	434759
-entry	transpiration		
+entry	transpiration	15	
 pb	491	0495	434760
 pb	492	0496	434761
 pb	493	0497	434762
@@ -640,33 +640,33 @@ pb	502	0506	434771
 pb	503	0507	434772
 pb	504	0508	434773
 pb	505	0509	434774
-entry	transplantation		
-entry	transport		
+entry	transplantation	0	
+entry	transport	1	
 pb	506	0510	434775
-entry	transposition		
+entry	transposition	2	
 pb	507	0511	434776
 pb	508	0512	434777
-entry	transsudation		
+entry	transsudation	1	
 pb	509	0513	434778
-entry	transversaire		
+entry	transversaire	2	
 pb	510	0514	434779
 pb	511	0515	434780
-entry	transversal		
-entry	transverse		
+entry	transversal	0	
+entry	transverse	1	
 pb	512	0516	434781
-entry	transverso - spinal		
-entry	trapèze		
+entry	transverso - spinal	0	
+entry	trapèze	1	
 pb	513	0517	434782
-entry	trapéziforme		
-entry	trapézoide		
+entry	trapéziforme	0	
+entry	trapézoide	1	
 pb	514	0518	434783
-entry	traumatique		
-entry	travail		
-entry	trèfle		
+entry	traumatique	0	
+entry	travail	0	
+entry	trèfle	2	
 pb	515	0519	434784
 pb	516	0520	434785
-entry	treisse - vens (eau minérale de)		
-entry	tremblement		
+entry	treisse - vens (eau minérale de)	0	
+entry	tremblement	9	
 pb	517	0521	434786
 pb	518	0522	434787
 pb	519	0523	434788
@@ -676,15 +676,15 @@ pb	522	0526	434791
 pb	523	0527	434792
 pb	524	0528	434793
 pb	525	0529	434794
-entry	tremelle		
-entry	tremens (delirium)		
+entry	tremelle	0	
+entry	tremens (delirium)	6	
 pb	526	0530	434795
 pb	527	0531	434796
 pb	528	0532	434797
 pb	529	0533	434798
 pb	530	0534	434799
 pb	531	0535	434800
-entry	trépan		
+entry	trépan	11	
 pb	532	0536	434801
 pb	533	0537	434802
 pb	534	0538	434803
@@ -696,7 +696,7 @@ pb	539	0543	434808
 pb	540	0544	434809
 pb	541	0545	434810
 pb	542	0546	434811
-entry	trépanation		
+entry	trépanation	8	
 pb	543	0547	434812
 pb	544	0548	434813
 pb	545	0549	434814
@@ -705,20 +705,20 @@ pb	547	0551	434816
 pb	548	0552	434817
 pb	549	0553	434818
 pb	550	0554	434819
-entry	trépidation		
+entry	trépidation	1	
 pb	551	0555	434820
-entry	tressaillement		
-entry	triangulaire		
+entry	tressaillement	0	
+entry	triangulaire	1	
 pb	552	0556	434821
-entry	tribulcon		
-entry	triceps		
+entry	tribulcon	0	
+entry	triceps	2	
 pb	553	0557	434822
 pb	554	0558	434823
-entry	trichiasis (maladie des yeux)		
+entry	trichiasis (maladie des yeux)	2	
 pb	555	0559	434824
 pb	556	0560	434825
-entry	trichisme		
-entry	trichocéphale		
+entry	trichisme	0	
+entry	trichocéphale	18	
 pb	557	0561	434826
 pb	558	0562	434827
 pb	559	0563	434828
@@ -737,6 +737,6 @@ pb	571	0575	434840
 pb	572	0576	434841
 pb	573	0577	434842
 pb	574	0578	434843
-entry	trichomatique		
-entry	trichuride		
-entry	tricuspide (valvule)		
+entry	trichomatique	0	
+entry	trichuride	0	
+entry	tricuspide (valvule)	0	

@@ -1,16 +1,16 @@
 pb	sn	0001	7898250
-entry	[Plat]		
+entry	[Plat]	0	
 pb	sn	0002	7898251
-entry	[Contreplat]		
+entry	[Contreplat]	0	
 pb	sn	0003	7898252
-entry	[Page de garde]		
+entry	[Page de garde]	0	
 pb	pb	0004	7898253
 pb	pb	0005	7898254
 pb	pb	0006	7898255
 pb	1	0007	7898256
 pb	2	0008	7898257
 pb	3	0009	7898258
-entry	Notice		
+entry	Notice	0	
 pb	4	0010	7898259
 pb	5	0011	7898260
 pb	6	0012	7898261
@@ -20,71 +20,71 @@ pb	9	0015	7898264
 pb	10	0016	7898265
 pb	11	0017	7898266
 pb	12	0018	7898267
-entry	Abréviations		
+entry	Abréviations	0	
 pb	13	0019	7898268
-entry	Abondance Joseph		
+entry	Abondance Joseph	1	
 pb	14	0020	7898269
-entry	Adam Jean-François		
-entry	Adelon Pierre		
-entry	Albert Marc-Antoine 		
+entry	Adam Jean-François	0	
+entry	Adelon Pierre	0	
+entry	Albert Marc-Antoine 	0	
 pb	15	0021	7898270
-entry	Albert Joseph		
-entry	Albert Henry		
-entry	Albini Guido		
+entry	Albert Joseph	0	
+entry	Albert Henry	0	
+entry	Albini Guido	1	
 pb	16	0022	7898271
-entry	Albrier Maurice		
-entry	Alphonse Jean		
-entry	Amblard		
-entry	Amblet Gaspard		
-entry	Amadeus		
+entry	Albrier Maurice	0	
+entry	Alphonse Jean	0	
+entry	Amblard	0	
+entry	Amblet Gaspard	0	
+entry	Amadeus	0	
 pb	17	0023	7898272
-entry	Ami Joseph		
-entry	Andrevetan Cl.-François 		
+entry	Ami Joseph	0	
+entry	Andrevetan Cl.-François 	0	
 pb	18	0024	7898273
-entry	Andrevetan Cl.-François		
-entry	Andrier François		
-entry	Andrier Jean		
+entry	Andrevetan Cl.-François	0	
+entry	Andrier François	0	
+entry	Andrier Jean	1	
 pb	19	0025	7898274
-entry	Anselme Pierre-François-Philibert		
-entry	Anthonio (Mestre)		
-entry	Anthonioz Félix		
+entry	Anselme Pierre-François-Philibert	0	
+entry	Anthonio (Mestre)	0	
+entry	Anthonioz Félix	1	
 pb	20	0026	7898275
-entry	Anthonioz Claude-François		
-entry	Anthonioz François-Auguste		
-entry	Anuci (Me Jehan)		
-entry	Anzo (De) Thomas		
-entry	Arbario		
-entry	Arestan, de Chambéry		
+entry	Anthonioz Claude-François	0	
+entry	Anthonioz François-Auguste	0	
+entry	Anuci (Me Jehan)	0	
+entry	Anzo (De) Thomas	0	
+entry	Arbario	0	
+entry	Arestan, de Chambéry	0	
 orth	Arestan		
 orth	de Chambéry		
 pb	21	0027	7898276
-entry	Armand Jean-Louis-Vincent		
-entry	Armand Joseph		
-entry	Armand Jules		
-entry	Arnal Gabriel		
+entry	Armand Jean-Louis-Vincent	0	
+entry	Armand Joseph	0	
+entry	Armand Jules	0	
+entry	Arnal Gabriel	0	
 pb	22	0028	7898277
-entry	Arpin Charles		
-entry	Audacio (Georges de)		
-entry	Audé Charles		
+entry	Arpin Charles	0	
+entry	Audacio (Georges de)	0	
+entry	Audé Charles	0	
 pb	23	0029	7898278
-entry	Audé Jean Louis		
-entry	Audouy (de Marseille ? )		
-entry	Avet Philibert-François		
-entry	Avet Jean-Baptiste		
-entry	B. - Baillix		
+entry	Audé Jean Louis	0	
+entry	Audouy (de Marseille ? )	0	
+entry	Avet Philibert-François	0	
+entry	Avet Jean-Baptiste	0	
+entry	B. - Baillix	0	
 pb	24	0030	7898279
-entry	Bally Jean-François		
-entry	Bally Joseph-Marie		
-entry	Balthazard (Louis de)		
-entry	Bard Gaspard		
-entry	Barret ou Biolet		
+entry	Bally Jean-François	0	
+entry	Bally Joseph-Marie	0	
+entry	Balthazard (Louis de)	0	
+entry	Bard Gaspard	0	
+entry	Barret ou Biolet	0	
 orth	Barret		
 orth	Biolet		
 pb	25	0031	7898280
-entry	Barthélemy		
-entry	Barthélemy Pierre		
-entry	Basin Auguste		
-entry	Baud Jean-Marie		
+entry	Barthélemy	0	
+entry	Barthélemy Pierre	0	
+entry	Basin Auguste	0	
+entry	Baud Jean-Marie	8	
 pb	26	0032	7898281
 pb	27	0033	7898282
 pb	28	0034	7898283
@@ -93,1087 +93,1087 @@ pb	30	0036	7898285
 pb	31	0037	7898286
 pb	32	0038	7898287
 pb	33	0039	7898288
-entry	Baudet Tobie		
-entry	Baudry Félix		
-entry	Bazile Prosper		
+entry	Baudet Tobie	0	
+entry	Baudry Félix	0	
+entry	Bazile Prosper	1	
 pb	34	0040	7898289
-entry	Bazin Charles		
-entry	Beard Joseph		
+entry	Bazin Charles	0	
+entry	Beard Joseph	1	
 pb	35	0041	7898290
-entry	Beaumont Benoît		
-entry	Beaumont (de) Pierre		
+entry	Beaumont Benoît	0	
+entry	Beaumont (de) Pierre	0	
 pb	36	0042	7898291
-entry	Bebert Joseph		
-entry	Bellile Alfred-Humbert		
-entry	Belloste Auguste		
-entry	Bellot Colomban		
-entry	Belly Louis		
-entry	Berlier Pierre		
+entry	Bebert Joseph	0	
+entry	Bellile Alfred-Humbert	0	
+entry	Belloste Auguste	0	
+entry	Bellot Colomban	0	
+entry	Belly Louis	0	
+entry	Berlier Pierre	1	
 pb	37	0043	7898292
-entry	Bernard Sébastien-Joseph		
-entry	Bernard Jean-François		
-entry	Berthet Pierre-Denis-Justin		
+entry	Bernard Sébastien-Joseph	0	
+entry	Bernard Jean-François	0	
+entry	Berthet Pierre-Denis-Justin	1	
 pb	38	0044	7898293
-entry	Berthet Aimé		
-entry	Berthet Constant, de Chambéry		
+entry	Berthet Aimé	0	
+entry	Berthet Constant, de Chambéry	0	
 orth	Berthet Constant		
 orth	de Chambéry		
-entry	Berthet Constant, d'Aiton		
+entry	Berthet Constant, d'Aiton	1	
 orth	Berthet Constant		
 orth	d'Aiton		
 pb	39	0045	7898294
-entry	Berthet Jean-Claude		
-entry	Berthet Jean-Joseph		
-entry	Berthet Michel		
-entry	Bertholet Claude-François		
+entry	Berthet Jean-Claude	0	
+entry	Berthet Jean-Joseph	0	
+entry	Berthet Michel	0	
+entry	Bertholet Claude-François	0	
 pb	40	0046	7898295
-entry	Bertholet François-Marie		
-entry	Bertholet … de la Rochette		
-entry	Berthoud Balthazard		
-entry	Berthier Francis-Bertrand		
+entry	Bertholet François-Marie	0	
+entry	Bertholet … de la Rochette	0	
+entry	Berthoud Balthazard	0	
+entry	Berthier Francis-Bertrand	1	
 pb	41	0047	7898296
-entry	Berthier Louis-Sébastien		
-entry	Bertrand Jacques		
+entry	Berthier Louis-Sébastien	0	
+entry	Bertrand Jacques	1	
 pb	42	0048	7898297
-entry	Bertrand …		
-entry	Bertrand Léonard		
-entry	Besson (Elisabeth)		
+entry	Bertrand …	0	
+entry	Bertrand Léonard	0	
+entry	Besson (Elisabeth)	1	
 pb	43	0049	7898298
-entry	Besson Fortunat-Marin		
-entry	Besson Joseph		
-entry	Bianco		
+entry	Besson Fortunat-Marin	0	
+entry	Besson Joseph	0	
+entry	Bianco	0	
 pb	44	0050	7898299
-entry	Bibal Antoine		
-entry	Billod François		
-entry	Billiottet Jean-Maurice		
+entry	Bibal Antoine	0	
+entry	Billod François	0	
+entry	Billiottet Jean-Maurice	1	
 pb	45	0051	7898300
-entry	Billioud		
-entry	Biolet alias Barlet Barthélemi		
+entry	Billioud	0	
+entry	Biolet alias Barlet Barthélemi	0	
 pb	46	0052	7898301
-entry	Biron Joseph		
+entry	Biron Joseph	1	
 pb	47	0053	7898302
-entry	Birraud ...		
-entry	Blanc Louis		
-entry	Blanc Léon		
+entry	Birraud ...	0	
+entry	Blanc Louis	0	
+entry	Blanc Léon	1	
 pb	48	0054	7898303
-entry	Blanc Jean-Baptiste		
+entry	Blanc Jean-Baptiste	1	
 pb	49	0055	7898304
-entry	Blanc Joseph-François-Léon		
-entry	Blanc Charles-Jacques		
-entry	Blanc François, de Conflans		
+entry	Blanc Joseph-François-Léon	0	
+entry	Blanc Charles-Jacques	0	
+entry	Blanc François, de Conflans	0	
 orth	Blanc François		
 orth	de Conflans		
-entry	Blanc François, de Chambéry		
+entry	Blanc François, de Chambéry	0	
 orth	Blanc François		
 orth	de Chambéry		
-entry	Blanchet Gaëtan		
+entry	Blanchet Gaëtan	1	
 pb	50	0056	7898305
-entry	Bo Jean-Baptiste		
-entry	Bocca Joseph-Antoine		
-entry	Bocellin Pierre		
-entry	Boejat François		
-entry	Boisset Pierre		
+entry	Bo Jean-Baptiste	0	
+entry	Bocca Joseph-Antoine	0	
+entry	Bocellin Pierre	0	
+entry	Boejat François	0	
+entry	Boisset Pierre	1	
 pb	51	0057	7898306
-entry	Boisset Marc-Antoine		
+entry	Boisset Marc-Antoine	1	
 pb	52	0058	7898307
-entry	Boisson Jean		
-entry	Bojon Jacques-François		
-entry	Bolliet Claude		
-entry	Bolliet J.		
-entry	Bompard Alexis		
+entry	Boisson Jean	0	
+entry	Bojon Jacques-François	0	
+entry	Bolliet Claude	0	
+entry	Bolliet J.	0	
+entry	Bompard Alexis	1	
 pb	53	0059	7898308
-entry	Bone Félix		
-entry	Bon (Boniface) Castalis		
-entry	Boni (Magister)		
-entry	Bonna, de St-Jeoire en Faucigny		
+entry	Bone Félix	0	
+entry	Bon (Boniface) Castalis	0	
+entry	Boni (Magister)	0	
+entry	Bonna, de St-Jeoire en Faucigny	0	
 orth	Bonna		
 orth	de St-Jeoire en Faucigny		
-entry	Bonafous Mathieu		
+entry	Bonafous Mathieu	1	
 pb	54	0060	7898309
-entry	Boniface (maître)		
-entry	Bonjean Louis-François 		
+entry	Boniface (maître)	0	
+entry	Bonjean Louis-François 	0	
 pb	55	0061	7898310
-entry	Bonjean Louis-François		
-entry	Bonne (Jehan de) (V. Me Bruno)		
+entry	Bonjean Louis-François	0	
+entry	Bonne (Jehan de) (V. Me Bruno)	0	
 pb	56	0062	7898311
-entry	Bonne Félix		
-entry	Bonnefoy, de Sallanches		
+entry	Bonne Félix	0	
+entry	Bonnefoy, de Sallanches	0	
 orth	Bonnefoy		
 orth	de Sallanches		
-entry	Bonnet Claude-André		
-entry	Bonvoisin (Bonvicino) Constant-Benoît		
+entry	Bonnet Claude-André	0	
+entry	Bonvoisin (Bonvicino) Constant-Benoît	1	
 pb	57	0063	7898312
-entry	Bordet Gaspard-Joseph		
-entry	Borelly		
-entry	Borell Jean		
-entry	Borgé Laurent		
-entry	Borson Jean-Louis		
+entry	Bordet Gaspard-Joseph	0	
+entry	Borelly	0	
+entry	Borell Jean	0	
+entry	Borgé Laurent	0	
+entry	Borson Jean-Louis	1	
 pb	58	0064	7898313
-entry	Bouchage François		
-entry	Bouché Camille		
+entry	Bouchage François	0	
+entry	Bouché Camille	1	
 pb	59	0065	7898314
-entry	Bouchet Michel		
+entry	Bouchet Michel	1	
 pb	60	0066	7898315
 pb	61	0067	7898316
-entry	Bouchet (Les), de Cruseilles		
+entry	Bouchet (Les), de Cruseilles	0	
 orth	Bouchet (Les)		
 orth	de Cruseilles		
-entry	Bouchet Georges		
-entry	Bouchet François		
-entry	Bouchet Jean-Pierre		
-entry	Bouchet Louis		
-entry	Bourgeois Louise (alias Boursier)		
+entry	Bouchet Georges	0	
+entry	Bouchet François	0	
+entry	Bouchet Jean-Pierre	0	
+entry	Bouchet Louis	0	
+entry	Bourgeois Louise (alias Boursier)	1	
 pb	62	0068	7898317
-entry	Bourgeois Urbain		
-entry	Boursier (noble Pierre-Louis)		
-entry	Bouvier Louis		
+entry	Bourgeois Urbain	0	
+entry	Boursier (noble Pierre-Louis)	0	
+entry	Bouvier Louis	2	
 pb	63	0069	7898318
 pb	64	0070	7898319
-entry	Boysson. (Voir Boisson)		
-entry	Brachet Claude		
-entry	Brachet Fabien		
-entry	Brachet Léon		
+entry	Boysson. (Voir Boisson)	0	
+entry	Brachet Claude	0	
+entry	Brachet Fabien	0	
+entry	Brachet Léon	1	
 pb	65	0071	7898320
-entry	Branche Léonce		
-entry	Breville (Jean-Louis de la), (Alias de la Breuille)		
+entry	Branche Léonce	0	
+entry	Breville (Jean-Louis de la), (Alias de la Breuille)	1	
 orth	Breville (Jean-Louis de la)		
 orth	(Alias de la Breuille)		
 pb	66	0072	7898321
-entry	Brevard Pierre		
-entry	Brois Pierre		
-entry	Broisin Aimé-Marie		
-entry	Broisin Claude		
-entry	Brundel Nicolas		
+entry	Brevard Pierre	0	
+entry	Brois Pierre	0	
+entry	Broisin Aimé-Marie	0	
+entry	Broisin Claude	0	
+entry	Brundel Nicolas	1	
 pb	67	0073	7898322
-entry	Brundel Amé		
-entry	Bruc (le baron de)		
+entry	Brundel Amé	0	
+entry	Bruc (le baron de)	1	
 pb	68	0074	7898323
-entry	Brun		
-entry	Brunet Louis		
-entry	Brunier François-Philibert		
-entry	Brunier Jacques		
-entry	Brunier Frédéric		
+entry	Brun	0	
+entry	Brunet Louis	0	
+entry	Brunier François-Philibert	0	
+entry	Brunier Jacques	0	
+entry	Brunier Frédéric	1	
 pb	69	0075	7898324
-entry	Bruno (Me), de Rumilly		
+entry	Bruno (Me), de Rumilly	1	
 orth	Bruno (Me)		
 orth	de Rumilly		
 pb	70	0076	7898325
-entry	Brun, de la Rochette		
+entry	Brun, de la Rochette	0	
 orth	Brun		
 orth	de la Rochette		
-entry	Buchard François-Louis		
-entry	Buchard Joseph-François		
-entry	Buet		
-entry	Buet François		
+entry	Buchard François-Louis	0	
+entry	Buchard Joseph-François	0	
+entry	Buet	0	
+entry	Buet François	1	
 pb	71	0077	7898326
-entry	Burdin Jean		
-entry	Burdin Nicolas		
+entry	Burdin Jean	0	
+entry	Burdin Nicolas	1	
 pb	72	0078	7898327
-entry	Burget (Me Pierre du)		
-entry	Burgos Jean		
+entry	Burget (Me Pierre du)	0	
+entry	Burgos Jean	1	
 pb	73	0079	7898328
-entry	Burgoz (et plutôt Burgos) Jacques-François		
-entry	Burnet François		
-entry	Bussat Jean-Claude		
-entry	Buthod Louis		
+entry	Burgoz (et plutôt Burgos) Jacques-François	0	
+entry	Burnet François	0	
+entry	Bussat Jean-Claude	0	
+entry	Buthod Louis	2	
 pb	74	0080	7898329
 pb	75	0081	7898330
-entry	Cabias (Jean-Baptiste de)		
+entry	Cabias (Jean-Baptiste de)	1	
 pb	76	0082	7898331
-entry	Caffe Paul-Louis-Balthasar		
+entry	Caffe Paul-Louis-Balthasar	1	
 pb	77	0083	7898332
-entry	Callies Jacques-Antoine		
-entry	Callies Jules-Aristide		
-entry	Calligé François		
+entry	Callies Jacques-Antoine	0	
+entry	Callies Jules-Aristide	0	
+entry	Calligé François	1	
 pb	78	0084	7898333
-entry	Canton, officier de la santé		
+entry	Canton, officier de la santé	0	
 orth	Canton		
 orth	officier de la santé		
-entry	Canton Alexis		
-entry	Canton François		
-entry	Carlioz Jean-Marie		
-entry	Carrel Jacques-Joseph		
+entry	Canton Alexis	0	
+entry	Canton François	0	
+entry	Carlioz Jean-Marie	0	
+entry	Carrel Jacques-Joseph	1	
 pb	79	0085	7898334
-entry	Carret Joseph		
-entry	Carret François		
+entry	Carret Joseph	0	
+entry	Carret François	1	
 pb	80	0086	7898335
-entry	Carret Jules		
+entry	Carret Jules	1	
 pb	81	0087	7898336
-entry	Carron Jacques-Louis		
+entry	Carron Jacques-Louis	1	
 pb	82	0088	7898337
-entry	Carron du Villards (Charles-Jean-François)		
-entry	Carron Léon		
-entry	Castalis (Boniface-Bon)		
-entry	Cazalis Henri		
+entry	Carron du Villards (Charles-Jean-François)	0	
+entry	Carron Léon	0	
+entry	Castalis (Boniface-Bon)	0	
+entry	Cazalis Henri	1	
 pb	83	0089	7898338
-entry	Cerise		
-entry	Cessens Louis		
-entry	Chabert Jean-Baptiste-Alfred		
+entry	Cerise	0	
+entry	Cessens Louis	0	
+entry	Chabert Jean-Baptiste-Alfred	1	
 pb	84	0090	7898339
-entry	Chaboud Jean		
-entry	Chaine ou Chaix François-Marius		
+entry	Chaboud Jean	0	
+entry	Chaine ou Chaix François-Marius	0	
 orth	Chaine		
 orth	Chaix François-Marius		
 pb	85	0091	7898340
-entry	Chaley, officier de la santé		
+entry	Chaley, officier de la santé	0	
 orth	Chaley		
 orth	officier de la santé		
-entry	Chamot Jean-Claude		
-entry	Chamousset Auguste-Joseph-Marie		
-entry	Champier		
+entry	Chamot Jean-Claude	0	
+entry	Chamousset Auguste-Joseph-Marie	0	
+entry	Champier	0	
 pb	86	0092	7898341
-entry	Champier Claude		
-entry	Chapelle François		
-entry	Chanodi Joannes		
-entry	Chanlite		
-entry	Chappet		
-entry	Chappuis Jean-André		
-entry	Charrière Blaise		
-entry	Charrière (Joseph de la)		
+entry	Champier Claude	0	
+entry	Chapelle François	0	
+entry	Chanodi Joannes	0	
+entry	Chanlite	0	
+entry	Chappet	0	
+entry	Chappuis Jean-André	0	
+entry	Charrière Blaise	0	
+entry	Charrière (Joseph de la)	1	
 pb	87	0093	7898342
-entry	Charvet, de la Chapelle-Blanche		
+entry	Charvet, de la Chapelle-Blanche	0	
 orth	Charvet		
 orth	de la Chapelle-Blanche		
-entry	Charvin		
-entry	Charvoz Charles		
-entry	Chatanoud-Cottin Jean-Pierre		
-entry	Chatenoud-Cottin Alexis-Benoît		
-entry	Chatron Joseph-Antoine		
+entry	Charvin	0	
+entry	Charvoz Charles	0	
+entry	Chatanoud-Cottin Jean-Pierre	0	
+entry	Chatenoud-Cottin Alexis-Benoît	0	
+entry	Chatron Joseph-Antoine	1	
 pb	88	0094	7898343
-entry	Chaumet Antoine		
-entry	Chautemps Amédée		
-entry	Chautemps Emile		
-entry	Chesnay, M. F.		
+entry	Chaumet Antoine	0	
+entry	Chautemps Amédée	0	
+entry	Chautemps Emile	0	
+entry	Chesnay, M. F.	0	
 orth	Chesnay		
 orth	M. F		
-entry	Chevallay Claude-Francisque		
+entry	Chevallay Claude-Francisque	1	
 pb	89	0095	7898344
-entry	Chiron F.		
-entry	Cistre		
-entry	Claraz Balthasard		
-entry	Claris Jean-Marie		
+entry	Chiron F.	0	
+entry	Cistre	0	
+entry	Claraz Balthasard	0	
+entry	Claris Jean-Marie	0	
 pb	90	0096	7898345
-entry	Clément (Me)		
-entry	Coche Jean-Marie		
-entry	Codret Annibal		
-entry	Collomb Jean-Marie		
+entry	Clément (Me)	0	
+entry	Coche Jean-Marie	0	
+entry	Codret Annibal	0	
+entry	Collomb Jean-Marie	0	
 pb	91	0097	7898346
-entry	Combaz François-Pierre-Marie		
-entry	Comoz François-Joseph		
-entry	Conchet		
-entry	Constant		
-entry	Constantin		
-entry	Copier		
+entry	Combaz François-Pierre-Marie	0	
+entry	Comoz François-Joseph	0	
+entry	Conchet	0	
+entry	Constant	0	
+entry	Constantin	0	
+entry	Copier	0	
 pb	92	0098	7898347
-entry	Copier Jean		
-entry	Cornuty Jean-Léon		
-entry	Coster Jacques		
-entry	Cottarel Emmanuel		
-entry	Coucy (François de)		
+entry	Copier Jean	0	
+entry	Cornuty Jean-Léon	0	
+entry	Coster Jacques	0	
+entry	Cottarel Emmanuel	0	
+entry	Coucy (François de)	1	
 pb	93	0099	7898348
 pb	94	0100	7898349
-entry	Couranjon Jean-Reymond-Emile		
-entry	Crey Jean-Pierre		
-entry	Croset-Mouchet Aimé		
-entry	Crud Claude		
-entry	Crud Jean-Marie		
-entry	Cruse (Me Garbinus, alias: Galvinus, alias: Guerbinus		
-entry	Cullery Laurent		
-entry	Curtet François 		
+entry	Couranjon Jean-Reymond-Emile	0	
+entry	Crey Jean-Pierre	0	
+entry	Croset-Mouchet Aimé	0	
+entry	Crud Claude	0	
+entry	Crud Jean-Marie	0	
+entry	Cruse (Me Garbinus, alias: Galvinus, alias: Guerbinus	0	
+entry	Cullery Laurent	0	
+entry	Curtet François 	0	
 pb	95	0101	7898350
-entry	Curtillet Jean		
-entry	Cuvex-Combaz Félix-Pierre-Marie		
-entry	Dagand Jean-Jacques		
-entry	Dagand Simon		
-entry	Dagand François-Marie		
-entry	Dagand Paul		
-entry	Dangon		
+entry	Curtillet Jean	0	
+entry	Cuvex-Combaz Félix-Pierre-Marie	0	
+entry	Dagand Jean-Jacques	0	
+entry	Dagand Simon	0	
+entry	Dagand François-Marie	0	
+entry	Dagand Paul	0	
+entry	Dangon	0	
 pb	96	0102	7898351
-entry	Dantan Prosper		
-entry	Daquin Joseph 		
+entry	Dantan Prosper	0	
+entry	Daquin Joseph 	0	
 pb	97	0103	7898352
-entry	Daquin Joseph		
-entry	Dardel Amédée		
+entry	Daquin Joseph	0	
+entry	Dardel Amédée	1	
 pb	98	0104	7898353
-entry	Davat Gaspard-Adolphe		
+entry	Davat Gaspard-Adolphe	1	
 pb	99	0105	7898354
-entry	Davet Aimé-Julien		
+entry	Davet Aimé-Julien	1	
 pb	100	0106	7898355
-entry	Déage Jean-Guillaume		
-entry	Déage Pierre-Marie		
-entry	Debauge Jean		
-entry	Debiol Jean-Louis		
-entry	Dechamps Jacques (alias Deschamps)		
-entry	Delachenal (ou De Lachenal) Jules		
+entry	Déage Jean-Guillaume	0	
+entry	Déage Pierre-Marie	0	
+entry	Debauge Jean	0	
+entry	Debiol Jean-Louis	0	
+entry	Dechamps Jacques (alias Deschamps)	0	
+entry	Delachenal (ou De Lachenal) Jules	0	
 pb	101	0107	7898356
-entry	Delachenal (ou De Lachenal) JulesDelaucourt Antoine (ou Dellozcourt		
-entry	Delavenay (ou De Lavenay) Claude-André		
-entry	Delavenay Christophe-René		
-entry	Delavenay Sébastien		
+entry	Delachenal (ou De Lachenal) JulesDelaucourt Antoine (ou Dellozcourt	0	
+entry	Delavenay (ou De Lavenay) Claude-André	0	
+entry	Delavenay Christophe-René	0	
+entry	Delavenay Sébastien	1	
 pb	102	0108	7898357
-entry	Delavenay Camille		
-entry	Deluermoz Eugène		
-entry	Demartenay		
-entry	Demarthenex Claude-François		
-entry	De Mey (alias Demay)		
-entry	Dementhon		
+entry	Delavenay Camille	0	
+entry	Deluermoz Eugène	0	
+entry	Demartenay	0	
+entry	Demarthenex Claude-François	0	
+entry	De Mey (alias Demay)	0	
+entry	Dementhon	0	
 pb	103	0109	7898358
-entry	Demotz		
-entry	Dénarié		
-entry	Dénarié Alphonse		
-entry	Dénarié Claude-Marie		
-entry	Dénarié Amédée 		
+entry	Demotz	0	
+entry	Dénarié	0	
+entry	Dénarié Alphonse	0	
+entry	Dénarié Claude-Marie	0	
+entry	Dénarié Amédée 	0	
 pb	104	0110	7898359
-entry	Dénarié Amédée		
-entry	Dénarié Gaspard-Antoine		
+entry	Dénarié Amédée	0	
+entry	Dénarié Gaspard-Antoine	0	
 pb	105	0111	7898360
-entry	Denina		
-entry	Denis, de Lyra		
+entry	Denina	0	
+entry	Denis, de Lyra	0	
 orth	Denis		
 orth	de Lyra		
-entry	Depoisier François-Joseph-Jules		
+entry	Depoisier François-Joseph-Jules	1	
 pb	106	0112	7898361
-entry	Depraz Charles		
+entry	Depraz Charles	1	
 pb	107	0113	7898362
-entry	Deschamps Auguste		
-entry	Deschamps Albert		
+entry	Deschamps Auguste	0	
+entry	Deschamps Albert	1	
 pb	108	0114	7898363
-entry	Descostes Augustin		
-entry	Desmaisons Joseph-Bernard		
+entry	Descostes Augustin	0	
+entry	Desmaisons Joseph-Bernard	0	
 pb	109	0115	7898364
-entry	Desmaisons François-Marie		
-entry	Desmaisons Jean-Jacques		
-entry	Despines Joseph		
+entry	Desmaisons François-Marie	0	
+entry	Desmaisons Jean-Jacques	0	
+entry	Despines Joseph	1	
 pb	110	0116	7898365
-entry	Despines Charles-Antoine-Humbert		
-entry	Despines Constant		
-entry	Despines Prosper		
+entry	Despines Charles-Antoine-Humbert	0	
+entry	Despines Constant	0	
+entry	Despines Prosper	1	
 pb	111	0117	7898366
-entry	Desprez (alias Despré) Victor		
-entry	Deswatines, de Clermont		
+entry	Desprez (alias Despré) Victor	0	
+entry	Deswatines, de Clermont	0	
 orth	Deswatines		
 orth	de Clermont		
 pb	112	0118	7898367
-entry	D'Etienne Dominique		
+entry	D'Etienne Dominique	1	
 pb	113	0119	7898368
-entry	Devaux Pierre-François		
+entry	Devaux Pierre-François	1	
 pb	114	0120	7898369
-entry	Dezauche Henri		
-entry	Dianand Gabriel		
+entry	Dezauche Henri	0	
+entry	Dianand Gabriel	1	
 pb	115	0121	7898370
-entry	Dichon Claude		
-entry	Dijoud François		
+entry	Dichon Claude	0	
+entry	Dijoud François	1	
 pb	116	0122	7898371
-entry	Dissipatis (maître Michael de)		
-entry	Dolin Jean-Baptiste		
-entry	Domenget Louis		
+entry	Dissipatis (maître Michael de)	0	
+entry	Dolin Jean-Baptiste	0	
+entry	Domenget Louis	1	
 pb	117	0123	7898372
-entry	Donches (alias Donche) François		
+entry	Donches (alias Donche) François	0	
 pb	118	0124	7898373
-entry	Donnat Joseph		
-entry	Donzel Benoît		
-entry	Doppet François-Amédée		
-entry	Dubois de Saint-Sigismond Claude-Joseph		
+entry	Donnat Joseph	0	
+entry	Donzel Benoît	0	
+entry	Doppet François-Amédée	0	
+entry	Dubois de Saint-Sigismond Claude-Joseph	1	
 pb	119	0125	7898374
-entry	Dubois		
-entry	Dubouloz Jean-Bapt.		
+entry	Dubois	0	
+entry	Dubouloz Jean-Bapt.	0	
 pb	120	0126	7898375
-entry	Dubouloz Jean-Bapt		
-entry	Dubouloz Joseph		
-entry	Dubois Antoine		
-entry	Duboys Louis		
-entry	Duboys Jean		
-entry	Duboys Jacques		
-entry	Duboys Nicolas		
+entry	Dubouloz Jean-Bapt	0	
+entry	Dubouloz Joseph	0	
+entry	Dubois Antoine	0	
+entry	Duboys Louis	0	
+entry	Duboys Jean	0	
+entry	Duboys Jacques	0	
+entry	Duboys Nicolas	1	
 pb	121	0127	7898376
-entry	Duc François-Marie		
-entry	Ducrest Joseph		
-entry	Ducroz		
-entry	Dufresne Pierre		
+entry	Duc François-Marie	0	
+entry	Ducrest Joseph	0	
+entry	Ducroz	0	
+entry	Dufresne Pierre	3	
 pb	122	0128	7898377
 pb	123	0129	7898378
 pb	124	0130	7898379
 pb	125	0131	7898380
-entry	Dulaurens ou Du Laurens, ou Laurent		
+entry	Dulaurens ou Du Laurens, ou Laurent	1	
 orth	Dulaurens		
 orth	Du Laurens		
 orth	Laurent		
 pb	126	0132	7898381
-entry	Dulaurens André		
-entry	Dulaurens Charles- Baptiste		
-entry	Dulaurens Richard		
-entry	Dumaz Jules 		
+entry	Dulaurens André	0	
+entry	Dulaurens Charles- Baptiste	0	
+entry	Dulaurens Richard	0	
+entry	Dumaz Jules 	1	
 pb	127	0133	7898382
 pb	128	0134	7898383
-entry	Dumaz Jules		
-entry	Dumont Etienne (alias Montanus, Montius)		
+entry	Dumaz Jules	0	
+entry	Dumont Etienne (alias Montanus, Montius)	1	
 pb	129	0135	7898384
-entry	Du Pasquier, soit Pasquier, dit Dubois		
+entry	Du Pasquier, soit Pasquier, dit Dubois	0	
 orth	Du Pasquier		
 orth	soit Pasquier		
 orth	dit Dubois		
-entry	Dupont-Vieux		
-entry	Duret		
-entry	Dussaix Jean-François-Félix		
+entry	Dupont-Vieux	0	
+entry	Duret	0	
+entry	Dussaix Jean-François-Félix	1	
 pb	130	0136	7898385
-entry	Dyonisius de Lyra (alias Lyra, alias Leris)		
-entry	Emery François		
-entry	Empereur César-Constantin		
+entry	Dyonisius de Lyra (alias Lyra, alias Leris)	0	
+entry	Emery François	0	
+entry	Empereur César-Constantin	1	
 pb	131	0137	7898386
-entry	Fabri Honoré		
-entry	Falcoz Jean-Baptiste		
-entry	Fallon (voir Fattoud)		
-entry	Fantin Jean-Louis		
+entry	Fabri Honoré	0	
+entry	Falcoz Jean-Baptiste	0	
+entry	Fallon (voir Fattoud)	0	
+entry	Fantin Jean-Louis	0	
 pb	132	0138	7898387
-entry	Fantoni Jean-Baptiste		
-entry	Fattoud François		
-entry	Fauché-Decorvey		
-entry	Favre Jean-Claude		
+entry	Fantoni Jean-Baptiste	0	
+entry	Fattoud François	0	
+entry	Fauché-Decorvey	0	
+entry	Favre Jean-Claude	1	
 pb	133	0139	7898388
-entry	Favre Jean		
-entry	Favre Hyacinthe		
-entry	Ferragus		
-entry	Ferrières (Jean de), alias: Joaninus de Feyria		
+entry	Favre Jean	0	
+entry	Favre Hyacinthe	0	
+entry	Ferragus	0	
+entry	Ferrières (Jean de), alias: Joaninus de Feyria	0	
 orth	Ferrières (Jean de)		
 orth	alias: Joaninus de Feyria		
 pb	134	0140	7898389
-entry	Feyge Joseph		
+entry	Feyge Joseph	0	
 pb	135	0141	7898390
-entry	Fleuret Louis-Philibert		
-entry	Fleury Joseph		
+entry	Fleuret Louis-Philibert	0	
+entry	Fleury Joseph	1	
 pb	136	0142	7898391
-entry	Fleury Alphonse		
-entry	Flocquet (Noble Jean-François)		
-entry	Fodéré François-Emmanuel 		
+entry	Fleury Alphonse	0	
+entry	Flocquet (Noble Jean-François)	0	
+entry	Fodéré François-Emmanuel 	0	
 pb	137	0143	7898392
-entry	Fodéré François-Emmanuel		
-entry	Fodéré, fils ainé du François		
+entry	Fodéré François-Emmanuel	0	
+entry	Fodéré, fils ainé du François	0	
 orth	Fodéré		
 orth	fils ainé du François		
-entry	Fodéré Marie-Adrien, fils cadet		
+entry	Fodéré Marie-Adrien, fils cadet	1	
 orth	Fodéré Marie-Adrien		
 orth	fils cadet		
 pb	138	0144	7898393
-entry	Fodéré Barnabé		
-entry	Fois		
-entry	Folliet Antoine		
-entry	Folliet Gaspard		
-entry	Fontaine J.		
+entry	Fodéré Barnabé	0	
+entry	Fois	0	
+entry	Folliet Antoine	0	
+entry	Folliet Gaspard	0	
+entry	Fontaine J.	1	
 pb	139	0145	7898394
-entry	Fontaine Joseph-Auguste		
-entry	Fontaine Julien		
-entry	Fontanel Joseph-François		
+entry	Fontaine Joseph-Auguste	0	
+entry	Fontaine Julien	0	
+entry	Fontanel Joseph-François	2	
 pb	140	0146	7898395
 pb	141	0147	7898396
-entry	Fontanel Adolphe		
-entry	Forestier 		
+entry	Fontanel Adolphe	0	
+entry	Forestier 	0	
 pb	142	0148	7898397
-entry	Forestier		
-entry	Forestier Auguste		
-entry	Forestier Henry		
+entry	Forestier	0	
+entry	Forestier Auguste	0	
+entry	Forestier Henry	1	
 pb	143	0149	7898398
-entry	Forno Joseph		
-entry	François Joseph-Marie-Louis-Ferdinand		
+entry	Forno Joseph	0	
+entry	François Joseph-Marie-Louis-Ferdinand	1	
 pb	144	0150	7898399
-entry	Francoz Félix-Aimé		
-entry	Frandin Charles		
-entry	Froment Michel		
-entry	Froment Etienne		
-entry	Fusier François		
+entry	Francoz Félix-Aimé	0	
+entry	Frandin Charles	0	
+entry	Froment Michel	0	
+entry	Froment Etienne	0	
+entry	Fusier François	1	
 pb	145	0151	7898400
-entry	Fusier Marie		
-entry	Gabet		
+entry	Fusier Marie	0	
+entry	Gabet	0	
 pb	146	0152	7898401
-entry	Gaillard Victor		
-entry	Gaillard Michel-Benjamin		
-entry	Gaillard César		
+entry	Gaillard Victor	0	
+entry	Gaillard Michel-Benjamin	0	
+entry	Gaillard César	1	
 pb	147	0153	7898402
-entry	Galbin (alias Galbinus, Guerbin)		
-entry	Gallais Marie-Pierre-Léopold		
+entry	Galbin (alias Galbinus, Guerbin)	0	
+entry	Gallais Marie-Pierre-Léopold	0	
 pb	148	0154	7898403
-entry	Gallet Jean-Claude		
-entry	Galley Claude		
-entry	Gallians		
-entry	Galliard Jean-Marie		
+entry	Gallet Jean-Claude	0	
+entry	Galley Claude	0	
+entry	Gallians	0	
+entry	Galliard Jean-Marie	1	
 pb	149	0155	7898404
-entry	Galiardi (alias Galiandi) Petrus		
-entry	Ganivet Jean		
-entry	Gantin Georges		
-entry	Garcin, voir Grillet		
+entry	Galiardi (alias Galiandi) Petrus	0	
+entry	Ganivet Jean	0	
+entry	Gantin Georges	0	
+entry	Garcin, voir Grillet	1	
 orth	Garcin		
 orth	voir Grillet		
 pb	150	0156	7898405
-entry	Garin Maurice		
-entry	Garin		
-entry	Garnier François		
-entry	Gasca G. 		
+entry	Garin Maurice	0	
+entry	Garin	0	
+entry	Garnier François	0	
+entry	Gasca G. 	0	
 pb	151	0157	7898406
-entry	Gasca G.		
-entry	Gascoz André		
-entry	Gascoz François		
-entry	Gassilloud François		
-entry	Gassilloud Antoine		
+entry	Gasca G.	0	
+entry	Gascoz André	0	
+entry	Gascoz François	0	
+entry	Gassilloud François	0	
+entry	Gassilloud Antoine	0	
 pb	152	0158	7898407
-entry	Gavard Hyacinthe 		
+entry	Gavard Hyacinthe 	1	
 pb	153	0159	7898408
 pb	154	0160	7898409
-entry	Gavard Hyacinthe		
-entry	Gavard Joseph Marie		
-entry	Gavard Alexandre		
-entry	Gavet Jacques		
+entry	Gavard Hyacinthe	0	
+entry	Gavard Joseph Marie	0	
+entry	Gavard Alexandre	0	
+entry	Gavet Jacques	1	
 pb	155	0161	7898410
-entry	Gavillet François-Joseph		
-entry	Gay François-Laurent		
-entry	Gay Marie-Prosper		
-entry	Genon		
-entry	Genoud Pierre-François		
+entry	Gavillet François-Joseph	0	
+entry	Gay François-Laurent	0	
+entry	Gay Marie-Prosper	0	
+entry	Genon	0	
+entry	Genoud Pierre-François	0	
 pb	156	0162	7898411
-entry	Genoud Pierre-Marie		
-entry	Geoffroy Philibert		
-entry	George Claude		
-entry	George François		
+entry	Genoud Pierre-Marie	0	
+entry	Geoffroy Philibert	0	
+entry	George Claude	0	
+entry	George François	1	
 pb	157	0163	7898412
-entry	George Hyacinthe		
-entry	Gervinus (Galbinus ? Guerbier ?)		
+entry	George Hyacinthe	0	
+entry	Gervinus (Galbinus ? Guerbier ?)	0	
 ref	Cruse		
-entry	Gex Marc-Samuel-Charles		
+entry	Gex Marc-Samuel-Charles	1	
 pb	158	0164	7898413
-entry	Gigot de Villefaigne (Jean-Nicolas)		
+entry	Gigot de Villefaigne (Jean-Nicolas)	1	
 pb	159	0165	7898414
-entry	Gilbert (Maître)		
-entry	Ginet Jacques		
-entry	Ginet Pierre		
-entry	Ginet Louis-François		
+entry	Gilbert (Maître)	0	
+entry	Ginet Jacques	0	
+entry	Ginet Pierre	0	
+entry	Ginet Louis-François	1	
 pb	160	0166	7898415
-entry	Girin Jean-François		
-entry	Girod Antoine		
-entry	Girod Etienne-Auguste		
-entry	Girod Joseph-Frédéric		
+entry	Girin Jean-François	0	
+entry	Girod Antoine	0	
+entry	Girod Etienne-Auguste	0	
+entry	Girod Joseph-Frédéric	1	
 pb	161	0167	7898416
-entry	Girod Louis		
-entry	Giroud Pierre		
-entry	Gonthier Barthélemy-Philippe		
-entry	Gordon		
-entry	Gotteland Pierre		
+entry	Girod Louis	0	
+entry	Giroud Pierre	0	
+entry	Gonthier Barthélemy-Philippe	0	
+entry	Gordon	0	
+entry	Gotteland Pierre	1	
 pb	162	0168	7898417
-entry	Gouriet		
-entry	Gouttry Claude-Joseph		
-entry	Gouvert Antoine		
+entry	Gouriet	0	
+entry	Gouttry Claude-Joseph	0	
+entry	Gouvert Antoine	2	
 pb	163	0169	7898418
 pb	164	0170	7898419
-entry	Gouviat		
-entry	Grossy François		
+entry	Gouviat	0	
+entry	Grossy François	1	
 pb	165	0171	7898420
-entry	Guilland Jean-François		
+entry	Guilland Jean-François	1	
 pb	166	0172	7898421
-entry	Guilland Jean		
-entry	Herbert François		
-entry	Hybord M.-C.		
+entry	Guilland Jean	0	
+entry	Herbert François	0	
+entry	Hybord M.-C.	1	
 pb	167	0173	7898422
-entry	Jacques, de Montcalier		
+entry	Jacques, de Montcalier	0	
 orth	Jacques		
 orth	de Montcalier		
-entry	Jean (maître Jean)		
-entry	Joegnoz Joseph-Marie		
-entry	Joyre Claude		
-entry	Juvin Jean-Antoine		
-entry	Lachat Michel		
+entry	Jean (maître Jean)	0	
+entry	Joegnoz Joseph-Marie	0	
+entry	Joyre Claude	0	
+entry	Juvin Jean-Antoine	0	
+entry	Lachat Michel	0	
 pb	168	0174	7898423
-entry	Lachenal (Werner de)		
-entry	Lachenal, d'Annecy		
+entry	Lachenal (Werner de)	0	
+entry	Lachenal, d'Annecy	0	
 orth	Lachenal		
 orth	d'Annecy		
-entry	Lacombe Joseph-Hélène		
-entry	Lacombe Anthelme		
+entry	Lacombe Joseph-Hélène	0	
+entry	Lacombe Anthelme	1	
 pb	169	0175	7898424
-entry	Laffin Jean-Frédéric		
-entry	Lagnet-Fleury Alphonse		
-entry	Lagrange Pierre		
-entry	Laissus Jean-Alexis		
-entry	Laissus Camille		
+entry	Laffin Jean-Frédéric	0	
+entry	Lagnet-Fleury Alphonse	0	
+entry	Lagrange Pierre	0	
+entry	Laissus Jean-Alexis	0	
+entry	Laissus Camille	2	
 pb	170	0176	7898425
 pb	171	0177	7898426
-entry	Lamayrolla (Me Gaspard)		
-entry	Landre Nicolas		
-entry	Laquin Michel		
-entry	Lard Jacques		
-entry	Lassalle Prosper-Antoine		
+entry	Lamayrolla (Me Gaspard)	0	
+entry	Landre Nicolas	0	
+entry	Laquin Michel	0	
+entry	Lard Jacques	0	
+entry	Lassalle Prosper-Antoine	1	
 pb	172	0178	7898427
-entry	Lathoud François-Benoît		
-entry	Lavanchy		
-entry	Léger Charles-François		
-entry	Legrand Maximin		
+entry	Lathoud François-Benoît	0	
+entry	Lavanchy	0	
+entry	Léger Charles-François	0	
+entry	Legrand Maximin	1	
 pb	173	0179	7898428
-entry	Leopardi (André de)		
-entry	L'Hopital		
-entry	Lionnet (alias Lyonnet) Robert		
+entry	Leopardi (André de)	0	
+entry	L'Hopital	0	
+entry	Lionnet (alias Lyonnet) Robert	1	
 pb	174	0180	7898429
-entry	Lobet (noble Antoine		
-entry	Lochon François		
-entry	Louis de Nice (alias de Provence) Louys Pierre		
-entry	Luppoz Jean-Jacques		
-entry	Lyonne Philibert		
+entry	Lobet (noble Antoine	0	
+entry	Lochon François	0	
+entry	Louis de Nice (alias de Provence) Louys Pierre	0	
+entry	Luppoz Jean-Jacques	0	
+entry	Lyonne Philibert	1	
 pb	175	0181	7898430
-entry	Lyonne (alias Lionne) Benoît		
-entry	Macé Charles		
+entry	Lyonne (alias Lionne) Benoît	0	
+entry	Macé Charles	1	
 pb	176	0182	7898431
-entry	Magdelain Jacques-Marie		
-entry	Magdelain Philibert		
-entry	Magnin Jean-Marie		
+entry	Magdelain Jacques-Marie	0	
+entry	Magdelain Philibert	0	
+entry	Magnin Jean-Marie	1	
 pb	177	0183	7898432
-entry	Magnin Alexis		
-entry	Magnin Thomas		
+entry	Magnin Alexis	0	
+entry	Magnin Thomas	1	
 pb	178	0184	7898433
-entry	Maigrat Pierre-Marie		
+entry	Maigrat Pierre-Marie	1	
 pb	179	0185	7898434
-entry	Mailland (Maître Barthélemy)		
-entry	Maigre Benoît-Marius-Henry		
+entry	Mailland (Maître Barthélemy)	0	
+entry	Maigre Benoît-Marius-Henry	1	
 pb	180	0186	7898435
-entry	Maitral Jacques-Charles, (alias Maitrat)		
+entry	Maitral Jacques-Charles, (alias Maitrat)	0	
 orth	Maitral Jacques-Charles		
 orth	(alias Maitrat)		
-entry	Mallian (maître Claudius de)		
-entry	Maniot		
-entry	Manassès		
-entry	Manget		
+entry	Mallian (maître Claudius de)	0	
+entry	Maniot	0	
+entry	Manassès	0	
+entry	Manget	1	
 pb	181	0187	7898436
-entry	Mansoz Georges		
-entry	Marcoz Jean-Baptiste		
+entry	Mansoz Georges	0	
+entry	Marcoz Jean-Baptiste	1	
 pb	182	0188	7898437
-entry	Marge Claude		
+entry	Marge Claude	0	
 pb	183	0189	7898438
-entry	Marin Jacques-Ambroise		
-entry	Marin Maximilien		
-entry	Marmichon		
-entry	Martel Gaspard		
-entry	Martin François		
-entry	Martin Jules-François		
-entry	Martin Joseph-Marie		
+entry	Marin Jacques-Ambroise	0	
+entry	Marin Maximilien	0	
+entry	Marmichon	0	
+entry	Martel Gaspard	0	
+entry	Martin François	0	
+entry	Martin Jules-François	0	
+entry	Martin Joseph-Marie	1	
 pb	184	0190	7898439
-entry	Martin Joseph		
-entry	Masset		
-entry	Massola Sabin-Joseph		
+entry	Martin Joseph	0	
+entry	Masset	0	
+entry	Massola Sabin-Joseph	2	
 pb	185	0191	7898440
 pb	186	0192	7898441
-entry	Massola Alphonse		
+entry	Massola Alphonse	1	
 pb	187	0193	7898442
-entry	Masson Charles-Dominique-César		
-entry	Masson Albert-Marie		
-entry	Matthey		
-entry	Mathieu (Maître)		
-entry	Mauclerc Hippolyte		
+entry	Masson Charles-Dominique-César	0	
+entry	Masson Albert-Marie	0	
+entry	Matthey	0	
+entry	Mathieu (Maître)	0	
+entry	Mauclerc Hippolyte	2	
 pb	188	0194	7898443
 pb	189	0195	7898444
-entry	Mehling		
-entry	Megaland		
-entry	Mercier François		
-entry	Merel Pierre		
-entry	Mermet		
+entry	Mehling	0	
+entry	Megaland	0	
+entry	Mercier François	0	
+entry	Merel Pierre	0	
+entry	Mermet	1	
 pb	190	0196	7898445
-entry	Mermier Pierre		
-entry	Mestrallet Jean-Baptiste		
+entry	Mermier Pierre	0	
+entry	Mestrallet Jean-Baptiste	0	
 pb	191	0197	7898446
-entry	Michaud Charles		
-entry	Michaud Jean-Clément		
+entry	Michaud Charles	0	
+entry	Michaud Jean-Clément	2	
 pb	192	0198	7898447
 pb	193	0199	7898448
-entry	Michaud Jean-Baptiste		
-entry	Michaud Joseph-Abraham		
-entry	Michaud Maurice		
-entry	Michaud …		
-entry	Michael (maître)		
+entry	Michaud Jean-Baptiste	0	
+entry	Michaud Joseph-Abraham	0	
+entry	Michaud Maurice	0	
+entry	Michaud …	0	
+entry	Michael (maître)	0	
 pb	194	0200	7898449
-entry	Michel Jean-Baptiste		
-entry	Michel		
-entry	Michon Jean-Alexandre		
-entry	Milliard Claude		
-entry	Millias		
-entry	Million Prosper-Gabriel		
+entry	Michel Jean-Baptiste	0	
+entry	Michel	0	
+entry	Michon Jean-Alexandre	0	
+entry	Milliard Claude	0	
+entry	Millias	0	
+entry	Million Prosper-Gabriel	1	
 pb	195	0201	7898450
-entry	Million Gabriel-Alexandre		
-entry	Million Jean-Pierre		
-entry	Millioz Humbert		
+entry	Million Gabriel-Alexandre	0	
+entry	Million Jean-Pierre	0	
+entry	Millioz Humbert	2	
 pb	196	0202	7898451
 pb	197	0203	7898452
-entry	Miramond		
-entry	Moiroux		
-entry	Monroë Marie-Charles-Françopis		
+entry	Miramond	0	
+entry	Moiroux	0	
+entry	Monroë Marie-Charles-Françopis	1	
 pb	198	0204	7898453
-entry	Mollard Léon		
-entry	Mollard Charles-Louis		
+entry	Mollard Léon	0	
+entry	Mollard Charles-Louis	1	
 pb	199	0205	7898454
-entry	Mollard Pierre		
-entry	Molioz Jean-Dominique-Marie		
-entry	Monard Jean		
+entry	Mollard Pierre	0	
+entry	Molioz Jean-Dominique-Marie	0	
+entry	Monard Jean	1	
 pb	200	0206	7898455
-entry	Monnet Laurent		
-entry	Mons Etienne (Montius)		
-entry	Mons Jérôme		
+entry	Monnet Laurent	0	
+entry	Mons Etienne (Montius)	0	
+entry	Mons Jérôme	2	
 pb	201	0207	7898456
 pb	202	0208	7898457
-entry	Montagni Hyacinthe		
-entry	Montfalcon Louis-Apollonie		
-entry	Montgellaz Pierre-Joseph		
+entry	Montagni Hyacinthe	0	
+entry	Montfalcon Louis-Apollonie	0	
+entry	Montgellaz Pierre-Joseph	1	
 pb	203	0209	7898458
-entry	Montgellaz Joseph		
+entry	Montgellaz Joseph	1	
 pb	204	0210	7898459
-entry	Monthoux		
-entry	Morard Ignace		
-entry	Moret Joseph-Etienne-Hyppolyte		
-entry	Moret Louis		
-entry	Mottard Antoine		
+entry	Monthoux	0	
+entry	Morard Ignace	0	
+entry	Moret Joseph-Etienne-Hyppolyte	0	
+entry	Moret Louis	0	
+entry	Mottard Antoine	1	
 pb	205	0211	7898460
-entry	Mouthon Joseph-Marie		
-entry	Moyettaz Eugène		
-entry	Mugnier Claude		
-entry	Mugnier Claude-Eugène		
+entry	Mouthon Joseph-Marie	0	
+entry	Moyettaz Eugène	0	
+entry	Mugnier Claude	0	
+entry	Mugnier Claude-Eugène	1	
 pb	206	0212	7898461
-entry	Muratore Antoine		
-entry	Naussac Hyacinthe-Charles-Emmanuel		
-entry	Neyret Jean-Claude		
+entry	Muratore Antoine	0	
+entry	Naussac Hyacinthe-Charles-Emmanuel	0	
+entry	Neyret Jean-Claude	1	
 pb	207	0213	7898462
-entry	Neyret Victor-François		
-entry	Neyrod Louis		
-entry	Noel Claude-Marie		
-entry	Noel (autre)		
+entry	Neyret Victor-François	0	
+entry	Neyrod Louis	0	
+entry	Noel Claude-Marie	0	
+entry	Noel (autre)	1	
 pb	208	0214	7898463
-entry	Novel (dit Catin)		
-entry	Nycolas		
-entry	Obriot (dit La Palme)		
-entry	Origan (allias Oregan)		
-entry	Orsat Claude		
-entry	Paccard Michel-Gabriel		
+entry	Novel (dit Catin)	0	
+entry	Nycolas	0	
+entry	Obriot (dit La Palme)	0	
+entry	Origan (allias Oregan)	0	
+entry	Orsat Claude	0	
+entry	Paccard Michel-Gabriel	1	
 pb	209	0215	7898464
-entry	Pacotte François		
-entry	Paget Antoine-Marie		
-entry	Palmerins		
+entry	Pacotte François	0	
+entry	Paget Antoine-Marie	0	
+entry	Palmerins	1	
 pb	210	0216	7898465
-entry	Pannerin		
-entry	Panthot Jean-Baptiste		
-entry	Panvin Amédée		
-entry	Parpaglianus, Parpalian Michel		
+entry	Pannerin	0	
+entry	Panthot Jean-Baptiste	0	
+entry	Panvin Amédée	0	
+entry	Parpaglianus, Parpalian Michel	0	
 orth	Parpaglianus		
 orth	Parpalian Michel		
-entry	Parpalian Bernardin		
-entry	Pascal Hugues		
+entry	Parpalian Bernardin	0	
+entry	Pascal Hugues	0	
 pb	211	0217	7898466
-entry	Pascal François-Guillaume		
-entry	Pascal A.		
-entry	Pasteur		
-entry	Payot Joseph-Marie		
-entry	Payot …		
-entry	Pelletier Jacques		
+entry	Pascal François-Guillaume	0	
+entry	Pascal A.	0	
+entry	Pasteur	0	
+entry	Payot Joseph-Marie	0	
+entry	Payot …	0	
+entry	Pelletier Jacques	1	
 pb	212	0218	7898467
-entry	Pellissier (alias Pellicier)		
-entry	Pelloux Pierre-Joseph		
-entry	Pelloux Joseph-François		
-entry	Pelloux Thomas		
-entry	Perraud ou Perrand		
+entry	Pellissier (alias Pellicier)	0	
+entry	Pelloux Pierre-Joseph	0	
+entry	Pelloux Joseph-François	0	
+entry	Pelloux Thomas	0	
+entry	Perraud ou Perrand	0	
 orth	Perraud		
 orth	Perrand		
-entry	Perret Jean-Jacques		
+entry	Perret Jean-Jacques	1	
 pb	213	0219	7898468
-entry	Perret C.-François		
-entry	Perret Eugène		
-entry	Perrier Pierre-Marie-François		
+entry	Perret C.-François	0	
+entry	Perret Eugène	0	
+entry	Perrier Pierre-Marie-François	1	
 pb	214	0220	7898469
-entry	Perrier, médecin à Albertville		
+entry	Perrier, médecin à Albertville	0	
 orth	Perrier		
 orth	médecin à Albertville		
-entry	Perissin François		
-entry	Perissoud Jean-Marie		
-entry	Perollaz Marie		
-entry	Perrotin Alphonse		
-entry	Perrotino		
-entry	Perroux Jacques		
+entry	Perissin François	0	
+entry	Perissoud Jean-Marie	0	
+entry	Perollaz Marie	0	
+entry	Perrotin Alphonse	0	
+entry	Perrotino	0	
+entry	Perroux Jacques	1	
 pb	215	0221	7898470
-entry	Péthellaz Angel-Baltazard-François-Joseph		
-entry	Petit Alix		
-entry	Petit Maurice		
-entry	Petit Joseph 		
+entry	Péthellaz Angel-Baltazard-François-Joseph	0	
+entry	Petit Alix	0	
+entry	Petit Maurice	0	
+entry	Petit Joseph 	0	
 pb	216	0222	7898471
-entry	Petit Joseph		
-entry	Petit Laurent		
-entry	Petit Joseph, de Tresserve		
+entry	Petit Joseph	0	
+entry	Petit Laurent	0	
+entry	Petit Joseph, de Tresserve	0	
 orth	Petit Joseph		
 orth	de Tresserve		
-entry	Petit Eugène		
-entry	Petitjean Joseph-François		
-entry	Petrus de Albiaco		
-entry	Petroz Cl.-Henri		
-entry	Petroz Antoine-Pierre		
+entry	Petit Eugène	0	
+entry	Petitjean Joseph-François	0	
+entry	Petrus de Albiaco	0	
+entry	Petroz Cl.-Henri	0	
+entry	Petroz Antoine-Pierre	0	
 pb	217	0223	7898472
-entry	Petroz Antoine		
-entry	Peysson		
-entry	Peytavin Joseph-Emile		
-entry	Philbert E.		
-entry	Piaget		
-entry	Pichat Bruno		
+entry	Petroz Antoine	0	
+entry	Peysson	0	
+entry	Peytavin Joseph-Emile	0	
+entry	Philbert E.	0	
+entry	Piaget	0	
+entry	Pichat Bruno	0	
 pb	218	0224	7898473
-entry	Pichat Jacques		
-entry	Pichenot		
-entry	Pichollet Claude-François		
-entry	Pichollet Jean-Pierre		
-entry	Pichon Guillaume		
-entry	Pierre (maître)		
-entry	Pierre		
+entry	Pichat Jacques	0	
+entry	Pichenot	0	
+entry	Pichollet Claude-François	0	
+entry	Pichollet Jean-Pierre	0	
+entry	Pichon Guillaume	0	
+entry	Pierre (maître)	0	
+entry	Pierre	1	
 pb	219	0225	7898474
-entry	Pierre de Macon		
-entry	Pierre de l'Hôpital		
-entry	Pignal Jean-Louis		
-entry	Pignal Gustave		
-entry	Pillet Amédée		
-entry	Pinget Xavier		
-entry	Pinget Joseph		
+entry	Pierre de Macon	0	
+entry	Pierre de l'Hôpital	0	
+entry	Pignal Jean-Louis	0	
+entry	Pignal Gustave	0	
+entry	Pillet Amédée	0	
+entry	Pinget Xavier	0	
+entry	Pinget Joseph	1	
 pb	220	0226	7898475
-entry	Piollet Pierre		
-entry	Piot Charles-Jules-François		
-entry	Pissard Joseph-Marie		
-entry	Planchamp Claude-François		
-entry	Pocquel		
-entry	Pomei ou Pomey (noble Jean-Pierre)		
+entry	Piollet Pierre	0	
+entry	Piot Charles-Jules-François	0	
+entry	Pissard Joseph-Marie	0	
+entry	Planchamp Claude-François	0	
+entry	Pocquel	0	
+entry	Pomei ou Pomey (noble Jean-Pierre)	0	
 orth	Pomei		
 orth	Pomey (noble Jean-Pierre)		
-entry	Pomey 		
+entry	Pomey 	0	
 pb	221	0227	7898476
-entry	Pomey		
-entry	Ponet (alias Poncet)		
-entry	Ponticelli (Dom Sylvestre comte de)		
-entry	Ponsard Félix		
-entry	Portay Jean-François		
-entry	Porte Jean-Charles		
-entry	Potot Pierre		
-entry	Poulet Pierre		
+entry	Pomey	0	
+entry	Ponet (alias Poncet)	0	
+entry	Ponticelli (Dom Sylvestre comte de)	0	
+entry	Ponsard Félix	0	
+entry	Portay Jean-François	0	
+entry	Porte Jean-Charles	0	
+entry	Potot Pierre	0	
+entry	Poulet Pierre	1	
 pb	222	0228	7898477
-entry	Prallet		
-entry	Prallet Hippolyte		
-entry	Prallet Laurent		
-entry	Prémaz Laurent		
-entry	Prévost		
-entry	Probel Jean-Pierre		
-entry	Provence Michel		
-entry	Puget (Antoine de)		
-entry	Puget Jean-Marie		
+entry	Prallet	0	
+entry	Prallet Hippolyte	0	
+entry	Prallet Laurent	0	
+entry	Prémaz Laurent	0	
+entry	Prévost	0	
+entry	Probel Jean-Pierre	0	
+entry	Provence Michel	0	
+entry	Puget (Antoine de)	0	
+entry	Puget Jean-Marie	1	
 pb	223	0229	7898478
-entry	Pugin Charles		
-entry	Puitz (Barthélemy du)		
-entry	Quoëx (Me Claude de) Quoëx (Nicolas de)		
+entry	Pugin Charles	0	
+entry	Puitz (Barthélemy du)	0	
+entry	Quoëx (Me Claude de) Quoëx (Nicolas de)	0	
 pb	224	0230	7898479
-entry	Quoëx (Noble Jean de) Quétand Marius-François		
-entry	Quindet Jean-Baptiste		
-entry	Rabut Jean-Jacques-Toussaint		
+entry	Quoëx (Noble Jean de) Quétand Marius-François	0	
+entry	Quindet Jean-Baptiste	0	
+entry	Rabut Jean-Jacques-Toussaint	1	
 pb	225	0231	7898480
-entry	Ract Georges		
-entry	Rafford Victor		
-entry	Ramel 		
+entry	Ract Georges	0	
+entry	Rafford Victor	0	
+entry	Ramel 	0	
 pb	226	0232	7898481
-entry	Rannaud Pierre-André		
-entry	Raoul		
-entry	Ratel Mathieu		
-entry	Remonet François		
-entry	Renand Gabriel		
-entry	Rendu		
-entry	Revel Etienne-Edouard		
+entry	Rannaud Pierre-André	0	
+entry	Raoul	0	
+entry	Ratel Mathieu	0	
+entry	Remonet François	0	
+entry	Renand Gabriel	0	
+entry	Rendu	0	
+entry	Revel Etienne-Edouard	1	
 pb	227	0233	7898482
-entry	Revel Edouard		
-entry	Rey Joseph-Robert		
-entry	Rey Aimé-Thérèse		
+entry	Revel Edouard	0	
+entry	Rey Joseph-Robert	0	
+entry	Rey Aimé-Thérèse	1	
 pb	228	0234	7898483
-entry	Rey Ennemond		
-entry	Rey François		
-entry	Reymond Charles		
-entry	Reymond Claude-Marie		
-entry	Reymond Maxime		
-entry	Richard Jean		
-entry	Richard Jean-Baptiste		
-entry	Richard Jean-Pierre		
-entry	Rieux Jean-Jacques-Germain		
+entry	Rey Ennemond	0	
+entry	Rey François	0	
+entry	Reymond Charles	0	
+entry	Reymond Claude-Marie	0	
+entry	Reymond Maxime	0	
+entry	Richard Jean	0	
+entry	Richard Jean-Baptiste	0	
+entry	Richard Jean-Pierre	0	
+entry	Rieux Jean-Jacques-Germain	1	
 pb	229	0235	7898484
-entry	Rieux Léon		
-entry	Ringuet Albert-Eugène		
-entry	Riondet		
-entry	Ritaud		
-entry	Rivod		
-entry	Rivollet Maurice		
-entry	Robert Alexis		
-entry	Rochette Joseph-Louis		
+entry	Rieux Léon	0	
+entry	Ringuet Albert-Eugène	0	
+entry	Riondet	0	
+entry	Ritaud	0	
+entry	Rivod	0	
+entry	Rivollet Maurice	0	
+entry	Robert Alexis	0	
+entry	Rochette Joseph-Louis	1	
 pb	230	0236	7898485
-entry	Roë (Me Roë, Monroë dit Roë)		
-entry	Rogès Jean-Charles		
-entry	Rogès Jean-Claude		
-entry	Rogès Jean-Baptiste		
-entry	Rogier de Beaufort 		
+entry	Roë (Me Roë, Monroë dit Roë)	0	
+entry	Rogès Jean-Charles	0	
+entry	Rogès Jean-Claude	0	
+entry	Rogès Jean-Baptiste	0	
+entry	Rogier de Beaufort 	0	
 pb	231	0237	7898486
-entry	Rohel		
-entry	Ronia Pierre		
-entry	Rophile François		
-entry	Rosset Nicolas		
-entry	Rosset Joseph-Marie-François		
+entry	Rohel	0	
+entry	Ronia Pierre	0	
+entry	Rophile François	0	
+entry	Rosset Nicolas	0	
+entry	Rosset Joseph-Marie-François	1	
 pb	232	0238	7898487
-entry	Rosset Amédée		
-entry	Rosset Léon		
-entry	Rossi (alias Roux)		
-entry	Rostaing Jean-François		
-entry	Rouhault Pierre-Simond		
+entry	Rosset Amédée	0	
+entry	Rosset Léon	0	
+entry	Rossi (alias Roux)	0	
+entry	Rostaing Jean-François	0	
+entry	Rouhault Pierre-Simond	1	
 pb	233	0239	7898488
-entry	Rouph		
-entry	Roussel		
-entry	Rousset François		
-entry	Roux Louis		
-entry	Roux Jules-Amédée		
+entry	Rouph	0	
+entry	Roussel	0	
+entry	Rousset François	0	
+entry	Roux Louis	0	
+entry	Roux Jules-Amédée	1	
 pb	234	0240	7898489
-entry	Rubin Claude		
-entry	Ruffier		
-entry	Rullier Pierre-Fortuné		
-entry	Saffon Guillaume		
-entry	Salomon		
-entry	Sallavuard		
-entry	Salomon Jean-Baptiste		
+entry	Rubin Claude	0	
+entry	Ruffier	0	
+entry	Rullier Pierre-Fortuné	0	
+entry	Saffon Guillaume	0	
+entry	Salomon	0	
+entry	Sallavuard	0	
+entry	Salomon Jean-Baptiste	0	
 pb	235	0241	7898490
-entry	Salomon Joachim-Laurent-Thomas		
-entry	Salomon Mathieu		
-entry	Salteur Geoffroy		
-entry	Saluce Claude		
-entry	Salvy-Le-Grifoul		
-entry	Sanson maître)		
-entry	Sandouville Albert		
+entry	Salomon Joachim-Laurent-Thomas	0	
+entry	Salomon Mathieu	0	
+entry	Salteur Geoffroy	0	
+entry	Saluce Claude	0	
+entry	Salvy-Le-Grifoul	0	
+entry	Sanson maître)	0	
+entry	Sandouville Albert	0	
 pb	236	0242	7898491
-entry	Sauthier		
-entry	Sauthier Jean-Marie		
-entry	Savigny Pierre-Alexandre		
-entry	Savoye Antoine		
-entry	Savoyen Louis		
-entry	Schayne Balthazard		
-entry	Sécretan		
-entry	Seigle François-Joseph		
+entry	Sauthier	0	
+entry	Sauthier Jean-Marie	0	
+entry	Savigny Pierre-Alexandre	0	
+entry	Savoye Antoine	0	
+entry	Savoyen Louis	0	
+entry	Schayne Balthazard	0	
+entry	Sécretan	0	
+entry	Seigle François-Joseph	1	
 pb	237	0243	7898492
-entry	Sestier Hyacinthe		
-entry	Sevez Auguste		
-entry	Sibilat ou Sibillat Anthelme		
+entry	Sestier Hyacinthe	0	
+entry	Sevez Auguste	0	
+entry	Sibilat ou Sibillat Anthelme	0	
 orth	Sibilat		
 orth	Sibillat Anthelme		
-entry	Silva Louis		
-entry	Simon François		
-entry	Socquet Joseph-Marie		
+entry	Silva Louis	0	
+entry	Simon François	0	
+entry	Socquet Joseph-Marie	1	
 pb	238	0244	7898493
-entry	Socquet Jean-Antoine		
+entry	Socquet Jean-Antoine	0	
 pb	239	0245	7898494
-entry	Soignon Girard		
-entry	Songeon Joseph-Marie		
-entry	Sonnet Gabriel		
-entry	Sourdet Jules 		
+entry	Soignon Girard	0	
+entry	Songeon Joseph-Marie	0	
+entry	Sonnet Gabriel	0	
+entry	Sourdet Jules 	0	
 pb	240	0246	7898495
-entry	Sourdet Jules		
-entry	Suarès		
-entry	Suchard Jean-Marie		
-entry	Sylvoz Joseph-Philippe		
-entry	Taberlet François		
-entry	Taberlet Jean-François		
-entry	Tardy		
+entry	Sourdet Jules	0	
+entry	Suarès	0	
+entry	Suchard Jean-Marie	0	
+entry	Sylvoz Joseph-Philippe	0	
+entry	Taberlet François	0	
+entry	Taberlet Jean-François	0	
+entry	Tardy	0	
 pb	241	0247	7898496
-entry	Tardy François-Lazare dit Zaret		
-entry	Tardy Lazare		
-entry	Tavernier Franç.-Joseph		
-entry	Teixeira		
-entry	Templa		
-entry	Ternerier Denis		
+entry	Tardy François-Lazare dit Zaret	0	
+entry	Tardy Lazare	0	
+entry	Tavernier Franç.-Joseph	0	
+entry	Teixeira	0	
+entry	Templa	0	
+entry	Ternerier Denis	0	
 pb	242	0248	7898497
-entry	Terrier François		
-entry	Terrier Louis-Nicolas		
-entry	Tessier		
-entry	Thevenet Pierre-Marie		
-entry	Thevenot (alias Thevenod) Jules-François-Félix		
-entry	Thevenot Jean-Louis		
+entry	Terrier François	0	
+entry	Terrier Louis-Nicolas	0	
+entry	Tessier	0	
+entry	Thevenet Pierre-Marie	0	
+entry	Thevenot (alias Thevenod) Jules-François-Félix	0	
+entry	Thevenot Jean-Louis	1	
 pb	243	0249	7898498
-entry	Thiébaud Charles-Antoine		
-entry	Thiébaud Charles-François		
-entry	Thiébaud Charles-Gabriel		
-entry	Thomas		
-entry	Thonion Bernard		
+entry	Thiébaud Charles-Antoine	0	
+entry	Thiébaud Charles-François	0	
+entry	Thiébaud Charles-Gabriel	0	
+entry	Thomas	0	
+entry	Thonion Bernard	0	
 pb	244	0250	7898499
-entry	Tiollier Joseph		
-entry	Tivat Joseph-François		
-entry	Tissot		
-entry	Tissot Joseph		
-entry	Tissot Jean		
-entry	Tournier Antoine		
-entry	Travers Philippe		
+entry	Tiollier Joseph	0	
+entry	Tivat Joseph-François	0	
+entry	Tissot	0	
+entry	Tissot Joseph	0	
+entry	Tissot Jean	0	
+entry	Tournier Antoine	0	
+entry	Travers Philippe	1	
 pb	245	0251	7898500
-entry	Trelat Ulysse		
-entry	Tremey Jean-Pierre		
-entry	Trépied Jean-Baptiste		
-entry	Trésal Jean-Baptiste		
+entry	Trelat Ulysse	0	
+entry	Tremey Jean-Pierre	0	
+entry	Trépied Jean-Baptiste	0	
+entry	Trésal Jean-Baptiste	1	
 pb	246	0252	7898501
-entry	Trésal Alexandre		
-entry	Trombenat Jean		
-entry	Trouillet Thomas		
-entry	Truchet Victor-Félix		
-entry	Truffaz Joseph-Marie		
-entry	Turinaz Humbert		
-entry	Turinaz Jean-Joseph		
-entry	Turinaz Alfred		
+entry	Trésal Alexandre	0	
+entry	Trombenat Jean	0	
+entry	Trouillet Thomas	0	
+entry	Truchet Victor-Félix	0	
+entry	Truffaz Joseph-Marie	0	
+entry	Turinaz Humbert	0	
+entry	Turinaz Jean-Joseph	0	
+entry	Turinaz Alfred	0	
 pb	247	0253	7898502
-entry	Ulliel Philibert		
-entry	Usannaz Maurice		
-entry	Vallet		
-entry	Valliend		
-entry	Vandiol François		
-entry	Vandiol René		
+entry	Ulliel Philibert	0	
+entry	Usannaz Maurice	0	
+entry	Vallet	0	
+entry	Valliend	0	
+entry	Vandiol François	0	
+entry	Vandiol René	0	
 pb	248	0254	7898503
-entry	Vasta		
-entry	Vauduc Jean-Jacques		
-entry	Vaudey		
-entry	Vaullet François		
-entry	Vauthier Pierre-Achille		
-entry	Vège (alias Véigié) (noble Pierre de)		
+entry	Vasta	0	
+entry	Vauduc Jean-Jacques	0	
+entry	Vaudey	0	
+entry	Vaullet François	0	
+entry	Vauthier Pierre-Achille	0	
+entry	Vège (alias Véigié) (noble Pierre de)	1	
 pb	249	0255	7898504
-entry	Verine Jean-Baptiste		
-entry	Verrutis (Michel de)		
-entry	Vespre Jean		
-entry	Veuillet de Vulliet François		
-entry	Verna (alias Vernat)		
-entry	Veyrat		
-entry	Veyrat Jean-Pierre		
+entry	Verine Jean-Baptiste	0	
+entry	Verrutis (Michel de)	0	
+entry	Vespre Jean	0	
+entry	Veuillet de Vulliet François	0	
+entry	Verna (alias Vernat)	0	
+entry	Veyrat	0	
+entry	Veyrat Jean-Pierre	0	
 pb	250	0256	7898505
-entry	Veyrat Auguste-Emile		
-entry	Viallet Louis		
-entry	Viaud (alias Vian), Pierre-François		
+entry	Veyrat Auguste-Emile	0	
+entry	Viallet Louis	0	
+entry	Viaud (alias Vian), Pierre-François	0	
 orth	Viaud (alias Vian)		
 orth	Pierre-François		
-entry	Vidal François		
-entry	Vidal Georges		
+entry	Vidal François	0	
+entry	Vidal Georges	0	
 pb	251	0257	7898506
-entry	Vidirné ou Virginé		
+entry	Vidirné ou Virginé	1	
 orth	Vidirné		
 orth	Virginé		
 pb	252	0258	7898507
-entry	Vieillard François-Marie		
-entry	Vieillard Jean-Baptiste		
-entry	Vignet Claude		
+entry	Vieillard François-Marie	0	
+entry	Vieillard Jean-Baptiste	0	
+entry	Vignet Claude	1	
 pb	253	0259	7898508
-entry	Vignon		
-entry	Villard (alias Villars)		
-entry	Vinay		
-entry	Voisin Benoît		
+entry	Vignon	0	
+entry	Villard (alias Villars)	0	
+entry	Vinay	0	
+entry	Voisin Benoît	4	
 pb	254	0260	7898509
 pb	255	0261	7898510
 pb	256	0262	7898511
 pb	257	0263	7898512
-entry	Voutier Joseph		
+entry	Voutier Joseph	0	
 pb	258	0264	7898513
-entry	Vouttier François		
-entry	Vulliel François		
-entry	Vulliet (voir Caffe)		
-entry	Vulliez Louis		
-entry	Werner de Lachenal (voy. Lachenal)		
-entry	Isaac (Jacot)		
+entry	Vouttier François	0	
+entry	Vulliel François	0	
+entry	Vulliet (voir Caffe)	0	
+entry	Vulliez Louis	0	
+entry	Werner de Lachenal (voy. Lachenal)	0	
+entry	Isaac (Jacot)	0	
 pb	259	0265	7898514
-entry	[Index]		
+entry	[Index]	0	
 pb	260	0266	7898515
 pb	261	0267	7898516
 pb	262	0268	7898517
 pb	263	0269	7898518
-entry	Errata et Addenda		
+entry	Errata et Addenda	0	
 orth	Errata		
 orth	Addenda		
 pb	264	0270	7898519
@@ -1183,8 +1183,8 @@ pb	pb	0273	7898522
 pb	pb	0274	7898523
 pb	pb	0275	7898524
 pb	sn	0276	7898525
-entry	[Page de garde]		
+entry	[Page de garde]	0	
 pb	sn	0277	7898526
-entry	[Contreplat]		
+entry	[Contreplat]	0	
 pb	sn	0278	7898527
-entry	[Plat]		
+entry	[Plat]	0	

@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	4811108
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4811109
 pb	[s. pag.]	0003	4811110
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4811111
 pb	1	0005	4811112
-entry	Encéphalique		
-entry	Encéphalite [Georget]		
+entry	Encéphalique	0	
+entry	Encéphalite [Georget]	49	
 orth	Encéphalite		
 pb	2	0006	4811113
 pb	3	0007	4811114
@@ -57,7 +57,7 @@ pb	47	0051	4811158
 pb	48	0052	4811159
 pb	49	0053	4811160
 pb	50	0054	4811161
-entry	Encéphalocèle [Jules Cloquet]		
+entry	Encéphalocèle [Jules Cloquet]	7	
 orth	Encéphalocèle		
 pb	51	0055	4811162
 pb	52	0056	4811163
@@ -66,11 +66,11 @@ pb	54	0058	4811165
 pb	55	0059	4811166
 pb	56	0060	4811167
 pb	57	0061	4811168
-entry	Encéphaloïde [G. Breschet]		
+entry	Encéphaloïde [G. Breschet]	0	
 orth	Encéphaloïde		
-entry	Enchifrènement		
+entry	Enchifrènement	0	
 pb	58	0062	4811169
-entry	Enclavement [Desormeaux]		
+entry	Enclavement [Desormeaux]	8	
 orth	Enclavement		
 pb	59	0063	4811170
 pb	60	0064	4811171
@@ -80,9 +80,9 @@ pb	63	0067	4811174
 pb	64	0068	4811175
 pb	65	0069	4811176
 pb	66	0070	4811177
-entry	Enclume [A. Béclard]		
+entry	Enclume [A. Béclard]	0	
 orth	Enclume		
-entry	Endémique [G. Ferrus]		
+entry	Endémique [G. Ferrus]	9	
 orth	Endémique		
 pb	67	0071	4811178
 pb	68	0072	4811179
@@ -93,13 +93,13 @@ pb	72	0076	4811183
 pb	73	0077	4811184
 pb	74	0078	4811185
 pb	75	0079	4811186
-entry	Endurcissement		
-entry	Énéorême		
-entry	Énervation		
+entry	Endurcissement	0	
+entry	Énéorême	0	
+entry	Énervation	0	
 pb	76	0080	4811187
-entry	Enfance [Rullier]		
+entry	Enfance [Rullier]	0	
 orth	Enfance		
-entry	Enfant (hygiène) [L. Rostan, Guersent]		
+entry	Enfant (hygiène) [L. Rostan, Guersent]	29	
 orth	Enfant (hygiène)		
 pb	77	0081	4811188
 pb	78	0082	4811189
@@ -130,38 +130,38 @@ pb	102	0106	4811213
 pb	103	0107	4811214
 pb	104	0108	4811215
 pb	105	0109	4811216
-entry	Enfantement [Desormeaux]		
+entry	Enfantement [Desormeaux]	0	
 orth	Enfantement		
-entry	Enflure		
-entry	Engastrimysme [Rullier]		
+entry	Enflure	0	
+entry	Engastrimysme [Rullier]	4	
 orth	Engastrimysme		
 pb	106	0110	4811217
 pb	107	0111	4811218
 pb	108	0112	4811219
 pb	109	0113	4811220
-entry	Engelure [Marjolin]		
+entry	Engelure [Marjolin]	2	
 orth	Engelure		
 pb	110	0114	4811221
 pb	111	0115	4811222
-entry	Enghien (les bains) [Guersent]		
+entry	Enghien (les bains) [Guersent]	1	
 orth	Enghien (les bains)		
 pb	112	0116	4811223
 pb	113	0117	4811224
-entry	Engorgement [Raige Delorme]		
+entry	Engorgement [Raige Delorme]	0	
 orth	Engorgement		
-entry	Engouement [Raige Delorme]		
+entry	Engouement [Raige Delorme]	0	
 orth	Engouement		
-entry	Engourdissement [Raige Delorme]		
+entry	Engourdissement [Raige Delorme]	1	
 orth	Engourdissement		
 pb	114	0118	4811225
-entry	Engrenure [A. Béclard]		
+entry	Engrenure [A. Béclard]	0	
 orth	Engrenure		
-entry	Enkysté		
-entry	Enrouement		
-entry	Ensiforme [A. Béclard]		
+entry	Enkysté	0	
+entry	Enrouement	0	
+entry	Ensiforme [A. Béclard]	0	
 orth	Ensiforme		
-entry	Entaille		
-entry	Entérite [Chomel]		
+entry	Entaille	0	
+entry	Entérite [Chomel]	7	
 orth	Entérite		
 pb	115	0119	4811226
 pb	116	0120	4811227
@@ -170,35 +170,35 @@ pb	118	0122	4811229
 pb	119	0123	4811230
 pb	120	0124	4811231
 pb	121	0125	4811232
-entry	Entérocèle		
-entry	Entéro-cystocèle		
-entry	Entéro-épiplocèle		
-entry	Entéro-épiplomphale		
-entry	Entéro-hydrocèle		
-entry	Entéro-hydromphale		
-entry	Entéro-ischiocèle		
-entry	Entéro-mérocèle		
-entry	Entéro-mésentérique [Coutanceau]		
+entry	Entérocèle	0	
+entry	Entéro-cystocèle	0	
+entry	Entéro-épiplocèle	0	
+entry	Entéro-épiplomphale	0	
+entry	Entéro-hydrocèle	0	
+entry	Entéro-hydromphale	0	
+entry	Entéro-ischiocèle	0	
+entry	Entéro-mérocèle	0	
+entry	Entéro-mésentérique [Coutanceau]	4	
 orth	Entéro-mésentérique		
 pb	122	0126	4811233
 pb	123	0127	4811234
 pb	124	0128	4811235
 pb	125	0129	4811236
-entry	Entéro-mésentérite		
-entry	Entéromphale		
-entry	Entéroraphie		
-entry	Entéro-sarcocèle		
+entry	Entéro-mésentérite	0	
+entry	Entéromphale	0	
+entry	Entéroraphie	0	
+entry	Entéro-sarcocèle	1	
 pb	126	0130	4811237
-entry	Entéroschéocèle		
-entry	Entérotome [Murat]		
+entry	Entéroschéocèle	0	
+entry	Entérotome [Murat]	1	
 orth	Entérotome		
 pb	127	0131	4811238
 pb	128	0132	4811239
-entry	Entérotomie [Jules Cloquet]		
+entry	Entérotomie [Jules Cloquet]	0	
 orth	Entérotomie		
-entry	Entonnoir [A. Béclard]		
+entry	Entonnoir [A. Béclard]	0	
 orth	Entonnoir		
-entry	Entorse [Jules Cloquet]		
+entry	Entorse [Jules Cloquet]	7	
 orth	Entorse		
 pb	129	0133	4811240
 pb	130	0134	4811241
@@ -207,16 +207,16 @@ pb	132	0136	4811243
 pb	133	0137	4811244
 pb	134	0138	4811245
 pb	135	0139	4811246
-entry	Entozoaires [Hippol. Cloquet]		
+entry	Entozoaires [Hippol. Cloquet]	0	
 orth	Entozoaires		
-entry	Entrailles		
-entry	Entropion [Jules Cloquet]		
+entry	Entrailles	0	
+entry	Entropion [Jules Cloquet]	0	
 orth	Entropion		
 pb	136	0140	4811247
-entry	Énurésie		
-entry	Envie [P. Rayer]		
+entry	Énurésie	0	
+entry	Envie [P. Rayer]	0	
 orth	Envie		
-entry	Épanchement [Murat]		
+entry	Épanchement [Murat]	29	
 orth	Épanchement		
 pb	137	0141	4811248
 pb	138	0142	4811249
@@ -247,7 +247,7 @@ pb	162	0166	4811273
 pb	163	0167	4811274
 pb	164	0168	4811275
 pb	165	0169	4811276
-entry	Épaule [A. Béclard]		
+entry	Épaule [A. Béclard]	10	
 orth	Épaule		
 pb	166	0170	4811277
 pb	167	0171	4811278
@@ -259,35 +259,35 @@ pb	172	0176	4811283
 pb	173	0177	4811284
 pb	174	0178	4811285
 pb	175	0179	4811286
-entry	Épervier		
-entry	Éphèbe		
-entry	Éphélide [P. Rayer]		
+entry	Épervier	0	
+entry	Éphèbe	0	
+entry	Éphélide [P. Rayer]	5	
 orth	Éphélide		
 pb	176	0180	4811287
 pb	177	0181	4811288
 pb	178	0182	4811289
 pb	179	0183	4811290
 pb	180	0184	4811291
-entry	Éphémère		
-entry	Éphidrose [P. Rayer]		
+entry	Éphémère	0	
+entry	Éphidrose [P. Rayer]	1	
 orth	Éphidrose		
 pb	181	0185	4811292
-entry	Épi [Murat]		
+entry	Épi [Murat]	2	
 orth	Épi		
 pb	182	0186	4811293
 pb	183	0187	4811294
-entry	Épial		
-entry	Épicarpe [Raige Delorme]		
+entry	Épial	0	
+entry	Épicarpe [Raige Delorme]	1	
 orth	Épicarpe		
 pb	184	0188	4811295
-entry	Épichorion		
-entry	Épicondyle		
-entry	Épicrâne [A. Béclard]		
+entry	Épichorion	0	
+entry	Épicondyle	0	
+entry	Épicrâne [A. Béclard]	0	
 orth	Épicrâne		
-entry	Épicrânien [Hippol. Cloquet]		
+entry	Épicrânien [Hippol. Cloquet]	0	
 orth	Épicrânien		
 pb	185	0189	4811296
-entry	Épidémie [G. Ferrus]		
+entry	Épidémie [G. Ferrus]	17	
 orth	Épidémie		
 pb	186	0190	4811297
 pb	187	0191	4811298
@@ -306,32 +306,32 @@ pb	199	0203	4811310
 pb	200	0204	4811311
 pb	201	0205	4811312
 pb	202	0206	4811313
-entry	Épidémique [G. Ferrus]		
+entry	Épidémique [G. Ferrus]	3	
 orth	Épidémique		
 pb	203	0207	4811314
 pb	204	0208	4811315
 pb	205	0209	4811316
-entry	Épiderme		
-entry	Épidermique et épidermoïde		
+entry	Épiderme	0	
+entry	Épidermique et épidermoïde	0	
 orth	Épidermique		
 orth	épidermoïde		
-entry	Épididyme [A. Béclard]		
+entry	Épididyme [A. Béclard]	0	
 orth	Épididyme		
-entry	Épigastralgie		
-entry	Épigastre		
+entry	Épigastralgie	0	
+entry	Épigastre	0	
 pb	206	0210	4811317
-entry	Épigastrique [A. Béclard]		
+entry	Épigastrique [A. Béclard]	0	
 orth	Épigastrique		
-entry	Épigastrocèle [Jules Cloquet]		
+entry	Épigastrocèle [Jules Cloquet]	0	
 orth	Épigastrocèle		
-entry	Épiginomène		
-entry	Épiglotte		
-entry	Épiglotti-aryténoïdien [Hippol. Cloquet]		
+entry	Épiginomène	0	
+entry	Épiglotte	0	
+entry	Épiglotti-aryténoïdien [Hippol. Cloquet]	0	
 orth	Épiglotti-aryténoïdien		
-entry	Épiglottique [Hippol. Cloquet]		
+entry	Épiglottique [Hippol. Cloquet]	0	
 orth	Épiglottique		
-entry	Épilatoire		
-entry	Épilepsie [Georget]		
+entry	Épilatoire	0	
+entry	Épilepsie [Georget]	19	
 orth	Épilepsie		
 pb	207	0211	4811318
 pb	208	0212	4811319
@@ -352,49 +352,49 @@ pb	222	0226	4811333
 pb	223	0227	4811334
 pb	224	0228	4811335
 pb	225	0229	4811336
-entry	Épileptique [Georget]		
+entry	Épileptique [Georget]	0	
 orth	Épileptique		
-entry	Épinard [A. Richard]		
+entry	Épinard [A. Richard]	1	
 orth	Épinard		
 pb	226	0230	4811337
-entry	Épine		
-entry	Épineux [A. Béclard]		
+entry	Épine	0	
+entry	Épineux [A. Béclard]	0	
 orth	Épineux		
-entry	Épine-vinette		
-entry	Épingle [Murat]		
+entry	Épine-vinette	0	
+entry	Épingle [Murat]	1	
 orth	Épingle		
 pb	227	0231	4811338
-entry	Épinière [A. Béclard]		
+entry	Épinière [A. Béclard]	0	
 orth	Épinière		
-entry	Épinyctide [P. Rayer]		
+entry	Épinyctide [P. Rayer]	2	
 orth	Épinyctide		
 pb	228	0232	4811339
 pb	229	0233	4811340
-entry	Épiphénomène		
-entry	Épiphora [Jules Cloquet]		
+entry	Épiphénomène	0	
+entry	Épiphora [Jules Cloquet]	1	
 orth	Épiphora		
 pb	230	0234	4811341
-entry	Épiphyse [A. Béclard]		
+entry	Épiphyse [A. Béclard]	0	
 orth	Épiphyse		
-entry	Épiplocèle [Jules Cloquet]		
+entry	Épiplocèle [Jules Cloquet]	0	
 orth	Épiplocèle		
-entry	Épiplo-entérocèle		
-entry	Épiploïque		
-entry	Épiploite [Chomel]		
+entry	Épiplo-entérocèle	0	
+entry	Épiploïque	0	
+entry	Épiploite [Chomel]	0	
 orth	Épiploite		
-entry	Épiplo-mérocèle		
-entry	Épiplomphale		
-entry	Épiploon [A. Béclard]		
+entry	Épiplo-mérocèle	0	
+entry	Épiplomphale	0	
+entry	Épiploon [A. Béclard]	0	
 orth	Épiploon		
 pb	231	0235	4811342
-entry	Épiplo-sarcomphale [Jules Cloquet]		
+entry	Épiplo-sarcomphale [Jules Cloquet]	0	
 orth	Épiplo-sarcomphale		
-entry	Épiploschéocèle		
-entry	Épispadias [J. Breschet]		
+entry	Épiploschéocèle	0	
+entry	Épispadias [J. Breschet]	0	
 orth	Épispadias		
-entry	Épispastique		
-entry	Épistase		
-entry	Épistaxis [Rochoux]		
+entry	Épispastique	0	
+entry	Épistase	0	
+entry	Épistaxis [Rochoux]	8	
 orth	Épistaxis		
 pb	232	0236	4811343
 pb	233	0237	4811344
@@ -404,20 +404,20 @@ pb	236	0240	4811347
 pb	237	0241	4811348
 pb	238	0242	4811349
 pb	239	0243	4811350
-entry	Épistrophée [A. Béclard]		
+entry	Épistrophée [A. Béclard]	0	
 orth	Épistrophée		
-entry	Épisynthétique [Raige Delorme]		
+entry	Épisynthétique [Raige Delorme]	0	
 orth	Épisynthétique		
-entry	Épithélium [A. Béclard]		
+entry	Épithélium [A. Béclard]	0	
 orth	Épithélium		
-entry	Épithème [Guersent]		
+entry	Épithème [Guersent]	2	
 orth	Épithème		
 pb	240	0244	4811351
 pb	241	0245	4811352
-entry	Épitrochlée et Épitroklée		
+entry	Épitrochlée et Épitroklée	0	
 orth	Épitrochlée		
 orth	Épitroklée		
-entry	Épizootie (hygiène publique) [Marc]		
+entry	Épizootie (hygiène publique) [Marc]	12	
 orth	Épizootie (hygiène publique)		
 pb	242	0246	4811353
 pb	243	0247	4811354
@@ -431,35 +431,35 @@ pb	250	0254	4811361
 pb	251	0255	4811362
 pb	252	0256	4811363
 pb	253	0257	4811364
-entry	Éponge [Hippol. Cloquet]		
+entry	Éponge [Hippol. Cloquet]	1	
 orth	Éponge		
 pb	254	0258	4811365
-entry	Épreintes		
-entry	Épuisement [Raige Delorme]		
+entry	Épreintes	0	
+entry	Épuisement [Raige Delorme]	0	
 orth	Épuisement		
 pb	255	0259	4811366
-entry	Épulis ou Épulie [Marjolin]		
+entry	Épulis ou Épulie [Marjolin]	2	
 orth	Épulis		
 orth	Épulie		
 pb	256	0260	4811367
 pb	257	0261	4811368
-entry	Épurge		
-entry	Équilibre [Raige Delorme]		
+entry	Épurge	0	
+entry	Équilibre [Raige Delorme]	0	
 orth	Équilibre		
-entry	Éraillement des paupières [Jules Cloquet]		
+entry	Éraillement des paupières [Jules Cloquet]	0	
 orth	Éraillement des paupières		
-entry	Érecteur		
-entry	Érectile [A. Béclard]		
+entry	Érecteur	0	
+entry	Érectile [A. Béclard]	4	
 orth	Érectile		
 pb	258	0262	4811369
 pb	259	0263	4811370
 pb	260	0264	4811371
 pb	261	0265	4811372
-entry	Érectilité		
-entry	Érection [A. Béclard]		
+entry	Érectilité	0	
+entry	Érection [A. Béclard]	0	
 orth	Érection		
-entry	Éréthisme		
-entry	Ergot [Raige Delorme]		
+entry	Éréthisme	0	
+entry	Ergot [Raige Delorme]	12	
 orth	Ergot		
 pb	262	0266	4811373
 pb	263	0267	4811374
@@ -473,32 +473,32 @@ pb	270	0274	4811381
 pb	271	0275	4811382
 pb	272	0276	4811383
 pb	273	0277	4811384
-entry	Ergot		
-entry	Ergotisme		
-entry	Érigne, Airine ou Érine [Murat]		
+entry	Ergot	0	
+entry	Ergotisme	0	
+entry	Érigne, Airine ou Érine [Murat]	1	
 orth	Érigne		
 orth	Airine		
 orth	Érine		
 pb	274	0278	4811385
-entry	Érosion [Raige Delorme]		
+entry	Érosion [Raige Delorme]	0	
 orth	Érosion		
-entry	Érotomanie [Georget]		
+entry	Érotomanie [Georget]	0	
 orth	Érotomanie		
-entry	Erratique [Raige Delorme]		
+entry	Erratique [Raige Delorme]	0	
 orth	Erratique		
-entry	Errhin [Guersent]		
+entry	Errhin [Guersent]	2	
 orth	Errhin		
 pb	275	0279	4811386
 pb	276	0280	4811387
-entry	Éructation [Raige Delorme]		
+entry	Éructation [Raige Delorme]	0	
 orth	Éructation		
-entry	Érugineux		
+entry	Érugineux	1	
 pb	277	0281	4811388
-entry	Éruptif [P. Rayer]		
+entry	Éruptif [P. Rayer]	0	
 orth	Éruptif		
-entry	Éruption [P. Rayer]		
+entry	Éruption [P. Rayer]	0	
 orth	Éruption		
-entry	Érysipèle [P. Rayer]		
+entry	Érysipèle [P. Rayer]	13	
 orth	Érysipèle		
 pb	278	0282	4811389
 pb	279	0283	4811390
@@ -513,40 +513,40 @@ pb	287	0291	4811398
 pb	288	0292	4811399
 pb	289	0293	4811400
 pb	290	0294	4811401
-entry	Érythème [P. Rayer]		
+entry	Érythème [P. Rayer]	4	
 orth	Érythème		
 pb	291	0295	4811402
 pb	292	0296	4811403
 pb	293	0297	4811404
 pb	294	0298	4811405
-entry	Érythroïde [A. Béclard]		
+entry	Érythroïde [A. Béclard]	0	
 orth	Érythroïde		
-entry	Eschare [Marjolin]		
+entry	Eschare [Marjolin]	0	
 orth	Eschare		
-entry	Escharotique [Marjolin]		
+entry	Escharotique [Marjolin]	0	
 orth	Escharotique		
-entry	Espèces [A. Richard]		
+entry	Espèces [A. Richard]	2	
 orth	Espèces		
 pb	295	0299	4811406
 pb	296	0300	4811407
-entry	Esprit [Raige Delorme]		
+entry	Esprit [Raige Delorme]	2	
 orth	Esprit		
 pb	297	0301	4811408
 pb	298	0302	4811409
-entry	Esquille [Jules Cloquet]		
+entry	Esquille [Jules Cloquet]	0	
 orth	Esquille		
-entry	Esquinancie [Raige Delorme]		
+entry	Esquinancie [Raige Delorme]	0	
 orth	Esquinancie		
-entry	Essence [Raige Delorme]		
+entry	Essence [Raige Delorme]	1	
 orth	Essence		
 pb	299	0303	4811410
-entry	Essentiel [Raige Delorme]		
+entry	Essentiel [Raige Delorme]	0	
 orth	Essentiel		
 pb	300	0304	4811411
-entry	Essera [P. Rayer]		
+entry	Essera [P. Rayer]	0	
 orth	Essera		
-entry	Essouflement		
-entry	Estomac [Hippol. Cloquet, P. Rayer]		
+entry	Essouflement	0	
+entry	Estomac [Hippol. Cloquet, P. Rayer]	21	
 orth	Estomac		
 pb	301	0305	4811412
 pb	302	0306	4811413
@@ -569,21 +569,21 @@ pb	318	0322	4811429
 pb	319	0323	4811430
 pb	320	0324	4811431
 pb	321	0325	4811432
-entry	Étain		
+entry	Étain	5	
 pb	322	0326	4811433
 pb	323	0327	4811434
 pb	324	0328	4811435
 pb	325	0329	4811436
 pb	326	0330	4811437
-entry	Étamage [Orfila]		
+entry	Étamage [Orfila]	1	
 orth	Étamage		
 pb	327	0331	4811438
-entry	État [Raige Delorme]		
+entry	État [Raige Delorme]	0	
 orth	État		
-entry	Éternument [Raige Delorme]		
+entry	Éternument [Raige Delorme]	1	
 orth	Éternument		
 pb	328	0332	4811439
-entry	Éther [J. Pelletier, Guersent]		
+entry	Éther [J. Pelletier, Guersent]	20	
 orth	Éther		
 pb	329	0333	4811440
 pb	330	0334	4811441
@@ -605,40 +605,40 @@ pb	345	0349	4811456
 pb	346	0350	4811457
 pb	347	0351	4811458
 pb	348	0352	4811459
-entry	Éthiops		
-entry	Ethmoïdal [A. Béclard]		
+entry	Éthiops	0	
+entry	Ethmoïdal [A. Béclard]	1	
 orth	Ethmoïdal		
 pb	349	0353	4811460
-entry	Éthmoïde [A. Béclard]		
+entry	Éthmoïde [A. Béclard]	2	
 orth	Éthmoïde		
 pb	350	0354	4811461
 pb	351	0355	4811462
 pb	352	0356	4811463
-entry	Étiologie		
-entry	Étique		
-entry	Étisie		
-entry	Étoilé [Marjolin]		
+entry	Étiologie	0	
+entry	Étique	0	
+entry	Étisie	0	
+entry	Étoilé [Marjolin]	1	
 orth	Étoilé		
 pb	353	0357	4811464
-entry	Étouffement		
-entry	Étourdissement [Raige Delorme]		
+entry	Étouffement	0	
+entry	Étourdissement [Raige Delorme]	0	
 orth	Étourdissement		
-entry	Étranglement [Raige Delorme]		
+entry	Étranglement [Raige Delorme]	1	
 orth	Étranglement		
 pb	354	0358	4811465
-entry	Étrier [A. Béclard, Murat]		
+entry	Étrier [A. Béclard, Murat]	0	
 orth	Étrier		
-entry	Étuve		
-entry	Eudiomètre		
+entry	Étuve	0	
+entry	Eudiomètre	6	
 pb	355	0359	4811466
 pb	356	0360	4811467
 pb	357	0361	4811468
 pb	358	0362	4811469
 pb	359	0363	4811470
 pb	360	0364	4811471
-entry	Eudiométrie [Orfila]		
+entry	Eudiométrie [Orfila]	0	
 orth	Eudiométrie		
-entry	Eunuque [Adelon]		
+entry	Eunuque [Adelon]	8	
 orth	Eunuque		
 pb	361	0365	4811472
 pb	362	0366	4811473
@@ -648,74 +648,74 @@ pb	365	0369	4811476
 pb	366	0370	4811477
 pb	367	0371	4811478
 pb	368	0372	4811479
-entry	Eupatoire [A. Richard]		
+entry	Eupatoire [A. Richard]	1	
 orth	Eupatoire		
 pb	369	0373	4811480
-entry	Euphorbe [A. Richard]		
+entry	Euphorbe [A. Richard]	4	
 orth	Euphorbe		
 pb	370	0374	4811481
 pb	371	0375	4811482
 pb	372	0376	4811483
 pb	373	0377	4811484
-entry	Euphorbiacées [A. Richard]		
+entry	Euphorbiacées [A. Richard]	2	
 orth	Euphorbiacées		
 pb	374	0378	4811485
 pb	375	0379	4811486
-entry	Euphraise [A. Richard]		
+entry	Euphraise [A. Richard]	0	
 orth	Euphraise		
-entry	Évacuant [Raige Delorme]		
+entry	Évacuant [Raige Delorme]	1	
 orth	Évacuant		
 pb	376	0380	4811487
-entry	Évacuation [Raige Delorme]		
+entry	Évacuation [Raige Delorme]	0	
 orth	Évacuation		
-entry	Évanouissement [Raige Delorme]		
+entry	Évanouissement [Raige Delorme]	0	
 orth	Évanouissement		
-entry	Éventration [Jules Cloquet]		
+entry	Éventration [Jules Cloquet]	0	
 orth	Éventration		
-entry	Évolution		
-entry	Évulsif		
-entry	Évulsion [Marjolin]		
+entry	Évolution	0	
+entry	Évulsif	0	
+entry	Évulsion [Marjolin]	2	
 orth	Évulsion		
 pb	377	0381	4811488
 pb	378	0382	4811489
-entry	Exacerbation [Chomel]		
+entry	Exacerbation [Chomel]	0	
 orth	Exacerbation		
-entry	Exaltation		
-entry	Exanthémateux, Exanthématique		
+entry	Exaltation	0	
+entry	Exanthémateux, Exanthématique	0	
 orth	Exanthémateux		
 orth	Exanthématique		
-entry	Exanthème [P. Rayer]		
+entry	Exanthème [P. Rayer]	1	
 orth	Exanthème		
 pb	379	0383	4811490
 pb	380	0384	4811491
-entry	Exaspération		
-entry	Excérébration [Desormeaux]		
+entry	Exaspération	0	
+entry	Excérébration [Desormeaux]	0	
 orth	Excérébration		
-entry	Excipient		
-entry	Excision [Jules Cloquet]		
+entry	Excipient	0	
+entry	Excision [Jules Cloquet]	0	
 orth	Excision		
-entry	Excitabilité		
-entry	Excitant		
-entry	Excitation		
+entry	Excitabilité	0	
+entry	Excitant	0	
+entry	Excitation	0	
 pb	381	0385	4811492
-entry	Excitement		
-entry	Excoriation [Murat]		
+entry	Excitement	0	
+entry	Excoriation [Murat]	0	
 orth	Excoriation		
-entry	Excrément [Rullier]		
+entry	Excrément [Rullier]	4	
 orth	Excrément		
 pb	382	0386	4811493
 pb	383	0387	4811494
 pb	384	0388	4811495
 pb	385	0389	4811496
-entry	Excrémentitiel [Rullier]		
+entry	Excrémentitiel [Rullier]	0	
 orth	Excrémentitiel		
-entry	Excreta [L. Rostan]		
+entry	Excreta [L. Rostan]	0	
 orth	Excreta		
-entry	Excréteur		
-entry	Excrétion [Rullier]		
+entry	Excréteur	0	
+entry	Excrétion [Rullier]	1	
 orth	Excrétion		
 pb	386	0390	4811497
-entry	Excroissance [Lagneau]		
+entry	Excroissance [Lagneau]	14	
 orth	Excroissance		
 pb	387	0391	4811498
 pb	388	0392	4811499
@@ -731,28 +731,28 @@ pb	397	0401	4811508
 pb	398	0402	4811509
 pb	399	0403	4811510
 pb	400	0404	4811511
-entry	Exercice		
-entry	Exérèse		
+entry	Exercice	0	
+entry	Exérèse	1	
 pb	401	0405	4811512
-entry	Exfoliatif [Jules Cloquet]		
+entry	Exfoliatif [Jules Cloquet]	0	
 orth	Exfoliatif		
-entry	Exfoliation [Jules Cloquet]		
+entry	Exfoliation [Jules Cloquet]	2	
 orth	Exfoliation		
 pb	402	0406	4811513
 pb	403	0407	4811514
-entry	Exhalaison		
-entry	Exhalans (vaisseaux) [A. Béclard]		
+entry	Exhalaison	0	
+entry	Exhalans (vaisseaux) [A. Béclard]	1	
 orth	Exhalans (vaisseaux)		
 pb	404	0408	4811515
-entry	Exhalation [Rullier]		
+entry	Exhalation [Rullier]	0	
 orth	Exhalation		
-entry	Exhumation		
+entry	Exhumation	1	
 pb	405	0409	4811516
-entry	Exoine ou Exoène [Raige Delorme]		
+entry	Exoine ou Exoène [Raige Delorme]	0	
 orth	Exoine		
 orth	Exoène		
-entry	Exomphale		
-entry	Exophthalmie [Jules Cloquet]		
+entry	Exomphale	0	
+entry	Exophthalmie [Jules Cloquet]	6	
 orth	Exophthalmie		
 pb	406	0410	4811517
 pb	407	0411	4811518
@@ -760,7 +760,7 @@ pb	408	0412	4811519
 pb	409	0413	4811520
 pb	410	0414	4811521
 pb	411	0415	4811522
-entry	Exostose [Jules Cloquet]		
+entry	Exostose [Jules Cloquet]	12	
 orth	Exostose		
 pb	412	0416	4811523
 pb	413	0417	4811524
@@ -774,68 +774,68 @@ pb	420	0424	4811531
 pb	421	0425	4811532
 pb	422	0426	4811533
 pb	423	0427	4811534
-entry	Expansibilité [Rullier]		
+entry	Expansibilité [Rullier]	4	
 orth	Expansibilité		
 pb	424	0428	4811535
 pb	425	0429	4811536
 pb	426	0430	4811537
 pb	427	0431	4811538
-entry	Expansion [A. Béclard]		
+entry	Expansion [A. Béclard]	0	
 orth	Expansion		
-entry	Expectant		
-entry	Expectation [Raige Delorme]		
+entry	Expectant	0	
+entry	Expectation [Raige Delorme]	0	
 orth	Expectation		
 pb	428	0432	4811539
-entry	Expectorant [Guersent]		
+entry	Expectorant [Guersent]	2	
 orth	Expectorant		
 pb	429	0433	4811540
 pb	430	0434	4811541
-entry	Expectoration [Raige Delorme]		
+entry	Expectoration [Raige Delorme]	1	
 orth	Expectoration		
 pb	431	0435	4811542
-entry	Expérience [Coutanceau]		
+entry	Expérience [Coutanceau]	3	
 orth	Expérience		
 pb	432	0436	4811543
 pb	433	0437	4811544
 pb	434	0438	4811545
-entry	Expert [Raige Delorme]		
+entry	Expert [Raige Delorme]	0	
 orth	Expert		
-entry	Expirateur [A. Béclard]		
+entry	Expirateur [A. Béclard]	0	
 orth	Expirateur		
-entry	Expiration		
-entry	Exploration		
-entry	Expression		
-entry	Expulsif		
+entry	Expiration	0	
+entry	Exploration	0	
+entry	Expression	0	
+entry	Expulsif	1	
 pb	435	0439	4811546
-entry	Exsangue, Exsanguin		
+entry	Exsangue, Exsanguin	0	
 orth	Exsangue		
 orth	Exsanguin		
-entry	Exspuition [Raige Delorme]		
+entry	Exspuition [Raige Delorme]	0	
 orth	Exspuition		
-entry	Exsudation [Raige Delorme]		
+entry	Exsudation [Raige Delorme]	0	
 orth	Exsudation		
-entry	Exstrophie (anat., path.) [J. Breschet]		
+entry	Exstrophie (anat., path.) [J. Breschet]	0	
 orth	Exstrophie (anat., path.)		
 pb	436	0440	4811547
-entry	Extase [Georget]		
+entry	Extase [Georget]	0	
 orth	Extase		
-entry	Extemporané		
-entry	Extenseur [A. Béclard]		
+entry	Extemporané	0	
+entry	Extenseur [A. Béclard]	3	
 orth	Extenseur		
 pb	437	0441	4811548
 pb	438	0442	4811549
 pb	439	0443	4811550
-entry	Extensibilité [A. Béclard]		
+entry	Extensibilité [A. Béclard]	0	
 orth	Extensibilité		
-entry	Extension [A. Béclard, Jules Cloquet]		
+entry	Extension [A. Béclard, Jules Cloquet]	0	
 orth	Extension		
-entry	Exténuation		
-entry	Extinction		
+entry	Exténuation	0	
+entry	Extinction	0	
 pb	440	0444	4811551
-entry	Extirpation		
-entry	Extractif [J. Pelletier]		
+entry	Extirpation	0	
+entry	Extractif [J. Pelletier]	0	
 orth	Extractif		
-entry	Extraction [Marjolin]		
+entry	Extraction [Marjolin]	10	
 orth	Extraction		
 pb	441	0445	4811552
 pb	442	0446	4811553
@@ -847,22 +847,22 @@ pb	447	0451	4811558
 pb	448	0452	4811559
 pb	449	0453	4811560
 pb	450	0454	4811561
-entry	Extracto-résineux [J. Pelletier]		
+entry	Extracto-résineux [J. Pelletier]	0	
 orth	Extracto-résineux		
-entry	Extrait [J. Pelletier]		
+entry	Extrait [J. Pelletier]	3	
 orth	Extrait		
 pb	451	0455	4811562
 pb	452	0456	4811563
 pb	453	0457	4811564
-entry	Extravasation, Extravasion [Raige Delorme]		
+entry	Extravasation, Extravasion [Raige Delorme]	0	
 orth	Extravasation		
 orth	Extravasion		
-entry	Extrémité [A. Béclard]		
+entry	Extrémité [A. Béclard]	0	
 orth	Extrémité		
-entry	Extroversion [G. Breschet]		
+entry	Extroversion [G. Breschet]	0	
 orth	Extroversion		
-entry	Exulcération		
-entry	Exutoire [Guersent]		
+entry	Exulcération	0	
+entry	Exutoire [Guersent]	8	
 orth	Exutoire		
 pb	454	0458	4811565
 pb	455	0459	4811566
@@ -873,19 +873,19 @@ pb	459	0463	4811570
 pb	460	0464	4811571
 pb	461	0465	4811572
 pb	462	0466	4811573
-entry	Face [A. Béclard, Chomel]		
+entry	Face [A. Béclard, Chomel]	4	
 orth	Face		
 pb	463	0467	4811574
 pb	464	0468	4811575
 pb	465	0469	4811576
 pb	466	0470	4811577
-entry	Facette [A. Béclard]		
+entry	Facette [A. Béclard]	0	
 orth	Facette		
-entry	Facial [Hippol. Cloquet]		
+entry	Facial [Hippol. Cloquet]	2	
 orth	Facial		
 pb	467	0471	4811578
 pb	468	0472	4811579
-entry	Faculté [Raige Delorme, Adelon]		
+entry	Faculté [Raige Delorme, Adelon]	19	
 orth	Faculté		
 pb	469	0473	4811580
 pb	470	0474	4811581
@@ -906,9 +906,9 @@ pb	484	0488	4811595
 pb	485	0489	4811596
 pb	486	0490	4811597
 pb	487	0491	4811598
-entry	Faiblesse [Raige Delorme]		
+entry	Faiblesse [Raige Delorme]	0	
 orth	Faiblesse		
-entry	Faim [Rullier]		
+entry	Faim [Rullier]	9	
 orth	Faim		
 pb	488	0492	4811599
 pb	489	0493	4811600
@@ -919,86 +919,86 @@ pb	493	0497	4811604
 pb	494	0498	4811605
 pb	495	0499	4811606
 pb	496	0500	4811607
-entry	Faine [A. Richard]		
+entry	Faine [A. Richard]	0	
 orth	Faine		
-entry	Faisceau		
-entry	Falciforme [Hippol. Cloquet]		
+entry	Faisceau	0	
+entry	Falciforme [Hippol. Cloquet]	0	
 orth	Falciforme		
-entry	Falsification [Guersent]		
+entry	Falsification [Guersent]	4	
 orth	Falsification		
 pb	497	0501	4811608
 pb	498	0502	4811609
 pb	499	0503	4811610
 pb	500	0504	4811611
-entry	Fanon [Jules Cloquet]		
+entry	Fanon [Jules Cloquet]	0	
 orth	Fanon		
-entry	Fard [Orfila]		
+entry	Fard [Orfila]	0	
 orth	Fard		
-entry	Farine [Orfila]		
+entry	Farine [Orfila]	2	
 orth	Farine		
 pb	501	0505	4811612
 pb	502	0506	4811613
-entry	Fascia [A. Béclard]		
+entry	Fascia [A. Béclard]	2	
 orth	Fascia		
 pb	503	0507	4811614
 pb	504	0508	4811615
-entry	Fasciole [Hippol. Cloquet]		
+entry	Fasciole [Hippol. Cloquet]	1	
 orth	Fasciole		
 pb	505	0509	4811616
-entry	Fatuisme et Fatuité [Georget]		
+entry	Fatuisme et Fatuité [Georget]	0	
 orth	Fatuisme		
 orth	Fatuité		
-entry	Fausse cote		
-entry	Fausse couche [Desormeaux]		
+entry	Fausse cote	0	
+entry	Fausse couche [Desormeaux]	0	
 orth	Fausse couche		
-entry	Faux [Hippol. Cloquet]		
+entry	Faux [Hippol. Cloquet]	0	
 orth	Faux		
-entry	Faux germe [Desormeaux]		
+entry	Faux germe [Desormeaux]	0	
 orth	Faux germe		
-entry	Faveux		
+entry	Faveux	1	
 pb	506	0510	4811617
-entry	Favus [P. Rayer]		
+entry	Favus [P. Rayer]	0	
 orth	Favus		
-entry	Fébricitant		
-entry	Fébricule		
-entry	Fébrifuge [Raige Delorme]		
+entry	Fébricitant	0	
+entry	Fébricule	0	
+entry	Fébrifuge [Raige Delorme]	1	
 orth	Fébrifuge		
 pb	507	0511	4811618
-entry	Fébrile		
-entry	Fécal		
-entry	Fèces		
-entry	Fécondation		
-entry	Fécondité		
-entry	Fécule [J. Pelletier]		
+entry	Fébrile	0	
+entry	Fécal	0	
+entry	Fèces	0	
+entry	Fécondation	0	
+entry	Fécondité	0	
+entry	Fécule [J. Pelletier]	1	
 orth	Fécule		
 pb	508	0512	4811619
 pb	509	0513	4811620
-entry	Feintes (maladies) [Raige Delorme]		
+entry	Feintes (maladies) [Raige Delorme]	0	
 orth	Feintes (maladies)		
-entry	Femmes (maladies des) [Désormeaux]		
+entry	Femmes (maladies des) [Désormeaux]	2	
 orth	Femmes (maladies des)		
 pb	510	0514	4811621
 pb	511	0515	4811622
-entry	Fémoral [A. Béclard]		
+entry	Fémoral [A. Béclard]	2	
 orth	Fémoral		
 pb	512	0516	4811623
 pb	513	0517	4811624
-entry	Fémur [A. Béclard]		
+entry	Fémur [A. Béclard]	4	
 orth	Fémur		
 pb	514	0518	4811625
 pb	515	0519	4811626
 pb	516	0520	4811627
 pb	517	0521	4811628
-entry	Fenêtre		
-entry	Fenêtré		
-entry	Fenouil [A. Richard]		
+entry	Fenêtre	0	
+entry	Fenêtré	0	
+entry	Fenouil [A. Richard]	0	
 orth	Fenouil		
-entry	Fente [A. Béclard]		
+entry	Fente [A. Béclard]	0	
 orth	Fente		
-entry	Fenu-grec [A. Richard]		
+entry	Fenu-grec [A. Richard]	1	
 orth	Fenu-grec		
 pb	518	0522	4811629
-entry	Fer [Orfila, Guersent]		
+entry	Fer [Orfila, Guersent]	16	
 orth	Fer		
 pb	519	0523	4811630
 pb	520	0524	4811631
@@ -1016,10 +1016,10 @@ pb	531	0535	4811642
 pb	532	0536	4811643
 pb	533	0537	4811644
 pb	534	0538	4811645
-entry	Fer-chaud		
-entry	Férine		
-entry	Ferment		
-entry	Fermentation [J. Pelletier]		
+entry	Fer-chaud	0	
+entry	Férine	0	
+entry	Ferment	0	
+entry	Fermentation [J. Pelletier]	8	
 orth	Fermentation		
 pb	535	0539	4811646
 pb	536	0540	4811647
@@ -1029,70 +1029,70 @@ pb	539	0543	4811650
 pb	540	0544	4811651
 pb	541	0545	4811652
 pb	542	0546	4811653
-entry	Ferrugineux		
-entry	Fesse [A. Béclard]		
+entry	Ferrugineux	0	
+entry	Fesse [A. Béclard]	2	
 orth	Fesse		
 pb	543	0547	4811654
 pb	544	0548	4811655
-entry	Fessier, ère [Hippol. Cloquet]		
+entry	Fessier, ère [Hippol. Cloquet]	4	
 orth	Fessier		
 pb	545	0549	4811656
 pb	546	0550	4811657
 pb	547	0551	4811658
 pb	548	0552	4811659
-entry	Fétidité		
+entry	Fétidité	0	
 pb	549	0553	4811660
-entry	Feu		
-entry	Feuille de myrthe		
-entry	Fève de marais [A. Richard]		
+entry	Feu	0	
+entry	Feuille de myrthe	0	
+entry	Fève de marais [A. Richard]	0	
 orth	Fève de marais		
-entry	Fève de Saint Ignace [A. Richard]		
+entry	Fève de Saint Ignace [A. Richard]	2	
 orth	Fève de Saint Ignace		
 pb	550	0554	4811661
 pb	551	0555	4811662
-entry	Fibre [A. Béclard]		
+entry	Fibre [A. Béclard]	1	
 orth	Fibre		
 pb	552	0556	4811663
-entry	Fibreux [A. Béclard]		
+entry	Fibreux [A. Béclard]	0	
 orth	Fibreux		
-entry	Fibrille		
-entry	Fibrine [Orfila]		
+entry	Fibrille	0	
+entry	Fibrine [Orfila]	2	
 orth	Fibrine		
 pb	553	0557	4811664
 pb	554	0558	4811665
-entry	Fibro-cartilage		
-entry	Fibro-cartilagineux (tissu) [A. Béclard]		
+entry	Fibro-cartilage	0	
+entry	Fibro-cartilagineux (tissu) [A. Béclard]	4	
 orth	Fibro-cartilagineux (tissu)		
 pb	555	0559	4811666
 pb	556	0560	4811667
 pb	557	0561	4811668
 pb	558	0562	4811669
-entry	Fibro-cellulaire [A. Béclard]		
+entry	Fibro-cellulaire [A. Béclard]	1	
 orth	Fibro-cellulaire		
 pb	559	0563	4811670
-entry	Fibro-muqueux [A. Béclard]		
+entry	Fibro-muqueux [A. Béclard]	0	
 orth	Fibro-muqueux		
-entry	Fibro-séreux [A. Béclard]		
+entry	Fibro-séreux [A. Béclard]	0	
 orth	Fibro-séreux		
-entry	Fic [L		
+entry	Fic [L	0	
 ref	Lagneau]		
-entry	Fiel [Orfila]		
+entry	Fiel [Orfila]	0	
 orth	Fiel		
 pb	[s. pag.]	0564	4811671
 pb	560	0565	4811672
-entry	Table des principaux articles contenus dans le huitième volume		
+entry	Table des principaux articles contenus dans le huitième volume	1	
 pb	561	0566	4811673
 pb	562	0567	4811674
-entry	Distribution des matières		
+entry	Distribution des matières	0	
 pb	[s. pag.]	0568	4811675
 pb	1	0569	4811676
-entry	Nouvelles démonstrations d'accouchemens, avec des planches en taille-douce ; par J.-P. Maygrier, etc. [Capuron]		
+entry	Nouvelles démonstrations d'accouchemens, avec des planches en taille-douce ; par J.-P. Maygrier, etc. [Capuron]	3	
 orth	Nouvelles démonstrations d'accouchemens		
 orth	avec des planches en taille-douce ; par J.-P. Maygrier		
 pb	2	0570	4811677
 pb	3	0571	4811678
 pb	4	0572	4811679
-entry	Traité sur la nature et le traitement de la goutte et du rhumatisme		
+entry	Traité sur la nature et le traitement de la goutte et du rhumatisme	0	
 orth	Traité sur la nature		
 orth	le traitement de la goutte		
 orth	du rhumatisme		

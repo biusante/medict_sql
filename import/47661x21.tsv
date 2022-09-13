@@ -1,33 +1,33 @@
 pb	[s. pag.]	0001	5556794
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556795
 pb	[s. pag.]	0003	413981
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556796
 pb	[s. pag.]	0005	413982
-entry	Extrait du Journal du commerce du 7 octobre 1817		
+entry	Extrait du Journal du commerce du 7 octobre 1817	0	
 pb	[s. pag.]	0006	413983
 pb	[s. pag.]	0007	413984
 pb	[s. pag.]	0008	413985
 pb	1	0009	413986
-entry	hemorroscopie		
+entry	hemorroscopie	3	
 pb	2	0010	413987
 pb	3	0011	413988
 pb	4	0012	413989
-entry	hémostase		
+entry	hémostase	1	
 pb	5	0013	413990
-entry	hémostatique		
-entry	hépar		
-entry	hépatalgie		
+entry	hémostatique	0	
+entry	hépar	0	
+entry	hépatalgie	1	
 pb	6	0014	413991
-entry	hépatico-cystique		
-entry	hépatique		
+entry	hépatico-cystique	0	
+entry	hépatique	3	
 pb	7	0015	413992
 pb	8	0016	413993
 pb	9	0017	413994
-entry	hépatirrhée		
+entry	hépatirrhée	1	
 pb	10	0018	413995
-entry	hépatite		
+entry	hépatite	24	
 pb	11	0019	413996
 pb	12	0020	413997
 pb	13	0021	413998
@@ -52,15 +52,15 @@ pb	31	0039	414016
 pb	32	0040	414017
 pb	33	0041	414018
 pb	34	0042	414019
-entry	hépatocèle		
-entry	hépatomphale		
+entry	hépatocèle	0	
+entry	hépatomphale	1	
 pb	35	0043	414020
-entry	hépatoparectame		
-entry	hépatoscopie		
-entry	herbe		
+entry	hépatoparectame	0	
+entry	hépatoscopie	0	
+entry	herbe	2	
 pb	36	0044	414021
 pb	37	0045	414022
-entry	herbes		
+entry	herbes	14	
 pb	38	0046	414023
 pb	39	0047	414024
 pb	40	0048	414025
@@ -75,17 +75,17 @@ pb	48	0056	414033
 pb	49	0057	414034
 pb	50	0058	414035
 pb	51	0059	414036
-entry	herbivore		
+entry	herbivore	2	
 pb	52	0060	414037
 pb	53	0061	414038
-entry	herborisation		
+entry	herborisation	1	
 pb	54	0062	414039
-entry	herboriste		
+entry	herboriste	4	
 pb	55	0063	414040
 pb	56	0064	414041
 pb	57	0065	414042
 pb	58	0066	414043
-entry	héréditaire		
+entry	héréditaire	28	
 pb	59	0067	414044
 pb	60	0068	414045
 pb	61	0069	414046
@@ -114,7 +114,7 @@ pb	83	0091	414068
 pb	84	0092	414069
 pb	85	0093	414070
 pb	86	0094	414071
-entry	hermaphrodite		
+entry	hermaphrodite	35	
 pb	87	0095	414072
 pb	88	0096	414073
 pb	89	0097	414074
@@ -150,14 +150,14 @@ pb	118	0126	414103
 pb	119	0127	414104
 pb	120	0128	414105
 pb	121	0129	414106
-entry	hermodacte		
+entry	hermodacte	3	
 pb	122	0130	414107
 pb	123	0131	414108
 pb	124	0132	414109
-entry	herniaire		
+entry	herniaire	2	
 pb	125	0133	414110
 pb	126	0134	414111
-entry	hernie		
+entry	hernie	46	
 pb	127	0135	414112
 pb	128	0136	414113
 pb	129	0137	414114
@@ -204,17 +204,17 @@ pb	169	0177	414154
 pb	170	0178	414155
 pb	171	0179	414156
 pb	172	0180	414157
-entry	hespéridées		
-entry	hiatus		
+entry	hespéridées	0	
+entry	hiatus	1	
 pb	173	0181	414158
-entry	hiéble		
+entry	hiéble	1	
 pb	174	0182	414159
 pb	175	0183	414160
-entry	hiéra picra		
-entry	hirondelle		
+entry	hiéra picra	0	
+entry	hirondelle	2	
 pb	176	0184	414161
 pb	177	0185	414162
-entry	hiver		
+entry	hiver	14	
 pb	178	0186	414163
 pb	179	0187	414164
 pb	180	0188	414165
@@ -229,7 +229,7 @@ pb	188	0196	414173
 pb	189	0197	414174
 pb	190	0198	414175
 pb	191	0199	414176
-entry	homme		
+entry	homme	153	
 pb	192	0200	414177
 pb	193	0201	414178
 pb	194	0202	414179
@@ -383,7 +383,7 @@ pb	341	0349	414326
 pb	342	0350	414327
 pb	343	0351	414328
 pb	344	0352	414329
-entry	homophage		
+entry	homophage	13	
 pb	345	0353	414330
 pb	346	0354	414331
 pb	347	0355	414332
@@ -397,7 +397,7 @@ pb	354	0362	414339
 pb	355	0363	414340
 pb	356	0364	414341
 pb	357	0365	414342
-entry	honoraire		
+entry	honoraire	10	
 pb	358	0366	414343
 pb	359	0367	414344
 pb	360	0368	414345
@@ -408,8 +408,8 @@ pb	364	0372	414349
 pb	365	0373	414350
 pb	366	0374	414351
 pb	367	0375	414352
-entry	honteux		
-entry	hopital		
+entry	honteux	0	
+entry	hopital	177	
 pb	368	0376	414353
 pb	369	0377	414354
 pb	370	0378	414355
@@ -587,7 +587,7 @@ pb	541	0549	414526
 pb	542	0550	414527
 pb	543	0551	414528
 pb	544	0552	414529
-entry	hoquet		
+entry	hoquet	12	
 pb	545	0553	414530
 pb	546	0554	414531
 pb	547	0555	414532
@@ -600,21 +600,21 @@ pb	553	0561	414538
 pb	554	0562	414539
 pb	555	0563	414540
 pb	556	0564	414541
-entry	hordéine		
-entry	horripilation		
+entry	hordéine	0	
+entry	horripilation	1	
 pb	557	0565	414542
-entry	hospice		
-entry	houblon		
+entry	hospice	0	
+entry	houblon	2	
 pb	558	0566	414543
 pb	559	0567	414544
-entry	houille		
+entry	houille	2	
 pb	560	0568	414545
 pb	561	0569	414546
-entry	houppe		
-entry	houx		
+entry	houppe	0	
+entry	houx	1	
 pb	562	0570	414547
 pb	563	0571	414548
-entry	huile		
+entry	huile	45	
 pb	564	0572	414549
 pb	565	0573	414550
 pb	566	0574	414551
@@ -660,12 +660,12 @@ pb	605	0613	414590
 pb	606	0614	414591
 pb	607	0615	414592
 pb	608	0616	414593
-entry	huit de chiffre		
-entry	huitre		
+entry	huit de chiffre	0	
+entry	huitre	3	
 pb	609	0617	414594
 pb	610	0618	414595
 pb	611	0619	414596
-entry	humectans		
-entry	humectation		
-entry	humecter		
+entry	humectans	0	
+entry	humectation	0	
+entry	humecter	1	
 pb	612	0620	414597

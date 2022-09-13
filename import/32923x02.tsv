@@ -1,15 +1,15 @@
 pb	[s. pag.]	0001	7283819
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7283820
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7283821
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7283822
-entry	Amélie-Les-Bains		
+entry	Amélie-Les-Bains	3	
 pb	2	0005	7283823
 pb	3	0006	7283824
 pb	4	0007	7283825
-entry	Aménorrhée		
+entry	Aménorrhée	24	
 pb	5	0008	7283826
 pb	6	0009	7283827
 pb	7	0010	7283828
@@ -34,7 +34,7 @@ pb	25	0028	7283846
 pb	26	0029	7283847
 pb	27	0030	7283848
 pb	28	0031	7283849
-entry	Amers		
+entry	Amers	7	
 pb	29	0032	7283850
 pb	30	0033	7283851
 pb	31	0034	7283852
@@ -42,15 +42,15 @@ pb	32	0035	7283853
 pb	33	0036	7283854
 pb	34	0037	7283855
 pb	35	0038	7283856
-entry	Amétropie		
-entry	Amiante		
+entry	Amétropie	0	
+entry	Amiante	1	
 pb	36	0039	7283857
-entry	Amidon		
+entry	Amidon	4	
 pb	37	0040	7283858
 pb	38	0041	7283859
 pb	39	0042	7283860
 pb	40	0043	7283861
-entry	Ammoniaque		
+entry	Ammoniaque	11	
 pb	41	0044	7283862
 pb	42	0045	7283863
 pb	43	0046	7283864
@@ -63,14 +63,14 @@ pb	49	0052	7283870
 pb	50	0053	7283871
 pb	51	0054	7283872
 pb	52	0055	7283873
-entry	Ammoniaque (gomme)		
-entry	Amnésie		
+entry	Ammoniaque (gomme)	0	
+entry	Amnésie	4	
 pb	53	0056	7283874
 pb	54	0057	7283875
 pb	55	0058	7283876
 pb	56	0059	7283877
-entry	Amnios		
-entry	Amputation		
+entry	Amnios	0	
+entry	Amputation	55	
 pb	57	0060	7283878
 pb	58	0061	7283879
 pb	59	0062	7283880
@@ -126,8 +126,8 @@ pb	108	0111	7283929
 pb	109	0112	7283930
 pb	110	0113	7283931
 pb	111	0114	7283932
-entry	Amyélie		
-entry	Amygdales		
+entry	Amyélie	0	
+entry	Amygdales	43	
 pb	112	0115	7283933
 pb	113	0116	7283934
 pb	114	0117	7283935
@@ -171,7 +171,7 @@ pb	151	0154	7283972
 pb	152	0155	7283973
 pb	153	0156	7283974
 pb	154	0157	7283975
-entry	Amygdalotomes, Amygdalotomie		
+entry	Amygdalotomes, Amygdalotomie	15	
 orth	Amygdalotomes		
 orth	Amygdalotomie		
 pb	155	0158	7283976
@@ -190,12 +190,12 @@ pb	167	0170	7283988
 pb	168	0171	7283989
 pb	169	0172	7283990
 pb	170	0173	7283991
-entry	Amylacés (corpuscules)		
+entry	Amylacés (corpuscules)	2	
 pb	171	0174	7283992
 pb	172	0175	7283993
 pb	173	0176	7283994
-entry	Amylène		
-entry	Amyloïde (dégénérescence)		
+entry	Amylène	0	
+entry	Amyloïde (dégénérescence)	13	
 pb	174	0177	7283995
 pb	175	0178	7283996
 pb	176	0179	7283997
@@ -209,18 +209,18 @@ pb	183	0186	7284004
 pb	184	0187	7284005
 pb	185	0188	7284006
 pb	186	0189	7284007
-entry	Analeptique		
-entry	Analgésie		
-entry	Anaphrodisiaque		
-entry	Anaphrodisie		
-entry	Anaplastie		
-entry	Anasarque		
-entry	Anatomie médico-chirurgicale		
+entry	Analeptique	0	
+entry	Analgésie	0	
+entry	Anaphrodisiaque	0	
+entry	Anaphrodisie	0	
+entry	Anaplastie	0	
+entry	Anasarque	0	
+entry	Anatomie médico-chirurgicale	4	
 pb	187	0190	7284008
 pb	188	0191	7284009
 pb	189	0192	7284010
 pb	190	0193	7284011
-entry	Anatomie pathologique		
+entry	Anatomie pathologique	9	
 pb	191	0194	7284012
 pb	192	0195	7284013
 pb	193	0196	7284014
@@ -230,7 +230,7 @@ pb	196	0199	7284017
 pb	197	0200	7284018
 pb	198	0201	7284019
 pb	199	0202	7284020
-entry	Anémie		
+entry	Anémie	20	
 pb	200	0203	7284021
 pb	201	0204	7284022
 pb	202	0205	7284023
@@ -251,9 +251,9 @@ pb	216	0219	7284037
 pb	217	0220	7284038
 pb	218	0221	7284039
 pb	219	0222	7284040
-entry	Anencéphale		
-entry	Anesthésie		
-entry	Anesthésiques (agents)		
+entry	Anencéphale	0	
+entry	Anesthésie	0	
+entry	Anesthésiques (agents)	41	
 pb	220	0223	7284041
 pb	221	0224	7284042
 pb	222	0225	7284043
@@ -295,7 +295,7 @@ pb	257	0260	7284078
 pb	258	0261	7284079
 pb	259	0262	7284080
 pb	260	0263	7284081
-entry	Anévrysme		
+entry	Anévrysme	186	
 pb	261	0264	7284082
 pb	262	0265	7284083
 pb	263	0266	7284084
@@ -482,10 +482,10 @@ pb	443	0446	7284264
 pb	444	0447	7284265
 pb	445	0448	7284266
 pb	446	0449	7284267
-entry	Angélique		
+entry	Angélique	2	
 pb	447	0450	7284268
 pb	448	0451	7284269
-entry	Angines		
+entry	Angines	41	
 pb	449	0452	7284270
 pb	450	0453	7284271
 pb	451	0454	7284272
@@ -527,7 +527,7 @@ pb	486	0489	7284307
 pb	487	0490	7284308
 pb	488	0491	7284309
 pb	489	0492	7284310
-entry	Angine de poitrine		
+entry	Angine de poitrine	21	
 pb	490	0493	7284311
 pb	491	0494	7284312
 pb	492	0495	7284313
@@ -550,20 +550,20 @@ pb	508	0511	7284329
 pb	509	0512	7284330
 pb	510	0513	7284331
 pb	511	0514	7284332
-entry	Angioleucite		
-entry	Angusture		
+entry	Angioleucite	0	
+entry	Angusture	2	
 pb	512	0515	7284333
 pb	513	0516	7284334
-entry	Anhélation		
-entry	Aniline		
+entry	Anhélation	0	
+entry	Aniline	3	
 pb	514	0517	7284335
 pb	515	0518	7284336
 pb	516	0519	7284337
-entry	Anis étoile		
-entry	Anis vert		
+entry	Anis étoile	0	
+entry	Anis vert	1	
 pb	517	0520	7284338
-entry	Ankyloblepharon		
-entry	Ankylose		
+entry	Ankyloblepharon	0	
+entry	Ankylose	30	
 pb	518	0521	7284339
 pb	519	0522	7284340
 pb	520	0523	7284341
@@ -595,25 +595,25 @@ pb	545	0548	7284366
 pb	546	0549	7284367
 pb	547	0550	7284368
 pb	548	0551	7284369
-entry	Anorexie		
-entry	Anosmie		
-entry	Antagonisme		
+entry	Anorexie	0	
+entry	Anosmie	0	
+entry	Antagonisme	4	
 pb	549	0552	7284370
 pb	550	0553	7284371
 pb	551	0554	7284372
 pb	552	0555	7284373
-entry	Antéflexion		
-entry	Antéversion		
+entry	Antéflexion	0	
+entry	Antéversion	0	
 pb	553	0556	7284374
-entry	Anthelmintiques		
+entry	Anthelmintiques	5	
 pb	554	0557	7284375
 pb	555	0558	7284376
 pb	556	0559	7284377
 pb	557	0560	7284378
 pb	558	0561	7284379
 pb	559	0562	7284380
-entry	Anthracosis		
-entry	Anthrax		
+entry	Anthracosis	0	
+entry	Anthrax	11	
 pb	560	0563	7284381
 pb	561	0564	7284382
 pb	562	0565	7284383
@@ -625,15 +625,15 @@ pb	567	0570	7284388
 pb	568	0571	7284389
 pb	569	0572	7284390
 pb	570	0573	7284391
-entry	Anthropophagie		
+entry	Anthropophagie	2	
 pb	571	0574	7284392
 pb	572	0575	7284393
-entry	Antiaphrodisiaques		
+entry	Antiaphrodisiaques	2	
 pb	573	0576	7284394
 pb	574	0577	7284395
-entry	Antidote		
-entry	Antilaiteux		
-entry	Antimoine		
+entry	Antidote	0	
+entry	Antilaiteux	0	
+entry	Antimoine	27	
 pb	575	0578	7284396
 pb	576	0579	7284397
 pb	577	0580	7284398
@@ -661,22 +661,22 @@ pb	598	0601	7284419
 pb	599	0602	7284420
 pb	600	0603	7284421
 pb	601	0604	7284422
-entry	Antipériodiques		
-entry	Antiphlogistique		
-entry	Antiscorbutiques		
+entry	Antipériodiques	0	
+entry	Antiphlogistique	0	
+entry	Antiscorbutiques	5	
 pb	602	0605	7284423
 pb	603	0606	7284424
 pb	604	0607	7284425
 pb	605	0608	7284426
 pb	606	0609	7284427
-entry	Antiseptique		
-entry	Antispasmodiques		
+entry	Antiseptique	0	
+entry	Antispasmodiques	2	
 pb	607	0610	7284428
 pb	608	0611	7284429
-entry	Antisyphilitiques		
-entry	Antivénériens		
-entry	Anurie		
-entry	Anus		
+entry	Antisyphilitiques	0	
+entry	Antivénériens	0	
+entry	Anurie	0	
+entry	Anus	76	
 pb	609	0612	7284430
 pb	610	0613	7284431
 pb	611	0614	7284432
@@ -753,7 +753,7 @@ pb	681	0684	7284502
 pb	682	0685	7284503
 pb	683	0686	7284504
 pb	684	0687	7284505
-entry	Anus contre nature		
+entry	Anus contre nature	31	
 pb	685	0688	7284506
 pb	686	0689	7284507
 pb	687	0690	7284508
@@ -785,7 +785,7 @@ pb	712	0715	7284533
 pb	713	0716	7284534
 pb	714	0717	7284535
 pb	715	0718	7284536
-entry	Aorte		
+entry	Aorte	80	
 pb	716	0719	7284537
 pb	717	0720	7284538
 pb	718	0721	7284539
@@ -867,4 +867,4 @@ pb	793	0796	7284614
 pb	794	0797	7284615
 pb	795	0798	7284616
 pb	[s. pag.]	0799	7284617
-entry	Table des auteurs		
+entry	Table des auteurs	0	

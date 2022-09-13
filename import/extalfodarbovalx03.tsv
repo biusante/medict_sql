@@ -1,50 +1,50 @@
 pb	[s. pag.]	0001	7323076
-entry	[Plat]		
+entry	[Plat]	0	
 pb	[s. pag.]	0002	7323077
-entry	[Contreplat]		
+entry	[Contreplat]	0	
 pb	[s. pag.]	0003	7323078
-entry	[Page de garde]		
+entry	[Page de garde]	0	
 pb	[s. pag.]	0004	7323079
 pb	[s. pag.]	0005	7323080
 pb	[s. pag.]	0006	7323081
 pb	[s. pag.]	0007	7323082
 pb	[s. pag.]	0008	7323083
 pb	[s. pag.]	0009	7323084
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0010	7323085
 pb	[s. pag.]	0011	7323086
-entry	[Page de faux titre]		
+entry	[Page de faux titre]	0	
 pb	[s. pag.]	0012	7323087
 pb	[s. pag.]	0013	7323088
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0014	7323089
 pb	1	0015	7323090
-entry	Dictionnaire de médecine, de chirurgie et d'hygiène vétérinaires. H - Habitation		
+entry	Dictionnaire de médecine, de chirurgie et d'hygiène vétérinaires. H - Habitation	0	
 orth	Dictionnaire de médecine		
 orth	de chirurgie		
 orth	d'hygiène vétérinaires. H - Habitation		
 pb	2	0016	7323091
-entry	Habitation		
+entry	Habitation	2	
 pb	3	0017	7323092
 pb	4	0018	7323093
-entry	Haleine (Gros d')		
-entry	Haleter		
-entry	Halley		
-entry	Harper		
-entry	Harpin		
-entry	Haut-mal		
+entry	Haleine (Gros d')	0	
+entry	Haleter	0	
+entry	Halley	0	
+entry	Harper	0	
+entry	Harpin	0	
+entry	Haut-mal	0	
 pb	5	0019	7323094
-entry	Haut-somme		
-entry	Hectique		
-entry	Hémalopie		
+entry	Haut-somme	0	
+entry	Hectique	0	
+entry	Hémalopie	1	
 pb	6	0020	7323095
-entry	Hématémèse		
+entry	Hématémèse	1	
 pb	7	0021	7323096
-entry	Hématocèle		
+entry	Hématocèle	3	
 pb	8	0022	7323097
 pb	9	0023	7323098
 pb	10	0024	7323099
-entry	Hématurie		
+entry	Hématurie	13	
 pb	11	0025	7323100
 pb	12	0026	7323101
 pb	13	0027	7323102
@@ -58,12 +58,12 @@ pb	20	0034	7323109
 pb	21	0035	7323110
 pb	22	0036	7323111
 pb	23	0037	7323112
-entry	Héméralopie		
-entry	Hémiplégie		
-entry	Hémoptysie		
+entry	Héméralopie	0	
+entry	Hémiplégie	0	
+entry	Hémoptysie	2	
 pb	24	0038	7323113
 pb	25	0039	7323114
-entry	Hémorrhagie		
+entry	Hémorrhagie	15	
 pb	26	0040	7323115
 pb	27	0041	7323116
 pb	28	0042	7323117
@@ -80,17 +80,17 @@ pb	38	0052	7323127
 pb	39	0053	7323128
 pb	40	0054	7323129
 pb	41	0055	7323130
-entry	Hémoptysie		
-entry	Hémorrhagie bronchique		
-entry	Hémorrhagie cérébrale		
-entry	Hémorrhagie intestinale		
-entry	Hémorrhoïdes		
+entry	Hémoptysie	0	
+entry	Hémorrhagie bronchique	0	
+entry	Hémorrhagie cérébrale	0	
+entry	Hémorrhagie intestinale	0	
+entry	Hémorrhoïdes	4	
 pb	42	0056	7323131
 pb	43	0057	7323132
 pb	44	0058	7323133
 pb	45	0059	7323134
-entry	Hépatisation		
-entry	Hépatite		
+entry	Hépatisation	0	
+entry	Hépatite	11	
 pb	46	0060	7323135
 pb	47	0061	7323136
 pb	48	0062	7323137
@@ -102,22 +102,22 @@ pb	53	0067	7323142
 pb	54	0068	7323143
 pb	55	0069	7323144
 pb	56	0070	7323145
-entry	Hépatitis		
-entry	Hépato-arachnoïdite		
-entry	Hépatocèle		
-entry	Hépato-céphalite		
+entry	Hépatitis	0	
+entry	Hépato-arachnoïdite	0	
+entry	Hépatocèle	0	
+entry	Hépato-céphalite	1	
 pb	57	0071	7323146
-entry	Hépato-encéphalite		
-entry	Hépato-gastrite		
-entry	Hépatomphale		
-entry	Herbir		
-entry	Héréditaire, Hérédité		
+entry	Hépato-encéphalite	0	
+entry	Hépato-gastrite	0	
+entry	Hépatomphale	0	
+entry	Herbir	0	
+entry	Héréditaire, Hérédité	2	
 orth	Héréditaire		
 orth	Hérédité		
 pb	58	0072	7323147
 pb	59	0073	7323148
-entry	Hérisson (le)		
-entry	Hernie		
+entry	Hérisson (le)	0	
+entry	Hernie	53	
 pb	60	0074	7323149
 pb	61	0075	7323150
 pb	62	0076	7323151
@@ -171,36 +171,36 @@ pb	109	0123	7323198
 pb	110	0124	7323199
 pb	111	0125	7323200
 pb	112	0126	7323201
-entry	Hernie abdominale		
-entry	Hernie crurale		
-entry	Hernie de la matrice		
+entry	Hernie abdominale	0	
+entry	Hernie crurale	0	
+entry	Hernie de la matrice	0	
 pb	113	0127	7323202
-entry	Hernie de la vessie		
-entry	Hernie de l'iris		
-entry	Hernie diaphragmatique		
-entry	Hernie du cerveau		
-entry	Hernie du foie		
-entry	Hernie engouée		
-entry	Hernie épiploique		
-entry	Hernie étranglée		
-entry	Hernie fémorale		
-entry	Hernie inguinale		
-entry	Hernie intestinale		
-entry	Hernie musculaire		
-entry	Hernie oesophagienne		
-entry	Hernie ombilicale		
-entry	Hernie scrotale, oschéocèle		
+entry	Hernie de la vessie	0	
+entry	Hernie de l'iris	0	
+entry	Hernie diaphragmatique	0	
+entry	Hernie du cerveau	0	
+entry	Hernie du foie	0	
+entry	Hernie engouée	0	
+entry	Hernie épiploique	0	
+entry	Hernie étranglée	0	
+entry	Hernie fémorale	0	
+entry	Hernie inguinale	0	
+entry	Hernie intestinale	0	
+entry	Hernie musculaire	0	
+entry	Hernie oesophagienne	0	
+entry	Hernie ombilicale	0	
+entry	Hernie scrotale, oschéocèle	0	
 orth	Hernie scrotale		
 orth	oschéocèle		
-entry	Hernie utérine, ou de l'Utérus		
+entry	Hernie utérine, ou de l'Utérus	0	
 orth	Hernie utérine		
 orth	de l'Utérus		
-entry	Hernie vaginale		
-entry	Hippiatre		
-entry	Hippiatrique		
+entry	Hernie vaginale	0	
+entry	Hippiatre	0	
+entry	Hippiatrique	2	
 pb	114	0128	7323203
 pb	115	0129	7323204
-entry	Hippobosque, mouche-araignée, mouche bretonne, mouche d'Espagne, mouche de chien		
+entry	Hippobosque, mouche-araignée, mouche bretonne, mouche d'Espagne, mouche de chien	3	
 orth	Hippobosque		
 orth	mouche-araignée		
 orth	mouche bretonne		
@@ -209,27 +209,27 @@ orth	mouche de chien
 pb	116	0130	7323205
 pb	117	0131	7323206
 pb	118	0132	7323207
-entry	Hippopathologie		
-entry	Hongre		
-entry	Hongrer		
-entry	Hoquet		
+entry	Hippopathologie	0	
+entry	Hongre	0	
+entry	Hongrer	0	
+entry	Hoquet	1	
 pb	119	0133	7323208
-entry	Horripilation		
-entry	Huché sur le derrière (bœuf)		
-entry	Humeur		
+entry	Horripilation	0	
+entry	Huché sur le derrière (bœuf)	0	
+entry	Humeur	1	
 pb	120	0134	7323209
-entry	Humidité		
+entry	Humidité	2	
 pb	121	0135	7323210
 pb	122	0136	7323211
-entry	Humoral		
-entry	Humorisme		
-entry	Humoriste		
-entry	Hybride		
+entry	Humoral	0	
+entry	Humorisme	0	
+entry	Humoriste	0	
+entry	Hybride	3	
 pb	123	0137	7323212
 pb	124	0138	7323213
 pb	125	0139	7323214
-entry	Hydarhtre		
-entry	Hydatides		
+entry	Hydarhtre	0	
+entry	Hydatides	15	
 pb	126	0140	7323215
 pb	127	0141	7323216
 pb	128	0142	7323217
@@ -245,19 +245,19 @@ pb	137	0151	7323226
 pb	138	0152	7323227
 pb	139	0153	7323228
 pb	140	0154	7323229
-entry	Hydatides (les)		
-entry	Hydrarthre		
+entry	Hydatides (les)	0	
+entry	Hydrarthre	1	
 pb	141	0155	7323230
-entry	Hydrarthrose		
+entry	Hydrarthrose	0	
 pb	142	0156	7323231
-entry	Hydrentérocèle		
-entry	Hydrentéromphale		
-entry	Hydrocèle		
+entry	Hydrentérocèle	0	
+entry	Hydrentéromphale	0	
+entry	Hydrocèle	4	
 pb	143	0157	7323232
 pb	144	0158	7323233
 pb	145	0159	7323234
 pb	146	0160	7323235
-entry	Hydrocéphale		
+entry	Hydrocéphale	19	
 pb	147	0161	7323236
 pb	148	0162	7323237
 pb	149	0163	7323238
@@ -277,52 +277,52 @@ pb	162	0176	7323251
 pb	163	0177	7323252
 pb	164	0178	7323253
 pb	165	0179	7323254
-entry	Hydro-entérocèle		
-entry	Hydro-entéro-épiplocèle		
-entry	Hydro-entéromphale		
-entry	Hydro-épiplocèle		
-entry	Hydro-épiplo-entérocèle		
-entry	Hydro-épiplomphale		
-entry	Hydromètre		
+entry	Hydro-entérocèle	0	
+entry	Hydro-entéro-épiplocèle	0	
+entry	Hydro-entéromphale	0	
+entry	Hydro-épiplocèle	0	
+entry	Hydro-épiplo-entérocèle	0	
+entry	Hydro-épiplomphale	0	
+entry	Hydromètre	3	
 pb	166	0180	7323255
 pb	167	0181	7323256
 pb	168	0182	7323257
-entry	Hydromphale		
-entry	Hydropéricarde		
+entry	Hydromphale	0	
+entry	Hydropéricarde	2	
 pb	169	0183	7323258
 pb	170	0184	7323259
-entry	Hydrophobie		
-entry	Hydrophthalmie		
+entry	Hydrophobie	0	
+entry	Hydrophthalmie	1	
 pb	171	0185	7323260
-entry	Hydrophysocèle		
-entry	Hydropisie		
+entry	Hydrophysocèle	0	
+entry	Hydropisie	2	
 pb	172	0186	7323261
 pb	173	0187	7323262
-entry	Hydropisie de l'abdomen		
-entry	Hydropisie de poitrine		
-entry	Hydropisie de l'utérus		
-entry	Hydropisie du canal rachidien		
-entry	Hydropisie du cerveau		
-entry	Hydropisie du scrotum ou des bourses		
+entry	Hydropisie de l'abdomen	0	
+entry	Hydropisie de poitrine	0	
+entry	Hydropisie de l'utérus	0	
+entry	Hydropisie du canal rachidien	0	
+entry	Hydropisie du cerveau	0	
+entry	Hydropisie du scrotum ou des bourses	0	
 orth	Hydropisie du scrotum		
 orth	des bourses		
-entry	Hydropisie du thorax		
-entry	Hydropisie du tissu cellulaire		
-entry	Hydropneumonie		
-entry	Hydrorachis		
+entry	Hydropisie du thorax	0	
+entry	Hydropisie du tissu cellulaire	0	
+entry	Hydropneumonie	0	
+entry	Hydrorachis	3	
 pb	174	0188	7323263
 pb	175	0189	7323264
 pb	176	0190	7323265
-entry	Hydrosarcocèle		
-entry	Hydrothorax		
+entry	Hydrosarcocèle	0	
+entry	Hydrothorax	5	
 pb	177	0191	7323266
 pb	178	0192	7323267
 pb	179	0193	7323268
 pb	180	0194	7323269
 pb	181	0195	7323270
 pb	182	0196	7323271
-entry	Hydrotite		
-entry	Hyovertébrotomie		
+entry	Hydrotite	0	
+entry	Hyovertébrotomie	8	
 pb	183	0197	7323272
 pb	184	0198	7323273
 pb	185	0199	7323274
@@ -331,47 +331,47 @@ pb	187	0201	7323276
 pb	188	0202	7323277
 pb	189	0203	7323278
 pb	190	0204	7323279
-entry	Hyperesthésie		
-entry	Hyperostose		
+entry	Hyperesthésie	0	
+entry	Hyperostose	1	
 pb	191	0205	7323280
-entry	Hypersthénie		
-entry	Hypertonie		
-entry	Hypertrophie		
+entry	Hypersthénie	0	
+entry	Hypertonie	0	
+entry	Hypertrophie	2	
 pb	192	0206	7323281
 pb	193	0207	7323282
-entry	Hyperzoodynamie		
-entry	Hypochondrie		
+entry	Hyperzoodynamie	0	
+entry	Hypochondrie	1	
 pb	194	0208	7323283
-entry	Hypocophose		
-entry	Hypogastrocèle		
-entry	Hypogastrorhexie		
-entry	Hypophore		
-entry	Hypophthalmie		
-entry	Hypopyon		
+entry	Hypocophose	0	
+entry	Hypogastrocèle	0	
+entry	Hypogastrorhexie	0	
+entry	Hypophore	0	
+entry	Hypophthalmie	0	
+entry	Hypopyon	2	
 pb	195	0209	7323284
 pb	196	0210	7323285
-entry	Hypostaphyle		
-entry	Hypothèse		
-entry	Hystéralgie		
-entry	Hystérie		
+entry	Hypostaphyle	0	
+entry	Hypothèse	0	
+entry	Hystéralgie	0	
+entry	Hystérie	1	
 pb	197	0211	7323286
-entry	Hystérite		
-entry	 Hystérocèle		
+entry	Hystérite	0	
+entry	 Hystérocèle	1	
 pb	198	0212	7323287
-entry	Hystéro-cystocèle		
-entry	Hystéroloxie		
-entry	Hystéromanie		
-entry	Hystéroptose		
-entry	Hystérotomie		
+entry	Hystéro-cystocèle	0	
+entry	Hystéroloxie	0	
+entry	Hystéromanie	0	
+entry	Hystéroptose	0	
+entry	Hystérotomie	4	
 pb	199	0213	7323288
 pb	200	0214	7323289
 pb	201	0215	7323290
 pb	202	0216	7323291
-entry	Ichor		
-entry	Ichoreux, ou Ichoroïde		
+entry	Ichor	0	
+entry	Ichoreux, ou Ichoroïde	0	
 orth	Ichoreux		
 orth	Ichoroïde		
-entry	Ictère (Jaunisse)		
+entry	Ictère (Jaunisse)	10	
 pb	203	0217	7323292
 pb	204	0218	7323293
 pb	205	0219	7323294
@@ -382,16 +382,16 @@ pb	209	0223	7323298
 pb	210	0224	7323299
 pb	211	0225	7323300
 pb	212	0226	7323301
-entry	Ictérique		
-entry	Idiopathie		
-entry	Idiosyncrase, Idiosyncrasie		
+entry	Ictérique	0	
+entry	Idiopathie	0	
+entry	Idiosyncrase, Idiosyncrasie	0	
 orth	Idiosyncrase		
 orth	Idiosyncrasie		
-entry	Ignis sacer		
-entry	Iléus		
+entry	Ignis sacer	0	
+entry	Iléus	2	
 pb	213	0227	7323302
 pb	214	0228	7323303
-entry	Immobilité		
+entry	Immobilité	23	
 pb	215	0229	7323304
 pb	216	0230	7323305
 pb	217	0231	7323306
@@ -415,20 +415,20 @@ pb	234	0248	7323323
 pb	235	0249	7323324
 pb	236	0250	7323325
 pb	237	0251	7323326
-entry	Imperforation		
+entry	Imperforation	3	
 pb	238	0252	7323327
 pb	239	0253	7323328
 pb	240	0254	7323329
-entry	Importation		
+entry	Importation	1	
 pb	241	0255	7323330
-entry	Impression		
-entry	Impuissance		
+entry	Impression	0	
+entry	Impuissance	2	
 pb	242	0256	7323331
 pb	243	0257	7323332
-entry	Inanition		
+entry	Inanition	0	
 pb	244	0258	7323333
-entry	Inappétence		
-entry	Incision		
+entry	Inappétence	0	
+entry	Incision	8	
 pb	245	0259	7323334
 pb	246	0260	7323335
 pb	247	0261	7323336
@@ -437,19 +437,19 @@ pb	249	0263	7323338
 pb	250	0264	7323339
 pb	251	0265	7323340
 pb	252	0266	7323341
-entry	Incitabilité		
-entry	Incitation		
-entry	Incontinence d'urine		
+entry	Incitabilité	0	
+entry	Incitation	0	
+entry	Incontinence d'urine	2	
 pb	253	0267	7323342
 pb	254	0268	7323343
-entry	Incubation		
-entry	Incurabilité		
-entry	Incurable		
+entry	Incubation	0	
+entry	Incurabilité	0	
+entry	Incurable	0	
 pb	255	0269	7323344
-entry	Indéres (les)		
-entry	Indicant		
-entry	Indication		
-entry	Indigestion		
+entry	Indéres (les)	0	
+entry	Indicant	0	
+entry	Indication	0	
+entry	Indigestion	67	
 pb	256	0270	7323345
 pb	257	0271	7323346
 pb	258	0272	7323347
@@ -517,24 +517,24 @@ pb	319	0333	7323408
 pb	320	0334	7323409
 pb	321	0335	7323410
 pb	322	0336	7323411
-entry	Indiquant		
-entry	Indolent		
-entry	Induration		
+entry	Indiquant	0	
+entry	Indolent	0	
+entry	Induration	2	
 pb	323	0337	7323412
 pb	324	0338	7323413
-entry	Inertie		
-entry	Infécond		
-entry	Infect		
+entry	Inertie	0	
+entry	Infécond	0	
+entry	Infect	0	
 pb	325	0339	7323414
-entry	Infecté		
-entry	Infectieux		
-entry	Infection		
-entry	Infibulation		
-entry	Infiltration		
+entry	Infecté	0	
+entry	Infectieux	0	
+entry	Infection	0	
+entry	Infibulation	0	
+entry	Infiltration	1	
 pb	326	0340	7323415
-entry	Infiltré		
-entry	Infirmité		
-entry	Inflammation		
+entry	Infiltré	0	
+entry	Infirmité	0	
+entry	Inflammation	16	
 pb	327	0341	7323416
 pb	328	0342	7323417
 pb	329	0343	7323418
@@ -551,104 +551,104 @@ pb	339	0353	7323428
 pb	340	0354	7323429
 pb	341	0355	7323430
 pb	342	0356	7323431
-entry	Inflammation de la conjonctive		
-entry	Inflammation de la glande thyroïde		
-entry	Inflammation de la langue		
-entry	Inflammation de la mamelle		
-entry	Inflammation de la matrice		
-entry	Inflammation de la membrane interne du conduit auditif		
-entry	Inflammation de la membrane nasale		
+entry	Inflammation de la conjonctive	0	
+entry	Inflammation de la glande thyroïde	0	
+entry	Inflammation de la langue	0	
+entry	Inflammation de la mamelle	0	
+entry	Inflammation de la matrice	0	
+entry	Inflammation de la membrane interne du conduit auditif	0	
+entry	Inflammation de la membrane nasale	0	
 pb	343	0357	7323432
-entry	Inflammation de la moelle épinière		
-entry	Inflammation de la muqueuse bronchique		
-entry	Inflammation de la muqueuse de la trachée		
-entry	Inflammation de la parotide		
-entry	Inflammation de la peau		
-entry	Inflammation de la plèvre		
-entry	Inflammation de l'arachnoïde		
-entry	Inflammation de la rate		
-entry	Inflammation de la sclérotique		
-entry	Inflammation de la vessie		
-entry	Inflammation de l'estomac		
-entry	Inflammation de l'estomac et des intestins		
+entry	Inflammation de la moelle épinière	0	
+entry	Inflammation de la muqueuse bronchique	0	
+entry	Inflammation de la muqueuse de la trachée	0	
+entry	Inflammation de la parotide	0	
+entry	Inflammation de la peau	0	
+entry	Inflammation de la plèvre	0	
+entry	Inflammation de l'arachnoïde	0	
+entry	Inflammation de la rate	0	
+entry	Inflammation de la sclérotique	0	
+entry	Inflammation de la vessie	0	
+entry	Inflammation de l'estomac	0	
+entry	Inflammation de l'estomac et des intestins	0	
 orth	Inflammation de l'estomac		
 orth	des intestins		
-entry	Inflammation  de l'oeil		
-entry	Inflammation des artères		
-entry	Inflammation des capsules ou des membranes synoviales		
+entry	Inflammation  de l'oeil	0	
+entry	Inflammation des artères	0	
+entry	Inflammation des capsules ou des membranes synoviales	0	
 orth	Inflammation des capsules		
 orth	des membranes synoviales		
-entry	Inflammation des intestins		
-entry	Inflammation des muscles		
-entry	Inflammation des os		
-entry	Inflammation des paupières		
-entry	Inflammation des piliers et du voile du palais		
+entry	Inflammation des intestins	0	
+entry	Inflammation des muscles	0	
+entry	Inflammation des os	0	
+entry	Inflammation des paupières	0	
+entry	Inflammation des piliers et du voile du palais	0	
 orth	Inflammation des piliers		
 orth	du voile du palais		
-entry	Inflammation des reins		
-entry	Inflammation des veines		
-entry	Inflammation de l'urètre		
-entry	Inflammation du cerveau		
-entry	Inflammation  du coeur		
-entry	Inflammation du duodénum, du colon		
+entry	Inflammation des reins	0	
+entry	Inflammation des veines	0	
+entry	Inflammation de l'urètre	0	
+entry	Inflammation du cerveau	0	
+entry	Inflammation  du coeur	0	
+entry	Inflammation du duodénum, du colon	0	
 orth	Inflammation du duodénum		
 orth	du colon		
-entry	Inflammation du foie		
-entry	Inflammation du larynx		
-entry	Inflammation du péricarde		
-entry	Inflammation du périoste		
-entry	Inflammation du péritoine		
-entry	Inflammation du pharynx		
-entry	Inflammation du système fibreux des articulations		
-entry	Inflammation du testicule		
+entry	Inflammation du foie	0	
+entry	Inflammation du larynx	0	
+entry	Inflammation du péricarde	0	
+entry	Inflammation du périoste	0	
+entry	Inflammation du péritoine	0	
+entry	Inflammation du pharynx	0	
+entry	Inflammation du système fibreux des articulations	0	
+entry	Inflammation du testicule	0	
 pb	344	0358	7323433
-entry	Inflammation du tissu cartilagineux		
-entry	Inflammation du tissu cellulaire		
-entry	Inflammation du tissu pulmonaire		
-entry	Inflammation du tissu réticulaire		
-entry	Inflammation du vagin		
-entry	Inflammation gangréneuse de la langue		
-entry	Inflammation gangréneuse de la rate		
-entry	Inflammatoire		
-entry	Ingurgitation		
-entry	Injecté		
-entry	Injection		
-entry	Inoculation		
+entry	Inflammation du tissu cartilagineux	0	
+entry	Inflammation du tissu cellulaire	0	
+entry	Inflammation du tissu pulmonaire	0	
+entry	Inflammation du tissu réticulaire	0	
+entry	Inflammation du vagin	0	
+entry	Inflammation gangréneuse de la langue	0	
+entry	Inflammation gangréneuse de la rate	0	
+entry	Inflammatoire	0	
+entry	Ingurgitation	0	
+entry	Injecté	0	
+entry	Injection	0	
+entry	Inoculation	1	
 pb	345	0359	7323434
-entry	Insalubrité		
-entry	Insolation		
+entry	Insalubrité	0	
+entry	Insolation	1	
 pb	346	0360	7323435
-entry	Intense		
-entry	Intensité		
-entry	Intention		
-entry	Intercadent		
-entry	Intercurrent		
-entry	Intermission		
-entry	Intermittence		
-entry	Intermittent		
-entry	Intermittente (fièvre)		
-entry	Intestins (maladies des)		
+entry	Intense	0	
+entry	Intensité	0	
+entry	Intention	0	
+entry	Intercadent	0	
+entry	Intercurrent	0	
+entry	Intermission	0	
+entry	Intermittence	0	
+entry	Intermittent	0	
+entry	Intermittente (fièvre)	0	
+entry	Intestins (maladies des)	4	
 pb	347	0361	7323436
 pb	348	0362	7323437
 pb	349	0363	7323438
 pb	350	0364	7323439
-entry	Intumescence		
-entry	Intus-susception		
-entry	Invagination		
-entry	Iris (maladies de l')		
+entry	Intumescence	0	
+entry	Intus-susception	0	
+entry	Invagination	0	
+entry	Iris (maladies de l')	3	
 pb	351	0365	7323440
 pb	352	0366	7323441
 pb	353	0367	7323442
-entry	Irite		
-entry	Irradiation		
-entry	Irréductible		
+entry	Irite	0	
+entry	Irradiation	0	
+entry	Irréductible	0	
 pb	354	0368	7323443
-entry	Irritation		
+entry	Irritation	1	
 pb	355	0369	7323444
-entry	Ischiatocèle ou Ischiocèle		
+entry	Ischiatocèle ou Ischiocèle	0	
 orth	Ischiatocèle		
 orth	Ischiocèle		
-entry	Ischurie		
+entry	Ischurie	10	
 pb	356	0370	7323445
 pb	357	0371	7323446
 pb	358	0372	7323447
@@ -660,34 +660,34 @@ pb	363	0377	7323452
 pb	364	0378	7323453
 pb	365	0379	7323454
 pb	366	0380	7323455
-entry	Isolement		
+entry	Isolement	5	
 pb	367	0381	7323456
 pb	368	0382	7323457
 pb	369	0383	7323458
 pb	370	0384	7323459
 pb	371	0385	7323460
-entry	Ivresse		
+entry	Ivresse	2	
 pb	372	0386	7323461
 pb	373	0387	7323462
-entry	Ixode		
+entry	Ixode	1	
 pb	374	0388	7323463
-entry	Jabot		
+entry	Jabot	2	
 pb	375	0389	7323464
 pb	376	0390	7323465
-entry	Jambe arquée		
-entry	Jambe bouletée		
-entry	Jambes injectées		
-entry	Jarces (les)		
-entry	Jarres (les)		
-entry	Jaunisse des bêtes à laine		
-entry	Jarde, Jardon		
+entry	Jambe arquée	0	
+entry	Jambe bouletée	0	
+entry	Jambes injectées	0	
+entry	Jarces (les)	0	
+entry	Jarres (les)	0	
+entry	Jaunisse des bêtes à laine	0	
+entry	Jarde, Jardon	1	
 orth	Jarde		
 orth	Jardon		
 pb	377	0391	7323466
-entry	Jarret cerclé		
+entry	Jarret cerclé	1	
 pb	378	0392	7323467
-entry	Jaunisse		
-entry	Javart		
+entry	Jaunisse	0	
+entry	Javart	83	
 pb	379	0393	7323468
 pb	380	0394	7323469
 pb	381	0395	7323470
@@ -771,21 +771,21 @@ pb	458	0472	7323547
 pb	459	0473	7323548
 pb	460	0474	7323549
 pb	461	0475	7323550
-entry	Javart d'eau		
-entry	Javart nerveux		
-entry	Jetage		
-entry	Jeter		
-entry	Jurisprudence vétérinaire		
+entry	Javart d'eau	0	
+entry	Javart nerveux	0	
+entry	Jetage	0	
+entry	Jeter	0	
+entry	Jurisprudence vétérinaire	1	
 pb	462	0476	7323551
-entry	Kéracèle		
-entry	Kéraphyllocèle		
+entry	Kéracèle	0	
+entry	Kéraphyllocèle	2	
 pb	463	0477	7323552
 pb	464	0478	7323553
-entry	Kérapseude ou Kérapseyde		
+entry	Kérapseude ou Kérapseyde	0	
 orth	Kérapseude		
 orth	Kérapseyde		
-entry	Kératite		
-entry	Kyste		
+entry	Kératite	0	
+entry	Kyste	15	
 pb	465	0479	7323554
 pb	466	0480	7323555
 pb	467	0481	7323556
@@ -801,13 +801,13 @@ pb	476	0490	7323565
 pb	477	0491	7323566
 pb	478	0492	7323567
 pb	479	0493	7323568
-entry	Kystiotomie		
-entry	Lacrymale (fistule)		
-entry	Lacrymales (maladies des voies)		
-entry	Lacs		
-entry	Lactation		
-entry	Ladre (cochon ladre)		
-entry	Ladrerie		
+entry	Kystiotomie	0	
+entry	Lacrymale (fistule)	0	
+entry	Lacrymales (maladies des voies)	0	
+entry	Lacs	0	
+entry	Lactation	0	
+entry	Ladre (cochon ladre)	0	
+entry	Ladrerie	9	
 pb	480	0494	7323569
 pb	481	0495	7323570
 pb	482	0496	7323571
@@ -817,9 +817,9 @@ pb	485	0499	7323574
 pb	486	0500	7323575
 pb	487	0501	7323576
 pb	488	0502	7323577
-entry	Lagophthalmie		
+entry	Lagophthalmie	1	
 pb	489	0503	7323578
-entry	Lait		
+entry	Lait	16	
 pb	490	0504	7323579
 pb	491	0505	7323580
 pb	492	0506	7323581
@@ -836,72 +836,72 @@ pb	502	0516	7323591
 pb	503	0517	7323592
 pb	504	0518	7323593
 pb	505	0519	7323594
-entry	Lait des bêtes malades d'épizootie		
-entry	Lambeau		
-entry	Lampas, Fève		
+entry	Lait des bêtes malades d'épizootie	0	
+entry	Lambeau	0	
+entry	Lampas, Fève	3	
 orth	Lampas		
 orth	Fève		
 pb	506	0520	7323595
 pb	507	0521	7323596
 pb	508	0522	7323597
-entry	Lancinant, Lancinante		
+entry	Lancinant, Lancinante	0	
 orth	Lancinant		
 orth	Lancinante		
-entry	Langue (maladies de la)		
+entry	Langue (maladies de la)	5	
 pb	509	0523	7323598
 pb	510	0524	7323599
 pb	511	0525	7323600
 pb	512	0526	7323601
 pb	513	0527	7323602
-entry	Langue coupée		
-entry	Langue pendante		
-entry	Langue serpentine		
-entry	Langueur		
-entry	Languissant		
-entry	Lardacé		
-entry	Larmoiement		
+entry	Langue coupée	0	
+entry	Langue pendante	0	
+entry	Langue serpentine	0	
+entry	Langueur	0	
+entry	Languissant	0	
+entry	Lardacé	0	
+entry	Larmoiement	2	
 pb	514	0528	7323603
 pb	515	0529	7323604
-entry	Larron (le)		
-entry	Larvé		
-entry	Laryngite		
-entry	Laryngo-pharyngite		
-entry	Laryngotomie		
-entry	Laryngo-trachéite		
-entry	Larynx (maladies du)		
+entry	Larron (le)	0	
+entry	Larvé	0	
+entry	Laryngite	0	
+entry	Laryngo-pharyngite	0	
+entry	Laryngotomie	0	
+entry	Laryngo-trachéite	0	
+entry	Larynx (maladies du)	1	
 pb	516	0530	7323605
-entry	Lassitude		
+entry	Lassitude	1	
 pb	517	0531	7323606
-entry	Latent		
-entry	Laxité		
-entry	Lente (la)		
-entry	Lèpre		
-entry	Lésion		
+entry	Latent	0	
+entry	Laxité	0	
+entry	Lente (la)	0	
+entry	Lèpre	0	
+entry	Lésion	2	
 pb	518	0532	7323607
 pb	519	0533	7323608
-entry	Léthargie		
+entry	Léthargie	1	
 pb	520	0534	7323609
-entry	Leucoma, Leucome		
+entry	Leucoma, Leucome	0	
 orth	Leucoma		
 orth	Leucome		
-entry	Leucophlegmatie		
-entry	Leucorrhée		
-entry	Levat, Mal levat		
+entry	Leucophlegmatie	0	
+entry	Leucorrhée	0	
+entry	Levat, Mal levat	1	
 orth	Levat		
 orth	Mal levat		
 pb	521	0535	7323610
-entry	Lèvres (maladies des)		
-entry	Liarre, Liar (la)		
+entry	Lèvres (maladies des)	0	
+entry	Liarre, Liar (la)	0	
 orth	Liarre		
 orth	Liar (la)		
-entry	Licol de forge		
-entry	Liens		
-entry	Lienterie		
-entry	Ligature		
+entry	Licol de forge	0	
+entry	Liens	0	
+entry	Lienterie	0	
+entry	Ligature	3	
 pb	522	0536	7323611
 pb	523	0537	7323612
 pb	524	0538	7323613
-entry	Limace, Limaçon		
+entry	Limace, Limaçon	6	
 orth	Limace		
 orth	Limaçon		
 pb	525	0539	7323614
@@ -910,49 +910,49 @@ pb	527	0541	7323616
 pb	528	0542	7323617
 pb	529	0543	7323618
 pb	530	0544	7323619
-entry	Limace. Ver intestinal		
-entry	Limaçon (le)		
-entry	Limarcuola		
-entry	Limassura		
-entry	Lipôme		
+entry	Limace. Ver intestinal	0	
+entry	Limaçon (le)	0	
+entry	Limarcuola	0	
+entry	Limassura	0	
+entry	Lipôme	1	
 pb	531	0545	7323620
-entry	Lipothymie		
-entry	Lippitude		
-entry	Lithotomie		
-entry	Lit-muraille à bascule		
-entry	Lombric ou Lombricos		
+entry	Lipothymie	0	
+entry	Lippitude	0	
+entry	Lithotomie	0	
+entry	Lit-muraille à bascule	0	
+entry	Lombric ou Lombricos	0	
 orth	Lombric		
 orth	Lombricos		
-entry	Louet (le)		
-entry	Loup		
+entry	Louet (le)	0	
+entry	Loup	2	
 pb	532	0546	7323621
 pb	533	0547	7323622
-entry	Loupe		
+entry	Loupe	1	
 pb	534	0548	7323623
-entry	Loupe au coude		
-entry	Lourd (le), Lourdaine, Lourderie, Lourdinerie		
+entry	Loupe au coude	0	
+entry	Lourd (le), Lourdaine, Lourderie, Lourdinerie	0	
 orth	Lourd (le)		
 orth	Lourdaine		
 orth	Lourderie		
 orth	Lourdinerie		
-entry	Louveau		
-entry	Louvet, Lovat		
+entry	Louveau	0	
+entry	Louvet, Lovat	2	
 orth	Louvet		
 orth	Lovat		
 pb	535	0549	7323624
 pb	536	0550	7323625
-entry	Louvet (le)		
-entry	Lovat		
-entry	Lumbago		
+entry	Louvet (le)	0	
+entry	Lovat	0	
+entry	Lumbago	2	
 pb	537	0551	7323626
 pb	538	0552	7323627
-entry	Lumière		
+entry	Lumière	2	
 pb	539	0553	7323628
 pb	540	0554	7323629
-entry	Lunade des veaux		
-entry	Lunatique (cheval)		
-entry	Lunette		
-entry	Luxation		
+entry	Lunade des veaux	0	
+entry	Lunatique (cheval)	0	
+entry	Lunette	0	
+entry	Luxation	34	
 pb	541	0555	7323630
 pb	542	0556	7323631
 pb	543	0557	7323632
@@ -987,35 +987,35 @@ pb	571	0585	7323660
 pb	572	0586	7323661
 pb	573	0587	7323662
 pb	574	0588	7323663
-entry	Macrocéphale		
-entry	Macules (les)		
-entry	Madarose		
-entry	Magasin ou Grenier		
+entry	Macrocéphale	0	
+entry	Macules (les)	0	
+entry	Madarose	0	
+entry	Magasin ou Grenier	1	
 orth	Magasin		
 orth	Grenier		
 pb	575	0589	7323664
-entry	Maiges		
-entry	Maigreur		
+entry	Maiges	0	
+entry	Maigreur	2	
 pb	576	0590	7323665
 pb	577	0591	7323666
-entry	Mal		
-entry	Mal blanc		
-entry	Mal cup		
-entry	Mal d'âne		
+entry	Mal	0	
+entry	Mal blanc	0	
+entry	Mal cup	0	
+entry	Mal d'âne	1	
 pb	578	0592	7323667
-entry	Mal d'encolure		
-entry	Mal des ardens		
-entry	Mal de bouche		
-entry	Mal de brou		
-entry	Mal caduc		
-entry	Mal de cerf		
-entry	Mal de cuisse		
-entry	Mal de feu ou d'Espagne		
+entry	Mal d'encolure	0	
+entry	Mal des ardens	0	
+entry	Mal de bouche	0	
+entry	Mal de brou	0	
+entry	Mal caduc	0	
+entry	Mal de cerf	0	
+entry	Mal de cuisse	0	
+entry	Mal de feu ou d'Espagne	1	
 orth	Mal de feu		
 orth	d'Espagne		
 pb	579	0593	7323668
-entry	Mal de foie		
-entry	Mal de garrot		
+entry	Mal de foie	0	
+entry	Mal de garrot	25	
 pb	580	0594	7323669
 pb	581	0595	7323670
 pb	582	0596	7323671
@@ -1041,24 +1041,24 @@ pb	601	0615	7323690
 pb	602	0616	7323691
 pb	603	0617	7323692
 pb	604	0618	7323693
-entry	Mal de gorge		
-entry	Mal de langue		
-entry	Mal maou		
-entry	Mal de mouton		
-entry	Mal noir		
-entry	Mal de pied		
-entry	Mal de pis		
-entry	Mal de rate		
-entry	Mal de rognon		
+entry	Mal de gorge	0	
+entry	Mal de langue	0	
+entry	Mal maou	0	
+entry	Mal de mouton	0	
+entry	Mal noir	0	
+entry	Mal de pied	0	
+entry	Mal de pis	0	
+entry	Mal de rate	0	
+entry	Mal de rognon	3	
 pb	605	0619	7323694
 pb	606	0620	7323695
 pb	607	0621	7323696
-entry	Mal rouge		
-entry	Mal sacré		
-entry	Mal de saignée		
-entry	Mal Saint-Jean		
-entry	Mal sec		
-entry	Mal de taupe		
+entry	Mal rouge	0	
+entry	Mal sacré	0	
+entry	Mal de saignée	0	
+entry	Mal Saint-Jean	0	
+entry	Mal sec	0	
+entry	Mal de taupe	11	
 pb	608	0622	7323697
 pb	609	0623	7323698
 pb	610	0624	7323699
@@ -1070,10 +1070,10 @@ pb	615	0629	7323704
 pb	616	0630	7323705
 pb	617	0631	7323706
 pb	618	0632	7323707
-entry	Mal de la terre		
-entry	Mal de tête de contagion		
+entry	Mal de la terre	0	
+entry	Mal de tête de contagion	0	
 pb	[s. pag.]	0633	7323708
-entry	Errata du second Volume		
+entry	Errata du second Volume	0	
 pb	[s. pag.]	0634	7323709
 pb	[s. pag.]	0635	7323710
 pb	[s. pag.]	0636	7323711
@@ -1083,8 +1083,8 @@ pb	[s. pag.]	0639	7323714
 pb	[s. pag.]	0640	7323715
 pb	[s. pag.]	0641	7323716
 pb	[s. pag.]	0642	7323717
-entry	[Page de garde]		
+entry	[Page de garde]	0	
 pb	[s. pag.]	0643	7323718
-entry	[Contreplat]		
+entry	[Contreplat]	0	
 pb	[s. pag.]	0644	7323719
-entry	[Plat]		
+entry	[Plat]	0	

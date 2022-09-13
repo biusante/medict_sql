@@ -1,43 +1,43 @@
 pb	[s. pag.]	0001	4500031
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4500032
 pb	[s. pag.]	0003	4500033
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4500034
 pb	1	0005	4500035
-entry	Alhage, Alhagi ou Halhagi [H. Baillon]		
+entry	Alhage, Alhagi ou Halhagi [H. Baillon]	1	
 orth	Alhage, Alhagi ou Halhagi		
 pb	2	0006	4500036
-entry	Alhama de Aragon (Eaux minérales d') [A. Rotureau]		
+entry	Alhama de Aragon (Eaux minérales d') [A. Rotureau]	3	
 orth	Alhama de Aragon (Eaux minérales d')		
 pb	3	0007	4500037
 pb	4	0008	4500038
 pb	5	0009	4500039
-entry	Alhama de Granada (Eaux minérales d') [A. Rotureau]		
+entry	Alhama de Granada (Eaux minérales d') [A. Rotureau]	1	
 orth	Alhama de Granada (Eaux minérales d')		
 pb	6	0010	4500040
-entry	Alhama de Murcie (Eaux minérales d') [A. Rotureau]		
+entry	Alhama de Murcie (Eaux minérales d') [A. Rotureau]	1	
 orth	Alhama de Murcie (Eaux minérales d')		
 pb	7	0011	4500041
-entry	Ali-Abbas		
+entry	Ali-Abbas	0	
 ref	Hali-Abbas		
-entry	Alibert (Jean-Louis) [E. Beaugrand]		
+entry	Alibert (Jean-Louis) [E. Beaugrand]	2	
 orth	Alibert (Jean-Louis)		
 pb	8	0012	4500042
 pb	9	0013	4500043
-entry	Alibertie [H. Baillon]		
+entry	Alibertie [H. Baillon]	0	
 orth	Alibertie		
-entry	Aliboufier ou Aligoufier [H. Baillon]		
+entry	Aliboufier ou Aligoufier [H. Baillon]	2	
 orth	Aliboufier ou Aligoufier		
 pb	10	0014	4500044
 pb	11	0015	4500045
-entry	Matière médicale [O. Reveil]		
+entry	Matière médicale [O. Reveil]	0	
 orth	Matière médicale		
-entry	Alica [H. Baillon]		
+entry	Alica [H. Baillon]	0	
 orth	Alica		
-entry	Alidio (Carlo-Antonio) [E. Beaugrand]		
+entry	Alidio (Carlo-Antonio) [E. Beaugrand]	0	
 orth	Alidio (Carlo-Antonio)		
-entry	Aliénation [Max. Parchappe]		
+entry	Aliénation [Max. Parchappe]	21	
 orth	Aliénation		
 pb	12	0016	4500046
 pb	13	0017	4500047
@@ -61,10 +61,10 @@ pb	30	0034	4500064
 pb	31	0035	4500065
 pb	32	0036	4500066
 pb	33	0037	4500067
-entry	Aliénation [Max. Parchappe] [E. Beaugrand] 		
+entry	Aliénation [Max. Parchappe] [E. Beaugrand] 	0	
 orth	Aliénation 		
 pb	43	0038	4500068
-entry	Aliénation [Max. Parchappe]		
+entry	Aliénation [Max. Parchappe]	11	
 orth	Aliénation		
 pb	35	0039	4500069
 pb	36	0040	4500070
@@ -78,16 +78,16 @@ pb	43	0047	4500077
 pb	44	0048	4500078
 pb	45	0049	4500079
 pb	46	0050	4500080
-entry	Aliénation [Max. Parchappe] [E. Beaugrand]		
+entry	Aliénation [Max. Parchappe] [E. Beaugrand]	4	
 orth	Aliénation		
 pb	47	0051	4500081
 pb	48	0052	4500082
 pb	49	0053	4500083
 pb	50	0054	4500084
-entry	Aliénés [Max. Parchappe]		
+entry	Aliénés [Max. Parchappe]	1	
 orth	Aliénés		
 pb	51	0055	4500085
-entry	Aliénés. Législation [Max. Parchappe]		
+entry	Aliénés. Législation [Max. Parchappe]	12	
 orth	Aliénés. Législation		
 pb	52	0056	4500086
 pb	53	0057	4500087
@@ -101,7 +101,7 @@ pb	60	0064	4500094
 pb	61	0065	4500095
 pb	62	0066	4500096
 pb	63	0067	4500097
-entry	Aliénés. Assistance publique [Max. Parchappe]		
+entry	Aliénés. Assistance publique [Max. Parchappe]	17	
 orth	Aliénés. Assistance publique		
 pb	64	0068	4500098
 pb	65	0069	4500099
@@ -120,7 +120,7 @@ pb	77	0081	4500111
 pb	78	0082	4500112
 pb	79	0083	4500113
 pb	80	0084	4500114
-entry	Aliénés. Asiles d'aliénés [Max. Parchappe]		
+entry	Aliénés. Asiles d'aliénés [Max. Parchappe]	28	
 orth	Aliénés. Asiles d'aliénés		
 pb	81	0085	4500115
 pb	82	0086	4500116
@@ -151,7 +151,7 @@ pb	106	0110	4500140
 pb	107	0111	4500141
 pb	108	0112	4500142
 pb	109	0113	4500143
-entry	Aliénés. Asiles d'aliénés [Max. Parchappe] [E. Beaugrand]		
+entry	Aliénés. Asiles d'aliénés [Max. Parchappe] [E. Beaugrand]	9	
 orth	Aliénés. Asiles d'aliénés		
 pb	110	0114	4500144
 pb	111	0115	4500145
@@ -162,7 +162,7 @@ pb	115	0119	4500149
 pb	116	0120	4500150
 pb	117	0121	4500151
 pb	118	0122	4500152
-entry	Aliénés. Médecine légale [A. Linas]		
+entry	Aliénés. Médecine légale [A. Linas]	45	
 orth	Aliénés. Médecine légale		
 pb	119	0123	4500153
 pb	120	0124	4500154
@@ -209,7 +209,7 @@ pb	160	0164	4500194
 pb	161	0165	4500195
 pb	162	0166	4500196
 pb	163	0167	4500197
-entry	Aliénés. Maladies intercurrentes des aliénés [Calmeil]		
+entry	Aliénés. Maladies intercurrentes des aliénés [Calmeil]	25	
 orth	Aliénés. Maladies intercurrentes des aliénés		
 pb	164	0168	4500198
 pb	165	0169	4500199
@@ -236,7 +236,7 @@ pb	185	0189	4500219
 pb	186	0190	4500220
 pb	187	0191	4500221
 pb	188	0192	4500222
-entry	Alimentation [Fonssagrives]		
+entry	Alimentation [Fonssagrives]	25	
 orth	Alimentation		
 pb	189	0193	4500223
 pb	190	0194	4500224
@@ -264,7 +264,7 @@ pb	211	0215	4500245
 pb	212	0216	4500246
 pb	213	0217	4500247
 pb	214	0218	4500248
-entry	Aliments [Coulier]		
+entry	Aliments [Coulier]	23	
 orth	Aliments		
 pb	215	0219	4500249
 pb	216	0220	4500250
@@ -290,51 +290,51 @@ pb	235	0239	4500269
 pb	236	0240	4500270
 pb	237	0241	4500271
 pb	238	0242	4500272
-entry	Aliments [Coulier] [E. Beaugrand]		
+entry	Aliments [Coulier] [E. Beaugrand]	3	
 orth	Aliments		
 pb	239	0243	4500273
 pb	240	0244	4500274
 pb	241	0245	4500275
-entry	Alipata		
-entry	Aliptique		
+entry	Alipata	0	
+entry	Aliptique	1	
 pb	242	0246	4500276
-entry	Alise, Alisier [H. Baillon]		
+entry	Alise, Alisier [H. Baillon]	0	
 orth	Alise, Alisier		
-entry	Emploi médical [O. Reveil]		
+entry	Emploi médical [O. Reveil]	0	
 orth	Emploi médical		
-entry	Alisma, Alismacées [H. Baillon]		
+entry	Alisma, Alismacées [H. Baillon]	0	
 orth	Alisma, Alismacées		
-entry	Alisma, Alismacées. Emploi médical [Amédée Dechambre]		
+entry	Alisma, Alismacées. Emploi médical [Amédée Dechambre]	1	
 orth	Alisma, Alismacées. Emploi médical		
 pb	243	0247	4500277
-entry	Alitement [Fonssagrives]		
+entry	Alitement [Fonssagrives]	3	
 orth	Alitement		
 pb	244	0248	4500278
 pb	245	0249	4500279
 pb	246	0250	4500280
-entry	Alix (Mathieu-François) [E. Beaugrand]		
+entry	Alix (Mathieu-François) [E. Beaugrand]	0	
 orth	Alix (Mathieu-François)		
-entry	Alizarine [C. Lutz]		
+entry	Alizarine [C. Lutz]	1	
 orth	Alizarine		
 pb	247	0251	4500281
-entry	Alkanna		
+entry	Alkanna	0	
 ref	Heuné		
 ref	Orcanette		
-entry	Alkékenge ou Coqueret [H. Baillon]		
+entry	Alkékenge ou Coqueret [H. Baillon]	1	
 orth	Alkékenge ou Coqueret		
 pb	248	0252	4500282
-entry	Matière médicale [O. Reveil]		
+entry	Matière médicale [O. Reveil]	0	
 orth	Matière médicale		
-entry	Emploi médical [Amédée Dechambre]		
+entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
-entry	Alkermès [T. Gobley]		
+entry	Alkermès [T. Gobley]	1	
 orth	Alkermès		
 pb	249	0253	4500283
-entry	Alkindi (Abu Jusuf Jacub ben Ishak ben Alsabab Alkindi) [Ch. Daremberg]		
+entry	Alkindi (Abu Jusuf Jacub ben Ishak ben Alsabab Alkindi) [Ch. Daremberg]	0	
 orth	Alkindi (Abu Jusuf Jacub ben Ishak ben Alsabab Alkindi)		
-entry	Alkooshee		
+entry	Alkooshee	0	
 ref	Mucuna		
-entry	Allaitement [Jacquemier]		
+entry	Allaitement [Jacquemier]	37	
 orth	Allaitement		
 pb	250	0254	4500284
 pb	251	0255	4500285
@@ -373,22 +373,22 @@ pb	283	0287	4500317
 pb	284	0288	4500318
 pb	285	0289	4500319
 pb	286	0290	4500320
-entry	Allamanda [H. Baillon]		
+entry	Allamanda [H. Baillon]	1	
 orth	Allamanda		
 pb	287	0291	4500321
-entry	Allantoïde [Campana]		
+entry	Allantoïde [Campana]	3	
 orth	Allantoïde		
 pb	288	0292	4500322
 pb	289	0293	4500323
 pb	290	0294	4500324
-entry	Allantoïne ou Acide allantoïque, amniotique [P. Schutzenberger]		
+entry	Allantoïne ou Acide allantoïque, amniotique [P. Schutzenberger]	1	
 orth	Allantoïne ou Acide allantoïque, amniotique		
 pb	291	0295	4500325
-entry	Allasia		
+entry	Allasia	0	
 ref	Gattilier		
-entry	Alleluia		
+entry	Alleluia	0	
 ref	Surelle		
-entry	Allemagne [Achille Guillard]		
+entry	Allemagne [Achille Guillard]	39	
 orth	Allemagne		
 pb	292	0296	4500326
 pb	293	0297	4500327
@@ -429,10 +429,10 @@ pb	327	0331	4500361
 pb	328	0332	4500362
 pb	329	0333	4500363
 pb	330	0334	4500364
-entry	Allen (John) [E. Beaugrand]		
+entry	Allen (John) [E. Beaugrand]	1	
 orth	Allen (John)		
 pb	331	0335	4500365
-entry	Allevard (Eaux minérales d') [A. Rotureau]		
+entry	Allevard (Eaux minérales d') [A. Rotureau]	7	
 orth	Allevard (Eaux minérales d')		
 pb	332	0336	4500366
 pb	333	0337	4500367
@@ -441,46 +441,46 @@ pb	335	0339	4500369
 pb	336	0340	4500370
 pb	337	0341	4500371
 pb	338	0342	4500372
-entry	Alliages [C. Lutz]		
+entry	Alliages [C. Lutz]	3	
 orth	Alliages		
 pb	339	0343	4500373
 pb	340	0344	4500374
 pb	341	0345	4500375
-entry	Alliaire [H. Baillon]		
+entry	Alliaire [H. Baillon]	1	
 orth	Alliaire		
 pb	342	0346	4500376
-entry	Allioni (Charles) [A. Chéreau]		
+entry	Allioni (Charles) [A. Chéreau]	0	
 orth	Allioni (Charles)		
-entry	Alliot (Les) [A. Chéreau]		
+entry	Alliot (Les) [A. Chéreau]	1	
 orth	Alliot (Les)		
 pb	343	0347	4500377
-entry	Allium		
+entry	Allium	0	
 ref	Ail		
-entry	Allmacher ou Almacher (Johann-Friedrich) [E. Beaugrand]		
+entry	Allmacher ou Almacher (Johann-Friedrich) [E. Beaugrand]	1	
 orth	Allmacher ou Almacher (Johann-Friedrich)		
 pb	344	0348	4500378
-entry	Allopathie [Amédée Dechambre]		
+entry	Allopathie [Amédée Dechambre]	0	
 orth	Allopathie		
-entry	Allophyliennes (Races) [Paul Broca]		
+entry	Allophyliennes (Races) [Paul Broca]	1	
 orth	Allophyliennes (Races)		
 pb	345	0349	4500379
-entry	Allophyllus		
-entry	Allosore [H. Baillon]		
+entry	Allophyllus	0	
+entry	Allosore [H. Baillon]	0	
 orth	Allosore		
-entry	Allotropie		
+entry	Allotropie	0	
 ref	Isomérie		
-entry	Allouchier		
+entry	Allouchier	0	
 ref	Alisier		
-entry	Alloxane ou Acide érithrique [P. Schutzenberger]		
+entry	Alloxane ou Acide érithrique [P. Schutzenberger]	1	
 orth	Alloxane ou Acide érithrique		
 pb	346	0350	4500380
-entry	Alloxantine [P. Schutzenberger]		
+entry	Alloxantine [P. Schutzenberger]	1	
 orth	Alloxantine		
 pb	347	0351	4500381
-entry	Allumettes. ( Hyg. publique et professionnelle) [E. Beaugrand]		
+entry	Allumettes. ( Hyg. publique et professionnelle) [E. Beaugrand]	0	
 orth	Allumettes. ( Hyg. publique et professionnelle)		
 pb	348	0352	4500382
-entry	Allumettes. (Hyg. publique et professionnelle) [E. Beaugrand]		
+entry	Allumettes. (Hyg. publique et professionnelle) [E. Beaugrand]	9	
 orth	Allumettes. (Hyg. publique et professionnelle)		
 pb	349	0353	4500383
 pb	350	0354	4500384
@@ -491,42 +491,42 @@ pb	354	0358	4500388
 pb	355	0359	4500389
 pb	356	0360	4500390
 pb	357	0361	4500391
-entry	Allyle [O. Reveil]		
+entry	Allyle [O. Reveil]	0	
 orth	Allyle		
-entry	Almacigo		
+entry	Almacigo	0	
 ref	Gomard		
-entry	Almeida (Antonio d') [A. Chéreau]		
+entry	Almeida (Antonio d') [A. Chéreau]	1	
 orth	Almeida (Antonio d')		
 pb	358	0362	4500392
-entry	Almeidea		
+entry	Almeidea	0	
 ref	Angusture		
-entry	Almeloveen (Théodore Jansson van) [A. Chéreau]		
+entry	Almeloveen (Théodore Jansson van) [A. Chéreau]	1	
 orth	Almeloveen (Théodore Jansson van)		
 pb	359	0363	4500393
-entry	Almenar (Jean) [A. Chéreau]		
+entry	Almenar (Jean) [A. Chéreau]	0	
 orth	Almenar (Jean)		
-entry	Almeria (Eaux minérales d') [A. Rotureau]		
+entry	Almeria (Eaux minérales d') [A. Rotureau]	1	
 orth	Almeria (Eaux minérales d')		
 pb	360	0364	4500394
-entry	Alnus		
+entry	Alnus	0	
 ref	Aune		
-entry	Alocasia		
+entry	Alocasia	0	
 ref	Colocase		
-entry	Aloérétinique (Acide)		
-entry	Aloès [H. Baillon]		
+entry	Aloérétinique (Acide)	0	
+entry	Aloès [H. Baillon]	5	
 orth	Aloès		
 pb	361	0365	4500395
 pb	362	0366	4500396
 pb	363	0367	4500397
 pb	364	0368	4500398
 pb	365	0369	4500399
-entry	Aloès. Pharmacologie [O. Reveil]		
+entry	Aloès. Pharmacologie [O. Reveil]	4	
 orth	Aloès. Pharmacologie		
 pb	366	0370	4500400
 pb	367	0371	4500401
 pb	368	0372	4500402
 pb	369	0373	4500403
-entry	Aloès. Thérapeutique [Fonssagrives]		
+entry	Aloès. Thérapeutique [Fonssagrives]	8	
 orth	Aloès. Thérapeutique		
 pb	370	0374	4500404
 pb	371	0375	4500405
@@ -537,20 +537,20 @@ pb	375	0379	4500409
 pb	376	0380	4500410
 pb	377	0381	4500411
 pb	378	0382	4500412
-entry	Aloès (Bois d')		
+entry	Aloès (Bois d')	0	
 ref	Bois d'Aloès		
-entry	Aloétine		
-entry	Aloétique (Acide) [O. Reveil]		
+entry	Aloétine	0	
+entry	Aloétique (Acide) [O. Reveil]	0	
 orth	Aloétique (Acide)		
-entry	Aloexylon [H. Baillon]		
+entry	Aloexylon [H. Baillon]	0	
 orth	Aloexylon		
-entry	Aloine		
+entry	Aloine	0	
 ref	Aloès		
-entry	Aloinées [H. Baillon]		
+entry	Aloinées [H. Baillon]	0	
 orth	Aloinées		
-entry	Aloisol		
+entry	Aloisol	0	
 ref	Aloès		
-entry	Alopécie [E. Bazin]		
+entry	Alopécie [E. Bazin]	9	
 orth	Alopécie		
 pb	379	0383	4500413
 pb	380	0384	4500414
@@ -561,52 +561,52 @@ pb	384	0388	4500418
 pb	385	0389	4500419
 pb	386	0390	4500420
 pb	387	0391	4500421
-entry	Alopécure ou Vulpin [H. Baillon]		
+entry	Alopécure ou Vulpin [H. Baillon]	0	
 orth	Alopécure ou Vulpin		
-entry	Alouchi (Résine) [H. Baillon]		
+entry	Alouchi (Résine) [H. Baillon]	0	
 orth	Alouchi (Résine)		
-entry	Aloutcha		
+entry	Aloutcha	0	
 ref	Tabac		
-entry	Aloysia		
+entry	Aloysia	0	
 ref	Citronnelle		
 ref	Verveine		
 pb	388	0392	4500422
-entry	Alpago (André) [A. Chéreau]		
+entry	Alpago (André) [A. Chéreau]	0	
 orth	Alpago (André)		
-entry	Alphonse Lopez de Corella		
+entry	Alphonse Lopez de Corella	0	
 ref	Lopez		
-entry	Alphonsin [E. Beaugrand]		
+entry	Alphonsin [E. Beaugrand]	0	
 orth	Alphonsin		
-entry	Alphos [E. Beaugrand]		
+entry	Alphos [E. Beaugrand]	1	
 orth	Alphos		
 pb	389	0393	4500423
-entry	Alpinia [H. Baillon]		
+entry	Alpinia [H. Baillon]	1	
 orth	Alpinia		
 pb	390	0394	4500424
 pb	391	0395	4500425
-entry	Alpino (Prosper) [E. Beaugrand]		
+entry	Alpino (Prosper) [E. Beaugrand]	0	
 orth	Alpino (Prosper)		
-entry	Alpiste [H. Baillon]		
+entry	Alpiste [H. Baillon]	1	
 orth	Alpiste		
 pb	392	0396	4500426
-entry	Alsaharavi		
+entry	Alsaharavi	0	
 ref	Albucasis		
-entry	Alsario (Vincent)		
+entry	Alsario (Vincent)	0	
 ref	Cruce (Vincent Alsarius à)		
-entry	Alsinées [H. Baillon]		
+entry	Alsinées [H. Baillon]	0	
 orth	Alsinées		
-entry	Alsodeia		
-entry	Alston (Charles) [E. Beaugrand]		
+entry	Alsodeia	0	
+entry	Alston (Charles) [E. Beaugrand]	0	
 orth	Alston (Charles)		
-entry	Alstonie [H. Baillon]		
+entry	Alstonie [H. Baillon]	2	
 orth	Alstonie		
 pb	393	0397	4500427
 pb	394	0398	4500428
-entry	Alstroemère [H. Baillon]		
+entry	Alstroemère [H. Baillon]	0	
 orth	Alstroemère		
-entry	Altérante (Médication)		
+entry	Altérante (Médication)	0	
 ref	Altérants		
-entry	Altérants [A. Gubler]		
+entry	Altérants [A. Gubler]	8	
 orth	Altérants		
 pb	395	0399	4500429
 pb	396	0400	4500430
@@ -616,22 +616,22 @@ pb	399	0403	4500433
 pb	400	0404	4500434
 pb	401	0405	4500435
 pb	402	0406	4500436
-entry	Altérants		
-entry	Altérants. Halitantia [A. Gubler]		
+entry	Altérants	0	
+entry	Altérants. Halitantia [A. Gubler]	1	
 orth	Altérants. Halitantia		
 pb	403	0407	4500437
-entry	Alternante (Génération)		
+entry	Alternante (Génération)	0	
 ref	Génération		
-entry	Althée		
+entry	Althée	0	
 ref	Guimauve		
-entry	Althéine		
+entry	Althéine	0	
 ref	Asparagine		
-entry	Althionique (Acide) [C. Lutz]		
+entry	Althionique (Acide) [C. Lutz]	0	
 orth	Althionique (Acide)		
-entry	Altingia		
+entry	Altingia	0	
 ref	Dammara		
 ref	Liquidambar		
-entry	Altitudes [A. Le Roy de Méricourt]		
+entry	Altitudes [A. Le Roy de Méricourt]	25	
 orth	Altitudes		
 pb	404	0408	4500438
 pb	405	0409	4500439
@@ -658,26 +658,26 @@ pb	425	0429	4500459
 pb	426	0430	4500460
 pb	427	0431	4500461
 pb	428	0432	4500462
-entry	Altomari (Donat-Antoine) [A. Chéreau]		
+entry	Altomari (Donat-Antoine) [A. Chéreau]	1	
 orth	Altomari (Donat-Antoine)		
 pb	429	0433	4500463
-entry	Aludel		
+entry	Aludel	0	
 ref	Appareils		
-entry	Aluine ou Aluyne		
+entry	Aluine ou Aluyne	0	
 ref	Absinthe		
-entry	Aluminates - Alumine		
+entry	Aluminates - Alumine	0	
 ref	Aluminium		
-entry	Aluminium		
-entry	Aluminium. Chimie [C. Lutz]		
+entry	Aluminium	0	
+entry	Aluminium. Chimie [C. Lutz]	4	
 orth	Aluminium. Chimie		
 pb	430	0434	4500464
 pb	431	0435	4500465
 pb	432	0436	4500466
 pb	433	0437	4500467
-entry	Aluminium. Pharmacologie [T. Gobley]		
+entry	Aluminium. Pharmacologie [T. Gobley]	1	
 orth	Aluminium. Pharmacologie		
 pb	434	0438	4500468
-entry	Aluminium. Thérapeutique [J. Delioux de Savignac]		
+entry	Aluminium. Thérapeutique [J. Delioux de Savignac]	7	
 orth	Aluminium. Thérapeutique		
 pb	435	0439	4500469
 pb	436	0440	4500470
@@ -686,20 +686,20 @@ pb	438	0442	4500472
 pb	439	0443	4500473
 pb	440	0444	4500474
 pb	441	0445	4500475
-entry	Alun		
-entry	Alun. Chimie [O. Reveil]		
+entry	Alun	0	
+entry	Alun. Chimie [O. Reveil]	1	
 orth	Alun. Chimie		
 pb	442	0446	4500476
-entry	Alun. Pharmacologie [O. Reveil]		
+entry	Alun. Pharmacologie [O. Reveil]	1	
 orth	Alun. Pharmacologie		
 pb	443	0447	4500477
-entry	Alun. Toxicologie [O. Reveil]		
+entry	Alun. Toxicologie [O. Reveil]	1	
 orth	Alun. Toxicologie		
 pb	444	0448	4500478
-entry	Thérapeutique [A. Delioux de Savignac]		
+entry	Thérapeutique [A. Delioux de Savignac]	0	
 orth	Thérapeutique		
 pb	445	0449	4500479
-entry	Alun. Thérapeutique [J. Delioux de Savignac]		
+entry	Alun. Thérapeutique [J. Delioux de Savignac]	18	
 orth	Alun. Thérapeutique		
 pb	446	0450	4500480
 pb	447	0451	4500481
@@ -719,79 +719,79 @@ pb	460	0464	4500494
 pb	461	0465	4500495
 pb	462	0466	4500496
 pb	463	0467	4500497
-entry	Alun. Hygiène industrielle et professionnelle [E. Beaugrand]		
+entry	Alun. Hygiène industrielle et professionnelle [E. Beaugrand]	1	
 orth	Alun. Hygiène industrielle et professionnelle		
 pb	464	0468	4500498
-entry	Alvarez (Antoine) [A. Chéreau]		
+entry	Alvarez (Antoine) [A. Chéreau]	0	
 orth	Alvarez (Antoine)		
-entry	Alvéolaire (Bord ou procès, processus)		
-entry	Alvéolaires (Vaisseaux et nerfs) [E. Magitot]		
+entry	Alvéolaire (Bord ou procès, processus)	0	
+entry	Alvéolaires (Vaisseaux et nerfs) [E. Magitot]	1	
 orth	Alvéolaires (Vaisseaux et nerfs)		
 pb	465	0469	4500499
-entry	Alvéole dentaire [E. Magitot]		
+entry	Alvéole dentaire [E. Magitot]	2	
 orth	Alvéole dentaire		
 pb	466	0470	4500500
 pb	467	0471	4500501
-entry	Alvéolo-dentaire (Périoste)		
-entry	Alviès (Résines d') [H. Baillon]		
+entry	Alvéolo-dentaire (Périoste)	0	
+entry	Alviès (Résines d') [H. Baillon]	0	
 orth	Alviès (Résines d')		
-entry	Alyon (Pierre-Philippe) [E. Beaugrand]		
+entry	Alyon (Pierre-Philippe) [E. Beaugrand]	0	
 orth	Alyon (Pierre-Philippe)		
-entry	Alypum ou Alypon		
-entry	Alyre (Saint-) (Eaux minérales de)		
+entry	Alypum ou Alypon	0	
+entry	Alyre (Saint-) (Eaux minérales de)	0	
 ref	Clermont-Ferrand		
-entry	Alysson [H. Baillon]		
+entry	Alysson [H. Baillon]	0	
 orth	Alysson		
-entry	Alyxie [H. Baillon]		
+entry	Alyxie [H. Baillon]	1	
 orth	Alyxie		
 pb	468	0472	4500502
-entry	Alzola (Eau minérale d') [A. Rotureau]		
+entry	Alzola (Eau minérale d') [A. Rotureau]	2	
 orth	Alzola (Eau minérale d')		
 pb	469	0473	4500503
 pb	470	0474	4500504
-entry	Amada		
-entry	Amadei (Guillaume-Antoine) [A. Chéreau]		
+entry	Amada	0	
+entry	Amadei (Guillaume-Antoine) [A. Chéreau]	1	
 orth	Amadei (Guillaume-Antoine)		
 pb	471	0475	4500505
-entry	Amadou [O. Reveil]		
+entry	Amadou [O. Reveil]	1	
 orth	Amadou		
 pb	472	0476	4500506
-entry	Amadou. Thérapeutique [Léon Labbé]		
+entry	Amadou. Thérapeutique [Léon Labbé]	1	
 orth	Amadou. Thérapeutique		
 pb	473	0477	4500507
-entry	Amadouvier		
+entry	Amadouvier	0	
 ref	Amadou		
-entry	Amadum [H. Baillon]		
+entry	Amadum [H. Baillon]	0	
 orth	Amadum		
-entry	Amaigrissement		
+entry	Amaigrissement	0	
 ref	Émaciation		
 ref	Inanition		
-entry	Amalgames [J. Regnauld]		
+entry	Amalgames [J. Regnauld]	5	
 orth	Amalgames		
 pb	474	0478	4500508
 pb	475	0479	4500509
 pb	476	0480	4500510
 pb	477	0481	4500511
 pb	478	0482	4500512
-entry	Amand (Saint-) (Eaux minérales et boues de) [A. Rotureau]		
+entry	Amand (Saint-) (Eaux minérales et boues de) [A. Rotureau]	4	
 orth	Amand (Saint-) (Eaux minérales et boues de)		
 pb	479	0483	4500513
 pb	480	0484	4500514
 pb	481	0485	4500515
 pb	482	0486	4500516
-entry	Amand (Jean de Saint-) [A. Chéreau]		
+entry	Amand (Jean de Saint-) [A. Chéreau]	1	
 orth	Amand (Jean de Saint-)		
 pb	483	0487	4500517
-entry	Amand (Pierre) [A. Chéreau]		
+entry	Amand (Pierre) [A. Chéreau]	0	
 orth	Amand (Pierre)		
-entry	Amandes amère		
+entry	Amandes amère	0	
 ref	Champignons		
-entry	Amandes		
+entry	Amandes	0	
 ref	Amandier		
-entry	Amandier [H. Baillon]		
+entry	Amandier [H. Baillon]	1	
 orth	Amandier		
 pb	484	0488	4500518
-entry	Amandier. Matière médicale, pharmacologie, toxicologie et thérapeutique [O. Reveil]		
+entry	Amandier. Matière médicale, pharmacologie, toxicologie et thérapeutique [O. Reveil]	7	
 orth	Amandier. Matière médicale, pharmacologie, toxicologie et thérapeutique		
 pb	485	0489	4500519
 pb	486	0490	4500520
@@ -800,9 +800,9 @@ pb	488	0492	4500522
 pb	489	0493	4500523
 pb	490	0494	4500524
 pb	491	0495	4500525
-entry	Amandine [O. Reveil]		
+entry	Amandine [O. Reveil]	0	
 orth	Amandine		
-entry	Amanites [Jacques Bertillon]		
+entry	Amanites [Jacques Bertillon]	20	
 orth	Amanites		
 pb	492	0496	4500526
 pb	493	0497	4500527
@@ -824,53 +824,53 @@ pb	508	0512	4500542
 pb	509	0513	4500543
 pb	510	0514	4500544
 pb	511	0515	4500545
-entry	Amanitine [O. Reveil]		
+entry	Amanitine [O. Reveil]	0	
 orth	Amanitine		
-entry	Amanrich (Cyr) [A. Chéreau]		
+entry	Amanrich (Cyr) [A. Chéreau]	1	
 orth	Amanrich (Cyr)		
 pb	512	0516	4500546
-entry	Amantéa (Bruno) [E. Beaugrand]		
+entry	Amantéa (Bruno) [E. Beaugrand]	0	
 orth	Amantéa (Bruno)		
-entry	Amanthine [O. Reveil]		
+entry	Amanthine [O. Reveil]	0	
 orth	Amanthine		
-entry	Amar (José) [E. Beaugrand]		
+entry	Amar (José) [E. Beaugrand]	0	
 orth	Amar (José)		
 pb	513	0517	4500547
-entry	Amaracus [H. Baillon]		
+entry	Amaracus [H. Baillon]	0	
 orth	Amaracus		
-entry	Amaracus. Emploi médical [Amédée Dechambre]		
+entry	Amaracus. Emploi médical [Amédée Dechambre]	1	
 orth	Amaracus. Emploi médical		
 pb	514	0518	4500548
-entry	Amarantacées [H. Baillon]		
+entry	Amarantacées [H. Baillon]	0	
 orth	Amarantacées		
-entry	Amarante [H. Baillon]		
+entry	Amarante [H. Baillon]	1	
 orth	Amarante		
 pb	515	0519	4500549
-entry	Amarantine		
+entry	Amarantine	0	
 ref	Gomphrénie		
-entry	Amarantaca [H. Baillon]		
+entry	Amarantaca [H. Baillon]	0	
 orth	Amarantaca		
-entry	Amaratum		
+entry	Amaratum	0	
 ref	Spondias		
-entry	Amarine [O. Reveil]		
+entry	Amarine [O. Reveil]	0	
 orth	Amarine		
-entry	Amaroné [O. Réveil]		
+entry	Amaroné [O. Réveil]	0	
 orth	Amaroné		
-entry	Amaryllis, Amaryllidées [H. Baillon]		
+entry	Amaryllis, Amaryllidées [H. Baillon]	1	
 orth	Amaryllis, Amaryllidées		
 pb	516	0520	4500550
-entry	Amarythrine ou Amer d'Érythrine [O. Réveil]		
+entry	Amarythrine ou Amer d'Érythrine [O. Réveil]	0	
 orth	Amarythrine ou Amer d'Érythrine		
-entry	Amasatine ou Isamide [O. Réveil]		
+entry	Amasatine ou Isamide [O. Réveil]	0	
 orth	Amasatine ou Isamide		
-entry	Ama-Tsja [H. Baillon]		
+entry	Ama-Tsja [H. Baillon]	0	
 orth	Ama-Tsja		
 pb	517	0521	4500551
-entry	Amatum		
+entry	Amatum	0	
 ref	Spondias		
-entry	Amatus Lusitanus [A. Chéreau]		
+entry	Amatus Lusitanus [A. Chéreau]	0	
 orth	Amatus Lusitanus		
-entry	Amaurose [E. Follin]		
+entry	Amaurose [E. Follin]	29	
 orth	Amaurose		
 pb	518	0522	4500552
 pb	519	0523	4500553
@@ -901,57 +901,57 @@ pb	543	0547	4500577
 pb	544	0548	4500578
 pb	545	0549	4500579
 pb	546	0550	4500580
-entry	Ambalam		
+entry	Ambalam	0	
 ref	Spondias		
-entry	Ambaville, Amblaville		
+entry	Ambaville, Amblaville	0	
 ref	Millepertuis		
-entry	Ambela		
+entry	Ambela	0	
 ref	Chéramelier		
-entry	Ambelanie [H. Baillon]		
+entry	Ambelanie [H. Baillon]	1	
 orth	Ambelanie		
 pb	547	0551	4500581
-entry	Amberboa		
+entry	Amberboa	0	
 ref	Centaurée		
-entry	Ambert (Eaux minérales d') [A. Rotureau]		
+entry	Ambert (Eaux minérales d') [A. Rotureau]	1	
 orth	Ambert (Eaux minérales d')		
 pb	548	0552	4500582
-entry	Ambi [Léon Lefort]		
+entry	Ambi [Léon Lefort]	0	
 orth	Ambi		
-entry	Ambinux		
+entry	Ambinux	0	
 ref	Aleurites		
-entry	Amblyopie [E. Follin]		
+entry	Amblyopie [E. Follin]	0	
 orth	Amblyopie		
-entry	Amboise (Les d') [A. Chéreau]		
+entry	Amboise (Les d') [A. Chéreau]	1	
 orth	Amboise (Les d')		
 pb	549	0553	4500583
 pb	550	0554	4500584
-entry	Ambra liquida		
+entry	Ambra liquida	0	
 ref	Liquidambar		
-entry	Ambre [O. Reveil]		
+entry	Ambre [O. Reveil]	1	
 orth	Ambre		
 pb	551	0555	4500585
-entry	Pharmacologie [O. Reveil]		
+entry	Pharmacologie [O. Reveil]	0	
 orth	Pharmacologie		
-entry	Ambre. Thérapeutique [O. Reveil]		
+entry	Ambre. Thérapeutique [O. Reveil]	1	
 orth	Ambre. Thérapeutique		
 pb	552	0556	4500586
-entry	Ambre (jaune)		
+entry	Ambre (jaune)	0	
 ref	Succin		
-entry	Ambréine		
+entry	Ambréine	0	
 ref	Ambre		
-entry	Ambrette		
+entry	Ambrette	0	
 ref	Abelmosch		
 ref	Ketmie		
-entry	Ambrina [H. Baillon]		
+entry	Ambrina [H. Baillon]	0	
 orth	Ambrina		
-entry	Ambrosie [H. Baillon]		
+entry	Ambrosie [H. Baillon]	1	
 orth	Ambrosie		
 pb	553	0557	4500587
-entry	Ambroisie, ou Thé du Mexique [H. Baillon]		
+entry	Ambroisie, ou Thé du Mexique [H. Baillon]	0	
 orth	Ambroisie, ou Thé du Mexique		
-entry	Ambrosini (les deux frères) [A. Chéreau]		
+entry	Ambrosini (les deux frères) [A. Chéreau]	0	
 orth	Ambrosini (les deux frères)		
-entry	Ambulance [Michel Lévy]		
+entry	Ambulance [Michel Lévy]	24	
 orth	Ambulance		
 pb	554	0558	4500588
 pb	555	0559	4500589
@@ -977,16 +977,16 @@ pb	574	0578	4500608
 pb	575	0579	4500609
 pb	576	0580	4500610
 pb	577	0581	4500611
-entry	Ambulie [H. Baillon]		
+entry	Ambulie [H. Baillon]	0	
 orth	Ambulie		
-entry	Ambul-Ghoorka		
+entry	Ambul-Ghoorka	0	
 ref	Stalagmitis		
 ref	Xanthochymus		
-entry	Ambuxon		
+entry	Ambuxon	0	
 ref	Herbe-aux-Gueux		
-entry	Amelanchier		
+entry	Amelanchier	0	
 ref	Alisier		
-entry	Amélie-les-Bains (Eaux minérales d') [A. Rotureau]		
+entry	Amélie-les-Bains (Eaux minérales d') [A. Rotureau]	7	
 orth	Amélie-les-Bains (Eaux minérales d')		
 pb	578	0582	4500612
 pb	579	0583	4500613
@@ -995,11 +995,11 @@ pb	581	0585	4500615
 pb	582	0586	4500616
 pb	583	0587	4500617
 pb	584	0588	4500618
-entry	Amelung (Pierre) [A. Chéreau]		
+entry	Amelung (Pierre) [A. Chéreau]	0	
 orth	Amelung (Pierre)		
-entry	Amelxine [H. Baillon]		
+entry	Amelxine [H. Baillon]	0	
 orth	Amelxine		
-entry	Aménorrhée [E. Fritz]		
+entry	Aménorrhée [E. Fritz]	22	
 orth	Aménorrhée		
 pb	585	0589	4500619
 pb	586	0590	4500620
@@ -1023,12 +1023,12 @@ pb	603	0607	4500637
 pb	604	0608	4500638
 pb	605	0609	4500639
 pb	606	0610	4500640
-entry	Amentacées [H. Baillon]		
+entry	Amentacées [H. Baillon]	0	
 orth	Amentacées		
-entry	Amer (jaune)		
+entry	Amer (jaune)	0	
 ref	Acide picrique		
-entry	Amères (espèces		
-entry	Amérique [E. Dally, A. Guillard]		
+entry	Amères (espèces	0	
+entry	Amérique [E. Dally, A. Guillard]	23	
 orth	Amérique		
 pb	607	0611	4500641
 pb	608	0612	4500642
@@ -1053,7 +1053,7 @@ pb	626	0630	4500660
 pb	627	0631	4500661
 pb	628	0632	4500662
 pb	629	0633	4500663
-entry	Amers [A. Gubler]		
+entry	Amers [A. Gubler]	9	
 orth	Amers		
 pb	630	0634	4500664
 pb	631	0635	4500665
@@ -1064,23 +1064,23 @@ pb	635	0639	4500669
 pb	636	0640	4500670
 pb	637	0641	4500671
 pb	638	0642	4500672
-entry	Amétropie [J. Gavarret]		
+entry	Amétropie [J. Gavarret]	3	
 orth	Amétropie		
 pb	639	0643	4500673
 pb	640	0644	4500674
 pb	641	0645	4500675
-entry	Amiante, Amianthe [O. Reveil]		
+entry	Amiante, Amianthe [O. Reveil]	0	
 orth	Amiante, Amianthe		
 pb	642	0646	4500676
-entry	Amic (Jean, Marie) [A. Chéreau]		
+entry	Amic (Jean, Marie) [A. Chéreau]	0	
 orth	Amic (Jean, Marie)		
-entry	Amici (J. B.) [E. Beaugrand]		
+entry	Amici (J. B.) [E. Beaugrand]	0	
 orth	Amici (J. B.)		
-entry	Amico (Diomède) [A. Chéreau]		
+entry	Amico (Diomède) [A. Chéreau]	0	
 orth	Amico (Diomède)		
-entry	Amictomiayon		
+entry	Amictomiayon	0	
 ref	Galtilier		
-entry	Amides [F. Malaguti]		
+entry	Amides [F. Malaguti]	10	
 orth	Amides		
 pb	643	0647	4500677
 pb	644	0648	4500678
@@ -1092,12 +1092,12 @@ pb	649	0653	4500683
 pb	650	0654	4500684
 pb	651	0655	4500685
 pb	652	0656	4500686
-entry	Amidin [O. Reveil]		
+entry	Amidin [O. Reveil]	0	
 orth	Amidin		
-entry	Amidine ou Amidone [O. Reveil]		
+entry	Amidine ou Amidone [O. Reveil]	0	
 orth	Amidine ou Amidone		
-entry	Amidon		
-entry	Amidon. Chimie [C. Lutz]		
+entry	Amidon	0	
+entry	Amidon. Chimie [C. Lutz]	7	
 orth	Amidon. Chimie		
 pb	653	0657	4500687
 pb	654	0658	4500688
@@ -1106,45 +1106,45 @@ pb	656	0660	4500690
 pb	657	0661	4500691
 pb	658	0662	4500692
 pb	659	0663	4500693
-entry	Amidon. Pharmacologie [J. Delioux de Savignac]		
+entry	Amidon. Pharmacologie [J. Delioux de Savignac]	1	
 orth	Amidon. Pharmacologie		
 pb	660	0664	4500694
-entry	Amidon. Thérapeutique [J. Delioux de Savignac]		
+entry	Amidon. Thérapeutique [J. Delioux de Savignac]	1	
 orth	Amidon. Thérapeutique		
 pb	661	0665	4500695
-entry	Amidonneries (Hyg. publ.)		
+entry	Amidonneries (Hyg. publ.)	0	
 ref	Féculeries		
-entry	Amli		
+entry	Amli	0	
 ref	Tamarin		
-entry	Amman (Les) [A. Chéreau]		
+entry	Amman (Les) [A. Chéreau]	1	
 orth	Amman (Les)		
 pb	662	0666	4500696
 pb	663	0667	4500697
-entry	Ammanie [H. Baillon]		
+entry	Ammanie [H. Baillon]	0	
 orth	Ammanie		
-entry	Ammann (Paul) [A. Chéreau]		
+entry	Ammann (Paul) [A. Chéreau]	1	
 orth	Ammann (Paul)		
 pb	664	0668	4500698
-entry	Ammélide [O. Reveil]		
+entry	Ammélide [O. Reveil]	1	
 orth	Ammélide		
 pb	665	0669	4500699
-entry	Amméline [O. Reveil]		
+entry	Amméline [O. Reveil]	0	
 orth	Amméline		
-entry	Ammi [H. Baillon]		
+entry	Ammi [H. Baillon]	0	
 orth	Ammi		
-entry	Ammi. Emploi médical [T. Gobley]		
+entry	Ammi. Emploi médical [T. Gobley]	1	
 orth	Ammi. Emploi médical		
 pb	666	0670	4500700
-entry	Ammodyte [A. Laboulbène]		
+entry	Ammodyte [A. Laboulbène]	0	
 orth	Ammodyte		
-entry	Ammoline [O. Reveil]		
+entry	Ammoline [O. Reveil]	0	
 orth	Ammoline		
-entry	Ammon (La corne d') [Léon Lefort]		
+entry	Ammon (La corne d') [Léon Lefort]	0	
 orth	Ammon (La corne d')		
-entry	Ammoniac (sel)		
+entry	Ammoniac (sel)	0	
 ref	Ammoniaque		
-entry	Ammoniaque		
-entry	Ammoniaque. Chimie [F. Malaguti]		
+entry	Ammoniaque	0	
+entry	Ammoniaque. Chimie [F. Malaguti]	13	
 orth	Ammoniaque. Chimie		
 pb	667	0671	4500701
 pb	668	0672	4500702
@@ -1159,7 +1159,7 @@ pb	676	0680	4500710
 pb	677	0681	4500711
 pb	678	0682	4500712
 pb	679	0683	4500713
-entry	Ammoniaque. Pharmacologie [J. Delioux de Savignac]		
+entry	Ammoniaque. Pharmacologie [J. Delioux de Savignac]	7	
 orth	Ammoniaque. Pharmacologie		
 pb	680	0684	4500714
 pb	681	0685	4500715
@@ -1168,7 +1168,7 @@ pb	683	0687	4500717
 pb	684	0688	4500718
 pb	685	0689	4500719
 pb	686	0690	4500720
-entry	Ammoniaque. Thérapeutique [J. Delioux de Savignac]		
+entry	Ammoniaque. Thérapeutique [J. Delioux de Savignac]	21	
 orth	Ammoniaque. Thérapeutique		
 pb	687	0691	4500721
 pb	688	0692	4500722
@@ -1191,7 +1191,7 @@ pb	704	0708	4500738
 pb	705	0709	4500739
 pb	706	0710	4500740
 pb	707	0711	4500741
-entry	Ammoniaque. Toxicologie [J. Delioux de Savignac]		
+entry	Ammoniaque. Toxicologie [J. Delioux de Savignac]	8	
 orth	Ammoniaque. Toxicologie		
 pb	708	0712	4500742
 pb	709	0713	4500743
@@ -1201,34 +1201,34 @@ pb	712	0716	4500746
 pb	713	0717	4500747
 pb	714	0718	4500748
 pb	715	0719	4500749
-entry	Ammoniaque. Hygiène publique [E. Beaugrand]		
+entry	Ammoniaque. Hygiène publique [E. Beaugrand]	1	
 orth	Ammoniaque. Hygiène publique		
 pb	716	0720	4500750
-entry	Ammoniaque (Gomme)		
-entry	Ammoniaque (Gomme). Botanique [O. Reveil]		
+entry	Ammoniaque (Gomme)	0	
+entry	Ammoniaque (Gomme). Botanique [O. Reveil]	1	
 orth	Ammoniaque (Gomme). Botanique		
 pb	717	0721	4500751
-entry	Ammoniaque (Gomme). Pharmacologie [O. Reveil]		
+entry	Ammoniaque (Gomme). Pharmacologie [O. Reveil]	1	
 orth	Ammoniaque (Gomme). Pharmacologie		
 pb	718	0722	4500752
-entry	Ammoniaque (Gomme). Thérapeutique [Fonssagrives]		
+entry	Ammoniaque (Gomme). Thérapeutique [Fonssagrives]	3	
 orth	Ammoniaque (Gomme). Thérapeutique		
 pb	719	0723	4500753
 pb	720	0724	4500754
 pb	721	0725	4500755
-entry	Ammoniaques [F. Malaguti]		
+entry	Ammoniaques [F. Malaguti]	0	
 orth	Ammoniaques		
 pb	722	0726	4500756
-entry	Ammonium [F. Malaguti]		
+entry	Ammonium [F. Malaguti]	3	
 orth	Ammonium		
 pb	723	0727	4500757
 pb	724	0728	4500758
 pb	725	0729	4500759
-entry	Ammoniures [F. Malaguti]		
+entry	Ammoniures [F. Malaguti]	0	
 orth	Ammoniures		
-entry	Ammonius [Ch. Daremberg]		
+entry	Ammonius [Ch. Daremberg]	0	
 orth	Ammonius		
-entry	Amnésie [J. Falret]		
+entry	Amnésie [J. Falret]	17	
 orth	Amnésie		
 pb	726	0730	4500760
 pb	727	0731	4500761
@@ -1247,49 +1247,49 @@ pb	739	0743	4500773
 pb	740	0744	4500774
 pb	741	0745	4500775
 pb	742	0746	4500776
-entry	Amnios [Campana]		
+entry	Amnios [Campana]	3	
 orth	Amnios		
 pb	743	0747	4500777
 pb	744	0748	4500778
 pb	745	0749	4500779
-entry	Amnios (Faux) [Campana]		
+entry	Amnios (Faux) [Campana]	0	
 orth	Amnios (Faux)		
-entry	Amome [H. Baillon]		
+entry	Amome [H. Baillon]	4	
 orth	Amome		
 pb	746	0750	4500780
 pb	747	0751	4500781
 pb	748	0752	4500782
 pb	749	0753	4500783
-entry	Amomées [H. Baillon]		
+entry	Amomées [H. Baillon]	0	
 orth	Amomées		
-entry	Amorces		
+entry	Amorces	0	
 ref	Fulminates		
-entry	Amoreux (Pierre-Joseph) [A. Chéreau]		
+entry	Amoreux (Pierre-Joseph) [A. Chéreau]	0	
 orth	Amoreux (Pierre-Joseph)		
-entry	Amorphe [V. Cornil]		
+entry	Amorphe [V. Cornil]	0	
 orth	Amorphe		
-entry	Amouroche		
+entry	Amouroche	0	
 ref	Maroute		
-entry	Ampélidées		
+entry	Ampélidées	0	
 ref	Vigne		
 ref	Vinifères		
 pb	750	0754	4500784
-entry	Ampélothérapie		
+entry	Ampélothérapie	0	
 ref	Raisin		
-entry	Amphiarthrose [Léon Lefort]		
+entry	Amphiarthrose [Léon Lefort]	0	
 orth	Amphiarthrose		
-entry	Amphibies [A. Laboulbène]		
+entry	Amphibies [A. Laboulbène]	0	
 orth	Amphibies		
-entry	Amphides [F. Malaguti]		
+entry	Amphides [F. Malaguti]	1	
 orth	Amphides		
 pb	751	0755	4500785
-entry	Amphimérine ou mieux Amphémérine [Amédée Dechambre]		
+entry	Amphimérine ou mieux Amphémérine [Amédée Dechambre]	0	
 orth	Amphimérine ou mieux Amphémérine		
-entry	Amphion		
+entry	Amphion	0	
 ref	Évian		
-entry	Amphistome [Davaine]		
+entry	Amphistome [Davaine]	0	
 orth	Amphistome		
-entry	Amphithéâtre [E. Beaugrand]		
+entry	Amphithéâtre [E. Beaugrand]	7	
 orth	Amphithéâtre		
 pb	752	0756	4500786
 pb	753	0757	4500787
@@ -1298,13 +1298,13 @@ pb	755	0759	4500789
 pb	756	0760	4500790
 pb	757	0761	4500791
 pb	758	0762	4500792
-entry	Amphorique		
-entry	Amphorique. Bruits amporiques [Barth, Henri Roger]		
+entry	Amphorique	0	
+entry	Amphorique. Bruits amporiques [Barth, Henri Roger]	1	
 orth	Amphorique. Bruits amporiques		
 pb	759	0763	4500793
-entry	Ampsing ou Ampzing (Jean-Assuérus) [A. Chéreau]		
+entry	Ampsing ou Ampzing (Jean-Assuérus) [A. Chéreau]	0	
 orth	Ampsing ou Ampzing (Jean-Assuérus)		
-entry	Amputations [Legouest]		
+entry	Amputations [Legouest]	69	
 orth	Amputations		
 pb	760	0764	4500794
 pb	761	0765	4500795
@@ -1376,7 +1376,7 @@ pb	826	0830	4500860
 pb	827	0831	4500861
 pb	828	0832	4500862
 pb	829	0833	4500863
-entry	Articles contenus dans le troisième volume		
+entry	Articles contenus dans le troisième volume	2	
 pb	830	0834	4500864
 pb	831	0835	4500865
 pb	[s. pag.]	0836	4500866

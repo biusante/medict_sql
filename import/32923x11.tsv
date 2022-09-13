@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	7291071
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7291072
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7291073
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7291074
-entry	Déligation		
-entry	Délire		
+entry	Déligation	0	
+entry	Délire	54	
 pb	2	0005	7291075
 pb	3	0006	7291076
 pb	4	0007	7291077
@@ -61,9 +61,9 @@ pb	52	0055	7291125
 pb	53	0056	7291126
 pb	54	0057	7291127
 pb	55	0058	7291128
-entry	Délire du dupuytren		
-entry	Délitescence		
-entry	Délivrance		
+entry	Délire du dupuytren	0	
+entry	Délitescence	0	
+entry	Délivrance	40	
 pb	56	0059	7291129
 pb	57	0060	7291130
 pb	58	0061	7291131
@@ -104,7 +104,7 @@ pb	92	0095	7291165
 pb	93	0096	7291166
 pb	94	0097	7291167
 pb	95	0098	7291168
-entry	Démence		
+entry	Démence	27	
 pb	96	0099	7291169
 pb	97	0100	7291170
 pb	98	0101	7291171
@@ -132,7 +132,7 @@ pb	119	0122	7291192
 pb	120	0123	7291193
 pb	121	0124	7291194
 pb	122	0125	7291195
-entry	Démonomanie		
+entry	Démonomanie	8	
 pb	123	0126	7291196
 pb	124	0127	7291197
 pb	125	0128	7291198
@@ -141,7 +141,7 @@ pb	127	0130	7291200
 pb	128	0131	7291201
 pb	129	0132	7291202
 pb	130	0133	7291203
-entry	Dengue		
+entry	Dengue	11	
 pb	131	0134	7291204
 pb	132	0135	7291205
 pb	133	0136	7291206
@@ -153,7 +153,7 @@ pb	138	0141	7291211
 pb	139	0142	7291212
 pb	140	0143	7291213
 pb	141	0144	7291214
-entry	Dent, Dentition		
+entry	Dent, Dentition	42	
 orth	Dent		
 orth	Dentition		
 pb	142	0145	7291215
@@ -198,9 +198,9 @@ pb	180	0183	7291253
 pb	181	0184	7291254
 pb	182	0185	7291255
 pb	183	0186	7291256
-entry	Dépuratifs		
+entry	Dépuratifs	1	
 pb	184	0187	7291257
-entry	Dérivatifs, Dérivation		
+entry	Dérivatifs, Dérivation	26	
 orth	Dérivatifs		
 orth	Dérivation		
 pb	185	0188	7291258
@@ -229,7 +229,7 @@ pb	207	0210	7291280
 pb	208	0211	7291281
 pb	209	0212	7291282
 pb	210	0213	7291283
-entry	Dermalgie		
+entry	Dermalgie	14	
 pb	211	0214	7291284
 pb	212	0215	7291285
 pb	213	0216	7291286
@@ -244,9 +244,9 @@ pb	221	0224	7291294
 pb	222	0225	7291295
 pb	223	0226	7291296
 pb	224	0227	7291297
-entry	Désarticulation		
-entry	Désassimilation		
-entry	Désinfectants		
+entry	Désarticulation	0	
+entry	Désassimilation	0	
+entry	Désinfectants	20	
 pb	225	0228	7291298
 pb	226	0229	7291299
 pb	227	0230	7291300
@@ -267,12 +267,12 @@ pb	241	0244	7291314
 pb	242	0245	7291315
 pb	243	0246	7291316
 pb	244	0247	7291317
-entry	Desquamation		
+entry	Desquamation	1	
 pb	245	0248	7291318
-entry	Détroncation		
-entry	Déviations		
-entry	Déviation organique		
-entry	Diarète sucré		
+entry	Détroncation	0	
+entry	Déviations	0	
+entry	Déviation organique	0	
+entry	Diarète sucré	96	
 pb	246	0249	7291319
 pb	247	0250	7291320
 pb	248	0251	7291321
@@ -369,14 +369,14 @@ pb	338	0341	7291411
 pb	339	0342	7291412
 pb	340	0343	7291413
 pb	341	0344	7291414
-entry	Diabète insipide		
-entry	Diachylon		
-entry	Diacode		
-entry	Diagrède		
-entry	Diapalme		
-entry	Diaphorèse		
-entry	Diaphorètiques		
-entry	Diaphragme		
+entry	Diabète insipide	0	
+entry	Diachylon	0	
+entry	Diacode	0	
+entry	Diagrède	0	
+entry	Diapalme	0	
+entry	Diaphorèse	0	
+entry	Diaphorètiques	0	
+entry	Diaphragme	33	
 pb	342	0345	7291415
 pb	343	0346	7291416
 pb	344	0347	7291417
@@ -410,7 +410,7 @@ pb	371	0374	7291444
 pb	372	0375	7291445
 pb	373	0376	7291446
 pb	374	0377	7291447
-entry	Diarrhée		
+entry	Diarrhée	26	
 pb	375	0378	7291448
 pb	376	0379	7291449
 pb	377	0380	7291450
@@ -437,9 +437,9 @@ pb	397	0400	7291470
 pb	398	0401	7291471
 pb	399	0402	7291472
 pb	400	0403	7291473
-entry	Diascordium		
+entry	Diascordium	1	
 pb	401	0404	7291474
-entry	Diastasis		
+entry	Diastasis	9	
 pb	402	0405	7291475
 pb	403	0406	7291476
 pb	404	0407	7291477
@@ -449,7 +449,7 @@ pb	407	0410	7291480
 pb	408	0411	7291481
 pb	409	0412	7291482
 pb	410	0413	7291483
-entry	Diathèse		
+entry	Diathèse	52	
 pb	411	0414	7291484
 pb	412	0415	7291485
 pb	413	0416	7291486
@@ -503,11 +503,11 @@ pb	460	0463	7291533
 pb	461	0464	7291534
 pb	462	0465	7291535
 pb	463	0466	7291536
-entry	Dicrote		
-entry	Dictamne		
+entry	Dicrote	0	
+entry	Dictamne	2	
 pb	464	0467	7291537
 pb	465	0468	7291538
-entry	Diète, Diététique		
+entry	Diète, Diététique	14	
 orth	Diète		
 orth	Diététique		
 pb	466	0469	7291539
@@ -524,8 +524,8 @@ pb	476	0479	7291549
 pb	477	0480	7291550
 pb	478	0481	7291551
 pb	479	0482	7291552
-entry	Difformité		
-entry	Digestion		
+entry	Difformité	0	
+entry	Digestion	40	
 pb	480	0483	7291553
 pb	481	0484	7291554
 pb	482	0485	7291555
@@ -566,7 +566,7 @@ pb	516	0519	7291589
 pb	517	0520	7291590
 pb	518	0521	7291591
 pb	519	0522	7291592
-entry	Digitale		
+entry	Digitale	61	
 pb	520	0523	7291593
 pb	521	0524	7291594
 pb	522	0525	7291595
@@ -628,7 +628,7 @@ pb	577	0580	7291650
 pb	578	0581	7291651
 pb	579	0582	7291652
 pb	580	0583	7291653
-entry	Dilatation		
+entry	Dilatation	6	
 pb	581	0584	7291654
 pb	582	0585	7291655
 pb	583	0586	7291656
@@ -636,7 +636,7 @@ pb	584	0587	7291657
 pb	585	0588	7291658
 pb	586	0589	7291659
 pb	587	0590	7291660
-entry	Diphthérie ou Diphtérite		
+entry	Diphthérie ou Diphtérite	48	
 orth	Diphthérie		
 orth	Diphtérite		
 pb	588	0591	7291661
@@ -687,15 +687,15 @@ pb	632	0635	7291705
 pb	633	0636	7291706
 pb	634	0637	7291707
 pb	635	0638	7291708
-entry	Diplogénèse		
-entry	Diplopie		
+entry	Diplogénèse	0	
+entry	Diplopie	5	
 pb	636	0639	7291709
 pb	637	0640	7291710
 pb	638	0641	7291711
 pb	639	0642	7291712
 pb	640	0643	7291713
 pb	641	0644	7291714
-entry	Dipsomanie		
+entry	Dipsomanie	7	
 pb	642	0645	7291715
 pb	643	0646	7291716
 pb	644	0647	7291717
@@ -703,9 +703,9 @@ pb	645	0648	7291718
 pb	646	0649	7291719
 pb	647	0650	7291720
 pb	648	0651	7291721
-entry	Distome		
-entry	Diurèse		
-entry	Diurétiques		
+entry	Distome	0	
+entry	Diurèse	0	
+entry	Diurétiques	7	
 pb	649	0652	7291722
 pb	650	0653	7291723
 pb	651	0654	7291724
@@ -713,13 +713,13 @@ pb	652	0655	7291725
 pb	653	0656	7291726
 pb	654	0657	7291727
 pb	655	0658	7291728
-entry	Docimasie		
-entry	Doigts		
-entry	Dothiénenthérie		
-entry	Douce-amère		
+entry	Docimasie	0	
+entry	Doigts	0	
+entry	Dothiénenthérie	0	
+entry	Douce-amère	2	
 pb	656	0659	7291729
 pb	657	0660	7291730
-entry	Douches		
+entry	Douches	21	
 pb	658	0661	7291731
 pb	659	0662	7291732
 pb	660	0663	7291733
@@ -741,7 +741,7 @@ pb	675	0678	7291748
 pb	676	0679	7291749
 pb	677	0680	7291750
 pb	678	0681	7291751
-entry	Douleur		
+entry	Douleur	8	
 pb	679	0682	7291752
 pb	680	0683	7291753
 pb	681	0684	7291754
@@ -750,9 +750,9 @@ pb	683	0686	7291756
 pb	684	0687	7291757
 pb	685	0688	7291758
 pb	686	0689	7291759
-entry	Douve		
-entry	Dragonneau		
-entry	Drainage		
+entry	Douve	0	
+entry	Dragonneau	0	
+entry	Drainage	15	
 pb	687	0690	7291760
 pb	688	0691	7291761
 pb	689	0692	7291762
@@ -769,27 +769,27 @@ pb	699	0702	7291772
 pb	700	0703	7291773
 pb	701	0704	7291774
 pb	702	0705	7291775
-entry	Drastiques		
-entry	Dualisme		
-entry	Duodénite		
-entry	Duodénum		
-entry	Dure-mère		
-entry	Durillon		
-entry	Dynamomètre		
+entry	Drastiques	0	
+entry	Dualisme	0	
+entry	Duodénite	0	
+entry	Duodénum	0	
+entry	Dure-mère	0	
+entry	Durillon	0	
+entry	Dynamomètre	5	
 pb	703	0706	7291776
 pb	704	0707	7291777
 pb	705	0708	7291778
 pb	706	0709	7291779
 pb	707	0710	7291780
 pb	708	0711	7291781
-entry	Dynamoscopie		
+entry	Dynamoscopie	5	
 pb	709	0712	7291782
 pb	710	0713	7291783
 pb	711	0714	7291784
 pb	712	0715	7291785
 pb	713	0716	7291786
-entry	Dysécie		
-entry	Dysenterie		
+entry	Dysécie	0	
+entry	Dysenterie	82	
 pb	714	0717	7291787
 pb	715	0718	7291788
 pb	716	0719	7291789
@@ -873,4 +873,4 @@ pb	793	0796	7291866
 pb	794	0797	7291867
 pb	795	0798	7291868
 pb	[s. pag.]	0799	7291869
-entry	Table des auteurs		
+entry	Table des auteurs	0	

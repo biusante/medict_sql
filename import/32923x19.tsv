@@ -1,14 +1,14 @@
 pb	[s. pag.]	0001	7297478
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7297479
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7297480
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7297481
-entry	Infusion		
+entry	Infusion	2	
 pb	2	0005	7297482
 pb	3	0006	7297483
-entry	Inguinal		
+entry	Inguinal	60	
 pb	4	0007	7297484
 pb	5	0008	7297485
 pb	6	0009	7297486
@@ -69,7 +69,7 @@ pb	60	0063	7297540
 pb	61	0064	7297541
 pb	62	0065	7297542
 pb	63	0066	7297543
-entry	Inhalation		
+entry	Inhalation	13	
 pb	64	0067	7297544
 pb	65	0068	7297545
 pb	66	0069	7297546
@@ -83,7 +83,7 @@ pb	73	0076	7297553
 pb	74	0077	7297554
 pb	75	0078	7297555
 pb	76	0079	7297556
-entry	Inhumation		
+entry	Inhumation	20	
 pb	77	0080	7297557
 pb	78	0081	7297558
 pb	79	0082	7297559
@@ -105,7 +105,7 @@ pb	94	0097	7297574
 pb	95	0098	7297575
 pb	96	0099	7297576
 pb	97	0100	7297577
-entry	Injection		
+entry	Injection	8	
 pb	98	0101	7297578
 pb	99	0102	7297579
 pb	100	0103	7297580
@@ -114,7 +114,7 @@ pb	102	0105	7297582
 pb	103	0106	7297583
 pb	104	0107	7297584
 pb	105	0108	7297585
-entry	Inoculation		
+entry	Inoculation	33	
 pb	106	0109	7297586
 pb	107	0110	7297587
 pb	108	0111	7297588
@@ -148,9 +148,9 @@ pb	135	0138	7297615
 pb	136	0139	7297616
 pb	137	0140	7297617
 pb	138	0141	7297618
-entry	Insomnie		
-entry	Insuffisance		
-entry	Intercostale		
+entry	Insomnie	0	
+entry	Insuffisance	0	
+entry	Intercostale	33	
 pb	139	0142	7297619
 pb	140	0143	7297620
 pb	141	0144	7297621
@@ -184,12 +184,12 @@ pb	168	0171	7297648
 pb	169	0172	7297649
 pb	170	0173	7297650
 pb	171	0174	7297651
-entry	Intermittence		
+entry	Intermittence	4	
 pb	172	0175	7297652
 pb	173	0176	7297653
 pb	174	0177	7297654
 pb	175	0178	7297655
-entry	Intermittentes		
+entry	Intermittentes	51	
 pb	176	0179	7297656
 pb	177	0180	7297657
 pb	178	0181	7297658
@@ -241,8 +241,8 @@ pb	223	0226	7297703
 pb	224	0227	7297704
 pb	225	0228	7297705
 pb	226	0229	7297706
-entry	Intertrigo		
-entry	Intestins		
+entry	Intertrigo	0	
+entry	Intestins	107	
 pb	227	0230	7297707
 pb	228	0231	7297708
 pb	229	0232	7297709
@@ -350,9 +350,9 @@ pb	330	0333	7297810
 pb	331	0334	7297811
 pb	332	0335	7297812
 pb	333	0336	7297813
-entry	Intoxication		
-entry	Invagination		
-entry	Iode, Iodures, Iodates, Iodiques		
+entry	Intoxication	0	
+entry	Invagination	0	
+entry	Iode, Iodures, Iodates, Iodiques	55	
 orth	Iode		
 orth	Iodures		
 orth	Iodates		
@@ -412,7 +412,7 @@ pb	385	0388	7297865
 pb	386	0389	7297866
 pb	387	0390	7297867
 pb	388	0391	7297868
-entry	Ipecacuanha		
+entry	Ipecacuanha	11	
 pb	389	0392	7297869
 pb	390	0393	7297870
 pb	391	0394	7297871
@@ -424,8 +424,8 @@ pb	396	0399	7297876
 pb	397	0400	7297877
 pb	398	0401	7297878
 pb	399	0402	7297879
-entry	Iridectomie		
-entry	Iris		
+entry	Iridectomie	0	
+entry	Iris	30	
 pb	400	0403	7297880
 pb	401	0404	7297881
 pb	402	0405	7297882
@@ -456,33 +456,33 @@ pb	426	0429	7297906
 pb	427	0430	7297907
 pb	428	0431	7297908
 pb	429	0432	7297909
-entry	Iris (botanique médicale)		
+entry	Iris (botanique médicale)	2	
 pb	430	0433	7297910
 pb	431	0434	7297911
-entry	Irrigation		
+entry	Irrigation	5	
 pb	432	0435	7297912
 pb	433	0436	7297913
 pb	434	0437	7297914
 pb	435	0438	7297915
 pb	436	0439	7297916
-entry	Irritants		
+entry	Irritants	6	
 pb	437	0440	7297917
 pb	438	0441	7297918
 pb	439	0442	7297919
 pb	440	0443	7297920
 pb	441	0444	7297921
 pb	442	0445	7297922
-entry	Ischiatique		
+entry	Ischiatique	2	
 pb	443	0446	7297923
 pb	444	0447	7297924
-entry	Ischurie		
-entry	Lettre J		
-entry	Jalap		
+entry	Ischurie	0	
+entry	Lettre J	0	
+entry	Jalap	4	
 pb	445	0448	7297925
 pb	446	0449	7297926
 pb	447	0450	7297927
 pb	448	0451	7297928
-entry	Jambe		
+entry	Jambe	194	
 pb	449	0452	7297929
 pb	450	0453	7297930
 pb	451	0454	7297931
@@ -678,7 +678,7 @@ pb	640	0643	7298120
 pb	641	0644	7298121
 pb	642	0645	7298122
 pb	643	0646	7298123
-entry	Jaune		
+entry	Jaune	45	
 pb	644	0647	7298124
 pb	645	0648	7298125
 pb	646	0649	7298126
@@ -724,43 +724,43 @@ pb	685	0688	7298165
 pb	686	0689	7298166
 pb	687	0690	7298167
 pb	688	0691	7298168
-entry	Jaunisse		
+entry	Jaunisse	0	
 pb	689	0692	7298169
-entry	Joubarbe des toits		
-entry	Joue		
-entry	Jugulaires		
-entry	Julep		
-entry	Jusquiame		
+entry	Joubarbe des toits	0	
+entry	Joue	0	
+entry	Jugulaires	0	
+entry	Julep	0	
+entry	Jusquiame	4	
 pb	690	0693	7298170
 pb	691	0694	7298171
 pb	692	0695	7298172
 pb	693	0696	7298173
-entry	Lettre K		
-entry	Kéloide		
+entry	Lettre K	0	
+entry	Kéloide	4	
 pb	694	0697	7298174
 pb	695	0698	7298175
 pb	696	0699	7298176
 pb	697	0700	7298177
-entry	Kératite		
+entry	Kératite	0	
 pb	698	0701	7298178
-entry	Kératonyxis		
-entry	Kératotomie		
-entry	Kermès		
-entry	Kissingen		
+entry	Kératonyxis	0	
+entry	Kératotomie	0	
+entry	Kermès	0	
+entry	Kissingen	3	
 pb	699	0702	7298179
 pb	700	0703	7298180
 pb	701	0704	7298181
-entry	Kleptomanie		
+entry	Kleptomanie	2	
 pb	702	0705	7298182
 pb	703	0706	7298183
-entry	Kousso		
-entry	Kreuznach ou Creutznach		
+entry	Kousso	0	
+entry	Kreuznach ou Creutznach	2	
 orth	Kreuznach		
 orth	Creutznach		
 pb	704	0707	7298184
 pb	705	0708	7298185
-entry	Kyestéine		
-entry	Kystes		
+entry	Kyestéine	0	
+entry	Kystes	70	
 pb	706	0709	7298186
 pb	707	0710	7298187
 pb	708	0711	7298188
@@ -831,6 +831,6 @@ pb	772	0775	7298252
 pb	773	0776	7298253
 pb	774	0777	7298254
 pb	775	0778	7298255
-entry	Kystitome		
+entry	Kystitome	0	
 pb	[s. pag.]	0779	7298256
-entry	Table des auteurs		
+entry	Table des auteurs	0	

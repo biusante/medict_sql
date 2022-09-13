@@ -1,36 +1,36 @@
 pb	[s. pag.]	0001	4812840
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4812841
 pb	[s. pag.]	0003	4812842
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4812843
 pb	1	0005	4812844
-entry	Héméralopie [Raige Delorme]		
+entry	Héméralopie [Raige Delorme]	3	
 orth	Héméralopie		
 pb	2	0006	4812845
 pb	3	0007	4812846
 pb	4	0008	4812847
-entry	Hémicranie		
+entry	Hémicranie	0	
 pb	5	0009	4812848
-entry	Hémiopie, Hémiopsie		
+entry	Hémiopie, Hémiopsie	0	
 orth	Hémiopie		
 orth	Hémiopsie		
-entry	Hémiplégie, Hémiplexie		
+entry	Hémiplégie, Hémiplexie	0	
 orth	Hémiplégie		
 orth	Hémiplexie		
-entry	Hémisphère [A. Béclard]		
+entry	Hémisphère [A. Béclard]	1	
 orth	Hémisphère		
 pb	6	0010	4812849
-entry	Hémitritée [Coutanceau]		
+entry	Hémitritée [Coutanceau]	1	
 orth	Hémitritée		
 pb	7	0011	4812850
-entry	Hémophthisie [Chomel]		
+entry	Hémophthisie [Chomel]	0	
 orth	Hémophthisie		
-entry	Hémoptoique, Hémoptyique, Hémoptysique		
+entry	Hémoptoique, Hémoptyique, Hémoptysique	0	
 orth	Hémoptoique		
 orth	Hémoptyique		
 orth	Hémoptysique		
-entry	Hémoptysie [Chomel]		
+entry	Hémoptysie [Chomel]	15	
 orth	Hémoptysie		
 pb	8	0012	4812851
 pb	9	0013	4812852
@@ -47,7 +47,7 @@ pb	19	0023	4812862
 pb	20	0024	4812863
 pb	21	0025	4812864
 pb	22	0026	4812865
-entry	Hémorrhagie [Chomel]		
+entry	Hémorrhagie [Chomel]	25	
 orth	Hémorrhagie		
 pb	23	0027	4812866
 pb	24	0028	4812867
@@ -74,32 +74,32 @@ pb	44	0048	4812887
 pb	45	0049	4812888
 pb	46	0050	4812889
 pb	47	0051	4812890
-entry	Hémorrhée		
-entry	Hémorrhoïdaire		
-entry	Hémorrhoïdal [A. Béclard]		
+entry	Hémorrhée	0	
+entry	Hémorrhoïdaire	0	
+entry	Hémorrhoïdal [A. Béclard]	1	
 orth	Hémorrhoïdal		
 pb	48	0052	4812891
-entry	Hémorrhoïde [Raige Delorme]		
+entry	Hémorrhoïde [Raige Delorme]	3	
 orth	Hémorrhoïde		
 pb	49	0053	4812892
 pb	50	0054	4812893
 pb	51	0055	4812894
-entry	Hémostase		
-entry	Hémostatique [Marjolin]		
+entry	Hémostase	0	
+entry	Hémostatique [Marjolin]	4	
 orth	Hémostatique		
 pb	52	0056	4812895
 pb	53	0057	4812896
 pb	54	0058	4812897
 pb	55	0059	4812898
-entry	Hépatique [A. Béclard]		
+entry	Hépatique [A. Béclard]	2	
 orth	Hépatique		
 pb	56	0060	4812899
 pb	57	0061	4812900
-entry	Hépatirrhée [Raige Delorme]		
+entry	Hépatirrhée [Raige Delorme]	1	
 orth	Hépatirrhée		
 pb	58	0062	4812901
-entry	Hépatisation du poumon		
-entry	Hépatite, Hépatitis [G. Ferrus]		
+entry	Hépatisation du poumon	0	
+entry	Hépatite, Hépatitis [G. Ferrus]	12	
 orth	Hépatite		
 orth	Hépatitis		
 pb	59	0063	4812902
@@ -114,13 +114,13 @@ pb	67	0071	4812910
 pb	68	0072	4812911
 pb	69	0073	4812912
 pb	70	0074	4812913
-entry	Hépatocèle		
-entry	Hépato-cystique [A. Béclard]		
+entry	Hépatocèle	0	
+entry	Hépato-cystique [A. Béclard]	0	
 orth	Hépato-cystique		
-entry	Héréditaire [Raige Delorme]		
+entry	Héréditaire [Raige Delorme]	1	
 orth	Héréditaire		
 pb	71	0075	4812914
-entry	Hermaphrodite [Marc]		
+entry	Hermaphrodite [Marc]	11	
 orth	Hermaphrodite		
 pb	72	0076	4812915
 pb	73	0077	4812916
@@ -133,14 +133,14 @@ pb	79	0083	4812922
 pb	80	0084	4812923
 pb	81	0085	4812924
 pb	82	0086	4812925
-entry	Hermodactes ou hermodattes [A. Richard]		
+entry	Hermodactes ou hermodattes [A. Richard]	0	
 orth	Hermodactes		
 orth	hermodattes		
-entry	Herniaire		
+entry	Herniaire	1	
 pb	83	0087	4812926
-entry	Herniaire [A. Richard]		
+entry	Herniaire [A. Richard]	0	
 orth	Herniaire		
-entry	Hernie [Murat]		
+entry	Hernie [Murat]	85	
 orth	Hernie		
 pb	84	0088	4812927
 pb	85	0089	4812928
@@ -227,7 +227,7 @@ pb	165	0169	4813008
 pb	166	0170	4813009
 pb	167	0171	4813010
 pb	168	0172	4813011
-entry	Herpès [P. Rayer]		
+entry	Herpès [P. Rayer]	8	
 orth	Herpès		
 pb	169	0173	4813012
 pb	170	0174	4813013
@@ -237,14 +237,14 @@ pb	173	0177	4813016
 pb	174	0178	4813017
 pb	175	0179	4813018
 pb	176	0180	4813019
-entry	Herpétique		
-entry	Hiatus [A. Béclard]		
+entry	Herpétique	0	
+entry	Hiatus [A. Béclard]	0	
 orth	Hiatus		
-entry	Hiéra-diacolocynthidos		
-entry	Hiéra-picra		
-entry	Hippocampe [A. Béclard]		
+entry	Hiéra-diacolocynthidos	0	
+entry	Hiéra-picra	0	
+entry	Hippocampe [A. Béclard]	0	
 orth	Hippocampe		
-entry	Hippocratique (médecine) [Coutanceau]		
+entry	Hippocratique (médecine) [Coutanceau]	9	
 orth	Hippocratique (médecine)		
 pb	177	0181	4813020
 pb	178	0182	4813021
@@ -255,15 +255,15 @@ pb	182	0186	4813025
 pb	183	0187	4813026
 pb	184	0188	4813027
 pb	185	0189	4813028
-entry	Hircine [Orfila]		
+entry	Hircine [Orfila]	0	
 orth	Hircine		
-entry	Hircique (acide) [Orfila]		
+entry	Hircique (acide) [Orfila]	1	
 orth	Hircique (acide)		
 pb	186	0190	4813029
-entry	Histoire naturelle [A. Richard]		
+entry	Histoire naturelle [A. Richard]	1	
 orth	Histoire naturelle		
 pb	187	0191	4813030
-entry	Homme [Rullier]		
+entry	Homme [Rullier]	18	
 orth	Homme		
 pb	188	0192	4813031
 pb	189	0193	4813032
@@ -283,10 +283,10 @@ pb	202	0206	4813045
 pb	203	0207	4813046
 pb	204	0208	4813047
 pb	205	0209	4813048
-entry	Honteux [A. Béclard]		
+entry	Honteux [A. Béclard]	1	
 orth	Honteux		
 pb	206	0210	4813049
-entry	Hôpital [Raige Delorme]		
+entry	Hôpital [Raige Delorme]	20	
 orth	Hôpital		
 pb	207	0211	4813050
 pb	208	0212	4813051
@@ -308,25 +308,25 @@ pb	223	0227	4813066
 pb	224	0228	4813067
 pb	225	0229	4813068
 pb	226	0230	4813069
-entry	Hoquet [Raige Delorme]		
+entry	Hoquet [Raige Delorme]	5	
 orth	Hoquet		
 pb	227	0231	4813070
 pb	228	0232	4813071
 pb	229	0233	4813072
 pb	230	0234	4813073
 pb	231	0235	4813074
-entry	Hordeïne [J. Pelletier]		
+entry	Hordeïne [J. Pelletier]	1	
 orth	Hordeïne		
 pb	232	0236	4813075
-entry	Horripilation		
-entry	Houblon [A. Richard]		
+entry	Horripilation	0	
+entry	Houblon [A. Richard]	2	
 orth	Houblon		
 pb	233	0237	4813076
 pb	234	0238	4813077
-entry	Houppe du menton		
-entry	Hospice		
-entry	Hôtel-Dieu		
-entry	Huile [Raige Delorme, J. Pelletier]		
+entry	Houppe du menton	0	
+entry	Hospice	0	
+entry	Hôtel-Dieu	0	
+entry	Huile [Raige Delorme, J. Pelletier]	14	
 orth	Huile		
 pb	235	0239	4813078
 pb	236	0240	4813079
@@ -343,45 +343,45 @@ pb	246	0250	4813089
 pb	247	0251	4813090
 pb	248	0252	4813091
 pb	249	0253	4813092
-entry	Huit de chiffre [Murat]		
+entry	Huit de chiffre [Murat]	1	
 orth	Huit de chiffre		
 pb	250	0254	4813093
-entry	Huitre [Hippol. Cloquet]		
+entry	Huitre [Hippol. Cloquet]	1	
 orth	Huitre		
 pb	251	0255	4813094
-entry	Humectant [Raige Delorme]		
+entry	Humectant [Raige Delorme]	0	
 orth	Humectant		
-entry	Huméral [A. Béclard]		
+entry	Huméral [A. Béclard]	4	
 orth	Huméral		
 pb	252	0256	4813095
 pb	253	0257	4813096
 pb	254	0258	4813097
 pb	255	0259	4813098
-entry	Huméro-cubitale (Articulation)		
-entry	Humérus [A. Béclard]		
+entry	Huméro-cubitale (Articulation)	0	
+entry	Humérus [A. Béclard]	3	
 orth	Humérus		
 pb	256	0260	4813099
 pb	257	0261	4813100
 pb	258	0262	4813101
-entry	Humeur		
+entry	Humeur	4	
 pb	259	0263	4813102
 pb	260	0264	4813103
 pb	261	0265	4813104
 pb	262	0266	4813105
-entry	Humeurs froides		
-entry	Humide radical		
-entry	Humidité		
-entry	Humoral		
+entry	Humeurs froides	0	
+entry	Humide radical	0	
+entry	Humidité	0	
+entry	Humoral	0	
 pb	263	0267	4813106
-entry	Humorisme [Coutanceau]		
+entry	Humorisme [Coutanceau]	4	
 orth	Humorisme		
 pb	264	0268	4813107
 pb	265	0269	4813108
 pb	266	0270	4813109
 pb	267	0271	4813110
-entry	Hyacinthe (confection d')		
-entry	Hyaloïde		
-entry	Hydarthrose [Jules Cloquet]		
+entry	Hyacinthe (confection d')	0	
+entry	Hyaloïde	0	
+entry	Hydarthrose [Jules Cloquet]	6	
 orth	Hydarthrose		
 pb	268	0272	4813111
 pb	269	0273	4813112
@@ -389,28 +389,28 @@ pb	270	0274	4813113
 pb	271	0275	4813114
 pb	272	0276	4813115
 pb	273	0277	4813116
-entry	Hydatide [Hippol. Cloquet]		
+entry	Hydatide [Hippol. Cloquet]	1	
 orth	Hydatide		
 pb	274	0278	4813117
 pb	275	0279	4813118
-entry	Hydatidocèle		
-entry	Hydatoïde		
-entry	Hydracide [Orfila]		
+entry	Hydatidocèle	0	
+entry	Hydatoïde	0	
+entry	Hydracide [Orfila]	0	
 orth	Hydracide		
-entry	Hydragogue [Raige Delorme]		
+entry	Hydragogue [Raige Delorme]	0	
 orth	Hydragogue		
-entry	Hydrate [Orfila]		
+entry	Hydrate [Orfila]	0	
 orth	Hydrate		
-entry	Hydriodate [Orfila]		
+entry	Hydriodate [Orfila]	1	
 orth	Hydriodate		
 pb	276	0280	4813119
-entry	Hydriodique (acide) [Orfila]		
+entry	Hydriodique (acide) [Orfila]	1	
 orth	Hydriodique (acide)		
 pb	277	0281	4813120
-entry	Hydroa ou Hidroa [P. Rayer]		
+entry	Hydroa ou Hidroa [P. Rayer]	0	
 orth	Hydroa		
 orth	Hidroa		
-entry	Hydrocèle [Murat]		
+entry	Hydrocèle [Murat]	23	
 orth	Hydrocèle		
 pb	278	0282	4813121
 pb	279	0283	4813122
@@ -435,7 +435,7 @@ pb	297	0301	4813140
 pb	298	0302	4813141
 pb	299	0303	4813142
 pb	300	0304	4813143
-entry	Hydrocéphale [Guersent, G. Breschet]		
+entry	Hydrocéphale [Guersent, G. Breschet]	56	
 orth	Hydrocéphale		
 pb	301	0305	4813144
 pb	302	0306	4813145
@@ -493,21 +493,21 @@ pb	253	0357	4813196
 pb	354	0358	4813197
 pb	355	0359	4813198
 pb	356	0360	4813199
-entry	Hydrochlorates [Orfila]		
+entry	Hydrochlorates [Orfila]	0	
 orth	Hydrochlorates		
-entry	Hydrochlorique (acide) [Orfila]		
+entry	Hydrochlorique (acide) [Orfila]	3	
 orth	Hydrochlorique (acide)		
 pb	357	0361	4813200
 pb	358	0362	4813201
 pb	359	0363	4813202
-entry	Hydrochloro-nitrique (acide)		
-entry	Hydrocirscocèle, hydrocirsocèle		
+entry	Hydrochloro-nitrique (acide)	0	
+entry	Hydrocirscocèle, hydrocirsocèle	0	
 orth	Hydrocirscocèle		
 orth	hydrocirsocèle		
-entry	Hydrocyanates [Orfila]		
+entry	Hydrocyanates [Orfila]	1	
 orth	Hydrocyanates		
 pb	360	0364	4813203
-entry	Hydrocyanique (acide) [Orfila, Guersent]		
+entry	Hydrocyanique (acide) [Orfila, Guersent]	9	
 orth	Hydrocyanique (acide)		
 pb	361	0365	4813204
 pb	362	0366	4813205
@@ -518,27 +518,27 @@ pb	366	0370	4813209
 pb	367	0371	4813210
 pb	368	0372	4813211
 pb	369	0373	4813212
-entry	Hydrocyanique ferruré (acide) [Orfila]		
+entry	Hydrocyanique ferruré (acide) [Orfila]	0	
 orth	Hydrocyanique ferruré (acide)		
-entry	Hydro-entérocèle		
-entry	Hydro-épiplocèle		
-entry	Hydrogastre		
+entry	Hydro-entérocèle	0	
+entry	Hydro-épiplocèle	0	
+entry	Hydrogastre	1	
 pb	370	0374	4813213
-entry	Hydrogène (air inflammable)		
+entry	Hydrogène (air inflammable)	5	
 pb	371	0375	4813214
 pb	372	0376	4813215
 pb	373	0377	4813216
 pb	374	0378	4813217
 pb	375	0379	4813218
-entry	Hydrogure [Orfila]		
+entry	Hydrogure [Orfila]	0	
 orth	Hydrogure		
-entry	Hydromédiastin [P. Rayer]		
+entry	Hydromédiastin [P. Rayer]	2	
 orth	Hydromédiastin		
 pb	376	0380	4813219
 pb	377	0381	4813220
-entry	Hydromel [J. Pelletier]		
+entry	Hydromel [J. Pelletier]	0	
 orth	Hydromel		
-entry	Hydromètre [Desormeaux]		
+entry	Hydromètre [Desormeaux]	16	
 orth	Hydromètre		
 pb	378	0382	4813221
 pb	379	0383	4813222
@@ -556,9 +556,9 @@ pb	390	0394	4813233
 pb	391	0395	4813234
 pb	392	0396	4813235
 pb	393	0397	4813236
-entry	Hydromphale		
+entry	Hydromphale	1	
 pb	394	0398	4813237
-entry	Hydropéricarde [P. Rayer]		
+entry	Hydropéricarde [P. Rayer]	9	
 orth	Hydropéricarde		
 pb	395	0399	4813238
 pb	396	0400	4813239
@@ -569,7 +569,7 @@ pb	400	0404	4813243
 pb	401	0405	4813244
 pb	402	0406	4813245
 pb	403	0407	4813246
-entry	Hydrophobie [Chomel]		
+entry	Hydrophobie [Chomel]	9	
 orth	Hydrophobie		
 pb	404	0408	4813247
 pb	405	0409	4813248
@@ -580,7 +580,7 @@ pb	409	0413	4813252
 pb	410	0414	4813253
 pb	411	0415	4813254
 pb	412	0416	4813255
-entry	Hydrophthalmie [Jules Cloquet]		
+entry	Hydrophthalmie [Jules Cloquet]	7	
 orth	Hydrophthalmie		
 pb	413	0417	4813256
 pb	414	0418	4813257
@@ -589,16 +589,16 @@ pb	416	0420	4813259
 pb	417	0421	4813260
 pb	418	0422	4813261
 pb	419	0423	4813262
-entry	Hydrophthorate [Orfila]		
+entry	Hydrophthorate [Orfila]	0	
 orth	Hydrophthorate		
-entry	Hydrophthorique [Orfila]		
+entry	Hydrophthorique [Orfila]	1	
 orth	Hydrophthorique		
 pb	420	0424	4813263
-entry	Hydrophysocèle et Hydropneumatocèle		
+entry	Hydrophysocèle et Hydropneumatocèle	0	
 orth	Hydrophysocèle		
 orth	Hydropneumatocèle		
-entry	Hydropique		
-entry	Hydropisie [P. Rayer]		
+entry	Hydropique	0	
+entry	Hydropisie [P. Rayer]	36	
 orth	Hydropisie		
 pb	421	0425	4813264
 pb	422	0426	4813265
@@ -636,22 +636,22 @@ pb	453	0457	4813296
 pb	454	0458	4813297
 pb	455	0459	4813298
 pb	456	0460	4813299
-entry	Hydropneumonie		
-entry	Hydropneumosarque		
-entry	Hydrorachis		
+entry	Hydropneumonie	0	
+entry	Hydropneumosarque	0	
+entry	Hydrorachis	0	
 pb	457	0461	4813300
-entry	Hydrosarcocèle		
-entry	Hydrosarque		
-entry	Hydrosélénique (acide) [Orfila]		
+entry	Hydrosarcocèle	0	
+entry	Hydrosarque	0	
+entry	Hydrosélénique (acide) [Orfila]	0	
 orth	Hydrosélénique (acide)		
-entry	Hydrosulfate		
+entry	Hydrosulfate	1	
 pb	458	0462	4813301
-entry	Hydrosulfure		
-entry	Hydrosulfurique (acide) [Orfila]		
+entry	Hydrosulfure	0	
+entry	Hydrosulfurique (acide) [Orfila]	2	
 orth	Hydrosulfurique (acide)		
 pb	459	0463	4813302
 pb	460	0464	4813303
-entry	Hydrothorax [P. Rayer]		
+entry	Hydrothorax [P. Rayer]	10	
 orth	Hydrothorax		
 pb	461	0465	4813304
 pb	462	0466	4813305
@@ -663,12 +663,12 @@ pb	467	0471	4813310
 pb	468	0472	4813311
 pb	469	0473	4813312
 pb	470	0474	4813313
-entry	Hydrotite		
-entry	Hydroxanthique (acide) [Orfila]		
+entry	Hydrotite	0	
+entry	Hydroxanthique (acide) [Orfila]	0	
 orth	Hydroxanthique (acide)		
-entry	Hydrure [Ofila]		
+entry	Hydrure [Ofila]	0	
 orth	Hydrure		
-entry	Hygiène [L. Rostan]		
+entry	Hygiène [L. Rostan]	14	
 orth	Hygiène		
 pb	471	0475	4813314
 pb	472	0476	4813315
@@ -684,43 +684,43 @@ pb	481	0485	4813324
 pb	482	0486	4813325
 pb	483	0487	4813326
 pb	484	0488	4813327
-entry	Hygiènique		
-entry	Hygmore (corps d') [A. Béclard]		
+entry	Hygiènique	0	
+entry	Hygmore (corps d') [A. Béclard]	0	
 orth	Hygmore (corps d')		
-entry	Hygroblépharique		
+entry	Hygroblépharique	1	
 pb	485	0489	4813328
-entry	Hygrologie		
-entry	Hygromètre [L. Rostan]		
+entry	Hygrologie	0	
+entry	Hygromètre [L. Rostan]	1	
 orth	Hygromètre		
 pb	486	0490	4813329
-entry	Hymen [A. Béclard]		
+entry	Hymen [A. Béclard]	0	
 orth	Hymen		
-entry	Hyo-épiglottique		
-entry	Hyo-glosse (muscle) [A. Béclard]		
+entry	Hyo-épiglottique	0	
+entry	Hyo-glosse (muscle) [A. Béclard]	1	
 orth	Hyo-glosse (muscle)		
 pb	487	0491	4813330
-entry	Hyoïde [A. Béclard]		
+entry	Hyoïde [A. Béclard]	2	
 orth	Hyoïde		
 pb	488	0492	4813331
 pb	489	0493	4813332
-entry	Hyoïdien		
-entry	Hyo-pharyngien (muscle)		
-entry	Hyo-thyroïdien (muscle) [A. Béclard]		
+entry	Hyoïdien	0	
+entry	Hyo-pharyngien (muscle)	0	
+entry	Hyo-thyroïdien (muscle) [A. Béclard]	0	
 orth	Hyo-thyroïdien (muscle)		
-entry	Hypèresthésie		
-entry	Hypersarcose		
-entry	Hypersthénie		
-entry	Hypertonie		
-entry	Hypertrophie		
+entry	Hypèresthésie	0	
+entry	Hypersarcose	0	
+entry	Hypersthénie	0	
+entry	Hypertonie	0	
+entry	Hypertrophie	0	
 pb	490	0494	4813333
-entry	Hypnotique [Raige Delorme]		
+entry	Hypnotique [Raige Delorme]	0	
 orth	Hypnotique		
-entry	Hypochondre [A. Béclard]		
+entry	Hypochondre [A. Béclard]	0	
 orth	Hypochondre		
-entry	Hypochondriaque et Hypochondre		
+entry	Hypochondriaque et Hypochondre	0	
 orth	Hypochondriaque		
 orth	Hypochondre		
-entry	Hypochondrie [Georget]		
+entry	Hypochondrie [Georget]	26	
 orth	Hypochondrie		
 pb	491	0495	4813334
 pb	492	0496	4813335
@@ -748,52 +748,52 @@ pb	513	0517	4813356
 pb	514	0518	4813357
 pb	515	0519	4813358
 pb	516	0520	4813359
-entry	Hypogastre [A. Béclard]		
+entry	Hypogastre [A. Béclard]	0	
 orth	Hypogastre		
-entry	Hypogastrique [A. Béclard]		
+entry	Hypogastrique [A. Béclard]	0	
 orth	Hypogastrique		
-entry	Hypogastrocèle		
-entry	Hypoglosse [A. Béclard]		
+entry	Hypogastrocèle	0	
+entry	Hypoglosse [A. Béclard]	2	
 orth	Hypoglosse		
 pb	517	0521	4813360
 pb	518	0522	4813361
-entry	Hyponitreux (acide) [Orfila]		
+entry	Hyponitreux (acide) [Orfila]	0	
 orth	Hyponitreux (acide)		
-entry	Hyponitrite (nitrite) [Orfila]		
+entry	Hyponitrite (nitrite) [Orfila]	0	
 orth	Hyponitrite (nitrite)		
-entry	Hypophosphite [Orfila]		
+entry	Hypophosphite [Orfila]	0	
 orth	Hypophosphite		
-entry	Hypophosphoreux (acide) [Orfila]		
+entry	Hypophosphoreux (acide) [Orfila]	1	
 orth	Hypophosphoreux (acide)		
 pb	519	0523	4813362
-entry	Hypopyon [Jules Cloquet]		
+entry	Hypopyon [Jules Cloquet]	5	
 orth	Hypopyon		
 pb	520	0524	4813363
 pb	521	0525	4813364
 pb	522	0526	4813365
 pb	523	0527	4813366
 pb	524	0528	4813367
-entry	Hypospadias [G. Breschet]		
+entry	Hypospadias [G. Breschet]	0	
 orth	Hypospadias		
-entry	Hypospathisme		
-entry	Hypostase		
-entry	Hypothénar [A. Béclard]		
+entry	Hypospathisme	0	
+entry	Hypostase	0	
+entry	Hypothénar [A. Béclard]	0	
 orth	Hypothénar		
-entry	Hyposulfates [Orfila]		
+entry	Hyposulfates [Orfila]	0	
 orth	Hyposulfates		
-entry	Hyposulfites, (Sulfites sulfurés) [Orfila]		
+entry	Hyposulfites, (Sulfites sulfurés) [Orfila]	1	
 orth	Hyposulfites		
 orth	(Sulfites sulfurés)		
 pb	525	0529	4813368
-entry	Hyposulfureux (acide)		
-entry	Hyposulfurique (acide) [Orfila]		
+entry	Hyposulfureux (acide)	0	
+entry	Hyposulfurique (acide) [Orfila]	0	
 orth	Hyposulfurique (acide)		
-entry	Hysope et Hyssope [A. Richard]		
+entry	Hysope et Hyssope [A. Richard]	1	
 orth	Hysope		
 orth	Hyssope		
 pb	526	0530	4813369
-entry	Hystéralgie		
-entry	Hystérie [Georget]		
+entry	Hystéralgie	0	
+entry	Hystérie [Georget]	25	
 orth	Hystérie		
 pb	527	0531	4813370
 pb	528	0532	4813371
@@ -821,20 +821,20 @@ pb	549	0553	4813392
 pb	550	0554	4813393
 pb	551	0555	4813394
 pb	552	0556	4813395
-entry	Hystérique		
-entry	Hystérocèle		
-entry	Hystéroloxie		
-entry	Hystéromanie		
-entry	Hystéroptose		
-entry	Hystérostomatome [Desormeaux]		
+entry	Hystérique	0	
+entry	Hystérocèle	0	
+entry	Hystéroloxie	0	
+entry	Hystéromanie	0	
+entry	Hystéroptose	0	
+entry	Hystérostomatome [Desormeaux]	0	
 orth	Hystérostomatome		
-entry	Hystérotome [Desormeaux]		
+entry	Hystérotome [Desormeaux]	0	
 orth	Hystérotome		
-entry	Hystérotomie [Desormeaux]		
+entry	Hystérotomie [Desormeaux]	0	
 orth	Hystérotomie		
-entry	Hystérotomotokie [Desormeaux]		
+entry	Hystérotomotokie [Desormeaux]	0	
 orth	Hystérotomotokie		
 pb	[s. pag.]	0557	4813396
-entry	Table des principaux articles contenus dans le onzième volume		
+entry	Table des principaux articles contenus dans le onzième volume	0	
 pb	[s. pag.]	0558	4813397
-entry	Distribution des matières		
+entry	Distribution des matières	0	

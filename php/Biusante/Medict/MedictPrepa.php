@@ -27,16 +27,12 @@ class MedictPrepa extends MedictUtil
     static $dico_titre = null;
     /** fichier tsv en cours d’écriture */
     static $ftsv;
-    /** Des mots vides à filtrer pour la colonne d’index */
-    static $stop;
 
     public static function init()
     {
         self::connect();
         ini_set('memory_limit', '-1'); // needed for this script
         mb_internal_encoding("UTF-8");
-        // Charger les mots vides
-        self::$stop = array_flip(explode("\n", file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'stop.csv')));
     }
 
 
@@ -193,8 +189,7 @@ class MedictPrepa extends MedictUtil
 
 
     /**
-     * Lit les informations page à page de livancpages.chapitre.
-     * Écrit les données sources pour débogage.
+     * Charge un export des données de livancpages pour un volume.
      * Produit un premier tableau d’événements, à reparser,
      * pour regrouper les entrées sur plusieurs pages.
      */
@@ -386,7 +381,7 @@ class MedictPrepa extends MedictUtil
     /**
      * Écrire des événement lexicograhiques dans un fichier
      */
-    private static function tsv_write($file, $data)
+    private static function tsv_write($file, &$data)
     {
         $width = 4;
         $out = fopen($file, 'w');
@@ -402,12 +397,13 @@ class MedictPrepa extends MedictUtil
     }
 
     /**
-     * Réduire les sauts de page
+     * Réduire les sauts de page, taille des articles en nombre de pages
      */
-    private static function livancpages2($data) {
+    private static function livancpages2(&$data) {
         $out = [];
-        $vedette = null;
-        $pb = 0;
+        $out_i = 0; // index à remplir dans $out
+        $out_lastentry = 0; // index de la dernière entrée 
+        $vedette = null; // vedette en cours
         for ($i = 0, $max = count($data); $i < $max; $i++) {
             $line = $data[$i];
             if ($line[0] == 'entry') {
@@ -424,18 +420,21 @@ class MedictPrepa extends MedictUtil
                 ) {
                     $line = $data[$i + 2];
                 }
-
-
-                if ($vedette != $line[1]) {
+                // même vedette, incrémenter son compteur de pages
+                if ($vedette == $line[1]) {
+                    $out[$out_lastentry][2]++;
+                }
+                // vedette à sortir
+                else {
                     $vedette = $line[1];
-                    $out[] = $line;
-                    $pb = 0;
+                    $out_lastentry = $out_i;
+                    $out[$out_i++] = array('entry', $vedette, 0);
+                    $pb = 0; // compteur de page à zéro
                     continue;
                 }
             }
             if ($line[0] == 'pb') {
-                $out[] = $line;
-                $pb++;
+                $out[$out_i++] = $line;
             }
         }
         return $out;
@@ -444,7 +443,7 @@ class MedictPrepa extends MedictUtil
     /**
      * Découper la vedette en mots
      */
-    public static function livancpages3($data, $volume_cote) {
+    public static function livancpages3(&$data, $volume_cote) {
         $out = [];
         for ($i = 0, $max = count($data); $i < $max; $i++) {
             $line = $data[$i];

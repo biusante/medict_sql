@@ -1,23 +1,23 @@
 pb	[s. pag.]	0001	5556740
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556741
 pb	[s. pag.]	0003	418158
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556742
 pb	[s. pag.]	0005	418159
-entry	État d'avancement de la parution des volumes du Dictionnaire des sciences médicales		
+entry	État d'avancement de la parution des volumes du Dictionnaire des sciences médicales	0	
 pb	[s. pag.]	0006	5556743
 pb	[s. pag.]	0007	418160
-entry	Journal complémentaire du Dictionnaire des sciences médicales		
+entry	Journal complémentaire du Dictionnaire des sciences médicales	0	
 pb	[s. pag.]	0008	418161
 pb	1	0009	418162
-entry	leucé		
-entry	leucéthiopie		
+entry	leucé	0	
+entry	leucéthiopie	1	
 pb	2	0010	418163
-entry	leucome		
+entry	leucome	1	
 pb	3	0011	418164
-entry	leucophlegmatie		
-entry	leucorrhée		
+entry	leucophlegmatie	0	
+entry	leucorrhée	39	
 pb	4	0012	418165
 pb	5	0013	418166
 pb	6	0014	418167
@@ -57,8 +57,8 @@ pb	39	0047	418200
 pb	40	0048	418201
 pb	41	0049	418202
 pb	42	0050	418203
-entry	levain		
-entry	lévier (physique médicale)		
+entry	levain	0	
+entry	lévier (physique médicale)	22	
 pb	43	0051	418204
 pb	44	0052	418205
 pb	45	0053	418206
@@ -81,8 +81,8 @@ pb	61	0069	418222
 pb	62	0070	418223
 pb	63	0071	418224
 pb	64	0072	418225
-entry	lévigation		
-entry	lèvre		
+entry	lévigation	0	
+entry	lèvre	22	
 pb	65	0073	418226
 pb	66	0074	418227
 pb	67	0075	418228
@@ -105,9 +105,9 @@ pb	83	0091	418244
 pb	84	0092	418245
 pb	85	0093	418246
 pb	86	0094	418247
-entry	levure		
+entry	levure	1	
 pb	87	0095	418248
-entry	lézard		
+entry	lézard	14	
 pb	88	0096	418249
 pb	89	0097	418250
 pb	90	0098	418251
@@ -122,8 +122,8 @@ pb	98	0106	418259
 pb	99	0107	418260
 pb	100	0108	418261
 pb	101	0109	418262
-entry	libanotis		
-entry	liberté individuelle (philosophie médicale)		
+entry	libanotis	0	
+entry	liberté individuelle (philosophie médicale)	11	
 pb	102	0110	418263
 pb	103	0111	418264
 pb	104	0112	418265
@@ -135,7 +135,7 @@ pb	109	0117	418270
 pb	110	0118	418271
 pb	111	0119	418272
 pb	112	0120	418273
-entry	libertinage		
+entry	libertinage	43	
 pb	113	0121	418274
 pb	114	0122	418275
 pb	115	0123	418276
@@ -179,8 +179,8 @@ pb	152	0160	418313
 pb	153	0161	418314
 pb	154	0162	418315
 pb	155	0163	418316
-entry	libidineux		
-entry	lichen		
+entry	libidineux	0	
+entry	lichen	10	
 pb	156	0164	418317
 pb	157	0165	418318
 pb	158	0166	418319
@@ -191,29 +191,29 @@ pb	162	0170	418323
 pb	163	0171	418324
 pb	164	0172	418325
 pb	165	0173	418326
-entry	lie		
+entry	lie	2	
 pb	166	0174	418327
 pb	167	0175	418328
-entry	liége		
+entry	liége	2	
 pb	168	0176	418329
 pb	169	0177	418330
-entry	lien		
+entry	lien	1	
 pb	170	0178	418331
-entry	lienterie		
+entry	lienterie	4	
 pb	171	0179	418332
 pb	172	0180	418333
 pb	173	0181	418334
 pb	174	0182	418335
-entry	lierre		
+entry	lierre	5	
 pb	175	0183	418336
 pb	176	0184	418337
 pb	177	0185	418338
 pb	178	0186	418339
 pb	179	0187	418340
-entry	ligament		
+entry	ligament	1	
 pb	180	0188	418341
-entry	ligamenteux		
-entry	ligature		
+entry	ligamenteux	0	
+entry	ligature	69	
 pb	181	0189	418342
 pb	182	0190	418343
 pb	183	0191	418344
@@ -283,75 +283,75 @@ pb	246	0254	418407
 pb	247	0255	418408
 pb	248	0256	418409
 pb	249	0257	418410
-entry	ligne		
+entry	ligne	3	
 pb	250	0258	418411
 pb	251	0259	418412
 pb	252	0260	418413
-entry	ligneux		
+entry	ligneux	1	
 pb	253	0261	418414
-entry	lignuode		
-entry	lilas		
+entry	lignuode	0	
+entry	lilas	1	
 pb	254	0262	418415
-entry	lillacées		
+entry	lillacées	3	
 pb	255	0263	418416
 pb	256	0264	418417
 pb	257	0265	418418
-entry	lilium de paracelse		
+entry	lilium de paracelse	2	
 pb	258	0266	418419
 pb	259	0267	418420
-entry	limace		
+entry	limace	1	
 pb	260	0268	418421
-entry	limaçon		
+entry	limaçon	3	
 pb	261	0269	418422
 pb	262	0270	418423
 pb	263	0271	418424
-entry	limaille de fer		
-entry	limanchie		
-entry	lime		
-entry	limoctonie		
-entry	limon		
+entry	limaille de fer	0	
+entry	limanchie	0	
+entry	lime	0	
+entry	limoctonie	0	
+entry	limon	1	
 pb	264	0272	418425
-entry	limonade		
+entry	limonade	4	
 pb	265	0273	418426
 pb	266	0274	418427
 pb	267	0275	418428
 pb	268	0276	418429
 pb	269	0277	418430
-entry	limoneux		
-entry	limpide		
+entry	limoneux	0	
+entry	limpide	1	
 pb	270	0278	418431
-entry	lin		
+entry	lin	5	
 pb	271	0279	418432
 pb	272	0280	418433
 pb	273	0281	418434
 pb	274	0282	418435
 pb	275	0283	418436
-entry	linaire		
+entry	linaire	2	
 pb	276	0284	418437
 pb	277	0285	418438
-entry	linéament		
-entry	linge		
+entry	linéament	0	
+entry	linge	5	
 pb	278	0286	418439
 pb	279	0287	418440
 pb	280	0288	418441
 pb	281	0289	418442
 pb	282	0290	418443
-entry	lingual		
+entry	lingual	1	
 pb	283	0291	418444
-entry	liniment		
+entry	liniment	5	
 pb	284	0292	418445
 pb	285	0293	418446
 pb	286	0294	418447
 pb	287	0295	418448
 pb	288	0296	418449
-entry	linnée		
+entry	linnée	2	
 pb	289	0297	418450
 pb	290	0298	418451
-entry	lipa		
-entry	liparocèle		
-entry	lipome		
-entry	liposychie		
-entry	lipothymie		
+entry	lipa	0	
+entry	liparocèle	0	
+entry	lipome	0	
+entry	liposychie	0	
+entry	lipothymie	20	
 pb	291	0299	418452
 pb	292	0300	418453
 pb	293	0301	418454
@@ -372,12 +372,12 @@ pb	307	0315	418468
 pb	308	0316	418469
 pb	309	0317	418470
 pb	310	0318	418471
-entry	lippitude		
-entry	lipyrie		
+entry	lippitude	0	
+entry	lipyrie	0	
 pb	311	0319	418472
-entry	liquéfaction		
+entry	liquéfaction	1	
 pb	312	0320	418473
-entry	liqueur		
+entry	liqueur	10	
 pb	313	0321	418474
 pb	314	0322	418475
 pb	315	0323	418476
@@ -388,20 +388,20 @@ pb	319	0327	418480
 pb	320	0328	418481
 pb	321	0329	418482
 pb	322	0330	418483
-entry	liquidambar		
+entry	liquidambar	2	
 pb	323	0331	418484
 pb	324	0332	418485
-entry	lis		
+entry	lis	2	
 pb	325	0333	418486
 pb	326	0334	418487
-entry	liseron		
+entry	liseron	4	
 pb	327	0335	418488
 pb	328	0336	418489
 pb	329	0337	418490
 pb	330	0338	418491
-entry	lisières		
+entry	lisières	1	
 pb	331	0339	418492
-entry	lit		
+entry	lit	9	
 pb	332	0340	418493
 pb	333	0341	418494
 pb	334	0342	418495
@@ -413,21 +413,21 @@ pb	339	0347	418500
 pb	340	0348	418501
 pb	[s. pag.]	0349	5556744
 pb	[s. pag.]	0350	418502
-entry	lit mécanique de Danjon : explication de la planche		
+entry	lit mécanique de Danjon : explication de la planche	0	
 pb	[s. pag.]	0351	418503
-entry	lit mécanique de Danjon : planche		
+entry	lit mécanique de Danjon : planche	0	
 pb	[s. pag.]	0352	5556745
 pb	341	0353	418504
-entry	lit		
+entry	lit	1	
 pb	342	0354	418505
-entry	lithagogue		
-entry	litharge		
+entry	lithagogue	0	
+entry	litharge	2	
 pb	343	0355	418506
 pb	344	0356	418507
-entry	lithiasique		
-entry	lithiate		
-entry	lithique (acide)		
-entry	lithontriptique		
+entry	lithiasique	0	
+entry	lithiate	0	
+entry	lithique (acide)	0	
+entry	lithontriptique	7	
 pb	345	0357	418508
 pb	346	0358	418509
 pb	347	0359	418510
@@ -435,13 +435,13 @@ pb	348	0360	418511
 pb	349	0361	418512
 pb	350	0362	418513
 pb	351	0363	418514
-entry	lithopède		
+entry	lithopède	2	
 pb	352	0364	418515
 pb	353	0365	418516
-entry	lithophage		
-entry	lithotome		
+entry	lithophage	0	
+entry	lithotome	0	
 pb	354	0366	418517
-entry	lithotomie		
+entry	lithotomie	118	
 pb	355	0367	418518
 pb	356	0368	418519
 pb	357	0369	418520
@@ -560,10 +560,10 @@ pb	469	0481	418632
 pb	470	0482	418633
 pb	471	0483	418634
 pb	472	0484	418635
-entry	lithotomiste		
+entry	lithotomiste	2	
 pb	473	0485	418636
 pb	474	0486	418637
-entry	littérature médicale		
+entry	littérature médicale	14	
 pb	475	0487	418638
 pb	476	0488	418639
 pb	477	0489	418640
@@ -578,9 +578,9 @@ pb	485	0497	418648
 pb	486	0498	418649
 pb	487	0499	418650
 pb	488	0500	418651
-entry	livèche		
+entry	livèche	1	
 pb	489	0501	418652
-entry	livres		
+entry	livres	20	
 pb	490	0502	418653
 pb	491	0503	418654
 pb	492	0504	418655
@@ -601,22 +601,22 @@ pb	506	0518	418669
 pb	507	0519	418670
 pb	508	0520	418671
 pb	509	0521	418672
-entry	lixiviation		
+entry	lixiviation	2	
 pb	510	0522	418673
 pb	511	0523	418674
-entry	lobaire		
-entry	lobe		
-entry	lobélie		
+entry	lobaire	0	
+entry	lobe	0	
+entry	lobélie	3	
 pb	512	0524	418675
 pb	513	0525	418676
 pb	514	0526	418677
-entry	lobule		
-entry	local		
+entry	lobule	0	
+entry	local	3	
 pb	515	0527	418678
 pb	516	0528	418679
 pb	517	0529	418680
-entry	loch		
-entry	lochies		
+entry	loch	0	
+entry	lochies	30	
 pb	518	0530	418681
 pb	519	0531	418682
 pb	520	0532	418683
@@ -647,9 +647,9 @@ pb	544	0556	418707
 pb	545	0557	418708
 pb	546	0558	418709
 pb	547	0559	418710
-entry	locomoteur		
+entry	locomoteur	0	
 pb	548	0560	418711
-entry	locomotion		
+entry	locomotion	30	
 pb	549	0561	418712
 pb	550	0562	418713
 pb	551	0563	418714
@@ -680,26 +680,26 @@ pb	575	0587	418738
 pb	576	0588	418739
 pb	577	0589	418740
 pb	578	0590	418741
-entry	logement		
-entry	logique (médicale)		
+entry	logement	0	
+entry	logique (médicale)	6	
 pb	579	0591	418742
 pb	580	0592	418743
 pb	581	0593	418744
 pb	582	0594	418745
 pb	583	0595	418746
 pb	584	0596	418747
-entry	lombago		
-entry	lombaire		
+entry	lombago	0	
+entry	lombaire	1	
 pb	585	0597	418748
-entry	lombes		
+entry	lombes	1	
 pb	586	0598	418749
-entry	lombo-abdominal		
+entry	lombo-abdominal	1	
 pb	587	0599	418750
-entry	lombo-costal		
-entry	lombo-huméral		
+entry	lombo-costal	0	
+entry	lombo-huméral	1	
 pb	588	0600	418751
-entry	lombric		
+entry	lombric	1	
 pb	589	0601	418752
-entry	lombricoide		
+entry	lombricoide	0	
 pb	[s. pag.]	0602	418753
-entry	Errata		
+entry	Errata	0	

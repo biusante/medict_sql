@@ -1,13 +1,13 @@
 pb	[s. pag.]	0001	5556919
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556920
 pb	[s. pag.]	0003	405317
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556921
 pb	1	0005	405318
-entry	corps		
+entry	corps	1	
 pb	2	0006	405319
-entry	corps étrangers		
+entry	corps étrangers	67	
 pb	3	0007	405320
 pb	4	0008	405321
 pb	5	0009	405322
@@ -75,7 +75,7 @@ pb	66	0070	405383
 pb	67	0071	405384
 pb	68	0072	405385
 pb	69	0073	405386
-entry	corps fibreux de la matrice		
+entry	corps fibreux de la matrice	18	
 pb	70	0074	405387
 pb	71	0075	405388
 pb	72	0076	405389
@@ -94,7 +94,7 @@ pb	84	0088	405401
 pb	85	0089	405402
 pb	86	0090	405403
 pb	87	0091	405404
-entry	corps (habitude extérieure du)		
+entry	corps (habitude extérieure du)	17	
 pb	88	0092	405405
 pb	89	0093	405406
 pb	90	0094	405407
@@ -112,30 +112,30 @@ pb	101	0105	405418
 pb	102	0106	405419
 pb	103	0107	405420
 pb	104	0108	405421
-entry	corpulence		
+entry	corpulence	3	
 pb	105	0109	405422
 pb	106	0110	405423
 pb	107	0111	405424
-entry	corpuscule		
+entry	corpuscule	1	
 pb	108	0112	405425
-entry	correctif		
+entry	correctif	1	
 pb	109	0113	405426
-entry	corroborant		
+entry	corroborant	1	
 pb	110	0114	405427
 pb	111	0115	405428
-entry	corroboration		
-entry	corrodant		
-entry	corrosif		
+entry	corroboration	0	
+entry	corrodant	0	
+entry	corrosif	2	
 pb	112	0116	405429
 pb	113	0117	405430
-entry	corrugateur		
-entry	corrugation		
+entry	corrugateur	0	
+entry	corrugation	1	
 pb	114	0118	405431
-entry	corruption		
+entry	corruption	3	
 pb	115	0119	405432
 pb	116	0120	405433
 pb	117	0121	405434
-entry	corset		
+entry	corset	7	
 pb	118	0122	405435
 pb	119	0123	405436
 pb	120	0124	405437
@@ -143,26 +143,26 @@ pb	121	0125	405438
 pb	122	0126	405439
 pb	123	0127	405440
 pb	124	0128	405441
-entry	cortical		
-entry	corybantiasme		
+entry	cortical	0	
+entry	corybantiasme	1	
 pb	125	0129	405442
-entry	corymbifères		
+entry	corymbifères	1	
 pb	126	0130	405443
-entry	coryza		
+entry	coryza	2	
 pb	127	0131	405444
 pb	128	0132	405445
-entry	cosmétique		
+entry	cosmétique	6	
 pb	129	0133	405446
 pb	130	0134	405447
 pb	131	0135	405448
 pb	132	0136	405449
 pb	133	0137	405450
 pb	134	0138	405451
-entry	costal		
-entry	costo-abdominal		
-entry	costus		
+entry	costal	0	
+entry	costo-abdominal	0	
+entry	costus	1	
 pb	135	0139	405452
-entry	cote		
+entry	cote	15	
 pb	136	0140	405453
 pb	137	0141	405454
 pb	138	0142	405455
@@ -178,12 +178,12 @@ pb	147	0151	405464
 pb	148	0152	405465
 pb	149	0153	405466
 pb	150	0154	405467
-entry	cotyloide		
+entry	cotyloide	2	
 pb	151	0155	405468
 pb	152	0156	405469
-entry	cou		
-entry	couches optiques		
-entry	couche		
+entry	cou	0	
+entry	couches optiques	0	
+entry	couche	18	
 pb	153	0157	405470
 pb	154	0158	405471
 pb	155	0159	405472
@@ -202,19 +202,19 @@ pb	167	0171	405484
 pb	168	0172	405485
 pb	169	0173	405486
 pb	170	0174	405487
-entry	coucher		
+entry	coucher	6	
 pb	171	0175	405488
 pb	172	0176	405489
 pb	173	0177	405490
 pb	174	0178	405491
 pb	175	0179	405492
 pb	176	0180	405493
-entry	coude		
+entry	coude	1	
 pb	177	0181	405494
-entry	coude-pied		
+entry	coude-pied	2	
 pb	178	0182	405495
 pb	179	0183	405496
-entry	couenne		
+entry	couenne	8	
 pb	180	0184	405497
 pb	181	0185	405498
 pb	182	0186	405499
@@ -223,7 +223,7 @@ pb	184	0188	405501
 pb	185	0189	405502
 pb	186	0190	405503
 pb	187	0191	405504
-entry	couleur		
+entry	couleur	8	
 pb	188	0192	405505
 pb	189	0193	405506
 pb	190	0194	405507
@@ -232,7 +232,7 @@ pb	192	0196	405509
 pb	193	0197	405510
 pb	194	0198	405511
 pb	195	0199	405512
-entry	couloir		
+entry	couloir	23	
 pb	196	0200	405513
 pb	197	0201	405514
 pb	198	0202	405515
@@ -256,70 +256,70 @@ pb	215	0219	405532
 pb	216	0220	405533
 pb	217	0221	405534
 pb	218	0222	405535
-entry	coupure		
-entry	courage		
+entry	coupure	0	
+entry	courage	1	
 pb	219	0223	405536
 pb	220	0224	405537
-entry	courante		
-entry	courbaril		
-entry	courbature		
+entry	courante	0	
+entry	courbaril	0	
+entry	courbature	1	
 pb	221	0225	405538
-entry	courbure		
+entry	courbure	1	
 pb	222	0226	405539
-entry	couronne		
-entry	couronnement		
+entry	couronne	0	
+entry	couronnement	1	
 pb	223	0227	405540
-entry	cours de ventre		
-entry	course		
+entry	cours de ventre	0	
+entry	course	4	
 pb	224	0228	405541
 pb	225	0229	405542
 pb	226	0230	405543
 pb	227	0231	405544
-entry	courte-haleine		
-entry	cousin		
+entry	courte-haleine	0	
+entry	cousin	1	
 pb	228	0232	405545
-entry	coussinet		
-entry	couteau		
+entry	coussinet	0	
+entry	couteau	2	
 pb	229	0233	405546
 pb	230	0234	405547
 pb	[s. pag.]	0235	5556922
 pb	[s. pag.]	0236	405548
-entry	couteaux : explication de la planche I		
-entry	couteaux de petite dimension		
+entry	couteaux : explication de la planche I	0	
+entry	couteaux de petite dimension	0	
 pb	[s. pag.]	0237	405549
-entry	couteaux  : planche I		
+entry	couteaux  : planche I	0	
 pb	[s. pag.]	0238	5556923
 pb	[s. pag.]	0239	5556924
 pb	[s. pag.]	0240	405550
-entry	couteaux : explication de la planche II		
-entry	couteaux de la plus grande dimension		
+entry	couteaux : explication de la planche II	0	
+entry	couteaux de la plus grande dimension	0	
 pb	[s. pag.]	0241	405551
-entry	couteaux  : planche II		
+entry	couteaux  : planche II	0	
 pb	[s. pag.]	0242	5556925
 pb	231	0243	405552
-entry	couteau		
-entry	coutume		
+entry	couteau	0	
+entry	coutume	6	
 pb	232	0244	405553
 pb	233	0245	405554
 pb	234	0246	405555
 pb	235	0247	405556
 pb	236	0248	405557
 pb	237	0249	405558
-entry	couture		
+entry	couture	1	
 pb	238	0250	405559
-entry	couturier		
-entry	couvre-chef		
+entry	couturier	0	
+entry	couvre-chef	1	
 pb	239	0251	405560
-entry	coxal		
-entry	cowpox		
+entry	coxal	0	
+entry	cowpox	6	
 pb	240	0252	405561
 pb	241	0253	405562
 pb	242	0254	405563
 pb	243	0255	405564
 pb	244	0256	405565
 pb	245	0257	405566
-entry	crabe		
-entry	crachat		
+entry	crabe	0	
+entry	crachat	8	
 pb	246	0258	405567
 pb	247	0259	405568
 pb	248	0260	405569
@@ -328,19 +328,19 @@ pb	250	0262	405571
 pb	251	0263	405572
 pb	252	0264	405573
 pb	253	0265	405574
-entry	crachement		
-entry	crachotement		
+entry	crachement	0	
+entry	crachotement	1	
 pb	254	0266	405575
-entry	craie		
-entry	crainte		
+entry	craie	0	
+entry	crainte	2	
 pb	255	0267	405576
 pb	256	0268	405577
-entry	crampe		
+entry	crampe	4	
 pb	257	0269	405578
 pb	258	0270	405579
 pb	259	0271	405580
 pb	260	0272	405581
-entry	crâne		
+entry	crâne	40	
 pb	261	0273	405582
 pb	262	0274	405583
 pb	263	0275	405584
@@ -381,7 +381,7 @@ pb	297	0309	405618
 pb	298	0310	405619
 pb	299	0311	405620
 pb	300	0312	405621
-entry	cranioscopie		
+entry	cranioscopie	19	
 pb	301	0313	405622
 pb	302	0314	405623
 pb	303	0315	405624
@@ -402,21 +402,21 @@ pb	317	0329	405638
 pb	318	0330	405639
 pb	319	0331	405640
 pb	320	0332	405641
-entry	crapaud		
+entry	crapaud	1	
 pb	321	0333	405642
-entry	crapaudine		
+entry	crapaudine	1	
 pb	322	0334	405643
-entry	crapule		
+entry	crapule	4	
 pb	323	0335	405644
 pb	324	0336	405645
 pb	325	0337	405646
 pb	326	0338	405647
-entry	crase		
-entry	craspedon		
-entry	crassamentum		
-entry	crassulées		
+entry	crase	0	
+entry	craspedon	0	
+entry	crassamentum	0	
+entry	crassulées	1	
 pb	327	0339	405648
-entry	cravate		
+entry	cravate	8	
 pb	328	0340	405649
 pb	329	0341	405650
 pb	330	0342	405651
@@ -425,30 +425,30 @@ pb	332	0344	405653
 pb	333	0345	405654
 pb	334	0346	405655
 pb	335	0347	405656
-entry	cremason		
-entry	cremaster		
-entry	crème		
+entry	cremason	0	
+entry	cremaster	0	
+entry	crème	1	
 pb	336	0348	405657
-entry	crénelure		
-entry	créole		
+entry	crénelure	0	
+entry	créole	3	
 pb	337	0349	405658
 pb	338	0350	405659
 pb	339	0351	405660
-entry	crépitation		
+entry	crépitation	2	
 pb	340	0352	405661
 pb	341	0353	405662
-entry	crépu		
-entry	cresson		
+entry	crépu	0	
+entry	cresson	1	
 pb	342	0354	405663
-entry	crète de coq		
+entry	crète de coq	0	
 pb	343	0355	405664
-entry	crétin		
+entry	crétin	3	
 pb	344	0356	405665
 pb	345	0357	405666
 pb	346	0358	405667
-entry	creux		
+entry	creux	1	
 pb	347	0359	405668
-entry	crevasse		
+entry	crevasse	16	
 pb	348	0360	405669
 pb	349	0361	405670
 pb	350	0362	405671
@@ -465,22 +465,22 @@ pb	360	0372	405681
 pb	361	0373	405682
 pb	362	0374	405683
 pb	363	0375	405684
-entry	criblé		
-entry	cribleux		
-entry	cribration		
-entry	crico-arytenoidien		
-entry	cricoide		
+entry	criblé	0	
+entry	cribleux	0	
+entry	cribration	0	
+entry	crico-arytenoidien	0	
+entry	cricoide	0	
 pb	364	0376	405685
-entry	crin		
-entry	crinal		
+entry	crin	0	
+entry	crinal	1	
 pb	365	0377	405686
-entry	crinon		
+entry	crinon	4	
 pb	366	0378	405687
 pb	367	0379	405688
 pb	368	0380	405689
 pb	369	0381	405690
 pb	370	0382	405691
-entry	crise		
+entry	crise	22	
 pb	371	0383	405692
 pb	372	0384	405693
 pb	373	0385	405694
@@ -503,51 +503,51 @@ pb	389	0401	405710
 pb	390	0402	405711
 pb	391	0403	405712
 pb	392	0404	405713
-entry	crispation		
-entry	crista galli		
-entry	cristal		
-entry	cristallin		
+entry	crispation	0	
+entry	crista galli	0	
+entry	cristal	0	
+entry	cristallin	3	
 pb	393	0405	405714
 pb	394	0406	405715
 pb	395	0407	405716
-entry	cristalline		
+entry	cristalline	1	
 pb	396	0408	405717
-entry	cristallisation		
+entry	cristallisation	2	
 pb	397	0409	405718
 pb	398	0410	405719
-entry	crithe		
+entry	crithe	0	
 pb	399	0411	405720
-entry	critique		
-entry	crochet		
+entry	critique	0	
+entry	crochet	3	
 pb	400	0412	405721
 pb	401	0413	405722
 pb	402	0414	405723
 pb	[s. pag.]	0415	5556926
 pb	[s. pag.]	0416	405724
-entry	crochet : explication de la planche		
+entry	crochet : explication de la planche	0	
 pb	[s. pag.]	0417	405725
-entry	crochet  : planche		
+entry	crochet  : planche	0	
 pb	[s. pag.]	0418	5556927
 pb	403	0419	405726
-entry	crocidisme		
-entry	croisette		
-entry	croissance		
-entry	croissans		
+entry	crocidisme	0	
+entry	croisette	0	
+entry	croissance	0	
+entry	croissans	1	
 pb	404	0420	405727
-entry	croix		
+entry	croix	1	
 pb	405	0421	405728
-entry	crosse de l'aorte		
-entry	crotale		
+entry	crosse de l'aorte	0	
+entry	crotale	6	
 pb	406	0422	405729
 pb	407	0423	405730
 pb	408	0424	405731
 pb	409	0425	405732
 pb	410	0426	405733
 pb	411	0427	405734
-entry	crotaphite		
-entry	croton		
+entry	crotaphite	0	
+entry	croton	1	
 pb	412	0428	405735
-entry	croup		
+entry	croup	87	
 pb	413	0429	405736
 pb	414	0430	405737
 pb	415	0431	405738
@@ -635,23 +635,23 @@ pb	496	0512	405819
 pb	497	0513	405820
 pb	498	0514	405821
 pb	499	0515	405822
-entry	croute		
+entry	croute	1	
 pb	500	0516	405823
-entry	croute de lait		
+entry	croute de lait	1	
 pb	501	0517	405824
-entry	crouteux		
-entry	cru		
+entry	crouteux	0	
+entry	cru	0	
 pb	502	0518	405825
-entry	cruciale		
+entry	cruciale	2	
 pb	503	0519	405826
 pb	504	0520	405827
-entry	crucifères (famille des)		
+entry	crucifères (famille des)	1	
 pb	505	0521	405828
-entry	cruciforme		
-entry	crudité		
-entry	cruor		
+entry	cruciforme	0	
+entry	crudité	0	
+entry	cruor	1	
 pb	506	0522	405829
-entry	crural		
+entry	crural	7	
 pb	507	0523	405830
 pb	508	0524	405831
 pb	509	0525	405832
@@ -660,37 +660,37 @@ pb	511	0527	405834
 pb	512	0528	405835
 pb	513	0529	405836
 pb	514	0530	405837
-entry	crustacé		
-entry	crypsorchis		
-entry	crypte		
+entry	crustacé	0	
+entry	crypsorchis	0	
+entry	crypte	2	
 pb	515	0531	405838
 pb	516	0532	405839
-entry	cryptopyique		
-entry	cubère		
-entry	cubital		
+entry	cryptopyique	0	
+entry	cubère	0	
+entry	cubital	2	
 pb	517	0533	405840
 pb	518	0534	405841
-entry	cubito-carpien		
+entry	cubito-carpien	1	
 pb	519	0535	405842
-entry	cubitus		
+entry	cubitus	6	
 pb	520	0536	405843
 pb	521	0537	405844
 pb	522	0538	405845
 pb	523	0539	405846
 pb	524	0540	405847
 pb	525	0541	405848
-entry	cuboide		
-entry	cucullaire		
-entry	cucuphe		
-entry	cucurbitacées (famille des)		
+entry	cuboide	0	
+entry	cucullaire	0	
+entry	cucuphe	0	
+entry	cucurbitacées (famille des)	1	
 pb	526	0542	405849
-entry	cucurbitains		
+entry	cucurbitains	1	
 pb	527	0543	405850
-entry	cuiller		
+entry	cuiller	1	
 pb	528	0544	405851
-entry	cuir		
+entry	cuir	1	
 pb	529	0545	405852
-entry	cuisse		
+entry	cuisse	7	
 pb	530	0546	405853
 pb	531	0547	405854
 pb	532	0548	405855
@@ -698,11 +698,11 @@ pb	533	0549	405856
 pb	534	0550	405857
 pb	535	0551	405858
 pb	536	0552	405859
-entry	cuisson		
+entry	cuisson	3	
 pb	537	0553	405860
 pb	538	0554	405861
 pb	539	0555	405862
-entry	cuivre		
+entry	cuivre	40	
 pb	540	0556	405863
 pb	541	0557	405864
 pb	542	0558	405865
@@ -743,11 +743,11 @@ pb	576	0592	405899
 pb	577	0593	405900
 pb	578	0594	405901
 pb	579	0595	405902
-entry	culbute		
+entry	culbute	2	
 pb	580	0596	405903
 pb	581	0597	405904
-entry	culilawan		
-entry	culotte		
+entry	culilawan	0	
+entry	culotte	17	
 pb	582	0598	405905
 pb	583	0599	405906
 pb	584	0600	405907
@@ -765,23 +765,23 @@ pb	595	0611	405918
 pb	596	0612	405919
 pb	597	0613	405920
 pb	598	0614	405921
-entry	cultrivore		
-entry	cumin		
+entry	cultrivore	0	
+entry	cumin	1	
 pb	599	0615	405922
-entry	cunéiforme		
-entry	curable		
+entry	cunéiforme	0	
+entry	curable	1	
 pb	600	0616	405923
-entry	curatif		
+entry	curatif	5	
 pb	601	0617	405924
 pb	602	0618	405925
 pb	603	0619	405926
 pb	604	0620	405927
 pb	605	0621	405928
-entry	curation		
+entry	curation	2	
 pb	606	0622	405929
 pb	607	0623	405930
-entry	curcuma		
-entry	cure		
+entry	curcuma	0	
+entry	cure	10	
 pb	608	0624	405931
 pb	609	0625	405932
 pb	610	0626	405933
@@ -792,25 +792,25 @@ pb	614	0630	405937
 pb	615	0631	405938
 pb	616	0632	405939
 pb	617	0633	405940
-entry	cure-dent		
-entry	cure-langue		
+entry	cure-dent	0	
+entry	cure-langue	0	
 pb	618	0634	405941
-entry	cure-oreille		
+entry	cure-oreille	1	
 pb	619	0635	405942
-entry	curette		
+entry	curette	1	
 pb	620	0636	405943
-entry	cutambule		
-entry	cutané		
+entry	cutambule	0	
+entry	cutané	3	
 pb	621	0637	405944
 pb	622	0638	405945
 pb	623	0639	405946
-entry	cuticule		
-entry	cutubuth		
-entry	cyanopathie		
-entry	cyclame		
+entry	cuticule	0	
+entry	cutubuth	0	
+entry	cyanopathie	0	
+entry	cyclame	1	
 pb	624	0640	405947
-entry	cycle		
-entry	cyclique (règle)		
+entry	cycle	0	
+entry	cyclique (règle)	11	
 pb	625	0641	405948
 pb	626	0642	405949
 pb	627	0643	405950
@@ -822,39 +822,39 @@ pb	632	0648	405955
 pb	633	0649	405956
 pb	634	0650	405957
 pb	635	0651	405958
-entry	cyclisce		
+entry	cyclisce	1	
 pb	636	0652	405959
-entry	cyclotome		
-entry	cylindre		
-entry	cylindrique		
-entry	cylindroide		
-entry	cyllosis		
-entry	cynancie		
-entry	cynanthropie		
+entry	cyclotome	0	
+entry	cylindre	0	
+entry	cylindrique	0	
+entry	cylindroide	0	
+entry	cyllosis	0	
+entry	cynancie	0	
+entry	cynanthropie	1	
 pb	637	0653	405960
-entry	cynarocéphales (famille des)		
-entry	cynique		
+entry	cynarocéphales (famille des)	0	
+entry	cynique	1	
 pb	638	0654	405961
-entry	cynoglosse		
+entry	cynoglosse	1	
 pb	639	0655	405962
-entry	cynorexie		
-entry	cynorrhodon		
+entry	cynorexie	0	
+entry	cynorrhodon	1	
 pb	640	0656	405963
-entry	cypéracées (famille des)		
-entry	cyphose		
-entry	cyprès		
+entry	cypéracées (famille des)	0	
+entry	cyphose	0	
+entry	cyprès	1	
 pb	641	0657	405964
-entry	cyrtoma		
-entry	cyrtosis		
-entry	cystalgie		
-entry	cysthépatique		
+entry	cyrtoma	0	
+entry	cyrtosis	0	
+entry	cystalgie	0	
+entry	cysthépatique	1	
 pb	642	0658	405965
-entry	cystiphlogie		
-entry	cystique		
+entry	cystiphlogie	0	
+entry	cystique	1	
 pb	643	0659	405966
-entry	cystirrhagie		
-entry	cystirrhée		
-entry	cystite		
+entry	cystirrhagie	0	
+entry	cystirrhée	0	
+entry	cystite	24	
 pb	644	0660	405967
 pb	645	0661	405968
 pb	646	0662	405969
@@ -879,8 +879,8 @@ pb	664	0680	405987
 pb	665	0681	405988
 pb	666	0682	405989
 pb	667	0683	405990
-entry	cystitome		
-entry	cystobubonocèle		
+entry	cystitome	0	
+entry	cystobubonocèle	10	
 pb	668	0684	405991
 pb	669	0685	405992
 pb	670	0686	405993
@@ -891,7 +891,7 @@ pb	674	0690	405997
 pb	675	0691	405998
 pb	676	0692	405999
 pb	677	0693	406000
-entry	cystocèle		
+entry	cystocèle	9	
 pb	678	0694	406001
 pb	679	0695	406002
 pb	680	0696	406003
@@ -901,18 +901,18 @@ pb	683	0699	406006
 pb	684	0700	406007
 pb	685	0701	406008
 pb	686	0702	406009
-entry	cystodynie		
-entry	cystolithique		
-entry	cystomérocèle		
+entry	cystodynie	0	
+entry	cystolithique	0	
+entry	cystomérocèle	1	
 pb	687	0703	406010
-entry	cystophlegmatique		
-entry	cystophlogie		
-entry	cystoplégique		
-entry	cystoplexie		
-entry	cystoptose		
-entry	cystopyique		
-entry	cystospastique		
-entry	cystothromboide		
+entry	cystophlegmatique	0	
+entry	cystophlogie	0	
+entry	cystoplégique	0	
+entry	cystoplexie	0	
+entry	cystoptose	0	
+entry	cystopyique	0	
+entry	cystospastique	0	
+entry	cystothromboide	1	
 pb	688	0704	406011
-entry	cystotome		
-entry	cystotomie		
+entry	cystotome	0	
+entry	cystotomie	0	

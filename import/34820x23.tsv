@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	474600
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	474601
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	474602
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	474603
-entry	Lettre P		
-entry	Paediatrie		
+entry	Lettre P	0	
+entry	Paediatrie	28	
 pb	2	0005	474604
 pb	3	0006	474605
 pb	4	0007	474606
@@ -36,7 +36,7 @@ pb	27	0030	474629
 pb	28	0031	474630
 pb	29	0032	474631
 pb	30	0033	474632
-entry	Pain		
+entry	Pain	12	
 pb	31	0034	474633
 pb	32	0035	474634
 pb	33	0036	474635
@@ -49,17 +49,17 @@ pb	39	0042	474641
 pb	40	0043	474642
 pb	41	0044	474643
 pb	42	0045	474644
-entry	Palmiers		
+entry	Palmiers	2	
 pb	43	0046	474645
 pb	44	0047	474646
-entry	Palpitation		
+entry	Palpitation	6	
 pb	45	0048	474647
 pb	46	0049	474648
 pb	47	0050	474649
 pb	48	0051	474650
 pb	49	0052	474651
 pb	50	0053	474652
-entry	Panaris		
+entry	Panaris	15	
 pb	51	0054	474653
 pb	52	0055	474654
 pb	53	0056	474655
@@ -75,7 +75,7 @@ pb	62	0065	474664
 pb	63	0066	474665
 pb	64	0067	474666
 pb	65	0068	474667
-entry	Pancreas		
+entry	Pancreas	33	
 pb	66	0069	474668
 pb	67	0070	474669
 pb	68	0071	474670
@@ -109,7 +109,7 @@ pb	95	0098	474697
 pb	96	0099	474698
 pb	97	0100	474699
 pb	98	0101	474700
-entry	Pansement		
+entry	Pansement	8	
 pb	99	0102	474701
 pb	100	0103	474702
 pb	101	0104	474703
@@ -118,28 +118,28 @@ pb	103	0106	474705
 pb	104	0107	474706
 pb	105	0108	474707
 pb	106	0109	474708
-entry	Papavéracées		
+entry	Papavéracées	2	
 pb	107	0110	474709
 pb	108	0111	474710
-entry	Papule, Papuleuses		
+entry	Papule, Papuleuses	1	
 orth	Papule		
 orth	Papuleuses		
 pb	109	0112	474711
-entry	Paracenthèse		
+entry	Paracenthèse	0	
 pb	110	0113	474712
-entry	Paracentèse		
+entry	Paracentèse	6	
 pb	111	0114	474713
 pb	112	0115	474714
 pb	113	0116	474715
 pb	114	0117	474716
 pb	115	0118	474717
 pb	116	0119	474718
-entry	Paracousie		
+entry	Paracousie	4	
 pb	117	0120	474719
 pb	118	0121	474720
 pb	119	0122	474721
 pb	120	0123	474722
-entry	Paralysie		
+entry	Paralysie	38	
 pb	121	0124	474723
 pb	122	0125	474724
 pb	123	0126	474725
@@ -178,7 +178,7 @@ pb	155	0158	474757
 pb	156	0159	474758
 pb	157	0160	474759
 pb	158	0161	474760
-entry	Paraphimosis		
+entry	Paraphimosis	7	
 pb	159	0162	474761
 pb	160	0163	474762
 pb	161	0164	474763
@@ -186,12 +186,12 @@ pb	162	0165	474764
 pb	163	0166	474765
 pb	164	0167	474766
 pb	165	0168	474767
-entry	Paraplegie		
+entry	Paraplegie	0	
 pb	166	0169	474768
-entry	Pareira brava		
-entry	Parietaire		
+entry	Pareira brava	0	
+entry	Parietaire	1	
 pb	167	0170	474769
-entry	Parotide		
+entry	Parotide	27	
 pb	168	0171	474770
 pb	169	0172	474771
 pb	170	0173	474772
@@ -219,16 +219,16 @@ pb	191	0194	474793
 pb	192	0195	474794
 pb	193	0196	474795
 pb	194	0197	474796
-entry	Parulis		
-entry	Passions		
-entry	Passy		
+entry	Parulis	0	
+entry	Passions	0	
+entry	Passy	2	
 pb	195	0198	474797
 pb	196	0199	474798
-entry	Pastille		
-entry	Pate		
-entry	Pathogenie		
+entry	Pastille	0	
+entry	Pate	0	
+entry	Pathogenie	0	
 pb	197	0200	474799
-entry	Pathologie		
+entry	Pathologie	50	
 pb	198	0201	474800
 pb	199	0202	474801
 pb	200	0203	474802
@@ -279,7 +279,7 @@ pb	244	0247	474846
 pb	245	0248	474847
 pb	246	0249	474848
 pb	247	0250	474849
-entry	Pathologie interne ou médicale		
+entry	Pathologie interne ou médicale	25	
 orth	Pathologie interne		
 orth	médicale		
 pb	248	0251	474850
@@ -308,7 +308,7 @@ pb	270	0273	474872
 pb	271	0274	474873
 pb	272	0275	474874
 pb	273	0276	474875
-entry	Paupières		
+entry	Paupières	50	
 pb	274	0277	474876
 pb	275	0278	474877
 pb	276	0279	474878
@@ -359,10 +359,10 @@ pb	320	0323	474922
 pb	321	0324	474923
 pb	322	0325	474924
 pb	323	0326	474925
-entry	Pavot		
+entry	Pavot	2	
 pb	324	0327	474926
 pb	325	0328	474927
-entry	Peau		
+entry	Peau	43	
 pb	326	0329	474928
 pb	327	0330	474929
 pb	328	0331	474930
@@ -406,12 +406,12 @@ pb	365	0368	474967
 pb	366	0369	474968
 pb	367	0370	474969
 pb	368	0371	474970
-entry	Pecher		
+entry	Pecher	1	
 pb	369	0372	474971
-entry	Pectoral		
-entry	Pediluve		
+entry	Pectoral	0	
+entry	Pediluve	1	
 pb	370	0373	474972
-entry	Pellagre		
+entry	Pellagre	10	
 pb	371	0374	474973
 pb	372	0375	474974
 pb	373	0376	474975
@@ -422,7 +422,7 @@ pb	377	0380	474979
 pb	378	0381	474980
 pb	379	0382	474981
 pb	380	0383	474982
-entry	Pelvimètre, Pelvimètrie		
+entry	Pelvimètre, Pelvimètrie	14	
 orth	Pelvimètre		
 orth	Pelvimètrie		
 pb	381	0384	474983
@@ -439,7 +439,7 @@ pb	391	0394	474993
 pb	392	0395	474994
 pb	393	0396	474995
 pb	394	0397	474996
-entry	Pemphigus		
+entry	Pemphigus	10	
 pb	395	0398	474997
 pb	396	0399	474998
 pb	397	0400	474999
@@ -450,7 +450,7 @@ pb	401	0404	475003
 pb	402	0405	475004
 pb	403	0406	475005
 pb	404	0407	475006
-entry	Pénis		
+entry	Pénis	44	
 pb	405	0408	475007
 pb	406	0409	475008
 pb	407	0410	475009
@@ -495,9 +495,9 @@ pb	445	0448	475047
 pb	446	0449	475048
 pb	447	0450	475049
 pb	448	0451	475050
-entry	Pensee sauvage		
+entry	Pensee sauvage	1	
 pb	449	0452	475051
-entry	Percussion		
+entry	Percussion	16	
 pb	450	0453	475052
 pb	451	0454	475053
 pb	452	0455	475054
@@ -514,7 +514,7 @@ pb	462	0465	475064
 pb	463	0466	475065
 pb	464	0467	475066
 pb	465	0468	475067
-entry	Pericarde		
+entry	Pericarde	25	
 pb	466	0469	475068
 pb	467	0470	475069
 pb	468	0471	475070
@@ -540,7 +540,7 @@ pb	487	0490	475089
 pb	488	0491	475090
 pb	489	0492	475091
 pb	490	0493	475092
-entry	Périnée		
+entry	Périnée	42	
 pb	491	0494	475093
 pb	492	0495	475094
 pb	493	0496	475095
@@ -583,7 +583,7 @@ pb	529	0532	475131
 pb	530	0533	475132
 pb	531	0534	475133
 pb	532	0535	475134
-entry	Perioste		
+entry	Perioste	16	
 pb	533	0536	475135
 pb	534	0537	475136
 pb	535	0538	475137
@@ -600,8 +600,8 @@ pb	545	0548	475147
 pb	546	0549	475148
 pb	547	0550	475149
 pb	548	0551	475150
-entry	Peripneumonie		
-entry	Peritoine		
+entry	Peripneumonie	0	
+entry	Peritoine	56	
 pb	549	0552	475151
 pb	550	0553	475152
 pb	551	0554	475153
@@ -659,7 +659,7 @@ pb	602	0605	475204
 pb	603	0606	475205
 pb	604	0607	475206
 pb	[s. pag.]	0608	475207
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0609	475208
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	608	0610	475209

@@ -1,9 +1,9 @@
 pb	[s. pag.]	0001	7298257
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	1	0002	7298258
-entry	Lettre L		
-entry	Labyrinthe		
-entry	Lacrymales		
+entry	Lettre L	0	
+entry	Labyrinthe	0	
+entry	Lacrymales	54	
 pb	2	0003	7298259
 pb	3	0004	7298260
 pb	4	0005	7298261
@@ -58,13 +58,13 @@ pb	52	0053	7298309
 pb	53	0054	7298310
 pb	54	0055	7298311
 pb	55	0056	7298312
-entry	Lactique		
+entry	Lactique	3	
 pb	56	0057	7298313
 pb	57	0058	7298314
 pb	58	0059	7298315
-entry	Lactucarium		
-entry	Lagophthalmie		
-entry	Lait		
+entry	Lactucarium	0	
+entry	Lagophthalmie	0	
+entry	Lait	45	
 pb	59	0060	7298316
 pb	60	0061	7298317
 pb	61	0062	7298318
@@ -110,18 +110,18 @@ pb	100	0101	7298357
 pb	101	0102	7298358
 pb	102	0103	7298359
 pb	103	0104	7298360
-entry	Laitue		
+entry	Laitue	2	
 pb	104	0105	7298361
 pb	105	0106	7298362
-entry	La malou		
+entry	La malou	5	
 pb	106	0107	7298363
 pb	107	0108	7298364
 pb	108	0109	7298365
 pb	109	0110	7298366
 pb	110	0111	7298367
-entry	Lancette		
+entry	Lancette	1	
 pb	111	0112	7298368
-entry	Langue		
+entry	Langue	107	
 pb	112	0113	7298369
 pb	113	0114	7298370
 pb	114	0115	7298371
@@ -229,14 +229,14 @@ pb	215	0216	7298472
 pb	216	0217	7298473
 pb	217	0218	7298474
 pb	218	0219	7298475
-entry	Larmes		
-entry	Larmoiement		
-entry	Larvée		
-entry	Laryngite		
-entry	Laryngoscope		
-entry	Laryngoscopie		
-entry	Laryngotomie		
-entry	Larynx		
+entry	Larmes	0	
+entry	Larmoiement	0	
+entry	Larvée	0	
+entry	Laryngite	0	
+entry	Laryngoscope	0	
+entry	Laryngoscopie	0	
+entry	Laryngotomie	0	
+entry	Larynx	104	
 pb	219	0220	7298476
 pb	220	0221	7298477
 pb	221	0222	7298478
@@ -341,14 +341,14 @@ pb	319	0320	7298576
 pb	320	0321	7298577
 pb	321	0322	7298578
 pb	322	0323	7298579
-entry	Laudanum		
-entry	Laurier-cerise		
+entry	Laudanum	0	
+entry	Laurier-cerise	2	
 pb	323	0324	7298580
 pb	324	0325	7298581
-entry	Lavande		
+entry	Lavande	2	
 pb	325	0326	7298582
 pb	326	0327	7298583
-entry	Lavement		
+entry	Lavement	10	
 pb	327	0328	7298584
 pb	328	0329	7298585
 pb	329	0330	7298586
@@ -359,15 +359,15 @@ pb	333	0334	7298590
 pb	334	0335	7298591
 pb	335	0336	7298592
 pb	336	0337	7298593
-entry	Lavey		
+entry	Lavey	2	
 pb	337	0338	7298594
 pb	338	0339	7298595
-entry	Laxatif		
-entry	Lazaret		
-entry	Lentigo		
+entry	Laxatif	0	
+entry	Lazaret	0	
+entry	Lentigo	2	
 pb	339	0340	7298596
 pb	340	0341	7298597
-entry	Lèpre		
+entry	Lèpre	60	
 pb	341	0342	7298598
 pb	342	0343	7298599
 pb	343	0344	7298600
@@ -428,8 +428,8 @@ pb	397	0398	7298654
 pb	398	0399	7298655
 pb	399	0400	7298656
 pb	400	0401	7298657
-entry	Léthargie		
-entry	Leucocythémie		
+entry	Léthargie	0	
+entry	Leucocythémie	95	
 pb	401	0402	7298658
 pb	402	0403	7298659
 pb	403	0404	7298660
@@ -525,9 +525,9 @@ pb	492	0493	7298749
 pb	493	0494	7298750
 pb	494	0495	7298751
 pb	495	0496	7298752
-entry	Leuccythose		
-entry	Leucoma		
-entry	Leucorrhée		
+entry	Leuccythose	0	
+entry	Leucoma	0	
+entry	Leucorrhée	23	
 pb	496	0497	7298753
 pb	497	0498	7298754
 pb	498	0499	7298755
@@ -551,11 +551,11 @@ pb	515	0516	7298772
 pb	516	0517	7298773
 pb	517	0518	7298774
 pb	518	0519	7298775
-entry	Levier		
+entry	Levier	3	
 pb	519	0520	7298776
 pb	520	0521	7298777
 pb	521	0522	7298778
-entry	Lèvres		
+entry	Lèvres	16	
 pb	522	0523	7298779
 pb	523	0524	7298780
 pb	524	0525	7298781
@@ -572,7 +572,7 @@ pb	534	0535	7298791
 pb	535	0536	7298792
 pb	536	0537	7298793
 pb	537	0538	7298794
-entry	Lichen		
+entry	Lichen	19	
 pb	538	0539	7298795
 pb	539	0540	7298796
 pb	540	0541	7298797
@@ -592,11 +592,11 @@ pb	553	0554	7298810
 pb	554	0555	7298811
 pb	555	0556	7298812
 pb	556	0557	7298813
-entry	Lientérie		
-entry	Lierre terrestre		
+entry	Lientérie	0	
+entry	Lierre terrestre	2	
 pb	557	0558	7298814
 pb	558	0559	7298815
-entry	Ligature		
+entry	Ligature	47	
 pb	559	0560	7298816
 pb	560	0561	7298817
 pb	561	0562	7298818
@@ -644,23 +644,23 @@ pb	602	0603	7298859
 pb	603	0604	7298860
 pb	604	0605	7298861
 pb	605	0606	7298862
-entry	Limaçon		
+entry	Limaçon	2	
 pb	606	0607	7298863
 pb	607	0608	7298864
-entry	Limon		
+entry	Limon	1	
 pb	608	0609	7298865
-entry	Limonades		
+entry	Limonades	3	
 pb	609	0610	7298866
 pb	610	0611	7298867
 pb	611	0612	7298868
-entry	Lin		
+entry	Lin	2	
 pb	612	0613	7298869
 pb	613	0614	7298870
-entry	Liniments		
+entry	Liniments	3	
 pb	614	0615	7298871
 pb	615	0616	7298872
 pb	616	0617	7298873
-entry	Lipome		
+entry	Lipome	7	
 pb	617	0618	7298874
 pb	618	0619	7298875
 pb	619	0620	7298876
@@ -668,8 +668,8 @@ pb	620	0621	7298877
 pb	621	0622	7298878
 pb	622	0623	7298879
 pb	623	0624	7298880
-entry	Lipothymie		
-entry	Lit		
+entry	Lipothymie	0	
+entry	Lit	29	
 pb	624	0625	7298881
 pb	625	0626	7298882
 pb	626	0627	7298883
@@ -699,9 +699,9 @@ pb	649	0650	7298906
 pb	650	0651	7298907
 pb	651	0652	7298908
 pb	652	0653	7298909
-entry	Litharge		
-entry	Lithiase		
-entry	Lithium, Lithine, Sels de lithine		
+entry	Litharge	0	
+entry	Lithiase	0	
+entry	Lithium, Lithine, Sels de lithine	4	
 orth	Lithium		
 orth	Lithine		
 orth	Sels de lithine		
@@ -709,9 +709,9 @@ pb	653	0654	7298910
 pb	654	0655	7298911
 pb	655	0656	7298912
 pb	656	0657	7298913
-entry	Lithontriptique		
-entry	Lithotomie		
-entry	Lithotritie		
+entry	Lithontriptique	0	
+entry	Lithotomie	0	
+entry	Lithotritie	71	
 pb	657	0658	7298914
 pb	658	0659	7298915
 pb	659	0660	7298916
@@ -783,15 +783,15 @@ pb	724	0725	7298981
 pb	725	0726	7298982
 pb	726	0727	7298983
 pb	727	0728	7298984
-entry	Lobélie		
+entry	Lobélie	6	
 pb	728	0729	7298985
 pb	729	0730	7298986
 pb	730	0731	7298987
 pb	731	0732	7298988
 pb	732	0733	7298989
 pb	733	0734	7298990
-entry	Lochies		
-entry	Loëche ou Louesche		
+entry	Lochies	0	
+entry	Loëche ou Louesche	5	
 orth	Loëche		
 orth	Louesche		
 pb	734	0735	7298991
@@ -799,20 +799,20 @@ pb	735	0736	7298992
 pb	736	0737	7298993
 pb	737	0738	7298994
 pb	738	0739	7298995
-entry	Lombric		
-entry	Loochs ou Eclegmes		
+entry	Lombric	0	
+entry	Loochs ou Eclegmes	2	
 orth	Loochs		
 orth	Eclegmes		
 pb	739	0740	7298996
 pb	740	0741	7298997
-entry	Lotion		
+entry	Lotion	4	
 pb	741	0742	7298998
 pb	742	0743	7298999
 pb	743	0744	7299000
 pb	744	0745	7299001
-entry	Loupe		
-entry	Luette		
-entry	Lumbago		
+entry	Loupe	0	
+entry	Luette	0	
+entry	Lumbago	10	
 pb	745	0746	7299002
 pb	746	0747	7299003
 pb	747	0748	7299004
@@ -823,8 +823,8 @@ pb	751	0752	7299008
 pb	752	0753	7299009
 pb	753	0754	7299010
 pb	754	0755	7299011
-entry	Lumière		
-entry	Lunettes		
+entry	Lumière	0	
+entry	Lunettes	8	
 pb	755	0756	7299012
 pb	756	0757	7299013
 pb	757	0758	7299014
@@ -833,8 +833,8 @@ pb	759	0760	7299016
 pb	760	0761	7299017
 pb	761	0762	7299018
 pb	762	0763	7299019
-entry	Lupus		
-entry	Luxations en général		
+entry	Lupus	0	
+entry	Luxations en général	36	
 pb	763	0764	7299020
 pb	764	0765	7299021
 pb	765	0766	7299022
@@ -871,10 +871,10 @@ pb	795	0796	7299052
 pb	796	0797	7299053
 pb	797	0798	7299054
 pb	798	0799	7299055
-entry	Luxeuil		
+entry	Luxeuil	4	
 pb	799	0800	7299056
 pb	800	0801	7299057
 pb	801	0802	7299058
 pb	802	0803	7299059
 pb	[s. pag.]	0804	7299060
-entry	Table des auteurs		
+entry	Table des auteurs	0	

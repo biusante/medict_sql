@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	634058
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	634059
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0003	634060
-entry	Epitre 		
+entry	Epitre 	0	
 pb	[s. pag.]	0004	634061
 pb	[s. pag.]	0005	634062
-entry	Avertissement au lecteur		
+entry	Avertissement au lecteur	0	
 pb	[s. pag.]	0006	634063
 pb	[s. pag.]	0007	634064
 pb	[s. pag.]	0008	634065
@@ -17,7 +17,7 @@ pb	[s. pag.]	0012	634069
 pb	[s. pag.]	0013	634070
 pb	[s. pag.]	0014	634071
 pb	[s. pag.]	0015	634072
-entry	Discours historique sur l'origine et les progrès de la médecine		
+entry	Discours historique sur l'origine et les progrès de la médecine	0	
 orth	Discours historique sur l'origine		
 orth	les progrès de la médecine		
 pb	ij	0016	634073
@@ -156,38 +156,38 @@ pb	cxxxiv	0148	634205
 pb	cxxxv	0149	634206
 pb	cxxxvj	0150	634207
 pb	[s. pag.]	0151	634208
-entry	Dictionnaire universel de médecine - A ou alpha		
+entry	Dictionnaire universel de médecine - A ou alpha	0	
 orth	Dictionnaire universel de médecine - A		
 orth	alpha		
-entry	A.A.A		
-entry	Aabam		
-entry	Abactus		
-entry	Abacus-major		
-entry	Abada		
+entry	A.A.A	0	
+entry	Aabam	0	
+entry	Abactus	0	
+entry	Abacus-major	0	
+entry	Abada	1	
 pb	3-4	0152	634209
-entry	Abaisir ou spodium		
+entry	Abaisir ou spodium	0	
 orth	Abaisir		
 orth	spodium		
-entry	Abalienatus		
-entry	Abanga		
-entry	Abaptiston ou abaptista		
+entry	Abalienatus	0	
+entry	Abanga	0	
+entry	Abaptiston ou abaptista	0	
 orth	Abaptiston		
 orth	abaptista		
-entry	Abaremo-temo		
-entry	Abaris		
-entry	Abarnahas		
-entry	Abartamen		
-entry	Abarticulatio		
-entry	Abas		
-entry	Abavi, abavo ou abavum		
+entry	Abaremo-temo	0	
+entry	Abaris	0	
+entry	Abarnahas	0	
+entry	Abartamen	0	
+entry	Abarticulatio	0	
+entry	Abas	0	
+entry	Abavi, abavo ou abavum	0	
 orth	Abavi		
 orth	abavo		
 orth	abavum		
-entry	Abbreviatio		
-entry	Abdelavi		
-entry	Abditus		
-entry	Abditae causae		
-entry	Abdomen		
+entry	Abbreviatio	0	
+entry	Abdelavi	0	
+entry	Abditus	0	
+entry	Abditae causae	0	
+entry	Abdomen	17	
 pb	5-6	0153	634210
 pb	7-8	0154	634211
 pb	9-10	0155	634212
@@ -205,37 +205,37 @@ pb	31-32	0166	634223
 pb	33-34	0167	634224
 pb	35-36	0168	634225
 pb	37-38	0169	634226
-entry	Abebaeos		
-entry	Abele		
-entry	Abelicea		
-entry	Abelmeluch		
-entry	Abelmosch		
-entry	Abesamum		
-entry	Abessi ou rebis		
+entry	Abebaeos	0	
+entry	Abele	0	
+entry	Abelicea	0	
+entry	Abelmeluch	0	
+entry	Abelmosch	0	
+entry	Abesamum	0	
+entry	Abessi ou rebis	0	
 orth	Abessi		
 orth	rebis		
-entry	Abesum		
-entry	Abevacuatio		
-entry	Abhal		
-entry	Abicum ou coopertorium		
+entry	Abesum	0	
+entry	Abevacuatio	0	
+entry	Abhal	0	
+entry	Abicum ou coopertorium	0	
 orth	Abicum		
 orth	coopertorium		
-entry	Abies		
+entry	Abies	1	
 pb	39-40	0170	634227
-entry	Abiga		
-entry	Abit ou aboit		
+entry	Abiga	0	
+entry	Abit ou aboit	0	
 orth	Abit		
 orth	aboit		
-entry	Ablactatio		
+entry	Ablactatio	1	
 pb	41-42	0171	634228
-entry	Ablatio		
-entry	Abluentia medicamenta		
-entry	Abluiren		
-entry	Ablutio		
-entry	Aboit		
-entry	Abomasum		
-entry	Abominatio		
-entry	Abortus ou aborsus		
+entry	Ablatio	0	
+entry	Abluentia medicamenta	0	
+entry	Abluiren	0	
+entry	Ablutio	0	
+entry	Aboit	0	
+entry	Abomasum	0	
+entry	Abominatio	0	
+entry	Abortus ou aborsus	31	
 orth	Abortus		
 orth	aborsus		
 pb	43-44	0172	634229
@@ -269,29 +269,29 @@ pb	97-98	0199	634256
 pb	99-100	0200	634257
 pb	101-102	0201	634258
 pb	103-104	0202	634259
-entry	Abrabax ou abraxas		
+entry	Abrabax ou abraxas	0	
 orth	Abrabax		
 orth	abraxas		
-entry	Abracadabra		
-entry	Abracalan		
-entry	Abraham		
-entry	Abrasa		
-entry	Abrasaxas		
+entry	Abracadabra	0	
+entry	Abracalan	0	
+entry	Abraham	0	
+entry	Abrasa	0	
+entry	Abrasaxas	0	
 pb	105-106	0203	634260
-entry	Abrasio		
-entry	Abrasum		
-entry	Abrathan, ou abrotanum		
+entry	Abrasio	0	
+entry	Abrasum	0	
+entry	Abrathan, ou abrotanum	0	
 orth	Abrathan		
 orth	abrotanum		
-entry	Abric		
-entry	Abrotanoides		
-entry	Abrotanum		
+entry	Abric	0	
+entry	Abrotanoides	0	
+entry	Abrotanum	1	
 pb	107-108	0204	634261
-entry	Abrotonites		
-entry	Abruptio		
-entry	Abrus		
-entry	Abscedentia		
-entry	Abscessus		
+entry	Abrotonites	0	
+entry	Abruptio	0	
+entry	Abrus	1	
+entry	Abscedentia	0	
+entry	Abscessus	28	
 pb	109-110	0205	634262
 pb	111-112	0206	634263
 pb	113-114	0207	634264
@@ -320,136 +320,136 @@ pb	157-158	0229	634286
 pb	159-160	0230	634287
 pb	161-162	0231	634288
 pb	163-164	0232	634289
-entry	Abscissio		
-entry	Absconsio		
-entry	Absinthium		
+entry	Abscissio	0	
+entry	Absconsio	0	
+entry	Absinthium	4	
 pb	165-166	0233	634290
 pb	167-168	0234	634291
 pb	169-170	0235	634292
 pb	171-172	0236	634293
-entry	Abstemius		
-entry	Abstentio		
-entry	Abstergentia		
-entry	Abstinentia		
-entry	Abstractitius		
-entry	Absus		
-entry	Abvacuatio ou abevacuatio		
+entry	Abstemius	0	
+entry	Abstentio	0	
+entry	Abstergentia	0	
+entry	Abstinentia	0	
+entry	Abstractitius	0	
+entry	Absus	0	
+entry	Abvacuatio ou abevacuatio	0	
 orth	Abvacuatio		
 orth	abevacuatio		
-entry	Abundantia		
-entry	Abusus		
-entry	Abutige		
-entry	Abutilon		
+entry	Abundantia	0	
+entry	Abusus	0	
+entry	Abutige	0	
+entry	Abutilon	1	
 pb	173-174	0237	634294
-entry	Abyssus		
-entry	Acacalis		
-entry	Acacia		
+entry	Abyssus	0	
+entry	Acacalis	0	
+entry	Acacia	1	
 pb	175-176	0238	634295
-entry	Acacia germanica		
-entry	Acacia ferrea		
-entry	Acacos		
-entry	Academia		
-entry	Acaeria		
-entry	Acahi ou achahi		
+entry	Acacia germanica	0	
+entry	Acacia ferrea	0	
+entry	Acacos	0	
+entry	Academia	0	
+entry	Acaeria	0	
+entry	Acahi ou achahi	0	
 orth	Acahi		
 orth	achahi		
-entry	Acaid		
-entry	Acaja		
-entry	Acajaiba		
+entry	Acaid	0	
+entry	Acaja	0	
+entry	Acajaiba	1	
 pb	177-178	0239	634296
-entry	Acajouanum lignum		
-entry	Acairos		
-entry	Acalai		
-entry	Acalcum		
-entry	Acalephe		
-entry	Acamatos		
-entry	Acamech ou acemech		
+entry	Acajouanum lignum	0	
+entry	Acairos	0	
+entry	Acalai	0	
+entry	Acalcum	0	
+entry	Acalephe	0	
+entry	Acamatos	0	
+entry	Acamech ou acemech	0	
 orth	Acamech		
 orth	acemech		
-entry	Acanor		
-entry	Acantha		
-entry	Acanthabolus		
+entry	Acanor	0	
+entry	Acantha	0	
+entry	Acanthabolus	1	
 pb	179-180	0240	634297
-entry	Acanthaceous		
-entry	Acanthalzuca		
-entry	Acanthice		
-entry	Acanthium		
-entry	Acanthion		
-entry	Acanthus		
+entry	Acanthaceous	0	
+entry	Acanthalzuca	0	
+entry	Acanthice	0	
+entry	Acanthium	0	
+entry	Acanthion	0	
+entry	Acanthus	6	
 pb	181-182	0241	634298
 pb	183-184	0242	634299
 pb	185-186	0243	634300
 pb	187-188	0244	634301
 pb	189-190	0245	634302
 pb	191-192	0246	634303
-entry	Acanus		
-entry	Acapnon		
-entry	Acardios		
-entry	Acari ou acarus		
+entry	Acanus	0	
+entry	Acapnon	0	
+entry	Acardios	0	
+entry	Acari ou acarus	0	
 orth	Acari		
 orth	acarus		
-entry	Acaricoba		
-entry	Acarna		
-entry	Acarnan		
-entry	Acaron		
-entry	Acartum		
-entry	Acarus		
-entry	Acatalepsia		
-entry	Acatalis		
-entry	Acatastatos		
-entry	Acatera		
-entry	Acatharsia		
-entry	Acato ou araxos		
+entry	Acaricoba	0	
+entry	Acarna	0	
+entry	Acarnan	0	
+entry	Acaron	0	
+entry	Acartum	0	
+entry	Acarus	0	
+entry	Acatalepsia	0	
+entry	Acatalis	0	
+entry	Acatastatos	0	
+entry	Acatera	0	
+entry	Acatharsia	0	
+entry	Acato ou araxos	0	
 orth	Acato		
 orth	araxos		
-entry	Acaulis		
-entry	Acaulos		
-entry	Acazdir		
-entry	Accatem		
-entry	Accatum		
-entry	Acceleratores urinae		
-entry	Accessio		
-entry	Accessorius		
+entry	Acaulis	0	
+entry	Acaulos	0	
+entry	Acazdir	0	
+entry	Accatem	0	
+entry	Accatum	0	
+entry	Acceleratores urinae	0	
+entry	Accessio	0	
+entry	Accessorius	1	
 pb	193-194	0247	634304
-entry	Accessus		
-entry	Accib		
-entry	Accidens		
-entry	Accipiter		
-entry	Accipitrina ou praedatrix		
+entry	Accessus	0	
+entry	Accib	0	
+entry	Accidens	0	
+entry	Accipiter	0	
+entry	Accipitrina ou praedatrix	0	
 orth	Accipitrina		
 orth	praedatrix		
-entry	Accretio		
-entry	Accurtatoria		
-entry	Accusatio		
-entry	Acedia		
-entry	Acephalos		
-entry	Acer		
+entry	Accretio	0	
+entry	Accurtatoria	0	
+entry	Accusatio	0	
+entry	Acedia	0	
+entry	Acephalos	0	
+entry	Acer	1	
 pb	195-196	0248	634305
-entry	Aceratos		
-entry	Acerbus		
-entry	Acerides		
-entry	Acerosus		
-entry	Acescentia		
-entry	Acesias		
-entry	Acesis		
-entry	Acesius		
-entry	Aceso		
-entry	Acesta		
-entry	Acestides		
-entry	Acestis		
-entry	Acestoris		
-entry	Acestra		
-entry	Acestrides		
-entry	Acetabulum		
+entry	Aceratos	0	
+entry	Acerbus	0	
+entry	Acerides	0	
+entry	Acerosus	0	
+entry	Acescentia	0	
+entry	Acesias	0	
+entry	Acesis	0	
+entry	Acesius	0	
+entry	Aceso	0	
+entry	Acesta	0	
+entry	Acestides	0	
+entry	Acestis	0	
+entry	Acestoris	0	
+entry	Acestra	0	
+entry	Acestrides	0	
+entry	Acetabulum	1	
 pb	197-198	0249	634306
-entry	Acetaria		
-entry	Acetarium scorbuticum		
-entry	Acetosa		
+entry	Acetaria	0	
+entry	Acetarium scorbuticum	0	
+entry	Acetosa	1	
 pb	199-200	0250	634307
-entry	Acetosa esurina		
-entry	Acetosella		
+entry	Acetosa esurina	0	
+entry	Acetosella	1	
 pb	201-202	0251	634308
-entry	Acetum		
+entry	Acetum	12	
 pb	203-204	0252	634309
 pb	205-206	0253	634310
 pb	207-208	0254	634311
@@ -462,52 +462,52 @@ pb	219-220	0260	634317
 pb	221-222	0261	634318
 pb	223-224	0262	634319
 pb	225-226	0263	634320
-entry	Acetum radicatum		
-entry	Achahi		
-entry	Achamelech		
-entry	Achanaca		
-entry	Achaovan ou achaova		
+entry	Acetum radicatum	0	
+entry	Achahi	0	
+entry	Achamelech	0	
+entry	Achanaca	0	
+entry	Achaovan ou achaova	0	
 orth	Achaovan		
 orth	achaova		
-entry	Achariston		
+entry	Achariston	1	
 pb	227-228	0264	634321
-entry	Achates		
-entry	Acheir		
-entry	Achemenis		
-entry	Achicolum		
-entry	Achillea		
-entry	Achillea montana		
-entry	Achilleion		
-entry	Achilleios		
-entry	Achilleis		
-entry	Achilles		
-entry	Achillis		
-entry	Achimbassi		
-entry	Achiotl		
+entry	Achates	0	
+entry	Acheir	0	
+entry	Achemenis	0	
+entry	Achicolum	0	
+entry	Achillea	0	
+entry	Achillea montana	0	
+entry	Achilleion	0	
+entry	Achilleios	0	
+entry	Achilleis	0	
+entry	Achilles	0	
+entry	Achillis	0	
+entry	Achimbassi	0	
+entry	Achiotl	1	
 pb	229-230	0265	634322
-entry	Achiote		
-entry	Achlades		
-entry	Achlys		
+entry	Achiote	0	
+entry	Achlades	0	
+entry	Achlys	1	
 pb	231-232	0266	634323
-entry	Achmadium ou achimadium		
+entry	Achmadium ou achimadium	0	
 orth	Achmadium		
 orth	achimadium		
-entry	Achne		
-entry	Achor		
+entry	Achne	0	
+entry	Achor	1	
 pb	233-234	0267	634324
-entry	Achoristos		
-entry	Achourou		
-entry	Achras		
-entry	Achreion		
-entry	Achroi		
+entry	Achoristos	0	
+entry	Achourou	0	
+entry	Achras	0	
+entry	Achreion	0	
+entry	Achroi	1	
 pb	235-236	0268	634325
-entry	Achromos		
-entry	Achrous		
-entry	Achy		
-entry	Achyron		
-entry	Acia		
-entry	Acicys		
-entry	Acida		
+entry	Achromos	0	
+entry	Achrous	0	
+entry	Achy	0	
+entry	Achyron	0	
+entry	Acia	0	
+entry	Acicys	0	
+entry	Acida	47	
 pb	237-238	0269	634326
 pb	239-240	0270	634327
 pb	241-242	0271	634328
@@ -555,177 +555,177 @@ pb	323-324	0312	634369
 pb	325-326	0313	634370
 pb	327-328	0314	634371
 pb	329-330	0315	634372
-entry	Acies		
-entry	Acinesia		
-entry	Aciniformis, ou acinosa tunica		
+entry	Acies	0	
+entry	Acinesia	0	
+entry	Aciniformis, ou acinosa tunica	0	
 orth	Aciniformis		
 orth	acinosa tunica		
-entry	Acinos		
-entry	Acinus		
-entry	Acmasticos		
-entry	Acme		
+entry	Acinos	0	
+entry	Acinus	0	
+entry	Acmasticos	0	
+entry	Acme	1	
 pb	331-332	0316	634373
-entry	Acmella		
-entry	Acmo		
-entry	Acne		
-entry	Acnestis		
-entry	Aco		
-entry	Acoe		
-entry	Acoelios		
-entry	Acoitus		
-entry	Acolastos		
-entry	Acon		
-entry	Acone		
+entry	Acmella	0	
+entry	Acmo	0	
+entry	Acne	0	
+entry	Acnestis	0	
+entry	Aco	0	
+entry	Acoe	0	
+entry	Acoelios	0	
+entry	Acoitus	0	
+entry	Acolastos	0	
+entry	Acon	0	
+entry	Acone	1	
 pb	333-334	0317	634374
-entry	Aconion		
-entry	Aconitifolia		
-entry	Aconiton		
-entry	Aconitum		
+entry	Aconion	0	
+entry	Aconitifolia	0	
+entry	Aconiton	0	
+entry	Aconitum	0	
 pb	335-336	0318	634375
-entry	Acontias		
-entry	Acopis		
-entry	Acopon		
-entry	Acopa		
-entry	Acopos		
-entry	Acor		
-entry	Acordina		
-entry	Acoria		
-entry	Acorites vinum		
-entry	Acorna		
-entry	Acortinus		
-entry	Acorus		
+entry	Acontias	0	
+entry	Acopis	0	
+entry	Acopon	0	
+entry	Acopa	0	
+entry	Acopos	0	
+entry	Acor	0	
+entry	Acordina	0	
+entry	Acoria	0	
+entry	Acorites vinum	0	
+entry	Acorna	0	
+entry	Acortinus	0	
+entry	Acorus	2	
 pb	337-338	0319	634376
 pb	339-340	0320	634377
-entry	Acos		
-entry	Acosmia		
-entry	Acousa		
-entry	Acousia		
-entry	Acoustica		
-entry	Acrai		
-entry	Acraipala		
-entry	Acralea		
-entry	Acras		
-entry	Acrasia		
+entry	Acos	0	
+entry	Acosmia	0	
+entry	Acousa	0	
+entry	Acousia	0	
+entry	Acoustica	0	
+entry	Acrai	0	
+entry	Acraipala	0	
+entry	Acralea	0	
+entry	Acras	0	
+entry	Acrasia	1	
 pb	341-342	0321	634378
-entry	Acratia		
-entry	Acratisma		
-entry	Acratomeli		
-entry	Acratos		
-entry	Acre		
-entry	Acrea		
-entry	Acresperon		
-entry	Acretoposia		
-entry	Acribes		
+entry	Acratia	0	
+entry	Acratisma	0	
+entry	Acratomeli	0	
+entry	Acratos	0	
+entry	Acre	0	
+entry	Acrea	0	
+entry	Acresperon	0	
+entry	Acretoposia	0	
+entry	Acribes	1	
 pb	343-344	0322	634379
-entry	Acrimonia		
-entry	Acrifolium		
-entry	Acris		
-entry	Acrisia		
-entry	Acriton		
-entry	Acriviola		
-entry	Acroasis		
-entry	Acrobystia		
-entry	Acrocheiria		
-entry	Acrocheiris		
-entry	Acrochliaron		
-entry	Acrocholia		
-entry	Acrochordon		
-entry	Acrochorismus		
-entry	Acrocolia		
-entry	Acrodrya		
-entry	Acrolenion		
-entry	Acromion		
+entry	Acrimonia	0	
+entry	Acrifolium	0	
+entry	Acris	0	
+entry	Acrisia	0	
+entry	Acriton	0	
+entry	Acriviola	0	
+entry	Acroasis	0	
+entry	Acrobystia	0	
+entry	Acrocheiria	0	
+entry	Acrocheiris	0	
+entry	Acrochliaron	0	
+entry	Acrocholia	0	
+entry	Acrochordon	0	
+entry	Acrochorismus	0	
+entry	Acrocolia	0	
+entry	Acrodrya	0	
+entry	Acrolenion	0	
+entry	Acromion	1	
 pb	345-346	0323	634380
-entry	Acromphalion		
-entry	Acron		
-entry	Acropathos		
-entry	Acropis		
-entry	Acroploa		
-entry	Acroposthia		
-entry	Acropsilon		
-entry	Acros		
-entry	Acrosapes		
-entry	Acrospelos		
-entry	Acroteria		
+entry	Acromphalion	0	
+entry	Acron	0	
+entry	Acropathos	0	
+entry	Acropis	0	
+entry	Acroploa	0	
+entry	Acroposthia	0	
+entry	Acropsilon	0	
+entry	Acros	0	
+entry	Acrosapes	0	
+entry	Acrospelos	0	
+entry	Acroteria	1	
 pb	347-348	0324	634381
-entry	Acroteriasmus		
-entry	Acrothorex		
-entry	Acrothymion		
-entry	Actaea		
-entry	Acte		
-entry	Actin		
-entry	Actine		
-entry	Actinobolismus		
-entry	Actio		
-entry	Activus		
-entry	Acton		
-entry	Actualis		
+entry	Acroteriasmus	0	
+entry	Acrothorex	0	
+entry	Acrothymion	0	
+entry	Actaea	0	
+entry	Acte	0	
+entry	Actin	0	
+entry	Actine	0	
+entry	Actinobolismus	0	
+entry	Actio	0	
+entry	Activus	0	
+entry	Acton	0	
+entry	Actualis	1	
 pb	349-350	0325	634382
-entry	Actuarius		
-entry	Actuatio		
-entry	Acuitas		
-entry	Acuitio		
-entry	Aculel		
-entry	Aculeosa		
-entry	Aculos		
+entry	Actuarius	0	
+entry	Actuatio	0	
+entry	Acuitas	0	
+entry	Acuitio	0	
+entry	Aculel	0	
+entry	Aculeosa	0	
+entry	Aculos	1	
 pb	351-352	0326	634383
-entry	Acumen		
-entry	Acumenus		
-entry	Acupunctura		
-entry	Acureb		
-entry	Acuron ou alisma		
+entry	Acumen	0	
+entry	Acumenus	0	
+entry	Acupunctura	0	
+entry	Acureb	0	
+entry	Acuron ou alisma	0	
 orth	Acuron		
 orth	alisma		
-entry	Acus		
+entry	Acus	1	
 pb	353-354	0327	634384
-entry	Acusticus		
-entry	Acusto		
-entry	Acutenaculum		
-entry	Acutus		
+entry	Acusticus	0	
+entry	Acusto	0	
+entry	Acutenaculum	0	
+entry	Acutus	1	
 pb	355-356	0328	634385
-entry	Adal		
-entry	Adamas		
+entry	Adal	0	
+entry	Adamas	1	
 pb	357-358	0329	634386
-entry	Adamantis		
-entry	Adamitum ou adamita		
+entry	Adamantis	0	
+entry	Adamitum ou adamita	0	
 orth	Adamitum		
 orth	adamita		
-entry	Adamus		
-entry	Adarces		
-entry	Adarnech, ou auripigmentum		
+entry	Adamus	0	
+entry	Adarces	0	
+entry	Adarnech, ou auripigmentum	0	
 orth	Adarnech		
 orth	auripigmentum		
-entry	Adarigo		
-entry	Adarris		
-entry	Adarticulatio, ou arthrodia		
+entry	Adarigo	0	
+entry	Adarris	0	
+entry	Adarticulatio, ou arthrodia	0	
 orth	Adarticulatio		
 orth	arthrodia		
-entry	Adaxoma		
-entry	Addephagia, ou adephagia		
+entry	Adaxoma	0	
+entry	Addephagia, ou adephagia	1	
 orth	Addephagia		
 orth	adephagia		
 pb	359-360	0330	634387
-entry	Additamentum, ou epiphisis		
+entry	Additamentum, ou epiphisis	0	
 orth	Additamentum		
 orth	epiphisis		
-entry	Additio		
-entry	Adductio		
-entry	Adductor		
-entry	Adec		
-entry	Adech		
-entry	Adectos		
-entry	Adedentes		
-entry	Adhemest		
-entry	Adelos		
-entry	Adelphia		
-entry	Adelphixis		
-entry	Ademonia		
-entry	Aden		
-entry	Adenios		
-entry	Adenoidès		
-entry	Adenosus abscessus		
-entry	Adephagia		
-entry	Adeps		
+entry	Additio	0	
+entry	Adductio	0	
+entry	Adductor	0	
+entry	Adec	0	
+entry	Adech	0	
+entry	Adectos	0	
+entry	Adedentes	0	
+entry	Adhemest	0	
+entry	Adelos	0	
+entry	Adelphia	0	
+entry	Adelphixis	0	
+entry	Ademonia	0	
+entry	Aden	0	
+entry	Adenios	0	
+entry	Adenoidès	0	
+entry	Adenosus abscessus	0	
+entry	Adephagia	0	
+entry	Adeps	8	
 pb	361-362	0331	634388
 pb	363-364	0332	634389
 pb	365-366	0333	634390
@@ -734,133 +734,133 @@ pb	369-370	0335	634392
 pb	371-372	0336	634393
 pb	373-374	0337	634394
 pb	375-376	0338	634395
-entry	Adepta philosophia		
-entry	Ader		
-entry	Adhaerentia		
-entry	Adhatoda		
-entry	Adhehe		
-entry	Adho ou adoc		
+entry	Adepta philosophia	0	
+entry	Ader	0	
+entry	Adhaerentia	0	
+entry	Adhatoda	0	
+entry	Adhehe	0	
+entry	Adho ou adoc	0	
 orth	Adho		
 orth	adoc		
-entry	Adiachytos		
-entry	Adiantum		
+entry	Adiachytos	0	
+entry	Adiantum	2	
 pb	377-378	0339	634396
 pb	379-380	0340	634397
-entry	Adiaphoros		
-entry	Adiapneustia		
-entry	Adiaptotos		
-entry	Adiarrhoea		
-entry	Adib		
-entry	Adibat		
-entry	Adibisi ou adibizi		
+entry	Adiaphoros	0	
+entry	Adiapneustia	0	
+entry	Adiaptotos	0	
+entry	Adiarrhoea	0	
+entry	Adib	0	
+entry	Adibat	0	
+entry	Adibisi ou adibizi	0	
 orth	Adibisi		
 orth	adibizi		
-entry	Adidacus		
-entry	Adjectio, ou additio		
+entry	Adidacus	0	
+entry	Adjectio, ou additio	1	
 orth	Adjectio		
 orth	additio		
 pb	381-382	0341	634398
-entry	Adipsatheon		
-entry	Adiposa membrana		
-entry	Adipson		
-entry	Adipsos		
-entry	Adirige		
-entry	Adjutorium		
-entry	Adjuvantia		
-entry	Adiylistos		
-entry	Admirabilis		
-entry	Admisurab		
-entry	Adnata tunica		
-entry	Adnata ou adnascentia		
+entry	Adipsatheon	0	
+entry	Adiposa membrana	0	
+entry	Adipson	0	
+entry	Adipsos	0	
+entry	Adirige	0	
+entry	Adjutorium	0	
+entry	Adjuvantia	0	
+entry	Adiylistos	0	
+entry	Admirabilis	0	
+entry	Admisurab	0	
+entry	Adnata tunica	0	
+entry	Adnata ou adnascentia	1	
 orth	Adnata		
 orth	adnascentia		
 pb	383-384	0342	634399
-entry	Adoc		
-entry	Adolescens		
-entry	Adonion		
-entry	Adonis flos		
-entry	Ador		
-entry	Adorat		
-entry	Ados		
-entry	Adplumbatum		
-entry	Adra riza		
-entry	Adrachne		
-entry	Adram		
-entry	Adraragi		
-entry	Adrianus		
+entry	Adoc	0	
+entry	Adolescens	0	
+entry	Adonion	0	
+entry	Adonis flos	0	
+entry	Ador	0	
+entry	Adorat	0	
+entry	Ados	0	
+entry	Adplumbatum	0	
+entry	Adra riza	0	
+entry	Adrachne	0	
+entry	Adram	0	
+entry	Adraragi	0	
+entry	Adrianus	1	
 pb	385-386	0343	634400
-entry	Adrop		
-entry	Adrobolon		
-entry	Adros		
-entry	Adsamar		
-entry	Adsellare		
-entry	Adstrictio		
-entry	Adstringens		
-entry	Adulteratio		
-entry	Adulterium		
-entry	Adustio		
-entry	Ady		
+entry	Adrop	0	
+entry	Adrobolon	0	
+entry	Adros	0	
+entry	Adsamar	0	
+entry	Adsellare	0	
+entry	Adstrictio	0	
+entry	Adstringens	0	
+entry	Adulteratio	0	
+entry	Adulterium	0	
+entry	Adustio	0	
+entry	Ady	1	
 pb	387-388	0344	634401
-entry	Adynamia		
-entry	Adynamon		
-entry	Adynatos		
-entry	Aeazo		
-entry	Aedeia		
-entry	Aedes		
-entry	Aegagropila		
-entry	Aegeirinon		
-entry	Aegeiros		
-entry	Aegides		
+entry	Adynamia	0	
+entry	Adynamon	0	
+entry	Adynatos	0	
+entry	Aeazo	0	
+entry	Aedeia	0	
+entry	Aedes	0	
+entry	Aegagropila	0	
+entry	Aegeirinon	0	
+entry	Aegeiros	0	
+entry	Aegides	1	
 pb	389-390	0345	634402
-entry	Aegidion		
-entry	Aegilops		
+entry	Aegidion	0	
+entry	Aegilops	2	
 pb	391-392	0346	634403
 pb	393-394	0347	634404
-entry	Aegimus		
+entry	Aegimus	1	
 pb	395-396	0348	634405
-entry	Aegineta		
-entry	Aegle		
-entry	Aeglia		
-entry	Aegoceras		
-entry	Aegolethron		
+entry	Aegineta	0	
+entry	Aegle	0	
+entry	Aeglia	0	
+entry	Aegoceras	0	
+entry	Aegolethron	1	
 pb	397-398	0349	634406
-entry	Aegonychon		
-entry	Aegoprosopon ou aegidion		
+entry	Aegonychon	0	
+entry	Aegoprosopon ou aegidion	0	
 orth	Aegoprosopon		
 orth	aegidion		
-entry	Aegyptiacum unguentum		
+entry	Aegyptiacum unguentum	1	
 pb	399-400	0350	634407
-entry	Aegyption		
+entry	Aegyption	1	
 pb	401-402	0351	634408
-entry	Aegyptia aluta		
-entry	Aegyptia antidotus		
-entry	Aegyptia ulcera		
-entry	Aegyptium andromachi emplastrum		
-entry	Aegyptium croceum unguentum		
-entry	Aegyptium linum		
-entry	Aegyptium medicamentum ad aures		
+entry	Aegyptia aluta	0	
+entry	Aegyptia antidotus	0	
+entry	Aegyptia ulcera	0	
+entry	Aegyptium andromachi emplastrum	0	
+entry	Aegyptium croceum unguentum	0	
+entry	Aegyptium linum	0	
+entry	Aegyptium medicamentum ad aures	1	
 pb	403-404	0352	634409
-entry	Aegyptius pessus		
-entry	Aeichryson		
-entry	Aeigluces		
-entry	Aeipatheia		
-entry	Aeithales		
-entry	Aeizoon		
-entry	Aelianus meccius		
-entry	Aelius promotus		
-entry	Aemilius Macer		
-entry	Aeolipylae		
-entry	Aeon		
-entry	Aeonion		
-entry	Aeonesis		
-entry	Aeora		
+entry	Aegyptius pessus	0	
+entry	Aeichryson	0	
+entry	Aeigluces	0	
+entry	Aeipatheia	0	
+entry	Aeithales	0	
+entry	Aeizoon	0	
+entry	Aelianus meccius	0	
+entry	Aelius promotus	0	
+entry	Aemilius Macer	0	
+entry	Aeolipylae	0	
+entry	Aeon	0	
+entry	Aeonion	0	
+entry	Aeonesis	0	
+entry	Aeora	1	
 pb	405-406	0353	634410
-entry	Aepos		
-entry	Aequalis		
-entry	Aequilibrium		
-entry	Aequinoctium		
-entry	Aequipollens		
-entry	Aer		
+entry	Aepos	0	
+entry	Aequalis	0	
+entry	Aequilibrium	0	
+entry	Aequinoctium	0	
+entry	Aequipollens	0	
+entry	Aer	31	
 pb	407-408	0354	634411
 pb	409-410	0355	634412
 pb	411-412	0356	634413
@@ -892,359 +892,359 @@ pb	461-462	0381	634438
 pb	463-464	0382	634439
 pb	465-466	0383	634440
 pb	467-468	0384	634441
-entry	Aera		
-entry	Aerdadi		
-entry	Aereolum		
-entry	Aerificatio		
-entry	Aeritis		
-entry	Aerologice		
-entry	Aeromeli		
-entry	Aerophobos		
-entry	Aerosis		
-entry	Aeruginosus		
-entry	Aerugo		
-entry	Aes		
+entry	Aera	0	
+entry	Aerdadi	0	
+entry	Aereolum	0	
+entry	Aerificatio	0	
+entry	Aeritis	0	
+entry	Aerologice	0	
+entry	Aeromeli	0	
+entry	Aerophobos	0	
+entry	Aerosis	0	
+entry	Aeruginosus	0	
+entry	Aerugo	0	
+entry	Aes	6	
 pb	469-470	0385	634442
 pb	471-472	0386	634443
 pb	473-474	0387	634444
 pb	475-476	0388	634445
 pb	477-478	0389	634446
 pb	479-480	0390	634447
-entry	Aesalo		
-entry	Aeschos		
-entry	Aeschrion		
+entry	Aesalo	0	
+entry	Aeschos	0	
+entry	Aeschrion	1	
 pb	481-482	0391	634448
-entry	Aeschynomenos		
-entry	Aesculapius		
+entry	Aeschynomenos	0	
+entry	Aesculapius	3	
 pb	483-484	0392	634449
 pb	485-486	0393	634450
 pb	487-488	0394	634451
-entry	Aestas		
+entry	Aestas	1	
 pb	489-490	0395	634452
-entry	Aestates		
-entry	Aesthesis		
-entry	Aestphara		
-entry	Aestuarium		
-entry	Aestuatio		
-entry	Aestus		
-entry	Aetas		
+entry	Aestates	0	
+entry	Aesthesis	0	
+entry	Aestphara	0	
+entry	Aestuarium	0	
+entry	Aestuatio	0	
+entry	Aestus	0	
+entry	Aetas	1	
 pb	491-492	0396	634453
 pb	493-494	0397	634454
-entry	Aethale		
-entry	Aether		
+entry	Aethale	0	
+entry	Aether	1	
 pb	495-496	0398	634455
-entry	Aetheria herba		
-entry	Aethes		
-entry	Aethiopicum cummum		
-entry	Aethiopicus lapis		
-entry	Aethiopis		
+entry	Aetheria herba	0	
+entry	Aethes	0	
+entry	Aethiopicum cummum	0	
+entry	Aethiopicus lapis	0	
+entry	Aethiopis	1	
 pb	497-498	0399	634456
-entry	Aethiops mineralis		
-entry	Aethiops antimonialis		
-entry	Aethiops albus		
-entry	Aethna		
-entry	Aetholices		
+entry	Aethiops mineralis	0	
+entry	Aethiops antimonialis	0	
+entry	Aethiops albus	0	
+entry	Aethna	0	
+entry	Aetholices	1	
 pb	499-500	0400	634457
-entry	Aethya		
-entry	Aethyia		
-entry	Aetia		
-entry	Aetiologia		
-entry	Aetites		
-entry	Aetius		
+entry	Aethya	0	
+entry	Aethyia	0	
+entry	Aetia	0	
+entry	Aetiologia	0	
+entry	Aetites	0	
+entry	Aetius	4	
 pb	501-502	0401	634458
 pb	503-504	0402	634459
 pb	505-506	0403	634460
 pb	507-508	0404	634461
-entry	Aetoi phlebes		
-entry	Aetolion		
-entry	Aetoma		
-entry	Aetonychum		
-entry	Affax, affarx ou affaris		
+entry	Aetoi phlebes	0	
+entry	Aetolion	0	
+entry	Aetoma	0	
+entry	Aetonychum	0	
+entry	Affax, affarx ou affaris	0	
 orth	Affax		
 orth	affarx		
 orth	affaris		
-entry	Affectio ou affectus		
+entry	Affectio ou affectus	0	
 orth	Affectio		
 orth	affectus		
-entry	Affenicum		
-entry	Affeos		
-entry	Affidra		
-entry	Affion		
-entry	Afflatus ou adflatus		
+entry	Affenicum	0	
+entry	Affeos	0	
+entry	Affidra	0	
+entry	Affion	0	
+entry	Afflatus ou adflatus	0	
 orth	Afflatus		
 orth	adflatus		
-entry	Afflictio		
+entry	Afflictio	1	
 pb	509-510	0405	634462
-entry	Affodius		
-entry	Afformas		
-entry	Affrengi		
-entry	Affrodina		
-entry	Affronitum		
-entry	Affroton		
-entry	Affusio		
-entry	Afra		
-entry	Afragar		
-entry	Africanus flos		
+entry	Affodius	0	
+entry	Afformas	0	
+entry	Affrengi	0	
+entry	Affrodina	0	
+entry	Affronitum	0	
+entry	Affroton	0	
+entry	Affusio	0	
+entry	Afra	0	
+entry	Afragar	0	
+entry	Africanus flos	0	
 pb	511-512	0406	634463
-entry	Affricanus flos		
-entry	Afrob		
-entry	Aga cretensium		
-entry	Agalactia		
-entry	Agallochum		
+entry	Affricanus flos	0	
+entry	Afrob	0	
+entry	Aga cretensium	0	
+entry	Agalactia	0	
+entry	Agallochum	2	
 pb	513-514	0407	634464
 pb	515-516	0408	634465
-entry	Agaricoides		
-entry	Agape		
-entry	Agaricus		
+entry	Agaricoides	0	
+entry	Agape	0	
+entry	Agaricus	5	
 pb	517-518	0409	634466
 pb	519-520	0410	634467
 pb	521-522	0411	634468
 pb	523-524	0412	634469
 pb	525-526	0413	634470
-entry	Agasyllis		
-entry	Agatharcides		
-entry	Agathinus		
-entry	Agathon		
-entry	Agathonis antidotus hepatica		
+entry	Agasyllis	0	
+entry	Agatharcides	0	
+entry	Agathinus	0	
+entry	Agathon	0	
+entry	Agathonis antidotus hepatica	1	
 pb	527-528	0414	634471
-entry	Agaty, H		
+entry	Agaty, H	0	
 orth	Agaty		
-entry	Agelaeos		
-entry	Agem		
-entry	Ager chymicus		
-entry	Agerasia		
-entry	Ageratum		
+entry	Agelaeos	0	
+entry	Agem	0	
+entry	Ager chymicus	0	
+entry	Agerasia	0	
+entry	Ageratum	1	
 pb	529-530	0415	634472
-entry	Ageratus lapis		
-entry	Ages		
-entry	Age vita		
-entry	Ageustia		
-entry	Agglutinatio		
-entry	Agglutinatio pilorum		
-entry	Aggregatum		
-entry	Agiahalid		
-entry	Agitatio		
-entry	Aglia		
-entry	Aglithes		
-entry	Agme		
-entry	Agnacat		
+entry	Ageratus lapis	0	
+entry	Ages	0	
+entry	Age vita	0	
+entry	Ageustia	0	
+entry	Agglutinatio	0	
+entry	Agglutinatio pilorum	0	
+entry	Aggregatum	0	
+entry	Agiahalid	0	
+entry	Agitatio	0	
+entry	Aglia	0	
+entry	Aglithes	0	
+entry	Agme	0	
+entry	Agnacat	1	
 pb	531-532	0416	634473
-entry	Agnanthus		
-entry	Agnata		
-entry	Agnina membrana ou pellicula		
+entry	Agnanthus	0	
+entry	Agnata	0	
+entry	Agnina membrana ou pellicula	0	
 orth	Agnina membrana		
 orth	pellicula		
-entry	Agnina lactuca		
-entry	Agnoia		
-entry	Agnus		
-entry	Agnus castus		
+entry	Agnina lactuca	0	
+entry	Agnoia	0	
+entry	Agnus	0	
+entry	Agnus castus	1	
 pb	533-534	0417	634474
-entry	Agnus sythicus		
+entry	Agnus sythicus	1	
 pb	535-536	0418	634475
-entry	Agoge		
-entry	Agomphiasis ou gomphiasis		
+entry	Agoge	0	
+entry	Agomphiasis ou gomphiasis	0	
 orth	Agomphiasis		
 orth	gomphiasis		
-entry	Agone		
-entry	Agonia		
-entry	Agonisticon		
-entry	Agonos		
+entry	Agone	0	
+entry	Agonia	1	
+entry	Agonisticon	0	
+entry	Agonos	0	
 pb	537-538	0419	634476
-entry	Agoraeus		
-entry	Agostus		
-entry	Agresta		
-entry	Agresten		
-entry	Agrestis		
-entry	Agria		
-entry	Agriampelos		
-entry	Agricultura		
-entry	Agrielaea		
-entry	Agrifolium		
+entry	Agoraeus	0	
+entry	Agostus	0	
+entry	Agresta	0	
+entry	Agresten	0	
+entry	Agrestis	0	
+entry	Agria	0	
+entry	Agriampelos	0	
+entry	Agricultura	0	
+entry	Agrielaea	0	
+entry	Agrifolium	1	
 pb	539-540	0420	634477
-entry	Agrimonia		
+entry	Agrimonia	1	
 pb	541-542	0421	634478
-entry	Agrimonoides		
-entry	Agriocardamum		
-entry	Agriocastanum		
-entry	Agriocinara		
-entry	Agriococcimelea		
-entry	Agriomela		
-entry	Agrion		
-entry	Agriophyllon		
-entry	Agrioriganum		
+entry	Agrimonoides	0	
+entry	Agriocardamum	0	
+entry	Agriocastanum	0	
+entry	Agriocinara	0	
+entry	Agriococcimelea	0	
+entry	Agriomela	0	
+entry	Agrion	0	
+entry	Agriophyllon	0	
+entry	Agrioriganum	0	
 pb	543-544	0422	634479
-entry	Agrioselinum		
-entry	Agriostari		
-entry	Agripalma		
-entry	Agrippae		
+entry	Agrioselinum	0	
+entry	Agriostari	0	
+entry	Agripalma	0	
+entry	Agrippae	3	
 pb	545-546	0423	634480
 pb	547-548	0424	634481
 pb	549-550	0425	634482
-entry	Agronomos		
-entry	Agrophon		
-entry	Agrostis		
+entry	Agronomos	0	
+entry	Agrophon	0	
+entry	Agrostis	1	
 pb	551-552	0426	634483
-entry	Agrumina		
-entry	Agrypnia		
-entry	Aguape		
-entry	Aguara quiya		
-entry	Aguara ponda		
-entry	Agul		
-entry	Agutiguepa		
-entry	Aguti treva ou agouti treva		
+entry	Agrumina	0	
+entry	Agrypnia	0	
+entry	Aguape	0	
+entry	Aguara quiya	0	
+entry	Aguara ponda	0	
+entry	Agul	0	
+entry	Agutiguepa	0	
+entry	Aguti treva ou agouti treva	0	
 orth	Aguti treva		
 orth	agouti treva		
-entry	Agyion		
-entry	Agynos		
-entry	Agyrtae		
+entry	Agyion	0	
+entry	Agynos	0	
+entry	Agyrtae	1	
 pb	553-554	0427	634484
-entry	Ahate de pavncho recchi		
-entry	Ahenum		
-entry	Ahius		
-entry	Ahmella		
-entry	Ahovai theveti clusii		
-entry	Ahusal		
-entry	Ajarazat		
-entry	Aidris		
-entry	Aipathia		
-entry	Aira		
+entry	Ahate de pavncho recchi	0	
+entry	Ahenum	0	
+entry	Ahius	0	
+entry	Ahmella	0	
+entry	Ahovai theveti clusii	0	
+entry	Ahusal	0	
+entry	Ajarazat	0	
+entry	Aidris	0	
+entry	Aipathia	0	
+entry	Aira	1	
 pb	555-556	0428	634485
-entry	Airi		
-entry	Aisthesis		
-entry	Aistherium		
-entry	Aitmat		
-entry	Ajubatipita brasiliensium		
-entry	Ajuga		
-entry	Aizoon		
-entry	Akibot		
-entry	Akon		
-entry	Al		
-entry	Ala		
+entry	Airi	0	
+entry	Aisthesis	0	
+entry	Aistherium	0	
+entry	Aitmat	0	
+entry	Ajubatipita brasiliensium	0	
+entry	Ajuga	0	
+entry	Aizoon	0	
+entry	Akibot	0	
+entry	Akon	0	
+entry	Al	0	
+entry	Ala	1	
 pb	557-558	0429	634486
-entry	Alabandicus ou alabandinus lapis		
+entry	Alabandicus ou alabandinus lapis	0	
 orth	Alabandicus		
 orth	alabandinus lapis		
-entry	Alabari		
-entry	Alabastra		
-entry	Alabastron		
-entry	Alabastrum		
-entry	Alacab		
-entry	Alachaschee		
-entry	Alacnoth		
-entry	Alae nasi		
-entry	Alae auris ou pinnae auris		
+entry	Alabari	0	
+entry	Alabastra	0	
+entry	Alabastron	0	
+entry	Alabastrum	0	
+entry	Alacab	0	
+entry	Alachaschee	0	
+entry	Alacnoth	0	
+entry	Alae nasi	0	
+entry	Alae auris ou pinnae auris	0	
 orth	Alae auris		
 orth	pinnae auris		
-entry	Alae		
+entry	Alae	1	
 pb	559-560	0430	634487
-entry	Alafi		
-entry	Alafor & alafort		
+entry	Alafi	0	
+entry	Alafor & alafort	0	
 orth	Alafor		
 orth	alafort		
-entry	Alafreg		
-entry	Alahabar		
-entry	Alahatib		
-entry	Alaia phthisis		
-entry	Alais		
-entry	Alamandina		
-entry	Alambic		
-entry	Alanabolus		
-entry	Alana terra		
-entry	Alandahal		
-entry	Alanfuta		
-entry	Alapae		
-entry	Alaqueca		
-entry	Alaris		
-entry	Alartar		
-entry	Alasalet		
-entry	Alastrob		
-entry	Alatan		
-entry	Alaternus		
+entry	Alafreg	0	
+entry	Alahabar	0	
+entry	Alahatib	0	
+entry	Alaia phthisis	0	
+entry	Alais	0	
+entry	Alamandina	0	
+entry	Alambic	0	
+entry	Alanabolus	0	
+entry	Alana terra	0	
+entry	Alandahal	0	
+entry	Alanfuta	0	
+entry	Alapae	0	
+entry	Alaqueca	0	
+entry	Alaris	0	
+entry	Alartar	0	
+entry	Alasalet	0	
+entry	Alastrob	0	
+entry	Alatan	0	
+entry	Alaternus	1	
 pb	561-562	0431	634488
-entry	Alaternoides		
-entry	Alati		
-entry	Alati processus ou alares		
+entry	Alaternoides	0	
+entry	Alati	0	
+entry	Alati processus ou alares	0	
 orth	Alati processus		
 orth	alares		
-entry	Alauda		
+entry	Alauda	1	
 pb	563-564	0432	634489
-entry	Alaurat		
-entry	Alba animalia		
-entry	Alba terra		
-entry	Alba vitiligo		
-entry	Albadara		
+entry	Alaurat	0	
+entry	Alba animalia	0	
+entry	Alba terra	0	
+entry	Alba vitiligo	0	
+entry	Albadara	1	
 pb	565-566	0433	634490
-entry	Albagiazi		
-entry	Albani		
-entry	Albanum		
-entry	Albara		
-entry	Albaras		
-entry	Albatio, albificatio & dealbatio		
+entry	Albagiazi	0	
+entry	Albani	0	
+entry	Albanum	0	
+entry	Albara	0	
+entry	Albaras	0	
+entry	Albatio, albificatio & dealbatio	0	
 orth	Albatio		
 orth	albificatio		
 orth	dealbatio		
-entry	Albedo		
-entry	Alberas		
-entry	Alberick		
-entry	Albeton		
-entry	Alberick		
-entry	Albeton		
-entry	Albetad		
-entry	Albi		
-entry	Albificatio		
-entry	Albinum		
-entry	Albir		
-entry	Albor		
-entry	Albora		
-entry	Alborca		
-entry	Albot		
-entry	Albotat		
-entry	Albottum		
-entry	Albotis		
-entry	Albucasis		
+entry	Albedo	0	
+entry	Alberas	0	
+entry	Alberick	0	
+entry	Albeton	0	
+entry	Alberick	0	
+entry	Albeton	0	
+entry	Albetad	0	
+entry	Albi	0	
+entry	Albificatio	0	
+entry	Albinum	0	
+entry	Albir	0	
+entry	Albor	0	
+entry	Albora	0	
+entry	Alborca	0	
+entry	Albot	0	
+entry	Albotat	0	
+entry	Albottum	0	
+entry	Albotis	0	
+entry	Albucasis	1	
 pb	567-568	0434	634491
-entry	Albuginea tunica oculorum		
-entry	Albugineus humor occuli		
-entry	Albugo oculorum		
+entry	Albuginea tunica oculorum	0	
+entry	Albugineus humor occuli	0	
+entry	Albugo oculorum	1	
 pb	569-570	0435	634492
-entry	Albuhar		
-entry	Albula		
-entry	Albulae aquae ou albae		
+entry	Albuhar	0	
+entry	Albula	0	
+entry	Albulae aquae ou albae	0	
 orth	Albulae aquae		
 orth	albae		
-entry	Album graecum		
-entry	Album hispanicum		
-entry	Album nigrrum		
-entry	Album olus		
-entry	Album oculi		
-entry	Album jus		
-entry	Album, Album severi collyrum		
+entry	Album graecum	0	
+entry	Album hispanicum	0	
+entry	Album nigrrum	0	
+entry	Album olus	0	
+entry	Album oculi	0	
+entry	Album jus	0	
+entry	Album, Album severi collyrum	0	
 orth	Album		
 orth	Album severi collyrum		
-entry	Album unguentium		
+entry	Album unguentium	0	
 pb	571-572	0436	634493
-entry	Album unguentum		
-entry	Albumen ovi		
+entry	Album unguentum	0	
+entry	Albumen ovi	4	
 pb	573-574	0437	634494
 pb	575-576	0438	634495
 pb	577-578	0439	634496
 pb	579-580	0440	634497
-entry	Albumor		
-entry	Alburnum		
-entry	Alburnus ausonii		
-entry	Albus		
-entry	Albus fluor		
+entry	Albumor	0	
+entry	Alburnum	0	
+entry	Alburnus ausonii	0	
+entry	Albus	0	
+entry	Albus fluor	0	
 pb	581-582	0441	634498
-entry	Alcadp		
-entry	Alcafiel		
-entry	Alcahest		
+entry	Alcadp	0	
+entry	Alcafiel	0	
+entry	Alcahest	6	
 pb	583-584	0442	634499
 pb	585-586	0443	634500
 pb	587-588	0444	634501
 pb	589-590	0445	634502
 pb	591-592	0446	634503
 pb	593-594	0447	634504
-entry	Alcali, ou alkali		
+entry	Alcali, ou alkali	36	
 orth	Alcali		
 orth	alkali		
 pb	595-596	0448	634505
@@ -1283,45 +1283,45 @@ pb	659-660	0480	634537
 pb	661-662	0481	634538
 pb	663-664	0482	634539
 pb	665-666	0483	634540
-entry	Alcalisatio		
-entry	Alcancali		
+entry	Alcalisatio	0	
+entry	Alcancali	1	
 pb	667-668	0484	634541
-entry	Alcanna		
-entry	Alcaol		
-entry	Alcar		
-entry	Alcara		
-entry	Alce		
-entry	Alcea		
+entry	Alcanna	1	
+entry	Alcaol	0	
+entry	Alcar	0	
+entry	Alcara	0	
+entry	Alce	0	
+entry	Alcea	1	
 pb	669-670	0485	634542
-entry	Alcea indica		
-entry	Alcebris vivum		
-entry	Alcedo		
-entry	Alchachil		
-entry	Alcharith		
-entry	Alchemia		
-entry	Alchimelech		
+entry	Alcea indica	0	
+entry	Alcebris vivum	0	
+entry	Alcedo	0	
+entry	Alchachil	0	
+entry	Alcharith	0	
+entry	Alchemia	0	
+entry	Alchimelech	1	
 pb	671-672	0486	634543
-entry	Alchien		
-entry	Alchimilla		
-entry	Alchitram		
-entry	Alchitran		
-entry	Alchitura		
-entry	Alchollea		
-entry	Alchymia		
-entry	Alcibiadium		
-entry	Alcimad		
-entry	Alciot ou achiotl		
+entry	Alchien	0	
+entry	Alchimilla	0	
+entry	Alchitram	0	
+entry	Alchitran	0	
+entry	Alchitura	0	
+entry	Alchollea	0	
+entry	Alchymia	0	
+entry	Alcibiadium	0	
+entry	Alcimad	0	
+entry	Alciot ou achiotl	0	
 orth	Alciot		
 orth	achiotl		
-entry	Alcob		
-entry	Alcocalum ou cinara		
+entry	Alcob	0	
+entry	Alcocalum ou cinara	0	
 orth	Alcocalum		
 orth	cinara		
-entry	Alcoel ou lac acetosum		
+entry	Alcoel ou lac acetosum	0	
 orth	Alcoel		
 orth	lac acetosum		
-entry	Alcofol		
-entry	Alcohol		
+entry	Alcofol	0	
+entry	Alcohol	14	
 pb	673-674	0487	634544
 pb	675-676	0488	634545
 pb	677-678	0489	634546
@@ -1336,137 +1336,137 @@ pb	693-694	0497	634554
 pb	695-696	0498	634555
 pb	697-698	0499	634556
 pb	699-700	0500	634557
-entry	Alcol		
-entry	Alcola		
-entry	Alcolita		
-entry	Alcolismus		
-entry	Alcone		
-entry	Acor		
+entry	Alcol	0	
+entry	Alcola	0	
+entry	Alcolita	0	
+entry	Alcolismus	0	
+entry	Alcone	0	
+entry	Acor	0	
 pb	701-702	0501	634558
-entry	Alcore		
-entry	Alcte		
-entry	Alcubd ou alumbair		
+entry	Alcore	0	
+entry	Alcte	0	
+entry	Alcubd ou alumbair	0	
 orth	Alcubd		
 orth	alumbair		
-entry	Alcubrith, alcur ou alcuzar		
+entry	Alcubrith, alcur ou alcuzar	0	
 orth	Alcubrith		
 orth	alcur		
 orth	alcuzar		
-entry	Alcyonium		
-entry	Aldabaram		
-entry	Alec ou alech		
+entry	Alcyonium	0	
+entry	Aldabaram	0	
+entry	Alec ou alech	0	
 orth	Alec		
 orth	alech		
-entry	Alecharith		
-entry	Alectoria, ou lapis alectorius		
+entry	Alecharith	0	
+entry	Alectoria, ou lapis alectorius	0	
 orth	Alectoria		
 orth	lapis alectorius		
-entry	Alectorolophus		
+entry	Alectorolophus	1	
 pb	703-704	0502	634559
-entry	Alephantes		
-entry	Aleimma		
-entry	Aleion		
-entry	Aleipha		
+entry	Alephantes	0	
+entry	Aleimma	0	
+entry	Aleion	0	
+entry	Aleipha	1	
 pb	705-706	0503	634560
-entry	Alelaion		
-entry	Alema		
-entry	Alemban		
-entry	Alembic		
-entry	Alembicus		
-entry	Alembroth		
-entry	Alemzadat		
-entry	Alenon		
-entry	Aleophanginae pilulae		
+entry	Alelaion	0	
+entry	Alema	0	
+entry	Alemban	0	
+entry	Alembic	0	
+entry	Alembicus	0	
+entry	Alembroth	0	
+entry	Alemzadat	0	
+entry	Alenon	0	
+entry	Aleophanginae pilulae	1	
 pb	707-708	0504	634561
-entry	Aleore		
-entry	Aleos		
-entry	Ales		
-entry	Ales crudum		
-entry	Aleseh		
-entry	Aleton		
-entry	Aleuron		
-entry	Alexander		
+entry	Aleore	0	
+entry	Aleos	0	
+entry	Ales	0	
+entry	Ales crudum	0	
+entry	Aleseh	0	
+entry	Aleton	0	
+entry	Aleuron	0	
+entry	Alexander	1	
 pb	709-710	0505	634562
-entry	Alexandria		
-entry	Alexandri antidotus aurea		
+entry	Alexandria	0	
+entry	Alexandri antidotus aurea	1	
 pb	711-712	0506	634563
-entry	Alexandri regis collyrium siccum		
-entry	Alexandrinum emplastrum viride		
-entry	Alexanthi ou altingat		
+entry	Alexandri regis collyrium siccum	0	
+entry	Alexandrinum emplastrum viride	0	
+entry	Alexanthi ou altingat	0	
 orth	Alexanthi		
 orth	altingat		
-entry	Alexasthai		
-entry	Alexicacon		
-entry	Alexion		
-entry	Alexipharmaca		
+entry	Alexasthai	0	
+entry	Alexicacon	0	
+entry	Alexion	0	
+entry	Alexipharmaca	3	
 pb	713-714	0507	634564
 pb	715-716	0508	634565
 pb	717-718	0509	634566
-entry	Alexippus		
-entry	Alexipyreticum, alexipyretos, & alexipyretum		
+entry	Alexippus	0	
+entry	Alexipyreticum, alexipyretos, & alexipyretum	0	
 orth	Alexipyreticum		
 orth	alexipyretos		
 orth	alexipyretum		
 pb	719-720	0510	634567
-entry	Alexir		
-entry	Alexiteria		
-entry	Alezaram		
-entry	Alfacta		
-entry	Alfadidam		
-entry	Alfasit ou alvasit		
+entry	Alexir	0	
+entry	Alexiteria	0	
+entry	Alezaram	0	
+entry	Alfacta	0	
+entry	Alfadidam	0	
+entry	Alfasit ou alvasit	0	
 orth	Alfasit		
 orth	alvasit		
-entry	Alfatida		
-entry	Alfatide		
-entry	Alfesera ou alphesera		
+entry	Alfatida	0	
+entry	Alfatide	0	
+entry	Alfesera ou alphesera	0	
 orth	Alfesera		
 orth	alphesera		
-entry	Alfoi		
-entry	Alfusa		
-entry	Alga		
+entry	Alfoi	0	
+entry	Alfusa	0	
+entry	Alga	1	
 pb	721-722	0511	634568
-entry	Algali		
-entry	Algamet		
-entry	Algarab ou garab		
+entry	Algali	0	
+entry	Algamet	0	
+entry	Algarab ou garab	0	
 orth	Algarab		
 orth	garab		
-entry	Algaroth		
-entry	Algatia		
-entry	Algedo		
+entry	Algaroth	0	
+entry	Algatia	0	
+entry	Algedo	3	
 pb	723-724	0512	634569
 pb	725-726	0513	634570
 pb	727-728	0514	634571
-entry	Algema		
-entry	Algemet		
-entry	Algeriae		
-entry	Algeroth		
-entry	Algoides		
-entry	Algos, ou algema		
+entry	Algema	0	
+entry	Algemet	0	
+entry	Algeriae	0	
+entry	Algeroth	0	
+entry	Algoides	0	
+entry	Algos, ou algema	0	
 orth	Algos		
 orth	algema		
-entry	Alhagi		
+entry	Alhagi	1	
 pb	729-730	0515	634572
-entry	Alhandal		
-entry	Alhanna ou alana terra		
+entry	Alhandal	0	
+entry	Alhanna ou alana terra	0	
 orth	Alhanna		
 orth	alana terra		
-entry	Alhasef ou asef		
+entry	Alhasef ou asef	0	
 orth	Alhasef		
 orth	asef		
-entry	Alica		
+entry	Alica	2	
 pb	731-732	0516	634573
 pb	733-734	0517	634574
-entry	Alices		
-entry	Alicornu ou unicornu		
+entry	Alices	0	
+entry	Alicornu ou unicornu	0	
 orth	Alicornu		
 orth	unicornu		
-entry	Alienatio mentis		
-entry	Alienum		
-entry	Aliformes processus		
-entry	Aligulus		
-entry	Alilat		
-entry	Alima		
-entry	Alimenta		
+entry	Alienatio mentis	0	
+entry	Alienum	0	
+entry	Aliformes processus	0	
+entry	Aligulus	0	
+entry	Alilat	0	
+entry	Alima	0	
+entry	Alimenta	30	
 pb	735-736	0518	634575
 pb	737-738	0519	634576
 pb	739-740	0520	634577
@@ -1497,69 +1497,69 @@ pb	787-788	0544	634601
 pb	789-790	0545	634602
 pb	791-792	0546	634603
 pb	793-794	0547	634604
-entry	Alindesis		
-entry	Alinthisar, ou uvulae procidentia		
+entry	Alindesis	0	
+entry	Alinthisar, ou uvulae procidentia	0	
 orth	Alinthisar		
 orth	uvulae procidentia		
-entry	Aliocab		
-entry	Alipaenos		
-entry	Alipasma		
-entry	Alipili		
-entry	Aliptae		
+entry	Aliocab	0	
+entry	Alipaenos	0	
+entry	Alipasma	0	
+entry	Alipili	0	
+entry	Aliptae	1	
 pb	795-796	0548	634605
-entry	Alisma		
+entry	Alisma	1	
 pb	797-798	0549	634606
-entry	Alisteles		
-entry	Alkafial		
-entry	Alkahest		
-entry	Alkale		
-entry	Alkali		
-entry	Alkalia		
-entry	Alkalid, alkes, alkob		
+entry	Alisteles	0	
+entry	Alkafial	0	
+entry	Alkahest	0	
+entry	Alkale	0	
+entry	Alkali	0	
+entry	Alkalia	0	
+entry	Alkalid, alkes, alkob	0	
 orth	Alkalid		
 orth	alkes		
 orth	alkob		
-entry	Alkant		
-entry	Alkantum		
-entry	Alkanri, ou alcanri		
+entry	Alkant	0	
+entry	Alkantum	0	
+entry	Alkanri, ou alcanri	0	
 orth	Alkanri		
 orth	alcanri		
-entry	Alkara, ou alcara		
+entry	Alkara, ou alcara	0	
 orth	Alkara		
 orth	alcara		
-entry	Alkaranum		
-entry	Alkasa, ou alkazoal, ou albot		
+entry	Alkaranum	0	
+entry	Alkasa, ou alkazoal, ou albot	0	
 orth	Alkasa		
 orth	alkazoal		
 orth	albot		
-entry	Alkaut, ou almarkasita		
+entry	Alkaut, ou almarkasita	0	
 orth	Alkaut		
 orth	almarkasita		
-entry	Alkautum		
-entry	Alkekengi		
+entry	Alkautum	0	
+entry	Alkekengi	2	
 pb	799-800	0550	634607
 pb	801-802	0551	634608
-entry	Alkian		
-entry	Alkibric, alchibric, alchibert, algibic, alkibic, ou alchabric		
+entry	Alkian	0	
+entry	Alkibric, alchibric, alchibert, algibic, alkibic, ou alchabric	0	
 orth	Alkibric		
 orth	alchibric		
 orth	alchibert		
 orth	algibic		
 orth	alkibic		
 orth	alchabric		
-entry	Alkien		
-entry	Alkimia		
-entry	Alkin		
-entry	Alkir		
-entry	Alkitram		
-entry	Alkoel		
-entry	Alkol		
-entry	Alkosor		
-entry	Alki plumbi		
-entry	Alla		
+entry	Alkien	0	
+entry	Alkimia	0	
+entry	Alkin	0	
+entry	Alkir	0	
+entry	Alkitram	0	
+entry	Alkoel	0	
+entry	Alkol	0	
+entry	Alkosor	0	
+entry	Alki plumbi	0	
+entry	Alla	2	
 pb	803-804	0552	634609
 pb	805-806	0553	634610
-entry	Allabor, alahabar, alabari, alchonor, allarinoch, alhohonoch, alrachas, alastrob, alomba, alooc, alcamor		
+entry	Allabor, alahabar, alabari, alchonor, allarinoch, alhohonoch, alrachas, alastrob, alomba, alooc, alcamor	0	
 orth	Allabor		
 orth	alahabar		
 orth	alabari		
@@ -1571,184 +1571,184 @@ orth	alastrob
 orth	alomba		
 orth	alooc		
 orth	alcamor		
-entry	Allarot		
-entry	Allantois		
+entry	Allarot	0	
+entry	Allantois	5	
 pb	807-808	0554	634611
 pb	809-810	0555	634612
 pb	811-812	0556	634613
 pb	813-814	0557	634614
 pb	815-816	0558	634615
-entry	Alleluia		
-entry	Alliar aeris		
-entry	Alliaria		
-entry	Alligatura		
-entry	Allioticum		
-entry	Allium		
+entry	Alleluia	0	
+entry	Alliar aeris	0	
+entry	Alliaria	0	
+entry	Alligatura	0	
+entry	Allioticum	0	
+entry	Allium	2	
 pb	817-818	0559	634616
 pb	819-820	0560	634617
-entry	Allium gallicum		
-entry	Allobrogicum vinum		
-entry	Allochoos		
-entry	Allochroeo		
-entry	Allocoton		
-entry	Allodemia		
-entry	Alloeosis		
-entry	Allognoon		
-entry	Allophasis		
-entry	Alma		
-entry	Almabri		
-entry	Almager		
-entry	Almagra		
-entry	Almakanda, almakist, almariab, almarchar, almarcab, ou lythargirium		
+entry	Allium gallicum	0	
+entry	Allobrogicum vinum	0	
+entry	Allochoos	0	
+entry	Allochroeo	0	
+entry	Allocoton	0	
+entry	Allodemia	0	
+entry	Alloeosis	0	
+entry	Allognoon	0	
+entry	Allophasis	0	
+entry	Alma	0	
+entry	Almabri	0	
+entry	Almager	0	
+entry	Almagra	0	
+entry	Almakanda, almakist, almariab, almarchar, almarcab, ou lythargirium	0	
 orth	Almakanda		
 orth	almakist		
 orth	almariab		
 orth	almarchar		
 orth	almarcab		
 orth	lythargirium		
-entry	Almarcarida, ou lythargyrium argyritis		
+entry	Almarcarida, ou lythargyrium argyritis	0	
 orth	Almarcarida		
 orth	lythargyrium argyritis		
-entry	Almarcat		
-entry	Almargen, armalgol, almarago		
+entry	Almarcat	0	
+entry	Almargen, armalgol, almarago	0	
 orth	Almargen		
 orth	armalgol		
 orth	almarago		
 pb	821-822	0561	634618
-entry	Almarkasita		
-entry	Almastack		
-entry	Almatatica		
-entry	Almecaside, almechaside		
+entry	Almarkasita	0	
+entry	Almastack	0	
+entry	Almatatica	0	
+entry	Almecaside, almechaside	0	
 orth	Almecaside		
 orth	almechaside		
-entry	Almeliletu		
-entry	Almene		
-entry	Almetat		
-entry	Almisa		
-entry	Almisadis, Almisadar, almizadar, almizadir, asanon, amisadu		
+entry	Almeliletu	0	
+entry	Almene	0	
+entry	Almetat	0	
+entry	Almisa	0	
+entry	Almisadis, Almisadar, almizadar, almizadir, asanon, amisadu	0	
 orth	Almisadis		
 orth	Almisadar		
 orth	almizadar		
 orth	almizadir		
 orth	asanon		
 orth	amisadu		
-entry	Almisarub		
-entry	Almyrinthra		
-entry	Alnec, allenec, ou alcalap		
+entry	Almisarub	0	
+entry	Almyrinthra	0	
+entry	Alnec, allenec, ou alcalap	0	
 orth	Alnec		
 orth	allenec		
 orth	alcalap		
-entry	Alnus		
+entry	Alnus	1	
 pb	823-824	0562	634619
-entry	Aloe		
+entry	Aloe	4	
 pb	825-826	0563	634620
 pb	827-828	0564	634621
 pb	829-830	0565	634622
 pb	831-832	0566	634623
-entry	Alofel		
-entry	Alogos		
-entry	Alogotrophia		
-entry	Alohar, alohoc, alosohoc, ou alosot		
+entry	Alofel	0	
+entry	Alogos	0	
+entry	Alogotrophia	0	
+entry	Alohar, alohoc, alosohoc, ou alosot	0	
 orth	Alohar		
 orth	alohoc		
 orth	alosohoc		
 orth	alosot		
-entry	Aloides		
-entry	Alopeces		
-entry	Alopecia		
+entry	Aloides	0	
+entry	Alopeces	0	
+entry	Alopecia	3	
 pb	833-834	0567	634624
 pb	835-836	0568	634625
 pb	837-838	0569	634626
-entry	Alopecuros		
-entry	Alopex		
-entry	Alosa		
+entry	Alopecuros	0	
+entry	Alopex	0	
+entry	Alosa	1	
 pb	839-840	0570	634627
-entry	Alosanthy		
-entry	Alpam		
-entry	Alphabetum chymicum		
-entry	Alphenic		
-entry	Alphesera, ou alfesera		
+entry	Alosanthy	0	
+entry	Alpam	0	
+entry	Alphabetum chymicum	0	
+entry	Alphenic	0	
+entry	Alphesera, ou alfesera	0	
 orth	Alphesera		
 orth	alfesera		
-entry	Alphita		
+entry	Alphita	0	
 pb	841-842	0571	634628
-entry	Alphitedon		
-entry	Alphus		
-entry	Alramudi		
-entry	Alratica		
-entry	Alsamach, ou alsemach		
+entry	Alphitedon	0	
+entry	Alphus	0	
+entry	Alramudi	0	
+entry	Alratica	0	
+entry	Alsamach, ou alsemach	0	
 orth	Alsamach		
 orth	alsemach		
-entry	Alsech		
-entry	Alselat		
-entry	Alsinastrum		
+entry	Alsech	0	
+entry	Alselat	0	
+entry	Alsinastrum	1	
 pb	843-844	0572	634629
-entry	Alsine		
+entry	Alsine	2	
 pb	845-846	0573	634630
 pb	847-848	0574	634631
-entry	Alsineformis		
-entry	Alsiracostum		
-entry	Altafor		
-entry	Altambus		
-entry	Altanus		
-entry	Altaris, altarit, ou alozet		
+entry	Alsineformis	0	
+entry	Alsiracostum	0	
+entry	Altafor	0	
+entry	Altambus	0	
+entry	Altanus	0	
+entry	Altaris, altarit, ou alozet	0	
 orth	Altaris		
 orth	altarit		
 orth	alozet		
-entry	Alterantia		
+entry	Alterantia	5	
 pb	849-850	0575	634632
 pb	851-852	0576	634633
 pb	853-854	0577	634634
 pb	855-856	0578	634635
 pb	857-858	0579	634636
-entry	Altercum ou altercangenon		
+entry	Altercum ou altercangenon	0	
 orth	Altercum		
 orth	altercangenon		
-entry	Altey plumbi ou alki plumbi		
+entry	Altey plumbi ou alki plumbi	0	
 orth	Altey plumbi		
 orth	alki plumbi		
-entry	Althaea		
+entry	Althaea	5	
 pb	859-860	0580	634637
 pb	861-862	0581	634638
 pb	863-864	0582	634639
 pb	865-866	0583	634640
 pb	867-868	0584	634641
-entry	Althanaca, ou althanacha		
+entry	Althanaca, ou althanacha	0	
 orth	Althanaca		
 orth	althanacha		
-entry	Althebegium		
-entry	Althexis		
-entry	Altholizoi		
-entry	Altiht		
-entry	Altimar, ayacapher		
+entry	Althebegium	0	
+entry	Althexis	0	
+entry	Altholizoi	0	
+entry	Altiht	0	
+entry	Altimar, ayacapher	0	
 orth	Altimar		
 orth	ayacapher		
-entry	Altimio		
-entry	Altincar		
-entry	Altingat		
-entry	Altinuraum		
-entry	Altolizoi		
-entry	Altus		
-entry	Alu		
-entry	Aluach, ou aluech		
+entry	Altimio	0	
+entry	Altincar	0	
+entry	Altingat	0	
+entry	Altinuraum	0	
+entry	Altolizoi	0	
+entry	Altus	0	
+entry	Alu	0	
+entry	Aluach, ou aluech	0	
 orth	Aluach		
 orth	aluech		
-entry	Aluco		
-entry	Aludel		
+entry	Aluco	0	
+entry	Aludel	1	
 pb	869-870	0585	634642
-entry	Aludit		
-entry	Alvearium		
-entry	Aluech		
-entry	Alveoli		
-entry	Alveus		
-entry	Alufir		
-entry	Alviduca medicamenta		
-entry	Aluis		
-entry	Alum ou alus		
+entry	Aludit	0	
+entry	Alvearium	0	
+entry	Aluech	0	
+entry	Alveoli	0	
+entry	Alveus	0	
+entry	Alufir	0	
+entry	Alviduca medicamenta	0	
+entry	Aluis	0	
+entry	Alum ou alus	0	
 orth	Alum		
 orth	alus		
-entry	Alumboti		
-entry	Alumen		
+entry	Alumboti	0	
+entry	Alumen	10	
 pb	871-872	0586	634643
 pb	873-874	0587	634644
 pb	875-876	0588	634645
@@ -1759,39 +1759,39 @@ pb	883-884	0592	634649
 pb	885-886	0593	634650
 pb	887-888	0594	634651
 pb	889-890	0595	634652
-entry	Alunibur		
-entry	Alunsel		
-entry	Alusar		
-entry	Alusia		
-entry	Aluta		
-entry	Alvus		
+entry	Alunibur	0	
+entry	Alunsel	0	
+entry	Alusar	0	
+entry	Alusia	0	
+entry	Aluta	0	
+entry	Alvus	4	
 pb	891-892	0596	634653
 pb	893-894	0597	634654
 pb	895-896	0598	634655
 pb	897-898	0599	634656
-entry	Alyce		
-entry	Alypum		
+entry	Alyce	0	
+entry	Alypum	1	
 pb	899-900	0600	634657
-entry	Alysmos		
+entry	Alysmos	1	
 pb	901-902	0601	634658
-entry	Alyssoides		
-entry	Alyssum		
+entry	Alyssoides	0	
+entry	Alyssum	2	
 pb	903-904	0602	634659
 pb	905-906	0603	634660
-entry	Alzegi		
-entry	Alzemafor		
-entry	Alzilat		
-entry	Alzimar		
-entry	Alzofar		
-entry	Ama, ame		
+entry	Alzegi	0	
+entry	Alzemafor	0	
+entry	Alzilat	0	
+entry	Alzimar	0	
+entry	Alzofar	0	
+entry	Ama, ame	0	
 orth	Ama		
 orth	ame		
-entry	Amalgama		
+entry	Amalgama	1	
 pb	907-908	0604	634661
-entry	Amalgamatio		
-entry	Amamelis		
-entry	Amandinus lapis		
-entry	Amanita		
+entry	Amalgamatio	0	
+entry	Amamelis	0	
+entry	Amandinus lapis	0	
+entry	Amanita	7	
 pb	909-910	0605	634662
 pb	911-912	0606	634663
 pb	913-914	0607	634664
@@ -1799,24 +1799,24 @@ pb	915-916	0608	634665
 pb	917-918	0609	634666
 pb	919-920	0610	634667
 pb	921-922	0611	634668
-entry	Amara		
-entry	Amaracus		
+entry	Amara	0	
+entry	Amaracus	6	
 pb	923-924	0612	634669
 pb	925-926	0613	634670
 pb	927-928	0614	634671
 pb	929-930	0615	634672
 pb	931-932	0616	634673
 pb	933-934	0617	634674
-entry	Amara-dulcis		
-entry	Amaranthus		
+entry	Amara-dulcis	0	
+entry	Amaranthus	1	
 pb	935-936	0618	634675
-entry	Amarantoides		
-entry	Amarella		
-entry	Amatoria febris		
-entry	Amatoria veneficia		
-entry	Amatorii musculi		
-entry	Amatzquitl		
-entry	Amaurosis		
+entry	Amarantoides	0	
+entry	Amarella	0	
+entry	Amatoria febris	0	
+entry	Amatoria veneficia	0	
+entry	Amatorii musculi	0	
+entry	Amatzquitl	0	
+entry	Amaurosis	12	
 pb	937-938	0619	634676
 pb	939-940	0620	634677
 pb	941-942	0621	634678
@@ -1829,28 +1829,28 @@ pb	953-954	0627	634684
 pb	955-956	0628	634685
 pb	957-958	0629	634686
 pb	959-960	0630	634687
-entry	Amazonum pastillus		
-entry	Amba		
-entry	Ambaiba		
+entry	Amazonum pastillus	0	
+entry	Amba	0	
+entry	Ambaiba	1	
 pb	961-962	0631	634688
-entry	Ambaitinga		
-entry	Ambalam		
-entry	Ambapaia		
-entry	Ambare		
-entry	Ambarvalis		
-entry	Ambe		
+entry	Ambaitinga	0	
+entry	Ambalam	0	
+entry	Ambapaia	0	
+entry	Ambare	0	
+entry	Ambarvalis	0	
+entry	Ambe	1	
 pb	963-964	0632	634689
-entry	Ambela		
-entry	Amberboi		
+entry	Ambela	0	
+entry	Amberboi	1	
 pb	965-966	0633	634690
-entry	Ambia monard		
-entry	Ambidexter		
-entry	Amblosis		
-entry	Amblyogmos		
-entry	Amblyopia		
+entry	Ambia monard	0	
+entry	Ambidexter	0	
+entry	Amblosis	0	
+entry	Amblyogmos	0	
+entry	Amblyopia	1	
 pb	967-968	0634	634691
-entry	Ambon		
-entry	Ambra		
+entry	Ambon	0	
+entry	Ambra	15	
 pb	969-970	0635	634692
 pb	971-972	0636	634693
 pb	973-974	0637	634694
@@ -1866,51 +1866,51 @@ pb	991-992	0646	634703
 pb	993-994	0647	634704
 pb	995-996	0648	634705
 pb	997-998	0649	634706
-entry	Ambulatio		
-entry	Ambulo		
-entry	Ambulon		
-entry	Ambusta		
+entry	Ambulatio	0	
+entry	Ambulo	0	
+entry	Ambulon	0	
+entry	Ambusta	3	
 pb	999-1000	0650	634707
 pb	1001-1002	0651	634708
 pb	1003-1004	0652	634709
-entry	Amedanus		
+entry	Amedanus	0	
 pb	1005-1006	0653	634710
-entry	Amelanchier		
-entry	Amellus		
-entry	Amelpodi		
-entry	Amene		
-entry	Amenenos		
-entry	Amentia		
-entry	Amentum		
-entry	Ameri		
-entry	Amethodicum		
-entry	Amethysta pharmaca		
-entry	Amethystus		
-entry	Ametria		
-entry	Amia		
-entry	Amiantus		
+entry	Amelanchier	0	
+entry	Amellus	0	
+entry	Amelpodi	0	
+entry	Amene	0	
+entry	Amenenos	0	
+entry	Amentia	0	
+entry	Amentum	0	
+entry	Ameri	0	
+entry	Amethodicum	0	
+entry	Amethysta pharmaca	0	
+entry	Amethystus	0	
+entry	Ametria	0	
+entry	Amia	0	
+entry	Amiantus	3	
 pb	1007-1008	0654	634711
 pb	1009-1010	0655	634712
 pb	1011-1012	0656	634713
-entry	Amiculum		
+entry	Amiculum	1	
 pb	1013-1014	0657	634714
-entry	Amidum		
-entry	Aminaeum vinum		
-entry	Aminaeum acetum		
-entry	Aminia		
-entry	Amma		
-entry	Ammi		
+entry	Amidum	0	
+entry	Aminaeum vinum	0	
+entry	Aminaeum acetum	0	
+entry	Aminia	0	
+entry	Amma	0	
+entry	Ammi	1	
 pb	1015-1016	0658	634715
-entry	Ammion		
-entry	Ammites ou ammonites		
+entry	Ammion	0	
+entry	Ammites ou ammonites	0	
 orth	Ammites		
 orth	ammonites		
-entry	Ammochosia		
-entry	Ammochrysos		
-entry	Ammochrisos		
-entry	Ammochrysus		
-entry	Ammodites		
-entry	Ammoniacum		
+entry	Ammochosia	0	
+entry	Ammochrysos	0	
+entry	Ammochrisos	0	
+entry	Ammochrysus	0	
+entry	Ammodites	0	
+entry	Ammoniacum	14	
 pb	1017-1018	0659	634716
 pb	1019-1020	0660	634717
 pb	1021-1022	0661	634718
@@ -1925,69 +1925,69 @@ pb	1037-1038	0669	634726
 pb	1039-1040	0670	634727
 pb	1041-1042	0671	634728
 pb	1043-1044	0672	634729
-entry	Ammonis cornu		
-entry	Ammonitrum		
-entry	Ammonius		
-entry	Ammonii collyrium		
-entry	Amna alcalizata		
-entry	Amnios		
+entry	Ammonis cornu	0	
+entry	Ammonitrum	0	
+entry	Ammonius	0	
+entry	Ammonii collyrium	0	
+entry	Amna alcalizata	0	
+entry	Amnios	6	
 pb	1045-1046	0673	634730
 pb	1047-1048	0674	634731
 pb	1049-1050	0675	634732
 pb	1051-1052	0676	634733
 pb	1053-1054	0677	634734
 pb	1055-1056	0678	634735
-entry	Amnis		
-entry	Amoie		
-entry	Amolynton		
-entry	Amomi		
-entry	Amomis		
-entry	Amomum		
+entry	Amnis	0	
+entry	Amoie	0	
+entry	Amolynton	0	
+entry	Amomi	0	
+entry	Amomis	0	
+entry	Amomum	5	
 pb	1057-1058	0679	634736
 pb	1059-1060	0680	634737
 pb	1061-1062	0681	634738
 pb	1063-1064	0682	634739
 pb	1065-1066	0683	634740
-entry	Amongabriel		
-entry	Amongeaba		
-entry	Amor		
+entry	Amongabriel	0	
+entry	Amongeaba	0	
+entry	Amor	1	
 pb	1067-1068	0684	634741
-entry	Amorge		
-entry	Amoris poma		
-entry	Amoris pomum		
-entry	Ampana		
-entry	Ampar		
-entry	Ampelion		
-entry	Ampelis		
-entry	Ampelites terra		
-entry	Ampelitis		
-entry	Ampeloprason		
-entry	Ampelos		
-entry	Ampharisteros		
-entry	Amphemerinos		
-entry	Amphiblestroides		
-entry	Amphibranchia		
-entry	Amphicaustis		
+entry	Amorge	0	
+entry	Amoris poma	0	
+entry	Amoris pomum	0	
+entry	Ampana	0	
+entry	Ampar	0	
+entry	Ampelion	0	
+entry	Ampelis	0	
+entry	Ampelites terra	0	
+entry	Ampelitis	0	
+entry	Ampeloprason	0	
+entry	Ampelos	0	
+entry	Ampharisteros	0	
+entry	Amphemerinos	0	
+entry	Amphiblestroides	0	
+entry	Amphibranchia	0	
+entry	Amphicaustis	0	
 pb	1069-1070	0685	634742
-entry	Amphideon		
-entry	Amphidexios		
-entry	Amphimetrion		
-entry	Amphiplex		
-entry	Amphipneuma		
-entry	Amphipolos		
-entry	Amphisbaena		
-entry	Amphismila		
-entry	Amphisphalsis		
-entry	Amphitane		
-entry	Amphodonta		
-entry	Amphora		
-entry	Amplexatio ou basiatio		
+entry	Amphideon	0	
+entry	Amphidexios	0	
+entry	Amphimetrion	0	
+entry	Amphiplex	0	
+entry	Amphipneuma	0	
+entry	Amphipolos	0	
+entry	Amphisbaena	0	
+entry	Amphismila	0	
+entry	Amphisphalsis	0	
+entry	Amphitane	0	
+entry	Amphodonta	0	
+entry	Amphora	0	
+entry	Amplexatio ou basiatio	0	
 orth	Amplexatio		
 orth	basiatio		
-entry	Ampotis		
-entry	Ampulla		
-entry	Ampullascens		
-entry	Amputatio		
+entry	Ampotis	0	
+entry	Ampulla	0	
+entry	Ampullascens	0	
+entry	Amputatio	19	
 pb	1071-1072	0686	634743
 pb	1073-1074	0687	634744
 pb	1075-1076	0688	634745
@@ -2007,101 +2007,101 @@ pb	1101-1102	0701	634758
 pb	1103-1104	0702	634759
 pb	1105-1106	0703	634760
 pb	1107-1108	0704	634761
-entry	Amuctica		
-entry	Amvetti ou vetti-tali		
+entry	Amuctica	0	
+entry	Amvetti ou vetti-tali	0	
 orth	Amvetti		
 orth	vetti-tali		
-entry	Amuleta		
+entry	Amuleta	1	
 pb	1109-1110	0705	634762
-entry	Amurca		
-entry	Amyche		
-entry	Amydros		
-entry	Amygdalae		
-entry	Amygdalia		
-entry	Amygdalatum		
-entry	Amygdaloides		
+entry	Amurca	0	
+entry	Amyche	0	
+entry	Amydros	0	
+entry	Amygdalae	0	
+entry	Amygdalia	0	
+entry	Amygdalatum	0	
+entry	Amygdaloides	0	
 pb	1111-1112	0706	634763
-entry	Amygdalopersicum		
-entry	Amygdalus		
+entry	Amygdalopersicum	0	
+entry	Amygdalus	1	
 pb	1113-1114	0707	634764
-entry	Amyleon, ou amylion		
+entry	Amyleon, ou amylion	0	
 orth	Amyleon		
 orth	amylion		
-entry	Amylum		
+entry	Amylum	1	
 pb	1115-1116	0708	634765
-entry	Amyos		
-entry	Amythaonis emplastrum		
-entry	An-fir		
-entry	An-firarto		
-entry	An-pater		
-entry	Ana		
-entry	Anabasis		
-entry	Anabole		
-entry	Anabrochismos ou anabrochismus		
+entry	Amyos	0	
+entry	Amythaonis emplastrum	0	
+entry	An-fir	0	
+entry	An-firarto	0	
+entry	An-pater	0	
+entry	Ana	0	
+entry	Anabasis	0	
+entry	Anabole	0	
+entry	Anabrochismos ou anabrochismus	0	
 orth	Anabrochismos		
 orth	anabrochismus		
-entry	Anabrosis		
-entry	Anacampseros		
-entry	Anacar		
-entry	Anacardios antidotus theodoretus		
+entry	Anabrosis	0	
+entry	Anacampseros	0	
+entry	Anacar	0	
+entry	Anacardios antidotus theodoretus	1	
 pb	1117-1118	0709	634766
-entry	Anacardium		
+entry	Anacardium	1	
 pb	1119-1120	0710	634767
-entry	Anacatharsis		
-entry	Anacathartica		
+entry	Anacatharsis	0	
+entry	Anacathartica	0	
 pb	1121-1122	0711	634768
-entry	Anacestos		
-entry	Anachmus		
-entry	Anachrempsis		
-entry	Anacinemata		
-entry	Anaclasis		
-entry	Anaclinterium		
-entry	Anaclisis		
-entry	Anaclismos		
-entry	Anacock		
-entry	Anacoeliasmus		
-entry	Anacollema		
-entry	Ana-coluppa		
-entry	Anacomide		
-entry	Anaconchylismos		
-entry	Anacos		
-entry	Anacouphismata		
-entry	Anactorion		
-entry	Anacycleon		
-entry	Anacyriosis		
-entry	Anadendromalache		
-entry	Anadiplosis		
-entry	Anadosis		
-entry	Anadrome		
+entry	Anacestos	0	
+entry	Anachmus	0	
+entry	Anachrempsis	0	
+entry	Anacinemata	0	
+entry	Anaclasis	0	
+entry	Anaclinterium	0	
+entry	Anaclisis	0	
+entry	Anaclismos	0	
+entry	Anacock	0	
+entry	Anacoeliasmus	0	
+entry	Anacollema	0	
+entry	Ana-coluppa	0	
+entry	Anacomide	0	
+entry	Anaconchylismos	0	
+entry	Anacos	0	
+entry	Anacouphismata	0	
+entry	Anactorion	0	
+entry	Anacycleon	0	
+entry	Anacyriosis	0	
+entry	Anadendromalache	0	
+entry	Anadiplosis	0	
+entry	Anadosis	0	
+entry	Anadrome	1	
 pb	1123-1124	0712	634769
-entry	Anaedes		
-entry	Anaedromos		
-entry	Anaesthesia		
-entry	Anagallis		
+entry	Anaedes	0	
+entry	Anaedromos	0	
+entry	Anaesthesia	0	
+entry	Anagallis	1	
 pb	1125-1126	0713	634770
-entry	Anagargalicta		
-entry	Anagargariston		
-entry	Anaglyphe		
-entry	Anagnosis		
-entry	Anagraphe		
-entry	Anagyris		
-entry	Anaides		
-entry	Anaisthesia		
-entry	Analces		
-entry	Analdes		
-entry	Analentia		
-entry	Analepsia		
-entry	Analepsis		
-entry	Analeptica		
+entry	Anagargalicta	0	
+entry	Anagargariston	0	
+entry	Anaglyphe	0	
+entry	Anagnosis	0	
+entry	Anagraphe	0	
+entry	Anagyris	0	
+entry	Anaides	0	
+entry	Anaisthesia	0	
+entry	Analces	0	
+entry	Analdes	0	
+entry	Analentia	0	
+entry	Analepsia	0	
+entry	Analepsis	0	
+entry	Analeptica	1	
 pb	1127-1128	0714	634771
-entry	Analgesia		
-entry	Anallis		
-entry	Analmyros		
-entry	Analogismos		
-entry	Analosis		
-entry	Analthes		
-entry	Analtos		
-entry	Analysis		
+entry	Analgesia	0	
+entry	Anallis	0	
+entry	Analmyros	0	
+entry	Analogismos	0	
+entry	Analosis	0	
+entry	Analthes	0	
+entry	Analtos	0	
+entry	Analysis	20	
 pb	1129-1130	0715	634772
 pb	1131-1132	0716	634773
 pb	1133-1134	0717	634774
@@ -2122,55 +2122,55 @@ pb	1161-1162	0731	634788
 pb	1163-1164	0732	634789
 pb	1165-1166	0733	634790
 pb	1167-1168	0734	634791
-entry	Ana-mallu		
-entry	Anamix		
-entry	Anamnesis		
+entry	Ana-mallu	0	
+entry	Anamix	0	
+entry	Anamnesis	1	
 pb	1169-1170	0735	634792
-entry	Ananas		
-entry	Anance		
-entry	Anandreis		
-entry	Anandroi		
-entry	Ananthocyclus		
-entry	Anapalin		
+entry	Ananas	0	
+entry	Anance	0	
+entry	Anandreis	0	
+entry	Anandroi	0	
+entry	Ananthocyclus	0	
+entry	Anapalin	1	
 pb	1171-1172	0736	634793
-entry	Anapausis		
-entry	Anapetia		
-entry	Anaphalantiasis		
-entry	Anaphonesis		
+entry	Anapausis	0	
+entry	Anapetia	0	
+entry	Anaphalantiasis	0	
+entry	Anaphonesis	1	
 pb	1173-1174	0737	634794
-entry	Anaphora		
-entry	Anaphoricoi		
-entry	Anaphra		
-entry	Anaphrodisia		
-entry	Anaphromeli		
-entry	Anaplasis		
-entry	Anaplerosis		
-entry	Anapleusis		
-entry	Anapneusis		
-entry	Anapodophyllon		
+entry	Anaphora	0	
+entry	Anaphoricoi	0	
+entry	Anaphra	0	
+entry	Anaphrodisia	0	
+entry	Anaphromeli	0	
+entry	Anaplasis	0	
+entry	Anaplerosis	0	
+entry	Anapleusis	0	
+entry	Anapneusis	0	
+entry	Anapodophyllon	1	
 pb	1175-1176	0738	634795
-entry	Anapsyxis		
-entry	Anaristesis		
-entry	Anarrhoea		
-entry	Anarrhopia		
-entry	Anarthroi		
-entry	Anas		
-entry	Anasarca		
+entry	Anapsyxis	0	
+entry	Anaristesis	0	
+entry	Anarrhoea	0	
+entry	Anarrhopia	0	
+entry	Anarthroi	0	
+entry	Anas	0	
+entry	Anasarca	0	
 pb	1177-1178	0739	634796
-entry	Anaspasis		
-entry	Anassutos		
-entry	Anastaltica		
-entry	Anastasis		
-entry	Anastoicheiosis		
-entry	Anastomosis		
-entry	Anastasis		
-entry	Anates		
-entry	Anathlasis		
-entry	Anatrepsis		
-entry	Anathron		
-entry	Anathymiasis		
-entry	Anatica proportio		
-entry	Anatome		
+entry	Anaspasis	0	
+entry	Anassutos	0	
+entry	Anastaltica	0	
+entry	Anastasis	0	
+entry	Anastoicheiosis	0	
+entry	Anastomosis	0	
+entry	Anastasis	0	
+entry	Anates	0	
+entry	Anathlasis	0	
+entry	Anatrepsis	0	
+entry	Anathron	0	
+entry	Anathymiasis	0	
+entry	Anatica proportio	0	
+entry	Anatome	61	
 pb	1179-1180	0740	634797
 pb	1181-1182	0741	634798
 pb	1183-1184	0742	634799
@@ -2232,133 +2232,133 @@ pb	1293-1294	0797	634854
 pb	1295-1296	0798	634855
 pb	1297-1298	0799	634856
 pb	1299-1300	0800	634857
-entry	Anaton		
-entry	Anatresis		
-entry	Anatribe		
-entry	Anatripsis		
-entry	Anatris ou antaris		
+entry	Anaton	0	
+entry	Anatresis	0	
+entry	Anatribe	0	
+entry	Anatripsis	0	
+entry	Anatris ou antaris	0	
 orth	Anatris		
 orth	antaris		
-entry	Anatron ou natron		
+entry	Anatron ou natron	1	
 orth	Anatron		
 orth	natron		
 pb	1301-1302	0801	634858
-entry	Anatrope		
-entry	Anatrum		
-entry	Anatum		
-entry	Anaudos		
-entry	Anavinga		
-entry	Anaxyris		
-entry	Anaxyrides		
-entry	Anblatum		
-entry	Ancha		
-entry	Anchilops		
+entry	Anatrope	0	
+entry	Anatrum	0	
+entry	Anatum	0	
+entry	Anaudos	0	
+entry	Anavinga	0	
+entry	Anaxyris	0	
+entry	Anaxyrides	0	
+entry	Anblatum	0	
+entry	Ancha	0	
+entry	Anchilops	1	
 pb	1303-1304	0802	634859
-entry	Anchoas		
-entry	Anchoralis processus		
-entry	Anchusa		
+entry	Anchoas	0	
+entry	Anchoralis processus	0	
+entry	Anchusa	1	
 pb	1305-1306	0803	634860
-entry	Anchusa lutea		
-entry	Anchyle		
-entry	Anchylops		
-entry	Anchylosis, ou anchyle, ou ancyle, ou ancylosis		
+entry	Anchusa lutea	0	
+entry	Anchyle	0	
+entry	Anchylops	0	
+entry	Anchylosis, ou anchyle, ou ancyle, ou ancylosis	0	
 orth	Anchylosis		
 orth	anchyle		
 orth	ancyle		
 orth	ancylosis		
-entry	Anchynopes		
-entry	Anchyroides		
-entry	Anci		
-entry	Ancinar		
-entry	Ancistron		
-entry	Ancon		
-entry	Anconaeus musculus		
-entry	Ancora		
-entry	Ancoralis		
-entry	Ancosa		
-entry	Ancter		
-entry	Ancubitus		
+entry	Anchynopes	0	
+entry	Anchyroides	0	
+entry	Anci	0	
+entry	Ancinar	0	
+entry	Ancistron	0	
+entry	Ancon	0	
+entry	Anconaeus musculus	0	
+entry	Ancora	0	
+entry	Ancoralis	0	
+entry	Ancosa	0	
+entry	Ancter	0	
+entry	Ancubitus	1	
 pb	1307-1308	0804	634861
-entry	Ancunulentae		
-entry	Ancus		
-entry	Ancyle, ancylosis		
+entry	Ancunulentae	0	
+entry	Ancus	0	
+entry	Ancyle, ancylosis	4	
 orth	Ancyle		
 orth	ancylosis		
 pb	1309-1310	0805	634862
 pb	1311-1312	0806	634863
 pb	1313-1314	0807	634864
 pb	1315-1316	0808	634865
-entry	Ancylidoton		
-entry	Ancyloblepharon		
+entry	Ancylidoton	0	
+entry	Ancyloblepharon	1	
 pb	1317-1318	0809	634866
-entry	Ancyloglossum		
+entry	Ancyloglossum	2	
 pb	1319-1320	0810	634867
 pb	1321-1322	0811	634868
-entry	Ancylomele		
-entry	Ancylosis		
-entry	Ancylotomus, ancylotomum		
+entry	Ancylomele	0	
+entry	Ancylosis	0	
+entry	Ancylotomus, ancylotomum	0	
 orth	Ancylotomus		
 orth	ancylotomum		
-entry	Ancyra		
-entry	Ancyroides processus		
-entry	Ancyromele, ou ancylomele		
+entry	Ancyra	0	
+entry	Ancyroides processus	0	
+entry	Ancyromele, ou ancylomele	0	
 orth	Ancyromele		
 orth	ancylomele		
-entry	Anda		
-entry	Andarac		
-entry	Andas		
-entry	Andena		
-entry	Andira ou angelyn		
+entry	Anda	0	
+entry	Andarac	0	
+entry	Andas	0	
+entry	Andena	0	
+entry	Andira ou angelyn	0	
 orth	Andira		
 orth	angelyn		
-entry	Andira ou andira guacu		
+entry	Andira ou andira guacu	0	
 orth	Andira		
 orth	andira guacu		
-entry	Andrachne		
-entry	Andranatome, ou androtome		
+entry	Andrachne	1	
+entry	Andranatome, ou androtome	0	
 orth	Andranatome		
 orth	androtome		
-entry	Andraphaxis ou andraphax		
+entry	Andraphaxis ou andraphax	0	
 orth	Andraphaxis		
 orth	andraphax		
-entry	Andrapodocapeloi		
+entry	Andrapodocapeloi	1	
 pb	1323-1324	0812	634869
-entry	Andreas		
-entry	Andria		
-entry	Andrius		
-entry	Androgenia		
-entry	Androgyni		
-entry	Andromachus		
+entry	Andreas	0	
+entry	Andria	0	
+entry	Andrius	0	
+entry	Androgenia	0	
+entry	Androgyni	0	
+entry	Andromachus	4	
 pb	1325-1326	0813	634870
 pb	1327-1328	0814	634871
 pb	1329-1330	0815	634872
 pb	1331-1332	0816	634873
-entry	Andromachi antidotus ad calculosos		
-entry	Andronis medicamentum pro cancro		
+entry	Andromachi antidotus ad calculosos	0	
+entry	Andronis medicamentum pro cancro	1	
 pb	1333-1334	0817	634874
-entry	Andronion		
-entry	Androsaces		
-entry	Androsaemum		
-entry	Androtome		
-entry	Anecpyetus		
+entry	Andronion	0	
+entry	Androsaces	0	
+entry	Androsaemum	0	
+entry	Androtome	0	
+entry	Anecpyetus	1	
 pb	1335-1336	0818	634875
-entry	Aneilema		
-entry	Anemone		
+entry	Aneilema	0	
+entry	Anemone	1	
 pb	1337-1338	0819	634876
-entry	Anemonoides.Anemonospermos		
-entry	Anemos		
-entry	Anencephalos		
-entry	Aneos		
-entry	Anepicriton		
-entry	Anerectos		
+entry	Anemonoides.Anemonospermos	0	
+entry	Anemos	0	
+entry	Anencephalos	0	
+entry	Aneos	0	
+entry	Anepicriton	0	
+entry	Anerectos	0	
 pb	1339-1340	0820	634877
-entry	Anesis		
-entry	Anestrammena		
-entry	Anethoxyla		
-entry	Anethum		
+entry	Anesis	0	
+entry	Anestrammena	0	
+entry	Anethoxyla	0	
+entry	Anethum	1	
 pb	1341-1342	0821	634878
-entry	Aneticus		
-entry	Aneurysma		
+entry	Aneticus	0	
+entry	Aneurysma	22	
 pb	1343-1344	0822	634879
 pb	1345-1346	0823	634880
 pb	1347-1348	0824	634881
@@ -2381,25 +2381,25 @@ pb	1379-1380	0840	634897
 pb	1381-1382	0841	634898
 pb	1383-1384	0842	634899
 pb	1385-1386	0843	634900
-entry	Anfaka		
-entry	Anfir-filius		
-entry	Anfirarto-spiritus		
-entry	Angeiologia		
-entry	Angeion		
-entry	Angeiotomia		
+entry	Anfaka	0	
+entry	Anfir-filius	0	
+entry	Anfirarto-spiritus	0	
+entry	Angeiologia	0	
+entry	Angeion	0	
+entry	Angeiotomia	1	
 pb	1387-1388	0844	634901
-entry	Angelica		
+entry	Angelica	1	
 pb	1389-1390	0845	634902
-entry	Angelicus pulvis		
-entry	Angelina zanoni acostae		
+entry	Angelicus pulvis	0	
+entry	Angelina zanoni acostae	1	
 pb	1391-1392	0846	634903
-entry	Angelocalos		
-entry	Angelus		
-entry	Angelyn		
-entry	Angi		
-entry	Angiglossi		
+entry	Angelocalos	0	
+entry	Angelus	0	
+entry	Angelyn	0	
+entry	Angi	0	
+entry	Angiglossi	0	
 pb	1393-1394	0847	634904
-entry	[Explications des planches et planches 1 à 12]		
+entry	[Explications des planches et planches 1 à 12]	0	
 pb	1395-1396	0848	634905
 pb	1397-1398	0849	634906
 pb	1399-1400	0850	634907

@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	471080
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	471081
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	471082
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	471083
-entry	Mamelles		
+entry	Mamelles	115	
 pb	2	0005	471084
 pb	3	0006	471085
 pb	4	0007	471086
@@ -121,9 +121,9 @@ pb	113	0116	471195
 pb	114	0117	471196
 pb	115	0118	471197
 pb	116	0119	471198
-entry	Mandragore		
+entry	Mandragore	1	
 pb	117	0120	471199
-entry	Manie		
+entry	Manie	24	
 pb	118	0121	471200
 pb	119	0122	471201
 pb	120	0123	471202
@@ -148,15 +148,15 @@ pb	138	0141	471220
 pb	139	0142	471221
 pb	140	0143	471222
 pb	141	0144	471223
-entry	Manioc		
-entry	Manne		
+entry	Manioc	0	
+entry	Manne	3	
 pb	142	0145	471224
 pb	143	0146	471225
 pb	144	0147	471226
 pb	145	0148	471227
-entry	Manuluve		
+entry	Manuluve	1	
 pb	146	0149	471228
-entry	Marias		
+entry	Marias	11	
 pb	147	0150	471229
 pb	148	0151	471230
 pb	149	0152	471231
@@ -168,7 +168,7 @@ pb	154	0157	471236
 pb	155	0158	471237
 pb	156	0159	471238
 pb	157	0160	471239
-entry	Mariage		
+entry	Mariage	13	
 pb	158	0161	471240
 pb	159	0162	471241
 pb	160	0163	471242
@@ -182,11 +182,11 @@ pb	167	0170	471249
 pb	168	0171	471250
 pb	169	0172	471251
 pb	170	0173	471252
-entry	Marienbad		
+entry	Marienbad	2	
 pb	171	0174	471253
 pb	172	0175	471254
 pb	173	0176	471255
-entry	Marin		
+entry	Marin	13	
 pb	174	0177	471256
 pb	175	0178	471257
 pb	176	0179	471258
@@ -200,29 +200,29 @@ pb	183	0186	471265
 pb	184	0187	471266
 pb	185	0188	471267
 pb	186	0189	471268
-entry	Marronnier d'inde		
+entry	Marronnier d'inde	2	
 pb	187	0190	471269
 pb	188	0191	471270
-entry	Marrube		
+entry	Marrube	1	
 pb	189	0192	471271
-entry	Marum		
+entry	Marum	0	
 pb	190	0193	471272
-entry	Mastication		
-entry	Masticatoire		
+entry	Mastication	0	
+entry	Masticatoire	2	
 pb	191	0194	471273
 pb	192	0195	471274
-entry	Mastite, Mastodynie		
+entry	Mastite, Mastodynie	0	
 orth	Mastite		
 orth	Mastodynie		
 pb	193	0196	471275
-entry	Masturbation		
-entry	Mastière medicale		
-entry	Matricaire		
-entry	Matrice		
-entry	Mauve		
+entry	Masturbation	0	
+entry	Mastière medicale	0	
+entry	Matricaire	0	
+entry	Matrice	0	
+entry	Mauve	1	
 pb	194	0197	471276
-entry	Maxillaire		
-entry	Medecine		
+entry	Maxillaire	0	
+entry	Medecine	142	
 pb	195	0198	471277
 pb	196	0199	471278
 pb	197	0200	471279
@@ -366,13 +366,13 @@ pb	320-14	0337	471416
 pb	320-15	0338	471417
 pb	320-16	0339	471418
 pb	321	0340	471419
-entry	Médicinier		
+entry	Médicinier	2	
 pb	322	0341	471420
 pb	323	0342	471421
-entry	Melaena		
+entry	Melaena	0	
 pb	324	0343	471422
-entry	Melancolie		
-entry	Melanose		
+entry	Melancolie	0	
+entry	Melanose	31	
 pb	325	0344	471423
 pb	326	0345	471424
 pb	327	0346	471425
@@ -404,12 +404,12 @@ pb	352	0371	471450
 pb	353	0372	471451
 pb	354	0373	471452
 pb	355	0374	471453
-entry	Meliacées		
+entry	Meliacées	1	
 pb	356	0375	471454
-entry	Melilot		
+entry	Melilot	0	
 pb	357	0376	471455
-entry	Melisse		
-entry	Membres		
+entry	Melisse	0	
+entry	Membres	30	
 pb	358	0377	471456
 pb	359	0378	471457
 pb	360	0379	471458
@@ -440,7 +440,7 @@ pb	384	0403	471482
 pb	385	0404	471483
 pb	386	0405	471484
 pb	387	0406	471485
-entry	Meningite		
+entry	Meningite	53	
 pb	388	0407	471486
 pb	389	0408	471487
 pb	390	0409	471488
@@ -494,7 +494,7 @@ pb	437	0456	471535
 pb	438	0457	471536
 pb	439	0458	471537
 pb	440	0459	471538
-entry	Menstruation		
+entry	Menstruation	40	
 pb	441	0460	471539
 pb	442	0461	471540
 pb	443	0462	471541
@@ -535,12 +535,12 @@ pb	477	0496	471575
 pb	478	0497	471576
 pb	479	0498	471577
 pb	480	0499	471578
-entry	Mentagre		
-entry	Menthe		
+entry	Mentagre	0	
+entry	Menthe	2	
 pb	481	0500	471579
 pb	482	0501	471580
-entry	Menyanthe		
-entry	Méphitisme		
+entry	Menyanthe	0	
+entry	Méphitisme	46	
 pb	483	0502	471581
 pb	484	0503	471582
 pb	485	0504	471583
@@ -587,7 +587,7 @@ pb	525	0544	471623
 pb	526	0545	471624
 pb	527	0546	471625
 pb	528	0547	471626
-entry	Mer		
+entry	Mer	20	
 pb	529	0548	471627
 pb	530	0549	471628
 pb	531	0550	471629
@@ -609,7 +609,7 @@ pb	546	0565	471644
 pb	547	0566	471645
 pb	548	0567	471646
 pb	549	0568	471647
-entry	Mercure et Mercuriaux		
+entry	Mercure et Mercuriaux	51	
 orth	Mercure		
 orth	Mercuriaux		
 pb	550	0569	471648
@@ -664,8 +664,8 @@ pb	598	0617	471696
 pb	599	0618	471697
 pb	600	0619	471698
 pb	601	0620	471699
-entry	Mercuriale		
-entry	Mesures sanitaires		
+entry	Mercuriale	0	
+entry	Mesures sanitaires	23	
 pb	602	0621	471700
 pb	603	0622	471701
 pb	604	0623	471702
@@ -689,16 +689,16 @@ pb	621	0640	471719
 pb	622	0641	471720
 pb	623	0642	471721
 pb	624	0643	471722
-entry	Metastase		
+entry	Metastase	1	
 pb	625	0644	471723
-entry	Méteorologie		
+entry	Méteorologie	5	
 pb	626	0645	471724
 pb	627	0646	471725
 pb	628	0647	471726
 pb	629	0648	471727
 pb	630	0649	471728
 pb	631	0650	471729
-entry	Métrorrhagie		
+entry	Métrorrhagie	52	
 pb	632	0651	471730
 pb	633	0652	471731
 pb	634	0653	471732
@@ -752,7 +752,7 @@ pb	681	0700	471779
 pb	682	0701	471780
 pb	683	0702	471781
 pb	[s. pag.]	0703	471782
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0704	471783
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	688	0705	471784

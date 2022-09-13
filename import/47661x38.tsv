@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	5556672
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556673
 pb	[s. pag.]	0003	424078
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556674
 pb	1	0005	424079
-entry	oreille		
+entry	oreille	128	
 pb	2	0006	424080
 pb	3	0007	424081
 pb	4	0008	424082
@@ -134,8 +134,8 @@ pb	126	0130	424204
 pb	127	0131	424205
 pb	128	0132	424206
 pb	129	0133	424207
-entry	oreillette		
-entry	oreillon		
+entry	oreillette	0	
+entry	oreillon	8	
 pb	130	0134	424208
 pb	131	0135	424209
 pb	132	0136	424210
@@ -144,8 +144,8 @@ pb	134	0138	424212
 pb	135	0139	424213
 pb	136	0140	424214
 pb	137	0141	424215
-entry	orembourg (gomme d')		
-entry	organe		
+entry	orembourg (gomme d')	0	
+entry	organe	68	
 pb	138	0142	424216
 pb	139	0143	424217
 pb	140	0144	424218
@@ -214,7 +214,7 @@ pb	202	0206	424280
 pb	203	0207	424281
 pb	204	0208	424282
 pb	205	0209	424283
-entry	organisation		
+entry	organisation	30	
 pb	206	0210	424284
 pb	207	0211	424285
 pb	208	0212	424286
@@ -245,7 +245,7 @@ pb	232	0236	424310
 pb	233	0237	424311
 pb	234	0238	424312
 pb	235	0239	424313
-entry	organisés (corps)		
+entry	organisés (corps)	14	
 pb	236	0240	424314
 pb	237	0241	424315
 pb	238	0242	424316
@@ -260,13 +260,13 @@ pb	246	0250	424324
 pb	247	0251	424325
 pb	248	0252	424326
 pb	249	0253	424327
-entry	organisme		
+entry	organisme	5	
 pb	250	0254	424328
 pb	251	0255	424329
 pb	252	0256	424330
 pb	253	0257	424331
 pb	254	0258	424332
-entry	organoscopie		
+entry	organoscopie	15	
 pb	255	0259	424333
 pb	256	0260	424334
 pb	257	0261	424335
@@ -282,46 +282,46 @@ pb	266	0270	424344
 pb	267	0271	424345
 pb	268	0272	424346
 pb	269	0273	424347
-entry	orgasme		
-entry	orge		
+entry	orgasme	0	
+entry	orge	4	
 pb	270	0274	424348
 pb	271	0275	424349
 pb	272	0276	424350
 pb	273	0277	424351
-entry	orgeat (sirop d')		
+entry	orgeat (sirop d')	1	
 pb	274	0278	424352
-entry	orgeolet		
+entry	orgeolet	3	
 pb	275	0279	424353
 pb	276	0280	424354
 pb	277	0281	424355
-entry	oriculaire		
-entry	oricule		
-entry	orifice		
-entry	origan		
+entry	oriculaire	0	
+entry	oricule	0	
+entry	orifice	0	
+entry	origan	1	
 pb	278	0282	424356
-entry	orléans (eaux minérales d')		
+entry	orléans (eaux minérales d')	1	
 pb	279	0283	424357
-entry	orliénas (eaux minérales d')		
-entry	orme		
+entry	orliénas (eaux minérales d')	0	
+entry	orme	1	
 pb	280	0284	424358
-entry	ornithogale		
+entry	ornithogale	1	
 pb	281	0285	424359
-entry	ornithope		
-entry	ornus		
-entry	orobanche		
+entry	ornithope	0	
+entry	ornus	0	
+entry	orobanche	0	
 pb	282	0286	424360
-entry	orobanchées		
-entry	orobe		
+entry	orobanchées	0	
+entry	orobe	1	
 pb	283	0287	424361
-entry	oronge		
+entry	oronge	2	
 pb	284	0288	424362
 pb	285	0289	424363
-entry	orpiment		
+entry	orpiment	1	
 pb	286	0290	424364
-entry	orpin		
+entry	orpin	1	
 pb	287	0291	424365
-entry	orseille		
-entry	orteil		
+entry	orseille	0	
+entry	orteil	7	
 pb	288	0292	424366
 pb	289	0293	424367
 pb	290	0294	424368
@@ -329,9 +329,9 @@ pb	291	0295	424369
 pb	292	0296	424370
 pb	293	0297	424371
 pb	294	0298	424372
-entry	ortez (eaux minérales d')		
+entry	ortez (eaux minérales d')	1	
 pb	295	0299	424373
-entry	orthopédie		
+entry	orthopédie	33	
 pb	296	0300	424374
 pb	297	0301	424375
 pb	298	0302	424376
@@ -367,12 +367,12 @@ pb	327	0331	424405
 pb	328	0332	424406
 pb	[s. pag.]	0333	5556675
 pb	[s. pag.]	0334	424407
-entry	orthopédie : planche I		
+entry	orthopédie : planche I	0	
 pb	[s. pag.]	0335	424408
-entry	orthopédie : explication de la planche I		
+entry	orthopédie : explication de la planche I	0	
 pb	[s. pag.]	0336	5556676
 pb	329	0337	424409
-entry	orthopédie		
+entry	orthopédie	13	
 pb	330	0338	424410
 pb	331	0339	424411
 pb	332	0340	424412
@@ -387,24 +387,24 @@ pb	340	0348	424420
 pb	341	0349	424421
 pb	342	0350	424422
 pb	[s. pag.]	0351	424423
-entry	orthopédie : planche II		
+entry	orthopédie : planche II	0	
 pb	[s. pag.]	0352	5556677
 pb	[s. pag.]	0353	424424
-entry	orthopédie : explication de la planche II		
+entry	orthopédie : explication de la planche II	2	
 pb	[s. pag.]	0354	424425
 pb	[s. pag.]	0355	424426
 pb	[s. pag.]	0356	5556678
 pb	343	0357	424427
-entry	orthopédie		
+entry	orthopédie	1	
 pb	344	0358	424428
 pb	[s. pag.]	0359	424429
-entry	orthopédie : planche III		
+entry	orthopédie : planche III	0	
 pb	[s. pag.]	0360	5556679
 pb	[s. pag.]	0361	424430
-entry	orthopédie : explication de la planche III		
+entry	orthopédie : explication de la planche III	0	
 pb	[s. pag.]	0362	5556680
 pb	345	0363	424431
-entry	orthopédie		
+entry	orthopédie	10	
 pb	346	0364	424432
 pb	347	0365	424433
 pb	348	0366	424434
@@ -415,19 +415,19 @@ pb	352	0370	424438
 pb	353	0371	424439
 pb	354	0372	424440
 pb	355	0373	424441
-entry	orthopnée		
+entry	orthopnée	1	
 pb	356	0374	424442
-entry	ortie		
+entry	ortie	4	
 pb	357	0375	424443
 pb	358	0376	424444
 pb	359	0377	424445
 pb	360	0378	424446
-entry	ortiée		
-entry	orvale		
+entry	ortiée	0	
+entry	orvale	1	
 pb	361	0379	424447
-entry	orviétan		
+entry	orviétan	1	
 pb	362	0380	424448
-entry	os		
+entry	os	15	
 pb	363	0381	424449
 pb	364	0382	424450
 pb	365	0383	424451
@@ -443,30 +443,30 @@ pb	374	0392	424460
 pb	375	0393	424461
 pb	376	0394	424462
 pb	377	0395	424463
-entry	oschéo - chalasie		
-entry	oscitant		
-entry	osculation		
+entry	oschéo - chalasie	0	
+entry	oscitant	0	
+entry	osculation	2	
 pb	378	0396	424464
 pb	379	0397	424465
-entry	oseille		
+entry	oseille	2	
 pb	380	0398	424466
 pb	381	0399	424467
-entry	osmazome		
+entry	osmazome	2	
 pb	382	0400	424468
 pb	383	0401	424469
-entry	osmite		
-entry	osmium		
-entry	osmonde royale		
+entry	osmite	0	
+entry	osmium	0	
+entry	osmonde royale	2	
 pb	384	0402	424470
 pb	385	0403	424471
-entry	osselet		
-entry	osseux		
+entry	osselet	0	
+entry	osseux	5	
 pb	386	0404	424472
 pb	387	0405	424473
 pb	388	0406	424474
 pb	389	0407	424475
 pb	390	0408	424476
-entry	ossification (anatomie pathologique)		
+entry	ossification (anatomie pathologique)	48	
 pb	391	0409	424477
 pb	392	0410	424478
 pb	393	0411	424479
@@ -515,7 +515,7 @@ pb	435	0453	424521
 pb	436	0454	424522
 pb	437	0455	424523
 pb	438	0456	424524
-entry	osteocope		
+entry	osteocope	46	
 pb	439	0457	424525
 pb	440	0458	424526
 pb	441	0459	424527
@@ -562,16 +562,16 @@ pb	481	0499	424567
 pb	482	0500	424568
 pb	483	0501	424569
 pb	484	0502	424570
-entry	ostéographie		
+entry	ostéographie	2	
 pb	485	0503	424571
 pb	486	0504	424572
-entry	ostéologie		
+entry	ostéologie	5	
 pb	487	0505	424573
 pb	488	0506	424574
 pb	489	0507	424575
 pb	490	0508	424576
 pb	491	0509	424577
-entry	ostéomalaxie		
+entry	ostéomalaxie	8	
 pb	492	0510	424578
 pb	493	0511	424579
 pb	494	0512	424580
@@ -580,16 +580,16 @@ pb	496	0514	424582
 pb	497	0515	424583
 pb	498	0516	424584
 pb	499	0517	424585
-entry	ostéosarcome		
+entry	ostéosarcome	3	
 pb	500	0518	424586
 pb	501	0519	424587
 pb	502	0520	424588
-entry	ostéosarcose		
-entry	ostéose		
-entry	ostéosteatome		
+entry	ostéosarcose	0	
+entry	ostéose	0	
+entry	ostéosteatome	1	
 pb	503	0521	424589
-entry	otacoustique		
-entry	otalgie		
+entry	otacoustique	0	
+entry	otalgie	7	
 pb	504	0522	424590
 pb	505	0523	424591
 pb	506	0524	424592
@@ -597,9 +597,9 @@ pb	507	0525	424593
 pb	508	0526	424594
 pb	509	0527	424595
 pb	510	0528	424596
-entry	otenchyte		
+entry	otenchyte	1	
 pb	511	0529	424597
-entry	otite		
+entry	otite	11	
 pb	512	0530	424598
 pb	513	0531	424599
 pb	514	0532	424600
@@ -611,7 +611,7 @@ pb	519	0537	424605
 pb	520	0538	424606
 pb	521	0539	424607
 pb	522	0540	424608
-entry	otorrhée		
+entry	otorrhée	18	
 pb	523	0541	424609
 pb	524	0542	424610
 pb	525	0543	424611
@@ -630,8 +630,8 @@ pb	537	0555	424623
 pb	538	0556	424624
 pb	539	0557	424625
 pb	540	0558	424626
-entry	oubli		
-entry	ouïe		
+entry	oubli	0	
+entry	ouïe	7	
 pb	541	0559	424627
 pb	542	0560	424628
 pb	543	0561	424629
@@ -639,21 +639,21 @@ pb	544	0562	424630
 pb	545	0563	424631
 pb	546	0564	424632
 pb	547	0565	424633
-entry	ouraque		
+entry	ouraque	5	
 pb	548	0566	424634
 pb	549	0567	424635
 pb	550	0568	424636
 pb	551	0569	424637
 pb	552	0570	424638
-entry	ouverture (cadavérique)		
+entry	ouverture (cadavérique)	0	
 pb	[s. pag.]	0571	5556681
 pb	[s. pag.]	0572	424639
-entry	ouverture cadavérique : explication de la planche		
+entry	ouverture cadavérique : explication de la planche	0	
 pb	[s. pag.]	0573	424640
-entry	ouverture cadavérique : planche		
+entry	ouverture cadavérique : planche	0	
 pb	[s. pag.]	0574	5556682
 pb	553	0575	424641
-entry	ouverture (cadavérique)		
+entry	ouverture (cadavérique)	15	
 pb	554	0576	424642
 pb	555	0577	424643
 pb	556	0578	424644
@@ -669,4 +669,4 @@ pb	565	0587	424653
 pb	566	0588	424654
 pb	567	0589	424655
 pb	568	0590	424656
-entry	ouvriers (maladie des)		
+entry	ouvriers (maladie des)	0	

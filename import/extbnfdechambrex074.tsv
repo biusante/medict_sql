@@ -1,14 +1,14 @@
 pb	[s. pag.]	0001	4575587
 pb	[s. pag.]	0002	4575588
 pb	[s. pag.]	0003	4575589
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0004	4575590
 pb	[s. pag.]	0005	4575591
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0006	4575592
 pb	1	0007	4575593
-entry	Peau		
-entry	Peau. Anatomie [Ch. Robin, Ed. Retterer]		
+entry	Peau	0	
+entry	Peau. Anatomie [Ch. Robin, Ed. Retterer]	77	
 orth	Peau. Anatomie		
 pb	2	0008	4575594
 pb	3	0009	4575595
@@ -88,15 +88,15 @@ pb	76	0082	4575668
 pb	77	0083	4575669
 pb	78	0084	4575670
 pb	79	0085	4575671
-entry	Peau. Anatomie [Ch. Robin, Ed. Retterer] [L. Hahn]		
+entry	Peau. Anatomie [Ch. Robin, Ed. Retterer] [L. Hahn]	4	
 orth	Peau. Anatomie		
 pb	80	0086	4575672
 pb	81	0087	4575673
 pb	82	0088	4575674
 pb	83	0089	4575675
 pb	84	0090	4575676
-entry	Peau		
-entry	Peau. Développement [E. Masse]		
+entry	Peau	0	
+entry	Peau. Développement [E. Masse]	9	
 orth	Peau. Développement		
 pb	85	0091	4575677
 pb	86	0092	4575678
@@ -107,7 +107,7 @@ pb	90	0096	4575682
 pb	91	0097	4575683
 pb	92	0098	4575684
 pb	93	0099	4575685
-entry	Peau. Physiologie [E. Masse]		
+entry	Peau. Physiologie [E. Masse]	26	
 orth	Peau. Physiologie		
 pb	94	0100	4575686
 pb	95	0101	4575687
@@ -136,9 +136,9 @@ pb	117	0123	4575709
 pb	118	0124	4575710
 pb	119	0125	4575711
 pb	120	0126	4575712
-entry	Peau. Physiologie [E. Massse]		
+entry	Peau. Physiologie [E. Massse]	0	
 orth	Peau. Physiologie		
-entry	Peau. Pathologie [E. Masse]		
+entry	Peau. Pathologie [E. Masse]	39	
 orth	Peau. Pathologie		
 pb	121	0127	4575713
 pb	122	0128	4575714
@@ -180,7 +180,7 @@ pb	157	0163	4575749
 pb	158	0164	4575750
 pb	159	0165	4575751
 pb	160	0166	4575752
-entry	Peau. Pathologie [E. Masse] [L. Hahn]		
+entry	Peau. Pathologie [E. Masse] [L. Hahn]	6	
 orth	Peau. Pathologie		
 pb	161	0167	4575753
 pb	162	0168	4575754
@@ -188,13 +188,13 @@ pb	163	0169	4575755
 pb	164	0170	4575756
 pb	165	0171	4575757
 pb	166	0172	4575758
-entry	Peau. Anthropologie [G. Carlet]		
+entry	Peau. Anthropologie [G. Carlet]	4	
 orth	Peau. Anthropologie		
 pb	167	0173	4575759
 pb	168	0174	4575760
 pb	169	0175	4575761
 pb	170	0176	4575762
-entry	Peau. Hygiène professionnelle et industrielle [Alexandre Layet]		
+entry	Peau. Hygiène professionnelle et industrielle [Alexandre Layet]	18	
 orth	Peau. Hygiène professionnelle et industrielle		
 pb	171	0177	4575763
 pb	172	0178	4575764
@@ -214,76 +214,76 @@ pb	185	0191	4575777
 pb	186	0192	4575778
 pb	187	0193	4575779
 pb	188	0194	4575780
-entry	Peau de Goulard [Amédée Dechambre]		
+entry	Peau de Goulard [Amédée Dechambre]	0	
 orth	Peau de Goulard		
-entry	Peau divine [Amédée Dechambre]		
+entry	Peau divine [Amédée Dechambre]	0	
 orth	Peau divine		
 pb	189	0195	4575781
-entry	Peauciers en général [J. Aubry]		
+entry	Peauciers en général [J. Aubry]	0	
 orth	Peauciers en général		
-entry	Peauciers du cou [J. Aubry]		
+entry	Peauciers du cou [J. Aubry]	1	
 orth	Peauciers du cou		
 pb	190	0196	4575782
-entry	Pébrine [A. Laboulbène]		
+entry	Pébrine [A. Laboulbène]	5	
 orth	Pébrine		
 pb	191	0197	4575783
 pb	192	0198	4575784
 pb	193	0199	4575785
 pb	194	0200	4575786
 pb	195	0201	4575787
-entry	Pécari [E. Oustalet]		
+entry	Pécari [E. Oustalet]	1	
 orth	Pécari		
 pb	196	0202	4575788
-entry	Peccante (Matière) [Amédée Dechambre]		
+entry	Peccante (Matière) [Amédée Dechambre]	0	
 orth	Peccante (Matière)		
-entry	Pech (Ernest-August) [L. Hahn]		
+entry	Pech (Ernest-August) [L. Hahn]	0	
 orth	Pech (Ernest-August)		
 pb	197	0203	4575789
-entry	Pêcher		
-entry	Botanique [H. Baillon]		
+entry	Pêcher	0	
+entry	Botanique [H. Baillon]	0	
 orth	Botanique		
-entry	Emploi médical [Ernest Labbée]		
+entry	Emploi médical [Ernest Labbée]	0	
 orth	Emploi médical		
 pb	198	0204	4575790
-entry	Pêcher		
-entry	Pêcher. Emploi médical [Ernest Labbée]		
+entry	Pêcher	0	
+entry	Pêcher. Emploi médical [Ernest Labbée]	2	
 orth	Pêcher. Emploi médical		
 pb	199	0205	4575791
 pb	200	0206	4575792
 pb	201	0207	4575793
-entry	Pecherais (Les)		
+entry	Pecherais (Les)	0	
 ref	Fuégiens		
 ref	Amérique		
-entry	Pechlin (Jean-Nicolas) [L. Hahn]		
+entry	Pechlin (Jean-Nicolas) [L. Hahn]	0	
 orth	Pechlin (Jean-Nicolas)		
-entry	Péchurim		
+entry	Péchurim	0	
 ref	Pitchurim (Fève)		
-entry	Pécilopodes [Amédée Dechambre]		
+entry	Pécilopodes [Amédée Dechambre]	0	
 orth	Pécilopodes		
-entry	Péclet (Jean-Claude-Eugène) [A. Chéreau]		
+entry	Péclet (Jean-Claude-Eugène) [A. Chéreau]	1	
 orth	Péclet (Jean-Claude-Eugène)		
 pb	202	0208	4575794
-entry	Pecquet (Jean) [A. Chéreau]		
+entry	Pecquet (Jean) [A. Chéreau]	0	
 orth	Pecquet (Jean)		
-entry	Pectase [C. Lutz]		
+entry	Pectase [C. Lutz]	1	
 orth	Pectase		
 pb	203	0209	4575795
-entry	Pecten Veneris [E. Lefèvre]		
+entry	Pecten Veneris [E. Lefèvre]	0	
 orth	Pecten Veneris		
-entry	Pectine [C. Lutz]		
+entry	Pectine [C. Lutz]	0	
 orth	Pectine		
-entry	Pectiné (Muscle) [J. Aubry]		
+entry	Pectiné (Muscle) [J. Aubry]	1	
 orth	Pectiné (Muscle)		
 pb	204	0210	4575796
-entry	Pectique (Acide) [C. Lutz]		
+entry	Pectique (Acide) [C. Lutz]	0	
 orth	Pectique (Acide)		
-entry	Pectoraux (Muscles) [J. Aubry]		
+entry	Pectoraux (Muscles) [J. Aubry]	2	
 orth	Pectoraux (Muscles)		
 pb	205	0211	4575797
 pb	206	0212	4575798
-entry	Pectoraux (Médicaments) [Amédée Dechambre]		
+entry	Pectoraux (Médicaments) [Amédée Dechambre]	0	
 orth	Pectoraux (Médicaments)		
-entry	Pectoriloquie [Henri Barth]		
+entry	Pectoriloquie [Henri Barth]	5	
 orth	Pectoriloquie		
 pb	207	0213	4575799
 pb	208	0214	4575800
@@ -291,11 +291,11 @@ pb	209	0215	4575801
 pb	210	0216	4575802
 pb	211	0217	4575803
 pb	212	0218	4575804
-entry	Pectose [C. Lutz]		
+entry	Pectose [C. Lutz]	0	
 orth	Pectose		
-entry	Pectosique (Acide) [C. Lutz]		
+entry	Pectosique (Acide) [C. Lutz]	0	
 orth	Pectosique (Acide)		
-entry	Pédagogique (Hygiène) [Alexandre Layet]		
+entry	Pédagogique (Hygiène) [Alexandre Layet]	26	
 orth	Pédagogique (Hygiène)		
 pb	213	0219	4575805
 pb	214	0220	4575806
@@ -323,16 +323,16 @@ pb	235	0241	4575827
 pb	236	0242	4575828
 pb	237	0243	4575829
 pb	238	0244	4575830
-entry	Pedalium (L.) [H. Baillon]		
+entry	Pedalium (L.) [H. Baillon]	1	
 orth	Pedalium (L.)		
 pb	239	0245	4575831
-entry	Pédane ou Pet d'âne [G. Planchon]		
+entry	Pédane ou Pet d'âne [G. Planchon]	0	
 orth	Pédane ou Pet d'âne		
-entry	Pédarthrocace [Amédée Dechambre]		
+entry	Pédarthrocace [Amédée Dechambre]	0	
 orth	Pédarthrocace		
-entry	Pedda-Gallikara [G. Planchon]		
+entry	Pedda-Gallikara [G. Planchon]	0	
 orth	Pedda-Gallikara		
-entry	Pédérastie [A. Lacassagne]		
+entry	Pédérastie [A. Lacassagne]	20	
 orth	Pédérastie		
 pb	240	0246	4575832
 pb	241	0247	4575833
@@ -354,88 +354,88 @@ pb	256	0262	4575848
 pb	257	0263	4575849
 pb	258	0264	4575850
 pb	259	0265	4575851
-entry	Pédicelline [Ed. Lefèvre]		
+entry	Pédicelline [Ed. Lefèvre]	1	
 orth	Pédicelline		
 pb	260	0266	4575852
-entry	Pedicino (Nicolao-Antonio) [L. Hahn]		
+entry	Pedicino (Nicolao-Antonio) [L. Hahn]	0	
 orth	Pedicino (Nicolao-Antonio)		
-entry	Pédiculaires (Maladies)		
+entry	Pédiculaires (Maladies)	0	
 ref	Phthiriase		
-entry	Pédiculaire [G. Planchon]		
+entry	Pédiculaire [G. Planchon]	1	
 orth	Pédiculaire		
 pb	261	0267	4575853
-entry	Pédiculariées [G. Planchon]		
+entry	Pédiculariées [G. Planchon]	0	
 orth	Pédiculariées		
-entry	Pédieuse (Artère) [Amédée Dechambre]		
+entry	Pédieuse (Artère) [Amédée Dechambre]	0	
 orth	Pédieuse (Artère)		
-entry	Pédieux (Muscle) [Amédée Dechambre]		
+entry	Pédieux (Muscle) [Amédée Dechambre]	0	
 orth	Pédieux (Muscle)		
-entry	Pédilanthus [H. Baillon]		
+entry	Pédilanthus [H. Baillon]	1	
 orth	Pédilanthus		
 pb	262	0268	4575854
-entry	Pédiluve [Amédée Dechambre]		
+entry	Pédiluve [Amédée Dechambre]	1	
 orth	Pédiluve		
 pb	263	0269	4575855
-entry	Pédionalgie [L. Thomas]		
+entry	Pédionalgie [L. Thomas]	4	
 orth	Pédionalgie		
 pb	264	0270	4575856
 pb	265	0271	4575857
 pb	266	0272	4575858
 pb	267	0273	4575859
-entry	Pédiveau [G. Planchon]		
+entry	Pédiveau [G. Planchon]	0	
 orth	Pédiveau		
-entry	Pédoncule [Amédée Dechambre]		
+entry	Pédoncule [Amédée Dechambre]	1	
 orth	Pédoncule		
 pb	268	0274	4575860
-entry	Pédorilla [G. Planchon]		
+entry	Pédorilla [G. Planchon]	0	
 orth	Pédorilla		
-entry	Pedraza y Castilla (Juan de) [L. Hahn]		
+entry	Pedraza y Castilla (Juan de) [L. Hahn]	0	
 orth	Pedraza y Castilla (Juan de)		
-entry	Pedrosa (Luis-Rodriguez de) [L. Hahn]		
+entry	Pedrosa (Luis-Rodriguez de) [L. Hahn]	1	
 orth	Pedrosa (Luis-Rodriguez de)		
 pb	269	0275	4575861
-entry	Pée [G. Planchon]		
+entry	Pée [G. Planchon]	0	
 orth	Pée		
-entry	Pée-Ambalam [G. Planchon]		
+entry	Pée-Ambalam [G. Planchon]	0	
 orth	Pée-Ambalam		
-entry	Pée de Morto [G. Planchon]		
+entry	Pée de Morto [G. Planchon]	0	
 orth	Pée de Morto		
-entry	Pée Kadel [G. Planchon]		
+entry	Pée Kadel [G. Planchon]	0	
 orth	Pée Kadel		
-entry	Pée Tumba [G. Planchon]		
+entry	Pée Tumba [G. Planchon]	0	
 orth	Pée Tumba		
-entry	Péea-Rach-Éliou [G. Planchon]		
+entry	Péea-Rach-Éliou [G. Planchon]	0	
 orth	Péea-Rach-Éliou		
-entry	Peearanga [G. Planchon]		
+entry	Peearanga [G. Planchon]	0	
 orth	Peearanga		
-entry	Peepla Mool [Amédée Dechambre]		
+entry	Peepla Mool [Amédée Dechambre]	0	
 orth	Peepla Mool		
-entry	Peez (August-Heinrich) [L. Hahn]		
+entry	Peez (August-Heinrich) [L. Hahn]	0	
 orth	Peez (August-Heinrich)		
 pb	270	0276	4575862
-entry	Pefaulina [G. Planchon]		
+entry	Pefaulina [G. Planchon]	0	
 orth	Pefaulina		
-entry	Pegajosa [G. Planchon]		
+entry	Pegajosa [G. Planchon]	0	
 orth	Pegajosa		
-entry	Peganelon [G. Planchon]		
+entry	Peganelon [G. Planchon]	0	
 orth	Peganelon		
-entry	Peganum [H. Baillon]		
+entry	Peganum [H. Baillon]	1	
 orth	Peganum		
 pb	271	0277	4575863
-entry	Pégase [H.-E. Sauvage]		
+entry	Pégase [H.-E. Sauvage]	0	
 orth	Pégase		
-entry	Pegrina [G. Planchon]		
+entry	Pegrina [G. Planchon]	0	
 orth	Pegrina		
-entry	Pehuanches (Les)		
+entry	Pehuanches (Les)	0	
 ref	Chili		
-entry	Peice [G. Planchon]		
+entry	Peice [G. Planchon]	0	
 orth	Peice		
 pb	272	0278	4575864
-entry	Peigne [Ed. Lefèvre]		
+entry	Peigne [Ed. Lefèvre]	0	
 orth	Peigne		
-entry	Peigne de Vénus [H. Baillon]		
+entry	Peigne de Vénus [H. Baillon]	0	
 orth	Peigne de Vénus		
-entry	Peintres (Hygiène professionnelle) [L. Hahn]		
+entry	Peintres (Hygiène professionnelle) [L. Hahn]	10	
 orth	Peintres (Hygiène professionnelle)		
 pb	273	0279	4575865
 pb	274	0280	4575866
@@ -447,16 +447,16 @@ pb	279	0285	4575871
 pb	280	0286	4575872
 pb	281	0287	4575873
 pb	282	0288	4575874
-entry	Peisse (Louis-Hippolyte) [A. Chéreau, L. Hahn]		
+entry	Peisse (Louis-Hippolyte) [A. Chéreau, L. Hahn]	1	
 orth	Peisse (Louis-Hippolyte)		
 pb	283	0289	4575875
-entry	Pekao [G. Planchon]		
+entry	Pekao [G. Planchon]	0	
 orth	Pekao		
-entry	Pekia [G. Planchon]		
+entry	Pekia [G. Planchon]	0	
 orth	Pekia		
-entry	Pela [G. Planchon]		
+entry	Pela [G. Planchon]	0	
 orth	Pela		
-entry	Pelade [E. Chambard]		
+entry	Pelade [E. Chambard]	15	
 orth	Pelade		
 pb	284	0290	4575876
 pb	285	0291	4575877
@@ -473,51 +473,51 @@ pb	295	0301	4575887
 pb	296	0302	4575888
 pb	297	0303	4575889
 pb	298	0304	4575890
-entry	Pélagie [Ed. Lefèvre]		
+entry	Pélagie [Ed. Lefèvre]	1	
 orth	Pélagie		
 pb	299	0305	4575891
-entry	Pélamyde [H.-E. Sauvage]		
+entry	Pélamyde [H.-E. Sauvage]	0	
 orth	Pélamyde		
-entry	Pélargonate [Amédée Dechambre]		
+entry	Pélargonate [Amédée Dechambre]	0	
 orth	Pélargonate		
-entry	Pélargone [Amédée Dechambre]		
+entry	Pélargone [Amédée Dechambre]	0	
 orth	Pélargone		
-entry	Pélargonique (Acide) [Amédée Dechambre]		
+entry	Pélargonique (Acide) [Amédée Dechambre]	0	
 orth	Pélargonique (Acide)		
 pb	300	0306	4575892
-entry	Pelargonium (Lhér.) [H. Baillon]		
+entry	Pelargonium (Lhér.) [H. Baillon]	4	
 orth	Pelargonium (Lhér.)		
 pb	301	0307	4575893
 pb	302	0308	4575894
 pb	303	0309	4575895
 pb	304	0310	4575896
-entry	Pélargyle [Amédée Dechambre]		
+entry	Pélargyle [Amédée Dechambre]	0	
 orth	Pélargyle		
-entry	Pelarino (Jacob) [L. Hahn]		
+entry	Pelarino (Jacob) [L. Hahn]	0	
 orth	Pelarino (Jacob)		
-entry	Pélasges		
+entry	Pélasges	0	
 ref	Grèce		
-entry	Pélegrine [G. Planchon]		
+entry	Pélegrine [G. Planchon]	0	
 orth	Pélegrine		
-entry	Peletier (Jacques) [A. Chéreau]		
+entry	Peletier (Jacques) [A. Chéreau]	1	
 orth	Peletier (Jacques)		
 pb	305	0311	4575897
-entry	Péliade [H.-E. Sauvage]		
+entry	Péliade [H.-E. Sauvage]	0	
 orth	Péliade		
-entry	Pélican [E. Oustalet]		
+entry	Pélican [E. Oustalet]	4	
 orth	Pélican		
 pb	306	0312	4575898
 pb	307	0313	4575899
 pb	308	0314	4575900
 pb	309	0315	4575901
-entry	Pelikan (Eugen) [L. Hahn]		
+entry	Pelikan (Eugen) [L. Hahn]	0	
 orth	Pelikan (Eugen)		
-entry	Péliose [Amédée Dechambre]		
+entry	Péliose [Amédée Dechambre]	0	
 orth	Péliose		
-entry	Pelisson (Jacob-Philipp) [L. Hahn]		
+entry	Pelisson (Jacob-Philipp) [L. Hahn]	1	
 orth	Pelisson (Jacob-Philipp)		
 pb	310	0316	4575902
-entry	Pellagre [Jules Arnould]		
+entry	Pellagre [Jules Arnould]	82	
 orth	Pellagre		
 pb	311	0317	4575903
 pb	312	0318	4575904
@@ -601,86 +601,86 @@ pb	389	0395	4575981
 pb	390	0396	4575982
 pb	391	0397	4575983
 pb	392	0398	4575984
-entry	Pellaz y Espinosa (Manuel) [L. Hahn]		
+entry	Pellaz y Espinosa (Manuel) [L. Hahn]	0	
 orth	Pellaz y Espinosa (Manuel)		
-entry	Pelletan (Les) [A. Chéreau, L. Hahn]		
+entry	Pelletan (Les) [A. Chéreau, L. Hahn]	3	
 orth	Pelletan (Les)		
 pb	393	0399	4575985
 pb	394	0400	4575986
 pb	395	0401	4575987
-entry	Pelletan (Gabriel) [L. Hahn]		
+entry	Pelletan (Gabriel) [L. Hahn]	0	
 orth	Pelletan (Gabriel)		
-entry	Pelletan de Kinkelin (Jules) [L. Hahn]		
+entry	Pelletan de Kinkelin (Jules) [L. Hahn]	0	
 orth	Pelletan de Kinkelin (Jules)		
-entry	Pelletier (Les) [L. Hahn]		
+entry	Pelletier (Les) [L. Hahn]	2	
 orth	Pelletier (Les)		
 pb	396	0402	4575988
 pb	397	0403	4575989
-entry	Pelletiérine		
-entry	Pelletiérine. Chimie [C. Lutz]		
+entry	Pelletiérine	0	
+entry	Pelletiérine. Chimie [C. Lutz]	1	
 orth	Pelletiérine. Chimie		
 pb	398	0404	4575990
-entry	Emploi médical [Ernest Labbée]		
+entry	Emploi médical [Ernest Labbée]	0	
 orth	Emploi médical		
 pb	399	0405	4575991
-entry	Pelletiérine		
-entry	Pelletiérine. Emploi médical [Ernest Labbée]		
+entry	Pelletiérine	0	
+entry	Pelletiérine. Emploi médical [Ernest Labbée]	3	
 orth	Pelletiérine. Emploi médical		
 pb	400	0406	4575992
 pb	401	0407	4575993
 pb	402	0408	4575994
-entry	Pellicer (Gaspar de) [L. Hahn]		
+entry	Pellicer (Gaspar de) [L. Hahn]	0	
 orth	Pellicer (Gaspar de)		
-entry	Pellicule		
+entry	Pellicule	0	
 ref	Furfur		
-entry	Pellier de Quengsy (Guillaume) [L. Hahn]		
+entry	Pellier de Quengsy (Guillaume) [L. Hahn]	0	
 orth	Pellier de Quengsy (Guillaume)		
-entry	Pellutéine [C. Lutz]		
+entry	Pellutéine [C. Lutz]	0	
 orth	Pellutéine		
-entry	Pélobate [H.-E. Sauvage]		
+entry	Pélobate [H.-E. Sauvage]	1	
 orth	Pélobate		
 pb	403	0409	4575995
-entry	Pélodyte [H.-E. Sauvage]		
+entry	Pélodyte [H.-E. Sauvage]	1	
 orth	Pélodyte		
 pb	404	0410	4575996
-entry	Pélopium		
+entry	Pélopium	0	
 ref	Niobium		
-entry	Pélops [L. Hahn]		
+entry	Pélops [L. Hahn]	0	
 orth	Pélops		
-entry	Pélosine [C. Lutz]		
+entry	Pélosine [C. Lutz]	0	
 orth	Pélosine		
 pb	405	0411	4575997
-entry	Pélossier [G. Planchon]		
+entry	Pélossier [G. Planchon]	0	
 orth	Pélossier		
-entry	Pelouze (Jules-Théophile) [L. Hahn]		
+entry	Pelouze (Jules-Théophile) [L. Hahn]	1	
 orth	Pelouze (Jules-Théophile)		
 pb	406	0412	4575998
-entry	Pelsers (Jan) [L. Hahn]		
+entry	Pelsers (Jan) [L. Hahn]	0	
 orth	Pelsers (Jan)		
-entry	Peltidée [Ed. Lefèvre]		
+entry	Peltidée [Ed. Lefèvre]	0	
 orth	Peltidée		
-entry	Peltigère [Ed. Lefèvre]		
+entry	Peltigère [Ed. Lefèvre]	1	
 orth	Peltigère		
 pb	407	0413	4575999
-entry	Peltogyne [G. Planchon]		
+entry	Peltogyne [G. Planchon]	0	
 orth	Peltogyne		
-entry	Pelussin (Eau minérale de) [A. Rotureau]		
+entry	Pelussin (Eau minérale de) [A. Rotureau]	1	
 orth	Pelussin (Eau minérale de)		
 pb	408	0414	4576000
-entry	Pelvigraphe [Amédée Dechambre]		
+entry	Pelvigraphe [Amédée Dechambre]	0	
 orth	Pelvigraphe		
-entry	Pelvimétrie [Amédée Dechambre]		
+entry	Pelvimétrie [Amédée Dechambre]	2	
 orth	Pelvimétrie		
 pb	409	0415	4576001
 pb	410	0416	4576002
-entry	Pelvipéritonite		
+entry	Pelvipéritonite	0	
 ref	Péritonite		
-entry	Pelvitomie		
+entry	Pelvitomie	0	
 ref	Pulistomie		
-entry	Pemberton (Les deux) [L. Hahn]		
+entry	Pemberton (Les deux) [L. Hahn]	0	
 orth	Pemberton (Les deux)		
 pb	411	0417	4576003
-entry	Pemphigus [E. Chambard]		
+entry	Pemphigus [E. Chambard]	47	
 orth	Pemphigus		
 pb	412	0418	4576004
 pb	413	0419	4576005
@@ -729,24 +729,24 @@ pb	455	0461	4576047
 pb	456	0462	4576048
 pb	457	0463	4576049
 pb	458	0464	4576050
-entry	Pemphis		
+entry	Pemphis	0	
 ref	Salicaire		
-entry	Péna (Lazare) [A. Chéreau]		
+entry	Péna (Lazare) [A. Chéreau]	0	
 orth	Péna (Lazare)		
-entry	Pena (Miquel-Fernandez de la) [L. Hahn]		
+entry	Pena (Miquel-Fernandez de la) [L. Hahn]	0	
 orth	Pena (Miquel-Fernandez de la)		
 pb	459	0465	4576051
-entry	Penada (Jacopo) [L. Hahn]		
+entry	Penada (Jacopo) [L. Hahn]	0	
 orth	Penada (Jacopo)		
-entry	Penaea [H. Baillon]		
+entry	Penaea [H. Baillon]	0	
 orth	Penaea		
-entry	Penala [G. Planchon]		
+entry	Penala [G. Planchon]	0	
 orth	Penala		
-entry	Penang [G. Planchon]		
+entry	Penang [G. Planchon]	0	
 orth	Penang		
-entry	Penchant [Amédée Dechambre]		
+entry	Penchant [Amédée Dechambre]	0	
 orth	Penchant		
-entry	Pendaison (Médecine légale) [G. Tourdes]		
+entry	Pendaison (Médecine légale) [G. Tourdes]	63	
 orth	Pendaison (Médecine légale)		
 pb	460	0466	4576052
 pb	461	0467	4576053
@@ -811,9 +811,9 @@ pb	519	0525	4576111
 pb	520	0526	4576112
 pb	521	0527	4576113
 pb	522	0528	4576114
-entry	Pendari [G. Planchon]		
+entry	Pendari [G. Planchon]	0	
 orth	Pendari		
-entry	Pendule [C.-M. Gariel]		
+entry	Pendule [C.-M. Gariel]	6	
 orth	Pendule		
 pb	523	0529	4576115
 pb	524	0530	4576116
@@ -821,23 +821,23 @@ pb	525	0531	4576117
 pb	526	0532	4576118
 pb	527	0533	4576119
 pb	528	0534	4576120
-entry	Pène [G. Planchon]		
+entry	Pène [G. Planchon]	0	
 orth	Pène		
-entry	Pénée [Amédée Dechambre]		
+entry	Pénée [Amédée Dechambre]	0	
 orth	Pénée		
 pb	529	0535	4576121
-entry	Pénélope [E. Oustalet]		
+entry	Pénélope [E. Oustalet]	0	
 orth	Pénélope		
-entry	Pengawar-Djambi [G. Planchon]		
+entry	Pengawar-Djambi [G. Planchon]	0	
 orth	Pengawar-Djambi		
-entry	Pénicillium [Ed. Lefèvre]		
+entry	Pénicillium [Ed. Lefèvre]	1	
 orth	Pénicillium		
 pb	530	0536	4576122
-entry	Pénide		
+entry	Pénide	0	
 ref	Sucre médicamenteux		
 pb	531	0537	4576123
-entry	Pénis		
-entry	Pénis. Anatomie [Charles Monod, F. Brun]		
+entry	Pénis	0	
+entry	Pénis. Anatomie [Charles Monod, F. Brun]	14	
 orth	Pénis. Anatomie		
 pb	532	0538	4576124
 pb	533	0539	4576125
@@ -853,16 +853,16 @@ pb	542	0548	4576134
 pb	543	0549	4576135
 pb	544	0550	4576136
 pb	545	0551	4576137
-entry	Pénis. Développement [Charles Monod, F. Brun]		
+entry	Pénis. Développement [Charles Monod, F. Brun]	5	
 orth	Pénis. Développement		
 pb	546	0552	4576138
 pb	547	0553	4576139
 pb	548	0554	4576140
 pb	549	0555	4576141
 pb	550	0556	4576142
-entry	Physiologie [Charles Monod, F. Brun]		
+entry	Physiologie [Charles Monod, F. Brun]	0	
 orth	Physiologie		
-entry	Pénis. Pathologie [Charles Monod, F. Brun]		
+entry	Pénis. Pathologie [Charles Monod, F. Brun]	96	
 orth	Pénis. Pathologie		
 pb	551	0557	4576143
 pb	552	0558	4576144
@@ -960,9 +960,9 @@ pb	643	0649	4576235
 pb	644	0650	4576236
 pb	645	0651	4576237
 pb	646	0652	4576238
-entry	Pénitenciers [Amédée Dechambre]		
+entry	Pénitenciers [Amédée Dechambre]	0	
 orth	Pénitenciers		
-entry	Pénitentiaire (Système) [Merry-Delabost]		
+entry	Pénitentiaire (Système) [Merry-Delabost]	54	
 orth	Pénitentiaire (Système)		
 pb	647	0653	4576239
 pb	648	0654	4576240
@@ -1018,100 +1018,100 @@ pb	697	0703	4576289
 pb	698	0704	4576290
 pb	699	0705	4576291
 pb	700	0706	4576292
-entry	Penna (Les deux) [L. Hahn]		
+entry	Penna (Les deux) [L. Hahn]	1	
 orth	Penna (Les deux)		
 pb	701	0707	4576293
-entry	Pennant (Thomas) [L. Hahn]		
+entry	Pennant (Thomas) [L. Hahn]	0	
 orth	Pennant (Thomas)		
-entry	Pennatule [Ed. Lefèvre]		
+entry	Pennatule [Ed. Lefèvre]	1	
 orth	Pennatule		
 pb	702	0708	4576294
-entry	Pennock (Gaspar-Wistar) [L. Hahn]		
+entry	Pennock (Gaspar-Wistar) [L. Hahn]	0	
 orth	Pennock (Gaspar-Wistar)		
-entry	Penny (Les deux) [L. Hahn]		
+entry	Penny (Les deux) [L. Hahn]	1	
 orth	Penny (Les deux)		
 pb	703	0709	4576295
-entry	Penot (Bernard-Georges) [L. Hahn]		
+entry	Penot (Bernard-Georges) [L. Hahn]	0	
 orth	Penot (Bernard-Georges)		
-entry	Pensée [G. Planchon]		
+entry	Pensée [G. Planchon]	0	
 orth	Pensée		
-entry	Pensionnats		
+entry	Pensionnats	0	
 ref	Écoles		
-entry	Pentacarbures		
+entry	Pentacarbures	0	
 ref	Hydrocarbures		
-entry	Pentadactylon [G. Planchon]		
+entry	Pentadactylon [G. Planchon]	0	
 orth	Pentadactylon		
-entry	Pentadryon [G. Planchon]		
+entry	Pentadryon [G. Planchon]	0	
 orth	Pentadryon		
-entry	Pentagruelion [G. Planchon]		
+entry	Pentagruelion [G. Planchon]	0	
 orth	Pentagruelion		
-entry	Pentahiroline [C. Lutz]		
+entry	Pentahiroline [C. Lutz]	0	
 orth	Pentahiroline		
-entry	Pentaphylloïdes [G. Planchon]		
+entry	Pentaphylloïdes [G. Planchon]	0	
 orth	Pentaphylloïdes		
-entry	Pentaphyllon [G. Planchon]		
+entry	Pentaphyllon [G. Planchon]	0	
 orth	Pentaphyllon		
 pb	704	0710	4576296
-entry	Pentastome ou Linguatule		
-entry	Pentastome ou Linguatule. Hist. natur. [L. Hahn, Éd. Lefèvre]		
+entry	Pentastome ou Linguatule	0	
+entry	Pentastome ou Linguatule. Hist. natur. [L. Hahn, Éd. Lefèvre]	4	
 orth	Pentastome ou Linguatule. Hist. natur.		
 pb	705	0711	4576297
 pb	706	0712	4576298
 pb	707	0713	4576299
 pb	708	0714	4576300
-entry	Pentastome ou Linguatule. Pathologie [L. Hahn, Éd. Lefèvre]		
+entry	Pentastome ou Linguatule. Pathologie [L. Hahn, Éd. Lefèvre]	3	
 orth	Pentastome ou Linguatule. Pathologie		
 pb	709	0715	4576301
 pb	710	0716	4576302
 pb	711	0717	4576303
-entry	Pentasulfures ou Quintisulfures		
+entry	Pentasulfures ou Quintisulfures	0	
 ref	Sulfures métalliques		
-entry	Pentathionates [C. Lutz]		
+entry	Pentathionates [C. Lutz]	0	
 orth	Pentathionates		
-entry	Pentathionique (Acide) [C. Lutz]		
+entry	Pentathionique (Acide) [C. Lutz]	1	
 orth	Pentathionique (Acide)		
 pb	712	0718	4576304
-entry	Pentatropis [Ed. Lefèvre]		
+entry	Pentatropis [Ed. Lefèvre]	0	
 orth	Pentatropis		
-entry	Pentosobon, Pentosobos, Pentosobus [G. Planchon]		
+entry	Pentosobon, Pentosobos, Pentosobus [G. Planchon]	0	
 orth	Pentosobon, Pentosobos, Pentosobus		
-entry	Pentzlin (Friedrich) [L. Hahn]		
+entry	Pentzlin (Friedrich) [L. Hahn]	1	
 orth	Pentzlin (Friedrich)		
 pb	713	0719	4576305
-entry	Penwar-Pait [Amédée Dechambre]		
+entry	Penwar-Pait [Amédée Dechambre]	0	
 orth	Penwar-Pait		
-entry	Péonine		
+entry	Péonine	0	
 ref	Coralline (Chimie)		
-entry	Péonion [Amédée Dechambre]		
+entry	Péonion [Amédée Dechambre]	0	
 orth	Péonion		
-entry	Pepagomenus		
+entry	Pepagomenus	0	
 ref	Demetrius		
-entry	Pépastiques [Amédée Dechambre]		
+entry	Pépastiques [Amédée Dechambre]	0	
 orth	Pépastiques		
-entry	Péperi [G. Planchon]		
+entry	Péperi [G. Planchon]	0	
 orth	Péperi		
-entry	Peplion [G. Planchon]		
+entry	Peplion [G. Planchon]	0	
 orth	Peplion		
-entry	Peplios [G. Planchon]		
+entry	Peplios [G. Planchon]	0	
 orth	Peplios		
-entry	Peplis [H. Baillon]		
+entry	Peplis [H. Baillon]	0	
 orth	Peplis		
 pb	714	0720	4576306
-entry	Peplus [H. Baillon]		
+entry	Peplus [H. Baillon]	0	
 orth	Peplus		
-entry	Pépo ou Pépon [G. Planchon]		
+entry	Pépo ou Pépon [G. Planchon]	0	
 orth	Pépo ou Pépon		
-entry	Pepsine [L. Hahn]		
+entry	Pepsine [L. Hahn]	3	
 orth	Pepsine		
 pb	715	0721	4576307
 pb	716	0722	4576308
 pb	717	0723	4576309
-entry	Peptogènes [X. Arnozan]		
+entry	Peptogènes [X. Arnozan]	3	
 orth	Peptogènes		
 pb	718	0724	4576310
 pb	719	0725	4576311
 pb	720	0726	4576312
-entry	Peptones [P. Coulier]		
+entry	Peptones [P. Coulier]	7	
 orth	Peptones		
 pb	721	0727	4576313
 pb	722	0728	4576314
@@ -1120,53 +1120,53 @@ pb	724	0730	4576316
 pb	725	0731	4576317
 pb	726	0732	4576318
 pb	727	0733	4576319
-entry	Péragu [G. Planchon]		
+entry	Péragu [G. Planchon]	1	
 orth	Péragu		
 pb	728	0734	4576320
-entry	Peragua [G. Planchon]		
+entry	Peragua [G. Planchon]	0	
 orth	Peragua		
-entry	Peramato (Pedro de) [L. Hahn]		
+entry	Peramato (Pedro de) [L. Hahn]	0	
 orth	Peramato (Pedro de)		
-entry	Péramèle [E. Oustalet]		
+entry	Péramèle [E. Oustalet]	1	
 orth	Péramèle		
 pb	729	0735	4576321
-entry	Peramutiver [G. Planchon]		
+entry	Peramutiver [G. Planchon]	0	
 orth	Peramutiver		
-entry	Percaline [Amédée Dechambre]		
+entry	Percaline [Amédée Dechambre]	0	
 orth	Percaline		
-entry	Perce-Bosse [G. Planchon]		
+entry	Perce-Bosse [G. Planchon]	0	
 orth	Perce-Bosse		
-entry	Perce-Crâne		
+entry	Perce-Crâne	0	
 ref	Craniotomie		
-entry	Perce-feuille [G. Planchon]		
+entry	Perce-feuille [G. Planchon]	0	
 orth	Perce-feuille		
-entry	Perce-mousse [G. Planchon]		
+entry	Perce-mousse [G. Planchon]	0	
 orth	Perce-mousse		
 pb	730	0736	4576322
-entry	Perce-muraille [G. Planchon]		
+entry	Perce-muraille [G. Planchon]	0	
 orth	Perce-muraille		
-entry	Perce-neige [G. Planchon]		
+entry	Perce-neige [G. Planchon]	0	
 orth	Perce-neige		
-entry	Perce-pierre [G. Planchon]		
+entry	Perce-pierre [G. Planchon]	0	
 orth	Perce-pierre		
-entry	Perce-terre [G. Planchon]		
+entry	Perce-terre [G. Planchon]	0	
 orth	Perce-terre		
-entry	Percepta [Amédée Dechambre]		
+entry	Percepta [Amédée Dechambre]	0	
 orth	Percepta		
-entry	Perche [H.-E. Sauvage]		
+entry	Perche [H.-E. Sauvage]	1	
 orth	Perche		
 pb	731	0737	4576323
-entry	Percheron (Achille-Remy) [L. Hahn]		
+entry	Percheron (Achille-Remy) [L. Hahn]	0	
 orth	Percheron (Achille-Remy)		
-entry	Percival (Thomas) [A. Chéreau]		
+entry	Percival (Thomas) [A. Chéreau]	1	
 orth	Percival (Thomas)		
 pb	732	0738	4576324
-entry	Percoïdes [H.-E. Sauvage]		
+entry	Percoïdes [H.-E. Sauvage]	1	
 orth	Percoïdes		
 pb	733	0739	4576325
-entry	Percolateur [Amédée Dechambre]		
+entry	Percolateur [Amédée Dechambre]	0	
 orth	Percolateur		
-entry	Percussion [L. Lereboullet]		
+entry	Percussion [L. Lereboullet]	26	
 orth	Percussion		
 pb	734	0740	4576326
 pb	735	0741	4576327
@@ -1195,61 +1195,61 @@ pb	757	0763	4576349
 pb	758	0764	4576350
 pb	759	0765	4576351
 pb	760	0766	4576352
-entry	Percussion [L. Lereboullet] [L. Hahn]		
+entry	Percussion [L. Lereboullet] [L. Hahn]	0	
 orth	Percussion		
-entry	Percuteur [L. Hahn]		
+entry	Percuteur [L. Hahn]	0	
 orth	Percuteur		
 pb	761	0767	4576353
-entry	Percy (Pierre-François) [A. Chéreau, L. Hahn]		
+entry	Percy (Pierre-François) [A. Chéreau, L. Hahn]	1	
 orth	Percy (Pierre-François)		
 pb	762	0768	4576354
-entry	Perdetum [G. Planchon]		
+entry	Perdetum [G. Planchon]	0	
 orth	Perdetum		
 pb	763	0769	4576355
-entry	Perdicium brasiliense [G. Planchon]		
+entry	Perdicium brasiliense [G. Planchon]	0	
 orth	Perdicium brasiliense		
-entry	Perdrix [E. Oustalet]		
+entry	Perdrix [E. Oustalet]	2	
 orth	Perdrix		
 pb	764	0770	4576356
 pb	765	0771	4576357
-entry	Perdu (Benoît) [L. Hahn]		
+entry	Perdu (Benoît) [L. Hahn]	0	
 orth	Perdu (Benoît)		
-entry	Pereda (Pedro-Pablo) [L. Hahn]		
+entry	Pereda (Pedro-Pablo) [L. Hahn]	0	
 orth	Pereda (Pedro-Pablo)		
-entry	Pereira (Les) [L. Hahn]		
+entry	Pereira (Les) [L. Hahn]	2	
 orth	Pereira (Les)		
 pb	766	0772	4576358
 pb	767	0773	4576359
-entry	Pereira (Pao-)		
+entry	Pereira (Pao-)	0	
 ref	Geissospermum		
-entry	Pereirine		
+entry	Pereirine	0	
 ref	Geissospermum		
-entry	Perelle [G. Planchon]		
+entry	Perelle [G. Planchon]	0	
 orth	Perelle		
-entry	Pérennibranches [H.-E. Sauvage]		
+entry	Pérennibranches [H.-E. Sauvage]	1	
 orth	Pérennibranches		
 pb	768	0774	4576360
-entry	Perenotti di Cigliano (Pierantonio) [L. Hahn]		
+entry	Perenotti di Cigliano (Pierantonio) [L. Hahn]	0	
 orth	Perenotti di Cigliano (Pierantonio)		
-entry	Perépéré [G. Planchon]		
+entry	Perépéré [G. Planchon]	0	
 orth	Perépéré		
-entry	Pereskia [G. Planchon]		
+entry	Pereskia [G. Planchon]	0	
 orth	Pereskia		
-entry	Perettes [G. Planchon]		
+entry	Perettes [G. Planchon]	0	
 orth	Perettes		
-entry	Perexil [G. Planchon]		
+entry	Perexil [G. Planchon]	1	
 orth	Perexil		
 pb	769	0775	4576361
-entry	Pereyra [G. Planchon]		
+entry	Pereyra [G. Planchon]	0	
 orth	Pereyra		
-entry	Perez (Les) [L. Hahn]		
+entry	Perez (Les) [L. Hahn]	1	
 orth	Perez (Les)		
 pb	770	0776	4576362
-entry	Perfect (William) [L. Hahn]		
+entry	Perfect (William) [L. Hahn]	0	
 orth	Perfect (William)		
-entry	Perforantes (Artères) [Amédée Dechambre]		
+entry	Perforantes (Artères) [Amédée Dechambre]	0	
 orth	Perforantes (Artères)		
-entry	Perforation chirurgicale, Perforateurs [S.]		
+entry	Perforation chirurgicale, Perforateurs [S.]	8	
 orth	Perforation chirurgicale, Perforateurs		
 pb	771	0777	4576363
 pb	772	0778	4576364
@@ -1259,26 +1259,26 @@ pb	775	0781	4576367
 pb	776	0782	4576368
 pb	777	0783	4576369
 pb	778	0784	4576370
-entry	Pergalia [G. Planchon]		
+entry	Pergalia [G. Planchon]	0	
 orth	Pergalia		
-entry	Pergularia [G. Planchon]		
+entry	Pergularia [G. Planchon]	0	
 orth	Pergularia		
-entry	Périartérite		
+entry	Périartérite	0	
 ref	Artères		
-entry	Pérical [L. Hahn]		
+entry	Pérical [L. Hahn]	0	
 orth	Pérical		
-entry	Addenda		
-entry	Pekea [H. Baillon]		
+entry	Addenda	0	
+entry	Pekea [H. Baillon]	0	
 orth	Pekea		
-entry	Addenda. Pellagre [Jules Arnould]		
+entry	Addenda. Pellagre [Jules Arnould]	2	
 orth	Addenda. Pellagre		
 pb	779	0785	4576371
 pb	780	0786	4576372
 pb	781	0787	4576373
-entry	Pellagre [Jules Arnould]		
+entry	Pellagre [Jules Arnould]	0	
 orth	Pellagre		
-entry	Addenda		
+entry	Addenda	0	
 pb	[s. pag.]	0788	4576374
 pb	783	0789	4576375
-entry	Articles contenus dans le vingt-deuxième volume (2e série)		
+entry	Articles contenus dans le vingt-deuxième volume (2e série)	1	
 pb	784	0790	4576376

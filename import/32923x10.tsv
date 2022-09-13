@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7290286
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7290287
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7290288
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7290289
-entry	Coxalgie		
+entry	Coxalgie	63	
 pb	2	0005	7290290
 pb	3	0006	7290291
 pb	4	0007	7290292
@@ -69,8 +69,8 @@ pb	61	0064	7290349
 pb	62	0065	7290350
 pb	63	0066	7290351
 pb	64	0067	7290352
-entry	Cowpox		
-entry	Crachats		
+entry	Cowpox	0	
+entry	Crachats	78	
 pb	65	0068	7290353
 pb	66	0069	7290354
 pb	67	0070	7290355
@@ -149,14 +149,14 @@ pb	139	0142	7290427
 pb	140	0143	7290428
 pb	141	0144	7290429
 pb	142	0145	7290430
-entry	Crampes		
+entry	Crampes	5	
 pb	143	0146	7290431
 pb	144	0147	7290432
 pb	145	0148	7290433
 pb	146	0149	7290434
 pb	147	0150	7290435
 pb	148	0151	7290436
-entry	Crane		
+entry	Crane	44	
 pb	149	0152	7290437
 pb	150	0153	7290438
 pb	151	0154	7290439
@@ -201,25 +201,25 @@ pb	189	0192	7290477
 pb	190	0193	7290478
 pb	191	0194	7290479
 pb	192	0195	7290480
-entry	Cranioscopie		
-entry	Craniotome, Craniotomie		
+entry	Cranioscopie	0	
+entry	Craniotome, Craniotomie	0	
 orth	Craniotome		
 orth	Craniotomie		
-entry	Cransac		
+entry	Cransac	2	
 pb	193	0196	7290481
 pb	194	0197	7290482
-entry	Crasse		
+entry	Crasse	5	
 pb	195	0198	7290483
 pb	196	0199	7290484
 pb	197	0200	7290485
 pb	198	0201	7290486
 pb	199	0202	7290487
-entry	Crème de tartre		
-entry	Cresson		
+entry	Crème de tartre	0	
+entry	Cresson	3	
 pb	200	0203	7290488
 pb	201	0204	7290489
 pb	202	0205	7290490
-entry	Crétin, Crétinisme		
+entry	Crétin, Crétinisme	31	
 orth	Crétin		
 orth	Crétinisme		
 pb	203	0206	7290491
@@ -253,9 +253,9 @@ pb	230	0233	7290518
 pb	231	0234	7290519
 pb	232	0235	7290520
 pb	233	0236	7290521
-entry	Crevasse		
+entry	Crevasse	1	
 pb	234	0237	7290522
-entry	Cri		
+entry	Cri	7	
 pb	235	0238	7290523
 pb	236	0239	7290524
 pb	237	0240	7290525
@@ -264,7 +264,7 @@ pb	239	0242	7290527
 pb	240	0243	7290528
 pb	241	0244	7290529
 pb	242	0245	7290530
-entry	Crise		
+entry	Crise	16	
 pb	243	0246	7290531
 pb	244	0247	7290532
 pb	245	0248	7290533
@@ -282,7 +282,7 @@ pb	256	0259	7290544
 pb	257	0260	7290545
 pb	258	0261	7290546
 pb	259	0262	7290547
-entry	Cristallin		
+entry	Cristallin	21	
 pb	260	0263	7290548
 pb	261	0264	7290549
 pb	262	0265	7290550
@@ -305,9 +305,9 @@ pb	278	0281	7290566
 pb	279	0282	7290567
 pb	280	0283	7290568
 pb	281	0284	7290569
-entry	Critique (phénomène)		
-entry	Critique (age)		
-entry	Crochets		
+entry	Critique (phénomène)	0	
+entry	Critique (age)	0	
+entry	Crochets	9	
 pb	282	0285	7290570
 pb	283	0286	7290571
 pb	284	0287	7290572
@@ -317,9 +317,9 @@ pb	287	0290	7290575
 pb	288	0291	7290576
 pb	289	0292	7290577
 pb	290	0293	7290578
-entry	Crocidisme		
-entry	Croisement		
-entry	Croissance		
+entry	Crocidisme	0	
+entry	Croisement	0	
+entry	Croissance	17	
 pb	291	0294	7290579
 pb	292	0295	7290580
 pb	293	0296	7290581
@@ -337,7 +337,7 @@ pb	304	0307	7290592
 pb	305	0308	7290593
 pb	306	0309	7290594
 pb	307	0310	7290595
-entry	Croton		
+entry	Croton	8	
 pb	308	0311	7290596
 pb	309	0312	7290597
 pb	310	0313	7290598
@@ -346,7 +346,7 @@ pb	312	0315	7290600
 pb	313	0316	7290601
 pb	314	0317	7290602
 pb	315	0318	7290603
-entry	Croup		
+entry	Croup	72	
 pb	316	0319	7290604
 pb	317	0320	7290605
 pb	318	0321	7290606
@@ -419,8 +419,8 @@ pb	384	0387	7290672
 pb	385	0388	7290673
 pb	386	0389	7290674
 pb	387	0390	7290675
-entry	Croute laiteuse		
-entry	Crucifères		
+entry	Croute laiteuse	0	
+entry	Crucifères	11	
 pb	388	0391	7290676
 pb	389	0392	7290677
 pb	390	0393	7290678
@@ -432,7 +432,7 @@ pb	395	0398	7290683
 pb	396	0399	7290684
 pb	397	0400	7290685
 pb	398	0401	7290686
-entry	Crurales (région et hernie)		
+entry	Crurales (région et hernie)	38	
 pb	399	0402	7290687
 pb	400	0403	7290688
 pb	401	0404	7290689
@@ -471,16 +471,16 @@ pb	433	0436	7290721
 pb	434	0437	7290722
 pb	435	0438	7290723
 pb	436	0439	7290724
-entry	Crurale (artère)		
+entry	Crurale (artère)	0	
 pb	437	0440	7290725
-entry	Cubère		
+entry	Cubère	6	
 pb	438	0441	7290726
 pb	439	0442	7290727
 pb	440	0443	7290728
 pb	441	0444	7290729
 pb	442	0445	7290730
 pb	443	0446	7290731
-entry	Cuisse		
+entry	Cuisse	81	
 pb	444	0447	7290732
 pb	445	0448	7290733
 pb	446	0449	7290734
@@ -562,7 +562,7 @@ pb	521	0524	7290809
 pb	522	0525	7290810
 pb	523	0526	7290811
 pb	524	0527	7290812
-entry	Cuivre		
+entry	Cuivre	24	
 pb	525	0528	7290813
 pb	526	0529	7290814
 pb	527	0530	7290815
@@ -587,7 +587,7 @@ pb	545	0548	7290833
 pb	546	0549	7290834
 pb	547	0550	7290835
 pb	548	0551	7290836
-entry	Curare		
+entry	Curare	39	
 pb	549	0552	7290837
 pb	550	0553	7290838
 pb	551	0554	7290839
@@ -627,7 +627,7 @@ pb	584	0587	7290872
 pb	585	0588	7290873
 pb	586	0589	7290874
 pb	587	0590	7290875
-entry	Cyanogène		
+entry	Cyanogène	32	
 pb	588	0591	7290876
 pb	589	0592	7290877
 pb	590	0593	7290878
@@ -660,7 +660,7 @@ pb	616	0619	7290904
 pb	617	0620	7290905
 pb	618	0621	7290906
 pb	619	0622	7290907
-entry	Cyanose		
+entry	Cyanose	32	
 pb	620	0623	7290908
 pb	621	0624	7290909
 pb	622	0625	7290910
@@ -693,13 +693,13 @@ pb	648	0651	7290936
 pb	649	0652	7290937
 pb	650	0653	7290938
 pb	651	0654	7290939
-entry	Cyclamine		
+entry	Cyclamine	4	
 pb	652	0655	7290940
 pb	653	0656	7290941
 pb	654	0657	7290942
 pb	655	0658	7290943
 pb	656	0659	7290944
-entry	Cyrtomètre, Cyrtomètrie		
+entry	Cyrtomètre, Cyrtomètrie	5	
 orth	Cyrtomètre		
 orth	Cyrtomètrie		
 pb	657	0660	7290945
@@ -707,8 +707,8 @@ pb	658	0661	7290946
 pb	659	0662	7290947
 pb	660	0663	7290948
 pb	661	0664	7290949
-entry	Cysticerques		
-entry	Cystite		
+entry	Cysticerques	0	
+entry	Cystite	21	
 pb	662	0665	7290950
 pb	663	0666	7290951
 pb	664	0667	7290952
@@ -730,27 +730,27 @@ pb	679	0682	7290967
 pb	680	0683	7290968
 pb	681	0684	7290969
 pb	682	0685	7290970
-entry	Cystocèle		
+entry	Cystocèle	6	
 pb	683	0686	7290971
 pb	684	0687	7290972
 pb	685	0688	7290973
 pb	686	0689	7290974
 pb	687	0690	7290975
 pb	688	0691	7290976
-entry	Cystorrhagie		
-entry	Cystotomie		
+entry	Cystorrhagie	0	
+entry	Cystotomie	0	
 pb	689	0692	7290977
-entry	Lettre D		
-entry	Dacryocystite		
-entry	Dacryops		
-entry	Daltonisme		
+entry	Lettre D	0	
+entry	Dacryocystite	0	
+entry	Dacryops	0	
+entry	Daltonisme	2	
 pb	690	0693	7290978
 pb	691	0694	7290979
 pb	692	0695	7290980
-entry	Danse de Saint-Guy		
-entry	Dam-el-mouia		
+entry	Danse de Saint-Guy	0	
+entry	Dam-el-mouia	1	
 pb	693	0696	7290981
-entry	Dartre		
+entry	Dartre	23	
 pb	694	0697	7290982
 pb	695	0698	7290983
 pb	696	0699	7290984
@@ -774,7 +774,7 @@ pb	713	0716	7291001
 pb	714	0717	7291002
 pb	715	0718	7291003
 pb	714	0719	7291004
-entry	Datura		
+entry	Datura	13	
 pb	715	0720	7291005
 pb	716	0721	7291006
 pb	717	0722	7291007
@@ -788,22 +788,22 @@ pb	724	0729	7291014
 pb	725	0730	7291015
 pb	726	0731	7291016
 pb	727	0732	7291017
-entry	Davier		
+entry	Davier	3	
 pb	728	0733	7291018
 pb	729	0734	7291019
 pb	730	0735	7291020
 pb	731	0736	7291021
-entry	Dax		
+entry	Dax	1	
 pb	732	0737	7291022
-entry	Débilité		
-entry	Débridément		
+entry	Débilité	0	
+entry	Débridément	2	
 pb	733	0738	7291023
 pb	734	0739	7291024
-entry	Décoction		
+entry	Décoction	2	
 pb	735	0740	7291025
 pb	736	0741	7291026
-entry	Décollation		
-entry	Décubitus		
+entry	Décollation	0	
+entry	Décubitus	9	
 pb	737	0742	7291027
 pb	738	0743	7291028
 pb	739	0744	7291029
@@ -813,16 +813,16 @@ pb	742	0747	7291032
 pb	743	0748	7291033
 pb	744	0749	7291034
 pb	745	0750	7291035
-entry	Défaillance		
-entry	Défécation		
+entry	Défaillance	0	
+entry	Défécation	6	
 pb	746	0751	7291036
 pb	747	0752	7291037
 pb	748	0753	7291038
 pb	749	0754	7291039
 pb	750	0755	7291040
 pb	751	0756	7291041
-entry	Défloration		
-entry	Dégénérescence		
+entry	Défloration	0	
+entry	Dégénérescence	12	
 pb	752	0757	7291042
 pb	753	0758	7291043
 pb	754	0759	7291044
@@ -835,7 +835,7 @@ pb	760	0765	7291050
 pb	761	0766	7291051
 pb	762	0767	7291052
 pb	763	0768	7291053
-entry	Déglutition		
+entry	Déglutition	16	
 pb	764	0769	7291054
 pb	765	0770	7291055
 pb	766	0771	7291056
@@ -853,4 +853,4 @@ pb	777	0782	7291067
 pb	778	0783	7291068
 pb	779	0784	7291069
 pb	[s. pag.]	0785	7291070
-entry	Tables des auteurs		
+entry	Tables des auteurs	0	

@@ -1,16 +1,16 @@
 pb	[s. pag.]	0001	804577
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	804578
 pb	[s. pag.]	0003	804579
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	804580
-entry	Lettre S		
-entry	Squine		
+entry	Lettre S	0	
+entry	Squine	1	
 pb	[s. pag.]	0005	804581
-entry	Squirrhe		
-entry	Staphisaigre		
+entry	Squirrhe	0	
+entry	Staphisaigre	1	
 pb	1	0006	804582
-entry	Staphylome		
+entry	Staphylome	7	
 pb	2	0007	804583
 pb	3	0008	804584
 pb	4	0009	804585
@@ -18,7 +18,7 @@ pb	5	0010	804586
 pb	6	0011	804587
 pb	7	0012	804588
 pb	8	0013	804589
-entry	Staphyloraphie		
+entry	Staphyloraphie	13	
 pb	9	0014	804590
 pb	10	0015	804591
 pb	11	0016	804592
@@ -32,12 +32,12 @@ pb	18	0023	804599
 pb	19	0024	804600
 pb	20	0025	804601
 pb	21	0026	804602
-entry	Stéarate		
-entry	Stéatome		
+entry	Stéarate	0	
+entry	Stéatome	3	
 pb	22	0027	804603
 pb	23	0028	804604
 pb	24	0029	804605
-entry	Stercoral		
+entry	Stercoral	7	
 pb	25	0030	804606
 pb	26	0031	804607
 pb	27	0032	804608
@@ -45,52 +45,52 @@ pb	28	0033	804609
 pb	29	0034	804610
 pb	30	0035	804611
 pb	31	0036	804612
-entry	Stérilité		
-entry	Sternutatoires		
+entry	Stérilité	0	
+entry	Sternutatoires	2	
 pb	32	0037	804613
 pb	33	0038	804614
-entry	Stimulant		
+entry	Stimulant	1	
 pb	34	0039	804615
-entry	Stomatite		
+entry	Stomatite	3	
 pb	35	0040	804616
 pb	36	0041	804617
 pb	37	0042	804618
-entry	Strabisme		
+entry	Strabisme	5	
 pb	38	0043	804619
 pb	39	0044	804620
 pb	40	0045	804621
 pb	41	0046	804622
 pb	42	0047	804623
-entry	Stramoine		
+entry	Stramoine	4	
 pb	43	0048	804624
 pb	44	0049	804625
 pb	45	0050	804626
 pb	46	0051	804627
-entry	Strangulation		
-entry	Strangurie		
-entry	Strongle		
-entry	Strychnine		
-entry	Styptique		
-entry	Styrax		
+entry	Strangulation	0	
+entry	Strangurie	0	
+entry	Strongle	0	
+entry	Strychnine	0	
+entry	Styptique	0	
+entry	Styrax	1	
 pb	47	0052	804628
-entry	Sub-inflammation		
+entry	Sub-inflammation	3	
 pb	48	0053	804629
 pb	49	0054	804630
 pb	50	0055	804631
-entry	Sublimé corrosif		
-entry	Submersion		
-entry	Succussion		
+entry	Sublimé corrosif	0	
+entry	Submersion	0	
+entry	Succussion	2	
 pb	51	0056	804632
 pb	52	0057	804633
-entry	Sucre (pharm. Chim.)		
+entry	Sucre (pharm. Chim.)	4	
 pb	53	0058	804634
 pb	54	0059	804635
 pb	55	0060	804636
 pb	56	0061	804637
-entry	Sudamina		
+entry	Sudamina	2	
 pb	57	0062	804638
 pb	58	0063	804639
-entry	Sudorifiques		
+entry	Sudorifiques	9	
 pb	59	0064	804640
 pb	60	0065	804641
 pb	61	0066	804642
@@ -100,7 +100,7 @@ pb	64	0069	804645
 pb	65	0070	804646
 pb	66	0071	804647
 pb	67	0072	804648
-entry	Suette miliaire		
+entry	Suette miliaire	8	
 pb	68	0073	804649
 pb	69	0074	804650
 pb	70	0075	804651
@@ -109,9 +109,9 @@ pb	72	0077	804653
 pb	73	0078	804654
 pb	74	0079	804655
 pb	75	0080	804656
-entry	Suffocation		
-entry	Sugillation (médecine légale)		
-entry	Suicide (pathologie)		
+entry	Suffocation	0	
+entry	Sugillation (médecine légale)	0	
+entry	Suicide (pathologie)	21	
 pb	76	0081	804657
 pb	77	0082	804658
 pb	78	0083	804659
@@ -133,14 +133,14 @@ pb	93	0098	804674
 pb	94	0099	804675
 pb	95	0100	804676
 pb	96	0101	804677
-entry	Sulfates et Sulfites		
+entry	Sulfates et Sulfites	1	
 orth	Sulfates		
 orth	Sulfites		
 pb	97	0102	804678
 pb	98	0103	804679
-entry	Sulfates		
-entry	Sulfure		
-entry	Sulfurique (acide)		
+entry	Sulfates	0	
+entry	Sulfure	0	
+entry	Sulfurique (acide)	16	
 pb	99	0104	804680
 pb	100	0105	804681
 pb	101	0106	804682
@@ -157,9 +157,9 @@ pb	111	0116	804692
 pb	112	0117	804693
 pb	113	0118	804694
 pb	114	0119	804695
-entry	Suppositoires		
+entry	Suppositoires	1	
 pb	115	0120	804696
-entry	Surdité		
+entry	Surdité	9	
 pb	116	0121	804697
 pb	117	0122	804698
 pb	118	0123	804699
@@ -169,13 +169,13 @@ pb	121	0126	804702
 pb	122	0127	804703
 pb	123	0128	804704
 pb	124	0129	804705
-entry	Sureau		
+entry	Sureau	3	
 pb	125	0130	804706
 pb	126	0131	804707
 pb	127	0132	804708
-entry	Suspensoir		
+entry	Suspensoir	1	
 pb	128	0133	804709
-entry	Suturé		
+entry	Suturé	9	
 pb	129	0134	804710
 pb	130	0135	804711
 pb	131	0136	804712
@@ -185,36 +185,36 @@ pb	134	0139	804715
 pb	135	0140	804716
 pb	136	0141	804717
 pb	137	0142	804718
-entry	Sycosis		
+entry	Sycosis	6	
 pb	138	0143	804719
 pb	139	0144	804720
 pb	140	0145	804721
 pb	141	0146	804722
 pb	142	0147	804723
 pb	143	0148	804724
-entry	Symblepharon		
+entry	Symblepharon	2	
 pb	144	0149	804725
 pb	145	0150	804726
-entry	Sympathies (pathologie)		
+entry	Sympathies (pathologie)	4	
 pb	146	0151	804727
 pb	147	0152	804728
 pb	148	0153	804729
 pb	149	0154	804730
-entry	Symphyséotomie		
+entry	Symphyséotomie	4	
 pb	150	0155	804731
 pb	151	0156	804732
 pb	152	0157	804733
 pb	153	0158	804734
-entry	Syncope		
+entry	Syncope	1	
 pb	154	0159	804735
-entry	Synoque		
-entry	Synoviales		
+entry	Synoque	0	
+entry	Synoviales	3	
 pb	155	0160	804736
 pb	156	0161	804737
 pb	157	0162	804738
-entry	Synovite		
-entry	Synthèse		
-entry	Syphilides		
+entry	Synovite	0	
+entry	Synthèse	0	
+entry	Syphilides	18	
 pb	158	0163	804739
 pb	159	0164	804740
 pb	160	0165	804741
@@ -234,7 +234,7 @@ pb	173	0178	804754
 pb	174	0179	804755
 pb	175	0180	804756
 pb	176	0181	804757
-entry	Syphilis		
+entry	Syphilis	58	
 pb	177	0182	804758
 pb	178	0183	804759
 pb	179	0184	804760
@@ -293,8 +293,8 @@ pb	231	0236	804812
 pb	232	0237	804813
 pb	233	0238	804814
 pb	234	0239	804815
-entry	Lettre T		
-entry	Tabac		
+entry	Lettre T	0	
+entry	Tabac	11	
 pb	235	0240	804816
 pb	236	0241	804817
 pb	237	0242	804818
@@ -306,43 +306,43 @@ pb	242	0247	804823
 pb	243	0248	804824
 pb	244	0249	804825
 pb	245	0250	804826
-entry	Tablettes (pharm.)		
+entry	Tablettes (pharm.)	0	
 pb	246	0251	804827
-entry	Tablettes (pharm)		
+entry	Tablettes (pharm)	2	
 pb	247	0252	804828
 pb	248	0253	804829
-entry	Taches (médecine légale)		
+entry	Taches (médecine légale)	5	
 pb	249	0254	804830
 pb	250	0255	804831
 pb	251	0256	804832
 pb	252	0257	804833
 pb	253	0258	804834
-entry	Taenia		
-entry	Taie		
-entry	Taille		
-entry	Tamarin		
+entry	Taenia	0	
+entry	Taie	0	
+entry	Taille	0	
+entry	Tamarin	2	
 pb	254	0259	804835
 pb	255	0260	804836
-entry	Tan		
-entry	Tanaisie		
-entry	Tanne		
+entry	Tan	0	
+entry	Tanaisie	0	
+entry	Tanne	2	
 pb	256	0261	804837
 pb	257	0262	804838
-entry	Tannin		
+entry	Tannin	2	
 pb	258	0263	804839
 pb	259	0264	804840
-entry	Tartre		
-entry	Tartrique (acide)		
+entry	Tartre	0	
+entry	Tartrique (acide)	2	
 pb	260	0265	804841
 pb	261	0266	804842
-entry	Taxis		
-entry	Teigne		
+entry	Taxis	0	
+entry	Teigne	1	
 pb	262	0267	804843
-entry	Teintures alcooliques		
+entry	Teintures alcooliques	3	
 pb	263	0268	804844
 pb	264	0269	804845
 pb	265	0270	804846
-entry	Tempérament		
+entry	Tempérament	12	
 pb	266	0271	804847
 pb	267	0272	804848
 pb	268	0273	804849
@@ -355,9 +355,9 @@ pb	274	0279	804855
 pb	275	0280	804856
 pb	276	0281	804857
 pb	277	0282	804858
-entry	Tenesme		
+entry	Tenesme	1	
 pb	278	0283	804859
-entry	Térébenthine		
+entry	Térébenthine	7	
 pb	279	0284	804860
 pb	280	0285	804861
 pb	281	0286	804862
@@ -365,16 +365,16 @@ pb	282	0287	804863
 pb	283	0288	804864
 pb	284	0289	804865
 pb	285	0290	804866
-entry	Térébenthine de copahu		
+entry	Térébenthine de copahu	4	
 pb	286	0291	804867
 pb	287	0292	804868
 pb	288	0293	804869
 pb	289	0294	804870
-entry	Testicule		
+entry	Testicule	3	
 pb	290	0295	804871
 pb	291	0296	804872
 pb	292	0297	804873
-entry	Tétanos		
+entry	Tétanos	16	
 pb	293	0298	804874
 pb	294	0299	804875
 pb	295	0300	804876
@@ -391,65 +391,65 @@ pb	305	0310	804886
 pb	306	0311	804887
 pb	307	0312	804888
 pb	308	0313	804889
-entry	Thé		
+entry	Thé	5	
 pb	309	0314	804890
 pb	310	0315	804891
 pb	311	0316	804892
 pb	312	0317	804893
 pb	313	0318	804894
-entry	Thériaque		
+entry	Thériaque	3	
 pb	314	0319	804895
 pb	315	0320	804896
 pb	316	0321	804897
-entry	Thrombus		
-entry	Thrydace		
-entry	Thym		
-entry	Tic douloureux		
-entry	Tierce (fièvre)		
-entry	Tilleul		
+entry	Thrombus	0	
+entry	Thrydace	0	
+entry	Thym	0	
+entry	Tic douloureux	0	
+entry	Tierce (fièvre)	0	
+entry	Tilleul	1	
 pb	317	0322	804898
-entry	Tire-balle		
+entry	Tire-balle	2	
 pb	318	0323	804899
 pb	319	0324	804900
-entry	Tire-fond		
+entry	Tire-fond	1	
 pb	320	0325	804901
-entry	Tisane		
+entry	Tisane	2	
 pb	321	0326	804902
 pb	322	0327	804903
-entry	Tithymale		
+entry	Tithymale	1	
 pb	323	0328	804904
-entry	Tolu		
-entry	Toniques		
+entry	Tolu	0	
+entry	Toniques	5	
 pb	324	0329	804905
 pb	325	0330	804906
 pb	326	0331	804907
 pb	327	0332	804908
 pb	328	0333	804909
-entry	Tormentille		
-entry	Torsion		
+entry	Tormentille	0	
+entry	Torsion	5	
 pb	329	0334	804910
 pb	330	0335	804911
 pb	331	0336	804912
 pb	332	0337	804913
 pb	333	0338	804914
-entry	Torticolis		
+entry	Torticolis	3	
 pb	334	0339	804915
 pb	335	0340	804916
 pb	336	0341	804917
-entry	Toucher (obstétrique)		
+entry	Toucher (obstétrique)	3	
 pb	337	0342	804918
 pb	338	0343	804919
 pb	339	0344	804920
-entry	Tourniquet		
+entry	Tourniquet	1	
 pb	340	0345	804921
-entry	Toux		
+entry	Toux	1	
 pb	341	0346	804922
-entry	Trachée-artère		
+entry	Trachée-artère	0	
 pb	342	0347	804923
-entry	Trachéite		
+entry	Trachéite	1	
 pb	343	0348	804924
-entry	Trachéotomie		
-entry	Transformations morbides		
+entry	Trachéotomie	0	
+entry	Transformations morbides	11	
 pb	344	0349	804925
 pb	345	0350	804926
 pb	346	0351	804927
@@ -461,11 +461,11 @@ pb	351	0356	804932
 pb	352	0357	804933
 pb	353	0358	804934
 pb	354	0359	804935
-entry	Transfusion du sang		
+entry	Transfusion du sang	2	
 pb	355	0360	804936
 pb	356	0361	804937
-entry	Trefle d'eau		
-entry	Trépan		
+entry	Trefle d'eau	0	
+entry	Trépan	17	
 pb	357	0362	804938
 pb	358	0363	804939
 pb	359	0364	804940
@@ -483,46 +483,46 @@ pb	370	0375	804951
 pb	371	0376	804952
 pb	372	0377	804953
 pb	373	0378	804954
-entry	Trichiasis		
+entry	Trichiasis	5	
 pb	374	0379	804955
 pb	375	0380	804956
 pb	376	0381	804957
 pb	377	0382	804958
 pb	378	0383	804959
-entry	Trichoma		
+entry	Trichoma	4	
 pb	379	0384	804960
 pb	380	0385	804961
 pb	381	0386	804962
 pb	382	0387	804963
-entry	Tricocéphale		
-entry	Trismus		
-entry	Trochisques		
+entry	Tricocéphale	0	
+entry	Trismus	0	
+entry	Trochisques	1	
 pb	383	0388	804964
-entry	Trois-quarts		
+entry	Trois-quarts	4	
 pb	384	0389	804965
 pb	385	0390	804966
 pb	386	0391	804967
 pb	387	0392	804968
-entry	Tubercule		
+entry	Tubercule	4	
 pb	388	0393	804969
 pb	389	0394	804970
 pb	390	0395	804971
 pb	391	0396	804972
-entry	Tumeur blanche		
-entry	Tussilage		
-entry	Tympanite		
+entry	Tumeur blanche	0	
+entry	Tussilage	0	
+entry	Tympanite	4	
 pb	392	0397	804973
 pb	393	0398	804974
 pb	394	0399	804975
 pb	395	0400	804976
-entry	Typhode		
-entry	Typhoide		
+entry	Typhode	0	
+entry	Typhoide	5	
 pb	396	0401	804977
 pb	397	0402	804978
 pb	398	0403	804979
 pb	399	0404	804980
 pb	400	0405	804981
-entry	Typhus		
+entry	Typhus	35	
 pb	401	0406	804982
 pb	402	0407	804983
 pb	403	0408	804984
@@ -559,8 +559,8 @@ pb	433	0438	805014
 pb	434	0439	805015
 pb	435	0440	805016
 pb	436	0441	805017
-entry	Lettre U		
-entry	Ulcère		
+entry	Lettre U	0	
+entry	Ulcère	29	
 pb	437	0442	805018
 pb	438	0443	805019
 pb	439	0444	805020
@@ -590,23 +590,23 @@ pb	462	0467	805043
 pb	463	0468	805044
 pb	464	0469	805045
 pb	465	0470	805046
-entry	Upas antiar (toxicologie)		
-entry	Upas tieuté (toxicologie)		
+entry	Upas antiar (toxicologie)	0	
+entry	Upas tieuté (toxicologie)	2	
 pb	466	0471	805047
 pb	467	0472	805048
-entry	Urée		
+entry	Urée	2	
 pb	468	0473	805049
 pb	469	0474	805050
-entry	Urèthre		
+entry	Urèthre	2	
 pb	470	0475	805051
 pb	471	0476	805052
-entry	Uréthrite		
-entry	Uréthrotomie		
+entry	Uréthrite	0	
+entry	Uréthrotomie	3	
 pb	472	0477	805053
 pb	473	0478	805054
 pb	474	0479	805055
-entry	Urinal		
-entry	Urine		
+entry	Urinal	0	
+entry	Urine	21	
 pb	475	0480	805056
 pb	476	0481	805057
 pb	477	0482	805058
@@ -628,7 +628,7 @@ pb	492	0497	805073
 pb	493	0498	805074
 pb	494	0499	805075
 pb	495	0500	805076
-entry	Urticaire		
+entry	Urticaire	7	
 pb	496	0501	805077
 pb	497	0502	805078
 pb	498	0503	805079
@@ -636,19 +636,19 @@ pb	499	0504	805080
 pb	500	0505	805081
 pb	501	0506	805082
 pb	502	0507	805083
-entry	Urtication		
+entry	Urtication	2	
 pb	503	0508	805084
 pb	504	0509	805085
-entry	Utérus		
+entry	Utérus	5	
 pb	505	0510	805086
 pb	506	0511	805087
 pb	507	0512	805088
 pb	508	0513	805089
 pb	509	0514	805090
-entry	Uva-ursi		
+entry	Uva-ursi	1	
 pb	510	0515	805091
-entry	Lettre V		
-entry	Vaccine		
+entry	Lettre V	0	
+entry	Vaccine	13	
 pb	511	0516	805092
 pb	512	0517	805093
 pb	513	0518	805094
@@ -662,26 +662,26 @@ pb	520	0525	805101
 pb	521	0526	805102
 pb	522	0527	805103
 pb	523	0528	805104
-entry	Vaccinelle		
+entry	Vaccinelle	3	
 pb	524	0529	805105
 pb	525	0530	805106
 pb	526	0531	805107
-entry	Vagin (maladies du)		
+entry	Vagin (maladies du)	2	
 pb	527	0532	805108
 pb	528	0533	805109
-entry	Vaginite		
-entry	Valeriane		
+entry	Vaginite	0	
+entry	Valeriane	2	
 pb	529	0534	805110
 pb	530	0535	805111
-entry	Vapeur		
+entry	Vapeur	4	
 pb	531	0536	805112
 pb	532	0537	805113
 pb	533	0538	805114
 pb	534	0539	805115
-entry	Varec		
+entry	Varec	2	
 pb	535	0540	805116
 pb	536	0541	805117
-entry	Varice		
+entry	Varice	9	
 pb	537	0542	805118
 pb	538	0543	805119
 pb	539	0544	805120
@@ -691,7 +691,7 @@ pb	542	0547	805123
 pb	543	0548	805124
 pb	544	0549	805125
 pb	545	0550	805126
-entry	Varicelle		
+entry	Varicelle	15	
 pb	546	0551	805127
 pb	547	0552	805128
 pb	548	0553	805129
@@ -707,7 +707,7 @@ pb	557	0562	805138
 pb	558	0563	805139
 pb	559	0564	805140
 pb	560	0565	805141
-entry	Varicocèle		
+entry	Varicocèle	9	
 pb	561	0566	805142
 pb	562	0567	805143
 pb	563	0568	805144
@@ -717,7 +717,7 @@ pb	566	0571	805147
 pb	567	0572	805148
 pb	568	0573	805149
 pb	569	0574	805150
-entry	Variole		
+entry	Variole	29	
 pb	570	0575	805151
 pb	571	0576	805152
 pb	572	0577	805153
@@ -747,7 +747,7 @@ pb	595	0600	805176
 pb	596	0601	805177
 pb	597	0602	805178
 pb	598	0603	805179
-entry	Variolique (éruption)		
+entry	Variolique (éruption)	7	
 pb	599	0604	805180
 pb	600	0605	805181
 pb	601	0606	805182
@@ -755,15 +755,15 @@ pb	602	0607	805183
 pb	603	0608	805184
 pb	604	0609	805185
 pb	605	0610	805186
-entry	Varioloide		
-entry	Végétations		
+entry	Varioloide	0	
+entry	Végétations	5	
 pb	606	0611	805187
 pb	607	0612	805188
 pb	608	0613	805189
 pb	609	0614	805190
 pb	610	0615	805191
 pb	611	0616	805192
-entry	Venteuses (maladies)		
+entry	Venteuses (maladies)	13	
 pb	612	0617	805193
 pb	613	0618	805194
 pb	614	0619	805195
@@ -777,28 +777,28 @@ pb	621	0626	805202
 pb	622	0627	805203
 pb	623	0628	805204
 pb	624	0629	805205
-entry	Ventilation		
+entry	Ventilation	2	
 pb	625	0630	805206
 pb	626	0631	805207
-entry	Ventouse		
+entry	Ventouse	4	
 pb	627	0632	805208
 pb	628	0633	805209
 pb	629	0634	805210
 pb	630	0635	805211
-entry	Vers		
-entry	Vératrine		
+entry	Vers	0	
+entry	Vératrine	2	
 pb	631	0636	805212
 pb	632	0637	805213
-entry	Verge		
+entry	Verge	1	
 pb	633	0638	805214
-entry	Vergetures		
-entry	Vermifuge		
-entry	Véronique		
+entry	Vergetures	0	
+entry	Vermifuge	0	
+entry	Véronique	1	
 pb	634	0639	805215
-entry	Verrue		
+entry	Verrue	2	
 pb	635	0640	805216
 pb	636	0641	805217
-entry	Version		
+entry	Version	18	
 pb	637	0642	805218
 pb	638	0643	805219
 pb	639	0644	805220
@@ -817,8 +817,8 @@ pb	651	0656	805232
 pb	652	0657	805233
 pb	653	0658	805234
 pb	654	0659	805235
-entry	Vertébral		
-entry	Vertébrale		
+entry	Vertébral	0	
+entry	Vertébrale	56	
 pb	655	0660	805236
 pb	656	0661	805237
 pb	657	0662	805238
@@ -875,8 +875,8 @@ pb	707	0712	805288
 pb	708	0713	805289
 pb	709	0714	805290
 pb	710	0715	805291
-entry	Verveine		
-entry	Vésicatoire		
+entry	Verveine	0	
+entry	Vésicatoire	13	
 pb	711	0716	805292
 pb	712	0717	805293
 pb	713	0718	805294
@@ -890,9 +890,9 @@ pb	720	0725	805301
 pb	721	0726	805302
 pb	722	0727	805303
 pb	723	0728	805304
-entry	Vessie		
+entry	Vessie	1	
 pb	724	0729	805305
-entry	Vêtement		
+entry	Vêtement	15	
 pb	725	0730	805306
 pb	726	0731	805307
 pb	727	0732	805308
@@ -908,15 +908,15 @@ pb	736	0741	805317
 pb	737	0742	805318
 pb	738	0743	805319
 pb	739	0744	805320
-entry	Viabilité (médecine légale)		
+entry	Viabilité (médecine légale)	4	
 pb	740	0745	805321
 pb	741	0746	805322
 pb	742	0747	805323
 pb	743	0748	805324
-entry	Vin		
+entry	Vin	0	
 pb	744	0749	805325
-entry	Vinaigre		
-entry	Viol		
+entry	Vinaigre	0	
+entry	Viol	9	
 pb	745	0750	805326
 pb	746	0751	805327
 pb	747	0752	805328
@@ -926,26 +926,26 @@ pb	750	0755	805331
 pb	751	0756	805332
 pb	752	0757	805333
 pb	753	0758	805334
-entry	Violette		
+entry	Violette	2	
 pb	754	0759	805335
 pb	755	0760	805336
-entry	Vipère		
-entry	Virus		
+entry	Vipère	0	
+entry	Virus	3	
 pb	756	0761	805337
 pb	757	0762	805338
 pb	758	0763	805339
-entry	Vitalisme		
+entry	Vitalisme	4	
 pb	759	0764	805340
 pb	760	0765	805341
 pb	761	0766	805342
 pb	762	0767	805343
-entry	Vitiligo		
+entry	Vitiligo	1	
 pb	763	0768	805344
-entry	Volvulus		
-entry	Vomique		
+entry	Volvulus	0	
+entry	Vomique	2	
 pb	764	0769	805345
 pb	765	0770	805346
-entry	Vomissement		
+entry	Vomissement	11	
 pb	766	0771	805347
 pb	767	0772	805348
 pb	768	0773	805349
@@ -957,46 +957,46 @@ pb	773	0778	805354
 pb	774	0779	805355
 pb	775	0780	805356
 pb	776	0781	805357
-entry	Vomitif		
-entry	Vulnéraire		
+entry	Vomitif	0	
+entry	Vulnéraire	1	
 pb	777	0782	805358
-entry	Lettre Y		
-entry	Yaws		
+entry	Lettre Y	0	
+entry	Yaws	6	
 pb	778	0783	805359
 pb	779	0784	805360
 pb	780	0785	805361
 pb	781	0786	805362
 pb	782	0787	805363
 pb	783	0788	805364
-entry	Yeble		
-entry	Lettre Z		
-entry	Zinc		
+entry	Yeble	0	
+entry	Lettre Z	0	
+entry	Zinc	3	
 pb	784	0789	805365
 pb	785	0790	805366
 pb	786	0791	805367
-entry	Zona		
-entry	Supplément		
-entry	Lettre C		
-entry	Créosote		
-entry	Lettre E		
-entry	Excrétion		
-entry	Lettre K		
-entry	Kéloide		
+entry	Zona	0	
+entry	Supplément	0	
+entry	Lettre C	0	
+entry	Créosote	0	
+entry	Lettre E	0	
+entry	Excrétion	0	
+entry	Lettre K	0	
+entry	Kéloide	4	
 pb	787	0792	805368
 pb	788	0793	805369
 pb	789	0794	805370
 pb	790	0795	805371
-entry	Lettre M		
-entry	Moutarde		
+entry	Lettre M	0	
+entry	Moutarde	3	
 pb	791	0796	805372
 pb	792	0797	805373
 pb	793	0798	805374
-entry	Lettre P		
-entry	Pneumothorax		
-entry	Lettre R		
-entry	Ramollissement		
+entry	Lettre P	0	
+entry	Pneumothorax	0	
+entry	Lettre R	0	
+entry	Ramollissement	1	
 pb	794	0799	805375
-entry	Réunion		
+entry	Réunion	17	
 pb	795	0800	805376
 pb	796	0801	805377
 pb	797	0802	805378
@@ -1014,14 +1014,14 @@ pb	808	0813	805389
 pb	809	0814	805390
 pb	810	0815	805391
 pb	811	0816	805392
-entry	Roséole		
+entry	Roséole	6	
 pb	812	0817	805393
 pb	813	0818	805394
 pb	814	0819	805395
 pb	815	0820	805396
 pb	816	0821	805397
 pb	817	0822	805398
-entry	Rougeole		
+entry	Rougeole	17	
 pb	818	0823	805399
 pb	819	0824	805400
 pb	820	0825	805401
@@ -1040,7 +1040,7 @@ pb	832	0837	805413
 pb	833	0838	805414
 pb	834	0839	805415
 pb	[s. pag.]	0840	805416
-entry	Liste des souscripteurs		
+entry	Liste des souscripteurs	5	
 pb	836	0841	805417
 pb	837	0842	805418
 pb	838	0843	805419

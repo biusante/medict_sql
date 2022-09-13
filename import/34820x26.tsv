@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	476455
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	476456
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	476457
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	476458
-entry	Poumon		
+entry	Poumon	71	
 pb	2	0005	476459
 pb	3	0006	476460
 pb	4	0007	476461
@@ -77,7 +77,7 @@ pb	69	0072	476526
 pb	70	0073	476527
 pb	71	0074	476528
 pb	72	0075	476529
-entry	Pourpre		
+entry	Pourpre	8	
 pb	73	0076	476530
 pb	74	0077	476531
 pb	75	0078	476532
@@ -87,7 +87,7 @@ pb	78	0081	476535
 pb	79	0082	476536
 pb	80	0083	476537
 pb	81	0084	476538
-entry	Pourriture d'hopital		
+entry	Pourriture d'hopital	16	
 pb	82	0085	476539
 pb	83	0086	476540
 pb	84	0087	476541
@@ -104,17 +104,17 @@ pb	94	0097	476551
 pb	95	0098	476552
 pb	96	0099	476553
 pb	97	0100	476554
-entry	Presbytie		
+entry	Presbytie	2	
 pb	98	0101	476555
 pb	99	0102	476556
-entry	Priapisme		
-entry	Prodrome		
+entry	Priapisme	0	
+entry	Prodrome	5	
 pb	100	0103	476557
 pb	101	0104	476558
 pb	102	0105	476559
 pb	103	0106	476560
 pb	104	0107	476561
-entry	Professions		
+entry	Professions	12	
 pb	105	0108	476562
 pb	106	0109	476563
 pb	107	0110	476564
@@ -128,7 +128,7 @@ pb	114	0117	476571
 pb	115	0118	476572
 pb	116	0119	476573
 pb	117	0120	476574
-entry	Pronostic		
+entry	Pronostic	12	
 pb	118	0121	476575
 pb	119	0122	476576
 pb	120	0123	476577
@@ -141,7 +141,7 @@ pb	126	0129	476583
 pb	127	0130	476584
 pb	128	0131	476585
 pb	129	0132	476586
-entry	Prostate		
+entry	Prostate	86	
 pb	130	0133	476587
 pb	131	0134	476588
 pb	132	0135	476589
@@ -228,22 +228,22 @@ pb	212	0215	476669
 pb	213	0216	476670
 pb	214	0217	476671
 pb	215	0218	476672
-entry	Prostration		
-entry	Provins		
+entry	Prostration	0	
+entry	Provins	2	
 pb	216	0219	476673
 pb	217	0220	476674
-entry	Prurigo		
+entry	Prurigo	6	
 pb	218	0221	476675
 pb	219	0222	476676
 pb	220	0223	476677
 pb	221	0224	476678
 pb	222	0225	476679
 pb	223	0226	476680
-entry	Prurit		
-entry	Prussiate, Prussique		
+entry	Prurit	0	
+entry	Prussiate, Prussique	0	
 orth	Prussiate		
 orth	Prussique		
-entry	Pseudarthrose		
+entry	Pseudarthrose	17	
 pb	224	0227	476681
 pb	225	0228	476682
 pb	226	0229	476683
@@ -261,7 +261,7 @@ pb	237	0240	476694
 pb	238	0241	476695
 pb	239	0242	476696
 pb	240	0243	476697
-entry	Pseudomembranes		
+entry	Pseudomembranes	22	
 pb	241	0244	476698
 pb	242	0245	476699
 pb	243	0246	476700
@@ -284,7 +284,7 @@ pb	259	0262	476716
 pb	260	0263	476717
 pb	261	0264	476718
 pb	262	0265	476719
-entry	Psoite		
+entry	Psoite	9	
 pb	263	0266	476720
 pb	264	0267	476721
 pb	265	0268	476722
@@ -294,7 +294,7 @@ pb	268	0271	476725
 pb	269	0272	476726
 pb	270	0273	476727
 pb	271	0274	476728
-entry	Psoriasis		
+entry	Psoriasis	9	
 pb	272	0275	476729
 pb	273	0276	476730
 pb	274	0277	476731
@@ -304,7 +304,7 @@ pb	277	0280	476734
 pb	278	0281	476735
 pb	279	0282	476736
 pb	280	0283	476737
-entry	Psychologie		
+entry	Psychologie	49	
 pb	281	0284	476738
 pb	282	0285	476739
 pb	283	0286	476740
@@ -355,14 +355,14 @@ pb	327	0330	476784
 pb	328	0331	476785
 pb	329	0332	476786
 pb	330	0333	476787
-entry	Pubis		
+entry	Pubis	6	
 pb	331	0334	476788
 pb	332	0335	476789
 pb	333	0336	476790
 pb	334	0337	476791
 pb	335	0338	476792
 pb	336	0339	476793
-entry	Puerperale		
+entry	Puerperale	23	
 pb	337	0340	476794
 pb	338	0341	476795
 pb	339	0342	476796
@@ -387,8 +387,8 @@ pb	357	0360	476814
 pb	358	0361	476815
 pb	359	0362	476816
 pb	360	0363	476817
-entry	Pullna		
-entry	Pulmonaires		
+entry	Pullna	0	
+entry	Pulmonaires	7	
 pb	361	0364	476818
 pb	362	0365	476819
 pb	363	0366	476820
@@ -396,7 +396,7 @@ pb	364	0367	476821
 pb	365	0368	476822
 pb	366	0369	476823
 pb	367	0370	476824
-entry	Pupille artificielle		
+entry	Pupille artificielle	28	
 pb	368	0371	476825
 pb	369	0372	476826
 pb	370	0373	476827
@@ -426,7 +426,7 @@ pb	393	0396	476850
 pb	394	0397	476851
 pb	395	0398	476852
 pb	396	0399	476853
-entry	Purgatif		
+entry	Purgatif	15	
 pb	397	0400	476854
 pb	398	0401	476855
 pb	399	0402	476856
@@ -442,7 +442,7 @@ pb	408	0411	476865
 pb	409	0412	476866
 pb	410	0413	476867
 pb	141	0414	476868
-entry	Pus, Pygenie		
+entry	Pus, Pygenie	96	
 orth	Pus		
 orth	Pygenie		
 pb	412	0415	476869
@@ -541,8 +541,8 @@ pb	504	0507	476961
 pb	505	0508	476962
 pb	506	0509	476963
 pb	507	0510	476964
-entry	Pustule		
-entry	Pustule maligne		
+entry	Pustule	0	
+entry	Pustule maligne	9	
 pb	508	0511	476965
 pb	509	0512	476966
 pb	510	0513	476967
@@ -552,7 +552,7 @@ pb	513	0516	476970
 pb	514	0517	476971
 pb	515	0518	476972
 pb	516	0519	476973
-entry	Putréfaction		
+entry	Putréfaction	20	
 pb	517	0520	476974
 pb	518	0521	476975
 pb	519	0522	476976
@@ -573,26 +573,26 @@ pb	533	0536	476990
 pb	534	0537	476991
 pb	535	0538	476992
 pb	536	0539	476993
-entry	Putride		
-entry	Pyrèthre		
+entry	Putride	0	
+entry	Pyrèthre	1	
 pb	537	0540	476994
-entry	Pyretologie, Pyrexie		
+entry	Pyretologie, Pyrexie	0	
 orth	Pyretologie		
 orth	Pyrexie		
-entry	Pyrmont		
+entry	Pyrmont	1	
 pb	538	0541	476995
 pb	539	0542	476996
-entry	Pymont		
-entry	Pyrosis		
+entry	Pymont	0	
+entry	Pyrosis	2	
 pb	540	0543	476997
 pb	541	0544	476998
 pb	542	0545	476999
-entry	Lettre Q		
-entry	Quarantaine		
-entry	Quassia amara		
+entry	Lettre Q	0	
+entry	Quarantaine	0	
+entry	Quassia amara	1	
 pb	543	0546	477000
-entry	Quinine		
-entry	Quinquina		
+entry	Quinine	0	
+entry	Quinquina	52	
 pb	544	0547	477001
 pb	545	0548	477002
 pb	546	0549	477003
@@ -646,7 +646,7 @@ pb	593	0596	477050
 pb	594	0597	477051
 pb	595	0598	477052
 pb	[s. pag.]	0599	477053
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0600	477054
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	600	0601	477055

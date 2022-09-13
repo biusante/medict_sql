@@ -1,19 +1,19 @@
 pb	[s. pag.]	0001	4818586
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4818587
 pb	[s. pag.]	0003	4818588
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4818589
 pb	1	0005	4818590
-entry	Tympan		
-entry	Tympanite		
-entry	Type		
-entry	Typhique, Typhode, Typhoïde		
+entry	Tympan	0	
+entry	Tympanite	0	
+entry	Type	0	
+entry	Typhique, Typhode, Typhoïde	0	
 orth	Typhique		
 orth	Typhode		
 orth	Typhoïde		
-entry	Typhomanie		
-entry	Typhus [Andral fils]		
+entry	Typhomanie	0	
+entry	Typhus [Andral fils]	25	
 orth	Typhus		
 pb	2	0006	4818591
 pb	3	0007	4818592
@@ -41,13 +41,13 @@ pb	24	0028	4818613
 pb	25	0029	4818614
 pb	26	0030	4818615
 pb	27	0031	4818616
-entry	Ulcération [Andral fils]		
+entry	Ulcération [Andral fils]	4	
 orth	Ulcération		
 pb	28	0032	4818617
 pb	29	0033	4818618
 pb	30	0034	4818619
 pb	31	0035	4818620
-entry	Ulcère [Marjolin]		
+entry	Ulcère [Marjolin]	19	
 orth	Ulcère		
 pb	32	0036	4818621
 pb	33	0037	4818622
@@ -68,50 +68,50 @@ pb	47	0051	4818636
 pb	48	0052	4818637
 pb	49	0053	4818638
 pb	50	0054	4818639
-entry	Ulcéreux		
-entry	Ulmine [Orfila]		
+entry	Ulcéreux	0	
+entry	Ulmine [Orfila]	1	
 orth	Ulmine		
 pb	51	0055	4818640
-entry	Unciforme		
-entry	Unguéal, ale		
+entry	Unciforme	0	
+entry	Unguéal, ale	0	
 orth	Unguéal		
-entry	Unguis [Marjolin]		
+entry	Unguis [Marjolin]	0	
 orth	Unguis		
-entry	Unissant		
-entry	Upas [A. Richard]		
+entry	Unissant	0	
+entry	Upas [A. Richard]	4	
 orth	Upas		
 pb	52	0056	4818641
 pb	53	0057	4818642
 pb	54	0058	4818643
 pb	55	0059	4818644
-entry	Urane [Orfila]		
+entry	Urane [Orfila]	1	
 orth	Urane		
 pb	56	0060	4818645
-entry	Urate [Orfila]		
+entry	Urate [Orfila]	0	
 orth	Urate		
-entry	Urée [Orfila]		
+entry	Urée [Orfila]	2	
 orth	Urée		
 pb	57	0061	4818646
 pb	58	0062	4818647
-entry	Uretère		
-entry	Uréthral, ale		
+entry	Uretère	0	
+entry	Uréthral, ale	0	
 orth	Uréthral		
-entry	Urèthre ou Urètre		
+entry	Urèthre ou Urètre	0	
 orth	Urèthre		
 orth	Urètre		
-entry	Uréthrite		
-entry	Uréthrorrhagie		
+entry	Uréthrite	0	
+entry	Uréthrorrhagie	1	
 pb	59	0063	4818648
-entry	Utéthro-bulbaire		
-entry	Urétrotome [Murat]		
+entry	Utéthro-bulbaire	0	
+entry	Urétrotome [Murat]	1	
 orth	Urétrotome		
 pb	60	0064	4818649
-entry	Urétrotomie [Murat]		
+entry	Urétrotomie [Murat]	3	
 orth	Urétrotomie		
 pb	61	0065	4818650
 pb	62	0066	4818651
 pb	63	0067	4818652
-entry	Urinaire [Marjolin, Adelon]		
+entry	Urinaire [Marjolin, Adelon]	12	
 orth	Urinaire		
 pb	64	0068	4818653
 pb	65	0069	4818654
@@ -125,8 +125,8 @@ pb	72	0076	4818661
 pb	73	0077	4818662
 pb	74	0078	4818663
 pb	75	0079	4818664
-entry	Urinal		
-entry	Urine [Orfila, Andral fils]		
+entry	Urinal	0	
+entry	Urine [Orfila, Andral fils]	10	
 orth	Urine		
 pb	76	0080	4818665
 pb	77	0081	4818666
@@ -138,30 +138,30 @@ pb	82	0086	4818671
 pb	83	0087	4818672
 pb	84	0088	4818673
 pb	85	0089	4818674
-entry	Urineux		
-entry	Urique (acide) [Orfila]		
+entry	Urineux	0	
+entry	Urique (acide) [Orfila]	2	
 orth	Urique (acide)		
 pb	86	0090	4818675
 pb	87	0091	4818676
-entry	Uromancie, Uroscopie		
+entry	Uromancie, Uroscopie	0	
 orth	Uromancie		
 orth	Uroscopie		
-entry	Urticaire [P. Rayer]		
+entry	Urticaire [P. Rayer]	5	
 orth	Urticaire		
 pb	88	0092	4818677
 pb	89	0093	4818678
 pb	90	0094	4818679
 pb	91	0095	4818680
 pb	92	0096	4818681
-entry	Urtication		
-entry	Urticées [A. Richard]		
+entry	Urtication	0	
+entry	Urticées [A. Richard]	2	
 orth	Urticées		
 pb	93	0097	4818682
 pb	94	0098	4818683
-entry	Ustion		
-entry	Utérin, ine		
+entry	Ustion	0	
+entry	Utérin, ine	0	
 orth	Utérin		
-entry	Utérus [C. P. Ollivier, Desormeaux]		
+entry	Utérus [C. P. Ollivier, Desormeaux]	42	
 orth	Utérus		
 pb	95	0099	4818684
 pb	96	0100	4818685
@@ -205,25 +205,25 @@ pb	133	0137	4818722
 pb	134	0138	4818723
 pb	135	0139	4818724
 pb	136	0140	4818725
-entry	Uvée		
-entry	Uvulaire [Marjolin]		
+entry	Uvée	0	
+entry	Uvulaire [Marjolin]	0	
 orth	Uvulaire		
 pb	137	0141	4818726
-entry	Vaccin [Guersent]		
+entry	Vaccin [Guersent]	5	
 orth	Vaccin		
 pb	138	0142	4818727
 pb	139	0143	4818728
 pb	140	0144	4818729
 pb	141	0145	4818730
 pb	142	0146	4818731
-entry	Vaccination [Guersent]		
+entry	Vaccination [Guersent]	5	
 orth	Vaccination		
 pb	143	0147	4818732
 pb	144	0148	4818733
 pb	145	0149	4818734
 pb	146	0150	4818735
 pb	147	0151	4818736
-entry	Vaccine [Guersent]		
+entry	Vaccine [Guersent]	15	
 orth	Vaccine		
 pb	148	0152	4818737
 pb	149	0153	4818738
@@ -240,43 +240,43 @@ pb	159	0163	4818748
 pb	160	0164	4818749
 pb	161	0165	4818750
 pb	162	0166	4818751
-entry	Vacciniées [A. Richard]		
+entry	Vacciniées [A. Richard]	0	
 orth	Vacciniées		
-entry	Vagin		
+entry	Vagin	4	
 pb	163	0167	4818752
 pb	164	0168	4818753
 pb	165	0169	4818754
 pb	166	0170	4818755
-entry	Vaginal, ale		
+entry	Vaginal, ale	0	
 orth	Vaginal		
-entry	Vagissement		
+entry	Vagissement	1	
 pb	167	0171	4818756
-entry	Vague		
-entry	Vaisseau [Marjolin]		
+entry	Vague	0	
+entry	Vaisseau [Marjolin]	1	
 orth	Vaisseau		
 pb	168	0172	4818757
-entry	Valériane [A. Richard]		
+entry	Valériane [A. Richard]	2	
 orth	Valériane		
 pb	169	0173	4818758
 pb	170	0174	4818759
-entry	Valérianées [A. Richard]		
+entry	Valérianées [A. Richard]	1	
 orth	Valérianées		
 pb	171	0175	4818760
-entry	Valet-à-Patin		
-entry	Valétudinaire		
-entry	Valvule [Marjolin]		
+entry	Valet-à-Patin	0	
+entry	Valétudinaire	0	
+entry	Valvule [Marjolin]	1	
 orth	Valvule		
 pb	172	0176	4818761
-entry	Vanille [A. Richard]		
+entry	Vanille [A. Richard]	0	
 orth	Vanille		
-entry	Vapeur		
+entry	Vapeur	0	
 pb	173	0177	4818762
-entry	Vapeurs		
-entry	Varec ou Varech [A. Richard]		
+entry	Vapeurs	0	
+entry	Varec ou Varech [A. Richard]	1	
 orth	Varec		
 orth	Varech		
 pb	174	0178	4818763
-entry	Varice [Jules Cloquet]		
+entry	Varice [Jules Cloquet]	8	
 orth	Varice		
 pb	175	0179	4818764
 pb	176	0180	4818765
@@ -286,7 +286,7 @@ pb	179	0183	4818768
 pb	180	0184	4818769
 pb	181	0185	4818770
 pb	182	0186	4818771
-entry	Varicelle [Guersent]		
+entry	Varicelle [Guersent]	6	
 orth	Varicelle		
 pb	183	0187	4818772
 pb	184	0188	4818773
@@ -294,12 +294,12 @@ pb	185	0189	4818774
 pb	186	0190	4818775
 pb	187	0191	4818776
 pb	188	0192	4818777
-entry	Varicocèle [Jules Cloquet]		
+entry	Varicocèle [Jules Cloquet]	1	
 orth	Varicocèle		
 pb	189	0193	4818778
-entry	Varicomphale		
+entry	Varicomphale	1	
 pb	190	0194	4818779
-entry	Variole [Guersent]		
+entry	Variole [Guersent]	22	
 orth	Variole		
 pb	191	0195	4818780
 pb	192	0196	4818781
@@ -323,20 +323,20 @@ pb	209	0213	4818798
 pb	210	0214	4818799
 pb	211	0215	4818800
 pb	212	0216	4818801
-entry	Varioleux, Variolique		
+entry	Varioleux, Variolique	0	
 orth	Varioleux		
 orth	Variolique		
-entry	Variqueux		
-entry	Vasculaire ou Vasculeux		
+entry	Variqueux	0	
+entry	Vasculaire ou Vasculeux	0	
 orth	Vasculaire		
 orth	Vasculeux		
-entry	Vaste		
-entry	Végétations [L		
+entry	Vaste	0	
+entry	Végétations [L	0	
 ref	Lagneau]		
-entry	Végéto-minérale		
-entry	Veille		
+entry	Végéto-minérale	0	
+entry	Veille	1	
 pb	213	0217	4818802
-entry	Veine		
+entry	Veine	8	
 pb	214	0218	4818803
 pb	215	0219	4818804
 pb	216	0220	4818805
@@ -345,70 +345,70 @@ pb	218	0222	4818807
 pb	219	0223	4818808
 pb	220	0224	4818809
 pb	221	0225	4818810
-entry	Veineux, euse		
+entry	Veineux, euse	0	
 orth	Veineux		
-entry	Veinule [C. P. Ollivier]		
+entry	Veinule [C. P. Ollivier]	0	
 orth	Veinule		
-entry	Vélar [A. Richard]		
+entry	Vélar [A. Richard]	0	
 orth	Vélar		
-entry	Velouté		
+entry	Velouté	0	
 pb	222	0226	4818811
-entry	Vénéneux		
-entry	Vénérien		
-entry	Vénimeux		
-entry	Venin		
-entry	Vent		
-entry	Vents, Venteuses (maladies)		
+entry	Vénéneux	0	
+entry	Vénérien	0	
+entry	Vénimeux	0	
+entry	Venin	0	
+entry	Vent	0	
+entry	Vents, Venteuses (maladies)	0	
 orth	Vents		
 orth	Venteuses (maladies)		
-entry	Ventilateur [L. Rostan]		
+entry	Ventilateur [L. Rostan]	3	
 orth	Ventilateur		
 pb	223	0227	4818812
 pb	224	0228	4818813
 pb	225	0229	4818814
-entry	Ventouse [Guersent]		
+entry	Ventouse [Guersent]	5	
 orth	Ventouse		
 pb	226	0230	4818815
 pb	227	0231	4818816
 pb	228	0232	4818817
 pb	229	0233	4818818
 pb	230	0234	4818819
-entry	Ventricule [Marjolin]		
+entry	Ventricule [Marjolin]	0	
 orth	Ventricule		
-entry	Vénule		
-entry	Vératrine [Orfila]		
+entry	Vénule	0	
+entry	Vératrine [Orfila]	2	
 orth	Vératrine		
 pb	231	0235	4818820
 pb	232	0236	4818821
-entry	Verge		
-entry	Vergetures		
-entry	Verjus [A. Richard]		
+entry	Verge	0	
+entry	Vergetures	0	
+entry	Verjus [A. Richard]	0	
 orth	Verjus		
-entry	Vermiculaire		
-entry	Vermifuge [Guersent]		
+entry	Vermiculaire	0	
+entry	Vermifuge [Guersent]	3	
 orth	Vermifuge		
 pb	233	0237	4818822
 pb	234	0238	4818823
 pb	235	0239	4818824
-entry	Vermiforme [Marjolin]		
+entry	Vermiforme [Marjolin]	0	
 orth	Vermiforme		
-entry	Vermineux		
-entry	Vérole		
-entry	Vérole (petite)		
-entry	Vérolette		
-entry	Vérolique		
-entry	Véronique [A. Richard]		
+entry	Vermineux	0	
+entry	Vérole	0	
+entry	Vérole (petite)	0	
+entry	Vérolette	0	
+entry	Vérolique	0	
+entry	Véronique [A. Richard]	1	
 orth	Véronique		
 pb	236	0240	4818825
-entry	Verre d'antimoine [Orfila]		
+entry	Verre d'antimoine [Orfila]	1	
 orth	Verre d'antimoine		
 pb	237	0241	4818826
-entry	Verrue [L		
+entry	Verrue [L	3	
 ref	Lagneau]		
 pb	238	0242	4818827
 pb	239	0243	4818828
 pb	240	0244	4818829
-entry	Vers (pathol.) [Guersent]		
+entry	Vers (pathol.) [Guersent]	14	
 orth	Vers (pathol.)		
 pb	241	0245	4818830
 pb	242	0246	4818831
@@ -424,8 +424,8 @@ pb	251	0255	4818840
 pb	252	0256	4818841
 pb	253	0257	4818842
 pb	254	0258	4818843
-entry	Vers vésiculaires		
-entry	Version du foetus [Desormeaux]		
+entry	Vers vésiculaires	0	
+entry	Version du foetus [Desormeaux]	18	
 orth	Version du foetus		
 pb	255	0259	4818844
 pb	256	0260	4818845
@@ -445,12 +445,12 @@ pb	269	0273	4818858
 pb	270	0274	4818859
 pb	271	0275	4818860
 pb	272	0276	4818861
-entry	Vert-de-gris		
-entry	Vertébral, ale		
+entry	Vert-de-gris	0	
+entry	Vertébral, ale	2	
 orth	Vertébral		
 pb	273	0277	4818862
 pb	274	0278	4818863
-entry	Vertèbre [C. P. Ollivier]		
+entry	Vertèbre [C. P. Ollivier]	9	
 orth	Vertèbre		
 pb	275	0279	4818864
 pb	276	0280	4818865
@@ -461,22 +461,22 @@ pb	280	0284	4818869
 pb	281	0285	4818870
 pb	282	0286	4818871
 pb	283	0287	4818872
-entry	Vertébro-iliaque		
-entry	Vertex		
-entry	Vertige		
+entry	Vertébro-iliaque	0	
+entry	Vertex	0	
+entry	Vertige	1	
 pb	284	0288	4818873
-entry	Verumontanum [Marjolin]		
+entry	Verumontanum [Marjolin]	0	
 orth	Verumontanum		
-entry	Verveine [A. Richard]		
+entry	Verveine [A. Richard]	1	
 orth	Verveine		
 pb	285	0289	4818874
-entry	Vésanie		
-entry	Vésical, ale [Marjolin]		
+entry	Vésanie	0	
+entry	Vésical, ale [Marjolin]	0	
 orth	Vésical		
-entry	Vésicant		
+entry	Vésicant	2	
 pb	286	0290	4818875
 pb	287	0291	4818876
-entry	Vésicatoire [Guersent]		
+entry	Vésicatoire [Guersent]	10	
 orth	Vésicatoire		
 pb	288	0292	4818877
 pb	289	0293	4818878
@@ -488,11 +488,11 @@ pb	294	0298	4818883
 pb	295	0299	4818884
 pb	296	0300	4818885
 pb	297	0301	4818886
-entry	Vésication		
-entry	Vésicule [Marjolin]		
+entry	Vésication	0	
+entry	Vésicule [Marjolin]	1	
 orth	Vésicule		
 pb	298	0302	4818887
-entry	Vessie [Marjolin]		
+entry	Vessie [Marjolin]	6	
 orth	Vessie		
 pb	299	0303	4818888
 pb	300	0304	4818889
@@ -500,10 +500,10 @@ pb	301	0305	4818890
 pb	302	0306	4818891
 pb	303	0307	4818892
 pb	304	0308	4818893
-entry	Vestibulaire		
+entry	Vestibulaire	1	
 pb	305	0309	4818894
-entry	Vestibule		
-entry	Vêtemens [L. Rostan]		
+entry	Vestibule	0	
+entry	Vêtemens [L. Rostan]	12	
 orth	Vêtemens		
 pb	306	0310	4818895
 pb	307	0311	4818896
@@ -517,34 +517,34 @@ pb	314	0318	4818903
 pb	315	0319	4818904
 pb	316	0320	4818905
 pb	317	0321	4818906
-entry	Viabilité [Marc]		
+entry	Viabilité [Marc]	3	
 orth	Viabilité		
 pb	318	0322	4818907
 pb	319	0323	4818908
 pb	320	0324	4818909
-entry	Viable		
-entry	Vibices		
-entry	Vibrant		
-entry	Vidien, nne		
+entry	Viable	0	
+entry	Vibices	0	
+entry	Vibrant	0	
+entry	Vidien, nne	0	
 orth	Vidien		
 orth	nne		
-entry	Vie [Rullier]		
+entry	Vie [Rullier]	3	
 orth	Vie		
 pb	321	0325	4818910
 pb	322	0326	4818911
 pb	323	0327	4818912
 pb	324	0328	4818913
-entry	Vieillesse [Rullier]		
+entry	Vieillesse [Rullier]	0	
 orth	Vieillesse		
-entry	Vif		
-entry	Vigne [A. Richard]		
+entry	Vif	0	
+entry	Vigne [A. Richard]	3	
 orth	Vigne		
 pb	325	0329	4818914
 pb	326	0330	4818915
 pb	327	0331	4818916
-entry	Villeux		
-entry	Villosité		
-entry	Vin [L. Rostan]		
+entry	Villeux	0	
+entry	Villosité	0	
+entry	Vin [L. Rostan]	15	
 orth	Vin		
 pb	328	0332	4818917
 pb	329	0333	4818918
@@ -561,22 +561,22 @@ pb	339	0343	4818928
 pb	340	0344	4818929
 pb	341	0345	4818930
 pb	342	0346	4818931
-entry	Vins médicinaux [Orfila]		
+entry	Vins médicinaux [Orfila]	4	
 orth	Vins médicinaux		
 pb	343	0347	4818932
 pb	344	0348	4818933
 pb	345	0349	4818934
 pb	346	0350	4818935
-entry	Vinaigre [Orfila]		
+entry	Vinaigre [Orfila]	4	
 orth	Vinaigre		
 pb	347	0351	4818936
 pb	348	0352	4818937
 pb	349	0353	4818938
 pb	350	0354	4818939
-entry	Vinettier [A. Richard]		
+entry	Vinettier [A. Richard]	1	
 orth	Vinettier		
 pb	351	0355	4818940
-entry	Viol [Marc]		
+entry	Viol [Marc]	10	
 orth	Viol		
 pb	352	0356	4818941
 pb	353	0357	4818942
@@ -588,32 +588,32 @@ pb	358	0362	4818947
 pb	359	0363	4818948
 pb	360	0364	4818949
 pb	361	0365	4818950
-entry	Violariées [A. Richard]		
+entry	Violariées [A. Richard]	1	
 orth	Violariées		
 pb	362	0366	4818951
-entry	Violette [A. Richard]		
+entry	Violette [A. Richard]	1	
 orth	Violette		
 pb	363	0367	4818952
-entry	Vipère [Hippol. Cloquet]		
+entry	Vipère [Hippol. Cloquet]	2	
 orth	Vipère		
 pb	364	0368	4818953
 pb	365	0369	4818954
-entry	Vireux		
-entry	Viril, ile		
+entry	Vireux	0	
+entry	Viril, ile	0	
 orth	Viril		
-entry	Virilité [Rullier]		
+entry	Virilité [Rullier]	1	
 orth	Virilité		
 pb	366	0370	4818955
-entry	Virulent		
-entry	Virus [Rochoux]		
+entry	Virulent	0	
+entry	Virus [Rochoux]	3	
 orth	Virus		
 pb	367	0371	4818956
 pb	368	0372	4818957
 pb	369	0373	4818958
-entry	Viscéral, le		
+entry	Viscéral, le	0	
 orth	Viscéral		
-entry	Viscère		
-entry	Vision [Adelon]		
+entry	Viscère	0	
+entry	Vision [Adelon]	10	
 orth	Vision		
 pb	370	0374	4818959
 pb	371	0375	4818960
@@ -625,31 +625,31 @@ pb	376	0380	4818965
 pb	377	0381	4818966
 pb	378	0382	4818967
 pb	379	0383	4818968
-entry	Vital		
-entry	Vitalistes [Coutanceau]		
+entry	Vital	0	
+entry	Vitalistes [Coutanceau]	5	
 orth	Vitalistes		
 pb	380	0384	4818969
 pb	381	0385	4818970
 pb	382	0386	4818971
 pb	383	0387	4818972
 pb	384	0388	4818973
-entry	Vitalité		
-entry	Vitiligo [P. Rayer]		
+entry	Vitalité	0	
+entry	Vitiligo [P. Rayer]	1	
 orth	Vitiligo		
 pb	385	0389	4818974
-entry	Vitré, ée [Marjolin]		
+entry	Vitré, ée [Marjolin]	0	
 orth	Vitré		
-entry	Vitriol [Orfila]		
+entry	Vitriol [Orfila]	0	
 orth	Vitriol		
-entry	Vivisection		
-entry	Vocal, ale		
+entry	Vivisection	0	
+entry	Vocal, ale	0	
 orth	Vocal		
-entry	Voie		
+entry	Voie	1	
 pb	386	0390	4818975
-entry	Voile du palais [Marjolin]		
+entry	Voile du palais [Marjolin]	0	
 orth	Voile du palais		
 pb	387	0391	4818976
-entry	Voix [Adelon, Raige Delorme]		
+entry	Voix [Adelon, Raige Delorme]	15	
 orth	Voix		
 pb	388	0392	4818977
 pb	389	0393	4818978
@@ -666,7 +666,7 @@ pb	399	0403	4818988
 pb	400	0404	4818989
 pb	401	0405	4818990
 pb	402	0406	4818991
-entry	Volvulus [Raige Delorme]		
+entry	Volvulus [Raige Delorme]	23	
 orth	Volvulus		
 pb	403	0407	4818992
 pb	404	0408	4818993
@@ -691,14 +691,14 @@ pb	422	0426	4819011
 pb	423	0427	4819012
 pb	424	0428	4819013
 pb	425	0429	4819014
-entry	Vomer [Marjolin]		
+entry	Vomer [Marjolin]	1	
 orth	Vomer		
 pb	426	0430	4819015
-entry	Vomique [Chomel]		
+entry	Vomique [Chomel]	1	
 orth	Vomique		
 pb	427	0431	4819016
-entry	Vomique noix		
-entry	Vomissement [Adelon, Raige Delorme]		
+entry	Vomique noix	0	
+entry	Vomissement [Adelon, Raige Delorme]	14	
 orth	Vomissement		
 pb	428	0432	4819017
 pb	429	0433	4819018
@@ -714,7 +714,7 @@ pb	438	0442	4819027
 pb	439	0443	4819028
 pb	440	0444	4819029
 pb	441	0445	4819030
-entry	Vomitif [Guersent]		
+entry	Vomitif [Guersent]	7	
 orth	Vomitif		
 pb	442	0446	4819031
 pb	443	0447	4819032
@@ -723,77 +723,77 @@ pb	445	0449	4819034
 pb	446	0450	4819035
 pb	447	0451	4819036
 pb	448	0452	4819037
-entry	Vomiturition		
-entry	Voûte		
-entry	Vue		
-entry	Vulnéraire		
+entry	Vomiturition	0	
+entry	Voûte	0	
+entry	Vue	0	
+entry	Vulnéraire	1	
 pb	449	0453	4819038
-entry	Vulnéraire Suisse ou Faltrank [A. Richard]		
+entry	Vulnéraire Suisse ou Faltrank [A. Richard]	2	
 orth	Vulnéraire Suisse		
 orth	Faltrank		
 pb	450	0454	4819039
 pb	451	0455	4819040
-entry	Vultueux		
-entry	Vulvaire		
-entry	Vulve [Marjolin]		
+entry	Vultueux	0	
+entry	Vulvaire	0	
+entry	Vulve [Marjolin]	5	
 orth	Vulve		
 pb	452	0456	4819041
 pb	453	0457	4819042
 pb	454	0458	4819043
 pb	455	0459	4819044
 pb	456	0460	4819045
-entry	Vulvo-utérin [Marjolin]		
+entry	Vulvo-utérin [Marjolin]	0	
 orth	Vulvo-utérin		
 pb	457	0461	4819046
-entry	Wormien [C. P. Ollivier]		
+entry	Wormien [C. P. Ollivier]	1	
 orth	Wormien		
 pb	458	0462	4819047
 pb	459	0463	4819048
-entry	Xyphoïde		
-entry	Xyphoïdien, nne [Marjolin]		
+entry	Xyphoïde	0	
+entry	Xyphoïdien, nne [Marjolin]	0	
 orth	Xyphoïdien		
 orth	nne		
-entry	Xérophthalmie		
-entry	Xylobalsamum [A. Richard]		
+entry	Xérophthalmie	0	
+entry	Xylobalsamum [A. Richard]	0	
 orth	Xylobalsamum		
 pb	460	0464	4819049
-entry	Yaws [Lagneau]		
+entry	Yaws [Lagneau]	0	
 orth	Yaws		
-entry	Yèble, Hièble ou Ièble [A. Richard]		
+entry	Yèble, Hièble ou Ièble [A. Richard]	1	
 orth	Yèble		
 orth	Hièble		
 orth	Ièble		
 pb	461	0465	4819050
-entry	Yeux d'écrevisse ou Pierre d'écrevisse		
+entry	Yeux d'écrevisse ou Pierre d'écrevisse	0	
 orth	Yeux d'écrevisse		
 orth	Pierre d'écrevisse		
-entry	Yttria		
+entry	Yttria	1	
 pb	462	0466	4819051
-entry	Yttrium [Orfila]		
+entry	Yttrium [Orfila]	0	
 orth	Yttrium		
 pb	463	0467	4819052
-entry	Zédoaire [A. Richard]		
+entry	Zédoaire [A. Richard]	0	
 orth	Zédoaire		
-entry	Zéine [Orfila]		
+entry	Zéine [Orfila]	1	
 orth	Zéine		
 pb	464	0468	4819053
-entry	Zerumbet [A. Richard]		
+entry	Zerumbet [A. Richard]	0	
 orth	Zerumbet		
-entry	Zimomé ou Zymome		
+entry	Zimomé ou Zymome	0	
 orth	Zimomé		
 orth	Zymome		
-entry	Zinc [Orfila]		
+entry	Zinc [Orfila]	5	
 orth	Zinc		
 pb	465	0469	4819054
 pb	466	0470	4819055
 pb	467	0471	4819056
 pb	468	0472	4819057
 pb	469	0473	4819058
-entry	Zircone		
-entry	Zirconium [Orfila]		
+entry	Zircone	0	
+entry	Zirconium [Orfila]	0	
 orth	Zirconium		
-entry	Zoanthropie		
-entry	Zona [P. Rayer]		
+entry	Zoanthropie	0	
+entry	Zona [P. Rayer]	10	
 orth	Zona		
 pb	470	0474	4819059
 pb	471	0475	4819060
@@ -805,17 +805,17 @@ pb	476	0480	4819065
 pb	477	0481	4819066
 pb	478	0482	4819067
 pb	479	0483	4819068
-entry	Zoologie [A. Richard]		
+entry	Zoologie [A. Richard]	0	
 orth	Zoologie		
-entry	Zoonomie		
-entry	Zoster		
-entry	Zumique (acide)		
+entry	Zoonomie	0	
+entry	Zoster	0	
+entry	Zumique (acide)	0	
 pb	480	0484	4819069
-entry	Zygoma		
-entry	Zygomatique [Marjolin]		
+entry	Zygoma	0	
+entry	Zygomatique [Marjolin]	0	
 orth	Zygomatique		
 pb	481	0485	4819070
-entry	Mamelle (amputation de la) [Murat]		
+entry	Mamelle (amputation de la) [Murat]	5	
 orth	Mamelle (amputation de la)		
 pb	482	0486	4819071
 pb	483	0487	4819072
@@ -823,7 +823,7 @@ pb	484	0488	4819073
 pb	485	0489	4819074
 pb	486	0490	4819075
 pb	487	0491	4819076
-entry	Onyxis [C. P. Ollivier]		
+entry	Onyxis [C. P. Ollivier]	7	
 orth	Onyxis		
 pb	488	0492	4819077
 pb	489	0493	4819078
@@ -833,7 +833,7 @@ pb	492	0496	4819081
 pb	493	0497	4819082
 pb	494	0498	4819083
 pb	495	0499	4819084
-entry	Profession [L. Rostan]		
+entry	Profession [L. Rostan]	17	
 orth	Profession		
 pb	496	0500	4819085
 pb	497	0501	4819086
@@ -853,17 +853,17 @@ pb	510	0514	4819099
 pb	511	0515	4819100
 pb	512	0516	4819101
 pb	513	0517	4819102
-entry	Rhinoplastie [Jules Cloquet]		
+entry	Rhinoplastie [Jules Cloquet]	3	
 orth	Rhinoplastie		
 pb	514	0518	4819103
 pb	515	0519	4819104
 pb	516	0520	4819105
 pb	517	0521	4819106
-entry	Table des principaux articles contenus dans le vingt et unième volume		
+entry	Table des principaux articles contenus dans le vingt et unième volume	0	
 orth	Table des principaux articles contenus dans le vingt		
 orth	unième volume		
 pb	518	0522	4819107
-entry	Distribution des Matières		
+entry	Distribution des Matières	0	
 pb	519	0523	4819108
-entry	Archives générales de médecine		
+entry	Archives générales de médecine	1	
 pb	520	0524	4819109

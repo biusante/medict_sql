@@ -1,16 +1,16 @@
 pb	[s. pag.]	0001	5556624
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556625
 pb	[s. pag.]	0003	428271
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	5556626
 pb	1	0005	428272
-entry	pourpier		
+entry	pourpier	1	
 pb	2	0006	428273
-entry	pourpre		
-entry	pourprée		
-entry	pourrain (eaux minérales de)		
-entry	pourriture d'hôpital		
+entry	pourpre	0	
+entry	pourprée	0	
+entry	pourrain (eaux minérales de)	0	
+entry	pourriture d'hôpital	23	
 pb	3	0007	428274
 pb	4	0008	428275
 pb	5	0009	428276
@@ -34,8 +34,8 @@ pb	22	0026	428293
 pb	23	0027	428294
 pb	24	0028	428295
 pb	25	0029	428296
-entry	pozello (eaux minérales de)		
-entry	pratique		
+entry	pozello (eaux minérales de)	0	
+entry	pratique	15	
 pb	26	0030	428297
 pb	27	0031	428298
 pb	28	0032	428299
@@ -52,21 +52,21 @@ pb	38	0042	428309
 pb	39	0043	428310
 pb	40	0044	428311
 pb	41	0045	428312
-entry	précaution (remèdes de)		
-entry	prechac (eaux minérales de)		
-entry	précipité		
+entry	précaution (remèdes de)	0	
+entry	prechac (eaux minérales de)	0	
+entry	précipité	2	
 pb	42	0046	428313
 pb	43	0047	428314
-entry	précoce		
+entry	précoce	1	
 pb	44	0048	428315
-entry	précordial		
-entry	précurseur (signe ou symptôme)		
-entry	prédisposant		
+entry	précordial	0	
+entry	précurseur (signe ou symptôme)	0	
+entry	prédisposant	1	
 pb	45	0049	428316
-entry	prédorsal		
-entry	prédorso - atloidien		
-entry	préjugé des maladies		
-entry	préjugés des médecins		
+entry	prédorsal	0	
+entry	prédorso - atloidien	0	
+entry	préjugé des maladies	0	
+entry	préjugés des médecins	11	
 pb	46	0050	428317
 pb	47	0051	428318
 pb	48	0052	428319
@@ -79,18 +79,18 @@ pb	54	0058	428325
 pb	55	0059	428326
 pb	56	0060	428327
 pb	57	0061	428328
-entry	prêle		
+entry	prêle	1	
 pb	58	0062	428329
-entry	prêle (eau minérale de)		
-entry	prélombaire		
-entry	prélombo - sus - pubien		
-entry	prélombo - trochantinien		
-entry	prélombo - thorachique		
-entry	prémeau (eau minérale de)		
+entry	prêle (eau minérale de)	0	
+entry	prélombaire	0	
+entry	prélombo - sus - pubien	0	
+entry	prélombo - trochantinien	0	
+entry	prélombo - thorachique	0	
+entry	prémeau (eau minérale de)	1	
 pb	59	0063	428330
-entry	prénotion		
-entry	préparate		
-entry	préparations anatomiques		
+entry	prénotion	0	
+entry	préparate	0	
+entry	préparations anatomiques	24	
 pb	60	0064	428331
 pb	61	0065	428332
 pb	62	0066	428333
@@ -115,20 +115,20 @@ pb	80	0084	428351
 pb	81	0085	428352
 pb	82	0086	428353
 pb	83	0087	428354
-entry	prépuce		
+entry	prépuce	3	
 pb	84	0088	428355
 pb	85	0089	428356
 pb	86	0090	428357
-entry	présage		
-entry	presbyte		
+entry	présage	0	
+entry	presbyte	0	
 pb	87	0091	428358
-entry	presbytie		
+entry	presbytie	5	
 pb	88	0092	428359
 pb	89	0093	428360
 pb	90	0094	428361
 pb	91	0095	428362
 pb	92	0096	428363
-entry	préservatif		
+entry	préservatif	13	
 pb	93	0097	428364
 pb	94	0098	428365
 pb	95	0099	428366
@@ -142,11 +142,11 @@ pb	102	0106	428373
 pb	103	0107	428374
 pb	104	0108	428375
 pb	105	0109	428376
-entry	préspinal		
-entry	presse - artère		
+entry	préspinal	0	
+entry	presse - artère	1	
 pb	106	0110	428377
-entry	presse - urètre		
-entry	pression abdominale		
+entry	presse - urètre	0	
+entry	pression abdominale	7	
 pb	107	0111	428378
 pb	108	0112	428379
 pb	109	0113	428380
@@ -154,13 +154,13 @@ pb	110	0114	428381
 pb	111	0115	428382
 pb	112	0116	428383
 pb	113	0117	428384
-entry	pressoir d'hérophile		
-entry	pressura		
-entry	preste (eau minérale de la)		
+entry	pressoir d'hérophile	0	
+entry	pressura	0	
+entry	preste (eau minérale de la)	1	
 pb	114	0118	428385
-entry	présure		
-entry	prétibial		
-entry	priapisme		
+entry	présure	0	
+entry	prétibial	0	
+entry	priapisme	8	
 pb	115	0119	428386
 pb	116	0120	428387
 pb	117	0121	428388
@@ -169,12 +169,12 @@ pb	119	0123	428390
 pb	120	0124	428391
 pb	121	0125	428392
 pb	122	0126	428393
-entry	primevère		
+entry	primevère	2	
 pb	123	0127	428394
 pb	124	0128	428395
-entry	primulacées		
+entry	primulacées	1	
 pb	125	0129	428396
-entry	principe vital		
+entry	principe vital	11	
 pb	126	0130	428397
 pb	127	0131	428398
 pb	128	0132	428399
@@ -186,8 +186,8 @@ pb	133	0137	428404
 pb	134	0138	428405
 pb	135	0139	428406
 pb	136	0140	428407
-entry	principe des minéraux		
-entry	principes et produits des végétaux et des animaux (chimie médicale)		
+entry	principe des minéraux	0	
+entry	principes et produits des végétaux et des animaux (chimie médicale)	24	
 pb	137	0141	428408
 pb	138	0142	428409
 pb	139	0143	428410
@@ -214,9 +214,9 @@ pb	159	0163	428430
 pb	160	0164	428431
 pb	[s. pag.]	0165	5556627
 pb	[s. pag.]	0166	428432
-entry	principes et produits des végétaux et des animaux (chimie médicale) : tableau		
+entry	principes et produits des végétaux et des animaux (chimie médicale) : tableau	0	
 pb	161	0167	428433
-entry	principes et produits des végétaux et des animaux (chimie médicale)		
+entry	principes et produits des végétaux et des animaux (chimie médicale)	39	
 pb	162	0168	428434
 pb	163	0169	428435
 pb	164	0170	428436
@@ -256,7 +256,7 @@ pb	197	0203	428469
 pb	198	0204	428470
 pb	199	0205	428471
 pb	200	0206	428472
-entry	printemps		
+entry	printemps	7	
 pb	201	0207	428473
 pb	202	0208	428474
 pb	203	0209	428475
@@ -264,9 +264,9 @@ pb	204	0210	428476
 pb	205	0211	428477
 pb	206	0212	428478
 pb	207	0213	428479
-entry	prisme		
+entry	prisme	1	
 pb	208	0214	428480
-entry	prison (hygiène publique)		
+entry	prison (hygiène publique)	12	
 pb	209	0215	428481
 pb	210	0216	428482
 pb	211	0217	428483
@@ -281,12 +281,12 @@ pb	219	0225	428491
 pb	220	0226	428492
 pb	[s. pag.]	0227	5556628
 pb	[s. pag.]	0228	428493
-entry	prisons : explication de la planche		
+entry	prisons : explication de la planche	0	
 pb	[s. pag.]	0229	428494
-entry	prisons : planche		
+entry	prisons : planche	0	
 pb	[s. pag.]	0230	5556629
 pb	221	0231	428495
-entry	prison (hygiène publique)		
+entry	prison (hygiène publique)	29	
 pb	222	0232	428496
 pb	223	0233	428497
 pb	224	0234	428498
@@ -317,10 +317,10 @@ pb	248	0258	428522
 pb	249	0259	428523
 pb	250	0260	428524
 pb	[s. pag.]	0261	428525
-entry	prison : tableau		
+entry	prison : tableau	0	
 pb	[s. pag.]	0262	5556630
 pb	251	0263	428526
-entry	prison (hygiène publique)		
+entry	prison (hygiène publique)	12	
 pb	252	0264	428527
 pb	253	0265	428528
 pb	254	0266	428529
@@ -333,7 +333,7 @@ pb	260	0272	428535
 pb	261	0273	428536
 pb	262	0274	428537
 pb	263	0275	428538
-entry	prisonniers (santé des)		
+entry	prisonniers (santé des)	14	
 pb	264	0276	428539
 pb	265	0277	428540
 pb	266	0278	428541
@@ -348,18 +348,18 @@ pb	274	0286	428549
 pb	275	0287	428550
 pb	276	0288	428551
 pb	277	0289	428552
-entry	privas (eaux minérales de)		
-entry	privation		
+entry	privas (eaux minérales de)	0	
+entry	privation	2	
 pb	278	0290	428553
 pb	279	0291	428554
-entry	prix		
+entry	prix	3	
 pb	280	0292	428555
 pb	281	0293	428556
 pb	282	0294	428557
-entry	procatarctique		
-entry	procédé		
+entry	procatarctique	0	
+entry	procédé	1	
 pb	283	0295	428558
-entry	procès		
+entry	procès	35	
 pb	284	0296	428559
 pb	285	0297	428560
 pb	286	0298	428561
@@ -395,32 +395,32 @@ pb	315	0327	428590
 pb	316	0328	428591
 pb	317	0329	428592
 pb	318	0330	428593
-entry	procidence		
+entry	procidence	2	
 pb	319	0331	428594
 pb	320	0332	428595
-entry	proctalgie		
+entry	proctalgie	1	
 pb	321	0333	428596
-entry	proctite		
+entry	proctite	1	
 pb	322	0334	428597
-entry	proctocèle		
-entry	proctose		
+entry	proctocèle	0	
+entry	proctose	1	
 pb	323	0335	428598
-entry	productions composées		
+entry	productions composées	2	
 pb	324	0336	428599
 pb	325	0337	428600
-entry	productions organiques		
+entry	productions organiques	2	
 pb	326	0338	428601
 pb	327	0339	428602
-entry	proégumène		
-entry	proéminent		
-entry	professeur		
+entry	proégumène	0	
+entry	proéminent	0	
+entry	professeur	6	
 pb	328	0340	428603
 pb	329	0341	428604
 pb	330	0342	428605
 pb	331	0343	428606
 pb	332	0344	428607
 pb	333	0345	428608
-entry	professions		
+entry	professions	23	
 pb	334	0346	428609
 pb	335	0347	428610
 pb	336	0348	428611
@@ -444,16 +444,16 @@ pb	353	0365	428628
 pb	354	0366	428629
 pb	355	0367	428630
 pb	356	0368	428631
-entry	profond		
+entry	profond	2	
 pb	357	0369	428632
 pb	358	0370	428633
-entry	prognostic		
-entry	progression		
+entry	prognostic	0	
+entry	progression	1	
 pb	359	0371	428634
-entry	prolapsus		
-entry	proleptique		
-entry	prolongement rachidien		
-entry	promenade		
+entry	prolapsus	0	
+entry	proleptique	0	
+entry	prolongement rachidien	0	
+entry	promenade	8	
 pb	360	0372	428635
 pb	361	0373	428636
 pb	362	0374	428637
@@ -462,16 +462,16 @@ pb	364	0376	428639
 pb	365	0377	428640
 pb	366	0378	428641
 pb	367	0379	428642
-entry	promenoir		
+entry	promenoir	2	
 pb	368	0380	428643
 pb	369	0381	428644
-entry	pronateur		
+entry	pronateur	1	
 pb	370	0382	428645
-entry	pronation		
+entry	pronation	1	
 pb	371	0383	428646
-entry	prononciation		
+entry	prononciation	1	
 pb	372	0384	428647
-entry	pronostic		
+entry	pronostic	34	
 pb	373	0385	428648
 pb	374	0386	428649
 pb	375	0387	428650
@@ -506,8 +506,8 @@ pb	403	0415	428678
 pb	404	0416	428679
 pb	405	0417	428680
 pb	406	0418	428681
-entry	propathie		
-entry	prophylactique		
+entry	propathie	0	
+entry	prophylactique	12	
 pb	407	0419	428682
 pb	408	0420	428683
 pb	409	0421	428684
@@ -520,11 +520,11 @@ pb	415	0427	428690
 pb	416	0428	428691
 pb	417	0429	428692
 pb	418	0430	428693
-entry	prophyse		
-entry	propolis		
+entry	prophyse	0	
+entry	propolis	2	
 pb	419	0431	428694
 pb	420	0432	428695
-entry	proportions (anatomiques)		
+entry	proportions (anatomiques)	23	
 pb	421	0433	428696
 pb	422	0434	428697
 pb	423	0435	428698
@@ -548,7 +548,7 @@ pb	440	0452	428715
 pb	441	0453	428716
 pb	442	0454	428717
 pb	443	0455	428718
-entry	propriétés		
+entry	propriétés	23	
 pb	444	0456	428719
 pb	445	0457	428720
 pb	446	0458	428721
@@ -572,31 +572,31 @@ pb	463	0475	428738
 pb	464	0476	428739
 pb	465	0477	428740
 pb	466	0478	428741
-entry	proptome		
+entry	proptome	1	
 pb	467	0479	428742
-entry	proptose		
-entry	proscarabé		
+entry	proptose	0	
+entry	proscarabé	1	
 pb	468	0480	428743
-entry	prosecteur		
+entry	prosecteur	6	
 pb	469	0481	428744
 pb	470	0482	428745
 pb	471	0483	428746
 pb	472	0484	428747
 pb	473	0485	428748
 pb	474	0486	428749
-entry	prosopalgie		
+entry	prosopalgie	1	
 pb	475	0487	428750
-entry	prosopose		
-entry	prostase		
-entry	prostate		
+entry	prosopose	0	
+entry	prostase	0	
+entry	prostate	4	
 pb	476	0488	428751
 pb	477	0489	428752
 pb	478	0490	428753
 pb	479	0491	428754
-entry	prostates inférieures		
+entry	prostates inférieures	1	
 pb	480	0492	428755
-entry	prostatique		
-entry	prostitution (hygiène publique)		
+entry	prostatique	0	
+entry	prostitution (hygiène publique)	11	
 pb	481	0493	428756
 pb	482	0494	428757
 pb	483	0495	428758
@@ -609,7 +609,7 @@ pb	489	0501	428764
 pb	490	0502	428765
 pb	491	0503	428766
 pb	492	0504	428767
-entry	prostration		
+entry	prostration	17	
 pb	493	0505	428768
 pb	494	0506	428769
 pb	495	0507	428770
@@ -627,23 +627,23 @@ pb	506	0518	428781
 pb	507	0519	428782
 pb	508	0520	428783
 pb	509	0521	428784
-entry	protéacées		
+entry	protéacées	1	
 pb	510	0522	428785
-entry	prothèse		
+entry	prothèse	3	
 pb	511	0523	428786
 pb	512	0524	428787
 pb	513	0525	428788
-entry	protopathique		
-entry	protoxyde		
-entry	protubérance		
+entry	protopathique	0	
+entry	protoxyde	0	
+entry	protubérance	1	
 pb	514	0526	428789
-entry	proverbes (en médecine)		
+entry	proverbes (en médecine)	3	
 pb	515	0527	428790
 pb	516	0528	428791
 pb	517	0529	428792
-entry	provins (eaux de)		
-entry	provocatoires (jours)		
-entry	prudence		
+entry	provins (eaux de)	0	
+entry	provocatoires (jours)	0	
+entry	prudence	9	
 pb	518	0530	428793
 pb	519	0531	428794
 pb	520	0532	428795
@@ -653,17 +653,17 @@ pb	523	0535	428798
 pb	524	0536	428799
 pb	525	0537	428800
 pb	526	0538	428801
-entry	prune		
-entry	prunier		
+entry	prune	0	
+entry	prunier	4	
 pb	527	0539	428802
 pb	528	0540	428803
 pb	529	0541	428804
 pb	530	0542	428805
-entry	prunelier		
+entry	prunelier	1	
 pb	531	0543	428806
-entry	prunelle		
+entry	prunelle	1	
 pb	532	0544	428807
-entry	prurigie		
+entry	prurigie	12	
 pb	533	0545	428808
 pb	534	0546	428809
 pb	535	0547	428810
@@ -676,15 +676,15 @@ pb	541	0553	428816
 pb	542	0554	428817
 pb	543	0555	428818
 pb	544	0556	428819
-entry	prurit		
+entry	prurit	1	
 pb	545	0557	428820
-entry	prussiates		
+entry	prussiates	5	
 pb	546	0558	428821
 pb	547	0559	428822
 pb	548	0560	428823
 pb	549	0561	428824
 pb	550	0562	428825
-entry	prussique (acide)		
+entry	prussique (acide)	32	
 pb	551	0563	428826
 pb	552	0564	428827
 pb	553	0565	428828

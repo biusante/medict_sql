@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	473977
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	473978
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	473979
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	473980
-entry	Olfaction		
+entry	Olfaction	21	
 pb	2	0005	473981
 pb	3	0006	473982
 pb	4	0007	473983
@@ -27,11 +27,11 @@ pb	19	0022	473998
 pb	20	0023	473999
 pb	21	0024	474000
 pb	22	0025	474001
-entry	Ombelliferes		
+entry	Ombelliferes	2	
 pb	23	0026	474002
 pb	24	0027	474003
 pb	25	0028	474004
-entry	Ombilic		
+entry	Ombilic	43	
 pb	26	0029	474005
 pb	27	0030	474006
 pb	28	0031	474007
@@ -75,7 +75,7 @@ pb	65	0068	474044
 pb	66	0069	474045
 pb	67	0070	474046
 pb	68	0071	474047
-entry	Omoplate		
+entry	Omoplate	8	
 pb	69	0072	474048
 pb	70	0073	474049
 pb	71	0074	474050
@@ -85,11 +85,11 @@ pb	74	0077	474053
 pb	75	0078	474054
 pb	76	0079	474055
 pb	77	0080	474056
-entry	Onanisme		
+entry	Onanisme	3	
 pb	78	0081	474057
 pb	79	0082	474058
 pb	80	0083	474059
-entry	Ongles		
+entry	Ongles	17	
 pb	81	0084	474060
 pb	82	0085	474061
 pb	83	0086	474062
@@ -107,10 +107,10 @@ pb	94	0097	474073
 pb	95	0098	474074
 pb	96	0099	474075
 pb	97	0100	474076
-entry	Onguent		
+entry	Onguent	2	
 pb	98	0101	474077
 pb	99	0102	474078
-entry	Operations		
+entry	Operations	8	
 pb	100	0103	474079
 pb	101	0104	474080
 pb	102	0105	474081
@@ -119,7 +119,7 @@ pb	104	0107	474083
 pb	105	0108	474084
 pb	106	0109	474085
 pb	107	0110	474086
-entry	Ophthalmie		
+entry	Ophthalmie	88	
 pb	108	0111	474087
 pb	109	0112	474088
 pb	110	0113	474089
@@ -208,7 +208,7 @@ pb	192	0195	474171
 pb	193	0196	474172
 pb	194	0197	474173
 pb	195	0198	474174
-entry	Ophthalmologie		
+entry	Ophthalmologie	16	
 pb	196	0199	474175
 pb	197	0200	474176
 pb	198	0201	474177
@@ -225,8 +225,8 @@ pb	208	0211	474187
 pb	209	0212	474188
 pb	210	0213	474189
 pb	211	0214	474190
-entry	Opiat		
-entry	Opium		
+entry	Opiat	0	
+entry	Opium	79	
 pb	212	0215	474191
 pb	213	0216	474192
 pb	214	0217	474193
@@ -306,8 +306,8 @@ pb	287	0290	474266
 pb	288	0291	474267
 pb	289	0292	474268
 pb	290	0293	474269
-entry	Opodeldoch		
-entry	Or		
+entry	Opodeldoch	0	
+entry	Or	7	
 pb	291	0294	474270
 pb	292	0295	474271
 pb	293	0296	474272
@@ -315,9 +315,9 @@ pb	294	0297	474273
 pb	295	0298	474274
 pb	296	0299	474275
 pb	297	0300	474276
-entry	Orangers		
+entry	Orangers	1	
 pb	298	0301	474277
-entry	Orbite		
+entry	Orbite	26	
 pb	299	0302	474278
 pb	300	0303	474279
 pb	301	0304	474280
@@ -344,10 +344,10 @@ pb	321	0324	474300
 pb	322	0325	474301
 pb	323	0326	474302
 pb	324	0327	474303
-entry	Orchidées		
+entry	Orchidées	1	
 pb	325	0328	474304
-entry	Orchite		
-entry	Oreille		
+entry	Orchite	0	
+entry	Oreille	101	
 pb	326	0329	474305
 pb	327	0330	474306
 pb	328	0331	474307
@@ -449,10 +449,10 @@ pb	423	0426	474402
 pb	424	0427	474403
 pb	425	0428	474404
 pb	426	0429	474405
-entry	Oreillons		
+entry	Oreillons	2	
 pb	427	0430	474406
 pb	428	0431	474407
-entry	Organisation, Organisme, Organises		
+entry	Organisation, Organisme, Organises	24	
 orth	Organisation		
 orth	Organisme		
 orth	Organises		
@@ -480,16 +480,16 @@ pb	449	0452	474428
 pb	450	0453	474429
 pb	451	0454	474430
 pb	452	0455	474431
-entry	Orge		
+entry	Orge	1	
 pb	453	0456	474432
-entry	Orgeat		
-entry	Orgeolet, Orgelet		
+entry	Orgeat	0	
+entry	Orgeolet, Orgelet	2	
 orth	Orgeolet		
 orth	Orgelet		
 pb	454	0457	474433
 pb	455	0458	474434
-entry	Origan		
-entry	Orthopedie		
+entry	Origan	0	
+entry	Orthopedie	11	
 pb	456	0459	474435
 pb	457	0460	474436
 pb	458	0461	474437
@@ -501,7 +501,7 @@ pb	463	0466	474442
 pb	464	0467	474443
 pb	465	0468	474444
 pb	466	0469	474445
-entry	Os, Osseux		
+entry	Os, Osseux	75	
 orth	Os		
 orth	Osseux		
 pb	467	0470	474446
@@ -579,15 +579,15 @@ pb	538	0541	474517
 pb	539	0542	474518
 pb	540	0543	474519
 pb	541	0544	474520
-entry	Ossification		
-entry	Osteite		
-entry	Osteomalacie		
-entry	Ostéosarcome		
-entry	Otalgie, Otite, Otorrhée		
+entry	Ossification	0	
+entry	Osteite	0	
+entry	Osteomalacie	0	
+entry	Ostéosarcome	0	
+entry	Otalgie, Otite, Otorrhée	0	
 orth	Otalgie		
 orth	Otite		
 orth	Otorrhée		
-entry	Ouïe		
+entry	Ouïe	17	
 pb	542	0545	474521
 pb	543	0546	474522
 pb	544	0547	474523
@@ -605,7 +605,7 @@ pb	555	0558	474534
 pb	556	0559	474535
 pb	557	0560	474536
 pb	558	0561	474537
-entry	Ovaires		
+entry	Ovaires	43	
 pb	559	0562	474538
 pb	560	0563	474539
 pb	561	0564	474540
@@ -649,7 +649,7 @@ pb	598	0601	474577
 pb	599	0602	474578
 pb	600	0603	474579
 pb	601	0604	474580
-entry	Oxalique		
+entry	Oxalique	8	
 pb	602	0605	474581
 pb	603	0606	474582
 pb	604	0607	474583
@@ -658,7 +658,7 @@ pb	606	0609	474585
 pb	607	0610	474586
 pb	608	0611	474587
 pb	609	0612	474588
-entry	Ozène		
+entry	Ozène	8	
 pb	610	0613	474589
 pb	611	0614	474590
 pb	612	0615	474591
@@ -668,7 +668,7 @@ pb	615	0618	474594
 pb	616	0619	474595
 pb	617	0620	474596
 pb	[s. pag.]	0621	474597
-entry	Table des principaux articles contenus dans ce volume		
+entry	Table des principaux articles contenus dans ce volume	0	
 pb	[s. pag.]	0622	474598
-entry	Table alphabétique des matières		
+entry	Table alphabétique des matières	0	
 pb	620	0623	474599

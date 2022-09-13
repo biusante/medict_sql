@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7295071
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7295072
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7295073
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7295074
-entry	Genou		
+entry	Genou	75	
 pb	2	0005	7295075
 pb	3	0006	7295076
 pb	4	0007	7295077
@@ -81,10 +81,10 @@ pb	73	0076	7295146
 pb	74	0077	7295147
 pb	75	0078	7295148
 pb	76	0079	7295149
-entry	Gentiane jaune		
+entry	Gentiane jaune	2	
 pb	77	0080	7295150
 pb	78	0081	7295151
-entry	Géographie médicale		
+entry	Géographie médicale	322	
 pb	79	0082	7295152
 pb	80	0083	7295153
 pb	81	0084	7295154
@@ -408,13 +408,13 @@ pb	398	0401	7295471
 pb	399	0402	7295472
 pb	400	0403	7295473
 pb	401	0404	7295474
-entry	Germandrée		
+entry	Germandrée	1	
 pb	402	0405	7295475
-entry	Gibbosité		
-entry	Girofle		
+entry	Gibbosité	0	
+entry	Girofle	1	
 pb	403	0406	7295476
-entry	Glace		
-entry	Glandulaire		
+entry	Glace	0	
+entry	Glandulaire	22	
 pb	404	0407	7295477
 pb	405	0408	7295478
 pb	406	0409	7295479
@@ -437,7 +437,7 @@ pb	422	0425	7295495
 pb	423	0426	7295496
 pb	424	0427	7295497
 pb	425	0428	7295498
-entry	Glaucome		
+entry	Glaucome	16	
 pb	426	0429	7295499
 pb	427	0430	7295500
 pb	428	0431	7295501
@@ -455,10 +455,10 @@ pb	439	0442	7295512
 pb	440	0443	7295513
 pb	441	0444	7295514
 pb	442	0445	7295515
-entry	Glossite		
-entry	Glotte		
-entry	Glucose		
-entry	Glycérine		
+entry	Glossite	0	
+entry	Glotte	0	
+entry	Glucose	0	
+entry	Glycérine	9	
 pb	443	0446	7295516
 pb	444	0447	7295517
 pb	445	0448	7295518
@@ -469,11 +469,11 @@ pb	449	0452	7295522
 pb	450	0453	7295523
 pb	451	0454	7295524
 pb	452	0455	7295525
-entry	Glycérolés		
+entry	Glycérolés	2	
 pb	453	0456	7295526
 pb	454	0457	7295527
-entry	Glycogénie		
-entry	Glycose		
+entry	Glycogénie	0	
+entry	Glycose	16	
 pb	455	0458	7295528
 pb	456	0459	7295529
 pb	457	0460	7295530
@@ -490,9 +490,9 @@ pb	467	0470	7295540
 pb	468	0471	7295541
 pb	469	0472	7295542
 pb	470	0473	7295543
-entry	Glycosurie		
+entry	Glycosurie	0	
 pb	471	0474	7295544
-entry	Goitre		
+entry	Goitre	22	
 pb	472	0475	7295545
 pb	473	0476	7295546
 pb	474	0477	7295547
@@ -515,7 +515,7 @@ pb	490	0493	7295563
 pb	491	0494	7295564
 pb	492	0495	7295565
 pb	493	0496	7295566
-entry	Goitre exophthalmique		
+entry	Goitre exophthalmique	15	
 pb	494	0497	7295567
 pb	495	0498	7295568
 pb	496	0499	7295569
@@ -531,25 +531,25 @@ pb	505	0508	7295578
 pb	506	0509	7295579
 pb	507	0510	7295580
 pb	508	0511	7295581
-entry	Gomme		
+entry	Gomme	6	
 pb	509	0512	7295582
 pb	510	0513	7295583
 pb	511	0514	7295584
 pb	512	0515	7295585
 pb	513	0516	7295586
-entry	Gomme-gutte		
+entry	Gomme-gutte	3	
 pb	514	0517	7295587
 pb	515	0518	7295588
 pb	516	0519	7295589
-entry	Gommes résines		
+entry	Gommes résines	2	
 pb	517	0520	7295590
 pb	518	0521	7295591
-entry	Gomme syphilitique		
-entry	Gonorrhée		
-entry	Gorgeret		
+entry	Gomme syphilitique	0	
+entry	Gonorrhée	0	
+entry	Gorgeret	1	
 pb	519	0522	7295592
 pb	520	0523	7295593
-entry	Goudron		
+entry	Goudron	10	
 pb	521	0524	7295594
 pb	522	0525	7295595
 pb	523	0526	7295596
@@ -560,8 +560,8 @@ pb	527	0530	7295600
 pb	528	0531	7295601
 pb	529	0532	7295602
 pb	530	0533	7295603
-entry	Gourme		
-entry	Gout		
+entry	Gourme	0	
+entry	Gout	22	
 pb	531	0534	7295604
 pb	532	0535	7295605
 pb	533	0536	7295606
@@ -584,7 +584,7 @@ pb	549	0552	7295622
 pb	550	0553	7295623
 pb	551	0554	7295624
 pb	552	0555	7295625
-entry	Goutte		
+entry	Goutte	88	
 pb	553	0556	7295626
 pb	554	0557	7295627
 pb	555	0558	7295628
@@ -673,7 +673,7 @@ pb	637	0640	7295710
 pb	638	0641	7295711
 pb	639	0642	7295712
 pb	640	0643	7295713
-entry	Gravelle		
+entry	Gravelle	58	
 pb	641	0644	7295714
 pb	642	0645	7295715
 pb	643	0646	7295716
@@ -732,7 +732,7 @@ pb	694	0698	7295768
 pb	695	0699	7295769
 pb	696	0700	7295770
 pb	697	0701	7295771
-entry	Greffe animale, Greffe épidermique		
+entry	Greffe animale, Greffe épidermique	21	
 orth	Greffe animale		
 orth	Greffe épidermique		
 pb	698	0702	7295772
@@ -756,20 +756,20 @@ pb	715	0719	7295789
 pb	716	0720	7295790
 pb	717	0721	7295791
 pb	718	0722	7295792
-entry	Grenadier		
+entry	Grenadier	0	
 pb	719	0723	7295793
-entry	Grenouillette		
+entry	Grenouillette	6	
 pb	720	0724	7295794
 pb	721	0725	7295795
 pb	722	0726	7295796
 pb	723	0727	7295797
 pb	724	0728	7295798
 pb	725	0729	7295799
-entry	Grenouillette pancréatique		
-entry	Gréoulx		
+entry	Grenouillette pancréatique	0	
+entry	Gréoulx	2	
 pb	726	0730	7295800
 pb	727	0731	7295801
-entry	Grippe		
+entry	Grippe	26	
 pb	728	0732	7295802
 pb	729	0733	7295803
 pb	730	0734	7295804
@@ -797,4 +797,4 @@ pb	751	0755	7295825
 pb	752	0756	7295826
 pb	753	0757	7295827
 pb	[s. pag.]	0758	7295828
-entry	Table des auteurs		
+entry	Table des auteurs	0	

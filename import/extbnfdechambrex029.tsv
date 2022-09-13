@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4520568
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4520569
 pb	[s. pag.]	0003	4520570
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4520571
 pb	1	0005	4520572
-entry	Diaphragmatique (Hernie) [André Boursier]		
+entry	Diaphragmatique (Hernie) [André Boursier]	36	
 orth	Diaphragmatique (Hernie)		
 pb	2	0006	4520573
 pb	3	0007	4520574
@@ -43,8 +43,8 @@ pb	34	0038	4520605
 pb	35	0039	4520606
 pb	36	0040	4520607
 pb	37	0041	4520608
-entry	Diaphragmatique (Nerf)		
-entry	Diaphragmatique (Nerf). Anatomie [Albert Hénocque, Charles Éloy]		
+entry	Diaphragmatique (Nerf)	0	
+entry	Diaphragmatique (Nerf). Anatomie [Albert Hénocque, Charles Éloy]	11	
 orth	Diaphragmatique (Nerf). Anatomie		
 pb	38	0042	4520609
 pb	39	0043	4520610
@@ -57,7 +57,7 @@ pb	45	0049	4520616
 pb	46	0050	4520617
 pb	47	0051	4520618
 pb	48	0052	4520619
-entry	Diaphragmatique (Nerf). Physiologie [Albert Hénocque, Charles Éloy]		
+entry	Diaphragmatique (Nerf). Physiologie [Albert Hénocque, Charles Éloy]	8	
 orth	Diaphragmatique (Nerf). Physiologie		
 pb	49	0053	4520620
 pb	50	0054	4520621
@@ -67,8 +67,8 @@ pb	53	0057	4520624
 pb	54	0058	4520625
 pb	55	0059	4520626
 pb	56	0060	4520627
-entry	Pathologie		
-entry	Diaphragmatique (Nerf). Pathologie. Névralgie Diaphragmatique [Albert Hénocque, Charles Éloy]		
+entry	Pathologie	0	
+entry	Diaphragmatique (Nerf). Pathologie. Névralgie Diaphragmatique [Albert Hénocque, Charles Éloy]	8	
 orth	Diaphragmatique (Nerf). Pathologie. Névralgie Diaphragmatique		
 pb	57	0061	4520628
 pb	58	0062	4520629
@@ -78,25 +78,25 @@ pb	61	0065	4520632
 pb	62	0066	4520633
 pb	63	0067	4520634
 pb	64	0068	4520635
-entry	Diaphragmatique (Plexus)		
+entry	Diaphragmatique (Plexus)	0	
 ref	Sympathique (Grand)		
 pb	65	0069	4520636
-entry	Diaphragmatiques (Vaisseaux) [Albert Hénocque, Charles Éloy]		
+entry	Diaphragmatiques (Vaisseaux) [Albert Hénocque, Charles Éloy]	1	
 orth	Diaphragmatiques (Vaisseaux)		
 pb	66	0070	4520637
-entry	Diaphragme		
-entry	Diaphragme. Anatomie [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme	0	
+entry	Diaphragme. Anatomie [Albert Hénocque, Charles Éloy]	3	
 orth	Diaphragme. Anatomie		
 pb	67	0071	4520638
 pb	68	0072	4520639
 pb	69	0073	4520640
-entry	Diaphragme. Développement [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Développement [Albert Hénocque, Charles Éloy]	4	
 orth	Diaphragme. Développement		
 pb	70	0074	4520641
 pb	71	0075	4520642
 pb	72	0076	4520643
 pb	73	0077	4520644
-entry	Diaphragme. Physiologie [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Physiologie [Albert Hénocque, Charles Éloy]	11	
 orth	Diaphragme. Physiologie		
 pb	74	0078	4520645
 pb	75	0079	4520646
@@ -110,23 +110,23 @@ pb	82	0086	4520653
 pb	83	0087	4520654
 pb	84	0088	4520655
 pb	85	0089	4520656
-entry	Diaphragme		
-entry	Diaphragme. Pathologie générale [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme	0	
+entry	Diaphragme. Pathologie générale [Albert Hénocque, Charles Éloy]	5	
 orth	Diaphragme. Pathologie générale		
 pb	86	0090	4520657
 pb	87	0091	4520658
 pb	88	0092	4520659
 pb	89	0093	4520660
 pb	90	0094	4520661
-entry	Pathologie spéciale		
-entry	Diaphragme. Pathologie spéciale. Adhérences, ulcérations et perforations du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Pathologie spéciale	0	
+entry	Diaphragme. Pathologie spéciale. Adhérences, ulcérations et perforations du diaphragme [Albert Hénocque, Charles Éloy]	1	
 orth	Diaphragme. Pathologie spéciale. Adhérences, ulcérations et perforations du diaphragme		
 pb	91	0095	4520662
-entry	Diaphragme. Pathologie spéciale. Atrophie du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie spéciale. Atrophie du diaphragme [Albert Hénocque, Charles Éloy]	2	
 orth	Diaphragme. Pathologie spéciale. Atrophie du diaphragme		
 pb	92	0096	4520663
 pb	93	0097	4520664
-entry	Diaphragme. Pathologie spéciale. Convulsions du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie spéciale. Convulsions du diaphragme [Albert Hénocque, Charles Éloy]	10	
 orth	Diaphragme. Pathologie spéciale. Convulsions du diaphragme		
 pb	94	0098	4520665
 pb	95	0099	4520666
@@ -138,11 +138,11 @@ pb	100	0104	4520671
 pb	101	0105	4520672
 pb	102	0106	4520673
 pb	103	0107	4520674
-entry	Diaphragme. Pathologie spéciale. Inflammation du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie spéciale. Inflammation du diaphragme [Albert Hénocque, Charles Éloy]	2	
 orth	Diaphragme. Pathologie spéciale. Inflammation du diaphragme		
 pb	104	0108	4520675
 pb	105	0109	4520676
-entry	Diaphragme. Pathologie spéciale. Paralysie du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie spéciale. Paralysie du diaphragme [Albert Hénocque, Charles Éloy]	10	
 orth	Diaphragme. Pathologie spéciale. Paralysie du diaphragme		
 pb	106	0110	4520677
 pb	107	0111	4520678
@@ -154,38 +154,38 @@ pb	112	0116	4520683
 pb	113	0117	4520684
 pb	114	0118	4520685
 pb	115	0119	4520686
-entry	Diaphragme. Pathologie spéciale. Rhumatisme du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie spéciale. Rhumatisme du diaphragme [Albert Hénocque, Charles Éloy]	4	
 orth	Diaphragme. Pathologie spéciale. Rhumatisme du diaphragme		
 pb	116	0120	4520687
 pb	117	0121	4520688
 pb	118	0122	4520689
 pb	119	0123	4520690
-entry	Pathologie chirurgicale		
-entry	Diaphragme. Pathologie chirurgicale. Plaies du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Pathologie chirurgicale	0	
+entry	Diaphragme. Pathologie chirurgicale. Plaies du diaphragme [Albert Hénocque, Charles Éloy]	1	
 orth	Diaphragme. Pathologie chirurgicale. Plaies du diaphragme		
 pb	120	0124	4520691
-entry	Diaphragme. Pathologie chirurgicale. Déchirures et Ruptures du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie chirurgicale. Déchirures et Ruptures du diaphragme [Albert Hénocque, Charles Éloy]	1	
 orth	Diaphragme. Pathologie chirurgicale. Déchirures et Ruptures du diaphragme		
 pb	121	0125	4520692
-entry	Diaphragme. Pathologie chirurgicale. Tumeurs du diaphragme [Albert Hénocque, Charles Éloy]		
+entry	Diaphragme. Pathologie chirurgicale. Tumeurs du diaphragme [Albert Hénocque, Charles Éloy]	1	
 orth	Diaphragme. Pathologie chirurgicale. Tumeurs du diaphragme		
 pb	122	0126	4520693
-entry	Diaphyse [Amédée Dechambre]		
+entry	Diaphyse [Amédée Dechambre]	0	
 orth	Diaphyse		
-entry	Diapnoiques [Amédée Dechambre]		
+entry	Diapnoiques [Amédée Dechambre]	0	
 orth	Diapnoiques		
-entry	Diaprum [Amédée Dechambre]		
+entry	Diaprum [Amédée Dechambre]	1	
 orth	Diaprum		
 pb	123	0127	4520694
-entry	Diarrhée [Du Cazal]		
+entry	Diarrhée [Du Cazal]	0	
 orth	Diarrhée		
-entry	Diarrhée. Généralité et Définition [Du Cazal]		
+entry	Diarrhée. Généralité et Définition [Du Cazal]	4	
 orth	Diarrhée. Généralité et Définition		
 pb	124	0128	4520695
 pb	125	0129	4520696
 pb	126	0130	4520697
 pb	127	0131	4520698
-entry	Diarrhée. Classifications [Du Cazal]		
+entry	Diarrhée. Classifications [Du Cazal]	7	
 orth	Diarrhée. Classifications		
 pb	128	0132	4520699
 pb	129	0133	4520700
@@ -195,8 +195,8 @@ pb	132	0136	4520703
 pb	133	0137	4520704
 pb	134	0138	4520705
 pb	135	0139	4520706
-entry	Diarrhée. Classifications		
-entry	Diarrhée. Classifications. Diarrhée catarrhale. Entérite catarrhale [Du Cazal]		
+entry	Diarrhée. Classifications	0	
+entry	Diarrhée. Classifications. Diarrhée catarrhale. Entérite catarrhale [Du Cazal]	6	
 orth	Diarrhée. Classifications. Diarrhée catarrhale. Entérite catarrhale		
 pb	136	0140	4520707
 pb	137	0141	4520708
@@ -204,41 +204,41 @@ pb	138	0142	4520709
 pb	139	0143	4520710
 pb	140	0144	4520711
 pb	141	0145	4520712
-entry	Diarrhée. Classifications. Diarrhée mécanique [Du Cazal]		
+entry	Diarrhée. Classifications. Diarrhée mécanique [Du Cazal]	2	
 orth	Diarrhée. Classifications. Diarrhée mécanique		
 pb	142	0146	4520713
 pb	143	0147	4520714
-entry	Diarrhée. Classifications. Diarrhées nerveuses [Du Cazal]		
+entry	Diarrhée. Classifications. Diarrhées nerveuses [Du Cazal]	1	
 orth	Diarrhée. Classifications. Diarrhées nerveuses		
 pb	144	0148	4520715
-entry	Diarrhée. Classifications. Diarrhées spécifiques [Du Cazal]		
+entry	Diarrhée. Classifications. Diarrhées spécifiques [Du Cazal]	2	
 orth	Diarrhée. Classifications. Diarrhées spécifiques		
 pb	145	0149	4520716
 pb	146	0150	4520717
-entry	Diarrhée. Classifications. Diarrhées chroniques [Du Cazal]		
+entry	Diarrhée. Classifications. Diarrhées chroniques [Du Cazal]	5	
 orth	Diarrhée. Classifications. Diarrhées chroniques		
 pb	147	0151	4520718
 pb	148	0152	4520719
 pb	149	0153	4520720
 pb	150	0154	4520721
 pb	151	0155	4520722
-entry	Diarrhée. Symptômes [Du Cazal]		
+entry	Diarrhée. Symptômes [Du Cazal]	4	
 orth	Diarrhée. Symptômes		
 pb	152	0156	4520723
 pb	153	0157	4520724
 pb	154	0158	4520725
 pb	155	0159	4520726
-entry	Diarrhée. Diagnostic [Du Cazal]		
+entry	Diarrhée. Diagnostic [Du Cazal]	1	
 orth	Diarrhée. Diagnostic		
 pb	156	0160	4520727
-entry	Diarrhée. Pronostic [Du Cazal]		
+entry	Diarrhée. Pronostic [Du Cazal]	1	
 orth	Diarrhée. Pronostic		
 pb	157	0161	4520728
-entry	Diarrhée. Anatomie pathologique [Du Cazal]		
+entry	Diarrhée. Anatomie pathologique [Du Cazal]	2	
 orth	Diarrhée. Anatomie pathologique		
 pb	158	0162	4520729
 pb	159	0163	4520730
-entry	Diarrhée. Anatomie pathologique. Diarrhée chez les enfants [Du Cazal]		
+entry	Diarrhée. Anatomie pathologique. Diarrhée chez les enfants [Du Cazal]	9	
 orth	Diarrhée. Anatomie pathologique. Diarrhée chez les enfants		
 pb	160	0164	4520731
 pb	161	0165	4520732
@@ -249,7 +249,7 @@ pb	165	0169	4520736
 pb	166	0170	4520737
 pb	167	0171	4520738
 pb	168	0172	4520739
-entry	Diarrhée. Traitement [Du Cazal]		
+entry	Diarrhée. Traitement [Du Cazal]	15	
 orth	Diarrhée. Traitement		
 pb	169	0173	4520740
 pb	170	0174	4520741
@@ -266,7 +266,7 @@ pb	180	0184	4520751
 pb	181	0185	4520752
 pb	182	0186	4520753
 pb	183	0187	4520754
-entry	Diarrhée endémique des pays chauds [J. Mahé]		
+entry	Diarrhée endémique des pays chauds [J. Mahé]	26	
 orth	Diarrhée endémique des pays chauds		
 pb	184	0188	4520755
 pb	185	0189	4520756
@@ -294,24 +294,24 @@ pb	206	0210	4520777
 pb	207	0211	4520778
 pb	208	0212	4520779
 pb	209	0213	4520780
-entry	Diarrhodon [Amédée Dechambre]		
+entry	Diarrhodon [Amédée Dechambre]	1	
 orth	Diarrhodon		
 pb	210	0214	4520781
-entry	Diascordium [L. Hahn]		
+entry	Diascordium [L. Hahn]	0	
 orth	Diascordium		
-entry	Diastase (Chimie) [Malaguti]		
+entry	Diastase (Chimie) [Malaguti]	1	
 orth	Diastase (Chimie)		
 pb	211	0215	4520782
-entry	Diastase (Pathologie) [Amédée Dechambre]		
+entry	Diastase (Pathologie) [Amédée Dechambre]	0	
 orth	Diastase (Pathologie)		
-entry	Diastole		
+entry	Diastole	0	
 ref	Coeur		
-entry	Diatérébique (Acide) [Amédée Dechambre]		
+entry	Diatérébique (Acide) [Amédée Dechambre]	0	
 orth	Diatérébique (Acide)		
-entry	Diatessarum [Amédée Dechambre]		
+entry	Diatessarum [Amédée Dechambre]	0	
 orth	Diatessarum		
 pb	212	0216	4520783
-entry	Diathèse [J. Grasset]		
+entry	Diathèse [J. Grasset]	51	
 orth	Diathèse		
 pb	213	0217	4520784
 pb	214	0218	4520785
@@ -364,98 +364,98 @@ pb	260	0264	4520831
 pb	261	0265	4520832
 pb	262	0266	4520833
 pb	263	0267	4520834
-entry	Diatomées [Ed. Lefèvre]		
+entry	Diatomées [Ed. Lefèvre]	2	
 orth	Diatomées		
 pb	264	0268	4520835
 pb	265	0269	4520836
-entry	Diatripteur		
+entry	Diatripteur	0	
 ref	Craniotomie		
-entry	Diaz (Francisco) [L. Hahn]		
+entry	Diaz (Francisco) [L. Hahn]	1	
 orth	Diaz (Francisco)		
 pb	266	0270	4520837
-entry	Diazoïques et Azoïques (Combinaisons) [Malaguti]		
+entry	Diazoïques et Azoïques (Combinaisons) [Malaguti]	0	
 orth	Diazoïques et Azoïques (Combinaisons)		
-entry	Dibon (Roger) [L. Hahn]		
+entry	Dibon (Roger) [L. Hahn]	1	
 orth	Dibon (Roger)		
 pb	267	0271	4520838
-entry	Dibranches [Ed. Lefèvre]		
+entry	Dibranches [Ed. Lefèvre]	0	
 orth	Dibranches		
-entry	Dibutyrine		
+entry	Dibutyrine	0	
 ref	Butyrine		
-entry	Dicéphales [O. Larcher]		
+entry	Dicéphales [O. Larcher]	1	
 orth	Dicéphales		
 pb	268	0272	4520839
-entry	Diceras (Mollusques) [Ed. Lefèvre]		
+entry	Diceras (Mollusques) [Ed. Lefèvre]	0	
 orth	Diceras (Mollusques)		
-entry	Dichloracétique (Acide)		
+entry	Dichloracétique (Acide)	0	
 ref	Chloracétique		
-entry	Dichlorhydrine		
+entry	Dichlorhydrine	0	
 ref	Chlorhydrine		
-entry	Dichroa [H. Baillon]		
+entry	Dichroa [H. Baillon]	1	
 orth	Dichroa		
 pb	269	0273	4520840
-entry	Dicinchonine		
+entry	Dicinchonine	0	
 ref	Cinchonine		
-entry	Dick (Les) [A. Dureau]		
+entry	Dick (Les) [A. Dureau]	0	
 orth	Dick (Les)		
-entry	Dickenson (Edmund) [A. Dureau]		
+entry	Dickenson (Edmund) [A. Dureau]	0	
 orth	Dickenson (Edmund)		
-entry	Dicker (Michael-Lee) [L. Hahn]		
+entry	Dicker (Michael-Lee) [L. Hahn]	1	
 orth	Dicker (Michael-Lee)		
 pb	270	0274	4520841
-entry	Dickson (Les) [L. Hahn]		
+entry	Dickson (Les) [L. Hahn]	2	
 orth	Dickson (Les)		
 pb	271	0275	4520842
 pb	272	0276	4520843
-entry	Dicodéine [Amédée Dechambre]		
+entry	Dicodéine [Amédée Dechambre]	0	
 orth	Dicodéine		
 pb	273	0277	4520844
-entry	Dicotylédones		
+entry	Dicotylédones	0	
 ref	Botanique		
-entry	Dicrotisme		
+entry	Dicrotisme	0	
 ref	Pouls		
-entry	Dictamne (et non Dictame) [H. Baillon]		
+entry	Dictamne (et non Dictame) [H. Baillon]	0	
 orth	Dictamne (et non Dictame)		
-entry	Dicyanique (Acide) ou Dicarbimide [Amédée Dechambre]		
+entry	Dicyanique (Acide) ou Dicarbimide [Amédée Dechambre]	0	
 orth	Dicyanique (Acide) ou Dicarbimide		
-entry	Dicypellium [G. Planchon]		
+entry	Dicypellium [G. Planchon]	0	
 orth	Dicypellium		
-entry	Didelot (Nicolas) [A. Chéreau]		
+entry	Didelot (Nicolas) [A. Chéreau]	1	
 orth	Didelot (Nicolas)		
 pb	274	0278	4520845
-entry	Didelphes [E. Oustalet]		
+entry	Didelphes [E. Oustalet]	2	
 orth	Didelphes		
 pb	275	0279	4520846
 pb	276	0280	4520847
-entry	Diderot (Denis) [L. Hahn]		
+entry	Diderot (Denis) [L. Hahn]	2	
 orth	Diderot (Denis)		
 pb	277	0281	4520848
 pb	278	0282	4520849
-entry	Didyme [Ed. Willm]		
+entry	Didyme [Ed. Willm]	1	
 orth	Didyme		
 pb	279	0283	4520850
-entry	Dié (Saint-) (Eaux minérales de) [A. Rotureau]		
+entry	Dié (Saint-) (Eaux minérales de) [A. Rotureau]	0	
 orth	Dié (Saint-) (Eaux minérales de)		
-entry	Dieffenbach (Johann-Friedrich) [L. Hahn]		
+entry	Dieffenbach (Johann-Friedrich) [L. Hahn]	2	
 orth	Dieffenbach (Johann-Friedrich)		
 pb	280	0284	4520851
 pb	281	0285	4520852
-entry	Dieffenbachia [G. Planchon]		
+entry	Dieffenbachia [G. Planchon]	1	
 orth	Dieffenbachia		
 pb	282	0286	4520853
-entry	Diel (August-Friedrich-Adrian) [L. Hahn]		
+entry	Diel (August-Friedrich-Adrian) [L. Hahn]	0	
 orth	Diel (August-Friedrich-Adrian)		
-entry	Diémen (Terre de Van)		
+entry	Diémen (Terre de Van)	0	
 ref	Tasmanie		
-entry	Diemerbroeck (Isbrand van) [L. Hahn]		
+entry	Diemerbroeck (Isbrand van) [L. Hahn]	1	
 orth	Diemerbroeck (Isbrand van)		
 pb	283	0287	4520854
-entry	Dienert (Alexandre-Louis) [L. Hahn]		
+entry	Dienert (Alexandre-Louis) [L. Hahn]	0	
 orth	Dienert (Alexandre-Louis)		
-entry	Dienheim (Johann-Wolfgang) [L. Hahn]		
+entry	Dienheim (Johann-Wolfgang) [L. Hahn]	1	
 orth	Dienheim (Johann-Wolfgang)		
 pb	284	0288	4520855
-entry	Dieppe (Station marine et hydrothérapique) [A. Rotureau]		
+entry	Dieppe (Station marine et hydrothérapique) [A. Rotureau]	6	
 orth	Dieppe (Station marine et hydrothérapique)		
 pb	285	0289	4520856
 pb	286	0290	4520857
@@ -463,64 +463,64 @@ pb	287	0291	4520858
 pb	288	0292	4520859
 pb	289	0293	4520860
 pb	290	0294	4520861
-entry	Dierbach (Johann-Heinrich) [L. Hahn]		
+entry	Dierbach (Johann-Heinrich) [L. Hahn]	1	
 orth	Dierbach (Johann-Heinrich)		
 pb	291	0295	4520862
-entry	Diérèse [Amédée Dechambre]		
+entry	Diérèse [Amédée Dechambre]	0	
 orth	Diérèse		
-entry	Diervilla (T.) [H. Baillon]		
+entry	Diervilla (T.) [H. Baillon]	1	
 orth	Diervilla (T.)		
 pb	292	0296	4520863
-entry	Diéry (Saint-) (Eau minérale de) [A. Rotureau]		
+entry	Diéry (Saint-) (Eau minérale de) [A. Rotureau]	0	
 orth	Diéry (Saint-) (Eau minérale de)		
-entry	Diète		
+entry	Diète	0	
 ref	Régime		
-entry	Dieterich (Les) [A. Dureau]		
+entry	Dieterich (Les) [A. Dureau]	1	
 orth	Dieterich (Les)		
 pb	293	0297	4520864
 pb	294	0298	4520865
-entry	Dieterichs (Les deux) [L. Hahn]		
+entry	Dieterichs (Les deux) [L. Hahn]	0	
 orth	Dieterichs (Les deux)		
-entry	Diéthacétique (Acide) [L. Hahn]		
+entry	Diéthacétique (Acide) [L. Hahn]	0	
 orth	Diéthacétique (Acide)		
-entry	Diéthoxalique (Acide) [Malaguti]		
+entry	Diéthoxalique (Acide) [Malaguti]	1	
 orth	Diéthoxalique (Acide)		
 pb	295	0299	4520866
-entry	Diéthylacétone [Malaguti]		
+entry	Diéthylacétone [Malaguti]	0	
 orth	Diéthylacétone		
-entry	Diéthylamine		
+entry	Diéthylamine	0	
 ref	Éthylamine		
-entry	Diéthylaniline		
+entry	Diéthylaniline	0	
 ref	Ethylaniline		
-entry	Diéthylbenzine [Amédée Dechambre]		
+entry	Diéthylbenzine [Amédée Dechambre]	0	
 orth	Diéthylbenzine		
-entry	Diéthyline [Malaguti]		
+entry	Diéthyline [Malaguti]	0	
 orth	Diéthyline		
-entry	Diéthylsulfone [Malaguti]		
+entry	Diéthylsulfone [Malaguti]	0	
 orth	Diéthylsulfone		
-entry	Diéthylurée		
+entry	Diéthylurée	0	
 ref	Urée		
-entry	Dietrich (Les) [A. Dureau, L. Hahn]		
+entry	Dietrich (Les) [A. Dureau, L. Hahn]	2	
 orth	Dietrich (Les)		
 pb	296	0300	4520867
 pb	297	0301	4520868
-entry	Dietz (Les) [L. Hahn]		
+entry	Dietz (Les) [L. Hahn]	0	
 orth	Dietz (Les)		
-entry	Dieuchés [L. Hahn]		
+entry	Dieuchés [L. Hahn]	1	
 orth	Dieuchés		
 pb	298	0302	4520869
-entry	Dieu-le-Fit (Eau minérale de) [A. Rotureau]		
+entry	Dieu-le-Fit (Eau minérale de) [A. Rotureau]	0	
 orth	Dieu-le-Fit (Eau minérale de)		
-entry	Diev		
+entry	Diev	0	
 ref	Dié		
-entry	Diez (Carl-August) [L. Hahn]		
+entry	Diez (Carl-August) [L. Hahn]	0	
 orth	Diez (Carl-August)		
-entry	Diffluan [Amédée Dechambre]		
+entry	Diffluan [Amédée Dechambre]	0	
 orth	Diffluan		
 pb	299	0303	4520870
-entry	Difflugie [F. Henneguy]		
+entry	Difflugie [F. Henneguy]	0	
 orth	Difflugie		
-entry	Difformités [E. Dally]		
+entry	Difformités [E. Dally]	18	
 orth	Difformités		
 pb	300	0304	4520871
 pb	301	0305	4520872
@@ -540,14 +540,14 @@ pb	314	0318	4520885
 pb	315	0319	4520886
 pb	316	0320	4520887
 pb	317	0321	4520888
-entry	Diffraction		
+entry	Diffraction	0	
 ref	Optique		
-entry	Diffusibles, Diffusifs [Amédée Dechambre]		
+entry	Diffusibles, Diffusifs [Amédée Dechambre]	1	
 orth	Diffusibles, Diffusifs		
 pb	318	0322	4520889
-entry	Diffusion [L. Hahn]		
+entry	Diffusion [L. Hahn]	0	
 orth	Diffusion		
-entry	Diffusion. Diffusion des liquides [L. Hahn]		
+entry	Diffusion. Diffusion des liquides [L. Hahn]	7	
 orth	Diffusion. Diffusion des liquides		
 pb	319	0323	4520890
 pb	320	0324	4520891
@@ -556,7 +556,7 @@ pb	322	0326	4520893
 pb	323	0327	4520894
 pb	324	0328	4520895
 pb	325	0329	4520896
-entry	Diffusion. Diffusion des gaz [L. Hahn]		
+entry	Diffusion. Diffusion des gaz [L. Hahn]	23	
 orth	Diffusion. Diffusion des gaz		
 pb	326	0330	4520897
 pb	327	0331	4520898
@@ -581,34 +581,34 @@ pb	345	0349	4520916
 pb	346	0350	4520917
 pb	347	0351	4520918
 pb	348	0352	4520919
-entry	Diffusion. Diffusion des solides [L. Hahn]		
+entry	Diffusion. Diffusion des solides [L. Hahn]	1	
 orth	Diffusion. Diffusion des solides		
 pb	349	0353	4520920
-entry	Digallique (Acide)		
+entry	Digallique (Acide)	0	
 ref	Gallique		
-entry	Digby (Kenelm) [A. Dureau]		
+entry	Digby (Kenelm) [A. Dureau]	1	
 orth	Digby (Kenelm)		
 pb	350	0354	4520921
-entry	Digby (Poudre sympathique de) [Amédée Dechambre]		
+entry	Digby (Poudre sympathique de) [Amédée Dechambre]	0	
 orth	Digby (Poudre sympathique de)		
-entry	Degénèse		
+entry	Degénèse	0	
 ref	Monogénèses		
 ref	Génération		
-entry	Digestif (Appareil)		
+entry	Digestif (Appareil)	0	
 ref	Digestion		
-entry	Digestif (Onguent) [Amédée Dechambre]		
+entry	Digestif (Onguent) [Amédée Dechambre]	0	
 orth	Digestif (Onguent)		
-entry	Digestion		
-entry	Digestion. Généralités [G. Carlet]		
+entry	Digestion	0	
+entry	Digestion. Généralités [G. Carlet]	3	
 orth	Digestion. Généralités		
 pb	351	0355	4520922
 pb	352	0356	4520923
 pb	353	0357	4520924
-entry	Digestion. Historique [G. Carlet]		
+entry	Digestion. Historique [G. Carlet]	2	
 orth	Digestion. Historique		
 pb	354	0358	4520925
 pb	355	0359	4520926
-entry	Digestion. Examen de l'appareil digestif dans la série animale [G. Carlet]		
+entry	Digestion. Examen de l'appareil digestif dans la série animale [G. Carlet]	42	
 orth	Digestion. Examen de l'appareil digestif dans la série animale		
 pb	356	0360	4520927
 pb	357	0361	4520928
@@ -652,14 +652,14 @@ pb	394	0398	4520965
 pb	395	0399	4520966
 pb	396	0400	4520967
 pb	397	0401	4520968
-entry	Digestion. Phénomènes mécaniques de la digestion [G. Carlet]		
+entry	Digestion. Phénomènes mécaniques de la digestion [G. Carlet]	5	
 orth	Digestion. Phénomènes mécaniques de la digestion		
 pb	398	0402	4520969
 pb	399	0403	4520970
 pb	400	0404	4520971
 pb	401	0405	4520972
 pb	402	0406	4520973
-entry	Digestion. Phénomènes chimiques de la digestion [G. Carlet]		
+entry	Digestion. Phénomènes chimiques de la digestion [G. Carlet]	6	
 orth	Digestion. Phénomènes chimiques de la digestion		
 pb	403	0407	4520974
 pb	404	0408	4520975
@@ -667,18 +667,18 @@ pb	405	0409	4520976
 pb	406	0410	4520977
 pb	407	0411	4520978
 pb	408	0412	4520979
-entry	Digestion. Influence du système nerveux [G. Carlet]		
+entry	Digestion. Influence du système nerveux [G. Carlet]	2	
 orth	Digestion. Influence du système nerveux		
 pb	409	0413	4520980
 pb	410	0414	4520981
-entry	Digestion (Pharmacie)		
+entry	Digestion (Pharmacie)	0	
 ref	Solution		
-entry	Digitale		
-entry	Digitale. Botanique [H. Baillon]		
+entry	Digitale	0	
+entry	Digitale. Botanique [H. Baillon]	2	
 orth	Digitale. Botanique		
 pb	411	0415	4520982
 pb	412	0416	4520983
-entry	Digitale. Emploi médical [Fonssagrives]		
+entry	Digitale. Emploi médical [Fonssagrives]	19	
 orth	Digitale. Emploi médical		
 pb	413	0417	4520984
 pb	414	0418	4520985
@@ -699,27 +699,27 @@ pb	428	0432	4520999
 pb	429	0433	4521000
 pb	430	0434	4521001
 pb	431	0435	4521002
-entry	Digitale. Toxicologie [Fonssagrives]		
+entry	Digitale. Toxicologie [Fonssagrives]	4	
 orth	Digitale. Toxicologie		
 pb	432	0436	4521003
 pb	433	0437	4521004
 pb	434	0438	4521005
 pb	435	0439	4521006
-entry	Digitaléine		
+entry	Digitaléine	0	
 ref	Digitaline		
-entry	Digitaline		
-entry	Digitaline. Chimie [L. Hahn]		
+entry	Digitaline	0	
+entry	Digitaline. Chimie [L. Hahn]	4	
 orth	Digitaline. Chimie		
 pb	436	0440	4521007
 pb	437	0441	4521008
 pb	438	0442	4521009
 pb	439	0443	4521010
-entry	Digitale. Thérapeutique [Fonssagrives]		
+entry	Digitale. Thérapeutique [Fonssagrives]	3	
 orth	Digitale. Thérapeutique		
 pb	440	0444	4521011
 pb	441	0445	4521012
 pb	442	0446	4521013
-entry	Digitale. Toxicologie [Fonssagrives]		
+entry	Digitale. Toxicologie [Fonssagrives]	6	
 orth	Digitale. Toxicologie		
 pb	443	0447	4521014
 pb	444	0448	4521015
@@ -727,151 +727,151 @@ pb	445	0449	4521016
 pb	446	0450	4521017
 pb	447	0451	4521018
 pb	448	0452	4521019
-entry	Digitalinique (Acide). Digitalirétine, Digitalosmine, Digitasoline,		
+entry	Digitalinique (Acide). Digitalirétine, Digitalosmine, Digitasoline,	0	
 ref	Digitaline		
-entry	Digitigrades [E. Oustalet]		
+entry	Digitigrades [E. Oustalet]	0	
 orth	Digitigrades		
-entry	Digitonéine [Fonssagrives]		
+entry	Digitonéine [Fonssagrives]	0	
 orth	Digitonéine		
-entry	Digitonine [L. Hahn]		
+entry	Digitonine [L. Hahn]	1	
 orth	Digitonine		
 pb	449	0453	4521020
-entry	Digitorétine [Fonssagrives]		
+entry	Digitorétine [Fonssagrives]	0	
 orth	Digitorétine		
-entry	Digitoxine [L. Hahn]		
+entry	Digitoxine [L. Hahn]	0	
 orth	Digitoxine		
-entry	Diglycérides		
+entry	Diglycérides	0	
 ref	Glycérides		
-entry	Diglycolamidique (Acide) [Malaguti]		
+entry	Diglycolamidique (Acide) [Malaguti]	1	
 orth	Diglycolamidique (Acide)		
 pb	450	0454	4521021
-entry	Diglycoléthylénique (Acide) [Malaguti]		
+entry	Diglycoléthylénique (Acide) [Malaguti]	0	
 orth	Diglycoléthylénique (Acide)		
-entry	Diglycolique (Acide) [Malaguti]		
+entry	Diglycolique (Acide) [Malaguti]	1	
 orth	Diglycolique (Acide)		
 pb	451	0455	4521022
-entry	Diglycosides		
+entry	Diglycosides	0	
 ref	Glycosides		
-entry	Digne (Eaux minérales de) [A. Rotureau]		
+entry	Digne (Eaux minérales de) [A. Rotureau]	1	
 orth	Digne (Eaux minérales de)		
 pb	452	0456	4521023
-entry	Dika [H. Baillon]		
+entry	Dika [H. Baillon]	3	
 orth	Dika		
 pb	453	0457	4521024
 pb	454	0458	4521025
 pb	455	0459	4521026
-entry	Dikamali [Amédée Dechambre]		
+entry	Dikamali [Amédée Dechambre]	0	
 orth	Dikamali		
-entry	Dilactique (Acide) [Amédée Dechambre]		
+entry	Dilactique (Acide) [Amédée Dechambre]	0	
 orth	Dilactique (Acide)		
-entry	Dilatation [Amédée Dechambre]		
+entry	Dilatation [Amédée Dechambre]	4	
 orth	Dilatation		
 pb	456	0460	4521027
 pb	457	0461	4521028
 pb	458	0462	4521029
 pb	459	0463	4521030
-entry	Dililurique (Acide) ou Nitro-Barbiturique [Amédée Dechambre]		
+entry	Dililurique (Acide) ou Nitro-Barbiturique [Amédée Dechambre]	0	
 orth	Dililurique (Acide) ou Nitro-Barbiturique		
-entry	Dillen (Les deux) [L. Hahn]		
+entry	Dillen (Les deux) [L. Hahn]	1	
 orth	Dillen (Les deux)		
 pb	460	0464	4521031
-entry	Dilléniacées, Dilléniées [H. Baillon]		
+entry	Dilléniacées, Dilléniées [H. Baillon]	2	
 orth	Dilléniacées, Dilléniées		
 pb	461	0465	4521032
 pb	462	0466	4521033
-entry	Dilution (Pharmacie) [Amédée Dechambre]		
+entry	Dilution (Pharmacie) [Amédée Dechambre]	0	
 orth	Dilution (Pharmacie)		
-entry	Dimargarine [Amédée Dechambre]		
+entry	Dimargarine [Amédée Dechambre]	0	
 orth	Dimargarine		
-entry	Diméthoxalique (Acide) [Malaguti]		
+entry	Diméthoxalique (Acide) [Malaguti]	0	
 orth	Diméthoxalique (Acide)		
 pb	463	0467	4521034
-entry	Diméthylacétone [Amédée Dechambre]		
+entry	Diméthylacétone [Amédée Dechambre]	0	
 orth	Diméthylacétone		
-entry	Diméthylamine		
+entry	Diméthylamine	0	
 ref	Méthylamine		
-entry	Diméthylaniline		
+entry	Diméthylaniline	0	
 ref	Méthylaniline		
-entry	Diméthylbenzine		
+entry	Diméthylbenzine	0	
 ref	Xylène		
-entry	Diméthyle		
+entry	Diméthyle	0	
 ref	Éthylène [Amédée Dechambre]		
-entry	Diméthylène		
+entry	Diméthylène	0	
 ref	Éthylène		
-entry	Diméthylphosphine [Amédée Dechambre]		
+entry	Diméthylphosphine [Amédée Dechambre]	0	
 orth	Diméthylphosphine		
-entry	Diméthylpyrocatéchine ou Vératrol		
+entry	Diméthylpyrocatéchine ou Vératrol	0	
 ref	Vératrol		
-entry	Diméthylprotocatéchique (Acide) [Amédée Dechambre]		
+entry	Diméthylprotocatéchique (Acide) [Amédée Dechambre]	0	
 orth	Diméthylprotocatéchique (Acide)		
-entry	Dimocarpus [Ed. Lefèvre]		
+entry	Dimocarpus [Ed. Lefèvre]	0	
 orth	Dimocarpus		
-entry	Dimorphine [Amédée Dechambre]		
+entry	Dimorphine [Amédée Dechambre]	0	
 orth	Dimorphine		
-entry	Dimorphisme		
+entry	Dimorphisme	0	
 ref	Isomorphisme		
-entry	Dimsdale (Thomas) [L. Hahn]		
+entry	Dimsdale (Thomas) [L. Hahn]	1	
 orth	Dimsdale (Thomas)		
 pb	464	0468	4521035
-entry	Dinan (Eau minérale de) [A. Rotureau]		
+entry	Dinan (Eau minérale de) [A. Rotureau]	1	
 orth	Dinan (Eau minérale de)		
 pb	465	0469	4521036
-entry	Dinaphtyle [Amédée Dechambre]		
+entry	Dinaphtyle [Amédée Dechambre]	0	
 orth	Dinaphtyle		
-entry	Dinard (Station marine de) [A. Rotureau]		
+entry	Dinard (Station marine de) [A. Rotureau]	0	
 orth	Dinard (Station marine de)		
-entry	Dindon [E. Oustalet]		
+entry	Dindon [E. Oustalet]	2	
 orth	Dindon		
 pb	466	0470	4521037
 pb	467	0471	4521038
-entry	Dinghens de Dinghen (Léonard-François) [A. Dureau]		
+entry	Dinghens de Dinghen (Léonard-François) [A. Dureau]	0	
 orth	Dinghens de Dinghen (Léonard-François)		
-entry	Dinkas (Les) [Amédée Dechambre]		
+entry	Dinkas (Les) [Amédée Dechambre]	0	
 orth	Dinkas (Les)		
-entry	Dino del Garbo [L. Hahn]		
+entry	Dino del Garbo [L. Hahn]	1	
 orth	Dino del Garbo		
 pb	468	0472	4521039
-entry	Dinobryens [F. Henneguy]		
+entry	Dinobryens [F. Henneguy]	0	
 orth	Dinobryens		
 pb	469	0473	4521040
-entry	Dioclès de Caryste [L. Hahn]		
+entry	Dioclès de Caryste [L. Hahn]	1	
 orth	Dioclès de Caryste		
 pb	470	0474	4521041
-entry	Diodati (Alexandre) [L. Hahn]		
+entry	Diodati (Alexandre) [L. Hahn]	0	
 orth	Diodati (Alexandre)		
-entry	Diodon [H. E. Sauvage]		
+entry	Diodon [H. E. Sauvage]	2	
 orth	Diodon		
 pb	471	0475	4521042
 pb	472	0476	4521043
-entry	Diodontocéphale [O. Larcher]		
+entry	Diodontocéphale [O. Larcher]	0	
 orth	Diodontocéphale		
-entry	Diodore [L. Hahn]		
+entry	Diodore [L. Hahn]	0	
 orth	Diodore		
-entry	Diodore de Sicile [L. Hahn]		
+entry	Diodore de Sicile [L. Hahn]	1	
 orth	Diodore de Sicile		
 pb	473	0477	4521044
-entry	Diodote [L. Hahn]		
+entry	Diodote [L. Hahn]	0	
 orth	Diodote		
-entry	Diogène d'Appolonie [L. Hahn]		
+entry	Diogène d'Appolonie [L. Hahn]	0	
 orth	Diogène d'Appolonie		
-entry	Dioléine [Amédée Dechambre]		
+entry	Dioléine [Amédée Dechambre]	0	
 orth	Dioléine		
-entry	Dionée [G. Planchon]		
+entry	Dionée [G. Planchon]	1	
 orth	Dionée		
 pb	474	0478	4521045
-entry	Dionis (Les) [A. Chéreau]		
+entry	Dionis (Les) [A. Chéreau]	1	
 orth	Dionis (Les)		
 pb	475	0479	4521046
-entry	Dionisio (Paolo) [L. Hahn]		
+entry	Dionisio (Paolo) [L. Hahn]	1	
 orth	Dionisio (Paolo)		
 pb	476	0480	4521047
-entry	Dionysiades [G. Planchon]		
+entry	Dionysiades [G. Planchon]	0	
 orth	Dionysiades		
-entry	Dioptrie [C.-M. Gariel]		
+entry	Dioptrie [C.-M. Gariel]	2	
 orth	Dioptrie		
 pb	477	0481	4521048
 pb	478	0482	4521049
-entry	Dioptrique [C.-M. Gariel]		
+entry	Dioptrique [C.-M. Gariel]	59	
 orth	Dioptrique		
 pb	479	0483	4521050
 pb	480	0484	4521051
@@ -932,18 +932,18 @@ pb	534	0538	4521105
 pb	535	0539	4521106
 pb	536	0540	4521107
 pb	537	0541	4521108
-entry	Diörup (Michael) [L. Hahn]		
+entry	Diörup (Michael) [L. Hahn]	0	
 orth	Diörup (Michael)		
-entry	Diosanthos [G. Planchon]		
+entry	Diosanthos [G. Planchon]	0	
 orth	Diosanthos		
-entry	Diosbalanos [G. Planchon]		
+entry	Diosbalanos [G. Planchon]	0	
 orth	Diosbalanos		
-entry	Dioscorea		
+entry	Dioscorea	0	
 ref	Igname		
-entry	Dioscorées [G. Planchon]		
+entry	Dioscorées [G. Planchon]	1	
 orth	Dioscorées		
 pb	538	0542	4521109
-entry	Dioscoride [Eug. Fournier]		
+entry	Dioscoride [Eug. Fournier]	7	
 orth	Dioscoride		
 pb	539	0543	4521110
 pb	540	0544	4521111
@@ -952,66 +952,66 @@ pb	542	0546	4521113
 pb	543	0547	4521114
 pb	544	0548	4521115
 pb	545	0549	4521116
-entry	Diosma [H. Baillon]		
+entry	Diosma [H. Baillon]	1	
 orth	Diosma		
 pb	546	0550	4521117
-entry	Diosmine [L. Hahn]		
+entry	Diosmine [L. Hahn]	0	
 orth	Diosmine		
-entry	Diosporon [G. Planchon]		
+entry	Diosporon [G. Planchon]	0	
 orth	Diosporon		
-entry	Diospyros		
+entry	Diospyros	0	
 ref	Plaquemimer		
-entry	Dioszegi (Étienne) [L. Hahn]		
+entry	Dioszegi (Étienne) [L. Hahn]	0	
 orth	Dioszegi (Étienne)		
-entry	Diotis [G. Planchon]		
+entry	Diotis [G. Planchon]	1	
 orth	Diotis		
 pb	547	0551	4521118
-entry	Dioxanthraquinone		
+entry	Dioxanthraquinone	0	
 ref	Alizarine		
-entry	Dioxindol		
+entry	Dioxindol	0	
 ref	Indol		
-entry	Dioxippe		
+entry	Dioxippe	0	
 ref	Dexippe		
-entry	Dioxybenzoïques (Acides) [Amédée Dechambre]		
+entry	Dioxybenzoïques (Acides) [Amédée Dechambre]	0	
 orth	Dioxybenzoïques (Acides)		
-entry	Dioxybenzol (Para-) [Amédée Dechambre]		
+entry	Dioxybenzol (Para-) [Amédée Dechambre]	0	
 orth	Dioxybenzol (Para-)		
-entry	Dioxyéthylène [Amédée Dechambre]		
+entry	Dioxyéthylène [Amédée Dechambre]	0	
 orth	Dioxyéthylène		
-entry	Dioxylénol [Amédée Dechambre]		
+entry	Dioxylénol [Amédée Dechambre]	0	
 orth	Dioxylénol		
-entry	Dioxymaléique (Acide) [Amédée Dechambre]		
+entry	Dioxymaléique (Acide) [Amédée Dechambre]	0	
 orth	Dioxymaléique (Acide)		
-entry	Dioxynaphtoquinone [Amédée Dechambre]		
+entry	Dioxynaphtoquinone [Amédée Dechambre]	0	
 orth	Dioxynaphtoquinone		
-entry	Dioxynaphthylol [Amédée Dechambre]		
+entry	Dioxynaphthylol [Amédée Dechambre]	0	
 orth	Dioxynaphthylol		
-entry	Dioxythymoquinone [Amédée Dechambre]		
+entry	Dioxythymoquinone [Amédée Dechambre]	0	
 orth	Dioxythymoquinone		
-entry	Diphénine [Amédée Dechambre]		
+entry	Diphénine [Amédée Dechambre]	0	
 orth	Diphénine		
-entry	Diphénol		
+entry	Diphénol	0	
 ref	Phénols		
 pb	548	0552	4521119
-entry	Diphénylamine [Amédée Dechambre]		
+entry	Diphénylamine [Amédée Dechambre]	0	
 orth	Diphénylamine		
-entry	Diphénylaniline [Amédée Dechambre]		
+entry	Diphénylaniline [Amédée Dechambre]	0	
 orth	Diphénylaniline		
-entry	Diphényle		
+entry	Diphényle	0	
 ref	Phényle		
-entry	Diphénylène		
+entry	Diphénylène	0	
 ref	Phénylène		
-entry	Diphényléthane		
+entry	Diphényléthane	0	
 ref	Phényléthane		
-entry	Diphénylol		
+entry	Diphénylol	0	
 ref	Phénylol		
-entry	Diphénylméthane		
+entry	Diphénylméthane	0	
 ref	Phénylméthane		
-entry	Diphénylméthylène ou Fluorène [Amédée Dechambre]		
+entry	Diphénylméthylène ou Fluorène [Amédée Dechambre]	0	
 orth	Diphénylméthylène ou Fluorène		
-entry	Diphile [L. Hahn]		
+entry	Diphile [L. Hahn]	0	
 orth	Diphile		
-entry	Diphthérie [A. Sanné]		
+entry	Diphthérie [A. Sanné]	173	
 orth	Diphthérie		
 pb	549	0553	4521120
 pb	550	0554	4521121
@@ -1186,56 +1186,56 @@ pb	718	0722	4521289
 pb	719	0723	4521290
 pb	720	0724	4521291
 pb	721	0725	4521292
-entry	Diphyidés [Ed. Lefèvre]		
+entry	Diphyidés [Ed. Lefèvre]	1	
 orth	Diphyidés		
 pb	722	0726	4521293
-entry	Diplocéphale [O. Larcher]		
+entry	Diplocéphale [O. Larcher]	0	
 orth	Diplocéphale		
-entry	Diplodonte [Ed. Lefèvre]		
+entry	Diplodonte [Ed. Lefèvre]	0	
 orth	Diplodonte		
-entry	Diploé [Amédée Dechambre]		
+entry	Diploé [Amédée Dechambre]	0	
 orth	Diploé		
-entry	Diplogenèse [Amédée Dechambre]		
+entry	Diplogenèse [Amédée Dechambre]	0	
 orth	Diplogenèse		
-entry	Diploïques (Veines) [Amédée Dechambre]		
+entry	Diploïques (Veines) [Amédée Dechambre]	1	
 orth	Diploïques (Veines)		
 pb	723	0727	4521294
-entry	Diplolépis, Diplolépaires [Amédée Dechambre]		
+entry	Diplolépis, Diplolépaires [Amédée Dechambre]	0	
 orth	Diplolépis, Diplolépaires		
-entry	Diplopie [Giraud-Teulon]		
+entry	Diplopie [Giraud-Teulon]	5	
 orth	Diplopie		
 pb	724	0728	4521295
 pb	725	0729	4521296
 pb	726	0730	4521297
 pb	727	0731	4521298
 pb	728	0732	4521299
-entry	Diplopodes [A. Laboulbène]		
+entry	Diplopodes [A. Laboulbène]	0	
 orth	Diplopodes		
-entry	Diplotaxis [H. Baillon]		
+entry	Diplotaxis [H. Baillon]	1	
 orth	Diplotaxis		
 pb	729	0733	4521300
-entry	Dipnés [H.-E. Sauvage]		
+entry	Dipnés [H.-E. Sauvage]	4	
 orth	Dipnés		
 pb	730	0734	4521301
 pb	731	0735	4521302
 pb	732	0736	4521303
 pb	733	0737	4521304
-entry	Dippel (Johann-Conrad) [L. Hahn]		
+entry	Dippel (Johann-Conrad) [L. Hahn]	1	
 orth	Dippel (Johann-Conrad)		
 pb	734	0738	4521305
-entry	Dippel (Huile de)		
+entry	Dippel (Huile de)	0	
 ref	Goudron animal		
-entry	Dippold (Gottfried-Ehregott) [L. Hahn]		
+entry	Dippold (Gottfried-Ehregott) [L. Hahn]	0	
 orth	Dippold (Gottfried-Ehregott)		
-entry	Dipropargyle ou Diallylényle [Amédée Dechambre]		
+entry	Dipropargyle ou Diallylényle [Amédée Dechambre]	0	
 orth	Dipropargyle ou Diallylényle		
-entry	Dipsacées [G. Planchon]		
+entry	Dipsacées [G. Planchon]	1	
 orth	Dipsacées		
 pb	735	0739	4521306
-entry	Dipsas [H.-E. Sauvage]		
+entry	Dipsas [H.-E. Sauvage]	1	
 orth	Dipsas		
 pb	736	0740	4521307
-entry	Dipsomanie [Ant. Ritti]		
+entry	Dipsomanie [Ant. Ritti]	8	
 orth	Dipsomanie		
 pb	737	0741	4521308
 pb	738	0742	4521309
@@ -1245,9 +1245,9 @@ pb	741	0745	4521312
 pb	742	0746	4521313
 pb	743	0747	4521314
 pb	744	0748	4521315
-entry	Diptamum [G. Planchon]		
+entry	Diptamum [G. Planchon]	0	
 orth	Diptamum		
-entry	Diptères [A. Laboulbène]		
+entry	Diptères [A. Laboulbène]	9	
 orth	Diptères		
 pb	745	0749	4521316
 pb	746	0750	4521317
@@ -1259,57 +1259,57 @@ pb	751	0755	4521322
 pb	752	0756	4521323
 pb	753	0757	4521324
 pb	754	0758	4521325
-entry	Diptères [A. Laboulbène] [E. Gobert]		
+entry	Diptères [A. Laboulbène] [E. Gobert]	4	
 orth	Diptères		
 pb	755	0759	4521326
 pb	756	0760	4521327
 pb	757	0761	4521328
 pb	758	0762	4521329
-entry	Diptérix		
+entry	Diptérix	0	
 ref	Coumarouna		
-entry	Diptérocarpées [G. Planchon]		
+entry	Diptérocarpées [G. Planchon]	0	
 orth	Diptérocarpées		
-entry	Dirca [H. Baillon]		
+entry	Dirca [H. Baillon]	1	
 orth	Dirca		
 pb	759	0763	4521330
-entry	Dirigeant (Remède) [Amédée Dechambre]		
+entry	Dirigeant (Remède) [Amédée Dechambre]	0	
 orth	Dirigeant (Remède)		
-entry	Dirkion [G. Planchon]		
+entry	Dirkion [G. Planchon]	0	
 orth	Dirkion		
-entry	Diruf (Carl-Jacob-Christoph-Joseph) [L. Hahn]		
+entry	Diruf (Carl-Jacob-Christoph-Joseph) [L. Hahn]	0	
 orth	Diruf (Carl-Jacob-Christoph-Joseph)		
 pb	760	0764	4521331
-entry	Disaccharides		
+entry	Disaccharides	0	
 ref	Saccharides		
-entry	Discina [Ed. Lefèvre]		
+entry	Discina [Ed. Lefèvre]	0	
 orth	Discina		
-entry	Discoglosse [H.-E. Sauvage]		
+entry	Discoglosse [H.-E. Sauvage]	1	
 orth	Discoglosse		
 pb	761	0765	4521332
 pb	762	0766	4521333
-entry	Discoglosse [H.-E. Sauvage] [E. Sauvage]		
+entry	Discoglosse [H.-E. Sauvage] [E. Sauvage]	0	
 orth	Discoglosse		
-entry	Discophores [Ed. Lefèvre]		
+entry	Discophores [Ed. Lefèvre]	0	
 orth	Discophores		
-entry	Discrimen [Amédée Dechambre]		
+entry	Discrimen [Amédée Dechambre]	0	
 orth	Discrimen		
-entry	Discussifs [Amédée Dechambre]		
+entry	Discussifs [Amédée Dechambre]	0	
 orth	Discussifs		
-entry	Disdier (François-Michel) [L. Hahn]		
+entry	Disdier (François-Michel) [L. Hahn]	1	
 orth	Disdier (François-Michel)		
 pb	763	0767	4521334
-entry	Disette		
+entry	Disette	0	
 ref	Famine		
-entry	Disjonction (Anomalies par) [Amédée Dechambre]		
+entry	Disjonction (Anomalies par) [Amédée Dechambre]	0	
 orth	Disjonction (Anomalies par)		
-entry	Dispensaire [Amédée Dechambre]		
+entry	Dispensaire [Amédée Dechambre]	0	
 orth	Dispensaire		
 pb	764	0768	4521335
-entry	Dispoline [Amédée Dechambre]		
+entry	Dispoline [Amédée Dechambre]	0	
 orth	Dispoline		
-entry	Disques [Amédée Dechambre]		
+entry	Disques [Amédée Dechambre]	0	
 orth	Disques		
-entry	Dissection [J. Aubry]		
+entry	Dissection [J. Aubry]	15	
 orth	Dissection		
 pb	765	0769	4521336
 pb	766	0770	4521337
@@ -1326,28 +1326,28 @@ pb	776	0780	4521347
 pb	777	0781	4521348
 pb	778	0782	4521349
 pb	779	0783	4521350
-entry	Dissimulées (Maladies)		
+entry	Dissimulées (Maladies)	0	
 ref	Simulation		
-entry	Dissociation [C.-M. Gariel]		
+entry	Dissociation [C.-M. Gariel]	3	
 orth	Dissociation		
 pb	780	0784	4521351
 pb	781	0785	4521352
 pb	782	0786	4521353
-entry	Dissolution		
+entry	Dissolution	0	
 ref	Solution		
-entry	Dissymètrie [C.-M. Gariel]		
+entry	Dissymètrie [C.-M. Gariel]	0	
 orth	Dissymètrie		
 pb	783	0787	4521354
-entry	Dissymétrie [C.-M. Gariel]		
+entry	Dissymétrie [C.-M. Gariel]	1	
 orth	Dissymétrie		
 pb	784	0788	4521355
-entry	Distéarine [Amédée Dechambre]		
+entry	Distéarine [Amédée Dechambre]	0	
 orth	Distéarine		
-entry	Distension [Amédée Dechambre]		
+entry	Distension [Amédée Dechambre]	0	
 orth	Distension		
-entry	Disticriasis [J. Chauvel]		
+entry	Disticriasis [J. Chauvel]	0	
 orth	Disticriasis		
-entry	Distillation [L. Hahn]		
+entry	Distillation [L. Hahn]	10	
 orth	Distillation		
 pb	785	0789	4521356
 pb	786	0790	4521357
@@ -1359,7 +1359,7 @@ pb	791	0795	4521362
 pb	792	0796	4521363
 pb	793	0797	4521364
 pb	794	0798	4521365
-entry	Distilleries (Hygiène industrielle) [Alexandre Layet]		
+entry	Distilleries (Hygiène industrielle) [Alexandre Layet]	10	
 orth	Distilleries (Hygiène industrielle)		
 pb	795	0799	4521366
 pb	796	0800	4521367
@@ -1371,37 +1371,37 @@ pb	801	0805	4521372
 pb	802	0806	4521373
 pb	803	0807	4521374
 pb	804	0808	4521375
-entry	Distomes ou Distomiens [L. Hahn, Ed. Lefèvre]		
+entry	Distomes ou Distomiens [L. Hahn, Ed. Lefèvre]	2	
 orth	Distomes ou Distomiens		
 pb	805	0809	4521376
 pb	806	0810	4521377
-entry	Distorsion [Amédée Dechambre]		
+entry	Distorsion [Amédée Dechambre]	0	
 orth	Distorsion		
-entry	Disulféthionique (Acide) [Amédée Dechambre]		
+entry	Disulféthionique (Acide) [Amédée Dechambre]	0	
 orth	Disulféthionique (Acide)		
-entry	Disulfométholique (Acide) [Amédée Dechambre]		
+entry	Disulfométholique (Acide) [Amédée Dechambre]	0	
 orth	Disulfométholique (Acide)		
 pb	807	0811	4521378
-entry	Disulfopropiolique (Acide) [Amédée Dechambre]		
+entry	Disulfopropiolique (Acide) [Amédée Dechambre]	0	
 orth	Disulfopropiolique (Acide)		
-entry	Dita [G. Planchon]		
+entry	Dita [G. Planchon]	0	
 orth	Dita		
-entry	Ditérébène		
+entry	Ditérébène	0	
 ref	Térébène		
-entry	Ditolyle [Amédée Dechambre]		
+entry	Ditolyle [Amédée Dechambre]	0	
 orth	Ditolyle		
-entry	Dittmar (Siegmund-Gottfried) [L. Hahn]		
+entry	Dittmar (Siegmund-Gottfried) [L. Hahn]	0	
 orth	Dittmar (Siegmund-Gottfried)		
-entry	Dittmer (Les) [L. Hahn]		
+entry	Dittmer (Les) [L. Hahn]	1	
 orth	Dittmer (Les)		
 pb	808	0812	4521379
-entry	Diuca-Laguem [G. Planchon]		
+entry	Diuca-Laguem [G. Planchon]	0	
 orth	Diuca-Laguem		
-entry	Diuréides		
+entry	Diuréides	0	
 ref	Uréides		
-entry	Diuretica [G. Planchon]		
+entry	Diuretica [G. Planchon]	0	
 orth	Diuretica		
 pb	809	0813	4521380
-entry	Articles Contenus dans le vingt-neuvième volume (1re série)		
+entry	Articles Contenus dans le vingt-neuvième volume (1re série)	2	
 pb	810	0814	4521381
 pb	811	0815	4521382

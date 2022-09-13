@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	7308870
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	7308871
-entry	[Mention d'imprimeur]		
+entry	[Mention d'imprimeur]	0	
 pb	[s. pag.]	0003	7308872
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7308873
-entry	Sécrétion		
+entry	Sécrétion	42	
 pb	2	0005	7308874
 pb	3	0006	7308875
 pb	4	0007	7308876
@@ -48,10 +48,10 @@ pb	40	0043	7308912
 pb	41	0044	7308913
 pb	42	0045	7308914
 pb	43	0046	7308915
-entry	Sedlitz - Seidtlitz		
+entry	Sedlitz - Seidtlitz	1	
 pb	44	0047	7308916
 pb	45	0048	7308917
-entry	Seltz, Selsters ou selten		
+entry	Seltz, Selsters ou selten	8	
 orth	Seltz		
 orth	Selsters		
 orth	selten		
@@ -63,7 +63,7 @@ pb	50	0053	7308922
 pb	51	0054	7308923
 pb	52	0055	7308924
 pb	53	0056	7308925
-entry	Sensibilité		
+entry	Sensibilité	79	
 pb	54	0057	7308926
 pb	55	0058	7308927
 pb	56	0059	7308928
@@ -143,7 +143,7 @@ pb	129	0132	7309001
 pb	130	0133	7309002
 pb	131	0134	7309003
 pb	132	0135	7309004
-entry	Septicémie		
+entry	Septicémie	16	
 pb	133	0136	7309005
 pb	134	0137	7309006
 pb	135	0138	7309007
@@ -160,7 +160,7 @@ pb	145	0148	7309017
 pb	146	0149	7309018
 pb	147	0150	7309019
 pb	148	0151	7309020
-entry	Serpents		
+entry	Serpents	11	
 pb	149	0152	7309021
 pb	150	0153	7309022
 pb	151	0154	7309023
@@ -173,25 +173,25 @@ pb	157	0160	7309029
 pb	158	0161	7309030
 pb	159	0162	7309031
 pb	160	0163	7309032
-entry	Serres-fines		
+entry	Serres-fines	3	
 pb	161	0164	7309033
 pb	162	0165	7309034
 pb	163	0166	7309035
 pb	164	0167	7309036
-entry	Serre-noeuds		
+entry	Serre-noeuds	4	
 pb	165	0168	7309037
 pb	166	0169	7309038
 pb	167	0170	7309039
 pb	168	0171	7309040
 pb	169	0172	7309041
-entry	Serre-nœuds		
-entry	Séton		
+entry	Serre-nœuds	0	
+entry	Séton	5	
 pb	170	0173	7309042
 pb	171	0174	7309043
 pb	172	0175	7309044
 pb	173	0176	7309045
 pb	174	0177	7309046
-entry	Sevrage		
+entry	Sevrage	11	
 pb	175	0178	7309047
 pb	176	0179	7309048
 pb	177	0180	7309049
@@ -204,9 +204,9 @@ pb	183	0186	7309055
 pb	184	0187	7309056
 pb	185	0188	7309057
 pb	186	0189	7309058
-entry	Sevrage - Simulées		
+entry	Sevrage - Simulées	0	
 pb	187	0190	7309059
-entry	Simulées		
+entry	Simulées	59	
 pb	188	0191	7309060
 pb	189	0192	7309061
 pb	190	0193	7309062
@@ -266,7 +266,7 @@ pb	243	0246	7309115
 pb	244	0247	7309116
 pb	245	0248	7309117
 pb	246	0249	7309118
-entry	Sirops		
+entry	Sirops	7	
 pb	247	0250	7309119
 pb	248	0251	7309120
 pb	249	0252	7309121
@@ -275,9 +275,9 @@ pb	251	0254	7309123
 pb	252	0255	7309124
 pb	253	0256	7309125
 pb	254	0257	7309126
-entry	Sirops - Solution - Solubilité		
+entry	Sirops - Solution - Solubilité	0	
 pb	255	0258	7309127
-entry	Solution - Solubilité		
+entry	Solution - Solubilité	6	
 pb	256	0259	7309128
 pb	257	0260	7309129
 pb	258	0261	7309130
@@ -285,9 +285,9 @@ pb	259	0262	7309131
 pb	260	0263	7309132
 pb	261	0264	7309133
 pb	262	0265	7309134
-entry	Solution - Solubilité - Sommeil		
+entry	Solution - Solubilité - Sommeil	0	
 pb	263	0266	7309135
-entry	Sommeil		
+entry	Sommeil	41	
 pb	264	0267	7309136
 pb	265	0268	7309137
 pb	266	0269	7309138
@@ -330,7 +330,7 @@ pb	302	0305	7309174
 pb	303	0306	7309175
 pb	304	0307	7309176
 pb	305	0308	7309177
-entry	Sondes		
+entry	Sondes	15	
 pb	306	0309	7309178
 pb	307	0310	7309179
 pb	308	0311	7309180
@@ -347,7 +347,7 @@ pb	318	0321	7309190
 pb	319	0322	7309191
 pb	320	0323	7309192
 pb	321	0324	7309193
-entry	Soude		
+entry	Soude	17	
 pb	322	0325	7309194
 pb	323	0326	7309195
 pb	324	0327	7309196
@@ -365,7 +365,7 @@ pb	335	0338	7309207
 pb	336	0339	7309208
 pb	337	0340	7309209
 pb	338	0341	7309210
-entry	Soufre et sulfures		
+entry	Soufre et sulfures	31	
 orth	Soufre		
 orth	sulfures		
 pb	339	0342	7309211
@@ -399,10 +399,10 @@ pb	366	0369	7309238
 pb	367	0370	7309239
 pb	368	0371	7309240
 pb	369	0372	7309241
-entry	Soultzmatt		
+entry	Soultzmatt	2	
 pb	370	0373	7309242
 pb	371	0374	7309243
-entry	Sourcils		
+entry	Sourcils	8	
 pb	372	0375	7309244
 pb	373	0376	7309245
 pb	374	0377	7309246
@@ -411,7 +411,7 @@ pb	376	0379	7309248
 pb	377	0380	7309249
 pb	378	0381	7309250
 pb	379	0382	7309251
-entry	Sous-clavière et innominée		
+entry	Sous-clavière et innominée	65	
 orth	Sous-clavière		
 orth	innominée		
 pb	380	0383	7309252
@@ -479,7 +479,7 @@ pb	441	0444	7309313
 pb	442	0445	7309314
 pb	443	0446	7309315
 pb	444	0447	7309316
-entry	Spa		
+entry	Spa	8	
 pb	445	0448	7309317
 pb	446	0449	7309318
 pb	447	0450	7309319
@@ -488,7 +488,7 @@ pb	449	0452	7309321
 pb	450	0453	7309322
 pb	451	0454	7309323
 pb	452	0455	7309324
-entry	Spéculum		
+entry	Spéculum	28	
 pb	453	0456	7309325
 pb	454	0457	7309326
 pb	455	0458	7309327
@@ -518,7 +518,7 @@ pb	478	0481	7309350
 pb	479	0482	7309351
 pb	480	0483	7309352
 pb	481	0484	7309353
-entry	Spermatorrhée		
+entry	Spermatorrhée	18	
 pb	482	0485	7309354
 pb	483	0486	7309355
 pb	484	0487	7309356
@@ -537,7 +537,7 @@ pb	496	0499	7309368
 pb	497	0500	7309369
 pb	498	0501	7309370
 pb	499	0502	7309371
-entry	Spermatozoïde et sperme		
+entry	Spermatozoïde et sperme	52	
 orth	Spermatozoïde		
 orth	sperme		
 pb	500	0503	7309372
@@ -592,7 +592,7 @@ pb	548	0551	7309420
 pb	549	0552	7309421
 pb	550	0553	7309422
 pb	551	0554	7309423
-entry	Sphygmographie		
+entry	Sphygmographie	48	
 pb	552	0555	7309424
 pb	553	0556	7309425
 pb	554	0557	7309426
@@ -641,13 +641,13 @@ pb	596	0599	7309468
 pb	597	0600	7309469
 pb	598	0601	7309470
 pb	599	0602	7309471
-entry	Squames		
+entry	Squames	1	
 pb	600	0603	7309472
-entry	Squine		
-entry	Staphisaigre		
+entry	Squine	0	
+entry	Staphisaigre	2	
 pb	601	0604	7309473
 pb	602	0605	7309474
-entry	Statistique médicale		
+entry	Statistique médicale	30	
 pb	603	0606	7309475
 pb	604	0607	7309476
 pb	605	0608	7309477
@@ -678,9 +678,9 @@ pb	629	0632	7309501
 pb	630	0633	7309502
 pb	631	0634	7309503
 pb	632	0635	7309504
-entry	Stéarique		
+entry	Stéarique	1	
 pb	633	0636	7309505
-entry	Stérilité		
+entry	Stérilité	32	
 pb	634	0637	7309506
 pb	635	0638	7309507
 pb	636	0639	7309508
@@ -713,7 +713,7 @@ pb	662	0665	7309534
 pb	663	0666	7309535
 pb	664	0667	7309536
 pb	665	0668	7309537
-entry	Sternum		
+entry	Sternum	14	
 pb	666	0669	7309538
 pb	667	0670	7309539
 pb	668	0671	7309540
@@ -728,10 +728,10 @@ pb	676	0679	7309548
 pb	677	0680	7309549
 pb	678	0681	7309550
 pb	679	0682	7309551
-entry	Sternutatoires		
+entry	Sternutatoires	2	
 pb	680	0683	7309552
 pb	681	0684	7309553
-entry	Stomatites		
+entry	Stomatites	17	
 pb	682	0685	7309554
 pb	683	0686	7309555
 pb	684	0687	7309556
@@ -749,7 +749,7 @@ pb	695	0698	7309567
 pb	696	0699	7309568
 pb	697	0700	7309569
 pb	698	0701	7309570
-entry	Strabisme		
+entry	Strabisme	20	
 pb	699	0702	7309571
 pb	700	0703	7309572
 pb	701	0704	7309573
@@ -770,7 +770,7 @@ pb	715	0718	7309587
 pb	716	0719	7309588
 pb	717	0720	7309589
 pb	718	0721	7309590
-entry	Strangulation		
+entry	Strangulation	53	
 pb	719	0722	7309591
 pb	720	0723	7309592
 pb	721	0724	7309593
@@ -824,13 +824,13 @@ pb	768	0771	7309640
 pb	769	0772	7309641
 pb	770	0773	7309642
 pb	771	0774	7309643
-entry	Strophulus		
+entry	Strophulus	5	
 pb	772	0775	7309644
 pb	773	0776	7309645
 pb	774	0777	7309646
 pb	775	0778	7309647
 pb	776	0779	7309648
-entry	Strychnées		
+entry	Strychnées	44	
 pb	777	0780	7309649
 pb	778	0781	7309650
 pb	779	0782	7309651
@@ -875,7 +875,7 @@ pb	817	0820	7309689
 pb	818	0821	7309690
 pb	819	0822	7309691
 pb	820	0823	7309692
-entry	Stypiques		
+entry	Stypiques	7	
 pb	821	0824	7309693
 pb	822	0825	7309694
 pb	823	0826	7309695
@@ -884,4 +884,4 @@ pb	825	0828	7309697
 pb	826	0829	7309698
 pb	827	0830	7309699
 pb	[s. pag.]	0831	7309700
-entry	Table des auteurs		
+entry	Table des auteurs	0	

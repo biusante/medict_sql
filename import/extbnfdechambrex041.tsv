@@ -1,12 +1,12 @@
 pb	[s. pag.]	0001	4529637
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4529638
 pb	[s. pag.]	0003	4529639
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4529640
 pb	1	0005	4529641
-entry	France		
-entry	France. Anthropologie [Gustave Lagneau]		
+entry	France	0	
+entry	France. Anthropologie [Gustave Lagneau]	126	
 orth	France. Anthropologie		
 pb	2	0006	4529642
 pb	3	0007	4529643
@@ -135,8 +135,8 @@ pb	125	0129	4529765
 pb	126	0130	4529766
 pb	127	0131	4529767
 pb	128	0132	4529768
-entry	France		
-entry	France. Flore [H. Baillon]		
+entry	France	0	
+entry	France. Flore [H. Baillon]	89	
 orth	France. Flore		
 pb	129	0133	4529769
 pb	130	0134	4529770
@@ -227,12 +227,12 @@ pb	214	0218	4529854
 pb	215	0219	4529855
 pb	216	0220	4529856
 pb	217	0221	4529857
-entry	France. Faune [P. Gervais, H. Gervais]		
+entry	France. Faune [P. Gervais, H. Gervais]	1	
 orth	France. Faune		
 pb	218	0222	4529858
 pb	219	0223	4529859
-entry	France. Faune		
-entry	France. Faune. Animaux vertébrés [P. Gervais, H. Gervais]		
+entry	France. Faune	0	
+entry	France. Faune. Animaux vertébrés [P. Gervais, H. Gervais]	72	
 orth	France. Faune. Animaux vertébrés		
 pb	220	0224	4529860
 pb	221	0225	4529861
@@ -306,7 +306,7 @@ pb	288	0292	4529928
 pb	289	0293	4529929
 pb	290	0294	4529930
 pb	291	0295	4529931
-entry	France. Faune. Animaux invertébrés [L. Hahn, Ed. Lefèvre]		
+entry	France. Faune. Animaux invertébrés [L. Hahn, Ed. Lefèvre]	112	
 orth	France. Faune. Animaux invertébrés		
 pb	292	0296	4529932
 pb	293	0297	4529933
@@ -420,7 +420,7 @@ pb	400	0404	4530040
 pb	401	0405	4530041
 pb	402	0406	4530042
 pb	403	0407	4530043
-entry	France. Démographie de la France [Jacques Bertillon]		
+entry	France. Démographie de la France [Jacques Bertillon]	181	
 orth	France. Démographie de la France		
 pb	404	0408	4530044
 pb	405	0409	4530045
@@ -603,10 +603,10 @@ pb	581	0585	4530221
 pb	582	0586	4530222
 pb	583	0587	4530223
 pb	584	0588	4530224
-entry	France. Pathologie [Jules Arnould]		
+entry	France. Pathologie [Jules Arnould]	1	
 orth	France. Pathologie		
 pb	585	0589	4530225
-entry	France. Pathologie. Les maladies de la France dans le passé [Jules Arnould]		
+entry	France. Pathologie. Les maladies de la France dans le passé [Jules Arnould]	48	
 orth	France. Pathologie. Les maladies de la France dans le passé		
 pb	586	0590	4530226
 pb	587	0591	4530227
@@ -656,7 +656,7 @@ pb	630	0634	4530270
 pb	631	0635	4530271
 pb	632	0636	4530272
 pb	633	0637	4530273
-entry	France. Pathologie. Pathologie française d'après les influences étiologiques spécifiques [Jules Arnould]		
+entry	France. Pathologie. Pathologie française d'après les influences étiologiques spécifiques [Jules Arnould]	94	
 orth	France. Pathologie. Pathologie française d'après les influences étiologiques spécifiques		
 pb	634	0638	4530274
 pb	635	0639	4530275
@@ -752,7 +752,7 @@ pb	724	0728	4530364
 pb	725	0729	4530365
 pb	726	0730	4530366
 pb	727	0731	4530367
-entry	France. Pathologie. Pathologie française d'après les influences telluriques [Jules Arnould]		
+entry	France. Pathologie. Pathologie française d'après les influences telluriques [Jules Arnould]	20	
 orth	France. Pathologie. Pathologie française d'après les influences telluriques		
 pb	728	0732	4530368
 pb	729	0733	4530369
@@ -774,7 +774,7 @@ pb	744	0748	4530384
 pb	745	0749	4530385
 pb	746	0750	4530386
 pb	747	0751	4530387
-entry	France. Pathologie. Aspects de la pathologie française d'après les influences climatologiques [Jules Arnould]		
+entry	France. Pathologie. Aspects de la pathologie française d'après les influences climatologiques [Jules Arnould]	30	
 orth	France. Pathologie. Aspects de la pathologie française d'après les influences climatologiques		
 pb	748	0752	4530388
 pb	749	0753	4530389
@@ -806,7 +806,7 @@ pb	774	0778	4530414
 pb	775	0779	4530415
 pb	776	0780	4530416
 pb	777	0781	4530417
-entry	France. Pathologie. Pathologie de la France d'après les influences ethniques [Jules Arnould]		
+entry	France. Pathologie. Pathologie de la France d'après les influences ethniques [Jules Arnould]	28	
 orth	France. Pathologie. Pathologie de la France d'après les influences ethniques		
 pb	778	0782	4530418
 pb	779	0783	4530419
@@ -836,7 +836,7 @@ pb	802	0806	4530442
 pb	803	0807	4530443
 pb	804	0808	4530444
 pb	805	0809	4530445
-entry	France. Pathologie. Pathologie française, d'après les influences alimentaires [Jules Arnould]		
+entry	France. Pathologie. Pathologie française, d'après les influences alimentaires [Jules Arnould]	18	
 orth	France. Pathologie. Pathologie française, d'après les influences alimentaires		
 pb	806	0810	4530446
 pb	807	0811	4530447
@@ -856,7 +856,7 @@ pb	820	0824	4530460
 pb	821	0825	4530461
 pb	822	0826	4530462
 pb	823	0827	4530463
-entry	France. Pathologie. Pathologie française d'après les influences sociales [Jules Arnould]		
+entry	France. Pathologie. Pathologie française d'après les influences sociales [Jules Arnould]	12	
 orth	France. Pathologie. Pathologie française d'après les influences sociales		
 pb	824	0828	4530464
 pb	825	0829	4530465
@@ -871,8 +871,8 @@ pb	833	0837	4530473
 pb	834	0838	4530474
 pb	835	0839	4530475
 pb	836	0840	4530476
-entry	France. Pathologie		
-entry	France. Pathologie. Influences professionnelles [Jules Arnould]		
+entry	France. Pathologie	0	
+entry	France. Pathologie. Influences professionnelles [Jules Arnould]	23	
 orth	France. Pathologie. Influences professionnelles		
 pb	837	0841	4530477
 pb	838	0842	4530478
@@ -897,7 +897,7 @@ pb	856	0860	4530496
 pb	857	0861	4530497
 pb	858	0862	4530498
 pb	859	0863	4530499
-entry	France. Pathologie. Influences complexes, incertaines, d'origine éloignée. Dégénérescences et maladies diathésiques en France [Jules Arnould]		
+entry	France. Pathologie. Influences complexes, incertaines, d'origine éloignée. Dégénérescences et maladies diathésiques en France [Jules Arnould]	13	
 orth	France. Pathologie. Influences complexes, incertaines, d'origine éloignée. Dégénérescences et maladies diathésiques en France		
 pb	860	0864	4530500
 pb	861	0865	4530501
@@ -912,7 +912,7 @@ pb	869	0873	4530509
 pb	870	0874	4530510
 pb	871	0875	4530511
 pb	872	0876	4530512
-entry	France. Pathologie. Maladies parasitaires en France [Jules Arnould]		
+entry	France. Pathologie. Maladies parasitaires en France [Jules Arnould]	12	
 orth	France. Pathologie. Maladies parasitaires en France		
 pb	873	0877	4530513
 pb	874	0878	4530514
@@ -926,7 +926,7 @@ pb	881	0885	4530521
 pb	882	0886	4530522
 pb	883	0887	4530523
 pb	884	0888	4530524
-entry	France. Pathologie. Pathologie d'après les influences vulnérantes physiques ou chimiques [Jules Arnould]		
+entry	France. Pathologie. Pathologie d'après les influences vulnérantes physiques ou chimiques [Jules Arnould]	8	
 orth	France. Pathologie. Pathologie d'après les influences vulnérantes physiques ou chimiques		
 pb	885	0889	4530525
 pb	886	0890	4530526
@@ -937,5 +937,5 @@ pb	890	0894	4530530
 pb	891	0895	4530531
 pb	892	0896	4530532
 pb	893	0897	4530533
-entry	Articles contenus dans le cinquième volume (4e série)		
+entry	Articles contenus dans le cinquième volume (4e série)	0	
 pb	[s. pag.]	0898	4530534

@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	5581142
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5581143
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	1	0003	5581144
-entry	Flora Gallica. Classe Quinzième. Des Tetradynamiques		
+entry	Flora Gallica. Classe Quinzième. Des Tetradynamiques	0	
 pb	2	0004	5581145
-entry	Classe Quinzième. Des Tetradynamiques		
+entry	Classe Quinzième. Des Tetradynamiques	9	
 pb	3	0005	5581146
 pb	4	0006	5581147
 pb	5	0007	5581148
@@ -15,11 +15,11 @@ pb	8	0010	5581151
 pb	9	0011	5581152
 pb	10	0012	5581153
 pb	11	0013	5581154
-entry	Classe XVI. Des Monadelphiques		
+entry	Classe XVI. Des Monadelphiques	3	
 pb	12	0014	5581155
 pb	13	0015	5581156
 pb	14	0016	5581157
-entry	Classe XVII. Des Diadelphiques		
+entry	Classe XVII. Des Diadelphiques	16	
 pb	15	0017	5581158
 pb	16	0018	5581159
 pb	17	0019	5581160
@@ -37,9 +37,9 @@ pb	28	0030	5581171
 pb	29	0031	5581172
 pb	30	0032	5581173
 pb	31	0033	5581174
-entry	Classe XVIII. Des Polyadelphiques		
+entry	Classe XVIII. Des Polyadelphiques	1	
 pb	32	0034	5581175
-entry	Classe XIX. Des Syngenesiques		
+entry	Classe XIX. Des Syngenesiques	27	
 pb	33	0035	5581176
 pb	34	0036	5581177
 pb	35	0037	5581178
@@ -67,13 +67,13 @@ pb	56	0058	5581199
 pb	57	0059	5581200
 pb	58	0060	5581201
 pb	59	0061	5581202
-entry	Classe XX. Des Gynandriques		
+entry	Classe XX. Des Gynandriques	4	
 pb	60	0062	5581203
 pb	61	0063	5581204
 pb	62	0064	5581205
 pb	63	0065	5581206
 pb	64	0066	5581207
-entry	Classe XXI. Des Monoeciques		
+entry	Classe XXI. Des Monoeciques	7	
 pb	65	0067	5581208
 pb	66	0068	5581209
 pb	67	0069	5581210
@@ -82,16 +82,16 @@ pb	69	0071	5581212
 pb	70	0072	5581213
 pb	71	0073	5581214
 pb	72	0074	5581215
-entry	Classe XXII. Des Dioeciques		
+entry	Classe XXII. Des Dioeciques	3	
 pb	73	0075	5581216
 pb	74	0076	5581217
 pb	75	0077	5581218
 pb	76	0078	5581219
-entry	Classe XXIII. Des Polygamiques		
+entry	Classe XXIII. Des Polygamiques	2	
 pb	77	0079	5581220
 pb	78	0080	5581221
 pb	79	0081	5581222
-entry	Classe XXIV. Des Chryptogamiques		
+entry	Classe XXIV. Des Chryptogamiques	39	
 pb	80	0082	5581223
 pb	81	0083	5581224
 pb	82	0084	5581225
@@ -131,9 +131,9 @@ pb	115	0117	5581258
 pb	116	0118	5581259
 pb	117	0119	5581260
 pb	118	0120	5581261
-entry	Appendix		
+entry	Appendix	0	
 pb	119	0121	5581262
-entry	Table des genres qui se trouvent rapportés dans le Flora Gallica		
+entry	Table des genres qui se trouvent rapportés dans le Flora Gallica	15	
 pb	120	0122	5581263
 pb	121	0123	5581264
 pb	122	0124	5581265
@@ -150,8 +150,8 @@ pb	132	0134	5581275
 pb	133	0135	5581276
 pb	134	0136	5581277
 pb	135	0137	5581278
-entry	Table Des genres qui se trouvent rapportés dans le Flora Gallica		
-entry	Table des noms synonymes du Flora Gallica		
+entry	Table Des genres qui se trouvent rapportés dans le Flora Gallica	0	
+entry	Table des noms synonymes du Flora Gallica	18	
 pb	136	0138	5581279
 pb	137	0139	5581280
 pb	138	0140	5581281
@@ -170,7 +170,7 @@ pb	150	0152	5581293
 pb	151	0153	5581294
 pb	152	0154	5581295
 pb	153	0155	5581296
-entry	Table des noms français de ce Flora		
+entry	Table des noms français de ce Flora	17	
 pb	154	0156	5581297
 pb	155	0157	5581298
 pb	156	0158	5581299
@@ -189,10 +189,10 @@ pb	168	0170	5581311
 pb	169	0171	5581312
 pb	170	0172	5581313
 pb	171	0173	5581314
-entry	Liste des plantes de quelques provinces de la France, dont le Flora n'a pas été imprimé, ou du moins ne l'a pas été séparément		
+entry	Liste des plantes de quelques provinces de la France, dont le Flora n'a pas été imprimé, ou du moins ne l'a pas été séparément	1	
 pb	172	0174	5581315
 pb	173	0175	5581316
-entry	Liste des plantes de la généralité de Soissons 		
+entry	Liste des plantes de la généralité de Soissons 	28	
 pb	174	0176	5581317
 pb	175	0177	5581318
 pb	176	0178	5581319
@@ -222,7 +222,7 @@ pb	199	0201	5581342
 pb	200	0202	5581343
 pb	201	0203	5581344
 pb	202	0204	5581345
-entry	Liste des plantes de la Bourgogne		
+entry	Liste des plantes de la Bourgogne	19	
 pb	203	0205	5581346
 pb	204	0206	5581347
 pb	205	0207	5581348
@@ -242,31 +242,31 @@ pb	218	0220	5581361
 pb	219	0221	5581362
 pb	220	0222	5581363
 pb	221	0223	5581364
-entry	Liste des arbres et arbustes de la Bourgogne, communiquée par M. d'Aubenton 		
+entry	Liste des arbres et arbustes de la Bourgogne, communiquée par M. d'Aubenton 	2	
 pb	222	0224	5581365
 pb	223	0225	5581366
 pb	224	0226	5581367
-entry	Liste des arbres et arbustes de la Bourgogne, communiquée par M. d'Aubenton		
-entry	Extrait de l'ouvrage de M. Collet sur les plantes qui viennent aux environs de Dijon		
+entry	Liste des arbres et arbustes de la Bourgogne, communiquée par M. d'Aubenton	0	
+entry	Extrait de l'ouvrage de M. Collet sur les plantes qui viennent aux environs de Dijon	4	
 pb	225	0227	5581368
 pb	226	0228	5581369
 pb	227	0229	5581370
 pb	228	0230	5581371
 pb	229	0231	5581372
-entry	lantes des environs de Rheims, communiquées par M. Raussin		
+entry	lantes des environs de Rheims, communiquées par M. Raussin	1	
 pb	230	0232	5581373
 pb	231	0233	5581374
-entry	Plantes des environs de Rheims, communiquées par M. Raussin		
+entry	Plantes des environs de Rheims, communiquées par M. Raussin	1	
 pb	232	0234	5581375
-entry	Liste de quelques plantes d'Alsace, qui n'ont pas été rapportées dans le catalogue botanique de cette province, découvertes par M.Gagnebin, Suisse		
+entry	Liste de quelques plantes d'Alsace, qui n'ont pas été rapportées dans le catalogue botanique de cette province, découvertes par M.Gagnebin, Suisse	1	
 pb	233	0235	5581376
-entry	Liste des principales plantes qui se trouvent dans les montagnes de Pila, communiquée par M. Dulac		
+entry	Liste des principales plantes qui se trouvent dans les montagnes de Pila, communiquée par M. Dulac	4	
 pb	234	0236	5581377
 pb	235	0237	5581378
 pb	236	0238	5581379
 pb	237	0239	5581380
 pb	238	0240	5581381
-entry	Liste des plantes d'Auvergne, par Dom François-Emmanuel Fournault		
+entry	Liste des plantes d'Auvergne, par Dom François-Emmanuel Fournault	10	
 pb	239	0241	5581382
 pb	240	0242	5581383
 pb	241	0243	5581384
@@ -278,35 +278,35 @@ pb	246	0248	5581389
 pb	247	0249	5581390
 pb	248	0250	5581391
 pb	249	0251	5581392
-entry	Plantes des environs de Souillac en Quercy, & de Beaulieu en Bas-Limousin, par Dom Emmanuel Fournault		
+entry	Plantes des environs de Souillac en Quercy, & de Beaulieu en Bas-Limousin, par Dom Emmanuel Fournault	5	
 pb	250	0252	5581393
 pb	251	0253	5581394
 pb	252	0254	5581395
 pb	253	0255	5581396
 pb	254	0256	5581397
-entry	Plantes observées sur la route de Souillac à S. Jean d'Angély, par Dom François-Emmanuel Fournault		
-entry	Liste de quelques plantes très communes aux environs de Nantes, par M. Bonamy, professeur en Botanique		
+entry	Plantes observées sur la route de Souillac à S. Jean d'Angély, par Dom François-Emmanuel Fournault	0	
+entry	Liste de quelques plantes très communes aux environs de Nantes, par M. Bonamy, professeur en Botanique	4	
 pb	255	0257	5581398
 pb	256	0258	5581399
 pb	257	0259	5581400
 pb	258	0260	5581401
-entry	Liste des plantes qui croissent aux environs d'Angers, communiquées par M. Dupaty		
+entry	Liste des plantes qui croissent aux environs d'Angers, communiquées par M. Dupaty	0	
 pb	259	0261	5581402
-entry	Liste des principales plantes des environs de Rouen, communiquées par Messieurs Pinard & d'Angerville		
+entry	Liste des principales plantes des environs de Rouen, communiquées par Messieurs Pinard & d'Angerville	0	
 pb	260	0262	5581403
-entry	Liste des plantes qui croissent aux environs de Caen & sur les côtes de Normandie, communiquées par M. Desmoueux, professeur en Botanique à Caen		
-entry	Liste des plantes de Picardie, communiquées par le sieur Jourdain  		
+entry	Liste des plantes qui croissent aux environs de Caen & sur les côtes de Normandie, communiquées par M. Desmoueux, professeur en Botanique à Caen	0	
+entry	Liste des plantes de Picardie, communiquées par le sieur Jourdain  	2	
 pb	261	0263	5581404
 pb	262	0264	5581405
 pb	263	0265	5581406
-entry	Liste des plantes de Picardie, communiquées par le sieur Jourdain		
-entry	Plantes observées aux environs de Beauvais en Picardie, par M. Desmars, docteutr en médecine		
-entry	Liste de différentes plantes découvertes dans le Royaume, & communiquées à l'Auteur		
+entry	Liste des plantes de Picardie, communiquées par le sieur Jourdain	0	
+entry	Plantes observées aux environs de Beauvais en Picardie, par M. Desmars, docteutr en médecine	0	
+entry	Liste de différentes plantes découvertes dans le Royaume, & communiquées à l'Auteur	4	
 pb	264	0266	5581407
 pb	265	0267	5581408
 pb	266	0268	5581409
 pb	267	0269	5581410
-entry	Liste des plantes des Alpes		
+entry	Liste des plantes des Alpes	7	
 pb	268	0270	5581411
 pb	269	0271	5581412
 pb	270	0272	5581413
@@ -315,21 +315,21 @@ pb	272	0274	5581415
 pb	273	0275	5581416
 pb	274	0276	5581417
 pb	275	0277	5581418
-entry	Liste des plantes des Pyrénées 		
+entry	Liste des plantes des Pyrénées 	1	
 pb	276	0278	5581419
 pb	277	0279	5581420
-entry	Liste des plantes des Pyrénées		
-entry	Liste des plantes observées dans le Roussillon & dans les montagnes du Diocèse de Narbonne, par M. le Monnier, de l'Académie Royale des Sciences		
+entry	Liste des plantes des Pyrénées	0	
+entry	Liste des plantes observées dans le Roussillon & dans les montagnes du Diocèse de Narbonne, par M. le Monnier, de l'Académie Royale des Sciences	6	
 pb	278	0280	5581421
 pb	279	0281	5581422
 pb	280	0282	5581423
 pb	281	0283	5581424
 pb	282	0284	5581425
 pb	283	0285	5581426
-entry	Liste des plantes qui croissent dans le Berry, & qui ne sont pas si communes aux environs de Paris, par M. le Monnier, de l'Académie Royale des Sciences		
+entry	Liste des plantes qui croissent dans le Berry, & qui ne sont pas si communes aux environs de Paris, par M. le Monnier, de l'Académie Royale des Sciences	2	
 pb	284	0286	5581427
 pb	285	0287	5581428
-entry	Liste des plantes observées au Mont d'Or, au Puy de Domme, & au Cantal, par M. le Monnier		
+entry	Liste des plantes observées au Mont d'Or, au Puy de Domme, & au Cantal, par M. le Monnier	14	
 pb	286	0288	5581429
 pb	287	0289	5581430
 pb	288	0290	5581431
@@ -345,26 +345,26 @@ pb	297	0299	5581440
 pb	298	0300	5581441
 pb	299	0301	5581442
 pb	300	0302	5581443
-entry	Liste des plantes qui sont indiquée dans les Mémoires de l'Académie Royale des Sciences, avec les endroits où on les trouve		
+entry	Liste des plantes qui sont indiquée dans les Mémoires de l'Académie Royale des Sciences, avec les endroits où on les trouve	2	
 pb	301	0303	5581444
 pb	302	0304	5581445
-entry	Plantes observées en France, par le P. Barrelier		
+entry	Plantes observées en France, par le P. Barrelier	5	
 pb	303	0305	5581446
 pb	304	0306	5581447
 pb	305	0307	5581448
 pb	306	0308	5581449
 pb	307	0309	5581450
-entry	Liste des principales plantes de la France, selon M. l'abbé Rosier, dans ses Démonstrations élémentaires Botaniques		
+entry	Liste des principales plantes de la France, selon M. l'abbé Rosier, dans ses Démonstrations élémentaires Botaniques	5	
 pb	308	0310	5581451
 pb	309	0311	5581452
 pb	310	0312	5581453
 pb	311	0313	5581454
 pb	312	0314	5581455
 pb	313	0315	5581456
-entry	Liste des principaux arbres & arbustes qui croissent dans la France, selon M. Duhamel		
+entry	Liste des principaux arbres & arbustes qui croissent dans la France, selon M. Duhamel	1	
 pb	314	0316	5581457
 pb	315	0317	5581458
-entry	Liste des plantes qui croissent au Mont Pila		
+entry	Liste des plantes qui croissent au Mont Pila	14	
 pb	316	0318	5581459
 pb	317	0319	5581460
 pb	318	0320	5581461
@@ -380,36 +380,36 @@ pb	327	0329	5581470
 pb	328	0330	5581471
 pb	329	0331	5581472
 pb	330	0332	5581473
-entry	Catalogue des différents ouvrages qui ont paru sur la Botanique de France. Généralité de Paris		
-entry	Généralité de Soissons		
-entry	Généralité d'Orléans		
-entry	Généralité d'Alsace		
+entry	Catalogue des différents ouvrages qui ont paru sur la Botanique de France. Généralité de Paris	0	
+entry	Généralité de Soissons	0	
+entry	Généralité d'Orléans	0	
+entry	Généralité d'Alsace	1	
 pb	331	0333	5581474
-entry	Généralité de Provence		
-entry	Généralité de Languedoc		
-entry	Généralité de Lorraine		
-entry	Généralité de Bourgogne		
+entry	Généralité de Provence	0	
+entry	Généralité de Languedoc	0	
+entry	Généralité de Lorraine	0	
+entry	Généralité de Bourgogne	1	
 pb	332	0334	5581475
-entry	Généralité d'Auvergne		
-entry	Généralité du Berri		
-entry	Généralité de Bretagne		
-entry	Généralité de Normandie		
+entry	Généralité d'Auvergne	0	
+entry	Généralité du Berri	0	
+entry	Généralité de Bretagne	0	
+entry	Généralité de Normandie	1	
 pb	333	0335	5581476
-entry	Pays d'Anjou		
-entry	Roussillon et Diocèse de Narbonne		
-entry	Généralité de Champagne		
-entry	Généralité du Lyonnais, Forès et Beaujolais		
-entry	Généralité de Picardie 		
+entry	Pays d'Anjou	0	
+entry	Roussillon et Diocèse de Narbonne	0	
+entry	Généralité de Champagne	0	
+entry	Généralité du Lyonnais, Forès et Beaujolais	0	
+entry	Généralité de Picardie 	0	
 pb	334	0336	5581477
-entry	Généralité de Picardie		
-entry	Généralité du Limousin et du Quercy		
-entry	Alpes et Pyrénées		
-entry	Généralité de Franche Comté		
-entry	Flandre		
+entry	Généralité de Picardie	0	
+entry	Généralité du Limousin et du Quercy	0	
+entry	Alpes et Pyrénées	0	
+entry	Généralité de Franche Comté	0	
+entry	Flandre	0	
 pb	335	0337	5581478
-entry	Observations générales		
+entry	Observations générales	1	
 pb	336	0338	5581479
-entry	Liste des auteurs français qui ont écrit sur la Botanique		
+entry	Liste des auteurs français qui ont écrit sur la Botanique	13	
 pb	337	0339	5581480
 pb	338	0340	5581481
 pb	339	0341	5581482
@@ -424,14 +424,14 @@ pb	347	0349	5581490
 pb	348	0350	5581491
 pb	349	0351	5581492
 pb	350	0352	5581493
-entry	Liste des professeurs de Botanique de la France		
-entry	Jardins publics de Botanique		
+entry	Liste des professeurs de Botanique de la France	0	
+entry	Jardins publics de Botanique	1	
 pb	351	0353	5581494
-entry	Jardins particuliers de Botanique		
+entry	Jardins particuliers de Botanique	1	
 pb	352	0354	5581495
-entry	Herbiers		
+entry	Herbiers	0	
 pb	I	0355	5581496
-entry	Liste des plantes dont on a expliqué la culture & les propriétés dans ce dictionnaire. 		
+entry	Liste des plantes dont on a expliqué la culture & les propriétés dans ce dictionnaire. 	61	
 pb	II	0356	5581497
 pb	III	0357	5581498
 pb	IV	0358	5581499
@@ -494,8 +494,8 @@ pb	LX	0414	5581555
 pb	LXI	0415	5581556
 pb	LXII	0416	5581557
 pb	LXIII	0417	5581558
-entry	Liste des plantes dont on a expliqué la culture & les propriétés dans ce dictionnaire		
-entry	Table des maladies pour lesquelles on a indiqué des plantes dans cet ouvrage		
+entry	Liste des plantes dont on a expliqué la culture & les propriétés dans ce dictionnaire	0	
+entry	Table des maladies pour lesquelles on a indiqué des plantes dans cet ouvrage	18	
 pb	LXIV	0418	5581559
 pb	LXV	0419	5581560
 pb	LXVI	0420	5581561
@@ -515,277 +515,277 @@ pb	LXXIX	0433	5581574
 pb	LXXX	0434	5581575
 pb	LXXXI	0435	5581576
 pb	LXXXII	0436	5581577
-entry	Table des Plantes qui conviennent aux animaux domestiques, tant pour les aliments que pour les médicaments		
+entry	Table des Plantes qui conviennent aux animaux domestiques, tant pour les aliments que pour les médicaments	3	
 pb	LXXXIII	0437	5581578
 pb	LXXXIV	0438	5581579
 pb	LXXXV	0439	5581580
-entry	Table des plantes, arbres et arbustes dont on a donné la culture		
+entry	Table des plantes, arbres et arbustes dont on a donné la culture	3	
 pb	LXXXVI	0440	5581581
 pb	LXXXVII	0441	5581582
 pb	LXXXIII	0442	5581583
-entry	Table des plantes qui conviennent à l'homme pour alimens		
+entry	Table des plantes qui conviennent à l'homme pour alimens	2	
 pb	LXXXIX	0443	5581584
 pb	XC	0444	5581585
 pb	XCI	0445	5581586
-entry	Table des plantes qu'on emploie pour les arts & métiers		
+entry	Table des plantes qu'on emploie pour les arts & métiers	2	
 pb	XCII	0446	5581587
 pb	XCIII	0447	5581588
-entry	Explication des termes de botanique, de médecine, d'agriculture & de jardinage employés dans ce Dictionnaire. Abaisser		
-entry	Abattis de bois		
-entry	Abri		
+entry	Explication des termes de botanique, de médecine, d'agriculture & de jardinage employés dans ce Dictionnaire. Abaisser	0	
+entry	Abattis de bois	0	
+entry	Abri	0	
 pb	XCIV	0448	5581589
-entry	Abrité		
-entry	Abrouti		
-entry	Absorbans		
-entry	Absorber		
-entry	Abstersifs		
-entry	Accolage		
-entry	Accrue		
-entry	Acroissement		
-entry	Ados		
-entry	Adoucissans		
+entry	Abrité	0	
+entry	Abrouti	0	
+entry	Absorbans	0	
+entry	Absorber	0	
+entry	Abstersifs	0	
+entry	Accolage	0	
+entry	Accrue	0	
+entry	Acroissement	0	
+entry	Ados	0	
+entry	Adoucissans	1	
 pb	XCV	0449	5581590
-entry	Affaissement		
-entry	Affaisser		
-entry	Affiler		
-entry	Affinoir		
-entry	Agens de la germination		
-entry	Agglutinans		
+entry	Affaissement	0	
+entry	Affaisser	0	
+entry	Affiler	0	
+entry	Affinoir	0	
+entry	Agens de la germination	0	
+entry	Agglutinans	0	
 pb	XCVI	0450	5581591
-entry	Aigretté		
-entry	Aigrette		
-entry	Aigue		
-entry	Aiguille		
-entry	Aiguillon ou piquant		
-entry	Aîlée, empennée, pinnée, pinnatum		
+entry	Aigretté	0	
+entry	Aigrette	0	
+entry	Aigue	0	
+entry	Aiguille	0	
+entry	Aiguillon ou piquant	0	
+entry	Aîlée, empennée, pinnée, pinnatum	1	
 pb	XCVII	0451	5581592
-entry	Aîles		
-entry	Aisselle		
-entry	Alexipharmaques		
+entry	Aîles	0	
+entry	Aisselle	0	
+entry	Alexipharmaques	1	
 pb	XCVIII	0452	5581593
-entry	Alexitères		
-entry	Alkalescentes		
-entry	Altérans		
-entry	Alterne		
-entry	Amande		
-entry	Amentacées		
-entry	Amplexicaules		
-entry	Analeptiques		
-entry	Androgyne		
-entry	Angiospermie		
+entry	Alexitères	0	
+entry	Alkalescentes	0	
+entry	Altérans	0	
+entry	Alterne	0	
+entry	Amande	0	
+entry	Amentacées	0	
+entry	Amplexicaules	0	
+entry	Analeptiques	0	
+entry	Androgyne	0	
+entry	Angiospermie	1	
 pb	XCIX	0453	5581594
-entry	Angles des feuilles		
-entry	Annuelles		
-entry	Anodins		
-entry	Anomales		
-entry	Antheres		
-entry	Antidotes		
-entry	Anti-scorbutiques		
-entry	Antiseptique		
-entry	Apéritifs		
-entry	Apétale		
+entry	Angles des feuilles	0	
+entry	Annuelles	0	
+entry	Anodins	0	
+entry	Anomales	0	
+entry	Antheres	0	
+entry	Antidotes	0	
+entry	Anti-scorbutiques	0	
+entry	Antiseptique	0	
+entry	Apéritifs	0	
+entry	Apétale	1	
 pb	C	0454	5581595
-entry	Approche		
-entry	Aquatique		
-entry	Arbre		
-entry	Arbuste		
-entry	Arbrisseau		
-entry	Arbres sauvages		
-entry	Arbres fruitiers		
-entry	Arbres nains		
-entry	Arbres de haute futaie ou de haut vent		
+entry	Approche	0	
+entry	Aquatique	0	
+entry	Arbre	0	
+entry	Arbuste	0	
+entry	Arbrisseau	0	
+entry	Arbres sauvages	0	
+entry	Arbres fruitiers	0	
+entry	Arbres nains	0	
+entry	Arbres de haute futaie ou de haut vent	0	
 pb	CI	0455	5581596
-entry	Arbres de haute tige		
-entry	Arbres de plein vent		
-entry	Arbres de demi-vent ou de demi-tige		
-entry	Arbres coniferes		
-entry	Arbres resineux		
-entry	Arbres de réserve		
-entry	Aromatique		
-entry	Arquée		
-entry	Arrêter		
-entry	Arrondi		
+entry	Arbres de haute tige	0	
+entry	Arbres de plein vent	0	
+entry	Arbres de demi-vent ou de demi-tige	0	
+entry	Arbres coniferes	0	
+entry	Arbres resineux	0	
+entry	Arbres de réserve	0	
+entry	Aromatique	0	
+entry	Arquée	0	
+entry	Arrêter	0	
+entry	Arrondi	1	
 pb	CII	0456	5581597
-entry	Articulation		
-entry	Ascendente		
-entry	Aspect		
-entry	Assoupissans		
-entry	Aubier		
-entry	Avorter		
+entry	Articulation	0	
+entry	Ascendente	0	
+entry	Aspect	0	
+entry	Assoupissans	0	
+entry	Aubier	0	
+entry	Avorter	1	
 pb	CIII	0457	5581598
-entry	Axillaire		
-entry	Bacciferes		
-entry	Baie		
-entry	Bâle		
-entry	Barbe		
-entry	Bâtardes		
-entry	Bédeguar		
-entry	Berceau d'une plante		
-entry	Bicapsulaire		
-entry	Bijuger		
+entry	Axillaire	0	
+entry	Bacciferes	0	
+entry	Baie	0	
+entry	Bâle	0	
+entry	Barbe	0	
+entry	Bâtardes	0	
+entry	Bédeguar	0	
+entry	Berceau d'une plante	0	
+entry	Bicapsulaire	0	
+entry	Bijuger	0	
 pb	CIV	0458	5581599
-entry	Bilobée		
-entry	Bis-annuelle		
-entry	Bois		
-entry	Bois blanc		
-entry	Bordure des feuilles		
-entry	Bourgeons		
-entry	Bourrelets		
+entry	Bilobée	0	
+entry	Bis-annuelle	0	
+entry	Bois	0	
+entry	Bois blanc	0	
+entry	Bordure des feuilles	0	
+entry	Bourgeons	0	
+entry	Bourrelets	1	
 pb	CV	0459	5581600
-entry	Bourse		
-entry	Bouton		
+entry	Bourse	0	
+entry	Bouton	1	
 pb	CVI	0460	5581601
-entry	Bouture		
-entry	Bractée		
+entry	Bouture	0	
+entry	Bractée	1	
 pb	CVII	0461	5581602
-entry	Brillante		
-entry	Brou		
-entry	Bulbe		
-entry	Bulbeuses		
-entry	Bulbiferes		
-entry	Calice		
+entry	Brillante	0	
+entry	Brou	0	
+entry	Bulbe	0	
+entry	Bulbeuses	0	
+entry	Bulbiferes	0	
+entry	Calice	0	
 pb	CVIII	0462	5581603
-entry	Campaniforme		
-entry	Cannelée		
-entry	Capités		
-entry	Capsule		
-entry	Caractères botaniques		
+entry	Campaniforme	0	
+entry	Cannelée	0	
+entry	Capités	0	
+entry	Capsule	0	
+entry	Caractères botaniques	1	
 pb	CIX	0463	5581604
-entry	Carêne		
-entry	Carinée		
-entry	Cartilagineuse		
-entry	Caryophillées		
-entry	Caulinaire		
-entry	Cayeux		
-entry	Charnue		
-entry	Chaton		
+entry	Carêne	0	
+entry	Carinée	0	
+entry	Cartilagineuse	0	
+entry	Caryophillées	0	
+entry	Caulinaire	0	
+entry	Cayeux	0	
+entry	Charnue	0	
+entry	Chaton	1	
 pb	CX	0464	5581605
-entry	Chaume		
-entry	Chevelure		
-entry	Chevelue		
-entry	Cilicé		
-entry	Circonférence des feuilles		
-entry	Cloison		
-entry	Coëffe		
+entry	Chaume	0	
+entry	Chevelure	0	
+entry	Chevelue	0	
+entry	Cilicé	0	
+entry	Circonférence des feuilles	0	
+entry	Cloison	0	
+entry	Coëffe	0	
 pb	CXI	0465	5581606
-entry	Coeur		
-entry	Cohérentes		
-entry	Coin		
-entry	Commun		
-entry	Complette		
-entry	Composée		
+entry	Coeur	0	
+entry	Cohérentes	0	
+entry	Coin	0	
+entry	Commun	0	
+entry	Complette	0	
+entry	Composée	1	
 pb	CXII	0466	5581607
-entry	Comprimée		
-entry	Concave		
-entry	Cône		
-entry	Congeneres		
-entry	Conglobées		
-entry	Coniferes		
-entry	Conjugée		
-entry	Convexe		
-entry	Coque		
-entry	Cordiforme		
-entry	Cornet		
-entry	Corolle		
+entry	Comprimée	0	
+entry	Concave	0	
+entry	Cône	0	
+entry	Congeneres	0	
+entry	Conglobées	0	
+entry	Coniferes	0	
+entry	Conjugée	0	
+entry	Convexe	0	
+entry	Coque	0	
+entry	Cordiforme	0	
+entry	Cornet	0	
+entry	Corolle	1	
 pb	CXIII	0467	5581608
-entry	Corimbe		
-entry	Cosmétique		
-entry	Cosse		
-entry	Côtés des feuilles, latera		
-entry	Cotoneuse		
-entry	Cotyledons		
+entry	Corimbe	0	
+entry	Cosmétique	0	
+entry	Cosse	0	
+entry	Côtés des feuilles, latera	0	
+entry	Cotoneuse	0	
+entry	Cotyledons	0	
 pb	CXIV	0468	5581609
-entry	Couche		
-entry	Couler		
-entry	Courante		
-entry	Couronne		
-entry	Couverte		
-entry	Crenelée		
-entry	Croissant		
-entry	Cruciforme		
-entry	Cryptogamie		
+entry	Couche	1	
+entry	Couler	0	
+entry	Courante	0	
+entry	Couronne	0	
+entry	Couverte	0	
+entry	Crenelée	0	
+entry	Croissant	0	
+entry	Cruciforme	0	
+entry	Cryptogamie	0	
 pb	CXV	0469	5581610
-entry	Cucurbitacées		
-entry	Décaisser		
-entry	Decandrie		
-entry	Déchausser		
-entry	Décoction		
-entry	Décoller		
-entry	Défenses		
-entry	Demi-fleuron		
-entry	Dentée		
-entry	Dentelée		
-entry	Descendante		
-entry	Désobstruant		
+entry	Cucurbitacées	0	
+entry	Décaisser	0	
+entry	Decandrie	0	
+entry	Déchausser	0	
+entry	Décoction	0	
+entry	Décoller	0	
+entry	Défenses	0	
+entry	Demi-fleuron	0	
+entry	Dentée	0	
+entry	Dentelée	0	
+entry	Descendante	0	
+entry	Désobstruant	0	
 pb	CXVI	0470	5581611
-entry	Diadelphie		
-entry	Diaphorétiques		
-entry	Diandriques		
-entry	Dichotome		
-entry	Didynamiques		
-entry	Digitée ou en éventail		
-entry	Digyniques		
-entry	Diphille		
-entry	Dioeciques		
-entry	Dipsacées		
-entry	Disque		
-entry	Diurétique		
-entry	Dodecandriques		
-entry	Drageons		
+entry	Diadelphie	0	
+entry	Diaphorétiques	0	
+entry	Diandriques	0	
+entry	Dichotome	0	
+entry	Didynamiques	0	
+entry	Digitée ou en éventail	0	
+entry	Digyniques	0	
+entry	Diphille	0	
+entry	Dioeciques	0	
+entry	Dipsacées	0	
+entry	Disque	0	
+entry	Diurétique	0	
+entry	Dodecandriques	0	
+entry	Drageons	0	
 pb	CXVII	0471	5581612
-entry	Drapé		
-entry	Dru		
-entry	Ebourgeonner		
-entry	Ecailleux		
-entry	Echancrée		
-entry	Echaudé		
-entry	Echinée		
-entry	Ecorcer le bois		
-entry	Ecussoner		
-entry	Effaner		
-entry	Efflorescence		
-entry	Egayer un arbre qui est en espalier		
-entry	Elliptique		
+entry	Drapé	0	
+entry	Dru	0	
+entry	Ebourgeonner	0	
+entry	Ecailleux	0	
+entry	Echancrée	0	
+entry	Echaudé	0	
+entry	Echinée	0	
+entry	Ecorcer le bois	0	
+entry	Ecussoner	0	
+entry	Effaner	0	
+entry	Efflorescence	0	
+entry	Egayer un arbre qui est en espalier	0	
+entry	Elliptique	0	
 pb	CXVIII	0472	5581613
-entry	Embryon		
-entry	Emmenagogues		
-entry	Emolliens		
-entry	Emoussée		
-entry	Emulsion		
-entry	Encaisser		
-entry	Engrais		
-entry	Enneandriques		
-entry	Ente		
-entry	Entier		
-entry	Entonnoir		
-entry	Enveloppe		
-entry	Epanouissement		
+entry	Embryon	0	
+entry	Emmenagogues	0	
+entry	Emolliens	0	
+entry	Emoussée	0	
+entry	Emulsion	0	
+entry	Encaisser	0	
+entry	Engrais	0	
+entry	Enneandriques	0	
+entry	Ente	0	
+entry	Entier	0	
+entry	Entonnoir	0	
+entry	Enveloppe	0	
+entry	Epanouissement	1	
 pb	CXIX	0473	5581614
-entry	Epi		
-entry	Epiderme		
-entry	Epine		
-entry	Epineux		
+entry	Epi	0	
+entry	Epiderme	0	
+entry	Epine	0	
+entry	Epineux	0	
 pb	CXX	0474	5581615
-entry	Eplucher		
-entry	Ergotés		
-entry	Etamine		
-entry	Etendard		
-entry	Etêté		
-entry	Etioler		
-entry	Etoilée		
-entry	Evacuans		
+entry	Eplucher	0	
+entry	Ergotés	0	
+entry	Etamine	0	
+entry	Etendard	0	
+entry	Etêté	0	
+entry	Etioler	0	
+entry	Etoilée	0	
+entry	Evacuans	0	
 pb	CXXI	0475	5581616
-entry	Evasée		
-entry	Eventail		
-entry	Eunuques		
-entry	Exotiques		
-entry	Fane		
-entry	Faucille		
-entry	Faux bois		
-entry	Femelles		
-entry	Fente		
-entry	Feuillage		
-entry	Feuilles		
+entry	Evasée	0	
+entry	Eventail	0	
+entry	Eunuques	0	
+entry	Exotiques	0	
+entry	Fane	0	
+entry	Faucille	0	
+entry	Faux bois	0	
+entry	Femelles	0	
+entry	Fente	0	
+entry	Feuillage	0	
+entry	Feuilles	10	
 pb	CXXII	0476	5581617
 pb	CXXIII	0477	5581618
 pb	CXXIV	0478	5581619
@@ -796,122 +796,122 @@ pb	CXXVIII	0482	5581623
 pb	CXXIX	0483	5581624
 pb	CXXX	0484	5581625
 pb	CXXXI	0485	5581626
-entry	Fibreuse		
-entry	Filet		
-entry	Fistuleuse		
-entry	Fleur		
+entry	Fibreuse	0	
+entry	Filet	0	
+entry	Fistuleuse	0	
+entry	Fleur	1	
 pb	CXXXIV	0486	5581627
-entry	Florale		
-entry	Flosculeuse		
-entry	Flottante		
-entry	Flute		
-entry	Foliation		
+entry	Florale	0	
+entry	Flosculeuse	0	
+entry	Flottante	0	
+entry	Flute	0	
+entry	Foliation	1	
 pb	CXXXV	0487	5581628
-entry	Folioles		
-entry	Follicule		
-entry	Fomentation		
-entry	Fond		
+entry	Folioles	0	
+entry	Follicule	0	
+entry	Fomentation	0	
+entry	Fond	0	
 pb	CXXXVI	0488	5581629
-entry	Fructification		
-entry	Fusiforme		
-entry	Gaine		
-entry	Gargarisme		
-entry	Gazon		
+entry	Fructification	0	
+entry	Fusiforme	0	
+entry	Gaine	0	
+entry	Gargarisme	0	
+entry	Gazon	1	
 pb	CXXXVII	0489	5581630
-entry	Geminée		
-entry	Générale		
-entry	Genre		
-entry	Germe		
-entry	Germer		
-entry	Germination		
-entry	Glandes		
+entry	Geminée	0	
+entry	Générale	0	
+entry	Genre	0	
+entry	Germe	0	
+entry	Germer	0	
+entry	Germination	0	
+entry	Glandes	1	
 pb	CXXXVIII	0490	5581631
-entry	Goussé		
-entry	Grain		
+entry	Goussé	0	
+entry	Grain	1	
 pb	CXXXIX	0491	5581632
-entry	Graine		
-entry	Graminées		
-entry	Grappe		
-entry	Grelot		
-entry	Griffe		
-entry	Grimpante		
-entry	Grumeleuse		
-entry	Gueule		
-entry	Gymnospermies		
-entry	Gynandrie		
+entry	Graine	0	
+entry	Graminées	0	
+entry	Grappe	0	
+entry	Grelot	0	
+entry	Griffe	0	
+entry	Grimpante	0	
+entry	Grumeleuse	0	
+entry	Gueule	0	
+entry	Gymnospermies	0	
+entry	Gynandrie	1	
 pb	CXL	0492	5581633
-entry	Hameçon		
-entry	Hampe		
-entry	Heptandries		
-entry	Herbacée		
-entry	Herbe		
-entry	Herbier		
+entry	Hameçon	0	
+entry	Hampe	0	
+entry	Heptandries	0	
+entry	Herbacée	0	
+entry	Herbe	0	
+entry	Herbier	5	
 pb	CXLI	0493	5581634
 pb	CXLII	0494	5581635
 pb	CXLIII	0495	5581636
 pb	CXLIV	0496	5581637
 pb	CXLV	0497	5581638
-entry	Hérissé		
-entry	Hermaphrodite		
-entry	Hexegynie		
-entry	Hexandrie		
-entry	Horizontale		
-entry	Hypocrateriformes		
+entry	Hérissé	0	
+entry	Hermaphrodite	0	
+entry	Hexegynie	0	
+entry	Hexandrie	0	
+entry	Horizontale	0	
+entry	Hypocrateriformes	0	
 pb	CXLVI	0498	5581639
-entry	Hydragogues		
-entry	Hystériques		
-entry	Jachere		
-entry	Jalon		
-entry	Icosandrie		
-entry	Imbriquée		
-entry	Impaire		
-entry	Imparfaite		
-entry	Incarnatif		
-entry	Inculte		
-entry	Indigenes		
-entry	Infundibuliforme		
+entry	Hydragogues	0	
+entry	Hystériques	0	
+entry	Jachere	0	
+entry	Jalon	0	
+entry	Icosandrie	0	
+entry	Imbriquée	0	
+entry	Impaire	0	
+entry	Imparfaite	0	
+entry	Incarnatif	0	
+entry	Inculte	0	
+entry	Indigenes	0	
+entry	Infundibuliforme	1	
 pb	CXLVII	0499	5581640
-entry	Infusion		
-entry	Injection		
-entry	Inodore		
-entry	Interruption		
-entry	Irrégulieres		
-entry	Jus		
-entry	Labiées		
-entry	Laciniée		
+entry	Infusion	0	
+entry	Injection	0	
+entry	Inodore	0	
+entry	Interruption	0	
+entry	Irrégulieres	0	
+entry	Jus	0	
+entry	Labiées	0	
+entry	Laciniée	1	
 pb	CXLVIII	0500	5581641
-entry	Lait		
-entry	Lancéolée		
-entry	Lanugineuse		
-entry	Legumes		
-entry	Légumineuse		
+entry	Lait	0	
+entry	Lancéolée	0	
+entry	Lanugineuse	0	
+entry	Legumes	0	
+entry	Légumineuse	1	
 pb	CXLIX	0501	5581642
-entry	Lenticulaire		
-entry	Liliacées		
-entry	Lineraires		
-entry	Lisse		
-entry	Livre, Liber		
-entry	Lobes		
-entry	Lotion		
-entry	Loupes des arbres		
+entry	Lenticulaire	0	
+entry	Liliacées	0	
+entry	Lineraires	0	
+entry	Lisse	0	
+entry	Livre, Liber	0	
+entry	Lobes	0	
+entry	Lotion	0	
+entry	Loupes des arbres	1	
 pb	CL	0502	5581643
-entry	Macération		
-entry	Mains ou vrilles		
-entry	Mâles		
-entry	Manche		
-entry	Marcotte		
+entry	Macération	0	
+entry	Mains ou vrilles	0	
+entry	Mâles	0	
+entry	Manche	0	
+entry	Marcotte	0	
 pb	CLI	0503	5581644
-entry	Maraichers		
-entry	Masque (fleurs en)		
-entry	Masticatoires ou mâchicatoires		
-entry	Maturation		
-entry	Maturatif		
-entry	Médicament		
-entry	Membraneuse		
-entry	Menstrue ou vehicule		
-entry	Merrain ou merrein		
-entry	Météoriques		
-entry	Méthode botanique		
+entry	Maraichers	0	
+entry	Masque (fleurs en)	0	
+entry	Masticatoires ou mâchicatoires	0	
+entry	Maturation	0	
+entry	Maturatif	0	
+entry	Médicament	0	
+entry	Membraneuse	0	
+entry	Menstrue ou vehicule	0	
+entry	Merrain ou merrein	0	
+entry	Météoriques	0	
+entry	Méthode botanique	9	
 pb	CLII	0504	5581645
 pb	CLIII	0505	5581646
 pb	CLIV	0506	5581647
@@ -921,7 +921,7 @@ pb	CLVII	0509	5581650
 pb	CLVIII	0510	5581651
 pb	CLIX	0511	5581652
 pb	CLX	0512	5581653
-entry	Méthode de Linneus		
+entry	Méthode de Linneus	11	
 pb	CLXI	0513	5581654
 pb	CLXII	0514	5581655
 pb	CLXIII	0515	5581656
@@ -933,131 +933,131 @@ pb	CLXVIII	0520	5581661
 pb	CLXIX	0521	5581662
 pb	CLXX	0522	5581663
 pb	CLXXI	0523	5581664
-entry	Mettre à fruit		
-entry	Moëlle		
-entry	Molette		
-entry	Monadelphie		
-entry	Monandrie		
-entry	Monaecie		
-entry	Monogamie		
-entry	Monogynie		
-entry	Monopétale		
-entry	Monophille		
+entry	Mettre à fruit	0	
+entry	Moëlle	0	
+entry	Molette	0	
+entry	Monadelphie	0	
+entry	Monandrie	0	
+entry	Monaecie	0	
+entry	Monogamie	0	
+entry	Monogynie	0	
+entry	Monopétale	0	
+entry	Monophille	1	
 pb	CLXXII	0524	5581665
-entry	Motte d'un arbre		
-entry	Multicapsulaire		
-entry	Nain		
-entry	Napiforme		
-entry	Naviculaire		
-entry	Nécessaire		
-entry	Nectar		
+entry	Motte d'un arbre	0	
+entry	Multicapsulaire	0	
+entry	Nain	0	
+entry	Napiforme	0	
+entry	Naviculaire	0	
+entry	Nécessaire	0	
+entry	Nectar	0	
 pb	CLXXIII	0525	5581666
-entry	Nerveux		
-entry	Neutres		
-entry	Nôces des plantes		
-entry	Noeuds		
-entry	Noix		
-entry	Nouées		
+entry	Nerveux	0	
+entry	Neutres	0	
+entry	Nôces des plantes	0	
+entry	Noeuds	0	
+entry	Noix	0	
+entry	Nouées	1	
 pb	CLXXIV	0526	5581667
-entry	Noueuse		
-entry	Noyau		
-entry	Nud		
-entry	Nutation des plantes		
-entry	Oblique		
-entry	Oblongue		
-entry	Obstructions		
+entry	Noueuse	0	
+entry	Noyau	0	
+entry	Nud	0	
+entry	Nutation des plantes	0	
+entry	Oblique	0	
+entry	Oblongue	0	
+entry	Obstructions	1	
 pb	CLXXV	0527	5581668
-entry	Obtus		
-entry	Octandrie		
-entry	Oeilleton		
-entry	Oesophage des plantes		
-entry	Oeil		
-entry	Oeil dormant		
-entry	Oeil poussant		
-entry	Ombelle		
-entry	Ombelliferes		
+entry	Obtus	0	
+entry	Octandrie	0	
+entry	Oeilleton	0	
+entry	Oesophage des plantes	0	
+entry	Oeil	0	
+entry	Oeil dormant	0	
+entry	Oeil poussant	0	
+entry	Ombelle	0	
+entry	Ombelliferes	1	
 pb	CLXXVI	0528	5581669
-entry	Ongle ou onglet		
-entry	Oreille, oreillette		
-entry	Orillon		
-entry	Panaché		
-entry	Panicule		
-entry	Panneaux		
-entry	Papillionacées		
-entry	Parasites		
-entry	Parasol		
-entry	Partielle		
-entry	Patte		
+entry	Ongle ou onglet	0	
+entry	Oreille, oreillette	0	
+entry	Orillon	0	
+entry	Panaché	0	
+entry	Panicule	0	
+entry	Panneaux	0	
+entry	Papillionacées	0	
+entry	Parasites	0	
+entry	Parasol	0	
+entry	Partielle	0	
+entry	Patte	1	
 pb	CLXXVII	0529	5581670
-entry	Pavillon		
-entry	Pedicule		
-entry	Pentagone		
-entry	Pentagynie		
-entry	Pentandrie		
-entry	Pepin		
-entry	Perfeuillée		
-entry	Perianthe		
-entry	Péricarpe		
-entry	Perpendiculaire		
+entry	Pavillon	0	
+entry	Pedicule	0	
+entry	Pentagone	0	
+entry	Pentagynie	0	
+entry	Pentandrie	0	
+entry	Pepin	0	
+entry	Perfeuillée	0	
+entry	Perianthe	0	
+entry	Péricarpe	0	
+entry	Perpendiculaire	0	
 pb	CLXXVIII	0530	5581671
-entry	Personnée		
-entry	Pétale		
-entry	Pétiole		
-entry	Picot		
-entry	Pinnée		
-entry	Pistile		
+entry	Personnée	0	
+entry	Pétale	0	
+entry	Pétiole	0	
+entry	Picot	0	
+entry	Pinnée	0	
+entry	Pistile	1	
 pb	CLXXIX	0531	5581672
-entry	Placenta		
-entry	Planche		
-entry	Plantard		
-entry	Plançon		
-entry	Plantation		
-entry	Plante		
+entry	Placenta	0	
+entry	Planche	0	
+entry	Plantard	0	
+entry	Plançon	0	
+entry	Plantation	0	
+entry	Plante	1	
 pb	CLXXX	0532	5581673
-entry	Plantule		
-entry	Planter		
-entry	Plantoir		
-entry	Platebande		
-entry	Pleine		
-entry	Pleine-terre		
-entry	Plumeux		
-entry	Plume		
-entry	Poils		
+entry	Plantule	0	
+entry	Planter	0	
+entry	Plantoir	0	
+entry	Platebande	0	
+entry	Pleine	0	
+entry	Pleine-terre	0	
+entry	Plumeux	0	
+entry	Plume	0	
+entry	Poils	1	
 pb	CLXXXI	0533	5581674
-entry	Pointu		
-entry	Polyadelphie		
-entry	Polyandrie		
-entry	Polygames		
-entry	Polyginie		
-entry	Port d'une plante		
-entry	Pousse d'un arbre		
-entry	Poussiere fécondante		
+entry	Pointu	0	
+entry	Polyadelphie	0	
+entry	Polyandrie	0	
+entry	Polygames	0	
+entry	Polyginie	0	
+entry	Port d'une plante	0	
+entry	Pousse d'un arbre	0	
+entry	Poussiere fécondante	0	
 pb	CLXXXII	0534	5581675
-entry	Prolifere		
-entry	Propre		
-entry	Pulpe		
-entry	Purgatif		
-entry	Quarré ou carreau d'un jardin		
-entry	Quaternées		
-entry	Quinées		
-entry	Quinconce		
-entry	Quinquangulaire		
+entry	Prolifere	0	
+entry	Propre	0	
+entry	Pulpe	0	
+entry	Purgatif	0	
+entry	Quarré ou carreau d'un jardin	0	
+entry	Quaternées	0	
+entry	Quinées	0	
+entry	Quinconce	0	
+entry	Quinquangulaire	0	
 pb	CLXXXIII	0535	5581676
-entry	Rabattre		
-entry	Racine		
-entry	Radicale		
-entry	Radiée		
-entry	Rame		
-entry	Rameau		
-entry	Ramification		
-entry	Rampant		
-entry	Rapprocher		
+entry	Rabattre	0	
+entry	Racine	0	
+entry	Radicale	0	
+entry	Radiée	0	
+entry	Rame	0	
+entry	Rameau	0	
+entry	Ramification	0	
+entry	Rampant	0	
+entry	Rapprocher	1	
 pb	CLXXXIV	0536	5581677
-entry	Ravaler		
-entry	Rayons		
-entry	Rebinage		
-entry	Receper		
-entry	Receptacle		
+entry	Ravaler	0	
+entry	Rayons	0	
+entry	Rebinage	0	
+entry	Receper	0	
+entry	Receptacle	10	
 pb	CLXXXV	0537	5581678
 pb	CLXXXVI	0538	5581679
 pb	CLXXXVII	0539	5581680
@@ -1068,145 +1068,145 @@ pb	CXCI	0543	5581684
 pb	CXCII	0544	5581685
 pb	CXCIII	0545	5581686
 pb	CXCIV	0546	5581687
-entry	Recomposée		
-entry	Recouvrir		
-entry	Recroquebillé, recroquevillé, recroquillé		
-entry	Rejetton		
-entry	Reniforme		
-entry	Repercussif		
-entry	Reprise des plantes		
-entry	Réseau reticulaire		
+entry	Recomposée	0	
+entry	Recouvrir	0	
+entry	Recroquebillé, recroquevillé, recroquillé	0	
+entry	Rejetton	0	
+entry	Reniforme	0	
+entry	Repercussif	0	
+entry	Reprise des plantes	0	
+entry	Réseau reticulaire	1	
 pb	CXCV	0547	5581688
-entry	Résine		
-entry	Résolutifs		
-entry	Resserrée		
-entry	Restaurans		
-entry	Rhomboïde		
-entry	Rigole		
-entry	Rondache		
-entry	Rosacées		
+entry	Résine	0	
+entry	Résolutifs	0	
+entry	Resserrée	0	
+entry	Restaurans	0	
+entry	Rhomboïde	0	
+entry	Rigole	0	
+entry	Rondache	0	
+entry	Rosacées	0	
 pb	CXCVI	0548	5581689
-entry	Roue		
-entry	Rubiacées		
-entry	Rudiment		
-entry	Sarcler		
-entry	Sarcloir		
-entry	Sarmenteuse		
-entry	Saussaie		
-entry	Saussis		
-entry	Saucis		
-entry	Scie		
-entry	Scutiforme		
-entry	Secrétion		
-entry	Semailles		
+entry	Roue	0	
+entry	Rubiacées	0	
+entry	Rudiment	0	
+entry	Sarcler	0	
+entry	Sarcloir	0	
+entry	Sarmenteuse	0	
+entry	Saussaie	0	
+entry	Saussis	0	
+entry	Saucis	0	
+entry	Scie	0	
+entry	Scutiforme	0	
+entry	Secrétion	0	
+entry	Semailles	0	
 pb	CXCVII	0549	5581690
-entry	Semence		
-entry	Semidouble		
-entry	Séminale		
-entry	Semis		
-entry	Sep		
-entry	Serpette		
-entry	Serre		
-entry	Sessile		
-entry	Sève		
+entry	Semence	0	
+entry	Semidouble	0	
+entry	Séminale	0	
+entry	Semis	0	
+entry	Sep	0	
+entry	Serpette	0	
+entry	Serre	0	
+entry	Sessile	0	
+entry	Sève	0	
 pb	CXCVIII	0550	5581691
-entry	Sexe des plantes		
-entry	Siliculeuses		
-entry	Sillon		
-entry	Simple		
-entry	Sinus		
-entry	Solaires		
-entry	Soleil		
-entry	Sommet des étamines ou anthere		
-entry	Sous-orbiculaires		
-entry	Souche		
-entry	Spathe		
-entry	Sternutatoires		
+entry	Sexe des plantes	0	
+entry	Siliculeuses	0	
+entry	Sillon	0	
+entry	Simple	0	
+entry	Sinus	0	
+entry	Solaires	0	
+entry	Soleil	0	
+entry	Sommet des étamines ou anthere	0	
+entry	Sous-orbiculaires	0	
+entry	Souche	0	
+entry	Spathe	0	
+entry	Sternutatoires	0	
 pb	CXCIX	0551	5581692
-entry	Stigmate		
-entry	Stipule		
-entry	Stolonifere		
-entry	Stomachique		
-entry	Style		
-entry	Subalaire		
-entry	Subulé		
-entry	Suc		
+entry	Stigmate	0	
+entry	Stipule	0	
+entry	Stolonifere	0	
+entry	Stomachique	0	
+entry	Style	0	
+entry	Subalaire	0	
+entry	Subulé	0	
+entry	Suc	0	
 pb	CC	0552	5581693
-entry	Suc lymphatique		
-entry	Suçoir des feuilles & des racines		
+entry	Suc lymphatique	0	
+entry	Suçoir des feuilles & des racines	0	
 pb	CCI	0553	5581694
-entry	Succulent		
-entry	Sudorifique		
-entry	Superflue		
-entry	support		
-entry	Surface		
-entry	Surfeuille		
-entry	Surgeon		
-entry	Syngenesie		
-entry	Système botanique		
-entry	Taille des arbres		
+entry	Succulent	0	
+entry	Sudorifique	0	
+entry	Superflue	0	
+entry	support	0	
+entry	Surface	0	
+entry	Surfeuille	0	
+entry	Surgeon	0	
+entry	Syngenesie	0	
+entry	Système botanique	0	
+entry	Taille des arbres	1	
 pb	CCII	0554	5581695
-entry	Talles		
-entry	Tanelé, marqueté, tiqueté		
-entry	Térébinthe		
-entry	Ternée		
-entry	Testicules des végétaux		
-entry	Terreau		
-entry	Terrer		
-entry	Tetards		
-entry	Tête		
-entry	Tetradynamie		
-entry	Tetragone		
-entry	Tetraginie		
-entry	Théiforme		
+entry	Talles	0	
+entry	Tanelé, marqueté, tiqueté	0	
+entry	Térébinthe	0	
+entry	Ternée	0	
+entry	Testicules des végétaux	0	
+entry	Terreau	0	
+entry	Terrer	0	
+entry	Tetards	0	
+entry	Tête	0	
+entry	Tetradynamie	0	
+entry	Tetragone	0	
+entry	Tetraginie	0	
+entry	Théiforme	1	
 pb	CCIII	0555	5581696
-entry	Thyrsoide en grappe ou panicule		
-entry	Tige		
-entry	Toondre		
-entry	Topique		
-entry	Tousse		
+entry	Thyrsoide en grappe ou panicule	0	
+entry	Tige	0	
+entry	Toondre	0	
+entry	Topique	0	
+entry	Tousse	1	
 pb	CCIV	0556	5581697
-entry	Tourné		
-entry	Traçante		
-entry	Trachées		
-entry	Transpiration des plantes		
-entry	Treillage		
-entry	Triandrie		
-entry	Triangulaire		
-entry	Triginie		
-entry	Trilobée		
-entry	Triannuelle		
-entry	Triphille		
-entry	Trompe ou vagin		
+entry	Tourné	0	
+entry	Traçante	0	
+entry	Trachées	0	
+entry	Transpiration des plantes	0	
+entry	Treillage	0	
+entry	Triandrie	0	
+entry	Triangulaire	0	
+entry	Triginie	0	
+entry	Trilobée	0	
+entry	Triannuelle	0	
+entry	Triphille	0	
+entry	Trompe ou vagin	0	
 pb	CCV	0557	5581698
-entry	Tronc		
-entry	Tronquée		
-entry	Tropiques		
-entry	Tubercule ou Racine tubéreuse		
-entry	Tubulée		
-entry	Tunique		
-entry	Tuilées ou imbriquées		
-entry	Tuteur		
-entry	Vaisseaux des plantes		
+entry	Tronc	0	
+entry	Tronquée	0	
+entry	Tropiques	0	
+entry	Tubercule ou Racine tubéreuse	0	
+entry	Tubulée	0	
+entry	Tunique	0	
+entry	Tuilées ou imbriquées	0	
+entry	Tuteur	0	
+entry	Vaisseaux des plantes	1	
 pb	CCVI	0558	5581699
-entry	Variétés		
-entry	Végétaux		
-entry	Verger		
-entry	Vermoulu		
-entry	Verticillé		
-entry	Vessiculeux		
-entry	Vivace		
-entry	Vives racines		
-entry	Umbilical		
-entry	Umbiliqué		
-entry	Uniloculaire		
+entry	Variétés	0	
+entry	Végétaux	0	
+entry	Verger	0	
+entry	Vermoulu	0	
+entry	Verticillé	0	
+entry	Vessiculeux	0	
+entry	Vivace	0	
+entry	Vives racines	0	
+entry	Umbilical	0	
+entry	Umbiliqué	0	
+entry	Uniloculaire	0	
 pb	CCVII	0559	5581700
-entry	Vrilles		
-entry	Usuelles		
-entry	Vulnéraires		
-entry	Zeste		
+entry	Vrilles	0	
+entry	Usuelles	0	
+entry	Vulnéraires	0	
+entry	Zeste	0	
 pb	CCVIII	0560	5581701
-entry	Traduction française des termes latins employés dans le Flora Gallica		
+entry	Traduction française des termes latins employés dans le Flora Gallica	12	
 pb	CCIX	0561	5581702
 pb	CCX	0562	5581703
 pb	CCXI	0563	5581704
@@ -1220,26 +1220,26 @@ pb	CCXVIII	0570	5581711
 pb	CCXIX	0571	5581712
 pb	CCXX	0572	5581713
 pb	CCXXI	0573	5581714
-entry	Catalogue des ouvrages dont on a fait usage dans ce Dictionnaire		
+entry	Catalogue des ouvrages dont on a fait usage dans ce Dictionnaire	4	
 pb	CCXXII	0574	5581715
 pb	CCXXIII	0575	5581716
 pb	CCXXIV	0576	5581717
 pb	CCXXV	0577	5581718
 pb	CCXXVI	0578	5581719
-entry	Table générale		
+entry	Table générale	3	
 pb	CCXXVII	0579	5581720
 pb	CCXXVIII	0580	5581721
 pb	CCXXIX	0581	5581722
 pb	CCXXX	0582	5581723
-entry	Supplément au dictionnaire des Plantes, Arbres & Arbustes de la France. Busserole		
+entry	Supplément au dictionnaire des Plantes, Arbres & Arbustes de la France. Busserole	0	
 pb	CCXXXI	0583	5581724
-entry	Busserole		
+entry	Busserole	4	
 pb	CCXXXII	0584	5581725
 pb	CCXXXIII	0585	5581726
 pb	CCXXXIV	0586	5581727
 pb	CCXXXV	0587	5581728
 pb	CCXXXVI	0588	5581729
-entry	Cresson de Roche		
+entry	Cresson de Roche	7	
 pb	CCXXXVII	0589	5581730
 pb	CCXXXVIII	0590	5581731
 pb	CCXXXIX	0591	5581732
@@ -1248,4 +1248,4 @@ pb	CCXLI	0593	5581734
 pb	CCXLII	0594	5581735
 pb	CCXLIII	0595	5581736
 pb	CCXLIV	0596	5581737
-entry	Cresson de Roche. Errata		
+entry	Cresson de Roche. Errata	0	

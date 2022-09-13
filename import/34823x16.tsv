@@ -1,15 +1,15 @@
 pb	[s. pag.]	0001	4801026
-entry	[Page de faux-titre]. 		
+entry	[Page de faux-titre]. 	0	
 orth	. 		
 pb	[s. pag.]	0002	4801027
-entry	Liste des collaborateurs du seizième volume		
+entry	Liste des collaborateurs du seizième volume	0	
 pb	[s. pag.]	0003	4801028
-entry	[Page de titre]. 		
+entry	[Page de titre]. 	0	
 orth	. 		
 pb	[s. pag.]	0004	4801029
-entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles		
+entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4801030
-entry	Pathologie [L. Trasbot]. 		
+entry	Pathologie [L. Trasbot]. 	23	
 orth	Pathologie. 		
 pb	2	0006	4801031
 pb	3	0007	4801032
@@ -35,10 +35,10 @@ pb	22	0026	4801051
 pb	23	0027	4801052
 pb	24	0028	4801053
 pb	25	0029	4801054
-entry	Pathologie [L. Trasbot]. Paturage [A. Sanson]. 		
+entry	Pathologie [L. Trasbot]. Paturage [A. Sanson]. 	0	
 orth	Pathologie. Paturage. 		
 pb	26	0030	4801055
-entry	Paturage [A. Sanson]. 		
+entry	Paturage [A. Sanson]. 	11	
 orth	Paturage. 		
 pb	27	0031	4801056
 pb	28	0032	4801057
@@ -52,10 +52,10 @@ pb	35	0039	4801064
 pb	36	0040	4801065
 pb	37	0041	4801066
 pb	38	0042	4801067
-entry	Paturage [A. Sanson]. Paupières [E. Leclainche]. 		
+entry	Paturage [A. Sanson]. Paupières [E. Leclainche]. 	0	
 orth	Paturage. Paupières. 		
 pb	39	0043	4801068
-entry	Paupières [E. Leclainche]. 		
+entry	Paupières [E. Leclainche]. 	15	
 orth	Paupières. 		
 pb	40	0044	4801069
 pb	41	0045	4801070
@@ -73,10 +73,10 @@ pb	52	0056	4801081
 pb	53	0057	4801082
 pb	54	0058	4801083
 pb	55	0059	4801084
-entry	Paupières [E. Leclainche]. Pays-Bas [A. Sanson]. 		
+entry	Paupières [E. Leclainche]. Pays-Bas [A. Sanson]. 	0	
 orth	Paupières. Pays-Bas. 		
 pb	56	0060	4801085
-entry	Pays-Bas [A. Sanson]. 		
+entry	Pays-Bas [A. Sanson]. 	7	
 orth	Pays-Bas. 		
 pb	57	0061	4801086
 pb	58	0062	4801087
@@ -86,14 +86,14 @@ pb	61	0065	4801090
 pb	62	0066	4801091
 pb	63	0067	4801092
 pb	64	0068	4801093
-entry	Pays-Bas [A. Sanson]. Peau (Maladies de la) [C. Cadéac]. 		
+entry	Pays-Bas [A. Sanson]. Peau (Maladies de la) [C. Cadéac]. 	0	
 orth	Pays-Bas. Peau (Maladies de la). 		
 pb	65	0069	4801094
-entry	Peau (Maladies de la) [C. Cadéac]. 		
+entry	Peau (Maladies de la) [C. Cadéac]. 	1	
 orth	Peau (Maladies de la). 		
 pb	66	0070	4801095
 pb	67	0071	4801096
-entry	Peau (Maladies de la) [C. Cadéac]. Anatomie et physiologie médicale de la peau		
+entry	Peau (Maladies de la) [C. Cadéac]. Anatomie et physiologie médicale de la peau	11	
 orth	Peau (Maladies de la). Anatomie et physiologie médicale de la peau		
 pb	68	0072	4801097
 pb	69	0073	4801098
@@ -106,7 +106,7 @@ pb	75	0079	4801104
 pb	76	0080	4801105
 pb	77	0081	4801106
 pb	78	0082	4801107
-entry	Peau (Maladies de la) [C. Cadéac]. Anatomie pathologique et symptomatologie		
+entry	Peau (Maladies de la) [C. Cadéac]. Anatomie pathologique et symptomatologie	60	
 orth	Peau (Maladies de la). Anatomie pathologique et symptomatologie		
 pb	79	0083	4801108
 pb	80	0084	4801109
@@ -168,7 +168,7 @@ pb	135	0139	4801164
 pb	136	0140	4801165
 pb	137	0141	4801166
 pb	138	0142	4801167
-entry	Peau (Maladies de la) [C. Cadéac]. Etiologie des maladies cutanées		
+entry	Peau (Maladies de la) [C. Cadéac]. Etiologie des maladies cutanées	15	
 orth	Peau (Maladies de la). Etiologie des maladies cutanées		
 pb	139	0143	4801168
 pb	140	0144	4801169
@@ -186,16 +186,16 @@ pb	151	0155	4801180
 pb	152	0156	4801181
 pb	153	0157	4801182
 pb	154	0158	4801183
-entry	Peau (Maladies de la) [C. Cadéac]. Diagnostic des maladies cutanées		
+entry	Peau (Maladies de la) [C. Cadéac]. Diagnostic des maladies cutanées	3	
 orth	Peau (Maladies de la). Diagnostic des maladies cutanées		
 pb	155	0159	4801184
 pb	156	0160	4801185
 pb	157	0161	4801186
-entry	Peau (Maladies de la) [C. Cadéac]. Pronostic des maladies de peau		
+entry	Peau (Maladies de la) [C. Cadéac]. Pronostic des maladies de peau	1	
 orth	Peau (Maladies de la). Pronostic des maladies de peau		
 pb	158	0162	4801187
 pb	159	0163	4801188
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général	10	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général		
 pb	160	0164	4801189
 pb	161	0165	4801190
@@ -207,14 +207,14 @@ pb	166	0170	4801195
 pb	167	0171	4801196
 pb	168	0172	4801197
 pb	169	0173	4801198
-entry	Peau (Maladies de la) [C. Cadéac]. Maladies cutanées du cheval		
+entry	Peau (Maladies de la) [C. Cadéac]. Maladies cutanées du cheval	0	
 orth	Peau (Maladies de la). Maladies cutanées du cheval		
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites		
 pb	170	0174	4801199
 pb	171	0175	4801200
 pb	172	0176	4801201
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Erythèmes		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Erythèmes	7	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Erythèmes		
 pb	173	0177	4801202
 pb	174	0178	4801203
@@ -223,23 +223,23 @@ pb	176	0180	4801205
 pb	177	0181	4801206
 pb	178	0182	4801207
 pb	179	0183	4801208
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Acné du cheval		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Acné du cheval	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Acné du cheval		
 pb	180	0184	4801209
 pb	181	0185	4801210
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite papuleuse des membres		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite papuleuse des membres	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite papuleuse des membres		
 pb	182	0186	4801211
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite granuleuse		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite granuleuse	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite granuleuse		
 pb	183	0187	4801212
 pb	184	0188	4801213
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Botryomycose		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Botryomycose	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Botryomycose		
 pb	185	0189	4801214
 pb	186	0190	4801215
 pb	187	0191	4801216
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite pustuleuse contagieuse		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite pustuleuse contagieuse	9	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Dermite pustuleuse contagieuse		
 pb	188	0192	4801217
 pb	189	0193	4801218
@@ -250,25 +250,25 @@ pb	193	0197	4801222
 pb	194	0198	4801223
 pb	195	0199	4801224
 pb	196	0200	4801225
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Du pemphigus		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Du pemphigus	5	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Du pemphigus		
 pb	197	0201	4801226
 pb	198	0202	4801227
 pb	199	0203	4801228
 pb	200	0204	4801229
 pb	201	0205	4801230
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Maladies internes		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Maladies internes	0	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Maladies internes		
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval		
 pb	202	0206	4801231
 pb	203	0207	4801232
 pb	204	0208	4801233
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval. Eczéma aigu		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval. Eczéma aigu	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval. Eczéma aigu		
 pb	205	0209	4801234
 pb	206	0210	4801235
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval. Eczéma chronique		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval. Eczéma chronique	9	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval. Eczéma chronique		
 pb	207	0211	4801236
 pb	208	0212	4801237
@@ -279,10 +279,10 @@ pb	212	0216	4801241
 pb	213	0217	4801242
 pb	214	0218	4801243
 pb	215	0219	4801244
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Psoriasis du cheval		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Psoriasis du cheval	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Psoriasis du cheval		
 pb	216	0220	4801245
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Psoriasis du cheval. Psoriasis des extrémités		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Psoriasis du cheval. Psoriasis des extrémités	6	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Psoriasis du cheval. Psoriasis des extrémités		
 pb	217	0221	4801246
 pb	218	0222	4801247
@@ -290,34 +290,34 @@ pb	219	0223	4801248
 pb	220	0224	4801249
 pb	221	0225	4801250
 pb	222	0226	4801251
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Pityriasis du cheval		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Pityriasis du cheval	5	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. Pityriasis du cheval		
 pb	223	0227	4801252
 pb	224	0228	4801253
 pb	225	0229	4801254
 pb	226	0230	4801255
 pb	227	0231	4801256
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien		
 pb	228	0232	4801257
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien		
 pb	229	0233	4801258
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma rubrum, érythème ou rouge du chien		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma rubrum, érythème ou rouge du chien	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma rubrum, érythème ou rouge du chien		
 pb	230	0234	4801259
 pb	231	0235	4801260
 pb	232	0236	4801261
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien		
 pb	233	0237	4801262
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Symptômes		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Symptômes	0	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Symptômes		
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien. Eczéma généralisé		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien. Eczéma généralisé	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien. Eczéma généralisé		
 pb	234	0238	4801263
 pb	235	0239	4801264
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma chronique		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma chronique	8	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma chronique		
 pb	236	0240	4801265
 pb	237	0241	4801266
@@ -327,10 +327,10 @@ pb	240	0244	4801269
 pb	241	0245	4801270
 pb	242	0246	4801271
 pb	243	0247	4801272
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du boeuf		
 pb	244	0248	4801273
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Eczéma artificiel dû aux pulpes des pommes de terre		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Eczéma artificiel dû aux pulpes des pommes de terre	10	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Eczéma artificiel dû aux pulpes des pommes de terre		
 pb	245	0249	4801274
 pb	246	0250	4801275
@@ -342,72 +342,72 @@ pb	251	0255	4801280
 pb	252	0256	4801281
 pb	253	0257	4801282
 pb	254	0258	4801283
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Affections dartreuses du boeuf		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Affections dartreuses du boeuf	5	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Affections dartreuses du boeuf		
 pb	255	0259	4801284
 pb	256	0260	4801285
 pb	257	0261	4801286
 pb	258	0262	4801287
 pb	259	0263	4801288
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Eczéma chronique		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Eczéma chronique	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du boeuf. Eczéma chronique		
 pb	260	0264	4801289
 pb	261	0265	4801290
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du mouton		
 pb	262	0266	4801291
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton. Éruption artificielle du mouton, Bouquet ou fagopyrisme		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton. Éruption artificielle du mouton, Bouquet ou fagopyrisme	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du mouton. Éruption artificielle du mouton, Bouquet ou fagopyrisme		
 pb	263	0267	4801292
 pb	264	0268	4801293
 pb	265	0269	4801294
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton. Maladies cutanées du porc		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton. Maladies cutanées du porc	0	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du mouton. Maladies cutanées du porc		
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Échauboulure		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Échauboulure	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du porc. Échauboulure		
 pb	266	0270	4801295
 pb	267	0271	4801296
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Rougeole du porc, clavelée rouge, affection fuligineuse		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Rougeole du porc, clavelée rouge, affection fuligineuse	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du porc. Rougeole du porc, clavelée rouge, affection fuligineuse		
 pb	268	0272	4801297
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Impétigo du porc		
+entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Impétigo du porc	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du porc. Impétigo du porc		
 pb	269	0273	4801298
-entry	Pénis [P. J. Cadiot]. Anatomie		
+entry	Pénis [P. J. Cadiot]. Anatomie	3	
 orth	Pénis. Anatomie		
 pb	270	0274	4801299
 pb	271	0275	4801300
 pb	272	0276	4801301
-entry	Pénis [P. J. Cadiot]. Pathologie		
+entry	Pénis [P. J. Cadiot]. Pathologie	0	
 orth	Pénis. Pathologie		
-entry	Pénis [P. J. Cadiot]. Pathologie. Lésions traumatiques du pénis		
+entry	Pénis [P. J. Cadiot]. Pathologie. Lésions traumatiques du pénis	5	
 orth	Pénis. Pathologie. Lésions traumatiques du pénis		
 pb	273	0277	4801302
 pb	274	0278	4801303
 pb	275	0279	4801304
 pb	276	0280	4801305
 pb	277	0281	4801306
-entry	Pénis [P. J. Cadiot]. Pathologie. Lésions inflammatoires		
+entry	Pénis [P. J. Cadiot]. Pathologie. Lésions inflammatoires	3	
 orth	Pénis. Pathologie. Lésions inflammatoires		
 pb	278	0282	4801307
 pb	279	0283	4801308
 pb	280	0284	4801309
-entry	Pénis [P. J. Cadiot]. Pathologie. Tumeurs		
+entry	Pénis [P. J. Cadiot]. Pathologie. Tumeurs	3	
 orth	Pénis. Pathologie. Tumeurs		
 pb	281	0285	4801310
 pb	282	0286	4801311
 pb	283	0287	4801312
-entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge		
+entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge	1	
 orth	Pénis. Pathologie. Anomalies et vices de conformation de la verge		
 pb	284	0288	4801313
-entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge. Priapisme		
+entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge. Priapisme	1	
 orth	Pénis. Pathologie. Anomalies et vices de conformation de la verge. Priapisme		
 pb	285	0289	4801314
-entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge. Paralysie		
+entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge. Paralysie	2	
 orth	Pénis. Pathologie. Anomalies et vices de conformation de la verge. Paralysie		
 pb	286	0290	4801315
 pb	287	0291	4801316
-entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge. Amputation du pénis		
+entry	Pénis [P. J. Cadiot]. Pathologie. Anomalies et vices de conformation de la verge. Amputation du pénis	10	
 orth	Pénis. Pathologie. Anomalies et vices de conformation de la verge. Amputation du pénis		
 pb	288	0292	4801317
 pb	289	0293	4801318
@@ -420,7 +420,7 @@ pb	295	0299	4801324
 pb	296	0300	4801325
 pb	297	0301	4801326
 pb	298	0302	4801327
-entry	Percussion [F. Saint-Cyr]. 		
+entry	Percussion [F. Saint-Cyr]. 	50	
 orth	Percussion. 		
 pb	299	0303	4801328
 pb	300	0304	4801329
@@ -473,15 +473,15 @@ pb	346	0350	4801375
 pb	347	0351	4801376
 pb	348	0352	4801377
 pb	349	0353	4801378
-entry	Péricarde		
-entry	Péricarde. Anatomie topographique [L. Moussu]. 		
+entry	Péricarde	0	
+entry	Péricarde. Anatomie topographique [L. Moussu]. 	1	
 orth	Péricarde. Anatomie topographique. 		
 pb	350	0354	4801379
 pb	351	0355	4801380
-entry	Péricarde. Anatomie topographique [L. Moussu]. Pathologie [L. Trasbot]. 		
+entry	Péricarde. Anatomie topographique [L. Moussu]. Pathologie [L. Trasbot]. 	0	
 orth	Péricarde. Anatomie topographique. Pathologie. 		
 pb	352	0356	4801381
-entry	Péricarde. Pathologie [L. Trasbot]. Péricardite aiguë		
+entry	Péricarde. Pathologie [L. Trasbot]. Péricardite aiguë	16	
 orth	Péricarde. Pathologie. Péricardite aiguë		
 pb	353	0357	4801382
 pb	354	0358	4801383
@@ -499,7 +499,7 @@ pb	365	0369	4801394
 pb	366	0370	4801395
 pb	367	0371	4801396
 pb	368	0372	4801397
-entry	Péricarde. Pathologie [L. Trasbot]. Péricardite traumatique du boeuf		
+entry	Péricarde. Pathologie [L. Trasbot]. Péricardite traumatique du boeuf	16	
 orth	Péricarde. Pathologie. Péricardite traumatique du boeuf		
 pb	369	0373	4801398
 pb	370	0374	4801399
@@ -517,7 +517,7 @@ pb	381	0385	4801410
 pb	382	0386	4801411
 pb	383	0387	4801412
 pb	384	0388	4801413
-entry	Péricarde. Pathologie [L. Trasbot]. Péricardite chronique simple		
+entry	Péricarde. Pathologie [L. Trasbot]. Péricardite chronique simple	6	
 orth	Péricarde. Pathologie. Péricardite chronique simple		
 pb	385	0389	4801414
 pb	386	0390	4801415
@@ -525,40 +525,40 @@ pb	387	0391	4801416
 pb	388	0392	4801417
 pb	389	0393	4801418
 pb	390	0394	4801419
-entry	Péricarde. Pathologie [L. Trasbot]. Hydropisies du péricarde		
+entry	Péricarde. Pathologie [L. Trasbot]. Hydropisies du péricarde	0	
 orth	Péricarde. Pathologie. Hydropisies du péricarde		
-entry	Péricarde. Pathologie [L. Trasbot]. Péricardite tuberculeuse		
+entry	Péricarde. Pathologie [L. Trasbot]. Péricardite tuberculeuse	1	
 orth	Péricarde. Pathologie. Péricardite tuberculeuse		
 pb	391	0395	4801420
-entry	Péricarde. Pathologie [L. Trasbot]. Rupture du péricarde		
+entry	Péricarde. Pathologie [L. Trasbot]. Rupture du péricarde	1	
 orth	Péricarde. Pathologie. Rupture du péricarde		
 pb	392	0396	4801421
-entry	Péricarde. Pathologie [L. Trasbot]. Arrêt de développement du péricarde		
+entry	Péricarde. Pathologie [L. Trasbot]. Arrêt de développement du péricarde	1	
 orth	Péricarde. Pathologie. Arrêt de développement du péricarde		
 pb	393	0397	4801422
-entry	Péricarde. Pathologie [L. Trasbot]. Périnée		
+entry	Péricarde. Pathologie [L. Trasbot]. Périnée	0	
 orth	Péricarde. Pathologie. Périnée		
-entry	Péricarde. Pathologie [L. Trasbot]. Périostite		
+entry	Péricarde. Pathologie [L. Trasbot]. Périostite	0	
 orth	Péricarde. Pathologie. Périostite		
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Synonymie		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Synonymie	0	
 orth	Péripneumonie contagieuse des bovidés. Synonymie		
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Aperçu bibliographique		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Aperçu bibliographique	1	
 orth	Péripneumonie contagieuse des bovidés. Aperçu bibliographique		
 pb	394	0398	4801423
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Notion générale sur la gravité de cette maladie		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Notion générale sur la gravité de cette maladie	1	
 orth	Péripneumonie contagieuse des bovidés. Notion générale sur la gravité de cette maladie		
 pb	395	0399	4801424
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Symptômes		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Symptômes	4	
 orth	Péripneumonie contagieuse des bovidés. Symptômes		
 pb	396	0400	4801425
 pb	397	0401	4801426
 pb	398	0402	4801427
 pb	399	0403	4801428
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Marche. Durée. Terminaisons		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Marche. Durée. Terminaisons	2	
 orth	Péripneumonie contagieuse des bovidés. Marche. Durée. Terminaisons		
 pb	400	0404	4801429
 pb	401	0405	4801430
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Anatomie pathologique		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Anatomie pathologique	6	
 orth	Péripneumonie contagieuse des bovidés. Anatomie pathologique		
 pb	402	0406	4801431
 pb	403	0407	4801432
@@ -567,70 +567,70 @@ pb	405	0409	4801434
 pb	406	0410	4801435
 pb	407	0411	4801436
 pb	408	0412	4801437
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Diagnostic général		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Diagnostic général	3	
 orth	Péripneumonie contagieuse des bovidés. Diagnostic général		
 pb	409	0413	4801438
 pb	410	0414	4801439
 pb	411	0415	4801440
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Diagnostic différentiel		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Diagnostic différentiel	5	
 orth	Péripneumonie contagieuse des bovidés. Diagnostic différentiel		
 pb	412	0416	4801441
 pb	413	0417	4801442
 pb	414	0418	4801443
 pb	415	0419	4801444
 pb	416	0420	4801445
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Nature		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Nature	1	
 orth	Péripneumonie contagieuse des bovidés. Nature		
 pb	417	0421	4801446
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Etiologie		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Etiologie	2	
 orth	Péripneumonie contagieuse des bovidés. Etiologie		
 pb	418	0422	4801447
 pb	419	0423	4801448
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Contagion		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Contagion	1	
 orth	Péripneumonie contagieuse des bovidés. Contagion		
 pb	420	0424	4801449
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Matières virulentes		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Matières virulentes	3	
 orth	Péripneumonie contagieuse des bovidés. Matières virulentes		
 pb	421	0425	4801450
 pb	422	0426	4801451
 pb	423	0427	4801452
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Durée de l'activité virulente		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Durée de l'activité virulente	0	
 orth	Péripneumonie contagieuse des bovidés. Durée de l'activité virulente		
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Circonstances dans lesquelles la contagion s'effectue		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Circonstances dans lesquelles la contagion s'effectue	5	
 orth	Péripneumonie contagieuse des bovidés. Circonstances dans lesquelles la contagion s'effectue		
 pb	424	0428	4801453
 pb	425	0429	4801454
 pb	426	0430	4801455
 pb	427	0431	4801456
 pb	428	0432	4801457
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Circonstances qui influent sur la contagion		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Circonstances qui influent sur la contagion	5	
 orth	Péripneumonie contagieuse des bovidés. Circonstances qui influent sur la contagion		
 pb	429	0433	4801458
 pb	430	0434	4801459
 pb	431	0435	4801460
 pb	432	0436	4801461
 pb	433	0437	4801462
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Immunité		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Immunité	0	
 orth	Péripneumonie contagieuse des bovidés. Immunité		
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Période d'incubation		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Période d'incubation	1	
 orth	Péripneumonie contagieuse des bovidés. Période d'incubation		
 pb	434	0438	4801463
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Pronostic		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Pronostic	1	
 orth	Péripneumonie contagieuse des bovidés. Pronostic		
 pb	435	0439	4801464
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement	1	
 orth	Péripneumonie contagieuse des bovidés. Traitement		
 pb	436	0440	4801465
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Précautions hygiéniques		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Précautions hygiéniques	1	
 orth	Péripneumonie contagieuse des bovidés. Traitement. Précautions hygiéniques		
 pb	437	0441	4801466
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Moyens réputés préservatifs		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Moyens réputés préservatifs	1	
 orth	Péripneumonie contagieuse des bovidés. Traitement. Moyens réputés préservatifs		
 pb	438	0442	4801467
 pb	439	0443	4801468
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement.		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement.	0	
 orth	Péripneumonie contagieuse des bovidés. Traitement.		
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Inoculation préventive		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Inoculation préventive	40	
 orth	Péripneumonie contagieuse des bovidés. Traitement. Inoculation préventive		
 pb	440	0444	4801469
 pb	441	0445	4801470
@@ -672,7 +672,7 @@ pb	476	0480	4801505
 pb	477	0481	4801506
 pb	478	0482	4801507
 pb	479	0483	4801508
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Police sanitaire		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Police sanitaire	21	
 orth	Péripneumonie contagieuse des bovidés. Traitement. Police sanitaire		
 pb	480	0484	4801509
 pb	481	0485	4801510
@@ -695,11 +695,11 @@ pb	497	0501	4801526
 pb	498	0502	4801527
 pb	499	0503	4801528
 pb	500	0504	4801529
-entry	Péritoine [A. Labat]. 		
+entry	Péritoine [A. Labat]. 	1	
 orth	Péritoine. 		
 pb	501	0505	4801530
 pb	502	0506	4801531
-entry	Péritoine [A. Labat]. Anatomie et Physiologie		
+entry	Péritoine [A. Labat]. Anatomie et Physiologie	13	
 orth	Péritoine. Anatomie et Physiologie		
 pb	503	0507	4801532
 pb	504	0508	4801533
@@ -714,14 +714,14 @@ pb	512	0516	4801541
 pb	513	0517	4801542
 pb	514	0518	4801543
 pb	515	0519	4801544
-entry	Péritoine [A. Labat]. Pathologie		
+entry	Péritoine [A. Labat]. Pathologie	2	
 orth	Péritoine. Pathologie		
 pb	516	0520	4801545
 pb	517	0521	4801546
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite	1	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite		
 pb	518	0522	4801547
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite idiopathique aiguë générale		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite idiopathique aiguë générale	13	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite. Péritonite idiopathique aiguë générale		
 pb	519	0523	4801548
 pb	520	0524	4801549
@@ -736,7 +736,7 @@ pb	528	0532	4801557
 pb	529	0533	4801558
 pb	530	0534	4801559
 pb	531	0535	4801560
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite chronique générale		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite chronique générale	7	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite. Péritonite chronique générale		
 pb	532	0536	4801561
 pb	533	0537	4801562
@@ -745,7 +745,7 @@ pb	535	0539	4801564
 pb	536	0540	4801565
 pb	537	0541	4801566
 pb	538	0542	4801567
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite par propagation		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite par propagation	9	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite. Péritonite par propagation		
 pb	539	0543	4801568
 pb	540	0544	4801569
@@ -756,7 +756,7 @@ pb	544	0548	4801573
 pb	545	0549	4801574
 pb	546	0550	4801575
 pb	547	0551	4801576
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonites traumatiques		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonites traumatiques	9	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite. Péritonites traumatiques		
 pb	548	0552	4801577
 pb	549	0553	4801578
@@ -767,30 +767,30 @@ pb	553	0557	4801582
 pb	554	0558	4801583
 pb	555	0559	4801584
 pb	556	0560	4801585
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite partielle ou locale		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite partielle ou locale	2	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite. Péritonite partielle ou locale		
 pb	557	0561	4801586
 pb	558	0562	4801587
-entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite dyscrasique		
+entry	Péritoine [A. Labat]. Pathologie. Inflammation. – Péritonite. Péritonite dyscrasique	1	
 orth	Péritoine. Pathologie. Inflammation. – Péritonite. Péritonite dyscrasique		
 pb	559	0563	4801588
-entry	Péritoine [A. Labat]. Pathologie. Hémorrhagie		
+entry	Péritoine [A. Labat]. Pathologie. Hémorrhagie	4	
 orth	Péritoine. Pathologie. Hémorrhagie		
 pb	560	0564	4801589
 pb	561	0565	4801590
 pb	562	0566	4801591
 pb	563	0567	4801592
-entry	Péritoine [A. Labat]. Pathologie. Néoplasies		
+entry	Péritoine [A. Labat]. Pathologie. Néoplasies	3	
 orth	Péritoine. Pathologie. Néoplasies		
 pb	564	0568	4801593
 pb	565	0569	4801594
 pb	566	0570	4801595
-entry	Péritoine [A. Labat]. Pathologie. Parasites		
+entry	Péritoine [A. Labat]. Pathologie. Parasites	2	
 orth	Péritoine. Pathologie. Parasites		
 pb	567	0571	4801596
 pb	568	0572	4801597
 pb	569	0573	4801598
-entry	Table générale par ordre alphabétique		
+entry	Table générale par ordre alphabétique	3	
 pb	570	0574	4801599
 pb	571	0575	4801600
 pb	572	0576	4801601

@@ -1,10 +1,10 @@
 pb	[s. pag.]	0001	5556654
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5556655
 pb	[s. pag.]	0003	425867
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	1	0004	425868
-entry	perruque (hygiène)		
+entry	perruque (hygiène)	15	
 pb	2	0005	425869
 pb	3	0006	425870
 pb	4	0007	425871
@@ -20,14 +20,14 @@ pb	13	0016	425880
 pb	14	0017	425881
 pb	15	0018	425882
 pb	16	0019	425883
-entry	persicaire		
+entry	persicaire	1	
 pb	17	0020	425884
-entry	persil		
+entry	persil	2	
 pb	18	0021	425885
 pb	19	0022	425886
-entry	personées		
+entry	personées	1	
 pb	20	0023	425887
-entry	perspiration		
+entry	perspiration	15	
 pb	21	0024	425888
 pb	22	0025	425889
 pb	23	0026	425890
@@ -43,26 +43,26 @@ pb	32	0035	425899
 pb	33	0036	425900
 pb	34	0037	425901
 pb	35	0038	425902
-entry	perstriction		
-entry	perte		
+entry	perstriction	0	
+entry	perte	1	
 pb	36	0039	425903
-entry	perterébrante (douleur)		
-entry	perturbation		
+entry	perterébrante (douleur)	0	
+entry	perturbation	6	
 pb	37	0040	425904
 pb	38	0041	425905
 pb	39	0042	425906
 pb	40	0043	425907
 pb	41	0044	425908
 pb	42	0045	425909
-entry	perturbatrice (médecine)		
-entry	pertusion		
-entry	péruches (eaux minérales de)		
+entry	perturbatrice (médecine)	0	
+entry	pertusion	0	
+entry	péruches (eaux minérales de)	1	
 pb	43	0046	425910
-entry	pervenche		
+entry	pervenche	2	
 pb	44	0047	425911
 pb	45	0048	425912
-entry	perversion		
-entry	pesanteur (poids et masse)		
+entry	perversion	0	
+entry	pesanteur (poids et masse)	15	
 pb	46	0049	425913
 pb	47	0050	425914
 pb	48	0051	425915
@@ -78,10 +78,10 @@ pb	57	0060	425924
 pb	58	0061	425925
 pb	59	0062	425926
 pb	60	0063	425927
-entry	pèse - liqueur		
-entry	pésiols (eaux minérales de)		
+entry	pèse - liqueur	0	
+entry	pésiols (eaux minérales de)	1	
 pb	61	0064	425928
-entry	pessaire		
+entry	pessaire	11	
 pb	62	0065	425929
 pb	63	0066	425930
 pb	64	0067	425931
@@ -93,15 +93,15 @@ pb	69	0072	425936
 pb	70	0073	425937
 pb	71	0074	425938
 pb	72	0075	425939
-entry	peste		
+entry	peste	0	
 pb	[s. pag.]	0076	5556657
 pb	[s. pag.]	0077	425940
-entry	pessaires : explication de la planche		
+entry	pessaires : explication de la planche	0	
 pb	[s. pag.]	0078	425941
-entry	pessaire : planche		
+entry	pessaire : planche	0	
 pb	[s. pag.]	0079	5556658
 pb	73	0080	425942
-entry	peste		
+entry	peste	66	
 pb	74	0081	425943
 pb	75	0082	425944
 pb	76	0083	425945
@@ -168,7 +168,7 @@ pb	136	0143	426005
 pb	137	0144	426006
 pb	138	0145	426007
 pb	139	0146	426008
-entry	pestilentielle (fièvre)		
+entry	pestilentielle (fièvre)	37	
 pb	140	0147	426009
 pb	141	0148	426010
 pb	142	0149	426011
@@ -206,43 +206,43 @@ pb	173	0180	426042
 pb	174	0181	426043
 pb	175	0182	426044
 pb	176	0183	426045
-entry	pétacule		
-entry	pétasite		
+entry	pétacule	0	
+entry	pétasite	1	
 pb	177	0184	426046
-entry	pétéchial		
+entry	pétéchial	1	
 pb	178	0185	426047
-entry	pétéchies		
+entry	pétéchies	3	
 pb	179	0186	426048
 pb	180	0187	426049
 pb	181	0188	426050
-entry	péticulaire		
-entry	petit - chêne		
+entry	péticulaire	0	
+entry	petit - chêne	4	
 pb	182	0189	426051
 pb	183	0190	426052
 pb	184	0191	426053
 pb	185	0192	426054
 pb	186	0193	426055
-entry	pétreux		
-entry	pétrification		
+entry	pétreux	0	
+entry	pétrification	1	
 pb	187	0194	426056
-entry	pétrole		
-entry	pétro - pharyngien		
+entry	pétrole	0	
+entry	pétro - pharyngien	1	
 pb	188	0195	426057
-entry	peucédan		
+entry	peucédan	1	
 pb	189	0196	426058
-entry	peuplier		
+entry	peuplier	3	
 pb	190	0197	426059
 pb	191	0198	426060
 pb	192	0199	426061
-entry	peur		
+entry	peur	0	
 pb	193	0200	426062
-entry	phacoide		
-entry	phacose		
-entry	phacotes		
-entry	phagédénique		
+entry	phacoide	0	
+entry	phacose	0	
+entry	phacotes	0	
+entry	phagédénique	1	
 pb	194	0201	426063
-entry	phalacrose		
-entry	phalange		
+entry	phalacrose	0	
+entry	phalange	8	
 pb	195	0202	426064
 pb	196	0203	426065
 pb	197	0204	426066
@@ -251,15 +251,15 @@ pb	199	0206	426068
 pb	200	0207	426069
 pb	201	0208	426070
 pb	202	0209	426071
-entry	phalangette		
-entry	phalangien		
-entry	phalangine		
-entry	phalangose		
+entry	phalangette	0	
+entry	phalangien	0	
+entry	phalangine	0	
+entry	phalangose	1	
 pb	203	0210	426072
-entry	phantasme		
-entry	pharmaceutique (médecine)		
+entry	phantasme	0	
+entry	pharmaceutique (médecine)	1	
 pb	204	0211	426073
-entry	pharmacie		
+entry	pharmacie	38	
 pb	205	0212	426074
 pb	206	0213	426075
 pb	207	0214	426076
@@ -298,12 +298,12 @@ pb	239	0246	426108
 pb	240	0247	426109
 pb	241	0248	426110
 pb	242	0249	426111
-entry	pharmacien		
+entry	pharmacien	4	
 pb	243	0250	426112
 pb	244	0251	426113
 pb	245	0252	426114
 pb	246	0253	426115
-entry	pharmacologie		
+entry	pharmacologie	14	
 pb	247	0254	426116
 pb	248	0255	426117
 pb	249	0256	426118
@@ -318,8 +318,8 @@ pb	257	0264	426126
 pb	258	0265	426127
 pb	259	0266	426128
 pb	260	0267	426129
-entry	pharmacope		
-entry	pharmacopée		
+entry	pharmacope	0	
+entry	pharmacopée	7	
 pb	261	0268	426130
 pb	262	0269	426131
 pb	263	0270	426132
@@ -327,17 +327,17 @@ pb	264	0271	426133
 pb	265	0272	426134
 pb	266	0273	426135
 pb	267	0274	426136
-entry	pharmacopole		
-entry	pharmacoposie		
-entry	pharyngé		
-entry	pharyngographie		
-entry	pharyngologie		
-entry	pharyngo - palatin		
-entry	pharyngo - staphylin		
-entry	pharyngotome		
+entry	pharmacopole	0	
+entry	pharmacoposie	0	
+entry	pharyngé	0	
+entry	pharyngographie	0	
+entry	pharyngologie	0	
+entry	pharyngo - palatin	0	
+entry	pharyngo - staphylin	0	
+entry	pharyngotome	1	
 pb	268	0275	426137
-entry	pharyngotomie		
-entry	pharynx		
+entry	pharyngotomie	0	
+entry	pharynx	11	
 pb	269	0276	426138
 pb	270	0277	426139
 pb	271	0278	426140
@@ -349,16 +349,16 @@ pb	276	0283	426145
 pb	277	0284	426146
 pb	278	0285	426147
 pb	279	0286	426148
-entry	phaséole		
+entry	phaséole	2	
 pb	280	0287	426149
 pb	281	0288	426150
-entry	phellandre		
+entry	phellandre	3	
 pb	282	0289	426151
 pb	283	0290	426152
 pb	284	0291	426153
-entry	phénigme		
-entry	phénomène		
-entry	philiatre		
+entry	phénigme	0	
+entry	phénomène	0	
+entry	philiatre	7	
 pb	285	0292	426154
 pb	286	0293	426155
 pb	287	0294	426156
@@ -366,16 +366,16 @@ pb	288	0295	426157
 pb	289	0296	426158
 pb	290	0297	426159
 pb	291	0298	426160
-entry	philobiosie		
-entry	philodoxie médicale		
+entry	philobiosie	0	
+entry	philodoxie médicale	5	
 pb	292	0299	426161
 pb	293	0300	426162
 pb	294	0301	426163
 pb	295	0302	426164
 pb	296	0303	426165
-entry	philopatridalgie		
-entry	philopatridomanie		
-entry	philosophie médicale		
+entry	philopatridalgie	0	
+entry	philopatridomanie	0	
+entry	philosophie médicale	11	
 pb	297	0304	426166
 pb	298	0305	426167
 pb	299	0306	426168
@@ -388,7 +388,7 @@ pb	305	0312	426174
 pb	306	0313	426175
 pb	307	0314	426176
 pb	308	0315	426177
-entry	philtre		
+entry	philtre	14	
 pb	309	0316	426178
 pb	310	0317	426179
 pb	311	0318	426180
@@ -403,8 +403,8 @@ pb	319	0326	426188
 pb	320	0327	426189
 pb	321	0328	426190
 pb	322	0329	426191
-entry	phimosique		
-entry	phimosis		
+entry	phimosique	0	
+entry	phimosis	19	
 pb	323	0330	426192
 pb	324	0331	426193
 pb	325	0332	426194
@@ -424,8 +424,8 @@ pb	338	0345	426207
 pb	339	0346	426208
 pb	340	0347	426209
 pb	341	0348	426210
-entry	phlase		
-entry	phlébite		
+entry	phlase	0	
+entry	phlébite	22	
 pb	342	0349	426211
 pb	343	0350	426212
 pb	344	0351	426213
@@ -448,11 +448,11 @@ pb	360	0367	426229
 pb	361	0368	426230
 pb	362	0369	426231
 pb	363	0370	426232
-entry	phlébographie		
-entry	phlébologie		
-entry	phléborrhagie		
-entry	phlébotome		
-entry	phlébotomie		
+entry	phlébographie	0	
+entry	phlébologie	0	
+entry	phléborrhagie	0	
+entry	phlébotome	0	
+entry	phlébotomie	27	
 pb	364	0371	426233
 pb	365	0372	426234
 pb	366	0373	426235
@@ -480,10 +480,10 @@ pb	387	0394	426256
 pb	388	0395	426257
 pb	389	0396	426258
 pb	390	0397	426259
-entry	phlébotomiste		
-entry	phlegmagogue		
+entry	phlébotomiste	0	
+entry	phlegmagogue	1	
 pb	391	0398	426260
-entry	phlegmasie		
+entry	phlegmasie	64	
 pb	392	0399	426261
 pb	393	0400	426262
 pb	394	0401	426263
@@ -548,11 +548,11 @@ pb	452	0459	426321
 pb	453	0460	426322
 pb	454	0461	426323
 pb	455	0462	426324
-entry	phlegmatie		
-entry	phlegmatique		
-entry	phlegmatorrhagie		
-entry	phlegme		
-entry	phlegmon		
+entry	phlegmatie	0	
+entry	phlegmatique	0	
+entry	phlegmatorrhagie	0	
+entry	phlegme	0	
+entry	phlegmon	7	
 pb	456	0463	426325
 pb	457	0464	426326
 pb	458	0465	426327
@@ -560,7 +560,7 @@ pb	459	0466	426328
 pb	460	0467	426329
 pb	461	0468	426330
 pb	462	0469	426331
-entry	phlegmoneux		
+entry	phlegmoneux	15	
 pb	463	0470	426332
 pb	464	0471	426333
 pb	465	0472	426334
@@ -576,26 +576,26 @@ pb	474	0481	426343
 pb	475	0482	426344
 pb	476	0483	426345
 pb	477	0484	426346
-entry	phlogistique		
+entry	phlogistique	2	
 pb	478	0485	426347
 pb	479	0486	426348
-entry	phlogistiques (maladies)		
-entry	phlogode		
-entry	phlogopyre		
-entry	phlogose		
+entry	phlogistiques (maladies)	0	
+entry	phlogode	0	
+entry	phlogopyre	0	
+entry	phlogose	0	
 pb	480	0487	426349
-entry	phlyctenes		
+entry	phlyctenes	3	
 pb	481	0488	426350
 pb	482	0489	426351
 pb	483	0490	426352
-entry	phlycténoide		
-entry	phonacie		
-entry	phonation		
+entry	phlycténoide	0	
+entry	phonacie	0	
+entry	phonation	1	
 pb	484	0491	426353
-entry	phonique		
-entry	phonocamptique		
-entry	phosgène (gaz)		
-entry	phosphates		
+entry	phonique	0	
+entry	phonocamptique	0	
+entry	phosgène (gaz)	0	
+entry	phosphates	9	
 pb	485	0492	426354
 pb	486	0493	426355
 pb	487	0494	426356
@@ -605,8 +605,8 @@ pb	490	0497	426359
 pb	491	0498	426360
 pb	492	0499	426361
 pb	493	0500	426362
-entry	phosphites		
-entry	phosphore		
+entry	phosphites	0	
+entry	phosphore	28	
 pb	494	0501	426363
 pb	495	0502	426364
 pb	496	0503	426365
@@ -635,13 +635,13 @@ pb	518	0525	426387
 pb	519	0526	426388
 pb	520	0527	426389
 pb	521	0528	426390
-entry	phosphorenèse		
+entry	phosphorenèse	5	
 pb	522	0529	426391
 pb	523	0530	426392
 pb	524	0531	426393
 pb	525	0532	426394
 pb	526	0533	426395
-entry	phosphorescence		
+entry	phosphorescence	15	
 pb	527	0534	426396
 pb	528	0535	426397
 pb	529	0536	426398
@@ -657,16 +657,16 @@ pb	538	0545	426407
 pb	539	0546	426408
 pb	540	0547	426409
 pb	541	0548	426410
-entry	phosphoreux (acide)		
+entry	phosphoreux (acide)	1	
 pb	542	0549	426411
 pb	543	0550	426412
-entry	phosphorique (acide)		
+entry	phosphorique (acide)	3	
 pb	544	0551	426413
 pb	545	0552	426414
 pb	546	0553	426415
-entry	phosphures		
+entry	phosphures	1	
 pb	547	0554	426416
-entry	phrénésie		
+entry	phrénésie	29	
 pb	548	0555	426417
 pb	549	0556	426418
 pb	550	0557	426419
@@ -696,11 +696,11 @@ pb	573	0580	426442
 pb	574	0581	426443
 pb	575	0582	426444
 pb	576	0583	426445
-entry	phrénetique		
-entry	phrénique		
-entry	phrénisme		
-entry	phrénite		
-entry	phrenologie		
+entry	phrénetique	0	
+entry	phrénique	0	
+entry	phrénisme	0	
+entry	phrénite	0	
+entry	phrenologie	8	
 pb	577	0584	426446
 pb	578	0585	426447
 pb	579	0586	426448
@@ -709,4 +709,4 @@ pb	581	0588	426450
 pb	582	0589	426451
 pb	583	0590	426452
 pb	584	0591	426453
-entry	phricode		
+entry	phricode	0	

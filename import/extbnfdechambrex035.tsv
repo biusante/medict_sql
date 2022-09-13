@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4525332
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4525333
 pb	[s. pag.]	0003	4525334
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4525335
 pb	1	0005	4525336
-entry	Épidémies [Léon Colin]		
+entry	Épidémies [Léon Colin]	90	
 orth	Épidémies		
 pb	2	0006	4525337
 pb	3	0007	4525338
@@ -97,17 +97,17 @@ pb	88	0092	4525423
 pb	89	0093	4525424
 pb	90	0094	4525425
 pb	91	0095	4525426
-entry	Epidendrum [Ed. Lefèvre]		
+entry	Epidendrum [Ed. Lefèvre]	0	
 orth	Epidendrum		
-entry	Épiderme		
+entry	Épiderme	0	
 ref	Peau		
-entry	Épidermiques (Productions)		
+entry	Épidermiques (Productions)	0	
 ref	Peau		
 ref	Phanérophone		
 ref	Corne		
-entry	Épidermose [L. Hahn]		
+entry	Épidermose [L. Hahn]	0	
 orth	Épidermose		
-entry	Épididyme [Paul Reclus]		
+entry	Épididyme [Paul Reclus]	17	
 orth	Épididyme		
 pb	92	0096	4525427
 pb	93	0097	4525428
@@ -127,19 +127,19 @@ pb	106	0110	4525441
 pb	107	0111	4525442
 pb	108	0112	4525443
 pb	109	0113	4525444
-entry	Épididymite		
+entry	Épididymite	0	
 ref	Orchite		
-entry	Épigastrique (Artère) [L. Testut]		
+entry	Épigastrique (Artère) [L. Testut]	1	
 orth	Épigastrique (Artère)		
 pb	110	0114	4525445
-entry	Épigenèse [L. Hahn]		
+entry	Épigenèse [L. Hahn]	0	
 orth	Épigenèse		
-entry	Épiglotte		
+entry	Épiglotte	0	
 ref	Larynx		
-entry	Épignathes [L. Hahn]		
+entry	Épignathes [L. Hahn]	1	
 orth	Épignathes		
 pb	111	0115	4525446
-entry	Épilation [Ed. Juhel-Rénoy]		
+entry	Épilation [Ed. Juhel-Rénoy]	7	
 orth	Épilation		
 pb	112	0116	4525447
 pb	113	0117	4525448
@@ -148,11 +148,11 @@ pb	115	0119	4525450
 pb	116	0120	4525451
 pb	117	0121	4525452
 pb	118	0122	4525453
-entry	Épilatoires [Ed. Juhel-Rénoy]		
+entry	Épilatoires [Ed. Juhel-Rénoy]	2	
 orth	Épilatoires		
 pb	119	0123	4525454
 pb	120	0124	4525455
-entry	Épilepsie [Burlureaux]		
+entry	Épilepsie [Burlureaux]	101	
 orth	Épilepsie		
 pb	121	0125	4525456
 pb	122	0126	4525457
@@ -256,67 +256,67 @@ pb	219	0223	4525554
 pb	220	0224	4525555
 pb	221	0225	4525556
 pb	222	0226	4525557
-entry	Épilobe [Ed. Lefèvre]		
+entry	Épilobe [Ed. Lefèvre]	0	
 orth	Épilobe		
-entry	Epimedium [Ed. Lefèvre]		
+entry	Epimedium [Ed. Lefèvre]	0	
 orth	Epimedium		
-entry	Épimélis [Ed. Lefèvre]		
+entry	Épimélis [Ed. Lefèvre]	0	
 orth	Épimélis		
-entry	Épiméniédon [Ed. Lefèvre]		
+entry	Épiméniédon [Ed. Lefèvre]	0	
 orth	Épiméniédon		
-entry	Épinard [Ed. Lefèvre]		
+entry	Épinard [Ed. Lefèvre]	1	
 orth	Épinard		
 pb	223	0227	4525558
-entry	Épinay (Eau minérale de l')		
+entry	Épinay (Eau minérale de l')	0	
 ref	L'Épinay		
-entry	Épine (Guillaume-Joseph de l') [L. Hahn]		
+entry	Épine (Guillaume-Joseph de l') [L. Hahn]	0	
 orth	Épine (Guillaume-Joseph de l')		
-entry	Épine		
-entry	Épine. Botanique [Ed. Lefèvre]		
+entry	Épine	0	
+entry	Épine. Botanique [Ed. Lefèvre]	1	
 orth	Épine. Botanique		
 pb	224	0228	4525559
-entry	Épine-vinette		
-entry	Épine-vinette. Botanique [Ed. Lefèvre]		
+entry	Épine-vinette	0	
+entry	Épine-vinette. Botanique [Ed. Lefèvre]	1	
 orth	Épine-vinette. Botanique		
 pb	225	0229	4525560
-entry	Épine-vinette. Emploi médical [L. Hahn]		
+entry	Épine-vinette. Emploi médical [L. Hahn]	2	
 orth	Épine-vinette. Emploi médical		
 pb	226	0230	4525561
 pb	227	0231	4525562
-entry	Épinette [Ed. Lefèvre]		
+entry	Épinette [Ed. Lefèvre]	0	
 orth	Épinette		
-entry	Épingliers (Hygiène professionnelle) [Alexandre Layet]		
+entry	Épingliers (Hygiène professionnelle) [Alexandre Layet]	1	
 orth	Épingliers (Hygiène professionnelle)		
 pb	228	0232	4525563
-entry	Épinière [Ed. Lefèvre]		
+entry	Épinière [Ed. Lefèvre]	0	
 orth	Épinière		
-entry	Épinoche [H.-E. Sauvage]		
+entry	Épinoche [H.-E. Sauvage]	1	
 orth	Épinoche		
 pb	229	0233	4525564
-entry	Épipactis [Ed. Lefèvre]		
+entry	Épipactis [Ed. Lefèvre]	0	
 orth	Épipactis		
-entry	Épipétron [Ed. Lefèvre]		
+entry	Épipétron [Ed. Lefèvre]	0	
 orth	Épipétron		
-entry	Epiphegus [Ed. Lefèvre]		
+entry	Epiphegus [Ed. Lefèvre]	0	
 orth	Epiphegus		
-entry	Épiphora [L. Hahn]		
+entry	Épiphora [L. Hahn]	1	
 orth	Épiphora		
 pb	230	0234	4525565
-entry	Épiphyses		
+entry	Épiphyses	0	
 ref	Os		
-entry	Épiplocèle		
+entry	Épiplocèle	0	
 ref	Hernies		
-entry	Épiploïques (Appendices) [L. Hahn]		
+entry	Épiploïques (Appendices) [L. Hahn]	0	
 orth	Épiploïques (Appendices)		
-entry	Épiploon		
+entry	Épiploon	0	
 ref	Péritoine		
-entry	Épisaprophytes [Ed. Lefèvre]		
+entry	Épisaprophytes [Ed. Lefèvre]	0	
 orth	Épisaprophytes		
-entry	Épisine		
+entry	Épisine	0	
 ref	Araignées		
-entry	Épispadias		
+entry	Épispadias	0	
 ref	Hypospadias		
-entry	Épistaxis [Forgue, Boinet]		
+entry	Épistaxis [Forgue, Boinet]	29	
 orth	Épistaxis		
 pb	231	0235	4525566
 pb	232	0236	4525567
@@ -347,7 +347,7 @@ pb	256	0260	4525591
 pb	257	0261	4525592
 pb	258	0262	4525593
 pb	259	0263	4525594
-entry	Épithélial (Tissu) [J. Renaut]		
+entry	Épithélial (Tissu) [J. Renaut]	90	
 orth	Épithélial (Tissu)		
 pb	260	0264	4525595
 pb	261	0265	4525596
@@ -439,7 +439,7 @@ pb	346	0350	4525681
 pb	347	0351	4525682
 pb	348	0352	4525683
 pb	349	0353	4525684
-entry	Épithéliales (Tumeurs) [Albert Hénocque]		
+entry	Épithéliales (Tumeurs) [Albert Hénocque]	15	
 orth	Épithéliales (Tumeurs)		
 pb	350	0354	4525685
 pb	351	0355	4525686
@@ -456,83 +456,83 @@ pb	361	0365	4525696
 pb	362	0366	4525697
 pb	363	0367	4525698
 pb	364	0368	4525699
-entry	Épithyme [Ed. Lefèvre]		
+entry	Épithyme [Ed. Lefèvre]	0	
 orth	Épithyme		
-entry	Épitrochlée		
+entry	Épitrochlée	0	
 ref	Humérus		
-entry	Épitrochléo-cubital (Muscle) [L. Testut]		
+entry	Épitrochléo-cubital (Muscle) [L. Testut]	3	
 orth	Épitrochléo-cubital (Muscle)		
 pb	365	0369	4525700
 pb	366	0370	4525701
 pb	367	0371	4525702
-entry	Épizoaires		
+entry	Épizoaires	0	
 ref	Parasites		
-entry	Épizoïques		
+entry	Épizoïques	0	
 ref	Ricins		
-entry	Éponges		
-entry	Éponges. Zoologie [Ed. Lefèvre]		
+entry	Éponges	0	
+entry	Éponges. Zoologie [Ed. Lefèvre]	1	
 orth	Éponges. Zoologie		
 pb	368	0372	4525703
-entry	Éponges. Emploi [Charles Éloy]		
+entry	Éponges. Emploi [Charles Éloy]	2	
 orth	Éponges. Emploi		
 pb	369	0373	4525704
 pb	370	0374	4525705
-entry	Époophoron		
+entry	Époophoron	0	
 ref	Corps de Wolff		
-entry	Epps (John) [L. Hahn]		
+entry	Epps (John) [L. Hahn]	1	
 orth	Epps (John)		
 pb	371	0375	4525706
-entry	Éprault [Ed. Lefèvre]		
+entry	Éprault [Ed. Lefèvre]	0	
 orth	Éprault		
-entry	Epsom [A. Rotureau]		
+entry	Epsom [A. Rotureau]	0	
 orth	Epsom		
-entry	Epsom (Sel d')		
+entry	Epsom (Sel d')	0	
 ref	Magnésie		
-entry	Épurge [Ed. Lefèvre]		
+entry	Épurge [Ed. Lefèvre]	0	
 orth	Épurge		
-entry	Équarrissage (Chantiers d') [Alexandre Layet]		
+entry	Équarrissage (Chantiers d') [Alexandre Layet]	2	
 orth	Équarrissage (Chantiers d')		
 pb	372	0376	4525707
 pb	373	0377	4525708
 pb	374	0378	4525709
-entry	Équateur (République de l')		
+entry	Équateur (République de l')	0	
 ref	Colombie		
-entry	Équerepanar [Ed. Lefèvre]		
+entry	Équerepanar [Ed. Lefèvre]	0	
 orth	Équerepanar		
-entry	Équilibre		
+entry	Équilibre	0	
 ref	Statique		
-entry	Équille [H. E. Sauvage]		
+entry	Équille [H. E. Sauvage]	0	
 orth	Équille		
-entry	Équisétacées [Ed. Lefèvre]		
+entry	Équisétacées [Ed. Lefèvre]	1	
 orth	Équisétacées		
 pb	375	0379	4525710
-entry	Equisetum [Ed. Lefèvre]		
+entry	Equisetum [Ed. Lefèvre]	0	
 orth	Equisetum		
-entry	Érable [H. Baillon]		
+entry	Érable [H. Baillon]	1	
 orth	Érable		
 pb	376	0380	4525711
-entry	Eranthemum [Ed. Lefèvre]		
+entry	Eranthemum [Ed. Lefèvre]	0	
 orth	Eranthemum		
-entry	Érasistrate [L. Hahn]		
+entry	Érasistrate [L. Hahn]	2	
 orth	Érasistrate		
 pb	377	0381	4525712
 pb	378	0382	4525713
-entry	Érasmus (Johann-Heinrich) [L. Hahn]		
+entry	Érasmus (Johann-Heinrich) [L. Hahn]	0	
 orth	Érasmus (Johann-Heinrich)		
-entry	Éraste (Thomas) [L. Hahn]		
+entry	Éraste (Thomas) [L. Hahn]	1	
 orth	Éraste (Thomas)		
 pb	379	0383	4525714
-entry	Ercolani (Conte Giovanni-Battista) [L. Hahn]		
+entry	Ercolani (Conte Giovanni-Battista) [L. Hahn]	0	
 orth	Ercolani (Conte Giovanni-Battista)		
-entry	Erdelyi (Michael von) [L. Hahn]		
+entry	Erdelyi (Michael von) [L. Hahn]	0	
 orth	Erdelyi (Michael von)		
-entry	Erdl (Michael-Pius) [L. Hahn]		
+entry	Erdl (Michael-Pius) [L. Hahn]	1	
 orth	Erdl (Michael-Pius)		
 pb	380	0384	4525715
-entry	Erdmann (Les) [L. Hahn]		
+entry	Erdmann (Les) [L. Hahn]	0	
 orth	Erdmann (Les)		
-entry	Érectile		
-entry	Érectile. Anatomie [Ch. Debierre]		
+entry	Érectile	0	
+entry	Érectile. Anatomie [Ch. Debierre]	12	
 orth	Érectile. Anatomie		
 pb	381	0385	4525716
 pb	382	0386	4525717
@@ -546,7 +546,7 @@ pb	389	0393	4525724
 pb	390	0394	4525725
 pb	391	0395	4525726
 pb	392	0396	4525727
-entry	Érectile. Pathologie [Ch. Debierre]		
+entry	Érectile. Pathologie [Ch. Debierre]	27	
 orth	Érectile. Pathologie		
 pb	393	0397	4525728
 pb	394	0398	4525729
@@ -576,7 +576,7 @@ pb	417	0421	4525752
 pb	418	0422	4525753
 pb	419	0423	4525754
 pb	420	0424	4525755
-entry	Érection [Ch. Debierre]		
+entry	Érection [Ch. Debierre]	11	
 orth	Érection		
 pb	421	0425	4525756
 pb	422	0426	4525757
@@ -589,20 +589,20 @@ pb	428	0432	4525763
 pb	429	0433	4525764
 pb	430	0434	4525765
 pb	431	0435	4525766
-entry	Érèse (Chirurgie)		
+entry	Érèse (Chirurgie)	0	
 ref	Opérations		
-entry	Érèse (Zoologie)		
+entry	Érèse (Zoologie)	0	
 ref	Araignées		
-entry	Éréthisme [L. Hahn]		
+entry	Éréthisme [L. Hahn]	0	
 orth	Éréthisme		
-entry	Ergot de Morand		
+entry	Ergot de Morand	0	
 ref	Cerveau		
 ref	Ventricules		
-entry	Ergot de seigle		
-entry	Ergot de seigle. Botanique [Ed. Lefèvre]		
+entry	Ergot de seigle	0	
+entry	Ergot de seigle. Botanique [Ed. Lefèvre]	1	
 orth	Ergot de seigle. Botanique		
 pb	432	0436	4525767
-entry	Ergot de seigle. Thérapeutique [Charles Éloy]		
+entry	Ergot de seigle. Thérapeutique [Charles Éloy]	13	
 orth	Ergot de seigle. Thérapeutique		
 pb	433	0437	4525768
 pb	434	0438	4525769
@@ -617,111 +617,111 @@ pb	442	0446	4525777
 pb	443	0447	4525778
 pb	444	0448	4525779
 pb	445	0449	4525780
-entry	Ergotine		
-entry	Ergotine. Chimie [C. Lutz]		
+entry	Ergotine	0	
+entry	Ergotine. Chimie [C. Lutz]	1	
 orth	Ergotine. Chimie		
 pb	446	0450	4525781
-entry	Emploi		
+entry	Emploi	0	
 ref	Ergot de seigle		
-entry	Ergotinine		
-entry	Chimie [C. Lutz]		
+entry	Ergotinine	0	
+entry	Chimie [C. Lutz]	0	
 orth	Chimie		
-entry	Emploi		
+entry	Emploi	0	
 ref	Ergot de seigle		
-entry	Ergotisme [Charles Éloy]		
+entry	Ergotisme [Charles Éloy]	2	
 orth	Ergotisme		
 pb	447	0451	4525782
 pb	448	0452	4525783
-entry	Erhard (Les deux)		
+entry	Erhard (Les deux)	1	
 pb	449	0453	4525784
-entry	Erica [Ed. Lefèvre]		
+entry	Erica [Ed. Lefèvre]	1	
 orth	Erica		
 pb	450	0454	4525785
-entry	Éricacées ou Éricinées [Ed. Lefèvre]		
+entry	Éricacées ou Éricinées [Ed. Lefèvre]	0	
 orth	Éricacées ou Éricinées		
-entry	Erichsen (Johannes) [L. Hahn]		
+entry	Erichsen (Johannes) [L. Hahn]	1	
 orth	Erichsen (Johannes)		
 pb	451	0455	4525786
-entry	Érichinées		
+entry	Érichinées	0	
 ref	Éricacées		
-entry	Ericsson ou Eriksson (Gustaf) [L. Hahn]		
+entry	Ericsson ou Eriksson (Gustaf) [L. Hahn]	0	
 orth	Ericsson ou Eriksson (Gustaf)		
-entry	Érigéron [Ed. Lefèvre]		
+entry	Érigéron [Ed. Lefèvre]	1	
 orth	Érigéron		
 pb	452	0456	4525787
-entry	Érignes [L. Hahn]		
+entry	Érignes [L. Hahn]	0	
 orth	Érignes		
-entry	Ériocéphale [Ed. Lefèvre]		
+entry	Ériocéphale [Ed. Lefèvre]	0	
 orth	Ériocéphale		
 pb	453	0457	4525788
-entry	Ériode [E. Oustalet]		
+entry	Ériode [E. Oustalet]	0	
 orth	Ériode		
-entry	Eriodendron [Ed. Lefèvre]		
+entry	Eriodendron [Ed. Lefèvre]	1	
 orth	Eriodendron		
 pb	454	0458	4525789
-entry	Eriophoros [Ed. Lefèvre]		
+entry	Eriophoros [Ed. Lefèvre]	0	
 orth	Eriophoros		
-entry	Eriophorum [Ed. Lefèvre]		
+entry	Eriophorum [Ed. Lefèvre]	0	
 orth	Eriophorum		
-entry	Éripe		
+entry	Éripe	0	
 ref	Araignées		
-entry	Eriphion [Ed. Lefèvre]		
+entry	Eriphion [Ed. Lefèvre]	0	
 orth	Eriphion		
-entry	Erithale [Ed. Lefèvre]		
+entry	Erithale [Ed. Lefèvre]	1	
 orth	Erithale		
 pb	455	0459	4525790
-entry	Erlenbad (Eau minérale d') [A. Rotureau]		
+entry	Erlenbad (Eau minérale d') [A. Rotureau]	0	
 orth	Erlenbad (Eau minérale d')		
-entry	Erlenmeyer (Adolf-Albrecht) [L. Hahn]		
+entry	Erlenmeyer (Adolf-Albrecht) [L. Hahn]	1	
 orth	Erlenmeyer (Adolf-Albrecht)		
 pb	456	0460	4525791
-entry	Erman (Les deux) [L. Hahn]		
+entry	Erman (Les deux) [L. Hahn]	0	
 orth	Erman (Les deux)		
-entry	Ermengaud [L. Hahn]		
+entry	Ermengaud [L. Hahn]	1	
 orth	Ermengaud		
 pb	457	0461	4525792
-entry	Ermerins (Les) [L. Hahn]		
+entry	Ermerins (Les) [L. Hahn]	0	
 orth	Ermerins (Les)		
-entry	Erndtel ou Erndl (Christian Heinrich) [L. Hahn]		
+entry	Erndtel ou Erndl (Christian Heinrich) [L. Hahn]	0	
 orth	Erndtel ou Erndl (Christian Heinrich)		
-entry	Erodium [Ed. Lefèvre]		
+entry	Erodium [Ed. Lefèvre]	1	
 orth	Erodium		
 pb	458	0462	4525793
-entry	Eros [L. Hahn]		
+entry	Eros [L. Hahn]	0	
 orth	Eros		
-entry	Erotianus [L. Hahn]		
+entry	Erotianus [L. Hahn]	0	
 orth	Erotianus		
-entry	Érotomanie		
+entry	Érotomanie	0	
 ref	Aphrodisie		
 ref	Monomanie		
-entry	Err (Eau minéral d') [A. Rotureau]		
+entry	Err (Eau minéral d') [A. Rotureau]	1	
 orth	Err (Eau minéral d')		
 pb	459	0463	4525794
-entry	Eruca [Ed. Lefèvre]		
+entry	Eruca [Ed. Lefèvre]	0	
 orth	Eruca		
-entry	Erucago [Ed. Lefèvre]		
+entry	Erucago [Ed. Lefèvre]	0	
 orth	Erucago		
-entry	Erucastrum [Ed. Lefèvre]		
+entry	Erucastrum [Ed. Lefèvre]	0	
 orth	Erucastrum		
-entry	Éructation [L. Hahn]		
+entry	Éructation [L. Hahn]	0	
 orth	Éructation		
 pb	460	0464	4525795
-entry	Erupovel [Ed. Lefèvre]		
+entry	Erupovel [Ed. Lefèvre]	0	
 orth	Erupovel		
-entry	Erva [Ed. Lefèvre]		
+entry	Erva [Ed. Lefèvre]	0	
 orth	Erva		
-entry	Erviliens [F. Henneguy]		
+entry	Erviliens [F. Henneguy]	0	
 orth	Erviliens		
-entry	Ervum [Ed. Lefèvre]		
+entry	Ervum [Ed. Lefèvre]	0	
 orth	Ervum		
-entry	Erxleben (Johann-Christian-Polycarp) [L. Hahn]		
+entry	Erxleben (Johann-Christian-Polycarp) [L. Hahn]	1	
 orth	Erxleben (Johann-Christian-Polycarp)		
 pb	461	0465	4525796
-entry	Eryngium [Ed. Lefèvre]		
+entry	Eryngium [Ed. Lefèvre]	0	
 orth	Eryngium		
-entry	Erysimum		
+entry	Erysimum	0	
 ref	Velar		
-entry	Érysipèle [A. Vautrin, Paul Spillmann, L. Ganzinotty]		
+entry	Érysipèle [A. Vautrin, Paul Spillmann, L. Ganzinotty]	123	
 orth	Érysipèle		
 pb	462	0466	4525797
 pb	463	0467	4525798
@@ -846,10 +846,10 @@ pb	581	0585	4525916
 pb	582	0586	4525917
 pb	583	0587	4525918
 pb	584	0588	4525919
-entry	Érysiphé [Ed. Lefèvre]		
+entry	Érysiphé [Ed. Lefèvre]	1	
 orth	Érysiphé		
 pb	585	0589	4525920
-entry	Érythème [A. Pignot]		
+entry	Érythème [A. Pignot]	37	
 orth	Érythème		
 pb	586	0590	4525921
 pb	587	0591	4525922
@@ -888,116 +888,116 @@ pb	619	0623	4525954
 pb	620	0624	4525955
 pb	621	0625	4525956
 pb	622	0626	4525957
-entry	Érythrarsine [L. Hahn]		
+entry	Érythrarsine [L. Hahn]	1	
 orth	Érythrarsine		
 pb	623	0627	4525958
-entry	Érythrasma [Henri Fournier]		
+entry	Érythrasma [Henri Fournier]	4	
 orth	Érythrasma		
 pb	624	0628	4525959
 pb	625	0629	4525960
 pb	626	0630	4525961
 pb	627	0631	4525962
-entry	Érythrée		
-entry	Érythrée. Botanique [Ed. Lefèvre]		
+entry	Érythrée	0	
+entry	Érythrée. Botanique [Ed. Lefèvre]	1	
 orth	Érythrée. Botanique		
 pb	628	0632	4525963
-entry	Pharmacologie et Matière médicale		
+entry	Pharmacologie et Matière médicale	0	
 ref	Centaurée		
-entry	Erythrine		
-entry	Botanique [Ed. Lefèvre]		
+entry	Erythrine	0	
+entry	Botanique [Ed. Lefèvre]	0	
 orth	Botanique		
-entry	Érythrine ou Acide Érythrique		
-entry	Érythrine ou Acide Érythrique. Chimie [L. Hahn]		
+entry	Érythrine ou Acide Érythrique	0	
+entry	Érythrine ou Acide Érythrique. Chimie [L. Hahn]	1	
 orth	Érythrine ou Acide Érythrique. Chimie		
 pb	629	0633	4525964
-entry	Érythrite		
+entry	Érythrite	0	
 ref	Phycite		
-entry	Érythrocentaurine [L. Hahn]		
+entry	Érythrocentaurine [L. Hahn]	0	
 orth	Érythrocentaurine		
-entry	Érythrogène [L. Hahn]		
+entry	Érythrogène [L. Hahn]	0	
 orth	Érythrogène		
-entry	Érythroïde (Tunique)		
+entry	Érythroïde (Tunique)	0	
 ref	Crémaster		
 ref	Testicule		
-entry	Érythron [Ed. Lefèvre]		
+entry	Érythron [Ed. Lefèvre]	0	
 orth	Érythron		
-entry	Érythronium [Ed. Lefèvre]		
+entry	Érythronium [Ed. Lefèvre]	0	
 orth	Érythronium		
-entry	Érythropel (August-Christian) [L. Hahn]		
+entry	Érythropel (August-Christian) [L. Hahn]	1	
 orth	Érythropel (August-Christian)		
 pb	630	0634	4525965
-entry	Érythrophléine [L. Hahn]		
+entry	Érythrophléine [L. Hahn]	0	
 orth	Érythrophléine		
-entry	Érythrophlaeum [Ed. Lefèvre]		
+entry	Érythrophlaeum [Ed. Lefèvre]	0	
 orth	Érythrophlaeum		
-entry	Érythroprotide [L. Hahn]		
+entry	Érythroprotide [L. Hahn]	1	
 orth	Érythroprotide		
 pb	631	0635	4525966
-entry	Érythrorétine [L. Hahn]		
+entry	Érythrorétine [L. Hahn]	0	
 orth	Érythrorétine		
-entry	Érythrosine [L. Hahn]		
+entry	Érythrosine [L. Hahn]	0	
 orth	Érythrosine		
-entry	Érythroxylées [Ed. Lefèvre]		
+entry	Érythroxylées [Ed. Lefèvre]	0	
 orth	Érythroxylées		
-entry	Érythrozyme [L. Hahn]		
+entry	Érythrozyme [L. Hahn]	0	
 orth	Érythrozyme		
-entry	Érytroxylon [Ed. Lefèvre]		
+entry	Érytroxylon [Ed. Lefèvre]	0	
 orth	Érytroxylon		
-entry	Éryx [H.-E. Sauvage]		
+entry	Éryx [H.-E. Sauvage]	0	
 orth	Éryx		
-entry	Éryximaque [L. Hahn]		
+entry	Éryximaque [L. Hahn]	0	
 orth	Éryximaque		
-entry	Escaldas (Las) ou Les escaldes (Eaux minérales de) [A. Rotureau]		
+entry	Escaldas (Las) ou Les escaldes (Eaux minérales de) [A. Rotureau]	2	
 orth	Escaldas (Las) ou Les escaldes (Eaux minérales de)		
 pb	632	0636	4525967
 pb	633	0637	4525968
-entry	Escallonia [Ed. Lefèvre]		
+entry	Escallonia [Ed. Lefèvre]	0	
 orth	Escallonia		
-entry	Escargot [Ed. Lefèvre]		
+entry	Escargot [Ed. Lefèvre]	0	
 orth	Escargot		
-entry	Escarole [Ed. Lefèvre]		
+entry	Escarole [Ed. Lefèvre]	0	
 orth	Escarole		
-entry	Eschare [L. Hahn]		
+entry	Eschare [L. Hahn]	1	
 orth	Eschare		
 pb	634	0638	4525969
-entry	Escharotiques [L. Hahn]		
+entry	Escharotiques [L. Hahn]	0	
 orth	Escharotiques		
-entry	Eschenbach (Les deux) [L. Hahn]		
+entry	Eschenbach (Les deux) [L. Hahn]	1	
 orth	Eschenbach (Les deux)		
 pb	635	0639	4525970
-entry	Eschenmayer (Carl-August von) [L. Hahn]		
+entry	Eschenmayer (Carl-August von) [L. Hahn]	0	
 orth	Eschenmayer (Carl-August von)		
-entry	Eschricht (Daniel-Frederik) [L. Hahn]		
+entry	Eschricht (Daniel-Frederik) [L. Hahn]	1	
 orth	Eschricht (Daniel-Frederik)		
 pb	636	0640	4525971
-entry	Eschscholtz (Johann-Friedrich) [L. Hahn]		
+entry	Eschscholtz (Johann-Friedrich) [L. Hahn]	0	
 orth	Eschscholtz (Johann-Friedrich)		
-entry	Escluse (L')		
+entry	Escluse (L')	0	
 ref	L'Escluse		
-entry	Escobar (Les) [L. Hahn]		
+entry	Escobar (Les) [L. Hahn]	0	
 orth	Escobar (Les)		
-entry	Escoffier (Jean-Benoît) [L. Hahn]		
+entry	Escoffier (Jean-Benoît) [L. Hahn]	0	
 orth	Escoffier (Jean-Benoît)		
-entry	Escouloubre (Eaux minérales d') [A. Rotureau]		
+entry	Escouloubre (Eaux minérales d') [A. Rotureau]	1	
 orth	Escouloubre (Eaux minérales d')		
 pb	637	0641	4525972
-entry	Escourgeon [Ed. Lefèvre]		
+entry	Escourgeon [Ed. Lefèvre]	0	
 orth	Escourgeon		
-entry	Esculape [L. Hahn]		
+entry	Esculape [L. Hahn]	0	
 orth	Esculape		
-entry	Esculine		
+entry	Esculine	0	
 ref	Marronnier		
 pb	638	0642	4525973
-entry	Esculique (Acide)		
+entry	Esculique (Acide)	0	
 ref	Saponique		
-entry	Esenbeckia [Ed. Lefèvre]		
+entry	Esenbeckia [Ed. Lefèvre]	0	
 orth	Esenbeckia		
-entry	Eséré [Ed. Lefèvre]		
+entry	Eséré [Ed. Lefèvre]	0	
 orth	Eséré		
-entry	Ésérine		
-entry	Chimie [C. Lutz]		
+entry	Ésérine	0	
+entry	Chimie [C. Lutz]	0	
 orth	Chimie		
-entry	Ésérine. Thérapeutique [Ernest Labbée]		
+entry	Ésérine. Thérapeutique [Ernest Labbée]	9	
 orth	Ésérine. Thérapeutique		
 pb	639	0643	4525974
 pb	640	0644	4525975
@@ -1008,27 +1008,27 @@ pb	644	0648	4525979
 pb	645	0649	4525980
 pb	646	0650	4525981
 pb	647	0651	4525982
-entry	Eskimaux		
+entry	Eskimaux	0	
 ref	Esquimaux		
-entry	Esmarch (Bande d') [L. Hahn]		
+entry	Esmarch (Bande d') [L. Hahn]	0	
 orth	Esmarch (Bande d')		
-entry	Eslon (D')		
+entry	Eslon (D')	0	
 ref	D'Eslon		
-entry	Esocidés [H.-E. Sauvage]		
+entry	Esocidés [H.-E. Sauvage]	0	
 orth	Esocidés		
-entry	Espace perforant		
+entry	Espace perforant	0	
 ref	Cerveau		
-entry	Espadon [H.-E. Sauvage]		
+entry	Espadon [H.-E. Sauvage]	1	
 orth	Espadon		
 pb	648	0652	4525983
-entry	Esparaguera (Eaux minérales d')		
+entry	Esparaguera (Eaux minérales d')	0	
 ref	La Puda		
-entry	Esparcette [Ed. Lefèvre]		
+entry	Esparcette [Ed. Lefèvre]	0	
 orth	Esparcette		
-entry	Esparallosa (Juan) [L. Hahn]		
+entry	Esparallosa (Juan) [L. Hahn]	0	
 orth	Esparallosa (Juan)		
-entry	Esparron (Pierre-Jean-Baptiste) [L. Hahn]		
+entry	Esparron (Pierre-Jean-Baptiste) [L. Hahn]	0	
 orth	Esparron (Pierre-Jean-Baptiste)		
 pb	649	0653	4525984
-entry	Articles contenus dans le trente-cinquième volume (1re série)		
+entry	Articles contenus dans le trente-cinquième volume (1re série)	1	
 pb	650	0654	4525985

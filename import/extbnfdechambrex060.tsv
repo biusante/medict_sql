@@ -1,11 +1,11 @@
 pb	[s. pag.]	0001	4545029
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4545030
 pb	[s. pag.]	0003	4545031
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4545032
 pb	1	0005	4545033
-entry	Militaire (Profession-Hygiène) [G. Morache]		
+entry	Militaire (Profession-Hygiène) [G. Morache]	72	
 orth	Militaire (Profession-Hygiène)		
 pb	2	0006	4545034
 pb	3	0007	4545035
@@ -79,7 +79,7 @@ pb	70	0074	4545102
 pb	71	0075	4545103
 pb	72	0076	4545104
 pb	73	0077	4545105
-entry	Militaire (Service de santé) [G. Morache]		
+entry	Militaire (Service de santé) [G. Morache]	131	
 orth	Militaire (Service de santé)		
 pb	74	0078	4545106
 pb	75	0079	4545107
@@ -212,69 +212,69 @@ pb	201	0205	4545233
 pb	202	0206	4545234
 pb	203	0207	4545235
 pb	204	0208	4545236
-entry	Militaris Herba [G. Planchon]		
+entry	Militaris Herba [G. Planchon]	0	
 orth	Militaris Herba		
-entry	Milium [G. Planchon]		
+entry	Milium [G. Planchon]	0	
 orth	Milium		
-entry	Millar (John) [E. Beaugrand]		
+entry	Millar (John) [E. Beaugrand]	0	
 orth	Millar (John)		
 pb	205	0209	4545237
-entry	Millar (John) [Beaugrand]		
+entry	Millar (John) [Beaugrand]	0	
 orth	Millar (John)		
-entry	Millar (Richard) [E. Beaugrand]		
+entry	Millar (Richard) [E. Beaugrand]	0	
 orth	Millar (Richard)		
-entry	Millefeuille.. Planchon]		
+entry	Millefeuille.. Planchon]	0	
 ref	Achillée [G		
-entry	Millegraine [G. Planchon]		
+entry	Millegraine [G. Planchon]	0	
 orth	Millegraine		
-entry	Millepertuis [G. Planchon]		
+entry	Millepertuis [G. Planchon]	2	
 orth	Millepertuis		
 pb	206	0210	4545238
 pb	207	0211	4545239
-entry	Millepieds		
+entry	Millepieds	0	
 ref	Myricipodes		
-entry	Miller (James) [E. Beaugrand]		
+entry	Miller (James) [E. Beaugrand]	1	
 orth	Miller (James)		
 pb	208	0212	4545240
-entry	Milleria [G. Planchon]		
+entry	Milleria [G. Planchon]	0	
 orth	Milleria		
-entry	Millet.. Planchon]		
+entry	Millet.. Planchon]	0	
 ref	Panic [G		
-entry	Millingen (J.-G.) [A. Dureau]		
+entry	Millingen (J.-G.) [A. Dureau]	0	
 orth	Millingen (J.-G.)		
-entry	Millon (Auguste-Nicolas-Eugène) [E. Beaugrand]		
+entry	Millon (Auguste-Nicolas-Eugène) [E. Beaugrand]	1	
 orth	Millon (Auguste-Nicolas-Eugène)		
 pb	209	0213	4545241
-entry	Millot (Jacques-André) [A. Chéreau]		
+entry	Millot (Jacques-André) [A. Chéreau]	0	
 orth	Millot (Jacques-André)		
-entry	Milman (Sir Francis) [E. Beaugrand]		
+entry	Milman (Sir Francis) [E. Beaugrand]	1	
 orth	Milman (Sir Francis)		
 pb	210	0214	4545242
-entry	Mimosa [H. Baillon]		
+entry	Mimosa [H. Baillon]	1	
 orth	Mimosa		
 pb	211	0215	4545243
-entry	Mimulus [G. Planchon]		
+entry	Mimulus [G. Planchon]	1	
 orth	Mimulus		
 pb	212	0216	4545244
-entry	Mimusops [G. Planchon]		
+entry	Mimusops [G. Planchon]	1	
 orth	Mimusops		
 pb	213	0217	4545245
-entry	Minadous (Les deux frères) [E. Beaugrand]		
+entry	Minadous (Les deux frères) [E. Beaugrand]	1	
 orth	Minadous (Les deux frères)		
 pb	214	0218	4545246
-entry	Minderer (Raymond) [A. Chéreau]		
+entry	Minderer (Raymond) [A. Chéreau]	0	
 orth	Minderer (Raymond)		
 pb	215	0219	4545247
-entry	Minari.. Planchon]		
+entry	Minari.. Planchon]	0	
 ref	Pongamia [G		
-entry	Mine de Cobalt		
+entry	Mine de Cobalt	0	
 ref	Arsenic		
-entry	Minéraux [Amédée Dechambre]		
+entry	Minéraux [Amédée Dechambre]	0	
 orth	Minéraux		
-entry	Minerves [Amédée Dechambre]		
+entry	Minerves [Amédée Dechambre]	0	
 orth	Minerves		
 pb	216	0220	4545248
-entry	Mines. Mineurs (Hygiène publique et professionnelle) [E. Beaugrand]		
+entry	Mines. Mineurs (Hygiène publique et professionnelle) [E. Beaugrand]	36	
 orth	Mines. Mineurs (Hygiène publique et professionnelle)		
 pb	217	0221	4545249
 pb	218	0222	4545250
@@ -312,117 +312,117 @@ pb	249	0253	4545281
 pb	250	0254	4545282
 pb	251	0255	4545283
 pb	252	0256	4545284
-entry	Minetaris (Les)		
+entry	Minetaris (Les)	0	
 ref	Amérique		
-entry	Mingreliens		
+entry	Mingreliens	0	
 ref	Caucasiques (provinces)		
-entry	Minium		
+entry	Minium	0	
 ref	Plomb		
-entry	Minoratifs		
+entry	Minoratifs	0	
 ref	Laxatifs		
 ref	Purgatifs		
-entry	Minyanthe.. Planchon]		
+entry	Minyanthe.. Planchon]	0	
 ref	Ményanthe [G		
-entry	Minyantine		
+entry	Minyantine	0	
 ref	Inuline		
-entry	Miquel (Marcel-Marie) [H. Montanier]		
+entry	Miquel (Marcel-Marie) [H. Montanier]	0	
 orth	Miquel (Marcel-Marie)		
-entry	Miquel (Antoine) [H. Montanier]		
+entry	Miquel (Antoine) [H. Montanier]	1	
 orth	Miquel (Antoine)		
 pb	253	0257	4545285
-entry	Mirabelle de Corse.. Planchon]		
+entry	Mirabelle de Corse.. Planchon]	0	
 ref	Alkekenge [G		
-entry	Mirabelles		
+entry	Mirabelles	0	
 ref	Prunes		
-entry	Mirabilis [H. Baillon]		
+entry	Mirabilis [H. Baillon]	2	
 orth	Mirabilis		
 pb	254	0258	4545286
 pb	255	0259	4545287
-entry	Mirage [Amédée Dechambre]		
+entry	Mirage [Amédée Dechambre]	0	
 orth	Mirage		
-entry	Miral (Eaux minérales du) [A. Rotureau]		
+entry	Miral (Eaux minérales du) [A. Rotureau]	2	
 orth	Miral (Eaux minérales du)		
 pb	256	0260	4545288
 pb	257	0261	4545289
-entry	Miraval (Blas Alvarès) [E. Beaugrand]		
+entry	Miraval (Blas Alvarès) [E. Beaugrand]	0	
 orth	Miraval (Blas Alvarès)		
-entry	Mirdites		
+entry	Mirdites	0	
 ref	Albanie		
-entry	Miris (Les)		
+entry	Miris (Les)	0	
 ref	Inde		
-entry	Miriti [G. Planchon]		
+entry	Miriti [G. Planchon]	0	
 orth	Miriti		
-entry	Mirobalan		
+entry	Mirobalan	0	
 ref	Myrobalan		
-entry	Miroirs [C.-M. Gariel]		
+entry	Miroirs [C.-M. Gariel]	1	
 orth	Miroirs		
 pb	258	0262	4545290
-entry	Miroirs magiques		
+entry	Miroirs magiques	0	
 ref	Divination		
-entry	Miroitiers [Amédée Dechambre]		
+entry	Miroitiers [Amédée Dechambre]	0	
 orth	Miroitiers		
-entry	Mirospermum		
+entry	Mirospermum	0	
 ref	Myroxylon		
-entry	Misimee Teeta [G. Planchon]		
+entry	Misimee Teeta [G. Planchon]	0	
 orth	Misimee Teeta		
-entry	Missisagues (Les)		
+entry	Missisagues (Les)	0	
 ref	Canada		
-entry	Missulène		
+entry	Missulène	0	
 ref	Araignée		
-entry	Mistassins (Les)		
+entry	Mistassins (Les)	0	
 ref	Canada		
-entry	Miswack [Amédée Dechambre]		
+entry	Miswack [Amédée Dechambre]	1	
 orth	Miswack		
 pb	259	0263	4545291
-entry	Misy [E. Beaugrand]		
+entry	Misy [E. Beaugrand]	0	
 orth	Misy		
-entry	Mita [G. Planchon]		
+entry	Mita [G. Planchon]	0	
 orth	Mita		
-entry	Mitchill (Samuel) [E. Beaugrand]		
+entry	Mitchill (Samuel) [E. Beaugrand]	1	
 orth	Mitchill (Samuel)		
 pb	260	0264	4545292
-entry	Mites [A. Laboulbène]		
+entry	Mites [A. Laboulbène]	1	
 orth	Mites		
 pb	261	0265	4545293
-entry	Mithon [G. Planchon]		
+entry	Mithon [G. Planchon]	0	
 orth	Mithon		
 pb	262	0266	4545294
-entry	Mithridate [T. Gobley]		
+entry	Mithridate [T. Gobley]	0	
 orth	Mithridate		
-entry	Mitivié (Jean-Étienne-Frumenthal) [E. Beaugrand]		
+entry	Mitivié (Jean-Étienne-Frumenthal) [E. Beaugrand]	0	
 orth	Mitivié (Jean-Étienne-Frumenthal)		
-entry	Mitrulle (Valvule)		
+entry	Mitrulle (Valvule)	0	
 ref	Coeur		
-entry	Mitrula fries [Jacques Bertillon]		
+entry	Mitrula fries [Jacques Bertillon]	1	
 orth	Mitrula fries		
 pb	263	0267	4545295
-entry	Mitscherlich (Eilhard) [E. Beaugrand]		
+entry	Mitscherlich (Eilhard) [E. Beaugrand]	1	
 orth	Mitscherlich (Eilhard)		
 pb	264	0268	4545296
-entry	Mitte		
+entry	Mitte	0	
 ref	Fosses d'Aisances [Amédée Dechambre]		
-entry	Mixtion [J. Regnauld]		
+entry	Mixtion [J. Regnauld]	0	
 orth	Mixtion		
-entry	Mixtures [J. Regnauld]		
+entry	Mixtures [J. Regnauld]	0	
 orth	Mixtures		
-entry	Mocetènes (Les)		
+entry	Mocetènes (Les)	0	
 ref	Amérique [Amédée Dechambre]		
-entry	Moc-Moco [G. Planchon]		
+entry	Moc-Moco [G. Planchon]	0	
 orth	Moc-Moco		
 pb	265	0269	4545297
-entry	Mocobis, Mbocobis		
+entry	Mocobis, Mbocobis	0	
 ref	Amérique [Amédée Dechambre]		
-entry	Modira Caniram [G. Planchon]		
+entry	Modira Caniram [G. Planchon]	0	
 orth	Modira Caniram		
-entry	Moebius (Godefr.) [E. Beaugrand]		
+entry	Moebius (Godefr.) [E. Beaugrand]	0	
 orth	Moebius (Godefr.)		
-entry	Moegling (Christ.-Ludwig) [E. Beaugrand]		
+entry	Moegling (Christ.-Ludwig) [E. Beaugrand]	0	
 orth	Moegling (Christ.-Ludwig)		
-entry	Moehring (Paul-Henri-Gerhard) [A. Dureau]		
+entry	Moehring (Paul-Henri-Gerhard) [A. Dureau]	0	
 orth	Moehring (Paul-Henri-Gerhard)		
 pb	266	0270	4545298
-entry	Moelle épinière		
-entry	Moelle épinière. Anatomie [L.-H. Farabeuf]		
+entry	Moelle épinière	0	
+entry	Moelle épinière. Anatomie [L.-H. Farabeuf]	33	
 orth	Moelle épinière. Anatomie		
 pb	267	0271	4545299
 pb	268	0272	4545300
@@ -457,8 +457,8 @@ pb	296	0300	4545328
 pb	297	0301	4545329
 pb	298	0302	4545330
 pb	299	0303	4545331
-entry	Moelle allongée ou Bulbe rachidien		
-entry	Moelle allongée ou Bulbe rachidien. Anatomie [L.-H. Farabeuf]		
+entry	Moelle allongée ou Bulbe rachidien	0	
+entry	Moelle allongée ou Bulbe rachidien. Anatomie [L.-H. Farabeuf]	31	
 orth	Moelle allongée ou Bulbe rachidien. Anatomie		
 pb	300	0304	4545332
 pb	301	0305	4545333
@@ -491,7 +491,7 @@ pb	327	0331	4545359
 pb	328	0332	4545360
 pb	329	0333	4545361
 pb	330	0334	4545362
-entry	Moelle allongée ou Bulbe rachidien. Développement [Campana]		
+entry	Moelle allongée ou Bulbe rachidien. Développement [Campana]	13	
 orth	Moelle allongée ou Bulbe rachidien. Développement		
 pb	331	0335	4545363
 pb	332	0336	4545364
@@ -506,8 +506,8 @@ pb	340	0344	4545372
 pb	341	0345	4545373
 pb	342	0346	4545374
 pb	343	0347	4545375
-entry	Moelle épinière		
-entry	Moelle épinière. Physiologie [Vulpian]		
+entry	Moelle épinière	0	
+entry	Moelle épinière. Physiologie [Vulpian]	261	
 orth	Moelle épinière. Physiologie		
 pb	344	0348	4545376
 pb	345	0349	4545377
@@ -770,8 +770,8 @@ pb	601	0605	4545633
 pb	602	0606	4545634
 pb	603	0607	4545635
 pb	604	0608	4545636
-entry	Moelle allongée		
-entry	Moelle allongée. Physiologie [Laborde]		
+entry	Moelle allongée	0	
+entry	Moelle allongée. Physiologie [Laborde]	26	
 orth	Moelle allongée. Physiologie		
 pb	605	0609	4545637
 pb	606	0610	4545638
@@ -799,9 +799,9 @@ pb	627	0631	4545659
 pb	628	0632	4545660
 pb	629	0633	4545661
 pb	630	0634	4545662
-entry	Moelle épinière		
-entry	Pathologie		
-entry	Moelle épinière. Pathologie. Atrophie [Émile Bertin]		
+entry	Moelle épinière	0	
+entry	Pathologie	0	
+entry	Moelle épinière. Pathologie. Atrophie [Émile Bertin]	7	
 orth	Moelle épinière. Pathologie. Atrophie		
 pb	631	0635	4545663
 pb	632	0636	4545664
@@ -810,14 +810,14 @@ pb	634	0638	4545666
 pb	635	0639	4545667
 pb	636	0640	4545668
 pb	637	0641	4545669
-entry	Moelle épinière. Pathologie. Hypertrophie [Émile Bertin]		
+entry	Moelle épinière. Pathologie. Hypertrophie [Émile Bertin]	5	
 orth	Moelle épinière. Pathologie. Hypertrophie		
 pb	638	0642	4545670
 pb	639	0643	4545671
 pb	640	0644	4545672
 pb	641	0645	4545673
 pb	642	0646	4545674
-entry	Moelle épinière. Pathologie. Anémie et Ischémie [Émile Bertin]		
+entry	Moelle épinière. Pathologie. Anémie et Ischémie [Émile Bertin]	22	
 orth	Moelle épinière. Pathologie. Anémie et Ischémie		
 pb	643	0647	4545675
 pb	644	0648	4545676
@@ -841,10 +841,10 @@ pb	661	0665	4545693
 pb	662	0666	4545694
 pb	663	0667	4545695
 pb	664	0668	4545696
-entry	Des compressions lentes de la moelle épinière [Ch. Bouchard]		
+entry	Des compressions lentes de la moelle épinière [Ch. Bouchard]	0	
 orth	Des compressions lentes de la moelle épinière		
 pb	665	0669	4545697
-entry	Moelle épinière. Pathologie. Des compressions lentes de la moelle épinière [Bouchard]		
+entry	Moelle épinière. Pathologie. Des compressions lentes de la moelle épinière [Bouchard]	9	
 orth	Moelle épinière. Pathologie. Des compressions lentes de la moelle épinière		
 pb	666	0670	4545698
 pb	667	0671	4545699
@@ -855,7 +855,7 @@ pb	671	0675	4545703
 pb	672	0676	4545704
 pb	673	0677	4545705
 pb	674	0678	4545706
-entry	Moelle épinière. Pathologie. Inflammation [Bernheim]		
+entry	Moelle épinière. Pathologie. Inflammation [Bernheim]	77	
 orth	Moelle épinière. Pathologie. Inflammation		
 pb	675	0679	4545707
 pb	676	0680	4545708
@@ -934,7 +934,7 @@ pb	748	0752	4545780
 pb	749	0753	4545781
 pb	750	0754	4545782
 pb	751	0755	4545783
-entry	Moelle épinière. Pathologie. Ramollissement [Émile Bertin]		
+entry	Moelle épinière. Pathologie. Ramollissement [Émile Bertin]	24	
 orth	Moelle épinière. Pathologie. Ramollissement		
 pb	752	0756	4545784
 pb	753	0757	4545785
@@ -960,7 +960,7 @@ pb	772	0776	4545804
 pb	773	0777	4545805
 pb	774	0778	4545806
 pb	775	0779	4545807
-entry	Moelle épinière. Pathologie. Hémorrhagies rachidiennes [Bouchard]		
+entry	Moelle épinière. Pathologie. Hémorrhagies rachidiennes [Bouchard]	13	
 orth	Moelle épinière. Pathologie. Hémorrhagies rachidiennes		
 pb	776	0780	4545808
 pb	777	0781	4545809
@@ -976,10 +976,10 @@ pb	786	0790	4545818
 pb	787	0791	4545819
 pb	788	0792	4545820
 pb	789	0793	4545821
-entry	Addendum		
-entry	Moehsen (Johann-Karl-Wilhelm) [E. Beaugrand]		
+entry	Addendum	0	
+entry	Moehsen (Johann-Karl-Wilhelm) [E. Beaugrand]	0	
 orth	Moehsen (Johann-Karl-Wilhelm)		
 pb	[s. pag.]	0794	4545822
 pb	791	0795	4545823
-entry	Articles contenus dans le huitième volume (2e série.)		
+entry	Articles contenus dans le huitième volume (2e série.)	1	
 pb	792	0796	4545824

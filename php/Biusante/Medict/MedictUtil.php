@@ -27,6 +27,8 @@ class MedictUtil
     static public $pdo;
     /** Prepared statements shared between methods */
     static $q = array();
+    /** Des mots vides, toujours utiles */
+    static $stop;
     /** Table de correspondances betacode */
     static $grc_lat;
     /** Ordre des langues */
@@ -52,6 +54,8 @@ class MedictUtil
     public static function init()
     {
         self::$home = dirname(dirname(dirname(__DIR__))) . '/';
+        // Charger les mots vides
+        self::$stop = array_flip(explode("\n", file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'stop.csv')));
     }
 
     public static function home()
@@ -113,7 +117,7 @@ class MedictUtil
     /**
      * Charger une table avec des lignes tsv
      */
-    static function tsv_insert($file, $table, $separator="\t")
+    static function table($file, $table, $separator="\t")
     {
         // first line, colums names
         $handle = fopen($file, 'r');

@@ -1,35 +1,35 @@
 pb	[s. pag.]	0001	5577137
-entry	[Page de faux-titre]		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	5577138
-entry	[Page de titre]		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0003	5577139
-entry	Dictionnaire universel des Mines, Fossiles, et Fontaines Minérales de la France. Bibliographie Hydrologique & Supplément à ce qui a été rapporté sur les Fontaines Minérales de la France. Abbeville		
+entry	Dictionnaire universel des Mines, Fossiles, et Fontaines Minérales de la France. Bibliographie Hydrologique & Supplément à ce qui a été rapporté sur les Fontaines Minérales de la France. Abbeville	0	
 pb	6	0004	5577140
-entry	Abbeville		
-entry	Abbecourt ou Abecourt		
+entry	Abbeville	0	
+entry	Abbecourt ou Abecourt	0	
 pb	7	0005	5577141
-entry	Abein		
-entry	Aigle		
+entry	Abein	0	
+entry	Aigle	2	
 pb	8	0006	5577142
 pb	9	0007	5577143
-entry	Aigue-Perse		
+entry	Aigue-Perse	0	
 pb	10	0008	5577144
-entry	Aiguescaudes		
-entry	Aix en Provence		
+entry	Aiguescaudes	0	
+entry	Aix en Provence	2	
 pb	11	0009	5577145
 pb	12	0010	5577146
-entry	Aix en Dauphiné		
+entry	Aix en Dauphiné	0	
 pb	13	0011	5577147
-entry	Alais		
+entry	Alais	3	
 pb	14	0012	5577148
 pb	15	0013	5577149
 pb	16	0014	5577150
-entry	Alban (Saint)		
+entry	Alban (Saint)	1	
 pb	17	0015	5577151
-entry	Alet		
-entry	Alsace		
+entry	Alet	0	
+entry	Alsace	1	
 pb	18	0016	5577152
-entry	Amand (Saint)		
+entry	Amand (Saint)	13	
 pb	19	0017	5577153
 pb	20	0018	5577154
 pb	21	0019	5577155
@@ -43,9 +43,9 @@ pb	28	0026	5577162
 pb	29	0027	5577163
 pb	30	0028	5577164
 pb	31	0029	5577165
-entry	Ambonay		
+entry	Ambonay	0	
 pb	32	0030	5577166
-entry	Aquitaine ou Guyenne		
+entry	Aquitaine ou Guyenne	57	
 pb	33	0031	5577167
 pb	34	0032	5577168
 pb	35	0033	5577169
@@ -104,13 +104,13 @@ pb	87	0085	5577221
 pb	88	0086	5577222
 pb	89	0087	5577223
 pb	90	0088	5577224
-entry	Ardenne		
-entry	Argenson		
-entry	Arles		
+entry	Ardenne	0	
+entry	Argenson	0	
+entry	Arles	1	
 pb	91	0089	5577225
-entry	Attancourt		
+entry	Attancourt	1	
 pb	92	0090	5577226
-entry	Availles		
+entry	Availles	9	
 pb	93	0091	5577227
 pb	94	0092	5577228
 pb	95	0093	5577229
@@ -120,22 +120,22 @@ pb	98	0096	5577232
 pb	99	0097	5577233
 pb	100	0098	5577234
 pb	101	0099	5577235
-entry	Audinac		
+entry	Audinac	4	
 pb	102	0100	5577236
 pb	103	0101	5577237
 pb	104	0102	5577238
 pb	105	0103	5577239
-entry	Avenheim		
+entry	Avenheim	3	
 pb	106	0104	5577240
 pb	107	0105	5577241
 pb	108	0106	5577242
-entry	Avignon		
+entry	Avignon	5	
 pb	109	0107	5577243
 pb	110	0108	5577244
 pb	111	0109	5577245
 pb	112	0110	5577246
 pb	113	0111	5577247
-entry	Ax		
+entry	Ax	14	
 pb	114	0112	5577248
 pb	115	0113	5577249
 pb	116	0114	5577250
@@ -150,22 +150,22 @@ pb	124	0122	5577258
 pb	125	0123	5577259
 pb	126	0124	5577260
 pb	127	0125	5577261
-entry	Bagnieres		
+entry	Bagnieres	4	
 pb	128	0126	5577262
 pb	129	0127	5577263
 pb	130	0128	5577264
 pb	131	0129	5577265
-entry	Bagnols		
+entry	Bagnols	1	
 pb	132	0130	5577266
-entry	Baignolles		
+entry	Baignolles	1	
 pb	133	0131	5577267
-entry	Bains		
+entry	Bains	1	
 pb	134	0132	5577268
-entry	Balaruc		
+entry	Balaruc	1	
 pb	135	0133	5577269
-entry	Barbazan		
+entry	Barbazan	1	
 pb	136	0134	5577270
-entry	Bareges		
+entry	Bareges	6	
 pb	137	0135	5577271
 pb	138	0136	5577272
 pb	139	0137	5577273
@@ -173,8 +173,8 @@ pb	140	0138	5577274
 pb	141	0139	5577275
 pb	142	0140	5577276
 pb	143	0141	5577277
-entry	Béarn		
-entry	Beauvais		
+entry	Béarn	0	
+entry	Beauvais	8	
 pb	144	0142	5577278
 pb	145	0143	5577279
 pb	146	0144	5577280
@@ -183,12 +183,12 @@ pb	148	0146	5577282
 pb	149	0147	5577283
 pb	150	0148	5577284
 pb	151	0149	5577285
-entry	Belestat		
+entry	Belestat	1	
 pb	152	0150	5577286
-entry	Bordoire		
-entry	Bouillon		
+entry	Bordoire	0	
+entry	Bouillon	0	
 pb	153	0151	5577287
-entry	Boulidou		
+entry	Boulidou	9	
 pb	154	0152	5577288
 pb	155	0153	5577289
 pb	156	0154	5577290
@@ -198,68 +198,68 @@ pb	159	0157	5577293
 pb	160	0158	5577294
 pb	161	0159	5577295
 pb	162	0160	5577296
-entry	Bourbon-Lancy, Bourbon-L'Archambault		
+entry	Bourbon-Lancy, Bourbon-L'Archambault	2	
 pb	163	0161	5577297
 pb	164	0162	5577298
-entry	Bourbonne		
+entry	Bourbonne	5	
 pb	165	0163	5577299
 pb	166	0164	5577300
 pb	167	0165	5577301
 pb	168	0166	5577302
 pb	169	0167	5577303
-entry	Bourdeaux		
+entry	Bourdeaux	2	
 pb	170	0168	5577304
 pb	171	0169	5577305
 pb	172	0170	5577306
-entry	Bourges		
+entry	Bourges	2	
 pb	173	0171	5577307
 pb	174	0172	5577308
 pb	175	0173	5577309
-entry	Boursault		
-entry	Boyaval en Artois		
+entry	Boursault	0	
+entry	Boyaval en Artois	1	
 pb	176	0174	5577310
-entry	Braine		
-entry	Bretagne		
+entry	Braine	0	
+entry	Bretagne	1	
 pb	177	0175	5577311
-entry	Brucourt		
-entry	Bruyeres		
+entry	Brucourt	0	
+entry	Bruyeres	1	
 pb	178	0176	5577312
-entry	Bussang		
+entry	Bussang	1	
 pb	179	0177	5577313
-entry	Bussiare		
+entry	Bussiare	2	
 pb	180	0178	5577314
 pb	181	0179	5577315
-entry	Cambo		
+entry	Cambo	2	
 pb	182	0180	5577316
 pb	183	0181	5577317
 pb	184	0182	5577318
-entry	Capver		
-entry	Castellane		
+entry	Capver	0	
+entry	Castellane	0	
 pb	185	0183	5577319
-entry	Cauterets		
+entry	Cauterets	1	
 pb	186	0184	5577320
-entry	Château-La-Valliere		
+entry	Château-La-Valliere	0	
 pb	187	0185	5577321
-entry	Château-Thierry		
+entry	Château-Thierry	1	
 pb	188	0186	5577322
-entry	Chatenoy		
+entry	Chatenoy	4	
 pb	189	0187	5577323
 pb	190	0188	5577324
 pb	191	0189	5577325
 pb	192	0190	5577326
-entry	Chaude-Fons		
-entry	Chessey		
+entry	Chaude-Fons	0	
+entry	Chessey	1	
 pb	193	0191	5577327
-entry	Ciotat		
-entry	Classy		
+entry	Ciotat	0	
+entry	Classy	0	
 pb	194	0192	5577328
-entry	Colmars		
+entry	Colmars	0	
 pb	195	0193	5577329
-entry	Cranssac		
+entry	Cranssac	1	
 pb	196	0194	5577330
-entry	Cremieu		
+entry	Cremieu	0	
 pb	197	0195	5577331
-entry	Daniel		
+entry	Daniel	15	
 pb	198	0196	5577332
 pb	199	0197	5577333
 pb	200	0198	5577334
@@ -275,133 +275,133 @@ pb	209	0207	5577343
 pb	210	0208	5577344
 pb	211	0209	5577345
 pb	212	0210	5577346
-entry	Digne		
+entry	Digne	2	
 pb	213	0211	5577347
 pb	214	0212	5577348
-entry	Dinant		
+entry	Dinant	1	
 pb	215	0213	5577349
 pb	216	0214	5577350
-entry	Dorgues		
-entry	Encausse		
-entry	Epernay en Champagne		
+entry	Dorgues	0	
+entry	Encausse	0	
+entry	Epernay en Champagne	1	
 pb	217	0215	5577351
-entry	Eperviere		
-entry	Eschalles		
+entry	Eperviere	0	
+entry	Eschalles	0	
 pb	218	0216	5577352
-entry	Escot		
-entry	Evahon		
-entry	Fleche (la)		
+entry	Escot	0	
+entry	Evahon	0	
+entry	Fleche (la)	0	
 pb	219	0217	5577353
-entry	Fonforte		
+entry	Fonforte	0	
 pb	220	0218	5577354
-entry	Fontaine puante, fon de la Pégue et Fontaine de S. Felix de Paillère		
+entry	Fontaine puante, fon de la Pégue et Fontaine de S. Felix de Paillère	3	
 pb	221	0219	5577355
 pb	222	0220	5577356
 pb	223	0221	5577357
-entry	Fontenelle en Poitou		
+entry	Fontenelle en Poitou	2	
 pb	224	0222	5577358
 pb	225	0223	5577359
-entry	Fontestorbe		
+entry	Fontestorbe	3	
 pb	226	0224	5577360
 pb	227	0225	5577361
 pb	228	0226	5577362
-entry	Forges		
+entry	Forges	4	
 pb	229	0227	5577363
 pb	230	0228	5577364
 pb	231	0229	5577365
 pb	232	0230	5577366
-entry	Forviere		
+entry	Forviere	1	
 pb	233	0231	5577367
-entry	Fougeres		
-entry	Franche Comté		
+entry	Fougeres	0	
+entry	Franche Comté	2	
 pb	234	0232	5577368
 pb	235	0233	5577369
-entry	Gévaudan		
-entry	Godiniere		
-entry	Goussainville		
+entry	Gévaudan	0	
+entry	Godiniere	0	
+entry	Goussainville	1	
 pb	236	0234	5577370
-entry	Grenoble		
+entry	Grenoble	5	
 pb	237	0235	5577371
 pb	238	0236	5577372
 pb	239	0237	5577373
 pb	240	0238	5577374
 pb	241	0239	5577375
-entry	Greoux		
+entry	Greoux	1	
 pb	242	0240	5577376
-entry	Hacqueniere		
+entry	Hacqueniere	1	
 pb	243	0241	5577377
-entry	Hebecevron		
-entry	Herse		
+entry	Hebecevron	0	
+entry	Herse	1	
 pb	244	0242	5577378
-entry	Hermonville		
+entry	Hermonville	3	
 pb	245	0243	5577379
 pb	246	0244	5577380
 pb	247	0245	5577381
 pb	248	0246	5577382
-entry	Jaude		
+entry	Jaude	1	
 pb	249	0247	5577383
-entry	Jonas		
+entry	Jonas	0	
 pb	250	0248	5577384
-entry	Joannette		
+entry	Joannette	3	
 pb	251	0249	5577385
 pb	252	0250	5577386
 pb	253	0251	5577387
 pb	254	0252	5577388
-entry	Joncasse		
-entry	Jouanne		
-entry	Jouhe		
+entry	Joncasse	0	
+entry	Jouanne	0	
+entry	Jouhe	1	
 pb	255	0253	5577389
-entry	Isle-Adam		
-entry	La Malou		
+entry	Isle-Adam	0	
+entry	La Malou	2	
 pb	256	0254	5577390
 pb	257	0255	5577391
-entry	La Trauliere		
+entry	La Trauliere	0	
 pb	258	0256	5577392
-entry	Launay		
-entry	Laurent (Saint) en Vivarais		
+entry	Launay	0	
+entry	Laurent (Saint) en Vivarais	4	
 pb	259	0257	5577393
 pb	260	0258	5577394
 pb	261	0259	5577395
 pb	262	0260	5577396
-entry	Lengou		
+entry	Lengou	1	
 pb	263	0261	5577397
-entry	Linieres		
-entry	Littry		
+entry	Linieres	0	
+entry	Littry	2	
 pb	264	0262	5577398
 pb	265	0263	5577399
 pb	266	0264	5577400
-entry	Louvres		
+entry	Louvres	1	
 pb	267	0265	5577401
-entry	Louverot		
+entry	Louverot	0	
 pb	268	0266	5577402
-entry	Luxeuil		
+entry	Luxeuil	1	
 pb	269	0267	5577403
-entry	Maine		
+entry	Maine	1	
 pb	270	0268	5577404
-entry	Marc (Saint)		
-entry	Marnesse		
+entry	Marc (Saint)	0	
+entry	Marnesse	1	
 pb	271	0269	5577405
-entry	Marsac, près de Bourdeaux		
-entry	Martin de Fenouille (Saint)		
+entry	Marsac, près de Bourdeaux	0	
+entry	Martin de Fenouille (Saint)	3	
 pb	272	0270	5577406
 pb	273	0271	5577407
 pb	274	0272	5577408
-entry	Martres de Veyre		
+entry	Martres de Veyre	1	
 pb	275	0273	5577409
-entry	Mazamet		
-entry	Medicis		
-entry	Menitoue		
-entry	Mier 		
+entry	Mazamet	0	
+entry	Medicis	0	
+entry	Menitoue	0	
+entry	Mier 	0	
 pb	276	0274	5577410
-entry	Mier		
-entry	Moin		
-entry	Monfrin		
+entry	Mier	0	
+entry	Moin	0	
+entry	Monfrin	1	
 pb	277	0275	5577411
-entry	Molitz		
+entry	Molitz	1	
 pb	278	0276	5577412
-entry	Monbasq		
-entry	Monné		
-entry	Mont-d'Or		
+entry	Monbasq	0	
+entry	Monné	0	
+entry	Mont-d'Or	11	
 pb	279	0277	5577413
 pb	280	0278	5577414
 pb	281	0279	5577415
@@ -413,10 +413,10 @@ pb	286	0284	5577420
 pb	287	0285	5577421
 pb	288	0286	5577422
 pb	289	0287	5577423
-entry	Montmorot		
+entry	Montmorot	1	
 pb	290	0288	5577424
-entry	Mousson		
-entry	Nancy		
+entry	Mousson	0	
+entry	Nancy	8	
 pb	291	0289	5577425
 pb	292	0290	5577426
 pb	293	0291	5577427
@@ -425,47 +425,47 @@ pb	295	0293	5577429
 pb	296	0294	5577430
 pb	297	0295	5577431
 pb	298	0296	5577432
-entry	Navoz		
+entry	Navoz	0	
 pb	299	0297	5577433
-entry	Neri		
-entry	Niderbronn		
+entry	Neri	0	
+entry	Niderbronn	0	
 pb	300	0298	5577434
-entry	Nitaire (Saint)		
+entry	Nitaire (Saint)	1	
 pb	301	0299	5577435
-entry	Nossa		
+entry	Nossa	2	
 pb	302	0300	5577436
 pb	303	0301	5577437
-entry	Nuys		
+entry	Nuys	1	
 pb	304	0302	5577438
-entry	Nyer		
-entry	Olette		
+entry	Nyer	0	
+entry	Olette	1	
 pb	305	0303	5577439
-entry	Paris		
+entry	Paris	1	
 pb	306	0304	5577440
-entry	Parise (Saint)		
-entry	Passy		
+entry	Parise (Saint)	0	
+entry	Passy	3	
 pb	307	0305	5577441
 pb	308	0306	5577442
 pb	309	0307	5577443
-entry	Perault ou Peirols		
+entry	Perault ou Peirols	1	
 pb	310	0308	5577444
-entry	Penes		
-entry	Perray-Neuf		
+entry	Penes	0	
+entry	Perray-Neuf	0	
 pb	311	0309	5577445
-entry	Péruchés		
+entry	Péruchés	3	
 pb	312	0310	5577446
 pb	313	0311	5577447
 pb	314	0312	5577448
-entry	Peyret		
+entry	Peyret	1	
 pb	315	0313	5577449
-entry	Pierre (Saint)		
+entry	Pierre (Saint)	1	
 pb	316	0314	5577450
-entry	Plaine		
+entry	Plaine	3	
 pb	317	0315	5577451
 pb	318	0316	5577452
 pb	319	0317	5577453
 pb	320	0318	5577454
-entry	Plombieres		
+entry	Plombieres	28	
 pb	321	0319	5577455
 pb	322	0320	5577456
 pb	323	0321	5577457
@@ -494,38 +494,38 @@ pb	345	0343	5577479
 pb	346	0344	5577480
 pb	347	0345	5577481
 pb	348	0346	5577482
-entry	Pomaret		
+entry	Pomaret	3	
 pb	349	0347	5577483
 pb	350	0348	5577484
 pb	351	0349	5577485
-entry	Pont-de-Baret		
-entry	Pont-de-Camarez		
+entry	Pont-de-Baret	0	
+entry	Pont-de-Camarez	0	
 pb	352	0350	5577486
-entry	Pougues		
+entry	Pougues	1	
 pb	353	0351	5577487
-entry	Premeau		
+entry	Premeau	1	
 pb	354	0352	5577488
-entry	Preste		
+entry	Preste	3	
 pb	355	0353	5577489
 pb	356	0354	5577490
 pb	357	0355	5577491
-entry	Provins		
+entry	Provins	0	
 pb	358	0356	5577492
-entry	Pui de la Poix		
+entry	Pui de la Poix	6	
 pb	359	0357	5577493
 pb	360	0358	5577494
 pb	361	0359	5577495
 pb	362	0360	5577496
 pb	363	0361	5577497
 pb	364	0362	5577498
-entry	Rainette		
+entry	Rainette	1	
 pb	365	0363	5577499
-entry	Reine (Sainte)		
+entry	Reine (Sainte)	1	
 pb	366	0364	5577500
-entry	Rennes en Languedoc		
-entry	Repes		
+entry	Rennes en Languedoc	0	
+entry	Repes	1	
 pb	367	0365	5577501
-entry	Rheims		
+entry	Rheims	8	
 pb	368	0366	5577502
 pb	369	0367	5577503
 pb	370	0368	5577504
@@ -534,16 +534,16 @@ pb	372	0370	5577506
 pb	373	0371	5577507
 pb	374	0372	5577508
 pb	375	0373	5577509
-entry	Rieux		
+entry	Rieux	1	
 pb	376	0374	5577510
-entry	Rixheim		
-entry	Rochepozay		
-entry	Rosnay		
+entry	Rixheim	0	
+entry	Rochepozay	0	
+entry	Rosnay	1	
 pb	377	0375	5577511
-entry	Rouen		
-entry	Rouillasse		
+entry	Rouen	0	
+entry	Rouillasse	1	
 pb	378	0376	5577512
-entry	Roussillon		
+entry	Roussillon	20	
 pb	379	0377	5577513
 pb	380	0378	5577514
 pb	381	0379	5577515
@@ -564,27 +564,27 @@ pb	395	0393	5577529
 pb	396	0394	5577530
 pb	397	0395	5577531
 pb	398	0396	5577532
-entry	Saint-Allyre		
+entry	Saint-Allyre	1	
 pb	399	0397	5577533
-entry	Sainte-Anne		
-entry	Saint-Chef		
-entry	Saint-Denys-sur-Loire		
+entry	Sainte-Anne	0	
+entry	Saint-Chef	0	
+entry	Saint-Denys-sur-Loire	1	
 pb	400	0398	5577534
-entry	Saint-Jean-De-Seiragues		
-entry	Saint-Mars		
+entry	Saint-Jean-De-Seiragues	0	
+entry	Saint-Mars	0	
 pb	401	0399	5577535
-entry	Saint-Myon		
-entry	Saint-Pardoux		
+entry	Saint-Myon	0	
+entry	Saint-Pardoux	0	
 pb	402	0400	5577536
-entry	Saint-Remy-L'Honoré		
-entry	Sainte-Reine		
+entry	Saint-Remy-L'Honoré	0	
+entry	Sainte-Reine	1	
 pb	403	0401	5577537
 pb	404	0402	5577538
-entry	Saint-Santin		
-entry	Saint-Sauveur		
+entry	Saint-Santin	0	
+entry	Saint-Sauveur	1	
 pb	405	0403	5577539
-entry	Saint-Symphorien		
-entry	Salins		
+entry	Saint-Symphorien	0	
+entry	Salins	9	
 pb	406	0404	5577540
 pb	407	0405	5577541
 pb	408	0406	5577542
@@ -594,20 +594,20 @@ pb	411	0409	5577545
 pb	412	0410	5577546
 pb	413	0411	5577547
 pb	414	0412	5577548
-entry	Salmiere		
-entry	Sals		
+entry	Salmiere	0	
+entry	Sals	1	
 pb	415	0413	5577549
-entry	Sanfont		
-entry	Santhenay		
-entry	Sellez		
-entry	Seltz		
+entry	Sanfont	0	
+entry	Santhenay	0	
+entry	Sellez	0	
+entry	Seltz	1	
 pb	416	0414	5577550
-entry	Senlisses		
+entry	Senlisses	1	
 pb	417	0415	5577551
-entry	Sermaise		
+entry	Sermaise	0	
 pb	418	0416	5577552
-entry	Soncelle & Suet		
-entry	Sultzbach		
+entry	Soncelle & Suet	0	
+entry	Sultzbach	7	
 pb	419	0417	5577553
 pb	420	0418	5577554
 pb	421	0419	5577555
@@ -615,11 +615,11 @@ pb	422	0420	5577556
 pb	423	0421	5577557
 pb	424	0422	5577558
 pb	425	0423	5577559
-entry	Sultz		
+entry	Sultz	3	
 pb	426	0424	5577560
 pb	427	0425	5577561
 pb	428	0426	5577562
-entry	Sultzmatt		
+entry	Sultzmatt	11	
 pb	429	0427	5577563
 pb	430	0428	5577564
 pb	431	0429	5577565
@@ -631,46 +631,46 @@ pb	436	0434	5577570
 pb	437	0435	5577571
 pb	438	0436	5577572
 pb	439	0437	5577573
-entry	Surgeres		
+entry	Surgeres	0	
 pb	440	0438	5577574
-entry	Tercis		
-entry	Tintry		
-entry	Touillon		
-entry	Tournay		
+entry	Tercis	0	
+entry	Tintry	0	
+entry	Touillon	0	
+entry	Tournay	0	
 pb	441	0439	5577575
-entry	Vabres		
-entry	Valerre		
-entry	Vahls		
+entry	Vabres	0	
+entry	Valerre	0	
+entry	Vahls	4	
 pb	442	0440	5577576
 pb	443	0441	5577577
 pb	444	0442	5577578
 pb	445	0443	5577579
-entry	Valsbron ou Walsbronn		
+entry	Valsbron ou Walsbronn	3	
 pb	446	0444	5577580
 pb	447	0445	5577581
 pb	448	0446	5577582
 pb	449	0447	5577583
-entry	Varreins		
-entry	Vatweiler ou Wattweiller		
+entry	Varreins	0	
+entry	Vatweiler ou Wattweiller	5	
 pb	450	0448	5577584
 pb	451	0449	5577585
 pb	452	0450	5577586
 pb	453	0451	5577587
 pb	454	0452	5577588
-entry	Vaujour		
+entry	Vaujour	1	
 pb	455	0453	5577589
-entry	Vaugirard		
+entry	Vaugirard	6	
 pb	456	0454	5577590
 pb	457	0455	5577591
 pb	458	0456	5577592
 pb	459	0457	5577593
 pb	460	0458	5577594
 pb	461	0459	5577595
-entry	Vendres		
+entry	Vendres	3	
 pb	462	0460	5577596
 pb	463	0461	5577597
 pb	464	0462	5577598
-entry	Verberie		
+entry	Verberie	9	
 pb	465	0463	5577599
 pb	466	0464	5577600
 pb	467	0465	5577601
@@ -680,29 +680,29 @@ pb	470	0468	5577604
 pb	471	0469	5577605
 pb	472	0470	5577606
 pb	473	0471	5577607
-entry	Verdusan		
+entry	Verdusan	5	
 pb	474	0472	5577608
 pb	475	0473	5577609
 pb	476	0474	5577610
 pb	477	0475	5577611
 pb	478	0476	5577612
-entry	Vernet		
+entry	Vernet	1	
 pb	479	0477	5577613
 pb	480	0478	5577614
-entry	Vernon		
-entry	Veron		
-entry	Vesoul		
+entry	Vernon	0	
+entry	Veron	0	
+entry	Vesoul	2	
 pb	481	0479	5577615
 pb	482	0480	5577616
-entry	Vezelay		
+entry	Vezelay	1	
 pb	483	0481	5577617
-entry	Vic en Celadés		
+entry	Vic en Celadés	2	
 pb	484	0482	5577618
 pb	485	0483	5577619
 pb	486	0484	5577620
-entry	Vic-Le-Comte		
+entry	Vic-Le-Comte	1	
 pb	487	0485	5577621
-entry	Vichy		
+entry	Vichy	16	
 pb	488	0486	5577622
 pb	489	0487	5577623
 pb	490	0488	5577624
@@ -719,17 +719,17 @@ pb	500	0498	5577634
 pb	501	0499	5577635
 pb	502	0500	5577636
 pb	503	0501	5577637
-entry	Village-Des-Bains		
+entry	Village-Des-Bains	1	
 pb	504	0502	5577638
-entry	Villefranche		
+entry	Villefranche	1	
 pb	505	0503	5577639
-entry	Vitré		
+entry	Vitré	1	
 pb	506	0504	5577640
-entry	Vitry-Le-François		
-entry	Viussans		
+entry	Vitry-Le-François	0	
+entry	Viussans	1	
 pb	507	0505	5577641
-entry	Vivarés		
-entry	Usat		
+entry	Vivarés	0	
+entry	Usat	11	
 pb	508	0506	5577642
 pb	509	0507	5577643
 pb	510	0508	5577644
@@ -741,125 +741,125 @@ pb	515	0513	5577649
 pb	516	0514	5577650
 pb	517	0515	5577651
 pb	518	0516	5577652
-entry	Wattweiller		
-entry	Youset		
+entry	Wattweiller	0	
+entry	Youset	2	
 pb	519	0517	5577653
 pb	520	0518	5577654
 pb	[s. pag.]	0519	5577655
-entry	Préface pour le Supplément		
+entry	Préface pour le Supplément	3	
 pb	[s. pag.]	0520	5577656
 pb	[s. pag.]	0521	5577657
 pb	[s. pag.]	0522	5577658
 pb	I	0523	5577659
-entry	Observations sur les eaux en général		
+entry	Observations sur les eaux en général	0	
 pb	II	0524	5577660
-entry	Leçons de M. Geoffroy au Collège Royale sur les eaux minérales…De Aquarum medicatarum Galliae Natura, viribus et usu tractatio. Caput I. De Acidularum Natura		
+entry	Leçons de M. Geoffroy au Collège Royale sur les eaux minérales…De Aquarum medicatarum Galliae Natura, viribus et usu tractatio. Caput I. De Acidularum Natura	0	
 pb	III	0525	5577661
-entry	Caput I. De Acidularum Natura		
-entry	Articulus I. De prima classe Acidularum		
+entry	Caput I. De Acidularum Natura	0	
+entry	Articulus I. De prima classe Acidularum	0	
 pb	IV	0526	5577662
-entry	Paragraphus I		
+entry	Paragraphus I	0	
 pb	V	0527	5577663
-entry	Paragraphus II. De aquis Atholiensibus		
+entry	Paragraphus II. De aquis Atholiensibus	0	
 pb	VI	0528	5577664
-entry	Paragraphus III. De Aquis Passiacis veteribus		
-entry	Paragraphus IV De Aquis Avallensibus		
+entry	Paragraphus III. De Aquis Passiacis veteribus	0	
+entry	Paragraphus IV De Aquis Avallensibus	2	
 pb	VII	0529	5577665
 pb	VIII	0530	5577666
-entry	Articulus II. De secunda classe Acidularum. Paragraphus I De Aquis Forgensibus		
+entry	Articulus II. De secunda classe Acidularum. Paragraphus I De Aquis Forgensibus	0	
 pb	IX	0531	5577667
-entry	Paragraphus I De Aquis Forgensibus		
-entry	Paragraphus II. De aquis Pruvineis		
+entry	Paragraphus I De Aquis Forgensibus	0	
+entry	Paragraphus II. De aquis Pruvineis	1	
 pb	X	0532	5577668
-entry	Paragraphus III. De Aquis Rhotomagensibus Sancti Pauli		
+entry	Paragraphus III. De Aquis Rhotomagensibus Sancti Pauli	0	
 pb	XI	0533	5577669
-entry	Paragraphus IV. De Aquis Vallensibus, Scaturiginis Dominicae dictae		
-entry	Articulus III. De tertia classe Acidularum 		
+entry	Paragraphus IV. De Aquis Vallensibus, Scaturiginis Dominicae dictae	0	
+entry	Articulus III. De tertia classe Acidularum 	0	
 pb	XII	0534	5577670
-entry	Articulus III. De tertia classe Acidularum. Paragraphus I. De Aquis Claromontanis		
-entry	Paragraphus II. De Aquis Sampardufensibus		
+entry	Articulus III. De tertia classe Acidularum. Paragraphus I. De Aquis Claromontanis	0	
+entry	Paragraphus II. De Aquis Sampardufensibus	1	
 pb	XIII	0535	5577671
-entry	Paragraphus III. De Aquis Carmitensibus		
+entry	Paragraphus III. De Aquis Carmitensibus	0	
 pb	XIV	0536	5577672
-entry	Articulus IV. De quarta classe Acidularum		
-entry	Paragraphus I De Aquis Pugeacis		
+entry	Articulus IV. De quarta classe Acidularum	0	
+entry	Paragraphus I De Aquis Pugeacis	1	
 pb	XV	0537	5577673
-entry	Paragraphus II. De Aquis Samedulfensibus		
+entry	Paragraphus II. De Aquis Samedulfensibus	1	
 pb	XVI	0538	5577674
-entry	Paragraphus III. De Aquis Vallensibus		
+entry	Paragraphus III. De Aquis Vallensibus	2	
 pb	XVII	0539	5577675
 pb	XVIII	0540	5577676
-entry	Articulus		
+entry	Articulus	3	
 ref	De quinta classe Acidularum		
 pb	XIX	0541	5577677
 pb	XX	0542	5577678
 pb	XXI	0543	5577679
-entry	Articulus VI		
+entry	Articulus VI	0	
 pb	XXII	0544	5577680
-entry	Paragraphus I. De Aquis Abbatis Curianis		
+entry	Paragraphus I. De Aquis Abbatis Curianis	0	
 pb	XXIII	0545	5577681
-entry	Paragraphus II. De Aquis Corgirenonensibus		
-entry	Paragraphus III De Aquis Hacquinerianis		
+entry	Paragraphus II. De Aquis Corgirenonensibus	0	
+entry	Paragraphus III De Aquis Hacquinerianis	1	
 pb	XXIV	0546	5577682
-entry	Paragraphus IV. De Aquis Aoriolensibus, & Monasterio Claromontani		
+entry	Paragraphus IV. De Aquis Aoriolensibus, & Monasterio Claromontani	0	
 pb	XXV	0547	5577683
-entry	Paragraphus		
+entry	Paragraphus	0	
 ref	De Aquis Sanctiniacis		
 pb	XXVI	0548	5577684
-entry	Paragraphus VI		
+entry	Paragraphus VI	1	
 pb	XXVII	0549	5577685
-entry	Paragraphus VII. De Aqua Billetiana		
+entry	Paragraphus VII. De Aqua Billetiana	1	
 pb	XXVIII	0550	5577686
-entry	 Paragraphus VIII. De Aquis Cheniacis		
+entry	 Paragraphus VIII. De Aquis Cheniacis	1	
 pb	XXIX	0551	5577687
-entry	Paragraphus IX. De Aquis Attanturianis		
+entry	Paragraphus IX. De Aquis Attanturianis	0	
 pb	XXX	0552	5577688
-entry	Paragraphus X. De Aquis Sermasianis. Paragraphus XI. De Aquis Castrotheodoricianis		
+entry	Paragraphus X. De Aquis Sermasianis. Paragraphus XI. De Aquis Castrotheodoricianis	0	
 pb	XXXI	0553	5577689
-entry	Paragraphus XI. De Aquis Castrotheodoricianis		
-entry	Paragraphus XII. De Aquis Aquilinis		
+entry	Paragraphus XI. De Aquis Castrotheodoricianis	0	
+entry	Paragraphus XII. De Aquis Aquilinis	0	
 pb	XXXII	0554	5577690
-entry	Paragraphus XIII. De Aquis Dinantianis		
-entry	Paragraphus XIV. De Aquis Scarletiis		
+entry	Paragraphus XIII. De Aquis Dinantianis	0	
+entry	Paragraphus XIV. De Aquis Scarletiis	1	
 pb	XXXIII	0555	5577691
-entry	Paragraphus XV. De Aquis Sanfirminis		
+entry	Paragraphus XV. De Aquis Sanfirminis	2	
 pb	XXXIV	0556	5577692
 pb	XXXV	0557	5577693
-entry	Paragraphus XVI. De Aquis Segraeis		
+entry	Paragraphus XVI. De Aquis Segraeis	1	
 pb	XXXVI	0558	5577694
-entry	Paragraphus XVII. De Aquis Sangondulfensibus		
+entry	Paragraphus XVII. De Aquis Sangondulfensibus	1	
 pb	XXXVII	0559	5577695
 pb	XXXVIII	0560	5577696
-entry	Paragraphus XVIII. De Aquis Tongrensibus, gallice, Eaux de Tongres		
+entry	Paragraphus XVIII. De Aquis Tongrensibus, gallice, Eaux de Tongres	1	
 pb	XXXIX	0561	5577697
-entry	Paragraphus XIX. De Aquis Passiacis recentibus		
+entry	Paragraphus XIX. De Aquis Passiacis recentibus	3	
 pb	XL	0562	5577698
 pb	XLI	0563	5577699
 pb	XLII	0564	5577700
-entry	Caput II. De Acidularum Viribus		
+entry	Caput II. De Acidularum Viribus	0	
 pb	XLIII	0565	5577701
-entry	Caput III. De Acidularum Usu		
+entry	Caput III. De Acidularum Usu	1	
 pb	XLIV	0566	5577702
 pb	XLV	0567	5577703
-entry	Notices particulières sur les Eaux Minérales. Notice. Sur celles de Lorraine, tirée du Vallerius Lotharingiae		
+entry	Notices particulières sur les Eaux Minérales. Notice. Sur celles de Lorraine, tirée du Vallerius Lotharingiae	1	
 pb	XLVI	0568	5577704
 pb	XLVII	0569	5577705
-entry	Note tirée des papiers de M. Gormand, Médecin à Nancy, sur les Fontaines Minérales de la Lorraine, qui sont peu connues, & sur celles dont on n'a encore aucune analyse		
+entry	Note tirée des papiers de M. Gormand, Médecin à Nancy, sur les Fontaines Minérales de la Lorraine, qui sont peu connues, & sur celles dont on n'a encore aucune analyse	0	
 pb	XLVIII	0570	5577706
-entry	Extrait de l'avant coureur, année1769. Sur la Fontaine minérale de Bilazay, en Poitou		
+entry	Extrait de l'avant coureur, année1769. Sur la Fontaine minérale de Bilazay, en Poitou	1	
 pb	XLIX	0571	5577707
-entry	Notice sur les Eaux de Tarraxachon, de la Ferriere, & d'Ogeu, communiquée par M. Missa depuis l'impression de ce Dictionnaire		
+entry	Notice sur les Eaux de Tarraxachon, de la Ferriere, & d'Ogeu, communiquée par M. Missa depuis l'impression de ce Dictionnaire	0	
 pb	L	0572	5577708
-entry	Notice sur les Eaux de Montmorency, par le P. Cotte de l'Oratoire, extraite de l'Introduction à la Minéralogie, par M. Buquet		
-entry	Annonce d'une Source d'Eau Minérale à Amiens, tirée de la Gazette D'agriculture 1772		
+entry	Notice sur les Eaux de Montmorency, par le P. Cotte de l'Oratoire, extraite de l'Introduction à la Minéralogie, par M. Buquet	0	
+entry	Annonce d'une Source d'Eau Minérale à Amiens, tirée de la Gazette D'agriculture 1772	1	
 pb	LI	0573	5577709
-entry	Bibliographie hydrologique de la France, en général		
+entry	Bibliographie hydrologique de la France, en général	5	
 pb	LII	0574	5577710
 pb	LIII	0575	5577711
 pb	LIV	0576	5577712
 pb	LV	0577	5577713
 pb	LVI	0578	5577714
-entry	Précis sur les Eaux minérales		
+entry	Précis sur les Eaux minérales	28	
 pb	LVII	0579	5577715
 pb	LVIII	0580	5577716
 pb	LIX	0581	5577717
@@ -889,171 +889,171 @@ pb	LXXXII	0604	5577740
 pb	LXXXIII	0605	5577741
 pb	LXXXIV	0606	5577742
 pb	LXXXV	0607	5577743
-entry	Friderici Hoffmanni Dissertatio, de Elementis aquarum mineralium recte dijudicandis & examinandis. Proemium		
+entry	Friderici Hoffmanni Dissertatio, de Elementis aquarum mineralium recte dijudicandis & examinandis. Proemium	2	
 pb	LXXXVI	0608	5577744
 pb	LXXXVII	0609	5577745
 pb	LXXXVIII	0610	5577746
-entry	Paragraphus I		
-entry	Paragraphus II		
+entry	Paragraphus I	0	
+entry	Paragraphus II	1	
 pb	LXXXIX	0611	5577747
-entry	Paragraphus III		
+entry	Paragraphus III	1	
 pb	XC	0612	5577748
-entry	Paragraphus IV		
+entry	Paragraphus IV	0	
 pb	XIC	0613	5577749
-entry	Paragraphus V		
-entry	Paragraphus VI		
+entry	Paragraphus V	0	
+entry	Paragraphus VI	1	
 pb	XIIC	0614	5577750
-entry	Paragraphus VII		
+entry	Paragraphus VII	1	
 pb	XIIIC	0615	5577751
-entry	Paragraphus VIII		
-entry	Paragraphus IX		
+entry	Paragraphus VIII	0	
+entry	Paragraphus IX	1	
 pb	XIVC	0616	5577752
-entry	Paragraphus X		
+entry	Paragraphus X	1	
 pb	XVC	0617	5577753
-entry	Paragraphus XI		
-entry	Paragraphus XII		
+entry	Paragraphus XI	0	
+entry	Paragraphus XII	1	
 pb	XCIV	0618	5577754
-entry	Paragraphus XIII		
+entry	Paragraphus XIII	1	
 pb	XCVII	0619	5577755
-entry	Paragraphus XIV		
+entry	Paragraphus XIV	1	
 pb	XCVIII	0620	5577756
-entry	Paragraphus XV		
-entry	Paragraphus XVI		
+entry	Paragraphus XV	0	
+entry	Paragraphus XVI	1	
 pb	XCIX	0621	5577757
-entry	Paragraphus XVII		
+entry	Paragraphus XVII	1	
 pb	C	0622	5577758
-entry	Paragraphus XVIII		
+entry	Paragraphus XVIII	1	
 pb	CI	0623	5577759
-entry	Paragraphus XIX		
-entry	Paragraphus XX		
+entry	Paragraphus XIX	0	
+entry	Paragraphus XX	1	
 pb	CII	0624	5577760
-entry	Paragraphus XXI		
-entry	Paragraphus XXII		
+entry	Paragraphus XXI	0	
+entry	Paragraphus XXII	1	
 pb	CIII	0625	5577761
-entry	Paragraphus XXIII		
-entry	Paragraphus XXIV		
+entry	Paragraphus XXIII	0	
+entry	Paragraphus XXIV	1	
 pb	CIV	0626	5577762
-entry	Paragraphus XXV		
+entry	Paragraphus XXV	0	
 pb	CV	0627	5577763
-entry	Paragraphus XXVI		
-entry	Paragraphus XXVII		
-entry	Paragraphus XXVIII		
+entry	Paragraphus XXVI	0	
+entry	Paragraphus XXVII	0	
+entry	Paragraphus XXVIII	1	
 pb	CVI	0628	5577764
-entry	Paragraphus XXIX		
+entry	Paragraphus XXIX	1	
 pb	CVII	0629	5577765
-entry	Paragraphus XXX		
-entry	Paragraphus XXXI		
-entry	Paragraphus XXXII		
+entry	Paragraphus XXX	0	
+entry	Paragraphus XXXI	0	
+entry	Paragraphus XXXII	1	
 pb	CVIII	0630	5577766
-entry	Paragraphus XXXIII		
-entry	Paragraphus XXXIV		
+entry	Paragraphus XXXIII	0	
+entry	Paragraphus XXXIV	1	
 pb	CIX	0631	5577767
-entry	Paragraphus XXXV		
-entry	Paragraphus XXXVI		
+entry	Paragraphus XXXV	0	
+entry	Paragraphus XXXVI	1	
 pb	CX	0632	5577768
-entry	Paragraphus XXXVII		
-entry	Paragraphus XXXVIII		
+entry	Paragraphus XXXVII	0	
+entry	Paragraphus XXXVIII	0	
 pb	CXI	0633	5577769
-entry	Paragraphus XXXIX		
-entry	Paragraphus XL		
-entry	Paragraphus XLI		
+entry	Paragraphus XXXIX	0	
+entry	Paragraphus XL	0	
+entry	Paragraphus XLI	1	
 pb	CXII	0634	5577770
-entry	Paragraphus XLII		
+entry	Paragraphus XLII	0	
 pb	CXIII	0635	5577771
-entry	Paragraphus XLIII		
-entry	Paragraphus XLIV		
+entry	Paragraphus XLIII	0	
+entry	Paragraphus XLIV	1	
 pb	CXIV	0636	5577772
-entry	Paragraphus XLV		
-entry	Paragraphus XLVI		
+entry	Paragraphus XLV	0	
+entry	Paragraphus XLVI	1	
 pb	CXV	0637	5577773
-entry	Paragraphus XLVII		
-entry	Paragraphus XLVIII		
+entry	Paragraphus XLVII	0	
+entry	Paragraphus XLVIII	1	
 pb	CXVI	0638	5577774
-entry	Paragraphus XLIX		
-entry	Paragraphus L		
+entry	Paragraphus XLIX	0	
+entry	Paragraphus L	1	
 pb	CXVII	0639	5577775
-entry	Paragraphus LI		
+entry	Paragraphus LI	1	
 pb	CXVIII	0640	5577776
-entry	Paragraphus LIII		
+entry	Paragraphus LIII	1	
 pb	CXIX	0641	5577777
-entry	Paragraphus LIV		
+entry	Paragraphus LIV	1	
 pb	CXX	0642	5577778
-entry	Paragraphus LV		
+entry	Paragraphus LV	0	
 pb	CXXI	0643	5577779
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	5	
 pb	CXXII	0644	5577780
 pb	CXXIII	0645	5577781
 pb	CXXIV	0646	5577782
 pb	CXXV	0647	5577783
 pb	CXXVI	0648	5577784
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXVII	0649	5577785
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXVIII	0650	5577786
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXIX	0651	5577787
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXX	0652	5577788
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXI	0653	5577789
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXII	0654	5577790
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXIII	0655	5577791
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXIV	0656	5577792
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXV	0657	5577793
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXVI	0658	5577794
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXVII	0659	5577795
-entry	Méthode générale d'analyser les eaux minérales par M Coste		
-entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet		
+entry	Méthode générale d'analyser les eaux minérales par M Coste	0	
+entry	Dissertation sur la meilleure méthode d'analyser les Eaux Minérales, par M. Monnet	0	
 pb	CXXXVIII	0660	5577796
-entry	Extrait d'un mémoire de M Leroy Pour obtenir des Eaux Thermales artificielles		
+entry	Extrait d'un mémoire de M Leroy Pour obtenir des Eaux Thermales artificielles	4	
 pb	CXXXIX	0661	5577797
 pb	CXL	0662	5577798
 pb	CXLI	0663	5577799
 pb	CXLII	0664	5577800
 pb	CXLIII	0665	5577801
-entry	Méthode Pour faire des Eaux Artificielles Minérales, selon M Geoffroy		
+entry	Méthode Pour faire des Eaux Artificielles Minérales, selon M Geoffroy	2	
 pb	CXLIV	0666	5577802
 pb	CXLV	0667	5577803
 pb	CXLVI	0668	5577804
-entry	Sentiment de M Barbeu Dubourg sur une certaine Eau Minérale Artificielle		
+entry	Sentiment de M Barbeu Dubourg sur une certaine Eau Minérale Artificielle	1	
 pb	CXLVII	0669	5577805
 pb	CXLVIII	0670	5577806
-entry	Extrait sur la thèse de M Laflize sur les eaux de Nancy. De Aquis Nanceianis. Paragraphus I		
-entry	Paragraphus II		
+entry	Extrait sur la thèse de M Laflize sur les eaux de Nancy. De Aquis Nanceianis. Paragraphus I	0	
+entry	Paragraphus II	1	
 pb	CXLIX	0671	5577807
-entry	Paragraphus III		
-entry	Paragraphus IV		
+entry	Paragraphus III	0	
+entry	Paragraphus IV	1	
 pb	CL	0672	5577808
-entry	Paragraphus V		
-entry	Paragraphus VI		
+entry	Paragraphus V	0	
+entry	Paragraphus VI	1	
 pb	CLI	0673	5577809
-entry	Paragraphus VII		
-entry	Paragraphus VIII		
+entry	Paragraphus VII	0	
+entry	Paragraphus VIII	1	
 pb	CLII	0674	5577810
-entry	Paragraphus IX		
-entry	Paragraphus X		
-entry	Paragraphus XI		
+entry	Paragraphus IX	0	
+entry	Paragraphus X	0	
+entry	Paragraphus XI	1	
 pb	CLIII	0675	5577811
-entry	Paragraphus XII		
+entry	Paragraphus XII	1	
 pb	CLIV	0676	5577812
 pb	CLV	0677	5577813
-entry	Liste des différents endroits ou se trouvent les Eaux Minérales dont il est fait mention dans le premier et second volume de cet ouvrage		
+entry	Liste des différents endroits ou se trouvent les Eaux Minérales dont il est fait mention dans le premier et second volume de cet ouvrage	6	
 pb	CLVI	0678	5577814
 pb	CLVII	0679	5577815
 pb	CLVIII	0680	5577816
@@ -1061,6 +1061,6 @@ pb	CLIX	0681	5577817
 pb	CLX	0682	5577818
 pb	CLXI	0683	5577819
 pb	CLXII	0684	5577820
-entry	Table générale		
+entry	Table générale	2	
 pb	CLXIII	0685	5577821
 pb	CLXIV	0686	5577822

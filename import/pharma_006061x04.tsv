@@ -312,10 +312,9 @@ entry	Penghaward-Djambi	0
 entry	Peupliers	1	
 pb	194	0198	5611948
 entry	Pfeffers	0	
-entry	Phénol	1	
+entry	Phénol	17	
 pb	195	0199	5611949
 pb	196	0200	5611950
-entry	Phénol 	14	
 pb	197	0201	5611951
 pb	198	0202	5611952
 pb	199	0203	5611953
@@ -331,7 +330,6 @@ pb	208	0212	5611962
 pb	209	0213	5611963
 pb	210	0214	5611964
 pb	211	0215	5611965
-entry	Phénol	0	
 entry	Phosphore	26	
 pb	212	0216	5611966
 pb	213	0217	5611967
@@ -743,9 +741,8 @@ pb	451	0455	5612205
 entry	Rietenau	0	
 entry	Rieumajou	0	
 entry	Rio-Mayor	0	
-entry	Rio-Tinto 	0	
+entry	Rio-Tinto	1	
 pb	452	0456	5612206
-entry	Rio-Tinto	0	
 entry	Rio-Vinagre	0	
 entry	Rippoldsau	0	
 entry	Rivera	1	
@@ -984,9 +981,8 @@ entry	San Vignone	0
 entry	Santa Agueda	1	
 pb	537	0541	5612291
 entry	Santenay	0	
-entry	Sapins 	0	
+entry	Sapins	1	
 pb	538	0542	5612292
-entry	Sapins	0	
 entry	Saponaire officinale	3	
 pb	539	0543	5612293
 pb	540	0544	5612294
@@ -1079,9 +1075,8 @@ pb	576	0580	5612330
 entry	Sentein	0	
 entry	Seravalle	0	
 entry	Sergievsk	0	
-entry	Sermaize 	0	
+entry	Sermaize	1	
 pb	577	0581	5612331
-entry	Sermaize	0	
 entry	Serpentaire	0	
 entry	Sierk	0	
 entry	Silicates	2	
@@ -1291,9 +1286,8 @@ entry	Termini	0
 entry	Ternant	1	
 pb	684	0688	5612438
 entry	Ternes	0	
-entry	Terpine 	0	
+entry	Terpine	2	
 pb	685	0689	5612439
-entry	Terpine	1	
 pb	686	0690	5612440
 entry	Terran	0	
 entry	Terrasse	0	
@@ -1536,9 +1530,8 @@ entry	Vulvaire	1
 pb	771	0775	5612525
 entry	Warasdin-Toplitz	0	
 entry	Warm and hot Springs of Buncombe	0	
-entry	Warmbrunn 	0	
+entry	Warmbrunn	1	
 pb	772	0776	5612526
-entry	Warmbrunn	0	
 entry	Warm-Springs	0	
 entry	Warrenspoint	0	
 entry	Wathviller	1	
@@ -1586,9 +1579,8 @@ entry	Ydes	0
 entry	Yellow-Springs	0	
 entry	Yorek-Springs	0	
 entry	Yeuset	0	
-entry	Yverdun 	0	
+entry	Yverdun	1	
 pb	783	0787	5612537
-entry	Yverdun	0	
 entry	Zahorowitz	0	
 entry	Zaisenhausen	0	
 entry	Zaizon	0	
@@ -1721,11 +1713,9 @@ pb	825	0829	5612579
 entry	Chlorire de méthyle	0	
 entry	Chrysarobine	0	
 entry	Cimicifuga racemose	0	
-entry	Cocaine	0	
+entry	Cocaine	5	
 pb	826	0830	5612580
-entry	Cocaine 	0	
 pb	827	0831	5612581
-entry	Cocaine	3	
 pb	828	0832	5612582
 pb	829	0833	5612583
 pb	830	0834	5612584

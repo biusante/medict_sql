@@ -120,9 +120,8 @@ pb	42	0046	6242414
 entry	Anapneuse	0	
 entry	Anaspase	0	
 entry	Anastomose	0	
-entry	Anatomie 	0	
+entry	Anatomie	1	
 pb	43	0047	6242415
-entry	Anatomie	0	
 entry	Anatomiste	1	
 pb	44	0048	6242416
 entry	Anatomique	0	
@@ -219,13 +218,11 @@ entry	Aréole	0
 entry	Arriere-dent	0	
 entry	Arriere-faix	0	
 entry	Arrondi	0	
-entry	Artere	0	
+entry	Artere	4	
 pb	58	0062	6242430
-entry	Artere 	2	
 pb	59	0063	6242431
 pb	60	0064	6242432
 pb	61	0065	6242433
-entry	Artere	0	
 entry	Artériel	0	
 entry	Arterio-graphie	0	
 entry	Arteriole	0	
@@ -263,9 +260,8 @@ orth	Astragal
 orth	Astragale		
 pb	71	0075	6242443
 entry	Atlas	0	
-entry	Atrabilaire 	0	
+entry	Atrabilaire	1	
 pb	72	0076	6242444
-entry	Atrabilaire	0	
 entry	Attentif	0	
 entry	Attention	0	
 entry	Attroupé	0	
@@ -274,9 +270,8 @@ entry	Avant-bras	0
 entry	Avant-coeur ou Anti-coeur	0	
 orth	Avant-coeur		
 orth	Anti-coeur		
-entry	Auditif 	0	
+entry	Auditif	1	
 pb	73	0077	6242445
-entry	Auditif	0	
 entry	Aveugle	0	
 pb	74	0078	6242446
 entry	Aveugles	0	
@@ -301,9 +296,8 @@ entry	Barbe	0
 entry	Barré	0	
 entry	Bartholin	0	
 entry	Base	0	
-entry	Basilaire 	0	
+entry	Basilaire	1	
 pb	79	0083	6242451
-entry	Basilaire	0	
 entry	Basileion	0	
 entry	Basilique	0	
 entry	Basio-cerato-glosse	1	
@@ -376,9 +370,8 @@ entry	Brunner ou Brunier	0
 orth	Brunner		
 orth	Brunier		
 entry	Buccal	0	
-entry	Buccinateur 	0	
+entry	Buccinateur	1	
 pb	96	0100	6242468
-entry	Buccinateur	0	
 entry	Buccule	0	
 entry	Bucton	0	
 entry	Bulbe	0	
@@ -483,9 +476,8 @@ pb	130	0134	6242502
 pb	131	0135	6242503
 entry	Cervelet	0	
 pb	132	0136	6242504
-entry	Cervical 	0	
+entry	Cervical	1	
 pb	133	0137	6242505
-entry	Cervical	0	
 entry	Cerumineux	0	
 pb	134	0138	6242506
 entry	Chair	0	
@@ -509,7 +501,7 @@ entry	Cheville	0
 entry	Chignon	0	
 entry	Choledo-graphie	0	
 entry	Choledo-logie	0	
-entry	Choledoque 	0	
+entry	Choledoque	0	
 pb	138	0142	6242510
 entry	Cholidoque	0	
 entry	Chondro-glosse	0	
@@ -682,9 +674,8 @@ entry	Coraco-hyoïdien	0
 entry	Coracoïde	0	
 entry	Coraco-idien	0	
 entry	Coraco-radial	0	
-entry	Corde  	0	
+entry	Corde	1	
 pb	197	0201	6242569
-entry	Corde	0	
 entry	Cordon	0	
 entry	Core	0	
 entry	Corium ou Corion	0	
@@ -707,9 +698,8 @@ pb	203	0207	6242575
 pb	204	0208	6242576
 entry	Coronale	0	
 entry	Coroné	0	
-entry	Coronoïde 	0	
+entry	Coronoïde	1	
 pb	205	0209	6242577
-entry	Coronoïde	0	
 entry	Corps	0	
 entry	Corrugateur	0	
 entry	Cortical	0	
@@ -784,9 +774,8 @@ entry	Croisés	0
 entry	Crotaphite	0	
 entry	Croton	0	
 entry	Croupion	0	
-entry	Croupissement 	0	
+entry	Croupissement	1	
 pb	220	0224	6242592
-entry	Croupissement	0	
 entry	crucial	0	
 entry	Cruciforme	0	
 entry	Crural	1	
@@ -839,16 +828,15 @@ entry	Déarticulation	0
 entry	Débilité	0	
 entry	Debout	0	
 entry	Déchiré	0	
-entry	Décidence 	0	
+entry	Décidence	0	
 pb	232	0236	6242604
 entry	Decrepitude	0	
 entry	Decroissement	0	
 entry	Decroitre	0	
 entry	Dedaigneur	0	
 entry	Defenseurs	0	
-entry	Deferent 	0	
+entry	Deferent	1	
 pb	233	0237	6242605
-entry	Deferent	0	
 entry	Déglutition	1	
 pb	234	0238	6242606
 entry	Dejection	0	
@@ -969,16 +957,14 @@ entry	Distribuer	0
 entry	Distribution	0	
 entry	Divergens	0	
 entry	Diurese	0	
-entry	Dodecadactilon    	0	
+entry	Dodecadactilon	0	
 pb	283	0287	6242655
 entry	Doigt	1	
 pb	284	0288	6242656
 entry	Dormir	0	
-entry	Dorsal	0	
+entry	Dorsal	2	
 pb	285	0289	6242657
-entry	Dorsal 	0	
 pb	286	0290	6242658
-entry	Dorsal	0	
 entry	Dos	0	
 entry	Dracontides	0	
 entry	Droit	2	
@@ -986,9 +972,8 @@ pb	287	0291	6242659
 pb	288	0292	6242660
 entry	Duodenal	0	
 entry	Duodenum	0	
-entry	Duplicature 	0	
+entry	Duplicature	1	
 pb	289	0293	6242661
-entry	Duplicature	0	
 entry	Dure-mere	7	
 pb	290	0294	6242662
 pb	291	0295	6242663
@@ -1009,9 +994,8 @@ entry	Ecphysis	0
 entry	Ecpneumatose	0	
 entry	Ecpnoe	0	
 entry	Ejaculateur	0	
-entry	Ejaculation 	0	
+entry	Ejaculation	2	
 pb	298	0302	6242670
-entry	Ejaculation	1	
 pb	299	0303	6242671
 entry	Ejection	0	
 entry	Eilamides	0	
@@ -1034,9 +1018,8 @@ entry	Elliptique	0
 entry	Elytroïde	0	
 entry	Elytron	0	
 entry	Email	0	
-entry	Embaumement 	0	
+entry	Embaumement	6	
 pb	304	0308	6242676
-entry	Embaumement	5	
 pb	305	0309	6242677
 pb	306	0310	6242678
 pb	307	0311	6242679
@@ -1102,9 +1085,8 @@ entry	Entre-cil	0
 entry	Entre-fesson	0	
 entry	Entre-sourcil	0	
 entry	Entypose	0	
-entry	Enulon 	0	
+entry	Enulon	1	
 pb	315	0319	6242687
-entry	Enulon	0	
 entry	Enystron	0	
 entry	Eon	0	
 entry	Epagogion	0	
@@ -1154,12 +1136,10 @@ entry	Epiphanie	0
 entry	Epiphyse	0	
 entry	Epiploïque	1	
 pb	324	0328	6242696
-entry	Epiploon	0	
+entry	Epiploon	3	
 pb	325	0329	6242697
-entry	Epiploon 	1	
 pb	326	0330	6242698
 pb	327	0331	6242699
-entry	Epiploon	0	
 entry	Epischion	0	
 entry	Episcopales	0	
 entry	Epispasme	0	
@@ -1180,9 +1160,8 @@ entry	Eructation	0
 entry	Erythroeïdes	0	
 entry	Eschaties	0	
 entry	Esprit	0	
-entry	Esprits animaux 	0	
+entry	Esprits animaux	18	
 pb	330	0334	6242702
-entry	Esprits animaux	17	
 pb	331	0335	6242703
 pb	332	0336	6242704
 pb	333	0337	6242705
@@ -1214,15 +1193,13 @@ entry	Eternuement	2
 pb	356	0360	6242728
 pb	357	0361	6242729
 entry	Ethmoïdal	0	
-entry	Ethmoïde	4	
+entry	Ethmoïde	6	
 pb	358	0362	6242730
 pb	359	0363	6242731
 pb	360	0364	6242732
 pb	361	0365	6242733
 pb	362	0366	6242734
-entry	Ethmoïde 	0	
 pb	363	0367	6242735
-entry	Ethmoïde	0	
 entry	Etrier	0	
 entry	Etron	0	
 entry	Evanouissant	0	
@@ -1319,9 +1296,8 @@ orth	Follicule
 orth	Follecule		
 entry	Follis	0	
 entry	Fom	0	
-entry	Fonction 	0	
+entry	Fonction	1	
 pb	391	0395	6242763
-entry	Fonction	0	
 entry	Fondamental	0	
 entry	Fondement	0	
 entry	Fongueux	0	
@@ -1721,9 +1697,8 @@ entry	Hypopleurios	0
 entry	Hyporinion	0	
 entry	Hypostase	0	
 entry	Hyposteme	0	
-entry	Hypothenar 	0	
+entry	Hypothenar	1	
 pb	541	0545	6242913
-entry	Hypothenar	0	
 entry	Hypozome	0	
 entry	Hypsilo-glosse	0	
 entry	Hypsiloïde	0	
@@ -1793,9 +1768,8 @@ entry	Indusium	0
 entry	Infundibulum	1	
 pb	566	0570	6242938
 entry	Ingrassias	0	
-entry	Inguinal 	0	
+entry	Inguinal	2	
 pb	567	0571	6242939
-entry	Inguinal	1	
 pb	568	0572	6242940
 entry	Injecter	0	
 entry	Injection	5	
@@ -1890,13 +1864,10 @@ entry	Jugement	0
 entry	Jugulaire	1	
 pb	608	0612	6242980
 entry	Jugulum	0	
-entry	Jumeau	0	
+entry	Jumeau	3	
 pb	609	0613	6242981
-entry	Jumeau 	0	
 pb	610	0614	6242982
-entry	Jumeau  	0	
 pb	611	0615	6242983
-entry	Jumeau	0	
 entry	Ixale	0	
 entry	Ixys	0	
 pb	612	0616	6242984
@@ -2025,9 +1996,8 @@ entry	Lustum	0
 entry	Lygmos ou Lynx	0	
 orth	Lygmos		
 orth	Lynx		
-entry	Lymphatique 	0	
+entry	Lymphatique	2	
 pb	652	0656	6243024
-entry	Lymphatique	1	
 pb	653	0657	6243025
 entry	Lymphe	0	
 entry	Lythron	0	
@@ -2078,11 +2048,9 @@ entry	Maschalister	0
 entry	Masculinité	0	
 entry	Masseter	0	
 entry	Masseterique	0	
-entry	Mastication	0	
+entry	Mastication	3	
 pb	671	0675	6243043
-entry	Mastication  	0	
 pb	672	0676	6243044
-entry	Mastication	1	
 pb	673	0677	6243045
 entry	Mastoïde	0	
 entry	Mastoïdien	1	

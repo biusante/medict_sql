@@ -678,7 +678,7 @@ pb	511	0515	4571415
 entry	Orangette	0	
 ref	Orange		
 ref	Orangers		
-entry	Orang-Outan [E. Oustalet]	16	
+entry	Orang-Outan [E. Oustalet]	15	
 orth	Orang-Outan		
 pb	512	0516	4571416
 pb	513	0517	4571417
@@ -696,15 +696,9 @@ pb	524	0528	4571428
 pb	525	0529	4571429
 pb	526	0530	4571430
 pb	527	0531	4571431
-entry	Ora serrata	0	
-ref	Choroïde		
-ref	Ciliaire		
-ref	Oeil		
-entry	Orbiculaire des lèvres [A. Le Double]	0	
-orth	Orbiculaire des lèvres		
-entry	Orbiculaire des paupières [A. Le Double]	12	
-orth	Orbiculaire des paupières		
 pb	528	0532	4571432
+entry	Orbiculaire des paupières [A. Le Double]	11	
+orth	Orbiculaire des paupières		
 pb	529	0533	4571433
 pb	530	0534	4571434
 pb	531	0535	4571435
@@ -754,16 +748,12 @@ orth	Orbite. Anatomie. Anatomie comparée
 pb	556	0560	4571460
 entry	Développement [J. Chauvel]	0	
 orth	Développement		
-entry	Contenu de l'orbite [J. Chauvel] 	0	
-orth	Contenu de l'orbite		
-pb	557	0561	4571461
-entry	Orbite. Anatomie. Contenu de l'orbite [J. Chauvel]	0	
+entry	Orbite. Anatomie. Contenu de l'orbite [J. Chauvel]	1	
 orth	Orbite. Anatomie. Contenu de l'orbite		
-entry	Anatomie des plans [J. Chauvel] 	0	
-orth	Anatomie des plans		
-pb	558	0562	4571462
-entry	Orbite. Anatomie. Anatomie des plans [J. Chauvel]	0	
+pb	557	0561	4571461
+entry	Orbite. Anatomie. Anatomie des plans [J. Chauvel]	1	
 orth	Orbite. Anatomie. Anatomie des plans		
+pb	558	0562	4571462
 entry	Orbite. Abnormités congénitales [J. Chauvel]	1	
 orth	Orbite. Abnormités congénitales		
 pb	559	0563	4571463

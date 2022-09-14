@@ -612,12 +612,10 @@ entry	Arthropathie	0
 entry	Arthrotomie	0	
 entry	Arthus (Phénomène d')	0	
 entry	Artichaut	0	
-entry	Articulation	1	
+entry	Articulation	7	
 pb	92	0110	4827544
 pb	93	0111	4827545
-entry	Articulation 	0	
 pb	94	0112	4827546
-entry	Articulation	4	
 pb	95	0113	4827547
 pb	96	0114	4827548
 pb	97	0115	4827549
@@ -3440,12 +3438,10 @@ entry	Gratiole (Herbe au pauvre homme)	0
 entry	Gravelle	0	
 entry	Graveurs	0	
 entry	Gravidité	0	
-entry	Greffe	0	
+entry	Greffe	3	
 pb	554	0599	4828033
-entry	Greffe 	1	
 pb	555	0600	4828034
 pb	556	0601	4828035
-entry	Greffe	0	
 entry	Grenadier	0	
 entry	Grenouillette	0	
 entry	Griffe	0	
@@ -3578,9 +3574,8 @@ entry	Hémophtalmie	0
 entry	Hémoplase	0	
 entry	Hémopneumothorax	0	
 entry	Hémoptysie	0	
-entry	Hémorragie 	0	
+entry	Hémorragie	4	
 pb	578	0623	4828057
-entry	Hémorragie	3	
 pb	579	0624	4828058
 pb	580	0625	4828059
 pb	581	0626	4828060
@@ -5164,20 +5159,10 @@ entry	Opsonines	0
 entry	Optique	0	
 entry	Optomètre	0	
 entry	Opto-striée (Couche)	0	
-entry	Or	1	
+entry	Or	0	
 pb	863	0926	4828360
-entry	Orage	0	
-entry	Oranger	0	
-entry	Ora serrata	0	
-entry	Orbiculaire (Muscle)	0	
-entry	Orbite, Orbitaire (Cavité)	0	
-orth	Orbite		
-orth	Orbitaire (Cavité)		
-entry	Orchidopexie	0	
-entry	Orchite	0	
-entry	Ordonnance	0	
-entry	Oreille	11	
 pb	864	0927	4828361
+entry	Oreille	10	
 pb	Tableau XXXII	0928	4828362
 pb	866	0929	4828363
 pb	867	0930	4828364
@@ -6184,9 +6169,8 @@ entry	Redoul (Corroyer à fleurs de myrthe, herbe aux tanneurs)	0
 entry	Réducteurs (Médicaments)	0	
 entry	Réduction	0	
 entry	Rééducation	0	
-entry	Réflexe 	0	
+entry	Réflexe	1	
 pb	1038	1107	4828541
-entry	Réflexe	0	
 entry	Réforme	0	
 entry	Réfraction	0	
 entry	Réfrigération et Refroidissement	0	
@@ -6519,9 +6503,8 @@ entry	Scharlach-Rot (rouge écarlate)	0
 entry	Sciatique (nerf)	0	
 entry	Sciatique (névralgie)	0	
 entry	Scie	0	
-entry	Scille (Oignon marin) 	0	
+entry	Scille (Oignon marin)	1	
 pb	1096	1165	4828599
-entry	Scille (Oignon marin)	0	
 entry	Scissure	0	
 entry	Sclérectomie	0	
 entry	Sclérème	0	
@@ -6583,9 +6566,8 @@ entry	Sedum	0
 entry	Seigle enivrant	0	
 entry	Seigle ergoté	0	
 entry	Seignette (Sel de)	0	
-entry	Seins 	0	
+entry	Seins	3	
 pb	1104	1175	4828609
-entry	Seins	2	
 pb	1105	1176	4828610
 pb	1106	1177	4828611
 entry	Sel	0	

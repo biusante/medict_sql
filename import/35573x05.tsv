@@ -7,9 +7,8 @@ entry	Dictionnaire abrégé des Sciences Médicales. Concentration	0
 entry	Concentré	0	
 entry	Conception	1	
 pb	2	0005	7327920
-entry	Concombre 	0	
+entry	Concombre	1	
 pb	3	0006	7327921
-entry	Concombre	0	
 entry	Concomitance	1	
 pb	4	0007	7327922
 entry	Concomitant	0	
@@ -32,26 +31,22 @@ entry	Confortant	0
 entry	Congélation	0	
 entry	Congénère	0	
 entry	Congénital	0	
-entry	Congestion	0	
+entry	Congestion	4	
 pb	9	0012	7327927
-entry	Congestion 	2	
 pb	10	0013	7327928
 pb	11	0014	7327929
 pb	12	0015	7327930
-entry	Congestion	0	
 entry	Conglobe	0	
 entry	Congloméré	0	
 entry	Conjoint	0	
-entry	Conjonctive	0	
+entry	Conjonctive	7	
 pb	13	0016	7327931
-entry	Conjonctive 	5	
 pb	14	0017	7327932
 pb	15	0018	7327933
 pb	16	0019	7327934
 pb	17	0020	7327935
 pb	18	0021	7327936
 pb	19	0022	7327937
-entry	Conjonctive	0	
 entry	Conjugaison	0	
 entry	Conné	1	
 pb	20	0023	7327938
@@ -84,7 +79,7 @@ pb	32	0035	7327950
 entry	Constricteur	1	
 pb	33	0036	7327951
 entry	Constriction	0	
-entry	Consultation 	6	
+entry	Consultation	7	
 pb	34	0037	7327952
 pb	35	0038	7327953
 pb	36	0039	7327954
@@ -92,11 +87,9 @@ pb	37	0040	7327955
 pb	38	0041	7327956
 pb	39	0042	7327957
 pb	40	0043	7327958
-entry	Consultation	0	
 entry	Contagieux	0	
-entry	Contagion	0	
+entry	Contagion	9	
 pb	41	0044	7327959
-entry	Contagion 	7	
 pb	42	0045	7327960
 pb	43	0046	7327961
 pb	44	0047	7327962
@@ -105,7 +98,6 @@ pb	46	0049	7327964
 pb	47	0050	7327965
 pb	48	0051	7327966
 pb	49	0052	7327967
-entry	Contagion	0	
 entry	Continence	4	
 pb	50	0053	7327968
 pb	51	0054	7327969
@@ -146,9 +138,8 @@ pb	65	0068	7327983
 pb	66	0069	7327984
 entry	Controstimulus	0	
 entry	Contus	0	
-entry	Contusion	0	
+entry	Contusion	8	
 pb	67	0070	7327985
-entry	Contusion 	6	
 pb	68	0071	7327986
 pb	69	0072	7327987
 pb	70	0073	7327988
@@ -156,7 +147,6 @@ pb	71	0074	7327989
 pb	72	0075	7327990
 pb	73	0076	7327991
 pb	74	0077	7327992
-entry	Contusion	0	
 entry	Convalescence	8	
 pb	75	0078	7327993
 pb	76	0079	7327994
@@ -170,9 +160,8 @@ entry	Conversion	0
 entry	Convulsé	0	
 pb	83	0086	7328001
 entry	Convulsif	0	
-entry	Convulsion	0	
+entry	Convulsion	10	
 pb	84	0087	7328002
-entry	Convulsion 	8	
 pb	85	0088	7328003
 pb	86	0089	7328004
 pb	87	0090	7328005
@@ -182,7 +171,6 @@ pb	90	0093	7328008
 pb	91	0094	7328009
 pb	92	0095	7328010
 pb	93	0096	7328011
-entry	Convulsion	0	
 entry	Copaier	0	
 pb	94	0097	7328012
 entry	Copaïer	2	
@@ -197,7 +185,7 @@ entry	Coque du Levant	1
 pb	97	0100	7328015
 entry	Coquelicot	1	
 pb	98	0101	7328016
-entry	Coqueluche 	9	
+entry	Coqueluche	10	
 pb	99	0102	7328017
 pb	100	0103	7328018
 pb	101	0104	7328019
@@ -208,7 +196,6 @@ pb	105	0108	7328023
 pb	106	0109	7328024
 pb	107	0110	7328025
 pb	108	0111	7328026
-entry	Coqueluche	0	
 entry	Cor	3	
 pb	109	0112	7328027
 pb	110	0113	7328028
@@ -229,16 +216,14 @@ entry	Cormé	1
 pb	114	0117	7328032
 entry	Corne	0	
 entry	Corné	0	
-entry	Cornée	0	
+entry	Cornée	7	
 pb	115	0118	7328033
-entry	Cornée 	5	
 pb	116	0119	7328034
 pb	117	0120	7328035
 pb	118	0121	7328036
 pb	119	0122	7328037
 pb	120	0123	7328038
 pb	121	0124	7328039
-entry	Cornée	0	
 entry	Cornéite	1	
 pb	122	0125	7328040
 entry	Cornet acoustique	2	
@@ -248,10 +233,9 @@ entry	Coronaire	0
 pb	125	0128	7328043
 entry	Coronal	0	
 entry	Coronoïde	0	
-entry	Corps 	1	
+entry	Corps	2	
 pb	126	0129	7328044
 pb	127	0130	7328045
-entry	Corps	0	
 entry	Corpuscule	1	
 pb	128	0131	7328046
 entry	Correctif	0	
@@ -321,11 +305,9 @@ entry	Coup	1
 pb	162	0165	7328080
 entry	Couperose	0	
 entry	Coupure	0	
-entry	Courage	0	
+entry	Courage	2	
 pb	163	0166	7328081
-entry	Courage 	0	
 pb	164	0167	7328082
-entry	Courage	0	
 entry	Courbaril	1	
 pb	165	0168	7328083
 entry	Courbature	0	
@@ -333,12 +315,10 @@ entry	Courbure	0
 entry	Couronne	1	
 pb	166	0169	7328084
 entry	Couronnement	0	
-entry	Course	0	
+entry	Course	3	
 pb	167	0170	7328085
-entry	Course 	1	
 pb	168	0171	7328086
 pb	169	0172	7328087
-entry	Course	0	
 entry	Court	0	
 entry	Coussinet	1	
 pb	170	0173	7328088
@@ -355,7 +335,7 @@ pb	175	0178	7328093
 pb	176	0179	7328094
 pb	177	0180	7328095
 pb	178	0181	7328096
-entry	Coxo-fémoral 	19	
+entry	Coxo-fémoral	20	
 pb	179	0182	7328097
 pb	180	0183	7328098
 pb	181	0184	7328099
@@ -376,7 +356,6 @@ pb	195	0198	7328113
 pb	196	0199	7328114
 pb	197	0200	7328115
 pb	198	0201	7328116
-entry	Coxo-fémoral	0	
 entry	Crachat	4	
 pb	199	0202	7328117
 pb	200	0203	7328118
@@ -384,12 +363,10 @@ pb	201	0204	7328119
 pb	202	0205	7328120
 entry	Crachement	0	
 entry	Crachotement	0	
-entry	Crampe	0	
+entry	Crampe	3	
 pb	203	0206	7328121
-entry	Crampe 	1	
 pb	204	0207	7328122
 pb	205	0208	7328123
-entry	Crampe	0	
 entry	Crâne	35	
 pb	206	0209	7328124
 pb	207	0210	7328125
@@ -487,12 +464,10 @@ pb	271	0274	7328189
 pb	272	0275	7328190
 pb	273	0276	7328191
 entry	Cristalline	0	
-entry	Cristallisation	0	
+entry	Cristallisation	3	
 pb	274	0277	7328192
-entry	Cristallisation 	1	
 pb	275	0278	7328193
 pb	276	0279	7328194
-entry	Cristallisation	0	
 entry	Critique	0	
 entry	Crochet	1	
 pb	277	0280	7328195
@@ -542,9 +517,8 @@ pb	309	0312	7328227
 entry	Crucial	0	
 entry	Crudité	0	
 entry	Cruor	0	
-entry	Crural	0	
+entry	Crural	23	
 pb	310	0313	7328228
-entry	Crural 	21	
 pb	311	0314	7328229
 pb	312	0315	7328230
 pb	313	0316	7328231
@@ -567,15 +541,12 @@ pb	329	0332	7328247
 pb	330	0333	7328248
 pb	331	0334	7328249
 pb	332	0335	7328250
-entry	Crural	0	
 entry	Crypte	0	
 entry	Cubèbe	0	
-entry	Cubital	0	
+entry	Cubital	3	
 pb	333	0336	7328251
-entry	Cubital 	1	
 pb	334	0337	7328252
 pb	335	0338	7328253
-entry	Cubital	0	
 entry	Cubito-radial	5	
 pb	336	0339	7328254
 pb	337	0340	7328255
@@ -602,21 +573,19 @@ pb	346	0349	7328264
 pb	347	0350	7328265
 pb	348	0351	7328266
 entry	Cuisson	0	
-entry	Cuivre	0	
+entry	Cuivre	7	
 pb	349	0352	7328267
-entry	Cuivre 	5	
 pb	350	0353	7328268
 pb	351	0354	7328269
 pb	352	0355	7328270
 pb	353	0356	7328271
 pb	354	0357	7328272
 pb	355	0358	7328273
-entry	Cuivre	0	
 entry	Culbute	0	
 entry	Culilawan	1	
 pb	356	0359	7328274
 entry	Cumin	0	
-entry	Cunéen 	0	
+entry	Cunéen	0	
 pb	357	0360	7328275
 entry	Cunéiforme	0	
 entry	Cunéo-cuboïdien	0	
@@ -676,9 +645,8 @@ pb	376	0379	7328294
 entry	Cystirrhagie	0	
 entry	Cytise	0	
 entry	Cytisine	0	
-entry	Cystite	0	
+entry	Cystite	12	
 pb	377	0380	7328295
-entry	Cystite 	10	
 pb	378	0381	7328296
 pb	379	0382	7328297
 pb	380	0383	7328298
@@ -690,16 +658,13 @@ pb	385	0388	7328303
 pb	386	0389	7328304
 pb	387	0390	7328305
 pb	388	0391	7328306
-entry	Cystite	0	
 entry	Cystitome	0	
-entry	Cystocèle	0	
+entry	Cystocèle	5	
 pb	389	0392	7328307
-entry	Cystocèle 	3	
 pb	390	0393	7328308
 pb	391	0394	7328309
 pb	392	0395	7328310
 pb	393	0396	7328311
-entry	Cystocèle	0	
 entry	Cystodynie	0	
 entry	Cystoplexie	0	
 entry	Cystoptose	1	
@@ -760,19 +725,16 @@ pb	444	0447	7328362
 entry	Dacryocyste	0	
 entry	Dacryopé	0	
 entry	Dactylite	0	
-entry	Danse	0	
+entry	Danse	2	
 pb	445	0448	7328363
-entry	Danse   	0	
 pb	446	0449	7328364
-entry	Danse	0	
 entry	Danse de Saint-Guy	0	
 pb	447	0450	7328365
 entry	Daphnine	0	
 entry	Dartos	1	
 pb	448	0451	7328366
-entry	Dartre	0	
+entry	Dartre	21	
 pb	449	0452	7328367
-entry	Dartre 	19	
 pb	450	0453	7328368
 pb	451	0454	7328369
 pb	452	0455	7328370
@@ -793,7 +755,6 @@ pb	466	0469	7328384
 pb	467	0470	7328385
 pb	468	0471	7328386
 pb	469	0472	7328387
-entry	Dartre	0	
 entry	Datiscine	1	
 pb	470	0473	7328388
 entry	Dattier	1	
@@ -818,18 +779,14 @@ entry	Déchaussement	0
 entry	Déchaussoir	1	
 pb	477	0480	7328395
 entry	Déchirement	0	
-entry	Déclamation	0	
+entry	Déclamation	2	
 pb	478	0481	7328396
-entry	Déclamation 	0	
 pb	479	0482	7328397
-entry	Déclamation	0	
 entry	Déclin	0	
 entry	Déclive	0	
-entry	Décoction	0	
+entry	Décoction	2	
 pb	480	0483	7328398
-entry	Décoction 	0	
 pb	481	0484	7328399
-entry	Décoction	0	
 entry	Décollement	0	
 entry	Décoloration	0	
 pb	482	0485	7328400
@@ -843,26 +800,21 @@ entry	Décussation	0
 entry	Décussoire	0	
 entry	Dédolation	0	
 entry	Défaillance	0	
-entry	Défécation	0	
+entry	Défécation	2	
 pb	484	0487	7328402
-entry	Défécation 	0	
 pb	485	0488	7328403
-entry	Défécation	0	
-entry	Déférent  	0	
+entry	Déférent	1	
 pb	486	0489	7328404
-entry	Déférent	0	
 entry	Déflagration	0	
 entry	Défloration	0	
 entry	Defrutum	0	
-entry	Dégénération 	1	
+entry	Dégénération	2	
 pb	487	0490	7328405
 pb	488	0491	7328406
-entry	Dégénération	0	
 entry	Dégénérescence	0	
-entry	Déglutition 	1	
+entry	Déglutition	2	
 pb	489	0492	7328407
 pb	490	0493	7328408
-entry	Déglutition	0	
 entry	Dégorgement	0	
 entry	Dégôut	0	
 pb	491	0494	7328409
@@ -870,15 +822,13 @@ entry	Degré	0
 entry	Dégustation	0	
 entry	Déjection	0	
 entry	Délayant	0	
-entry	Délétère 	0	
+entry	Délétère	1	
 pb	492	0495	7328410
-entry	Délétère	0	
 entry	Déligation	0	
 entry	Déliquescence	0	
-entry	Délirant 	0	
+entry	Délirant	1	
 pb	493	0496	7328411
-entry	Délirant	0	
-entry	Délire 	8	
+entry	Délire	9	
 pb	494	0497	7328412
 pb	495	0498	7328413
 pb	496	0499	7328414
@@ -888,11 +838,10 @@ pb	499	0502	7328417
 pb	500	0503	7328418
 pb	501	0504	7328419
 pb	502	0505	7328420
-entry	Délire	0	
-entry	Délitescence 	1	
+entry	Délitescence	1	
 pb	503	0506	7328421
 pb	504	0507	7328422
-entry	Délivrance 	10	
+entry	Délivrance	11	
 pb	505	0508	7328423
 pb	506	0509	7328424
 pb	507	0510	7328425
@@ -904,31 +853,26 @@ pb	512	0515	7328430
 pb	513	0516	7328431
 pb	514	0517	7328432
 pb	515	0518	7328433
-entry	Délivrance	0	
 entry	Délivre	0	
 entry	Delphinate	0	
-entry	Delphinine 	0	
+entry	Delphinine	1	
 pb	516	0519	7328434
-entry	Delphinine	0	
 entry	Delphinique	0	
 entry	Deltoïde	1	
 pb	517	0520	7328435
 entry	Deltoïdien	0	
 entry	Démangeaison	0	
 entry	Démence	0	
-entry	Demi-aponévrotique 	0	
+entry	Demi-aponévrotique	1	
 pb	518	0521	7328436
-entry	Demi-aponévrotique	0	
-entry	Démonologie 	0	
+entry	Démonologie	1	
 pb	519	0522	7328437
-entry	Démonologie	0	
 entry	Démonomanie	1	
 pb	520	0523	7328438
 entry	Dense	0	
 entry	Densité	0	
-entry	Dent 	0	
+entry	Dent	44	
 pb	521	0524	7328439
-entry	Dent	43	
 pb	522	0525	7328440
 pb	523	0526	7328441
 pb	524	0527	7328442
@@ -972,20 +916,17 @@ pb	561	0564	7328479
 pb	562	0565	7328480
 pb	563	0566	7328481
 pb	564	0567	7328482
-entry	Dentaire 	0	
+entry	Dentaire	1	
 pb	565	0568	7328483
-entry	Dentaire	0	
 entry	Dentelaire	0	
 entry	Dentelé	1	
 pb	566	0569	7328484
-entry	Dentier 	0	
+entry	Dentier	1	
 pb	567	0570	7328485
-entry	Dentier	0	
 entry	Dentifrice	0	
 entry	Dentiste	0	
-entry	Dentition	0	
+entry	Dentition	15	
 pb	568	0571	7328486
-entry	Dentition 	13	
 pb	569	0572	7328487
 pb	570	0573	7328488
 pb	571	0574	7328489
@@ -1000,6 +941,5 @@ pb	579	0582	7328497
 pb	580	0583	7328498
 pb	581	0584	7328499
 pb	582	0585	7328500
-entry	Dentition	0	
-entry	Denture 	0	
+entry	Denture	0	
 pb	[s. pag.]	0586	7328501

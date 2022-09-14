@@ -384,7 +384,7 @@ entry	Arriser	0
 entry	Arrosement	0	
 entry	Arsirole	0	
 entry	Article	0	
-entry	Articulaire 	0	
+entry	Articulaire	0	
 pb	33	0037	5897178
 entry	Artifices	0	
 entry	Artillerie	0	
@@ -904,9 +904,8 @@ entry	Campane	0
 entry	Camphre	0	
 entry	Canal	1	
 pb	86	0090	5897231
-entry	Canard 	0	
+entry	Canard	1	
 pb	[s. pag.]	0091	5897232
-entry	Canard	0	
 pb	87	0092	5897233
 entry	Canardière	0	
 entry	Cancellation	0	
@@ -1252,9 +1251,8 @@ entry	Complainte	1
 pb	119	0124	5897265
 entry	Complice	0	
 entry	Compromis	0	
-entry	Comptable 	0	
+entry	Comptable	2	
 pb	120	0125	5897266
-entry	Comptable	1	
 pb	121	0126	5897267
 entry	Comtoir	0	
 entry	Compulsoire	0	
@@ -1636,7 +1634,7 @@ entry	Dindes	0
 entry	Dinenderie	0	
 entry	Diocèse	0	
 entry	Dire	0	
-entry	Directe 	0	
+entry	Directe	0	
 pb	180	0183	5897324
 entry	Discipline	0	
 entry	Discrédit	0	
@@ -1883,19 +1881,10 @@ entry	Episcopat	0
 entry	Epistyle	0	
 entry	Epitaphe	0	
 entry	Epithalame	0	
-entry	Epure	1	
+entry	Epure	0	
 pb	233	0234	5897375
-entry	Equarissage	0	
-entry	Enquestre	0	
-entry	Equinoxe	0	
-entry	Equipollent	0	
-entry	Equité	0	
-entry	Equivalent	0	
-entry	Equivoque	0	
-entry	Errata	0	
-entry	Errements	0	
-entry	Erreur	1	
 pb	234	0235	5897376
+entry	Erreur	0	
 entry	Esbauche	0	
 entry	Esboulement	0	
 entry	Escacher	1	

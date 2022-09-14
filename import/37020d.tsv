@@ -3365,7 +3365,6 @@ orth	ALGALIE
 foreign	deu	Harnblasensonde
 foreign	spa	algalia
 foreign	ita	tenta scannellata incerata
-foreign	grc	ἀργαλεῖον de ἐργαλεῖον
 foreign	grc	καθετὴρ
 ref	Cathéter
 entry	ALGAROBIA	0044		0
@@ -6599,8 +6598,6 @@ orth	ANTHÉRIDIE
 ref	Archégone
 entry	ANTHÉROGÈNE	0082		0
 orth	ANTHÉROGÈNE	
-foreign	lat	de anthère
-foreign	grc	et γενὴς
 entry	ANTHÉROSYMPHYSIE	0082		0
 orth	ANTHÉROSYMPHYSIE	
 ref	Symphysandrie
@@ -18794,7 +18791,7 @@ foreign	deu	ätzend
 foreign	eng	catheretic
 foreign	ita	cateretico
 foreign	spa	cateretico
-foreign	grc	de καθαρεῖν
+foreign	grc	καθαρεῖν
 entry	CATHÉTER	0241	0242	1
 orth	CATHÉTER	
 foreign	lat	catheter
@@ -87605,7 +87602,6 @@ foreign	deu	Phymatosis
 foreign	eng	phymatosis
 foreign	ita	fimatosi
 foreign	spa	fimatosis
-foreign	grc	de φῦμα
 ref	Eaux
 entry	PHYME	1185		0
 orth	PHYME	
@@ -89855,7 +89851,7 @@ term	Pneumatose utérine
 ref	Physomètre
 entry	PNEUMIQUE	1217		0
 orth	PNEUMIQUE	
-foreign	grc	de πνεύμων
+foreign	grc	πνεύμων
 term	Acide pneumique
 entry	PNEUMOCÈLE	1217		0
 orth	PNEUMOCÈLE	
@@ -94191,7 +94187,7 @@ foreign	spa	teropodes
 entry	PTÉRYGINE	1277		0
 orth	PTÉRYGINE	
 foreign	lat	pteryginum
-foreign	grc	de πτέρυξ
+foreign	grc	πτέρυξ
 entry	PTÉRYGION	1277	1278	1
 orth	PTÉRYGION	
 foreign	deu	Pterygium
@@ -100695,12 +100691,13 @@ entry	SACCULE	1362		0
 orth	SACCULE	
 entry	SACHET	1362	1363	1
 orth	SACHET	
-foreign	lat	saccuhis
+foreign	lat	sacculus
 foreign	deu	Kräutersäckchen
 foreign	eng	satchel
 foreign	eng	nodule
 foreign	ita	sacchetto d’odori
 foreign	spa	saquillo
+foreign	grc	μαρσίππον
 pb	1363	https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:1377/full/full/0/default.jpg	https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&p=1377
 term	Sachet de Morand
 entry	SACOCHE	1363		0
@@ -100833,7 +100830,6 @@ term	Sagesse des chirurgiens
 ref	Sisymbre
 entry	SAGITTAIRE	1364		0
 orth	SAGITTAIRE	
-foreign	lat	Fléchièré
 term	Sagittaire commune
 entry	SAGITTAL	1364		0
 orth	SAGITTAL	
@@ -101471,7 +101467,6 @@ entry	SANIEUX	1375		0
 orth	SANIEUX	
 foreign	lat	saniosus
 foreign	lat	ichorosus
-foreign	grc	
 foreign	deu	jauchig
 foreign	eng	sanious
 foreign	ita	sanioso

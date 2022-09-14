@@ -15,10 +15,9 @@ entry	Formicant	0
 entry	Formique	1	
 pb	3	0008	7329685
 entry	Formulaire	0	
-entry	Formule 	1	
+entry	Formule	2	
 pb	4	0009	7329686
 pb	5	0010	7329687
-entry	Formule	0	
 entry	Fortifiant	1	
 pb	6	0011	7329688
 entry	Fortraiture	0	
@@ -54,9 +53,8 @@ entry	Fourmi	0
 pb	25	0030	7329707
 entry	Fourmillement	0	
 entry	Foyer	0	
-entry	Fracture	0	
+entry	Fracture	22	
 pb	26	0031	7329708
-entry	Fracture 	20	
 pb	27	0032	7329709
 pb	28	0033	7329710
 pb	29	0034	7329711
@@ -78,7 +76,6 @@ pb	44	0049	7329726
 pb	45	0050	7329727
 pb	46	0051	7329728
 pb	47	0052	7329729
-entry	Fracture	0	
 entry	Fragilité	1	
 pb	48	0053	7329730
 entry	Fragment	0	
@@ -93,9 +90,8 @@ pb	51	0056	7329733
 entry	Frayement aux ars	0	
 entry	Frein	0	
 entry	Frêle	0	
-entry	Frémissement 	0	
+entry	Frémissement	1	
 pb	52	0057	7329734
-entry	Frémissement	0	
 entry	Frêne	1	
 pb	53	0058	7329735
 entry	Frénésie	0	
@@ -128,10 +124,9 @@ entry	Frontaux	0
 entry	Frottement	0	
 entry	Frugivore	0	
 pb	67	0072	7329749
-entry	Fruit 	1	
+entry	Fruit	2	
 pb	68	0073	7329750
 pb	69	0074	7329751
-entry	Fruit	0	
 entry	Fugace	0	
 entry	Fuligineux	0	
 entry	Fumeterre	1	
@@ -151,9 +146,8 @@ entry	Fungique	0
 entry	Fureur	0	
 entry	Furfuracé	1	
 pb	79	0084	7329761
-entry	Furie 	0	
+entry	Furie	1	
 pb	80	0085	7329762
-entry	Furie	0	
 entry	Furoncle	1	
 pb	81	0086	7329763
 entry	Fusain	1	
@@ -175,15 +169,13 @@ entry	Galanga	1
 pb	87	0092	7329769
 entry	Galbanum	1	
 pb	88	0093	7329770
-entry	Gale	0	
+entry	Gale	6	
 pb	89	0094	7329771
-entry	Gale 	4	
 pb	90	0095	7329772
 pb	91	0096	7329773
 pb	92	0097	7329774
 pb	93	0098	7329775
 pb	94	0099	7329776
-entry	Gale	0	
 entry	Galéga	1	
 pb	95	0100	7329777
 entry	Galénisme	2	
@@ -211,9 +203,8 @@ pb	109	0114	7329791
 pb	110	0115	7329792
 pb	111	0116	7329793
 entry	Ganglionnaire	0	
-entry	Gangrène	0	
+entry	Gangrène	19	
 pb	112	0117	7329794
-entry	Gangrène 	17	
 pb	113	0118	7329795
 pb	114	0119	7329796
 pb	115	0120	7329797
@@ -232,7 +223,6 @@ pb	127	0132	7329809
 pb	128	0133	7329810
 pb	129	0134	7329811
 pb	130	0135	7329812
-entry	Gangrène	0	
 entry	Gangréneux	0	
 entry	Gantelet	1	
 pb	131	0136	7329813
@@ -403,12 +393,10 @@ pb	241	0246	7329923
 entry	Gastro-urétrite	1	
 pb	242	0247	7329924
 entry	Gâteau	0	
-entry	Gayac	0	
+entry	Gayac	3	
 pb	243	0248	7329925
-entry	Gayac 	1	
 pb	244	0249	7329926
 pb	245	0250	7329927
-entry	Gayac	0	
 entry	Gayacine	1	
 pb	246	0251	7329928
 entry	Gaz	5	
@@ -494,9 +482,8 @@ pb	307	0312	7329989
 entry	Germandrée	2	
 pb	308	0313	7329990
 pb	309	0314	7329991
-entry	Germe 	0	
+entry	Germe	1	
 pb	310	0315	7329992
-entry	Germe	0	
 entry	Gestation	0	
 entry	Geste	0	
 entry	Gesticulation	0	
@@ -519,13 +506,11 @@ pb	315	0320	7329997
 pb	316	0321	7329998
 entry	Glaiadine	0	
 entry	Glaires	0	
-entry	Gland	0	
+entry	Gland	4	
 pb	317	0322	7329999
-entry	Gland 	2	
 pb	318	0323	7330000
 pb	319	0324	7330001
 pb	320	0325	7330002
-entry	Gland	0	
 entry	Glande	4	
 pb	321	0326	7330003
 pb	322	0327	7330004
@@ -598,9 +583,8 @@ entry	Gonflement	0
 entry	Gonocèle	0	
 entry	Gonorrhée	0	
 entry	Gorge	0	
-entry	Gorgeret 	0	
+entry	Gorgeret	3	
 pb	355	0360	7330037
-entry	Gorgeret	2	
 pb	356	0361	7330038
 pb	357	0362	7330039
 entry	Gosier	0	
@@ -779,12 +763,12 @@ entry	Halitueux	0
 entry	Hallucination	2	
 pb	487	0492	7330169
 pb	488	0493	7330170
-entry	Hanche 	0	
+entry	Hanche	0	
 pb	489	0494	7330171
 entry	Haricot	0	
 entry	Harmonie	1	
 pb	490	0495	7330172
-entry	Hectique 	8	
+entry	Hectique	9	
 pb	491	0496	7330173
 pb	492	0497	7330174
 pb	493	0498	7330175
@@ -794,7 +778,6 @@ pb	496	0501	7330178
 pb	497	0502	7330179
 pb	498	0503	7330180
 pb	499	0504	7330181
-entry	Hectique	0	
 entry	Hedychroi	0	
 entry	Hélianthe	0	
 entry	Hélix	1	
@@ -819,25 +802,21 @@ entry	Hématode	1
 pb	511	0516	7330193
 pb	512	0517	7330194
 entry	Hématose	0	
-entry	Hématurie	0	
+entry	Hématurie	6	
 pb	513	0518	7330195
-entry	Hématurie 	4	
 pb	514	0519	7330196
 pb	515	0520	7330197
 pb	516	0521	7330198
 pb	517	0522	7330199
 pb	518	0523	7330200
-entry	Hématurie	0	
 entry	Hémencéphale	2	
 pb	519	0524	7330201
 pb	520	0525	7330202
 entry	Héméralopie	1	
 pb	521	0526	7330203
-entry	Hémicrânie	0	
+entry	Hémicrânie	2	
 pb	522	0527	7330204
-entry	Hémicrânie 	0	
 pb	523	0528	7330205
-entry	Hémicrânie	0	
 entry	Hémiopie	0	
 entry	Hémiplégie	0	
 entry	Hémisphère	0	
@@ -845,7 +824,7 @@ entry	Hémitritée	0
 entry	Hémophobe	0	
 entry	Hémoptoïque	0	
 pb	524	0529	7330206
-entry	Hémoptysie 	7	
+entry	Hémoptysie	8	
 pb	525	0530	7330207
 pb	526	0531	7330208
 pb	527	0532	7330209
@@ -854,7 +833,6 @@ pb	529	0534	7330211
 pb	530	0535	7330212
 pb	531	0536	7330213
 pb	532	0537	7330214
-entry	Hémoptysie	0	
 entry	Hémoptysique	0	
 entry	Hémorragie	27	
 pb	533	0538	7330215
@@ -917,4 +895,4 @@ pb	586	0591	7330268
 pb	587	0592	7330269
 pb	588	0593	7330270
 pb	589	0594	7330271
-entry	Hémostase 	0	
+entry	Hémostase	0	

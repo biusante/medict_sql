@@ -218,6 +218,10 @@ class MedictPrepa extends MedictUtil
                 $numauto
             );
 
+            $chapitre = trim($chapitre);
+            // ne pas traiter les Errata et Addenda
+            if (preg_match('/errata/iu', $chapitre)) continue;
+
             // traiter un chapitre
 
 

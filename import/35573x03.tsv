@@ -35,22 +35,18 @@ entry	Blennorrhagie	0
 entry	Blennorrhée	1	
 pb	16	0020	7326771
 entry	Blépharite	0	
-entry	Blépharoptose	0	
+entry	Blépharoptose	3	
 pb	17	0021	7326772
-entry	Blépharoptose 	1	
 pb	18	0022	7326773
 pb	19	0023	7326774
-entry	Blépharoptose	0	
 entry	Blésité	0	
-entry	Blessure	0	
+entry	Blessure	6	
 pb	20	0024	7326775
-entry	Blessure 	4	
 pb	21	0025	7326776
 pb	22	0026	7326777
 pb	23	0027	7326778
 pb	24	0028	7326779
 pb	25	0029	7326780
-entry	Blessure	0	
 entry	Bleu	1	
 pb	26	0030	7326781
 entry	Bleuet	0	
@@ -95,11 +91,9 @@ entry	Borique	0
 entry	Borure	1	
 pb	42	0046	7326797
 entry	Bosse	0	
-entry	Botanique	0	
+entry	Botanique	2	
 pb	43	0047	7326798
-entry	Botanique 	0	
 pb	44	0048	7326799
-entry	Botanique	0	
 entry	Botrycéphale	0	
 entry	Boucage	2	
 pb	45	0049	7326800
@@ -110,12 +104,10 @@ pb	48	0052	7326803
 pb	49	0053	7326804
 entry	Boues	0	
 entry	Bouffissure	0	
-entry	Bougie	0	
+entry	Bougie	3	
 pb	50	0054	7326805
-entry	Bougie 	1	
 pb	51	0055	7326806
 pb	52	0056	7326807
-entry	Bougie	0	
 entry	Bouillie	2	
 pb	53	0057	7326808
 pb	54	0058	7326809
@@ -137,44 +129,36 @@ entry	Bourbon-l'Archambault	0
 entry	Bourbon-Lancy	1	
 pb	61	0065	7326816
 entry	Bourbonne-les Bains	0	
-entry	Bourdonnement	0	
+entry	Bourdonnement	4	
 pb	62	0066	7326817
-entry	Bourdonnement 	2	
 pb	63	0067	7326818
 pb	64	0068	7326819
 pb	65	0069	7326820
-entry	Bourdonnement	0	
 entry	Bourdonnet	1	
 pb	66	0070	7326821
 entry	Bourgène ou Bourdaine	0	
 orth	Bourgène		
 orth	Bourdaine		
-entry	Bourgeon	0	
+entry	Bourgeon	2	
 pb	67	0071	7326822
-entry	Bourgeon 	0	
 pb	68	0072	7326823
-entry	Bourgeon	0	
 entry	Bourrache	1	
 pb	69	0073	7326824
 entry	Bourrelet	0	
 entry	Bourse	0	
-entry	Bouton	0	
+entry	Bouton	2	
 pb	70	0074	7326825
-entry	Bouton 	0	
 pb	71	0075	7326826
-entry	Bouton	0	
 entry	Boutonnière	0	
 entry	Boyau	0	
-entry	Brachial	0	
+entry	Brachial	7	
 pb	72	0076	7326827
-entry	Brachial 	5	
 pb	73	0077	7326828
 pb	74	0078	7326829
 pb	75	0079	7326830
 pb	76	0080	7326831
 pb	77	0081	7326832
 pb	78	0082	7326833
-entry	Brachial	0	
 entry	Brachio-céphalique	3	
 pb	79	0083	7326834
 pb	80	0084	7326835
@@ -184,9 +168,8 @@ entry	Branche	1
 pb	82	0086	7326837
 entry	Branche ursine	0	
 entry	Branchie	0	
-entry	Bras	0	
+entry	Bras	2	
 pb	83	0087	7326838
-entry	Bras 	1	
 pb	84	0088	7326839
 pb	85	0089	7326840
 entry	Brayer	10	
@@ -204,7 +187,7 @@ entry	Bredissure	0
 entry	Brésillet	1	
 pb	96	0100	7326851
 entry	Bride	0	
-entry	Bronche 	12	
+entry	Bronche	13	
 pb	97	0101	7326852
 pb	98	0102	7326853
 pb	99	0103	7326854
@@ -218,13 +201,10 @@ pb	106	0110	7326861
 pb	107	0111	7326862
 pb	108	0112	7326863
 pb	109	0113	7326864
-entry	Bronche	0	
 entry	Bronchial	0	
-entry	Bronchique	0	
+entry	Bronchique	2	
 pb	110	0114	7326865
-entry	Bronchique 	0	
 pb	111	0115	7326866
-entry	Bronchique	0	
 entry	Bronchite	23	
 pb	112	0116	7326867
 pb	113	0117	7326868
@@ -259,18 +239,15 @@ entry	Brouillard	3
 pb	137	0141	7326892
 pb	138	0142	7326893
 pb	139	0143	7326894
-entry	Brownisme	0	
+entry	Brownisme	3	
 pb	140	0144	7326895
-entry	Brownisme 	1	
 pb	141	0145	7326896
 pb	142	0146	7326897
-entry	Brownisme	0	
 entry	Brucée	1	
 pb	143	0147	7326898
 entry	Brucine	0	
-entry	Brûlure	0	
+entry	Brûlure	8	
 pb	144	0148	7326899
-entry	Brûlure 	6	
 pb	145	0149	7326900
 pb	146	0150	7326901
 pb	147	0151	7326902
@@ -278,7 +255,6 @@ pb	148	0152	7326903
 pb	149	0153	7326904
 pb	150	0154	7326905
 pb	151	0155	7326906
-entry	Brûlure	0	
 entry	Brunelle	0	
 entry	Bryone	1	
 pb	152	0156	7326907
@@ -331,9 +307,8 @@ pb	169	0173	7326924
 entry	Cadavéreux	1	
 pb	170	0174	7326925
 entry	Cadavérique	0	
-entry	Cadavre	0	
+entry	Cadavre	16	
 pb	171	0175	7326926
-entry	Cadavre 	14	
 pb	172	0176	7326927
 pb	173	0177	7326928
 pb	174	0178	7326929
@@ -349,20 +324,17 @@ pb	183	0187	7326938
 pb	184	0188	7326939
 pb	185	0189	7326940
 pb	186	0190	7326941
-entry	Cadavre	0	
 entry	Cadmie	0	
 entry	Cadmium	1	
 pb	187	0191	7326942
 entry	Caduc	1	
 pb	188	0192	7326943
 entry	Caducité	0	
-entry	Café	0	
+entry	Café	4	
 pb	189	0193	7326944
-entry	Café 	2	
 pb	190	0194	7326945
 pb	191	0195	7326946
 pb	192	0196	7326947
-entry	Café	0	
 entry	Caféyer	0	
 entry	Caféine	1	
 pb	193	0197	7326948
@@ -409,20 +381,16 @@ entry	Calculifrage	0
 entry	Calentura	0	
 entry	Caligo	0	
 entry	Calleux	0	
-entry	Callosité	0	
+entry	Callosité	2	
 pb	215	0219	7326970
-entry	Callosité 	0	
 pb	216	0220	7326971
-entry	Callosité	0	
 entry	Calmant	0	
 entry	Calomelas	0	
-entry	Calorimètre	0	
+entry	Calorimètre	4	
 pb	217	0221	7326972
-entry	Calorimètre 	2	
 pb	218	0222	7326973
 pb	219	0223	7326974
 pb	220	0224	7326975
-entry	Calorimètre	0	
 entry	Calorique	29	
 pb	221	0225	7326976
 pb	222	0226	7326977
@@ -462,19 +430,16 @@ entry	Camélée	0
 entry	Caméline	1	
 pb	252	0256	7327007
 entry	Camisole	0	
-entry	Camomille	0	
+entry	Camomille	2	
 pb	253	0257	7327008
-entry	Camomille 	0	
 pb	254	0258	7327009
-entry	Camomille	0	
 entry	Campanule	0	
 entry	Campêche	0	
 entry	Camphorate	1	
 pb	255	0259	7327010
 entry	Camphorique	0	
-entry	Camphre	0	
+entry	Camphre	9	
 pb	256	0260	7327011
-entry	Camphre 	7	
 pb	257	0261	7327012
 pb	258	0262	7327013
 pb	259	0263	7327014
@@ -483,7 +448,6 @@ pb	261	0265	7327016
 pb	262	0266	7327017
 pb	263	0267	7327018
 pb	264	0268	7327019
-entry	Camphre	0	
 entry	Camphrée	0	
 entry	Canal	0	
 pb	265	0269	7327020
@@ -534,13 +498,11 @@ entry	Canne ou Canamelle	0
 orth	Canne		
 orth	Canamelle		
 entry	Cannellier	0	
-entry	Cannelle	0	
+entry	Cannelle	4	
 pb	302	0306	7327057
-entry	Cannelle 	2	
 pb	303	0307	7327058
 pb	304	0308	7327059
 pb	305	0309	7327060
-entry	Cannelle	0	
 entry	Cantharide	3	
 pb	306	0310	7327061
 pb	307	0311	7327062
@@ -561,16 +523,13 @@ pb	314	0318	7327069
 entry	Capillaire (plante)	0	
 entry	Capillaire (cheveux)	0	
 pb	315	0319	7327070
-entry	Capillaire   	2	
+entry	Capillaire	3	
 pb	316	0320	7327071
 pb	317	0321	7327072
 pb	318	0322	7327073
-entry	Capillaire	0	
-entry	Capistre	0	
+entry	Capistre	2	
 pb	319	0323	7327074
-entry	Capistre 	0	
 pb	320	0324	7327075
-entry	Capistre	0	
 entry	Capitiluve	1	
 pb	321	0325	7327076
 entry	Câpre	1	
@@ -580,12 +539,10 @@ entry	Câprier	1
 pb	323	0327	7327078
 entry	Caprizant	0	
 entry	Capsulaire	0	
-entry	Capsule	0	
+entry	Capsule	3	
 pb	324	0328	7327079
-entry	Capsule 	1	
 pb	325	0329	7327080
 pb	326	0330	7327081
-entry	Capsule	0	
 entry	Capucine	1	
 pb	327	0331	7327082
 entry	Caractère	1	
@@ -594,9 +551,8 @@ entry	Caractérisme	0
 entry	Caractéristique	1	
 pb	329	0333	7327084
 entry	Caramel	0	
-entry	Carbonate	0	
+entry	Carbonate	9	
 pb	330	0334	7327085
-entry	Carbonate 	7	
 pb	331	0335	7327086
 pb	332	0336	7327087
 pb	333	0337	7327088
@@ -605,7 +561,6 @@ pb	335	0339	7327090
 pb	336	0340	7327091
 pb	337	0341	7327092
 pb	338	0342	7327093
-entry	Carbonate	0	
 entry	Carbone	10	
 pb	339	0343	7327094
 pb	340	0344	7327095
@@ -624,11 +579,9 @@ pb	351	0355	7327106
 entry	Carbure	0	
 entry	Carcéraire	0	
 entry	Carcinomateux	0	
-entry	Carcinome	0	
+entry	Carcinome	2	
 pb	352	0356	7327107
-entry	Carcinome 	0	
 pb	353	0357	7327108
-entry	Carcinome	0	
 entry	Cardamine	0	
 entry	Cardamome	1	
 pb	354	0358	7327109
@@ -656,9 +609,8 @@ entry	Carditique (fièvre)	0
 pb	369	0373	7327124
 entry	Carditique	0	
 entry	Carébarie	0	
-entry	Carie	0	
+entry	Carie	15	
 pb	370	0374	7327125
-entry	Carie 	13	
 pb	371	0375	7327126
 pb	372	0376	7327127
 pb	373	0377	7327128
@@ -673,7 +625,6 @@ pb	381	0385	7327136
 pb	382	0386	7327137
 pb	383	0387	7327138
 pb	384	0388	7327139
-entry	Carie	0	
 entry	Carline	1	
 pb	385	0389	7327140
 entry	Carminatif	1	
@@ -687,9 +638,8 @@ pb	389	0393	7327144
 entry	Carnosité	1	
 pb	390	0394	7327145
 entry	Caroncule	0	
-entry	Carotide	0	
+entry	Carotide	13	
 pb	391	0395	7327146
-entry	Carotide 	11	
 pb	392	0396	7327147
 pb	393	0397	7327148
 pb	394	0398	7327149
@@ -702,7 +652,6 @@ pb	400	0404	7327155
 pb	401	0405	7327156
 pb	402	0406	7327157
 pb	403	0407	7327158
-entry	Carotide	0	
 entry	Carotidien	0	
 entry	Carotique	0	
 entry	Carotte	1	
@@ -767,11 +716,9 @@ entry	Carus	0
 entry	Carvi	1	
 pb	447	0451	7327202
 entry	Caryocostin	0	
-entry	Cas	0	
+entry	Cas	2	
 pb	448	0452	7327203
-entry	Cas 	0	
 pb	449	0453	7327204
-entry	Cas	0	
 entry	Cascarille	1	
 pb	450	0454	7327205
 entry	Caséate	0	
@@ -802,12 +749,10 @@ pb	464	0468	7327219
 pb	465	0469	7327220
 pb	466	0470	7327221
 entry	Cataire	0	
-entry	Catalepsie	0	
+entry	Catalepsie	3	
 pb	467	0471	7327222
-entry	Catalepsie 	1	
 pb	468	0472	7327223
 pb	469	0473	7327224
-entry	Catalepsie	0	
 entry	Cataleptique	0	
 entry	Cataphora	0	
 entry	Cataphracte	1	
@@ -864,26 +809,22 @@ pb	517	0521	7327272
 pb	518	0522	7327273
 pb	519	0523	7327274
 entry	Catarrhal	0	
-entry	Catarrhe	0	
+entry	Catarrhe	7	
 pb	520	0524	7327275
-entry	Catarrhe  	5	
 pb	521	0525	7327276
 pb	522	0526	7327277
 pb	523	0527	7327278
 pb	524	0528	7327279
 pb	525	0529	7327280
 pb	526	0530	7327281
-entry	Catarrhe	0	
 entry	Catarrheux	0	
 entry	Cathartique	1	
 pb	527	0531	7327282
 entry	Cathémérine	0	
 entry	Cathérétique	0	
-entry	Cathéter	0	
+entry	Cathéter	2	
 pb	528	0532	7327283
-entry	Cathéter 	0	
 pb	529	0533	7327284
-entry	Cathéter	0	
 entry	Cathétérisme	12	
 pb	530	0534	7327285
 pb	531	0535	7327286
@@ -907,7 +848,7 @@ pb	545	0549	7327300
 pb	546	0550	7327301
 pb	547	0551	7327302
 entry	Causalité	0	
-entry	Cause 	6	
+entry	Cause	7	
 pb	548	0552	7327303
 pb	549	0553	7327304
 pb	550	0554	7327305
@@ -915,7 +856,6 @@ pb	551	0555	7327306
 pb	552	0556	7327307
 pb	553	0557	7327308
 pb	554	0558	7327309
-entry	Cause	0	
 entry	Causticité	0	
 entry	Caustique	1	
 pb	555	0559	7327310
@@ -930,12 +870,10 @@ pb	561	0565	7327316
 pb	562	0566	7327317
 pb	563	0567	7327318
 entry	Cautérisation	0	
-entry	Cave	0	
+entry	Cave	3	
 pb	564	0568	7327319
-entry	Cave  	1	
 pb	565	0569	7327320
 pb	566	0570	7327321
-entry	Cave	0	
 entry	Caverne	0	
 entry	Caverneux	0	
 entry	Cavité	0	

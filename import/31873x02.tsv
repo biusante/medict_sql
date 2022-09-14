@@ -50,7 +50,7 @@ entry	Nevrochondrodes	0
 entry	Neurodes	0	
 entry	Nevro-graphie	0	
 entry	Nevro-logie	0	
-entry	Nevro-tomie. De la préparation du cerveau & des nerfs 	0	
+entry	Nevro-tomie. De la préparation du cerveau & des nerfs	0	
 orth	Nevro-tomie. De la préparation du cerveau		
 orth	des nerfs		
 pb	23	0025	6269662
@@ -138,9 +138,8 @@ pb	67	0069	6269706
 entry	Nystagmos	0	
 entry	Obelée	0	
 entry	Obesité	0	
-entry	Oblique 	0	
+entry	Oblique	8	
 pb	68	0070	6269707
-entry	Oblique	7	
 pb	69	0071	6269708
 pb	70	0072	6269709
 pb	71	0073	6269710
@@ -187,7 +186,7 @@ entry	Oesophage	2
 pb	94	0096	6269733
 pb	95	0097	6269734
 entry	Oesophagien	0	
-entry	Oesophago-tomie 	0	
+entry	Oesophago-tomie	0	
 pb	96	0098	6269735
 entry	Oesopharyngien	0	
 entry	Oeuf	0	
@@ -206,9 +205,8 @@ entry	Omenta	0
 entry	Omentum	0	
 entry	Omocotyle	0	
 entry	Omohyoïdien	0	
-entry	Omoplate 	0	
+entry	Omoplate	2	
 pb	100	0102	6269739
-entry	Omoplate	1	
 pb	101	0103	6269740
 entry	Omoplato-hyoïdien	0	
 entry	Omos	0	
@@ -348,7 +346,7 @@ pb	156	0158	6269795
 pb	157	0159	6269796
 pb	158	0160	6269797
 pb	159	0161	6269798
-entry	Ostéo-tomie. 	0	
+entry	Ostéo-tomie.	0	
 pb	160	0162	6269799
 entry	Ostéo-tomie. De l'ostéotomie, &c. de l'extrémité inférieure	0	
 orth	Ostéo-tomie. De l'ostéotomie		
@@ -458,9 +456,8 @@ entry	Pampiniforme	0
 entry	Pancréas	1	
 pb	232	0234	6269871
 entry	Pancréatico-duodenale	0	
-entry	Pancréatique 	0	
+entry	Pancréatique	1	
 pb	233	0235	6269872
-entry	Pancréatique	0	
 entry	Pannicule	1	
 pb	234	0236	6269873
 entry	Peganina	0	
@@ -901,7 +898,7 @@ entry	Renal	0
 entry	Rengorgeur	0	
 entry	Réseau	0	
 entry	Réservoir	0	
-entry	Respiration 	10	
+entry	Respiration	11	
 pb	343	0345	6269982
 pb	344	0346	6269983
 pb	345	0347	6269984
@@ -913,7 +910,6 @@ pb	350	0352	6269989
 pb	351	0353	6269990
 pb	352	0354	6269991
 pb	353	0355	6269992
-entry	Respiration	0	
 entry	Ressort	0	
 entry	Réservoir	0	
 entry	Respirer	0	
@@ -1236,9 +1232,8 @@ entry	Sphaeno-palatin	0
 entry	Sphaeromate	0	
 entry	Sphage	0	
 entry	Sphagidites	0	
-entry	Sphenoïdal 	0	
+entry	Sphenoïdal	1	
 pb	482	0484	6270121
-entry	Sphenoïdal	0	
 entry	Sphenoïde	6	
 pb	483	0485	6270122
 pb	484	0486	6270123
@@ -1317,7 +1312,7 @@ pb	525	0527	6270164
 entry	Splénique	0	
 entry	Splenius	0	
 entry	Spleno-graphie	0	
-entry	Spleno-logie 	0	
+entry	Spleno-logie	0	
 pb	526	0528	6270165
 entry	Spleno-tomie	0	
 entry	Spondylos	0	

@@ -17,7 +17,7 @@ entry	Manuluve	0
 entry	Marasme	2	
 pb	6	0011	7331471
 pb	7	0012	7331472
-entry	Marche 	7	
+entry	Marche	8	
 pb	8	0013	7331473
 pb	9	0014	7331474
 pb	10	0015	7331475
@@ -26,7 +26,6 @@ pb	12	0017	7331477
 pb	13	0018	7331478
 pb	14	0019	7331479
 pb	15	0020	7331480
-entry	Marche	0	
 entry	Margarate	0	
 entry	Margarique	0	
 entry	Marguerite	0	
@@ -39,9 +38,8 @@ entry	Marjolaine	0
 entry	Marmelade de Tronchin	1	
 pb	19	0024	7331484
 entry	Marmite de Papin	0	
-entry	Marronnier 	0	
+entry	Marronnier	1	
 pb	20	0025	7331485
-entry	Marronnier	0	
 entry	Marrube	0	
 entry	Marteau	1	
 pb	21	0026	7331486
@@ -54,16 +52,14 @@ entry	Massette	0
 entry	Massicot	0	
 entry	Mastic	1	
 pb	24	0029	7331489
-entry	Mastication 	0	
+entry	Mastication	1	
 pb	25	0030	7331490
-entry	Mastication	0	
 entry	Masticatoire	0	
 entry	Mastodynie	0	
 entry	Mastoïde	1	
 pb	26	0031	7331491
-entry	Mastoïdien 	0	
+entry	Mastoïdien	1	
 pb	27	0032	7331492
-entry	Mastoïdien	0	
 entry	Masturbation	0	
 entry	Mat	0	
 entry	Matière	1	
@@ -146,25 +142,21 @@ pb	89	0094	7331554
 pb	90	0095	7331555
 pb	91	0096	7331556
 pb	92	0097	7331557
-entry	Médecine	0	
+entry	Médecine	4	
 pb	93	0098	7331558
-entry	Médecine 	3	
 pb	94	0099	7331559
 pb	95	0100	7331560
 pb	96	0101	7331561
 pb	97	0102	7331562
 entry	Médian	1	
 pb	98	0103	7331563
-entry	Médiastin 	0	
+entry	Médiastin	2	
 pb	99	0104	7331564
-entry	Médiastin	1	
 pb	100	0105	7331565
 entry	Médical	0	
-entry	Médicament	0	
+entry	Médicament	2	
 pb	101	0106	7331566
-entry	Médicament 	0	
 pb	102	0107	7331567
-entry	Médicament	0	
 entry	Médication	1	
 pb	103	0108	7331568
 entry	Médicinal	0	
@@ -364,15 +356,13 @@ pb	217	0222	7331682
 entry	Moiteur	0	
 entry	Molaire	1	
 pb	218	0223	7331683
-entry	Mole	0	
+entry	Mole	6	
 pb	219	0224	7331684
-entry	Mole 	4	
 pb	220	0225	7331685
 pb	221	0226	7331686
 pb	222	0227	7331687
 pb	223	0228	7331688
 pb	224	0229	7331689
-entry	Mole	0	
 entry	Molettes	0	
 entry	Mollet	0	
 entry	Molybdate	1	
@@ -397,9 +387,8 @@ pb	234	0239	7331699
 pb	235	0240	7331700
 pb	236	0241	7331701
 pb	237	0242	7331702
-entry	Monstruosité	0	
+entry	Monstruosité	19	
 pb	238	0243	7331703
-entry	Monstruosité 	17	
 pb	239	0244	7331704
 pb	240	0245	7331705
 pb	241	0246	7331706
@@ -418,7 +407,6 @@ pb	253	0258	7331718
 pb	254	0259	7331719
 pb	255	0260	7331720
 pb	256	0261	7331721
-entry	Monstruosité	0	
 entry	Morate	0	
 entry	Morbide	0	
 entry	Morbifique	0	
@@ -434,14 +422,12 @@ pb	259	0264	7331724
 entry	Morphine	2	
 pb	260	0265	7331725
 pb	261	0266	7331726
-entry	Mort	0	
+entry	Mort	5	
 pb	262	0267	7331727
-entry	Mort 	3	
 pb	263	0268	7331728
 pb	264	0269	7331729
 pb	265	0270	7331730
 pb	266	0271	7331731
-entry	Mort	0	
 entry	Mortel	1	
 pb	267	0272	7331732
 entry	Mortier	0	
@@ -559,9 +545,8 @@ pb	351	0356	7331816
 pb	352	0357	7331817
 pb	353	0358	7331818
 pb	354	0359	7331819
-entry	Musculaire	0	
+entry	Musculaire	8	
 pb	355	0360	7331820
-entry	Musculaire 	7	
 pb	356	0361	7331821
 pb	357	0362	7331822
 pb	358	0363	7331823
@@ -591,12 +576,10 @@ entry	Narcisse	2
 pb	369	0374	7331834
 pb	370	0375	7331835
 entry	Narcotine	0	
-entry	Narcotique	0	
+entry	Narcotique	3	
 pb	371	0376	7331836
-entry	Narcotique 	1	
 pb	372	0377	7331837
 pb	373	0378	7331838
-entry	Narcotique	0	
 entry	Nard	1	
 pb	374	0379	7331839
 entry	Narine	0	
@@ -764,16 +747,14 @@ entry	Nostoch	0
 entry	Nouet	0	
 entry	Noueure	1	
 pb	487	0492	7331952
-entry	Nourrice	0	
+entry	Nourrice	7	
 pb	488	0493	7331953
-entry	Nourrice 	5	
 pb	489	0494	7331954
 pb	490	0495	7331955
 pb	491	0496	7331956
 pb	492	0497	7331957
 pb	493	0498	7331958
 pb	494	0499	7331959
-entry	Nourrice	0	
 entry	Noyer	1	
 pb	495	0500	7331960
 entry	Nuit	1	
@@ -801,9 +782,8 @@ pb	509	0514	7331974
 pb	510	0515	7331975
 entry	Oblitération	0	
 entry	Obstruant	0	
-entry	Obstruction 	0	
+entry	Obstruction	1	
 pb	511	0516	7331976
-entry	Obstruction	0	
 entry	Obturateur	4	
 pb	512	0517	7331977
 pb	513	0518	7331978
@@ -852,12 +832,10 @@ pb	540	0545	7332005
 entry	oeillère	0	
 pb	541	0546	7332006
 entry	oeillet	0	
-entry	oenanthe 	0	
+entry	oenanthe	1	
 pb	542	0547	7332007
-entry	oenanthe	0	
-entry	oesophage	0	
+entry	oesophage	6	
 pb	543	0548	7332008
-entry	oesophage 	5	
 pb	544	0549	7332009
 pb	545	0550	7332010
 pb	546	0551	7332011
@@ -865,9 +843,8 @@ pb	547	0552	7332012
 pb	548	0553	7332013
 pb	549	0554	7332014
 entry	oesophagien	0	
-entry	oesophagite 	0	
+entry	oesophagite	5	
 pb	550	0555	7332015
-entry	oesophagite	4	
 pb	551	0556	7332016
 pb	552	0557	7332017
 pb	553	0558	7332018
@@ -876,19 +853,16 @@ entry	Oesophagorrhagie	0
 entry	Oesophagotomie	2	
 pb	555	0560	7332020
 pb	556	0561	7332021
-entry	Oestromanie	0	
+entry	Oestromanie	5	
 pb	557	0562	7332022
-entry	Oestromanie 	3	
 pb	558	0563	7332023
 pb	559	0564	7332024
 pb	560	0565	7332025
 pb	561	0566	7332026
-entry	Oestromanie	0	
-entry	oeuf 	2	
+entry	oeuf	3	
 pb	562	0567	7332027
 pb	563	0568	7332028
 pb	564	0569	7332029
-entry	oeuf	0	
 entry	Officinal	0	
 entry	Officine	0	
 entry	Oignon	2	
@@ -909,9 +883,8 @@ pb	571	0576	7332036
 entry	Olivile	0	
 entry	Ombilic	1	
 pb	572	0577	7332037
-entry	Ombilical 	0	
+entry	Ombilical	10	
 pb	573	0578	7332038
-entry	Ombilical	9	
 pb	574	0579	7332039
 pb	575	0580	7332040
 pb	576	0581	7332041

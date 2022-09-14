@@ -264,11 +264,9 @@ entry	Benzine	1
 pb	117	0125	5584621
 entry	Benzoiques (Acide)	1	
 pb	118	0126	5584622
-entry	Benzonaphtol	0	
+entry	Benzonaphtol	2	
 pb	119	0127	5584623
-entry	Benzonaphtol 	0	
 pb	120	0128	5584624
-entry	Benzonaphtol	0	
 entry	Benzo-Paracrésol	0	
 entry	Benzosol	1	
 pb	121	0129	5584625
@@ -388,25 +386,21 @@ entry	Carabana	1
 pb	163	0171	5584667
 entry	Carapa gianensis	0	
 entry	Caratao	0	
-entry	Carbothialdine 	0	
+entry	Carbothialdine	1	
 pb	164	0172	5584668
-entry	Carbothialdine	0	
 entry	Cardo	0	
 entry	Carrisa xylopicron	0	
 entry	Carlao	0	
-entry	Carpaïne 	0	
+entry	Carpaïne	1	
 pb	165	0173	5584669
-entry	Carpaïne	0	
 entry	Carvalhal	0	
 entry	Carvalhelhos	0	
 entry	Casas da ribeira	0	
 entry	Cascaes	0	
-entry	Cascara sagrada 	0	
+entry	Cascara sagrada	1	
 pb	166	0174	5584670
-entry	Cascara sagrada	0	
-entry	Casearia esculanta 	0	
+entry	Casearia esculanta	1	
 pb	167	0175	5584671
-entry	Casearia esculanta	0	
 entry	Castanheirinho	0	
 entry	Catha edulis	1	
 pb	168	0176	5584672
@@ -453,7 +447,7 @@ pb	185	0193	5584689
 pb	186	0194	5584690
 pb	187	0195	5584691
 pb	188	0196	5584692
-entry	Chlore	11	
+entry	Chlore	13	
 pb	189	0197	5584693
 pb	190	0198	5584694
 pb	191	0199	5584695
@@ -466,9 +460,7 @@ pb	197	0205	5584701
 pb	198	0206	5584702
 pb	199	0207	5584703
 pb	200	0208	5584704
-entry	Chlore 	0	
 pb	201	0209	5584705
-entry	Chlore	0	
 entry	Chromique (Acide)	1	
 pb	202	0210	5584706
 entry	Chrysarobine	1	
@@ -477,7 +469,7 @@ entry	Chulilla	0
 entry	Clots (les)	0	
 entry	Ciguë	1	
 pb	204	0212	5584708
-entry	Clerodendron heterophyllum 	0	
+entry	Clerodendron heterophyllum	0	
 pb	205	0213	5584709
 entry	Clitorea terneata	0	
 entry	Clusia rosea	0	
@@ -506,15 +498,13 @@ pb	224	0232	5584728
 pb	225	0233	5584729
 pb	226	0234	5584730
 entry	Coïmbra	0	
-entry	Colchicine 	0	
+entry	Colchicine	1	
 pb	227	0235	5584731
-entry	Colchicine	0	
 entry	Colocasia esculenta	1	
 pb	228	0236	5584732
 entry	Colocynthine	0	
-entry	Colombo 	0	
+entry	Colombo	2	
 pb	229	0237	5584733
-entry	Colombo	1	
 pb	230	0238	5584734
 entry	Combretum Raimbaultii	1	
 pb	231	0239	5584735
@@ -529,14 +519,12 @@ pb	236	0244	5584740
 entry	Corconte	0	
 entry	Cordelle	0	
 pb	237	0245	5584741
-entry	Coronilla scorpioides 	0	
+entry	Coronilla scorpioides	1	
 pb	238	0246	5584742
-entry	Coronilla scorpioides	0	
 entry	Cortézubi	0	
 entry	Corva Ceira	0	
-entry	Corydalis Bulbosa 	0	
+entry	Corydalis Bulbosa	1	
 pb	239	0247	5584743
-entry	Corydalis Bulbosa	0	
 entry	Coscinium fenestratum	0	
 entry	Costancia	0	
 entry	Coto paracoto	0	
@@ -556,9 +544,8 @@ pb	246	0254	5584750
 pb	247	0255	5584751
 entry	Crésine	0	
 entry	Crésolsaponate	0	
-entry	Crésylol 	0	
+entry	Crésylol	1	
 pb	248	0256	5584752
-entry	Crésylol	0	
 entry	Cristalline	0	
 entry	Croton flaveux	0	
 entry	Crotonolique (Acide)	1	
@@ -583,21 +570,17 @@ entry	Dadi-gogo	0
 entry	Damiana	1	
 pb	254	0262	5584758
 entry	Datura stramonium	0	
-entry	Dermatol 	2	
+entry	Dermatol	3	
 pb	255	0263	5584759
 pb	256	0264	5584760
 pb	257	0265	5584761
-entry	Dermatol	0	
-entry	Derris elliptica 	0	
+entry	Derris elliptica	1	
 pb	258	0266	5584762
-entry	Derris elliptica	0	
 entry	Désinfectol	0	
-entry	Diaphtérine 	0	
+entry	Diaphtérine	1	
 pb	259	0267	5584763
-entry	Diaphtérine	0	
-entry	Diaphtol 	0	
+entry	Diaphtol	1	
 pb	260	0268	5584764
-entry	Diaphtol	0	
 entry	Digitale	8	
 pb	261	0269	5584765
 pb	262	0270	5584766
@@ -607,9 +590,8 @@ pb	265	0273	5584769
 pb	266	0274	5584770
 pb	267	0275	5584771
 pb	268	0276	5584772
-entry	Dihydrométhylphénylpipérazine 	0	
+entry	Dihydrométhylphénylpipérazine	1	
 pb	269	0277	5584773
-entry	Dihydrométhylphénylpipérazine	0	
 entry	Diodoforme	0	
 entry	Diiodosalicylique (Acide)	0	
 entry	Dioxynapthalène	0	
@@ -625,12 +607,11 @@ entry	Dolincourt	0
 entry	Dorstenia contrayerva	1	
 pb	275	0283	5584779
 entry	Doubaou de germ	0	
-entry	Duboisia Myoporoides 	0	
+entry	Duboisia Myoporoides	0	
 pb	276	0284	5584780
-entry	Duboisine 	1	
+entry	Duboisine	2	
 pb	277	0285	5584781
 pb	278	0286	5584782
-entry	Duboisine	0	
 entry	Dulcine	0	
 entry	Dun-Le-Poelier	0	
 pb	279	0287	5584783
@@ -657,9 +638,8 @@ pb	295	0303	5584799
 pb	296	0304	5584800
 entry	Elorrio	0	
 entry	Elvas	0	
-entry	Embelia Ribes	0	
+entry	Embelia Ribes	4	
 pb	297	0305	5584801
-entry	Embelia Ribes 	3	
 pb	298	0306	5584802
 pb	299	0307	5584803
 pb	300	0308	5584804
@@ -692,33 +672,29 @@ entry	Espigao	0
 entry	Estadilla	0	
 entry	Estoril	0	
 entry	Estrada da beira	0	
-entry	Ether 	0	
+entry	Ether	6	
 pb	315	0323	5584819
-entry	Ether	5	
 pb	316	0324	5584820
 pb	317	0325	5584821
 pb	318	0326	5584822
 pb	319	0327	5584823
 pb	320	0328	5584824
-entry	Eucalyptus 	0	
+entry	Eucalyptus	3	
 pb	321	0329	5584825
-entry	Eucalyptus	2	
 pb	322	0330	5584826
 pb	323	0331	5584827
 pb	324	0332	5584828
 entry	Eugénolacétamide	0	
 entry	Eulyptol	0	
 entry	Eupatorium purpureum	0	
-entry	Euphorine 	2	
+entry	Euphorine	3	
 pb	325	0333	5584829
 pb	326	0334	5584830
 pb	327	0335	5584831
-entry	Euphorine	0	
 entry	Euphrasia officinalis	0	
-entry	Europhène 	1	
+entry	Europhène	2	
 pb	328	0336	5584832
 pb	329	0337	5584833
-entry	Europhène	0	
 entry	Eurybine	0	
 entry	Exalgine	8	
 pb	330	0338	5584834
@@ -756,36 +732,31 @@ entry	Fonte dos amores	0
 entry	Fontellas	0	
 entry	Fonte santa	0	
 entry	Formanilide	0	
-entry	Formol	0	
+entry	Formol	4	
 pb	349	0357	5584853
-entry	Formol 	2	
 pb	350	0358	5584854
 pb	351	0359	5584855
 pb	352	0360	5584856
-entry	Formol	0	
 entry	Fornalha	0	
 entry	Fougère male	1	
 pb	353	0361	5584857
 entry	Foz da certa	0	
 entry	Fraiao	0	
-entry	Frasera Walteri 	0	
+entry	Frasera Walteri	1	
 pb	354	0362	5584858
-entry	Frasera Walteri	0	
 entry	Freixialinho	0	
 entry	Freixo	0	
 entry	Fritillaire	0	
-entry	Fromentine 	1	
+entry	Fromentine	2	
 pb	355	0363	5584859
 pb	356	0364	5584860
-entry	 Fromentine	0	
 entry	Fuchsine	0	
 entry	Fucus Vesiculosus	0	
 entry	Fuente agria devillaharta	0	
 entry	Furadoiro	0	
 entry	Gafete	0	
-entry	Gaïac 	0	
+entry	Gaïac	10	
 pb	357	0365	5584861
-entry	Gaïac	9	
 pb	358	0366	5584862
 pb	359	0367	5584863
 pb	360	0368	5584864
@@ -801,24 +772,20 @@ pb	368	0376	5584872
 entry	Gallacétophénone	0	
 entry	Gallanol	1	
 pb	369	0377	5584873
-entry	Gallegos 	0	
+entry	Gallegos	1	
 pb	370	0378	5584874
-entry	Gallegos	0	
-entry	Gallobromol 	0	
+entry	Gallobromol	1	
 pb	371	0379	5584875
-entry	Gallobromol	0	
 entry	Galloparatoluide	0	
 entry	Galos	0	
 entry	Garcinia collina	0	
-entry	Gardenia 	0	
+entry	Gardenia	1	
 pb	372	0380	5584876
-entry	Gardenia	0	
-entry	Gaulthéria 	0	
+entry	Gaulthéria	1	
 pb	373	0381	5584877
-entry	Gaulthéria	0	
 entry	Gaviao	0	
 entry	Gayeiras	0	
-entry	Gelsemium sempervirens 	2	
+entry	Gelsemium sempervirens	2	
 pb	374	0382	5584878
 pb	375	0383	5584879
 pb	376	0384	5584880
@@ -830,12 +797,11 @@ entry	Gerez	0
 entry	Gillenia trifoliata	0	
 pb	378	0386	5584882
 entry	Glucozone	0	
-entry	Glycérine 	3	
+entry	Glycérine	4	
 pb	379	0387	5584883
 pb	380	0388	5584884
 pb	381	0389	5584885
 pb	382	0390	5584886
-entry	Glycérine	0	
 entry	Glycérophosphates	0	
 entry	Gracileria lichenoides	0	
 entry	Grajal	0	
@@ -846,16 +812,14 @@ pb	383	0391	5584887
 entry	Grindelia robusta	2	
 pb	384	0392	5584888
 pb	385	0393	5584889
-entry	Guaco 	0	
+entry	Guaco	1	
 pb	386	0394	5584890
-entry	Guaco	0	
 entry	Guesala	0	
 entry	Gurjun	0	
 entry	Gymnema Sylvestre	1	
 pb	387	0395	5584891
-entry	Gynocardia odorata 	0	
+entry	Gynocardia odorata	1	
 pb	388	0396	5584892
-entry	Gynocardia odorata	0	
 entry	Hagécourt	0	
 entry	Halviva angustifolia	1	
 pb	389	0397	5584893
@@ -872,9 +836,8 @@ entry	Hammam-el-hout	0
 entry	Hammam-el-lif	0	
 entry	Hammam-korbès	0	
 entry	Hauterive	0	
-entry	Hedychium spicatum 	0	
+entry	Hedychium spicatum	1	
 pb	391	0399	5584895
-entry	Hedychium spicatum	0	
 entry	Helianthus annuus	0	
 entry	Helionias dioica	1	
 pb	392	0400	5584896
@@ -891,14 +854,8 @@ entry	Herniaria glabra	1
 pb	397	0405	5584901
 entry	Hevea guianesis	1	
 pb	398	0406	5584902
-entry	Hoang-nan	1	
+entry	Hoang-nan	0	
 pb	399	0407	5584903
-entry	Homeria collina	0	
-entry	Hopéine	0	
-entry	Houblon	0	
-entry	Hoznayo	0	
-entry	Hugonia serrata	0	
-entry	Hura Crepitans	0	
 pb	400	0408	5584904
 entry	Hura crepitans	0	
 entry	Hybanthus ipecacuanha	0	
@@ -1691,27 +1648,23 @@ pb	766	0774	5585270
 pb	767	0775	5585271
 entry	Solanine	1	
 pb	768	0776	5585272
-entry	Solanum tuberosum 	2	
+entry	Solanum tuberosum	3	
 pb	769	0777	5585273
 pb	770	0778	5585274
 pb	771	0779	5585275
-entry	Solanum tuberosum	0	
 entry	Soldanelle	0	
 entry	Solidago virga aurea	0	
 entry	Solphinol	0	
 entry	Solutol	1	
 pb	772	0780	5585276
-entry	Somnal 	0	
+entry	Somnal	1	
 pb	773	0781	5585277
-entry	Somnal	0	
-entry	Sophora speciosa 	0	
+entry	Sophora speciosa	1	
 pb	774	0782	5585278
-entry	Sophora speciosa	0	
 entry	Soportilla	0	
 entry	Sorgho vulgare	0	
-entry	Souchet rond 	0	
+entry	Souchet rond	1	
 pb	775	0783	5585279
-entry	Souchet rond	0	
 entry	Soude	6	
 pb	776	0784	5585280
 pb	777	0785	5585281
@@ -1730,18 +1683,16 @@ entry	Soure	0
 entry	Souto do Bispo	0	
 entry	Souza	0	
 entry	Souzel	0	
-entry	Soymide febrifuga 	0	
+entry	Soymide febrifuga	1	
 pb	787	0795	5585291
-entry	Soymide febrifuga	0	
 entry	Sozal	0	
 entry	Spartèine	2	
 pb	788	0796	5585292
 pb	789	0797	5585293
 entry	Sphoeranthus indicus	0	
 entry	Staphysaigre	0	
-entry	Statice caroliniana 	0	
+entry	Statice caroliniana	1	
 pb	790	0798	5585294
-entry	Statice caroliniana	0	
 entry	Stazzona	0	
 entry	Sterculia urens	1	
 pb	791	0799	5585295
@@ -1756,14 +1707,13 @@ pb	796	0804	5585300
 pb	797	0805	5585301
 pb	798	0806	5585302
 pb	799	0807	5585303
-entry	Strophantus 	5	
+entry	Strophantus	6	
 pb	800	0808	5585304
 pb	801	0809	5585305
 pb	802	0810	5585306
 pb	803	0811	5585307
 pb	804	0812	5585308
 pb	805	0813	5585309
-entry	Strophantus	0	
 entry	Styracol	1	
 pb	806	0814	5585310
 entry	Sucres	3	
@@ -1912,7 +1862,7 @@ entry	Vals	1
 pb	862	0870	5585366
 entry	Vaour	0	
 entry	Venda Secca	0	
-entry	 Vératrine	1	
+entry	Vératrine	1	
 pb	863	0871	5585367
 pb	864	0872	5585368
 entry	Vergèse	0	
@@ -1940,7 +1890,7 @@ entry	Vitis idoea	1
 pb	868	0876	5585372
 entry	Vizella	0	
 entry	Voandzaia subterranea	0	
-entry	 Volutarella divaricata	1	
+entry	Volutarella divaricata	1	
 pb	869	0877	5585373
 entry	Vouzella	0	
 entry	Wayika	0	

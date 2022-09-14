@@ -385,9 +385,8 @@ pb	278	0281	7332903
 pb	279	0282	7332904
 pb	280	0283	7332905
 pb	281	0284	7332906
-entry	Poivrier 	0	
+entry	Poivrier	1	
 pb	282	0285	7332907
-entry	Poivrier	0	
 entry	Poix	1	
 pb	283	0286	7332908
 entry	Polarisation	0	
@@ -400,9 +399,8 @@ entry	Polychroite	1
 pb	285	0288	7332910
 entry	Polycholie	0	
 entry	Polygala	0	
-entry	Polype 	0	
+entry	Polype	7	
 pb	286	0289	7332911
-entry	Polype	6	
 pb	287	0290	7332912
 pb	288	0291	7332913
 pb	289	0292	7332914
@@ -581,18 +579,16 @@ pb	406	0409	7333031
 pb	407	0410	7333032
 pb	408	0411	7333033
 pb	409	0412	7333034
-entry	Progression 	0	
+entry	Progression	0	
 pb	410	0413	7333035
 entry	Pronateur	0	
 entry	Pronation	0	
-entry	Pronostic 	0	
+entry	Pronostic	2	
 pb	411	0414	7333036
-entry	Pronostic	1	
 pb	412	0415	7333037
-entry	Prophylaxie 	1	
+entry	Prophylaxie	2	
 pb	413	0416	7333038
 pb	414	0417	7333039
-entry	Prophylaxie	0	
 entry	Propolis	0	
 entry	Prostate	1	
 pb	415	0418	7333040
@@ -609,9 +605,8 @@ pb	418	0421	7333043
 pb	419	0422	7333044
 pb	420	0423	7333045
 pb	421	0424	7333046
-entry	Prurit 	0	
+entry	Prurit	2	
 pb	422	0425	7333047
-entry	Prurit	1	
 pb	423	0426	7333048
 entry	Psoas	1	
 pb	424	0427	7333049
@@ -622,32 +617,27 @@ entry	Ptérygion	2
 pb	426	0429	7333051
 pb	427	0430	7333052
 entry	Ptérygoïde	0	
-entry	Ptérygoïdien 	0	
+entry	Ptérygoïdien	1	
 pb	428	0431	7333053
-entry	Ptérygoïdien	0	
-entry	Ptérygo-palatin 	0	
+entry	Ptérygo-palatin	0	
 pb	429	0432	7333054
 entry	Puberté	0	
-entry	Pubien 	1	
+entry	Pubien	2	
 pb	430	0433	7333055
 pb	431	0434	7333056
-entry	Pubien	0	
 entry	Pubis	0	
 entry	Puerpéral	1	
 pb	432	0435	7333057
-entry	Pulmonaire	0	
+entry	Pulmonaire	2	
 pb	433	0436	7333058
-entry	Pulmonaire 	0	
 pb	434	0437	7333059
-entry	Pulmonaire	0	
 entry	Pulmonaire (plante)	0	
 pb	435	0438	7333060
 entry	Pulpe	0	
 entry	Pulsatif	0	
 entry	Pulvérisation	0	
-entry	Pupillaire 	0	
+entry	Pupillaire	1	
 pb	436	0439	7333061
-entry	Pupillaire	0	
 entry	Pupille	1	
 pb	437	0440	7333062
 entry	Purgatif	5	
@@ -670,9 +660,8 @@ pb	446	0449	7333071
 entry	Pustule maligne	2	
 pb	447	0450	7333072
 pb	448	0451	7333073
-entry	Putréfaction 	0	
+entry	Putréfaction	3	
 pb	449	0452	7333074
-entry	Putréfaction	2	
 pb	450	0453	7333075
 pb	451	0454	7333076
 entry	Putride	0	
@@ -682,11 +671,9 @@ pb	453	0456	7333078
 entry	Putrilage	0	
 entry	Pylore	0	
 entry	Pylorique	0	
-entry	Pyramidal	0	
+entry	Pyramidal	2	
 pb	454	0457	7333079
-entry	Pyramidal 	0	
 pb	455	0458	7333080
-entry	Pyramidal	0	
 entry	Pyrèthre	0	
 entry	Pyrexie	0	
 entry	Pyro-acétique	0	
@@ -703,12 +690,10 @@ pb	458	0461	7333083
 entry	Quadrijumeaux	0	
 entry	Quarantaine	1	
 pb	459	0462	7333084
-entry	Quarte	0	
+entry	Quarte	3	
 pb	460	0463	7333085
-entry	Quarte 	1	
 pb	461	0464	7333086
 pb	462	0465	7333087
-entry	Quarte	0	
 entry	Queue	0	
 entry	Quinine	0	
 entry	Quinquina	12	
@@ -733,7 +718,7 @@ pb	474	0479	7333101
 pb	475	0480	7333102
 entry	Rachialgie	0	
 entry	Rachidien	0	
-entry	Rachitisme 	6	
+entry	Rachitisme	7	
 pb	476	0481	7333103
 pb	477	0482	7333104
 pb	478	0483	7333105
@@ -741,11 +726,9 @@ pb	479	0484	7333106
 pb	480	0485	7333107
 pb	481	0486	7333108
 pb	482	0487	7333109
-entry	Rachitisme	0	
 entry	Racine	0	
-entry	Radesyge 	0	
+entry	Radesyge	2	
 pb	483	0488	7333110
-entry	Radesyge	1	
 pb	484	0489	7333111
 entry	Radial	7	
 pb	485	0490	7333112
@@ -756,7 +739,7 @@ pb	489	0494	7333116
 pb	490	0495	7333117
 pb	491	0496	7333118
 entry	Radical	0	
-entry	Radio-carpien 	6	
+entry	Radio-carpien	7	
 pb	492	0497	7333119
 pb	493	0498	7333120
 pb	494	0499	7333121
@@ -764,13 +747,12 @@ pb	495	0500	7333122
 pb	496	0501	7333123
 pb	497	0502	7333124
 pb	498	0503	7333125
-entry	Radio-carpien	0	
 entry	Radius	4	
 pb	499	0504	7333126
 pb	500	0505	7333127
 pb	501	0506	7333128
 pb	502	0507	7333129
-entry	Rage 	21	
+entry	Rage	22	
 pb	503	0508	7333130
 pb	504	0509	7333131
 pb	505	0510	7333132
@@ -793,21 +775,17 @@ pb	521	0526	7333148
 pb	522	0527	7333149
 pb	523	0528	7333150
 pb	524	0529	7333151
-entry	Rage	0	
 entry	Raifort	1	
 pb	525	0530	7333152
-entry	Râle	0	
+entry	Râle	2	
 pb	526	0531	7333153
-entry	Râle 	0	
 pb	527	0532	7333154
-entry	Râle	0	
 entry	Ramollissement	0	
 pb	528	0533	7333155
 entry	Ranine	0	
 entry	Raphe	0	
-entry	Rapport 	0	
+entry	Rapport	6	
 pb	529	0534	7333156
-entry	Rapport	5	
 pb	530	0535	7333157
 pb	531	0536	7333158
 pb	532	0537	7333159
@@ -817,12 +795,10 @@ entry	Râpure	0
 entry	Raréfaction	0	
 entry	Ratanhia	1	
 pb	535	0540	7333162
-entry	Rate	0	
+entry	Rate	5	
 pb	536	0541	7333163
-entry	Rate 	3	
 pb	537	0542	7333164
 pb	538	0543	7333165
 pb	539	0544	7333166
 pb	540	0545	7333167
-entry	Rate	0	
 entry	Rayon	0	

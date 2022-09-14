@@ -6,7 +6,7 @@ pb	[s. pag.]	0004	7330871
 entry	[Page de titre]	0	
 pb	[s. pag.]	0005	7330872
 pb	1	0006	7330873
-entry	Dictionnaire abrégé des Sciences médicales. Infibulation 	0	
+entry	Dictionnaire abrégé des Sciences médicales. Infibulation	0	
 pb	2	0007	7330874
 entry	Infibulation	0	
 entry	Infiltration	0	
@@ -125,15 +125,13 @@ entry	Ingurgitation	0
 entry	Inhalant	0	
 entry	Inhalation	0	
 entry	Injecté	0	
-entry	Injection	0	
+entry	Injection	6	
 pb	104	0109	7330976
-entry	Injection 	4	
 pb	105	0110	7330977
 pb	106	0111	7330978
 pb	107	0112	7330979
 pb	108	0113	7330980
 pb	109	0114	7330981
-entry	Injection	0	
 entry	Innominé	1	
 pb	110	0115	7330982
 entry	Inoculation	0	
@@ -257,16 +255,14 @@ pb	176	0181	7331048
 pb	177	0182	7331049
 entry	Inviscant	0	
 entry	Iodate	0	
-entry	Iode	0	
+entry	Iode	7	
 pb	178	0183	7331050
-entry	Iode 	5	
 pb	179	0184	7331051
 pb	180	0185	7331052
 pb	181	0186	7331053
 pb	182	0187	7331054
 pb	183	0188	7331055
 pb	184	0189	7331056
-entry	Iode	0	
 entry	Iodique	0	
 entry	Iodure	0	
 entry	Ipécacuanha	8	
@@ -535,9 +531,8 @@ entry	Laiteron	1
 pb	354	0359	7331226
 entry	Laiteux	0	
 entry	Laiton	0	
-entry	Laitue 	0	
+entry	Laitue	1	
 pb	355	0360	7331227
-entry	Laitue	0	
 entry	Lallation	0	
 entry	Lambdoïde	0	
 entry	Lambeau	0	
@@ -629,9 +624,8 @@ pb	398	0401	7331268
 entry	Lentille	0	
 entry	Lentisque	1	
 pb	399	0402	7331269
-entry	Lèpre 	0	
+entry	Lèpre	12	
 pb	400	0403	7331270
-entry	Lèpre	11	
 pb	401	0404	7331271
 pb	402	0405	7331272
 pb	403	0406	7331273
@@ -660,14 +654,12 @@ entry	Leucophlegmatie	0
 entry	Leucorrhée	0	
 entry	Leucorrhoïque	0	
 entry	Levain	0	
-entry	Levier	0	
+entry	Levier	5	
 pb	418	0421	7331288
-entry	Levier 	3	
 pb	419	0422	7331289
 pb	420	0423	7331290
 pb	421	0424	7331291
 pb	422	0425	7331292
-entry	Levier	0	
 entry	Lévigation	0	
 entry	Lèvre	4	
 pb	423	0426	7331293
@@ -733,13 +725,11 @@ entry	Liquidambar	1
 pb	450	0453	7331320
 entry	Liquide	0	
 entry	Lis	0	
-entry	Liseron 	0	
+entry	Liseron	1	
 pb	451	0454	7331321
-entry	Liseron	0	
 entry	Lisières	0	
-entry	Lit 	0	
+entry	Lit	2	
 pb	452	0455	7331322
-entry	Lit	1	
 pb	453	0456	7331323
 entry	Litharge	0	
 entry	Lithine	0	
@@ -755,12 +745,11 @@ entry	Lobélie	0
 entry	Lobule	0	
 entry	Local	0	
 pb	456	0459	7331326
-entry	Lochies 	3	
+entry	Lochies	4	
 pb	457	0460	7331327
 pb	458	0461	7331328
 pb	459	0462	7331329
 pb	460	0463	7331330
-entry	Lochies	0	
 entry	Locomoteur	0	
 entry	Locomotilité	0	
 entry	Locomotion	2	
@@ -786,12 +775,10 @@ pb	468	0471	7331338
 entry	Louche	0	
 entry	Loup	0	
 entry	Loupe	0	
-entry	Louvet	1	
+entry	Louvet	3	
 pb	469	0472	7331339
 pb	470	0473	7331340
-entry	Louvet 	0	
 pb	471	0474	7331341
-entry	Louvet	0	
 entry	Loxarthre	0	
 entry	Lucide	0	
 entry	Luctueux	0	
@@ -878,11 +865,9 @@ entry	Magistère	0
 entry	Magistral	1	
 pb	523	0526	7331393
 entry	Magma	0	
-entry	Magnésie	0	
+entry	Magnésie	2	
 pb	524	0527	7331394
-entry	Magnésie 	0	
 pb	525	0528	7331395
-entry	Magnésie	0	
 entry	Magnésium	0	
 entry	Magnétique	0	
 entry	Magnétisme	6	
@@ -895,9 +880,8 @@ pb	531	0534	7331401
 entry	Magnolier	0	
 entry	Mahaleb	1	
 pb	532	0535	7331402
-entry	Maigreur 	0	
+entry	Maigreur	1	
 pb	533	0536	7331403
-entry	Maigreur	0	
 entry	Maillot	1	
 pb	534	0537	7331404
 entry	Main	2	
@@ -957,12 +941,10 @@ pb	565	0568	7331435
 pb	566	0569	7331436
 pb	567	0570	7331437
 pb	568	0571	7331438
-entry	Mamelon	0	
+entry	Mamelon	3	
 pb	569	0572	7331439
-entry	Mamelon 	1	
 pb	570	0573	7331440
 pb	571	0574	7331441
-entry	Mamelon	0	
 entry	Mamelonné	0	
 entry	Mamillaire	0	
 entry	Mammaire	2	
@@ -994,6 +976,5 @@ pb	586	0589	7331456
 pb	587	0590	7331457
 pb	588	0591	7331458
 pb	589	0592	7331459
-entry	Manioc 	0	
+entry	Manioc	1	
 pb	590	0593	7331460
-entry	Manioc	0	

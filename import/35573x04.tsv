@@ -8,7 +8,7 @@ pb	[s. pag.]	0005	7327328
 pb	1	0006	7327329
 entry	Dictionnaire abrégé des Sciences Médicales. Cécité	0	
 pb	2	0007	7327330
-entry	Cécité 	13	
+entry	Cécité	14	
 pb	3	0008	7327331
 pb	4	0009	7327332
 pb	5	0010	7327333
@@ -23,17 +23,14 @@ pb	13	0018	7327341
 pb	14	0019	7327342
 pb	15	0020	7327343
 pb	16	0021	7327344
-entry	Cécité	0	
 entry	Ceinture	1	
 pb	17	0022	7327345
 entry	Célation	1	
 pb	18	0023	7327346
 entry	Céleri	0	
-entry	Célibat	0	
+entry	Célibat	2	
 pb	19	0024	7327347
-entry	Célibat 	0	
 pb	20	0025	7327348
-entry	Célibat	0	
 entry	Cellulaire	8	
 pb	21	0026	7327349
 pb	22	0027	7327350
@@ -80,11 +77,9 @@ entry	Cératocèle	1
 pb	45	0050	7327373
 entry	Cérato-pharyngien	0	
 entry	Cérato-staphylin	0	
-entry	Cératotome	0	
+entry	Cératotome	2	
 pb	46	0051	7327374
-entry	Cératotome 	0	
 pb	47	0052	7327375
-entry	Cératotome	0	
 entry	Cératotomie	0	
 entry	Cérébral	3	
 pb	48	0053	7327376
@@ -187,7 +182,7 @@ pb	132	0137	7327460
 pb	133	0138	7327461
 pb	134	0139	7327462
 pb	135	0140	7327463
-entry	Cervelet 	8	
+entry	Cervelet	9	
 pb	136	0141	7327464
 pb	137	0142	7327465
 pb	138	0143	7327466
@@ -197,13 +192,11 @@ pb	141	0146	7327469
 pb	142	0147	7327470
 pb	143	0148	7327471
 pb	144	0149	7327472
-entry	Cervelet	0	
-entry	Cervical 	3	
+entry	Cervical	4	
 pb	145	0150	7327473
 pb	146	0151	7327474
 pb	147	0152	7327475
 pb	148	0153	7327476
-entry	Cervical	0	
 entry	Cétérach	0	
 entry	Cétine	1	
 pb	149	0154	7327477
@@ -250,12 +243,10 @@ entry	Charlatan	2
 pb	177	0182	7327505
 pb	178	0183	7327506
 entry	Charnu	0	
-entry	Charpie	0	
+entry	Charpie	3	
 pb	179	0184	7327507
-entry	Charpie 	1	
 pb	180	0185	7327508
 pb	181	0186	7327509
-entry	Charpie	0	
 entry	Chartre	0	
 entry	Chas	0	
 entry	Chasse	0	
@@ -302,19 +293,16 @@ pb	200	0205	7327528
 pb	201	0206	7327529
 pb	202	0207	7327530
 entry	Chiragre	0	
-entry	Chiromancie	0	
+entry	Chiromancie	3	
 pb	203	0208	7327531
-entry	Chiromancie 	1	
 pb	204	0209	7327532
 pb	205	0210	7327533
-entry	Chiromancie	0	
 entry	Chirone	1	
 pb	206	0211	7327534
 entry	Chironien	0	
 entry	Chirurgical	0	
-entry	Chirurgie	0	
+entry	Chirurgie	16	
 pb	207	0212	7327535
-entry	Chirurgie 	14	
 pb	208	0213	7327536
 pb	209	0214	7327537
 pb	210	0215	7327538
@@ -330,7 +318,6 @@ pb	219	0224	7327547
 pb	220	0225	7327548
 pb	221	0226	7327549
 pb	222	0227	7327550
-entry	Chirurgie	0	
 entry	Chirurgien	6	
 pb	223	0228	7327551
 pb	224	0229	7327552
@@ -374,11 +361,9 @@ entry	Chocolat	2
 pb	246	0251	7327574
 pb	247	0252	7327575
 entry	Cholagogue	0	
-entry	Cholécyste	0	
+entry	Cholécyste	2	
 pb	248	0253	7327576
-entry	Cholécyste 	0	
 pb	249	0254	7327577
-entry	Cholécyste	0	
 entry	Cholécystite	2	
 pb	250	0255	7327578
 pb	251	0256	7327579
@@ -403,20 +388,17 @@ pb	260	0265	7327588
 pb	261	0266	7327589
 pb	262	0267	7327590
 entry	Chorion	0	
-entry	Choroïde 	0	
+entry	Choroïde	3	
 pb	263	0268	7327591
-entry	Choroïde	2	
 pb	264	0269	7327592
 pb	265	0270	7327593
 entry	Choroïdien	0	
 entry	Choroïdite	1	
 pb	266	0271	7327594
 entry	Chose	0	
-entry	Chou	0	
+entry	Chou	2	
 pb	267	0272	7327595
-entry	Chou   	0	
 pb	268	0273	7327596
-entry	Chou	0	
 entry	Choufleur	0	
 entry	Chromate	0	
 entry	Chrome	1	
@@ -464,11 +446,9 @@ pb	295	0300	7327623
 entry	Cicutaire	1	
 pb	296	0301	7327624
 entry	Cicutine	0	
-entry	Cidre	0	
+entry	Cidre	2	
 pb	297	0302	7327625
-entry	Cidre 	0	
 pb	298	0303	7327626
-entry	Cidre	0	
 entry	Ciguë	2	
 pb	299	0304	7327627
 pb	300	0305	7327628
@@ -480,20 +460,17 @@ pb	303	0308	7327631
 entry	Cinchonine	1	
 pb	304	0309	7327632
 entry	Circée	0	
-entry	Circoncision	0	
+entry	Circoncision	3	
 pb	305	0310	7327633
-entry	Circoncision 	1	
 pb	306	0311	7327634
 pb	307	0312	7327635
-entry	Circoncision	0	
 entry	Circonférence	0	
 entry	Circonflexe	0	
 entry	Circonvolution	1	
 pb	308	0313	7327636
 entry	Circulaire	0	
-entry	Circulation	0	
+entry	Circulation	12	
 pb	309	0314	7327637
-entry	Circulation 	10	
 pb	310	0315	7327638
 pb	311	0316	7327639
 pb	312	0317	7327640
@@ -505,7 +482,6 @@ pb	317	0322	7327645
 pb	318	0323	7327646
 pb	319	0324	7327647
 pb	320	0325	7327648
-entry	Circulation	0	
 entry	Cire	3	
 pb	321	0326	7327649
 pb	322	0327	7327650
@@ -549,7 +525,7 @@ pb	345	0350	7327673
 entry	Claudication	0	
 pb	346	0351	7327674
 entry	Clavaire	0	
-entry	Clavelée 	6	
+entry	Clavelée	7	
 pb	347	0352	7327675
 pb	348	0353	7327676
 pb	349	0354	7327677
@@ -557,7 +533,6 @@ pb	350	0355	7327678
 pb	351	0356	7327679
 pb	352	0357	7327680
 pb	353	0358	7327681
-entry	Clavelée	0	
 entry	Clavelisation	5	
 pb	354	0359	7327682
 pb	355	0360	7327683
@@ -612,11 +587,9 @@ pb	389	0394	7327717
 entry	Clinoïde	0	
 entry	Cliséomètre	0	
 entry	Clitoridien	0	
-entry	Clitoris	0	
+entry	Clitoris	2	
 pb	390	0395	7327718
-entry	Clitoris 	0	
 pb	391	0396	7327719
-entry	Clitoris	0	
 entry	Cloaque	0	
 pb	392	0397	7327720
 entry	Cloison	0	
@@ -625,12 +598,11 @@ entry	Clonisme	0
 entry	Cloporte	0	
 entry	Clou Clystère	0	
 pb	393	0398	7327721
-entry	Clystère 	3	
+entry	Clystère	4	
 pb	394	0399	7327722
 pb	395	0400	7327723
 pb	396	0401	7327724
 pb	397	0402	7327725
-entry	Clystère	0	
 entry	Coagulation	1	
 pb	398	0403	7327726
 entry	Coagulum	0	
@@ -638,11 +610,9 @@ entry	Coalescence	0
 entry	Coaptation	1	
 pb	399	0404	7327727
 entry	Coarctation	0	
-entry	Cobalt	0	
+entry	Cobalt	2	
 pb	400	0405	7327728
-entry	Cobalt 	0	
 pb	401	0406	7327729
-entry	Cobalt	0	
 entry	Coccyx	2	
 pb	402	0407	7327730
 pb	403	0408	7327731
@@ -783,11 +753,9 @@ entry	Colature	0
 entry	Colchique	1	
 pb	520	0525	7327848
 entry	Colcothar	0	
-entry	Colère	0	
+entry	Colère	2	
 pb	521	0526	7327849
-entry	Colère 	0	
 pb	522	0527	7327850
-entry	Colère	0	
 entry	Colique	14	
 pb	523	0528	7327851
 pb	524	0529	7327852
@@ -809,11 +777,9 @@ entry	Collatéral	1
 pb	537	0542	7327865
 entry	Collection	0	
 entry	Colliquatif	0	
-entry	Colliquation	0	
+entry	Colliquation	2	
 pb	538	0543	7327866
-entry	Colliquation 	0	
 pb	539	0544	7327867
-entry	Colliquation	0	
 entry	Collision	0	
 entry	Collutoire	0	
 entry	Collyre	3	
@@ -832,9 +798,8 @@ pb	546	0551	7327874
 entry	Colonne	1	
 pb	547	0552	7327875
 entry	Colophane	0	
-entry	Coloquinte 	0	
+entry	Coloquinte	1	
 pb	548	0553	7327876
-entry	Coloquinte	0	
 entry	Colostration	0	
 pb	549	0554	7327877
 entry	Colostrum	0	
@@ -843,25 +808,21 @@ pb	550	0555	7327878
 entry	Combinaison	1	
 pb	551	0556	7327879
 entry	Combustible	0	
-entry	Combustion	0	
+entry	Combustion	5	
 pb	552	0557	7327880
-entry	Combustion 	3	
 pb	553	0558	7327881
 pb	554	0559	7327882
 pb	555	0560	7327883
 pb	556	0561	7327884
-entry	Combustion	0	
 entry	Commémoratif	1	
 pb	557	0562	7327885
 entry	Comminutif	0	
 entry	Commissure	0	
-entry	Commotion	0	
+entry	Commotion	4	
 pb	558	0563	7327886
-entry	Commotion 	2	
 pb	559	0564	7327887
 pb	560	0565	7327888
 pb	561	0566	7327889
-entry	Commotion	0	
 entry	Communicant	0	
 pb	562	0567	7327890
 entry	Communiquant	0	

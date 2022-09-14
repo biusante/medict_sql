@@ -66,26 +66,22 @@ entry	Herborisation	1
 pb	44	0049	7330320
 entry	Herboriste	1	
 pb	45	0050	7330321
-entry	Héréditaire	0	
+entry	Héréditaire	4	
 pb	46	0051	7330322
-entry	Héréditaire 	2	
 pb	47	0052	7330323
 pb	48	0053	7330324
 pb	49	0054	7330325
-entry	Héréditaire	0	
-entry	Hermaphrodisme 	4	
+entry	Hermaphrodisme	5	
 pb	50	0055	7330326
 pb	51	0056	7330327
 pb	52	0057	7330328
 pb	53	0058	7330329
 pb	54	0059	7330330
-entry	Hermaphrodisme	0	
 entry	Hermodacte	1	
 pb	55	0060	7330331
 entry	Herniaire	0	
-entry	Hernie	0	
+entry	Hernie	50	
 pb	56	0061	7330332
-entry	Hernie 	48	
 pb	57	0062	7330333
 pb	58	0063	7330334
 pb	59	0064	7330335
@@ -135,7 +131,6 @@ pb	102	0107	7330378
 pb	103	0108	7330379
 pb	104	0109	7330380
 pb	105	0110	7330381
-entry	Hernie	0	
 entry	Herniole	1	
 pb	106	0111	7330382
 entry	Hêtre	0	
@@ -147,16 +142,13 @@ entry	Hippiatrique	2
 pb	108	0113	7330384
 pb	109	0114	7330385
 entry	Hippocratique	0	
-entry	Hippocratisme	0	
+entry	Hippocratisme	2	
 pb	110	0115	7330386
-entry	Hippocratisme 	0	
 pb	111	0116	7330387
-entry	Hippocratisme	0	
 entry	Hiver	1	
 pb	112	0117	7330388
-entry	Homme	0	
+entry	Homme	28	
 pb	113	0118	7330389
-entry	Homme 	26	
 pb	114	0119	7330390
 pb	115	0120	7330391
 pb	116	0121	7330392
@@ -184,7 +176,6 @@ pb	137	0142	7330413
 pb	138	0143	7330414
 pb	139	0144	7330415
 pb	140	0145	7330416
-entry	Homme	0	
 entry	Honoraires	2	
 pb	141	0146	7330417
 pb	142	0147	7330418
@@ -205,21 +196,17 @@ pb	154	0159	7330430
 pb	155	0160	7330431
 pb	156	0161	7330432
 pb	157	0162	7330433
-entry	Hoquet	0	
+entry	Hoquet	2	
 pb	158	0163	7330434
-entry	Hoquet 	0	
 pb	159	0164	7330435
-entry	Hoquet	0	
 entry	Hordéine	0	
 entry	Horripilation	0	
 entry	Hospice	1	
 pb	160	0165	7330436
 entry	Hôtel-Dieu	0	
-entry	Houblon	0	
+entry	Houblon	2	
 pb	161	0166	7330437
-entry	Houblon 	0	
 pb	162	0167	7330438
-entry	Houblon	0	
 entry	Houppe du menton	0	
 entry	Houx	1	
 pb	163	0168	7330439
@@ -258,13 +245,12 @@ pb	187	0192	7330463
 pb	188	0193	7330464
 pb	189	0194	7330465
 pb	190	0195	7330466
-entry	Humeur 	4	
+entry	Humeur	5	
 pb	191	0196	7330467
 pb	192	0197	7330468
 pb	193	0198	7330469
 pb	194	0199	7330470
 pb	195	0200	7330471
-entry	Humeur	0	
 entry	Humidité	4	
 pb	196	0201	7330472
 pb	197	0202	7330473
@@ -666,7 +652,7 @@ pb	485	0490	7330761
 pb	486	0491	7330762
 pb	487	0492	7330763
 entry	Ilio-lombaire	0	
-entry	Ilion 	0	
+entry	Ilion	0	
 pb	488	0493	7330764
 entry	Ilio-pectiné	0	
 entry	Illégitime	0	
@@ -715,9 +701,8 @@ pb	512	0517	7330788
 entry	Incération	0	
 entry	Incinération	0	
 entry	Incisif	0	
-entry	Incision 	0	
+entry	Incision	5	
 pb	513	0518	7330789
-entry	Incision	4	
 pb	514	0519	7330790
 pb	515	0520	7330791
 pb	516	0521	7330792

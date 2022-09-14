@@ -1351,9 +1351,8 @@ entry	Chou de chine	0
 entry	Chouche	0	
 entry	Choulin	0	
 entry	Choux-Gras	0	
-entry	Christau 	0	
+entry	Christau	1	
 pb	175	0181	5616211
-entry	Christau	0	
 entry	Christiana	0	
 entry	Chrome	0	
 entry	Chrysanthemum	0	
@@ -1552,9 +1551,8 @@ entry	Cornillas de Frayles	0
 entry	Corpa	0	
 entry	Corse	0	
 entry	Cortum	0	
-entry	Cortex 	0	
+entry	Cortex	1	
 pb	214	0220	5616250
-entry	Cortex	0	
 entry	Cortezon	0	
 entry	Corvaceira	0	
 entry	Corylus	0	
@@ -2303,11 +2301,9 @@ entry	Gobe-mouche	0
 entry	Gola	0	
 entry	Golaise	0	
 entry	Goma lacra	0	
-entry	Gomme	0	
+entry	Gomme	4	
 pb	333	0339	5616369
-entry	Gomme 	0	
 pb	334	0340	5616370
-entry	Gomme	2	
 pb	335	0341	5616371
 pb	336	0342	5616372
 entry	Gommi	0	
@@ -5388,9 +5384,6 @@ pb	761	0787	5616817
 pb	762	0788	5616818
 pb	763	0789	5616819
 pb	764	0790	5616820
-entry	Errata Général des six Volumes et du Supplément	8	
-orth	Errata Général des six Volumes		
-orth	du Supplément		
 pb	785	0791	5616821
 pb	786	0792	5616822
 pb	787	0793	5616823

@@ -5,7 +5,7 @@ pb	[s. pag.]	0003	7326182
 pb	1	0004	7326183
 entry	Dictionnaire abrégé des Sciences Médicales. A -  Anus	0	
 pb	2	0005	7326184
-entry	Anus 	25	
+entry	Anus	26	
 pb	3	0006	7326185
 pb	4	0007	7326186
 pb	5	0008	7326187
@@ -32,7 +32,6 @@ pb	25	0028	7326207
 pb	26	0029	7326208
 pb	27	0030	7326209
 pb	28	0031	7326210
-entry	Anus	0	
 entry	Anxiété	0	
 entry	Aorte	37	
 pb	29	0032	7326211
@@ -102,9 +101,8 @@ entry	Aponévrose	0
 entry	Apophyse	0	
 entry	Apophlegmatisme	0	
 entry	Apoplectique	0	
-entry	Apoplexie	0	
+entry	Apoplexie	34	
 pb	77	0080	7326259
-entry	Apoplexie 	32	
 pb	78	0081	7326260
 pb	79	0082	7326261
 pb	80	0083	7326262
@@ -138,7 +136,6 @@ pb	107	0110	7326289
 pb	108	0111	7326290
 pb	109	0112	7326291
 pb	110	0113	7326292
-entry	Apoplexie	0	
 entry	Aposképarnismos	0	
 entry	Apozème	0	
 entry	Appareil	2	
@@ -153,22 +150,18 @@ orth	Appétition
 pb	113	0116	7326295
 pb	114	0117	7326296
 entry	Application	0	
-entry	Apyrexie	0	
+entry	Apyrexie	2	
 pb	115	0118	7326297
-entry	Apyrexie 	0	
 pb	116	0119	7326298
-entry	Apyrexie	0	
 entry	Aqueduc	0	
 entry	Aqueux	3	
 pb	117	0120	7326299
 pb	118	0121	7326300
 pb	119	0122	7326301
 entry	Arachide	0	
-entry	Arachnoïde	0	
+entry	Arachnoïde	2	
 pb	120	0123	7326302
-entry	Arachnoïde 	0	
 pb	121	0124	7326303
-entry	Arachnoïde	0	
 entry	Arachnoïdite	11	
 pb	122	0125	7326304
 pb	123	0126	7326305
@@ -181,11 +174,9 @@ pb	129	0132	7326311
 pb	130	0133	7326312
 pb	131	0134	7326313
 pb	132	0135	7326314
-entry	Arbousier	0	
+entry	Arbousier	2	
 pb	133	0136	7326315
-entry	Arbousier 	0	
 pb	134	0137	7326316
-entry	Arbousier	0	
 entry	Arc	0	
 entry	Arcade	0	
 entry	Arcane	0	
@@ -202,11 +193,9 @@ entry	Aréole	1
 pb	139	0142	7326321
 entry	Aréomètre	1	
 pb	140	0143	7326322
-entry	Argent	0	
+entry	Argent	2	
 pb	141	0144	7326323
-entry	Argent 	0	
 pb	142	0145	7326324
-entry	Argent	0	
 entry	Argentine	1	
 pb	143	0146	7326325
 entry	Argile	1	
@@ -216,11 +205,9 @@ entry	Aridité	0
 entry	Aristoloche	2	
 pb	145	0148	7326327
 pb	146	0149	7326328
-entry	Armoise	0	
+entry	Armoise	2	
 pb	147	0150	7326329
-entry	Armoise 	0	
 pb	148	0151	7326330
-entry	Armoise	0	
 entry	Arnique	3	
 pb	149	0152	7326331
 pb	150	0153	7326332
@@ -249,9 +236,8 @@ entry	Arsénique	1
 pb	167	0170	7326349
 entry	Arsénite	1	
 pb	168	0171	7326350
-entry	Artère	0	
+entry	Artère	18	
 pb	169	0172	7326351
-entry	Artère 	16	
 pb	170	0173	7326352
 pb	171	0174	7326353
 pb	172	0175	7326354
@@ -269,19 +255,16 @@ pb	183	0186	7326365
 pb	184	0187	7326366
 pb	185	0188	7326367
 pb	186	0189	7326368
-entry	Artère	0	
 entry	Artériaque	0	
 entry	Artériel	0	
 entry	Artériole	0	
 entry	Artériotomie	0	
-entry	Artérite	0	
+entry	Artérite	5	
 pb	187	0190	7326369
-entry	Artérite 	3	
 pb	188	0191	7326370
 pb	189	0192	7326371
 pb	190	0193	7326372
 pb	191	0194	7326373
-entry	Artérite	0	
 entry	Arthanita	1	
 pb	192	0195	7326374
 entry	Arthralgie	0	
@@ -318,9 +301,8 @@ entry	Artichaut	1
 pb	217	0220	7326399
 entry	Article	0	
 entry	Articulaire	0	
-entry	Articulation	0	
+entry	Articulation	17	
 pb	218	0221	7326400
-entry	Articulation 	15	
 pb	219	0222	7326401
 pb	220	0223	7326402
 pb	221	0224	7326403
@@ -337,31 +319,24 @@ pb	231	0234	7326413
 pb	232	0235	7326414
 pb	233	0236	7326415
 pb	234	0237	7326416
-entry	Articulation	0	
 entry	Aryténoïde	1	
 pb	235	0238	7326417
 entry	Aryténoïdien	0	
-entry	Asa	0	
+entry	Asa	3	
 pb	236	0239	7326418
-entry	Asa 	1	
 pb	237	0240	7326419
 pb	238	0241	7326420
-entry	Asa	0	
-entry	Asaret	0	
+entry	Asaret	2	
 pb	239	0242	7326421
-entry	Asaret 	0	
 pb	240	0243	7326422
-entry	Asaret	0	
-entry	Ascaride	0	
+entry	Ascaride	7	
 pb	241	0244	7326423
-entry	Ascaride 	5	
 pb	242	0245	7326424
 pb	243	0246	7326425
 pb	244	0247	7326426
 pb	245	0248	7326427
 pb	246	0249	7326428
 pb	247	0250	7326429
-entry	Ascaride	0	
 entry	Ascite	25	
 pb	248	0251	7326430
 pb	249	0252	7326431
@@ -434,9 +409,8 @@ pb	301	0304	7326483
 pb	302	0305	7326484
 pb	303	0306	7326485
 entry	Asthénique	0	
-entry	Asthme	0	
+entry	Asthme	11	
 pb	304	0307	7326486
-entry	Asthme 	9	
 pb	305	0308	7326487
 pb	306	0309	7326488
 pb	307	0310	7326489
@@ -447,13 +421,10 @@ pb	311	0314	7326493
 pb	312	0315	7326494
 pb	313	0316	7326495
 pb	314	0317	7326496
-entry	Asthme	0	
 entry	Astragale	0	
-entry	Astragale (plante)	0	
+entry	Astragale (plante)	2	
 pb	315	0318	7326497
-entry	Astragale (plante) 	0	
 pb	316	0319	7326498
-entry	Astragale (plante)	0	
 entry	Astrance	0	
 entry	Astriction	1	
 pb	317	0320	7326499
@@ -474,16 +445,14 @@ entry	Ataxique	0
 entry	Athérome	0	
 entry	Athlétique	1	
 pb	328	0331	7326510
-entry	Atlas	0	
+entry	Atlas	7	
 pb	329	0332	7326511
-entry	Atlas 	5	
 pb	330	0333	7326512
 pb	331	0334	7326513
 pb	332	0335	7326514
 pb	333	0336	7326515
 pb	334	0337	7326516
 pb	335	0338	7326517
-entry	Atlas	0	
 entry	Atloïdo-axoïdien	1	
 pb	336	0339	7326518
 entry	Atloïdo-occipital	0	
@@ -558,9 +527,8 @@ entry	Aveugle	0
 entry	Aveuglement	0	
 entry	Avoine	1	
 pb	378	0381	7326560
-entry	Avortement	0	
+entry	Avortement	16	
 pb	379	0382	7326561
-entry	Avortement 	14	
 pb	380	0383	7326562
 pb	381	0384	7326563
 pb	382	0385	7326564
@@ -576,11 +544,9 @@ pb	391	0394	7326573
 pb	392	0395	7326574
 pb	393	0396	7326575
 pb	394	0397	7326576
-entry	Avortement	0	
 entry	Axe	0	
-entry	Axillaire	0	
+entry	Axillaire	13	
 pb	395	0398	7326577
-entry	Axillaire 	11	
 pb	396	0399	7326578
 pb	397	0400	7326579
 pb	398	0401	7326580
@@ -593,15 +559,13 @@ pb	404	0407	7326586
 pb	405	0408	7326587
 pb	406	0409	7326588
 pb	407	0410	7326589
-entry	Axillaire	0	
 entry	Axis	0	
 pb	408	0411	7326590
 entry	Aya-pana	0	
 entry	Azédarac	0	
 entry	Azocarbure	0	
-entry	Azote	0	
+entry	Azote	8	
 pb	409	0412	7326591
-entry	Azote 	6	
 pb	410	0413	7326592
 pb	411	0414	7326593
 pb	412	0415	7326594
@@ -609,7 +573,6 @@ pb	413	0416	7326595
 pb	414	0417	7326596
 pb	415	0418	7326597
 pb	416	0419	7326598
-entry	Azote	0	
 entry	Azoture	1	
 pb	417	0420	7326599
 entry	Azygos	1	
@@ -624,9 +587,8 @@ entry	Bagnères	0
 entry	Bagnoles	1	
 pb	421	0424	7326603
 entry	Bagnols	0	
-entry	Baguenaudier 	0	
+entry	Baguenaudier	1	
 pb	422	0425	7326604
-entry	Baguenaudier	0	
 entry	Baignoire	2	
 pb	423	0426	7326605
 pb	424	0427	7326606
@@ -650,11 +612,9 @@ pb	439	0442	7326621
 entry	Bains	1	
 pb	440	0443	7326622
 entry	Balance	0	
-entry	Balanite	0	
+entry	Balanite	2	
 pb	441	0444	7326623
-entry	Balanite 	0	
 pb	442	0445	7326624
-entry	Balanite	0	
 entry	Balaruc	1	
 pb	443	0446	7326625
 entry	Balauste	0	
@@ -670,15 +630,13 @@ entry	Bananier	0
 entry	Bancal	1	
 pb	446	0449	7326628
 entry	Banc d'Hippocrate	0	
-entry	Bandage	0	
+entry	Bandage	6	
 pb	447	0450	7326629
-entry	Bandage 	4	
 pb	448	0451	7326630
 pb	449	0452	7326631
 pb	450	0453	7326632
 pb	451	0454	7326633
 pb	452	0455	7326634
-entry	Bandage	0	
 entry	Bande	2	
 pb	453	0456	7326635
 pb	454	0457	7326636
@@ -710,11 +668,9 @@ entry	Baromètre	1
 pb	464	0467	7326646
 entry	Barre	0	
 entry	Baryecoie	0	
-entry	Baryte	0	
+entry	Baryte	2	
 pb	465	0468	7326647
-entry	Baryte 	0	
 pb	466	0469	7326648
-entry	Baryte	0	
 entry	Base	0	
 entry	Baselle	1	
 pb	467	0470	7326649
@@ -726,9 +682,8 @@ entry	Basilique	0
 entry	Basioglosse	0	
 pb	469	0472	7326651
 entry	Basiopharyngien	0	
-entry	Bassin	0	
+entry	Bassin	17	
 pb	470	0473	7326652
-entry	Bassin 	16	
 pb	471	0474	7326653
 pb	472	0475	7326654
 pb	473	0476	7326655
@@ -751,9 +706,8 @@ entry	Bassorine	1
 pb	488	0491	7326670
 entry	Bas-ventre	0	
 entry	Battement	0	
-entry	Baume	0	
+entry	Baume	8	
 pb	489	0492	7326671
-entry	Baume 	6	
 pb	490	0493	7326672
 pb	491	0494	7326673
 pb	492	0495	7326674
@@ -761,7 +715,6 @@ pb	493	0496	7326675
 pb	494	0497	7326676
 pb	495	0498	7326677
 pb	496	0499	7326678
-entry	Baume	0	
 entry	Bave	0	
 entry	Bdellium	1	
 pb	497	0500	7326679
@@ -787,9 +740,8 @@ entry	Beccabunga	0
 entry	Béchique	1	
 pb	514	0517	7326696
 entry	Bédéguar	0	
-entry	Bégayement	0	
+entry	Bégayement	5	
 pb	515	0518	7326697
-entry	Bégayement 	4	
 pb	516	0519	7326698
 pb	517	0520	7326699
 pb	518	0521	7326700
@@ -811,11 +763,9 @@ entry	Bénin	0
 entry	Benoîte	1	
 pb	528	0531	7326710
 entry	Benzoate	0	
-entry	Benzoïque	0	
+entry	Benzoïque	2	
 pb	529	0532	7326711
-entry	Benzoïque 	0	
 pb	530	0533	7326712
-entry	Benzoïque	0	
 entry	Berce	1	
 pb	531	0534	7326713
 entry	Berceau	1	
@@ -837,11 +787,9 @@ pb	538	0541	7326720
 pb	539	0542	7326721
 pb	540	0543	7326722
 entry	Bévue	0	
-entry	Bézoard	0	
+entry	Bézoard	2	
 pb	541	0544	7326723
-entry	Bézoard 	0	
 pb	542	0545	7326724
-entry	Bézoard	0	
 entry	Bezoardique	0	
 entry	Biceps	1	
 pb	543	0546	7326725

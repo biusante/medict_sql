@@ -21,6 +21,8 @@ permettant de raccrocher chaque information lexicale à sa page source.
   <xsl:template match="/">
     <xsl:text>object</xsl:text>
     <xsl:value-of select="$tab"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
   </xsl:template>
@@ -50,9 +52,13 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@n"/>
     <xsl:value-of select="$tab"/>
+    <!-- refimg -->
+    <xsl:value-of select="substring-before(substring-after(substring-after(@facs, 'iiif/2/bibnum:'), ':'), '/')"/>
+    <!--
     <xsl:value-of select="@facs"/>
-    <xsl:value-of select="$tab"/>
     <xsl:value-of select="@corresp"/>
+    -->
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
   </xsl:template>
@@ -65,15 +71,15 @@ permettant de raccrocher chaque information lexicale à sa page source.
       <xsl:if test="position() != 1">, </xsl:if>
       <xsl:value-of select="."/>
     </xsl:for-each>
-    <!-- page -->
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="preceding::tei:pb[1]/@n"/>
-    <!-- page2 -->
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="(.//tei:pb)[position() = last()]/@n"/>
     <!-- pps -->
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="count(.//tei:pb)"/>
+    <xsl:value-of select="$tab"/>
+    <!--
+    <xsl:value-of select="preceding::tei:pb[1]/@n"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="(.//tei:pb)[position() = last()]/@n"/>
+    -->
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
     <!-- Non, redondant
@@ -88,6 +94,7 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="."/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@xml:lang"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
 
@@ -95,6 +102,8 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:text>tr/term</xsl:text>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="normalize-space(.)"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
     <xsl:apply-templates/>
   </xsl:template>
@@ -105,6 +114,8 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:text>term</xsl:text>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="normalize-space(.)"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
 
@@ -112,17 +123,24 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="normalize-space(.)"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
 
   <xsl:template match="tei:foreign">
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
+    <xsl:value-of select="normalize-space(.)"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="@xml:lang"/>
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
-  
+
+  <xsl:template match="tei:sense//tei:foreign">
+    <!-- Non vérifié, ne rien sortir -->
+  </xsl:template>
+
 
 </xsl:transform>

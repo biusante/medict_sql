@@ -209,6 +209,11 @@ class MedictPrepa extends MedictUtil
             ) {
                 $page = '[s. pag.]';
             }
+            if (!preg_match('/^\d\d\d\d$/', $refimg)) {
+                fwrite(STDERR, "$volume_cote\tp. $page\trefimg ???\t$refimg\n");
+                if ($refimg == '0103b') $refimg = '0104';
+                if ($refimg == '0103c') $refimg = '0105';
+            }
             $data[] = array(
                 'pb',
                 $page,

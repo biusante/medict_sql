@@ -124,7 +124,7 @@ class MedictUtil
     /**
      * Charger une table avec des lignes tsv
      */
-    static function table($file, $table, $separator="\t")
+    static function insert_table($file, $table, $separator="\t")
     {
         // first line, colums names
         $handle = fopen($file, 'r');

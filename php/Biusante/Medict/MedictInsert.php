@@ -86,6 +86,7 @@ class MedictInsert extends MedictUtil
      */
     public static function truncate()
     {
+        self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         foreach (array(
             'dico_terme',
             'dico_rel',
@@ -101,8 +102,9 @@ class MedictInsert extends MedictUtil
      */
     static public function dico_titre()
     {
+        self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         self::$pdo->exec("TRUNCATE dico_titre");
-        self::insert_volume(self::home() . 'dico_titre.tsv', 'dico_titre');
+        self::insert_table(self::home() . 'dico_titre.tsv', 'dico_titre');
     }
 
     /**
@@ -110,6 +112,7 @@ class MedictInsert extends MedictUtil
      */
     static public function dico_volume()
     {
+        self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         self::$pdo->exec("TRUNCATE dico_volume");
         // supposons pour l’instant que l’ordre naturel est bon 
         $sql =  "SELECT * FROM dico_titre "; // ORDER BY annee
@@ -150,9 +153,8 @@ class MedictInsert extends MedictUtil
                     self::$q['dico_volume']->execute(self::$dico_volume);
                 }
                 catch(Exception $e) {
-                    print($e);
-                    print_r($volume);
-                    print_r(self::$dico_volume);
+                    fwrite(STDERR, $e->__toString());
+                    fwrite(STDERR, print_r(self::$dico_volume, true));
                     exit();
                 }
                 /*
@@ -170,6 +172,8 @@ class MedictInsert extends MedictUtil
      */
     static function prepare()
     {
+        // Inutile de vérifier les clés ici.
+        self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         foreach (array(
             'dico_terme',
             'dico_rel',
@@ -241,7 +245,14 @@ class MedictInsert extends MedictUtil
         else {
             self::$dico_terme[':betacode'] = null;
         }
-        self::$q['dico_terme']->execute(self::$dico_terme);
+        try {
+            self::$q['dico_terme']->execute(self::$dico_terme);
+        }
+        catch (Exception $e) {
+            fwrite(STDERR, $e->__toString());
+            fwrite(STDERR, implode("\t", self::$dico_entree));
+            fwrite(STDERR, print_r(self::$dico_terme, true));
+        }
         $id = self::$pdo->lastInsertId();
         return $id;
     }
@@ -258,6 +269,9 @@ class MedictInsert extends MedictUtil
      */
     public static function optimize()
     {
+        echo "Optimize… ";
+        self::$pdo->exec("OPTIMIZE TABLE dico_terme;");
+        echo "…optimize OK";
         /*
     Pour mémoire, update complexe limité en MySQL 
     MySQL Error 1093 - Can't specify target table for update in FROM clause
@@ -411,7 +425,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             if ($row[0] == 'pb') {
                 // garder la mémoire de la page courante
                 $page = $row[1];
-                $refimg = $row[2];
+                $refimg = str_pad($row[2], 4, '0', STR_PAD_LEFT);
+                if (!preg_match('/^\d\d\d\d$/', $refimg)) {
+                    fwrite(STDERR, "$volume_cote\tp. $page\trefimg ???\t$refimg\n");
+                    $refimg = null;
+                }
                 $livancpages = $row[3];
             }
             else if ($row[0] == 'orth') {
@@ -434,7 +452,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 // pas vu de renvoi dans cette entrée, si plusieurs orth, les envoyer comme renvois
                 if(!count($ref) && count($orth) >= 2) {
                     foreach ($orth as $dico_terme => $val) {
-                        self::insert_ref($dico_terme, $val[0], $val[1]);
+                        self::insert_ref(
+                            $dico_terme,
+                            self::$dico_entree[':page'], // page de l’entrée
+                            self::$dico_entree[':refimg'],
+                        );
                     }
                 }
                 // si pas d’événement orth depuis la dernière entrée, rentrer la vedette
@@ -461,7 +483,12 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 else { // Ne pas oublier
                     self::$dico_entree[':page2'] = null;
                 }
-                self::$q['dico_entree']->execute(self::$dico_entree);
+                try {
+                    self::$q['dico_entree']->execute(self::$dico_entree);
+                } catch (Exception $e) {
+                    fwrite(STDERR, $e->__toString());
+                    fwrite(STDERR, print_r(self::$dico_entree, true));
+                }
                 self::$dico_rel[':dico_entree'] = self::$pdo->lastInsertId();
                 // echo  "dico entre->".self::$dico_rel[':dico_entree']."\n";
             }
@@ -472,7 +499,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 if (!count($ref) && count($orth) > 0) {
                     foreach ($orth as $dico_terme => $val) {
                         self::insert_ref(
-                            $dico_terme, 
+                            $dico_terme,
                             self::$dico_entree[':page'], // page de l’entrée
                             self::$dico_entree[':refimg'],
                         );
@@ -507,7 +534,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             }
         }
 
-        echo "…".$volume_cote." FINI\n";
+        echo "…".$volume_cote."  OK\n";
 
         return;
 

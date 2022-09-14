@@ -3883,7 +3883,7 @@ orth	AMIDINE
 ref	Holocaïse		
 entry	AMIDOLIQUE	0	
 orth	AMIDOLIQUE		
-term	Médicaments amidoUques		
+term	Médicaments amidoliques		
 entry	AMIDON	0	
 orth	AMIDON		
 foreign	amylum	lat	
@@ -4838,7 +4838,6 @@ orth	ANDROMANIE
 foreign	andromania	lat	
 entry	ANDROPOGON	0	
 orth	ANDROPOGON		
-term	\AndropogonsclLænanthus,L		
 term	Andropogon à odeur de citron		
 ref	Lemon-grass		
 entry	ANDROSÈME	0	
@@ -5468,7 +5467,7 @@ ref	Copal
 ref	Gomme		
 term	Animé occidental		
 ref	Courbaril		
-term	Animé tendre duBrésil en sort es		
+term	Animé tendre du Brésil en sortes		
 entry	ANIMÉ	0	
 orth	ANIMÉ		
 term	Corps animés		
@@ -6763,7 +6762,7 @@ ref	Agraphie
 term	Aphasie corticale		
 term	Aphasie de conductibilité		
 term	Aphasie sensorielle		
-term	Aphasie sous-c’OyUcale		
+term	Aphasie sous-corticale		
 entry	APHASIQUE	0	
 orth	APHASIQUE		
 entry	APHÉMÉTRIQUE	0	
@@ -6815,7 +6814,7 @@ orth	APHORISTIQUE
 foreign	aphoristicus	lat	
 entry	APHRASIE	0	
 orth	APHRASIE		
-term	L'aphasie corHcalé motrice		
+term	aphasie corticale motrice		
 ref	Aphasie		
 entry	APHRODISIAQUE	0	
 orth	APHRODISIAQUE		
@@ -7181,9 +7180,8 @@ ref	Cbistallinien
 ref	Amputation		
 term	Appareil contentif		
 ref	Contentif		
-term	Aopareil d Es		
+term	Aopareil d’Esmarch		
 pb	96	0106	
-term	marcK		
 term	Appareil à extension		
 ref	Extension		
 term	Appareil inamovible		
@@ -7891,7 +7889,7 @@ foreign	aridezza	ita
 foreign	aridura	spa	
 entry	ARISTOL	1	
 orth	ARISTOL		
-term	biiodure de dilhymoD		
+term	Biodure de dithymol		
 pb	104	0114	
 entry	ARISTOLOCHE	0	
 orth	ARISTOLOCHE		
@@ -10826,9 +10824,6 @@ foreign	faja	spa
 foreign	ὀθόνιον	grc	
 term	Bandage		
 pb	145	0155	
-term	Bande aA		
-term	Bande		
-term	Bande perforée		
 term	Bande d’Esmarch		
 ref	Appareil		
 entry	BANDEAU	0	
@@ -11331,7 +11326,7 @@ term	Baume de Geneviève
 term	Baume		
 ref	Térébenthine		
 term	Baume de Gurjun		
-term	Baume cThumiri		
+term	Baume d’humiri		
 ref	Humiriacées		
 term	Baume hypnotique		
 term	Baume hystérique		
@@ -12629,7 +12624,8 @@ orth	BLASTOPORE
 entry	BLASTOSTROMA	0	
 orth	BLASTOSTROMA		
 foreign	Keimschicht	deu	
-term	L’air embryonnaire. N..EiiisRXoy		
+term	aire embryonnaire		
+ref	Embryon		
 entry	BLASTULA	0	
 orth	BLASTULA		
 entry	BLAUD	0	
@@ -12917,7 +12913,7 @@ term	Bochet purgatif;
 term	Bochet dépuratif		
 entry	BOCKHART	0	
 orth	BOCKHART		
-term	Impétigo deBockhart		
+term	Impétigo de Bockhart		
 entry	BOCKLET	0	
 orth	BOCKLET		
 entry	BŒHMÉRIE	0	
@@ -14072,7 +14068,7 @@ term	Bromure de fer
 term	Bromure d’hémol		
 term	Bromure de lithium		
 term	Bromure de mercure		
-term	Bromure depotassiumtfJM		
+term	Bromure de potassiumt		
 ref	Chorée		
 ref	Épilepsie		
 ref	Folie		
@@ -14542,8 +14538,8 @@ foreign	bulb	eng
 foreign	bulbo	ita	
 foreign	bulbo	spa	
 foreign	βολβὸς	grc	
-term	Bulbe deTaort e		
-ref	Coecr		
+term	Bulbe de l’aorte		
+ref	Coeur		
 term	Bulbe auditif		
 ref	Auditif		
 term	Bulbe dentaire, bulbe pileux		
@@ -15820,7 +15816,7 @@ term	Canal omphalo-mésenlérique
 ref	Omphalo-mésentérique		
 term	Canal palatin		
 ref	Palatin		
-term	Canal dePetit		
+term	Canal de Petit		
 ref	Godronné		
 term	Canal parotidien		
 term	Canal ptérygo-palatin		
@@ -16066,7 +16062,6 @@ foreign	κανθαρὶς	grc
 term	Can		
 term	Mylabris		
 term	Meloe tharide.variabilis		
-term	ξΜ		
 term	OEnas segetum		
 pb	223	0233	
 ref	Épispastique		
@@ -18567,7 +18562,8 @@ orth	CÉPHALOTRIPTEUR
 entry	CÉPHALUROÏDE	1	
 orth	CÉPHALUROÏDE		
 foreign	κεφαλὴ + οὐρὰ	grc	
-term	InfusbirescéphaluroïdesN Safwaxozoiwa		
+term	Infusoires céphaluroïdes		
+ref	Spermatozoïdes		
 pb	268	0278	
 entry	CÉPHÉLIDE	0	
 orth	CÉPHÉLIDE		
@@ -21156,7 +21152,6 @@ orth	CHROMATOGÈNE
 foreign	chromatogen	deu	
 foreign	farbenerzeugend	deu	
 foreign	chromatogenous	eng	
-term	chromatogenousY		
 entry	CHROMATOLYSE	0	
 orth	CHROMATOLYSE		
 ref	Chromatine		
@@ -21845,7 +21840,6 @@ term	Circonvolutions frontales
 ref	Circonvolutions		
 term	frontale		
 term	talis superior		
-term	oRsrru		
 term	deuxième circonvolution frontale		
 ref	Aphasie		
 ref	Broca		
@@ -21913,7 +21907,8 @@ term	Circulation dérivative
 term	Circulation fœtale		
 ref	Foetus		
 term	Circulation générale		
-term	Circulation lacunaire.X.LkC^MM		
+term	Circulation lacunaire		
+ref	Lacunaire		
 term	Circulation locale		
 ref	Circulation		
 term	Circulation lymphatique		
@@ -26290,7 +26285,7 @@ entry	COTONNEUX	0
 orth	COTONNEUX		
 entry	COTONNIER	0	
 orth	COTONNIER		
-term	GossypiumA		
+foreign	Gossypium	lat	
 entry	COTUGNO	0	
 orth	COTUGNO		
 term	Humeur de Cotugno		
@@ -29241,7 +29236,7 @@ entry	DANEVERT	0
 orth	DANEVERT		
 entry	DANSE	0	
 orth	DANSE		
-term	Danse de Saint-Guy ou deSaint-Wyt		
+term	Danse de Saint-Guy ou de Saint-Wyt		
 term	danse convulsive		
 ref	Chorée		
 term	Danse du testicule		
@@ -30420,7 +30415,6 @@ foreign	dentatura	spa
 ref	Prothèse		
 entry	DENTIFICATION	1	
 orth	DENTIFICATION		
-term	DentificaliM		
 pb	467	0477	
 entry	DENTIFORME	0	
 orth	DENTIFORME		
@@ -39986,7 +39980,9 @@ term	Hémorragie.par
 ref	Hémoera-gie		
 entry	EXHIBITIONNISTE	0	
 orth	EXHIBITIONNISTE		
-term	Gaz. exhilaranL Le		
+entry	EXHILARANT	0	
+orth	EXHILARANT		
+term	Gaz exhilarant		
 entry	EXHUMATION	1	
 orth	EXHUMATION		
 foreign	Exhumation	deu	
@@ -43361,7 +43357,6 @@ ref	Balancement
 term	Dysharmonie fonctionnelle		
 ref	Dysharmonie		
 term	Maladie fonctionnelle		
-term	all. functionnelleKrankheiten		
 pb	682	0692	
 term	Substitution fonctionnelle		
 ref	Substitution		
@@ -50638,7 +50633,7 @@ term	Herbe aux sabotiers
 term	Herbe sacrée		
 term	Herbe de Saint-Benoît		
 term	Herbe de Saint-Christophe		
-term	Herbe duSaint-Esprit		
+term	Herbe du Saint-Esprit		
 term	Herbe de Saint-Étienne		
 term	Herbe de Saint-Fiacre		
 term	Herbe de Saint-Georges		
@@ -50666,7 +50661,7 @@ term	Herbe sardonique
 term	Herbe sarrasine		
 term	Herbe à savon		
 term	Herbe au scorbut		
-term	Herbe à serpenL		
+term	Herbe à serpent		
 term	Herbe à séton		
 term	Herbe de siège		
 term	Herbe de Siméon		
@@ -51093,7 +51088,7 @@ foreign	fremdartig gebildet	deu
 foreign	heteromorphous	eng	
 foreign	eteromorfo	ita	
 foreign	heteromorfo	spa	
-term	heteromorfoX		
+term	génération hétéromorphe		
 ref	Hetérogone		
 ref	Metagenèse		
 entry	HÉTÉROMORPHIE, HÉTÉROMORPHISME	0	
@@ -51353,7 +51348,6 @@ foreign	hippuric	eng
 foreign	Harnbenzoesäure	deu	
 foreign	hippuric acid	eng	
 foreign	acido ippurico	ita	
-term	y TlAfl		
 term	fl A \		
 term	fl \U		
 entry	HIPPUS	0	
@@ -57228,7 +57222,7 @@ entry	INVOLUTION	0
 orth	INVOLUTION		
 term	Involution sénile		
 term	Involution utérine		
-term	Formes cCinvolution		
+term	Formes d’involution		
 entry	IODAL	0	
 orth	IODAL		
 entry	IODALOSE	0	
@@ -58126,7 +58120,7 @@ orth	JAMBIER
 term	Jambier ou tibial postérieur		
 entry	JAMBON	0	
 orth	JAMBON		
-term	Jambon fuméAl		
+term	Jambon fumé		
 ref	Trichine		
 entry	JAMBOSIER	0	
 orth	JAMBOSIER		
@@ -59530,7 +59524,7 @@ term	Lait concentré
 term	Lait écrémé		
 term	init maternisé		
 term	Lait pasteurisé		
-term	Lait stériliséAÏ		
+term	Lait stérilisé		
 ref	Laiteron		
 term	Lait battu		
 term	Lait de couleuvre		
@@ -60286,10 +60280,10 @@ term	Laurier aromatique
 term	Laurier des bois		
 term	Laurier-cerise		
 term	Laurier épineux		
-term	Laurier Pose laurose, Nerium όΙεαηάβτ,'Ό		
+term	Laurier rose		
 ref	Rhododendron		
 term	Laurier de Saint-Antoine		
-ref	Jpilobe		
+ref	Épilobe		
 term	Laurier-tin		
 ref	Viorne		
 entry	LAURINE	0	
@@ -60976,15 +60970,15 @@ foreign	Bierhefen	deu
 foreign	yest	eng	
 foreign	fermenta	ita	
 foreign	levadura de cerveza	spa	
-term	ExBa		
 term	gnon		
 term	Levure		
 pb	943	0953	
 entry	Leyden	0	
 orth	Leyden		
-term	Cristaux de CLaTCCl-Lyden		
+term	Cristaux de Charcot-Leyden		
 ref	Charcot		
-term	^die de Leyden		
+term	Maladie de Leyden		
+term	Type Leyden-Möbius		
 entry	LEYDIG	0	
 orth	LEYDIG		
 term	Gdlonneli		
@@ -61178,7 +61172,6 @@ term	Ligament
 ref	Cervical		
 ref	Vertébral		
 term	Ligament cintré		
-term	u . iaPbragme		
 ref	Diaphragme		
 term	Ligament condide		
 ref	Coraco-claviculaire		
@@ -62386,7 +62379,7 @@ term	Lotion acide
 term	Lotion alcaline		
 term	Lotion de Barlow contre la teigne		
 term	Lotion de borax		
-term	Lotion contre les éPhélides		
+term	Lotion contre les éphélides		
 term	Lotion désinfectante		
 term	Lotionparasiticide		
 term	Lotion savonneuse		
@@ -62708,7 +62701,7 @@ orth	LUTÉIQUE
 term	Acide lutéique		
 entry	LUTÉOGALLIQUE	0	
 orth	LUTÉOGALLIQUE		
-term	AcidelutéogaUique		
+term	Acide lutéogallique		
 entry	LUTÉOLÉINE	0	
 orth	LUTÉOLÉINE		
 foreign	Luteolin	deu	
@@ -62839,11 +62832,10 @@ foreign	Lymphgefässe	deu
 foreign	lymphatic	eng	
 foreign	linfatico	ita	
 foreign	linfatico	spa	
-term	glandulairesmxmédullaires		
 term	cordons médullaires		
 term	cordons glandulaires		
-term	tubes-lymphatiques fEreg		
-term	lymphatiques		
+term	tubes lymphatiques		
+term	follicules lymphatiques		
 pb	973	0983	
 term	Puits lymphatique		
 term	Système lymphatique		
@@ -64126,7 +64118,8 @@ term	Manioc doux
 term	aipi		
 ref	Camagnoc		
 term	Manioc à Gouti		
-term	^d-^^P^tiön, iL manipolazione		
+entry	MANIPULATION	0	
+orth	MANIPULATION		
 entry	MANIPULE	0	
 orth	MANIPULE		
 foreign	manipulus	lat	
@@ -64305,7 +64298,7 @@ orth	MAREO
 foreign	Mal de puna ou sorroche	lat	
 entry	MAREY	0	
 orth	MAREY		
-term	Loi deMarey		
+term	Loi de Marey		
 entry	MARGARINE	0	
 orth	MARGARINE		
 foreign	Margarinfett	deu	
@@ -64322,7 +64315,7 @@ foreign	margarico	spa
 foreign	Margarinsäure	deu	
 entry	MARGARITIQUE	0	
 orth	MARGARITIQUE		
-term	Acide margariUque		
+term	Acide margaritique		
 ref	Ricixostéarique		
 entry	MARGAROÏDE	0	
 orth	MARGAROÏDE		
@@ -66239,7 +66232,7 @@ ref	Chlobure
 term	Mercure éteint		
 term	Mercure gommeux de Plenck		
 term	Mercure Saccharin ou saccharaté		
-term	Mercure soluble cP Hahnemann		
+term	Mercure soluble de Hahnemann		
 term	Mercure de vie		
 ref	Algaroth		
 entry	MERCURIAL	0	
@@ -66384,7 +66377,6 @@ orth	MÉSELLERIE
 entry	MÉSEMBRYANTHEME	1	
 orth	MÉSEMBRYANTHEME		
 pb	1030	1040	
-term	Pium crystalUum		
 ref	Glaciale		
 entry	MÉSENCHYMATEUX	0	
 orth	MÉSENCHYMATEUX		
@@ -69581,8 +69573,6 @@ foreign	muricatus	lat
 entry	MURMURE	0	
 orth	MURMURE		
 term	Murmure respiratoire ou vésiculaire		
-foreign	Athmungsgeräusch	deu	
-foreign	respiratory murmur	eng	
 entry	MURPHY	0	
 orth	MURPHY		
 term	Bouton de Murphy		
@@ -70154,7 +70144,6 @@ foreign	near-sightedness	eng
 foreign	miopia	ita	
 foreign	miopia	spa	
 foreign	μυωπία	grc	
-term	'n' et esp· mioPÎa)·		
 ref	Lunette		
 entry	MYOPIQUE	0	
 orth	MYOPIQUE		
@@ -72047,7 +72036,7 @@ foreign	Nuss	deu
 foreign	nut	eng	
 foreign	noce	ita	
 foreign	nuez	spa	
-term	Noix diAmemque		
+term	Noix d’Amérique		
 ref	Juvia		
 term	<·		
 ref	Macke		
@@ -72954,7 +72943,6 @@ entry	OCCIPITO-LATÉRAL	0
 orth	OCCIPITO-LATÉRAL		
 entry	OCCIPITO-PARIÉTAL	0	
 orth	OCCIPITO-PARIÉTAL		
-term	aiV		
 entry	OCCIPITO-SACRÉ	0	
 orth	OCCIPITO-SACRÉ		
 entry	OCCIPITO-SACRO-ILIAQUE	0	
@@ -73037,7 +73025,7 @@ orth	OCULISTIQUE
 foreign	oculistica	spa	
 entry	OCULO-MOTEUR	0	
 orth	OCULO-MOTEUR		
-term	Nerf oculo-moteàr commun, oculo-moteuT externe		
+term	Nerf oculo-moteur commun, oculo-moteur externe		
 ref	Moteur		
 ref	Moteur		
 entry	OCULO-MUSCULAIRE	0	
@@ -80897,8 +80885,12 @@ foreign	phosphorsaures Salz	deu
 foreign	phosphate	eng	
 foreign	fosfato	ita	
 foreign	fosfato	spa	
-term	Phosphate acidertliyliquePr		
-term	Phosphate-ammoniaccronagnésien		
+term	Phosphate acide éthylique		
+ref	Phosphovinique		
+term	Phosphate-ammoniaco-magnésien		
+term	phosphate double d’ammoniaque et de magnésie		
+term	phosphate d’ammoniaque et de magnésie		
+term	triple phosphate		
 term	Phosphate ammoniaco-sodique		
 term	Phosphate acide d’ammoniaque		
 term	Phosphaté de bismuth		
@@ -81867,7 +81859,8 @@ term	Pilules de Morton
 ref	Pilules		
 term	Pilules de nitre camphré		
 term	Pilules d’onguent mercuriel		
-term	Pilules PerPélueUes		
+term	Pilules Perpétuelles		
+ref	Antimoine		
 term	Pilules de Plummer		
 ref	Pilules		
 term	Pilules de Rufus		
@@ -82359,7 +82352,7 @@ foreign	plant	eng
 foreign	pianta	ita	
 foreign	planta	spa	
 foreign	φυτὸν	grc	
-term	Plante du pied [planta pedis, zxZ!.<r>		
+term	Plante du pied		
 ref	Pied		
 ref	Plantaire		
 entry	PLANTI-SOUS-PHALANGIENS	0	
@@ -83963,7 +83956,8 @@ term	Pommade de Cirillo
 term	Pommade mtrine		
 term	medela veuve Farnis		
 term	Pommade de Gondret ou ammoniacale		
-term	Pommade cCHelmerich		
+term	Pommade d’Helmerich		
+term	pommade antipsorique		
 term	Pommades iodurées		
 term	Pornmadepourles lèvres		
 ref	Cérat		
@@ -84452,7 +84446,8 @@ foreign	vegetable alkali	eng
 foreign	potassa	ita	
 foreign	potasa	spa	
 term	Potasse du commerce		
-term	Potasse dAmérique, potasse perlasse		
+term	Potasse d’Amérique		
+term	potasse perlasse		
 ref	Carbonate		
 term	Prussiate de potasse		
 ref	Cyanure		
@@ -86098,7 +86093,7 @@ foreign	Pflaume	deu
 foreign	plum	eng	
 foreign	prugna	ita	
 foreign	ciruela	spa	
-term	Prune icaqueon dAmérique		
+term	Prune icaque ou d’Amérique		
 ref	Icaquier		
 entry	PRUNEAU	0	
 orth	PRUNEAU		
@@ -87087,7 +87082,7 @@ foreign	bug	eng
 foreign	cimice	ita	
 foreign	chinche	spa	
 pb	1382	1392	
-term	Punaise moucL·		
+term	Punaise mouche		
 ref	Réduve		
 entry	PUNAISIE	0	
 orth	PUNAISIE		
@@ -87255,12 +87250,17 @@ foreign	eiterbeulig	deu
 foreign	pustulous	eng	
 foreign	pustuloso	ita	
 foreign	pustuloso	spa	
-term	jJÜOt uicuoç		
 entry	PUTAMEN	0	
 orth	PUTAMEN		
 ref	Strié		
-entry	PUTREFACTION	1	
-orth	PUTREFACTION		
+entry	PUTRÉFACTION	1	
+orth	PUTRÉFACTION		
+foreign	putrefactio	lat	
+foreign	Fäulniss	deu	
+foreign	putréfaction	eng	
+foreign	putrefazione	ita	
+foreign	putrefaccion	spa	
+foreign	σῆψις	grc	
 term	Putréfactions gastro-intestinales		
 pb	1386	1396	
 entry	PUTRESCENCE	0	
@@ -87367,7 +87367,7 @@ foreign	pyine	eng
 foreign	pyina	ita	
 entry	PYIQUE	0	
 orth	PYIQUE		
-term	Acide Pyiqu acido nvinirM		
+term	Acide Pyique		
 entry	PYKNOMORPHE	0	
 orth	PYKNOMORPHE		
 term	acid		
@@ -87993,7 +87993,6 @@ ref	Sulfate
 entry	QUINIQUE	0	
 orth	QUINIQUE		
 term	Acide quinique		
-term	U donne de la WvMe;		
 term	Ivresse quinique		
 entry	QUINISME	0	
 orth	QUINISME		
@@ -88768,7 +88767,7 @@ foreign	raphe	eng
 foreign	rafe	ita	
 foreign	rafe	spa	
 foreign	ῥαφὴ	grc	
-term	-RaphédeStilling		
+term	-Raphé de Stilling		
 entry	RAPIFORME	0	
 orth	RAPIFORME		
 foreign	rapiformis	lat	
@@ -88958,7 +88957,7 @@ term	Grosse rave
 term	Rave		
 entry	RAVENSARA	0	
 orth	RAVENSARA		
-term	prAAgathophyllum aromaticum		
+foreign	Agathophyllum aromaticum	lat	
 entry	RAVIVEMENT	0	
 orth	RAVIVEMENT		
 entry	RAVIVER	0	
@@ -89974,7 +89973,7 @@ foreign	ranunculo	spa
 term	Renoncule petite éclaire		
 entry	RÉNO-RÉNAL	0	
 orth	RÉNO-RÉNAL		
-term	Réflexe réno-rénal.'RéAe-s		
+term	Réflexe réno-rénal		
 entry	RENOUÉE	0	
 orth	RENOUÉE		
 foreign	Polygonum (L.)	lat	
@@ -91827,7 +91826,7 @@ orth	ROULIS
 term	Mouvement de roulis		
 entry	ROUSSELOT	0	
 orth	ROUSSELOT		
-term	Poudre deHousselot		
+term	Poudre de Rousselot		
 ref	Poudre		
 entry	ROUSSEUR	0	
 orth	ROUSSEUR		
@@ -92806,7 +92805,6 @@ ref	Amphithéâtre
 term	Salle		
 entry	SALOCOLLE	0	
 orth	SALOCOLLE		
-term	salicylate de phénocolle). CoTpi		
 entry	SALOL	1	
 orth	SALOL		
 pb	1471	1481	
@@ -92877,7 +92875,7 @@ foreign	sarzaparrilla	spa
 pb	1472	1482	
 term	salsepareille de la Nouvelle-Grenade		
 term	Décoction de salsepareille composée		
-term	Salsepareille dAllemagne		
+term	Salsepareille d’Allemagne		
 ref	Carex		
 entry	SALSEPARINE	0	
 orth	SALSEPARINE		
@@ -97354,7 +97352,7 @@ foreign	juncia	spa
 term	Souchet comestible		
 term	Souchet long		
 term	souchet odorant		
-term	Souchet rond iC		
+term	Souchet rond		
 term	Souchet papyrus		
 entry	SOUCI	0	
 orth	SOUCI		
@@ -98407,12 +98405,6 @@ ref	Foie
 entry	SPIGÉLIE	0	
 orth	SPIGÉLIE		
 term	Spigélie anthelminthique du Brésil		
-foreign	Spigelia anthèlminthica (L.)	lat	
-foreign	Spigelia	deu	
-foreign	anthelmia	eng	
-foreign	indian pink	eng	
-foreign	spigelia	ita	
-foreign	espigelia	spa	
 term	Spigélie du Maryland		
 entry	SPIGÉLINE	0	
 orth	SPIGÉLINE		
@@ -98589,7 +98581,7 @@ term	Lephénol
 entry	SPIROMÈTRE	0	
 orth	SPIROMÈTRE		
 ref	Respiration		
-term	Le spiromètre de SchnepJ		
+term	spiromètre de Schnepf		
 term	Spiromètre écrivant		
 term	anapnéographe		
 term	anapnographe		
@@ -102477,7 +102469,7 @@ orth	TABÉTIQUE
 term	Amaurose tabétique		
 entry	TABÉTO-CÉRÉBELLEUX	0	
 orth	TABÉTO-CÉRÉBELLEUX		
-term	Démarche tabéto-céré.belLeuse		
+term	Démarche tabéto-cérébelleuse		
 entry	TABIANO	0	
 orth	TABIANO		
 entry	TABIDE	0	
@@ -103541,7 +103533,6 @@ foreign	temporale	ita
 foreign	temporal	spa	
 term	Aponévrose temporale		
 term	Artères temporales		
-term	ÎemPor°-ma^llahe		
 term	Nerfs temporaux		
 ref	Auriculo-temporal		
 ref	Mastoïde		
@@ -103862,7 +103853,7 @@ term	Hydrate de. térébenthène
 ref	Térébenthine		
 entry	TÉRÉBENTHILIQUE	0	
 orth	TÉRÉBENTHILIQUE		
-term	Acide LérébenlhUique		
+term	Acide Lérébenthilique		
 entry	TÉRÉBENTHINE	0	
 orth	TÉRÉBENTHINE		
 foreign	terebinthina	lat	
@@ -104322,7 +104313,7 @@ orth	THÉCOSTOME
 ref	Acariens		
 entry	THÉDEN	0	
 orth	THÉDEN		
-term	Eau deThéden		
+term	Eau de Théden		
 ref	Eau		
 entry	THÉIFORME	0	
 orth	THÉIFORME		
@@ -108914,7 +108905,6 @@ orth	URIQUE
 foreign	Harnsäure	deu	
 foreign	uricacid	eng	
 term	Acide urique		
-term	^C^Ü-AjAO6		
 term	Calcul urique		
 term	Diathèse urique		
 term	Oxyde urique		
@@ -112950,7 +112940,7 @@ entry	YELLOW SULPHUR SPRINGS	0
 orth	YELLOW SULPHUR SPRINGS		
 entry	YERSIN	0	
 orth	YERSIN		
-term	Bacille cV Yersin		
+term	Bacille d’Yersin		
 ref	Peste		
 entry	YEUSE	0	
 orth	YEUSE		
@@ -113067,7 +113057,7 @@ term	Fièvre zincique
 pb	1839	1849	
 entry	ZINN	0	
 orth	ZINN		
-term	ZonedeZinn		
+term	Zone de Zinn		
 ref	Vitré		
 entry	ZIRCONE	0	
 orth	ZIRCONE		
@@ -113339,7 +113329,7 @@ term	Apophyse zygomatique, tubercule zygomatique
 ref	Temporal		
 term	Fosse zygomatique		
 term	Muscle grand zygomatique		
-term	Muscle petit zygomalinuA		
+term	Muscle petit zygomatique		
 pb	1842	1852	
 entry	ZYGOMATO-AURICULAIRE	0	
 orth	ZYGOMATO-AURICULAIRE		

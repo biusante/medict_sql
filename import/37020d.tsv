@@ -239,7 +239,7 @@ foreign	Abirrung	deu
 foreign	aberration	eng	
 foreign	aberrazione	ita	
 term	Aberration des fluides		
-term	Aberration de réfrangibUité		
+term	Aberration de réfrangibiité		
 term	Aberration de sphé		
 ref	Monochromatique		
 entry	ABÉVACUATION	0	
@@ -1255,7 +1255,8 @@ term	Teigne achromateuse
 ref	Trichophyton		
 entry	ACHROMATIE	0	
 orth	ACHROMATIE		
-term	Achromatie de TœihV		
+term	Achromatie de l’œil		
+ref	Chromatie		
 entry	ACHROMATIQUE	0	
 orth	ACHROMATIQUE		
 foreign	achromaticus	lat	
@@ -4734,7 +4735,7 @@ term	Amputation Secondaire
 ref	Secondaire		
 term	Amputation Spontanée		
 ref	Enroulement		
-term	Amputation tibio-tarSienne		
+term	Amputation tibio-tarsienne		
 ref	Tibio-tarsien		
 entry	AMULETTE	0	
 orth	AMULETTE		
@@ -4747,7 +4748,7 @@ foreign	περίαπτον	grc
 foreign	φυλακτήριον	grc	
 entry	AMUSSAT	0	
 orth	AMUSSAT		
-term	Pince d’AmuSSat		
+term	Pince d’Amussat		
 ref	Pince		
 entry	AMYDOLÉ	0	
 orth	AMYDOLÉ		
@@ -6809,7 +6810,7 @@ foreign	anthypochondriacus	lat
 entry	ANTHYSTÉRIQUE	0	
 orth	ANTHYSTÉRIQUE		
 foreign	anthystericus	lat	
-term	Emplâtre anthy stérique iV		
+term	Emplâtre anthystérique		
 ref	Emplâtre		
 term	Essence anthystérique		
 ref	Essence		
@@ -9140,7 +9141,7 @@ term	Arthrite rhumatismale
 ref	Rhumatisme		
 term	Arthrite sous-diarthrodiale		
 term	Arthrite vertébrale		
-ref	VerTÉBRAL		
+ref	Vertébral		
 entry	ARTHRITIDE	0	
 orth	ARTHRITIDE		
 entry	ARTHRITIE	0	
@@ -11279,7 +11280,8 @@ term	Bain dit de Plombières
 pb	0135	0149	
 term	Bain de pluie		
 ref	Hydrothérapie		
-term	BaindurOi		
+term	Bain du roi		
+ref	Alchimie		
 term	Bain Salé		
 term	Bain de Son		
 term	Bain Sulfureux		
@@ -11303,7 +11305,7 @@ foreign	bilancia	ita
 foreign	balanza	spa	
 foreign	τρυτάνη	grc	
 term	Balance hydrostatique		
-term	Balance dOdier et Blache		
+term	Balance d’Odier et Blache		
 ref	Double-pesée		
 entry	BALANCEMENT	0	
 orth	BALANCEMENT		
@@ -12549,7 +12551,7 @@ orth	BERNE
 ref	Cutérèbre		
 entry	BERTHOLLET	0	
 orth	BERTHOLLET		
-term	Sel de BerthoUet		
+term	Sel de Berthollet		
 ref	Chlorate		
 entry	BERTIN	0	
 orth	BERTIN		
@@ -15122,7 +15124,7 @@ entry	BRONCHIARCTIE	0
 orth	BRONCHIARCTIE		
 entry	BRONCHILLAIRE	0	
 orth	BRONCHILLAIRE		
-term	Souffle bronchiUaire		
+term	Souffle bronchillaire		
 ref	Souffle		
 entry	BRONCHIQUE	0	
 orth	BRONCHIQUE		
@@ -21949,7 +21951,7 @@ ref	Hypochlorite
 term	Chlorures de Soufre		
 term	Chlorure de Spiroyle		
 ref	Chlorosalicylique		
-term	Chlorure de StUbène		
+term	Chlorure de Stilbène		
 ref	Chloropicramyle		
 term	Chlorure de zinc		
 ref	Pâte		
@@ -25004,7 +25006,7 @@ term	Compresseur de Moore
 term	Compresseur de J		
 term	Compresseur de Dupuytren		
 pb	0337	0351	
-term	Compresseur deNuck		
+term	Compresseur de Nuck		
 term	Compresseur		
 ref	Microscope		
 entry	COMPRESSIBILITÉ	0	
@@ -25675,7 +25677,7 @@ foreign	Connectivum	deu
 foreign	connettivo	ita	
 foreign	conectivo	spa	
 term	Connectif distractile		
-ref	DisTractile		
+ref	Distractile		
 entry	CONNEXION	0	
 orth	CONNEXION		
 foreign	connexio	lat	
@@ -27633,7 +27635,7 @@ term	Courant nerveux
 ref	Fluide		
 entry	COURBARIL	0	
 orth	COURBARIL		
-term	Bois de courbarH		
+term	Bois de courbaril		
 ref	Gomme		
 ref	Copal		
 entry	COURBATURE	0	
@@ -28115,7 +28117,7 @@ entry	CRÉMENT	0
 orth	CRÉMENT		
 entry	CRÉMEUX	0	
 orth	CRÉMEUX		
-term	Stomatite crémeuserV		
+term	Stomatite crémeuse		
 ref	Muguet		
 entry	CRÉMOCARPE	0	
 orth	CRÉMOCARPE		
@@ -31911,7 +31913,7 @@ ref	Pommade
 term	Porte-nœud de Desault		
 ref	Porte-noeud		
 term	Serre-nœud de Desault		
-ref	SerreNŒUD		
+ref	Serre-nœud		
 entry	DESCALORINÈSES	0	
 orth	DESCALORINÈSES		
 entry	DESCEMET	0	
@@ -34602,7 +34604,7 @@ entry	DROGUERIE	0
 orth	DROGUERIE		
 entry	DROGUIER	0	
 orth	DROGUIER		
-ref	ColLECTION		
+ref	Collection		
 entry	DROGUISTE	0	
 orth	DROGUISTE		
 foreign	pharmacopola	lat	
@@ -35115,7 +35117,7 @@ term	Eau d’arquebusade
 term	Eau d’arquebusade de Theden		
 term	Eau arsenicale antipédiculaire		
 term	Eau balsamique de Jackson		
-term	EaudeBaréges artificielle		
+term	Eau de Baréges artificielle		
 pb	0475	0489	
 term	Eau de Belloste		
 term	Eau bénite de la Charité		
@@ -36305,7 +36307,7 @@ term	Chorée électrique
 ref	Chorée		
 term	Commotion électrique		
 term	Courant électrique		
-ref	CouRant		
+ref	Courant		
 term	Étincelle électrique		
 term	Fluide force		
 term	matière électrique		
@@ -40109,7 +40111,7 @@ ref	Térébenthène
 term	Essence de thé		
 term	Essence de Wintergreen		
 ref	Boxberry		
-ref	WinterGREEN		
+ref	Wintergreen		
 entry	ESSENTIALISATION	0	
 orth	ESSENTIALISATION		
 entry	ESSENTIALISME	0	
@@ -41854,7 +41856,7 @@ term	Extrait de Saturne
 ref	Acétate		
 term	Extrait de tagale		
 ref	Tagale		
-term	iExtraüthébdique		
+term	Extrait thébaïque		
 ref	Thébaïque		
 term	Extrait de viande de Liebig		
 ref	Viande		
@@ -42362,7 +42364,7 @@ ref	Restreint
 term	Fauteuil obstétrical		
 ref	Lit		
 term	Fauteuil orthopédique		
-ref	OrTHOPÉDIE		
+ref	Orthopédie		
 entry	FAUX	1	
 orth	FAUX		
 foreign	falsus	lat	
@@ -43146,7 +43148,7 @@ foreign	bean	eng
 foreign	fava	ita	
 foreign	haba	spa	
 foreign	κύαμος	grc	
-term	FèveduBengale		
+term	Fève du Bengale		
 term	Fève du Calabar		
 ref	Ésérine		
 term	Fève des champs ou de cheval		
@@ -43262,7 +43264,7 @@ ref	Humeur
 ref	Rétraction		
 term	Fibrine musculaire ou des muscles		
 ref	Musculine		
-ref	GluTEN		
+ref	Gluten		
 entry	FIBRINEUX	1	
 orth	FIBRINEUX		
 foreign	fibrinös	deu	
@@ -44777,7 +44779,7 @@ foreign	liquefattivo	ita
 foreign	fundente	spa	
 term	Eau fondante		
 ref	Eau		
-term	Fondant deRotrou		
+term	Fondant de Rotrou		
 term	Fondant		
 ref	Flux		
 entry	FONDEMENT	0	
@@ -45740,7 +45742,7 @@ foreign	fruto	spa
 foreign	καρπὸς	grc	
 term	Fruits béchiques		
 ref	Béchique		
-term	Respiration deS fruits		
+term	Respiration des fruits		
 ref	Respiration		
 term	Sucre de fruits		
 ref	Glycose		
@@ -46837,7 +46839,7 @@ entry	GASTRO-ENTÉRITE	0
 orth	GASTRO-ENTÉRITE		
 foreign	gastro-enterüis	lat	
 term	Gastro-entérite folliculeuse		
-term	Gastro-entérUe des nègres		
+term	Gastro-entérite des nègres		
 ref	Mal-coeur		
 ref	Entébite		
 entry	GASTRO-ÉPIPLOÏQUE	1	
@@ -48876,8 +48878,8 @@ term	Gomme en larmes
 ref	Galbanum		
 term	Gomme de lierre		
 ref	Hédérine		
-term	Gomme ligmrode		
-term	Gomme <ïOrenbourg		
+term	Gomme lignirode		
+term	Gomme d’Orenbourg		
 term	Gomme du pays		
 ref	Cérasine		
 term	Gomme-résine		
@@ -50526,7 +50528,7 @@ orth	HAUT
 term	Haut chaussé		
 term	Haut cru		
 term	Haut mal		
-ref	ÉpiLEPSiE		
+ref	Épilepsie		
 term	Haut monté		
 entry	HAUTEUR	0	
 orth	HAUTEUR		
@@ -51276,7 +51278,6 @@ foreign	emoftalmia	ita
 entry	HÉMOPHTHISIE, HÉMOPTYSIE	0	
 orth	HÉMOPHTHISIE		
 orth	HÉMOPTYSIE		
-term	HémophthiSie		
 entry	HÉMOPLANIE	0	
 orth	HÉMOPLANIE		
 foreign	hœmoplania	lat	
@@ -51638,7 +51639,7 @@ entry	HÉPHESTIORHAPHIE	0
 orth	HÉPHESTIORHAPHIE		
 entry	HEPP	0	
 orth	HEPP		
-term	EaudeHepp		
+term	Eau de Hepp		
 ref	Eau		
 entry	HEPTACHLORIQUE	0	
 orth	HEPTACHLORIQUE		
@@ -52076,7 +52077,7 @@ foreign	hermodactiles	spa
 foreign	ἑρμοδάκτυλος	grc	
 term	Hermodacte officinal		
 term	Hermodacte		
-term	HermodactyluS verus		
+term	Hermodactylus verus		
 entry	HERNIAIRE	0	
 orth	HERNIAIRE		
 foreign	hernial	eng	
@@ -53415,7 +53416,7 @@ term	Huile douce du vin
 term	huile de vin pesante		
 ref	Éthérine		
 ref	Éthérol		
-term	HuHes empyreumatiques		
+term	Huiles empyreumatiques		
 ref	Huile		
 term	Huile empyreumatique de Chabert		
 ref	Empvreumatique		
@@ -53503,7 +53504,7 @@ ref	Muscade
 term	Huile de navette		
 ref	Navette		
 term	Huile de noisette		
-ref	CouDrier		
+ref	Coudrier		
 term	Huile de noix		
 term	Huile de noix d’acajou ou de caruba		
 ref	Acajou		
@@ -54402,7 +54403,7 @@ ref	Gazomètre
 term	Hydrogène carboné		
 ref	Carbuees		
 term	Hydrogène carboné chloruré		
-ref	ChloreLAYLE		
+ref	Chlorélayle		
 term	Hydrogène liquide		
 term	Hydrogène protocarboné		
 term	Hydrogène phosphoré		
@@ -65574,7 +65575,7 @@ entry	LYMPHOTOMIE	0
 orth	LYMPHOTOMIE		
 entry	LYNGODE	0	
 orth	LYNGODE		
-term	Fièvre lyngOde		
+term	Fièvre lyngode		
 entry	LYPÉMANIE	0	
 orth	LYPÉMANIE		
 ref	Mélancolie		
@@ -66315,7 +66316,7 @@ term	Mal de Saint-Sement
 ref	Syphilis		
 term	Mal de sept jours		
 ref	Sept jours		
-term	Mal deSiam		
+term	Mal de Siam		
 term	Mal del sol		
 term	Mal de taupe		
 term	Mal de tête		
@@ -79809,8 +79810,8 @@ ref	Bourdonnement
 ref	Cabaret		
 term	Oreille de houx		
 ref	Girofle		
-term	OreiUe-di olivier		
-term	OreiUe-dCours		
+term	Oreille-d’olivier		
+term	Oreille-d’ours		
 pb	1082	1096	
 term	Oreille d’ours		
 entry	OREILLÉ	0	
@@ -79896,9 +79897,9 @@ term	Organes des sens
 ref	Sens		
 term	Organes sexuels		
 ref	Sexuel		
-term	Organes vibraUles		
+term	Organes vibratiles		
 ref	Cil		
-ref	Infusoibe		
+ref	Infusoire		
 entry	ORGANICIEN	0	
 orth	ORGANICIEN		
 entry	ORGANICISME	0	
@@ -80244,7 +80245,7 @@ term	Ethër orseliésique
 entry	ORSELLIQUE	0	
 orth	ORSELLIQUE		
 term	Acide orsellique		
-term	Acide alpha-orseUique		
+term	Acide alpha-orsellique		
 entry	ORTEIL	0	
 orth	ORTEIL		
 foreign	Zehe	deu	
@@ -80580,14 +80581,14 @@ term	La
 term	Cartilage d’ossification		
 ref	Ostéogénie		
 ref	Gartilage		
-term	Point cT ossification		
+term	Point d’ossification		
 term	Ossification accidentelle		
 term	Ossification artérielle		
 ref	Artère		
 term	Ossification du placenta		
 ref	Oblitération		
-entry	OSSIFLCENT	0	
-orth	OSSIFLCENT		
+entry	OSSIFLUENT	0	
+orth	OSSIFLUENT		
 term	Abcès ossi fluent		
 entry	OSSIVORE	0	
 orth	OSSIVORE		
@@ -90387,7 +90388,7 @@ foreign	pimienta	spa
 foreign	πέπερι	grc	
 term	Poivre de bétel		
 ref	Bétel		
-term	PoiiJre cubèbe		
+term	Poivre cubèbe		
 term	Poivre d’eau		
 ref	Renouée		
 term	Poivre d’Éthiopie		
@@ -91878,7 +91879,7 @@ term	Poudre antihystérique fumigatoire
 term	Poudre arsenicale du frère Côme		
 term	poudre arsenicale de Ant. Dubois		
 ref	Poudre		
-term	Poudre arsenicale de RouSSelot		
+term	Poudre arsenicale de Rousselot		
 term	Poudre astringente simple		
 term	Poudre blanche ou explosive de guerre		
 term	Poudre de blanchiment		
@@ -91968,7 +91969,7 @@ term	Poudre de projection
 term	Poudre purgative		
 ref	Poudre		
 term	Poudre sédative de Wetzler		
-term	Poudre de SentinelU		
+term	Poudre de Sentinelli		
 ref	Poudre		
 term	Poudre sternutadoire		
 pb	1251	1265	
@@ -91989,7 +91990,7 @@ ref	Semen-contra
 term	Poudre de vie		
 ref	Poudre		
 term	Poudre de Vienne		
-term	Poudre vomitive dHelvétius		
+term	Poudre vomitive d’Helvétius		
 entry	POUDRETTE	0	
 orth	POUDRETTE		
 foreign	Staubmist	deu	
@@ -92144,7 +92145,7 @@ foreign	petecchie	ita
 foreign	purpura	spa	
 term	Pourpre blanc		
 ref	Miliaire		
-term	Pourpre de WerThoff		
+term	Pourpre de Werlhoff		
 pb	1255	1269	
 term	Pourpre dl indigo		
 ref	Phénicine		
@@ -94451,7 +94452,7 @@ ref	Péritonite
 ref	Infection		
 term	Péritonite puerpérale		
 ref	Péritonite		
-term	PhlegmasieS puerpérales		
+term	Phlegmasies puerpérales		
 term	Scarlatine puerpérale		
 ref	Scarlatinoïde		
 entry	PUERPÉRALITÉ	0	
@@ -95348,7 +95349,7 @@ foreign	pyrola	deu
 foreign	winter-green	deu	
 foreign	pirola	ita	
 foreign	pirola	spa	
-term	Pyrole ombeUée		
+term	Pyrole ombellée		
 entry	PYROLÉOPHORE	0	
 orth	PYROLÉOPHORE		
 entry	PYROLIGNEUX	0	
@@ -97957,7 +97958,7 @@ term	Remèdes galéniques
 ref	Galénique		
 term	Remède de Kœmpfer		
 term	remède de magnanimité		
-term	Remède de Lefebvre de Saint-IldePhonse		
+term	Remède de Lefebvre de Saint-Ildephonse		
 term	Remède Leroy		
 term	Remède de madame N ou fer		
 ref	Tænifuge		
@@ -103786,7 +103787,7 @@ foreign	semilla	spa
 foreign	σπορὰ	grc	
 term	Semences chaudes majeures		
 term	Semences chaudes mineures		
-term	Semences émulsivesAf		
+term	Semences émulsives		
 ref	Émulsif		
 term	Semences froides		
 term	Semence de perles		
@@ -112187,7 +112188,6 @@ foreign	tavola	ita
 foreign	tabla	spa	
 term	Table tournante		
 ref	Troncature		
-term	TaEle		
 term	Table de mortalité		
 ref	Population		
 ref	Vie		
@@ -118404,7 +118404,8 @@ ref	Typhique
 ref	Maladie		
 term	Typhus abdominal		
 term	Typhus abortif		
-term	Typhus amaril d’Amérique.. N. YiiNKRjaune		
+term	Typhus amaril d’Amérique		
+ref	Fièvre		
 term	Typhus des bêtes bovines		
 term	Typhus charbonneux		
 ref	Fièvre		
@@ -120866,7 +120867,7 @@ ref	Instinct
 term	Mal vénérien		
 pb	1656	1670	
 ref	Syphilis		
-term	Maladie vénérienne des soHpèdes		
+term	Maladie vénérienne des solipèdes		
 ref	Mal		
 entry	VENIMEUX	0	
 orth	VENIMEUX		
@@ -121534,7 +121535,7 @@ foreign	vertebrato	ita
 foreign	vertebrado	spa	
 term	Animaux vertébrés		
 ref	Vers		
-term	Vertébrés aUantoïdiens		
+term	Vertébrés allantoïdiens		
 pb	1666	1680	
 term	Vertébrés anallantoïdiens		
 term	Vertébrés à sang chaud et à sang froid		
@@ -124532,7 +124533,7 @@ entry	PANGENÈSE	0
 orth	PANGENÈSE		
 entry	PARALYSEUR	0	
 orth	PARALYSEUR		
-term	NerfParalyseur		
+term	Nerf paralyseur		
 ref	Vaso-moteur		
 entry	PÉRIORCHITE	0	
 orth	PÉRIORCHITE		

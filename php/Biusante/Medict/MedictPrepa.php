@@ -226,6 +226,7 @@ class MedictPrepa extends MedictUtil
             $chapitre = trim($chapitre);
             // ne pas traiter les Errata et Addenda
             if (preg_match('/errata/iu', $chapitre)) continue;
+            if (!trim($chapitre, ' ,.;-')) continue;
 
             // traiter un chapitre
 
@@ -233,20 +234,29 @@ class MedictPrepa extends MedictUtil
             // restaurer de la hiérachie dans les Bouley
             // tout est traité ici
             if (self::starts_with($volume_cote, '34823')) {
+                
                 // 438	0442	Vendéenne [A. Sanson] / Variété maraichine
                 // 439	0443	Vendéenne [A. Sanson]. Variété maraichine
-                $chapitre = preg_replace('@\] / @', ']. ', $chapitre);
+                // 90	0094	4799765	Négretti (Variété ovine) [A. Sanson] / Nématoïdes / Néoplasie [E. Leclainche]
+                // 91	0095	4799766	Néoplasie [E. Leclainche] / Néphrite / Nerfs / Anatomie générale des nerfs [G. Barrier]
+                /* Casse plutôt que n’arrange */
+                if (
+                    preg_match('/\] \/ /ui', $chapitre)
+                    // Narcotiques [M. Kaufmann] / Narcotisme [M. Kaufmann]
+                    && !preg_match('/\] \/[^\/]+\[/ui', $chapitre)
+                ) {
+                    $chapitre = preg_replace('@\] / @', ']. ', $chapitre);
+                }
                 $chapitre = preg_replace('@\]$@', ']. ', $chapitre);
-                $chapitre = preg_replace('/\] /', ']. ', $chapitre);
                 $chapitre = preg_replace('/\](\p{L})/u', ']. $1', $chapitre);
                 // 214	0218	Utérus [P. J. Cadiot]. Pathologie. Inflammation de l'utérus. Métrite. Métro-péritonite / Renversement de la matrice
                 // 215	0219	Utérus [P. J. Cadiot]. Pathologie. Renversement de la matrice
                 // 117	0121	Javart [Henri-Marie Bouley]. Du javart cartilagineux. Traitement du javart cartilagineux. Méthode par les caustiques potentiels / Méthode chirurgicale
                 // 118	0122	Javart [Henri-Marie Bouley]. Du javart cartilagineux. Traitement du javart cartilagineux. Méthode chirurgicale
-
                 $veds = preg_split('@ */ *@', $chapitre);
                 /* si plus de 2 vedettes, ajouter un préfixe aux intermédiaire
                    mais laisse la dernière se renseigner avec la suivante */
+                   /*
                 if (count($veds) > 2) {
                     $veds[0] = trim($veds[0], " \t.");
                     $pref = '';
@@ -254,24 +264,22 @@ class MedictPrepa extends MedictUtil
                     if (FALSE !== $pos) {
                         $pref = substr($veds[0], 0, $pos);
                     }
-                    /*
                     $matches = [];
                     // print_r($matches);
                     preg_match('/^.*?\]\.[^\.]+/', $veds[0], $matches);
                     if (!isset($matches[0])) {
                         // echo $chapitre, "\n";
                     }
-                    */
                     for ($i = 1; $i < count($veds) - 1; $i++) {
                         // nouvel article, ne rien faire
                         if (strpos($veds[$i], '[') !== false) break;
                         // restaurer article préfixe (?)
                         $veds[$i] = $pref . '. ' . $veds[$i];
                     }
-                }
+                }*/
                 foreach($veds as $v) {
                     // NE PAS supprimer l’auteur
-                    $data[] = array("entry", $v);
+                    $data[] = array("entry", trim($v, ' .'));
                 }
                 continue;
             }
@@ -417,6 +425,8 @@ class MedictPrepa extends MedictUtil
             $line = $data[$i];
             if ($line[0] == 'entry') {
                 if (!$line[1]) {
+                    echo implode("\t", $data[$i - 1]) . "\n";
+                    throw  new Exception("entry\tRIEN ?");
                     continue; // what ?
                 }
                 // pour Bouley (et Dechambre ?)
@@ -432,6 +442,7 @@ class MedictPrepa extends MedictUtil
                 // même vedette, incrémenter son compteur de pages
                 if ($vedette == $line[1]) {
                     $out[$out_lastentry][2]++;
+                    continue;
                 }
                 // vedette à sortir
                 else {
@@ -442,7 +453,10 @@ class MedictPrepa extends MedictUtil
                     continue;
                 }
             }
-            if ($line[0] == 'pb') {
+            else if ($line[0] == 'pb') {
+                $out[$out_i++] = $line;
+            }
+            else {
                 $out[$out_i++] = $line;
             }
         }

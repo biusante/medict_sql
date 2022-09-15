@@ -1,11 +1,9 @@
 pb	[s. pag.]	0001	4804487
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4804488
 entry	Liste des collaborateurs du vingt-deuxième volume	0	
 pb	[s. pag.]	0003	4804489
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4804490
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4804491
@@ -53,8 +51,7 @@ pb	34	0038	4804524
 pb	35	0039	4804525
 pb	36	0040	4804526
 pb	37	0041	4804527
-entry	Tumeurs [L. Trasbot]. Diagnostic et pronostic	0	
-orth	Tumeurs. Diagnostic et pronostic		
+entry	Diagnostic et pronostic	0	
 entry	Tumeurs [L. Trasbot]. Traitement	1	
 orth	Tumeurs. Traitement		
 pb	38	0042	4804528
@@ -77,23 +74,22 @@ pb	48	0052	4804538
 pb	49	0053	4804539
 pb	50	0054	4804540
 pb	51	0055	4804541
-entry	Types [A. Sanson]. 	3	
-orth	Types. 		
+entry	Types [A. Sanson]	4	
+orth	Types		
 pb	52	0056	4804542
 pb	53	0057	4804543
 pb	54	0058	4804544
 pb	55	0059	4804545
-entry	Types [A. Sanson]. Typhoïde (Fièvre) [L. Trasbot]. Détermination	0	
-orth	Types. Typhoïde (Fièvre). Détermination		
-pb	56	0060	4804546
-entry	Typhoïde (Fièvre) [L. Trasbot]. Détermination	0	
+entry	Typhoïde (Fièvre) [L. Trasbot]	0	
+orth	Typhoïde (Fièvre)		
+entry	Typhoïde (Fièvre) [L. Trasbot]. Détermination	1	
 orth	Typhoïde (Fièvre). Détermination		
+pb	56	0060	4804546
 entry	Typhoïde (Fièvre) [L. Trasbot]. Dénominations	2	
 orth	Typhoïde (Fièvre). Dénominations		
 pb	57	0061	4804547
 pb	58	0062	4804548
-entry	Typhoïde (Fièvre) [L. Trasbot]. Définition	0	
-orth	Typhoïde (Fièvre). Définition		
+entry	Définition	0	
 entry	Typhoïde (Fièvre) [L. Trasbot]. Aperçu historique	11	
 orth	Typhoïde (Fièvre). Aperçu historique		
 pb	59	0063	4804549
@@ -149,8 +145,7 @@ pb	94	0098	4804584
 pb	95	0099	4804585
 pb	96	0100	4804586
 pb	97	0101	4804587
-entry	Typhoïde (Fièvre) [L. Trasbot]. Anatomie et physiologie pathologiques	0	
-orth	Typhoïde (Fièvre). Anatomie et physiologie pathologiques		
+entry	Anatomie et physiologie pathologiques	0	
 entry	Typhoïde (Fièvre) [L. Trasbot]. Anatomie et physiologie pathologiques. Altérations du sang	4	
 orth	Typhoïde (Fièvre). Anatomie et physiologie pathologiques. Altérations du sang		
 pb	98	0102	4804588
@@ -170,10 +165,8 @@ orth	Typhoïde (Fièvre). Anatomie et physiologie pathologiques. Altérations pu
 pb	108	0112	4804598
 pb	109	0113	4804599
 pb	110	0114	4804600
-entry	Typhoïde (Fièvre) [L. Trasbot]. Anatomie et physiologie pathologiques. Altérations nerveuses	0	
-orth	Typhoïde (Fièvre). Anatomie et physiologie pathologiques. Altérations nerveuses		
-entry	Typhoïde (Fièvre) [L. Trasbot]. Anatomie et physiologie pathologiques. Fourbure	0	
-orth	Typhoïde (Fièvre). Anatomie et physiologie pathologiques. Fourbure		
+entry	Altérations nerveuses	0	
+entry	Fourbure	0	
 entry	Typhoïde (Fièvre) [L. Trasbot]. Anatomie et physiologie pathologiques. Altérations oculaires	2	
 orth	Typhoïde (Fièvre). Anatomie et physiologie pathologiques. Altérations oculaires		
 pb	111	0115	4804601
@@ -189,8 +182,7 @@ entry	Typhoïde (Fièvre) [L. Trasbot]. Traitement	2
 orth	Typhoïde (Fièvre). Traitement		
 pb	114	0120	4804606
 pb	117	0121	4804607
-entry	Typhoïde (Fièvre) [L. Trasbot]. Prophylaxie	0	
-orth	Typhoïde (Fièvre). Prophylaxie		
+entry	Prophylaxie	0	
 entry	Typhoïde (Fièvre) [L. Trasbot]. Traitement. Traitement général	1	
 orth	Typhoïde (Fièvre). Traitement. Traitement général		
 pb	118	0122	4804608
@@ -212,40 +204,33 @@ pb	125	0129	4804615
 pb	126	0130	4804616
 pb	127	0131	4804617
 pb	128	0132	4804618
-entry	Typhoïde (Fièvre) [L. Trasbot]. Traitement. Typhus	0	
-orth	Typhoïde (Fièvre). Traitement. Typhus		
-entry	Ulcération [P. J. Cadiot]. 	1	
-orth	Ulcération. 		
+entry	Typhus	0	
+entry	Ulcération [P. J. Cadiot]	2	
+orth	Ulcération		
 pb	129	0133	4804619
 pb	130	0134	4804620
-entry	Ulcération [P. J. Cadiot]. Ulcères [P. J. Cadiot]. 	0	
-orth	Ulcération. Ulcères. 		
+entry	Ulcères [P. J. Cadiot]	1	
+orth	Ulcères		
 pb	131	0135	4804621
-entry	Ulcères [P. J. Cadiot]. 	0	
-orth	Ulcères. 		
 pb	132	0136	4804622
 entry	Ulcères [P. J. Cadiot]. Ulcères simples	0	
 orth	Ulcères. Ulcères simples		
 pb	133	0137	4804623
 entry	Ulcères [P. J. Cadiot]. Ulcères inflammatoires	0	
 orth	Ulcères. Ulcères inflammatoires		
-entry	Ulcères [P. J. Cadiot]. Ulcères fongueux	0	
-orth	Ulcères. Ulcères fongueux		
-entry	Ulcères [P. J. Cadiot]. Ulcères atoniques	0	
-orth	Ulcères. Ulcères atoniques		
+entry	Ulcères fongueux	0	
+entry	Ulcères atoniques	0	
 entry	Ulcères [P. J. Cadiot]. Ulcères calleux	1	
 orth	Ulcères. Ulcères calleux		
 pb	134	0138	4804624
-entry	Ulcères [P. J. Cadiot]. Ulcères phagédéniques	0	
-orth	Ulcères. Ulcères phagédéniques		
-entry	Ulcères [P. J. Cadiot]. Diagnostic	0	
-orth	Ulcères. Diagnostic		
+entry	Ulcères phagédéniques	0	
+entry	Diagnostic	0	
 entry	Ulcères [P. J. Cadiot]. Traitement	2	
 orth	Ulcères. Traitement		
 pb	135	0139	4804625
 pb	136	0140	4804626
-entry	Urémie [A. Labat]. 	7	
-orth	Urémie. 		
+entry	Urémie [A. Labat]	8	
+orth	Urémie		
 pb	137	0141	4804627
 pb	138	0142	4804628
 pb	139	0143	4804629
@@ -254,14 +239,12 @@ pb	141	0145	4804631
 pb	142	0146	4804632
 pb	143	0147	4804633
 pb	144	0148	4804634
-entry	Urémie [A. Labat]. Uretères [P. J. Cadiot]. 	0	
-orth	Urémie. Uretères. 		
+entry	Uretères [P. J. Cadiot]	2	
+orth	Uretères		
 pb	145	0149	4804635
-entry	Uretères [P. J. Cadiot]. 	0	
-orth	Uretères. 		
 pb	146	0150	4804636
-entry	Uretères [P. J. Cadiot]. Urèthre [F. Peuch]. 	0	
-orth	Uretères. Urèthre. 		
+entry	Urèthre [F. Peuch]	0	
+orth	Urèthre		
 pb	147	0151	4804637
 entry	Urèthre [F. Peuch]. Anatomie	6	
 orth	Urèthre. Anatomie		
@@ -295,23 +278,20 @@ pb	166	0170	4804656
 entry	Uréthrotomie [F. Peuch]. Lieu d'élection. Lieu de nécessité	1	
 orth	Uréthrotomie. Lieu d'élection. Lieu de nécessité		
 pb	167	0171	4804657
-entry	Uréthrotomie [F. Peuch]. Lieu d'élection. Procédés opératoires	0	
-orth	Uréthrotomie. Lieu d'élection. Procédés opératoires		
+entry	Procédés opératoires	0	
 entry	Uréthrotomie [F. Peuch]. Assujettissement de l'animal. Asepsie du champ opératoire	1	
 orth	Uréthrotomie. Assujettissement de l'animal. Asepsie du champ opératoire		
 pb	168	0172	4804658
-entry	Uréthrotomie [F. Peuch]. Assujettissement de l'animal. Technique opératoire. Prémier procédé	0	
-orth	Uréthrotomie. Assujettissement de l'animal. Technique opératoire. Prémier procédé		
+entry	Technique opératoire. Prémier procédé	0	
 entry	Uréthrotomie [F. Peuch]. Technique opératoire. Deuxième procédé	1	
 orth	Uréthrotomie. Technique opératoire. Deuxième procédé		
 pb	169	0173	4804659
-entry	Uréthrotomie [F. Peuch]. Technique opératoire. Extraction du calcul	0	
-orth	Uréthrotomie. Technique opératoire. Extraction du calcul		
+entry	Extraction du calcul	0	
 entry	Uréthrotomie [F. Peuch]. Suites opératoires	1	
 orth	Uréthrotomie. Suites opératoires		
 pb	170	0174	4804660
-entry	Urine (Pathologie) [A. Labat]. 	0	
-orth	Urine (Pathologie). 		
+entry	Urine (Pathologie) [A. Labat]	0	
+orth	Urine (Pathologie)		
 pb	171	0175	4804661
 entry	Urine (Pathologie) [A. Labat]. Caractères physiques de l'urine	4	
 orth	Urine (Pathologie). Caractères physiques de l'urine		
@@ -337,21 +317,18 @@ pb	186	0190	4804676
 pb	187	0191	4804677
 pb	188	0192	4804678
 pb	189	0193	4804679
-entry	Urine (Pathologie) [A. Labat]. Toxicité des urines	0	
-orth	Urine (Pathologie). Toxicité des urines		
+entry	Toxicité des urines	0	
 entry	Urine (Pathologie) [A. Labat]. Expulsion de l'urine	1	
 orth	Urine (Pathologie). Expulsion de l'urine		
 pb	190	0194	4804680
-entry	Urine (Pathologie) [A. Labat]. Urticaire.	0	
-orth	Urine (Pathologie). Urticaire.		
+entry	Urticaire	0	
 entry	Utérus [P. J. Cadiot]. Anatomie	4	
 orth	Utérus. Anatomie		
 pb	191	0195	4804681
 pb	192	0196	4804682
 pb	193	0197	4804683
 pb	194	0198	4804684
-entry	Utérus [P. J. Cadiot]. Pathologie	0	
-orth	Utérus. Pathologie		
+entry	Pathologie	0	
 entry	Utérus [P. J. Cadiot]. Pathologie. Lésions traumatiques	6	
 orth	Utérus. Pathologie. Lésions traumatiques		
 pb	195	0199	4804685
@@ -401,10 +378,8 @@ entry	Corps étrangers	0
 pb	232	0236	4804722
 entry	Utérus [P. J. Cadiot]. Pathologie	0	
 orth	Utérus. Pathologie		
-entry	Utérus [P. J. Cadiot]. Corps étrangers	0	
-orth	Utérus. Corps étrangers		
-entry	Utérus [P. J. Cadiot]. Anomalies	0	
-orth	Utérus. Anomalies		
+entry	Corps étrangers	0	
+entry	Anomalies	0	
 entry	Renversement de l'oviducte chez les oiseaux	0	
 pb	233	0237	4804723
 entry	Vaccin	0	
@@ -448,8 +423,7 @@ orth	Vaccine. Contagion
 pb	255	0259	4804745
 pb	256	0260	4804746
 pb	257	0261	4804747
-entry	Vaccine [F. Peuch]. Culture du vaccin	0	
-orth	Vaccine. Culture du vaccin		
+entry	Culture du vaccin	0	
 entry	Vaccine [F. Peuch]. Culture du vaccin. Choix des sujets vaccinifères	1	
 orth	Vaccine. Culture du vaccin. Choix des sujets vaccinifères		
 pb	258	0262	4804748
@@ -474,8 +448,8 @@ orth	Vaccine. Culture du vaccin. Récolte et conservation du vaccin
 pb	267	0271	4804757
 pb	268	0272	4804758
 pb	269	0273	4804759
-entry	Vacherie [A. Sanson]. 	0	
-orth	Vacherie. 		
+entry	Vacherie [A. Sanson]	0	
+orth	Vacherie		
 pb	270	0274	4804760
 entry	Vacherie [A. Sanson]. Conditions communes aux vacheries	9	
 orth	Vacherie. Conditions communes aux vacheries		
@@ -518,8 +492,8 @@ pb	298	0302	4804788
 pb	299	0303	4804789
 pb	300	0304	4804790
 pb	301	0305	4804791
-entry	Variation [A. Sanson]. 	19	
-orth	Variation. 		
+entry	Variation [A. Sanson]	19	
+orth	Variation		
 pb	302	0306	4804792
 pb	303	0307	4804793
 pb	304	0308	4804794
@@ -574,10 +548,9 @@ pb	346	0350	4804836
 pb	347	0351	4804837
 pb	348	0352	4804838
 pb	349	0353	4804839
-entry	Variation [A. Sanson]. Varices	0	
-orth	Variation. Varices		
-entry	Variété [A. Sanson]. 	3	
-orth	Variété. 		
+entry	Varices	0	
+entry	Variété [A. Sanson]	3	
+orth	Variété		
 pb	350	0354	4804840
 pb	351	0355	4804841
 pb	352	0356	4804842
@@ -615,8 +588,7 @@ entry	Variole [F. Peuch]. Variole du porc	2
 orth	Variole. Variole du porc		
 pb	377	0381	4804867
 pb	378	0382	4804868
-entry	Variole [F. Peuch]. Variole du chien	0	
-orth	Variole. Variole du chien		
+entry	Variole du chien	0	
 entry	Variole [F. Peuch]. Variole des volailles	2	
 orth	Variole. Variole des volailles		
 pb	379	0383	4804869
@@ -626,8 +598,7 @@ orth	Veines. Anatomie
 pb	381	0385	4804871
 pb	382	0386	4804872
 pb	383	0387	4804873
-entry	Veines [P. J. Cadiot]. Pathologie	0	
-orth	Veines. Pathologie		
+entry	Pathologie	0	
 entry	Veines [P. J. Cadiot]. Pathologie. Lésions traumatiques des veines	4	
 orth	Veines. Pathologie. Lésions traumatiques des veines		
 pb	384	0388	4804874
@@ -701,8 +672,8 @@ pb	430	0434	4804920
 pb	431	0435	4804921
 pb	432	0436	4804922
 pb	433	0437	4804923
-entry	Vendéenne [A. Sanson]. 	4	
-orth	Vendéenne. 		
+entry	Vendéenne [A. Sanson]	4	
+orth	Vendéenne		
 pb	434	0438	4804924
 pb	435	0439	4804925
 pb	436	0440	4804926
@@ -720,8 +691,8 @@ orth	Vendéenne. Variété d'Aubrac
 pb	442	0446	4804932
 pb	443	0447	4804933
 pb	444	0448	4804934
-entry	Ventilation [A. Sanson]. 	14	
-orth	Ventilation. 		
+entry	Ventilation [A. Sanson]	14	
+orth	Ventilation		
 pb	445	0449	4804935
 pb	446	0450	4804936
 pb	447	0451	4804937
@@ -741,8 +712,8 @@ entry	Ventilation [A. Sanson]. Verrues	0
 orth	Ventilation. Verrues		
 entry	Vers	0	
 pb	460	0464	4804950
-entry	Vert [A. Sanson]. 	5	
-orth	Vert. 		
+entry	Vert [A. Sanson]	5	
+orth	Vert		
 pb	461	0465	4804951
 pb	462	0466	4804952
 pb	463	0467	4804953
@@ -765,8 +736,8 @@ pb	475	0479	4804965
 pb	476	0480	4804966
 pb	477	0481	4804967
 pb	478	0482	4804968
-entry	Vertige [L. Trasbot]. 	0	
-orth	Vertige. 		
+entry	Vertige [L. Trasbot]	0	
+orth	Vertige		
 pb	479	0483	4804969
 entry	Vertige [L. Trasbot]. Étymologie et signification du mot vertige	1	
 orth	Vertige. Étymologie et signification du mot vertige		
@@ -778,8 +749,7 @@ pb	482	0486	4804972
 pb	483	0487	4804973
 pb	484	0488	4804974
 pb	485	0489	4804975
-entry	Vertige [L. Trasbot]. Détermination	0	
-orth	Vertige. Détermination		
+entry	Détermination	0	
 entry	Vertige [L. Trasbot]. Division	6	
 orth	Vertige. Division		
 pb	486	0490	4804976
@@ -853,16 +823,14 @@ pb	541	0545	4805031
 entry	Vertige [L. Trasbot]. Abcès du cerveau	1	
 orth	Vertige. Abcès du cerveau		
 pb	542	0546	4805032
-entry	Vertige [L. Trasbot]. Méningo-encéphalite chronique	0	
-orth	Vertige. Méningo-encéphalite chronique		
+entry	Méningo-encéphalite chronique	0	
 entry	Vertige [L. Trasbot]. Inflammation du sinus caverneux	1	
 orth	Vertige. Inflammation du sinus caverneux		
 pb	543	0547	4805033
 pb	544	0548	4805034
 entry	Vertige [L. Trasbot]. Paralysie bulbaire	0	
 orth	Vertige. Paralysie bulbaire		
-entry	Vertige [L. Trasbot]. Hypertrophie et atrophie	0	
-orth	Vertige. Hypertrophie et atrophie		
+entry	Hypertrophie et atrophie	0	
 entry	Vertige [L. Trasbot]. Tumeurs	2	
 orth	Vertige. Tumeurs		
 pb	545	0549	4805035
@@ -896,8 +864,7 @@ pb	564	0568	4805054
 entry	Vessie (Maladies de la) [F. Peuch]. Paralysie	1	
 orth	Vessie (Maladies de la). Paralysie		
 pb	565	0569	4805055
-entry	Vessie (Maladies de la) [F. Peuch]. Spasme	0	
-orth	Vessie (Maladies de la). Spasme		
+entry	Spasme	0	
 entry	Vessie (Maladies de la) [F. Peuch]. Hernie	3	
 orth	Vessie (Maladies de la). Hernie		
 pb	566	0570	4805056
@@ -907,16 +874,14 @@ entry	Déchirure	0
 pb	569	0573	4805059
 entry	Vessie (Maladies de la) [F. Peuch]. Tumeurs	0	
 orth	Vessie (Maladies de la). Tumeurs		
-entry	Vessie (Maladies de la) [F. Peuch]. Calculs vésicaux	0	
-orth	Vessie (Maladies de la). Calculs vésicaux		
+entry	Calculs vésicaux	0	
 entry	Parasites	0	
 pb	570	0574	4805060
 entry	Vessie (Maladies de la) [F. Peuch]. Anomalies	0	
 orth	Vessie (Maladies de la). Anomalies		
-entry	Vessie (Maladies de la) [F. Peuch]. Vessigon	0	
-orth	Vessie (Maladies de la). Vessigon		
-entry	Viande [A. Sanson]. 	18	
-orth	Viande. 		
+entry	Vessigon	0	
+entry	Viande [A. Sanson]	18	
+orth	Viande		
 pb	571	0575	4805061
 pb	572	0576	4805062
 pb	573	0577	4805063
@@ -1022,10 +987,9 @@ entry	Voile du palais [F. Peuch]. Maladies	2
 orth	Voile du palais. Maladies		
 pb	641	0645	4805131
 pb	642	0646	4805132
-entry	Voile du palais [F. Peuch]. Anomalies	0	
-orth	Voile du palais. Anomalies		
-entry	Volvulus [P. J. Cadiot]. 	0	
-orth	Volvulus. 		
+entry	Anomalies	0	
+entry	Volvulus [P. J. Cadiot]	0	
+orth	Volvulus		
 pb	643	0647	4805133
 entry	Volvulus [P. J. Cadiot]. Étiologie	2	
 orth	Volvulus. Étiologie		
@@ -1043,42 +1007,39 @@ pb	650	0654	4805140
 entry	Volvulus [P. J. Cadiot]. Diagnostic	1	
 orth	Volvulus. Diagnostic		
 pb	651	0655	4805141
-entry	Volvulus [P. J. Cadiot]. Pronostic	0	
-orth	Volvulus. Pronostic		
+entry	Pronostic	0	
 entry	Volvulus [P. J. Cadiot]. Traitement	2	
 orth	Volvulus. Traitement		
 pb	652	0656	4805142
 pb	653	0657	4805143
-entry	Vomissement [G. Moussu]. 	3	
-orth	Vomissement. 		
+entry	Vomissement [G. Moussu]	4	
+orth	Vomissement		
 pb	654	0658	4805144
 pb	655	0659	4805145
 pb	656	0660	4805146
 pb	657	0661	4805147
-entry	Vomissement [G. Moussu]. Vomitifs [M. Kaufmann]. 	0	
-orth	Vomissement. Vomitifs. 		
+entry	Vomitifs [M. Kaufmann]	7	
+orth	Vomitifs		
 pb	658	0662	4805148
-entry	Vomitifs [M. Kaufmann]. 	5	
-orth	Vomitifs. 		
 pb	659	0663	4805149
 pb	660	0664	4805150
 pb	661	0665	4805151
 pb	662	0666	4805152
 pb	663	0667	4805153
 pb	664	0668	4805154
-entry	Vomitifs [M. Kaufmann]. Vulve [P. J. Cadiot]. Anatomie	0	
-orth	Vomitifs. Vulve. Anatomie		
-pb	665	0669	4805155
-entry	Vulve [P. J. Cadiot]. Anatomie	1	
+entry	Vulve [P. J. Cadiot]	0	
+orth	Vulve		
+entry	Vulve [P. J. Cadiot]. Anatomie	2	
 orth	Vulve. Anatomie		
+pb	665	0669	4805155
 pb	666	0670	4805156
 entry	Vulve [P. J. Cadiot]. Pathologie	3	
 orth	Vulve. Pathologie		
 pb	667	0671	4805157
 pb	668	0672	4805158
 pb	669	0673	4805159
-entry	Zootechnie [A. Sanson]. 	9	
-orth	Zootechnie. 		
+entry	Zootechnie [A. Sanson]	9	
+orth	Zootechnie		
 pb	670	0674	4805160
 pb	671	0675	4805161
 pb	672	0676	4805162

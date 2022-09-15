@@ -1,16 +1,14 @@
 pb	[s. pag.]	0001	4801602
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4801603
 entry	Liste des collaborateurs du dix-septième volume	0	
 pb	[s. pag.]	0003	4801604
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4801605
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4801606
-entry	Peste bovine [F. Peuch]. 	51	
-orth	Peste bovine. 		
+entry	Peste bovine [F. Peuch]	51	
+orth	Peste bovine		
 pb	2	0006	4801607
 pb	3	0007	4801608
 pb	4	0008	4801609
@@ -63,8 +61,8 @@ pb	50	0054	4801655
 pb	51	0055	4801656
 pb	52	0056	4801657
 pb	53	0057	4801658
-entry	Pétéchies [L. Trasbot]. 	6	
-orth	Pétéchies. 		
+entry	Pétéchies [L. Trasbot]	6	
+orth	Pétéchies		
 pb	54	0058	4801659
 pb	55	0059	4801660
 pb	56	0060	4801661
@@ -74,20 +72,14 @@ pb	59	0063	4801664
 pb	60	0064	4801665
 entry	Pétéchies [L. Trasbot]. Pharyngite	0	
 orth	Pétéchies. Pharyngite		
-entry	Pétéchies [L. Trasbot]. Phimosis	0	
-orth	Pétéchies. Phimosis		
-entry	Pétéchies [L. Trasbot]. Plhébite	0	
-orth	Pétéchies. Plhébite		
-entry	Pétéchies [L. Trasbot]. Phlegmasie	0	
-orth	Pétéchies. Phlegmasie		
-entry	Pétéchies [L. Trasbot]. Phlegmon	0	
-orth	Pétéchies. Phlegmon		
-entry	Pétéchies [L. Trasbot]. Phlyctène	0	
-orth	Pétéchies. Phlyctène		
-entry	Pétéchies [L. Trasbot]. Photophobie	0	
-orth	Pétéchies. Photophobie		
-entry	Phtiriase. – Poux [A. Railliet]. 	31	
-orth	Phtiriase. – Poux. 		
+entry	Phimosis	0	
+entry	Plhébite	0	
+entry	Phlegmasie	0	
+entry	Phlegmon	0	
+entry	Phlyctène	0	
+entry	Photophobie	0	
+entry	Phtiriase. – Poux [A. Railliet]	31	
+orth	Phtiriase. – Poux		
 pb	61	0065	4801666
 pb	62	0066	4801667
 pb	63	0067	4801668
@@ -122,21 +114,19 @@ pb	91	0095	4801696
 pb	92	0096	4801697
 entry	Phtiriase. – Poux [A. Railliet]. Phtisie	0	
 orth	Phtiriase. – Poux. Phtisie		
-entry	Pica [L. Trasbot]. 	2	
-orth	Pica. 		
+entry	Pica [L. Trasbot]	2	
+orth	Pica		
 pb	93	0097	4801698
 pb	94	0098	4801699
 pb	95	0099	4801700
-entry	Picarde [A. Sanson]. 	2	
-orth	Picarde. 		
+entry	Picarde [A. Sanson]	3	
+orth	Picarde		
 pb	96	0100	4801701
 pb	97	0101	4801702
 pb	98	0102	4801703
-entry	Picarde [A. Sanson]. Pied (Pathologie) [P. J. Cadiot]. 	0	
-orth	Picarde. Pied (Pathologie). 		
+entry	Pied (Pathologie) [P. J. Cadiot]	78	
+orth	Pied (Pathologie)		
 pb	99	0103	4801704
-entry	Pied (Pathologie) [P. J. Cadiot]. 	77	
-orth	Pied (Pathologie). 		
 pb	100	0104	4801705
 pb	101	0105	4801706
 pb	102	0106	4801707
@@ -215,8 +205,8 @@ pb	174	0178	4801779
 pb	175	0179	4801780
 pb	176	0180	4801781
 pb	177	0181	4801782
-entry	Piétin [F. Peuch]. 	14	
-orth	Piétin. 		
+entry	Piétin [F. Peuch]	14	
+orth	Piétin		
 pb	178	0182	4801783
 pb	179	0183	4801784
 pb	180	0184	4801785
@@ -234,14 +224,11 @@ pb	191	0195	4801796
 pb	192	0196	4801797
 entry	Piétin [F. Peuch]. Pinçard	0	
 orth	Piétin. Pinçard		
-entry	Piétin [F. Peuch]. Piqûre	0	
-orth	Piétin. Piqûre		
-entry	Piétin [F. Peuch]. Pisse	0	
-orth	Piétin. Pisse		
-entry	Piétin [F. Peuch]. Pissement de sang	0	
-orth	Piétin. Pissement de sang		
-entry	Plaies [C. Cadéac]. 	71	
-orth	Plaies. 		
+entry	Piqûre	0	
+entry	Pisse	0	
+entry	Pissement de sang	0	
+entry	Plaies [C. Cadéac]	72	
+orth	Plaies		
 pb	193	0197	4801798
 pb	194	0198	4801799
 pb	195	0199	4801800
@@ -314,17 +301,15 @@ pb	261	0265	4801866
 pb	262	0266	4801867
 pb	263	0267	4801868
 pb	264	0268	4801869
-entry	Plaies [C. Cadéac]. Plateau central [A. Sanson]. 	0	
-orth	Plaies. Plateau central. 		
+entry	Plateau central [A. Sanson]	2	
+orth	Plateau central		
 pb	265	0269	4801870
-entry	Plateau central [A. Sanson]. 	1	
-orth	Plateau central. 		
 pb	266	0270	4801871
 pb	267	0271	4801872
 entry	Plateau central [A. Sanson]. Plessimétrie	0	
 orth	Plateau central. Plessimétrie		
-entry	Pléthore [A. Labat]. 	11	
-orth	Pléthore. 		
+entry	Pléthore [A. Labat]	11	
+orth	Pléthore		
 pb	268	0272	4801873
 pb	269	0273	4801874
 pb	270	0274	4801875
@@ -339,15 +324,13 @@ pb	278	0282	4801883
 pb	279	0283	4801884
 entry	Pléthore [A. Labat]. Pleurésie	0	
 orth	Pléthore. Pleurésie		
-entry	Pléthore [A. Labat]. Pleurodynie	0	
-orth	Pléthore. Pleurodynie		
-entry	Pléthore [A. Labat]. Pleuropneumonie	0	
-orth	Pléthore. Pleuropneumonie		
-entry	Plèvres (Anatomie) [G. Moussu]. 	0	
-orth	Plèvres (Anatomie). 		
+entry	Pleurodynie	0	
+entry	Pleuropneumonie	0	
+entry	Plèvres (Anatomie) [G. Moussu]	0	
+orth	Plèvres (Anatomie)		
 pb	280	0284	4801885
-entry	Plèvre (Anatomie) [G. Moussu]. 	6	
-orth	Plèvre (Anatomie). 		
+entry	Plèvre (Anatomie) [G. Moussu]	7	
+orth	Plèvre (Anatomie)		
 pb	281	0285	4801886
 pb	282	0286	4801887
 pb	283	0287	4801888
@@ -355,8 +338,8 @@ pb	284	0288	4801889
 pb	285	0289	4801890
 pb	286	0290	4801891
 pb	287	0291	4801892
-entry	Plèvre (Anatomie) [G. Moussu]. Plèvres (Pathologie) [L. Trasbot]. 	0	
-orth	Plèvre (Anatomie). Plèvres (Pathologie). 		
+entry	Plèvres (Pathologie) [L. Trasbot]	0	
+orth	Plèvres (Pathologie)		
 pb	288	0292	4801893
 entry	Plèvres (Pathologie) [L. Trasbot]. Inflammations de la plèvre ou pleurites	3	
 orth	Plèvres (Pathologie). Inflammations de la plèvre ou pleurites		
@@ -437,8 +420,8 @@ pb	360	0364	4801965
 pb	361	0365	4801966
 pb	362	0366	4801967
 pb	363	0367	4801968
-entry	Plèvre (Pathologie) [L. Trasbot]. Inflammations de la plèvre ou pleurites.	0	
-orth	Plèvre (Pathologie). Inflammations de la plèvre ou pleurites.		
+entry	Plèvre (Pathologie) [L. Trasbot]. Inflammations de la plèvre ou pleurites	0	
+orth	Plèvre (Pathologie). Inflammations de la plèvre ou pleurites		
 entry	Plèvre (Pathologie) [L. Trasbot]. Inflammations de la plèvre ou pleurites. Pleurite traumatique ou purulente	7	
 orth	Plèvre (Pathologie). Inflammations de la plèvre ou pleurites. Pleurite traumatique ou purulente		
 pb	364	0368	4801969
@@ -474,10 +457,10 @@ pb	387	0391	4801992
 pb	388	0392	4801993
 pb	389	0393	4801994
 entry	Tumeurs et parasites de la plèvre	0	
-entry	. Pneumatocèle	0	
-entry	. Pneumocèle	0	
-entry	Pneumogastrique [E. Leclainche]. 	11	
-orth	Pneumogastrique. 		
+entry	Pneumatocèle	0	
+entry	Pneumocèle	0	
+entry	Pneumogastrique [E. Leclainche]	11	
+orth	Pneumogastrique		
 pb	390	0394	4801995
 pb	391	0395	4801996
 pb	392	0396	4801997
@@ -492,16 +475,12 @@ pb	400	0404	4802005
 pb	401	0405	4802006
 entry	Pneumogastrique [E. Leclainche]. Pneumonie	0	
 orth	Pneumogastrique. Pneumonie		
-entry	Pneumogastrique [E. Leclainche]. Pneumomycosis	0	
-orth	Pneumogastrique. Pneumomycosis		
-entry	Pneumogastrique [E. Leclainche]. Pneumopéricarde	0	
-orth	Pneumogastrique. Pneumopéricarde		
-entry	Pneumogastrique [E. Leclainche]. Pneumorrhagie	0	
-orth	Pneumogastrique. Pneumorrhagie		
-entry	Pneumogastrique [E. Leclainche]. Pneumothorax	0	
-orth	Pneumogastrique. Pneumothorax		
-entry	Poches gutturales (Pathologie) [P. J. Cadiot]. 	6	
-orth	Poches gutturales (Pathologie). 		
+entry	Pneumomycosis	0	
+entry	Pneumopéricarde	0	
+entry	Pneumorrhagie	0	
+entry	Pneumothorax	0	
+entry	Poches gutturales (Pathologie) [P. J. Cadiot]	7	
+orth	Poches gutturales (Pathologie)		
 pb	402	0406	4802007
 pb	403	0407	4802008
 pb	404	0408	4802009
@@ -509,25 +488,23 @@ pb	405	0409	4802010
 pb	406	0410	4802011
 pb	407	0411	4802012
 pb	408	0412	4802013
-entry	Poches gutturales (Pathologie) [P. J. Cadiot]. Podolienne ( Variété bovine) [A. Sanson]. 	0	
-orth	Poches gutturales (Pathologie). Podolienne ( Variété bovine). 		
+entry	Podolienne ( Variété bovine) [A. Sanson]	0	
+orth	Podolienne ( Variété bovine)		
 pb	409	0413	4802014
-entry	Podolienne (Variété bovine) [A. Sanson]. 	0	
-orth	Podolienne (Variété bovine). 		
+entry	Podolienne (Variété bovine) [A. Sanson]	0	
+orth	Podolienne (Variété bovine)		
 pb	410	0414	4802015
 entry	Podolienne (Variété bovine) [A. Sanson]. Poil	0	
 orth	Podolienne (Variété bovine). Poil		
-entry	Poitevine (Variété bovine) [A. Sanson]. 	3	
-orth	Poitevine (Variété bovine). 		
+entry	Poitevine (Variété bovine) [A. Sanson]	4	
+orth	Poitevine (Variété bovine)		
 pb	411	0415	4802016
 pb	412	0416	4802017
 pb	413	0417	4802018
 pb	414	0418	4802019
-entry	Poitevine (Variété bovine) [A. Sanson]. Police sanitaire vétérinaire [F. Peuch]. 	0	
-orth	Poitevine (Variété bovine). Police sanitaire vétérinaire. 		
+entry	Police sanitaire vétérinaire [F. Peuch]	65	
+orth	Police sanitaire vétérinaire		
 pb	415	0419	4802020
-entry	Police sanitaire vétérinaire [F. Peuch]. 	63	
-orth	Police sanitaire vétérinaire. 		
 pb	416	0420	4802021
 pb	417	0421	4802022
 pb	418	0422	4802023
@@ -592,11 +569,9 @@ pb	476	0480	4802081
 pb	477	0481	4802082
 pb	478	0482	4802083
 pb	479	0483	4802084
-entry	Police sanitaire vétérinaire [F. Peuch]. Polypes [C. Cadéac]. 	0	
-orth	Police sanitaire vétérinaire. Polypes. 		
+entry	Polypes [C. Cadéac]	10	
+orth	Polypes		
 pb	480	0484	4802085
-entry	Polypes [C. Cadéac]. 	8	
-orth	Polypes. 		
 pb	481	0485	4802086
 pb	482	0486	4802087
 pb	483	0487	4802088
@@ -606,8 +581,8 @@ pb	486	0490	4802091
 pb	487	0491	4802092
 pb	488	0492	4802093
 pb	489	0493	4802094
-entry	Polypes [C. Cadéac]. Polyurie [P. J. Cadiot]. 	0	
-orth	Polypes. Polyurie. 		
+entry	Polyurie [P. J. Cadiot]	0	
+orth	Polyurie		
 pb	490	0494	4802095
 entry	Polyurie [P. J. Cadiot]. Diabète insipide, polyurie, pisse	13	
 orth	Polyurie. Diabète insipide, polyurie, pisse		
@@ -635,10 +610,9 @@ pb	509	0513	4802114
 pb	510	0514	4802115
 pb	511	0515	4802116
 pb	512	0516	4802117
-entry	Polyurie [P. J. Cadiot]. Pommelière	0	
-orth	Polyurie. Pommelière		
-entry	Ponction [P. J. Cadiot]. 	33	
-orth	Ponction. 		
+entry	Pommelière	0	
+entry	Ponction [P. J. Cadiot]	33	
+orth	Ponction		
 pb	513	0517	4802118
 pb	514	0518	4802119
 pb	515	0519	4802120
@@ -675,10 +649,9 @@ pb	545	0549	4802150
 pb	546	0550	4802151
 entry	Ponction [P. J. Cadiot]. Porc	0	
 orth	Ponction. Porc		
-entry	Ponction [P. J. Cadiot]. Pou	0	
-orth	Ponction. Pou		
-entry	Poulinière [A. Sanson]. 	11	
-orth	Poulinière. 		
+entry	Pou	0	
+entry	Poulinière [A. Sanson]	12	
+orth	Poulinière		
 pb	547	0551	4802152
 pb	548	0552	4802153
 pb	549	0553	4802154
@@ -691,11 +664,9 @@ pb	555	0559	4802160
 pb	556	0560	4802161
 pb	557	0561	4802162
 pb	558	0562	4802163
-entry	Poulinière [A. Sanson]. Pouls [A. Labat]. 	0	
-orth	Poulinière. Pouls. 		
+entry	Pouls [A. Labat]	40	
+orth	Pouls		
 pb	559	0563	4802164
-entry	Pouls [A. Labat]. 	39	
-orth	Pouls. 		
 pb	560	0564	4802165
 pb	561	0565	4802166
 pb	562	0566	4802167

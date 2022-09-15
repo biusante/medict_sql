@@ -1,11 +1,9 @@
 pb	[s. pag.]	0001	4802797
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4802798
 entry	Liste des collaborateurs du dix-neuvième volume	0	
 pb	[s. pag.]	0003	4802799
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4802800
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4802801
@@ -27,8 +25,7 @@ orth	Rectum et anus. Pathologie
 pb	7	0011	4802807
 pb	8	0012	4802808
 pb	9	0013	4802809
-entry	Rectum et anus [A. Labat]. Division	0	
-orth	Rectum et anus. Division		
+entry	Division	0	
 entry	Rectum et anus [A. Labat]. Division. Inflammation ; rectite	9	
 orth	Rectum et anus. Division. Inflammation ; rectite		
 pb	10	0014	4802810
@@ -136,8 +133,8 @@ pb	89	0093	4802889
 pb	90	0094	4802890
 pb	91	0095	4802891
 pb	92	0096	4802892
-entry	Reins (Anatomie et Physiologie) [G. Moussu]. 	13	
-orth	Reins (Anatomie et Physiologie). 		
+entry	Reins (Anatomie et Physiologie) [G. Moussu]	14	
+orth	Reins (Anatomie et Physiologie)		
 pb	93	0097	4802893
 pb	94	0098	4802894
 pb	95	0099	4802895
@@ -152,11 +149,9 @@ pb	103	0107	4802903
 pb	104	0108	4802904
 pb	105	0109	4802905
 pb	106	0110	4802906
-entry	Reins (Anatomie et Physiologie) [G. Moussu]. Reins (Pathologie) [L. Trasbot]. 	0	
-orth	Reins (Anatomie et Physiologie). Reins (Pathologie). 		
+entry	Reins (Pathologie) [L. Trasbot]	3	
+orth	Reins (Pathologie)		
 pb	107	0111	4802907
-entry	Reins (Pathologie) [L. Trasbot]. 	2	
-orth	Reins (Pathologie). 		
 pb	108	0112	4802908
 pb	109	0113	4802909
 pb	110	0114	4802910
@@ -255,8 +250,7 @@ entry	Reins (Pathologie) [L. Trasbot]. Dégénérescence amyloïde	2
 orth	Reins (Pathologie). Dégénérescence amyloïde		
 pb	175	0179	4802975
 pb	176	0180	4802976
-entry	Reins (Pathologie) [L. Trasbot]. Tumeurs	0	
-orth	Reins (Pathologie). Tumeurs		
+entry	Tumeurs	0	
 entry	Reins (Pathologie) [L. Trasbot]. Blessures	1	
 orth	Reins (Pathologie). Blessures		
 pb	177	0181	4802977
@@ -282,18 +276,16 @@ pb	188	0192	4802988
 entry	Reins (Parasites des) [A. Railliet]. Champignons	1	
 orth	Reins (Parasites des). Champignons		
 pb	189	0193	4802989
-entry	Relation nutritive [A. Sanson]. 	4	
-orth	Relation nutritive. 		
+entry	Relation nutritive [A. Sanson]	5	
+orth	Relation nutritive		
 pb	190	0194	4802990
 pb	191	0195	4802991
 pb	192	0196	4802992
 pb	193	0197	4802993
 pb	194	0198	4802994
-entry	Relation nutritive [A. Sanson]. Remontes militaires [A. Sanson]. 	0	
-orth	Relation nutritive. Remontes militaires. 		
+entry	Remontes militaires [A. Sanson]	18	
+orth	Remontes militaires		
 pb	195	0199	4802995
-entry	Remontes militaires [A. Sanson]. 	16	
-orth	Remontes militaires. 		
 pb	196	0200	4802996
 pb	197	0201	4802997
 pb	198	0202	4802998
@@ -311,11 +303,9 @@ pb	209	0213	4803009
 pb	210	0214	4803010
 pb	211	0215	4803011
 pb	212	0216	4803012
-entry	Remontes militaires [A. Sanson]. Rendement [A. Sanson]. 	0	
-orth	Remontes militaires. Rendement. 		
+entry	Rendement [A. Sanson]	9	
+orth	Rendement		
 pb	213	0217	4803013
-entry	Rendement [A. Sanson]. 	8	
-orth	Rendement. 		
 pb	214	0218	4803014
 pb	215	0219	4803015
 pb	216	0220	4803016
@@ -325,8 +315,8 @@ pb	219	0223	4803019
 pb	220	0224	4803020
 pb	221	0225	4803021
 pb	222	0226	4803022
-entry	Répercussion [A. Labat]. 	1	
-orth	Répercussion. 		
+entry	Répercussion [A. Labat]	1	
+orth	Répercussion		
 pb	223	0227	4803023
 pb	224	0228	4803024
 entry	Reproduction [A. Sanson]. Lois de l'hérédité	34	
@@ -376,23 +366,20 @@ pb	264	0268	4803064
 pb	265	0269	4803065
 pb	266	0270	4803066
 pb	267	0271	4803067
-entry	Résolution [A. Labat]. 	1	
-orth	Résolution. 		
+entry	Résolution [A. Labat]	2	
+orth	Résolution		
 pb	268	0272	4803068
 pb	269	0273	4803069
-entry	Résolution [A. Labat]. Résorption [A. Labat]. 	0	
-orth	Résolution. Résorption. 		
+entry	Résorption [A. Labat]	2	
+orth	Résorption		
 pb	270	0274	4803070
-entry	Résorption [A. Labat]. 	0	
-orth	Résorption. 		
 pb	271	0275	4803071
-entry	Résorption [A. Labat]. Respiratoires (Parasites des voies) [A. Railliet]. 	0	
-orth	Résorption. Respiratoires (Parasites des voies). 		
+entry	Respiratoires (Parasites des voies) [A. Railliet]	0	
+orth	Respiratoires (Parasites des voies)		
 pb	272	0276	4803072
 entry	Respiratoires (Parasites des voies) [A. Railliet]. Insectes	0	
 orth	Respiratoires (Parasites des voies). Insectes		
-entry	Respiratoires (Parasites des voies) [A. Railliet]. Acariens	0	
-orth	Respiratoires (Parasites des voies). Acariens		
+entry	Acariens	0	
 entry	Linguatules	0	
 pb	273	0277	4803073
 entry	Respiratoires (Parasites des voies) [A. Railliet]. Annélides	0	
@@ -432,8 +419,7 @@ orth	Respiratoires (parasites des voies). Cestodes
 pb	300	0304	4803100
 pb	301	0305	4803101
 pb	302	0306	4803102
-entry	Respiratoires (parasites des voies) [A. Railliet]. Infusoires	0	
-orth	Respiratoires (parasites des voies). Infusoires		
+entry	Infusoires	0	
 entry	Respiratoires (parasites des voies) [A. Railliet]. Coccidies	1	
 orth	Respiratoires (parasites des voies). Coccidies		
 pb	303	0307	4803103
@@ -441,21 +427,17 @@ entry	Respiratoires (parasites des voies) [A. Railliet]. Champignons	2
 orth	Respiratoires (parasites des voies). Champignons		
 pb	304	0308	4803104
 pb	305	0309	4803105
-entry	Rétention [A. Labat]. 	0	
-orth	Rétention. 		
+entry	Rétention [A. Labat]	1	
+orth	Rétention		
 pb	306	0310	4803106
-entry	Rétention [A. Labat]. Rétivité [F. Peuch]. 	0	
-orth	Rétention. Rétivité. 		
+entry	Rétivité [F. Peuch]	3	
+orth	Rétivité		
 pb	307	0311	4803107
-entry	Rétivité [F. Peuch]. 	1	
-orth	Rétivité. 		
 pb	308	0312	4803108
 pb	309	0313	4803109
-entry	Rétivité [F. Peuch]. Réversion [A. Sanson]. 	0	
-orth	Rétivité. Réversion. 		
+entry	Réversion [A. Sanson]	19	
+orth	Réversion		
 pb	310	0314	4803110
-entry	Réversion [A. Sanson]. 	17	
-orth	Réversion. 		
 pb	311	0315	4803111
 pb	312	0316	4803112
 pb	313	0317	4803113
@@ -474,22 +456,18 @@ pb	325	0329	4803125
 pb	326	0330	4803126
 pb	327	0331	4803127
 pb	328	0332	4803128
-entry	Réversion [A. Sanson]. Révulsifs, Révulsion [M. Kaufmann]. 	0	
-orth	Réversion. Révulsifs, Révulsion. 		
+entry	Révulsifs, Révulsion [M. Kaufmann]	7	
+orth	Révulsifs, Révulsion		
 pb	329	0333	4803129
-entry	Révulsifs, Révulsion [M. Kaufmann]. 	5	
-orth	Révulsifs, Révulsion. 		
 pb	330	0334	4803130
 pb	331	0335	4803131
 pb	332	0336	4803132
 pb	333	0337	4803133
 pb	334	0338	4803134
 pb	335	0339	4803135
-entry	Révulsifs, Révulsion [M. Kaufmann]. Rhumatisme [Cadéac]. 	0	
-orth	Révulsifs, Révulsion. Rhumatisme. 		
+entry	Rhumatisme [Cadéac]	3	
+orth	Rhumatisme		
 pb	336	0340	4803136
-entry	Rhumatisme [Cadéac]. 	2	
-orth	Rhumatisme. 		
 pb	337	0341	4803137
 pb	338	0342	4803138
 pb	339	0343	4803139
@@ -554,8 +532,7 @@ entry	Rhumatisme [Cadéac]. Rhumatisme articulaire du porc	2
 orth	Rhumatisme. Rhumatisme articulaire du porc		
 pb	387	0391	4803187
 pb	388	0392	4803188
-entry	Rhumatisme [Cadéac]. Rhumatisme articulaire du mouton	0	
-orth	Rhumatisme. Rhumatisme articulaire du mouton		
+entry	Rhumatisme articulaire du mouton	0	
 entry	Rhumatisme [Cadéac]. Rhumatisme articulaire du chien	1	
 orth	Rhumatisme. Rhumatisme articulaire du chien		
 pb	389	0393	4803189
@@ -585,8 +562,8 @@ pb	408	0412	4803208
 pb	409	0413	4803209
 pb	410	0414	4803210
 pb	411	0415	4803211
-entry	Robes [A. Sanson]. 	1	
-orth	Robes. 		
+entry	Robes [A. Sanson]	1	
+orth	Robes		
 pb	412	0416	4803212
 pb	413	0417	4803213
 entry	Robes [A. Sanson]. Robes simples	10	
@@ -627,8 +604,8 @@ pb	440	0444	4803240
 pb	441	0445	4803241
 pb	442	0446	4803242
 pb	443	0447	4803243
-entry	Rouget du porc [Ed. Nocard]. 	0	
-orth	Rouget du porc. 		
+entry	Rouget du porc [Ed. Nocard]	0	
+orth	Rouget du porc		
 pb	444	0448	4803244
 entry	Rouget du porc [Ed. Nocard]. Rouget (proprement dit)	6	
 orth	Rouget du porc. Rouget (proprement dit)		
@@ -660,16 +637,14 @@ orth	Rouget du porc. Police sanitaire du rouget et de la pneumo-entérite
 pb	462	0466	4803262
 pb	463	0467	4803263
 pb	464	0468	4803264
-entry	Rubéfiants. Rubéfaction [M. Kaufmann]. 	2	
-orth	Rubéfiants. Rubéfaction. 		
+entry	Rubéfiants. Rubéfaction [M. Kaufmann]	3	
+orth	Rubéfiants. Rubéfaction		
 pb	465	0469	4803265
 pb	466	0470	4803266
 pb	467	0471	4803267
-entry	Rubéfiants. Rubéfaction [M. Kaufmann]. Sabot [A. Sanson]. 	0	
-orth	Rubéfiants. Rubéfaction. Sabot. 		
+entry	Sabot [A. Sanson]	2	
+orth	Sabot		
 pb	468	0472	4803268
-entry	Sabot [A. Sanson]. 	1	
-orth	Sabot. 		
 pb	469	0473	4803269
 pb	470	0474	4803270
 entry	Sabot [A. Sanson]. Anatomie du sabot	26	
@@ -722,8 +697,8 @@ pb	513	0517	4803313
 pb	514	0518	4803314
 pb	515	0519	4803315
 pb	516	0520	4803316
-entry	Saignée [F. Peuch]. 	3	
-orth	Saignée. 		
+entry	Saignée [F. Peuch]	3	
+orth	Saignée		
 pb	517	0521	4803317
 pb	518	0522	4803318
 pb	519	0523	4803319

@@ -10,6 +10,7 @@ use Biusante\Medict\{MedictPrepa};
 // Génère des données tsv ingérables dans medict à partir de anc_dir
 MedictPrepa::tsv_dir();
 
+
 $src_dir = dirname(__DIR__) . '/medict-xml/xml/';
 // à faire après, pour recouvrir les cotes communes à anc
 foreach (array(

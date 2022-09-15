@@ -1,16 +1,14 @@
 pb	[s. pag.]	0001	4799092
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4799093
 entry	Liste des collaborateurs du treizième volume	0	
 pb	[s. pag.]	0003	4799094
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4799095
 entry	Liste par ordre alphabétique des auteurs qui ont coopéré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4799096
-entry	Miasmes [L. Trasbot]. 	9	
-orth	Miasmes. 		
+entry	Miasmes [L. Trasbot]	9	
+orth	Miasmes		
 pb	2	0006	4799097
 pb	3	0007	4799098
 pb	4	0008	4799099
@@ -23,8 +21,8 @@ pb	10	0014	4799105
 pb	11	0015	4799106
 entry	Miasmes [L. Trasbot]. Moelle épinière	0	
 orth	Miasmes. Moelle épinière		
-entry	Moelle épinière. Anatomie [F. Laulanié]. 	18	
-orth	Moelle épinière. Anatomie. 		
+entry	Moelle épinière. Anatomie [F. Laulanié]	19	
+orth	Moelle épinière. Anatomie		
 pb	12	0016	4799107
 pb	13	0017	4799108
 pb	14	0018	4799109
@@ -44,11 +42,9 @@ pb	27	0031	4799122
 pb	28	0032	4799123
 pb	29	0033	4799124
 pb	30	0034	4799125
-entry	Moelle épinière. Anatomie [F. Laulanié]. Physiologie [F. Laulanié]. 	0	
-orth	Moelle épinière. Anatomie. Physiologie. 		
+entry	Moelle épinière. Physiologie [F. Laulanié]	27	
+orth	Moelle épinière. Physiologie		
 pb	31	0035	4799126
-entry	Moelle épinière. Physiologie [F. Laulanié]. 	25	
-orth	Moelle épinière. Physiologie. 		
 pb	32	0036	4799127
 pb	33	0037	4799128
 pb	34	0038	4799129
@@ -75,11 +71,9 @@ pb	54	0058	4799149
 pb	55	0059	4799150
 pb	56	0060	4799151
 pb	57	0061	4799152
-entry	Moelle épinière. Physiologie [F. Laulanié]. Pathologie [L. Trasbot]. 	0	
-orth	Moelle épinière. Physiologie. Pathologie. 		
+entry	Moelle épinière. Pathologie [L. Trasbot]	1	
+orth	Moelle épinière. Pathologie		
 pb	58	0062	4799153
-entry	Moelle épinière. Pathologie [L. Trasbot]. 	0	
-orth	Moelle épinière. Pathologie. 		
 pb	59	0063	4799154
 entry	Moelle épinière. Pathologie [L. Trasbot]. Congestion de la moelle épinière	10	
 orth	Moelle épinière. Pathologie. Congestion de la moelle épinière		
@@ -211,32 +205,27 @@ pb	178	0182	4799273
 pb	179	0183	4799274
 pb	180	0184	4799275
 pb	181	0185	4799276
-entry	Moelle épinière. Pathologie [L. Trasbot]. Hydrorachis	0	
-orth	Moelle épinière. Pathologie. Hydrorachis		
+entry	Hydrorachis	0	
 entry	Moelle épinière. Pathologie [L. Trasbot]. Hypertrophie et atrophie de la moelle	1	
 orth	Moelle épinière. Pathologie. Hypertrophie et atrophie de la moelle		
 pb	182	0186	4799277
-entry	Moelle épinière. Pathologie [L. Trasbot]. Néoplasies	0	
-orth	Moelle épinière. Pathologie. Néoplasies		
+entry	Néoplasies	0	
 entry	Moelle épinière. Pathologie [L. Trasbot]. Parasitime	1	
 orth	Moelle épinière. Pathologie. Parasitime		
 pb	183	0187	4799278
-entry	Moelle épinière. Pathologie [L. Trasbot]. Mollettes	0	
-orth	Moelle épinière. Pathologie. Mollettes		
-entry	Moelle épinière. Pathologie [L. Trasbot]. Monorchide	0	
-orth	Moelle épinière. Pathologie. Monorchide		
-entry	Moelle épinière. Pathologie [L. Trasbot]. Monstruosités	0	
-orth	Moelle épinière. Pathologie. Monstruosités		
-entry	Monte [A. Sanson]. 	5	
-orth	Monte. 		
+entry	Mollettes	0	
+entry	Monorchide	0	
+entry	Monstruosités	0	
+entry	Monte [A. Sanson]	6	
+orth	Monte		
 pb	184	0188	4799279
 pb	185	0189	4799280
 pb	186	0190	4799281
 pb	187	0191	4799282
 pb	188	0192	4799283
 pb	189	0193	4799284
-entry	Monte [A. Sanson]. Morve [Henri-Marie Bouley]. 	0	
-orth	Monte. Morve. 		
+entry	Morve [Henri-Marie Bouley]	0	
+orth	Morve		
 pb	190	0194	4799285
 entry	Morve [Henri-Marie Bouley]. Nature microbienne de la morve	13	
 orth	Morve. Nature microbienne de la morve		
@@ -282,8 +271,8 @@ pb	227	0231	4799322
 pb	228	0232	4799323
 pb	229	0233	4799324
 pb	230	0234	4799325
-entry	Morve [Henri-Marie Bouley].	0	
-orth	Morve.		
+entry	Morve [Henri-Marie Bouley]	0	
+orth	Morve		
 entry	Morve [Henri-Marie Bouley]. Etiologie	8	
 orth	Morve. Etiologie		
 pb	231	0235	4799326
@@ -380,8 +369,8 @@ entry	Morve [Henri-Marie Bouley]. Police sanitaire	2
 orth	Morve. Police sanitaire		
 pb	303	0307	4799398
 pb	304	0308	4799399
-entry	Moteurs animés [A. Sanson]. 	66	
-orth	Moteurs animés. 		
+entry	Moteurs animés [A. Sanson]	67	
+orth	Moteurs animés		
 pb	305	0309	4799400
 pb	306	0310	4799401
 pb	307	0311	4799402
@@ -449,11 +438,9 @@ pb	368	0372	4799463
 pb	369	0373	4799464
 pb	370	0374	4799465
 pb	371	0375	4799466
-entry	Moteurs animés [A. Sanson]. Mouches [A. Railliet]. 	0	
-orth	Moteurs animés. Mouches. 		
+entry	Mouches [A. Railliet]	28	
+orth	Mouches		
 pb	372	0376	4799467
-entry	Mouches [A. Railliet]. 	26	
-orth	Mouches. 		
 pb	373	0377	4799468
 pb	374	0378	4799469
 pb	375	0379	4799470
@@ -481,11 +468,9 @@ pb	396	0400	4799491
 pb	397	0401	4799492
 pb	398	0402	4799493
 pb	399	0403	4799494
-entry	Mouches [A. Railliet]. Mouton [A. Sanson]. 	0	
-orth	Mouches. Mouton. 		
+entry	Mouton [A. Sanson]	25	
+orth	Mouton		
 pb	400	0404	4799495
-entry	Mouton [A. Sanson]. 	24	
-orth	Mouton. 		
 pb	401	0405	4799496
 pb	402	0406	4799497
 pb	403	0407	4799498
@@ -513,8 +498,8 @@ pb	424	0428	4799519
 pb	425	0429	4799520
 entry	Mouton [A. Sanson]. Moxa	0	
 orth	Mouton. Moxa		
-entry	Mue [A. Sanson]. 	7	
-orth	Mue. 		
+entry	Mue [A. Sanson]	8	
+orth	Mue		
 pb	426	0430	4799521
 pb	427	0431	4799522
 pb	428	0432	4799523
@@ -523,11 +508,9 @@ pb	430	0434	4799525
 pb	431	0435	4799526
 pb	432	0436	4799527
 pb	433	0437	4799528
-entry	Mue [A. Sanson]. Muguet [G. Neumann]. 	0	
-orth	Mue. Muguet. 		
+entry	Muguet [G. Neumann]	20	
+orth	Muguet		
 pb	434	0438	4799529
-entry	Muguet [G. Neumann]. 	18	
-orth	Muguet. 		
 pb	435	0439	4799530
 pb	436	0440	4799531
 pb	437	0441	4799532
@@ -547,11 +530,9 @@ pb	450	0454	4799545
 pb	451	0455	4799546
 pb	452	0456	4799547
 pb	453	0457	4799548
-entry	Muguet [G. Neumann]. Mulets [A. Sanson]. 	0	
-orth	Muguet. Mulets. 		
+entry	Mulets [A. Sanson]	24	
+orth	Mulets		
 pb	454	0458	4799549
-entry	Mulets [A. Sanson]. 	23	
-orth	Mulets. 		
 pb	455	0459	4799550
 pb	456	0460	4799551
 pb	457	0461	4799552
@@ -601,12 +582,11 @@ pb	496	0500	4799591
 pb	497	0501	4799592
 pb	498	0502	4799593
 pb	499	0503	4799594
-entry	Muqueuses (Membranes) [G. Barrier]. Muraille	0	
-orth	Muqueuses (Membranes). Muraille		
+entry	Muraille	0	
 entry	Muscles	1	
 pb	500	0504	4799595
-entry	Muscles. Anatomie [G. Barrier]. 	18	
-orth	Muscles. Anatomie. 		
+entry	Muscles. Anatomie [G. Barrier]	19	
+orth	Muscles. Anatomie		
 pb	501	0505	4799596
 pb	502	0506	4799597
 pb	503	0507	4799598
@@ -626,11 +606,9 @@ pb	516	0520	4799611
 pb	517	0521	4799612
 pb	518	0522	4799613
 pb	519	0523	4799614
-entry	Muscles. Anatomie [G. Barrier]. Physiologie [G. Barrier]. 	0	
-orth	Muscles. Anatomie. Physiologie. 		
+entry	Muscles. Physiologie [G. Barrier]	11	
+orth	Muscles. Physiologie		
 pb	520	0524	4799615
-entry	Muscles. Physiologie [G. Barrier]. 	9	
-orth	Muscles. Physiologie. 		
 pb	521	0525	4799616
 pb	522	0526	4799617
 pb	523	0527	4799618
@@ -641,11 +619,9 @@ pb	527	0531	4799622
 pb	528	0532	4799623
 pb	529	0533	4799624
 pb	530	0534	4799625
-entry	Muscles. Physiologie [G. Barrier]. Pathologie [Ed. Nocard]. 	0	
-orth	Muscles. Physiologie. Pathologie. 		
+entry	Muscles. Pathologie [Ed. Nocard]	23	
+orth	Muscles. Pathologie		
 pb	531	0535	4799626
-entry	Muscles. Pathologie [Ed. Nocard]. 	21	
-orth	Muscles. Pathologie. 		
 pb	532	0536	4799627
 pb	533	0537	4799628
 pb	534	0538	4799629
@@ -668,11 +644,9 @@ pb	550	0554	4799645
 pb	551	0555	4799646
 pb	552	0556	4799647
 pb	553	0557	4799648
-entry	Muscles. Pathologie [Ed. Nocard]. Mydriase [L. Trasbot]. 	0	
-orth	Muscles. Pathologie. Mydriase. 		
+entry	Mydriase [L. Trasbot]	5	
+orth	Mydriase		
 pb	554	0558	4799649
-entry	Mydriase [L. Trasbot]. 	4	
-orth	Mydriase. 		
 pb	555	0559	4799650
 pb	556	0560	4799651
 pb	557	0561	4799652
@@ -680,10 +654,9 @@ pb	558	0562	4799653
 pb	559	0563	4799654
 entry	Mydriase [L. Trasbot]. Myélite	0	
 orth	Mydriase. Myélite		
-entry	Mydriase [L. Trasbot]. Myosite	0	
-orth	Mydriase. Myosite		
-entry	Myômes [L. Trasbot]. 	6	
-orth	Myômes. 		
+entry	Myosite	0	
+entry	Myômes [L. Trasbot]	6	
+orth	Myômes		
 pb	560	0564	4799655
 pb	561	0565	4799656
 pb	562	0566	4799657
@@ -693,10 +666,9 @@ pb	565	0569	4799660
 pb	566	0570	4799661
 entry	Myômes [L. Trasbot]. Myopie	0	
 orth	Myômes. Myopie		
-entry	Myômes [L. Trasbot]. Myotomie	0	
-orth	Myômes. Myotomie		
-entry	Myxômes [L. Trasbot]. 	5	
-orth	Myxômes. 		
+entry	Myotomie	0	
+entry	Myxômes [L. Trasbot]	5	
+orth	Myxômes		
 pb	567	0571	4799662
 pb	568	0572	4799663
 pb	569	0573	4799664

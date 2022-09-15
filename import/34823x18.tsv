@@ -1,16 +1,14 @@
 pb	[s. pag.]	0001	4802207
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4802208
 entry	Liste des collaborateurs du dix-huitième volume	0	
 pb	[s. pag.]	0003	4802209
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4802210
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4802211
-entry	Poumon (Anatomie et physiologie) [L. Moussu]. 	19	
-orth	Poumon (Anatomie et physiologie). 		
+entry	Poumon (Anatomie et physiologie) [L. Moussu]	20	
+orth	Poumon (Anatomie et physiologie)		
 pb	2	0006	4802212
 pb	3	0007	4802213
 pb	4	0008	4802214
@@ -31,11 +29,9 @@ pb	18	0022	4802228
 pb	19	0023	4802229
 pb	20	0024	4802230
 pb	21	0025	4802231
-entry	Poumon (Anatomie et physiologie) [L. Moussu]. Poumon (Pathologie) [L. Trasbot]. 	0	
-orth	Poumon (Anatomie et physiologie). Poumon (Pathologie). 		
+entry	Poumon (Pathologie) [L. Trasbot]	4	
+orth	Poumon (Pathologie)		
 pb	22	0026	4802232
-entry	Poumon (Pathologie) [L. Trasbot]. 	3	
-orth	Poumon (Pathologie). 		
 pb	23	0027	4802233
 pb	24	0028	4802234
 pb	25	0029	4802235
@@ -237,12 +233,10 @@ pb	206	0210	4802416
 pb	207	0211	4802417
 pb	208	0212	4802418
 pb	209	0213	4802419
-entry	Poumon (Pathologie) [L. Trasbot]. Pneumonies. Pourriture	0	
-orth	Poumon (Pathologie). Pneumonies. Pourriture		
-entry	Poumon (Pathologie) [L. Trasbot]. Pneumonies. Pousse	0	
-orth	Poumon (Pathologie). Pneumonies. Pousse		
-entry	Précocité (Définition) [A. Sanson]. 	32	
-orth	Précocité (Définition). 		
+entry	Pourriture	0	
+entry	Pousse	0	
+entry	Précocité (Définition) [A. Sanson]	32	
+orth	Précocité (Définition)		
 pb	210	0214	4802420
 pb	211	0215	4802421
 pb	212	0216	4802422
@@ -278,26 +272,21 @@ pb	241	0245	4802451
 pb	242	0246	4802452
 entry	Précocité (Définition) [A. Sanson]. Presbytie	0	
 orth	Précocité (Définition). Presbytie		
-entry	Précocité (Définition) [A. Sanson]. Présentation	0	
-orth	Précocité (Définition). Présentation		
-entry	Priapisme [A. Labat]. 	1	
-orth	Priapisme. 		
+entry	Présentation	0	
+entry	Priapisme [A. Labat]	2	
+orth	Priapisme		
 pb	243	0247	4802453
 pb	244	0248	4802454
-entry	Priapisme [A. Labat]. Prodrome [A. Labat]. 	0	
-orth	Priapisme. Prodrome. 		
+entry	Prodrome [A. Labat]	5	
+orth	Prodrome		
 pb	245	0249	4802455
-entry	Prodrome [A. Labat]. 	3	
-orth	Prodrome. 		
 pb	246	0250	4802456
 pb	247	0251	4802457
 pb	248	0252	4802458
 pb	249	0253	4802459
-entry	Prodrome [A. Labat]. Pronostic [A. Labat]. 	0	
-orth	Prodrome. Pronostic. 		
+entry	Pronostic [A. Labat]	15	
+orth	Pronostic		
 pb	250	0254	4802460
-entry	Pronostic [A. Labat]. 	13	
-orth	Pronostic. 		
 pb	251	0255	4802461
 pb	252	0256	4802462
 pb	253	0257	4802463
@@ -312,20 +301,18 @@ pb	261	0265	4802471
 pb	262	0266	4802472
 pb	263	0267	4802473
 pb	264	0268	4802474
-entry	Pronostic [A. Labat]. Prophylaxie [F. Peuch]. 	0	
-orth	Pronostic. Prophylaxie. 		
+entry	Prophylaxie [F. Peuch]	0	
+orth	Prophylaxie		
 pb	265	0269	4802475
-entry	Proportions [A. Sanson]. 	3	
-orth	Proportions. 		
+entry	Proportions [A. Sanson]	4	
+orth	Proportions		
 pb	266	0270	4802476
 pb	267	0271	4802477
 pb	268	0272	4802478
 pb	269	0273	4802479
-entry	Proportions [A. Sanson]. Prostate (Anatomie) [P. J. Cadiot]. 	0	
-orth	Proportions. Prostate (Anatomie). 		
+entry	Prostate (Anatomie) [P. J. Cadiot]	14	
+orth	Prostate (Anatomie)		
 pb	270	0274	4802480
-entry	Prostate (Anatomie) [P. J. Cadiot]. 	12	
-orth	Prostate (Anatomie). 		
 pb	271	0275	4802481
 pb	272	0276	4802482
 pb	273	0277	4802483
@@ -339,17 +326,15 @@ pb	280	0284	4802490
 pb	281	0285	4802491
 pb	282	0286	4802492
 pb	283	0287	4802493
-entry	Prostate (Anatomie) [P. J. Cadiot]. Prothèse [P. J. Cadiot]. 	0	
-orth	Prostate (Anatomie). Prothèse. 		
+entry	Prothèse [P. J. Cadiot]	4	
+orth	Prothèse		
 pb	284	0288	4802494
-entry	Prothèse [P. J. Cadiot]. 	3	
-orth	Prothèse. 		
 pb	285	0289	4802495
 pb	286	0290	4802496
 pb	287	0291	4802497
 pb	288	0292	4802498
-entry	Protozoaires [A. Railliet]. 	32	
-orth	Protozoaires. 		
+entry	Protozoaires [A. Railliet]	32	
+orth	Protozoaires		
 pb	289	0293	4802499
 pb	290	0294	4802500
 pb	291	0295	4802501
@@ -385,16 +370,15 @@ pb	320	0324	4802530
 pb	321	0325	4802531
 entry	Protozoaires [A. Railliet]. Prurigo	0	
 orth	Protozoaires. Prurigo		
-entry	Protozoaires [A. Railliet]. Prurit	0	
-orth	Protozoaires. Prurit		
+entry	Prurit	0	
 entry	Pseudarthrose [P. J. Cadiot]. Psoriasis	0	
 orth	Pseudarthrose. Psoriasis		
 entry	Psoropte	0	
 entry	Psorospermies	0	
 entry	Ptérygion	0	
 entry	Ptyalisme	0	
-entry	Puces [A. Railliet]. 	11	
-orth	Puces. 		
+entry	Puces [A. Railliet]	11	
+orth	Puces		
 pb	322	0326	4802532
 pb	323	0327	4802533
 pb	324	0328	4802534
@@ -409,19 +393,17 @@ pb	332	0336	4802542
 pb	333	0337	4802543
 entry	Puces [A. Railliet]. Pulsations	0	
 orth	Puces. Pulsations		
-entry	Punaises [A. Railliet]. 	5	
-orth	Punaises. 		
+entry	Punaises [A. Railliet]	6	
+orth	Punaises		
 pb	334	0338	4802544
 pb	335	0339	4802545
 pb	336	0340	4802546
 pb	337	0341	4802547
 pb	338	0342	4802548
 pb	339	0343	4802549
-entry	Punaises [A. Railliet]. Purgatifs et Purgation [M. Kaufmann]. 	0	
-orth	Punaises. Purgatifs et Purgation. 		
+entry	Purgatifs et Purgation [M. Kaufmann]	31	
+orth	Purgatifs et Purgation		
 pb	340	0344	4802550
-entry	Purgatifs et Purgation [M. Kaufmann]. 	29	
-orth	Purgatifs et Purgation. 		
 pb	341	0345	4802551
 pb	342	0346	4802552
 pb	343	0347	4802553
@@ -452,11 +434,9 @@ pb	367	0371	4802577
 pb	368	0372	4802578
 pb	369	0373	4802579
 pb	370	0374	4802580
-entry	Purgatifs et Purgation [M. Kaufmann]. Pur sang [A. Sanson]. 	0	
-orth	Purgatifs et Purgation. Pur sang. 		
+entry	Pur sang [A. Sanson]	21	
+orth	Pur sang		
 pb	371	0375	4802581
-entry	Pur sang [A. Sanson]. 	20	
-orth	Pur sang. 		
 pb	372	0376	4802582
 pb	373	0377	4802583
 pb	374	0378	4802584
@@ -480,12 +460,10 @@ pb	391	0395	4802601
 pb	392	0396	4802602
 entry	Pur sang [A. Sanson]. Pus	0	
 orth	Pur sang. Pus		
-entry	Pur sang [A. Sanson]. Pustule	0	
-orth	Pur sang. Pustule		
-entry	Pur sang [A. Sanson]. Putride (Infection)	0	
-orth	Pur sang. Putride (Infection)		
-entry	Pyohémie [E. Nocard]. 	13	
-orth	Pyohémie. 		
+entry	Pustule	0	
+entry	Putride (Infection)	0	
+entry	Pyohémie [E. Nocard]	14	
+orth	Pyohémie		
 pb	393	0397	4802603
 pb	394	0398	4802604
 pb	395	0399	4802605
@@ -500,14 +478,12 @@ pb	403	0407	4802613
 pb	404	0408	4802614
 pb	405	0409	4802615
 pb	406	0410	4802616
-entry	Pyohémie [E. Nocard]. Quarantaine [F. Peuch]. 	0	
-orth	Pyohémie. Quarantaine. 		
+entry	Quarantaine [F. Peuch]	1	
+orth	Quarantaine		
 pb	407	0411	4802617
-entry	Quarantaine [F. Peuch]. Queue (Anatomie) [P. J. Cadiot]. 	0	
-orth	Quarantaine. Queue (Anatomie). 		
+entry	Queue (Anatomie) [P. J. Cadiot]	30	
+orth	Queue (Anatomie)		
 pb	408	0412	4802618
-entry	Queue (Anatomie) [P. J. Cadiot]. 	29	
-orth	Queue (Anatomie). 		
 pb	409	0413	4802619
 pb	410	0414	4802620
 pb	411	0415	4802621
@@ -538,8 +514,8 @@ pb	435	0439	4802645
 pb	436	0440	4802646
 pb	437	0441	4802647
 pb	438	0442	4802648
-entry	Race [A. Sanson]. 	25	
-orth	Race. 		
+entry	Race [A. Sanson]	25	
+orth	Race		
 pb	439	0443	4802649
 pb	440	0444	4802650
 pb	441	0445	4802651
@@ -568,18 +544,16 @@ pb	463	0467	4802673
 pb	464	0468	4802674
 entry	Race [A. Sanson]. Rachis	0	
 orth	Race. Rachis		
-entry	Rachitisme [E. Leclainche]. 	4	
-orth	Rachitisme. 		
+entry	Rachitisme [E. Leclainche]	5	
+orth	Rachitisme		
 pb	465	0469	4802675
 pb	466	0470	4802676
 pb	467	0471	4802677
 pb	468	0472	4802678
 pb	469	0473	4802679
-entry	Rachitisme [E. Leclainche]. Rage [F. Peuch]. 	0	
-orth	Rachitisme. Rage. 		
+entry	Rage [F. Peuch]	76	
+orth	Rage		
 pb	470	0474	4802680
-entry	Rage [F. Peuch]. 	74	
-orth	Rage. 		
 pb	471	0475	4802681
 pb	472	0476	4802682
 pb	473	0477	4802683
@@ -655,11 +629,9 @@ pb	542	0546	4802752
 pb	543	0547	4802753
 pb	544	0548	4802754
 pb	545	0549	4802755
-entry	Rage [F. Peuch]. Ration [A. Sanson]. 	0	
-orth	Rage. Ration. 		
+entry	Ration [A. Sanson]	38	
+orth	Ration		
 pb	546	0550	4802756
-entry	Ration [A. Sanson]. 	37	
-orth	Ration. 		
 pb	547	0551	4802757
 pb	548	0552	4802758
 pb	549	0553	4802759

@@ -1,15 +1,13 @@
 pb	[s. pag.]	0001	4791621
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4791622
 entry	Liste des collaborateurs du deuxième volume	0	
 pb	[s. pag.]	0003	4791623
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4791624
 pb	1	0005	4791625
-entry	Appareillement [Eug. Gayot]. 	10	
-orth	Appareillement. 		
+entry	Appareillement [Eug. Gayot]	11	
+orth	Appareillement		
 pb	2	0006	4791626
 pb	3	0007	4791627
 pb	4	0008	4791628
@@ -21,14 +19,12 @@ pb	9	0013	4791633
 pb	10	0014	4791634
 pb	11	0015	4791635
 pb	12	0016	4791636
-entry	Appareillement [Eug. Gayot]. Appariement [Eug. Gayot]. 	0	
-orth	Appareillement. Appariement. 		
+entry	Appariement [Eug. Gayot]	1	
+orth	Appariement		
 pb	13	0017	4791637
-entry	Appariement [Eug. Gayot]. Appatronnement [Eug. Gayot]. 	0	
-orth	Appariement. Appatronnement. 		
+entry	Appatronnement [Eug. Gayot]	3	
+orth	Appatronnement		
 pb	14	0018	4791638
-entry	Appatronnement [Eug. Gayot]. 	2	
-orth	Appatronnement. 		
 pb	15	0019	4791639
 pb	16	0020	4791640
 pb	17	0021	4791641
@@ -41,12 +37,12 @@ orth	Argent. Azotate d'argent
 pb	19	0023	4791643
 pb	20	0024	4791644
 pb	21	0025	4791645
-entry	Armoise [Delplanque]. 	1	
-orth	Armoise. 		
+entry	Armoise [Delplanque]	2	
+orth	Armoise		
 pb	22	0026	4791646
 pb	23	0027	4791647
-entry	Armoise [Delplanque]. Arsenic [É. Clément]. 	0	
-orth	Armoise. Arsenic. 		
+entry	Arsenic [É. Clément]	0	
+orth	Arsenic		
 pb	24	0028	4791648
 entry	Arsenic [É. Clément]. Oxydes d'arsenic	0	
 orth	Arsenic. Oxydes d'arsenic		
@@ -91,8 +87,7 @@ pb	53	0057	4791677
 entry	Artères [A. Lavocat]. Maladies des artères [Henri-Marie Bouley]. De l'artérite	1	
 orth	Artères. Maladies des artères. De l'artérite		
 pb	54	0058	4791678
-entry	Artères [A. Lavocat]. Maladies des artères [Henri-Marie Bouley]. De l'artérite externe	0	
-orth	Artères. Maladies des artères. De l'artérite externe		
+entry	De l'artérite externe	0	
 entry	Artères [A. Lavocat]. Maladies des artères [Henri-Marie Bouley]. De l'artérite. De l'artérite interne	3	
 orth	Artères. Maladies des artères. De l'artérite. De l'artérite interne		
 pb	55	0059	4791679
@@ -149,14 +144,15 @@ orth	Articulations. Anatomie et physiologie. Des synarthroses
 pb	90	0094	4791714
 pb	91	0095	4791715
 pb	92	0096	4791716
-entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. 	1	
-orth	Articulations. Maladies des articulations. 		
+entry	Articulations [J. Gourdon]	0	
+orth	Articulations		
+entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]	1	
+orth	Articulations. Maladies des articulations		
 pb	93	0097	4791717
 pb	94	0098	4791718
 entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. Des maladies articulaires essentielles	0	
 orth	Articulations. Maladies des articulations. Des maladies articulaires essentielles		
-entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. Des maladies articulaires aiguës (arthrites aiguës)	0	
-orth	Articulations. Maladies des articulations. Des maladies articulaires aiguës (arthrites aiguës)		
+entry	Des maladies articulaires aiguës (arthrites aiguës)	0	
 entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. Des maladies articulaires essentielles. Des maladies articulaires aiguës (arthrites aiguës). Étiologie	2	
 orth	Articulations. Maladies des articulations. Des maladies articulaires essentielles. Des maladies articulaires aiguës (arthrites aiguës). Étiologie		
 pb	95	0099	4791719
@@ -168,8 +164,7 @@ pb	98	0102	4791722
 pb	99	0103	4791723
 pb	100	0104	4791724
 pb	101	0105	4791725
-entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. Des maladies articulaires essentielles. Des maladies articulaires aiguës (arthrites aiguës). Symptômes de l'arthrite aiguë	0	
-orth	Articulations. Maladies des articulations. Des maladies articulaires essentielles. Des maladies articulaires aiguës (arthrites aiguës). Symptômes de l'arthrite aiguë		
+entry	Symptômes de l'arthrite aiguë	0	
 entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. Des maladies articulaires essentielles. Des maladies articulaires aiguës (arthrites aiguës). Symptômes de l'arthrite aiguë. De l'arthrite traumatique	4	
 orth	Articulations. Maladies des articulations. Des maladies articulaires essentielles. Des maladies articulaires aiguës (arthrites aiguës). Symptômes de l'arthrite aiguë. De l'arthrite traumatique		
 pb	102	0106	4791726
@@ -209,8 +204,10 @@ entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley
 orth	Articulations. Maladies des articulations. Des maladies articulaires essentielles. Des maladies articulaires chroniques		
 pb	125	0129	4791749
 pb	126	0130	4791750
-entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. De l'arthrite des jeunes animaux [Reynal]. 	1	
-orth	Articulations. Maladies des articulations. De l'arthrite des jeunes animaux. 		
+entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]	0	
+orth	Articulations. Maladies des articulations		
+entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. De l'arthrite des jeunes animaux [Reynal]	1	
+orth	Articulations. Maladies des articulations. De l'arthrite des jeunes animaux		
 pb	127	0131	4791751
 pb	128	0132	4791752
 entry	Articulations [J. Gourdon]. Maladies des articulations [Henri-Marie Bouley]. De l'arthrite des jeunes animaux [Reynal]. De l'arthrite sous forme exsudative	1	
@@ -223,15 +220,15 @@ pb	131	0135	4791755
 pb	132	0136	4791756
 pb	133	0137	4791757
 pb	134	0138	4791758
-entry	Assa ou Asa foetida [É. Clément]. 	2	
-orth	Assa ou Asa foetida. 		
+entry	Assa ou Asa foetida [É. Clément]	2	
+orth	Assa ou Asa foetida		
 pb	135	0139	4791759
 pb	136	0140	4791760
 pb	137	0141	4791761
 entry	Assa ou Asa foetida [É. Clément]. Ascarides	0	
 orth	Assa ou Asa foetida. Ascarides		
-entry	Ascite [Reynal]. 	9	
-orth	Ascite. 		
+entry	Ascite [Reynal]	10	
+orth	Ascite		
 pb	138	0142	4791762
 pb	139	0143	4791763
 pb	140	0144	4791764
@@ -242,8 +239,8 @@ pb	144	0148	4791768
 pb	145	0149	4791769
 pb	146	0150	4791770
 pb	147	0151	4791771
-entry	Ascite [Reynal]. Asphyxie [Reynal]. 	0	
-orth	Ascite. Asphyxie. 		
+entry	Asphyxie [Reynal]	0	
+orth	Asphyxie		
 pb	148	0152	4791772
 entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport de la pathologie spéciale	0	
 orth	Asphyxie. De l'asphyxie sous le rapport de la pathologie spéciale		
@@ -259,8 +256,7 @@ pb	151	0155	4791775
 entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport de la pathologie spéciale. Introduction dans les poumons d'un gaz impropre à l'hématose. Asphyxie par submersion	1	
 orth	Asphyxie. De l'asphyxie sous le rapport de la pathologie spéciale. Introduction dans les poumons d'un gaz impropre à l'hématose. Asphyxie par submersion		
 pb	152	0156	4791776
-entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport de la pathologie spéciale. Introduction dans les poumons d'un gaz impropre à l'hématose. Asphyxie par compression du thorax	0	
-orth	Asphyxie. De l'asphyxie sous le rapport de la pathologie spéciale. Introduction dans les poumons d'un gaz impropre à l'hématose. Asphyxie par compression du thorax		
+entry	Asphyxie par compression du thorax	0	
 entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport de la pathologie spéciale. Introduction dans les poumons d'un gaz impropre à l'hématose. Asphyxie des nouveau-nés	1	
 orth	Asphyxie. De l'asphyxie sous le rapport de la pathologie spéciale. Introduction dans les poumons d'un gaz impropre à l'hématose. Asphyxie des nouveau-nés		
 pb	153	0157	4791777
@@ -278,8 +274,7 @@ pb	158	0162	4791782
 entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport médico-légal	1	
 orth	Asphyxie. De l'asphyxie sous le rapport médico-légal		
 pb	159	0163	4791783
-entry	Asphyxie [Reynal]. Asphyxie par strangulation ou par suspension	0	
-orth	Asphyxie. Asphyxie par strangulation ou par suspension		
+entry	Asphyxie par strangulation ou par suspension	0	
 entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport médico-légal. Asphyxie par submersion	1	
 orth	Asphyxie. De l'asphyxie sous le rapport médico-légal. Asphyxie par submersion		
 pb	160	0164	4791784
@@ -287,8 +282,8 @@ entry	Asphyxie [Reynal]. De l'asphyxie sous le rapport médico-légal. Asphyxie 
 orth	Asphyxie. De l'asphyxie sous le rapport médico-légal. Asphyxie par compression		
 pb	161	0165	4791785
 pb	162	0166	4791786
-entry	Assujettir [Henri-Marie Bouley]. 	2	
-orth	Assujettir. 		
+entry	Assujettir [Henri-Marie Bouley]	2	
+orth	Assujettir		
 pb	163	0167	4791787
 pb	164	0168	4791788
 pb	165	0169	4791789
@@ -355,8 +350,7 @@ entry	Assujettir [Henri-Marie Bouley]. Des accidents qui peuvent survenir pendan
 orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position debout		
 pb	205	0209	4791829
 pb	206	0210	4791830
-entry	Assujettir [Henri-Marie Bouley]. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale	0	
-orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale		
+entry	Des accidents consécutifs aux manoeuvres de la contention en position décubitale	0	
 entry	Assujettir [Henri-Marie Bouley]. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Excoriations et déchirures de la peau	1	
 orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Excoriations et déchirures de la peau		
 pb	207	0211	4791831
@@ -375,8 +369,7 @@ orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeu
 pb	214	0218	4791838
 pb	215	0219	4791839
 pb	216	0220	4791840
-entry	Assujettir [Henri-Marie Bouley]. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Luxation des articulations	0	
-orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Luxation des articulations		
+entry	Luxation des articulations	0	
 entry	Assujettir [Henri-Marie Bouley]. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Paralysies	2	
 orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Paralysies		
 pb	217	0221	4791841
@@ -387,8 +380,8 @@ pb	219	0223	4791843
 entry	Assujettir [Henri-Marie Bouley]. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Asphyxie	1	
 orth	Assujettir. Des accidents qui peuvent survenir pendant et après les manoeuvres de l'assujettissement. Des accidents consécutifs aux manoeuvres de la contention en position décubitale. Asphyxie		
 pb	220	0224	4791844
-entry	Assolement [J.-H. Magne]. 	8	
-orth	Assolement. 		
+entry	Assolement [J.-H. Magne]	9	
+orth	Assolement		
 pb	221	0225	4791845
 pb	222	0226	4791846
 pb	223	0227	4791847
@@ -398,21 +391,19 @@ pb	226	0230	4791850
 pb	227	0231	4791851
 pb	228	0232	4791852
 pb	229	0233	4791853
-entry	Assolement [J.-H. Magne]. Astringents [Reynal]. 	0	
-orth	Assolement. Astringents. 		
+entry	Astringents [Reynal]	6	
+orth	Astringents		
 pb	230	0234	4791854
-entry	Astringents [Reynal]. 	4	
-orth	Astringents. 		
 pb	231	0235	4791855
 pb	232	0236	4791856
 pb	233	0237	4791857
 pb	234	0238	4791858
 pb	235	0239	4791859
-entry	Astringents [Reynal]. Atrophie [S. Verheyen]. Atrophie générale	0	
-orth	Astringents. Atrophie. Atrophie générale		
-pb	236	0240	4791860
-entry	Atrophie [S. Verheyen]. Atrophie générale	1	
+entry	Atrophie [S. Verheyen]	0	
+orth	Atrophie		
+entry	Atrophie [S. Verheyen]. Atrophie générale	2	
 orth	Atrophie. Atrophie générale		
+pb	236	0240	4791860
 pb	237	0241	4791861
 entry	Atrophie [S. Verheyen]. Atrophie locale	1	
 orth	Atrophie. Atrophie locale		
@@ -424,20 +415,18 @@ pb	240	0244	4791864
 pb	241	0245	4791865
 pb	242	0246	4791866
 pb	243	0247	4791867
-entry	Atrophie [S. Verheyen]. Atrophie locale. Ramollissement	0	
-orth	Atrophie. Atrophie locale. Ramollissement		
+entry	Ramollissement	0	
 entry	Atrophie [S. Verheyen]. Atrophie locale. Sclérose	1	
 orth	Atrophie. Atrophie locale. Sclérose		
 pb	244	0248	4791868
-entry	Atrophie [S. Verheyen]. Atrophie locale. Incrustation	0	
-orth	Atrophie. Atrophie locale. Incrustation		
+entry	Incrustation	0	
 entry	Atrophie [S. Verheyen]. Atrophie locale. Dégénérescence lardacée	3	
 orth	Atrophie. Atrophie locale. Dégénérescence lardacée		
 pb	245	0249	4791869
 pb	246	0250	4791870
 pb	247	0251	4791871
-entry	Atteinte [Henri-Marie Bouley]. 	3	
-orth	Atteinte. 		
+entry	Atteinte [Henri-Marie Bouley]	3	
+orth	Atteinte		
 pb	248	0252	4791872
 pb	249	0253	4791873
 pb	250	0254	4791874
@@ -445,8 +434,7 @@ pb	251	0255	4791875
 entry	Atteinte [Henri-Marie Bouley]. Division des atteintes	1	
 orth	Atteinte. Division des atteintes		
 pb	252	0256	4791876
-entry	Atteinte [Henri-Marie Bouley]. Symptômes des atteintes	0	
-orth	Atteinte. Symptômes des atteintes		
+entry	Symptômes des atteintes	0	
 entry	Atteinte [Henri-Marie Bouley]. Symptômes des atteintes. Des atteintes légères	1	
 orth	Atteinte. Symptômes des atteintes. Des atteintes légères		
 pb	253	0257	4791877
@@ -469,16 +457,13 @@ orth	Atteinte. Traitement général des atteintes
 pb	264	0268	4791888
 pb	265	0269	4791889
 pb	266	0270	4791890
-entry	Atteinte [Henri-Marie Bouley]. Audition	0	
-orth	Atteinte. Audition		
-entry	Aunée [J.-H. Magne]. 	0	
-orth	Aunée. 		
+entry	Audition	0	
+entry	Aunée [J.-H. Magne]	1	
+orth	Aunée		
 pb	267	0271	4791891
-entry	Aunée [J.-H. Magne]. Auscultation [S. Verheyen]. 	0	
-orth	Aunée. Auscultation. 		
+entry	Auscultation [S. Verheyen]	3	
+orth	Auscultation		
 pb	268	0272	4791892
-entry	Auscultation [S. Verheyen]. 	2	
-orth	Auscultation. 		
 pb	269	0273	4791893
 pb	270	0274	4791894
 pb	271	0275	4791895
@@ -516,22 +501,21 @@ pb	292	0296	4791916
 entry	Auscultation [S. Verheyen]. Auscultation des organes digestifs	1	
 orth	Auscultation. Auscultation des organes digestifs		
 pb	293	0297	4791917
-entry	Avoine [J.-H. Magne]. 	3	
-orth	Avoine. 		
+entry	Avoine [J.-H. Magne]	4	
+orth	Avoine		
 pb	294	0298	4791918
 pb	295	0299	4791919
 pb	296	0300	4791920
 pb	297	0301	4791921
-entry	Avoine [J.-H. Magne]. Avortement [Henri-Marie Bouley]. 	0	
-orth	Avoine. Avortement. 		
+entry	Avortement [Henri-Marie Bouley]	0	
+orth	Avortement		
 pb	298	0302	4791922
 entry	Avortement [Henri-Marie Bouley]. Division de l'avortement	0	
 orth	Avortement. Division de l'avortement		
 entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. De l'avortement enzootique	1	
 orth	Avortement. Division de l'avortement. De l'avortement enzootique		
 pb	299	0303	4791923
-entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. Causes générales de l'avortement enzootique	0	
-orth	Avortement. Division de l'avortement. Causes générales de l'avortement enzootique		
+entry	Causes générales de l'avortement enzootique	0	
 entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. De l'avortement enzootique. Causes générales de l'avortement enzootique. Des causes prédisposantes de l'avortement	14	
 orth	Avortement. Division de l'avortement. De l'avortement enzootique. Causes générales de l'avortement enzootique. Des causes prédisposantes de l'avortement		
 pb	300	0304	4791924
@@ -565,8 +549,7 @@ pb	323	0327	4791947
 pb	324	0328	4791948
 pb	325	0329	4791949
 pb	326	0330	4791950
-entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. De l'avortement enzootique. Causes générales de l'avortement enzootique. De l'avortement sporadique	0	
-orth	Avortement. Division de l'avortement. De l'avortement enzootique. Causes générales de l'avortement enzootique. De l'avortement sporadique		
+entry	De l'avortement sporadique	0	
 entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. De l'avortement sporadique. Causes directes de l'avortement sporadique	4	
 orth	Avortement. Division de l'avortement. De l'avortement sporadique. Causes directes de l'avortement sporadique		
 pb	327	0331	4791951
@@ -577,8 +560,7 @@ entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. De l'avortement
 orth	Avortement. Division de l'avortement. De l'avortement sporadique. Causes indirectes de l'avortement sporadique		
 pb	331	0335	4791955
 pb	332	0336	4791956
-entry	Avortement [Henri-Marie Bouley]. Division de l'avortement. De l'avortement sporadique. Symptômes de l'avortement	0	
-orth	Avortement. Division de l'avortement. De l'avortement sporadique. Symptômes de l'avortement		
+entry	Symptômes de l'avortement	0	
 entry	Avortement [Henri-Marie Bouley]. Symptômes de l'avortement. De l'avortement facile	1	
 orth	Avortement. Symptômes de l'avortement. De l'avortement facile		
 pb	333	0337	4791957
@@ -604,8 +586,7 @@ pb	342	0346	4791966
 entry	Avortement [Henri-Marie Bouley]. Symptômes de l'avortement. De l'avortement laborieux. Anatomie pathologique	1	
 orth	Avortement. Symptômes de l'avortement. De l'avortement laborieux. Anatomie pathologique		
 pb	343	0347	4791967
-entry	Avortement [Henri-Marie Bouley]. Symptômes de l'avortement. De l'avortement laborieux. Traitement de l'avortement	0	
-orth	Avortement. Symptômes de l'avortement. De l'avortement laborieux. Traitement de l'avortement		
+entry	Traitement de l'avortement	0	
 entry	Avortement [Henri-Marie Bouley]. Traitement de l'avortement. Traitement préservatif de l'avortement	4	
 orth	Avortement. Traitement de l'avortement. Traitement préservatif de l'avortement		
 pb	344	0348	4791968
@@ -616,15 +597,13 @@ entry	Avortement [Henri-Marie Bouley]. Traitement de l'avortement. Traitement cu
 orth	Avortement. Traitement de l'avortement. Traitement curatif de l'avortement		
 pb	348	0352	4791972
 pb	349	0353	4791973
-entry	Azote [É. Clément]. 	1	
-orth	Azote. 		
+entry	Azote [É. Clément]	2	
+orth	Azote		
 pb	350	0354	4791974
 pb	351	0355	4791975
-entry	Azote [É. Clément]. Azotique (acide) [É. Clément]. 	0	
-orth	Azote. Azotique (acide). 		
+entry	Azotique (acide) [É. Clément]	7	
+orth	Azotique (acide)		
 pb	352	0356	4791976
-entry	Azotique (acide) [É. Clément]. 	6	
-orth	Azotique (acide). 		
 pb	353	0357	4791977
 pb	354	0358	4791978
 pb	355	0359	4791979
@@ -633,8 +612,8 @@ pb	357	0361	4791981
 pb	358	0362	4791982
 pb	359	0363	4791983
 entry	Bai	0	
-entry	Bain [A. Sanson]. 	0	
-orth	Bain. 		
+entry	Bain [A. Sanson]	0	
+orth	Bain		
 pb	360	0364	4791984
 entry	Bain [A. Sanson]. Des différentes espèces de bains en particulier	0	
 orth	Bain. Des différentes espèces de bains en particulier		
@@ -664,8 +643,8 @@ pb	375	0379	4791999
 entry	Bain [A. Sanson]. Des différentes espèces de bains en particulier. Bains de vapeurs	1	
 orth	Bain. Des différentes espèces de bains en particulier. Bains de vapeurs		
 pb	376	0380	4792000
-entry	Balanite [Reynal]. 	0	
-orth	Balanite. 		
+entry	Balanite [Reynal]	0	
+orth	Balanite		
 pb	377	0381	4792001
 entry	Balanite [Reynal]. Balanite du cheval	2	
 orth	Balanite. Balanite du cheval		
@@ -676,8 +655,7 @@ orth	Balanite. Balanite du boeuf
 pb	380	0384	4792004
 pb	381	0385	4792005
 pb	382	0386	4792006
-entry	Balanite [Reynal]. Balanite du chien	0	
-orth	Balanite. Balanite du chien		
+entry	Balanite du chien	0	
 entry	Balanite [Reynal]. Balanite du mouton	2	
 orth	Balanite. Balanite du mouton		
 pb	383	0387	4792007
@@ -686,24 +664,19 @@ entry	Balanite [Reynal]. Traitement de la balanite	2
 orth	Balanite. Traitement de la balanite		
 pb	385	0389	4792009
 pb	386	0390	4792010
-entry	Balanite [Reynal]. Bandage	0	
-orth	Balanite. Bandage		
-entry	Balanite [Reynal]. Ballonnement	0	
-orth	Balanite. Ballonnement		
-entry	Balanite [Reynal]. Balzane	0	
-orth	Balanite. Balzane		
-entry	Balanite [Reynal]. Barbet	0	
-orth	Balanite. Barbet		
-entry	Balanite [Reynal]. Barbes, Barbillon	0	
-orth	Balanite. Barbes, Barbillon		
-entry	Bardane [É. Clément]. 	1	
-orth	Bardane. 		
+entry	Bandage	0	
+entry	Ballonnement	0	
+entry	Balzane	0	
+entry	Barbet	0	
+entry	Barbes, Barbillon	0	
+entry	Bardane [É. Clément]	1	
+orth	Bardane		
 pb	387	0391	4792011
 pb	388	0392	4792012
 entry	Bardane [É. Clément]. Bardeau	0	
 orth	Bardane. Bardeau		
-entry	Baromètre [J. Mignon]. 	1	
-orth	Baromètre. 		
+entry	Baromètre [J. Mignon]	1	
+orth	Baromètre		
 pb	389	0393	4792013
 pb	390	0394	4792014
 entry	Baromètre [J. Mignon]. Baromètres à mercure	2	
@@ -720,19 +693,16 @@ pb	397	0401	4792021
 pb	398	0402	4792022
 pb	399	0403	4792023
 pb	400	0404	4792024
-entry	Baromètre [J. Mignon]. Barres	0	
-orth	Baromètre. Barres		
-entry	Basilicum [É. Clément]. 	0	
-orth	Basilicum. 		
+entry	Barres	0	
+entry	Basilicum [É. Clément]	0	
+orth	Basilicum		
 pb	401	0405	4792025
 entry	Basilicum [É. Clément]. Basset	0	
 orth	Basilicum. Basset		
-entry	Basilicum [É. Clément]. Bassin	0	
-orth	Basilicum. Bassin		
-entry	Basilicum [É. Clément]. Bat	0	
-orth	Basilicum. Bat		
-entry	Baudet [Eug. Ayrault (de Niort)]. 	0	
-orth	Baudet. 		
+entry	Bassin	0	
+entry	Bat	0	
+entry	Baudet [Eug. Ayrault (de Niort)]	0	
+orth	Baudet		
 pb	402	0406	4792026
 entry	Baudet [Eug. Ayrault (de Niort)]. Extérieur du baudet	2	
 orth	Baudet. Extérieur du baudet		
@@ -762,14 +732,11 @@ entry	Baudet [Eug. Ayrault (de Niort)]. Bilan d'un haras privé en Poitou	2
 orth	Baudet. Bilan d'un haras privé en Poitou		
 pb	417	0421	4792041
 pb	418	0422	4792042
-entry	Baudet [Eug. Ayrault (de Niort)]. Bave	0	
-orth	Baudet. Bave		
-entry	Baudet [Eug. Ayrault (de Niort)]. Bégu	0	
-orth	Baudet. Bégu		
-entry	Baudet [Eug. Ayrault (de Niort)]. Bélier	0	
-orth	Baudet. Bélier		
-entry	Belladone [É. Clément]. 	6	
-orth	Belladone. 		
+entry	Bave	0	
+entry	Bégu	0	
+entry	Bélier	0	
+entry	Belladone [É. Clément]	7	
+orth	Belladone		
 pb	419	0423	4792043
 pb	420	0424	4792044
 pb	421	0425	4792045
@@ -777,17 +744,15 @@ pb	422	0426	4792046
 pb	423	0427	4792047
 pb	424	0428	4792048
 pb	425	0429	4792049
-entry	Belladone [É. Clément]. Benzine [É. Clément]. 	0	
-orth	Belladone. Benzine. 		
+entry	Benzine [É. Clément]	2	
+orth	Benzine		
 pb	426	0430	4792050
-entry	Benzine [É. Clément]. 	1	
-orth	Benzine. 		
 pb	427	0431	4792051
 pb	428	0432	4792052
 entry	Benzine [É. Clément]. Bétail	0	
 orth	Benzine. Bétail		
-entry	Betterave [J.-H. Magne]. 	6	
-orth	Betterave. 		
+entry	Betterave [J.-H. Magne]	6	
+orth	Betterave		
 pb	429	0433	4792053
 pb	430	0434	4792054
 pb	431	0435	4792055
@@ -797,19 +762,15 @@ pb	434	0438	4792058
 pb	435	0439	4792059
 entry	Betterave [J.-H. Magne]. Bezoard	0	
 orth	Betterave. Bezoard		
-entry	Betterave [J.-H. Magne]. Bile	0	
-orth	Betterave. Bile		
-entry	Betterave [J.-H. Magne]. Bison	0	
-orth	Betterave. Bison		
-entry	Betterave [J.-H. Magne]. Bistouri	0	
-orth	Betterave. Bistouri		
+entry	Bile	0	
+entry	Bison	0	
+entry	Bistouri	0	
 entry	Bistournage	0	
 pb	436	0440	4792060
 entry	Bleime [Henri-Marie Bouley]. Division des bleimes	1	
 orth	Bleime. Division des bleimes		
 pb	437	0441	4792061
-entry	Bleime [Henri-Marie Bouley]. Causes des bleimes	0	
-orth	Bleime. Causes des bleimes		
+entry	Causes des bleimes	0	
 entry	Bleime [Henri-Marie Bouley]. Causes des bleimes. Des bleimes accidentelles	3	
 orth	Bleime. Causes des bleimes. Des bleimes accidentelles		
 pb	438	0442	4792062
@@ -845,10 +806,8 @@ pb	455	0459	4792079
 pb	456	0460	4792080
 pb	457	0461	4792081
 pb	458	0462	4792082
-entry	Bleime [Henri-Marie Bouley]. Blennorrhagie	0	
-orth	Bleime. Blennorrhagie		
-entry	Bleime [Henri-Marie Bouley]. Blépharite	0	
-orth	Bleime. Blépharite		
+entry	Blennorrhagie	0	
+entry	Blépharite	0	
 entry	Blessures [Reynal]. Définition	1	
 orth	Blessures. Définition		
 pb	459	0463	4792083
@@ -882,8 +841,8 @@ pb	474	0478	4792098
 pb	475	0479	4792099
 pb	476	0480	4792100
 pb	477	0481	4792101
-entry	Boeuf [J.-H. Magne]. 	0	
-orth	Boeuf. 		
+entry	Boeuf [J.-H. Magne]	0	
+orth	Boeuf		
 pb	478	0482	4792102
 entry	Boeuf [J.-H. Magne]. Races bovines françaises	14	
 orth	Boeuf. Races bovines françaises		
@@ -914,10 +873,9 @@ pb	500	0504	4792124
 pb	501	0505	4792125
 pb	502	0506	4792126
 pb	503	0507	4792127
-entry	Boeuf [J.-H. Magne]. Boisson	0	
-orth	Boeuf. Boisson		
-entry	Boiterie [Henri-Marie Bouley]. 	0	
-orth	Boiterie. 		
+entry	Boisson	0	
+entry	Boiterie [Henri-Marie Bouley]	0	
+orth	Boiterie		
 pb	504	0508	4792128
 entry	Boiterie [Henri-Marie Bouley]. Division des boiteries	1	
 orth	Boiterie. Division des boiteries		
@@ -948,10 +906,9 @@ pb	524	0528	4792148
 pb	525	0529	4792149
 pb	526	0530	4792150
 pb	527	0531	4792151
-entry	Boiterie [Henri-Marie Bouley]. Traitement des boiteries	0	
-orth	Boiterie. Traitement des boiteries		
-entry	Boiterie rédhibitoire [Henri-Marie Bouley, Eug. Renault]. 	1	
-orth	Boiterie rédhibitoire. 		
+entry	Traitement des boiteries	0	
+entry	Boiterie rédhibitoire [Henri-Marie Bouley, Eug. Renault]	1	
+orth	Boiterie rédhibitoire		
 pb	528	0532	4792152
 pb	529	0533	4792153
 entry	Boiterie rédhibitoire [Henri-Marie Bouley, Eug. Renault]. De la boiterie intermittente apparente à froid	4	
@@ -972,8 +929,8 @@ pb	540	0544	4792164
 entry	Boiterie rédhibitoire [Henri-Marie Bouley, Eug. Renault]. De la rédhibition après la mort, pour cause de boiterie intermittente	1	
 orth	Boiterie rédhibitoire. De la rédhibition après la mort, pour cause de boiterie intermittente		
 pb	541	0545	4792165
-entry	Bouche [A. Sanson]. 	10	
-orth	Bouche. 		
+entry	Bouche [A. Sanson]	11	
+orth	Bouche		
 pb	542	0546	4792166
 pb	543	0547	4792167
 pb	544	0548	4792168
@@ -985,15 +942,14 @@ pb	549	0553	4792173
 pb	550	0554	4792174
 pb	551	0555	4792175
 pb	552	0556	4792176
-entry	Bouche [A. Sanson]. Bouclement [Reynal]. Bouclement des femelles	0	
-orth	Bouche. Bouclement. Bouclement des femelles		
-pb	553	0557	4792177
-entry	Bouclement [Reynal]. Bouclement des femelles	2	
+entry	Bouclement [Reynal]	0	
+orth	Bouclement		
+entry	Bouclement [Reynal]. Bouclement des femelles	3	
 orth	Bouclement. Bouclement des femelles		
+pb	553	0557	4792177
 pb	554	0558	4792178
 pb	555	0559	4792179
-entry	Bouclement [Reynal]. Bouclement du taureau	0	
-orth	Bouclement. Bouclement du taureau		
+entry	Bouclement du taureau	0	
 entry	Bouclement [Reynal]. Bouclement du taureau. De la pince et de l'anneau nasal	7	
 orth	Bouclement. Bouclement du taureau. De la pince et de l'anneau nasal		
 pb	556	0560	4792180
@@ -1006,8 +962,7 @@ pb	562	0566	4792186
 pb	563	0567	4792187
 entry	Bouclement [Reynal]. Bouclement du taureau	0	
 orth	Bouclement. Bouclement du taureau		
-entry	Bouclement [Reynal]. Bouletage des cornes	0	
-orth	Bouclement. Bouletage des cornes		
+entry	Bouletage des cornes	0	
 entry	Bouclement [Reynal]. Bouclement du porc	6	
 orth	Bouclement. Bouclement du porc		
 pb	564	0568	4792188
@@ -1031,8 +986,7 @@ pb	576	0580	4792200
 pb	577	0581	4792201
 entry	Boulet [Henri-Marie Bouley]. Pathologie	0	
 orth	Boulet. Pathologie		
-entry	Boulet [Henri-Marie Bouley]. Maladies aiguës	0	
-orth	Boulet. Maladies aiguës		
+entry	Maladies aiguës	0	
 entry	Boulet [Henri-Marie Bouley]. Pathologie. Maladies chroniques	7	
 orth	Boulet. Pathologie. Maladies chroniques		
 pb	578	0582	4792202
@@ -1068,14 +1022,11 @@ entry	Bouleture [Henri-Marie Bouley]. Traitement de la bouleture	2
 orth	Bouleture. Traitement de la bouleture		
 pb	597	0601	4792221
 pb	598	0602	4792222
-entry	Bouleture [Henri-Marie Bouley]. Brassicourt	0	
-orth	Bouleture. Brassicourt		
-entry	Bouleture [Henri-Marie Bouley]. Bouverie	0	
-orth	Bouleture. Bouverie		
-entry	Bouleture [Henri-Marie Bouley]. Breuvages (administration des)	0	
-orth	Bouleture. Breuvages (administration des)		
-entry	Brôme [É. Clément]. 	0	
-orth	Brôme. 		
+entry	Brassicourt	0	
+entry	Bouverie	0	
+entry	Breuvages (administration des)	0	
+entry	Brôme [É. Clément]	0	
+orth	Brôme		
 pb	599	0603	4792223
 entry	Brôme [É. Clément]. Bromure de potassium	4	
 orth	Brôme. Bromure de potassium		
@@ -1083,10 +1034,9 @@ pb	600	0604	4792224
 pb	601	0605	4792225
 pb	602	0606	4792226
 pb	603	0607	4792227
-entry	Brôme [É. Clément]. Bronches	0	
-orth	Brôme. Bronches		
-entry	Bronchite [Reynal]. 	0	
-orth	Bronchite. 		
+entry	Bronches	0	
+entry	Bronchite [Reynal]	0	
+orth	Bronchite		
 pb	604	0608	4792228
 entry	Bronchite [Reynal]. Bronchite du cheval	0	
 orth	Bronchite. Bronchite du cheval		
@@ -1102,8 +1052,7 @@ entry	Bronchite [Reynal]. Bronchite du cheval. De la bronchite chronique	2
 orth	Bronchite. Bronchite du cheval. De la bronchite chronique		
 pb	611	0615	4792235
 pb	612	0616	4792236
-entry	Bronchite [Reynal]. Bronchite du cheval. Bronchite du boeuf	0	
-orth	Bronchite. Bronchite du cheval. Bronchite du boeuf		
+entry	Bronchite du boeuf	0	
 entry	Bronchite [Reynal]. Bronchite du boeuf. Bronchite aiguë	2	
 orth	Bronchite. Bronchite du boeuf. Bronchite aiguë		
 pb	613	0617	4792237
@@ -1139,12 +1088,10 @@ pb	632	0636	4792256
 pb	633	0637	4792257
 pb	634	0638	4792258
 pb	635	0639	4792259
-entry	Bronchite [Reynal]. Bronchotomie	0	
-orth	Bronchite. Bronchotomie		
-entry	Bronchite [Reynal]. Bruit	0	
-orth	Bronchite. Bruit		
-entry	Brûlure [Henri-Marie Bouley]. 	0	
-orth	Brûlure. 		
+entry	Bronchotomie	0	
+entry	Bruit	0	
+entry	Brûlure [Henri-Marie Bouley]	0	
+orth	Brûlure		
 pb	636	0640	4792260
 entry	Brûlure [Henri-Marie Bouley]. Divisions des brûlures	0	
 orth	Brûlure. Divisions des brûlures		
@@ -1174,15 +1121,15 @@ entry	Brûlure [Henri-Marie Bouley]. Traitement des brûlures	2
 orth	Brûlure. Traitement des brûlures		
 pb	651	0655	4792275
 pb	652	0656	4792276
-entry	Cabrer [Henri-Marie Bouley]. 	4	
-orth	Cabrer. 		
+entry	Cabrer [Henri-Marie Bouley]	5	
+orth	Cabrer		
 pb	653	0657	4792277
 pb	654	0658	4792278
 pb	655	0659	4792279
 pb	656	0660	4792280
 pb	657	0661	4792281
-entry	Cabrer [Henri-Marie Bouley]. Cachexie [Reynal]. 	0	
-orth	Cabrer. Cachexie. 		
+entry	Cachexie [Reynal]	0	
+orth	Cachexie		
 pb	658	0662	4792282
 entry	Cachexie [Reynal]. De la cachexie aqueuse en général	0	
 orth	Cachexie. De la cachexie aqueuse en général		
@@ -1214,14 +1161,13 @@ entry	Cachexie [Reynal]. Cachexie aqueuse de l'espèce bovine	2
 orth	Cachexie. Cachexie aqueuse de l'espèce bovine		
 pb	681	0685	4792305
 pb	682	0686	4792306
-entry	Cachexie [Reynal]. Cachexie aqueuse du cheval	0	
-orth	Cachexie. Cachexie aqueuse du cheval		
+entry	Cachexie aqueuse du cheval	0	
 entry	Cachexie [Reynal]. De la cachexie aqueuse du lapin, de la volaille et du ver à soie	2	
 orth	Cachexie. De la cachexie aqueuse du lapin, de la volaille et du ver à soie		
 pb	683	0687	4792307
 pb	684	0688	4792308
-entry	Calcul [S. Verheyen]. 	3	
-orth	Calcul. 		
+entry	Calcul [S. Verheyen]	3	
+orth	Calcul		
 pb	685	0689	4792309
 pb	686	0690	4792310
 pb	687	0691	4792311
@@ -1233,23 +1179,19 @@ pb	690	0694	4792314
 entry	Calcul [S. Verheyen]. Calculs biliaires	1	
 orth	Calcul. Calculs biliaires		
 pb	691	0695	4792315
-entry	Calcul [S. Verheyen]. Calculs biliaires du cheval	0	
-orth	Calcul. Calculs biliaires du cheval		
+entry	Calculs biliaires du cheval	0	
 entry	Calcul [S. Verheyen]. Calculs biliaires. Calculs biliaires du boeuf	1	
 orth	Calcul. Calculs biliaires. Calculs biliaires du boeuf		
 pb	692	0696	4792316
 entry	Calcul [S. Verheyen]. Calculs biliaires. Calculs biliaires du mouton	1	
 orth	Calcul. Calculs biliaires. Calculs biliaires du mouton		
 pb	693	0697	4792317
-entry	Calcul [S. Verheyen]. Calculs biliaires. Calculs biliaires du porc	0	
-orth	Calcul. Calculs biliaires. Calculs biliaires du porc		
-entry	Calcul [S. Verheyen]. Calculs biliaires. Calculs biliaires du chien et du chat	0	
-orth	Calcul. Calculs biliaires. Calculs biliaires du chien et du chat		
+entry	Calculs biliaires du porc	0	
+entry	Calculs biliaires du chien et du chat	0	
 entry	Calcul [S. Verheyen]. Calculs biliaires. Causes	1	
 orth	Calcul. Calculs biliaires. Causes		
 pb	694	0698	4792318
-entry	Calcul [S. Verheyen]. Calculs biliaires. Lésions	0	
-orth	Calcul. Calculs biliaires. Lésions		
+entry	Lésions	0	
 entry	Calcul [S. Verheyen]. Calculs biliaires. Symptômes	2	
 orth	Calcul. Calculs biliaires. Symptômes		
 pb	695	0699	4792319
@@ -1266,22 +1208,17 @@ pb	699	0703	4792323
 entry	Calcul [S. Verheyen]. Calculs intestinaux	1	
 orth	Calcul. Calculs intestinaux		
 pb	700	0704	4792324
-entry	Calcul [S. Verheyen]. Calculs	0	
-orth	Calcul. Calculs		
+entry	Calculs	0	
 entry	Calcul [S. Verheyen]. Calculs intestinaux. Pseudo-calculs	1	
 orth	Calcul. Calculs intestinaux. Pseudo-calculs		
 pb	701	0705	4792325
-entry	Calcul [S. Verheyen]. Calculs intestinaux. Concrétions	0	
-orth	Calcul. Calculs intestinaux. Concrétions		
-entry	Calcul [S. Verheyen]. Calculs intestinaux. Concrétions grises cendrées	0	
-orth	Calcul. Calculs intestinaux. Concrétions grises cendrées		
-entry	Calcul [S. Verheyen]. Calculs intestinaux. Concrétions brunes	0	
-orth	Calcul. Calculs intestinaux. Concrétions brunes		
+entry	Concrétions	0	
+entry	Concrétions grises cendrées	0	
+entry	Concrétions brunes	0	
 entry	Calcul [S. Verheyen]. Calculs intestinaux. Concrétions. Grandes concrétions du cheval	1	
 orth	Calcul. Calculs intestinaux. Concrétions. Grandes concrétions du cheval		
 pb	702	0706	4792326
-entry	Calcul [S. Verheyen]. Calculs intestinaux. Concrétions. Egagropiles	0	
-orth	Calcul. Calculs intestinaux. Concrétions. Egagropiles		
+entry	Egagropiles	0	
 entry	Calcul [S. Verheyen]. Calculs intestinaux. Causes	5	
 orth	Calcul. Calculs intestinaux. Causes		
 pb	703	0707	4792327
@@ -1295,37 +1232,30 @@ pb	708	0712	4792332
 entry	Calcul [S. Verheyen]. Calculs urinaires	1	
 orth	Calcul. Calculs urinaires		
 pb	709	0713	4792333
-entry	Calcul [S. Verheyen]. Calculs rénaux	0	
-orth	Calcul. Calculs rénaux		
+entry	Calculs rénaux	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs rénaux. Calculs rénaux du cheval	2	
 orth	Calcul. Calculs urinaires. Calculs rénaux. Calculs rénaux du cheval		
 pb	710	0714	4792334
 pb	711	0715	4792335
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs rénaux. Calculs rénaux de l'âne	0	
-orth	Calcul. Calculs urinaires. Calculs rénaux. Calculs rénaux de l'âne		
+entry	Calculs rénaux de l'âne	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs rénaux. Calculs rénaux du boeuf	1	
 orth	Calcul. Calculs urinaires. Calculs rénaux. Calculs rénaux du boeuf		
 pb	712	0716	4792336
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs rénaux. Calculs rénaux du mouton	0	
-orth	Calcul. Calculs urinaires. Calculs rénaux. Calculs rénaux du mouton		
+entry	Calculs rénaux du mouton	0	
 entry	Calculs rénaux du chien	0	
 pb	713	0717	4792337
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs rénaux	0	
 orth	Calcul. Calculs urinaires. Calculs rénaux		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs rénaux du chat	0	
-orth	Calcul. Calculs urinaires. Calculs rénaux du chat		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs vésicaux	0	
-orth	Calcul. Calculs urinaires. Calculs vésicaux		
+entry	Calculs rénaux du chat	0	
+entry	Calculs vésicaux	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du cheval	1	
 orth	Calcul. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du cheval		
 pb	714	0718	4792338
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs vésicaux. Calculs vésicaux de l'âne	1	
 orth	Calcul. Calculs urinaires. Calculs vésicaux. Calculs vésicaux de l'âne		
 pb	715	0719	4792339
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du boeuf	0	
-orth	Calcul. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du boeuf		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du mouton	0	
-orth	Calcul. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du mouton		
+entry	Calculs vésicaux du boeuf	0	
+entry	Calculs vésicaux du mouton	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du porc	1	
 orth	Calcul. Calculs urinaires. Calculs vésicaux. Calculs vésicaux du porc		
 pb	716	0720	4792340
@@ -1335,31 +1265,24 @@ pb	717	0721	4792341
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux	1	
 orth	Calcul. Calculs urinaires. Calculs uréthraux		
 pb	718	0722	4792342
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux du cheval	0	
-orth	Calcul. Calculs urinaires. Calculs uréthraux du cheval		
+entry	Calculs uréthraux du cheval	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du boeuf	2	
 orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du boeuf		
 pb	719	0723	4792343
 pb	720	0724	4792344
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du mouton	0	
-orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du mouton		
+entry	Calculs uréthraux du mouton	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du porc	1	
 orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du porc		
 pb	721	0725	4792345
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du chien	0	
-orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs uréthraux du chien		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs prépuciaux	0	
-orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs prépuciaux		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs prépuciaux du cheval	0	
-orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs prépuciaux du cheval		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs uréthraux. Calculs prépuciaux du porc	0	
-orth	Calcul. Calculs urinaires. Calculs uréthraux. Calculs prépuciaux du porc		
+entry	Calculs uréthraux du chien	0	
+entry	Calculs prépuciaux	0	
+entry	Calculs prépuciaux du cheval	0	
+entry	Calculs prépuciaux du porc	0	
 entry	Concrétions des poils du prépuce du boeuf	0	
 pb	722	0726	4792346
 entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs prépuciaux	0	
 orth	Calcul. Calculs urinaires. Calculs prépuciaux		
-entry	Calcul [S. Verheyen]. Calculs urinaires. Concrétions des poils du prépuce du mouton	0	
-orth	Calcul. Calculs urinaires. Concrétions des poils du prépuce du mouton		
+entry	Concrétions des poils du prépuce du mouton	0	
 entry	Calcul [S. Verheyen]. Calculs urinaires. Causes	7	
 orth	Calcul. Calculs urinaires. Causes		
 pb	723	0727	4792347
@@ -1384,8 +1307,7 @@ entry	Calcul [S. Verheyen]. Calculs urinaires. Traitement	2
 orth	Calcul. Calculs urinaires. Traitement		
 pb	737	0741	4792361
 pb	738	0742	4792362
-entry	Calcul [S. Verheyen]. Calculs urinaires. Calculs spermatiques	0	
-orth	Calcul. Calculs urinaires. Calculs spermatiques		
+entry	Calculs spermatiques	0	
 entry	Calcul [S. Verheyen]. Calculs mammaires	3	
 orth	Calcul. Calculs mammaires		
 pb	739	0743	4792363

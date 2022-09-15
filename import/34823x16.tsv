@@ -1,16 +1,14 @@
 pb	[s. pag.]	0001	4801026
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4801027
 entry	Liste des collaborateurs du seizième volume	0	
 pb	[s. pag.]	0003	4801028
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4801029
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4801030
-entry	Pathologie [L. Trasbot]. 	23	
-orth	Pathologie. 		
+entry	Pathologie [L. Trasbot]	24	
+orth	Pathologie		
 pb	2	0006	4801031
 pb	3	0007	4801032
 pb	4	0008	4801033
@@ -35,11 +33,9 @@ pb	22	0026	4801051
 pb	23	0027	4801052
 pb	24	0028	4801053
 pb	25	0029	4801054
-entry	Pathologie [L. Trasbot]. Paturage [A. Sanson]. 	0	
-orth	Pathologie. Paturage. 		
+entry	Paturage [A. Sanson]	13	
+orth	Paturage		
 pb	26	0030	4801055
-entry	Paturage [A. Sanson]. 	11	
-orth	Paturage. 		
 pb	27	0031	4801056
 pb	28	0032	4801057
 pb	29	0033	4801058
@@ -52,11 +48,9 @@ pb	35	0039	4801064
 pb	36	0040	4801065
 pb	37	0041	4801066
 pb	38	0042	4801067
-entry	Paturage [A. Sanson]. Paupières [E. Leclainche]. 	0	
-orth	Paturage. Paupières. 		
+entry	Paupières [E. Leclainche]	17	
+orth	Paupières		
 pb	39	0043	4801068
-entry	Paupières [E. Leclainche]. 	15	
-orth	Paupières. 		
 pb	40	0044	4801069
 pb	41	0045	4801070
 pb	42	0046	4801071
@@ -73,11 +67,9 @@ pb	52	0056	4801081
 pb	53	0057	4801082
 pb	54	0058	4801083
 pb	55	0059	4801084
-entry	Paupières [E. Leclainche]. Pays-Bas [A. Sanson]. 	0	
-orth	Paupières. Pays-Bas. 		
+entry	Pays-Bas [A. Sanson]	9	
+orth	Pays-Bas		
 pb	56	0060	4801085
-entry	Pays-Bas [A. Sanson]. 	7	
-orth	Pays-Bas. 		
 pb	57	0061	4801086
 pb	58	0062	4801087
 pb	59	0063	4801088
@@ -86,11 +78,9 @@ pb	61	0065	4801090
 pb	62	0066	4801091
 pb	63	0067	4801092
 pb	64	0068	4801093
-entry	Pays-Bas [A. Sanson]. Peau (Maladies de la) [C. Cadéac]. 	0	
-orth	Pays-Bas. Peau (Maladies de la). 		
+entry	Peau (Maladies de la) [C. Cadéac]	2	
+orth	Peau (Maladies de la)		
 pb	65	0069	4801094
-entry	Peau (Maladies de la) [C. Cadéac]. 	1	
-orth	Peau (Maladies de la). 		
 pb	66	0070	4801095
 pb	67	0071	4801096
 entry	Peau (Maladies de la) [C. Cadéac]. Anatomie et physiologie médicale de la peau	11	
@@ -207,8 +197,7 @@ pb	166	0170	4801195
 pb	167	0171	4801196
 pb	168	0172	4801197
 pb	169	0173	4801198
-entry	Peau (Maladies de la) [C. Cadéac]. Maladies cutanées du cheval	0	
-orth	Peau (Maladies de la). Maladies cutanées du cheval		
+entry	Maladies cutanées du cheval	0	
 entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites		
 pb	170	0174	4801199
@@ -257,8 +246,7 @@ pb	198	0202	4801227
 pb	199	0203	4801228
 pb	200	0204	4801229
 pb	201	0205	4801230
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Maladies internes	0	
-orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies inflammatoires de la peau ou dermites. Maladies internes		
+entry	Maladies internes	0	
 entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval	3	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du cheval. Maladies internes. De l'eczéma du cheval		
 pb	202	0206	4801231
@@ -311,8 +299,7 @@ pb	232	0236	4801261
 entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien	1	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien		
 pb	233	0237	4801262
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Symptômes	0	
-orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Symptômes		
+entry	Symptômes	0	
 entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien. Eczéma généralisé	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du chien. Eczéma du chien. Eczéma aigu vésiculeux du chien. Eczéma généralisé		
 pb	234	0238	4801263
@@ -361,8 +348,7 @@ orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Mala
 pb	263	0267	4801292
 pb	264	0268	4801293
 pb	265	0269	4801294
-entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du mouton. Maladies cutanées du porc	0	
-orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du mouton. Maladies cutanées du porc		
+entry	Maladies cutanées du porc	0	
 entry	Peau (Maladies de la) [C. Cadéac]. Traitement des maladies cutanées en général. Maladies cutanées du porc. Échauboulure	2	
 orth	Peau (Maladies de la). Traitement des maladies cutanées en général. Maladies cutanées du porc. Échauboulure		
 pb	266	0270	4801295
@@ -378,8 +364,7 @@ orth	Pénis. Anatomie
 pb	270	0274	4801299
 pb	271	0275	4801300
 pb	272	0276	4801301
-entry	Pénis [P. J. Cadiot]. Pathologie	0	
-orth	Pénis. Pathologie		
+entry	Pathologie	0	
 entry	Pénis [P. J. Cadiot]. Pathologie. Lésions traumatiques du pénis	5	
 orth	Pénis. Pathologie. Lésions traumatiques du pénis		
 pb	273	0277	4801302
@@ -420,8 +405,8 @@ pb	295	0299	4801324
 pb	296	0300	4801325
 pb	297	0301	4801326
 pb	298	0302	4801327
-entry	Percussion [F. Saint-Cyr]. 	50	
-orth	Percussion. 		
+entry	Percussion [F. Saint-Cyr]	50	
+orth	Percussion		
 pb	299	0303	4801328
 pb	300	0304	4801329
 pb	301	0305	4801330
@@ -474,15 +459,13 @@ pb	347	0351	4801376
 pb	348	0352	4801377
 pb	349	0353	4801378
 entry	Péricarde	0	
-entry	Péricarde. Anatomie topographique [L. Moussu]. 	1	
-orth	Péricarde. Anatomie topographique. 		
+entry	Péricarde. Anatomie topographique [L. Moussu]	2	
+orth	Péricarde. Anatomie topographique		
 pb	350	0354	4801379
 pb	351	0355	4801380
-entry	Péricarde. Anatomie topographique [L. Moussu]. Pathologie [L. Trasbot]. 	0	
-orth	Péricarde. Anatomie topographique. Pathologie. 		
-pb	352	0356	4801381
-entry	Péricarde. Pathologie [L. Trasbot]. Péricardite aiguë	16	
+entry	Péricarde. Pathologie [L. Trasbot]. Péricardite aiguë	17	
 orth	Péricarde. Pathologie. Péricardite aiguë		
+pb	352	0356	4801381
 pb	353	0357	4801382
 pb	354	0358	4801383
 pb	355	0359	4801384
@@ -525,8 +508,7 @@ pb	387	0391	4801416
 pb	388	0392	4801417
 pb	389	0393	4801418
 pb	390	0394	4801419
-entry	Péricarde. Pathologie [L. Trasbot]. Hydropisies du péricarde	0	
-orth	Péricarde. Pathologie. Hydropisies du péricarde		
+entry	Hydropisies du péricarde	0	
 entry	Péricarde. Pathologie [L. Trasbot]. Péricardite tuberculeuse	1	
 orth	Péricarde. Pathologie. Péricardite tuberculeuse		
 pb	391	0395	4801420
@@ -536,10 +518,8 @@ pb	392	0396	4801421
 entry	Péricarde. Pathologie [L. Trasbot]. Arrêt de développement du péricarde	1	
 orth	Péricarde. Pathologie. Arrêt de développement du péricarde		
 pb	393	0397	4801422
-entry	Péricarde. Pathologie [L. Trasbot]. Périnée	0	
-orth	Péricarde. Pathologie. Périnée		
-entry	Péricarde. Pathologie [L. Trasbot]. Périostite	0	
-orth	Péricarde. Pathologie. Périostite		
+entry	Périnée	0	
+entry	Périostite	0	
 entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Synonymie	0	
 orth	Péripneumonie contagieuse des bovidés. Synonymie		
 entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Aperçu bibliographique	1	
@@ -594,8 +574,7 @@ orth	Péripneumonie contagieuse des bovidés. Matières virulentes
 pb	421	0425	4801450
 pb	422	0426	4801451
 pb	423	0427	4801452
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Durée de l'activité virulente	0	
-orth	Péripneumonie contagieuse des bovidés. Durée de l'activité virulente		
+entry	Durée de l'activité virulente	0	
 entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Circonstances dans lesquelles la contagion s'effectue	5	
 orth	Péripneumonie contagieuse des bovidés. Circonstances dans lesquelles la contagion s'effectue		
 pb	424	0428	4801453
@@ -610,8 +589,7 @@ pb	430	0434	4801459
 pb	431	0435	4801460
 pb	432	0436	4801461
 pb	433	0437	4801462
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Immunité	0	
-orth	Péripneumonie contagieuse des bovidés. Immunité		
+entry	Immunité	0	
 entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Période d'incubation	1	
 orth	Péripneumonie contagieuse des bovidés. Période d'incubation		
 pb	434	0438	4801463
@@ -628,8 +606,8 @@ entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Moyens ré
 orth	Péripneumonie contagieuse des bovidés. Traitement. Moyens réputés préservatifs		
 pb	438	0442	4801467
 pb	439	0443	4801468
-entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement.	0	
-orth	Péripneumonie contagieuse des bovidés. Traitement.		
+entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement	0	
+orth	Péripneumonie contagieuse des bovidés. Traitement		
 entry	Péripneumonie contagieuse des bovidés [F. Peuch]. Traitement. Inoculation préventive	40	
 orth	Péripneumonie contagieuse des bovidés. Traitement. Inoculation préventive		
 pb	440	0444	4801469
@@ -695,8 +673,8 @@ pb	497	0501	4801526
 pb	498	0502	4801527
 pb	499	0503	4801528
 pb	500	0504	4801529
-entry	Péritoine [A. Labat]. 	1	
-orth	Péritoine. 		
+entry	Péritoine [A. Labat]	1	
+orth	Péritoine		
 pb	501	0505	4801530
 pb	502	0506	4801531
 entry	Péritoine [A. Labat]. Anatomie et Physiologie	13	

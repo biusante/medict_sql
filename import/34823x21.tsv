@@ -1,16 +1,14 @@
 pb	[s. pag.]	0001	4803955
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4803956
 entry	Liste des collaborateurs du vingt-unième volume	0	
 pb	[s. pag.]	0003	4803957
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4803958
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4803959
-entry	Tendons [F. Peuch]. 	1	
-orth	Tendons. 		
+entry	Tendons [F. Peuch]	1	
+orth	Tendons		
 pb	2	0006	4803960
 pb	3	0007	4803961
 entry	Tendons [F. Peuch]. Effort de tendons	5	
@@ -61,10 +59,8 @@ pb	27	0031	4803985
 entry	Ténotomie [F. Peuch]. Ténotomie plantaire. Accidents	1	
 orth	Ténotomie. Ténotomie plantaire. Accidents		
 pb	28	0032	4803986
-entry	Ténotomie [F. Peuch]. Ténotomie plantaire. Ténotomies tarsiennes	0	
-orth	Ténotomie. Ténotomie plantaire. Ténotomies tarsiennes		
-entry	Ténotomie [F. Peuch]. Ténotomie plantaire. Section de la branche cunéenne du tibio-prémétatarsien ou tenotomie tarsienne interne	0	
-orth	Ténotomie. Ténotomie plantaire. Section de la branche cunéenne du tibio-prémétatarsien ou tenotomie tarsienne interne		
+entry	Ténotomies tarsiennes	0	
+entry	Section de la branche cunéenne du tibio-prémétatarsien ou tenotomie tarsienne interne	0	
 entry	Ténotomie [F. Peuch]. Ténotomies tarsiennes. Section de la branche cunéenne du tibio-prémétatarsien ou tenotomie tarsienne interne. Anatomie de la région	1	
 orth	Ténotomie. Ténotomies tarsiennes. Section de la branche cunéenne du tibio-prémétatarsien ou tenotomie tarsienne interne. Anatomie de la région		
 pb	29	0033	4803987
@@ -75,8 +71,7 @@ pb	31	0035	4803989
 entry	Ténotomie [F. Peuch]. Ténotomies tarsiennes. Section du tendon de l'extenseur latéral des phalanges ou ténotomie tarsienne antérieure	1	
 orth	Ténotomie. Ténotomies tarsiennes. Section du tendon de l'extenseur latéral des phalanges ou ténotomie tarsienne antérieure		
 pb	32	0036	4803990
-entry	Ténotomie [F. Peuch]. Ténotomies tarsiennes. Anatomie de la région	0	
-orth	Ténotomie. Ténotomies tarsiennes. Anatomie de la région		
+entry	Anatomie de la région	0	
 entry	Ténotomie [F. Peuch]. Ténotomies tarsiennes. Section du tendon de l'extenseur latéral des phalanges ou ténotomie tarsienne antérieure. Opération	1	
 orth	Ténotomie. Ténotomies tarsiennes. Section du tendon de l'extenseur latéral des phalanges ou ténotomie tarsienne antérieure. Opération		
 pb	33	0037	4803991
@@ -97,8 +92,7 @@ pb	41	0045	4803999
 pb	42	0046	4804000
 pb	43	0047	4804001
 pb	44	0048	4804002
-entry	Testicules (Anomalies des) [F. Peuch]. Castration des animaux cryptorchides	0	
-orth	Testicules (Anomalies des). Castration des animaux cryptorchides		
+entry	Castration des animaux cryptorchides	0	
 entry	Testicules (Anomalies des) [F. Peuch]. Cryptorchidie. Castration des animaux cryptorchides. Castration des équidés	7	
 orth	Testicules (Anomalies des). Cryptorchidie. Castration des animaux cryptorchides. Castration des équidés		
 pb	45	0049	4804003
@@ -132,32 +126,27 @@ entry	Testicules (Anomalies des) [F. Peuch]. Triorchidie	2
 orth	Testicules (Anomalies des). Triorchidie		
 pb	64	0068	4804022
 pb	65	0069	4804023
-entry	Testicules (Anomalies des) [F. Peuch]. Inversion testiculaire	0	
-orth	Testicules (Anomalies des). Inversion testiculaire		
-entry	Testicules (Maladies des) [F. Peuch]. 	0	
-orth	Testicules (Maladies des). 		
+entry	Inversion testiculaire	0	
+entry	Testicules (Maladies des) [F. Peuch]	0	
+orth	Testicules (Maladies des)		
 pb	66	0070	4804024
 entry	Testicules (Maladies des) [F. Peuch]. Plaies des bourses	0	
 orth	Testicules (Maladies des). Plaies des bourses		
-entry	Testicules (Maladies des) [F. Peuch]. Morsures	0	
-orth	Testicules (Maladies des). Morsures		
+entry	Morsures	0	
 entry	Testicules (Maladies des) [F. Peuch]. Plaies des bourses. Plaies par incision et plaies contuses	1	
 orth	Testicules (Maladies des). Plaies des bourses. Plaies par incision et plaies contuses		
 pb	67	0071	4804025
 entry	Testicules (Maladies des) [F. Peuch]. Froidure ou congélation des bourses	1	
 orth	Testicules (Maladies des). Froidure ou congélation des bourses		
 pb	68	0072	4804026
-entry	Testicules (Maladies des) [F. Peuch]. Hydrocèle	0	
-orth	Testicules (Maladies des). Hydrocèle		
-entry	Testicules (Maladies des) [F. Peuch]. Hydrocèle par infiltration	0	
-orth	Testicules (Maladies des). Hydrocèle par infiltration		
+entry	Hydrocèle	0	
+entry	Hydrocèle par infiltration	0	
 entry	Testicules (Maladies des) [F. Peuch]. Hydrocèle. Hydrocèle par épanchement	3	
 orth	Testicules (Maladies des). Hydrocèle. Hydrocèle par épanchement		
 pb	69	0073	4804027
 pb	70	0074	4804028
 pb	71	0075	4804029
-entry	Testicules (Maladies des) [F. Peuch]. Hydrocèle. Orchite	0	
-orth	Testicules (Maladies des). Hydrocèle. Orchite		
+entry	Orchite	0	
 entry	Testicules (Maladies des) [F. Peuch]. Orchite. Orchite aigüe	5	
 orth	Testicules (Maladies des). Orchite. Orchite aigüe		
 pb	72	0076	4804030
@@ -172,8 +161,7 @@ pb	78	0082	4804036
 pb	79	0083	4804037
 pb	80	0084	4804038
 pb	81	0085	4804039
-entry	Testicules (Maladies des) [F. Peuch]. Varicocèle	0	
-orth	Testicules (Maladies des). Varicocèle		
+entry	Varicocèle	0	
 entry	Testicules (Maladies des) [F. Peuch]. Funiculite	2	
 orth	Testicules (Maladies des). Funiculite		
 pb	82	0086	4804040
@@ -181,14 +169,13 @@ pb	83	0087	4804041
 entry	Testicules (Maladies des) [F. Peuch]. Kystes	1	
 orth	Testicules (Maladies des). Kystes		
 pb	84	0088	4804042
-entry	Testicules (Maladies des) [F. Peuch]. Spermatorrhée	0	
-orth	Testicules (Maladies des). Spermatorrhée		
-entry	Tétanie [P. J. Cadiot]. 	1	
-orth	Tétanie. 		
+entry	Spermatorrhée	0	
+entry	Tétanie [P. J. Cadiot]	2	
+orth	Tétanie		
 pb	85	0089	4804043
 pb	86	0090	4804044
-entry	Tétanie [P. J. Cadiot]. Tétanos [P. J. Cadiot]. 	0	
-orth	Tétanie. Tétanos. 		
+entry	Tétanos [P. J. Cadiot]	0	
+orth	Tétanos		
 pb	87	0091	4804045
 entry	Tétanos [P. J. Cadiot]. Divisions	1	
 orth	Tétanos. Divisions		
@@ -229,18 +216,15 @@ pb	111	0115	4804069
 pb	112	0116	4804070
 pb	113	0117	4804071
 pb	114	0118	4804072
-entry	Tétanos [P. J. Cadiot]. Symptômes dans les divers genres d'animaux	0	
-orth	Tétanos. Symptômes dans les divers genres d'animaux		
+entry	Symptômes dans les divers genres d'animaux	0	
 entry	Tétanos [P. J. Cadiot]. Symptômes. Symptômes dans les divers genres d'animaux. Chez les Équidés	1	
 orth	Tétanos. Symptômes. Symptômes dans les divers genres d'animaux. Chez les Équidés		
 pb	115	0119	4804073
 entry	Tétanos [P. J. Cadiot]. Symptômes. Symptômes dans les divers genres d'animaux , Chez les Bovidés	1	
 orth	Tétanos. Symptômes. Symptômes dans les divers genres d'animaux , Chez les Bovidés		
 pb	116	0120	4804074
-entry	Tétanos [P. J. Cadiot]. Symptômes. Chez les Ovidés	0	
-orth	Tétanos. Symptômes. Chez les Ovidés		
-entry	Tétanos [P. J. Cadiot]. Symptômes. Chez les Suidés	0	
-orth	Tétanos. Symptômes. Chez les Suidés		
+entry	Chez les Ovidés	0	
+entry	Chez les Suidés	0	
 entry	Tétanos [P. J. Cadiot]. Symptômes. Symptômes dans les divers genres d'animaux. Chez les chiens	1	
 orth	Tétanos. Symptômes. Symptômes dans les divers genres d'animaux. Chez les chiens		
 pb	117	0121	4804075
@@ -259,8 +243,7 @@ pb	123	0127	4804081
 entry	Tétanos [P. J. Cadiot]. Pronostic	1	
 orth	Tétanos. Pronostic		
 pb	124	0128	4804082
-entry	Tétanos [P. J. Cadiot]. Traitement	0	
-orth	Tétanos. Traitement		
+entry	Traitement	0	
 entry	Tétanos [P. J. Cadiot]. Traitement. Traitement chirurgical	4	
 orth	Tétanos. Traitement. Traitement chirurgical		
 pb	125	0129	4804083
@@ -285,8 +268,8 @@ orth	Tétanos. Bibliographie
 pb	136	0140	4804094
 pb	137	0141	4804095
 pb	138	0142	4804096
-entry	Thrombose et Embolie [A. Labat]. 	0	
-orth	Thrombose et Embolie. 		
+entry	Thrombose et Embolie [A. Labat]	0	
+orth	Thrombose et Embolie		
 pb	139	0143	4804097
 entry	Thrombose et Embolie [A. Labat]. Historique	3	
 orth	Thrombose et Embolie. Historique		
@@ -329,8 +312,7 @@ pb	165	0169	4804123
 entry	Thrombose et Embolie [A. Labat]. Thrombose. Pronostic et Traitement	1	
 orth	Thrombose et Embolie. Thrombose. Pronostic et Traitement		
 pb	166	0170	4804124
-entry	Thrombose et Embolie [A. Labat]. Thrombose. Embolie	0	
-orth	Thrombose et Embolie. Thrombose. Embolie		
+entry	Embolie	0	
 entry	Thrombose et Embolie [A. Labat]. Embolie. Étiologie et Pathogénie	1	
 orth	Thrombose et Embolie. Embolie. Étiologie et Pathogénie		
 pb	167	0171	4804125
@@ -351,8 +333,7 @@ pb	175	0179	4804133
 entry	Thrombose et Embolie [A. Labat]. Embolie. Traitement	1	
 orth	Thrombose et Embolie. Embolie. Traitement		
 pb	176	0180	4804134
-entry	Thrombose et Embolie [A. Labat]. Embolie. Thoracentèse	0	
-orth	Thrombose et Embolie. Embolie. Thoracentèse		
+entry	Thoracentèse	0	
 entry	Thyroïde [C. Cadéac]. Anatomie	2	
 orth	Thyroïde. Anatomie		
 pb	177	0181	4804135
@@ -362,8 +343,7 @@ orth	Thyroïde. Physiologie
 pb	179	0183	4804137
 pb	180	0184	4804138
 pb	181	0185	4804139
-entry	Thyroïde [C. Cadéac]. Pathologie	0	
-orth	Thyroïde. Pathologie		
+entry	Pathologie	0	
 entry	Goître	0	
 pb	182	0186	4804140
 entry	Thyroïde [C. Cadéac]. Pathologie	0	
@@ -378,10 +358,8 @@ pb	185	0189	4804143
 entry	Thyroïde [C. Cadéac]. Pathologie. Symptômes	1	
 orth	Thyroïde. Pathologie. Symptômes		
 pb	186	0190	4804144
-entry	Thyroïde [C. Cadéac]. Pathologie. Diagnostic	0	
-orth	Thyroïde. Pathologie. Diagnostic		
-entry	Thyroïde [C. Cadéac]. Pathologie. Pronostic	0	
-orth	Thyroïde. Pathologie. Pronostic		
+entry	Diagnostic	0	
+entry	Pronostic	0	
 entry	Thyroïde [C. Cadéac]. Pathologie. Traitement	2	
 orth	Thyroïde. Pathologie. Traitement		
 pb	187	0191	4804145
@@ -389,8 +367,8 @@ pb	188	0192	4804146
 entry	Thyroïde [C. Cadéac]. Pathologie. Goître exophthalmique	1	
 orth	Thyroïde. Pathologie. Goître exophthalmique		
 pb	189	0193	4804147
-entry	Tic [C. Cadéac]. 	0	
-orth	Tic. 		
+entry	Tic [C. Cadéac]	0	
+orth	Tic		
 pb	190	0194	4804148
 entry	Tic [C. Cadéac]. Tic moteurs	1	
 orth	Tic. Tic moteurs		
@@ -420,8 +398,7 @@ pb	204	0208	4804162
 pb	205	0209	4804163
 pb	206	0210	4804164
 pb	207	0211	4804165
-entry	Tic [C. Cadéac]. Tic mixte	0	
-orth	Tic. Tic mixte		
+entry	Tic mixte	0	
 entry	Tic [C. Cadéac]. Tic mixte. Caractère du mouvement convulsif accompli par le sujet qui tique	1	
 orth	Tic. Tic mixte. Caractère du mouvement convulsif accompli par le sujet qui tique		
 pb	208	0212	4804166
@@ -438,8 +415,7 @@ entry	Tic [C. Cadéac]. Tics des Bovidés	2
 orth	Tic. Tics des Bovidés		
 pb	214	0218	4804172
 pb	215	0219	4804173
-entry	Tic [C. Cadéac]. Tics des Suidés	0	
-orth	Tic. Tics des Suidés		
+entry	Tics des Suidés	0	
 entry	Tic [C. Cadéac]. Étiologie	2	
 orth	Tic. Étiologie		
 pb	216	0220	4804174
@@ -452,8 +428,8 @@ entry	Tic [C. Cadéac]. Jurisprudence	2
 orth	Tic. Jurisprudence		
 pb	220	0224	4804178
 pb	221	0225	4804179
-entry	Toison [A. Sanson]. 	8	
-orth	Toison. 		
+entry	Toison [A. Sanson]	8	
+orth	Toison		
 pb	222	0226	4804180
 pb	223	0227	4804181
 pb	224	0228	4804182
@@ -489,14 +465,13 @@ pb	247	0251	4804205
 entry	Tondage [A. Sanson]. Tondage des chiens	1	
 orth	Tondage. Tondage des chiens		
 pb	248	0252	4804206
-entry	Toniques (Médication, Médicaments) [M. Kaufmann]. 	0	
-orth	Toniques (Médication, Médicaments). 		
+entry	Toniques (Médication, Médicaments) [M. Kaufmann]	0	
+orth	Toniques (Médication, Médicaments)		
 pb	249	0253	4804207
 entry	Toniques (Médication, Médicaments) [M. Kaufmann]. Moyens alimentaires et hygiéniques	1	
 orth	Toniques (Médication, Médicaments). Moyens alimentaires et hygiéniques		
 pb	250	0254	4804208
-entry	Toniques (Médication, Médicaments) [M. Kaufmann]. Médicaments toniques	0	
-orth	Toniques (Médication, Médicaments). Médicaments toniques		
+entry	Médicaments toniques	0	
 entry	Toniques (Médication, Médicaments) [M. Kaufmann]. Médicaments toniques. Toniques analeptiques	17	
 orth	Toniques (Médication, Médicaments). Médicaments toniques. Toniques analeptiques		
 pb	251	0255	4804209
@@ -530,8 +505,8 @@ pb	274	0278	4804232
 pb	275	0279	4804233
 pb	276	0280	4804234
 pb	277	0281	4804235
-entry	Tonte [A. Sanson]. 	6	
-orth	Tonte. 		
+entry	Tonte [A. Sanson]	7	
+orth	Tonte		
 pb	278	0282	4804236
 pb	279	0283	4804237
 pb	280	0284	4804238
@@ -539,8 +514,8 @@ pb	281	0285	4804239
 pb	282	0286	4804240
 pb	283	0287	4804241
 pb	284	0288	4804242
-entry	Tonte [A. Sanson]. Tournis [G. Neumann]. 	0	
-orth	Tonte. Tournis. 		
+entry	Tournis [G. Neumann]	0	
+orth	Tournis		
 pb	285	0289	4804243
 entry	Tournis [G. Neumann]. Étiologie	2	
 orth	Tournis. Étiologie		
@@ -550,8 +525,7 @@ entry	Tournis [G. Neumann]. Anatomie pathologique	2
 orth	Tournis. Anatomie pathologique		
 pb	288	0292	4804246
 pb	289	0293	4804247
-entry	Tournis [G. Neumann]. Symptômes	0	
-orth	Tournis. Symptômes		
+entry	Symptômes	0	
 entry	Tournis [G. Neumann]. Symptômes. Tournis du mouton	3	
 orth	Tournis. Symptômes. Tournis du mouton		
 pb	290	0294	4804248
@@ -616,16 +590,14 @@ pb	322	0326	4804280
 pb	323	0327	4804281
 pb	324	0328	4804282
 pb	325	0329	4804283
-entry	Trachéotomie [F. Peuch]. Modes opératoires	0	
-orth	Trachéotomie. Modes opératoires		
+entry	Modes opératoires	0	
 entry	Trachéotomie [F. Peuch]. Modes opératoires. Procédé par excision de la moitié de deux cerceaux	1	
 orth	Trachéotomie. Modes opératoires. Procédé par excision de la moitié de deux cerceaux		
 pb	326	0330	4804284
 pb	327	0331	4804285
 entry	Trachéotomie [F. Peuch]. Modes opératoires	0	
 orth	Trachéotomie. Modes opératoires		
-entry	Trachéotomie [F. Peuch]. Procédé par incision longitudinale	0	
-orth	Trachéotomie. Procédé par incision longitudinale		
+entry	Procédé par incision longitudinale	0	
 entry	Trachéotomie [F. Peuch]. Modes opératoires. Procédé par incision entre deux cerceaux	1	
 orth	Trachéotomie. Modes opératoires. Procédé par incision entre deux cerceaux		
 pb	328	0332	4804286
@@ -642,8 +614,8 @@ pb	332	0336	4804290
 pb	333	0337	4804291
 pb	334	0338	4804292
 pb	335	0339	4804293
-entry	Traite [A. Sanson]. 	7	
-orth	Traite. 		
+entry	Traite [A. Sanson]	7	
+orth	Traite		
 pb	336	0340	4804294
 pb	337	0341	4804295
 pb	338	0342	4804296
@@ -652,14 +624,14 @@ pb	340	0344	4804298
 pb	341	0345	4804299
 pb	342	0346	4804300
 pb	343	0347	4804301
-entry	Trakehnen [A. Sanson]. 	3	
-orth	Trakehnen. 		
+entry	Trakehnen [A. Sanson]	4	
+orth	Trakehnen		
 pb	344	0348	4804302
 pb	345	0349	4804303
 pb	346	0350	4804304
 pb	347	0351	4804305
-entry	Trakehnen [A. Sanson]. Trépanation [F. Peuch]. 	0	
-orth	Trakehnen. Trépanation. 		
+entry	Trépanation [F. Peuch]	0	
+orth	Trépanation		
 pb	348	0352	4804306
 entry	Trépanation [F. Peuch]. Indications	0	
 orth	Trépanation. Indications		
@@ -678,8 +650,8 @@ orth	Trépanation. Trépanation du crâne
 pb	355	0359	4804313
 pb	356	0360	4804314
 pb	357	0361	4804315
-entry	Trichinose [G. Neumann]. 	0	
-orth	Trichinose. 		
+entry	Trichinose [G. Neumann]	0	
+orth	Trichinose		
 pb	358	0362	4804316
 entry	Trichinose [G. Neumann]. Historique	1	
 orth	Trichinose. Historique		
@@ -709,8 +681,7 @@ orth	Trichinose. Étiologie, fréquence
 pb	372	0376	4804330
 pb	373	0377	4804331
 pb	374	0378	4804332
-entry	Trichinose [G. Neumann]. Prophylaxie de la trichinose du Porc	0	
-orth	Trichinose. Prophylaxie de la trichinose du Porc		
+entry	Prophylaxie de la trichinose du Porc	0	
 entry	Trichinose [G. Neumann]. Vitalité des Trichines	5	
 orth	Trichinose. Vitalité des Trichines		
 pb	375	0379	4804333
@@ -739,8 +710,8 @@ pb	388	0392	4804346
 pb	389	0393	4804347
 pb	390	0394	4804348
 pb	391	0395	4804349
-entry	Troupeau [A. Sanson]. 	1	
-orth	Troupeau. 		
+entry	Troupeau [A. Sanson]	1	
+orth	Troupeau		
 pb	392	0396	4804350
 pb	393	0397	4804351
 entry	Troupeau [A. Sanson]. Administration du troupeau	9	
@@ -769,8 +740,8 @@ pb	410	0414	4804368
 pb	411	0415	4804369
 pb	412	0416	4804370
 pb	413	0417	4804371
-entry	Tuberculose [M. Nocard]. 	0	
-orth	Tuberculose. 		
+entry	Tuberculose [M. Nocard]	0	
+orth	Tuberculose		
 pb	414	0418	4804372
 entry	Tuberculose [M. Nocard]. Espèces animales atteintes	1	
 orth	Tuberculose. Espèces animales atteintes		
@@ -849,8 +820,7 @@ orth	Tuberculose. Espèces animales atteintes. Tuberculose des bêtes bovines. H
 pb	468	0472	4804426
 pb	469	0473	4804427
 pb	470	0474	4804428
-entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose des bêtes bovines. Résistance du bacille aux causes de destruction	0	
-orth	Tuberculose. Espèces animales atteintes. Tuberculose des bêtes bovines. Résistance du bacille aux causes de destruction		
+entry	Résistance du bacille aux causes de destruction	0	
 entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose des bêtes bovines. Résistance du bacille aux causes de destruction. Action des antiseptiques	1	
 orth	Tuberculose. Espèces animales atteintes. Tuberculose des bêtes bovines. Résistance du bacille aux causes de destruction. Action des antiseptiques		
 pb	471	0475	4804429
@@ -903,8 +873,7 @@ pb	499	0503	4804457
 entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose du porc. Marche de la maladie	1	
 orth	Tuberculose. Espèces animales atteintes. Tuberculose du porc. Marche de la maladie		
 pb	500	0504	4804458
-entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose du porc. Tuberculose du cheval	0	
-orth	Tuberculose. Espèces animales atteintes. Tuberculose du porc. Tuberculose du cheval		
+entry	Tuberculose du cheval	0	
 entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose du cheval. Lésions	3	
 orth	Tuberculose. Espèces animales atteintes. Tuberculose du cheval. Lésions		
 pb	501	0505	4804459
@@ -929,8 +898,7 @@ pb	509	0513	4804467
 entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose du chien et du chat. Signes et diagnostic	1	
 orth	Tuberculose. Espèces animales atteintes. Tuberculose du chien et du chat. Signes et diagnostic		
 pb	510	0514	4804468
-entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose du chien et du chat. Tuberculose des oiseaux	0	
-orth	Tuberculose. Espèces animales atteintes. Tuberculose du chien et du chat. Tuberculose des oiseaux		
+entry	Tuberculose des oiseaux	0	
 entry	Tuberculose [M. Nocard]. Espèces animales atteintes. Tuberculose des oiseaux. Lésions	1	
 orth	Tuberculose. Espèces animales atteintes. Tuberculose des oiseaux. Lésions		
 pb	511	0515	4804469

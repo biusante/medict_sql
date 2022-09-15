@@ -1,17 +1,15 @@
 pb	[s. pag.]	0001	4803365
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4803366
 entry	Liste des collaborateurs du vingtième volume	0	
 pb	[s. pag.]	0003	4803367
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4803368
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
 pb	1	0005	4803369
 entry	Salivaires (Glandes)	0	
-entry	Salivaires (Glandes). Anatomie [G. Moussu]. 	7	
-orth	Salivaires (Glandes). Anatomie. 		
+entry	Salivaires (Glandes). Anatomie [G. Moussu]	7	
+orth	Salivaires (Glandes). Anatomie		
 pb	2	0006	4803370
 pb	3	0007	4803371
 pb	4	0008	4803372
@@ -30,8 +28,7 @@ pb	12	0016	4803380
 entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Diminution de la sécrétion salivaire, arrêt de l'excrétion	1	
 orth	Salivaires (Glandes). Pathologie. Diminution de la sécrétion salivaire, arrêt de l'excrétion		
 pb	13	0017	4803381
-entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Glande maxillaire	0	
-orth	Salivaires (Glandes). Pathologie. Glande maxillaire		
+entry	Glande maxillaire	0	
 entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Maxillite. Maxillairite ou abcès salivaire	8	
 orth	Salivaires (Glandes). Pathologie. Maxillite. Maxillairite ou abcès salivaire		
 pb	14	0018	4803382
@@ -75,12 +72,9 @@ pb	43	0047	4803411
 pb	44	0048	4803412
 entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Atrophie	0	
 orth	Salivaires (Glandes). Pathologie. Atrophie		
-entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Hypertrophie	0	
-orth	Salivaires (Glandes). Pathologie. Hypertrophie		
-entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Tumeurs	0	
-orth	Salivaires (Glandes). Pathologie. Tumeurs		
-entry	Salivaires (Glandes). Pathologie [L. Trasbot]. Parasitismes	0	
-orth	Salivaires (Glandes). Pathologie. Parasitismes		
+entry	Hypertrophie	0	
+entry	Tumeurs	0	
+entry	Parasitismes	0	
 entry	Salivaires (Calculs)	0	
 pb	45	0049	4803413
 entry	Sang [A. Sanson]. Le sang au point de vue anatomique	8	
@@ -99,8 +93,8 @@ pb	54	0058	4803422
 pb	55	0059	4803423
 pb	56	0060	4803424
 pb	57	0061	4803425
-entry	Sangsues [A. Railliet]. 	6	
-orth	Sangsues. 		
+entry	Sangsues [A. Railliet]	6	
+orth	Sangsues		
 pb	58	0062	4803426
 pb	59	0063	4803427
 pb	60	0064	4803428
@@ -113,17 +107,14 @@ orth	Sangsues. Troubles pathologiques
 pb	65	0069	4803433
 pb	66	0070	4803434
 pb	67	0071	4803435
-entry	Sangsues [A. Railliet]. Diagnostic	0	
-orth	Sangsues. Diagnostic		
+entry	Diagnostic	0	
 entry	Sangsues [A. Railliet]. Traitement	1	
 orth	Sangsues. Traitement		
 pb	68	0072	4803436
-entry	Sangsues [A. Railliet]. Sang de rate	0	
-orth	Sangsues. Sang de rate		
-entry	Sangsues [A. Railliet]. Sarcocèle	0	
-orth	Sangsues. Sarcocèle		
-entry	Sarcome [L. Trasbot]. 	11	
-orth	Sarcome. 		
+entry	Sang de rate	0	
+entry	Sarcocèle	0	
+entry	Sarcome [L. Trasbot]	11	
+orth	Sarcome		
 pb	69	0073	4803437
 pb	70	0074	4803438
 pb	71	0075	4803439
@@ -174,10 +165,9 @@ entry	Sarcome muqueux	0
 pb	103	0107	4803471
 entry	Sarcome [L. Trasbot]. Sarcome lipomateux	0	
 orth	Sarcome. Sarcome lipomateux		
-entry	Sarcome [L. Trasbot]. Sarcome mélanique	0	
-orth	Sarcome. Sarcome mélanique		
-entry	Schwitz [A. Sanson]. 	5	
-orth	Schwitz. 		
+entry	Sarcome mélanique	0	
+entry	Schwitz [A. Sanson]	5	
+orth	Schwitz		
 pb	104	0108	4803472
 pb	105	0109	4803473
 pb	106	0110	4803474
@@ -212,8 +202,8 @@ pb	124	0128	4803492
 pb	125	0129	4803493
 pb	126	0130	4803494
 pb	127	0131	4803495
-entry	Sclérose [C. Pellerin]. 	3	
-orth	Sclérose. 		
+entry	Sclérose [C. Pellerin]	3	
+orth	Sclérose		
 pb	128	0132	4803496
 pb	129	0133	4803497
 pb	130	0134	4803498
@@ -224,18 +214,15 @@ entry	Sclérose [C. Pellerin]. Scléroses systématiques	2
 orth	Sclérose. Scléroses systématiques		
 pb	132	0136	4803500
 pb	133	0137	4803501
-entry	Sclérose [C. Pellerin]. Scléroses spécifiques, parasitaires	0	
-orth	Sclérose. Scléroses spécifiques, parasitaires		
+entry	Scléroses spécifiques, parasitaires	0	
 entry	Sclérose [C. Pellerin]. Scléroses néoplasiques	2	
 orth	Sclérose. Scléroses néoplasiques		
 pb	134	0138	4803502
 pb	135	0139	4803503
-entry	Sclérose [C. Pellerin]. Sclérostome	0	
-orth	Sclérose. Sclérostome		
-entry	Sclérose [C. Pellerin]. Scrofule	0	
-orth	Sclérose. Scrofule		
-entry	Seime [C. Pellerin]. 	4	
-orth	Seime. 		
+entry	Sclérostome	0	
+entry	Scrofule	0	
+entry	Seime [C. Pellerin]	4	
+orth	Seime		
 pb	136	0140	4803504
 pb	137	0141	4803505
 pb	138	0142	4803506
@@ -294,8 +281,8 @@ pb	184	0188	4803552
 entry	Seime [C. Pellerin]. Seimes du boeuf	1	
 orth	Seime. Seimes du boeuf		
 pb	185	0189	4803553
-entry	Sélection [A. Sanson]. 	3	
-orth	Sélection. 		
+entry	Sélection [A. Sanson]	3	
+orth	Sélection		
 pb	186	0190	4803554
 pb	187	0191	4803555
 pb	188	0192	4803556
@@ -350,8 +337,8 @@ orth	Sélection. Sélection zootechnique. Sélection zootechnique des Suidés
 pb	225	0229	4803593
 pb	226	0230	4803594
 pb	227	0231	4803595
-entry	Septicémie (Pathologie générale) [Ed. Nocard]. 	7	
-orth	Septicémie (Pathologie générale). 		
+entry	Septicémie (Pathologie générale) [Ed. Nocard]	8	
+orth	Septicémie (Pathologie générale)		
 pb	228	0232	4803596
 pb	229	0233	4803597
 pb	230	0234	4803598
@@ -360,8 +347,8 @@ pb	232	0236	4803600
 pb	233	0237	4803601
 pb	234	0238	4803602
 pb	235	0239	4803603
-entry	Septicémie (Pathologie générale) [Ed. Nocard]. Séquanaise (race chevaline) [A. Sanson]. 	0	
-orth	Septicémie (Pathologie générale). Séquanaise (race chevaline). 		
+entry	Séquanaise (race chevaline) [A. Sanson]	0	
+orth	Séquanaise (race chevaline)		
 pb	236	0240	4803604
 entry	Séquanaise (race chevaline) [A. Sanson]. Caractères spécifiques de la race séquanaise	0	
 orth	Séquanaise (race chevaline). Caractères spécifiques de la race séquanaise		
@@ -390,8 +377,8 @@ entry	Séquanaise (race chevaline) [A. Sanson]. Variété nivernaise	2
 orth	Séquanaise (race chevaline). Variété nivernaise		
 pb	252	0256	4803620
 pb	253	0257	4803621
-entry	Séreuses (Parasites des) [A. Railliet]. 	6	
-orth	Séreuses (Parasites des). 		
+entry	Séreuses (Parasites des) [A. Railliet]	7	
+orth	Séreuses (Parasites des)		
 pb	254	0258	4803622
 pb	255	0259	4803623
 pb	256	0260	4803624
@@ -399,8 +386,8 @@ pb	257	0261	4803625
 pb	258	0262	4803626
 pb	259	0263	4803627
 pb	260	0264	4803628
-entry	Séreuses (Parasites des) [A. Railliet]. Séton [F. Peuch]. 	0	
-orth	Séreuses (Parasites des). Séton. 		
+entry	Séton [F. Peuch]	0	
+orth	Séton		
 pb	261	0265	4803629
 entry	Séton [F. Peuch]. Séton chez les Équidés	11	
 orth	Séton. Séton chez les Équidés		
@@ -415,52 +402,47 @@ pb	269	0273	4803637
 pb	270	0274	4803638
 pb	271	0275	4803639
 pb	272	0276	4803640
-entry	Séton [F. Peuch]. Séton chez les Bovidés	0	
-orth	Séton. Séton chez les Bovidés		
+entry	Séton chez les Bovidés	0	
 entry	Séton [F. Peuch]. Séton chez les Canidés	2	
 orth	Séton. Séton chez les Canidés		
 pb	273	0277	4803641
 pb	274	0278	4803642
-entry	Sevrage [A. Sanson]. 	4	
-orth	Sevrage. 		
+entry	Sevrage [A. Sanson]	5	
+orth	Sevrage		
 pb	275	0279	4803643
 pb	276	0280	4803644
 pb	277	0281	4803645
 pb	278	0282	4803646
 pb	279	0283	4803647
-entry	Sevrage [A. Sanson]. Shropshiredown [A. Sanson]. 	0	
-orth	Sevrage. Shropshiredown. 		
+entry	Shropshiredown [A. Sanson]	2	
+orth	Shropshiredown		
 pb	280	0284	4803648
-entry	Shropshiredown [A. Sanson]. 	1	
-orth	Shropshiredown. 		
 pb	281	0285	4803649
 pb	282	0286	4803650
-entry	Signalement [A. Sanson]. 	5	
-orth	Signalement. 		
+entry	Signalement [A. Sanson]	5	
+orth	Signalement		
 pb	283	0287	4803651
 pb	284	0288	4803652
 pb	285	0289	4803653
 pb	286	0290	4803654
 pb	287	0291	4803655
 pb	288	0292	4803656
-entry	Simmenthal [A. Sanson]. 	2	
-orth	Simmenthal. 		
+entry	Simmenthal [A. Sanson]	3	
+orth	Simmenthal		
 pb	289	0293	4803657
 pb	290	0294	4803658
 pb	291	0295	4803659
-entry	Simmenthal [A. Sanson]. Soie [A. Labat]. 	0	
-orth	Simmenthal. Soie. 		
+entry	Soie [A. Labat]	4	
+orth	Soie		
 pb	292	0296	4803660
-entry	Soie [A. Labat]. 	3	
-orth	Soie. 		
 pb	293	0297	4803661
 pb	294	0298	4803662
 pb	295	0299	4803663
 pb	296	0300	4803664
 entry	Soie [A. Labat]. Solandre	0	
 orth	Soie. Solandre		
-entry	Sole (Sole chauffée ou brûlée) [C. Pellerin]. 	10	
-orth	Sole (Sole chauffée ou brûlée). 		
+entry	Sole (Sole chauffée ou brûlée) [C. Pellerin]	11	
+orth	Sole (Sole chauffée ou brûlée)		
 pb	297	0301	4803665
 pb	298	0302	4803666
 pb	299	0303	4803667
@@ -472,37 +454,29 @@ pb	304	0308	4803672
 pb	305	0309	4803673
 pb	306	0310	4803674
 pb	307	0311	4803675
-entry	Sole (Sole chauffée ou brûlée) [C. Pellerin]. Solognote [A. Sanson]. 	0	
-orth	Sole (Sole chauffée ou brûlée). Solognote. 		
+entry	Solognote [A. Sanson]	3	
+orth	Solognote		
 pb	308	0312	4803676
-entry	Solognote [A. Sanson]. 	1	
-orth	Solognote. 		
 pb	309	0313	4803677
 pb	310	0314	4803678
-entry	Solognote [A. Sanson]. Soudan (Race ovine du) [A. Sanson]. 	0	
-orth	Solognote. Soudan (Race ovine du). 		
+entry	Soudan (Race ovine du) [A. Sanson]	4	
+orth	Soudan (Race ovine du)		
 pb	311	0315	4803679
-entry	Soudan (Race ovine du) [A. Sanson]. 	2	
-orth	Soudan (Race ovine du). 		
 pb	312	0316	4803680
 pb	313	0317	4803681
 pb	314	0318	4803682
-entry	Soudan (Race ovine du) [A. Sanson]. Southdown [A. Sanson]. 	0	
-orth	Soudan (Race ovine du). Southdown. 		
+entry	Southdown [A. Sanson]	7	
+orth	Southdown		
 pb	315	0319	4803683
-entry	Southdown [A. Sanson]. 	5	
-orth	Southdown. 		
 pb	316	0320	4803684
 pb	317	0321	4803685
 pb	318	0322	4803686
 pb	319	0323	4803687
 pb	320	0324	4803688
 pb	321	0325	4803689
-entry	Southdown [A. Sanson]. Spécialisation [A. Sanson]. 	0	
-orth	Southdown. Spécialisation. 		
+entry	Spécialisation [A. Sanson]	11	
+orth	Spécialisation		
 pb	322	0326	4803690
-entry	Spécialisation [A. Sanson]. 	10	
-orth	Spécialisation. 		
 pb	323	0327	4803691
 pb	324	0328	4803692
 pb	325	0329	4803693
@@ -516,8 +490,8 @@ pb	332	0336	4803700
 pb	333	0337	4803701
 entry	Spécialisation [A. Sanson]. Spiroptère	0	
 orth	Spécialisation. Spiroptère		
-entry	Sporozoaires [A. Railliet]. 	53	
-orth	Sporozoaires. 		
+entry	Sporozoaires [A. Railliet]	54	
+orth	Sporozoaires		
 pb	334	0338	4803702
 pb	335	0339	4803703
 pb	336	0340	4803704
@@ -572,11 +546,9 @@ pb	384	0388	4803752
 pb	385	0389	4803753
 pb	386	0390	4803754
 pb	387	0391	4803755
-entry	Sporozoaires [A. Railliet]. Squelette [A. Sanson]. 	0	
-orth	Sporozoaires. Squelette. 		
+entry	Squelette [A. Sanson]	1	
+orth	Squelette		
 pb	388	0392	4803756
-entry	Squelette [A. Sanson]. 	0	
-orth	Squelette. 		
 pb	389	0393	4803757
 entry	Squelette [A. Sanson]. Rachis	8	
 orth	Squelette. Rachis		
@@ -607,8 +579,8 @@ orth	Squelette. Membres
 pb	410	0414	4803778
 pb	411	0415	4803779
 pb	412	0416	4803780
-entry	Steppes (Race bovine des) [A. Sanson]. 	5	
-orth	Steppes (Race bovine des). 		
+entry	Steppes (Race bovine des) [A. Sanson]	5	
+orth	Steppes (Race bovine des)		
 pb	413	0417	4803781
 pb	414	0418	4803782
 pb	415	0419	4803783
@@ -624,8 +596,7 @@ pb	420	0424	4803788
 entry	Steppes (race bovine des) [A. Sanson]. Variété hongroise	1	
 orth	Steppes (race bovine des). Variété hongroise		
 pb	421	0425	4803789
-entry	Steppes (race bovine des) [A. Sanson]. Variété podolienne	0	
-orth	Steppes (race bovine des). Variété podolienne		
+entry	Variété podolienne	0	
 entry	Steppes (race bovine des) [A. Sanson]. Variété dalmate	1	
 orth	Steppes (race bovine des). Variété dalmate		
 pb	422	0426	4803790
@@ -634,15 +605,15 @@ pb	423	0427	4803791
 entry	Steppes (race bovine des) [A. Sanson]. Variété camargue	0	
 orth	Steppes (race bovine des). Variété camargue		
 pb	424	0428	4803792
-entry	Stérilité [A. Sanson]. 	4	
-orth	Stérilité. 		
+entry	Stérilité [A. Sanson]	5	
+orth	Stérilité		
 pb	425	0429	4803793
 pb	426	0430	4803794
 pb	427	0431	4803795
 pb	428	0432	4803796
 pb	429	0433	4803797
-entry	Stérilité [A. Sanson]. Stimulants [M. Kaufmann]. 	0	
-orth	Stérilité. Stimulants. 		
+entry	Stimulants [M. Kaufmann]	0	
+orth	Stimulants		
 pb	430	0434	4803798
 entry	Stimulants [M. Kaufmann]. Stimulants généraux	1	
 orth	Stimulants. Stimulants généraux		
@@ -653,8 +624,8 @@ pb	432	0436	4803800
 pb	433	0437	4803801
 entry	Stimulants locaux	0	
 pb	434	0438	4803802
-entry	Stomatite [C. Cadéac]. 	1	
-orth	Stomatite. 		
+entry	Stomatite [C. Cadéac]	1	
+orth	Stomatite		
 pb	435	0439	4803803
 pb	436	0440	4803804
 entry	Stomatite [C. Cadéac]. Stomatite simple	10	
@@ -695,8 +666,8 @@ pb	463	0467	4803831
 pb	464	0468	4803832
 pb	465	0469	4803833
 pb	466	0470	4803834
-entry	Substitutifs [M. Kaufmann]. 	6	
-orth	Substitutifs. 		
+entry	Substitutifs [M. Kaufmann]	6	
+orth	Substitutifs		
 pb	467	0471	4803835
 pb	468	0472	4803836
 pb	469	0473	4803837
@@ -713,8 +684,8 @@ orth	Suffolk. Variété bovine suffolk
 pb	476	0480	4803844
 pb	477	0481	4803845
 pb	478	0482	4803846
-entry	Suidés [A. Sanson]. 	17	
-orth	Suidés. 		
+entry	Suidés [A. Sanson]	18	
+orth	Suidés		
 pb	479	0483	4803847
 pb	480	0484	4803848
 pb	481	0485	4803849
@@ -733,11 +704,9 @@ pb	493	0497	4803861
 pb	494	0498	4803862
 pb	495	0499	4803863
 pb	496	0500	4803864
-entry	Suidés [A. Sanson]. Suppuration [Ed. Nocard]. 	0	
-orth	Suidés. Suppuration. 		
+entry	Suppuration [Ed. Nocard]	2	
+orth	Suppuration		
 pb	497	0501	4803865
-entry	Suppuration [Ed. Nocard]. 	1	
-orth	Suppuration. 		
 pb	498	0502	4803866
 pb	499	0503	4803867
 entry	Suppuration [Ed. Nocard]. Les microbes du pus	15	
@@ -757,18 +726,15 @@ pb	511	0515	4803879
 pb	512	0516	4803880
 pb	513	0517	4803881
 pb	514	0518	4803882
-entry	Suppuration [Ed. Nocard]. Suros	0	
-orth	Suppuration. Suros		
-entry	Suspension [F. Peuch]. 	2	
-orth	Suspension. 		
+entry	Suros	0	
+entry	Suspension [F. Peuch]	3	
+orth	Suspension		
 pb	515	0519	4803883
 pb	516	0520	4803884
 pb	571	0521	4803885
-entry	Suspension [F. Peuch]. Suture [F. Peuch]. 	0	
-orth	Suspension. Suture. 		
+entry	Suture [F. Peuch]	10	
+orth	Suture		
 pb	518	0522	4803886
-entry	Suture [F. Peuch]. 	8	
-orth	Suture. 		
 pb	519	0523	4803887
 pb	520	0524	4803888
 pb	521	0525	4803889
@@ -778,11 +744,11 @@ pb	524	0528	4803892
 pb	525	0529	4803893
 pb	526	0530	4803894
 pb	527	0531	4803895
-entry	Suture [F. Peuch]. Synovite [F. Peuch]. Synovite aiguë	0	
-orth	Suture. Synovite. Synovite aiguë		
-pb	528	0532	4803896
-entry	Synovite [F. Peuch]. Synovite aiguë	3	
+entry	Synovite [F. Peuch]	0	
+orth	Synovite		
+entry	Synovite [F. Peuch]. Synovite aiguë	4	
 orth	Synovite. Synovite aiguë		
+pb	528	0532	4803896
 pb	529	0533	4803897
 pb	530	0534	4803898
 pb	531	0535	4803899
@@ -790,8 +756,8 @@ entry	Synovite [F. Peuch]. Synovite chronique	2
 orth	Synovite. Synovite chronique		
 pb	532	0536	4803900
 pb	533	0537	4803901
-entry	Syrie (Race ovine de) [A. Sanson]. 	6	
-orth	Syrie (Race ovine de). 		
+entry	Syrie (Race ovine de) [A. Sanson]	6	
+orth	Syrie (Race ovine de)		
 pb	534	0538	4803902
 pb	535	0539	4803903
 pb	536	0540	4803904
@@ -805,13 +771,11 @@ pb	541	0545	4803909
 entry	Syrie (Race ovine de) [A. Sanson]. Variété de la Perse	1	
 orth	Syrie (Race ovine de). Variété de la Perse		
 pb	542	0546	4803910
-entry	Syrie (Race ovine de) [A. Sanson]. Variété de l'Arabie	0	
-orth	Syrie (Race ovine de). Variété de l'Arabie		
+entry	Variété de l'Arabie	0	
 entry	Syrie (Race ovine de) [A. Sanson]. Variétés de l'Asie mineure et de la Grèce	1	
 orth	Syrie (Race ovine de). Variétés de l'Asie mineure et de la Grèce		
 pb	543	0547	4803911
-entry	Syrie (Race ovine de) [A. Sanson]. Variété russe	0	
-orth	Syrie (Race ovine de). Variété russe		
+entry	Variété russe	0	
 entry	Syrie (Race ovine de) [A. Sanson]. Variété hongroise Zackel	1	
 orth	Syrie (Race ovine de). Variété hongroise Zackel		
 pb	544	0548	4803912
@@ -829,20 +793,17 @@ pb	551	0555	4803919
 pb	552	0556	4803920
 pb	553	0557	4803921
 pb	554	0558	4803922
-entry	Syrie (Race ovine de) [A. Sanson]. Variété dauphinoise	0	
-orth	Syrie (Race ovine de). Variété dauphinoise		
+entry	Variété dauphinoise	0	
 entry	Variété savoisienne	0	
 pb	555	0559	4803923
-entry	Tarentaise [A. Sanson]. 	2	
-orth	Tarentaise. 		
+entry	Tarentaise [A. Sanson]	3	
+orth	Tarentaise		
 pb	556	0560	4803924
 pb	557	0561	4803925
 pb	558	0562	4803926
-entry	Tarentaise [A. Sanson]. Teignes [G. Neumann]. 	0	
-orth	Tarentaise. Teignes. 		
+entry	Teignes [G. Neumann]	2	
+orth	Teignes		
 pb	559	0563	4803927
-entry	Teignes [G. Neumann]. 	1	
-orth	Teignes. 		
 pb	560	0564	4803928
 pb	561	0565	4803929
 entry	Teignes [G. Neumann]. Trichophytie	13	

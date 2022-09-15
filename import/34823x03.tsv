@@ -1,15 +1,13 @@
 pb	[s. pag.]	0001	4792373
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4792374
 entry	Liste des collaborateurs du troisième volume	0	
 pb	[s. pag.]	0003	4792375
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4792376
 pb	1	0005	4792377
-entry	Cancer [Paul Broca]. 	10	
-orth	Cancer. 		
+entry	Cancer [Paul Broca]	10	
+orth	Cancer		
 pb	2	0006	4792378
 pb	3	0007	4792379
 pb	4	0008	4792380
@@ -88,8 +86,8 @@ orth	Canon. Pathologie
 pb	65	0069	4792441
 pb	66	0070	4792442
 pb	67	0071	4792443
-entry	Carie [Henri-Marie Bouley]. 	0	
-orth	Carie. 		
+entry	Carie [Henri-Marie Bouley]	0	
+orth	Carie		
 pb	68	0072	4792444
 entry	Carie [Henri-Marie Bouley]. De la carie superficielle	1	
 orth	Carie. De la carie superficielle		
@@ -105,8 +103,8 @@ pb	75	0079	4792451
 pb	76	0080	4792452
 pb	77	0081	4792453
 pb	78	0082	4792454
-entry	Cartilages [A. Lavocat]. 	9	
-orth	Cartilages. 		
+entry	Cartilages [A. Lavocat]	10	
+orth	Cartilages		
 pb	79	0083	4792455
 pb	80	0084	4792456
 pb	81	0085	4792457
@@ -117,11 +115,9 @@ pb	85	0089	4792461
 pb	86	0090	4792462
 pb	87	0091	4792463
 pb	88	0092	4792464
-entry	Cartilages [A. Lavocat]. Castration [Henri-Marie Bouley]. 	0	
-orth	Cartilages. Castration. 		
+entry	Castration [Henri-Marie Bouley]	5	
+orth	Castration		
 pb	89	0093	4792465
-entry	Castration [Henri-Marie Bouley]. 	4	
-orth	Castration. 		
 pb	90	0094	4792466
 pb	91	0095	4792467
 pb	92	0096	4792468
@@ -268,8 +264,7 @@ pb	200	0204	4792576
 pb	201	0205	4792577
 pb	202	0206	4792578
 pb	203	0207	4792579
-entry	Castration [Henri-Marie Bouley]. De la castration des monodactyles. Castration des didactyles	0	
-orth	Castration. De la castration des monodactyles. Castration des didactyles		
+entry	Castration des didactyles	0	
 entry	Castration [Henri-Marie Bouley]. Castration des didactyles. Castration du taureau	3	
 orth	Castration. Castration des didactyles. Castration du taureau		
 pb	204	0208	4792580
@@ -325,8 +320,7 @@ pb	233	0237	4792609
 entry	Castration [Henri-Marie Bouley]. Castration des didactyles. De la castration des petits ruminants. De la castration des agneaux par arrachement, torsion ou excision	1	
 orth	Castration. Castration des didactyles. De la castration des petits ruminants. De la castration des agneaux par arrachement, torsion ou excision		
 pb	234	0238	4792610
-entry	Castration [Henri-Marie Bouley]. Castration des didactyles. De la castration des petits ruminants. De la castration du bélier par le bistournage	0	
-orth	Castration. Castration des didactyles. De la castration des petits ruminants. De la castration du bélier par le bistournage		
+entry	De la castration du bélier par le bistournage	0	
 entry	Castration [Henri-Marie Bouley]. Castration des didactyles. De la castration des petits ruminants. De la castration du bélier par le fouettage ou billonnage	1	
 orth	Castration. Castration des didactyles. De la castration des petits ruminants. De la castration du bélier par le fouettage ou billonnage		
 pb	235	0239	4792611
@@ -397,8 +391,7 @@ entry	Castration [Henri-Marie Bouley]. De la castration des femelles [P. Charlie
 orth	Castration. De la castration des femelles. De la castration des petites femelles domestiques. De la castration de la chienne		
 pb	281	0285	4792657
 pb	282	0286	4792658
-entry	Castration [Henri-Marie Bouley]. De la castration des femelles [P. Charlier]. De la castration des petites femelles domestiques [Henri-Marie Bouley]. De la castration sur les oiseaux de basse-cour	0	
-orth	Castration. De la castration des femelles. De la castration des petites femelles domestiques. De la castration sur les oiseaux de basse-cour		
+entry	De la castration sur les oiseaux de basse-cour	0	
 entry	Castration [Henri-Marie Bouley]. De la castration des femelles [P. Charlier]. De la castration sur les oiseaux de basse-cour. De la castration des oiseaux mâles	4	
 orth	Castration. De la castration des femelles. De la castration sur les oiseaux de basse-cour. De la castration des oiseaux mâles		
 pb	283	0287	4792659
@@ -409,10 +402,9 @@ entry	Castration [Henri-Marie Bouley]. De la castration des femelles [P. Charlie
 orth	Castration. De la castration des femelles. De la castration sur les oiseaux de basse-cour. De la castration des oiseaux femelles		
 pb	287	0291	4792663
 pb	288	0292	4792664
-entry	Castration [Henri-Marie Bouley]. De la castration des femelles [P. Charlier]. De la castration sur les oiseaux de basse-cour. Cataracte	0	
-orth	Castration. De la castration des femelles. De la castration sur les oiseaux de basse-cour. Cataracte		
-entry	Catarrhe des cornes [Cruzel]. 	4	
-orth	Catarrhe des cornes. 		
+entry	Cataracte	0	
+entry	Catarrhe des cornes [Cruzel]	4	
+orth	Catarrhe des cornes		
 pb	289	0293	4792665
 pb	290	0294	4792666
 pb	291	0295	4792667
@@ -420,8 +412,8 @@ pb	292	0296	4792668
 pb	293	0297	4792669
 entry	Catarrhe des cornes [Cruzel]. Cathétérisme	0	
 orth	Catarrhe des cornes. Cathétérisme		
-entry	Causes [S. Verheyen]. 	9	
-orth	Causes. 		
+entry	Causes [S. Verheyen]	9	
+orth	Causes		
 pb	294	0298	4792670
 pb	295	0299	4792671
 pb	296	0300	4792672
@@ -434,8 +426,8 @@ pb	302	0306	4792678
 pb	303	0307	4792679
 entry	Causes [S. Verheyen]. Cautère	0	
 orth	Causes. Cautère		
-entry	Cautérisation [Henri-Marie Bouley]. 	0	
-orth	Cautérisation. 		
+entry	Cautérisation [Henri-Marie Bouley]	0	
+orth	Cautérisation		
 pb	304	0308	4792680
 entry	Cautérisation [Henri-Marie Bouley]. De la cautérisation actuelle	7	
 orth	Cautérisation. De la cautérisation actuelle		
@@ -446,8 +438,7 @@ pb	308	0312	4792684
 pb	309	0313	4792685
 pb	310	0314	4792686
 pb	311	0315	4792687
-entry	Cautérisation [Henri-Marie Bouley]. De la cautérisation superficielle immédiate	0	
-orth	Cautérisation. De la cautérisation superficielle immédiate		
+entry	De la cautérisation superficielle immédiate	0	
 entry	Cautérisation [Henri-Marie Bouley]. De la cautérisation actuelle. De la cautérisation superficielle immédiate. De la cautérisation transcurrente ou en raies	1	
 orth	Cautérisation. De la cautérisation actuelle. De la cautérisation superficielle immédiate. De la cautérisation transcurrente ou en raies		
 pb	312	0316	4792688
@@ -587,8 +578,8 @@ pb	407	0411	4792783
 pb	408	0412	4792784
 pb	409	0413	4792785
 entry	Cécité	0	
-entry	Cellulaire (tissu) [A. Sanson]. 	10	
-orth	Cellulaire (tissu). 		
+entry	Cellulaire (tissu) [A. Sanson]	10	
+orth	Cellulaire (tissu)		
 pb	410	0414	4792786
 pb	411	0415	4792787
 pb	412	0416	4792788
@@ -602,10 +593,9 @@ pb	419	0423	4792795
 pb	420	0424	4792796
 entry	Cellulaire (tissu) [A. Sanson]. Céphalotomie	0	
 orth	Cellulaire (tissu). Céphalotomie		
-entry	Cellulaire (tissu) [A. Sanson]. Cerveau	0	
-orth	Cellulaire (tissu). Cerveau		
-entry	Chaleur (coup de) [Henri-Marie Bouley]. 	15	
-orth	Chaleur (coup de). 		
+entry	Cerveau	0	
+entry	Chaleur (coup de) [Henri-Marie Bouley]	16	
+orth	Chaleur (coup de)		
 pb	421	0425	4792797
 pb	422	0426	4792798
 pb	423	0427	4792799
@@ -622,11 +612,9 @@ pb	433	0437	4792809
 pb	434	0438	4792810
 pb	435	0439	4792811
 pb	436	0440	4792812
-entry	Chaleur (coup de) [Henri-Marie Bouley]. Champignon [Henri-Marie Bouley]. 	0	
-orth	Chaleur (coup de). Champignon. 		
+entry	Champignon [Henri-Marie Bouley]	8	
+orth	Champignon		
 pb	437	0441	4792813
-entry	Champignon [Henri-Marie Bouley]. 	7	
-orth	Champignon. 		
 pb	438	0442	4792814
 pb	439	0443	4792815
 pb	440	0444	4792816
@@ -660,10 +648,9 @@ pb	461	0465	4792837
 pb	462	0466	4792838
 pb	463	0467	4792839
 pb	464	0468	4792840
-entry	Champignon [Henri-Marie Bouley]. Chancre	0	
-orth	Champignon. Chancre		
-entry	Charbon [Eug. Renault, Reynal]. 	0	
-orth	Charbon. 		
+entry	Chancre	0	
+entry	Charbon [Eug. Renault, Reynal]	0	
+orth	Charbon		
 pb	465	0469	4792841
 entry	Charbon [Eug. Renault, Reynal]. Synonymie	1	
 orth	Charbon. Synonymie		
@@ -841,8 +828,8 @@ entry	Cheval [Eug. Gayot]. Les chevaux de trait	2
 orth	Cheval. Les chevaux de trait		
 pb	611	0615	4792987
 pb	612	0616	4792988
-entry	Chiens (maladie des) [C. Leblanc]. 	3	
-orth	Chiens (maladie des). 		
+entry	Chiens (maladie des) [C. Leblanc]	3	
+orth	Chiens (maladie des)		
 pb	613	0617	4792989
 pb	614	0618	4792990
 pb	615	0619	4792991
@@ -869,8 +856,8 @@ pb	629	0633	4793005
 entry	Chiens (maladie des) [C. Leblanc]. De la maladie éruptive	1	
 orth	Chiens (maladie des). De la maladie éruptive		
 pb	630	0634	4793006
-entry	Chirurgie [Henri-Marie Bouley]. 	10	
-orth	Chirurgie. 		
+entry	Chirurgie [Henri-Marie Bouley]	10	
+orth	Chirurgie		
 pb	631	0635	4793007
 pb	632	0636	4793008
 pb	633	0637	4793009
@@ -884,8 +871,8 @@ pb	640	0644	4793016
 pb	641	0645	4793017
 entry	Chirurgie [Henri-Marie Bouley]. Chloroforme	0	
 orth	Chirurgie. Chloroforme		
-entry	Choléra (des oiseaux de basse-cour) [Reynal]. 	22	
-orth	Choléra (des oiseaux de basse-cour). 		
+entry	Choléra (des oiseaux de basse-cour) [Reynal]	23	
+orth	Choléra (des oiseaux de basse-cour)		
 pb	642	0646	4793018
 pb	643	0647	4793019
 pb	644	0648	4793020
@@ -909,15 +896,13 @@ pb	661	0665	4793037
 pb	662	0666	4793038
 pb	663	0667	4793039
 pb	664	0668	4793040
-entry	Choléra (des oiseaux de basse-cour) [Reynal]. Cholestéatome [S. Verheyen]. 	0	
-orth	Choléra (des oiseaux de basse-cour). Cholestéatome. 		
+entry	Cholestéatome [S. Verheyen]	2	
+orth	Cholestéatome		
 pb	665	0669	4793041
-entry	Cholestéatome [S. Verheyen]. 	1	
-orth	Cholestéatome. 		
 pb	666	0670	4793042
 pb	667	0671	4793043
-entry	Chorée [S. Verheyen]. 	7	
-orth	Chorée. 		
+entry	Chorée [S. Verheyen]	7	
+orth	Chorée		
 pb	668	0672	4793044
 pb	669	0673	4793045
 pb	670	0674	4793046
@@ -928,12 +913,9 @@ pb	674	0678	4793050
 pb	675	0679	4793051
 entry	Chorée [S. Verheyen]. Chyle et Chyme	0	
 orth	Chorée. Chyle et Chyme		
-entry	Chorée [S. Verheyen]. Chylifères	0	
-orth	Chorée. Chylifères		
-entry	Chorée [S. Verheyen]. Circulation	0	
-orth	Chorée. Circulation		
-entry	Chorée [S. Verheyen]. Claudication	0	
-orth	Chorée. Claudication		
+entry	Chylifères	0	
+entry	Circulation	0	
+entry	Claudication	0	
 entry	Clavelée [Eug. Renault, Reynal]. Synonymie	1	
 orth	Clavelée. Synonymie		
 pb	676	0680	4793052
@@ -968,8 +950,7 @@ pb	690	0694	4793066
 pb	691	0695	4793067
 entry	Clavelée [Eug. Renault, Reynal]. Division de la clavelée. De la marche et des symptômes de la clavelée irrégulière	0	
 orth	Clavelée. Division de la clavelée. De la marche et des symptômes de la clavelée irrégulière		
-entry	Clavelée [Eug. Renault, Reynal]. Division de la clavelée. Récidives	0	
-orth	Clavelée. Division de la clavelée. Récidives		
+entry	Récidives	0	
 entry	Clavelée [Eug. Renault, Reynal]. Division de la clavelée. De la marche et des symptômes de la clavelée irrégulière. Lésions morbides	3	
 orth	Clavelée. Division de la clavelée. De la marche et des symptômes de la clavelée irrégulière. Lésions morbides		
 pb	692	0696	4793068
@@ -1008,8 +989,8 @@ orth	Clavelée. De la clavelée sous le rapport de la jurisprudence
 pb	715	0719	4793091
 pb	716	0720	4793092
 pb	717	0721	4793093
-entry	Clavelisation [Reynal]. 	36	
-orth	Clavelisation. 		
+entry	Clavelisation [Reynal]	36	
+orth	Clavelisation		
 pb	718	0722	4793094
 pb	719	0723	4793095
 pb	720	0724	4793096

@@ -1,39 +1,34 @@
 pb	[s. pag.]	0001	4790905
-entry	[Page de faux-titre]. 	0	
-orth	. 		
+entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4790906
 entry	Liste des collaborateurs du premier volume	0	
 pb	[s. pag.]	0003	4790907
-entry	[Page de titre]. 	0	
-orth	. 		
+entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4790908
 pb	[s. pag.]	0005	4790909
-entry	[Dédicace]. 	1	
-orth	. 		
+entry	[Dédicace]	1	
 pb	[s. pag.]	0006	4790910
 pb	VII	0007	4790911
-entry	Avertissement [Henri-Marie Bouley, Reynal]. 	5	
-orth	Avertissement. 		
+entry	Avertissement [Henri-Marie Bouley, Reynal]	5	
+orth	Avertissement		
 pb	VIII	0008	4790912
 pb	IX	0009	4790913
 pb	X	0010	4790914
 pb	XI	0011	4790915
 pb	XII	0012	4790916
 pb	1	0013	4790917
-entry	Abatage [Reynal]. 	2	
-orth	Abatage. 		
+entry	Abatage [Reynal]	3	
+orth	Abatage		
 pb	2	0014	4790918
 pb	3	0015	4790919
 pb	4	0016	4790920
-entry	Abatage [Reynal]. Abattoir [Patté]. 	0	
-orth	Abatage. Abattoir. 		
+entry	Abattoir [Patté]	2	
+orth	Abattoir		
 pb	5	0017	4790921
-entry	Abattoir [Patté]. 	1	
-orth	Abattoir. 		
 pb	6	0018	4790922
 pb	7	0019	4790923
-entry	Abcès [Henri-Marie Bouley]. 	0	
-orth	Abcès. 		
+entry	Abcès [Henri-Marie Bouley]	0	
+orth	Abcès		
 pb	8	0020	4790924
 entry	Abcès [Henri-Marie Bouley]. Des abcès chauds	0	
 orth	Abcès. Des abcès chauds		
@@ -103,13 +98,11 @@ pb	55	0067	4790971
 entry	Abcès [Henri-Marie Bouley]. Des abcès froids	1	
 orth	Abcès. Des abcès froids		
 pb	56	0068	4790972
-entry	Abcès [Henri-Marie Bouley]. Division des abcès froids	0	
-orth	Abcès. Division des abcès froids		
+entry	Division des abcès froids	0	
 entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Causes et siége des abcès froids	1	
 orth	Abcès. Des abcès froids. Causes et siége des abcès froids		
 pb	57	0069	4790973
-entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Formes des abcès froids	0	
-orth	Abcès. Des abcès froids. Formes des abcès froids		
+entry	Formes des abcès froids	0	
 entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Mode de formation, caractères anatomiques et marche des abcès froids	5	
 orth	Abcès. Des abcès froids. Mode de formation, caractères anatomiques et marche des abcès froids		
 pb	58	0070	4790974
@@ -121,20 +114,16 @@ entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Symptômes et diagnostics 
 orth	Abcès. Des abcès froids. Symptômes et diagnostics des abcès froids		
 pb	63	0075	4790979
 pb	64	0076	4790980
-entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Pronostic des abcès froids	0	
-orth	Abcès. Des abcès froids. Pronostic des abcès froids		
+entry	Pronostic des abcès froids	0	
 entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Traitement des abcès froids	2	
 orth	Abcès. Des abcès froids. Traitement des abcès froids		
 pb	65	0077	4790981
 pb	66	0078	4790982
-entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Abcès métastatiques	0	
-orth	Abcès. Des abcès froids. Abcès métastatiques		
-entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Abcès salivaires	0	
-orth	Abcès. Des abcès froids. Abcès salivaires		
-entry	Abcès [Henri-Marie Bouley]. Des abcès froids. Abcès des sinus	0	
-orth	Abcès. Des abcès froids. Abcès des sinus		
-entry	Abdomen [Reynal]. 	12	
-orth	Abdomen. 		
+entry	Abcès métastatiques	0	
+entry	Abcès salivaires	0	
+entry	Abcès des sinus	0	
+entry	Abdomen [Reynal]	13	
+orth	Abdomen		
 pb	67	0079	4790983
 pb	68	0080	4790984
 pb	69	0081	4790985
@@ -148,11 +137,9 @@ pb	76	0088	4790992
 pb	77	0089	4790993
 pb	78	0090	4790994
 pb	79	0091	4790995
-entry	Abdomen [Reynal]. Abeille [Delplanque]. 	0	
-orth	Abdomen. Abeille. 		
+entry	Abeille [Delplanque]	5	
+orth	Abeille		
 pb	80	0092	4790996
-entry	Abeille [Delplanque]. 	4	
-orth	Abeille. 		
 pb	81	0093	4790997
 pb	82	0094	4790998
 pb	83	0095	4790999
@@ -162,9 +149,9 @@ entry	Abeille [Delplanque]. Abreuvoir	0
 orth	Abeille. Abreuvoir		
 pb	86	0098	4791002
 entry	Absinthe	0	
-entry	. Absorbants	0	
-entry	Absorption [Patté]. 	21	
-orth	Absorption. 		
+entry	Absorbants	0	
+entry	Absorption [Patté]	22	
+orth	Absorption		
 pb	87	0099	4791003
 pb	88	0100	4791004
 pb	89	0101	4791005
@@ -187,10 +174,11 @@ pb	105	0117	4791021
 pb	106	0118	4791022
 pb	107	0119	4791023
 pb	108	0120	4791024
-entry	Absorption [Patté]. Abstinence	0	
-orth	Absorption. Abstinence		
-entry	Acarus [Delplanque]. Acclimatement [J.-H. Magne]. 	0	
-orth	Acarus. Acclimatement. 		
+entry	Abstinence	0	
+entry	Acarus [Delplanque]	0	
+orth	Acarus		
+entry	Acclimatement [J.-H. Magne]	0	
+orth	Acclimatement		
 pb	109	0121	4791025
 entry	Acclimatement [J.-H. Magne]. Grand acclimatement	2	
 orth	Acclimatement. Grand acclimatement		
@@ -203,8 +191,8 @@ pb	113	0125	4791029
 pb	114	0126	4791030
 pb	115	0127	4791031
 pb	116	0128	4791032
-entry	Accouplement [J.-H. Magne]. 	4	
-orth	Accouplement. 		
+entry	Accouplement [J.-H. Magne]	4	
+orth	Accouplement		
 pb	117	0129	4791033
 pb	118	0130	4791034
 pb	119	0131	4791035
@@ -212,10 +200,9 @@ pb	120	0132	4791036
 pb	121	0133	4791037
 entry	Accouplement [J.-H. Magne]. Acéphale	0	
 orth	Accouplement. Acéphale		
-entry	Accouplement [J.-H. Magne]. Acéphalocyste	0	
-orth	Accouplement. Acéphalocyste		
-entry	Acétate [É. Clément]. 	2	
-orth	Acétate. 		
+entry	Acéphalocyste	0	
+entry	Acétate [É. Clément]	2	
+orth	Acétate		
 pb	122	0134	4791038
 pb	123	0135	4791039
 pb	124	0136	4791040
@@ -254,19 +241,17 @@ pb	142	0154	4791058
 pb	143	0155	4791059
 entry	Acétate de soude	0	
 pb	144	0156	4791060
-entry	Acétique (acide) [É. Clément]. 	5	
-orth	Acétique (acide). 		
+entry	Acétique (acide) [É. Clément]	6	
+orth	Acétique (acide)		
 pb	145	0157	4791061
 pb	146	0158	4791062
 pb	147	0159	4791063
 pb	148	0160	4791064
 pb	149	0161	4791065
 pb	150	0162	4791066
-entry	Acétique (acide) [É. Clément]. Acide [É. Clément]. 	0	
-orth	Acétique (acide). Acide. 		
+entry	Acide [É. Clément]	8	
+orth	Acide		
 pb	151	0163	4791067
-entry	Acide [É. Clément]. 	6	
-orth	Acide. 		
 pb	152	0164	4791068
 pb	153	0165	4791069
 pb	154	0166	4791070
@@ -274,18 +259,20 @@ pb	155	0167	4791071
 pb	156	0168	4791072
 pb	157	0169	4791073
 pb	158	0170	4791074
-entry	Acide [É. Clément]. Acidules	0	
-orth	Acide. Acidules		
-entry	Acide [É. Clément]. Acné	0	
-orth	Acide. Acné		
-entry	Aconit [Delplanque]. Aconit Napel [Delplanque]. 	0	
-orth	Aconit. Aconit Napel. 		
+entry	Acidules	0	
+entry	Acné	0	
+entry	Aconit [Delplanque]	0	
+orth	Aconit		
+entry	Aconit Napel [Delplanque]	1	
+orth	Aconit Napel		
 pb	159	0171	4791075
-entry	Aconit Napel [Delplanque]. Acotylédonées [Delplanque]. Acrobustite [Reynal]. Acrobustite du cheval	0	
-orth	Aconit Napel. Acotylédonées. Acrobustite. Acrobustite du cheval		
-pb	160	0172	4791076
-entry	Acrobustite [Reynal]. Acrobustite du cheval	2	
+entry	Acotylédonées [Delplanque]	0	
+orth	Acotylédonées		
+entry	Acrobustite [Reynal]	0	
+orth	Acrobustite		
+entry	Acrobustite [Reynal]. Acrobustite du cheval	3	
 orth	Acrobustite. Acrobustite du cheval		
+pb	160	0172	4791076
 pb	161	0173	4791077
 pb	162	0174	4791078
 entry	Acrobustite [Reynal]. Acrobustite du boeuf	4	
@@ -303,10 +290,9 @@ pb	168	0180	4791084
 pb	169	0181	4791085
 pb	170	0182	4791086
 pb	171	0183	4791087
-entry	Acrobustite [Reynal]. Acrobustite du chien (syn. Action rédhibitoire	0	
-orth	Acrobustite. Acrobustite du chien (syn. Action rédhibitoire		
-entry	Acupuncture [Reynal]. 	6	
-orth	Acupuncture. 		
+entry	Action rédhibitoire	0	
+entry	Acupuncture [Reynal]	6	
+orth	Acupuncture		
 pb	172	0184	4791088
 pb	173	0185	4791089
 pb	174	0186	4791090
@@ -316,8 +302,8 @@ pb	177	0189	4791093
 pb	178	0190	4791094
 entry	Acupuncture [Reynal]. Adénite	0	
 orth	Acupuncture. Adénite		
-entry	Adipeux (tissu) [Patté]. 	5	
-orth	Adipeux (tissu). 		
+entry	Adipeux (tissu) [Patté]	5	
+orth	Adipeux (tissu)		
 pb	179	0191	4791095
 pb	180	0192	4791096
 pb	181	0193	4791097
@@ -326,10 +312,8 @@ pb	183	0195	4791099
 pb	184	0196	4791100
 entry	Adipeux (tissu) [Patté]. Adragante	0	
 orth	Adipeux (tissu). Adragante		
-entry	Adipeux (tissu) [Patté]. Affusion	0	
-orth	Adipeux (tissu). Affusion		
-entry	Adipeux (tissu) [Patté]. Agaric	0	
-orth	Adipeux (tissu). Agaric		
+entry	Affusion	0	
+entry	Agaric	0	
 entry	Ages (périodes de la vie) [Henri-Marie Bouley]. Considérations générales sur les âges	5	
 orth	Ages (périodes de la vie). Considérations générales sur les âges		
 pb	185	0197	4791101
@@ -458,25 +442,22 @@ orth	Age. Age du chien
 pb	270	0282	4791186
 pb	271	0283	4791187
 pb	272	0284	4791188
-entry	Age [Reynal]. Agglutinatif	0	
-orth	Age. Agglutinatif		
-entry	Aggravée [Henri-Marie Bouley]. 	2	
-orth	Aggravée. 		
+entry	Agglutinatif	0	
+entry	Aggravée [Henri-Marie Bouley]	3	
+orth	Aggravée		
 pb	273	0285	4791189
 pb	274	0286	4791190
 pb	275	0287	4791191
-entry	Aggravée [Henri-Marie Bouley]. Agriculture [J.-H. Magne]. 	0	
-orth	Aggravée. Agriculture. 		
+entry	Agriculture [J.-H. Magne]	6	
+orth	Agriculture		
 pb	276	0288	4791192
-entry	Agriculture [J.-H. Magne]. 	4	
-orth	Agriculture. 		
 pb	277	0289	4791193
 pb	278	0290	4791194
 pb	279	0291	4791195
 pb	280	0292	4791196
 pb	281	0293	4791197
-entry	Agriculture [J.-H. Magne]. Aigremoine [É. Clément]. 	0	
-orth	Agriculture. Aigremoine. 		
+entry	Aigremoine [É. Clément]	0	
+orth	Aigremoine		
 pb	282	0294	4791198
 entry	Aigremoine [É. Clément]. Aiguilles	0	
 orth	Aigremoine. Aiguilles		
@@ -496,16 +477,16 @@ pb	291	0303	4791207
 pb	292	0304	4791208
 pb	293	0305	4791209
 pb	294	0306	4791210
-entry	Ajonc [É. Clément]. 	3	
-orth	Ajonc. 		
+entry	Ajonc [É. Clément]	3	
+orth	Ajonc		
 pb	295	0307	4791211
 pb	296	0308	4791212
 pb	297	0309	4791213
 pb	298	0310	4791214
 entry	Ajonc [É. Clément]. Albugo	0	
 orth	Ajonc. Albugo		
-entry	Albumine [É. Clément]. 	0	
-orth	Albumine. 		
+entry	Albumine [É. Clément]	0	
+orth	Albumine		
 pb	299	0311	4791215
 entry	Albumine [É. Clément]. Albumine animale	2	
 orth	Albumine. Albumine animale		
@@ -520,12 +501,12 @@ orth	Albumine. Albumine végétale
 pb	304	0316	4791220
 pb	305	0317	4791221
 pb	306	0318	4791222
-entry	Albuminurie [Reynal]. 	1	
-orth	Albuminurie. 		
+entry	Albuminurie [Reynal]	2	
+orth	Albuminurie		
 pb	307	0319	4791223
 pb	308	0320	4791224
-entry	Albuminurie [Reynal]. Alcali [É. Clément]. 	0	
-orth	Albuminurie. Alcali. 		
+entry	Alcali [É. Clément]	0	
+orth	Alcali		
 pb	309	0321	4791225
 entry	Alcali [É. Clément]. Alcalis minéraux	5	
 orth	Alcali. Alcalis minéraux		
@@ -540,8 +521,8 @@ orth	Alcali. Alcalis végétaux
 pb	316	0328	4791232
 pb	317	0329	4791233
 pb	318	0330	4791234
-entry	Alcool [É. Clément]. 	7	
-orth	Alcool. 		
+entry	Alcool [É. Clément]	7	
+orth	Alcool		
 pb	319	0331	4791235
 pb	320	0332	4791236
 pb	321	0333	4791237
@@ -552,8 +533,8 @@ pb	325	0337	4791241
 pb	326	0338	4791242
 entry	Alcool [É. Clément]. Alezan	0	
 orth	Alcool. Alezan		
-entry	Aliment [J.-H. Magne]. 	8	
-orth	Aliment. 		
+entry	Aliment [J.-H. Magne]	9	
+orth	Aliment		
 pb	327	0339	4791243
 pb	328	0340	4791244
 pb	329	0341	4791245
@@ -563,27 +544,21 @@ pb	332	0344	4791248
 pb	333	0345	4791249
 pb	334	0346	4791250
 pb	335	0347	4791251
-entry	Aliment [J.-H. Magne]. Alimentation [J.-H. Magne]. 	0	
-orth	Aliment. Alimentation. 		
+entry	Alimentation [J.-H. Magne]	4	
+orth	Alimentation		
 pb	336	0348	4791252
-entry	Alimentation [J.-H. Magne]. 	2	
-orth	Alimentation. 		
 pb	337	0349	4791253
 pb	338	0350	4791254
 pb	339	0351	4791255
-entry	Alimentation [J.-H. Magne]. Allaitement [J.-H. Magne]. 	0	
-orth	Alimentation. Allaitement. 		
+entry	Allaitement [J.-H. Magne]	4	
+orth	Allaitement		
 pb	340	0352	4791256
-entry	Allaitement [J.-H. Magne]. 	2	
-orth	Allaitement. 		
 pb	341	0353	4791257
 pb	342	0354	4791258
 pb	343	0355	4791259
-entry	Allaitement [J.-H. Magne]. Allonge [Henri-Marie Bouley]. 	0	
-orth	Allaitement. Allonge. 		
+entry	Allonge [Henri-Marie Bouley]	11	
+orth	Allonge		
 pb	344	0356	4791260
-entry	Allonge [Henri-Marie Bouley]. 	10	
-orth	Allonge. 		
 pb	345	0357	4791261
 pb	346	0358	4791262
 pb	347	0359	4791263
@@ -595,8 +570,8 @@ pb	352	0364	4791268
 pb	353	0365	4791269
 pb	354	0366	4791270
 pb	355	0367	4791271
-entry	Allures [Henri-Marie Bouley]. 	0	
-orth	Allures. 		
+entry	Allures [Henri-Marie Bouley]	0	
+orth	Allures		
 pb	356	0368	4791272
 entry	Allures [Henri-Marie Bouley]. Considérations générales sur la locomotion	7	
 orth	Allures. Considérations générales sur la locomotion		
@@ -656,8 +631,7 @@ entry	Allures [Henri-Marie Bouley]. Des allures en particulier. De l'amble	2
 orth	Allures. Des allures en particulier. De l'amble		
 pb	401	0413	4791317
 pb	402	0414	4791318
-entry	Allures [Henri-Marie Bouley]. Des allures en particulier. Du traquenard	0	
-orth	Allures. Des allures en particulier. Du traquenard		
+entry	Du traquenard	0	
 entry	Allures [Henri-Marie Bouley]. Des allures en particulier. Du galop	1	
 orth	Allures. Des allures en particulier. Du galop		
 pb	403	0415	4791319
@@ -677,8 +651,8 @@ pb	410	0422	4791326
 entry	Allures [Henri-Marie Bouley]. Des allures en particulier. Du galop. De l'aubin	1	
 orth	Allures. Des allures en particulier. Du galop. De l'aubin		
 pb	411	0423	4791327
-entry	Aloès [É. Clément]. 	5	
-orth	Aloès. 		
+entry	Aloès [É. Clément]	5	
+orth	Aloès		
 pb	412	0424	4791328
 pb	413	0425	4791329
 pb	414	0426	4791330
@@ -687,8 +661,7 @@ pb	416	0428	4791332
 pb	417	0429	4791333
 entry	Aloès [É. Clément]. Altérants	0	
 orth	Aloès. Altérants		
-entry	Aloès [É. Clément]. Alun	0	
-orth	Aloès. Alun		
+entry	Alun	0	
 entry	Amaurose [Henri-Marie Bouley]. Symptômes de l'amaurose	3	
 orth	Amaurose. Symptômes de l'amaurose		
 pb	418	0430	4791334
@@ -710,8 +683,7 @@ pb	427	0439	4791343
 pb	428	0440	4791344
 pb	429	0441	4791345
 pb	430	0442	4791346
-entry	Amaurose [Henri-Marie Bouley]. Marche et pronostic de l'amaurose	0	
-orth	Amaurose. Marche et pronostic de l'amaurose		
+entry	Marche et pronostic de l'amaurose	0	
 entry	Amaurose [Henri-Marie Bouley]. Classifications de l'amaurose	1	
 orth	Amaurose. Classifications de l'amaurose		
 pb	431	0443	4791347
@@ -719,20 +691,20 @@ entry	Amaurose [Henri-Marie Bouley]. Traitement de l'amaurose	2
 orth	Amaurose. Traitement de l'amaurose		
 pb	432	0444	4791348
 pb	433	0445	4791349
-entry	Amélioration [J.-H. Magne]. 	2	
-orth	Amélioration. 		
+entry	Amélioration [J.-H. Magne]	2	
+orth	Amélioration		
 pb	434	0446	4791350
 pb	435	0447	4791351
 pb	436	0448	4791352
 entry	Amélioration [J.-H. Magne]. Amers	0	
 orth	Amélioration. Amers		
-entry	Amidon [É. Clément]. 	2	
-orth	Amidon. 		
+entry	Amidon [É. Clément]	2	
+orth	Amidon		
 pb	437	0449	4791353
 pb	438	0450	4791354
 pb	439	0451	4791355
-entry	Ammoniaque [É. Clément]. 	6	
-orth	Ammoniaque. 		
+entry	Ammoniaque [É. Clément]	7	
+orth	Ammoniaque		
 pb	440	0452	4791356
 pb	441	0453	4791357
 pb	442	0454	4791358
@@ -740,8 +712,8 @@ pb	443	0455	4791359
 pb	444	0456	4791360
 pb	445	0457	4791361
 pb	446	0458	4791362
-entry	Ammoniaque [É. Clément]. Amputation [Henri-Marie Bouley]. 	0	
-orth	Ammoniaque. Amputation. 		
+entry	Amputation [Henri-Marie Bouley]	0	
+orth	Amputation		
 pb	447	0459	4791363
 entry	Amputation [Henri-Marie Bouley]. Amputation des membres dans les animaux domestiques	3	
 orth	Amputation. Amputation des membres dans les animaux domestiques		
@@ -787,22 +759,21 @@ entry	Anasarque [Henri-Marie Bouley]. Diagnostic différentiel de l'anasarque	2
 orth	Anasarque. Diagnostic différentiel de l'anasarque		
 pb	476	0488	4791392
 pb	477	0489	4791393
-entry	Anasarque [Henri-Marie Bouley]. Pronostic de l'anasarque	0	
-orth	Anasarque. Pronostic de l'anasarque		
+entry	Pronostic de l'anasarque	0	
 entry	Anasarque [Henri-Marie Bouley]. Traitement de l'anasarque	4	
 orth	Anasarque. Traitement de l'anasarque		
 pb	478	0490	4791394
 pb	479	0491	4791395
 pb	480	0492	4791396
 pb	481	0493	4791397
-entry	Anatomie [A. Lavocat]. 	1	
-orth	Anatomie. 		
+entry	Anatomie [A. Lavocat]	1	
+orth	Anatomie		
 pb	482	0494	4791398
 pb	483	0495	4791399
 entry	Anatomie [A. Lavocat]. Andalou	0	
 orth	Anatomie. Andalou		
-entry	Ane [Patté]. 	3	
-orth	Ane. 		
+entry	Ane [Patté]	3	
+orth	Ane		
 pb	484	0496	4791400
 pb	485	0497	4791401
 pb	486	0498	4791402
@@ -816,8 +787,8 @@ pb	489	0501	4791405
 pb	490	0502	4791406
 pb	491	0503	4791407
 pb	492	0504	4791408
-entry	Anémie [Henri-Marie Bouley, Reynal]. 	2	
-orth	Anémie. 		
+entry	Anémie [Henri-Marie Bouley, Reynal]	2	
+orth	Anémie		
 pb	493	0505	4791409
 pb	494	0506	4791410
 pb	495	0507	4791411
@@ -861,8 +832,8 @@ pb	517	0529	4791433
 pb	518	0530	4791434
 pb	519	0531	4791435
 pb	520	0532	4791436
-entry	Anesthésie ou Anaesthésie [Félix Vogeli]. 	27	
-orth	Anesthésie ou Anaesthésie. 		
+entry	Anesthésie ou Anaesthésie [Félix Vogeli]	28	
+orth	Anesthésie ou Anaesthésie		
 pb	521	0533	4791437
 pb	522	0534	4791438
 pb	523	0535	4791439
@@ -891,17 +862,15 @@ pb	545	0557	4791461
 pb	546	0558	4791462
 pb	547	0559	4791463
 pb	548	0560	4791464
-entry	Anesthésie ou Anaesthésie [Félix Vogeli]. Anévrysme [Henri-Marie Bouley]. De l'anévrysme artériel	0	
-orth	Anesthésie ou Anaesthésie. Anévrysme. De l'anévrysme artériel		
-pb	549	0561	4791465
-entry	Anévrysme [Henri-Marie Bouley]. De l'anévrysme artériel	2	
+entry	Anévrysme [Henri-Marie Bouley]	0	
+orth	Anévrysme		
+entry	Anévrysme [Henri-Marie Bouley]. De l'anévrysme artériel	3	
 orth	Anévrysme. De l'anévrysme artériel		
+pb	549	0561	4791465
 pb	550	0562	4791466
 pb	551	0563	4791467
-entry	Anévrysme [Henri-Marie Bouley]. Mode de formation, caractères anatomiques et marche des anévrysmes	0	
-orth	Anévrysme. Mode de formation, caractères anatomiques et marche des anévrysmes		
-entry	Anévrysme [Henri-Marie Bouley]. De l'anévrysme spontané	0	
-orth	Anévrysme. De l'anévrysme spontané		
+entry	Mode de formation, caractères anatomiques et marche des anévrysmes	0	
+entry	De l'anévrysme spontané	0	
 entry	Anévrysme [Henri-Marie Bouley]. Mode de formation, caractères anatomiques et marche des anévrysmes. De l'anévrysme spontané. Mode de formation et caractères anatomiques	4	
 orth	Anévrysme. Mode de formation, caractères anatomiques et marche des anévrysmes. De l'anévrysme spontané. Mode de formation et caractères anatomiques		
 pb	552	0564	4791468
@@ -927,8 +896,7 @@ orth	Anévrysme. Mode de formation, caractères anatomiques et marche des anévr
 pb	564	0576	4791480
 pb	565	0577	4791481
 pb	566	0578	4791482
-entry	Anévrysme [Henri-Marie Bouley]. Mode de formation, caractères anatomiques et marche des anévrysmes. Marche et terminaison des anévrysmes diffus	0	
-orth	Anévrysme. Mode de formation, caractères anatomiques et marche des anévrysmes. Marche et terminaison des anévrysmes diffus		
+entry	Marche et terminaison des anévrysmes diffus	0	
 entry	Anévrysme [Henri-Marie Bouley]. Pronostic général des anévrysmes	1	
 orth	Anévrysme. Pronostic général des anévrysmes		
 pb	567	0579	4791483
@@ -939,20 +907,18 @@ pb	569	0581	4791485
 pb	570	0582	4791486
 entry	Angéioleucite	0	
 pb	571	0583	4791487
-entry	Angélique [J.-H. Magne]. 	0	
-orth	Angélique. 		
+entry	Angélique [J.-H. Magne]	1	
+orth	Angélique		
 pb	572	0584	4791488
-entry	Angélique [J.-H. Magne]. Angine [Reynal]. 	0	
-orth	Angélique. Angine. 		
+entry	Angine [Reynal]	0	
+orth	Angine		
 pb	573	0585	4791489
 entry	Angine [Reynal]. Causes générales des angines	2	
 orth	Angine. Causes générales des angines		
 pb	574	0586	4791490
 pb	575	0587	4791491
-entry	Angine [Reynal]. Division des angines	0	
-orth	Angine. Division des angines		
-entry	Angine [Reynal]. Angines du cheval	0	
-orth	Angine. Angines du cheval		
+entry	Division des angines	0	
+entry	Angines du cheval	0	
 entry	Angine [Reynal]. Division des angines. Angines du cheval. Angine laryngée ou laryngite	8	
 orth	Angine. Division des angines. Angines du cheval. Angine laryngée ou laryngite		
 pb	576	0588	4791492
@@ -1028,19 +994,18 @@ pb	623	0635	4791539
 pb	624	0636	4791540
 pb	625	0637	4791541
 pb	626	0638	4791542
-entry	Angine [Reynal]. Anglais	0	
-orth	Angine. Anglais		
-entry	Animaux domestiques [J.-H. Magne]. 	2	
-orth	Animaux domestiques. 		
+entry	Anglais	0	
+entry	Animaux domestiques [J.-H. Magne]	2	
+orth	Animaux domestiques		
 pb	627	0639	4791543
 pb	628	0640	4791544
 pb	629	0641	4791545
 entry	Anorchide	0	
-entry	. Anthelmintique	0	
-entry	. Anthrax	0	
-entry	. Antidote	0	
-entry	Antimoine [É. Clément]. 	9	
-orth	Antimoine. 		
+entry	Anthelmintique	0	
+entry	Anthrax	0	
+entry	Antidote	0	
+entry	Antimoine [É. Clément]	10	
+orth	Antimoine		
 pb	630	0642	4791546
 pb	631	0643	4791547
 pb	632	0644	4791548
@@ -1051,18 +1016,14 @@ pb	636	0648	4791552
 pb	637	0649	4791553
 pb	638	0650	4791554
 pb	639	0651	4791555
-entry	Antimoine [É. Clément]. Antiphlogistique [Reynal]. 	0	
-orth	Antimoine. Antiphlogistique. 		
+entry	Antiphlogistique [Reynal]	1	
+orth	Antiphlogistique		
 pb	640	0652	4791556
-entry	Antiphlogistique [Reynal]. 	0	
-orth	Antiphlogistique. 		
 pb	641	0653	4791557
 entry	Antiphlogistique [Reynal]. Antiseptique	0	
 orth	Antiphlogistique. Antiseptique		
-entry	Antiphlogistique [Reynal]. Antispasmodique	0	
-orth	Antiphlogistique. Antispasmodique		
-entry	Antiphlogistique [Reynal]. Aorte	0	
-orth	Antiphlogistique. Aorte		
+entry	Antispasmodique	0	
+entry	Aorte	0	
 entry	Aphthes [Reynal]. Historique	1	
 orth	Aphthes. Historique		
 pb	642	0654	4791558
@@ -1114,8 +1075,8 @@ orth	Aphthes. Du traitement préservatif de la fièvre aphtheuse
 pb	667	0679	4791583
 pb	668	0680	4791584
 pb	669	0681	4791585
-entry	Aplomb [A. Sanson]. 	17	
-orth	Aplomb. 		
+entry	Aplomb [A. Sanson]	17	
+orth	Aplomb		
 pb	670	0682	4791586
 pb	671	0683	4791587
 pb	672	0684	4791588
@@ -1136,10 +1097,9 @@ pb	686	0698	4791602
 pb	687	0699	4791603
 entry	Aplomb [A. Sanson]. Aponévrose	0	
 orth	Aplomb. Aponévrose		
-entry	Aplomb [A. Sanson]. Aponévrotomie	0	
-orth	Aplomb. Aponévrotomie		
-entry	Apoplexie [Patté]. 	13	
-orth	Apoplexie. 		
+entry	Aponévrotomie	0	
+entry	Apoplexie [Patté]	13	
+orth	Apoplexie		
 pb	688	0700	4791604
 pb	689	0701	4791605
 pb	690	0702	4791606

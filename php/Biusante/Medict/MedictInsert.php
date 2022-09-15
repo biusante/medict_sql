@@ -205,12 +205,12 @@ class MedictInsert extends MedictUtil
             return null;
         }
         $sortable = self::sortable($forme);
-        if (false) {
-            // echo $forme. "\t" . $sortable. "\t". implode(' ', str_split($sortable)) . "\t" . bin2hex($sortable) . "\n";
-        }
+        // passer la langue en nombre
+        $langue = self::$langs[$langue] ?? NULL;
         if ($langue) {
             self::$q['forme_langue_id']->execute(array($sortable, $langue));
             $row = self::$q['forme_langue_id']->fetch(PDO::FETCH_NUM);
+            // if ($row) echo "$forme\t$langue\t$sortable\t$row[0]\n";
         } else {
             self::$q['forme_id']->execute(array($sortable));
             $row = self::$q['forme_id']->fetch(PDO::FETCH_NUM);
@@ -221,7 +221,7 @@ class MedictInsert extends MedictUtil
         // normaliser l’accentuation (surtout pour le grec)
         $forme = Normalizer::normalize($forme, Normalizer::FORM_KC);
         self::$dico_terme[':forme'] = $forme;
-        self::$dico_terme[':langue'] = self::$langs[$langue] ?? NULL;
+        self::$dico_terme[':langue'] = $langue;
         self::$dico_terme[':sortable'] = $sortable;
         self::$dico_terme[':taille'] = mb_strlen($sortable);
         // compter les mots non vides
@@ -254,6 +254,7 @@ class MedictInsert extends MedictUtil
             fwrite(STDERR, print_r(self::$dico_terme, true));
         }
         $id = self::$pdo->lastInsertId();
+
         return $id;
     }
 

@@ -555,7 +555,7 @@ class MedictPrepa extends MedictUtil
                 }
 
                 else {
-                    $orths = preg_split('/,? +(ou|et|&) +|,[\-—– ]+/ui', $s);
+                    $orths = preg_split('/,? +(ou|et|&) +|[,;][\-—– ]+/ui', $s);
                     // si une seule vedette, inutile de détailler
                     if (count($orths) > 1 || $s != $line[1]) {
                         foreach ($orths as $o) {

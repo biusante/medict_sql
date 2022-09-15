@@ -107,7 +107,7 @@ class MedictUtil
                 'æ' => 'ae',
             )
         );
-        // decomposer lettres et accents
+        // décomposer lettres et accents
         $s = Normalizer::normalize($s, Normalizer::FORM_D);
         // ne conserver que les lettres et les espaces, et les traits d’union
         $s = preg_replace("/[^\p{L}\-\s]/u", '', $s);

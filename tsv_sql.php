@@ -23,4 +23,8 @@ MedictInsert::insert_titre('47667'); // Pancoucke bio
 MedictInsert::insert_titre('pharma_014023'); // Mérat
 MedictInsert::insert_titre('00216'); // JamesFR
 
+/*
+MedictInsert::insert_titre('extbnfpoujol');
+MedictInsert::insert_titre('61157');
+*/
 MedictInsert::optimize();

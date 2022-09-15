@@ -4,7 +4,7 @@
  * Petit script pour préparer des données à importer dans PHP MyAdmin
  */
 
-$data_dir = dirname(__DIR__).'/data/';
+$data_dir = __DIR__.'/data/';
 foreach (glob($data_dir . "*.sql") as $sql_file) {
     [ 'filename' => $sql_name, 'basename' => $sql_fname ] = pathinfo($sql_file);
     $zip_file = $data_dir . $sql_name . '.zip';

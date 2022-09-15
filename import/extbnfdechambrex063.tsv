@@ -8,7 +8,7 @@ pb	1	0005	4566881
 entry	Musculaire (Tissu)	0	
 entry	Pathologie (suite)	0	
 entry	Pathologie spéciale	0	
-entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive [Georges Hayem]	63	
+entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive [Georges Hayem]	59	
 orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive		
 pb	2	0006	4566882
 pb	3	0007	4566883
@@ -70,6 +70,8 @@ pb	58	0062	4566938
 pb	59	0063	4566939
 pb	60	0064	4566940
 pb	61	0065	4566941
+entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive [Georges Hayem] (bibliographie)	3	
+orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive		
 pb	62	0066	4566942
 pb	63	0067	4566943
 pb	64	0068	4566944
@@ -103,15 +105,17 @@ pb	80	0084	4566960
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale.  Paralysie pseudo-hypertrophique ou myo-sclérosique [A. Kelsch]	0	
 orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale.  Paralysie pseudo-hypertrophique ou myo-sclérosique		
 pb	81	0085	4566961
-entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique [A. Kelsch]	6	
+entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique [A. Kelsch]	4	
 orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
 pb	82	0086	4566962
 pb	83	0087	4566963
 pb	84	0088	4566964
 pb	85	0089	4566965
 pb	86	0090	4566966
+entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique [A. Kelsch] (bibliographie)	1	
+orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
 pb	87	0091	4566967
-entry	Musculaire (Tissu). Pathologie chirurgicale [Albert Hénocque]	32	
+entry	Musculaire (Tissu). Pathologie chirurgicale [Albert Hénocque]	30	
 orth	Musculaire (Tissu). Pathologie chirurgicale		
 pb	88	0092	4566968
 pb	89	0093	4566969
@@ -144,6 +148,8 @@ pb	115	0119	4566995
 pb	116	0120	4566996
 pb	117	0121	4566997
 pb	118	0122	4566998
+entry	Musculaire (Tissu). Pathologie chirurgicale [Albert Hénocque] (bibliographie)	1	
+orth	Musculaire (Tissu). Pathologie chirurgicale		
 pb	119	0123	4566999
 entry	Musculaire (Tissu). Affections syphilitiques [J. Rollet]	7	
 orth	Musculaire (Tissu). Affections syphilitiques		
@@ -170,9 +176,11 @@ entry	Musculo-phrénique (Artère)	0
 ref	Mammaire interne		
 entry	Musénine [Ch. Schützenberger]	0	
 orth	Musénine		
-entry	Musgrave (Les deux) [A. Chéreau]	1	
+entry	Musgrave (Les deux) [A. Chéreau]	0	
 orth	Musgrave (Les deux)		
 pb	127	0131	4567007
+entry	Musgrave (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Musgrave (Les deux)		
 entry	Musicaux (Bruits) [Henri Barth, Henri Roger]	1	
 orth	Musicaux (Bruits)		
 pb	128	0132	4567008
@@ -182,7 +190,7 @@ orth	Musiciens (Hygiène des)
 pb	130	0134	4567010
 pb	131	0135	4567011
 pb	132	0136	4567012
-entry	Musique [Maurice Krishaber]	19	
+entry	Musique [Maurice Krishaber]	18	
 orth	Musique		
 pb	133	0137	4567013
 pb	134	0138	4567014
@@ -203,19 +211,25 @@ pb	148	0152	4567028
 pb	149	0153	4567029
 pb	150	0154	4567030
 pb	151	0155	4567031
-entry	Musitano (Carlo) [E. Beaugrand]	1	
+entry	Musique [Maurice Krishaber] (bibliographie)	0	
+orth	Musique		
+entry	Musitano (Carlo) [E. Beaugrand]	0	
 orth	Musitano (Carlo)		
 pb	152	0156	4567032
+entry	Musitano (Carlo) [E. Beaugrand] (bibliographie)	0	
+orth	Musitano (Carlo)		
 entry	Muskhogees (Les)	0	
 ref	Amérique		
 entry	Mussitation [Amédée Dechambre]	0	
 orth	Mussitation		
-entry	Mussoenda [G. Planchon]	1	
+entry	Mussoenda [G. Planchon]	0	
 orth	Mussoenda		
 pb	153	0157	4567033
+entry	Mussoenda [G. Planchon] (bibliographie)	0	
+orth	Mussoenda		
 entry	Mutage [Amédée Dechambre]	0	
 orth	Mutage		
-entry	Mutilations éthniques [A. Chéreau]	14	
+entry	Mutilations éthniques [A. Chéreau]	10	
 orth	Mutilations éthniques		
 pb	154	0158	4567034
 pb	155	0159	4567035
@@ -228,8 +242,12 @@ pb	161	0165	4567041
 pb	162	0166	4567042
 pb	163	0167	4567043
 pb	164	0168	4567044
+entry	Mutilations éthniques [A. Chéreau] (bibliographie)	1	
+orth	Mutilations éthniques		
 pb	165	0169	4567045
 pb	166	0170	4567046
+entry	Mutilations éthniques [A. Chéreau]	1	
+orth	Mutilations éthniques		
 pb	167	0171	4567047
 entry	Mutis (Joze-Celestino) [E. Beaugrand]	0	
 orth	Mutis (Joze-Celestino)		
@@ -237,13 +255,17 @@ entry	Mutisme (Sans surdité) [Maurice Krishaber]	2
 orth	Mutisme (Sans surdité)		
 pb	168	0172	4567048
 pb	169	0173	4567049
-entry	Mutualité [Jacques Bertillon]	2	
+entry	Mutualité [Jacques Bertillon]	1	
 orth	Mutualité		
 pb	170	0174	4567050
 pb	171	0175	4567051
-entry	Muys (Les) [A. Dureau]	1	
+entry	Mutualité [Jacques Bertillon] (bibliographie)	0	
+orth	Mutualité		
+entry	Muys (Les) [A. Dureau]	0	
 orth	Muys (Les)		
 pb	172	0176	4567052
+entry	Muys (Les) [A. Dureau] (bibliographie)	0	
+orth	Muys (Les)		
 entry	Muzel (Fréderic-Hermann-Louis) [A. Chéreau]	0	
 orth	Muzel (Fréderic-Hermann-Louis)		
 entry	Myagrum [G. Planchon]	0	
@@ -253,19 +275,23 @@ ref	Achorion
 ref	Champignons		
 entry	Mycenés	0	
 ref	Agaric		
-entry	Mycétome [Alexandre Layet]	5	
+entry	Mycétome [Alexandre Layet]	4	
 orth	Mycétome		
 pb	173	0177	4567053
 pb	174	0178	4567054
 pb	175	0179	4567055
 pb	176	0180	4567056
 pb	177	0181	4567057
+entry	Mycétome [Alexandre Layet] (bibliographie)	0	
+orth	Mycétome		
 entry	Mycinuline [Schützenberger]	0	
 orth	Mycinuline		
 pb	178	0182	4567058
-entry	Mycoderme [J. de Seynes]	1	
+entry	Mycoderme [J. de Seynes]	0	
 orth	Mycoderme		
 pb	179	0183	4567059
+entry	Mycoderme [J. de Seynes] (bibliographie)	0	
+orth	Mycoderme		
 entry	Mycoglycose	0	
 ref	Mycose		
 entry	Mycoïdes	0	
@@ -275,7 +301,7 @@ orth	Mycomélique (Acide)
 pb	180	0184	4567060
 entry	Mycose [Schützenberger]	0	
 orth	Mycose		
-entry	Mycosis [E. Bazin]	25	
+entry	Mycosis [E. Bazin]	24	
 orth	Mycosis		
 pb	181	0185	4567061
 pb	182	0186	4567062
@@ -302,6 +328,8 @@ pb	202	0206	4567082
 pb	203	0207	4567083
 pb	204	0208	4567084
 pb	205	0209	4567085
+entry	Mycosis [E. Bazin] (bibliographie)	0	
+orth	Mycosis		
 entry	Mydriase [Giraud-Teulon]	8	
 orth	Mydriase		
 pb	206	0210	4567086
@@ -335,15 +363,19 @@ pb	215	0219	4567095
 pb	216	0220	4567096
 pb	217	0221	4567097
 pb	218	0222	4567098
-entry	Myginde [G. Planchon]	1	
+entry	Myginde [G. Planchon]	0	
 orth	Myginde		
 pb	219	0223	4567099
-entry	Myiodopsie [Giraud-Teulon]	4	
+entry	Myginde [G. Planchon] (bibliographie)	0	
+orth	Myginde		
+entry	Myiodopsie [Giraud-Teulon]	3	
 orth	Myiodopsie		
 pb	220	0224	4567100
 pb	221	0225	4567101
 pb	222	0226	4567102
 pb	223	0227	4567103
+entry	Myiodopsie [Giraud-Teulon] (bibliographie)	0	
+orth	Myiodopsie		
 entry	Myitis	0	
 ref	Musculaire (Tissu)		
 entry	Mylabre [A. Laboulbène]	1	
@@ -351,7 +383,7 @@ orth	Mylabre
 pb	224	0228	4567104
 entry	Mylacéphale [O. Larcher]	0	
 orth	Mylacéphale		
-entry	Mylitta [J. de Seynes]	0	
+entry	Mylitta [J. de Seynes] (bibliographie)	0	
 orth	Mylitta		
 entry	Myloglosse (Muscle) [Amédée Dechambre]	0	
 orth	Myloglosse (Muscle)		
@@ -360,7 +392,7 @@ orth	Mylo-hyoïdien (Muscle)
 pb	225	0229	4567105
 entry	Mylo-hyoïdien (Nerf)	0	
 ref	Maxillaire inférieur		
-entry	Mynors (Robert) [A. Chéreau]	0	
+entry	Mynors (Robert) [A. Chéreau] (bibliographie)	0	
 orth	Mynors (Robert)		
 entry	Myocardite	0	
 ref	Cardite		
@@ -372,7 +404,7 @@ entry	Myodynie	0
 ref	Musculaire (Tissu)		
 entry	Myognathe [O. Larcher]	0	
 orth	Myognathe		
-entry	Myographes, Myographie [François-Franck]	14	
+entry	Myographes, Myographie [François-Franck]	13	
 orth	Myographes, Myographie		
 pb	226	0230	4567106
 pb	227	0231	4567107
@@ -388,20 +420,26 @@ pb	236	0240	4567116
 pb	237	0241	4567117
 pb	238	0242	4567118
 pb	239	0243	4567119
+entry	Myographes, Myographie [François-Franck] (bibliographie)	0	
+orth	Myographes, Myographie		
 entry	Myoïde [Albert Hénocque]	0	
 orth	Myoïde		
 entry	Myolemme [Albert Hénocque]	0	
 orth	Myolemme		
 entry	Myomancie [Amédée Dechambre]	0	
 orth	Myomancie		
-entry	Myome (Myome strio-cellulaire, Rhabdomyome) [Albert Hénocque]	2	
+entry	Myome (Myome strio-cellulaire, Rhabdomyome) [Albert Hénocque]	1	
 orth	Myome (Myome strio-cellulaire, Rhabdomyome)		
 pb	240	0244	4567120
 pb	241	0245	4567121
-entry	Myon (Saint) (Eau minérale de) [A. Rotureau]	1	
+entry	Myome (Myome strio-cellulaire, Rhabdomyome) [Albert Hénocque] (bibliographie)	0	
+orth	Myome (Myome strio-cellulaire, Rhabdomyome)		
+entry	Myon (Saint) (Eau minérale de) [A. Rotureau]	0	
 orth	Myon (Saint) (Eau minérale de)		
 pb	242	0246	4567122
-entry	Myopie [Giraud-Teulon]	65	
+entry	Myon (Saint) (Eau minérale de) [A. Rotureau] (bibliographie)	0	
+orth	Myon (Saint) (Eau minérale de)		
+entry	Myopie [Giraud-Teulon]	64	
 orth	Myopie		
 pb	243	0247	4567123
 pb	244	0248	4567124
@@ -468,8 +506,10 @@ pb	304	0308	4567184
 pb	305	0309	4567185
 pb	306	0310	4567186
 pb	307	0311	4567187
+entry	Myopie [Giraud-Teulon] (bibliographie)	0	
+orth	Myopie		
 pb	308	0312	4567188
-entry	Myoschylos [G. Planchon]	0	
+entry	Myoschylos [G. Planchon] (bibliographie)	0	
 orth	Myoschylos		
 entry	Myosine	0	
 ref	Musculaire (tissu)		
@@ -478,7 +518,7 @@ orth	Myosis
 pb	309	0313	4567189
 pb	310	0314	4567190
 pb	311	0315	4567191
-entry	Myosotis [G. Planchon]	0	
+entry	Myosotis [G. Planchon] (bibliographie)	0	
 orth	Myosotis		
 entry	Myosurus	0	
 ref	Ratoncule		
@@ -489,19 +529,23 @@ entry	Myracanthos [G. Planchon]	0
 orth	Myracanthos		
 entry	Myrcia [G. Planchon]	0	
 orth	Myrcia		
-entry	Myrepsus (Nicolas) [E. Beaugrand]	0	
+entry	Myrepsus (Nicolas) [E. Beaugrand] (bibliographie)	0	
 orth	Myrepsus (Nicolas)		
-entry	Myriapodes [Paul Gervais]	5	
+entry	Myriapodes [Paul Gervais]	4	
 orth	Myriapodes		
 pb	313	0317	4567193
 pb	314	0318	4567194
 pb	315	0319	4567195
 pb	316	0320	4567196
 pb	317	0321	4567197
-entry	Myrica [G. Planchon]	2	
+entry	Myriapodes [Paul Gervais] (bibliographie)	0	
+orth	Myriapodes		
+entry	Myrica [G. Planchon]	1	
 orth	Myrica		
 pb	318	0322	4567198
 pb	319	0323	4567199
+entry	Myrica [G. Planchon] (bibliographie)	0	
+orth	Myrica		
 entry	Myricacées ou Myricées [G. Planchon]	0	
 orth	Myricacées ou Myricées		
 entry	Myricine [Schützenberger]	0	
@@ -527,10 +571,12 @@ entry	Myrmécobie [Paul Gervais]	0
 orth	Myrmécobie		
 entry	Myrobalanées [G. Planchon]	0	
 orth	Myrobalanées		
-entry	Myrobalans [G. Planchon]	2	
+entry	Myrobalans [G. Planchon]	1	
 orth	Myrobalans		
 pb	321	0325	4567201
 pb	322	0326	4567202
+entry	Myrobalans [G. Planchon] (bibliographie)	0	
+orth	Myrobalans		
 entry	Myrolés [Amédée Dechambre]	0	
 orth	Myrolés		
 entry	Myronates	0	
@@ -540,7 +586,7 @@ orth	Myronique (Acide)
 entry	Myrosine [Schützenberger]	0	
 orth	Myrosine		
 pb	323	0327	4567203
-entry	Myrosperme [H. Baillon]	0	
+entry	Myrosperme [H. Baillon] (bibliographie)	0	
 orth	Myrosperme		
 entry	Myroxylique (Acide) [Amédée Dechambre]	0	
 orth	Myroxylique (Acide)		
@@ -555,7 +601,7 @@ pb	324	0328	4567204
 pb	325	0329	4567205
 pb	326	0330	4567206
 pb	327	0331	4567207
-entry	Myrrhe. Emploi médical [J. Delioux de Savignac]	6	
+entry	Myrrhe. Emploi médical [J. Delioux de Savignac]	5	
 orth	Myrrhe. Emploi médical		
 pb	328	0332	4567208
 pb	329	0333	4567209
@@ -563,15 +609,19 @@ pb	330	0334	4567210
 pb	331	0335	4567211
 pb	332	0336	4567212
 pb	333	0337	4567213
+entry	Myrrhe. Emploi médical [J. Delioux de Savignac] (bibliographie)	0	
+orth	Myrrhe. Emploi médical		
 entry	Myrrhis [G. Planchon]	0	
 orth	Myrrhis		
 entry	Myrrhoïde [Amédée Dechambre]	0	
 orth	Myrrhoïde		
-entry	Myrtacées [G. Planchon]	1	
+entry	Myrtacées [G. Planchon]	0	
 orth	Myrtacées		
 pb	334	0338	4567214
+entry	Myrtacées [G. Planchon] (bibliographie)	0	
+orth	Myrtacées		
 entry	Myrte	0	
-entry	Myrte. Botanique [G. Planchon]	1	
+entry	Myrte. Botanique [G. Planchon] (bibliographie)	1	
 orth	Myrte. Botanique		
 pb	335	0339	4567215
 entry	Myrte. Emploi médical [J. Delioux de Savignac]	6	
@@ -595,7 +645,7 @@ orth	Myxine
 entry	Myxogastres	0	
 ref	Myxomycètes		
 pb	342	0346	4567222
-entry	Myxome [Albert Hénocque]	6	
+entry	Myxome [Albert Hénocque]	5	
 orth	Myxome		
 pb	343	0347	4567223
 pb	344	0348	4567224
@@ -603,27 +653,35 @@ pb	345	0349	4567225
 pb	346	0350	4567226
 pb	347	0351	4567227
 pb	348	0352	4567228
-entry	Myxomycètes [J. de Seynes]	1	
+entry	Myxome [Albert Hénocque] (bibliographie)	0	
+orth	Myxome		
+entry	Myxomycètes [J. de Seynes]	0	
 orth	Myxomycètes		
 pb	349	0353	4567229
+entry	Myxomycètes [J. de Seynes] (bibliographie)	0	
+orth	Myxomycètes		
 entry	Myzostomes [Paul Gervais]	0	
 orth	Myzostomes		
 entry	Addenda	0	
 entry	Addenda. Mancône (Écorce de) [Amédée Dechambre]	1	
 orth	Addenda. Mancône (Écorce de)		
 pb	350	0354	4567230
-entry	Addenda. Muscarine [Henri Chouppe]	3	
+entry	Addenda. Muscarine [Henri Chouppe]	2	
 orth	Addenda. Muscarine		
 pb	351	0355	4567231
 pb	352	0356	4567232
 pb	353	0357	4567233
-entry	Addenda. Mines (Maladie des) [C. Zuber]	4	
+entry	Addenda. Muscarine [Henri Chouppe] (bibliographie)	0	
+orth	Addenda. Muscarine		
+entry	Addenda. Mines (Maladie des) [C. Zuber]	3	
 orth	Addenda. Mines (Maladie des)		
 pb	354	0358	4567234
 pb	355	0359	4567235
 pb	356	0360	4567236
 pb	357	0361	4567237
-entry	Addenda. Moreau de la Sarthe (Louis-Jacques) [A. Chéreau]	1	
+entry	Addenda. Mines (Maladie des) [C. Zuber] (bibliographie)	0	
+orth	Addenda. Mines (Maladie des)		
+entry	Addenda. Moreau de la Sarthe (Louis-Jacques) [A. Chéreau] (bibliographie)	1	
 orth	Addenda. Moreau de la Sarthe (Louis-Jacques)		
 pb	358	0362	4567238
 pb	359	0363	4567239
@@ -636,7 +694,7 @@ entry	Naboth (Glandes, Nerfs de)	0
 ref	Utérus		
 entry	Nachet (Louis-Isidore) [A. Chéreau]	0	
 orth	Nachet (Louis-Isidore)		
-entry	Nacquart (Jean-Baptiste) [E. Beaugrand]	0	
+entry	Nacquart (Jean-Baptiste) [E. Beaugrand] (bibliographie)	0	
 orth	Nacquart (Jean-Baptiste)		
 entry	Nacre	0	
 entry	Nacre. Zoologie [Paul Gervais]	1	
@@ -644,7 +702,7 @@ orth	Nacre. Zoologie
 pb	361	0365	4567241
 entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
-entry	Nacriers (Hygiène professionnelle) [Alexandre Layet]	6	
+entry	Nacriers (Hygiène professionnelle) [Alexandre Layet]	5	
 orth	Nacriers (Hygiène professionnelle)		
 pb	362	0366	4567242
 pb	363	0367	4567243
@@ -652,15 +710,17 @@ pb	364	0368	4567244
 pb	365	0369	4567245
 pb	366	0370	4567246
 pb	367	0371	4567247
+entry	Nacriers (Hygiène professionnelle) [Alexandre Layet] (bibliographie)	0	
+orth	Nacriers (Hygiène professionnelle)		
 entry	Nadherny (Ignatz Florian) [L. Hahn]	0	
 orth	Nadherny (Ignatz Florian)		
 pb	368	0372	4567248
-entry	Naegele (Franz-Carl) [E. Beaugrand]	0	
+entry	Naegele (Franz-Carl) [E. Beaugrand] (bibliographie)	0	
 orth	Naegele (Franz-Carl)		
 entry	Naeve (Les) [A. Dureau]	0	
 orth	Naeve (Les)		
 entry	Naevus Maternus	0	
-entry	Naevus Maternus. Pathologie [O. Larcher]	13	
+entry	Naevus Maternus. Pathologie [O. Larcher]	10	
 orth	Naevus Maternus. Pathologie		
 pb	369	0373	4567249
 pb	370	0374	4567250
@@ -673,6 +733,8 @@ pb	376	0380	4567256
 pb	377	0381	4567257
 pb	378	0382	4567258
 pb	379	0383	4567259
+entry	Naevus Maternus. Pathologie [O. Larcher] (bibliographie)	2	
+orth	Naevus Maternus. Pathologie		
 pb	380	0384	4567260
 pb	381	0385	4567261
 entry	Médecine légale	0	
@@ -681,9 +743,11 @@ entry	Naga-Musadie [G. Planchon]	0
 orth	Naga-Musadie		
 entry	Nagam [G. Planchon]	0	
 orth	Nagam		
-entry	Nagas ou Naghas [G. Planchon]	1	
+entry	Nagas ou Naghas [G. Planchon]	0	
 orth	Nagas ou Naghas		
 pb	382	0386	4567262
+entry	Nagas ou Naghas [G. Planchon] (bibliographie)	0	
+orth	Nagas ou Naghas		
 entry	Nagel (Les) [L. Hahn]	0	
 orth	Nagel (Les)		
 entry	Nagences	0	
@@ -699,17 +763,19 @@ entry	Naissances	0
 ref	Natalité		
 entry	Naja [Paul Gervais]	0	
 orth	Naja		
-entry	Naldi (Mathieu) [Amédée Dechambre]	0	
+entry	Naldi (Mathieu) [Amédée Dechambre] (bibliographie)	0	
 orth	Naldi (Mathieu)		
-entry	Nalugn [G. Planchon]	1	
+entry	Nalugn [G. Planchon]	0	
 orth	Nalugn		
 pb	384	0388	4567264
+entry	Nalugn [G. Planchon] (bibliographie)	0	
+orth	Nalugn		
 entry	Namias (Giacinto) [L. Hahn]	0	
 orth	Namias (Giacinto)		
 entry	Namollos (Tribu de l'Asie septentrionale)	0	
 ref	Asie		
 pb	385	0389	4567265
-entry	Nancrède (Joseph G.) [L. Hahn]	0	
+entry	Nancrède (Joseph G.) [L. Hahn] (bibliographie)	0	
 orth	Nancrède (Joseph G.)		
 entry	Nancy (Eau minérale de) [A. Rotureau]	0	
 orth	Nancy (Eau minérale de)		
@@ -719,36 +785,48 @@ entry	Nandhicoba	0
 ref	Nhandicoba		
 entry	Nandi-Ervatam [G. Planchon]	0	
 orth	Nandi-Ervatam		
-entry	Nandine ou Nandin [G. Planchon]	1	
+entry	Nandine ou Nandin [G. Planchon]	0	
 orth	Nandine ou Nandin		
 pb	386	0390	4567266
+entry	Nandine ou Nandin [G. Planchon] (bibliographie)	0	
+orth	Nandine ou Nandin		
 entry	Nandou [Paul Gervais]	0	
 orth	Nandou		
-entry	Nanisme [V. de Rochas]	5	
+entry	Nanisme [V. de Rochas]	4	
 orth	Nanisme		
 pb	387	0391	4567267
 pb	388	0392	4567268
 pb	389	0393	4567269
 pb	390	0394	4567270
 pb	391	0395	4567271
+entry	Nanisme [V. de Rochas] (bibliographie)	0	
+orth	Nanisme		
 entry	Nannari	0	
 ref	Nunnari		
-entry	Nannoni (Les deux) [A. Chéreau]	1	
+entry	Nannoni (Les deux) [A. Chéreau]	0	
 orth	Nannoni (Les deux)		
 pb	392	0396	4567272
-entry	Nanocéphalie [O. Larcher]	3	
+entry	Nannoni (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Nannoni (Les deux)		
+entry	Nanocéphalie [O. Larcher]	2	
 orth	Nanocéphalie		
 pb	393	0397	4567273
 pb	394	0398	4567274
 pb	395	0399	4567275
-entry	Nanomélie [O. Larcher]	1	
+entry	Nanocéphalie [O. Larcher] (bibliographie)	0	
+orth	Nanocéphalie		
+entry	Nanomélie [O. Larcher]	0	
 orth	Nanomélie		
 pb	396	0400	4567276
+entry	Nanomélie [O. Larcher] (bibliographie)	0	
+orth	Nanomélie		
 entry	Nanscond (Les) (Naturels de la Colombie britannique)	0	
 ref	Britanniques (Possessions)		
-entry	Napée [G. Planchon]	1	
+entry	Napée [G. Planchon]	0	
 orth	Napée		
 pb	397	0401	4567277
+entry	Napée [G. Planchon] (bibliographie)	0	
+orth	Napée		
 entry	Napel	0	
 ref	Aconit		
 entry	Napelline (Chimie) [C. Lutz]	0	
@@ -815,11 +893,13 @@ orth	Naphtyldiamine ou mieux Naphtylène diamine
 pb	409	0413	4567289
 entry	Napitèles	0	
 ref	Araignées		
-entry	Naples (Eaux minérales, Station marine et hivernale) [A. Rotureau]	3	
+entry	Naples (Eaux minérales, Station marine et hivernale) [A. Rotureau]	2	
 orth	Naples (Eaux minérales, Station marine et hivernale)		
 pb	410	0414	4567290
 pb	411	0415	4567291
 pb	412	0416	4567292
+entry	Naples (Eaux minérales, Station marine et hivernale) [A. Rotureau] (bibliographie)	0	
+orth	Naples (Eaux minérales, Station marine et hivernale)		
 entry	Napolitain (Onguent)	0	
 ref	Mercure		
 ref	Onguent		
@@ -843,9 +923,11 @@ ref	Opium
 entry	Narcétine [T. Gobley]	1	
 orth	Narcétine		
 pb	419	0423	4567299
-entry	Narcisse [G. Planchon]	1	
+entry	Narcisse [G. Planchon]	0	
 orth	Narcisse		
 pb	420	0424	4567300
+entry	Narcisse [G. Planchon] (bibliographie)	0	
+orth	Narcisse		
 entry	Narcissine	0	
 ref	Narcisse		
 entry	Narcogénine	0	
@@ -874,12 +956,16 @@ ref	Stupéfiants
 entry	Narcotisme	0	
 ref	Opium		
 ref	Stupéfiants		
-entry	Nard [G. Planchon]	1	
+entry	Nard [G. Planchon]	0	
 orth	Nard		
 pb	425	0429	4567305
-entry	Nardostachys [G. Planchon]	1	
+entry	Nard [G. Planchon] (bibliographie)	0	
+orth	Nard		
+entry	Nardostachys [G. Planchon]	0	
 orth	Nardostachys		
 pb	426	0430	4567306
+entry	Nardostachys [G. Planchon] (bibliographie)	0	
+orth	Nardostachys		
 entry	Nardus [G. Planchon]	0	
 orth	Nardus		
 entry	Narines	0	
@@ -940,7 +1026,7 @@ entry	Naso-palatin (Nerf)	0
 ref	Maxillaire supérieur (Nerf)		
 entry	Naso-pharyngien (Polypes)	0	
 ref	Nasale (Région)		
-entry	Nasse (Les) [A. Dureau]	2	
+entry	Nasse (Les) [A. Dureau] (bibliographie)	2	
 orth	Nasse (Les)		
 pb	443	0447	4567323
 pb	444	0448	4567324
@@ -949,7 +1035,7 @@ orth	Nasturtium
 entry	Natali (Giovanni) [A. Dureau]	0	
 orth	Natali (Giovanni)		
 entry	Natalité	0	
-entry	Natalité. Démographie [Jacques Bertillon]	48	
+entry	Natalité. Démographie [Jacques Bertillon]	47	
 orth	Natalité. Démographie		
 pb	445	0449	4567325
 pb	446	0450	4567326
@@ -999,7 +1085,9 @@ pb	489	0493	4567369
 pb	490	0494	4567370
 pb	491	0495	4567371
 pb	492	0496	4567372
-entry	Natalité. Médecine légale [G. Tourdes]	37	
+entry	Natalité. Démographie [Jacques Bertillon] (bibliographie)	0	
+orth	Natalité. Démographie		
+entry	Natalité. Médecine légale [G. Tourdes]	34	
 orth	Natalité. Médecine légale		
 pb	493	0497	4567373
 pb	494	0498	4567374
@@ -1036,6 +1124,8 @@ pb	524	0528	4567404
 pb	525	0529	4567405
 pb	526	0530	4567406
 pb	527	0531	4567407
+entry	Natalité. Médecine légale [G. Tourdes] (bibliographie)	2	
+orth	Natalité. Médecine légale		
 pb	528	0532	4567408
 pb	529	0533	4567409
 entry	Nataloïne [C. Lutz]	0	
@@ -1048,7 +1138,7 @@ entry	Natchez (Les)	0
 ref	Amérique		
 entry	Nates (Fesses) [Amédée Dechambre]	0	
 orth	Nates (Fesses)		
-entry	Natrix [G. Planchon]	0	
+entry	Natrix [G. Planchon] (bibliographie)	0	
 orth	Natrix		
 entry	Natron [Amédée Dechambre]	0	
 orth	Natron		
@@ -1057,27 +1147,37 @@ orth	Naturisme
 pb	532	0536	4567412
 pb	533	0537	4567413
 pb	534	0538	4567414
-entry	Nauche (Jacques-Louis) [E. Beaugrand]	1	
+entry	Nauche (Jacques-Louis) [E. Beaugrand]	0	
 orth	Nauche (Jacques-Louis)		
 pb	535	0539	4567415
+entry	Nauche (Jacques-Louis) [E. Beaugrand] (bibliographie)	0	
+orth	Nauche (Jacques-Louis)		
 entry	Nauclea [G. Planchon]	0	
 orth	Nauclea		
-entry	Naudé (Gabriel) [A. Chéreau]	1	
+entry	Naudé (Gabriel) [A. Chéreau]	0	
 orth	Naudé (Gabriel)		
 pb	536	0540	4567416
-entry	Naudin (Pierre) [A. Chéreau]	1	
+entry	Naudé (Gabriel) [A. Chéreau] (bibliographie)	0	
+orth	Naudé (Gabriel)		
+entry	Naudin (Pierre) [A. Chéreau]	0	
 orth	Naudin (Pierre)		
 pb	537	0541	4567417
-entry	Nauheim (Eaux minérales de) [A. Rotureau]	5	
+entry	Naudin (Pierre) [A. Chéreau] (bibliographie)	0	
+orth	Naudin (Pierre)		
+entry	Nauheim (Eaux minérales de) [A. Rotureau]	4	
 orth	Nauheim (Eaux minérales de)		
 pb	538	0542	4567418
 pb	539	0543	4567419
 pb	540	0544	4567420
 pb	541	0545	4567421
 pb	542	0546	4567422
-entry	Naumann (Moritz-Ernst-Adolph) [A. Dureau]	1	
+entry	Nauheim (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Nauheim (Eaux minérales de)		
+entry	Naumann (Moritz-Ernst-Adolph) [A. Dureau]	0	
 orth	Naumann (Moritz-Ernst-Adolph)		
 pb	543	0547	4567423
+entry	Naumann (Moritz-Ernst-Adolph) [A. Dureau] (bibliographie)	0	
+orth	Naumann (Moritz-Ernst-Adolph)		
 entry	Nausadar [Amédée Dechambre]	0	
 orth	Nausadar		
 entry	Nausées [B. Brochin]	13	
@@ -1099,7 +1199,7 @@ entry	Nautile [Paul Gervais]	2
 orth	Nautile		
 pb	557	0561	4567437
 pb	558	0562	4567438
-entry	Naval (Service de santé) [Le Roy de Méricourt, Bourel-Roncière]	155	
+entry	Naval (Service de santé) [Le Roy de Méricourt, Bourel-Roncière]	153	
 orth	Naval (Service de santé)		
 pb	559	0563	4567439
 pb	560	0564	4567440
@@ -1255,8 +1355,10 @@ pb	709	0713	4567589
 pb	710	0714	4567590
 pb	711	0715	4567591
 pb	712	0716	4567592
+entry	Naval (Service de santé) [Le Roy de Méricourt, Bourel-Roncière] (bibliographie)	1	
+orth	Naval (Service de santé)		
 pb	713	0717	4567593
-entry	Navale (Hygiène) [Fonssagrives]	104	
+entry	Navale (Hygiène) [Fonssagrives]	99	
 orth	Navale (Hygiène)		
 pb	714	0718	4567594
 pb	715	0719	4567595
@@ -1358,6 +1460,8 @@ pb	810	0814	4567690
 pb	811	0815	4567691
 pb	812	0816	4567692
 pb	813	0817	4567693
+entry	Navale (Hygiène) [Fonssagrives] (bibliographie)	4	
+orth	Navale (Hygiène)		
 pb	814	0818	4567694
 pb	815	0819	4567695
 pb	816	0820	4567696

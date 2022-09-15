@@ -63,7 +63,7 @@ pb	37	0041	4582247
 pb	38	0042	4582248
 pb	39	0043	4582249
 pb	40	0044	4582250
-entry	Refroidissement (Physique) [C.-M. Gariel]	7	
+entry	Refroidissement (Physique) [C.-M. Gariel]	6	
 orth	Refroidissement (Physique)		
 pb	41	0045	4582251
 pb	42	0046	4582252
@@ -72,14 +72,16 @@ pb	44	0048	4582254
 pb	45	0049	4582255
 pb	46	0050	4582256
 pb	47	0051	4582257
+entry	Refroidissement (Physique) [C.-M. Gariel] (bibliographie)	0	
+orth	Refroidissement (Physique)		
 pb	48	0052	4582258
-entry	Rega (Henri-Joseph) [A. Dureau]	0	
+entry	Rega (Henri-Joseph) [A. Dureau] (bibliographie)	0	
 orth	Rega (Henri-Joseph)		
 entry	Régale (Eau)	0	
 ref	Eaux médicinales		
 entry	Régénération	0	
 ref	Génération		
-entry	Régime [El. Hamelin]	51	
+entry	Régime [El. Hamelin]	48	
 orth	Régime		
 pb	49	0053	4582259
 pb	50	0054	4582260
@@ -130,6 +132,8 @@ pb	94	0098	4582304
 pb	95	0099	4582305
 pb	96	0100	4582306
 pb	97	0101	4582307
+entry	Régime [El. Hamelin] (bibliographie)	2	
+orth	Régime		
 pb	98	0102	4582308
 pb	99	0103	4582309
 pb	100	0104	4582310
@@ -137,18 +141,18 @@ entry	Régime sanitaire	0
 ref	Quarantaine		
 ref	Médecin		
 ref	Sanitaires Mesures		
-entry	Regis (Pierre) [A. Dureau]	0	
+entry	Regis (Pierre) [A. Dureau] (bibliographie)	0	
 orth	Regis (Pierre)		
 entry	Règles	0	
 ref	Menstruation		
 entry	Réglisse	0	
-entry	Réglisse. Botanique [G. Planchon]	1	
+entry	Réglisse. Botanique [G. Planchon] (bibliographie)	1	
 orth	Réglisse. Botanique		
 pb	101	0105	4582311
 entry	Réglisse. Emploi médical [A. Bordier]	1	
 orth	Réglisse. Emploi médical		
 pb	102	0106	4582312
-entry	Regnault (Jean-Baptiste-Étienne-Benoit-Olive) [E. Beaugrand]	0	
+entry	Regnault (Jean-Baptiste-Étienne-Benoit-Olive) [E. Beaugrand] (bibliographie)	0	
 orth	Regnault (Jean-Baptiste-Étienne-Benoit-Olive)		
 entry	Règnes de la nature [Paul Gervais]	3	
 orth	Règnes de la nature		
@@ -157,7 +161,7 @@ pb	104	0108	4582314
 pb	105	0109	4582315
 entry	Regnier (Jacques) [A. Dureau]	0	
 orth	Regnier (Jacques)		
-entry	Régnier (Jean-Baptiste) [A. Dureau]	0	
+entry	Régnier (Jean-Baptiste) [A. Dureau] (bibliographie)	0	
 orth	Régnier (Jean-Baptiste)		
 entry	Regnoli (Georgio) [E. Beaugrand]	0	
 orth	Regnoli (Georgio)		
@@ -173,27 +177,33 @@ entry	Régurgitation [Amédée Dechambre]	0
 orth	Régurgitation		
 entry	Reh [Amédée Dechambre]	0	
 orth	Reh		
-entry	Rehfeld (Charles-Frédéric) [A. Chéreau]	1	
+entry	Rehfeld (Charles-Frédéric) [A. Chéreau] (bibliographie)	1	
 orth	Rehfeld (Charles-Frédéric)		
 pb	112	0116	4582322
 entry	Rehmann (Joseph) [E. Beaugrand]	0	
 orth	Rehmann (Joseph)		
 entry	Reichard [A. Dureau]	0	
 orth	Reichard		
-entry	Reichel [A. Dureau]	1	
+entry	Reichel [A. Dureau]	0	
 orth	Reichel		
 pb	113	0117	4582323
+entry	Reichel [A. Dureau] (bibliographie)	0	
+orth	Reichel		
 entry	Reichenbach (Les deux) [A. Chéreau]	0	
 orth	Reichenbach (Les deux)		
 entry	Reid (John) [E. Beaugrand]	1	
 orth	Reid (John)		
 pb	114	0118	4582324
-entry	Reil (Johann-Christian) [E. Beaugrand]	1	
+entry	Reil (Johann-Christian) [E. Beaugrand]	0	
 orth	Reil (Johann-Christian)		
 pb	115	0119	4582325
-entry	Reimarus (Jean-Albert-Henri) [A. Dureau]	1	
+entry	Reil (Johann-Christian) [E. Beaugrand] (bibliographie)	0	
+orth	Reil (Johann-Christian)		
+entry	Reimarus (Jean-Albert-Henri) [A. Dureau]	0	
 orth	Reimarus (Jean-Albert-Henri)		
 pb	116	0120	4582326
+entry	Reimarus (Jean-Albert-Henri) [A. Dureau] (bibliographie)	0	
+orth	Reimarus (Jean-Albert-Henri)		
 entry	Rein et Capsule surrénale	0	
 entry	Rein et Capsule surrénale. Anatomie [Daniel Mollière]	5	
 orth	Rein et Capsule surrénale. Anatomie		
@@ -204,12 +214,14 @@ pb	120	0124	4582330
 pb	121	0125	4582331
 entry	Développement [Daniel Mollière]	0	
 orth	Développement		
-entry	Rein et Capsule surrénale. Physiologie [Daniel Mollière]	4	
+entry	Rein et Capsule surrénale. Physiologie [Daniel Mollière]	3	
 orth	Rein et Capsule surrénale. Physiologie		
 pb	122	0126	4582332
 pb	123	0127	4582333
 pb	124	0128	4582334
 pb	125	0129	4582335
+entry	Rein et Capsule surrénale. Physiologie [Daniel Mollière] (bibliographie)	0	
+orth	Rein et Capsule surrénale. Physiologie		
 entry	Rein	0	
 entry	Rein. Anatomie [Daniel Mollière]	17	
 orth	Rein. Anatomie		
@@ -230,7 +242,7 @@ pb	139	0143	4582349
 pb	140	0144	4582350
 pb	141	0145	4582351
 pb	142	0146	4582352
-entry	Rein. Physiologie [Daniel Mollière]	13	
+entry	Rein. Physiologie [Daniel Mollière]	10	
 orth	Rein. Physiologie		
 pb	143	0147	4582353
 pb	144	0148	4582354
@@ -243,32 +255,52 @@ pb	150	0154	4582360
 pb	151	0155	4582361
 pb	152	0156	4582362
 pb	153	0157	4582363
+entry	Rein. Physiologie [Daniel Mollière] (bibliographie)	2	
+orth	Rein. Physiologie		
 pb	154	0158	4582364
 pb	155	0159	4582365
 entry	Rein et Capsule surrénale	0	
-entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux]	12	
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux]	1	
 orth	Rein et Capsule surrénale. Pathologie		
 pb	156	0160	4582366
 pb	157	0161	4582367
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Rein et Capsule surrénale. Pathologie		
 pb	158	0162	4582368
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux]	2	
+orth	Rein et Capsule surrénale. Pathologie		
 pb	159	0163	4582369
 pb	160	0164	4582370
 pb	161	0165	4582371
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Rein et Capsule surrénale. Pathologie		
 pb	162	0166	4582372
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux]	1	
+orth	Rein et Capsule surrénale. Pathologie		
 pb	163	0167	4582373
 pb	164	0168	4582374
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Rein et Capsule surrénale. Pathologie		
 pb	165	0169	4582375
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux]	1	
+orth	Rein et Capsule surrénale. Pathologie		
 pb	166	0170	4582376
 pb	167	0171	4582377
+entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Rein et Capsule surrénale. Pathologie		
 entry	Reins	0	
-entry	Reins. Pathologie [E. Lancereaux]	175	
+entry	Reins. Pathologie [E. Lancereaux]	1	
 orth	Reins. Pathologie		
 pb	168	0172	4582378
 pb	169	0173	4582379
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	3	
+orth	Reins. Pathologie		
 pb	170	0174	4582380
 pb	171	0175	4582381
 pb	172	0176	4582382
 pb	173	0177	4582383
+entry	Reins. Pathologie [E. Lancereaux]	6	
+orth	Reins. Pathologie		
 pb	174	0178	4582384
 pb	175	0179	4582385
 pb	176	0180	4582386
@@ -276,12 +308,24 @@ pb	177	0181	4582387
 pb	178	0182	4582388
 pb	179	0183	4582389
 pb	180	0184	4582390
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	181	0185	4582391
+entry	Reins. Pathologie [E. Lancereaux]	1	
+orth	Reins. Pathologie		
 pb	182	0186	4582392
 pb	183	0187	4582393
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	184	0188	4582394
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	185	0189	4582395
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	186	0190	4582396
+entry	Reins. Pathologie [E. Lancereaux]	7	
+orth	Reins. Pathologie		
 pb	187	0191	4582397
 pb	188	0192	4582398
 pb	189	0193	4582399
@@ -290,8 +334,12 @@ pb	191	0195	4582401
 pb	192	0196	4582402
 pb	193	0197	4582403
 pb	194	0198	4582404
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	1	
+orth	Reins. Pathologie		
 pb	195	0199	4582405
 pb	196	0200	4582406
+entry	Reins. Pathologie [E. Lancereaux]	24	
+orth	Reins. Pathologie		
 pb	197	0201	4582407
 pb	198	0202	4582408
 pb	199	0203	4582409
@@ -317,19 +365,35 @@ pb	218	0222	4582428
 pb	219	0223	4582429
 pb	220	0224	4582430
 pb	221	0225	4582431
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	222	0226	4582432
+entry	Reins. Pathologie [E. Lancereaux]	2	
+orth	Reins. Pathologie		
 pb	223	0227	4582433
 pb	224	0228	4582434
 pb	225	0229	4582435
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	226	0230	4582436
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	227	0231	4582437
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	228	0232	4582438
+entry	Reins. Pathologie [E. Lancereaux]	3	
+orth	Reins. Pathologie		
 pb	229	0233	4582439
 pb	230	0234	4582440
 pb	231	0235	4582441
 pb	232	0236	4582442
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	1	
+orth	Reins. Pathologie		
 pb	233	0237	4582443
 pb	234	0238	4582444
+entry	Reins. Pathologie [E. Lancereaux]	8	
+orth	Reins. Pathologie		
 pb	235	0239	4582445
 pb	236	0240	4582446
 pb	237	0241	4582447
@@ -339,8 +403,12 @@ pb	240	0244	4582450
 pb	241	0245	4582451
 pb	242	0246	4582452
 pb	243	0247	4582453
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	1	
+orth	Reins. Pathologie		
 pb	244	0248	4582454
 pb	245	0249	4582455
+entry	Reins. Pathologie [E. Lancereaux]	10	
+orth	Reins. Pathologie		
 pb	246	0250	4582456
 pb	247	0251	4582457
 pb	248	0252	4582458
@@ -352,60 +420,124 @@ pb	253	0257	4582463
 pb	254	0258	4582464
 pb	255	0259	4582465
 pb	256	0260	4582466
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	257	0261	4582467
+entry	Reins. Pathologie [E. Lancereaux]	2	
+orth	Reins. Pathologie		
 pb	258	0262	4582468
 pb	259	0263	4582469
 pb	260	0264	4582470
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	261	0265	4582471
+entry	Reins. Pathologie [E. Lancereaux]	2	
+orth	Reins. Pathologie		
 pb	262	0266	4582472
 pb	263	0267	4582473
 pb	264	0268	4582474
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	265	0269	4582475
+entry	Reins. Pathologie [E. Lancereaux]	4	
+orth	Reins. Pathologie		
 pb	266	0270	4582476
 pb	267	0271	4582477
 pb	268	0272	4582478
 pb	269	0273	4582479
 pb	270	0274	4582480
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	271	0275	4582481
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	272	0276	4582482
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	273	0277	4582483
+entry	Reins. Pathologie [E. Lancereaux]	1	
+orth	Reins. Pathologie		
 pb	274	0278	4582484
 pb	275	0279	4582485
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	276	0280	4582486
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	277	0281	4582487
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	278	0282	4582488
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	279	0283	4582489
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	280	0284	4582490
+entry	Reins. Pathologie [E. Lancereaux]	5	
+orth	Reins. Pathologie		
 pb	281	0285	4582491
 pb	282	0286	4582492
 pb	283	0287	4582493
 pb	284	0288	4582494
 pb	285	0289	4582495
 pb	286	0290	4582496
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	287	0291	4582497
+entry	Reins. Pathologie [E. Lancereaux]	1	
+orth	Reins. Pathologie		
 pb	288	0292	4582498
 pb	289	0293	4582499
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	1	
+orth	Reins. Pathologie		
 pb	290	0294	4582500
 pb	291	0295	4582501
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	292	0296	4582502
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	293	0297	4582503
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	294	0298	4582504
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	295	0299	4582505
+entry	Reins. Pathologie [E. Lancereaux]	0	
+orth	Reins. Pathologie		
 pb	296	0300	4582506
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	297	0301	4582507
+entry	Reins. Pathologie [E. Lancereaux]	4	
+orth	Reins. Pathologie		
 pb	298	0302	4582508
 pb	299	0303	4582509
 pb	300	0304	4582510
 pb	301	0305	4582511
 pb	302	0306	4582512
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	303	0307	4582513
+entry	Reins. Pathologie [E. Lancereaux]	1	
+orth	Reins. Pathologie		
 pb	304	0308	4582514
 pb	305	0309	4582515
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	1	
+orth	Reins. Pathologie		
 pb	306	0310	4582516
 pb	307	0311	4582517
+entry	Reins. Pathologie [E. Lancereaux]	1	
+orth	Reins. Pathologie		
 pb	308	0312	4582518
 pb	309	0313	4582519
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	0	
+orth	Reins. Pathologie		
 pb	310	0314	4582520
+entry	Reins. Pathologie [E. Lancereaux]	30	
+orth	Reins. Pathologie		
 pb	311	0315	4582521
 pb	312	0316	4582522
 pb	313	0317	4582523
@@ -437,6 +569,8 @@ pb	338	0342	4582548
 pb	339	0343	4582549
 pb	340	0344	4582550
 pb	341	0345	4582551
+entry	Reins. Pathologie [E. Lancereaux] (bibliographie)	1	
+orth	Reins. Pathologie		
 pb	342	0346	4582552
 entry	Reina (Francisco de la) [E. Beaugrand]	1	
 orth	Reina (Francisco de la)		
@@ -448,30 +582,38 @@ ref	Ulmaire
 ref	Spirée		
 entry	Reineggs (Jacques) [A. Chéreau]	0	
 orth	Reineggs (Jacques)		
-entry	Reinerz (Eaux minérales, boues et cures de petit lait de) [A. Rotureau]	2	
+entry	Reinerz (Eaux minérales, boues et cures de petit lait de) [A. Rotureau]	1	
 orth	Reinerz (Eaux minérales, boues et cures de petit lait de)		
 pb	344	0348	4582554
 pb	345	0349	4582555
-entry	Reinesius (Thomas) [E. Beaugrand]	1	
+entry	Reinerz (Eaux minérales, boues et cures de petit lait de) [A. Rotureau] (bibliographie)	0	
+orth	Reinerz (Eaux minérales, boues et cures de petit lait de)		
+entry	Reinesius (Thomas) [E. Beaugrand]	0	
 orth	Reinesius (Thomas)		
 pb	346	0350	4582556
+entry	Reinesius (Thomas) [E. Beaugrand] (bibliographie)	0	
+orth	Reinesius (Thomas)		
 entry	Reinette	0	
 ref	Pomme		
 entry	Reinhard [A. Dureau]	0	
 orth	Reinhard		
 entry	Reischoffen (Eau minérale de) [A. Rotureau]	0	
 orth	Reischoffen (Eau minérale de)		
-entry	Reisinger (Franz) [E. Beaugrand]	1	
+entry	Reisinger (Franz) [E. Beaugrand]	0	
 orth	Reisinger (Franz)		
 pb	347	0351	4582557
+entry	Reisinger (Franz) [E. Beaugrand] (bibliographie)	0	
+orth	Reisinger (Franz)		
 entry	Reiske (Jean-Jacques) [A. Dureau]	0	
 orth	Reiske (Jean-Jacques)		
-entry	Reisseisen (François-Daniel) [A. Chéreau]	1	
+entry	Reisseisen (François-Daniel) [A. Chéreau]	0	
 orth	Reisseisen (François-Daniel)		
 pb	348	0352	4582558
+entry	Reisseisen (François-Daniel) [A. Chéreau] (bibliographie)	0	
+orth	Reisseisen (François-Daniel)		
 entry	Relachants [Amédée Dechambre]	0	
 orth	Relachants		
-entry	Relapsing fever [Lécorché]	20	
+entry	Relapsing fever [Lécorché]	18	
 orth	Relapsing fever		
 pb	349	0353	4582559
 pb	350	0354	4582560
@@ -492,6 +634,8 @@ pb	364	0368	4582574
 pb	365	0369	4582575
 pb	366	0370	4582576
 pb	367	0371	4582577
+entry	Relapsing fever [Lécorché] (bibliographie)	1	
+orth	Relapsing fever		
 pb	368	0372	4582578
 entry	Releveur du cordon ombilical [Amédée Dechambre]	0	
 orth	Releveur du cordon ombilical		
@@ -505,9 +649,11 @@ orth	Releveurs (ou Élévateurs) de l'aile du nez et de la lèvre supérieure
 pb	370	0374	4582580
 entry	Religieuses (Folies)	0	
 ref	Epidémiques (Folies)		
-entry	Remak (Robert) [E. Beaugrand]	1	
+entry	Remak (Robert) [E. Beaugrand]	0	
 orth	Remak (Robert)		
 pb	371	0375	4582581
+entry	Remak (Robert) [E. Beaugrand] (bibliographie)	0	
+orth	Remak (Robert)		
 entry	Remak (Ganglion de)	0	
 ref	Coeur (Nerf du)		
 entry	Remède, Remède secret [Amédée Dechambre]	6	
@@ -521,11 +667,13 @@ pb	377	0381	4582587
 entry	Remèdes [Amédée Dechambre]	1	
 orth	Remèdes		
 pb	378	0382	4582588
-entry	Remer (Wilhelm-Hermann-Georg.) [E. Beaugrand]	0	
+entry	Remer (Wilhelm-Hermann-Georg.) [E. Beaugrand] (bibliographie)	0	
 orth	Remer (Wilhelm-Hermann-Georg.)		
-entry	Remijia [G. Planchon]	1	
+entry	Remijia [G. Planchon]	0	
 orth	Remijia		
 pb	379	0383	4582589
+entry	Remijia [G. Planchon] (bibliographie)	0	
+orth	Remijia		
 entry	Remirea [G. Planchon]	0	
 orth	Remirea		
 entry	Rémission [Amédée Dechambre]	0	
@@ -539,7 +687,7 @@ entry	Rémora [Amédée Dechambre]	0
 orth	Rémora		
 entry	Remors. Remorse du diable	0	
 ref	Scabieuse		
-entry	Rémusat (Jean-Pierre-Abel) [E. Beaugrand]	0	
+entry	Rémusat (Jean-Pierre-Abel) [E. Beaugrand] (bibliographie)	0	
 orth	Rémusat (Jean-Pierre-Abel)		
 entry	Rémy-La-Varenne (Saint-) (Eau minérale de) [A. Rotureau]	1	
 orth	Rémy-La-Varenne (Saint-) (Eau minérale de)		
@@ -551,34 +699,46 @@ ref	Sympathique (Grand)
 entry	Rénales (Artère et Veine) [Amédée Dechambre]	1	
 orth	Rénales (Artère et Veine)		
 pb	382	0386	4582592
-entry	Renard (Jean-Claude) [A. Chéreau]	0	
+entry	Renard (Jean-Claude) [A. Chéreau] (bibliographie)	0	
 orth	Renard (Jean-Claude)		
 entry	Renard (Vulpes) [Paul Gervais]	0	
 orth	Renard (Vulpes)		
-entry	Renaudin (Les) [A. Chéreau, E. Beaugrand]	1	
+entry	Renaudin (Les) [A. Chéreau, E. Beaugrand]	0	
 orth	Renaudin (Les)		
 pb	383	0387	4582593
-entry	Renaudot (Les trois) [A. Chéreau]	3	
+entry	Renaudin (Les) [A. Chéreau, E. Beaugrand] (bibliographie)	0	
+orth	Renaudin (Les)		
+entry	Renaudot (Les trois) [A. Chéreau]	2	
 orth	Renaudot (Les trois)		
 pb	384	0388	4582594
 pb	385	0389	4582595
 pb	386	0390	4582596
-entry	Renauldin (Léopold-Joseph) [A. Chéreau]	2	
+entry	Renaudot (Les trois) [A. Chéreau] (bibliographie)	0	
+orth	Renaudot (Les trois)		
+entry	Renauldin (Léopold-Joseph) [A. Chéreau]	1	
 orth	Renauldin (Léopold-Joseph)		
 pb	387	0391	4582597
 pb	388	0392	4582598
-entry	Renault (Eugène) [E. Beaugrand]	1	
+entry	Renauldin (Léopold-Joseph) [A. Chéreau] (bibliographie)	0	
+orth	Renauldin (Léopold-Joseph)		
+entry	Renault (Eugène) [E. Beaugrand]	0	
 orth	Renault (Eugène)		
 pb	389	0393	4582599
+entry	Renault (Eugène) [E. Beaugrand] (bibliographie)	0	
+orth	Renault (Eugène)		
 entry	René (Gasp.-Aug.-Émile) [E. Beaugrand]	0	
 orth	René (Gasp.-Aug.-Émile)		
 entry	Renealmia	0	
-entry	Reneaume (Les deux) [A. Chéreau]	1	
+entry	Reneaume (Les deux) [A. Chéreau]	0	
 orth	Reneaume (Les deux)		
 pb	390	0394	4582600
-entry	Renlaigue (Eau minérale de) [A. Rotureau]	1	
+entry	Reneaume (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Reneaume (Les deux)		
+entry	Renlaigue (Eau minérale de) [A. Rotureau]	0	
 orth	Renlaigue (Eau minérale de)		
 pb	391	0395	4582601
+entry	Renlaigue (Eau minérale de) [A. Rotureau] (bibliographie)	0	
+orth	Renlaigue (Eau minérale de)		
 entry	Renne [Paul Gervais]	4	
 orth	Renne		
 pb	392	0396	4582602
@@ -589,10 +749,12 @@ entry	Rennes-les-bains (Eaux minérales de) [A. Rotureau]	2
 orth	Rennes-les-bains (Eaux minérales de)		
 pb	396	0400	4582606
 pb	397	0401	4582607
-entry	Renonculacées [H. Baillon]	1	
+entry	Renonculacées [H. Baillon]	0	
 orth	Renonculacées		
 pb	398	0402	4582608
-entry	Renoncule [H. Baillon]	8	
+entry	Renonculacées [H. Baillon] (bibliographie)	0	
+orth	Renonculacées		
+entry	Renoncule [H. Baillon]	6	
 orth	Renoncule		
 pb	399	0403	4582609
 pb	400	0404	4582610
@@ -601,11 +763,15 @@ pb	402	0406	4582612
 pb	403	0407	4582613
 pb	404	0408	4582614
 pb	405	0409	4582615
+entry	Renoncule [H. Baillon] (bibliographie)	1	
+orth	Renoncule		
 pb	406	0410	4582616
 entry	Renouée	0	
-entry	Renzi (Salvatore de) [E. Beaugrand]	1	
+entry	Renzi (Salvatore de) [E. Beaugrand]	0	
 orth	Renzi (Salvatore de)		
 pb	407	0411	4582617
+entry	Renzi (Salvatore de) [E. Beaugrand] (bibliographie)	0	
+orth	Renzi (Salvatore de)		
 entry	Répercussion, Répercussifs [Amédée Dechambre]	1	
 orth	Répercussion, Répercussifs		
 pb	408	0412	4582618
@@ -620,7 +786,7 @@ ref	Hérédité
 ref	Sélection		
 entry	Reptation	0	
 ref	Locomotion		
-entry	Reptiles [Paul Gervais]	6	
+entry	Reptiles [Paul Gervais]	5	
 orth	Reptiles		
 pb	410	0414	4582620
 pb	411	0415	4582621
@@ -628,15 +794,19 @@ pb	412	0416	4582622
 pb	413	0417	4582623
 pb	414	0418	4582624
 pb	415	0419	4582625
+entry	Reptiles [Paul Gervais] (bibliographie)	0	
+orth	Reptiles		
 entry	Requies Nicolaï [Amédée Dechambre]	0	
 orth	Requies Nicolaï		
-entry	Requin (Achille-Pierre) [A. Chéreau]	1	
+entry	Requin (Achille-Pierre) [A. Chéreau]	0	
 orth	Requin (Achille-Pierre)		
 pb	416	0420	4582626
+entry	Requin (Achille-Pierre) [A. Chéreau] (bibliographie)	0	
+orth	Requin (Achille-Pierre)		
 entry	Requin [Paul Gervais]	1	
 orth	Requin		
 pb	417	0421	4582627
-entry	Réquisition (Médecine légale et hygiène publique) [G. Tourdes]	16	
+entry	Réquisition (Médecine légale et hygiène publique) [G. Tourdes]	15	
 orth	Réquisition (Médecine légale et hygiène publique)		
 pb	418	0422	4582628
 pb	419	0423	4582629
@@ -654,11 +824,13 @@ pb	430	0434	4582640
 pb	431	0435	4582641
 pb	432	0436	4582642
 pb	433	0437	4582643
+entry	Réquisition (Médecine légale et hygiène publique) [G. Tourdes] (bibliographie)	0	
+orth	Réquisition (Médecine légale et hygiène publique)		
 entry	Réseau admirable [Amédée Dechambre]	0	
 orth	Réseau admirable		
 entry	Réseau de Malpighi	0	
 ref	Peau		
-entry	Résections [E. Spillmann]	93	
+entry	Résections [E. Spillmann]	88	
 orth	Résections		
 pb	434	0438	4582644
 pb	435	0439	4582645
@@ -749,13 +921,17 @@ pb	519	0523	4582729
 pb	520	0524	4582730
 pb	521	0525	4582731
 pb	522	0526	4582732
+entry	Résections [E. Spillmann] (bibliographie)	4	
+orth	Résections		
 pb	523	0527	4582733
 pb	524	0528	4582734
 pb	525	0529	4582735
 pb	526	0530	4582736
-entry	Réséda [H. Baillon]	1	
+entry	Réséda [H. Baillon]	0	
 orth	Réséda		
 pb	527	0531	4582737
+entry	Réséda [H. Baillon] (bibliographie)	0	
+orth	Réséda		
 pb	528	0532	4582738
 entry	Résinéine [C.Lutz]	0	
 orth	Résinéine		
@@ -764,7 +940,7 @@ orth	Résines
 pb	529	0533	4582739
 entry	Résinier d'amérique	0	
 ref	Gomart)		
-entry	Résolutifs [A. Bordier]	14	
+entry	Résolutifs [A. Bordier]	12	
 orth	Résolutifs		
 pb	530	0534	4582740
 pb	531	0535	4582741
@@ -779,6 +955,8 @@ pb	539	0543	4582749
 pb	540	0544	4582750
 pb	541	0545	4582751
 pb	542	0546	4582752
+entry	Résolutifs [A. Bordier] (bibliographie)	1	
+orth	Résolutifs		
 pb	543	0547	4582753
 entry	Résorption [L. Hecht]	15	
 orth	Résorption		
@@ -797,7 +975,7 @@ pb	555	0559	4582765
 pb	556	0560	4582766
 pb	557	0561	4582767
 pb	558	0562	4582768
-entry	Respiration [G. Carlet]	87	
+entry	Respiration [G. Carlet]	81	
 orth	Respiration		
 pb	559	0563	4582769
 pb	560	0564	4582770
@@ -881,6 +1059,8 @@ pb	637	0641	4582847
 pb	638	0642	4582848
 pb	639	0643	4582849
 pb	640	0644	4582850
+entry	Respiration [G. Carlet] (bibliographie)	5	
+orth	Respiration		
 pb	641	0645	4582851
 pb	642	0646	4582852
 pb	643	0647	4582853
@@ -888,7 +1068,7 @@ pb	644	0648	4582854
 pb	645	0649	4582855
 entry	Respiratoire (Appareil)	0	
 ref	Respiration		
-entry	Responsabilité médicale [G. Tourdes]	43	
+entry	Responsabilité médicale [G. Tourdes]	41	
 orth	Responsabilité médicale		
 pb	646	0650	4582856
 pb	647	0651	4582857
@@ -932,8 +1112,10 @@ pb	684	0688	4582894
 pb	685	0689	4582895
 pb	686	0690	4582896
 pb	687	0691	4582897
+entry	Responsabilité médicale [G. Tourdes] (bibliographie)	1	
+orth	Responsabilité médicale		
 pb	688	0692	4582898
-entry	Responsabilité légale des aliénés [Jules Falret]	43	
+entry	Responsabilité légale des aliénés [Jules Falret]	41	
 orth	Responsabilité légale des aliénés		
 pb	689	0693	4582899
 pb	690	0694	4582900
@@ -977,6 +1159,8 @@ pb	727	0731	4582937
 pb	728	0732	4582938
 pb	729	0733	4582939
 pb	730	0734	4582940
+entry	Responsabilité légale des aliénés [Jules Falret] (bibliographie)	1	
+orth	Responsabilité légale des aliénés		
 pb	731	0735	4582941
 entry	Responsabilité morale	0	
 ref	Déontologie		
@@ -989,7 +1173,7 @@ pb	735	0739	4582945
 pb	736	0740	4582946
 entry	Resta bovis	0	
 ref	Ononis		
-entry	Restaurand (Raymond) [A. Dureau]	0	
+entry	Restaurand (Raymond) [A. Dureau] (bibliographie)	0	
 orth	Restaurand (Raymond)		
 entry	Réthel (Eau minérale de) [A. Rotureau]	0	
 orth	Réthel (Eau minérale de)		

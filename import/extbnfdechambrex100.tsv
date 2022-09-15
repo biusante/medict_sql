@@ -48,10 +48,10 @@ orth	Vercellone (Jacopo)
 pb	22	0024	4596357
 entry	Verderame	0	
 ref	Pellagre		
-entry	Verdier (Les cinq) [L. Hahn]	0	
+entry	Verdier (Les cinq) [L. Hahn] (bibliographie)	0	
 orth	Verdier (Les cinq)		
 pb	23	0025	4596358
-entry	Verdries (Johann-Melchior) [L. Hahn]	0	
+entry	Verdries (Johann-Melchior) [L. Hahn] (bibliographie)	0	
 orth	Verdries (Johann-Melchior)		
 entry	Verduc (Les)	0	
 entry	Verduyn (Pieter-Adriaanszoon) [L. Hahn]	0	
@@ -74,7 +74,7 @@ ref	Grossesse
 entry	Verhaeghe (Louis) [L. Hahn]	1	
 orth	Verhaeghe (Louis)		
 pb	25	0027	4596360
-entry	Verheyen (Philippe) [L. Hahn]	0	
+entry	Verheyen (Philippe) [L. Hahn] (bibliographie)	0	
 orth	Verheyen (Philippe)		
 entry	Vering (Les) [L. Hahn]	0	
 orth	Vering (Les)		
@@ -131,14 +131,14 @@ orth	Vernois (Ange-Gabriel-Maxime)
 entry	Vernoniacées ou Vernoniées [Ed. Lefèvre]	0	
 orth	Vernoniacées ou Vernoniées		
 entry	Vernonie	0	
-entry	Vernonie. Botanique [Ed. Lefèvre]	1	
+entry	Vernonie. Botanique [Ed. Lefèvre] (bibliographie)	1	
 orth	Vernonie. Botanique		
 pb	30	0032	4596365
 entry	Emploi thérapeutique [Charles Éloy]	0	
 orth	Emploi thérapeutique		
 pb	31	0033	4596366
 entry	Véronique	0	
-entry	Botanique [Ed. Lefèvre]	0	
+entry	Botanique [Ed. Lefèvre] (bibliographie)	0	
 orth	Botanique		
 pb	32	0034	4596367
 entry	Véronique	0	
@@ -150,10 +150,12 @@ pb	33	0035	4596368
 entry	Verrues [L. Lereboullet]	1	
 orth	Verrues		
 pb	34	0036	4596369
-entry	Verrugas [Baron d'Ornellas]	1	
+entry	Verrugas [Baron d'Ornellas]	0	
 orth	Verrugas		
 pb	35	0037	4596370
-entry	Vers [Raphaël Blanchard]	19	
+entry	Verrugas [Baron d'Ornellas] (bibliographie)	0	
+orth	Verrugas		
+entry	Vers [Raphaël Blanchard]	18	
 orth	Vers		
 pb	36	0038	4596371
 pb	37	0039	4596372
@@ -174,6 +176,8 @@ pb	51	0053	4596386
 pb	52	0054	4596387
 pb	53	0055	4596388
 pb	54	0056	4596389
+entry	Vers [Raphaël Blanchard] (bibliographie)	0	
+orth	Vers		
 entry	Vers (Eau minérale de)	0	
 ref	Vaire		
 entry	Versailles (Eaux minérales de) [A. Rotureau]	0	
@@ -265,7 +269,7 @@ pb	128	0130	4596463
 pb	129	0131	4596464
 pb	130	0132	4596465
 pb	131	0133	4596466
-entry	Vertèbre (Anatomie philosophique) [Paul Villemin]	12	
+entry	Vertèbre (Anatomie philosophique) [Paul Villemin]	10	
 orth	Vertèbre (Anatomie philosophique)		
 pb	132	0134	4596467
 pb	133	0135	4596468
@@ -278,6 +282,8 @@ pb	139	0141	4596474
 pb	140	0142	4596475
 pb	141	0143	4596476
 pb	142	0144	4596477
+entry	Vertèbre (Anatomie philosophique) [Paul Villemin] (bibliographie)	1	
+orth	Vertèbre (Anatomie philosophique)		
 pb	143	0145	4596478
 entry	Vertébrés [E. Oustalet]	3	
 orth	Vertébrés		
@@ -286,7 +292,7 @@ pb	145	0147	4596480
 pb	146	0148	4596481
 entry	Vertidine [L. Hahn]	0	
 orth	Vertidine		
-entry	Vertige [Henri Leroux]	42	
+entry	Vertige [Henri Leroux]	39	
 orth	Vertige		
 pb	147	0149	4596482
 pb	148	0150	4596483
@@ -328,6 +334,8 @@ pb	183	0185	4596518
 pb	184	0186	4596519
 pb	185	0187	4596520
 pb	186	0188	4596521
+entry	Vertige [Henri Leroux] (bibliographie)	2	
+orth	Vertige		
 pb	187	0189	4596522
 pb	188	0190	4596523
 entry	Versari (Camillo) [L. Hahn]	0	
@@ -341,7 +349,7 @@ pb	189	0191	4596524
 entry	Verveine. Emploi [Édouard Heckel]	1	
 orth	Verveine. Emploi		
 pb	190	0192	4596525
-entry	Verzascha (Bernhard) [L. Hahn]	0	
+entry	Verzascha (Bernhard) [L. Hahn] (bibliographie)	0	
 orth	Verzascha (Bernhard)		
 entry	Vésale (André) [L. Hahn]	1	
 orth	Vésale (André)		
@@ -399,7 +407,7 @@ orth	Vesling (Johann)
 entry	Vespa (Giuseppe di) [L. Hahn]	1	
 orth	Vespa (Giuseppe di)		
 pb	195	0197	4596530
-entry	Vespertilion [E. Oustalet]	0	
+entry	Vespertilion [E. Oustalet] (bibliographie)	0	
 orth	Vespertilion		
 entry	Vesse-de-loup [Ed. Lefèvre]	0	
 orth	Vesse-de-loup		
@@ -419,7 +427,7 @@ pb	205	0207	4596540
 pb	206	0208	4596541
 pb	207	0209	4596542
 pb	208	0210	4596543
-entry	Vessie. Histologie [F. Tourneux, G. Herrmann]	10	
+entry	Vessie. Histologie [F. Tourneux, G. Herrmann]	9	
 orth	Vessie. Histologie		
 pb	209	0211	4596544
 pb	210	0212	4596545
@@ -431,9 +439,11 @@ pb	215	0217	4596550
 pb	216	0218	4596551
 pb	217	0219	4596552
 pb	218	0220	4596553
+entry	Vessie. Histologie [F. Tourneux, G. Herrmann] (bibliographie)	0	
+orth	Vessie. Histologie		
 pb	219	0221	4596554
 entry	Vessie	0	
-entry	Vessie. Physiologie [Maurice Hache]	18	
+entry	Vessie. Physiologie [Maurice Hache]	16	
 orth	Vessie. Physiologie		
 pb	220	0222	4596555
 pb	221	0223	4596556
@@ -452,8 +462,10 @@ pb	233	0235	4596568
 pb	234	0236	4596569
 pb	235	0237	4596570
 pb	236	0238	4596571
+entry	Vessie. Physiologie [Maurice Hache] (bibliographie)	1	
+orth	Vessie. Physiologie		
 pb	237	0239	4596572
-entry	Vessie. Pathologie [Maurice Hache]	172	
+entry	Vessie. Pathologie [Maurice Hache]	166	
 orth	Vessie. Pathologie		
 pb	238	0240	4596573
 pb	239	0241	4596574
@@ -622,6 +634,8 @@ pb	401	0403	4596736
 pb	402	0404	4596737
 pb	403	0405	4596738
 pb	404	0406	4596739
+entry	Vessie. Pathologie [Maurice Hache] (bibliographie)	5	
+orth	Vessie. Pathologie		
 pb	405	0407	4596740
 pb	406	0408	4596741
 pb	407	0409	4596742
@@ -655,7 +669,7 @@ entry	Veyras (Jacques) [L. Hahn]	0
 orth	Veyras (Jacques)		
 entry	Veyrasse (La) (Eau minérale de)	0	
 ref	La Veyrasse		
-entry	Viabilité [G. Tourdes]	19	
+entry	Viabilité [G. Tourdes]	18	
 orth	Viabilité		
 pb	413	0415	4596748
 pb	414	0416	4596749
@@ -676,6 +690,8 @@ pb	428	0430	4596763
 pb	429	0431	4596764
 pb	430	0432	4596765
 pb	431	0433	4596766
+entry	Viabilité [G. Tourdes] (bibliographie)	0	
+orth	Viabilité		
 pb	432	0434	4596767
 entry	Viardel (Cosme) [L. Hahn]	0	
 orth	Viardel (Cosme)		
@@ -700,7 +716,7 @@ ref	Maurice (Saint-)
 entry	Vic-sur-Cère ou Vic-en-Carladès (Eaux minérales de) [A. Rotureau]	1	
 orth	Vic-sur-Cère ou Vic-en-Carladès (Eaux minérales de)		
 pb	433	0435	4596768
-entry	Vicat (Pierre-Rodolphe) [L. Hahn]	0	
+entry	Vicat (Pierre-Rodolphe) [L. Hahn] (bibliographie)	0	
 orth	Vicat (Pierre-Rodolphe)		
 entry	Vichy (Eaux minérales et hydrothérapie de) [A. Rotureau]	19	
 orth	Vichy (Eaux minérales et hydrothérapie de)		
@@ -757,22 +773,26 @@ pb	462	0464	4596797
 pb	463	0465	4596798
 pb	464	0466	4596799
 pb	465	0467	4596800
-entry	Vieille de mer [H.-E. Sauvage]	0	
+entry	Vieille de mer [H.-E. Sauvage] (bibliographie)	0	
 orth	Vieille de mer		
 entry	Vierordt (Karl von) [L. Hahn]	0	
 orth	Vierordt (Karl von)		
-entry	Vieussens (Raymond) [L. Hahn]	1	
+entry	Vieussens (Raymond) [L. Hahn]	0	
 orth	Vieussens (Raymond)		
 pb	466	0468	4596801
+entry	Vieussens (Raymond) [L. Hahn] (bibliographie)	0	
+orth	Vieussens (Raymond)		
 entry	Vigan (Le) (Eau minérale de)	0	
 ref	Cauvalat-lès-Le-Vigan		
 entry	Vigarous (Barthélemy) [L. Hahn]	0	
 orth	Vigarous (Barthélemy)		
 entry	Vigla (Eugène-Napoléon) [L. Hahn]	0	
 orth	Vigla (Eugène-Napoléon)		
-entry	Vigne [H. Baillon]	1	
+entry	Vigne [H. Baillon]	0	
 orth	Vigne		
 pb	467	0469	4596802
+entry	Vigne [H. Baillon] (bibliographie)	0	
+orth	Vigne		
 entry	Vignolles (Eau minérale de) [A. Rotureau]	1	
 orth	Vignolles (Eau minérale de)		
 pb	468	0470	4596803
@@ -790,7 +810,7 @@ orth	Vihnye (Eau minérale de)
 pb	472	0474	4596807
 entry	Villages	0	
 ref	Rurale (Hygiène)		
-entry	Villalobos (Francesco-Lopez de) [L. Hahn]	0	
+entry	Villalobos (Francesco-Lopez de) [L. Hahn] (bibliographie)	0	
 orth	Villalobos (Francesco-Lopez de)		
 entry	Villars (Dominique) [L. Hahn]	0	
 orth	Villars (Dominique)		
@@ -806,20 +826,22 @@ orth	Villefranche (Station hivernale)
 entry	Villefranche de Rouergue (Eau minérale de) [A. Rotureau]	1	
 orth	Villefranche de Rouergue (Eau minérale de)		
 pb	474	0476	4596809
-entry	Villermay (Jean-Baptiste Louyer) [L. Hahn]	0	
+entry	Villermay (Jean-Baptiste Louyer) [L. Hahn] (bibliographie)	0	
 orth	Villermay (Jean-Baptiste Louyer)		
 entry	Villermé (Louis-René) [L. Hahn]	0	
 orth	Villermé (Louis-René)		
-entry	Villers (Servais-Augustin de) [L. Hahn]	1	
+entry	Villers (Servais-Augustin de) [L. Hahn]	0	
 orth	Villers (Servais-Augustin de)		
 pb	475	0477	4596810
+entry	Villers (Servais-Augustin de) [L. Hahn] (bibliographie)	0	
+orth	Villers (Servais-Augustin de)		
 entry	Villers-Lac (Eau minérale de)	0	
 ref	Lac-Villers		
 entry	Villers-sur-Mer (Station marine) [A. Rotureau]	0	
 orth	Villers-sur-Mer (Station marine)		
 entry	Villerville (Station marine) [A. Rotureau]	0	
 orth	Villerville (Station marine)		
-entry	Villes [Jules Arnould]	149	
+entry	Villes [Jules Arnould]	146	
 orth	Villes		
 pb	476	0478	4596811
 pb	477	0479	4596812
@@ -968,6 +990,8 @@ pb	619	0621	4596954
 pb	620	0622	4596955
 pb	621	0623	4596956
 pb	622	0624	4596957
+entry	Villes [Jules Arnould] (bibliographie)	2	
+orth	Villes		
 pb	623	0625	4596958
 pb	624	0626	4596959
 entry	Vin [Ch. Blarez]	16	
@@ -1026,7 +1050,7 @@ entry	Vinettier	0
 ref	Épine-vinette		
 entry	Vingtrinier (Artus-Barthélemy) [L. Hahn]	0	
 orth	Vingtrinier (Artus-Barthélemy)		
-entry	Viol et Attentats aux moeurs [G. Tourdes]	41	
+entry	Viol et Attentats aux moeurs [G. Tourdes]	39	
 orth	Viol et Attentats aux moeurs		
 pb	659	0661	4596994
 pb	660	0662	4596995
@@ -1068,6 +1092,8 @@ pb	695	0697	4597030
 pb	696	0698	4597031
 pb	697	0699	4597032
 pb	698	0700	4597033
+entry	Viol et Attentats aux moeurs [G. Tourdes] (bibliographie)	1	
+orth	Viol et Attentats aux moeurs		
 pb	699	0701	4597034
 entry	Viola	0	
 ref	Violette		
@@ -1101,16 +1127,20 @@ entry	Viorne. Emploi médical [Charles Éloy]	2
 orth	Viorne. Emploi médical		
 pb	711	0713	4597046
 pb	712	0714	4597047
-entry	Vipère [H.-E. Sauvage]	1	
+entry	Vipère [H.-E. Sauvage]	0	
 orth	Vipère		
 pb	713	0715	4597048
+entry	Vipère [H.-E. Sauvage] (bibliographie)	0	
+orth	Vipère		
 entry	Vipéridées [H.-E. Sauvage]	0	
 orth	Vipéridées		
 entry	Vipérine	0	
 ref	Échium		
-entry	Virey (Julien-Joseph) [L. Hahn]	1	
+entry	Virey (Julien-Joseph) [L. Hahn]	0	
 orth	Virey (Julien-Joseph)		
 pb	714	0716	4597049
+entry	Virey (Julien-Joseph) [L. Hahn] (bibliographie)	0	
+orth	Virey (Julien-Joseph)		
 entry	Viridine [Riche]	0	
 orth	Viridine		
 entry	Viridique (Acide) [Riche]	0	
@@ -1167,7 +1197,7 @@ pb	729	0731	4597064
 pb	730	0732	4597065
 pb	731	0733	4597066
 pb	732	0734	4597067
-entry	Vitet (Louis) [L. Hahn]	0	
+entry	Vitet (Louis) [L. Hahn] (bibliographie)	0	
 orth	Vitet (Louis)		
 entry	Vitex	0	
 ref	Gattilier		
@@ -1195,9 +1225,11 @@ pb	743	0745	4597078
 pb	744	0746	4597079
 pb	745	0747	4597080
 pb	746	0748	4597081
-entry	Vive [H.-E. Sauvage]	1	
+entry	Vive [H.-E. Sauvage]	0	
 orth	Vive		
 pb	747	0749	4597082
+entry	Vive [H.-E. Sauvage] (bibliographie)	0	
+orth	Vive		
 entry	Viverridés [E. Oustalet]	1	
 orth	Viverridés		
 pb	748	0750	4597083
@@ -1233,7 +1265,7 @@ ref	Géographie médicale
 ref	Géologie		
 entry	Voliakes	0	
 ref	Russie		
-entry	Volkmann (Alfred-Wilhelm) [L. Hahn]	0	
+entry	Volkmann (Alfred-Wilhelm) [L. Hahn] (bibliographie)	0	
 orth	Volkmann (Alfred-Wilhelm)		
 entry	Voltamètre [C.-M. Gariel]	1	
 orth	Voltamètre		
@@ -1281,7 +1313,7 @@ entry	Vouacapoua [Ed. Lefèvre]	0
 orth	Vouacapoua		
 entry	Vouapa [Ed. Lefèvre]	0	
 orth	Vouapa		
-entry	Voullonne [L. Hahn]	0	
+entry	Voullonne [L. Hahn] (bibliographie)	0	
 orth	Voullonne		
 entry	Vrécourt (Eau minérale de) [A. Rotureau]	1	
 orth	Vrécourt (Eau minérale de)		
@@ -1369,7 +1401,7 @@ entry	Wakas	0
 ref	Britanniques		
 entry	Waldenburg (Louis) [L. Hahn]	0	
 orth	Waldenburg (Louis)		
-entry	Walther (Les) [L. Hahn]	0	
+entry	Walther (Les) [L. Hahn] (bibliographie)	0	
 orth	Walther (Les)		
 entry	Waltheria [Ed. Lefèvre]	0	
 orth	Waltheria		
@@ -1494,11 +1526,13 @@ ref	Facial
 ref	Larynx		
 entry	Wuertz ou Wirtz (Felix) [L. Hahn]	0	
 orth	Wuertz ou Wirtz (Felix)		
-entry	Wunderlich (Karl-Reinhold-August) [L. Hahn]	0	
+entry	Wunderlich (Karl-Reinhold-August) [L. Hahn] (bibliographie)	0	
 orth	Wunderlich (Karl-Reinhold-August)		
-entry	Würtz (Charles-Adolphe) [L. Hahn]	2	
+entry	Würtz (Charles-Adolphe) [L. Hahn]	0	
 orth	Würtz (Charles-Adolphe)		
 pb	847	0849	4597182
+entry	Würtz (Charles-Adolphe) [L. Hahn] (bibliographie)	1	
+orth	Würtz (Charles-Adolphe)		
 pb	848	0850	4597183
 entry	Wutzer (Carl-Wilhelm) [L. Hahn]	0	
 orth	Wutzer (Carl-Wilhelm)		
@@ -1514,18 +1548,22 @@ entry	Xanthélène [Edme Bourgoin]	0
 orth	Xanthélène		
 entry	Xanthène [Edme Bourgoin]	0	
 orth	Xanthène		
-entry	Xanthine [Edme Bourgoin]	4	
+entry	Xanthine [Edme Bourgoin]	3	
 orth	Xanthine		
 pb	851	0853	4597186
 pb	852	0854	4597187
 pb	853	0855	4597188
 pb	854	0856	4597189
+entry	Xanthine [Edme Bourgoin] (bibliographie)	0	
+orth	Xanthine		
 entry	Xanthinine [Edme Bourgoin]	0	
 orth	Xanthinine		
-entry	Xanthique (Acide) [Edme Bourgoin]	2	
+entry	Xanthique (Acide) [Edme Bourgoin]	1	
 orth	Xanthique (Acide)		
 pb	855	0857	4597190
 pb	856	0858	4597191
+entry	Xanthique (Acide) [Edme Bourgoin] (bibliographie)	0	
+orth	Xanthique (Acide)		
 pb	857	0859	4597192
 entry	Xanthium	0	
 ref	Lampourde		
@@ -1533,11 +1571,11 @@ entry	Xanthocarpine [L. Hahn]	0
 orth	Xanthocarpine		
 entry	Xanthochymus [Ed. Lefèvre]	0	
 orth	Xanthochymus		
-entry	Xanthogène [Edme Bourgoin]	0	
+entry	Xanthogène [Edme Bourgoin] (bibliographie)	0	
 orth	Xanthogène		
 entry	Xantholéine [Edme Bourgoin]	0	
 orth	Xantholéine		
-entry	Xanthome. Xanthoma. Xanthélasma [Henri Feulard, Louis Wickham]	18	
+entry	Xanthome. Xanthoma. Xanthélasma [Henri Feulard, Louis Wickham]	15	
 orth	Xanthome. Xanthoma. Xanthélasma		
 pb	858	0860	4597193
 pb	859	0861	4597194
@@ -1555,6 +1593,8 @@ pb	870	0872	4597205
 pb	871	0873	4597206
 pb	872	0874	4597207
 pb	873	0875	4597208
+entry	Xanthome. Xanthoma. Xanthélasma [Henri Feulard, Louis Wickham] (bibliographie)	2	
+orth	Xanthome. Xanthoma. Xanthélasma		
 pb	874	0876	4597209
 pb	875	0877	4597210
 entry	Xanthophénique (Acide) [Edme Bourgoin]	0	
@@ -1564,9 +1604,11 @@ orth	Xanthopicrine
 entry	Xanthoprotéique (Acide) [Edme Bourgoin]	1	
 orth	Xanthoprotéique (Acide)		
 pb	876	0878	4597211
-entry	Xanthopurpurine [Edme Bourgoin]	1	
+entry	Xanthopurpurine [Edme Bourgoin]	0	
 orth	Xanthopurpurine		
 pb	877	0879	4597212
+entry	Xanthopurpurine [Edme Bourgoin] (bibliographie)	0	
+orth	Xanthopurpurine		
 entry	Xanthorhamnine [Edme Bourgoin]	0	
 orth	Xanthorhamnine		
 entry	Xanthorhiza [Ed. Lefèvre]	0	
@@ -1582,15 +1624,19 @@ entry	Xanthoxyline [Edme Bourgoin]	0
 orth	Xanthoxyline		
 entry	Xanthoxylum ou Zanthoxylum	0	
 ref	Clavalier		
-entry	Xénoderme [H.-E. Sauvage]	0	
+entry	Xénoderme [H.-E. Sauvage] (bibliographie)	0	
 orth	Xénoderme		
-entry	Xénodon [H.-E. Sauvage]	1	
+entry	Xénodon [H.-E. Sauvage]	0	
 orth	Xénodon		
 pb	879	0881	4597214
-entry	Xénols [Edme Bourgoin]	2	
+entry	Xénodon [H.-E. Sauvage] (bibliographie)	0	
+orth	Xénodon		
+entry	Xénols [Edme Bourgoin]	1	
 orth	Xénols		
 pb	880	0882	4597215
 pb	881	0883	4597216
+entry	Xénols [Edme Bourgoin] (bibliographie)	0	
+orth	Xénols		
 entry	Xénylamines	0	
 ref	Xylidines		
 entry	Xényle (Dixényle) [Edme Bourgoin]	2	
@@ -1621,47 +1667,59 @@ orth	Xiphopages
 entry	Xiphosures [Ed. Lefèvre]	1	
 orth	Xiphosures		
 pb	889	0891	4597224
-entry	Xylènes [Edme Bourgoin]	4	
+entry	Xylènes [Edme Bourgoin]	3	
 orth	Xylènes		
 pb	890	0892	4597225
 pb	891	0893	4597226
 pb	892	0894	4597227
 pb	893	0895	4597228
+entry	Xylènes [Edme Bourgoin] (bibliographie)	0	
+orth	Xylènes		
 entry	Xylétique (Acide) [Edme Bourgoin]	1	
 orth	Xylétique (Acide)		
 pb	894	0896	4597229
-entry	Xylidines [Edme Bourgoin]	3	
+entry	Xylidines [Edme Bourgoin]	2	
 orth	Xylidines		
 pb	895	0897	4597230
 pb	896	0898	4597231
 pb	897	0899	4597232
+entry	Xylidines [Edme Bourgoin] (bibliographie)	0	
+orth	Xylidines		
 entry	Xylidiques (Acides) [Edme Bourgoin]	1	
 orth	Xylidiques (Acides)		
 pb	898	0900	4597233
-entry	Xylindéine [Edme Bourgoin]	1	
+entry	Xylindéine [Edme Bourgoin]	0	
 orth	Xylindéine		
 pb	899	0901	4597234
-entry	Xyliques (Acides) [Edme Bourgoin]	2	
+entry	Xylindéine [Edme Bourgoin] (bibliographie)	0	
+orth	Xylindéine		
+entry	Xyliques (Acides) [Edme Bourgoin]	1	
 orth	Xyliques (Acides)		
 pb	900	0902	4597235
 pb	901	0903	4597236
+entry	Xyliques (Acides) [Edme Bourgoin] (bibliographie)	0	
+orth	Xyliques (Acides)		
 entry	Xylitone [Edme Bourgoin]	0	
 orth	Xylitone		
 entry	Xylobalsamum [Ed. Lefèvre]	0	
 orth	Xylobalsamum		
-entry	Xyloïdine [Edme Bourgoin]	1	
+entry	Xyloïdine [Edme Bourgoin]	0	
 orth	Xyloïdine		
 pb	902	0904	4597237
+entry	Xyloïdine [Edme Bourgoin] (bibliographie)	0	
+orth	Xyloïdine		
 entry	Xylophtaliques (Acides) [Edme Bourgoin]	1	
 orth	Xylophtaliques (Acides)		
 pb	903	0905	4597238
 entry	Xylopia [Ed. Lefèvre]	0	
 orth	Xylopia		
-entry	Xyloquinons [Edme Bourgoin]	3	
+entry	Xyloquinons [Edme Bourgoin]	2	
 orth	Xyloquinons		
 pb	904	0906	4597239
 pb	905	0907	4597240
 pb	906	0908	4597241
+entry	Xyloquinons [Edme Bourgoin] (bibliographie)	0	
+orth	Xyloquinons		
 entry	Xylorcine [Edme Bourgoin]	0	
 orth	Xylorcine		
 entry	Xylostéine [L. Hahn]	0	
@@ -1669,17 +1727,21 @@ orth	Xylostéine
 entry	Xylylacétone [Edme Bourgoin]	1	
 orth	Xylylacétone		
 pb	907	0909	4597242
-entry	Xylylglyoxylique (Acide) [Edme Bourgoin]	0	
+entry	Xylylglyoxylique (Acide) [Edme Bourgoin] (bibliographie)	0	
 orth	Xylylglyoxylique (Acide)		
-entry	Xylylméthylacétone [Edme Bourgoin]	1	
+entry	Xylylméthylacétone [Edme Bourgoin]	0	
 orth	Xylylméthylacétone		
 pb	908	0910	4597243
+entry	Xylylméthylacétone [Edme Bourgoin] (bibliographie)	0	
+orth	Xylylméthylacétone		
 entry	Xyris [Ed. Lefèvre]	0	
 orth	Xyris		
 pb	909	0911	4597244
-entry	Yack [E. Oustalet]	1	
+entry	Yack [E. Oustalet]	0	
 orth	Yack		
 pb	910	0912	4597245
+entry	Yack [E. Oustalet] (bibliographie)	0	
+orth	Yack		
 entry	Yacouts	0	
 ref	Asie		
 entry	Yaguires	0	
@@ -1721,7 +1783,7 @@ orth	Yverdun ou Yverdon (Eau minérale de)
 pb	913	0915	4597248
 pb	[s. pag.]	0916	4597249
 pb	915	0917	4597250
-entry	Zamenis [H.-E. Sauvage]	0	
+entry	Zamenis [H.-E. Sauvage] (bibliographie)	0	
 orth	Zamenis		
 entry	Zamia [Ed. Lefèvre]	1	
 orth	Zamia		
@@ -1736,12 +1798,16 @@ entry	Zapothèques	0
 ref	Mexique		
 entry	Zea	0	
 ref	Maïs		
-entry	Zèbre [E. Oustalet]	1	
+entry	Zèbre [E. Oustalet]	0	
 orth	Zèbre		
 pb	917	0919	4597252
-entry	Zébu [E. Oustalet]	1	
+entry	Zèbre [E. Oustalet] (bibliographie)	0	
+orth	Zèbre		
+entry	Zébu [E. Oustalet]	0	
 orth	Zébu		
 pb	918	0920	4597253
+entry	Zébu [E. Oustalet] (bibliographie)	0	
+orth	Zébu		
 entry	Zédoaire [Ed. Lefèvre]	0	
 orth	Zédoaire		
 entry	Zéine [Edme Bourgoin]	1	
@@ -1749,7 +1815,7 @@ orth	Zéine
 pb	919	0921	4597254
 entry	Zéisme	0	
 ref	Pellagre		
-entry	Zeissl (Hermann von) [L. Hahn]	0	
+entry	Zeissl (Hermann von) [L. Hahn] (bibliographie)	0	
 orth	Zeissl (Hermann von)		
 entry	Zemmi [E. Oustalet]	0	
 orth	Zemmi		
@@ -1766,9 +1832,11 @@ entry	Zeste [Ed. Lefèvre]	0
 orth	Zeste		
 entry	Zibeline [E. Oustalet]	0	
 orth	Zibeline		
-entry	Zibeth [E. Oustalet]	1	
+entry	Zibeth [E. Oustalet]	0	
 orth	Zibeth		
 pb	921	0923	4597256
+entry	Zibeth [E. Oustalet] (bibliographie)	0	
+orth	Zibeth		
 entry	Zimmermann (Johann-Georg) [A. Dureau]	0	
 orth	Zimmermann (Johann-Georg)		
 entry	Zinc [Ch. Blarez]	11	
@@ -1802,7 +1870,7 @@ ref	Corps vitré
 entry	Ziphiidés [E. Oustalet]	0	
 orth	Ziphiidés		
 pb	933	0935	4597268
-entry	Ziphiidés [E. Oustalet] [E. G.]	0	
+entry	Ziphiidés [E. Oustalet] (bibliographie) [E. G.]	0	
 orth	Ziphiidés		
 pb	934	0936	4597269
 entry	Zircone [L. Hahn]	0	
@@ -1825,7 +1893,7 @@ entry	Zoïdine [Edme Bourgoin]	0
 orth	Zoïdine		
 entry	Zomidine [Edme Bourgoin]	0	
 orth	Zomidine		
-entry	Zona [Henri Leroux]	30	
+entry	Zona [Henri Leroux]	27	
 orth	Zona		
 pb	937	0939	4597272
 pb	938	0940	4597273
@@ -1855,6 +1923,8 @@ pb	961	0963	4597296
 pb	962	0964	4597297
 pb	963	0965	4597298
 pb	964	0966	4597299
+entry	Zona [Henri Leroux] (bibliographie)	2	
+orth	Zona		
 pb	965	0967	4597300
 pb	966	0968	4597301
 entry	Zoogloea	0	
@@ -1871,9 +1941,11 @@ entry	Zoostéarique (Acide) [Edme Bourgoin]	0
 orth	Zoostéarique (Acide)		
 entry	Zooxanthine [L. Hahn]	0	
 orth	Zooxanthine		
-entry	Zorille [E. Oustalet]	1	
+entry	Zorille [E. Oustalet]	0	
 orth	Zorille		
 pb	967	0969	4597302
+entry	Zorille [E. Oustalet] (bibliographie)	0	
+orth	Zorille		
 entry	Zoris	0	
 ref	Araignées		
 entry	Zostère [Ed. Lefèvre]	1	
@@ -1883,9 +1955,11 @@ entry	Zuber (Hubert-Charles-César) [L. Hahn]	0
 orth	Zuber (Hubert-Charles-César)		
 entry	Zwickau (Eau minérale de) [A. Rotureau]	0	
 orth	Zwickau (Eau minérale de)		
-entry	Zygène [H.-E. Sauvage]	1	
+entry	Zygène [H.-E. Sauvage]	0	
 orth	Zygène		
 pb	969	0971	4597304
+entry	Zygène [H.-E. Sauvage] (bibliographie)	0	
+orth	Zygène		
 entry	Zygodactyles [E. Oustalet]	0	
 orth	Zygodactyles		
 entry	Zygomatique (Arcade)	0	
@@ -1894,9 +1968,11 @@ entry	Zygophyllées [Ed. Lefèvre]	0
 orth	Zygophyllées		
 entry	Zygophyllum [Ed. Lefèvre]	0	
 orth	Zygophyllum		
-entry	Zymase [Edme Bourgoin]	1	
+entry	Zymase [Edme Bourgoin]	0	
 orth	Zymase		
 pb	970	0972	4597305
+entry	Zymase [Edme Bourgoin] (bibliographie)	0	
+orth	Zymase		
 entry	Zymique (Acide) [Edme Bourgoin]	0	
 orth	Zymique (Acide)		
 entry	Zymome [Edme Bourgoin]	0	

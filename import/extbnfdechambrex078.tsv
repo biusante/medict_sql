@@ -5,7 +5,7 @@ pb	[s. pag.]	0003	4578861
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4578862
 pb	1	0005	4578863
-entry	Platner (Les) [L. Hahn]	0	
+entry	Platner (Les) [L. Hahn] (bibliographie)	0	
 orth	Platner (Les)		
 entry	Plâtrage des vins	0	
 ref	Vins		
@@ -21,13 +21,15 @@ entry	Plâtriers	0
 ref	Chaux (Fours à)		
 entry	Plattensee (Eaux minérales de)	0	
 ref	Balaton-Fured		
-entry	Plature [H.-E. Sauvage]	0	
+entry	Plature [H.-E. Sauvage] (bibliographie)	0	
 orth	Plature		
 entry	Platycéphale	0	
 ref	Crâne		
-entry	Platycerques [H.-E. Sauvage]	1	
+entry	Platycerques [H.-E. Sauvage]	0	
 orth	Platycerques		
 pb	4	0008	4578866
+entry	Platycerques [H.-E. Sauvage] (bibliographie)	0	
+orth	Platycerques		
 entry	Platyrrhiniens [H.-E. Sauvage]	0	
 orth	Platyrrhiniens		
 entry	Platysterne [H.-E. Sauvage]	0	
@@ -40,27 +42,33 @@ entry	Plecmon [Ed. Lefèvre]	0
 orth	Plecmon		
 entry	Plectane	0	
 ref	Araignées		
-entry	Plectognathes [H.-E. Sauvage]	2	
+entry	Plectognathes [H.-E. Sauvage]	1	
 orth	Plectognathes		
 pb	5	0009	4578867
 pb	6	0010	4578868
+entry	Plectognathes [H.-E. Sauvage] (bibliographie)	0	
+orth	Plectognathes		
 entry	Plectranthus [Ed. Lefèvre]	0	
 orth	Plectranthus		
-entry	Plemp (Vopiscus-Fortunatus) [L. Hahn]	1	
+entry	Plemp (Vopiscus-Fortunatus) [L. Hahn]	0	
 orth	Plemp (Vopiscus-Fortunatus)		
 pb	7	0011	4578869
+entry	Plemp (Vopiscus-Fortunatus) [L. Hahn] (bibliographie)	0	
+orth	Plemp (Vopiscus-Fortunatus)		
 entry	Plenciz (Les deux) [L. Hahn]	0	
 orth	Plenciz (Les deux)		
 entry	Plenck (Joseph-Jacob von) [L. Hahn]	0	
 orth	Plenck (Joseph-Jacob von)		
 entry	Pleneuf-Dahouet (Station marine de) [A. Rotureau]	0	
 orth	Pleneuf-Dahouet (Station marine de)		
-entry	Plessimètre [Louis Ménard]	4	
+entry	Plessimètre [Louis Ménard]	3	
 orth	Plessimètre		
 pb	8	0012	4578870
 pb	9	0013	4578871
 pb	10	0014	4578872
 pb	11	0015	4578873
+entry	Plessimètre [Louis Ménard] (bibliographie)	0	
+orth	Plessimètre		
 entry	Plessmann (Friedrich) [A. Dureau]	0	
 orth	Plessmann (Friedrich)		
 entry	Pléthore [L. Lereboullet]	1	
@@ -68,7 +76,7 @@ orth	Pléthore
 pb	12	0016	4578874
 entry	Pléthysmographe	0	
 ref	Décubitus		
-entry	Pleurésie [V. Widal]	111	
+entry	Pleurésie [V. Widal]	104	
 orth	Pleurésie		
 pb	13	0017	4578875
 pb	14	0018	4578876
@@ -175,6 +183,8 @@ pb	114	0118	4578976
 pb	115	0119	4578977
 pb	116	0120	4578978
 pb	117	0121	4578979
+entry	Pleurésie [V. Widal] (bibliographie)	6	
+orth	Pleurésie		
 pb	118	0122	4578980
 pb	119	0123	4578981
 pb	120	0124	4578982
@@ -195,7 +205,7 @@ pb	128	0132	4578990
 pb	129	0133	4578991
 entry	Pleuromèles (Monstres) [L. Hahn]	0	
 orth	Pleuromèles (Monstres)		
-entry	Pleuronectes [H.-E. Sauvage]	0	
+entry	Pleuronectes [H.-E. Sauvage] (bibliographie)	0	
 orth	Pleuronectes		
 entry	Pleurosomes [L. Hahn]	0	
 orth	Pleurosomes		
@@ -203,13 +213,15 @@ entry	Pleurote [Ed. Lefèvre]	0
 orth	Pleurote		
 pb	130	0134	4578992
 entry	Plèvres	0	
-entry	Plèvres. Anatomie [Marc Sée]	4	
+entry	Plèvres. Anatomie [Marc Sée]	3	
 orth	Plèvres. Anatomie		
 pb	131	0135	4578993
 pb	132	0136	4578994
 pb	133	0137	4578995
 pb	134	0138	4578996
-entry	Plèvres. Pathologie [Fernand Widal]	8	
+entry	Plèvres. Anatomie [Marc Sée] (bibliographie)	0	
+orth	Plèvres. Anatomie		
+entry	Plèvres. Pathologie [Fernand Widal]	6	
 orth	Plèvres. Pathologie		
 pb	135	0139	4578997
 pb	136	0140	4578998
@@ -218,6 +230,8 @@ pb	138	0142	4579000
 pb	139	0143	4579001
 pb	140	0144	4579002
 pb	141	0145	4579003
+entry	Plèvres. Pathologie [Fernand Widal] (bibliographie)	1	
+orth	Plèvres. Pathologie		
 pb	142	0146	4579004
 entry	Plexus Choroïde (Artère du)	0	
 ref	Choroïde		
@@ -228,11 +242,13 @@ entry	Plie [H.-E. Sauvage]	0
 orth	Plie		
 entry	Pline l'ancien (Caius-Plinius-Secondus) [L. Hahn]	0	
 orth	Pline l'ancien (Caius-Plinius-Secondus)		
-entry	Plique [Juhel-Rénoy]	3	
+entry	Plique [Juhel-Rénoy]	2	
 orth	Plique		
 pb	143	0147	4579005
 pb	144	0148	4579006
 pb	145	0149	4579007
+entry	Plique [Juhel-Rénoy] (bibliographie)	0	
+orth	Plique		
 entry	Plocaria [Ed. Lefèvre]	1	
 orth	Plocaria		
 pb	146	0150	4579008
@@ -299,9 +315,11 @@ pb	186	0190	4579048
 pb	187	0191	4579049
 entry	Plombique (Acide)	0	
 ref	Plomb		
-entry	Plongeon [E. Oustalet]	1	
+entry	Plongeon [E. Oustalet]	0	
 orth	Plongeon		
 pb	188	0192	4579050
+entry	Plongeon [E. Oustalet] (bibliographie)	0	
+orth	Plongeon		
 entry	Ploss (Hermann-Heinrich) [L. Hahn]	0	
 orth	Ploss (Hermann-Heinrich)		
 entry	Ploucquet (Wilhelm Gottfried) [A. Dureau]	1	
@@ -316,7 +334,7 @@ pb	191	0195	4579053
 pb	192	0196	4579054
 entry	Plukenet (Leonard) [L. Hahn]	0	
 orth	Plukenet (Leonard)		
-entry	Plukenetia (Plum.) [H. Baillon]	0	
+entry	Plukenetia (Plum.) [H. Baillon] (bibliographie)	0	
 orth	Plukenetia (Plum.)		
 entry	Plumatelle [Ed. Lefèvre]	1	
 orth	Plumatelle		
@@ -328,14 +346,16 @@ ref	Tégumentaire
 ref	Phanérophores		
 entry	Plumier (Charles) [L. Hahn]	0	
 orth	Plumier (Charles)		
-entry	Plumiera [Ed. Lefèvre]	0	
+entry	Plumiera [Ed. Lefèvre] (bibliographie)	0	
 orth	Plumiera		
 entry	Plumulaires [Ed. Lefèvre]	1	
 orth	Plumulaires		
 pb	194	0198	4579056
-entry	Pluvier [E. Oustalet]	1	
+entry	Pluvier [E. Oustalet]	0	
 orth	Pluvier		
 pb	195	0199	4579057
+entry	Pluvier [E. Oustalet] (bibliographie)	0	
+orth	Pluvier		
 entry	Pnéomètre, Pnéoscope	0	
 ref	Spiromètre		
 entry	Pneuma	0	
@@ -347,7 +367,7 @@ orth	Pneumique (Acide)
 entry	Pneumoderme [Ed. Lefèvre]	0	
 orth	Pneumoderme		
 pb	196	0200	4579058
-entry	Pneumogastrique (Nerf) [Nuel]	31	
+entry	Pneumogastrique (Nerf) [Nuel]	27	
 orth	Pneumogastrique (Nerf)		
 pb	197	0201	4579059
 pb	198	0202	4579060
@@ -377,6 +397,8 @@ pb	221	0225	4579083
 pb	222	0226	4579084
 pb	223	0227	4579085
 pb	224	0228	4579086
+entry	Pneumogastrique (Nerf) [Nuel] (bibliographie)	3	
+orth	Pneumogastrique (Nerf)		
 pb	225	0229	4579087
 pb	226	0230	4579088
 pb	227	0231	4579089
@@ -512,7 +534,7 @@ pb	352	0356	4579214
 pb	353	0357	4579215
 entry	Pneumopéricarde	0	
 ref	Péricarde		
-entry	Pneumothorax [V. Widal]	16	
+entry	Pneumothorax [V. Widal]	14	
 orth	Pneumothorax		
 pb	354	0358	4579216
 pb	355	0359	4579217
@@ -529,6 +551,8 @@ pb	365	0369	4579227
 pb	366	0370	4579228
 pb	367	0371	4579229
 pb	368	0372	4579230
+entry	Pneumothorax [V. Widal] (bibliographie)	1	
+orth	Pneumothorax		
 pb	369	0373	4579231
 entry	Poa [Ed. Lefèvre]	0	
 orth	Poa		
@@ -543,25 +567,31 @@ entry	Podagre	0
 ref	Goutte		
 entry	Podalire [A. Dureau]	0	
 orth	Podalire		
-entry	Podarge [E. Oustalet]	1	
+entry	Podarge [E. Oustalet]	0	
 orth	Podarge		
 pb	371	0375	4579233
+entry	Podarge [E. Oustalet] (bibliographie)	0	
+orth	Podarge		
 entry	Podencéphales [L. Hahn]	0	
 orth	Podencéphales		
 entry	Podisoma [Ed. Lefèvre]	0	
 orth	Podisoma		
 entry	Podocarpique (Acide) [L. Hahn]	0	
 orth	Podocarpique (Acide)		
-entry	Podocarpus [H. Baillon]	1	
+entry	Podocarpus [H. Baillon]	0	
 orth	Podocarpus		
 pb	372	0376	4579234
+entry	Podocarpus [H. Baillon] (bibliographie)	0	
+orth	Podocarpus		
 entry	Podophthalmes [Ed. Lefèvre]	0	
 orth	Podophthalmes		
 entry	Podophyllum (L.)	0	
-entry	Podophyllum (L.). Botanique [H. Baillon]	2	
+entry	Podophyllum (L.). Botanique [H. Baillon]	1	
 orth	Podophyllum (L.). Botanique		
 pb	373	0377	4579235
 pb	374	0378	4579236
+entry	Podophyllum (L.). Botanique [H. Baillon] (bibliographie)	0	
+orth	Podophyllum (L.). Botanique		
 entry	Podophyllum (L.). Applications thérapeutiques [Ernest Labbée]	7	
 orth	Podophyllum (L.). Applications thérapeutiques		
 pb	375	0379	4579237
@@ -578,11 +608,13 @@ entry	Poecilopodes [Ed. Lefèvre]	0
 orth	Poecilopodes		
 entry	Poêle	0	
 ref	Chauffage		
-entry	Poggendorff (Johann-Christian) [L. Hahn]	0	
+entry	Poggendorff (Johann-Christian) [L. Hahn] (bibliographie)	0	
 orth	Poggendorff (Johann-Christian)		
-entry	Poggiale (Antoine-Baudouin) [L. Hahn]	1	
+entry	Poggiale (Antoine-Baudouin) [L. Hahn]	0	
 orth	Poggiale (Antoine-Baudouin)		
 pb	383	0387	4579245
+entry	Poggiale (Antoine-Baudouin) [L. Hahn] (bibliographie)	0	
+orth	Poggiale (Antoine-Baudouin)		
 entry	Pogostemon [Ed. Lefèvre]	0	
 orth	Pogostemon		
 entry	Pohl (Les deux) [L. Hahn]	0	
@@ -596,7 +628,7 @@ pb	387	0391	4579249
 pb	388	0392	4579250
 pb	389	0393	4579251
 pb	390	0394	4579252
-entry	Poignet [J. Chauvel, H. Nimier]	31	
+entry	Poignet [J. Chauvel, H. Nimier]	30	
 orth	Poignet		
 pb	391	0395	4579253
 pb	392	0396	4579254
@@ -629,15 +661,19 @@ pb	418	0422	4579280
 pb	419	0423	4579281
 pb	420	0424	4579282
 pb	421	0425	4579283
+entry	Poignet [J. Chauvel, H. Nimier] (bibliographie)	0	
+orth	Poignet		
 entry	Poil	0	
 ref	Pileux		
 ref	Tégumentaire		
 ref	etc		
 entry	Poils tactiles	0	
 ref	Nerveux		
-entry	Poinciana [H. Baillon]	1	
+entry	Poinciana [H. Baillon]	0	
 orth	Poinciana		
 pb	422	0426	4579284
+entry	Poinciana [H. Baillon] (bibliographie)	0	
+orth	Poinciana		
 entry	Pointe (Les deux) [L. Hahn]	0	
 orth	Pointe (Les deux)		
 entry	Poire	0	
@@ -653,7 +689,7 @@ entry	Poireau	0
 ref	Ail		
 entry	Poirée	0	
 ref	Bette		
-entry	Poirier [H. Baillon]	1	
+entry	Poirier [H. Baillon] (bibliographie)	1	
 orth	Poirier		
 pb	424	0428	4579286
 entry	Pois	0	
@@ -676,25 +712,31 @@ pb	430	0434	4579292
 entry	Poissonnier (Les frères) [A. Dureau]	1	
 orth	Poissonnier (Les frères)		
 pb	431	0435	4579293
-entry	Poissons [H.-E. Sauvage]	6	
+entry	Poissons [H.-E. Sauvage]	4	
 orth	Poissons		
 pb	432	0436	4579294
 pb	433	0437	4579295
 pb	434	0438	4579296
 pb	435	0439	4579297
 pb	436	0440	4579298
+entry	Poissons [H.-E. Sauvage] (bibliographie)	1	
+orth	Poissons		
 pb	437	0441	4579299
-entry	Poissons acrâniens [H.-E. Sauvage]	1	
+entry	Poissons acrâniens [H.-E. Sauvage]	0	
 orth	Poissons acrâniens		
 pb	438	0442	4579300
+entry	Poissons acrâniens [H.-E. Sauvage] (bibliographie)	0	
+orth	Poissons acrâniens		
 entry	Poissons électriques [H.-E. Sauvage]	1	
 orth	Poissons électriques		
 pb	439	0443	4579301
-entry	Poissons nuisibles [H.-E. Sauvage]	3	
+entry	Poissons nuisibles [H.-E. Sauvage]	2	
 orth	Poissons nuisibles		
 pb	440	0444	4579302
 pb	441	0445	4579303
 pb	442	0446	4579304
+entry	Poissons nuisibles [H.-E. Sauvage] (bibliographie)	0	
+orth	Poissons nuisibles		
 entry	Poitrine	0	
 entry	Poitrine. Anatomie [Pierre Sébileau]	12	
 orth	Poitrine. Anatomie		
@@ -839,13 +881,15 @@ pb	571	0575	4579433
 pb	572	0576	4579434
 pb	573	0577	4579435
 entry	Poivrier, Poivre	0	
-entry	Poivrier, Poivre. Botanique [H. Baillon]	5	
+entry	Poivrier, Poivre. Botanique [H. Baillon]	4	
 orth	Poivrier, Poivre. Botanique		
 pb	574	0578	4579436
 pb	575	0579	4579437
 pb	576	0580	4579438
 pb	577	0581	4579439
 pb	578	0582	4579440
+entry	Poivrier, Poivre. Botanique [H. Baillon] (bibliographie)	0	
+orth	Poivrier, Poivre. Botanique		
 entry	Poivrier, Poivre. Thérapeutique [Charles Éloy]	3	
 orth	Poivrier, Poivre. Thérapeutique		
 pb	579	0583	4579441
@@ -898,7 +942,7 @@ ref	Diabète
 ref	Sychnurie		
 entry	Polli (Giovanni) [L. Hahn]	0	
 orth	Polli (Giovanni)		
-entry	Pollich (Martin) [L. Hahn]	0	
+entry	Pollich (Martin) [L. Hahn] (bibliographie)	0	
 orth	Pollich (Martin)		
 entry	Pollution	0	
 ref	Spermatorrhée		
@@ -931,10 +975,12 @@ ref	Diplopodes
 entry	Polydipsie	0	
 ref	Diabète		
 entry	Polygala, polygalées, polygalacées	0	
-entry	Polygala, polygalées, polygalacées. Botanique [H. Baillon]	2	
+entry	Polygala, polygalées, polygalacées. Botanique [H. Baillon]	1	
 orth	Polygala, polygalées, polygalacées. Botanique		
 pb	601	0605	4579463
 pb	602	0606	4579464
+entry	Polygala, polygalées, polygalacées. Botanique [H. Baillon] (bibliographie)	0	
+orth	Polygala, polygalées, polygalacées. Botanique		
 entry	Polygala, polygalées, polygalacées. Thérapeutique [Charles Éloy]	3	
 orth	Polygala, polygalées, polygalacées. Thérapeutique		
 pb	603	0607	4579465
@@ -993,9 +1039,11 @@ orth	Polypore
 pb	623	0627	4579485
 entry	Polypotomes	0	
 ref	Polypes		
-entry	Polyprion [H.-E. Sauvage]	1	
+entry	Polyprion [H.-E. Sauvage]	0	
 orth	Polyprion		
 pb	624	0628	4579486
+entry	Polyprion [H.-E. Sauvage] (bibliographie)	0	
+orth	Polyprion		
 entry	Polyptère [H.-E. Sauvage]	0	
 orth	Polyptère		
 entry	Polysarcie	0	
@@ -1029,7 +1077,7 @@ pb	632	0636	4579494
 pb	633	0637	4579495
 pb	634	0638	4579496
 pb	635	0639	4579497
-entry	Pomme (Pierre) [L. Hahn]	0	
+entry	Pomme (Pierre) [L. Hahn] (bibliographie)	0	
 orth	Pomme (Pierre)		
 entry	Pomme de terre	0	
 ref	Morelle		
@@ -1042,7 +1090,7 @@ orth	Pompholix
 entry	Pona (Francesco) [A. Dureau]	1	
 orth	Pona (Francesco)		
 pb	636	0640	4579498
-entry	Ponce de Santa Cruz (Antonio) [L. Hahn]	0	
+entry	Ponce de Santa Cruz (Antonio) [L. Hahn] (bibliographie)	0	
 orth	Ponce de Santa Cruz (Antonio)		
 entry	Poncire [Ed. Lefèvre]	0	
 orth	Poncire		
@@ -1153,15 +1201,19 @@ orth	Populine
 pb	703	0707	4579565
 entry	Populus	0	
 ref	Peuplier		
-entry	Porc [E. Oustalet]	3	
+entry	Porc [E. Oustalet]	2	
 orth	Porc		
 pb	704	0708	4579566
 pb	705	0709	4579567
 pb	706	0710	4579568
-entry	Porc-épic [E. Oustalet]	2	
+entry	Porc [E. Oustalet] (bibliographie)	0	
+orth	Porc		
+entry	Porc-épic [E. Oustalet]	1	
 orth	Porc-épic		
 pb	707	0711	4579569
 pb	708	0712	4579570
+entry	Porc-épic [E. Oustalet] (bibliographie)	0	
+orth	Porc-épic		
 entry	Porcelaine [Ed. Lefèvre]	0	
 orth	Porcelaine		
 entry	Porcins [E. Oustalet]	0	
@@ -1195,12 +1247,14 @@ orth	Port-Thareau (Eau minérale de)
 pb	711	0715	4579573
 entry	Port-Vendres (Station marine) [A. Rotureau]	0	
 orth	Port-Vendres (Station marine)		
-entry	Porta (Les deux) [L. Hahn]	1	
+entry	Porta (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Porta (Les deux)		
 pb	712	0716	4579574
+entry	Porta (Les deux) [L. Hahn]	0	
+orth	Porta (Les deux)		
 entry	Porta (Eau minérale de) [A. Rotureau]	0	
 orth	Porta (Eau minérale de)		
-entry	Portal (Les deux) [L. Hahn]	1	
+entry	Portal (Les deux) [L. Hahn] (bibliographie)	1	
 orth	Portal (Les deux)		
 pb	713	0717	4579575
 entry	Porte (Veine)	0	
@@ -1267,9 +1321,11 @@ entry	Portes de fer (Hammam Bibans des Arabes) (Eaux minérales des) [A. Roturea
 orth	Portes de fer (Hammam Bibans des Arabes) (Eaux minérales des)		
 pb	742	0746	4579604
 pb	743	0747	4579605
-entry	Portlandia (P. Br.) [H. Baillon]	1	
+entry	Portlandia (P. Br.) [H. Baillon]	0	
 orth	Portlandia (P. Br.)		
 pb	744	0748	4579606
+entry	Portlandia (P. Br.) [H. Baillon] (bibliographie)	0	
+orth	Portlandia (P. Br.)		
 entry	Portrieux (Station marine)	0	
 ref	Pontrieux		
 entry	Portulaca	0	
@@ -1337,7 +1393,7 @@ pb	776	0780	4579638
 pb	777	0781	4579639
 pb	778	0782	4579640
 entry	Potentille	0	
-entry	Potentille. Botanique [H. Baillon]	1	
+entry	Potentille. Botanique [H. Baillon] (bibliographie)	1	
 orth	Potentille. Botanique		
 pb	779	0783	4579641
 entry	Potentille. Emploi médical [Charles Éloy]	1	
@@ -1348,9 +1404,11 @@ orth	Poterie (De la) (Les)
 pb	781	0785	4579643
 entry	Pothos [Ed. Lefèvre]	0	
 orth	Pothos		
-entry	Potier (Michel) [A. Dureau]	1	
+entry	Potier (Michel) [A. Dureau]	0	
 orth	Potier (Michel)		
 pb	782	0786	4579644
+entry	Potier (Michel) [A. Dureau] (bibliographie)	0	
+orth	Potier (Michel)		
 entry	Potion [Ch. Blarez]	3	
 orth	Potion		
 pb	783	0787	4579645
@@ -1358,9 +1416,11 @@ pb	784	0788	4579646
 pb	785	0789	4579647
 entry	Potiron	0	
 ref	Citrouille		
-entry	Pott (Percival) [L. Hahn]	1	
+entry	Pott (Percival) [L. Hahn]	0	
 orth	Pott (Percival)		
 pb	786	0790	4579648
+entry	Pott (Percival) [L. Hahn] (bibliographie)	0	
+orth	Pott (Percival)		
 entry	Pouchet (Félix-Archimède) [L. Hahn]	0	
 orth	Pouchet (Félix-Archimède)		
 entry	Poudres [L. Hahn]	5	

@@ -59,9 +59,7 @@ orth	Impuissance
 pb	273	0013	4806182
 pb	274	0014	4806183
 pb	275	0015	4806184
-entry	Inanition, (physiol.)	0	
-orth	Inanition		
-orth	(physiol.)		
+entry	Inanition (physiol.)	0	
 entry	Inappétence (séméiol.)	0	
 entry	Incandescence (physique)	0	
 entry	Incarcération (chir.)	0	
@@ -149,9 +147,8 @@ entry	Insensible (physiol.)	0
 entry	Insertion (anat.)	0	
 entry	Insolation (hygiène) [H. Landouzy]	0	
 orth	Insolation (hygiène)		
-entry	Insomnie, (path.) [J. P. Beaude]	1	
-orth	Insomnie		
-orth	(path.)		
+entry	Insomnie (path.) [J. P. Beaude]	1	
+orth	Insomnie (path.)		
 pb	297	0037	4806206
 entry	Inspirateur (physiol.)	0	
 entry	Inspiration (physiol.)	0	
@@ -256,9 +253,8 @@ entry	Ivette (bot.)	0
 entry	Ivraie (bot.) [J. P. Beaude]	0	
 orth	Ivraie (bot.)		
 pb	318	0058	4806227
-entry	Ivresse, (hyg.) [J. P. Beaude]	1	
-orth	Ivresse		
-orth	(hyg.)		
+entry	Ivresse (hyg.) [J. P. Beaude]	1	
+orth	Ivresse (hyg.)		
 pb	319	0059	4806228
 pb	320	0060	4806229
 entry	Jalap (mat. méd.) [J. P. Beaude]	1	
@@ -373,9 +369,8 @@ orth	Lardacé
 orth	ée (Path.)		
 pb	342	0082	4806251
 entry	Large (Anat.)	0	
-entry	Larmes, (physiol.) [F. Capitaine]	0	
-orth	Larmes		
-orth	(physiol.)		
+entry	Larmes (physiol.) [F. Capitaine]	0	
+orth	Larmes (physiol.)		
 entry	Larmoiement (Path.)	0	
 entry	Larvé, ée (Méd.)	0	
 orth	Larvé		
@@ -406,9 +401,8 @@ pb	348	0088	4806257
 entry	Laurier-rose (bot. et mat. méd.) [J. P. Beaude]	1	
 orth	Laurier-rose (bot. et mat. méd.)		
 pb	349	0089	4806258
-entry	Lavement, (thérap.) [E. Beaugrand]	1	
-orth	Lavement		
-orth	(thérap.)		
+entry	Lavement (thérap.) [E. Beaugrand]	1	
+orth	Lavement (thérap.)		
 pb	350	0090	4806259
 entry	Laxatif (mat. méd.)	0	
 entry	Lazaret (pol. méd.) [J. B.]	0	
@@ -416,9 +410,8 @@ orth	Lazaret (pol. méd.)
 entry	Légume (bot.)	0	
 entry	Lenitif (mat. méd.)	0	
 entry	Lent (path.)	0	
-entry	Lentille, (bot. hyg.) [T. Couverchel]	1	
-orth	Lentille		
-orth	(bot. hyg.)		
+entry	Lentille (bot. hyg.) [T. Couverchel]	1	
+orth	Lentille (bot. hyg.)		
 pb	351	0091	4806260
 entry	Lenticulaire ou Lentiforme [J. B.]	0	
 orth	Lenticulaire		
@@ -461,9 +454,8 @@ entry	Ligature (chir.) [J. B.]	0
 orth	Ligature (chir.)		
 entry	Ligne. (anat.) [J. B.]	0	
 orth	Ligne. (anat.)		
-entry	Lilas, (bot.) [J. B.]	1	
-orth	Lilas		
-orth	(bot.)		
+entry	Lilas (bot.) [J. B.]	1	
+orth	Lilas (bot.)		
 pb	360	0100	4806269
 entry	Limaçon	0	
 entry	Limaille de fer	0	
@@ -563,7 +555,7 @@ entry	Magnésie (chim.) [O. Lesueur]	1
 orth	Magnésie (chim.)		
 pb	382	0122	4806291
 entry	Magnésiennes (eaux)	0	
-entry	Magnétique, (phys. et physiol.)	0	
+entry	Magnétique (phys. et physiol.)	0	
 entry	Magnétisme animal (physiol.)	0	
 entry	Magnétisme minéral (phys.)	0	
 entry	Maigreur	0	
@@ -3691,17 +3683,13 @@ orth	Vic-le-Comte (Eaux minérales de) (thérap.)
 entry	Vic-sur-Cère (Eaux minérales de) (thérap.) [J. B.]	0	
 orth	Vic-sur-Cère (Eaux minérales de) (thérap.)		
 entry	Vidanges (hyg. pub.)	0	
-entry	Vidangeurs (Maladie des), (méd. et hyg.) [J. P. Beaude]	1	
-orth	Vidangeurs (Maladie des), (méd. et hyg.)		
+entry	Vidangeurs (Maladie des) (méd. et hyg.) [J. P. Beaude]	5	
+orth	Vidangeurs (Maladie des) (méd. et hyg.)		
 pb	960	0700	4806869
 pb	961	0701	4806870
-entry	Vidangeurs (Maladie des) (méd. et hyg.) [J. P. Beaude]	2	
-orth	Vidangeurs (Maladie des) (méd. et hyg.)		
 pb	962	0702	4806871
 pb	963	0703	4806872
 pb	964	0704	4806873
-entry	Vidangeurs (Maladie des), (méd. et hyg.) [J. P. Beaude]	0	
-orth	Vidangeurs (Maladie des), (méd. et hyg.)		
 entry	Vidien (anat.)	0	
 entry	Vie (physiol.)	0	
 entry	Vieillesse (physiol.)	0	
@@ -4027,9 +4015,9 @@ entry	Colique de plomb. [J. B.]	0
 orth	Colique de plomb		
 entry	Coliques (artères) (anat.) [J. B.]	0	
 orth	Coliques (artères) (anat.)		
-entry	Colliquatif, ive, (path.)	0	
+entry	Colliquatif, ive (path.)	0	
 orth	Colliquatif		
-orth	(path.)		
+orth	ive (path.)		
 entry	Collutoire (pharm.)	0	
 entry	Compresseur (chir.)	0	
 entry	Compression (physiol. et chim.) [J. P. Beaude]	1	
@@ -4205,9 +4193,7 @@ entry	Fleurs de sel ammoniac (chim.)	0
 entry	Fleurs de soufre (chim.)	0	
 entry	Fleurs de zinc (chim.)	0	
 entry	Fluor (chim.)	0	
-entry	Formique (Acide), (chim.)	0	
-orth	Formique (Acide)		
-orth	(chim.)		
+entry	Formique (Acide) (chim.)	0	
 entry	Foulure (chir.)	0	
 entry	Fourmi (hist. nat.)	0	
 entry	Fourmillement (pathol.)	0	
@@ -4382,9 +4368,8 @@ entry	Macrobotique (hyg.)	0
 entry	Macrocéphale (physiol.) [J. B.]	0	
 orth	Macrocéphale (physiol.)		
 entry	Magistère de Jalap (mat. méd.)	0	
-entry	Magnésiennes (eaux), (pharm.) [J. B.]	0	
-orth	Magnésiennes (eaux)		
-orth	(pharm.)		
+entry	Magnésiennes (eaux) (pharm.) [J. B.]	0	
+orth	Magnésiennes (eaux) (pharm.)		
 entry	Magnésium (chim.) [J. B.]	0	
 orth	Magnésium (chim.)		
 entry	Maillechort ou Melchior (hyg.) [J. B.]	1	
@@ -4405,9 +4390,7 @@ entry	Marge de l'anus (anat.)	0
 entry	Marienbad (Eaux minérales de) [J. P. Beaude]	1	
 orth	Marienbad (Eaux minérales de)		
 pb	53	0787	4806956
-entry	Mère (mal de), (méd.)	0	
-orth	Mère (mal de)		
-orth	(méd.)		
+entry	Mère (mal de) (méd.)	0	
 entry	Minéralisateurs (chim.)	0	
 entry	Minéralogie (hist. nat.)	0	
 entry	Mirage (physiq. méd.) [J. B.]	0	
@@ -4417,9 +4400,7 @@ entry	Moëlle allongée (anat.)	0
 entry	Monoïque (bot.)	0	
 entry	Mouchetures (chir.)	0	
 entry	Mousse d'Islande (mat. méd.)	0	
-entry	Néphralgie, (path.)	0	
-orth	Néphralgie		
-orth	(path.)		
+entry	Néphralgie (path.)	0	
 entry	Nicotiane (chim.)	0	
 entry	Noix muscade (mat. méd.)	0	
 entry	Nostomanie (path.)	0	

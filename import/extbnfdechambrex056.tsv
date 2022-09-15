@@ -10,7 +10,7 @@ orth	Magnus
 pb	2	0006	4541888
 entry	Maguai, Maguey [H. Baillon]	0	
 orth	Maguai, Maguey		
-entry	Mahon (Paul-Augustin-Olivier) [E. Beaugrand]	0	
+entry	Mahon (Paul-Augustin-Olivier) [E. Beaugrand] (bibliographie)	0	
 orth	Mahon (Paul-Augustin-Olivier)		
 pb	3	0007	4541889
 entry	Mahonie [H. Baillon]	0	
@@ -23,10 +23,12 @@ entry	Maillechort [C. Lutz]	0
 orth	Maillechort		
 entry	Maillot	0	
 ref	Nouveau-né		
-entry	Maimonides (Mosès) [E. Beaugrand]	1	
+entry	Maimonides (Mosès) [E. Beaugrand]	0	
 orth	Maimonides (Mosès)		
 pb	4	0008	4541890
-entry	Main. Anatomie [Polaillon]	30	
+entry	Maimonides (Mosès) [E. Beaugrand] (bibliographie)	0	
+orth	Maimonides (Mosès)		
+entry	Main. Anatomie [Polaillon]	29	
 orth	Main. Anatomie		
 pb	5	0009	4541891
 pb	6	0010	4541892
@@ -58,6 +60,8 @@ pb	31	0035	4541917
 pb	32	0036	4541918
 pb	33	0037	4541919
 pb	34	0038	4541920
+entry	Main. Anatomie [Polaillon] (bibliographie)	0	
+orth	Main. Anatomie		
 entry	Physiologie [Polaillon]	0	
 orth	Physiologie		
 entry	Main. Anatomie comparée et anthropologie [E. Dally]	15	
@@ -77,7 +81,7 @@ pb	46	0050	4541932
 pb	47	0051	4541933
 pb	48	0052	4541934
 pb	49	0053	4541935
-entry	Main. Pathologie [Polaillon]	112	
+entry	Main. Pathologie [Polaillon]	7	
 orth	Main. Pathologie		
 pb	50	0054	4541936
 pb	51	0055	4541937
@@ -87,7 +91,11 @@ pb	54	0058	4541940
 pb	55	0059	4541941
 pb	56	0060	4541942
 pb	57	0061	4541943
+entry	Main. Pathologie [Polaillon] (bibliographie)	0	
+orth	Main. Pathologie		
 pb	58	0062	4541944
+entry	Main. Pathologie [Polaillon]	21	
+orth	Main. Pathologie		
 pb	59	0063	4541945
 pb	60	0064	4541946
 pb	61	0065	4541947
@@ -110,8 +118,12 @@ pb	77	0081	4541963
 pb	78	0082	4541964
 pb	79	0083	4541965
 pb	80	0084	4541966
+entry	Main. Pathologie [Polaillon] (bibliographie)	1	
+orth	Main. Pathologie		
 pb	81	0085	4541967
 pb	82	0086	4541968
+entry	Main. Pathologie [Polaillon]	7	
+orth	Main. Pathologie		
 pb	83	0087	4541969
 pb	84	0088	4541970
 pb	85	0089	4541971
@@ -120,8 +132,12 @@ pb	87	0091	4541973
 pb	88	0092	4541974
 pb	89	0093	4541975
 pb	90	0094	4541976
+entry	Main. Pathologie [Polaillon] (bibliographie)	1	
+orth	Main. Pathologie		
 pb	91	0095	4541977
 pb	92	0096	4541978
+entry	Main. Pathologie [Polaillon]	10	
+orth	Main. Pathologie		
 pb	93	0097	4541979
 pb	94	0098	4541980
 pb	95	0099	4541981
@@ -133,14 +149,22 @@ pb	100	0104	4541986
 pb	101	0105	4541987
 pb	102	0106	4541988
 pb	103	0107	4541989
+entry	Main. Pathologie [Polaillon] (bibliographie)	0	
+orth	Main. Pathologie		
 pb	104	0108	4541990
+entry	Main. Pathologie [Polaillon]	5	
+orth	Main. Pathologie		
 pb	105	0109	4541991
 pb	106	0110	4541992
 pb	107	0111	4541993
 pb	108	0112	4541994
 pb	109	0113	4541995
 pb	110	0114	4541996
+entry	Main. Pathologie [Polaillon] (bibliographie)	0	
+orth	Main. Pathologie		
 pb	111	0115	4541997
+entry	Main. Pathologie [Polaillon]	19	
+orth	Main. Pathologie		
 pb	112	0116	4541998
 pb	113	0117	4541999
 pb	114	0118	4542000
@@ -161,10 +185,18 @@ pb	128	0132	4542014
 pb	129	0133	4542015
 pb	130	0134	4542016
 pb	131	0135	4542017
+entry	Main. Pathologie [Polaillon] (bibliographie)	0	
+orth	Main. Pathologie		
 pb	132	0136	4542018
+entry	Main. Pathologie [Polaillon]	1	
+orth	Main. Pathologie		
 pb	133	0137	4542019
 pb	134	0138	4542020
+entry	Main. Pathologie [Polaillon] (bibliographie)	0	
+orth	Main. Pathologie		
 pb	135	0139	4542021
+entry	Main. Pathologie [Polaillon]	7	
+orth	Main. Pathologie		
 pb	136	0140	4542022
 pb	137	0141	4542023
 pb	138	0142	4542024
@@ -173,23 +205,37 @@ pb	140	0144	4542026
 pb	141	0145	4542027
 pb	142	0146	4542028
 pb	143	0147	4542029
+entry	Main. Pathologie [Polaillon] (bibliographie)	1	
+orth	Main. Pathologie		
 pb	144	0148	4542030
 pb	145	0149	4542031
+entry	Main. Pathologie [Polaillon]	0	
+orth	Main. Pathologie		
 pb	146	0150	4542032
+entry	Main. Pathologie [Polaillon] (bibliographie)	0	
+orth	Main. Pathologie		
 pb	147	0151	4542033
+entry	Main. Pathologie [Polaillon]	4	
+orth	Main. Pathologie		
 pb	148	0152	4542034
 pb	149	0153	4542035
 pb	150	0154	4542036
 pb	151	0155	4542037
 pb	152	0156	4542038
+entry	Main. Pathologie [Polaillon] (bibliographie)	1	
+orth	Main. Pathologie		
 pb	153	0157	4542039
 pb	154	0158	4542040
+entry	Main. Pathologie [Polaillon]	5	
+orth	Main. Pathologie		
 pb	155	0159	4542041
 pb	156	0160	4542042
 pb	157	0161	4542043
 pb	158	0162	4542044
 pb	159	0163	4542045
 pb	160	0164	4542046
+entry	Main. Pathologie [Polaillon] (bibliographie)	1	
+orth	Main. Pathologie		
 pb	161	0165	4542047
 entry	Main. Hygiène professionnelle [E. Beaugrand]	1	
 orth	Main. Hygiène professionnelle		
@@ -226,7 +272,7 @@ pb	189	0193	4542075
 pb	190	0194	4542076
 pb	191	0195	4542077
 entry	Maïs	0	
-entry	Maïs. Botanique [G. Planchon]	1	
+entry	Maïs. Botanique [G. Planchon] (bibliographie)	1	
 orth	Maïs. Botanique		
 pb	192	0196	4542078
 entry	Maïs. Bromatologie [P. Coulier]	2	
@@ -249,12 +295,16 @@ pb	201	0205	4542087
 entry	Maison de secours (Traitements à domicile) [B. Brochin]	1	
 orth	Maison de secours (Traitements à domicile)		
 pb	202	0206	4542088
-entry	Maître-Jan (Antoine) [A. Chéreau]	1	
+entry	Maître-Jan (Antoine) [A. Chéreau]	0	
 orth	Maître-Jan (Antoine)		
 pb	203	0207	4542089
-entry	Major (Jean-Daniel) [H. Montanier]	1	
+entry	Maître-Jan (Antoine) [A. Chéreau] (bibliographie)	0	
+orth	Maître-Jan (Antoine)		
+entry	Major (Jean-Daniel) [H. Montanier]	0	
 orth	Major (Jean-Daniel)		
 pb	204	0208	4542090
+entry	Major (Jean-Daniel) [H. Montanier] (bibliographie)	0	
+orth	Major (Jean-Daniel)		
 entry	Mal des Ardents [E. Beaugrand]	1	
 orth	Mal des Ardents		
 pb	205	0209	4542091
@@ -264,12 +314,14 @@ entry	Mal de la Baie de Saint-Paul [J. Rollet]	2
 orth	Mal de la Baie de Saint-Paul		
 pb	206	0210	4542092
 pb	207	0211	4542093
-entry	Mal de Bassine, Mal de vers [E. Beaugrand]	4	
+entry	Mal de Bassine, Mal de vers [E. Beaugrand]	3	
 orth	Mal de Bassine, Mal de vers		
 pb	208	0212	4542094
 pb	209	0213	4542095
 pb	210	0214	4542096
 pb	211	0215	4542097
+entry	Mal de Bassine, Mal de vers [E. Beaugrand] (bibliographie)	0	
+orth	Mal de Bassine, Mal de vers		
 entry	Mal de Brunn [J. Rollet]	1	
 orth	Mal de Brunn		
 pb	212	0216	4542098
@@ -294,7 +346,7 @@ entry	Mal français	0
 ref	Syphilis		
 entry	Mal kabyle	0	
 ref	Syphilis		
-entry	Mal de mer [V. de Rochas]	9	
+entry	Mal de mer [V. de Rochas]	8	
 orth	Mal de mer		
 pb	218	0222	4542104
 pb	219	0223	4542105
@@ -305,6 +357,8 @@ pb	223	0227	4542109
 pb	224	0228	4542110
 pb	225	0229	4542111
 pb	226	0230	4542112
+entry	Mal de mer [V. de Rochas] (bibliographie)	0	
+orth	Mal de mer		
 entry	Mal de misère	0	
 ref	Pellagre		
 entry	Mal de montagne	0	
@@ -331,7 +385,7 @@ orth	Mala
 entry	Malabathrum [T. Gobley]	1	
 orth	Malabathrum		
 pb	229	0233	4542115
-entry	Malacarne (Michele-Vincenzo-Giacinto) [E. Beaugrand]	0	
+entry	Malacarne (Michele-Vincenzo-Giacinto) [E. Beaugrand] (bibliographie)	0	
 orth	Malacarne (Michele-Vincenzo-Giacinto)		
 entry	Malacie [Blachez]	1	
 orth	Malacie		
@@ -381,7 +435,7 @@ pb	263	0267	4542149
 pb	264	0268	4542150
 pb	265	0269	4542151
 pb	266	0270	4542152
-entry	Maladie. Simulation des maladies [E. Boisseau]	15	
+entry	Maladie. Simulation des maladies [E. Boisseau]	12	
 orth	Maladie. Simulation des maladies		
 pb	267	0271	4542153
 pb	268	0272	4542154
@@ -396,6 +450,8 @@ pb	276	0280	4542162
 pb	277	0281	4542163
 pb	278	0282	4542164
 pb	279	0283	4542165
+entry	Maladie. Simulation des maladies [E. Boisseau] (bibliographie)	2	
+orth	Maladie. Simulation des maladies		
 pb	280	0284	4542166
 pb	281	0285	4542167
 entry	Maladie d'Addison	0	
@@ -408,18 +464,20 @@ pb	282	0286	4542168
 pb	283	0287	4542169
 entry	Maladie de foin	0	
 ref	Asthme		
-entry	Maladie des Scythes [E. Beaugrand]	3	
+entry	Maladie des Scythes [E. Beaugrand]	2	
 orth	Maladie des Scythes		
 pb	284	0288	4542170
 pb	285	0289	4542171
 pb	286	0290	4542172
+entry	Maladie des Scythes [E. Beaugrand] (bibliographie)	0	
+orth	Maladie des Scythes		
 entry	Maladie du sommeil [A. Le Roy de Méricourt]	3	
 orth	Maladie du sommeil		
 pb	287	0291	4542173
 pb	288	0292	4542174
 pb	289	0293	4542175
 pb	290	0294	4542176
-entry	Maladie du sommeil [Le Roy de Méricourt]	0	
+entry	Maladie du sommeil [Le Roy de Méricourt] (bibliographie)	0	
 orth	Maladie du sommeil		
 entry	Maladie de Werlhoff	0	
 ref	Purpura		
@@ -427,17 +485,19 @@ entry	Maladies religieuses	0
 ref	Folie		
 entry	Maladreries	0	
 ref	Éléphantiasis		
-entry	Malaga (Eaux minérales et station hivernale de) [A. Rotureau]	3	
+entry	Malaga (Eaux minérales et station hivernale de) [A. Rotureau]	1	
 orth	Malaga (Eaux minérales et station hivernale de)		
 pb	291	0295	4542177
 pb	292	0296	4542178
+entry	Malaga (Eaux minérales et station hivernale de) [A. Rotureau] (bibliographie)	1	
+orth	Malaga (Eaux minérales et station hivernale de)		
 pb	293	0297	4542179
 entry	Malaguetta [G. Planchon]	0	
 orth	Malaguetta		
 entry	Malaire (Os) [Marc Sée]	1	
 orth	Malaire (Os)		
 pb	294	0298	4542180
-entry	Malaisie [V. de Rochas]	37	
+entry	Malaisie [V. de Rochas]	36	
 orth	Malaisie		
 pb	295	0299	4542181
 pb	296	0300	4542182
@@ -476,12 +536,14 @@ pb	328	0332	4542214
 pb	329	0333	4542215
 pb	330	0334	4542216
 pb	331	0335	4542217
+entry	Malaisie [V. de Rochas] (bibliographie)	0	
+orth	Malaisie		
 entry	Malambo (Écorce de) [G. Planchon]	0	
 orth	Malambo (Écorce de)		
 entry	Malamide [Malaguti]	1	
 orth	Malamide		
 pb	332	0336	4542218
-entry	Malanea [G. Planchon]	0	
+entry	Malanea [G. Planchon] (bibliographie)	0	
 orth	Malanea		
 entry	Malapari, Malaparius [H. Baillon]	0	
 orth	Malapari, Malaparius		
@@ -499,37 +561,45 @@ orth	Malaxation
 pb	336	0340	4542222
 entry	Maldives	0	
 ref	Indoustan		
-entry	Maléon (Eau minérale de) [A. Rotureau]	1	
+entry	Maléon (Eau minérale de) [A. Rotureau]	0	
 orth	Maléon (Eau minérale de)		
 pb	337	0341	4542223
+entry	Maléon (Eau minérale de) [A. Rotureau] (bibliographie)	0	
+orth	Maléon (Eau minérale de)		
 entry	Maléique (Acide) [Malaguti]	1	
 orth	Maléique (Acide)		
 pb	338	0342	4542224
 entry	Malformation [A. Duplay]	0	
 orth	Malformation		
-entry	Malgaigne (Joseph-François) [H. Montanier]	3	
+entry	Malgaigne (Joseph-François) [H. Montanier]	2	
 orth	Malgaigne (Joseph-François)		
 pb	339	0343	4542225
 pb	340	0344	4542226
 pb	341	0345	4542227
-entry	Malignité [Amédée Dechambre]	5	
+entry	Malgaigne (Joseph-François) [H. Montanier] (bibliographie)	0	
+orth	Malgaigne (Joseph-François)		
+entry	Malignité [Amédée Dechambre]	4	
 orth	Malignité		
 pb	342	0346	4542228
 pb	343	0347	4542229
 pb	344	0348	4542230
 pb	345	0349	4542231
 pb	346	0350	4542232
+entry	Malignité [Amédée Dechambre] (bibliographie)	0	
+orth	Malignité		
 entry	Malinga	0	
 ref	Cocotier		
 entry	Malique (Acide) [Malaguti]	1	
 orth	Malique (Acide)		
 pb	347	0351	4542233
 pb	348	0352	4542234
-entry	Mallat de Bassilan (J.) [E. Beaugrand]	0	
+entry	Mallat de Bassilan (J.) [E. Beaugrand] (bibliographie)	0	
 orth	Mallat de Bassilan (J.)		
-entry	Malle (Pierre-Nicolas-François) [E. Beaugrand]	1	
+entry	Malle (Pierre-Nicolas-François) [E. Beaugrand]	0	
 orth	Malle (Pierre-Nicolas-François)		
 pb	349	0353	4542235
+entry	Malle (Pierre-Nicolas-François) [E. Beaugrand] (bibliographie)	0	
+orth	Malle (Pierre-Nicolas-François)		
 entry	Malléolaires (Artères)	0	
 ref	Pied		
 ref	Tibiale antérieure		
@@ -542,32 +612,40 @@ orth	Malmignatte
 entry	Malo (Saint-) (Station marine de) [A. Rotureau]	1	
 orth	Malo (Saint-) (Station marine de)		
 pb	350	0354	4542236
-entry	Maloet (Les deux) [A. Chéreau]	0	
+entry	Maloet (Les deux) [A. Chéreau] (bibliographie)	0	
 orth	Maloet (Les deux)		
 entry	Malou (La) (Eaux minérales de)	0	
 ref	La Malou		
-entry	Malouin (Les deux frères) [A. Chéreau]	1	
+entry	Malouin (Les deux frères) [A. Chéreau]	0	
 orth	Malouin (Les deux frères)		
 pb	351	0355	4542237
+entry	Malouin (Les deux frères) [A. Chéreau] (bibliographie)	0	
+orth	Malouin (Les deux frères)		
 entry	Malouines (Iles) [A. Le Roy de Méricourt]	1	
 orth	Malouines (Iles)		
 pb	352	0356	4542238
 pb	353	0357	4542239
-entry	Malouines (Iles) [Le Roy de Méricourt]	0	
+entry	Malouines (Iles) [Le Roy de Méricourt] (bibliographie)	0	
 orth	Malouines (Iles)		
-entry	Malpighi (Marcello) [H. Montanier]	2	
+entry	Malpighi (Marcello) [H. Montanier]	1	
 orth	Malpighi (Marcello)		
 pb	354	0358	4542240
 pb	355	0359	4542241
-entry	Malpighiacées [G. Planchon]	1	
+entry	Malpighi (Marcello) [H. Montanier] (bibliographie)	0	
+orth	Malpighi (Marcello)		
+entry	Malpighiacées [G. Planchon]	0	
 orth	Malpighiacées		
 pb	356	0360	4542242
-entry	Malpighie [G. Planchon]	1	
+entry	Malpighiacées [G. Planchon] (bibliographie)	0	
+orth	Malpighiacées		
+entry	Malpighie [G. Planchon]	0	
 orth	Malpighie		
 pb	357	0361	4542243
+entry	Malpighie [G. Planchon] (bibliographie)	0	
+orth	Malpighie		
 entry	Malt	0	
 ref	Bière		
-entry	Malte [C. Ely]	11	
+entry	Malte [C. Ely]	10	
 orth	Malte		
 pb	358	0362	4542244
 pb	359	0363	4542245
@@ -580,6 +658,8 @@ pb	365	0369	4542251
 pb	366	0370	4542252
 pb	367	0371	4542253
 pb	368	0372	4542254
+entry	Malte [C. Ely] (bibliographie)	0	
+orth	Malte		
 entry	Maltine	0	
 ref	Diastase		
 entry	Maltose [Amédée Dechambre]	0	
@@ -588,15 +668,19 @@ entry	Malus	0
 ref	Pommier		
 entry	Malva	0	
 ref	Mauve		
-entry	Malvacées [G. Planchon]	1	
+entry	Malvacées [G. Planchon]	0	
 orth	Malvacées		
 pb	369	0373	4542255
+entry	Malvacées [G. Planchon] (bibliographie)	0	
+orth	Malvacées		
 entry	Malvaviscus [G. Planchon]	0	
 orth	Malvaviscus		
-entry	Malvern (Eaux minérales de) [A. Rotureau]	2	
+entry	Malvern (Eaux minérales de) [A. Rotureau]	1	
 orth	Malvern (Eaux minérales de)		
 pb	370	0374	4542256
 pb	371	0375	4542257
+entry	Malvern (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Malvern (Eaux minérales de)		
 entry	Mamelles	0	
 entry	Mamelles. Anatomie [Léon Tripier]	7	
 orth	Mamelles. Anatomie		
@@ -693,7 +777,7 @@ pb	452	0456	4542338
 pb	453	0457	4542339
 pb	454	0458	4542340
 pb	455	0459	4542341
-entry	Mamelles. Pathologie. Maladies vénériennes et syphilitiques [J. Rollet] [E. Beaugrand]	3	
+entry	Mamelles. Pathologie. Maladies vénériennes et syphilitiques [J. Rollet] (bibliographie) [E. Beaugrand]	3	
 orth	Mamelles. Pathologie. Maladies vénériennes et syphilitiques		
 pb	456	0460	4542342
 pb	457	0461	4542343
@@ -707,7 +791,7 @@ entry	Mammaire interne (Artère) [Marc Sée]	2
 orth	Mammaire interne (Artère)		
 pb	460	0464	4542346
 pb	461	0465	4542347
-entry	Mammée [G. Planchon]	0	
+entry	Mammée [G. Planchon] (bibliographie)	0	
 orth	Mammée		
 entry	Mammifères (Classification) [Paul Gervais]	18	
 orth	Mammifères (Classification)		
@@ -730,19 +814,23 @@ pb	477	0481	4542363
 pb	478	0482	4542364
 pb	479	0483	4542365
 pb	480	0484	4542366
-entry	Mammifères (Classification) [H. Gervais]	0	
+entry	Mammifères (Classification) [H. Gervais] (bibliographie)	0	
 orth	Mammifères (Classification)		
-entry	Manardo (Giovanni) [E. Beaugrand]	1	
+entry	Manardo (Giovanni) [E. Beaugrand]	0	
 orth	Manardo (Giovanni)		
 pb	481	0485	4542367
+entry	Manardo (Giovanni) [E. Beaugrand] (bibliographie)	0	
+orth	Manardo (Giovanni)		
 entry	Mancannilla	0	
 ref	Hippomane		
 ref	Mancenilier		
-entry	Mancenilier [H. Baillon]	3	
+entry	Mancenilier [H. Baillon]	2	
 orth	Mancenilier		
 pb	482	0486	4542368
 pb	483	0487	4542369
 pb	484	0488	4542370
+entry	Mancenilier [H. Baillon] (bibliographie)	0	
+orth	Mancenilier		
 entry	Manchot [A. Laboulbène]	1	
 orth	Manchot		
 pb	485	0489	4542371
@@ -752,18 +840,22 @@ entry	Mandiocca	0
 ref	Manioc		
 ref	Manihot		
 entry	Mandragore	0	
-entry	Mandragore. Botanique [H. Baillon]	2	
+entry	Mandragore. Botanique [H. Baillon]	1	
 orth	Mandragore. Botanique		
 pb	486	0490	4542372
 pb	487	0491	4542373
-entry	Mandragore. Emploi médical [J. Delioux de Savignac]	1	
+entry	Mandragore. Botanique [H. Baillon] (bibliographie)	0	
+orth	Mandragore. Botanique		
+entry	Mandragore. Emploi médical [J. Delioux de Savignac] (bibliographie)	1	
 orth	Mandragore. Emploi médical		
 pb	488	0492	4542374
 entry	Mandrill [A. Laboulbène]	0	
 orth	Mandrill		
-entry	Manettie [G. Planchon]	1	
+entry	Manettie [G. Planchon]	0	
 orth	Manettie		
 pb	489	0493	4542375
+entry	Manettie [G. Planchon] (bibliographie)	0	
+orth	Manettie		
 entry	Manganates	0	
 ref	Manganèse		
 entry	Manganèse	0	
@@ -779,7 +871,7 @@ entry	Manganèse. Pharmacologie [J. Delioux de Savignac]	2
 orth	Manganèse. Pharmacologie		
 pb	496	0500	4542382
 pb	497	0501	4542383
-entry	Manganèse. Thérapeutique [J. Delioux de Savignac]	7	
+entry	Manganèse. Thérapeutique [J. Delioux de Savignac]	6	
 orth	Manganèse. Thérapeutique		
 pb	498	0502	4542384
 pb	499	0503	4542385
@@ -788,10 +880,12 @@ pb	501	0505	4542387
 pb	502	0506	4542388
 pb	503	0507	4542389
 pb	504	0508	4542390
+entry	Manganèse. Thérapeutique [J. Delioux de Savignac] (bibliographie)	0	
+orth	Manganèse. Thérapeutique		
 pb	505	0509	4542391
 entry	Mangara [H. Baillon]	0	
 orth	Mangara		
-entry	Manget (Jean-Jacques) [H. Montanier]	0	
+entry	Manget (Jean-Jacques) [H. Montanier] (bibliographie)	0	
 orth	Manget (Jean-Jacques)		
 entry	Manghas	0	
 ref	Manguier		
@@ -803,14 +897,16 @@ orth	Mangles
 pb	506	0510	4542392
 entry	Mangliers [H. Baillon]	0	
 orth	Mangliers		
-entry	Mangold (Les deux) [A. Chéreau]	0	
+entry	Mangold (Les deux) [A. Chéreau] (bibliographie)	0	
 orth	Mangold (Les deux)		
 entry	Mangoustan [G. Planchon]	0	
 orth	Mangoustan		
-entry	Mangue, Manguier [H. Baillon]	1	
+entry	Mangue, Manguier [H. Baillon]	0	
 orth	Mangue, Manguier		
 pb	507	0511	4542393
-entry	Manie [A. Linas]	53	
+entry	Mangue, Manguier [H. Baillon] (bibliographie)	0	
+orth	Mangue, Manguier		
+entry	Manie [A. Linas]	50	
 orth	Manie		
 pb	508	0512	4542394
 pb	509	0513	4542395
@@ -863,23 +959,29 @@ pb	555	0559	4542441
 pb	556	0560	4542442
 pb	557	0561	4542443
 pb	558	0562	4542444
+entry	Manie [A. Linas] (bibliographie)	2	
+orth	Manie		
 pb	559	0563	4542445
 pb	560	0564	4542446
-entry	Maniguette, Malaguette, Meleguetta [G. Planchon]	1	
+entry	Maniguette, Malaguette, Meleguetta [G. Planchon]	0	
 orth	Maniguette, Malaguette, Meleguetta		
 pb	561	0565	4542447
+entry	Maniguette, Malaguette, Meleguetta [G. Planchon] (bibliographie)	0	
+orth	Maniguette, Malaguette, Meleguetta		
 entry	Manille	0	
 ref	Philippines		
 entry	Manioc	0	
-entry	Manioc. Botanique [H. Baillon]	2	
+entry	Manioc. Botanique [H. Baillon]	1	
 orth	Manioc. Botanique		
 pb	562	0566	4542448
 pb	563	0567	4542449
+entry	Manioc. Botanique [H. Baillon] (bibliographie)	0	
+orth	Manioc. Botanique		
 entry	Manioc. Emploi médical [Fonssagrives]	2	
 orth	Manioc. Emploi médical		
 pb	564	0568	4542450
 pb	565	0569	4542451
-entry	Manipulations thérapeutiques [E. Dally]	32	
+entry	Manipulations thérapeutiques [E. Dally]	31	
 orth	Manipulations thérapeutiques		
 pb	566	0570	4542452
 pb	567	0571	4542453
@@ -913,9 +1015,13 @@ pb	594	0598	4542480
 pb	595	0599	4542481
 pb	596	0600	4542482
 pb	597	0601	4542483
-entry	Mann (Christophe David) [E. Beaugrand]	1	
+entry	Manipulations thérapeutiques [E. Dally] (bibliographie)	0	
+orth	Manipulations thérapeutiques		
+entry	Mann (Christophe David) [E. Beaugrand]	0	
 orth	Mann (Christophe David)		
 pb	598	0602	4542484
+entry	Mann (Christophe David) [E. Beaugrand] (bibliographie)	0	
+orth	Mann (Christophe David)		
 entry	Manne (Louis-François) [E. Beaugrand]	0	
 orth	Manne (Louis-François)		
 entry	Manne (Matthieu-Laurent-Michel) [E. Beaugrand]	0	
@@ -932,7 +1038,7 @@ orth	Emploi médical
 entry	Mannide [Malaguti]	1	
 orth	Mannide		
 pb	603	0607	4542489
-entry	Manningham (Richard) [H. Montanier]	0	
+entry	Manningham (Richard) [H. Montanier] (bibliographie)	0	
 orth	Manningham (Richard)		
 entry	Mannitane [Malaguti]	0	
 orth	Mannitane		
@@ -964,7 +1070,7 @@ orth	Manoscope
 pb	614	0618	4542500
 entry	Mantias [E. Beaugrand]	0	
 orth	Mantias		
-entry	Manufactures (Hygiène professionnelle) [E. Beaugrand]	36	
+entry	Manufactures (Hygiène professionnelle) [E. Beaugrand]	34	
 orth	Manufactures (Hygiène professionnelle)		
 pb	615	0619	4542501
 pb	616	0620	4542502
@@ -1001,6 +1107,8 @@ pb	646	0650	4542532
 pb	647	0651	4542533
 pb	648	0652	4542534
 pb	649	0653	4542535
+entry	Manufactures (Hygiène professionnelle) [E. Beaugrand] (bibliographie)	1	
+orth	Manufactures (Hygiène professionnelle)		
 pb	650	0654	4542536
 entry	Manuluve [J. Delioux de Savignac]	2	
 orth	Manuluve		
@@ -1010,7 +1118,7 @@ entry	Manus Dei [T. Gobley]	0
 orth	Manus Dei		
 entry	Mapou (Bois de) [H. Baillon]	0	
 orth	Mapou (Bois de)		
-entry	Mapp (Marc) [A. Chéreau]	1	
+entry	Mapp (Marc) [A. Chéreau] (bibliographie)	1	
 orth	Mapp (Marc)		
 pb	653	0657	4542539
 entry	Mappa [H. Baillon]	0	
@@ -1020,7 +1128,7 @@ orth	Maquereau
 entry	Marabou [A. Laboulbène]	1	
 orth	Marabou		
 pb	654	0658	4542540
-entry	Marais [E. Vallin]	100	
+entry	Marais [E. Vallin]	97	
 orth	Marais		
 pb	655	0659	4542541
 pb	656	0660	4542542
@@ -1120,12 +1228,16 @@ pb	749	0753	4542635
 pb	750	0754	4542636
 pb	751	0755	4542637
 pb	752	0756	4542638
+entry	Marais [E. Vallin] (bibliographie)	2	
+orth	Marais		
 pb	753	0757	4542639
 pb	754	0758	4542640
-entry	Maranta [G. Planchon]	2	
+entry	Maranta [G. Planchon]	1	
 orth	Maranta		
 pb	755	0759	4542641
 pb	756	0760	4542642
+entry	Maranta [G. Planchon] (bibliographie)	0	
+orth	Maranta		
 entry	Maranta (Barthélemy) [A. Chéreau]	0	
 orth	Maranta (Barthélemy)		
 entry	Marantacées [G. Planchon]	0	
@@ -1139,26 +1251,32 @@ orth	Marasme
 pb	759	0763	4542645
 pb	760	0764	4542646
 pb	761	0765	4542647
-entry	Marat (Jean-Paul) [H. Montanier]	1	
+entry	Marat (Jean-Paul) [H. Montanier]	0	
 orth	Marat (Jean-Paul)		
 pb	762	0766	4542648
-entry	Marat (Eaux minérales de) [A. Rotureau]	1	
+entry	Marat (Jean-Paul) [H. Montanier] (bibliographie)	0	
+orth	Marat (Jean-Paul)		
+entry	Marat (Eaux minérales de) [A. Rotureau]	0	
 orth	Marat (Eaux minérales de)		
 pb	763	0767	4542649
+entry	Marat (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Marat (Eaux minérales de)		
 entry	Marathre [G. Planchon]	0	
 orth	Marathre		
 entry	Maratia Moogho [H. Baillon]	0	
 orth	Maratia Moogho		
 entry	Marbod [E. Beaugrand]	0	
 orth	Marbod		
-entry	Marc (Charles-Chrétien-Henri) [H. Montanier]	2	
+entry	Marc (Charles-Chrétien-Henri) [H. Montanier]	0	
 orth	Marc (Charles-Chrétien-Henri)		
 pb	764	0768	4542650
+entry	Marc (Charles-Chrétien-Henri) [H. Montanier] (bibliographie)	1	
+orth	Marc (Charles-Chrétien-Henri)		
 pb	765	0769	4542651
 entry	Marcanthus [H. Baillon]	1	
 orth	Marcanthus		
 pb	766	0770	4542652
-entry	Marcard (Henry-Matthieu) [A. Chéreau]	0	
+entry	Marcard (Henry-Matthieu) [A. Chéreau] (bibliographie)	0	
 orth	Marcard (Henry-Matthieu)		
 entry	Marcé (Louis-Victor) [E. Beaugrand]	0	
 orth	Marcé (Louis-Victor)		
@@ -1169,37 +1287,49 @@ entry	Marcellus [Ch. Daremberg]	0
 orth	Marcellus		
 entry	Marcellus Sideta [Ch. Daremberg]	0	
 orth	Marcellus Sideta		
-entry	Marcet (Alexandre) [H. Montanier]	2	
+entry	Marcet (Alexandre) [H. Montanier]	0	
 orth	Marcet (Alexandre)		
 pb	768	0772	4542654
+entry	Marcet (Alexandre) [H. Montanier] (bibliographie)	1	
+orth	Marcet (Alexandre)		
 pb	769	0773	4542655
 entry	Marcgravie [H. Baillon]	0	
 orth	Marcgravie		
 entry	March (Les deux) [A. Chéreau]	0	
 orth	March (Les deux)		
-entry	Marchal (Laurent-Joseph-Anselme) [E. Beaugrand]	1	
+entry	Marchal (Laurent-Joseph-Anselme) [E. Beaugrand]	0	
 orth	Marchal (Laurent-Joseph-Anselme)		
 pb	770	0774	4542656
+entry	Marchal (Laurent-Joseph-Anselme) [E. Beaugrand] (bibliographie)	0	
+orth	Marchal (Laurent-Joseph-Anselme)		
 entry	Marchantie	0	
-entry	Marchantie. Botanique [H. Baillon]	2	
+entry	Marchantie. Botanique [H. Baillon]	1	
 orth	Marchantie. Botanique		
 pb	771	0775	4542657
 pb	772	0776	4542658
+entry	Marchantie. Botanique [H. Baillon] (bibliographie)	0	
+orth	Marchantie. Botanique		
 entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
 entry	Marche	0	
 ref	Locomotion		
-entry	Marchetti (Les deux) [A. Chéreau]	1	
+entry	Marchetti (Les deux) [A. Chéreau]	0	
 orth	Marchetti (Les deux)		
 pb	773	0777	4542659
+entry	Marchetti (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Marchetti (Les deux)		
 entry	Marchi (Marco de) [Amédée Dechambre]	0	
 orth	Marchi (Marco de)		
-entry	Marcot (Eustache) [A. Chéreau]	1	
+entry	Marcot (Eustache) [A. Chéreau]	0	
 orth	Marcot (Eustache)		
 pb	774	0778	4542660
-entry	Marcus ou Markus (Adalbert-Friedreich) [E. Beaugrand]	1	
+entry	Marcot (Eustache) [A. Chéreau] (bibliographie)	0	
+orth	Marcot (Eustache)		
+entry	Marcus ou Markus (Adalbert-Friedreich) [E. Beaugrand]	0	
 orth	Marcus ou Markus (Adalbert-Friedreich)		
 pb	775	0779	4542661
+entry	Marcus ou Markus (Adalbert-Friedreich) [E. Beaugrand] (bibliographie)	0	
+orth	Marcus ou Markus (Adalbert-Friedreich)		
 entry	Mare	0	
 ref	Rurale (hygiène)		
 ref	Marais		

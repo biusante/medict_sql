@@ -134,7 +134,7 @@ pb	122	0126	4571792
 pb	123	0127	4571793
 pb	124	0128	4571794
 pb	125	0129	4571795
-entry	Oreille. Physiologie [C. Coÿne]	26	
+entry	Oreille. Physiologie [C. Coÿne]	18	
 orth	Oreille. Physiologie		
 pb	126	0130	4571796
 pb	127	0131	4571797
@@ -155,6 +155,8 @@ pb	141	0145	4571811
 pb	142	0146	4571812
 pb	143	0147	4571813
 pb	144	0148	4571814
+entry	Oreille. Physiologie [C. Coÿne] (bibliographie)	7	
+orth	Oreille. Physiologie		
 pb	145	0149	4571815
 pb	146	0150	4571816
 pb	147	0151	4571817
@@ -356,7 +358,7 @@ pb	309	0313	4571979
 pb	310	0314	4571980
 entry	Oreille de mer [Ed. Lefèvre]	0	
 orth	Oreille de mer		
-entry	Oreillons [A. Laveran]	53	
+entry	Oreillons [A. Laveran]	50	
 orth	Oreillons		
 pb	311	0315	4571981
 pb	312	0316	4571982
@@ -409,10 +411,12 @@ pb	358	0362	4572028
 pb	359	0363	4572029
 pb	360	0364	4572030
 pb	361	0365	4572031
+entry	Oreillons [A. Laveran] (bibliographie)	2	
+orth	Oreillons		
 pb	362	0366	4572032
 pb	363	0367	4572033
 pb	364	0368	4572034
-entry	O'reilly (Charles) [L. Hahn]	0	
+entry	O'reilly (Charles) [L. Hahn] (bibliographie)	0	
 orth	O'reilly (Charles)		
 entry	Orelline [Amédée Dechambre]	0	
 orth	Orelline		
@@ -422,7 +426,7 @@ entry	Orense (Eaux minérales d') [A. Rotureau]	2
 orth	Orense (Eaux minérales d')		
 pb	365	0369	4572035
 pb	366	0370	4572036
-entry	Oreodoxa [G. Planchon]	0	
+entry	Oreodoxa [G. Planchon] (bibliographie)	0	
 orth	Oreodoxa		
 entry	Oreomalia [G. Planchon]	0	
 orth	Oreomalia		
@@ -432,23 +436,29 @@ entry	Oréosélone	0
 ref	Orosélone		
 entry	Orestion [G. Planchon]	0	
 orth	Orestion		
-entry	Orezza (Eaux minérales d') [A. Rotureau]	4	
+entry	Orezza (Eaux minérales d') [A. Rotureau]	3	
 orth	Orezza (Eaux minérales d')		
 pb	367	0371	4572037
 pb	368	0372	4572038
 pb	369	0373	4572039
 pb	370	0374	4572040
-entry	Orfila (Mathéo-José-Bonaventure) [A. Chéreau]	4	
+entry	Orezza (Eaux minérales d') [A. Rotureau] (bibliographie)	0	
+orth	Orezza (Eaux minérales d')		
+entry	Orfila (Mathéo-José-Bonaventure) [A. Chéreau]	2	
 orth	Orfila (Mathéo-José-Bonaventure)		
 pb	371	0375	4572041
 pb	372	0376	4572042
 pb	373	0377	4572043
+entry	Orfila (Mathéo-José-Bonaventure) [A. Chéreau] (bibliographie)	1	
+orth	Orfila (Mathéo-José-Bonaventure)		
 pb	374	0378	4572044
-entry	Orfraie [E. Oustalet]	1	
+entry	Orfraie [E. Oustalet]	0	
 orth	Orfraie		
 pb	375	0379	4572045
+entry	Orfraie [E. Oustalet] (bibliographie)	0	
+orth	Orfraie		
 pb	376	0380	4572046
-entry	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme [Ch. Robin]	159	
+entry	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme [Ch. Robin]	156	
 orth	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme		
 pb	377	0381	4572047
 pb	378	0382	4572048
@@ -607,6 +617,8 @@ pb	530	0534	4572200
 pb	531	0535	4572201
 pb	532	0536	4572202
 pb	533	0537	4572203
+entry	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme [Ch. Robin] (bibliographie)	2	
+orth	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Organisme		
 pb	534	0538	4572204
 pb	535	0539	4572205
 entry	Organe de Corti	0	
@@ -640,7 +652,7 @@ pb	539	0543	4572209
 entry	Orgasme [Amédée Dechambre]	0	
 orth	Orgasme		
 entry	Orge	0	
-entry	Orge. Botanique [G. Planchon]	1	
+entry	Orge. Botanique [G. Planchon] (bibliographie)	1	
 orth	Orge. Botanique		
 pb	540	0544	4572210
 entry	Orge. Bromatologie [P. Coulier]	1	
@@ -656,7 +668,7 @@ ref	Paupières
 entry	Orgueil (Monomanie de l')	0	
 ref	Monomanie		
 ref	paralysie générale		
-entry	Oriachloe [G. Planchon]	0	
+entry	Oriachloe [G. Planchon] (bibliographie)	0	
 orth	Oriachloe		
 entry	Oribase [L. Leclerc]	2	
 orth	Oribase		
@@ -669,10 +681,12 @@ orth	Oricia
 entry	Orient (Écoles médicales d')	0	
 ref	Écoles		
 entry	Origan	0	
-entry	Origan. Botanique [G. Planchon]	2	
+entry	Origan. Botanique [G. Planchon]	1	
 orth	Origan. Botanique		
 pb	545	0549	4572215
 pb	546	0550	4572216
+entry	Origan. Botanique [G. Planchon] (bibliographie)	0	
+orth	Origan. Botanique		
 entry	Origan. Emploi médical [Fonssagrives]	1	
 orth	Origan. Emploi médical		
 pb	547	0551	4572217
@@ -686,28 +700,36 @@ orth	Orillette
 entry	Oriol (Eaux de minérales d') [A. Rotureau]	1	
 orth	Oriol (Eaux de minérales d')		
 pb	549	0553	4572219
-entry	Orivai y de Monréal (Juan-Bautista) [L. Hahn]	0	
+entry	Orivai y de Monréal (Juan-Bautista) [L. Hahn] (bibliographie)	0	
 orth	Orivai y de Monréal (Juan-Bautista)		
-entry	Orlovius (Andreas-Johann) [L. Hahn]	1	
+entry	Orlovius (Andreas-Johann) [L. Hahn]	0	
 orth	Orlovius (Andreas-Johann)		
 pb	550	0554	4572220
+entry	Orlovius (Andreas-Johann) [L. Hahn] (bibliographie)	0	
+orth	Orlovius (Andreas-Johann)		
 entry	Orme	0	
-entry	Orme. Botanique [H. Baillon]	3	
+entry	Orme. Botanique [H. Baillon]	2	
 orth	Orme. Botanique		
 pb	551	0555	4572221
 pb	552	0556	4572222
 pb	553	0557	4572223
+entry	Orme. Botanique [H. Baillon] (bibliographie)	0	
+orth	Orme. Botanique		
 entry	Orme. Pharmacologie [Bazile Féris]	1	
 orth	Orme. Pharmacologie		
 pb	554	0558	4572224
-entry	Orme. Thérapeutique [Bazile Féris]	3	
+entry	Orme. Thérapeutique [Bazile Féris]	2	
 orth	Orme. Thérapeutique		
 pb	555	0559	4572225
 pb	556	0560	4572226
 pb	557	0561	4572227
-entry	Ormerod (Les deux) [L. Hahn]	1	
+entry	Orme. Thérapeutique [Bazile Féris] (bibliographie)	0	
+orth	Orme. Thérapeutique		
+entry	Ormerod (Les deux) [L. Hahn]	0	
 orth	Ormerod (Les deux)		
 pb	558	0562	4572228
+entry	Ormerod (Les deux) [L. Hahn] (bibliographie)	0	
+orth	Ormerod (Les deux)		
 pb	559	0563	4572229
 entry	Ormier [Ed. Lefèvre]	0	
 orth	Ormier		
@@ -719,9 +741,11 @@ entry	Ornière [G. Planchon]	0
 orth	Ornière		
 entry	Ornithodelphes [E. Oustalet]	0	
 orth	Ornithodelphes		
-entry	Ornithogale [G. Planchon]	1	
+entry	Ornithogale [G. Planchon]	0	
 orth	Ornithogale		
 pb	560	0564	4572230
+entry	Ornithogale [G. Planchon] (bibliographie)	0	
+orth	Ornithogale		
 entry	Ornithoglossa [G. Planchon]	0	
 orth	Ornithoglossa		
 entry	Ornithomyie [A. Laboulbène]	1	
@@ -729,31 +753,37 @@ orth	Ornithomyie
 pb	561	0565	4572231
 entry	Ornithopus [G. Planchon]	0	
 orth	Ornithopus		
-entry	Ornithorhynque [E. Oustalet]	5	
+entry	Ornithorhynque [E. Oustalet]	4	
 orth	Ornithorhynque		
 pb	562	0566	4572232
 pb	563	0567	4572233
 pb	564	0568	4572234
 pb	565	0569	4572235
 pb	566	0570	4572236
+entry	Ornithorhynque [E. Oustalet] (bibliographie)	0	
+orth	Ornithorhynque		
 entry	Ornus [G. Planchon]	0	
 orth	Ornus		
-entry	Orobanche [G. Planchon]	1	
+entry	Orobanche [G. Planchon]	0	
 orth	Orobanche		
 pb	567	0571	4572237
+entry	Orobanche [G. Planchon] (bibliographie)	0	
+orth	Orobanche		
 entry	Orobe	0	
 entry	Botanique [G. Planchon]	0	
 orth	Botanique		
-entry	Orobe. Emploi médical [Ernest Labbée]	1	
+entry	Orobe. Emploi médical [Ernest Labbée] (bibliographie)	1	
 orth	Orobe. Emploi médical		
 pb	568	0572	4572238
 entry	Oronge [Ed. Lefèvre]	0	
 orth	Oronge		
 entry	Oronoz y Soroeta (Jose de) [L. Hahn]	0	
 orth	Oronoz y Soroeta (Jose de)		
-entry	Oropesa (Francisco-Sanchez de) [L. Hahn]	1	
+entry	Oropesa (Francisco-Sanchez de) [L. Hahn]	0	
 orth	Oropesa (Francisco-Sanchez de)		
 pb	569	0573	4572239
+entry	Oropesa (Francisco-Sanchez de) [L. Hahn] (bibliographie)	0	
+orth	Oropesa (Francisco-Sanchez de)		
 entry	Oroséline	0	
 ref	Orosélone		
 entry	Orosélone [L. Hahn]	1	
@@ -762,7 +792,7 @@ pb	570	0574	4572240
 pb	571	0575	4572241
 entry	Orozco (Cristobal) [L. Hahn]	0	
 orth	Orozco (Cristobal)		
-entry	Orpen (Thomas-Herbert) [L. Hahn]	0	
+entry	Orpen (Thomas-Herbert) [L. Hahn] (bibliographie)	0	
 orth	Orpen (Thomas-Herbert)		
 entry	Orphelinat [B. Brochin]	27	
 orth	Orphelinat		
@@ -793,27 +823,35 @@ pb	595	0599	4572265
 pb	596	0600	4572266
 pb	597	0601	4572267
 pb	598	0602	4572268
-entry	Orphie [P. Oustalet] [E. O.]	0	
+entry	Orphie [P. Oustalet] (bibliographie) [E. O.]	0	
 orth	Orphie		
 entry	Orpiment [L. Hahn]	1	
 orth	Orpiment		
 pb	599	0603	4572269
-entry	Orpin [H. Baillon]	1	
+entry	Orpin [H. Baillon]	0	
 orth	Orpin		
 pb	600	0604	4572270
-entry	Orräus (Gustav) [L. Hahn]	1	
+entry	Orpin [H. Baillon] (bibliographie)	0	
+orth	Orpin		
+entry	Orräus (Gustav) [L. Hahn]	0	
 orth	Orräus (Gustav)		
 pb	601	0605	4572271
-entry	Oernstrup (Carl-Christian) [A. Dureau]	1	
+entry	Orräus (Gustav) [L. Hahn] (bibliographie)	0	
+orth	Orräus (Gustav)		
+entry	Oernstrup (Carl-Christian) [A. Dureau]	0	
 orth	Oernstrup (Carl-Christian)		
 pb	602	0606	4572272
+entry	Oernstrup (Carl-Christian) [A. Dureau] (bibliographie)	0	
+orth	Oernstrup (Carl-Christian)		
 entry	Orsato (Jean-Baptiste) [L. Hahn]	0	
 orth	Orsato (Jean-Baptiste)		
 entry	Orseille [G. Planchon]	0	
 orth	Orseille		
-entry	Orseilles [G. Planchon]	1	
+entry	Orseilles [G. Planchon]	0	
 orth	Orseilles		
 pb	603	0607	4572273
+entry	Orseilles [G. Planchon] (bibliographie)	0	
+orth	Orseilles		
 entry	Orsellinique (Acide)	0	
 ref	Orsellique		
 entry	Orsellique (Acide) [L. Hahn]	5	
@@ -823,20 +861,24 @@ pb	605	0609	4572275
 pb	606	0610	4572276
 pb	607	0611	4572277
 pb	608	0612	4572278
-entry	Oerslev ou Erslev (Jens-Peder) [A. Dureau]	0	
+entry	Oerslev ou Erslev (Jens-Peder) [A. Dureau] (bibliographie)	0	
 orth	Oerslev ou Erslev (Jens-Peder)		
-entry	Oersted (Jean-Chrétien) [L. Hahn]	2	
+entry	Oersted (Jean-Chrétien) [L. Hahn]	1	
 orth	Oersted (Jean-Chrétien)		
 pb	609	0613	4572279
 pb	610	0614	4572280
+entry	Oersted (Jean-Chrétien) [L. Hahn] (bibliographie)	0	
+orth	Oersted (Jean-Chrétien)		
 entry	Orta ou Huerta (Garcia de) [L. Hahn]	0	
 orth	Orta ou Huerta (Garcia de)		
 pb	611	0615	4572281
-entry	Ortalli (Franz) [L. Hahn]	0	
+entry	Ortalli (Franz) [L. Hahn] (bibliographie)	0	
 orth	Ortalli (Franz)		
-entry	Ortega (Les) [L. Hahn]	1	
+entry	Ortega (Les) [L. Hahn]	0	
 orth	Ortega (Les)		
 pb	612	0616	4572282
+entry	Ortega (Les) [L. Hahn] (bibliographie)	0	
+orth	Ortega (Les)		
 entry	Orteils	0	
 entry	Orteils. Anatomie [V. Paulet]	7	
 orth	Orteils. Anatomie		
@@ -870,15 +912,17 @@ pb	636	0640	4572306
 pb	637	0641	4572307
 pb	638	0642	4572308
 pb	639	0643	4572309
-entry	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision [V. Paulet]	6	
+entry	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision [V. Paulet]	4	
 orth	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision		
 pb	640	0644	4572310
 pb	641	0645	4572311
 pb	642	0646	4572312
 pb	643	0647	4572313
 pb	644	0648	4572314
+entry	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision [V. Paulet] (bibliographie)	1	
+orth	Orteils. Pathologie chirurgicale. Des anomalies des orteils devant les conseils de révision		
 pb	645	0649	4572315
-entry	Orteils. Pathologie chirurgicale. Lésions traumatiques [V. Paulet]	8	
+entry	Orteils. Pathologie chirurgicale. Lésions traumatiques [V. Paulet]	6	
 orth	Orteils. Pathologie chirurgicale. Lésions traumatiques		
 pb	646	0650	4572316
 pb	647	0651	4572317
@@ -887,8 +931,10 @@ pb	649	0653	4572319
 pb	650	0654	4572320
 pb	651	0655	4572321
 pb	652	0656	4572322
+entry	Orteils. Pathologie chirurgicale. Lésions traumatiques [V. Paulet] (bibliographie)	1	
+orth	Orteils. Pathologie chirurgicale. Lésions traumatiques		
 pb	653	0657	4572323
-entry	Orteils. Pathologie chirurgicale. Luxations [V. Paulet]	26	
+entry	Orteils. Pathologie chirurgicale. Luxations [V. Paulet]	23	
 orth	Orteils. Pathologie chirurgicale. Luxations		
 pb	654	0658	4572324
 pb	655	0659	4572325
@@ -914,14 +960,18 @@ pb	674	0678	4572344
 pb	675	0679	4572345
 pb	676	0680	4572346
 pb	677	0681	4572347
+entry	Orteils. Pathologie chirurgicale. Luxations [V. Paulet] (bibliographie)	2	
+orth	Orteils. Pathologie chirurgicale. Luxations		
 pb	678	0682	4572348
 pb	679	0683	4572349
-entry	Orteils. Pathologie chirurgicale. Lésions vitales et organiques [V. Paulet]	3	
+entry	Orteils. Pathologie chirurgicale. Lésions vitales et organiques [V. Paulet]	2	
 orth	Orteils. Pathologie chirurgicale. Lésions vitales et organiques		
 pb	680	0684	4572350
 pb	681	0685	4572351
 pb	682	0686	4572352
-entry	Orteils. Pathologie chirurgicale. Ainhum [V. Paulet]	9	
+entry	Orteils. Pathologie chirurgicale. Lésions vitales et organiques [V. Paulet] (bibliographie)	0	
+orth	Orteils. Pathologie chirurgicale. Lésions vitales et organiques		
+entry	Orteils. Pathologie chirurgicale. Ainhum [V. Paulet]	7	
 orth	Orteils. Pathologie chirurgicale. Ainhum		
 pb	683	0687	4572353
 pb	684	0688	4572354
@@ -931,14 +981,18 @@ pb	687	0691	4572357
 pb	688	0692	4572358
 pb	689	0693	4572359
 pb	690	0694	4572360
+entry	Orteils. Pathologie chirurgicale. Ainhum [V. Paulet] (bibliographie)	1	
+orth	Orteils. Pathologie chirurgicale. Ainhum		
 pb	691	0695	4572361
-entry	Orteils. Pathologie chirurgicale. Tumeurs [V. Paulet]	4	
+entry	Orteils. Pathologie chirurgicale. Tumeurs [V. Paulet]	3	
 orth	Orteils. Pathologie chirurgicale. Tumeurs		
 pb	692	0696	4572362
 pb	693	0697	4572363
 pb	694	0698	4572364
 pb	695	0699	4572365
-entry	Orteils. Pathologie chirurgicale. Exostose sous-unguéale [V. Paulet]	11	
+entry	Orteils. Pathologie chirurgicale. Tumeurs [V. Paulet] (bibliographie)	0	
+orth	Orteils. Pathologie chirurgicale. Tumeurs		
+entry	Orteils. Pathologie chirurgicale. Exostose sous-unguéale [V. Paulet]	9	
 orth	Orteils. Pathologie chirurgicale. Exostose sous-unguéale		
 pb	696	0700	4572366
 pb	697	0701	4572367
@@ -950,8 +1004,10 @@ pb	702	0706	4572372
 pb	703	0707	4572373
 pb	704	0708	4572374
 pb	705	0709	4572375
+entry	Orteils. Pathologie chirurgicale. Exostose sous-unguéale [V. Paulet] (bibliographie)	1	
+orth	Orteils. Pathologie chirurgicale. Exostose sous-unguéale		
 pb	706	0710	4572376
-entry	Orteils. Médecine opératoire [V. Paulet]	10	
+entry	Orteils. Médecine opératoire [V. Paulet]	9	
 orth	Orteils. Médecine opératoire		
 pb	707	0711	4572377
 pb	708	0712	4572378
@@ -963,25 +1019,33 @@ pb	713	0717	4572383
 pb	714	0718	4572384
 pb	715	0719	4572385
 pb	716	0720	4572386
-entry	Oertel (Les) [L. Hahn]	1	
+entry	Orteils. Médecine opératoire [V. Paulet] (bibliographie)	0	
+orth	Orteils. Médecine opératoire		
+entry	Oertel (Les) [L. Hahn]	0	
 orth	Oertel (Les)		
 pb	717	0721	4572387
+entry	Oertel (Les) [L. Hahn] (bibliographie)	0	
+orth	Oertel (Les)		
 entry	Ortelius (Les) [L. Hahn]	0	
 orth	Ortelius (Les)		
-entry	Oertenblad (Gustav-Jacob) [A. Dureau]	1	
+entry	Oertenblad (Gustav-Jacob) [A. Dureau]	0	
 orth	Oertenblad (Gustav-Jacob)		
 pb	718	0722	4572388
+entry	Oertenblad (Gustav-Jacob) [A. Dureau] (bibliographie)	0	
+orth	Oertenblad (Gustav-Jacob)		
 entry	Orteschi (Piètre) [A. Dureau]	0	
 orth	Orteschi (Piètre)		
 entry	Orthocéras [Ed. Lefèvre]	0	
 orth	Orthocéras		
-entry	Orthognathisme [Ch. Letourneau]	4	
+entry	Orthognathisme [Ch. Letourneau]	3	
 orth	Orthognathisme		
 pb	719	0723	4572389
 pb	720	0724	4572390
 pb	721	0725	4572391
 pb	722	0726	4572392
-entry	Orthopédie [L. H. Petit]	10	
+entry	Orthognathisme [Ch. Letourneau] (bibliographie)	0	
+orth	Orthognathisme		
+entry	Orthopédie [L. H. Petit]	8	
 orth	Orthopédie		
 pb	723	0727	4572393
 pb	724	0728	4572394
@@ -992,10 +1056,12 @@ pb	728	0732	4572398
 pb	729	0733	4572399
 pb	730	0734	4572400
 pb	731	0735	4572401
+entry	Orthopédie [L. H. Petit] (bibliographie)	1	
+orth	Orthopédie		
 pb	732	0736	4572402
 entry	Orthopnée [Amédée Dechambre]	0	
 orth	Orthopnée		
-entry	Orthoptères [A. Laboulbène]	13	
+entry	Orthoptères [A. Laboulbène]	12	
 orth	Orthoptères		
 pb	733	0737	4572403
 pb	734	0738	4572404
@@ -1010,15 +1076,19 @@ pb	742	0746	4572412
 pb	743	0747	4572413
 pb	744	0748	4572414
 pb	745	0749	4572415
+entry	Orthoptères [A. Laboulbène] (bibliographie)	0	
+orth	Orthoptères		
 entry	Orthoscope [Amédée Dechambre]	1	
 orth	Orthoscope		
 pb	746	0750	4572416
 entry	Ortie	0	
-entry	Ortie. Botanique [H. Baillon]	3	
+entry	Ortie. Botanique [H. Baillon]	2	
 orth	Ortie. Botanique		
 pb	747	0751	4572417
 pb	748	0752	4572418
 pb	749	0753	4572419
+entry	Ortie. Botanique [H. Baillon] (bibliographie)	0	
+orth	Ortie. Botanique		
 entry	Ortie. Emploi médical [Amédée Dechambre]	3	
 orth	Ortie. Emploi médical		
 pb	750	0754	4572420
@@ -1026,31 +1096,39 @@ pb	751	0755	4572421
 pb	752	0756	4572422
 entry	Ortie de mer [Ed. Lefèvre]	0	
 orth	Ortie de mer		
-entry	Ortiz (Les deux) [L. Hahn]	0	
+entry	Ortiz (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Ortiz (Les deux)		
 pb	753	0757	4572423
-entry	Ortlob (Johann-Friedrich) [L. Hahn]	0	
+entry	Ortlob (Johann-Friedrich) [L. Hahn] (bibliographie)	0	
 orth	Ortlob (Johann-Friedrich)		
-entry	Ortolan [E. Oustalet]	1	
+entry	Ortolan [E. Oustalet]	0	
 orth	Ortolan		
 pb	754	0758	4572424
+entry	Ortolan [E. Oustalet] (bibliographie)	0	
+orth	Ortolan		
 entry	Ortolff (von Bayrlandt) [L. Hahn]	0	
 orth	Ortolff (von Bayrlandt)		
-entry	Orton (Les deux) [L. Hahn]	1	
+entry	Orton (Les deux) [L. Hahn]	0	
 orth	Orton (Les deux)		
 pb	755	0759	4572425
+entry	Orton (Les deux) [L. Hahn] (bibliographie)	0	
+orth	Orton (Les deux)		
 entry	Orvale [G. Planchon]	0	
 orth	Orvale		
-entry	Orvet [E. Oustalet]	1	
+entry	Orvet [E. Oustalet]	0	
 orth	Orvet		
 pb	756	0760	4572426
+entry	Orvet [E. Oustalet] (bibliographie)	0	
+orth	Orvet		
 entry	Orviétan [Amédée Dechambre]	1	
 orth	Orviétan		
 pb	757	0761	4572427
-entry	Oryctérope [E. Oustalet]	2	
+entry	Oryctérope [E. Oustalet]	1	
 orth	Oryctérope		
 pb	758	0762	4572428
 pb	759	0763	4572429
+entry	Oryctérope [E. Oustalet] (bibliographie)	0	
+orth	Oryctérope		
 entry	Oryza	0	
 ref	Ris		
 pb	[s. pag.]	0764	4572430

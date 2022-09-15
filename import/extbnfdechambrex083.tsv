@@ -12,7 +12,7 @@ orth	Réticulum
 entry	Rétinaphte	0	
 ref	Toluène		
 entry	Rétine	0	
-entry	Rétine. Anatomie [Nuel]	21	
+entry	Rétine. Anatomie [Nuel]	20	
 orth	Rétine. Anatomie		
 pb	2	0006	4582956
 pb	3	0007	4582957
@@ -35,7 +35,9 @@ pb	19	0023	4582973
 pb	20	0024	4582974
 pb	21	0025	4582975
 pb	22	0026	4582976
-entry	Rétine. Physiologie [Nuel]	79	
+entry	Rétine. Anatomie [Nuel] (bibliographie)	0	
+orth	Rétine. Anatomie		
+entry	Rétine. Physiologie [Nuel]	78	
 orth	Rétine. Physiologie		
 pb	23	0027	4582977
 pb	24	0028	4582978
@@ -116,7 +118,9 @@ pb	98	0102	4583052
 pb	99	0103	4583053
 pb	100	0104	4583054
 pb	101	0105	4583055
-entry	Rétine. Pathologie [E. Warlomont, Duwez]	118	
+entry	Rétine. Physiologie [Nuel] (bibliographie)	0	
+orth	Rétine. Physiologie		
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	16	
 orth	Rétine. Pathologie		
 pb	102	0106	4583056
 pb	103	0107	4583057
@@ -135,7 +139,11 @@ pb	115	0119	4583069
 pb	116	0120	4583070
 pb	117	0121	4583071
 pb	118	0122	4583072
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	0	
+orth	Rétine. Pathologie		
 pb	119	0123	4583073
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	6	
+orth	Rétine. Pathologie		
 pb	120	0124	4583074
 pb	121	0125	4583075
 pb	122	0126	4583076
@@ -143,8 +151,12 @@ pb	123	0127	4583077
 pb	124	0128	4583078
 pb	125	0129	4583079
 pb	126	0130	4583080
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	1	
+orth	Rétine. Pathologie		
 pb	127	0131	4583081
 pb	128	0132	4583082
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	7	
+orth	Rétine. Pathologie		
 pb	129	0133	4583083
 pb	130	0134	4583084
 pb	131	0135	4583085
@@ -153,16 +165,32 @@ pb	133	0137	4583087
 pb	134	0138	4583088
 pb	135	0139	4583089
 pb	136	0140	4583090
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	0	
+orth	Rétine. Pathologie		
 pb	137	0141	4583091
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	1	
+orth	Rétine. Pathologie		
 pb	138	0142	4583092
 pb	139	0143	4583093
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	0	
+orth	Rétine. Pathologie		
 pb	140	0144	4583094
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	1	
+orth	Rétine. Pathologie		
 pb	141	0145	4583095
 pb	142	0146	4583096
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	1	
+orth	Rétine. Pathologie		
 pb	143	0147	4583097
 pb	144	0148	4583098
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	0	
+orth	Rétine. Pathologie		
 pb	145	0149	4583099
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	0	
+orth	Rétine. Pathologie		
 pb	146	0150	4583100
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	15	
+orth	Rétine. Pathologie		
 pb	147	0151	4583101
 pb	148	0152	4583102
 pb	149	0153	4583103
@@ -179,9 +207,13 @@ pb	159	0163	4583113
 pb	160	0164	4583114
 pb	161	0165	4583115
 pb	162	0166	4583116
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	2	
+orth	Rétine. Pathologie		
 pb	163	0167	4583117
 pb	164	0168	4583118
 pb	165	0169	4583119
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	22	
+orth	Rétine. Pathologie		
 pb	166	0170	4583120
 pb	167	0171	4583121
 pb	168	0172	4583122
@@ -205,9 +237,13 @@ pb	185	0189	4583139
 pb	186	0190	4583140
 pb	187	0191	4583141
 pb	188	0192	4583142
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	2	
+orth	Rétine. Pathologie		
 pb	189	0193	4583143
 pb	190	0194	4583144
 pb	191	0195	4583145
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	15	
+orth	Rétine. Pathologie		
 pb	192	0196	4583146
 pb	193	0197	4583147
 pb	194	0198	4583148
@@ -224,8 +260,12 @@ pb	204	0208	4583158
 pb	205	0209	4583159
 pb	206	0210	4583160
 pb	207	0211	4583161
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	1	
+orth	Rétine. Pathologie		
 pb	208	0212	4583162
 pb	209	0213	4583163
+entry	Rétine. Pathologie [E. Warlomont, Duwez]	7	
+orth	Rétine. Pathologie		
 pb	210	0214	4583164
 pb	211	0215	4583165
 pb	212	0216	4583166
@@ -234,6 +274,8 @@ pb	214	0218	4583168
 pb	215	0219	4583169
 pb	216	0220	4583170
 pb	217	0221	4583171
+entry	Rétine. Pathologie [E. Warlomont, Duwez] (bibliographie)	2	
+orth	Rétine. Pathologie		
 pb	218	0222	4583172
 pb	219	0223	4583173
 entry	Rétinique	0	
@@ -250,7 +292,7 @@ entry	Rétitèle	0
 ref	Araignées		
 entry	Rétractilité [Amédée Dechambre]	0	
 orth	Rétractilité		
-entry	Rétraction [A. Kelsch]	10	
+entry	Rétraction [A. Kelsch]	9	
 orth	Rétraction		
 pb	220	0224	4583174
 pb	221	0225	4583175
@@ -262,6 +304,8 @@ pb	226	0230	4583180
 pb	227	0231	4583181
 pb	228	0232	4583182
 pb	229	0233	4583183
+entry	Rétraction [A. Kelsch] (bibliographie)	0	
+orth	Rétraction		
 entry	Rétrécissement [A. Verneuil]	28	
 orth	Rétrécissement		
 pb	230	0234	4583184
@@ -296,14 +340,14 @@ entry	Rétroceps	0
 ref	Forceps		
 entry	Rétroversion [Amédée Dechambre]	0	
 orth	Rétroversion		
-entry	Retz (Noel) [A. Dureau]	1	
+entry	Retz (Noel) [A. Dureau] (bibliographie)	1	
 orth	Retz (Noel)		
 pb	258	0262	4583212
 entry	Retzius (Anders Olof) [E. Beaugrand]	0	
 orth	Retzius (Anders Olof)		
 entry	Réunion (Chirurgie) [Amédée Dechambre]	0	
 orth	Réunion (Chirurgie)		
-entry	Réunion (Ile de la) et Ile Maurice [A. Le Roy de Méricourt, Alexandre Layet]	52	
+entry	Réunion (Ile de la) et Ile Maurice [A. Le Roy de Méricourt, Alexandre Layet]	48	
 orth	Réunion (Ile de la) et Ile Maurice		
 pb	259	0263	4583213
 pb	260	0264	4583214
@@ -354,12 +398,16 @@ pb	304	0308	4583258
 pb	305	0309	4583259
 pb	306	0310	4583260
 pb	307	0311	4583261
+entry	Réunion (Ile de la) et Ile Maurice [A. Le Roy de Méricourt, Alexandre Layet] (bibliographie)	3	
+orth	Réunion (Ile de la) et Ile Maurice		
 pb	308	0312	4583262
 pb	309	0313	4583263
 pb	310	0314	4583264
-entry	Reuss (Les) [A. Dureau]	2	
+entry	Reuss (Les) [A. Dureau]	0	
 orth	Reuss (Les)		
 pb	311	0315	4583265
+entry	Reuss (Les) [A. Dureau] (bibliographie)	1	
+orth	Reuss (Les)		
 pb	312	0316	4583266
 entry	Revaute (La) (Eau minérale de)	0	
 ref	La Revaute		
@@ -369,21 +417,25 @@ ref	Cauchemar
 ref	Mesmérisme		
 ref	Sommeil		
 ref	Songes		
-entry	Réveil (Pierre-Oscar) [E. Beaugrand]	0	
+entry	Réveil (Pierre-Oscar) [E. Beaugrand] (bibliographie)	0	
 orth	Réveil (Pierre-Oscar)		
 entry	Réveillé-Parise (Joseph-Henri) [A. Chéreau]	0	
 orth	Réveillé-Parise (Joseph-Henri)		
 pb	314	0318	4583268
-entry	Réveillé-parise (Joseph-Henri) [A. Chéreau]	1	
+entry	Réveillé-parise (Joseph-Henri) [A. Chéreau]	0	
 orth	Réveillé-parise (Joseph-Henri)		
 pb	315	0319	4583269
+entry	Réveillé-parise (Joseph-Henri) [A. Chéreau] (bibliographie)	0	
+orth	Réveillé-parise (Joseph-Henri)		
 entry	Réveil-Matin [H. Baillon]	0	
 orth	Réveil-Matin		
 entry	Réviviscents (Animaux)	0	
 ref	Ressuscitants		
-entry	Révolat (Étienne-Benoit) [E. Beaugrand]	1	
+entry	Révolat (Étienne-Benoit) [E. Beaugrand]	0	
 orth	Révolat (Étienne-Benoit)		
 pb	316	0320	4583270
+entry	Révolat (Étienne-Benoit) [E. Beaugrand] (bibliographie)	0	
+orth	Révolat (Étienne-Benoit)		
 entry	Révulseurs [Amédée Dechambre]	0	
 orth	Révulseurs		
 entry	Révulsifs, Révulsion [L. Lereboullet]	8	
@@ -398,11 +450,13 @@ pb	323	0327	4583277
 pb	324	0328	4583278
 entry	Révulsive (Médication)	0	
 ref	Révulsion		
-entry	Rey (Guillaume) [A. Chéreau]	0	
+entry	Rey (Guillaume) [A. Chéreau] (bibliographie)	0	
 orth	Rey (Guillaume)		
-entry	Reybard (Jean-François) [E. Beaugrand]	1	
+entry	Reybard (Jean-François) [E. Beaugrand]	0	
 orth	Reybard (Jean-François)		
 pb	325	0329	4583279
+entry	Reybard (Jean-François) [E. Beaugrand] (bibliographie)	0	
+orth	Reybard (Jean-François)		
 entry	Reydellet (Pierre) [E. Beaugrand]	0	
 orth	Reydellet (Pierre)		
 entry	Reyes ou Rejes (Gaspar de Los-Franco) [E. Beaugrand]	0	
@@ -410,7 +464,7 @@ orth	Reyes ou Rejes (Gaspar de Los-Franco)
 entry	Reyes Sahagun (Francisco Rafaele de Los) [E. Beaugrand]	0	
 orth	Reyes Sahagun (Francisco Rafaele de Los)		
 pb	326	0330	4583280
-entry	Reyes sahagun (Francisco Rafaele de Los) [E. Beaugrand]	0	
+entry	Reyes sahagun (Francisco Rafaele de Los) [E. Beaugrand] (bibliographie)	0	
 orth	Reyes sahagun (Francisco Rafaele de Los)		
 entry	Reyher (Jean-Georges) [A. Dureau]	0	
 orth	Reyher (Jean-Georges)		
@@ -419,7 +473,7 @@ orth	Reynier (Jean-Louis-Antoine)
 entry	Reyrieux (Eaux minérale de) [A. Rotureau]	1	
 orth	Reyrieux (Eaux minérale de)		
 pb	327	0331	4583281
-entry	Reys taveres (Emmanuel dos) [A. Dureau]	0	
+entry	Reys taveres (Emmanuel dos) [A. Dureau] (bibliographie)	0	
 orth	Reys taveres (Emmanuel dos)		
 entry	Rha [G. Planchon]	0	
 orth	Rha		
@@ -430,7 +484,7 @@ orth	Rhabdocélés
 pb	328	0332	4583282
 entry	Rhagades [Amédée Dechambre]	0	
 orth	Rhagades		
-entry	Rhagadiolus [G. Planchon]	0	
+entry	Rhagadiolus [G. Planchon] (bibliographie)	0	
 orth	Rhagadiolus		
 entry	Rhamnées [G. Planchon]	0	
 orth	Rhamnées		
@@ -453,18 +507,22 @@ entry	Rhapontica	0
 ref	Jusquiame		
 entry	Rhaponticine	0	
 ref	Chrysophanique		
-entry	Rhaponticum [G. Planchon]	1	
+entry	Rhaponticum [G. Planchon]	0	
 orth	Rhaponticum		
 pb	330	0334	4583284
+entry	Rhaponticum [G. Planchon] (bibliographie)	0	
+orth	Rhaponticum		
 entry	Rhapsodomancie [Amédée Dechambre]	0	
 orth	Rhapsodomancie		
 entry	Rhazès	0	
 ref	Razès		
 entry	Rheedia [G. Planchon]	0	
 orth	Rheedia		
-entry	Rheede (Henri-Adrien-Draakenstein Van) [A. Dureau]	1	
+entry	Rheede (Henri-Adrien-Draakenstein Van) [A. Dureau]	0	
 orth	Rheede (Henri-Adrien-Draakenstein Van)		
 pb	331	0335	4583285
+entry	Rheede (Henri-Adrien-Draakenstein Van) [A. Dureau] (bibliographie)	0	
+orth	Rheede (Henri-Adrien-Draakenstein Van)		
 entry	Rhéine [C. Lutz]	0	
 orth	Rhéine		
 entry	Rhéique (Acide)	0	
@@ -488,18 +546,20 @@ entry	Rheum	0
 ref	Rhubarbe		
 entry	Rheumine	0	
 ref	Rhéine		
-entry	Rhexia [G. Planchon]	0	
+entry	Rhexia [G. Planchon] (bibliographie)	0	
 orth	Rhexia		
 entry	Rhigolène	0	
 entry	Chimie [Malaguti]	0	
 orth	Chimie		
-entry	Rhigolène. Emploi thérapeutique [Ernest Labbée]	5	
+entry	Rhigolène. Emploi thérapeutique [Ernest Labbée]	4	
 orth	Rhigolène. Emploi thérapeutique		
 pb	333	0337	4583287
 pb	334	0338	4583288
 pb	335	0339	4583289
 pb	336	0340	4583290
 pb	337	0341	4583291
+entry	Rhigolène. Emploi thérapeutique [Ernest Labbée] (bibliographie)	0	
+orth	Rhigolène. Emploi thérapeutique		
 entry	Rhinacanthus [H. Baillon]	0	
 orth	Rhinacanthus		
 entry	Rhinanthine [Amédée Dechambre]	0	
@@ -513,12 +573,12 @@ entry	Rhinocéros [Paul Gervais]	2
 orth	Rhinocéros		
 pb	339	0343	4583293
 pb	340	0344	4583294
-entry	Rhinocéphalie [O. Larcher]	0	
+entry	Rhinocéphalie [O. Larcher] (bibliographie)	0	
 orth	Rhinocéphalie		
 entry	Rhinolophes [Paul Gervais]	1	
 orth	Rhinolophes		
 pb	341	0345	4583295
-entry	Rhinoplastie [Dolbeau, G. Félizet]	41	
+entry	Rhinoplastie [Dolbeau, G. Félizet]	38	
 orth	Rhinoplastie		
 pb	342	0346	4583296
 pb	343	0347	4583297
@@ -559,9 +619,11 @@ pb	377	0381	4583331
 pb	378	0382	4583332
 pb	379	0383	4583333
 pb	380	0384	4583334
+entry	Rhinoplastie [Dolbeau, G. Félizet] (bibliographie)	2	
+orth	Rhinoplastie		
 pb	381	0385	4583335
 pb	382	0386	4583336
-entry	Rhinoscopie [Maurice Krishaber]	12	
+entry	Rhinoscopie [Maurice Krishaber]	10	
 orth	Rhinoscopie		
 pb	383	0387	4583337
 pb	384	0388	4583338
@@ -574,28 +636,38 @@ pb	390	0394	4583344
 pb	391	0395	4583345
 pb	392	0396	4583346
 pb	393	0397	4583347
+entry	Rhinoscopie [Maurice Krishaber] (bibliographie)	1	
+orth	Rhinoscopie		
 pb	394	0398	4583348
-entry	Rhipiptères [A. Laboulbène]	4	
+entry	Rhipiptères [A. Laboulbène]	3	
 orth	Rhipiptères		
 pb	395	0399	4583349
 pb	396	0400	4583350
 pb	397	0401	4583351
 pb	398	0402	4583352
-entry	Rhizoctone [J. De Seynes]	1	
+entry	Rhipiptères [A. Laboulbène] (bibliographie)	0	
+orth	Rhipiptères		
+entry	Rhizoctone [J. De Seynes]	0	
 orth	Rhizoctone		
 pb	399	0403	4583353
+entry	Rhizoctone [J. De Seynes] (bibliographie)	0	
+orth	Rhizoctone		
 entry	Rhizoctonia	0	
 ref	Rhizoctone		
-entry	Rhizomes [G. Planchon]	1	
+entry	Rhizomes [G. Planchon]	0	
 orth	Rhizomes		
 pb	400	0404	4583354
+entry	Rhizomes [G. Planchon] (bibliographie)	0	
+orth	Rhizomes		
 entry	Rhizomorpha	0	
 ref	Rhizomorphe		
 entry	Rhizomorphe [J. de Seynes]	0	
 orth	Rhizomorphe		
-entry	Rhizophora [G. Planchon]	1	
+entry	Rhizophora [G. Planchon]	0	
 orth	Rhizophora		
 pb	401	0405	4583355
+entry	Rhizophora [G. Planchon] (bibliographie)	0	
+orth	Rhizophora		
 entry	Rhizopodes [Paul Gervais]	1	
 orth	Rhizopodes		
 pb	402	0406	4583356
@@ -609,13 +681,15 @@ entry	Rhodéorétinique (Acide)	0
 ref	Convolvulique (Acide)		
 entry	Rhodéorétinol	0	
 ref	Convolvulinolique (Acide)		
-entry	Rhodes ou Rhodius (Johann) [E. Beaugrand]	1	
+entry	Rhodes ou Rhodius (Johann) [E. Beaugrand]	0	
 orth	Rhodes ou Rhodius (Johann)		
 pb	403	0407	4583357
+entry	Rhodes ou Rhodius (Johann) [E. Beaugrand] (bibliographie)	0	
+orth	Rhodes ou Rhodius (Johann)		
 entry	Rhodes (Jean de) [A. Dureau]	0	
 orth	Rhodes (Jean de)		
 entry	Rhodes	0	
-entry	Rhodes. Géographie médicale [G. Liétard]	6	
+entry	Rhodes. Géographie médicale [G. Liétard]	5	
 orth	Rhodes. Géographie médicale		
 pb	404	0408	4583358
 pb	405	0409	4583359
@@ -623,6 +697,8 @@ pb	406	0410	4583360
 pb	407	0411	4583361
 pb	408	0412	4583362
 pb	409	0413	4583363
+entry	Rhodes. Géographie médicale [G. Liétard] (bibliographie)	0	
+orth	Rhodes. Géographie médicale		
 entry	Rhodes (Bois de)	0	
 ref	Bois		
 entry	Rhodiola	0	
@@ -642,16 +718,20 @@ entry	Rhododaphne	0
 ref	Laurier Rose		
 entry	Rhododendrées	0	
 ref	Ericacées		
-entry	Rhododendron [G. Planchon]	1	
+entry	Rhododendron [G. Planchon]	0	
 orth	Rhododendron		
 pb	413	0417	4583367
+entry	Rhododendron [G. Planchon] (bibliographie)	0	
+orth	Rhododendron		
 entry	Rhodospermées	0	
 ref	Algues		
 entry	Rhodotannique (Acide) [Amédée Dechambre]	0	
 orth	Rhodotannique (Acide)		
-entry	Rhodyménie [J. De Seynes]	1	
+entry	Rhodyménie [J. De Seynes]	0	
 orth	Rhodyménie		
 pb	414	0418	4583368
+entry	Rhodyménie [J. De Seynes] (bibliographie)	0	
+orth	Rhodyménie		
 entry	Rhodyméniées ou Rhodyméniacées [J. De Seynes]	0	
 orth	Rhodyméniées ou Rhodyméniacées		
 entry	Rhoeadine [Amédée Dechambre]	0	
@@ -671,7 +751,7 @@ entry	Rhubarbarique (Acide)	0
 ref	Rhéique		
 ref	Chrysophanique (Acide)		
 entry	Rhubarbe	0	
-entry	Rhubarbe. Botanique [H. Baillon]	20	
+entry	Rhubarbe. Botanique [H. Baillon]	19	
 orth	Rhubarbe. Botanique		
 pb	417	0421	4583371
 pb	418	0422	4583372
@@ -693,6 +773,8 @@ pb	433	0437	4583387
 pb	434	0438	4583388
 pb	435	0439	4583389
 pb	436	0440	4583390
+entry	Rhubarbe. Botanique [H. Baillon] (bibliographie)	0	
+orth	Rhubarbe. Botanique		
 entry	Rhubarbe. Pharmacologie [T. Gobley]	6	
 orth	Rhubarbe. Pharmacologie		
 pb	437	0441	4583391
@@ -701,7 +783,7 @@ pb	439	0443	4583393
 pb	440	0444	4583394
 pb	441	0445	4583395
 pb	442	0446	4583396
-entry	Rhubarbe. Emploi médical [A. Bordier]	1	
+entry	Rhubarbe. Emploi médical [A. Bordier] (bibliographie)	1	
 orth	Rhubarbe. Emploi médical		
 pb	443	0447	4583397
 entry	Rhubarbe des Alpes	0	
@@ -714,7 +796,7 @@ entry	Rhum. Emploi médical [J. Delioux de Savignac]	1
 orth	Rhum. Emploi médical		
 pb	445	0449	4583399
 pb	446	0450	4583400
-entry	Rhumatisme [Ernest Besnier]	373	
+entry	Rhumatisme [Ernest Besnier]	363	
 orth	Rhumatisme		
 pb	447	0451	4583401
 pb	448	0452	4583402
@@ -1080,6 +1162,8 @@ pb	807	0811	4583761
 pb	808	0812	4583762
 pb	809	0813	4583763
 pb	810	0814	4583764
+entry	Rhumatisme [Ernest Besnier] (bibliographie)	9	
+orth	Rhumatisme		
 pb	811	0815	4583765
 pb	812	0816	4583766
 pb	813	0817	4583767

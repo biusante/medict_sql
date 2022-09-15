@@ -10,7 +10,7 @@ entry	Ovaire (Suite). Pathologie. Tumeurs de l'ovaire [A. Ferrand]	2
 orth	Ovaire (Suite). Pathologie. Tumeurs de l'ovaire		
 pb	2	0006	4573250
 pb	3	0007	4573251
-entry	Ovaire. Pathologie. Tumeurs de l'ovaire. Tumeurs solides de l'ovaire [A. Ferrand]	37	
+entry	Ovaire. Pathologie. Tumeurs de l'ovaire. Tumeurs solides de l'ovaire [A. Ferrand]	32	
 orth	Ovaire. Pathologie. Tumeurs de l'ovaire. Tumeurs solides de l'ovaire		
 pb	4	0008	4573252
 pb	5	0009	4573253
@@ -45,11 +45,13 @@ pb	33	0037	4573281
 pb	34	0038	4573282
 pb	35	0039	4573283
 pb	36	0040	4573284
+entry	Ovaire. Pathologie. Tumeurs de l'ovaire. Tumeurs solides de l'ovaire [A. Ferrand] (bibliographie)	4	
+orth	Ovaire. Pathologie. Tumeurs de l'ovaire. Tumeurs solides de l'ovaire		
 pb	37	0041	4573285
 pb	38	0042	4573286
 pb	39	0043	4573287
 pb	40	0044	4573288
-entry	Ovaire. Tumeurs de l'ovaire. Tumeurs liquides. Kystes de l'ovaire [Boinet, A. Ferrand]	229	
+entry	Ovaire. Tumeurs de l'ovaire. Tumeurs liquides. Kystes de l'ovaire [Boinet, A. Ferrand]	219	
 orth	Ovaire. Tumeurs de l'ovaire. Tumeurs liquides. Kystes de l'ovaire		
 pb	41	0045	4573289
 pb	42	0046	4573290
@@ -271,6 +273,8 @@ pb	257	0261	4573505
 pb	258	0262	4573506
 pb	259	0263	4573507
 pb	260	0264	4573508
+entry	Ovaire. Tumeurs de l'ovaire. Tumeurs liquides. Kystes de l'ovaire [Boinet, A. Ferrand] (bibliographie)	9	
+orth	Ovaire. Tumeurs de l'ovaire. Tumeurs liquides. Kystes de l'ovaire		
 pb	261	0265	4573509
 pb	262	0266	4573510
 pb	263	0267	4573511
@@ -286,7 +290,7 @@ entry	Ovale [Amédée Dechambre]	0
 orth	Ovale		
 entry	Ovaria [G. Planchon]	0	
 orth	Ovaria		
-entry	Ovariotomie [Boinet]	109	
+entry	Ovariotomie [Boinet]	98	
 orth	Ovariotomie		
 pb	270	0274	4573518
 pb	271	0275	4573519
@@ -387,6 +391,8 @@ pb	365	0369	4573613
 pb	366	0370	4573614
 pb	367	0371	4573615
 pb	368	0372	4573616
+entry	Ovariotomie [Boinet] (bibliographie)	10	
+orth	Ovariotomie		
 pb	369	0373	4573617
 pb	370	0374	4573618
 pb	371	0375	4573619
@@ -399,9 +405,11 @@ pb	377	0381	4573625
 pb	378	0382	4573626
 entry	Ovarite	0	
 ref	Ovaire		
-entry	Overdatz (Louis) [L. Hahn]	1	
+entry	Overdatz (Louis) [L. Hahn]	0	
 orth	Overdatz (Louis)		
 pb	379	0383	4573627
+entry	Overdatz (Louis) [L. Hahn] (bibliographie)	0	
+orth	Overdatz (Louis)		
 entry	Oviedo (Caldas de) (Eau minérale d')	0	
 ref	Caldas de Oviedo		
 entry	Oviedo (Gonçalo Hernandez de Oviedo y Valdès) [A. Chéreau]	0	
@@ -417,7 +425,7 @@ ref	Ovaire
 entry	Ovule [Ed. Lefèvre]	1	
 orth	Ovule		
 pb	380	0384	4573628
-entry	Owen (George) [L. Hahn]	0	
+entry	Owen (George) [L. Hahn] (bibliographie)	0	
 orth	Owen (George)		
 entry	Ox ou Oxy [L. Hahn]	0	
 orth	Ox ou Oxy		
@@ -507,10 +515,12 @@ orth	Oxalique (Acide). Médecine légale
 pb	428	0432	4573676
 pb	429	0433	4573677
 pb	430	0434	4573678
-entry	Oxalique (Acide). Emploi médical [L. Hahn]	6	
+entry	Oxalique (Acide). Emploi médical [L. Hahn]	1	
 orth	Oxalique (Acide). Emploi médical		
 pb	431	0435	4573679
 pb	432	0436	4573680
+entry	Oxalique (Acide). Emploi médical [L. Hahn] (bibliographie)	4	
+orth	Oxalique (Acide). Emploi médical		
 pb	433	0437	4573681
 pb	434	0438	4573682
 pb	435	0439	4573683
@@ -518,10 +528,12 @@ pb	436	0440	4573684
 entry	Oxalique (Éther)	0	
 ref	Éther		
 entry	Oxalis (L.)	0	
-entry	Oxalis (L.). Botanique [H. Baillon]	2	
+entry	Oxalis (L.). Botanique [H. Baillon]	1	
 orth	Oxalis (L.). Botanique		
 pb	437	0441	4573685
 pb	438	0442	4573686
+entry	Oxalis (L.). Botanique [H. Baillon] (bibliographie)	0	
+orth	Oxalis (L.). Botanique		
 entry	Oxalis (L.). Emploi thérapeutique [Bazile Féris]	1	
 orth	Oxalis (L.). Emploi thérapeutique		
 pb	439	0443	4573687
@@ -529,7 +541,7 @@ entry	Oxalium [Amédée Dechambre]	0
 orth	Oxalium		
 entry	Oxalovinique (Acide) [L. Hahn]	0	
 orth	Oxalovinique (Acide)		
-entry	Oxalurie [L. Hahn]	6	
+entry	Oxalurie [L. Hahn]	5	
 orth	Oxalurie		
 pb	440	0444	4573688
 pb	441	0445	4573689
@@ -537,6 +549,8 @@ pb	442	0446	4573690
 pb	443	0447	4573691
 pb	444	0448	4573692
 pb	445	0449	4573693
+entry	Oxalurie [L. Hahn] (bibliographie)	0	
+orth	Oxalurie		
 entry	Oxalurique (Acide) [L. Hahn]	1	
 orth	Oxalurique (Acide)		
 pb	446	0450	4573694
@@ -699,9 +713,11 @@ entry	Oxycinchonine [L. Hahn]	0
 orth	Oxycinchonine		
 entry	Oxycitraconique (Acide) [L. Hahn]	0	
 orth	Oxycitraconique (Acide)		
-entry	Oxycoccos [Ed. Lefèvre]	1	
+entry	Oxycoccos [Ed. Lefèvre]	0	
 orth	Oxycoccos		
 pb	472	0476	4573720
+entry	Oxycoccos [Ed. Lefèvre] (bibliographie)	0	
+orth	Oxycoccos		
 entry	Oxycopahivique (Acide) [L. Hahn]	0	
 orth	Oxycopahivique (Acide)		
 entry	Oxycrat [L. Hahn]	0	
@@ -782,10 +798,12 @@ pb	518	0522	4573766
 pb	519	0523	4573767
 pb	520	0524	4573768
 pb	521	0525	4573769
-entry	Oxygène. Applications chirurgicales [Ernest Labbée]	4	
+entry	Oxygène. Applications chirurgicales [Ernest Labbée]	1	
 orth	Oxygène. Applications chirurgicales		
 pb	522	0526	4573770
 pb	523	0527	4573771
+entry	Oxygène. Applications chirurgicales [Ernest Labbée] (bibliographie)	2	
+orth	Oxygène. Applications chirurgicales		
 pb	524	0528	4573772
 pb	525	0529	4573773
 entry	Oxyglutarique (Acide) [L. Hahn]	0	
@@ -894,7 +912,7 @@ entry	Oxyrubian [L. Hahn]	0
 orth	Oxyrubian		
 entry	Oxysalicylique (Acide) [L. Hahn]	0	
 orth	Oxysalicylique (Acide)		
-entry	Oxystelma [Ed. Lefèvre]	1	
+entry	Oxystelma [Ed. Lefèvre] (bibliographie)	1	
 orth	Oxystelma		
 pb	539	0543	4573787
 entry	Oxystrychnine [L. Hahn]	0	
@@ -930,7 +948,7 @@ orth	Oxytoluiques ou Oxytoluyliques (Acides)
 entry	Oxytrialdine [L. Hahn]	0	
 orth	Oxytrialdine		
 pb	542	0546	4573790
-entry	Oxytrichiens [F. Henneguy]	0	
+entry	Oxytrichiens [F. Henneguy] (bibliographie)	0	
 orth	Oxytrichiens		
 entry	Oxyure [L. Hahn, Ed. Lefèvre]	6	
 orth	Oxyure		
@@ -946,14 +964,16 @@ entry	Oxyvalériques (Acides) [L. Hahn]	0
 orth	Oxyvalériques (Acides)		
 entry	Oxyzyméprotéine [L. Hahn]	0	
 orth	Oxyzyméprotéine		
-entry	Ozanam (Jean-Antoine) [A. Chéreau]	1	
+entry	Ozanam (Jean-Antoine) [A. Chéreau]	0	
 orth	Ozanam (Jean-Antoine)		
 pb	549	0553	4573797
+entry	Ozanam (Jean-Antoine) [A. Chéreau] (bibliographie)	0	
+orth	Ozanam (Jean-Antoine)		
 entry	Ozanne (Christophe) [A. Chéreau]	2	
 orth	Ozanne (Christophe)		
 pb	550	0554	4573798
 pb	551	0555	4573799
-entry	Ozène [B. Brochin]	27	
+entry	Ozène [B. Brochin]	25	
 orth	Ozène		
 pb	552	0556	4573800
 pb	553	0557	4573801
@@ -981,6 +1001,8 @@ pb	574	0578	4573822
 pb	575	0579	4573823
 pb	576	0580	4573824
 pb	577	0581	4573825
+entry	Ozène [B. Brochin] (bibliographie)	1	
+orth	Ozène		
 pb	578	0582	4573826
 entry	Ozeretskowski	0	
 ref	Oseretskowski		
@@ -1011,7 +1033,7 @@ pb	595	0599	4573843
 pb	596	0600	4573844
 pb	597	0601	4573845
 pb	598	0602	4573846
-entry	Ozone. Hygiène et pathologie [L. Hahn]	13	
+entry	Ozone. Hygiène et pathologie [L. Hahn]	10	
 orth	Ozone. Hygiène et pathologie		
 pb	599	0603	4573847
 pb	600	0604	4573848
@@ -1024,6 +1046,8 @@ pb	606	0610	4573854
 pb	607	0611	4573855
 pb	608	0612	4573856
 pb	609	0613	4573857
+entry	Ozone. Hygiène et pathologie [L. Hahn] (bibliographie)	2	
+orth	Ozone. Hygiène et pathologie		
 pb	610	0614	4573858
 pb	611	0615	4573859
 entry	Ozonométrie [C. Lutz]	1	
@@ -1064,7 +1088,7 @@ entry	Paaw (Pieter) [L. Hahn]	0
 orth	Paaw (Pieter)		
 pb	[s. pag.]	0622	4573866
 pb	619	0623	4573867
-entry	Paca [E. Oustalet]	0	
+entry	Paca [E. Oustalet] (bibliographie)	0	
 orth	Paca		
 entry	Pacab [G. Planchon]	0	
 orth	Pacab		
@@ -1079,7 +1103,7 @@ entry	Pacanier [G. Planchon]	0
 orth	Pacanier		
 entry	Pacao-bendo [G. Planchon]	0	
 orth	Pacao-bendo		
-entry	Pacchioni (Antoine) [A. Chéreau]	0	
+entry	Pacchioni (Antoine) [A. Chéreau] (bibliographie)	0	
 orth	Pacchioni (Antoine)		
 entry	Pacchioni (Glandes de) [Amédée Dechambre]	2	
 orth	Pacchioni (Glandes de)		
@@ -1087,20 +1111,24 @@ pb	621	0625	4573869
 pb	622	0626	4573870
 entry	Pacfong [Amédée Dechambre]	0	
 orth	Pacfong		
-entry	Pachira (Aubl.) [H. Baillon]	1	
+entry	Pachira (Aubl.) [H. Baillon]	0	
 orth	Pachira (Aubl.)		
 pb	623	0627	4573871
+entry	Pachira (Aubl.) [H. Baillon] (bibliographie)	0	
+orth	Pachira (Aubl.)		
 entry	Pachycéphale [Amédée Dechambre]	0	
 orth	Pachycéphale		
 entry	Pachydermatocèle [Amédée Dechambre]	0	
 orth	Pachydermatocèle		
-entry	Pachydermes [E. Oustalet]	4	
+entry	Pachydermes [E. Oustalet]	2	
 orth	Pachydermes		
 pb	624	0628	4573872
 pb	625	0629	4573873
 pb	626	0630	4573874
+entry	Pachydermes [E. Oustalet] (bibliographie)	1	
+orth	Pachydermes		
 pb	627	0631	4573875
-entry	Pachydermique (Cachexie) [Bazile Féris]	16	
+entry	Pachydermique (Cachexie) [Bazile Féris]	14	
 orth	Pachydermique (Cachexie)		
 pb	628	0632	4573876
 pb	629	0633	4573877
@@ -1117,6 +1145,8 @@ pb	639	0643	4573887
 pb	640	0644	4573888
 pb	641	0645	4573889
 pb	642	0646	4573890
+entry	Pachydermique (Cachexie) [Bazile Féris] (bibliographie)	1	
+orth	Pachydermique (Cachexie)		
 pb	643	0647	4573891
 entry	Pachyma cocos [G. Planchon]	0	
 orth	Pachyma cocos		
@@ -1127,7 +1157,7 @@ orth	Pachyphylle
 entry	Pachyrise [G. Planchon]	0	
 orth	Pachyrise		
 pb	644	0648	4573892
-entry	Pacini (Les deux) [L. Hahn]	1	
+entry	Pacini (Les deux) [L. Hahn] (bibliographie)	1	
 orth	Pacini (Les deux)		
 pb	645	0649	4573893
 entry	Paciniva [G. Planchon]	0	
@@ -1145,7 +1175,7 @@ orth	Pacona
 pb	646	0650	4573894
 entry	Paco Pacoba, Pacobuque, Pacquonere [G. Planchon]	0	
 orth	Paco Pacoba, Pacobuque, Pacquonere		
-entry	Pacoud (Denis-François) [A. Dureau]	0	
+entry	Pacoud (Denis-François) [A. Dureau] (bibliographie)	0	
 orth	Pacoud (Denis-François)		
 entry	Pacouri-Rana [G. Planchon]	0	
 orth	Pacouri-Rana		
@@ -1153,9 +1183,11 @@ entry	Pacouria [G. Planchon]	0
 orth	Pacouria		
 entry	Pacourii [G. Planchon]	0	
 orth	Pacourii		
-entry	Pacournia [G. Planchon]	1	
+entry	Pacournia [G. Planchon]	0	
 orth	Pacournia		
 pb	647	0651	4573895
+entry	Pacournia [G. Planchon] (bibliographie)	0	
+orth	Pacournia		
 entry	Pacova [G. Planchon]	0	
 orth	Pacova		
 entry	Pacurero [G. Planchon]	0	
@@ -1181,9 +1213,11 @@ entry	Padus [G. Planchon]	0
 orth	Padus		
 entry	Pae de Aloès [G. Planchon]	0	
 orth	Pae de Aloès		
-entry	Paederia (L.) [H. Baillon]	1	
+entry	Paederia (L.) [H. Baillon]	0	
 orth	Paederia (L.)		
 pb	649	0653	4573897
+entry	Paederia (L.) [H. Baillon] (bibliographie)	0	
+orth	Paederia (L.)		
 entry	Paediomètre [Amédée Dechambre]	0	
 orth	Paediomètre		
 entry	Paenoe, Paenu [G. Planchon]	0	
@@ -1195,20 +1229,24 @@ orth	Paganica (Nicolo Di)
 entry	Paganini (Pietro) [A. Dureau]	0	
 orth	Paganini (Pietro)		
 pb	650	0654	4573898
-entry	Pagel [H.-E. Sauvage]	0	
+entry	Pagel [H.-E. Sauvage] (bibliographie)	0	
 orth	Pagel		
-entry	Pagenstecher (Alexander) [L. Hahn]	1	
+entry	Pagenstecher (Alexander) [L. Hahn]	0	
 orth	Pagenstecher (Alexander)		
 pb	651	0655	4573899
+entry	Pagenstecher (Alexander) [L. Hahn] (bibliographie)	0	
+orth	Pagenstecher (Alexander)		
 entry	Pagès (Les) [A. Dureau]	0	
 orth	Pagès (Les)		
 entry	Pagimirioba, Paiomirioba [G. Planchon]	0	
 orth	Pagimirioba, Paiomirioba		
 entry	Pagoneton [G. Planchon]	0	
 orth	Pagoneton		
-entry	Pagre [H.-E. Sauvage]	1	
+entry	Pagre [H.-E. Sauvage]	0	
 orth	Pagre		
 pb	652	0656	4573900
+entry	Pagre [H.-E. Sauvage] (bibliographie)	0	
+orth	Pagre		
 entry	Paguridés [Ed. Lefèvre]	1	
 orth	Paguridés		
 pb	653	0657	4573901
@@ -1225,7 +1263,7 @@ orth	Paica
 pb	654	0658	4573902
 entry	Paigué [G. Planchon]	0	
 orth	Paigué		
-entry	Paillard (Alexandre-Louis-Michel) [A. Dureau]	2	
+entry	Paillard (Alexandre-Louis-Michel) [A. Dureau] (bibliographie)	2	
 orth	Paillard (Alexandre-Louis-Michel)		
 pb	655	0659	4573903
 pb	656	0660	4573904
@@ -1236,9 +1274,11 @@ pb	657	0661	4573905
 pb	658	0662	4573906
 entry	Bromatologie [Amédée Dechambre]	0	
 orth	Bromatologie		
-entry	Paimpol (Eau minérale et station marine de) [A. Rotureau]	1	
+entry	Paimpol (Eau minérale et station marine de) [A. Rotureau]	0	
 orth	Paimpol (Eau minérale et station marine de)		
 pb	659	0663	4573907
+entry	Paimpol (Eau minérale et station marine de) [A. Rotureau] (bibliographie)	0	
+orth	Paimpol (Eau minérale et station marine de)		
 entry	Pain	0	
 entry	Pain. Bromatologie [P. Coulier]	20	
 orth	Pain. Bromatologie		
@@ -1279,7 +1319,7 @@ entry	Pain de grenouille [G. Planchon]	0
 orth	Pain de grenouille		
 entry	Pain de hanneton [G. Planchon]	0	
 orth	Pain de hanneton		
-entry	Pain de Hottentot [G. Planchon]	0	
+entry	Pain de Hottentot [G. Planchon] (bibliographie)	0	
 orth	Pain de Hottentot		
 pb	681	0685	4573929
 entry	Pain de la Nouvelle-Zélande [G. Planchon]	0	
@@ -1309,15 +1349,17 @@ orth	Pair (Saint-)
 entry	Paires nerveuses [Amédée Dechambre]	1	
 orth	Paires nerveuses		
 pb	683	0687	4573931
-entry	Paitoni (Giovanni-Maria) [L. Hahn]	0	
+entry	Paitoni (Giovanni-Maria) [L. Hahn] (bibliographie)	0	
 orth	Paitoni (Giovanni-Maria)		
 entry	Paiva (Don Manoel-Joaquim-Henriquez de) [L. Hahn]	0	
 orth	Paiva (Don Manoel-Joaquim-Henriquez de)		
 entry	Pajot de la Forest (Pierre) [A. Chéreau]	0	
 orth	Pajot de la Forest (Pierre)		
-entry	Paku-Kidang [G. Planchon]	1	
+entry	Paku-Kidang [G. Planchon]	0	
 orth	Paku-Kidang		
 pb	684	0688	4573932
+entry	Paku-Kidang [G. Planchon] (bibliographie)	0	
+orth	Paku-Kidang		
 entry	Pal-Modecca [G. Planchon]	0	
 orth	Pal-Modecca		
 entry	Pala [G. Planchon]	0	
@@ -1342,7 +1384,7 @@ pb	688	0692	4573936
 pb	689	0693	4573937
 pb	690	0694	4573938
 pb	691	0695	4573939
-entry	Palais (Voute et voile du). Pathologie [E. Gayraud]	56	
+entry	Palais (Voute et voile du). Pathologie [E. Gayraud]	52	
 orth	Palais (Voute et voile du). Pathologie		
 pb	692	0696	4573940
 pb	693	0697	4573941
@@ -1397,6 +1439,8 @@ pb	741	0745	4573989
 pb	742	0746	4573990
 pb	743	0747	4573991
 pb	744	0748	4573992
+entry	Palais (Voute et voile du). Pathologie [E. Gayraud] (bibliographie)	3	
+orth	Palais (Voute et voile du). Pathologie		
 pb	745	0749	4573993
 pb	746	0750	4573994
 pb	747	0751	4573995
@@ -1419,7 +1463,7 @@ entry	Palampissa [Amédée Dechambre]	0
 orth	Palampissa		
 entry	Palan [G. Planchon]	0	
 orth	Palan		
-entry	Palander (Lars-Adolph) [A. Dureau]	0	
+entry	Palander (Lars-Adolph) [A. Dureau] (bibliographie)	0	
 orth	Palander (Lars-Adolph)		
 entry	Palasa [G. Planchon]	0	
 orth	Palasa		
@@ -1444,7 +1488,7 @@ pb	760	0764	4574008
 entry	Palato-staphylin (Muscle) [J. Aubry]	1	
 orth	Palato-staphylin (Muscle)		
 pb	761	0765	4574009
-entry	Palau y Verdera (Antonio) [L. Hahn]	0	
+entry	Palau y Verdera (Antonio) [L. Hahn] (bibliographie)	0	
 orth	Palau y Verdera (Antonio)		
 entry	Palay [G. Planchon]	0	
 orth	Palay		

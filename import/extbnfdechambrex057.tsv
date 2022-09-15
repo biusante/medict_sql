@@ -5,7 +5,7 @@ pb	[s. pag.]	0003	4542669
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4542670
 pb	1	0005	4542671
-entry	Maret (Hugues) [H. Montanier]	1	
+entry	Maret (Hugues) [H. Montanier] (bibliographie)	1	
 orth	Maret (Hugues)		
 pb	2	0006	4542672
 entry	Margaramide [Malaguti]	0	
@@ -25,12 +25,14 @@ ref	Tumeurs
 entry	Margarone [Malaguti]	1	
 orth	Margarone		
 pb	5	0009	4542675
-entry	Marggraf (Les) [A. Chéreau]	1	
+entry	Marggraf (Les) [A. Chéreau] (bibliographie)	0	
 orth	Marggraf (Les)		
 pb	6	0010	4542676
+entry	Marggraf (Les) [A. Chéreau]	0	
+orth	Marggraf (Les)		
 entry	Marguerite [H. Baillon]	0	
 orth	Marguerite		
-entry	Margyricarpe [H. Baillon]	0	
+entry	Margyricarpe [H. Baillon] (bibliographie)	0	
 orth	Margyricarpe		
 entry	Marherr (Philipp-Ambrosius) [E. Beaugrand]	1	
 orth	Marherr (Philipp-Ambrosius)		
@@ -84,7 +86,7 @@ pb	49	0053	4542719
 pb	50	0054	4542720
 pb	51	0055	4542721
 pb	52	0056	4542722
-entry	Mariage. Hygiène matrimoniale [Jacques Bertillon]	31	
+entry	Mariage. Hygiène matrimoniale [Jacques Bertillon]	30	
 orth	Mariage. Hygiène matrimoniale		
 pb	53	0057	4542723
 pb	54	0058	4542724
@@ -117,7 +119,9 @@ pb	80	0084	4542750
 pb	81	0085	4542751
 pb	82	0086	4542752
 pb	83	0087	4542753
-entry	Mariage. Médecine légale [G. Tourdes]	21	
+entry	Mariage. Hygiène matrimoniale [Jacques Bertillon] (bibliographie)	0	
+orth	Mariage. Hygiène matrimoniale		
+entry	Mariage. Médecine légale [G. Tourdes]	20	
 orth	Mariage. Médecine légale		
 pb	84	0088	4542754
 pb	85	0089	4542755
@@ -140,22 +144,26 @@ pb	101	0105	4542771
 pb	102	0106	4542772
 pb	103	0107	4542773
 pb	104	0108	4542774
+entry	Mariage. Médecine légale [G. Tourdes] (bibliographie)	0	
+orth	Mariage. Médecine légale		
 entry	Mariannes	0	
 ref	Polynésie		
 entry	Mariano Santo [E. Beaugrand]	0	
 orth	Mariano Santo		
 pb	105	0109	4542775
-entry	Mariano-Santo [E. Beaugrand]	0	
+entry	Mariano-Santo [E. Beaugrand] (bibliographie)	0	
 orth	Mariano-Santo		
 entry	Mariano (Andrea) [E. Beaugrand]	0	
 orth	Mariano (Andrea)		
-entry	Marie (Sainte-) (Eaux minérales de) (Cantal) [A. Rotureau]	1	
+entry	Marie (Sainte-) (Eaux minérales de) (Cantal) [A. Rotureau]	0	
 orth	Marie (Sainte-) (Eaux minérales de) (Cantal)		
 pb	106	0110	4542776
+entry	Marie (Sainte-) (Eaux minérales de) (Cantal) [A. Rotureau] (bibliographie)	0	
+orth	Marie (Sainte-) (Eaux minérales de) (Cantal)		
 pb	107	0111	4542777
 entry	Marie (Sainte-) (Eaux minérales de) (Hautes-Pyrénées) [A. Rotureau]	0	
 orth	Marie (Sainte-) (Eaux minérales de) (Hautes-Pyrénées)		
-entry	Marienbad (Eaux minérales et boues de) [A. Rotureau]	12	
+entry	Marienbad (Eaux minérales et boues de) [A. Rotureau]	10	
 orth	Marienbad (Eaux minérales et boues de)		
 pb	108	0112	4542778
 pb	109	0113	4542779
@@ -168,6 +176,8 @@ pb	115	0119	4542785
 pb	116	0120	4542786
 pb	117	0121	4542787
 pb	118	0122	4542788
+entry	Marienbad (Eaux minérales et boues de) [A. Rotureau] (bibliographie)	1	
+orth	Marienbad (Eaux minérales et boues de)		
 pb	119	0123	4542789
 entry	Marienberg (Établissement hydrothérapique de) [A. Rotureau]	0	
 orth	Marienberg (Établissement hydrothérapique de)		
@@ -179,14 +189,16 @@ orth	Maringouins
 entry	Marisques [J. Rollet]	0	
 orth	Marisques		
 entry	Marjolaine	0	
-entry	Marjolaine. Botanique [G. Planchon]	1	
+entry	Marjolaine. Botanique [G. Planchon] (bibliographie)	1	
 orth	Marjolaine. Botanique		
 pb	121	0125	4542791
 entry	Emploi médical [Fonssagrives]	0	
 orth	Emploi médical		
-entry	Marjolin (Jean-Nicolas) [H. Montanier]	1	
+entry	Marjolin (Jean-Nicolas) [H. Montanier]	0	
 orth	Marjolin (Jean-Nicolas)		
 pb	122	0126	4542792
+entry	Marjolin (Jean-Nicolas) [H. Montanier] (bibliographie)	0	
+orth	Marjolin (Jean-Nicolas)		
 entry	Marjorana	0	
 ref	Marjolaine		
 ref	Origan		
@@ -197,7 +209,7 @@ orth	Marmelades
 entry	Marmotte [P. Gervais]	1	
 orth	Marmotte		
 pb	123	0127	4542793
-entry	Maroc (Géographie médicale) [Laveran]	8	
+entry	Maroc (Géographie médicale) [Laveran]	7	
 orth	Maroc (Géographie médicale)		
 pb	124	0128	4542794
 pb	125	0129	4542795
@@ -207,39 +219,47 @@ pb	128	0132	4542798
 pb	129	0133	4542799
 pb	130	0134	4542800
 pb	131	0135	4542801
+entry	Maroc (Géographie médicale) [Laveran] (bibliographie)	0	
+orth	Maroc (Géographie médicale)		
 entry	Maroute [H. Baillon]	1	
 orth	Maroute		
 pb	132	0136	4542802
-entry	Marque (Jacques de) [A. Chéreau]	0	
+entry	Marque (Jacques de) [A. Chéreau] (bibliographie)	0	
 orth	Marque (Jacques de)		
-entry	Marquet (François-Nicolas) [E. Beaugrand]	1	
+entry	Marquet (François-Nicolas) [E. Beaugrand]	0	
 orth	Marquet (François-Nicolas)		
 pb	133	0137	4542803
+entry	Marquet (François-Nicolas) [E. Beaugrand] (bibliographie)	0	
+orth	Marquet (François-Nicolas)		
 entry	Marquis (Alexandre-Louis) [A. Chéreau]	0	
 orth	Marquis (Alexandre-Louis)		
-entry	Marquises (Archipel des) [A. Le Roy de Méricourt]	3	
+entry	Marquises (Archipel des) [A. Le Roy de Méricourt]	2	
 orth	Marquises (Archipel des)		
 pb	134	0138	4542804
 pb	135	0139	4542805
 pb	136	0140	4542806
+entry	Marquises (Archipel des) [A. Le Roy de Méricourt] (bibliographie)	0	
+orth	Marquises (Archipel des)		
 entry	Marron	0	
 ref	Châtaignier		
 entry	Marronier	0	
 ref	Châtaignier		
 entry	Marronnier d'Inde	0	
-entry	Marronnier d'Inde. Botanique [G. Planchon]	1	
+entry	Marronnier d'Inde. Botanique [G. Planchon] (bibliographie)	1	
 orth	Marronnier d'Inde. Botanique		
 pb	137	0141	4542807
 entry	Marronnier d'Inde. Bromatologie [P. Coulier]	1	
 orth	Marronnier d'Inde. Bromatologie		
 pb	138	0142	4542808
-entry	Marronnier d'Inde. Emploi médical [J. Delioux de Savignac]	6	
+entry	Marronnier d'Inde. Emploi médical [J. Delioux de Savignac]	4	
 orth	Marronnier d'Inde. Emploi médical		
 pb	139	0143	4542809
 pb	140	0144	4542810
 pb	141	0145	4542811
 pb	142	0146	4542812
 pb	143	0147	4542813
+entry	Marronnier d'Inde. Emploi médical [J. Delioux de Savignac] (bibliographie)	1	
+orth	Marronnier d'Inde. Emploi médical		
 pb	144	0148	4542814
 entry	Marrube	0	
 entry	Botanique [G. Planchon]	0	
@@ -251,7 +271,7 @@ pb	146	0150	4542816
 entry	Marseille (Station marine, établissements hydrothérapique et orthopédique de) [A. Rotureau]	1	
 orth	Marseille (Station marine, établissements hydrothérapique et orthopédique de)		
 pb	147	0151	4542817
-entry	Marsh (Sir Henry) [E. Beaugrand]	1	
+entry	Marsh (Sir Henry) [E. Beaugrand] (bibliographie)	1	
 orth	Marsh (Sir Henry)		
 pb	148	0152	4542818
 entry	Marsh (James) [E. Beaugrand]	0	
@@ -276,89 +296,119 @@ entry	Marteau (Os du)	0
 ref	Oreille		
 entry	Marteau de Mayor	0	
 ref	Mayor		
-entry	Marteau (Les) [A. Chéreau]	1	
+entry	Marteau (Les) [A. Chéreau] (bibliographie)	1	
 orth	Marteau (Les)		
 pb	153	0157	4542823
 entry	Martel (François) [A. Chéreau]	0	
 orth	Martel (François)		
-entry	Martens (François-Henri) [H. Montanier]	1	
+entry	Martens (François-Henri) [H. Montanier]	0	
 orth	Martens (François-Henri)		
 pb	154	0158	4542824
+entry	Martens (François-Henri) [H. Montanier] (bibliographie)	0	
+orth	Martens (François-Henri)		
 entry	Martial (Saint-) (Eaux minérales de) [A. Rotureau]	2	
 orth	Martial (Saint-) (Eaux minérales de)		
 pb	155	0159	4542825
 pb	156	0160	4542826
 entry	Martiano (Prosper) [E. Beaugrand]	0	
 orth	Martiano (Prosper)		
-entry	Martigné-Briant (Eaux minérales de) [A. Rotureau]	1	
+entry	Martigné-Briant (Eaux minérales de) [A. Rotureau]	0	
 orth	Martigné-Briant (Eaux minérales de)		
 pb	157	0161	4542827
+entry	Martigné-Briant (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Martigné-Briant (Eaux minérales de)		
 entry	Martigny-lès-Lamarche (Eau minérale de) [A. Rotureau]	1	
 orth	Martigny-lès-Lamarche (Eau minérale de)		
 pb	158	0162	4542828
-entry	Martin (Les) [A. Chéreau]	1	
+entry	Martin (Les) [A. Chéreau] (bibliographie)	1	
 orth	Martin (Les)		
 pb	159	0163	4542829
-entry	Martin (Les deux frères) [E. Beaugrand]	1	
+entry	Martin (Les deux frères) [E. Beaugrand]	0	
 orth	Martin (Les deux frères)		
 pb	160	0164	4542830
+entry	Martin (Les deux frères) [E. Beaugrand] (bibliographie)	0	
+orth	Martin (Les deux frères)		
 entry	Martin (Victor-Étienne-Alfred) [E. Beaugrand]	0	
 orth	Martin (Victor-Étienne-Alfred)		
-entry	Martin-Solon [H. Montanier]	1	
+entry	Martin-Solon [H. Montanier]	0	
 orth	Martin-Solon		
 pb	161	0165	4542831
-entry	Martin-Valmeroux (Saint-) (Eaux minérales de) [A. Rotureau]	1	
+entry	Martin-Solon [H. Montanier] (bibliographie)	0	
+orth	Martin-Solon		
+entry	Martin-Valmeroux (Saint-) (Eaux minérales de) [A. Rotureau]	0	
 orth	Martin-Valmeroux (Saint-) (Eaux minérales de)		
 pb	162	0166	4542832
+entry	Martin-Valmeroux (Saint-) (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Martin-Valmeroux (Saint-) (Eaux minérales de)		
 entry	Martine (Georges) [A. Chéreau]	0	
 orth	Martine (Georges)		
-entry	Martinez (Martin) [E. Beaugrand]	1	
+entry	Martinez (Martin) [E. Beaugrand]	0	
 orth	Martinez (Martin)		
 pb	163	0167	4542833
+entry	Martinez (Martin) [E. Beaugrand] (bibliographie)	0	
+orth	Martinez (Martin)		
 entry	Martinez (Jose-Quer) [E. Beaugrand]	0	
 orth	Martinez (Jose-Quer)		
 entry	Martinez de Leiva (Miguel) [E. Beaugrand]	0	
 orth	Martinez de Leiva (Miguel)		
-entry	Martini (Les) [A. Chéreau]	2	
+entry	Martini (Les) [A. Chéreau]	0	
 orth	Martini (Les)		
 pb	164	0168	4542834
+entry	Martini (Les) [A. Chéreau] (bibliographie)	1	
+orth	Martini (Les)		
 pb	165	0169	4542835
-entry	Martinière (Germain Pichaut de la) [A. Chéreau]	1	
+entry	Martinière (Germain Pichaut de la) [A. Chéreau]	0	
 orth	Martinière (Germain Pichaut de la)		
 pb	166	0170	4542836
-entry	Martres-de-Veyre (Les) (Eaux minérales de) [A. Rotureau]	2	
+entry	Martinière (Germain Pichaut de la) [A. Chéreau] (bibliographie)	0	
+orth	Martinière (Germain Pichaut de la)		
+entry	Martres-de-Veyre (Les) (Eaux minérales de) [A. Rotureau]	1	
 orth	Martres-de-Veyre (Les) (Eaux minérales de)		
 pb	167	0171	4542837
 pb	168	0172	4542838
+entry	Martres-de-Veyre (Les) (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Martres-de-Veyre (Les) (Eaux minérales de)		
 entry	Maruta	0	
 ref	Anthémis		
 ref	Maroute		
-entry	Marx (Joseph) [A. Chéreau]	1	
+entry	Marx (Joseph) [A. Chéreau]	0	
 orth	Marx (Joseph)		
 pb	169	0173	4542839
+entry	Marx (Joseph) [A. Chéreau] (bibliographie)	0	
+orth	Marx (Joseph)		
 entry	Marx [E. Beaugrand]	0	
 orth	Marx		
-entry	Marzari (Giovanni-Baptista) [E. Beaugrand]	1	
+entry	Marzari (Giovanni-Baptista) [E. Beaugrand]	0	
 orth	Marzari (Giovanni-Baptista)		
 pb	170	0174	4542840
-entry	Mascagni (Paul) [H. Montanier]	1	
+entry	Marzari (Giovanni-Baptista) [E. Beaugrand] (bibliographie)	0	
+orth	Marzari (Giovanni-Baptista)		
+entry	Mascagni (Paul) [H. Montanier]	0	
 orth	Mascagni (Paul)		
 pb	171	0175	4542841
+entry	Mascagni (Paul) [H. Montanier] (bibliographie)	0	
+orth	Mascagni (Paul)		
 entry	Maska (Eau minérale de) [A. Rotureau]	0	
 orth	Maska (Eau minérale de)		
-entry	Masius (Georges-Henri) [H. Montanier]	1	
+entry	Masius (Georges-Henri) [H. Montanier]	0	
 orth	Masius (Georges-Henri)		
 pb	172	0176	4542842
+entry	Masius (Georges-Henri) [H. Montanier] (bibliographie)	0	
+orth	Masius (Georges-Henri)		
 entry	Masque des femmes grosses [Amédée Dechambre]	0	
 orth	Masque des femmes grosses		
-entry	Massa (Nicolas) [A. Chéreau]	1	
+entry	Massa (Nicolas) [A. Chéreau]	0	
 orth	Massa (Nicolas)		
 pb	173	0177	4542843
+entry	Massa (Nicolas) [A. Chéreau] (bibliographie)	0	
+orth	Massa (Nicolas)		
 entry	Massage [Amédée Dechambre]	0	
 orth	Massage		
-entry	Massaria (Alexandre) [A. Chéreau]	1	
+entry	Massaria (Alexandre) [A. Chéreau]	0	
 orth	Massaria (Alexandre)		
 pb	174	0178	4542844
+entry	Massaria (Alexandre) [A. Chéreau] (bibliographie)	0	
+orth	Massaria (Alexandre)		
 entry	Masséter (Muscle) [Amédée Dechambre]	0	
 orth	Masséter (Muscle)		
 entry	Massétérin (Nerf)	0	
@@ -372,7 +422,7 @@ ref	Pied de Griffon
 entry	Masson (Antoine) [E. Beaugrand]	1	
 orth	Masson (Antoine)		
 pb	175	0179	4542845
-entry	Massoy (Écorce de) [H. Baillon]	0	
+entry	Massoy (Écorce de) [H. Baillon] (bibliographie)	0	
 orth	Massoy (Écorce de)		
 entry	Massuet (Pierre) [E. Beaugrand]	0	
 orth	Massuet (Pierre)		
@@ -391,11 +441,13 @@ pb	183	0187	4542853
 pb	184	0188	4542854
 pb	185	0189	4542855
 pb	186	0190	4542856
-entry	Masticatoires [J. Delioux de Savignac]	3	
+entry	Masticatoires [J. Delioux de Savignac]	2	
 orth	Masticatoires		
 pb	187	0191	4542857
 pb	188	0192	4542858
 pb	189	0193	4542859
+entry	Masticatoires [J. Delioux de Savignac] (bibliographie)	0	
+orth	Masticatoires		
 entry	Mastite	0	
 ref	Mamelles		
 pb	190	0194	4542860
@@ -408,17 +460,19 @@ entry	Mastoïdienne (Artère)	0
 ref	Occipitale (Artère)		
 entry	Masturbation	0	
 ref	Onanisme		
-entry	Masuyer (Marie-Gabriel) [E. Beaugrand]	1	
+entry	Masuyer (Marie-Gabriel) [E. Beaugrand] (bibliographie)	1	
 orth	Masuyer (Marie-Gabriel)		
 pb	191	0195	4542861
 entry	Matani (Antonio) [E. Beaugrand]	0	
 orth	Matani (Antonio)		
-entry	Maté [A. Le Roy de Méricourt]	4	
+entry	Maté [A. Le Roy de Méricourt]	3	
 orth	Maté		
 pb	192	0196	4542862
 pb	193	0197	4542863
 pb	194	0198	4542864
 pb	195	0199	4542865
+entry	Maté [A. Le Roy de Méricourt] (bibliographie)	0	
+orth	Maté		
 entry	Matelas	0	
 ref	Lit		
 entry	Matelassiers	0	
@@ -444,7 +498,7 @@ pb	209	0213	4542879
 entry	Maticine	0	
 ref	Matico		
 entry	Matico	0	
-entry	Matico. Botanique [H. Baillon]	1	
+entry	Matico. Botanique [H. Baillon] (bibliographie)	1	
 orth	Matico. Botanique		
 pb	210	0214	4542880
 pb	211	0215	4542881
@@ -454,7 +508,7 @@ orth	Matico. Emploi médical
 pb	212	0216	4542882
 entry	Matière médicale	0	
 ref	Pharmacologie		
-entry	Matité [Ernest Besnier]	15	
+entry	Matité [Ernest Besnier]	14	
 orth	Matité		
 pb	213	0217	4542883
 pb	214	0218	4542884
@@ -471,6 +525,8 @@ pb	224	0228	4542894
 pb	225	0229	4542895
 pb	226	0230	4542896
 pb	227	0231	4542897
+entry	Matité [Ernest Besnier] (bibliographie)	0	
+orth	Matité		
 entry	Matras [Amédée Dechambre]	0	
 orth	Matras		
 entry	Matricaire	0	
@@ -481,27 +537,35 @@ entry	Matricaire. Matière médicale [J. Delioux de Savignac]	2
 orth	Matricaire. Matière médicale		
 pb	229	0233	4542899
 pb	230	0234	4542900
-entry	Matteucci (Carlo) [E. Beaugrand]	0	
+entry	Matteucci (Carlo) [E. Beaugrand] (bibliographie)	0	
 orth	Matteucci (Carlo)		
-entry	Matthiae (Georges) [H. Montanier]	1	
+entry	Matthiae (Georges) [H. Montanier]	0	
 orth	Matthiae (Georges)		
 pb	231	0235	4542901
-entry	Mattioli (Pietro-Andrea), par corruption Matthiole [H. Montanier]	1	
+entry	Matthiae (Georges) [H. Montanier] (bibliographie)	0	
+orth	Matthiae (Georges)		
+entry	Mattioli (Pietro-Andrea), par corruption Matthiole [H. Montanier]	0	
 orth	Mattioli (Pietro-Andrea), par corruption Matthiole		
 pb	232	0236	4542902
+entry	Mattioli (Pietro-Andrea), par corruption Matthiole [H. Montanier] (bibliographie)	0	
+orth	Mattioli (Pietro-Andrea), par corruption Matthiole		
 entry	Maturatifs [Fonssagrives]	1	
 orth	Maturatifs		
 pb	233	0237	4542903
-entry	Mauchard (Burchard David) [A. Chéreau]	0	
+entry	Mauchard (Burchard David) [A. Chéreau] (bibliographie)	0	
 orth	Mauchard (Burchard David)		
-entry	Maunoir (Les) [E. Beaugrand]	2	
+entry	Maunoir (Les) [E. Beaugrand]	0	
 orth	Maunoir (Les)		
 pb	234	0238	4542904
+entry	Maunoir (Les) [E. Beaugrand] (bibliographie)	1	
+orth	Maunoir (Les)		
 pb	235	0239	4542905
-entry	Maurice (Saint-) (Eaux minérales de) [A. Rotureau]	2	
+entry	Maurice (Saint-) (Eaux minérales de) [A. Rotureau]	1	
 orth	Maurice (Saint-) (Eaux minérales de)		
 pb	236	0240	4542906
 pb	237	0241	4542907
+entry	Maurice (Saint-) (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Maurice (Saint-) (Eaux minérales de)		
 entry	Maurice (Ile) [Amédée Dechambre]	0	
 orth	Maurice (Ile)		
 entry	Mauriceau (François) [H. Montanier]	0	
@@ -509,24 +573,27 @@ orth	Mauriceau (François)
 entry	Mauricheau ou Moricheau (Les) [E. Beaugrand]	0	
 orth	Mauricheau ou Moricheau (Les)		
 pb	238	0242	4542908
-entry	Mauricheau ou Moricheau (Les)	1	
+entry	Mauricheau ou Moricheau (Les) (bibliographie)	1	
+orth	Mauricheau ou Moricheau (Les)		
 pb	239	0243	4542909
 entry	Mauritia (L. fil.) [H. Baillon]	0	
 orth	Mauritia (L. fil.)		
 entry	Mauro [E. Beaugrand]	0	
 orth	Mauro		
-entry	Mauthner (Ludwig-Wilhelm) [E. Beaugrand]	1	
+entry	Mauthner (Ludwig-Wilhelm) [E. Beaugrand]	0	
 orth	Mauthner (Ludwig-Wilhelm)		
 pb	240	0244	4542910
+entry	Mauthner (Ludwig-Wilhelm) [E. Beaugrand] (bibliographie)	0	
+orth	Mauthner (Ludwig-Wilhelm)		
 entry	Mauve	0	
-entry	Mauve. Botanique [H. Baillon]	1	
+entry	Mauve. Botanique [H. Baillon] (bibliographie)	1	
 orth	Mauve. Botanique		
 pb	241	0245	4542911
 entry	Mauve. Emploi médical [Fonssagrives]	1	
 orth	Mauve. Emploi médical		
 pb	242	0246	4542912
 entry	Maxilaire (Sous-) (Glande)	0	
-entry	Maxilaire (Sous-) (Glande). Anatomie [Albert Hénocque]	11	
+entry	Maxilaire (Sous-) (Glande). Anatomie [Albert Hénocque]	9	
 orth	Maxilaire (Sous-) (Glande). Anatomie		
 pb	243	0247	4542913
 pb	244	0248	4542914
@@ -538,6 +605,8 @@ pb	249	0253	4542919
 pb	250	0254	4542920
 pb	251	0255	4542921
 pb	252	0256	4542922
+entry	Maxilaire (Sous-) (Glande). Anatomie [Albert Hénocque] (bibliographie)	1	
+orth	Maxilaire (Sous-) (Glande). Anatomie		
 pb	253	0257	4542923
 entry	Maxillaires (Artères et Veines) [Albert Hénocque]	5	
 orth	Maxillaires (Artères et Veines)		
@@ -556,7 +625,7 @@ pb	263	0267	4542933
 pb	264	0268	4542934
 pb	265	0269	4542935
 entry	Maxillaire (Os)	0	
-entry	Maxillaire (Os). Anatomie et usages [G. Gillette]	12	
+entry	Maxillaire (Os). Anatomie et usages [G. Gillette]	10	
 orth	Maxillaire (Os). Anatomie et usages		
 pb	266	0270	4542936
 pb	267	0271	4542937
@@ -569,9 +638,11 @@ pb	273	0277	4542943
 pb	274	0278	4542944
 pb	275	0279	4542945
 pb	276	0280	4542946
+entry	Maxillaire (Os). Anatomie et usages [G. Gillette] (bibliographie)	1	
+orth	Maxillaire (Os). Anatomie et usages		
 pb	277	0281	4542947
 entry	Pathologie	0	
-entry	Maxillaire (Os). Pathologie. Fractures [G. Gillette]	34	
+entry	Maxillaire (Os). Pathologie. Fractures [G. Gillette]	7	
 orth	Maxillaire (Os). Pathologie. Fractures		
 pb	278	0282	4542948
 pb	279	0283	4542949
@@ -581,8 +652,12 @@ pb	282	0286	4542952
 pb	283	0287	4542953
 pb	284	0288	4542954
 pb	285	0289	4542955
+entry	Maxillaire (Os). Pathologie. Fractures [G. Gillette] (bibliographie)	1	
+orth	Maxillaire (Os). Pathologie. Fractures		
 pb	286	0290	4542956
 pb	287	0291	4542957
+entry	Maxillaire (Os). Pathologie. Fractures [G. Gillette]	20	
+orth	Maxillaire (Os). Pathologie. Fractures		
 pb	288	0292	4542958
 pb	289	0293	4542959
 pb	290	0294	4542960
@@ -604,10 +679,12 @@ pb	305	0309	4542975
 pb	306	0310	4542976
 pb	307	0311	4542977
 pb	308	0312	4542978
+entry	Maxillaire (Os). Pathologie. Fractures [G. Gillette] (bibliographie)	3	
+orth	Maxillaire (Os). Pathologie. Fractures		
 pb	309	0313	4542979
 pb	310	0314	4542980
 pb	311	0315	4542981
-entry	Maxillaire (Os). Pathologie. Luxations du maxillaire inférieur [G. Gillette]	12	
+entry	Maxillaire (Os). Pathologie. Luxations du maxillaire inférieur [G. Gillette]	10	
 orth	Maxillaire (Os). Pathologie. Luxations du maxillaire inférieur		
 pb	312	0316	4542982
 pb	313	0317	4542983
@@ -620,6 +697,8 @@ pb	319	0323	4542989
 pb	320	0324	4542990
 pb	321	0325	4542991
 pb	322	0326	4542992
+entry	Maxillaire (Os). Pathologie. Luxations du maxillaire inférieur [G. Gillette] (bibliographie)	1	
+orth	Maxillaire (Os). Pathologie. Luxations du maxillaire inférieur		
 pb	323	0327	4542993
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques [F. Guyon]	1	
 orth	Maxillaire (Os). Pathologie. Lésions vitales et organiques		
@@ -759,7 +838,7 @@ pb	440	0444	4543110
 pb	441	0445	4543111
 pb	442	0446	4543112
 pb	443	0447	4543113
-entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs solides [F. Guyon]	101	
+entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs solides [F. Guyon]	82	
 orth	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs solides		
 pb	444	0448	4543114
 pb	445	0449	4543115
@@ -844,6 +923,8 @@ pb	523	0527	4543193
 pb	524	0528	4543194
 pb	525	0529	4543195
 pb	526	0530	4543196
+entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs solides [F. Guyon] (bibliographie)	18	
+orth	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs solides		
 pb	527	0531	4543197
 pb	528	0532	4543198
 pb	529	0533	4543199
@@ -862,36 +943,54 @@ pb	541	0545	4543211
 pb	542	0546	4543212
 pb	543	0547	4543213
 pb	544	0548	4543214
-entry	May (François-Antoine) [A. Chéreau]	1	
+entry	May (François-Antoine) [A. Chéreau]	0	
 orth	May (François-Antoine)		
 pb	545	0549	4543215
-entry	Mayer (Les) [A. Chéreau]	1	
+entry	May (François-Antoine) [A. Chéreau] (bibliographie)	0	
+orth	May (François-Antoine)		
+entry	Mayer (Les) [A. Chéreau]	0	
 orth	Mayer (Les)		
 pb	546	0550	4543216
-entry	Mayerne (Théodore Turquet de) [A. Chéreau]	2	
+entry	Mayer (Les) [A. Chéreau] (bibliographie)	0	
+orth	Mayer (Les)		
+entry	Mayerne (Théodore Turquet de) [A. Chéreau]	1	
 orth	Mayerne (Théodore Turquet de)		
 pb	547	0551	4543217
 pb	548	0552	4543218
-entry	Maygrier (Jacques-Pierre) [H. Montanier]	1	
+entry	Mayerne (Théodore Turquet de) [A. Chéreau] (bibliographie)	0	
+orth	Mayerne (Théodore Turquet de)		
+entry	Maygrier (Jacques-Pierre) [H. Montanier]	0	
 orth	Maygrier (Jacques-Pierre)		
 pb	549	0553	4543219
+entry	Maygrier (Jacques-Pierre) [H. Montanier] (bibliographie)	0	
+orth	Maygrier (Jacques-Pierre)		
 entry	Mayo (Herbert) [E. Beaugrand]	0	
 orth	Mayo (Herbert)		
-entry	Mayor (François-Isaac) (de Genève) [E. Beaugrand]	1	
+entry	Mayor (François-Isaac) (de Genève) [E. Beaugrand]	0	
 orth	Mayor (François-Isaac) (de Genève)		
 pb	550	0554	4543220
-entry	Mayor (Mathias-Louis) (de Lausanne) [E. Beaugrand]	1	
+entry	Mayor (François-Isaac) (de Genève) [E. Beaugrand] (bibliographie)	0	
+orth	Mayor (François-Isaac) (de Genève)		
+entry	Mayor (Mathias-Louis) (de Lausanne) [E. Beaugrand]	0	
 orth	Mayor (Mathias-Louis) (de Lausanne)		
 pb	551	0555	4543221
-entry	Mayow (Jean) [A. Chéreau]	1	
+entry	Mayor (Mathias-Louis) (de Lausanne) [E. Beaugrand] (bibliographie)	0	
+orth	Mayor (Mathias-Louis) (de Lausanne)		
+entry	Mayow (Jean) [A. Chéreau]	0	
 orth	Mayow (Jean)		
 pb	552	0556	4543222
-entry	Mayres (Eaux minérale de) [A. Rotureau]	1	
+entry	Mayow (Jean) [A. Chéreau] (bibliographie)	0	
+orth	Mayow (Jean)		
+entry	Mayres (Eaux minérale de) [A. Rotureau]	0	
 orth	Mayres (Eaux minérale de)		
 pb	553	0557	4543223
-entry	Mead (Richard) [E. Beaugrand]	1	
+entry	Mayres (Eaux minérale de) [A. Rotureau] (bibliographie)	0	
+orth	Mayres (Eaux minérale de)		
+entry	Mead (Richard) [E. Beaugrand]	0	
 orth	Mead (Richard)		
 pb	554	0558	4543224
+entry	Mead (Richard) [E. Beaugrand] (bibliographie)	0	
+orth	Mead (Richard)		
 entry	Méat [Amédée Dechambre]	0	
 orth	Méat		
 entry	Mecambo [G. Planchon]	0	
@@ -905,16 +1004,18 @@ orth	Mécanique animale
 pb	555	0559	4543225
 pb	556	0560	4543226
 pb	557	0561	4543227
-entry	Mecaxochitl [G. Planchon]	0	
+entry	Mecaxochitl [G. Planchon] (bibliographie)	0	
 orth	Mecaxochitl		
 entry	Mèche [Albert Hénocque]	1	
 orth	Mèche		
 pb	558	0562	4543228
 entry	Méchloique (Acide) [P. Schützenberger]	0	
 orth	Méchloique (Acide)		
-entry	Meckel (Les) [E. Beaugrand]	3	
+entry	Meckel (Les) [E. Beaugrand]	0	
 orth	Meckel (Les)		
 pb	559	0563	4543229
+entry	Meckel (Les) [E. Beaugrand] (bibliographie)	2	
+orth	Meckel (Les)		
 pb	560	0564	4543230
 pb	561	0565	4543231
 entry	Méconamide	0	
@@ -928,17 +1029,19 @@ pb	562	0566	4543232
 entry	Méconique (Acide) [P. Schützenberger]	1	
 orth	Méconique (Acide)		
 pb	563	0567	4543233
-entry	Méconium [C. Robin]	5	
+entry	Méconium [C. Robin]	4	
 orth	Méconium		
 pb	564	0568	4543234
 pb	565	0569	4543235
 pb	566	0570	4543236
 pb	567	0571	4543237
 pb	568	0572	4543238
+entry	Méconium [C. Robin] (bibliographie)	0	
+orth	Méconium		
 entry	Médague (Eaux minérales de)	0	
 ref	José		
 entry	Médecin	0	
-entry	Médecin. Hygiène [E. Beaugrand]	11	
+entry	Médecin. Hygiène [E. Beaugrand]	10	
 orth	Médecin. Hygiène		
 pb	569	0573	4543239
 pb	570	0574	4543240
@@ -951,6 +1054,8 @@ pb	576	0580	4543246
 pb	577	0581	4543247
 pb	578	0582	4543248
 pb	579	0583	4543249
+entry	Médecin. Hygiène [E. Beaugrand] (bibliographie)	0	
+orth	Médecin. Hygiène		
 entry	Médecins cantonaux [Amédée Dechambre]	8	
 orth	Médecins cantonaux		
 pb	580	0584	4543250
@@ -982,7 +1087,7 @@ pb	593	0597	4543263
 entry	Médecins vaccinateurs [Amédée Dechambre]	1	
 orth	Médecins vaccinateurs		
 pb	594	0598	4543264
-entry	Médecins (Femmes) [E. Beaugrand]	13	
+entry	Médecins (Femmes) [E. Beaugrand]	12	
 orth	Médecins (Femmes)		
 pb	595	0599	4543265
 pb	596	0600	4543266
@@ -997,6 +1102,8 @@ pb	604	0608	4543274
 pb	605	0609	4543275
 pb	606	0610	4543276
 pb	607	0611	4543277
+entry	Médecins (Femmes) [E. Beaugrand] (bibliographie)	0	
+orth	Médecins (Femmes)		
 entry	Médecin (Devoirs du)	0	
 ref	Déontologie		
 entry	Médecine	0	
@@ -1021,7 +1128,7 @@ pb	623	0627	4543293
 pb	624	0628	4543294
 pb	625	0629	4543295
 entry	Médecine	0	
-entry	Médecine. Enseignement et exercice [H. Montanier]	51	
+entry	Médecine. Enseignement et exercice [H. Montanier]	49	
 orth	Médecine. Enseignement et exercice		
 pb	626	0630	4543296
 pb	627	0631	4543297
@@ -1073,9 +1180,11 @@ pb	672	0676	4543342
 pb	673	0677	4543343
 pb	674	0678	4543344
 pb	675	0679	4543345
+entry	Médecine. Enseignement et exercice [H. Montanier] (bibliographie)	1	
+orth	Médecine. Enseignement et exercice		
 pb	676	0680	4543346
 pb	677	0681	4543347
-entry	Médecine légale [G. Tourdes]	37	
+entry	Médecine légale [G. Tourdes]	31	
 orth	Médecine légale		
 pb	678	0682	4543348
 pb	679	0683	4543349
@@ -1109,6 +1218,8 @@ pb	706	0710	4543376
 pb	707	0711	4543377
 pb	708	0712	4543378
 pb	709	0713	4543379
+entry	Médecine légale [G. Tourdes] (bibliographie)	5	
+orth	Médecine légale		
 pb	710	0714	4543380
 pb	711	0715	4543381
 pb	712	0716	4543382
@@ -1130,10 +1241,12 @@ pb	724	0728	4543394
 pb	725	0729	4543395
 pb	726	0730	4543396
 pb	727	0731	4543397
-entry	Addenda. Médecins béatifiés [A. Chéreau]	2	
+entry	Addenda. Médecins béatifiés [A. Chéreau]	1	
 orth	Addenda. Médecins béatifiés		
 pb	728	0732	4543398
 pb	729	0733	4543399
+entry	Addenda. Médecins béatifiés [A. Chéreau] (bibliographie)	0	
+orth	Addenda. Médecins béatifiés		
 pb	[s. pag.]	0734	4543400
 pb	731	0735	4543401
 entry	Articles contenus dans le cinquième volume	1	

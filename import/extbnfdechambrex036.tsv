@@ -5,7 +5,7 @@ pb	[s. pag.]	0003	4525988
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4525989
 pb	1	0005	4525990
-entry	Espèce [A. de Quatrefages]	43	
+entry	Espèce [A. de Quatrefages]	41	
 orth	Espèce		
 pb	2	0006	4525991
 pb	3	0007	4525992
@@ -49,8 +49,10 @@ pb	40	0044	4526029
 pb	41	0045	4526030
 pb	42	0046	4526031
 pb	43	0047	4526032
+entry	Espèce [A. de Quatrefages] (bibliographie)	1	
+orth	Espèce		
 pb	44	0048	4526033
-entry	Espèce humaine [A. de Quatrefages]	44	
+entry	Espèce humaine [A. de Quatrefages]	42	
 orth	Espèce humaine		
 pb	45	0049	4526034
 pb	46	0050	4526035
@@ -95,11 +97,13 @@ pb	84	0088	4526073
 pb	85	0089	4526074
 pb	86	0090	4526075
 pb	87	0091	4526076
+entry	Espèce humaine [A. de Quatrefages] (bibliographie)	1	
+orth	Espèce humaine		
 pb	88	0092	4526077
 entry	Espèces médicinales [L. Hahn]	1	
 orth	Espèces médicinales		
 pb	89	0093	4526078
-entry	Espeletia [Ed. Lefèvre]	0	
+entry	Espeletia [Ed. Lefèvre] (bibliographie)	0	
 orth	Espeletia		
 entry	Espenberg (Karl von) [L. Hahn]	0	
 orth	Espenberg (Karl von)		
@@ -115,9 +119,11 @@ entry	Esquimaux [L. Hahn]	0
 orth	Esquimaux		
 entry	Esquirol (Jean-Étienne-Dominique) [L. Hahn]	0	
 orth	Esquirol (Jean-Étienne-Dominique)		
-entry	Esse (C.-H.) [L. Hahn]	1	
+entry	Esse (C.-H.) [L. Hahn]	0	
 orth	Esse (C.-H.)		
 pb	92	0096	4526081
+entry	Esse (C.-H.) [L. Hahn] (bibliographie)	0	
+orth	Esse (C.-H.)		
 entry	Essences [L. Hahn]	2	
 orth	Essences		
 pb	93	0097	4526082
@@ -127,14 +133,14 @@ orth	Essich (Johann-Gottfried)
 entry	Esterle (Carlo) [L. Hahn]	1	
 orth	Esterle (Carlo)		
 pb	95	0099	4526084
-entry	Esteve (les deux) [L. Hahn]	0	
+entry	Esteve (les deux) [L. Hahn] (bibliographie)	0	
 orth	Esteve (les deux)		
 entry	Esthiomène	0	
 ref	Vulve		
 entry	Esthoniens	0	
 ref	Russie		
 pb	96	0100	4526085
-entry	Estienne (Charles) [A. Chéreau]	0	
+entry	Estienne (Charles) [A. Chéreau] (bibliographie)	0	
 orth	Estienne (Charles)		
 entry	Estlander (Opération d')	0	
 ref	Poitrine		
@@ -197,7 +203,7 @@ pb	143	0147	4526132
 pb	144	0148	4526133
 pb	145	0149	4526134
 pb	146	0150	4526135
-entry	Estomac. Pathologie générale [Albert Mathieu]	112	
+entry	Estomac. Pathologie générale [Albert Mathieu]	108	
 orth	Estomac. Pathologie générale		
 pb	147	0151	4526136
 pb	148	0152	4526137
@@ -308,6 +314,8 @@ pb	252	0256	4526241
 pb	253	0257	4526242
 pb	254	0258	4526243
 pb	255	0259	4526244
+entry	Estomac. Pathologie générale [Albert Mathieu] (bibliographie)	3	
+orth	Estomac. Pathologie générale		
 pb	256	0260	4526245
 pb	257	0261	4526246
 pb	258	0262	4526247
@@ -545,7 +553,7 @@ pb	352	0356	4526341
 pb	353	0357	4526342
 entry	Étoiles de mer	0	
 ref	Astéries		
-entry	Étourneau [E. Oustalet]	0	
+entry	Étourneau [E. Oustalet] (bibliographie)	0	
 orth	Étourneau		
 pb	354	0358	4526343
 entry	Étretat (Station marine) [A. Rotureau]	0	
@@ -579,10 +587,12 @@ orth	Eucalyne
 entry	Eucalyptène et Eucalyptol	0	
 ref	Eucalyptus (Thérapeutique)		
 entry	Eucalyptus	0	
-entry	Eucalyptus. Botanique [H. Baillon]	2	
+entry	Eucalyptus. Botanique [H. Baillon]	1	
 orth	Eucalyptus. Botanique		
 pb	368	0372	4526357
 pb	369	0373	4526358
+entry	Eucalyptus. Botanique [H. Baillon] (bibliographie)	0	
+orth	Eucalyptus. Botanique		
 entry	Eucalyptus. Matière médicale et thérapeutique de l'Eucalyptus globulus [Ed. Heckel]	10	
 orth	Eucalyptus. Matière médicale et thérapeutique de l'Eucalyptus globulus		
 pb	370	0374	4526359
@@ -622,9 +632,11 @@ orth	Eugénol
 pb	382	0386	4526371
 entry	Eugétique (Acide) [L. Hahn]	0	
 orth	Eugétique (Acide)		
-entry	Euglène [F. Henneguy]	1	
+entry	Euglène [F. Henneguy]	0	
 orth	Euglène		
 pb	383	0387	4526372
+entry	Euglène [F. Henneguy] (bibliographie)	0	
+orth	Euglène		
 pb	384	0388	4526373
 entry	Eulophia [Ed. Lefèvre]	0	
 orth	Eulophia		
@@ -632,7 +644,7 @@ entry	Eulysine [L. Hahn]	0
 orth	Eulysine		
 entry	Eumelus [L. Hahn]	0	
 orth	Eumelus		
-entry	Eunecte [H.-E. Sauvage]	0	
+entry	Eunecte [H.-E. Sauvage] (bibliographie)	0	
 orth	Eunecte		
 entry	Eupatoire [Ed. Lefèvre]	1	
 orth	Eupatoire		
@@ -642,11 +654,13 @@ orth	Eupatorine
 entry	Eupatorium	0	
 ref	Eupatoire		
 entry	Euphorbe	0	
-entry	Euphorbe. Botanique [H. Baillon]	3	
+entry	Euphorbe. Botanique [H. Baillon]	2	
 orth	Euphorbe. Botanique		
 pb	386	0390	4526375
 pb	387	0391	4526376
 pb	388	0392	4526377
+entry	Euphorbe. Botanique [H. Baillon] (bibliographie)	0	
+orth	Euphorbe. Botanique		
 entry	Euphorbe. Emploi médical [Charles Éloy]	9	
 orth	Euphorbe. Emploi médical		
 pb	389	0393	4526378
@@ -660,11 +674,13 @@ pb	396	0400	4526385
 pb	397	0401	4526386
 entry	Euphorbe [L. Hahn]	0	
 orth	Euphorbe		
-entry	Euphorbiacées [H. Baillon]	3	
+entry	Euphorbiacées [H. Baillon]	2	
 orth	Euphorbiacées		
 pb	398	0402	4526387
 pb	399	0403	4526388
 pb	400	0404	4526389
+entry	Euphorbiacées [H. Baillon] (bibliographie)	0	
+orth	Euphorbiacées		
 entry	Euphorbine [L. Hahn]	0	
 orth	Euphorbine		
 entry	Euphorbique (Acide) [L. Hahn]	0	
@@ -713,11 +729,13 @@ entry	Euxanthine ou Euxanthique (Acide) [L. Hahn]	0
 orth	Euxanthine ou Euxanthique (Acide)		
 entry	Euxanthone ou Purréon [L. Hahn]	0	
 orth	Euxanthone ou Purréon		
-entry	Euzet-les-Bains (Eaux minérales d') [A. Rotureau]	3	
+entry	Euzet-les-Bains (Eaux minérales d') [A. Rotureau]	2	
 orth	Euzet-les-Bains (Eaux minérales d')		
 pb	405	0409	4526394
 pb	406	0410	4526395
 pb	407	0411	4526396
+entry	Euzet-les-Bains (Eaux minérales d') [A. Rotureau] (bibliographie)	0	
+orth	Euzet-les-Bains (Eaux minérales d')		
 entry	Évacuants (Médicaments) [L. Hahn]	0	
 orth	Évacuants (Médicaments)		
 entry	Évanouissement	0	
@@ -751,7 +769,7 @@ entry	Évernique (Acide) [L. Hahn]	0
 orth	Évernique (Acide)		
 entry	Evers (Otto-Justus) [L. Hahn]	0	
 orth	Evers (Otto-Justus)		
-entry	Évian et Amphion (Eaux minérales d') [A. Rotureau]	6	
+entry	Évian et Amphion (Eaux minérales d') [A. Rotureau]	5	
 orth	Évian et Amphion (Eaux minérales d')		
 pb	416	0420	4526405
 pb	417	0421	4526406
@@ -759,6 +777,8 @@ pb	418	0422	4526407
 pb	419	0423	4526408
 pb	420	0424	4526409
 pb	421	0425	4526410
+entry	Évian et Amphion (Eaux minérales d') [A. Rotureau] (bibliographie)	0	
+orth	Évian et Amphion (Eaux minérales d')		
 entry	Évidement	0	
 ref	Résections		
 ref	Périoste		
@@ -775,7 +795,7 @@ entry	Évonymite [L. Hahn]	0
 orth	Évonymite		
 entry	Évonymus	0	
 ref	Fusain		
-entry	Ewert [A. Dureau]	1	
+entry	Ewert [A. Dureau] (bibliographie)	1	
 orth	Ewert		
 pb	423	0427	4526412
 entry	Ewich (Johann von) [L. Hahn]	0	
@@ -826,7 +846,7 @@ entry	Exidia [Ed. Lefèvre]	0
 orth	Exidia		
 entry	Exoascus [Ed. Lefèvre]	0	
 orth	Exoascus		
-entry	Exocet [H.-E. Sauvage]	0	
+entry	Exocet [H.-E. Sauvage] (bibliographie)	0	
 orth	Exocet		
 pb	432	0436	4526421
 entry	Exogonium (Choisy) [H. Baillon]	0	
@@ -844,7 +864,7 @@ entry	Exostema [Ed. Lefèvre]	0
 orth	Exostema		
 entry	Exostose	0	
 ref	Os		
-entry	Expectation [B. Brochin]	11	
+entry	Expectation [B. Brochin]	9	
 orth	Expectation		
 pb	433	0437	4526422
 pb	434	0438	4526423
@@ -856,6 +876,8 @@ pb	439	0443	4526428
 pb	440	0444	4526429
 pb	441	0445	4526430
 pb	442	0446	4526431
+entry	Expectation [B. Brochin] (bibliographie)	1	
+orth	Expectation		
 pb	443	0447	4526432
 entry	Expectoration	0	
 ref	Crachats		
@@ -906,7 +928,7 @@ pb	465	0469	4526454
 pb	466	0470	4526455
 pb	467	0471	4526456
 pb	468	0472	4526457
-entry	Extrémités (Asphyxie locale des) [William Dubreuilh]	24	
+entry	Extrémités (Asphyxie locale des) [William Dubreuilh]	21	
 orth	Extrémités (Asphyxie locale des)		
 pb	469	0473	4526458
 pb	470	0474	4526459
@@ -930,6 +952,8 @@ pb	487	0491	4526476
 pb	488	0492	4526477
 pb	489	0493	4526478
 pb	490	0494	4526479
+entry	Extrémités (Asphyxie locale des) [William Dubreuilh] (bibliographie)	2	
+orth	Extrémités (Asphyxie locale des)		
 pb	491	0495	4526480
 pb	492	0496	4526481
 entry	Eysel (Johann-Philipp) [A. Dureau]	0	
@@ -938,7 +962,7 @@ entry	Eysson (Les deux) [L. Hahn]	0
 orth	Eysson (Les deux)		
 pb	493	0497	4526482
 entry	Addenda	0	
-entry	Addenda. Élongation nerveuse [Charles Éloy]	11	
+entry	Addenda. Élongation nerveuse [Charles Éloy]	8	
 orth	Addenda. Élongation nerveuse		
 pb	494	0498	4526483
 pb	495	0499	4526484
@@ -949,6 +973,8 @@ pb	499	0503	4526488
 pb	500	0504	4526489
 pb	501	0505	4526490
 pb	502	0506	4526491
+entry	Addenda. Élongation nerveuse [Charles Éloy] (bibliographie)	2	
+orth	Addenda. Élongation nerveuse		
 pb	503	0507	4526492
 pb	504	0508	4526493
 pb	505	0509	4526494

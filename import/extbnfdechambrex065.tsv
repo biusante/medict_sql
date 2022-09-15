@@ -20,7 +20,7 @@ pb	9	0013	4568513
 pb	10	0014	4568514
 pb	11	0015	4568515
 pb	12	0016	4568516
-entry	Nez. Pathologie [E. Spillmann]	182	
+entry	Nez. Pathologie [E. Spillmann]	175	
 orth	Nez. Pathologie		
 pb	13	0017	4568517
 pb	14	0018	4568518
@@ -198,6 +198,8 @@ pb	185	0189	4568689
 pb	186	0190	4568690
 pb	187	0191	4568691
 pb	188	0192	4568692
+entry	Nez. Pathologie [E. Spillmann] (bibliographie)	6	
+orth	Nez. Pathologie		
 pb	189	0193	4568693
 pb	190	0194	4568694
 pb	191	0195	4568695
@@ -213,7 +215,7 @@ pb	198	0202	4568702
 pb	199	0203	4568703
 entry	Nez-percés	0	
 ref	Amérique		
-entry	Nhambi [G. Planchon]	0	
+entry	Nhambi [G. Planchon] (bibliographie)	0	
 orth	Nhambi		
 entry	Nhambu-guacu [G. Planchon]	0	
 orth	Nhambu-guacu		
@@ -234,7 +236,7 @@ orth	Niccolo de'Niccoli
 pb	201	0205	4568705
 entry	Niccolo de'niccoli [L. Hahn]	0	
 orth	Niccolo de'niccoli		
-entry	Nice (Station hivernale et marine) [A. Rotureau]	10	
+entry	Nice (Station hivernale et marine) [A. Rotureau]	9	
 orth	Nice (Station hivernale et marine)		
 pb	202	0206	4568706
 pb	203	0207	4568707
@@ -246,22 +248,30 @@ pb	208	0212	4568712
 pb	209	0213	4568713
 pb	210	0214	4568714
 pb	211	0215	4568715
+entry	Nice (Station hivernale et marine) [A. Rotureau] (bibliographie)	0	
+orth	Nice (Station hivernale et marine)		
 pb	212	0216	4568716
-entry	Nicetas [E. Beaugrand]	0	
+entry	Nicetas [E. Beaugrand] (bibliographie)	0	
 orth	Nicetas		
 entry	Nichadas (les)	0	
 ref	Nègres		
-entry	Nichet (J.-P.) [L. Hahn]	1	
+entry	Nichet (J.-P.) [L. Hahn]	0	
 orth	Nichet (J.-P.)		
 pb	213	0217	4568717
+entry	Nichet (J.-P.) [L. Hahn] (bibliographie)	0	
+orth	Nichet (J.-P.)		
 entry	Nicholl (Whitlock) [L. Hahn]	0	
 orth	Nicholl (Whitlock)		
-entry	Nicholls (Frank) [L. Hahn]	1	
+entry	Nicholls (Frank) [L. Hahn]	0	
 orth	Nicholls (Frank)		
 pb	214	0218	4568718
-entry	Nicholson (William) [A. Chéreau]	1	
+entry	Nicholls (Frank) [L. Hahn] (bibliographie)	0	
+orth	Nicholls (Frank)		
+entry	Nicholson (William) [A. Chéreau]	0	
 orth	Nicholson (William)		
 pb	215	0219	4568719
+entry	Nicholson (William) [A. Chéreau] (bibliographie)	0	
+orth	Nicholson (William)		
 entry	Nick (Franz-Anton) [L. Hahn]	0	
 orth	Nick (Franz-Anton)		
 entry	Nickel	0	
@@ -273,12 +283,16 @@ pb	218	0222	4568722
 pb	219	0223	4568723
 entry	Emploi [Amédée Dechambre]	0	
 orth	Emploi		
-entry	Nicod (Pierre-Louis-Aimé) [A. Chéreau]	1	
+entry	Nicod (Pierre-Louis-Aimé) [A. Chéreau]	0	
 orth	Nicod (Pierre-Louis-Aimé)		
 pb	220	0224	4568724
-entry	Nicolaï (Les) [L. Hahn]	3	
+entry	Nicod (Pierre-Louis-Aimé) [A. Chéreau] (bibliographie)	0	
+orth	Nicod (Pierre-Louis-Aimé)		
+entry	Nicolaï (Les) [L. Hahn]	0	
 orth	Nicolaï (Les)		
 pb	221	0225	4568725
+entry	Nicolaï (Les) [L. Hahn] (bibliographie)	2	
+orth	Nicolaï (Les)		
 pb	222	0226	4568726
 pb	223	0227	4568727
 entry	Nicolas Myrepsus	0	
@@ -288,14 +302,14 @@ orth	Nicolas ou Niccolo dit Praepositus
 entry	Nicolas de Reggio (Nicola di Reggio) [E. Beaugrand]	1	
 orth	Nicolas de Reggio (Nicola di Reggio)		
 pb	224	0228	4568728
-entry	Nicole (Nicolas) [L. Hahn]	0	
+entry	Nicole (Nicolas) [L. Hahn] (bibliographie)	0	
 orth	Nicole (Nicolas)		
 entry	Nicolides de Pindo (Jean) [L. Hahn]	0	
 orth	Nicolides de Pindo (Jean)		
 entry	Niconitius (François) [L. Hahn]	1	
 orth	Niconitius (François)		
 pb	225	0229	4568729
-entry	Nicot (Jean) [A. Chéreau]	0	
+entry	Nicot (Jean) [A. Chéreau] (bibliographie)	0	
 orth	Nicot (Jean)		
 entry	Nicothoé [Paul Gervais]	0	
 orth	Nicothoé		
@@ -313,7 +327,7 @@ entry	Nicotine	0
 entry	Nicotine. Chimie [Malaguti]	1	
 orth	Nicotine. Chimie		
 pb	227	0231	4568731
-entry	Nicotine. Action physiologique [A. Bordier]	9	
+entry	Nicotine. Action physiologique [A. Bordier]	7	
 orth	Nicotine. Action physiologique		
 pb	228	0232	4568732
 pb	229	0233	4568733
@@ -323,6 +337,8 @@ pb	232	0236	4568736
 pb	233	0237	4568737
 pb	234	0238	4568738
 pb	235	0239	4568739
+entry	Nicotine. Action physiologique [A. Bordier] (bibliographie)	1	
+orth	Nicotine. Action physiologique		
 pb	236	0240	4568740
 entry	Toxicologie	0	
 ref	Tabac		
@@ -334,16 +350,20 @@ entry	Nidularia	0
 ref	Nidulariés		
 entry	Nidulariés [J. de Seynes]	0	
 orth	Nidulariés		
-entry	Niederbronn (Eau minérale de) [A. Rotureau]	5	
+entry	Niederbronn (Eau minérale de) [A. Rotureau]	3	
 orth	Niederbronn (Eau minérale de)		
 pb	237	0241	4568741
 pb	238	0242	4568742
 pb	239	0243	4568743
 pb	240	0244	4568744
+entry	Niederbronn (Eau minérale de) [A. Rotureau] (bibliographie)	1	
+orth	Niederbronn (Eau minérale de)		
 pb	241	0245	4568745
-entry	Niederhuber (Ignatz) [L. Hahn]	1	
+entry	Niederhuber (Ignatz) [L. Hahn]	0	
 orth	Niederhuber (Ignatz)		
 pb	242	0246	4568746
+entry	Niederhuber (Ignatz) [L. Hahn] (bibliographie)	0	
+orth	Niederhuber (Ignatz)		
 entry	Nieder-Langenau	0	
 ref	Langenau		
 entry	Nieder-Selters	0	
@@ -354,27 +374,35 @@ ref	Céréales
 ref	Nigelle		
 entry	Niemann (Johann-Friedrich) [A. Dureau]	0	
 orth	Niemann (Johann-Friedrich)		
-entry	Niemeyer (Les) [A. Dureau, L. Hahn]	2	
+entry	Niemeyer (Les) [A. Dureau, L. Hahn]	0	
 orth	Niemeyer (Les)		
 pb	243	0247	4568747
+entry	Niemeyer (Les) [A. Dureau, L. Hahn] (bibliographie)	1	
+orth	Niemeyer (Les)		
 pb	244	0248	4568748
 entry	Nieto de Pina (Cristobal) [L. Hahn]	0	
 orth	Nieto de Pina (Cristobal)		
-entry	Nietzki (Adam) [A. Dureau]	1	
+entry	Nietzki (Adam) [A. Dureau]	0	
 orth	Nietzki (Adam)		
 pb	245	0249	4568749
+entry	Nietzki (Adam) [A. Dureau] (bibliographie)	0	
+orth	Nietzki (Adam)		
 entry	Nieuwentijt (Bernard) [L. Hahn]	0	
 orth	Nieuwentijt (Bernard)		
-entry	Nigelle [H. Baillon]	3	
+entry	Nigelle [H. Baillon]	2	
 orth	Nigelle		
 pb	246	0250	4568750
 pb	247	0251	4568751
 pb	248	0252	4568752
+entry	Nigelle [H. Baillon] (bibliographie)	0	
+orth	Nigelle		
 entry	Nigelline	0	
 ref	Nigelle		
-entry	Nigrisoli (Les deux) [L. Hahn]	1	
+entry	Nigrisoli (Les deux) [L. Hahn]	0	
 orth	Nigrisoli (Les deux)		
 pb	249	0253	4568753
+entry	Nigrisoli (Les deux) [L. Hahn] (bibliographie)	0	
+orth	Nigrisoli (Les deux)		
 entry	Nigritie (Géographie médicale) [Amédée Dechambre]	0	
 orth	Nigritie (Géographie médicale)		
 entry	Nihell (Les) [Amédée Dechambre]	0	
@@ -385,7 +413,7 @@ ref	Zinc
 entry	Nika comestible	0	
 ref	Salicoque		
 ref	Crevette		
-entry	Nilbédousi [G. Planchon]	0	
+entry	Nilbédousi [G. Planchon] (bibliographie)	0	
 orth	Nilbédousi		
 entry	Nillgué [G. Planchon]	0	
 orth	Nillgué		
@@ -399,9 +427,11 @@ entry	Ningi ou Ningick [G. Planchon]	0
 orth	Ningi ou Ningick		
 entry	Ningilan [G. Planchon]	0	
 orth	Ningilan		
-entry	Ninnin (Henry) [L. Hahn]	1	
+entry	Ninnin (Henry) [L. Hahn]	0	
 orth	Ninnin (Henry)		
 pb	251	0255	4568755
+entry	Ninnin (Henry) [L. Hahn] (bibliographie)	0	
+orth	Ninnin (Henry)		
 entry	Ninsi, Ninsin, Nindsin, Nisji [G. Planchon]	0	
 orth	Ninsi, Ninsin, Nindsin, Nisji		
 entry	Niobique (Acide) [Amédée Dechambre]	0	
@@ -417,15 +447,17 @@ entry	Niota [H. Baillon]	0
 orth	Niota		
 entry	Niotout, Niottout [H. Baillon]	0	
 orth	Niotout, Niottout		
-entry	Nipa [G. Planchon]	0	
+entry	Nipa [G. Planchon] (bibliographie)	0	
 orth	Nipa		
 entry	Nira-poosée [G. Planchon]	0	
 orth	Nira-poosée		
 entry	Niruala [G. Planchon]	0	
 orth	Niruala		
-entry	Nisbet (William) [A. Dureau]	1	
+entry	Nisbet (William) [A. Dureau]	0	
 orth	Nisbet (William)		
 pb	255	0259	4568759
+entry	Nisbet (William) [A. Dureau] (bibliographie)	0	
+orth	Nisbet (William)		
 entry	Nissa [H. Baillon]	0	
 orth	Nissa		
 entry	Nissen (Woldemar-Andreas) [L. Hahn]	0	
@@ -469,7 +501,7 @@ ref	Azotique (acide)
 entry	Nitrites	0	
 entry	Chimie	0	
 ref	Azotites		
-entry	Nitrites. Emploi [Amédée Dechambre]	7	
+entry	Nitrites. Emploi [Amédée Dechambre]	5	
 orth	Nitrites. Emploi		
 pb	263	0267	4568767
 pb	264	0268	4568768
@@ -477,6 +509,8 @@ pb	265	0269	4568769
 pb	266	0270	4568770
 pb	267	0271	4568771
 pb	268	0272	4568772
+entry	Nitrites. Emploi [Amédée Dechambre] (bibliographie)	1	
+orth	Nitrites. Emploi		
 pb	269	0273	4568773
 entry	Nitroaniline, Nitraniline [Malaguti]	0	
 orth	Nitroaniline, Nitraniline		
@@ -625,16 +659,18 @@ orth	Nitrotolinique (Acide)
 entry	Nitrotyrosine [Malaguti]	1	
 orth	Nitrotyrosine		
 pb	290	0294	4568794
-entry	Nitzsch (Cristian-Ludwig) [L. Hahn]	0	
+entry	Nitzsch (Cristian-Ludwig) [L. Hahn] (bibliographie)	0	
 orth	Nitzsch (Cristian-Ludwig)		
 entry	Niveau [C.-M. Gariel]	3	
 orth	Niveau		
 pb	291	0295	4568795
 pb	292	0296	4568796
 pb	293	0297	4568797
-entry	Nivéole [G. Planchon]	1	
+entry	Nivéole [G. Planchon]	0	
 orth	Nivéole		
 pb	294	0298	4568798
+entry	Nivéole [G. Planchon] (bibliographie)	0	
+orth	Nivéole		
 entry	Nizam	0	
 ref	Hindoustan		
 entry	Nnil [G. Planchon]	0	
@@ -656,7 +692,7 @@ entry	Noeud [Amédée Dechambre]	0
 orth	Noeud		
 entry	Nogails (Les)	0	
 ref	Britanniques (possessions)		
-entry	Noguez (Pierre) [Amédée Dechambre]	0	
+entry	Noguez (Pierre) [Amédée Dechambre] (bibliographie)	0	
 orth	Noguez (Pierre)		
 entry	Nohèdes (Eau minérale de) [A. Rotureau]	0	
 orth	Nohèdes (Eau minérale de)		
@@ -665,9 +701,11 @@ orth	Nointot (Eau minérale de)
 pb	296	0300	4568800
 entry	Noir animal, ou Charbon animal [Amédée Dechambre]	0	
 orth	Noir animal, ou Charbon animal		
-entry	Noisetier ou Coudrier [G. Planchon]	1	
+entry	Noisetier ou Coudrier [G. Planchon]	0	
 orth	Noisetier ou Coudrier		
 pb	297	0301	4568801
+entry	Noisetier ou Coudrier [G. Planchon] (bibliographie)	0	
+orth	Noisetier ou Coudrier		
 entry	Noisillier	0	
 ref	Noisetier		
 entry	Noix	0	
@@ -719,9 +757,10 @@ pb	318	0322	4568822
 pb	319	0323	4568823
 pb	320	0324	4568824
 entry	Toxicologie	0	
-ref	Strychnine		
+ref	Strychnine (bibliographie)		
 pb	321	0325	4568825
-entry	Noix vomique	0	
+entry	Noix vomique (bibliographie)	0	
+orth	Noix vomique		
 entry	Nolane [G. Planchon]	0	
 orth	Nolane		
 entry	Nolde (Adolphe-Frédéric) [Amédée Dechambre]	0	
@@ -729,7 +768,7 @@ orth	Nolde (Adolphe-Frédéric)
 entry	Noli-me-Tangere [Albert Hénocque]	1	
 orth	Noli-me-Tangere		
 pb	322	0326	4568826
-entry	Noma [E. Bazin]	14	
+entry	Noma [E. Bazin]	12	
 orth	Noma		
 pb	323	0327	4568827
 pb	324	0328	4568828
@@ -744,6 +783,8 @@ pb	332	0336	4568836
 pb	333	0337	4568837
 pb	334	0338	4568838
 pb	335	0339	4568839
+entry	Noma [E. Bazin] (bibliographie)	1	
+orth	Noma		
 pb	336	0340	4568840
 entry	Nomades [Amédée Dechambre]	0	
 orth	Nomades		
@@ -761,12 +802,12 @@ pb	341	0345	4568845
 pb	342	0346	4568846
 pb	343	0347	4568847
 pb	344	0348	4568848
-entry	Nonatelia [G. Planchon]	0	
+entry	Nonatelia [G. Planchon] (bibliographie)	0	
 orth	Nonatelia		
 entry	Nonette (Eaux minérales de) [A. Rotureau]	1	
 orth	Nonette (Eaux minérales de)		
 pb	345	0349	4568849
-entry	Nonna-nancoul [G. Planchon]	0	
+entry	Nonna-nancoul [G. Planchon] (bibliographie)	0	
 orth	Nonna-nancoul		
 entry	Nonnius	0	
 ref	Nunnez		
@@ -775,46 +816,52 @@ orth	Nonus ou Theophanes
 entry	Nonylène [E. Burcker]	1	
 orth	Nonylène		
 pb	346	0350	4568850
-entry	Noortwyk (Guillaume) [L. Hahn]	0	
+entry	Noortwyk (Guillaume) [L. Hahn] (bibliographie)	0	
 orth	Noortwyk (Guillaume)		
 entry	Nootkas (Les)	0	
 ref	Britanniques (Possessions)		
-entry	Nopal [G. Planchon]	1	
+entry	Nopal [G. Planchon]	0	
 orth	Nopal		
 pb	347	0351	4568851
+entry	Nopal [G. Planchon] (bibliographie)	0	
+orth	Nopal		
 entry	Nops	0	
 ref	Araignées		
 entry	Nordblad (Carl) [L. Hahn]	0	
 orth	Nordblad (Carl)		
-entry	No-restraint [Bouchereau]	6	
+entry	No-restraint [Bouchereau]	4	
 orth	No-restraint		
 pb	348	0352	4568852
 pb	349	0353	4568853
 pb	350	0354	4568854
 pb	351	0355	4568855
 pb	352	0356	4568856
+entry	No-restraint [Bouchereau] (bibliographie)	1	
+orth	No-restraint		
 pb	353	0357	4568857
 entry	Norium [E. Burcker]	0	
 orth	Norium		
 entry	Normands [A. Lagneau]	0	
 orth	Normands		
 pb	354	0358	4568858
-entry	Noronhia [G. Planchon]	0	
+entry	Noronhia [G. Planchon] (bibliographie)	0	
 orth	Noronhia		
 entry	Noropianique (Acide) [E. Burcker]	0	
 orth	Noropianique (Acide)		
 entry	Norris (William) [A. Dureau]	0	
 orth	Norris (William)		
 pb	355	0359	4568859
-entry	North (John) [A. Dureau]	0	
+entry	North (John) [A. Dureau] (bibliographie)	0	
 orth	North (John)		
 entry	Northcote (William) [L. Hahn]	0	
 orth	Northcote (William)		
 entry	Norwége	0	
 ref	Scandinavie		
-entry	Nose (Karl-Wilhelm) [L. Hahn]	1	
+entry	Nose (Karl-Wilhelm) [L. Hahn]	0	
 orth	Nose (Karl-Wilhelm)		
 pb	356	0360	4568860
+entry	Nose (Karl-Wilhelm) [L. Hahn] (bibliographie)	0	
+orth	Nose (Karl-Wilhelm)		
 entry	Nosencéphales [Amédée Dechambre]	0	
 orth	Nosencéphales		
 entry	Nosologie, Nosographie [Amédée Dechambre]	0	
@@ -826,7 +873,7 @@ ref	Lit
 entry	Nossirophéline	0	
 ref	Lit		
 pb	357	0361	4568861
-entry	Nostalgie [V. Widal]	24	
+entry	Nostalgie [V. Widal]	22	
 orth	Nostalgie		
 pb	358	0362	4568862
 pb	359	0363	4568863
@@ -851,15 +898,21 @@ pb	377	0381	4568881
 pb	378	0382	4568882
 pb	379	0383	4568883
 pb	380	0384	4568884
+entry	Nostalgie [V. Widal] (bibliographie)	1	
+orth	Nostalgie		
 pb	381	0385	4568885
-entry	Nostoc [J. de Seynes]	1	
+entry	Nostoc [J. de Seynes]	0	
 orth	Nostoc		
 pb	382	0386	4568886
+entry	Nostoc [J. de Seynes] (bibliographie)	0	
+orth	Nostoc		
 entry	Nostochinées [J. de Seynes]	0	
 orth	Nostochinées		
-entry	Nostradamus (Michel) [Amédée Dechambre]	1	
+entry	Nostradamus (Michel) [Amédée Dechambre]	0	
 orth	Nostradamus (Michel)		
 pb	383	0387	4568887
+entry	Nostradamus (Michel) [Amédée Dechambre] (bibliographie)	0	
+orth	Nostradamus (Michel)		
 entry	Notations [Amédée Dechambre]	0	
 orth	Notations		
 entry	Notations chimiques [C. Lutz]	9	
@@ -884,7 +937,7 @@ orth	Notonecte
 pb	393	0397	4568897
 entry	Notre-Dame (Michel de)	0	
 ref	Nostradamus		
-entry	Nott (John) [L. Hahn]	0	
+entry	Nott (John) [L. Hahn] (bibliographie)	0	
 orth	Nott (John)		
 entry	Nouet [Amédée Dechambre]	0	
 orth	Nouet		
@@ -1256,10 +1309,12 @@ pb	706	0710	4569210
 pb	707	0711	4569211
 pb	708	0712	4569212
 pb	709	0713	4569213
-entry	Nouveau-né. Pathologie du nouveau-né. Phlegmon et abcès de la mamelle [Depaul]	8	
+entry	Nouveau-né. Pathologie du nouveau-né. Phlegmon et abcès de la mamelle [Depaul]	1	
 orth	Nouveau-né. Pathologie du nouveau-né. Phlegmon et abcès de la mamelle		
 pb	710	0714	4569214
 pb	711	0715	4569215
+entry	Nouveau-né. Pathologie du nouveau-né. Phlegmon et abcès de la mamelle [Depaul] (bibliographie)	6	
+orth	Nouveau-né. Pathologie du nouveau-né. Phlegmon et abcès de la mamelle		
 pb	712	0716	4569216
 pb	713	0717	4569217
 pb	714	0718	4569218
@@ -1274,16 +1329,18 @@ ref	Déontologie médicale
 entry	Nouvelle (La) (Station marine)	0	
 ref	La nouvelle		
 pb	718	0722	4569222
-entry	Novella (Cosme) [L. Hahn]	0	
+entry	Novella (Cosme) [L. Hahn] (bibliographie)	0	
 orth	Novella (Cosme)		
 entry	Noyau [Amédée Dechambre]	0	
 orth	Noyau		
 entry	Noyer, Noix	0	
-entry	Noyer, Noix. Botanique [H. Baillon]	3	
+entry	Noyer, Noix. Botanique [H. Baillon]	2	
 orth	Noyer, Noix. Botanique		
 pb	719	0723	4569223
 pb	720	0724	4569224
 pb	721	0725	4569225
+entry	Noyer, Noix. Botanique [H. Baillon] (bibliographie)	0	
+orth	Noyer, Noix. Botanique		
 entry	Noyer, Noix. Pharmacologie [J. Delioux de Savignac]	4	
 orth	Noyer, Noix. Pharmacologie		
 pb	722	0726	4569226
@@ -1300,14 +1357,14 @@ pb	728	0732	4569232
 pb	729	0733	4569233
 pb	730	0734	4569234
 pb	731	0735	4569235
-entry	Noyer (Victor) [A. Chéreau]	0	
+entry	Noyer (Victor) [A. Chéreau] (bibliographie)	0	
 orth	Noyer (Victor)		
 entry	Nuages [E. Renou]	3	
 orth	Nuages		
 pb	732	0736	4569236
 pb	733	0737	4569237
 pb	734	0738	4569238
-entry	Nubie (Géographie médicale) [L. Laveran]	13	
+entry	Nubie (Géographie médicale) [L. Laveran]	11	
 orth	Nubie (Géographie médicale)		
 pb	735	0739	4569239
 pb	736	0740	4569240
@@ -1321,6 +1378,8 @@ pb	743	0747	4569247
 pb	744	0748	4569248
 pb	745	0749	4569249
 pb	746	0750	4569250
+entry	Nubie (Géographie médicale) [L. Laveran] (bibliographie)	1	
+orth	Nubie (Géographie médicale)		
 pb	747	0751	4569251
 entry	Nubilité	0	
 ref	Age		
@@ -1331,9 +1390,11 @@ entry	Nucine [Amédée Dechambre]	0
 orth	Nucine		
 entry	Nucitannique (Acide) [Amédée Dechambre]	0	
 orth	Nucitannique (Acide)		
-entry	Nuck (Antoine) [A. Chéreau]	1	
+entry	Nuck (Antoine) [A. Chéreau]	0	
 orth	Nuck (Antoine)		
 pb	748	0752	4569252
+entry	Nuck (Antoine) [A. Chéreau] (bibliographie)	0	
+orth	Nuck (Antoine)		
 entry	Nuck (Canal de)	0	
 ref	Péritoine		
 entry	Nucléole	0	
@@ -1345,9 +1406,9 @@ orth	Nuernberger (Chrétien-Frédéric)
 entry	Nufer (Jacob) [L. Hahn]	1	
 orth	Nufer (Jacob)		
 pb	749	0753	4569253
-entry	Nugent (Les) [L. Hahn]	0	
+entry	Nugent (Les) [L. Hahn] (bibliographie)	0	
 orth	Nugent (Les)		
-entry	Nuit (Hygiène et service médical de nuit) [Alexandre Layet]	22	
+entry	Nuit (Hygiène et service médical de nuit) [Alexandre Layet]	20	
 orth	Nuit (Hygiène et service médical de nuit)		
 pb	750	0754	4569254
 pb	751	0755	4569255
@@ -1370,6 +1431,8 @@ pb	767	0771	4569271
 pb	768	0772	4569272
 pb	769	0773	4569273
 pb	770	0774	4569274
+entry	Nuit (Hygiène et service médical de nuit) [Alexandre Layet] (bibliographie)	1	
+orth	Nuit (Hygiène et service médical de nuit)		
 pb	771	0775	4569275
 entry	Numan (Alexandre) [L. Hahn]	0	
 orth	Numan (Alexandre)		
@@ -1383,7 +1446,7 @@ orth	Nummulaire
 entry	Nummulites [Paul Gervais]	1	
 orth	Nummulites		
 pb	773	0777	4569277
-entry	Nunez ou Nunnez (Les) [L. Hahn]	3	
+entry	Nunez ou Nunnez (Les) [L. Hahn] (bibliographie)	3	
 orth	Nunez ou Nunnez (Les)		
 pb	774	0778	4569278
 pb	775	0779	4569279
@@ -1401,13 +1464,15 @@ pb	778	0782	4569282
 pb	779	0783	4569283
 pb	780	0784	4569284
 pb	781	0785	4569285
-entry	Nuphar [H. Baillon]	1	
+entry	Nuphar [H. Baillon]	0	
 orth	Nuphar		
 pb	782	0786	4569286
+entry	Nuphar [H. Baillon] (bibliographie)	0	
+orth	Nuphar		
 entry	Nursia ou Norcia (Benedetto Da) [A. Chéreau]	0	
 orth	Nursia ou Norcia (Benedetto Da)		
 pb	783	0787	4569287
-entry	Nusshard (Franz Wilibald) [L. Hahn]	0	
+entry	Nusshard (Franz Wilibald) [L. Hahn] (bibliographie)	0	
 orth	Nusshard (Franz Wilibald)		
 entry	Nusshart (Leopold) [L. Hahn]	0	
 orth	Nusshart (Leopold)		
@@ -1417,7 +1482,7 @@ pb	784	0788	4569288
 entry	Nutriment [Amédée Dechambre]	1	
 orth	Nutriment		
 pb	785	0789	4569289
-entry	Nutrition [G. Carlet]	26	
+entry	Nutrition [G. Carlet]	21	
 orth	Nutrition		
 pb	786	0790	4569290
 pb	787	0791	4569291
@@ -1441,6 +1506,8 @@ pb	804	0808	4569308
 pb	805	0809	4569309
 pb	806	0810	4569310
 pb	807	0811	4569311
+entry	Nutrition [G. Carlet] (bibliographie)	4	
+orth	Nutrition		
 pb	808	0812	4569312
 pb	809	0813	4569313
 pb	810	0814	4569314
@@ -1449,27 +1516,31 @@ entry	Nutritum (Onguent) [Amédée Dechambre]	0
 orth	Nutritum (Onguent)		
 entry	Nuttall (Les deux) [L. Hahn]	0	
 orth	Nuttall (Les deux)		
-entry	Nyberg (Johan-Ulric) [L. Hahn]	1	
+entry	Nyberg (Johan-Ulric) [L. Hahn]	0	
 orth	Nyberg (Johan-Ulric)		
 pb	812	0816	4569316
+entry	Nyberg (Johan-Ulric) [L. Hahn] (bibliographie)	0	
+orth	Nyberg (Johan-Ulric)		
 entry	Nybläus (Johan-Eric) [L. Hahn]	0	
 orth	Nybläus (Johan-Eric)		
-entry	Nyctaginacées, Nyctaginées [H. Baillon]	1	
+entry	Nyctaginacées, Nyctaginées [H. Baillon]	0	
 orth	Nyctaginacées, Nyctaginées		
 pb	813	0817	4569317
+entry	Nyctaginacées, Nyctaginées [H. Baillon] (bibliographie)	0	
+orth	Nyctaginacées, Nyctaginées		
 pb	814	0818	4569318
 entry	Nyctalis [J. de Seynes]	0	
 orth	Nyctalis		
 entry	Nyctalopie [E. Warlomont]	0	
 orth	Nyctalopie		
-entry	Nyctantes [G. Planchon]	0	
+entry	Nyctantes [G. Planchon] (bibliographie)	0	
 orth	Nyctantes		
 entry	Nycterix [Amédée Dechambre]	0	
 orth	Nycterix		
 entry	Nyctipithèque [Künckel]	1	
 orth	Nyctipithèque		
 pb	815	0819	4569319
-entry	Nymann (Les) [A. Dureau]	0	
+entry	Nymann (Les) [A. Dureau] (bibliographie)	0	
 orth	Nymann (Les)		
 entry	Nymphe [A. Laboulbène]	7	
 orth	Nymphe		
@@ -1528,44 +1599,48 @@ pb	850	0854	4569354
 pb	851	0855	4569355
 pb	852	0856	4569356
 pb	853	0857	4569357
-entry	Nysten (Pierre-Hubert) [A. Dureau]	1	
+entry	Nysten (Pierre-Hubert) [A. Dureau]	0	
 orth	Nysten (Pierre-Hubert)		
 pb	854	0858	4569358
+entry	Nysten (Pierre-Hubert) [A. Dureau] (bibliographie)	0	
+orth	Nysten (Pierre-Hubert)		
 entry	Addenda	0	
 entry	Addenda. Néphrotomie [Servier]	2	
 orth	Addenda. Néphrotomie		
 pb	855	0859	4569359
 pb	856	0860	4569360
-entry	Nhamdu ou Nhandi [G. Planchon]	0	
+entry	Nhamdu ou Nhandi [G. Planchon] (bibliographie)	0	
 orth	Nhamdu ou Nhandi		
-entry	Addenda. Nicol (John-Inglis) [L. Hahn]	1	
+entry	Addenda. Nicol (John-Inglis) [L. Hahn] (bibliographie)	1	
 orth	Addenda. Nicol (John-Inglis)		
 pb	857	0861	4569361
 entry	Nieremberg (Juan-Eusebio) [L. Hahn]	0	
 orth	Nieremberg (Juan-Eusebio)		
 entry	Nieto (Blas-Martinez) [L. Hahn]	0	
 orth	Nieto (Blas-Martinez)		
-entry	Addenda. Nissole (Les deux) [L. Hahn]	2	
+entry	Addenda. Nissole (Les deux) [L. Hahn] (bibliographie)	1	
 orth	Addenda. Nissole (Les deux)		
 pb	858	0862	4569362
 pb	859	0863	4569363
-entry	Nissolia [G. Planchon]	0	
+entry	Addenda. Nissole (Les deux) [L. Hahn]	0	
+orth	Addenda. Nissole (Les deux)		
+entry	Nissolia [G. Planchon] (bibliographie)	0	
 orth	Nissolia		
 entry	Nobel (Jean) [Amédée Dechambre]	0	
 orth	Nobel (Jean)		
-entry	Addenda. Noël (Les) [L. Hahn]	2	
+entry	Addenda. Noël (Les) [L. Hahn] (bibliographie)	2	
 orth	Addenda. Noël (Les)		
 pb	860	0864	4569364
 pb	861	0865	4569365
-entry	Addenda. Noeldecke (Georg-Justus-Friedrich) [L. Hahn]	1	
+entry	Addenda. Noeldecke (Georg-Justus-Friedrich) [L. Hahn] (bibliographie)	1	
 orth	Addenda. Noeldecke (Georg-Justus-Friedrich)		
 pb	862	0866	4569366
 entry	Nolle (Henri) [L. Hahn]	0	
 orth	Nolle (Henri)		
-entry	Addenda. Nollet (l'abbé Jean-Antoine) [L. Hahn]	1	
+entry	Addenda. Nollet (l'abbé Jean-Antoine) [L. Hahn] (bibliographie)	1	
 orth	Addenda. Nollet (l'abbé Jean-Antoine)		
 pb	863	0867	4569367
-entry	Addenda. Nopitsch (Carl-Daniel-Eberhard-Friedrich) [L. Hahn]	1	
+entry	Addenda. Nopitsch (Carl-Daniel-Eberhard-Friedrich) [L. Hahn] (bibliographie)	1	
 orth	Addenda. Nopitsch (Carl-Daniel-Eberhard-Friedrich)		
 pb	864	0868	4569368
 entry	Normand (Claude-Joseph) [L. Hahn]	0	

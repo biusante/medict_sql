@@ -7,7 +7,7 @@ pb	[s. pag.]	0004	4577188
 pb	1	0005	4577189
 entry	Phanérogames [Ed. Lefèvre]	0	
 orth	Phanérogames		
-entry	Phanérophore [Ed. Retterer]	18	
+entry	Phanérophore [Ed. Retterer]	17	
 orth	Phanérophore		
 pb	2	0006	4577190
 pb	3	0007	4577191
@@ -27,10 +27,12 @@ pb	16	0020	4577204
 pb	17	0021	4577205
 pb	18	0022	4577206
 pb	19	0023	4577207
+entry	Phanérophore [Ed. Retterer] (bibliographie)	0	
+orth	Phanérophore		
 entry	Pharbitis [Ed. Lefèvre]	0	
 orth	Pharbitis		
 pb	20	0024	4577208
-entry	Pharmacie [L. Thomas]	16	
+entry	Pharmacie [L. Thomas]	14	
 orth	Pharmacie		
 pb	21	0025	4577209
 pb	22	0026	4577210
@@ -47,6 +49,8 @@ pb	32	0036	4577220
 pb	33	0037	4577221
 pb	34	0038	4577222
 pb	35	0039	4577223
+entry	Pharmacie [L. Thomas] (bibliographie)	1	
+orth	Pharmacie		
 pb	36	0040	4577224
 entry	Pharmaciens (Hygiène professionnelle)	0	
 ref	Chimistes		
@@ -77,7 +81,7 @@ entry	Pharyngoscopie	0
 ref	Rhinoscopie		
 entry	Pharyngo-staphylin (Muscle)	0	
 ref	Pharynx		
-entry	Pharyngotomie, Pharyngectomie [A. Broca]	18	
+entry	Pharyngotomie, Pharyngectomie [A. Broca]	15	
 orth	Pharyngotomie, Pharyngectomie		
 pb	43	0047	4577231
 pb	44	0048	4577232
@@ -95,6 +99,8 @@ pb	55	0059	4577243
 pb	56	0060	4577244
 pb	57	0061	4577245
 pb	58	0062	4577246
+entry	Pharyngotomie, Pharyngectomie [A. Broca] (bibliographie)	2	
+orth	Pharyngotomie, Pharyngectomie		
 pb	59	0063	4577247
 pb	60	0064	4577248
 entry	Pharynx	0	
@@ -112,7 +118,7 @@ orth	Pharynx. Physiologie
 pb	68	0072	4577256
 pb	69	0073	4577257
 entry	Pharynx	0	
-entry	Pharynx. Pathologie [X. Arnozan, E. J. Moure]	29	
+entry	Pharynx. Pathologie [X. Arnozan, E. J. Moure]	26	
 orth	Pharynx. Pathologie		
 pb	70	0074	4577258
 pb	71	0075	4577259
@@ -141,11 +147,15 @@ pb	93	0097	4577281
 pb	94	0098	4577282
 pb	95	0099	4577283
 pb	96	0100	4577284
+entry	Pharynx. Pathologie [X. Arnozan, E. J. Moure] (bibliographie)	2	
+orth	Pharynx. Pathologie		
 pb	97	0101	4577285
 pb	98	0102	4577286
-entry	Phascogale [E. Oustalet]	1	
+entry	Phascogale [E. Oustalet]	0	
 orth	Phascogale		
 pb	99	0103	4577287
+entry	Phascogale [E. Oustalet] (bibliographie)	0	
+orth	Phascogale		
 entry	Phascolome [E. Oustalet]	0	
 orth	Phascolome		
 entry	Phascum [Ed. Lefèvre]	0	
@@ -161,10 +171,12 @@ entry	Phellandrie	0
 entry	Phellandrie. Botanique [Ed. Lefèvre]	1	
 orth	Phellandrie. Botanique		
 pb	101	0105	4577289
-entry	Phellandrie. Emploi médical [Charles Éloy]	2	
+entry	Phellandrie. Emploi médical [Charles Éloy]	1	
 orth	Phellandrie. Emploi médical		
 pb	102	0106	4577290
 pb	103	0107	4577291
+entry	Phellandrie. Emploi médical [Charles Éloy] (bibliographie)	0	
+orth	Phellandrie. Emploi médical		
 entry	Phellique (Alcool) [L. Hahn]	0	
 orth	Phellique (Alcool)		
 pb	104	0108	4577292
@@ -431,13 +443,15 @@ entry	Philinus [L. Hahn]	0
 orth	Philinus		
 entry	Philip	0	
 ref	Wilson		
-entry	Philippe (Adrien-P.-N.) [L. Hahn]	1	
+entry	Philippe (Adrien-P.-N.) [L. Hahn]	0	
 orth	Philippe (Adrien-P.-N.)		
 pb	157	0161	4577345
+entry	Philippe (Adrien-P.-N.) [L. Hahn] (bibliographie)	0	
+orth	Philippe (Adrien-P.-N.)		
 entry	Philippeville-stora (Eaux minérales de) [A. Rotureau]	1	
 orth	Philippeville-stora (Eaux minérales de)		
 pb	158	0162	4577346
-entry	Philippines [H. Bourru]	15	
+entry	Philippines [H. Bourru]	14	
 orth	Philippines		
 pb	159	0163	4577347
 pb	160	0164	4577348
@@ -454,26 +468,36 @@ pb	170	0174	4577358
 pb	171	0175	4577359
 pb	172	0176	4577360
 pb	173	0177	4577361
-entry	Philippson (Phoebus-Moses) [A. Dureau]	1	
+entry	Philippines [H. Bourru] (bibliographie)	0	
+orth	Philippines		
+entry	Philippson (Phoebus-Moses) [A. Dureau]	0	
 orth	Philippson (Phoebus-Moses)		
 pb	174	0178	4577362
+entry	Philippson (Phoebus-Moses) [A. Dureau] (bibliographie)	0	
+orth	Philippson (Phoebus-Moses)		
 entry	Philipsson (Lorenz-Munter) [A. Dureau]	0	
 orth	Philipsson (Lorenz-Munter)		
 entry	Philistion [L. Hahn]	0	
 orth	Philistion		
 entry	Phillimore (William-Phillimore) [L. Hahn]	0	
 orth	Phillimore (William-Phillimore)		
-entry	Phillips (Les) [L. Hahn]	2	
+entry	Phillips (Les) [L. Hahn]	0	
 orth	Phillips (Les)		
 pb	175	0179	4577363
+entry	Phillips (Les) [L. Hahn] (bibliographie)	0	
+orth	Phillips (Les)		
 pb	176	0180	4577364
-entry	Philodendron [Ed. Lefèvre]	0	
+entry	Phillips (Les) [L. Hahn]	0	
+orth	Phillips (Les)		
+entry	Philodendron [Ed. Lefèvre] (bibliographie)	0	
 orth	Philodendron		
 entry	Philodrome	0	
 ref	Araignées		
-entry	Philologus (Thomas Rangonus, dit) [L. Hahn]	1	
+entry	Philologus (Thomas Rangonus, dit) [L. Hahn]	0	
 orth	Philologus (Thomas Rangonus, dit)		
 pb	177	0181	4577365
+entry	Philologus (Thomas Rangonus, dit) [L. Hahn] (bibliographie)	0	
+orth	Philologus (Thomas Rangonus, dit)		
 entry	Philomides [L. Hahn]	0	
 orth	Philomides		
 entry	Philon (Herennius) [L. Hahn]	0	
@@ -489,9 +513,11 @@ entry	Philoptères [A. Laboulbène]	0
 orth	Philoptères		
 entry	Philygénine [L. Hahn]	0	
 orth	Philygénine		
-entry	Philyrine [L. Hahn]	1	
+entry	Philyrine [L. Hahn]	0	
 orth	Philyrine		
 pb	179	0183	4577367
+entry	Philyrine [L. Hahn] (bibliographie)	0	
+orth	Philyrine		
 entry	Phimosis	0	
 entry	Pathologie [E. Mathieu]	0	
 orth	Pathologie		
@@ -580,7 +606,7 @@ entry	Phlébectasie	0
 ref	Veines		
 entry	Phlébentérés [Ed. Lefèvre]	0	
 orth	Phlébentérés		
-entry	Phlébentérisme [Ed. Retterer]	9	
+entry	Phlébentérisme [Ed. Retterer]	8	
 orth	Phlébentérisme		
 pb	252	0256	4577440
 pb	253	0257	4577441
@@ -591,10 +617,12 @@ pb	257	0261	4577445
 pb	258	0262	4577446
 pb	259	0263	4577447
 pb	260	0264	4577448
+entry	Phlébentérisme [Ed. Retterer] (bibliographie)	0	
+orth	Phlébentérisme		
 entry	Phlebia [Ed. Lefèvre]	0	
 orth	Phlebia		
 pb	261	0265	4577449
-entry	Phlébite [Muselier, Nourric]	26	
+entry	Phlébite [Muselier, Nourric]	24	
 orth	Phlébite		
 pb	262	0266	4577450
 pb	263	0267	4577451
@@ -621,6 +649,8 @@ pb	283	0287	4577471
 pb	284	0288	4577472
 pb	285	0289	4577473
 pb	286	0290	4577474
+entry	Phlébite [Muselier, Nourric] (bibliographie)	1	
+orth	Phlébite		
 pb	287	0291	4577475
 entry	Phlébolithes [L. Hahn]	0	
 orth	Phlébolithes		
@@ -629,7 +659,7 @@ ref	Saignée
 ref	Lancette		
 entry	Phlegmasie	0	
 ref	Inflammation		
-entry	Phlegmatia alba dolens [X. Delore, Poullet]	16	
+entry	Phlegmatia alba dolens [X. Delore, Poullet]	14	
 orth	Phlegmatia alba dolens		
 pb	288	0292	4577476
 pb	289	0293	4577477
@@ -646,10 +676,12 @@ pb	299	0303	4577487
 pb	300	0304	4577488
 pb	301	0305	4577489
 pb	302	0306	4577490
+entry	Phlegmatia alba dolens [X. Delore, Poullet] (bibliographie)	1	
+orth	Phlegmatia alba dolens		
 pb	303	0307	4577491
 entry	Phlegme [L. Hahn]	0	
 orth	Phlegme		
-entry	Phlegmon [E. Kirmisson]	19	
+entry	Phlegmon [E. Kirmisson]	17	
 orth	Phlegmon		
 pb	304	0308	4577492
 pb	305	0309	4577493
@@ -669,6 +701,8 @@ pb	318	0322	4577506
 pb	319	0323	4577507
 pb	320	0324	4577508
 pb	321	0325	4577509
+entry	Phlegmon [E. Kirmisson] (bibliographie)	1	
+orth	Phlegmon		
 pb	322	0326	4577510
 entry	Phlobaphène [C. Lutz]	0	
 orth	Phlobaphène		
@@ -709,12 +743,16 @@ entry	Phocénique (Acide)	0
 ref	Valérique (Acide)		
 entry	Phocomèles [O. Larcher]	0	
 orth	Phocomèles		
-entry	Phoebus (Philipp) [L. Hahn]	1	
+entry	Phoebus (Philipp) [L. Hahn]	0	
 orth	Phoebus (Philipp)		
 pb	328	0332	4577516
-entry	Phoenix (L.) [H. Baillon]	1	
+entry	Phoebus (Philipp) [L. Hahn] (bibliographie)	0	
+orth	Phoebus (Philipp)		
+entry	Phoenix (L.) [H. Baillon]	0	
 orth	Phoenix (L.)		
 pb	329	0333	4577517
+entry	Phoenix (L.) [H. Baillon] (bibliographie)	0	
+orth	Phoenix (L.)		
 entry	Pholade [Ed. Lefèvre]	1	
 orth	Pholade		
 pb	330	0334	4577518
@@ -729,12 +767,16 @@ pb	334	0338	4577522
 pb	335	0339	4577523
 entry	Phonomètre	0	
 ref	Acoumètre		
-entry	Phoques [E. Oustalet]	1	
+entry	Phoques [E. Oustalet]	0	
 orth	Phoques		
 pb	336	0340	4577524
-entry	Phormium (Forst) [H. Baillon]	1	
+entry	Phoques [E. Oustalet] (bibliographie)	0	
+orth	Phoques		
+entry	Phormium (Forst) [H. Baillon]	0	
 orth	Phormium (Forst)		
 pb	337	0341	4577525
+entry	Phormium (Forst) [H. Baillon] (bibliographie)	0	
+orth	Phormium (Forst)		
 entry	Phorone, Camphorone ou Camphoryle [C. Lutz]	1	
 orth	Phorone, Camphorone ou Camphoryle		
 pb	338	0342	4577526
@@ -775,10 +817,12 @@ pb	352	0356	4577540
 pb	353	0357	4577541
 pb	354	0358	4577542
 pb	355	0359	4577543
-entry	Phosphènes [Nuel]	2	
+entry	Phosphènes [Nuel]	1	
 orth	Phosphènes		
 pb	356	0360	4577544
 pb	357	0361	4577545
+entry	Phosphènes [Nuel] (bibliographie)	0	
+orth	Phosphènes		
 entry	Phosphines [Ch. Blarez]	3	
 orth	Phosphines		
 pb	358	0362	4577546
@@ -874,17 +918,21 @@ orth	Photocyanine
 entry	Photoérythrine	0	
 ref	Photocyanine		
 entry	Photographie	0	
-entry	Photographie. Applications aux sciences médicales [Albert Hénocque]	4	
+entry	Photographie. Applications aux sciences médicales [Albert Hénocque]	2	
 orth	Photographie. Applications aux sciences médicales		
 pb	415	0419	4577603
 pb	416	0420	4577604
 pb	417	0421	4577605
+entry	Photographie. Applications aux sciences médicales [Albert Hénocque] (bibliographie)	1	
+orth	Photographie. Applications aux sciences médicales		
 pb	418	0422	4577606
-entry	Photographie. Hygiène professionnelle [Alexandre Layet]	3	
+entry	Photographie. Hygiène professionnelle [Alexandre Layet]	2	
 orth	Photographie. Hygiène professionnelle		
 pb	419	0423	4577607
 pb	420	0424	4577608
 pb	421	0425	4577609
+entry	Photographie. Hygiène professionnelle [Alexandre Layet] (bibliographie)	0	
+orth	Photographie. Hygiène professionnelle		
 entry	Photomètres, Photométrie [C.-M. Gariel]	9	
 orth	Photomètres, Photométrie		
 pb	422	0426	4577610
@@ -926,7 +974,7 @@ pb	441	0445	4577629
 pb	442	0446	4577630
 pb	443	0447	4577631
 pb	444	0448	4577632
-entry	Phrynaglosse [H.-E. Sauvage]	0	
+entry	Phrynaglosse [H.-E. Sauvage] (bibliographie)	0	
 orth	Phrynaglosse		
 entry	Phryne [A. Laboulbène]	0	
 orth	Phryne		
@@ -1358,20 +1406,24 @@ orth	Phycoxanthine
 pb	816	0820	4578004
 entry	Phylactères [L. Hahn]	0	
 orth	Phylactères		
-entry	Phyllanthe [H. Baillon]	2	
+entry	Phyllanthe [H. Baillon]	1	
 orth	Phyllanthe		
 pb	817	0821	4578005
 pb	818	0822	4578006
+entry	Phyllanthe [H. Baillon] (bibliographie)	0	
+orth	Phyllanthe		
 entry	Phyllescitannin [L. Hahn]	1	
 orth	Phyllescitannin		
 pb	819	0823	4578007
-entry	Phyllirea (T.) [H. Baillon]	0	
+entry	Phyllirea (T.) [H. Baillon] (bibliographie)	0	
 orth	Phyllirea (T.)		
 entry	Phyllirine	0	
 ref	Philyrine		
-entry	Phyllis (L.) [H. Baillon]	1	
+entry	Phyllis (L.) [H. Baillon]	0	
 orth	Phyllis (L.)		
 pb	820	0824	4578008
+entry	Phyllis (L.) [H. Baillon] (bibliographie)	0	
+orth	Phyllis (L.)		
 entry	Phyllobate [H.-E. Sauvage]	0	
 orth	Phyllobate		
 entry	Phyllobothridés	0	
@@ -1395,9 +1447,11 @@ entry	Phyllorhétine [L. Hahn]	0
 orth	Phyllorhétine		
 entry	Phyllosomes [Ed. Lefèvre]	0	
 orth	Phyllosomes		
-entry	Phyllostome [E. Oustalet]	1	
+entry	Phyllostome [E. Oustalet]	0	
 orth	Phyllostome		
 pb	823	0827	4578011
+entry	Phyllostome [E. Oustalet] (bibliographie)	0	
+orth	Phyllostome		
 entry	Phylloxanthine	0	
 ref	Chlorophylle		
 entry	Phylloxera [A. Laboulbène]	13	
@@ -1434,9 +1488,11 @@ orth	Physétoléique (Acide)
 entry	Physicien [A. Chéreau]	1	
 orth	Physicien		
 pb	839	0843	4578027
-entry	Physick (Philip-Syng) [L. Hahn]	1	
+entry	Physick (Philip-Syng) [L. Hahn]	0	
 orth	Physick (Philip-Syng)		
 pb	840	0844	4578028
+entry	Physick (Philip-Syng) [L. Hahn] (bibliographie)	0	
+orth	Physick (Philip-Syng)		
 entry	Physocalymma [Ed. Lefèvre]	0	
 orth	Physocalymma		
 entry	Physodine [L. Hahn]	0	
@@ -1450,23 +1506,29 @@ entry	Physostigma [Ed. Lefèvre]	0
 orth	Physostigma		
 entry	Physostigmine	0	
 ref	Ésérine		
-entry	Phytelephas (R. et Pav.) [H. Baillon]	1	
+entry	Phytelephas (R. et Pav.) [H. Baillon]	0	
 orth	Phytelephas (R. et Pav.)		
 pb	842	0846	4578030
+entry	Phytelephas (R. et Pav.) [H. Baillon] (bibliographie)	0	
+orth	Phytelephas (R. et Pav.)		
 entry	Phyteuma (L.) [H. Baillon]	0	
 orth	Phyteuma (L.)		
-entry	Phytocrène [Ed. Lefèvre]	1	
+entry	Phytocrène [Ed. Lefèvre]	0	
 orth	Phytocrène		
 pb	843	0847	4578031
+entry	Phytocrène [Ed. Lefèvre] (bibliographie)	0	
+orth	Phytocrène		
 entry	Phytolaccacées [Ed. Lefèvre]	0	
 orth	Phytolaccacées		
 entry	Phytolaccine [L. Hahn]	0	
 orth	Phytolaccine		
 entry	Phytolaccique (Acide) [L. Hahn]	0	
 orth	Phytolaccique (Acide)		
-entry	Phytolaque [Ed. Lefèvre]	1	
+entry	Phytolaque [Ed. Lefèvre]	0	
 orth	Phytolaque		
 pb	844	0848	4578032
+entry	Phytolaque [Ed. Lefèvre] (bibliographie)	0	
+orth	Phytolaque		
 entry	Phytoméline	0	
 ref	Rutine		
 entry	Phytostérine [L. Hahn]	0	
@@ -1478,10 +1540,12 @@ entry	Pian	0
 ref	Framboesia		
 entry	Pibrac (Gilles-Bertrand) [L. Hahn]	0	
 orth	Pibrac (Gilles-Bertrand)		
-entry	Pic [E. Oustalet]	2	
+entry	Pic [E. Oustalet]	1	
 orth	Pic		
 pb	846	0850	4578034
 pb	847	0851	4578035
+entry	Pic [E. Oustalet] (bibliographie)	0	
+orth	Pic		
 entry	Pica	0	
 ref	Malacie		
 entry	Picamare [L. Hahn]	0	
@@ -1495,7 +1559,7 @@ orth	Picène
 pb	848	0852	4578036
 entry	Pichard (François-Louis) [L. Hahn]	0	
 orth	Pichard (François-Louis)		
-entry	Pichler (Johann-Friedr.-Christian) [L. Hahn]	0	
+entry	Pichler (Johann-Friedr.-Christian) [L. Hahn] (bibliographie)	0	
 orth	Pichler (Johann-Friedr.-Christian)		
 entry	Pichurim	0	
 ref	Nectandra		
@@ -1509,9 +1573,11 @@ entry	Picolique (Acide) [L. Hahn]	0
 orth	Picolique (Acide)		
 entry	Picraconitine	0	
 ref	Picroaconitine		
-entry	Picraena [Ed. Lefèvre]	1	
+entry	Picraena [Ed. Lefèvre]	0	
 orth	Picraena		
 pb	850	0854	4578038
+entry	Picraena [Ed. Lefèvre] (bibliographie)	0	
+orth	Picraena		
 entry	Picramine [L. Hahn]	0	
 orth	Picramine		
 entry	Picramique (Acide) [L. Hahn]	0	
@@ -1576,16 +1642,20 @@ entry	Action physiologique et thérapeutique	0
 ref	Coque de Levant		
 entry	Pictet (François-Jules) [L. Hahn]	0	
 orth	Pictet (François-Jules)		
-entry	Pictorius (Georg) [L. Hahn]	0	
+entry	Pictorius (Georg) [L. Hahn] (bibliographie)	0	
 orth	Pictorius (Georg)		
 entry	Pidoux (Les) [L. Hahn]	0	
 orth	Pidoux (Les)		
-entry	Pie [E. Oustalet]	1	
+entry	Pie [E. Oustalet]	0	
 orth	Pie		
 pb	857	0861	4578045
-entry	Pie-grièche [E. Oustalet]	1	
+entry	Pie [E. Oustalet] (bibliographie)	0	
+orth	Pie		
+entry	Pie-grièche [E. Oustalet]	0	
 orth	Pie-grièche		
 pb	858	0862	4578046
+entry	Pie-grièche [E. Oustalet] (bibliographie)	0	
+orth	Pie-grièche		
 entry	Pie-Mère	0	
 ref	Méninges		
 pb	859	0863	4578047

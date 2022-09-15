@@ -318,12 +318,14 @@ entry	Pieds (Botanique) [Ed. Lefèvre]	0
 orth	Pieds (Botanique)		
 entry	Pied de Madura	0	
 ref	Mycétome		
-entry	Piedra [E. Juhel-Rénoy]	4	
+entry	Piedra [E. Juhel-Rénoy]	3	
 orth	Piedra		
 pb	282	0286	4578336
 pb	283	0287	4578337
 pb	284	0288	4578338
 pb	285	0289	4578339
+entry	Piedra [E. Juhel-Rénoy] (bibliographie)	0	
+orth	Piedra		
 entry	Pieds-noirs	0	
 ref	Amérique		
 entry	Pienitz (Ernst-Gottlos) [L. Hahn]	0	
@@ -333,7 +335,7 @@ orth	Pierer (Johann-Friedr.)
 entry	Pierquin de Gembloux (Claude-Charles) [L. Hahn]	0	
 orth	Pierquin de Gembloux (Claude-Charles)		
 pb	286	0290	4578340
-entry	Pierre (Les) [L. Hahn]	2	
+entry	Pierre (Les) [L. Hahn] (bibliographie)	2	
 orth	Pierre (Les)		
 pb	287	0291	4578341
 pb	288	0292	4578342
@@ -362,25 +364,29 @@ orth	Piet
 entry	Pietrapola (Eau minérale de) [A. Rotureau]	1	
 orth	Pietrapola (Eau minérale de)		
 pb	295	0299	4578349
-entry	Piètre (Les) [L. Hahn]	1	
+entry	Piètre (Les) [L. Hahn]	0	
 orth	Piètre (Les)		
 pb	296	0300	4578350
+entry	Piètre (Les) [L. Hahn] (bibliographie)	0	
+orth	Piètre (Les)		
 entry	Piétro	0	
 ref	Pierre		
 pb	297	0301	4578351
 entry	Pigamon	0	
-entry	Botanique [Ed. Lefèvre]	0	
+entry	Botanique [Ed. Lefèvre] (bibliographie)	0	
 orth	Botanique		
 entry	Pigamon. Action physiologique [L. Hahn]	2	
 orth	Pigamon. Action physiologique		
 pb	298	0302	4578352
 pb	299	0303	4578353
-entry	Pigeon [E. Oustalet]	4	
+entry	Pigeon [E. Oustalet]	3	
 orth	Pigeon		
 pb	300	0304	4578354
 pb	301	0305	4578355
 pb	302	0306	4578356
 pb	303	0307	4578357
+entry	Pigeon [E. Oustalet] (bibliographie)	0	
+orth	Pigeon		
 entry	Pigment [Ed. Retterer]	29	
 orth	Pigment		
 pb	304	0308	4578358
@@ -477,7 +483,7 @@ pb	378	0382	4578432
 pb	379	0383	4578433
 pb	380	0384	4578434
 pb	381	0385	4578435
-entry	Pileux. Système. Pathologie [E. Juhel-Rénoy]	8	
+entry	Pileux. Système. Pathologie [E. Juhel-Rénoy]	7	
 orth	Pileux. Système. Pathologie		
 pb	382	0386	4578436
 pb	383	0387	4578437
@@ -487,15 +493,19 @@ pb	386	0390	4578440
 pb	387	0391	4578441
 pb	388	0392	4578442
 pb	389	0393	4578443
+entry	Pileux. Système. Pathologie [E. Juhel-Rénoy] (bibliographie)	0	
+orth	Pileux. Système. Pathologie		
 entry	Pilimiction [L. Hahn]	0	
 orth	Pilimiction		
 entry	Pilobolus [Ed. Lefèvre]	0	
 orth	Pilobolus		
 entry	Pilocarpine	0	
 ref	Jaborandi		
-entry	Pilocarpus (Vahl) [H. Baillon]	1	
+entry	Pilocarpus (Vahl) [H. Baillon]	0	
 orth	Pilocarpus (Vahl)		
 pb	390	0394	4578444
+entry	Pilocarpus (Vahl) [H. Baillon] (bibliographie)	0	
+orth	Pilocarpus (Vahl)		
 entry	Piloselle [H. Baillon]	0	
 orth	Piloselle		
 entry	Pilules [L. Hahn]	1	
@@ -521,7 +531,7 @@ orth	Piment. Emploi médical
 pb	394	0398	4578448
 pb	395	0399	4578449
 pb	396	0400	4578450
-entry	Pimenta [Ed. Lefèvre]	0	
+entry	Pimenta [Ed. Lefèvre] (bibliographie)	0	
 orth	Pimenta		
 pb	397	0401	4578451
 entry	Pimpinella [H. Baillon]	0	
@@ -529,13 +539,15 @@ orth	Pimpinella
 entry	Pimprenelle [Ed. Lefèvre]	0	
 orth	Pimprenelle		
 entry	Pin	0	
-entry	Pin. Botanique [H. Baillon]	5	
+entry	Pin. Botanique [H. Baillon]	4	
 orth	Pin. Botanique		
 pb	398	0402	4578452
 pb	399	0403	4578453
 pb	400	0404	4578454
 pb	401	0405	4578455
 pb	402	0406	4578456
+entry	Pin. Botanique [H. Baillon] (bibliographie)	0	
+orth	Pin. Botanique		
 entry	Pin. Emploi médical [Charles Éloy]	3	
 orth	Pin. Emploi médical		
 pb	403	0407	4578457
@@ -557,7 +569,7 @@ pb	408	0412	4578462
 pb	409	0413	4578463
 entry	Pinckard (Georges) [L. Hahn]	0	
 orth	Pinckard (Georges)		
-entry	Pinckneya [Ed. Lefèvre]	0	
+entry	Pinckneya [Ed. Lefèvre] (bibliographie)	0	
 orth	Pinckneya		
 entry	Pindaïba	0	
 ref	Xylopia		
@@ -565,13 +577,17 @@ entry	Pinéale (Glande)	0
 ref	Cerveau		
 entry	Pineau (Séverin) [L. Hahn]	0	
 orth	Pineau (Séverin)		
-entry	Pinel (Les) [L. Hahn]	1	
+entry	Pinel (Les) [L. Hahn]	0	
 orth	Pinel (Les)		
 pb	410	0414	4578464
-entry	Pingouin [E. Oustalet]	2	
+entry	Pinel (Les) [L. Hahn] (bibliographie)	0	
+orth	Pinel (Les)		
+entry	Pingouin [E. Oustalet]	1	
 orth	Pingouin		
 pb	411	0415	4578465
 pb	412	0416	4578466
+entry	Pingouin [E. Oustalet] (bibliographie)	0	
+orth	Pingouin		
 entry	Pinguicule	0	
 ref	Grassette		
 entry	Pinicorrétine [C. Lutz]	0	
@@ -594,14 +610,18 @@ orth	Pinne
 pb	414	0418	4578468
 entry	Pinnothère [Ed. Lefèvre]	0	
 orth	Pinnothère		
-entry	Pinson [E. Oustalet]	1	
+entry	Pinson [E. Oustalet]	0	
 orth	Pinson		
 pb	415	0419	4578469
+entry	Pinson [E. Oustalet] (bibliographie)	0	
+orth	Pinson		
 entry	Pinta	0	
 ref	Géographie médicale		
-entry	Pintade [E. Oustalet]	1	
+entry	Pintade [E. Oustalet]	0	
 orth	Pintade		
 pb	416	0420	4578470
+entry	Pintade [E. Oustalet] (bibliographie)	0	
+orth	Pintade		
 entry	Pintor (Pedro) [L. Hahn]	0	
 orth	Pintor (Pedro)		
 entry	Pintos (Mal de los)	0	
@@ -611,10 +631,12 @@ entry	Pinus	0
 ref	Pin		
 entry	Piorry (Pierre-Adolphe) [L. Hahn]	0	
 orth	Piorry (Pierre-Adolphe)		
-entry	Pioule (Eau minérale de) [A. Rotureau]	2	
+entry	Pioule (Eau minérale de) [A. Rotureau]	1	
 orth	Pioule (Eau minérale de)		
 pb	418	0422	4578472
 pb	419	0423	4578473
+entry	Pioule (Eau minérale de) [A. Rotureau] (bibliographie)	0	
+orth	Pioule (Eau minérale de)		
 entry	Pipa [H.-E. Sauvage]	0	
 orth	Pipa		
 entry	Pipelet (Les) [L. Hahn]	0	
@@ -651,7 +673,7 @@ entry	Piptostegia [Ed. Lefèvre]	0
 orth	Piptostegia		
 entry	Piquer (Andres) [L. Hahn]	0	
 orth	Piquer (Andres)		
-entry	Piqûre anatomique [J. Chauvel]	19	
+entry	Piqûre anatomique [J. Chauvel]	17	
 orth	Piqûre anatomique		
 pb	424	0428	4578478
 pb	425	0429	4578479
@@ -671,6 +693,8 @@ pb	438	0442	4578492
 pb	439	0443	4578493
 pb	440	0444	4578494
 pb	441	0445	4578495
+entry	Piqûre anatomique [J. Chauvel] (bibliographie)	1	
+orth	Piqûre anatomique		
 pb	442	0446	4578496
 entry	Piqûre chirurgicale	0	
 ref	Opérations		
@@ -683,7 +707,7 @@ orth	Piriguara
 entry	Piringer (Joseph-Friedrich) [L. Hahn]	0	
 orth	Piringer (Joseph-Friedrich)		
 pb	443	0447	4578497
-entry	Pirogov (Nicolai-Ivanovitch) [L. Hahn]	0	
+entry	Pirogov (Nicolai-Ivanovitch) [L. Hahn] (bibliographie)	0	
 orth	Pirogov (Nicolai-Ivanovitch)		
 entry	Pirrie (William) [L. Hahn]	0	
 orth	Pirrie (William)		
@@ -707,7 +731,7 @@ entry	Pisiforme (Os)	0
 ref	Main		
 entry	Pison (Willem) [L. Hahn]	0	
 orth	Pison (Willem)		
-entry	Pisonia [Ed. Lefèvre]	0	
+entry	Pisonia [Ed. Lefèvre] (bibliographie)	0	
 orth	Pisonia		
 entry	Pisséleon	0	
 ref	Poix		
@@ -724,9 +748,11 @@ entry	Pistache	0
 ref	Pistachier		
 entry	Pistache de terre	0	
 ref	Arachide		
-entry	Pistachier [H. Baillon]	1	
+entry	Pistachier [H. Baillon]	0	
 orth	Pistachier		
 pb	453	0457	4578507
+entry	Pistachier [H. Baillon] (bibliographie)	0	
+orth	Pistachier		
 entry	Pistia [Ed. Lefèvre]	1	
 orth	Pistia		
 pb	454	0458	4578508
@@ -753,7 +779,7 @@ entry	Pitha (Franz von) [L. Hahn]	0
 orth	Pitha (Franz von)		
 entry	Pithéciens	0	
 ref	Singes		
-entry	Pithecolorium [Ed. Lefèvre]	0	
+entry	Pithecolorium [Ed. Lefèvre] (bibliographie)	0	
 orth	Pithecolorium		
 entry	Pitixylonique (Acide) [C. Lutz]	1	
 orth	Pitixylonique (Acide)		
@@ -766,7 +792,7 @@ entry	Pittacalle [C. Lutz]	0
 orth	Pittacalle		
 entry	Pitte	0	
 ref	Agave		
-entry	Pittospore [H. Baillon]	0	
+entry	Pittospore [H. Baillon] (bibliographie)	0	
 orth	Pittospore		
 entry	Pituitaire (Glande, Tige)	0	
 ref	Cerveau		
@@ -804,7 +830,7 @@ pb	485	0489	4578539
 pb	486	0490	4578540
 pb	487	0491	4578541
 entry	Pivoine	0	
-entry	Pivoine. Botanique [H. Baillon]	1	
+entry	Pivoine. Botanique [H. Baillon] (bibliographie)	1	
 orth	Pivoine. Botanique		
 pb	488	0492	4578542
 entry	Pivoine. Emploi médical [Ernest Labbée]	1	
@@ -883,11 +909,13 @@ ref	Crâne
 ref	Brachycéphale		
 entry	Plagiodon [H.-E. Sauvage]	0	
 orth	Plagiodon		
-entry	Plagiostomes [H.-E. Sauvage]	2	
+entry	Plagiostomes [H.-E. Sauvage]	1	
 orth	Plagiostomes		
 pb	542	0546	4578596
 pb	543	0547	4578597
-entry	Plaie [J. Chauvel]	202	
+entry	Plagiostomes [H.-E. Sauvage] (bibliographie)	0	
+orth	Plagiostomes		
+entry	Plaie [J. Chauvel]	95	
 orth	Plaie		
 pb	544	0548	4578598
 pb	545	0549	4578599
@@ -985,8 +1013,12 @@ pb	636	0640	4578690
 pb	637	0641	4578691
 pb	638	0642	4578692
 pb	639	0643	4578693
+entry	Plaie [J. Chauvel] (bibliographie)	1	
+orth	Plaie		
 pb	640	0644	4578694
 pb	641	0645	4578695
+entry	Plaie [J. Chauvel]	103	
+orth	Plaie		
 pb	642	0646	4578696
 pb	643	0647	4578697
 pb	644	0648	4578698
@@ -1091,6 +1123,8 @@ pb	742	0746	4578796
 pb	743	0747	4578797
 pb	744	0748	4578798
 pb	745	0749	4578799
+entry	Plaie [J. Chauvel] (bibliographie)	0	
+orth	Plaie		
 entry	Plan (Le) (Eau minérale de)	0	
 ref	Le Plan		
 entry	Pland-de-Phazy (Eaux minérales de) [A. Rotureau]	0	
@@ -1105,12 +1139,12 @@ entry	Planchon (Jean-Baptiste) [L. Hahn]	0
 orth	Planchon (Jean-Baptiste)		
 entry	Plançon ou Plancy (Guillaume) [L. Hahn]	0	
 orth	Plançon ou Plancy (Guillaume)		
-entry	Planer (Les deux) [L. Hahn]	0	
+entry	Planer (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Planer (Les deux)		
 entry	Planorbe [Ed. Lefèvre]	1	
 orth	Planorbe		
 pb	748	0752	4578802
-entry	Planque (François) [L. Hahn]	0	
+entry	Planque (François) [L. Hahn] (bibliographie)	0	
 orth	Planque (François)		
 entry	Plantaginacées ou Plantaginées [Ed. Lefèvre]	0	
 orth	Plantaginacées ou Plantaginées		
@@ -1118,7 +1152,7 @@ entry	Plantago	0
 ref	Plantain		
 pb	749	0753	4578803
 entry	Plantain	0	
-entry	Plantain. Botanique [Ed. Lefèvre]	1	
+entry	Plantain. Botanique [Ed. Lefèvre] (bibliographie)	1	
 orth	Plantain. Botanique		
 pb	750	0754	4578804
 entry	Plantain. Emploi médical [Ernest Labbée]	1	
@@ -1139,14 +1173,16 @@ ref	Pied
 entry	Plantations	0	
 ref	Villes		
 ref	Rurale (Hygiène)		
-entry	Plantigrades [E. Oustalet]	0	
+entry	Plantigrades [E. Oustalet] (bibliographie)	0	
 orth	Plantigrades		
 entry	Planum (Os)	0	
 ref	Crâne		
 ref	Orbite		
-entry	Plaqueminier [Ed. Lefèvre]	1	
+entry	Plaqueminier [Ed. Lefèvre]	0	
 orth	Plaqueminier		
 pb	755	0759	4578809
+entry	Plaqueminier [Ed. Lefèvre] (bibliographie)	0	
+orth	Plaqueminier		
 entry	Plaques de Peyer	0	
 ref	Intestin		
 entry	Plaques Laiteuses	0	
@@ -1155,7 +1191,7 @@ entry	Plaques Motrices	0
 ref	Nerfs (Anatomie)		
 entry	Plaques Muqueuses	0	
 ref	Syphilis		
-entry	Plasma [Ed. Retterer]	26	
+entry	Plasma [Ed. Retterer]	25	
 orth	Plasma		
 pb	756	0760	4578810
 pb	757	0761	4578811
@@ -1183,6 +1219,8 @@ pb	778	0782	4578832
 pb	779	0783	4578833
 pb	780	0784	4578834
 pb	781	0785	4578835
+entry	Plasma [Ed. Retterer] (bibliographie)	0	
+orth	Plasma		
 pb	782	0786	4578836
 entry	Plasmatique [Ed. Retterer]	7	
 orth	Plasmatique		
@@ -1205,12 +1243,12 @@ pb	792	0796	4578846
 pb	793	0797	4578847
 pb	794	0798	4578848
 pb	795	0799	4578849
-entry	Platane [H. Baillon]	0	
+entry	Platane [H. Baillon] (bibliographie)	0	
 orth	Platane		
 entry	Platearius (De Platea) [L. Hahn]	1	
 orth	Platearius (De Platea)		
 pb	796	0800	4578850
-entry	Plater ou Platter (Les) [L. Hahn]	0	
+entry	Plater ou Platter (Les) [L. Hahn] (bibliographie)	0	
 orth	Plater ou Platter (Les)		
 entry	Platinage des glaces	0	
 ref	Glaces		

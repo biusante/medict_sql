@@ -547,7 +547,7 @@ orth	Ipécacuanha. Botanique
 pb	391	0395	4539099
 pb	392	0396	4539100
 pb	393	0397	4539101
-entry	Ipécacuanha. Emploi médical [Ch. Debierre]	9	
+entry	Ipécacuanha. Emploi médical [Ch. Debierre]	8	
 orth	Ipécacuanha. Emploi médical		
 pb	394	0398	4539102
 pb	395	0399	4539103
@@ -558,10 +558,14 @@ pb	399	0403	4539107
 pb	400	0404	4539108
 pb	401	0405	4539109
 pb	402	0406	4539110
-entry	Ipomée [H. Baillon]	2	
+entry	Ipécacuanha. Emploi médical [Ch. Debierre] (bibliographie)	0	
+orth	Ipécacuanha. Emploi médical		
+entry	Ipomée [H. Baillon]	1	
 orth	Ipomée		
 pb	403	0407	4539111
 pb	404	0408	4539112
+entry	Ipomée [H. Baillon] (bibliographie)	0	
+orth	Ipomée		
 entry	Ipomique (Acide) [L. Hahn]	0	
 orth	Ipomique (Acide)		
 entry	Iridacées ou Iridées [Ed. Lefèvre]	0	
@@ -639,7 +643,7 @@ pb	454	0458	4539162
 pb	455	0459	4539163
 pb	456	0460	4539164
 pb	457	0461	4539165
-entry	Iris. Médecine opératoire [J. Chauvel, H. Nimier]	10	
+entry	Iris. Médecine opératoire [J. Chauvel, H. Nimier]	9	
 orth	Iris. Médecine opératoire		
 pb	458	0462	4539166
 pb	459	0463	4539167
@@ -651,6 +655,8 @@ pb	464	0468	4539172
 pb	465	0469	4539173
 pb	466	0470	4539174
 pb	467	0471	4539175
+entry	Iris. Médecine opératoire [J. Chauvel, H. Nimier] (bibliographie)	0	
+orth	Iris. Médecine opératoire		
 entry	Iris	0	
 entry	Iris. Botanique [Ed. Lefèvre]	1	
 orth	Iris. Botanique		
@@ -909,7 +915,7 @@ pb	528	0532	4539236
 entry	Ixora (L.) [H. Baillon]	0	
 orth	Ixora (L.)		
 pb	529	0533	4539237
-entry	Jabiru [E. Oustalet]	0	
+entry	Jabiru [E. Oustalet] (bibliographie)	0	
 orth	Jabiru		
 pb	530	0534	4539238
 entry	Jaborandi	0	
@@ -943,9 +949,11 @@ pb	551	0555	4539259
 pb	552	0556	4539260
 pb	553	0557	4539261
 pb	554	0558	4539262
-entry	Jacamar [E. Oustalet]	1	
+entry	Jacamar [E. Oustalet]	0	
 orth	Jacamar		
 pb	555	0559	4539263
+entry	Jacamar [E. Oustalet] (bibliographie)	0	
+orth	Jacamar		
 entry	Jacana [E. Oustalet]	0	
 orth	Jacana		
 entry	Jacaranda [Ed. Lefèvre]	1	
@@ -976,7 +984,7 @@ entry	Jacobson (Rameau de)	0
 ref	Glosso-pharyngien (Nerf)		
 entry	Jacquemier (Jean-Marie) [L. Hahn]	0	
 orth	Jacquemier (Jean-Marie)		
-entry	Jacques (Les) [L. Hahn]	1	
+entry	Jacques (Les) [L. Hahn] (bibliographie)	1	
 orth	Jacques (Les)		
 pb	558	0562	4539266
 entry	Jacquier	0	
@@ -1129,7 +1137,7 @@ orth	Japonique (Acide)
 pb	642	0646	4539350
 entry	Jarjavay (Jean-François) [L. Hahn]	0	
 orth	Jarjavay (Jean-François)		
-entry	Jaseur [E. Oustalet]	1	
+entry	Jaseur [E. Oustalet] (bibliographie)	1	
 orth	Jaseur		
 pb	643	0647	4539351
 entry	Jasmin [H. Baillon]	0	
@@ -1215,7 +1223,7 @@ orth	Jean (Les)
 entry	Jean de Luz (Saint-) (Station marine) [A. Rotureau]	1	
 orth	Jean de Luz (Saint-) (Station marine)		
 pb	699	0703	4539407
-entry	Jeffersonia (Bart.) [H. Baillon]	0	
+entry	Jeffersonia (Bart.) [H. Baillon] (bibliographie)	0	
 orth	Jeffersonia (Bart.)		
 entry	Jéjunum	0	
 ref	Intestin		
@@ -1259,11 +1267,13 @@ orth	Jose ou Médague (Eaux minérales de)
 entry	Joserand (Eaux minérales de) [A. Rotureau]	1	
 orth	Joserand (Eaux minérales de)		
 pb	707	0711	4539415
-entry	Joubarbe [H. Baillon]	0	
+entry	Joubarbe [H. Baillon] (bibliographie)	0	
 orth	Joubarbe		
-entry	Joubert (Laurent) [L. Hahn]	1	
+entry	Joubert (Laurent) [L. Hahn]	0	
 orth	Joubert (Laurent)		
 pb	708	0712	4539416
+entry	Joubert (Laurent) [L. Hahn] (bibliographie)	0	
+orth	Joubert (Laurent)		
 entry	Joue	0	
 ref	Face		
 ref	Génoplastie		
@@ -1288,9 +1298,11 @@ entry	Jugulaires (Veines) [L. Testut]	2
 orth	Jugulaires (Veines)		
 pb	710	0714	4539418
 pb	711	0715	4539419
-entry	Jujubier [H. Baillon]	1	
+entry	Jujubier [H. Baillon]	0	
 orth	Jujubier		
 pb	712	0716	4539420
+entry	Jujubier [H. Baillon] (bibliographie)	0	
+orth	Jujubier		
 entry	Julep	0	
 ref	Potion		
 entry	Julia de Fontenelle	0	
@@ -1317,7 +1329,7 @@ entry	Juripeba [L. Hahn]	0
 orth	Juripeba		
 pb	715	0719	4539423
 entry	Jusquiame	0	
-entry	Jusquiame. Botanique [H. Baillon]	1	
+entry	Jusquiame. Botanique [H. Baillon] (bibliographie)	1	
 orth	Jusquiame. Botanique		
 pb	716	0720	4539424
 entry	Jusquiame. Emploi médical [Charles Éloy]	5	
@@ -1342,9 +1354,11 @@ entry	Kaemféride ou Kaemférine [L. Hahn]	0
 orth	Kaemféride ou Kaemférine		
 entry	Kafirs	0	
 ref	Asie		
-entry	Kagou [E. Oustalet]	1	
+entry	Kagou [E. Oustalet]	0	
 orth	Kagou		
 pb	724	0728	4539432
+entry	Kagou [E. Oustalet] (bibliographie)	0	
+orth	Kagou		
 entry	Kaï-Meuou [Édouard Heckel]	1	
 orth	Kaï-Meuou		
 pb	725	0729	4539433
@@ -1355,7 +1369,7 @@ orth	Kakodyle
 pb	726	0730	4539434
 entry	Kalanchoe [Ed. Lefèvre]	0	
 orth	Kalanchoe		
-entry	Kalmia (L.) [H. Baillon]	0	
+entry	Kalmia (L.) [H. Baillon] (bibliographie)	0	
 orth	Kalmia (L.)		
 entry	Kalmouks	0	
 ref	Sibérie		
@@ -1365,13 +1379,17 @@ orth	Kaltbad (Eau minérale, hydrothérapie et cure de petit-lait)
 pb	727	0731	4539435
 entry	Kamala	0	
 ref	Echinus		
-entry	Kamichi [E. Oustalet]	1	
+entry	Kamichi [E. Oustalet]	0	
 orth	Kamichi		
 pb	728	0732	4539436
-entry	Kangourou [E. Oustalet]	2	
+entry	Kamichi [E. Oustalet] (bibliographie)	0	
+orth	Kamichi		
+entry	Kangourou [E. Oustalet]	1	
 orth	Kangourou		
 pb	729	0733	4539437
 pb	730	0734	4539438
+entry	Kangourou [E. Oustalet] (bibliographie)	0	
+orth	Kangourou		
 entry	Kanold (Johann) [L. Hahn]	0	
 orth	Kanold (Johann)		
 entry	Kapnomancie	0	
@@ -1447,7 +1465,7 @@ ref	Pétrole
 entry	Kétines [L. Hahn]	1	
 orth	Kétines		
 pb	747	0751	4539455
-entry	Ketmie [H. Baillon]	0	
+entry	Ketmie [H. Baillon] (bibliographie)	0	
 orth	Ketmie		
 entry	Kétones [L. Hahn]	0	
 orth	Kétones		
@@ -1477,7 +1495,7 @@ pb	751	0755	4539459
 pb	752	0756	4539460
 pb	753	0757	4539461
 pb	754	0758	4539462
-entry	Kiwisch (Franz) [L. Hahn]	0	
+entry	Kiwisch (Franz) [L. Hahn] (bibliographie)	0	
 orth	Kiwisch (Franz)		
 entry	Kleptomanie	0	
 ref	Monomanie		
@@ -1543,7 +1561,7 @@ pb	769	0773	4539477
 pb	770	0774	4539478
 entry	Krause (Carl) [A. Dureau]	0	
 orth	Krause (Carl)		
-entry	Krause (Carl-Friedrich-Theodor) [L. Hahn]	0	
+entry	Krause (Carl-Friedrich-Theodor) [L. Hahn] (bibliographie)	0	
 orth	Krause (Carl-Friedrich-Theodor)		
 entry	Kreuth (Eaux minérales et cure de petit-lait) [A. Rotureau]	1	
 orth	Kreuth (Eaux minérales et cure de petit-lait)		
@@ -1555,9 +1573,11 @@ pb	773	0777	4539481
 pb	774	0778	4539482
 pb	775	0779	4539483
 pb	776	0780	4539484
-entry	Kreysig (Friedrich-Ludwig) [L. Hahn]	1	
+entry	Kreysig (Friedrich-Ludwig) [L. Hahn]	0	
 orth	Kreysig (Friedrich-Ludwig)		
 pb	777	0781	4539485
+entry	Kreysig (Friedrich-Ludwig) [L. Hahn] (bibliographie)	0	
+orth	Kreysig (Friedrich-Ludwig)		
 entry	Krishaber (Maurice) [A. Dureau]	0	
 orth	Krishaber (Maurice)		
 entry	Krithmomancie	0	
@@ -1584,7 +1604,7 @@ entry	Kyestéine [L. Hahn]	0
 orth	Kyestéine		
 entry	Kymris ou Cimbres	0	
 ref	France (Anthropologie)		
-entry	Kystes [E. Kirmisson]	25	
+entry	Kystes [E. Kirmisson]	23	
 orth	Kystes		
 pb	780	0784	4539488
 pb	781	0785	4539489
@@ -1610,6 +1630,8 @@ pb	800	0804	4539508
 pb	801	0805	4539509
 pb	802	0806	4539510
 pb	803	0807	4539511
+entry	Kystes [E. Kirmisson] (bibliographie)	1	
+orth	Kystes		
 pb	804	0808	4539512
 entry	Kystitome	0	
 ref	Cataracte		

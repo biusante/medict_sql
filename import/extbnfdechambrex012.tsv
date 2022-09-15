@@ -6,7 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4507134
 pb	1	0005	4507135
 entry	Camomille	0	
-entry	Camomille. Botanique [G. Planchon]	2	
+entry	Camomille. Botanique [G. Planchon] (bibliographie)	2	
 orth	Camomille. Botanique		
 pb	2	0006	4507136
 pb	3	0007	4507137
@@ -15,7 +15,7 @@ orth	Camomille. Emploi médical
 pb	4	0008	4507138
 pb	5	0009	4507139
 pb	6	0010	4507140
-entry	Camp, Campement [Michel Lévy, E. Boisseau]	68	
+entry	Camp, Campement [Michel Lévy, E. Boisseau]	65	
 orth	Camp, Campement		
 pb	7	0011	4507141
 pb	8	0012	4507142
@@ -83,38 +83,52 @@ pb	69	0073	4507203
 pb	70	0074	4507204
 pb	71	0075	4507205
 pb	72	0076	4507206
+entry	Camp, Campement [Michel Lévy, E. Boisseau] (bibliographie)	2	
+orth	Camp, Campement		
 pb	73	0077	4507207
 pb	74	0078	4507208
-entry	Campagne (Eaux minérales de) [A. Rotureau]	2	
+entry	Campagne (Eaux minérales de) [A. Rotureau]	1	
 orth	Campagne (Eaux minérales de)		
 pb	75	0079	4507209
 pb	76	0080	4507210
+entry	Campagne (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Campagne (Eaux minérales de)		
 entry	Campana [H. Baillon]	0	
 orth	Campana		
-entry	Campanella (Thomas) [A. Chéreau]	1	
+entry	Campanella (Thomas) [A. Chéreau]	0	
 orth	Campanella (Thomas)		
 pb	77	0081	4507211
-entry	Campanule, Campanulacées [H. Baillon]	2	
+entry	Campanella (Thomas) [A. Chéreau] (bibliographie)	0	
+orth	Campanella (Thomas)		
+entry	Campanule, Campanulacées [H. Baillon]	1	
 orth	Campanule, Campanulacées		
 pb	78	0082	4507212
 pb	79	0083	4507213
+entry	Campanule, Campanulacées [H. Baillon] (bibliographie)	0	
+orth	Campanule, Campanulacées		
 entry	Campardon [E. Beaugrand]	0	
 orth	Campardon		
-entry	Campbell (William) [E. Beaugrand]	1	
+entry	Campbell (William) [E. Beaugrand]	0	
 orth	Campbell (William)		
 pb	80	0084	4507214
-entry	Campêche (Bois de) [H. Baillon]	1	
+entry	Campbell (William) [E. Beaugrand] (bibliographie)	0	
+orth	Campbell (William)		
+entry	Campêche (Bois de) [H. Baillon]	0	
 orth	Campêche (Bois de)		
 pb	81	0085	4507215
+entry	Campêche (Bois de) [H. Baillon] (bibliographie)	0	
+orth	Campêche (Bois de)		
 entry	Campegius	0	
 ref	Champier		
 entry	Campement	0	
 ref	Camp		
-entry	Camper (Pierre) [H. Montanier]	3	
+entry	Camper (Pierre) [H. Montanier]	2	
 orth	Camper (Pierre)		
 pb	82	0086	4507216
 pb	83	0087	4507217
 pb	84	0088	4507218
+entry	Camper (Pierre) [H. Montanier] (bibliographie)	0	
+orth	Camper (Pierre)		
 entry	Campet (Pierre) [H. Montanier]	0	
 orth	Campet (Pierre)		
 entry	Camphamide (Camphoramide) [Malaguti]	0	
@@ -132,24 +146,28 @@ entry	Camphique (Acide) [Amédée Dechambre]	0
 orth	Camphique (Acide)		
 entry	Camphocréosote [Amédée Dechambre]	0	
 orth	Camphocréosote		
-entry	Camphogène [Malaguti]	0	
+entry	Camphogène [Malaguti] (bibliographie)	0	
 orth	Camphogène		
 entry	Campholates	0	
 ref	Campholique (Acide)		
 entry	Campholène [Malaguti]	0	
 orth	Campholène		
-entry	Campholique (Acide) [Malaguti]	1	
+entry	Campholique (Acide) [Malaguti]	0	
 orth	Campholique (Acide)		
 pb	86	0090	4507220
+entry	Campholique (Acide) [Malaguti] (bibliographie)	0	
+orth	Campholique (Acide)		
 entry	Campholone [Malaguti]	0	
 orth	Campholone		
 entry	Camphora [H. Baillon]	0	
 orth	Camphora		
 entry	Camphora ou Camphorina [H. Baillon]	0	
 orth	Camphora ou Camphorina		
-entry	Camphorates [Malaguti]	1	
+entry	Camphorates [Malaguti]	0	
 orth	Camphorates		
 pb	87	0091	4507221
+entry	Camphorates [Malaguti] (bibliographie)	0	
+orth	Camphorates		
 entry	Camphorine [Malaguti]	0	
 orth	Camphorine		
 entry	Camphorique (Acide) [Malaguti]	0	
@@ -159,7 +177,7 @@ orth	Camphorique anhydre (Acide)
 entry	Camphorique (Éther)	0	
 ref	Éthers		
 pb	88	0092	4507222
-entry	Camphovinique (Acide) [Malaguti]	0	
+entry	Camphovinique (Acide) [Malaguti] (bibliographie)	0	
 orth	Camphovinique (Acide)		
 entry	Camphre	0	
 ref	Camphres		
@@ -173,7 +191,7 @@ entry	Camphrénique (Acide) [Amédée Dechambre]	0
 orth	Camphrénique (Acide)		
 pb	89	0093	4507223
 entry	Camphres	0	
-entry	Camphres. Chimie [Malaguti]	1	
+entry	Camphres. Chimie [Malaguti] (bibliographie)	1	
 orth	Camphres. Chimie		
 pb	90	0094	4507224
 entry	Camphres. Pharmacologie [T. Gobley]	5	
@@ -201,14 +219,16 @@ pb	108	0112	4507242
 pb	109	0113	4507243
 pb	110	0114	4507244
 pb	111	0115	4507245
-entry	Camphres. Toxicologie [J. Delioux de Savignac]	2	
+entry	Camphres. Toxicologie [J. Delioux de Savignac]	1	
 orth	Camphres. Toxicologie		
 pb	112	0116	4507246
 pb	113	0117	4507247
+entry	Camphres. Toxicologie [J. Delioux de Savignac] (bibliographie)	0	
+orth	Camphres. Toxicologie		
 entry	Camphrier de Bornéo [H. Baillon]	1	
 orth	Camphrier de Bornéo		
 pb	114	0118	4507248
-entry	Camphrone [Malaguti]	0	
+entry	Camphrone [Malaguti] (bibliographie)	0	
 orth	Camphrone		
 entry	Campolongo (Emilio) [E. Beaugrand]	0	
 orth	Campolongo (Emilio)		
@@ -216,9 +236,11 @@ entry	Camptis [H. Baillon]	0
 orth	Camptis		
 entry	Campy (Planis de)	0	
 ref	Planis		
-entry	Camus (Antoine Le) [A. Chéreau]	2	
+entry	Camus (Antoine Le) [A. Chéreau]	0	
 orth	Camus (Antoine Le)		
 pb	115	0119	4507249
+entry	Camus (Antoine Le) [A. Chéreau] (bibliographie)	1	
+orth	Camus (Antoine Le)		
 pb	116	0120	4507250
 entry	Canada	0	
 entry	Canada. Géographie [Richard Cortambert]	3	
@@ -232,7 +254,7 @@ entry	Canada. Démographie [Richard Cortambert]	1
 orth	Canada. Démographie		
 pb	121	0125	4507255
 pb	122	0126	4507256
-entry	Canada. Démographie [Richard Cortambert] [L.]	0	
+entry	Canada. Démographie [Richard Cortambert] (bibliographie) [L.]	0	
 orth	Canada. Démographie		
 entry	Canal artériel [Amédée Dechambre]	0	
 orth	Canal artériel		
@@ -261,11 +283,13 @@ entry	Canal de Wharton	0
 ref	Salivaires (glandes)		
 entry	Canal de Wirsung	0	
 ref	Pancréas		
-entry	Canang [H. Baillon]	0	
+entry	Canang [H. Baillon] (bibliographie)	0	
 orth	Canang		
-entry	Canape ou Canappe (Jean) [E. Beaugrand]	1	
+entry	Canape ou Canappe (Jean) [E. Beaugrand]	0	
 orth	Canape ou Canappe (Jean)		
 pb	124	0128	4507258
+entry	Canape ou Canappe (Jean) [E. Beaugrand] (bibliographie)	0	
+orth	Canape ou Canappe (Jean)		
 entry	Canard [A. Laboulbène]	8	
 orth	Canard		
 pb	125	0129	4507259
@@ -276,7 +300,7 @@ pb	129	0133	4507263
 pb	130	0134	4507264
 pb	131	0135	4507265
 pb	132	0136	4507266
-entry	Canaries (Iles) [A. Le Roy de Méricourt]	9	
+entry	Canaries (Iles) [A. Le Roy de Méricourt]	8	
 orth	Canaries (Iles)		
 pb	133	0137	4507267
 pb	134	0138	4507268
@@ -287,20 +311,26 @@ pb	138	0142	4507272
 pb	139	0143	4507273
 pb	140	0144	4507274
 pb	141	0145	4507275
-entry	Canarium (L.) [H. Baillon]	1	
+entry	Canaries (Iles) [A. Le Roy de Méricourt] (bibliographie)	0	
+orth	Canaries (Iles)		
+entry	Canarium (L.) [H. Baillon]	0	
 orth	Canarium (L.)		
 pb	142	0146	4507276
+entry	Canarium (L.) [H. Baillon] (bibliographie)	0	
+orth	Canarium (L.)		
 entry	Canaux demi-circulaires	0	
 ref	Oreilles		
 entry	Canaux éjaculateurs	0	
 ref	Spermatiques (voies)		
-entry	Canaux (Hygiène publique) [E. Beaugrand]	5	
+entry	Canaux (Hygiène publique) [E. Beaugrand]	4	
 orth	Canaux (Hygiène publique)		
 pb	143	0147	4507277
 pb	144	0148	4507278
 pb	145	0149	4507279
 pb	146	0150	4507280
 pb	147	0151	4507281
+entry	Canaux (Hygiène publique) [E. Beaugrand] (bibliographie)	0	
+orth	Canaux (Hygiène publique)		
 entry	Canaveilles (Eau minérale de) [A. Rotureau]	0	
 orth	Canaveilles (Eau minérale de)		
 entry	Cancale (Station marine) [A. Rotureau]	1	
@@ -308,27 +338,33 @@ orth	Cancale (Station marine)
 pb	148	0152	4507282
 entry	Cancame, Cancamon, Cancamum [H. Baillon]	0	
 orth	Cancame, Cancamon, Cancamum		
-entry	Cancer [V. Cornil]	6	
+entry	Cancer [V. Cornil]	4	
 orth	Cancer		
 pb	149	0153	4507283
 pb	150	0154	4507284
 pb	151	0155	4507285
 pb	152	0156	4507286
 pb	153	0157	4507287
+entry	Cancer [V. Cornil] (bibliographie)	1	
+orth	Cancer		
 pb	154	0158	4507288
-entry	Canchalagua ou Cachen-Lahuen [G. Planchon]	1	
+entry	Canchalagua ou Cachen-Lahuen [G. Planchon]	0	
 orth	Canchalagua ou Cachen-Lahuen		
 pb	155	0159	4507289
+entry	Canchalagua ou Cachen-Lahuen [G. Planchon] (bibliographie)	0	
+orth	Canchalagua ou Cachen-Lahuen		
 entry	Candé (Eaux minérales de) [A. Rotureau]	0	
 orth	Candé (Eaux minérales de)		
 entry	Candi	0	
 ref	Sucre		
 entry	Candie	0	
 ref	Grèce		
-entry	Candolle (Auguste-Pyramus de) [A. Chéreau]	2	
+entry	Candolle (Auguste-Pyramus de) [A. Chéreau]	1	
 orth	Candolle (Auguste-Pyramus de)		
 pb	156	0160	4507290
 pb	157	0161	4507291
+entry	Candolle (Auguste-Pyramus de) [A. Chéreau] (bibliographie)	0	
+orth	Candolle (Auguste-Pyramus de)		
 entry	Canella de Cheiro [H. Baillon]	0	
 orth	Canella de Cheiro		
 entry	Canellacées, Canellées [H. Baillon]	0	
@@ -337,19 +373,23 @@ entry	Canelo [H. Baillon]	0
 orth	Canelo		
 entry	Canepin [Amédée Dechambre]	0	
 orth	Canepin		
-entry	Canevari (Demetrio) [A. Chéreau]	1	
+entry	Canevari (Demetrio) [A. Chéreau]	0	
 orth	Canevari (Demetrio)		
 pb	158	0162	4507292
+entry	Canevari (Demetrio) [A. Chéreau] (bibliographie)	0	
+orth	Canevari (Demetrio)		
 entry	Cangiamila (François-Emmanuel) [H. Montanier]	0	
 orth	Cangiamila (François-Emmanuel)		
 entry	Canin (Muscle) [Amédée Dechambre]	0	
 orth	Canin (Muscle)		
 pb	159	0163	4507293
-entry	Canitie (Canities) [Jules Worms]	3	
+entry	Canitie (Canities) [Jules Worms]	2	
 orth	Canitie (Canities)		
 pb	160	0164	4507294
 pb	161	0165	4507295
 pb	162	0166	4507296
+entry	Canitie (Canities) [Jules Worms] (bibliographie)	0	
+orth	Canitie (Canities)		
 entry	Canna	0	
 ref	Balisier		
 entry	Cannabène [Amédée Dechambre]	0	
@@ -361,7 +401,7 @@ ref	Chanvre
 entry	Cannacées Agardh ou Cannées Rob. Brown [G. Planchon]	1	
 orth	Cannacées Agardh ou Cannées Rob. Brown		
 pb	163	0167	4507297
-entry	Cannani (Jean-Baptiste) [H. Montanier]	0	
+entry	Cannani (Jean-Baptiste) [H. Montanier] (bibliographie)	0	
 orth	Cannani (Jean-Baptiste)		
 entry	Canne	0	
 entry	Botanique [H. Baillon]	0	
@@ -377,18 +417,20 @@ pb	166	0170	4507300
 pb	167	0171	4507301
 pb	168	0172	4507302
 pb	169	0173	4507303
-entry	Cannelle. Emploi médical [J. Delioux de Savignac]	5	
+entry	Cannelle. Emploi médical [J. Delioux de Savignac]	4	
 orth	Cannelle. Emploi médical		
 pb	170	0174	4507304
 pb	171	0175	4507305
 pb	172	0176	4507306
 pb	173	0177	4507307
 pb	174	0178	4507308
+entry	Cannelle. Emploi médical [J. Delioux de Savignac] (bibliographie)	0	
+orth	Cannelle. Emploi médical		
 entry	Cannelier [H. Baillon]	1	
 orth	Cannelier		
 pb	175	0179	4507309
 pb	176	0180	4507310
-entry	Cannellier [H. Baillon]	1	
+entry	Cannellier [H. Baillon] (bibliographie)	1	
 orth	Cannellier		
 pb	177	0181	4507311
 entry	Canneline	0	
@@ -402,20 +444,26 @@ pb	181	0185	4507315
 pb	182	0186	4507316
 pb	183	0187	4507317
 pb	184	0188	4507318
-entry	Cannet (Le) [A. Rotureau]	1	
+entry	Cannet (Le) [A. Rotureau]	0	
 orth	Cannet (Le)		
 pb	185	0189	4507319
+entry	Cannet (Le) [A. Rotureau] (bibliographie)	0	
+orth	Cannet (Le)		
 entry	Cannissiers	0	
 ref	Vanniers		
-entry	Cannstatt (Eaux minérales et boues de) [A. Rotureau]	4	
+entry	Cannstatt (Eaux minérales et boues de) [A. Rotureau]	3	
 orth	Cannstatt (Eaux minérales et boues de)		
 pb	186	0190	4507320
 pb	187	0191	4507321
 pb	188	0192	4507322
 pb	189	0193	4507323
-entry	Canstatt (Karl-Friedr.) [E. Beaugrand]	1	
+entry	Cannstatt (Eaux minérales et boues de) [A. Rotureau] (bibliographie)	0	
+orth	Cannstatt (Eaux minérales et boues de)		
+entry	Canstatt (Karl-Friedr.) [E. Beaugrand]	0	
 orth	Canstatt (Karl-Friedr.)		
 pb	190	0194	4507324
+entry	Canstatt (Karl-Friedr.) [E. Beaugrand] (bibliographie)	0	
+orth	Canstatt (Karl-Friedr.)		
 entry	Cant (Arent) [A. Chéreau]	0	
 orth	Cant (Arent)		
 entry	Cantharelle	0	
@@ -439,7 +487,7 @@ pb	199	0203	4507333
 pb	200	0204	4507334
 pb	201	0205	4507335
 pb	202	0206	4507336
-entry	Cantharide. Thérapeutique [A. Gubler]	39	
+entry	Cantharide. Thérapeutique [A. Gubler]	37	
 orth	Cantharide. Thérapeutique		
 pb	203	0207	4507337
 pb	204	0208	4507338
@@ -479,6 +527,8 @@ pb	237	0241	4507371
 pb	238	0242	4507372
 pb	239	0243	4507373
 pb	240	0244	4507374
+entry	Cantharide. Thérapeutique [A. Gubler] (bibliographie)	1	
+orth	Cantharide. Thérapeutique		
 pb	241	0245	4507375
 entry	Cantharidine	0	
 ref	Cantharide		
@@ -514,7 +564,7 @@ entry	Caoutchouc. Emploi médico-chirurgical [Amédée Dechambre]	2
 orth	Caoutchouc. Emploi médico-chirurgical		
 pb	248	0252	4507382
 pb	249	0253	4507383
-entry	Cap de Bonne-Espérance (Colonie du) [A. Le Roy de Méricourt]	6	
+entry	Cap de Bonne-Espérance (Colonie du) [A. Le Roy de Méricourt]	5	
 orth	Cap de Bonne-Espérance (Colonie du)		
 pb	250	0254	4507384
 pb	251	0255	4507385
@@ -522,26 +572,30 @@ pb	252	0256	4507386
 pb	253	0257	4507387
 pb	254	0258	4507388
 pb	255	0259	4507389
+entry	Cap de Bonne-Espérance (Colonie du) [A. Le Roy de Méricourt] (bibliographie)	0	
+orth	Cap de Bonne-Espérance (Colonie du)		
 entry	Cap Breton	0	
 ref	Britanniques (Possessions)		
 entry	Cap-Breton (Station marine) [A. Rotureau]	0	
 orth	Cap-Breton (Station marine)		
-entry	Cap-Vert (Archipel du) [A. Le Roy de Méricourt]	3	
+entry	Cap-Vert (Archipel du) [A. Le Roy de Méricourt]	2	
 orth	Cap-Vert (Archipel du)		
 pb	256	0260	4507390
 pb	257	0261	4507391
 pb	258	0262	4507392
+entry	Cap-Vert (Archipel du) [A. Le Roy de Méricourt] (bibliographie)	0	
+orth	Cap-Vert (Archipel du)		
 entry	Capeline [Amédée Dechambre]	0	
 orth	Capeline		
 entry	Capillaires	0	
-entry	Capillaires. Botanique [J. De Seynes]	1	
+entry	Capillaires. Botanique [J. De Seynes] (bibliographie)	1	
 orth	Capillaires. Botanique		
 pb	259	0263	4507393
 entry	Capillaires. Emploi médical [Fonssagrives]	2	
 orth	Capillaires. Emploi médical		
 pb	260	0264	4507394
 pb	261	0265	4507395
-entry	Capillaires (Vaisseaux) [Albert Hénocque]	8	
+entry	Capillaires (Vaisseaux) [Albert Hénocque]	7	
 orth	Capillaires (Vaisseaux)		
 pb	262	0266	4507396
 pb	263	0267	4507397
@@ -551,7 +605,9 @@ pb	266	0270	4507400
 pb	267	0271	4507401
 pb	268	0272	4507402
 pb	269	0273	4507403
-entry	Capillarité [C.- M. Gariel]	11	
+entry	Capillaires (Vaisseaux) [Albert Hénocque] (bibliographie)	0	
+orth	Capillaires (Vaisseaux)		
+entry	Capillarité [C.- M. Gariel]	9	
 orth	Capillarité		
 pb	270	0274	4507404
 pb	271	0275	4507405
@@ -563,17 +619,23 @@ pb	276	0280	4507410
 pb	277	0281	4507411
 pb	278	0282	4507412
 pb	279	0283	4507413
+entry	Capillarité [C.- M. Gariel] (bibliographie)	1	
+orth	Capillarité		
 pb	280	0284	4507414
-entry	Capivaccio ou Capo di Vacca (Jérome) [H. Montanier]	1	
+entry	Capivaccio ou Capo di Vacca (Jérome) [H. Montanier]	0	
 orth	Capivaccio ou Capo di Vacca (Jérome)		
 pb	281	0285	4507415
+entry	Capivaccio ou Capo di Vacca (Jérome) [H. Montanier] (bibliographie)	0	
+orth	Capivaccio ou Capo di Vacca (Jérome)		
 entry	Capnomore [Amédée Dechambre]	0	
 orth	Capnomore		
 entry	Capo di Vacca	0	
 ref	Capivaccio		
-entry	Capoa (Léonard) [H. Montanier]	1	
+entry	Capoa (Léonard) [H. Montanier]	0	
 orth	Capoa (Léonard)		
 pb	282	0286	4507416
+entry	Capoa (Léonard) [H. Montanier] (bibliographie)	0	
+orth	Capoa (Léonard)		
 entry	Capolin	0	
 ref	Prunier		
 entry	Capoure-Couroundou ou Coronde	0	
@@ -583,7 +645,7 @@ orth	Cappa-Corania
 entry	Capparidées [G. Planchon]	0	
 orth	Capparidées		
 pb	283	0287	4507417
-entry	Capparidées [G. Planchon] [H. Baillon]	0	
+entry	Capparidées [G. Planchon] (bibliographie) [H. Baillon]	0	
 orth	Capparidées		
 entry	Capparis	0	
 ref	Caprier		
@@ -596,7 +658,7 @@ orth	Caprates
 entry	Capres	0	
 ref	Caprier		
 entry	Caprier	0	
-entry	Caprier. Botanique [G. Planchon]	2	
+entry	Caprier. Botanique [G. Planchon] (bibliographie)	2	
 orth	Caprier. Botanique		
 pb	284	0288	4507418
 pb	285	0289	4507419
@@ -605,7 +667,7 @@ orth	Bromatologie
 entry	Thérapeutique [Fonssagrives]	0	
 orth	Thérapeutique		
 pb	286	0290	4507420
-entry	Caprifoliacées [G. Planchon]	0	
+entry	Caprifoliacées [G. Planchon] (bibliographie)	0	
 orth	Caprifoliacées		
 entry	Caprifolium	0	
 ref	Chèvrefeuille		
@@ -639,10 +701,12 @@ entry	Caprylique (Acide) [T. Gobley]	0
 orth	Caprylique (Acide)		
 entry	Caprylone [T. Gobley]	0	
 orth	Caprylone		
-entry	Capselle [H. Baillon]	2	
+entry	Capselle [H. Baillon]	1	
 orth	Capselle		
 pb	290	0294	4507424
 pb	291	0295	4507425
+entry	Capselle [H. Baillon] (bibliographie)	0	
+orth	Capselle		
 entry	Capsicine	0	
 entry	Capsicum	0	
 ref	Piment		
@@ -659,22 +723,28 @@ pb	292	0296	4507426
 entry	Capsulite	0	
 ref	Cataracte		
 ref	Cristallin		
-entry	Capucine [H. Baillon]	2	
+entry	Capucine [H. Baillon]	1	
 orth	Capucine		
 pb	293	0297	4507427
 pb	294	0298	4507428
-entry	Capuron (Joseph) [H. Montanier]	1	
+entry	Capucine [H. Baillon] (bibliographie)	0	
+orth	Capucine		
+entry	Capuron (Joseph) [H. Montanier]	0	
 orth	Capuron (Joseph)		
 pb	295	0299	4507429
-entry	Capvern (Eaux minérales de) [A. Rotureau]	1	
+entry	Capuron (Joseph) [H. Montanier] (bibliographie)	0	
+orth	Capuron (Joseph)		
+entry	Capvern (Eaux minérales de) [A. Rotureau]	0	
 orth	Capvern (Eaux minérales de)		
 pb	296	0300	4507430
+entry	Capvern (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Capvern (Eaux minérales de)		
 entry	Caqué [E. Beaugrand]	1	
 orth	Caqué		
 pb	297	0301	4507431
 entry	Caqueux	0	
 ref	Cagots		
-entry	Caquilier [G. Planchon]	0	
+entry	Caquilier [G. Planchon] (bibliographie)	0	
 orth	Caquilier		
 entry	Carabaccium [H. Baillon]	0	
 orth	Carabaccium		
@@ -684,28 +754,36 @@ pb	298	0302	4507432
 pb	299	0303	4507433
 entry	Carabé ou Karabé [Amédée Dechambre]	0	
 orth	Carabé ou Karabé		
-entry	Caragne (Résine) [G. Planchon]	1	
+entry	Caragne (Résine) [G. Planchon]	0	
 orth	Caragne (Résine)		
 pb	300	0304	4507434
+entry	Caragne (Résine) [G. Planchon] (bibliographie)	0	
+orth	Caragne (Résine)		
 entry	Caraïbes [Dally]	0	
 orth	Caraïbes		
-entry	Caraka [G. Liétard]	3	
+entry	Caraka [G. Liétard]	2	
 orth	Caraka		
 pb	301	0305	4507435
 pb	302	0306	4507436
 pb	303	0307	4507437
-entry	Carambolier [H. Baillon]	1	
+entry	Caraka [G. Liétard] (bibliographie)	0	
+orth	Caraka		
+entry	Carambolier [H. Baillon]	0	
 orth	Carambolier		
 pb	304	0308	4507438
+entry	Carambolier [H. Baillon] (bibliographie)	0	
+orth	Carambolier		
 entry	Caramel [C. Lutz]	0	
 orth	Caramel		
 entry	Carangue ou Caranx [A. Laboulbène]	1	
 orth	Carangue ou Caranx		
 pb	305	0309	4507439
-entry	Carapa (Aubl.) [H. Baillon]	2	
+entry	Carapa (Aubl.) [H. Baillon]	1	
 orth	Carapa (Aubl.)		
 pb	306	0310	4507440
 pb	307	0311	4507441
+entry	Carapa (Aubl.) [H. Baillon] (bibliographie)	0	
+orth	Carapa (Aubl.)		
 entry	Caratas, Karatas [H. Baillon]	1	
 orth	Caratas, Karatas		
 pb	308	0312	4507442
@@ -719,7 +797,7 @@ entry	Carbamide	0
 ref	Urée		
 entry	Carbamique (Acide) [Amédée Dechambre]	0	
 orth	Carbamique (Acide)		
-entry	Carbanilide (Dyphénylurée, Diphényle carbamide) [Malaguti]	0	
+entry	Carbanilide (Dyphénylurée, Diphényle carbamide) [Malaguti] (bibliographie)	0	
 orth	Carbanilide (Dyphénylurée, Diphényle carbamide)		
 entry	Carbanilique (Acide) [Amédée Dechambre]	0	
 orth	Carbanilique (Acide)		
@@ -764,7 +842,7 @@ pb	328	0332	4507462
 pb	329	0333	4507463
 pb	330	0334	4507464
 pb	331	0335	4507465
-entry	Carbonique (Acide). Emploi médical [Amédée Dechambre]	12	
+entry	Carbonique (Acide). Emploi médical [Amédée Dechambre]	10	
 orth	Carbonique (Acide). Emploi médical		
 pb	332	0336	4507466
 pb	333	0337	4507467
@@ -777,6 +855,8 @@ pb	339	0343	4507473
 pb	340	0344	4507474
 pb	341	0345	4507475
 pb	342	0346	4507476
+entry	Carbonique (Acide). Emploi médical [Amédée Dechambre] (bibliographie)	1	
+orth	Carbonique (Acide). Emploi médical		
 pb	343	0347	4507477
 entry	Carbonisation [Amédée Dechambre]	0	
 orth	Carbonisation		
@@ -795,11 +875,13 @@ entry	Carbure de soufre	0
 ref	Carbone		
 entry	Carbures métalliques [C. Lutz]	0	
 orth	Carbures métalliques		
-entry	Carcanières (Eaux minérales de) [A. Rotureau]	1	
+entry	Carcanières (Eaux minérales de) [A. Rotureau]	0	
 orth	Carcanières (Eaux minérales de)		
 pb	345	0349	4507479
+entry	Carcanières (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Carcanières (Eaux minérales de)		
 pb	346	0350	4507480
-entry	Carcano (Les trois) [A. Chéreau]	0	
+entry	Carcano (Les trois) [A. Chéreau] (bibliographie)	0	
 orth	Carcano (Les trois)		
 entry	Carcassonne (Bernard Gauderic) [H. Montanier]	0	
 orth	Carcassonne (Bernard Gauderic)		
@@ -832,7 +914,7 @@ pb	366	0370	4507500
 pb	367	0371	4507501
 pb	368	0372	4507502
 pb	369	0373	4507503
-entry	Carcinome. Partie clinique [Albert Hénocque]	46	
+entry	Carcinome. Partie clinique [Albert Hénocque]	44	
 orth	Carcinome. Partie clinique		
 pb	370	0374	4507504
 pb	371	0375	4507505
@@ -879,16 +961,20 @@ pb	411	0415	4507545
 pb	412	0416	4507546
 pb	413	0417	4507547
 pb	414	0418	4507548
+entry	Carcinome. Partie clinique [Albert Hénocque] (bibliographie)	1	
+orth	Carcinome. Partie clinique		
 pb	415	0419	4507549
 entry	Cardage, Cardeurs [E. Beaugrand]	1	
 orth	Cardage, Cardeurs		
 pb	416	0420	4507550
 pb	417	0421	4507551
-entry	Cardamine (T.) [H. Baillon]	1	
+entry	Cardamine (T.) [H. Baillon]	0	
 orth	Cardamine (T.)		
 pb	418	0422	4507552
+entry	Cardamine (T.) [H. Baillon] (bibliographie)	0	
+orth	Cardamine (T.)		
 entry	Cardamomes	0	
-entry	Cardamomes. Botanique [G. Planchon]	1	
+entry	Cardamomes. Botanique [G. Planchon] (bibliographie)	1	
 orth	Cardamomes. Botanique		
 pb	419	0423	4507553
 entry	Cardamomes. Emploi médical [Fonssagrives]	1	
@@ -898,9 +984,11 @@ entry	Cardan (Les) [A. Chéreau]	2
 orth	Cardan (Les)		
 pb	421	0425	4507555
 pb	422	0426	4507556
-entry	Cardère [H. Baillon]	1	
+entry	Cardère [H. Baillon]	0	
 orth	Cardère		
 pb	423	0427	4507557
+entry	Cardère [H. Baillon] (bibliographie)	0	
+orth	Cardère		
 entry	Cardeurs	0	
 ref	Cardage		
 entry	Cardia	0	
@@ -914,10 +1002,12 @@ entry	Cardiaques (Vaisseaux)	0
 ref	Coeur		
 ref	Coronaires (Vaisseaux)		
 entry	Cardinal (Zoologie)	0	
-entry	Cardinales (Humeurs) [A. Regnard]	1	
+entry	Cardinales (Humeurs) [A. Regnard]	0	
 orth	Cardinales (Humeurs)		
 pb	425	0429	4507559
-entry	Cardiographes et Cardiographie [Marey]	28	
+entry	Cardinales (Humeurs) [A. Regnard] (bibliographie)	0	
+orth	Cardinales (Humeurs)		
+entry	Cardiographes et Cardiographie [Marey]	27	
 orth	Cardiographes et Cardiographie		
 pb	426	0430	4507560
 pb	427	0431	4507561
@@ -947,10 +1037,14 @@ pb	450	0454	4507584
 pb	451	0455	4507585
 pb	452	0456	4507586
 pb	453	0457	4507587
-entry	Cardiosperme [H. Baillon]	1	
+entry	Cardiographes et Cardiographie [Marey] (bibliographie)	0	
+orth	Cardiographes et Cardiographie		
+entry	Cardiosperme [H. Baillon]	0	
 orth	Cardiosperme		
 pb	454	0458	4507588
-entry	Cardite [J. Parrot]	18	
+entry	Cardiosperme [H. Baillon] (bibliographie)	0	
+orth	Cardiosperme		
+entry	Cardite [J. Parrot]	16	
 orth	Cardite		
 pb	455	0459	4507589
 pb	456	0460	4507590
@@ -969,14 +1063,18 @@ pb	468	0472	4507602
 pb	469	0473	4507603
 pb	470	0474	4507604
 pb	471	0475	4507605
+entry	Cardite [J. Parrot] (bibliographie)	1	
+orth	Cardite		
 pb	472	0476	4507606
 entry	Cardol [Amédée Dechambre]	0	
 orth	Cardol		
 entry	Cardon [Fonssagrives]	0	
 orth	Cardon		
-entry	Cardoso (Les deux) [A. Chéreau]	1	
+entry	Cardoso (Les deux) [A. Chéreau]	0	
 orth	Cardoso (Les deux)		
 pb	473	0477	4507607
+entry	Cardoso (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Cardoso (Les deux)		
 entry	Carduacées [H. Baillon]	0	
 orth	Carduacées		
 entry	Carduus	0	
@@ -987,7 +1085,7 @@ entry	Carex	0
 ref	Laiche		
 entry	Carica	0	
 ref	Papayer		
-entry	Carie [Ollier]	32	
+entry	Carie [Ollier]	30	
 orth	Carie		
 pb	474	0478	4507608
 pb	475	0479	4507609
@@ -1020,8 +1118,10 @@ pb	501	0505	4507635
 pb	502	0506	4507636
 pb	503	0507	4507637
 pb	504	0508	4507638
+entry	Carie [Ollier] (bibliographie)	1	
+orth	Carie		
 pb	505	0509	4507639
-entry	Carie des dents [E. Magitot]	85	
+entry	Carie des dents [E. Magitot]	83	
 orth	Carie des dents		
 pb	506	0510	4507640
 pb	507	0511	4507641
@@ -1107,32 +1207,46 @@ pb	586	0590	4507720
 pb	587	0591	4507721
 pb	588	0592	4507722
 pb	589	0593	4507723
+entry	Carie des dents [E. Magitot] (bibliographie)	1	
+orth	Carie des dents		
 pb	590	0594	4507724
 entry	Carie des végétaux [Amédée Dechambre]	0	
 orth	Carie des végétaux		
-entry	Carissa (L.) [H. Baillon]	1	
+entry	Carissa (L.) [H. Baillon]	0	
 orth	Carissa (L.)		
 pb	591	0595	4507725
-entry	Carl (Les) [H. Montanier]	2	
+entry	Carissa (L.) [H. Baillon] (bibliographie)	0	
+orth	Carissa (L.)		
+entry	Carl (Les) [H. Montanier]	0	
 orth	Carl (Les)		
 pb	592	0596	4507726
+entry	Carl (Les) [H. Montanier] (bibliographie)	1	
+orth	Carl (Les)		
 pb	593	0597	4507727
-entry	Carline [G. Planchon]	1	
+entry	Carline [G. Planchon]	0	
 orth	Carline		
 pb	594	0598	4507728
-entry	Carlisle (Sir Antony) [E. Beaugrand]	1	
+entry	Carline [G. Planchon] (bibliographie)	0	
+orth	Carline		
+entry	Carlisle (Sir Antony) [E. Beaugrand]	0	
 orth	Carlisle (Sir Antony)		
 pb	595	0599	4507729
+entry	Carlisle (Sir Antony) [E. Beaugrand] (bibliographie)	0	
+orth	Carlisle (Sir Antony)		
 entry	Carlsbad	0	
 ref	Karlsbad		
 entry	Carludovica (Ruiz et Pav.) [H. Baillon]	0	
 orth	Carludovica (Ruiz et Pav.)		
-entry	Carmichael (Richard) [E. Beaugrand]	1	
+entry	Carmichael (Richard) [E. Beaugrand]	0	
 orth	Carmichael (Richard)		
 pb	596	0600	4507730
-entry	Carminati (Bassiano) [E. Beaugrand]	1	
+entry	Carmichael (Richard) [E. Beaugrand] (bibliographie)	0	
+orth	Carmichael (Richard)		
+entry	Carminati (Bassiano) [E. Beaugrand]	0	
 orth	Carminati (Bassiano)		
 pb	597	0601	4507731
+entry	Carminati (Bassiano) [E. Beaugrand] (bibliographie)	0	
+orth	Carminati (Bassiano)		
 entry	Carminatifs	0	
 ref	Carminative (Médication)		
 pb	598	0602	4507732
@@ -1143,7 +1257,7 @@ pb	600	0604	4507734
 pb	601	0605	4507735
 pb	602	0606	4507736
 entry	Carmine	0	
-entry	Carmona (Les) [E. Beaugrand]	1	
+entry	Carmona (Les) [E. Beaugrand] (bibliographie)	1	
 orth	Carmona (Les)		
 pb	603	0607	4507737
 entry	Carnassiers (Zoologie) [P. Gervais]	0	
@@ -1151,7 +1265,7 @@ orth	Carnassiers (Zoologie)
 entry	Carnauba (Cire de) [H. Baillon]	1	
 orth	Carnauba (Cire de)		
 pb	604	0608	4507738
-entry	Çarngadhaba [G. Liétard]	0	
+entry	Çarngadhaba [G. Liétard] (bibliographie)	0	
 orth	Çarngadhaba		
 entry	Carnification [V. Cornil]	1	
 orth	Carnification		
@@ -1165,7 +1279,7 @@ entry	Carolines (Archipel des)	0
 ref	Polynésie		
 entry	Carolus (Jean-Martin-François) [E. Beaugrand]	0	
 orth	Carolus (Jean-Martin-François)		
-entry	Caron (Jean-Charles-Félix) [H. Montanier]	1	
+entry	Caron (Jean-Charles-Félix) [H. Montanier] (bibliographie)	1	
 orth	Caron (Jean-Charles-Félix)		
 pb	609	0613	4507743
 entry	Caroncule lacrymale	0	
@@ -1260,7 +1374,7 @@ pb	679	0684	4507814
 entry	Carotidien (Trou)	0	
 ref	Crâne		
 entry	Carotte	0	
-entry	Botanique [G. Planchon]	0	
+entry	Botanique [G. Planchon] (bibliographie)	0	
 orth	Botanique		
 entry	Carotte. Emploi médical [Fonssagrives]	1	
 orth	Carotte. Emploi médical		
@@ -1272,9 +1386,11 @@ orth	Caroub
 pb	681	0686	4507816
 entry	Caroubes [Fonssagrives]	0	
 orth	Caroubes		
-entry	Caroubier [H. Baillon]	2	
+entry	Caroubier [H. Baillon]	0	
 orth	Caroubier		
 pb	682	0687	4507817
+entry	Caroubier [H. Baillon] (bibliographie)	1	
+orth	Caroubier		
 pb	683	0688	4507818
 entry	Carpasus ou Carpasum [G. Planchon]	0	
 orth	Carpasus ou Carpasum		
@@ -1285,7 +1401,7 @@ entry	Carpe. Zoologie [A. Laboulbène]	2
 orth	Carpe. Zoologie		
 pb	684	0689	4507819
 pb	685	0690	4507820
-entry	Carpesium [G. Planchon]	0	
+entry	Carpesium [G. Planchon] (bibliographie)	0	
 orth	Carpesium		
 pb	686	0691	4507821
 entry	Carphologie [B. Brochin]	0	
@@ -1297,18 +1413,22 @@ ref	Balsamodendron
 entry	Carpobolées [Jacques Bertillon]	1	
 orth	Carpobolées		
 pb	687	0692	4507822
-entry	Carpue (Joseph-Constantine) [E. Beaugrand]	1	
+entry	Carpue (Joseph-Constantine) [E. Beaugrand]	0	
 orth	Carpue (Joseph-Constantine)		
 pb	688	0693	4507823
+entry	Carpue (Joseph-Constantine) [E. Beaugrand] (bibliographie)	0	
+orth	Carpue (Joseph-Constantine)		
 entry	Carrageen ou Carragaheen [T. Gobley, Fonssagrives]	2	
 orth	Carrageen ou Carragaheen		
 pb	689	0694	4507824
 pb	690	0695	4507825
-entry	Carratraca ou Ardales (Eau minérale de) [A. Rotureau]	3	
+entry	Carratraca ou Ardales (Eau minérale de) [A. Rotureau]	2	
 orth	Carratraca ou Ardales (Eau minérale de)		
 pb	691	0696	4507826
 pb	692	0697	4507827
 pb	693	0698	4507828
+entry	Carratraca ou Ardales (Eau minérale de) [A. Rotureau] (bibliographie)	0	
+orth	Carratraca ou Ardales (Eau minérale de)		
 pb	694	0699	4507829
 entry	Carré crural (Muscle) [Albert Hénocque]	0	
 orth	Carré crural (Muscle)		
@@ -1327,9 +1447,11 @@ entry	Carreau [Amédée Dechambre]	0
 orth	Carreau		
 entry	Carrelet [A. Laboulbène]	0	
 orth	Carrelet		
-entry	Carrère (Les) [A. Chéreau]	2	
+entry	Carrère (Les) [A. Chéreau]	0	
 orth	Carrère (Les)		
 pb	697	0702	4507832
+entry	Carrère (Les) [A. Chéreau] (bibliographie)	1	
+orth	Carrère (Les)		
 pb	698	0703	4507833
 entry	Carrero (Pedro-Garcias) [E. Beaugrand]	0	
 orth	Carrero (Pedro-Garcias)		
@@ -1339,27 +1461,35 @@ pb	699	0704	4507834
 entry	Carriers [E. Beaugrand]	1	
 orth	Carriers		
 pb	700	0705	4507835
-entry	Carro (Jean de) [E. Beaugrand]	0	
+entry	Carro (Jean de) [E. Beaugrand] (bibliographie)	0	
 orth	Carro (Jean de)		
-entry	Carron du Villards (Ch.-J.-F.) [E. Beaugrand]	1	
+entry	Carron du Villards (Ch.-J.-F.) [E. Beaugrand]	0	
 orth	Carron du Villards (Ch.-J.-F.)		
 pb	701	0706	4507836
+entry	Carron du Villards (Ch.-J.-F.) [E. Beaugrand] (bibliographie)	0	
+orth	Carron du Villards (Ch.-J.-F.)		
 entry	Carrozza (Giov.) [E. Beaugrand]	0	
 orth	Carrozza (Giov.)		
-entry	Carswell (Sir Robert) [E. Beaugrand]	1	
+entry	Carswell (Sir Robert) [E. Beaugrand]	0	
 orth	Carswell (Sir Robert)		
 pb	702	0707	4507837
-entry	Carthame [H. Baillon]	2	
+entry	Carswell (Sir Robert) [E. Beaugrand] (bibliographie)	0	
+orth	Carswell (Sir Robert)		
+entry	Carthame [H. Baillon]	1	
 orth	Carthame		
 pb	703	0708	4507838
 pb	704	0709	4507839
+entry	Carthame [H. Baillon] (bibliographie)	0	
+orth	Carthame		
 entry	Carthaméine	0	
 ref	Carthame		
 entry	Carthamine	0	
 ref	Carthame		
-entry	Cartheuser (Les) [H. Montanier]	2	
+entry	Cartheuser (Les) [H. Montanier]	0	
 orth	Cartheuser (Les)		
 pb	705	0710	4507840
+entry	Cartheuser (Les) [H. Montanier] (bibliographie)	1	
+orth	Cartheuser (Les)		
 pb	706	0711	4507841
 entry	Cartier (Louis-Vincent) [E. Beaugrand]	0	
 orth	Cartier (Louis-Vincent)		
@@ -1396,26 +1526,30 @@ pb	732	0737	4507867
 pb	733	0738	4507868
 pb	734	0739	4507869
 pb	735	0740	4507870
-entry	Cartilage [Ch. Robin, Ch. Legros] [Ch. Robin]	1	
+entry	Cartilage [Ch. Robin, Ch. Legros] (bibliographie) [Ch. Robin]	1	
 orth	Cartilage		
 pb	736	0741	4507871
-entry	Cartilage de Meckel [Ch. Robin, E. Magitot]	2	
+entry	Cartilage de Meckel [Ch. Robin, E. Magitot]	1	
 orth	Cartilage de Meckel		
 pb	737	0742	4507872
 pb	738	0743	4507873
+entry	Cartilage de Meckel [Ch. Robin, E. Magitot] (bibliographie)	0	
+orth	Cartilage de Meckel		
 entry	Cartilagéine	0	
 ref	Cartilages		
 entry	Carum	0	
 ref	Carvi		
 entry	Carus [Amédée Dechambre]	0	
 orth	Carus		
-entry	Carus (Karl-Gustav) [E. Beaugrand]	1	
+entry	Carus (Karl-Gustav) [E. Beaugrand]	0	
 orth	Carus (Karl-Gustav)		
 pb	739	0744	4507874
+entry	Carus (Karl-Gustav) [E. Beaugrand] (bibliographie)	0	
+orth	Carus (Karl-Gustav)		
 entry	Carvacrol ou Camphocréosote	0	
 ref	Camphocréosote		
 pb	740	0745	4507875
-entry	Carvallo (José-Ignatio-Nuñez de Castro) [E. Beaugrand]	0	
+entry	Carvallo (José-Ignatio-Nuñez de Castro) [E. Beaugrand] (bibliographie)	0	
 orth	Carvallo (José-Ignatio-Nuñez de Castro)		
 entry	Carvène	0	
 ref	Carvi		
@@ -1426,7 +1560,7 @@ pb	741	0746	4507876
 entry	Carvi	0	
 entry	Matière médicale [Fonssagrives]	0	
 orth	Matière médicale		
-entry	Caryocar [H. Baillon]	0	
+entry	Caryocar [H. Baillon] (bibliographie)	0	
 orth	Caryocar		
 pb	742	0747	4507877
 entry	Caryophylline	0	
@@ -1434,13 +1568,17 @@ ref	Girofle
 entry	Caryophyllus	0	
 ref	Giroflier		
 ref	Oeillet		
-entry	Caryota (L.) [H. Baillon]	1	
+entry	Caryota (L.) [H. Baillon]	0	
 orth	Caryota (L.)		
 pb	743	0748	4507878
-entry	Casal (Gaspar) [E. Beaugrand]	1	
+entry	Caryota (L.) [H. Baillon] (bibliographie)	0	
+orth	Caryota (L.)		
+entry	Casal (Gaspar) [E. Beaugrand]	0	
 orth	Casal (Gaspar)		
 pb	744	0749	4507879
-entry	Casamicciola d'Ischia (Eaux minérales et bains de sable de) [A. Rotureau]	11	
+entry	Casal (Gaspar) [E. Beaugrand] (bibliographie)	0	
+orth	Casal (Gaspar)		
+entry	Casamicciola d'Ischia (Eaux minérales et bains de sable de) [A. Rotureau]	10	
 orth	Casamicciola d'Ischia (Eaux minérales et bains de sable de)		
 pb	745	0750	4507880
 pb	746	0751	4507881
@@ -1453,6 +1591,8 @@ pb	752	0757	4507887
 pb	753	0758	4507888
 pb	754	0759	4507889
 pb	755	0760	4507890
+entry	Casamicciola d'Ischia (Eaux minérales et bains de sable de) [A. Rotureau] (bibliographie)	0	
+orth	Casamicciola d'Ischia (Eaux minérales et bains de sable de)		
 entry	Casca [H. Baillon]	0	
 orth	Casca		
 pb	756	0761	4507891
@@ -1463,7 +1603,7 @@ ref	Quinquina
 entry	Cascales de Guadalajara (Francisco-Perez) [E. Beaugrand]	0	
 orth	Cascales de Guadalajara (Francisco-Perez)		
 entry	Cascarille	0	
-entry	Cascarille. Botanique [H. Baillon]	2	
+entry	Cascarille. Botanique [H. Baillon] (bibliographie)	2	
 orth	Cascarille. Botanique		
 pb	757	0762	4507892
 pb	758	0763	4507893
@@ -1472,12 +1612,12 @@ orth	Cascarille. Emploi médical
 pb	759	0764	4507894
 entry	Cascarilline	0	
 ref	Cascarille		
-entry	Casearia (Jacq.) [H. Baillon]	0	
+entry	Casearia (Jacq.) [H. Baillon] (bibliographie)	0	
 orth	Casearia (Jacq.)		
 entry	Caséine	0	
 ref	Lait		
 pb	760	0765	4507895
-entry	Casernes et Casernement [E. Boisseau]	28	
+entry	Casernes et Casernement [E. Boisseau]	26	
 orth	Casernes et Casernement		
 pb	761	0766	4507896
 pb	762	0767	4507897
@@ -1506,6 +1646,8 @@ pb	784	0789	4507919
 pb	785	0790	4507920
 pb	786	0791	4507921
 pb	787	0792	4507922
+entry	Casernes et Casernement [E. Boisseau] (bibliographie)	1	
+orth	Casernes et Casernement		
 pb	788	0793	4507923
 entry	Casia [H. Baillon]	0	
 orth	Casia		

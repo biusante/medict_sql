@@ -15,15 +15,19 @@ orth	Pouillon (Eau minérale et boues de)
 entry	Poujol (Félix-André-Auguste) [A. Dureau]	0	
 orth	Poujol (Félix-André-Auguste)		
 pb	5	0009	4579667
-entry	Poule [E. Oustalet]	3	
+entry	Poule [E. Oustalet]	2	
 orth	Poule		
 pb	6	0010	4579668
 pb	7	0011	4579669
 pb	8	0012	4579670
-entry	Poule d'eau [E. Oustalet]	2	
+entry	Poule [E. Oustalet] (bibliographie)	0	
+orth	Poule		
+entry	Poule d'eau [E. Oustalet]	1	
 orth	Poule d'eau		
 pb	9	0013	4579671
 pb	10	0014	4579672
+entry	Poule d'eau [E. Oustalet] (bibliographie)	0	
+orth	Poule d'eau		
 entry	Poule-sultane [E. Oustalet]	0	
 orth	Poule-sultane		
 entry	Pouliguen (Le)	0	
@@ -101,7 +105,7 @@ pb	67	0071	4579729
 pb	68	0072	4579730
 pb	69	0073	4579731
 pb	70	0074	4579732
-entry	Pouls. Pathologie et séméiotique [E. Wertheimer]	46	
+entry	Pouls. Pathologie et séméiotique [E. Wertheimer]	44	
 orth	Pouls. Pathologie et séméiotique		
 pb	71	0075	4579733
 pb	72	0076	4579734
@@ -148,6 +152,8 @@ pb	112	0116	4579774
 pb	113	0117	4579775
 pb	114	0118	4579776
 pb	115	0119	4579777
+entry	Pouls. Pathologie et séméiotique [E. Wertheimer] (bibliographie)	1	
+orth	Pouls. Pathologie et séméiotique		
 pb	116	0120	4579778
 pb	117	0121	4579779
 entry	Poumons	0	
@@ -183,7 +189,7 @@ pb	144	0148	4579806
 pb	145	0149	4579807
 pb	146	0150	4579808
 pb	147	0151	4579809
-entry	Poumons. Considérations physiologiques [Marc Sée]	12	
+entry	Poumons. Considérations physiologiques [Marc Sée]	9	
 orth	Poumons. Considérations physiologiques		
 pb	148	0152	4579810
 pb	149	0153	4579811
@@ -195,6 +201,8 @@ pb	154	0158	4579816
 pb	155	0159	4579817
 pb	156	0160	4579818
 pb	157	0161	4579819
+entry	Poumons. Considérations physiologiques [Marc Sée] (bibliographie)	2	
+orth	Poumons. Considérations physiologiques		
 pb	158	0162	4579820
 pb	159	0163	4579821
 entry	Poumons. Pathologie [L. Lereboullet]	1	
@@ -244,7 +252,7 @@ pb	199	0203	4579861
 pb	200	0204	4579862
 pb	201	0205	4579863
 pb	202	0206	4579864
-entry	Poumons. Pathologie. Oedème du poumon [Ernest Barié]	8	
+entry	Poumons. Pathologie. Oedème du poumon [Ernest Barié]	6	
 orth	Poumons. Pathologie. Oedème du poumon		
 pb	203	0207	4579865
 pb	204	0208	4579866
@@ -253,6 +261,8 @@ pb	206	0210	4579868
 pb	207	0211	4579869
 pb	208	0212	4579870
 pb	209	0213	4579871
+entry	Poumons. Pathologie. Oedème du poumon [Ernest Barié] (bibliographie)	1	
+orth	Poumons. Pathologie. Oedème du poumon		
 pb	210	0214	4579872
 entry	Embolies pulmonaires	0	
 ref	Embolie		
@@ -261,7 +271,7 @@ orth	Poumons. Pathologie. Hémorrhagies ou apoplexies pulmonaires
 pb	211	0215	4579873
 pb	212	0216	4579874
 pb	213	0217	4579875
-entry	Poumons. Pathologie. Gangrène du poumon [Ernest Barié]	46	
+entry	Poumons. Pathologie. Gangrène du poumon [Ernest Barié]	43	
 orth	Poumons. Pathologie. Gangrène du poumon		
 pb	214	0218	4579876
 pb	215	0219	4579877
@@ -307,6 +317,8 @@ pb	254	0258	4579916
 pb	255	0259	4579917
 pb	256	0260	4579918
 pb	257	0261	4579919
+entry	Poumons. Pathologie. Gangrène du poumon [Ernest Barié] (bibliographie)	2	
+orth	Poumons. Pathologie. Gangrène du poumon		
 pb	258	0262	4579920
 pb	259	0263	4579921
 entry	Poumons. Pathologie. Cirrhose du poumon [Henri Barth]	18	
@@ -335,7 +347,7 @@ pb	278	0282	4579940
 pb	279	0283	4579941
 pb	280	0284	4579942
 entry	Poumons. Pathologie	0	
-entry	Poumons. Pathologie. Cancer du poumon [Ernest Barié]	36	
+entry	Poumons. Pathologie. Cancer du poumon [Ernest Barié]	33	
 orth	Poumons. Pathologie. Cancer du poumon		
 pb	281	0285	4579943
 pb	282	0286	4579944
@@ -371,6 +383,8 @@ pb	311	0315	4579973
 pb	312	0316	4579974
 pb	313	0317	4579975
 pb	314	0318	4579976
+entry	Poumons. Pathologie. Cancer du poumon [Ernest Barié] (bibliographie)	2	
+orth	Poumons. Pathologie. Cancer du poumon		
 pb	315	0319	4579977
 pb	316	0320	4579978
 entry	Poumons. Pathologie. Des parasites du poumon [L. Lereboullet]	5	
@@ -405,13 +419,13 @@ pb	341	0345	4580003
 pb	342	0346	4580004
 pb	343	0347	4580005
 pb	344	0348	4580006
-entry	Poumons. Pathologie. Emphysème [Clermont] [Brochin]	3	
+entry	Poumons. Pathologie. Emphysème [Clermont] (bibliographie) [Brochin]	3	
 orth	Poumons. Pathologie. Emphysème		
 pb	345	0349	4580007
 pb	346	0350	4580008
 pb	347	0351	4580009
 pb	348	0352	4580010
-entry	Poumons. Pathologie. Emphysème [Clermont]	0	
+entry	Poumons. Pathologie. Emphysème [Clermont] (bibliographie)	0	
 orth	Poumons. Pathologie. Emphysème		
 entry	Poupart (François) [L. Hahn]	0	
 orth	Poupart (François)		
@@ -429,7 +443,7 @@ entry	Pourpre rétinien [L. Hahn]	2
 orth	Pourpre rétinien		
 pb	349	0353	4580011
 pb	350	0354	4580012
-entry	Pourriture d'hopital [J. Chauvel]	11	
+entry	Pourriture d'hopital [J. Chauvel]	10	
 orth	Pourriture d'hopital		
 pb	351	0355	4580013
 pb	352	0356	4580014
@@ -442,6 +456,8 @@ pb	358	0362	4580020
 pb	359	0363	4580021
 pb	360	0364	4580022
 pb	361	0365	4580023
+entry	Pourriture d'hopital [J. Chauvel] (bibliographie)	0	
+orth	Pourriture d'hopital		
 entry	Pourville (Station marine) [A. Rotureau]	0	
 orth	Pourville (Station marine)		
 entry	Pouteau (Claude) [L. Hahn]	0	
@@ -531,7 +547,7 @@ entry	Prese (le) (Eaux minérales de)	0
 ref	Le Prese		
 entry	Presse-artère	0	
 ref	Forcipressure		
-entry	Pressirostres [E. Oustalet]	0	
+entry	Pressirostres [E. Oustalet] (bibliographie)	0	
 orth	Pressirostres		
 entry	Pressoir d'Hérophile	0	
 ref	Sinus		
@@ -563,7 +579,7 @@ entry	Priest-la-Roche (Saint-) (Eau minérale de) [A. Rotureau]	0
 orth	Priest-la-Roche (Saint-) (Eau minérale de)		
 entry	Prieuré d'Heudreville (Eau minérale de)	0	
 ref	Heudreville		
-entry	Primates [E. Oustalet]	0	
+entry	Primates [E. Oustalet] (bibliographie)	0	
 orth	Primates		
 entry	Primerose (James) [A. Dureau]	1	
 orth	Primerose (James)		
@@ -585,9 +601,11 @@ entry	Prisme	0
 ref	Dioptrique		
 entry	Prisons	0	
 ref	Pénitentiaire (Système)		
-entry	Proboscidiens [E. Oustalet]	1	
+entry	Proboscidiens [E. Oustalet]	0	
 orth	Proboscidiens		
 pb	409	0413	4580071
+entry	Proboscidiens [E. Oustalet] (bibliographie)	0	
+orth	Proboscidiens		
 entry	Prochaska (Georg) [L. Hahn]	0	
 orth	Prochaska (Georg)		
 entry	Proctite	0	
@@ -734,7 +752,7 @@ ref	etc
 entry	Prostate	0	
 entry	Anatomie et physiologie	0	
 ref	Urèthre		
-entry	Prostate. Pathologie [Ernest Desnos]	113	
+entry	Prostate. Pathologie [Ernest Desnos]	110	
 orth	Prostate. Pathologie		
 pb	443	0447	4580105
 pb	444	0448	4580106
@@ -847,6 +865,8 @@ pb	550	0554	4580212
 pb	551	0555	4580213
 pb	552	0556	4580214
 pb	553	0557	4580215
+entry	Prostate. Pathologie [Ernest Desnos] (bibliographie)	2	
+orth	Prostate. Pathologie		
 pb	554	0558	4580216
 pb	555	0559	4580217
 entry	Prostatorrhée	0	
@@ -863,9 +883,11 @@ entry	Protea [Ed. Lefèvre]	0
 orth	Protea		
 entry	Protéacées [Ed. Lefèvre]	0	
 orth	Protéacées		
-entry	Protée [H.-E. Sauvage]	1	
+entry	Protée [H.-E. Sauvage]	0	
 orth	Protée		
 pb	558	0562	4580220
+entry	Protée [H.-E. Sauvage] (bibliographie)	0	
+orth	Protée		
 entry	Protéine [L. Hahn]	0	
 orth	Protéine		
 entry	Protéiques (Substances)	0	
@@ -890,7 +912,7 @@ orth	Protocatéchique (Acide)
 entry	Protopine [C. Lutz]	1	
 orth	Protopine		
 pb	561	0565	4580223
-entry	Protoplasma [Ed. Retterer]	43	
+entry	Protoplasma [Ed. Retterer]	42	
 orth	Protoplasma		
 pb	562	0566	4580224
 pb	563	0567	4580225
@@ -935,6 +957,8 @@ pb	601	0605	4580263
 pb	602	0606	4580264
 pb	603	0607	4580265
 pb	604	0608	4580266
+entry	Protoplasma [Ed. Retterer] (bibliographie)	0	
+orth	Protoplasma		
 entry	Protoptère [H.-E. Sauvage]	0	
 orth	Protoptère		
 entry	Protoquinamicine [L. Hahn]	0	
@@ -972,7 +996,7 @@ pb	627	0631	4580289
 entry	Protubérance annulaire. Développement [Paul Berbez]	1	
 orth	Protubérance annulaire. Développement		
 pb	628	0632	4580290
-entry	Protubérance annulaire. Physiologie [Paul Berbez]	7	
+entry	Protubérance annulaire. Physiologie [Paul Berbez]	5	
 orth	Protubérance annulaire. Physiologie		
 pb	629	0633	4580291
 pb	630	0634	4580292
@@ -980,6 +1004,8 @@ pb	631	0635	4580293
 pb	632	0636	4580294
 pb	633	0637	4580295
 pb	634	0638	4580296
+entry	Protubérance annulaire. Physiologie [Paul Berbez] (bibliographie)	1	
+orth	Protubérance annulaire. Physiologie		
 pb	635	0639	4580297
 entry	Protubérance annulaire. Pathologie [Paul Berbez]	26	
 orth	Protubérance annulaire. Pathologie		
@@ -1010,7 +1036,7 @@ pb	659	0663	4580321
 pb	660	0664	4580322
 pb	661	0665	4580323
 pb	662	0666	4580324
-entry	Protubérance annulaire. Pathologie [Paul Berbez] [M. B.]	3	
+entry	Protubérance annulaire. Pathologie [Paul Berbez] (bibliographie) [M. B.]	3	
 orth	Protubérance annulaire. Pathologie		
 pb	663	0667	4580325
 pb	664	0668	4580326
@@ -1027,7 +1053,7 @@ entry	Prunellier [Ed. Lefèvre]	0
 orth	Prunellier		
 entry	Pruner-Bey (Franz) [L. Hahn]	0	
 orth	Pruner-Bey (Franz)		
-entry	Prunier [H. Baillon]	0	
+entry	Prunier [H. Baillon] (bibliographie)	0	
 orth	Prunier		
 pb	668	0672	4580330
 entry	Prunier (Eau minérale de) [A. Rotureau]	0	
@@ -1055,7 +1081,7 @@ entry	Prus (Clovis-René) [L. Hahn]	0
 orth	Prus (Clovis-René)		
 entry	Prussique (Acide)	0	
 ref	Cyanhydrique		
-entry	Psammodrome [H.-E. Sauvage]	0	
+entry	Psammodrome [H.-E. Sauvage] (bibliographie)	0	
 orth	Psammodrome		
 entry	Pscé (Eau minérale de) [A. Rotureau]	1	
 orth	Pscé (Eau minérale de)		
@@ -1097,7 +1123,7 @@ orth	Pseudhelminthes
 entry	Pseudhymènes [L. Hahn]	1	
 orth	Pseudhymènes		
 pb	701	0705	4580363
-entry	Pseudis [H.-E. Sauvage]	0	
+entry	Pseudis [H.-E. Sauvage] (bibliographie)	0	
 orth	Pseudis		
 entry	Pseudobutyléne [L. Hahn]	0	
 orth	Pseudobutyléne		
@@ -1121,7 +1147,7 @@ entry	Pseudomorphine [L. Hahn]	0
 orth	Pseudomorphine		
 entry	Pseudonavicelles	0	
 ref	Psonospermies		
-entry	Pseudo-parasites [Raphael Blanchard]	7	
+entry	Pseudo-parasites [Raphael Blanchard]	6	
 orth	Pseudo-parasites		
 pb	703	0707	4580365
 pb	704	0708	4580366
@@ -1130,9 +1156,13 @@ pb	706	0710	4580368
 pb	707	0711	4580369
 pb	708	0712	4580370
 pb	709	0713	4580371
-entry	Pseudope [H.-E. Sauvage]	1	
+entry	Pseudo-parasites [Raphael Blanchard] (bibliographie)	0	
+orth	Pseudo-parasites		
+entry	Pseudope [H.-E. Sauvage]	0	
 orth	Pseudope		
 pb	710	0714	4580372
+entry	Pseudope [H.-E. Sauvage] (bibliographie)	0	
+orth	Pseudope		
 entry	Pseudophénanthrène [L. Hahn]	0	
 orth	Pseudophénanthrène		
 entry	Pseudoplasme [Ed. Retterer]	0	
@@ -1142,7 +1172,7 @@ orth	Pseudopurpurine
 entry	Pseudoquinine [L. Hahn]	0	
 orth	Pseudoquinine		
 pb	711	0715	4580373
-entry	Pseudosalamandres [H.-E. Sauvage]	0	
+entry	Pseudosalamandres [H.-E. Sauvage] (bibliographie)	0	
 orth	Pseudosalamandres		
 entry	Pseudotoxine [L. Hahn]	0	
 orth	Pseudotoxine		
@@ -1153,7 +1183,7 @@ entry	Pseudourique (Acide) [L. Hahn]	0
 orth	Pseudourique (Acide)		
 entry	Pseudoxanthine [L. Hahn]	0	
 orth	Pseudoxanthine		
-entry	Psiadia (Jacq.) [H. Baillon]	0	
+entry	Psiadia (Jacq.) [H. Baillon] (bibliographie)	0	
 orth	Psiadia (Jacq.)		
 pb	713	0717	4580375
 entry	Psidium	0	
@@ -1239,11 +1269,13 @@ pb	773	0777	4580435
 pb	774	0778	4580436
 pb	775	0779	4580437
 pb	776	0780	4580438
-entry	Psychotria (L.) [H. Baillon]	3	
+entry	Psychotria (L.) [H. Baillon]	2	
 orth	Psychotria (L.)		
 pb	777	0781	4580439
 pb	778	0782	4580440
 pb	779	0783	4580441
+entry	Psychotria (L.) [H. Baillon] (bibliographie)	0	
+orth	Psychotria (L.)		
 entry	Psydracium	0	
 ref	Dermatose		
 entry	Ptarmoscopie	0	
@@ -1255,9 +1287,11 @@ orth	Pteris
 pb	780	0784	4580442
 entry	Ptéritannique (Acide) [L. Hahn]	0	
 orth	Ptéritannique (Acide)		
-entry	Ptérocarpe [H. Baillon]	1	
+entry	Ptérocarpe [H. Baillon]	0	
 orth	Ptérocarpe		
 pb	781	0785	4580443
+entry	Ptérocarpe [H. Baillon] (bibliographie)	0	
+orth	Ptérocarpe		
 pb	782	0786	4580444
 entry	Ptérocarpine [L. Hahn]	0	
 orth	Ptérocarpine		
@@ -1371,7 +1405,7 @@ orth	Pujol (Alexis)
 entry	Pulex	0	
 ref	Chique		
 ref	Puces		
-entry	Pulicaire [H. Baillon]	0	
+entry	Pulicaire [H. Baillon] (bibliographie)	0	
 orth	Pulicaire		
 pb	838	0842	4580500
 entry	Pulicides	0	
@@ -1421,7 +1455,7 @@ pb	848	0852	4580510
 pb	849	0853	4580511
 entry	Purcell (John) [A. Dureau]	0	
 orth	Purcell (John)		
-entry	Purgatifs [Ch. Debierre]	10	
+entry	Purgatifs [Ch. Debierre]	8	
 orth	Purgatifs		
 pb	850	0854	4580512
 pb	851	0855	4580513
@@ -1432,6 +1466,8 @@ pb	855	0859	4580517
 pb	856	0860	4580518
 pb	857	0861	4580519
 pb	858	0862	4580520
+entry	Purgatifs [Ch. Debierre] (bibliographie)	1	
+orth	Purgatifs		
 pb	859	0863	4580521
 entry	Purkinje (Johannes-Evangelista, Ritter von) [L. Hahn]	1	
 orth	Purkinje (Johannes-Evangelista, Ritter von)		
@@ -1529,7 +1565,7 @@ pb	901	0905	4580563
 entry	Py (Paul) [A. Dureau]	1	
 orth	Py (Paul)		
 pb	902	0906	4580564
-entry	Pyélite [V. Widal]	10	
+entry	Pyélite [V. Widal]	9	
 orth	Pyélite		
 pb	903	0907	4580565
 pb	904	0908	4580566
@@ -1541,8 +1577,10 @@ pb	909	0913	4580571
 pb	910	0914	4580572
 pb	911	0915	4580573
 pb	912	0916	4580574
+entry	Pyélite [V. Widal] (bibliographie)	0	
+orth	Pyélite		
 pb	913	0917	4580575
-entry	Pygargue [E. Oustalet]	0	
+entry	Pygargue [E. Oustalet] (bibliographie)	0	
 orth	Pygargue		
 entry	Pygnogonides [A. Laboulbène]	1	
 orth	Pygnogonides		
@@ -1591,7 +1629,7 @@ pb	925	0929	4580587
 entry	Pyrénomycètes [Ed. Lefèvre]	0	
 orth	Pyrénomycètes		
 entry	Pyrèthre	0	
-entry	Botanique [H. Baillon]	0	
+entry	Botanique [H. Baillon] (bibliographie)	0	
 orth	Botanique		
 entry	Pyrèthre. Emploi médical [Charles Éloy]	2	
 orth	Pyrèthre. Emploi médical		
@@ -1655,7 +1693,7 @@ orth	Pyroglycique (Acide)
 entry	Pyroisomalique (Acide) [L. Hahn]	0	
 orth	Pyroisomalique (Acide)		
 entry	Pyrola (L.)	0	
-entry	Pyrola (L.). Botanique [H. Baillon]	1	
+entry	Pyrola (L.). Botanique [H. Baillon] (bibliographie)	1	
 orth	Pyrola (L.). Botanique		
 pb	937	0941	4580599
 entry	Emploi [L. Hahn]	0	
@@ -1749,7 +1787,7 @@ entry	Pythaistes	0
 ref	Divination		
 entry	Pythie	0	
 ref	Divination		
-entry	Python [H.-E. Sauvage]	0	
+entry	Python [H.-E. Sauvage] (bibliographie)	0	
 orth	Python		
 entry	Pyxis [H.-E. Sauvage]	0	
 orth	Pyxis		

@@ -5,7 +5,7 @@ pb	[s. pag.]	0003	4590943
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4590944
 pb	1	0005	4590945
-entry	Sympathique (Grand) [François-Franck]	152	
+entry	Sympathique (Grand) [François-Franck]	144	
 orth	Sympathique (Grand)		
 pb	2	0006	4590946
 pb	3	0007	4590947
@@ -152,6 +152,8 @@ pb	143	0147	4591087
 pb	144	0148	4591088
 pb	145	0149	4591089
 pb	146	0150	4591090
+entry	Sympathique (Grand) [François-Franck] (bibliographie)	7	
+orth	Sympathique (Grand)		
 pb	147	0151	4591091
 pb	148	0152	4591092
 pb	149	0153	4591093
@@ -162,7 +164,7 @@ pb	153	0157	4591097
 pb	154	0158	4591098
 entry	Sympexis, Sympexion [Amédée Dechambre]	0	
 orth	Sympexis, Sympexion		
-entry	Symphonia [H. Baillon]	0	
+entry	Symphonia [H. Baillon] (bibliographie)	0	
 orth	Symphonia		
 entry	Symphyse [Amédée Dechambre]	0	
 orth	Symphyse		
@@ -170,9 +172,11 @@ entry	Symphytum [G. Planchon]	0
 orth	Symphytum		
 entry	Sympiézomètre [Amédée Dechambre]	0	
 orth	Sympiézomètre		
-entry	Symplocarpus [G. Planchon]	1	
+entry	Symplocarpus [G. Planchon]	0	
 orth	Symplocarpus		
 pb	155	0159	4591099
+entry	Symplocarpus [G. Planchon] (bibliographie)	0	
+orth	Symplocarpus		
 entry	Symplocos [G. Planchon]	0	
 orth	Symplocos		
 entry	Symptôme [L. Hecht]	6	
@@ -206,7 +210,7 @@ entry	Synchondrose [Amédée Dechambre]	0
 orth	Synchondrose		
 entry	Syncinésie	0	
 ref	Moelle		
-entry	Syncope [Émile Bertin-Sans]	22	
+entry	Syncope [Émile Bertin-Sans]	21	
 orth	Syncope		
 pb	164	0168	4591108
 pb	165	0169	4591109
@@ -230,12 +234,16 @@ pb	182	0186	4591126
 pb	183	0187	4591127
 pb	184	0188	4591128
 pb	185	0189	4591129
-entry	Syndactyles [E. Oustalet]	4	
+entry	Syncope [Émile Bertin-Sans] (bibliographie)	0	
+orth	Syncope		
+entry	Syndactyles [E. Oustalet]	3	
 orth	Syndactyles		
 pb	186	0190	4591130
 pb	187	0191	4591131
 pb	188	0192	4591132
 pb	189	0193	4591133
+entry	Syndactyles [E. Oustalet] (bibliographie)	0	
+orth	Syndactyles		
 entry	Syndactylie	0	
 ref	Doigts (Pathologie)		
 entry	Syndicats médicaux [Amédée Dechambre]	6	
@@ -251,13 +259,17 @@ orth	Syndrome
 pb	196	0200	4591140
 entry	Synéchie [Amédée Dechambre]	0	
 orth	Synéchie		
-entry	Synergies [E. Dally]	2	
+entry	Synergies [E. Dally]	1	
 orth	Synergies		
 pb	197	0201	4591141
 pb	198	0202	4591142
-entry	Synésius [L. Hahn]	1	
+entry	Synergies [E. Dally] (bibliographie)	0	
+orth	Synergies		
+entry	Synésius [L. Hahn]	0	
 orth	Synésius		
 pb	199	0203	4591143
+entry	Synésius [L. Hahn] (bibliographie)	0	
+orth	Synésius		
 entry	Synesthésie	0	
 ref	Moelle		
 entry	Syngame [Ed. Lefèvre]	1	
@@ -265,9 +277,11 @@ orth	Syngame
 pb	200	0204	4591144
 entry	Syngénésisme [Amédée Dechambre]	0	
 orth	Syngénésisme		
-entry	Syngnathes [H.-E. Sauvage]	1	
+entry	Syngnathes [H.-E. Sauvage]	0	
 orth	Syngnathes		
 pb	201	0205	4591145
+entry	Syngnathes [H.-E. Sauvage] (bibliographie)	0	
+orth	Syngnathes		
 entry	Synizésis [Amédée Dechambre]	0	
 orth	Synizésis		
 entry	Synoptique (Méthode) [Amédée Dechambre]	0	
@@ -338,7 +352,7 @@ pb	244	0248	4591188
 pb	245	0249	4591189
 pb	246	0250	4591190
 pb	247	0251	4591191
-entry	Syphilides [J. Rollet, E. Chambard] [L. Hahn]	8	
+entry	Syphilides [J. Rollet, E. Chambard] (bibliographie) [L. Hahn]	8	
 orth	Syphilides		
 pb	248	0252	4591192
 pb	249	0253	4591193
@@ -811,7 +825,7 @@ pb	688	0692	4591632
 pb	689	0693	4591633
 pb	690	0694	4591634
 pb	691	0695	4591635
-entry	Syphilisation [J. Rollet] [L. Hahn]	1	
+entry	Syphilisation [J. Rollet] (bibliographie) [L. Hahn]	1	
 orth	Syphilisation		
 pb	692	0696	4591636
 entry	Syphiloïdes [Amédée Dechambre]	1	
@@ -825,7 +839,7 @@ entry	Syriaque (Onguent) [Amédée Dechambre]	0
 orth	Syriaque (Onguent)		
 entry	Syriaque (Ulcère) [Amédée Dechambre]	0	
 orth	Syriaque (Ulcère)		
-entry	Syrie, Mésopotamie et Babylonie [G. Liétard]	65	
+entry	Syrie, Mésopotamie et Babylonie [G. Liétard]	61	
 orth	Syrie, Mésopotamie et Babylonie		
 pb	694	0698	4591638
 pb	695	0699	4591639
@@ -889,6 +903,8 @@ pb	752	0756	4591696
 pb	753	0757	4591697
 pb	754	0758	4591698
 pb	755	0759	4591699
+entry	Syrie, Mésopotamie et Babylonie [G. Liétard] (bibliographie)	3	
+orth	Syrie, Mésopotamie et Babylonie		
 pb	756	0760	4591700
 pb	757	0761	4591701
 pb	758	0762	4591702

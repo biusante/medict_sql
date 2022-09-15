@@ -18,9 +18,11 @@ entry	Palette [Amédée Dechambre]	0
 orth	Palette		
 entry	Palétuvier [G. Planchon]	0	
 orth	Palétuvier		
-entry	Palfyn (Jean) [A. Chéreau]	2	
+entry	Palfyn (Jean) [A. Chéreau]	0	
 orth	Palfyn (Jean)		
 pb	5	0009	4574073
+entry	Palfyn (Jean) [A. Chéreau] (bibliographie)	1	
+orth	Palfyn (Jean)		
 pb	6	0010	4574074
 entry	Palicourea, Palicurea	0	
 entry	Botanique [H. Baillon]	0	
@@ -29,7 +31,7 @@ entry	Emploi [Bazile Féris]	0
 orth	Emploi		
 pb	7	0011	4574075
 entry	Palicourea, Palicurea	0	
-entry	Emploi [Bazile Féris]	0	
+entry	Emploi [Bazile Féris] (bibliographie)	0	
 orth	Emploi		
 entry	Palicourine	0	
 ref	Palicourea		
@@ -37,9 +39,11 @@ entry	Palimpissa [G. Planchon]	0
 orth	Palimpissa		
 entry	Palinurus [G. Planchon]	0	
 orth	Palinurus		
-entry	Palisot de Beauvois (Ambroise-Marie-François-Joseph, baron de) [L. Hahn]	1	
+entry	Palisot de Beauvois (Ambroise-Marie-François-Joseph, baron de) [L. Hahn]	0	
 orth	Palisot de Beauvois (Ambroise-Marie-François-Joseph, baron de)		
 pb	8	0012	4574076
+entry	Palisot de Beauvois (Ambroise-Marie-François-Joseph, baron de) [L. Hahn] (bibliographie)	0	
+orth	Palisot de Beauvois (Ambroise-Marie-François-Joseph, baron de)		
 entry	Palissandre, Palixandre [G. Planchon]	0	
 orth	Palissandre, Palixandre		
 entry	Palissy (Bernard) [L. Hahn]	1	
@@ -47,9 +51,11 @@ orth	Palissy (Bernard)
 pb	9	0013	4574077
 entry	Paliure [D.]	0	
 orth	Paliure		
-entry	Paliure [H. Baillon]	1	
+entry	Paliure [H. Baillon]	0	
 orth	Paliure		
 pb	10	0014	4574078
+entry	Paliure [H. Baillon] (bibliographie)	0	
+orth	Paliure		
 entry	Palla [G. Planchon]	0	
 orth	Palla		
 entry	Palladamine [L. Hahn]	1	
@@ -63,21 +69,29 @@ pb	14	0018	4574082
 entry	Palladius (Les) [L. Hahn]	1	
 orth	Palladius (Les)		
 pb	15	0019	4574083
-entry	Pallas (Les) [L. Hahn]	2	
+entry	Pallas (Les) [L. Hahn] (bibliographie)	0	
 orth	Pallas (Les)		
 pb	16	0020	4574084
+entry	Pallas (Les) [L. Hahn]	0	
+orth	Pallas (Les)		
 pb	17	0021	4574085
-entry	Palletta (Giovanni-Battista) [L. Hahn]	1	
+entry	Pallas (Les) [L. Hahn] (bibliographie)	0	
+orth	Pallas (Les)		
+entry	Palletta (Giovanni-Battista) [L. Hahn]	0	
 orth	Palletta (Giovanni-Battista)		
 pb	18	0022	4574086
+entry	Palletta (Giovanni-Battista) [L. Hahn] (bibliographie)	0	
+orth	Palletta (Giovanni-Battista)		
 entry	Palliatifs [Amédée Dechambre]	1	
 orth	Palliatifs		
 pb	19	0023	4574087
-entry	Palloni (Gaetano) [A. Dureau]	0	
+entry	Palloni (Gaetano) [A. Dureau] (bibliographie)	0	
 orth	Palloni (Gaetano)		
-entry	Pallu (Victor) [A. Dureau]	1	
+entry	Pallu (Victor) [A. Dureau]	0	
 orth	Pallu (Victor)		
 pb	20	0024	4574088
+entry	Pallu (Victor) [A. Dureau] (bibliographie)	0	
+orth	Pallu (Victor)		
 entry	Pallucci (Giuseppe-Natale) [L. Hahn]	0	
 orth	Pallucci (Giuseppe-Natale)		
 entry	Palma-christi [G. Planchon]	0	
@@ -122,16 +136,20 @@ entry	Palmier de la thébaïde [G. Planchon]	0
 orth	Palmier de la thébaïde		
 entry	Palmier à vin [G. Planchon]	0	
 orth	Palmier à vin		
-entry	Palmiers ou palmacées [G. Planchon]	1	
+entry	Palmiers ou palmacées [G. Planchon]	0	
 orth	Palmiers ou palmacées		
 pb	25	0029	4574093
+entry	Palmiers ou palmacées [G. Planchon] (bibliographie)	0	
+orth	Palmiers ou palmacées		
 entry	Palmi-juncus [G. Planchon]	0	
 orth	Palmi-juncus		
-entry	Palmipèdes [E. Oustalet]	3	
+entry	Palmipèdes [E. Oustalet]	2	
 orth	Palmipèdes		
 pb	26	0030	4574094
 pb	27	0031	4574095
 pb	28	0032	4574096
+entry	Palmipèdes [E. Oustalet] (bibliographie)	0	
+orth	Palmipèdes		
 entry	Palmique (Acide)	0	
 ref	Ricinélaïdique (Acide)		
 pb	29	0033	4574097
@@ -164,7 +182,7 @@ entry	Palmula indica [G. Planchon]	0
 orth	Palmula indica		
 entry	Palmulae [G. Planchon]	0	
 orth	Palmulae		
-entry	Palo [G. Planchon]	0	
+entry	Palo [G. Planchon] (bibliographie)	0	
 orth	Palo		
 entry	Palocada [G. Planchon]	0	
 orth	Palocada		
@@ -213,7 +231,7 @@ pb	70	0074	4574138
 entry	Palpébrales (Artères)	0	
 ref	Ophthalmique (Artère)		
 pb	71	0075	4574139
-entry	Palpitations [L. Du Cazal]	9	
+entry	Palpitations [L. Du Cazal]	7	
 orth	Palpitations		
 pb	72	0076	4574140
 pb	73	0077	4574141
@@ -223,6 +241,8 @@ pb	76	0080	4574144
 pb	77	0081	4574145
 pb	78	0082	4574146
 pb	79	0083	4574147
+entry	Palpitations [L. Du Cazal] (bibliographie)	1	
+orth	Palpitations		
 pb	80	0084	4574148
 entry	Palqui [G. Planchon]	0	
 orth	Palqui		
@@ -240,7 +260,7 @@ ref	Impaludisme
 ref	Intermittentes (Fièvres)		
 entry	Pam [G. Planchon]	0	
 orth	Pam		
-entry	Pamard (Les) [A. Chéreau]	1	
+entry	Pamard (Les) [A. Chéreau] (bibliographie)	1	
 orth	Pamard (Les)		
 pb	82	0086	4574150
 entry	Pamea [G. Planchon]	0	
@@ -274,16 +294,18 @@ entry	Panacoco [H. Baillon]	0
 orth	Panacoco		
 entry	Panade	0	
 ref	Pain		
-entry	Panais [H. Baillon]	1	
+entry	Panais [H. Baillon]	0	
 orth	Panais		
 pb	86	0090	4574154
+entry	Panais [H. Baillon] (bibliographie)	0	
+orth	Panais		
 entry	Panama (Écorce de) [Amédée Dechambre]	0	
 orth	Panama (Écorce de)		
 entry	Paname [G. Planchon]	0	
 orth	Paname		
 entry	Panaquilone [L. Hahn]	0	
 orth	Panaquilone		
-entry	Panaris [Polaillon]	12	
+entry	Panaris [Polaillon]	11	
 orth	Panaris		
 pb	87	0091	4574155
 pb	88	0092	4574156
@@ -297,16 +319,22 @@ pb	95	0099	4574163
 pb	96	0100	4574164
 pb	97	0101	4574165
 pb	98	0102	4574166
-entry	Panaroli (Domenico) [L. Hahn]	1	
+entry	Panaris [Polaillon] (bibliographie)	0	
+orth	Panaris		
+entry	Panaroli (Domenico) [L. Hahn]	0	
 orth	Panaroli (Domenico)		
 pb	99	0103	4574167
+entry	Panaroli (Domenico) [L. Hahn] (bibliographie)	0	
+orth	Panaroli (Domenico)		
 entry	Panassou (Eau minérale de) [A. Rotureau]	0	
 orth	Panassou (Eau minérale de)		
 entry	Panasu, Panaz, Panagon [G. Planchon]	0	
 orth	Panasu, Panaz, Panagon		
-entry	Panax [Bazile Féris]	1	
+entry	Panax [Bazile Féris]	0	
 orth	Panax		
 pb	100	0104	4574168
+entry	Panax [Bazile Féris] (bibliographie)	0	
+orth	Panax		
 entry	Panax Asclepium [G. Planchon]	0	
 orth	Panax Asclepium		
 entry	Panax chironium [G. Planchon]	0	
@@ -324,7 +352,7 @@ orth	Panceri (Paolo)
 entry	Panchymagogues [Amédée Dechambre]	0	
 orth	Panchymagogues		
 pb	101	0105	4574169
-entry	Panckow (Thomas) [L. Hahn]	0	
+entry	Panckow (Thomas) [L. Hahn] (bibliographie)	0	
 orth	Panckow (Thomas)		
 entry	Pancoast (Joseph) [L. Hahn]	0	
 orth	Pancoast (Joseph)		
@@ -383,7 +411,7 @@ pb	134	0138	4574202
 pb	135	0139	4574203
 pb	136	0140	4574204
 pb	137	0141	4574205
-entry	Pancréas. Pathologie [X. Arnozan]	43	
+entry	Pancréas. Pathologie [X. Arnozan]	40	
 orth	Pancréas. Pathologie		
 pb	138	0142	4574206
 pb	139	0143	4574207
@@ -426,6 +454,8 @@ pb	175	0179	4574243
 pb	176	0180	4574244
 pb	177	0181	4574245
 pb	178	0182	4574246
+entry	Pancréas. Pathologie [X. Arnozan] (bibliographie)	2	
+orth	Pancréas. Pathologie		
 pb	179	0183	4574247
 pb	180	0184	4574248
 entry	Pancréatico-duodénale (Artère)	0	
@@ -447,34 +477,46 @@ orth	Panda-vanacu
 entry	Pandanées [G. Planchon]	1	
 orth	Pandanées		
 pb	181	0185	4574249
-entry	Pandanus (L. F.) [G. Planchon]	1	
+entry	Pandanus (L. F.) [G. Planchon]	0	
 orth	Pandanus (L. F.)		
 pb	182	0186	4574250
-entry	Pander (Christian-Heinrich) [L. Hahn]	1	
+entry	Pandanus (L. F.) [G. Planchon] (bibliographie)	0	
+orth	Pandanus (L. F.)		
+entry	Pander (Christian-Heinrich) [L. Hahn]	0	
 orth	Pander (Christian-Heinrich)		
 pb	183	0187	4574251
+entry	Pander (Christian-Heinrich) [L. Hahn] (bibliographie)	0	
+orth	Pander (Christian-Heinrich)		
 entry	Pandlon [G. Planchon]	0	
 orth	Pandlon		
 entry	Pane [G. Planchon]	0	
 orth	Pane		
-entry	Pangium [H. Baillon]	1	
+entry	Pangium [H. Baillon]	0	
 orth	Pangium		
 pb	184	0188	4574252
+entry	Pangium [H. Baillon] (bibliographie)	0	
+orth	Pangium		
 entry	Pangnagason [G. Planchon]	0	
 orth	Pangnagason		
-entry	Pangolin [E. Oustalet]	2	
+entry	Pangolin [E. Oustalet]	1	
 orth	Pangolin		
 pb	185	0189	4574253
 pb	186	0190	4574254
+entry	Pangolin [E. Oustalet] (bibliographie)	0	
+orth	Pangolin		
 entry	Pani [G. Planchon]	0	
 orth	Pani		
-entry	Panic [G. Planchon]	1	
+entry	Panic [G. Planchon]	0	
 orth	Panic		
 pb	187	0191	4574255
-entry	Panicaut [H. Baillon]	2	
+entry	Panic [G. Planchon] (bibliographie)	0	
+orth	Panic		
+entry	Panicaut [H. Baillon]	1	
 orth	Panicaut		
 pb	188	0192	4574256
 pb	189	0193	4574257
+entry	Panicaut [H. Baillon] (bibliographie)	0	
+orth	Panicaut		
 entry	Panichekai [G. Planchon]	0	
 orth	Panichekai		
 entry	Panios [G. Planchon]	0	
@@ -484,7 +526,7 @@ orth	Panis cuculli ou Pain de coucou
 pb	190	0194	4574258
 entry	Panis panisse [G. Planchon]	0	
 orth	Panis panisse		
-entry	Panizza (Bartolomeo) [L. Hahn]	0	
+entry	Panizza (Bartolomeo) [L. Hahn] (bibliographie)	0	
 orth	Panizza (Bartolomeo)		
 entry	Panja panjala [G. Planchon]	0	
 orth	Panja panjala		
@@ -505,10 +547,12 @@ entry	Pannus [Amédée Dechambre]	0
 orth	Pannus		
 entry	Panoma [G. Planchon]	0	
 orth	Panoma		
-entry	Panophobie [Ant. Ritti]	2	
+entry	Panophobie [Ant. Ritti]	1	
 orth	Panophobie		
 pb	192	0196	4574260
 pb	193	0197	4574261
+entry	Panophobie [Ant. Ritti] (bibliographie)	0	
+orth	Panophobie		
 entry	Panophthalmie [Amédée Dechambre]	0	
 orth	Panophthalmie		
 entry	Panoptique [Giraud-Teulon]	1	
@@ -742,25 +786,29 @@ entry	Pantagruelion [G. Planchon]	0
 orth	Pantagruelion		
 entry	Pantagruelion sauvage [G. Planchon]	0	
 orth	Pantagruelion sauvage		
-entry	Pantaleone [L. Hahn]	0	
+entry	Pantaleone [L. Hahn] (bibliographie)	0	
 orth	Pantaleone		
-entry	Panthère [E. Oustalet]	5	
+entry	Panthère [E. Oustalet]	4	
 orth	Panthère		
 pb	400	0404	4574468
 pb	401	0405	4574469
 pb	402	0406	4574470
 pb	403	0407	4574471
 pb	404	0408	4574472
+entry	Panthère [E. Oustalet] (bibliographie)	0	
+orth	Panthère		
 entry	Panthot (Jean-Baptiste) [L. Hahn]	0	
 orth	Panthot (Jean-Baptiste)		
 pb	405	0409	4574473
-entry	Panticosa (Eaux minérales de) [A. Rotureau]	6	
+entry	Panticosa (Eaux minérales de) [A. Rotureau]	4	
 orth	Panticosa (Eaux minérales de)		
 pb	406	0410	4574474
 pb	407	0411	4574475
 pb	408	0412	4574476
 pb	409	0413	4574477
 pb	410	0414	4574478
+entry	Panticosa (Eaux minérales de) [A. Rotureau] (bibliographie)	1	
+orth	Panticosa (Eaux minérales de)		
 pb	411	0415	4574479
 entry	Pantoufle [G. Planchon]	0	
 orth	Pantoufle		
@@ -773,7 +821,7 @@ orth	Panum (Les deux)
 entry	Panus [Ed. Lefèvre]	1	
 orth	Panus		
 pb	412	0416	4574480
-entry	Panvini (abbé Pasquale) [A. Dureau]	0	
+entry	Panvini (abbé Pasquale) [A. Dureau] (bibliographie)	0	
 orth	Panvini (abbé Pasquale)		
 entry	Panzani (Giuseppe) [L. Hahn]	0	
 orth	Panzani (Giuseppe)		
@@ -782,10 +830,12 @@ orth	Panzer (Georg-Wolfgang-Franz)
 entry	Pao [G. Planchon]	0	
 orth	Pao		
 pb	413	0417	4574481
-entry	Paon [E. Oustalet]	2	
+entry	Paon [E. Oustalet]	1	
 orth	Paon		
 pb	414	0418	4574482
 pb	415	0419	4574483
+entry	Paon [E. Oustalet] (bibliographie)	0	
+orth	Paon		
 entry	Paons de nuit [A. Laboulbène]	3	
 orth	Paons de nuit		
 pb	416	0420	4574484
@@ -802,11 +852,11 @@ entry	Paotchong [G. Planchon]	0
 orth	Paotchong		
 entry	Pao-tuc [G. Planchon]	0	
 orth	Pao-tuc		
-entry	Papa (Giuseppe del) [L. Hahn]	0	
+entry	Papa (Giuseppe del) [L. Hahn] (bibliographie)	0	
 orth	Papa (Giuseppe del)		
 entry	Papagalli [L. Hahn]	0	
 orth	Papagalli		
-entry	Papaïne [Ernest Labbée]	8	
+entry	Papaïne [Ernest Labbée]	6	
 orth	Papaïne		
 pb	420	0424	4574488
 pb	421	0425	4574489
@@ -815,6 +865,8 @@ pb	423	0427	4574491
 pb	424	0428	4574492
 pb	425	0429	4574493
 pb	426	0430	4574494
+entry	Papaïne [Ernest Labbée] (bibliographie)	1	
+orth	Papaïne		
 pb	427	0431	4574495
 entry	Papalu [G. Planchon]	0	
 orth	Papalu		
@@ -824,18 +876,22 @@ entry	Papapa-Carica	0
 ref	Papayer		
 entry	Papapara [G. Planchon]	0	
 orth	Papapara		
-entry	Papaver [H. Baillon]	4	
+entry	Papaver [H. Baillon]	2	
 orth	Papaver		
 pb	428	0432	4574496
 pb	429	0433	4574497
 pb	430	0434	4574498
+entry	Papaver [H. Baillon] (bibliographie)	1	
+orth	Papaver		
 pb	431	0435	4574499
-entry	Papavéracées [H. Baillon]	4	
+entry	Papavéracées [H. Baillon]	3	
 orth	Papavéracées		
 pb	432	0436	4574500
 pb	433	0437	4574501
 pb	434	0438	4574502
 pb	435	0439	4574503
+entry	Papavéracées [H. Baillon] (bibliographie)	0	
+orth	Papavéracées		
 entry	Papavérine	0	
 entry	Papavérine. Chimie [C. Lutz]	2	
 orth	Papavérine. Chimie		
@@ -845,13 +901,15 @@ entry	Papavérine. Emploi médical [Fonssagrives]	2
 orth	Papavérine. Emploi médical		
 pb	438	0442	4574506
 pb	439	0443	4574507
-entry	Papavoine (Louis-Nicolas) [A. Chéreau]	0	
+entry	Papavoine (Louis-Nicolas) [A. Chéreau] (bibliographie)	0	
 orth	Papavoine (Louis-Nicolas)		
 entry	Papayer	0	
-entry	Papayer. Botanique [H. Baillon]	3	
+entry	Papayer. Botanique [H. Baillon]	1	
 orth	Papayer. Botanique		
 pb	440	0444	4574508
 pb	441	0445	4574509
+entry	Papayer. Botanique [H. Baillon] (bibliographie)	1	
+orth	Papayer. Botanique		
 pb	442	0446	4574510
 entry	Papayer. Bromatologie [Bazile Féris]	1	
 orth	Papayer. Bromatologie		
@@ -862,7 +920,7 @@ pb	444	0448	4574512
 entry	Papier (Huile de) [Amédée Dechambre]	1	
 orth	Papier (Huile de)		
 pb	445	0449	4574513
-entry	Papier (Hygiène professionnelle) [Alexandre Layet]	7	
+entry	Papier (Hygiène professionnelle) [Alexandre Layet]	6	
 orth	Papier (Hygiène professionnelle)		
 pb	446	0450	4574514
 pb	447	0451	4574515
@@ -871,11 +929,13 @@ pb	449	0453	4574517
 pb	450	0454	4574518
 pb	451	0455	4574519
 pb	452	0456	4574520
+entry	Papier (Hygiène professionnelle) [Alexandre Layet] (bibliographie)	0	
+orth	Papier (Hygiène professionnelle)		
 entry	Papiers médicamenteux [Amédée Dechambre]	2	
 orth	Papiers médicamenteux		
 pb	453	0457	4574521
 pb	454	0458	4574522
-entry	Papiers peints (Hygiène professionnelle et hygiène domestique) [Alexandre Layet]	7	
+entry	Papiers peints (Hygiène professionnelle et hygiène domestique) [Alexandre Layet]	5	
 orth	Papiers peints (Hygiène professionnelle et hygiène domestique)		
 pb	455	0459	4574523
 pb	456	0460	4574524
@@ -883,6 +943,8 @@ pb	457	0461	4574525
 pb	458	0462	4574526
 pb	459	0463	4574527
 pb	460	0464	4574528
+entry	Papiers peints (Hygiène professionnelle et hygiène domestique) [Alexandre Layet] (bibliographie)	1	
+orth	Papiers peints (Hygiène professionnelle et hygiène domestique)		
 pb	461	0465	4574529
 entry	Papiers réactifs [L. Hahn]	1	
 orth	Papiers réactifs		
@@ -917,17 +979,21 @@ orth	Papillons
 pb	480	0484	4574548
 pb	481	0485	4574549
 pb	482	0486	4574550
-entry	Papin (Les deux) [A. Chéreau]	3	
+entry	Papin (Les deux) [A. Chéreau]	2	
 orth	Papin (Les deux)		
 pb	483	0487	4574551
 pb	484	0488	4574552
 pb	485	0489	4574553
+entry	Papin (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Papin (Les deux)		
 entry	Papiru [G. Planchon]	0	
 orth	Papiru		
-entry	Papius (Carl Wilhelm) [A. Dureau]	1	
+entry	Papius (Carl Wilhelm) [A. Dureau]	0	
 orth	Papius (Carl Wilhelm)		
 pb	486	0490	4574554
-entry	Papouasie ou Terre des papous ou Nouvelle-Guinée [Bazile Féris]	13	
+entry	Papius (Carl Wilhelm) [A. Dureau] (bibliographie)	0	
+orth	Papius (Carl Wilhelm)		
+entry	Papouasie ou Terre des papous ou Nouvelle-Guinée [Bazile Féris]	11	
 orth	Papouasie ou Terre des papous ou Nouvelle-Guinée		
 pb	487	0491	4574555
 pb	488	0492	4574556
@@ -941,6 +1007,8 @@ pb	495	0499	4574563
 pb	496	0500	4574564
 pb	497	0501	4574565
 pb	498	0502	4574566
+entry	Papouasie ou Terre des papous ou Nouvelle-Guinée [Bazile Féris] (bibliographie)	1	
+orth	Papouasie ou Terre des papous ou Nouvelle-Guinée		
 pb	499	0503	4574567
 entry	Pappenheim (Louis) [L. Hahn]	0	
 orth	Pappenheim (Louis)		
@@ -955,7 +1023,7 @@ entry	Papyrius [G. Planchon]	0
 orth	Papyrius		
 entry	Papyrus, Papyrus d'Égypte [G. Planchon]	0	
 orth	Papyrus, Papyrus d'Égypte		
-entry	Paquerette [G. Planchon]	0	
+entry	Paquerette [G. Planchon] (bibliographie)	0	
 orth	Paquerette		
 entry	Paquette [G. Planchon]	0	
 orth	Paquette		
@@ -985,7 +1053,7 @@ entry	Paracaséine [L. Hahn]	0
 orth	Paracaséine		
 entry	Paracellulose [L. Hahn]	0	
 orth	Paracellulose		
-entry	Paracelse [L. Hahn]	7	
+entry	Paracelse [L. Hahn]	5	
 orth	Paracelse		
 pb	503	0507	4574571
 pb	504	0508	4574572
@@ -993,10 +1061,12 @@ pb	505	0509	4574573
 pb	506	0510	4574574
 pb	507	0511	4574575
 pb	508	0512	4574576
+entry	Paracelse [L. Hahn] (bibliographie)	1	
+orth	Paracelse		
 pb	509	0513	4574577
 entry	Paracelse (Élixir de) [Amédée Dechambre]	0	
 orth	Paracelse (Élixir de)		
-entry	Paracentèse [V. Widal]	7	
+entry	Paracentèse [V. Widal]	6	
 orth	Paracentèse		
 pb	510	0514	4574578
 pb	511	0515	4574579
@@ -1005,10 +1075,14 @@ pb	513	0517	4574581
 pb	514	0518	4574582
 pb	515	0519	4574583
 pb	516	0520	4574584
-entry	Paracéphaliens [O. Larcher]	2	
+entry	Paracentèse [V. Widal] (bibliographie)	0	
+orth	Paracentèse		
+entry	Paracéphaliens [O. Larcher]	1	
 orth	Paracéphaliens		
 pb	517	0521	4574585
 pb	518	0522	4574586
+entry	Paracéphaliens [O. Larcher] (bibliographie)	0	
+orth	Paracéphaliens		
 entry	Parachloralide [L. Hahn]	0	
 orth	Parachloralide		
 entry	Paracholique (Acide) [L. Hahn]	1	
@@ -1034,11 +1108,13 @@ orth	Paracyanique (Acide)
 entry	Paracyanogène [L. Hahn]	1	
 orth	Paracyanogène		
 pb	521	0525	4574589
-entry	Parad (Eaux minérales de) [A. Rotureau]	3	
+entry	Parad (Eaux minérales de) [A. Rotureau]	2	
 orth	Parad (Eaux minérales de)		
 pb	522	0526	4574590
 pb	523	0527	4574591
 pb	524	0528	4574592
+entry	Parad (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Parad (Eaux minérales de)		
 entry	Paradacry [G. Planchon]	0	
 orth	Paradacry		
 entry	Paradatiscétine [L. Hahn]	0	
@@ -1054,12 +1130,14 @@ entry	Paradis (Graines de) [G. Planchon]	0
 orth	Paradis (Graines de)		
 entry	Paradisea	0	
 ref	Paradisiers		
-entry	Paradisiers [E. Oustalet]	4	
+entry	Paradisiers [E. Oustalet]	3	
 orth	Paradisiers		
 pb	526	0530	4574594
 pb	527	0531	4574595
 pb	528	0532	4574596
 pb	529	0533	4574597
+entry	Paradisiers [E. Oustalet] (bibliographie)	0	
+orth	Paradisiers		
 entry	Paradys (Nicolaus) [A. Dureau]	0	
 orth	Paradys (Nicolaus)		
 entry	Paraellagique (Acide) [L. Hahn]	0	
@@ -1115,7 +1193,7 @@ entry	Paraldéhyde	0
 entry	Paraldéhyde. Chimie [L. Hahn]	1	
 orth	Paraldéhyde. Chimie		
 pb	534	0538	4574602
-entry	Paraldéhyde. Emploi médical [Charles Éloy]	8	
+entry	Paraldéhyde. Emploi médical [Charles Éloy]	7	
 orth	Paraldéhyde. Emploi médical		
 pb	535	0539	4574603
 pb	536	0540	4574604
@@ -1125,6 +1203,8 @@ pb	539	0543	4574607
 pb	540	0544	4574608
 pb	541	0545	4574609
 pb	542	0546	4574610
+entry	Paraldéhyde. Emploi médical [Charles Éloy] (bibliographie)	0	
+orth	Paraldéhyde. Emploi médical		
 entry	Paralios [G. Planchon]	0	
 orth	Paralios		
 entry	Paralysie (Considér. Général). [J. Grasset]	0	
@@ -1203,7 +1283,7 @@ pb	611	0615	4574679
 pb	612	0616	4574680
 pb	613	0617	4574681
 pb	614	0618	4574682
-entry	Paralysie. Paralysie agitante [L. Lereboullet, Bussard]	40	
+entry	Paralysie. Paralysie agitante [L. Lereboullet, Bussard]	38	
 orth	Paralysie. Paralysie agitante		
 pb	615	0619	4574683
 pb	616	0620	4574684
@@ -1244,16 +1324,20 @@ pb	650	0654	4574718
 pb	651	0655	4574719
 pb	652	0656	4574720
 pb	653	0657	4574721
+entry	Paralysie. Paralysie agitante [L. Lereboullet, Bussard] (bibliographie)	1	
+orth	Paralysie. Paralysie agitante		
 pb	654	0658	4574722
-entry	Paralysie. Paralysie alterne [E. Demange]	4	
+entry	Paralysie. Paralysie alterne [E. Demange]	3	
 orth	Paralysie. Paralysie alterne		
 pb	655	0659	4574723
 pb	656	0660	4574724
 pb	657	0661	4574725
 pb	658	0662	4574726
+entry	Paralysie. Paralysie alterne [E. Demange] (bibliographie)	0	
+orth	Paralysie. Paralysie alterne		
 entry	Paralysies consécutives	0	
 ref	Hystérie		
-entry	Paralysie. Paralysie infantile [L. Du Cazal]	29	
+entry	Paralysie. Paralysie infantile [L. Du Cazal]	26	
 orth	Paralysie. Paralysie infantile		
 pb	659	0663	4574727
 pb	660	0664	4574728
@@ -1282,9 +1366,11 @@ pb	682	0686	4574750
 pb	683	0687	4574751
 pb	684	0688	4574752
 pb	685	0689	4574753
+entry	Paralysie. Paralysie infantile [L. Du Cazal] (bibliographie)	2	
+orth	Paralysie. Paralysie infantile		
 pb	686	0690	4574754
 pb	687	0691	4574755
-entry	Paralysie. Paralysie labio-glosso-laryngée [L. Du Cazal]	19	
+entry	Paralysie. Paralysie labio-glosso-laryngée [L. Du Cazal]	17	
 orth	Paralysie. Paralysie labio-glosso-laryngée		
 pb	688	0692	4574756
 pb	689	0693	4574757
@@ -1304,8 +1390,10 @@ pb	702	0706	4574770
 pb	703	0707	4574771
 pb	704	0708	4574772
 pb	705	0709	4574773
+entry	Paralysie. Paralysie labio-glosso-laryngée [L. Du Cazal] (bibliographie)	1	
+orth	Paralysie. Paralysie labio-glosso-laryngée		
 pb	706	0710	4574774
-entry	Paralysie. Paralysie spinale de l'adulte [L. Du Cazal]	10	
+entry	Paralysie. Paralysie spinale de l'adulte [L. Du Cazal]	8	
 orth	Paralysie. Paralysie spinale de l'adulte		
 pb	707	0711	4574775
 pb	708	0712	4574776
@@ -1316,6 +1404,8 @@ pb	712	0716	4574780
 pb	713	0717	4574781
 pb	714	0718	4574782
 pb	715	0719	4574783
+entry	Paralysie. Paralysie spinale de l'adulte [L. Du Cazal] (bibliographie)	1	
+orth	Paralysie. Paralysie spinale de l'adulte		
 pb	716	0720	4574784
 entry	Paralysie toxique	0	
 ref	Mercure		

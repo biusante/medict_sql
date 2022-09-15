@@ -295,7 +295,9 @@ class MedictPrepa extends MedictUtil
                 );
             }
             // Absorbants [A. Gubler] (bibliographie) [Raige-Delorme] / Absorbants (vaisseaux). Voy. Lymphatiques / Absorption [Jules Béclard]
+            // On laisse (bibliographie) ?
             else if (self::starts_with($volume_cote, 'extbnfdechambre')) {
+                /*
                 $chapitre = preg_replace(
                     // NE PAS supprimer l’auteur
 
@@ -304,6 +306,7 @@ class MedictPrepa extends MedictUtil
                     $chapitre
                 );
                 // if ($echo) fwrite(STDERR, $chapitre."\n");
+                */
             }
             //  H. - Habrioux; Hardy François; Hauterive Jean-Baptiste; Hélitas Jean; Heur (d') François; Hospital Gaspard; Houpin René; Hugon Jean; Hugon Joseph; Hugonnaud Jean; Hugonneau Martial / I. - Itier Jacques
             else if (self::starts_with($volume_cote, '24374')) {
@@ -313,7 +316,9 @@ class MedictPrepa extends MedictUtil
                     $chapitre
                 );
             }
-
+            // pour le split sur plusieurs vewdettes, pose des pbs
+            // Couronne de Vénus, (la) 07410xM05
+            $chapitre = preg_replace('/ *, *\(/ui', ' (', $chapitre);
 
             // Rien d’indexé dans la page
             if ($chapitre == null || $chapitre == '') {
@@ -480,6 +485,8 @@ class MedictPrepa extends MedictUtil
                     array(
                         // [nom d’auteur]
                         '/ *\[[^\]]+\] */u',
+                        // pas une entrée
+                        '/ *\(bibliographie\)\.?/ui',
                         // Poplité (anat.)
                         // '/ *\((path|anat|)\.\) */ui',
                     ), 

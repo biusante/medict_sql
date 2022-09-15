@@ -29,12 +29,12 @@ ref	Bile
 pb	3	0007	4511282
 entry	Cholonique (Acide)	0	
 ref	Bile		
-entry	Chomel (Les) [H. Montanier]	2	
+entry	Chomel (Les) [H. Montanier] (bibliographie)	2	
 orth	Chomel (Les)		
 pb	4	0008	4511283
 pb	5	0009	4511284
 pb	6	0010	4511285
-entry	Chondrille [G. Planchon]	0	
+entry	Chondrille [G. Planchon] (bibliographie)	0	
 orth	Chondrille		
 entry	Chondrine [Amédée Dechambre]	0	
 orth	Chondrine		
@@ -51,9 +51,11 @@ entry	Chondroplastes	0
 ref	Cartilages		
 entry	Chondro-sternales	0	
 ref	Côtes		
-entry	Chondrus [H. Baillon]	1	
+entry	Chondrus [H. Baillon]	0	
 orth	Chondrus		
 pb	8	0012	4511287
+entry	Chondrus [H. Baillon] (bibliographie)	0	
+orth	Chondrus		
 entry	Chopart (François) [E. Beaugrand]	0	
 orth	Chopart (François)		
 entry	Choranche (Eau minérale de) [A. Rotureau]	1	
@@ -72,7 +74,7 @@ pb	12	0016	4511291
 pb	13	0017	4511292
 entry	Chorionitis	0	
 ref	Peau		
-entry	Choroïde [Maurice Perrin]	77	
+entry	Choroïde [Maurice Perrin]	75	
 orth	Choroïde		
 pb	14	0018	4511293
 pb	15	0019	4511294
@@ -150,6 +152,8 @@ pb	86	0090	4511365
 pb	87	0091	4511366
 pb	88	0092	4511367
 pb	89	0093	4511368
+entry	Choroïde [Maurice Perrin] (bibliographie)	1	
+orth	Choroïde		
 pb	90	0094	4511369
 entry	Choroïdes (Plexus)	0	
 ref	Ventricules		
@@ -157,14 +161,18 @@ entry	Choroïdiennes (Artère et Veine) [V. Paulet]	0
 orth	Choroïdiennes (Artère et Veine)		
 entry	Choroïdiennes (Toiles)	0	
 ref	Ventricules		
-entry	Chortet (J.-F.) [E. Beaugrand]	1	
+entry	Chortet (J.-F.) [E. Beaugrand]	0	
 orth	Chortet (J.-F.)		
 pb	91	0095	4511370
+entry	Chortet (J.-F.) [E. Beaugrand] (bibliographie)	0	
+orth	Chortet (J.-F.)		
 entry	Chou	0	
-entry	Chou. Botanique [G. Planchon]	2	
+entry	Chou. Botanique [G. Planchon]	1	
 orth	Chou. Botanique		
 pb	92	0096	4511371
 pb	93	0097	4511372
+entry	Chou. Botanique [G. Planchon] (bibliographie)	0	
+orth	Chou. Botanique		
 entry	Chou. Bromatologie et emploi médical [Amédée Dechambre]	2	
 orth	Chou. Bromatologie et emploi médical		
 pb	94	0098	4511373
@@ -173,7 +181,7 @@ entry	Chou caraïbe	0
 ref	Arum		
 entry	Chou marin	0	
 ref	Soldanelle		
-entry	Chouan [G. Planchon]	0	
+entry	Chouan [G. Planchon] (bibliographie)	0	
 orth	Chouan		
 entry	Choufleur (Pathol.)	0	
 ref	Condylomes		
@@ -181,21 +189,27 @@ entry	Choucroute	0
 ref	Chou		
 entry	Choullahs (Les)	0	
 ref	Berbers		
-entry	Chrestien ou Chrétien (Les) [E. Beaugrand]	3	
+entry	Chrestien ou Chrétien (Les) [E. Beaugrand]	0	
 orth	Chrestien ou Chrétien (Les)		
 pb	96	0100	4511375
+entry	Chrestien ou Chrétien (Les) [E. Beaugrand] (bibliographie)	2	
+orth	Chrestien ou Chrétien (Les)		
 pb	97	0101	4511376
 pb	98	0102	4511377
-entry	Christau (Saint-) (Eaux minérales de) [A. Rotureau]	3	
+entry	Christau (Saint-) (Eaux minérales de) [A. Rotureau]	2	
 orth	Christau (Saint-) (Eaux minérales de)		
 pb	99	0103	4511378
 pb	100	0104	4511379
 pb	101	0105	4511380
+entry	Christau (Saint-) (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
+orth	Christau (Saint-) (Eaux minérales de)		
 entry	Christian (Les) [H. Montanier]	0	
 orth	Christian (Les)		
-entry	Christiani (André) [A. Chéreau]	1	
+entry	Christiani (André) [A. Chéreau]	0	
 orth	Christiani (André)		
 pb	102	0106	4511381
+entry	Christiani (André) [A. Chéreau] (bibliographie)	0	
+orth	Christiani (André)		
 entry	Christophe-en-Brionnais (Saint-) (Eau minérale de) [A. Rotureau]	0	
 orth	Christophe-en-Brionnais (Saint-) (Eau minérale de)		
 entry	Christophorus de onestis	0	
@@ -205,12 +219,14 @@ entry	Chromates	0
 entry	Chromates. Chimie [Malaguti]	1	
 orth	Chromates. Chimie		
 pb	104	0108	4511383
-entry	Chromates. Emploi médical [J. Delioux de Savignac]	3	
+entry	Chromates. Emploi médical [J. Delioux de Savignac]	2	
 orth	Chromates. Emploi médical		
 pb	105	0109	4511384
 pb	106	0110	4511385
 pb	107	0111	4511386
-entry	Chromates. Hygiène industrielle [A. Delpech]	21	
+entry	Chromates. Emploi médical [J. Delioux de Savignac] (bibliographie)	0	
+orth	Chromates. Emploi médical		
+entry	Chromates. Hygiène industrielle [A. Delpech]	19	
 orth	Chromates. Hygiène industrielle		
 pb	108	0112	4511387
 pb	109	0113	4511388
@@ -232,10 +248,12 @@ pb	124	0128	4511403
 pb	125	0129	4511404
 pb	126	0130	4511405
 pb	127	0131	4511406
+entry	Chromates. Hygiène industrielle [A. Delpech] (bibliographie)	1	
+orth	Chromates. Hygiène industrielle		
 pb	128	0132	4511407
 entry	Chromatisme	0	
 ref	Dioptrique		
-entry	Chromatopseudopsie [E. Warlomont]	27	
+entry	Chromatopseudopsie [E. Warlomont]	24	
 orth	Chromatopseudopsie		
 pb	129	0133	4511408
 pb	130	0134	4511409
@@ -262,6 +280,8 @@ pb	150	0154	4511429
 pb	151	0155	4511430
 pb	152	0156	4511431
 pb	153	0157	4511432
+entry	Chromatopseudopsie [E. Warlomont] (bibliographie)	2	
+orth	Chromatopseudopsie		
 pb	154	0158	4511433
 pb	155	0159	4511434
 entry	Chrome [Malaguti]	3	
@@ -269,7 +289,7 @@ orth	Chrome
 pb	156	0160	4511435
 pb	157	0161	4511436
 pb	158	0162	4511437
-entry	Chromidrose [J. Parrot]	8	
+entry	Chromidrose [J. Parrot]	6	
 orth	Chromidrose		
 pb	159	0163	4511438
 pb	160	0164	4511439
@@ -278,18 +298,22 @@ pb	162	0166	4511441
 pb	163	0167	4511442
 pb	164	0168	4511443
 pb	165	0169	4511444
+entry	Chromidrose [J. Parrot] (bibliographie)	1	
+orth	Chromidrose		
 pb	166	0170	4511445
 entry	Chromique (Acide)	0	
 entry	Chromique (Acide). Chimie [Malaguti]	1	
 orth	Chromique (Acide). Chimie		
 pb	167	0171	4511446
-entry	Chromique (Acide). Emploi médical [J. Delioux de Savignac]	5	
+entry	Chromique (Acide). Emploi médical [J. Delioux de Savignac]	4	
 orth	Chromique (Acide). Emploi médical		
 pb	168	0172	4511447
 pb	169	0173	4511448
 pb	170	0174	4511449
 pb	171	0175	4511450
 pb	172	0176	4511451
+entry	Chromique (Acide). Emploi médical [J. Delioux de Savignac] (bibliographie)	0	
+orth	Chromique (Acide). Emploi médical		
 entry	Chromicyanogène [Malaguti]	0	
 orth	Chromicyanogène		
 entry	Chromosporés (Agarics) [Jacques Bertillon]	1	
@@ -313,9 +337,11 @@ entry	Chrysanilique (Acide) [Malaguti]	0
 orth	Chrysanilique (Acide)		
 entry	Chrysanisique (Acide) [Malaguti]	0	
 orth	Chrysanisique (Acide)		
-entry	Chrysanthème [G. Planchon]	1	
+entry	Chrysanthème [G. Planchon]	0	
 orth	Chrysanthème		
 pb	178	0182	4511457
+entry	Chrysanthème [G. Planchon] (bibliographie)	0	
+orth	Chrysanthème		
 entry	Chrysène [Malaguti]	0	
 orth	Chrysène		
 entry	Chrysippe [E. Beaugrand]	1	
@@ -323,7 +349,7 @@ orth	Chrysippe
 pb	179	0183	4511458
 entry	Chrysobalanus	0	
 ref	Icaquier		
-entry	Chrysocoma [G. Planchon]	0	
+entry	Chrysocoma [G. Planchon] (bibliographie)	0	
 orth	Chrysocoma		
 entry	Chrysogène [Malaguti]	0	
 orth	Chrysogène		
@@ -332,9 +358,11 @@ ref	Harmaline
 entry	Chrysophanique (Acide) [Malaguti]	1	
 orth	Chrysophanique (Acide)		
 pb	180	0184	4511459
-entry	Chrysophyllum [G. Planchon]	1	
+entry	Chrysophyllum [G. Planchon]	0	
 orth	Chrysophyllum		
 pb	181	0185	4511460
+entry	Chrysophyllum [G. Planchon] (bibliographie)	0	
+orth	Chrysophyllum		
 entry	Chrysorhamnine [Malaguti]	0	
 orth	Chrysorhamnine		
 entry	Chysosplenium	0	
@@ -345,9 +373,11 @@ entry	Chulan	0
 ref	Thé		
 entry	Chuperi [G. Planchon]	0	
 orth	Chuperi		
-entry	Chuquiraga [G. Planchon]	1	
+entry	Chuquiraga [G. Planchon]	0	
 orth	Chuquiraga		
 pb	182	0186	4511461
+entry	Chuquiraga [G. Planchon] (bibliographie)	0	
+orth	Chuquiraga		
 entry	Churrus	0	
 ref	Cannabène		
 ref	Cannabine		
@@ -363,10 +393,12 @@ entry	Chylurie	0
 ref	Urine)		
 entry	Chyme [Amédée Dechambre]	0	
 orth	Chyme		
-entry	Chynlen (Racine de) [G. Planchon]	1	
+entry	Chynlen (Racine de) [G. Planchon]	0	
 orth	Chynlen (Racine de)		
 pb	183	0187	4511462
-entry	Chypre (Géographie médicale) [G. Liétard]	13	
+entry	Chynlen (Racine de) [G. Planchon] (bibliographie)	0	
+orth	Chynlen (Racine de)		
+entry	Chypre (Géographie médicale) [G. Liétard]	11	
 orth	Chypre (Géographie médicale)		
 pb	184	0188	4511463
 pb	185	0189	4511464
@@ -380,6 +412,8 @@ pb	192	0196	4511471
 pb	193	0197	4511472
 pb	194	0198	4511473
 pb	195	0199	4511474
+entry	Chypre (Géographie médicale) [G. Liétard] (bibliographie)	1	
+orth	Chypre (Géographie médicale)		
 pb	196	0200	4511475
 entry	Chytridés ou Chytridinés [J. De Seynes]	0	
 orth	Chytridés ou Chytridinés		
@@ -418,15 +452,17 @@ pb	221	0225	4511500
 pb	222	0226	4511501
 pb	223	0227	4511502
 pb	224	0228	4511503
-entry	Cicatrices, Cicatrisation. Chirurgie [L.Legouest]	0	
+entry	Cicatrices, Cicatrisation. Chirurgie [L.Legouest] (bibliographie)	0	
 orth	Cicatrices, Cicatrisation. Chirurgie		
 entry	Médecine légale	0	
 ref	Blessures		
 entry	Cicatricule	0	
 ref	Oeuf		
-entry	Cicca (L.) [H. Baillon]	1	
+entry	Cicca (L.) [H. Baillon]	0	
 orth	Cicca (L.)		
 pb	225	0229	4511504
+entry	Cicca (L.) [H. Baillon] (bibliographie)	0	
+orth	Cicca (L.)		
 entry	Cicer (T.) [H. Baillon]	0	
 orth	Cicer (T.)		
 pb	226	0230	4511505
@@ -437,7 +473,7 @@ entry	Cichorium	0
 ref	Chicorée		
 entry	Cicuta	0	
 ref	Cigue		
-entry	Cicutaire [G. Planchon]	0	
+entry	Cicutaire [G. Planchon] (bibliographie)	0	
 orth	Cicutaire		
 entry	Cicutine	0	
 ref	Conicine		
@@ -448,7 +484,7 @@ pb	228	0232	4511507
 pb	229	0233	4511508
 pb	230	0234	4511509
 pb	231	0235	4511510
-entry	Cierge [G. Planchon]	0	
+entry	Cierge [G. Planchon] (bibliographie)	0	
 orth	Cierge		
 pb	232	0236	4511511
 entry	Cigale [A. Laboulbène]	1	
@@ -461,15 +497,17 @@ orth	Cigares médicinaux
 pb	234	0238	4511513
 pb	235	0239	4511514
 pb	236	0240	4511515
-entry	Cigna (Giovanni-Francesco) [E. Beaugrand]	1	
+entry	Cigna (Giovanni-Francesco) [E. Beaugrand]	0	
 orth	Cigna (Giovanni-Francesco)		
 pb	237	0241	4511516
+entry	Cigna (Giovanni-Francesco) [E. Beaugrand] (bibliographie)	0	
+orth	Cigna (Giovanni-Francesco)		
 entry	Cigogne [P. Gervais]	0	
 orth	Cigogne		
 pb	238	0242	4511517
 entry	Ciguë [G. Planchon]	0	
 orth	Ciguë		
-entry	Ciguë. Botanique [G. Planchon]	1	
+entry	Ciguë. Botanique [G. Planchon] (bibliographie)	1	
 orth	Ciguë. Botanique		
 pb	239	0243	4511518
 entry	Ciguë. Pharmacologie [T. Gobley]	4	
@@ -496,17 +534,21 @@ pb	256	0260	4511535
 pb	257	0261	4511536
 pb	258	0262	4511537
 pb	259	0263	4511538
-entry	Ciguë. Toxicologie [J. Delioux de Savignac]	5	
+entry	Ciguë. Toxicologie [J. Delioux de Savignac]	3	
 orth	Ciguë. Toxicologie		
 pb	260	0264	4511539
 pb	261	0265	4511540
 pb	262	0266	4511541
 pb	263	0267	4511542
+entry	Ciguë. Toxicologie [J. Delioux de Savignac] (bibliographie)	1	
+orth	Ciguë. Toxicologie		
 pb	264	0268	4511543
-entry	Cilano (George-Christ.) [E. Beaugrand]	1	
+entry	Cilano (George-Christ.) [E. Beaugrand]	0	
 orth	Cilano (George-Christ.)		
 pb	265	0269	4511544
-entry	Ciliaire (Muscle) [E. Warlomont]	30	
+entry	Cilano (George-Christ.) [E. Beaugrand] (bibliographie)	0	
+orth	Cilano (George-Christ.)		
+entry	Ciliaire (Muscle) [E. Warlomont]	28	
 orth	Ciliaire (Muscle)		
 pb	266	0270	4511545
 pb	267	0271	4511546
@@ -537,6 +579,8 @@ pb	291	0295	4511570
 pb	292	0296	4511571
 pb	293	0297	4511572
 pb	294	0298	4511573
+entry	Ciliaire (Muscle) [E. Warlomont] (bibliographie)	1	
+orth	Ciliaire (Muscle)		
 pb	295	0299	4511574
 entry	Cilio-spinale (Région)	0	
 ref	Moelle		
@@ -557,9 +601,11 @@ entry	Cimicique (Acide) [Malaguti]	0
 orth	Cimicique (Acide)		
 entry	Cimolée (Terre)	0	
 ref	Argile		
-entry	Cina [G. Planchon]	1	
+entry	Cina [G. Planchon]	0	
 orth	Cina		
 pb	297	0301	4511576
+entry	Cina [G. Planchon] (bibliographie)	0	
+orth	Cina		
 entry	Cinchona	0	
 ref	Quinquina		
 entry	Cinchonées [Amédée Dechambre]	0	
@@ -583,7 +629,7 @@ entry	Chimie [Malaguti]	0
 orth	Chimie		
 pb	301	0305	4511580
 entry	Cinchonine	0	
-entry	Cinchonine. Emploi médical [J. Delioux de Savignac]	9	
+entry	Cinchonine. Emploi médical [J. Delioux de Savignac]	8	
 orth	Cinchonine. Emploi médical		
 pb	302	0306	4511581
 pb	303	0307	4511582
@@ -594,6 +640,8 @@ pb	307	0311	4511586
 pb	308	0312	4511587
 pb	309	0313	4511588
 pb	310	0314	4511589
+entry	Cinchonine. Emploi médical [J. Delioux de Savignac] (bibliographie)	0	
+orth	Cinchonine. Emploi médical		
 pb	311	0315	4511590
 entry	Cinchonique (rouge) [Amédée Dechambre]	0	
 orth	Cinchonique (rouge)		
@@ -605,14 +653,14 @@ entry	Cinelli-Calvolli (Jean) [A. Chéreau]	0
 orth	Cinelli-Calvolli (Jean)		
 entry	Cinéphène [Malaguti]	0	
 orth	Cinéphène		
-entry	Cinéraire [G. Planchon]	0	
+entry	Cinéraire [G. Planchon] (bibliographie)	0	
 orth	Cinéraire		
 entry	Cinésialgie [E. Dally]	2	
 orth	Cinésialgie		
 pb	31	0316	4511591
 pb	313	0317	4511592
 pb	314	0318	4511593
-entry	Cinésiologie [E. Dally]	0	
+entry	Cinésiologie [E. Dally] (bibliographie)	0	
 orth	Cinésiologie		
 entry	Cingalaise (Race)	0	
 ref	Ceylan		
@@ -629,16 +677,20 @@ orth	Cinnamide
 pb	315	0319	4511594
 entry	Cinnamique (Acide) [Malaguti]	0	
 orth	Cinnamique (Acide)		
-entry	Cinnamodendron [H. Baillon]	1	
+entry	Cinnamodendron [H. Baillon]	0	
 orth	Cinnamodendron		
 pb	316	0320	4511595
+entry	Cinnamodendron [H. Baillon] (bibliographie)	0	
+orth	Cinnamodendron		
 entry	Cinnamomine [Amédée Dechambre]	0	
 orth	Cinnamomine		
 entry	Cinnamomum	0	
 ref	Cannellier		
-entry	Cinnamosma [H. Baillon]	1	
+entry	Cinnamosma [H. Baillon]	0	
 orth	Cinnamosma		
 pb	317	0321	4511596
+entry	Cinnamosma [H. Baillon] (bibliographie)	0	
+orth	Cinnamosma		
 entry	Cinnamyle [Malaguti]	0	
 orth	Cinnamyle		
 entry	Cinnylique (Alcool) [Malaguti]	0	
@@ -647,10 +699,12 @@ entry	Ciotat (la) (Station marine)	0
 ref	La Ciotat		
 entry	Ciprier [G. Planchon]	0	
 orth	Ciprier		
-entry	Circée [G. Planchon]	1	
+entry	Circée [G. Planchon]	0	
 orth	Circée		
 pb	318	0322	4511597
-entry	Circoncision [F. Bouisson]	19	
+entry	Circée [G. Planchon] (bibliographie)	0	
+orth	Circée		
+entry	Circoncision [F. Bouisson]	17	
 orth	Circoncision		
 pb	319	0323	4511598
 pb	320	0324	4511599
@@ -670,6 +724,8 @@ pb	333	0337	4511612
 pb	334	0338	4511613
 pb	335	0339	4511614
 pb	336	0340	4511615
+entry	Circoncision [F. Bouisson] (bibliographie)	1	
+orth	Circoncision		
 pb	337	0341	4511616
 entry	Circonflexe (Nerfs)	0	
 ref	Branchial (plexus)		
@@ -743,7 +799,7 @@ ref	Cerveau
 ref	Encéphale (Pathologie)		
 ref	Folie		
 ref	Méninges		
-ref	Paralysie générale		
+ref	Paralysie générale(bibliographie)		
 pb	387	0391	4511666
 pb	388	0392	4511667
 pb	389	0393	4511668
@@ -851,9 +907,11 @@ pb	486	0490	4511765
 pb	487	0491	4511766
 entry	Cirier	0	
 ref	Myrica		
-entry	Cirillo (Les) [E. Beaugrand]	2	
+entry	Cirillo (Les) [E. Beaugrand]	0	
 orth	Cirillo (Les)		
 pb	488	0492	4511767
+entry	Cirillo (Les) [E. Beaugrand] (bibliographie)	1	
+orth	Cirillo (Les)		
 pb	489	0493	4511768
 entry	Cirita Ciritamari [G. Planchon]	0	
 orth	Cirita Ciritamari		
@@ -861,7 +919,7 @@ entry	Ciron [A. Laboulbène]	0
 orth	Ciron		
 entry	Cirrhipèdes	0	
 ref	Cirripèdes		
-entry	Cirrhose [V. Cornil]	34	
+entry	Cirrhose [V. Cornil]	32	
 orth	Cirrhose		
 pb	490	0494	4511769
 pb	491	0495	4511770
@@ -896,18 +954,22 @@ pb	519	0523	4511798
 pb	520	0524	4511799
 pb	521	0525	4511800
 pb	522	0526	4511801
+entry	Cirrhose [V. Cornil] (bibliographie)	1	
+orth	Cirrhose		
 pb	523	0527	4511802
 entry	Cirripèdes [A. Laboulbène]	1	
 orth	Cirripèdes		
 pb	524	0528	4511803
-entry	Cirsion [G. Planchon]	0	
+entry	Cirsion [G. Planchon] (bibliographie)	0	
 orth	Cirsion		
-entry	Cirsium [G. Planchon]	1	
+entry	Cirsium [G. Planchon]	0	
 orth	Cirsium		
 pb	525	0529	4511804
+entry	Cirsium [G. Planchon] (bibliographie)	0	
+orth	Cirsium		
 entry	Cirsocèle	0	
 ref	Varicocèle		
-entry	Cirsoïdes (Tumeurs, Anévrysmes) [Léon Lefort]	42	
+entry	Cirsoïdes (Tumeurs, Anévrysmes) [Léon Lefort]	41	
 orth	Cirsoïdes (Tumeurs, Anévrysmes)		
 pb	526	0530	4511805
 pb	527	0531	4511806
@@ -951,6 +1013,8 @@ pb	564	0568	4511843
 pb	565	0569	4511844
 pb	566	0570	4511845
 pb	567	0571	4511846
+entry	Cirsoïdes (Tumeurs, Anévrysmes) [Léon Lefort] (bibliographie)	0	
+orth	Cirsoïdes (Tumeurs, Anévrysmes)		
 entry	Cirsophthalmie [Amédée Dechambre]	0	
 orth	Cirsophthalmie		
 entry	Cisaille	0	
@@ -971,18 +1035,24 @@ pb	578	0582	4511857
 pb	579	0583	4511858
 entry	Ciseleurs	0	
 ref	Cuivre		
-entry	Cisneros (Diego) [E. Beaugrand]	1	
+entry	Cisneros (Diego) [E. Beaugrand]	0	
 orth	Cisneros (Diego)		
 pb	580	0584	4511859
+entry	Cisneros (Diego) [E. Beaugrand] (bibliographie)	0	
+orth	Cisneros (Diego)		
 entry	Cissampelos (L.) [H. Baillon]	0	
 orth	Cissampelos (L.)		
-entry	Cissus (L.) [G. Planchon]	2	
+entry	Cissus (L.) [G. Planchon]	1	
 orth	Cissus (L.)		
 pb	581	0585	4511860
 pb	582	0586	4511861
-entry	Ciste [H. Baillon]	1	
+entry	Cissus (L.) [G. Planchon] (bibliographie)	0	
+orth	Cissus (L.)		
+entry	Ciste [H. Baillon]	0	
 orth	Ciste		
 pb	583	0587	4511862
+entry	Ciste [H. Baillon] (bibliographie)	0	
+orth	Ciste		
 entry	Cistude	0	
 ref	Tortue		
 entry	Cité ouvrière	0	
@@ -991,9 +1061,11 @@ entry	Citerne	0
 ref	Eau		
 entry	Citerne à engrais	0	
 ref	Rurale (Hygiène)		
-entry	Citois (François) [E. Beaugrand]	1	
+entry	Citois (François) [E. Beaugrand]	0	
 orth	Citois (François)		
 pb	584	0588	4511863
+entry	Citois (François) [E. Beaugrand] (bibliographie)	0	
+orth	Citois (François)		
 entry	Citraconique (Acide) [P. Schützenberger]	0	
 orth	Citraconique (Acide)		
 entry	Citraconyle [P. Schützenberger]	0	
@@ -1005,7 +1077,7 @@ orth	Citratartrique (Acide)
 entry	Citrates [P. Schützenberger]	1	
 orth	Citrates		
 pb	585	0589	4511864
-entry	Citre [G. Planchon]	0	
+entry	Citre [G. Planchon] (bibliographie)	0	
 orth	Citre		
 entry	Citrène [P. Schützenberger]	0	
 orth	Citrène		
@@ -1024,7 +1096,7 @@ pb	588	0592	4511867
 entry	Emploi médical	0	
 ref	Citron		
 entry	Citron, Citronnier	0	
-entry	Citron, Citronnier. Botanique [H. Baillon]	1	
+entry	Citron, Citronnier. Botanique [H. Baillon] (bibliographie)	1	
 orth	Citron, Citronnier. Botanique		
 pb	589	0593	4511868
 entry	Citron, Citronnier. Pharmacologie [J. Delioux de Savignac]	4	
@@ -1035,7 +1107,7 @@ pb	592	0596	4511871
 pb	593	0597	4511872
 pb	594	0598	4511873
 entry	Citron, Citronnier	0	
-entry	Citron, Citronnier. Emploi médical [J. Delioux de Savignac]	12	
+entry	Citron, Citronnier. Emploi médical [J. Delioux de Savignac]	11	
 orth	Citron, Citronnier. Emploi médical		
 pb	595	0599	4511874
 pb	596	0600	4511875
@@ -1049,17 +1121,21 @@ pb	603	0607	4511882
 pb	604	0608	4511883
 pb	605	0609	4511884
 pb	606	0610	4511885
+entry	Citron, Citronnier. Emploi médical [J. Delioux de Savignac] (bibliographie)	0	
+orth	Citron, Citronnier. Emploi médical		
 entry	Citronnelle [G. Planchon]	1	
 orth	Citronnelle		
 pb	607	0611	4511886
 entry	Citronyle [P. Schützenberger]	0	
 orth	Citronyle		
 entry	Citrouille	0	
-entry	Citrouille. Botanique [G. Planchon]	3	
+entry	Citrouille. Botanique [G. Planchon]	2	
 orth	Citrouille. Botanique		
 pb	608	0612	4511887
 pb	609	0613	4511888
 pb	610	0614	4511889
+entry	Citrouille. Botanique [G. Planchon] (bibliographie)	0	
+orth	Citrouille. Botanique		
 entry	Citrouille. Emploi médical [El. Hamelin]	3	
 orth	Citrouille. Emploi médical		
 pb	611	0615	4511890
@@ -1070,19 +1146,23 @@ orth	Citrouille. Bromatologie
 pb	614	0618	4511893
 entry	Citrus	0	
 ref	Citronnier		
-entry	Citrus [H. Baillon]	2	
+entry	Citrus [H. Baillon]	0	
 orth	Citrus		
 pb	615	0619	4511894
+entry	Citrus [H. Baillon] (bibliographie)	1	
+orth	Citrus		
 pb	616	0620	4511895
 entry	Civette	0	
 ref	Ail		
 entry	Civette [P. Gervais]	1	
 orth	Civette		
 pb	617	0621	4511896
-entry	Civiale (Jean) [H. Montanier]	1	
+entry	Civiale (Jean) [H. Montanier]	0	
 orth	Civiale (Jean)		
 pb	618	0622	4511897
-entry	Civilisation [Ch. Letourneau]	31	
+entry	Civiale (Jean) [H. Montanier] (bibliographie)	0	
+orth	Civiale (Jean)		
+entry	Civilisation [Ch. Letourneau]	29	
 orth	Civilisation		
 pb	619	0623	4511898
 pb	620	0624	4511899
@@ -1114,6 +1194,8 @@ pb	645	0649	4511924
 pb	646	0650	4511925
 pb	647	0651	4511926
 pb	648	0652	4511927
+entry	Civilisation [Ch. Letourneau] (bibliographie)	1	
+orth	Civilisation		
 pb	649	0653	4511928
 entry	Civillina (Eau minérale de)	0	
 ref	Recoaro		
@@ -1130,38 +1212,48 @@ ref	Amérique
 entry	Clamp [Amédée Dechambre]	1	
 orth	Clamp		
 pb	650	0654	4511929
-entry	Clandestine [G. Planchon]	0	
+entry	Clandestine [G. Planchon] (bibliographie)	0	
 orth	Clandestine		
-entry	Clanny (Wm Reid) [E. Beaugrand]	1	
+entry	Clanny (Wm Reid) [E. Beaugrand]	0	
 orth	Clanny (Wm Reid)		
 pb	651	0655	4511930
+entry	Clanny (Wm Reid) [E. Beaugrand] (bibliographie)	0	
+orth	Clanny (Wm Reid)		
 entry	Claquement [Barth, Henri Roger]	1	
 orth	Claquement		
 pb	652	0656	4511931
-entry	Clare (Pierre) [H. Montanier]	1	
+entry	Clare (Pierre) [H. Montanier]	0	
 orth	Clare (Pierre)		
 pb	653	0657	4511932
+entry	Clare (Pierre) [H. Montanier] (bibliographie)	0	
+orth	Clare (Pierre)		
 entry	Clarification [Amédée Dechambre]	0	
 orth	Clarification		
-entry	Clarion (Jacques) [A. Chéreau]	1	
+entry	Clarion (Jacques) [A. Chéreau]	0	
 orth	Clarion (Jacques)		
 pb	654	0658	4511933
+entry	Clarion (Jacques) [A. Chéreau] (bibliographie)	0	
+orth	Clarion (Jacques)		
 entry	Clarisia [G. Planchon]	0	
 orth	Clarisia		
 entry	Clark (Les) [E. Beaugrand]	0	
 orth	Clark (Les)		
 pb	655	0659	4511934
-entry	Clark (Les) [E. Beaugrand])	0	
+entry	Clark (Les) [E. Beaugrand] (bibliographie))	0	
 orth	Clark (Les))		
 pb	656	0660	4511935
-entry	Clark (Les) [E. Beaugrand]	0	
+entry	Clark (Les) [E. Beaugrand] (bibliographie)	0	
 orth	Clark (Les)		
-entry	Clarke (Les) [E. Beaugrand]	1	
+entry	Clarke (Les) [E. Beaugrand]	0	
 orth	Clarke (Les)		
 pb	657	0661	4511936
-entry	Clarus (Johann-Christ.-Aug.) [E. Beaugrand]	1	
+entry	Clarke (Les) [E. Beaugrand] (bibliographie)	0	
+orth	Clarke (Les)		
+entry	Clarus (Johann-Christ.-Aug.) [E. Beaugrand]	0	
 orth	Clarus (Johann-Christ.-Aug.)		
 pb	658	0662	4511937
+entry	Clarus (Johann-Christ.-Aug.) [E. Beaugrand] (bibliographie)	0	
+orth	Clarus (Johann-Christ.-Aug.)		
 entry	Classification	0	
 ref	Méthode		
 entry	Clastes	0	
@@ -1170,18 +1262,22 @@ entry	Clathracés	0
 ref	Phalloïdés		
 entry	Clathre [J. De Seynes]	0	
 orth	Clathre		
-entry	Clauder (Les) [A. Chéreau]	1	
+entry	Clauder (Les) [A. Chéreau]	0	
 orth	Clauder (Les)		
 pb	659	0663	4511938
+entry	Clauder (Les) [A. Chéreau] (bibliographie)	0	
+orth	Clauder (Les)		
 entry	Claudini (Jules-César) [A. Chéreau]	0	
 orth	Claudini (Jules-César)		
 entry	Clauvisses ou Clovisses [A. Laboulbène]	0	
 orth	Clauvisses ou Clovisses		
 pb	660	0664	4511939
-entry	Clavalier, Clavelier [H. Baillon]	2	
+entry	Clavalier, Clavelier [H. Baillon]	1	
 orth	Clavalier, Clavelier		
 pb	661	0665	4511940
 pb	662	0666	4511941
+entry	Clavalier, Clavelier [H. Baillon] (bibliographie)	0	
+orth	Clavalier, Clavelier		
 entry	Clavariés [Jacques Bertillon]	8	
 orth	Clavariés		
 pb	663	0667	4511942
@@ -1197,7 +1293,7 @@ orth	Clavée (Eau minérale de)
 entry	Claviceps	0	
 ref	Ergot		
 entry	Clavicule	0	
-entry	Clavicule. Anatomie [Polaillon]	7	
+entry	Clavicule. Anatomie [Polaillon]	5	
 orth	Clavicule. Anatomie		
 pb	671	0675	4511950
 pb	672	0676	4511951
@@ -1205,8 +1301,10 @@ pb	673	0677	4511952
 pb	674	0678	4511953
 pb	675	0679	4511954
 pb	676	0680	4511955
+entry	Clavicule. Anatomie [Polaillon] (bibliographie)	1	
+orth	Clavicule. Anatomie		
 pb	677	0681	4511956
-entry	Clavicule. Pathologie [Polaillon]	96	
+entry	Clavicule. Pathologie [Polaillon]	34	
 orth	Clavicule. Pathologie		
 pb	678	0682	4511957
 pb	679	0683	4511958
@@ -1243,11 +1341,15 @@ pb	709	0713	4511988
 pb	710	0714	4511989
 pb	711	0715	4511990
 pb	712	0716	4511991
+entry	Clavicule. Pathologie [Polaillon] (bibliographie)	4	
+orth	Clavicule. Pathologie		
 pb	713	0717	4511992
 pb	714	0718	4511993
 pb	715	0719	4511994
 pb	716	0720	4511995
 pb	717	0721	4511996
+entry	Clavicule. Pathologie [Polaillon]	22	
+orth	Clavicule. Pathologie		
 pb	718	0722	4511997
 pb	719	0723	4511998
 pb	720	0724	4511999
@@ -1271,10 +1373,14 @@ pb	737	0741	4512016
 pb	738	0742	4512017
 pb	739	0743	4512018
 pb	740	0744	4512019
+entry	Clavicule. Pathologie [Polaillon] (bibliographie)	3	
+orth	Clavicule. Pathologie		
 pb	741	0745	4512020
 pb	742	0746	4512021
 pb	743	0747	4512022
 pb	744	0748	4512023
+entry	Clavicule. Pathologie [Polaillon]	29	
+orth	Clavicule. Pathologie		
 pb	745	0749	4512024
 pb	746	0750	4512025
 pb	747	0751	4512026
@@ -1304,22 +1410,26 @@ pb	770	0774	4512049
 pb	771	0775	4512050
 pb	772	0776	4512051
 pb	773	0777	4512052
-entry	Claytonia [G. Planchon]	0	
+entry	Claytonia [G. Planchon] (bibliographie)	0	
 orth	Claytonia		
 entry	Clef [Amédée Dechambre]	0	
 orth	Clef		
-entry	Cleghorn (Georges) [H. Montanier]	1	
+entry	Cleghorn (Georges) [H. Montanier]	0	
 orth	Cleghorn (Georges)		
 pb	274	0778	4512053
+entry	Cleghorn (Georges) [H. Montanier] (bibliographie)	0	
+orth	Cleghorn (Georges)		
 entry	Cleïdomancie [Amédée Dechambre]	0	
 orth	Cleïdomancie		
 entry	Clématinine [Amédée Dechambre]	0	
 orth	Clématinine		
-entry	Clématite [H. Baillon]	3	
+entry	Clématite [H. Baillon]	2	
 orth	Clématite		
 pb	775	0779	4512054
 pb	776	0780	4512055
 pb	777	0781	4512056
+entry	Clématite [H. Baillon] (bibliographie)	0	
+orth	Clématite		
 pb	778	0782	4512057
 entry	Articles contenus dans le dix-septième volume (1re série)	2	
 pb	779	0783	4512058

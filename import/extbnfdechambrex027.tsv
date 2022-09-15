@@ -47,7 +47,7 @@ pb	38	0038	4519112
 pb	39	0039	4519113
 pb	40	0040	4519114
 pb	41	0041	4519115
-entry	Dent. Physiologie [E. Magitot]	99	
+entry	Dent. Physiologie [E. Magitot]	95	
 orth	Dent. Physiologie		
 pb	42	0042	4519116
 pb	43	0043	4519117
@@ -145,6 +145,8 @@ pb	134	0134	4519208
 pb	135	0135	4519209
 pb	136	0136	4519210
 pb	137	0137	4519211
+entry	Dent. Physiologie [E. Magitot] (bibliographie)	3	
+orth	Dent. Physiologie		
 pb	138	0138	4519212
 pb	139	0139	4519213
 pb	140	0140	4519214
@@ -326,7 +328,7 @@ pb	303	0303	4519377
 pb	304	0304	4519378
 pb	305	0305	4519379
 pb	306	0306	4519380
-entry	Dent. Pathologie. Opérations qui se pratiquent sur les dents [E. Magitot]	102	
+entry	Dent. Pathologie. Opérations qui se pratiquent sur les dents [E. Magitot]	98	
 orth	Dent. Pathologie. Opérations qui se pratiquent sur les dents		
 pb	307	0307	4519381
 pb	308	0308	4519382
@@ -427,6 +429,8 @@ pb	402	0402	4519476
 pb	403	0403	4519477
 pb	404	0404	4519478
 pb	405	0405	4519479
+entry	Dent. Pathologie. Opérations qui se pratiquent sur les dents [E. Magitot] (bibliographie)	3	
+orth	Dent. Pathologie. Opérations qui se pratiquent sur les dents		
 pb	406	0406	4519480
 pb	407	0407	4519481
 pb	408	0408	4519482
@@ -435,7 +439,7 @@ orth	Dent-de-chien
 entry	Dent-de-lion [G. Planchon]	0	
 orth	Dent-de-lion		
 entry	Dentaire	0	
-entry	Dentaire. Botanique [G. Planchon]	1	
+entry	Dentaire. Botanique [G. Planchon] (bibliographie)	1	
 orth	Dentaire. Botanique		
 pb	409	0409	4519483
 entry	Dentaire (Hygiène) [E. Magitot]	13	
@@ -469,11 +473,13 @@ entry	Dentale [Ed. Lefèvre]	2
 orth	Dentale		
 pb	429	0429	4519503
 pb	430	0430	4519504
-entry	Denteculaï [G. Planchon]	0	
+entry	Denteculaï [G. Planchon] (bibliographie)	0	
 orth	Denteculaï		
-entry	Dentelaire (Plumbago L.) [G. Planchon]	1	
+entry	Dentelaire (Plumbago L.) [G. Planchon]	0	
 orth	Dentelaire (Plumbago L.)		
 pb	431	0431	4519505
+entry	Dentelaire (Plumbago L.) [G. Planchon] (bibliographie)	0	
+orth	Dentelaire (Plumbago L.)		
 entry	Dentelés	0	
 entry	Dentelés. Anatomie et physiologie [A. Le Double]	11	
 orth	Dentelés. Anatomie et physiologie		
@@ -488,18 +494,22 @@ pb	439	0439	4519513
 pb	440	0440	4519514
 pb	441	0441	4519515
 pb	442	0442	4519516
-entry	Dentelés. Pathologie [L. du Cazal]	5	
+entry	Dentelés. Pathologie [L. du Cazal]	3	
 orth	Dentelés. Pathologie		
 pb	443	0443	4519517
 pb	444	0444	4519518
 pb	445	0445	4519519
 pb	446	0446	4519520
+entry	Dentelés. Pathologie [L. du Cazal] (bibliographie)	1	
+orth	Dentelés. Pathologie		
 pb	447	0447	4519521
-entry	Dentellières (Hygiène professionnelle) [Alexandre Layet]	3	
+entry	Dentellières (Hygiène professionnelle) [Alexandre Layet]	2	
 orth	Dentellières (Hygiène professionnelle)		
 pb	448	0448	4519522
 pb	449	0449	4519523
 pb	450	0450	4519524
+entry	Dentellières (Hygiène professionnelle) [Alexandre Layet] (bibliographie)	0	
+orth	Dentellières (Hygiène professionnelle)		
 entry	Dentiers	0	
 ref	Dentaire (Prothèse)		
 entry	Dentifrices [Amédée Dechambre]	3	
@@ -510,7 +520,7 @@ pb	453	0453	4519527
 pb	454	0454	4519528
 entry	Dentine	0	
 ref	Dent		
-entry	Dentirostres [E. Oustalet]	0	
+entry	Dentirostres [E. Oustalet] (bibliographie)	0	
 orth	Dentirostres		
 entry	Dentiste [Amédée Dechambre]	12	
 orth	Dentiste		
@@ -537,17 +547,21 @@ pb	472	0472	4519546
 pb	473	0473	4519547
 pb	474	0474	4519548
 pb	475	0475	4519549
-entry	Denyau (Les deux) [A. Chéreau]	1	
+entry	Denyau (Les deux) [A. Chéreau]	0	
 orth	Denyau (Les deux)		
 pb	476	0476	4519550
+entry	Denyau (Les deux) [A. Chéreau] (bibliographie)	0	
+orth	Denyau (Les deux)		
 entry	Denys (Jacobus) [L. Hahn]	0	
 orth	Denys (Jacobus)		
-entry	Déodactyles [E. Oustalet]	4	
+entry	Déodactyles [E. Oustalet]	3	
 orth	Déodactyles		
 pb	477	0477	4519551
 pb	478	0478	4519552
 pb	479	0479	4519553
 pb	480	0480	4519554
+entry	Déodactyles [E. Oustalet] (bibliographie)	0	
+orth	Déodactyles		
 entry	Déodar [Amédée Dechambre]	0	
 orth	Déodar		
 entry	Déontologie et Dicéologie médicales [Amédée Dechambre]	1	
@@ -722,10 +736,12 @@ entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du m�
 orth	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Conduite du médecin vis-à-vis de ses confrères. Cercles médicaux		
 pb	576	0576	4519650
 pb	577	0577	4519651
-entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin [Amédée Dechambre]	3	
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin [Amédée Dechambre]	1	
 orth	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin		
 pb	578	0578	4519652
 pb	579	0579	4519653
+entry	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin [Amédée Dechambre] (bibliographie)	1	
+orth	Déontologie et Dicéologie médicales. Qualités et devoirs privés du médecin. Les commandements du médecin		
 pb	580	0580	4519654
 entry	Dépilation	0	
 ref	Épilation		
@@ -736,7 +752,7 @@ entry	Déplacement (Pharmacie) [Amédée Dechambre]	0
 orth	Déplacement (Pharmacie)		
 entry	Déplacement des organes	0	
 ref	Ectopies		
-entry	Déplacements (Chirurgie) [G. Humbert]	19	
+entry	Déplacements (Chirurgie) [G. Humbert]	18	
 orth	Déplacements (Chirurgie)		
 pb	582	0582	4519656
 pb	583	0583	4519657
@@ -757,6 +773,8 @@ pb	597	0597	4519671
 pb	598	0598	4519672
 pb	599	0599	4519673
 pb	600	0600	4519674
+entry	Déplacements (Chirurgie) [G. Humbert] (bibliographie)	0	
+orth	Déplacements (Chirurgie)		
 entry	De Pois, ou Le Pois	0	
 ref	Le Pois (Les)		
 entry	Déportation	0	
@@ -767,11 +785,13 @@ orth	Déposition
 entry	Dépotoirs	0	
 ref	Fosses d'aisances		
 ref	Vidanges		
-entry	Depping (Georges-Bernard) [A. Dureau]	0	
+entry	Depping (Georges-Bernard) [A. Dureau] (bibliographie)	0	
 orth	Depping (Georges-Bernard)		
-entry	Depré (Johann-Friederich) [L. Hahn]	1	
+entry	Depré (Johann-Friederich) [L. Hahn]	0	
 orth	Depré (Johann-Friederich)		
 pb	602	0602	4519676
+entry	Depré (Johann-Friederich) [L. Hahn] (bibliographie)	0	
+orth	Depré (Johann-Friederich)		
 entry	Dépresseurs	0	
 entry	Anatomie	0	
 ref	Pneumogastrique		
@@ -798,7 +818,7 @@ entry	Derahim [L. Hahn]	0
 orth	Derahim		
 entry	Dérencéphales [O. Larcher]	0	
 orth	Dérencéphales		
-entry	De Renou (Jean) [A. Chéreau]	0	
+entry	De Renou (Jean) [A. Chéreau] (bibliographie)	0	
 orth	De Renou (Jean)		
 entry	Derham (Samuel) [L. Hahn]	0	
 orth	Derham (Samuel)		
@@ -812,7 +832,7 @@ pb	611	0611	4519685
 pb	612	0612	4519686
 pb	613	0613	4519687
 pb	614	0614	4519688
-entry	Dermalgie ou Dermatalgie [Arnozan]	20	
+entry	Dermalgie ou Dermatalgie [Arnozan]	18	
 orth	Dermalgie ou Dermatalgie		
 pb	615	0615	4519689
 pb	616	0616	4519690
@@ -833,6 +853,8 @@ pb	630	0630	4519704
 pb	631	0631	4519705
 pb	632	0632	4519706
 pb	633	0633	4519707
+entry	Dermalgie ou Dermatalgie [Arnozan] (bibliographie)	1	
+orth	Dermalgie ou Dermatalgie		
 pb	634	0634	4519708
 entry	Dermanysse [A. Laboulbène]	0	
 orth	Dermanysse		

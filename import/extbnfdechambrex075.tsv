@@ -14,7 +14,7 @@ pb	4	0008	4576384
 pb	5	0009	4576385
 pb	6	0010	4576386
 pb	7	0011	4576387
-entry	Péricarde. Pathologie [H. Bernheim]	86	
+entry	Péricarde. Pathologie [H. Bernheim]	80	
 orth	Péricarde. Pathologie		
 pb	8	0012	4576388
 pb	9	0013	4576389
@@ -97,6 +97,8 @@ pb	85	0089	4576465
 pb	86	0090	4576466
 pb	87	0091	4576467
 pb	88	0092	4576468
+entry	Péricarde. Pathologie [H. Bernheim] (bibliographie)	5	
+orth	Péricarde. Pathologie		
 pb	89	0093	4576469
 pb	90	0094	4576470
 pb	91	0095	4576471
@@ -111,15 +113,19 @@ entry	Periclymenum (Diosc.) [H. Baillon]	0
 orth	Periclymenum (Diosc.)		
 entry	Péricrâne [Amédée Dechambre]	0	
 orth	Péricrâne		
-entry	Péridiniens [F. Henneguy]	2	
+entry	Péridiniens [F. Henneguy]	1	
 orth	Péridiniens		
 pb	95	0099	4576475
 pb	96	0100	4576476
+entry	Péridiniens [F. Henneguy] (bibliographie)	0	
+orth	Péridiniens		
 entry	Pérididyme	0	
 ref	Testicule		
-entry	Périer (Les) [A. Dureau]	2	
+entry	Périer (Les) [A. Dureau]	0	
 orth	Périer (Les)		
 pb	97	0101	4576477
+entry	Périer (Les) [A. Dureau] (bibliographie)	1	
+orth	Périer (Les)		
 pb	98	0102	4576478
 entry	Périlymphe	0	
 ref	Oreille interne		
@@ -156,7 +162,7 @@ entry	Périnée. Pathologie [L. Lereboullet]	2
 orth	Périnée. Pathologie		
 pb	113	0117	4576493
 pb	114	0118	4576494
-entry	Périnéorrhaphie [E. Kirmisson]	16	
+entry	Périnéorrhaphie [E. Kirmisson]	14	
 orth	Périnéorrhaphie		
 pb	115	0119	4576495
 pb	116	0120	4576496
@@ -173,6 +179,8 @@ pb	126	0130	4576506
 pb	127	0131	4576507
 pb	128	0132	4576508
 pb	129	0133	4576509
+entry	Périnéorrhaphie [E. Kirmisson] (bibliographie)	1	
+orth	Périnéorrhaphie		
 pb	130	0134	4576510
 entry	Périnéphrite	0	
 ref	Rein		
@@ -184,11 +192,11 @@ pb	131	0135	4576511
 pb	132	0136	4576512
 entry	Periodique (Acide)	0	
 ref	Iodique		
-entry	Périops [H.-E. Sauvage]	0	
+entry	Périops [H.-E. Sauvage] (bibliographie)	0	
 orth	Périops		
 pb	133	0137	4576513
 entry	Périoste	0	
-entry	Périoste. Anatomie [Ed. Retterer]	23	
+entry	Périoste. Anatomie [Ed. Retterer]	22	
 orth	Périoste. Anatomie		
 pb	134	0138	4576514
 pb	135	0139	4576515
@@ -213,6 +221,8 @@ pb	153	0157	4576533
 pb	154	0158	4576534
 pb	155	0159	4576535
 pb	156	0160	4576536
+entry	Périoste. Anatomie [Ed. Retterer] (bibliographie)	0	
+orth	Périoste. Anatomie		
 entry	Périoste. Pathologie [Albert Heydenreich]	19	
 orth	Périoste. Pathologie		
 pb	157	0161	4576537
@@ -234,7 +244,7 @@ pb	172	0176	4576552
 pb	173	0177	4576553
 pb	174	0178	4576554
 pb	175	0179	4576555
-entry	Périoste. Médecine opératoire [Albert Heydenreich]	16	
+entry	Périoste. Médecine opératoire [Albert Heydenreich]	12	
 orth	Périoste. Médecine opératoire		
 pb	176	0180	4576556
 pb	177	0181	4576557
@@ -249,10 +259,12 @@ pb	185	0189	4576565
 pb	186	0190	4576566
 pb	187	0191	4576567
 pb	188	0192	4576568
+entry	Périoste. Médecine opératoire [Albert Heydenreich] (bibliographie)	3	
+orth	Périoste. Médecine opératoire		
 pb	189	0193	4576569
 pb	190	0194	4576570
 pb	191	0195	4576571
-entry	Périostite diffuse [E. Kirmisson]	40	
+entry	Périostite diffuse [E. Kirmisson]	36	
 orth	Périostite diffuse		
 pb	192	0196	4576572
 pb	193	0197	4576573
@@ -291,18 +303,26 @@ pb	225	0229	4576605
 pb	226	0230	4576606
 pb	227	0231	4576607
 pb	228	0232	4576608
+entry	Périostite diffuse [E. Kirmisson] (bibliographie)	2	
+orth	Périostite diffuse		
 pb	229	0233	4576609
 pb	230	0234	4576610
 pb	231	0235	4576611
+entry	Périostite diffuse [E. Kirmisson]	0	
+orth	Périostite diffuse		
 entry	Periparoba [Ed. Lefèvre]	0	
 orth	Periparoba		
-entry	Péripate [Ed. Lefèvre]	1	
+entry	Péripate [Ed. Lefèvre]	0	
 orth	Péripate		
 pb	232	0236	4576612
-entry	Periploca (L.) [H. Baillon]	2	
+entry	Péripate [Ed. Lefèvre] (bibliographie)	0	
+orth	Péripate		
+entry	Periploca (L.) [H. Baillon]	1	
 orth	Periploca (L.)		
 pb	233	0237	4576613
 pb	234	0238	4576614
+entry	Periploca (L.) [H. Baillon] (bibliographie)	0	
+orth	Periploca (L.)		
 entry	Périscopiques (Verres) [Amédée Dechambre]	0	
 orth	Périscopiques (Verres)		
 entry	Périsperme [H. Baillon]	0	
@@ -373,7 +393,7 @@ pb	277	0281	4576657
 pb	278	0282	4576658
 pb	279	0283	4576659
 pb	280	0284	4576660
-entry	Péritoine. Physiologie [Baraban]	8	
+entry	Péritoine. Physiologie [Baraban]	7	
 orth	Péritoine. Physiologie		
 pb	281	0285	4576661
 pb	282	0286	4576662
@@ -383,6 +403,8 @@ pb	285	0289	4576665
 pb	286	0290	4576666
 pb	287	0291	4576667
 pb	288	0292	4576668
+entry	Péritoine. Physiologie [Baraban] (bibliographie)	0	
+orth	Péritoine. Physiologie		
 entry	Pathologie [L. Hahn]	0	
 orth	Pathologie		
 pb	289	0293	4576669
@@ -530,7 +552,7 @@ pb	417	0421	4576797
 pb	418	0422	4576798
 pb	419	0423	4576799
 pb	420	0424	4576800
-entry	Péritonites. Traitement chirurgical de la péritonite [Paul Spillmann, Ganzinotty]	11	
+entry	Péritonites. Traitement chirurgical de la péritonite [Paul Spillmann, Ganzinotty]	7	
 orth	Péritonites. Traitement chirurgical de la péritonite		
 pb	421	0425	4576801
 pb	422	0426	4576802
@@ -540,13 +562,15 @@ pb	425	0429	4576805
 pb	426	0430	4576806
 pb	427	0431	4576807
 pb	428	0432	4576808
+entry	Péritonites. Traitement chirurgical de la péritonite [Paul Spillmann, Ganzinotty] (bibliographie)	3	
+orth	Péritonites. Traitement chirurgical de la péritonite		
 pb	429	0433	4576809
 pb	430	0434	4576810
 pb	431	0435	4576811
 entry	Tumeurs de la totalité du péritoine [Paul Spillmann, Ganzinotty]	0	
 orth	Tumeurs de la totalité du péritoine		
 pb	432	0436	4576812
-entry	Péritonites. Tumeurs du péritoine [Paul Spillmann, Ganzinotty]	12	
+entry	Péritonites. Tumeurs du péritoine [Paul Spillmann, Ganzinotty]	10	
 orth	Péritonites. Tumeurs du péritoine		
 pb	433	0437	4576813
 pb	434	0438	4576814
@@ -559,6 +583,8 @@ pb	440	0444	4576820
 pb	441	0445	4576821
 pb	442	0446	4576822
 pb	443	0447	4576823
+entry	Péritonites. Tumeurs du péritoine [Paul Spillmann, Ganzinotty] (bibliographie)	1	
+orth	Péritonites. Tumeurs du péritoine		
 pb	444	0448	4576824
 entry	Pérityphlite	0	
 ref	Coecum		
@@ -567,16 +593,20 @@ entry	Péri-utérin (Phlegmon)	0
 ref	Utérus		
 entry	Perkinisme	0	
 ref	Perkins		
-entry	Perkins (Les deux) [L. Hahn]	1	
+entry	Perkins (Les deux) [L. Hahn]	0	
 orth	Perkins (Les deux)		
 pb	445	0449	4576825
+entry	Perkins (Les deux) [L. Hahn] (bibliographie)	0	
+orth	Perkins (Les deux)		
 entry	Perles [Amédée Dechambre]	0	
 orth	Perles		
 entry	Perlière [G. Planchon]	0	
 orth	Perlière		
-entry	Perlitzi (Johannes-Dan) [L. Hahn]	1	
+entry	Perlitzi (Johannes-Dan) [L. Hahn]	0	
 orth	Perlitzi (Johannes-Dan)		
 pb	446	0450	4576826
+entry	Perlitzi (Johannes-Dan) [L. Hahn] (bibliographie)	0	
+orth	Perlitzi (Johannes-Dan)		
 entry	Perls (Max) [L. Hahn]	0	
 orth	Perls (Max)		
 entry	Perméaks (Les)	0	
@@ -591,7 +621,7 @@ pb	447	0451	4576827
 entry	Pernion [L. Hahn]	1	
 orth	Pernion		
 pb	448	0452	4576828
-entry	Pérobranches [H.-E. Sauvage]	0	
+entry	Pérobranches [H.-E. Sauvage] (bibliographie)	0	
 orth	Pérobranches		
 entry	Pérodictique [E. Oustalet]	0	
 orth	Pérodictique		
@@ -599,14 +629,18 @@ entry	Pérole [G. Planchon]	0
 orth	Pérole		
 entry	Pérolle (Étienne) [A. Dureau]	0	
 orth	Pérolle (Étienne)		
-entry	Péromèles [H.-E. Sauvage]	1	
+entry	Péromèles [H.-E. Sauvage]	0	
 orth	Péromèles		
 pb	449	0453	4576829
-entry	Péromèles (Tératologie) [O. Larcher]	3	
+entry	Péromèles [H.-E. Sauvage] (bibliographie)	0	
+orth	Péromèles		
+entry	Péromèles (Tératologie) [O. Larcher]	2	
 orth	Péromèles (Tératologie)		
 pb	450	0454	4576830
 pb	451	0455	4576831
 pb	452	0456	4576832
+entry	Péromèles (Tératologie) [O. Larcher] (bibliographie)	0	
+orth	Péromèles (Tératologie)		
 entry	Péron (François) [L. Hahn]	0	
 orth	Péron (François)		
 entry	Péroné	0	
@@ -631,7 +665,7 @@ pb	462	0466	4576842
 pb	463	0467	4576843
 pb	464	0468	4576844
 pb	465	0469	4576845
-entry	Péroné. Médecine opératoire [Albert Heydenreich]	7	
+entry	Péroné. Médecine opératoire [Albert Heydenreich]	5	
 orth	Péroné. Médecine opératoire		
 pb	466	0470	4576846
 pb	467	0471	4576847
@@ -639,6 +673,8 @@ pb	468	0472	4576848
 pb	469	0473	4576849
 pb	470	0474	4576850
 pb	471	0475	4576851
+entry	Péroné. Médecine opératoire [Albert Heydenreich] (bibliographie)	1	
+orth	Péroné. Médecine opératoire		
 pb	472	0476	4576852
 entry	Péronéo-tibiales (Articulations) [Albert Heydenreich]	2	
 orth	Péronéo-tibiales (Articulations)		
@@ -648,7 +684,7 @@ entry	Péronier (Tronc)	0
 ref	Tibio-péronier (Tronc)		
 entry	Péronière (Artère)	0	
 ref	Tibio-péronier (Tronc)		
-entry	Péroniers (Muscles) [L. Testut]	10	
+entry	Péroniers (Muscles) [L. Testut]	9	
 orth	Péroniers (Muscles)		
 pb	475	0479	4576855
 pb	476	0480	4576856
@@ -660,12 +696,14 @@ pb	481	0485	4576861
 pb	482	0486	4576862
 pb	483	0487	4576863
 pb	484	0488	4576864
+entry	Péroniers (Muscles) [L. Testut] (bibliographie)	0	
+orth	Péroniers (Muscles)		
 entry	Péronière (Artère)	0	
 ref	Tibio-péronier (tronc)		
 entry	Peronospora [Ed. Lefèvre]	1	
 orth	Peronospora		
 pb	485	0489	4576865
-entry	Pérou et Bolivie [Baron A. E. d'Ornellas]	27	
+entry	Pérou et Bolivie [Baron A. E. d'Ornellas]	25	
 orth	Pérou et Bolivie		
 pb	486	0490	4576866
 pb	487	0491	4576867
@@ -693,6 +731,8 @@ pb	508	0512	4576888
 pb	509	0513	4576889
 pb	510	0514	4576890
 pb	511	0515	4576891
+entry	Pérou et Bolivie [Baron A. E. d'Ornellas] (bibliographie)	1	
+orth	Pérou et Bolivie		
 pb	512	0516	4576892
 entry	Perrain-Chedde [Ed. Lefèvre]	0	
 orth	Perrain-Chedde		
@@ -708,11 +748,13 @@ entry	Perrolle	0
 ref	Pérolle		
 entry	Perrone (Pietro) [L. Hahn]	0	
 orth	Perrone (Pietro)		
-entry	Perroquets [E. Oustalet]	3	
+entry	Perroquets [E. Oustalet]	2	
 orth	Perroquets		
 pb	515	0519	4576895
 pb	516	0520	4576896
 pb	517	0521	4576897
+entry	Perroquets [E. Oustalet] (bibliographie)	0	
+orth	Perroquets		
 entry	Perrottet (G.-Samuel) [L. Hahn]	0	
 orth	Perrottet (G.-Samuel)		
 entry	Perruchés (Eau minérale de) [A. Rotureau]	0	
@@ -723,7 +765,7 @@ ref	Postiches
 entry	Per se (Précipité) [L. Hahn]	0	
 orth	Per se (Précipité)		
 entry	Perse	0	
-entry	Perse. Géographie médicale [G. Liétard]	13	
+entry	Perse. Géographie médicale [G. Liétard]	10	
 orth	Perse. Géographie médicale		
 pb	518	0522	4576898
 pb	519	0523	4576899
@@ -736,18 +778,22 @@ pb	525	0529	4576905
 pb	526	0530	4576906
 pb	527	0531	4576907
 pb	528	0532	4576908
+entry	Perse. Géographie médicale [G. Liétard] (bibliographie)	2	
+orth	Perse. Géographie médicale		
 pb	529	0533	4576909
 pb	530	0534	4576910
-entry	Perse. Pathologie [L. Hahn, L. Thomas]	5	
+entry	Perse. Pathologie [L. Hahn, L. Thomas]	4	
 orth	Perse. Pathologie		
 pb	531	0535	4576911
 pb	532	0536	4576912
 pb	533	0537	4576913
 pb	534	0538	4576914
 pb	535	0539	4576915
+entry	Perse. Pathologie [L. Hahn, L. Thomas] (bibliographie)	0	
+orth	Perse. Pathologie		
 entry	Persea [Ed. Lefèvre]	0	
 orth	Persea		
-entry	Persécution (Délire de) [Ant. Ritti]	65	
+entry	Persécution (Délire de) [Ant. Ritti]	61	
 orth	Persécution (Délire de)		
 pb	536	0540	4576916
 pb	537	0541	4576917
@@ -811,21 +857,27 @@ pb	594	0598	4576974
 pb	595	0599	4576975
 pb	596	0600	4576976
 pb	597	0601	4576977
+entry	Persécution (Délire de) [Ant. Ritti] (bibliographie)	2	
+orth	Persécution (Délire de)		
 pb	598	0602	4576978
 pb	599	0603	4576979
 pb	600	0604	4576980
+entry	Persécution (Délire de) [Ant. Ritti]	0	
+orth	Persécution (Délire de)		
 entry	Persica [Ed. Lefèvre]	0	
 orth	Persica		
 entry	Persicaire [Ed. Lefèvre]	0	
 orth	Persicaire		
 entry	Persil	0	
-entry	Persil. Botanique [H. Baillon]	1	
+entry	Persil. Botanique [H. Baillon] (bibliographie)	1	
 orth	Persil. Botanique		
 pb	601	0605	4576981
-entry	Persil. Emploi médical [Charles Éloy]	2	
+entry	Persil. Emploi médical [Charles Éloy]	1	
 orth	Persil. Emploi médical		
 pb	602	0606	4576982
 pb	603	0607	4576983
+entry	Persil. Emploi médical [Charles Éloy] (bibliographie)	0	
+orth	Persil. Emploi médical		
 entry	Persona (Giovanni-Battista) [L. Hahn]	0	
 orth	Persona (Giovanni-Battista)		
 entry	Personata [Ed. Lefèvre]	1	
@@ -833,7 +885,7 @@ orth	Personata
 pb	604	0608	4576984
 entry	Personne (Jacques) [L. Hahn]	0	
 orth	Personne (Jacques)		
-entry	Persoon (Christian-Hendeck) [L. Hahn]	0	
+entry	Persoon (Christian-Hendeck) [L. Hahn] (bibliographie)	0	
 orth	Persoon (Christian-Hendeck)		
 entry	Persoz (Jean-François) [L. Hahn]	0	
 orth	Persoz (Jean-François)		
@@ -856,11 +908,13 @@ ref	Pérou
 entry	Péruvine [L. Hahn]	0	
 orth	Péruvine		
 entry	Pervenche	0	
-entry	Pervenche. Botanique [H. Baillon]	2	
+entry	Pervenche. Botanique [H. Baillon]	1	
 orth	Pervenche. Botanique		
 pb	606	0610	4576986
 pb	607	0611	4576987
-entry	Pervenche. Emploi médical [Charles Éloy]	1	
+entry	Pervenche. Botanique [H. Baillon] (bibliographie)	0	
+orth	Pervenche. Botanique		
+entry	Pervenche. Emploi médical [Charles Éloy] (bibliographie)	1	
 orth	Pervenche. Emploi médical		
 pb	608	0612	4576988
 entry	Pervinca [H. Baillon]	0	
@@ -880,14 +934,14 @@ pb	610	0614	4576990
 pb	611	0615	4576991
 pb	612	0616	4576992
 pb	613	0617	4576993
-entry	Pescheck (Christian-August) [A. Dureau]	0	
+entry	Pescheck (Christian-August) [A. Dureau] (bibliographie)	0	
 orth	Pescheck (Christian-August)		
 entry	Peschier (Les) [L. Hahn]	1	
 orth	Peschier (Les)		
 pb	614	0618	4576994
-entry	Peset y Vidal (Juan Bautista) [A. Dureau]	0	
+entry	Peset y Vidal (Juan Bautista) [A. Dureau] (bibliographie)	0	
 orth	Peset y Vidal (Juan Bautista)		
-entry	Pessaire [Auvard]	26	
+entry	Pessaire [Auvard]	23	
 orth	Pessaire		
 pb	615	0619	4576995
 pb	616	0620	4576996
@@ -913,6 +967,8 @@ pb	635	0639	4577015
 pb	636	0640	4577016
 pb	637	0641	4577017
 pb	638	0642	4577018
+entry	Pessaire [Auvard] (bibliographie)	2	
+orth	Pessaire		
 pb	639	0643	4577019
 pb	640	0644	4577020
 entry	Pesse [Ed. Lefèvre]	0	
@@ -924,7 +980,7 @@ ref	Ofen
 entry	Pestalozzi (Les deux) [A. Chéreau]	0	
 orth	Pestalozzi (Les deux)		
 pb	641	0645	4577021
-entry	Peste [J. Mahé]	111	
+entry	Peste [J. Mahé]	104	
 orth	Peste		
 pb	642	0646	4577022
 pb	643	0647	4577023
@@ -1031,6 +1087,8 @@ pb	743	0747	4577123
 pb	744	0748	4577124
 pb	745	0749	4577125
 pb	746	0750	4577126
+entry	Peste [J. Mahé] (bibliographie)	6	
+orth	Peste		
 pb	747	0751	4577127
 pb	748	0752	4577128
 pb	749	0753	4577129
@@ -1056,31 +1114,39 @@ orth	Petit (Anatomie)
 entry	Petit (Botanique) [Ed. Lefèvre]	1	
 orth	Petit (Botanique)		
 pb	757	0761	4577137
-entry	Petit (Les) [A. Chéreau, L. Hahn]	3	
+entry	Petit (Les) [A. Chéreau, L. Hahn]	0	
 orth	Petit (Les)		
 pb	758	0762	4577138
+entry	Petit (Les) [A. Chéreau, L. Hahn] (bibliographie)	2	
+orth	Petit (Les)		
 pb	759	0763	4577139
 pb	760	0764	4577140
 entry	Petit (Pourfour du) (Les deux) [A. Chéreau]	0	
 orth	Petit (Pourfour du) (Les deux)		
 pb	761	0765	4577141
-entry	Petit (Pourfour de) (Les deux) [A. Chéreau]	0	
+entry	Petit (Pourfour de) (Les deux) [A. Chéreau] (bibliographie)	0	
 orth	Petit (Pourfour de) (Les deux)		
 entry	Petit-Radel (Philippe) [A. Chéreau]	0	
 orth	Petit-Radel (Philippe)		
-entry	Petiver (James) [L. Hahn]	1	
+entry	Petiver (James) [L. Hahn]	0	
 orth	Petiver (James)		
 pb	762	0766	4577142
-entry	Petiveria (Plum. L.) [H. Baillon]	1	
+entry	Petiver (James) [L. Hahn] (bibliographie)	0	
+orth	Petiver (James)		
+entry	Petiveria (Plum. L.) [H. Baillon]	0	
 orth	Petiveria (Plum. L.)		
 pb	763	0767	4577143
+entry	Petiveria (Plum. L.) [H. Baillon] (bibliographie)	0	
+orth	Petiveria (Plum. L.)		
 entry	Pétoncle [Ed. Lefèvre]	0	
 orth	Pétoncle		
 entry	Petraeus (Heinrich) [L. Hahn]	0	
 orth	Petraeus (Heinrich)		
-entry	Pétrequin (Théodore-Joseph-Éléonord) [L. Hahn]	1	
+entry	Pétrequin (Théodore-Joseph-Éléonord) [L. Hahn]	0	
 orth	Pétrequin (Théodore-Joseph-Éléonord)		
 pb	764	0768	4577144
+entry	Pétrequin (Théodore-Joseph-Éléonord) [L. Hahn] (bibliographie)	0	
+orth	Pétrequin (Théodore-Joseph-Éléonord)		
 entry	Pétreux (Nerfs) [Marc Sée]	0	
 orth	Pétreux (Nerfs)		
 entry	Petrini (Giuseppe) [L. Hahn]	0	
@@ -1088,7 +1154,7 @@ orth	Petrini (Giuseppe)
 entry	Petrioli (Cajetano) [L. Hahn]	1	
 orth	Petrioli (Cajetano)		
 pb	765	0769	4577145
-entry	Pétrocarvi [Ed. Lefèvre]	0	
+entry	Pétrocarvi [Ed. Lefèvre] (bibliographie)	0	
 orth	Pétrocarvi		
 entry	Pétrole (Chimie) [Ch. Blarez]	5	
 orth	Pétrole (Chimie)		
@@ -1105,7 +1171,7 @@ entry	Pétroncianum [Ed. Lefèvre]	0
 orth	Pétroncianum		
 entry	Petronio [L. Hahn]	0	
 orth	Petronio		
-entry	Petronius (Alessandro-Trajano) [L. Hahn]	1	
+entry	Petronius (Alessandro-Trajano) [L. Hahn] (bibliographie)	1	
 orth	Petronius (Alessandro-Trajano)		
 pb	771	0775	4577151
 entry	Pétro-salpingo-staphylin (Muscle)	0	
@@ -1116,24 +1182,28 @@ entry	Pétroz (Les deux) [L. Hahn]	0
 orth	Pétroz (Les deux)		
 entry	Petrucci (Giuseppe) [L. Hahn]	0	
 orth	Petrucci (Giuseppe)		
-entry	Petrunti (Francesco) [L. Hahn]	1	
+entry	Petrunti (Francesco) [L. Hahn]	0	
 orth	Petrunti (Francesco)		
 pb	772	0776	4577152
+entry	Petrunti (Francesco) [L. Hahn] (bibliographie)	0	
+orth	Petrunti (Francesco)		
 entry	Pettenkofer (Franz-Xaver) [L. Hahn]	0	
 orth	Pettenkofer (Franz-Xaver)		
 entry	Petty (William) [L. Hahn]	0	
 orth	Petty (William)		
 entry	Peu (Philippe) [L. Hahn]	0	
 orth	Peu (Philippe)		
-entry	Peucédan [H. Baillon]	3	
+entry	Peucédan [H. Baillon]	2	
 orth	Peucédan		
 pb	773	0777	4577153
 pb	774	0778	4577154
 pb	775	0779	4577155
+entry	Peucédan [H. Baillon] (bibliographie)	0	
+orth	Peucédan		
 entry	Peucédanine [L. Hahn]	1	
 orth	Peucédanine		
 pb	776	0780	4577156
-entry	Peucer (Gaspard) [A. Dureau]	0	
+entry	Peucer (Gaspard) [A. Dureau] (bibliographie)	0	
 orth	Peucer (Gaspard)		
 entry	Peuls	0	
 ref	Foulahs		
@@ -1142,7 +1212,7 @@ entry	Peulvans	0
 ref	Dolmen		
 ref	Celtes		
 entry	Peumus (Mol.)	0	
-entry	Peumus (Mol.). Botanique [H. Baillon]	1	
+entry	Peumus (Mol.). Botanique [H. Baillon] (bibliographie)	1	
 orth	Peumus (Mol.). Botanique		
 pb	777	0781	4577157
 entry	Peumus (Mol.). Emploi médical [Édouard Heckel]	3	
@@ -1151,33 +1221,41 @@ pb	778	0782	4577158
 pb	779	0783	4577159
 pb	780	0784	4577160
 entry	Peuplier	0	
-entry	Peuplier. Botanique [H. Baillon]	3	
+entry	Peuplier. Botanique [H. Baillon]	1	
 orth	Peuplier. Botanique		
 pb	781	0785	4577161
 pb	782	0786	4577162
+entry	Peuplier. Botanique [H. Baillon] (bibliographie)	1	
+orth	Peuplier. Botanique		
 pb	783	0787	4577163
-entry	Peuplier. Application thérapeutiques [Ernest Labbée]	2	
+entry	Peuplier. Application thérapeutiques [Ernest Labbée]	1	
 orth	Peuplier. Application thérapeutiques		
 pb	784	0788	4577164
 pb	785	0789	4577165
+entry	Peuplier. Application thérapeutiques [Ernest Labbée] (bibliographie)	0	
+orth	Peuplier. Application thérapeutiques		
 entry	Peutheron [H. Baillon]	0	
 orth	Peutheron		
 entry	Pevette [H. Baillon]	0	
 orth	Pevette		
 entry	Peyer (Glandes ou Plaques de)	0	
 ref	Intestin		
-entry	Peyer (Johann-Conrad) [L. Hahn]	1	
+entry	Peyer (Johann-Conrad) [L. Hahn]	0	
 orth	Peyer (Johann-Conrad)		
 pb	786	0790	4577166
+entry	Peyer (Johann-Conrad) [L. Hahn] (bibliographie)	0	
+orth	Peyer (Johann-Conrad)		
 entry	Peyrilhe (Bernard) [A. Chéreau]	0	
 orth	Peyrilhe (Bernard)		
 entry	Peyrilhe (Élixir de) [L. Hahn]	0	
 orth	Peyrilhe (Élixir de)		
 entry	Peyrilhe (Sirop de) [L. Hahn]	0	
 orth	Peyrilhe (Sirop de)		
-entry	Peysson (Jean-Claude-Anthelme) [A. Dureau]	1	
+entry	Peysson (Jean-Claude-Anthelme) [A. Dureau]	0	
 orth	Peysson (Jean-Claude-Anthelme)		
 pb	787	0791	4577167
+entry	Peysson (Jean-Claude-Anthelme) [A. Dureau] (bibliographie)	0	
+orth	Peysson (Jean-Claude-Anthelme)		
 entry	Peyssonel (J.-Antoine) [L. Hahn]	0	
 orth	Peyssonel (J.-Antoine)		
 entry	Pezica [Ed. Lefèvre]	0	
@@ -1187,7 +1265,7 @@ orth	Pezize
 pb	788	0792	4577168
 entry	Pezizées [Ed. Lefèvre]	0	
 orth	Pezizées		
-entry	Pezold (Johann-Nathaniel) [L. Hahn]	0	
+entry	Pezold (Johann-Nathaniel) [L. Hahn] (bibliographie)	0	
 orth	Pezold (Johann-Nathaniel)		
 entry	Pezzoli (Giovanni-Battista) [L. Hahn]	0	
 orth	Pezzoli (Giovanni-Battista)		
@@ -1199,22 +1277,24 @@ pb	791	0795	4577171
 pb	792	0796	4577172
 pb	793	0797	4577173
 pb	794	0798	4577174
-entry	Pfaff (Christoph-Heinrich) [L. Hahn]	1	
+entry	Pfaff (Christoph-Heinrich) [L. Hahn] (bibliographie)	1	
 orth	Pfaff (Christoph-Heinrich)		
 pb	795	0799	4577175
 entry	Pfann (Matthias-Georg) [L. Hahn]	0	
 orth	Pfann (Matthias-Georg)		
 entry	Pfeiffer (Louis-Georg-Carl) [L. Hahn]	0	
 orth	Pfeiffer (Louis-Georg-Carl)		
-entry	Pfenninger (Caspar) [A. Dureau]	1	
+entry	Pfenninger (Caspar) [A. Dureau]	0	
 orth	Pfenninger (Caspar)		
 pb	796	0800	4577176
+entry	Pfenninger (Caspar) [A. Dureau] (bibliographie)	0	
+orth	Pfenninger (Caspar)		
 entry	Pfeufer (Les deux) [L. Hahn]	0	
 orth	Pfeufer (Les deux)		
 entry	Pfingsten (Johann-Herrmann) [L. Hahn]	0	
 orth	Pfingsten (Johann-Herrmann)		
 pb	797	0801	4577177
-entry	Pfingsten (Johann-Derrmann) [L. Hahn]	0	
+entry	Pfingsten (Johann-Derrmann) [L. Hahn] (bibliographie)	0	
 orth	Pfingsten (Johann-Derrmann)		
 entry	Pfolspeundt (Heinrich von) [L. Hahn]	0	
 orth	Pfolspeundt (Heinrich von)		
@@ -1225,7 +1305,7 @@ orth	Phace
 entry	Phacidiacées [Ed. Lefèvre]	1	
 orth	Phacidiacées		
 pb	798	0802	4577178
-entry	Phaéton [E. Oustalet]	0	
+entry	Phaéton [E. Oustalet] (bibliographie)	0	
 orth	Phaéton		
 entry	Phagédénisme [L. Lereboullet]	1	
 orth	Phagédénisme		
@@ -1236,7 +1316,7 @@ ref	Orteils
 entry	Phalangiens	0	
 ref	Arachnides		
 ref	Faucheurs		
-entry	Phalangium [Ed. Lefèvre]	0	
+entry	Phalangium [Ed. Lefèvre] (bibliographie)	0	
 orth	Phalangium		
 pb	800	0804	4577180
 entry	Phalangose	0	

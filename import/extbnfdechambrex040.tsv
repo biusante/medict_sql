@@ -5,9 +5,11 @@ pb	[s. pag.]	0003	4528839
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4528840
 pb	1	0005	4528841
-entry	Fracastor (Jérôme) [A. Chéreau]	1	
+entry	Fracastor (Jérôme) [A. Chéreau]	0	
 orth	Fracastor (Jérôme)		
 pb	2	0006	4528842
+entry	Fracastor (Jérôme) [A. Chéreau] (bibliographie)	0	
+orth	Fracastor (Jérôme)		
 pb	3	0007	4528843
 entry	Fractures	0	
 entry	Fractures. Pathologie chirurgicale [A.-H. Marchand]	61	
@@ -200,7 +202,7 @@ pb	184	0188	4529024
 pb	185	0189	4529025
 pb	186	0190	4529026
 pb	187	0191	4529027
-entry	Fractures. Thérapeutique des fractures compliquées [E. Spillmann] [L. Hahn]	14	
+entry	Fractures. Thérapeutique des fractures compliquées [E. Spillmann] (bibliographie) [L. Hahn]	14	
 orth	Fractures. Thérapeutique des fractures compliquées		
 pb	188	0192	4529028
 pb	189	0193	4529029
@@ -227,12 +229,16 @@ pb	207	0211	4529047
 pb	208	0212	4529048
 entry	Fragaria	0	
 ref	Fraisier		
-entry	Fragon [G. Planchon]	1	
+entry	Fragon [G. Planchon]	0	
 orth	Fragon		
 pb	209	0213	4529049
-entry	Fragoso (Juan) [L. Hahn]	1	
+entry	Fragon [G. Planchon] (bibliographie)	0	
+orth	Fragon		
+entry	Fragoso (Juan) [L. Hahn]	0	
 orth	Fragoso (Juan)		
 pb	210	0214	4529050
+entry	Fragoso (Juan) [L. Hahn] (bibliographie)	0	
+orth	Fragoso (Juan)		
 entry	Frai [Amédée Dechambre]	0	
 orth	Frai		
 entry	Fraise (Botanique)	0	
@@ -242,12 +248,14 @@ ref	Fraisier
 entry	Fraise (Chirurgie) [Amédée Dechambre]	0	
 orth	Fraise (Chirurgie)		
 entry	Fraisier	0	
-entry	Fraisier. Botanique [H. Baillon]	3	
+entry	Fraisier. Botanique [H. Baillon]	2	
 orth	Fraisier. Botanique		
 pb	211	0215	4529051
 pb	212	0216	4529052
 pb	213	0217	4529053
-entry	Fraisier. Emploi médical [Ernest Labbée]	6	
+entry	Fraisier. Botanique [H. Baillon] (bibliographie)	0	
+orth	Fraisier. Botanique		
+entry	Fraisier. Emploi médical [Ernest Labbée]	5	
 orth	Fraisier. Emploi médical		
 pb	214	0218	4529054
 pb	215	0219	4529055
@@ -255,11 +263,13 @@ pb	216	0220	4529056
 pb	217	0221	4529057
 pb	218	0222	4529058
 pb	219	0223	4529059
+entry	Fraisier. Emploi médical [Ernest Labbée] (bibliographie)	0	
+orth	Fraisier. Emploi médical		
 entry	Fraisse (Charles) [A. Chéreau]	0	
 orth	Fraisse (Charles)		
 entry	Frais-Vallon (Eaux minérales de)	0	
 ref	Oïoun-sckhakhna		
-entry	Framboesia [V. De Rochas]	29	
+entry	Framboesia [V. De Rochas]	28	
 orth	Framboesia		
 pb	220	0224	4529060
 pb	221	0225	4529061
@@ -290,17 +300,21 @@ pb	245	0249	4529085
 pb	246	0250	4529086
 pb	247	0251	4529087
 pb	248	0252	4529088
+entry	Framboesia [V. De Rochas] (bibliographie)	0	
+orth	Framboesia		
 entry	Framboise	0	
 ref	Framboisier		
 entry	Framboisier	0	
 entry	Framboisier. Botanique [H. Baillon]	1	
 orth	Framboisier. Botanique		
 pb	219	0253	4529089
-entry	Framboisier. Emploi médical [L. Hahn]	4	
+entry	Framboisier. Emploi médical [L. Hahn]	2	
 orth	Framboisier. Emploi médical		
 pb	250	0254	4529090
 pb	251	0255	4529091
 pb	252	0256	4529092
+entry	Framboisier. Emploi médical [L. Hahn] (bibliographie)	1	
+orth	Framboisier. Emploi médical		
 pb	253	0257	4529093
 entry	Framboisière (Nicolas-Abraham de la) [A. Chéreau]	0	
 orth	Framboisière (Nicolas-Abraham de la)		
@@ -461,7 +475,7 @@ pb	398	0402	4529238
 pb	399	0403	4529239
 pb	400	0404	4529240
 pb	401	0405	4529241
-entry	France. Climatologie [Jules Arnould]	157	
+entry	France. Climatologie [Jules Arnould]	154	
 orth	France. Climatologie		
 pb	402	0406	4529242
 pb	403	0407	4529243
@@ -618,6 +632,8 @@ pb	553	0557	4529393
 pb	554	0558	4529394
 pb	555	0559	4529395
 pb	556	0560	4529396
+entry	France. Climatologie [Jules Arnould] (bibliographie)	2	
+orth	France. Climatologie		
 pb	557	0561	4529397
 pb	558	0562	4529398
 entry	France. Anthropologie [Gustave Lagneau]	236	

@@ -128,14 +128,24 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="$lf"/>
   </xsl:template>
 
+
+  <!-- Ne pas pas sortir les traductions sortant du Littré-Gilbert 1907 
+    si déjà dans Littré-Robin 1873 -->
+  <xsl:template match="tei:entry[@corresp='medict37020d.xml']/tei:dictScrap"/>
+
   <xsl:template match="tei:foreign">
-    <xsl:value-of select="local-name()"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="@xml:lang"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="$lf"/>
+    <xsl:choose>
+      <xsl:when test="@cert and @cert = 'low'"/>
+      <xsl:otherwise>
+        <xsl:value-of select="local-name()"/>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="@xml:lang"/>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="$lf"/>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template match="tei:sense//tei:foreign">

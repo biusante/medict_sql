@@ -41,6 +41,7 @@ class C
     const _LIVANC = ':livanc';
     const _LIVANCPAGES = ':livancpages';
     const _MOTS = ':mots';
+    const _ORTH = ':orth';
     const _PAGE = ':page';
     const _PAGE2 = ':page2';
     const _PPS = ':pps';

@@ -41,6 +41,7 @@ class MedictInsert extends MedictUtil
         C::_REFIMG => -1,
         C::_DICO_TERME => -1,
         C::_RELTYPE => -1,
+        C::_ORTH => null,
         C::_CLIQUE => -1,
     );
     
@@ -306,7 +307,12 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
     public static function insert_all()
     {
-        // SELECT * FROM medict.dico_titre ORDER BY -import_ordre DESC, annee DESC;
+        $sql = "SELECT * FROM medict.dico_titre ORDER BY -import_ordre DESC, annee DESC;";
+        $q = self::$pdo->prepare($sql);
+        $q->execute([]);
+        while ($row = $q->fetch()) {
+            self::insert_titre($row['cote']);
+        }
     }
 
 
@@ -378,12 +384,13 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
     /**
      * Insérer une relation mots associés
      */
-    private static function insert_rel($dico_terme, $reltype, $page, $refimg)
+    private static function insert_rel($dico_terme, $reltype, $page, $refimg, $orth=null)
     {
         self::$dico_rel[C::_DICO_TERME] = $dico_terme;
         self::$dico_rel[C::_RELTYPE] = $reltype;
         self::$dico_rel[C::_PAGE] = $page;
         self::$dico_rel[C::_REFIMG] = $refimg;
+        self::$dico_rel[C::_ORTH] = $orth;
         self::$q[C::DICO_REL]->execute(self::$dico_rel);
     }
 
@@ -399,7 +406,8 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         $time_start = microtime(true);
 
         if (!file_exists($tsv_file)) {
-            throw new Exception("Fichier introuvable : ".$tsv_file);
+            fwrite(STDERR, "[insert_volume] Fichier introuvable : ".$tsv_file . "\n");
+            return;
         }
         // RAZ
         foreach (array(
@@ -532,6 +540,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                             C::TYPE_REF,
                             self::$dico_entree[C::_PAGE], // page de l’entrée
                             self::$dico_entree[C::_REFIMG],
+                            true,
                         );
                     }
                 }
@@ -619,6 +628,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                             // page de l’entrée
                             self::$dico_entree[C::_PAGE],
                             self::$dico_entree[C::_REFIMG],
+                            true,
                         );
                     }
                 }
@@ -637,6 +647,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                             C::TYPE_REF,
                             self::$dico_entree[C::_PAGE], // page de l’entrée
                             self::$dico_entree[C::_REFIMG],
+                            true,
                         );
                     } catch (Exception $e) {
                         echo $e;

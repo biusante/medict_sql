@@ -198,7 +198,7 @@ term	Abducteurs de la cuisse
 ref	Cuisse		
 term	Abducteur du doigt indicateur		
 term	Abducteur du petit doigt		
-term	A bducteur de l’œil		
+term	Abducteur de l’œil		
 ref	Droit		
 term	Abducteur de l’oreille		
 term	Abducteur du gros orteil		
@@ -518,7 +518,7 @@ ref	Pouvoir
 term	Absorption chyleuse		
 ref	Pénétration		
 term	Absorptioncutanée		
-term	A bsorption désassimilatrice		
+term	Absorption désassimilatrice		
 ref	Désassimilation		
 term	Absorption externe ou de composition assimilatrice		
 ref	Assimilation		
@@ -603,13 +603,13 @@ foreign	Akazie	deu
 foreign	gumtree	eng	
 foreign	acazia	ita	
 ref	Gomme		
-term	A. angico		
+term	Acacia angico		
 ref	Angico		
-term	A. arabica		
+term	Acacia arabica		
 ref	Bablah		
-term	A. de Farnèse		
+term	Acacia de Farnèse		
 ref	Balibabulah		
-term	A. jurema		
+term	Acacia jurema		
 ref	Jurema		
 entry	Académie	0	
 orth	Académie		
@@ -1060,7 +1060,7 @@ ref	Giilohamylène
 term	Acétates de cuivre		
 term	Acétate de cuivre et d’ammoniaque		
 term	Acétate de fer		
-term	A citâtes de mercure		
+term	Acétates de mercure		
 pb	0016	0030	
 ref	Dragée		
 term	Acétate de méthylène		
@@ -25003,7 +25003,7 @@ foreign	compressor	eng
 foreign	compressore	ita	
 foreign	compresor	spa	
 term	Compresseur de Moore		
-term	Compresseur de J		
+term	Compresseur de J. L. Petit		
 term	Compresseur de Dupuytren		
 pb	0337	0351	
 term	Compresseur de Nuck		
@@ -25668,7 +25668,7 @@ foreign	συγγενὴς	grc
 pb	0344	0358	
 entry	Connectif	0	
 orth	Connectif		
-term	T issu connectif		
+term	Tissu connectif		
 ref	Lamineux		
 entry	Connectif	0	
 orth	Connectif		
@@ -36417,7 +36417,7 @@ foreign	elettromotore	ita
 foreign	electromotor	spa	
 term	Force électromotrice		
 ref	Tension		
-term	Métaux électromoteur S		
+term	Métaux électromoteur		
 ref	Galvanisme		
 entry	Électro-négatif	0	
 orth	Électro-négatif		
@@ -36618,7 +36618,7 @@ foreign	elevator	eng
 foreign	elevatorio	ita	
 foreign	elevador	spa	
 term	Élévatoire triploïde		
-term	Élévatoire de J		
+term	Élévatoire de J. L. Petit		
 entry	Élève	0	
 orth	Élève		
 ref	Jeune		
@@ -45564,7 +45564,8 @@ foreign	fregamento	ita
 foreign	friccion	spa	
 foreign	τρίψις	grc	
 ref	Massage		
-term	Friction électrique, N		
+term	Friction électrique		
+ref	Électrique		
 entry	Frigidarium	0	
 orth	Frigidarium		
 entry	Frigidité	0	
@@ -52685,7 +52686,7 @@ entry	Hippocrate	0
 orth	Hippocrate		
 term	Banc d’Hippocrate		
 ref	Banc		
-term	Bonnet H Hippocrate		
+term	Bonnet d’Hippocrate		
 ref	Capeline		
 term	Chausse ou manche d’Hippocrate		
 ref	Chausse		
@@ -75984,7 +75985,7 @@ term	Sel de nitre
 ref	Azotate		
 term	Nitre ammoniacal ou détonant		
 ref	Azotate		
-term	Nitre barytique, X		
+term	Nitre barytique		
 ref	Azotate		
 term	Nitre calcaire		
 ref	Azotate		
@@ -88940,7 +88941,7 @@ term	Plaies envenimées
 term	Plaie pénétrante		
 term	Plaies simples		
 ref	Blessure		
-term	Plaie de Γ Yémen		
+term	Plaie de l’Yémen		
 entry	Plan	0	
 orth	Plan		
 foreign	planus	lat	
@@ -97703,7 +97704,7 @@ foreign	regione	ita
 foreign	region	spa	
 foreign	τόπος	grc	
 ref	Anatomie		
-term	A natomie des régions		
+term	Anatomie des régions		
 ref	Anatomie		
 term	Régions botaniques		
 ref	Géographie		
@@ -97966,7 +97967,7 @@ ref	Galénique
 term	Remède coagulant		
 ref	Coagulant		
 term	Remède de Dibon		
-term	Remède du duc d A η tin		
+term	Remède du duc d’Antin		
 ref	Azotate		
 term	Remède de Durande ou de Whytt		
 ref	Essexce		
@@ -97978,7 +97979,7 @@ term	Remède de Kœmpfer
 term	remède de magnanimité		
 term	Remède de Lefebvre de Saint-Ildephonse		
 term	Remède Leroy		
-term	Remède de madame N ou fer		
+term	Remède de madame Noufer		
 ref	Tænifuge		
 term	Remèdes populaires		
 term	Remède de Pradier		
@@ -106877,7 +106878,7 @@ term	Spécificité d’un médicament
 term	Spécificité morbide		
 ref	Maladie		
 pb	1443	1457	
-term	Spécificité pathologique X		
+term	Spécificité pathologique		
 ref	Spécifique		
 entry	Spécifique	0	
 orth	Spécifique		
@@ -116549,8 +116550,8 @@ foreign	trephine	eng
 foreign	trefina	ita	
 foreign	trefina	spa	
 term	Tréphine d’Assalini		
-term	Tréphine de F		
-ref	Tbépan		
+term	Tréphine de F. Guyon ou sphénoïdienne		
+ref	Trépan		
 entry	Trépied	0	
 orth	Trépied		
 foreign	tripus	lat	
@@ -117401,7 +117402,7 @@ foreign	trotisco	ita
 foreign	trochisco	ita	
 foreign	trotisco	spa	
 foreign	τροχίσκος	grc	
-term	Trochisque Æ Alhandal		
+term	Trochisque d’Alhandal		
 ref	Coloquinte		
 term	Trochisques escharotiques		
 term	Trochisques escharotiques de minium		

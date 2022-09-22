@@ -15,6 +15,7 @@ use Normalizer, PDO;
 /**
  * Méthodes partagées entre les deux scripts de productions des données
  */
+
 mb_internal_encoding("UTF-8");
 MedictUtil::init();
 class MedictUtil
@@ -41,16 +42,6 @@ class MedictUtil
         'spa' => 6,
         'ita' => 7,
     );
-    /** Ordre des relations */
-    static $reltype = array(
-        'orth' => 1,
-        'foreign' => 2,
-        'ref' => 3,
-        'term' => 4,
-        'inorth' => 5,
-        'interm' => 6,
-    );
-    
     public static function init()
     {
         self::$home = dirname(dirname(dirname(__DIR__))) . '/';
@@ -95,25 +86,36 @@ class MedictUtil
         self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n";
     }
 
-    public static function sortable($s)
+    public static function deforme($s, $langue=null)
     {
         // bas de casse
         $s = mb_convert_case($s, MB_CASE_FOLD, "UTF-8");
-        // ligatures
-        $s = strtr(
-            $s,
-            array(
-                'œ' => 'oe',
-                'æ' => 'ae',
-            )
-        );
         // décomposer lettres et accents
         $s = Normalizer::normalize($s, Normalizer::FORM_D);
         // ne conserver que les lettres et les espaces, et les traits d’union
         $s = preg_replace("/[^\p{L}\-\s]/u", '', $s);
+        if ('lat' === $langue) {
+            $s = strtr($s,
+                array(
+                    'œ' => 'e',
+                    'æ' => 'e',
+                    'j' => 'i',
+                    'u' => 'v',
+                )
+            );
+        } else {
+            // ligatures
+            $s = strtr(
+                $s,
+                array(
+                    'œ' => 'oe',
+                    'æ' => 'ae',
+                )
+            );
+        }
         // normaliser les espaces
         $s = preg_replace('/[\s\-]+/', ' ', trim($s));
-        return $s;
+        return trim($s);
     }
 
     public static function starts_with($haystack, $needle)

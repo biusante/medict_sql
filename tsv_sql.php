@@ -1,13 +1,16 @@
 <?php
 
-require (__DIR__.'/php/Biusante/Medict/MedictInsert.php');
+require_once(__DIR__ . '/php/autoload.php');
 
 use Biusante\Medict\{MedictInsert};
 
-MedictInsert::dico_titre(); // remplir la table des titres
-MedictInsert::dico_volume(); // extraire les infos de volume depuis la base anc
-MedictInsert::truncate(); // supprimer les données d’indexation
+// MedictInsert::dico_titre(); // remplir la table des titres
+// MedictInsert::dico_volume(); // extraire les infos de volume depuis la base anc
 
+MedictInsert::truncate(); // supprimer les données d’indexation
+MedictInsert::insert_titre('37020d');
+
+/*
 MedictInsert::insert_titre('extbnfdechambre');
 MedictInsert::insert_titre('47661'); // Pancoucke
 MedictInsert::insert_titre('32923'); // Jacoud
@@ -22,8 +25,6 @@ MedictInsert::insert_titre('37029'); // Fabre
 MedictInsert::insert_titre('47667'); // Pancoucke bio
 MedictInsert::insert_titre('pharma_014023'); // Mérat
 MedictInsert::insert_titre('00216'); // JamesFR
-
-/*
 MedictInsert::insert_titre('extbnfpoujol');
 MedictInsert::insert_titre('61157');
 */

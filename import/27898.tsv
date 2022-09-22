@@ -271,33 +271,35 @@ entry	Abréviation	0
 orth	Abréviation		
 term	Abréviations usitées en chimie		
 term	aq		
-term	Add		
-term	B. a		
-term	Bi		
-term	B. m		
-term	B. v		
-term	Cochleat		
-term	Colat		
-term	Coq		
-term	Cyat		
-term	Dec		
-term	Div		
-term	Filt		
-term	F. s. a		
+term	Add.		
+term	B. a.		
+term	Bi.		
+term	B. m.		
+term	B. v.		
+term	c c		
+term	Cochleat.		
+term	Colat.		
+term	Coq.		
+term	Cyat.		
+term	Dec.		
+term	Div.		
+term	Filt.		
+term	F. s. a.		
 term	Gult.		
 term	gt.		
-term	Inf		
-term	Lin		
-term	Man		
+term	Inf.		
+term	Lin.		
+term	Man.		
 ref	Manipule		
-term	Oa		
-term	PU		
-term	Pug		
-term	Pulv.·		
-term	Q.p		
-term	S. a		
-term	Solv		
-term	Tinct		
+term	P. æ.		
+term	p. é.		
+term	PU.		
+term	Pug.		
+term	Pulv.		
+term	Q.p.		
+term	S. a.		
+term	Solv.		
+term	Tinct.		
 ref	Signe		
 term	Abréviations usitées en obstétrique		
 ref	Présentation		
@@ -603,7 +605,6 @@ term	Maison d’ac, couchêment
 ref	Maison		
 entry	Accoucheur	1	
 orth	Accoucheur		
-term	'adjutor partüs, obstetricans		
 pb	13	0023	
 entry	Accoucheuse	0	
 orth	Accoucheuse		
@@ -1127,7 +1128,6 @@ term	Actinomyces bovis
 pb	22	0032	
 entry	Actinomycose	0	
 orth	Actinomycose		
-term	b, b'		
 ref	Actinomycète		
 entry	Actinoscopie	0	
 orth	Actinoscopie		
@@ -1715,7 +1715,7 @@ term	Substance agglutinante
 pb	31	0041	
 entry	Agglutination	1	
 orth	Agglutination		
-term	L \agglutinatio		
+term	agglutinatio		
 term	Agglutination des microbes		
 pb	32	0042	
 entry	Agglutinine	0	
@@ -1827,7 +1827,7 @@ term	Aiguille asiatique
 ref	Astatioue		
 term	Aiguille de Spix		
 ref	Tympanal		
-term	Aiguille à \ acupuncture		
+term	Aiguille à acupuncture		
 ref	Acupunctcre		
 term	Aiguille à bec-de-lièvre		
 ref	Sutcrb		
@@ -1840,7 +1840,7 @@ term	Aiguille à ligature
 term	Aiguille mousse		
 term	Aiguille-pince		
 ref	Sebbeteli-e		
-term	Aiguille ùséton		
+term	Aiguille à séton		
 term	Aiguille à suture		
 term	Baume d’aiguille		
 entry	Aiguillé	0	
@@ -1916,12 +1916,16 @@ ref	Douche
 term	Tic en l’air		
 entry	Aire	0	
 orth	Aire		
-term	Aire embryonnaire.airedugerme		
+term	Aire embryonnaire		
+term	aire du germe		
+term	aire obscure		
+term	aire transparente ou lucide		
 ref	Ligne		
 term	Aire vasculaire		
+ref	Embryon		
 entry	Airigne	0	
 orth	Airigne		
-ref	Ékigne		
+ref	Érigne		
 entry	Airol	0	
 orth	Airol		
 pb	37	0047	
@@ -2002,7 +2006,7 @@ term	Tunique albuginée de l’œil
 term	Tunique albuginée du testicule		
 entry	Albuginée	0	
 orth	Albuginée		
-term	Albuginée de l’épididyme/Eave		
+term	Albuginée de l’épididyme		
 entry	Albugineux	0	
 orth	Albugineux		
 entry	Albuginite	0	
@@ -2037,7 +2041,7 @@ ref	Albuminurie
 entry	Albuminimètre	0	
 orth	Albuminimètre		
 term	Albuminimètre d’Esbach		
-term	Albuminimètre de·Riegler		
+term	Albuminimètre de Riegler		
 entry	Albuminoïde	1	
 orth	Albuminoïde		
 term	Matières albuminoïdes		
@@ -2105,7 +2109,6 @@ entry	Alcalinisme	0
 orth	Alcalinisme		
 entry	Alcalinité	0	
 orth	Alcalinité		
-term	\alcalinitas\		
 ref	Alcali		
 ref	Base		
 ref	Urine		
@@ -2229,7 +2232,6 @@ orth	Ale
 ref	Bière		
 entry	Alécithe	0	
 orth	Alécithe		
-term	. Yœuf télolécilhe		
 entry	Alectoria	0	
 orth	Alectoria		
 entry	Alembroth	0	
@@ -2370,7 +2372,6 @@ ref	Aliment
 ref	Alibile		
 entry	Alimentation	0	
 orth	Alimentation		
-term	L'alimentai ion est		
 term	Alimentation extra-buccale		
 term	Alimentation insuffisante		
 ref	Ration		
@@ -2510,9 +2511,9 @@ term	Sulfure d’allyle
 ref	Myrosine		
 entry	Aloès	0	
 orth	Aloès		
-term	L'aloès socotrin		
-term	L'aloès hépatique		
-term	L'aloès caballin		
+term	aloès socotrin		
+term	aloès hépatique		
+term	aloès caballin		
 term	Bois d’aloès		
 term	Extrait d’aloès		
 term	Pilules d’aloès		
@@ -2628,7 +2629,7 @@ term	Arcades alvéolaires
 ref	Abcade		
 term	Artère et veine alvéolaires		
 term	Bords ou procès alvéolaires		
-term	Nerfs alvéolaires [ou dentaires postérieurs]		
+term	Nerfs alvéolaires (ou dentaires postérieurs)		
 term	Point alvéolaire		
 entry	Alvéole	0	
 orth	Alvéole		
@@ -3162,7 +3163,7 @@ term	Amputations obliques
 pb	60	0070	
 term	Amputations elliptiques de		
 term	Impuialion		
-term	L'appareil à amputation		
+term	appareil à amputation		
 term	Amputation sèche		
 ref	Écrasemext		
 term	Amputation secondaire		
@@ -3177,9 +3178,9 @@ entry	Amusie	0
 orth	Amusie		
 entry	Amussat	0	
 orth	Amussat		
-term	! Pince d’Amussat		
+term	Pince d’Amussat		
 ref	Pince		
-term	Opération ' d’Amussat		
+term	Opération d’Amussat		
 entry	Amydolé	0	
 orth	Amydolé		
 entry	Amyélencéphalie	0	
@@ -3188,7 +3189,7 @@ entry	Amyélie	0
 orth	Amyélie		
 entry	Amyélinique	0	
 orth	Amyélinique		
-term	! Fibres amyéliniques		
+term	Fibres amyéliniques		
 entry	Amyélonévrie	0	
 orth	Amyélonévrie		
 entry	Amyélotrophie	0	
@@ -3240,7 +3241,7 @@ ref	Nitrite
 entry	Amylène	1	
 orth	Amylène		
 pb	62	0072	
-term	Amylène-chloral·		
+term	Amylène-chloral		
 term	Hydrate d’amylêne		
 term	Bihydrate d’amylêne		
 ref	Amylique		
@@ -3366,7 +3367,7 @@ orth	Analgésie
 orth	Analgie		
 entry	Analgésine	0	
 orth	Analgésine		
-term	L’antipyrine		
+term	antipyrine		
 entry	Analogie	0	
 orth	Analogie		
 ref	Homologie		
@@ -3514,7 +3515,8 @@ ref	Homologique
 term	Anatomie microscopique		
 ref	Analyse		
 term	Anatomie pathologique		
-term	Anatomie philosophique, anatomie^transcendante		
+term	Anatomie philosophique		
+term	anatomie transcendante		
 ref	Transcendant		
 term	Anatomie textulaire		
 ref	Textulaire		
@@ -3680,7 +3682,7 @@ ref	Anémie
 entry	Anémie	1	
 orth	Anémie		
 pb	69	0079	
-term	L'anémie générale		
+term	anémie générale		
 term	Anémie cérébrale		
 term	Anémie épidémique des mineurs		
 term	Anémie pernicieuse progressive		
@@ -3981,7 +3983,7 @@ term	Angles tubaires de l’utérus
 term	Angles auriculaires, auriculo-craniens		
 term	Angle corono-facial		
 term	Angles crâniens		
-term	A:igle facial		
+term	Angle facial		
 term	Angle inio-facial		
 term	Angle mêla facial		
 ref	Métafacial		
@@ -4024,7 +4026,7 @@ orth	Angustie
 pb	76	0086	
 entry	Angusture	0	
 orth	Angusture		
-term	L’angusture vraie		
+term	angusture vraie		
 ref	Vomiquier		
 entry	Angusturine	0	
 orth	Angusturine		
@@ -4400,7 +4402,7 @@ entry	Ansérine	0
 orth	Ansérine		
 term	Maladie anserine		
 ref	Maladie		
-term	, Peau ansérine		
+term	Peau ansérine		
 entry	Antacide	0	
 orth	Antacide		
 ref	Axtiacioe		
@@ -4456,7 +4458,8 @@ orth	Anthelmie
 ref	Spigélie		
 entry	Anthelminthique	0	
 orth	Anthelminthique		
-term	-X		
+term	Poudre anthelminthique		
+ref	POUDRE		
 entry	Anthelminthique	0	
 orth	Anthelminthique		
 entry	Anthémis	0	
@@ -4641,7 +4644,7 @@ ref	Cataplasme
 ref	Limjient		
 entry	Anticarcinomateux	0	
 orth	Anticarcinomateux		
-term	Poudre . anticarcinomateuse		
+term	Poudre anticarcinomateuse		
 ref	Pol-dre		
 entry	Anticardium	0	
 orth	Anticardium		
@@ -4659,9 +4662,8 @@ entry	Antichirotone	0
 orth	Antichirotone		
 entry	Antichlore	0	
 orth	Antichlore		
-entry	Anticholérique	1	
+entry	Anticholérique	0	
 orth	Anticholérique		
-term	\anlicholericus		
 pb	85	0095	
 entry	Anticipant	0	
 orth	Anticipant		
@@ -4730,7 +4732,7 @@ orth	Antigalactique
 ref	Antilaiteux		
 entry	Antigoutteux	0	
 orth	Antigoutteux		
-term	Élixir anligoutleux'		
+term	Élixir antigoutteux		
 ref	Élixir		
 entry	Antihectique	0	
 orth	Antihectique		
@@ -4799,7 +4801,7 @@ term	Oxydosulfüres ou oxysulfures d’antimoine
 ref	Soufre		
 term	Oxysulfure d’antimoine		
 ref	Kermès		
-term	Soufre 'doré d’antimoine		
+term	Soufre doré d’antimoine		
 ref	Soufre		
 term	Sulfhydrate d’antimoine		
 ref	Kermès		
@@ -5273,7 +5275,8 @@ term	Centre aponévrotique
 ref	Diaphragjie		
 term	Muscle aponévrotique ou du fascia lata		
 ref	Fascia		
-term	Tissu aponévrotique·, fibres aponévroliques		
+term	Tissu aponévrotique		
+term	fibres aponévrotiques		
 ref	Aponévrose		
 entry	Aponévrotome	0	
 orth	Aponévrotome		
@@ -5296,7 +5299,6 @@ ref	Basilvire
 ref	Calcanéum		
 entry	Apophysé	0	
 orth	Apophysé		
-term	'apophy satus		
 entry	Apoplectiforme	0	
 orth	Apoplectiforme		
 ref	Épilepsie		
@@ -5400,7 +5402,7 @@ term	Appareil hydro-électrique
 ref	Hydro-électrique		
 term	Appareil magnéto-électrique		
 ref	Magnéto-électrique		
-term	Appareil de Marsh'		
+term	Appareil de Marsh		
 term	Appareil cristallinien		
 ref	Cbistallinien		
 ref	Amputation		
@@ -5612,7 +5614,7 @@ orth	Araroba
 pb	100	0110	
 entry	Arbitre	0	
 orth	Arbitre		
-term	Libre arbitre·		
+term	Libre arbitre		
 ref	Cénesthésie		
 ref	Responsabilité		
 entry	Arborisation	0	
@@ -5679,7 +5681,7 @@ ref	Plantaire
 pb	101	0111	
 term	Arcade pubienne		
 ref	Pubien		
-term	Arcade radiale. \T		
+term	Arcade radiale		
 ref	Radial		
 term	Arcade sésamoïdienne		
 ref	Cubital		
@@ -5800,7 +5802,7 @@ term	Aréole du mamelon
 ref	Mamelon		
 entry	Aréomètre	0	
 orth	Aréomètre		
-term	L'aréomètre de Gay-Lussac		
+term	aréomètre de Gay-Lussac		
 term	alcoolomèlre centésimal		
 entry	Aréotique	0	
 orth	Aréotique		
@@ -5858,7 +5860,7 @@ entry	Argyriasis	0
 orth	Argyriasis		
 entry	Argyrie	0	
 orth	Argyrie		
-term	L’argyriasis		
+term	argyriasis		
 entry	Argyrique	0	
 orth	Argyrique		
 entry	Arhéol	0	
@@ -5917,9 +5919,9 @@ ref	Génipi
 term	Armoise vulgaire		
 term	Artemisia absinthium		
 ref	Absinthe		
-term	Artemisia abrotonum L.		
+term	Artemisia abrotonum (L.)		
 ref	Aurone		
-term	Artemisia dracunculus,L		
+term	Artemisia dracunculus (L.)		
 ref	Estragon		
 term	Artemisia contra		
 ref	Semen-contra		
@@ -6129,7 +6131,8 @@ entry	Arsénite	0
 orth	Arsénite		
 term	Arsénites dé potasse, de soude et d’ammoniaque		
 ref	Liqueur		
-term	Arsénile de cuivre. X. Wv		
+term	Arsénile de cuivre		
+ref	Vert		
 entry	Arséniure	0	
 orth	Arséniure		
 term	Arséniure d’hydrogène gazeux		
@@ -6380,13 +6383,13 @@ term	Anus artificiel
 ref	Anus		
 term	Autophagie artificielle		
 ref	Autophagie		
-term	Bain 'minéral artificiel		
+term	Bain minéral artificiel		
 ref	Bain		
 term	Bras artificiels		
 ref	Bras		
 term	Caractères artificiels		
 ref	Caractère		
-term	Classification ! artificielle		
+term	Classification artificielle		
 ref	Système		
 term	Dent artificielle		
 ref	Dent		
@@ -6448,7 +6451,6 @@ orth	Asa
 orth	Assa		
 term	Asa dulcis		
 term	Asa fœtida		
-term	Aùonniuz		
 ref	Lavement		
 entry	Asapeixe	0	
 orth	Asapeixe		
@@ -6751,7 +6753,7 @@ orth	Asthmatique
 entry	Asthme	1	
 orth	Asthme		
 term	Asthme		
-term	L'asthme		
+term	asthme		
 pb	118	0128	
 term	Asthme aigu des enfants		
 ref	Faux		
@@ -6917,7 +6919,7 @@ entry	Atlodyme	0
 orth	Atlodyme		
 entry	Atloïde	0	
 orth	Atloïde		
-term	L’atlas		
+term	atlas		
 entry	Atloïde, Atloïdien	0	
 orth	Atloïde		
 orth	Atloïdien		
@@ -6932,7 +6934,7 @@ term	Muscle atloïdo-occipital
 ref	Droit		
 entry	Atloïdo-odontoïdien	0	
 orth	Atloïdo-odontoïdien		
-term	Articulation atloïdo-odonto'idienne		
+term	Articulation atloïdo-odontoïdienne		
 entry	Atloïdo-sous-mastoïdien	0	
 orth	Atloïdo-sous-mastoïdien		
 ref	Oblique		
@@ -7183,7 +7185,7 @@ pb	126	0136
 term	Signe d’Auenbrugger		
 entry	Aufrecht	0	
 orth	Aufrecht		
-term	Parenchymatose aiguë d’Auf recht		
+term	Parenchymatose aiguë d’Aufrecht		
 entry	Augment	0	
 orth	Augment		
 entry	Augnathe	0	
@@ -7312,7 +7314,6 @@ entry	Autocinésie	0
 orth	Autocinésie		
 entry	Autoclave	0	
 orth	Autoclave		
-term	.v		
 term	Autoclave		
 entry	Autodigestion	1	
 orth	Autodigestion		
@@ -7434,7 +7435,7 @@ entry	Aveline	0
 orth	Aveline		
 entry	Avellis	0	
 orth	Avellis		
-term	Syndrome d?Avellis		
+term	Syndrome d’Avellis		
 entry	Avenbrugger	0	
 orth	Avenbrugger		
 ref	Aurnbrugger		
@@ -7519,7 +7520,6 @@ ref	Notocorde
 ref	Odontoïde		
 entry	Axis	0	
 orth	Axis		
-term	\Cervus axis		
 entry	Axoïde, Axoïdien	0	
 orth	Axoïde		
 orth	Axoïdien		
@@ -7550,7 +7550,7 @@ orth	Aylanthe
 ref	Ailanie		
 entry	Aypnie	0	
 orth	Aypnie		
-term	L’insomnie		
+term	insomnie		
 entry	Azadirachta indica	0	
 orth	Azadirachta indica		
 ref	Melia zadirachta		
@@ -7599,7 +7599,7 @@ term	Azotate de bismuth
 term	Azotate de chaux		
 term	Azotate de cuivre		
 term	Azotate de fer		
-term	· Azotate de magnésie		
+term	Azotate de magnésie		
 term	Azotate de mercure		
 term	Azotate de potassé		
 ref	Azotate		
@@ -7699,7 +7699,7 @@ entry	Bacteriacees	0
 orth	Bacteriacees		
 entry	Bactericide	0	
 orth	Bactericide		
-term	Pouvoir· bactéricide		
+term	Pouvoir bactéricide		
 ref	Phagocytose		
 entry	Bactéridie	0	
 orth	Bactéridie		
@@ -7716,7 +7716,7 @@ term	Sarcine
 term	Micrococcus elliptique		
 term	Bacterium commune		
 term	Bacillus ftuorescens		
-term	Bacillus rigidus·		
+term	Bacillus rigidus		
 term	Bacillus subtilis		
 term	Bacillus ureæ		
 term	Bacillus amylobacter		
@@ -8112,7 +8112,6 @@ orth	Baquet
 term	Baquet magnétique		
 entry	Baræsthésiomètre	0	
 orth	Baræsthésiomètre		
-term	Xsx\ëtê		
 entry	Baraque	0	
 orth	Baraque		
 term	Baraque hospitalière		
@@ -8313,7 +8312,7 @@ term	Milieu basique
 entry	Bassin	2	
 orth	Bassin		
 pb	149	0159	
-term	L'excavation pelvienne		
+term	excavation pelvienne		
 ref	Accouchement		
 term	Bassin		
 term	Bassin atrophique		
@@ -8376,7 +8375,8 @@ orth	Bateman
 term	Herpès iris de Bateman		
 term	hydroa vésiculeux de Bazin		
 term	hydroa vrai		
-term	Maladie de Bateman. Molluscum contagiosum y		
+term	Maladie de Bateman		
+term	Molluscum contagiosum		
 entry	Bath	0	
 orth	Bath		
 entry	Bathymétrie	0	
@@ -8433,7 +8433,7 @@ term	Baumes artificiels ou pharmaceutiques
 term	Baume acétique		
 term	Baume d’acier ou d’aiguilles		
 term	Baume acoustique		
-term	Baume' anodin de Bath		
+term	Baume anodin de Bath		
 term	Baume antiarthritique		
 ref	Baume		
 term	Baume apoplectique		
@@ -8448,7 +8448,7 @@ term	Baume du Canada
 ref	Térébenthine		
 term	Baume de Carthagène		
 ref	Baume		
-term	Baume' Chiron		
+term	Baume Chiron		
 term	Baume du commandeur de Fermes		
 pb	152	0162	
 term	Baume de Condom		
@@ -8636,7 +8636,6 @@ orth	Béconguille
 orth	Béconquille		
 entry	Bédégar	0	
 orth	Bédégar		
-term	{spongiacynobasti, fungus rosaceus		
 entry	Bednar	0	
 orth	Bednar		
 term	Aphtes de Bednar		
@@ -8667,7 +8666,7 @@ term	Maladie de Beigel
 entry	Béla, Bélou	0	
 orth	Béla		
 orth	Bélou		
-term	L’Ægle marmelos		
+term	Ægle marmelos		
 entry	Belalp	0	
 orth	Belalp		
 term	Station d’altitude		
@@ -9023,7 +9022,7 @@ entry	Bichat	0
 orth	Bichat		
 term	Canal de Bichat		
 ref	Canal		
-term	Grande·fente cérébrale de Bichat		
+term	Grande fente cérébrale de Bichat		
 ref	Fente		
 term	Tunique de Bichat		
 ref	Artère		
@@ -9106,7 +9105,7 @@ entry	Bigle	0
 orth	Bigle		
 entry	Bihydrate	0	
 orth	Bihydrate		
-term	.Bihydrate d’amglène		
+term	Bihydrate d’amglène		
 ref	Amylique		
 term	Bihydrate de méthylène		
 ref	Méthylique		
@@ -9487,7 +9486,7 @@ ref	Onguent
 term	blanc de Rhazès		
 entry	Blanquette	0	
 orth	Blanquette		
-term	L’eau-de-vie		
+term	eau-de-vie		
 entry	Blastématique	0	
 orth	Blastématique		
 pb	170	0180	
@@ -9620,7 +9619,7 @@ orth	Blépharite
 term	Blépharite ciliaire		
 entry	Blépharo-blennorrhée	0	
 orth	Blépharo-blennorrhée		
-term	L'ophtalmie purulente des nouveau-nés		
+term	ophtalmie purulente des nouveau-nés		
 ref	Ophtalmie		
 entry	Blépharo-colobome	0	
 orth	Blépharo-colobome		
@@ -9649,7 +9648,7 @@ entry	Blépharoptose	0
 orth	Blépharoptose		
 entry	Blépharopyorrhée	0	
 orth	Blépharopyorrhée		
-term	L'ophtalmie purulente des nouveau-nés		
+term	ophtalmie purulente des nouveau-nés		
 entry	Blepharospasme	0	
 orth	Blepharospasme		
 entry	Blépharostat	0	
@@ -9676,7 +9675,7 @@ orth	Bleu
 ref	Coloration		
 ref	Couleur		
 term	Bleucéleste		
-term	‘Bleu de cétrarine		
+term	Bleu de cétrarine		
 ref	Cétrarine		
 term	Bleu d’indigo		
 term	bleu en liqueur		
@@ -9694,7 +9693,7 @@ ref	Ferrocyancre
 term	Bleu de quinoléine		
 entry	Bleu	0	
 orth	Bleu		
-term	‘Cendre bleue		
+term	Cendre bleue		
 ref	Gendre		
 term	Maladie bleue		
 ref	Cyanose		
@@ -9715,7 +9714,6 @@ term	Bleuissement des contusions
 ref	Contusion		
 entry	Bléville	0	
 orth	Bléville		
-term	Eau ferrugi-· neuse		
 entry	Blighia	0	
 orth	Blighia		
 entry	Blot	0	
@@ -9739,7 +9737,7 @@ entry	Bocconie	0
 orth	Bocconie		
 entry	Bochet	0	
 orth	Bochet		
-term	Bochet purgatif;		
+term	Bochet purgatif		
 term	Bochet dépuratif		
 entry	Bockhart	0	
 orth	Bockhart		
@@ -10513,7 +10511,6 @@ orth	Bremer
 term	Réaction de Bremer		
 entry	Brennerbad	0	
 orth	Brennerbad		
-term	Station d’altitude·		
 entry	Brésillet	0	
 orth	Brésillet		
 ref	Bois		
@@ -10789,7 +10786,6 @@ entry	Bruckerau	0
 orth	Bruckerau		
 entry	Brucourt	0	
 orth	Brucourt		
-term	Eau ferrugineuse, magnésienne et gazeuse;		
 entry	Bruit	2	
 orth	Bruit		
 term	Bruits anormaux		
@@ -11017,7 +11013,7 @@ term	Bulbe de l’urètre
 ref	Urètre		
 term	Bulbe du vestibule		
 ref	Érectile		
-term	Bulb*. plumigène		
+term	Bulbe plumigène		
 ref	Plume		
 entry	Bulbeux	0	
 orth	Bulbeux		
@@ -11120,7 +11116,6 @@ orth	Butyracé
 ref	Bctyrecx		
 entry	Butyreux	0	
 orth	Butyreux		
-term	\butyrosus\		
 entry	Butyrique	0	
 orth	Butyrique		
 term	Fermentation butyrique		
@@ -11486,7 +11481,6 @@ term	Caisson de pharmacie
 ref	Castlne		
 entry	Cajeput	1	
 orth	Cajeput		
-term	il·		
 pb	210	0220	
 entry	Caju	0	
 orth	Caju		
@@ -11715,7 +11709,7 @@ term	Papille calicicole
 ref	Caliciforme		
 entry	Caliciforme	0	
 orth	Caliciforme		
-term	^ellïtlô'caliciformie		
+term	Cellule caliciforme		
 term	Papille caliciforme		
 ref	Langue		
 entry	Caligineux	0	
@@ -11800,7 +11794,7 @@ ref	Combiné
 ref	Libre		
 ref	Rayonnant		
 ref	Sensible		
-term	' Capacité pour le calorique		
+term	Capacité pour le calorique		
 ref	Pouvoir		
 entry	Calorition	0	
 orth	Calorition		
@@ -11901,7 +11895,7 @@ term	Camphre artificiel
 ref	Térébenthène		
 term	Camphre d’aunée		
 ref	Hélénol		
-term	Camphre de.Blumea		
+term	Camphre de Blumea		
 ref	Camphre		
 term	Camphre de Bornéo		
 term	Camphre bromé ou monobromé		
@@ -12057,7 +12051,7 @@ term	Canalicule pulmonaire ou respiratoire
 ref	Poumon		
 term	Canalicule séminifère		
 ref	Testicule		
-term	Canalicule urinaire'		
+term	Canalicule urinaire		
 ref	Run		
 entry	Cancer	1	
 orth	Cancer		
@@ -12132,7 +12126,8 @@ ref	Chéloïde
 pb	221	0231	
 entry	Caneficier	0	
 orth	Caneficier		
-term	Cassia fistula,L., Cathartocarpus fistula		
+term	Cassia fistula, L.		
+term	Cathartocarpus fistula		
 entry	Canello	0	
 orth	Canello		
 entry	Canepin	0	
@@ -12183,7 +12178,7 @@ entry	Cannelle	1
 orth	Cannelle		
 pb	222	0232	
 term	Cannelle blanche		
-term	Cannelle de· Cochinchine		
+term	Cannelle de Cochinchine		
 ref	Casse		
 term	Cannelle giroflée		
 entry	Cannellique	0	
@@ -12211,9 +12206,6 @@ term	Cantharidate de potasse
 term	Cantharidate de cocaïne		
 entry	Cantharide	1	
 orth	Cantharide		
-term	Can		
-term	Mylabris		
-term	Meloe tharide.variabilis		
 term	OEnas segetum		
 pb	223	0233	
 ref	Épispastique		
@@ -12513,7 +12505,7 @@ term	Carbonate de manganèse
 term	Carbonate de plomb		
 ref	Onguent		
 ref	Emplatre		
-term	Carbonates de potasse·		
+term	Carbonates de potasse		
 ref	Eau		
 ref	Potion		
 ref	Pommade		
@@ -12996,7 +12988,7 @@ ref	Cricoïde
 term	Cartilage articulaire		
 term	Cartilage costal ou des côtes		
 ref	Costal		
-term	Cartilage cricoï^e		
+term	Cartilage cricoïde		
 ref	Cricoïde		
 term	Cartilage dentaire		
 ref	Crête		
@@ -13172,7 +13164,7 @@ ref	Cannelier
 ref	Essence		
 entry	Cassie	0	
 orth	Cassie		
-term	L’Acacia farnesiana		
+term	Acacia farnesiana		
 ref	Balibabulah		
 entry	Cassiine	0	
 orth	Cassiine		
@@ -13286,8 +13278,8 @@ term	Cataplasme de fécule
 term	Cataplasme Hamilton		
 term	Cataplasme Lelièvre		
 term	Cala-, plasme maturatif		
-term	Cataplasme narcotique^		
-term	Cataplasme·· résolutif		
+term	Cataplasme narcotique		
+term	Cataplasme résolutif		
 term	Cataplasme rubéfiant		
 ref	Rubéfiant		
 term	Cataplasme de Trousseau		
@@ -13581,7 +13573,7 @@ ref	Lethargus
 ref	Phrémtis		
 entry	Cautère	0	
 orth	Cautère		
-term	•Cautère actuel		
+term	Cautère actuel		
 term	Cautère électrique		
 ref	Galvanocaustique		
 term	Cautère à gaz		
@@ -13602,7 +13594,6 @@ entry	Cautériser	0
 orth	Cautériser		
 entry	Cauvalat	0	
 orth	Cauvalat		
-term	.Eaux sulfurées calciques		
 entry	Caux	0	
 orth	Caux		
 term	Station de montagne		
@@ -13676,7 +13667,8 @@ entry	Cayaponine	0
 orth	Cayaponine		
 entry	Cazenave	0	
 orth	Cazenave		
-term	Lupus de Cazenave. Lupus érythémateux		
+term	Lupus de Cazenave		
+term	Lupus érythémateux		
 ref	Lupus		
 entry	Cazin	0	
 orth	Cazin		
@@ -13794,7 +13786,7 @@ term	Cellule de l’émail
 ref	Émail		
 term	Cellule embryonnaire ou embryonnale		
 ref	Embryonnal		
-term	Cellule. embryoplastique		
+term	Cellule embryoplastique		
 ref	Embryoplastique		
 term	Cellule fibro-plaslique		
 ref	Embryoplastique		
@@ -13829,7 +13821,7 @@ ref	Médullocelle
 term	Cellule mère		
 ref	Épithécioma		
 ref	Multiplication		
-term	Cellule nerveuse. Xʳ		
+term	Cellule nerveuse		
 ref	Nerveux		
 term	Cellulede l’oariule		
 ref	Oariule		
@@ -13838,7 +13830,7 @@ term	Cellule osseuse, cellule des os
 ref	Ostéoplaste		
 term	Cellule plasmatique		
 ref	Plasmatique		
-term	Cellule typhique. X1		
+term	Cellule typhique		
 ref	Typhique		
 pb	263	0273	
 entry	Celluleux	0	
@@ -14040,7 +14032,7 @@ ref	Goutte
 term	Remède céphalique		
 entry	Céphalite	0	
 orth	Céphalite		
-term	L’inflammation de la tête, sans		
+term	inflammation de la tête, sans		
 entry	Céphalocystes	0	
 orth	Céphalocystes		
 entry	Céphalographe	0	
@@ -14381,7 +14373,7 @@ entry	Cérumineux	0
 orth	Cérumineux		
 term	Concrétion cérumineuse		
 term	Glande cérumineuses		
-term	Humeu: cérumineuse		
+term	Humeur cérumineuse		
 entry	Céruse	0	
 orth	Céruse		
 ref	Carbonate		
@@ -14687,7 +14679,8 @@ entry	Chancre	2
 orth	Chancre		
 ref	Syphilis		
 term	Chancre balano-préputial		
-term	Chancre bourgeonnant. Chancre dur		
+term	Chancre bourgeonnant		
+term	Chancre dur		
 ref	Syphilis		
 term	Chancre céphalique		
 term	Chancre chronique		
@@ -14923,7 +14916,8 @@ term	Chauffage des vins
 pb	287	0297	
 entry	Chauffard	0	
 orth	Chauffard		
-term	Maladie de Hanot-Chauffard. Ν.Λϊκ^οτ		
+term	Maladie de Hanot-Chauffard		
+ref	Hanot		
 entry	Chauffeur	0	
 orth	Chauffeur		
 entry	Chauffoir	0	
@@ -14971,7 +14965,7 @@ term	Huile de chaux
 ref	Huile		
 term	Hypochlorite ouchlorure de chaux		
 ref	Hypochlorite		
-term	Lac täte de chaux		
+term	Lactate de chaux		
 ref	Lactate		
 term	Lait de chaux		
 term	Lut de chaux		
@@ -15106,7 +15100,7 @@ entry	Chenu	0
 orth	Chenu		
 entry	Chéramélier	0	
 orth	Chéramélier		
-term	Phyllanthus cicca);		
+term	Phyllanthus cicca		
 entry	Cherchewsky	0	
 orth	Cherchewsky		
 term	Maladie de Cherchewsky		
@@ -15603,7 +15597,7 @@ entry	Chloro-iodoforme	0
 orth	Chloro-iodoforme		
 entry	Chloro-iodure	0	
 orth	Chloro-iodure		
-term	Chloro-iodùre mercureux		
+term	Chloro-iodure mercureux		
 term	Chloro-iodure de mercure ou mercurique		
 entry	Chlorokakodyle, Chlorocacodyle	0	
 orth	Chlorokakodyle		
@@ -15705,7 +15699,8 @@ ref	Hypochlorite
 term	Chlorures d’étain		
 term	Chlorure d’éthyle		
 ref	Éthyle		
-term	Chlorurés de fer. 1° Protochlorure		
+term	Chlorurés de fer		
+term	Protochlorure		
 ref	Perchlorure		
 term	Chorures d’iode		
 term	Chlorure de cacodyle		
@@ -15741,7 +15736,7 @@ term	Chlorure de sodium
 pb	307	0317	
 term	Chlorure de soude liquide		
 ref	Hybochlorite		
-term	Chlorure de spiroyle^		
+term	Chlorure de spiroyle		
 ref	Chlorosalicylique		
 term	Chlorure de zinc		
 ref	Pate		
@@ -15756,7 +15751,7 @@ ref	Électricité
 term	Choc du cœur		
 ref	Pouls		
 term	Choc fœtal		
-term	Choc, choc opératoire·		
+term	Choc, choc opératoire ou traumatique		
 pb	308	0318	
 entry	Chocolat	0	
 orth	Chocolat		
@@ -16467,7 +16462,6 @@ ref	Cervelet
 term	Corps, ou mieux couronne ciliaire de la choroïde		
 term	Muscle ciliaire		
 ref	Ciliaire		
-term	-gp·		
 term	Nerfs ciliaires ou iriens		
 term	Procès ciliaires		
 term	Procès ciliaires du corps vitré ou de la zone de Zinn		
@@ -16594,7 +16588,7 @@ orth	Cinnaméne
 orth	Cinnamine		
 entry	Cinnamique	0	
 orth	Cinnamique		
-term	Acidecinnamiqtte (CISU'OZ.11		
+term	Acide cinnamique		
 ref	Cinnamate		
 term	Alcool cinnamique		
 ref	Styrone		
@@ -16877,7 +16871,7 @@ ref	Limonade
 term	Citrate de soude		
 entry	Citréne	0	
 orth	Citréne		
-term	L’essence de citron		
+term	essence de citron		
 ref	Essence		
 entry	Citrin	0	
 orth	Citrin		
@@ -16942,10 +16936,9 @@ pb	338	0348
 term	Cladothrij		
 term	Cladothrix astéroïdes		
 term	Cladothrix Försteri		
-entry	Clair, Aire	0	
+entry	Clair	0	
 orth	Clair		
-orth	Aire		
-term	-,Liquide clair		
+term	Liquide clair		
 term	Œuf clair		
 term	Timbre clair		
 ref	Sombre		
@@ -17874,9 +17867,8 @@ term	Collyre sec au calomel
 term	Collyre sec ammoniacal		
 term	Collyres secs gradués		
 term	Collyre de Stjemcrona, de la pharmacopée suédoise		
-term	Collyre au su!·		
 pb	360	0370	
-term	fate d’atropine		
+term	Collyre au sulfate d’atropine		
 term	Collyre au sulfate de cadmium		
 term	Collyre au sulfate de cuivre		
 term	Collyre au sulfate de zinc		
@@ -18308,7 +18300,7 @@ term	Muscle conchinien
 ref	Concho-anthèlix		
 entry	Concho-anthélix	0	
 orth	Concho-anthélix		
-term	'muscle conchinien		
+term	muscle conchinien		
 entry	Concho-hélix	0	
 orth	Concho-hélix		
 entry	Conchoïde	0	
@@ -19442,7 +19434,7 @@ orth	Corosol
 orth	Corossol		
 entry	Corps	3	
 orth	Corps		
-term	Corps organise', vivant ou animé		
+term	Corps organise, vivant ou animé		
 ref	Organisme		
 term	Corps adénoïde		
 ref	Adénoïde		
@@ -19712,7 +19704,7 @@ orth	Costalgie
 ref	Névralgie		
 entry	Costiforme	1	
 orth	Costiforme		
-term	Apophyses costif ormes;		
+term	Apophyses costiformes		
 pb	401	0411	
 entry	Costo-abdominal	0	
 orth	Costo-abdominal		
@@ -19841,7 +19833,7 @@ orth	Couches
 ref	Mort		
 ref	Myodynie		
 term	Couche adamantine des dents		
-term	Couche adipeuse;		
+term	Couche adipeuse		
 pb	404	0414	
 term	Couche chondroïde		
 ref	Chondroïde		
@@ -20128,7 +20120,7 @@ orth	Couzan
 ref	Sail-sous-couzan		
 entry	Cowdie	0	
 orth	Cowdie		
-term	’.Coudie du pin		
+term	Coudie du pin		
 ref	Dammar		
 entry	Cowper	0	
 orth	Cowper		
@@ -20202,10 +20194,9 @@ term	Crampe du cœur
 term	Crampe des écrivains		
 term	Crampe d’estomac		
 ref	Gastralgie		
-term	Crampe de		
 pb	413	0423	
-term	poitrine. L’angine de poitrine		
-term	Crampes		
+term	Crampe de poitrine		
+term	angine de poitrine		
 entry	Cran	0	
 orth	Cran		
 ref	Raifort		
@@ -20426,7 +20417,7 @@ term	Râle crépitant
 ref	Râle		
 entry	Crépitation	0	
 orth	Crépitation		
-term	Crépitation douloureuse des tendons. \		
+term	Crépitation douloureuse des tendons		
 term	Crépitation de retour		
 ref	Râle		
 entry	Crépitus	0	
@@ -20586,7 +20577,7 @@ term	Cristaux de Vénus
 ref	Acétate		
 entry	Cristallin	0	
 orth	Cristallin		
-term	Capsule cristalline'		
+term	Capsule cristalline		
 ref	Cristalloïde		
 term	Cataracte cristalline		
 ref	Cataracte		
@@ -20640,7 +20631,7 @@ entry	Cristallotechnie	0
 orth	Cristallotechnie		
 entry	Crithe	0	
 orth	Crithe		
-term	L'orgelet		
+term	orgelet		
 entry	Critique	0	
 orth	Critique		
 term	Jours critiques ou décrétoires		
@@ -20705,16 +20696,17 @@ orth	Croton
 term	Croton antisgphiliticum		
 term	Croton cascarilla		
 ref	Cascarille		
-term	Croton lacciferum L.		
+term	Croton lacciferum (L.)		
 ref	Laque		
-term	Croton Moluccanum		
+term	Croton Moluccanum (L.)		
 ref	Noix		
 term	Croton pseudo-China		
 ref	Copalchi		
-term	Croton sebiferum L.		
+term	Croton sebiferum (L.)		
 ref	Arbre		
-term	Crolon tiglium		
-term	wuur		
+term	Crolon tiglium (L.)		
+term	bois dès Moluques		
+ref	Bois		
 ref	Graine		
 ref	Huile		
 term	Croton Unctorium L.		
@@ -20824,7 +20816,7 @@ ref	Carré
 term	Hernie crurale		
 ref	Mérocèle		
 term	Nerf crural		
-term	'Névralgie crurale		
+term	Névralgie crurale		
 ref	Névralgie		
 term	Septum crural		
 ref	Septum		
@@ -20957,7 +20949,6 @@ orth	Cubito-cutané
 ref	Cutané		
 entry	Cubito-palmaire	0	
 orth	Cubito-palmaire		
-term	{ramus volaris profundus		
 entry	Cubito-phalawgettien	0	
 orth	Cubito-phalawgettien		
 ref	Fléchisseur		
@@ -21149,7 +21140,7 @@ entry	Cuminamide	0
 orth	Cuminamide		
 entry	Cuminate	0	
 orth	Cuminate		
-term	Cuminate 'dämmoniaque		
+term	Cuminate d’ammoniaque		
 entry	Cuminique, Cuminylique	0	
 orth	Cuminique		
 orth	Cuminylique		
@@ -21428,7 +21419,7 @@ ref	Indican
 entry	Cyanurique, Cyanurénique	0	
 orth	Cyanurique		
 orth	Cyanurénique		
-term	-Acide cyanum que		
+term	Acide cyanurique		
 entry	Cyat	0	
 orth	Cyat		
 ref	Abréviation		
@@ -21501,7 +21492,7 @@ orth	Cymographe
 entry	Cynanche, Cynancie	0	
 orth	Cynanche		
 orth	Cynancie		
-term	L'angine		
+term	Angine		
 entry	Cynanthropie	0	
 orth	Cynanthropie		
 entry	Cynapine	0	
@@ -21519,7 +21510,7 @@ entry	Cynodine	0
 orth	Cynodine		
 entry	Cynoglosse	0	
 orth	Cynoglosse		
-term	Pïlulë de cyhoglosse		
+term	Pilule de cyhoglosse		
 ref	Pilule		
 term	Sirop de cynoglosse		
 ref	Sirop		
@@ -21806,7 +21797,7 @@ entry	Dacryopyose	0
 orth	Dacryopyose		
 entry	Dacryorrhee	0	
 orth	Dacryorrhee		
-term	L'épiphora		
+term	Épiphora		
 entry	Dacryostagme	0	
 orth	Dacryostagme		
 entry	Dactylé	0	
@@ -21876,7 +21867,7 @@ entry	Danaïne	0
 orth	Danaïne		
 entry	Danaïs	0	
 orth	Danaïs		
-term	Dan aï s fragrans		
+term	Danaïs fragrans		
 entry	Danevert	0	
 orth	Danevert		
 entry	Danse	0	
@@ -22165,7 +22156,7 @@ entry	Décubitus	1
 orth	Décubitus		
 term	Décubitus forcé		
 pb	454	0464	
-term	décubitus aigu;		
+term	Décubitus aigu		
 entry	Décuit	0	
 orth	Décuit		
 entry	Décupellation	0	
@@ -22395,7 +22386,6 @@ term	Délire symptomatique
 term	Délire tremblant		
 entry	Delirium tremens	0	
 orth	Delirium tremens		
-term	Döl\re,xvec		
 ref	Alcoolisme		
 entry	Délité	0	
 orth	Délité		
@@ -22629,7 +22619,7 @@ ref	Hématie
 term	Ligament dentelé		
 ref	Moelle		
 term	Muscle grand dentelé		
-term	Muscles petits dentelés postérieurs;		
+term	Muscles petits dentelés postérieurs		
 term	Muscle petit dentelé antérieur		
 entry	Dentier	0	
 orth	Dentier		
@@ -23216,7 +23206,7 @@ term	Déviation utérine
 ref	Flexion		
 ref	Hystéroloxie		
 ref	Hystéroptose		
-term	L'antéversion		
+term	Antéversion		
 pb	478	0488	
 term	Déviation du plan de polarisation de la lumière		
 ref	Polabimètre		
@@ -23574,7 +23564,7 @@ orth	Diatragacanthe
 pb	487	0497	
 entry	Diatripteur	0	
 orth	Diatripteur		
-term	L'écraseur		
+term	Écraseur		
 entry	Diatritaibe	0	
 orth	Diatritaibe		
 foreign	diatritarius	lat	
@@ -23647,7 +23637,7 @@ orth	Didymalgie
 entry	Didyme	0	
 orth	Didyme		
 term	Chlorure de didyme		
-term	Salicylate de didyme ·		
+term	Salicylate de didyme		
 ref	Dymal		
 entry	Didymite	0	
 orth	Didymite		
@@ -23782,7 +23772,6 @@ entry	Digestif	0
 orth	Digestif		
 term	Digestif simple		
 term	Digestif animé		
-term	fÿ		
 term	Digestif mercuriel		
 entry	Digestion	1	
 orth	Digestion		
@@ -23803,7 +23792,7 @@ ref	Gastralgie
 entry	Digital	0	
 orth	Digital		
 term	Appendices digitaux		
-term	Artères, nerfs, veines 'digitaux		
+term	Artères, nerfs, veines digitaux		
 term	Cavité digitale		
 ref	Ancyroïde		
 term	Compression digitale		
@@ -23978,10 +23967,9 @@ term	Diphtérie buccale
 ref	Stomatite		
 term	Diphtérie de la conjonctive		
 ref	Ophtalmie		
-term	Diphlérù cutanée		
+term	Diphtérie cutanée		
 ref	Croup		
-term	Diphtérie pharyi		
-term	. gienne		
+term	Diphtérie pharyigienne		
 ref	Angine		
 entry	Diphtérique, Diphtéritique	0	
 orth	Diphtérique		
@@ -24979,7 +24967,6 @@ entry	Dyslogie	0
 orth	Dyslogie		
 entry	Dyslysine	0	
 orth	Dyslysine		
-term	-,dyslysinum,él\		
 entry	Dysménie	0	
 orth	Dysménie		
 ref	Dysménorrhée		
@@ -25117,7 +25104,7 @@ term	Eau chloroformée saturée
 term	Eau chlorurée		
 ref	Eau		
 term	Eau de citerne		
-term	Eau de Claudei'		
+term	Eau de Clauder		
 term	Eau de clous		
 ref	Eau		
 term	Eau de Cologne		
@@ -25140,7 +25127,7 @@ term	Eau distillée
 term	Eaux distillées		
 term	hydrolats		
 pb	519	0529	
-term	'Eau distillée d’absinthe		
+term	Eau distillée d’absinthe		
 ref	Absinthe		
 term	Eau distillée d’amandes amères		
 ref	Amande		
@@ -25225,7 +25212,7 @@ term	Eau de mer
 ref	Bain		
 term	Eau mercurielle		
 term	Eau mère		
-term	Eau mère du salpêtre:y		
+term	Eau mère du salpêtre		
 ref	Azotate		
 term	Eau de Mettemberg		
 term	Eau de miel odorante		
@@ -25299,7 +25286,7 @@ term	Eau-de-vie
 term	Eau-de-vie allemande		
 term	Eau-de-vie camphrée		
 term	alcool camphré		
-term	Eau-de-vie de g aïac		
+term	Eau-de-vie de gaïac		
 term	Eau de la Vrillière		
 term	Eau vulnéraire rouge		
 entry	Eautognosie, Heautognosie	0	
@@ -25396,7 +25383,6 @@ entry	Eccopé	0
 orth	Eccopé		
 entry	Eccoprotique	0	
 orth	Eccoprotique		
-term	^rumy-wc		
 entry	Ecdémique	0	
 orth	Ecdémique		
 entry	Ecdermoptosis	0	
@@ -25471,7 +25457,7 @@ entry	Échitamine	0
 orth	Échitamine		
 entry	Écho	0	
 orth	Écho		
-term	' Écho métallique		
+term	Écho métallique		
 entry	Échokinésie	0	
 orth	Échokinésie		
 entry	Échola, Lie	0	
@@ -25517,7 +25503,8 @@ orth	Éclectisme
 term	Eclectisme, philosophie éclectique		
 ref	Episynthétique		
 ref	Syncrétisme		
-term	S' ᵐ' ^cle9ma^		
+entry	Éclegme	0	
+orth	Éclegme		
 entry	Éclisse	0	
 orth	Éclisse		
 ref	Attelle		
@@ -25537,7 +25524,7 @@ ref	École
 term	Écoles de médecine et de pharmacie militaires et de médecine navale		
 ref	Médecine		
 ref	Médecine		
-term	Écoles de médecine' grecques		
+term	Écoles de médecine grecques		
 ref	Cnide		
 ref	Cos		
 ref	Crotone		
@@ -25682,7 +25669,7 @@ entry	Ecthymogène	0
 orth	Ecthymogène		
 entry	Ecthymose	0	
 orth	Ecthymose		
-term	L’ecthyma		
+term	ecthyma		
 entry	Ectillotique	0	
 orth	Ectillotique		
 entry	Ectoblaste	0	
@@ -25998,7 +25985,7 @@ ref	Courant
 term	État électrique		
 ref	Électricité		
 term	Étincelle électrique		
-term	Fluide électrique;		
+term	Fluide électrique		
 ref	Électricité		
 term	Force électrique		
 term	Frictions électriques		
@@ -26179,7 +26166,7 @@ term	Elément morbide dynamique ou virtuel
 term	Élément morbide organique ou matériel		
 entry	Élémentaire	0	
 orth	Élémentaire		
-term	Cellule et corpuscule élémentaires, granulatione!, granule élémentaires		
+term	Cellule et corpuscule élémentaires, granulation, granule élémentaires		
 ref	Cellule		
 ref	Granulation		
 term	Fibre élémentaire		
@@ -26491,7 +26478,7 @@ term	Tumeur embryonnée
 entry	Embryoplastique	1	
 orth	Embryoplastique		
 term	Noyaux, cellules ou éléments embryoplastiques		
-term	Tumeur· embryoplastique		
+term	Tumeur embryoplastique		
 pb	555	0565	
 entry	Embryothlasie	0	
 orth	Embryothlasie		
@@ -26529,7 +26516,7 @@ term	Vin émétique
 ref	Vin		
 entry	Émétique	1	
 orth	Émétique		
-term	L'émétique		
+term	émétique		
 ref	Éméto-cathartique		
 pb	556	0566	
 entry	Émétiques	0	
@@ -26670,7 +26657,7 @@ term	Emplâtre rouge de Vidal
 term	Emplâtre de savon		
 term	Emplâtre de savon camphré		
 term	Emplâtre simple		
-term	Emplâtre vésicatoire'		
+term	Emplâtre vésicatoire		
 term	Emplâtre de Vigo cum mercurio		
 term	emplâtre mercuriel		
 entry	Emplumé	0	
@@ -27052,11 +27039,12 @@ ref	Age
 ref	Démence		
 entry	Enfant	1	
 orth	Enfant		
-term	Convulsions des . enfants		
+term	Convulsions des enfants		
 ref	Convulsion		
 term	Enfant arriéré		
 pb	571	0581	
-term	entendants-parlants;		
+term	entendants-muets		
+term	entendants-parlants		
 ref	Fonction		
 term	Enfants assistés		
 entry	Enfantement	0	
@@ -27137,7 +27125,7 @@ entry	Enn	0
 orth	Enn		
 entry	Enophtalmie	1	
 orth	Enophtalmie		
-term	. Enophtalmie et exophtalmie alternantes		
+term	Enophtalmie et exophtalmie alternantes		
 pb	573	0583	
 entry	Énormon	0	
 orth	Énormon		
@@ -27237,7 +27225,7 @@ entry	Éntéroclyse	0
 orth	Éntéroclyse		
 entry	Entéro-colite	0	
 orth	Entéro-colite		
-term	L'entérite		
+term	Entérite		
 entry	Entérocoque	1	
 orth	Entérocoque		
 pb	576	0586	
@@ -27554,7 +27542,7 @@ orth	Épian
 term	Le pian		
 entry	Épiblaste	0	
 orth	Épiblaste		
-term	L’ectoderme		
+term	ectoderme		
 entry	Épibole	0	
 orth	Épibole		
 foreign	επιβολή	grc	
@@ -27580,7 +27568,6 @@ orth	Épicéphale
 entry	Épicérastique	1	
 orth	Épicérastique		
 pb	583	0593	
-term	xs-irrju.·		
 entry	Épichlorhydrine	0	
 orth	Épichlorhydrine		
 ref	Chlorhydrine		
@@ -27948,7 +27935,7 @@ entry	Épisthotonos	0
 orth	Épisthotonos		
 entry	Épistrophée	0	
 orth	Épistrophée		
-term	L'axis		
+term	Axis		
 entry	Épisynangine	0	
 orth	Épisynangine		
 entry	Épisynthétique	0	
@@ -27982,7 +27969,7 @@ term	le
 ref	Épiderme		
 ref	Carcinome		
 ref	Squirre		
-term	L1 épithélioma		
+term	Épithélioma		
 ref	Cancer		
 term	Épithélioma mucoïde		
 ref	Cystoépithéliome		
@@ -28505,7 +28492,7 @@ term	f V
 ref	Somnambulisme		
 ref	Entendement		
 ref	Logique		
-term	Esprit.de configuration		
+term	Esprit de configuration		
 ref	Configuration		
 term	Aliénation d’esprit		
 ref	Aliénation		
@@ -28540,7 +28527,7 @@ ref	Recteur
 term	Esprit de sel		
 term	Esprit de sel ammoniac		
 ref	Ammoniaque		
-term	Esprit de'sel dulcifié		
+term	Esprit de sel dulcifié		
 term	Esprit de sel fumant		
 term	Esprit de soufre		
 term	Esprit de Vénus		
@@ -28680,7 +28667,7 @@ entry	Estival	0
 orth	Estival		
 entry	Estlander	1	
 orth	Estlander		
-term	Opération d Estländer		
+term	Opération d’Estländer		
 pb	610	0620	
 entry	Estoher	0	
 orth	Estoher		
@@ -28697,7 +28684,6 @@ ref	Embarras
 ref	Estomac		
 ref	Gastrique		
 ref	Peptone		
-term	Cancer de l’		
 ref	Gastralgie		
 ref	Gastrite		
 ref	Gastrorragie		
@@ -28906,7 +28892,7 @@ orth	Éthuse
 ref	Æthuse		
 entry	Éthylal	0	
 orth	Éthylal		
-term	L'aldéhyde		
+term	Aldéhyde		
 entry	Éthyle	1	
 orth	Éthyle		
 term	Acétate d’éthyle		
@@ -28917,7 +28903,7 @@ term	Azotite d’éthyle
 ref	Ether		
 term	Bromure d’éthyle		
 term	Carbonate d’éthyle		
-term	'Chlorure d’éthyle		
+term	Chlorure d’éthyle		
 pb	616	0626	
 term	Hydrate d’éthyle		
 ref	Alcool		
@@ -28926,7 +28912,7 @@ term	Oxyde d’éthyle
 ref	Éther		
 term	Sulfhydrate d’éthyle		
 ref	Mercaptan		
-term	Chlo^ rare d’éthylène		
+term	Chlorure d’éthylène		
 ref	Liqueur		
 entry	Éthylique	0	
 orth	Éthylique		
@@ -29014,7 +29000,7 @@ entry	Eucalypte	1
 orth	Eucalypte		
 term	Étuve		
 pb	619	0629	
-term	Eucalyptus durnosa.		
+term	Eucalyptus durnosa		
 ref	Manne		
 term	Eucalyptus resinifera		
 ref	Kino		
@@ -29050,7 +29036,7 @@ orth	Eudoxine
 entry	Euexie, Euhexie	0	
 orth	Euexie		
 orth	Euhexie		
-term	L'eucrasie		
+term	Eucrasie		
 entry	Eufraise	0	
 orth	Eufraise		
 ref	Euphraise		
@@ -29193,7 +29179,7 @@ term	Évaporation dans le vide
 ref	Volatilisation		
 entry	Évaux	0	
 orth	Évaux		
-term	Eaùx sulfatées sodiques		
+term	Eaux sulfatées sodiques		
 entry	Évent	0	
 orth	Évent		
 term	Goût d’évent		
@@ -29453,8 +29439,8 @@ entry	Exhalation	0
 orth	Exhalation		
 term	Exhalation,, pulmonaire		
 ref	Haleike		
-term	Hémorragie.par		
-ref	Hémoera-gie		
+term	Hémorragie par exhalation		
+ref	Hémorragie		
 entry	Exhibitionniste	0	
 orth	Exhibitionniste		
 entry	Exhilarant	0	
@@ -29588,19 +29574,19 @@ term	Médecine expérimentale
 ref	Médecine		
 term	Pathologie expérimentale		
 ref	Pathologie		
-term	‘Physiologie 'expérimentale		
+term	Physiologie expérimentale		
 ref	Physiologie		
-term	‘Thérapeutique expérimentale		
+term	Thérapeutique expérimentale		
 ref	Thérapeutique		
 entry	Expérimentation	0	
 orth	Expérimentation		
-term	Expérimentation. médïcdle		
+term	Expérimentation médicale		
 ref	Médecine		
 term	Expérimentât ion		
 ref	Pathologie		
 term	Expérimentation		
 ref	Physiologie		
-term	'Expérimentation thérapeutique		
+term	Expérimentation thérapeutique		
 ref	Thé		
 entry	Expert	0	
 orth	Expert		
@@ -29724,13 +29710,13 @@ term	Extenseur propre dupetit doigt
 term	Extenseur de la jambe		
 term	Extenseur commun desorleils		
 term	Extenseur propre du gros orteil		
-term	Extenseur du pied;		
+term	Extenseur du pied		
 term	Extenseur court du pouce		
 term	Extenseur long du pouce		
 pb	634	0644	
 entry	Extensif	0	
 orth	Extensif		
-term	Lit.extensif		
+term	Lit extensif		
 ref	Lit		
 entry	Extension	0	
 orth	Extension		
@@ -29744,12 +29730,12 @@ entry	Extériorité	0
 orth	Extériorité		
 entry	Externe	0	
 orth	Externe		
-term	Maladie -.externe. f		
+term	Maladie externe		
 ref	Maladie		
 ref	Pathologie		
 entry	Externe	0	
 orth	Externe		
-term	.Externe des hôpitaux		
+term	Externe des hôpitaux		
 entry	Extinction	0	
 orth	Extinction		
 term	Extinction de		
@@ -29757,11 +29743,10 @@ ref	Aphonie
 entry	Extirpation	0	
 orth	Extirpation		
 term	Extirpation des os		
-term	Exlir~ pation de larale		
+term	Extirpation de la rate		
 ref	Splénectomie		
-entry	Extracap, Sulaire	0	
-orth	Extracap		
-orth	Sulaire		
+entry	Extracapsulaire	0	
+orth	Extracapsulaire		
 entry	Extra-courant	1	
 orth	Extra-courant		
 pb	635	0645	
@@ -29813,7 +29798,7 @@ term	Extrait d’opium
 ref	Opium		
 term	Extrait de salsepareille		
 ref	Salsepareille		
-term	Extrait de .Saturne		
+term	Extrait de Saturne		
 ref	Acétate		
 term	Extrait de tagale		
 ref	Tagale		
@@ -29899,29 +29884,27 @@ ref	Corde
 pb	638	0648	
 term	Veine faciale		
 ref	Névralgie		
-term	Paralysie·, faciale		
+term	Paralysie, faciale		
 ref	Paralysie		
 ref	Présentation		
 entry	Facies	0	
 orth	Facies		
-term	\fiabitus		
-term	Pädis		
-term	Fades acromégalique		
+term	Facies acromégalique		
 ref	Acromégalie		
-term	Faciès adénoïdien		
+term	Facies adénoïdien		
 ref	Adénoïdien		
-term	Faciès grippé		
+term	Facies grippé		
 ref	Grippe		
-term	Fades marmoréen		
+term	Facies marmoréen		
 ref	Facies		
-term	Faciès myopathique		
+term	Facies myopathique		
 term	Facies ovarien ou de Spencer Wells		
-term	Faciés parkinsonien		
-term	Facies		
+term	Facies parkinsonien		
+term	Facies sclérodermique		
 ref	Sclérodermie		
-term	Fades, de.·, Spencer. W-elis		
+term	Facies de Spencer-Wells		
 ref	Facies		
-term	Faciès utérim		
+term	Faciès utérin		
 entry	Factice	0	
 orth	Factice		
 entry	Faculté	1	
@@ -29934,7 +29917,7 @@ ref	Entendement
 ref	Esprit		
 ref	Expression		
 ref	Instinct		
-term	.Faculté morale		
+term	Faculté morale		
 ref	Moral		
 term	Facultés de médecine		
 pb	639	0649	
@@ -29945,7 +29928,6 @@ entry	Fagoue	0
 orth	Fagoue		
 entry	Fahami	0	
 orth	Fahami		
-term	{Angræcum fragrans		
 entry	Fahnestock	0	
 orth	Fahnestock		
 term	Sécateur de Fahnestock		
@@ -29958,7 +29940,7 @@ term	Vue faible
 ref	Amblyopie		
 entry	Faiblesse	0	
 orth	Faiblesse		
-term	Faiblesse de: constitution:		
+term	Faiblesse de constitution		
 ref	Constitution		
 entry	Faim	0	
 orth	Faim		
@@ -29980,13 +29962,12 @@ entry	Faisandé	0
 orth	Faisandé		
 entry	Faisceau	0	
 orth	Faisceau		
-term	fasciculus;		
 term	Faisceau arqué		
 ref	Calleux		
 term	Faisceaux acoustiques		
 term	Faisceau blanc		
 ref	Sympathique		
-term	Fdisceau. musculaire		
+term	Faisceau musculaire		
 ref	Muscclaire		
 entry	Fait	1	
 orth	Fait		
@@ -29996,8 +29977,6 @@ orth	Faix
 ref	Arrière-faix		
 entry	Falcaldine	0	
 orth	Falcaldine		
-term	mal de Fiume, scherlievo		
-term	Narïété		
 entry	Falciaj	0	
 orth	Falciaj		
 entry	Falciforme	0	
@@ -30121,7 +30100,7 @@ entry	Faro	0
 orth	Faro		
 entry	Fascia	1	
 orth	Fascia		
-term	Fascia cribri formis’		
+term	Fascia cribri formis		
 ref	Mérocèle		
 term	Fascia iliaca		
 pb	643	0653	
@@ -30148,7 +30127,7 @@ ref	Hypnotisme
 entry	Fascicle	0	
 orth	Fascicle		
 term	Fasciola		
-term	Fasciola hepatica, ·		
+term	Fasciola hepatica		
 ref	Docve		
 entry	Fasciolidés	0	
 orth	Fasciolidés		
@@ -30213,7 +30192,7 @@ ref	Abeille
 ref	Bourdon		
 term	Fausse cloison		
 ref	Cloison		
-term	· Faux Colombo		
+term	Faux Colombo		
 ref	Colombo		
 term	Fausse conception		
 ref	Conception		
@@ -30265,11 +30244,11 @@ ref	Pleurodynie
 term	Fausse poire		
 term	Fausse rhubarbe		
 ref	Pigamon		
-term	-Fausse route		
+term	Fausse route		
 pb	645	0655	
 term	Faux sapin		
 ref	Épicéa		
-term	Fausse scammo'nëe		
+term	Fausse scammonée		
 ref	Scammonée		
 term	Fausses sciences		
 ref	Sciences		
@@ -30293,7 +30272,7 @@ ref	Foie
 term	Petites faux du péritoine		
 entry	Faveux	0	
 orth	Faveux		
-term	Teigne .faveuse		
+term	Teigne faveuse		
 ref	Fa		
 ref	Achorion		
 ref	Épilation		
@@ -30358,7 +30337,6 @@ entry	Fécondité	0
 orth	Fécondité		
 entry	Fécule	1	
 orth	Fécule		
-term	•pécule		
 pb	648	0658	
 term	Cataplasme de fécule		
 ref	Cataplasme		
@@ -30407,7 +30385,8 @@ term	Femmes en couches
 ref	Accouchement		
 ref	Grossesse		
 ref	Maternité		
-term	Maladies des femmes·		
+term	Maladies des femmes		
+ref	Maladie		
 entry	Fémoral	1	
 orth	Fémoral		
 term	Anneau fémoral		
@@ -30434,7 +30413,7 @@ orth	Fémoro-cutané
 term	Nerf fémoro-cutanè		
 entry	Fémoro-génital	0	
 orth	Fémoro-génital		
-term	Nerf fémoro-génital.		
+term	Nerf fémoro-génital		
 entry	Fémoro-poplité	0	
 orth	Fémoro-poplité		
 term	Névralgie fémoro-poplitee		
@@ -30448,7 +30427,6 @@ term	Névralgie fémoro-prétibiale
 ref	Névralgie		
 entry	Fémoro-tibial	0	
 orth	Fémoro-tibial		
-term	\femoro-tibialis		
 term	Articulation fémoro-tibiale		
 ref	Genou		
 entry	Fémur	1	
@@ -30533,19 +30511,19 @@ term	Sulfate de fer
 ref	Sulfate		
 term	Sulfure de fer		
 ref	Sulfure		
-term	Tablette de		
-term	-fer		
+term	Tablette de fer		
 ref	Tablette		
 term	Valérianate de fer		
 ref	Valérianate		
-term	Fer tin· orné		
+term	Fer chromé		
 ref	Chromite		
-term	Fer galvanisé. V		
+term	Fer galvanis		
 ref	Galvanisé		
 term	Fer oligiste		
 ref	Oxyde		
 term	Fer oxydulé		
-term	Fer .pyrophorique		
+ref	Oxyde		
+term	Fer pyrophorique		
 ref	Pyrophorique		
 term	Fer réduit		
 ref	Réduit		
@@ -30586,14 +30564,13 @@ ref	Urée
 term	Fermentation benzoïque		
 ref	Amygdalise		
 term	Fermentation butyrique		
-term	Fermentation caséeuse'		
+term	Fermentation caséeuse		
 term	Fermentation, lactique		
-term	Fermentation putride;		
+term	Fermentation putride		
 ref	Putréfaction		
 term	Fermentation sinapique ou sinapisique		
 ref	Mykosine		
-term	Fermentation visqueuse des sucres et		
-term	. des vins		
+term	Fermentation visqueuse des sucres et des vins		
 ref	Vin		
 entry	Fermenté	0	
 orth	Fermenté		
@@ -30629,7 +30606,7 @@ entry	Ferrein	0
 orth	Ferrein		
 term	Canal de Ferrein		
 ref	Canal		
-term	·.Pyramide de Ferrein		
+term	Pyramide de Ferrein		
 ref	Reix		
 entry	Ferreux	0	
 orth	Ferreux		
@@ -30719,7 +30696,7 @@ ref	Emplâtre
 term	Haleine fétide		
 ref	Haleine		
 term	Huile fétide		
-term	— : Pleurésie fétide		
+term	Pleurésie fétide		
 ref	Pleurésie		
 term	Sueur fétide		
 ref	Sueur		
@@ -30734,7 +30711,7 @@ term	Feu sacré, feu Saint-Antoine
 term	Feu volage		
 entry	Feuille	0	
 orth	Feuille		
-term	'Feuille de' noyer;		
+term	Feuille de noyer		
 ref	Noyer		
 term	Feuille de figuier		
 term	Feuille de myrte		
@@ -30868,7 +30845,7 @@ ref	Pseudo-pus
 ref	Rétraction		
 term	Exsudat fibrineux		
 ref	Exsudat		
-term	Globule fibrineux du sang, du pus, du · mucus		
+term	Globule fibrineux du sang, du pus, du mucus		
 ref	Leucocyte		
 term	Pneumonie fibrineuse		
 ref	Pneumonie		
@@ -30976,7 +30953,7 @@ term	Fièvre adéno-nerveuse
 term	Fièvre adynamique		
 ref	Adynamie		
 ref	Dothiénentérie		
-term	Fièvre adynamo· ataxique		
+term	Fièvre adynamo-ataxique		
 term	Fièvre agrypnode		
 ref	Agrypnoue		
 term	Fièvre algide		
@@ -30997,7 +30974,7 @@ term	Fièvre arthritique
 term	Fièvre asode		
 ref	Asode		
 term	Fièvre asthénique		
-term	Fièvrt 'alaxo-adynamique		
+term	Fièvre alaxo-adynamique		
 ref	Ataxo-adynamique		
 term	Fièvre aurigineuse		
 ref	Aurigineux		
@@ -31012,7 +30989,7 @@ term	Fièvre brisant les os
 ref	Dengue		
 term	Fièvre bulleuse		
 ref	Pemphigus		
-term	Fièvre cacochy' unique		
+term	Fièvre cacochymique		
 ref	Hectique		
 term	Fièvre des camps		
 ref	Typhus		
@@ -31808,7 +31785,7 @@ term	A sept mois et demi
 term	A neuf mois		
 term	Fœtus in fœlu		
 ref	Inclusion		
-term	Fœtus viable^		
+term	Fœtus viable		
 ref	Viable		
 entry	Foie	3	
 orth	Foie		
@@ -31905,7 +31882,7 @@ term	Folie paralytique
 ref	Paralysie		
 term	Folie pellagreuse		
 ref	Pellagreux		
-term	'Folie pénitentiaire		
+term	Folie pénitentiaire		
 ref	Emprisonnement		
 ref	Pénitentiaire		
 term	Folie puerpérale		
@@ -32238,7 +32215,7 @@ entry	Formochloride	0
 orth	Formochloride		
 entry	Formoiodide	0	
 orth	Formoiodide		
-term	L'iodoforme		
+term	Iodoforme		
 entry	Formol	0	
 orth	Formol		
 entry	Formométhylal	0	
@@ -32514,7 +32491,7 @@ entry	Franguline	0
 orth	Franguline		
 entry	Frangulique	0	
 orth	Frangulique		
-term	Acidefrangulique^C-^W^0		
+term	Acide frangulique		
 entry	Frankenhausen	0	
 orth	Frankenhausen		
 entry	Frankfort Springs	0	
@@ -32694,14 +32671,14 @@ term	Front anguleux, front fuyant
 ref	Dégradation		
 entry	Frontal	0	
 orth	Frontal		
-term	Artère ' frontale externe		
+term	Artère frontale externe		
 term	Artère frontale interne		
 ref	Circonvolution		
 term	Lobe frontal		
 ref	Lobe		
 term	Muscle frontal		
 ref	Occipito-frontal		
-term	-Nerf frontal		
+term	Nerf frontal		
 term	Os frontal ou coronal		
 term	Sinus frontaux		
 ref	Sinusite		
@@ -32986,7 +32963,7 @@ entry	Gaïacyl	0
 orth	Gaïacyl		
 entry	Gaiakinol	0	
 orth	Gaiakinol		
-term	dibromogaïacolale le quinine		
+term	dibromogaïacolale de quinine		
 entry	Gaillet	0	
 orth	Gaillet		
 ref	Caille-lait		
@@ -33186,7 +33163,7 @@ orth	Galop
 term	Bruit de galop		
 entry	Galopant	0	
 orth	Galopant		
-term	Phtisie galopante. '1		
+term	Phtisie galopante		
 ref	Phtisie		
 entry	Galton	0	
 orth	Galton		
@@ -33255,7 +33232,7 @@ ref	Cachou
 ref	Kino		
 entry	Gambodique	0	
 orth	Gambodique		
-term	Acide gambodlque^C^WAV'*		
+term	Acide gambodique		
 entry	Gamète	0	
 orth	Gamète		
 entry	Gamme	0	
@@ -33438,7 +33415,7 @@ term	Gargarisme détersif
 term	Gargarisme émollient		
 ref	Gargarisme		
 term	Gargarisme mercuriel		
-term	Gargarisme "opiacé		
+term	Gargarisme d’opiacé		
 term	Gargarisme sulfurique		
 entry	Gargouillement	0	
 orth	Gargouillement		
@@ -34022,11 +33999,10 @@ term	Organes génitaux
 term	Vestibule génital		
 entry	Cénitalité	0	
 orth	Cénitalité		
-entry	Génito, Crural	0	
-orth	Génito		
-orth	Crural		
-term	, ets.iii.ijgenito-cruralis		
-term	génito-crural		
+entry	Génito-crural	0	
+orth	Génito-crural		
+foreign	genito-cruralis	lat	
+term	Nerf génito-crural		
 ref	Sus-pubien		
 entry	Génitoires	0	
 orth	Génitoires		
@@ -34152,7 +34128,6 @@ entry	Géranis	0
 orth	Géranis		
 entry	Gérardmer	0	
 orth	Gérardmer		
-term	Établissement hydrothérapique;		
 entry	Gerçure	0	
 orth	Gerçure		
 ref	Crevasse		
@@ -34695,7 +34670,7 @@ ref	Globularétine
 entry	Globule	0	
 orth	Globule		
 term	Globule blanc du sang et du pus		
-term	globule du chyle, de la lymphe, du mucus, du colostrum; globule cytoïde		
+term	globule du chyle, de la lymphe, du mucus, du colostrum, globule cytoïde		
 term	globule granuleux de l’exsudation ou de l’inflammation		
 term	globule lymphatique		
 ref	Leucocyte		
@@ -34745,7 +34720,6 @@ orth	Glossanthrax
 entry	Glossien, Glossique	0	
 orth	Glossien		
 orth	Glossique		
-term	glossianus. glossicus		
 entry	Glossine	0	
 orth	Glossine		
 ref	Tsétsé		
@@ -34894,7 +34868,7 @@ orth	Béryllium
 entry	Glycocholate	0	
 orth	Glycocholate		
 term	Glycocholate de soude		
-term	Gb/cocholate de sodium		
+term	Glycocholate de sodium		
 term	de soude		
 ref	Bile		
 entry	Glycocholique	0	
@@ -35134,7 +35108,7 @@ entry	Gommeux	0
 orth	Gommeux		
 term	Extrait gommeux		
 ref	Extrait		
-term	Julepgom· meux		
+term	Julep gommeux		
 ref	Julep		
 term	Looch gommeux		
 term	Mercure gommeux		
@@ -35778,7 +35752,7 @@ term	multiple
 pb	755	0765	
 term	compliquée		
 term	Grossesse cervicale		
-term	• actifs du fœtus, perçus par l’accoucheur		
+term	actifs du fœtus, perçus par l’accoucheur		
 term	Durée de la grossesse		
 term	Age de la grossesse		
 term	Maladies de la femme enceinte		
@@ -35848,7 +35822,7 @@ orth	Guaranauva
 pb	757	0767	
 entry	Guaranhem	0	
 orth	Guaranhem		
-term	écorce de Buranhem ou de nohica1		
+term	écorce de Buranhem ou de mohica		
 ref	Monésia		
 entry	Guaranine	0	
 orth	Guaranine		
@@ -36373,7 +36347,7 @@ term	Chromomètre de Hayern
 ref	Chromomètre		
 term	Formule de Hayern		
 ref	Formule		
-term	Hémalimètrë de Hayern		
+term	Hémalimètre de Hayern		
 ref	Hématimètre		
 term	Procédé de Hayem-Winter		
 ref	Chlorométrique		
@@ -36442,7 +36416,6 @@ term	Opération de Hegar
 term	Signe de Hegar		
 entry	Heiden	0	
 orth	Heiden		
-term	Station d’été;		
 entry	Heidenhain	0	
 orth	Heidenhain		
 term	Demi-lunes ou lunules de Heidenhain		
@@ -36550,7 +36523,7 @@ entry	Helminthes	0
 orth	Helminthes		
 entry	Helminthiase	1	
 orth	Helminthiase		
-term	L'oxyure vermiculaire		
+term	Oxyure vermiculaire		
 pb	767	0777	
 ref	Ascaride		
 ref	Bothriocéphale		
@@ -36612,7 +36585,7 @@ entry	Hémaleucose	0
 orth	Hémaleucose		
 entry	Hémalopie	0	
 orth	Hémalopie		
-term	L'hypohéma		
+term	Hypohéma		
 entry	Hémaphéine	0	
 orth	Hémaphéine		
 entry	Hémaphéique	0	
@@ -36955,7 +36928,7 @@ entry	Hémochromométrie	0
 orth	Hémochromométrie		
 entry	Hémocyanine	0	
 orth	Hémocyanine		
-term	L'hémacyanine		
+term	Hémacyanine		
 entry	Hémocyanose	0	
 orth	Hémocyanose		
 entry	Hémocytomètre	0	
@@ -36972,14 +36945,13 @@ entry	Hémodromographe	0
 orth	Hémodromographe		
 entry	Hémodromomètre	0	
 orth	Hémodromomètre		
-term	L'hémodromomètre de Volkmann		
-term	L’hémodromomètre de Ludwig		
+term	Hémodromomètre de Volkmann		
+term	hémodromomètre de Ludwig		
 entry	Hémodynamique	0	
 orth	Hémodynamique		
 entry	Hémodynamomètre	1	
 orth	Hémodynamomètre		
-term	L'hémodynamomètre de Poiseuille		
-term	-A		
+term	Hémodynamomètre de Poiseuille		
 pb	777	0787	
 ref	Pression		
 entry	Hémofuscine	0	
@@ -37241,7 +37213,7 @@ term	Anse de Henle
 ref	Rein		
 term	Cellules de Henle		
 term	Couche de Henle		
-term	_ Fentes de Henle		
+term	Fentes de Henle		
 term	Gaine de Henle		
 entry	Hennebane	0	
 orth	Hennebane		
@@ -37470,7 +37442,7 @@ term	Herbe à fève
 term	Herbe au fi		
 term	Herbe à la fièvre		
 term	Herbe du foie		
-term	Herbe :des foulons		
+term	Herbe des foulons		
 term	Herbe aux fous		
 term	Herbe à la gale		
 term	Herbe aux gencives		
@@ -37604,7 +37576,7 @@ term	Herbe venimeuse
 term	Herbe au vent		
 term	Herbe au verre		
 term	Herbe aux vers		
-term	Hohe de vie. UAspo~ula cynanchica,i		
+term	Herbe de vie		
 term	Herbe vineuse		
 term	Herbe vivante		
 term	Herbe aux voituriers		
@@ -37755,7 +37727,6 @@ ref	Zona
 term	Herpès fébrile		
 term	Herpès génital		
 term	Herpes gestationis		
-term	. reuse récidivante de la grossesse		
 term	Herpès guttural ou du pharynx		
 ref	Angine		
 entry	Herpétide	1	
@@ -38067,7 +38038,8 @@ entry	Hippocampe	0
 orth	Hippocampe		
 term	Hippocampe vulgaire		
 ref	Corne		
-term	Petit hippocampe. L’ergot de Morand		
+term	Petit hippocampe		
+term	ergot de Morand		
 ref	Ventricule		
 entry	Hippocras	0	
 orth	Hippocras		
@@ -38110,8 +38082,6 @@ entry	Hippurie	0
 orth	Hippurie		
 entry	Hippurique	0	
 orth	Hippurique		
-term	fl A \		
-term	fl \U		
 entry	Hippus	0	
 orth	Hippus		
 entry	Hircine	0	
@@ -38204,7 +38174,7 @@ entry	Histotripsie	0
 orth	Histotripsie		
 entry	Histotripteur	0	
 orth	Histotripteur		
-term	L'écraseur linéaire		
+term	Écraseur linéaire		
 entry	Histotromie	0	
 orth	Histotromie		
 entry	Histri, Isme	0	
@@ -38368,7 +38338,6 @@ orth	Homoiose
 ref	Homoeose		
 entry	Homologie	0	
 orth	Homologie		
-term	L’homologie est		
 entry	Homologique	0	
 orth	Homologique		
 term	Anatomie homologique		
@@ -38606,7 +38575,7 @@ ref	Huile
 term	Huile de cassia		
 term	huile de casse		
 ref	Essence		
-term	, Huile de cétacés		
+term	Huile de cétacés		
 ref	Huile		
 term	Huile de charbon de terre ου de houille		
 term	Huile de chaux		
@@ -38636,7 +38605,7 @@ ref	Huiles
 term	Huile de faine		
 ref	Faîne		
 term	Huiles fétides		
-term	. Huiles fixes		
+term	Huiles fixes		
 ref	Glycérine		
 ref	Gras		
 ref	Émulsion		
@@ -38644,8 +38613,8 @@ term	Huile de foie de monte
 ref	Huile		
 term	Huile de foie de poissons		
 pb	809	0819	
-term	L'huile de foie de raie		
-term	L'huile de foie de requin		
+term	Huile de foie de raie		
+term	Huile de foie de requin		
 term	Huile formique artificielle		
 ref	Forfurol		
 term	Huile fossile éthérée		
@@ -38775,7 +38744,7 @@ orth	Huit
 ref	Bandage		
 entry	Huître	0	
 orth	Huître		
-term	L'eau des huîtres		
+term	Eau des huîtres		
 entry	Humage	0	
 orth	Humage		
 ref	Inhalation		
@@ -39174,7 +39143,6 @@ entry	Hydrocardie	0
 orth	Hydrocardie		
 entry	Hydrocèle	1	
 orth	Hydrocèle		
-term	F. vase		
 pb	817	0827	
 ref	Iodée		
 term	Hydrocèle de Béraud		
@@ -39195,7 +39163,7 @@ entry	Hydrocéphale, Hydrocéphalie	0
 orth	Hydrocéphale		
 orth	Hydrocéphalie		
 ref	Méningite		
-term	L'hydrocéphale chronique		
+term	hydrocéphale chronique		
 entry	Hydrocéphalique	0	
 orth	Hydrocéphalique		
 entry	Hydrocéphaloïde	0	
@@ -39664,7 +39632,7 @@ entry	Hygrologie	0
 orth	Hygrologie		
 entry	Hygroma	1	
 orth	Hygroma		
-term	L’hygroma chronique		
+term	hygroma chronique		
 pb	826	0836	
 term	Hygroma syphilitique		
 entry	Hygrométricité	0	
@@ -39686,7 +39654,6 @@ entry	Hygroscope	0
 orth	Hygroscope		
 entry	Hygroscopicité	0	
 orth	Hygroscopicité		
-term	\hygroscopiczdad\		
 entry	Hygrosgopie	0	
 orth	Hygrosgopie		
 entry	Hygroscopique	0	
@@ -39764,7 +39731,7 @@ entry	Hyo-glosso-basi-pharyngien	0
 orth	Hyo-glosso-basi-pharyngien		
 entry	Hyoglycocholique	0	
 orth	Hyoglycocholique		
-term	Acide hyoglycocho- ! lique		
+term	Acide hyoglycocholique		
 ref	Hyocholalique		
 entry	Hyoïde	1	
 orth	Hyoïde		
@@ -39782,7 +39749,7 @@ entry	Hyoscine	0
 orth	Hyoscine		
 entry	Hyoscinique	0	
 orth	Hyoscinique		
-term	Acide hyoscinique (Ωι&11ιο06		
+term	Acide hyoscinique		
 entry	Hyoscyamine	0	
 orth	Hyoscyamine		
 entry	Hyosternal	0	
@@ -40591,11 +40558,11 @@ ref	Pernicieuse
 entry	Ictérode, Ictéroïde	0	
 orth	Ictérode		
 orth	Ictéroïde		
-term	— Bacille ictéroïde		
+term	Bacille ictéroïde		
 term	Typhus iclérode		
 entry	Ictus	0	
 orth	Ictus		
-term	•Ictus épileptique		
+term	Ictus épileptique		
 term	Ictus traumatique		
 ref	Traumatique		
 pb	844	0854	
@@ -40681,7 +40648,7 @@ entry	Iléite	0
 orth	Iléite		
 entry	Iléo-cæcal	1	
 orth	Iléo-cæcal		
-term	Appendice iléo-cœcal. 5		
+term	Appendice iléo-cœcal		
 ref	Cæcal		
 term	Valvule iléo-cæcale		
 pb	846	0856	
@@ -40900,7 +40867,7 @@ entry	Immobilisation	0
 orth	Immobilisation		
 term	Immobilisation des articulations		
 term	Immobilisation des os fracturés		
-term	Immobilisation directe des· fragments		
+term	Immobilisation directe des fragments		
 entry	Immondice	0	
 orth	Immondice		
 ref	Voirie		
@@ -40948,10 +40915,10 @@ term	Stomatite impétigineuse
 entry	Impétigo	1	
 orth	Impétigo		
 pb	852	0862	
-term	L'impetigo contagiosa		
-term	L'impetigo granulata		
+term	impetigo contagiosa		
+term	impetigo granulata		
 term	Impétigo herpétiforme		
-term	L'impetigo larvalis		
+term	impetigo larvalis		
 term	Impetigo rodens		
 term	Impétigo sycosiforme		
 entry	Impetum faciens	0	
@@ -41796,7 +41763,7 @@ entry	Intercapillaire	0
 orth	Intercapillaire		
 entry	Intercarotidien	1	
 orth	Intercarotidien		
-term	Gan-' glion intercarotidien		
+term	Ganglion intercarotidien		
 term	Plexus intercarotidien		
 pb	875	0885	
 entry	Intercartilagineux	0	
@@ -41974,7 +41941,7 @@ ref	Vertébral
 term	Ganglion intervertébral		
 entry	Intestin	1	
 orth	Intestin		
-term	L'intestin grêle		
+term	intestin grêle		
 ref	Duodénum		
 pb	880	0890	
 ref	Glanoe		
@@ -42110,7 +42077,7 @@ entry	Inversion	0
 orth	Inversion		
 term	Inversion générale		
 term	Inversion utérine		
-term	'inversion partielle		
+term	inversion partielle		
 entry	Investigateur	0	
 orth	Investigateur		
 ref	Explorateur		
@@ -42201,7 +42168,7 @@ entry	Iodoforme	0
 orth	Iodoforme		
 entry	Iodoformine	0	
 orth	Iodoformine		
-term	iodoformolvnë		
+term	iodoformoline		
 entry	Iodognosie	0	
 orth	Iodognosie		
 entry	Iodokakodyle	0	
@@ -42241,7 +42208,7 @@ term	Iodure de calcium
 term	Iodure		
 ref	Éthyle		
 term	Iodure de fer		
-term	Iodure de fei' et de quinine		
+term	Iodure de fer et de quinine		
 term	Iodure de mercure		
 ref	Gibert		
 term	Iodure d’or		
@@ -42273,7 +42240,7 @@ entry	Ipécacuanha	0
 orth	Ipécacuanha		
 term	Ipécacuanha		
 ref	Ionide		
-term	L'ipécacuanha est		
+term	Ipécacuanha		
 term	Pastilles ou tablettes d’ipécacuanha		
 term	Potion d’ipécacuanha		
 ref	Coqueluche		
@@ -42452,7 +42419,7 @@ ref	Relevecr
 ref	Transverso-urétral		
 entry	Ischio-caverneux	0	
 orth	Ischio-caverneux		
-term	^ Muscle ischio-caverneux		
+term	Muscle ischio-caverneux		
 entry	Ischiocèle	0	
 orth	Ischiocèle		
 entry	Ischio-clitoridien, Ischio-clitorien	0	
@@ -42883,7 +42850,7 @@ ref	Age
 entry	Jobert	0	
 orth	Jobert		
 term	Opération de Jobert		
-term	Trident de.Jobert		
+term	Trident de Jobert		
 ref	Trident		
 entry	Joffroy	0	
 orth	Joffroy		
@@ -42932,7 +42899,7 @@ orth	Jouhe
 entry	Jour	0	
 orth	Jour		
 ref	Sommeil		
-term	Jours \impairs		
+term	Jours impairs		
 entry	Judom	0	
 orth	Judom		
 ref	Juzom		
@@ -43093,7 +43060,7 @@ orth	Kassu
 pb	901	0911	
 entry	Katran	0	
 orth	Katran		
-term	-Katran rouge		
+term	Katran rouge		
 entry	Kava	0	
 orth	Kava		
 entry	Kavaïne	0	
@@ -43669,7 +43636,7 @@ entry	Lactate	0
 orth	Lactate		
 term	Lactate de chaux		
 term	Lactate de fer		
-term	Lactate de magnésie '		
+term	Lactate de magnésie		
 term	Lactate de soude		
 term	Lactate de quinine		
 term	Lactate dezinc		
@@ -43861,7 +43828,7 @@ term	Lait de son
 term	Lait végétal		
 pb	917	0927	
 ref	Arbre		
-term	^Lait d’amandes		
+term	Lait d’amandes		
 ref	Émulsion		
 term	Lait de magnésie		
 term	Lait virginal		
@@ -43875,7 +43842,7 @@ entry	Laiteux	0
 orth	Laiteux		
 term	Croûtes laiteuses		
 ref	Impétigo		
-term	Maladie laiteuse. \		
+term	Maladie laiteuse		
 term	Plante laiteuse		
 ref	Lactifère		
 term	Sang laiteux		
@@ -44081,7 +44048,7 @@ term	Langue-de-chien
 ref	Cynoglosse		
 term	Langue-de-serpent		
 ref	Ophioglosse		
-term	Langue-de-serpent·		
+term	Langue-de-serpent		
 entry	Langueur	0	
 orth	Langueur		
 ref	Asthénie		
@@ -44209,7 +44176,8 @@ term	Laryngisme tabétique
 ref	Laryngée		
 entry	Laryngite	1	
 orth	Laryngite		
-term	Laryngite aiguë simple oulamjngite catarrhale		
+term	Laryngite aiguë simple		
+term	laryngite catarrhale		
 pb	925	0935	
 term	Secondaire		
 term	Laryngite chronique		
@@ -44250,7 +44218,8 @@ entry	Laryngoscopie	1
 orth	Laryngoscopie		
 term	Laryngoscopie directe		
 pb	927	0937	
-term	^Sa		
+entry	Laryngoscopique	0	
+orth	Laryngoscopique		
 entry	Laryngotomie	0	
 orth	Laryngotomie		
 entry	Laryngo-trachéal	0	
@@ -44348,7 +44317,6 @@ entry	La Trollière	0
 orth	La Trollière		
 entry	Lauchstadt	0	
 orth	Lauchstadt		
-term	.Eaux sulfatées calciques moyennes		
 entry	Laudanine	0	
 orth	Laudanine		
 entry	Laudanisé	0	
@@ -44410,7 +44378,7 @@ orth	Lavande
 ref	Stæchas		
 entry	Lavement	1	
 orth	Lavement		
-term	.Lavement alimentaire		
+term	Lavement alimentaire		
 ref	Laveuînt		
 term	Lavement aloétique		
 term	Lavement analeptique		
@@ -44725,7 +44693,7 @@ orth	Leucéthiopie
 ref	Albinisse		
 entry	Leucindigine	0	
 orth	Leucindigine		
-term	L’indigo blanc		
+term	indigo blanc		
 ref	Indigotine		
 entry	Leucine	0	
 orth	Leucine		
@@ -44772,7 +44740,7 @@ orth	Leucoma
 orth	Leucome		
 ref	Albugo		
 ref	Taie		
-term	.Leucoma gerontotoxon		
+term	Leucoma gerontotoxon		
 ref	Arc		
 entry	Leucomaïne	0	
 orth	Leucomaïne		
@@ -44856,7 +44824,7 @@ term	Lévulosurie alimentaire
 ref	Glycosubie		
 entry	Lévulosurique	0	
 orth	Lévulosurique		
-term	-Syndrome lévulosurique		
+term	Syndrome lévulosurique		
 entry	Levure	1	
 orth	Levure		
 term	gnon		
@@ -45077,7 +45045,7 @@ term	Ligne médiane
 term	Ligne primitive		
 ref	Embryon		
 term	Ligne semi-lunaire de Spigel		
-term	. naris seu semicircularis Douglasii		
+term	Ligne semi-lunaire ou semi-circulaire de Douglas		
 entry	Lignine	0	
 orth	Lignine		
 term	Gomme lignirode		
@@ -45090,7 +45058,8 @@ orth	Lilacine
 ref	Syringine		
 entry	Lilas	0	
 orth	Lilas		
-term	Lilas de la Chine, Lilas des Indes		
+term	Lilas de la Chine		
+term	Lilas des Indes		
 ref	Margousier		
 entry	Lilium de Paracelse	0	
 orth	Lilium de Paracelse		
@@ -45187,7 +45156,6 @@ ref	Hyoïde
 term	Plexus lingual		
 entry	Linguatule	0	
 orth	Linguatule		
-term	: tus		
 entry	Linguatulides	0	
 orth	Linguatulides		
 ref	Linguatule		
@@ -45204,9 +45172,8 @@ term	Liniment antipsorique
 term	Liniment antiscrofuleux d’Hufeland		
 term	Liniment calcaire ou oléo-calcaire		
 term	Liniment calmant		
-term	Liniment		
 pb	949	0959	
-term	^nmnhrê		
+term	Liniment camphré		
 term	Liniment de cantharides camphré		
 ref	Chloroforme		
 term	Liniment savonneux		
@@ -45387,7 +45354,7 @@ orth	Lister
 term	Pansement de Lister		
 entry	Liston	0	
 orth	Liston		
-term	.Pince de Liston		
+term	Pince de Liston		
 ref	Pince		
 entry	Lit	0	
 orth	Lit		
@@ -45727,7 +45694,6 @@ orth	Lombes
 pb	962	0972	
 entry	Lombo-abdominal	0	
 orth	Lombo-abdominal		
-term	\lumbo-abdominatis		
 term	Muscle lomho-abdominal		
 ref	Traxsverse		
 term	Plexus lombo-abdominal		
@@ -45779,9 +45745,10 @@ orth	Looch
 term	Looch blanc ou amygdalin		
 ref	Pate		
 term	Looch huileux		
-term	Looch de jaune; d’œuf		
+term	Looch de jaune d’œuf		
 term	Looch		
-term	Looch sans 's émulsion		
+term	Looch sans émulsion		
+term	looch gommeux		
 entry	Loquacité	0	
 orth	Loquacité		
 entry	Lordose	1	
@@ -45853,7 +45820,8 @@ orth	Loup
 entry	Loupe	0	
 orth	Loupe		
 term	Loupe graisseuse		
-term	Loupe des os. L'exostose		
+term	Loupe des os		
+term	Exostose		
 entry	Loupe	0	
 orth	Loupe		
 entry	Loutvaki	0	
@@ -45905,7 +45873,6 @@ orth	Lucidité
 foreign	lucidus	lat	
 entry	Lucilie	0	
 orth	Lucilie		
-term	Lüçüie. „ .)		
 entry	Lucques	0	
 orth	Lucques		
 ref	Docci basse		
@@ -46014,7 +45981,7 @@ entry	Lut	0
 orth	Lut		
 term	Lut d’amandes		
 term	Lut de chaux		
-term	Lut terreux;		
+term	Lut terreux		
 entry	Lutéine	0	
 orth	Lutéine		
 entry	Lutéique	0	
@@ -46200,8 +46167,12 @@ entry	Lyssophobie	0
 orth	Lyssophobie		
 entry	Lythrum	0	
 orth	Lythrum		
-ref	Saucaikk		
-term	L’m		
+ref	Salicaire		
+entry	Lytte	0	
+orth	Lytte		
+ref	Cantharide		
+entry	M	0	
+orth	M		
 ref	Abréviation		
 entry	Macaque	0	
 orth	Macaque		
@@ -46445,7 +46416,7 @@ ref	Manioc
 entry	Magnolier	0	
 orth	Magnolier		
 term	Magnolier glauque		
-term	L’yulan		
+term	yulan		
 entry	Magnoline	0	
 orth	Magnoline		
 entry	Maguey	0	
@@ -46672,7 +46643,7 @@ ref	Cyanose
 term	Maladie dé Bright		
 ref	Mal		
 ref	Néphrite		
-term	Maladie de ' Brünn		
+term	Maladie de Brünn		
 term	Maladie carbonculaire		
 ref	Charbon		
 term	Maladie dés chiffonniers et des trieurs de laine		
@@ -47131,7 +47102,8 @@ orth	Marey
 term	Loi de Marey		
 entry	Margarine	0	
 orth	Margarine		
-term	margarine; stéarine		
+term	margarine		
+term	stéarine		
 term	Margarine		
 entry	Margarique	0	
 orth	Margarique		
@@ -47305,7 +47277,7 @@ entry	Massétérin	0
 orth	Massétérin		
 term	Artère massélérine		
 term	Nerf massétérin		
-term	Veine masj' sétérine		
+term	Veine massétérine		
 entry	Massétérique	0	
 orth	Massétérique		
 ref	Massétékix		
@@ -47682,14 +47654,14 @@ pb	1011	1021
 term	Médecine mentale		
 term	Médecine militaire		
 ref	Chirurgie		
-term	L’enseignement de la médecine et de la Pharmacie militaires		
+term	enseignement de la médecine et de la Pharmacie militaires		
 ref	Service		
 term	Médecine mystique		
 ref	Erreurs		
 ref	Préjugé		
 term	Médecine navale		
 ref	Chirurgie		
-term	L’enseignement de la médecine navale		
+term	enseignement de la médecine navale		
 ref	Service		
 term	Médecine opératoire		
 term	Médecine populaire		
@@ -47770,7 +47742,7 @@ entry	Médicinier	0
 orth	Médicinier		
 term	Médicinier cathartique		
 ref	Pignon		
-term	Médicinier multifide·		
+term	Médicinier multifide		
 entry	Medico	0	
 orth	Medico		
 entry	Médico-légal	0	
@@ -47793,7 +47765,7 @@ orth	Médio-palatin
 entry	Médio-tarsien	0	
 orth	Médio-tarsien		
 term	Articulation médio-tarsienne		
-term	Désarticulation média-tar-, ’. sienne		
+term	Désarticulation média-tarsienne		
 entry	Meditullium	0	
 orth	Meditullium		
 entry	Médium	0	
@@ -48133,7 +48105,8 @@ ref	Acépbalocyste
 ref	Échinocoque		
 term	Membrane granuleuse		
 ref	Ovaire		
-term	Membrane de l’humeur aqueuse, membrane hydatoïde		
+term	Membrane de l’humeur aqueuse		
+term	membrane hydatoïde		
 ref	Cornée		
 term	Membrane hyaltàde		
 ref	Vitré		
@@ -48147,12 +48120,12 @@ term	Membrane nyctitante
 term	Membrane ovarique, membrane ovulaire		
 ref	Ovule		
 term	Membrane olfactive		
-term	Membrane proligère·		
+term	Membrane proligère		
 term	Membrane de Reissner		
 ref	Oreille		
 term	Membrane de Ruysch		
 ref	Cuoroïoe		
-term	Mérn·		
+term	Membrane de Schneider		
 ref	Pituitaire		
 term	Membrane festacée		
 term	Membrane des ventricules		
@@ -48272,7 +48245,6 @@ orth	Ménorragie
 foreign	Menorrhagia	deu	
 foreign	flooding	eng	
 pb	1025	1035	
-term	-métrorragie		
 entry	Ménorrhée	0	
 orth	Ménorrhée		
 entry	Ménostasie	0	
@@ -48350,7 +48322,6 @@ orth	Menton
 ref	Mentonnier		
 entry	Menton	0	
 orth	Menton		
-term	Station d’hiver		
 entry	Mentonnier	0	
 orth	Mentonnier		
 term	Artère mentonnière		
@@ -48393,7 +48364,6 @@ orth	Méralgie
 term	Méralgie paresthésique		
 entry	Méran	0	
 orth	Méran		
-term	Station d’hiver		
 entry	Mératrophie	0	
 orth	Mératrophie		
 entry	Mercaptan	0	
@@ -48654,7 +48624,7 @@ ref	Métacarpe
 term	Rangée métacarpienne des os du carpe		
 entry	Métacarpo-phalangien	0	
 orth	Métacarpo-phalangien		
-term	Articulations métacarpo-phalangiennes^ ;		
+term	Articulations métacarpo-phalangiennes		
 ref	Métacarpe		
 term	Métacarpo-phalangien du pouce		
 ref	Adducteur		
@@ -48954,7 +48924,6 @@ term	Kawaïne
 ref	Kawa		
 entry	Métis	0	
 orth	Métis		
-term	>		
 ref	Croisement		
 ref	Hybride		
 entry	Métissage	1	
@@ -49430,7 +49399,6 @@ entry	Mirage	0
 orth	Mirage		
 entry	Miral	0	
 orth	Miral		
-term	'Eaux chlorurées sadiques		
 entry	Mirandella	0	
 orth	Mirandella		
 entry	Mirbane	0	
@@ -49591,7 +49559,6 @@ entry	Moffat	0
 orth	Moffat		
 entry	Mogador	0	
 orth	Mogador		
-term	Station d’hiver		
 entry	Moggiona	0	
 orth	Moggiona		
 entry	Mogigraphie	0	
@@ -50532,7 +50499,7 @@ orth	Multiplicateur
 ref	Galvanomètre		
 entry	Multiplication	1	
 orth	Multiplication		
-term	Mulh' plication endogène		
+term	Multiplication endogène		
 pb	1077	1087	
 entry	Multipolaire	0	
 orth	Multipolaire		
@@ -50624,7 +50591,6 @@ entry	Murrrayine	0
 orth	Murrrayine		
 entry	Murren	0	
 orth	Murren		
-term	Station d’altitude		
 entry	Musa	0	
 orth	Musa		
 entry	Musc	1	
@@ -50681,7 +50647,7 @@ term	Muscles de Werheyen
 term	Muscle de Wilson		
 entry	Musculaire	2	
 orth	Musculaire		
-term	Activité' musculaire		
+term	Activité musculaire		
 ref	Sensation		
 term	Bruit musculaire ou rotatoire		
 term	Conscience musculaire		
@@ -51347,7 +51313,6 @@ orth	Napiforme
 ref	Napacé		
 entry	Naples	0	
 orth	Naples		
-term	Station d’hiver		
 entry	Narcé	0	
 orth	Narcé		
 entry	Narcéine	0	
@@ -51550,7 +51515,7 @@ entry	Nécrophobie	0
 orth	Nécrophobie		
 entry	Nécrophilie	0	
 orth	Nécrophilie		
-term	vampirisme'		
+term	vampirisme		
 entry	Nécropsie	0	
 orth	Nécropsie		
 entry	Nécroscopïe	0	
@@ -51856,7 +51821,7 @@ term	Éléments nerveux
 ref	Nerveux		
 term	État nerveux		
 ref	Névrose		
-term	Fièvre nerveuse·		
+term	Fièvre nerveuse		
 term	Fluide nerveux		
 term	Ganglion nerveux		
 pb	1111	1121	
@@ -51872,7 +51837,6 @@ term	Tissu nerveux
 term	Tubes nerveux		
 entry	Nervi	0	
 orth	Nervi		
-term	Station d’hiver		
 entry	Nervico-tonique	0	
 orth	Nervico-tonique		
 term	Teinture nervico-tonique		
@@ -51999,7 +51963,7 @@ term	Points névralgiques
 ref	Névralgie		
 entry	Névraxe	0	
 orth	Névraxe		
-term	L’axe nerveux		
+term	axe nerveux		
 term	Névraxe blanc		
 term	Névraxe gris		
 ref	Moelle		
@@ -52120,7 +52084,6 @@ entry	Niaouli	0
 orth	Niaouli		
 entry	Nice	0	
 orth	Nice		
-term	Station d’hiver		
 entry	Nickel	0	
 orth	Nickel		
 entry	Nicolaier	0	
@@ -52144,7 +52107,8 @@ orth	Nictitation
 ref	Nictation		
 entry	Nid	1	
 orth	Nid		
-term	Nid d’alcyon, nid d’hirondelle		
+term	Nid d’alcyon		
+term	nid d’hirondelle		
 ref	Alcyon		
 ref	Cubilose		
 ref	Hirondelle		
@@ -52301,7 +52265,6 @@ entry	Noix	0
 orth	Noix		
 term	Noix d’Amérique		
 ref	Juvia		
-term	<·		
 ref	Macke		
 term	Noix de Gourou		
 ref	Sterculier		
@@ -52330,7 +52293,7 @@ orth	Nome
 entry	Nombril	0	
 orth	Nombril		
 ref	Oubilic		
-term	Nombril de Verras»		
+term	Nombril de Verras		
 ref	Cotylet		
 entry	Nomenclature	0	
 orth	Nomenclature		
@@ -52496,7 +52459,7 @@ term	Hygiène du nouveau-né
 ref	Maillot		
 ref	Bebceac		
 pb	1127	1137	
-term	Apoplexie, asphyxie des ' nouveau-nés		
+term	Apoplexie, asphyxie des nouveau-nés		
 ref	Apoplexie		
 ref	Mort		
 ref	Céphalématome		
@@ -52556,7 +52519,7 @@ entry	Nucléiforme	0
 orth	Nucléiforme		
 entry	Nucléinate	0	
 orth	Nucléinate		
-term	Nucléinate de fer[C^Bèn-Kz^		
+term	Nucléinate de fer		
 entry	Nucléine	0	
 orth	Nucléine		
 entry	Nucléique	0	
@@ -53122,7 +53085,7 @@ term	Spasme de l’œsophage
 ref	Oesophagisme		
 entry	Œsophagien	0	
 orth	Œsophagien		
-term	Artères œsophagiennes’		
+term	Artères œsophagiennes		
 term	Glandes œsophagiennes		
 term	Muscle œsophagien		
 term	Ouverture œsophagienne du diaphragme		
@@ -53214,7 +53177,7 @@ entry	Oléandrine	0
 orth	Oléandrine		
 entry	Oléate	0	
 orth	Oléate		
-term	Oléate de soud<		
+term	Oléate de soude		
 term	Oléate de zinc		
 entry	Olécrânarthrocace	0	
 orth	Olécrânarthrocace		
@@ -53304,8 +53267,11 @@ entry	Oligotrophie	0
 orth	Oligotrophie		
 entry	Oligotrophie	0	
 orth	Oligotrophie		
-foreign	oïigotrophy	deu	
-term	^,i9°trofia]·		
+foreign	oligotrophia	lat	
+foreign	Nahrungsabnahme	deu	
+foreign	oligotrophy	eng	
+foreign	oligotrofia	ita	
+foreign	oligotrofia	spa	
 entry	Oligurie	0	
 orth	Oligurie		
 entry	Oline	0	
@@ -53340,7 +53306,7 @@ term	Gomme d’olivier
 ref	Lecce		
 entry	Olophlyctide	0	
 orth	Olophlyctide		
-term	L’herpès		
+term	herpès		
 entry	Olympien	0	
 orth	Olympien		
 term	Front olympien		
@@ -53363,7 +53329,7 @@ term	Cordon ombilical
 ref	Ekboulement		
 term	Ligature et pansement du cordon ombilical		
 pb	1151	1161	
-term	'Fascia ombilical		
+term	Fascia ombilical		
 term	Fissure ombilicale		
 term	Hernie ombilicale		
 ref	Ohphalocèle		
@@ -53465,7 +53431,6 @@ orth	Ompkaloproptose
 entry	Omphalorragie	0	
 orth	Omphalorragie		
 foreign	omphalorrhagia	lat	
-term	lung,a.m’\		
 entry	Omphalorrhee	0	
 orth	Omphalorrhee		
 entry	Omphal, Osite	0	
@@ -53525,7 +53490,7 @@ ref	Corsé
 ref	Kératine		
 ref	Lunule		
 pb	1155	1165	
-term	dans la chair'		
+term	Ongle entré dans la chair		
 term	Signe de l’ongle		
 term	Ongle en verre démontré		
 entry	Onglée	0	
@@ -53912,7 +53877,7 @@ ref	Tétanos
 pb	1162	1172	
 entry	Opium	1	
 orth	Opium		
-term	L'opium brut		
+term	opium brut		
 term	Extrait gommeux d’opium		
 term	Sirop d’opium		
 term	Teinture d’opium		
@@ -54325,7 +54290,7 @@ orth	Orpiment
 entry	Orpin	0	
 orth	Orpin		
 term	Orpin commun		
-term	’ Orpin âcre		
+term	Orpin âcre		
 entry	Orrochézie	0	
 orth	Orrochézie		
 entry	Orrocyste	0	
@@ -54729,11 +54694,11 @@ orth	Otirrhée
 ref	Otorrhée		
 entry	Otite	1	
 orth	Otite		
-term	L'otite externe		
-term	L'otite moyenne		
+term	otite externe		
+term	otite moyenne		
 pb	1187	1197	
 term	Otite interne		
-term	L’otite chronique		
+term	otite chronique		
 entry	Otoba	0	
 orth	Otoba		
 entry	Otocéphale	0	
@@ -54870,7 +54835,7 @@ orth	Ovariste
 entry	Ovarite	1	
 orth	Ovarite		
 pb	1193	1203	
-term	0varite varioleuse		
+term	varite varioleuse		
 entry	Ovari	0	
 orth	Ovari		
 ref	Oarille		
@@ -54952,9 +54917,8 @@ term	Oxalate de cérium
 term	Oxalate de chaux		
 ref	Oxalique		
 ref	Sédiment		
-term	Oxalate de		
 pb	1195	1205	
-term	/er		
+term	Oxalate de fer		
 term	Oxalate de mercure		
 term	Oxalates de potasse		
 entry	Oxalhydrique	0	
@@ -55455,7 +55419,7 @@ term	Artères pancréatiques
 term	Canal pancréatique		
 ref	Pancréas		
 term	Lobe pancréatique du foie		
-term	— Suc pancréatique		
+term	Suc pancréatique		
 entry	Pancréatite	0	
 orth	Pancréatite		
 entry	Pancréatogènes	0	
@@ -55486,7 +55450,7 @@ orth	Panicaut
 ref	Chakoon		
 entry	Panification	0	
 orth	Panification		
-term	l°Pain bis		
+term	Pain bis		
 term	Panification par le procédé Mège-Mouriès		
 entry	Panlécithe	0	
 orth	Panlécithe		
@@ -55650,7 +55614,6 @@ orth	Paracmastique
 ref	Acmastique		
 entry	Paracolibacille	0	
 orth	Paracolibacille		
-term	cje\m te quatrième type		
 entry	Paracousie	1	
 orth	Paracousie		
 term	double		
@@ -55763,7 +55726,7 @@ ref	Folie
 term	Paralysie graisseuse		
 term	Paralysie hémifaciale		
 ref	Paralysie		
-term	Parar· lysie infantile		
+term	Paralysie infantile		
 ref	Paralysie		
 term	Paralysie infantile obstétricale		
 term	Paralysie labio-glosso-laryngée		
@@ -55773,9 +55736,8 @@ ref	Radial
 term	Paralysie pseudo-hypertrophique		
 term	Paralysie de la sensibilité ou du sentiment		
 ref	Anesthésie		
-term	Paralysie		
 pb	1218	1228	
-term	spinale'		
+term	Paralysie spinale		
 term	Paralysie tremblante		
 ref	Paralysie		
 entry	Paralytique	0	
@@ -55994,7 +55956,7 @@ orth	Paris
 orth	Parisette		
 entry	Parité	0	
 orth	Parité		
-term	Lois depa-' rité		
+term	Lois de parité		
 ref	Analogie		
 entry	Parkinson	0	
 orth	Parkinson		
@@ -56136,7 +56098,7 @@ orth	Passiflore
 entry	Passion	0	
 orth	Passion		
 ref	Ixstixct		
-term	Passion cardiaque, passion ·		
+term	Passion cardiaque, passion du cœur		
 ref	Cardialgie		
 term	Passion colique, passion iliaque		
 ref	Occlusion		
@@ -56182,8 +56144,7 @@ term	Pâte arnyg
 term	Pâte arsenicale		
 ref	Pocdbe		
 term	Pâte de Canquoin		
-term	Pâte ca		
-term	thérétique		
+term	Pâte cathérétique		
 term	Pâte caustique		
 term	Pâle de guimauve		
 term	Pâle de		
@@ -56298,7 +56259,7 @@ orth	Pavot
 term	Pavot blanc		
 pb	1230	1240	
 term	Pavot noir ou pourpre		
-term	Pavot^cornu		
+term	Pavot cornu		
 ref	Glaucier		
 term	Pavot épineux du Mexique		
 ref	Argémone		
@@ -56344,7 +56305,8 @@ term	Muscle peaussier du cou
 term	Signe du peaussier		
 entry	Pébrine	0	
 orth	Pébrine		
-term	gatline, 'maladie des corpuscules		
+term	gattine		
+term	maladie des corpuscules		
 entry	Peccant	0	
 orth	Peccant		
 term	Humeur ou manie peccante		
@@ -56384,7 +56346,7 @@ term	Crête pectinéale
 term	Surface pectinéale		
 entry	Pectique	0	
 orth	Pectique		
-term	Acide pecliqùe		
+term	Acide peclique		
 entry	Pectoral	1	
 orth	Pectoral		
 term	Muscle grand pectoral		
@@ -56548,7 +56510,7 @@ term	Cyphose pélykogène
 term	Scoliose pélykogène		
 entry	Pemphigode	0	
 orth	Pemphigode		
-term	Fièvre pemp/tigode		
+term	Fièvre pemphigode		
 entry	Pemphigoïde	0	
 orth	Pemphigoïde		
 entry	Pemphigus	0	
@@ -56632,7 +56594,6 @@ entry	Pepsie	0
 orth	Pepsie		
 entry	Pepsine	0	
 orth	Pepsine		
-term	\pepsinum		
 ref	Glande		
 ref	Gastrique		
 term	Pepsine médicinale		
@@ -56648,7 +56609,7 @@ orth	Peptogène
 pb	1239	1249	
 entry	Peptonate	0	
 orth	Peptonate		
-term	Peptonate de· mercure		
+term	Peptonate de mercure		
 term	peplone mercurique		
 entry	Peptone	0	
 orth	Peptone		
@@ -57066,7 +57027,7 @@ entry	Péritomiste	0
 orth	Péritomiste		
 entry	Péritonéal	0	
 orth	Péritonéal		
-term	Arriére^camté péritonéale		
+term	Arriére-cavité péritonéale		
 ref	Arrière-cavité		
 ref	Hiatus		
 term	Sac péritonéal		
@@ -57090,9 +57051,10 @@ entry	Pérityphlite	0
 orth	Pérityphlite		
 entry	Péri-urétérite	0	
 orth	Péri-urétérite		
-entry	Pérlutérin	0	
-orth	Pérlutérin		
-term	Phlegmon et abcès péiputérins^engorgement utérin		
+entry	Péri-utérin	0	
+orth	Péri-utérin		
+term	Phlegmon et abcès péri-utérins		
+term	engorgement utérin		
 ref	Puerpéral		
 term	Hématocèle péri-utérine		
 entry	Périvaginite	0	
@@ -57345,8 +57307,8 @@ entry	Petit	0
 orth	Petit		
 term	Écharpe de Pelit		
 ref	Écharpe		
-term	Hemie de J.-L		
-term	Triangle de J.-L		
+term	Hemie de J.-L. Petit		
+term	Triangle de J.-L. Petit		
 entry	Pétivérie	0	
 orth	Pétivérie		
 term	Peliverid		
@@ -57417,7 +57379,8 @@ term	Glâhdès et plaques de Peyer
 ref	Intestin		
 entry	Peyrilhe	0	
 orth	Peyrilhe		
-term	Elixirdl6 Peyrilhe		
+term	Elixir de Peyrilhe		
+ref	Élixir		
 entry	Pézize	0	
 orth	Pézize		
 pb	1259	1269	
@@ -57517,7 +57480,7 @@ entry	Phanéroneure	0
 orth	Phanéroneure		
 entry	Phanérophore	0	
 orth	Phanérophore		
-term	Tissu phé~ nérophore		
+term	Tissu phanérophore		
 entry	Phantasme	1	
 orth	Phantasme		
 pb	1261	1271	
@@ -57626,7 +57589,7 @@ entry	Phénéthol	0
 orth	Phénéthol		
 entry	Phénicine	0	
 orth	Phénicine		
-term	L'acide sudfopurpurique		
+term	Acide sudfopurpurique		
 entry	Phénigme	0	
 orth	Phénigme		
 entry	Phénique	1	
@@ -57760,7 +57723,6 @@ entry	Phlegmasie	0
 orth	Phlegmasie		
 entry	Phlegmasique	0	
 orth	Phlegmasique		
-term	inflammatorius.^^ lieh, sp^i.phlegmasic		
 entry	Phlegmatia alba dolens	1	
 orth	Phlegmatia alba dolens		
 pb	1267	1277	
@@ -57774,7 +57736,7 @@ entry	Phlegme	0
 orth	Phlegme		
 entry	Phlegmon	1	
 orth	Phlegmon		
-term	Phlegmon·		
+term	Phlegmon circonscrit ou simple		
 ref	Abcès		
 pb	1268	1278	
 ref	Iliaque		
@@ -57834,7 +57796,7 @@ orth	Phlyse
 entry	Phlyzacie, Phlyzacium	0	
 orth	Phlyzacie		
 orth	Phlyzacium		
-term	L'ecthyma		
+term	Ecthyma		
 entry	Phlyzagié	0	
 orth	Phlyzagié		
 entry	Phobie	0	
@@ -57852,7 +57814,7 @@ orth	Phœnigme
 ref	Pbénigme		
 entry	Phœnodine	0	
 orth	Phœnodine		
-term	L'hématine		
+term	Hématine		
 entry	Phonascie	0	
 orth	Phonascie		
 entry	Phonateur	0	
@@ -58006,7 +57968,6 @@ entry	Photométrique	0
 orth	Photométrique		
 entry	Photophobie	0	
 orth	Photophobie		
-term	A.ver&i<m		
 entry	Photopsie	0	
 orth	Photopsie		
 entry	Phototactisme	0	
@@ -58055,7 +58016,7 @@ orth	Phréno-splénique
 term	Ligament phréno-splénique		
 entry	Phricode	0	
 orth	Phricode		
-term	Fièvre phricodè		
+term	Fièvre phricode		
 entry	Phtalate	0	
 orth	Phtalate		
 entry	Phtaléine	1	
@@ -58108,7 +58069,7 @@ term	laryngite ulcéreuse
 pb	1278	1288	
 term	Phtisie avec mélanose		
 term	phtisie des mineurs		
-term	L’anthracosis		
+term	anthracosis		
 term	Phtisie mésentérique		
 ref	Carreau		
 term	Phtisie péripneumonique		
@@ -58119,10 +58080,10 @@ ref	Phtisie
 ref	Phtisie		
 term	Phtisie pupillaire		
 ref	Myose		
-term	Phtisie'trachéale		
+term	Phtisie trachéale		
 term	Phtisie tuberculeuse		
 pb	1279	1289	
-term	Phtisie 'Ulcéreuse		
+term	Phtisie ulcéreuse		
 entry	Phtisiologie	0	
 orth	Phtisiologie		
 foreign	phthisiologia	lat	
@@ -58251,7 +58212,7 @@ entry	Physœude	0
 orth	Physœude		
 entry	Physostigmine	0	
 orth	Physostigmine		
-term	L'ésérine		
+term	Ésérine		
 entry	Physothorax	0	
 orth	Physothorax		
 entry	Phytoalopécie	0	
@@ -58359,7 +58320,7 @@ ref	Lycopode
 term	Pied-de-pigeon		
 term	Pied-de-poule		
 ref	Chiendent		
-term	-Pied-de-veau		
+term	Pied-de-veau		
 ref	Arum		
 entry	Piedra	0	
 orth	Piedra		
@@ -58428,11 +58389,10 @@ term	Pigment ocre
 pb	1287	1297	
 entry	Pigmentaire	0	
 orth	Pigmentaire		
-term	Couche pigmentaire;		
+term	Couche pigmentaire		
 ref	Épiderme		
 term	Cachexie ou dégénérescence pigmentaire		
 term	Fig		
-term	ri b; e, e;		
 term	Tissu pigmentaire		
 ref	Pigment		
 term	Tumeur, pigmentaire		
@@ -58506,7 +58466,7 @@ term	Pilules ante cibum
 term	Pilules antichlorotiques		
 term	Pilules asiatiques		
 term	Pilules astringentes de Capuron		
-term	Pilule* d’azotate d’argent		
+term	Pilule d’azotate d’argent		
 term	Pilules de Bacher		
 term	Pilules balsamiques de Morton		
 term	Pilules de Barton		
@@ -58715,21 +58675,21 @@ entry	Piqûre	0
 orth	Piqûre		
 term	Piqûre anatomique		
 ref	Tubercule		
-term	-Piqûres· d’insectes		
+term	Piqûres d’insectes		
 ref	Abeille		
 ref	Cousin		
 ref	Processionnaire		
-term	-Piqûre de vipère		
+term	Piqûre de vipère		
 ref	Vipère		
 entry	Piriforme	0	
 orth	Piriforme		
 ref	Pyriforde		
 entry	Pirogoff	0	
 orth	Pirogoff		
-term	Opération de Pirogo/f		
+term	Opération de Pirogoff		
 entry	Piroplasma	1	
 orth	Piroplasma		
-term	’Piroplasrna Donovani		
+term	Piroplasrna Donovani		
 pb	1295	1305	
 entry	Piroplasmose	0	
 orth	Piroplasmose		
@@ -58875,10 +58835,9 @@ term	Plaie par écrasement
 term	Plaie empoisonnée		
 term	Plaie pénétrante		
 term	Plaie de téte		
-term	Plaie de l’}é>nen·		
-entry	Plan, Ane	0	
+term	Plaie de l’Yemen		
+entry	Plan	0	
 orth	Plan		
-orth	Ane		
 pb	1301	1311	
 entry	Plan	0	
 orth	Plan		
@@ -59184,8 +59143,9 @@ term	Plis cérébraux
 term	Pli de Douglas		
 term	Pli semi-lunaire de Douglas		
 term	Pli longitudinal ou vertical de Vater		
+ref	Pancréas		
 pb	1309	1319	
-term	CRÊ^		
+term	Plis de passage		
 entry	Plica gubernatrix	0	
 orth	Plica gubernatrix		
 entry	Plie	0	
@@ -59197,7 +59157,7 @@ orth	Plomb
 ref	Graphite		
 entry	Plombage	0	
 orth	Plombage		
-term	Plombage des dents. \ʳ		
+term	Plombage des dents		
 ref	Obturation		
 entry	Plombagin	0	
 orth	Plombagin		
@@ -59352,7 +59312,9 @@ entry	Pneumonalgie	0
 orth	Pneumonalgie		
 entry	Pneumonie	4	
 orth	Pneumonie		
-term	peripneumonia, pneumonia ; fluxion de poitrine		
+term	peripneumonia		
+term	pneumonia		
+term	fluxion de poitrine		
 term	Pneumonie aiguë		
 pb	1314	1324	
 ref	Congestion		
@@ -59434,7 +59396,7 @@ entry	Podacace	0
 orth	Podacace		
 entry	Podagraire	0	
 orth	Podagraire		
-term	Ægopodium poddgraria,.ᵣ		
+term	Ægopodium poddgraria		
 entry	Podagre	0	
 orth	Podagre		
 entry	Podagbisme	0	
@@ -59457,7 +59419,8 @@ orth	Podophyllin
 orth	Podophyllin		
 entry	Podotherme	0	
 orth	Podotherme		
-term	an^’ store;		
+entry	Poêle	0	
+orth	Poêle		
 entry	Poélette	0	
 orth	Poélette		
 ref	Palette		
@@ -59509,7 +59472,7 @@ entry	Pointillé	0
 orth	Pointillé		
 entry	Poire	0	
 orth	Poire		
-term	Essence de· poire		
+term	Essence de poire		
 ref	Essence		
 term	Poire d’avocat		
 ref	Avocatier		
@@ -59548,7 +59511,7 @@ term	Hydropisie de ppitrine
 ref	Hydrothorax		
 term	Mensurateur de la poitrine		
 ref	Cyrtomètre		
-term	Paracentèse de la poitrine.		
+term	Paracentèse de la poitrine		
 ref	Thoracocentèse		
 entry	Poivre	0	
 orth	Poivre		
@@ -59558,8 +59521,8 @@ ref	Falsification
 term	Poivre cubèbe		
 term	Poivre d’eau		
 ref	Renouée		
-term	Poivre d’Éthiopie;		
-term	Poivre .de Guinée		
+term	Poivre d’Éthiopie		
+term	Poivre de Guinée		
 ref	Graine		
 term	Poivre de		
 ref	Piment		
@@ -59573,7 +59536,7 @@ term	arbre au poivre
 entry	Poix	1	
 orth	Poix		
 term	Poix commune, ou poix noire		
-term	..Poix, blanche		
+term	Poix, blanche		
 term	Poix minérale		
 ref	Pissasphalte		
 pb	1324	1334	
@@ -59648,7 +59611,7 @@ entry	Polyadénie	0
 orth	Polyadénie		
 entry	Polyadénome	0	
 orth	Polyadénome		
-term	Polyadénomes de -L’estomac·		
+term	Polyadénomes de l’estomac		
 term	Polyadénome sébacé		
 entry	Polyarthrite	0	
 orth	Polyarthrite		
@@ -59701,7 +59664,6 @@ ref	Hyperglobulie
 entry	Polydagtyle	0	
 orth	Polydagtyle		
 foreign	polydactilous	deu	
-term	' pôlidâttilo;üsp. polidactilô		
 entry	Polydactylie	0	
 orth	Polydactylie		
 entry	Polydipsie	0	
@@ -59721,7 +59683,7 @@ entry	Polygaline	0
 orth	Polygaline		
 entry	Polygalique	0	
 orth	Polygalique		
-term	Acide polygalique.		
+term	Acide polygalique		
 ref	Sénégine		
 entry	Polyganglionnaire, Multiganglionnaire	0	
 orth	Polyganglionnaire		
@@ -59923,7 +59885,8 @@ term	Pommade parasiticide
 term	Pommade au phosphore		
 term	Pommade du Régent		
 term	Pommade de Rochard		
-term	Pommade à larose \pomrnade rosat		
+term	Pommade à la rose		
+term	pommade rosat		
 term	Pommade de Saint-Yves		
 term	Pommade soufrée		
 term	Pommade virginale		
@@ -60051,7 +60014,7 @@ entry	Porencéphalie	0
 orth	Porencéphalie		
 entry	Poreux	1	
 orth	Poreux		
-term	Canaux: poreux		
+term	Canaux poreux		
 pb	1337	1347	
 entry	Porla	0	
 orth	Porla		
@@ -60198,7 +60161,6 @@ orth	Posset
 ref	Zythogale		
 entry	Posteny	0	
 orth	Posteny		
-term	Eaux sulfurées calciques		
 entry	Postformation	0	
 orth	Postformation		
 term	Post formation des germes		
@@ -60367,9 +60329,8 @@ ref	Petit-lait
 term	Poudre contre la phtisie		
 ref	Poudre		
 term	Poudre de projection		
-term	Poudre		
 pb	1345	1355	
-term	-*urnative		
+term	Poudre purgative		
 ref	Poudre		
 ref	Poudre		
 term	Poudre de Sentinelli		
@@ -60438,7 +60399,6 @@ pb	1347	1357
 term	progressif		
 entry	Poumon	1	
 orth	Poumon		
-term	'pulmon		
 ref	Pulmonaire		
 term	Poumons		
 ref	Pleurésie		
@@ -60618,9 +60578,8 @@ entry	Préparateur	0
 orth	Préparateur		
 entry	Préparation	1	
 orth	Préparation		
-term	Prépa^		
 pb	1352	1362	
-term	ration		
+term	Préparation		
 term	Préparation		
 entry	Prépubien	0	
 orth	Prépubien		
@@ -60661,7 +60620,6 @@ entry	Présentation	1
 orth	Présentation		
 term	Présentation		
 term	Présentation		
-term	'y		
 pb	1353	1363	
 term	Présentation		
 term	Présentation		
@@ -60860,9 +60818,10 @@ orth	Prodromique
 term	Maladie prodromique		
 entry	Production	0	
 orth	Production		
-term	Production		
-term	Aftei'büdun9^.·		
-term	P>oducbion Plastl9^e		
+term	Production accidentelle		
+term	Production cornée		
+ref	Verrue		
+term	Production plastique		
 entry	Productivite	0	
 orth	Productivite		
 entry	Produit	0	
@@ -61278,7 +61237,7 @@ term	prurit scrotal
 entry	Prussiate	0	
 orth	Prussiate		
 ref	Cyanure		
-term	Prussiate de /er		
+term	Prussiate de fer		
 ref	Ferrocyanure		
 entry	Prussine	0	
 orth	Prussine		
@@ -61709,8 +61668,8 @@ term	Fièvre puerpérale
 term	Formes de la Maladie		
 pb	1377	1387	
 term	Péritonite, métro-péritonite		
-term	L’infection putride se		
-term	L'infection purulente puerpérale		
+term	infection putride se		
+term	infection purulente puerpérale		
 pb	1378	1388	
 ref	Folie		
 ref	Mort		
@@ -61718,7 +61677,7 @@ ref	Phlegmatia alba dolens
 term	Traitement		
 entry	Puerpéralité	0	
 orth	Puerpéralité		
-term	L’état puerpéral		
+term	état puerpéral		
 entry	Puerpérisme	0	
 orth	Puerpérisme		
 entry	Pug	0	
@@ -61845,7 +61804,6 @@ pb	1381	1391
 term	Pulvérisateur		
 entry	Pulvérisation	0	
 orth	Pulvérisation		
-term	-ÿ"		
 ref	Lithotri		
 ref	Pulvérisateur		
 entry	Pulvérolé	0	
@@ -62564,7 +62522,6 @@ term	Quinquina
 term	china pseudo-Loxa		
 pb	1397	1407	
 term	claro-amarilla		
-term	$ Quinquina		
 term	Quinquina		
 pb	1398	1408	
 ref	Quina-nova		
@@ -62793,7 +62750,7 @@ orth	Radio-activité
 term	Radio activité indirecte		
 entry	Radio-carpien	0	
 orth	Radio-carpien		
-term	Articulation radio? carpienne		
+term	Articulation radio-carpienne		
 entry	Radiochromomètre	0	
 orth	Radiochromomètre		
 term	Radiochromomètre		
@@ -62835,7 +62792,7 @@ orth	Radioscopie
 entry	Radiothérapie	1	
 orth	Radiothérapie		
 pb	1406	1416	
-term	L'interrupteur		
+term	interrupteur		
 entry	Radis	0	
 orth	Radis		
 ref	Raifort		
@@ -63032,7 +62989,7 @@ ref	Rave
 ref	Raphanie		
 entry	Raphé	0	
 orth	Raphé		
-term	-Raphé de Stilling		
+term	Raphé de Stilling		
 entry	Rapiforme	0	
 orth	Rapiforme		
 entry	Rapontic, Rapontique	0	
@@ -63331,7 +63288,7 @@ term	Cloison recto-vaginale
 ref	Rectum		
 entry	Recto-vésical	0	
 orth	Recto-vésical		
-term	Cloison recto-vésicale'		
+term	Cloison recto-vésicale		
 term	Fistule recto-vésicale		
 ref	Urinaire		
 term	Taille recto-vésicale		
@@ -63341,8 +63298,8 @@ orth	Rectum
 pb	1419	1429	
 term	femme		
 ref	Sphincter		
-term	Chute du rectum '		
-ref	Exa-nie		
+term	Chute du rectum		
+ref	Exanie		
 entry	Recul	0	
 orth	Recul		
 ref	Choc		
@@ -63380,7 +63337,7 @@ term	Redressement des dents
 ref	Orthodontosie		
 entry	Redresseur	1	
 orth	Redresseur		
-term	Rédresseûr utérin		
+term	Redresseur utérin		
 pb	1420	1430	
 entry	Réducteur	0	
 orth	Réducteur		
@@ -63442,7 +63399,7 @@ term	Bouche, lèvres, voile du palais
 term	Cou		
 term	Thorax		
 term	Abdomen		
-term	Bassin et organes génito-urinaires^		
+term	Bassin et organes génito-urinaires		
 term	Système nerveux		
 term	Membres		
 entry	Réfractaire	0	
@@ -63468,7 +63425,7 @@ orth	Réfrangible
 entry	Réfrigérant	0	
 orth	Réfrigérant		
 term	Mélange réfrigérant		
-term	'Méthode réfrigérante		
+term	Méthode réfrigérante		
 entry	Réfrigérant	0	
 orth	Réfrigérant		
 foreign	Kühlfass	deu	
@@ -63649,7 +63606,7 @@ orth	Relaxation
 entry	Releveur	0	
 orth	Releveur		
 term	Releveur de l’aile du		
-term	Releveur de l’aile dû nez et de la lèvre supérieure		
+term	Releveur de l’aile du nez et de la lèvre supérieure		
 term	Releveur de l’angle des lèvres		
 ref	Canin		
 term	Releveur de l’anus		
@@ -63893,7 +63850,7 @@ entry	Résécable	0
 orth	Résécable		
 entry	Résection	0	
 orth	Résection		
-term	Résection nerveuse·		
+term	Résection nerveuse		
 term	Résection osseuse		
 entry	Réséda	0	
 orth	Réséda		
@@ -63937,7 +63894,7 @@ term	Résolution des forces
 term	Résolution des membres, des muscles		
 entry	Résonance	0	
 orth	Résonance		
-term	Résonance de la voix ’		
+term	Résonance de la voix		
 ref	Brocomphonie		
 ref	Pectoriloquie		
 ref	Voix		
@@ -64054,7 +64011,7 @@ ref	Rhétinaphte
 entry	Rétine	1	
 orth	Rétine		
 term	Couche pigmentaire		
-term	Couche des cônes et des bâtonnets : a		
+term	Couche des cônes et des bâtonnets		
 pb	1438	1448	
 term	Limitante externe		
 term	Couche des cellules visuelles externes		
@@ -64555,7 +64512,6 @@ ref	Pseudo-rhumatisme
 pb	1448	1458	
 ref	Spondylose		
 ref	Heberden		
-term	: culeux		
 term	Rhumatisme cérébral		
 pb	1449	1459	
 entry	Rhumatoïde	0	
@@ -64629,10 +64585,8 @@ orth	Riga
 term	Maladie de Riga		
 entry	Rigi-Kaltbad	0	
 orth	Rigi-Kaltbad		
-term	Station d’altitude, 1		
 entry	Rigi-Scheideck	0	
 orth	Rigi-Scheideck		
-term	Station d’al-: titude		
 entry	Rigidité	1	
 orth	Rigidité		
 term	Rigidité cadavérique		
@@ -64698,7 +64652,7 @@ term	Selles riziform
 entry	Rob	0	
 orth	Rob		
 term	Rob Boyveau-Laffecteur		
-term	Rob de genièvre'		
+term	Rob de genièvre		
 ref	Genévrier		
 entry	Robert	0	
 orth	Robert		
@@ -64780,7 +64734,6 @@ term	Maladie de Romberg
 term	Signe de Romberg		
 entry	Rome	0	
 orth	Rome		
-term	Station d’hiver;		
 entry	Ronabée	0	
 orth	Ronabée		
 term	Ronabée vomitive		
@@ -64820,7 +64773,8 @@ entry	Rorifère	0
 orth	Rorifère		
 entry	Rosacé	0	
 orth	Rosacé		
-term	Acide rosacé,., matière rosacée		
+term	Acide rosacé		
+term	matière rosacée		
 ref	Urociirome		
 term	Acné rosacée		
 ref	Couperose		
@@ -65470,7 +65424,6 @@ orth	Saint-Beatenberg
 term	Station d’altitude		
 entry	Saint-Bernardin	0	
 orth	Saint-Bernardin		
-term	Station d’altitude·		
 entry	Saint-Blasien	0	
 orth	Saint-Blasien		
 term	Sanatorium		
@@ -65502,7 +65455,6 @@ entry	Saint-Loubouer	0
 orth	Saint-Loubouer		
 entry	Saint-Luc	0	
 orth	Saint-Luc		
-term	Station d’altitude ;		
 entry	Saint-Martin-Lantosque	0	
 orth	Saint-Martin-Lantosque		
 term	Station d’été		
@@ -65588,7 +65540,7 @@ term	Salicylate d’éthyle
 ref	Salicylique		
 term	Salicylate de lithine		
 term	Salicylate de méthyle		
-term	Salicylate de ^-naphlyle		
+term	Salicylate de β-naphtyle		
 ref	Bétol		
 term	Salicylate de phényle		
 ref	Salol		
@@ -66056,8 +66008,6 @@ orth	Sarcidie
 entry	Sarcine	0	
 orth	Sarcine		
 term	Sarcine		
-term	cina ventriculi'·		
-term	Sarcine		
 entry	Sarcite	0	
 orth	Sarcite		
 entry	Sarcocèle	1	
@@ -66208,7 +66158,7 @@ term	intoxication saturnine
 ref	Saturnisme		
 entry	Saturnisme	0	
 orth	Saturnisme		
-term	L’intoxication saturnine chronique		
+term	intoxication saturnine chronique		
 ref	Traitement		
 entry	Satyriasis	1	
 orth	Satyriasis		
@@ -67113,7 +67063,7 @@ term	Seigle ergoté
 ref	Ergot		
 entry	Sein	0	
 orth	Sein		
-term	L’utérus		
+term	utérus		
 ref	Mamelle		
 ref	Utérus		
 entry	Séintein	0	
@@ -67177,7 +67127,8 @@ term	Sel de Derosne
 term	Sel de Descroizilles		
 term	Sel digestif de Sylvius ou diurétique		
 term	Sel de duobus		
-term	Sel d’Égra, sel d‘Epsom		
+term	Sel d’Égra		
+term	sel d’Epsom		
 term	Sel d’Epsom de Lorraine		
 term	Sel essentiel d’absinthe		
 ref	Carbonate		
@@ -67193,7 +67144,7 @@ term	Sel fixe de corail
 term	Sel fixe de tartre		
 term	Sel fixe		
 term	Sel fossile		
-term	Sel fusible de l’		
+term	Sel fusible de l’urine		
 term	Sel gemme		
 term	Sel de Glauber		
 ref	Sel		
@@ -67215,7 +67166,7 @@ term	de lait
 ref	Lactose		
 term	Sel de La		
 ref	Tartrate		
-term	Sel de ' Lémery		
+term	Sel de Lémery		
 ref	Sel		
 ref	Sel		
 term	Sel marin		
@@ -67505,7 +67456,7 @@ entry	Sentiment	0
 orth	Sentiment		
 entry	Sentinelli	0	
 orth	Sentinelli		
-term	Poudre \ de Sentinelli		
+term	Poudre de Sentinelli		
 ref	Pocdre		
 entry	Séparation	0	
 orth	Séparation		
@@ -67673,7 +67624,7 @@ term	Serpent à sonnettes
 ref	Crotale		
 entry	Serpentaire	0	
 orth	Serpentaire		
-term	Sapentaire.commune		
+term	Sapentaire commune		
 term	Serpentaire femelle		
 ref	Bistorte		
 term	Petite serpentaire		
@@ -67766,7 +67717,7 @@ orth	Sesban
 orth	Sesbane		
 entry	Séséli	1	
 orth	Séséli		
-term	Séséli d’Ëlhiapie		
+term	Séséli d’Éthiopie		
 ref	Laser		
 term	Séséli		
 ref	Livèche		
@@ -68039,13 +67990,12 @@ orth	Sinapine
 entry	Sinapique	0	
 orth	Sinapique		
 term	Acide sinapique		
-term	pinsäure, Senfsäure		
 entry	Sinapisé	1	
 orth	Sinapisé		
 pb	1530	1540	
 entry	Sinapisine	0	
 orth	Sinapisine		
-term	L'essence de moutarde		
+term	essence de moutarde		
 term	sulfocyanure d’allyle		
 ref	Allyle		
 entry	Sinapisme	0	
@@ -68257,7 +68207,7 @@ term	Sirop de stigmates de mais
 term	Sirop sudorifique		
 ref	Sirop		
 term	Sirop sulfureux		
-term	Sirop de tartrate de fer et de potasse;		
+term	Sirop de tartrate de fer et de potasse		
 term	Sirop de thridace		
 term	Sirop de térébenthine		
 term	Sirop de lolu		
@@ -69154,7 +69104,6 @@ term	Spéculum oris
 pb	1558	1568	
 term	Spéculum de		
 term	Spéculum uleri		
-term	~Gemrig qüires		
 term	Spéculum		
 entry	Spedalskhed, Spedalsk	0	
 orth	Spedalskhed		
@@ -69439,7 +69388,6 @@ entry	Spilanthine	0
 orth	Spilanthine		
 entry	Spiloplaxie	0	
 orth	Spiloplaxie		
-term	'i		
 term	Spiloplaxie indienne		
 entry	Spilus	0	
 orth	Spilus		
@@ -69577,7 +69525,7 @@ orth	Spix
 term	Aiguille de Spix		
 entry	Splanchnique	0	
 orth	Splanchnique		
-term	Nerfs splanch· niques		
+term	Nerfs splanchniques		
 entry	Splanchnographie	0	
 orth	Splanchnographie		
 entry	Splanchnologie	0	
@@ -69760,7 +69708,6 @@ entry	Sporose	0
 orth	Sporose		
 entry	Sporosorium	0	
 orth	Sporosorium		
-term	{Sporosorium saponariæ		
 entry	Sporozoaire	0	
 orth	Sporozoaire		
 entry	Sporozoïde	0	
@@ -70144,7 +70091,6 @@ orth	Sterno-huméral
 ref	Pectoral		
 entry	Sterno-hyoïdien	0	
 orth	Sterno-hyoïdien		
-term	1Avs,c\e		
 entry	Sterno-mastoïdien	0	
 orth	Sterno-mastoïdien		
 ref	Sterno-clido-mastoïdien		
@@ -70270,9 +70216,8 @@ foreign	stimulant	eng
 foreign	stimolante	ita	
 foreign	estimulante	spa	
 term	Stimulants diffusibles		
-term	Slimoûanis		
 pb	1589	1599	
-term	persistants		
+term	Stimulants persistants		
 entry	Stimulation	0	
 orth	Stimulation		
 ref	Contre-stjmulisme		
@@ -70714,7 +70659,7 @@ orth	Substance
 term	Médicament administré		
 term	Substance alimentaire		
 ref	Aliment		
-term	Substance blanc· graisseuse du cerveau		
+term	Substance blanche graisseuse du cerveau		
 term	Substance blanche ou médullaire du cerveau		
 ref	Cerveau		
 ref	Nerveux		
@@ -70767,7 +70712,7 @@ term	Suc hépatique
 term	Suc		
 term	Suc médullaire		
 term	Suc nourricier		
-term	Suc orchitique. ïl a		
+term	Suc orchitique		
 pb	1602	1612	
 term	Suc pancréatique		
 term	Suc de pavot concret		
@@ -70809,7 +70754,7 @@ orth	Succinique
 term	Acide succinique		
 entry	Succion	0	
 orth	Succion		
-term	Extraction de la cataracte liquide‘par succion		
+term	Extraction de la cataracte liquide par succion		
 entry	Succise	1	
 orth	Succise		
 ref	Scabieuse		
@@ -70930,7 +70875,6 @@ entry	Suffusion	0
 orth	Suffusion		
 entry	Sugarine	0	
 orth	Sugarine		
-term	{méthylbenzolsulfmide		
 entry	Suggestibilité	0	
 orth	Suggestibilité		
 entry	Suggestion	0	
@@ -70999,7 +70943,7 @@ term	Sulfate d’indigo
 ref	Scleo-indigotique		
 term	Sulfate de magnésie		
 term	Sulfate de		
-term	Sulfates · de mercure		
+term	Sulfates de mercure		
 term	Sulfate de morphine		
 pb	1610	1620	
 term	Sulfale de polasse		
@@ -71032,7 +70976,7 @@ ref	Mercaptan
 entry	Sulfhydrique	0	
 orth	Sulfhydrique		
 term	Acide sulfhydrique		
-term	Epieuve de l’hydrogène sulfuré·		
+term	Epieuve de l’hydrogène sulfuré		
 entry	Sulfhydromètre	0	
 orth	Sulfhydromètre		
 ref	Sulfhvdrométrie		
@@ -71175,7 +71119,7 @@ ref	Eau
 term	Éther sulfurique		
 ref	Éther		
 term	Éther sulfuriaue normal ou sulfate d’éthyle		
-term	Limonade ' sulfurique		
+term	Limonade sulfurique		
 ref	Limonade		
 entry	Sulfurose	0	
 orth	Sulfurose		
@@ -71191,11 +71135,11 @@ term	amarante
 entry	Sumbul	0	
 orth	Sumbul		
 term	Sirop de résine de sumbul		
-term	Pastilles ' résine de sumbul		
-entry	Symbulique, Sumbulolique	0	
-orth	Symbulique		
+term	Pastilles de résine de sumbul		
+entry	Sumbulique, Sumbulolique	0	
+orth	Sumbulique		
 orth	Sumbulolique		
-term	-Acide		
+term	Acide sumbulique		
 entry	Superbe	0	
 orth	Superbe		
 entry	Superembryonnement	0	
@@ -71422,7 +71366,7 @@ orth	Sus-épineux
 ref	Surépineux		
 entry	Sus-hépatique	0	
 orth	Sus-hépatique		
-term	/eines sus-hépatiques		
+term	Veines sus-hépatiques		
 ref	Foie		
 ref	Porte		
 entry	Sus-hyoïdien	0	
@@ -71809,7 +71753,6 @@ entry	Synopsie	0
 orth	Synopsie		
 entry	Synoque	0	
 orth	Synoque		
-term	D'une		
 entry	Synorchidie	0	
 orth	Synorchidie		
 entry	Synostéographie	0	
@@ -71888,7 +71831,7 @@ pb	1638	1648
 term	Accidents secondaires		
 ref	Iritis		
 ref	Pilule		
-term	Accidents tertiaires’		
+term	Accidents tertiaires		
 ref	Sarcocèle		
 ref	Syphilide		
 ref	Syphilis		
@@ -72166,7 +72109,7 @@ term	Tâche de Mariotte
 term	Taches médico-légales		
 ref	Hématie		
 ref	Hémoglobine		
-term	Tache _ mélanienne		
+term	Tache mélanienne		
 ref	Envie		
 ref	Mélanien		
 term	Taches métalliques de la cornée		
@@ -72237,10 +72180,6 @@ foreign	Bandwurmmittel	deu
 foreign	tænifuge	eng	
 foreign	tenifugo	ita	
 foreign	tenifugo	spa	
-term	solium;		
-term	saginata		
-term	dium filix mas		
-term	1^ français		
 entry	Tæniine	0	
 orth	Tæniine		
 entry	Tænioïde	1	
@@ -72954,7 +72893,6 @@ term	Douleur lensive
 entry	Tension	1	
 orth	Tension		
 term	Tension artérielle		
-term	/ai esse de la tension artérielle		
 term	Tension el pression atmosphériques		
 ref	Air		
 ref	Baromètre		
@@ -72962,7 +72900,7 @@ ref	Pesanteur
 term	Tension		
 term	Bruit de tension		
 ref	Bruit		
-term	Tension électrique;		
+term	Tension électrique		
 pb	1672	1682	
 ref	Electrisation		
 term	Tension musculaire		
@@ -73030,7 +72968,7 @@ term	Monochlorhydrate solide de térébenthène
 pb	1674	1684	
 term	Monochlorhydrate Liquide de térébenthène		
 term	Bichlorhydrate de térébenthène		
-term	Hydrate de. térébenthène		
+term	Hydrate de térébenthène		
 ref	Térébenthine		
 entry	Térébenthilique	0	
 orth	Térébenthilique		
@@ -73070,7 +73008,7 @@ orth	Téréniabin
 ref	Manne		
 entry	Térephtauque	0	
 orth	Térephtauque		
-term	Acide · térephtalique		
+term	Acide térephtalique		
 entry	Terminaison	0	
 orth	Terminaison		
 term	Terminaisons nerveuses		
@@ -73128,14 +73066,15 @@ term	Terre foliée mercurielle
 ref	Acétate		
 term	Terre foliée de-tartre		
 ref	Acétate		
-term	Terre foliée végétale. N. kcsrsxe. de		
+term	Terre foliée végétale		
+ref	Acétate		
 term	Terre de Lemnos		
 pb	1676	1686	
 term	Terre pesante		
 ref	Baryte		
-term	Terre pesante salée»		
+term	Terre pesante salée		
 ref	Chlorure		
-term	Terre ù porcelaine		
+term	Terre à porcelaine		
 ref	Kaolin		
 term	Terre de Vérone		
 entry	Terre-noix	0	
@@ -73169,15 +73108,12 @@ ref	Testicule
 term	Suc testiculaire		
 entry	Testicule	2	
 orth	Testicule		
-term	cordon		
-term	/les		
-term	lÿlscratal		
 pb	1677	1687	
+ref	spermatozoïdes		
 ref	Spermatogenèse		
 ref	Vas		
 ref	Corps		
-term	e Wol/f		
-ref	Paradioyme		
+ref	Paradidyme		
 term	Descente ou migration du testicule		
 pb	1678	1688	
 term	Testicule irritable		
@@ -73398,7 +73334,7 @@ foreign	theobromine	eng
 foreign	leobromina	ita	
 foreign	leobromina	spa	
 term	Acétate bisodique de théobromine		
-term	Salicylale de soude et de théobromine;		
+term	Salicylale de soude et de théobromine		
 term	Salicylale de lilhine et de théobromine		
 entry	Théocine	0	
 orth	Théocine		
@@ -73495,7 +73431,6 @@ entry	Thermocautère	1
 orth	Thermocautère		
 term	Thermocautire		
 term	trmocautêre à		
-term	! G		
 pb	1686	1696	
 entry	Thermochimie	0	
 orth	Thermochimie		
@@ -73834,14 +73769,13 @@ orth	Thyrotomie
 ref	Thyréotomie		
 entry	Tibia	0	
 orth	Tibia		
-term	' du tibia		
 term	Tibia		
 ref	Jambe		
 ref	Fracture		
 entry	Tibial	1	
 orth	Tibial		
 term	Artères tibiales		
-term	L’artère tibiale postérieure		
+term	artère tibiale postérieure		
 pb	1697	1707	
 term	Muscle tibial antérieur		
 ref	Jambier		
@@ -73957,7 +73891,7 @@ orth	Tisane
 ref	Ptisane		
 term	Tisane de Peltz		
 term	Tisane royale		
-term	Tisane de Vinache·		
+term	Tisane de Vinache		
 entry	Tissu	1	
 orth	Tissu		
 pb	1700	1710	
@@ -74462,7 +74396,6 @@ entry	Trachéobronchite	0
 orth	Trachéobronchite		
 entry	Trachéobronchoscopie	0	
 orth	Trachéobronchoscopie		
-term	. scopie inférieure		
 term	Trachéobronchoscopie		
 entry	Trachéocèle	0	
 orth	Trachéocèle		
@@ -74630,7 +74563,8 @@ entry	Transparence	0
 orth	Transparence		
 entry	Transparent	0	
 orth	Transparent		
-term	Aire transparente. L'area pellucida		
+term	Aire transparente		
+term	area pellucida		
 ref	Embryon		
 term	Cloison transparente		
 term	Tuméfaction transparente		
@@ -74815,8 +74749,7 @@ pb	1721	1731
 ref	Sape		
 entry	Tréphine	0	
 orth	Tréphine		
-term	Tréphine		
-term	s^lini		
+term	Tréphine d’Assalini		
 entry	Trepidation	0	
 orth	Trepidation		
 term	Trépidation épileptoïde		
@@ -74928,7 +74861,7 @@ orth	Trichloracétique
 ref	Chloracétique		
 entry	Trichlorhydrine	0	
 orth	Trichlorhydrine		
-term	L’épichlorhydrine		
+term	épichlorhydrine		
 entry	Trichlorure	0	
 orth	Trichlorure		
 ref	Chlorure		
@@ -75235,7 +75168,7 @@ orth	Tritoxyde
 ref	Oxyde		
 entry	Triturant	0	
 orth	Triturant		
-term	Surface triturante des dents"		
+term	Surface triturante des dents		
 entry	Trituration	0	
 orth	Trituration		
 entry	Trivalérine	0	
@@ -75476,7 +75409,7 @@ orth	Tube
 term	Tube de sûreté		
 term	Tube en S		
 term	Tube de Welter		
-term	Tube^du cristallin		
+term	Tube du cristallin		
 ref	Cristallinien		
 term	Tube germinal		
 ref	Scolex		
@@ -75493,7 +75426,7 @@ term	Tubercule d’Aranzi ou d’Arantius
 ref	Sigmoïde		
 term	Tubercule bigéminé		
 ref	Quadrijumeau		
-term	Tubercule'carotidien		
+term	Tubercule carotidien		
 term	Tubercule cendré		
 ref	Pituitaire		
 term	Tubercule de Lower		
@@ -75596,7 +75529,8 @@ ref	Odontome
 term	Tumeur dermoide		
 term	Tumeur épidermique ou épithéliale		
 ref	Épithélioma		
-term	Tumeur érectile, tumeur fongueuse sanguine: V		
+term	Tumeur érectile		
+term	tumeur fongueuse sanguine		
 ref	Vasculaire		
 term	Tumeur des ganglions lymphatiques		
 ref	Ganglioma		
@@ -75999,7 +75933,7 @@ entry	Unicellulaire	0
 orth	Unicellulaire		
 entry	Unicisme	0	
 orth	Unicisme		
-term	Doctrine de' Tunicisme		
+term	Doctrine de Tunicisme		
 ref	Chancre		
 entry	Uniciste	0	
 orth	Uniciste		
@@ -76068,7 +76002,7 @@ orth	Unna
 term	Maladie de Unna		
 entry	Upas	0	
 orth	Upas		
-term	L'upas tieuté ou tjettek		
+term	upas tieuté ou tjettek		
 entry	Upsiloïde	0	
 orth	Upsiloïde		
 ref	Hypsiloide		
@@ -76317,7 +76251,7 @@ foreign	urethrotomy	eng
 foreign	uretrotomià	ita	
 foreign	uretrotomia	spa	
 ref	Urétrotome		
-term	L'urétrotomie externe, ou boutonnière		
+term	urétrotomie externe, ou boutonnière		
 pb	1761	1771	
 entry	Urétrotomisé	0	
 orth	Urétrotomisé		
@@ -76426,7 +76360,7 @@ entry	Urocanine	0
 orth	Urocanine		
 entry	Urocanique	0	
 orth	Urocanique		
-term	Acideurocaniquc^-H^hz-Q·		
+term	Acide urocanique		
 entry	Urocèle	0	
 orth	Urocèle		
 entry	Urochloralique	0	
@@ -76722,9 +76656,12 @@ entry	Uvule	0
 orth	Uvule		
 entry	Uvuloptose	0	
 orth	Uvuloptose		
-term	v = v		
+entry	V	0	
+orth	V		
+term	V lingual		
 ref	Langue		
 term	Os en V		
+ref	Os		
 entry	Vacation	0	
 orth	Vacation		
 entry	Vaccin	0	
@@ -76755,10 +76692,10 @@ orth	Vaccinide
 ref	Vac		
 entry	Vaccinier	0	
 orth	Vaccinier		
-term	L'airelle		
+term	airelle		
 entry	Vaccinifère	0	
 orth	Vaccinifère		
-term	'Génisses vaccinifères		
+term	Génisses vaccinifères		
 ref	Vaccination		
 entry	Vacciniforme	0	
 orth	Vacciniforme		
@@ -76960,7 +76897,7 @@ entry	Valetudinarium	0
 orth	Valetudinarium		
 entry	Valeur	0	
 orth	Valeur		
-term	· Valeur sémiologique		
+term	Valeur sémiologique		
 entry	Valgus	0	
 orth	Valgus		
 ref	Pied		
@@ -77172,7 +77109,7 @@ ref	Lymphatique
 ref	Érectile		
 ref	Érection		
 term	Tumeurs vasculaires par dilatation artérielle		
-term	Tumeurs vasculaires proprement dites? angiomes		
+term	Tumeurs vasculaires proprement dites angiomes		
 pb	1787	1797	
 term	Tumeurs vasculaires		
 entry	Vascularisation	0	
@@ -77569,7 +77506,7 @@ orth	Vernet
 pb	1799	1809	
 entry	Vernicie	0	
 orth	Vernicie		
-term	L'Elæcocca vernicia		
+term	Elæcocca vernicia		
 ref	Sumac		
 entry	Vernis	0	
 orth	Vernis		
@@ -77700,7 +77637,7 @@ term	Vertèbre type
 pb	1804	1814	
 entry	Vertébré	0	
 orth	Vertébré		
-term	'Animaux vertébrés		
+term	Animaux vertébrés		
 term	Vertébrés allantoïdiens		
 term	Vertébrés anallgploïdiens		
 entry	Vertébro-iliaque	0	
@@ -77796,8 +77733,7 @@ orth	Vésico-spinal
 term	Centre vésico-spinal		
 entry	Vésico-utérin	0	
 orth	Vésico-utérin		
-term	vesico-uterme,ÿt		
-term	Ligaments vésico-ulérins		
+term	Ligaments vésico-utérins		
 entry	Vésico-utéro-vaginal	0	
 orth	Vésico-utéro-vaginal		
 term	Fistule vésico-uléro-vaginale		
@@ -78101,7 +78037,6 @@ entry	Villaro	0
 orth	Villaro		
 entry	Villaterja	0	
 orth	Villaterja		
-term	vn ï 7'		
 entry	Lavieja de Nules	0	
 orth	Lavieja de Nules		
 entry	Villette	0	
@@ -78145,7 +78080,7 @@ ref	Plâtrage
 ref	Vin		
 term	Vin antimonié		
 term	vin émétique		
-term	Vin ^scorbutique		
+term	Vin scorbutique		
 term	Vin		
 term	Vin chalybé		
 term	Vin créosoté		
@@ -78525,8 +78460,6 @@ ref	Salubrité
 entry	Voix	1	
 orth	Voix		
 ref	Expression		
-term	-e		
-term	ao/		
 pb	1828	1838	
 ref	Parole		
 ref	Phonation		
@@ -78741,7 +78674,6 @@ orth	Vulvaire
 ref	Ansérine		
 entry	Vulve	1	
 orth	Vulve		
-term	] vulve		
 pb	1833	1843	
 ref	Vulvo-vaginal		
 ref	Esthiomène		

@@ -7,8 +7,32 @@ use Biusante\Medict\{MedictInsert};
 // MedictInsert::dico_titre(); // remplir la table des titres
 // MedictInsert::dico_volume(); // extraire les infos de volume depuis la base anc
 
+$bibl = [
+    '37020d~lat',
+    '37020d~grc',
+    '37020d~deu',
+    '37020d~eng',
+    '37020d~ita',
+    '37020d~spa',
+];
+
 MedictInsert::truncate(); // supprimer les données d’indexation
+foreach ([
+    '00152',
+    '07399',
+] as $titre_cote) {
+    MedictInsert::insert_titre($titre_cote);
+}
+return;
+
 MedictInsert::insert_titre('37020d');
+MedictInsert::insert_titre('37020d~lat');
+MedictInsert::insert_titre('37020d~grc');
+MedictInsert::insert_titre('37020d~deu');
+MedictInsert::insert_titre('37020d~eng');
+MedictInsert::insert_titre('37020d~ita');
+MedictInsert::insert_titre('37020d~spa');
+MedictInsert::insert_titre('27898');
 
 /*
 MedictInsert::insert_titre('extbnfdechambre');

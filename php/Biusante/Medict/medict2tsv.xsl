@@ -17,6 +17,13 @@ permettant de raccrocher chaque information lexicale à sa page source.
   <xsl:variable name="tab">
     <xsl:text>&#9;</xsl:text>
   </xsl:variable>
+  
+  <xsl:template match="tei:teiHeader">
+    <!--
+<ref target="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=00152">De Gorris 1601</ref>
+ref	De Gorris 1601		
+    -->
+  </xsl:template>
 
   <xsl:template match="/">
     <xsl:text>object</xsl:text>
@@ -119,7 +126,7 @@ permettant de raccrocher chaque information lexicale à sa page source.
     <xsl:value-of select="$lf"/>
   </xsl:template>
 
-  <xsl:template match="tei:ref">
+  <xsl:template match="tei:entry//tei:ref | tei:entryFree//tei:ref">
     <xsl:value-of select="local-name()"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="normalize-space(.)"/>

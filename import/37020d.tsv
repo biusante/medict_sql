@@ -4334,7 +4334,7 @@ foreign	almidon	spa
 foreign	ἄμυλον	grc	
 term	Amidon azotique		
 ref	Pyroxam		
-term	lodure d’amidon		
+term	Iodure d’amidon		
 ref	Aoocks		
 entry	Amidonné	0	
 orth	Amidonné		
@@ -11799,7 +11799,7 @@ term	Bromure de baryum
 ref	Bromure		
 term	Chlorure de baryum		
 ref	Chlorure		
-term	Lodure de baryum		
+term	Iodure de baryum		
 ref	Iodure		
 term	Protoxyde de baryum		
 ref	Baryte		
@@ -15681,7 +15681,7 @@ orth	Butyle
 foreign	butylium	lat	
 foreign	Butyl	deu	
 foreign	Kalyl	deu	
-term	lodure de butyle		
+term	Iodure de butyle		
 term	Acétate de butyle		
 term	Carbonate de butyle		
 term	Azotate de butyle		
@@ -42774,7 +42774,7 @@ term	Chlorure de fer
 ref	Chlobure		
 term	Cyanure de fer		
 ref	Cyanure		
-term	lodure de fer		
+term	Iodure de fer		
 ref	Iodure		
 term	Lactate de fer		
 ref	Lactate		
@@ -43623,7 +43623,7 @@ term	Fièvre putride des vaisseaux
 ref	Typhus		
 term	Fièvre putride bilieuse		
 ref	Typhus		
-term	Fièvrepyogénique		
+term	Fièvre pyogénique		
 ref	Infection		
 term	Fièvre quarte		
 term	Fièvre quarte doublée		
@@ -43633,9 +43633,9 @@ term	Fièvre quintane
 ref	Quintane		
 term	Fièvre quotidienne		
 ref	Quotidien		
-term	Fièvre a rechute		
+term	Fièvre à rechute		
 ref	Rechute		
-term	Fièvre, récurrente		
+term	Fièvre récurrente		
 ref	Rechute		
 term	Fièvre rémittente		
 term	Fièvre rémittente des enfants		
@@ -47034,7 +47034,7 @@ ref	Hydrogène
 ref	Butylique		
 term	Gaz inflammable mofetisé		
 ref	Hydrogène		
-term	Gaz inflammable suif are		
+term	Gaz inflammable sulfuré		
 ref	Sulfhydrique		
 term	Gaz intestinaux		
 ref	Pneumatose		
@@ -47058,9 +47058,9 @@ term	Gaz oxymuriatique
 ref	Chlore		
 term	Gaz permanent		
 ref	Atome		
-term	Gazphlogistique		
+term	Gaz phlogistique		
 ref	Azote		
-term	Gazphosgène		
+term	Gaz phosgène		
 ref	Chloro-cabbonique		
 term	Gaz protoxyde		
 term	deutoxyde d’azote		
@@ -48327,9 +48327,9 @@ foreign	globule	eng
 foreign	globetto	ita	
 foreign	globettino	ita	
 foreign	globulo	spa	
-term	Globules F Arantius		
+term	Globules d’Arantius		
 ref	Tubercule		
-term	Globides blancs du sang		
+term	Globules blancs du sang		
 ref	Leucocyte		
 term	Globules du chyle et de la lymphe		
 term	globules du colostrum		
@@ -59632,6 +59632,7 @@ foreign	iodhidrato	spa
 term	lodhydrate de méthylène		
 ref	Iodométhyle		
 term	lodhydrate de potasse		
+ref	Iodure		
 entry	Iodhydrine	0	
 orth	Iodhydrine		
 entry	Iodhydrique	0	
@@ -59734,11 +59735,11 @@ term	Iodure de potassium
 ref	Pommade		
 pb	0817	0831	
 ref	Iodisme		
-term	lodure de potassium ioduré		
+term	Iodure de potassium ioduré		
 ref	Urine		
-term	lodure de sodium		
-term	lodure de soufre		
-term	lodure de zinc		
+term	Iodure de sodium		
+term	Iodure de soufre		
+term	Iodure de zinc		
 entry	Ioduré	0	
 orth	Ioduré		
 term	Injection iodurée		
@@ -62027,7 +62028,7 @@ term	Cataracte laiteuse
 ref	Cataracte		
 term	Fièvre laiteuse		
 ref	Fièvre		
-term	Croules laiteuses		
+term	Croûtes laiteuses		
 ref	Impétigo		
 term	Maladies laiteuses		
 ref	Lait		
@@ -69593,7 +69594,7 @@ term	Huile de mercure
 ref	Huile		
 term	lodo-chlorure de mercure		
 ref	Iodo-chlorure		
-term	lodure de mercure		
+term	Iodure de mercure		
 ref	Io		
 ref	Dure		
 term	Oxychlorure de mercure		
@@ -91945,7 +91946,7 @@ term	Poudre de Fontaneilles
 term	Poudre fulminante		
 ref	Chlorate		
 ref	Picrate		
-term	Poudre galactopceétique		
+term	Poudre galactopœétique		
 term	Poudre galactopœétique de Rosenstein		
 term	Poudres gazifères		
 term	Poudre gazifère simple		
@@ -103555,8 +103556,7 @@ term	Sel d’Epsom de Lorraine
 pb	1402	1416	
 term	Sel essentiel de lait		
 ref	Sucre		
-ref	A		
-ref	Ctive		
+ref	Lactine		
 term	Sel essentiel d’opium de Baume		
 term	Sel essentiel d’oseille		
 ref	Oxalate		
@@ -103664,7 +103664,7 @@ term	Sel végétal fixe
 term	Sel vert de Magnus		
 term	Sel de vitriol		
 term	Sel de vitriol de Chypre		
-term	Sel vitriolique yiartial		
+term	Sel vitriolique martial		
 term	Sel volatil d’Angleterre		
 term	Sel volatil d’Angleterre sec		
 term	Sel volatil concret		
@@ -106239,7 +106239,7 @@ term	Hyocholéate de soude
 ref	Hyocholéate		
 term	Hypochlorite de soude		
 ref	Hypochlorite		
-term	lodure de soude		
+term	Iodure de soude		
 ref	Iodure		
 term	Lactate de soude		
 ref	Lactate		
@@ -106320,7 +106320,7 @@ term	Huile de soufre
 ref	Huile		
 term	Hydrure de soufre		
 ref	Hydrure		
-term	lodure de soufre		
+term	Iodure de soufre		
 ref	Iodure		
 term	Pluie de soufre		
 term	Tablettes de soufre		
@@ -123838,7 +123838,7 @@ term	Carbonate de zinc
 ref	Carbonate		
 term	Cyanure de zinc		
 ref	Cyanure		
-term	lodure de zinc		
+term	Iodure de zinc		
 ref	Iodure		
 term	Oxyde de zinc		
 ref	Oxyde		

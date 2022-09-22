@@ -18,9 +18,7 @@ class MedictInsert extends MedictUtil
 {
     /** Propriétés du titre en cours de traitement */
     static $titre = null;
-    /** Propriétés du volume en cours de traitement */
-    static $volume = null;
-    /** Table de données en cours de tritement */
+    /** Table de données en cours de traitement */
     static $data = null;
     /** Dossier des fichiers tsv */
     static $tsv_dir;
@@ -311,25 +309,58 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         // SELECT * FROM medict.dico_titre ORDER BY -import_ordre DESC, annee DESC;
     }
 
-    public static function insert_titre($titre_cote)
+
+    private static function get_titre($titre_cote)
     {
         $sql = "SELECT * FROM dico_titre WHERE cote = ?";
         $q = self::$pdo->prepare($sql);
         $q->execute(array($titre_cote));
         self::$titre = $q->fetch();
-        if (!self::$titre) {
-            throw new Exception("Pas de titre trouvé pour la cote : ".$titre_cote);
-        }
-        // effacer ici des données ?
+        return self::$titre;
+    }
+
+    public static function insert_titre($titre_cote)
+    {
+        $time_start = microtime(true);
+        echo "[insert_titre] ".$titre_cote.' préparation… ';
+        self::delete_titre($titre_cote);
+        echo " suppressions: ". number_format(microtime(true) - $time_start, 3) . " s.\n";
         $dico_titre = self::$titre['id'];
         $sql = "SELECT volume_cote FROM dico_volume WHERE dico_titre = ?";
         $q = self::$pdo->prepare($sql);
         $q->execute(array($dico_titre));
+        $done = false;
         while ($row = $q->fetch()) {
             $tsv_file = self::tsv_file($row['volume_cote']);
             self::insert_volume($tsv_file);
+            $done = true;
+        }
+        // Pas de volumes connus de la pase anc, envoyer la cote comme volume
+        if (!$done) {
+            $tsv_file = self::tsv_file($titre_cote);
+            self::insert_volume($tsv_file);
         }
     }
+
+    public static function delete_titre($titre_cote)
+    {
+        if (!self::get_titre($titre_cote)) {
+            throw new Exception("Pas de titre trouvé pour la cote : ".$titre_cote);
+        }
+        $dico_titre = self::$titre['id'];
+        // effacer ici des données
+        $q = self::$pdo->prepare(
+            "DELETE FROM dico_rel WHERE dico_titre = ?"
+        );
+        $q->execute([$dico_titre]);
+        $q = self::$pdo->prepare(
+            "DELETE FROM dico_entree WHERE dico_titre = ?"
+        );
+        $q->execute([$dico_titre]);
+        
+    }
+
+
 
     /**
      * Insérer une vedette.
@@ -356,6 +387,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         self::$q[C::DICO_REL]->execute(self::$dico_rel);
     }
 
+
     /**
      * Insérer le fichier TSV d’un volume. 
      * Attention, il faut avoir nettoyé les tables avant,
@@ -364,31 +396,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
     public static function insert_volume($tsv_file)
     {
+        $time_start = microtime(true);
+
         if (!file_exists($tsv_file)) {
             throw new Exception("Fichier introuvable : ".$tsv_file);
         }
-        // le nom de fichier doit être une cote de volume
-        $tsv_name = pathinfo($tsv_file, PATHINFO_FILENAME);
-        $volume_cote = $tsv_name;
-        $sql = "SELECT * FROM dico_volume WHERE volume_cote = ?";
-        $q = self::$pdo->prepare($sql);
-        $q->execute(array($volume_cote));
-        $rows = $q->fetchAll();
-        if (!$rows || !count($rows)) {
-            throw new Exception("Cote de volume inconnue pour ce fichier : ".$tsv_file);
-        }
-        if (count($rows) > 1) {
-            throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Plus de 1 volume pour la cote : ".$volume_cote);
-        }
-        self::$volume = $rows[0];
-        $sql = "SELECT * FROM dico_titre WHERE id = ?";
-        $q = self::$pdo->prepare($sql);
-        $q->execute(array(self::$volume['dico_titre']));
-        self::$titre = $q->fetch();
-        if (!self::$titre) {
-            throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Rien dans la table dico_titre la cote de volume : ".$volume_cote);
-        }
-
         // RAZ
         foreach (array(
             C::DICO_TERME,
@@ -401,11 +413,64 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             });
         }
 
-        self::$dico_entree[C::_DICO_VOLUME] = self::$volume['id'];
-        self::$dico_entree[C::_DICO_TITRE] = self::$volume['dico_titre'];
-        self::$dico_entree[C::_VOLUME_ANNEE] = self::$volume['volume_annee'];
-        self::$dico_rel[C::_DICO_TITRE] = self::$volume['dico_titre'];
-        self::$dico_rel[C::_VOLUME_ANNEE] = self::$volume['volume_annee'];
+
+        // le nom de fichier doit être une cote de volume
+        $tsv_name = pathinfo($tsv_file, PATHINFO_FILENAME);
+        $volume_cote = $tsv_name;
+        $sql = "SELECT * FROM dico_volume WHERE volume_cote = ?";
+        $q = self::$pdo->prepare($sql);
+        $q->execute(array($volume_cote));
+        $records = $q->fetchAll();
+
+        // volume inconnu de l’ancienne base, créer (nécessaire dans l’appli)
+        if (!$records || !count($records)) {
+            if (!self::get_titre($volume_cote)) {
+                throw new Exception("Pas de titre trouvé pour la cote : ".$volume_cote);
+            }
+            $dico_titre = self::$titre['id'];
+            // 1 seul volume, prendre l’année du titre
+            $volume_annee = self::$titre['annee'];
+            // self::$dico_entree[C::_DICO_VOLUME] = null;
+            self::$dico_volume[C::_DICO_TITRE] = self::$titre['id'];
+            self::$dico_volume[C::_TITRE_NOM] = self::$titre['nom'];
+            self::$dico_volume[C::_TITRE_ANNEE] = self::$titre['annee'];
+            self::$dico_volume[C::_LIVANC] = null;
+            self::$dico_volume[C::_VOLUME_COTE] = self::$titre['cote'];
+            self::$dico_volume[C::_VOLUME_SOUSTITRE] = null;
+            self::$dico_volume[C::_VOLUME_ANNEE] = self::$titre['annee']; 
+            try {
+                self::$q[C::DICO_VOLUME]->execute(self::$dico_volume);
+            }
+            catch(Exception $e) {
+                fwrite(STDERR, $e->__toString());
+                fwrite(STDERR, print_r(self::$dico_volume, true));
+                exit();
+            }
+            self::$dico_entree[C::_DICO_VOLUME] = self::$pdo->lastInsertId();
+        }
+        else if (count($records) > 1) {
+            throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Plus de 1 volume pour la cote : ".$volume_cote);
+        }
+        else {
+            $volume = $records[0];
+            $sql = "SELECT * FROM dico_titre WHERE id = ?";
+            $q = self::$pdo->prepare($sql);
+            $q->execute(array($volume['dico_titre']));
+            self::$titre = $q->fetch();
+            if (!self::$titre) {
+                throw new Exception("Erreur dans les données, essayer MedictInsert::truncate(). Rien dans la table dico_titre pour la cote de volume : ".$volume_cote);
+            }
+            $dico_titre = $volume['dico_titre'];
+            $volume_annee = $volume['volume_annee'];
+            self::$dico_entree[C::_DICO_VOLUME] = $volume['id'];
+        }
+
+        // Des valeurs à fixer
+        self::$dico_entree[C::_DICO_TITRE] = $dico_titre;
+        self::$dico_entree[C::_VOLUME_ANNEE] = $volume_annee;
+        self::$dico_rel[C::_DICO_TITRE] = $dico_titre;
+        self::$dico_rel[C::_VOLUME_ANNEE] = $volume_annee;
+
         // Pas encore utilisé
         self::$dico_rel[C::_CLIQUE] = 0;
 
@@ -566,12 +631,18 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             // Locutions ou renvois, remplir la clique avec les orth
             if (($row[0] == C::REF || $row[0] == C::TERM) && !count($ref)) {
                 foreach ($orth as $id => $val) {
-                    self::insert_rel(
-                        $id,
-                        C::TYPE_REF,
-                        self::$dico_entree[C::_PAGE], // page de l’entrée
-                        self::$dico_entree[C::_REFIMG],
-                    );
+                    try {
+                        self::insert_rel(
+                            $id,
+                            C::TYPE_REF,
+                            self::$dico_entree[C::_PAGE], // page de l’entrée
+                            self::$dico_entree[C::_REFIMG],
+                        );
+                    } catch (Exception $e) {
+                        echo $e;
+                        print_r(self::$dico_entree);
+                        echo implode("\t", $row);
+                    }
                 }
             }
             // traiter un renvoi
@@ -586,9 +657,10 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             if ($row[0] == C::TERM) {
                 // si on veut dans la nomenclature
                 self::insert_rel($forme_id, C::TYPE_TERM, $page, $refimg);
-                // Peupler des renvois
-                $words = preg_split('@[^\p{L}]+@ui', $forme);
+                // Peupler des renvois avec les membres de la locution ?
+                /*
                 $words[] = $forme;
+                $words = preg_split('@[^\p{L}]+@ui', $forme);
                 foreach ($words as $w) {
                     if (isset(self::$stop[$w])) continue;
                     $id = self::terme_id($w, $forme_langue);
@@ -598,6 +670,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                     // il faudrait aussi faire passer les renvois avant les mots de locution
                     self::insert_rel($id, C::TYPE_REF, $page, $refimg);
                 }
+                */
                 continue;
             }
             // locution, on va voir si on veut ici des renvois en plus
@@ -607,8 +680,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             fwrite(STDERR, "???\t" . implode("\t", $row) . "\n");
         }
 
-        echo "…".$volume_cote."  OK\n";
-
+        echo "…". number_format(microtime(true) - $time_start, 3) . " s.\n";
         return;
     }
 

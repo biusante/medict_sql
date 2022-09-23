@@ -632,7 +632,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                         );
                     }
                 }
-                // si traduciton déjà vue ? on part
+                // si traduction déjà vue ? on part
                 if (isset($foreign[$forme_id])) continue;
                 $foreign[$forme_id] = $forme;
                 self::insert_rel($forme_id, C::TYPE_FOREIGN, $page, $refimg);
@@ -647,7 +647,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                             C::TYPE_REF,
                             self::$dico_entree[C::_PAGE], // page de l’entrée
                             self::$dico_entree[C::_REFIMG],
-                            true,
+                            true, // préciser que c’est la vedette
                         );
                     } catch (Exception $e) {
                         echo $e;
@@ -666,6 +666,8 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             }
             // locution
             if ($row[0] == C::TERM) {
+                // si déjà vu ne pas renvoyer ? Ou on laisse doublonner ?
+
                 // si on veut dans la nomenclature
                 self::insert_rel($forme_id, C::TYPE_TERM, $page, $refimg);
                 // Peupler des renvois avec les membres de la locution ?

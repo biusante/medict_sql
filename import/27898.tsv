@@ -2200,7 +2200,7 @@ term	Intoxication alcoolique chronique
 ref	Alcoolisme		
 term	Liqueurs alcooliques		
 term	Médicaments alcooliques		
-term	Teinture alcoolique, X		
+term	Teinture alcoolique		
 ref	Teinture		
 entry	Alcoolisé	0	
 orth	Alcoolisé		
@@ -4136,7 +4136,7 @@ ref	Iris
 entry	Anis	1	
 orth	Anis		
 term	Anis vert		
-term	A ms étoilé		
+term	Anis étoilé		
 pb	78	0088	
 entry	Anischurie	0	
 orth	Anischurie		
@@ -4202,7 +4202,7 @@ orth	Ankylostomasie
 ref	Anémie		
 entry	Ankylostome	1	
 orth	Ankylostome		
-term	A. duodénal		
+term	Ankylostome duodénal		
 pb	79	0089	
 entry	Ankylotie	0	
 orth	Ankylotie		
@@ -5039,7 +5039,7 @@ orth	Aortique
 term	Courbure aortique		
 term	Ouverture aortique du diaphragme		
 ref	Diaphragme		
-term	Sinus aortique X		
+term	Sinus aortique		
 ref	Aorte		
 term	Système aortique		
 term	Valvules aortiques		
@@ -8589,7 +8589,6 @@ orth	Beau
 foreign	das Schöne	deu	
 entry	Beaulieu	0	
 orth	Beaulieu		
-term	S talion d’hiver		
 entry	Bébeerine, Bébirine	0	
 orth	Bébeerine		
 orth	Bébirine		
@@ -9718,7 +9717,7 @@ entry	Blighia	0
 orth	Blighia		
 entry	Blot	0	
 orth	Blot		
-term	Perce-crâne de Blot, X		
+term	Perce-crâne de Blot		
 ref	Perce-crâne		
 pb	175	0185	
 entry	Bluter	0	
@@ -10990,7 +10989,7 @@ ref	Golfe
 term	Facies bulbaire		
 term	Paralysie bulbaire		
 ref	Paralysie		
-term	T issu bulbaire		
+term	Tissu bulbaire		
 ref	Phanérophore		
 entry	Bulbe	0	
 orth	Bulbe		
@@ -16680,7 +16679,7 @@ term	Circonvolution fusiforme
 ref	Circonvolutions		
 term	Circonvolution de l’hippocampe		
 term	Cir		
-term	convolutions de I’insula		
+term	convolutions de l’insula		
 term	Circonvolutions oceipi		
 term	taies		
 term	Circonvolutions olf actives		
@@ -17447,7 +17446,7 @@ ref	Cæcum
 entry	Coefficient	0	
 orth	Coefficient		
 term	Coefficient d’oxydation urinaire		
-term	Coefficients urinaires Y		
+term	Coefficients urinaires		
 term	Coefficient urotoxique		
 term	Coefficient de Zerner		
 entry	Cœliadelphe	0	
@@ -19135,7 +19134,7 @@ entry	Coquelicot	0
 orth	Coquelicot		
 entry	Coquelourde	0	
 orth	Coquelourde		
-term	U anémone pulsat ille		
+term	anémone pulsatille		
 entry	Coqueluche	0	
 orth	Coqueluche		
 entry	Coqueluchon	0	
@@ -20463,8 +20462,8 @@ orth	Crête
 term	Crête dentaire ou gingivale		
 term	Crête occipitale		
 ref	Occipital		
-term	Crête urélrale-V		
-ref	Prétral		
+term	Crête urétrale		
+ref	Urétral		
 ref	Condylome		
 entry	Crétification	0	
 orth	Crétification		
@@ -25408,7 +25407,7 @@ orth	Écharde
 entry	Écharpe	1	
 orth	Écharpe		
 pb	526	0536	
-term	Écharpe de J.-L		
+term	Écharpe de J.-L. Petit		
 entry	Échauboulure	0	
 orth	Échauboulure		
 entry	Échauffant	0	
@@ -26224,7 +26223,7 @@ term	Synonyme d’altitude
 entry	Élévatoire	0	
 orth	Élévatoire		
 term	Élévatoire triploïde		
-term	Élévatoire de J.-L		
+term	Élévatoire de J.-L. Petit		
 entry	Élevure	0	
 orth	Élevure		
 entry	Éliminateur	0	
@@ -28036,7 +28035,7 @@ entry	Épreuve	0
 orth	Épreuve		
 term	Épreuvephotographique		
 ref	Photographie		
-term	Signe de L’épreuve		
+term	Signe de l’épreuve		
 entry	Éprouvette	0	
 orth	Éprouvette		
 entry	Epsom	0	
@@ -28488,7 +28487,6 @@ entry	Esprit	1
 orth	Esprit		
 term	Esprits animaux		
 pb	607	0617	
-term	f V		
 ref	Somnambulisme		
 ref	Entendement		
 ref	Logique		
@@ -29595,7 +29593,7 @@ entry	Expertise	0
 orth	Expertise		
 entry	Expirateur	0	
 orth	Expirateur		
-term	Z Muscle expirateur		
+term	Muscle expirateur		
 ref	Respiration		
 entry	Expiration	0	
 orth	Expiration		
@@ -29683,13 +29681,13 @@ entry	Exsudatif	0
 orth	Exsudatif		
 term	Choroïdite exsudative		
 ref	Choroïdite		
-term	Rétinite sxsudativé		
+term	Rétinite exsudative		
 ref	Rétinite		
 entry	Exsudation	0	
 orth	Exsudation		
 term	Exsudation ou exsudat plastiqué		
 ref	Rétinite		
-term	Globules de V exsudation		
+term	Globules de l’exsudation		
 ref	Leucocyte		
 entry	Extase	0	
 orth	Extase		
@@ -31775,14 +31773,7 @@ entry	Fœtus	1
 orth	Fœtus		
 ref	Embryon		
 ref	Corps		
-term	A trois mois		
-term	A seize semaines		
-term	A quatre mois		
 pb	673	0683	
-term	A vingt semaines		
-term	A six mois		
-term	A sept mois et demi		
-term	A neuf mois		
 term	Fœtus in fœlu		
 ref	Inclusion		
 term	Fœtus viable		
@@ -32293,7 +32284,7 @@ ref	Orbite
 term	Fosse ovale du cœur		
 term	Fosse ovale de Scarpa		
 ref	Oval		
-term	F osse palatine		
+term	Fosse palatine		
 ref	Palatin		
 term	Fosse pariétale		
 ref	Pariétal		
@@ -32641,7 +32632,6 @@ orth	Fromage
 entry	Fromager	1	
 orth	Fromager		
 pb	697	0707	
-term	B villosum		
 entry	Froment	0	
 orth	Froment		
 ref	Blé		
@@ -34224,7 +34214,7 @@ entry	Geyser	0
 orth	Geyser		
 entry	Ghée	0	
 orth	Ghée		
-term	Beurre de G liée		
+term	Beurre de Ghée		
 ref	Beurre		
 entry	Gianuzzi	0	
 orth	Gianuzzi		
@@ -45391,7 +45381,7 @@ term	Lithiase intestinale
 ref	Gravelle		
 entry	Lithiasique	0	
 orth	Lithiasique		
-term	A eide lithiasique		
+term	Acide lithiasique		
 entry	Lithiate	0	
 orth	Lithiate		
 entry	Lithine	0	
@@ -48896,7 +48886,7 @@ ref	Vésicatoire
 term	lodure de méthyle dibromé		
 term	Oxyde de méthyle		
 ref	Méthyliquè		
-term	Salicylate de méthyle X		
+term	Salicylate de méthyle		
 ref	Méthylsalicylique		
 entry	Méthylène	0	
 orth	Méthylène		
@@ -49808,7 +49798,7 @@ ref	Ambitieux
 ref	Mégalomanie		
 term	Monomanie religieuse		
 ref	Maladies		
-term	Monomanies sensoriales slurenrv S<î		
+term	Monomanies sensoriales ou sensorielles		
 term	Monomanie avec siupeui		
 ref	Stupeur		
 ref	Suicide		
@@ -50133,13 +50123,8 @@ ref	Arsénieux
 entry	Mortalité	2	
 orth	Mortalité		
 ref	Moyenne		
-term	Déter		
 pb	1066	1076	
-term	mination de la mortalité		
-term	P récautions à observer		
-term	Desiderata		
 ref	Table		
-term	Erreur à éviter		
 pb	1067	1077	
 ref	Léthalité		
 entry	Mortefontaine	0	
@@ -51446,7 +51431,7 @@ ref	Spécificité
 entry	Naturel, Elle	0	
 orth	Naturel		
 orth	Elle		
-term	C lassification naturelle		
+term	Classification naturelle		
 ref	Méthode		
 term	Enfant naturel		
 term	Parties naturelles		
@@ -70784,7 +70769,7 @@ term	Sirop de sucre
 ref	Sirop		
 term	Sucre de betterave		
 ref	Sucre		
-term	Sucre biliaire, V		
+term	Sucre biliaire		
 ref	Glycocholate		
 ref	Taurocholate		
 term	Sucre de canne ou de betterave		
@@ -74172,7 +74157,7 @@ term	Torsion des artères
 ref	Pince		
 pb	1704	1714	
 term	Torsion du cœur		
-term	Torsion de T humérus		
+term	Torsion de l’humérus		
 entry	Torticolis	0	
 orth	Torticolis		
 term	Torticolis		
@@ -74845,7 +74830,6 @@ entry	Trichine	0
 orth	Trichine		
 term	Trichina		
 term	Trichinella spiralis		
-term	fl P		
 term	Trichines adultes		
 entry	Trichiné, Trichineux	0	
 orth	Trichiné		
@@ -75821,7 +75805,7 @@ ref	Ulcère
 term	Ulcèrepianiforme simple		
 ref	Pian		
 term	Ulcère de Saigon		
-term	Ulcère simple de T estomac		
+term	Ulcère simple de l’estomac		
 term	Ulcère syriaque		
 term	Ulcères du col de l’utérus		
 term	Ulcérations d’origine vénérienne		
@@ -78084,7 +78068,7 @@ term	Vin scorbutique
 term	Vin		
 term	Vin chalybé		
 term	Vin créosoté		
-term	Vin diurétique de T Hôtel-Dieu		
+term	Vin diurétique de l’Hôtel-Dieu		
 ref	Vin		
 term	Vin diurétique amer de la Charité		
 ref	Vin		

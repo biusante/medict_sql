@@ -328,9 +328,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
     public static function insert_titre($titre_cote)
     {
         $time_start = microtime(true);
-        echo "[insert_titre] ".$titre_cote.' préparation… ';
+        if (!self::get_titre($titre_cote)) {
+            throw new Exception("Pas de titre trouvé pour la cote : ".$titre_cote);
+        }
+        echo "[insert_titre] ".$titre_cote . " (" . self::$titre['annee'] . ") " . self::$titre['nom'] . "\s";
         self::delete_titre($titre_cote);
-        echo " suppressions: ". number_format(microtime(true) - $time_start, 3) . " s.\n";
         $dico_titre = self::$titre['id'];
         $sql = "SELECT volume_cote FROM dico_volume WHERE dico_titre = ?";
         $q = self::$pdo->prepare($sql);

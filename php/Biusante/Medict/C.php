@@ -10,6 +10,7 @@ declare(strict_types=1);
 
 namespace Biusante\Medict;
 
+/** Constantes */
 class C
 {
     const DICO_ENTREE = 'dico_entree';

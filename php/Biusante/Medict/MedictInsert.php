@@ -377,6 +377,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
     private static function insert_orth($terme_id)
     {
         self::$dico_rel[C::_DICO_TERME] = $terme_id;
+        self::$dico_rel[C::_ORTH] = false; // non relevant
         self::$dico_rel[C::_RELTYPE] = C::TYPE_ORTH;
         self::$dico_rel[C::_PAGE] = self::$dico_entree[C::_PAGE];
         self::$dico_rel[C::_REFIMG] = self::$dico_entree[C::_REFIMG];

@@ -528,7 +528,9 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             }
             // À partir d’ici, une forme peut être utile
             $forme = preg_replace(
-                array('/^\P{L}+/ui', '/\P{L}$/ui'),
+                // supprimer quelques caractères avant et après
+                // laisser ) ]
+                array('/^[\s]+/ui', '/[\s\.,;]+$/ui'),
                 array('',            ''),
                 $row[1], 
             ); // nettoyer les humains

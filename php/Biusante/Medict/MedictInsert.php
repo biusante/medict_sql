@@ -252,8 +252,7 @@ class MedictInsert extends MedictUtil
             fwrite(STDERR, implode("\t", self::$dico_entree));
             fwrite(STDERR, print_r(self::$dico_terme, true));
         }
-        $id = self::$pdo->lastInsertId();
-
+        $id = intval(self::$pdo->lastInsertId());
         return $id;
     }
 
@@ -331,7 +330,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         if (!self::get_titre($titre_cote)) {
             throw new Exception("Pas de titre trouvé pour la cote : ".$titre_cote);
         }
-        echo "[insert_titre] ".$titre_cote . " (" . self::$titre['annee'] . ") " . self::$titre['nom'] . "\s";
+        echo "[insert_titre] ".$titre_cote . " (" . self::$titre['annee'] . ") " . self::$titre['nom'] . "\n";
         self::delete_titre($titre_cote);
         $dico_titre = self::$titre['id'];
         $sql = "SELECT volume_cote FROM dico_volume WHERE dico_titre = ?";
@@ -377,7 +376,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
     private static function insert_orth($terme_id)
     {
         self::$dico_rel[C::_DICO_TERME] = $terme_id;
-        self::$dico_rel[C::_ORTH] = false; // non relevant
+        self::$dico_rel[C::_ORTH] = null; // non relevant
         self::$dico_rel[C::_RELTYPE] = C::TYPE_ORTH;
         self::$dico_rel[C::_PAGE] = self::$dico_entree[C::_PAGE];
         self::$dico_rel[C::_REFIMG] = self::$dico_entree[C::_REFIMG];
@@ -516,8 +515,9 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             if ($row[0] == C::PB) {
                 // garder la mémoire de la page courante
                 $page = ltrim(trim($row[1], ' '), '0');
+                // si pas de refimg, on part silencieusement, ou on crie ?
                 $refimg = str_pad($row[2], 4, '0', STR_PAD_LEFT);
-                if($row[3]) $livancpages = $row[3];
+                if(isset($row[3]) && $row[3]) $livancpages = $row[3];
                 else $livancpages = null;
                 // ici un pb, le dire
                 if (!preg_match('/^\d\d\d\d$/', $refimg)) {
@@ -569,12 +569,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 self::$dico_entree[C::_PAGE] = $page;
                 self::$dico_entree[C::_REFIMG] = $refimg;
                 self::$dico_entree[C::_LIVANCPAGES] = $livancpages;
-                self::$dico_entree[C::_PPS] = $row[2];
-                if ($row[2] > 0 && is_numeric($page)) {
-                    self::$dico_entree[C::_PAGE2] = $page + $row[2];
-                }
-                else { // Ne pas oublier
-                    self::$dico_entree[C::_PAGE2] = null;
+                self::$dico_entree[C::_PPS] = 0;
+                self::$dico_entree[C::_PAGE2] = null;
+                if (isset($row[2]) && $row[2] > 0) {
+                    self::$dico_entree[C::_PPS] = $row[2];
+                    if (is_numeric($page)) self::$dico_entree[C::_PAGE2] = $page + $row[2];
                 }
                 try {
                     self::$q[C::DICO_ENTREE]->execute(self::$dico_entree);
@@ -591,10 +590,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             // Si rien ici, pê faut qu’on sort
             if (!$forme) continue;
             // langue locale ?
-            $forme_langue = $row[2];
+            $forme_langue = null;
+            if(isset($row[2])) $forme_langue = $row[2];
             // défaut, langue des vedettes
             if (!$forme_langue) $forme_langue = $orth_langue; 
-            $forme_id =self::terme_id($forme, $forme_langue);
+            $forme_id = self::terme_id($forme, $forme_langue);
 
 
             // vedette

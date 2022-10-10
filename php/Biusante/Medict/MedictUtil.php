@@ -67,7 +67,7 @@ class MedictUtil
         self::$pdo =  new PDO(
             "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['dbname'],
             self::$pars['user'],
-            self::$pars['pass'],
+            self::$pars['password'],
             array(
                 PDO::ATTR_PERSISTENT => false,
                 PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',

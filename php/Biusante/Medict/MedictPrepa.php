@@ -601,6 +601,17 @@ class MedictPrepa extends MedictUtil
         return $tsv_file;
     }
 
+    public static function refimg($tsv_file, $diff)
+    {
+        $read = fopen($tsv_file, 'r');
+        $write = fopen($tsv_file.".tsv", 'w');
+        while (($row = fgetcsv($read, null, "\t")) !== FALSE) {
+            if ($row[0] == 'pb') {
+                $row[2] = $row[1] + $diff;
+            }
+            fwrite($write, implode("\t", $row)."\n");
+        }
+    }
 
 
 }

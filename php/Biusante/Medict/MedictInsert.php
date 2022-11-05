@@ -324,8 +324,6 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         $q->execute([]);
         while ($row = $q->fetch()) {
             self::insert_titre($row['cote']);
-            // tester le premier fichier
-            break;
         }
     }
 

@@ -70,7 +70,7 @@ ref	De Gorris 1601
     <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="tei:entry | tei:entryFree">
+  <xsl:template match="tei:entry | tei:entryFree" name="entry">
     <xsl:text>entry</xsl:text>
     <xsl:value-of select="$tab"/>
     <!-- Vedette -->
@@ -94,6 +94,8 @@ ref	De Gorris 1601
     <xsl:value-of select="$lf"/>
     -->
   </xsl:template>
+  
+
 
   <xsl:template match="tei:orth">
     <xsl:value-of select="local-name()"/>
@@ -117,32 +119,68 @@ ref	De Gorris 1601
 
 
 
-  <xsl:template match="tei:sense/tei:term">
-    <xsl:text>term</xsl:text>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="$lf"/>
+  <xsl:template match="tei:sense[.//tei:term]">
+    <xsl:for-each select=".//tei:term">
+      <xsl:text>term</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="normalize-space(.)"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$lf"/>
+    </xsl:for-each>
+    <xsl:choose>
+      <!-- pas de suggestion si Littré-Gilbert 1907 -->
+      <xsl:when test="ancestor::tei:entry[@corresp='medict37020d.xml']"/>
+      <xsl:otherwise>
+        <xsl:text>clique</xsl:text>
+        <xsl:value-of select="$tab"/>
+        <xsl:for-each select=".//tei:term">
+          <xsl:if test="position() != 1"> | </xsl:if>
+          <xsl:value-of select="normalize-space(.)"/>
+        </xsl:for-each>
+        <xsl:for-each select=".//tei:ref">
+          <xsl:text> | </xsl:text>
+          <xsl:value-of select="normalize-space(.)"/>
+        </xsl:for-each>
+        <xsl:for-each select=".//tei:xr">
+          <xsl:text> | </xsl:text>
+          <xsl:value-of select="normalize-space(.)"/>
+        </xsl:for-each>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="$lf"/>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:apply-templates select=".//tei:pb"/>
   </xsl:template>
 
-  <xsl:template match="tei:entry//tei:ref | tei:entryFree//tei:ref">
-    <xsl:value-of select="local-name()"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="$tab"/>
-    <xsl:value-of select="$lf"/>
+  <xsl:template match="tei:ref | tei:xr">
+    <xsl:choose>
+      <!-- pas de suggestion si Littré-Gilbert 1907 -->
+      <xsl:when test="ancestor::tei:entry[@corresp='medict37020d.xml']"/>
+      <xsl:otherwise>
+        <xsl:text>clique</xsl:text>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:for-each select="tei:ref">
+          <xsl:text> | </xsl:text>
+          <xsl:value-of select="normalize-space(.)"/>
+        </xsl:for-each>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="$tab"/>
+        <xsl:value-of select="$lf"/>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
 
-  <!-- Ne pas pas sortir les traductions sortant du Littré-Gilbert 1907 
-    si déjà dans Littré-Robin 1873 -->
-  <xsl:template match="tei:entry[@corresp='medict37020d.xml']/tei:dictScrap"/>
 
   <xsl:template match="tei:foreign">
     <xsl:choose>
+      <!-- su comme non sûr -->
       <xsl:when test="@cert and @cert = 'low'"/>
+      <!-- pas de suggestion si Littré-Gilbert 1907 -->
+      <xsl:when test="ancestor::tei:entry[@corresp='medict37020d.xml']"/>
       <xsl:otherwise>
         <xsl:value-of select="local-name()"/>
         <xsl:value-of select="$tab"/>

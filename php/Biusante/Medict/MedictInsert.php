@@ -17,13 +17,15 @@ use Exception, Normalizer, PDO;
 class MedictInsert extends MedictUtil
 {
     /** Propriétés du titre en cours de traitement */
-    static $titre = null;
+    private static $titre = null;
     /** Table de données en cours de traitement */
-    static $data = null;
+    private static $data = null;
+    /** Cache mémoire de termes */
+    private static $terme_id = [];
     /** Dossier des fichiers tsv */
-    static $tsv_dir;
+    private static $tsv_dir;
     /** Insérer un terme */
-    static $dico_terme = array(
+    private static $dico_terme = array(
         C::_FORME => null,
         C::_LANGUE => -1,
         C::_DEFORME => null,
@@ -33,20 +35,21 @@ class MedictInsert extends MedictUtil
         C::_BETACODE => null,
     );
     /** Insérer une relation */
-    static $dico_rel = array(
+    private static $dico_rel = array(
         C::_DICO_TITRE => -1,
         C::_VOLUME_ANNEE => -1,
         C::_DICO_ENTREE => -1,
         C::_PAGE => null,
         C::_REFIMG => -1,
-        C::_DICO_TERME => -1,
         C::_RELTYPE => -1,
-        C::_ORTH => null,
         C::_CLIQUE => -1,
+        C::_DICO_TERME => -1,
+        C::_ORTH => null,
     );
-    
+    /** Cache de clique */
+    private static $clique = null;
     /** Insérer une entrée (champs en ordre de stabilité) */
-    static $dico_entree = array(
+    private static $dico_entree = array(
         C::_VEDETTE => null,
         C::_DICO_TITRE => -1,
         C::_DICO_VOLUME => -1,
@@ -58,7 +61,7 @@ class MedictInsert extends MedictUtil
         C::_PAGE2 => null,
     );
     /** Insérer les informations bibliographiques d’un volume */
-    static $dico_volume = array(
+    private static $dico_volume = array(
         C::_DICO_TITRE => -1,
         C::_TITRE_NOM => null,
         C::_TITRE_ANNEE => null,
@@ -204,6 +207,12 @@ class MedictInsert extends MedictUtil
         $deforme = self::deforme($forme, $langue);
         // passer la langue en nombre
         $langue = self::$langs[$langue] ?? NULL;
+        // tester cache mémoire
+        $key = $langue . '_' . $deforme;
+        if (isset(self::$terme_id[$key])) {
+            return self::$terme_id[$key];
+        }
+
         if ($langue) {
             self::$q['forme_langue_id']->execute(array($deforme, $langue));
             $row = self::$q['forme_langue_id']->fetch(PDO::FETCH_NUM);
@@ -213,12 +222,15 @@ class MedictInsert extends MedictUtil
             $row = self::$q['forme_id']->fetch(PDO::FETCH_NUM);
         }
         if ($row) { // le terme existe, retourner son identifiant
-            return $row[0];
+            // si alimentation incrémentale, mot en base mais pas en mémoire
+            $terme_id = intval($row[0]);
+            self::$terme_id[$key] = $terme_id;
+            return $terme_id;
         }
         // normaliser l’accentuation (surtout pour le grec)
         $forme = Normalizer::normalize($forme, Normalizer::FORM_KC);
         // Assurer une majuscule initiale
-        $forme = mb_convert_case(mb_substr($forme, 0, 1),MB_CASE_UPPER ) . mb_substr($forme, 1);
+        $forme = mb_convert_case(mb_substr($forme, 0, 1), MB_CASE_UPPER ) . mb_substr($forme, 1);
         self::$dico_terme[C::_FORME] = $forme;
         self::$dico_terme[C::_LANGUE] = $langue;
         self::$dico_terme[C::_DEFORME] = $deforme;
@@ -252,8 +264,9 @@ class MedictInsert extends MedictUtil
             fwrite(STDERR, implode("\t", self::$dico_entree));
             fwrite(STDERR, print_r(self::$dico_terme, true));
         }
-        $id = intval(self::$pdo->lastInsertId());
-        return $id;
+        $terme_id = intval(self::$pdo->lastInsertId());
+        self::$terme_id[$key] = $terme_id;
+        return $terme_id;
     }
 
 
@@ -311,6 +324,8 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         $q->execute([]);
         while ($row = $q->fetch()) {
             self::insert_titre($row['cote']);
+            // tester le premier fichier
+            break;
         }
     }
 
@@ -375,27 +390,86 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
      */
     private static function insert_orth($terme_id)
     {
-        self::$dico_rel[C::_DICO_TERME] = $terme_id;
-        self::$dico_rel[C::_ORTH] = null; // non relevant
-        self::$dico_rel[C::_RELTYPE] = C::TYPE_ORTH;
+        self::$dico_rel[C::_RELTYPE] = C::RELTYPE_ORTH;
         self::$dico_rel[C::_PAGE] = self::$dico_entree[C::_PAGE];
         self::$dico_rel[C::_REFIMG] = self::$dico_entree[C::_REFIMG];
+        self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
+        self::$dico_rel[C::_DICO_TERME] = $terme_id;
+        self::$dico_rel[C::_ORTH] = true;
         self::$q[C::DICO_REL]->execute(self::$dico_rel);
     }
 
     /**
-     * Insérer une relation mots associés
+     * Insérer une relation mots associés liée par l’article
+     * Ne sert qu’aux traductions
      */
-    private static function insert_rel($dico_terme, $reltype, $page, $refimg, $orth=null)
+    private static function insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
     {
-        self::$dico_rel[C::_DICO_TERME] = $dico_terme;
+        self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
         self::$dico_rel[C::_RELTYPE] = $reltype;
         self::$dico_rel[C::_PAGE] = $page;
         self::$dico_rel[C::_REFIMG] = $refimg;
         self::$dico_rel[C::_ORTH] = $orth;
+        self::$dico_rel[C::_DICO_TERME] = $dico_terme;
         self::$q[C::DICO_REL]->execute(self::$dico_rel);
     }
 
+    /**
+     * Obtenir un nouvel identifiant de clique
+     */
+    private static function clique()
+    {
+        if (self::$clique === null) {
+            $sql = "SELECT MAX(clique) FROM dico_rel";
+            self::$clique = self::$pdo->query($sql)->fetchColumn();
+        }
+        self::$clique++;
+        return self::$clique;
+    }
+
+    /**
+     * Insérer une clique.
+     * $forme_liste = "Vedette | locution | renvoi";
+     */
+    private static function insert_clique($page, $refimg, $orth_ids, $forme_liste, $langue)
+    {
+        // collecter les termmes à lier
+        $terme_ids = [];
+        foreach(preg_split("/ *\| */", trim($forme_liste)) as $forme) {
+            $terme_id = self::terme_id($forme, $langue);
+            if (isset($orth_ids[$terme_id])) continue;
+            $terme_ids[] = $terme_id;
+        }
+        $terme_ids = array_unique($terme_ids);
+        // vérifier l’entrée
+        if (!count($terme_ids)) {
+            // pb de balisage, locution mal attrapée
+            // fwrite(STDERR, "Clique, pas de mot trouvé dans : “$forme_liste\” p. $page\n");
+            return null;
+        }
+        if (!$orth_ids || !count($orth_ids)) {
+            fwrite(STDERR, 'Clique, pas de vedette à relier ? p. ' . $page."\n");
+            return null;
+        }
+        self::$dico_rel[C::_RELTYPE] = C::RELTYPE_CLIQUE;
+        self::$dico_rel[C::_PAGE] = $page;
+        self::$dico_rel[C::_REFIMG] = $refimg;
+        // si plus d’une vedette, ne pas créer le lien entre vedette ici,
+        // (doublons, fausse page) multiplier les cliques
+        foreach($orth_ids as $dico_terme => $forme) {
+            // id clique
+            self::$dico_rel[C::_CLIQUE] = self::clique();
+            self::$dico_rel[C::_ORTH] = true;
+            self::$dico_rel[C::_DICO_TERME] = $dico_terme;
+            self::$q[C::DICO_REL]->execute(self::$dico_rel);
+            // 
+        }
+        foreach($terme_ids as $dico_terme) {
+            self::$dico_rel[C::_ORTH] = null;
+            self::$dico_rel[C::_DICO_TERME] = $dico_terme;
+            self::$q[C::DICO_REL]->execute(self::$dico_rel);
+        }
+    }
 
     /**
      * Insérer le fichier TSV d’un volume. 
@@ -481,29 +555,52 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         self::$dico_rel[C::_DICO_TITRE] = $dico_titre;
         self::$dico_rel[C::_VOLUME_ANNEE] = $volume_annee;
 
-        // Pas encore utilisé
-        self::$dico_rel[C::_CLIQUE] = 0;
 
 
         $orth_langue = self::$titre['orth_langue'];
         // forcer la langue par défaut ?
-        // if (!$orth_lang) $orth_lang = 'fra';
+        // if (!$orth_langue) $orth_langue = 'fra';
         // valeurs par défaut
         echo "[insert_volume] ".$volume_cote.'… ';
         // Charger la totalité du fichier dans un tableau 
         // pour calculer la taille des entrées
         $handle = fopen($tsv_file, 'r');
         // tableau des orth rencontrées dans une entrées
-        $orth = ['pour les fausse pages'];
-        // tableau des ref rencontrés dans une entrée (évite les doublons)
-        $ref = [];
+        $orths = ['pour les fausse pages'];
         // tableau des traductions renconrées dans une entrée (évite les doublons)
-        $foreign = [];
+        $foreigns = [];
         // page courante
         $page = null;
         $refimg = null;
         $livancpages = null;
-        while (($row = fgetcsv($handle, null, "\t")) !== FALSE) {
+        while (true) {
+
+            $row = fgetcsv($handle, null, "\t");
+            // ce qu’il faut faire avant une nouvelle entrée ou en fin de fichier
+            if ($row===FALSE || $row[0] == C::ENTRY) {
+                // si plusieurs orth, les envoyer en clique à la page du début d’entrée
+                if(count($orths) >= 2) {
+                    self::$dico_rel[C::_RELTYPE] = C::RELTYPE_CLIQUE;
+                    self::$dico_rel[C::_PAGE] = self::$dico_entree[C::_PAGE];
+                    self::$dico_rel[C::_REFIMG] = self::$dico_entree[C::_REFIMG];
+                    self::$dico_rel[C::_CLIQUE] = self::clique();
+                    self::$dico_rel[C::_ORTH] = true;
+                    foreach ($orths as $dico_terme => $forme) {
+                        self::$dico_rel[C::_DICO_TERME] = $dico_terme;
+                        self::$q[C::DICO_REL]->execute(self::$dico_rel);
+                    }
+                }
+                // si pas d’événement orth depuis la dernière entrée
+                // envoyer la vedette
+                if (!count($orths) && self::$dico_entree[C::_VEDETTE]) {
+                    $terme_id = self::terme_id(self::$dico_entree[C::_VEDETTE], $orth_langue);
+                    self::insert_orth($terme_id);
+                }
+            }
+            // ne pas oublier de sortir si fin de fichier
+            if ($row===FALSE) break;
+
+
             // ceci n’est pas une chaîne elsif mais une suite de if
             // un if finit généralement par un continue
 
@@ -535,30 +632,11 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 $row[1], 
             ); // nettoyer les humains
 
-            // Entrée, tout fermer de la précédente, ouvrir l’actuelle
+            // Ouvrir une entrée
             if ($row[0] == C::ENTRY) {
-                // pas vu de renvoi dans cette entrée, si plusieurs orth, les envoyer comme renvois
-                if(!count($ref) && count($orth) >= 2) {
-                    foreach ($orth as $id => $val) {
-                        self::insert_rel(
-                            $id,
-                            C::TYPE_REF,
-                            self::$dico_entree[C::_PAGE], // page de l’entrée
-                            self::$dico_entree[C::_REFIMG],
-                            true,
-                        );
-                    }
-                }
-                // si pas d’événement orth depuis la dernière entrée
-                // envoyer la vedette
-                if (!count($orth) && self::$dico_entree[C::_VEDETTE]) {
-                    $terme_id = self::terme_id(self::$dico_entree[C::_VEDETTE], $orth_langue);
-                    self::insert_orth($terme_id);
-                }
                 // RAZ des états 
-                $ref = [];
-                $orth = [];
-                $foreign = [];
+                $orths = [];
+                $foreigns = [];
 
                 // titre forgé comme [Page de faux-titre]
                 if (preg_match('/^\[[^]]*\]$/', $forme)) $forme = NULL;
@@ -601,80 +679,34 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             if ($row[0] == C::ORTH) {
                 self::insert_orth($forme_id); // ajouter la relation vedette
                 // enregistrer la vedette, peut servir pour les renvois et les traductions, le no de page sera celle de l’entrée
-                $orth[$forme_id] = $forme;
+                $orths[$forme_id] = $forme;
                 continue;
             }
-            // en cas de locution,  renvoi ou traduction
-            // sans doute des trucs à factoriser
-            // ici, pas de continue en fin d’if, la suite attend
+            // si pas vu de <orth> jusqu’ici, prendre la vedette
             if (
                 $row[0] == C::TERM 
              || $row[0] == C::FOREIGN 
-             || $row[0] == C::REF
+             || $row[0] == C::CLIQUE
             ) {
                 // pas encore vu de orth ici ? pas bien
                 // on prend la vedette 
-                if (count($orth) < 1) {
+                if (count($orths) < 1) {
                     $terme_id = self::terme_id(
                         self::$dico_entree[C::_VEDETTE], 
                         $orth_langue
                     );
-                    $orth[$terme_id] = self::$dico_entree[C::_VEDETTE];
+                    $orths[$terme_id] = self::$dico_entree[C::_VEDETTE];
                 }
-            }
-            // traduction
-            if ($row[0] == C::FOREIGN) {
-                // 1e traduction, envoyer les vedettes dans la clique
-                if (!count($foreign)) {
-                    foreach ($orth as $id => $val) {
-                        self::insert_rel(
-                            $id,
-                            C::TYPE_FOREIGN,
-                            // page de l’entrée
-                            self::$dico_entree[C::_PAGE],
-                            self::$dico_entree[C::_REFIMG],
-                            true,
-                        );
-                    }
-                }
-                // si traduction déjà vue ? on part
-                if (isset($foreign[$forme_id])) continue;
-                $foreign[$forme_id] = $forme;
-                self::insert_rel($forme_id, C::TYPE_FOREIGN, $page, $refimg);
-                continue;
-            }
-            // Locutions ou renvois, remplir la clique avec les orth
-            if (($row[0] == C::REF || $row[0] == C::TERM) && !count($ref)) {
-                foreach ($orth as $id => $val) {
-                    try {
-                        self::insert_rel(
-                            $id,
-                            C::TYPE_REF,
-                            self::$dico_entree[C::_PAGE], // page de l’entrée
-                            self::$dico_entree[C::_REFIMG],
-                            true, // préciser que c’est la vedette
-                        );
-                    } catch (Exception $e) {
-                        echo $e;
-                        print_r(self::$dico_entree);
-                        echo implode("\t", $row);
-                    }
-                }
-            }
-            // traiter un renvoi
-            if ($row[0] == C::REF) {
-                // si ref déjà vu on part
-                if (isset($ref[$forme_id])) continue;
-                $ref[$forme_id] = $forme;
-                self::insert_rel($forme_id, C::TYPE_REF, $page, $refimg);
-                continue;
             }
             // locution
             if ($row[0] == C::TERM) {
+                // pb de balisage des locutions, ex: emploi substantif d’un adjectif
+                if (isset($orths[$forme_id])) continue;
                 // si déjà vu ne pas renvoyer ? Ou on laisse doublonner ?
 
                 // si on veut dans la nomenclature
-                self::insert_rel($forme_id, C::TYPE_TERM, $page, $refimg);
+                // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
+                self::insert_rel(C::RELTYPE_TERM, $page, $refimg, $forme_id);
                 // Peupler des renvois avec les membres de la locution ?
                 /*
                 $words[] = $forme;
@@ -691,11 +723,38 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 */
                 continue;
             }
-            // locution, on va voir si on veut ici des renvois en plus
+            // traduction
+            if ($row[0] == C::FOREIGN) {
+                // 1e traduction, envoyer les vedettes pour l’entrée
+                if (!count($foreigns)) {
+                    foreach ($orths as $dico_terme => $forme) {
+                        // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
+                        self::insert_rel(
+                            C::RELTYPE_FOREIGN,
+                            // page de l’entrée
+                            self::$dico_entree[C::_PAGE],
+                            self::$dico_entree[C::_REFIMG],
+                            $dico_terme,
+                            true,
+                        );
+                    }
+                }
+                // si traduction déjà vue ? on part
+                if (isset($foreign[$forme_id])) continue;
+                $foreign[$forme_id] = $forme;
+                // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
+                self::insert_rel(C::RELTYPE_FOREIGN, $page, $refimg, $forme_id);
+                continue;
+            }
+            // ligne de clique à lier avec les vedettes
+            if ($row[0] == C::CLIQUE) {
+                self::insert_clique($page, $refimg, $orths, $row[1], $orth_langue);
+                continue;
+            }
 
             // Défaut, rien
             fwrite(STDERR, implode("\t", self::$dico_entree) . "\n");
-            fwrite(STDERR, "???\t" . implode("\t", $row) . "\n");
+            fwrite(STDERR, "Commande inconnue :\t" . implode("\t", $row) . "\n");
         }
 
         echo "…". number_format(microtime(true) - $time_start, 3) . " s.\n";

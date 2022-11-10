@@ -2,15 +2,15 @@
 
 Cet entrepôt contient le code et les données pour alimenter la base MySQL pour le Métadictionnaire Médica.
 
-## Chargement et génération
+## Chargement rapide
 
-Méthode rapide : dans son instance MySQL, charger les tables (schéma et données) contenues ici [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe.
+Dans son instance MySQL, charger les tables (schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe.
 
-**Regénération (~20mn)**
+## Génération des tables relationnelles
 
 * Récupérer l’entrepôt des fichiers xml/tei des dictionnaires balisés finement
   <br/>mes_source$ git clone https://github.com/biusante/medict_xml.git
-* Récupérer les sources de cet entrepôt
+* Récupérer cet entrepôt
   <br/>mes_source$ git clone https://github.com/biusante/medict_sql.git
 * Entrer dans le dossier de génération des données
   <br/>mes_source$ cd medict_sql
@@ -19,13 +19,14 @@ Méthode rapide : dans son instance MySQL, charger les tables (schéma et donné
   <br/>medict_sql$ vi pars.php
 * Lancer la génération des données avec le script [build.php](build.php)
   <br/>medict_sql$ php build.php
+  <br/>Attendre une vingtaine de minutes à voir se charger les volumes (le premier, Littré 1873, prend 300 s.)
 * retrouver les tables générées dans [data_sql/](data_sql/).
 
 Les étapes 
 
 1. Générer les données à partir de fichiers XML/TEI
-2. Charger la table des titres qui pilote l’insertion et la publication [dico_titre.tsv](dico_titre.tsv)
-3. Charger les éventuelles information de volumes, pour les titres en plusieurs tomes [dico_volume.tsv](dico_volume.tsv)
+2. Charger la table des titres qui pilote l’insertion [dico_titre.tsv](dico_titre.tsv)
+3. Charger les éventuelles informations de volumes, pour les titres en plusieurs tomes [dico_volume.tsv](dico_volume.tsv)
 4. Effacer toutes les données, notamment la table des mots indexés
 5. Charger les volumes selon l’ordre défini dans [dico_titre.tsv](dico_titre.tsv)
 
@@ -51,7 +52,9 @@ humaine.
 
 ## ordre d’insertion
 
-L’ordre d’insertion est piloté par le 
+L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire global ; or les graphies son inégalement précises 
+selon l’âge des données (ex : les accents). On commence donc par les doictionnaires indexés finement (avec le plus de données), et ensuite 
+en ordre chronologiqure du plus récent au plus ancien. Cet ordre est piloté par [dico_titre.tsv](dico_titre.tsv), selon la colonne **import_ordre** (1 = premier, 10 = après), puis **annee** (le plus récent réputé le plus exact).
 
 ~~~~
 [insert_titre] 37020d (1873) <u>Littré</u> <u>Robin</u> 13e éd.

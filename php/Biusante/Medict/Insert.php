@@ -106,47 +106,53 @@ class Insert extends Util
     }
 
     /**
-     * Recharge dico_volumes
+     * Charger les information de volumes dans dico_volume.tsv
      */
     static public function dico_volume()
     {
+        // charger le fichier de volumes dans un index, clé = cote livre
+        // first line, colums names
+        $volume_file = self::$home . 'dico_volume.tsv';
+        $handle = fopen($volume_file, 'r');
+        $sep = "\t";
+        $volume_index = [];
+        // première ligne, noms de colonnes
+        $cols = fgetcsv($handle, null, $sep);
+        $cols = array_flip($cols);
+
+        while (($data = fgetcsv($handle, null, $sep)) !== FALSE) {
+            $cell1 = trim($data[0]);
+            if (count($data) == 0) continue;
+            if (count($data) == 1 && !$cell1) continue;
+            if ($cell1 && $cell1[0] == '#') continue;
+            $titre_cote = $data[0];
+            // hack pour ne pas perdre les 0 initiaux
+            if ($titre_cote[0] === "_") $titre_cote = substr($titre_cote, 1);
+            $volume_index[strval($titre_cote)][] = $data;
+        }
+        
+
+
         self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         self::$pdo->exec("TRUNCATE dico_volume");
-        // supposons pour l’instant que l’ordre naturel est bon 
+        // Boucler sur les titres
         $sql =  "SELECT * FROM dico_titre "; // ORDER BY annee
         $qdico_titre = self::$pdo->prepare($sql);
         $qdico_titre->execute(array());
         while ($dico_titre = $qdico_titre->fetch()) {
-
             self::$dico_volume[C::_DICO_TITRE] = $dico_titre['id'];
             self::$dico_volume[C::_TITRE_NOM] = $dico_titre['nom'];
             self::$dico_volume[C::_TITRE_ANNEE] = $dico_titre['annee'];
-            // boucler sur les volumes
-            $sql = "SELECT * FROM livanc WHERE ";
-            if ($dico_titre['vols'] < 2) {
-                $sql .= " cote = ?";
-            } else {
-                $sql .= " cotemere = ? ORDER BY cote";
-            }
-            $volq = self::$pdo->prepare($sql);
-            $volq->execute(array($dico_titre['cote']));
-            
-            while ($volume = $volq->fetch(PDO::FETCH_ASSOC)) {
+            // par défaut, info titre
+            self::$dico_volume[C::_VOLUME_COTE] = $dico_titre['cote'];
+            self::$dico_volume[C::_VOLUME_ANNEE] = $dico_titre['annee'];
+            self::$dico_volume[C::_VOLUME_SOUSTITRE] = null;
+            self::$dico_volume[C::_LIVANC] = $dico_titre['livanc'];
 
-                // de quoi renseigner un enregistrement de volume
-                self::$dico_volume[C::_VOLUME_COTE] = $volume['cote'];
-                $soustitre = null;
-                if ($dico_titre['vol_re']) {
-                    $titre = trim(preg_replace('@[\s]+@u', ' ', $volume['titre']));
-                    preg_match('@'.$dico_titre['vol_re'].'@', $titre, $matches);
-                    if (isset($matches[1]) && $matches[1]) {
-                        $soustitre = trim($matches[1], ". \n\r\t\v\x00");
-                    }
-                }
-                self::$dico_volume[C::_VOLUME_SOUSTITRE] = $soustitre;
-                // livanc.annee : "An VII", livanc.annee_iso : "1798/1799"
-                self::$dico_volume[C::_VOLUME_ANNEE] = substr($volume['annee_iso'], 0, 4); 
-                self::$dico_volume[C::_LIVANC] = $volume['clenum'];
+            $titre_cote = $dico_titre['cote'];
+
+            // Titre sans info de volume (ou une seule), envoyer défaut
+            if (!isset($volume_index[$titre_cote]) || count($volume_index[$titre_cote]) < 2) {
                 try {
                     self::$q[C::DICO_VOLUME]->execute(self::$dico_volume);
                 }
@@ -155,10 +161,25 @@ class Insert extends Util
                     fwrite(STDERR, print_r(self::$dico_volume, true));
                     exit();
                 }
-                /*
-                $id = self::$pdo->lastInsertId();
-                self::$dico_entree[C::_DICO_VOLUME] = $id;
-                */
+                continue;
+            }
+            // ou bien charger des infos de volume
+            else {
+                foreach ($volume_index[$titre_cote] as $data) {
+                    self::$dico_volume[C::_VOLUME_COTE] = $data[$cols['volume_cote']];
+                    self::$dico_volume[C::_VOLUME_ANNEE] = $data[$cols['volume_annee']];
+                    self::$dico_volume[C::_VOLUME_SOUSTITRE] = $data[$cols['volume_soustitre']];
+                    self::$dico_volume[C::_LIVANC] = $data[$cols['livanc']];
+                    try {
+                        self::$q[C::DICO_VOLUME]->execute(self::$dico_volume);
+                    }
+                    catch(Exception $e) {
+                        fwrite(STDERR, $e->__toString());
+                        fwrite(STDERR, print_r(self::$dico_volume, true));
+                        exit();
+                    }
+                }
+                continue;
             }
         }
     }
@@ -444,7 +465,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             return null;
         }
         if (!$orth_ids || !count($orth_ids)) {
-            fwrite(STDERR, 'Clique, pas de vedette à relier ? p. ' . $page."\n");
+            fwrite(STDERR, "Clique, pas de vedette à relier ? p. $page, $forme_liste \n");
             return null;
         }
         self::$dico_rel[C::_RELTYPE] = C::RELTYPE_CLIQUE;
@@ -683,6 +704,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 $row[0] == C::TERM 
              || $row[0] == C::FOREIGN 
              || $row[0] == C::CLIQUE
+             || $row[0] == C::REF
             ) {
                 // pas encore vu de orth ici ? pas bien
                 // on prend la vedette 
@@ -743,7 +765,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 continue;
             }
             // ligne de clique à lier avec les vedettes
-            if ($row[0] == C::CLIQUE) {
+            if ($row[0] == C::CLIQUE || $row[0] == C::REF) {
                 self::insert_clique($page, $refimg, $orths, $row[1], $orth_langue);
                 continue;
             }

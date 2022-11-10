@@ -29,6 +29,17 @@ class Anc extends Util
     static $ftsv;
     /** Dossier où trouver les données anciennes, fixé par self::init() */
     protected static $anc_dir;
+    /** Insérer les informations bibliographiques d’un volume */
+    private static $dico_volume = array(
+        C::_DICO_TITRE => -1,
+        C::_TITRE_NOM => null,
+        C::_TITRE_ANNEE => null,
+        C::_LIVANC => -1,
+        C::_VOLUME_COTE => -1,
+        C::_VOLUME_SOUSTITRE => -1,
+        C::_VOLUME_ANNEE => -1,
+    );
+    
 
     public static function init()
     {
@@ -609,6 +620,64 @@ class Anc extends Util
         }
     }
 
+    /**
+     * Extraction d’infos des données anciennes pour produire 
+     * les infos de volume
+     */
+    static public function dico_volume()
+    {
+        self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
+        self::$pdo->exec("TRUNCATE dico_volume");
+        // supposons pour l’instant que l’ordre naturel est bon 
+        $sql =  "SELECT * FROM dico_titre "; // ORDER BY annee
+        $qdico_titre = self::$pdo->prepare($sql);
+        $qdico_titre->execute(array());
+        while ($dico_titre = $qdico_titre->fetch()) {
+
+            self::$dico_volume[C::_DICO_TITRE] = $dico_titre['id'];
+            self::$dico_volume[C::_TITRE_NOM] = $dico_titre['nom'];
+            self::$dico_volume[C::_TITRE_ANNEE] = $dico_titre['annee'];
+            // boucler sur les volumes
+            $sql = "SELECT * FROM livanc WHERE ";
+            if ($dico_titre['vols'] < 2) {
+                $sql .= " cote = ?";
+            } else {
+                $sql .= " cotemere = ? ORDER BY cote";
+            }
+            $volq = self::$pdo->prepare($sql);
+            $volq->execute(array($dico_titre['cote']));
+            
+            while ($volume = $volq->fetch(PDO::FETCH_ASSOC)) {
+
+                // de quoi renseigner un enregistrement de volume
+                self::$dico_volume[C::_VOLUME_COTE] = $volume['cote'];
+                $soustitre = null;
+                if ($dico_titre['vol_re']) {
+                    $titre = trim(preg_replace('@[\s]+@u', ' ', $volume['titre']));
+                    preg_match('@'.$dico_titre['vol_re'].'@', $titre, $matches);
+                    if (isset($matches[1]) && $matches[1]) {
+                        $soustitre = trim($matches[1], ". \n\r\t\v\x00");
+                    }
+                }
+                self::$dico_volume[C::_VOLUME_SOUSTITRE] = $soustitre;
+                // livanc.annee : "An VII", livanc.annee_iso : "1798/1799"
+                self::$dico_volume[C::_VOLUME_ANNEE] = substr($volume['annee_iso'], 0, 4); 
+                self::$dico_volume[C::_LIVANC] = $volume['clenum'];
+                try {
+                    self::$q[C::DICO_VOLUME]->execute(self::$dico_volume);
+                }
+                catch(Exception $e) {
+                    fwrite(STDERR, $e->__toString());
+                    fwrite(STDERR, print_r(self::$dico_volume, true));
+                    exit();
+                }
+                /*
+                $id = self::$pdo->lastInsertId();
+                self::$dico_entree[C::_DICO_VOLUME] = $id;
+                */
+            }
+        }
+    }
 
 }
 

@@ -23,7 +23,7 @@ class C
     const INTERM = 'interm';
     const ORTH = 'orth';
     const PB = 'pb';
-    // const REF = 'ref';
+    const REF = 'ref';
     const TERM = 'term';
     const CLIQUE = 'clique';
     const RELTYPE_ORTH = 1;

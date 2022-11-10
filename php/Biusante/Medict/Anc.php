@@ -21,7 +21,7 @@ include_once(__DIR__.'/MedictUtil.php');
  * en lecture seule aux tables Medica.
  */
 
-class Anc extends MedictUtil
+class Anc extends Util
 {
     /** Propriétés du titre en cours de traitement */
     static $dico_titre = null;

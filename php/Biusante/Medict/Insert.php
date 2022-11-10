@@ -9,12 +9,12 @@ declare(strict_types=1);
 
 namespace Biusante\Medict;
 
-use Exception, Normalizer, PDO;
+use Exception, Normalizer, PDO, ZipArchive;
 
 /**
  * Classe pour charger les tsv préparés avec 
  */
-class MedictInsert extends MedictUtil
+class Insert extends Util
 {
     /** Propriétés du titre en cours de traitement */
     private static $titre = null;
@@ -22,8 +22,6 @@ class MedictInsert extends MedictUtil
     private static $data = null;
     /** Cache mémoire de termes */
     private static $terme_id = [];
-    /** Dossier des fichiers tsv */
-    private static $tsv_dir;
     /** Insérer un terme */
     private static $dico_terme = array(
         C::_FORME => null,
@@ -104,7 +102,7 @@ class MedictInsert extends MedictUtil
     {
         self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         self::$pdo->exec("TRUNCATE dico_titre");
-        self::insert_table(self::home() . 'dico_titre.tsv', 'dico_titre');
+        self::insert_table(self::$home . 'dico_titre.tsv', 'dico_titre');
     }
 
     /**
@@ -351,14 +349,14 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         $q->execute(array($dico_titre));
         $done = false;
         while ($row = $q->fetch()) {
-            $tsv_file = self::tsv_file($row['volume_cote']);
-            self::insert_volume($tsv_file);
+            $events_file = self::events_file($row['volume_cote']);
+            self::insert_volume($events_file);
             $done = true;
         }
         // Pas de volumes connus de la pase anc, envoyer la cote comme volume
         if (!$done) {
-            $tsv_file = self::tsv_file($titre_cote);
-            self::insert_volume($tsv_file);
+            $events_file = self::events_file($titre_cote);
+            self::insert_volume($events_file);
         }
     }
 
@@ -475,12 +473,12 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
      * ou l’on produit des doublons.
      */
 
-    public static function insert_volume($tsv_file)
+    public static function insert_volume($events_file)
     {
         $time_start = microtime(true);
 
-        if (!file_exists($tsv_file)) {
-            fwrite(STDERR, "[insert_volume] Fichier introuvable : ".$tsv_file . "\n");
+        if (!file_exists($events_file)) {
+            fwrite(STDERR, "[insert_volume] Fichier introuvable : ".$events_file . "\n");
             return;
         }
         // RAZ
@@ -497,8 +495,8 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
 
         // le nom de fichier doit être une cote de volume
-        $tsv_name = pathinfo($tsv_file, PATHINFO_FILENAME);
-        $volume_cote = $tsv_name;
+        $events_name = pathinfo($events_file, PATHINFO_FILENAME);
+        $volume_cote = $events_name;
         $sql = "SELECT * FROM dico_volume WHERE volume_cote = ?";
         $q = self::$pdo->prepare($sql);
         $q->execute(array($volume_cote));
@@ -562,7 +560,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         echo "[insert_volume] ".$volume_cote.'… ';
         // Charger la totalité du fichier dans un tableau 
         // pour calculer la taille des entrées
-        $handle = fopen($tsv_file, 'r');
+        $handle = fopen($events_file, 'r');
         // tableau des orth rencontrées dans une entrées
         $orths = ['pour les fausse pages'];
         // tableau des traductions renconrées dans une entrée (évite les doublons)
@@ -759,8 +757,37 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         return;
     }
 
+    /**
+     * Dump des données importable dans phpMyAdmin
+     */
+    public static function zip($dst_dir)
+    {
+        $pars = self::pars();
+        // 
+        if (!isset($pars['mysqldump'])) {
+            throw new Exception("Binaire mysqldump non trouvé dans le fichier de paramétrage ./_pars.php.");
+        }
+        // mysqldump ne crée pas lui-même un dossier
+        if (!file_exists($dst_dir)) mkdir($dst_dir, 0777, true);
+        $mysqldump = $pars['mysqldump'];
+        $tables = ['dico_entree', 'dico_rel', 'dico_terme', 'dico_titre', 'dico_volume'];
+        $base = 'medict';
+        foreach ($tables as $table) {
+            $sql_file = $dst_dir . 'medict_' . $table . '.sql';
+            $cmd = "$mysqldump --user={$pars['user']} --password={$pars['password']} --host={$pars['host']} {$pars['base']} $table --result-file=$sql_file";
+            exec($cmd);
+            [ 'filename' => $sql_name, 'basename' => $sql_fname ] = pathinfo($sql_file);
+            $zip_file = $dst_dir . $sql_name . '.zip';
+            echo $zip_file . ' <- ' . $sql_fname . "\n";
+            if (file_exists($zip_file)) unlink($zip_file);
+            $zip = new ZipArchive();
+            $zip->open($zip_file, ZipArchive::CREATE);
+            $zip->addFile($sql_file, $sql_fname);
+            $zip->close();
+        }
+    }
 
 }
 
-MedictInsert::init();
+Insert::init();
 

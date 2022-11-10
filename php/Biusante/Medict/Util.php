@@ -10,7 +10,7 @@ declare(strict_types=1);
 
 namespace Biusante\Medict;
 
-use Normalizer, PDO;
+use Exception, Normalizer, PDO;
 
 /**
  * Méthodes partagées entre les scripts de productions de données
@@ -66,13 +66,28 @@ class Util
     }
 
     /**
+     * Prendre les paramètres
+     */
+    public static function pars()
+    {
+        // paramètres déjà chargés
+        if (self::$pars && count(self::$pars)) return self::$pars;
+        $pars_file = self::$home . 'pars.php';
+        if (!file_exists($pars_file)) {
+            throw new Exception("\n\nParamètres MySQL introuvables, attendus dans :\n$pars_file\ncf. modèle ./_pars.php\n\n");
+        }
+        self::$pars = include self::$home . 'pars.php';
+        return self::$pars;
+    }
+
+    /**
      * Connexion à la base de données
      */
     public static function connect()
     {
-        self::$pars = include self::$home . 'pars.php';
+        self::pars();
         self::$pdo =  new PDO(
-            "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['dbname'],
+            "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['base'],
             self::$pars['user'],
             self::$pars['password'],
             array(

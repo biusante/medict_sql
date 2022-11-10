@@ -13,26 +13,27 @@ namespace Biusante\Medict;
 use Normalizer, PDO;
 
 /**
- * Méthodes partagées entre les deux scripts de productions des données
+ * Méthodes partagées entre les scripts de productions de données
  */
 
 mb_internal_encoding("UTF-8");
-MedictUtil::init();
-class MedictUtil
+class Util
 {
-    /** Dossier parent du projet */
-    private static $home;
+    /** Dossier parent du projet, fixé par self::init() */
+    protected static $home;
+    /** Dossier où trouver les données nouvelles, fixé par self::init() */
+    protected static $events_dir;
     /** Paramètres inmportés */
     static public $pars;
     /** SQLite link */
     static public $pdo;
-    /** Prepared statements shared between methods */
+    /** Requête préparée partagées */
     static $q = array();
     /** Des mots vides, toujours utiles */
     static $stop;
     /** Table de correspondances betacode */
     static $grc_lat;
-    /** Ordre des langues */
+    /** Code int des langues en ordre de priorité pour la base Medict */
     static $langs = array(
         'fra' => 1,
         'lat' => 2,
@@ -42,25 +43,31 @@ class MedictUtil
         'spa' => 6,
         'ita' => 7,
     );
+
+    /**
+     * Intialize des champs statiques
+     */
     public static function init()
     {
-        self::$home = dirname(dirname(dirname(__DIR__))) . '/';
+        self::$home = dirname(__DIR__, 3) . '/';
+        self::$events_dir = self::$home . 'data_events/';
         // Charger les mots vides
         self::$stop = array_flip(explode("\n", file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'stop.csv')));
     }
 
-    public static function home()
+    /**
+     * Chemin d’un fichier événements à partir d’une cote de volume
+     */
+    protected static function events_file($volume_cote)
     {
-        return self::$home;
-    }
-
-    protected static function tsv_file($volume_cote)
-    {
-        $file = self::home().'import/'.$volume_cote.'.tsv';
+        $file = self::$events_dir . $volume_cote.'.tsv';
         if (!file_exists(dirname($file))) mkdir(dirname($file), 0777, true);
         return $file;
     }
 
+    /**
+     * Connexion à la base de données
+     */
     public static function connect()
     {
         self::$pars = include self::$home . 'pars.php';
@@ -86,6 +93,9 @@ class MedictUtil
         self::$pdo->getAttribute(PDO::ATTR_CONNECTION_STATUS), "\n";
     }
 
+    /**
+     * Désaccentuation d’une forme, à partager avec l’application de diffusion
+     */
     public static function deforme($s, $langue=null)
     {
         // bas de casse
@@ -118,13 +128,17 @@ class MedictUtil
         return trim($s);
     }
 
+    /**
+     * Petit outil de base
+     */
     public static function starts_with($haystack, $needle)
     {
         return substr($haystack, 0, strlen($needle)) === $needle;
     }
 
     /**
-     * Charger une table avec des lignes tsv
+     * Charger une table tsv dans la base MySQL
+     * La 1ère ligne doit avoir des colonnes qui existent dans $table
      */
     static function insert_table($file, $table, $separator="\t")
     {
@@ -152,5 +166,5 @@ class MedictUtil
         }
         self::$pdo->commit();
     }
-
 }
+Util::init();

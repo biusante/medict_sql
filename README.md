@@ -8,11 +8,17 @@ Méthode rapide : dans son instance MySQL, charger les tables (schéma et donné
 
 **Regénération (~20mn)**
 
+* Récupérer l’entrepôt des fichiers xml/tei des dictionnaires balisés finement
+  <br/>mes_source$ git clone https://github.com/biusante/medict_xml.git
+* Récupérer les sources de cet entrepôt
+  <br/>mes_source$ git clone https://github.com/biusante/medict_sql.git
+* Entrer dans le dossier de génération des données
+  <br/>mes_source$ cd medict_sql
 * Fournir ses paramètres (ex : connexion MySQL) en copiant [_pars.php](_pars.php) vers pars.php, et le renseigner
-  <br/>$ cp _pars.php pars.php
-  <br/>$ vi pars.php
+  <br/>medict_sql$ cp _pars.php pars.php
+  <br/>medict_sql$ vi pars.php
 * Lancer la génération des données avec le script [build.php](build.php)
-  <br/>$ php build.php
+  <br/>medict_sql$ php build.php
 * retrouver les tables générées dans [data_sql/](data_sql/).
 
 Les étapes 
@@ -21,16 +27,20 @@ Les étapes
 2. Charger la table des titres qui pilote l’insertion et la publication [dico_titre.tsv](dico_titre.tsv)
 3. Charger les éventuelles information de volumes, pour les titres en plusieurs tomes [dico_volume.tsv](dico_volume.tsv)
 4. Effacer toutes les données, notamment la table des mots indexés
-5. Charger les volumes selon l’ordre défini dans [dico_titre.tsv](dico_titre.tsv), pour rentrer les données les plus fiables d’abord
+5. Charger les volumes selon l’ordre défini dans [dico_titre.tsv](dico_titre.tsv)
 
 ## Arbre des fichiers
 
-* [anc_sql/](anc_sql/) — export SQL des données de la base orginale Médica, laissé pour mémoire.
-* [anc_tsv/](anc_tsv/) — données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter le dossier ci dessous.
-* [data_events/](data_events/) — données chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format
-* [data_sql/](data_sql/) — données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
-* .gitattributes, .gitignore, README.md — 
-* [medict.mwb](medict.mwb) — Schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/).
+* [data_sql/](data_sql/) — GÉNÉRÉ, données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
+* [pars.php](pars.php) — ÉDITABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
+* [build.php](build.php) — script de génération de la totalité des données.
+* [dico_titre.tsv](dico_titre.tsv) — ÉDITABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
+* [dico_volume.tsv](dico_volume.tsv) — ÉDITABLE, données bibliographiques pour titres de plus d’un volume.
+* [data_events/](data_events/) — ÉDITABLE et GÉNÉRÉ (source xml), données chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [medict.mwb](medict.mwb), [medict.svg](medict.svg), [medict.png](medict.png) — Schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/), avec des vues image vectorielle (svg) ou matricielle (png).
+* [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
+* [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
+* .gitattributes, .gitignore, README.md — fichiers git
 
 ## Format éditable “événements”
 
@@ -40,6 +50,8 @@ un contexte pour les lignes suivantes. Ce format est réfléchi pour limiter les
 humaine.
 
 ## ordre d’insertion
+
+L’ordre d’insertion est piloté par le 
 
 ~~~~
 [insert_titre] 37020d (1873) <u>Littré</u> <u>Robin</u> 13e éd.

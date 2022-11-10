@@ -1,9 +1,8 @@
 ~$*
 .~*
 *.bak
-/data/*.sql
+/data_sql/*.sql
 pars.php
-/export/
-/work/**/*.pdf
+/work/
 
 out.txt

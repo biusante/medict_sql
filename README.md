@@ -1,10 +1,24 @@
 # BIU Santé / Médica / Métadictionnaire : données
 
-Cet entrepôt contient le code et les données pour alimenter la base MySQL pour le Métadictionnaire Médica.
+Cet entrepôt contient le code et les données pour alimenter la base MySQL pour le Métadictionnaire Médica,
+servie par l’application web [medict](https://github.com/biusante/medict#readme).
 
 ## Chargement rapide
 
 Dans son instance MySQL, charger les tables (schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe.
+
+## Requis
+
+PHP en ligne de commande, version récente (7.3+)
+ * Windows, ajouter le chemin du programme php.exe dans son “[Path](https://www.php.net/manual/fr/faq.installation.php#faq.installation.addtopath)”
+ * Linux, ajouter le paquet php ligne de commande de sa distribution, ex pour Debian : apt install php-cli
+
+Modules PHP
+  * intl — pour normalisation du grec, [Normalizer](https://www.php.net/manual/fr/class.normalizer.php)
+  * pdo_mysql — connexion à la base de données
+  * mbstring — traitement de chaînes unicode
+  * xsl — xsltproc, pour transformations XML/TEI
+
 
 ## Génération des tables relationnelles
 
@@ -33,11 +47,11 @@ Les étapes
 ## Arbre des fichiers
 
 * [data_sql/](data_sql/) — GÉNÉRÉ, données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
-* [pars.php](pars.php) — ÉDITABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
+* [pars.php](pars.php) — MODIFIABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
 * [build.php](build.php) — script de génération de la totalité des données.
-* [dico_titre.tsv](dico_titre.tsv) — ÉDITABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
-* [dico_volume.tsv](dico_volume.tsv) — ÉDITABLE, données bibliographiques pour titres de plus d’un volume.
-* [data_events/](data_events/) — ÉDITABLE et GÉNÉRÉ (source xml), données chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
+* [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
+* [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (source xml), données chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
 * [medict.mwb](medict.mwb), [medict.svg](medict.svg), [medict.png](medict.png) — Schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/), avec des vues image vectorielle (svg) ou matricielle (png).
 * [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
 * [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
@@ -52,9 +66,9 @@ humaine.
 
 ## ordre d’insertion
 
-L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire global ; or les graphies son inégalement précises 
-selon l’âge des données (ex : les accents). On commence donc par les doictionnaires indexés finement (avec le plus de données), et ensuite 
-en ordre chronologiqure du plus récent au plus ancien. Cet ordre est piloté par [dico_titre.tsv](dico_titre.tsv), selon la colonne **import_ordre** (1 = premier, 10 = après), puis **annee** (le plus récent réputé le plus exact).
+L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire global ; or les graphies sont inégalement précises 
+selon l’âge des données (ex : les accents). On commence donc par les dictionnaires indexés finement (avec le plus de données, donc les plus longs à charger),
+ensuite en ordre chronologiqure du plus récent au plus ancien. Cet ordre est piloté par [dico_titre.tsv](dico_titre.tsv), selon la colonne **import_ordre** (1 = premier, 10 = après), puis **annee** (le plus récent réputé le plus exact).
 
 ~~~~
 [insert_titre] 37020d (1873) <u>Littré</u> <u>Robin</u> 13e éd.

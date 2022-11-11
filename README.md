@@ -5,9 +5,9 @@ servie par l’application web [medict](https://github.com/biusante/medict#readm
 
 ## Chargement rapide
 
-Dans son instance MySQL, charger les tables (schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe.
+Dans son instance MySQL, charger les tables (schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe. Chaque table est zippée comme conseillé par PhpMyAdmin en cas d’import en ligne.
 
-## Requis
+## Dépendances
 
 PHP en ligne de commande, version récente (7.3+)
  * Windows, ajouter le chemin du programme php.exe dans son “[Path](https://www.php.net/manual/fr/faq.installation.php#faq.installation.addtopath)”
@@ -18,7 +18,6 @@ Modules PHP
   * pdo_mysql — connexion à la base de données
   * mbstring — traitement de chaînes unicode
   * xsl — xsltproc, pour transformations XML/TEI
-
 
 ## Génération des tables relationnelles
 
@@ -64,9 +63,11 @@ au sens où toutes les lignes ne sont pas des données indépendantes, mais sont
 un contexte pour les lignes suivantes. Ce format est réfléchi pour limiter les redondances, et faciliter la modification
 humaine.
 
+TODO, documenter les commandes reconnues.
+
 ## ordre d’insertion
 
-L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire global ; or les graphies sont inégalement précises 
+L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire paratgé ; or les graphies sont inégalement précises 
 selon l’âge des données (ex : les accents). On commence donc par les dictionnaires indexés finement (avec le plus de données, donc les plus longs à charger),
 ensuite en ordre chronologiqure du plus récent au plus ancien. Cet ordre est piloté par [dico_titre.tsv](dico_titre.tsv), selon la colonne **import_ordre** (1 = premier, 10 = après), puis **annee** (le plus récent réputé le plus exact).
 

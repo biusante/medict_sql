@@ -51,6 +51,7 @@ Les étapes
 * [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
 * [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
 * [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (source xml), données chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [exports/](exports/) — GÉNÉRÉ, des fichiers qui ont été demandé pour une vue sur les données.
 * [medict.mwb](medict.mwb), [medict.svg](medict.svg), [medict.png](medict.png) — Schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/), avec des vues image vectorielle (svg) ou matricielle (png).
 * [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
 * [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
@@ -60,10 +61,25 @@ Les étapes
 
 Toutes les données à charger dans la base relationnelle sont dans un format tabulaire d’“événements”,
 au sens où toutes les lignes ne sont pas des données indépendantes, mais sont des sortes de commandes, produisant
-un contexte pour les lignes suivantes. Ce format est réfléchi pour limiter les redondances, et faciliter la modification
-humaine.
+un contexte pour les lignes suivantes (ex: un saut de page est déclaré une fois pour toutes les entrées qui suivent,
+jusqu’au suivant ou la fin).
+Ce format est réfléchi pour limiter les redondances, et faciliter la modification humaine. 
 
-TODO, documenter les commandes reconnues.
+|commande | paramètre 1 | paramètre 2 | par3 |
+|--- | --- | --- | --- |
+|pb | 754 | 768 | |
+|saut de page | n° page affiché (décimal, romain, etc…) | “refimg”, numéro décimal séquentiel pour url, ex iiif https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768 | |
+|entry | Hydro-entérocèle, Hydrentérocèle | 1 | |
+| | vedettes (un ou plusieurs mot) | nombre de pages de l’entrée | |
+|orth | Hydro-entérocèle |  | |
+|orth | Hydrentérocèle |  | |
+| | Hydrencéphalocèle |  | |
+|foreign | hydro-enterocele | lat | |
+|foreign | hydrenterocele | lat | |
+| | traduction <-> (orth1, orth2) | code langue 3 c. | |
+| entry	| Hydrogène
+| clique	| Hydrogène arsénié \| Arséniure \| Arséniure d’hydrogène | |
+| | mots liés (Hydrogène, Hydrogène arsénié, Arséniure, Arséniure d’hydrogène) | |
 
 ## ordre d’insertion
 

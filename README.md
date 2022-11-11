@@ -68,16 +68,16 @@ Ce format est réfléchi pour limiter les redondances, et faciliter la modificat
 |commande | paramètre 1 | paramètre 2 | par3 |
 |--- | --- | --- | --- |
 |pb | 754 | 768 | |
-|saut de page | n° page affiché (décimal, romain, etc…) | “refimg”, numéro décimal séquentiel pour url, ex iiif https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768 | |
+| | _n° page affiché (décimal, romain, etc…)_ | _“refimg”, numéro décimal séquentiel pour url, ex iiif https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768_ | |
 |entry | Hydro-entérocèle, Hydrentérocèle | 1 | |
-| | vedettes (un ou plusieurs mot) | nombre de pages de l’entrée | |
+| | _vedettes (un ou plusieurs mot)_ | _nombre de pages de l’entrée_ | |
 |orth | Hydro-entérocèle |  | |
 |orth | Hydrentérocèle |  | |
-| | Hydrencéphalocèle |  | |
+| | _vedette dédoublonnée (facultatif)_ |  | |
 |foreign | hydro-enterocele | lat | |
 |foreign | hydrenterocele | lat | |
 | | traduction <-> (orth1, orth2) | code langue 3 c. | |
-| entry	| Hydrogène
+| entry	| Hydrogène| | |
 | clique	| Hydrogène arsénié \| Arséniure \| Arséniure d’hydrogène | |
 | | mots liés (Hydrogène, Hydrogène arsénié, Arséniure, Arséniure d’hydrogène) | |
 

@@ -1,11 +1,10 @@
 # BIU Santé / Médica / Métadictionnaire : données
 
-Cet entrepôt contient le code et les données pour alimenter la base MySQL pour le Métadictionnaire Médica,
-servie par l’application web [medict](https://github.com/biusante/medict#readme).
+Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Médica, servie par l’application web [medict](https://github.com/biusante/medict#readme).
 
 ## Chargement rapide
 
-Dans son instance MySQL, charger les tables (schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe. Chaque table est zippée comme conseillé par PhpMyAdmin en cas d’import en ligne.
+Dans son instance MySQL, charger les tables (au format SQL, schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe. Chaque table est zippée comme conseillé par PhpMyAdmin en cas d’import en ligne.
 
 ## Dépendances
 
@@ -22,16 +21,16 @@ Modules PHP
 ## Génération des tables relationnelles
 
 * Récupérer l’entrepôt des fichiers xml/tei des dictionnaires balisés finement
-  <br/>mes_source$ git clone https://github.com/biusante/medict_xml.git
+  <br/>`mes_source$ git clone https://github.com/biusante/medict_xml.git`
 * Récupérer cet entrepôt
-  <br/>mes_source$ git clone https://github.com/biusante/medict_sql.git
+  <br/>`mes_source$ git clone https://github.com/biusante/medict_sql.git`
 * Entrer dans le dossier de génération des données
-  <br/>mes_source$ cd medict_sql
+  <br/>`mes_source$ cd medict_sql`
 * Fournir ses paramètres (ex : connexion MySQL) en copiant [_pars.php](_pars.php) vers pars.php, et le renseigner
-  <br/>medict_sql$ cp _pars.php pars.php
-  <br/>medict_sql$ vi pars.php
+  <br/>`medict_sql$ cp _pars.php pars.php`
+  <br/>`medict_sql$ vi pars.php`
 * Lancer la génération des données avec le script [build.php](build.php)
-  <br/>medict_sql$ php build.php
+  <br/>`medict_sql$ php build.php`
   <br/>Attendre une vingtaine de minutes à voir se charger les volumes (le premier, Littré 1873, prend 300 s.)
 * retrouver les tables générées dans [data_sql/](data_sql/).
 
@@ -50,7 +49,7 @@ Les étapes
 * [build.php](build.php) — script de génération de la totalité des données.
 * [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
 * [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
-* [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (source xml), données chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
 * [exports/](exports/) — GÉNÉRÉ, des fichiers qui ont été demandé pour une vue sur les données.
 * [medict.mwb](medict.mwb), [medict.svg](medict.svg), [medict.png](medict.png) — Schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/), avec des vues image vectorielle (svg) ou matricielle (png).
 * [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
@@ -59,33 +58,185 @@ Les étapes
 
 ## Format éditable “événements”
 
-Toutes les données à charger dans la base relationnelle sont dans un format tabulaire d’“événements”,
-au sens où toutes les lignes ne sont pas des données indépendantes, mais sont des sortes de commandes, produisant
-un contexte pour les lignes suivantes (ex: un saut de page est déclaré une fois pour toutes les entrées qui suivent,
-jusqu’au suivant ou la fin).
-Ce format est réfléchi pour limiter les redondances, et faciliter la modification humaine. 
+tsv : tab separated values, utf-8. Fichier tabulaire unicode avec la tabulation pour séparateur de cellule (\\t), modifiable avec le tableur LibreOffice (mais surtout pas ~~Microsoft.Excel~~ qui sciemment décode mal l’unicode).
 
-|commande | paramètre 1 | paramètre 2 | par3 |
+
+
+Toutes les données à charger dans la base relationnelle sont dans un format tabulaire d’“événements”, au sens où toutes les lignes ne sont pas des données indépendantes, mais sont des sortes de commandes, produisant un contexte pour les lignes suivantes (ex: un saut de page est déclaré une fois pour toutes les entrées qui suivent, jusqu’au saut de page suivant). Ce format est réfléchi pour limiter les redondances, et faciliter la modification humaine. Les données sont chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php).
+
+|commande | paramètre 1 | paramètre 2 | paramètre 3 |
 |--- | --- | --- | --- |
-|pb | 754 | 768 | |
-| | _n° page affiché (décimal, romain, etc…)_ | _“refimg”, numéro décimal séquentiel pour url, ex iiif https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768_ | |
+|pb | 754 | 768 | 4823244 |
+| | _n° page affiché (décimal, romain, etc…)_ | _“refimg”, numéro décimal séquentiel pour url, ex [?do=page&cote=37020d&p=**768**](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768)_ | _identitiant livancpages de l’ancienne base_ |
 |entry | Glycinium, Glycium, Béryllium | 1 | |
-| | _vedettes (un ou plusieurs mot)_ | _nombre de pages de l’entrée_ | |
+| | _vedettes (un ou plusieurs mot)_ | _nombre de sauts de pages de l’entrée, 0 = (p. 754), 1 = (p. 754-755), 5 = (p. 754-759)…_ | |
 |orth | Glycinium |  | |
 |orth | Glycium |  | |
 |orth | Béryllium |  | |
 | | _vedette dédoublonnée (si nécessaire)_ |  | |
 |foreign | Glycium | deu | |
 |foreign | glycion | eng | |
-|foreign | giicio | ita | |
+|foreign | glicio | ita | |
 | | _traduction_ | _code langue 3 c._ | |
-|term |	Catalyse | | |
-|term |	fermentation glycique | | |
+|term |	Catalyse ou	fermentation glycique | | |
 | | _sous-entrée, ex: locution_ | | |
-|clique |	Catalyse \| fermentation glycique \| Homérique | | |
-| | mots liés | | |
+|clique |	Catalyse ou fermentation glycique \| Homérique | | |
+| | _mots liés_ | | |
+
+Le modèle pour les traductions et les mots liées résulte de longues discussions avec l’équipe scientifique, qui expliquent le schéma SQL ensuite.
+
+Soit l’entrée « Glycinium, Glycium, Béryllium ».
+Pour les traductions, il a été considéré que le lexicographe a établi une équivalence terminologique stricte, non seulement entre chaque vedette et chaque traduction 2 à 2 : [fra] glycinium <-> [deu] Glycium, [fra] béryllium <-> [deu] Glycium, [fra] glycinium <-> [eng] glycion… mais aussi entre les mots en langue étrangère entre eux :  [deu] Glycium <-> [eng] glycion, [eng] glycion <-> [ita] glicio, [ita] glicio <-> [deu] Glycium. En termes de théorie des graphes, ces _mots_ (forme graphique + langue) sont les nœuds d’un [graphe complet](https://fr.wikipedia.org/wiki/Graphe_complet) épuisant toutes les relations entre les nœuds. ([fra] glycinium, [fra] béryllium, [fra] glycinium, [deu] Glycium, [eng] glycion, [ita] glicio) forment une _clique_ dont la modélisation SQL est détaillées dans la section suivante.
+
+Pour les _mots liés_ (renvois, locutions…) un extrait de l’article [INSTINCT](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=0820) permettra d’illustrer le modèle.
+
+**INSTINCT.** s. m. […] — _Instincts altruistes_. V. ALTRUISME. […] — _Perversion morale des instincts_. V. FOLIE _héréditaire_.</sense>
+
+~~~~
+<entry xml:id="instinct">
+  <form><orth>Instinct</orth>, s. m.</form>
+  <sense>— <term>Instincts altruistes</term>. V. <ref target="altruisme">Altruisme</ref>.</sense>
+  <sense>— <term>Perversion morale des instincts</term>. V. <xr><ref target="folie">Folie</ref> héréditaire</xr>.</sense>
+</entry>
+~~~~
+
+| entry |	Instinct |
+|--- | --- |
+| term	| Instincts altruistes	|	
+| clique |	Instincts altruistes \| Altruisme	|
+| term |	Perversion morale des instincts	|
+| clique |	Perversion morale des instincts \| Folie \| Folie héréditaire		|
+
+_Instincts altruistes_ et _Perversion morale des instincts_ sont des sous-vedettes de l’article INSTINCT. Le balisage a permis d’en délimiter la portée avec l’_élément_ `<sense>`. Ceci est signifié par la commande `term`. _Folie héréditaire_ n’**est pas** une sous-vedette de l’article INSTINCT, mais un renvoi à une sous-vedette de l’article FOLIE. Il a été essayé de supposer que tous les renvois d’un article formaient une seule clique, il en résultait par exemple que _Altruisme_ était lié à _Folie_. Après expérience sur la totalité des données, il a été constaté que cela produisait beaucoup plus de bruit que de relations sémantiques. La commande _clique_ modélise les rapprochements sémantiques suivants (Instinct, Instincts altruistes, Altruisme) et (Instinct, Perversion morale des instincts, Folie, Folie héréditaire). _Instinct_ et _Altruisme_ sont liés (ainsi que _Instincts altruistes_), _Instinct_ et _Folie_ sont liés (ainsi que _Perversion morale des instincts_ et _Folie héréditaire_) ; mais  _Altruisme_ et _Folie_.
+
+## Schéma de la base de données
+
+La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est en enregistré de manière unique dans la table dico_terme, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé dîte _deforme_ (lettres minuscules sans accents, traitements particulier selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table dico_rel) entre un _mot_ (dico_term) et un _article_ (dico_entree) de type _orth_ (nom selon la nomenclature TEI, dico_rel.reltype = 1). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout d’article (dico_rel.dico_entreee). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (dico_rel.clique) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupée sens les balises _<sense>_).
+
+![Schéma de la base Medict](medict.png)
+
+~~~~
+CREATE TABLE IF NOT EXISTS `dico_terme` (
+  `id` MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé prinaire incrémentée automatiquement',
+  `forme` VARCHAR(1024) NOT NULL COMMENT 'Forme affichable originale (accents et majuscules)',
+  `langue` TINYINT UNSIGNED NULL COMMENT 'N° langue du terme',
+  `deforme` VARCHAR(512) NOT NULL COMMENT 'Clé identifiante, minuscules sans accents',
+  `deloc` VARCHAR(512) NULL COMMENT 'Pour recherche dans les locutions, minuscules latines sans accents',
+  `taille` SMALLINT UNSIGNED NOT NULL COMMENT 'Taille du teme en caractères (pour déboguage)',
+  `mots` TINYINT UNSIGNED NOT NULL COMMENT 'Nombre de mots pleins dans le terme',
+  `betacode` VARCHAR(512) NULL COMMENT 'Forme grecque, version désaccentuée',
+  PRIMARY KEY (`id`),
+  INDEX `dico_lang` (`langue` ASC),
+  FULLTEXT INDEX `locutable` (`deloc`),
+  INDEX `lookup` (`deforme` ASC, `langue` ASC),
+  INDEX `taille` (`taille` ASC),
+  INDEX `sortable` (`deforme` ASC),
+  INDEX `volet_trad` (`langue` ASC, `deforme` ASC),
+  CONSTRAINT `dico_lang1`
+    FOREIGN KEY (`langue`)
+    REFERENCES `dico_langue` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+AUTO_INCREMENT = 406008
+DEFAULT CHARACTER SET = utf8
+COMMENT = 'Index de termes de tous types (vedettes, locutions, traductions, renvois…). La table est en InnoDB parce que la configuration par défaut des index plein texte y est moins contraignante qu’en MyISAM.'
+PACK_KEYS = 1;
+
+CREATE TABLE IF NOT EXISTS `dico_rel` (
+  `id` MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé principale auto',
+  `dico_titre` SMALLINT UNSIGNED NOT NULL COMMENT 'Clé titre dictionnaire, nécessaire pour filtrage efficace.',
+  `volume_annee` SMALLINT UNSIGNED NOT NULL COMMENT 'Année de publication du volume, pour tri, redondance dico_volume',
+  `dico_entree` MEDIUMINT UNSIGNED NOT NULL COMMENT 'Article source de la relation',
+  `page` CHAR(16) NOT NULL COMMENT 'N° de page où figure  la relation, ',
+  `refimg` SMALLINT UNSIGNED NOT NULL COMMENT 'No séquentiel d’image de la page, en paramètre d’url',
+  `dico_terme` MEDIUMINT UNSIGNED NOT NULL COMMENT 'Forme graphique et langue du terme lié',
+  `reltype` TINYINT UNSIGNED NOT NULL COMMENT 'Type de relation (vedette, suggestion, traduction…)',
+  `orth` TINYINT NULL COMMENT 'Si vedette dans une clique, un drapeau pour ne pas prendre cette relation dans un groupe',
+  `clique` INT UNSIGNED NULL COMMENT 'Clé de regroupement de plusieurs termes dans cette relation',
+  PRIMARY KEY (`id`),
+  INDEX `dico_entree` (`dico_entree` ASC),
+  INDEX `dico_titre` (`dico_titre` ASC),
+  INDEX `dico_reltype` (`reltype` ASC),
+  INDEX `dico_terme` (`dico_terme` ASC),
+  INDEX `volet_index` (`dico_terme` ASC, `dico_titre` ASC, `reltype` ASC, `orth` ASC, `dico_entree` ASC),
+  INDEX `volet_entree` (`dico_terme` ASC, `reltype` ASC, `dico_titre` ASC, `volume_annee` ASC, `dico_entree` ASC),
+  INDEX `volet_trad` (`dico_terme` ASC, `reltype` ASC, `volume_annee` ASC, `dico_entree` ASC),
+  INDEX `volet_sugg1` (`reltype` ASC, `dico_terme` ASC, `clique` ASC, `volume_annee` ASC, `refimg` ASC),
+  INDEX `clique` (`clique` ASC, `reltype` ASC, `dico_terme` ASC))
+ENGINE = MyISAM
+DEFAULT CHARACTER SET = utf8
+COMMENT = 'Relation typée entre un terme et une entrée. ';
 
 
+CREATE TABLE IF NOT EXISTS `dico_volume` (
+  `id` SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé prinaire incrémentée automatiquement',
+  `dico_titre` SMALLINT UNSIGNED NOT NULL COMMENT 'Lien au dictionnaire source',
+  `titre_nom` VARCHAR(255) NOT NULL COMMENT 'Titre, nom court, redondance dico_titre',
+  `titre_annee` SMALLINT UNSIGNED NOT NULL COMMENT 'Titre, année, redondance dico_titre',
+  `livanc` INT UNSIGNED NULL DEFAULT NULL COMMENT 'Lien à la tabéle livanc',
+  `volume_cote` VARCHAR(32) NOT NULL COMMENT 'Volume, cote, nécessaire pour construire url',
+  `volume_soustitre` VARCHAR(255) NULL DEFAULT NULL COMMENT 'Volume, partie du titre à ajouter à propos du volume',
+  `volume_annee` SMALLINT UNSIGNED NOT NULL COMMENT 'Volume, année de publication',
+  PRIMARY KEY (`id`),
+  INDEX `dico_titre` (`dico_titre` ASC),
+  INDEX `livanc` (`livanc` ASC),
+  INDEX `cote` (`volume_cote` ASC))
+ENGINE = MyISAM
+AUTO_INCREMENT = 385345
+DEFAULT CHARACTER SET = utf8
+COMMENT = 'Volume, informations suffisant à construire une référence bibliographique (sans n° de page)'
+PACK_KEYS = 1;
+
+
+CREATE TABLE IF NOT EXISTS `dico_entree` (
+  `id` MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé prinaire incrémentée automatiquement',
+  `dico_titre` SMALLINT UNSIGNED NOT NULL COMMENT 'Lien au titre source',
+  `dico_volume` SMALLINT UNSIGNED NOT NULL COMMENT 'Lien à la table de volume (pour ref biblio)',
+  `volume_annee` SMALLINT UNSIGNED NOT NULL COMMENT 'Volume, année de publication, nécessaire pour tri, redondance dico_volume',
+  `vedette` TEXT NOT NULL COMMENT 'Un ou plusieurs mots en vedette identifiant l’article dans l’ordre alphabétique de l’ouvrage',
+  `page` VARCHAR(32) NOT NULL COMMENT 'Page de début de l’entrée',
+  `refimg` SMALLINT UNSIGNED NOT NULL COMMENT 'No d’image en paramètre d’url',
+  `livancpages` INT UNSIGNED NULL DEFAULT NULL COMMENT 'Lien à la table des pages',
+  `pps` SMALLINT UNSIGNED NULL DEFAULT NULL COMMENT 'Nombre de saut de pages dans l’article',
+  `page2` VARCHAR(32) NULL DEFAULT NULL COMMENT 'Page de fin de l’entrée si différente du début',
+  PRIMARY KEY (`id`),
+  INDEX `livancpages` (`livancpages` ASC),
+  INDEX `vedette` (`vedette`(100) ASC),
+  INDEX `dico_volume` (`dico_volume` ASC),
+  INDEX `dico_titre` (`dico_titre` ASC))
+ENGINE = MyISAM
+AUTO_INCREMENT = 385345
+DEFAULT CHARACTER SET = utf8
+COMMENT = 'Entrée dans un ouvrage, liée à la page de la vedette  (volet entrées de l’interface)'
+PACK_KEYS = 1;
+
+
+CREATE TABLE IF NOT EXISTS `dico_titre` (
+  `id` SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé prinaire incrémentée automatiquement',
+  `cote` VARCHAR(32) NULL DEFAULT NULL COMMENT 'Cote du dictionnaire',
+  `nom` VARCHAR(255) NOT NULL COMMENT 'Nom court du dictionnaire, affichable',
+  `annee` SMALLINT(6) UNSIGNED NOT NULL COMMENT 'Date de parution du premier volume (clé de tri)',
+  `import_ordre` SMALLINT UNSIGNED NULL COMMENT 'Numéro d’ordre pour l’import (priorité aux vedettes récentes et relues)',
+  `vols` SMALLINT(6) NOT NULL DEFAULT '1' COMMENT 'Nombre de volumes',
+  `pages` MEDIUMINT(9) NULL DEFAULT NULL COMMENT 'Nombre de pages',
+  `entrees` MEDIUMINT(9) NULL DEFAULT NULL COMMENT 'Nombre d’entrées',
+  `nomdate` VARCHAR(255) NULL DEFAULT NULL COMMENT 'Nom alternatif (avec date)',
+  `an_max` SMALLINT(6) UNSIGNED NULL DEFAULT NULL COMMENT 'Date de parution du dernier volume si plusieurs sur plusieurs années',
+  `class` VARCHAR(255) NULL DEFAULT NULL COMMENT 'Type de dictionnaire, mots clés séparés d’espaces, utilisés dans le formulaire de sélection des titres',
+  `orth_langue` CHAR(3) NULL DEFAULT NULL COMMENT 'Code de langue des vedettes si différentes du français (la, grc), 1 cas \"fr,la\" pharma_019128',
+  `entry_langue` CHAR(3) NULL DEFAULT NULL COMMENT 'Code langue des articles si différent du français (James en, la)',
+  `bibl` TEXT NULL COMMENT 'Ligne bibliographique ISBD',
+  `livanc` INT UNSIGNED NULL DEFAULT NULL COMMENT 'Clé dans la table livanc',
+  PRIMARY KEY (`id`),
+  INDEX `livanc` (`livanc` ASC),
+  INDEX `import` (`import_ordre` ASC, `annee` ASC))
+ENGINE = MyISAM
+AUTO_INCREMENT = 52
+DEFAULT CHARACTER SET = utf8
+COMMENT = 'Table des titres des dictionnaires (pouvant concerner plusieurs volumes),  avec informations spéciales dico';
+
+~~~~
 
 ## ordre d’insertion
 

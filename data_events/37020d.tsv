@@ -731,9 +731,8 @@ term	Acare des follicules
 clique	Acare des follicules | Démodex		
 term	Acare du fromage		
 clique	Acare du fromage | Tyroglyphe		
-term	Acare		
-term	acarus de la gale		
-clique	Acare | acarus de la gale | Sarcopte		
+term	Acare ou acarus de la gale		
+clique	Acare ou acarus de la gale | Sarcopte		
 entry	Acariasis	0	
 orth	Acariasis		
 entry	Acarien	0	
@@ -1856,9 +1855,8 @@ orth	Adagrégé
 clique	Individu		
 entry	Adamantin	0	
 orth	Adamantin		
-term	Croûte		
-term	couche adamantine des dents		
-clique	Croûte | couche adamantine des dents		
+term	Croûte ou couche adamantine des dents		
+clique	Croûte ou couche adamantine des dents		
 term	Éclat adamantin		
 clique	Éclat adamantin | Diamant		
 entry	Adamique	0	
@@ -7491,10 +7489,10 @@ term	Chimie antiphlogistique
 clique	Chimie antiphlogistique		
 entry	Antiphlogose	0	
 orth	Antiphlogose		
-entry	Antiphthikiyque, Antiphthirique	0	
-orth	Antiphthikiyque		
+entry	Antiphthiriaque, Antiphthirique	0	
+orth	Antiphthiriaque		
 orth	Antiphthirique		
-foreign	antifiirico	ita	
+foreign	antiftirico	ita	
 entry	Antiphthisique	0	
 orth	Antiphthisique		
 foreign	antiftisico	ita	
@@ -8432,7 +8430,7 @@ entry	Aptitude	0
 orth	Aptitude		
 foreign	Anlage	deu	
 foreign	aptness	eng	
-foreign	attitiidine	ita	
+foreign	attitudine	ita	
 clique	Ration		
 entry	Aptyalie	0	
 orth	Aptyalie		
@@ -8586,9 +8584,8 @@ clique	Séreuse
 pb	0098	0112	
 clique	Arachnoïdien		
 term	Arachnoïde intérieure		
-term	épendyme		
-term	membrane des ventricules cérébro-rachidiens		
-clique	Arachnoïde intérieure | épendyme | membrane des ventricules cérébro-rachidiens | Arachnoïdien		
+term	épendyme ou membrane des ventricules cérébro-rachidiens		
+clique	Arachnoïde intérieure | épendyme ou membrane des ventricules cérébro-rachidiens | Arachnoïdien		
 entry	Arachnoïdien	1	
 orth	Arachnoïdien		
 term	Liquide arachnoïdien, ou sous-arachnoïdien, ou céphalo-rachidien		
@@ -19257,9 +19254,8 @@ orth	Caséeux
 foreign	casearius	lat	
 foreign	caseoso	ita	
 foreign	caseoso	spa	
-term	Catalyse		
-term	fermentation caséeuse		
-clique	Catalyse | fermentation caséeuse | Fermentation		
+term	Catalyse ou fermentation caséeuse		
+clique	Catalyse ou fermentation caséeuse | Fermentation		
 term	Matière caséeuse		
 clique	Matière caséeuse | Caséine		
 term	Matière caséeuse de la globuline		
@@ -21671,9 +21667,8 @@ foreign	ἴουλος	grc
 entry	Chatonnement	0	
 orth	Chatonnement		
 foreign	incarceratio	lat	
-term	Chatonnement		
-term	enkystement du placenta		
-clique	Chatonnement | enkystement du placenta		
+term	Chatonnement ou enkystement du placenta		
+clique	Chatonnement ou enkystement du placenta		
 entry	Chatouillement	0	
 orth	Chatouillement		
 foreign	Kitzel	deu	
@@ -28774,9 +28769,8 @@ clique	Couleuvre vipérine | tropidonote vipérin
 term	Couleuvre		
 term	coronelle bordelaise		
 clique	Couleuvre | coronelle bordelaise		
-term	Couleuvre		
-term	zamenis verte et jaune		
-clique	Couleuvre | zamenis verte et jaune		
+term	Couleuvre ou zamenis verte et jaune		
+clique	Couleuvre ou zamenis verte et jaune		
 term	Couleuvre d’Esculape		
 clique	Couleuvre d’Esculape		
 term	Couleuvre à quatre raies		
@@ -41694,7 +41688,7 @@ term	Aliénation d’esprit
 clique	Aliénation d’esprit | Aliénation		
 term	Esprits		
 term	eaux spiritueuses		
-clique	Esprits | eaux spiritueuses		
+clique	Esprits | eaux spiritueuses | alcoolats		
 term	Esprit acide		
 clique	Esprit acide		
 term	Esprit acide du bois		
@@ -41703,9 +41697,10 @@ term	Esprit alcalin
 clique	Esprit alcalin		
 term	Esprit ardent		
 clique	Esprit ardent		
-term	Esprit de bois, esprit de bois inflammable		
+term	Esprit de bois		
+term	esprit de bois inflammable		
 term	esprit adiaphorétique		
-clique	Esprit de bois, esprit de bois inflammable | esprit adiaphorétique | Méthylique		
+clique	Esprit de bois | esprit de bois inflammable | esprit adiaphorétique | Méthylique		
 term	Esprit carminatif de Sylvius		
 clique	Esprit carminatif de Sylvius		
 term	Esprit de citron		
@@ -50754,7 +50749,7 @@ orth	Glycium
 orth	Béryllium		
 foreign	Glycium	deu	
 foreign	glycion	eng	
-foreign	giicio	ita	
+foreign	glicio	ita	
 entry	Glycique	0	
 orth	Glycique		
 term	Acide glycique		
@@ -50835,9 +50830,8 @@ entry	Glycoside	0
 orth	Glycoside		
 entry	Glycosique	0	
 orth	Glycosique		
-term	Catalyse		
-term	fermentation glycosique		
-clique	Catalyse | fermentation glycosique | Catalyse | Isomérique		
+term	Catalyse ou fermentation glycosique		
+clique	Catalyse ou fermentation glycosique | Catalyse | Isomérique		
 entry	Glycosurie	0	
 orth	Glycosurie		
 foreign	Zuckerharnen	deu	
@@ -54085,7 +54079,7 @@ term	Herbe de Jacob
 clique	Herbe de Jacob		
 term	Herbe à jaunir		
 term	herbe jaune		
-clique	Herbe à jaunir | herbe jaune		
+clique	Herbe à jaunir | herbe jaune | gaude | genêt		
 term	Herbe à Jean Renard		
 clique	Herbe à Jean Renard		
 term	Herbe de Judée		
@@ -61594,9 +61588,8 @@ foreign	intermitencia	spa
 foreign	διάλειψις	grc	
 term	Intermittence d’action		
 clique	Intermittence d’action | Imitation		
-term	Intermittence du cœur		
-term	pouls		
-clique	Intermittence du cœur | pouls | Fièvre		
+term	Intermittence du cœur ou pouls		
+clique	Intermittence du cœur ou pouls | Fièvre		
 entry	Intermittent	0	
 orth	Intermittent		
 foreign	intermittens	lat	
@@ -63940,7 +63933,7 @@ clique	Éther kinique | Éther
 entry	Kino	0	
 orth	Kino		
 foreign	Kino	deu	
-foreign	cliino	ita	
+foreign	chino	ita	
 foreign	kino	spa	
 clique	Nauclée		
 entry	Kinova	0	
@@ -74248,7 +74241,7 @@ orth	Minéralisateur
 foreign	vererzend	deu	
 foreign	Verxrzungsstoff	deu	
 foreign	mineralizing substance	eng	
-foreign	mineraiizzatore	ita	
+foreign	mineralizzatore	ita	
 entry	Minéralisation	0	
 orth	Minéralisation		
 foreign	Vererzung	deu	
@@ -95939,7 +95932,7 @@ orth	Praticien
 foreign	medicinœ artis peritus	lat	
 foreign	Praktiker	deu	
 foreign	practitioner	eng	
-foreign	medico praiico	ita	
+foreign	medico pratico	ita	
 foreign	practico	spa	
 entry	Pratique	1	
 orth	Pratique		
@@ -97205,7 +97198,7 @@ orth	Prostitution
 foreign	prostitutio	lat	
 foreign	Hurerei	deu	
 foreign	prostitution	eng	
-foreign	prosiituzione	ita	
+foreign	prostituzione	ita	
 foreign	prostitucion	spa	
 foreign	πορνεία	grc	
 entry	Prostration	0	
@@ -99278,8 +99271,8 @@ orth	Pyrrhétine
 foreign	Pyrrhetin	deu	
 foreign	Brennharz	deu	
 foreign	pirrhetine	eng	
-foreign	pirreiina	ita	
-foreign	pirreiina	spa	
+foreign	pirretina	ita	
+foreign	pirretina	spa	
 pb	1294	1308	
 entry	Pyrrhole, Pyrrhéléon	0	
 orth	Pyrrhole		
@@ -111120,7 +111113,7 @@ entry	Spécificité	1
 orth	Spécificité		
 foreign	Spezificitüt	deu	
 foreign	specificity	eng	
-foreign	specificiia	ita	
+foreign	specificita	ita	
 term	Spécificité des causes des maladies		
 clique	Spécificité des causes des maladies | Spécifique		
 term	Spécificité d’un médicament		

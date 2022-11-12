@@ -51,7 +51,8 @@ Les étapes
 * [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
 * [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
 * [exports/](exports/) — GÉNÉRÉ, des fichiers qui ont été demandé pour une vue sur les données.
-* [medict.mwb](medict.mwb), [medict.svg](medict.svg), [medict.png](medict.png) — Schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/), avec des vues image vectorielle (svg) ou matricielle (png).
+* [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source pour toutes les modifications.
+* [doc/](doc/) — documentation, documents de l’équipe et de recherche, et surtout.
 * [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
 * [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
 * .gitattributes, .gitignore, README.md — fichiers git
@@ -60,6 +61,7 @@ Les étapes
 
 tsv : tab separated values, utf-8. Fichier tabulaire unicode avec la tabulation pour séparateur de cellule (\\t), modifiable avec le tableur LibreOffice (mais surtout pas ~~Microsoft.Excel~~ qui sciemment décode mal l’unicode).
 
+![tsv, LibreOffice](doc/tsv_libreoo.png)
 
 
 Toutes les données à charger dans la base relationnelle sont dans un format tabulaire d’“événements”, au sens où toutes les lignes ne sont pas des données indépendantes, mais sont des sortes de commandes, produisant un contexte pour les lignes suivantes (ex: un saut de page est déclaré une fois pour toutes les entrées qui suivent, jusqu’au saut de page suivant). Ce format est réfléchi pour limiter les redondances, et faciliter la modification humaine. Les données sont chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php).
@@ -86,9 +88,10 @@ Toutes les données à charger dans la base relationnelle sont dans un format ta
 Le modèle pour les traductions et les mots liées résulte de longues discussions avec l’équipe scientifique, qui expliquent le schéma SQL ensuite.
 
 Soit l’entrée « Glycinium, Glycium, Béryllium ».
-Pour les traductions, il a été considéré que le lexicographe a établi une équivalence terminologique stricte, non seulement entre chaque vedette et chaque traduction 2 à 2 : [fra] glycinium <-> [deu] Glycium, [fra] béryllium <-> [deu] Glycium, [fra] glycinium <-> [eng] glycion… mais aussi entre les mots en langue étrangère entre eux :  [deu] Glycium <-> [eng] glycion, [eng] glycion <-> [ita] glicio, [ita] glicio <-> [deu] Glycium. En termes de théorie des graphes, ces _mots_ (forme graphique + langue) sont les nœuds d’un [graphe complet](https://fr.wikipedia.org/wiki/Graphe_complet) épuisant toutes les relations entre les nœuds. ([fra] glycinium, [fra] béryllium, [fra] glycinium, [deu] Glycium, [eng] glycion, [ita] glicio) forment une _clique_ dont la modélisation SQL est détaillées dans la section suivante.
+<img src="doc/graphe_complet.png" alt="Graphe complet" width="200" align="left"/>
+Pour les traductions, il a été considéré que le lexicographe a établi une équivalence terminologique stricte, non seulement entre chaque vedette et chaque traduction 2 à 2 : [fra] glycinium <-> [deu] Glycium, [fra] béryllium <-> [deu] Glycium, [fra] glycinium <-> [eng] glycion… mais aussi entre les mots en langue étrangère entre eux :  [deu] Glycium <-> [eng] glycion <-> [ita] glicio <-> [deu] Glycium. En termes de théorie des graphes, ces _mots_ (forme graphique + langue) sont les nœuds d’un [graphe complet](https://fr.wikipedia.org/wiki/Graphe_complet) épuisant toutes les relations entre les nœuds. ([fra] glycinium, [fra] béryllium, [fra] glycinium, [deu] Glycium, [eng] glycion, [ita] glicio).
 
-Pour les _mots liés_ (renvois, locutions…) un extrait de l’article [INSTINCT](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=0820) permettra d’illustrer le modèle.
+Pour les _mots liés_ (renvois, locutions…) un extrait dans l’article [INSTINCT](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=0820) permettra d’illustrer le modèle.
 
 **INSTINCT.** s. m. […] — _Instincts altruistes_. V. ALTRUISME. […] — _Perversion morale des instincts_. V. FOLIE _héréditaire_.</sense>
 
@@ -111,18 +114,20 @@ _Instincts altruistes_ et _Perversion morale des instincts_ sont des sous-vedett
 
 ## Schéma de la base de données
 
-La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est en enregistré de manière unique dans la table dico_terme, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé dîte _deforme_ (lettres minuscules sans accents, traitements particulier selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table dico_rel) entre un _mot_ (dico_term) et un _article_ (dico_entree) de type _orth_ (nom selon la nomenclature TEI, dico_rel.reltype = 1). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout d’article (dico_rel.dico_entreee). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (dico_rel.clique) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupée sens les balises _<sense>_).
+La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est enregistré de manière unique dans la table `dico_terme`, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé `dico_terme.deforme` (lettres minuscules sans accents, traitements particuliers selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table `dico_rel`) entre un _mot_ (`dico_term`) et un _article_ (`dico_entree`) de type _orth_ (`<orth>` selon la nomenclature TEI, `dico_rel.reltype = 1`). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout l’article (`dico_rel.dico_entreee`). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (`dico_rel.clique`) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupées selon les balises `<sense>`). Les tables `dico_volume` et `dico_titre` portent les informations bibliographiques renseignées par l’équipe scientifique.
 
-![Schéma de la base Medict](medict.png)
+Dans un scénario habituel de requête, l’utilisateur cherche des lettres (dans `dico_terme.deforme`), les vedettes proposées sont tirées des relations _orth_ et _term_ (pour vedettes principales et secondaires, `dico_rel.reltype`) et sont filtrées par titres d’ouvrages (`dico_rel.dico_titre`). Les filtrages par dates ou type d’ouvrages (médecine, vétérinaire, pharmacie, glossaire…) sont ramenés à ne liste d’identifiant de titre. Quand une vedette est sélectionnée (`dico_terme.id`), sont affichées les entrées qui ont cette vedette, avec les informations bibliographiques nécessaires (`dico_rel.dico_terme` -> `dico_rel.dico_entree` -> `dico_entree.id` -> `dico_entree.dico_volume` -> `dico_volume.id`). Pour afficher les traductions d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les entrées (`dico_rel.dico_entree`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de traduction (`dico_rel.reltype`) ; reprendre cette liste d’entrées, et afficher la liste des traductions qu’elles contiennent en ordre alphabétique. Le principe des _mots liés_ est similaire, à la réserve que la clé de regroupement n’est plus l’_entrée_, mais la _clique_ (`dico_rel.clique`). Pour afficher les mots liés d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les cliques (`dico_rel.clique`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de _clique_ (`dico_rel.reltype`) ; lister ensuite les mots de ces cliques.
 
-~~~~
+![Schéma de la base Medict](doc/medict.png)
+
+```sql
 CREATE TABLE IF NOT EXISTS `dico_terme` (
   `id` MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé prinaire incrémentée automatiquement',
   `forme` VARCHAR(1024) NOT NULL COMMENT 'Forme affichable originale (accents et majuscules)',
   `langue` TINYINT UNSIGNED NULL COMMENT 'N° langue du terme',
   `deforme` VARCHAR(512) NOT NULL COMMENT 'Clé identifiante, minuscules sans accents',
   `deloc` VARCHAR(512) NULL COMMENT 'Pour recherche dans les locutions, minuscules latines sans accents',
-  `taille` SMALLINT UNSIGNED NOT NULL COMMENT 'Taille du teme en caractères (pour déboguage)',
+  `taille` SMALLINT UNSIGNED NOT NULL COMMENT 'Taille du terme en caractères',
   `mots` TINYINT UNSIGNED NOT NULL COMMENT 'Nombre de mots pleins dans le terme',
   `betacode` VARCHAR(512) NULL COMMENT 'Forme grecque, version désaccentuée',
   PRIMARY KEY (`id`),
@@ -140,7 +145,8 @@ CREATE TABLE IF NOT EXISTS `dico_terme` (
 ENGINE = InnoDB
 AUTO_INCREMENT = 406008
 DEFAULT CHARACTER SET = utf8
-COMMENT = 'Index de termes de tous types (vedettes, locutions, traductions, renvois…). La table est en InnoDB parce que la configuration par défaut des index plein texte y est moins contraignante qu’en MyISAM.'
+COMMENT = 'Index de termes de tous types (vedettes, locutions, traductions, renvois…). 
+La table est en InnoDB parce que la configuration par défaut des index plein texte y est moins contraignante qu’en MyISAM.'
 PACK_KEYS = 1;
 
 CREATE TABLE IF NOT EXISTS `dico_rel` (
@@ -235,12 +241,11 @@ ENGINE = MyISAM
 AUTO_INCREMENT = 52
 DEFAULT CHARACTER SET = utf8
 COMMENT = 'Table des titres des dictionnaires (pouvant concerner plusieurs volumes),  avec informations spéciales dico';
-
-~~~~
+```
 
 ## ordre d’insertion
 
-L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire paratgé ; or les graphies sont inégalement précises 
+L’ordre d’insertion des dictionnaires est significatif, car chaque mot entré renseigne un dictionnaire partagé ; or les graphies sont inégalement précises 
 selon l’âge des données (ex : les accents). On commence donc par les dictionnaires indexés finement (avec le plus de données, donc les plus longs à charger),
 ensuite en ordre chronologiqure du plus récent au plus ancien. Cet ordre est piloté par [dico_titre.tsv](dico_titre.tsv), selon la colonne **import_ordre** (1 = premier, 10 = après), puis **annee** (le plus récent réputé le plus exact).
 

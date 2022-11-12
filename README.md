@@ -69,17 +69,23 @@ Ce format est réfléchi pour limiter les redondances, et faciliter la modificat
 |--- | --- | --- | --- |
 |pb | 754 | 768 | |
 | | _n° page affiché (décimal, romain, etc…)_ | _“refimg”, numéro décimal séquentiel pour url, ex iiif https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768_ | |
-|entry | Hydro-entérocèle, Hydrentérocèle | 1 | |
+|entry | Glycinium, Glycium, Béryllium | 1 | |
 | | _vedettes (un ou plusieurs mot)_ | _nombre de pages de l’entrée_ | |
-|orth | Hydro-entérocèle |  | |
-|orth | Hydrentérocèle |  | |
-| | _vedette dédoublonnée (facultatif)_ |  | |
-|foreign | hydro-enterocele | lat | |
-|foreign | hydrenterocele | lat | |
-| | traduction <-> (orth1, orth2) | code langue 3 c. | |
-| entry	| Hydrogène| | |
-| clique	| Hydrogène arsénié \| Arséniure \| Arséniure d’hydrogène | |
-| | mots liés (Hydrogène, Hydrogène arsénié, Arséniure, Arséniure d’hydrogène) | |
+|orth | Glycinium |  | |
+|orth | Glycium |  | |
+|orth | Béryllium |  | |
+| | _vedette dédoublonnée (si nécessaire)_ |  | |
+|foreign | Glycium | deu | |
+|foreign | glycion | eng | |
+|foreign | giicio | ita | |
+| | _traduction_ | _code langue 3 c._ | |
+|term |	Catalyse | | |
+|term |	fermentation glycique | | |
+| | _sous-entrée, ex: locution_ | | |
+|clique |	Catalyse \| fermentation glycique \| Homérique | | |
+| | mots liés | | |
+
+
 
 ## ordre d’insertion
 

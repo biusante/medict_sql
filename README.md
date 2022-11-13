@@ -4,7 +4,12 @@ Cet entrepôt contient le code et les données qui alimentent la base de donnée
 
 ## Chargement rapide
 
-Dans son instance MySQL, charger les tables (au format SQL, schéma et données) contenues dans [data_sql/](data_sql/). Les noms de table ont un préfixe dico_* pour éviter les collisions avec une base complexe. Chaque table est zippée comme conseillé par PhpMyAdmin en cas d’import en ligne.
+Dans l’instance MySQL d’un serveur PHP
+
+* Créer une base pour le métadictionnaire (ex: `medict`)
+* Un utilisateur avec tous les droits sur cette base (ex: `medict_sql`)
+* Créer et renseigner un fichier `pars.php` (sur le modèle de [_pars.php](_pars.php)) 
+* Charger les tables (schéma et données) au format SQL, dans [data_sql/](data_sql/) (zippée pour PhpMyAdmin).
 
 ## Dépendances
 
@@ -18,7 +23,10 @@ Modules PHP
   * mbstring — traitement de chaînes unicode
   * xsl — xsltproc, pour transformations XML/TEI
 
+
 ## Génération des tables relationnelles
+
+**Attention, la génération prend une vingtaine de minutes sur Windows, elle est plus longue sur linux, une approche plus rapide est en cours d’écriture.**
 
 * Récupérer l’entrepôt des fichiers xml/tei des dictionnaires balisés finement
   <br/>`mes_source$ git clone https://github.com/biusante/medict_xml.git`
@@ -34,13 +42,110 @@ Modules PHP
   <br/>Attendre une vingtaine de minutes à voir se charger les volumes (le premier, Littré 1873, prend 300 s.)
 * retrouver les tables générées dans [data_sql/](data_sql/).
 
-Les étapes 
+### Étapes 
 
 1. Générer les données à partir de fichiers XML/TEI
 2. Charger la table des titres qui pilote l’insertion [dico_titre.tsv](dico_titre.tsv)
 3. Charger les éventuelles informations de volumes, pour les titres en plusieurs tomes [dico_volume.tsv](dico_volume.tsv)
 4. Effacer toutes les données, notamment la table des mots indexés
 5. Charger les volumes selon l’ordre défini dans [dico_titre.tsv](dico_titre.tsv)
+
+### Erreurs rencontrées
+
+```
+$ php build.php
+```
+
+**Paramètres MySQL introuvables, attendus dans : ./pars.php cf. ./_pars.php medict_sql/php/Biusante/Medict/Util.php**
+
+L’application ne trouve pas son fichier de paramétrage attendu dans pars.php.
+
+**Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in medict_sql/php/Biusante/Medict/Util.php**
+
+PHP n’a pas chargé l’extension pdo_mysql, cf. php.ini.  
+```bash
+ubuntu 22.04$ sudo sudo apt update
+ubuntu 22.04$ sudo apt install php-mysql
+```
+
+**PDOException: SQLSTATE[HY000] [2002] No such file or directory in medict_sql/php/Biusante/Medict/Util.php**
+
+MySQL ne reconnaît pas ~~localhost~~ comme serveur. Vérifier pars.php
+```php
+return array(
+    'host' => '127.0.0.1',
+    // […]
+)
+```
+
+**PDOException: SQLSTATE[HY000] [2002] Connection refused in medict_sql/php/Biusante/Medict/Util.php**
+
+MySQL n’est pas, ou est mal, installé.
+```bash
+ubuntu 22.04$ sudo sudo apt update
+ubuntu 22.04$ sudo apt install mysql-server
+ubuntu 22.04$ sudo /etc/init.d/mysql start
+ubuntu 22.04$ telnet 127.0.0.1 3306
+Trying 127.0.0.1...
+Connected to 127.0.0.1.
+```
+
+**PDOException: SQLSTATE[HY000] [1698] Access denied for user 'medict_sql'@'localhost' in medict_sql/php/Biusante/Medict/Util.php**
+
+MySQL ne connaît pas l’utilisateur déclaré dans votre fichier pars.php. Cet utilisateur a besoin de tous les droits de la base pour créer et remplir les tables (`GRANT ALL PRIVILEGES ON medict.*`), mais aussi du droit de pouvoir utiliser mysqldump (`GRANT PROCESS ON *.* TO …`).
+
+```bash
+ubuntu 22.04$ sudo mysql
+mysql> CREATE DATABASE medict;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> CREATE USER 'medict_sql'@'localhost' IDENTIFIED BY 'MotDePasseSuperSecret';
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> GRANT ALL PRIVILEGES ON medict.* TO 'medict_sql'@'localhost';
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> GRANT PROCESS ON *.* TO 'medict_sql'@'localhost';
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> FLUSH PRIVILEGES;
+```
+
+**PDOException: SQLSTATE[HY000] [1044] Access denied for user 'medict_sql'@'localhost' to database 'medict' in medict_sql/php/Biusante/Medict/Util.php**
+
+L’utilisateur n’a pas les droits pour se connecter à la base de données : `mysql> GRANT ALL ON medict.* TO 'medict_sql'@'localhost';`
+
+**PDOException: SQLSTATE[HY000] [1049] Unknown database 'medict' in medict_sql/php/Biusante/Medict/Util.php**
+
+La base de données n’existe pas : `mysql> CREATE DATABASE medict;`
+
+**PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'medict.dico_terme' doesn't exist in medict_sql/php/Biusante/Medict/Insert.php**
+
+Ne devrait pas arriver, build.php crée les tables et les index si nécessaire.
+
+**\[insert_volume\] 37020d… PHP Fatal error:  Uncaught Exception: Impossible to load medict_sql/php/Normalizer.php in medict_sql/php/autoload.php**
+
+L’extention php intl n’est pas installée.
+
+```bash
+ubuntu 22.04$ sudo apt-get install php-intl
+```
+
+**Call to undefined function Biusante\Medict\mb_internal_encoding() in medict_sql/php/Biusante/Medict/Util.php**
+
+L’extension php mbstring n’est pas installée.
+
+```bash
+ubuntu 22.04$ sudo apt-get install php-mbstring
+```
+
+**Uncaught Exception: Impossible to load medict_sql/php/DOMDocument.php in medict_sql/php/autoload.php**
+
+Les extensions php xml et xsl ne sont pas installées.
+
+```bash
+ubuntu 22.04$ sudo apt-get install php-xml
+```
 
 ## Arbre des fichiers
 
@@ -51,7 +156,7 @@ Les étapes
 * [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
 * [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
 * [exports/](exports/) — GÉNÉRÉ, des fichiers qui ont été demandé pour une vue sur les données.
-* [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source pour toutes les modifications.
+* [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source du code SQL.
 * [doc/](doc/) — documentation, documents de l’équipe et de recherche, et surtout.
 * [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
 * [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
@@ -91,7 +196,7 @@ Soit l’entrée « Glycinium, Glycium, Béryllium ».
 <img src="doc/graphe_complet.png" alt="Graphe complet" width="200" align="left"/>
 Pour les traductions, il a été considéré que le lexicographe a établi une équivalence terminologique stricte, non seulement entre chaque vedette et chaque traduction 2 à 2 : [fra] glycinium <-> [deu] Glycium, [fra] béryllium <-> [deu] Glycium, [fra] glycinium <-> [eng] glycion… mais aussi entre les mots en langue étrangère entre eux :  [deu] Glycium <-> [eng] glycion <-> [ita] glicio <-> [deu] Glycium. En termes de théorie des graphes, ces _mots_ (forme graphique + langue) sont les nœuds d’un [graphe complet](https://fr.wikipedia.org/wiki/Graphe_complet) épuisant toutes les relations entre les nœuds. ([fra] glycinium, [fra] béryllium, [fra] glycinium, [deu] Glycium, [eng] glycion, [ita] glicio).
 
-Pour les _mots liés_ (renvois, locutions…) un extrait dans l’article [INSTINCT](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=0820) permettra d’illustrer le modèle.
+Pour les _mots liés_ (renvois, locutions…) un extrait de l’article [INSTINCT](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=0820) permettra d’illustrer le modèle.
 
 **INSTINCT.** s. m. […] — _Instincts altruistes_. V. ALTRUISME. […] — _Perversion morale des instincts_. V. FOLIE _héréditaire_.</sense>
 
@@ -110,13 +215,13 @@ Pour les _mots liés_ (renvois, locutions…) un extrait dans l’article [INSTI
 | term |	Perversion morale des instincts	|
 | clique |	Perversion morale des instincts \| Folie \| Folie héréditaire		|
 
-_Instincts altruistes_ et _Perversion morale des instincts_ sont des sous-vedettes de l’article INSTINCT. Le balisage a permis d’en délimiter la portée avec l’_élément_ `<sense>`. Ceci est signifié par la commande `term`. _Folie héréditaire_ n’**est pas** une sous-vedette de l’article INSTINCT, mais un renvoi à une sous-vedette de l’article FOLIE. Il a été essayé de supposer que tous les renvois d’un article formaient une seule clique, il en résultait par exemple que _Altruisme_ était lié à _Folie_. Après expérience sur la totalité des données, il a été constaté que cela produisait beaucoup plus de bruit que de relations sémantiques. La commande _clique_ modélise les rapprochements sémantiques suivants (Instinct, Instincts altruistes, Altruisme) et (Instinct, Perversion morale des instincts, Folie, Folie héréditaire). _Instinct_ et _Altruisme_ sont liés (ainsi que _Instincts altruistes_), _Instinct_ et _Folie_ sont liés (ainsi que _Perversion morale des instincts_ et _Folie héréditaire_) ; mais  _Altruisme_ et _Folie_.
+_Instincts altruistes_ et _Perversion morale des instincts_ sont des sous-vedettes de l’article INSTINCT. Le balisage a permis d’en délimiter la portée avec l’_élément_ `<sense>`. Ceci est signifié par la commande `term`. _Folie héréditaire_ n’**est pas** une sous-vedette de l’article INSTINCT, mais un renvoi à une sous-vedette de l’article FOLIE. Il a été essayé de supposer que tous les renvois d’un article formaient une seule clique, il en résultait par exemple que _Altruisme_ était lié à _Folie_. Après expérience sur la totalité des données, il a été constaté que cela produisait beaucoup plus de bruit que de relations sémantiques. La commande _clique_ modélise les rapprochements sémantiques suivants (Instinct, Instincts altruistes, Altruisme) et (Instinct, Perversion morale des instincts, Folie, Folie héréditaire). _Instinct_ et _Altruisme_ sont liés (ainsi que _Instincts altruistes_), _Instinct_ et _Folie_ sont liés (ainsi que _Perversion morale des instincts_ et _Folie héréditaire_) ; mais pas ~~_Altruisme_ et _Folie_~~.
 
 ## Schéma de la base de données
 
 La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est enregistré de manière unique dans la table `dico_terme`, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé `dico_terme.deforme` (lettres minuscules sans accents, traitements particuliers selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table `dico_rel`) entre un _mot_ (`dico_term`) et un _article_ (`dico_entree`) de type _orth_ (`<orth>` selon la nomenclature TEI, `dico_rel.reltype = 1`). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout l’article (`dico_rel.dico_entreee`). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (`dico_rel.clique`) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupées selon les balises `<sense>`). Les tables `dico_volume` et `dico_titre` portent les informations bibliographiques renseignées par l’équipe scientifique.
 
-Dans un scénario habituel de requête, l’utilisateur cherche des lettres (dans `dico_terme.deforme`), les vedettes proposées sont tirées des relations _orth_ et _term_ (pour vedettes principales et secondaires, `dico_rel.reltype`) et sont filtrées par titres d’ouvrages (`dico_rel.dico_titre`). Les filtrages par dates ou type d’ouvrages (médecine, vétérinaire, pharmacie, glossaire…) sont ramenés à ne liste d’identifiant de titre. Quand une vedette est sélectionnée (`dico_terme.id`), sont affichées les entrées qui ont cette vedette, avec les informations bibliographiques nécessaires (`dico_rel.dico_terme` -> `dico_rel.dico_entree` -> `dico_entree.id` -> `dico_entree.dico_volume` -> `dico_volume.id`). Pour afficher les traductions d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les entrées (`dico_rel.dico_entree`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de traduction (`dico_rel.reltype`) ; reprendre cette liste d’entrées, et afficher la liste des traductions qu’elles contiennent en ordre alphabétique. Le principe des _mots liés_ est similaire, à la réserve que la clé de regroupement n’est plus l’_entrée_, mais la _clique_ (`dico_rel.clique`). Pour afficher les mots liés d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les cliques (`dico_rel.clique`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de _clique_ (`dico_rel.reltype`) ; lister ensuite les mots de ces cliques.
+Dans un scénario habituel de requête, l’utilisateur cherche des lettres (dans `dico_terme.deforme`), les vedettes proposées sont tirées des relations _orth_ et _term_ (pour vedettes principales et secondaires, `dico_rel.reltype`) et sont filtrées par titres d’ouvrages (`dico_rel.dico_titre`). Les filtrages par dates ou type d’ouvrages (médecine, vétérinaire, pharmacie, glossaire…) sont ramenés à une liste d’identifiants de titre. Quand une vedette est sélectionnée (`dico_terme.id`), sont affichées les entrées qui ont cette vedette, avec les informations bibliographiques nécessaires (`dico_rel.dico_terme` -> `dico_rel.dico_entree` -> `dico_entree.id` -> `dico_entree.dico_volume` -> `dico_volume.id`). Pour afficher les traductions d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les entrées (`dico_rel.dico_entree`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de traduction (`dico_rel.reltype`) ; reprendre cette liste d’entrées, et afficher la liste des traductions qu’elles contiennent en ordre alphabétique. Le principe des _mots liés_ est similaire, à la réserve que la clé de regroupement n’est plus l’_entrée_, mais la _clique_ (`dico_rel.clique`). Pour afficher les mots liés d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les cliques (`dico_rel.clique`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de _clique_ (`dico_rel.reltype`) ; lister ensuite les mots de ces cliques.
 
 ![Schéma de la base Medict](doc/medict.png)
 

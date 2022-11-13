@@ -76,7 +76,19 @@ class Util
         if (!file_exists($pars_file)) {
             throw new Exception("\n\nParamètres MySQL introuvables, attendus dans :\n$pars_file\ncf. modèle ./_pars.php\n\n");
         }
-        self::$pars = include self::$home . 'pars.php';
+        self::$pars = include $pars_file;
+        $keys = ['host', 'port', 'base', 'user', 'pass', 'mysqldump', 'xml_glob'];
+        $e = [];
+        foreach($keys as $k) {
+            if (isset(self::$pars[$k]) && self::$pars[$k]) continue;
+            $e[] = $k;
+            echo "pars.php ['$k' => ???] paramètre requis";
+        }
+        if (count($e)) {
+            $count = count($e) . " paramètres manquants";
+            if (count($e) == 1) $count = "1 paramètre manquant";
+            throw new Exception("$pars_file, $count : ".implode(", ", $e));
+        }
         return self::$pars;
     }
 
@@ -89,7 +101,7 @@ class Util
         self::$pdo =  new PDO(
             "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['base'],
             self::$pars['user'],
-            self::$pars['password'],
+            self::$pars['pass'],
             array(
                 PDO::ATTR_PERSISTENT => false,
                 PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',

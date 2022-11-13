@@ -1,27 +1,27 @@
 # BIU Santé / Médica / Métadictionnaire : données
 
-Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Médica, servie par l’application web [medict](https://github.com/biusante/medict#readme).
+Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Médica. La génération est séparée de l’application web publique [medict](https://github.com/biusante/medict#readme) qui sert ces données. Il en résulte pour la sécurité que l’application ouverte sur l’extérieur est en lecture seule, qu’elle ne produit aucune données, et que ces données peuvent être produites en SSH sur le serveur, ou bien sur une autre machine, par exemple celle d’un administrateur.
 
-## Chargement rapide
+## Requis
 
-Dans l’instance MySQL d’un serveur PHP
-
-* Créer une base pour le métadictionnaire (ex: `medict`)
-* Un utilisateur avec tous les droits sur cette base (ex: `medict_sql`)
-* Créer et renseigner un fichier `pars.php` (sur le modèle de [_pars.php](_pars.php)) 
-* Charger les tables (schéma et données) au format SQL, dans [data_sql/](data_sql/) (zippée pour PhpMyAdmin).
-
-## Dépendances
+Un serveur MySQL **5.7**. Attention, très gros problème de performances avec **MySQL 8** (requêtes en timeout), cf. https://dev.mysql.com/doc/refman/8.0/en/known-issues.html. Aucun contournement n’a encore été trouvé.
 
 PHP en ligne de commande, version récente (7.3+)
  * Windows, ajouter le chemin du programme php.exe dans son “[Path](https://www.php.net/manual/fr/faq.installation.php#faq.installation.addtopath)”
  * Linux, ajouter le paquet php ligne de commande de sa distribution, ex pour Debian : apt install php-cli
 
 Modules PHP
-  * intl — pour normalisation du grec, [Normalizer](https://www.php.net/manual/fr/class.normalizer.php)
   * pdo_mysql — connexion à la base de données
+  * intl — pour normalisation du grec, [Normalizer](https://www.php.net/manual/fr/class.normalizer.php)
   * mbstring — traitement de chaînes unicode
   * xsl — xsltproc, pour transformations XML/TEI
+  * zip — livraison finale, zipper les fichiers SQL
+
+
+
+## Chargement rapide
+
+Dans l’instance MySQL d’un serveur PHP, créer une base et un utilisateur pour le Métadictionnaire, charger les tables (schéma et données) au format SQL dans [data_sql/](data_sql/) (zippée pour PhpMyAdmin). 
 
 
 ## Génération des tables relationnelles
@@ -64,8 +64,8 @@ L’application ne trouve pas son fichier de paramétrage attendu dans pars.php.
 
 PHP n’a pas chargé l’extension pdo_mysql, cf. php.ini.  
 ```bash
-ubuntu 22.04$ sudo sudo apt update
-ubuntu 22.04$ sudo apt install php-mysql
+Ubuntu 22.04$ sudo apt update
+Ubuntu 22.04$ sudo apt install php-mysql
 ```
 
 **PDOException: SQLSTATE[HY000] [2002] No such file or directory in medict_sql/php/Biusante/Medict/Util.php**
@@ -78,24 +78,28 @@ return array(
 )
 ```
 
-**PDOException: SQLSTATE[HY000] [2002] Connection refused in medict_sql/php/Biusante/Medict/Util.php**
+**PDOException: SQLSTATE[HY000] [2002] Connection refused**
 
 MySQL n’est pas, ou est mal, installé.
 ```bash
+Ubuntu 22.04$ telnet 127.0.0.1 3306
+Trying 127.0.0.1...
+telnet: Unable to connect to remote host: Connection refused
 ubuntu 22.04$ sudo sudo apt update
 ubuntu 22.04$ sudo apt install mysql-server
-ubuntu 22.04$ sudo /etc/init.d/mysql start
+ubuntu 22.04$ sudo service mysql start
 ubuntu 22.04$ telnet 127.0.0.1 3306
 Trying 127.0.0.1...
 Connected to 127.0.0.1.
+# demande un mot de passe, arrêter avec Ctrl+C
 ```
 
-**PDOException: SQLSTATE[HY000] [1698] Access denied for user 'medict_sql'@'localhost' in medict_sql/php/Biusante/Medict/Util.php**
+**PDOException: SQLSTATE[HY000] [1698] Access denied for user …**
 
 MySQL ne connaît pas l’utilisateur déclaré dans votre fichier pars.php. Cet utilisateur a besoin de tous les droits de la base pour créer et remplir les tables (`GRANT ALL PRIVILEGES ON medict.*`), mais aussi du droit de pouvoir utiliser mysqldump (`GRANT PROCESS ON *.* TO …`).
 
 ```bash
-ubuntu 22.04$ sudo mysql
+Ubuntu 22.04$ sudo mysql
 mysql> CREATE DATABASE medict;
 Query OK, 1 row affected (0.02 sec)
 

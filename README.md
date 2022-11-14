@@ -1,4 +1,4 @@
-# BIU Santé / Médica / Métadictionnaire : données
+# BIU Santé / Médica / Métadictionnaire : base de données
 
 Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Médica. La génération est séparée de l’application web publique [medict](https://github.com/biusante/medict#readme) qui sert ces données. Il en résulte pour la sécurité que l’application ouverte sur l’extérieur est en lecture seule, qu’elle ne produit aucune données, et que ces données peuvent être produites en SSH sur le serveur, ou bien sur une autre machine, par exemple celle d’un administrateur.
 
@@ -166,64 +166,12 @@ ubuntu 22.04$ sudo apt-get install php-xml
 * [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
 * .gitattributes, .gitignore, README.md — fichiers git
 
-## Format éditable “événements”
-
-tsv : tab separated values, utf-8. Fichier tabulaire unicode avec la tabulation pour séparateur de cellule (\\t), modifiable avec le tableur LibreOffice (mais surtout pas ~~Microsoft.Excel~~ qui sciemment décode mal l’unicode).
-
-![tsv, LibreOffice](doc/tsv_libreoo.png)
-
-
-Toutes les données à charger dans la base relationnelle sont dans un format tabulaire d’“événements”, au sens où toutes les lignes ne sont pas des données indépendantes, mais sont des sortes de commandes, produisant un contexte pour les lignes suivantes (ex: un saut de page est déclaré une fois pour toutes les entrées qui suivent, jusqu’au saut de page suivant). Ce format est réfléchi pour limiter les redondances, et faciliter la modification humaine. Les données sont chargées dans la base SQL par l’automate [Biusante\Medict\Insert](php/Biusante/Medict/Insert.php).
-
-|commande | paramètre 1 | paramètre 2 | paramètre 3 |
-|--- | --- | --- | --- |
-|pb | 754 | 768 | 4823244 |
-| | _n° page affiché (décimal, romain, etc…)_ | _“refimg”, numéro décimal séquentiel pour url, ex [?do=page&cote=37020d&p=**768**](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=768)_ | _identitiant livancpages de l’ancienne base_ |
-|entry | Glycinium, Glycium, Béryllium | 1 | |
-| | _vedettes (un ou plusieurs mot)_ | _nombre de sauts de pages de l’entrée, 0 = (p. 754), 1 = (p. 754-755), 5 = (p. 754-759)…_ | |
-|orth | Glycinium |  | |
-|orth | Glycium |  | |
-|orth | Béryllium |  | |
-| | _vedette dédoublonnée (si nécessaire)_ |  | |
-|foreign | Glycium | deu | |
-|foreign | glycion | eng | |
-|foreign | glicio | ita | |
-| | _traduction_ | _code langue 3 c._ | |
-|term |	Catalyse ou	fermentation glycique | | |
-| | _sous-entrée, ex: locution_ | | |
-|clique |	Catalyse ou fermentation glycique \| Homérique | | |
-| | _mots liés_ | | |
-
-Le modèle pour les traductions et les mots liées résulte de longues discussions avec l’équipe scientifique, qui expliquent le schéma SQL ensuite.
-
-Soit l’entrée « Glycinium, Glycium, Béryllium ».
-<img src="doc/graphe_complet.png" alt="Graphe complet" width="200" align="left"/>
-Pour les traductions, il a été considéré que le lexicographe a établi une équivalence terminologique stricte, non seulement entre chaque vedette et chaque traduction 2 à 2 : [fra] glycinium <-> [deu] Glycium, [fra] béryllium <-> [deu] Glycium, [fra] glycinium <-> [eng] glycion… mais aussi entre les mots en langue étrangère entre eux :  [deu] Glycium <-> [eng] glycion <-> [ita] glicio <-> [deu] Glycium. En termes de théorie des graphes, ces _mots_ (forme graphique + langue) sont les nœuds d’un [graphe complet](https://fr.wikipedia.org/wiki/Graphe_complet) épuisant toutes les relations entre les nœuds. ([fra] glycinium, [fra] béryllium, [fra] glycinium, [deu] Glycium, [eng] glycion, [ita] glicio).
-
-Pour les _mots liés_ (renvois, locutions…) un extrait de l’article [INSTINCT](https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&cote=37020d&p=0820) permettra d’illustrer le modèle.
-
-**INSTINCT.** s. m. […] — _Instincts altruistes_. V. ALTRUISME. […] — _Perversion morale des instincts_. V. FOLIE _héréditaire_.</sense>
-
-~~~~
-<entry xml:id="instinct">
-  <form><orth>Instinct</orth>, s. m.</form>
-  <sense>— <term>Instincts altruistes</term>. V. <ref target="altruisme">Altruisme</ref>.</sense>
-  <sense>— <term>Perversion morale des instincts</term>. V. <xr><ref target="folie">Folie</ref> héréditaire</xr>.</sense>
-</entry>
-~~~~
-
-| entry |	Instinct |
-|--- | --- |
-| term	| Instincts altruistes	|	
-| clique |	Instincts altruistes \| Altruisme	|
-| term |	Perversion morale des instincts	|
-| clique |	Perversion morale des instincts \| Folie \| Folie héréditaire		|
-
-_Instincts altruistes_ et _Perversion morale des instincts_ sont des sous-vedettes de l’article INSTINCT. Le balisage a permis d’en délimiter la portée avec l’_élément_ `<sense>`. Ceci est signifié par la commande `term`. _Folie héréditaire_ n’**est pas** une sous-vedette de l’article INSTINCT, mais un renvoi à une sous-vedette de l’article FOLIE. Il a été essayé de supposer que tous les renvois d’un article formaient une seule clique, il en résultait par exemple que _Altruisme_ était lié à _Folie_. Après expérience sur la totalité des données, il a été constaté que cela produisait beaucoup plus de bruit que de relations sémantiques. La commande _clique_ modélise les rapprochements sémantiques suivants (Instinct, Instincts altruistes, Altruisme) et (Instinct, Perversion morale des instincts, Folie, Folie héréditaire). _Instinct_ et _Altruisme_ sont liés (ainsi que _Instincts altruistes_), _Instinct_ et _Folie_ sont liés (ainsi que _Perversion morale des instincts_ et _Folie héréditaire_) ; mais pas ~~_Altruisme_ et _Folie_~~.
 
 ## Schéma de la base de données
 
-La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est enregistré de manière unique dans la table `dico_terme`, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé `dico_terme.deforme` (lettres minuscules sans accents, traitements particuliers selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table `dico_rel`) entre un _mot_ (`dico_term`) et un _article_ (`dico_entree`) de type _orth_ (`<orth>` selon la nomenclature TEI, `dico_rel.reltype = 1`). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout l’article (`dico_rel.dico_entreee`). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (`dico_rel.clique`) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupées selon les balises `<sense>`). Les tables `dico_volume` et `dico_titre` portent les informations bibliographiques renseignées par l’équipe scientifique.
+Le schéma peut être éclairé par le format de fichier qui y rentre, cf. [data_events/](data_events#readme)
+
+La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est enregistré de manière unique dans la table `dico_terme`, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé `dico_terme.deforme` (lettres minuscules sans accents, traitements particuliers selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table `dico_rel`) entre un _mot_ (`dico_term`) et un _article_ (`dico_entree`) de type _orth_ (`<orth>` selon la nomenclature TEI, `dico_rel.reltype = 1`). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout l’article (`dico_rel.dico_entreee`). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (`dico_rel.clique`) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupées selon les balises `<sense>`). Les tables `dico_volume` et `dico_titre` portent les informations bibliographiques renseignées par l’équipe scientifique dans les fichiers [dico_titre.tsv](dico_titre.tsv) et [dico_volume.tsv](dico_volume.tsv).
 
 Dans un scénario habituel de requête, l’utilisateur cherche des lettres (dans `dico_terme.deforme`), les vedettes proposées sont tirées des relations _orth_ et _term_ (pour vedettes principales et secondaires, `dico_rel.reltype`) et sont filtrées par titres d’ouvrages (`dico_rel.dico_titre`). Les filtrages par dates ou type d’ouvrages (médecine, vétérinaire, pharmacie, glossaire…) sont ramenés à une liste d’identifiants de titre. Quand une vedette est sélectionnée (`dico_terme.id`), sont affichées les entrées qui ont cette vedette, avec les informations bibliographiques nécessaires (`dico_rel.dico_terme` -> `dico_rel.dico_entree` -> `dico_entree.id` -> `dico_entree.dico_volume` -> `dico_volume.id`). Pour afficher les traductions d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les entrées (`dico_rel.dico_entree`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de traduction (`dico_rel.reltype`) ; reprendre cette liste d’entrées, et afficher la liste des traductions qu’elles contiennent en ordre alphabétique. Le principe des _mots liés_ est similaire, à la réserve que la clé de regroupement n’est plus l’_entrée_, mais la _clique_ (`dico_rel.clique`). Pour afficher les mots liés d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les cliques (`dico_rel.clique`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de _clique_ (`dico_rel.reltype`) ; lister ensuite les mots de ces cliques.
 

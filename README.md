@@ -26,7 +26,7 @@ Dans l’instance MySQL d’un serveur PHP, créer une base et un utilisateur po
 
 ## Génération des tables relationnelles
 
-**Attention, la génération prend une vingtaine de minutes sur Windows, elle est plus longue sur linux, une approche plus rapide est en cours d’écriture.**
+**Attention, la génération prend une vingtaine de minutes**
 
 * Récupérer l’entrepôt des fichiers xml/tei des dictionnaires balisés finement
   <br/>`mes_source$ git clone https://github.com/biusante/medict_xml.git`

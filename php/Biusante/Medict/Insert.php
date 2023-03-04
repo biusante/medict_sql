@@ -33,7 +33,7 @@ class Insert extends Util
         C::_DELOC => null,
         C::_TAILLE => -1,
         C::_MOTS => -1,
-        C::_BETACODE => null,
+        C::_UVIJ => null,
     );
     /** Insérer une relation */
     private static $dico_rel = array(

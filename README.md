@@ -153,17 +153,15 @@ ubuntu 22.04$ sudo apt-get install php-xml
 
 ## Arbre des fichiers
 
-* [data_sql/](data_sql/) — GÉNÉRÉ, données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
-* [pars.php](pars.php) — MODIFIABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
+* [build_sql/](data_sql/) — GÉNÉRÉ, données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
+* [pars.php](pars.php) — MODIFIABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
 * [build.php](build.php) — script de génération de la totalité des données.
 * [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
 * [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
-* [data_events/](data_events/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
-* [exports/](exports/) — GÉNÉRÉ, des fichiers qui ont été demandé pour une vue sur les données.
+* [src_tsv/](src_tsv/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [views/](views/) — GÉNÉRÉ, différentes vues partielles sur les données pour interrogations scientifiques.
 * [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source du code SQL.
 * [doc/](doc/) — documentation, documents de l’équipe et de recherche, et surtout.
-* [anc_sql/](anc_sql/) — ARCHIVÉ, export SQL des données de la base orginale Médica, laissé pour mémoire.
-* [anc_tsv/](anc_tsv/) — ARCHIVÉ, données récupérées de la base orginale Médica, 1 fichier par volume, dans leur structure initiale (une ligne par page avec les titres structurants, généralement, les vedettes). Ces données sont archivées pour mémoire, leur traitement a été poussé le plus loin possible avec [Biusante\Medict\Anc](php/Biusante/Medict/Anc.php) pour alimenter [data_events/](data_events/).
 * .gitattributes, .gitignore, README.md — fichiers git
 
 

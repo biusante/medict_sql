@@ -136,23 +136,22 @@ class Insert extends Util
     /**
      * Recharger la table dico_titre
      */
-    static public function dico_titre()
+    static public function dico_titre($titre_file)
     {
         echo "dico_titre, insertion de la table des titres\n";
         self::$pdo->exec("SET FOREIGN_KEY_CHECKS=0");
         self::$pdo->exec("TRUNCATE dico_titre");
-        self::insert_table(self::$home . 'dico_titre.tsv', 'dico_titre');
+        self::insert_table($titre_file, 'dico_titre');
     }
 
     /**
      * Charger les information de volumes depuis dico_volume.tsv
      */
-    static public function dico_volume()
+    static public function dico_volume($volume_file)
     {
         echo "dico_volume, insertion de la table des volumes\n";
         // charger le fichier de volumes dans un index, clé = cote livre
         // first line, colums names
-        $volume_file = self::$home . 'dico_volume.tsv';
         $handle = fopen($volume_file, 'r');
         $sep = "\t";
         $volume_index = [];
@@ -477,7 +476,7 @@ class Insert extends Util
             fwrite(STDERR, 'Erreur ? Terme vide p. ' . self::$dico_rel[C::_PAGE]."\n");
             return null;
         }
-        $deforme = self::deforme($forme, $langue);
+        $deforme = self::deforme($forme);
         // passer la langue en nombre
         $langue = self::$langs[$langue] ?? NULL;
         // tester cache mémoire
@@ -523,11 +522,19 @@ class Insert extends Util
         else {
             self::$dico_terme[C::_DELOC] = null;
         }
+        /*
         if ('grc' == $langue) { // betacode
             self::$dico_terme[C::_BETACODE] = strtr($deforme, self::$grc_lat);
         }
         else {
             self::$dico_terme[C::_BETACODE] = null;
+        }
+        */
+        if ('lat' == $langue) { // uvij
+            self::$dico_terme[C::_UVIJ] = self::deforme($forme, true);
+        }
+        else {
+            self::$dico_terme[C::_UVIJ] = null;
         }
         try {
             self::$q[C::DICO_TERME]->execute(self::$dico_terme);
@@ -1050,7 +1057,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         $base = 'medict';
         foreach ($tables as $table) {
             $sql_file = $dst_dir . 'medict_' . $table . '.sql';
-            $cmd = "$mysqldump --user={$pars['user']} --password={$pars['password']} --host={$pars['host']} {$pars['base']}  $table --result-file=$sql_file";
+            $cmd = "$mysqldump --user={$pars['user']} --password={$pars['password']} --host={$pars['host']} {$pars['dbname']}  $table --result-file=$sql_file";
             exec($cmd);
             [ 'filename' => $sql_name, 'basename' => $sql_fname ] = pathinfo($sql_file);
             $zip_file = $dst_dir . $sql_name . '.zip';

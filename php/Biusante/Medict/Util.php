@@ -77,7 +77,7 @@ class Util
             throw new Exception("\n\nParamètres MySQL introuvables, attendus dans :\n$pars_file\ncf. modèle ./_pars.php\n\n");
         }
         self::$pars = include $pars_file;
-        $keys = ['host', 'port', 'base', 'user', 'pass', 'mysqldump', 'xml_glob'];
+        $keys = ['host', 'port', 'dbname', 'user', 'password', 'mysqldump', 'xml_glob'];
         $e = [];
         foreach($keys as $k) {
             if (isset(self::$pars[$k]) && self::$pars[$k]) continue;
@@ -99,9 +99,9 @@ class Util
     {
         self::pars();
         self::$pdo =  new PDO(
-            "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['base'],
+            "mysql:host=" . self::$pars['host'] . ";port=" . self::$pars['port'] . ";dbname=" . self::$pars['dbname'],
             self::$pars['user'],
-            self::$pars['pass'],
+            self::$pars['password'],
             array(
                 PDO::ATTR_PERSISTENT => false,
                 PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',
@@ -123,7 +123,7 @@ class Util
     /**
      * Désaccentuation d’une forme, à partager avec l’application de diffusion
      */
-    public static function deforme($s, $langue=null)
+    public static function deforme($s, $uvij=false)
     {
         // bas de casse
         $s = mb_convert_case($s, MB_CASE_FOLD, "UTF-8");
@@ -131,7 +131,7 @@ class Util
         $s = Normalizer::normalize($s, Normalizer::FORM_D);
         // ne conserver que les lettres et les espaces, et les traits d’union
         $s = preg_replace("/[^\p{L}\-\s]/u", '', $s);
-        if ('lat' === $langue) {
+        if ($uvij) {
             $s = strtr($s,
                 array(
                     'œ' => 'e',
@@ -140,7 +140,8 @@ class Util
                     'u' => 'v',
                 )
             );
-        } else {
+        }
+        else {
             // ligatures
             $s = strtr(
                 $s,

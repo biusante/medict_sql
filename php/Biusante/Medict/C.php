@@ -31,7 +31,7 @@ class C
     const RELTYPE_FOREIGN = 3;
     // const RELTYPE_REF = 3;
     const RELTYPE_CLIQUE = 10;
-    const _BETACODE =':betacode';
+    // const _BETACODE =':betacode';
     const _CLIQUE = ':clique';
     const _DEFORME = ':deforme';
     const _DELOC = ':deloc';

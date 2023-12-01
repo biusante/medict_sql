@@ -119,7 +119,7 @@ ref	De Gorris 1601
 
 
 
-  <xsl:template match="tei:sense[.//tei:term]">
+  <xsl:template match="tei:sense[.//tei:term] | tei:p[.//tei:term]">
     <xsl:for-each select=".//tei:term">
       <xsl:text>term</xsl:text>
       <xsl:value-of select="$tab"/>
@@ -194,7 +194,7 @@ ref	De Gorris 1601
   </xsl:template>
 
   <xsl:template match="tei:sense//tei:foreign">
-    <!-- Non vérifié, ne rien sortir -->
+    <!-- Non vérifié, ne rien sortir pour l’instant -->
   </xsl:template>
 
 

@@ -530,6 +530,7 @@ class Insert extends Util
             self::$dico_terme[C::_BETACODE] = null;
         }
         */
+        echo "$langue $forme\n";
         if ('lat' == $langue) { // uvij
             self::$dico_terme[C::_UVIJ] = self::deforme($forme, true);
         }

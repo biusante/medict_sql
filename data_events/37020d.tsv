@@ -370,20 +370,6 @@ clique	Couard
 entry	Aborigène	0	
 orth	Aborigène		
 clique	Indigène		
-entry	Abortif	0	
-orth	Abortif		
-foreign	abortivus	lat	
-foreign	abortif	deu	
-foreign	abtreibend	deu	
-foreign	abortive	eng	
-foreign	abortivo	ita	
-term	Foetus abortif		
-term	avorton		
-clique	Foetus abortif | avorton		
-term	Méthode abortive		
-clique	Méthode abortive		
-term	Abortif		
-clique	Abortif		
 entry	Abouchement	0	
 orth	Abouchement		
 foreign	Einmündung	deu	
@@ -71787,7 +71773,7 @@ clique	Artère maxillaire interne
 term	Artère maxillaire inférieure		
 clique	Artère maxillaire inférieure		
 term	Canal maxillaire		
-clique	Canal maxillaire | Dentaibe		
+clique	Canal maxillaire | Dentaire		
 term	Epine maxillaire		
 clique	Epine maxillaire | Épine		
 term	Hydropisiè du sinus maxillaire		
@@ -118068,8 +118054,8 @@ term	Tablettes de menthe
 clique	Tablettes de menthe | Menthe		
 term	Tablettes de mercure doux		
 clique	Tablettes de mercure doux | Vebmifuge		
-term	Tablettes oxaliques oupastilles contre la soif		
-clique	Tablettes oxaliques oupastilles contre la soif		
+term	Tablettes oxaliques ou pastilles contre la soif		
+clique	Tablettes oxaliques ou pastilles contre la soif		
 term	Tablettes de quinquina		
 clique	Tablettes de quinquina | Quinquina		
 term	Tablettes de rhubarbe		
@@ -118258,9 +118244,8 @@ foreign	taffetà	ita
 foreign	tafetan	spa	
 term	Taffetas d’Angleterre		
 clique	Taffetas d’Angleterre		
-term	Taffetas vésicatoire		
-term	taffetas épispastique		
-clique	Taffetas vésicatoire | taffetas épispastique | Vésicatoire		
+entry		0	
+clique	Vésicatoire		
 pb	1530	1544	
 entry	Tafia	0	
 orth	Tafia		

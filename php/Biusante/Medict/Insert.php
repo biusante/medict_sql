@@ -469,7 +469,7 @@ class Insert extends Util
      * Rend l’identifiant d’un terme dans la table dico_terme, 
      * crée la ligne si nécessaire
      */
-    public static function terme_id($forme, $langue)
+    public static function terme_id($forme, $langue_iso)
     {
         // Forme nulle ? 
         if (!$forme) {
@@ -478,15 +478,15 @@ class Insert extends Util
         }
         $deforme = self::deforme($forme);
         // passer la langue en nombre
-        $langue = self::$langs[$langue] ?? NULL;
+        $langue_no = self::$langs[$langue_iso] ?? NULL;
         // tester cache mémoire
-        $key = $langue . '_' . $deforme;
+        $key = $langue_no . '_' . $deforme;
         if (isset(self::$terme_id[$key])) {
             return self::$terme_id[$key];
         }
 
-        if ($langue) {
-            self::$q['forme_langue_id']->execute(array($deforme, $langue));
+        if ($langue_no) {
+            self::$q['forme_langue_id']->execute(array($deforme, $langue_no));
             $row = self::$q['forme_langue_id']->fetch(PDO::FETCH_NUM);
             // if ($row) echo "$forme\t$langue\t$deforme\t$row[0]\n";
         } else {
@@ -504,7 +504,7 @@ class Insert extends Util
         // Assurer une majuscule initiale
         $forme = mb_convert_case(mb_substr($forme, 0, 1), MB_CASE_UPPER ) . mb_substr($forme, 1);
         self::$dico_terme[C::_FORME] = $forme;
-        self::$dico_terme[C::_LANGUE] = $langue;
+        self::$dico_terme[C::_LANGUE] = $langue_no;
         self::$dico_terme[C::_DEFORME] = $deforme;
         self::$dico_terme[C::_TAILLE] = mb_strlen($deforme);
         // compter les mots non vides
@@ -530,8 +530,7 @@ class Insert extends Util
             self::$dico_terme[C::_BETACODE] = null;
         }
         */
-        echo "$langue $forme\n";
-        if ('lat' == $langue) { // uvij
+        if ('lat' == $langue_iso) { // uvij
             self::$dico_terme[C::_UVIJ] = self::deforme($forme, true);
         }
         else {

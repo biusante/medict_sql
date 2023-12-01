@@ -7,6 +7,11 @@ use Biusante\Medict\{Insert, Tei, Util};
 $time_start = microtime(true);
 $pars = Util::pars();
 
+// vider le dico de termes
+Insert::truncate();
+Insert::insert_titre('00216');
+die();
+
 // regénérer les données des sources xml
 foreach (glob(dirname(__DIR__) . '/medict_xml/xml/*.xml') as $xml_file) {
     $name = pathinfo($xml_file, PATHINFO_FILENAME);
@@ -14,18 +19,11 @@ foreach (glob(dirname(__DIR__) . '/medict_xml/xml/*.xml') as $xml_file) {
     if (strpos($name, "medict01686") === 0) continue;
     Tei::tei_events($xml_file);
 }
-Insert::insert_titre('00216');
-die();
-
-// regénérer les données des sources xml
-foreach (glob($pars['xml_glob']) as $xml_file) {
-    Tei::tei_events($xml_file);
-}
 // table des titres
 Insert::dico_titre(__DIR__ . '/dico_titre.tsv');
 // table des volumes
 Insert::dico_volume(__DIR__ . '/dico_volume.tsv');
-// vider les tables
+// vider le dico de termes
 Insert::truncate();
 // insérer les événements
 Insert::insert_all();

@@ -1,6 +1,5 @@
 pb	[s. pag.]	0001	4789851
 entry	[Page de titre]	0	
-orth	[Page de titre]	lat	
 pb	[s. pag.]	0002	4789852
 entry	Nabit	0	
 orth	Nabit	lat	
@@ -11,8 +10,8 @@ orth	Naducem	lat
 entry	Naevus	0	
 orth	Naevus	lat	
 entry	Nafda, and Nasda	0	
-orth	Nafda		
-orth	and Nasda		
+orth	Nafda	lat	
+orth	and Nasda	lat	
 entry	Nagam	0	
 orth	Nagam	lat	
 entry	Nagemlus	0	
@@ -22,8 +21,8 @@ orth	Nakir	lat
 entry	Nalugn	0	
 orth	Nalugn	lat	
 entry	Nana, or Nanas	0	
-orth	Nana		
-orth	or Nanas		
+orth	Nana	lat	
+orth	Nanas	lat	
 entry	Nandi-ervatam	0	
 orth	Nandi-ervatam	lat	
 entry	Napeca	0	
@@ -46,8 +45,8 @@ orth	Napy	lat
 entry	Nar	0	
 orth	Nar	lat	
 entry	Narcaphthon, or Nascapthon	0	
-orth	Narcaphthon		
-orth	or Nascapthon		
+orth	Narcaphthon	lat	
+orth	Nascapthon	lat	
 entry	Narce	0	
 orth	Narce	lat	
 entry	Narcisso-colchicum	0	
@@ -103,11 +102,11 @@ orth	Nasus	lat
 pb	[s. pag.]	0014	4789864
 pb	[s. pag.]	0015	4789865
 entry	Nata, Natta, Nasa, Nasda, or Napta	0	
-orth	Nata		
-orth	Natta		
-orth	Nasa		
-orth	Nasda		
-orth	or Napta		
+orth	Nata	lat	
+orth	Natta	lat	
+orth	Nasa	lat	
+orth	Nasda	lat	
+orth	Napta	lat	
 entry	Nataron	0	
 orth	Nataron	lat	
 entry	Natatio	0	
@@ -123,8 +122,8 @@ orth	Natta	lat
 entry	Naturalia	0	
 orth	Naturalia	lat	
 entry	Naviculare Os, or Naviforme	0	
-orth	Naviculare Os		
-orth	or Naviforme		
+orth	Naviculare Os	lat	
+orth	Naviforme	lat	
 entry	Navigatio	0	
 orth	Navigatio	lat	
 entry	Nausea	0	
@@ -191,8 +190,8 @@ orth	Neli-pouli	lat
 entry	Nenemia	0	
 orth	Nenemia	lat	
 entry	Nenufar, or Nenuphar	0	
-orth	Nenufar		
-orth	or Nenuphar		
+orth	Nenufar	lat	
+orth	Nenuphar	lat	
 entry	Nenufareni	0	
 orth	Nenufareni	lat	
 entry	Nepa	0	
@@ -258,8 +257,8 @@ orth	Nesis	lat
 entry	Nestis	0	
 orth	Nestis	lat	
 entry	Net, or Neta	0	
-orth	Net		
-orth	or Neta		
+orth	Net	lat	
+orth	Neta	lat	
 entry	Netopon	0	
 orth	Netopon	lat	
 entry	Neur	0	
@@ -311,8 +310,8 @@ orth	Nicolai emplastrum	lat
 entry	Nicolaus myrepsus	0	
 orth	Nicolaus myrepsus	lat	
 entry	Nicon, or Ninors	0	
-orth	Nicon		
-orth	or Ninors		
+orth	Nicon	lat	
+orth	Ninors	lat	
 entry	Nicotiana	2	
 orth	Nicotiana	lat	
 pb	[s. pag.]	0037	4789887
@@ -331,8 +330,8 @@ orth	Nigellastrum	lat
 entry	Niger morbus	0	
 orth	Niger morbus	lat	
 entry	Nihil album, & Griseum	0	
-orth	Nihil album		
-orth	Griseum		
+orth	Nihil album	lat	
+orth	Griseum	lat	
 entry	Niir notsjil	0	
 orth	Niir notsjil	lat	
 entry	Niir-pongelion	0	
@@ -367,8 +366,8 @@ pb	[s. pag.]	0040	4789890
 entry	Niruri	0	
 orth	Niruri	lat	
 entry	Nisi, or Ninsi	0	
-orth	Nisi		
-orth	or Ninsi		
+orth	Nisi	lat	
+orth	Ninsi	lat	
 entry	Nissolia	0	
 orth	Nissolia	lat	
 entry	Nisus	0	
@@ -459,8 +458,8 @@ orth	Novale	lat
 entry	Nuba	0	
 orth	Nuba	lat	
 entry	Nubes, or Nubecula	0	
-orth	Nubes		
-orth	or Nubecula		
+orth	Nubes	lat	
+orth	Nubecula	lat	
 entry	Nucamenta	0	
 orth	Nucamenta	lat	
 entry	Nuces è Narbadoes	0	
@@ -536,8 +535,8 @@ orth	Obliquus	lat
 entry	Obolus	0	
 orth	Obolus	lat	
 entry	Obrizum, or Obryzum	0	
-orth	Obrizum		
-orth	or Obryzum		
+orth	Obrizum	lat	
+orth	Obryzum	lat	
 entry	Obsidiana	0	
 orth	Obsidiana	lat	
 pb	[s. pag.]	0056	4789906
@@ -671,8 +670,8 @@ orth	Odontiasis	lat
 entry	Odontica	0	
 orth	Odontica	lat	
 entry	Odontis, and Odontitis	0	
-orth	Odontis		
-orth	and Odontitis		
+orth	Odontis	lat	
+orth	and Odontitis	lat	
 entry	Odontoglyphon	0	
 orth	Odontoglyphon	lat	
 entry	Odontoides	0	
@@ -748,9 +747,9 @@ orth	Officinalia	lat
 entry	Offion	0	
 orth	Offion	lat	
 entry	Oger, ogertinum, and Ogertum	0	
-orth	Oger		
-orth	ogertinum		
-orth	and Ogertum		
+orth	Oger	lat	
+orth	ogertinum	lat	
+orth	and Ogertum	lat	
 entry	Olampi	0	
 orth	Olampi	lat	
 entry	Olca	0	
@@ -939,8 +938,8 @@ orth	Ophioscorodon	lat
 entry	Ophiostaphylon	0	
 orth	Ophiostaphylon	lat	
 entry	Ophites & serpentinus	0	
-orth	Ophites		
-orth	serpentinus		
+orth	Ophites	lat	
+orth	serpentinus	lat	
 entry	Ophris	0	
 orth	Ophris	lat	
 entry	Ophrys	0	
@@ -990,8 +989,8 @@ pb	[s. pag.]	0142	4789992
 entry	Opobalsamum	0	
 orth	Opobalsamum	lat	
 entry	Opocalpason, Opocarpason	0	
-orth	Opocalpason		
-orth	Opocarpason		
+orth	Opocalpason	lat	
+orth	Opocarpason	lat	
 entry	Opodeldoc	0	
 orth	Opodeldoc	lat	
 entry	Opopanax	1	
@@ -1222,8 +1221,8 @@ orth	Ostracites	lat
 entry	Ostrites	0	
 orth	Ostrites	lat	
 entry	Ostritium, or Ostrutium	0	
-orth	Ostritium		
-orth	or Ostrutium		
+orth	Ostritium	lat	
+orth	Ostrutium	lat	
 entry	Ostrya	0	
 orth	Ostrya	lat	
 entry	Ostrys	0	
@@ -1245,8 +1244,8 @@ orth	Otites	lat
 entry	Ovaria	0	
 orth	Ovaria	lat	
 entry	Ovatus, or Oviformis humor	0	
-orth	Ovatus		
-orth	or Oviformis humor		
+orth	Ovatus	lat	
+orth	Oviformis humor	lat	
 entry	Oviductus	0	
 orth	Oviductus	lat	
 entry	Ovis	1	
@@ -1468,8 +1467,8 @@ orth	Panalethes	lat
 entry	Panaritium	0	
 orth	Panaritium	lat	
 entry	Panata, or Panatella	0	
-orth	Panata		
-orth	or Panatella		
+orth	Panata	lat	
+orth	Panatella	lat	
 entry	Panax asclepium	0	
 orth	Panax asclepium	lat	
 entry	Pancala aurea	0	
@@ -1540,10 +1539,10 @@ orth	Pantolinus pastillus	lat
 entry	Pantolmius	0	
 orth	Pantolmius	lat	
 entry	Panus, panis, panicula, and panula	0	
-orth	Panus		
-orth	panis		
-orth	panicula		
-orth	and panula		
+orth	Panus	lat	
+orth	panis	lat	
+orth	panicula	lat	
+orth	and panula	lat	
 entry	Panygron	0	
 orth	Panygron	lat	
 entry	Papaver	2	
@@ -1563,8 +1562,8 @@ orth	Papillare os	lat
 entry	Papillares processus	0	
 orth	Papillares processus	lat	
 entry	Papio, or Pavio	0	
-orth	Papio		
-orth	or Pavio		
+orth	Papio	lat	
+orth	Pavio	lat	
 entry	Pappa	0	
 orth	Pappa	lat	
 entry	Pappus	0	
@@ -1696,8 +1695,8 @@ orth	Paris herba	lat
 entry	Paristhmia	0	
 orth	Paristhmia	lat	
 entry	Pariti, or Tali-pariti	0	
-orth	Pariti		
-orth	or Tali-pariti		
+orth	Pariti	lat	
+orth	Tali-pariti	lat	
 entry	Parkinsonia	0	
 orth	Parkinsonia	lat	
 entry	Parnassia	0	
@@ -1766,8 +1765,8 @@ pb	[s. pag.]	0211	4790061
 entry	Patella	0	
 orth	Patella	lat	
 entry	Patetheisae, or Patetae uvae	0	
-orth	Patetheisae		
-orth	or Patetae uvae		
+orth	Patetheisae	lat	
+orth	Patetae uvae	lat	
 entry	Pathema	0	
 orth	Pathema	lat	
 entry	Patheticus	0	
@@ -1941,8 +1940,8 @@ orth	Pepastica	lat
 entry	Pepitas del peru	0	
 orth	Pepitas del peru	lat	
 entry	Peplion, peplos	0	
-orth	Peplion		
-orth	peplos		
+orth	Peplion	lat	
+orth	peplos	lat	
 entry	Peplis	0	
 orth	Peplis	lat	
 entry	Peplus	0	
@@ -1955,8 +1954,8 @@ orth	Pepo	lat
 entry	Pepticos	0	
 orth	Pepticos	lat	
 entry	Pequea, or Pekia	0	
-orth	Pequea		
-orth	or Pekia		
+orth	Pequea	lat	
+orth	Pekia	lat	
 entry	Peragu	0	
 orth	Peragu	lat	
 entry	Perca	0	
@@ -1996,8 +1995,8 @@ orth	Perforatus musculus	lat
 entry	Perfrictio	0	
 orth	Perfrictio	lat	
 entry	Periamma, or Periapton	0	
-orth	Periamma		
-orth	or Periapton		
+orth	Periamma	lat	
+orth	Periapton	lat	
 pb	[s. pag.]	0221	4790071
 entry	Periblepsis	0	
 orth	Periblepsis	lat	
@@ -2247,8 +2246,8 @@ pb	[s. pag.]	0248	4790098
 entry	Peza	0	
 orth	Peza	lat	
 entry	Phace, or Phacos	0	
-orth	Phace		
-orth	or Phacos		
+orth	Phace	lat	
+orth	Phacos	lat	
 entry	Phacodes	0	
 orth	Phacodes	lat	
 entry	Phacoides	0	
@@ -2266,8 +2265,8 @@ orth	Phagedaena	lat
 entry	Phagos	0	
 orth	Phagos	lat	
 entry	Phagrus, or Pagrus	0	
-orth	Phagrus		
-orth	or Pagrus		
+orth	Phagrus	lat	
+orth	Pagrus	lat	
 entry	Phalacra	0	
 orth	Phalacra	lat	
 entry	Phalacrocorax	0	
@@ -2498,8 +2497,8 @@ orth	Phoca	lat
 entry	Phocaena	0	
 orth	Phocaena	lat	
 entry	Phodes, or Phoides	0	
-orth	Phodes		
-orth	or Phoides		
+orth	Phodes	lat	
+orth	Phoides	lat	
 entry	Phoenicites	0	
 orth	Phoenicites	lat	
 entry	Phoenicium emplastrum	0	
@@ -2548,8 +2547,8 @@ orth	Phrasium	lat
 entry	Phrenes	0	
 orth	Phrenes	lat	
 entry	Phrenesis, Phrenetiasis	0	
-orth	Phrenesis		
-orth	Phrenetiasis		
+orth	Phrenesis	lat	
+orth	Phrenetiasis	lat	
 entry	Phrenitici nervi	0	
 orth	Phrenitici nervi	lat	
 entry	Phrenitis	3	
@@ -2645,8 +2644,8 @@ orth	Phypella	lat
 entry	Phyrama	0	
 orth	Phyrama	lat	
 entry	Physa, Physe	0	
-orth	Physa		
-orth	Physe		
+orth	Physa	lat	
+orth	Physe	lat	
 entry	Physalis	0	
 orth	Physalis	lat	
 entry	Physalos	0	
@@ -2733,8 +2732,8 @@ orth	Pilaris morbus	lat
 entry	Pilatio	0	
 orth	Pilatio	lat	
 entry	Pileus, or Piliolus	0	
-orth	Pileus		
-orth	or Piliolus		
+orth	Pileus	lat	
+orth	Piliolus	lat	
 entry	Pili zenii	0	
 orth	Pili zenii	lat	
 entry	Pilimictio	0	
@@ -2782,8 +2781,8 @@ orth	Pinipinichi	lat
 entry	Pinna	0	
 orth	Pinna	lat	
 entry	Pinna, or Pinna Marina	0	
-orth	Pinna		
-orth	or Pinna Marina		
+orth	Pinna	lat	
+orth	Pinna Marina	lat	
 entry	Pinnaculum fornicis gutturalis	0	
 orth	Pinnaculum fornicis gutturalis	lat	
 entry	Pino	0	
@@ -2912,8 +2911,8 @@ entry	Plantago aquatica	1
 orth	Plantago aquatica	lat	
 pb	[s. pag.]	0300	4790150
 entry	Plantaris musculus, or Tibialis gracilis	0	
-orth	Plantaris musculus		
-orth	or Tibialis gracilis		
+orth	Plantaris musculus	lat	
+orth	Tibialis gracilis	lat	
 entry	Plasticus	0	
 orth	Plasticus	lat	
 entry	Platae	0	
@@ -3180,8 +3179,8 @@ orth	Pomphos	lat
 entry	Pomum	0	
 orth	Pomum	lat	
 entry	Pondo, or Pondus	0	
-orth	Pondo		
-orth	or Pondus		
+orth	Pondo	lat	
+orth	Pondus	lat	
 entry	Ponga	0	
 orth	Ponga	lat	
 entry	Pongam	0	
@@ -3252,8 +3251,8 @@ orth	Porrigo	lat
 entry	Porrum	0	
 orth	Porrum	lat	
 entry	Porrum, or Porrus	0	
-orth	Porrum		
-orth	or Porrus		
+orth	Porrum	lat	
+orth	Porrus	lat	
 entry	Porta	0	
 orth	Porta	lat	
 entry	Portaiguille	0	
@@ -3347,8 +3346,8 @@ pb	[s. pag.]	0332	4790182
 entry	Praescriptio	0	
 orth	Praescriptio	lat	
 entry	Praesepia, or Presepiola	0	
-orth	Praesepia		
-orth	or Presepiola		
+orth	Praesepia	lat	
+orth	Presepiola	lat	
 entry	Praeservativa remedia	0	
 orth	Praeservativa remedia	lat	
 entry	Praeservatoria indicatio	0	
@@ -3358,8 +3357,8 @@ orth	Pramnios	lat
 entry	Prasinum viride	0	
 orth	Prasinum viride	lat	
 entry	Prasinus, or Prasoides	0	
-orth	Prasinus		
-orth	or Prasoides		
+orth	Prasinus	lat	
+orth	Prasoides	lat	
 entry	Prasis	0	
 orth	Prasis	lat	
 entry	Prasites	0	
@@ -3377,11 +3376,11 @@ orth	Premnon	lat
 entry	Presbytae	0	
 orth	Presbytae	lat	
 entry	Presis, or Presma	0	
-orth	Presis		
-orth	or Presma		
+orth	Presis	lat	
+orth	Presma	lat	
 entry	Presmuchum, or Presmukis	0	
-orth	Presmuchum		
-orth	or Presmukis		
+orth	Presmuchum	lat	
+orth	Presmukis	lat	
 entry	Pressorium	0	
 orth	Pressorium	lat	
 entry	Pressura	0	
@@ -3687,8 +3686,8 @@ entry	Ptilosis	1
 orth	Ptilosis	lat	
 pb	[s. pag.]	0344	4790194
 entry	Ptissana, five Ptisana	0	
-orth	Ptissana		
-orth	five Ptisana		
+orth	Ptissana	lat	
+orth	five Ptisana	lat	
 entry	Ptolemaei chirurgi medicamentum	0	
 orth	Ptolemaei chirurgi medicamentum	lat	
 entry	Ptosis	0	
@@ -3763,8 +3762,8 @@ pb	[s. pag.]	0351	4790201
 pb	[s. pag.]	0352	4790202
 pb	[s. pag.]	0353	4790203
 entry	Pulveratio, or Pulverisatio	0	
-orth	Pulveratio		
-orth	or Pulverisatio		
+orth	Pulveratio	lat	
+orth	Pulverisatio	lat	
 entry	Pulvillus	0	
 orth	Pulvillus	lat	
 entry	Pulvis	2	
@@ -3819,8 +3818,8 @@ orth	Pus	lat
 entry	Pusca	0	
 orth	Pusca	lat	
 entry	Pusillatum, or Pusulatum	0	
-orth	Pusillatum		
-orth	or Pusulatum		
+orth	Pusillatum	lat	
+orth	Pusulatum	lat	
 entry	Pusta	0	
 orth	Pusta	lat	
 entry	Pustula	1	
@@ -3829,8 +3828,8 @@ pb	[s. pag.]	0363	4790213
 entry	Putorius	0	
 orth	Putorius	lat	
 entry	Putredo, or Putrefactio	4	
-orth	Putredo		
-orth	or Putrefactio		
+orth	Putredo	lat	
+orth	Putrefactio	lat	
 pb	[s. pag.]	0364	4790214
 pb	[s. pag.]	0365	4790215
 pb	[s. pag.]	0366	4790216
@@ -3944,8 +3943,8 @@ orth	Pyriephthos	lat
 entry	Pyriformis musculus	0	
 orth	Pyriformis musculus	lat	
 entry	Pyrimachus, or Pyromachus	0	
-orth	Pyrimachus		
-orth	or Pyromachus		
+orth	Pyrimachus	lat	
+orth	Pyromachus	lat	
 entry	Pyrine	0	
 orth	Pyrine	lat	
 entry	Pyriphleges	0	
@@ -4041,8 +4040,8 @@ orth	Quartura	lat
 entry	Quassatio	0	
 orth	Quassatio	lat	
 entry	Quaternarius, or Quaternio	0	
-orth	Quaternarius		
-orth	or Quaternio		
+orth	Quaternarius	lat	
+orth	Quaternio	lat	
 entry	Quatrio	0	
 orth	Quatrio	lat	
 entry	Quebricum	0	
@@ -4119,8 +4118,8 @@ orth	Rabdoides sutura	lat
 entry	Rabeboia	0	
 orth	Rabeboia	lat	
 entry	Rabiel, or Rohel	0	
-orth	Rabiel		
-orth	or Rohel		
+orth	Rabiel	lat	
+orth	Rohel	lat	
 entry	Rabies	0	
 orth	Rabies	lat	
 entry	Rabira	0	
@@ -4130,22 +4129,22 @@ orth	Racemus	lat
 entry	Rachammelca	0	
 orth	Rachammelca	lat	
 entry	Rachi, or Racho	0	
-orth	Rachi		
-orth	or Racho		
+orth	Rachi	lat	
+orth	Racho	lat	
 entry	Rachitae, or Rachiaei	0	
-orth	Rachitae		
-orth	or Rachiaei		
+orth	Rachitae	lat	
+orth	Rachiaei	lat	
 entry	Rachitis	2	
 orth	Rachitis	lat	
 pb	[s. pag.]	0431	4790281
 pb	[s. pag.]	0432	4790282
 entry	Racri, Raan, or Ranac	0	
-orth	Racri		
-orth	Raan		
-orth	or Ranac		
+orth	Racri	lat	
+orth	Raan	lat	
+orth	Ranac	lat	
 entry	Radiaeus, or Radialis	0	
-orth	Radiaeus		
-orth	or Radialis		
+orth	Radiaeus	lat	
+orth	Radialis	lat	
 entry	Radiated flowers	0	
 orth	Radiated flowers	lat	
 entry	Radicalis	0	
@@ -4253,17 +4252,17 @@ orth	Rarefacientia	lat
 entry	Rasa	0	
 orth	Rasa	lat	
 entry	Rasa, or Rastis	0	
-orth	Rasa		
-orth	or Rastis		
+orth	Rasa	lat	
+orth	Rastis	lat	
 entry	Rasaketi, Rusatagi, or Rusangi	0	
-orth	Rasaketi		
-orth	Rusatagi		
-orth	or Rusangi		
+orth	Rasaketi	lat	
+orth	Rusatagi	lat	
+orth	Rusangi	lat	
 entry	Rascatio	0	
 orth	Rascatio	lat	
 entry	Rasceta, or Rasetta	0	
-orth	Rasceta		
-orth	or Rasetta		
+orth	Rasceta	lat	
+orth	Rasetta	lat	
 entry	Rasilis Aerugo	0	
 orth	Rasilis Aerugo	lat	
 entry	Rasorium	0	
@@ -4273,8 +4272,8 @@ orth	Raspatorium	lat
 entry	Rasteta	0	
 orth	Rasteta	lat	
 entry	Rastol, or Rasoes	0	
-orth	Rastol		
-orth	or Rasoes		
+orth	Rastol	lat	
+orth	Rasoes	lat	
 entry	Rastul	0	
 orth	Rastul	lat	
 entry	Rasura	0	
@@ -4350,8 +4349,8 @@ orth	Recutiti	lat
 entry	Redivivus	0	
 orth	Redivivus	lat	
 entry	Reduc, or Redux	0	
-orth	Reduc		
-orth	or Redux		
+orth	Reduc	lat	
+orth	Redux	lat	
 entry	Reductio	0	
 orth	Reductio	lat	
 entry	Reduplicatio	0	
@@ -4394,8 +4393,8 @@ orth	Regulus	lat
 entry	Rejectio	0	
 orth	Rejectio	lat	
 entry	Rel, or Rebus	0	
-orth	Rel		
-orth	or Rebus		
+orth	Rel	lat	
+orth	Rebus	lat	
 entry	Relaxantia	0	
 orth	Relaxantia	lat	
 entry	Relaxatio	0	
@@ -4503,8 +4502,8 @@ orth	Retenta	lat
 entry	Retepora	0	
 orth	Retepora	lat	
 entry	Reticularis, or Retiformis	0	
-orth	Reticularis		
-orth	or Retiformis		
+orth	Reticularis	lat	
+orth	Retiformis	lat	
 entry	Reticulum	0	
 orth	Reticulum	lat	
 entry	Retina	0	
@@ -4526,8 +4525,8 @@ orth	Retrocessio	lat
 entry	Reverberatio	0	
 orth	Reverberatio	lat	
 entry	Reverberatorium, or Reverberium	0	
-orth	Reverberatorium		
-orth	or Reverberium		
+orth	Reverberatorium	lat	
+orth	Reverberium	lat	
 entry	Reversio	0	
 orth	Reversio	lat	
 entry	Revivificatio	0	
@@ -4548,23 +4547,23 @@ pb	[s. pag.]	0456	4790306
 entry	Rhabdoides	0	
 orth	Rhabdoides	lat	
 entry	Rhachia, or Rechia	0	
-orth	Rhachia		
-orth	or Rechia		
+orth	Rhachia	lat	
+orth	Rechia	lat	
 entry	Rhachis	0	
 orth	Rhachis	lat	
 entry	Rhachisagra	0	
 orth	Rhachisagra	lat	
 entry	Rhachitae, or Rhachiaei	0	
-orth	Rhachitae		
-orth	or Rhachiaei		
+orth	Rhachitae	lat	
+orth	Rhachiaei	lat	
 pb	[s. pag.]	0457	4790307
 entry	Rhacos	0	
 orth	Rhacos	lat	
 entry	Rhacosis	0	
 orth	Rhacosis	lat	
 entry	Rhaebos, Rhaeboides	0	
-orth	Rhaebos		
-orth	Rhaeboides		
+orth	Rhaebos	lat	
+orth	Rhaeboides	lat	
 entry	Rhagades	0	
 orth	Rhagades	lat	
 entry	Rhagadiae	0	
@@ -4605,8 +4604,8 @@ orth	Rhaspe	lat
 entry	Rhastone	0	
 orth	Rhastone	lat	
 entry	Rhasut et Rumigi	0	
-orth	Rhasut		
-orth	Rumigi		
+orth	Rhasut	lat	
+orth	Rumigi	lat	
 entry	Rhechia	0	
 orth	Rhechia	lat	
 entry	Rhegma	1	
@@ -4650,8 +4649,8 @@ orth	Rhinarion	lat
 entry	Rhine	0	
 orth	Rhine	lat	
 entry	Rhinema, Rhinisma	0	
-orth	Rhinema		
-orth	Rhinisma		
+orth	Rhinema	lat	
+orth	Rhinisma	lat	
 entry	Rhinenchysis	0	
 orth	Rhinenchysis	lat	
 entry	Rhinenchytes	0	
@@ -4816,8 +4815,8 @@ orth	Risus	lat
 entry	Ritro	0	
 orth	Ritro	lat	
 entry	Riwand, and Riwandtzini	0	
-orth	Riwand		
-orth	and Riwandtzini		
+orth	Riwand	lat	
+orth	and Riwandtzini	lat	
 entry	Roades	0	
 orth	Roades	lat	
 entry	Rob	0	
@@ -4948,16 +4947,16 @@ entry	Rubus	1
 orth	Rubus	lat	
 pb	[s. pag.]	0478	4790328
 entry	Rucma, or Lucma	0	
-orth	Rucma		
-orth	or Lucma		
+orth	Rucma	lat	
+orth	Lucma	lat	
 entry	Ructus, or Ructatio	0	
-orth	Ructus		
-orth	or Ructatio		
+orth	Ructus	lat	
+orth	Ructatio	lat	
 entry	Ruellia	0	
 orth	Ruellia	lat	
 entry	Rufus ephesius, or Ruffus ephesius	0	
-orth	Rufus ephesius		
-orth	or Ruffus ephesius		
+orth	Rufus ephesius	lat	
+orth	Ruffus ephesius	lat	
 entry	Ruga	0	
 orth	Ruga	lat	
 entry	Rugitus	0	
@@ -5013,13 +5012,13 @@ orth	Sabdariffa	lat
 entry	Sabina	0	
 orth	Sabina	lat	
 entry	Sabon, or Sabena	0	
-orth	Sabon		
-orth	or Sabena		
+orth	Sabon	lat	
+orth	Sabena	lat	
 entry	Saccellum	0	
 orth	Saccellum	lat	
 entry	Sacchar, or Saccharum	2	
-orth	Sacchar		
-orth	or Saccharum		
+orth	Sacchar	lat	
+orth	Saccharum	lat	
 pb	[s. pag.]	0481	4790331
 pb	[s. pag.]	0482	4790332
 entry	Saccharum hordeatum	0	
@@ -5033,8 +5032,8 @@ orth	Saccharum saturni	lat
 entry	Saccharum scorbuticum	0	
 orth	Saccharum scorbuticum	lat	
 entry	Saccharum tabulatum simplex et Perlatum	0	
-orth	Saccharum tabulatum simplex		
-orth	Perlatum		
+orth	Saccharum tabulatum simplex	lat	
+orth	Perlatum	lat	
 pb	[s. pag.]	0483	4790333
 entry	Saccharum tabulatum compositum	0	
 orth	Saccharum tabulatum compositum	lat	
@@ -5106,8 +5105,8 @@ orth	Sagou	lat
 entry	Sagzenea	0	
 orth	Sagzenea	lat	
 entry	Sahafatum, or Sahafati	0	
-orth	Sahafatum		
-orth	or Sahafati		
+orth	Sahafatum	lat	
+orth	Sahafati	lat	
 entry	Sahara	0	
 orth	Sahara	lat	
 entry	Saic	0	
@@ -5131,8 +5130,8 @@ orth	Sal acidum	lat
 entry	Sal alembrot	0	
 orth	Sal alembrot	lat	
 entry	Sal alcali, or Alkali	0	
-orth	Sal alcali		
-orth	or Alkali		
+orth	Sal alcali	lat	
+orth	Alkali	lat	
 entry	Sal ammoniacum	0	
 orth	Sal ammoniacum	lat	
 entry	Sal anatron	0	
@@ -5252,8 +5251,8 @@ pb	[s. pag.]	0508	4790358
 entry	Sallena	0	
 orth	Sallena	lat	
 entry	Salmerinus, or Salmero	0	
-orth	Salmerinus		
-orth	or Salmero		
+orth	Salmerinus	lat	
+orth	Salmero	lat	
 entry	Salmo	0	
 orth	Salmo	lat	
 entry	Salome	0	
@@ -5296,9 +5295,9 @@ orth	Salvia sylvestris	lat
 entry	Salvia vitae	0	
 orth	Salvia vitae	lat	
 entry	Salz, Sulz, or Selenippum	0	
-orth	Salz		
-orth	Sulz		
-orth	or Selenippum		
+orth	Salz	lat	
+orth	Sulz	lat	
+orth	Selenippum	lat	
 entry	Sambach	0	
 orth	Sambach	lat	
 entry	Sambucus	3	
@@ -5442,8 +5441,8 @@ entry	Saphaena	1
 orth	Saphaena	lat	
 pb	[s. pag.]	0527	4790377
 entry	Saphera, or Zaphera	0	
-orth	Saphera		
-orth	or Zaphera		
+orth	Saphera	lat	
+orth	Zaphera	lat	
 entry	Sapindus	0	
 orth	Sapindus	lat	
 entry	Sapinus	0	
@@ -5473,9 +5472,9 @@ orth	Saraffi	lat
 entry	Sarapous	0	
 orth	Sarapous	lat	
 entry	Sarca, Sayrsa, or Sarra	0	
-orth	Sarca		
-orth	Sayrsa		
-orth	or Sarra		
+orth	Sarca	lat	
+orth	Sayrsa	lat	
+orth	Sarra	lat	
 entry	Sarcion	0	
 orth	Sarcion	lat	
 entry	Sarcocele	0	
@@ -5502,8 +5501,8 @@ orth	Sarcothlasis	lat
 entry	Sarcotica	0	
 orth	Sarcotica	lat	
 entry	Sarda, or Sardina	0	
-orth	Sarda		
-orth	or Sardina		
+orth	Sarda	lat	
+orth	Sardina	lat	
 entry	Sarda	0	
 orth	Sarda	lat	
 entry	Sardonius risus	0	
@@ -5576,9 +5575,9 @@ pb	[s. pag.]	0535	4790385
 entry	Saxifraga montana	0	
 orth	Saxifraga montana	lat	
 entry	Saxifraga, Rotundifolia, Aurea	0	
-orth	Saxifraga		
-orth	Rotundifolia		
-orth	Aurea		
+orth	Saxifraga	lat	
+orth	Rotundifolia	lat	
+orth	Aurea	lat	
 entry	Saxifraga	0	
 orth	Saxifraga	lat	
 entry	Saxonicus pulvis	1	
@@ -5650,8 +5649,8 @@ entry	Scarificatio	1
 orth	Scarificatio	lat	
 pb	[s. pag.]	0541	4790391
 entry	Scarificatorium, or Scarificator	0	
-orth	Scarificatorium		
-orth	or Scarificator		
+orth	Scarificatorium	lat	
+orth	Scarificator	lat	
 entry	Scariola	0	
 orth	Scariola	lat	
 entry	Scarlatina febris	0	
@@ -5700,8 +5699,8 @@ orth	Schema	lat
 entry	Schem-pariti	0	
 orth	Schem-pariti	lat	
 entry	Scherbet, or Serbet	0	
-orth	Scherbet		
-orth	or Serbet		
+orth	Scherbet	lat	
+orth	Serbet	lat	
 entry	Scherunam cottam	0	
 orth	Scherunam cottam	lat	
 entry	Scherus-chunda	0	
@@ -5741,8 +5740,8 @@ orth	Schunda-pana	lat
 entry	Sciaena	0	
 orth	Sciaena	lat	
 entry	Sciamachia, or Schiomachia	0	
-orth	Sciamachia		
-orth	or Schiomachia		
+orth	Sciamachia	lat	
+orth	Schiomachia	lat	
 entry	Sciatica	1	
 orth	Sciatica	lat	
 pb	[s. pag.]	0543	4790393
@@ -5802,10 +5801,10 @@ orth	Sclerosis	lat
 entry	Sclerotica	0	
 orth	Sclerotica	lat	
 entry	Sclirosis, Scliroma, Sclirus, or Sclerus	0	
-orth	Sclirosis		
-orth	Scliroma		
-orth	Sclirus		
-orth	or Sclerus		
+orth	Sclirosis	lat	
+orth	Scliroma	lat	
+orth	Sclirus	lat	
+orth	Sclerus	lat	
 entry	Sclopetum	0	
 orth	Sclopetum	lat	
 entry	Scobs	0	
@@ -5923,11 +5922,11 @@ orth	Scorzonera	lat
 entry	Scorzonera subcoerulea	0	
 orth	Scorzonera subcoerulea	lat	
 entry	Scotodinos, or Scotodine	0	
-orth	Scotodinos		
-orth	or Scotodine		
+orth	Scotodinos	lat	
+orth	Scotodine	lat	
 entry	Scotomia, or Scotoma	0	
-orth	Scotomia		
-orth	or Scotoma		
+orth	Scotomia	lat	
+orth	Scotoma	lat	
 entry	Scotos	0	
 orth	Scotos	lat	
 entry	Screatio	0	
@@ -6050,8 +6049,8 @@ orth	Sedigitus	lat
 entry	Sedimentum	0	
 orth	Sedimentum	lat	
 entry	Sedina, or Seden	0	
-orth	Sedina		
-orth	or Seden		
+orth	Sedina	lat	
+orth	Seden	lat	
 entry	Sedma	0	
 orth	Sedma	lat	
 entry	Sedum	2	
@@ -6069,8 +6068,8 @@ orth	Segax	lat
 entry	Segith	0	
 orth	Segith	lat	
 entry	Sel serapionis, & Avicennae	0	
-orth	Sel serapionis		
-orth	Avicennae		
+orth	Sel serapionis	lat	
+orth	Avicennae	lat	
 entry	Selaa	0	
 orth	Selaa	lat	
 entry	Selachos	0	
@@ -6155,8 +6154,8 @@ orth	Semotim	lat
 entry	Sempervivum	0	
 orth	Sempervivum	lat	
 entry	Semuncia, or Semiuncia	0	
-orth	Semuncia		
-orth	or Semiuncia		
+orth	Semuncia	lat	
+orth	Semiuncia	lat	
 entry	Sena	0	
 orth	Sena	lat	
 entry	Sendanegum	0	
@@ -6180,8 +6179,8 @@ orth	Sensibilis	lat
 entry	Sensificus	0	
 orth	Sensificus	lat	
 entry	Sensio, Sensatio	0	
-orth	Sensio		
-orth	Sensatio		
+orth	Sensio	lat	
+orth	Sensatio	lat	
 entry	Sensitorium	0	
 orth	Sensitorium	lat	
 entry	Sensorium	0	
@@ -6307,8 +6306,8 @@ pb	[s. pag.]	0594	4790444
 entry	Sesban	0	
 orth	Sesban	lat	
 entry	Sescuncia, or Sesquiuncia	0	
-orth	Sescuncia		
-orth	or Sesquiuncia		
+orth	Sescuncia	lat	
+orth	Sesquiuncia	lat	
 entry	Seseli	1	
 orth	Seseli	lat	
 entry	Seseli aethiopicum	1	
@@ -6401,13 +6400,13 @@ orth	Sicchasia	lat
 entry	Siccus	0	
 orth	Siccus	lat	
 entry	Sicelica, or Sicula	0	
-orth	Sicelica		
-orth	or Sicula		
+orth	Sicelica	lat	
+orth	Sicula	lat	
 entry	Siciliane	0	
 orth	Siciliane	lat	
 entry	Sicilicum, or Siclium	0	
-orth	Sicilicum		
-orth	or Siclium		
+orth	Sicilicum	lat	
+orth	Siclium	lat	
 entry	Sicua	0	
 orth	Sicua	lat	
 entry	Sicyedon	0	
@@ -6454,8 +6453,8 @@ orth	Sigillum hermeticum	lat
 entry	Sigmoides	0	
 orth	Sigmoides	lat	
 entry	Silach, or Silac	0	
-orth	Silach		
-orth	or Silac		
+orth	Silach	lat	
+orth	Silac	lat	
 entry	Silaum	0	
 orth	Silaum	lat	
 entry	Siler	0	
@@ -6499,8 +6498,8 @@ orth	Simbor mangianam	lat
 entry	Simia	1	
 orth	Simia	lat	
 entry	Simila, or Similago	0	
-orth	Simila		
-orth	or Similago		
+orth	Simila	lat	
+orth	Similago	lat	
 entry	Simitas	0	
 orth	Simitas	lat	
 entry	Simivulpa	0	
@@ -6508,8 +6507,8 @@ orth	Simivulpa	lat
 entry	Simitium	0	
 orth	Simitium	lat	
 entry	Simos, or Simothes	0	
-orth	Simos		
-orth	or Simothes		
+orth	Simos	lat	
+orth	Simothes	lat	
 entry	Sinapeloeon	0	
 orth	Sinapeloeon	lat	
 entry	Sinapi	1	
@@ -6560,8 +6559,8 @@ orth	Siphita parva	lat
 entry	Sira	0	
 orth	Sira	lat	
 entry	Siracostum, or Alsiracostum	0	
-orth	Siracostum		
-orth	or Alsiracostum		
+orth	Siracostum	lat	
+orth	Alsiracostum	lat	
 entry	Siraeum	0	
 orth	Siraeum	lat	
 entry	Sirenes	0	
@@ -6648,8 +6647,8 @@ orth	Smiris	lat
 entry	Smodicon	0	
 orth	Smodicon	lat	
 entry	Smyris et Smerillus	0	
-orth	Smyris		
-orth	Smerillus		
+orth	Smyris	lat	
+orth	Smerillus	lat	
 entry	Smyrna	0	
 orth	Smyrna	lat	
 entry	Smyrnium	0	
@@ -6683,8 +6682,8 @@ orth	Solanum racemosum	lat
 entry	Solaris-herba	0	
 orth	Solaris-herba	lat	
 entry	Solater, or Solatur	0	
-orth	Solater		
-orth	or Solatur		
+orth	Solater	lat	
+orth	Solatur	lat	
 entry	Soldanella	0	
 orth	Soldanella	lat	
 entry	Soldura	0	
@@ -6793,8 +6792,8 @@ orth	Spadam	lat
 entry	Spadon	0	
 orth	Spadon	lat	
 entry	Spagiria, or Spagirica ars	0	
-orth	Spagiria		
-orth	or Spagirica ars		
+orth	Spagiria	lat	
+orth	Spagirica ars	lat	
 entry	Spalax	0	
 orth	Spalax	lat	
 entry	Spalt	0	
@@ -6904,8 +6903,8 @@ orth	Spermatocele	lat
 entry	Spermatopaea	0	
 orth	Spermatopaea	lat	
 entry	Sperniola, or Sperniolum	0	
-orth	Sperniola		
-orth	or Sperniolum		
+orth	Sperniola	lat	
+orth	Sperniolum	lat	
 entry	Sphacelus	1	
 orth	Sphacelus	lat	
 entry	Sphacerus	0	
@@ -7015,8 +7014,8 @@ orth	Spinalis dorsi major	lat
 entry	Spinales dorsi minores	0	
 orth	Spinales dorsi minores	lat	
 entry	Spinales et Transversales lumborum	0	
-orth	Spinales		
-orth	Transversales lumborum		
+orth	Spinales	lat	
+orth	Transversales lumborum	lat	
 entry	Spinus albus	0	
 orth	Spinus albus	lat	
 entry	Spinus	0	
@@ -7160,8 +7159,8 @@ pb	[s. pag.]	0653	4790503
 pb	[s. pag.]	0654	4790504
 pb	[s. pag.]	0655	4790505
 entry	Spyras, or Spyrathos	0	
-orth	Spyras		
-orth	or Spyrathos		
+orth	Spyras	lat	
+orth	Spyrathos	lat	
 entry	Squalor	0	
 orth	Squalor	lat	
 entry	Squalus	0	
@@ -7169,8 +7168,8 @@ orth	Squalus	lat
 entry	Squama aeris	0	
 orth	Squama aeris	lat	
 entry	Squamaria, & Squamata	0	
-orth	Squamaria		
-orth	Squamata		
+orth	Squamaria	lat	
+orth	Squamata	lat	
 entry	Squamosa sutura	0	
 orth	Squamosa sutura	lat	
 entry	Squatina	0	
@@ -7178,8 +7177,8 @@ orth	Squatina	lat
 entry	Squilla	1	
 orth	Squilla	lat	
 entry	Squillinum, Aziza	0	
-orth	Squillinum		
-orth	Aziza		
+orth	Squillinum	lat	
+orth	Aziza	lat	
 entry	Squinanthia	0	
 orth	Squinanthia	lat	
 entry	Squinanthum	0	
@@ -7276,8 +7275,8 @@ orth	Stelechiea	lat
 entry	Stelechites	0	
 orth	Stelechites	lat	
 entry	Stelenchis, or Stlenchis	0	
-orth	Stelenchis		
-orth	or Stlenchis		
+orth	Stelenchis	lat	
+orth	Stlenchis	lat	
 entry	Stella	0	
 orth	Stella	lat	
 entry	Stella marina	0	
@@ -7308,8 +7307,8 @@ orth	Stephaniaeus	lat
 entry	Stera	0	
 orth	Stera	lat	
 entry	Stercumezeff, or Stercorumeceff	0	
-orth	Stercumezeff		
-orth	or Stercorumeceff		
+orth	Stercumezeff	lat	
+orth	Stercorumeceff	lat	
 entry	Stercus	0	
 orth	Stercus	lat	
 entry	Stergethron	0	
@@ -7423,9 +7422,9 @@ orth	Storan	lat
 entry	Storyne	0	
 orth	Storyne	lat	
 entry	Strabismus, Strabilismus, ou Strabositas	0	
-orth	Strabismus		
-orth	Strabilismus		
-orth	Strabositas		
+orth	Strabismus	lat	
+orth	Strabilismus	lat	
+orth	Strabositas	lat	
 entry	Stramonium	1	
 orth	Stramonium	lat	
 pb	[s. pag.]	0662	4790512
@@ -7462,8 +7461,8 @@ orth	Strsdor dentsum	lat
 entry	Strigensis terra	0	
 orth	Strigensis terra	lat	
 entry	Strigil, Strigilis	0	
-orth	Strigil		
-orth	Strigilis		
+orth	Strigil	lat	
+orth	Strigilis	lat	
 entry	Strigmentum	1	
 orth	Strigmentum	lat	
 pb	[s. pag.]	0663	4790513
@@ -7492,13 +7491,13 @@ orth	Struthio-camelus	lat
 entry	Struthiofera	0	
 orth	Struthiofera	lat	
 entry	Struthiomela, Struthia	0	
-orth	Struthiomela		
-orth	Struthia		
+orth	Struthiomela	lat	
+orth	Struthia	lat	
 entry	Strychnodendron	0	
 orth	Strychnodendron	lat	
 entry	Strychnos, Strychnon	0	
-orth	Strychnos		
-orth	Strychnon		
+orth	Strychnos	lat	
+orth	Strychnon	lat	
 entry	Stryphnos	0	
 orth	Stryphnos	lat	
 entry	Stultitia	0	
@@ -7514,8 +7513,8 @@ orth	Stupor	lat
 entry	Stupor dentium	0	
 orth	Stupor dentium	lat	
 entry	Stuppa, Stupa	0	
-orth	Stuppa		
-orth	Stupa		
+orth	Stuppa	lat	
+orth	Stupa	lat	
 entry	Sturio	0	
 orth	Sturio	lat	
 entry	Sturnus	0	
@@ -7567,8 +7566,8 @@ orth	Subclavius musculus	lat
 entry	Sub-costales	0	
 orth	Sub-costales	lat	
 entry	Subdita, ou Subdititia	0	
-orth	Subdita		
-orth	Subdititia		
+orth	Subdita	lat	
+orth	Subdititia	lat	
 entry	Subductio alvi	0	
 orth	Subductio alvi	lat	
 entry	Suber	0	
@@ -7741,15 +7740,15 @@ orth	Supervacuatio	lat
 entry	Supim	0	
 orth	Supim	lat	
 entry	Supinator longus, sive major	1	
-orth	Supinator longus		
-orth	sive major		
+orth	Supinator longus	lat	
+orth	sive major	lat	
 pb	[s. pag.]	0677	4790527
 entry	Supinator brevis, sive minor	0	
-orth	Supinator brevis		
-orth	sive minor		
+orth	Supinator brevis	lat	
+orth	sive minor	lat	
 entry	Suppedanea, or Supplantalia	0	
-orth	Suppedanea		
-orth	or Supplantalia		
+orth	Suppedanea	lat	
+orth	Supplantalia	lat	
 entry	Suppositorium	0	
 orth	Suppositorium	lat	
 entry	Suppressio	0	
@@ -8044,8 +8043,8 @@ orth	Syrupus cydoniorum	lat
 entry	Syrupus de erysimo	0	
 orth	Syrupus de erysimo	lat	
 entry	Syrupus de meconio, sive diacodion	1	
-orth	Syrupus de meconio		
-orth	sive diacodion		
+orth	Syrupus de meconio	lat	
+orth	sive diacodion	lat	
 pb	[s. pag.]	0707	4790557
 entry	Syrupus rosaceus solutivus	0	
 orth	Syrupus rosaceus solutivus	lat	
@@ -8077,9 +8076,9 @@ orth	Tabacum	lat
 entry	Tabaisir	0	
 orth	Tabaisir	lat	
 entry	Tabanus, Tabe, or Asilus	0	
-orth	Tabanus		
-orth	Tabe		
-orth	or Asilus		
+orth	Tabanus	lat	
+orth	Tabe	lat	
+orth	Asilus	lat	
 entry	Tabarzet	0	
 orth	Tabarzet	lat	
 entry	Tabella	0	
@@ -8101,8 +8100,8 @@ orth	Tacamahaca	lat
 entry	Taceros	0	
 orth	Taceros	lat	
 entry	Tachy, Tacheos	0	
-orth	Tachy		
-orth	Tacheos		
+orth	Tachy	lat	
+orth	Tacheos	lat	
 entry	Tactus	0	
 orth	Tactus	lat	
 entry	Taedae	0	
@@ -8192,8 +8191,8 @@ orth	Taraxacum	lat
 entry	Taraxis	0	
 orth	Taraxis	lat	
 entry	Tarbason, or Larbason	0	
-orth	Tarbason		
-orth	or Larbason		
+orth	Tarbason	lat	
+orth	Larbason	lat	
 entry	Tarchon	0	
 orth	Tarchon	lat	
 entry	Tarda	0	
@@ -8203,8 +8202,8 @@ orth	Tareriaya	lat
 entry	Tariroqui	0	
 orth	Tariroqui	lat	
 entry	Tarfati, or Tarfe	0	
-orth	Tarfati		
-orth	or Tarfe		
+orth	Tarfati	lat	
+orth	Tarfe	lat	
 entry	Targar	0	
 orth	Targar	lat	
 entry	Tarichos	0	
@@ -8357,8 +8356,8 @@ orth	Teredo	lat
 entry	Teregam	0	
 orth	Teregam	lat	
 entry	Terengibil, or Tereniabin	0	
-orth	Terengibil		
-orth	or Tereniabin		
+orth	Terengibil	lat	
+orth	Tereniabin	lat	
 entry	Teres musculus	1	
 orth	Teres musculus	lat	
 pb	[s. pag.]	0730	4790580
@@ -8421,8 +8420,8 @@ orth	Testiculi	lat
 entry	Testiculus morionus	0	
 orth	Testiculus morionus	lat	
 entry	Testuaceus, or Testuaceus panis	0	
-orth	Testuaceus		
-orth	or Testuaceus panis		
+orth	Testuaceus	lat	
+orth	Testuaceus panis	lat	
 entry	Testudo terrestris	0	
 orth	Testudo terrestris	lat	
 entry	Testudo marina	0	
@@ -8439,8 +8438,8 @@ orth	Tetartaeus	lat
 entry	Tethalassomenos	0	
 orth	Tethalassomenos	lat	
 entry	Tethyia, or Tethaea	0	
-orth	Tethyia		
-orth	or Tethaea		
+orth	Tethyia	lat	
+orth	Tethaea	lat	
 entry	Tetlatiam	0	
 orth	Tetlatiam	lat	
 entry	Tetrabit	0	
@@ -8516,8 +8515,8 @@ orth	Thamarindus	lat
 entry	Thamatica	0	
 orth	Thamatica	lat	
 entry	Thames, Thaminos	0	
-orth	Thames		
-orth	Thaminos		
+orth	Thames	lat	
+orth	Thaminos	lat	
 entry	Thamna	0	
 orth	Thamna	lat	
 entry	Thaphneus	0	
@@ -8628,8 +8627,8 @@ orth	Theros	lat
 entry	Thesis	0	
 orth	Thesis	lat	
 entry	Thespiana, or Thespesiana	0	
-orth	Thespiana		
-orth	or Thespesiana		
+orth	Thespiana	lat	
+orth	Thespesiana	lat	
 entry	Thessalicus	0	
 orth	Thessalicus	lat	
 entry	Thessalicum sedile	0	
@@ -8643,8 +8642,8 @@ orth	Thisma	lat
 entry	Thlasias	0	
 orth	Thlasias	lat	
 entry	Thlasis, Thlasma	0	
-orth	Thlasis		
-orth	Thlasma		
+orth	Thlasis	lat	
+orth	Thlasma	lat	
 entry	Thlaspi	1	
 orth	Thlaspi	lat	
 pb	[s. pag.]	0751	4790601
@@ -8726,8 +8725,8 @@ orth	Thyema	lat
 entry	Thyites lapis	0	
 orth	Thyites lapis	lat	
 entry	Thylacos, or Thylacion	0	
-orth	Thylacos		
-orth	or Thylacion		
+orth	Thylacos	lat	
+orth	Thylacion	lat	
 entry	Thyma	0	
 orth	Thyma	lat	
 entry	Thymallus	0	
@@ -8894,16 +8893,16 @@ orth	Todda-panna	lat
 entry	Toetica	0	
 orth	Toetica	lat	
 entry	Tolles, Toles, or Tolae	0	
-orth	Tolles		
-orth	Toles		
-orth	or Tolae		
+orth	Tolles	lat	
+orth	Toles	lat	
+orth	Tolae	lat	
 entry	Tolutanum balsamum	0	
 orth	Tolutanum balsamum	lat	
 entry	Tomahuactli copatli	0	
 orth	Tomahuactli copatli	lat	
 entry	Tomeion, or Tomeus	0	
-orth	Tomeion		
-orth	or Tomeus		
+orth	Tomeion	lat	
+orth	Tomeus	lat	
 entry	Tomineio	0	
 orth	Tomineio	lat	
 entry	Tomotocia	0	
@@ -9034,9 +9033,9 @@ orth	Tragelaphas	lat
 entry	Tragema	0	
 orth	Tragema	lat	
 entry	Tragi, Trasi, or Trassi	0	
-orth	Tragi		
-orth	Trasi		
-orth	or Trassi		
+orth	Tragi	lat	
+orth	Trasi	lat	
+orth	Trassi	lat	
 entry	Tragia	0	
 orth	Tragia	lat	
 entry	Tragium	0	
@@ -9114,8 +9113,8 @@ orth	Trica lumborum	lat
 entry	Tricaudalis	0	
 orth	Tricaudalis	lat	
 entry	Triceps auris, or Retrahens Auriculam	0	
-orth	Triceps auris		
-orth	or Retrahens Auriculam		
+orth	Triceps auris	lat	
+orth	Retrahens Auriculam	lat	
 entry	Trichiasis	1	
 orth	Trichiasis	lat	
 pb	[s. pag.]	0791	4790641
@@ -9180,16 +9179,16 @@ orth	Triphyllon	lat
 entry	Triploides	0	
 orth	Triploides	lat	
 entry	Tripolis, or Tripolitana terra	0	
-orth	Tripolis		
-orth	or Tripolitana terra		
+orth	Tripolis	lat	
+orth	Tripolitana terra	lat	
 entry	Tripolium	0	
 orth	Tripolium	lat	
 entry	Triquetra ossa	0	
 orth	Triquetra ossa	lat	
 entry	Trisca, Trischa, or Trissia	0	
-orth	Trisca		
-orth	Trischa		
-orth	or Trissia		
+orth	Trisca	lat	
+orth	Trischa	lat	
+orth	Trissia	lat	
 entry	Trispastum apellidis seu archimedis	0	
 orth	Trispastum apellidis seu archimedis	lat	
 entry	Trispermon	0	
@@ -9261,8 +9260,8 @@ orth	Troglodytica myrrha	lat
 entry	Trollius flos	0	
 orth	Trollius flos	lat	
 entry	Tronos, or Tronossa	0	
-orth	Tronos		
-orth	or Tronossa		
+orth	Tronos	lat	
+orth	Tronossa	lat	
 entry	Trophiodes	1	
 orth	Trophiodes	lat	
 pb	[s. pag.]	0798	4790648
@@ -9363,11 +9362,11 @@ orth	Tulpboom	lat
 entry	Tulos	0	
 orth	Tulos	lat	
 entry	Tumbaba, or Tumpabar	0	
-orth	Tumbaba		
-orth	or Tumpabar		
+orth	Tumbaba	lat	
+orth	Tumpabar	lat	
 entry	Tumbalum, or Tubel	0	
-orth	Tumbalum		
-orth	or Tubel		
+orth	Tumbalum	lat	
+orth	Tubel	lat	
 entry	Tumbil	0	
 orth	Tumbil	lat	
 entry	Tumor	1	
@@ -9382,8 +9381,8 @@ orth	Tunica	lat
 entry	Tupa-ipi	0	
 orth	Tupa-ipi	lat	
 entry	Tuphus, or Tufus	0	
-orth	Tuphus		
-orth	or Tufus		
+orth	Tuphus	lat	
+orth	Tufus	lat	
 entry	Tupi-ewa	0	
 orth	Tupi-ewa	lat	
 entry	Turas	0	
@@ -9541,8 +9540,8 @@ orth	Valvula	lat
 entry	Vanellus	0	
 orth	Vanellus	lat	
 entry	Vanilia, Banilia	0	
-orth	Vanilia		
-orth	Banilia		
+orth	Vanilia	lat	
+orth	Banilia	lat	
 entry	Vapores	0	
 orth	Vapores	lat	
 entry	Vaporarium	0	
@@ -9552,8 +9551,8 @@ orth	Vaporatio	lat
 entry	Vappa	0	
 orth	Vappa	lat	
 entry	Vareni, Vari	0	
-orth	Vareni		
-orth	Vari		
+orth	Vareni	lat	
+orth	Vari	lat	
 entry	Variciformes parastatae	0	
 orth	Variciformes parastatae	lat	
 entry	Varicosus	0	
@@ -9666,8 +9665,8 @@ orth	Ventres	lat
 entry	Ventriculatio	0	
 orth	Ventriculatio	lat	
 entry	Ventricosus, Ventriculosus	0	
-orth	Ventricosus		
-orth	Ventriculosus		
+orth	Ventricosus	lat	
+orth	Ventriculosus	lat	
 entry	Ventriculus	0	
 orth	Ventriculus	lat	
 entry	Ventriloquus	0	
@@ -9836,8 +9835,8 @@ orth	Via	lat
 entry	Vibex	0	
 orth	Vibex	lat	
 entry	Vibrissae, or Vibrisci	0	
-orth	Vibrissae		
-orth	or Vibrisci		
+orth	Vibrissae	lat	
+orth	Vibrisci	lat	
 entry	Viburnum	0	
 orth	Viburnum	lat	
 entry	Vicia	1	
@@ -9848,11 +9847,11 @@ orth	Vicia lutea	lat
 entry	Viciae similis	0	
 orth	Viciae similis	lat	
 entry	Vicinitraha, or Vicinitractus	0	
-orth	Vicinitraha		
-orth	or Vicinitractus		
+orth	Vicinitraha	lat	
+orth	Vicinitractus	lat	
 entry	Victicellae, or Viticellae liquor	0	
-orth	Victicellae		
-orth	or Viticellae liquor		
+orth	Victicellae	lat	
+orth	Viticellae liquor	lat	
 entry	Victorialis	0	
 orth	Victorialis	lat	
 entry	Victoriatus denarius	0	
@@ -9913,8 +9912,8 @@ entry	Virgo	1
 orth	Virgo	lat	
 pb	[s. pag.]	0887	4790737
 entry	Viriae, or Viriolae	0	
-orth	Viriae		
-orth	or Viriolae		
+orth	Viriae	lat	
+orth	Viriolae	lat	
 entry	Viride aeris	0	
 orth	Viride aeris	lat	
 entry	Viridellus	0	
@@ -9933,8 +9932,8 @@ pb	[s. pag.]	0888	4790738
 entry	Visciditas	0	
 orth	Visciditas	lat	
 entry	Viscum, Viscus	1	
-orth	Viscum		
-orth	Viscus		
+orth	Viscum	lat	
+orth	Viscus	lat	
 pb	[s. pag.]	0889	4790739
 entry	Visio	1	
 orth	Visio	lat	
@@ -10091,8 +10090,8 @@ orth	Ungula caballina	lat
 entry	Ungula oculi	0	
 orth	Ungula oculi	lat	
 entry	Unicornu, Monoceros	0	
-orth	Unicornu		
-orth	Monoceros		
+orth	Unicornu	lat	
+orth	Monoceros	lat	
 entry	Unifolium	0	
 orth	Unifolium	lat	
 entry	Unio	0	
@@ -10139,8 +10138,8 @@ orth	Vomilium	lat
 entry	Vomitio	0	
 orth	Vomitio	lat	
 entry	Vomitoria, Vomitiva	0	
-orth	Vomitoria		
-orth	Vomitiva		
+orth	Vomitoria	lat	
+orth	Vomitiva	lat	
 entry	Vomitus	6	
 orth	Vomitus	lat	
 pb	[s. pag.]	0911	4790761
@@ -10180,8 +10179,8 @@ orth	Uranos	lat
 entry	Uranoscopus	0	
 orth	Uranoscopus	lat	
 entry	Urceolaris, Urceola	0	
-orth	Urceolaris		
-orth	Urceola		
+orth	Urceolaris	lat	
+orth	Urceola	lat	
 entry	Urceus	0	
 orth	Urceus	lat	
 entry	Uredines	0	
@@ -10227,8 +10226,8 @@ orth	Urinarius	lat
 entry	Urna	0	
 orth	Urna	lat	
 entry	Urocrisia, or Urocrisis	0	
-orth	Urocrisia		
-orth	or Urocrisis		
+orth	Urocrisia	lat	
+orth	Urocrisis	lat	
 entry	Urocriterium	0	
 orth	Urocriterium	lat	
 entry	Urocritica	0	
@@ -10270,8 +10269,8 @@ orth	Usfida	lat
 entry	Usnea cranii humani	0	
 orth	Usnea cranii humani	lat	
 entry	Usrub, or Ursub	0	
-orth	Usrub		
-orth	or Ursub		
+orth	Usrub	lat	
+orth	Ursub	lat	
 entry	Ustilago	0	
 orth	Ustilago	lat	
 entry	Ustio	0	
@@ -10553,8 +10552,8 @@ orth	Ygropissos	lat
 entry	Ylech	0	
 orth	Ylech	lat	
 entry	Yleidos, or Yliados	0	
-orth	Yleidos		
-orth	or Yliados		
+orth	Yleidos	lat	
+orth	Yliados	lat	
 entry	Yliaster	0	
 orth	Yliaster	lat	
 entry	Yomo yos or Yn	0	
@@ -10568,8 +10567,8 @@ orth	Yquetaia	lat
 entry	Yrcus	0	
 orth	Yrcus	lat	
 entry	Yrides, or Yride	0	
-orth	Yrides		
-orth	or Yride		
+orth	Yrides	lat	
+orth	Yride	lat	
 entry	Yris	0	
 orth	Yris	lat	
 entry	Ysambra	0	
@@ -10610,8 +10609,8 @@ orth	Zaffaben	lat
 entry	Zafframen	0	
 orth	Zafframen	lat	
 entry	Zafran, Zaffran	0	
-orth	Zafran		
-orth	Zaffran		
+orth	Zafran	lat	
+orth	Zaffran	lat	
 entry	Zagu	0	
 orth	Zagu	lat	
 entry	Zahir	0	
@@ -10715,8 +10714,8 @@ orth	Zeocrithon	lat
 entry	Zeopyron	0	
 orth	Zeopyron	lat	
 entry	Zephenum, Zephena	0	
-orth	Zephenum		
-orth	Zephena		
+orth	Zephenum	lat	
+orth	Zephena	lat	
 entry	Zephyrus	0	
 orth	Zephyrus	lat	
 entry	Zeni	0	
@@ -10772,8 +10771,8 @@ entry	Zingiber	1
 orth	Zingiber	lat	
 pb	[s. pag.]	1011	4790861
 entry	Zingites, or Zingrites	0	
-orth	Zingites		
-orth	or Zingrites		
+orth	Zingites	lat	
+orth	Zingrites	lat	
 entry	Ziniar	0	
 orth	Ziniar	lat	
 entry	Ziniat	0	
@@ -10785,8 +10784,8 @@ orth	Zinzala	lat
 entry	Zinziber	0	
 orth	Zinziber	lat	
 entry	Zinzifur, or Zengifur	0	
-orth	Zinzifur		
-orth	or Zengifur		
+orth	Zinzifur	lat	
+orth	Zengifur	lat	
 entry	Zinzilla	0	
 orth	Zinzilla	lat	
 entry	Zirbalis hernia	0	
@@ -10798,8 +10797,8 @@ orth	Zizanion	lat
 entry	Zizerium	0	
 orth	Zizerium	lat	
 entry	Zizibi, or Zibebae	0	
-orth	Zizibi		
-orth	or Zibebae		
+orth	Zizibi	lat	
+orth	Zibebae	lat	
 entry	Zizipha	0	
 orth	Zizipha	lat	
 entry	Ziziphus	1	
@@ -10810,8 +10809,8 @@ orth	Zizypha	lat
 entry	Zmilaces	0	
 orth	Zmilaces	lat	
 entry	Zoarchia, or Xoarchia	0	
-orth	Zoarchia		
-orth	or Xoarchia		
+orth	Zoarchia	lat	
+orth	Xoarchia	lat	
 entry	Zoephilos	0	
 orth	Zoephilos	lat	
 entry	Zona	0	
@@ -10841,8 +10840,8 @@ orth	Zoster	lat
 entry	Zoticus	0	
 orth	Zoticus	lat	
 entry	Zub, or Zubd	0	
-orth	Zub		
-orth	or Zubd		
+orth	Zub	lat	
+orth	Zubd	lat	
 entry	Zuccaia	0	
 orth	Zuccaia	lat	
 entry	Zuccarum	0	
@@ -10850,8 +10849,8 @@ orth	Zuccarum	lat
 entry	Zuccha	0	
 orth	Zuccha	lat	
 entry	Zuitter, or Zitter	0	
-orth	Zuitter		
-orth	or Zitter		
+orth	Zuitter	lat	
+orth	Zitter	lat	
 entry	Zulapium	0	
 orth	Zulapium	lat	
 entry	Zygaena	0	
@@ -10863,9 +10862,9 @@ orth	Zygoma	lat
 entry	Zygomaticus musculus	0	
 orth	Zygomaticus musculus	lat	
 entry	Zumar, Zynar, or Zinser	0	
-orth	Zumar		
-orth	Zynar		
-orth	or Zinser		
+orth	Zumar	lat	
+orth	Zynar	lat	
+orth	Zinser	lat	
 entry	Zyme	0	
 orth	Zyme	lat	
 entry	Zymoma	0	

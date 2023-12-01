@@ -7,11 +7,11 @@ use Biusante\Medict\{Insert, Tei, Util};
 $time_start = microtime(true);
 $pars = Util::pars();
 
-// vider le dico de termes
+/*
 Insert::truncate();
-Insert::insert_titre('00216');
+Insert::insert_titre('01686');
 die();
-
+*/
 // regénérer les données des sources xml
 foreach (glob(dirname(__DIR__) . '/medict_xml/xml/*.xml') as $xml_file) {
     $name = pathinfo($xml_file, PATHINFO_FILENAME);

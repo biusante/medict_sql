@@ -18,6 +18,8 @@ class Insert extends Util
 {
     /** Chrono */
     private static $time_start;
+    /** Line number for debug */
+    private static $line;
 
     /** Propriétés du titre en cours de traitement */
     private static $titre = null;
@@ -303,10 +305,12 @@ class Insert extends Util
         // if (!$orth_langue) $orth_langue = 'fra';
         // pour calculer la taille des entrées
         $handle = fopen($events_file, 'r');
-
+        self::$line = 0;
+        $orths = [];
         while (true) {
-
             $row = fgetcsv($handle, null, "\t");
+            self::$line++;
+
             // ce qu’il faut faire avant une nouvelle entrée ou en fin de fichier
             if ($row===FALSE || $row[0] == C::ENTRY) {
                 // si plusieurs orth, les envoyer en clique à la page du début d’entrée
@@ -327,6 +331,7 @@ class Insert extends Util
                     $terme_id = self::terme_id(self::$dico_entree[C::_VEDETTE], $orth_langue);
                     self::insert_orth($terme_id);
                 }
+                $orths = [];
             }
             // ne pas oublier de sortir si fin de fichier
             if ($row===FALSE) break;
@@ -674,7 +679,13 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
         self::$dico_rel[C::_DICO_TERME] = $terme_id;
         self::$dico_rel[C::_ORTH] = true;
-        self::$q[C::DICO_REL]->execute(self::$dico_rel);
+        try {
+            self::$q[C::DICO_REL]->execute(self::$dico_rel);
+        } catch (Exception $e) {
+            fwrite(STDERR, "\nl. " . self::$line . "\n");
+            fwrite(STDERR, $e->__toString());
+            fwrite(STDERR, print_r(self::$dico_rel, true));
+        }
     }
 
     /**
@@ -851,9 +862,10 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         $page = null;
         $refimg = null;
         $livancpages = null;
+        self::$line = 0;
         while (true) {
-
             $row = fgetcsv($handle, null, "\t");
+            self::$line++;
             // ce qu’il faut faire avant une nouvelle entrée ou en fin de fichier
             if ($row===FALSE || $row[0] == C::ENTRY) {
                 // si plusieurs orth, les envoyer en clique à la page du début d’entrée

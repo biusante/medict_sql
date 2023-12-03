@@ -1,6 +1,6 @@
-# BIU Santé / Médica / Métadictionnaire : base de données
+# BIU Santé / Medica / Métadictionnaire : base de données
 
-Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Médica. La génération est séparée de l’application web publique [medict](https://github.com/biusante/medict#readme) qui sert ces données. Il en résulte pour la sécurité que l’application ouverte sur l’extérieur est en lecture seule, qu’elle ne produit aucune données, et que ces données peuvent être produites en SSH sur le serveur, ou bien sur une autre machine, par exemple celle d’un administrateur.
+Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Medica. La génération est séparée de l’application web publique [medict](https://github.com/biusante/medict#readme) qui sert ces données. Il en résulte pour la sécurité que l’application ouverte sur l’extérieur est en lecture seule, qu’elle ne produit aucune données, et que ces données peuvent être produites en SSH sur le serveur, ou bien sur une autre machine, par exemple celle d’un administrateur.
 
 ## Requis
 
@@ -158,7 +158,7 @@ ubuntu 22.04$ sudo apt-get install php-xml
 * [build.php](build.php) — script de génération de la totalité des données.
 * [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
 * [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
-* [src_tsv/](src_tsv/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Médica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [src_tsv/](src_tsv/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Medica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
 * [views/](views/) — GÉNÉRÉ, différentes vues partielles sur les données pour interrogations scientifiques.
 * [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source du code SQL.
 * [doc/](doc/) — documentation, documents de l’équipe et de recherche, et surtout.

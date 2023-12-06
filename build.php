@@ -9,9 +9,11 @@ $pars = Util::pars();
 
 /*
 Insert::truncate();
-Insert::insert_titre('01686');
+Insert::insert_titre('00152');
+Insert::optimize();
 die();
 */
+
 // regénérer les données des sources xml
 foreach (glob(dirname(__DIR__) . '/medict_xml/xml/*.xml') as $xml_file) {
     $name = pathinfo($xml_file, PATHINFO_FILENAME);

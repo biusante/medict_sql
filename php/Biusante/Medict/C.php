@@ -31,6 +31,7 @@ class C
     const RELTYPE_FOREIGN = 3;
     // const RELTYPE_REF = 3;
     const RELTYPE_CLIQUE = 10;
+    const RELTYPE_TRANSLATE = 11;
     // const _BETACODE =':betacode';
     const _CLIQUE = ':clique';
     const _DEFORME = ':deforme';
@@ -53,7 +54,7 @@ class C
     const _TAILLE = ':taille';
     const _TITRE_ANNEE = ':titre_annee';
     const _TITRE_NOM = ':titre_nom';
-    const _UVIJ = ':uvij';
+    const _UVJI = ':uvji';
     const _VEDETTE = ':vedette';
     const _VOLUME_ANNEE = ':volume_annee';
     const _VOLUME_COTE = ':volume_cote';

@@ -123,7 +123,7 @@ class Util
     /**
      * Désaccentuation d’une forme, à partager avec l’application de diffusion
      */
-    public static function deforme($s, $uvij=false)
+    public static function deforme($s)
     {
         // bas de casse
         $s = mb_convert_case($s, MB_CASE_FOLD, "UTF-8");
@@ -131,29 +131,17 @@ class Util
         $s = Normalizer::normalize($s, Normalizer::FORM_D);
         // ne conserver que les lettres et les espaces, et les traits d’union
         $s = preg_replace("/[^\p{L}\-\s]/u", '', $s);
-        if ($uvij) {
-            $s = strtr($s,
-                array(
-                    'œ' => 'e',
-                    'æ' => 'e',
-                    'j' => 'i',
-                    'u' => 'v',
-                )
-            );
-        }
-        else {
-            // ligatures
-            $s = strtr(
-                $s,
-                array(
-                    'œ' => 'oe',
-                    'æ' => 'ae',
-                )
-            );
-        }
         // normaliser les espaces
-        $s = preg_replace('/[\s\-]+/', ' ', trim($s));
-        return trim($s);
+        $s = trim(preg_replace('/[\s\-]+/', ' ', trim($s)));
+        // ligatures
+        $s = strtr(
+            $s,
+            array(
+                'œ' => 'oe',
+                'æ' => 'ae',
+            )
+        );
+        return $s;
     }
 
     /**

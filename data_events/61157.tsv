@@ -1,6 +1,6 @@
 object			
 volume	61157	Bégin	1823
-pb	1		
+pb	1	0011	
 entry	A	0	
 orth	A		
 entry	AABAM	0	
@@ -28,7 +28,7 @@ orth	ABAPTISTA
 orth	ABAPTISTON		
 entry	ABARNAHAS	1	
 orth	ABARNAHAS		
-pb	2		
+pb	2	0012	
 entry	ABARTICULATION	0	
 orth	ABARTICULATION		
 entry	ABATAGE	0	
@@ -69,7 +69,7 @@ term	Abducteur de la cuisse
 clique	Abducteur de la cuisse | FESSIER | FASCIA-LATA		
 term	Abducteur de roreille		
 clique	Abducteur de roreille		
-pb	3		
+pb	3	0013	
 term	Abducteur transverse du gros orteil		
 clique	Abducteur transverse du gros orteil		
 entry	ABDUCTION	0	
@@ -112,7 +112,7 @@ orth	ABRABAX
 orth	ABRAXAS		
 entry	ABRACADABRA	1	
 orth	ABRACADABRA		
-pb	4		
+pb	4	0014	
 entry	ABRACALAN	0	
 orth	ABRACALAN		
 entry	ABRASION	0	
@@ -140,7 +140,7 @@ entry	ABSINTHE (grande)	0
 orth	ABSINTHE (grande)		
 entry	ABSORBANT	1	
 orth	ABSORBANT		
-pb	5		
+pb	5	0015	
 entry	ABSORPTION	0	
 orth	ABSORPTION		
 entry	ABSTÈME	0	
@@ -165,7 +165,7 @@ entry	ACACIA (suc d')	0
 orth	ACACIA (suc d')		
 entry	ACAJOU (noix d')	1	
 orth	ACAJOU (noix d')		
-pb	6		
+pb	6	0016	
 entry	ACAMPSIE	0	
 orth	ACAMPSIE		
 entry	ACANTHABOLE	0	
@@ -198,7 +198,7 @@ entry	ACCENT	0
 orth	ACCENT		
 entry	ACCÈS	1	
 orth	ACCÈS		
-pb	7		
+pb	7	0017	
 entry	ACCESSOIRE	0	
 orth	ACCESSOIRE		
 term	Accessoire de COwper (glande)-		
@@ -227,7 +227,7 @@ entry	ACCOUCHÉE	0
 orth	ACCOUCHÉE		
 entry	ACCOUCHEMENT	1	
 orth	ACCOUCHEMENT		
-pb	8		
+pb	8	0018	
 entry	ACCOUCHER	0	
 orth	ACCOUCHER		
 entry	ACCOUCHER	0	
@@ -272,7 +272,7 @@ entry	ACERBE	0
 orth	ACERBE		
 entry	ACERBITÉ	1	
 orth	ACERBITÉ		
-pb	9		
+pb	9	0019	
 entry	ACÉRIDE	0	
 orth	ACÉRIDE		
 entry	ACESCENCE	0	
@@ -287,7 +287,7 @@ entry	ACÉTATE	1
 orth	ACÉTATE		
 term	Acétate (sous-') de plomb		
 clique	Acétate (sous-') de plomb		
-pb	10		
+pb	10	0020	
 entry	ACÉTEUX	0	
 orth	ACÉTEUX		
 entry	ACÉTIQUE	0	
@@ -332,7 +332,7 @@ entry	ACIDIFICATION	0
 orth	ACIDIFICATION		
 entry	ACIDITÉ	1	
 orth	ACIDITÉ		
-pb	11		
+pb	11	0021	
 entry	ACIDULE	0	
 orth	ACIDULE		
 entry	ACIDULER	0	
@@ -371,7 +371,7 @@ entry	ACONIT	0
 orth	ACONIT		
 entry	ACONITINE	1	
 orth	ACONITINE		
-pb	12		
+pb	12	0022	
 entry	ACOPE	0	
 orth	ACOPE		
 entry	ACORE faux	0	
@@ -416,7 +416,7 @@ entry	ACRIMONIEUX	0
 orth	ACRIMONIEUX		
 entry	ACRISIE	1	
 orth	ACRISIE		
-pb	13		
+pb	13	0023	
 entry	ACROBYSTIE	0	
 orth	ACROBYSTIE		
 clique	ACROPOSTHIE		
@@ -470,7 +470,7 @@ entry	ACUITE	0
 orth	ACUITE		
 entry	ACUMINÉ	1	
 orth	ACUMINÉ		
-pb	14		
+pb	14	0024	
 entry	ACUTANGULÉ	0	
 orth	ACUTANGULÉ		
 entry	ACUPUNCTURE	0	
@@ -503,7 +503,7 @@ entry	ADECTE	0
 orth	ADECTE		
 entry	ADÉLIDE	1	
 orth	ADÉLIDE		
-pb	15		
+pb	15	0025	
 entry	ADELIPARIE	0	
 orth	ADELIPARIE		
 entry	ADELPHIXIE	0	
@@ -553,7 +553,7 @@ entry	ADHÉSION	0
 orth	ADHÉSION		
 entry	ADIANTE	1	
 orth	ADIANTE		
-pb	16		
+pb	16	0026	
 entry	ADIAPNEUSTIE	0	
 orth	ADIAPNEUSTIE		
 entry	ADIAPHORE	0	
@@ -600,7 +600,7 @@ orth	ADUSTION
 clique	CAUTÉRISATION		
 entry	AD-UTERUM	1	
 orth	AD-UTERUM		
-pb	17		
+pb	17	0027	
 entry	ADVENTICE	0	
 orth	ADVENTICE		
 entry	ADYNAMICO-ATAXIQUE	0	
@@ -656,7 +656,7 @@ entry	AÉROPHOBE	0
 orth	AÉROPHOBE		
 entry	AÉROPHOBIE	1	
 orth	AÉROPHOBIE		
-pb	18		
+pb	18	0028	
 entry	AESTHÈME	0	
 orth	AESTHÈME		
 entry	ÆSTHÉSIE	0	
@@ -712,7 +712,7 @@ orth	AGALAXIE
 clique	AGALACTIE		
 entry	AGALLOCHE	1	
 orth	AGALLOCHE		
-pb	19		
+pb	19	0029	
 entry	AGAME	0	
 orth	AGAME		
 entry	AGAMIE	0	
@@ -742,7 +742,7 @@ entry	AGGLUTINATION	0
 orth	AGGLUTINATION		
 entry	AGGLUTINER	1	
 orth	AGGLUTINER		
-pb	20		
+pb	20	0030	
 entry	AGGRAVÉ	0	
 orth	AGGRAVÉ		
 entry	AGGRAVER	0	
@@ -787,7 +787,7 @@ entry	AGRIE	0
 orth	AGRIE		
 entry	AGRIOTHYMIE	1	
 orth	AGRIOTHYMIE		
-pb	21		
+pb	21	0031	
 entry	AGRIPAUME	0	
 orth	AGRIPAUME		
 entry	AGRIPPA	0	
@@ -840,7 +840,7 @@ entry	AIGREURS	0
 orth	AIGREURS		
 entry	AIGU	1	
 orth	AIGU		
-pb	22		
+pb	22	0032	
 entry	AIGUILLE	1	
 orth	AIGUILLE		
 term	AIguille a acupuncture		
@@ -857,7 +857,7 @@ term	AIguille a fistule
 clique	AIguille a fistule		
 term	AIguille ά gaine		
 clique	AIguille ά gaine		
-pb	23		
+pb	23	0033	
 term	AIguille aimantée		
 clique	AIguille aimantée		
 term	AIguille a inoculation		
@@ -906,7 +906,7 @@ entry	AIGUILLETTE (nouer l’)	0
 orth	AIGUILLETTE (nouer l’)		
 entry	AIGUILLON	1	
 orth	AIGUILLON		
-pb	24		
+pb	24	0034	
 entry	AIGUILLONNÉ	0	
 orth	AIGUILLONNÉ		
 entry	AIL	0	
@@ -940,7 +940,7 @@ orth	AITIOLOGIE
 clique	ETIOLOGIE		
 entry	AIX	1	
 orth	AIX		
-pb	25		
+pb	25	0035	
 entry	AIX	0	
 orth	AIX		
 entry	AIX-LA-CHAPELLE	0	
@@ -1008,7 +1008,7 @@ entry	ALBUMEN	0
 orth	ALBUMEN		
 entry	ALBUMINE	1	
 orth	ALBUMINE		
-pb	26		
+pb	26	0036	
 entry	ALBUMINEUX	0	
 orth	ALBUMINEUX		
 entry	ALCAHEST	0	
@@ -1049,7 +1049,7 @@ entry	ALCÉE	0
 orth	ALCÉE		
 entry	ALCHIMIE	1	
 orth	ALCHIMIE		
-pb	27		
+pb	27	0037	
 entry	ALCHIMILLE	0	
 orth	ALCHIMILLE		
 entry	ALCOOL, ALCOHOL	0	
@@ -1093,7 +1093,7 @@ orth	ALÈZE
 entry	ALGALIE	1	
 orth	ALGALIE		
 clique	CATHÉTER		
-pb	28		
+pb	28	0038	
 entry	ALGEDO	0	
 orth	ALGEDO		
 entry	ALGIDE	0	
@@ -1144,7 +1144,7 @@ entry	ALITER (S’)	0
 orth	ALITER (S’)		
 entry	ALKEKENGE	1	
 orth	ALKEKENGE		
-pb	29		
+pb	29	0039	
 entry	ALLAITEMENT	0	
 orth	ALLAITEMENT		
 entry	ALLAITER	0	
@@ -1177,7 +1177,7 @@ entry	ALONGÉ	0
 orth	ALONGÉ		
 entry	ALONGEMENT	1	
 orth	ALONGEMENT		
-pb	30		
+pb	30	0040	
 entry	ALOPÉCIE	0	
 orth	ALOPÉCIE		
 entry	ALOSE	0	
@@ -1228,7 +1228,7 @@ entry	ALUMINE	0
 orth	ALUMINE		
 entry	ALUMINIUM	1	
 orth	ALUMINIUM		
-pb	31		
+pb	31	0041	
 entry	ALUN	0	
 orth	ALUN		
 term	Alun calciné		
@@ -1276,7 +1276,7 @@ orth	AMAND (Saint-)
 entry	AMANDE	1	
 orth	AMANDE		
 clique	endosperme		
-pb	32		
+pb	32	0042	
 entry	AMANDE	0	
 orth	AMANDE		
 entry	AMANDÉ	0	
@@ -1300,7 +1300,7 @@ entry	AMBIDEXTRE	0
 orth	AMBIDEXTRE		
 entry	AMBLE	1	
 orth	AMBLE		
-pb	33		
+pb	33	0043	
 entry	AMBLOME	0	
 orth	AMBLOME		
 entry	AMBLOSE	0	
@@ -1349,7 +1349,7 @@ orth	AMÉNORRHÉE
 entry	AMENTACÉ	1	
 orth	AMENTACÉ		
 clique	CHATON		
-pb	34		
+pb	34	0044	
 term	lesbétulacèes		
 clique	lesbétulacèes		
 entry	AMER	0	
@@ -1399,7 +1399,7 @@ entry	AMNIOS	0
 orth	AMNIOS		
 entry	AMNIOTATE	1	
 orth	AMNIOTATE		
-pb	35		
+pb	35	0045	
 entry	AMNIOTIQUE	0	
 orth	AMNIOTIQUE		
 entry	AMNIQUE	0	
@@ -1454,7 +1454,7 @@ entry	AMPOULE	0
 orth	AMPOULE		
 entry	AMPUTATION	1	
 orth	AMPUTATION		
-pb	36		
+pb	36	0046	
 entry	AMPUTER	0	
 orth	AMPUTER		
 entry	AMULETTE	0	
@@ -1513,7 +1513,7 @@ orth	ANÆSTHÉSIE
 clique	ANESTHÉSIE		
 entry	ANAGOGE	1	
 orth	ANAGOGE		
-pb	37		
+pb	37	0047	
 entry	ANAGRAPHE	0	
 orth	ANAGRAPHE		
 entry	ANAGYRE	0	
@@ -1561,7 +1561,7 @@ entry	ANAPLASE	0
 orth	ANAPLASE		
 entry	ANAPLÉROSE	1	
 orth	ANAPLÉROSE		
-pb	38		
+pb	38	0048	
 entry	ANAPLÉROTIQUE	0	
 orth	ANAPLÉROTIQUE		
 entry	ANARRHÉE	0	
@@ -1613,7 +1613,7 @@ entry	ANCHOIS	0
 orth	ANCHOIS		
 entry	ANCIPITÉ	1	
 orth	ANCIPITÉ		
-pb	39		
+pb	39	0049	
 entry	ANCISTROÏDE	0	
 orth	ANCISTROÏDE		
 entry	ANCOLIE	0	
@@ -1682,7 +1682,7 @@ orth	ANÉMASIE
 orth	ANÉMOSIE		
 entry	ANÉMIE	1	
 orth	ANÉMIE		
-pb	40		
+pb	40	0050	
 entry	ANÉMOGRAPHIE	0	
 orth	ANÉMOGRAPHIE		
 entry	ANÉMOMÈTRE	0	
@@ -1730,7 +1730,7 @@ orth	ANÉVRYSMATIQUE
 clique	ANÉVRYSMAL		
 entry	ANÉVRYSME	1	
 orth	ANÉVRYSME		
-pb	41		
+pb	41	0051	
 entry	ANFRACTUOSITÉ	0	
 orth	ANFRACTUOSITÉ		
 entry	ANGÉIOGRAPHIE, ANGIOGRAPHIE	0	
@@ -1759,7 +1759,7 @@ orth	ANGÉIOTOMIE
 orth	ANGIOTOMIE		
 entry	ANGÉLIQUE	1	
 orth	ANGÉLIQUE		
-pb	42		
+pb	42	0052	
 term	gclica sylvcstris		
 clique	gclica sylvcstris		
 entry	ANGIECTASIE	0	
@@ -1814,7 +1814,7 @@ entry	ANGOISSE	0
 orth	ANGOISSE		
 entry	ANGONE	1	
 orth	ANGONE		
-pb	43		
+pb	43	0053	
 entry	ANGUILLE	0	
 orth	ANGUILLE		
 clique	MURÈNE		
@@ -1869,7 +1869,7 @@ entry	ANIMATION	0
 orth	ANIMATION		
 entry	ANIMÉ	1	
 orth	ANIMÉ		
-pb	44		
+pb	44	0054	
 entry	ANIMER	0	
 orth	ANIMER		
 entry	ANIMISME	0	
@@ -1915,7 +1915,7 @@ entry	ANNULER	0
 orth	ANNULER		
 entry	ANODYN	1	
 orth	ANODYN		
-pb	45		
+pb	45	0055	
 entry	ANODYNIE	0	
 orth	ANODYNIE		
 entry	ANOIE	0	
@@ -1959,7 +1959,7 @@ entry	ÂNSE	0
 orth	ÂNSE		
 entry	ANSERINE	1	
 orth	ANSERINE		
-pb	46		
+pb	46	0056	
 entry	ANSERINE	0	
 orth	ANSERINE		
 entry	ANTACIDE	0	
@@ -2017,7 +2017,7 @@ entry	ANTHÈRE	0
 orth	ANTHÈRE		
 entry	ANTHOLOGIE	1	
 orth	ANTHOLOGIE		
-pb	47		
+pb	47	0057	
 entry	ANTHOPHORE	0	
 orth	ANTHOPHORE		
 entry	ANTHORE	0	
@@ -2065,7 +2065,7 @@ entry	ANTHROPOTOMIE	0
 orth	ANTHROPOTOMIE		
 entry	ANTHYPNOTIQUE	1	
 orth	ANTHYPNOTIQUE		
-pb	48		
+pb	48	0058	
 entry	ANTHYPOCHONDRIAQUE	0	
 orth	ANTHYPOCHONDRIAQUE		
 entry	ANTHYSTÉRIQUE	0	
@@ -2199,7 +2199,7 @@ entry	ANTIPHLOGISTIQUE	0
 orth	ANTIPHLOGISTIQUE		
 entry	ANTI-PHTHISIQUE	1	
 orth	ANTI-PHTHISIQUE		
-pb	50		
+pb	50	0060	
 term	phthisicus		
 clique	phthisicus		
 entry	ANTI-PHYSIQUE	0	
@@ -2281,7 +2281,7 @@ term	Antred’Hyghmorc
 clique	Antred’Hyghmorc		
 entry	ANUS	1	
 orth	ANUS		
-pb	51		
+pb	51	0061	
 entry	AORTEVRISME	0	
 orth	AORTEVRISME		
 entry	APAGMA	0	
@@ -2328,7 +2328,7 @@ entry	AORTE	0
 orth	AORTE		
 entry	AORTIQUE	1	
 orth	AORTIQUE		
-pb	52		
+pb	52	0062	
 entry	APENTHYSMÈNE	0	
 orth	APENTHYSMÈNE		
 entry	APHEPSÈME	0	
@@ -2403,7 +2403,7 @@ entry	APODYTÈRE	0
 orth	APODYTÈRE		
 entry	APOGALACTISME	1	
 orth	APOGALACTISME		
-pb	53		
+pb	53	0063	
 entry	APOGEUSIE	0	
 orth	APOGEUSIE		
 entry	APOGLAUCOSIE	0	
@@ -2471,7 +2471,7 @@ entry	APORRHÉE	0
 orth	APORRHÉE		
 entry	APOPTOSE	1	
 orth	APOPTOSE		
-pb	54		
+pb	54	0064	
 entry	APOSCEPARNISMOS	0	
 orth	APOSCEPARNISMOS		
 clique	APOSKÉPARNISMOS		
@@ -2540,7 +2540,7 @@ entry	APPELER	0
 orth	APPELER		
 entry	APPENDICE	1	
 orth	APPENDICE		
-pb	55		
+pb	55	0065	
 entry	APPENDICULE	0	
 orth	APPENDICULE		
 entry	APPENSION	0	
@@ -2599,7 +2599,7 @@ term	Aqueduc de Sylvius
 clique	Aqueduc de Sylvius		
 entry	AQUEUX	1	
 orth	AQUEUX		
-pb	56		
+pb	56	0066	
 entry	AQUILA ALBA	0	
 orth	AQUILA ALBA		
 term	Aquila mitigata		
@@ -2635,7 +2635,7 @@ entry	ARBRE	0
 orth	ARBRE		
 entry	ARBRE DE DIANE	1	
 orth	ARBRE DE DIANE		
-pb	57		
+pb	57	0067	
 entry	ARBRE DE VIE	0	
 orth	ARBRE DE VIE		
 entry	ARBRISSEAU	0	
@@ -2711,7 +2711,7 @@ entry	ARDEUR	0
 orth	ARDEUR		
 entry	AREC	1	
 orth	AREC		
-pb	58		
+pb	58	0068	
 entry	ARËFACTION	0	
 orth	ARËFACTION		
 entry	ARÉNATION	0	
@@ -2758,7 +2758,7 @@ entry	ARHIZE	0
 orth	ARHIZE		
 entry	ARHYTHME	1	
 orth	ARHYTHME		
-pb	59		
+pb	59	0069	
 term	(a		
 clique	(a		
 entry	ARIDE	0	
@@ -2796,7 +2796,7 @@ orth	ARNIQUE
 entry	AROÏDES, AROÏDÉES	1	
 orth	AROÏDES		
 orth	AROÏDÉES		
-pb	60		
+pb	60	0070	
 entry	AROMATE	0	
 orth	AROMATE		
 entry	AROMATIQUE	0	
@@ -2842,7 +2842,7 @@ term	Arsenic rouge
 clique	Arsenic rouge		
 entry	ARSENIEUX	1	
 orth	ARSENIEUX		
-pb	61		
+pb	61	0071	
 entry	ARSENICAL	0	
 orth	ARSENICAL		
 entry	ARSÉNIÉ	0	
@@ -2892,7 +2892,7 @@ entry	ARTHRITIQUE	0
 orth	ARTHRITIQUE		
 entry	ARTHROCACE	1	
 orth	ARTHROCACE		
-pb	62		
+pb	62	0072	
 entry	ARTHRODIAL	0	
 orth	ARTHRODIAL		
 entry	ARTHRODIE	0	
@@ -2942,7 +2942,7 @@ orth	ARYTHME
 clique	ARHYTHME		
 entry	ARZEL	1	
 orth	ARZEL		
-pb	63		
+pb	63	0073	
 entry	ASA DULCIS	0	
 orth	ASA DULCIS		
 clique	BENJOIN		
@@ -2992,7 +2992,7 @@ entry	ASPASIE	0
 orth	ASPASIE		
 entry	ASPERGE	1	
 orth	ASPERGE		
-pb	64		
+pb	64	0074	
 term	perges		
 clique	perges		
 entry	ASPÉRITÉ	0	
@@ -3042,7 +3042,7 @@ entry	ASSUJETTIR	0
 orth	ASSUJETTIR		
 entry	ASTÈRISQU’E	1	
 orth	ASTÈRISQU’E		
-pb	65		
+pb	65	0075	
 entry	ASTERNAL	0	
 orth	ASTERNAL		
 entry	ASTHÉNIE	0	
@@ -3095,7 +3095,7 @@ entry	ATHANASIE	0
 orth	ATHANASIE		
 entry	ATHELXIE	1	
 orth	ATHELXIE		
-pb	66		
+pb	66	0076	
 entry	ATHÉROMATEUX	0	
 orth	ATHÉROMATEUX		
 entry	ATHÉROME	0	
@@ -3154,7 +3154,7 @@ entry	ATONIQUE	0
 orth	ATONIQUE		
 entry	ATRABILAIRE	1	
 orth	ATRABILAIRE		
-pb	67		
+pb	67	0077	
 entry	ATRABILE	0	
 orth	ATRABILE		
 entry	ATRABILIEUX	0	
@@ -3215,7 +3215,7 @@ entry	ATTRAPE-LOURDAUD	0
 orth	ATTRAPE-LOURDAUD		
 entry	ATTRITION	1	
 orth	ATTRITION		
-pb	68		
+pb	68	0078	
 entry	ECORCHURE	0	
 orth	ECORCHURE		
 entry	ATYPIQUE	0	
@@ -3262,7 +3262,7 @@ term	AUriculaire supérieur
 clique	AUriculaire supérieur		
 entry	AURICULE	1	
 orth	AURICULE		
-pb	69		
+pb	69	0079	
 entry	AURICULÉ	0	
 orth	AURICULÉ		
 entry	AURIFIQUE minéral	0	
@@ -3330,7 +3330,7 @@ entry	AVANT-COEUR	0
 orth	AVANT-COEUR		
 entry	AVANT-COUREUR	1	
 orth	AVANT-COUREUR		
-pb	70		
+pb	70	0080	
 entry	AVANTE	0	
 orth	AVANTE		
 entry	AVANT-GOUT	0	
@@ -3385,7 +3385,7 @@ entry	AXILE	0
 orth	AXILE		
 entry	AXILÉ	1	
 orth	AXILÉ		
-pb	71		
+pb	71	0081	
 entry	AXILLAIRE	0	
 orth	AXILLAIRE		
 entry	AXINOMANCIE	0	
@@ -3432,7 +3432,7 @@ entry	AZYGOS	0
 orth	AZYGOS		
 entry	AZYME	1	
 orth	AZYME		
-pb	72		
+pb	72	0082	
 entry	B	0	
 orth	B		
 entry	BABEURRE, BA-BEURRE, BABEURE, BA-BEURE	0	
@@ -3472,7 +3472,7 @@ entry	BAGNÈRES-ADOUR	1
 orth	BAGNÈRES-ADOUR		
 term	Bagnères-de-LUchon		
 clique	Bagnères-de-LUchon		
-pb	73		
+pb	73	0083	
 term	Bagnères-Saint – Felix		
 clique	Bagnères-Saint – Felix		
 entry	BAGNOLES	0	
@@ -3517,7 +3517,7 @@ term	Bain de vapeur
 clique	Bain de vapeur		
 term	Bain médicinal		
 clique	Bain médicinal		
-pb	74		
+pb	74	0084	
 term	Bain de pieds		
 clique	Bain de pieds		
 term	Bain de sable		
@@ -3569,7 +3569,7 @@ entry	BALLOTTE	0
 orth	BALLOTTE		
 entry	BALLOTTEMENT	1	
 orth	BALLOTTEMENT		
-pb	75		
+pb	75	0085	
 entry	BALNÉABLE	0	
 orth	BALNÉABLE		
 entry	BALNEUM REGALE	0	
@@ -3604,7 +3604,7 @@ entry	BANCUDU	0
 orth	BANCUDU		
 entry	BANDAGE	1	
 orth	BANDAGE		
-pb	76		
+pb	76	0086	
 term	Bandage a bandelettes séparées		
 clique	Bandage a bandelettes séparées		
 term	Bandage de corps		
@@ -3632,7 +3632,7 @@ entry	BANDEAU	0
 orth	BANDEAU		
 entry	BANDELETTE	1	
 orth	BANDELETTE		
-pb	77		
+pb	77	0087	
 term	Bandelettede rhippocampe		
 clique	Bandelettede rhippocampe		
 term	Bandelette des cornes d’ammon		
@@ -3674,7 +3674,7 @@ entry	BARILLE	0
 orth	BARILLE		
 entry	BARITE	1	
 orth	BARITE		
-pb	78		
+pb	78	0088	
 entry	BARIUM	0	
 orth	BARIUM		
 entry	BAROMACROMÈTRE	0	
@@ -3725,7 +3725,7 @@ entry	BASE	0
 orth	BASE		
 entry	BASIFIXE	1	
 orth	BASIFIXE		
-pb	79		
+pb	79	0089	
 entry	BASIGYNE	0	
 orth	BASIGYNE		
 entry	BASIHYAL	0	
@@ -3767,7 +3767,7 @@ entry	BATHME	0
 orth	BATHME		
 entry	BATISSE	1	
 orth	BATISSE		
-pb	80		
+pb	80	0090	
 entry	BATITURES	0	
 orth	BATITURES		
 entry	BATTARISME	0	
@@ -3793,7 +3793,7 @@ clique	BALSAMITE
 clique	BALSAMITE		
 term	Baume d’aeier		
 clique	Baume d’aeier		
-pb	81		
+pb	81	0091	
 term	Baurpe acoustique		
 clique	Baurpe acoustique		
 term	Baume apoplectique		
@@ -3816,7 +3816,7 @@ term	Baume nercin
 clique	Baume nercin		
 term	Baume opodeldoch		
 clique	Baume opodeldoch		
-pb	82		
+pb	82	0092	
 term	Baume paralytique de Mynsicht		
 clique	Baume paralytique de Mynsicht		
 term	Baume de Saturne		
@@ -3847,7 +3847,7 @@ entry	BDELLIUM	0
 orth	BDELLIUM		
 entry	BDELLOMÈTRE	1	
 orth	BDELLOMÈTRE		
-pb	83		
+pb	83	0093	
 entry	BEAULIEU	0	
 orth	BEAULIEU		
 entry	BEAUVAIS	0	
@@ -3882,7 +3882,7 @@ entry	BÉGUT	0
 orth	BÉGUT		
 entry	BÉHEN	1	
 orth	BÉHEN		
-pb	84		
+pb	84	0094	
 term	taurea bchen		
 clique	taurea bchen		
 entry	BÉLÉNOÏDE	0	
@@ -3921,7 +3921,7 @@ entry	BENOITE	0
 orth	BENOITE		
 entry	BENZOATE	1	
 orth	BENZOATE		
-pb	85		
+pb	85	0095	
 entry	BENZOÏQUE	0	
 orth	BENZOÏQUE		
 entry	BER	0	
@@ -3963,7 +3963,7 @@ entry	BÈTAIL	0
 orth	BÈTAIL		
 entry	BETEL	1	
 orth	BETEL		
-pb	86		
+pb	86	0096	
 entry	BÉTISE	0	
 orth	BÉTISE		
 entry	BÉTOINE	0	
@@ -4004,7 +4004,7 @@ term	Bèzoard jovial
 clique	Bèzoard jovial		
 term	Bèzoard lunaire		
 clique	Bèzoard lunaire		
-pb	87		
+pb	87	0097	
 term	Bèzoard martial		
 clique	Bèzoard martial		
 term	Bèzoard mercuriel		
@@ -4059,7 +4059,7 @@ entry	BIFORÉ	0
 orth	BIFORÉ		
 entry	BIFURCATION	1	
 orth	BIFURCATION		
-pb	88		
+pb	88	0098	
 entry	BIFURQUÉ	0	
 orth	BIFURQUÉ		
 entry	BIGLE	0	
@@ -4112,7 +4112,7 @@ entry	BISANNUEL	0
 orth	BISANNUEL		
 entry	BISCUIT	1	
 orth	BISCUIT		
-pb	89		
+pb	89	0099	
 entry	BI-SEL	0	
 orth	BI-SEL		
 entry	BISEXE	0	
@@ -4147,7 +4147,7 @@ entry	BITUMINISATION	0
 orth	BITUMINISATION		
 entry	BIVALVE	1	
 orth	BIVALVE		
-pb	90		
+pb	90	0100	
 entry	BIVENTRE	0	
 orth	BIVENTRE		
 entry	BLABE	0	
@@ -4204,7 +4204,7 @@ term	Blè-parler
 clique	Blè-parler | BLÉSITÉ		
 term	Blé cornu		
 clique	Blé cornu | ERGOT		
-pb	91		
+pb	91	0101	
 term	Ble d’ESpagne		
 clique	Ble d’ESpagne | MAÏS		
 term	Blé d’Italie		
@@ -4264,7 +4264,7 @@ entry	BLÉPHAROPHTHALMIE	0
 orth	BLÉPHAROPHTHALMIE		
 entry	BLÉPHAROPTOSIS	1	
 orth	BLÉPHAROPTOSIS		
-pb	92		
+pb	92	0102	
 entry	BLÉPHAROTITE	0	
 orth	BLÉPHAROTITE		
 entry	BLÉPHAROXYSTE	0	
@@ -4312,7 +4312,7 @@ entry	BOIS (maladie des)	0
 orth	BOIS (maladie des)		
 entry	BOIS	1	
 orth	BOIS		
-pb	93		
+pb	93	0103	
 term	BOis d’aloès		
 clique	BOis d’aloès		
 term	BOis amer		
@@ -4359,7 +4359,7 @@ entry	BOITIER	0
 orth	BOITIER		
 entry	BOL	1	
 orth	BOL		
-pb	94		
+pb	94	0104	
 term	BOl alimentaire		
 clique	BOl alimentaire		
 term	BOl d’Arménie		
@@ -4409,7 +4409,7 @@ entry	BORACITE	0
 orth	BORACITE		
 entry	BORATE	1	
 orth	BORATE		
-pb	95		
+pb	95	0105	
 entry	BORAX	0	
 orth	BORAX		
 clique	BORATE		
@@ -4435,7 +4435,7 @@ entry	BORURE	0
 orth	BORURE		
 entry	BOSSE	1	
 orth	BOSSE		
-pb	96		
+pb	96	0106	
 term	BOSse		
 clique	BOSse		
 entry	BOTANIQUE	0	
@@ -4475,7 +4475,7 @@ entry	BOUFFISSURE	0
 orth	BOUFFISSURE		
 entry	BOUGIE	1	
 orth	BOUGIE		
-pb	97		
+pb	97	0107	
 entry	BOUILLIE	0	
 orth	BOUILLIE		
 entry	BOUILLON	0	
@@ -4512,7 +4512,7 @@ entry	BOURBILLON	0
 orth	BOURBILLON		
 entry	BOURBON-LANCY	1	
 orth	BOURBON-LANCY		
-pb	98		
+pb	98	0108	
 entry	BOURBON-L'ARCHAMBAULT	0	
 orth	BOURBON-L'ARCHAMBAULT		
 entry	BOURBONNE-LES-BAINS	0	
@@ -4561,7 +4561,7 @@ term	BOUteille d’Ingenhousz
 clique	BOUteille d’Ingenhousz		
 term	BOUteille de Leyde		
 clique	BOUteille de Leyde		
-pb	99		
+pb	99	0109	
 entry	BOUT-EN-TRAIN	0	
 orth	BOUT-EN-TRAIN		
 entry	BOUTOIR	0	
@@ -4596,7 +4596,7 @@ entry	BRACHYPOTE	0
 orth	BRACHYPOTE		
 entry	BRACTÉE	1	
 orth	BRACTÉE		
-pb	100		
+pb	100	0110	
 entry	BRACTÉEN	0	
 orth	BRACTÉEN		
 entry	BRACTÉIFÈRE	0	
@@ -4645,7 +4645,7 @@ entry	BRÉCHET	0
 orth	BRÉCHET		
 entry	BREDISSURE	1	
 orth	BREDISSURE		
-pb	101		
+pb	101	0111	
 entry	BREDOUILLEMENT	0	
 orth	BREDOUILLEMENT		
 entry	BREGMA	0	
@@ -4682,7 +4682,7 @@ entry	BROCOLI	0
 orth	BROCOLI		
 entry	BROIEMENT	1	
 orth	BROIEMENT		
-pb	102		
+pb	102	0112	
 entry	BROMATOLOGIE	0	
 orth	BROMATOLOGIE		
 entry	BROME	0	
@@ -4731,7 +4731,7 @@ entry	BROWNISTE	0
 orth	BROWNISTE		
 entry	BRUCÉE	1	
 orth	BRUCÉE		
-pb	103		
+pb	103	0113	
 entry	BRUCINE	0	
 orth	BRUCINE		
 entry	BRUCOURT	0	
@@ -4767,7 +4767,7 @@ entry	BURON	0
 orth	BURON		
 entry	BUBON	1	
 orth	BUBON		
-pb	104		
+pb	104	0114	
 entry	BUBONOCÈLE	0	
 orth	BUBONOCÈLE		
 entry	BUBONONCOSE	0	
@@ -4807,7 +4807,7 @@ entry	BULBEUX	0
 orth	BULBEUX		
 entry	BULBIFÈRE	1	
 orth	BULBIFÈRE		
-pb	105		
+pb	105	0115	
 entry	BULBIFORME	0	
 orth	BULBIFORME		
 entry	BULBILLE	0	
@@ -4850,7 +4850,7 @@ entry	C	0
 orth	C		
 entry	CABALE	1	
 orth	CABALE		
-pb	106		
+pb	106	0116	
 entry	CABALISTE	0	
 orth	CABALISTE		
 entry	CABALISTIQUE	0	
@@ -4887,7 +4887,7 @@ entry	CACHIRI	0
 orth	CACHIRI		
 entry	CACHOU	1	
 orth	CACHOU		
-pb	107		
+pb	107	0117	
 entry	CACHUNDÉ	0	
 orth	CACHUNDÉ		
 entry	CACOALEXITÈRE	0	
@@ -4942,7 +4942,7 @@ term	Cadmie arsenicale
 clique	Cadmie arsenicale		
 term	Cadmie de zinc		
 clique	Cadmie de zinc		
-pb	108		
+pb	108	0118	
 term	Cadmie naturel le ou fossile		
 clique	Cadmie naturel le ou fossile		
 term	Cadmie native		
@@ -4970,7 +4970,7 @@ orth	CÆSARIEN
 clique	CÉSARIEN		
 entry	CAFÉ	1	
 orth	CAFÉ		
-pb	109		
+pb	109	0119	
 entry	CAFIÉNE	0	
 orth	CAFIÉNE		
 entry	CAFÉYER, CAFIER	0	
@@ -5010,7 +5010,7 @@ entry	CAISSE	1
 orth	CAISSE		
 term	Caisse du tambour		
 clique	Caisse du tambour		
-pb	110		
+pb	110	0120	
 entry	CAJEPUT, KAÎEPUT	0	
 orth	CAJEPUT		
 orth	KAÎEPUT		
@@ -5052,7 +5052,7 @@ entry	CALCANÉO sous-phalangien du premier orteil	1
 orth	CALCANÉO sous-phalangien du premier orteil		
 term	Calcanéo – sous – phalangien du dernierorteil		
 clique	Calcanéo – sous – phalangien du dernierorteil		
-pb	111		
+pb	111	0121	
 term	Calcaneo-sous-phalanginien commun		
 clique	Calcaneo-sous-phalanginien commun		
 term	calcanéo – sus – phalangettien commun		
@@ -5083,7 +5083,7 @@ term	Calculs arthritiques
 clique	Calculs arthritiques		
 term	Calculs biliaires		
 clique	Calculs biliaires		
-pb	112		
+pb	112	0122	
 term	Calculs de l’estomac		
 clique	Calculs de l’estomac		
 term	Calculs intestinaux		
@@ -5102,14 +5102,14 @@ term	Calculs de la prostate
 clique	Calculs de la prostate		
 term	Calculs pulmonaires		
 clique	Calculs pulmonaires		
-pb	113		
+pb	113	0123	
 term	Calculs salivaires		
 clique	Calculs salivaires		
 term	Calculs spermatiques		
 clique	Calculs spermatiques		
 term	Calculs urinaires		
 clique	Calculs urinaires		
-pb	114		
+pb	114	0124	
 clique	LITHOTOMIE		
 term	Calculs de rulèrus		
 clique	Calculs de rulèrus		
@@ -5154,7 +5154,7 @@ orth	CALOMÉLAS
 orth	CALOMEL		
 entry	CALORICITÉ	1	
 orth	CALORICITÉ		
-pb	115		
+pb	115	0125	
 entry	CALORIFICATION	0	
 orth	CALORIFICATION		
 entry	CALORIFIQUE	0	
@@ -5190,7 +5190,7 @@ entry	CAMAROME	0
 orth	CAMAROME		
 entry	CAMAROSIS	1	
 orth	CAMAROSIS		
-pb	116		
+pb	116	0126	
 entry	CAMBIUM	0	
 orth	CAMBIUM		
 entry	CAMBO	0	
@@ -5235,7 +5235,7 @@ entry	CAMPANE	0
 orth	CAMPANE		
 entry	CAMPANIFORME	1	
 orth	CAMPANIFORME		
-pb	117		
+pb	117	0127	
 term	campanulatus (campana		
 clique	campanulatus (campana		
 entry	CAMPANULE	0	
@@ -5273,7 +5273,7 @@ term	Canal carotidien
 clique	Canal carotidien		
 term	Canal cholédoque		
 clique	Canal cholédoque		
-pb	118		
+pb	118	0128	
 term	Canal cystique		
 clique	Canal cystique		
 term	Canal déférent		
@@ -5320,7 +5320,7 @@ term	Canaux demi-circulaires
 clique	Canaux demi-circulaires		
 entry	CANCER	1	
 orth	CANCER		
-pb	119		
+pb	119	0129	
 term	χχρκίνωμα		
 clique	χχρκίνωμα		
 entry	CANCÉREUX	0	
@@ -5359,7 +5359,7 @@ entry	CANNELLE	0
 orth	CANNELLE		
 entry	CANNELLE	1	
 orth	CANNELLE		
-pb	120		
+pb	120	0130	
 term	Cannelle de Ceylan		
 clique	Cannelle de Ceylan		
 term	Cannelle de la Chine		
@@ -5400,7 +5400,7 @@ entry	CAPACITÉ	0
 orth	CAPACITÉ		
 entry	CAPARACON	1	
 orth	CAPARACON		
-pb	121		
+pb	121	0131	
 entry	CAPBERN, CAPVERN	0	
 orth	CAPBERN		
 orth	CAPVERN		
@@ -5443,7 +5443,7 @@ entry	CAPITULE	0
 orth	CAPITULE		
 entry	CAPITULÉ	1	
 orth	CAPITULÉ		
-pb	122		
+pb	122	0132	
 entry	CAPNOMANCIE	0	
 orth	CAPNOMANCIE		
 entry	CAPPONE	0	
@@ -5483,7 +5483,7 @@ term	Capsules surrénales
 clique	Capsules surrénales		
 term	Capsules synoviales		
 clique	Capsules synoviales		
-pb	123		
+pb	123	0133	
 entry	CAPUCHON	0	
 orth	CAPUCHON		
 entry	CAPUCHONNÉ	0	
@@ -5513,7 +5513,7 @@ entry	CARAQUE	0
 orth	CARAQUE		
 entry	CARBONATE	1	
 orth	CARBONATE		
-pb	124		
+pb	124	0134	
 term	Carbonate (sous-') de soude		
 clique	Carbonate (sous-') de soude		
 entry	CARBONE	0	
@@ -5532,7 +5532,7 @@ entry	CARBONITE	0
 orth	CARBONITE		
 entry	CARBURE	1	
 orth	CARBURE		
-pb	125		
+pb	125	0135	
 term	Carbure d’azote		
 clique	Carbure d’azote		
 term	Carbure de fer		
@@ -5570,7 +5570,7 @@ orth	CARDIANASTROPHIE
 entry	CARDIAQUE	1	
 term	Remèdes cardiaques		
 clique	Remèdes cardiaques | CARDIALGIE | CORDIAL		
-pb	126		
+pb	126	0136	
 entry	CARDIATOMIE	0	
 orth	CARDIATOMIE		
 entry	CARDIEURYSME	0	
@@ -5620,7 +5620,7 @@ entry	CARLSBAD	0
 orth	CARLSBAD		
 entry	CARMINATIF	1	
 orth	CARMINATIF		
-pb	127		
+pb	127	0137	
 term	natifs		
 clique	natifs		
 entry	CARMINE	0	
@@ -5654,7 +5654,7 @@ entry	CAROTIDIEN	0
 orth	CAROTIDIEN		
 entry	CAROTIQUE	1	
 orth	CAROTIQUE		
-pb	128		
+pb	128	0138	
 entry	CAROTTE	0	
 orth	CAROTTE		
 entry	CAROUBIER	0	
@@ -5689,7 +5689,7 @@ term	Carré des lèvres
 clique	Carré des lèvres		
 term	Carré des lombes		
 clique	Carré des lombes		
-pb	129		
+pb	129	0139	
 term	Carré du menton		
 clique	Carré du menton | ABAISSEUR		
 term	Carré pronateur		
@@ -5730,7 +5730,7 @@ entry	CASEEUX	0
 orth	CASEEUX		
 entry	CASÉINE	1	
 orth	CASÉINE		
-pb	130		
+pb	130	0140	
 entry	CASÉIQUE	0	
 orth	CASÉIQUE		
 entry	CASEMATE	0	
@@ -5770,7 +5770,7 @@ entry	CASTRAT	0
 orth	CASTRAT		
 entry	CASTRATION	1	
 orth	CASTRATION		
-pb	131		
+pb	131	0141	
 entry	CATAAL	0	
 orth	CATAAL		
 entry	CATABLÈME	0	
@@ -5806,7 +5806,7 @@ entry	CATAPHORA	0
 orth	CATAPHORA		
 entry	CATAPHRACTA	1	
 orth	CATAPHRACTA		
-pb	132		
+pb	132	0142	
 entry	CATAPLASME	0	
 orth	CATAPLASME		
 entry	CATAPLEXIE	0	
@@ -5839,7 +5839,7 @@ term	Cataracte membraneuse
 clique	Cataracte membraneuse		
 term	Cataracte noire		
 clique	Cataracte noire		
-pb	133		
+pb	133	0143	
 term	Cataracte perlée		
 clique	Cataracte perlée		
 term	Cataracte pierreuse		
@@ -5890,7 +5890,7 @@ entry	CATHÉRÉTIQUE	0
 orth	CATHÉRÉTIQUE		
 entry	CATHÉTER	1	
 orth	CATHÉTER		
-pb	134		
+pb	134	0144	
 entry	CATHÉTÉRISME	0	
 orth	CATHÉTÉRISME		
 entry	CATHIDRYSIS	0	
@@ -5943,7 +5943,7 @@ entry	CAULESCENT	0
 orth	CAULESCENT		
 entry	CAULINAIRE	1	
 orth	CAULINAIRE		
-pb	135		
+pb	135	0145	
 term	cines		
 clique	cines		
 entry	CAUSE	0	
@@ -5971,7 +5971,7 @@ entry	CAVALE	0
 orth	CAVALE		
 entry	CAVE	1	
 orth	CAVE		
-pb	136		
+pb	136	0146	
 entry	CAVERNE	0	
 orth	CAVERNE		
 term	Caverne de Mars		
@@ -6012,7 +6012,7 @@ orth	CÉLIAQUE
 clique	CŒLIAQUE		
 entry	CELLULAIRE	1	
 orth	CELLULAIRE		
-pb	137		
+pb	137	0147	
 entry	CELLULE	0	
 orth	CELLULE		
 entry	CELLULEUX	0	
@@ -6060,7 +6060,7 @@ entry	CENTRE	1
 orth	CENTRE		
 term	Centre d’action		
 clique	Centre d’action		
-pb	138		
+pb	138	0148	
 term	Centre de fluxion		
 clique	Centre de fluxion		
 term	Centre dos forces parallèles		
@@ -6109,7 +6109,7 @@ entry	CÉPHALINE	0
 orth	CÉPHALINE		
 entry	CÉPHALIQUE	1	
 orth	CÉPHALIQUE		
-pb	139		
+pb	139	0149	
 clique	CÉPHALARTIQUE		
 entry	CÉPHALITE	0	
 orth	CÉPHALITE		
@@ -6171,7 +6171,7 @@ orth	KÉRATO-PHARYNGIEN
 entry	CÉRATO-STAPHYLIN, KERATO-STAPHYLIN	0	
 orth	CÉRATO-STAPHYLIN		
 orth	KERATO-STAPHYLIN		
-pb	140		
+pb	140	0150	
 entry	CERATOTOME	0	
 orth	CERATOTOME		
 entry	CÉRATOTOMIE	0	
@@ -6212,7 +6212,7 @@ entry	CÉRION	0
 orth	CÉRION		
 entry	CÉRION	1	
 orth	CÉRION		
-pb	141		
+pb	141	0151	
 entry	CERISE	0	
 orth	CERISE		
 entry	CERISIER	0	
@@ -6251,7 +6251,7 @@ entry	CERVELLE	0
 orth	CERVELLE		
 entry	CERVICAL	1	
 orth	CERVICAL		
-pb	142		
+pb	142	0152	
 entry	CERVICO-ACROMIEN	0	
 orth	CERVICO-ACROMIEN		
 term	Cervico – auriculaire externe		
@@ -6290,7 +6290,7 @@ entry	CÉVADATE	0
 orth	CÉVADATE		
 entry	CÉVADILLE	1	
 orth	CÉVADILLE		
-pb	143		
+pb	143	0153	
 entry	CÉVADIQUE	0	
 orth	CÉVADIQUE		
 entry	CÉZERIAT	0	
@@ -6335,7 +6335,7 @@ entry	CHAMBON	0
 orth	CHAMBON		
 entry	CHAMBRE	1	
 orth	CHAMBRE		
-pb	144		
+pb	144	0154	
 entry	CHAMPIGNON	0	
 orth	CHAMPIGNON		
 entry	CHAMPLURE	0	
@@ -6376,7 +6376,7 @@ entry	CHAPON	0
 orth	CHAPON		
 entry	CHAPPETONADE	1	
 orth	CHAPPETONADE		
-pb	145		
+pb	145	0155	
 entry	CHARBON	0	
 orth	CHARBON		
 term	Charbon		
@@ -6420,7 +6420,7 @@ entry	CHARTRES	0
 orth	CHARTRES		
 entry	CHAS	1	
 orth	CHAS		
-pb	146		
+pb	146	0156	
 entry	CHÂSSE	0	
 orth	CHÂSSE		
 entry	CHASSIE	0	
@@ -6465,7 +6465,7 @@ entry	CHATRER	0
 orth	CHATRER		
 entry	CHATRURE	1	
 orth	CHATRURE		
-pb	147		
+pb	147	0157	
 entry	CHAUCHEVIEILLE	0	
 orth	CHAUCHEVIEILLE		
 entry	CHAUDEBOURG	0	
@@ -6522,7 +6522,7 @@ entry	CHEIRISME	0
 orth	CHEIRISME		
 entry	CHÉLIDOINE	1	
 orth	CHÉLIDOINE		
-pb	148		
+pb	148	0158	
 entry	CHEMILLÉ	0	
 orth	CHEMILLÉ		
 entry	CHEMOSIS	0	
@@ -6570,7 +6570,7 @@ entry	CHEVEU	0
 orth	CHEVEU		
 entry	CHEVILLE	1	
 orth	CHEVILLE		
-pb	149		
+pb	149	0159	
 entry	CHÈVREFEUILLE	0	
 orth	CHÈVREFEUILLE		
 entry	CHEVROTANT	0	
@@ -6615,7 +6615,7 @@ entry	CHIRIATRE	0
 orth	CHIRIATRE		
 entry	CHIRIATRIE	1	
 orth	CHIRIATRIE		
-pb	150		
+pb	150	0160	
 entry	CHIROMANCIE	0	
 orth	CHIROMANCIE		
 entry	CHIROMANCIEN, CHIROMANCIER	0	
@@ -6649,7 +6649,7 @@ entry	CHLORIODATE	0
 orth	CHLORIODATE		
 entry	CHLORIODIQUE	1	
 orth	CHLORIODIQUE		
-pb	151		
+pb	151	0161	
 entry	CHLORIQUE	0	
 orth	CHLORIQUE		
 term	Chloriquc oxigénè		
@@ -6684,7 +6684,7 @@ term	Chlorure de barium
 clique	Chlorure de barium		
 term	Chlorure de bismuth		
 clique	Chlorure de bismuth		
-pb	152		
+pb	152	0162	
 term	Chlorure de calcium		
 clique	Chlorure de calcium		
 term	Chlorure d’etain		
@@ -6723,7 +6723,7 @@ entry	CHOLÉPOIESE	0
 orth	CHOLÉPOIESE		
 entry	CHOLÉPYRE	1	
 orth	CHOLÉPYRE		
-pb	153		
+pb	153	0163	
 entry	CHOLÉRA	0	
 orth	CHOLÉRA		
 term	Choiera morbus		
@@ -6772,7 +6772,7 @@ entry	CHOROÏDE	0
 orth	CHOROÏDE		
 entry	CHOROÏDIEN	1	
 orth	CHOROÏDIEN		
-pb	154		
+pb	154	0164	
 entry	CHOSE	0	
 orth	CHOSE		
 entry	CHOU	0	
@@ -6807,7 +6807,7 @@ entry	CHRYSOCOLLE	0
 orth	CHRYSOCOLLE		
 entry	CHRYSOLITHE	1	
 orth	CHRYSOLITHE		
-pb	155		
+pb	155	0165	
 entry	CHRYSOMÈLE	0	
 orth	CHRYSOMÈLE		
 entry	CHRYSOPÉE	0	
@@ -6863,7 +6863,7 @@ entry	CIBOULETTE	0
 orth	CIBOULETTE		
 entry	CICATRICE	1	
 orth	CICATRICE		
-pb	156		
+pb	156	0166	
 entry	CICATRICULE	0	
 orth	CICATRICULE		
 clique	HILE		
@@ -6904,7 +6904,7 @@ orth	CIME
 clique	CYME		
 entry	CIMOLÉ	1	
 orth	CIMOLÉ		
-pb	157		
+pb	157	0167	
 entry	CINABRE	0	
 orth	CINABRE		
 clique	CINNABRE		
@@ -6949,7 +6949,7 @@ entry	CIRCULAIRE	0
 orth	CIRCULAIRE		
 entry	CIRCULATION	1	
 orth	CIRCULATION		
-pb	158		
+pb	158	0168	
 entry	CIRCULATOIRE	0	
 orth	CIRCULATOIRE		
 entry	CIRCULER	0	
@@ -6989,7 +6989,7 @@ entry	CISEAUX	0
 orth	CISEAUX		
 entry	CISSAMPELOS	1	
 orth	CISSAMPELOS		
-pb	159		
+pb	159	0169	
 entry	CISTE	0	
 orth	CISTE		
 clique	LABDANUM		
@@ -7044,7 +7044,7 @@ entry	CLASSE	0
 orth	CLASSE		
 entry	CLASSIFICATION	1	
 orth	CLASSIFICATION		
-pb	160		
+pb	160	0170	
 entry	CLASSY	0	
 orth	CLASSY		
 entry	CLAUDICATION	0	
@@ -7098,7 +7098,7 @@ entry	CLÈVES	0
 orth	CLÈVES		
 entry	CLIGNEMENT	1	
 orth	CLIGNEMENT		
-pb	161		
+pb	161	0171	
 entry	CLIGNER	0	
 orth	CLIGNER		
 entry	CLIGNOTANT	0	
@@ -7147,7 +7147,7 @@ entry	CLOPORTE	0
 orth	CLOPORTE		
 entry	CLOQUE	1	
 orth	CLOQUE		
-pb	162		
+pb	162	0172	
 entry	CLOU	0	
 orth	CLOU		
 clique	FURONCLE		
@@ -7197,7 +7197,7 @@ entry	COCCINELLE	0
 orth	COCCINELLE		
 entry	COCCYCÉPHALE	1	
 orth	COCCYCÉPHALE		
-pb	163		
+pb	163	0173	
 entry	COCCYGIEN	0	
 orth	COCCYGIEN		
 entry	COCCYGIO-ANAL	0	
@@ -7248,7 +7248,7 @@ entry	COENOLOGIE	0
 orth	COENOLOGIE		
 entry	COERCIBLE	1	
 orth	COERCIBLE		
-pb	164		
+pb	164	0174	
 entry	COERCITIF	0	
 orth	COERCITIF		
 entry	COEUR	0	
@@ -7293,7 +7293,7 @@ orth	COU
 entry	COU, COU	1	
 orth	COU		
 orth	COU		
-pb	165		
+pb	165	0175	
 term	COl de l’astragale		
 clique	COl de l’astragale		
 term	COl des cotes		
@@ -7336,7 +7336,7 @@ entry	COLIQUE	0
 orth	COLIQUE		
 entry	COLIQUE	1	
 orth	COLIQUE		
-pb	166		
+pb	166	0176	
 entry	COLITE	0	
 orth	COLITE		
 entry	COLLAPSUS	0	
@@ -7371,7 +7371,7 @@ entry	COLLUTOIRE	0
 orth	COLLUTOIRE		
 entry	COLLYRE	1	
 orth	COLLYRE		
-pb	167		
+pb	167	0177	
 entry	COLOBOME	0	
 orth	COLOBOME		
 entry	COLOMBATE	0	
@@ -7419,7 +7419,7 @@ entry	COLPOSTÉGNOSE	0
 orth	COLPOSTÉGNOSE		
 entry	COLUMBO	1	
 orth	COLUMBO		
-pb	168		
+pb	168	0178	
 entry	COLUMELLE	0	
 orth	COLUMELLE		
 entry	COLUMELLÉ	0	
@@ -7458,7 +7458,7 @@ term	COmmissures du cerveau
 clique	COmmissures du cerveau		
 entry	COMMOTION	1	
 orth	COMMOTION		
-pb	169		
+pb	169	0179	
 entry	COMMUNICANT	0	
 orth	COMMUNICANT		
 entry	COMPACITÉ	0	
@@ -7487,7 +7487,7 @@ entry	COMPRÉHENSION	0
 orth	COMPRÉHENSION		
 entry	COMPRESSE	1	
 orth	COMPRESSE		
-pb	170		
+pb	170	0180	
 entry	COMMPRESSEUR	0	
 orth	COMMPRESSEUR		
 term	COmpresseur de NUch		
@@ -7498,7 +7498,7 @@ entry	COMPRESSIF	0
 orth	COMPRESSIF		
 entry	COMPRESSION	1	
 orth	COMPRESSION		
-pb	171		
+pb	171	0181	
 entry	COMPRIMER	0	
 orth	COMPRIMER		
 entry	CONARION	0	
@@ -7527,7 +7527,7 @@ entry	CONCEPTACLE	0
 orth	CONCEPTACLE		
 entry	CONCEPTION	1	
 orth	CONCEPTION		
-pb	172		
+pb	172	0182	
 entry	CONCHO-ANTHÉLICIEN	0	
 orth	CONCHO-ANTHÉLICIEN		
 entry	CONCHO-ANTHELIX	0	
@@ -7577,7 +7577,7 @@ term	COnduit auditif
 clique	COnduit auditif		
 term	COnduit ptérygtndiEn		
 clique	COnduit ptérygtndiEn		
-pb	173		
+pb	173	0183	
 term	rleus		
 clique	rleus		
 term	conduit ptérygo – palatin		
@@ -7634,7 +7634,7 @@ entry	CONGÉNÈRE	0
 orth	CONGÉNÈRE		
 entry	CONGÉNIAL	1	
 orth	CONGÉNIAL		
-pb	174		
+pb	174	0184	
 entry	CONGÉNITAL	0	
 orth	CONGÉNITAL		
 entry	CONGESTION	0	
@@ -7676,7 +7676,7 @@ entry	CONOPHTHALME	0
 orth	CONOPHTHALME		
 entry	CONQUASSATION	1	
 orth	CONQUASSATION		
-pb	175		
+pb	175	0185	
 entry	CONQUE	0	
 orth	CONQUE		
 entry	CONSECUTIF	0	
@@ -7715,7 +7715,7 @@ term	COnstricteur de la vessie
 clique	COnstricteur de la vessie		
 term	COnstricteur du vagin		
 clique	COnstricteur du vagin		
-pb	176		
+pb	176	0186	
 entry	CONSTRICTION	0	
 orth	CONSTRICTION		
 entry	CONSULTANT	0	
@@ -7763,7 +7763,7 @@ orth	CONTRACTIF
 clique	ASTRINGENT		
 entry	CONTRACTILE	1	
 orth	CONTRACTILE		
-pb	177		
+pb	177	0187	
 entry	CONTRACTILITÉ	0	
 orth	CONTRACTILITÉ		
 entry	CONTRACTION	0	
@@ -7806,7 +7806,7 @@ entry	CONTUS	0
 orth	CONTUS		
 entry	CONTUSION	1	
 orth	CONTUSION		
-pb	178		
+pb	178	0188	
 entry	CONVALESCENCE	0	
 orth	CONVALESCENCE		
 entry	CONVALESCENT	0	
@@ -7862,7 +7862,7 @@ entry	COPROSCLEROSE	0
 orth	COPROSCLEROSE		
 entry	COPROSTASIE	1	
 orth	COPROSTASIE		
-pb	179		
+pb	179	0189	
 entry	COPTARION	0	
 orth	COPTARION		
 entry	COPTE	0	
@@ -7901,7 +7901,7 @@ entry	CORACO-RADIAL	0
 orth	CORACO-RADIAL		
 entry	CORAIL	1	
 orth	CORAIL		
-pb	180		
+pb	180	0190	
 entry	CORALLINE	0	
 orth	CORALLINE		
 entry	CORDE	0	
@@ -7938,7 +7938,7 @@ entry	CORNAGE	0
 orth	CORNAGE		
 entry	CORNE	1	
 orth	CORNE		
-pb	181		
+pb	181	0191	
 term	COrne de cerf		
 clique	COrne de cerf		
 term	COrne de la peau		
@@ -7975,7 +7975,7 @@ term	COrnet sphénoïdal
 clique	COrnet sphénoïdal		
 term	COrnet supérieur		
 clique	COrnet supérieur		
-pb	182		
+pb	182	0192	
 entry	CORNICHON	0	
 orth	CORNICHON		
 term	COrnichon de câpre		
@@ -8018,7 +8018,7 @@ term	COrps cannelés
 clique	COrps cannelés		
 term	COrps caverneux		
 clique	COrps caverneux		
-pb	183		
+pb	183	0193	
 term	COrps ciliaire		
 clique	COrps ciliaire | CILIAIRE		
 term	COrps cribloux		
@@ -8057,7 +8057,7 @@ term	COrps réticulaire
 clique	COrps réticulaire		
 term	COrps rhombotdal		
 clique	COrps rhombotdal		
-pb	184		
+pb	184	0194	
 term	COrps vitré		
 clique	COrps vitré		
 entry	CORPULENCE	0	
@@ -8108,7 +8108,7 @@ entry	COSSUM	0
 orth	COSSUM		
 entry	COSTAL	1	
 orth	COSTAL		
-pb	185		
+pb	185	0195	
 term	eeslaux		
 clique	eeslaux		
 entry	COSTO-ABDOMINAL	0	
@@ -8152,7 +8152,7 @@ entry	COTYLÉDON	0
 orth	COTYLÉDON		
 entry	COTYLÉDONAIRE	1	
 orth	COTYLÉDONAIRE		
-pb	186		
+pb	186	0196	
 term	donaire		
 clique	donaire		
 entry	COTYLEDONÉ	0	
@@ -8196,7 +8196,7 @@ term	COUp de sang
 clique	COUp de sang		
 term	COUp de soleil		
 clique	COUp de soleil		
-pb	187		
+pb	187	0197	
 term	COUp de tonnerreq		
 clique	COUp de tonnerreq		
 entry	COUPE	0	
@@ -8241,7 +8241,7 @@ entry	COURMI	0
 orth	COURMI		
 entry	COURONNE	1	
 orth	COURONNE		
-pb	188		
+pb	188	0198	
 term	COUronne ciliaire		
 clique	COUronne ciliaire		
 term	COUronne des dents		
@@ -8278,7 +8278,7 @@ entry	COUSU	0
 orth	COUSU		
 entry	COUTEAU	1	
 orth	COUTEAU		
-pb	189		
+pb	189	0199	
 term	COUteau a amputation		
 clique	COUteau a amputation		
 term	COUteau a cataracte		
@@ -8309,7 +8309,7 @@ entry	COUTURIER	0
 orth	COUTURIER		
 entry	COUVERTURE	1	
 orth	COUVERTURE		
-pb	190		
+pb	190	0200	
 entry	COUVRE-CHEF	0	
 orth	COUVRE-CHEF		
 entry	COXAGRE	0	
@@ -8351,7 +8351,7 @@ entry	CRANIO-ABDOMINAL	0
 orth	CRANIO-ABDOMINAL		
 entry	CRANIOLOGIE	1	
 orth	CRANIOLOGIE		
-pb	191		
+pb	191	0201	
 entry	CRANIOMÉTRIE	0	
 orth	CRANIOMÉTRIE		
 entry	CRANIOSCOPIE	0	
@@ -8406,7 +8406,7 @@ entry	CRENULÉ	0
 orth	CRENULÉ		
 entry	CRÉPITANT	1	
 orth	CRÉPITANT		
-pb	192		
+pb	192	0202	
 entry	CRÉPITATION	0	
 orth	CRÉPITATION		
 entry	CRÉPU	0	
@@ -8447,7 +8447,7 @@ entry	CRICO-ARYTÉNOÏDIEN	0
 orth	CRICO-ARYTÉNOÏDIEN		
 entry	CRICOÏDE	1	
 orth	CRICOÏDE		
-pb	193		
+pb	193	0203	
 entry	CRICO-PHARYNGIEN	0	
 orth	CRICO-PHARYNGIEN		
 term	Crico – thyroïdien		
@@ -8480,7 +8480,7 @@ term	Cristal minéral
 clique	Cristal minéral		
 entry	CRISTALLIN	1	
 orth	CRISTALLIN		
-pb	194		
+pb	194	0204	
 entry	CRISTALLINE	0	
 orth	CRISTALLINE		
 entry	CRISTALLISATION	0	
@@ -8525,7 +8525,7 @@ entry	CROISETTE	0
 orth	CROISETTE		
 entry	CROISSANCE	1	
 orth	CROISSANCE		
-pb	195		
+pb	195	0205	
 entry	CROISSANT	0	
 orth	CROISSANT		
 entry	CROIX	0	
@@ -8562,7 +8562,7 @@ entry	CRUCIFORME	0
 orth	CRUCIFORME		
 entry	CRUDITÉ	1	
 orth	CRUDITÉ		
-pb	196		
+pb	196	0206	
 entry	CRUOR	0	
 orth	CRUOR		
 entry	CRURAL	0	
@@ -8593,7 +8593,7 @@ term	cubito-métacarpien oblique
 clique	cubito-métacarpien oblique		
 term	CUlHto-palmaire		
 clique	CUlHto-palmaire		
-pb	197		
+pb	197	0207	
 term	CUbito-phalangettien commun		
 clique	CUbito-phalangettien commun		
 term	CUbito – radial		
@@ -8638,7 +8638,7 @@ term	CUir chevelu
 clique	CUir chevelu		
 entry	CUISSART	1	
 orth	CUISSART		
-pb	198		
+pb	198	0208	
 entry	CUISSE	0	
 orth	CUISSE		
 entry	CUISSON	0	
@@ -8689,7 +8689,7 @@ entry	CURABLE	0
 orth	CURABLE		
 entry	CURATIF	1	
 orth	CURATIF		
-pb	199		
+pb	199	0209	
 entry	CURATION	0	
 orth	CURATION		
 entry	CURCUMA	0	
@@ -8732,7 +8732,7 @@ entry	CYANOMÈTRE	0
 orth	CYANOMÈTRE		
 entry	CYANOPATHIE	1	
 orth	CYANOPATHIE		
-pb	200		
+pb	200	0210	
 entry	CYÀNOSE	0	
 orth	CYÀNOSE		
 clique	CYANOPATHIE		
@@ -8781,7 +8781,7 @@ orth	CYNANCHE
 orth	CYNANCIE		
 entry	CYNANQUE	1	
 orth	CYNANQUE		
-pb	201		
+pb	201	0211	
 term	chum arghel		
 clique	chum arghel		
 entry	CYNANTHROPIE	0	
@@ -8829,7 +8829,7 @@ entry	CYSTIPHLOGIE	0
 orth	CYSTIPHLOGIE		
 entry	CYSTIQUE	1	
 orth	CYSTIQUE		
-pb	202		
+pb	202	0212	
 entry	CYSTIRRHAGIE	0	
 orth	CYSTIRRHAGIE		
 entry	CYSTIRRHÉE	0	
@@ -8874,7 +8874,7 @@ entry	CYSTOTHROMBOÏDE	0
 orth	CYSTOTHROMBOÏDE		
 entry	CYSTOTOME	1	
 orth	CYSTOTOME		
-pb	203		
+pb	203	0213	
 entry	CYSTOTOMIE	0	
 orth	CYSTOTOMIE		
 entry	CYSTOTRACHÉLOTOMIE	0	
@@ -8919,7 +8919,7 @@ entry	DACTYLION	0
 orth	DACTYLION		
 entry	DACTYLITE	1	
 orth	DACTYLITE		
-pb	204		
+pb	204	0214	
 entry	DACTYLOTHÈCE	0	
 orth	DACTYLOTHÈCE		
 entry	DAMNATA  terra	0	
@@ -8973,7 +8973,7 @@ entry	DAUPHIN	0
 orth	DAUPHIN		
 entry	DAUPHINELLE	1	
 orth	DAUPHINELLE		
-pb	205		
+pb	205	0215	
 clique	STAPHISAIGRE		
 entry	DAVIER	0	
 orth	DAVIER		
@@ -9024,7 +9024,7 @@ entry	DÉCLAMATION	0
 orth	DÉCLAMATION		
 entry	DÉCLIN	1	
 orth	DÉCLIN		
-pb	206		
+pb	206	0216	
 entry	DÉCLIVE	0	
 orth	DÉCLIVE		
 entry	DÉCOCTION	0	
@@ -9071,7 +9071,7 @@ entry	DÉCUSSOIRE	0
 orth	DÉCUSSOIRE		
 entry	DÉDOLATION	1	
 orth	DÉDOLATION		
-pb	207		
+pb	207	0217	
 entry	DÉFAILLANCE	0	
 orth	DÉFAILLANCE		
 entry	DÉFÉCATION	0	
@@ -9117,7 +9117,7 @@ entry	DÉGRAISSER	0
 orth	DÉGRAISSER		
 entry	DEGRÉ	1	
 orth	DEGRÉ		
-pb	208		
+pb	208	0218	
 entry	DEGUSTATION	0	
 orth	DEGUSTATION		
 entry	DÈJECTION	0	
@@ -9158,7 +9158,7 @@ entry	DELPHININIQUE	0
 orth	DELPHININIQUE		
 entry	DELTOÏDE	1	
 orth	DELTOÏDE		
-pb	209		
+pb	209	0219	
 entry	DELTOÏDIEN	0	
 orth	DELTOÏDIEN		
 entry	DÉLUTER	0	
@@ -9205,7 +9205,7 @@ entry	DENSE	0
 orth	DENSE		
 entry	DENSITÉ	1	
 orth	DENSITÉ		
-pb	210		
+pb	210	0220	
 entry	DENT	0	
 orth	DENT		
 term	Dent de lion		
@@ -9218,7 +9218,7 @@ entry	DENTELAIRE	0
 orth	DENTELAIRE		
 entry	DENTELÉ	1	
 orth	DENTELÉ		
-pb	211		
+pb	211	0221	
 entry	DENTICULE	0	
 orth	DENTICULE		
 entry	DENTIER	0	
@@ -9248,7 +9248,7 @@ entry	DÉPÉRISSEMENT	0
 orth	DÉPÉRISSEMENT		
 entry	DÉPHLEGMATION	1	
 orth	DÉPHLEGMATION		
-pb	212		
+pb	212	0222	
 entry	DÉPHLOGISTIQUÉ	0	
 orth	DÉPHLOGISTIQUÉ		
 clique	PHLOGISTIQUE		
@@ -9288,7 +9288,7 @@ entry	DERMATITE	0
 orth	DERMATITE		
 entry	DERMATOÏDE	1	
 orth	DERMATOÏDE		
-pb	213		
+pb	213	0223	
 entry	DERME	0	
 orth	DERME		
 entry	DERMOGRAPHIE	0	
@@ -9354,7 +9354,7 @@ entry	DÉSOPILATION	0
 orth	DÉSOPILATION		
 entry	DÉSORGANISATION	1	
 orth	DÉSORGANISATION		
-pb	214		
+pb	214	0224	
 term	sation		
 clique	sation		
 entry	DÉSOXYDATION	0	
@@ -9419,7 +9419,7 @@ entry	DÉTUMESCENCE	0
 orth	DÉTUMESCENCE		
 entry	DEUTÉRIE	1	
 orth	DEUTÉRIE		
-pb	215		
+pb	215	0225	
 entry	DEUTEROPATHIE	0	
 orth	DEUTEROPATHIE		
 entry	DEUTÉROPATHIQUE	0	
@@ -9463,7 +9463,7 @@ orth	DIACHYLON
 orth	DIACHYLUM		
 entry	DIACODE	1	
 orth	DIACODE		
-pb	216		
+pb	216	0226	
 entry	DIACOLOCYNTHIDOS	0	
 orth	DIACOLOCYNTHIDOS		
 entry	DIACOPÉ	0	
@@ -9523,7 +9523,7 @@ entry	DIALYSE	0
 orth	DIALYSE		
 entry	DIAMANT	1	
 orth	DIAMANT		
-pb	217		
+pb	217	0227	
 entry	DIAMARGARITUM	0	
 orth	DIAMARGARITUM		
 entry	DIAMARMATUM	0	
@@ -9569,7 +9569,7 @@ entry	DIAPHORÉTIQUE	0
 orth	DIAPHORÉTIQUE		
 entry	DIAPHRAGMATIQUE	1	
 orth	DIAPHRAGMATIQUE		
-pb	218		
+pb	218	0228	
 entry	DIAPHRAGMATITE	0	
 orth	DIAPHRAGMATITE		
 entry	DIAPHRAGMATOCÈLE	0	
@@ -9625,7 +9625,7 @@ entry	DIASTASE	0
 orth	DIASTASE		
 entry	DIASTOLE	1	
 orth	DIASTOLE		
-pb	219		
+pb	219	0229	
 entry	DIASTROPHIE	0	
 orth	DIASTROPHIE		
 entry	DIATARTARI	0	
@@ -9683,7 +9683,7 @@ entry	DIÉRÉTIQUE	0
 orth	DIÉRÉTIQUE		
 entry	DIÈTE	1	
 orth	DIÈTE		
-pb	220		
+pb	220	0230	
 entry	DIÉTÉTIQUE	0	
 orth	DIÉTÉTIQUE		
 entry	DIÉTÉTIQUE	0	
@@ -9719,7 +9719,7 @@ entry	DIGITAL	0
 orth	DIGITAL		
 entry	DIGITALE	1	
 orth	DIGITALE		
-pb	221		
+pb	221	0231	
 entry	DIGITALINE	0	
 orth	DIGITALINE		
 entry	DIGITATION	0	
@@ -9781,7 +9781,7 @@ entry	DIPLOPIE	0
 orth	DIPLOPIE		
 entry	DIPLOTEGE	1	
 orth	DIPLOTEGE		
-pb	222		
+pb	222	0232	
 entry	DIPSETIQUE	0	
 orth	DIPSETIQUE		
 entry	DIRRADIATION	0	
@@ -9826,7 +9826,7 @@ entry	DISTICHIASE	0
 orth	DISTICHIASE		
 entry	DISTILLATION	1	
 orth	DISTILLATION		
-pb	223		
+pb	223	0233	
 entry	DISTILLÉ	0	
 orth	DISTILLÉ		
 entry	DISTILLER	0	
@@ -9872,7 +9872,7 @@ entry	DOL	0
 orth	DOL		
 entry	DOLOIRE	1	
 orth	DOLOIRE		
-pb	224		
+pb	224	0234	
 entry	DÔME, RÉVERBÈRE	0	
 orth	DÔME		
 orth	RÉVERBÈRE		
@@ -9916,7 +9916,7 @@ entry	DOUCHE	0
 orth	DOUCHE		
 entry	DOULEUR	1	
 orth	DOULEUR		
-pb	225		
+pb	225	0235	
 term	ooèvr		
 clique	ooèvr		
 entry	DOUTEUX	0	
@@ -9962,7 +9962,7 @@ entry	DROIT	0
 orth	DROIT		
 entry	DROIT	1	
 orth	DROIT		
-pb	226		
+pb	226	0236	
 term	Droit externe de raeil		
 clique	Droit externe de raeil		
 term	Droit inférieur de raeil		
@@ -9996,7 +9996,7 @@ entry	DUODÉNAL	0
 orth	DUODÉNAL		
 entry	DUODÉNITE	1	
 orth	DUODÉNITE		
-pb	227		
+pb	227	0237	
 entry	DUODÉNUM	0	
 orth	DUODÉNUM		
 entry	DUPLICATURE	0	
@@ -10051,7 +10051,7 @@ entry	DYSECOÏE	0
 orth	DYSECOÏE		
 entry	DYSENTERIE	1	
 orth	DYSENTERIE		
-pb	228		
+pb	228	0238	
 entry	DYSENTÉRIQUE	0	
 orth	DYSENTÉRIQUE		
 entry	DYSESTHÉTÉRIE	0	
@@ -10134,7 +10134,7 @@ entry	DYSTOECHIASE	0
 orth	DYSTOECHIASE		
 entry	DYSTONIE	0	
 orth	DYSTONIE		
-pb	229		
+pb	229	0239	
 entry	DYSURÉSIE	0	
 orth	DYSURÉSIE		
 entry	DYSURIE	0	
@@ -10177,7 +10177,7 @@ term	Eau de chaux
 clique	Eau de chaux		
 term	Eau de COlogne		
 clique	Eau de COlogne		
-pb	230		
+pb	230	0240	
 term	Eau de crâne		
 clique	Eau de crâne		
 term	Eau de cristallisation		
@@ -10230,7 +10230,7 @@ term	Eau dentifrice
 clique	Eau dentifrice		
 term	Eau des hydropiques		
 clique	Eau des hydropiques		
-pb	231		
+pb	231	0241	
 term	Eau des lacs		
 clique	Eau des lacs		
 term	Eau des puits		
@@ -10269,7 +10269,7 @@ term	Eau thèriacale
 clique	Eau thèriacale		
 term	Eau vègéto-mercurielle		
 clique	Eau vègéto-mercurielle		
-pb	232		
+pb	232	0242	
 term	Eau vitale		
 clique	Eau vitale		
 term	Eau vulnéraire blanche		
@@ -10322,7 +10322,7 @@ entry	EBEAUPIN	0
 orth	EBEAUPIN		
 entry	EBET	1	
 orth	EBET		
-pb	233		
+pb	233	0243	
 entry	EBLOUISSEMENT	0	
 orth	EBLOUISSEMENT		
 entry	EBROUEMENT	0	
@@ -10375,7 +10375,7 @@ term	Échalote d’ESpagne
 clique	Échalote d’ESpagne | ROCAMBOLE		
 entry	ECHANCRURE	1	
 orth	ECHANCRURE		
-pb	234		
+pb	234	0244	
 term	Echancrure ethmmdale		
 clique	Echancrure ethmmdale		
 term	Echancrure nasale		
@@ -10423,7 +10423,7 @@ entry	ECLAMPSIE	0
 orth	ECLAMPSIE		
 entry	ECLECTIQUE	1	
 orth	ECLECTIQUE		
-pb	235		
+pb	235	0245	
 entry	ECLECTISME	0	
 orth	ECLECTISME		
 entry	ECLEGME	0	
@@ -10478,7 +10478,7 @@ entry	ECPHYSE	0
 orth	ECPHYSE		
 entry	ECPHYSÈSE	1	
 orth	ECPHYSÈSE		
-pb	236		
+pb	236	0246	
 entry	ECPIESME	0	
 orth	ECPIESME		
 entry	ECPLÉROME	0	
@@ -10543,7 +10543,7 @@ entry	ECTROTIQUE	0
 orth	ECTROTIQUE		
 entry	ECTYLOTIQUE	1	
 orth	ECTYLOTIQUE		
-pb	237		
+pb	237	0247	
 entry	ECUME	0	
 orth	ECUME		
 entry	ECUSSON	0	
@@ -10593,7 +10593,7 @@ entry	EFFUSION	0
 orth	EFFUSION		
 entry	EGAGROPILE	1	
 orth	EGAGROPILE		
-pb	238		
+pb	238	0248	
 entry	EGAL	0	
 orth	EGAL		
 entry	EGARÉ	0	
@@ -10652,7 +10652,7 @@ entry	ELASTIQUE	0
 orth	ELASTIQUE		
 entry	ELATERIUM	1	
 orth	ELATERIUM		
-pb	239		
+pb	239	0249	
 entry	ELATEROMÈTRE	0	
 orth	ELATEROMÈTRE		
 entry	ÉLECTIF	0	
@@ -10677,8 +10677,8 @@ term	Eleetricdtè vitrée
 clique	Eleetricdtè vitrée		
 entry	ÉLECTRIQUE	2	
 orth	ÉLECTRIQUE		
-pb	240		
-pb	241		
+pb	240	0250	
+pb	241	0251	
 entry	ELECTRISATION	0	
 orth	ELECTRISATION		
 entry	ELECTRISER	0	
@@ -10725,7 +10725,7 @@ term	Electuaire fébrifuge
 clique	Electuaire fébrifuge		
 term	Electuaire léi		
 clique	Electuaire léi		
-pb	242		
+pb	242	0252	
 term	Elettuaire stomachique		
 clique	Elettuaire stomachique | OPIAT		
 entry	ELÉMENT	0	
@@ -10754,7 +10754,7 @@ clique	Elévateur de rœil
 term	Elévateur de roreille		
 clique	Elévateur de roreille		
 clique	RELEVEUR		
-pb	243		
+pb	243	0253	
 entry	ELÉVATION	0	
 orth	ELÉVATION		
 entry	ELÉVATOIRE	0	
@@ -10786,7 +10786,7 @@ term	Elixir antiseptique d’HUxharn
 clique	Elixir antiseptique d’HUxharn		
 term	Elixir truulx		
 clique	Elixir truulx		
-pb	244		
+pb	244	0254	
 term	Elixir de Garas		
 clique	Elixir de Garas		
 term	Elixir de propriété de Paracelse		
@@ -10850,7 +10850,7 @@ entry	EMASCULER	0
 orth	EMASCULER		
 entry	EMBARRAS	1	
 orth	EMBARRAS		
-pb	245		
+pb	245	0255	
 term	Embarras gastro-intestinal		
 clique	Embarras gastro-intestinal		
 term	Embarras intestinal		
@@ -10901,7 +10901,7 @@ entry	ÉMÉTINE	0
 orth	ÉMÉTINE		
 entry	EMÉTIQUE	1	
 orth	EMÉTIQUE		
-pb	246		
+pb	246	0256	
 entry	ÉMÉTISER	0	
 orth	ÉMÉTISER		
 entry	ÉMÉTO-CATHARTIQUE	0	
@@ -10954,7 +10954,7 @@ entry	EMPIRIQUE	0
 orth	EMPIRIQUE		
 entry	EMPIRISME	1	
 orth	EMPIRISME		
-pb	247		
+pb	247	0257	
 entry	EMPLASTIQUE	0	
 orth	EMPLASTIQUE		
 entry	EMPLASTROPOIÈSE	0	
@@ -11011,7 +11011,7 @@ term	Emplâtre de NUremberg
 clique	Emplâtre de NUremberg		
 term	Emplâtre de Baland.		
 clique	Emplâtre de Baland.		
-pb	248		
+pb	248	0258	
 term	Emplâtre contre les ruptures		
 clique	Emplâtre contre les ruptures		
 term	Emplâtre de savon		
@@ -11062,7 +11062,7 @@ term	Emplâtre triapharmacum
 clique	Emplâtre triapharmacum | TRIAPHARMACUM		
 term	Emplâtre vésicatoire		
 clique	Emplâtre vésicatoire		
-pb	249		
+pb	249	0259	
 entry	EMPNEUMATOSE	0	
 orth	EMPNEUMATOSE		
 entry	EMPOISONNÉ	0	
@@ -11109,7 +11109,7 @@ term	Emulsion purgative
 clique	Emulsion purgative		
 term	Emulsion térebenthinèe		
 clique	Emulsion térebenthinèe		
-pb	250		
+pb	250	0260	
 entry	ENANTESIS	0	
 orth	ENANTESIS		
 entry	ENANTIOSE	0	
@@ -11163,7 +11163,7 @@ orth	ENCHARAXIE
 entry	ENCHATONNEMENT	0	
 orth	ENCHATONNEMENT		
 clique	CHATONNEMENT		
-pb	251		
+pb	251	0261	
 entry	ENCHEVESTRURE	0	
 orth	ENCHEVESTRURE		
 clique	CHEVESTRE		
@@ -11219,7 +11219,7 @@ entry	ENERGIE	0
 orth	ENERGIE		
 entry	ENERVATION	1	
 orth	ENERVATION		
-pb	252		
+pb	252	0262	
 entry	ENERVER	0	
 orth	ENERVER		
 entry	ENFANCE	0	
@@ -11291,7 +11291,7 @@ term	Ens Martis
 clique	Ens Martis		
 term	Ens primuni		
 clique	Ens primuni		
-pb	253		
+pb	253	0263	
 term	Ens Veneris		
 clique	Ens Veneris		
 entry	ENSAL	0	
@@ -11342,7 +11342,7 @@ entry	ENTÉRO-HYDROMPHALE	0
 orth	ENTÉRO-HYDROMPHALE		
 entry	ENTÉRO-ISCHIOCÈLE	1	
 orth	ENTÉRO-ISCHIOCÈLE		
-pb	254		
+pb	254	0264	
 entry	ENTEROLITHIASIE	0	
 orth	ENTEROLITHIASIE		
 entry	ENTÉROLOGIE	0	
@@ -11390,7 +11390,7 @@ entry	ENTONNOIR	0
 orth	ENTONNOIR		
 entry	ENTORSE	1	
 orth	ENTORSE		
-pb	255		
+pb	255	0265	
 entry	ENTOZOAIRES	0	
 orth	ENTOZOAIRES		
 entry	ENTRAILLES	0	
@@ -11456,7 +11456,7 @@ entry	EPERON	0
 orth	EPERON		
 entry	EPERVIER	1	
 orth	EPERVIER		
-pb	256		
+pb	256	0266	
 entry	EPHÈRE	0	
 orth	EPHÈRE		
 entry	EPHÉDRANE	0	
@@ -11518,7 +11518,7 @@ entry	EPICOEMASIE	0
 orth	EPICOEMASIE		
 entry	EPICOLIQUE	1	
 orth	EPICOLIQUE		
-pb	257		
+pb	257	0267	
 entry	EPICONDYLE	0	
 orth	EPICONDYLE		
 entry	EPICONDYLO-CUBITAL	0	
@@ -11570,7 +11570,7 @@ entry	EPIGASTROCÈLE	0
 orth	EPIGASTROCÈLE		
 entry	EPIGÉNÈSE	1	
 orth	EPIGÉNÈSE		
-pb	258		
+pb	258	0268	
 entry	EPIGINOMÈNE	0	
 orth	EPIGINOMÈNE		
 entry	EPIGLOTTE	0	
@@ -11618,7 +11618,7 @@ term	Epines iliaques
 clique	Epines iliaques		
 term	Epines nasales		
 clique	Epines nasales		
-pb	259		
+pb	259	0269	
 entry	EPINEUX	0	
 orth	EPINEUX		
 term	Epineux court		
@@ -11667,7 +11667,7 @@ entry	EPIPLOÏTE	0
 orth	EPIPLOÏTE		
 entry	EPIPLOMÉROCÈLE	1	
 orth	EPIPLOMÉROCÈLE		
-pb	260		
+pb	260	0270	
 entry	EPIPLOMPHALE	0	
 orth	EPIPLOMPHALE		
 entry	EPIPLO-OMPHALE	0	
@@ -11724,7 +11724,7 @@ entry	EPISTAXIS	0
 orth	EPISTAXIS		
 entry	EPISTERNAL	1	
 orth	EPISTERNAL		
-pb	261		
+pb	261	0271	
 entry	EPISTHOTONOS	0	
 orth	EPISTHOTONOS		
 clique	EMPROSTHOTONOS		
@@ -11783,7 +11783,7 @@ entry	EPSOM	0
 orth	EPSOM		
 entry	EPUISEMENT	1	
 orth	EPUISEMENT		
-pb	262		
+pb	262	0272	
 entry	EPULIDE	0	
 orth	EPULIDE		
 clique	EPULIE		
@@ -11821,7 +11821,7 @@ entry	ERÉTHISME	0
 orth	ERÉTHISME		
 entry	ERGOT	1	
 orth	ERGOT		
-pb	263		
+pb	263	0273	
 entry	ERGOTISME	0	
 orth	ERGOTISME		
 entry	ERIGNE	0	
@@ -11868,7 +11868,7 @@ entry	ERYTHRIQUE	0
 orth	ERYTHRIQUE		
 entry	ERYTHROÏDE	1	
 orth	ERYTHROÏDE		
-pb	264		
+pb	264	0274	
 entry	ERYTHROSTOME	0	
 orth	ERYTHROSTOME		
 entry	ESAPHE	0	
@@ -11916,7 +11916,7 @@ term	ESprit carminatif de Sylrius
 clique	ESprit carminatif de Sylrius		
 term	ESprit de eastoréiim		
 clique	ESprit de eastoréiim		
-pb	265		
+pb	265	0275	
 term	ESprit de citron		
 clique	ESprit de citron		
 term	ESprit de eoehléaria		
@@ -11977,7 +11977,7 @@ term	ESprit volatil
 clique	ESprit volatil		
 term	ESprits animaux		
 clique	ESprits animaux		
-pb	266		
+pb	266	0276	
 entry	ESQUILLE	0	
 orth	ESQUILLE		
 entry	ESQUINANCIE	0	
@@ -12025,7 +12025,7 @@ entry	ESTURGEON	0
 orth	ESTURGEON		
 entry	ESULE	1	
 orth	ESULE		
-pb	267		
+pb	267	0277	
 entry	ETAIN	0	
 orth	ETAIN		
 entry	ETAIRION	0	
@@ -12082,7 +12082,7 @@ term	Ether oxalique
 clique	Ether oxalique		
 term	Ether phosphore		
 clique	Ether phosphore		
-pb	268		
+pb	268	0278	
 term	Ether phosphorique		
 clique	Ether phosphorique		
 term	Ether sulfurique		
@@ -12127,7 +12127,7 @@ entry	ETISIE	0
 orth	ETISIE		
 entry	ETOFFÉ	1	
 orth	ETOFFÉ		
-pb	269		
+pb	269	0279	
 entry	ÉTOILE	0	
 orth	ÉTOILE		
 entry	ETOILÉ	0	
@@ -12175,7 +12175,7 @@ entry	EUCRASIE	0
 orth	EUCRASIE		
 entry	EUDIAPNEUSTIE	1	
 orth	EUDIAPNEUSTIE		
-pb	270		
+pb	270	0280	
 entry	EUDIOMÈTRE	0	
 orth	EUDIOMÈTRE		
 entry	EUDIOMÉTRIE	0	
@@ -12232,7 +12232,7 @@ entry	EUZOODYNAMIE	0
 orth	EUZOODYNAMIE		
 entry	EVACUANT	1	
 orth	EVACUANT		
-pb	271		
+pb	271	0281	
 entry	EVACUATIF	0	
 orth	EVACUATIF		
 clique	EVACUANT		
@@ -12295,7 +12295,7 @@ entry	EXARME	0
 orth	EXARME		
 entry	EXARTHREME	1	
 orth	EXARTHREME		
-pb	272		
+pb	272	0282	
 entry	EXARTHROME	0	
 orth	EXARTHROME		
 clique	EXARTHREME		
@@ -12346,7 +12346,7 @@ entry	EXCRÉTOIRE	0
 orth	EXCRÉTOIRE		
 entry	EXCROISSANCE	1	
 orth	EXCROISSANCE		
-pb	273		
+pb	273	0283	
 entry	EXCUSSION	0	
 orth	EXCUSSION		
 entry	EXCUTIA	0	
@@ -12399,7 +12399,7 @@ entry	EXOMÈTRE	0
 orth	EXOMÈTRE		
 entry	EXOMPHALE	1	
 orth	EXOMPHALE		
-pb	274		
+pb	274	0284	
 term	bilicatio		
 clique	bilicatio		
 entry	EXONÉIROSE	0	
@@ -12432,7 +12432,7 @@ entry	EXPECTANTISME	0
 orth	EXPECTANTISME		
 entry	EXPECTATION	1	
 orth	EXPECTATION		
-pb	275		
+pb	275	0285	
 entry	EXPECTORANT	0	
 orth	EXPECTORANT		
 entry	EXPECTORATION	0	
@@ -12477,7 +12477,7 @@ entry	EXSUCCION	0
 orth	EXSUCCION		
 entry	EXSUDATION	1	
 orth	EXSUDATION		
-pb	276		
+pb	276	0286	
 entry	EXTASE	0	
 orth	EXTASE		
 entry	EXTEMPORANÉ	0	
@@ -12514,7 +12514,7 @@ entry	EXTENSIBILITÉ	0
 orth	EXTENSIBILITÉ		
 entry	EXTENSION	1	
 orth	EXTENSION		
-pb	277		
+pb	277	0287	
 entry	EXTÉNUATION	0	
 orth	EXTÉNUATION		
 entry	EXTÉRIEUR	0	
@@ -12547,7 +12547,7 @@ term	Extrait d’opium de Langelot
 clique	Extrait d’opium de Langelot		
 term	Extrait de Radius		
 clique	Extrait de Radius		
-pb	278		
+pb	278	0288	
 term	Extrait de Saturne		
 clique	Extrait de Saturne		
 term	Extrait gélatineux		
@@ -12604,7 +12604,7 @@ term	Face hippocratique
 clique	Face hippocratique		
 entry	FACETTE	1	
 orth	FACETTE		
-pb	279		
+pb	279	0289	
 entry	FACIAL	0	
 orth	FACIAL		
 clique	ANGLE		
@@ -12654,7 +12654,7 @@ entry	FAMILLE	0
 orth	FAMILLE		
 entry	FANON	1	
 orth	FANON		
-pb	280		
+pb	280	0290	
 term	Fanon		
 clique	Fanon		
 entry	FARCIN	0	
@@ -12679,7 +12679,7 @@ term	Fascia supersicialis
 clique	Fascia supersicialis		
 term	Fascia transversalis		
 clique	Fascia transversalis		
-pb	281		
+pb	281	0291	
 entry	FASCIATION	0	
 orth	FASCIATION		
 entry	FASCICULE	0	
@@ -12725,7 +12725,7 @@ term	Fausses vertèbres
 clique	Fausses vertèbres		
 entry	FAUX	1	
 orth	FAUX		
-pb	282		
+pb	282	0292	
 entry	FAUX	0	
 orth	FAUX		
 term	Faux acore		
@@ -12771,7 +12771,7 @@ entry	FÉCULENT	0
 orth	FÉCULENT		
 entry	FÉCULITE	1	
 orth	FÉCULITE		
-pb	283		
+pb	283	0293	
 entry	FÉGARITE	0	
 orth	FÉGARITE		
 entry	FEINDRE	0	
@@ -12822,7 +12822,7 @@ entry	FER	1
 orth	FER		
 term	F'er-blanc		
 clique	F'er-blanc		
-pb	284		
+pb	284	0294	
 term	Fer chaud		
 clique	Fer chaud | PYROSIS		
 term	Fer tartarisé		
@@ -12862,7 +12862,7 @@ entry	FESSE	0
 orth	FESSE		
 entry	FESSIER	1	
 orth	FESSIER		
-pb	285		
+pb	285	0295	
 entry	FÉTIDE	0	
 orth	FÉTIDE		
 entry	FÉTIDITÉ	0	
@@ -12905,7 +12905,7 @@ entry	FIBRE	0
 orth	FIBRE		
 entry	FIBREUX	1	
 orth	FIBREUX		
-pb	286		
+pb	286	0296	
 entry	FIBRILLAIRE	0	
 orth	FIBRILLAIRE		
 entry	FIBRILLE	0	
@@ -12937,8 +12937,8 @@ term	FIel de verre
 clique	FIel de verre		
 entry	FIÈVRE	6	
 orth	FIÈVRE		
-pb	287		
-pb	288		
+pb	287	0297	
+pb	288	0298	
 term	FIèvre d’accès		
 clique	FIèvre d’accès		
 term	FIèvre adèno – méningée		
@@ -13011,7 +13011,7 @@ term	FIèvre cérébrale
 clique	FIèvre cérébrale		
 term	FIèvre chaude q		
 clique	FIèvre chaude q		
-pb	289		
+pb	289	0299	
 term	FIèvre cholérique		
 clique	FIèvre cholérique		
 term	FIèvre chronique		
@@ -13096,7 +13096,7 @@ term	FIèvre hèmitritèe
 clique	FIèvre hèmitritèe | HÉMITRITÉE		
 term	FIèvre hémoptoïque		
 clique	FIèvre hémoptoïque		
-pb	290		
+pb	290	0300	
 term	FIèvre hépatalgique		
 clique	FIèvre hépatalgique		
 term	FIèvre homotone		
@@ -13195,7 +13195,7 @@ term	FIèvre pourprée
 clique	FIèvre pourprée		
 term	FIèvre des prisons		
 clique	FIèvre des prisons		
-pb	291		
+pb	291	0301	
 term	FIèvre puerpérale		
 clique	FIèvre puerpérale		
 term	FIèvre puliculaire		
@@ -13288,7 +13288,7 @@ term	FIèvre utérine
 clique	FIèvre utérine		
 term	FIèvre des vaisseaux		
 clique	FIèvre des vaisseaux		
-pb	292		
+pb	292	0302	
 term	FIèvre varioleuse		
 clique	FIèvre varioleuse		
 term	FIèvre vermineuse		
@@ -13330,7 +13330,7 @@ entry	FISSICULATION	0
 orth	FISSICULATION		
 entry	FISSURE	1	
 orth	FISSURE		
-pb	293		
+pb	293	0303	
 term	FISsure de Glaser		
 clique	FISsure de Glaser | SCISSURRE		
 entry	FISTULE	0	
@@ -13367,7 +13367,7 @@ term	Flamme vitale
 clique	Flamme vitale		
 entry	FLANC	1	
 orth	FLANC		
-pb	294		
+pb	294	0304	
 entry	FLATUEUX	0	
 orth	FLATUEUX		
 entry	FLATULENCE	0	
@@ -13407,7 +13407,7 @@ term	Fléchisseur profond des doigts
 clique	Fléchisseur profond des doigts		
 term	Fléchisseur sublime		
 clique	Fléchisseur sublime		
-pb	295		
+pb	295	0305	
 entry	FLEGMATIQUE	0	
 orth	FLEGMATIQUE		
 clique	PHLEGMATIQUE		
@@ -13482,7 +13482,7 @@ entry	FLUEURS	0
 orth	FLUEURS		
 entry	FLUIDE	0	
 orth	FLUIDE		
-pb	296		
+pb	296	0306	
 entry	FLUIDIFICATION	0	
 orth	FLUIDIFICATION		
 entry	FLUIDIFIÉ	0	
@@ -13579,7 +13579,7 @@ entry	FŒTUS	0
 orth	FŒTUS		
 entry	FOIE	1	
 orth	FOIE		
-pb	297		
+pb	297	0307	
 term	FOie d’antimoine		
 clique	FOie d’antimoine		
 term	FOie d’arsenic		
@@ -13620,7 +13620,7 @@ entry	FONCTION	0
 orth	FONCTION		
 entry	FONDANT	1	
 orth	FONDANT		
-pb	298		
+pb	298	0308	
 term	FOndant de BOtrou		
 clique	FOndant de BOtrou		
 entry	FONDEMENT	0	
@@ -13655,7 +13655,7 @@ entry	FONTIGNY	0
 orth	FONTIGNY		
 entry	FORCE	1	
 orth	FORCE		
-pb	299		
+pb	299	0309	
 clique	VITALITÉ		
 entry	FORCE-RÉAL	0	
 orth	FORCE-RÉAL		
@@ -13689,7 +13689,7 @@ entry	FORTRAITURE	0
 orth	FORTRAITURE		
 entry	FOSSE	1	
 orth	FOSSE		
-pb	300		
+pb	300	0310	
 entry	FOSSETTE	0	
 orth	FOSSETTE		
 term	FOSsette angulaire du quatrième ventricule		
@@ -13732,7 +13732,7 @@ entry	FRAGILE	0
 orth	FRAGILE		
 entry	FRAGILITÉ	1	
 orth	FRAGILITÉ		
-pb	301		
+pb	301	0311	
 entry	FRAGMENT	0	
 orth	FRAGMENT		
 entry	FRAGON	0	
@@ -13783,7 +13783,7 @@ entry	FRÉQUENT	0
 orth	FRÉQUENT		
 entry	FRIABILITÉ	1	
 orth	FRIABILITÉ		
-pb	302		
+pb	302	0312	
 entry	FRIABLE	0	
 orth	FRIABLE		
 entry	FRICTION	0	
@@ -13818,7 +13818,7 @@ entry	FRONTAL	0
 orth	FRONTAL		
 entry	FRONTAL	1	
 orth	FRONTAL		
-pb	303		
+pb	303	0313	
 entry	FRONTO-CONCHIEN	0	
 orth	FRONTO-CONCHIEN		
 term	Fronto-ethmoidal		
@@ -13867,7 +13867,7 @@ entry	FUNGATE	0
 orth	FUNGATE		
 entry	FUNGINE	1	
 orth	FUNGINE		
-pb	304		
+pb	304	0314	
 entry	FUNGIQUE	0	
 orth	FUNGIQUE		
 entry	FURCULAIRE	0	
@@ -13896,7 +13896,7 @@ entry	FUSIFORME	0
 orth	FUSIFORME		
 entry	FUSION	0	
 orth	FUSION		
-pb	305		
+pb	305	0315	
 entry	GABELLUM	0	
 orth	GABELLUM		
 clique	GLABELLE		
@@ -13958,7 +13958,7 @@ term	Galanga des marais
 clique	Galanga des marais		
 entry	GALBANUM	1	
 orth	GALBANUM		
-pb	306		
+pb	306	0316	
 entry	GALBULE	0	
 orth	GALBULE		
 entry	GALE	0	
@@ -13993,7 +13993,7 @@ term	Galle aux hèmorrhoïdes
 clique	Galle aux hèmorrhoïdes		
 term	Galle noire		
 clique	Galle noire		
-pb	307		
+pb	307	0317	
 term	Galle du rosier		
 clique	Galle du rosier | BÉDEGUAR		
 entry	GALLIQUE	0	
@@ -14033,7 +14033,7 @@ term	Ganglion de VIeussens
 clique	Ganglion de VIeussens		
 term	Ganglion du cervelet		
 clique	Ganglion du cervelet		
-pb	308		
+pb	308	0318	
 term	tjanghons (grands) infcrteurs du cerveau		
 clique	tjanghons (grands) infcrteurs du cerveau		
 term	(iariglions (grands) supérieurs du cerveau		
@@ -14079,7 +14079,7 @@ orth	GAROUTTE
 clique	GAROU		
 entry	GARROT	1	
 orth	GARROT		
-pb	309		
+pb	309	0319	
 entry	GARUM	0	
 orth	GARUM		
 entry	GASTEIN	0	
@@ -14116,7 +14116,7 @@ entry	GASTRO-ATAXIQUE	0
 orth	GASTRO-ATAXIQUE		
 entry	GASTRO-BRONCHITE	1	
 orth	GASTRO-BRONCHITE		
-pb	310		
+pb	310	0320	
 entry	GASTROBROSIE	0	
 orth	GASTROBROSIE		
 entry	GASTRO-CARDITE	0	
@@ -14165,7 +14165,7 @@ entry	GASTRO-HÉPATITE	0
 orth	GASTRO-HÉPATITE		
 entry	GASTRO HUMERIEN	1	
 orth	GASTRO HUMERIEN		
-pb	311		
+pb	311	0321	
 entry	GASTRO-HYSTÉROTOMIE	0	
 orth	GASTRO-HYSTÉROTOMIE		
 entry	GASTRO-INFLAMMATOIRE	0	
@@ -14224,7 +14224,7 @@ entry	GASTRO-URÉTHRITE	0
 orth	GASTRO-URÉTHRITE		
 entry	GATEAU fébrile	1	
 orth	GATEAU fébrile		
-pb	312		
+pb	312	0322	
 entry	GATTILIER	0	
 orth	GATTILIER		
 clique	AGNUS CASTUS		
@@ -14274,7 +14274,7 @@ entry	GEMMATION	0
 orth	GEMMATION		
 entry	GEMMIPARE	1	
 orth	GEMMIPARE		
-pb	313		
+pb	313	0323	
 entry	GEMMULE	0	
 orth	GEMMULE		
 entry	GENAL	0	
@@ -14326,7 +14326,7 @@ entry	GENITO-CRURAL	0
 orth	GENITO-CRURAL		
 entry	GÉNITOIRES	1	
 orth	GÉNITOIRES		
-pb	314		
+pb	314	0324	
 entry	GÉNITO-URINAIRE	0	
 orth	GÉNITO-URINAIRE		
 entry	GÉNITURE	0	
@@ -14381,7 +14381,7 @@ entry	GÈSIER	0
 orth	GÈSIER		
 entry	GESSE	1	
 orth	GESSE		
-pb	315		
+pb	315	0325	
 entry	GESTA	0	
 orth	GESTA		
 entry	GESTATION	0	
@@ -14422,7 +14422,7 @@ entry	GIROFLIER	0
 orth	GIROFLIER		
 entry	GIROUX	1	
 orth	GIROUX		
-pb	316		
+pb	316	0326	
 entry	GIVRE	0	
 orth	GIVRE		
 entry	GLABELLE	0	
@@ -14467,7 +14467,7 @@ term	Glandes de Peyer
 clique	Glandes de Peyer		
 entry	GLANDIFORME	1	
 orth	GLANDIFORME		
-pb	317		
+pb	317	0327	
 entry	GLANDULAIRE	0	
 orth	GLANDULAIRE		
 entry	GLANDULEUX	0	
@@ -14508,7 +14508,7 @@ entry	GLOSSITE	0
 orth	GLOSSITE		
 entry	GLOSSOCATOCHE	1	
 orth	GLOSSOCATOCHE		
-pb	318		
+pb	318	0328	
 entry	GLOSSOCÈLE	0	
 orth	GLOSSOCÈLE		
 entry	GLOSSOCOME	0	
@@ -14555,7 +14555,7 @@ entry	GLYCYRRHIZINE	0
 orth	GLYCYRRHIZINE		
 entry	GNATHORRHAGIE	1	
 orth	GNATHORRHAGIE		
-pb	319		
+pb	319	0329	
 entry	GNATHOSPASME	0	
 orth	GNATHOSPASME		
 entry	GNATHOCÉPHALE	0	
@@ -14616,7 +14616,7 @@ term	GOmme laque
 clique	GOmme laque | LAQUE		
 term	GOmme-résine		
 clique	GOmme-résine		
-pb	320		
+pb	320	0330	
 term	GOmme verrniculaire		
 clique	GOmme verrniculaire | ADRAGANT		
 entry	GOMPHOSE	0	
@@ -14670,7 +14670,7 @@ term	GOrgeret cystitome
 clique	GOrgeret cystitome		
 term	GOrgeret d’Andouillet		
 clique	GOrgeret d’Andouillet		
-pb	321		
+pb	321	0331	
 term	GOrgeret de Bell		
 clique	GOrgeret de Bell		
 term	GOrgeret de Bliche		
@@ -14691,7 +14691,7 @@ term	GOrgeret de Lecat
 clique	GOrgeret de Lecat		
 term	GOrgeret de Lefèvre		
 clique	GOrgeret de Lefèvre		
-pb	322		
+pb	322	0332	
 term	GOrgeret de Marchettis		
 clique	GOrgeret de Marchettis		
 term	GOrgera de MIehaeiis		
@@ -14734,7 +14734,7 @@ entry	GOUTTE	1
 orth	GOUTTE		
 term	GOUtte		
 clique	GOUtte		
-pb	323		
+pb	323	0333	
 term	GOUtte anomale		
 clique	GOUtte anomale		
 term	GOUtte anomale vague		
@@ -14811,7 +14811,7 @@ entry	GOUTTEUX	0
 orth	GOUTTEUX		
 entry	GOUTTIÈRE	1	
 orth	GOUTTIÈRE		
-pb	324		
+pb	324	0334	
 entry	GOUVERNAIL du testicule	0	
 orth	GOUVERNAIL du testicule		
 entry	GRAINE	0	
@@ -14870,7 +14870,7 @@ term	Gras des cadavres
 clique	Gras des cadavres		
 entry	GRAS-FONDURE	1	
 orth	GRAS-FONDURE		
-pb	325		
+pb	325	0335	
 entry	GRASSET	0	
 orth	GRASSET		
 entry	GRASSAYEMENT	0	
@@ -14919,7 +14919,7 @@ term	Gréle interne
 clique	Gréle interne | DROIT		
 entry	GREMIL	1	
 orth	GREMIL		
-pb	326		
+pb	326	0336	
 entry	GRENADE	0	
 orth	GRENADE		
 entry	GRENADIER	0	
@@ -14952,7 +14952,7 @@ entry	GROSEILLIER	0
 orth	GROSEILLIER		
 entry	GROSSESSE	1	
 orth	GROSSESSE		
-pb	327		
+pb	327	0337	
 term	Grossesse abdominale		
 clique	Grossesse abdominale		
 term	Grossesse afetale		
@@ -15029,7 +15029,7 @@ entry	GUEUSE	0
 orth	GUEUSE		
 entry	GUI	1	
 orth	GUI		
-pb	328		
+pb	328	0338	
 entry	GUIMAUVE	0	
 orth	GUIMAUVE		
 term	GUimauve à sieurs jaunes		
@@ -15080,7 +15080,7 @@ entry	GYPSEUX	0
 orth	GYPSEUX		
 entry	GYROME	0	
 orth	GYROME		
-pb	329		
+pb	329	0339	
 entry	HABITATION	0	
 orth	HABITATION		
 entry	HABITUDE	0	
@@ -15133,7 +15133,7 @@ entry	HAQUENÉE	0
 orth	HAQUENÉE		
 entry	HARAS	1	
 orth	HARAS		
-pb	330		
+pb	330	0340	
 entry	HARENG	0	
 orth	HARENG		
 entry	HARGNE	0	
@@ -15189,7 +15189,7 @@ entry	HELLÉBORE	0
 orth	HELLÉBORE		
 entry	HELLÉBORISME	1	
 orth	HELLÉBORISME		
-pb	331		
+pb	331	0341	
 entry	HELMINTHAGOGUE	0	
 orth	HELMINTHAGOGUE		
 entry	HELMINTHES	0	
@@ -15239,7 +15239,7 @@ entry	HÉMATOCHÉSIE	0
 orth	HÉMATOCHÉSIE		
 entry	HÉMATODE	1	
 orth	HÉMATODE		
-pb	332		
+pb	332	0342	
 entry	HÉMATOGRAPHIE	0	
 orth	HÉMATOGRAPHIE		
 entry	HÉMATOLOGIE	0	
@@ -15294,7 +15294,7 @@ entry	HÉMOPLANIE	0
 orth	HÉMOPLANIE		
 entry	HÉMOPROCTIE	1	
 orth	HÉMOPROCTIE		
-pb	333		
+pb	333	0343	
 entry	HÉMOPTOÏQUE	0	
 orth	HÉMOPTOÏQUE		
 clique	HÉMOPTYSIQUE		
@@ -15351,7 +15351,7 @@ entry	HÉPATALGIE	0
 orth	HÉPATALGIE		
 entry	HEPATEMPHRAXIE	1	
 orth	HEPATEMPHRAXIE		
-pb	334		
+pb	334	0344	
 entry	HÉPATIQUE	0	
 orth	HÉPATIQUE		
 clique	HÉPATIRRHÉE		
@@ -15384,7 +15384,7 @@ entry	HÉPATOTOMIE	0
 orth	HÉPATOTOMIE		
 entry	HEPTAPHARMACUM	1	
 orth	HEPTAPHARMACUM		
-pb	335		
+pb	335	0345	
 entry	HERBE	0	
 orth	HERBE		
 term	Herbe a éternuer		
@@ -15449,7 +15449,7 @@ entry	HERNIAIRE	0
 orth	HERNIAIRE		
 entry	HERNIE	1	
 orth	HERNIE		
-pb	336		
+pb	336	0346	
 term	/ternie abdominale		
 clique	/ternie abdominale		
 term	Hernie charnue		
@@ -15495,7 +15495,7 @@ entry	HEXAPÉTALE	0
 orth	HEXAPÉTALE		
 entry	HEXAPHYLLE	1	
 orth	HEXAPHYLLE		
-pb	337		
+pb	337	0347	
 entry	HEXAPTÈRE	0	
 orth	HEXAPTÈRE		
 entry	HEXATHYRIDE	0	
@@ -15566,7 +15566,7 @@ entry	HISPIDITE	0
 orth	HISPIDITE		
 entry	HISTOGÉNIE	1	
 orth	HISTOGÉNIE		
-pb	338		
+pb	338	0348	
 entry	HISTOGRAPHIE	0	
 orth	HISTOGRAPHIE		
 entry	HISTOIRE naturelle	0	
@@ -15626,7 +15626,7 @@ entry	HOUILLE	0
 orth	HOUILLE		
 entry	HOUPPE	1	
 orth	HOUPPE		
-pb	339		
+pb	339	0349	
 entry	HUCHÉ	0	
 orth	HUCHÉ		
 entry	HUILE	3	
@@ -15683,7 +15683,7 @@ term	HUile de bitume de JUdée.
 clique	HUile de bitume de JUdée.		
 term	HUile de briques		
 clique	HUile de briques		
-pb	340		
+pb	340	0350	
 term	HUile de cacao		
 clique	HUile de cacao | BEURRE		
 term	HUile de code		
@@ -15760,7 +15760,7 @@ term	HUile de lis
 clique	HUile de lis		
 term	HUile de marjolaines		
 clique	HUile de marjolaines		
-pb	341		
+pb	341	0351	
 term	HUile de mélitot		
 clique	HUile de mélitot		
 term	HUile de menthe poivrée		
@@ -15821,7 +15821,7 @@ term	HUile de Saturne
 clique	HUile de Saturne		
 term	HUile de scorpions.		
 clique	HUile de scorpions.		
-pb	342		
+pb	342	0352	
 term	Fluile de soufre		
 clique	Fluile de soufre		
 term	HUile de spermaceti		
@@ -15894,7 +15894,7 @@ term	Iluméxo-cubital oblique
 clique	Iluméxo-cubital oblique		
 entry	HUMÉRO-OLÉCRANIEN	1	
 orth	HUMÉRO-OLÉCRANIEN		
-pb	343		
+pb	343	0353	
 term	petit		
 clique	petit		
 entry	HUMERO-SUS-MÉTACARPIEN	0	
@@ -15949,7 +15949,7 @@ entry	HYDRACIDE	0
 orth	HYDRACIDE		
 entry	HYDRAGOGUE	1	
 orth	HYDRAGOGUE		
-pb	344		
+pb	344	0354	
 entry	HYDRARGYRE	0	
 orth	HYDRARGYRE		
 entry	HYDRARGYRIE	0	
@@ -15990,7 +15990,7 @@ entry	HYDROCARDIE	0
 orth	HYDROCARDIE		
 entry	HYDROCÈLE	1	
 orth	HYDROCÈLE		
-pb	345		
+pb	345	0355	
 entry	HYDROCÉPHALE	0	
 orth	HYDROCÉPHALE		
 term	Hydrocéphale externe		
@@ -16009,7 +16009,7 @@ entry	HYDROCHIMIE	0
 orth	HYDROCHIMIE		
 entry	HYDROCHLORATE	1	
 orth	HYDROCHLORATE		
-pb	346		
+pb	346	0356	
 entry	HYDROCHLORIQUE	0	
 orth	HYDROCHLORIQUE		
 entry	HYDROCHLORO-NITRIQUE	0	
@@ -16059,7 +16059,7 @@ entry	HYDROGÈNE	1
 orth	HYDROGÈNE		
 term	Hydrogène arsénié		
 clique	Hydrogène arsénié		
-pb	347		
+pb	347	0357	
 term	Hydrogène azoté		
 clique	Hydrogène azoté | AMMONIAQUE		
 term	Hydrogène carboné		
@@ -16118,7 +16118,7 @@ entry	HYDROPHTHORATE	0
 orth	HYDROPHTHORATE		
 entry	HYDROPHTHORIQUE	1	
 orth	HYDROPHTHORIQUE		
-pb	348		
+pb	348	0358	
 entry	HYDRO-PHYSOCÈLE	0	
 orth	HYDRO-PHYSOCÈLE		
 entry	HYDROPHYSOMÈTRE	0	
@@ -16160,7 +16160,7 @@ entry	HYDRO-SÉLÉNIATE	0
 orth	HYDRO-SÉLÉNIATE		
 entry	HYDRO-SELENIQUE	1	
 orth	HYDRO-SELENIQUE		
-pb	349		
+pb	349	0359	
 entry	HYDROSIDERUM	0	
 orth	HYDROSIDERUM		
 entry	HYDROSTATIQUE	0	
@@ -16193,7 +16193,7 @@ entry	HYDROTITE	0
 orth	HYDROTITE		
 entry	HYDROXANTHIQUE	1	
 orth	HYDROXANTHIQUE		
-pb	350		
+pb	350	0360	
 entry	HYDRURE	0	
 orth	HYDRURE		
 entry	HYÉMAL	0	
@@ -16243,7 +16243,7 @@ entry	HYO-GLOSSIEN	0
 orth	HYO-GLOSSIEN		
 entry	HYO-GLOSSO-BASI-PHARYNGIEN	1	
 orth	HYO-GLOSSO-BASI-PHARYNGIEN		
-pb	351		
+pb	351	0361	
 entry	HYOÏDE	0	
 orth	HYOÏDE		
 entry	HYOÏDIEN	0	
@@ -16304,7 +16304,7 @@ entry	HYPNOLOGIE	0
 orth	HYPNOLOGIE		
 entry	HYPNOLOGIQUE	1	
 orth	HYPNOLOGIQUE		
-pb	352		
+pb	352	0362	
 entry	HYPNOTIQUE	0	
 orth	HYPNOTIQUE		
 entry	HYPOCATHARSIE	0	
@@ -16346,7 +16346,7 @@ entry	HYPOGLOTIDES	0
 orth	HYPOGLOTIDES		
 entry	HYPOGYNE	1	
 orth	HYPOGYNE		
-pb	353		
+pb	353	0363	
 entry	HYPMOCHLION	0	
 orth	HYPMOCHLION		
 entry	HYPONITREUX	0	
@@ -16404,7 +16404,7 @@ term	nypothénar du petit doigt
 clique	nypothénar du petit doigt		
 term	Ilypothènar du pouce		
 clique	Ilypothènar du pouce		
-pb	354		
+pb	354	0364	
 entry	HYPOZOME	0	
 orth	HYPOZOME		
 entry	HYPSILOGLOSSE	0	
@@ -16472,7 +16472,7 @@ entry	IATRINE	0
 orth	IATRINE		
 entry	IATRIQUE	1	
 orth	IATRIQUE		
-pb	355		
+pb	355	0365	
 entry	IATROCHIMIE	0	
 orth	IATROCHIMIE		
 entry	IATROCHIMIQUE	0	
@@ -16528,7 +16528,7 @@ entry	IDECHTRUM	0
 orth	IDECHTRUM		
 entry	IDÉE	1	
 orth	IDÉE		
-pb	356		
+pb	356	0366	
 entry	IDENTITE	0	
 orth	IDENTITE		
 entry	IDÉOLOGIE	0	
@@ -16580,7 +16580,7 @@ orth	ILÉO-CŒCAL
 clique	MÉSOCOECUM		
 entry	ILÉO-COLIQUE	1	
 orth	ILÉO-COLIQUE		
-pb	357		
+pb	357	0367	
 entry	ILÉO-LOMBAIRE	0	
 orth	ILÉO-LOMBAIRE		
 entry	ILÉON	0	
@@ -16639,7 +16639,7 @@ entry	ILIO-LOMBO-VERTÉBRAL	0
 orth	ILIO-LOMBO-VERTÉBRAL		
 entry	ILIO-PECTINÉ	1	
 orth	ILIO-PECTINÉ		
-pb	358		
+pb	358	0368	
 entry	ILIO-PRÉTIBIAL	0	
 orth	ILIO-PRÉTIBIAL		
 entry	ILIO-PUBI-COSTO-ABDOMINAL	0	
@@ -16708,7 +16708,7 @@ entry	IMPACTION	0
 orth	IMPACTION		
 entry	IMPAIR	1	
 orth	IMPAIR		
-pb	359		
+pb	359	0369	
 entry	IMPALPABLE	0	
 orth	IMPALPABLE		
 entry	IMPASTATION	0	
@@ -16765,7 +16765,7 @@ entry	INCANDESCENCE	0
 orth	INCANDESCENCE		
 entry	INCANDESCENT	0	
 orth	INCANDESCENT		
-pb	360		
+pb	360	0370	
 entry	INCARNATIF	0	
 orth	INCARNATIF		
 entry	INCÉRATION	0	
@@ -16784,7 +16784,7 @@ term	droite
 clique	droite		
 entry	INCISORIUM	0	
 orth	INCISORIUM		
-pb	361		
+pb	361	0371	
 entry	INCISURE	0	
 orth	INCISURE		
 entry	INCITABILITÉ	0	
@@ -16836,7 +16836,7 @@ entry	INDENTÉ	0
 orth	INDENTÉ		
 entry	INDEX	1	
 orth	INDEX		
-pb	362		
+pb	362	0372	
 entry	INDICANT	0	
 orth	INDICANT		
 entry	INDICATEUR	0	
@@ -16891,7 +16891,7 @@ entry	INFECTIEUX	0
 orth	INFECTIEUX		
 entry	INFECTION	1	
 orth	INFECTION		
-pb	363		
+pb	363	0373	
 entry	INFÈRE	0	
 orth	INFÈRE		
 entry	INFERNAL	0	
@@ -16921,7 +16921,7 @@ entry	INFLAMMATION	1
 orth	INFLAMMATION		
 clique	FIÈVRE		
 clique	IRRITATION		
-pb	364		
+pb	364	0374	
 entry	INFLAMMATOIRE	0	
 orth	INFLAMMATOIRE		
 entry	INFLÉCHI	0	
@@ -16953,7 +16953,7 @@ entry	INGRÉDIENT	0
 orth	INGRÉDIENT		
 entry	INGUINAL	1	
 orth	INGUINAL		
-pb	365		
+pb	365	0375	
 term	guinale		
 clique	guinale | BUBONOCÈLE | ARCADE		
 entry	INGUINO-CUTANÉ	0	
@@ -17007,7 +17007,7 @@ entry	INSALUBRE	0
 orth	INSALUBRE		
 entry	INSENSIBILITÉ	1	
 orth	INSENSIBILITÉ		
-pb	366		
+pb	366	0376	
 entry	INSENSIBLE	0	
 orth	INSENSIBLE		
 entry	INSERTION	0	
@@ -17063,7 +17063,7 @@ entry	INTENSE	0
 orth	INTENSE		
 entry	INTENSITÉ	1	
 orth	INTENSITÉ		
-pb	367		
+pb	367	0377	
 entry	INTENTION	0	
 orth	INTENTION		
 entry	INTERARTICULAIRE	0	
@@ -17102,7 +17102,7 @@ entry	INTERMISSION	0
 orth	INTERMISSION		
 entry	INTERMITTENCE	1	
 orth	INTERMITTENCE		
-pb	368		
+pb	368	0378	
 entry	INTERMITTENT	0	
 orth	INTERMITTENT		
 entry	INTERMUSCULAIRE	0	
@@ -17135,7 +17135,7 @@ entry	INTERVERTÉBRAL	0
 orth	INTERVERTÉBRAL		
 entry	INTESTIN	1	
 orth	INTESTIN		
-pb	369		
+pb	369	0379	
 entry	INTESTIN	0	
 orth	INTESTIN		
 entry	INTIGÉ	0	
@@ -17184,7 +17184,7 @@ entry	IODINE	0
 orth	IODINE		
 entry	IODIQUE	1	
 orth	IODIQUE		
-pb	370		
+pb	370	0380	
 entry	IODONITRIQUE	0	
 orth	IODONITRIQUE		
 entry	IODOPHOSPHORIQUE	0	
@@ -17231,7 +17231,7 @@ entry	IRIEN	0
 orth	IRIEN		
 entry	IRIS	1	
 orth	IRIS		
-pb	371		
+pb	371	0381	
 term	Iris		
 clique	Iris		
 entry	IRITE	0	
@@ -17265,7 +17265,7 @@ entry	ISCHIAGRE	0
 orth	ISCHIAGRE		
 entry	ISCHIAL	1	
 orth	ISCHIAL		
-pb	372		
+pb	372	0382	
 entry	ISCHIALGIE	0	
 orth	ISCHIALGIE		
 entry	ISCHIATIQUE	0	
@@ -17320,7 +17320,7 @@ entry	ISCHIO-SPINI-TROCHANTÉRIEN	0
 orth	ISCHIO-SPINI-TROCHANTÉRIEN		
 entry	ISCHIO-TIBIAL externe	1	
 orth	ISCHIO-TIBIAL externe		
-pb	373		
+pb	373	0383	
 term	ischio-tibialis externus		
 clique	ischio-tibialis externus		
 entry	ISCHIO-TIBIAL interne	0	
@@ -17378,7 +17378,7 @@ entry	IVOIRE	0
 orth	IVOIRE		
 entry	IVRAIE	0	
 orth	IVRAIE		
-pb	374		
+pb	374	0384	
 entry	JABOT	0	
 orth	JABOT		
 entry	JACTATION	0	
@@ -17422,7 +17422,7 @@ entry	JAVART	0
 orth	JAVART		
 entry	JAYET	1	
 orth	JAYET		
-pb	375		
+pb	375	0385	
 entry	JEAN-DE-GLAINES (Saint-)	0	
 orth	JEAN-DE-GLAINES (Saint-)		
 entry	JEAN-SUR-MAINE (Saint-)	0	
@@ -17466,7 +17466,7 @@ entry	JUGAL	0
 orth	JUGAL		
 entry	JUGEMENT	1	
 orth	JUGEMENT		
-pb	376		
+pb	376	0386	
 entry	JUGO-CONCHIEN	0	
 orth	JUGO-CONCHIEN		
 entry	JUGO-MAXILLAIRE	0	
@@ -17503,7 +17503,7 @@ entry	JUSQUIAME	0
 orth	JUSQUIAME		
 entry	JUXTAPOSITION	0	
 orth	JUXTAPOSITION		
-pb	377		
+pb	377	0387	
 entry	KAIEPUT	0	
 orth	KAIEPUT		
 clique	HUILE		
@@ -17588,7 +17588,7 @@ clique	CYNOREXIE
 entry	KYNORRHODON	1	
 orth	KYNORRHODON		
 clique	CYNORRHODON		
-pb	378		
+pb	378	0388	
 entry	KYSTALGIE	0	
 orth	KYSTALGIE		
 clique	CYSTALGIE		
@@ -17662,7 +17662,7 @@ orth	LAQ
 clique	LIEN		
 entry	LACRYMAL	1	
 orth	LACRYMAL		
-pb	379		
+pb	379	0389	
 clique	CANAL		
 clique	CARONCULE		
 entry	LACTATE	0	
@@ -17700,7 +17700,7 @@ entry	LAGOCHILE	0
 orth	LAGOCHILE		
 entry	LAGOPHTHALMIE	1	
 orth	LAGOPHTHALMIE		
-pb	380		
+pb	380	0390	
 entry	LAGOSTOME	0	
 orth	LAGOSTOME		
 entry	LAICHE	0	
@@ -17757,7 +17757,7 @@ entry	LAMELLEUX	0
 orth	LAMELLEUX		
 entry	LAMINEUX	1	
 orth	LAMINEUX		
-pb	381		
+pb	381	0391	
 entry	LAMPAS	0	
 orth	LAMPAS		
 entry	LAMPATA	0	
@@ -17802,7 +17802,7 @@ entry	LAPIN	0
 orth	LAPIN		
 entry	LAQUE	1	
 orth	LAQUE		
-pb	382		
+pb	382	0392	
 term	Laque de earthame		
 clique	Laque de earthame		
 entry	LARDACÉ	0	
@@ -17853,7 +17853,7 @@ term	Laudanum tutissimum
 clique	Laudanum tutissimum		
 entry	LAURIER	1	
 orth	LAURIER		
-pb	383		
+pb	383	0393	
 term	laurier ordinaire		
 clique	laurier ordinaire		
 entry	LAURIER-CERISE	0	
@@ -17918,7 +17918,7 @@ entry	LÉPIDO-SARCOME	0
 orth	LÉPIDO-SARCOME		
 entry	LÈPRE	1	
 orth	LÈPRE		
-pb	384		
+pb	384	0394	
 term	lacée		
 clique	lacée		
 entry	LEPREUX	0	
@@ -17971,7 +17971,7 @@ entry	LEUCOPHLEGMATIE	0
 orth	LEUCOPHLEGMATIE		
 entry	LEUCOPYRIE	1	
 orth	LEUCOPYRIE		
-pb	385		
+pb	385	0395	
 entry	LEUCORRHÉE	0	
 orth	LEUCORRHÉE		
 entry	LEUCORRHOÏQUE	0	
@@ -17998,7 +17998,7 @@ entry	LIBANOTE	0
 orth	LIBANOTE		
 entry	LIBER	1	
 orth	LIBER		
-pb	386		
+pb	386	0396	
 entry	LICHEN	0	
 orth	LICHEN		
 entry	LICHEN	0	
@@ -18051,7 +18051,7 @@ entry	LIGAMENTEUX	0
 orth	LIGAMENTEUX		
 entry	LIGATURE	1	
 orth	LIGATURE		
-pb	387		
+pb	387	0397	
 entry	LIGNE	0	
 orth	LIGNE		
 term	LIgne blanche		
@@ -18110,7 +18110,7 @@ entry	LINÉAMENT	0
 orth	LINÉAMENT		
 entry	LINGUAL	1	
 orth	LINGUAL		
-pb	388		
+pb	388	0398	
 entry	LINIMENT	0	
 orth	LINIMENT		
 term	LInimcnt antihémori Imïdal d’Andry-		
@@ -18169,7 +18169,7 @@ term	LIqueur fumante de BOyle
 clique	LIqueur fumante de BOyle		
 term	LIqueur fumante de Cadet		
 clique	LIqueur fumante de Cadet		
-pb	389		
+pb	389	0399	
 term	LIqueur fumante de LIbavius		
 clique	LIqueur fumante de LIbavius		
 term	LIqueur minérale anodyne d’HOffmann		
@@ -18235,7 +18235,7 @@ entry	LIXIVIATION	0
 orth	LIXIVIATION		
 entry	LIXIVIEL	1	
 orth	LIXIVIEL		
-pb	390		
+pb	390	0400	
 entry	LOBAIRE	0	
 orth	LOBAIRE		
 term	LObaire antérieure		
@@ -18308,7 +18308,7 @@ entry	LOMBO-COSTO-TRACHELIEN	0
 orth	LOMBO-COSTO-TRACHELIEN		
 entry	LOMBO-DORSO-TRACHÉLIEN	1	
 orth	LOMBO-DORSO-TRACHÉLIEN		
-pb	391		
+pb	391	0401	
 entry	LOMBO-HUMÉRAL	0	
 orth	LOMBO-HUMÉRAL		
 entry	LOMBO-ILI-ABDOMINAL	0	
@@ -18367,7 +18367,7 @@ entry	LUETTE	1
 orth	LUETTE		
 term	LUette vésicale		
 clique	LUette vésicale		
-pb	392		
+pb	392	0402	
 entry	LUMBAGO	0	
 orth	LUMBAGO		
 entry	LUMIÈRE	0	
@@ -18422,7 +18422,7 @@ entry	LYMPHOSE	0
 orth	LYMPHOSE		
 entry	LYMPHOTOMIE	1	
 orth	LYMPHOTOMIE		
-pb	393		
+pb	393	0403	
 entry	LYPÉMANIE	0	
 orth	LYPÉMANIE		
 entry	LYRE	0	
@@ -18483,7 +18483,7 @@ entry	MAGMA	0
 orth	MAGMA		
 entry	MAGNÉSIE	1	
 orth	MAGNÉSIE		
-pb	394		
+pb	394	0404	
 term	Magnésie aérée de liergmann		
 clique	Magnésie aérée de liergmann		
 term	Magnésie blanche		
@@ -18539,7 +18539,7 @@ term	Mal de cerf
 clique	Mal de cerf		
 term	Mal de chicot		
 clique	Mal de chicot		
-pb	395		
+pb	395	0405	
 term	Mal defeeur		
 clique	Mal defeeur | NAUSÉE		
 term	Mal de Crimée		
@@ -18637,7 +18637,7 @@ entry	MALADIE	1
 orth	MALADIE		
 term	Maladie de la uarbade		
 clique	Maladie de la uarbade		
-pb	396		
+pb	396	0406	
 term	Maladie bleue		
 clique	Maladie bleue | CYANOPATHIE		
 term	Maladie de POli		
@@ -18715,7 +18715,7 @@ entry	MAMILLAIRE	0
 orth	MAMILLAIRE		
 entry	MAMMAIRE	1	
 orth	MAMMAIRE		
-pb	397		
+pb	397	0407	
 entry	MAMMAL	0	
 orth	MAMMAL		
 entry	MAMMALOGIE	0	
@@ -18785,7 +18785,7 @@ orth	MANULUVE
 entry	MANUS Dei	1	
 orth	MANUS Dei		
 clique	MAIN		
-pb	398		
+pb	398	0408	
 entry	MAQUEREAU	0	
 orth	MAQUEREAU		
 entry	MARASME	0	
@@ -18851,7 +18851,7 @@ entry	MASSER	0
 orth	MASSER		
 entry	MASSÉTER	1	
 orth	MASSÉTER		
-pb	399		
+pb	399	0409	
 term	Masséter interne		
 clique	Masséter interne		
 entry	MASSÉTÉRIN	0	
@@ -18923,7 +18923,7 @@ term	Matière perlée de Kerhring
 clique	Matière perlée de Kerhring		
 entry	MATRAS	1	
 orth	MATRAS		
-pb	400		
+pb	400	0410	
 entry	MATRICAIRE	0	
 orth	MATRICAIRE		
 entry	MATRICE	0	
@@ -18972,7 +18972,7 @@ entry	MÉCANISME	0
 orth	MÉCANISME		
 entry	MÈCHE	1	
 orth	MÈCHE		
-pb	401		
+pb	401	0411	
 entry	MECHOACAN	0	
 orth	MECHOACAN		
 entry	MECOMÈTRE	0	
@@ -19033,7 +19033,7 @@ entry	MÉDITULLIUM	0
 orth	MÉDITULLIUM		
 entry	MÉDIUS	0	
 orth	MÉDIUS		
-pb	402		
+pb	402	0412	
 entry	MEDULLAIRE	0	
 orth	MEDULLAIRE		
 entry	MÉDULLINE	0	
@@ -19084,7 +19084,7 @@ entry	MÉLISSE	0
 orth	MÉLISSE		
 entry	MELLITATE	1	
 orth	MELLITATE		
-pb	403		
+pb	403	0413	
 entry	MELLITE	0	
 orth	MELLITE		
 term	Mellite d’acétate de cuivre		
@@ -19168,7 +19168,7 @@ entry	MÉNORRHAGIE	0
 orth	MÉNORRHAGIE		
 entry	MÉNORRHÉE	1	
 orth	MÉNORRHÉE		
-pb	404		
+pb	404	0414	
 entry	MÉNOSTASE	0	
 orth	MÉNOSTASE		
 entry	MENSTRUATION	0	
@@ -19241,7 +19241,7 @@ entry	MERCURIALE	0
 orth	MERCURIALE		
 entry	MERCURIAUX	1	
 orth	MERCURIAUX		
-pb	405		
+pb	405	0415	
 entry	MERCURIEL	0	
 orth	MERCURIEL		
 entry	MERLAN	0	
@@ -19295,7 +19295,7 @@ entry	MÉSOGLOSSE	0
 orth	MÉSOGLOSSE		
 entry	MÉSOLOBAIRE	1	
 orth	MÉSOLOBAIRE		
-pb	406		
+pb	406	0416	
 entry	MÉSOLOBE	0	
 orth	MÉSOLOBE		
 entry	MÉSOMERIE	0	
@@ -19346,7 +19346,7 @@ entry	MÉTASCHEMATISME	0
 orth	MÉTASCHEMATISME		
 entry	MÉTASTASE	1	
 orth	MÉTASTASE		
-pb	407		
+pb	407	0417	
 entry	MÉTASTATIQUE	0	
 orth	MÉTASTATIQUE		
 entry	MÉTASTOSE	0	
@@ -19390,7 +19390,7 @@ entry	MÉTHÉMÉRINE	0
 orth	MÉTHÉMÉRINE		
 entry	MÉTHODE	1	
 orth	MÉTHODE		
-pb	408		
+pb	408	0418	
 entry	MÉTHODIQUE	0	
 orth	MÉTHODIQUE		
 entry	MÉTHODISME	0	
@@ -19438,7 +19438,7 @@ orth	MÉTROTOMIE
 entry	MEURTRISSURE	0	
 orth	MEURTRISSURE		
 clique	CONTUSION		
-pb	409		
+pb	409	0419	
 entry	MIASMATIQUE	0	
 orth	MIASMATIQUE		
 entry	MIASME	0	
@@ -19505,7 +19505,7 @@ entry	MILLEPERTUIS	0
 orth	MILLEPERTUIS		
 entry	MILLET	1	
 orth	MILLET		
-pb	410		
+pb	410	0420	
 entry	MINE	0	
 orth	MINE		
 term	MIne de plomb		
@@ -19572,7 +19572,7 @@ term	MOelle vertébrale
 clique	MOelle vertébrale		
 entry	MOFETTE	1	
 orth	MOFETTE		
-pb	411		
+pb	411	0421	
 term	Mofette atmosphérique		
 clique	Mofette atmosphérique		
 entry	MOGILALISME	0	
@@ -19640,7 +19640,7 @@ orth	MONDIFIER
 clique	DÉTERGER		
 entry	MONOCLE	1	
 orth	MONOCLE		
-pb	412		
+pb	412	0422	
 entry	MONOCOTYLÉDON	0	
 orth	MONOCOTYLÉDON		
 entry	MONOECIE	0	
@@ -19715,7 +19715,7 @@ entry	MORDÉHI	0
 orth	MORDÉHI		
 entry	MORDEXIN	1	
 orth	MORDEXIN		
-pb	413		
+pb	413	0423	
 entry	MORDICANT	0	
 orth	MORDICANT		
 entry	MORFONDURE	0	
@@ -19786,7 +19786,7 @@ entry	MOULE	0
 orth	MOULE		
 entry	MOUSSE de Corse	1	
 orth	MOUSSE de Corse		
-pb	414		
+pb	414	0424	
 entry	MOUT	0	
 orth	MOUT		
 entry	MOUTARDE	0	
@@ -19865,7 +19865,7 @@ entry	MURAL	0
 orth	MURAL		
 entry	MURE	1	
 orth	MURE		
-pb	415		
+pb	415	0425	
 entry	MURIATE	0	
 orth	MURIATE		
 term	MUriate ammoniaeo-rnexcuriel		
@@ -19952,7 +19952,7 @@ entry	MYÉLOPHTHISIE	0
 orth	MYÉLOPHTHISIE		
 entry	MYLO-GLOSSE	1	
 orth	MYLO-GLOSSE		
-pb	416		
+pb	416	0426	
 entry	MYLO-HYOÏDIEN	0	
 orth	MYLO-HYOÏDIEN		
 entry	MYLO-PHARYNGIEN	0	
@@ -20024,7 +20024,7 @@ entry	MYURE	0
 orth	MYURE		
 entry	MYXOSARCOME	1	
 orth	MYXOSARCOME		
-pb	417		
+pb	417	0427	
 entry	N	0	
 orth	N		
 entry	NÆVUS	0	
@@ -20074,7 +20074,7 @@ term	1SUrines postérieures
 clique	1SUrines postérieures | ARRIÈRE-NARINES		
 entry	NASAL	1	
 orth	NASAL		
-pb	418		
+pb	418	0428	
 term	térieur		
 clique	térieur		
 entry	NASCALE	0	
@@ -20140,7 +20140,7 @@ entry	NECROSCOPIE	0
 orth	NECROSCOPIE		
 entry	NÉCROSE	1	
 orth	NÉCROSE		
-pb	419		
+pb	419	0429	
 entry	NECTAIRE	0	
 orth	NECTAIRE		
 entry	NÈFLE	0	
@@ -20215,7 +20215,7 @@ entry	NÉPHROPYOSE	0
 orth	NÉPHROPYOSE		
 entry	NEPHRORRHAGIE	1	
 orth	NEPHRORRHAGIE		
-pb	420		
+pb	420	0430	
 entry	NÉPHROSPASTIQUE	0	
 orth	NÉPHROSPASTIQUE		
 entry	NÉPHROTHROMBOÏDE	0	
@@ -20289,7 +20289,7 @@ entry	NÉVROSE	0
 orth	NÉVROSE		
 entry	NÉVROSTHÉNIE	1	
 orth	NÉVROSTHÉNIE		
-pb	421		
+pb	421	0431	
 entry	NÉVROTIQUE	0	
 orth	NÉVROTIQUE		
 entry	NÉVROTOME	0	
@@ -20361,7 +20361,7 @@ term	NItreux blanc
 clique	NItreux blanc		
 term	NItreux fumant		
 clique	NItreux fumant		
-pb	422		
+pb	422	0432	
 term	d’acide nitreux fumant		
 clique	d’acide nitreux fumant		
 term	NItreux phlogistiquè		
@@ -20416,7 +20416,7 @@ term	Nœud d’emballeur
 clique	Nœud d’emballeur		
 term	Nœud du chirurgien		
 clique	Nœud du chirurgien		
-pb	423		
+pb	423	0433	
 entry	NOIRPRUN	0	
 orth	NOIRPRUN		
 clique	NERPRUN		
@@ -20482,7 +20482,7 @@ entry	NOUURE	0
 orth	NOUURE		
 entry	NOYAU	1	
 orth	NOYAU		
-pb	424		
+pb	424	0434	
 term	NOyait central des pédoncules du cervelet		
 clique	NOyait central des pédoncules du cervelet		
 entry	NOYER	0	
@@ -20546,7 +20546,7 @@ term	Oblique externe du bas-ventre.
 clique	Oblique externe du bas-ventre.		
 term	Oblique grand de l’abdomen		
 clique	Oblique grand de l’abdomen		
-pb	425		
+pb	425	0435	
 term	Oblique grand de la tète		
 clique	Oblique grand de la tète		
 term	Oblique grand de l’aeil		
@@ -20595,7 +20595,7 @@ entry	OBTONDANT	0
 orth	OBTONDANT		
 entry	OBTURATEUR	1	
 orth	OBTURATEUR		
-pb	426		
+pb	426	0436	
 term	Obturateur externe		
 clique	Obturateur externe		
 term	Obturateur interne		
@@ -20634,7 +20634,7 @@ orth	OCCLUSION
 entry	OCHRE	0	
 orth	OCHRE		
 clique	OCRE		
-pb	427		
+pb	427	0437	
 entry	OCHROPYRE	0	
 orth	OCHROPYRE		
 entry	OCRE	0	
@@ -20707,7 +20707,7 @@ entry	ODORANT	0
 orth	ODORANT		
 entry	ODORAT	1	
 orth	ODORAT		
-pb	428		
+pb	428	0438	
 entry	ODORATION	0	
 orth	ODORATION		
 clique	OLFACTION		
@@ -20780,7 +20780,7 @@ entry	ŒSTROPLÉGIE	0
 orth	ŒSTROPLÉGIE		
 clique	NYMPHOMANIE		
 clique	ŒSTROMANIE		
-pb	429		
+pb	429	0439	
 entry	ŒUF	0	
 orth	ŒUF		
 entry	OFFA Helmontii	0	
@@ -20850,7 +20850,7 @@ entry	OLIGOPIONIE	0
 orth	OLIGOPIONIE		
 entry	OLIGOPOSIE	1	
 orth	OLIGOPOSIE		
-pb	430		
+pb	430	0440	
 entry	OLIGOPSYCHIE	0	
 orth	OLIGOPSYCHIE		
 entry	OLIGOSIALIE	0	
@@ -20921,7 +20921,7 @@ orth	OMO-HYOÏDIEN
 clique	OMOPLAT-HYOÏDIEN		
 entry	OMOÏDE	1	
 orth	OMOÏDE		
-pb	431		
+pb	431	0441	
 entry	OMOLITE	0	
 orth	OMOLITE		
 entry	OMOPLATE	0	
@@ -20994,7 +20994,7 @@ entry	ONGLET	0
 orth	ONGLET		
 entry	ONGUENT	1	
 orth	ONGUENT		
-pb	432		
+pb	432	0442	
 term	Onguent brun		
 clique	Onguent brun		
 term	Onguent d’Agrippa		
@@ -21065,7 +21065,7 @@ entry	OPAQUE	0
 orth	OPAQUE		
 entry	OPÈRATEUR	1	
 orth	OPÈRATEUR		
-pb	433		
+pb	433	0443	
 entry	OPÉRATION	0	
 orth	OPÉRATION		
 entry	OPERCULAIRE	0	
@@ -21116,7 +21116,7 @@ entry	OPHTHALMOPHYME	0
 orth	OPHTHALMOPHYME		
 entry	OPHTHALMOPONIE	1	
 orth	OPHTHALMOPONIE		
-pb	434		
+pb	434	0444	
 entry	OPHTHALMOPTOSE	0	
 orth	OPHTHALMOPTOSE		
 entry	OPHTHALMORRHAGIE	0	
@@ -21168,7 +21168,7 @@ term	Opium de ROUsseau
 clique	Opium de ROUsseau | GOUTTES		
 term	Opium en larmes		
 clique	Opium en larmes		
-pb	435		
+pb	435	0445	
 term	Opium thébaîque		
 clique	Opium thébaîque		
 entry	OPOBALSAMUM	0	
@@ -21239,7 +21239,7 @@ entry	ORBICULAIRE	1
 orth	ORBICULAIRE		
 term	Orbiculaire des lèvres		
 clique	Orbiculaire des lèvres | LABIAL		
-pb	436		
+pb	436	0446	
 term	Orbiculaire des paupières		
 clique	Orbiculaire des paupières | PALPÉBRAL		
 entry	ORBICULÉ	0	
@@ -21305,7 +21305,7 @@ entry	ORGE	0
 orth	ORGE		
 entry	ORGELET	1	
 orth	ORGELET		
-pb	437		
+pb	437	0447	
 entry	ORICULAIRE	0	
 orth	ORICULAIRE		
 clique	AURICULAIRE		
@@ -21389,7 +21389,7 @@ entry	OSSELET	1
 orth	OSSELET		
 term	OSselets de rouie		
 clique	OSselets de rouie		
-pb	438		
+pb	438	0448	
 entry	OSSEUX	0	
 orth	OSSEUX		
 entry	OSSIFICATION	0	
@@ -21465,7 +21465,7 @@ orth	OTIRRHÉE
 clique	OTORRHÉE		
 entry	OTITE	1	
 orth	OTITE		
-pb	439		
+pb	439	0449	
 entry	OTOGRAPHIE	0	
 orth	OTOGRAPHIE		
 entry	OTOLOGIE	0	
@@ -21535,7 +21535,7 @@ term	Oxyde d’aluminium
 clique	Oxyde d’aluminium		
 term	Oxyde d’aentimoine		
 clique	Oxyde d’aentimoine | ANTIMONIEUX		
-pb	440		
+pb	440	0450	
 term	Oxyde d’antimoine hydxosulfurè brun ;		
 clique	Oxyde d’antimoine hydxosulfurè brun ;		
 term	Oxyde d’antimoine hydrosulfurè orangé		
@@ -21650,7 +21650,7 @@ entry	OXYURE	0
 orth	OXYURE		
 entry	OZENE	0	
 orth	OZENE		
-pb	441		
+pb	441	0451	
 entry	PACHÉABLÉPHAROSE	0	
 orth	PACHÉABLÉPHAROSE		
 entry	PACHYCHYMIE	0	
@@ -21679,7 +21679,7 @@ entry	PALATO-SALPINGIEN	0
 orth	PALATO-SALPINGIEN		
 entry	PALATO-STAPHYLIN	1	
 orth	PALATO-STAPHYLIN		
-pb	442		
+pb	442	0452	
 entry	PALE	0	
 orth	PALE		
 term	Pales couleurs		
@@ -21720,7 +21720,7 @@ term	Palmaire grand
 clique	Palmaire grand | RADIAL		
 term	Palmaire grele		
 clique	Palmaire grele		
-pb	443		
+pb	443	0453	
 term	Palmaire petit		
 clique	Palmaire petit		
 entry	PALMÉ	0	
@@ -21765,7 +21765,7 @@ entry	PANCHYMAGOGUE	0
 orth	PANCHYMAGOGUE		
 entry	PANCRÉAS	1	
 orth	PANCRÉAS		
-pb	444		
+pb	444	0454	
 term	Pancréas erASclli		
 clique	Pancréas erASclli		
 term	Papcréas (pctity V		
@@ -21811,7 +21811,7 @@ entry	PANSE	0
 orth	PANSE		
 entry	PANSEMENT	1	
 orth	PANSEMENT		
-pb	445		
+pb	445	0455	
 entry	PANTAGOGUE	0	
 orth	PANTAGOGUE		
 entry	PANTOPHAGE	0	
@@ -21873,7 +21873,7 @@ entry	PARALYSE	0
 orth	PARALYSE		
 entry	PARALYSIE	1	
 orth	PARALYSIE		
-pb	446		
+pb	446	0456	
 entry	PARALYTIQUE	0	
 orth	PARALYTIQUE		
 entry	PARAMASTIQUE	0	
@@ -21940,7 +21940,7 @@ entry	PARÉGORIQUE	0
 orth	PARÉGORIQUE		
 entry	PAREIRA-BRAVA	0	
 orth	PAREIRA-BRAVA		
-pb	447		
+pb	447	0457	
 entry	PAREMPTOSE	0	
 orth	PAREMPTOSE		
 entry	PARENCÉPHALE	0	
@@ -21995,7 +21995,7 @@ entry	PAROTITE	0
 orth	PAROTITE		
 entry	PAROTONCIE	1	
 orth	PAROTONCIE		
-pb	448		
+pb	448	0458	
 entry	PAROXYSME	0	
 orth	PAROXYSME		
 entry	PAROXYTIQUE	0	
@@ -22062,7 +22062,7 @@ term	Pale astringente
 clique	Pale astringente | POMMADE		
 term	* Pète béehique		
 clique	* Pète béehique		
-pb	449		
+pb	449	0459	
 term	Paie de jujubes		
 clique	Paie de jujubes		
 entry	PATHÉTIQUE	0	
@@ -22120,7 +22120,7 @@ term	Pavot épineux
 clique	Pavot épineux		
 entry	PEAU	1	
 orth	PEAU		
-pb	450		
+pb	450	0460	
 entry	PEAUCIER	0	
 orth	PEAUCIER		
 entry	PECCANT	0	
@@ -22165,7 +22165,7 @@ entry	PÉDICELLÉ	0
 orth	PÉDICELLÉ		
 entry	PÉDICULAIRE	1	
 orth	PÉDICULAIRE		
-pb	451		
+pb	451	0461	
 term	lus		
 clique	lus		
 entry	PEDICULATION	0	
@@ -22238,7 +22238,7 @@ entry	PELVI-TROCHANTERIEN	0
 orth	PELVI-TROCHANTERIEN		
 entry	PELVIEN	1	
 orth	PELVIEN		
-pb	452		
+pb	452	0462	
 entry	PELVIMÈTRE	0	
 orth	PELVIMÈTRE		
 entry	PEMPHIGODE	0	
@@ -22284,7 +22284,7 @@ entry	PENTAPTÈRE	0
 orth	PENTAPTÈRE		
 entry	PENTASPERME	1	
 orth	PENTASPERME		
-pb	453		
+pb	453	0463	
 entry	PENTATEUQUE	0	
 orth	PENTATEUQUE		
 entry	PÉPASME	0	
@@ -22335,7 +22335,7 @@ entry	PERFORÉ	0
 orth	PERFORÉ		
 entry	PÉRIAL	1	
 orth	PÉRIAL		
-pb	454		
+pb	454	0464	
 entry	PÈRIANTHE	0	
 orth	PÈRIANTHE		
 entry	PÉRIBLEPSIE	0	
@@ -22387,7 +22387,7 @@ entry	PÉRIODEUTE	0
 orth	PÉRIODEUTE		
 entry	PERIODIQUE	1	
 orth	PERIODIQUE		
-pb	455		
+pb	455	0465	
 entry	PERIODYNIE	0	
 orth	PERIODYNIE		
 entry	PÉRIORBITE	0	
@@ -22451,7 +22451,7 @@ entry	PERISTOME	0
 orth	PERISTOME		
 entry	PÉRISYSTOLE	1	
 orth	PÉRISYSTOLE		
-pb	456		
+pb	456	0466	
 entry	PÉRITÉRION	0	
 orth	PÉRITÉRION		
 clique	PERETERION		
@@ -22503,7 +22503,7 @@ entry	PÉRONÉO-SUS MÉTATARSIEN (grand)	0
 orth	PÉRONÉO-SUS MÉTATARSIEN (grand)		
 entry	PÉRONÉO-SUS-MÉTATARSIEN (petit)	1	
 orth	PÉRONÉO-SUS-MÉTATARSIEN (petit)		
-pb	457		
+pb	457	0467	
 entry	PÉRONÉO-SUS-PHALANGETTIEN  commun	0	
 orth	PÉRONÉO-SUS-PHALANGETTIEN  commun		
 entry	PÉRONÉO-SUS-PHALANGETTIEN du pouce	0	
@@ -22556,7 +22556,7 @@ entry	PERTURBATEUR	0
 orth	PERTURBATEUR		
 entry	PERVENCHE	1	
 orth	PERVENCHE		
-pb	458		
+pb	458	0468	
 entry	PERVERSION	0	
 orth	PERVERSION		
 entry	PESANT	0	
@@ -22630,7 +22630,7 @@ entry	PÉTRO-SALPINGO-STAPHYLIN	0
 orth	PÉTRO-SALPINGO-STAPHYLIN		
 entry	PÉTRO-SPHENOÏDAL	1	
 orth	PÉTRO-SPHENOÏDAL		
-pb	459		
+pb	459	0469	
 entry	PÉTRO-STAPHYLIN	0	
 orth	PÉTRO-STAPHYLIN		
 entry	PÉTROLE	0	
@@ -22685,7 +22685,7 @@ entry	PHARMACOCHYMIE	0
 orth	PHARMACOCHYMIE		
 entry	PHARMACOLOGIE	1	
 orth	PHARMACOLOGIE		
-pb	460		
+pb	460	0470	
 entry	PHARMACOPE	0	
 orth	PHARMACOPE		
 clique	PHARMACIEN		
@@ -22747,7 +22747,7 @@ entry	PHÉNOMÉNALISME	0
 orth	PHÉNOMÉNALISME		
 entry	PHÉNOMÈNE	1	
 orth	PHÉNOMÈNE		
-pb	461		
+pb	461	0471	
 entry	PHÉNOMÉNOLOGIE	0	
 orth	PHÉNOMÉNOLOGIE		
 entry	PHEUGHYDRON	0	
@@ -22813,7 +22813,7 @@ entry	PHLEGME	0
 orth	PHLEGME		
 entry	PHLEGMON	1	
 orth	PHLEGMON		
-pb	462		
+pb	462	0472	
 entry	PHLEGMONEUX	0	
 orth	PHLEGMONEUX		
 entry	PHLEGMONODE	0	
@@ -22864,7 +22864,7 @@ term	Phosphore de Baudouin
 clique	Phosphore de Baudouin		
 term	Phosphore de BOlogne		
 clique	Phosphore de BOlogne		
-pb	463		
+pb	463	0473	
 term	Phosphore de HOmberg		
 clique	Phosphore de HOmberg		
 entry	PHOSPHORÉNÈSES	0	
@@ -22927,7 +22927,7 @@ term	Phthisie dorsale
 clique	Phthisie dorsale		
 term	Phthisie essentielle		
 clique	Phthisie essentielle		
-pb	464		
+pb	464	0474	
 term	Phthisie gastrique		
 clique	Phthisie gastrique		
 term	Phthisie hépatique		
@@ -23015,7 +23015,7 @@ entry	PHYSOBLÉPHARON	0
 orth	PHYSOBLÉPHARON		
 entry	PHYSOCÈLE	1	
 orth	PHYSOCÈLE		
-pb	465		
+pb	465	0475	
 entry	PHYSOCÉLIE	0	
 orth	PHYSOCÉLIE		
 entry	PHYSOCÉPHALE	0	
@@ -23073,7 +23073,7 @@ term	PIed de bœuf
 clique	PIed de bœuf		
 term	PIed de cheval marin		
 clique	PIed de cheval marin | CORNE		
-pb	466		
+pb	466	0476	
 term	PIed de lion		
 clique	PIed de lion | ALCHIMILLE		
 term	PIed dérobe		
@@ -23151,7 +23151,7 @@ term	PIlules antidysentèriques de VVIllis ;
 clique	PIlules antidysentèriques de VVIllis ;		
 term	PIlules astringentes		
 clique	PIlules astringentes		
-pb	467		
+pb	467	0477	
 term	PIlules balsamiques de Stahl		
 clique	PIlules balsamiques de Stahl		
 term	PIlules bénites		
@@ -23226,7 +23226,7 @@ term	PIlules de storax
 clique	PIlules de storax		
 term	PIlules de térébenthine		
 clique	PIlules de térébenthine		
-pb	468		
+pb	468	0478	
 term	PIlules écossaises		
 clique	PIlules écossaises		
 term	PIlules emmènagogues		
@@ -23289,7 +23289,7 @@ entry	PINCÉE	0
 orth	PINCÉE		
 entry	PINCES	1	
 orth	PINCES		
-pb	469		
+pb	469	0479	
 entry	PINÉAL	0	
 orth	PINÉAL		
 entry	PINNATIFIDE	0	
@@ -23341,7 +23341,7 @@ entry	PLADAROSE	0
 orth	PLADAROSE		
 entry	PLAIE	1	
 orth	PLAIE		
-pb	470		
+pb	470	0480	
 entry	PLAN	0	
 orth	PLAN		
 entry	PLANCHER	0	
@@ -23396,7 +23396,7 @@ entry	PLÉTHORE	1
 orth	PLÉTHORE		
 term	Pléthore sanguine		
 clique	Pléthore sanguine		
-pb	471		
+pb	471	0481	
 entry	PLÉTHORIQUE	0	
 orth	PLÉTHORIQUE		
 entry	PLEURE	0	
@@ -23446,7 +23446,7 @@ entry	PLEUROSPASME	0
 orth	PLEUROSPASME		
 entry	PLEUROTOTONOS	1	
 orth	PLEUROTOTONOS		
-pb	472		
+pb	472	0482	
 entry	PLÈVRE	0	
 orth	PLÈVRE		
 term	Plèvre costale		
@@ -23501,7 +23501,7 @@ entry	PNEUMA	0
 orth	PNEUMA		
 entry	PNEUMATIQUE	1	
 orth	PNEUMATIQUE		
-pb	473		
+pb	473	0483	
 entry	PNEUMATIGME	0	
 orth	PNEUMATIGME		
 entry	PNEUMATISTE	0	
@@ -23549,7 +23549,7 @@ entry	PNEUMO-PÉRICARDE	0
 orth	PNEUMO-PÉRICARDE		
 entry	PNEUMOPHTHOÉ	1	
 orth	PNEUMOPHTHOÉ		
-pb	474		
+pb	474	0484	
 entry	PNEUMO-PLEURÉSIE	0	
 orth	PNEUMO-PLEURÉSIE		
 entry	PNEUMORRHAGIE	0	
@@ -23622,7 +23622,7 @@ entry	POITRINAIRE	0
 orth	POITRINAIRE		
 entry	POITRINE	1	
 orth	POITRINE		
-pb	475		
+pb	475	0485	
 entry	POIVRE	0	
 orth	POIVRE		
 term	POivre blanc		
@@ -23699,7 +23699,7 @@ entry	POLYGALIE	0
 orth	POLYGALIE		
 entry	POLYGAMIE	1	
 orth	POLYGAMIE		
-pb	476		
+pb	476	0486	
 entry	POLYGAMIQUE	0	
 orth	POLYGAMIQUE		
 entry	POLYGURIE	0	
@@ -23761,7 +23761,7 @@ entry	POLYURIQUE	0
 orth	POLYURIQUE		
 entry	POMMADE	1	
 orth	POMMADE		
-pb	477		
+pb	477	0487	
 term	POmmade citrine		
 clique	POmmade citrine		
 term	POmmade d’AUtenrieth.		
@@ -23815,7 +23815,7 @@ entry	POPULAIRE	0
 orth	POPULAIRE		
 entry	POPULEUM	1	
 orth	POPULEUM		
-pb	478		
+pb	478	0488	
 entry	PORCELAINE	0	
 orth	PORCELAINE		
 entry	PORE	0	
@@ -23878,7 +23878,7 @@ term	POtasse du commerce
 clique	POtasse du commerce		
 entry	POTASSIUM	1	
 orth	POTASSIUM		
-pb	479		
+pb	479	0489	
 entry	POTÉE	0	
 orth	POTÉE		
 entry	POTENTIEL	0	
@@ -23933,7 +23933,7 @@ term	POUdre d’ambra
 clique	POUdre d’ambra		
 term	POUdre erarum composée		
 clique	POUdre erarum composée		
-pb	480		
+pb	480	0490	
 term	POUdre de BIrekmann.		
 clique	POUdre de BIrekmann.		
 term	POUdre de blanchiment		
@@ -24018,7 +24018,7 @@ term	POUdre fondante apèritii e
 clique	POUdre fondante apèritii e		
 term	POUdrefumigatoire		
 clique	POUdrefumigatoire		
-pb	481		
+pb	481	0491	
 term	POUdre hydragogue		
 clique	POUdre hydragogue		
 term	POUdre impériale		
@@ -24091,7 +24091,7 @@ term	POUls de rexpectoration
 clique	POUls de rexpectoration		
 term	POUls de rurine		
 clique	POUls de rurine		
-pb	482		
+pb	482	0492	
 term	POUls déprimé		
 clique	POUls déprimé		
 term	POUls des adultes		
@@ -24152,7 +24152,7 @@ term	POUls intermittent
 clique	POUls intermittent		
 term	POUls intestinal		
 clique	POUls intestinal		
-pb	483		
+pb	483	0493	
 term	POUls languissant		
 clique	POUls languissant		
 term	POUls large		
@@ -24229,7 +24229,7 @@ term	POUls tremblant
 clique	POUls tremblant		
 term	POUls utérin		
 clique	POUls utérin		
-pb	484		
+pb	484	0494	
 term	POUls véhément		
 clique	POUls véhément		
 term	POUls ventral		
@@ -24294,7 +24294,7 @@ entry	PRÉDISPOSITION	0
 orth	PRÉDISPOSITION		
 entry	PRÉDORSAL	1	
 orth	PRÉDORSAL		
-pb	485		
+pb	485	0495	
 entry	PRÉDORSO-ATLOÏDIEN	0	
 orth	PRÉDORSO-ATLOÏDIEN		
 entry	PRÉDORSO-CERVICAL	0	
@@ -24375,7 +24375,7 @@ orth	PROCÈS
 clique	CILIAIRE		
 entry	PROCHAIN	1	
 orth	PROCHAIN		
-pb	486		
+pb	486	0496	
 entry	PROCIDENCE	0	
 orth	PROCIDENCE		
 entry	PROCOMBANT	0	
@@ -24457,7 +24457,7 @@ entry	PRONONCIATION	0
 orth	PRONONCIATION		
 entry	PRONOSTIC	1	
 orth	PRONOSTIC		
-pb	487		
+pb	487	0497	
 entry	PRONOSTIQUE	0	
 orth	PRONOSTIQUE		
 entry	PRONOSTIQUER	0	
@@ -24522,7 +24522,7 @@ entry	PROTOPATHIQUE	0
 orth	PROTOPATHIQUE		
 entry	PROTOXYDE	1	
 orth	PROTOXYDE		
-pb	488		
+pb	488	0498	
 entry	PROTUBÉRANCE	0	
 orth	PROTUBÉRANCE		
 term	Protubérance annulaire		
@@ -24604,7 +24604,7 @@ term	PSoas (grand)
 clique	PSoas (grand)		
 term	PSoas (petit')		
 clique	PSoas (petit')		
-pb	489		
+pb	489	0499	
 entry	PSORA	0	
 orth	PSORA		
 entry	PSORIFORME	0	
@@ -24661,7 +24661,7 @@ term	Ptérygoidten externe
 clique	Ptérygoidten externe		
 term	Ptèrygoîdien grand		
 clique	Ptèrygoîdien grand		
-pb	490		
+pb	490	0500	
 term	Ptéxygmdien interne		
 clique	Ptéxygmdien interne		
 term	Ptérygoîdien petit		
@@ -24729,7 +24729,7 @@ entry	PULMONIE	0
 orth	PULMONIE		
 entry	PULMONIQUE	1	
 orth	PULMONIQUE		
-pb	491		
+pb	491	0501	
 term	larius (pulmo		
 clique	larius (pulmo		
 entry	PULPATION	0	
@@ -24798,7 +24798,7 @@ entry	PUSTULE	1
 orth	PUSTULE		
 term	PUstule maligne		
 clique	PUstule maligne		
-pb	492		
+pb	492	0502	
 term	PUstules vénériennes		
 clique	PUstules vénériennes		
 entry	PUSTULEUX	0	
@@ -24861,7 +24861,7 @@ term	Pyramides postérieures
 clique	Pyramides postérieures		
 entry	PYRÉNOÏDE	1	
 orth	PYRÉNOÏDE		
-pb	493		
+pb	493	0503	
 entry	PYRÈTHRE	0	
 orth	PYRÈTHRE		
 entry	PYRETIQUE	0	
@@ -24934,7 +24934,7 @@ entry	PYRO-URATE	0
 orth	PYRO-URATE		
 entry	PYRO-URIQUE	1	
 orth	PYRO-URIQUE		
-pb	494		
+pb	494	0504	
 entry	PYULQUE	0	
 orth	PYULQUE		
 entry	PYURIE	0	
@@ -24985,7 +24985,7 @@ entry	QUARTE	0
 orth	QUARTE		
 entry	QUARTIER	1	
 orth	QUARTIER		
-pb	495		
+pb	495	0505	
 entry	QUARTI-STERNAL	0	
 orth	QUARTI-STERNAL		
 entry	QUASSIA	0	
@@ -25061,7 +25061,7 @@ clique	TIERCE
 clique	QUARTE		
 entry	QUOTIDIENNE	0	
 orth	QUOTIDIENNE		
-pb	496		
+pb	496	0506	
 entry	R	0	
 orth	R		
 entry	RABDOÏDE	0	
@@ -25093,7 +25093,7 @@ entry	RACHITIQUE	0
 orth	RACHITIQUE		
 entry	RACHITIS	1	
 orth	RACHITIS		
-pb	497		
+pb	497	0507	
 entry	RACHITISME	0	
 orth	RACHITISME		
 clique	RACHITIS		
@@ -25153,7 +25153,7 @@ entry	RAFFINAGE	0
 orth	RAFFINAGE		
 entry	RAFLE	1	
 orth	RAFLE		
-pb	498		
+pb	498	0508	
 entry	RAFRAÎCHISSANT	0	
 orth	RAFRAÎCHISSANT		
 entry	RAGE	0	
@@ -25194,7 +25194,7 @@ term	Baie trachéal
 clique	Baie trachéal		
 entry	RALER	1	
 orth	RALER		
-pb	499		
+pb	499	0509	
 entry	RAMAIRE	0	
 orth	RAMAIRE		
 entry	RAMEAU	0	
@@ -25267,7 +25267,7 @@ entry	RASER	0
 orth	RASER		
 entry	RASOIR	1	
 orth	RASOIR		
-pb	500		
+pb	500	0510	
 entry	RASSIS	0	
 orth	RASSIS		
 entry	RATAFIA	0	
@@ -25336,7 +25336,7 @@ entry	RÉCRÈMENTO-EXCRÉMENTITIEL	0
 orth	RÉCRÈMENTO-EXCRÉMENTITIEL		
 entry	RECRUDESCENCE	1	
 orth	RECRUDESCENCE		
-pb	501		
+pb	501	0511	
 entry	RECTIFICATION	0	
 orth	RECTIFICATION		
 entry	RECTIFIÉ	0	
@@ -25400,7 +25400,7 @@ orth	RÉFRIGÉRANT
 entry	REFRIGÉRATIF	0	
 orth	REFRIGÉRATIF		
 clique	RÉFRIGÉRANT		
-pb	502		
+pb	502	0512	
 entry	RÉFRIGÉRATION	0	
 orth	RÉFRIGÉRATION		
 entry	REFRINGENT	0	
@@ -25483,7 +25483,7 @@ term	Remède du caputin
 clique	Remède du caputin		
 term	Remède du duc d’Antin		
 clique	Remède du duc d’Antin		
-pb	503		
+pb	503	0513	
 entry	RÉMISSION	0	
 orth	RÉMISSION		
 entry	RÉMITTENT	0	
@@ -25540,7 +25540,7 @@ entry	RÉSERVOIR	1
 orth	RÉSERVOIR		
 term	Réservoir de la bile		
 clique	Réservoir de la bile		
-pb	504		
+pb	504	0514	
 term	Réservoir du chyle		
 clique	Réservoir du chyle		
 term	Béservoir des larmes		
@@ -25631,7 +25631,7 @@ term	Bespiration râlante
 clique	Bespiration râlante | RESPIRATION		
 term	Respiration rare		
 clique	Respiration rare		
-pb	505		
+pb	505	0515	
 term	Bespiratiotl ronsianle		
 clique	Bespiratiotl ronsianle | RONFLEMENT		
 term	Respiration sifflante		
@@ -25699,7 +25699,7 @@ entry	RÉVE	0
 orth	RÉVE		
 entry	RÉVEIL	1	
 orth	RÉVEIL		
-pb	506		
+pb	506	0516	
 entry	RÉVEIL-MATIN	0	
 orth	RÉVEIL-MATIN		
 entry	RÉVERBÉRATION	0	
@@ -25794,7 +25794,7 @@ term	Rhomboïde petit
 clique	Rhomboïde petit		
 term	Rhomboïde supérieur		
 clique	Rhomboïde supérieur		
-pb	507		
+pb	507	0517	
 entry	RHUBARBE	0	
 orth	RHUBARBE		
 entry	RHUBARBE	0	
@@ -25850,7 +25850,7 @@ term	RIre sardonien
 clique	RIre sardonien		
 term	RIre sardonique		
 clique	RIre sardonique		
-pb	508		
+pb	508	0518	
 entry	RIS	0	
 orth	RIS		
 clique	RIRE		
@@ -25919,7 +25919,7 @@ entry	ROTATEUR	0
 orth	ROTATEUR		
 entry	ROTATION	1	
 orth	ROTATION		
-pb	509		
+pb	509	0519	
 entry	ROTULE	0	
 orth	ROTULE		
 entry	ROTULIEN	0	
@@ -25985,7 +25985,7 @@ entry	RUMINER	0
 orth	RUMINER		
 entry	RUNCINÉ	1	
 orth	RUNCINÉ		
-pb	510		
+pb	510	0520	
 entry	RUPESTRAL	0	
 orth	RUPESTRAL		
 entry	RUPTILE	0	
@@ -26022,7 +26022,7 @@ orth	SACCOGOMMITE
 entry	SACRÉ	1	
 orth	SACRÉ		
 clique	EPILEPSIE		
-pb	511		
+pb	511	0521	
 entry	SACRO-COCCYGIEN	0	
 orth	SACRO-COCCYGIEN		
 entry	SACRO-ÉPINEUX	0	
@@ -26073,7 +26073,7 @@ entry	SAGE-FEMME	0
 orth	SAGE-FEMME		
 entry	SAGITTAL	1	
 orth	SAGITTAL		
-pb	512		
+pb	512	0522	
 entry	SAGITTÉ	0	
 orth	SAGITTÉ		
 entry	SAGOU	0	
@@ -26082,7 +26082,7 @@ entry	SAIGNÉE	1
 orth	SAIGNÉE		
 term	basilique		
 clique	basilique		
-pb	513		
+pb	513	0523	
 entry	SAIGNEMENT	0	
 orth	SAIGNEMENT		
 entry	SAIGNER	0	
@@ -26119,7 +26119,7 @@ entry	SALIVATION	0
 orth	SALIVATION		
 entry	SALIVE	0	
 orth	SALIVE		
-pb	514		
+pb	514	0524	
 entry	SALLES	0	
 orth	SALLES		
 entry	SALPINGO-MALLÉEN	0	
@@ -26183,7 +26183,7 @@ entry	SAPA	0
 orth	SAPA		
 entry	SAPHÈNE	1	
 orth	SAPHÈNE		
-pb	515		
+pb	515	0525	
 entry	SAPIDE	0	
 orth	SAPIDE		
 entry	SAPIDITÉ	0	
@@ -26233,7 +26233,7 @@ orth	SARCOPTE
 clique	ACARUS		
 entry	SARCOSTOSE	1	
 orth	SARCOSTOSE		
-pb	516		
+pb	516	0526	
 entry	SARCOTHLASE	0	
 orth	SARCOTHLASE		
 clique	SARCOTHLASIE		
@@ -26309,7 +26309,7 @@ entry	SCALÈNE	1
 orth	SCALÈNE		
 term	Scalène postérieur		
 clique	Scalène postérieur		
-pb	517		
+pb	517	0527	
 entry	SCALPEL	0	
 orth	SCALPEL		
 entry	SCAMMONÉE	0	
@@ -26352,7 +26352,7 @@ entry	SCARIFICATEUR	0
 orth	SCARIFICATEUR		
 entry	SCARIFICATION	1	
 orth	SCARIFICATION		
-pb	518		
+pb	518	0528	
 entry	SCARIFIER	0	
 orth	SCARIFIER		
 entry	SCARLATINE	0	
@@ -26406,7 +26406,7 @@ entry	SCISSURE	1
 orth	SCISSURE		
 term	Scissure tlc Glaser		
 clique	Scissure tlc Glaser		
-pb	519		
+pb	519	0529	
 term	Scissure glènoïdale		
 clique	Scissure glènoïdale		
 term	Scissure du foie		
@@ -26475,7 +26475,7 @@ entry	SCROFULAIRE	0
 orth	SCROFULAIRE		
 entry	SCROFULES	1	
 orth	SCROFULES		
-pb	520		
+pb	520	0530	
 entry	SCROFULEUX	0	
 orth	SCROFULEUX		
 entry	SCROPHULES	0	
@@ -26543,7 +26543,7 @@ term	Sel aceteux ammoniacal
 clique	Sel aceteux ammoniacal		
 term	Sel aeéteux calcaire		
 clique	Sel aeéteux calcaire		
-pb	521		
+pb	521	0531	
 term	Sel acèteux magnésien		
 clique	Sel acèteux magnésien		
 term	Sel acèteux martial		
@@ -26674,7 +26674,7 @@ term	Sel de GUinctre
 clique	Sel de GUinctre		
 term	Sel de HOmberg		
 clique	Sel de HOmberg		
-pb	522		
+pb	522	0532	
 term	Sel de JUpiter		
 clique	Sel de JUpiter		
 term	Sel de Kart		
@@ -26819,7 +26819,7 @@ term	Sel perlé
 clique	Sel perlé		
 term	Sel plwsphorique		
 clique	Sel plwsphorique		
-pb	523		
+pb	523	0533	
 term	Sel pclydireste de Glaser		
 clique	Sel pclydireste de Glaser		
 term	Sel polyehrestc soluble		
@@ -26905,7 +26905,7 @@ entry	SEMI-FLOSCULEUX	0
 orth	SEMI-FLOSCULEUX		
 entry	SEMI-LUNAIRE	1	
 orth	SEMI-LUNAIRE		
-pb	524		
+pb	524	0534	
 entry	SÉMINAL	0	
 orth	SÉMINAL		
 entry	SÉMINATION	0	
@@ -26997,7 +26997,7 @@ entry	SEQUESTRE	0
 orth	SEQUESTRE		
 entry	SÉREUX	1	
 orth	SÉREUX		
-pb	525		
+pb	525	0535	
 entry	SEROSITÉ	0	
 orth	SEROSITÉ		
 entry	SERPENTAIRE	0	
@@ -27035,7 +27035,7 @@ entry	SEVRER	0
 orth	SEVRER		
 entry	SEXE	1	
 orth	SEXE		
-pb	526		
+pb	526	0536	
 entry	SEXUEL	0	
 orth	SEXUEL		
 entry	SIAGONAGRE	0	
@@ -27112,7 +27112,7 @@ entry	SIMILOR	0
 orth	SIMILOR		
 entry	SIMPLE	1	
 orth	SIMPLE		
-pb	527		
+pb	527	0537	
 entry	SIMPLES	0	
 orth	SIMPLES		
 entry	SIMULÉ	0	
@@ -27216,7 +27216,7 @@ orth	SKIRRE
 clique	SQUIRRHE		
 entry	SMALT	1	
 orth	SMALT		
-pb	528		
+pb	528	0538	
 entry	SMEGMA	0	
 orth	SMEGMA		
 entry	SODA	0	
@@ -27280,7 +27280,7 @@ entry	SOMNAMBULE	0
 orth	SOMNAMBULE		
 entry	SOMNAMBULISME	1	
 orth	SOMNAMBULISME		
-pb	529		
+pb	529	0539	
 entry	SOMNIFÈRE	0	
 orth	SOMNIFÈRE		
 entry	SOMNOLENCE	0	
@@ -27313,7 +27313,7 @@ term	SOnde exploratrice
 clique	SOnde exploratrice		
 term	SOnde		
 clique	SOnde		
-pb	530		
+pb	530	0540	
 term	SOnde pour les voies urinaires		
 clique	SOnde pour les voies urinaires		
 entry	SONDER	0	
@@ -27374,7 +27374,7 @@ entry	SOURCIL	0
 orth	SOURCIL		
 entry	SOURCILIER	1	
 orth	SOURCILIER		
-pb	531		
+pb	531	0541	
 entry	SOURCILIER	0	
 orth	SOURCILIER		
 entry	SOURIS	0	
@@ -27431,7 +27431,7 @@ entry	SOUS-POPLITÉ	0
 orth	SOUS-POPLITÉ		
 entry	SOUS-PUBIEN	1	
 orth	SOUS-PUBIEN		
-pb	532		
+pb	532	0542	
 term	sous-pubien		
 clique	sous-pubien		
 entry	SOUS-PUBIO-COCCYGIEN	0	
@@ -27518,7 +27518,7 @@ term	Spath pesant
 clique	Spath pesant		
 entry	SPATHACÉ	1	
 orth	SPATHACÉ		
-pb	533		
+pb	533	0543	
 entry	SPATHE	0	
 orth	SPATHE		
 entry	SPATHESTER	0	
@@ -27549,7 +27549,7 @@ term	Speculum uteri
 clique	Speculum uteri		
 term	Speculum ecsicae		
 clique	Speculum ecsicae		
-pb	534		
+pb	534	0544	
 entry	SPERMACETI	0	
 orth	SPERMACETI		
 clique	BLANC		
@@ -27604,7 +27604,7 @@ entry	SPHÉNO-SALPINGO-STAPHYLIN	0
 orth	SPHÉNO-SALPINGO-STAPHYLIN		
 entry	SPHÉNO-TEMPORAL	1	
 orth	SPHÉNO-TEMPORAL		
-pb	535		
+pb	535	0545	
 entry	SPHÉNOÏDAL	0	
 orth	SPHÉNOÏDAL		
 entry	SPHÉNOÏDE	0	
@@ -27661,7 +27661,7 @@ entry	SPIRITUEUX	0
 orth	SPIRITUEUX		
 entry	SPIROÏDE	1	
 orth	SPIROÏDE		
-pb	536		
+pb	536	0546	
 entry	SPLANCHNEURYSME	0	
 orth	SPLANCHNEURYSME		
 entry	SPLANCHNIQUE	0	
@@ -27727,7 +27727,7 @@ entry	SPORANGION	0
 orth	SPORANGION		
 entry	SPORE	1	
 orth	SPORE		
-pb	537		
+pb	537	0547	
 entry	SPORME	0	
 orth	SPORME		
 clique	SPORE		
@@ -27810,7 +27810,7 @@ entry	STASE	0
 orth	STASE		
 entry	STATION	1	
 orth	STATION		
-pb	538		
+pb	538	0548	
 entry	STATIONNAIRE	0	
 orth	STATIONNAIRE		
 entry	STATIQUE	0	
@@ -27877,7 +27877,7 @@ entry	STERNO-HYOÏDIEN	0
 orth	STERNO-HYOÏDIEN		
 entry	STERNO MAXILLAIRE	1	
 orth	STERNO MAXILLAIRE		
-pb	539		
+pb	539	0549	
 entry	STERNO-PUBIEN	0	
 orth	STERNO-PUBIEN		
 entry	STERNO-THYROÏDIEN	0	
@@ -27942,7 +27942,7 @@ entry	STOMALGIE	0
 orth	STOMALGIE		
 entry	STOMATIQUE	1	
 orth	STOMATIQUE		
-pb	540		
+pb	540	0550	
 entry	STOMATORRHAGIE	0	
 orth	STOMATORRHAGIE		
 entry	STOMO-GASTRIQUE	0	
@@ -28015,7 +28015,7 @@ entry	STUPIDITÉ	0
 orth	STUPIDITÉ		
 entry	STUPPA	1	
 orth	STUPPA		
-pb	541		
+pb	541	0551	
 entry	STYGMATE	0	
 orth	STYGMATE		
 entry	STYGMATES	0	
@@ -28066,7 +28066,7 @@ entry	SUBÉRIQUE	0
 orth	SUBÉRIQUE		
 entry	SUBGRONDATION	1	
 orth	SUBGRONDATION		
-pb	542		
+pb	542	0552	
 entry	SUB-INFLAMMATION	0	
 orth	SUB-INFLAMMATION		
 entry	SUBINTRANT	0	
@@ -28134,7 +28134,7 @@ entry	SUCCULENT	0
 orth	SUCCULENT		
 entry	SUCCUSSION	1	
 orth	SUCCUSSION		
-pb	543		
+pb	543	0553	
 entry	SUCER	0	
 orth	SUCER		
 entry	SUCRE	0	
@@ -28211,7 +28211,7 @@ term	SUlfate acide d’alumine et de potasse
 clique	SUlfate acide d’alumine et de potasse | ALUN		
 term	SUlfate d’ammoniaque		
 clique	SUlfate d’ammoniaque		
-pb	544		
+pb	544	0554	
 term	SUlfate de baryte		
 clique	SUlfate de baryte		
 term	SUlfite de cadmium		
@@ -28258,7 +28258,7 @@ term	SUlfure de plombq
 clique	SUlfure de plombq		
 term	SUlfure de potasse		
 clique	SUlfure de potasse		
-pb	545		
+pb	545	0555	
 term	SUlfure de soude		
 clique	SUlfure de soude		
 term	SUlfure hydrogéné		
@@ -28322,7 +28322,7 @@ orth	SURCILIER
 clique	SOURCILIER		
 entry	SURCILIO-CONCHIEN	1	
 orth	SURCILIO-CONCHIEN		
-pb	546		
+pb	546	0556	
 entry	SURCOMPOSÉ	0	
 orth	SURCOMPOSÉ		
 entry	SUR-COSTAL	0	
@@ -28381,7 +28381,7 @@ entry	SUS-MAXILLO-LABIAL	1
 orth	SUS-MAXILLO-LABIAL		
 term	SUs-maxillo-labial		
 clique	SUs-maxillo-labial		
-pb	547		
+pb	547	0557	
 term	SUs-maxillo-labial		
 clique	SUs-maxillo-labial		
 term	SUs-maxillonasal		
@@ -28431,7 +28431,7 @@ entry	SUTURE	1
 orth	SUTURE		
 term	SUture a anse de Ledran		
 clique	SUture a anse de Ledran		
-pb	548		
+pb	548	0558	
 term	SUture a points passes		
 clique	SUture a points passes		
 term	SUture a points séparésq		
@@ -28466,7 +28466,7 @@ entry	SYMPATHIQUE	0
 orth	SYMPATHIQUE		
 entry	SYMPÉTALIQUE	1	
 orth	SYMPÉTALIQUE		
-pb	549		
+pb	549	0559	
 entry	SYMPHYSE	0	
 orth	SYMPHYSE		
 entry	SYMPHYSÉOTOMIE	0	
@@ -28539,7 +28539,7 @@ entry	SYNERGIQUE	0
 orth	SYNERGIQUE		
 entry	SYNÉVROSE	1	
 orth	SYNÉVROSE		
-pb	550		
+pb	550	0560	
 entry	SYNÉZIZIS	0	
 orth	SYNÉZIZIS		
 entry	SYNGÉNÉSIE	0	
@@ -28598,7 +28598,7 @@ entry	SYROP	2
 orth	SYROP		
 term	Syrop antiscorbutique		
 clique	Syrop antiscorbutique		
-pb	551		
+pb	551	0561	
 term	Syrop bècldque de WIllis		
 clique	Syrop bècldque de WIllis		
 term	Syrop chalybè		
@@ -28667,7 +28667,7 @@ term	Syrop émétique
 clique	Syrop émétique		
 term	Syrop magistral astringent		
 clique	Syrop magistral astringent		
-pb	552		
+pb	552	0562	
 term	Syrop résomptifde tortue		
 clique	Syrop résomptifde tortue		
 entry	SYSSARCOSE	0	
@@ -28712,7 +28712,7 @@ term	Tablettes vermifuges
 clique	Tablettes vermifuges		
 entry	TACAMAHACA	1	
 orth	TACAMAHACA		
-pb	553		
+pb	553	0563	
 entry	TACAMAQUE	0	
 orth	TACAMAQUE		
 clique	TACAMAHACA		
@@ -28788,7 +28788,7 @@ entry	TARE	0
 orth	TARE		
 entry	TARENTISME	1	
 orth	TARENTISME		
-pb	554		
+pb	554	0564	
 entry	TARENTULE	0	
 orth	TARENTULE		
 entry	TARENTULISME	0	
@@ -28843,7 +28843,7 @@ term	Tartre ferré
 clique	Tartre ferré		
 term	Tartre martial soluble		
 clique	Tartre martial soluble		
-pb	555		
+pb	555	0565	
 term	Tartre méphitique		
 clique	Tartre méphitique		
 term	Tartre de potasse		
@@ -28882,7 +28882,7 @@ term	Teigne porrigineuse
 clique	Teigne porrigineuse		
 term	Teigne rugueuse		
 clique	Teigne rugueuse		
-pb	556		
+pb	556	0566	
 entry	TEIGNEUX	0	
 orth	TEIGNEUX		
 entry	TEINTURE	0	
@@ -28953,7 +28953,7 @@ entry	TELLURIQUE	0
 orth	TELLURIQUE		
 entry	TEMPE	1	
 orth	TEMPE		
-pb	557		
+pb	557	0567	
 entry	TEMPÉRAMENT	0	
 orth	TEMPÉRAMENT		
 entry	TEMPÉRANT	0	
@@ -28992,7 +28992,7 @@ entry	TÉNESME	0
 orth	TÉNESME		
 entry	TENETTES	1	
 orth	TENETTES		
-pb	558		
+pb	558	0568	
 entry	TÉNIA	0	
 orth	TÉNIA		
 entry	TÉNONTAGRE	0	
@@ -29069,7 +29069,7 @@ term	Térébenthine de Venise
 clique	Térébenthine de Venise		
 entry	TÉRÉBENTHINE	1	
 orth	TÉRÉBENTHINE		
-pb	559		
+pb	559	0569	
 entry	TÉRET	0	
 orth	TÉRET		
 entry	TÉRÉTIUSCULE	0	
@@ -29150,7 +29150,7 @@ entry	TÉTANIQUE	0
 orth	TÉTANIQUE		
 entry	TÉTANOS	1	
 orth	TÉTANOS		
-pb	560		
+pb	560	0570	
 entry	TÉTARD	0	
 orth	TÉTARD		
 entry	TÉTARTOPHIE	0	
@@ -29219,7 +29219,7 @@ entry	THERIACAL	0
 orth	THERIACAL		
 entry	THÉRIAQUE	1	
 orth	THÉRIAQUE		
-pb	561		
+pb	561	0571	
 term	Thériaque des Allemands		
 clique	Thériaque des Allemands		
 term	Thériaque des pauvres		
@@ -29272,7 +29272,7 @@ orth	THORACHIQUE
 entry	THORACIQUE	1	
 orth	THORACIQUE		
 clique	THORACHIQUE		
-pb	562		
+pb	562	0572	
 entry	THORACO-ABDOMINAL	0	
 orth	THORACO-ABDOMINAL		
 entry	THORACO-FACIAL	0	
@@ -29328,7 +29328,7 @@ entry	THYRONCIE	0
 orth	THYRONCIE		
 entry	THYRO PHARYNGIEN	1	
 orth	THYRO PHARYNGIEN		
-pb	563		
+pb	563	0573	
 entry	THYRO-STAPHYLIN	0	
 orth	THYRO-STAPHYLIN		
 entry	THYRSE	0	
@@ -29378,7 +29378,7 @@ entry	TIRE-BALLE	0
 orth	TIRE-BALLE		
 entry	TIRE-FOND	1	
 orth	TIRE-FOND		
-pb	564		
+pb	564	0574	
 entry	TIRE-TETE	0	
 orth	TIRE-TETE		
 entry	TISANE	0	
@@ -29444,7 +29444,7 @@ entry	TORMENTILLE	0
 orth	TORMENTILLE		
 entry	TORPEUR	0	
 orth	TORPEUR		
-pb	565		
+pb	565	0575	
 entry	TORPILLE	0	
 orth	TORPILLE		
 entry	TORRÉFACTION	0	
@@ -29493,7 +29493,7 @@ entry	TRACHÉAL	0
 orth	TRACHÉAL		
 entry	TRACHÉE	1	
 orth	TRACHÉE		
-pb	566		
+pb	566	0576	
 entry	TRACHÉE-ARTÈRE	0	
 orth	TRACHÉE-ARTÈRE		
 entry	TRACHÉITE	0	
@@ -29560,7 +29560,7 @@ entry	TRANSPARENT	0
 orth	TRANSPARENT		
 entry	TRANSPIRATION	1	
 orth	TRANSPIRATION		
-pb	567		
+pb	567	0577	
 term	Transpiration cutanée		
 clique	Transpiration cutanée		
 term	Transpiration pulmonaire		
@@ -29608,7 +29608,7 @@ orth	TRAQUENARD
 clique	AMBLE		
 entry	TRAUMATIQUE	1	
 orth	TRAUMATIQUE		
-pb	568		
+pb	568	0578	
 entry	TRAVAIL	0	
 orth	TRAVAIL		
 entry	TRÈFLE	0	
@@ -29659,7 +29659,7 @@ entry	TRICHIASE	0
 orth	TRICHIASE		
 entry	TRICHISME	1	
 orth	TRICHISME		
-pb	569		
+pb	569	0579	
 entry	TRICHOCÉPHALE	0	
 orth	TRICHOCÉPHALE		
 entry	TRICHOMA	0	
@@ -29731,7 +29731,7 @@ entry	TRISPERME	0
 orth	TRISPERME		
 entry	TRISPLANCHNIQUE	1	
 orth	TRISPLANCHNIQUE		
-pb	570		
+pb	570	0580	
 entry	TRI-STERNAL	0	
 orth	TRI-STERNAL		
 entry	TRISTIMANIE	0	
@@ -29795,7 +29795,7 @@ term	Trochisques de suecin
 clique	Trochisques de suecin		
 term	'Trochisques de vipères		
 clique	'Trochisques de vipères		
-pb	571		
+pb	571	0581	
 term	Trochisques escarrotiques		
 clique	Trochisques escarrotiques		
 term	Trochisques hystériques		
@@ -29859,7 +29859,7 @@ entry	TUBE	1
 orth	TUBE		
 term	TUbe capillaire		
 clique	TUbe capillaire		
-pb	572		
+pb	572	0582	
 term	TUbe digestif		
 clique	TUbe digestif		
 entry	TUBER-ISCHIO-TROCHANTÉRIEN	0	
@@ -29916,7 +29916,7 @@ term	TUrbith blancde MOntpellier
 clique	TUrbith blancde MOntpellier		
 term	TUrbith minéral		
 clique	TUrbith minéral		
-pb	573		
+pb	573	0583	
 term	TUrbith nitreux		
 clique	TUrbith nitreux		
 term	TUrbith noir		
@@ -29983,7 +29983,7 @@ entry	ULONCIE	0
 orth	ULONCIE		
 entry	ULORRHAGIE	1	
 orth	ULORRHAGIE		
-pb	574		
+pb	574	0584	
 entry	ULTIMI-STERNAL	0	
 orth	ULTIMI-STERNAL		
 entry	UNCIFORME	0	
@@ -30036,7 +30036,7 @@ entry	URÉTÈRE	0
 orth	URÉTÈRE		
 entry	URETÉRITE	1	
 orth	URETÉRITE		
-pb	575		
+pb	575	0585	
 entry	URÉTÉROLITHIASE	0	
 orth	URÉTÉROLITHIASE		
 entry	URÉTÉRO-PHLEGMATIQUE	0	
@@ -30087,7 +30087,7 @@ entry	URINEUX	0
 orth	URINEUX		
 entry	URIQUE	1	
 orth	URIQUE		
-pb	576		
+pb	576	0586	
 term	Urique oxygéné		
 clique	Urique oxygéné		
 entry	URNE	0	
@@ -30145,7 +30145,7 @@ entry	VACCINATION	0
 orth	VACCINATION		
 entry	VACCINE	1	
 orth	VACCINE		
-pb	577		
+pb	577	0587	
 entry	VACCINER	0	
 orth	VACCINER		
 entry	VACILLANT	0	
@@ -30199,7 +30199,7 @@ orth	VAPORISATION
 clique	VAPORATION		
 entry	VARICE	1	
 orth	VARICE		
-pb	578		
+pb	578	0588	
 entry	VARICELLE	0	
 orth	VARICELLE		
 entry	VARICOCÈLE	0	
@@ -30248,7 +30248,7 @@ entry	VELAR	0
 orth	VELAR		
 entry	VELOUTÉ	1	
 orth	VELOUTÉ		
-pb	579		
+pb	579	0589	
 entry	VENÉNEUX	0	
 orth	VENÉNEUX		
 entry	VÉNÉRIEN	0	
@@ -30313,7 +30313,7 @@ entry	VERGETÉ	0
 orth	VERGETÉ		
 entry	VERGETURES	1	
 orth	VERGETURES		
-pb	580		
+pb	580	0590	
 entry	VERJUS	0	
 orth	VERJUS		
 entry	VERMICULAIRE	0	
@@ -30390,7 +30390,7 @@ entry	VERTICITÉ	0
 orth	VERTICITÉ		
 entry	VERTIGE	1	
 orth	VERTIGE		
-pb	581		
+pb	581	0591	
 entry	VERTIGO	0	
 orth	VERTIGO		
 entry	VERU-MONTANUM	0	
@@ -30460,7 +30460,7 @@ entry	VIDIEN	0
 orth	VIDIEN		
 entry	VIE	1	
 orth	VIE		
-pb	582		
+pb	582	0592	
 entry	VIEILLESSE	0	
 orth	VIEILLESSE		
 entry	VIERGE	0	
@@ -30529,7 +30529,7 @@ entry	VIOLACÉ	0
 orth	VIOLACÉ		
 entry	VIOLETTE	1	
 orth	VIOLETTE		
-pb	583		
+pb	583	0593	
 entry	VIPÈRE	0	
 orth	VIPÈRE		
 entry	VIREUX	0	
@@ -30625,7 +30625,7 @@ entry	VOCIFÉRATION	0
 orth	VOCIFÉRATION		
 entry	VODANIUM	1	
 orth	VODANIUM		
-pb	584		
+pb	584	0594	
 entry	VOIE	0	
 orth	VOIE		
 entry	VOILE	0	
@@ -30706,7 +30706,7 @@ entry	VULVE	0
 orth	VULVE		
 entry	VULVO-UTÉRIN	1	
 orth	VULVO-UTÉRIN		
-pb	585		
+pb	585	0595	
 entry	WOLFRAM	0	
 orth	WOLFRAM		
 entry	WORMIEN	0	
@@ -30746,7 +30746,7 @@ entry	YTTRIA	0
 orth	YTTRIA		
 entry	YTTRIUM	0	
 orth	YTTRIUM		
-pb	586		
+pb	586	0596	
 entry	ZAIN	0	
 orth	ZAIN		
 entry	ZARATHAN	0	
@@ -30808,7 +30808,7 @@ term	Zysomatique (petit')
 clique	Zysomatique (petit')		
 entry	ZYGOMATO-AURICULAIRE	1	
 orth	ZYGOMATO-AURICULAIRE		
-pb	587		
+pb	587	0597	
 entry	ZYGOMATO-CONCHINIEN	0	
 orth	ZYGOMATO-CONCHINIEN		
 entry	ZYGOMATO-LABIAL (grand)	0	

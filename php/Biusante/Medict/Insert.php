@@ -335,8 +335,9 @@ class Insert extends Util
             $wc++;
         }
         self::$dico_terme[C::_MOTS] = $wc;
-        if ($wc > 1) {
-            self::$dico_terme[C::_DELOC] = substr($deforme, strpos($deforme, " ") + 1);
+        $pos = strpos($deforme, " ");
+        if ($pos !== false) {
+            self::$dico_terme[C::_DELOC] = substr($deforme, $pos + 1);
         }
         else {
             self::$dico_terme[C::_DELOC] = null;
@@ -796,12 +797,14 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
              || $row[0] == C::REF
             ) {
                 // pas encore vu de orth ici ? pas bien
-                // on prend la vedette 
+                // on prend la vedette qui va prendre une clique
                 if (count($orths) < 1) {
                     $terme_id = self::terme_id(
                         self::$dico_entree[C::_VEDETTE], 
                         $orth_langue
                     );
+                    // ne pas oublier d’enregistrer l’orth ici
+                    self::insert_orth($terme_id);
                     $orths[$terme_id] = self::$dico_entree[C::_VEDETTE];
                 }
             }

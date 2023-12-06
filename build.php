@@ -9,7 +9,8 @@ $pars = Util::pars();
 
 /*
 Insert::truncate();
-Insert::insert_titre('00152');
+// Insert::insert_titre('extbnfdechambrex018');
+Insert::insert_volume('data_events/extbnfdechambrex018.tsv');
 Insert::optimize();
 die();
 */

@@ -1,6 +1,6 @@
 object			
 volume	37019	Capuron	1806
-pb	1		
+pb	1	0017	
 entry	A	0	
 orth	A		
 entry	Abaisseur	0	
@@ -29,7 +29,7 @@ foreign	abductio	lat
 entry	Aberration	1	
 orth	Aberration		
 foreign	aberratio	lat	
-pb	2		
+pb	2	0018	
 entry	Ablactation	0	
 orth	Ablactation		
 foreign	ablactatio	lat	
@@ -71,7 +71,7 @@ foreign	abcisio	lat
 entry	Absorbant	1	
 orth	Absorbant		
 foreign	abtsorbens	lat	
-pb	3		
+pb	3	0019	
 entry	Absorption	0	
 orth	Absorption		
 foreign	absorptio	lat	
@@ -134,7 +134,7 @@ foreign	accessorius	lat
 entry	Accident	1	
 orth	Accident		
 foreign	accidens	lat	
-pb	4		
+pb	4	0020	
 entry	Accipitres	0	
 orth	Accipitres		
 foreign	accipiter	lat	
@@ -211,7 +211,7 @@ orth	Achores
 foreign	achores	lat	
 entry	Achromatique	1	
 orth	Achromatique		
-pb	5		
+pb	5	0021	
 entry	Acide	0	
 orth	Acide		
 foreign	acidus	lat	
@@ -274,7 +274,7 @@ entry	Acrimonieux	0
 orth	Acrimonieux		
 entry	Acrisie	0	
 orth	Acrisie		
-pb	6		
+pb	6	0022	
 entry	Acrochordon	0	
 orth	Acrochordon		
 entry	Acromion	0	
@@ -342,7 +342,7 @@ orth	Adéphagie
 orth	Addéphagie		
 foreign	addephagia	lat	
 foreign	adephagia	lat	
-pb	7		
+pb	7	0023	
 entry	Adepte	0	
 orth	Adepte		
 foreign	adeptus	lat	
@@ -414,7 +414,7 @@ foreign	aedœalogia	lat
 entry	Ædœatomie	1	
 orth	Ædœatomie		
 foreign	aedf»atomiA	lat	
-pb	8		
+pb	8	0024	
 entry	Ægilops	0	
 orth	Ægilops		
 entry	Aérer	0	
@@ -502,7 +502,7 @@ foreign	agalactia	lat
 entry	Agame	1	
 orth	Agame		
 foreign	agamus	lat	
-pb	9		
+pb	9	0025	
 clique	Cryptogame		
 entry	Agamie	0	
 orth	Agamie		
@@ -583,7 +583,7 @@ foreign	agronomus	lat
 entry	Agronomie	0	
 orth	Agronomie		
 foreign	agronomia	lat	
-pb	10		
+pb	10	0026	
 entry	Agrypnie	0	
 orth	Agrypnie		
 foreign	agrypnia	lat	
@@ -640,7 +640,7 @@ foreign	inguen	lat
 entry	Air	1	
 orth	Air		
 foreign	aër	lat	
-pb	11		
+pb	11	0027	
 entry	Airain	0	
 orth	Airain		
 foreign	œs	lat	
@@ -682,7 +682,7 @@ foreign	albumen	lat
 entry	Albumine	1	
 orth	Albumine		
 foreign	alburneti	lat	
-pb	12		
+pb	12	0028	
 entry	Albumineux	0	
 orth	Albumineux		
 foreign	albuminosus	lat	
@@ -730,7 +730,7 @@ entry	Alèse, Alèze	0
 orth	Alèse		
 orth	Alèze		
 foreign	linteum	lat	
-pb	13		
+pb	13	0029	
 entry	Alexipharmaque	0	
 orth	Alexipharmaque		
 entry	Alexipyrétique	0	
@@ -783,7 +783,7 @@ entry	Aliquante	0
 orth	Aliquante		
 entry	Aliquote	1	
 orth	Aliquote		
-pb	14		
+pb	14	0030	
 entry	Aliter (s')	0	
 orth	Aliter (s')		
 foreign	in morbuni incidere	lat	
@@ -851,7 +851,7 @@ orth	Alterne
 foreign	alternus	lat	
 entry	Althaea	0	
 orth	Althaea		
-pb	15		
+pb	15	0031	
 entry	Altimétrie	0	
 orth	Altimétrie		
 foreign	althnetria	lat	
@@ -922,7 +922,7 @@ foreign	amblyopia	lat
 entry	Ambre	1	
 orth	Ambre		
 foreign	ambarum	lat	
-pb	16		
+pb	16	0032	
 entry	Ambulant	0	
 orth	Ambulant		
 foreign	ambulans	lat	
@@ -965,7 +965,7 @@ foreign	ammoniacum	lat
 entry	Amnios	0	
 orth	Amnios		
 foreign	arnnium	lat	
-pb	17		
+pb	17	0033	
 entry	Amorphe	0	
 orth	Amorphe		
 foreign	informis	lat	
@@ -1028,7 +1028,7 @@ foreign	anubrochisrnus	lat
 entry	Anabrose	1	
 orth	Anabrose		
 foreign	anabrosis	lat	
-pb	18		
+pb	18	0034	
 clique	Diabrose		
 entry	Anacamptique	0	
 orth	Anacamptique		
@@ -1083,7 +1083,7 @@ foreign	anapllonesis9	lat
 entry	Anaphrodisie	0	
 orth	Anaphrodisie		
 foreign	anophrodiÀ sia	lat	
-pb	19		
+pb	19	0035	
 entry	Anaphrodite	0	
 orth	Anaphrodite		
 entry	Anaplérose	0	
@@ -1162,7 +1162,7 @@ foreign	androgyna	lat
 entry	Androïde	1	
 orth	Androïde		
 foreign	androïdes	lat	
-pb	20		
+pb	20	0036	
 clique	Automate		
 entry	Andromanie	0	
 orth	Andromanie		
@@ -1228,7 +1228,7 @@ clique	Microscope
 entry	Angiospermie	1	
 orth	Angiospermie		
 foreign	anglospermia	lat	
-pb	21		
+pb	21	0037	
 entry	Angio-ténique (fièvre)	0	
 orth	Angio-ténique (fièvre)		
 foreign	bris angio-tenica	lat	
@@ -1290,7 +1290,7 @@ foreign	annulus	lat
 entry	Annelé	0	
 orth	Annelé		
 foreign	annulatns	lat	
-pb	22		
+pb	22	0038	
 entry	Annihilation	0	
 orth	Annihilation		
 entry	Annuel	0	
@@ -1368,7 +1368,7 @@ foreign	anthelminticus	lat
 entry	Anthère	1	
 orth	Anthère		
 foreign	anthera	lat	
-pb	23		
+pb	23	0039	
 entry	Anthèse	0	
 orth	Anthèse		
 foreign	anthesis	lat	
@@ -1431,7 +1431,7 @@ entry	Anthypocondriaque, Antihypocondriaque	1
 orth	Anthypocondriaque		
 orth	Antihypocondriaque		
 foreign	antihypocondriacus	lat	
-pb	24		
+pb	24	0040	
 entry	Anthystérique, Antihystérique	0	
 orth	Anthystérique		
 orth	Antihystérique		
@@ -1516,7 +1516,7 @@ foreign	antimelancholicus	lat
 entry	Antimoine	1	
 orth	Antimoine		
 foreign	sübium	lat	
-pb	25		
+pb	25	0041	
 entry	Antinéphritique	0	
 orth	Antinéphritique		
 foreign	antinephriticus	lat	
@@ -1596,7 +1596,7 @@ clique	Antiputride
 entry	Antisiphilitique	1	
 orth	Antisiphilitique		
 foreign	antisiphiliücusj	lat	
-pb	26		
+pb	26	0042	
 clique	Siphilis		
 entry	Antispase	0	
 orth	Antispase		
@@ -1668,7 +1668,7 @@ foreign	aphœresis	lat
 entry	Aphilanthropie	1	
 orth	Aphilanthropie		
 foreign	aphilanthropia	lat	
-pb	27		
+pb	27	0043	
 entry	Aphonie	0	
 orth	Aphonie		
 foreign	aphonia	lat	
@@ -1736,7 +1736,7 @@ foreign	aponevrologia	lat
 entry	Aponévrose	1	
 orth	Aponévrose		
 foreign	aponevrosis9	lat	
-pb	28		
+pb	28	0044	
 entry	Aponévrotique	0	
 orth	Aponévrotique		
 foreign	aponevroiicus	lat	
@@ -1800,7 +1800,7 @@ foreign	paUperartus	lat
 entry	Appendice	1	
 orth	Appendice		
 foreign	appendix	lat	
-pb	29		
+pb	29	0045	
 entry	Appendicule	0	
 orth	Appendicule		
 foreign	appendicula	lat	
@@ -1876,7 +1876,7 @@ entry	Arachnoïde	1
 orth	Arachnoïde		
 foreign	arachndïdeus	lat	
 foreign	arachnoïdes	lat	
-pb	30		
+pb	30	0046	
 entry	Arborisé	0	
 orth	Arborisé		
 entry	Arbre	0	
@@ -1911,7 +1911,7 @@ foreign	archiater	lat
 entry	Archimagie	1	
 orth	Archimagie		
 foreign	archimagia	lat	
-pb	31		
+pb	31	0047	
 entry	Archimie, Archymie	0	
 orth	Archimie		
 orth	Archymie		
@@ -1962,7 +1962,7 @@ entry	Argile, Argille	1
 orth	Argile		
 orth	Argille		
 foreign	argilla	lat	
-pb	32		
+pb	32	0048	
 entry	Argyrogonie	0	
 orth	Argyrogonie		
 foreign	argyrogonia	lat	
@@ -2041,7 +2041,7 @@ foreign	arsenicalis	lat
 entry	Arsenieux	1	
 orth	Arsenieux		
 foreign	arseniosus	lat	
-pb	33		
+pb	33	0049	
 entry	Arsenique	0	
 orth	Arsenique		
 foreign	arsenicus	lat	
@@ -2103,7 +2103,7 @@ foreign	arthrosis	lat
 entry	Articulé	1	
 orth	Articulé		
 foreign	articulatus»*	lat	
-pb	34		
+pb	34	0050	
 entry	Artificiel	0	
 orth	Artificiel		
 foreign	artificialis	lat	
@@ -2157,7 +2157,7 @@ foreign	asphalitus	lat
 entry	Asphalte	1	
 orth	Asphalte		
 foreign	asphalticum f	lat	
-pb	35		
+pb	35	0051	
 entry	Asphyxie	0	
 orth	Asphyxie		
 foreign	asphyxia	lat	
@@ -2229,7 +2229,7 @@ foreign	aIIhelatio	lat
 entry	Astragale	1	
 orth	Astragale		
 foreign	astragalus	lat	
-pb	36		
+pb	36	0052	
 entry	Astre	0	
 orth	Astre		
 foreign	astrum	lat	
@@ -2290,7 +2290,7 @@ orth	Atloïde
 entry	Atmosphère	1	
 orth	Atmosphère		
 foreign	atinosphœrat	lat	
-pb	37		
+pb	37	0053	
 entry	Atome	0	
 orth	Atome		
 foreign	alomus	lat	
@@ -2340,7 +2340,7 @@ clique	chrysalide
 entry	Auriculaire	1	
 orth	Auriculaire		
 foreign	auriculatis	lat	
-pb	38		
+pb	38	0054	
 entry	Auriculé	0	
 orth	Auriculé		
 foreign	auriculatus	lat	
@@ -2403,7 +2403,7 @@ orth	Azur
 foreign	cœruleum	lat	
 entry	Azygos	1	
 orth	Azygos		
-pb	39		
+pb	39	0055	
 entry	Azyme	0	
 orth	Azyme		
 foreign	azymas	lat	
@@ -2439,7 +2439,7 @@ foreign	gluma	lat
 entry	Baleine	1	
 orth	Baleine		
 foreign	balœna	lat	
-pb	40		
+pb	40	0056	
 entry	Baliste	0	
 orth	Baliste		
 foreign	balista	lat	
@@ -2480,7 +2480,7 @@ orth	Baryphonie
 foreign	baryphonia	lat	
 entry	Baryte	1	
 orth	Baryte		
-pb	41		
+pb	41	0057	
 entry	Base	0	
 orth	Base		
 foreign	basis	lat	
@@ -2530,7 +2530,7 @@ foreign	balbuties	lat
 entry	Bégayer	1	
 orth	Bégayer		
 foreign	balbutire	lat	
-pb	42		
+pb	42	0058	
 entry	Bellon	0	
 orth	Bellon		
 entry	Benath	0	
@@ -2577,7 +2577,7 @@ foreign	bicornis	lat
 entry	Bicuspidé	1	
 orth	Bicuspidé		
 foreign	bicuspidatus;	lat	
-pb	43		
+pb	43	0059	
 entry	Bidenté	0	
 orth	Bidenté		
 foreign	bidentatus	lat	
@@ -2661,7 +2661,7 @@ clique	Hermaphrodite
 entry	Bismuth	1	
 orth	Bismuth		
 foreign	vismutum	lat	
-pb	44		
+pb	44	0060	
 entry	Bistouri	0	
 orth	Bistouri		
 foreign	scalpellus	lat	
@@ -2709,7 +2709,7 @@ foreign	plaga	lat
 clique	Plaie		
 entry	Boback	1	
 orth	Boback		
-pb	45		
+pb	45	0061	
 entry	Bocard	0	
 orth	Bocard		
 entry	Bocardage	0	
@@ -2788,7 +2788,7 @@ foreign	gibber	lat
 entry	Bostrychite	1	
 orth	Bostrychite		
 foreign	bostrychiies	lat	
-pb	46		
+pb	46	0062	
 entry	Botal	0	
 orth	Botal		
 entry	Botanique	0	
@@ -2838,7 +2838,7 @@ orth	Bourgeon
 foreign	gemma	lat	
 foreign	oculus	lat	
 foreign	hybernaculum	lat	
-pb	47		
+pb	47	0063	
 entry	Bourses	0	
 orth	Bourses		
 clique	Scrotum		
@@ -2900,7 +2900,7 @@ foreign	bracherium	lat
 entry	Brédissure	1	
 orth	Brédissure		
 foreign	trismus cnpistratus	lat	
-pb	48		
+pb	48	0064	
 entry	Bregma	0	
 orth	Bregma		
 entry	Bromographie	0	
@@ -2962,7 +2962,7 @@ foreign	bufolIItes	lat
 entry	Bulbe	1	
 orth	Bulbe		
 foreign	bulbus	lat	
-pb	49		
+pb	49	0065	
 entry	Bulbeux	0	
 orth	Bulbeux		
 foreign	bulbosus	lat	
@@ -3010,7 +3010,7 @@ foreign	cacochylia	lat
 entry	Cacochyme	0	
 orth	Cacochyme		
 foreign	cacochymus^	lat	
-pb	50		
+pb	50	0066	
 entry	Cacochymie	0	
 orth	Cacochymie		
 foreign	cacocllymia	lat	
@@ -3078,7 +3078,7 @@ clique	Cruor
 entry	Caisse	1	
 orth	Caisse		
 foreign	capsa	lat	
-pb	51		
+pb	51	0067	
 entry	Cal	0	
 orth	Cal		
 foreign	callus	lat	
@@ -3140,7 +3140,7 @@ foreign	callipœdia	lat
 entry	Callosité	1	
 orth	Callosité		
 foreign	callositas	lat	
-pb	52		
+pb	52	0068	
 entry	Calmant	0	
 orth	Calmant		
 foreign	sedans	lat	
@@ -3195,7 +3195,7 @@ foreign	CamphOricus	lat
 entry	Camphre	0	
 orth	Camphre		
 foreign	camphora f	lat	
-pb	53		
+pb	53	0069	
 entry	Camphré	0	
 orth	Camphré		
 foreign	camphoratus	lat	
@@ -3233,7 +3233,7 @@ orth	Caoutchouc
 entry	Capacité	1	
 orth	Capacité		
 foreign	capacitas	lat	
-pb	54		
+pb	54	0070	
 entry	Capeline	0	
 orth	Capeline		
 entry	Capillacé	0	
@@ -3290,7 +3290,7 @@ orth	Caramel
 foreign	saccharunl percoctum	lat	
 entry	Carapace	1	
 orth	Carapace		
-pb	55		
+pb	55	0071	
 entry	Carat	0	
 orth	Carat		
 foreign	in auro bonitas	lat	
@@ -3348,7 +3348,7 @@ orth	Carditis
 entry	Carène	1	
 orth	Carène		
 foreign	carina	lat	
-pb	56		
+pb	56	0072	
 entry	Caréné	0	
 orth	Caréné		
 foreign	carinatus	lat	
@@ -3412,7 +3412,7 @@ foreign	carthesianus f	lat
 entry	Cartilage	0	
 orth	Cartilage		
 foreign	cartilago	lat	
-pb	57		
+pb	57	0073	
 entry	Cartilagineux	0	
 orth	Cartilagineux		
 foreign	cartilaginosus	lat	
@@ -3461,7 +3461,7 @@ foreign	catagmaticus	lat
 entry	Catalepsie	1	
 orth	Catalepsie		
 foreign	catalepsis	lat	
-pb	58		
+pb	58	0074	
 entry	Cataleptique	0	
 orth	Cataleptique		
 foreign	catalCpticus	lat	
@@ -3520,7 +3520,7 @@ foreign	catheterismus	lat
 entry	Catoche, Catochus	1	
 orth	Catoche		
 orth	Catochus		
-pb	59		
+pb	59	0075	
 entry	Catholicon	0	
 orth	Catholicon		
 foreign	catholicum	lat	
@@ -3591,7 +3591,7 @@ foreign	cellulains	lat
 entry	Cellule	1	
 orth	Cellule		
 foreign	cellula	lat	
-pb	60		
+pb	60	0076	
 entry	Celluleux	0	
 orth	Celluleux		
 foreign	cellulosus	lat	
@@ -3663,7 +3663,7 @@ orth	Céphalanthe
 entry	Céphalatomie	1	
 orth	Céphalatomie		
 foreign	cephaeatomia	lat	
-pb	61		
+pb	61	0077	
 entry	Céphalartique	0	
 orth	Céphalartique		
 foreign	cephalarticus	lat	
@@ -3723,7 +3723,7 @@ orth	Cérébral
 foreign	cerebralis	lat	
 entry	Cérium	0	
 orth	Cérium		
-pb	62		
+pb	62	0078	
 entry	Céroène	0	
 orth	Céroène		
 foreign	ceroneum	lat	
@@ -3783,7 +3783,7 @@ orth	Chalcopyrite
 entry	Chaleur	1	
 orth	Chaleur		
 foreign	calor	lat	
-pb	63		
+pb	63	0079	
 clique	Calorique		
 clique	Caloricité		
 entry	Chalybé	0	
@@ -3833,7 +3833,7 @@ entry	Charnu	0
 orth	Charnu		
 foreign	carnosus	lat	
 foreign	corpulentus	lat	
-pb	64		
+pb	64	0080	
 entry	Charpie	0	
 orth	Charpie		
 foreign	carbasus	lat	
@@ -3898,7 +3898,7 @@ foreign	ChelotIIi	lat
 entry	Chélonite	0	
 orth	Chélonite		
 foreign	chelonites	lat	
-pb	65		
+pb	65	0081	
 entry	Chémosis	0	
 orth	Chémosis		
 entry	Chénice, Chœnique	0	
@@ -3974,7 +3974,7 @@ foreign	chirurgus	lat
 entry	Chirurgique	1	
 orth	Chirurgique		
 foreign	Qhiru’t'gi-cus	lat	
-pb	66		
+pb	66	0082	
 entry	Chlorose	0	
 orth	Chlorose		
 foreign	chilorosis	lat	
@@ -4030,7 +4030,7 @@ foreign	choroïdeus	lat
 entry	Chose	1	
 orth	Chose		
 foreign	res	lat	
-pb	67		
+pb	67	0083	
 entry	Chromate	0	
 orth	Chromate		
 foreign	chromas	lat	
@@ -4086,7 +4086,7 @@ orth	Chrysoprase
 foreign	chrysopraslis	lat	
 entry	Chrysulée	0	
 orth	Chrysulée		
-pb	68		
+pb	68	0084	
 entry	Chyle	0	
 orth	Chyle		
 foreign	chylus	lat	
@@ -4157,7 +4157,7 @@ foreign	circumcisura	lat
 entry	Circoncisse	1	
 orth	Circoncisse		
 foreign	circumcissus	lat	
-pb	69		
+pb	69	0085	
 entry	Circonférence	0	
 orth	Circonférence		
 foreign	circumferentia	lat	
@@ -4227,7 +4227,7 @@ foreign	atis	lat
 entry	Citrin	0	
 orth	Citrin		
 foreign	citrinus	lat	
-pb	70		
+pb	70	0086	
 entry	Citrique	0	
 orth	Citrique		
 foreign	curlctts	lat	
@@ -4276,7 +4276,7 @@ foreign	clima	lat
 entry	Climatérique	1	
 orth	Climatérique		
 foreign	climatericus	lat	
-pb	71		
+pb	71	0087	
 entry	Clinique	0	
 orth	Clinique		
 foreign	clinicus	lat	
@@ -4322,7 +4322,7 @@ orth	Coagulation
 foreign	coagulatio	lat	
 entry	Coagulum	1	
 orth	Coagulum		
-pb	72		
+pb	72	0088	
 entry	Coalescence	0	
 orth	Coalescence		
 foreign	COalescentia	lat	
@@ -4374,7 +4374,7 @@ foreign	rnorbus cœliacus	lat
 entry	Cœnologie	1	
 orth	Cœnologie		
 foreign	cosnologia	lat	
-pb	73		
+pb	73	0089	
 entry	Coercible	0	
 orth	Coercible		
 foreign	coercibilis	lat	
@@ -4445,7 +4445,7 @@ orth	Collision
 foreign	collisio	lat	
 entry	Collyre	1	
 orth	Collyre		
-pb	74		
+pb	74	0090	
 entry	Colon	0	
 orth	Colon		
 entry	Coloquinte	0	
@@ -4500,7 +4500,7 @@ orth	Commémoratif
 foreign	comm'emorativus	lat	
 foreign	rememorativus	lat	
 foreign	ana~ niVIesticus	lat	
-pb	75		
+pb	75	0091	
 entry	Commensurabilité	0	
 orth	Commensurabilité		
 foreign	commensurabilitas	lat	
@@ -4566,7 +4566,7 @@ foreign	concavus	lat
 entry	Concentration	0	
 orth	Concentration		
 foreign	concentratio	lat	
-pb	76		
+pb	76	0092	
 entry	Concentrique	0	
 orth	Concentrique		
 foreign	concendricus	lat	
@@ -4642,7 +4642,7 @@ foreign	conAyloideus	lat
 entry	Condylome	1	
 orth	Condylome		
 foreign	condyloma	lat	
-pb	77		
+pb	77	0093	
 entry	Cône	0	
 orth	Cône		
 foreign	conus	lat	
@@ -4703,7 +4703,7 @@ entry	Congloméré	1
 orth	Congloméré		
 foreign	conglonleratus	lat	
 foreign	du	lat	
-pb	78		
+pb	78	0094	
 entry	Conglutinant	0	
 orth	Conglutinant		
 foreign	congluùnans	lat	
@@ -4767,7 +4767,7 @@ entry	Constellation	0
 orth	Constellation		
 foreign	signum cœleste	lat	
 foreign	stellarum congeries	lat	
-pb	79		
+pb	79	0095	
 entry	Constipation	0	
 orth	Constipation		
 foreign	COnsÜpatio	lat	
@@ -4838,7 +4838,7 @@ orth	Contre-coup
 foreign	contra-fissïira	lat	
 foreign	resonantia	lat	
 foreign	apechelna	lat	
-pb	80		
+pb	80	0096	
 entry	Contre-extension	0	
 orth	Contre-extension		
 foreign	contrà-extensio	lat	
@@ -4895,7 +4895,7 @@ entry	Coqueluche	1
 orth	Coqueluche		
 foreign	pertussis	lat	
 foreign	morbus cucullatus	lat	
-pb	81		
+pb	81	0097	
 entry	Coquillage	0	
 orth	Coquillage		
 foreign	conchylia	lat	
@@ -4952,7 +4952,7 @@ foreign	corolla	lat
 entry	Coronaire	1	
 orth	Coronaire		
 foreign	coronarius	lat	
-pb	82		
+pb	82	0098	
 entry	Coronal	0	
 orth	Coronal		
 foreign	coronalis	lat	
@@ -5014,7 +5014,7 @@ foreign	corymbus	lat
 entry	Corymbifère	1	
 orth	Corymbifère		
 foreign	corymbifcr	lat	
-pb	83		
+pb	83	0099	
 entry	Coryza	0	
 orth	Coryza		
 entry	Co-sécante	0	
@@ -5063,7 +5063,7 @@ foreign	cotyla	lat
 entry	Cotylédon	1	
 orth	Cotylédon		
 foreign	cotyledo	lat	
-pb	84		
+pb	84	0100	
 entry	Cotyloïde	0	
 orth	Cotyloïde		
 foreign	cotyloïdes	lat	
@@ -5132,7 +5132,7 @@ orth	Couronnement
 entry	Cours de ventre	1	
 orth	Cours de ventre		
 foreign	alvi fluxus	lat	
-pb	85		
+pb	85	0101	
 entry	Couture	0	
 orth	Couture		
 foreign	sutura	lat	
@@ -5195,7 +5195,7 @@ foreign	crepusciIlum	lat
 entry	Crète	1	
 orth	Crète		
 foreign	crista	lat	
-pb	86		
+pb	86	0102	
 entry	Crête-de-coq	0	
 orth	Crête-de-coq		
 foreign	crista galli	lat	
@@ -5258,7 +5258,7 @@ foreign	crocitus	lat
 entry	Crochet	1	
 orth	Crochet		
 foreign	hamus	lat	
-pb	87		
+pb	87	0103	
 entry	Crocus	0	
 orth	Crocus		
 entry	Crotale	0	
@@ -5310,7 +5310,7 @@ foreign	clystaldiitus	lat
 entry	Crystalline	1	
 orth	Crystalline		
 foreign	crystallina	lat	
-pb	88		
+pb	88	0104	
 entry	Crystallisation	0	
 orth	Crystallisation		
 foreign	crystallisatio	lat	
@@ -5366,7 +5366,7 @@ orth	Cuisse
 entry	Cuivre	1	
 orth	Cuivre		
 foreign	cuprum	lat	
-pb	89		
+pb	89	0105	
 entry	Culmifère	0	
 orth	Culmifère		
 foreign	culmifier	lat	
@@ -5433,7 +5433,7 @@ foreign	rycldïs	lat
 entry	Cyclope	1	
 orth	Cyclope		
 foreign	cyclops	lat	
-pb	90		
+pb	90	0106	
 entry	Cycloptère	0	
 orth	Cycloptère		
 foreign	cyclopterus	lat	
@@ -5489,7 +5489,7 @@ foreign	cystirrhagia	lat
 entry	Cystite	1	
 orth	Cystite		
 foreign	cystitis	lat	
-pb	91		
+pb	91	0107	
 entry	Cystobubonocèle	0	
 orth	Cystobubonocèle		
 entry	Cystocèle	0	
@@ -5557,7 +5557,7 @@ clique	Gramme
 entry	Décagyne	1	
 orth	Décagyne		
 foreign	decagynus	lat	
-pb	92		
+pb	92	0108	
 entry	Décagynie	0	
 orth	Décagynie		
 foreign	decagyma	lat	
@@ -5636,7 +5636,7 @@ foreign	declinatio	lat
 entry	Déclinaison	1	
 orth	Déclinaison		
 foreign	declinatio ;	lat	
-pb	93		
+pb	93	0109	
 entry	Déclive	0	
 orth	Déclive		
 foreign	declivis	lat	
@@ -5696,7 +5696,7 @@ foreign	defioliatiO	lat
 entry	Définition	1	
 orth	Définition		
 foreign	defillitiO	lat	
-pb	94		
+pb	94	0110	
 entry	Déflagration	0	
 orth	Déflagration		
 foreign	deflngratio	lat	
@@ -5757,7 +5757,7 @@ foreign	dendritis	lat
 entry	Dendroïde	1	
 orth	Dendroïde		
 foreign	dendroides	lat	
-pb	95		
+pb	95	0111	
 entry	Dendroïte	0	
 orth	Dendroïte		
 foreign	dendroïtis	lat	
@@ -5824,7 +5824,7 @@ entry	Dépuration	1
 orth	Dépuration		
 foreign	depuratio	lat	
 foreign	defœcatio	lat	
-pb	96		
+pb	96	0112	
 entry	Dépuratoire	0	
 orth	Dépuratoire		
 foreign	depuratotius	lat	
@@ -5889,7 +5889,7 @@ foreign	despumatio	lat
 entry	Desquamation	0	
 orth	Desquamation		
 foreign	desquamatio	lat	
-pb	97		
+pb	97	0113	
 entry	Dessiccatif	0	
 orth	Dessiccatif		
 foreign	dessiccaÛVus	lat	
@@ -5962,7 +5962,7 @@ foreign	diabrOsis	lat
 entry	Diabrotique	1	
 orth	Diabrotique		
 foreign	diabroticus	lat	
-pb	98		
+pb	98	0114	
 entry	Diacarthame	0	
 orth	Diacarthame		
 entry	Diacaustique	0	
@@ -6016,7 +6016,7 @@ foreign	dialthœa	lat
 entry	Diamant	1	
 orth	Diamant		
 foreign	a lamas	lat	
-pb	99		
+pb	99	0115	
 entry	Diamargariton	0	
 orth	Diamargariton		
 entry	Diamètre	0	
@@ -6068,7 +6068,7 @@ orth	Diaphragme
 foreign	diaphragma	lat	
 foreign	phrenes	lat	
 foreign	disceptum	lat	
-pb	100		
+pb	100	0116	
 entry	Diaphragmitis	0	
 orth	Diaphragmitis		
 entry	Diaphthora	0	
@@ -6118,7 +6118,7 @@ foreign	diathesis	lat
 entry	Dichotome	0	
 orth	Dichotome		
 foreign	dichotomus	lat	
-pb	101		
+pb	101	0117	
 entry	Dicline	0	
 orth	Dicline		
 foreign	diclinis	lat	
@@ -6176,7 +6176,7 @@ foreign	diœteiice	lat
 foreign	diœtetica	lat	
 clique	Diète		
 foreign	diœte-ticus	lat	
-pb	102		
+pb	102	0118	
 entry	Diffus	0	
 orth	Diffus		
 foreign	diffusus	lat	
@@ -6234,7 +6234,7 @@ foreign	aiodones	lat
 entry	Diœcie	1	
 orth	Diœcie		
 foreign	diœcia	lat	
-pb	103		
+pb	103	0119	
 entry	Dioïque	0	
 orth	Dioïque		
 foreign	didïcus	lat	
@@ -6291,7 +6291,7 @@ entry	Discussif	1
 orth	Discussif		
 foreign	discutiens	lat	
 foreign	discussorius	lat	
-pb	104		
+pb	104	0120	
 entry	Dislocation	0	
 orth	Dislocation		
 foreign	dislocaüo	lat	
@@ -6330,7 +6330,7 @@ orth	Dissolution
 foreign	dissolutio	lat	
 entry	Dissolvant	0	
 orth	Dissolvant		
-pb	105		
+pb	105	0121	
 entry	Distension	0	
 orth	Distension		
 foreign	distentio	lat	
@@ -6396,7 +6396,7 @@ foreign	dodecagonus	lat
 entry	Dodécagynie	1	
 orth	Dodécagynie		
 foreign	dQdeCagy’nia	lat	
-pb	106		
+pb	106	0122	
 entry	Dodécandrie	0	
 orth	Dodécandrie		
 foreign	dodecafldria	lat	
@@ -6450,7 +6450,7 @@ foreign	dracunculi	lat
 entry	Dragons	1	
 orth	Dragons		
 foreign	dracones 9	lat	
-pb	107		
+pb	107	0123	
 entry	Drapé	0	
 orth	Drapé		
 foreign	tomentosus	lat	
@@ -6523,7 +6523,7 @@ foreign	dysodia	lat
 entry	Dysorexie	0	
 orth	Dysorexie		
 foreign	dysorexia	lat	
-pb	108		
+pb	108	0124	
 entry	Dyspepsie	0	
 orth	Dyspepsie		
 foreign	dyspepsia	lat	
@@ -6566,7 +6566,7 @@ clique	Alcohol
 entry	Eaux médicinales	1	
 orth	Eaux médicinales		
 foreign	aquœ medicœ	lat	
-pb	109		
+pb	109	0125	
 entry	Ébullition	0	
 orth	Ébullition		
 foreign	ebulliÜO	lat	
@@ -6599,7 +6599,7 @@ foreign	eccorthaticus	lat
 entry	Eccrinologie	1	
 orth	Eccrinologie		
 foreign	eccxinologia	lat	
-pb	110		
+pb	110	0126	
 entry	Échancré	0	
 orth	Échancré		
 foreign	ematginatus	lat	
@@ -6661,7 +6661,7 @@ orth	Éclipse
 entry	Écliptique	1	
 orth	Écliptique		
 foreign	eclipdica	lat	
-pb	111		
+pb	111	0127	
 entry	Éclisse	0	
 orth	Éclisse		
 foreign	ferula	lat	
@@ -6724,7 +6724,7 @@ foreign	edulcoratio	lat
 entry	Effervescence	1	
 orth	Effervescence		
 foreign	effervescentia	lat	
-pb	112		
+pb	112	0128	
 entry	Efficace	0	
 orth	Efficace		
 foreign	efficax	lat	
@@ -6789,7 +6789,7 @@ foreign	elaterium	lat
 entry	Élection	0	
 orth	Élection		
 foreign	electio	lat	
-pb	113		
+pb	113	0129	
 entry	Électricité	0	
 orth	Électricité		
 foreign	electricitas	lat	
@@ -6837,7 +6837,7 @@ entry	Ellébore	0
 orth	Ellébore		
 foreign	helleborus	lat	
 foreign	du	lat	
-pb	114		
+pb	114	0130	
 entry	Ellipse	0	
 orth	Ellipse		
 foreign	ellipsis	lat	
@@ -6896,7 +6896,7 @@ entry	Embryon	0
 orth	Embryon		
 entry	Embryothlaste	1	
 orth	Embryothlaste		
-pb	115		
+pb	115	0131	
 entry	Embryotomie	0	
 orth	Embryotomie		
 foreign	erBbryo'tpniia	lat	
@@ -6960,7 +6960,7 @@ clique	Thlipsie
 entry	Emphysème	1	
 orth	Emphysème		
 foreign	emphysema f tulnor flatulentus	lat	
-pb	116		
+pb	116	0132	
 entry	Empirique	0	
 orth	Empirique		
 foreign	ernpiricus	lat	
@@ -7024,7 +7024,7 @@ foreign	encephalithes	lat
 entry	Encéphalocèle	1	
 orth	Encéphalocèle		
 foreign	encepllaloCele	lat	
-pb	117		
+pb	117	0133	
 entry	Enchifrenement	0	
 orth	Enchifrenement		
 foreign	coryza gravedo	lat	
@@ -7097,7 +7097,7 @@ entry	Engelure	1
 orth	Engelure		
 foreign	pernio	lat	
 foreign	bugantia	lat	
-pb	118		
+pb	118	0134	
 entry	Engourdissement	0	
 orth	Engourdissement		
 foreign	torpor	lat	
@@ -7146,7 +7146,7 @@ foreign	eccope	lat
 entry	Entérite	1	
 orth	Entérite		
 foreign	cnteritis	lat	
-pb	119		
+pb	119	0135	
 entry	Entérocèle	0	
 orth	Entérocèle		
 foreign	enterocele	lat	
@@ -7219,7 +7219,7 @@ foreign	enucdeaüo	lat
 entry	Envergure	1	
 orth	Envergure		
 foreign	alarurn explicatio	lat	
-pb	120		
+pb	120	0136	
 entry	Envie	0	
 orth	Envie		
 foreign	nu vus	lat	
@@ -7265,7 +7265,7 @@ foreign	epialus	lat
 entry	Épian	0	
 orth	Épian		
 clique	Frambaesia		
-pb	121		
+pb	121	0137	
 entry	Épicarpe	0	
 orth	Épicarpe		
 foreign	epicarpium	lat	
@@ -7318,7 +7318,7 @@ foreign	epigenesis	lat
 entry	Épiginomènes	1	
 orth	Épiginomènes		
 foreign	epigivorrena	lat	
-pb	122		
+pb	122	0138	
 clique	Épiphénomènes		
 entry	Épiglotte	0	
 orth	Épiglotte		
@@ -7357,7 +7357,7 @@ foreign	spinalis	lat
 entry	Épinyctides	1	
 orth	Épinyctides		
 foreign	epinyctides	lat	
-pb	123		
+pb	123	0139	
 entry	Épiphénomènes	0	
 orth	Épiphénomènes		
 foreign	epiphœnomena	lat	
@@ -7408,7 +7408,7 @@ foreign	insidentia	lat
 entry	Épistaxis, Épistaxès	1	
 orth	Épistaxis		
 orth	Épistaxès		
-pb	124		
+pb	124	0140	
 entry	Épithème	0	
 orth	Épithème		
 foreign	epithema	lat	
@@ -7475,7 +7475,7 @@ entry	Équinoxe	1
 orth	Équinoxe		
 foreign	œquinoctium	lat	
 foreign	( Vœquusy	lat	
-pb	125		
+pb	125	0141	
 entry	Équinoxial	0	
 orth	Équinoxial		
 foreign	œquinoctialis	lat	
@@ -7544,7 +7544,7 @@ entry	Érugineux	1
 orth	Érugineux		
 foreign	oeruginosus	lat	
 foreign	œrugineus	lat	
-pb	126		
+pb	126	0142	
 entry	Éruption	0	
 orth	Éruption		
 foreign	eruptio	lat	
@@ -7598,7 +7598,7 @@ foreign	essentia	lat
 entry	Essentiel	1	
 orth	Essentiel		
 foreign	essentia’ lis	lat	
-pb	127		
+pb	127	0143	
 entry	Essère, Esséra, Sora	0	
 orth	Essère		
 orth	Esséra		
@@ -7642,7 +7642,7 @@ clique	Étésien
 entry	Éther	1	
 orth	Éther		
 foreign	oether	lat	
-pb	128		
+pb	128	0144	
 entry	Éthiops	0	
 orth	Éthiops		
 foreign	greccdüio^	lat	
@@ -7704,7 +7704,7 @@ foreign	eunuchus	lat
 entry	Eupepsie	1	
 orth	Eupepsie		
 foreign	eupepsia	lat	
-pb	129		
+pb	129	0145	
 entry	Euphonie	0	
 orth	Euphonie		
 foreign	euphonia	lat	
@@ -7756,7 +7756,7 @@ orth	Exanthème
 foreign	exatithema	lat	
 foreign	efflorescentia	lat	
 foreign	effioratio	lat	
-pb	130		
+pb	130	0146	
 entry	Exaspération	0	
 orth	Exaspération		
 foreign	exasperatio	lat	
@@ -7814,7 +7814,7 @@ entry	Exfoliation	0
 orth	Exfoliation		
 foreign	exfioliaiio	lat	
 foreign	desquamatio	lat	
-pb	131		
+pb	131	0147	
 entry	Exhalaison	0	
 orth	Exhalaison		
 foreign	exhalatio	lat	
@@ -7882,7 +7882,7 @@ foreign	expulsorius	lat
 entry	Exsanguin	0	
 orth	Exsanguin		
 foreign	d'ex	lat	
-pb	132		
+pb	132	0148	
 entry	Exsiccation	0	
 orth	Exsiccation		
 foreign	exsiccatio	lat	
@@ -7928,7 +7928,7 @@ entry	Extravasation, Extravasion	1
 orth	Extravasation		
 orth	Extravasion		
 foreign	extravasatio	lat	
-pb	133		
+pb	133	0149	
 entry	Extravasé	0	
 orth	Extravasé		
 foreign	extravasaius	lat	
@@ -7998,7 +7998,7 @@ entry	Famille	1
 orth	Famille		
 foreign	jdmilia	lat	
 foreign	ordo	lat	
-pb	134		
+pb	134	0150	
 entry	Fanons	0	
 orth	Fanons		
 foreign	ferulœ	lat	
@@ -8072,7 +8072,7 @@ foreign	fecundatio	lat
 entry	Fécule	1	
 orth	Fécule		
 foreign	fecula	lat	
-pb	135		
+pb	135	0151	
 entry	Féculence	0	
 orth	Féculence		
 foreign	fœculentia	lat	
@@ -8141,7 +8141,7 @@ foreign	gluteus	lat
 entry	Fétide	1	
 orth	Fétide		
 foreign	fœtidus	lat	
-pb	136		
+pb	136	0152	
 entry	Feu	0	
 orth	Feu		
 foreign	ignis	lat	
@@ -8182,7 +8182,7 @@ clique	Bile
 entry	Fièvre	1	
 orth	Fièvre		
 foreign	febris'-	lat	
-pb	137		
+pb	137	0153	
 entry	Fiévreux	0	
 orth	Fiévreux		
 foreign	febricosus	lat	
@@ -8243,7 +8243,7 @@ foreign	flstulosus	lat
 entry	Fixation	0	
 orth	Fixation		
 foreign	fixmtio	lat	
-pb	138		
+pb	138	0154	
 entry	Fixe	0	
 orth	Fixe		
 foreign	fixus	lat	
@@ -8310,7 +8310,7 @@ foreign	flosculus	lat
 entry	Fleurs	1	
 orth	Fleurs		
 foreign	fiores	lat	
-pb	139		
+pb	139	0155	
 entry	Fleurs, Flueurs, Régles	0	
 orth	Fleurs		
 orth	Flueurs		
@@ -8369,7 +8369,7 @@ foreign	fiuidus	lat
 clique	Okx		
 entry	Fluidité	1	
 orth	Fluidité		
-pb	140		
+pb	140	0156	
 clique	Fluide		
 entry	Fluor	0	
 orth	Fluor		
@@ -8403,7 +8403,7 @@ entry	Foie	0
 orth	Foie		
 foreign	jecur	lat	
 clique	Sulfuré		
-pb	141		
+pb	141	0157	
 entry	Foliacé	0	
 orth	Foliacé		
 foreign	foliaceus	lat	
@@ -8452,7 +8452,7 @@ orth	Fongueux
 foreign	fungosus	lat	
 entry	Fongus	0	
 orth	Fongus		
-pb	142		
+pb	142	0158	
 entry	Fontanelle	0	
 orth	Fontanelle		
 foreign	fons pUlsaiilis	lat	
@@ -8468,7 +8468,7 @@ clique	Centrifuge
 clique	Affinité		
 entry	Forceps	1	
 orth	Forceps		
-pb	143		
+pb	143	0159	
 entry	Formiate	0	
 orth	Formiate		
 foreign	formias	lat	
@@ -8508,7 +8508,7 @@ foreign	focus	lat
 entry	Fracture	1	
 orth	Fracture		
 foreign	fractura	lat	
-pb	144		
+pb	144	0160	
 entry	Fragilité	0	
 orth	Fragilité		
 foreign	fragilitas	lat	
@@ -8539,7 +8539,7 @@ entry	Frémissement	1
 orth	Frémissement		
 foreign	horror	lat	
 foreign	fremitus	lat	
-pb	145		
+pb	145	0161	
 entry	Frénésie	0	
 orth	Frénésie		
 foreign	phrellitis	lat	
@@ -8582,7 +8582,7 @@ foreign	frigus	lat
 entry	Fromage	0	
 orth	Fromage		
 foreign	caseus	lat	
-pb	146		
+pb	146	0162	
 entry	Fronde	0	
 orth	Fronde		
 foreign	funda	lat	
@@ -8635,7 +8635,7 @@ foreign	fumigatio	lat
 entry	Fureur utérine	1	
 orth	Fureur utérine		
 foreign	furOT uteridius	lat	
-pb	147		
+pb	147	0163	
 entry	Furfuracé	0	
 orth	Furfuracé		
 foreign	fiILrfuraceus	lat	
@@ -8689,7 +8689,7 @@ orth	Galactophage
 foreign	galactophagus	lat	
 entry	Galactophore	1	
 orth	Galactophore		
-pb	148		
+pb	148	0164	
 entry	Galactopoièse	0	
 orth	Galactopoièse		
 foreign	geloctopoiesis	lat	
@@ -8725,7 +8725,7 @@ foreign	gallas	lat
 entry	Galle	0	
 orth	Galle		
 foreign	galla	lat	
-pb	149		
+pb	149	0165	
 entry	Gallin, Acide gallique	0	
 orth	Gallin		
 orth	Acide gallique		
@@ -8756,7 +8756,7 @@ orth	Gastéropodes
 foreign	gasteropodes	lat	
 entry	Gastérostées	0	
 orth	Gastérostées		
-pb	150		
+pb	150	0166	
 entry	Gastriloque	0	
 orth	Gastriloque		
 clique	Engastrimythe		
@@ -8807,7 +8807,7 @@ clique	Gélatine
 entry	Gémination	1	
 orth	Gémination		
 foreign	genliIIatio	lat	
-pb	151		
+pb	151	0167	
 entry	Géminé	0	
 orth	Géminé		
 foreign	geminus	lat	
@@ -8868,7 +8868,7 @@ foreign	geocentricus	lat
 entry	Géocyclique	1	
 orth	Géocyclique		
 foreign	geocyclica	lat	
-pb	152		
+pb	152	0168	
 entry	Géode	0	
 orth	Géode		
 foreign	geodes	lat	
@@ -8932,7 +8932,7 @@ clique	Ensiforme
 entry	Glaire	1	
 orth	Glaire		
 foreign	lenta et viscosa materia	lat	
-pb	153		
+pb	153	0169	
 entry	Glaise, Argile	0	
 orth	Glaise		
 orth	Argile		
@@ -8980,7 +8980,7 @@ foreign	glossocomum	lat
 entry	Glossographie	1	
 orth	Glossographie		
 foreign	glossographia	lat	
-pb	154		
+pb	154	0170	
 entry	Glossoïde	0	
 orth	Glossoïde		
 foreign	glossdïdes	lat	
@@ -9034,7 +9034,7 @@ orth	Gouètre
 entry	Gomme	1	
 orth	Gomme		
 foreign	gummi	lat	
-pb	155		
+pb	155	0171	
 clique	Muqueux		
 entry	Gomme-résine	0	
 orth	Gomme-résine		
@@ -9095,7 +9095,7 @@ foreign	gustus	lat
 entry	Goutte	1	
 orth	Goutte		
 foreign	arthritis	lat	
-pb	156		
+pb	156	0172	
 clique	Podagre		
 clique	Gonagre		
 clique	Chiragre		
@@ -9137,7 +9137,7 @@ foreign	gran.ulatio	lat
 entry	Graphioïde	1	
 orth	Graphioïde		
 foreign	graphioïiles	lat	
-pb	157		
+pb	157	0173	
 entry	Graphomètre	0	
 orth	Graphomètre		
 foreign	graphometriun	lat	
@@ -9227,7 +9227,7 @@ foreign	gustatio	lat
 entry	Guttural	1	
 orth	Guttural		
 foreign	gutturalis	lat	
-pb	158		
+pb	158	0174	
 entry	Gymnase	0	
 orth	Gymnase		
 foreign	gymnasium	lat	
@@ -9291,7 +9291,7 @@ foreign	halluciVIatio	lat
 foreign	allucinatio	lat	
 entry	Halo	1	
 orth	Halo		
-pb	159		
+pb	159	0175	
 entry	Halotechnie	0	
 orth	Halotechnie		
 foreign	halotcchnia	lat	
@@ -9364,7 +9364,7 @@ foreign	hCliOcentricus	lat
 entry	Héliocomète	0	
 orth	Héliocomète		
 foreign	heliocometes	lat	
-pb	160		
+pb	160	0176	
 entry	Héliomètre	0	
 orth	Héliomètre		
 foreign	heliomeirum	lat	
@@ -9433,7 +9433,7 @@ foreign	hœmaluria	lat
 entry	Héméralopie	1	
 orth	Héméralopie		
 foreign	hemeralopia	lat	
-pb	161		
+pb	161	0177	
 entry	Hémérobe	0	
 orth	Hémérobe		
 foreign	hemerobius	lat	
@@ -9498,7 +9498,7 @@ orth	Hémorroscopie
 foreign	hœmorrhoscopia	lat	
 entry	Hémorrous	1	
 orth	Hémorrous		
-pb	162		
+pb	162	0178	
 entry	Hémostase, Hémostasie	0	
 orth	Hémostase		
 orth	Hémostasie		
@@ -9563,7 +9563,7 @@ foreign	herba	lat
 entry	Herbier	0	
 orth	Herbier		
 foreign	herbarium	lat	
-pb	163		
+pb	163	0179	
 entry	Herbivore	0	
 orth	Herbivore		
 foreign	herbivorus	lat	
@@ -9638,7 +9638,7 @@ foreign	hexagynia	lat
 entry	Hexandrie	1	
 orth	Hexandrie		
 foreign	hexa/Idria	lat	
-pb	164		
+pb	164	0180	
 foreign	hexandricus	lat	
 entry	Hexapétalé	0	
 orth	Hexapétalé		
@@ -9702,7 +9702,7 @@ orth	Hippolithe
 entry	Hippomane	1	
 orth	Hippomane		
 foreign	hippomanes	lat	
-pb	165		
+pb	165	0181	
 entry	Hippopotame	0	
 orth	Hippopotame		
 foreign	hippopotanlus	lat	
@@ -9755,7 +9755,7 @@ foreign	homogeIIes	lat
 entry	Homologue	0	
 orth	Homologue		
 foreign	homologus	lat	
-pb	166		
+pb	166	0182	
 entry	Homomalle	0	
 orth	Homomalle		
 foreign	homomallus	lat	
@@ -9797,7 +9797,7 @@ foreign	apex	lat
 entry	Huile	1	
 orth	Huile		
 foreign	oleum	lat	
-pb	167		
+pb	167	0183	
 entry	Huître	0	
 orth	Huître		
 foreign	ostreum	lat	
@@ -9832,7 +9832,7 @@ orth	Humoriste
 entry	Hyacinthe	1	
 orth	Hyacinthe		
 foreign	hyacinthus	lat	
-pb	168		
+pb	168	0184	
 entry	Hyaloïde	0	
 orth	Hyaloïde		
 foreign	hyadodes	lat	
@@ -9877,7 +9877,7 @@ foreign	hydren' teroeele	lat
 entry	Hydres, Polypes à bras	1	
 orth	Hydres		
 orth	Polypes à bras		
-pb	169		
+pb	169	0185	
 entry	Hydrocardie	0	
 orth	Hydrocardie		
 foreign	hydrocarelia	lat	
@@ -9934,7 +9934,7 @@ foreign	hydronlphalum	lat
 entry	Hydro-péricarde	1	
 orth	Hydro-péricarde		
 foreign	ÏIydro-	lat	
-pb	170		
+pb	170	0186	
 entry	Hydrophane	0	
 orth	Hydrophane		
 entry	Hydrophides	0	
@@ -9988,7 +9988,7 @@ orth	Hydrostatique
 foreign	hydrostatice	lat	
 entry	Hydrothorax	1	
 orth	Hydrothorax		
-pb	171		
+pb	171	0187	
 entry	Hydrotique	0	
 orth	Hydrotique		
 foreign	hydroticus	lat	
@@ -10033,7 +10033,7 @@ foreign	hymenodes	lat
 entry	Hyménographie	1	
 orth	Hyménographie		
 foreign	hymenographia	lat	
-pb	172		
+pb	172	0188	
 entry	Hyménologie	0	
 orth	Hyménologie		
 foreign	hymenologia	lat	
@@ -10091,7 +10091,7 @@ entry	Hypercrise, Hypercrisie	0
 orth	Hypercrise		
 orth	Hypercrisie		
 foreign	hypercrisis	lat	
-pb	173		
+pb	173	0189	
 entry	Hypérésie	0	
 orth	Hypérésie		
 foreign	hyperèsia	lat	
@@ -10150,7 +10150,7 @@ foreign	hypoglossus	lat
 entry	Hypogyne, Hypogynique	0	
 orth	Hypogyne		
 orth	Hypogynique		
-pb	174		
+pb	174	0190	
 entry	Hypomochlion	0	
 orth	Hypomochlion		
 entry	Hypophasie	0	
@@ -10198,7 +10198,7 @@ entry	Hystérie	1
 orth	Hystérie		
 foreign	hystoriu	lat	
 foreign	passio	lat	
-pb	175		
+pb	175	0191	
 entry	Hystérique	0	
 orth	Hystérique		
 foreign	hystericus	lat	
@@ -10248,7 +10248,7 @@ foreign	iclltyocolla	lat
 entry	Ichtyolithe	1	
 orth	Ichtyolithe		
 foreign	ichtyolithes	lat	
-pb	176		
+pb	176	0192	
 entry	Ichtyologie	0	
 orth	Ichtyologie		
 foreign	ichthyologia	lat	
@@ -10311,7 +10311,7 @@ foreign	ignitio	lat
 entry	Ignivore	1	
 orth	Ignivore		
 foreign	ignivo-	lat	
-pb	177		
+pb	177	0193	
 entry	Iléo-colique	0	
 orth	Iléo-colique		
 clique	Iléon		
@@ -10344,7 +10344,7 @@ foreign	imago	lat
 entry	Imagination	1	
 orth	Imagination		
 foreign	imaginatio	lat	
-pb	178		
+pb	178	0194	
 entry	Imberbe	0	
 orth	Imberbe		
 foreign	imberbis	lat	
@@ -10413,7 +10413,7 @@ entry	Inappétence	0
 orth	Inappétence		
 foreign	inappetentia	lat	
 clique	Anorexie		
-pb	179		
+pb	179	0195	
 entry	Incalicé	0	
 orth	Incalicé		
 foreign	incalicatus	lat	
@@ -10470,7 +10470,7 @@ orth	Incommensurable
 entry	Incontinence	1	
 orth	Incontinence		
 foreign	incontlnentia	lat	
-pb	180		
+pb	180	0196	
 entry	Incorporation	0	
 orth	Incorporation		
 foreign	iTlcorpOratio	lat	
@@ -10517,7 +10517,7 @@ orth	Index
 entry	Indication	1	
 orth	Indication		
 foreign	indîcatio	lat	
-pb	181		
+pb	181	0197	
 entry	Indigène	0	
 orth	Indigène		
 foreign	indigenus	lat	
@@ -10589,7 +10589,7 @@ clique	Bouclement
 entry	Infiltration	1	
 orth	Infiltration		
 foreign	infiltratio	lat	
-pb	182		
+pb	182	0198	
 entry	Infinitésimal	0	
 orth	Infinitésimal		
 foreign	d.'infinitus	lat	
@@ -10639,7 +10639,7 @@ foreign	inhoerens	lat
 entry	Inhumation	1	
 orth	Inhumation		
 foreign	ÙlllumatiO	lat	
-pb	183		
+pb	183	0199	
 entry	Injection	0	
 orth	Injection		
 foreign	iIIjectio	lat	
@@ -10703,7 +10703,7 @@ clique	Agrypnie
 entry	Inspiration	1	
 orth	Inspiration		
 foreign	inspiratio	lat	
-pb	184		
+pb	184	0200	
 clique	Respiration		
 entry	Instantané	0	
 orth	Instantané		
@@ -10773,7 +10773,7 @@ foreign	intercurfens	lat
 entry	Inter-épineux	1	
 orth	Inter-épineux		
 foreign	interspinosus	lat	
-pb	185		
+pb	185	0201	
 entry	Interlobulaire	0	
 orth	Interlobulaire		
 foreign	d'inter	lat	
@@ -10827,7 +10827,7 @@ entry	Intestin, Boyau	1
 orth	Intestin		
 orth	Boyau		
 foreign	intéstinum	lat	
-pb	186		
+pb	186	0202	
 clique	Coecum		
 clique	Colon		
 clique	Rectum		
@@ -10889,7 +10889,7 @@ foreign	irradiatio	lat
 entry	Irréductible	1	
 orth	Irréductible		
 foreign	ddn	lat	
-pb	187		
+pb	187	0203	
 entry	Irritabilité	0	
 orth	Irritabilité		
 foreign	irritabilitas	lat	
@@ -10947,7 +10947,7 @@ foreign	ebur	lat
 entry	Jabot	1	
 orth	Jabot		
 foreign	ingluvies	lat	
-pb	188		
+pb	188	0204	
 entry	Jaculatoire	0	
 orth	Jaculatoire		
 foreign	jaculatorius	lat	
@@ -10991,7 +10991,7 @@ orth	Jectigation
 foreign	jectigatio	lat	
 entry	Jéjunum	1	
 orth	Jéjunum		
-pb	189		
+pb	189	0205	
 entry	Jointure	0	
 orth	Jointure		
 foreign	junctura	lat	
@@ -11043,7 +11043,7 @@ orth	Chiastre
 foreign	kiaster	lat	
 entry	Kilogramme	0	
 orth	Kilogramme		
-pb	190		
+pb	190	0206	
 entry	Kilolitre	0	
 orth	Kilolitre		
 clique	Litre		
@@ -11111,7 +11111,7 @@ orth	Lacustral
 foreign	lacustris	lat	
 entry	Ladanum	1	
 orth	Ladanum		
-pb	191		
+pb	191	0207	
 entry	Ladre	0	
 orth	Ladre		
 foreign	lepra	lat	
@@ -11161,7 +11161,7 @@ foreign	lingua	lat
 entry	Langueur	1	
 orth	Langueur		
 foreign	languor	lat	
-pb	192		
+pb	192	0208	
 entry	Lanifère	0	
 orth	Lanifère		
 foreign	laIIiger	lat	
@@ -11203,7 +11203,7 @@ orth	Latipostre
 entry	Latitude	1	
 orth	Latitude		
 foreign	latitudo	lat	
-pb	193		
+pb	193	0209	
 entry	Lavement	0	
 orth	Lavement		
 clique	Clystère		
@@ -11265,7 +11265,7 @@ entry	Lèpre, Ladrerie	1
 orth	Lèpre		
 orth	Ladrerie		
 foreign	leprfl	lat	
-pb	194		
+pb	194	0210	
 entry	Lépreux	0	
 orth	Lépreux		
 foreign	leprosus	lat	
@@ -11304,7 +11304,7 @@ foreign	albugo	lat
 entry	Leucorrhée	1	
 orth	Leucorrhée		
 foreign	leucorrhea	lat	
-pb	195		
+pb	195	0211	
 entry	Levain	0	
 orth	Levain		
 foreign	fiermentum	lat	
@@ -11355,7 +11355,7 @@ foreign	ligatio	lat
 foreign	deligaüo	lat	
 foreign	vincturae	lat	
 foreign	fascia	lat	
-pb	196		
+pb	196	0212	
 entry	Ligne	0	
 orth	Ligne		
 foreign	Unea	lat	
@@ -11412,7 +11412,7 @@ foreign	litus	lat
 foreign	fncium	lat	
 foreign	frwatorium	lat	
 foreign	inunctio	lat	
-pb	197		
+pb	197	0213	
 entry	Lion	0	
 orth	Lion		
 foreign	leo	lat	
@@ -11480,7 +11480,7 @@ foreign	lithologia	lat
 entry	Lithontriptique	1	
 orth	Lithontriptique		
 foreign	litltoiLLripticus	lat	
-pb	198		
+pb	198	0214	
 entry	Lithophage	0	
 orth	Lithophage		
 foreign	lithophagus	lat	
@@ -11534,7 +11534,7 @@ foreign	logica	lat
 entry	Logographie	1	
 orth	Logographie		
 foreign	logographia	lat	
-pb	199		
+pb	199	0215	
 entry	Logomachie	0	
 orth	Logomachie		
 foreign	logomachia	lat	
@@ -11585,7 +11585,7 @@ foreign	lupia	lat
 entry	Lozange	1	
 orth	Lozange		
 foreign	lozanga	lat	
-pb	200		
+pb	200	0216	
 entry	Lubricité	0	
 orth	Lubricité		
 foreign	lubricitas	lat	
@@ -11635,7 +11635,7 @@ foreign	lycaudhropia	lat
 entry	Lycée	1	
 orth	Lycée		
 foreign	lyxeum	lat	
-pb	201		
+pb	201	0217	
 entry	Lychnis	0	
 orth	Lychnis		
 entry	Lycopode	0	
@@ -11680,7 +11680,7 @@ foreign	mandibula	lat
 entry	Macrocéphale	1	
 orth	Macrocéphale		
 foreign	macrocéphalus	lat	
-pb	202		
+pb	202	0218	
 entry	Macrocosme	0	
 orth	Macrocosme		
 foreign	macrocosItllls	lat	
@@ -11723,7 +11723,7 @@ orth	Magnétique
 foreign	magneticus	lat	
 entry	Magnétisme	1	
 orth	Magnétisme		
-pb	203		
+pb	203	0219	
 entry	Main	0	
 orth	Main		
 entry	Mal	0	
@@ -11759,7 +11759,7 @@ foreign	morlius	lat
 entry	Maladie	1	
 orth	Maladie		
 foreign	nlorbosusf in'	lat	
-pb	204		
+pb	204	0220	
 entry	Maladrerie	0	
 orth	Maladrerie		
 foreign	nosocomium	lat	
@@ -11812,7 +11812,7 @@ orth	Mammaire
 foreign	mamma	lat	
 entry	Mammifère	1	
 orth	Mammifère		
-pb	205		
+pb	205	0221	
 entry	Mammiforme	0	
 orth	Mammiforme		
 foreign	mamnliformis	lat	
@@ -11861,7 +11861,7 @@ foreign	manometrum	lat
 entry	Manoscope	1	
 orth	Manoscope		
 foreign	manoscopium	lat	
-pb	206		
+pb	206	0222	
 entry	Marasme	0	
 orth	Marasme		
 foreign	rnarasmus	lat	
@@ -11919,7 +11919,7 @@ foreign	mastxatoritsm	lat
 entry	Mastoïde	1	
 orth	Mastoïde		
 foreign	mastoïdes	lat	
-pb	207		
+pb	207	0223	
 foreign	mastoïdeus	lat	
 entry	Mastupration	0	
 orth	Mastupration		
@@ -11972,7 +11972,7 @@ foreign	struCtura	lat
 entry	Méconite	1	
 orth	Méconite		
 foreign	meconitis	lat	
-pb	208		
+pb	208	0224	
 entry	Méconium	0	
 orth	Méconium		
 entry	Médecin	0	
@@ -12020,7 +12020,7 @@ foreign	medullaris	lat
 entry	Méduses	1	
 orth	Méduses		
 foreign	medusce	lat	
-pb	209		
+pb	209	0225	
 entry	Mélanagogue	0	
 orth	Mélanagogue		
 foreign	nlelanagogus	lat	
@@ -12060,8 +12060,8 @@ foreign	morbus niger	lat
 entry	Membrane	2	
 orth	Membrane		
 foreign	membrana	lat	
-pb	210		
-pb	211		
+pb	210	0226	
+pb	211	0227	
 entry	Membres	0	
 orth	Membres		
 foreign	membra	lat	
@@ -12082,7 +12082,7 @@ foreign	meninges	lat
 entry	Méningo-gastrique	1	
 orth	Méningo-gastrique		
 foreign	meningo-gastricus	lat	
-pb	212		
+pb	212	0228	
 entry	Méningophylax	0	
 orth	Méningophylax		
 foreign	menilLgophylax	lat	
@@ -12113,7 +12113,7 @@ foreign	nientalis	lat
 entry	Méphitique	1	
 orth	Méphitique		
 foreign	mephiticus	lat	
-pb	213		
+pb	213	0229	
 foreign	meplùtismus	lat	
 entry	Mercure	0	
 orth	Mercure		
@@ -12160,7 +12160,7 @@ orth	Mésolabe
 foreign	mesolabium	lat	
 entry	Mésorectum	1	
 orth	Mésorectum		
-pb	214		
+pb	214	0230	
 entry	Mésothénar	0	
 orth	Mésothénar		
 clique	Antithénar		
@@ -12194,7 +12194,7 @@ foreign	rnetaptosis	lat
 entry	Métastase	1	
 orth	Métastase		
 foreign	metastasis	lat	
-pb	215		
+pb	215	0231	
 entry	Métasyncrise	0	
 orth	Métasyncrise		
 foreign	metasyncrisis	lat	
@@ -12225,7 +12225,7 @@ foreign	methodus	lat
 entry	Métoposcopie	0	
 orth	Métoposcopie		
 foreign	metoposcopia	lat	
-pb	216		
+pb	216	0232	
 entry	Mètre	0	
 orth	Mètre		
 foreign	mctrum	lat	
@@ -12264,7 +12264,7 @@ foreign	micrographia	lat
 entry	Microlépidore	1	
 orth	Microlépidore		
 foreign	microlepidorus	lat	
-pb	217		
+pb	217	0233	
 entry	Micromètre	0	
 orth	Micromètre		
 foreign	mîcrometrium	lat	
@@ -12322,7 +12322,7 @@ orth	Minium
 entry	Minoratif	1	
 orth	Minoratif		
 foreign	minorare	lat	
-pb	218		
+pb	218	0234	
 clique	Laxatif		
 clique	Eccoprotique		
 entry	Misanthropie	0	
@@ -12387,7 +12387,7 @@ foreign	molybdas	lat
 entry	Molybdène	1	
 orth	Molybdène		
 foreign	molybdos	lat	
-pb	219		
+pb	219	0235	
 entry	Molybdique	0	
 orth	Molybdique		
 foreign	molybdicus ;	lat	
@@ -12454,7 +12454,7 @@ entry	Monstre, Monstruosité	1
 orth	Monstre		
 orth	Monstruosité		
 foreign	monstrum;sice	lat	
-pb	220		
+pb	220	0236	
 entry	Mont-de-Vénus	0	
 orth	Mont-de-Vénus		
 foreign	juons Veneris	lat	
@@ -12519,7 +12519,7 @@ foreign	mucilaginosus	lat
 entry	Mucosité	1	
 orth	Mucosité		
 foreign	mucositas	lat	
-pb	221		
+pb	221	0237	
 entry	Mucroné	0	
 orth	Mucroné		
 foreign	mucronatus	lat	
@@ -12582,7 +12582,7 @@ foreign	muriaticus	lat
 entry	Muriatique oxygéné	1	
 orth	Muriatique oxygéné		
 foreign	munaücus oxygenatus	lat	
-pb	222		
+pb	222	0238	
 entry	Musc	0	
 orth	Musc		
 foreign	moschus	lat	
@@ -12647,7 +12647,7 @@ foreign	myrialitrum	lat
 entry	Myriamètre	1	
 orth	Myriamètre		
 foreign	myriametrum	lat	
-pb	223		
+pb	223	0239	
 entry	Myriare	0	
 orth	Myriare		
 entry	Myrmécie	0	
@@ -12711,7 +12711,7 @@ orth	Nasal
 foreign	nasalis	lat	
 entry	Nates	0	
 orth	Nates		
-pb	224		
+pb	224	0240	
 entry	Natron	0	
 orth	Natron		
 foreign	natrum	lat	
@@ -12751,7 +12751,7 @@ foreign	necrosis	lat
 entry	Nectaire	1	
 orth	Nectaire		
 foreign	nectariurn	lat	
-pb	225		
+pb	225	0241	
 entry	Nectopodes	0	
 orth	Nectopodes		
 entry	Népenthe	0	
@@ -12785,7 +12785,7 @@ foreign	de	lat
 entry	Nerf	1	
 orth	Nerf		
 foreign	nervus	lat	
-pb	226		
+pb	226	0242	
 entry	Nérites	0	
 orth	Nérites		
 foreign	neritae	lat	
@@ -12835,7 +12835,7 @@ orth	Nickel
 entry	Nidoreux	1	
 orth	Nidoreux		
 foreign	nidorosus	lat	
-pb	227		
+pb	227	0243	
 entry	Nitrate	0	
 orth	Nitrate		
 foreign	nitras	lat	
@@ -12876,7 +12876,7 @@ foreign	noctis	lat
 entry	Nocturlabe	1	
 orth	Nocturlabe		
 foreign	JlOcturlabium	lat	
-pb	228		
+pb	228	0244	
 entry	Nodus	0	
 orth	Nodus		
 clique	Tophus		
@@ -12945,7 +12945,7 @@ entry	Nuage	0
 orth	Nuage		
 foreign	nubes	lat	
 foreign	nubecula	lat	
-pb	229		
+pb	229	0245	
 entry	Nubécule	0	
 orth	Nubécule		
 foreign	nubecUla	lat	
@@ -12978,7 +12978,7 @@ foreign	nymphoto^ mia	lat
 entry	Obclavé	0	
 orth	Obclavé		
 foreign	obclavatus r	lat	
-pb	230		
+pb	230	0246	
 entry	Obconique	0	
 orth	Obconique		
 foreign	obconicus	lat	
@@ -13061,7 +13061,7 @@ foreign	octogynia	lat
 entry	Octopétalé	1	
 orth	Octopétalé		
 foreign	oclop^talus	lat	
-pb	231		
+pb	231	0247	
 clique	Pétale		
 entry	Octophylle	0	
 orth	Octophylle		
@@ -13134,7 +13134,7 @@ orth	Œnéléum
 entry	Œsophage	1	
 orth	Œsophage		
 foreign	œsophagus*	lat	
-pb	232		
+pb	232	0248	
 entry	Œsophagien	0	
 orth	Œsophagien		
 foreign	œsophageus	lat	
@@ -13193,7 +13193,7 @@ foreign	oligopllyllus	lat
 entry	Oligosperme	1	
 orth	Oligosperme		
 foreign	oligospermus	lat	
-pb	233		
+pb	233	0249	
 entry	Oligotrophie	0	
 orth	Oligotrophie		
 foreign	oligotro" phia	lat	
@@ -13251,7 +13251,7 @@ entry	Onction	1
 orth	Onction		
 foreign	unctio	lat	
 foreign	illitio	lat	
-pb	234		
+pb	234	0250	
 foreign	onctuosus	lat	
 foreign	oleosus	lat	
 entry	Ondé	0	
@@ -13311,7 +13311,7 @@ orth	Ophiase
 foreign	ophiasis	lat	
 entry	Ophidiens	1	
 orth	Ophidiens		
-pb	235		
+pb	235	0251	
 entry	Ophioglosse	0	
 orth	Ophioglosse		
 foreign	ophioglossum	lat	
@@ -13355,7 +13355,7 @@ orth	Opisto-gastrique
 foreign	opistogasiricus	lat	
 entry	Opium	1	
 orth	Opium		
-pb	236		
+pb	236	0252	
 entry	Opobalsamum	0	
 orth	Opobalsamum		
 entry	Opopanax	0	
@@ -13391,7 +13391,7 @@ foreign	orbiculatus	lat
 entry	Orbitaire	0	
 orth	Orbitaire		
 foreign	orbitarius	lat	
-pb	237		
+pb	237	0253	
 entry	Orbite	0	
 orth	Orbite		
 foreign	orbita	lat	
@@ -13443,7 +13443,7 @@ entry	Orgeolet, Orgelet	1
 orth	Orgeolet		
 orth	Orgelet		
 clique	Orgueilleux		
-pb	238		
+pb	238	0254	
 entry	Orifice	0	
 orth	Orifice		
 foreign	orificium	lat	
@@ -13495,7 +13495,7 @@ entry	Orthoptères	0
 orth	Orthoptères		
 entry	Orthorynques	1	
 orth	Orthorynques		
-pb	239		
+pb	239	0255	
 entry	Ortiée	0	
 orth	Ortiée		
 foreign	urticaria f'ebris	lat	
@@ -13545,7 +13545,7 @@ foreign	d^ffdir	lat
 entry	Ostéologie	1	
 orth	Ostéologie		
 foreign	OsKOlogia	lat	
-pb	240		
+pb	240	0256	
 entry	Ostéolithes	0	
 orth	Ostéolithes		
 foreign	OSteolithes	lat	
@@ -13605,7 +13605,7 @@ foreign	ursus	lat
 entry	Ovaire	1	
 orth	Ovaire		
 foreign	ovarium^	lat	
-pb	241		
+pb	241	0257	
 entry	Ovale	0	
 orth	Ovale		
 foreign	ovalis	lat	
@@ -13652,7 +13652,7 @@ foreign	oxymeli	lat
 entry	Oxyregmie	0	
 orth	Oxyregmie		
 foreign	oxyregmin	lat	
-pb	242		
+pb	242	0258	
 entry	Oxyrrhodin	0	
 orth	Oxyrrhodin		
 foreign	oxyrrhodinurn	lat	
@@ -13708,7 +13708,7 @@ orth	Palladium
 entry	Palliation	1	
 orth	Palliation		
 foreign	palliatio	lat	
-pb	243		
+pb	243	0259	
 entry	Palmaire	0	
 orth	Palmaire		
 foreign	palmarïs	lat	
@@ -13748,7 +13748,7 @@ orth	Pancrace
 foreign	pancratium 9	lat	
 entry	Pancréas	1	
 orth	Pancréas		
-pb	244		
+pb	244	0260	
 foreign	pancreaücus	lat	
 entry	Pandémie	0	
 orth	Pandémie		
@@ -13812,7 +13812,7 @@ orth	Papyracé
 foreign	papyraceUS	lat	
 entry	Papyrus	1	
 orth	Papyrus		
-pb	245		
+pb	245	0261	
 clique	Papier		
 entry	Parabolain	0	
 orth	Parabolain		
@@ -13859,7 +13859,7 @@ foreign	paralysis	lat
 entry	Paralytique	1	
 orth	Paralytique		
 foreign	paralyüeus	lat	
-pb	246		
+pb	246	0262	
 entry	Paramètre	0	
 orth	Paramètre		
 foreign	pararnetrum	lat	
@@ -13902,7 +13902,7 @@ foreign	parasynanche	lat
 clique	Esquinancie		
 entry	Parathénar	1	
 orth	Parathénar		
-pb	247		
+pb	247	0263	
 entry	Parégorique	0	
 orth	Parégorique		
 foreign	paregoricus	lat	
@@ -13954,7 +13954,7 @@ clique	Histérique
 entry	Pastille	1	
 orth	Pastille		
 foreign	pastillUs	lat	
-pb	248		
+pb	248	0264	
 entry	Pathétique	0	
 orth	Pathétique		
 foreign	patheticus	lat	
@@ -14016,7 +14016,7 @@ clique	Phthiriasis
 entry	Pédicule	1	
 orth	Pédicule		
 foreign	pediculus	lat	
-pb	249		
+pb	249	0265	
 entry	Pédiculé	0	
 orth	Pédiculé		
 foreign	pediculatus	lat	
@@ -14059,7 +14059,7 @@ foreign	pellicula	lat
 entry	Pemphigode	1	
 orth	Pemphigode		
 foreign	pemphigOdes	lat	
-pb	250		
+pb	250	0266	
 entry	Pemphigus	0	
 orth	Pemphigus		
 clique	Pemphigode		
@@ -14121,7 +14121,7 @@ foreign	pepasticus	lat
 entry	Pepin	1	
 orth	Pepin		
 foreign	granum	lat	
-pb	251		
+pb	251	0267	
 entry	Perception	0	
 orth	Perception		
 foreign	perceptio	lat	
@@ -14189,7 +14189,7 @@ foreign	perigynus	lat
 entry	Périgynique	1	
 orth	Périgynique		
 foreign	perigynus	lat	
-pb	252		
+pb	252	0268	
 entry	Périhélie	0	
 orth	Périhélie		
 foreign	perihelium	lat	
@@ -14248,7 +14248,7 @@ orth	Péristole
 foreign	peristole	lat	
 foreign	COH» tractio	lat	
 foreign	‘	lat	
-pb	253		
+pb	253	0269	
 clique	Péristaltique		
 entry	Périsystole	0	
 orth	Périsystole		
@@ -14291,7 +14291,7 @@ foreign	pCrpetuatiO	lat
 entry	Persistant	1	
 orth	Persistant		
 foreign	persistens	lat	
-pb	254		
+pb	254	0270	
 entry	Personnées	0	
 orth	Personnées		
 foreign	personnati	lat	
@@ -14326,7 +14326,7 @@ clique	Adéno-nerveux
 entry	Pétale	1	
 orth	Pétale		
 foreign	petalum	lat	
-pb	255		
+pb	255	0271	
 entry	Pétaloïde	0	
 orth	Pétaloïde		
 foreign	petalodes	lat	
@@ -14379,7 +14379,7 @@ foreign	pllagedœnicus	lat
 entry	Phalange	1	
 orth	Phalange		
 foreign	plialanx	lat	
-pb	256		
+pb	256	0272	
 entry	Phalangette	0	
 orth	Phalangette		
 clique	Phalange		
@@ -14439,7 +14439,7 @@ foreign	phuryngo-staphylinus	lat
 entry	Pharyngotome	1	
 orth	Pharyngotome		
 foreign	pllaryngotomus	lat	
-pb	257		
+pb	257	0273	
 entry	Pharyngotomie	0	
 orth	Pharyngotomie		
 foreign	pharyngotomia	lat	
@@ -14488,7 +14488,7 @@ foreign	phlebographia	lat
 entry	Phlébologie	1	
 orth	Phlébologie		
 foreign	phebologia	lat	
-pb	258		
+pb	258	0274	
 entry	Phlébotomie	0	
 orth	Phlébotomie		
 foreign	phlebotomia	lat	
@@ -14551,7 +14551,7 @@ orth	Phonocamptique
 entry	Phoques	1	
 orth	Phoques		
 foreign	phocÇB	lat	
-pb	259		
+pb	259	0275	
 entry	Phoronomie	0	
 orth	Phoronomie		
 entry	Phosphates	0	
@@ -14592,7 +14592,7 @@ foreign	pediculus	lat
 entry	Phthirophage	0	
 orth	Phthirophage		
 foreign	phthixophagus	lat	
-pb	260		
+pb	260	0276	
 entry	Phthisie	0	
 orth	Phthisie		
 entry	Phthisiologie	0	
@@ -14627,7 +14627,7 @@ entry	Physionomie	1
 orth	Physionomie		
 foreign	physiouO* mia	lat	
 foreign	de	lat	
-pb	261		
+pb	261	0277	
 entry	Physique	0	
 orth	Physique		
 foreign	physica	lat	
@@ -14671,7 +14671,7 @@ foreign	picrocholus	lat
 entry	Pied	1	
 orth	Pied		
 foreign	pes	lat	
-pb	262		
+pb	262	0278	
 entry	Pie-mère	0	
 orth	Pie-mère		
 foreign	pia-mater	lat	
@@ -14707,7 +14707,7 @@ foreign	pisüllurn	lat
 entry	Pilule	1	
 orth	Pilule		
 foreign	pilula	lat	
-pb	263		
+pb	263	0279	
 entry	Pincée	0	
 orth	Pincée		
 foreign	pugillus	lat	
@@ -14768,7 +14768,7 @@ foreign	pityriasis	lat
 entry	Pivot	0	
 orth	Pivot		
 foreign	cardo	lat	
-pb	264		
+pb	264	0280	
 entry	Pivotante	0	
 orth	Pivotante		
 entry	Placenta	0	
@@ -14806,7 +14806,7 @@ orth	Plastique
 foreign	plasticus	lat	
 entry	Plateau électrique	1	
 orth	Plateau électrique		
-pb	265		
+pb	265	0281	
 entry	Platine	0	
 orth	Platine		
 foreign	plaüna	lat	
@@ -14843,7 +14843,7 @@ clique	Pleuropneumonie
 entry	Pleuropneumonie	1	
 orth	Pleuropneumonie		
 foreign	pleuropneumonia	lat	
-pb	266		
+pb	266	0282	
 entry	Pleurosthotonos	0	
 orth	Pleurosthotonos		
 foreign	pleurosttlotonus	lat	
@@ -14882,7 +14882,7 @@ foreign	plurilOcularis	lat
 entry	Pneumatique	1	
 orth	Pneumatique		
 foreign	pneumatica	lat	
-pb	267		
+pb	267	0283	
 entry	Pneumatocèle	0	
 orth	Pneumatocèle		
 foreign	pneumatocele	lat	
@@ -14949,7 +14949,7 @@ foreign	virus	lat
 entry	Poissons	1	
 orth	Poissons		
 foreign	pisces	lat	
-pb	268		
+pb	268	0284	
 entry	Poitrinaire	0	
 orth	Poitrinaire		
 entry	Poitrine	0	
@@ -14980,7 +14980,7 @@ orth	Polyacoustique
 entry	Polyadelphie	0	
 orth	Polyadelphie		
 foreign	polyadelphia	lat	
-pb	269		
+pb	269	0285	
 entry	Polyandrie	0	
 orth	Polyandrie		
 foreign	polyandria	lat	
@@ -15027,7 +15027,7 @@ orth	Polyphylle
 foreign	polyphyllus	lat	
 entry	Polypier	1	
 orth	Polypier		
-pb	270		
+pb	270	0286	
 clique	Polype		
 entry	Polysarcie	0	
 orth	Polysarcie		
@@ -15078,7 +15078,7 @@ clique	Essère
 entry	Pore	1	
 orth	Pore		
 foreign	porus	lat	
-pb	271		
+pb	271	0287	
 entry	Porocèle	0	
 orth	Porocèle		
 foreign	porocele	lat	
@@ -15126,7 +15126,7 @@ foreign	potentialis	lat
 entry	Potion	1	
 orth	Potion		
 foreign	potio	lat	
-pb	272		
+pb	272	0288	
 entry	Pouce	0	
 orth	Pouce		
 foreign	pollex	lat	
@@ -15146,7 +15146,7 @@ foreign	pulsus	lat
 entry	Poumon	1	
 orth	Poumon		
 foreign	pulmo	lat	
-pb	273		
+pb	273	0289	
 entry	Pourpre	0	
 orth	Pourpre		
 foreign	purpura	lat	
@@ -15184,7 +15184,7 @@ foreign	praematurus	lat
 entry	Précordial	1	
 orth	Précordial		
 foreign	prclec&r*dialis	lat	
-pb	274		
+pb	274	0290	
 entry	Précurseur	0	
 orth	Précurseur		
 foreign	prœcursor	lat	
@@ -15242,7 +15242,7 @@ foreign	tenÜgo	lat
 entry	Principe	1	
 orth	Principe		
 foreign	principium	lat	
-pb	275		
+pb	275	0291	
 clique	Élément		
 entry	Prismatique	0	
 orth	Prismatique		
@@ -15289,7 +15289,7 @@ foreign	proemptosis	lat
 entry	Prognostic	1	
 orth	Prognostic		
 foreign	prog/wsis	lat	
-pb	276		
+pb	276	0292	
 entry	Progression	0	
 orth	Progression		
 foreign	progressio	lat	
@@ -15340,7 +15340,7 @@ foreign	proportio	lat
 entry	Proportionnel	1	
 orth	Proportionnel		
 foreign	proportio	lat	
-pb	277		
+pb	277	0293	
 entry	Proposition	0	
 orth	Proposition		
 foreign	propositio	lat	
@@ -15390,7 +15390,7 @@ foreign	pseUdorexia	lat
 entry	Psilothre	1	
 orth	Psilothre		
 foreign	psilothrum	lat	
-pb	278		
+pb	278	0294	
 entry	Psoas	0	
 orth	Psoas		
 entry	Psoques	0	
@@ -15446,7 +15446,7 @@ entry	Ptérygosalpingoïdien	0
 orth	Ptérygosalpingoïdien		
 entry	Ptérygostaphylin	1	
 orth	Ptérygostaphylin		
-pb	279		
+pb	279	0295	
 foreign	pter'ygostaphylinus	lat	
 entry	Ptilose	0	
 orth	Ptilose		
@@ -15508,7 +15508,7 @@ foreign	pulsilogium	lat
 entry	Pulsimantie	0	
 orth	Pulsimantie		
 foreign	pulsus	lat	
-pb	280		
+pb	280	0296	
 entry	Pulvérisation	0	
 orth	Pulvérisation		
 foreign	pulverisatio	lat	
@@ -15570,7 +15570,7 @@ foreign	pyramidalis	lat
 entry	Pyramide	1	
 orth	Pyramide		
 foreign	pyramis	lat	
-pb	281		
+pb	281	0297	
 entry	Pyrénoïde	0	
 orth	Pyrénoïde		
 foreign	pyrendïdes	lat	
@@ -15620,7 +15620,7 @@ entry	Pyrosis	0
 orth	Pyrosis		
 entry	Pyrotartareux	1	
 orth	Pyrotartareux		
-pb	282		
+pb	282	0298	
 entry	Pyrotechnie	0	
 orth	Pyrotechnie		
 foreign	pytotechtIIa	lat	
@@ -15678,7 +15678,7 @@ foreign	quadrilobatus	lat
 entry	Quadriloculaire	1	
 orth	Quadriloculaire		
 foreign	quadrilecularis	lat	
-pb	283		
+pb	283	0299	
 entry	Quadrinôme	0	
 orth	Quadrinôme		
 foreign	quadrinQrnus	lat	
@@ -15717,7 +15717,7 @@ orth	Quarte
 foreign	ï	lat	
 entry	Quartz	1	
 orth	Quartz		
-pb	284		
+pb	284	0300	
 entry	Quaterné	0	
 orth	Quaterné		
 entry	Quercitron	0	
@@ -15766,7 +15766,7 @@ foreign	rachideus	lat
 clique	Rachis		
 entry	Rachis	1	
 orth	Rachis		
-pb	285		
+pb	285	0301	
 entry	Rachisagre, Rhachisagre	0	
 orth	Rachisagre		
 orth	Rhachisagre		
@@ -15809,7 +15809,7 @@ foreign	radiicor	lat
 entry	Radicule	1	
 orth	Radicule		
 foreign	radicula	lat	
-pb	286		
+pb	286	0302	
 entry	Radié	0	
 orth	Radié		
 foreign	radiatus	lat	
@@ -15871,7 +15871,7 @@ foreign	raneeus	lat
 entry	Rancidité	1	
 orth	Rancidité		
 foreign	ranciditas	lat	
-pb	287		
+pb	287	0303	
 entry	Ranine	0	
 orth	Ranine		
 foreign	rana	lat	
@@ -15905,7 +15905,7 @@ foreign	rarefiIctio	lat
 entry	Raréfiant	1	
 orth	Raréfiant		
 foreign	rarefdciens	lat	
-pb	288		
+pb	288	0304	
 entry	Rarifeuillé	0	
 orth	Rarifeuillé		
 foreign	rariloliatus	lat	
@@ -15948,7 +15948,7 @@ orth	Réattraction
 entry	Réceptacle	1	
 orth	Réceptacle		
 foreign	receptaculum	lat	
-pb	289		
+pb	289	0305	
 entry	Rechute	0	
 orth	Rechute		
 entry	Récipé	0	
@@ -15988,7 +15988,7 @@ orth	Rectum
 entry	Récurrent	1	
 orth	Récurrent		
 foreign	recurrens	lat	
-pb	290		
+pb	290	0306	
 entry	Redondance	0	
 orth	Redondance		
 foreign	reduIIdaniia	lat	
@@ -16018,7 +16018,7 @@ orth	Réfractaire
 foreign	refragor	lat	
 entry	Réfraction	1	
 orth	Réfraction		
-pb	291		
+pb	291	0307	
 entry	Réfrangibilité	0	
 orth	Réfrangibilité		
 foreign	refringere	lat	
@@ -16067,7 +16067,7 @@ foreign	regula	lat
 entry	Régule	1	
 orth	Régule		
 foreign	regulus	lat	
-pb	292		
+pb	292	0308	
 entry	Réguline	0	
 orth	Réguline		
 foreign	regulina	lat	
@@ -16123,7 +16123,7 @@ foreign	quies	lat
 entry	Reproduction	1	
 orth	Reproduction		
 foreign	regerminatio	lat	
-pb	293		
+pb	293	0309	
 entry	Reptiles	0	
 orth	Reptiles		
 foreign	reptilia	lat	
@@ -16169,7 +16169,7 @@ entry	Retardation	0
 orth	Retardation		
 foreign	retardo	lat	
 clique	Retardatrice		
-pb	294		
+pb	294	0310	
 entry	Retardatrice	0	
 orth	Retardatrice		
 entry	Rétention	0	
@@ -16228,7 +16228,7 @@ entry	Révulsif	1
 orth	Révulsif		
 foreign	revulsivus	lat	
 foreign	revellens	lat	
-pb	295		
+pb	295	0311	
 entry	Révulsion	0	
 orth	Révulsion		
 foreign	revulsio	lat	
@@ -16276,7 +16276,7 @@ foreign	rhomboides	lat
 entry	Rhubarbe	1	
 orth	Rhubarbe		
 foreign	rhabarbarum	lat	
-pb	296		
+pb	296	0312	
 entry	Rhumatisme	0	
 orth	Rhumatisme		
 foreign	rheunlati:mus	lat	
@@ -16317,7 +16317,7 @@ orth	Riz
 foreign	oryza	lat	
 entry	Rob	0	
 orth	Rob		
-pb	297		
+pb	297	0313	
 entry	Roboratif	0	
 orth	Roboratif		
 foreign	roborans	lat	
@@ -16370,7 +16370,7 @@ foreign	ros	lat
 entry	Rousseurs	1	
 orth	Rousseurs		
 foreign	lcntiginea	lat	
-pb	298		
+pb	298	0314	
 entry	Rubanné	0	
 orth	Rubanné		
 foreign	fasciatus ;	lat	
@@ -16440,7 +16440,7 @@ clique	Épilepsie
 entry	Sacrocogcygien	1	
 orth	Sacrocogcygien		
 foreign	sacrococcygeus	lat	
-pb	299		
+pb	299	0315	
 clique	Sacrum		
 clique	Coccyx		
 entry	Sacro-ischiatique	0	
@@ -16506,7 +16506,7 @@ clique	Ptyalisme
 entry	Salive	1	
 orth	Salive		
 foreign	saliva	lat	
-pb	300		
+pb	300	0316	
 entry	Salmones	0	
 orth	Salmones		
 foreign	salnlo	lat	
@@ -16559,7 +16559,7 @@ entry	Sangsue	1
 orth	Sangsue		
 foreign	sanguisuga	lat	
 foreign	hi» rudo	lat	
-pb	301		
+pb	301	0317	
 entry	Sanguification	0	
 orth	Sanguification		
 foreign	sanguificatio	lat	
@@ -16630,7 +16630,7 @@ foreign	capxusicec	lat
 entry	Sarcomphale	1	
 orth	Sarcomphale		
 foreign	sarGQmphalus	lat	
-pb	302		
+pb	302	0318	
 entry	Sarcophage	0	
 orth	Sarcophage		
 foreign	sarcophagus	lat	
@@ -16677,7 +16677,7 @@ foreign	sapor	lat
 entry	Savon	0	
 orth	Savon		
 foreign	sapo	lat	
-pb	303		
+pb	303	0319	
 entry	Savonule	0	
 orth	Savonule		
 foreign	saponulus	lat	
@@ -16733,7 +16733,7 @@ orth	Scélite
 foreign	scelites	lat	
 entry	Scélotyrbe	1	
 orth	Scélotyrbe		
-pb	304		
+pb	304	0320	
 entry	Sceptique	0	
 orth	Sceptique		
 foreign	scepticus	lat	
@@ -16781,7 +16781,7 @@ orth	Scolopendre
 entry	Scorbut	1	
 orth	Scorbut		
 foreign	scorbutus	lat	
-pb	305		
+pb	305	0321	
 entry	Scorbutique	0	
 orth	Scorbutique		
 foreign	scorbutious ;	lat	
@@ -16821,7 +16821,7 @@ foreign	scrotocele*	lat
 entry	Scrotum	1	
 orth	Scrotum		
 foreign	scrotum	lat	
-pb	306		
+pb	306	0322	
 entry	Scrupule	0	
 orth	Scrupule		
 foreign	scrupulus	lat	
@@ -16880,7 +16880,7 @@ orth	Sélénite
 entry	Sélénographie	1	
 orth	Sélénographie		
 foreign	selenographia	lat	
-pb	307		
+pb	307	0323	
 entry	Selle	0	
 orth	Selle		
 foreign	sella	lat	
@@ -16924,7 +16924,7 @@ orth	Sensible
 foreign	sensibdis	lat	
 entry	Sensorium	1	
 orth	Sensorium		
-pb	308		
+pb	308	0324	
 entry	Sentiment	0	
 orth	Sentiment		
 foreign	sensus	lat	
@@ -16969,7 +16969,7 @@ foreign	serum i	lat
 entry	Serpens	1	
 orth	Serpens		
 foreign	serpo	lat	
-pb	309		
+pb	309	0325	
 entry	Serreté	0	
 orth	Serreté		
 foreign	serratus	lat	
@@ -17019,7 +17019,7 @@ foreign	. vertuins humor	lat
 entry	Sévice	0	
 orth	Sévice		
 foreign	sœvitta	lat	
-pb	310		
+pb	310	0326	
 entry	Sexe	0	
 orth	Sexe		
 foreign	sexus	lat	
@@ -17074,7 +17074,7 @@ entry	Silice	1
 orth	Silice		
 foreign	silex	lat	
 foreign	silicis	lat	
-pb	311		
+pb	311	0327	
 entry	Silicule	0	
 orth	Silicule		
 foreign	silicula	lat	
@@ -17132,7 +17132,7 @@ entry	Sirène	1
 orth	Sirène		
 foreign	siren	lat	
 foreign	en	lat	
-pb	312		
+pb	312	0328	
 entry	Siriase	0	
 orth	Siriase		
 entry	Sirius	0	
@@ -17169,7 +17169,7 @@ foreign	sitis	lat
 entry	Solaire	1	
 orth	Solaire		
 foreign	solaris	lat	
-pb	313		
+pb	313	0329	
 entry	Soléaire	0	
 orth	Soléaire		
 foreign	solearis	lat	
@@ -17214,7 +17214,7 @@ orth	Somnambule
 entry	Somnambulisme	1	
 orth	Somnambulisme		
 foreign	somnambulismus	lat	
-pb	314		
+pb	314	0330	
 entry	Somnifère	0	
 orth	Somnifère		
 foreign	somnifer	lat	
@@ -17273,7 +17273,7 @@ foreign	alcali minerale	lat
 entry	Soufre	1	
 orth	Soufre		
 foreign	sulfur	lat	
-pb	315		
+pb	315	0331	
 entry	Soupape	0	
 orth	Soupape		
 foreign	valvula	lat	
@@ -17339,7 +17339,7 @@ foreign	spatha	lat
 entry	Spathille	0	
 orth	Spathille		
 foreign	spathilla	lat	
-pb	316		
+pb	316	0332	
 entry	Spatule	0	
 orth	Spatule		
 foreign	spatula	lat	
@@ -17392,7 +17392,7 @@ orth	Sphénopalatin
 foreign	sphenopalatinus	lat	
 clique	Sphénoïde		
 clique	Palais		
-pb	317		
+pb	317	0333	
 entry	Sphénopharyngien	0	
 orth	Sphénopharyngien		
 foreign	sphe' nopharingeus	lat	
@@ -17459,7 +17459,7 @@ entry	Splénique, Splénétique	1
 orth	Splénique		
 orth	Splénétique		
 foreign	splenicus	lat	
-pb	318		
+pb	318	0334	
 entry	Splénitis, Splénite	0	
 orth	Splénitis		
 orth	Splénite		
@@ -17507,7 +17507,7 @@ foreign	spulatio	lat
 entry	Squale	0	
 orth	Squale		
 foreign	squalus	lat	
-pb	319		
+pb	319	0335	
 entry	Squameux	0	
 orth	Squameux		
 foreign	squamosus	lat	
@@ -17575,7 +17575,7 @@ foreign	staphylinus	lat
 entry	Staphylome	1	
 orth	Staphylome		
 foreign	staphyloma	lat	
-pb	320		
+pb	320	0336	
 entry	Stase	0	
 orth	Stase		
 entry	Station	0	
@@ -17626,7 +17626,7 @@ foreign	stcrilis	lat
 entry	Stérilité	1	
 orth	Stérilité		
 foreign	sterilitas	lat	
-pb	321		
+pb	321	0337	
 clique	Stérile		
 entry	Sterno-claviculaire	0	
 orth	Sterno-claviculaire		
@@ -17696,7 +17696,7 @@ orth	Stolonifère
 foreign	stolo	lat	
 entry	Stomacace	1	
 orth	Stomacace		
-pb	322		
+pb	322	0338	
 entry	Stomachal, Stomachique	0	
 orth	Stomachal		
 orth	Stomachique		
@@ -17740,7 +17740,7 @@ foreign	StrongylUs	lat
 entry	Strontiane	1	
 orth	Strontiane		
 foreign	strontiana	lat	
-pb	323		
+pb	323	0339	
 entry	Strontianite	0	
 orth	Strontianite		
 foreign	StroJIÜanites	lat	
@@ -17812,7 +17812,7 @@ orth	Suber
 entry	Subérate	0	
 orth	Subérate		
 foreign	suberas	lat	
-pb	324		
+pb	324	0340	
 entry	Subérique	0	
 orth	Subérique		
 foreign	subericus	lat	
@@ -17863,7 +17863,7 @@ foreign	succenturiati	lat
 entry	Succin	1	
 orth	Succin		
 foreign	succinum	lat	
-pb	325		
+pb	325	0341	
 entry	Succinate	0	
 orth	Succinate		
 foreign	succinias	lat	
@@ -17897,7 +17897,7 @@ foreign	sudor anglicus i	lat
 entry	Sueur	1	
 orth	Sueur		
 foreign	sudor	lat	
-pb	326		
+pb	326	0342	
 entry	Suffocation	0	
 orth	Suffocation		
 foreign	suflocatio	lat	
@@ -17949,7 +17949,7 @@ foreign	suppositorium	lat
 entry	Suppression	1	
 orth	Suppression		
 foreign	suppressio	lat	
-pb	327		
+pb	327	0343	
 entry	Suppuratif	0	
 orth	Suppuratif		
 foreign	suppurans	lat	
@@ -18008,7 +18008,7 @@ foreign	sutura	lat
 entry	Suture	1	
 orth	Suture		
 foreign	sutura	lat	
-pb	328		
+pb	328	0344	
 entry	Sylvatique	0	
 orth	Sylvatique		
 foreign	sylvaücus	lat	
@@ -18049,7 +18049,7 @@ orth	Symptomatologie
 foreign	symptomaiologia	lat	
 entry	Symptôme	1	
 orth	Symptôme		
-pb	329		
+pb	329	0345	
 entry	Symptose	0	
 orth	Symptose		
 foreign	symptosis	lat	
@@ -18090,7 +18090,7 @@ foreign	styndesmologia	lat
 entry	Syndesmose	0	
 orth	Syndesmose		
 foreign	syndesmosis	lat	
-pb	330		
+pb	330	0346	
 entry	Syndesmotomie	0	
 orth	Syndesmotomie		
 foreign	syndesmotomia	lat	
@@ -18140,7 +18140,7 @@ clique	Siphon
 entry	Syringotome	0	
 orth	Syringotome		
 foreign	syringotornum	lat	
-pb	331		
+pb	331	0347	
 entry	Syssarcose	0	
 orth	Syssarcose		
 foreign	syssarcosis	lat	
@@ -18187,7 +18187,7 @@ orth	Tacheté
 entry	Tachygraphie	1	
 orth	Tachygraphie		
 foreign	tacllygraphia	lat	
-pb	332		
+pb	332	0348	
 entry	Taciturnité	0	
 orth	Taciturnité		
 foreign	taciturnitas ;	lat	
@@ -18229,7 +18229,7 @@ orth	Tannage
 entry	Tannin	1	
 orth	Tannin		
 foreign	extractum corticis quernei	lat	
-pb	333		
+pb	333	0349	
 entry	Tannino extractif	0	
 orth	Tannino extractif		
 entry	Tantale	0	
@@ -18264,7 +18264,7 @@ foreign	tartris	lat
 entry	Taupe	0	
 orth	Taupe		
 foreign	talpa	lat	
-pb	334		
+pb	334	0350	
 entry	Taxiderme	0	
 orth	Taxiderme		
 entry	Taxis	0	
@@ -18306,7 +18306,7 @@ foreign	telesia	lat
 entry	Tellure	1	
 orth	Tellure		
 foreign	tellus	lat	
-pb	335		
+pb	335	0351	
 entry	Tempérament	0	
 orth	Tempérament		
 foreign	natura	lat	
@@ -18357,7 +18357,7 @@ orth	Tensif
 foreign	tensivus	lat	
 entry	Tentacules	1	
 orth	Tentacules		
-pb	336		
+pb	336	0352	
 entry	Tente	0	
 orth	Tente		
 foreign	turunda	lat	
@@ -18418,7 +18418,7 @@ orth	Testacite
 entry	Testicule	1	
 orth	Testicule		
 foreign	testiculus	lat	
-pb	337		
+pb	337	0353	
 entry	Testudo	0	
 orth	Testudo		
 entry	Tétanos	0	
@@ -18453,7 +18453,7 @@ orth	Tétraphylle
 foreign	tetraphyllus	lat	
 entry	Tétrapode	1	
 orth	Tétrapode		
-pb	338		
+pb	338	0354	
 entry	Tétrapodologie	0	
 orth	Tétrapodologie		
 foreign	tetrapodologia	lat	
@@ -18508,7 +18508,7 @@ foreign	thermometrum	lat
 entry	Thermoscope	1	
 orth	Thermoscope		
 foreign	tllermoscopiuin	lat	
-pb	339		
+pb	339	0355	
 entry	Thèse	0	
 orth	Thèse		
 entry	Thlipsie	0	
@@ -18573,7 +18573,7 @@ clique	Thyroïde
 clique	Septum staphylin		
 entry	Tibia	1	
 orth	Tibia		
-pb	340		
+pb	340	0356	
 entry	Tibial	0	
 orth	Tibial		
 foreign	tibialis	lat	
@@ -18620,7 +18620,7 @@ foreign	Rtillatus	lat
 entry	Titubation	1	
 orth	Titubation		
 foreign	titubo	lat	
-pb	341		
+pb	341	0357	
 entry	Tombac	0	
 orth	Tombac		
 foreign	temperatio cupri et zinci	lat	
@@ -18672,7 +18672,7 @@ foreign	contortus	lat
 entry	Torticolis	1	
 orth	Torticolis		
 foreign	caput absiiîpum	lat	
-pb	342		
+pb	342	0358	
 entry	Tortile	0	
 orth	Tortile		
 foreign	tortilis	lat	
@@ -18713,7 +18713,7 @@ foreign	trabs	lat
 entry	Trachée-artère	1	
 orth	Trachée-artère		
 foreign	trachea* arteria	lat	
-pb	343		
+pb	343	0359	
 entry	Trachélien	0	
 orth	Trachélien		
 entry	Trachélo-mastoïdien	0	
@@ -18756,7 +18756,7 @@ orth	Transparent
 entry	Transpiration	1	
 orth	Transpiration		
 foreign	transpi^ ratio	lat	
-pb	344		
+pb	344	0360	
 entry	Transplantation	0	
 orth	Transplantation		
 foreign	traasplaIItatio	lat	
@@ -18823,7 +18823,7 @@ orth	Triangulaire
 foreign	triangularis;	lat	
 entry	Tribade	1	
 orth	Tribade		
-pb	345		
+pb	345	0361	
 entry	Tribomètre	0	
 orth	Tribomètre		
 foreign	tribometrum	lat	
@@ -18868,7 +18868,7 @@ foreign	trigo/lometria	lat
 entry	Trigynie	1	
 orth	Trigynie		
 foreign	uigynia 9	lat	
-pb	346		
+pb	346	0362	
 entry	Trijugé	0	
 orth	Trijugé		
 foreign	trijugus	lat	
@@ -18940,7 +18940,7 @@ entry	Trituration	1
 orth	Trituration		
 foreign	trituratio	lat	
 foreign	tritura	lat	
-pb	347		
+pb	347	0363	
 entry	Trivalvé	0	
 orth	Trivalvé		
 foreign	trivalvis ;	lat	
@@ -18997,7 +18997,7 @@ foreign	tuba	lat
 entry	Tronc	1	
 orth	Tronc		
 foreign	truncus	lat	
-pb	348		
+pb	348	0364	
 entry	Tronqué	0	
 orth	Tronqué		
 foreign	truncatus ;	lat	
@@ -19046,7 +19046,7 @@ foreign	tumor	lat
 entry	Tungstate	0	
 orth	Tungstate		
 foreign	tuugstas	lat	
-pb	349		
+pb	349	0365	
 entry	Tungstène	0	
 orth	Tungstène		
 entry	Tungstique	0	
@@ -19080,7 +19080,7 @@ foreign	tubus	lat
 entry	Tympan	1	
 orth	Tympan		
 foreign	tympanu’n	lat	
-pb	350		
+pb	350	0366	
 entry	Tympanite	0	
 orth	Tympanite		
 foreign	Lympanites	lat	
@@ -19132,7 +19132,7 @@ foreign	uniflorus	lat
 entry	Uniforme	1	
 orth	Uniforme		
 foreign	unifiormis	lat	
-pb	351		
+pb	351	0367	
 entry	Unilabié	0	
 orth	Unilabié		
 foreign	unilabiatus	lat	
@@ -19182,7 +19182,7 @@ foreign	tVUrceus	lat
 entry	Urée	1	
 orth	Urée		
 foreign	urea	lat	
-pb	352		
+pb	352	0368	
 entry	Uretères	0	
 orth	Uretères		
 foreign	ureteres	lat	
@@ -19246,7 +19246,7 @@ clique	Matrice
 entry	Utriculaire	1	
 orth	Utriculaire		
 foreign	utricularius	lat	
-pb	353		
+pb	353	0369	
 entry	Utricule	0	
 orth	Utricule		
 foreign	utriculus	lat	
@@ -19293,7 +19293,7 @@ foreign	valva-	lat
 entry	Valvule	1	
 orth	Valvule		
 foreign	valvula	lat	
-pb	354		
+pb	354	0370	
 entry	Vanille	0	
 orth	Vanille		
 foreign	vayIIillas	spa	
@@ -19341,7 +19341,7 @@ entry	Végétal	1
 orth	Végétal		
 foreign	vegetabilis	lat	
 foreign	vegetabilia	lat	
-pb	355		
+pb	355	0371	
 entry	Végétation	0	
 orth	Végétation		
 foreign	vegetatio	lat	
@@ -19384,7 +19384,7 @@ foreign	toxi-' cum	lat
 entry	Vent	1	
 orth	Vent		
 foreign	ventus	lat	
-pb	356		
+pb	356	0372	
 clique	Flatuosité		
 entry	Ventilateur	0	
 orth	Ventilateur		
@@ -19417,7 +19417,7 @@ foreign	coles	lat
 foreign	membrtOn virile	lat	
 foreign	priapus	lat	
 foreign	virga genitalis	lat	
-pb	357		
+pb	357	0373	
 entry	Vergeté	0	
 orth	Vergeté		
 foreign	Variegatus	lat	
@@ -19458,7 +19458,7 @@ foreign	aplirodisius	lat
 entry	Vérole (petite)	1	
 orth	Vérole (petite)		
 foreign	variolœ	lat	
-pb	358		
+pb	358	0374	
 entry	Vérolette, Vérette	0	
 orth	Vérolette		
 orth	Vérette		
@@ -19494,7 +19494,7 @@ orth	Vertex
 entry	Vertical	1	
 orth	Vertical		
 foreign	Verticalis	lat	
-pb	359		
+pb	359	0375	
 entry	Verticalité	0	
 orth	Verticalité		
 foreign	vertex	lat	
@@ -19524,7 +19524,7 @@ foreign	vesicula	lat
 entry	Vessie	1	
 orth	Vessie		
 foreign	vesica	lat	
-pb	360		
+pb	360	0376	
 entry	Vestibule	0	
 orth	Vestibule		
 foreign	vestibulum	lat	
@@ -19562,7 +19562,7 @@ foreign	Senectus	lat
 entry	Vierge	1	
 orth	Vierge		
 foreign	virgo	lat	
-pb	361		
+pb	361	0377	
 entry	Vin	0	
 orth	Vin		
 foreign	vinum	lat	
@@ -19611,7 +19611,7 @@ foreign	vitiligo	lat
 entry	Vitré	1	
 orth	Vitré		
 foreign	vitreus	lat	
-pb	362		
+pb	362	0378	
 entry	Vitreux	0	
 orth	Vitreux		
 foreign	vitrum	lat	
@@ -19662,7 +19662,7 @@ orth	Vomer
 entry	Vomique	1	
 orth	Vomique		
 foreign	vomica	lat	
-pb	363		
+pb	363	0379	
 entry	Vomissement	0	
 orth	Vomissement		
 foreign	vomitus	lat	
@@ -19712,7 +19712,7 @@ orth	Xylostéum
 entry	Xyste	1	
 orth	Xyste		
 foreign	xyslus	lat	
-pb	364		
+pb	364	0380	
 entry	Yawx	0	
 orth	Yawx		
 entry	Yeux	0	
@@ -19735,7 +19735,7 @@ foreign	zeteticus	lat
 entry	Zinc	1	
 orth	Zinc		
 foreign	zincum	lat	
-pb	365		
+pb	365	0381	
 entry	Zircone	0	
 orth	Zircone		
 entry	Zodiaque	0	
@@ -19777,7 +19777,7 @@ foreign	zoophagus	lat
 entry	Zoophyte	1	
 orth	Zoophyte		
 foreign	zoophyturn	lat	
-pb	366		
+pb	366	0382	
 entry	Zoophytolithe	0	
 orth	Zoophytolithe		
 entry	Zoophytologie	0	

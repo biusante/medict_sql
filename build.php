@@ -4,8 +4,8 @@ require_once(__DIR__ . '/php/autoload.php');
 
 use Biusante\Medict\{Insert, Tei, Util};
 
-// tout();
-dev();
+tout();
+// dev();
 
 function tout()
 {

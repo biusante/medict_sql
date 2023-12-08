@@ -29,10 +29,9 @@ class C
     const RELTYPE_ORTH = 1;
     const RELTYPE_TERM = 2;
     const RELTYPE_FOREIGN = 3;
-    // const RELTYPE_REF = 3;
     const RELTYPE_CLIQUE = 10;
     const RELTYPE_TRANSLATE = 11;
-    // const _BETACODE =':betacode';
+    const _BETACODE =':betacode';
     const _CLIQUE = ':clique';
     const _DEFORME = ':deforme';
     const _DELOC = ':deloc';
@@ -41,6 +40,7 @@ class C
     const _DICO_TERME = ':dico_terme';
     const _DICO_TITRE = ':dico_titre';
     const _FORME = ':forme';
+    const _INVERSE = ':inverse';
     const _LANGUE = ':langue';
     const _LIVANC = ':livanc';
     const _LIVANCPAGES = ':livancpages';

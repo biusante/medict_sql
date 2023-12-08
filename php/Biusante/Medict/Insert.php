@@ -36,6 +36,8 @@ class Insert extends Util
         C::_TAILLE => -1,
         C::_MOTS => -1,
         C::_UVJI => null,
+        C::_INVERSE => null,
+        C::_BETACODE => null,
     );
     /** Insérer une relation */
     private static $dico_rel = array(
@@ -226,15 +228,6 @@ class Insert extends Util
     }
 
     /**
-     * Insère tous les mots de tous les dictionnaires
-     */
-    static function dico_terme()
-    {
-
-    }
-
-
-    /**
      * Obtenir un identifiant de volume, le créer si nécessaire
      */
     static function volume_id($volume_cote)
@@ -336,28 +329,26 @@ class Insert extends Util
         }
         self::$dico_terme[C::_MOTS] = $wc;
         $pos = strpos($deforme, " ");
+        self::$dico_terme[C::_DELOC] = null;
         if ($pos !== false) {
             self::$dico_terme[C::_DELOC] = substr($deforme, $pos + 1);
         }
-        else {
-            self::$dico_terme[C::_DELOC] = null;
-        }
-        /*
-        if ('grc' == $langue) { // betacode
+        self::$dico_terme[C::_BETACODE] = null;
+        if (preg_match('/[\u0370-\u03ff\u1f00-\u1fff]+/u', $deforme)) {
+            // betacode
             self::$dico_terme[C::_BETACODE] = strtr($deforme, self::$grc_lat);
         }
-        else {
-            self::$dico_terme[C::_BETACODE] = null;
-        }
-        */
         self::$dico_terme[C::_UVJI] = null;
         if (in_array(self::$titre['cote'], ['08746', '08757', '00152'])) {
             $uvji = strtr($deforme, ['j' => 'i', 'u' => 'v']);
             if ($uvji != $deforme) {
                 self::$dico_terme[C::_UVJI] = $uvji;
-                // echo "UVJI : $forme -> $uvji\n";
             }
         }
+        self::$dico_terme[C::_INVERSE] = implode(array_reverse(preg_split('//u', $deforme, -1, PREG_SPLIT_NO_EMPTY)));
+
+
+        // exécution
         try {
             self::$q[C::DICO_TERME]->execute(self::$dico_terme);
         }

@@ -35,7 +35,8 @@ ref	De Gorris 1601
   </xsl:template>
 
   <xsl:template match="text()"/>
-    
+
+
 
   <xsl:template match="*">
     <xsl:apply-templates/>
@@ -110,7 +111,10 @@ ref	De Gorris 1601
   <xsl:template match="tei:entryFree[@type='tr']/tei:term">
     <xsl:text>tr/term</xsl:text>
     <xsl:value-of select="$tab"/>
-    <xsl:value-of select="normalize-space(.)"/>
+    <xsl:variable name="txt">
+      <xsl:apply-templates mode="copy"/>
+    </xsl:variable>
+    <xsl:value-of select="normalize-space($txt)"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="$lf"/>
@@ -123,7 +127,10 @@ ref	De Gorris 1601
     <xsl:for-each select=".//tei:term">
       <xsl:text>term</xsl:text>
       <xsl:value-of select="$tab"/>
-      <xsl:value-of select="normalize-space(.)"/>
+      <xsl:variable name="txt">
+        <xsl:apply-templates mode="copy"/>
+      </xsl:variable>
+      <xsl:value-of select="normalize-space($txt)"/>
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$lf"/>
@@ -136,15 +143,24 @@ ref	De Gorris 1601
         <xsl:value-of select="$tab"/>
         <xsl:for-each select=".//tei:term">
           <xsl:if test="position() != 1"> | </xsl:if>
-          <xsl:value-of select="normalize-space(.)"/>
+          <xsl:variable name="txt">
+            <xsl:apply-templates mode="copy"/>
+          </xsl:variable>
+          <xsl:value-of select="normalize-space($txt)"/>
         </xsl:for-each>
         <xsl:for-each select=".//tei:ref">
           <xsl:text> | </xsl:text>
-          <xsl:value-of select="normalize-space(.)"/>
+          <xsl:variable name="txt">
+            <xsl:apply-templates mode="copy"/>
+          </xsl:variable>
+          <xsl:value-of select="normalize-space($txt)"/>
         </xsl:for-each>
         <xsl:for-each select=".//tei:xr">
           <xsl:text> | </xsl:text>
-          <xsl:value-of select="normalize-space(.)"/>
+          <xsl:variable name="txt">
+            <xsl:apply-templates mode="copy"/>
+          </xsl:variable>
+          <xsl:value-of select="normalize-space($txt)"/>
         </xsl:for-each>
         <xsl:value-of select="$tab"/>
         <xsl:value-of select="$tab"/>
@@ -152,6 +168,23 @@ ref	De Gorris 1601
       </xsl:otherwise>
     </xsl:choose>
     <xsl:apply-templates select=".//tei:pb"/>
+  </xsl:template>
+  
+  <xsl:template match="tei:choice" mode="copy">
+    <xsl:choose>
+      <xsl:when test="tei:corr">
+        <xsl:apply-templates select="tei:corr/node()" mode="copy"/>
+      </xsl:when>
+      <xsl:when test="tei:reg">
+        <xsl:apply-templates select="tei:reg/node()" mode="copy"/>
+      </xsl:when>
+      <xsl:when test="tei:expan">
+        <xsl:apply-templates select="tei:expan/node()" mode="copy"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template match="tei:ref | tei:xr">
@@ -161,10 +194,16 @@ ref	De Gorris 1601
       <xsl:otherwise>
         <xsl:text>clique</xsl:text>
         <xsl:value-of select="$tab"/>
-        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:variable name="clique">
+          <xsl:apply-templates mode="copy"/>
+        </xsl:variable>
+        <xsl:value-of select="normalize-space($clique)"/>
         <xsl:for-each select="tei:ref">
           <xsl:text> | </xsl:text>
-          <xsl:value-of select="normalize-space(.)"/>
+          <xsl:variable name="txt">
+            <xsl:apply-templates mode="copy"/>
+          </xsl:variable>
+          <xsl:value-of select="normalize-space($txt)"/>
         </xsl:for-each>
         <xsl:value-of select="$tab"/>
         <xsl:value-of select="$tab"/>
@@ -184,7 +223,10 @@ ref	De Gorris 1601
       <xsl:otherwise>
         <xsl:value-of select="local-name()"/>
         <xsl:value-of select="$tab"/>
-        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:variable name="txt">
+          <xsl:apply-templates mode="copy"/>
+        </xsl:variable>
+        <xsl:value-of select="normalize-space($txt)"/>
         <xsl:value-of select="$tab"/>
         <xsl:value-of select="@xml:lang"/>
         <xsl:value-of select="$tab"/>

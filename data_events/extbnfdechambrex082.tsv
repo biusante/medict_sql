@@ -33,6 +33,7 @@ pb	24	0028	4582234
 pb	25	0029	4582235
 pb	26	0030	4582236
 entry	Réduction	0	
+orth	Réduction		
 ref	Fractures Hernies		
 ref	Luxations		
 entry	Réduve [H. Laboulbène]	1	
@@ -42,10 +43,12 @@ entry	Réflexe (Action) [Laborde]	1
 orth	Réflexe (Action)		
 pb	28	0032	4582238
 entry	Réflexion	0	
+orth	Réflexion		
 ref	Acoustique		
 ref	Catoptrique		
 ref	Radiations		
 entry	Réfraction	0	
+orth	Réfraction		
 ref	Chaleur		
 ref	Dioptrique		
 ref	Radiations		
@@ -78,8 +81,10 @@ pb	48	0052	4582258
 entry	Rega (Henri-Joseph) [A. Dureau] (bibliographie)	0	
 orth	Rega (Henri-Joseph)		
 entry	Régale (Eau)	0	
+orth	Régale (Eau)		
 ref	Eaux médicinales		
 entry	Régénération	0	
+orth	Régénération		
 ref	Génération		
 entry	Régime [El. Hamelin]	48	
 orth	Régime		
@@ -138,14 +143,17 @@ pb	98	0102	4582308
 pb	99	0103	4582309
 pb	100	0104	4582310
 entry	Régime sanitaire	0	
+orth	Régime sanitaire		
 ref	Quarantaine		
 ref	Médecin		
 ref	Sanitaires Mesures		
 entry	Regis (Pierre) [A. Dureau] (bibliographie)	0	
 orth	Regis (Pierre)		
 entry	Règles	0	
+orth	Règles		
 ref	Menstruation		
 entry	Réglisse	0	
+orth	Réglisse		
 entry	Réglisse. Botanique [G. Planchon] (bibliographie)	1	
 orth	Réglisse. Botanique		
 pb	101	0105	4582311
@@ -205,6 +213,7 @@ pb	116	0120	4582326
 entry	Reimarus (Jean-Albert-Henri) [A. Dureau] (bibliographie)	0	
 orth	Reimarus (Jean-Albert-Henri)		
 entry	Rein et Capsule surrénale	0	
+orth	Rein et Capsule surrénale		
 entry	Rein et Capsule surrénale. Anatomie [Daniel Mollière]	5	
 orth	Rein et Capsule surrénale. Anatomie		
 pb	117	0121	4582327
@@ -223,6 +232,7 @@ pb	125	0129	4582335
 entry	Rein et Capsule surrénale. Physiologie [Daniel Mollière] (bibliographie)	0	
 orth	Rein et Capsule surrénale. Physiologie		
 entry	Rein	0	
+orth	Rein		
 entry	Rein. Anatomie [Daniel Mollière]	17	
 orth	Rein. Anatomie		
 pb	126	0130	4582336
@@ -260,6 +270,7 @@ orth	Rein. Physiologie
 pb	154	0158	4582364
 pb	155	0159	4582365
 entry	Rein et Capsule surrénale	0	
+orth	Rein et Capsule surrénale		
 entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux]	1	
 orth	Rein et Capsule surrénale. Pathologie		
 pb	156	0160	4582366
@@ -289,6 +300,7 @@ pb	167	0171	4582377
 entry	Rein et Capsule surrénale. Pathologie [E. Lancereaux] (bibliographie)	0	
 orth	Rein et Capsule surrénale. Pathologie		
 entry	Reins	0	
+orth	Reins		
 entry	Reins. Pathologie [E. Lancereaux]	1	
 orth	Reins. Pathologie		
 pb	168	0172	4582378
@@ -576,8 +588,10 @@ entry	Reina (Francisco de la) [E. Beaugrand]	1
 orth	Reina (Francisco de la)		
 pb	343	0347	4582553
 entry	Reine (Source des bains de la)	0	
+orth	Reine (Source des bains de la)		
 ref	Mers-el-Kébir		
 entry	Reine des prés	0	
+orth	Reine des prés		
 ref	Ulmaire		
 ref	Spirée		
 entry	Reineggs (Jacques) [A. Chéreau]	0	
@@ -594,6 +608,7 @@ pb	346	0350	4582556
 entry	Reinesius (Thomas) [E. Beaugrand] (bibliographie)	0	
 orth	Reinesius (Thomas)		
 entry	Reinette	0	
+orth	Reinette		
 ref	Pomme		
 entry	Reinhard [A. Dureau]	0	
 orth	Reinhard		
@@ -648,6 +663,7 @@ entry	Releveurs (ou Élévateurs) de l'aile du nez et de la lèvre supérieure [
 orth	Releveurs (ou Élévateurs) de l'aile du nez et de la lèvre supérieure		
 pb	370	0374	4582580
 entry	Religieuses (Folies)	0	
+orth	Religieuses (Folies)		
 ref	Epidémiques (Folies)		
 entry	Remak (Robert) [E. Beaugrand]	0	
 orth	Remak (Robert)		
@@ -655,6 +671,7 @@ pb	371	0375	4582581
 entry	Remak (Robert) [E. Beaugrand] (bibliographie)	0	
 orth	Remak (Robert)		
 entry	Remak (Ganglion de)	0	
+orth	Remak (Ganglion de)		
 ref	Coeur (Nerf du)		
 entry	Remède, Remède secret [Amédée Dechambre]	6	
 orth	Remède, Remède secret		
@@ -686,6 +703,7 @@ pb	380	0384	4582590
 entry	Rémora [Amédée Dechambre]	0	
 orth	Rémora		
 entry	Remors. Remorse du diable	0	
+orth	Remors. Remorse du diable		
 ref	Scabieuse		
 entry	Rémusat (Jean-Pierre-Abel) [E. Beaugrand] (bibliographie)	0	
 orth	Rémusat (Jean-Pierre-Abel)		
@@ -695,6 +713,7 @@ pb	381	0385	4582591
 entry	Renaison (Eau minérale de) [A. Rotureau]	0	
 orth	Renaison (Eau minérale de)		
 entry	Renal (Plexus)	0	
+orth	Renal (Plexus)		
 ref	Sympathique (Grand)		
 entry	Rénales (Artère et Veine) [Amédée Dechambre]	1	
 orth	Rénales (Artère et Veine)		
@@ -729,6 +748,7 @@ orth	Renault (Eugène)
 entry	René (Gasp.-Aug.-Émile) [E. Beaugrand]	0	
 orth	René (Gasp.-Aug.-Émile)		
 entry	Renealmia	0	
+orth	Renealmia		
 entry	Reneaume (Les deux) [A. Chéreau]	0	
 orth	Reneaume (Les deux)		
 pb	390	0394	4582600
@@ -767,6 +787,7 @@ entry	Renoncule [H. Baillon] (bibliographie)	1
 orth	Renoncule		
 pb	406	0410	4582616
 entry	Renouée	0	
+orth	Renouée		
 entry	Renzi (Salvatore de) [E. Beaugrand]	0	
 orth	Renzi (Salvatore de)		
 pb	407	0411	4582617
@@ -778,13 +799,16 @@ pb	408	0412	4582618
 entry	Repoussoir [Amédée Dechambre]	0	
 orth	Repoussoir		
 entry	Reprise	0	
+orth	Reprise		
 ref	Orpin		
 pb	409	0413	4582619
 entry	Reproduction	0	
+orth	Reproduction		
 ref	Génération		
 ref	Hérédité		
 ref	Sélection		
 entry	Reptation	0	
+orth	Reptation		
 ref	Locomotion		
 entry	Reptiles [Paul Gervais]	5	
 orth	Reptiles		
@@ -829,6 +853,7 @@ orth	Réquisition (Médecine légale et hygiène publique)
 entry	Réseau admirable [Amédée Dechambre]	0	
 orth	Réseau admirable		
 entry	Réseau de Malpighi	0	
+orth	Réseau de Malpighi		
 ref	Peau		
 entry	Résections [E. Spillmann]	88	
 orth	Résections		
@@ -939,6 +964,7 @@ entry	Résines [C. Lutz]	1
 orth	Résines		
 pb	529	0533	4582739
 entry	Résinier d'amérique	0	
+orth	Résinier d'amérique		
 ref	Gomart)		
 entry	Résolutifs [A. Bordier]	12	
 orth	Résolutifs		
@@ -1067,6 +1093,7 @@ pb	643	0647	4582853
 pb	644	0648	4582854
 pb	645	0649	4582855
 entry	Respiratoire (Appareil)	0	
+orth	Respiratoire (Appareil)		
 ref	Respiration		
 entry	Responsabilité médicale [G. Tourdes]	41	
 orth	Responsabilité médicale		
@@ -1163,6 +1190,7 @@ entry	Responsabilité légale des aliénés [Jules Falret] (bibliographie)	1
 orth	Responsabilité légale des aliénés		
 pb	731	0735	4582941
 entry	Responsabilité morale	0	
+orth	Responsabilité morale		
 ref	Déontologie		
 entry	Ressuscitants (Animaux) [Paul Gervais]	4	
 orth	Ressuscitants (Animaux)		
@@ -1172,15 +1200,18 @@ pb	734	0738	4582944
 pb	735	0739	4582945
 pb	736	0740	4582946
 entry	Resta bovis	0	
+orth	Resta bovis		
 ref	Ononis		
 entry	Restaurand (Raymond) [A. Dureau] (bibliographie)	0	
 orth	Restaurand (Raymond)		
 entry	Réthel (Eau minérale de) [A. Rotureau]	0	
 orth	Réthel (Eau minérale de)		
 entry	Réticulaire (Membrane)	0	
+orth	Réticulaire (Membrane)		
 ref	Oreille interne		
 pb	737	0741	4582947
 entry	Articles contenus dans le troisième volume (3e série)	1	
+orth	Articles contenus dans le troisième volume (3e série)		
 pb	738	0742	4582948
 pb	[s. pag.]	0743	4582949
 pb	[s. pag.]	0744	4582950

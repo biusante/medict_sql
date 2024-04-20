@@ -6,6 +6,7 @@ pb	[s. pag.]	0003	7287884
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7287885
 entry	Champignons	57	
+orth	Champignons		
 pb	2	0005	7287886
 pb	3	0006	7287887
 pb	4	0007	7287888
@@ -64,6 +65,7 @@ pb	56	0059	7287940
 pb	57	0060	7287941
 pb	58	0061	7287942
 entry	Chancre	85	
+orth	Chancre		
 pb	59	0062	7287943
 pb	60	0063	7287944
 pb	61	0064	7287945
@@ -150,6 +152,7 @@ pb	141	0144	7288025
 pb	142	0145	7288026
 pb	143	0146	7288027
 entry	Charbon (affections charbonneuses)	55	
+orth	Charbon (affections charbonneuses)		
 pb	144	0147	7288028
 pb	145	0148	7288029
 pb	146	0149	7288030
@@ -206,12 +209,14 @@ pb	196	0199	7288080
 pb	197	0200	7288081
 pb	198	0201	7288082
 entry	Charpie	5	
+orth	Charpie		
 pb	199	0202	7288083
 pb	200	0203	7288084
 pb	201	0204	7288085
 pb	202	0205	7288086
 pb	203	0206	7288087
 entry	Chauffage	22	
+orth	Chauffage		
 pb	204	0207	7288088
 pb	205	0208	7288089
 pb	206	0209	7288090
@@ -236,6 +241,7 @@ pb	224	0227	7288108
 pb	225	0228	7288109
 pb	226	0229	7288110
 entry	Chaux	15	
+orth	Chaux		
 pb	227	0230	7288111
 pb	228	0231	7288112
 pb	229	0232	7288113
@@ -252,23 +258,30 @@ pb	239	0242	7288123
 pb	240	0243	7288124
 pb	241	0244	7288125
 entry	Cheiloplastie	0	
+orth	Cheiloplastie		
 entry	Chemosis	0	
+orth	Chemosis		
 pb	242	0245	7288126
 entry	Chène	2	
+orth	Chène		
 pb	243	0246	7288127
 pb	244	0247	7288128
 entry	Cheveux	4	
+orth	Cheveux		
 pb	245	0248	7288129
 pb	246	0249	7288130
 pb	247	0250	7288131
 pb	248	0251	7288132
 entry	Chicorée	2	
+orth	Chicorée		
 pb	249	0252	7288133
 pb	250	0253	7288134
 entry	Chiendent	1	
+orth	Chiendent		
 pb	251	0254	7288135
 pb	252	0255	7288136
 entry	Chiloplastie	0	
+orth	Chiloplastie		
 entry	Chlore, Chlorates, Chlorures	35	
 orth	Chlore		
 orth	Chlorates		
@@ -309,6 +322,7 @@ pb	285	0288	7288169
 pb	286	0289	7288170
 pb	287	0290	7288171
 entry	Chloroforme	10	
+orth	Chloroforme		
 pb	288	0291	7288172
 pb	289	0292	7288173
 pb	290	0293	7288174
@@ -320,6 +334,7 @@ pb	295	0298	7288179
 pb	296	0299	7288180
 pb	297	0300	7288181
 entry	Chlorose	24	
+orth	Chlorose		
 pb	298	0301	7288182
 pb	299	0302	7288183
 pb	300	0303	7288184
@@ -345,7 +360,9 @@ pb	319	0322	7288203
 pb	320	0323	7288204
 pb	321	0324	7288205
 entry	Cholécystite	0	
+orth	Cholécystite		
 entry	Choléra	176	
+orth	Choléra		
 pb	322	0325	7288206
 pb	323	0326	7288207
 pb	324	0327	7288208
@@ -523,8 +540,10 @@ pb	495	0498	7288379
 pb	496	0499	7288380
 pb	497	0500	7288381
 entry	Cholérine	0	
+orth	Cholérine		
 pb	498	0501	7288382
 entry	Chondrome	27	
+orth	Chondrome		
 pb	499	0502	7288383
 pb	500	0503	7288384
 pb	501	0504	7288385
@@ -553,6 +572,7 @@ pb	523	0526	7288407
 pb	524	0527	7288408
 pb	525	0528	7288409
 entry	Chorée	31	
+orth	Chorée		
 pb	526	0529	7288410
 pb	527	0530	7288411
 pb	528	0531	7288412
@@ -585,12 +605,15 @@ pb	554	0557	7288438
 pb	555	0558	7288439
 pb	556	0559	7288440
 entry	Cloison	0	
+orth	Cloison		
 entry	Choroïde	4	
+orth	Choroïde		
 pb	557	0560	7288441
 pb	558	0561	7288442
 pb	559	0562	7288443
 pb	560	0563	7288444
 entry	Choroïdite	13	
+orth	Choroïdite		
 pb	561	0564	7288445
 pb	562	0565	7288446
 pb	563	0566	7288447
@@ -605,6 +628,7 @@ pb	571	0574	7288455
 pb	572	0575	7288456
 pb	573	0576	7288457
 entry	Chrome chromates	7	
+orth	Chrome chromates		
 pb	574	0577	7288458
 pb	575	0578	7288459
 pb	576	0579	7288460
@@ -613,6 +637,7 @@ pb	578	0581	7288462
 pb	579	0582	7288463
 pb	580	0583	7288464
 entry	Chromhydrose	7	
+orth	Chromhydrose		
 pb	581	0584	7288465
 pb	582	0585	7288466
 pb	583	0586	7288467
@@ -625,6 +650,7 @@ orth	Chyle
 orth	Chylifère (vaisseau)		
 orth	Chylification		
 entry	Chylevie	0	
+orth	Chylevie		
 entry	Chyme, Chymification	0	
 orth	Chyme		
 orth	Chymification		
@@ -659,8 +685,10 @@ pb	612	0615	7288496
 pb	613	0616	7288497
 pb	614	0617	7288498
 entry	Cicutine	0	
+orth	Cicutine		
 pb	615	0618	7288499
 entry	Ciguës	16	
+orth	Ciguës		
 pb	616	0619	7288500
 pb	617	0620	7288501
 pb	618	0621	7288502
@@ -678,12 +706,15 @@ pb	629	0632	7288513
 pb	630	0633	7288514
 pb	631	0634	7288515
 entry	Cinchonine	4	
+orth	Cinchonine		
 pb	632	0635	7288516
 pb	633	0636	7288517
 pb	634	0637	7288518
 pb	635	0638	7288519
 entry	Cinnabre	0	
+orth	Cinnabre		
 entry	Circoncision	9	
+orth	Circoncision		
 pb	636	0639	7288520
 pb	637	0640	7288521
 pb	638	0641	7288522
@@ -694,6 +725,7 @@ pb	642	0645	7288526
 pb	643	0646	7288527
 pb	644	0647	7288528
 entry	Circulation	95	
+orth	Circulation		
 pb	645	0648	7288529
 pb	646	0649	7288530
 pb	647	0650	7288531
@@ -790,6 +822,7 @@ pb	737	0740	7288621
 pb	738	0741	7288622
 pb	739	0742	7288623
 entry	Cire	6	
+orth	Cire		
 pb	740	0743	7288624
 pb	741	0744	7288625
 pb	742	0745	7288626
@@ -797,11 +830,15 @@ pb	743	0746	7288627
 pb	744	0747	7288628
 pb	745	0748	7288629
 entry	Cirecise (dégénérescence)	0	
+orth	Cirecise (dégénérescence)		
 entry	Cirrhose	0	
+orth	Cirrhose		
 entry	Ciseaux	2	
+orth	Ciseaux		
 pb	746	0749	7288630
 pb	747	0750	7288631
 entry	Citrique (acide)	8	
+orth	Citrique (acide)		
 pb	748	0751	7288632
 pb	749	0752	7288633
 pb	750	0753	7288634
@@ -811,11 +848,14 @@ pb	753	0756	7288637
 pb	754	0757	7288638
 pb	755	0758	7288639
 entry	Citron	2	
+orth	Citron		
 pb	756	0759	7288640
 pb	757	0760	7288641
 entry	Citrouille	1	
+orth	Citrouille		
 pb	758	0761	7288642
 entry	Claudication	16	
+orth	Claudication		
 pb	759	0762	7288643
 pb	760	0763	7288644
 pb	761	0764	7288645
@@ -834,5 +874,7 @@ pb	773	0776	7288657
 pb	774	0777	7288658
 pb	[s. pag.]	0778	7288659
 entry	Table des auteurs	0	
+orth	Table des auteurs		
 pb	[s. pag.]	0779	7288660
 entry	Publicité Baillière	0	
+orth	Publicité Baillière		

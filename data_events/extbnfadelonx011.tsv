@@ -11,6 +11,7 @@ pb	2	0006	4812845
 pb	3	0007	4812846
 pb	4	0008	4812847
 entry	Hémicranie	0	
+orth	Hémicranie		
 pb	5	0009	4812848
 entry	Hémiopie, Hémiopsie	0	
 orth	Hémiopie		
@@ -75,7 +76,9 @@ pb	45	0049	4812888
 pb	46	0050	4812889
 pb	47	0051	4812890
 entry	Hémorrhée	0	
+orth	Hémorrhée		
 entry	Hémorrhoïdaire	0	
+orth	Hémorrhoïdaire		
 entry	Hémorrhoïdal [A. Béclard]	1	
 orth	Hémorrhoïdal		
 pb	48	0052	4812891
@@ -85,6 +88,7 @@ pb	49	0053	4812892
 pb	50	0054	4812893
 pb	51	0055	4812894
 entry	Hémostase	0	
+orth	Hémostase		
 entry	Hémostatique [Marjolin]	4	
 orth	Hémostatique		
 pb	52	0056	4812895
@@ -99,6 +103,7 @@ entry	Hépatirrhée [Raige Delorme]	1
 orth	Hépatirrhée		
 pb	58	0062	4812901
 entry	Hépatisation du poumon	0	
+orth	Hépatisation du poumon		
 entry	Hépatite, Hépatitis [G. Ferrus]	12	
 orth	Hépatite		
 orth	Hépatitis		
@@ -115,6 +120,7 @@ pb	68	0072	4812911
 pb	69	0073	4812912
 pb	70	0074	4812913
 entry	Hépatocèle	0	
+orth	Hépatocèle		
 entry	Hépato-cystique [A. Béclard]	0	
 orth	Hépato-cystique		
 entry	Héréditaire [Raige Delorme]	1	
@@ -137,6 +143,7 @@ entry	Hermodactes ou hermodattes [A. Richard]	0
 orth	Hermodactes		
 orth	hermodattes		
 entry	Herniaire	1	
+orth	Herniaire		
 pb	83	0087	4812926
 entry	Herniaire [A. Richard]	0	
 orth	Herniaire		
@@ -238,10 +245,13 @@ pb	174	0178	4813017
 pb	175	0179	4813018
 pb	176	0180	4813019
 entry	Herpétique	0	
+orth	Herpétique		
 entry	Hiatus [A. Béclard]	0	
 orth	Hiatus		
 entry	Hiéra-diacolocynthidos	0	
+orth	Hiéra-diacolocynthidos		
 entry	Hiéra-picra	0	
+orth	Hiéra-picra		
 entry	Hippocampe [A. Béclard]	0	
 orth	Hippocampe		
 entry	Hippocratique (médecine) [Coutanceau]	9	
@@ -319,13 +329,17 @@ entry	Hordeïne [J. Pelletier]	1
 orth	Hordeïne		
 pb	232	0236	4813075
 entry	Horripilation	0	
+orth	Horripilation		
 entry	Houblon [A. Richard]	2	
 orth	Houblon		
 pb	233	0237	4813076
 pb	234	0238	4813077
 entry	Houppe du menton	0	
+orth	Houppe du menton		
 entry	Hospice	0	
+orth	Hospice		
 entry	Hôtel-Dieu	0	
+orth	Hôtel-Dieu		
 entry	Huile [Raige Delorme, J. Pelletier]	14	
 orth	Huile		
 pb	235	0239	4813078
@@ -358,20 +372,26 @@ pb	253	0257	4813096
 pb	254	0258	4813097
 pb	255	0259	4813098
 entry	Huméro-cubitale (Articulation)	0	
+orth	Huméro-cubitale (Articulation)		
 entry	Humérus [A. Béclard]	3	
 orth	Humérus		
 pb	256	0260	4813099
 pb	257	0261	4813100
 pb	258	0262	4813101
 entry	Humeur	4	
+orth	Humeur		
 pb	259	0263	4813102
 pb	260	0264	4813103
 pb	261	0265	4813104
 pb	262	0266	4813105
 entry	Humeurs froides	0	
+orth	Humeurs froides		
 entry	Humide radical	0	
+orth	Humide radical		
 entry	Humidité	0	
+orth	Humidité		
 entry	Humoral	0	
+orth	Humoral		
 pb	263	0267	4813106
 entry	Humorisme [Coutanceau]	4	
 orth	Humorisme		
@@ -380,7 +400,9 @@ pb	265	0269	4813108
 pb	266	0270	4813109
 pb	267	0271	4813110
 entry	Hyacinthe (confection d')	0	
+orth	Hyacinthe (confection d')		
 entry	Hyaloïde	0	
+orth	Hyaloïde		
 entry	Hydarthrose [Jules Cloquet]	6	
 orth	Hydarthrose		
 pb	268	0272	4813111
@@ -394,7 +416,9 @@ orth	Hydatide
 pb	274	0278	4813117
 pb	275	0279	4813118
 entry	Hydatidocèle	0	
+orth	Hydatidocèle		
 entry	Hydatoïde	0	
+orth	Hydatoïde		
 entry	Hydracide [Orfila]	0	
 orth	Hydracide		
 entry	Hydragogue [Raige Delorme]	0	
@@ -501,6 +525,7 @@ pb	357	0361	4813200
 pb	358	0362	4813201
 pb	359	0363	4813202
 entry	Hydrochloro-nitrique (acide)	0	
+orth	Hydrochloro-nitrique (acide)		
 entry	Hydrocirscocèle, hydrocirsocèle	0	
 orth	Hydrocirscocèle		
 orth	hydrocirsocèle		
@@ -521,10 +546,14 @@ pb	369	0373	4813212
 entry	Hydrocyanique ferruré (acide) [Orfila]	0	
 orth	Hydrocyanique ferruré (acide)		
 entry	Hydro-entérocèle	0	
+orth	Hydro-entérocèle		
 entry	Hydro-épiplocèle	0	
+orth	Hydro-épiplocèle		
 entry	Hydrogastre	1	
+orth	Hydrogastre		
 pb	370	0374	4813213
 entry	Hydrogène (air inflammable)	5	
+orth	Hydrogène (air inflammable)		
 pb	371	0375	4813214
 pb	372	0376	4813215
 pb	373	0377	4813216
@@ -557,6 +586,7 @@ pb	391	0395	4813234
 pb	392	0396	4813235
 pb	393	0397	4813236
 entry	Hydromphale	1	
+orth	Hydromphale		
 pb	394	0398	4813237
 entry	Hydropéricarde [P. Rayer]	9	
 orth	Hydropéricarde		
@@ -598,6 +628,7 @@ entry	Hydrophysocèle et Hydropneumatocèle	0
 orth	Hydrophysocèle		
 orth	Hydropneumatocèle		
 entry	Hydropique	0	
+orth	Hydropique		
 entry	Hydropisie [P. Rayer]	36	
 orth	Hydropisie		
 pb	421	0425	4813264
@@ -637,16 +668,23 @@ pb	454	0458	4813297
 pb	455	0459	4813298
 pb	456	0460	4813299
 entry	Hydropneumonie	0	
+orth	Hydropneumonie		
 entry	Hydropneumosarque	0	
+orth	Hydropneumosarque		
 entry	Hydrorachis	0	
+orth	Hydrorachis		
 pb	457	0461	4813300
 entry	Hydrosarcocèle	0	
+orth	Hydrosarcocèle		
 entry	Hydrosarque	0	
+orth	Hydrosarque		
 entry	Hydrosélénique (acide) [Orfila]	0	
 orth	Hydrosélénique (acide)		
 entry	Hydrosulfate	1	
+orth	Hydrosulfate		
 pb	458	0462	4813301
 entry	Hydrosulfure	0	
+orth	Hydrosulfure		
 entry	Hydrosulfurique (acide) [Orfila]	2	
 orth	Hydrosulfurique (acide)		
 pb	459	0463	4813302
@@ -664,6 +702,7 @@ pb	468	0472	4813311
 pb	469	0473	4813312
 pb	470	0474	4813313
 entry	Hydrotite	0	
+orth	Hydrotite		
 entry	Hydroxanthique (acide) [Orfila]	0	
 orth	Hydroxanthique (acide)		
 entry	Hydrure [Ofila]	0	
@@ -685,17 +724,21 @@ pb	482	0486	4813325
 pb	483	0487	4813326
 pb	484	0488	4813327
 entry	Hygiènique	0	
+orth	Hygiènique		
 entry	Hygmore (corps d') [A. Béclard]	0	
 orth	Hygmore (corps d')		
 entry	Hygroblépharique	1	
+orth	Hygroblépharique		
 pb	485	0489	4813328
 entry	Hygrologie	0	
+orth	Hygrologie		
 entry	Hygromètre [L. Rostan]	1	
 orth	Hygromètre		
 pb	486	0490	4813329
 entry	Hymen [A. Béclard]	0	
 orth	Hymen		
 entry	Hyo-épiglottique	0	
+orth	Hyo-épiglottique		
 entry	Hyo-glosse (muscle) [A. Béclard]	1	
 orth	Hyo-glosse (muscle)		
 pb	487	0491	4813330
@@ -704,14 +747,21 @@ orth	Hyoïde
 pb	488	0492	4813331
 pb	489	0493	4813332
 entry	Hyoïdien	0	
+orth	Hyoïdien		
 entry	Hyo-pharyngien (muscle)	0	
+orth	Hyo-pharyngien (muscle)		
 entry	Hyo-thyroïdien (muscle) [A. Béclard]	0	
 orth	Hyo-thyroïdien (muscle)		
 entry	Hypèresthésie	0	
+orth	Hypèresthésie		
 entry	Hypersarcose	0	
+orth	Hypersarcose		
 entry	Hypersthénie	0	
+orth	Hypersthénie		
 entry	Hypertonie	0	
+orth	Hypertonie		
 entry	Hypertrophie	0	
+orth	Hypertrophie		
 pb	490	0494	4813333
 entry	Hypnotique [Raige Delorme]	0	
 orth	Hypnotique		
@@ -753,6 +803,7 @@ orth	Hypogastre
 entry	Hypogastrique [A. Béclard]	0	
 orth	Hypogastrique		
 entry	Hypogastrocèle	0	
+orth	Hypogastrocèle		
 entry	Hypoglosse [A. Béclard]	2	
 orth	Hypoglosse		
 pb	517	0521	4813360
@@ -776,7 +827,9 @@ pb	524	0528	4813367
 entry	Hypospadias [G. Breschet]	0	
 orth	Hypospadias		
 entry	Hypospathisme	0	
+orth	Hypospathisme		
 entry	Hypostase	0	
+orth	Hypostase		
 entry	Hypothénar [A. Béclard]	0	
 orth	Hypothénar		
 entry	Hyposulfates [Orfila]	0	
@@ -785,6 +838,7 @@ entry	Hyposulfites (Sulfites sulfurés) [Orfila]	1
 orth	Hyposulfites (Sulfites sulfurés)		
 pb	525	0529	4813368
 entry	Hyposulfureux (acide)	0	
+orth	Hyposulfureux (acide)		
 entry	Hyposulfurique (acide) [Orfila]	0	
 orth	Hyposulfurique (acide)		
 entry	Hysope et Hyssope [A. Richard]	1	
@@ -792,6 +846,7 @@ orth	Hysope
 orth	Hyssope		
 pb	526	0530	4813369
 entry	Hystéralgie	0	
+orth	Hystéralgie		
 entry	Hystérie [Georget]	25	
 orth	Hystérie		
 pb	527	0531	4813370
@@ -821,10 +876,15 @@ pb	550	0554	4813393
 pb	551	0555	4813394
 pb	552	0556	4813395
 entry	Hystérique	0	
+orth	Hystérique		
 entry	Hystérocèle	0	
+orth	Hystérocèle		
 entry	Hystéroloxie	0	
+orth	Hystéroloxie		
 entry	Hystéromanie	0	
+orth	Hystéromanie		
 entry	Hystéroptose	0	
+orth	Hystéroptose		
 entry	Hystérostomatome [Desormeaux]	0	
 orth	Hystérostomatome		
 entry	Hystérotome [Desormeaux]	0	
@@ -835,5 +895,7 @@ entry	Hystérotomotokie [Desormeaux]	0
 orth	Hystérotomotokie		
 pb	[s. pag.]	0557	4813396
 entry	Table des principaux articles contenus dans le onzième volume	0	
+orth	Table des principaux articles contenus dans le onzième volume		
 pb	[s. pag.]	0558	4813397
 entry	Distribution des matières	0	
+orth	Distribution des matières		

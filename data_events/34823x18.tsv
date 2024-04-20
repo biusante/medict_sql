@@ -2,10 +2,12 @@ pb	[s. pag.]	0001	4802207
 entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4802208
 entry	Liste des collaborateurs du dix-huitième volume	0	
+orth	Liste des collaborateurs du dix-huitième volume		
 pb	[s. pag.]	0003	4802209
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4802210
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
+orth	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles		
 pb	1	0005	4802211
 entry	Poumon (Anatomie et physiologie) [L. Moussu]	20	
 orth	Poumon (Anatomie et physiologie)		
@@ -234,7 +236,9 @@ pb	207	0211	4802417
 pb	208	0212	4802418
 pb	209	0213	4802419
 entry	Pourriture	0	
+orth	Pourriture		
 entry	Pousse	0	
+orth	Pousse		
 entry	Précocité (Définition) [A. Sanson]	32	
 orth	Précocité (Définition)		
 pb	210	0214	4802420
@@ -273,6 +277,7 @@ pb	242	0246	4802452
 entry	Précocité (Définition) [A. Sanson]. Presbytie	0	
 orth	Précocité (Définition). Presbytie		
 entry	Présentation	0	
+orth	Présentation		
 entry	Priapisme [A. Labat]	2	
 orth	Priapisme		
 pb	243	0247	4802453
@@ -371,12 +376,17 @@ pb	321	0325	4802531
 entry	Protozoaires [A. Railliet]. Prurigo	0	
 orth	Protozoaires. Prurigo		
 entry	Prurit	0	
+orth	Prurit		
 entry	Pseudarthrose [P. J. Cadiot]. Psoriasis	0	
 orth	Pseudarthrose. Psoriasis		
 entry	Psoropte	0	
+orth	Psoropte		
 entry	Psorospermies	0	
+orth	Psorospermies		
 entry	Ptérygion	0	
+orth	Ptérygion		
 entry	Ptyalisme	0	
+orth	Ptyalisme		
 entry	Puces [A. Railliet]	11	
 orth	Puces		
 pb	322	0326	4802532
@@ -461,7 +471,9 @@ pb	392	0396	4802602
 entry	Pur sang [A. Sanson]. Pus	0	
 orth	Pur sang. Pus		
 entry	Pustule	0	
+orth	Pustule		
 entry	Putride (Infection)	0	
+orth	Putride (Infection)		
 entry	Pyohémie [E. Nocard]	14	
 orth	Pyohémie		
 pb	393	0397	4802603
@@ -672,4 +684,5 @@ pb	583	0587	4802793
 pb	[s. pag.]	0588	4802794
 pb	585	0589	4802795
 entry	Table générale par ordre alphabétique	1	
+orth	Table générale par ordre alphabétique		
 pb	586	0590	4802796

@@ -46,10 +46,12 @@ pb	37	0041	4815774
 pb	38	0042	4815775
 pb	39	0043	4815776
 entry	Orthopnée	0	
+orth	Orthopnée		
 entry	Ortie [A. Richard]	1	
 orth	Ortie		
 pb	40	0044	4815777
 entry	Ortié	0	
+orth	Ortié		
 entry	Orviétan [Marjolin]	11	
 orth	Orviétan		
 pb	41	0045	4815778
@@ -64,6 +66,7 @@ pb	49	0053	4815786
 pb	50	0054	4815787
 pb	51	0055	4815788
 entry	Oschéocèle	0	
+orth	Oschéocèle		
 entry	Oseille [A. Richard]	1	
 orth	Oseille		
 pb	52	0056	4815789
@@ -74,11 +77,17 @@ entry	Osmium [Orfila]	1
 orth	Osmium		
 pb	54	0058	4815791
 entry	Osphrésiologie	0	
+orth	Osphrésiologie		
 entry	Osselet	0	
+orth	Osselet		
 entry	Osseux	0	
+orth	Osseux		
 entry	Ossification	0	
+orth	Ossification		
 entry	Ostéocope	0	
+orth	Ostéocope		
 entry	Ostéogénie	0	
+orth	Ostéogénie		
 entry	Ostéologie [Marjolin]	0	
 orth	Ostéologie		
 entry	Ostéomalacie, Ostéomalakie, ou Ostéomalaxie	0	
@@ -92,6 +101,7 @@ pb	56	0060	4815793
 pb	57	0061	4815794
 pb	58	0062	4815795
 entry	Ostéose	0	
+orth	Ostéose		
 entry	Ostéostéatome [Jules Cloquet]	0	
 orth	Ostéostéatome		
 entry	Otalgie [Andral fils]	2	
@@ -127,6 +137,7 @@ pb	80	0084	4815817
 pb	81	0085	4815818
 pb	82	0086	4815819
 entry	Ouraque	0	
+orth	Ouraque		
 entry	Ovaire [Marjolin, Andral fils]	8	
 orth	Ovaire		
 pb	83	0087	4815820
@@ -138,18 +149,24 @@ pb	88	0092	4815825
 pb	89	0093	4815826
 pb	90	0094	4815827
 entry	Ovariste	0	
+orth	Ovariste		
 entry	Ovale	1	
+orth	Ovale		
 pb	91	0095	4815828
 entry	Oviducte	0	
+orth	Oviducte		
 entry	Ovule [Marjolin]	0	
 orth	Ovule		
 entry	Oxalate	0	
+orth	Oxalate		
 entry	Oxalique (acide) [Orfila]	2	
 orth	Oxalique (acide)		
 pb	92	0096	4815829
 pb	93	0097	4815830
 entry	Oxycrat	0	
+orth	Oxycrat		
 entry	Oxyde	1	
+orth	Oxyde		
 pb	94	0098	4815831
 entry	Oxygène [Orfila]	3	
 orth	Oxygène		
@@ -157,7 +174,9 @@ pb	95	0099	4815832
 pb	96	0100	4815833
 pb	97	0101	4815834
 entry	Oxymel	0	
+orth	Oxymel		
 entry	Ozène [L	7	
+orth	Ozène [L		
 ref	Lagneau]		
 pb	98	0102	4815835
 pb	99	0103	4815836
@@ -182,20 +201,24 @@ orth	Palatin
 pb	112	0116	4815849
 pb	113	0117	4815850
 entry	Palato-pharyngien	1	
+orth	Palato-pharyngien		
 pb	114	0118	4815851
 entry	Palato-staphylin [Marjolin]	0	
 orth	Palato-staphylin		
 entry	Pales-couleurs	0	
+orth	Pales-couleurs		
 entry	Palette [Murat]	2	
 orth	Palette		
 pb	115	0119	4815852
 pb	116	0120	4815853
 entry	Paleur	0	
+orth	Paleur		
 entry	Palladium [Orfila]	0	
 orth	Palladium		
 entry	Palliatif [Guersent]	0	
 orth	Palliatif		
 entry	Palma-Christi	0	
+orth	Palma-Christi		
 entry	Palmaire [Marjolin]	1	
 orth	Palmaire		
 pb	117	0121	4815854
@@ -213,6 +236,7 @@ pb	122	0126	4815859
 pb	123	0127	4815860
 pb	124	0128	4815861
 entry	Panacée	1	
+orth	Panacée		
 pb	125	0129	4815862
 entry	Panais [A. Richard]	1	
 orth	Panais		
@@ -233,21 +257,27 @@ pb	137	0141	4815874
 pb	138	0142	4815875
 pb	139	0143	4815876
 entry	Panchymagogue	1	
+orth	Panchymagogue		
 pb	140	0144	4815877
 entry	Pancréas	2	
+orth	Pancréas		
 pb	141	0145	4815878
 pb	142	0146	4815879
 entry	Pancréatico-duodénal	0	
+orth	Pancréatico-duodénal		
 entry	Pancréatique [Marjolin]	0	
 orth	Pancréatique		
 entry	Pandémie	0	
+orth	Pandémie		
 entry	Pandiculation [Chomel]	0	
 orth	Pandiculation		
 entry	Panicaut [A. Richard]	1	
 orth	Panicaut		
 pb	143	0147	4815880
 entry	Pannicule	0	
+orth	Pannicule		
 entry	Panophobie	0	
+orth	Panophobie		
 entry	Pansement [Murat]	5	
 orth	Pansement		
 pb	144	0148	4815881
@@ -262,6 +292,7 @@ entry	Papavéracées [A. Richard]	1
 orth	Papavéracées		
 pb	150	0154	4815887
 entry	Papillaire	0	
+orth	Papillaire		
 entry	Papille [Marjolin]	0	
 orth	Papille		
 entry	Papule [L. Biett]	1	
@@ -292,6 +323,7 @@ pb	167	0171	4815904
 pb	168	0172	4815905
 pb	169	0173	4815906
 entry	Paraphimosis [L	6	
+orth	Paraphimosis [L		
 ref	Lagneau]		
 pb	170	0174	4815907
 pb	171	0175	4815908
@@ -300,17 +332,21 @@ pb	173	0177	4815910
 pb	174	0178	4815911
 pb	175	0179	4815912
 entry	Paraphrénésie	0	
+orth	Paraphrénésie		
 entry	Paraplégie, Paraplexie	0	
 orth	Paraplégie		
 orth	Paraplexie		
 entry	Parapleurésie	0	
+orth	Parapleurésie		
 entry	Parathénar [Marjolin]	0	
 orth	Parathénar		
 entry	Parégorique	0	
+orth	Parégorique		
 entry	Pareira brava [A. Richard]	1	
 orth	Pareira brava		
 pb	176	0180	4815913
 entry	Parencéphalocèle	0	
+orth	Parencéphalocèle		
 entry	Parenchyme [Marjolin]	0	
 orth	Parenchyme		
 entry	Pariétaire [A. Richard]	1	
@@ -322,6 +358,7 @@ pb	178	0182	4815915
 entry	Paroi [Marjolin]	0	
 orth	Paroi		
 entry	Parole	0	
+orth	Parole		
 entry	Parotide [Marjolin, Rochoux]	6	
 orth	Parotide		
 pb	179	0183	4815916
@@ -333,9 +370,12 @@ pb	184	0188	4815921
 entry	Parotidien [Marjolin]	0	
 orth	Parotidien		
 entry	Paroxysme	1	
+orth	Paroxysme		
 pb	185	0189	4815922
 entry	Paroxystique	0	
+orth	Paroxystique		
 entry	Part	0	
+orth	Part		
 entry	Parturition [Desormeaux]	1	
 orth	Parturition		
 pb	186	0190	4815923
@@ -344,9 +384,11 @@ orth	Parulis
 orth	Parulie		
 pb	187	0191	4815924
 entry	Pas d'âne	0	
+orth	Pas d'âne		
 entry	Passerage [A. Richard]	0	
 orth	Passerage		
 entry	Passif	0	
+orth	Passif		
 entry	Passion [L. Rostan]	17	
 orth	Passion		
 pb	188	0192	4815925
@@ -370,10 +412,12 @@ entry	Pastèque [A. Richard]	1
 orth	Pastèque		
 pb	205	0209	4815942
 entry	Pastille	0	
+orth	Pastille		
 entry	Patate [A. Richard]	0	
 orth	Patate		
 pb	206	0210	4815943
 entry	Pâte	0	
+orth	Pâte		
 entry	Pathétique [Marjolin]	0	
 orth	Pathétique		
 entry	Pathogénie [Rochoux]	11	
@@ -390,6 +434,7 @@ pb	215	0219	4815952
 pb	216	0220	4815953
 pb	217	0221	4815954
 entry	Pathognomonique	0	
+orth	Pathognomonique		
 entry	Pathologie [Rochoux]	5	
 orth	Pathologie		
 pb	218	0222	4815955
@@ -398,9 +443,11 @@ pb	220	0224	4815957
 pb	221	0225	4815958
 pb	222	0226	4815959
 entry	Pathologique	0	
+orth	Pathologique		
 entry	Patience [A. Richard]	0	
 orth	Patience		
 entry	Paume de la main	0	
+orth	Paume de la main		
 entry	Paupière [Marjolin]	2	
 orth	Paupière		
 pb	223	0227	4815960
@@ -424,6 +471,7 @@ entry	Peaucier [Marjolin]	1
 orth	Peaucier		
 pb	234	0238	4815971
 entry	Peccant	0	
+orth	Peccant		
 entry	Pêche [A. Richard]	0	
 orth	Pêche		
 entry	Pêcher [A. Richard]	2	
@@ -439,14 +487,19 @@ entry	Pectoral [Marjolin]	1
 orth	Pectoral		
 pb	238	0242	4815975
 entry	Pectoral	0	
+orth	Pectoral		
 pb	239	0243	4815976
 entry	Pectoriloquie	0	
+orth	Pectoriloquie		
 entry	Pedarthrocace ou Poedarthrocace [Jules Cloquet]	0	
 orth	Pedarthrocace		
 orth	Poedarthrocace		
 entry	Pédiculaire	0	
+orth	Pédiculaire		
 entry	Pédicule	0	
+orth	Pédicule		
 entry	Pedicure	0	
+orth	Pedicure		
 entry	Pédieux, euse [Marjolin]	0	
 orth	Pédieux		
 pb	240	0244	4815977
@@ -456,9 +509,12 @@ pb	241	0245	4815978
 entry	Pédoncule [Marjolin]	0	
 orth	Pédoncule		
 entry	Pelade [L	0	
+orth	Pelade [L		
 ref	Lagneau]		
 entry	Pelican	0	
+orth	Pelican		
 entry	Pellagre [L	7	
+orth	Pellagre [L		
 ref	Lagneau]		
 pb	242	0246	4815979
 pb	243	0247	4815980
@@ -468,6 +524,7 @@ pb	246	0250	4815983
 pb	247	0251	4815984
 pb	248	0252	4815985
 entry	Pellicule	0	
+orth	Pellicule		
 entry	Pelotte [Murat]	0	
 orth	Pelotte		
 entry	Pelvien, enne [Marjolin]	0	
@@ -494,6 +551,7 @@ pb	261	0265	4815998
 pb	262	0266	4815999
 pb	263	0267	4816000
 entry	Pénil	0	
+orth	Pénil		
 entry	Pénis [C. P. Ollivier]	8	
 orth	Pénis		
 pb	264	0268	4816001
@@ -515,8 +573,11 @@ pb	273	0277	4816010
 entry	Perce-pierre [A. Richard]	0	
 orth	Perce-pierre		
 entry	Percepta	0	
+orth	Percepta		
 entry	Perception	0	
+orth	Perception		
 entry	Perchlorique	0	
+orth	Perchlorique		
 entry	Percussion [Andral fils]	4	
 orth	Percussion		
 pb	274	0278	4816011
@@ -536,6 +597,7 @@ pb	281	0285	4816018
 pb	282	0286	4816019
 pb	283	0287	4816020
 entry	Perforé	0	
+orth	Perforé		
 entry	Péricarde [Marjolin]	2	
 orth	Péricarde		
 pb	284	0288	4816021
@@ -554,8 +616,10 @@ pb	294	0298	4816031
 pb	295	0299	4816032
 pb	296	0300	4816033
 entry	Périchondre	1	
+orth	Périchondre		
 pb	297	0301	4816034
 entry	Péricrâne	0	
+orth	Péricrâne		
 entry	Périnéal, ale [Marjolin]	0	
 orth	Périnéal		
 entry	Périnée [C. P. Ollivier]	3	
@@ -569,6 +633,7 @@ pb	301	0305	4816038
 pb	302	0306	4816039
 pb	303	0307	4816040
 entry	Périodicité	0	
+orth	Périodicité		
 entry	Périoste [Marjolin]	1	
 orth	Périoste		
 pb	304	0308	4816041
@@ -580,12 +645,16 @@ entry	Péripneumonie [Chomel]	1
 orth	Péripneumonie		
 pb	307	0311	4816044
 entry	Péristaltique	0	
+orth	Péristaltique		
 entry	Péristaphylin [Marjolin]	0	
 orth	Péristaphylin		
 entry	Péristole	1	
+orth	Péristole		
 pb	308	0312	4816045
 entry	Périteste	0	
+orth	Périteste		
 entry	Péritoine	9	
+orth	Péritoine		
 pb	309	0313	4816046
 pb	310	0314	4816047
 pb	311	0315	4816048
@@ -631,8 +700,11 @@ entry	Perkinisme [Guersent]	1
 orth	Perkinisme		
 pb	346	0350	4816083
 entry	Perle	0	
+orth	Perle		
 entry	Pernicieux	0	
+orth	Pernicieux		
 entry	Péroné	1	
+orth	Péroné		
 pb	347	0351	4816084
 entry	Péronéo-tibial, ale	2	
 orth	Péronéo-tibial		
@@ -643,17 +715,23 @@ orth	Péronier
 pb	350	0354	4816087
 pb	351	0355	4816088
 entry	Peroxyde	0	
+orth	Peroxyde		
 entry	Persil [A. Richard]	1	
 orth	Persil		
 pb	352	0356	4816089
 entry	Perspiration	0	
+orth	Perspiration		
 entry	Perspiratoire	0	
+orth	Perspiratoire		
 entry	Perte	0	
+orth	Perte		
 entry	Perturbation	0	
+orth	Perturbation		
 entry	Pervenche petite [A. Richard]	1	
 orth	Pervenche petite		
 pb	353	0357	4816090
 entry	Perversion	1	
+orth	Perversion		
 pb	354	0358	4816091
 entry	Pessaire [Jules Cloquet]	8	
 orth	Pessaire		
@@ -666,7 +744,9 @@ pb	360	0364	4816097
 pb	361	0365	4816098
 pb	362	0366	4816099
 entry	Peste	0	
+orth	Peste		
 entry	Pestilentiel	0	
+orth	Pestilentiel		
 entry	Petasite [A. Richard]	0	
 orth	Petasite		
 entry	Pétéchial [Rochoux]	1	
@@ -682,7 +762,9 @@ pb	368	0372	4816105
 entry	Petit-chène [A. Richard]	0	
 orth	Petit-chène		
 entry	Petit houx	0	
+orth	Petit houx		
 entry	Petit-lait	1	
+orth	Petit-lait		
 pb	369	0373	4816106
 entry	Petite centaurée [A. Richard]	0	
 orth	Petite centaurée		
@@ -690,7 +772,9 @@ entry	Petite cigue [A. Richard]	1
 orth	Petite cigue		
 pb	370	0374	4816107
 entry	Petite valériane	0	
+orth	Petite valériane		
 entry	Petite vérole	0	
+orth	Petite vérole		
 entry	Pétré ou Pétreux [Marjolin]	0	
 orth	Pétré		
 orth	Pétreux		
@@ -698,9 +782,13 @@ entry	Pétrole [Orfila]	1
 orth	Pétrole		
 pb	371	0375	4816108
 entry	Pétro-occipital	0	
+orth	Pétro-occipital		
 entry	Pétro-salpingo-pharyngien	0	
+orth	Pétro-salpingo-pharyngien		
 entry	Pétro-salpingo-staphylin	0	
+orth	Pétro-salpingo-staphylin		
 entry	Pétro-sphénoïdal	0	
+orth	Pétro-sphénoïdal		
 entry	Pétro-staphylin [Marjolin]	0	
 orth	Pétro-staphylin		
 entry	Peuplier [A. Richard]	2	
@@ -708,11 +796,15 @@ orth	Peuplier
 pb	372	0376	4816109
 pb	373	0377	4816110
 entry	Phagédénique	0	
+orth	Phagédénique		
 entry	Phalange	0	
+orth	Phalange		
 entry	Phalangien [Marjolin]	0	
 orth	Phalangien		
 entry	Phallorrhagie	0	
+orth	Phallorrhagie		
 entry	Pharmaceutique	0	
+orth	Pharmaceutique		
 entry	Pharmacie [Marc]	1	
 orth	Pharmacie		
 pb	374	0378	4816111
@@ -730,15 +822,21 @@ pb	381	0385	4816118
 pb	382	0386	4816119
 pb	383	0387	4816120
 entry	Pharmacopée	0	
+orth	Pharmacopée		
 entry	Pharyngé ou Pharyngien	0	
 orth	Pharyngé		
 orth	Pharyngien		
 pb	384	0388	4816121
 entry	Pharyngite	0	
+orth	Pharyngite		
 entry	Pharyngo-glossien	0	
+orth	Pharyngo-glossien		
 entry	Pharyngo-staphylin	0	
+orth	Pharyngo-staphylin		
 entry	Pharyngotome	0	
+orth	Pharyngotome		
 entry	Pharyngotomie	0	
+orth	Pharyngotomie		
 entry	Pharynx [Marjolin]	3	
 orth	Pharynx		
 pb	385	0389	4816122
@@ -748,7 +846,9 @@ entry	Phellandre [A. Richard]	1
 orth	Phellandre		
 pb	388	0392	4816125
 entry	Phénomène	0	
+orth	Phénomène		
 entry	Phimosis [L	8	
+orth	Phimosis [L		
 ref	Lagneau]		
 pb	389	0393	4816126
 pb	390	0394	4816127
@@ -759,6 +859,7 @@ pb	394	0398	4816131
 pb	395	0399	4816132
 pb	396	0400	4816133
 entry	Phlébectasie	0	
+orth	Phlébectasie		
 entry	Phlébite [G. Breschet]	13	
 orth	Phlébite		
 pb	397	0401	4816134
@@ -796,11 +897,14 @@ pb	424	0428	4816161
 pb	425	0429	4816162
 pb	426	0430	4816163
 entry	Phlegmagogue	0	
+orth	Phlegmagogue		
 entry	Phlegmasie [Chomel]	1	
 orth	Phlegmasie		
 pb	427	0431	4816164
 entry	Phlegmatie	0	
+orth	Phlegmatie		
 entry	Phlegmatique	0	
+orth	Phlegmatique		
 entry	Phlegme ou Pituite	0	
 orth	Phlegme		
 orth	Pituite		
@@ -813,33 +917,46 @@ pb	431	0435	4816168
 pb	432	0436	4816169
 pb	433	0437	4816170
 entry	Phlegmoneux	0	
+orth	Phlegmoneux		
 entry	Phlogose	0	
+orth	Phlogose		
 entry	Phlyctènes [P. Rayer]	1	
 orth	Phlyctènes		
 pb	434	0438	4816171
 entry	Phlycténoïde [P. Rayer]	0	
 orth	Phlycténoïde		
 entry	Phlyzacium	1	
+orth	Phlyzacium		
 pb	435	0439	4816172
 entry	Phocénine	0	
+orth	Phocénine		
 entry	Phocénique (acide) [Orfila]	0	
 orth	Phocénique (acide)		
 entry	Phosphate	0	
+orth	Phosphate		
 entry	Phosphatique (acide)	1	
+orth	Phosphatique (acide)		
 pb	436	0440	4816173
 entry	Phosphite	0	
+orth	Phosphite		
 entry	Phosphore	3	
+orth	Phosphore		
 pb	437	0441	4816174
 pb	438	0442	4816175
 pb	439	0443	4816176
 entry	Phosphoreux (acide)	0	
+orth	Phosphoreux (acide)		
 entry	Phosphorique (acide) [Orfila]	1	
 orth	Phosphorique (acide)		
 pb	440	0444	4816177
 entry	Phrénésie	0	
+orth	Phrénésie		
 entry	Phrénétique	0	
+orth	Phrénétique		
 entry	Phrénique	0	
+orth	Phrénique		
 entry	Phrénite	0	
+orth	Phrénite		
 entry	Phthiriase [P. Rayer]	8	
 orth	Phthiriase		
 pb	441	0445	4816178
@@ -882,7 +999,9 @@ pb	475	0479	4816212
 pb	476	0480	4816213
 pb	477	0481	4816214
 entry	Phthisique	0	
+orth	Phthisique		
 entry	Phthisurie	0	
+orth	Phthisurie		
 entry	Phtore ou Fluor [Orfila]	1	
 orth	Phtore		
 orth	Fluor		
@@ -931,10 +1050,13 @@ pb	509	0513	4816246
 pb	510	0514	4816247
 pb	511	0515	4816248
 entry	Physocèle	0	
+orth	Physocèle		
 entry	Physocéphale	0	
+orth	Physocéphale		
 entry	Physomètre [Chomel]	0	
 orth	Physomètre		
 entry	Pian [L	6	
+orth	Pian [L		
 ref	Lagneau]		
 pb	512	0516	4816249
 pb	513	0517	4816250
@@ -943,6 +1065,7 @@ pb	515	0519	4816252
 pb	516	0520	4816253
 pb	517	0521	4816254
 entry	Pica	1	
+orth	Pica		
 pb	518	0522	4816255
 entry	Picromel [Orfila]	1	
 orth	Picromel		
@@ -958,12 +1081,14 @@ pb	523	0527	4816260
 pb	524	0528	4816261
 pb	525	0529	4816262
 entry	Pied-bot	0	
+orth	Pied-bot		
 entry	Pied d'alouette [A. Richard]	1	
 orth	Pied d'alouette		
 pb	526	0530	4816263
 entry	Pied de chat [A. Richard]	0	
 orth	Pied de chat		
 entry	Pieds d'hippocampe	1	
+orth	Pieds d'hippocampe		
 pb	527	0531	4816264
 entry	Pied de lion [A. Richard]	0	
 orth	Pied de lion		
@@ -990,8 +1115,11 @@ pb	541	0545	4816278
 pb	542	0546	4816279
 pb	543	0547	4816280
 entry	Pierre à cautère	0	
+orth	Pierre à cautère		
 entry	Pierre infernale	0	
+orth	Pierre infernale		
 entry	Pierreux	0	
+orth	Pierreux		
 entry	Pignon [A. Richard]	1	
 orth	Pignon		
 pb	544	0548	4816281
@@ -1000,6 +1128,7 @@ orth	Pileux
 entry	Pilier [Marjolin]	0	
 orth	Pilier		
 entry	Pilule	2	
+orth	Pilule		
 pb	545	0549	4816282
 pb	546	0550	4816283
 entry	Piment [A. Richard]	1	
@@ -1045,7 +1174,9 @@ entry	Pituitaire [Marjolin]	1
 orth	Pituitaire		
 pb	565	0569	4816302
 entry	Pituite	0	
+orth	Pituite		
 entry	Pituiteux	0	
+orth	Pituiteux		
 entry	Pityriasis [P. Rayer]	3	
 orth	Pityriasis		
 pb	566	0570	4816303
@@ -1057,5 +1188,7 @@ pb	569	0573	4816306
 pb	570	0574	4816307
 pb	[s. pag.]	0575	4816308
 entry	Table des principaux articles contenus dans le seizième volume	0	
+orth	Table des principaux articles contenus dans le seizième volume		
 pb	[s. pag.]	0576	4816309
 entry	Distribution des matières	0	
+orth	Distribution des matières		

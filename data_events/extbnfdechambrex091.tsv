@@ -10,6 +10,7 @@ orth	Sterno-thyroïdien
 pb	2	0006	4589374
 pb	3	0007	4589375
 entry	Sternum	0	
+orth	Sternum		
 entry	Sternum. Anatomie [Servier]	4	
 orth	Sternum. Anatomie		
 pb	4	0008	4589376
@@ -235,6 +236,7 @@ pb	129	0133	4589501
 pb	130	0134	4589502
 pb	131	0135	4589503
 entry	Stimulus	0	
+orth	Stimulus		
 ref	Stimulisme		
 entry	Stipa [G. Planchon]	0	
 orth	Stipa		
@@ -275,6 +277,7 @@ pb	139	0143	4589511
 entry	Stoechas [G. Planchon] (bibliographie)	0	
 orth	Stoechas		
 entry	Stoerck	0	
+orth	Stoerck		
 ref	Störck		
 entry	Stoker (William) [L. Hahn]	0	
 orth	Stoker (William)		
@@ -389,6 +392,7 @@ pb	217	0221	4589589
 entry	Stomatoscope [A. Dechambre]	0	
 orth	Stomatoscope		
 entry	Stomencéphales	0	
+orth	Stomencéphales		
 ref	Cyclopes		
 entry	Stomoxes [A. Laboulbène]	0	
 orth	Stomoxes		
@@ -413,6 +417,7 @@ pb	221	0225	4589593
 entry	Störck ou sotrk (Auton von) [L. Hahn] (bibliographie)	0	
 orth	Störck ou sotrk (Auton von)		
 entry	Storène	0	
+orth	Storène		
 ref	Araignée		
 entry	Storer (John) [L. Hahn]	0	
 orth	Storer (John)		
@@ -523,6 +528,7 @@ pb	305	0309	4589677
 entry	Strack (Carl) [L. Hahn] (bibliographie)	0	
 orth	Strack (Carl)		
 entry	Strahl	0	
+orth	Strahl		
 ref	Schlesinger		
 entry	Strahsen (Friedrich-Christian) [L. Hahn]	0	
 orth	Strahsen (Friedrich-Christian)		
@@ -532,13 +538,16 @@ pb	306	0310	4589678
 entry	Strambio (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Strambio (Les deux)		
 entry	Stramoine	0	
+orth	Stramoine		
 entry	Stramoine. Botanique [H. Baillon]	2	
 orth	Stramoine. Botanique		
 pb	307	0311	4589679
 pb	308	0312	4589680
 entry	Emploi	0	
+orth	Emploi		
 ref	Datura		
 entry	Stramonine	0	
+orth	Stramonine		
 ref	Daturine		
 entry	Strangulation (Médecine légale) [G. Tourdes]	39	
 orth	Strangulation (Médecine légale)		
@@ -637,6 +646,7 @@ orth	Streubel (Carl-Wilhelm)
 entry	Strictum et Laxum [Amédée Dechambre]	0	
 orth	Strictum et Laxum		
 entry	Stridulation	0	
+orth	Stridulation		
 entry	Stridulation. Séméiologie [Henri Barth]	6	
 orth	Stridulation. Séméiologie		
 pb	357	0361	4589729
@@ -646,6 +656,7 @@ pb	360	0364	4589732
 pb	361	0365	4589733
 pb	362	0366	4589734
 entry	Stridulation	0	
+orth	Stridulation		
 entry	Stridulation. Zoologie [G. Carlet]	4	
 orth	Stridulation. Zoologie		
 pb	363	0367	4589735
@@ -654,10 +665,13 @@ pb	365	0369	4589737
 pb	366	0370	4589738
 pb	367	0371	4589739
 entry	Striés (Corps)	0	
+orth	Striés (Corps)		
 ref	Corps opto-striés		
 entry	Striés (Muscles)	0	
+orth	Striés (Muscles)		
 ref	Musculaire (Tissu)		
 entry	Striges	0	
+orth	Striges		
 ref	Stryges		
 entry	Strobelberger (Johann-Stephan) [L. Hahn] (bibliographie)	0	
 orth	Strobelberger (Johann-Stephan)		
@@ -666,6 +680,7 @@ orth	Strobile
 entry	Strobon [G. Planchon]	0	
 orth	Strobon		
 entry	Stroemia tetrandra Vahl	0	
+orth	Stroemia tetrandra Vahl		
 ref	Cadaba		
 entry	Strom (Christian) [A. Dureau]	0	
 orth	Strom (Christian)		
@@ -695,6 +710,7 @@ entry	Strongyle [Ed. Lefèvre]	1
 orth	Strongyle		
 pb	374	0378	4589746
 entry	Strontiane	0	
+orth	Strontiane		
 ref	Strontium		
 entry	Strontium [C. Lutz]	3	
 orth	Strontium		
@@ -742,6 +758,7 @@ orth	Struve (Ludvig-August)
 entry	Strychnées [G. Planchon]	0	
 orth	Strychnées		
 entry	Strychnine	0	
+orth	Strychnine		
 entry	Strychnine. Chimie [Malaguti]	1	
 orth	Strychnine. Chimie		
 pb	390	0394	4589762
@@ -815,8 +832,10 @@ pb	451	0455	4589823
 entry	Strychnique (Acide) [Malaguti]	0	
 orth	Strychnique (Acide)		
 entry	Strychnos	0	
+orth	Strychnos		
 ref	Vomiquier		
 entry	Stryges	0	
+orth	Stryges		
 ref	Oiseaux		
 entry	Stuart (Alexander) [A. Dureau]	0	
 orth	Stuart (Alexander)		
@@ -867,6 +886,7 @@ orth	Stylet
 entry	Stylidium [H. Baillon] (bibliographie)	0	
 orth	Stylidium		
 entry	Stylo-glosse (Muscle)	0	
+orth	Stylo-glosse (Muscle)		
 ref	Langue		
 entry	Stylo-Hyoïdien (Muscle) [J. Aubry]	1	
 orth	Stylo-Hyoïdien (Muscle)		
@@ -874,14 +894,18 @@ pb	472	0476	4589844
 entry	Stylo-hyoïdien (Ligament) [J. Aubry]	0	
 orth	Stylo-hyoïdien (Ligament)		
 entry	Styloïde (Apophyse)	0	
+orth	Styloïde (Apophyse)		
 ref	Crâne		
 ref	Cubitus		
 ref	Radius		
 entry	Stylo-mastoïdien (Trou)	0	
+orth	Stylo-mastoïdien (Trou)		
 ref	Crâne		
 entry	Stylo-matoïdienne (Artère)	0	
+orth	Stylo-matoïdienne (Artère)		
 ref	Auriculaires (Vaisseaux)		
 entry	Stylo-pharyngien (Muscle)	0	
+orth	Stylo-pharyngien (Muscle)		
 ref	Pharynx		
 pb	473	0477	4589845
 entry	Styphelia [G. Planchon] (bibliographie)	0	
@@ -896,14 +920,17 @@ orth	Styracone
 entry	Styrax, Styracacées, Styracées [H. Baillon] (bibliographie)	0	
 orth	Styrax, Styracacées, Styracées		
 entry	Styrax	0	
+orth	Styrax		
 entry	Styrax. Chimie [Amédée Dechambre]	1	
 orth	Styrax. Chimie		
 pb	475	0479	4589847
 entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
 entry	Styrol	0	
+orth	Styrol		
 ref	Cinnamène		
 entry	Styrolique (Acide)	0	
+orth	Styrolique (Acide)		
 ref	Cinnamique		
 entry	Styrolyle [L. Hahn]	0	
 orth	Styrolyle		
@@ -938,12 +965,15 @@ orth	Subérone
 entry	Subintrantes (Fièvres) [Amédée Dechambre]	0	
 orth	Subintrantes (Fièvres)		
 entry	Subjee ou Sidhee	0	
+orth	Subjee ou Sidhee		
 ref	Sidhee		
 entry	Sublimation (Pharmacie) [Amédée Dechambre]	1	
 orth	Sublimation (Pharmacie)		
 pb	480	0484	4589852
 entry	Sublimé	0	
+orth	Sublimé		
 entry	Chimie	0	
+orth	Chimie		
 ref	Mercure		
 entry	Sublimé. Pharmacographie [Fonssagrives]	1	
 orth	Sublimé. Pharmacographie		
@@ -975,6 +1005,7 @@ pb	499	0503	4589871
 pb	500	0504	4589872
 pb	501	0505	4589873
 entry	Sublingual (Ganglion)	0	
+orth	Sublingual (Ganglion)		
 ref	Maxillaires (Nerfs)		
 entry	Sublinguale (Glande) [J. Aubry]	2	
 orth	Sublinguale (Glande)		
@@ -1106,6 +1137,7 @@ orth	Succenturiaux
 entry	Succenturié [Amédée Dechambre]	0	
 orth	Succenturié		
 entry	Succin	0	
+orth	Succin		
 entry	Succin. Chimie [C. Lutz]	1	
 orth	Succin. Chimie		
 pb	601	0605	4589973
@@ -1121,6 +1153,7 @@ pb	604	0608	4589976
 entry	Succinée [Ed. Lefèvre]	0	
 orth	Succinée		
 entry	Succineupione ou Eupione de succin	0	
+orth	Succineupione ou Eupione de succin		
 ref	Musc artificiel		
 entry	Succinique (Acide) [C. Lutz]	1	
 orth	Succinique (Acide)		
@@ -1141,6 +1174,7 @@ pb	610	0614	4589982
 entry	Succow (Georg-Adolph) [A. Dureau] (bibliographie)	0	
 orth	Succow (Georg-Adolph)		
 entry	Succube	0	
+orth	Succube		
 ref	Incube		
 entry	Succussion [Henri Barth]	5	
 orth	Succussion		
@@ -1155,6 +1189,7 @@ pb	616	0620	4589988
 entry	Suckow (Wilhelm-Carl-Friedrich) [A. Dureau] (bibliographie)	0	
 orth	Suckow (Wilhelm-Carl-Friedrich)		
 entry	Sucre	0	
+orth	Sucre		
 entry	Sucre. Chimie [Malaguti]	2	
 orth	Sucre. Chimie		
 pb	617	0621	4589989
@@ -1383,6 +1418,7 @@ pb	803	0807	4590175
 entry	Suède, Norvège [Jacques Bertillon] (bibliographie)	0	
 orth	Suède, Norvège		
 entry	Suédoise (Gymnastique)	0	
+orth	Suédoise (Gymnastique)		
 ref	Gymnastique		
 entry	Suédoises (Pilules) [Amédée Dechambre]	0	
 orth	Suédoises (Pilules)		
@@ -1391,6 +1427,7 @@ orth	Suelto (Garcia)
 pb	804	0808	4590176
 pb	805	0809	4590177
 entry	Articles contenus dans le douzième volume troisième série	2	
+orth	Articles contenus dans le douzième volume troisième série		
 pb	806	0810	4590178
 pb	807	0811	4590179
 pb	[s. pag.]	0812	4590180

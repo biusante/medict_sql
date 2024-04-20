@@ -24,7 +24,9 @@ orth	Dictionnaire de médecine
 orth	de chirurgie		
 orth	d'hygiène vétérinaires. M - Malacia		
 entry	Malade	0	
+orth	Malade		
 entry	Maladie	8	
+orth	Maladie		
 pb	2	0016	7323735
 pb	3	0017	7323736
 pb	4	0018	7323737
@@ -34,9 +36,12 @@ pb	7	0021	7323740
 pb	8	0022	7323741
 pb	9	0023	7323742
 entry	Maladie aphtheuse	0	
+orth	Maladie aphtheuse		
 entry	Maladie convulsive	1	
+orth	Maladie convulsive		
 pb	10	0024	7323743
 entry	Maladie des bois	8	
+orth	Maladie des bois		
 pb	11	0025	7323744
 pb	12	0026	7323745
 pb	13	0027	7323746
@@ -55,6 +60,7 @@ pb	22	0036	7323755
 pb	23	0037	7323756
 pb	24	0038	7323757
 entry	Maladies des chiens	24	
+orth	Maladies des chiens		
 pb	25	0039	7323758
 pb	26	0040	7323759
 pb	27	0041	7323760
@@ -80,6 +86,7 @@ pb	46	0060	7323779
 pb	47	0061	7323780
 pb	48	0062	7323781
 entry	Maladie de sang	10	
+orth	Maladie de sang		
 pb	49	0063	7323782
 pb	50	0064	7323783
 pb	51	0065	7323784
@@ -91,6 +98,7 @@ pb	56	0070	7323789
 pb	57	0071	7323790
 pb	58	0072	7323791
 entry	Maladie de Sologne	7	
+orth	Maladie de Sologne		
 pb	59	0073	7323792
 pb	60	0074	7323793
 pb	61	0075	7323794
@@ -99,6 +107,7 @@ pb	63	0077	7323796
 pb	64	0078	7323797
 pb	65	0079	7323798
 entry	Maladie épizootique des ongles	9	
+orth	Maladie épizootique des ongles		
 pb	66	0080	7323799
 pb	67	0081	7323800
 pb	68	0082	7323801
@@ -109,16 +118,27 @@ pb	72	0086	7323805
 pb	73	0087	7323806
 pb	74	0088	7323807
 entry	Maladie folle	0	
+orth	Maladie folle		
 entry	Maladie pédiculaire	0	
+orth	Maladie pédiculaire		
 entry	Maladie piquante	0	
+orth	Maladie piquante		
 entry	Maladie rouge	0	
+orth	Maladie rouge		
 entry	Maladies charbonneuses	0	
+orth	Maladies charbonneuses		
 entry	Maladies des mamelles	0	
+orth	Maladies des mamelles		
 entry	Maladies enzootiques	0	
+orth	Maladies enzootiques		
 entry	Maladies épidémiques	0	
+orth	Maladies épidémiques		
 entry	Maladies rédhibitoires	0	
+orth	Maladies rédhibitoires		
 entry	Maladies vermineuses	0	
+orth	Maladies vermineuses		
 entry	Malaise	0	
+orth	Malaise		
 entry	Malandes, Malandres, Solandres	3	
 orth	Malandes		
 orth	Malandres		
@@ -127,12 +147,18 @@ pb	75	0089	7323808
 pb	76	0090	7323809
 pb	77	0091	7323810
 entry	Malassin	0	
+orth	Malassin		
 entry	Maléfices	0	
+orth	Maléfices		
 entry	Malignité	1	
+orth	Malignité		
 pb	78	0092	7323811
 entry	Malin	0	
+orth	Malin		
 entry	Malis	0	
+orth	Malis		
 entry	Mamelles (maladies des)	16	
+orth	Mamelles (maladies des)		
 pb	79	0093	7323812
 pb	80	0094	7323813
 pb	81	0095	7323814
@@ -150,45 +176,75 @@ pb	92	0106	7323825
 pb	93	0107	7323826
 pb	94	0108	7323827
 entry	Mammite	0	
+orth	Mammite		
 entry	Mane (le)	0	
+orth	Mane (le)		
 entry	Mange (le)	0	
+orth	Mange (le)		
 entry	Manie	1	
+orth	Manie		
 pb	95	0109	7323828
 entry	Marasme	1	
+orth	Marasme		
 pb	96	0110	7323829
 entry	Maréchal	0	
+orth	Maréchal		
 entry	Maréchalerie	2	
+orth	Maréchalerie		
 pb	97	0111	7323830
 pb	98	0112	7323831
 entry	Marisques	0	
+orth	Marisques		
 entry	Marogne (la)	0	
+orth	Marogne (la)		
 entry	Marre (la)	1	
+orth	Marre (la)		
 pb	99	0113	7323832
 entry	Martelage	0	
+orth	Martelage		
 entry	Mascaron (le)	0	
+orth	Mascaron (le)		
 entry	Masticatoire	1	
+orth	Masticatoire		
 pb	100	0114	7323833
 entry	Mastigadour	0	
+orth	Mastigadour		
 entry	Mastite	0	
+orth	Mastite		
 entry	Matière	0	
+orth	Matière		
 entry	Matière soufflée aux poils	2	
+orth	Matière soufflée aux poils		
 pb	101	0115	7323834
 pb	102	0116	7323835
 entry	Marche des maladies	1	
+orth	Marche des maladies		
 pb	103	0117	7323836
 entry	Matité	0	
+orth	Matité		
 entry	Maturation	0	
+orth	Maturation		
 entry	Maturité	0	
+orth	Maturité		
 entry	Mauroi	0	
+orth	Mauroi		
 entry	Mauvaises eaux	0	
+orth	Mauvaises eaux		
 entry	Mayée	0	
+orth	Mayée		
 entry	Miche	0	
+orth	Miche		
 entry	Médecin vétérinaire	0	
+orth	Médecin vétérinaire		
 entry	Médecine vétérinaire	0	
+orth	Médecine vétérinaire		
 entry	Médecine vétérinaire légale	1	
+orth	Médecine vétérinaire légale		
 pb	104	0118	7323837
 entry	Mélancolie	0	
+orth	Mélancolie		
 entry	Mélanose	15	
+orth	Mélanose		
 pb	105	0119	7323838
 pb	106	0120	7323839
 pb	107	0121	7323840
@@ -205,27 +261,45 @@ pb	117	0131	7323850
 pb	118	0132	7323851
 pb	119	0133	7323852
 entry	Mélicéris	0	
+orth	Mélicéris		
 entry	Mélide	0	
+orth	Mélide		
 entry	Mélophage	0	
+orth	Mélophage		
 entry	Mémarchure	0	
+orth	Mémarchure		
 entry	Membre (maladies du)	0	
+orth	Membre (maladies du)		
 entry	Meningo-gastrique (fièvre)	0	
+orth	Meningo-gastrique (fièvre)		
 entry	Mensuration	0	
+orth	Mensuration		
 entry	Mentigo	0	
+orth	Mentigo		
 entry	Méphitisme	0	
+orth	Méphitisme		
 entry	Mereigea	0	
+orth	Mereigea		
 pb	120	0134	7323853
 entry	Mérocèle	0	
+orth	Mérocèle		
 entry	Mésentérite	0	
+orth	Mésentérite		
 entry	Métachorèse	0	
+orth	Métachorèse		
 entry	Métastase	1	
+orth	Métastase		
 pb	121	0135	7323854
 entry	Météores	2	
+orth	Météores		
 pb	122	0136	7323855
 pb	123	0137	7323856
 entry	Météorisation	0	
+orth	Météorisation		
 entry	Météorisme	0	
+orth	Météorisme		
 entry	Métrite	11	
+orth	Métrite		
 pb	124	0138	7323857
 pb	125	0139	7323858
 pb	126	0140	7323859
@@ -238,55 +312,84 @@ pb	132	0146	7323865
 pb	133	0147	7323866
 pb	134	0148	7323867
 entry	Métrocèle	0	
+orth	Métrocèle		
 entry	Métro-péritonite	0	
+orth	Métro-péritonite		
 entry	Métrorrhagie	1	
+orth	Métrorrhagie		
 pb	135	0149	7323868
 entry	Métrorrhée	0	
+orth	Métrorrhée		
 entry	Mettre-bas	0	
+orth	Mettre-bas		
 entry	Mettre les plumes	0	
+orth	Mettre les plumes		
 entry	Meurtrissure	0	
+orth	Meurtrissure		
 entry	Mézellerie	0	
+orth	Mézellerie		
 entry	Miasmes	1	
+orth	Miasmes		
 pb	136	0150	7323869
 entry	Mise-bas	0	
+orth	Mise-bas		
 entry	Misse (la)	0	
+orth	Misse (la)		
 entry	Mites et tique	0	
 orth	Mites		
 orth	tique		
 entry	Moelle épinière	4	
+orth	Moelle épinière		
 pb	137	0151	7323870
 pb	138	0152	7323871
 pb	139	0153	7323872
 pb	140	0154	7323873
 entry	Moiteur	0	
+orth	Moiteur		
 entry	Molandes, Molandres	0	
 orth	Molandes		
 orth	Molandres		
 entry	Molettes	1	
+orth	Molettes		
 pb	141	0155	7323874
 entry	Monographie	0	
+orth	Monographie		
 entry	Monomanie	0	
+orth	Monomanie		
 entry	Monstre, Monstruosité	0	
 orth	Monstre		
 orth	Monstruosité		
 entry	Monte	0	
+orth	Monte		
 pb	142	0156	7323875
 entry	Morailles	0	
+orth	Morailles		
 entry	Morbide	0	
+orth	Morbide		
 entry	Morbifique	0	
+orth	Morbifique		
 entry	Mordicant	0	
+orth	Mordicant		
 entry	Morfondement, Morfondu	0	
 orth	Morfondement		
 orth	Morfondu		
 entry	Morfondure	0	
+orth	Morfondure		
 entry	Moro	0	
+orth	Moro		
 entry	Mors d'Allemagne	0	
+orth	Mors d'Allemagne		
 entry	Morsure	0	
+orth	Morsure		
 entry	Mort	0	
+orth	Mort		
 entry	Mortel	1	
+orth	Mortel		
 pb	143	0157	7323876
 entry	Mortification	0	
+orth	Mortification		
 entry	Morve	124	
+orth	Morve		
 pb	144	0158	7323877
 pb	145	0159	7323878
 pb	146	0160	7323879
@@ -412,31 +515,55 @@ pb	265	0279	7323998
 pb	266	0280	7323999
 pb	267	0281	7324000
 entry	Morve calcaire	0	
+orth	Morve calcaire		
 entry	Morve cancéreuse	0	
+orth	Morve cancéreuse		
 entry	Morve des chats	0	
+orth	Morve des chats		
 entry	Morve des chiens	0	
+orth	Morve des chiens		
 entry	Morve chronique	0	
+orth	Morve chronique		
 entry	Morve farcineuse	0	
+orth	Morve farcineuse		
 entry	Morve gangréneuse	0	
+orth	Morve gangréneuse		
 entry	Morve hémorrhagique	0	
+orth	Morve hémorrhagique		
 entry	Morce pustuleuse	0	
+orth	Morce pustuleuse		
 entry	Morve typhoïde	0	
+orth	Morve typhoïde		
 entry	Mouche araignée	0	
+orth	Mouche araignée		
 entry	Mouche bretonne	0	
+orth	Mouche bretonne		
 entry	Mouche du chien	0	
+orth	Mouche du chien		
 entry	Mouche d'Espagne	0	
+orth	Mouche d'Espagne		
 entry	Mouche de l'intestin des chevaux	0	
+orth	Mouche de l'intestin des chevaux		
 entry	Moucheture	1	
+orth	Moucheture		
 pb	268	0282	7324001
 entry	Mourois rouge	0	
+orth	Mourois rouge		
 entry	Mourton (le)	0	
+orth	Mourton (le)		
 entry	Mouton pourri	0	
+orth	Mouton pourri		
 entry	Mouton trotteur	0	
+orth	Mouton trotteur		
 entry	Mouton voilier	0	
+orth	Mouton voilier		
 entry	Moxa	1	
+orth	Moxa		
 pb	269	0283	7324002
 entry	Mue	0	
+orth	Mue		
 entry	Muguet des agneaux	2	
+orth	Muguet des agneaux		
 pb	270	0284	7324003
 pb	271	0285	7324004
 entry	Mules (les), Mules traversières, Traversines ou Traversaines	0	
@@ -445,19 +572,27 @@ orth	Mules traversières
 orth	Traversines		
 orth	Traversaines		
 entry	Mules aux talons	0	
+orth	Mules aux talons		
 entry	Muqueuse (fièvre)	3	
+orth	Muqueuse (fièvre)		
 pb	272	0286	7324005
 pb	273	0287	7324006
 pb	274	0288	7324007
 entry	Muqueuses (maladies des membranes)	1	
+orth	Muqueuses (maladies des membranes)		
 pb	275	0289	7324008
 entry	Mur	0	
+orth	Mur		
 entry	Muraille	0	
+orth	Muraille		
 entry	Murie	0	
+orth	Murie		
 entry	Musaraigne	2	
+orth	Musaraigne		
 pb	276	0290	7324009
 pb	277	0291	7324010
 entry	Muscles (maladies des)	4	
+orth	Muscles (maladies des)		
 pb	278	0292	7324011
 pb	279	0293	7324012
 pb	280	0294	7324013
@@ -466,36 +601,53 @@ entry	Muselière, Muserolle	0
 orth	Muselière		
 orth	Muserolle		
 entry	Musette	0	
+orth	Musette		
 entry	Mutilation	0	
+orth	Mutilation		
 entry	Mydriase	0	
+orth	Mydriase		
 entry	Myélite	0	
+orth	Myélite		
 entry	Myosite	0	
+orth	Myosite		
 entry	Myopie, Myope	1	
 orth	Myopie		
 orth	Myope		
 pb	282	0296	7324015
 entry	Nager à sec	0	
+orth	Nager à sec		
 entry	Nappe (la), Nappé	0	
 orth	Nappe (la)		
 orth	Nappé		
 entry	Narcotisme	0	
+orth	Narcotisme		
 entry	Nausée	0	
+orth	Nausée		
 entry	Naviculaire (maladie)	3	
+orth	Naviculaire (maladie)		
 pb	283	0297	7324016
 pb	284	0298	7324017
 pb	285	0299	7324018
 entry	Nébladure	0	
+orth	Nébladure		
 entry	Neble (la)	0	
+orth	Neble (la)		
 entry	Nécroscopie	0	
+orth	Nécroscopie		
 entry	Nécrose	4	
+orth	Nécrose		
 pb	286	0300	7324019
 pb	287	0301	7324020
 pb	288	0302	7324021
 pb	289	0303	7324022
 entry	Néphélion	0	
+orth	Néphélion		
 entry	Néphralgie	0	
+orth	Néphralgie		
 entry	Néphrétique	0	
+orth	Néphrétique		
 entry	Néphrite	12	
+orth	Néphrite		
 pb	290	0304	7324023
 pb	291	0305	7324024
 pb	292	0306	7324025
@@ -509,74 +661,112 @@ pb	299	0313	7324032
 pb	300	0314	7324033
 pb	301	0315	7324034
 entry	Néphrolithe	0	
+orth	Néphrolithe		
 entry	Néphrorrhagie	0	
+orth	Néphrorrhagie		
 entry	Néphrotomie	1	
+orth	Néphrotomie		
 pb	302	0316	7324035
 entry	Nerbierit	0	
+orth	Nerbierit		
 entry	Nerf-ferrure	2	
+orth	Nerf-ferrure		
 pb	303	0317	7324036
 pb	304	0318	7324037
 entry	Nerf-féru	0	
+orth	Nerf-féru		
 entry	Nerfs (maladies des)	1	
+orth	Nerfs (maladies des)		
 pb	305	0319	7324038
 entry	Nervation	0	
+orth	Nervation		
 entry	Névralgie	1	
+orth	Névralgie		
 pb	306	0320	7324039
 entry	Névralgie lombaire des bêtes à laine	0	
+orth	Névralgie lombaire des bêtes à laine		
 entry	Névrilémite	0	
+orth	Névrilémite		
 entry	Névrite	0	
+orth	Névrite		
 entry	Névrose	1	
+orth	Névrose		
 pb	307	0321	7324040
 entry	Névrotomie	0	
+orth	Névrotomie		
 entry	Névrotomie plantaire	3	
+orth	Névrotomie plantaire		
 pb	308	0322	7324041
 pb	309	0323	7324042
 pb	310	0324	7324043
 entry	Noire-cuisse	0	
+orth	Noire-cuisse		
 entry	Noir-museau	0	
+orth	Noir-museau		
 entry	Nosclerie	0	
+orth	Nosclerie		
 entry	Nosographie	3	
+orth	Nosographie		
 pb	311	0325	7324044
 pb	312	0326	7324045
 pb	313	0327	7324046
 entry	Nosologie	0	
+orth	Nosologie		
 entry	Nouets	0	
+orth	Nouets		
 entry	Nuage de la cornée	0	
+orth	Nuage de la cornée		
 entry	Nyctalopie	1	
+orth	Nyctalopie		
 pb	314	0328	7324047
 entry	Nymphomanie	2	
+orth	Nymphomanie		
 pb	315	0329	7324048
 pb	316	0330	7324049
 entry	Obésité	4	
+orth	Obésité		
 pb	317	0331	7324050
 pb	318	0332	7324051
 pb	319	0333	7324052
 pb	320	0334	7324053
 entry	Oblitération	1	
+orth	Oblitération		
 pb	321	0335	7324054
 entry	Obstruction	0	
+orth	Obstruction		
 entry	Obturation	0	
+orth	Obturation		
 entry	Occasionel	0	
+orth	Occasionel		
 entry	Odontalgie	0	
+orth	Odontalgie		
 entry	Odorat	1	
+orth	Odorat		
 pb	322	0336	7324055
 entry	Oedématie	0	
+orth	Oedématie		
 entry	Oedématié	0	
+orth	Oedématié		
 entry	Oedème	5	
+orth	Oedème		
 pb	323	0337	7324056
 pb	324	0338	7324057
 pb	325	0339	7324058
 pb	326	0340	7324059
 pb	327	0341	7324060
 entry	Oesophage (maladies de l')	2	
+orth	Oesophage (maladies de l')		
 pb	328	0342	7324061
 pb	329	0343	7324062
 entry	Oesophagite	3	
+orth	Oesophagite		
 pb	330	0344	7324063
 pb	331	0345	7324064
 pb	332	0346	7324065
 entry	Oesophagorrhagie	0	
+orth	Oesophagorrhagie		
 entry	Oesophagotomie	7	
+orth	Oesophagotomie		
 pb	333	0347	7324066
 pb	334	0348	7324067
 pb	335	0349	7324068
@@ -585,6 +775,7 @@ pb	337	0351	7324070
 pb	338	0352	7324071
 pb	339	0353	7324072
 entry	Oestres	8	
+orth	Oestres		
 pb	340	0354	7324073
 pb	341	0355	7324074
 pb	342	0356	7324075
@@ -594,19 +785,28 @@ pb	345	0359	7324078
 pb	346	0360	7324079
 pb	347	0361	7324080
 entry	Oestromanie	0	
+orth	Oestromanie		
 entry	Ognon, Oignon	2	
 orth	Ognon		
 orth	Oignon		
 pb	348	0362	7324081
 pb	349	0363	7324082
 entry	Oeil (maladies de l')	0	
+orth	Oeil (maladies de l')		
 entry	Oeil cul-de-verre	0	
+orth	Oeil cul-de-verre		
 entry	Ombilicale (hernie)	0	
+orth	Ombilicale (hernie)		
 entry	Omphalocèle	0	
+orth	Omphalocèle		
 entry	Ondulant	0	
+orth	Ondulant		
 entry	Ongle (maladies de l')	0	
+orth	Ongle (maladies de l')		
 entry	Onglée	0	
+orth	Onglée		
 entry	Onglet	6	
+orth	Onglet		
 pb	350	0364	7324083
 pb	351	0365	7324084
 pb	352	0366	7324085
@@ -614,8 +814,11 @@ pb	353	0367	7324086
 pb	354	0368	7324087
 pb	355	0369	7324088
 entry	Opacité	0	
+orth	Opacité		
 entry	Opaque	0	
+orth	Opaque		
 entry	Opération	9	
+orth	Opération		
 pb	356	0370	7324089
 pb	357	0371	7324090
 pb	358	0372	7324091
@@ -626,8 +829,11 @@ pb	362	0376	7324095
 pb	363	0377	7324096
 pb	364	0378	7324097
 entry	Opération césarienne	0	
+orth	Opération césarienne		
 entry	Ophthalgie	0	
+orth	Ophthalgie		
 entry	Ophthalmie	27	
+orth	Ophthalmie		
 pb	365	0379	7324098
 pb	366	0380	7324099
 pb	367	0381	7324100
@@ -656,6 +862,7 @@ pb	389	0403	7324122
 pb	390	0404	7324123
 pb	391	0405	7324124
 entry	Ophthalmie périodique	45	
+orth	Ophthalmie périodique		
 pb	392	0406	7324125
 pb	393	0407	7324126
 pb	394	0408	7324127
@@ -702,10 +909,15 @@ pb	434	0448	7324167
 pb	435	0449	7324168
 pb	436	0450	7324169
 entry	Oppression	0	
+orth	Oppression		
 entry	Orchite	0	
+orth	Orchite		
 entry	Ordéation	0	
+orth	Ordéation		
 entry	Ordures aux jambes	0	
+orth	Ordures aux jambes		
 entry	Oreilles (maladies des)	15	
+orth	Oreilles (maladies des)		
 pb	437	0451	7324170
 pb	438	0452	7324171
 pb	439	0453	7324172
@@ -722,52 +934,77 @@ pb	449	0463	7324182
 pb	450	0464	7324183
 pb	451	0465	7324184
 entry	Oreillons	0	
+orth	Oreillons		
 entry	Orgasme	1	
+orth	Orgasme		
 pb	452	0466	7324185
 entry	Orge (l')	0	
+orth	Orge (l')		
 entry	Orgée du cheval, ou Ordéation	0	
 orth	Orgée du cheval		
 orth	Ordéation		
 entry	Orgelet	0	
+orth	Orgelet		
 entry	Orthopnée	0	
+orth	Orthopnée		
 entry	Ortie	0	
+orth	Ortie		
 entry	Os (maladies des)	1	
+orth	Os (maladies des)		
 pb	453	0467	7324186
 entry	Os de graisse	0	
+orth	Os de graisse		
 entry	Oschéocèle	0	
+orth	Oschéocèle		
 entry	Osselets	1	
+orth	Osselets		
 pb	454	0468	7324187
 entry	Ossification accidentelle	0	
+orth	Ossification accidentelle		
 entry	Ostéite	4	
+orth	Ostéite		
 pb	455	0469	7324188
 pb	456	0470	7324189
 pb	457	0471	7324190
 pb	458	0472	7324191
 entry	Ostéocope	0	
+orth	Ostéocope		
 entry	Ostéomalacie	0	
+orth	Ostéomalacie		
 entry	Ostéosarcome	3	
+orth	Ostéosarcome		
 pb	459	0473	7324192
 pb	460	0474	7324193
 pb	461	0475	7324194
 entry	Ostéosarcose	0	
+orth	Ostéosarcose		
 entry	Ostéostéatome	0	
+orth	Ostéostéatome		
 entry	Ostigo ou Mentigo	0	
 orth	Ostigo		
 orth	Mentigo		
 entry	Otite	5	
+orth	Otite		
 pb	462	0476	7324195
 pb	463	0477	7324196
 pb	464	0478	7324197
 pb	465	0479	7324198
 pb	466	0480	7324199
 entry	Oumalraq (l')	0	
+orth	Oumalraq (l')		
 entry	Oumalrang (l')	0	
+orth	Oumalrang (l')		
 entry	Ouraque	1	
+orth	Ouraque		
 pb	467	0481	7324200
 entry	Ours (tic de l')	0	
+orth	Ours (tic de l')		
 entry	Ouverture accidentelle	0	
+orth	Ouverture accidentelle		
 entry	Ouverture des cadavres	0	
+orth	Ouverture des cadavres		
 entry	Ovaires (maladies des)	6	
+orth	Ovaires (maladies des)		
 pb	468	0482	7324201
 pb	469	0483	7324202
 pb	470	0484	7324203
@@ -775,33 +1012,49 @@ pb	471	0485	7324204
 pb	472	0486	7324205
 pb	473	0487	7324206
 entry	Ozène	2	
+orth	Ozène		
 pb	474	0488	7324207
 pb	475	0489	7324208
 pb	476	0490	7324209
 entry	Paignes	0	
+orth	Paignes		
 entry	Paille	1	
+orth	Paille		
 pb	477	0491	7324210
 entry	Palatite	0	
+orth	Palatite		
 entry	Palato-pharyngite	0	
+orth	Palato-pharyngite		
 entry	Palpitations	2	
+orth	Palpitations		
 pb	478	0492	7324211
 pb	479	0493	7324212
 entry	Pamoison	0	
+orth	Pamoison		
 entry	Panard	0	
+orth	Panard		
 entry	Panaris du pied de mouton	0	
+orth	Panaris du pied de mouton		
 entry	Panaris	0	
+orth	Panaris		
 entry	Pandémie	0	
+orth	Pandémie		
 entry	Pandémique	0	
+orth	Pandémique		
 entry	Pansement	3	
+orth	Pansement		
 pb	480	0494	7324213
 pb	481	0495	7324214
 pb	482	0496	7324215
 entry	Pansement de la main	1	
+orth	Pansement de la main		
 pb	483	0497	7324216
 entry	Paracentèse	2	
+orth	Paracentèse		
 pb	484	0498	7324217
 pb	485	0499	7324218
 entry	Paralysie	62	
+orth	Paralysie		
 pb	486	0500	7324219
 pb	487	0501	7324220
 pb	488	0502	7324221
@@ -865,6 +1118,7 @@ pb	545	0559	7324278
 pb	546	0560	7324279
 pb	547	0561	7324280
 entry	Paraphimosis	6	
+orth	Paraphimosis		
 pb	548	0562	7324281
 pb	549	0563	7324282
 pb	550	0564	7324283
@@ -872,11 +1126,17 @@ pb	551	0565	7324284
 pb	552	0566	7324285
 pb	553	0567	7324286
 entry	Paraphrénésie	0	
+orth	Paraphrénésie		
 entry	Paraplégie	0	
+orth	Paraplégie		
 entry	Parataque (la)	0	
+orth	Parataque (la)		
 entry	Paroi (maladies de la)	0	
+orth	Paroi (maladies de la)		
 entry	Parotide	0	
+orth	Parotide		
 entry	Parotidite	6	
+orth	Parotidite		
 pb	554	0568	7324287
 pb	555	0569	7324288
 pb	556	0570	7324289
@@ -884,9 +1144,13 @@ pb	557	0571	7324290
 pb	558	0572	7324291
 pb	559	0573	7324292
 entry	Parotite	0	
+orth	Parotite		
 entry	Paroxysme	0	
+orth	Paroxysme		
 entry	Part	0	
+orth	Part		
 entry	Parturition	33	
+orth	Parturition		
 pb	560	0574	7324293
 pb	561	0575	7324294
 pb	562	0576	7324295
@@ -921,57 +1185,90 @@ pb	590	0604	7324323
 pb	591	0605	7324324
 pb	592	0606	7324325
 entry	Pas-d'âne	0	
+orth	Pas-d'âne		
 entry	Passe-campagne	0	
+orth	Passe-campagne		
 entry	Passif	0	
+orth	Passif		
 entry	Pathogénie	0	
+orth	Pathogénie		
 entry	Pathognomonie	0	
+orth	Pathognomonie		
 pb	593	0607	7324326
 entry	Pathognomonique	0	
+orth	Pathognomonique		
 entry	Pathologie	0	
+orth	Pathologie		
 entry	Pattée	1	
+orth	Pattée		
 pb	594	0608	7324327
 entry	Paturon	0	
+orth	Paturon		
 entry	Paupières (maladies des)	1	
+orth	Paupières (maladies des)		
 pb	595	0609	7324328
 entry	Paupières tombantes	0	
+orth	Paupières tombantes		
 entry	Peau (maladies de la)	1	
+orth	Peau (maladies de la)		
 pb	596	0610	7324329
 entry	Pédiculaire (maladie)	0	
+orth	Pédiculaire (maladie)		
 entry	Pédicule	0	
+orth	Pédicule		
 entry	Peigne	0	
+orth	Peigne		
 entry	Peignes-grappes	0	
+orth	Peignes-grappes		
 entry	Pemphigus	1	
+orth	Pemphigus		
 pb	597	0611	7324330
 entry	Pépie	2	
+orth	Pépie		
 pb	598	0612	7324331
 pb	599	0613	7324332
 entry	Percussion	4	
+orth	Percussion		
 pb	600	0614	7324333
 pb	601	0615	7324334
 pb	602	0616	7324335
 pb	603	0617	7324336
 entry	Perce-langue	0	
+orth	Perce-langue		
 entry	Perforation	1	
+orth	Perforation		
 pb	604	0618	7324337
 entry	Péricarde (maladies du)	0	
+orth	Péricarde (maladies du)		
 entry	Péricardite	3	
+orth	Péricardite		
 pb	605	0619	7324338
 pb	606	0620	7324339
 pb	607	0621	7324340
 entry	Périnée (maladies du)	2	
+orth	Périnée (maladies du)		
 pb	608	0622	7324341
 pb	609	0623	7324342
 entry	Période	0	
+orth	Période		
 entry	Périodicité	0	
+orth	Périodicité		
 entry	Périodique	1	
+orth	Périodique		
 pb	610	0624	7324343
 entry	Périople	0	
+orth	Périople		
 entry	Périostéotomie	0	
+orth	Périostéotomie		
 pb	611	0625	7324344
 entry	Périostite	0	
+orth	Périostite		
 entry	Périostose	0	
+orth	Périostose		
 entry	Péripneumonie	0	
+orth	Péripneumonie		
 entry	Péritonite	8	
+orth	Péritonite		
 pb	612	0626	7324345
 pb	613	0627	7324346
 pb	614	0628	7324347
@@ -981,10 +1278,15 @@ pb	617	0631	7324350
 pb	618	0632	7324351
 pb	619	0633	7324352
 entry	Pernicieux	0	
+orth	Pernicieux		
 entry	Perturbation	0	
+orth	Perturbation		
 entry	Perversion	0	
+orth	Perversion		
 entry	Pesogne	0	
+orth	Pesogne		
 entry	Pessaire	8	
+orth	Pessaire		
 pb	620	0634	7324353
 pb	621	0635	7324354
 pb	622	0636	7324355
@@ -994,13 +1296,20 @@ pb	625	0639	7324358
 pb	626	0640	7324359
 pb	627	0641	7324360
 entry	Peste	0	
+orth	Peste		
 entry	Peste Blanche	0	
+orth	Peste Blanche		
 entry	Peste rouge	0	
+orth	Peste rouge		
 entry	Peste varioleuse des bêtes à cornes	0	
+orth	Peste varioleuse des bêtes à cornes		
 entry	Pétéchial	0	
+orth	Pétéchial		
 entry	Pétéchies	1	
+orth	Pétéchies		
 pb	628	0642	7324361
 entry	Petite vérole	0	
+orth	Petite vérole		
 entry	Petite vérole batarde, cristalline, ichoreuse, lymphatique, séreuse, volante	0	
 orth	Petite vérole batarde		
 orth	cristalline		
@@ -1009,9 +1318,13 @@ orth	lymphatique
 orth	séreuse		
 orth	volante		
 entry	Petite vérole des moutons	0	
+orth	Petite vérole des moutons		
 entry	Petite vérole des bœufs	0	
+orth	Petite vérole des bœufs		
 entry	Petite vérole des vaches	0	
+orth	Petite vérole des vaches		
 entry	Pèze	0	
+orth	Pèze		
 pb	[s. pag.]	0643	7324362
 pb	[s. pag.]	0644	7324363
 pb	[s. pag.]	0645	7324364

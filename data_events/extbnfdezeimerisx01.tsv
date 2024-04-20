@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4819113
 pb	1	0005	4819114
 entry	Prospectus	3	
+orth	Prospectus		
 pb	2	0006	4819115
 pb	3	0007	4819116
 pb	4	0008	4819117
@@ -20,6 +21,7 @@ pb	xj	0015	4819124
 pb	xij	0016	4819125
 pb	xiij	0017	4819126
 entry	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume	11	
+orth	Ouvrages cités. Catalogue des ouvrages souvent cités dans ce premier volume		
 pb	xiv	0018	4819127
 pb	xv	0019	4819128
 pb	xvj	0020	4819129
@@ -33,30 +35,42 @@ pb	xxiij	0027	4819136
 pb	xxiv	0028	4819137
 pb	1	0029	4819138
 entry	Aaron	0	
+orth	Aaron		
 pb	2	0030	4819139
 entry	Aaskow (Urbain-Bruan)	0	
+orth	Aaskow (Urbain-Bruan)		
 entry	Abano (Pierre d'), ou Pierre d'Apono	2	
 orth	Abano (Pierre d')		
 orth	Pierre d'Apono		
 pb	3	0031	4819140
 pb	4	0032	4819141
 entry	Abbadie (Vincent)	0	
+orth	Abbadie (Vincent)		
 entry	Abbatio (Balde-Ange)	1	
+orth	Abbatio (Balde-Ange)		
 pb	5	0033	4819142
 entry	Abelle (Scipion)	0	
+orth	Abelle (Scipion)		
 entry	Abercromby (David)	1	
+orth	Abercromby (David)		
 pb	6	0034	4819143
 entry	Abildgaard (Pierre-Chrétien)	0	
+orth	Abildgaard (Pierre-Chrétien)		
 entry	Abraham (Nicolas)	1	
+orth	Abraham (Nicolas)		
 pb	7	0035	4819144
 entry	Absyrte, ou Apsyrte	0	
 orth	Absyrte		
 orth	Apsyrte		
 entry	Acampo (Simon)	1	
+orth	Acampo (Simon)		
 pb	8	0036	4819145
 entry	Accoramboni (Jérôme)	0	
+orth	Accoramboni (Jérôme)		
 entry	Accorsini (Barthélemy)	0	
+orth	Accorsini (Barthélemy)		
 entry	Accouchement	30	
+orth	Accouchement		
 pb	9	0037	4819146
 pb	10	0038	4819147
 pb	11	0039	4819148
@@ -88,98 +102,142 @@ pb	36	0064	4819173
 pb	37	0065	4819174
 pb	36	0066	4819175
 entry	Achillini (Alexandre)	1	
+orth	Achillini (Alexandre)		
 pb	39	0067	4819176
 entry	Ackermann (Jean-Chrétiens-Théophile)	1	
+orth	Ackermann (Jean-Chrétiens-Théophile)		
 pb	40	0068	4819177
 entry	Ackermann (Jacques-Fidèle)	1	
+orth	Ackermann (Jacques-Fidèle)		
 pb	41	0069	4819178
 entry	Acrel (Olof)	2	
+orth	Acrel (Olof)		
 pb	42	0070	4819179
 pb	43	0071	4819180
 entry	Acron	1	
+orth	Acron		
 pb	44	0072	4819181
 entry	Actuarius jean, fils de Zacharie	1	
 orth	Actuarius jean		
 orth	fils de Zacharie		
 pb	45	0073	4819182
 entry	Adair (James-Makittrik)	1	
+orth	Adair (James-Makittrik)		
 pb	46	0074	4819183
 entry	Adams (Joseph)	1	
+orth	Adams (Joseph)		
 pb	47	0075	4819184
 entry	Adamucci (A.)	0	
+orth	Adamucci (A.)		
 entry	Adanson (Michel)	3	
+orth	Adanson (Michel)		
 pb	48	0076	4819185
 pb	49	0077	4819186
 pb	50	0078	4819187
 entry	Addington (Antoine)	1	
+orth	Addington (Antoine)		
 pb	51	0079	4819188
 entry	Adolphi (Chrétien-Michel)	0	
+orth	Adolphi (Chrétien-Michel)		
 entry	Aegidius corboliensis (Petrus), Pierre Gilles de Corbeil	1	
 orth	Aegidius corboliensis (Petrus)		
 orth	Pierre Gilles de Corbeil		
 pb	52	0080	4819189
 entry	Aetius	2	
+orth	Aetius		
 pb	53	0081	4819190
 pb	54	0082	4819191
 entry	Agricola (Jean-Ammonius)	0	
+orth	Agricola (Jean-Ammonius)		
 entry	Agricola (George)	1	
+orth	Agricola (George)		
 pb	55	0083	4819192
 entry	Agrippa (Henri-Corneille)	2	
+orth	Agrippa (Henri-Corneille)		
 pb	56	0084	4819193
 pb	57	0085	4819194
 entry	Aguero (Bartholomeo-Hidalgo de)	0	
+orth	Aguero (Bartholomeo-Hidalgo de)		
 entry	Aikin (Jean)	1	
+orth	Aikin (Jean)		
 pb	58	0086	4819195
 entry	Ailhaud (Jean)	1	
+orth	Ailhaud (Jean)		
 pb	59	0087	4819196
 entry	Ailhaud (Jean-Gaspard)	0	
+orth	Ailhaud (Jean-Gaspard)		
 entry	Ailleboust (Jean)	0	
+orth	Ailleboust (Jean)		
 entry	Oimar (Ozias)	1	
+orth	Oimar (Ozias)		
 pb	60	0088	4819197
 entry	Aitken (Jean)	0	
+orth	Aitken (Jean)		
 entry	Akakia (Martin)	3	
+orth	Akakia (Martin)		
 pb	61	0089	4819198
 entry	Akakia (Jean)	0	
+orth	Akakia (Jean)		
 entry	Akakia (Martin)	1	
+orth	Akakia (Martin)		
 pb	62	0090	4819199
 entry	Akenside (Marc)	1	
+orth	Akenside (Marc)		
 pb	63	0091	4819200
 entry	Alanson (Édouard)	1	
+orth	Alanson (Édouard)		
 pb	64	0092	4819201
 entry	Alaymo (Marc-Antoine)	0	
+orth	Alaymo (Marc-Antoine)		
 entry	Albano Torino	1	
+orth	Albano Torino		
 pb	65	0093	4819202
 entry	Al-Beithar	0	
+orth	Al-Beithar		
 entry	Albers (Jean-Abraham)	1	
+orth	Albers (Jean-Abraham)		
 pb	66	0094	4819203
 entry	Albert-le-grand	1	
+orth	Albert-le-grand		
 pb	67	0095	4819204
 entry	Alberti (Michel)	2	
+orth	Alberti (Michel)		
 pb	68	0096	4819205
 pb	69	0097	4819206
 entry	Alberti (Salomon)	1	
+orth	Alberti (Salomon)		
 pb	70	0098	4819207
 entry	Albertini (Annibal)	0	
+orth	Albertini (Annibal)		
 entry	Albertini (Barthélemy)	0	
+orth	Albertini (Barthélemy)		
 entry	Albertini (Hippolyte-François)	0	
+orth	Albertini (Hippolyte-François)		
 pb	71	0099	4819208
 entry	Albinus (Bernard)	0	
+orth	Albinus (Bernard)		
 entry	Albinus (Bernard-Sigefroy)	5	
+orth	Albinus (Bernard-Sigefroy)		
 pb	72	0100	4819209
 pb	73	0101	4819210
 pb	74	0102	4819211
 pb	75	0103	4819212
 pb	76	0104	4819213
 entry	Albinus (Chrétien-Bernard)	0	
+orth	Albinus (Chrétien-Bernard)		
 entry	Albinus (Jacques)	1	
+orth	Albinus (Jacques)		
 pb	77	0105	4819214
 entry	Albucasis abul-casem-khalaf-ebn-abbas	1	
+orth	Albucasis abul-casem-khalaf-ebn-abbas		
 pb	78	0106	4819215
 entry	Alcadino	0	
+orth	Alcadino		
 entry	Alcazar ou Valcazer (André)	0	
 orth	Alcazar		
 orth	Valcazer (André)		
 entry	Alchimie	7	
+orth	Alchimie		
 pb	79	0107	4819216
 pb	80	0108	4819217
 pb	81	0109	4819218
@@ -188,78 +246,115 @@ pb	83	0111	4819220
 pb	84	0112	4819221
 pb	85	0113	4819222
 entry	Alcméon	1	
+orth	Alcméon		
 pb	86	0114	4819223
 entry	Aldrighetti (Aldrighetto)	0	
+orth	Aldrighetti (Aldrighetto)		
 entry	Alessandri (François Degli)	1	
+orth	Alessandri (François Degli)		
 pb	87	0115	4819224
 entry	Alessandrini (Jules)	0	
+orth	Alessandrini (Jules)		
 pb	88	0116	4819225
 entry	Alessi (Alexandre)	0	
+orth	Alessi (Alexandre)		
 entry	Alessi (Alfssio Degli)	1	
+orth	Alessi (Alfssio Degli)		
 pb	89	0117	4819226
 entry	Alexandre	1	
+orth	Alexandre		
 pb	90	0118	4819227
 pb	91	0119	4819228
 entry	Alexandre (Williams)	0	
+orth	Alexandre (Williams)		
 entry	Algarotto (Victor)	0	
+orth	Algarotto (Victor)		
 entry	Alghisi (Thomas)	1	
+orth	Alghisi (Thomas)		
 pb	92	0120	4819229
 entry	Ali-Ebn-Abbas, ou Haly-Abbas	1	
 orth	Ali-Ebn-Abbas		
 orth	Haly-Abbas		
 pb	93	0121	4819230
 entry	Alidio (Charles-Antoine)	0	
+orth	Alidio (Charles-Antoine)		
 entry	Alix (Mathieu-François)	1	
+orth	Alix (Mathieu-François)		
 pb	94	0122	4819231
 entry	Allemant ou Aleman (Adrien l')	1	
 orth	Allemant		
 orth	Aleman (Adrien l')		
 pb	95	0123	4819232
 entry	Allen (Jean)	0	
+orth	Allen (Jean)		
 entry	Allioni (Charles)	1	
+orth	Allioni (Charles)		
 pb	96	0124	4819233
 entry	Alliot	0	
+orth	Alliot		
 pb	97	0125	4819234
 entry	Allmacher (Jean-Frédéric)	0	
+orth	Allmacher (Jean-Frédéric)		
 entry	Allouel	0	
+orth	Allouel		
 entry	Almeloveen (Théodore-Jansson van)	1	
+orth	Almeloveen (Théodore-Jansson van)		
 pb	98	0126	4819235
 entry	Alpago (André)	1	
+orth	Alpago (André)		
 pb	99	0127	4819236
 entry	Alphonse de Corella ou Lopez de Corella	0	
 orth	Alphonse de Corella		
 orth	Lopez de Corella		
 entry	Alpino (Prosper)	1	
+orth	Alpino (Prosper)		
 pb	100	0128	4819237
 entry	Alsaharavi	0	
+orth	Alsaharavi		
 entry	Alsario	2	
+orth	Alsario		
 pb	101	0129	4819238
 pb	102	0130	4819239
 entry	Alston (Charles)	1	
+orth	Alston (Charles)		
 pb	103	0131	4819240
 entry	Altomare (Donat-Antoine)	1	
+orth	Altomare (Donat-Antoine)		
 pb	104	0132	4819241
 entry	Alyon (Pierre-Philippe)	1	
+orth	Alyon (Pierre-Philippe)		
 pb	105	0133	4819242
 entry	Amand (Pierre)	0	
+orth	Amand (Pierre)		
 entry	Amantea (Bruno)	1	
+orth	Amantea (Bruno)		
 pb	106	0134	4819243
 entry	Amar (Joseph)	1	
+orth	Amar (Joseph)		
 pb	107	0135	4819244
 entry	Amatus Lusitanus	1	
+orth	Amatus Lusitanus		
 pb	108	0136	4819245
 entry	Ambrosini (Barthélemy)	0	
+orth	Ambrosini (Barthélemy)		
 entry	Amico (Diomède)	0	
+orth	Amico (Diomède)		
 entry	Amman (Jean-Conrad)	1	
+orth	Amman (Jean-Conrad)		
 pb	109	0137	4819246
 entry	Ammann (Paul)	1	
+orth	Ammann (Paul)		
 pb	110	0138	4819247
 pb	111	0139	4819248
 entry	Amoreux (Pierre-Joseph)	1	
+orth	Amoreux (Pierre-Joseph)		
 pb	112	0140	4819249
 entry	Ampzing (Jean Assuerus)	0	
+orth	Ampzing (Jean Assuerus)		
 entry	Amusco	0	
+orth	Amusco		
 entry	Anatomie	18	
+orth	Anatomie		
 pb	113	0141	4819250
 pb	114	0142	4819251
 pb	115	0143	4819252
@@ -279,35 +374,49 @@ pb	128	0156	4819265
 pb	129	0157	4819266
 pb	130	0158	4819267
 entry	Anatomie pathologique	1	
+orth	Anatomie pathologique		
 pb	131	0159	4819268
 entry	Anaxagore	2	
+orth	Anaxagore		
 pb	132	0160	4819269
 pb	133	0161	4819270
 entry	Andaloro (André)	0	
+orth	Andaloro (André)		
 entry	André (Nicolas)	1	
+orth	André (Nicolas)		
 pb	134	0162	4819271
 entry	Andreae (Tobie)	0	
+orth	Andreae (Tobie)		
 entry	Andrée (Jean)	1	
+orth	Andrée (Jean)		
 pb	135	0163	4819272
 entry	Andria (Nicolas)	2	
+orth	Andria (Nicolas)		
 pb	136	0164	4819273
 pb	137	0165	4819274
 entry	Andrioli (Michel-Ange)	0	
+orth	Andrioli (Michel-Ange)		
 entry	Andromaque (l'ancien)	1	
+orth	Andromaque (l'ancien)		
 pb	138	0166	4819275
 entry	Andry (Nicolas)	1	
+orth	Andry (Nicolas)		
 pb	139	0167	4819276
 entry	Anel (Dominique)	1	
+orth	Anel (Dominique)		
 pb	140	0168	4819277
 entry	Angelucci (Théodore)	1	
+orth	Angelucci (Théodore)		
 pb	141	0169	4819278
 entry	Anthony (François)	1	
+orth	Anthony (François)		
 pb	142	0170	4819279
 entry	Antylus, ou Antyllus	1	
 orth	Antylus		
 orth	Antyllus		
 pb	143	0171	4819280
 entry	Apinus (Jean-Louis)	1	
+orth	Apinus (Jean-Louis)		
 pb	144	0172	4819281
 entry	Aquila (Sébastien dell'), ou Aquilanus	1	
 orth	Aquila (Sébastien dell')		
@@ -317,6 +426,7 @@ entry	Aquin (Joseph d'), ou Daquin	0
 orth	Aquin (Joseph d')		
 orth	Daquin		
 entry	Arabes	6	
+orth	Arabes		
 pb	146	0174	4819283
 pb	147	0175	4819284
 pb	148	0176	4819285
@@ -329,28 +439,39 @@ orth	Aranzio (Jules-César)
 pb	152	0180	4819289
 pb	153	0181	4819290
 entry	Arbuthnot (Jean)	1	
+orth	Arbuthnot (Jean)		
 pb	154	0182	4819291
 entry	Arce (François de)	1	
+orth	Arce (François de)		
 pb	155	0183	4819292
 entry	Arcet (d')	0	
+orth	Arcet (d')		
 entry	Archagatus	0	
+orth	Archagatus		
 entry	Archiatre	4	
+orth	Archiatre		
 pb	156	0184	4819293
 pb	157	0185	4819294
 pb	158	0186	4819295
 pb	159	0187	4819296
 entry	Archigène	0	
+orth	Archigène		
 pb	160	0188	4819297
 entry	Arcolani ou Ercolani (Jean)	0	
 orth	Arcolani		
 orth	Ercolani (Jean)		
 entry	Ardern (Jean)	1	
+orth	Ardern (Jean)		
 pb	161	0189	4819298
 entry	Ardoini (Sante)	0	
+orth	Ardoini (Sante)		
 entry	Arellano (Pierre-François)	0	
+orth	Arellano (Pierre-François)		
 entry	Arent Cant	1	
+orth	Arent Cant		
 pb	162	0190	4819299
 entry	Arétée	3	
+orth	Arétée		
 pb	163	0191	4819300
 pb	164	0192	4819301
 pb	165	0193	4819302
@@ -368,6 +489,7 @@ orth	Argentier
 orth	l'Argentière		
 pb	167	0195	4819304
 entry	Aristote	6	
+orth	Aristote		
 pb	168	0196	4819305
 pb	169	0197	4819306
 pb	170	0198	4819307
@@ -375,9 +497,11 @@ pb	171	0199	4819308
 pb	172	0200	4819309
 pb	173	0201	4819310
 entry	Armstrong (Jean)	2	
+orth	Armstrong (Jean)		
 pb	174	0202	4819311
 pb	175	0203	4819312
 entry	Arnaud de nobleville (Louis-Daniel)	1	
+orth	Arnaud de nobleville (Louis-Daniel)		
 pb	176	0204	4819313
 entry	Arnaud (Georges), dit de Ronsil	2	
 orth	Arnaud (Georges)		
@@ -385,28 +509,38 @@ orth	dit de Ronsil
 pb	177	0205	4819314
 pb	178	0206	4819315
 entry	Arnaud de Villeneuve	4	
+orth	Arnaud de Villeneuve		
 pb	179	0207	4819316
 pb	180	0208	4819317
 pb	181	0209	4819318
 pb	182	0210	4819319
 entry	Arnemann (Just)	1	
+orth	Arnemann (Just)		
 pb	183	0211	4819320
 entry	Arnisaeus (Henning)	1	
+orth	Arnisaeus (Henning)		
 pb	184	0212	4819321
 entry	Arnold (Georges-Chrétien)	0	
+orth	Arnold (Georges-Chrétien)		
 pb	185	0213	4819322
 entry	Arnold (Thomas)	0	
+orth	Arnold (Thomas)		
 entry	Aromatari (Joseph Decli)	1	
+orth	Aromatari (Joseph Decli)		
 pb	186	0214	4819323
 entry	Artedi (Pierre)	1	
+orth	Artedi (Pierre)		
 pb	187	0215	4819324
 entry	Arthaud	1	
+orth	Arthaud		
 pb	188	0216	4819325
 entry	Asclépiade	3	
+orth	Asclépiade		
 pb	189	0217	4819326
 pb	190	0218	4819327
 pb	191	0219	4819328
 entry	Asclépiades	3	
+orth	Asclépiades		
 pb	192	0220	4819329
 pb	193	0221	4819330
 pb	194	0222	4819331
@@ -416,74 +550,106 @@ orth	nommé communément Aselli
 pb	195	0223	4819332
 pb	196	0224	4819333
 entry	Astrologie	4	
+orth	Astrologie		
 pb	197	0225	4819334
 pb	198	0226	4819335
 pb	199	0227	4819336
 pb	200	0228	4819337
 entry	Astruc (Jean)	3	
+orth	Astruc (Jean)		
 pb	201	0229	4819338
 pb	202	0230	4819339
 pb	203	0231	4819340
 entry	Athalin (Claude-François)	0	
+orth	Athalin (Claude-François)		
 pb	204	0232	4819341
 entry	Aubert (B.)	1	
+orth	Aubert (B.)		
 pb	205	0233	4819342
 entry	Aubert (Jacques)	0	
+orth	Aubert (Jacques)		
 entry	Aubery (Jean)	1	
+orth	Aubery (Jean)		
 pb	206	0234	4819343
 entry	Aubin (Jean de Saint-)	0	
+orth	Aubin (Jean de Saint-)		
 entry	Aubry (Jean-François)	1	
+orth	Aubry (Jean-François)		
 pb	207	0235	4819344
 entry	Audoin de Chaignebrun (Henri)	1	
+orth	Audoin de Chaignebrun (Henri)		
 pb	208	0236	4819345
 entry	Auenbrugger (Léopold)	0	
+orth	Auenbrugger (Léopold)		
 entry	Augenio (Horace)	2	
+orth	Augenio (Horace)		
 pb	209	0237	4819346
 pb	210	0238	4819347
 entry	Aumont (Arnulphe d')	0	
+orth	Aumont (Arnulphe d')		
 entry	Augier Dufot (Anne-Amable)	0	
+orth	Augier Dufot (Anne-Amable)		
 entry	Ausone (Jules)	1	
+orth	Ausone (Jules)		
 pb	211	0239	4819348
 entry	Auvity (Jean-Abraham)	0	
+orth	Auvity (Jean-Abraham)		
 entry	Auzeby (Pierre)	0	
+orth	Auzeby (Pierre)		
 pb	212	0240	4819349
 entry	Avenzohar ou Aben-zohar	1	
 orth	Avenzohar		
 orth	Aben-zohar		
 pb	213	0241	4819350
 entry	Averrhoes (Aboul-Vélyd-Mohammed, ou régulièrement Ibn-Rochd)	1	
+orth	Averrhoes (Aboul-Vélyd-Mohammed, ou régulièrement Ibn-Rochd)		
 pb	214	0242	4819351
 entry	Avicenne	2	
+orth	Avicenne		
 pb	215	0243	4819352
 pb	216	0244	4819353
 entry	Aymen (Jean-Baptiste)	0	
+orth	Aymen (Jean-Baptiste)		
 entry	Azzoguidi (Germain)	1	
+orth	Azzoguidi (Germain)		
 pb	217	0245	4819354
 pb	218	0246	4819355
 entry	Baader (Joseph-Lambert)	0	
+orth	Baader (Joseph-Lambert)		
 entry	Bablot (Benjamin)	1	
+orth	Bablot (Benjamin)		
 pb	219	0247	4819356
 entry	Baccanelli	0	
+orth	Baccanelli		
 entry	Bacchetton (Jérôme-Léopold)	0	
+orth	Bacchetton (Jérôme-Léopold)		
 entry	Bacci ou Baccio (André)	2	
 orth	Bacci		
 orth	Baccio (André)		
 pb	220	0248	4819357
 pb	221	0249	4819358
 entry	Bacher (Georges-Frédéric)	0	
+orth	Bacher (Georges-Frédéric)		
 entry	Bacher (Alexandre-Philippe)	1	
+orth	Bacher (Alexandre-Philippe)		
 pb	222	0250	4819359
 entry	Bacheracht (Henri, ou André, selon le Magasin encyclop.)	1	
+orth	Bacheracht (Henri, ou André, selon le Magasin encyclop.)		
 pb	223	0251	4819360
 entry	Bachot (Étienne)	1	
+orth	Bachot (Étienne)		
 pb	224	0252	4819361
 entry	Bachot (Gaspard)	1	
+orth	Bachot (Gaspard)		
 pb	225	0253	4819362
 entry	Bachstrom (Jean-Frédéric)	2	
+orth	Bachstrom (Jean-Frédéric)		
 pb	226	0254	4819363
 pb	227	0255	4819364
 entry	Bacmeister (Mathieu)	0	
+orth	Bacmeister (Mathieu)		
 entry	Bacon (François)	10	
+orth	Bacon (François)		
 pb	228	0256	4819365
 pb	229	0257	4819366
 pb	230	0258	4819367
@@ -495,37 +661,50 @@ pb	235	0263	4819372
 pb	236	0264	4819373
 pb	237	0265	4819374
 entry	Bacon (Roger)	4	
+orth	Bacon (Roger)		
 pb	238	0266	4819375
 pb	239	0267	4819376
 pb	240	0268	4819377
 pb	241	0269	4819378
 entry	Bado (Sébastien)	0	
+orth	Bado (Sébastien)		
 entry	Baersdorp (Corneille van)	1	
+orth	Baersdorp (Corneille van)		
 pb	242	0270	4819379
 entry	Bagard (Charles)	1	
+orth	Bagard (Charles)		
 pb	243	0271	4819380
 entry	Baget (Jean)	1	
+orth	Baget (Jean)		
 pb	244	0272	4819381
 entry	Bagieu (Jacques)	1	
+orth	Bagieu (Jacques)		
 pb	245	0273	4819382
 entry	Baglivi (Georges)	3	
+orth	Baglivi (Georges)		
 pb	246	0274	4819383
 pb	247	0275	4819384
 pb	248	0276	4819385
 entry	Baier (Jean-Jacques)	2	
+orth	Baier (Jean-Jacques)		
 pb	249	0277	4819386
 pb	250	0278	4819387
 entry	Baillif de la rivière (Roch Le)	1	
+orth	Baillif de la rivière (Roch Le)		
 pb	251	0279	4819388
 entry	Baillou (Guillaume)	2	
+orth	Baillou (Guillaume)		
 pb	252	0280	4819389
 pb	253	0281	4819390
 entry	Bajon	1	
+orth	Bajon		
 pb	254	0282	4819391
 entry	Baker (Georges)	3	
+orth	Baker (Georges)		
 pb	255	0283	4819392
 pb	256	0284	4819393
 entry	Baldinger (Ernest Godefroi)	3	
+orth	Baldinger (Ernest Godefroi)		
 pb	257	0285	4819394
 pb	258	0286	4819395
 pb	259	0287	4819396
@@ -537,29 +716,40 @@ entry	Baley ou Bailey (Gautier)	0
 orth	Baley		
 orth	Bailey (Gautier)		
 entry	Balfour (François)	2	
+orth	Balfour (François)		
 pb	261	0289	4819398
 pb	262	0290	4819399
 entry	Ball (Jean)	0	
+orth	Ball (Jean)		
 entry	Ballexerd (Jacques)	1	
+orth	Ballexerd (Jacques)		
 pb	263	0291	4819400
 entry	Balme (Cl. D.)	0	
+orth	Balme (Cl. D.)		
 entry	Banau (J.)	1	
+orth	Banau (J.)		
 pb	264	0292	4819401
 entry	Banister ou Banester (Jean)	1	
 orth	Banister		
 orth	Banester (Jean)		
 pb	265	0293	4819402
 entry	Banister (Richard)	1	
+orth	Banister (Richard)		
 pb	266	0294	4819403
 entry	Barbaut (Antoine-François)	0	
+orth	Barbaut (Antoine-François)		
 entry	Barberet (Denis)	1	
+orth	Barberet (Denis)		
 pb	267	0295	4819404
 entry	Barbette (Paul)	1	
+orth	Barbette (Paul)		
 pb	268	0296	4819405
 entry	Barbeu-Dubourg (Jacques)	2	
+orth	Barbeu-Dubourg (Jacques)		
 pb	269	0297	4819406
 pb	270	0298	4819407
 entry	Barbeyrac (Charles)	1	
+orth	Barbeyrac (Charles)		
 pb	271	0299	4819408
 entry	Barchusen (Jean-Conrad), ou Barckausen	1	
 orth	Barchusen (Jean-Conrad)		
@@ -567,13 +757,17 @@ orth	Barckausen
 pb	272	0300	4819409
 pb	273	0301	4819410
 entry	Baron (Hyacinthe-Théodore)	1	
+orth	Baron (Hyacinthe-Théodore)		
 pb	274	0302	4819411
 entry	Baron d'Henouville (Théodore)	2	
+orth	Baron d'Henouville (Théodore)		
 pb	275	0303	4819412
 pb	276	0304	4819413
 entry	Barrère (Pierre)	1	
+orth	Barrère (Pierre)		
 pb	277	0305	4819414
 entry	Barthez (Paul-Joseph)	9	
+orth	Barthez (Paul-Joseph)		
 pb	278	0306	4819415
 pb	279	0307	4819416
 pb	280	0308	4819417
@@ -584,9 +778,11 @@ pb	284	0312	4819421
 pb	285	0313	4819422
 pb	286	0314	4819423
 entry	Bartholin (Gaspard)	2	
+orth	Bartholin (Gaspard)		
 pb	287	0315	4819424
 pb	288	0316	4819425
 entry	Bartholin (Thomas)	7	
+orth	Bartholin (Thomas)		
 pb	289	0317	4819426
 pb	290	0318	4819427
 pb	291	0319	4819428
@@ -595,33 +791,44 @@ pb	293	0321	4819430
 pb	294	0322	4819431
 pb	295	0323	4819432
 entry	Bartholin (Gaspard)	2	
+orth	Bartholin (Gaspard)		
 pb	296	0324	4819433
 pb	297	0325	4819434
 entry	Baseilhac (Jean)	3	
+orth	Baseilhac (Jean)		
 pb	298	0326	4819435
 pb	299	0327	4819436
 pb	300	0328	4819437
 entry	Baseilhac (Pascal)	1	
+orth	Baseilhac (Pascal)		
 pb	301	0329	4819438
 entry	Basile Valentin	2	
+orth	Basile Valentin		
 pb	302	0330	4819439
 pb	303	0331	4819440
 entry	Bass (Henri)	1	
+orth	Bass (Henri)		
 pb	304	0332	4819441
 entry	Bassuel (Pierre)	2	
+orth	Bassuel (Pierre)		
 pb	305	0333	4819442
 pb	306	0334	4819443
 entry	Baudelocque (Jean-Louis)	3	
+orth	Baudelocque (Jean-Louis)		
 pb	307	0335	4819444
 pb	308	0336	4819445
 pb	309	0337	4819446
 entry	Bauderon (Brice)	0	
+orth	Bauderon (Brice)		
 entry	Baudry	1	
+orth	Baudry		
 pb	310	0338	4819447
 entry	Bauhin (Jean)	3	
+orth	Bauhin (Jean)		
 pb	311	0339	4819448
 pb	312	0340	4819449
 entry	Bauhin (Gaspard)	4	
+orth	Bauhin (Gaspard)		
 pb	313	0341	4819450
 pb	314	0342	4819451
 pb	315	0343	4819452
@@ -634,102 +841,141 @@ pb	318	0346	4819455
 pb	319	0347	4819456
 pb	320	0348	4819457
 entry	Baumé (Antoine)	2	
+orth	Baumé (Antoine)		
 pb	321	0349	4819458
 pb	322	0350	4819459
 entry	Baumer (Jean-Guillaume)	1	
+orth	Baumer (Jean-Guillaume)		
 pb	323	0351	4819460
 entry	Baux (Pierre)	1	
+orth	Baux (Pierre)		
 pb	324	0352	4819461
 entry	Bayen (Pierre)	3	
+orth	Bayen (Pierre)		
 pb	325	0353	4819462
 pb	326	0354	4819463
 pb	327	0355	4819464
 entry	Bayle (François)	1	
+orth	Bayle (François)		
 pb	328	0356	4819465
 entry	Bayle (Gaspard-Laurent)	1	
+orth	Bayle (Gaspard-Laurent)		
 pb	329	0357	4819466
 entry	Béclard (Pierre-Augustin)	4	
+orth	Béclard (Pierre-Augustin)		
 pb	330	0358	4819467
 pb	331	0359	4819468
 pb	332	0360	4819469
 pb	333	0361	4819470
 entry	Beddoes (Thomas)	3	
+orth	Beddoes (Thomas)		
 pb	334	0362	4819471
 pb	335	0363	4819472
 pb	336	0364	4819473
 entry	Bègue de presle (Achille-Guillaume Le)	1	
+orth	Bègue de presle (Achille-Guillaume Le)		
 pb	337	0365	4819474
 entry	Behr (George-Henri)	1	
+orth	Behr (George-Henri)		
 pb	338	0366	4819475
 entry	Bell (Benjamin)	1	
+orth	Bell (Benjamin)		
 pb	339	0367	4819476
 entry	Bellini (Laurent)	2	
+orth	Bellini (Laurent)		
 pb	340	0368	4819477
 pb	341	0369	4819478
 entry	Belloc (Jean-Jacques)	2	
+orth	Belloc (Jean-Jacques)		
 pb	342	0370	4819479
 pb	343	0371	4819480
 entry	Belloste (Augustin)	0	
+orth	Belloste (Augustin)		
 entry	Benci ou Benzo (Hugues)	2	
 orth	Benci		
 orth	Benzo (Hugues)		
 pb	344	0372	4819481
 pb	345	0373	4819482
 entry	Benedetti (Alexandre)	1	
+orth	Benedetti (Alexandre)		
 pb	346	0374	4819483
 entry	Benevoli (Antoine)	1	
+orth	Benevoli (Antoine)		
 pb	347	0375	4819484
 entry	Benivieni (Antoine)	1	
+orth	Benivieni (Antoine)		
 pb	348	0376	4819485
 entry	Bennet (Christophe)	1	
+orth	Bennet (Christophe)		
 pb	349	0377	4819486
 entry	Benvenuti (Joseph)	1	
+orth	Benvenuti (Joseph)		
 pb	350	0378	4819487
 entry	Berengario	3	
+orth	Berengario		
 pb	351	0379	4819488
 pb	352	0380	4819489
 pb	353	0381	4819490
 entry	Bergen (Charles-Auguste De)	2	
+orth	Bergen (Charles-Auguste De)		
 pb	354	0382	4819491
 pb	355	0383	4819492
 entry	Berger (Jean-Codefroy De)	0	
+orth	Berger (Jean-Codefroy De)		
 entry	Bergius (Pierre-Jonas)	1	
+orth	Bergius (Pierre-Jonas)		
 pb	356	0384	4819493
 entry	Bergman (Torbern)	1	
+orth	Bergman (Torbern)		
 pb	357	0385	4819494
 entry	Berlinghieri (François Vacca)	1	
+orth	Berlinghieri (François Vacca)		
 pb	358	0386	4819495
 pb	359	0387	4819496
 entry	Berlinghieri (André Vacca)	3	
+orth	Berlinghieri (André Vacca)		
 pb	360	0388	4819497
 pb	361	0389	4819498
 pb	362	0390	4819499
 entry	Bernier (Jean)	0	
+orth	Bernier (Jean)		
 entry	Bernoulli	1	
+orth	Bernoulli		
 pb	363	0391	4819500
 entry	Bernoulli (Jean)	1	
+orth	Bernoulli (Jean)		
 pb	364	0392	4819501
 entry	Bernoulli (Daniel)	1	
+orth	Bernoulli (Daniel)		
 pb	365	0393	4819502
 entry	Berryat (Jean)	1	
+orth	Berryat (Jean)		
 pb	366	0394	4819503
 entry	Bertapaglia (Léonard de)	1	
+orth	Bertapaglia (Léonard de)		
 pb	367	0395	4819504
 entry	Berthe (J. N.)	0	
+orth	Berthe (J. N.)		
 entry	Berthollet (Claude-Louis)	1	
+orth	Berthollet (Claude-Louis)		
 pb	368	0396	4819505
 entry	Bertin (Exupère-Joseph)	4	
+orth	Bertin (Exupère-Joseph)		
 pb	369	0397	4819506
 pb	370	0398	4819507
 pb	371	0399	4819508
 pb	372	0400	4819509
 entry	Bertin (René-Joseph-Hyacinthe)	2	
+orth	Bertin (René-Joseph-Hyacinthe)		
 pb	373	0401	4819510
 pb	374	0402	4819511
 entry	Bertrand (Thomas-Bernard)	0	
+orth	Bertrand (Thomas-Bernard)		
 entry	Bertrand (Jean-Baptiste)	1	
+orth	Bertrand (Jean-Baptiste)		
 pb	375	0403	4819512
 entry	Bertrandi (Ambroise)	3	
+orth	Bertrandi (Ambroise)		
 pb	376	0404	4819513
 pb	377	0405	4819514
 pb	378	0406	4819515
@@ -737,17 +983,22 @@ entry	Bertucci ou Bertruccio (Nicolas)	0
 orth	Bertucci		
 orth	Bertruccio (Nicolas)		
 entry	Beverwyck (Jean de)	2	
+orth	Beverwyck (Jean de)		
 pb	379	0407	4819516
 pb	380	0408	4819517
 entry	Bianchi (Jean-Baptiste)	3	
+orth	Bianchi (Jean-Baptiste)		
 pb	381	0409	4819518
 pb	382	0410	4819519
 pb	383	0411	4819520
 entry	Bianchi (Jean)	1	
+orth	Bianchi (Jean)		
 pb	384	0412	4819521
 entry	Bianchini (Jean-Fortuné)	1	
+orth	Bianchini (Jean-Fortuné)		
 pb	385	0413	4819522
 entry	Bichat (Marie-François-Xavier)	11	
+orth	Bichat (Marie-François-Xavier)		
 pb	386	0414	4819523
 pb	387	0415	4819524
 pb	388	0416	4819525
@@ -760,59 +1011,85 @@ pb	394	0422	4819531
 pb	395	0423	4819532
 pb	396	0424	4819533
 entry	Bidault de Villiers (F. T.)	1	
+orth	Bidault de Villiers (F. T.)		
 pb	397	0425	4819534
 entry	Bidloo (Godefroy)	2	
+orth	Bidloo (Godefroy)		
 pb	398	0426	4819535
 pb	399	0427	4819536
 entry	Bienaise (Jean)	1	
+orth	Bienaise (Jean)		
 pb	400	0428	4819537
 entry	Bilguer (Jean-Ulric de)	1	
+orth	Bilguer (Jean-Ulric de)		
 pb	401	0429	4819538
 entry	Binninger (Jean-Nicolas)	0	
+orth	Binninger (Jean-Nicolas)		
 entry	Biondo (Michel-Ange)	1	
+orth	Biondo (Michel-Ange)		
 pb	402	0430	4819539
 entry	Biron (Vincent-Jean-Paul)	1	
+orth	Biron (Vincent-Jean-Paul)		
 pb	403	0431	4819540
 entry	Bisset (Charles)	1	
+orth	Bisset (Charles)		
 pb	404	0432	4819541
 entry	Biumi (Paul-Jérôme)	1	
+orth	Biumi (Paul-Jérôme)		
 pb	405	0433	4819542
 entry	Black (Guillaume)	1	
+orth	Black (Guillaume)		
 pb	406	0434	4819543
 entry	Black (Joseph)	1	
+orth	Black (Joseph)		
 pb	407	0435	4819544
 entry	Blackmore (Richard)	2	
+orth	Blackmore (Richard)		
 pb	408	0436	4819545
 pb	409	0437	4819546
 entry	Blackwell (Alexandre, et Élisabeth, sa femme)	1	
+orth	Blackwell (Alexandre, et Élisabeth, sa femme)		
 pb	410	0438	4819547
 entry	Blaes (Gérard)	3	
+orth	Blaes (Gérard)		
 pb	411	0439	4819548
 pb	412	0440	4819549
 pb	413	0441	4819550
 entry	Blair (Patrice)	1	
+orth	Blair (Patrice)		
 pb	414	0442	4819551
 entry	Blanc (Louis le)	0	
+orth	Blanc (Louis le)		
 entry	Blancaard (Étienne)	1	
+orth	Blancaard (Étienne)		
 pb	415	0443	4819552
 entry	Blegny (Nicolas de)	2	
+orth	Blegny (Nicolas de)		
 pb	416	0444	4819553
 pb	417	0445	4819554
 entry	Blizard (Guillaume)	0	
+orth	Blizard (Guillaume)		
 entry	Blondel (François)	1	
+orth	Blondel (François)		
 pb	418	0446	4819555
 entry	Blondel (Jacques-Auguste)	1	
+orth	Blondel (Jacques-Auguste)		
 pb	419	0447	4819556
 entry	Bodin (Laurent)	0	
+orth	Bodin (Laurent)		
 pb	420	0448	4819557
 entry	Boe (François de le)	2	
+orth	Boe (François de le)		
 pb	421	0449	4819558
 pb	422	0450	4819559
 entry	Boecler (Jean)	1	
+orth	Boecler (Jean)		
 pb	423	0451	4819560
 entry	Boehmer (Georges-Rodolphe)	1	
+orth	Boehmer (Georges-Rodolphe)		
 pb	424	0452	4819561
 entry	Boehmer (Philippe-Adolphe)	1	
+orth	Boehmer (Philippe-Adolphe)		
 pb	425	0453	4819562
 entry	Boerhaave ou Boerhaaven (Herman)	9	
 orth	Boerhaave		
@@ -828,29 +1105,41 @@ pb	433	0461	4819570
 pb	434	0462	4819571
 pb	435	0463	4819572
 entry	Boerner (Frédéric)	1	
+orth	Boerner (Frédéric)		
 pb	436	0464	4819573
 entry	Bogros (Jean-Annet)	1	
+orth	Bogros (Jean-Annet)		
 pb	437	0465	4819574
 entry	Bohn (Jean)	3	
+orth	Bohn (Jean)		
 pb	438	0466	4819575
 pb	439	0467	4819576
 pb	440	0468	4819577
 entry	Bois (Jacques du)	0	
+orth	Bois (Jacques du)		
 entry	Bois (Pierre du)	0	
+orth	Bois (Pierre du)		
 entry	Boissieu (Barthélemy-Camille de)	1	
+orth	Boissieu (Barthélemy-Camille de)		
 pb	441	0469	4819578
 entry	Bona (Jean-Della)	1	
+orth	Bona (Jean-Della)		
 pb	442	0470	4819579
 entry	Bonacciuoli (Louis)	1	
+orth	Bonacciuoli (Louis)		
 pb	443	0471	4819580
 entry	Bonet (Théophile)	2	
+orth	Bonet (Théophile)		
 pb	444	0472	4819581
 pb	445	0473	4819582
 entry	Bonhomme (Jean-Baptiste)	1	
+orth	Bonhomme (Jean-Baptiste)		
 pb	446	0474	4819583
 entry	Bonn (André)	1	
+orth	Bonn (André)		
 pb	446 bis	0475	4819584
 entry	Bonnefoy (Jean-Baptiste)	0	
+orth	Bonnefoy (Jean-Baptiste)		
 pb	[s. pag.]	0476	4819585
 entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0477	4819586
@@ -858,25 +1147,32 @@ pb	[s. pag.]	0478	4819587
 entry	[Page de titre]	0	
 pb	447	0479	4819588
 entry	Bonnet (Charles)	5	
+orth	Bonnet (Charles)		
 pb	448	0480	4819589
 pb	449	0481	4819590
 pb	450	0482	4819591
 pb	451	0483	4819592
 pb	452	0484	4819593
 entry	Bontekoe (Corneille)	2	
+orth	Bontekoe (Corneille)		
 pb	453	0485	4819594
 pb	454	0486	4819595
 entry	Bontius (Jacques)	0	
+orth	Bontius (Jacques)		
 entry	Boot (Arnold)	1	
+orth	Boot (Arnold)		
 pb	455	0487	4819596
 entry	Borch (Olaus)	3	
+orth	Borch (Olaus)		
 pb	456	0488	4819597
 pb	457	0489	4819598
 pb	458	0490	4819599
 entry	Bordenave (Toussaint)	2	
+orth	Bordenave (Toussaint)		
 pb	459	0491	4819600
 pb	460	0492	4819601
 entry	Bordeu (Théophile de)	6	
+orth	Bordeu (Théophile de)		
 pb	461	0493	4819602
 pb	462	0494	4819603
 pb	463	0495	4819604
@@ -884,30 +1180,41 @@ pb	464	0496	4819605
 pb	465	0497	4819606
 pb	466	0498	4819607
 entry	Bording (Jacques)	1	
+orth	Bording (Jacques)		
 pb	467	0499	4819608
 entry	Borel (Pierre)	1	
+orth	Borel (Pierre)		
 pb	468	0500	4819609
 entry	Borelli (Jean-Alphonse)	4	
+orth	Borelli (Jean-Alphonse)		
 pb	469	0501	4819610
 pb	470	0502	4819611
 pb	471	0503	4819612
 pb	472	0504	4819613
 entry	Borgarucci (Prosper)	0	
+orth	Borgarucci (Prosper)		
 pb	473	0505	4819614
 entry	Borsieri de Kanifeld (Jean-Baptiste)	1	
+orth	Borsieri de Kanifeld (Jean-Baptiste)		
 pb	474	0506	4819615
 entry	Bosch (Iman Jacob Van Den)	1	
+orth	Bosch (Iman Jacob Van Den)		
 pb	475	0507	4819616
 entry	Boschi (Hippolyte)	0	
+orth	Boschi (Hippolyte)		
 entry	Bosquillon (Édouard-François-Marie)	3	
+orth	Bosquillon (Édouard-François-Marie)		
 pb	476	0508	4819617
 pb	477	0509	4819618
 pb	478	0510	4819619
 entry	Bossche (Guillaume Van Den)	0	
+orth	Bossche (Guillaume Van Den)		
 entry	Botalli (Léonard)	2	
+orth	Botalli (Léonard)		
 pb	479	0511	4819620
 pb	480	0512	4819621
 entry	Botanique	6	
+orth	Botanique		
 pb	481	0513	4819622
 pb	482	0514	4819623
 pb	483	0515	4819624
@@ -915,41 +1222,57 @@ pb	484	0516	4819625
 pb	485	0517	4819626
 pb	486	0518	4819627
 entry	Boucher (Pierre-Joseph)	2	
+orth	Boucher (Pierre-Joseph)		
 pb	487	0519	4819628
 pb	488	0520	4819629
 entry	Boudewyns (Michel)	0	
+orth	Boudewyns (Michel)		
 entry	Bouffey (L. D. Amable)	1	
+orth	Bouffey (L. D. Amable)		
 pb	489	0521	4819630
 entry	Bouillet (Jean)	2	
+orth	Bouillet (Jean)		
 pb	490	0522	4819631
 pb	491	0523	4819632
 entry	Bouillet (Jean-Henri-Nicolas)	1	
+orth	Bouillet (Jean-Henri-Nicolas)		
 pb	492	0524	4819633
 entry	Boulton (Richard)	0	
+orth	Boulton (Richard)		
 entry	Bourdet	1	
+orth	Bourdet		
 pb	493	0525	4819634
 entry	Bourgelat (Claude)	2	
+orth	Bourgelat (Claude)		
 pb	494	0526	4819635
 pb	495	0527	4819636
 pb	496	0528	4819637
 entry	Bourienne (Robert)	1	
+orth	Bourienne (Robert)		
 pb	497	0529	4819638
 entry	Bourru (Edme-Claude)	1	
+orth	Bourru (Edme-Claude)		
 pb	498	0530	4819639
 entry	Bouvart (Michel-Philippe)	2	
+orth	Bouvart (Michel-Philippe)		
 pb	499	0531	4819640
 pb	500	0532	4819641
 entry	Boyer (Jean-Baptiste-Nicolas)	2	
+orth	Boyer (Jean-Baptiste-Nicolas)		
 pb	501	0533	4819642
 pb	502	0534	4819643
 entry	Boyle (Robert)	2	
+orth	Boyle (Robert)		
 pb	503	0535	4819644
 pb	504	0536	4819645
 entry	Bra (Henri a)	1	
+orth	Bra (Henri a)		
 pb	505	0537	4819646
 entry	Bradley (Richard)	1	
+orth	Bradley (Richard)		
 pb	506	0538	4819647
 entry	Brambilla (Jean-Alexandre)	1	
+orth	Brambilla (Jean-Alexandre)		
 pb	507	0539	4819648
 entry	Brasavola (Antoine Musa), ou Brasavolo	1	
 orth	Brasavola (Antoine Musa)		
@@ -957,46 +1280,68 @@ orth	Brasavolo
 pb	508	0540	4819649
 pb	509	0541	4819650
 entry	Brasdor (Pierre)	1	
+orth	Brasdor (Pierre)		
 pb	510	0542	4819651
 entry	Bravo Ramirez de Sobremonte (Gaspard)	0	
+orth	Bravo Ramirez de Sobremonte (Gaspard)		
 entry	Bravo (Jean), de Pierre-Fite (Piedra-Hita)	1	
 orth	Bravo (Jean)		
 orth	de Pierre-Fite (Piedra-Hita)		
 pb	511	0543	4819652
 entry	Bremser (Jean-Georges)	0	
+orth	Bremser (Jean-Georges)		
 entry	Brendel (Adam)	0	
+orth	Brendel (Adam)		
 pb	512	0544	4819653
 entry	Brendel (Jean-Godefroy)	0	
+orth	Brendel (Jean-Godefroy)		
 entry	Briggs (Guillaume)	1	
+orth	Briggs (Guillaume)		
 pb	513	0545	4819654
 entry	Bright (Thimothée)	0	
+orth	Bright (Thimothée)		
 entry	Briot (Pierre-François)	2	
+orth	Briot (Pierre-François)		
 pb	514	0546	4819655
 pb	515	0547	4819656
 entry	Brisbane (Jean)	0	
+orth	Brisbane (Jean)		
 entry	Brisseau (Pierre)	1	
+orth	Brisseau (Pierre)		
 pb	516	0548	4819657
 entry	Brisseau (Michel)	1	
+orth	Brisseau (Michel)		
 pb	517	0549	4819658
 entry	Brissot (Pierre)	3	
+orth	Brissot (Pierre)		
 pb	518	0550	4819659
 pb	519	0551	4819660
 pb	520	0552	4819661
 entry	Brocklesby (Richard)	1	
+orth	Brocklesby (Richard)		
 pb	521	0553	4819662
 entry	Broeckhuysen (Benjamin Van)	0	
+orth	Broeckhuysen (Benjamin Van)		
 entry	Broen (Jean)	1	
+orth	Broen (Jean)		
 pb	522	0554	4819663
 entry	Broeucquez (Jean-François du)	0	
+orth	Broeucquez (Jean-François du)		
 entry	Broeucquez (Antoine-François)	0	
+orth	Broeucquez (Antoine-François)		
 entry	Bromfield (Guillaume)	1	
+orth	Bromfield (Guillaume)		
 pb	523	0555	4819664
 entry	Brookes (Richard)	1	
+orth	Brookes (Richard)		
 pb	524	0556	4819665
 entry	Brosse (Guy de La)	1	
+orth	Brosse (Guy de La)		
 pb	525	0557	4819666
 entry	Brouzet	0	
+orth	Brouzet		
 entry	Brown (Jean)	11	
+orth	Brown (Jean)		
 pb	526	0558	4819667
 pb	527	0559	4819668
 pb	528	0560	4819669
@@ -1008,49 +1353,72 @@ pb	533	0565	4819674
 pb	534	0566	4819675
 pb	535	0567	4819676
 entry	Browne (Patrice)	0	
+orth	Browne (Patrice)		
 entry	Browne (Thomas)	1	
+orth	Browne (Thomas)		
 pb	536	0568	4819677
 entry	Browne (Joseph)	1	
+orth	Browne (Joseph)		
 pb	537	0569	4819678
 entry	Browne (André)	0	
+orth	Browne (André)		
 entry	Browne (Édouard)	1	
+orth	Browne (Édouard)		
 pb	538	0570	4819679
 entry	Brownrigg (Guillaume)	0	
+orth	Brownrigg (Guillaume)		
 entry	Bru	0	
+orth	Bru		
 entry	Bruand (Pierre-François)	1	
+orth	Bruand (Pierre-François)		
 pb	539	0571	4819680
 entry	Brueckmann (François-Ernest)	1	
+orth	Brueckmann (François-Ernest)		
 pb	540	0572	4819681
 entry	Bruening (Georges-Florent-Henri)	0	
+orth	Bruening (Georges-Florent-Henri)		
 entry	Brugnatelli (Louis-V.)	1	
+orth	Brugnatelli (Louis-V.)		
 pb	541	0573	4819682
 entry	Brugnone (Jean)	2	
+orth	Brugnone (Jean)		
 pb	542	0574	4819683
 pb	543	0575	4819684
 entry	Bruhier d'Ablaincourt (Jean-Jacques)	1	
+orth	Bruhier d'Ablaincourt (Jean-Jacques)		
 pb	544	0576	4819685
 entry	Brumfels (Othon)	1	
+orth	Brumfels (Othon)		
 pb	545	0577	4819686
 entry	Brunn (Jean-Jacques à)	1	
+orth	Brunn (Jean-Jacques à)		
 pb	546	0578	4819687
 entry	Brunner (Jean-Conrad)	2	
+orth	Brunner (Jean-Conrad)		
 pb	547	0579	4819688
 pb	548	0580	4819689
 entry	Bruno (Jacques-Pancrace)	1	
+orth	Bruno (Jacques-Pancrace)		
 pb	549	0581	4819690
 entry	Buchan (Guillaume)	1	
+orth	Buchan (Guillaume)		
 pb	550	0582	4819691
 entry	Buchoz (Chrétien-Frédéric)	1	
+orth	Buchoz (Chrétien-Frédéric)		
 pb	551	0583	4819692
 entry	Buchoz (Pierre-Joseph)	2	
+orth	Buchoz (Pierre-Joseph)		
 pb	552	0584	4819693
 pb	553	0585	4819694
 entry	Bucquet (Jean-Baptiste-Michel)	1	
+orth	Bucquet (Jean-Baptiste-Michel)		
 pb	554	0586	4819695
 entry	Buechner (André-Élie)	2	
+orth	Buechner (André-Élie)		
 pb	555	0587	4819696
 pb	556	0588	4819697
 entry	Buffon (George-Louis Leclerc, comte de)	7	
+orth	Buffon (George-Louis Leclerc, comte de)		
 pb	557	0589	4819698
 pb	558	0590	4819699
 pb	559	0591	4819700
@@ -1059,95 +1427,136 @@ pb	561	0593	4819702
 pb	562	0594	4819703
 pb	563	0595	4819704
 entry	Buisson (Mathieu-François-Régis)	1	
+orth	Buisson (Mathieu-François-Régis)		
 pb	564	0596	4819705
 entry	Bulleyn (Guillaume)	1	
+orth	Bulleyn (Guillaume)		
 pb	565	0597	4819706
 entry	Bulliard (Pierre)	1	
+orth	Bulliard (Pierre)		
 pb	566	0598	4819707
 entry	Bunon (Robert)	1	
+orth	Bunon (Robert)		
 pb	567	0599	4819708
 entry	Burette (Pierre-Jean)	2	
+orth	Burette (Pierre-Jean)		
 pb	568	0600	4819709
 pb	569	0601	4819710
 entry	Burggrav (Jean-Philippe)	1	
+orth	Burggrav (Jean-Philippe)		
 pb	570	0602	4819711
 entry	Burnet (Thomas)	0	
+orth	Burnet (Thomas)		
 entry	Burrhus (Joseph-François)	2	
+orth	Burrhus (Joseph-François)		
 pb	571	0603	4819712
 pb	572	0604	4819713
 entry	Burtin (François-Xavier)	0	
+orth	Burtin (François-Xavier)		
 entry	Burton (Jean)	1	
+orth	Burton (Jean)		
 pb	573	0605	4819714
 entry	Butini (Jean-Antoine)	0	
+orth	Butini (Jean-Antoine)		
 entry	Butter (Guillaume)	2	
+orth	Butter (Guillaume)		
 pb	574	0606	4819715
 pb	575	0607	4819716
 pb	576	0608	4819717
 entry	Cabanis (Pierre-Jean-George)	4	
+orth	Cabanis (Pierre-Jean-George)		
 pb	577	0609	4819718
 pb	578	0610	4819719
 pb	579	0611	4819720
 pb	580	0612	4819721
 entry	Cabrol (Barthélemy)	2	
+orth	Cabrol (Barthélemy)		
 pb	581	0613	4819722
 pb	582	0614	4819723
 entry	Cachet (Christophe)	0	
+orth	Cachet (Christophe)		
 pb	583	0615	4819724
 entry	Cadet-de-Gassicourt (Charles-Louis)	2	
+orth	Cadet-de-Gassicourt (Charles-Louis)		
 pb	584	0616	4819725
 pb	585	0617	4819726
 entry	Cadet-de-Vaux (Antoine-Alexis)	2	
+orth	Cadet-de-Vaux (Antoine-Alexis)		
 pb	586	0618	4819727
 pb	587	0619	4819728
 entry	Cadet-Gassicourt (Louis-Claude)	2	
+orth	Cadet-Gassicourt (Louis-Claude)		
 pb	588	0620	4819729
 pb	589	0621	4819730
 entry	Cadogan (Guillaume)	0	
+orth	Cadogan (Guillaume)		
 entry	Celius Aurelianus	2	
+orth	Celius Aurelianus		
 pb	590	0622	4819731
 pb	591	0623	4819732
 entry	Caels (Théodore-Pierre)	0	
+orth	Caels (Théodore-Pierre)		
 pb	592	0624	4819733
 entry	Cagnati (Marsile)	0	
+orth	Cagnati (Marsile)		
 entry	Caillau (Jean-Marie)	3	
+orth	Caillau (Jean-Marie)		
 pb	593	0625	4819734
 pb	594	0626	4819735
 pb	595	0627	4819736
 entry	Caius	0	
+orth	Caius		
 entry	Caldani (Léopold-Marc-Antoine)	5	
+orth	Caldani (Léopold-Marc-Antoine)		
 pb	596	0628	4819737
 pb	597	0629	4819738
 pb	598	0630	4819739
 pb	599	0631	4819740
 pb	600	0632	4819741
 entry	Caldera de Heredia	0	
+orth	Caldera de Heredia		
 entry	Callard de la ducquerre (Jean-Baptiste)	1	
+orth	Callard de la ducquerre (Jean-Baptiste)		
 pb	601	0633	4819742
 entry	Callisen (Henri)	1	
+orth	Callisen (Henri)		
 pb	602	0634	4819743
 entry	Callot (François-Joseph)	1	
+orth	Callot (François-Joseph)		
 pb	603	0635	4819744
 entry	Calvet (Esprit-Claude-François)	1	
+orth	Calvet (Esprit-Claude-François)		
 pb	604	0636	4819745
 entry	Calvo (Jean)	0	
+orth	Calvo (Jean)		
 entry	Calvo (Marco Fabio)	0	
+orth	Calvo (Marco Fabio)		
 entry	Camerarius (Joachim)	1	
+orth	Camerarius (Joachim)		
 pb	605	0637	4819746
 entry	Camerarius (Joachim II)	2	
+orth	Camerarius (Joachim II)		
 pb	606	0638	4819747
 pb	607	0639	4819748
 entry	Camerarius (Jean-Rodolphe)	0	
+orth	Camerarius (Jean-Rodolphe)		
 entry	Camerarius (Élie-Rodolphe)	1	
+orth	Camerarius (Élie-Rodolphe)		
 pb	608	0640	4819749
 entry	Camerarius (Rodolphe-Jacques)	1	
+orth	Camerarius (Rodolphe-Jacques)		
 pb	609	0641	4819750
 entry	Camerarius (Élie)	1	
+orth	Camerarius (Élie)		
 pb	610	0642	4819751
 entry	Campanella (Thomas)	2	
+orth	Campanella (Thomas)		
 pb	611	0643	4819752
 pb	612	0644	4819753
 entry	Campardon	0	
+orth	Campardon		
 entry	Camper (Pierre)	8	
+orth	Camper (Pierre)		
 pb	613	0645	4819754
 pb	614	0646	4819755
 pb	615	0647	4819756
@@ -1157,107 +1566,157 @@ pb	618	0650	4819759
 pb	619	0651	4819760
 pb	620	0652	4819761
 entry	Campet (Pierre)	1	
+orth	Campet (Pierre)		
 pb	621	0653	4819762
 entry	Campolongo (Émile)	1	
+orth	Campolongo (Émile)		
 pb	622	0654	4819763
 entry	Camus (Antoine Le)	1	
+orth	Camus (Antoine Le)		
 pb	623	0655	4819764
 entry	Campy (David de Planis)	0	
+orth	Campy (David de Planis)		
 entry	Canevari (Démétrius)	1	
+orth	Canevari (Démétrius)		
 pb	624	0656	4819765
 entry	Cangiamila (François-Emmanuel)	0	
+orth	Cangiamila (François-Emmanuel)		
 entry	Cannani (Jean-Baptiste)	1	
+orth	Cannani (Jean-Baptiste)		
 pb	625	0657	4819766
 entry	Cantwel (André)	2	
+orth	Cantwel (André)		
 pb	626	0658	4819767
 pb	627	0659	4819768
 entry	Capivaccio (Jérôme)	1	
+orth	Capivaccio (Jérôme)		
 pb	628	0660	4819769
 entry	Capoa (Léonard di)	0	
+orth	Capoa (Léonard di)		
 entry	Carcano-Leone (Jean-Baptiste)	1	
+orth	Carcano-Leone (Jean-Baptiste)		
 pb	629	0661	4819770
 entry	Cardan (Jérôme)	3	
+orth	Cardan (Jérôme)		
 pb	630	0662	4819771
 pb	631	0663	4819772
 pb	632	0664	4819773
 entry	Carl (Jean-Samuel)	1	
+orth	Carl (Jean-Samuel)		
 pb	633	0665	4819774
 entry	Carminati (Bassiano)	2	
+orth	Carminati (Bassiano)		
 pb	634	0666	4819775
 pb	635	0667	4819776
 entry	Caron (J.-Ch.-Félix)	1	
+orth	Caron (J.-Ch.-Félix)		
 pb	636	0668	4819777
 entry	Carpi	0	
+orth	Carpi		
 entry	Carrère (Thomas)	1	
+orth	Carrère (Thomas)		
 pb	637	0669	4819778
 entry	Carrère (Joseph-Barthélemy-François)	2	
+orth	Carrère (Joseph-Barthélemy-François)		
 pb	638	0670	4819779
 pb	639	0671	4819780
 entry	Carrero (Pierre-Garcie)	0	
+orth	Carrero (Pierre-Garcie)		
 entry	Carrozza (Jean)	1	
+orth	Carrozza (Jean)		
 pb	640	0672	4819781
 entry	Cartheuser (Jean-Frédéric)	1	
+orth	Cartheuser (Jean-Frédéric)		
 pb	641	0673	4819782
 entry	Cassebohm (Jean-Frédéric)	1	
+orth	Cassebohm (Jean-Frédéric)		
 pb	642	0674	4819783
 entry	Casserio (Jules)	2	
+orth	Casserio (Jules)		
 pb	643	0675	4819784
 pb	644	0676	4819785
 entry	Cassius	1	
+orth	Cassius		
 pb	645	0677	4819786
 entry	Castell (Pierre)	0	
+orth	Castell (Pierre)		
 entry	Castellanus	0	
+orth	Castellanus		
 entry	Castelli (Barthélemy)	1	
+orth	Castelli (Barthélemy)		
 pb	646	0678	4819787
 entry	Castelli (Pierre)	2	
+orth	Castelli (Pierre)		
 pb	647	0679	4819788
 pb	648	0680	4819789
 entry	Castro (Etienne-Roderic De)	1	
+orth	Castro (Etienne-Roderic De)		
 pb	649	0681	4819790
 entry	Castro (Roderic De)	0	
+orth	Castro (Roderic De)		
 entry	Cat (Le)	0	
+orth	Cat (Le)		
 pb	650	0682	4819791
 entry	Cavallo (Tibère)	0	
+orth	Cavallo (Tibère)		
 entry	Caverhill (Jean)	1	
+orth	Caverhill (Jean)		
 pb	651	0683	4819792
 entry	Cize (De La)	0	
+orth	Cize (De La)		
 entry	Celsus (A. Cornelius)	5	
+orth	Celsus (A. Cornelius)		
 pb	652	0684	4819793
 pb	653	0685	4819794
 pb	654	0686	4819795
 pb	655	0687	4819796
 pb	656	0688	4819797
 entry	Césalpino (André)	2	
+orth	Césalpino (André)		
 pb	657	0689	4819798
 pb	658	0690	4819799
 entry	Caze (de la)	0	
+orth	Caze (de la)		
 entry	Chabert (Philibert)	2	
+orth	Chabert (Philibert)		
 pb	659	0691	4819800
 pb	660	0692	4819801
 entry	Chalmers (Lionel)	0	
+orth	Chalmers (Lionel)		
 entry	Chamberlen ou Chamberlayne (Hugues)	1	
 orth	Chamberlen		
 orth	Chamberlayne (Hugues)		
 pb	661	0693	4819802
 entry	Chambon-de-Montaux (Nicolas)	1	
+orth	Chambon-de-Montaux (Nicolas)		
 pb	662	0694	4819803
 entry	Chambon (Joseph)	0	
+orth	Chambon (Joseph)		
 entry	Champeaux (Claude)	1	
+orth	Champeaux (Claude)		
 pb	663	0695	4819804
 entry	Champier (Symphorien)	3	
+orth	Champier (Symphorien)		
 pb	664	0696	4819805
 pb	665	0697	4819806
 pb	666	0698	4819807
 entry	Chandler (Bernard)	0	
+orth	Chandler (Bernard)		
 entry	Chandler (George)	1	
+orth	Chandler (George)		
 pb	667	0699	4819808
 entry	Chapman (Edmond)	0	
+orth	Chapman (Edmond)		
 entry	Chapman (Samuel)	1	
+orth	Chapman (Samuel)		
 pb	668	0700	4819809
 entry	Chappot	0	
+orth	Chappot		
 entry	Charas (Moïse)	1	
+orth	Charas (Moïse)		
 pb	669	0701	4819810
 entry	Charles (René)	1	
+orth	Charles (René)		
 pb	670	0702	4819811
 entry	Charleton ou Charlton (Gauthier)	3	
 orth	Charleton		
@@ -1266,40 +1725,58 @@ pb	671	0703	4819812
 pb	672	0704	4819813
 pb	673	0705	4819814
 entry	Charmetton (Jean-Baptiste)	0	
+orth	Charmetton (Jean-Baptiste)		
 entry	Charrière (Joseph de La)	0	
+orth	Charrière (Joseph de La)		
 entry	Chartier (René)	2	
+orth	Chartier (René)		
 pb	674	0706	4819815
 pb	675	0707	4819816
 entry	Chartier (Jean)	0	
+orth	Chartier (Jean)		
 entry	Chastel (du)	0	
+orth	Chastel (du)		
 entry	Chaumeton (François-Pierre)	2	
+orth	Chaumeton (François-Pierre)		
 pb	676	0708	4819817
 pb	677	0709	4819818
 entry	Chaussier (François)	4	
+orth	Chaussier (François)		
 pb	678	0710	4819819
 pb	679	0711	4819820
 pb	680	0712	4819821
 pb	681	0713	4819822
 entry	Chenot (Adam)	0	
+orth	Chenot (Adam)		
 pb	682	0714	4819823
 entry	Cheselden (Guillaume)	2	
+orth	Cheselden (Guillaume)		
 pb	683	0715	4819824
 pb	684	0716	4819825
 entry	Chesne (Du)	0	
+orth	Chesne (Du)		
 entry	Chesneau (Nicolas)	1	
+orth	Chesneau (Nicolas)		
 pb	685	0717	4819826
 entry	Cheston (Richard Browne)	0	
+orth	Cheston (Richard Browne)		
 entry	Chevalier (Jean-Damien)	0	
+orth	Chevalier (Jean-Damien)		
 pb	686	0718	4819827
 entry	Cheyne (George)	2	
+orth	Cheyne (George)		
 pb	687	0719	4819828
 pb	688	0720	4819829
 entry	Chiarugi (V.)	1	
+orth	Chiarugi (V.)		
 pb	689	0721	4819830
 entry	Chicoyneau (François)	1	
+orth	Chicoyneau (François)		
 pb	690	0722	4819831
 entry	Chimiatrie	0	
+orth	Chimiatrie		
 entry	Chimie	12	
+orth	Chimie		
 pb	691	0723	4819832
 pb	692	0724	4819833
 pb	693	0725	4819834
@@ -1313,11 +1790,13 @@ pb	700	0732	4819841
 pb	701	0733	4819842
 pb	702	0734	4819843
 entry	Chirac (Pierre)	4	
+orth	Chirac (Pierre)		
 pb	703	0735	4819844
 pb	704	0736	4819845
 pb	705	0737	4819846
 pb	706	0738	4819847
 entry	Chirurgie	106	
+orth	Chirurgie		
 pb	707	0739	4819848
 pb	708	0740	4819849
 pb	709	0741	4819850
@@ -1425,45 +1904,67 @@ pb	810	0842	4819951
 pb	811	0843	4819952
 pb	812	0844	4819953
 entry	Chomel (Pierre-Jean-Baptiste)	1	
+orth	Chomel (Pierre-Jean-Baptiste)		
 pb	813	0845	4819954
 entry	Chomel (Jean-Baptiste-Louis)	1	
+orth	Chomel (Jean-Baptiste-Louis)		
 pb	814	0846	4819955
 entry	Chopart (François)	1	
+orth	Chopart (François)		
 pb	815	0847	4819956
 entry	Cigna (Jean-François)	2	
+orth	Cigna (Jean-François)		
 pb	816	0848	4819957
 pb	817	0849	4819958
 entry	Cirillo (Dominique)	2	
+orth	Cirillo (Dominique)		
 pb	818	0850	4819959
 pb	819	0851	4819960
 entry	Citoys (François)	1	
+orth	Citoys (François)		
 pb	820	0852	4819961
 entry	Clare (Pierre)	1	
+orth	Clare (Pierre)		
 pb	821	0853	4819962
 entry	Clark (Jacques)	0	
+orth	Clark (Jacques)		
 entry	Clark (Jean)	1	
+orth	Clark (Jean)		
 pb	822	0854	4819963
 entry	Clarke (Jean)	1	
+orth	Clarke (Jean)		
 pb	823	0855	4819964
 entry	Clarke (Joseph)	0	
+orth	Clarke (Joseph)		
 entry	Clauder (Gabriel)	1	
+orth	Clauder (Gabriel)		
 pb	824	0856	4819965
 entry	Claudini (Jules-César)	1	
+orth	Claudini (Jules-César)		
 pb	825	0857	4819966
 entry	Cleghorn (Georges)	1	
+orth	Cleghorn (Georges)		
 pb	826	0858	4819967
 entry	Clerc (Nicolas-Gabriel)	1	
+orth	Clerc (Nicolas-Gabriel)		
 pb	827	0859	4819968
 entry	Clerc (Daniel Le)	0	
+orth	Clerc (Daniel Le)		
 entry	Clermont (Charles)	1	
+orth	Clermont (Charles)		
 pb	828	0860	4819969
 entry	Cleyer (André)	0	
+orth	Cleyer (André)		
 entry	Clifton (François)	1	
+orth	Clifton (François)		
 pb	829	0861	4819970
 entry	Clifton de Wintringham	1	
+orth	Clifton de Wintringham		
 pb	830	0862	4819971
 entry	Clinch (Guillaume)	0	
+orth	Clinch (Guillaume)		
 entry	Clinique	7	
+orth	Clinique		
 pb	831	0863	4819972
 pb	832	0864	4819973
 pb	833	0865	4819974
@@ -1472,48 +1973,71 @@ pb	835	0867	4819976
 pb	836	0868	4819977
 pb	837	0869	4819978
 entry	Closs (Jean-Frédéric)	1	
+orth	Closs (Jean-Frédéric)		
 pb	838	0870	4819979
 entry	Closs (Charles-Frédéric)	0	
+orth	Closs (Charles-Frédéric)		
 entry	Clowes (Guillaume)	2	
+orth	Clowes (Guillaume)		
 pb	839	0871	4819980
 pb	840	0872	4819981
 entry	Cocchi (Antoine)	1	
+orth	Cocchi (Antoine)		
 pb	841	0873	4819982
 entry	Cocchi (Antoine-Célestin)	0	
+orth	Cocchi (Antoine-Célestin)		
 entry	Cockburn (Guillaume)	1	
+orth	Cockburn (Guillaume)		
 pb	842	0874	4819983
 entry	Codronchi (Baptiste)	1	
+orth	Codronchi (Baptiste)		
 pb	843	0875	4819984
 entry	Cohausen (Jean-Henri)	1	
+orth	Cohausen (Jean-Henri)		
 pb	844	0876	4819985
 pb	845	0877	4819986
 entry	Coiter (Volcard)	0	
+orth	Coiter (Volcard)		
 entry	Col de Villars (Élie)	1	
+orth	Col de Villars (Élie)		
 pb	846	0878	4819987
 entry	Cole (Guillaume)	1	
+orth	Cole (Guillaume)		
 pb	847	0879	4819988
 entry	Colin (Sébastien)	1	
+orth	Colin (Sébastien)		
 pb	848	0880	4819989
 entry	Collin (Henri-Joseph)	0	
+orth	Collin (Henri-Joseph)		
 entry	Collins (Samuel)	1	
+orth	Collins (Samuel)		
 pb	849	0881	4819990
 entry	Collomb (Barthélemy)	1	
+orth	Collomb (Barthélemy)		
 pb	850	0882	4819991
 entry	Colombier (Jean)	1	
+orth	Colombier (Jean)		
 pb	851	0883	4819992
 entry	Colombo (Mathieu-Réald)	1	
+orth	Colombo (Mathieu-Réald)		
 pb	852	0884	4819993
 entry	Colot	1	
+orth	Colot		
 pb	853	0885	4819994
 entry	Combalusier (François de Paule)	1	
+orth	Combalusier (François de Paule)		
 pb	854	0886	4819995
 entry	Comparetti (André)	2	
+orth	Comparetti (André)		
 pb	855	0887	4819996
 pb	856	0888	4819997
 entry	Concoregio (Jean De)	0	
+orth	Concoregio (Jean De)		
 entry	Connor (Bernard)	1	
+orth	Connor (Bernard)		
 pb	857	0889	4819998
 entry	Conradi (Georges-Christophe)	1	
+orth	Conradi (Georges-Christophe)		
 pb	858	0890	4819999
 entry	Conring ou Conringius (Hermann)	3	
 orth	Conring		
@@ -1522,91 +2046,136 @@ pb	859	0891	4820000
 pb	860	0892	4820001
 pb	861	0893	4820002
 entry	Constantin	1	
+orth	Constantin		
 pb	862	0894	4820003
 entry	Coopmans (Georges)	0	
+orth	Coopmans (Georges)		
 entry	Coopmans (Gadso)	1	
+orth	Coopmans (Gadso)		
 pb	863	0895	4820004
 entry	Coq (Pascal Le)	0	
+orth	Coq (Pascal Le)		
 entry	Cordus (Euricius)	1	
+orth	Cordus (Euricius)		
 pb	864	0896	4820005
 entry	Cordus (Valérius)	0	
+orth	Cordus (Valérius)		
 entry	Cornarius	0	
+orth	Cornarius		
 entry	Cornaro (Louis)	1	
+orth	Cornaro (Louis)		
 pb	865	0897	4820006
 entry	Corte (Barthélemy)	1	
+orth	Corte (Barthélemy)		
 pb	866	0898	4820007
 entry	Cortesi (Jean-Baptiste)	0	
+orth	Cortesi (Jean-Baptiste)		
 entry	Corvisart Desmarest (Jean-Nicolas)	5	
+orth	Corvisart Desmarest (Jean-Nicolas)		
 pb	867	0899	4820008
 pb	868	0900	4820009
 pb	869	0901	4820010
 pb	870	0902	4820011
 pb	871	0903	4820012
 entry	Coschwitz (Georges-Daniel)	1	
+orth	Coschwitz (Georges-Daniel)		
 pb	872	0904	4820013
 entry	Costa (Christophe da)	0	
+orth	Costa (Christophe da)		
 entry	Coste (Jean-François)	2	
+orth	Coste (Jean-François)		
 pb	873	0905	4820014
 pb	874	0906	4820015
 entry	Coste (Urbain)	1	
+orth	Coste (Urbain)		
 pb	875	0907	4820016
 entry	Costeo (Jean)	0	
+orth	Costeo (Jean)		
 pb	876	0908	4820017
 entry	Cotugno (Dominique)	1	
+orth	Cotugno (Dominique)		
 pb	877	0909	4820018
 entry	Couillard (Joseph)	0	
+orth	Couillard (Joseph)		
 entry	Courcelles (Corneille David de)	1	
+orth	Courcelles (Corneille David de)		
 pb	878	0910	4820019
 entry	Courcelles (Étienne Chardon de)	0	
+orth	Courcelles (Étienne Chardon de)		
 entry	Courtial (Jean-Joseph)	0	
+orth	Courtial (Jean-Joseph)		
 entry	Courtin (Germain)	1	
+orth	Courtin (Germain)		
 pb	879	0911	4820020
 entry	Coutouly	0	
+orth	Coutouly		
 entry	Coward (Guillaume)	1	
+orth	Coward (Guillaume)		
 pb	880	0912	4820021
 entry	Cowper (Guillaume)	1	
+orth	Cowper (Guillaume)		
 pb	881	0913	4820022
 entry	Coyttar (Jean)	1	
+orth	Coyttar (Jean)		
 pb	882	0914	4820023
 entry	Craanen (Théodore)	0	
+orth	Craanen (Théodore)		
 entry	Crantz (Henri-Joachim-Népomucène)	2	
+orth	Crantz (Henri-Joachim-Népomucène)		
 pb	883	0915	4820024
 pb	884	0916	4820025
 entry	Crasso (Jules-Paul)	0	
+orth	Crasso (Jules-Paul)		
 entry	Crato de crafftheim (Jean)	2	
+orth	Crato de crafftheim (Jean)		
 pb	885	0917	4820026
 pb	886	0918	4820027
 entry	Crawford (Adair)	0	
+orth	Crawford (Adair)		
 entry	Crégut (Frédéric-Chrétien)	1	
+orth	Crégut (Frédéric-Chrétien)		
 pb	887	0919	4820028
 entry	Crell (Jean-Frédéric)	1	
+orth	Crell (Jean-Frédéric)		
 pb	888	0920	4820029
 entry	Crescenzi ou Crescenzo (Nicolas)	0	
 orth	Crescenzi		
 orth	Crescenzo (Nicolas)		
 entry	Crispo (Antoine)	1	
+orth	Crispo (Antoine)		
 pb	889	0921	4820030
 entry	Croce (Jean-André della)	1	
+orth	Croce (Jean-André della)		
 pb	890	0922	4820031
 entry	Croce (Vincent, Alsario della)	0	
+orth	Croce (Vincent, Alsario della)		
 entry	Croll (Oswald)	1	
+orth	Croll (Oswald)		
 pb	891	0923	4820032
 entry	Cruikshank (Guillaume)	1	
+orth	Cruikshank (Guillaume)		
 pb	892	0924	4820033
 entry	Crumpe (Samuel)	1	
+orth	Crumpe (Samuel)		
 pb	893	0925	4820034
 entry	Cullen (Guillaume)	5	
+orth	Cullen (Guillaume)		
 pb	894	0926	4820035
 pb	895	0927	4820036
 pb	896	0928	4820037
 pb	897	0929	4820038
 pb	898	0930	4820039
 entry	Cullerier (Michel)	1	
+orth	Cullerier (Michel)		
 pb	899	0931	4820040
 entry	Curerau de la chambre (Marin)	1	
+orth	Curerau de la chambre (Marin)		
 pb	900	0932	4820041
 entry	Currie (Jacques)	1	
+orth	Currie (Jacques)		
 pb	901	0933	4820042
 entry	Curry (Jean)	0	
+orth	Curry (Jean)		
 entry	Cyprianus (Abraham)	1	
+orth	Cyprianus (Abraham)		
 pb	902	0934	4820043

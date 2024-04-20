@@ -12,6 +12,7 @@ entry	[Page de titre]	0
 pb	IV	0008	7319528
 pb	V	0009	7319529
 entry	Avis de l'Auteur sur le plan de cet Ouvrage	11	
+orth	Avis de l'Auteur sur le plan de cet Ouvrage		
 pb	VI	0010	7319530
 pb	VII	0011	7319531
 pb	VIII	0012	7319532
@@ -29,6 +30,7 @@ orth	Dictionnaire Vétérinaire
 orth	des animaux domestiques. Méd - Médecine vétérinaire		
 pb	2	0022	7319542
 entry	Médecine vétérinaire	141	
+orth	Médecine vétérinaire		
 pb	3	0023	7319543
 pb	4	0024	7319544
 pb	5	0025	7319545
@@ -171,6 +173,7 @@ pb	141	0161	7319681
 pb	142	0162	7319682
 pb	143	0163	7319683
 entry	Médicament	20	
+orth	Médicament		
 pb	144	0164	7319684
 pb	145	0165	7319685
 pb	146	0166	7319686
@@ -192,14 +195,19 @@ pb	161	0181	7319701
 pb	162	0182	7319702
 pb	163	0183	7319703
 entry	Menée	0	
+orth	Menée		
 entry	Menus droits	0	
+orth	Menus droits		
 entry	Mera	0	
+orth	Mera		
 entry	Merlan	4	
+orth	Merlan		
 pb	164	0184	7319704
 pb	165	0185	7319705
 pb	166	0186	7319706
 pb	167	0187	7319707
 entry	Merle	7	
+orth	Merle		
 pb	168	0188	7319708
 pb	169	0189	7319709
 pb	170	0190	7319710
@@ -211,7 +219,9 @@ entry	Merluche ou Merlu	0
 orth	Merluche		
 orth	Merlu		
 entry	Merlue	0	
+orth	Merlue		
 entry	Mésange	7	
+orth	Mésange		
 pb	175	0195	7319715
 pb	176	0196	7319716
 pb	177	0197	7319717
@@ -220,10 +230,13 @@ pb	179	0199	7319719
 pb	180	0200	7319720
 pb	181	0201	7319721
 entry	Meunier	1	
+orth	Meunier		
 pb	182	0202	7319722
 entry	Meute	1	
+orth	Meute		
 pb	183	0203	7319723
 entry	Miel	6	
+orth	Miel		
 pb	184	0204	7319724
 pb	185	0205	7319725
 pb	186	0206	7319726
@@ -231,19 +244,27 @@ pb	187	0207	7319727
 pb	188	0208	7319728
 pb	189	0209	7319729
 entry	Migone	0	
+orth	Migone		
 entry	Milan	1	
+orth	Milan		
 pb	190	0210	7319730
 entry	Mire	0	
+orth	Mire		
 entry	Moëlle	1	
+orth	Moëlle		
 pb	191	0211	7319731
 entry	Moineau	4	
+orth	Moineau		
 pb	192	0212	7319732
 pb	193	0213	7319733
 pb	194	0214	7319734
 pb	195	0215	7319735
 entry	Montée	0	
+orth	Montée		
 entry	Monter	0	
+orth	Monter		
 entry	Morue	16	
+orth	Morue		
 pb	196	0216	7319736
 pb	197	0217	7319737
 pb	198	0218	7319738
@@ -261,6 +282,7 @@ pb	209	0229	7319749
 pb	210	0230	7319750
 pb	211	0231	7319751
 entry	Morve	13	
+orth	Morve		
 pb	212	0232	7319752
 pb	213	0233	7319753
 pb	214	0234	7319754
@@ -275,11 +297,13 @@ pb	222	0242	7319762
 pb	223	0243	7319763
 pb	224	0244	7319764
 entry	Mouche	4	
+orth	Mouche		
 pb	225	0245	7319765
 pb	226	0246	7319766
 pb	227	0247	7319767
 pb	228	0248	7319768
 entry	Mouche à miel	62	
+orth	Mouche à miel		
 pb	229	0249	7319769
 pb	230	0250	7319770
 pb	231	0251	7319771
@@ -343,18 +367,23 @@ pb	288	0308	7319828
 pb	289	0309	7319829
 pb	290	0310	7319830
 entry	Mouche cantharide	1	
+orth	Mouche cantharide		
 pb	291	0311	7319831
 entry	Moucheron	2	
+orth	Moucheron		
 pb	292	0312	7319832
 pb	293	0313	7319833
 entry	Mouchet ou Emouchet	0	
 orth	Mouchet		
 orth	Emouchet		
 entry	Mouée	0	
+orth	Mouée		
 entry	Movette	2	
+orth	Movette		
 pb	294	0314	7319834
 pb	295	0315	7319835
 entry	Moule	11	
+orth	Moule		
 pb	296	0316	7319836
 pb	297	0317	7319837
 pb	298	0318	7319838
@@ -366,6 +395,7 @@ pb	303	0323	7319843
 pb	304	0324	7319844
 pb	305	0325	7319845
 entry	Mouton	111	
+orth	Mouton		
 pb	306	0326	7319846
 pb	307	0327	7319847
 pb	308	0328	7319848
@@ -478,18 +508,25 @@ pb	414	0434	7319954
 pb	415	0435	7319955
 pb	416	0436	7319956
 entry	Mue	0	
+orth	Mue		
 pb	[s. pag.]	0437	7319957
 entry	Mulet	0	
+orth	Mulet		
 pb	[s. pag.]	0438	7319958
 pb	417	0439	7319959
 entry	Mue	0	
+orth	Mue		
 entry	Muette	0	
+orth	Muette		
 entry	Muffle	0	
+orth	Muffle		
 entry	Mulet	3	
+orth	Mulet		
 pb	418	0440	7319960
 pb	419	0441	7319961
 pb	420	0442	7319962
 entry	Mulot	7	
+orth	Mulot		
 pb	421	0443	7319963
 pb	422	0444	7319964
 pb	423	0445	7319965
@@ -498,7 +535,9 @@ pb	425	0447	7319967
 pb	426	0448	7319968
 pb	427	0449	7319969
 entry	Mulotter	0	
+orth	Mulotter		
 entry	Musaraigne	7	
+orth	Musaraigne		
 pb	428	0450	7319970
 pb	429	0451	7319971
 pb	430	0452	7319972
@@ -507,24 +546,35 @@ pb	432	0454	7319974
 pb	433	0455	7319975
 pb	434	0456	7319976
 entry	Muscadin	1	
+orth	Muscadin		
 pb	435	0457	7319977
 entry	Muzer	0	
+orth	Muzer		
 pb	436	0458	7319978
 entry	Nacelle	0	
+orth	Nacelle		
 entry	Nageoire	0	
+orth	Nageoire		
 entry	Nappe	1	
+orth	Nappe		
 pb	437	0459	7319979
 entry	Nasse	0	
+orth	Nasse		
 entry	Nerf de boeuf	0	
+orth	Nerf de boeuf		
 pb	438	0460	7319980
 entry	Nerf	0	
+orth	Nerf		
 entry	Nouées	0	
+orth	Nouées		
 entry	Nourris, ou Nourriture	0	
 orth	Nourris		
 orth	Nourriture		
 pb	439	0461	7319981
 entry	Oesype	0	
+orth	Oesype		
 entry	Oeuf	7	
+orth	Oeuf		
 pb	440	0462	7319982
 pb	441	0463	7319983
 pb	442	0464	7319984
@@ -533,6 +583,7 @@ pb	444	0466	7319986
 pb	445	0467	7319987
 pb	446	0468	7319988
 entry	Oiseau	5	
+orth	Oiseau		
 pb	447	0469	7319989
 pb	448	0470	7319990
 pb	449	0471	7319991
@@ -543,6 +594,7 @@ orth	Oiseleur
 orth	Oiselier		
 pb	452	0474	7319994
 entry	Ortolan	8	
+orth	Ortolan		
 pb	453	0475	7319995
 pb	454	0476	7319996
 pb	455	0477	7319997
@@ -552,12 +604,15 @@ pb	458	0480	7320000
 pb	459	0481	7320001
 pb	460	0482	7320002
 entry	Os	2	
+orth	Os		
 pb	461	0483	7320003
 pb	462	0484	7320004
 entry	Outarde	2	
+orth	Outarde		
 pb	463	0485	7320005
 pb	464	0486	7320006
 entry	Oye	13	
+orth	Oye		
 pb	[s. pag.]	0487	7320007
 pb	[s. pag.]	0488	7320008
 pb	[s. pag.]	0489	7320009
@@ -573,8 +628,11 @@ pb	473	0498	7320018
 pb	474	0499	7320019
 pb	475	0500	7320020
 entry	Pacage	0	
+orth	Pacage		
 entry	Paitre	0	
+orth	Paitre		
 entry	Palefrenier	8	
+orth	Palefrenier		
 pb	476	0501	7320021
 pb	477	0502	7320022
 pb	478	0503	7320023
@@ -584,8 +642,10 @@ pb	481	0506	7320026
 pb	482	0507	7320027
 pb	483	0508	7320028
 entry	Panier	1	
+orth	Panier		
 pb	484	0509	7320029
 entry	Pantiere	10	
+orth	Pantiere		
 pb	485	0510	7320030
 pb	486	0511	7320031
 pb	487	0512	7320032
@@ -597,6 +657,7 @@ pb	492	0517	7320037
 pb	493	0518	7320038
 pb	494	0519	7320039
 entry	Paon	14	
+orth	Paon		
 pb	495	0520	7320040
 pb	496	0521	7320041
 pb	497	0522	7320042
@@ -612,47 +673,70 @@ pb	506	0531	7320051
 pb	507	0532	7320052
 pb	508	0533	7320053
 entry	Parc	2	
+orth	Parc		
 pb	509	0534	7320054
 pb	510	0535	7320055
 entry	Parchasser	0	
+orth	Parchasser		
 entry	Pariade	0	
+orth	Pariade		
 entry	Parquer des moutons	0	
+orth	Parquer des moutons		
 entry	Parquer les huitres	0	
+orth	Parquer les huitres		
 entry	Passée	1	
+orth	Passée		
 pb	511	0536	7320056
 entry	Paste	0	
+orth	Paste		
 entry	Pastir	0	
+orth	Pastir		
 entry	Pastre	0	
+orth	Pastre		
 entry	Pasturage	0	
+orth	Pasturage		
 entry	Pasture	1	
+orth	Pasture		
 pb	512	0537	7320057
 entry	Patte	0	
+orth	Patte		
 entry	Paumelle	0	
+orth	Paumelle		
 entry	Paumure	0	
+orth	Paumure		
 entry	Peau	1	
+orth	Peau		
 pb	513	0538	7320058
 entry	Pêche	4	
+orth	Pêche		
 pb	514	0539	7320059
 pb	515	0540	7320060
 pb	516	0541	7320061
 pb	517	0542	7320062
 entry	Pêcherie	0	
+orth	Pêcherie		
 entry	Peigne	0	
+orth	Peigne		
 entry	Peintade	5	
+orth	Peintade		
 pb	518	0543	7320063
 pb	[s. pag.]	0544	7320064
 pb	[s. pag.]	0545	7320065
 pb	519	0546	7320066
 pb	520	0547	7320067
 entry	Pelage	0	
+orth	Pelage		
 entry	Pepie	0	
+orth	Pepie		
 entry	Perche	5	
+orth	Perche		
 pb	521	0548	7320068
 pb	522	0549	7320069
 pb	523	0550	7320070
 pb	524	0551	7320071
 pb	525	0552	7320072
 entry	Perdrix	22	
+orth	Perdrix		
 pb	526	0553	7320073
 pb	527	0554	7320074
 pb	528	0555	7320075
@@ -676,20 +760,25 @@ pb	545	0572	7320092
 pb	546	0573	7320093
 pb	547	0574	7320094
 entry	Perlures	0	
+orth	Perlures		
 entry	Perroquet	3	
+orth	Perroquet		
 pb	548	0575	7320095
 pb	549	0576	7320096
 pb	550	0577	7320097
 entry	Pic	3	
+orth	Pic		
 pb	551	0578	7320098
 pb	552	0579	7320099
 pb	553	0580	7320100
 entry	Pie	4	
+orth	Pie		
 pb	554	0581	7320101
 pb	555	0582	7320102
 pb	556	0583	7320103
 pb	557	0584	7320104
 entry	Pied	31	
+orth	Pied		
 pb	558	0585	7320105
 pb	559	0586	7320106
 pb	560	0587	7320107
@@ -722,6 +811,7 @@ pb	586	0613	7320133
 pb	587	0614	7320134
 pb	588	0615	7320135
 entry	Pigeon	36	
+orth	Pigeon		
 pb	[s. pag.]	0616	7320136
 pb	[s. pag.]	0617	7320137
 pb	[s. pag.]	0618	7320138
@@ -759,21 +849,28 @@ pb	612	0649	7320169
 pb	613	0650	7320170
 pb	614	0651	7320171
 entry	Pillart	0	
+orth	Pillart		
 entry	Pinces	0	
+orth	Pinces		
 entry	Pinne marine	1	
+orth	Pinne marine		
 pb	615	0652	7320172
 entry	Pinson	5	
+orth	Pinson		
 pb	616	0653	7320173
 pb	617	0654	7320174
 pb	618	0655	7320175
 pb	619	0656	7320176
 pb	620	0657	7320177
 entry	Pinsonnée	3	
+orth	Pinsonnée		
 pb	621	0658	7320178
 pb	622	0659	7320179
 pb	623	0660	7320180
 entry	Pipau	0	
+orth	Pipau		
 entry	Pipée	6	
+orth	Pipée		
 pb	624	0661	7320181
 pb	625	0662	7320182
 pb	626	0663	7320183
@@ -781,24 +878,37 @@ pb	627	0664	7320184
 pb	628	0665	7320185
 pb	629	0666	7320186
 entry	Piper	0	
+orth	Piper		
 entry	Piquer	0	
+orth	Piquer		
 entry	Piquer la sonnette	0	
+orth	Piquer la sonnette		
 pb	630	0667	7320187
 entry	Piqueur	0	
+orth	Piqueur		
 entry	Piquures	0	
+orth	Piquures		
 entry	Pis	0	
+orth	Pis		
 entry	Piste	0	
+orth	Piste		
 entry	Pivoine ou Bouvreuil	2	
 orth	Pivoine		
 orth	Bouvreuil		
 pb	631	0668	7320188
 pb	632	0669	7320189
 entry	Plaisir du Roi	0	
+orth	Plaisir du Roi		
 entry	Plate-longe	0	
+orth	Plate-longe		
 entry	Plateaux	0	
+orth	Plateaux		
 entry	Plomber	0	
+orth	Plomber		
 entry	Plomb	0	
+orth	Plomb		
 entry	Plongeon	2	
+orth	Plongeon		
 pb	633	0670	7320190
 pb	634	0671	7320191
 pb	[s. pag.]	0672	7320192

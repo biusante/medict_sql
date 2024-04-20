@@ -5,13 +5,16 @@ pb	[s. pag.]	0003	448440
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	448441
 entry	Prospectus	0	
+orth	Prospectus		
 pb	VI	0005	448442
 pb	VII	0006	448443
 entry	Distribution des matières	0	
+orth	Distribution des matières		
 pb	VIII	0007	448444
 pb	IX	0008	448445
 pb	[s. pag.]	0009	448446
 entry	Introduction	0	
+orth	Introduction		
 pb	XII	0010	448447
 pb	XIII	0011	448448
 pb	XIV	0012	448449
@@ -57,10 +60,13 @@ orth	nouveaux
 pb	XL	0048	448485
 pb	[s. pag.]	0049	448486
 entry	Lettre A	0	
+orth	Lettre A		
 entry	Abattement	2	
+orth	Abattement		
 pb	2	0050	448487
 pb	3	0051	448488
 entry	Abcès	48	
+orth	Abcès		
 pb	4	0052	448489
 pb	5	0053	448490
 pb	6	0054	448491
@@ -110,6 +116,7 @@ pb	49	0097	448534
 pb	50	0098	448535
 pb	51	0099	448536
 entry	Abdomen	26	
+orth	Abdomen		
 pb	52	0100	448537
 pb	53	0101	448538
 pb	54	0102	448539
@@ -137,28 +144,37 @@ pb	75	0123	448560
 pb	76	0124	448561
 pb	77	0125	448562
 entry	Aberration	2	
+orth	Aberration		
 pb	78	0126	448563
 pb	79	0127	448564
 entry	Ablation	2	
+orth	Ablation		
 pb	80	0128	448565
 pb	81	0129	448566
 entry	Ablactation	2	
+orth	Ablactation		
 pb	82	0130	448567
 pb	83	0131	448568
 entry	Ablution	1	
+orth	Ablution		
 pb	84	0132	448569
 entry	Abortif	2	
+orth	Abortif		
 pb	85	0133	448570
 pb	86	0134	448571
 entry	Abreviation	1	
+orth	Abreviation		
 pb	87	0135	448572
 entry	Absinthe	2	
+orth	Absinthe		
 pb	88	0136	448573
 pb	89	0137	448574
 entry	Absorbans	2	
+orth	Absorbans		
 pb	90	0138	448575
 pb	91	0139	448576
 entry	Absorption	12	
+orth	Absorption		
 pb	92	0140	448577
 pb	93	0141	448578
 pb	94	0142	448579
@@ -172,6 +188,7 @@ pb	101	0149	448586
 pb	102	0150	448587
 pb	103	0151	448588
 entry	Abstinence	8	
+orth	Abstinence		
 pb	104	0152	448589
 pb	105	0153	448590
 pb	106	0154	448591
@@ -182,10 +199,14 @@ pb	110	0158	448595
 pb	111	0159	448596
 pb	112	0160	448597
 entry	Acare	0	
+orth	Acare		
 entry	Accablement	0	
+orth	Accablement		
 entry	Accès	1	
+orth	Accès		
 pb	113	0161	448598
 entry	Acclimatement	10	
+orth	Acclimatement		
 pb	114	0162	448599
 pb	115	0163	448600
 pb	116	0164	448601
@@ -198,6 +219,7 @@ pb	122	0170	448607
 pb	123	0171	448608
 pb	124	0172	448609
 entry	Accouchement	41	
+orth	Accouchement		
 pb	125	0173	448610
 pb	126	0174	448611
 pb	127	0175	448612
@@ -240,6 +262,7 @@ pb	163	0211	448648
 pb	164	0212	448649
 pb	165	0213	448650
 entry	Accroissement	13	
+orth	Accroissement		
 pb	166	0214	448651
 pb	167	0215	448652
 pb	168	0216	448653
@@ -254,6 +277,7 @@ pb	176	0224	448661
 pb	177	0225	448662
 pb	178	0226	448663
 entry	Acéphalie	14	
+orth	Acéphalie		
 pb	179	0227	448664
 pb	180	0228	448665
 pb	181	0229	448666
@@ -270,6 +294,7 @@ pb	191	0239	448676
 pb	192	0240	448677
 pb	193	0241	448678
 entry	Acéphalocystes	77	
+orth	Acéphalocystes		
 pb	194	0242	448679
 pb	195	0243	448680
 pb	196	0244	448681
@@ -348,13 +373,19 @@ pb	268	0316	448753
 pb	269	0317	448754
 pb	270	0318	448755
 entry	Acétates	1	
+orth	Acétates		
 pb	271	0319	448756
 entry	Acéteux	0	
+orth	Acéteux		
 entry	Acétique	1	
+orth	Acétique		
 pb	272	0320	448757
 entry	Acétites	0	
+orth	Acétites		
 entry	Achores	0	
+orth	Achores		
 entry	Acides	15	
+orth	Acides		
 pb	273	0321	448758
 pb	274	0322	448759
 pb	275	0323	448760
@@ -372,7 +403,9 @@ pb	286	0334	448771
 pb	287	0335	448772
 pb	288	0336	448773
 entry	Acidité	0	
+orth	Acidité		
 entry	Acné	7	
+orth	Acné		
 pb	289	0337	448774
 pb	290	0338	448775
 pb	291	0339	448776
@@ -381,6 +414,7 @@ pb	293	0341	448778
 pb	294	0342	448779
 pb	295	0343	448780
 entry	Aconit	9	
+orth	Aconit		
 pb	296	0344	448781
 pb	297	0345	448782
 pb	298	0346	448783
@@ -391,23 +425,28 @@ pb	302	0350	448787
 pb	303	0351	448788
 pb	304	0352	448789
 entry	Acoustique	4	
+orth	Acoustique		
 pb	305	0353	448790
 pb	306	0354	448791
 pb	307	0355	448792
 pb	308	0356	448793
 entry	Acrimonie	4	
+orth	Acrimonie		
 pb	309	0357	448794
 pb	310	0358	448795
 pb	311	0359	448796
 pb	312	0360	448797
 entry	Acupuncture	5	
+orth	Acupuncture		
 pb	313	0361	448798
 pb	314	0362	448799
 pb	315	0363	448800
 pb	316	0364	448801
 pb	317	0365	448802
 entry	Adéno-méningée	0	
+orth	Adéno-méningée		
 entry	Adéno-nerveuse	0	
+orth	Adéno-nerveuse		
 entry	Adhésions, Adhérences	35	
 orth	Adhésions		
 orth	Adhérences		
@@ -447,7 +486,9 @@ pb	350	0398	448835
 pb	351	0399	448836
 pb	352	0400	448837
 entry	Adjuvant	0	
+orth	Adjuvant		
 entry	Adolescence	9	
+orth	Adolescence		
 pb	353	0401	448838
 pb	354	0402	448839
 pb	355	0403	448840
@@ -458,10 +499,13 @@ pb	359	0407	448844
 pb	360	0408	448845
 pb	361	0409	448846
 entry	Adoucissans	1	
+orth	Adoucissans		
 pb	362	0410	448847
 entry	Adraganthe	0	
+orth	Adraganthe		
 pb	363	0411	448848
 entry	Adulte	6	
+orth	Adulte		
 pb	364	0412	448849
 pb	365	0413	448850
 pb	366	0414	448851
@@ -469,13 +513,18 @@ pb	367	0415	448852
 pb	368	0416	448853
 pb	369	0417	448854
 entry	Adustion	0	
+orth	Adustion		
 entry	Adynamie	1	
+orth	Adynamie		
 pb	370	0418	448855
 entry	Adynamique	2	
+orth	Adynamique		
 pb	371	0419	448856
 pb	372	0420	448857
 entry	Affaissement	0	
+orth	Affaissement		
 entry	Affusion	10	
+orth	Affusion		
 pb	373	0421	448858
 pb	374	0422	448859
 pb	375	0423	448860
@@ -487,15 +536,19 @@ pb	380	0428	448865
 pb	381	0429	448866
 pb	382	0430	448867
 entry	Agacement	2	
+orth	Agacement		
 pb	383	0431	448868
 pb	384	0432	448869
 entry	Agalactie	3	
+orth	Agalactie		
 pb	385	0433	448870
 pb	386	0434	448871
 pb	387	0435	448872
 entry	Agaric	1	
+orth	Agaric		
 pb	388	0436	448873
 entry	Age	16	
+orth	Age		
 pb	389	0437	448874
 pb	390	0438	448875
 pb	391	0439	448876
@@ -513,40 +566,55 @@ pb	402	0450	448887
 pb	403	0451	448888
 pb	404	0452	448889
 entry	Agénésie	1	
+orth	Agénésie		
 pb	405	0453	448890
 entry	Agglututinatif	0	
+orth	Agglututinatif		
 pb	406	0454	448891
 entry	Agglutinatif	3	
+orth	Agglutinatif		
 pb	407	0455	448892
 pb	408	0456	448893
 pb	409	0457	448894
 entry	Agissante	0	
+orth	Agissante		
 entry	(medecine)	0	
+orth	(medecine)		
 pb	410	0458	448895
 entry	Agissante	0	
+orth	Agissante		
 entry	(medecine)	0	
+orth	(medecine)		
 entry	Agonie	3	
+orth	Agonie		
 pb	411	0459	448896
 pb	412	0460	448897
 pb	413	0461	448898
 entry	Aigremoine	1	
+orth	Aigremoine		
 pb	414	0462	448899
 entry	Aigreurs	2	
+orth	Aigreurs		
 pb	415	0463	448900
 pb	416	0464	448901
 entry	Aiguës	0	
+orth	Aiguës		
 entry	Aiguille	2	
+orth	Aiguille		
 pb	417	0465	448902
 pb	418	0466	448903
 entry	Ail	2	
+orth	Ail		
 pb	419	0467	448904
 pb	420	0468	448905
 entry	Aimant	4	
+orth	Aimant		
 pb	421	0469	448906
 pb	422	0470	448907
 pb	423	0471	448908
 pb	424	0472	448909
 entry	Air	26	
+orth	Air		
 pb	425	0473	448910
 pb	426	0474	448911
 pb	427	0475	448912
@@ -580,20 +648,25 @@ orth	Erine
 pb	451	0499	448936
 pb	452	0500	448937
 entry	Albinie	3	
+orth	Albinie		
 pb	453	0501	448938
 pb	454	0502	448939
 pb	455	0503	448940
 entry	Albuginite	2	
+orth	Albuginite		
 pb	456	0504	448941
 pb	457	0505	448942
 entry	Albugo	2	
+orth	Albugo		
 pb	458	0506	448943
 pb	459	0507	448944
 entry	Albumine	3	
+orth	Albumine		
 pb	460	0508	448945
 pb	461	0509	448946
 pb	462	0510	448947
 entry	Albumineux	0	
+orth	Albumineux		
 entry	Alcali ou Alkali	0	
 orth	Alcali		
 orth	Alkali		
@@ -602,10 +675,14 @@ entry	Alcali ou alkali	0
 orth	Alcali		
 orth	alkali		
 entry	Alcali volatil concret	0	
+orth	Alcali volatil concret		
 entry	Alcali volatil fluor	0	
+orth	Alcali volatil fluor		
 entry	Alcalinité	1	
+orth	Alcalinité		
 pb	464	0512	448949
 entry	Alcool	6	
+orth	Alcool		
 pb	465	0513	448950
 pb	466	0514	448951
 pb	467	0515	448952
@@ -613,10 +690,12 @@ pb	468	0516	448953
 pb	469	0517	448954
 pb	470	0518	448955
 entry	Alcoolats	3	
+orth	Alcoolats		
 pb	471	0519	448956
 pb	472	0520	448957
 pb	473	0521	448958
 entry	Alcoolés	0	
+orth	Alcoolés		
 entry	Alèze, Alèse ou Alaise	3	
 orth	Alèze		
 orth	Alèse		
@@ -625,6 +704,7 @@ pb	474	0522	448959
 pb	475	0523	448960
 pb	476	0524	448961
 entry	Algalie	7	
+orth	Algalie		
 pb	477	0525	448962
 pb	478	0526	448963
 pb	479	0527	448964
@@ -633,8 +713,10 @@ pb	481	0529	448966
 pb	482	0530	448967
 pb	483	0531	448968
 entry	Algide	0	
+orth	Algide		
 pb	484	0532	448969
 entry	Aliénation mentale	102	
+orth	Aliénation mentale		
 pb	485	0533	448970
 pb	486	0534	448971
 pb	487	0535	448972

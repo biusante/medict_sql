@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4572436
 pb	1	0005	4572437
 entry	Os (Élément et tissu)	0	
+orth	Os (Élément et tissu)		
 entry	Os (Élément et tissu). Anatomie et physiologie [Ch. Robin]	170	
 orth	Os (Élément et tissu). Anatomie et physiologie		
 pb	2	0006	4572438
@@ -394,6 +395,7 @@ orth	Médecine légale
 entry	Os propres du nez ou Os nasaux [Amédée Dechambre]	0	
 orth	Os propres du nez ou Os nasaux		
 entry	Osages	0	
+orth	Osages		
 ref	Amérique		
 entry	Osann (Les) [L. Hahn]	0	
 orth	Osann (Les)		
@@ -404,6 +406,7 @@ pb	362	0366	4572798
 entry	Osann (Les) [L. Hahn]	0	
 orth	Osann (Les)		
 entry	Osaughnessy	0	
+orth	Osaughnessy		
 ref	Oshaughnessy		
 entry	Osbeck (Carl-Gustaf) [A. Dureau] (bibliographie)	0	
 orth	Osbeck (Carl-Gustaf)		
@@ -429,6 +432,7 @@ entry	Oscinis [A. Laboulbène]	0
 orth	Oscinis		
 pb	369	0373	4572805
 entry	Oseille	0	
+orth	Oseille		
 entry	Oseille. Botanique [G. Planchon] (bibliographie)	1	
 orth	Oseille. Botanique		
 pb	370	0374	4572806
@@ -462,6 +466,7 @@ orth	Osiander (Les deux)
 pb	374	0378	4572810
 pb	375	0379	4572811
 entry	Osier	0	
+orth	Osier		
 entry	Botanique [G. Planchon]	0	
 orth	Botanique		
 entry	Emploi médical [Amédée Dechambre]	0	
@@ -487,6 +492,7 @@ entry	Osmium [C. Lutz]	1
 orth	Osmium		
 pb	379	0383	4572815
 entry	Osmonde	0	
+orth	Osmonde		
 entry	Osmonde. Botanique [Ed. Lefèvre] (bibliographie)	1	
 orth	Osmonde. Botanique		
 pb	380	0384	4572816
@@ -513,15 +519,19 @@ orth	Osséine
 entry	Osselets (Divination par les) [Amédée Dechambre]	0	
 orth	Osselets (Divination par les)		
 entry	Osselets de l'ouïe	0	
+orth	Osselets de l'ouïe		
 ref	Oreille		
 entry	Ossètes [Amédée Dechambre]	0	
 orth	Ossètes		
 entry	Osseux (Tissu)	0	
+orth	Osseux (Tissu)		
 ref	Os		
 entry	Ossification	0	
+orth	Ossification		
 entry	Accidentelle [Albert Hénocque]	0	
 orth	Accidentelle		
 entry	Normale	0	
+orth	Normale		
 ref	Os		
 entry	Ossifraga, Ossifragum [H. Baillon]	1	
 orth	Ossifraga, Ossifragum		
@@ -531,6 +541,7 @@ orth	Ossorio de Castro (Pedro)
 entry	Ostéide [Amédée Dechambre]	0	
 orth	Ostéide		
 entry	Ostéine	0	
+orth	Ostéine		
 ref	Osséine		
 ref	Os		
 entry	Ostéite, Ostéomyélite [Albert Heydenreich]	91	
@@ -644,6 +655,7 @@ orth	Ostenfeld (Christian)
 entry	Östenius (Olof) [A. Dureau]	0	
 orth	Östenius (Olof)		
 entry	Ostéoblaste	0	
+orth	Ostéoblaste		
 ref	Os		
 entry	Ostéoclasie [Albert Hénocque]	21	
 orth	Ostéoclasie		
@@ -685,8 +697,10 @@ pb	510	0514	4572946
 entry	Ostéodermes [E. Oustalet] (bibliographie)	0	
 orth	Ostéodermes		
 entry	Ostéogénie	0	
+orth	Ostéogénie		
 ref	Os		
 entry	Ostéolithe	0	
+orth	Ostéolithe		
 ref	Ostéocolle		
 entry	Ostéolyse [Amédée Dechambre]	0	
 orth	Ostéolyse		
@@ -726,10 +740,13 @@ orth	Ostéomalacie
 pb	540	0544	4572976
 pb	541	0545	4572977
 entry	Ostéome	0	
+orth	Ostéome		
 ref	Os		
 entry	Ostéomyélite	0	
+orth	Ostéomyélite		
 ref	Os		
 entry	Ostéopériostite	0	
+orth	Ostéopériostite		
 ref	Os		
 entry	Ostéophytes [Albert Hénocque]	0	
 orth	Ostéophytes		
@@ -737,10 +754,12 @@ pb	542	0546	4572978
 entry	Ostéophytes [Albert Hénocque] (bibliographie)	0	
 orth	Ostéophytes		
 entry	Ostéoplaste	0	
+orth	Ostéoplaste		
 ref	Os		
 entry	Ostéoplastie [Albert Hénocque]	0	
 orth	Ostéoplastie		
 entry	Ostéosarcome	0	
+orth	Ostéosarcome		
 ref	Os		
 ref	Sarcome		
 pb	543	0547	4572979
@@ -795,12 +814,14 @@ entry	Ostiaks (Les) [Amédée Dechambre]	1
 orth	Ostiaks (Les)		
 pb	571	0575	4573007
 entry	Ostracés	0	
+orth	Ostracés		
 ref	Ostréidés		
 entry	Ostracion [E. Oustalet]	0	
 orth	Ostracion		
 entry	Ostracodes [Ed. Lefèvre]	0	
 orth	Ostracodes		
 entry	Ostréiculture	0	
+orth	Ostréiculture		
 ref	Huître		
 entry	Ostréidés [Ed. Lefèvre]	1	
 orth	Ostréidés		
@@ -817,10 +838,13 @@ entry	Osyris (L.) [H. Baillon]	1
 orth	Osyris (L.)		
 pb	573	0577	4573009
 entry	Otalgie	0	
+orth	Otalgie		
 ref	Oreille (Pathologie)		
 entry	Othiotops	0	
+orth	Othiotops		
 ref	Araignée		
 entry	Othomis	0	
+orth	Othomis		
 ref	Otomis		
 entry	Othon (de Crémone) [L. Hahn] (bibliographie)	0	
 orth	Othon (de Crémone)		
@@ -832,11 +856,13 @@ pb	574	0578	4573010
 entry	Oetinger (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Oetinger (Les deux)		
 entry	Otique (Ganglion)	0	
+orth	Otique (Ganglion)		
 ref	Maxillaire inférieur (Nerf)		
 entry	Otis (George-Alexander) [L. Hahn]	1	
 orth	Otis (George-Alexander)		
 pb	575	0579	4573011
 entry	Otite	0	
+orth	Otite		
 ref	Oreille (Pathologie)		
 entry	Otites [G. Planchon]	0	
 orth	Otites		
@@ -851,6 +877,7 @@ orth	Otocéphaliens
 entry	Otoconie [Amédée Dechambre]	0	
 orth	Otoconie		
 entry	Otomis (Les)	0	
+orth	Otomis (Les)		
 ref	Mexique		
 entry	Otoplastie [Albert Hénocque]	2	
 orth	Otoplastie		
@@ -860,11 +887,13 @@ pb	580	0584	4573016
 entry	Otoplastie [Albert Hénocque] (bibliographie)	0	
 orth	Otoplastie		
 entry	Otorrhée	0	
+orth	Otorrhée		
 ref	Oreille (Pathologie)		
 entry	Otoscopie [Amédée Dechambre]	0	
 orth	Otoscopie		
 pb	581	0585	4573017
 entry	Otruche	0	
+orth	Otruche		
 ref	Ostrute		
 entry	Ott (Franz-Andreas) [L. Hahn] (bibliographie)	0	
 orth	Ott (Franz-Andreas)		
@@ -898,6 +927,7 @@ orth	Ottoes (Les)
 entry	Ottoni (Gregorio) [L. Hahn]	0	
 orth	Ottoni (Gregorio)		
 entry	Ouate	0	
+orth	Ouate		
 ref	Coton		
 entry	Ouatta-pana [G. Planchon]	0	
 orth	Ouatta-pana		
@@ -974,8 +1004,10 @@ pb	636	0640	4573072
 entry	Ould (Sir Fielding) [A. Chéreau] (bibliographie)	0	
 orth	Ould (Sir Fielding)		
 entry	Oulgate	0	
+orth	Oulgate		
 ref	Houlgate (station maritime)		
 entry	Oulliot (Eau minérale d')	0	
+orth	Oulliot (Eau minérale d')		
 ref	Gabian		
 entry	Ouln [G. Planchon]	0	
 orth	Ouln		
@@ -984,6 +1016,7 @@ orth	Oumines
 entry	Ounias [G. Planchon]	0	
 orth	Ounias		
 entry	Ouolofs (Les)	0	
+orth	Ouolofs (Les)		
 ref	Sénégambie		
 entry	Ou-Poey-tse, Ou-Pey-ste, Ou-Pei-ste, Woo-Pei-Tsze [G. Planchon]	0	
 orth	Ou-Poey-tse, Ou-Pey-ste, Ou-Pei-ste, Woo-Pei-Tsze		
@@ -994,12 +1027,16 @@ pb	638	0642	4573074
 entry	Ouralo-Altaïque (Peuples) [Amédée Dechambre]	0	
 orth	Ouralo-Altaïque (Peuples)		
 entry	Ouranoplastie	0	
+orth	Ouranoplastie		
 ref	Uranoplastie		
 entry	Ouraque	0	
+orth	Ouraque		
 ref	Allantoïde		
 entry	Ourari	0	
+orth	Ourari		
 ref	Curare		
 entry	Ouratea	0	
+orth	Ouratea		
 ref	Ochna		
 ref	Ochnacées		
 entry	Ours [E. Oustalet]	4	
@@ -1023,6 +1060,7 @@ pb	646	0650	4573082
 entry	Outarde [E. Oustalet] (bibliographie)	0	
 orth	Outarde		
 entry	Outauais (Les)	0	
+orth	Outauais (Les)		
 ref	Canada		
 entry	Outrancourt (Eau minérale d') [A. Rotureau]	1	
 orth	Outrancourt (Eau minérale d')		
@@ -1042,9 +1080,11 @@ pb	649	0653	4573085
 entry	Ouvre-bouche [Amédée Dechambre]	0	
 orth	Ouvre-bouche		
 entry	Ouvriers	0	
+orth	Ouvriers		
 ref	Corporations		
 ref	Professions		
 entry	Ovahs (Les)	0	
+orth	Ovahs (Les)		
 ref	Madagascar		
 entry	Ovaire [Ch. Rouget]	0	
 orth	Ovaire		
@@ -1130,6 +1170,7 @@ pb	724	0728	4573160
 pb	725	0729	4573161
 pb	726	0730	4573162
 entry	Pathologie	0	
+orth	Pathologie		
 entry	Ovaire. Pathologie. Généralités [A. Ferrand]	2	
 orth	Ovaire. Pathologie. Généralités		
 pb	727	0731	4573163
@@ -1236,6 +1277,7 @@ pb	803	0807	4573239
 pb	[s. pag.]	0808	4573240
 pb	805	0809	4573241
 entry	Articles contenus dans le dix-huitième volume (4e série)	2	
+orth	Articles contenus dans le dix-huitième volume (4e série)		
 pb	806	0810	4573242
 pb	807	0811	4573243
 pb	[s. pag.]	0812	4573244

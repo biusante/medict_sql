@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4518306
 pb	1	0005	4518307
 entry	Datura	0	
+orth	Datura		
 entry	Datura. Applications thérapeutiques [Ernest Labbée]	27	
 orth	Datura. Applications thérapeutiques		
 pb	2	0006	4518308
@@ -40,6 +41,7 @@ entry	Datura. Applications thérapeutiques [Ernest Labbée] (bibliographie)	1
 orth	Datura. Applications thérapeutiques		
 pb	30	0034	4518336
 entry	Daturine	0	
+orth	Daturine		
 entry	Daturine. Chimie [Ernest Labbée]	2	
 orth	Daturine. Chimie		
 pb	31	0035	4518337
@@ -91,6 +93,7 @@ pb	46	0050	4518352
 entry	Dauphinelle [G. Planchon]	0	
 orth	Dauphinelle		
 entry	Daurade	0	
+orth	Daurade		
 entry	Daurade. Zool. [E. Oustalet]	1	
 orth	Daurade. Zool.		
 pb	47	0051	4518353
@@ -181,8 +184,10 @@ pb	67	0071	4518373
 entry	Day (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Day (Les deux)		
 entry	Dayaks de Bornéo	0	
+orth	Dayaks de Bornéo		
 ref	Malaisie		
 entry	Daysous (Les)	0	
+orth	Daysous (Les)		
 ref	Nègres		
 entry	Daza (Alonso-Diez) [L. Hahn]	0	
 orth	Daza (Alonso-Diez)		
@@ -265,6 +270,7 @@ entry	Déboisement [J. Mahé] (bibliographie)	1
 orth	Déboisement		
 pb	115	0119	4518421
 entry	De Bourges	0	
+orth	De Bourges		
 ref	Bourges		
 entry	Débourreurs (Hygiène industrielle) [Alexandre Layet]	0	
 orth	Débourreurs (Hygiène industrielle)		
@@ -337,12 +343,14 @@ orth	Décès
 entry	Déchaussoir [Amédée Dechambre]	0	
 orth	Déchaussoir		
 entry	Déchireurs de bateaux	0	
+orth	Déchireurs de bateaux		
 ref	Débardeurs		
 entry	Déchirure [Amédée Dechambre]	0	
 orth	Déchirure		
 entry	Decima (Angelo Conte dalla) [L. Hahn] (bibliographie)	0	
 orth	Decima (Angelo Conte dalla)		
 entry	Decker (Les)	0	
+orth	Decker (Les)		
 ref	Dekker		
 entry	Deckmann (Christian-Gottlieb) [L. Hahn]	0	
 orth	Deckmann (Christian-Gottlieb)		
@@ -359,6 +367,7 @@ pb	153	0157	4518459
 pb	154	0158	4518460
 pb	155	0159	4518461
 entry	Décollation	0	
+orth	Décollation		
 ref	Supplices		
 entry	Décollement [Amédée Dechambre]	1	
 orth	Décollement		
@@ -424,11 +433,13 @@ pb	184	0188	4518490
 entry	Défécation (Pharmacie) [Amédée Dechambre]	0	
 orth	Défécation (Pharmacie)		
 entry	Déférent (Canal)	0	
+orth	Déférent (Canal)		
 ref	Spermatiques (Voies)		
 ref	Testicule		
 entry	Déflexion [Amédée Dechambre]	0	
 orth	Déflexion		
 entry	Défloration	0	
+orth	Défloration		
 ref	Viol		
 entry	Déformation [Amédée Dechambre]	1	
 orth	Déformation		
@@ -475,8 +486,10 @@ pb	212	0216	4518518
 entry	Degener ou Degner (Les) [L. Hahn] (bibliographie)	0	
 orth	Degener ou Degner (Les)		
 entry	Dégénération	0	
+orth	Dégénération		
 ref	Dégénérescence		
 entry	Dégénérescence	0	
+orth	Dégénérescence		
 entry	Dégénérescence. Biologie anthropologique [E. Dally]	15	
 orth	Dégénérescence. Biologie anthropologique		
 pb	213	0217	4518519
@@ -544,10 +557,13 @@ entry	Déglutition [Arloing] (bibliographie)	1
 orth	Déglutition		
 pb	268	0272	4518574
 entry	Degner	0	
+orth	Degner		
 ref	Degener		
 entry	De Gorris	0	
+orth	De Gorris		
 ref	Gorris		
 entry	Dégradation	0	
+orth	Dégradation		
 ref	Dégénérescence		
 entry	Dégraisseurs (Hygiène industrielle) [Alexandre Layet]	2	
 orth	Dégraisseurs (Hygiène industrielle)		
@@ -577,6 +593,7 @@ pb	275	0279	4518581
 entry	Deiman (Joannes Rudolf) [A. Dureau] (bibliographie)	0	
 orth	Deiman (Joannes Rudolf)		
 entry	Deinope	0	
+orth	Deinope		
 ref	Araignée		
 entry	Deisch (Johann-Andreas) [L. Hahn]	0	
 orth	Deisch (Johann-Andreas)		
@@ -597,6 +614,7 @@ pb	279	0283	4518585
 pb	280	0284	4518586
 pb	281	0285	4518587
 entry	Dekan, Dekhan	0	
+orth	Dekan, Dekhan		
 ref	Hindoustan		
 entry	Dekkers (Les) [L. Hahn] (bibliographie)	1	
 orth	Dekkers (Les)		
@@ -629,6 +647,7 @@ orth	Delafosse (Gabriel)
 entry	Delalande (Jean-Marie) [L. Hahn]	0	
 orth	Delalande (Jean-Marie)		
 entry	De Lamotte	0	
+orth	De Lamotte		
 ref	Lamotte		
 entry	Delaporte (Pierre-Louis) [L. Hahn]	0	
 orth	Delaporte (Pierre-Louis)		
@@ -650,16 +669,19 @@ entry	Delaroche (Les deux) [L. Hahn] (bibliographie)	1
 orth	Delaroche (Les deux)		
 pb	292	0296	4518598
 entry	De Larroque	0	
+orth	De Larroque		
 ref	Larroque		
 entry	Delarue (François) [L. Hahn]	0	
 orth	Delarue (François)		
 entry	Delaunay (Claude-Jean-Veau) [L. Hahn]	0	
 orth	Delaunay (Claude-Jean-Veau)		
 entry	Delawares	0	
+orth	Delawares		
 ref	Amérique		
 entry	Délayants [Amédée Dechambre]	0	
 orth	Délayants		
 entry	Del Boe	0	
+orth	Del Boe		
 ref	Du Bois		
 entry	Deleau (Nicolas) [A. Chéreau]	0	
 orth	Deleau (Nicolas)		
@@ -668,6 +690,7 @@ entry	Deleau (Nicolas) [A. Chéreau] (bibliographie)	0
 orth	Deleau (Nicolas)		
 pb	294	0298	4518600
 entry	Delene	0	
+orth	Delene		
 ref	Araignées		
 entry	Delens (Adrien-Jacques) [A. Chéreau] (bibliographie)	0	
 orth	Delens (Adrien-Jacques)		
@@ -846,6 +869,7 @@ entry	Délire Aigu [B. Ball, E. Chambard] (bibliographie)	1
 orth	Délire Aigu		
 pb	434	0438	4518740
 entry	Délire des persécutions	0	
+orth	Délire des persécutions		
 ref	Persécution		
 pb	435	0439	4518741
 entry	Delirium Tremens [B. Ball, E. Chambard]	26	
@@ -956,6 +980,7 @@ pb	520	0524	4518826
 entry	Delmas (Eugène) [L. Hahn] (bibliographie)	0	
 orth	Delmas (Eugène)		
 entry	Delonnes	0	
+orth	Delonnes		
 ref	Imbert-Delonnes		
 entry	Delorme ou De Lorme (Les) [A. Chéreau]	1	
 orth	Delorme ou De Lorme (Les)		
@@ -967,6 +992,7 @@ entry	Delpech (Les deux) [A. Chéreau] (bibliographie)	1
 orth	Delpech (Les deux)		
 pb	523	0527	4518829
 entry	Delphine, Delphinoïdine, Delphisine	0	
+orth	Delphine, Delphinoïdine, Delphisine		
 entry	Delphine, Delphinoïdine, Delphisine. Chimie [L. Hahn]	5	
 orth	Delphine, Delphinoïdine, Delphisine. Chimie		
 pb	524	0528	4518830
@@ -994,6 +1020,7 @@ orth	Delphine, Delphinoïdine, Delphisine. Emploi médical
 pb	542	0546	4518848
 pb	543	0547	4518849
 entry	Médecine légale	0	
+orth	Médecine légale		
 ref	Staphisaigre		
 entry	Delphinium [H. Baillon]	1	
 orth	Delphinium		
@@ -1004,6 +1031,7 @@ orth	Delphinium
 entry	Delpit [L. Hahn]	0	
 orth	Delpit		
 entry	Deltoïde	0	
+orth	Deltoïde		
 entry	Deltoïde. Anatomie [A. Le Double]	5	
 orth	Deltoïde. Anatomie		
 pb	546	0550	4518852
@@ -1031,6 +1059,7 @@ entry	De Machy [A. Chéreau]	0
 orth	De Machy		
 pb	557	0561	4518863
 entry	Démangeaison	0	
+orth	Démangeaison		
 ref	Prurit		
 entry	Demangeon (J.-B.) [A. Chéreau] (bibliographie)	0	
 orth	Demangeon (J.-B.)		
@@ -1043,6 +1072,7 @@ entry	Dématiés [Ed. Lefèvre]	1
 orth	Dématiés		
 pb	559	0563	4518865
 entry	Démence	0	
+orth	Démence		
 entry	Démence. Pathologie [B. Ball, E. Chambard]	44	
 orth	Démence. Pathologie		
 pb	560	0564	4518866
@@ -1144,6 +1174,7 @@ pb	637	0641	4518943
 entry	De-Michelis (Filippo) [L. Hahn] (bibliographie)	0	
 orth	De-Michelis (Filippo)		
 entry	Demi-circulaires (Canaux)	0	
+orth	Demi-circulaires (Canaux)		
 ref	Oreille interne		
 entry	Demi-membraneux [A. Le Double]	3	
 orth	Demi-membraneux		
@@ -1333,6 +1364,7 @@ pb	744	0748	4519050
 entry	Denonvilliers (Charles-Pierre) [A. Chéreau] (bibliographie)	0	
 orth	Denonvilliers (Charles-Pierre)		
 entry	Densimètre	0	
+orth	Densimètre		
 ref	Aréomètre		
 ref	Densité		
 entry	Densité [C.-M. Gariel]	22	
@@ -1361,4 +1393,5 @@ pb	765	0769	4519071
 pb	766	0770	4519072
 pb	767	0771	4519073
 entry	Articles contenus dans le vingt-sixième volume (1re série)	1	
+orth	Articles contenus dans le vingt-sixième volume (1re série)		
 pb	768	0772	4519074

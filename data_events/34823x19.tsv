@@ -2,10 +2,12 @@ pb	[s. pag.]	0001	4802797
 entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4802798
 entry	Liste des collaborateurs du dix-neuvième volume	0	
+orth	Liste des collaborateurs du dix-neuvième volume		
 pb	[s. pag.]	0003	4802799
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4802800
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
+orth	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles		
 pb	1	0005	4802801
 entry	Rectum et anus [A. Labat]. Anatomie	2	
 orth	Rectum et anus. Anatomie		
@@ -26,6 +28,7 @@ pb	7	0011	4802807
 pb	8	0012	4802808
 pb	9	0013	4802809
 entry	Division	0	
+orth	Division		
 entry	Rectum et anus [A. Labat]. Division. Inflammation ; rectite	9	
 orth	Rectum et anus. Division. Inflammation ; rectite		
 pb	10	0014	4802810
@@ -158,6 +161,7 @@ pb	110	0114	4802910
 entry	Reins (Pathologie) [L. Trasbot]. Diabète sucré	0	
 orth	Reins (Pathologie). Diabète sucré		
 entry	Diabète insipide, polyurie	0	
+orth	Diabète insipide, polyurie		
 pb	111	0115	4802911
 entry	Reins (Pathologie) [L. Trasbot]. Hémoglobinurie	0	
 orth	Reins (Pathologie). Hémoglobinurie		
@@ -251,6 +255,7 @@ orth	Reins (Pathologie). Dégénérescence amyloïde
 pb	175	0179	4802975
 pb	176	0180	4802976
 entry	Tumeurs	0	
+orth	Tumeurs		
 entry	Reins (Pathologie) [L. Trasbot]. Blessures	1	
 orth	Reins (Pathologie). Blessures		
 pb	177	0181	4802977
@@ -380,7 +385,9 @@ pb	272	0276	4803072
 entry	Respiratoires (Parasites des voies) [A. Railliet]. Insectes	0	
 orth	Respiratoires (Parasites des voies). Insectes		
 entry	Acariens	0	
+orth	Acariens		
 entry	Linguatules	0	
+orth	Linguatules		
 pb	273	0277	4803073
 entry	Respiratoires (Parasites des voies) [A. Railliet]. Annélides	0	
 orth	Respiratoires (Parasites des voies). Annélides		
@@ -420,6 +427,7 @@ pb	300	0304	4803100
 pb	301	0305	4803101
 pb	302	0306	4803102
 entry	Infusoires	0	
+orth	Infusoires		
 entry	Respiratoires (parasites des voies) [A. Railliet]. Coccidies	1	
 orth	Respiratoires (parasites des voies). Coccidies		
 pb	303	0307	4803103
@@ -533,6 +541,7 @@ orth	Rhumatisme. Rhumatisme articulaire du porc
 pb	387	0391	4803187
 pb	388	0392	4803188
 entry	Rhumatisme articulaire du mouton	0	
+orth	Rhumatisme articulaire du mouton		
 entry	Rhumatisme [Cadéac]. Rhumatisme articulaire du chien	1	
 orth	Rhumatisme. Rhumatisme articulaire du chien		
 pb	389	0393	4803189
@@ -770,5 +779,6 @@ orth	Salers. Race auvergnate. Variété du Puy-de-Dôme
 pb	561	0565	4803361
 pb	562	0566	4803362
 entry	Table générale par ordre alphabétique	2	
+orth	Table générale par ordre alphabétique		
 pb	563	0567	4803363
 pb	564	0568	4803364

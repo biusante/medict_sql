@@ -6,7 +6,9 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	5556800
 pb	1	0005	413311
 entry	habillement	0	
+orth	habillement		
 entry	habitation	21	
+orth	habitation		
 pb	2	0006	413312
 pb	3	0007	413313
 pb	4	0008	413314
@@ -29,6 +31,7 @@ pb	20	0024	413330
 pb	21	0025	413331
 pb	22	0026	413332
 entry	habitude	34	
+orth	habitude		
 pb	23	0027	413333
 pb	24	0028	413334
 pb	25	0029	413335
@@ -66,18 +69,23 @@ pb	56	0060	413366
 pb	[s. pag.]	0061	5556801
 pb	[s. pag.]	0062	413367
 entry	hachette anatomique : planche	0	
+orth	hachette anatomique : planche		
 pb	57	0063	413368
 entry	hachette anatomique	1	
+orth	hachette anatomique		
 pb	58	0064	413369
 entry	hale	1	
+orth	hale		
 pb	59	0065	413370
 entry	haleine	5	
+orth	haleine		
 pb	60	0066	413371
 pb	61	0067	413372
 pb	62	0068	413373
 pb	63	0069	413374
 pb	64	0070	413375
 entry	hallucination	7	
+orth	hallucination		
 pb	65	0071	413376
 pb	66	0072	413377
 pb	67	0073	413378
@@ -86,16 +94,21 @@ pb	69	0075	413380
 pb	70	0076	413381
 pb	71	0077	413382
 entry	hamac	3	
+orth	hamac		
 pb	72	0078	413383
 pb	73	0079	413384
 pb	74	0080	413385
 pb	[s. pag.]	0081	413386
 entry	hamac : planche	0	
+orth	hamac : planche		
 pb	[s. pag.]	0082	5556802
 pb	75	0083	413387
 entry	hamac	0	
+orth	hamac		
 entry	hanche	0	
+orth	hanche		
 entry	harmonie	14	
+orth	harmonie		
 pb	76	0084	413388
 pb	77	0085	413389
 pb	78	0086	413390
@@ -111,29 +124,44 @@ pb	87	0095	413399
 pb	88	0096	413400
 pb	89	0097	413401
 entry	haut-mal	0	
+orth	haut-mal		
 entry	hectique	0	
+orth	hectique		
 pb	90	0098	413402
 entry	hectisie	0	
+orth	hectisie		
 entry	helcydrion	0	
+orth	helcydrion		
 entry	hélix	0	
+orth	hélix		
 entry	hellébore	0	
+orth	hellébore		
 entry	helléborisme	0	
+orth	helléborisme		
 entry	helminthagogue	0	
+orth	helminthagogue		
 entry	helminthes	1	
+orth	helminthes		
 pb	91	0099	413403
 entry	hélode	0	
+orth	hélode		
 entry	hélose	0	
+orth	hélose		
 entry	hémagogue	1	
+orth	hémagogue		
 pb	92	0100	413404
 entry	hémalopie	1	
+orth	hémalopie		
 pb	93	0101	413405
 entry	hémastatique	5	
+orth	hémastatique		
 pb	94	0102	413406
 pb	95	0103	413407
 pb	96	0104	413408
 pb	97	0105	413409
 pb	98	0106	413410
 entry	hématémèse	24	
+orth	hématémèse		
 pb	99	0107	413411
 pb	100	0108	413412
 pb	101	0109	413413
@@ -160,11 +188,14 @@ pb	121	0129	413433
 pb	122	0130	413434
 pb	123	0131	413435
 entry	hématite	0	
+orth	hématite		
 entry	hématocèle	3	
+orth	hématocèle		
 pb	124	0132	413436
 pb	125	0133	413437
 pb	126	0134	413438
 entry	hématode	74	
+orth	hématode		
 pb	127	0135	413439
 pb	128	0136	413440
 pb	129	0137	413441
@@ -240,14 +271,20 @@ pb	198	0206	413510
 pb	199	0207	413511
 pb	200	0208	413512
 entry	hématomphale	0	
+orth	hématomphale		
 entry	hématomphalocèle	0	
+orth	hématomphalocèle		
 entry	hématoncie	0	
+orth	hématoncie		
 pb	[s. pag.]	0209	413513
 entry	fongus hematode érectile : planche	0	
+orth	fongus hematode érectile : planche		
 pb	[s. pag.]	0210	5556803
 pb	201	0211	413514
 entry	hématoncie	0	
+orth	hématoncie		
 entry	hématose	33	
+orth	hématose		
 pb	202	0212	413515
 pb	203	0213	413516
 pb	204	0214	413517
@@ -282,6 +319,7 @@ pb	232	0242	413545
 pb	233	0243	413546
 pb	234	0244	413547
 entry	hématurie	22	
+orth	hématurie		
 pb	235	0245	413548
 pb	236	0246	413549
 pb	237	0247	413550
@@ -305,19 +343,25 @@ pb	254	0264	413567
 pb	255	0265	413568
 pb	256	0266	413569
 entry	héméralopie	1	
+orth	héméralopie		
 pb	257	0267	413570
 entry	hemerocalle	3	
+orth	hemerocalle		
 pb	258	0268	413571
 pb	259	0269	413572
 pb	260	0270	413573
 entry	hémicranie	3	
+orth	hémicranie		
 pb	261	0271	413574
 pb	262	0272	413575
 pb	263	0273	413576
 entry	hémicranique	0	
+orth	hémicranique		
 entry	hémiopie	1	
+orth	hémiopie		
 pb	264	0274	413577
 entry	hémiplégie	30	
+orth	hémiplégie		
 pb	265	0275	413578
 pb	266	0276	413579
 pb	267	0277	413580
@@ -349,9 +393,12 @@ pb	292	0302	413605
 pb	293	0303	413606
 pb	294	0304	413607
 entry	hémitritée	1	
+orth	hémitritée		
 pb	295	0305	413608
 entry	hémophobie	0	
+orth	hémophobie		
 entry	hémoptysie	44	
+orth	hémoptysie		
 pb	296	0306	413609
 pb	297	0307	413610
 pb	298	0308	413611
@@ -397,6 +444,7 @@ pb	337	0347	413650
 pb	338	0348	413651
 pb	339	0349	413652
 entry	hémorragie (médecine)	32	
+orth	hémorragie (médecine)		
 pb	340	0350	413653
 pb	341	0351	413654
 pb	342	0352	413655
@@ -430,6 +478,7 @@ pb	369	0379	413682
 pb	370	0380	413683
 pb	371	0381	413684
 entry	hémorragie (chirurgie)	16	
+orth	hémorragie (chirurgie)		
 pb	372	0382	413685
 pb	373	0383	413686
 pb	374	0384	413687
@@ -447,6 +496,7 @@ pb	385	0395	413698
 pb	386	0396	413699
 pb	387	0397	413700
 entry	hémorragie utérine	52	
+orth	hémorragie utérine		
 pb	388	0398	413701
 pb	389	0399	413702
 pb	390	0400	413703
@@ -501,8 +551,10 @@ pb	438	0448	413751
 pb	439	0449	413752
 pb	440	0450	413753
 entry	hémorrhée	1	
+orth	hémorrhée		
 pb	441	0451	413754
 entry	hémorroides	226	
+orth	hémorroides		
 pb	442	0452	413755
 pb	443	0453	413756
 pb	444	0454	413757

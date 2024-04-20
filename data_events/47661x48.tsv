@@ -6,7 +6,9 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	5556622
 pb	1	0005	430084
 entry	respirable	0	
+orth	respirable		
 entry	respiration	105	
+orth	respiration		
 pb	2	0006	430085
 pb	3	0007	430086
 pb	4	0008	430087
@@ -113,8 +115,11 @@ pb	104	0108	430187
 pb	105	0109	430188
 pb	106	0110	430189
 entry	ressentiment	0	
+orth	ressentiment		
 entry	resserré	0	
+orth	resserré		
 entry	resserrement	7	
+orth	resserrement		
 pb	107	0111	430190
 pb	108	0112	430191
 pb	109	0113	430192
@@ -123,12 +128,17 @@ pb	111	0115	430194
 pb	112	0116	430195
 pb	113	0117	430196
 entry	restaurant	0	
+orth	restaurant		
 entry	restiforme	2	
+orth	restiforme		
 pb	114	0118	430197
 pb	115	0119	430198
 entry	rétablissement	0	
+orth	rétablissement		
 entry	rétention	0	
+orth	rétention		
 entry	rétention d'urine	58	
+orth	rétention d'urine		
 pb	116	0120	430199
 pb	117	0121	430200
 pb	118	0122	430201
@@ -188,25 +198,35 @@ pb	171	0175	430254
 pb	172	0176	430255
 pb	173	0177	430256
 entry	réticulaire	1	
+orth	réticulaire		
 pb	174	0178	430257
 entry	rétiforme	0	
+orth	rétiforme		
 entry	rétinaculum	0	
+orth	rétinaculum		
 entry	rétine	5	
+orth	rétine		
 pb	175	0179	430258
 pb	176	0180	430259
 pb	177	0181	430260
 pb	178	0182	430261
 pb	179	0183	430262
 entry	rétinites	0	
+orth	rétinites		
 entry	retorte	1	
+orth	retorte		
 pb	180	0184	430263
 entry	rétracteur	0	
+orth	rétracteur		
 entry	rétraction	0	
+orth	rétraction		
 entry	rétrocession	3	
+orth	rétrocession		
 pb	181	0185	430264
 pb	182	0186	430265
 pb	183	0187	430266
 entry	rétroversion de la matrice	18	
+orth	rétroversion de la matrice		
 pb	184	0188	430267
 pb	185	0189	430268
 pb	186	0190	430269
@@ -226,6 +246,7 @@ pb	199	0203	430282
 pb	200	0204	430283
 pb	201	0205	430284
 entry	réunion	44	
+orth	réunion		
 pb	202	0206	430285
 pb	203	0207	430286
 pb	204	0208	430287
@@ -271,7 +292,9 @@ pb	243	0247	430326
 pb	244	0248	430327
 pb	245	0249	430328
 entry	réveil - matin	0	
+orth	réveil - matin		
 entry	rêves	53	
+orth	rêves		
 pb	246	0250	430329
 pb	247	0251	430330
 pb	248	0252	430331
@@ -328,10 +351,13 @@ pb	298	0302	430381
 pb	[s. pag.]	0303	5556623
 pb	[s. pag.]	0304	430382
 entry	rêves : tableau synoptique	0	
+orth	rêves : tableau synoptique		
 pb	299	0305	430383
 entry	rêves	1	
+orth	rêves		
 pb	300	0306	430384
 entry	révolution	81	
+orth	révolution		
 pb	301	0307	430385
 pb	302	0308	430386
 pb	303	0309	430387
@@ -414,11 +440,14 @@ pb	379	0385	430463
 pb	380	0386	430464
 pb	381	0387	430465
 entry	révulsif	0	
+orth	révulsif		
 entry	révulsifs	3	
+orth	révulsifs		
 pb	382	0388	430466
 pb	383	0389	430467
 pb	384	0390	430468
 entry	révulsion	9	
+orth	révulsion		
 pb	385	0391	430469
 pb	386	0392	430470
 pb	387	0393	430471
@@ -429,48 +458,75 @@ pb	391	0397	430475
 pb	392	0398	430476
 pb	393	0399	430477
 entry	reynés (eaux minérales de)	0	
+orth	reynés (eaux minérales de)		
 entry	rhacose	1	
+orth	rhacose		
 pb	394	0400	430478
 entry	rhagades	4	
+orth	rhagades		
 pb	395	0401	430479
 pb	396	0402	430480
 pb	397	0403	430481
 pb	398	0404	430482
 entry	rhagoide	0	
+orth	rhagoide		
 entry	rhamnées	1	
+orth	rhamnées		
 pb	399	0405	430483
 pb	400	0406	430484
 entry	rhamnine	0	
+orth	rhamnine		
 entry	rhamnoide	1	
+orth	rhamnoide		
 pb	401	0407	430485
 entry	rhaphanedon	0	
+orth	rhaphanedon		
 entry	rhaphanéloéon	0	
+orth	rhaphanéloéon		
 entry	rhaphania	0	
+orth	rhaphania		
 entry	rhapontic	1	
+orth	rhapontic		
 pb	402	0408	430486
 entry	rheims (eaux minérales de)	0	
+orth	rheims (eaux minérales de)		
 entry	rheingau (eau minérale de)	0	
+orth	rheingau (eau minérale de)		
 entry	rheumique (acide)	1	
+orth	rheumique (acide)		
 pb	403	0409	430487
 entry	rhicnose	0	
+orth	rhicnose		
 entry	rhinarion	0	
+orth	rhinarion		
 entry	rhinenchyte	0	
+orth	rhinenchyte		
 entry	rhinopte	0	
+orth	rhinopte		
 entry	rhinose	0	
+orth	rhinose		
 entry	rhizagre	0	
+orth	rhizagre		
 pb	404	0410	430488
 entry	rhodium	1	
+orth	rhodium		
 pb	405	0411	430489
 entry	rhododendrées	1	
+orth	rhododendrées		
 pb	406	0412	430490
 entry	rhodomel	1	
+orth	rhodomel		
 pb	407	0413	430491
 entry	rhogme	0	
+orth	rhogme		
 entry	rhombe	0	
+orth	rhombe		
 entry	rhomboide	2	
+orth	rhomboide		
 pb	408	0414	430492
 pb	409	0415	430493
 entry	rhubarbe	16	
+orth	rhubarbe		
 pb	410	0416	430494
 pb	411	0417	430495
 pb	412	0418	430496
@@ -488,12 +544,19 @@ pb	423	0429	430507
 pb	424	0430	430508
 pb	425	0431	430509
 entry	rhue	0	
+orth	rhue		
 entry	rhue - de - chèvre	0	
+orth	rhue - de - chèvre		
 entry	rhumapyre	0	
+orth	rhumapyre		
 entry	rhumastalgie	0	
+orth	rhumastalgie		
 entry	rhumastalgié	0	
+orth	rhumastalgié		
 entry	rhumatisant	0	
+orth	rhumatisant		
 entry	rhumatisme	205	
+orth	rhumatisme		
 pb	426	0432	430510
 pb	427	0433	430511
 pb	428	0434	430512
@@ -700,6 +763,7 @@ pb	628	0634	430712
 pb	629	0635	430713
 pb	630	0636	430714
 entry	rhume	6	
+orth	rhume		
 pb	631	0637	430715
 pb	632	0638	430716
 pb	633	0639	430717

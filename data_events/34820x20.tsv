@@ -2,14 +2,18 @@ pb	[s. pag.]	0001	472754
 entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	472755
 entry	Impression	0	
+orth	Impression		
 pb	[s. pag.]	0003	472756
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	472757
 entry	Miasmes	0	
+orth	Miasmes		
 entry	Miel	2	
+orth	Miel		
 pb	2	0005	472758
 pb	3	0006	472759
 entry	Migraine	7	
+orth	Migraine		
 pb	4	0007	472760
 pb	5	0008	472761
 pb	6	0009	472762
@@ -18,6 +22,7 @@ pb	8	0011	472764
 pb	9	0012	472765
 pb	10	0013	472766
 entry	Milliaire	9	
+orth	Milliaire		
 pb	11	0014	472767
 pb	12	0015	472768
 pb	13	0016	472769
@@ -28,6 +33,7 @@ pb	17	0020	472773
 pb	18	0021	472774
 pb	19	0022	472775
 entry	Militaire	14	
+orth	Militaire		
 pb	20	0023	472776
 pb	21	0024	472777
 pb	22	0025	472778
@@ -43,6 +49,7 @@ pb	31	0034	472787
 pb	32	0035	472788
 pb	33	0036	472789
 entry	Moelle épinière	102	
+orth	Moelle épinière		
 pb	34	0037	472790
 pb	35	0038	472791
 pb	36	0039	472792
@@ -146,11 +153,14 @@ pb	133	0136	472889
 pb	134	0137	472890
 pb	135	0138	472891
 entry	Mole	1	
+orth	Mole		
 pb	136	0139	472892
 entry	Molluscum	2	
+orth	Molluscum		
 pb	137	0140	472893
 pb	138	0141	472894
 entry	Monomanie	30	
+orth	Monomanie		
 pb	139	0142	472895
 pb	140	0143	472896
 pb	141	0144	472897
@@ -233,8 +243,10 @@ entry	Monstres, Monstruosité	0
 orth	Monstres		
 orth	Monstruosité		
 entry	Mont-Dore	0	
+orth	Mont-Dore		
 pb	214	0217	472970
 entry	Mont-dore	7	
+orth	Mont-dore		
 pb	215	0218	472971
 pb	216	0219	472972
 pb	217	0220	472973
@@ -243,13 +255,16 @@ pb	219	0222	472975
 pb	220	0223	472976
 pb	221	0224	472977
 entry	Morelle	5	
+orth	Morelle		
 pb	222	0225	472978
 pb	223	0226	472979
 pb	224	0227	472980
 pb	225	0228	472981
 pb	226	0229	472982
 entry	Morphine	0	
+orth	Morphine		
 entry	Mort	32	
+orth	Mort		
 pb	227	0230	472983
 pb	228	0231	472984
 pb	229	0232	472985
@@ -283,6 +298,7 @@ pb	256	0259	473012
 pb	257	0260	473013
 pb	258	0261	473014
 entry	Morve	33	
+orth	Morve		
 pb	259	0262	473015
 pb	260	0263	473016
 pb	261	0264	473017
@@ -317,14 +333,18 @@ pb	289	0292	473045
 pb	290	0293	473046
 pb	291	0294	473047
 entry	Moule	2	
+orth	Moule		
 pb	292	0295	473048
 pb	293	0296	473049
 entry	Mousse de corse	1	
+orth	Mousse de corse		
 pb	294	0297	473050
 entry	Moutarde	2	
+orth	Moutarde		
 pb	295	0298	473051
 pb	296	0299	473052
 entry	Moxa	4	
+orth	Moxa		
 pb	297	0300	473053
 pb	298	0301	473054
 pb	299	0302	473055
@@ -333,6 +353,7 @@ entry	Mucosite, Mucus	0
 orth	Mucosite		
 orth	Mucus		
 entry	Muguet	15	
+orth	Muguet		
 pb	301	0304	473057
 pb	302	0305	473058
 pb	303	0306	473059
@@ -349,9 +370,11 @@ pb	313	0316	473069
 pb	314	0317	473070
 pb	315	0318	473071
 entry	Muqueuse (fièvre)	2	
+orth	Muqueuse (fièvre)		
 pb	316	0319	473072
 pb	317	0320	473073
 entry	Muqueuses (membranes)	9	
+orth	Muqueuses (membranes)		
 pb	318	0321	473074
 pb	319	0322	473075
 pb	320	0323	473076
@@ -365,6 +388,7 @@ entry	Muriate, Muriatique	0
 orth	Muriate		
 orth	Muriatique		
 entry	Musc	7	
+orth	Musc		
 pb	327	0330	473083
 pb	328	0331	473084
 pb	329	0332	473085
@@ -417,12 +441,16 @@ entry	Mutisme, Mutite	0
 orth	Mutisme		
 orth	Mutite		
 entry	Mydriase	0	
+orth	Mydriase		
 entry	Myelite	0	
+orth	Myelite		
 pb	372	0375	473128
 entry	Myopie	2	
+orth	Myopie		
 pb	373	0376	473129
 pb	374	0377	473130
 entry	Myrrhe	1	
+orth	Myrrhe		
 pb	375	0378	473131
 entry	Myrtacées ou Myrtinées	1	
 orth	Myrtacées		
@@ -430,29 +458,39 @@ orth	Myrtinées
 pb	376	0379	473132
 pb	377	0380	473133
 entry	Lettre N	0	
+orth	Lettre N		
 entry	Naevus maternus	1	
+orth	Naevus maternus		
 pb	378	0381	473134
 entry	Naissances precoces et tardives	0	
 orth	Naissances precoces		
 orth	tardives		
 entry	Naples	3	
+orth	Naples		
 pb	379	0382	473135
 pb	380	0383	473136
 pb	381	0384	473137
 entry	Narcisse	2	
+orth	Narcisse		
 pb	382	0385	473138
 pb	383	0386	473139
 entry	Narcotico-acres	0	
+orth	Narcotico-acres		
 entry	Narcotine	0	
+orth	Narcotine		
 entry	Narcotiques	2	
+orth	Narcotiques		
 pb	384	0387	473140
 pb	385	0388	473141
 entry	Narcotiques, Narcotisme	0	
 orth	Narcotiques		
 orth	Narcotisme		
 entry	Nasales	0	
+orth	Nasales		
 entry	Nausée	0	
+orth	Nausée		
 entry	Necrose	24	
+orth	Necrose		
 pb	386	0389	473142
 pb	387	0390	473143
 pb	388	0391	473144
@@ -478,10 +516,13 @@ pb	407	0410	473163
 pb	408	0411	473164
 pb	409	0412	473165
 entry	Nectaire	2	
+orth	Nectaire		
 pb	410	0413	473166
 pb	411	0414	473167
 entry	Nenuphar	0	
+orth	Nenuphar		
 entry	Neoplastie	20	
+orth	Neoplastie		
 pb	412	0415	473168
 pb	413	0416	473169
 pb	414	0417	473170
@@ -503,8 +544,11 @@ pb	429	0432	473185
 pb	430	0433	473186
 pb	431	0434	473187
 entry	Nephelion	0	
+orth	Nephelion		
 entry	Nephrite	0	
+orth	Nephrite		
 entry	Nerfs	27	
+orth	Nerfs		
 pb	432	0435	473188
 pb	433	0436	473189
 pb	434	0437	473190
@@ -533,11 +577,14 @@ pb	456	0459	473212
 pb	457	0460	473213
 pb	458	0461	473214
 entry	Neris (eaux minérales de)	2	
+orth	Neris (eaux minérales de)		
 pb	459	0462	473215
 pb	460	0463	473216
 entry	Nerprun	1	
+orth	Nerprun		
 pb	461	0464	473217
 entry	Nerveux	155	
+orth	Nerveux		
 pb	462	0465	473218
 pb	463	0466	473219
 pb	464	0467	473220
@@ -695,6 +742,8 @@ pb	615	0618	473371
 pb	616	0619	473372
 pb	[s. pag.]	0620	473373
 entry	Table des principaux articles contenus dans ce volume	0	
+orth	Table des principaux articles contenus dans ce volume		
 pb	[s. pag.]	0621	473374
 entry	Table alphabétique des matières	0	
+orth	Table alphabétique des matières		
 pb	620	0622	473375

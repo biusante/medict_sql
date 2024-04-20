@@ -21,6 +21,7 @@ pb	4	0008	4542674
 entry	Margaritique (Acide) [Malaguti]	0	
 orth	Margaritique (Acide)		
 entry	Margaroide (Tumeur)	0	
+orth	Margaroide (Tumeur)		
 ref	Tumeurs		
 entry	Margarone [Malaguti]	1	
 orth	Margarone		
@@ -147,6 +148,7 @@ pb	104	0108	4542774
 entry	Mariage. Médecine légale [G. Tourdes] (bibliographie)	0	
 orth	Mariage. Médecine légale		
 entry	Mariannes	0	
+orth	Mariannes		
 ref	Polynésie		
 entry	Mariano Santo [E. Beaugrand]	0	
 orth	Mariano Santo		
@@ -189,6 +191,7 @@ orth	Maringouins
 entry	Marisques [J. Rollet]	0	
 orth	Marisques		
 entry	Marjolaine	0	
+orth	Marjolaine		
 entry	Marjolaine. Botanique [G. Planchon] (bibliographie)	1	
 orth	Marjolaine. Botanique		
 pb	121	0125	4542791
@@ -200,9 +203,11 @@ pb	122	0126	4542792
 entry	Marjolin (Jean-Nicolas) [H. Montanier] (bibliographie)	0	
 orth	Marjolin (Jean-Nicolas)		
 entry	Marjorana	0	
+orth	Marjorana		
 ref	Marjolaine		
 ref	Origan		
 entry	Marlioz (Eaux minérales de)	0	
+orth	Marlioz (Eaux minérales de)		
 ref	Aix-les-Bains		
 entry	Marmelades [T. Gobley]	0	
 orth	Marmelades		
@@ -241,10 +246,13 @@ pb	136	0140	4542806
 entry	Marquises (Archipel des) [A. Le Roy de Méricourt] (bibliographie)	0	
 orth	Marquises (Archipel des)		
 entry	Marron	0	
+orth	Marron		
 ref	Châtaignier		
 entry	Marronier	0	
+orth	Marronier		
 ref	Châtaignier		
 entry	Marronnier d'Inde	0	
+orth	Marronnier d'Inde		
 entry	Marronnier d'Inde. Botanique [G. Planchon] (bibliographie)	1	
 orth	Marronnier d'Inde. Botanique		
 pb	137	0141	4542807
@@ -262,6 +270,7 @@ entry	Marronnier d'Inde. Emploi médical [J. Delioux de Savignac] (bibliographie
 orth	Marronnier d'Inde. Emploi médical		
 pb	144	0148	4542814
 entry	Marrube	0	
+orth	Marrube		
 entry	Botanique [G. Planchon]	0	
 orth	Botanique		
 entry	Marrube. Emploi médical [J. Delioux de Savignac]	2	
@@ -279,6 +288,7 @@ orth	Marsh (James)
 entry	Marschall (André) [H. Montanier]	0	
 orth	Marschall (André)		
 entry	Marshall-Hall	0	
+orth	Marshall-Hall		
 ref	Hall		
 entry	Marsouin [A. Laboulbène]	1	
 orth	Marsouin		
@@ -288,13 +298,16 @@ orth	Marsupiaux
 pb	150	0154	4542820
 pb	151	0155	4542821
 entry	Mart (Saint-) (Eau minérale de)	0	
+orth	Mart (Saint-) (Eau minérale de)		
 ref	Royat		
 pb	152	0156	4542822
 entry	Marte [P. Gervais]	0	
 orth	Marte		
 entry	Marteau (Os du)	0	
+orth	Marteau (Os du)		
 ref	Oreille		
 entry	Marteau de Mayor	0	
+orth	Marteau de Mayor		
 ref	Mayor		
 entry	Marteau (Les) [A. Chéreau] (bibliographie)	1	
 orth	Marteau (Les)		
@@ -369,6 +382,7 @@ pb	168	0172	4542838
 entry	Martres-de-Veyre (Les) (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
 orth	Martres-de-Veyre (Les) (Eaux minérales de)		
 entry	Maruta	0	
+orth	Maruta		
 ref	Anthémis		
 ref	Maroute		
 entry	Marx (Joseph) [A. Chéreau]	0	
@@ -412,12 +426,16 @@ orth	Massaria (Alexandre)
 entry	Masséter (Muscle) [Amédée Dechambre]	0	
 orth	Masséter (Muscle)		
 entry	Massétérin (Nerf)	0	
+orth	Massétérin (Nerf)		
 ref	Maxillaire inférieur (Nerf)		
 entry	Massétérine (Artère)	0	
+orth	Massétérine (Artère)		
 ref	Maxillaire interne (Artère)		
 entry	Massicot	0	
+orth	Massicot		
 ref	Plomb		
 entry	Massitu	0	
+orth	Massitu		
 ref	Pied de Griffon		
 entry	Masson (Antoine) [E. Beaugrand]	1	
 orth	Masson (Antoine)		
@@ -449,16 +467,21 @@ pb	189	0193	4542859
 entry	Masticatoires [J. Delioux de Savignac] (bibliographie)	0	
 orth	Masticatoires		
 entry	Mastite	0	
+orth	Mastite		
 ref	Mamelles		
 pb	190	0194	4542860
 entry	Mastoïde (Apophyse)	0	
+orth	Mastoïde (Apophyse)		
 ref	Crâne		
 ref	Temporal (Os)		
 entry	Mastoïdien (Nerf)	0	
+orth	Mastoïdien (Nerf)		
 ref	Cervical (Plexus)		
 entry	Mastoïdienne (Artère)	0	
+orth	Mastoïdienne (Artère)		
 ref	Occipitale (Artère)		
 entry	Masturbation	0	
+orth	Masturbation		
 ref	Onanisme		
 entry	Masuyer (Marie-Gabriel) [E. Beaugrand] (bibliographie)	1	
 orth	Masuyer (Marie-Gabriel)		
@@ -474,10 +497,13 @@ pb	195	0199	4542865
 entry	Maté [A. Le Roy de Méricourt] (bibliographie)	0	
 orth	Maté		
 entry	Matelas	0	
+orth	Matelas		
 ref	Lit		
 entry	Matelassiers	0	
+orth	Matelassiers		
 ref	Criniers		
 entry	Maternité	0	
+orth	Maternité		
 ref	Paternité		
 entry	Maternités [B. Brochin]	14	
 orth	Maternités		
@@ -496,17 +522,21 @@ pb	207	0211	4542877
 pb	208	0212	4542878
 pb	209	0213	4542879
 entry	Maticine	0	
+orth	Maticine		
 ref	Matico		
 entry	Matico	0	
+orth	Matico		
 entry	Matico. Botanique [H. Baillon] (bibliographie)	1	
 orth	Matico. Botanique		
 pb	210	0214	4542880
 pb	211	0215	4542881
 entry	Matico	0	
+orth	Matico		
 entry	Matico. Emploi médical [Fonssagrives]	1	
 orth	Matico. Emploi médical		
 pb	212	0216	4542882
 entry	Matière médicale	0	
+orth	Matière médicale		
 ref	Pharmacologie		
 entry	Matité [Ernest Besnier]	14	
 orth	Matité		
@@ -530,6 +560,7 @@ orth	Matité
 entry	Matras [Amédée Dechambre]	0	
 orth	Matras		
 entry	Matricaire	0	
+orth	Matricaire		
 entry	Matricaire. Botanique [H. Baillon]	1	
 orth	Matricaire. Botanique		
 pb	228	0232	4542898
@@ -586,6 +617,7 @@ pb	240	0244	4542910
 entry	Mauthner (Ludwig-Wilhelm) [E. Beaugrand] (bibliographie)	0	
 orth	Mauthner (Ludwig-Wilhelm)		
 entry	Mauve	0	
+orth	Mauve		
 entry	Mauve. Botanique [H. Baillon] (bibliographie)	1	
 orth	Mauve. Botanique		
 pb	241	0245	4542911
@@ -593,6 +625,7 @@ entry	Mauve. Emploi médical [Fonssagrives]	1
 orth	Mauve. Emploi médical		
 pb	242	0246	4542912
 entry	Maxilaire (Sous-) (Glande)	0	
+orth	Maxilaire (Sous-) (Glande)		
 entry	Maxilaire (Sous-) (Glande). Anatomie [Albert Hénocque]	9	
 orth	Maxilaire (Sous-) (Glande). Anatomie		
 pb	243	0247	4542913
@@ -625,6 +658,7 @@ pb	263	0267	4542933
 pb	264	0268	4542934
 pb	265	0269	4542935
 entry	Maxillaire (Os)	0	
+orth	Maxillaire (Os)		
 entry	Maxillaire (Os). Anatomie et usages [G. Gillette]	10	
 orth	Maxillaire (Os). Anatomie et usages		
 pb	266	0270	4542936
@@ -642,6 +676,7 @@ entry	Maxillaire (Os). Anatomie et usages [G. Gillette] (bibliographie)	1
 orth	Maxillaire (Os). Anatomie et usages		
 pb	277	0281	4542947
 entry	Pathologie	0	
+orth	Pathologie		
 entry	Maxillaire (Os). Pathologie. Fractures [G. Gillette]	7	
 orth	Maxillaire (Os). Pathologie. Fractures		
 pb	278	0282	4542948
@@ -704,6 +739,7 @@ entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques [F. Guyon]	1
 orth	Maxillaire (Os). Pathologie. Lésions vitales et organiques		
 pb	324	0328	4542994
 entry	Inflammations	0	
+orth	Inflammations		
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Ostéo-périostite [F. Guyon]	25	
 orth	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Inflammations. Ostéo-périostite		
 pb	325	0329	4542995
@@ -807,6 +843,7 @@ pb	412	0416	4543082
 pb	413	0417	4543083
 pb	414	0418	4543084
 entry	Tumeurs des maxillaires	0	
+orth	Tumeurs des maxillaires		
 entry	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs liquides [F. Guyon]	29	
 orth	Maxillaire (Os). Pathologie. Lésions vitales et organiques. Tumeurs des maxillaires. Tumeurs liquides		
 pb	415	0419	4543085
@@ -996,8 +1033,10 @@ orth	Méat
 entry	Mecambo [G. Planchon]	0	
 orth	Mecambo		
 entry	Mécaniciens	0	
+orth	Mécaniciens		
 ref	Machines		
 entry	Mécanicisme	0	
+orth	Mécanicisme		
 ref	Médecine (histoire de la)		
 entry	Mécanique animale [Giraud-Teulon]	2	
 orth	Mécanique animale		
@@ -1019,8 +1058,10 @@ orth	Meckel (Les)
 pb	560	0564	4543230
 pb	561	0565	4543231
 entry	Méconamide	0	
+orth	Méconamide		
 ref	Acide méconique		
 entry	Méconates	0	
+orth	Méconates		
 ref	Méconine		
 ref	Méconique (acide)		
 entry	Méconine (ou hydrure d'opianyle) [P. Schützenberger]	1	
@@ -1039,8 +1080,10 @@ pb	568	0572	4543238
 entry	Méconium [C. Robin] (bibliographie)	0	
 orth	Méconium		
 entry	Médague (Eaux minérales de)	0	
+orth	Médague (Eaux minérales de)		
 ref	José		
 entry	Médecin	0	
+orth	Médecin		
 entry	Médecin. Hygiène [E. Beaugrand]	10	
 orth	Médecin. Hygiène		
 pb	569	0573	4543239
@@ -1077,6 +1120,7 @@ pb	589	0593	4543259
 pb	590	0594	4543260
 pb	591	0595	4543261
 entry	Médecins experts	0	
+orth	Médecins experts		
 ref	Médecine légale		
 entry	Médecins inspecteurs des eaux minérales [Amédée Dechambre]	1	
 orth	Médecins inspecteurs des eaux minérales		
@@ -1105,8 +1149,10 @@ pb	607	0611	4543277
 entry	Médecins (Femmes) [E. Beaugrand] (bibliographie)	0	
 orth	Médecins (Femmes)		
 entry	Médecin (Devoirs du)	0	
+orth	Médecin (Devoirs du)		
 ref	Déontologie		
 entry	Médecine	0	
+orth	Médecine		
 entry	Médecine. Du rôle de la médecine et des médecins dans la société ; de leur influence sur le progrès et la civilisation [L. Boyer]	18	
 orth	Médecine. Du rôle de la médecine et des médecins dans la société ; de leur influence sur le progrès et la civilisation		
 pb	608	0612	4543278
@@ -1128,6 +1174,7 @@ pb	623	0627	4543293
 pb	624	0628	4543294
 pb	625	0629	4543295
 entry	Médecine	0	
+orth	Médecine		
 entry	Médecine. Enseignement et exercice [H. Montanier]	49	
 orth	Médecine. Enseignement et exercice		
 pb	626	0630	4543296
@@ -1227,6 +1274,7 @@ pb	713	0717	4543383
 pb	714	0718	4543384
 pb	715	0719	4543385
 entry	Addenda	0	
+orth	Addenda		
 entry	Addenda. Médecins poëtes, littérateurs, architectes, numismates, etc. [A. Chéreau]	12	
 orth	Addenda. Médecins poëtes, littérateurs, architectes, numismates, etc.		
 pb	716	0720	4543386
@@ -1250,4 +1298,5 @@ orth	Addenda. Médecins béatifiés
 pb	[s. pag.]	0734	4543400
 pb	731	0735	4543401
 entry	Articles contenus dans le cinquième volume	1	
+orth	Articles contenus dans le cinquième volume		
 pb	732	0736	4543402

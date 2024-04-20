@@ -6,6 +6,7 @@ pb	[s. pag.]	0003	7303905
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7303906
 entry	Pessaire	17	
+orth	Pessaire		
 pb	2	0005	7303907
 pb	[s. pag.]	0006	7303908
 pb	4	0007	7303909
@@ -25,6 +26,7 @@ pb	17	0020	7303922
 pb	18	0021	7303923
 pb	19	0022	7303924
 entry	Peste	19	
+orth	Peste		
 pb	20	0023	7303925
 pb	21	0024	7303926
 pb	22	0025	7303927
@@ -46,6 +48,7 @@ pb	37	0040	7303942
 pb	38	0041	7303943
 pb	39	0042	7303944
 entry	Pétéchies	6	
+orth	Pétéchies		
 pb	40	0043	7303945
 pb	41	0044	7303946
 pb	42	0045	7303947
@@ -53,12 +56,16 @@ pb	43	0046	7303948
 pb	44	0047	7303949
 pb	45	0048	7303950
 entry	Petit lait	0	
+orth	Petit lait		
 entry	Pétrole	0	
+orth	Pétrole		
 entry	Pfaffers	3	
+orth	Pfaffers		
 pb	46	0049	7303951
 pb	47	0050	7303952
 pb	48	0051	7303953
 entry	Phagédénisme	58	
+orth	Phagédénisme		
 pb	49	0052	7303954
 pb	50	0053	7303955
 pb	51	0054	7303956
@@ -118,6 +125,7 @@ pb	104	0107	7304009
 pb	105	0108	7304010
 pb	106	0109	7304011
 entry	Pharynx	14	
+orth	Pharynx		
 pb	107	0110	7304012
 pb	108	0111	7304013
 pb	109	0112	7304014
@@ -133,6 +141,7 @@ pb	118	0121	7304023
 pb	119	0122	7304024
 pb	120	0123	7304025
 entry	Phellandrie	1	
+orth	Phellandrie		
 pb	121	0124	7304026
 entry	Phénique ou Phénol	10	
 orth	Phénique		
@@ -148,11 +157,17 @@ pb	129	0132	7304034
 pb	130	0133	7304035
 pb	131	0134	7304036
 entry	Phimosis	0	
+orth	Phimosis		
 entry	Phlébite	0	
+orth	Phlébite		
 entry	Phlébotomie	0	
+orth	Phlébotomie		
 entry	Phlegmasie	0	
+orth	Phlegmasie		
 entry	Phlegmatia alba dolens	0	
+orth	Phlegmatia alba dolens		
 entry	Phlegmon	53	
+orth	Phlegmon		
 pb	132	0135	7304037
 pb	133	0136	7304038
 pb	134	0137	7304039
@@ -207,10 +222,15 @@ pb	182	0185	7304087
 pb	183	0186	7304088
 pb	184	0187	7304089
 entry	Phlyctène	0	
+orth	Phlyctène		
 entry	Phlyzacié	0	
+orth	Phlyzacié		
 entry	Phonation	0	
+orth	Phonation		
 entry	Phosphène	0	
+orth	Phosphène		
 entry	Phosphore	28	
+orth	Phosphore		
 pb	185	0188	7304090
 pb	186	0189	7304091
 pb	187	0190	7304092
@@ -240,11 +260,14 @@ pb	210	0213	7304115
 pb	211	0214	7304116
 pb	212	0215	7304117
 entry	Photophobie	0	
+orth	Photophobie		
 entry	Phthiriase	3	
+orth	Phthiriase		
 pb	213	0216	7304118
 pb	214	0217	7304119
 pb	215	0218	7304120
 entry	Phthisie pulmonaire	361	
+orth	Phthisie pulmonaire		
 pb	216	0219	7304121
 pb	217	0220	7304122
 pb	218	0221	7304123
@@ -607,14 +630,17 @@ pb	558	0577	7304479
 pb	559	0578	7304480
 pb	560	0579	7304481
 entry	Physométrie	0	
+orth	Physométrie		
 pb	561	0580	7304482
 entry	Pian	5	
+orth	Pian		
 pb	562	0581	7304483
 pb	563	0582	7304484
 pb	564	0583	7304485
 pb	565	0584	7304486
 pb	566	0585	7304487
 entry	Pied	311	
+orth	Pied		
 pb	567	0586	7304488
 pb	568	0587	7304489
 pb	569	0588	7304490
@@ -928,3 +954,4 @@ pb	898	0895	7304797
 pb	899	0896	7304798
 pb	[s. pag.]	0897	7304799
 entry	table des auteurs	0	
+orth	table des auteurs		

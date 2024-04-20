@@ -23,8 +23,10 @@ pb	6	0010	4533630
 entry	Goursaud [L. Hahn] (bibliographie)	0	
 orth	Goursaud		
 entry	Gout	0	
+orth	Gout		
 ref	Gustation		
 entry	Goutte	0	
+orth	Goutte		
 entry	Goutte. Historique et définition [H. Rendu]	9	
 orth	Goutte. Historique et définition		
 pb	7	0011	4533631
@@ -316,6 +318,7 @@ orth	Gouzaban
 entry	Govinda [G. Liétard] (bibliographie)	0	
 orth	Govinda		
 entry	Gouyave	0	
+orth	Gouyave		
 ref	Goyave		
 ref	Goyavier		
 entry	Goyave. Goyavier [H. Baillon]	0	
@@ -415,6 +418,7 @@ orth	Grains médicinaux
 entry	Graisse [Amédée Dechambre]	0	
 orth	Graisse		
 entry	Graisseux (Tissu)	0	
+orth	Graisseux (Tissu)		
 ref	Adipeux		
 pb	285	0289	4533909
 entry	Gramann (Les) [L. Hahn] (bibliographie)	0	
@@ -444,6 +448,7 @@ orth	Grana
 entry	Granado (Les) [L. Hahn]	0	
 orth	Granado (Les)		
 entry	Granatées	0	
+orth	Granatées		
 ref	Grenadier		
 entry	Granatine [Amédée Dechambre]	0	
 orth	Granatine		
@@ -453,22 +458,28 @@ orth	Grand baume
 entry	Grand baumier [G. Planchon]	0	
 orth	Grand baumier		
 entry	Grand dentelé	0	
+orth	Grand dentelé		
 ref	Dentelé		
 entry	Grand droit	0	
+orth	Grand droit		
 ref	Droit		
 entry	Grand fessier	0	
+orth	Grand fessier		
 ref	Fessier		
 entry	Grand frène [G. Planchon]	0	
 orth	Grand frène		
 entry	Grand liseron [G. Planchon]	0	
 orth	Grand liseron		
 entry	Grand oblique	0	
+orth	Grand oblique		
 ref	Oblique		
 entry	Grand palmaire	0	
+orth	Grand palmaire		
 ref	Palmaire		
 entry	Grand pardon [G. Planchon]	0	
 orth	Grand pardon		
 entry	Grand pectoral	0	
+orth	Grand pectoral		
 ref	Pectoral		
 entry	Grand plantain [G. Planchon]	0	
 orth	Grand plantain		
@@ -477,6 +488,7 @@ orth	Grand raifort
 entry	Grand soleil [G. Planchon]	0	
 orth	Grand soleil		
 entry	Grand zygomatique	0	
+orth	Grand zygomatique		
 ref	Zygomatique		
 entry	Grande berce [G. Planchon]	0	
 orth	Grande berce		
@@ -544,14 +556,17 @@ entry	Granulations (Pathologie) [Amédée Dechambre]	1
 orth	Granulations (Pathologie)		
 pb	299	0303	4533923
 entry	Granules	0	
+orth	Granules		
 ref	Granulation		
 ref	Dragée		
 entry	Granuleuse (Membrane)	0	
+orth	Granuleuse (Membrane)		
 ref	Ovaire		
 entry	Granulie [I. Grancher]	1	
 orth	Granulie		
 pb	300	0304	4533924
 entry	Granum	0	
+orth	Granum		
 ref	Grana		
 entry	Granville (Station marine) [A. Rotureau]	1	
 orth	Granville (Station marine)		
@@ -564,6 +579,7 @@ pb	302	0306	4533926
 entry	Grapengiesser (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Grapengiesser (Les deux)		
 entry	Graphite	0	
+orth	Graphite		
 ref	Carbone		
 entry	Graphitique (Acide) [L. Hahn]	2	
 orth	Graphitique (Acide)		
@@ -573,6 +589,7 @@ entry	Grapse [Ed. Lefèvre]	1
 orth	Grapse		
 pb	305	0309	4533929
 entry	Gras (Corps)	0	
+orth	Gras (Corps)		
 ref	Corps gras		
 entry	Gras de cadavre [L. Hahn]	20	
 orth	Gras de cadavre		
@@ -620,6 +637,7 @@ pb	330	0334	4533954
 entry	Grassette [G. Planchon] (bibliographie)	0	
 orth	Grassette		
 entry	Grasseyement	0	
+orth	Grasseyement		
 ref	Parole		
 entry	Grasville-l'heure (Eau minérale de) [A. Rotureau]	0	
 orth	Grasville-l'heure (Eau minérale de)		
@@ -666,6 +684,7 @@ orth	Grau-du-Roi (Station marine)
 entry	Graumann (Peter-Benedict-Christian) [L. Hahn] (bibliographie)	0	
 orth	Graumann (Peter-Benedict-Christian)		
 entry	Graus (Les)	0	
+orth	Graus (Les)		
 ref	Olette (Eaux minérales d')		
 entry	Gravander (Lorenz-Friedrich) [L. Hahn]	0	
 orth	Gravander (Lorenz-Friedrich)		
@@ -717,6 +736,7 @@ orth	Gray (Les)
 pb	360	0364	4533984
 pb	361	0365	4533985
 entry	Grease	0	
+orth	Grease		
 ref	Vaccin		
 ref	Vaccination		
 entry	Greatrakes (Valentin) [L. Hahn]	0	
@@ -955,6 +975,7 @@ pb	550	0554	4534174
 pb	551	0555	4534175
 pb	552	0556	4534176
 entry	Grèce	0	
+orth	Grèce		
 entry	Grèce. Supplément. Géographie médicale des îles de la Grèce [Clôn Stéphanos]	17	
 orth	Grèce. Supplément. Géographie médicale des îles de la Grèce		
 pb	553	0557	4534177
@@ -1064,8 +1085,10 @@ orth	Gren (Friedrich-Albert-Carl)
 entry	Grenade (Nouvelle-) [Amédée Dechambre]	0	
 orth	Grenade (Nouvelle-)		
 entry	Grenade (Botanique)	0	
+orth	Grenade (Botanique)		
 ref	Grenadier		
 entry	Grenadier, Grenade	0	
+orth	Grenadier, Grenade		
 entry	Grenadier, Grenade. Botanique [H. Baillon]	1	
 orth	Grenadier, Grenade. Botanique		
 pb	613	0617	4534237
@@ -1086,8 +1109,10 @@ orth	Grenadille
 entry	Grenadine [Amédée Dechambre]	0	
 orth	Grenadine		
 entry	Grenatées, Granatum	0	
+orth	Grenatées, Granatum		
 ref	Grenadier		
 entry	Grenétine	0	
+orth	Grenétine		
 ref	Gélatine		
 entry	Grenier (Jean-Charles-Marie) [L. Hahn]	0	
 orth	Grenier (Jean-Charles-Marie)		
@@ -1173,6 +1198,7 @@ pb	684	0688	4534308
 entry	Gréoulx (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
 orth	Gréoulx (Eaux minérales de)		
 entry	Grésil	0	
+orth	Grésil		
 ref	Grêle		
 entry	Grévin (Jacques) [A. Chéreau]	0	
 orth	Grévin (Jacques)		
@@ -1242,6 +1268,7 @@ pb	703	0707	4534327
 entry	Grimm (Les deux) [A. Dureau] (bibliographie)	0	
 orth	Grimm (Les deux)		
 entry	Grimper (Action de)	0	
+orth	Grimper (Action de)		
 ref	Locomotion		
 entry	Grimpereau [E. Oustalet]	1	
 orth	Grimpereau		
@@ -1260,6 +1287,7 @@ orth	Grindel (David-Hieronymus)
 entry	Grindel (Eau phagédénique de) [Amédée Dechambre]	0	
 orth	Grindel (Eau phagédénique de)		
 entry	Grindélia	0	
+orth	Grindélia		
 entry	Grindélia. Botanique [G. Planchon] (bibliographie)	1	
 orth	Grindélia. Botanique		
 pb	708	0712	4534332
@@ -1327,6 +1355,7 @@ pb	751	0755	4534375
 entry	Grisolle (Augustin) [A. Chéreau] (bibliographie)	0	
 orth	Grisolle (Augustin)		
 entry	Grisou (Feu)	0	
+orth	Grisou (Feu)		
 ref	Mines		
 entry	Grive [E. Oustalet]	2	
 orth	Grive		
@@ -1385,6 +1414,7 @@ orth	Grognier (Louis-Furcy)
 pb	[s. pag.]	0796	4534416
 pb	793	0797	4534417
 entry	Articles contenus dans le dixième volume (4e série)	2	
+orth	Articles contenus dans le dixième volume (4e série)		
 pb	794	0798	4534418
 pb	795	0799	4534419
 pb	[s. pag.]	0800	4534420

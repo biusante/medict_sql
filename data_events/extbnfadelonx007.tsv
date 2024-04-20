@@ -77,7 +77,9 @@ pb	64	0068	4810607
 entry	Digitation [A. Béclard]	0	
 orth	Digitation		
 entry	Dilacération	0	
+orth	Dilacération		
 entry	Dilatant	0	
+orth	Dilatant		
 pb	65	0069	4810608
 entry	Dilatateur [A. Béclard]	0	
 orth	Dilatateur		
@@ -89,6 +91,7 @@ pb	66	0070	4810609
 pb	67	0071	4810610
 pb	68	0072	4810611
 entry	Diophthalme	0	
+orth	Diophthalme		
 entry	Diploé [A. Béclard]	0	
 orth	Diploé		
 entry	Diploïque [A. Béclard]	0	
@@ -109,12 +112,15 @@ entry	Discussif [Raige Delorme]	1
 orth	Discussif		
 pb	71	0075	4810614
 entry	Dislocation	0	
+orth	Dislocation		
 entry	Dispensaire [Raige Delorme]	0	
 orth	Dispensaire		
 entry	Disposition [Raige Delorme]	0	
 orth	Disposition		
 entry	Dissection	0	
+orth	Dissection		
 entry	Dissimulé	0	
+orth	Dissimulé		
 entry	Dissolution [Raige Delorme]	1	
 orth	Dissolution		
 pb	72	0076	4810615
@@ -127,6 +133,7 @@ entry	Ditrachycéros [Hippol. Cloquet]	1
 orth	Ditrachycéros		
 pb	73	0077	4810616
 entry	Diurèse	0	
+orth	Diurèse		
 entry	Diurétique [Guersent]	5	
 orth	Diurétique		
 pb	74	0078	4810617
@@ -170,6 +177,7 @@ pb	87	0091	4810630
 entry	Dos [A. Béclard]	0	
 orth	Dos		
 entry	Dose	0	
+orth	Dose		
 pb	88	0092	4810631
 entry	Double (fièvre) [Raige Delorme]	0	
 orth	Double (fièvre)		
@@ -200,27 +208,37 @@ pb	106	0110	4810649
 pb	107	0111	4810650
 pb	108	0112	4810651
 entry	Dragée	1	
+orth	Dragée		
 pb	109	0113	4810652
 entry	Dragonneau	0	
+orth	Dragonneau		
 entry	Drapeau [Marjolin]	0	
 orth	Drapeau		
 entry	Drastique	0	
+orth	Drastique		
 entry	Drogue	0	
+orth	Drogue		
 pb	110	0114	4810653
 entry	Droguier	0	
+orth	Droguier		
 entry	Droit [A. Béclard]	3	
 orth	Droit		
 pb	111	0115	4810654
 pb	112	0116	4810655
 pb	113	0117	4810656
 entry	Drymyrrhizées	0	
+orth	Drymyrrhizées		
 entry	Duodénum [A. Béclard]	0	
 orth	Duodénum		
 entry	Duplicature	1	
+orth	Duplicature		
 pb	114	0118	4810657
 entry	Dure-mère	0	
+orth	Dure-mère		
 entry	Dureté d'oreille	0	
+orth	Dureté d'oreille		
 entry	Durillon	0	
+orth	Durillon		
 entry	Dynamique [Adelon]	1	
 orth	Dynamique		
 pb	115	0119	4810658
@@ -233,7 +251,9 @@ pb	119	0123	4810662
 entry	Dyscinésie [Raige Delorme]	0	
 orth	Dyscinésie		
 entry	Dyscrasie	0	
+orth	Dyscrasie		
 entry	Dysécée	0	
+orth	Dysécée		
 entry	Dysenterie [Chomel]	15	
 orth	Dysenterie		
 pb	120	0124	4810663
@@ -252,6 +272,7 @@ pb	132	0136	4810675
 pb	133	0137	4810676
 pb	134	0138	4810677
 entry	Dysentérique	0	
+orth	Dysentérique		
 entry	Dysesthésie [Raige Delorme]	0	
 orth	Dysesthésie		
 entry	Dyslochie [Desormeaux]	0	
@@ -265,6 +286,7 @@ entry	Dyspepsie [Georget]	1
 orth	Dyspepsie		
 pb	136	0140	4810679
 entry	Dyspermatisme [L	1	
+orth	Dyspermatisme [L		
 ref	Lagneau]		
 pb	137	0141	4810680
 pb	138	0142	4810681
@@ -276,10 +298,12 @@ pb	141	0145	4810684
 pb	142	0146	4810685
 pb	143	0147	4810686
 entry	Dysphonie	0	
+orth	Dysphonie		
 entry	Dyspnée [Raige Delorme]	1	
 orth	Dyspnée		
 pb	144	0148	4810687
 entry	Dyspnéïque	0	
+orth	Dyspnéïque		
 entry	Dystocie [Desormeaux]	30	
 orth	Dystocie		
 pb	145	0149	4810688
@@ -313,6 +337,7 @@ pb	172	0176	4810715
 pb	173	0177	4810716
 pb	174	0178	4810717
 entry	Dysurie	0	
+orth	Dysurie		
 pb	175	0179	4810718
 entry	Eau (protoxyde d'hydrogène) [Orfila, L. Rostan]	20	
 orth	Eau (protoxyde d'hydrogène)		
@@ -337,28 +362,45 @@ pb	193	0197	4810736
 pb	194	0198	4810737
 pb	195	0199	4810738
 entry	Eau acidulé	0	
+orth	Eau acidulé		
 entry	Eau de l'amnios	0	
+orth	Eau de l'amnios		
 entry	Eau d'arquébusade	0	
+orth	Eau d'arquébusade		
 entry	Eau de belloste	0	
+orth	Eau de belloste		
 pb	196	0200	4810739
 entry	Eau blanche	0	
+orth	Eau blanche		
 entry	Eau celeste	0	
+orth	Eau celeste		
 entry	Eau de chaux	0	
+orth	Eau de chaux		
 entry	Eau forte	0	
+orth	Eau forte		
 entry	Eau de Goulard	0	
+orth	Eau de Goulard		
 entry	Eau de javelle	0	
+orth	Eau de javelle		
 entry	Eau de luce	1	
+orth	Eau de luce		
 pb	197	0201	4810740
 entry	Eau mercurielle	0	
+orth	Eau mercurielle		
 entry	Eau oxygénée (deutoxyde d'hydrogène, péroxyde d'hydrogène)	3	
+orth	Eau oxygénée (deutoxyde d'hydrogène, péroxyde d'hydrogène)		
 pb	198	0202	4810741
 pb	199	0203	4810742
 pb	200	0204	4810743
 entry	Eau phagédénique	0	
+orth	Eau phagédénique		
 entry	Eau de Rabel	1	
+orth	Eau de Rabel		
 pb	201	0205	4810744
 entry	Eau régale (acide nitro-muriatique ou hydrochlorique)	0	
+orth	Eau régale (acide nitro-muriatique ou hydrochlorique)		
 entry	Eau végéto-minérale	0	
+orth	Eau végéto-minérale		
 entry	Eau-de-vie [Orfila]	2	
 orth	Eau-de-vie		
 pb	202	0206	4810745
@@ -462,6 +504,7 @@ pb	283	0287	4810826
 pb	284	0288	4810827
 pb	285	0289	4810828
 entry	Eccopé	0	
+orth	Eccopé		
 entry	Échancrure [A. Béclard]	0	
 orth	Échancrure		
 entry	Écharpe [Murat]	2	
@@ -471,6 +514,7 @@ pb	287	0291	4810830
 entry	Échauboulures [P. Rayer]	0	
 orth	Échauboulures		
 entry	Échauffant	0	
+orth	Échauffant		
 entry	Échauffement [Raige Delorme]	1	
 orth	Échauffement		
 pb	288	0292	4810831
@@ -490,8 +534,11 @@ orth	Éclectique (secte)
 pb	296	0300	4810839
 pb	297	0301	4810840
 entry	Éclectisme	0	
+orth	Éclectisme		
 entry	Éclegme	0	
+orth	Éclegme		
 entry	Éclisse	0	
+orth	Éclisse		
 entry	Économie [Raige Delorme]	0	
 orth	Économie		
 entry	Écorce [A. Richard]	2	
@@ -501,6 +548,7 @@ pb	299	0303	4810842
 entry	Écorchure [Murat]	0	
 orth	Écorchure		
 entry	Écoulement [J	3	
+orth	Écoulement [J		
 ref	Lagneau]		
 pb	300	0304	4810843
 pb	301	0305	4810844
@@ -509,6 +557,7 @@ entry	Écrevisse [Hippol. Cloquet]	1
 orth	Écrevisse		
 pb	303	0307	4810846
 entry	Écrouelles	0	
+orth	Écrouelles		
 entry	Ecthyma [P. Rayer]	3	
 orth	Ecthyma		
 pb	304	0308	4810847
@@ -533,13 +582,16 @@ entry	Éducation [Raige Delorme]	1
 orth	Éducation		
 pb	318	0322	4810861
 entry	Édulcoration	0	
+orth	Édulcoration		
 entry	Effervescence [Raige Delorme]	0	
 orth	Effervescence		
 entry	Efficient	0	
+orth	Efficient		
 entry	Efflorescence [P. Rayer]	1	
 orth	Efflorescence		
 pb	319	0323	4810862
 entry	Effluve	0	
+orth	Effluve		
 entry	Effluxion [Désormeaux]	0	
 orth	Effluxion		
 entry	Effort [Adelon]	6	
@@ -551,6 +603,7 @@ pb	323	0327	4810866
 pb	324	0328	4810867
 pb	325	0329	4810868
 entry	Effusion	0	
+orth	Effusion		
 entry	Egagropile [G. Breschet]	6	
 orth	Egagropile		
 pb	326	0330	4810869
@@ -568,7 +621,9 @@ pb	332	0336	4810875
 entry	Éjaculateur [A. Béclard]	0	
 orth	Éjaculateur		
 entry	Éjaculation	0	
+orth	Éjaculation		
 entry	Éjection	0	
+orth	Éjection		
 entry	Élaboration [Raige Delorme]	0	
 orth	Élaboration		
 entry	Elaine [J. Pelletier]	1	
@@ -578,6 +633,7 @@ entry	Élan [Hippol. Cloquet]	1
 orth	Élan		
 pb	334	0338	4810877
 entry	Élancement	0	
+orth	Élancement		
 entry	Élaterium [A. Richard]	1	
 orth	Élaterium		
 pb	335	0339	4810878
@@ -641,9 +697,11 @@ pb	365	0369	4810908
 pb	366	0370	4810909
 pb	367	0371	4810910
 entry	Élode	0	
+orth	Élode		
 entry	Élytroïde [A. Béclard]	0	
 orth	Élytroïde		
 entry	Émaciation	0	
+orth	Émaciation		
 entry	Émail des dents [A. Béclard]	0	
 orth	Émail des dents		
 entry	Émanation [Raige Delorme]	1	
@@ -688,6 +746,7 @@ entry	Émétine [J. Pelletier]	1
 orth	Émétine		
 pb	387	0391	4810930
 entry	Émétique	1	
+orth	Émétique		
 pb	388	0392	4810931
 entry	Éméto-cathartique [Guersent]	1	
 orth	Éméto-cathartique		
@@ -699,6 +758,7 @@ orth	pyramidales
 entry	Émissaires (veines) [A. Béclard]	0	
 orth	Émissaires (veines)		
 entry	Émission	0	
+orth	Émission		
 entry	Emménagogue [Guersent]	2	
 orth	Emménagogue		
 pb	390	0394	4810933
@@ -712,6 +772,7 @@ pb	395	0399	4810938
 entry	Émonctoire [Raige Delorme]	0	
 orth	Émonctoire		
 entry	Empatement	0	
+orth	Empatement		
 entry	Emphysème [Murat]	14	
 orth	Emphysème		
 pb	396	0400	4810939
@@ -740,6 +801,7 @@ entry	Empirisme [Raige Delorme]	1
 orth	Empirisme		
 pb	416	0420	4810959
 entry	Emplastique	0	
+orth	Emplastique		
 entry	Emplatre [Guersent]	5	
 orth	Emplatre		
 pb	417	0421	4810960
@@ -807,20 +869,25 @@ pb	476	0480	4811019
 pb	477	0481	4811020
 pb	478	0482	4811021
 entry	Empreinte	0	
+orth	Empreinte		
 entry	Emprosthotonos	0	
+orth	Emprosthotonos		
 entry	Empyème	1	
+orth	Empyème		
 pb	479	0483	4811022
 entry	Empyreume [Orfila]	0	
 orth	Empyreume		
 entry	Émulgentes (artère et veine) [A. Béclard]	0	
 orth	Émulgentes (artère et veine)		
 entry	Émulsif	0	
+orth	Émulsif		
 entry	Émulsion [Guersent]	3	
 orth	Émulsion		
 pb	480	0484	4811023
 pb	481	0485	4811024
 pb	482	0486	4811025
 entry	Énarthrose	0	
+orth	Énarthrose		
 entry	Encanthis [Jules Cloquet]	4	
 orth	Encanthis		
 pb	483	0487	4811026
@@ -907,5 +974,7 @@ pb	561	0565	4811104
 pb	562	0566	4811105
 pb	[s. pag.]	0567	4811106
 entry	Table des principaux articles contenus dans le septième volume	0	
+orth	Table des principaux articles contenus dans le septième volume		
 pb	[s. pag.]	0568	4811107
 entry	Distribution des matières	0	
+orth	Distribution des matières		

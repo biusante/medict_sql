@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4519852
 pb	1	0005	4519853
 entry	Dermatoses (suite)	0	
+orth	Dermatoses (suite)		
 entry	Dermatoses (suite). Symptomatologie [E. Bazin]	46	
 orth	Dermatoses (suite). Symptomatologie		
 pb	2	0006	4519854
@@ -55,6 +56,7 @@ pb	45	0049	4519897
 pb	46	0050	4519898
 pb	47	0051	4519899
 entry	Séméiotique	0	
+orth	Séméiotique		
 entry	Dermatoses (suite). Séméiotique. Diagnostic des symptômes [E. Bazin]	24	
 orth	Dermatoses (suite). Séméiotique. Diagnostic des symptômes		
 pb	48	0052	4519900
@@ -82,6 +84,7 @@ pb	69	0073	4519921
 pb	70	0074	4519922
 pb	71	0075	4519923
 entry	Valeur du symptôme dans le diagnostic et le pronostic des maladies	0	
+orth	Valeur du symptôme dans le diagnostic et le pronostic des maladies		
 entry	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires [E. Bazin]	10	
 orth	Dermatoses (suite). Séméiotique. Valeur du symptôme dans le diagnostic et le pronostic des maladies. Valeur diagnostique des symptômes organiques élémentaires		
 pb	72	0076	4519924
@@ -107,6 +110,7 @@ pb	89	0093	4519941
 pb	90	0094	4519942
 pb	91	0095	4519943
 entry	Dermatoses (suite)	0	
+orth	Dermatoses (suite)		
 entry	Dermatoses (suite). Indications thérapeutiques [E. Bazin]	50	
 orth	Dermatoses (suite). Indications thérapeutiques		
 pb	92	0096	4519944
@@ -160,6 +164,7 @@ pb	139	0143	4519991
 pb	140	0144	4519992
 pb	141	0145	4519993
 entry	Dermatoses	0	
+orth	Dermatoses		
 entry	Dermatoses. Anatomie pathologique générale [J. Renaut]	126	
 orth	Dermatoses. Anatomie pathologique générale		
 pb	142	0146	4519994
@@ -290,11 +295,13 @@ pb	266	0270	4520118
 pb	267	0271	4520119
 pb	268	0272	4520120
 entry	Derme	0	
+orth	Derme		
 ref	Peau		
 entry	Derminés [Ed. Lefèvre]	1	
 orth	Derminés		
 pb	269	0273	4520121
 entry	Dermochélius	0	
+orth	Dermochélius		
 ref	Dermatochélys		
 entry	Dermocymes [O. Larcher]	0	
 orth	Dermocymes		
@@ -320,8 +327,10 @@ pb	272	0276	4520124
 entry	Des Aguliers (Jean-Théophile) [L. Hahn] (bibliographie)	0	
 orth	Des Aguliers (Jean-Théophile)		
 entry	Désarticulation	0	
+orth	Désarticulation		
 ref	Amputation		
 entry	Désassimilation	0	
+orth	Désassimilation		
 ref	Nutrition		
 entry	Desault (Les) [A. Chéreau]	2	
 orth	Desault (Les)		
@@ -388,6 +397,7 @@ pb	290	0294	4520142
 entry	Descuret (Jean-Baptiste-Félix) [A. Chéreau] (bibliographie)	0	
 orth	Descuret (Jean-Baptiste-Félix)		
 entry	Désert	0	
+orth	Désert		
 ref	Géographie médicale		
 entry	Désessarts (Jean-Louis) [A. Chéreau]	0	
 orth	Désessarts (Jean-Louis)		
@@ -420,6 +430,7 @@ orth	Deshayes (Les)
 entry	Desiderius [L. Hahn]	0	
 orth	Desiderius		
 entry	Désinfectants, Désinfection	0	
+orth	Désinfectants, Désinfection		
 entry	Désinfectants, Désinfection. Définition et historique [E. Vallin, A. Gérardin]	5	
 orth	Désinfectants, Désinfection. Définition et historique		
 pb	299	0303	4520151
@@ -428,6 +439,7 @@ pb	301	0305	4520153
 pb	302	0306	4520154
 pb	303	0307	4520155
 entry	Désinfectants	0	
+orth	Désinfectants		
 entry	Désinfectants, Désinfection. Désinfectants. Moyens mécaniques [E. Vallin, A. Gérardin]	1	
 orth	Désinfectants, Désinfection. Désinfectants. Moyens mécaniques		
 pb	304	0308	4520156
@@ -486,6 +498,7 @@ pb	350	0354	4520202
 pb	351	0355	4520203
 pb	352	0356	4520204
 entry	Désinfection	0	
+orth	Désinfection		
 entry	Désinfectants, Désinfection. Désinfection. Désinfection nosocomiale [E. Vallin, A. Gérardin]	7	
 orth	Désinfectants, Désinfection. Désinfection. Désinfection nosocomiale		
 pb	353	0357	4520205
@@ -572,6 +585,7 @@ entry	Des Innocens (G.) [A. Chéreau]	1
 orth	Des Innocens (G.)		
 pb	407	0411	4520259
 entry	Désis	0	
+orth	Désis		
 ref	Araignées		
 entry	Des Jardins (Jean) [A. Chéreau]	1	
 orth	Des Jardins (Jean)		
@@ -631,6 +645,7 @@ orth	Desnoues (Guillaume)
 entry	Désobstruants (Médicaments) [Amédée Dechambre]	0	
 orth	Désobstruants (Médicaments)		
 entry	Désorganisation	0	
+orth	Désorganisation		
 ref	Organisation		
 entry	Désormeaux (Marie-Alexandre) [A. Chéreau]	0	
 orth	Désormeaux (Marie-Alexandre)		
@@ -726,6 +741,7 @@ pb	453	0457	4520305
 entry	Detmold (Johann-Hermann) [A. Dureau] (bibliographie)	0	
 orth	Detmold (Johann-Hermann)		
 entry	Détroncation	0	
+orth	Détroncation		
 ref	Embryotomie		
 entry	Detten (Moritz) [L. Hahn]	0	
 orth	Detten (Moritz)		
@@ -811,6 +827,7 @@ pb	500	0504	4520352
 entry	Devèze (Jean) [L. Hahn] (bibliographie)	0	
 orth	Devèze (Jean)		
 entry	Déviation	0	
+orth	Déviation		
 entry	Tératologie [Amédée Dechambre]	0	
 orth	Tératologie		
 entry	Déviation. Pathologie [Amédée Dechambre]	1	
@@ -827,6 +844,7 @@ pb	503	0507	4520355
 entry	De Villiers, et non pas Devilliers (Les) [A. Chéreau] (bibliographie)	0	
 orth	De Villiers, et non pas Devilliers (Les)		
 entry	Devin	0	
+orth	Devin		
 ref	Divination		
 entry	Dewar (Henry) [L. Hahn]	0	
 orth	Dewar (Henry)		
@@ -843,6 +861,7 @@ orth	Dewhurst (Henry-William)
 entry	Dexippe ou Dioxippe [L. Hahn]	0	
 orth	Dexippe ou Dioxippe		
 entry	Dextrine	0	
+orth	Dextrine		
 entry	Dextrine. Chimie [Malaguti]	1	
 orth	Dextrine. Chimie		
 pb	506	0510	4520358
@@ -896,6 +915,7 @@ pb	525	0529	4520377
 entry	D'Hombres Firmas (Louis-Augustin) [L. Hahn] (bibliographie)	0	
 orth	D'Hombres Firmas (Louis-Augustin)		
 entry	Diabète	0	
+orth	Diabète		
 entry	Définition et division du sujet [E. Demange]	0	
 orth	Définition et division du sujet		
 entry	Diabète. Diabète sucré [E. Demange]	122	
@@ -1068,6 +1088,7 @@ pb	682	0686	4520534
 entry	Diabétomètre [Amédée Dechambre]	0	
 orth	Diabétomètre		
 entry	Diable	0	
+orth	Diable		
 ref	Démon		
 entry	Diable-au-corps [Amédée Dechambre]	0	
 orth	Diable-au-corps		
@@ -1080,8 +1101,10 @@ orth	Diacarthame
 entry	Diacaryon [Amédée Dechambre]	0	
 orth	Diacaryon		
 entry	Diacatholicon	0	
+orth	Diacatholicon		
 ref	Catholicon		
 entry	Diacétamide	0	
+orth	Diacétamide		
 ref	Acétamide		
 ref	Amide		
 entry	Di-acétylène [C. Lutz]	1	
@@ -1147,6 +1170,7 @@ pb	704	0708	4520556
 entry	Diamant [Malaguti]	0	
 orth	Diamant		
 entry	Diamides	0	
+orth	Diamides		
 ref	Amides		
 pb	705	0709	4520557
 entry	Diamorum [Amédée Dechambre]	0	
@@ -1165,6 +1189,7 @@ orth	Diamylvaléral
 entry	Diannyère (Les deux) [L. Hahn]	0	
 orth	Diannyère (Les deux)		
 entry	Dianthus	0	
+orth	Dianthus		
 ref	Oeillet		
 entry	Diapalme (Emplâtre) [Amédée Dechambre]	0	
 orth	Diapalme (Emplâtre)		
@@ -1186,5 +1211,6 @@ orth	Diaphorétiques
 pb	[s. pag.]	0716	4520564
 pb	713	0717	4520565
 entry	Articles contenus dans le vingt-huitième volume premère série	2	
+orth	Articles contenus dans le vingt-huitième volume premère série		
 pb	713	0718	4520566
 pb	714	0719	4520567

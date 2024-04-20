@@ -6,8 +6,11 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4566880
 pb	1	0005	4566881
 entry	Musculaire (Tissu)	0	
+orth	Musculaire (Tissu)		
 entry	Pathologie (suite)	0	
+orth	Pathologie (suite)		
 entry	Pathologie spéciale	0	
+orth	Pathologie spéciale		
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive [Georges Hayem]	59	
 orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Atrophie musculaire progressive		
 pb	2	0006	4566882
@@ -77,6 +80,7 @@ pb	63	0067	4566943
 pb	64	0068	4566944
 pb	65	0069	4566945
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale	0	
+orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale		
 entry	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique [A. Kelsch]	4	
 orth	Musculaire (Tissu). Pathologie (suite). Pathologie spéciale. Paralysie pseudo-hypertrophique ou myo-sclérosique		
 pb	66	0070	4566946
@@ -161,18 +165,25 @@ pb	124	0128	4567004
 pb	125	0129	4567005
 pb	126	0130	4567006
 entry	Musculaire de la cuisse (Artère)	0	
+orth	Musculaire de la cuisse (Artère)		
 ref	Crurale (Artère)		
 entry	Musculaires supérieure et inférieure (Artères)	0	
+orth	Musculaires supérieure et inférieure (Artères)		
 ref	Ophthalmiques		
 entry	Musculine ou Syntonine	0	
+orth	Musculine ou Syntonine		
 ref	Musculaire (Tissu)		
 entry	Musculo-cutané du bras (Nerf)	0	
+orth	Musculo-cutané du bras (Nerf)		
 ref	Brachial (Plexus)		
 entry	Musculo-cutané de la jambe (Nerf)	0	
+orth	Musculo-cutané de la jambe (Nerf)		
 ref	Poplité externe (Nerf)		
 entry	Musculo-cutanés de la cuisse interne et externe (Nerfs)	0	
+orth	Musculo-cutanés de la cuisse interne et externe (Nerfs)		
 ref	Crural (Nerf)		
 entry	Musculo-phrénique (Artère)	0	
+orth	Musculo-phrénique (Artère)		
 ref	Mammaire interne		
 entry	Musénine [Ch. Schützenberger]	0	
 orth	Musénine		
@@ -219,6 +230,7 @@ pb	152	0156	4567032
 entry	Musitano (Carlo) [E. Beaugrand] (bibliographie)	0	
 orth	Musitano (Carlo)		
 entry	Muskhogees (Les)	0	
+orth	Muskhogees (Les)		
 ref	Amérique		
 entry	Mussitation [Amédée Dechambre]	0	
 orth	Mussitation		
@@ -271,9 +283,11 @@ orth	Muzel (Fréderic-Hermann-Louis)
 entry	Myagrum [G. Planchon]	0	
 orth	Myagrum		
 entry	Mycélium	0	
+orth	Mycélium		
 ref	Achorion		
 ref	Champignons		
 entry	Mycenés	0	
+orth	Mycenés		
 ref	Agaric		
 entry	Mycétome [Alexandre Layet]	4	
 orth	Mycétome		
@@ -293,8 +307,10 @@ pb	179	0183	4567059
 entry	Mycoderme [J. de Seynes] (bibliographie)	0	
 orth	Mycoderme		
 entry	Mycoglycose	0	
+orth	Mycoglycose		
 ref	Mycose		
 entry	Mycoïdes	0	
+orth	Mycoïdes		
 ref	Champignons		
 entry	Mycomélique (Acide) [Schützenberger]	1	
 orth	Mycomélique (Acide)		
@@ -344,6 +360,7 @@ pb	214	0218	4567094
 entry	Myéline [Amédée Dechambre]	0	
 orth	Myéline		
 entry	Myélite	0	
+orth	Myélite		
 ref	Moelle		
 entry	Myélocone [Amédée Dechambre]	0	
 orth	Myélocone		
@@ -377,6 +394,7 @@ pb	223	0227	4567103
 entry	Myiodopsie [Giraud-Teulon] (bibliographie)	0	
 orth	Myiodopsie		
 entry	Myitis	0	
+orth	Myitis		
 ref	Musculaire (Tissu)		
 entry	Mylabre [A. Laboulbène]	1	
 orth	Mylabre		
@@ -391,16 +409,20 @@ entry	Mylo-hyoïdien (Muscle) [Amédée Dechambre]	0
 orth	Mylo-hyoïdien (Muscle)		
 pb	225	0229	4567105
 entry	Mylo-hyoïdien (Nerf)	0	
+orth	Mylo-hyoïdien (Nerf)		
 ref	Maxillaire inférieur		
 entry	Mynors (Robert) [A. Chéreau] (bibliographie)	0	
 orth	Mynors (Robert)		
 entry	Myocardite	0	
+orth	Myocardite		
 ref	Cardite		
 entry	Myochronoscope [Amédée Dechambre]	0	
 orth	Myochronoscope		
 entry	Myodopsie	0	
+orth	Myodopsie		
 ref	Myiodopsie		
 entry	Myodynie	0	
+orth	Myodynie		
 ref	Musculaire (Tissu)		
 entry	Myognathe [O. Larcher]	0	
 orth	Myognathe		
@@ -512,6 +534,7 @@ pb	308	0312	4567188
 entry	Myoschylos [G. Planchon] (bibliographie)	0	
 orth	Myoschylos		
 entry	Myosine	0	
+orth	Myosine		
 ref	Musculaire (tissu)		
 entry	Myosis [Giraud-Teulon]	3	
 orth	Myosis		
@@ -521,8 +544,10 @@ pb	311	0315	4567191
 entry	Myosotis [G. Planchon] (bibliographie)	0	
 orth	Myosotis		
 entry	Myosurus	0	
+orth	Myosurus		
 ref	Ratoncule		
 entry	Myotomie	0	
+orth	Myotomie		
 ref	Ténotomie		
 pb	312	0316	4567192
 entry	Myracanthos [G. Planchon]	0	
@@ -555,8 +580,10 @@ orth	Myricique (Alcool)
 entry	Myriophyllum [G. Planchon]	0	
 orth	Myriophyllum		
 entry	Myristates	0	
+orth	Myristates		
 ref	Myristique (Acide)		
 entry	Myristica	0	
+orth	Myristica		
 ref	Muscadier		
 entry	Myristine [Schützenberger]	0	
 orth	Myristine		
@@ -566,6 +593,7 @@ pb	320	0324	4567200
 entry	Myristone [Schützenberger]	0	
 orth	Myristone		
 entry	Myrmécie	0	
+orth	Myrmécie		
 ref	Araignées		
 entry	Myrmécobie [Paul Gervais]	0	
 orth	Myrmécobie		
@@ -580,6 +608,7 @@ orth	Myrobalans
 entry	Myrolés [Amédée Dechambre]	0	
 orth	Myrolés		
 entry	Myronates	0	
+orth	Myronates		
 ref	Myronique (acide)		
 entry	Myronique (Acide) [Schützenberger]	0	
 orth	Myronique (Acide)		
@@ -595,6 +624,7 @@ orth	Myroxylon
 entry	Myroxocarpine [Schützenberger]	0	
 orth	Myroxocarpine		
 entry	Myrrhe	0	
+orth	Myrrhe		
 entry	Myrrhe. Matière médicale et Pharmacologie [J. Delioux de Savignac]	4	
 orth	Myrrhe. Matière médicale et Pharmacologie		
 pb	324	0328	4567204
@@ -621,6 +651,7 @@ pb	334	0338	4567214
 entry	Myrtacées [G. Planchon] (bibliographie)	0	
 orth	Myrtacées		
 entry	Myrte	0	
+orth	Myrte		
 entry	Myrte. Botanique [G. Planchon] (bibliographie)	1	
 orth	Myrte. Botanique		
 pb	335	0339	4567215
@@ -635,14 +666,17 @@ pb	341	0345	4567221
 entry	Myrtiforme (Muscle) [Amédée Dechambre]	0	
 orth	Myrtiforme (Muscle)		
 entry	Myrtiforme (Caroncule)	0	
+orth	Myrtiforme (Caroncule)		
 ref	Vagin		
 entry	Myrtille	0	
+orth	Myrtille		
 ref	Airelle		
 entry	Mytilidés [Paul Gervais]	0	
 orth	Mytilidés		
 entry	Myxine [Paul Gervais]	0	
 orth	Myxine		
 entry	Myxogastres	0	
+orth	Myxogastres		
 ref	Myxomycètes		
 pb	342	0346	4567222
 entry	Myxome [Albert Hénocque]	5	
@@ -663,6 +697,7 @@ orth	Myxomycètes
 entry	Myzostomes [Paul Gervais]	0	
 orth	Myzostomes		
 entry	Addenda	0	
+orth	Addenda		
 entry	Addenda. Mancône (Écorce de) [Amédée Dechambre]	1	
 orth	Addenda. Mancône (Écorce de)		
 pb	350	0354	4567230
@@ -691,12 +726,14 @@ entry	Nabias (Eau minérale de) [A. Rotureau]	1
 orth	Nabias (Eau minérale de)		
 pb	360	0364	4567240
 entry	Naboth (Glandes, Nerfs de)	0	
+orth	Naboth (Glandes, Nerfs de)		
 ref	Utérus		
 entry	Nachet (Louis-Isidore) [A. Chéreau]	0	
 orth	Nachet (Louis-Isidore)		
 entry	Nacquart (Jean-Baptiste) [E. Beaugrand] (bibliographie)	0	
 orth	Nacquart (Jean-Baptiste)		
 entry	Nacre	0	
+orth	Nacre		
 entry	Nacre. Zoologie [Paul Gervais]	1	
 orth	Nacre. Zoologie		
 pb	361	0365	4567241
@@ -720,6 +757,7 @@ orth	Naegele (Franz-Carl)
 entry	Naeve (Les) [A. Dureau]	0	
 orth	Naeve (Les)		
 entry	Naevus Maternus	0	
+orth	Naevus Maternus		
 entry	Naevus Maternus. Pathologie [O. Larcher]	10	
 orth	Naevus Maternus. Pathologie		
 pb	369	0373	4567249
@@ -738,6 +776,7 @@ orth	Naevus Maternus. Pathologie
 pb	380	0384	4567260
 pb	381	0385	4567261
 entry	Médecine légale	0	
+orth	Médecine légale		
 ref	Identité		
 entry	Naga-Musadie [G. Planchon]	0	
 orth	Naga-Musadie		
@@ -751,15 +790,18 @@ orth	Nagas ou Naghas
 entry	Nagel (Les) [L. Hahn]	0	
 orth	Nagel (Les)		
 entry	Nagences	0	
+orth	Nagences		
 ref	Araignées		
 entry	Nagesur ou Nag-Kesar [Amédée Dechambre]	0	
 orth	Nagesur ou Nag-Kesar		
 pb	383	0387	4567263
 entry	Nain	0	
+orth	Nain		
 ref	Nanisme		
 entry	Naïs [Paul Gervais]	0	
 orth	Naïs		
 entry	Naissances	0	
+orth	Naissances		
 ref	Natalité		
 entry	Naja [Paul Gervais]	0	
 orth	Naja		
@@ -773,6 +815,7 @@ orth	Nalugn
 entry	Namias (Giacinto) [L. Hahn]	0	
 orth	Namias (Giacinto)		
 entry	Namollos (Tribu de l'Asie septentrionale)	0	
+orth	Namollos (Tribu de l'Asie septentrionale)		
 ref	Asie		
 pb	385	0389	4567265
 entry	Nancrède (Joseph G.) [L. Hahn] (bibliographie)	0	
@@ -780,8 +823,10 @@ orth	Nancrède (Joseph G.)
 entry	Nancy (Eau minérale de) [A. Rotureau]	0	
 orth	Nancy (Eau minérale de)		
 entry	Nancy (Boules de)	0	
+orth	Nancy (Boules de)		
 ref	Boules		
 entry	Nandhicoba	0	
+orth	Nandhicoba		
 ref	Nhandicoba		
 entry	Nandi-Ervatam [G. Planchon]	0	
 orth	Nandi-Ervatam		
@@ -802,6 +847,7 @@ pb	391	0395	4567271
 entry	Nanisme [V. de Rochas] (bibliographie)	0	
 orth	Nanisme		
 entry	Nannari	0	
+orth	Nannari		
 ref	Nunnari		
 entry	Nannoni (Les deux) [A. Chéreau]	0	
 orth	Nannoni (Les deux)		
@@ -821,6 +867,7 @@ pb	396	0400	4567276
 entry	Nanomélie [O. Larcher] (bibliographie)	0	
 orth	Nanomélie		
 entry	Nanscond (Les) (Naturels de la Colombie britannique)	0	
+orth	Nanscond (Les) (Naturels de la Colombie britannique)		
 ref	Britanniques (Possessions)		
 entry	Napée [G. Planchon]	0	
 orth	Napée		
@@ -828,6 +875,7 @@ pb	397	0401	4567277
 entry	Napée [G. Planchon] (bibliographie)	0	
 orth	Napée		
 entry	Napel	0	
+orth	Napel		
 ref	Aconit		
 entry	Napelline (Chimie) [C. Lutz]	0	
 orth	Napelline (Chimie)		
@@ -835,8 +883,10 @@ entry	Naphtalhydrures [C. Lutz]	0
 orth	Naphtalhydrures		
 pb	398	0402	4567278
 entry	Naphtalidine	0	
+orth	Naphtalidine		
 ref	Naphtylamine		
 entry	Naphtaline	0	
+orth	Naphtaline		
 entry	Naphtaline. Chimie [C. Lutz]	1	
 orth	Naphtaline. Chimie		
 pb	399	0403	4567279
@@ -850,7 +900,9 @@ orth	Naphtaméine
 entry	Naphtase [C. Lutz]	0	
 orth	Naphtase		
 entry	Naphte	0	
+orth	Naphte		
 entry	Chimie	0	
+orth	Chimie		
 ref	Pétrole		
 entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
@@ -862,6 +914,7 @@ orth	Naphténique (Acide)
 entry	Naphténique (Alcool) [C. Lutz]	0	
 orth	Naphténique (Alcool)		
 entry	Naphthydrène	0	
+orth	Naphthydrène		
 ref	Naphtalhydrures		
 entry	Naphtionique (Acide) [C. Lutz]	1	
 orth	Naphtionique (Acide)		
@@ -892,6 +945,7 @@ entry	Naphtyldiamine ou mieux Naphtylène diamine [C. Lutz]	1
 orth	Naphtyldiamine ou mieux Naphtylène diamine		
 pb	409	0413	4567289
 entry	Napitèles	0	
+orth	Napitèles		
 ref	Araignées		
 entry	Naples (Eaux minérales, Station marine et hivernale) [A. Rotureau]	2	
 orth	Naples (Eaux minérales, Station marine et hivernale)		
@@ -901,11 +955,13 @@ pb	412	0416	4567292
 entry	Naples (Eaux minérales, Station marine et hivernale) [A. Rotureau] (bibliographie)	0	
 orth	Naples (Eaux minérales, Station marine et hivernale)		
 entry	Napolitain (Onguent)	0	
+orth	Napolitain (Onguent)		
 ref	Mercure		
 ref	Onguent		
 entry	Napus [G. Planchon]	0	
 orth	Napus		
 entry	Narcéine	0	
+orth	Narcéine		
 entry	Narcéine. Chimie [T. Gobley]	1	
 orth	Narcéine. Chimie		
 pb	413	0417	4567293
@@ -919,6 +975,7 @@ pb	416	0420	4567296
 pb	417	0421	4567297
 pb	418	0422	4567298
 entry	Toxicologie	0	
+orth	Toxicologie		
 ref	Opium		
 entry	Narcétine [T. Gobley]	1	
 orth	Narcétine		
@@ -929,31 +986,39 @@ pb	420	0424	4567300
 entry	Narcisse [G. Planchon] (bibliographie)	0	
 orth	Narcisse		
 entry	Narcissine	0	
+orth	Narcissine		
 ref	Narcisse		
 entry	Narcogénine	0	
+orth	Narcogénine		
 ref	Cotartine		
 entry	Narcotico-acre	0	
+orth	Narcotico-acre		
 ref	Narcotique		
 entry	Narcotine	0	
+orth	Narcotine		
 entry	Narcotine. Chimie [T. Gobley]	2	
 orth	Narcotine. Chimie		
 pb	421	0425	4567301
 pb	422	0426	4567302
 pb	423	0427	4567303
 entry	Narcotine	0	
+orth	Narcotine		
 entry	Pharmacologie [T. Gobley]	0	
 orth	Pharmacologie		
 entry	Narcotine. Thérapeutique [Fonssagrives]	1	
 orth	Narcotine. Thérapeutique		
 pb	424	0428	4567304
 entry	Toxicologie	0	
+orth	Toxicologie		
 ref	Opium		
 entry	Narcotinique (Acide) [T. Gobley]	0	
 orth	Narcotinique (Acide)		
 entry	Narcotiques	0	
+orth	Narcotiques		
 ref	Hypnotiques		
 ref	Stupéfiants		
 entry	Narcotisme	0	
+orth	Narcotisme		
 ref	Opium		
 ref	Stupéfiants		
 entry	Nard [G. Planchon]	0	
@@ -969,6 +1034,7 @@ orth	Nardostachys
 entry	Nardus [G. Planchon]	0	
 orth	Nardus		
 entry	Narines	0	
+orth	Narines		
 ref	Nasale (Région)		
 ref	Nez		
 entry	Narthécine [Amédée Dechambre]	0	
@@ -983,8 +1049,10 @@ entry	Narval [Paul Gervais]	1
 orth	Narval		
 pb	427	0431	4567307
 entry	Nasal (Nerf)	0	
+orth	Nasal (Nerf)		
 ref	Ophthalmique (Nerf)		
 entry	Nasale (Région)	0	
+orth	Nasale (Région)		
 entry	Nasale (Région). Anatomie [Dolbeau]	9	
 orth	Nasale (Région). Anatomie		
 pb	428	0432	4567308
@@ -997,6 +1065,7 @@ pb	434	0438	4567314
 pb	435	0439	4567315
 pb	436	0440	4567316
 entry	Physiologie	0	
+orth	Physiologie		
 ref	Olfactif (Nerf)		
 ref	Olfaction		
 ref	Voix		
@@ -1015,16 +1084,21 @@ pb	442	0446	4567322
 entry	Nasitar, Nasitor ou Nasitort [G. Planchon]	0	
 orth	Nasitar, Nasitor ou Nasitort		
 entry	Naso-lobaire (Artère)	0	
+orth	Naso-lobaire (Artère)		
 ref	Maxillaire externe (Artère)		
 entry	Naso-lobaire (Nerf)	0	
+orth	Naso-lobaire (Nerf)		
 ref	Ophthalmique (Nerf)		
 entry	Nasonnement	0	
+orth	Nasonnement		
 ref	Nasillement		
 entry	Naso-palatin (Ganglion) [Amédée Dechambre]	0	
 orth	Naso-palatin (Ganglion)		
 entry	Naso-palatin (Nerf)	0	
+orth	Naso-palatin (Nerf)		
 ref	Maxillaire supérieur (Nerf)		
 entry	Naso-pharyngien (Polypes)	0	
+orth	Naso-pharyngien (Polypes)		
 ref	Nasale (Région)		
 entry	Nasse (Les) [A. Dureau] (bibliographie)	2	
 orth	Nasse (Les)		
@@ -1035,6 +1109,7 @@ orth	Nasturtium
 entry	Natali (Giovanni) [A. Dureau]	0	
 orth	Natali (Giovanni)		
 entry	Natalité	0	
+orth	Natalité		
 entry	Natalité. Démographie [Jacques Bertillon]	47	
 orth	Natalité. Démographie		
 pb	445	0449	4567325
@@ -1135,6 +1210,7 @@ entry	Natation [A. Tartivel]	1
 orth	Natation		
 pb	531	0535	4567411
 entry	Natchez (Les)	0	
+orth	Natchez (Les)		
 ref	Amérique		
 entry	Nates (Fesses) [Amédée Dechambre]	0	
 orth	Nates (Fesses)		
@@ -1468,5 +1544,6 @@ pb	816	0820	4567696
 pb	817	0821	4567697
 pb	818	0822	4567698
 entry	Articles contenus dans le onzième volume (2e série)	2	
+orth	Articles contenus dans le onzième volume (2e série)		
 pb	819	0823	4567699
 pb	820	0824	4567700

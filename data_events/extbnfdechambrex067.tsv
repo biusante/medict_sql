@@ -6,8 +6,10 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4570128
 pb	1	0005	4570129
 entry	Olfactif (Nerf)	0	
+orth	Olfactif (Nerf)		
 ref	Olfaction		
 entry	Olfaction (Appareil et fonction de l')	0	
+orth	Olfaction (Appareil et fonction de l')		
 entry	Olfaction (Appareil et fonction de l'). Anatomie [François Franck]	59	
 orth	Olfaction (Appareil et fonction de l'). Anatomie		
 pb	2	0006	4570130
@@ -148,6 +150,7 @@ orth	Ölhaf (Joachim)
 entry	Oelhaf (Niklaus) [L. Hahn]	0	
 orth	Oelhaf (Niklaus)		
 entry	Oliban	0	
+orth	Oliban		
 ref	Encens		
 entry	Olidinique (Acide) [Malaguti]	0	
 orth	Olidinique (Acide)		
@@ -159,12 +162,15 @@ entry	Olinique (Acide) [Malaguti]	1
 orth	Olinique (Acide)		
 pb	123	0127	4570251
 entry	Olipes (Les)	0	
+orth	Olipes (Les)		
 ref	Amérique		
 entry	Oliva	0	
+orth	Oliva		
 ref	Médecin-femme		
 entry	Oliva ou Uliva (Antonio) [L. Hahn]	0	
 orth	Oliva ou Uliva (Antonio)		
 entry	Olivaires (Corps)	0	
+orth	Olivaires (Corps)		
 ref	Moelle		
 entry	Olivares (Les) [L. Hahn] (bibliographie)	0	
 orth	Olivares (Les)		
@@ -183,6 +189,7 @@ pb	125	0129	4570253
 entry	Oliver (Les) [L. Hahn] (bibliographie)	0	
 orth	Oliver (Les)		
 entry	Olivier	0	
+orth	Olivier		
 entry	Olivier. Botanique [G. Planchon] (bibliographie)	1	
 orth	Olivier. Botanique		
 pb	126	0130	4570254
@@ -223,6 +230,7 @@ pb	136	0140	4570264
 entry	Olmade (J.-F.) [L. Hahn] (bibliographie)	0	
 orth	Olmade (J.-F.)		
 entry	Olmèques (Les)	0	
+orth	Olmèques (Les)		
 ref	Mexique		
 entry	Olmi (A.) [L. Hahn]	0	
 orth	Olmi (A.)		
@@ -251,6 +259,7 @@ pb	140	0144	4570268
 entry	Ombellifères [G. Planchon] (bibliographie)	0	
 orth	Ombellifères		
 entry	Ombilic	0	
+orth	Ombilic		
 entry	Ombilic. Anatomie [E. Nicaise]	5	
 orth	Ombilic. Anatomie		
 pb	141	0145	4570269
@@ -393,8 +402,10 @@ pb	261	0265	4570389
 pb	262	0266	4570390
 pb	263	0267	4570391
 entry	Ombilical (Anneau)	0	
+orth	Ombilical (Anneau)		
 ref	Ombilic (Anatomie)		
 entry	Ombilical (Cordon)	0	
+orth	Ombilical (Cordon)		
 ref	Cordon		
 entry	Ombilicale (Artère) [E. Nicaise]	0	
 orth	Ombilicale (Artère)		
@@ -403,6 +414,7 @@ orth	Ombilicale (Veine)
 pb	264	0268	4570392
 pb	265	0269	4570393
 entry	Ombilicale (Vésicule)	0	
+orth	Ombilicale (Vésicule)		
 ref	Oeuf		
 ref	Vésicule		
 entry	Ombrelle [Ed. Lefèvre]	1	
@@ -418,6 +430,7 @@ orth	Omenapo-Yeima
 entry	Omichmyle (Oxyde d') [L. Hahn]	0	
 orth	Omichmyle (Oxyde d')		
 entry	Ommastrephes	0	
+orth	Ommastrephes		
 ref	Oigopsidés		
 entry	Omoboni (Giuseppe) [L. Hahn]	0	
 orth	Omoboni (Giuseppe)		
@@ -430,6 +443,7 @@ entry	Omo-hyoïdien (Muscle) [J. Chauvel]	1
 orth	Omo-hyoïdien (Muscle)		
 pb	269	0273	4570397
 entry	Omoplate	0	
+orth	Omoplate		
 entry	Omoplate. Anatomie [J. Chauvel]	3	
 orth	Omoplate. Anatomie		
 pb	270	0274	4570398
@@ -445,6 +459,7 @@ entry	Omoplate. Physiologie [J. Chauvel]	1
 orth	Omoplate. Physiologie		
 pb	275	0279	4570403
 entry	Pathologie	0	
+orth	Pathologie		
 entry	Omoplate. Pathologie. Lésions traumatiques. Fractures [J. Chauvel]	34	
 orth	Omoplate. Pathologie. Lésions traumatiques. Fractures		
 pb	276	0280	4570404
@@ -530,6 +545,7 @@ orth	Omoplate. Médecine opératoire
 pb	350	0354	4570478
 pb	351	0355	4570479
 entry	Omoplato-hyoïdien	0	
+orth	Omoplato-hyoïdien		
 ref	Omo-hyoïden		
 entry	Omoplatoscopie ou Scapuloscopie [Amédée Dechambre]	0	
 orth	Omoplatoscopie ou Scapuloscopie		
@@ -545,6 +561,7 @@ orth	Omphacine
 entry	Omphacite [G. Planchon]	0	
 orth	Omphacite		
 entry	Omphalea	0	
+orth	Omphalea		
 ref	Omphalier		
 entry	Omphalier [H. Baillon]	0	
 orth	Omphalier		
@@ -554,12 +571,14 @@ orth	Omphalier
 entry	Omphalocarpos, Omphalocarpon [H. Baillon]	0	
 orth	Omphalocarpos, Omphalocarpon		
 entry	Omphalocèle	0	
+orth	Omphalocèle		
 ref	Ombilical (Anneau)		
 entry	Omphalode [G. Planchon]	0	
 orth	Omphalode		
 entry	Omphalomancie [Amédée Dechambre]	0	
 orth	Omphalomancie		
 entry	Omphalo-mésentériques (Vaisseaux)	0	
+orth	Omphalo-mésentériques (Vaisseaux)		
 ref	Circulation		
 ref	OEuf		
 entry	Omphalosites [O. Larcher]	1	
@@ -571,6 +590,7 @@ orth	Omphalosites
 entry	Omphalosoter [Amédée Dechambre]	0	
 orth	Omphalosoter		
 entry	Onagraires	0	
+orth	Onagraires		
 ref	Onagrariées		
 entry	Onagrariées, Onagrariacées [H. Baillon]	0	
 orth	Onagrariées, Onagrariacées		
@@ -578,6 +598,7 @@ pb	358	0362	4570486
 entry	Onagrariées, Onagrariacées [H. Baillon] (bibliographie)	0	
 orth	Onagrariées, Onagrariacées		
 entry	Onagre (Botanique)	0	
+orth	Onagre (Botanique)		
 ref	Oenothère		
 entry	Onagre (Zoologie) [E. Oustalet]	1	
 orth	Onagre (Zoologie)		
@@ -629,8 +650,10 @@ orth	Oncus
 entry	Ondes [Amédée Dechambre]	0	
 orth	Ondes		
 entry	Onéirodynie	0	
+orth	Onéirodynie		
 ref	Cauchemar		
 entry	Onéiromancie	0	
+orth	Onéiromancie		
 ref	Divination		
 ref	Songes		
 entry	Onesti (Cristoforo) [E. Beaugrand, L. Hahn]	0	
@@ -639,6 +662,7 @@ pb	388	0392	4570516
 entry	Onesti (Cristoforo) [Beaugrand, L. Hahn] (bibliographie)	0	
 orth	Onesti (Cristoforo)		
 entry	Ongles	0	
+orth	Ongles		
 entry	Ongles. Anatomie et physiologie [G. Humbert]	11	
 orth	Ongles. Anatomie et physiologie		
 pb	389	0393	4570517
@@ -699,6 +723,7 @@ pb	429	0433	4570557
 entry	Onin, Onim [G. Planchon] (bibliographie)	0	
 orth	Onin, Onim		
 entry	Onirodynie	0	
+orth	Onirodynie		
 ref	Cauchemar		
 entry	Oniscides [Ed. Lefèvre]	1	
 orth	Oniscides		
@@ -715,14 +740,17 @@ entry	Onogeros ou Onogoros [G. Planchon]	0
 orth	Onogeros ou Onogoros		
 pb	431	0435	4570559
 entry	Onomancie	0	
+orth	Onomancie		
 ref	Divination		
 entry	Onondagas	0	
+orth	Onondagas		
 ref	Amérique		
 entry	Ononétine [Amédée Dechambre]	0	
 orth	Ononétine		
 entry	Ononine ou Formonétine [Amédée Dechambre]	0	
 orth	Ononine ou Formonétine		
 entry	Ononis	0	
+orth	Ononis		
 ref	Bugrane		
 entry	Onoporde ou Onopordone [G. Planchon] (bibliographie)	1	
 orth	Onoporde ou Onopordone		
@@ -753,12 +781,14 @@ pb	437	0441	4570565
 entry	Ontijd (Conrad-Gerhard) [L. Hahn] (bibliographie)	0	
 orth	Ontijd (Conrad-Gerhard)		
 entry	Onychoteuthis	0	
+orth	Onychoteuthis		
 ref	Oigopsidés		
 entry	Onygénés [Ed. Lefèvre]	0	
 orth	Onygénés		
 entry	Onyx [Amédée Dechambre]	0	
 orth	Onyx		
 entry	Onyxis ou ongle incarné	0	
+orth	Onyxis ou ongle incarné		
 ref	Ongle		
 entry	Oonin [C. Lutz]	0	
 orth	Oonin		
@@ -770,6 +800,7 @@ entry	Opalines [F. Henneguy]	1
 orth	Opalines		
 pb	438	0442	4570566
 entry	Opatas (Les)	0	
+orth	Opatas (Les)		
 ref	Mexique		
 entry	Opération [A. Courty]	187	
 orth	Opération		
@@ -964,6 +995,7 @@ pb	626	0630	4570754
 entry	Ophélia [Ed. Lefèvre]	0	
 orth	Ophélia		
 entry	Ophidiens	0	
+orth	Ophidiens		
 ref	Serpents		
 entry	Ophiobatraciens [E. Oustalet]	0	
 orth	Ophiobatraciens		
@@ -1002,6 +1034,7 @@ orth	Ophrys
 entry	Ophthalmica [Ed. Lefèvre]	0	
 orth	Ophthalmica		
 entry	Ophthalmie	0	
+orth	Ophthalmie		
 entry	Ophthalmie. Définition [E. Warlomont]	4	
 orth	Ophthalmie. Définition		
 pb	635	0639	4570763
@@ -1168,6 +1201,7 @@ pb	767	0771	4570895
 pb	768	0772	4570896
 pb	769	0773	4570897
 entry	Articles contenus dans le quinzième volume (2e série.)	2	
+orth	Articles contenus dans le quinzième volume (2e série.)		
 pb	770	0774	4570898
 pb	771	0775	4570899
 pb	[s. pag.]	0776	4570900

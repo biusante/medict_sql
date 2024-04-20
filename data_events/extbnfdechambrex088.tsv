@@ -69,7 +69,9 @@ pb	58	0062	4587022
 pb	59	0063	4587023
 pb	60	0064	4587024
 entry	Septicémie	0	
+orth	Septicémie		
 entry	Chirurgicale	0	
+orth	Chirurgicale		
 entry	Septicémie. Chirurgicale. Histoire et doctrines [J. Chauvel]	84	
 orth	Septicémie. Chirurgicale. Histoire et doctrines		
 pb	61	0065	4587025
@@ -253,6 +255,7 @@ orth	Septifolium
 entry	Septinervia [G. Planchon]	0	
 orth	Septinervia		
 entry	Septoménés	0	
+orth	Septoménés		
 ref	Septonémés		
 entry	Septomètre [F. Vallin]	0	
 orth	Septomètre		
@@ -266,6 +269,7 @@ orth	Septoria
 entry	Septum crurale [Amédée Dechambre]	0	
 orth	Septum crurale		
 entry	Septum Lucidum	0	
+orth	Septum Lucidum		
 ref	Cerveau		
 entry	Sépultures [Ch. Letourneau]	15	
 orth	Sépultures		
@@ -287,6 +291,7 @@ pb	244	0248	4587208
 entry	Sepulveda (Fernando de) [L. Hahn] (bibliographie)	0	
 orth	Sepulveda (Fernando de)		
 entry	Séquestres	0	
+orth	Séquestres		
 ref	Nécrose		
 ref	Os		
 entry	Serao (Francesco) [L. Hahn]	0	
@@ -297,6 +302,7 @@ orth	Serao (Francesco)
 entry	Sérapéon [Amédée Dechambre]	0	
 orth	Sérapéon		
 entry	Serapias	0	
+orth	Serapias		
 ref	Hélléborine		
 entry	Serapinum [G. Planchon]	0	
 orth	Serapinum		
@@ -319,10 +325,13 @@ pb	249	0253	4587213
 entry	Serenus Samonicus (Quintus) [L. Hahn] (bibliographie)	0	
 orth	Serenus Samonicus (Quintus)		
 entry	Sérères	0	
+orth	Sérères		
 ref	Sénégambie		
 entry	Séreuse	0	
+orth	Séreuse		
 ref	Séreux (Système)		
 entry	Séreux (Tissu et système)	0	
+orth	Séreux (Tissu et système)		
 entry	Séreux (Tissu et système). Anatomie [Ch. Robin, Cadiat]	54	
 orth	Séreux (Tissu et système). Anatomie		
 pb	250	0254	4587214
@@ -485,6 +494,7 @@ orth	Sermaize (Eau minérale de)
 entry	Serment [Amédée Dechambre]	0	
 orth	Serment		
 entry	Serment d'Hippocrate	0	
+orth	Serment d'Hippocrate		
 ref	Déontologie		
 entry	Sermontaine [G. Planchon]	0	
 orth	Sermontaine		
@@ -496,10 +506,12 @@ orth	Serna (Juan Galleco de la)
 entry	Séroline [L. Hahn]	0	
 orth	Séroline		
 entry	Sérosités	0	
+orth	Sérosités		
 ref	Séreux		
 entry	Sérotine [Amédée Dechambre]	0	
 orth	Sérotine		
 entry	Serpentaire	0	
+orth	Serpentaire		
 entry	Serpentaire. Botanique [G. Planchon]	1	
 orth	Serpentaire. Botanique		
 pb	374	0378	4587338
@@ -512,12 +524,15 @@ pb	378	0382	4587342
 entry	Serpentaire. Emploi médical [Ernest Labbée] (bibliographie)	0	
 orth	Serpentaire. Emploi médical		
 entry	Serpentaria	0	
+orth	Serpentaria		
 ref	Serpentaire		
 entry	Serpentarine [J. Regnault]	0	
 orth	Serpentarine		
 entry	Serpentarium Lignum	0	
+orth	Serpentarium Lignum		
 ref	Serpentaire		
 entry	Serpentin	0	
+orth	Serpentin		
 ref	Alambic		
 entry	Serpentine [G. Planchon]	0	
 orth	Serpentine		
@@ -573,6 +588,7 @@ orth	Serpigineux (Ulcère)
 entry	Serpolet [G. Planchon]	0	
 orth	Serpolet		
 entry	Serpules	0	
+orth	Serpules		
 ref	Spirorbes		
 entry	Serpyllum [G. Planchon]	0	
 orth	Serpyllum		
@@ -638,6 +654,7 @@ orth	Servet (Michel)
 entry	Servius (Petrus) [A. Dureau]	0	
 orth	Servius (Petrus)		
 entry	Sésame	0	
+orth	Sésame		
 entry	Sésame. Botanique [H. Baillon] (bibliographie)	1	
 orth	Sésame. Botanique		
 pb	435	0439	4587399
@@ -835,6 +852,7 @@ entry	Sherwen (John) [L. Hahn] (bibliographie)	1
 orth	Sherwen (John)		
 pb	510	0514	4587474
 entry	Shiennies (Les)	0	
+orth	Shiennies (Les)		
 ref	Amérique		
 entry	Shirley (Thomas) [L. Hahn]	0	
 orth	Shirley (Thomas)		
@@ -869,9 +887,11 @@ pb	520	0524	4587484
 pb	521	0525	4587485
 pb	522	0526	4587486
 entry	Sialorrhée	0	
+orth	Sialorrhée		
 ref	Salivaires (glandes)		
 ref	Mercure		
 entry	Siam (Royaume de)	0	
+orth	Siam (Royaume de)		
 ref	Indo-Chine		
 entry	Siami [G. Planchon] (bibliographie)	0	
 orth	Siami		
@@ -941,6 +961,7 @@ pb	567	0571	4587531
 entry	Sibylles [Amédée Dechambre]	0	
 orth	Sibylles		
 entry	Sicaire	0	
+orth	Sicaire		
 ref	Araignée		
 entry	Sichel (Jules) [A. Chéreau]	1	
 orth	Sichel (Jules)		
@@ -971,6 +992,7 @@ pb	573	0577	4587537
 entry	Sideritis [G. Planchon] (bibliographie)	0	
 orth	Sideritis		
 entry	Sidéromancie	0	
+orth	Sidéromancie		
 ref	Astrologie		
 ref	Divination		
 entry	Sideroxylon [G. Planchon]	0	
@@ -1005,6 +1027,7 @@ orth	Siegesbeck (Johann-Georg)
 entry	Siegesbeckia [G. Planchon]	0	
 orth	Siegesbeckia		
 entry	Sieglet (Les)	0	
+orth	Sieglet (Les)		
 ref	Zieglet		
 entry	Siemerling (Les) [L. Hahn]	0	
 orth	Siemerling (Les)		
@@ -1069,6 +1092,7 @@ orth	Sigault (Jean-René)
 entry	Sigault de Lafond [A. Chéreau]	0	
 orth	Sigault de Lafond		
 entry	Sigillée (Terre)	0	
+orth	Sigillée (Terre)		
 ref	Argile		
 entry	Sigillum Mariae ou Sigillum Beatae Mariae [G. Planchon]	0	
 orth	Sigillum Mariae ou Sigillum Beatae Mariae		
@@ -1106,10 +1130,12 @@ orth	Silénées
 entry	Siler [G. Planchon]	0	
 orth	Siler		
 entry	Silicates (Propriétés générales des)	0	
+orth	Silicates (Propriétés générales des)		
 entry	Silicates (Propriétés générales des). Chimie [Malaguti] (bibliographie)	1	
 orth	Silicates (Propriétés générales des). Chimie		
 pb	622	0626	4587586
 entry	Emploi	0	
+orth	Emploi		
 ref	Silicatisation		
 entry	Silicatisation [Servier]	7	
 orth	Silicatisation		
@@ -1121,6 +1147,7 @@ pb	627	0631	4587591
 pb	628	0632	4587592
 pb	629	0633	4587593
 entry	Silice	0	
+orth	Silice		
 ref	Silicique (Acide)		
 entry	Silicia [G. Planchon]	0	
 orth	Silicia		
@@ -1139,6 +1166,7 @@ pb	631	0635	4587595
 entry	Silicique (Acide) [Malaguti] (bibliographie)	0	
 orth	Silicique (Acide)		
 entry	Silicique (Éther)	0	
+orth	Silicique (Éther)		
 ref	Éthers		
 entry	Silicium [Malaguti]	2	
 orth	Silicium		
@@ -1168,6 +1196,7 @@ pb	636	0640	4587600
 entry	Silliman (Benjamin) [L. Hahn] (bibliographie)	0	
 orth	Silliman (Benjamin)		
 entry	Silos	0	
+orth	Silos		
 ref	Céréales		
 entry	Silphium [G. Planchon]	0	
 orth	Silphium		
@@ -1194,6 +1223,7 @@ pb	650	0654	4587614
 entry	Silure [E. Oustalet] (bibliographie)	0	
 orth	Silure		
 entry	Silures (Anthropologie)	0	
+orth	Silures (Anthropologie)		
 ref	France		
 entry	Silva (Jean-Baptiste) [A. Chéreau]	1	
 orth	Silva (Jean-Baptiste)		
@@ -1223,10 +1253,13 @@ pb	659	0663	4587623
 entry	Silybum [G. Planchon] (bibliographie)	0	
 orth	Silybum		
 entry	Simaba	0	
+orth	Simaba		
 ref	Cédron		
 entry	Simacks (Les)	0	
+orth	Simacks (Les)		
 ref	Asie		
 entry	Simarouba	0	
+orth	Simarouba		
 entry	Simarouba. Botanique [H. Baillon] (bibliographie)	1	
 orth	Simarouba. Botanique		
 pb	660	0664	4587624
@@ -1249,6 +1282,7 @@ entry	Siméon Seth [L. Leclerc]	1
 orth	Siméon Seth		
 pb	666	0670	4587630
 entry	Simiadés	0	
+orth	Simiadés		
 ref	Singes		
 entry	Simmons (Les) [L. Hahn] (bibliographie)	0	
 orth	Simmons (Les)		
@@ -1265,6 +1299,7 @@ entry	Simon (Saint-) (Eau minérale de) [A. Rotureau]	1
 orth	Simon (Saint-) (Eau minérale de)		
 pb	672	0676	4587636
 entry	Simonea	0	
+orth	Simonea		
 ref	Sarcoptides		
 entry	Simoni (Simon) [L. Hahn] (bibliographie)	0	
 orth	Simoni (Simon)		
@@ -1377,6 +1412,7 @@ pb	740	0744	4587704
 entry	Sinapique (Acide) [J. Regnauld]	0	
 orth	Sinapique (Acide)		
 entry	Sinapis	0	
+orth	Sinapis		
 ref	Moutarde		
 entry	Sinapisine [J. Regnauld]	0	
 orth	Sinapisine		
@@ -1454,12 +1490,14 @@ pb	775	0779	4587739
 entry	Sinsteden (Wilhelm-Joseph) [L. Hahn] (bibliographie)	0	
 orth	Sinsteden (Wilhelm-Joseph)		
 entry	Sintoc	0	
+orth	Sintoc		
 ref	Sindoc		
 entry	Sinus [Amédée Dechambre]	0	
 orth	Sinus		
 entry	Sion [G. Planchon]	0	
 orth	Sion		
 entry	Sioux (Les)	0	
+orth	Sioux (Les)		
 ref	Amérique		
 entry	Sipanea [G. Planchon]	0	
 orth	Sipanea		
@@ -1474,6 +1512,7 @@ orth	Siphon
 pb	778	0782	4587742
 pb	779	0783	4587743
 entry	Siphonia	0	
+orth	Siphonia		
 ref	Caoutchouc		
 ref	Hevea		
 entry	Siphonoma [Amédée Dechambre]	1	
@@ -1494,6 +1533,7 @@ entry	Siponcle [C. Davaine]	1
 orth	Siponcle		
 pb	784	0788	4587748
 entry	Sipopira	0	
+orth	Sipopira		
 entry	Siradan (Eaux minérales de) [A. Rotureau]	0	
 orth	Siradan (Eaux minérales de)		
 pb	785	0789	4587749
@@ -1516,6 +1556,7 @@ orth	Sireh
 pb	[s. pag.]	0796	4587756
 pb	793	0797	4587757
 entry	Articles contenus dans le neuvième volume (3e série)	2	
+orth	Articles contenus dans le neuvième volume (3e série)		
 pb	794	0798	4587758
 pb	795	0799	4587759
 pb	[s. pag.]	0800	4587760

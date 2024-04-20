@@ -6,11 +6,13 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	5556897
 pb	[s. pag.]	0005	406612
 entry	liste des souscripteurs	0	
+orth	liste des souscripteurs		
 pb	[s. pag.]	0006	406613
 pb	[s. pag.]	0007	406614
 pb	[s. pag.]	0008	406615
 pb	1	0009	406616
 entry	desséchement	6	
+orth	desséchement		
 pb	2	0010	406617
 pb	3	0011	406618
 pb	4	0012	406619
@@ -18,16 +20,22 @@ pb	5	0013	406620
 pb	6	0014	406621
 pb	7	0015	406622
 entry	dessiccatif	0	
+orth	dessiccatif		
 entry	dessiccation	3	
+orth	dessiccation		
 pb	8	0016	406623
 pb	9	0017	406624
 pb	10	0018	406625
 entry	désudation	1	
+orth	désudation		
 pb	11	0019	406626
 entry	détergent	0	
+orth	détergent		
 entry	détersif	1	
+orth	détersif		
 pb	12	0020	406627
 entry	détonation	15	
+orth	détonation		
 pb	13	0021	406628
 pb	14	0022	406629
 pb	15	0023	406630
@@ -44,11 +52,15 @@ pb	25	0033	406640
 pb	26	0034	406641
 pb	27	0035	406642
 entry	détorse	0	
+orth	détorse		
 entry	détroit	0	
+orth	détroit		
 entry	détroncation	2	
+orth	détroncation		
 pb	28	0036	406643
 pb	29	0037	406644
 entry	deutéropathie	10	
+orth	deutéropathie		
 pb	30	0038	406645
 pb	31	0039	406646
 pb	32	0040	406647
@@ -60,6 +72,7 @@ pb	37	0045	406652
 pb	38	0046	406653
 pb	39	0047	406654
 entry	développement	19	
+orth	développement		
 pb	40	0048	406655
 pb	41	0049	406656
 pb	42	0050	406657
@@ -80,6 +93,7 @@ pb	56	0064	406671
 pb	57	0065	406672
 pb	58	0066	406673
 entry	déviation	67	
+orth	déviation		
 pb	59	0067	406674
 pb	60	0068	406675
 pb	61	0069	406676
@@ -148,7 +162,9 @@ pb	123	0131	406738
 pb	124	0132	406739
 pb	125	0133	406740
 entry	dévoiement	0	
+orth	dévoiement		
 entry	diabètes	29	
+orth	diabètes		
 pb	126	0134	406741
 pb	127	0135	406742
 pb	128	0136	406743
@@ -179,27 +195,41 @@ pb	152	0160	406767
 pb	153	0161	406768
 pb	154	0162	406769
 entry	diablotin	4	
+orth	diablotin		
 pb	155	0163	406770
 pb	156	0164	406771
 pb	157	0165	406772
 pb	158	0166	406773
 entry	diabotanum	0	
+orth	diabotanum		
 entry	diabrose	0	
+orth	diabrose		
 entry	diabrotique	1	
+orth	diabrotique		
 pb	159	0167	406774
 entry	diacarthame	0	
+orth	diacarthame		
 entry	diachalasis	0	
+orth	diachalasis		
 entry	diachorèse	1	
+orth	diachorèse		
 pb	160	0168	406775
 entry	diachylon	0	
+orth	diachylon		
 entry	diacode	1	
+orth	diacode		
 pb	161	0169	406776
 entry	diacope	1	
+orth	diacope		
 pb	162	0170	406777
 entry	diacranien	0	
+orth	diacranien		
 entry	diacydonium	0	
+orth	diacydonium		
 entry	diadoche	0	
+orth	diadoche		
 entry	diagnostic	8	
+orth	diagnostic		
 pb	163	0171	406778
 pb	164	0172	406779
 pb	165	0173	406780
@@ -209,23 +239,33 @@ pb	168	0176	406783
 pb	169	0177	406784
 pb	170	0178	406785
 entry	diaire	0	
+orth	diaire		
 entry	dialeipyre	0	
+orth	dialeipyre		
 entry	diamètre	1	
+orth	diamètre		
 pb	171	0179	406786
 entry	diapalme	1	
+orth	diapalme		
 pb	172	0180	406787
 entry	diapasme	0	
+orth	diapasme		
 entry	diapédèse	5	
+orth	diapédèse		
 pb	173	0181	406788
 pb	174	0182	406789
 pb	175	0183	406790
 pb	176	0184	406791
 pb	177	0185	406792
 entry	diaphane	0	
+orth	diaphane		
 entry	diaphoenix	0	
+orth	diaphoenix		
 entry	diaphorèse	1	
+orth	diaphorèse		
 pb	178	0186	406793
 entry	diaphorétique	18	
+orth	diaphorétique		
 pb	179	0187	406794
 pb	180	0188	406795
 pb	181	0189	406796
@@ -245,11 +285,13 @@ pb	194	0202	406809
 pb	195	0203	406810
 pb	196	0204	406811
 entry	diaphragmatique	4	
+orth	diaphragmatique		
 pb	197	0205	406812
 pb	198	0206	406813
 pb	199	0207	406814
 pb	200	0208	406815
 entry	diaphragme	25	
+orth	diaphragme		
 pb	201	0209	406816
 pb	202	0210	406817
 pb	203	0211	406818
@@ -276,18 +318,25 @@ pb	223	0231	406838
 pb	224	0232	406839
 pb	225	0233	406840
 entry	diaphragmite	5	
+orth	diaphragmite		
 pb	226	0234	406841
 pb	227	0235	406842
 pb	228	0236	406843
 pb	229	0237	406844
 pb	230	0238	406845
 entry	diaphthora	0	
+orth	diaphthora		
 entry	diaphyse	0	
+orth	diaphyse		
 entry	diapie	0	
+orth	diapie		
 entry	diapnotique	1	
+orth	diapnotique		
 pb	231	0239	406846
 entry	diaprun	0	
+orth	diaprun		
 entry	diarrhée	8	
+orth	diarrhée		
 pb	232	0240	406847
 pb	233	0241	406848
 pb	234	0242	406849
@@ -297,12 +346,17 @@ pb	237	0245	406852
 pb	238	0246	406853
 pb	239	0247	406854
 entry	diarhodon	0	
+orth	diarhodon		
 entry	diascordium	1	
+orth	diascordium		
 pb	240	0248	406855
 entry	diasostique	0	
+orth	diasostique		
 entry	diastase	1	
+orth	diastase		
 pb	241	0249	406856
 entry	diastole	6	
+orth	diastole		
 pb	242	0250	406857
 pb	243	0251	406858
 pb	244	0252	406859
@@ -310,7 +364,9 @@ pb	245	0253	406860
 pb	246	0254	406861
 pb	247	0255	406862
 entry	diatessaron	0	
+orth	diatessaron		
 entry	diathèse	18	
+orth	diathèse		
 pb	248	0256	406863
 pb	249	0257	406864
 pb	250	0258	406865
@@ -330,12 +386,16 @@ pb	263	0271	406878
 pb	264	0272	406879
 pb	265	0273	406880
 entry	dicotylédones	0	
+orth	dicotylédones		
 entry	dicrote	1	
+orth	dicrote		
 pb	266	0274	406881
 entry	dictame blanc	2	
+orth	dictame blanc		
 pb	267	0275	406882
 pb	268	0276	406883
 entry	dictionnaire	14	
+orth	dictionnaire		
 pb	269	0277	406884
 pb	270	0278	406885
 pb	271	0279	406886
@@ -351,6 +411,7 @@ pb	280	0288	406895
 pb	281	0289	406896
 pb	282	0290	406897
 entry	diérèse	12	
+orth	diérèse		
 pb	283	0291	406898
 pb	284	0292	406899
 pb	285	0293	406900
@@ -364,7 +425,9 @@ pb	292	0300	406907
 pb	293	0301	406908
 pb	294	0302	406909
 entry	diérétique	0	
+orth	diérétique		
 entry	diète	39	
+orth	diète		
 pb	295	0303	406910
 pb	296	0304	406911
 pb	297	0305	406912
@@ -405,18 +468,23 @@ pb	331	0339	406946
 pb	332	0340	406947
 pb	333	0341	406948
 entry	diététique	5	
+orth	diététique		
 pb	334	0342	406949
 pb	335	0343	406950
 pb	336	0344	406951
 pb	337	0345	406952
 pb	338	0346	406953
 entry	diexode	0	
+orth	diexode		
 entry	difformité	3	
+orth	difformité		
 pb	339	0347	406954
 pb	340	0348	406955
 pb	341	0349	406956
 entry	diffus	0	
+orth	diffus		
 entry	diffusible	13	
+orth	diffusible		
 pb	342	0350	406957
 pb	343	0351	406958
 pb	344	0352	406959
@@ -431,7 +499,9 @@ pb	352	0360	406967
 pb	353	0361	406968
 pb	354	0362	406969
 entry	diffusion	0	
+orth	diffusion		
 entry	digestion	97	
+orth	digestion		
 pb	355	0363	406970
 pb	356	0364	406971
 pb	357	0365	406972
@@ -530,13 +600,18 @@ pb	449	0457	407064
 pb	450	0458	407065
 pb	451	0459	407066
 entry	digastrique	1	
+orth	digastrique		
 pb	452	0460	407067
 entry	digesteur	1	
+orth	digesteur		
 pb	453	0461	407068
 entry	digestif	0	
+orth	digestif		
 entry	digital	1	
+orth	digital		
 pb	454	0462	407069
 entry	digitale	12	
+orth	digitale		
 pb	455	0463	407070
 pb	456	0464	407071
 pb	457	0465	407072
@@ -550,9 +625,13 @@ pb	464	0472	407079
 pb	465	0473	407080
 pb	466	0474	407081
 entry	digitation	0	
+orth	digitation		
 entry	digitie	0	
+orth	digitie		
 entry	dilacération	0	
+orth	dilacération		
 entry	dilatant	19	
+orth	dilatant		
 pb	467	0475	407082
 pb	468	0476	407083
 pb	469	0477	407084
@@ -573,36 +652,53 @@ pb	483	0491	407098
 pb	484	0492	407099
 pb	485	0493	407100
 entry	dilatateur	1	
+orth	dilatateur		
 pb	486	0494	407101
 entry	dilatation	1	
+orth	dilatation		
 pb	487	0495	407102
 entry	dioncose	1	
+orth	dioncose		
 pb	488	0496	407103
 entry	dionysien	1	
+orth	dionysien		
 pb	489	0497	407104
 entry	diophtalme	0	
+orth	diophtalme		
 entry	dioptre	0	
+orth	dioptre		
 entry	dioptrique	4	
+orth	dioptrique		
 pb	490	0498	407105
 pb	491	0499	407106
 pb	492	0500	407107
 pb	493	0501	407108
 entry	diorose	0	
+orth	diorose		
 entry	diorrhose	0	
+orth	diorrhose		
 entry	diploé	3	
+orth	diploé		
 pb	494	0502	407109
 pb	495	0503	407110
 pb	496	0504	407111
 pb	497	0505	407112
 entry	diploique	0	
+orth	diploique		
 entry	diplopie	1	
+orth	diplopie		
 pb	498	0506	407113
 entry	dipsacées	0	
+orth	dipsacées		
 entry	dipsétique	0	
+orth	dipsétique		
 entry	discret	0	
+orth	discret		
 entry	discrimen	1	
+orth	discrimen		
 pb	499	0507	407114
 entry	discussif	6	
+orth	discussif		
 pb	500	0508	407115
 pb	501	0509	407116
 pb	502	0510	407117
@@ -610,12 +706,16 @@ pb	503	0511	407118
 pb	504	0512	407119
 pb	505	0513	407120
 entry	dislocation	0	
+orth	dislocation		
 entry	dispensaire	3	
+orth	dispensaire		
 pb	506	0514	407121
 pb	507	0515	407122
 pb	508	0516	407123
 entry	dispensation	0	
+orth	dispensation		
 entry	dispense	6	
+orth	dispense		
 pb	509	0517	407124
 pb	510	0518	407125
 pb	511	0519	407126
@@ -623,14 +723,17 @@ pb	512	0520	407127
 pb	513	0521	407128
 pb	514	0522	407129
 entry	disposition	3	
+orth	disposition		
 pb	515	0523	407130
 pb	516	0524	407131
 pb	517	0525	407132
 entry	disque	3	
+orth	disque		
 pb	518	0526	407133
 pb	519	0527	407134
 pb	520	0528	407135
 entry	dissection	136	
+orth	dissection		
 pb	521	0529	407136
 pb	522	0530	407137
 pb	523	0531	407138

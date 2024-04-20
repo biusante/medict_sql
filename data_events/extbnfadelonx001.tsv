@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4807001
 pb	[s. pag.]	0005	4807002
 entry	Avertissement	7	
+orth	Avertissement		
 pb	ij	0006	4807003
 pb	iij	0007	4807004
 pb	iv	0008	4807005
@@ -15,6 +16,7 @@ pb	vij	0011	4807008
 pb	viij	0012	4807009
 pb	1	0013	4807010
 entry	et aa	0	
+orth	et aa		
 entry	Abaissement [Jules Cloquet]	0	
 orth	Abaissement		
 entry	Abaisseurs (muscles) [A. Béclard]	1	
@@ -24,6 +26,7 @@ entry	Abaptista ou Abaptiston	0
 orth	Abaptista		
 orth	Abaptiston		
 entry	Abarticulation	0	
+orth	Abarticulation		
 entry	Abattement [Chomel]	1	
 orth	Abattement		
 pb	3	0015	4807012
@@ -116,6 +119,7 @@ pb	85	0097	4807094
 pb	86	0098	4807095
 pb	87	0099	4807096
 entry	Abdomen	9	
+orth	Abdomen		
 pb	88	0100	4807097
 pb	89	0101	4807098
 pb	90	0102	4807099
@@ -126,6 +130,7 @@ pb	94	0106	4807103
 pb	95	0107	4807104
 pb	96	0108	4807105
 entry	Abdominal	1	
+orth	Abdominal		
 pb	97	0109	4807106
 entry	Abducteurs (muscles) [A. Béclard]	2	
 orth	Abducteurs (muscles)		
@@ -227,7 +232,9 @@ orth	Abstème
 entry	Abstergens [Guersent]	0	
 orth	Abstergens		
 entry	Abstersif	0	
+orth	Abstersif		
 entry	Abstersion	0	
+orth	Abstersion		
 entry	Abstinence [L. Rostan]	4	
 orth	Abstinence		
 pb	155	0167	4807164
@@ -240,20 +247,24 @@ entry	Acacia vrai [A. Richard]	1
 orth	Acacia vrai		
 pb	159	0171	4807168
 entry	Acanthabole	0	
+orth	Acanthabole		
 entry	Acanthacées [A. Richard]	0	
 orth	Acanthacées		
 pb	160	0172	4807169
 entry	Acanthe [A. Richard]	0	
 orth	Acanthe		
 entry	Acarus	0	
+orth	Acarus		
 entry	Acatapose [Raige-Delorme]	0	
 orth	Acatapose		
 entry	Accablement [Chomel]	0	
 orth	Accablement		
 entry	Accélérateur (muscle)	0	
+orth	Accélérateur (muscle)		
 entry	Accélération [Raige-Delorme]	0	
 orth	Accélération		
 entry	Accès	1	
+orth	Accès		
 pb	161	0173	4807170
 entry	Accessoire [A. Béclard]	1	
 orth	Accessoire		
@@ -262,7 +273,9 @@ entry	Accident [Raige-Delorme]	1
 orth	Accident		
 pb	163	0175	4807172
 entry	Accidentel	0	
+orth	Accidentel		
 entry	Acclimaté	0	
+orth	Acclimaté		
 entry	Acclimatement [Rochoux]	2	
 orth	Acclimatement		
 pb	164	0176	4807173
@@ -271,6 +284,7 @@ entry	Accompagnement de la cataracte [Raige-Delorme]	1
 orth	Accompagnement de la cataracte		
 pb	166	0178	4807175
 entry	Accouchée	0	
+orth	Accouchée		
 entry	Accouchement [Desormeaux, Marc]	63	
 orth	Accouchement		
 pb	167	0179	4807176
@@ -337,6 +351,7 @@ pb	227	0239	4807236
 pb	228	0240	4807237
 pb	229	0241	4807238
 entry	Accoucher	0	
+orth	Accoucher		
 entry	Accoucheur [Desormeaux]	2	
 orth	Accoucheur		
 pb	230	0242	4807239
@@ -420,16 +435,19 @@ orth	Acerbe
 entry	Acerinées [A. Richard]	0	
 orth	Acerinées		
 entry	Acervulus	0	
+orth	Acervulus		
 entry	Acescence [Raige-Delorme]	0	
 orth	Acescence		
 pb	298	0310	4807307
 entry	Acescent [Guersent]	0	
 orth	Acescent		
 entry	Acétabule	0	
+orth	Acétabule		
 entry	Acétates [J. Pelletier]	1	
 orth	Acétates		
 pb	299	0311	4807308
 entry	Acéteux (acide)	0	
+orth	Acéteux (acide)		
 entry	Acétique (acide) [J. Pelletier, A. Richard]	5	
 orth	Acétique (acide)		
 pb	300	0312	4807309
@@ -445,6 +463,7 @@ entry	Achille [A. Béclard]	1
 orth	Achille		
 pb	305	0317	4807314
 entry	Achillée	0	
+orth	Achillée		
 entry	Achlys [Jules Cloquet]	0	
 orth	Achlys		
 entry	Achores [Biett]	0	
@@ -471,8 +490,11 @@ entry	Acier [Orfila]	1
 orth	Acier		
 pb	318	0330	4807327
 entry	Acièsie	0	
+orth	Acièsie		
 entry	Acinésie	0	
+orth	Acinésie		
 entry	Acini	1	
+orth	Acini		
 pb	319	0331	4807328
 entry	Aciniforme (tunique) [A. Béclard]	0	
 orth	Aciniforme (tunique)		
@@ -498,10 +520,12 @@ orth	Acoustique (physique)
 entry	Acrasie [Raige-Delorme]	0	
 orth	Acrasie		
 entry	Acratie	0	
+orth	Acratie		
 entry	Acre [Guersent]	1	
 orth	Acre		
 pb	324	0336	4807333
 entry	Acreté	0	
+orth	Acreté		
 entry	Acrimonie [Raige-Delorme]	3	
 orth	Acrimonie		
 pb	325	0337	4807334
@@ -510,11 +534,14 @@ pb	327	0339	4807336
 entry	Acrisie [Raige-Delorme]	0	
 orth	Acrisie		
 entry	Acritique	0	
+orth	Acritique		
 entry	Acrochordon [G. Breschet]	1	
 orth	Acrochordon		
 pb	328	0340	4807337
 entry	Acromial	0	
+orth	Acromial		
 entry	Acromio-coracoidien (ligament)	0	
+orth	Acromio-coracoidien (ligament)		
 entry	Acromion [A. Béclard]	1	
 orth	Acromion		
 pb	329	0341	4807338
@@ -542,16 +569,22 @@ orth	Adducteurs (muscles)
 pb	337	0349	4807346
 pb	338	0350	4807347
 entry	Adduction	0	
+orth	Adduction		
 entry	Adémonie	0	
+orth	Adémonie		
 entry	Adénographie	0	
+orth	Adénographie		
 entry	Adénoide	0	
+orth	Adénoide		
 entry	Adé-nologie	0	
+orth	Adé-nologie		
 entry	Adéno-méningée (fièvre) [Coutanceau]	0	
 orth	Adéno-méningée (fièvre)		
 entry	Adéno-nerveuse (fièvre) [Coutanceau]	1	
 orth	Adéno-nerveuse (fièvre)		
 pb	339	0351	4807348
 entry	Adéno-pharyngien (muscle.)	0	
+orth	Adéno-pharyngien (muscle.)		
 entry	Adéphagie ou Addéphagie [Raige-Delorme]	0	
 orth	Adéphagie		
 orth	Addéphagie		
@@ -586,6 +619,7 @@ pb	357	0369	4807366
 entry	Adipocire [Orfila]	0	
 orth	Adipocire		
 entry	Adipsie	0	
+orth	Adipsie		
 entry	Adjuvant [Guersent]	0	
 orth	Adjuvant		
 entry	Adolescence [Rullier]	0	
@@ -605,6 +639,7 @@ entry	Adultération [Guersent]	1
 orth	Adultération		
 pb	361	0373	4807370
 entry	Adustion	0	
+orth	Adustion		
 entry	Adynamie [Coutanceau]	2	
 orth	Adynamie		
 pb	362	0374	4807371
@@ -727,6 +762,7 @@ entry	Agent (physique) [L. Rostan]	1
 orth	Agent (physique)		
 pb	428	0440	4807437
 entry	Ageustie	0	
+orth	Ageustie		
 entry	Agglutinatif [Jules Cloquet]	7	
 orth	Agglutinatif		
 pb	429	0441	4807438
@@ -744,6 +780,7 @@ entry	Agitation [L. Rostan]	1
 orth	Agitation		
 pb	436	0448	4807445
 entry	Aglutition	0	
+orth	Aglutition		
 entry	Agneau [Hippol. Cloquet]	0	
 orth	Agneau		
 entry	Agnus-Castus ou Gattilier [A. Richard]	0	
@@ -755,6 +792,7 @@ pb	437	0449	4807446
 pb	438	0450	4807447
 pb	439	0451	4807448
 entry	Agrie	0	
+orth	Agrie		
 entry	Agrippa (accouchement d') [Desormeaux]	0	
 orth	Agrippa (accouchement d')		
 entry	Agrypnie [Landré Beauvais]	1	
@@ -787,6 +825,7 @@ pb	450	0462	4807459
 entry	Aile [A. Béclard]	0	
 orth	Aile		
 entry	Aileron	0	
+orth	Aileron		
 pb	451	0463	4807460
 entry	Aimant [Orfila]	5	
 orth	Aimant		
@@ -879,6 +918,7 @@ orth	Alcali
 orth	Alkali		
 pb	506	0518	4807515
 entry	Alcalinité	0	
+orth	Alcalinité		
 entry	Alcanna ou Alkanna [A. Richard]	0	
 orth	Alcanna		
 orth	Alkanna		
@@ -906,9 +946,11 @@ entry	Alcoholat [J. Pelletier]	1
 orth	Alcoholat		
 pb	517	0529	4807526
 entry	Alcyon (nids d')	0	
+orth	Alcyon (nids d')		
 entry	Alectoire [Raige-Delorme]	0	
 orth	Alectoire		
 entry	Alembroth (sel)	0	
+orth	Alembroth (sel)		
 entry	Alèze, Alèse ou Alaise [Jules Cloquet]	2	
 orth	Alèze		
 orth	Alèse		
@@ -924,7 +966,9 @@ orth	Alexipyrétique
 entry	Alexitère [Guersent]	0	
 orth	Alexitère		
 entry	Algalie	0	
+orth	Algalie		
 entry	Algaroth (poudre d')	0	
+orth	Algaroth (poudre d')		
 entry	Algide [Coutanceau]	1	
 orth	Algide		
 pb	522	0534	4807531
@@ -933,13 +977,16 @@ orth	Algues
 entry	Alhagi [A. Richard]	0	
 orth	Alhagi		
 entry	Alhandal	0	
+orth	Alhandal		
 entry	Alhandal (trochisque)	0	
+orth	Alhandal (trochisque)		
 entry	Alibile [L. Rostan]	1	
 orth	Alibile		
 pb	523	0535	4807532
 entry	Aliénation mentale [Georget]	0	
 orth	Aliénation mentale		
 entry	Aliéné	0	
+orth	Aliéné		
 entry	Aliment [L. Rostan]	26	
 orth	Aliment		
 pb	524	0536	4807533
@@ -987,6 +1034,7 @@ pb	563	0575	4807572
 pb	[s. pag.]	0576	4807573
 pb	[s. pag.]	0577	4807574
 entry	Distribution des matières	0	
+orth	Distribution des matières		
 pb	[s. pag.]	0578	4807575
 entry	Table des principaux articles contenus dans ce volume et dans la lettre A	0	
 orth	Table des principaux articles contenus dans ce volume		

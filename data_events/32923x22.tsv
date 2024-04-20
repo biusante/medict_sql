@@ -6,6 +6,7 @@ pb	[s. pag.]	0003	7299858
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7299859
 entry	Médiastin	9	
+orth	Médiastin		
 pb	2	0005	7299860
 pb	3	0006	7299861
 pb	4	0007	7299862
@@ -16,6 +17,7 @@ pb	8	0011	7299866
 pb	9	0012	7299867
 pb	10	0013	7299868
 entry	Médicament	23	
+orth	Médicament		
 pb	11	0014	7299869
 pb	12	0015	7299870
 pb	13	0016	7299871
@@ -40,10 +42,15 @@ pb	31	0034	7299889
 pb	32	0035	7299890
 pb	33	0036	7299891
 entry	Médullite	0	
+orth	Médullite		
 entry	Médullocèles	0	
+orth	Médullocèles		
 entry	Mélaena	0	
+orth	Mélaena		
 entry	Mélancolie	0	
+orth	Mélancolie		
 entry	Mélanémie	10	
+orth	Mélanémie		
 pb	34	0037	7299892
 pb	35	0038	7299893
 pb	36	0039	7299894
@@ -55,6 +62,7 @@ pb	41	0044	7299899
 pb	42	0045	7299900
 pb	43	0046	7299901
 entry	Mélanose	47	
+orth	Mélanose		
 pb	44	0047	7299902
 pb	45	0048	7299903
 pb	46	0049	7299904
@@ -103,11 +111,15 @@ pb	88	0091	7299946
 pb	89	0092	7299947
 pb	90	0093	7299948
 entry	Mélilot officinal	1	
+orth	Mélilot officinal		
 pb	91	0094	7299949
 entry	Mélisse	1	
+orth	Mélisse		
 pb	92	0095	7299950
 entry	Membres artificiels	0	
+orth	Membres artificiels		
 entry	Méninges	207	
+orth	Méninges		
 pb	93	0096	7299951
 pb	94	0097	7299952
 pb	95	0098	7299953
@@ -316,9 +328,13 @@ pb	297	0300	7300155
 pb	298	0301	7300156
 pb	299	0302	7300157
 entry	Méningites	0	
+orth	Méningites		
 entry	Ménopause	0	
+orth	Ménopause		
 entry	Ménorrhagie	0	
+orth	Ménorrhagie		
 entry	Menstruation	40	
+orth	Menstruation		
 pb	300	0303	7300158
 pb	301	0304	7300159
 pb	302	0305	7300160
@@ -360,19 +376,24 @@ pb	337	0340	7300195
 pb	338	0341	7300196
 pb	339	0342	7300197
 entry	Mentagre	0	
+orth	Mentagre		
 entry	Mensuration	2	
+orth	Mensuration		
 pb	340	0343	7300198
 pb	341	0344	7300199
 pb	342	0345	7300200
 entry	Menthe	5	
+orth	Menthe		
 pb	343	0346	7300201
 pb	344	0347	7300202
 pb	345	0348	7300203
 pb	346	0349	7300204
 pb	347	0350	7300205
 entry	Ményanthe	1	
+orth	Ményanthe		
 pb	348	0351	7300206
 entry	Méphitisme	11	
+orth	Méphitisme		
 pb	349	0352	7300207
 pb	350	0353	7300208
 pb	351	0354	7300209
@@ -385,6 +406,7 @@ pb	357	0360	7300215
 pb	358	0361	7300216
 pb	359	0362	7300217
 entry	Mercure	48	
+orth	Mercure		
 pb	360	0363	7300218
 pb	361	0364	7300219
 pb	362	0365	7300220
@@ -434,13 +456,18 @@ pb	405	0408	7300263
 pb	406	0409	7300264
 pb	407	0410	7300265
 entry	Mercuriale	1	
+orth	Mercuriale		
 pb	408	0411	7300266
 entry	Mérycisme	0	
+orth	Mérycisme		
 entry	Mésentère	0	
+orth	Mésentère		
 entry	Métallothérapie	2	
+orth	Métallothérapie		
 pb	409	0412	7300267
 pb	410	0413	7300268
 entry	Métastase	18	
+orth	Métastase		
 pb	411	0414	7300269
 pb	412	0415	7300270
 pb	413	0416	7300271
@@ -460,13 +487,20 @@ pb	426	0429	7300284
 pb	427	0430	7300285
 pb	428	0431	7300286
 entry	Métastatique	0	
+orth	Métastatique		
 entry	Météorisme	0	
+orth	Météorisme		
 entry	Météorologie	0	
+orth	Météorologie		
 entry	Métesthésie	0	
+orth	Métesthésie		
 entry	Métrite	0	
+orth	Métrite		
 entry	Métropéritonite	0	
+orth	Métropéritonite		
 pb	429	0432	7300287
 entry	Métrorrhagie	26	
+orth	Métrorrhagie		
 pb	430	0433	7300288
 pb	431	0434	7300289
 pb	432	0435	7300290
@@ -494,7 +528,9 @@ pb	453	0456	7300311
 pb	454	0457	7300312
 pb	455	0458	7300313
 entry	Miasmes	0	
+orth	Miasmes		
 entry	Microscope	43	
+orth	Microscope		
 pb	456	0459	7300314
 pb	457	0460	7300315
 pb	458	0461	7300316
@@ -539,7 +575,9 @@ pb	496	0499	7300354
 pb	497	0500	7300355
 pb	498	0501	7300356
 entry	Microsporon	0	
+orth	Microsporon		
 entry	Miel	3	
+orth	Miel		
 pb	499	0502	7300357
 pb	500	0503	7300358
 pb	501	0504	7300359
@@ -566,12 +604,14 @@ pb	518	0521	7300376
 pb	519	0522	7300377
 pb	520	0523	7300378
 entry	Millaire	4	
+orth	Millaire		
 pb	521	0524	7300379
 pb	522	0525	7300380
 pb	523	0526	7300381
 pb	524	0527	7300382
 pb	525	0528	7300383
 entry	Mineurs	34	
+orth	Mineurs		
 pb	526	0529	7300384
 pb	527	0530	7300385
 pb	528	0531	7300386
@@ -607,6 +647,7 @@ pb	557	0560	7300415
 pb	558	0561	7300416
 pb	559	0562	7300417
 entry	Moelle épinière	256	
+orth	Moelle épinière		
 pb	560	0563	7300418
 pb	561	0564	7300419
 pb	562	0565	7300420
@@ -865,3 +906,4 @@ pb	814	0817	7300672
 pb	815	0818	7300673
 pb	[s. pag.]	0819	7300674
 entry	Table des auteurs	0	
+orth	Table des auteurs		

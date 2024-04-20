@@ -69,9 +69,11 @@ pb	58	0062	4513735
 pb	59	0063	4513736
 pb	60	0064	4513737
 entry	Continence (Médecine légale)	0	
+orth	Continence (Médecine légale)		
 ref	Aphrodisie		
 ref	Anaphrodisie		
 entry	Contra	0	
+orth	Contra		
 ref	Semen contra		
 entry	Contractilité (En général) [E. Onimus]	1	
 orth	Contractilité (En général)		
@@ -134,8 +136,10 @@ pb	104	0108	4513781
 entry	Contrexéville (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
 orth	Contrexéville (Eaux minérales de)		
 entry	Contro-stimulus	0	
+orth	Contro-stimulus		
 ref	Stimulus		
 entry	Contusion (s. f.)	0	
+orth	Contusion (s. f.)		
 entry	Contusion (s. f.). Pathologie [A.-H. Marchand, A. Verneuil]	48	
 orth	Contusion (s. f.). Pathologie		
 pb	105	0109	4513782
@@ -190,8 +194,10 @@ pb	153	0157	4513830
 entry	Contusion (s. f.). Pathologie [A.-H. Marchand, A. Verneuil] (bibliographie)	0	
 orth	Contusion (s. f.). Pathologie		
 entry	Médecine légale	0	
+orth	Médecine légale		
 ref	Blessures		
 entry	Contusion	0	
+orth	Contusion		
 entry	Pharmacie [Amédée Dechambre]	0	
 orth	Pharmacie		
 entry	Convalescence [B. Brochin]	67	
@@ -280,8 +286,10 @@ orth	Convalescence (Asiles de)
 pb	231	0235	4513908
 pb	232	0236	4513909
 entry	Convallamarine	0	
+orth	Convallamarine		
 ref	Convallarine		
 entry	Convallarétine	0	
+orth	Convallarétine		
 ref	Convallarine		
 entry	Convallaria [G. Planchon]	0	
 orth	Convallaria		
@@ -361,6 +369,7 @@ orth	Convulsion
 pb	286	0290	4513963
 pb	287	0291	4513964
 entry	Convulsionnaires	0	
+orth	Convulsionnaires		
 ref	Épidémiques (folies)		
 entry	Conyze [G. Planchon]	0	
 orth	Conyze		
@@ -375,12 +384,16 @@ pb	289	0293	4513966
 entry	Cooper (Astley Paston) [A. Dureau] (bibliographie)	0	
 orth	Cooper (Astley Paston)		
 entry	Cop	0	
+orth	Cop		
 ref	Kock		
 entry	Copahivique	0	
+orth	Copahivique		
 ref	Copahu		
 pb	290	0294	4513967
 entry	Copahu	0	
+orth	Copahu		
 entry	Botanique	0	
+orth	Botanique		
 ref	Copayer		
 entry	Chimie [Schützenberger] (bibliographie)	0	
 orth	Chimie		
@@ -398,8 +411,10 @@ pb	297	0301	4513974
 entry	Coparu de Saint-Domingue [G. Planchon]	0	
 orth	Coparu de Saint-Domingue		
 entry	Copaier	0	
+orth	Copaier		
 ref	Copayer		
 entry	Copaifera, Copahu	0	
+orth	Copaifera, Copahu		
 ref	Copayer		
 entry	Copal [T. Gobley]	1	
 orth	Copal		
@@ -412,6 +427,7 @@ orth	Copalchi
 entry	Copaline [Amédée Dechambre]	0	
 orth	Copaline		
 entry	Copalme	0	
+orth	Copalme		
 ref	Liquidambar		
 entry	Copayer, Copaier [H. Baillon]	6	
 orth	Copayer, Copaier		
@@ -439,8 +455,10 @@ orth	Coprin
 entry	Coprinaires [J. de Seynes]	0	
 orth	Coprinaires		
 entry	Coptes	0	
+orth	Coptes		
 ref	Égypte		
 entry	Copulation	0	
+orth	Copulation		
 ref	Coït		
 ref	Fécondation		
 entry	Coq [P. Gervais]	4	
@@ -450,11 +468,15 @@ pb	310	0314	4513987
 pb	311	0315	4513988
 pb	312	0316	4513989
 entry	Coq (Devination par le)	0	
+orth	Coq (Devination par le)		
 ref	Devination		
 entry	Coq des jardins	0	
+orth	Coq des jardins		
 ref	Basamite		
 entry	Coque du levant	0	
+orth	Coque du levant		
 entry	Botanique	0	
+orth	Botanique		
 ref	Anamirte		
 entry	Coque du Levant. Emploi médical [Ernest Labbée]	14	
 orth	Coque du Levant. Emploi médical		
@@ -476,7 +498,9 @@ pb	327	0331	4514004
 entry	Coque du Levant. Emploi médical [Ernest Labbée] (bibliographie)	0	
 orth	Coque du Levant. Emploi médical		
 entry	Coquelicot	0	
+orth	Coquelicot		
 entry	Botanique	0	
+orth	Botanique		
 ref	Pavot		
 entry	Coquelicot. Emploi médical [Ernest Labbée]	3	
 orth	Coquelicot. Emploi médical		
@@ -562,10 +586,12 @@ pb	398	0402	4514075
 pb	399	0403	4514076
 pb	400	0404	4514077
 entry	Coqueluchon	0	
+orth	Coqueluchon		
 ref	Aconit		
 entry	Coquemelle ou Coucoumelle [G. Planchon]	0	
 orth	Coquemelle ou Coucoumelle		
 entry	Coquemollier	0	
+orth	Coquemollier		
 ref	Theophrasta		
 entry	Coquereau de Nancé (Charles-Jacques-Louis) [A. Chéreau]	0	
 orth	Coquereau de Nancé (Charles-Jacques-Louis)		
@@ -576,10 +602,13 @@ entry	Coquerel (Jean-Charles) [L. Hahn] (bibliographie)	1
 orth	Coquerel (Jean-Charles)		
 pb	402	0406	4514079
 entry	Coqueret	0	
+orth	Coqueret		
 ref	Alkekenge		
 entry	Coquesigrue	0	
+orth	Coquesigrue		
 ref	Sumac		
 entry	Coquette	0	
+orth	Coquette		
 ref	Cyclame		
 entry	Coquillages [P. Gervais]	0	
 orth	Coquillages		
@@ -601,12 +630,15 @@ entry	Coraco-brachial (Muscle) [V. Paulet]	1
 orth	Coraco-brachial (Muscle)		
 pb	411	0415	4514088
 entry	Coraco-claviculaire (Articulation)	0	
+orth	Coraco-claviculaire (Articulation)		
 ref	Clavicule		
 ref	Épaule		
 ref	Omoplate		
 entry	Coraco-huméral (Ligament)	0	
+orth	Coraco-huméral (Ligament)		
 ref	Épaule		
 entry	Coracoïde (Apophyse)	0	
+orth	Coracoïde (Apophyse)		
 ref	Omoplate		
 entry	Corail [P. Gervais]	7	
 orth	Corail		
@@ -618,17 +650,22 @@ pb	416	0420	4514093
 pb	417	0421	4514094
 pb	418	0422	4514095
 entry	Corail de mer	0	
+orth	Corail de mer		
 ref	Salicorne		
 entry	Corail de pêcheurs	0	
+orth	Corail de pêcheurs		
 ref	Plongeurs		
 entry	Corail des jardins	0	
+orth	Corail des jardins		
 ref	Piment		
 entry	Corail-plant (Plante-corail) [Amédée Dechambre]	0	
 orth	Corail-plant (Plante-corail)		
 entry	Coralline	0	
+orth	Coralline		
 entry	Botanique [J. de Seynes]	0	
 orth	Botanique		
 entry	Coralline	0	
+orth	Coralline		
 entry	Coralline. Chimie [P. Coulier]	2	
 orth	Coralline. Chimie		
 pb	419	0423	4514096
@@ -655,8 +692,10 @@ pb	425	0429	4514102
 entry	Corde (Maurice de la) [E. Beaugrand] (bibliographie)	0	
 orth	Corde (Maurice de la)		
 entry	Corde dorsale	0	
+orth	Corde dorsale		
 ref	Rachis (développement)		
 entry	Corde du tympan	0	
+orth	Corde du tympan		
 ref	Oreille		
 ref	Vidien (nerf)		
 entry	Cordéac (Eau minérale de) [A. Rotureau]	0	
@@ -664,6 +703,7 @@ orth	Cordéac (Eau minérale de)
 entry	Cordia [G. Planchon]	0	
 orth	Cordia		
 entry	Cordon Ombilical	0	
+orth	Cordon Ombilical		
 entry	Cordon Ombilical. Anatomie [Campana]	4	
 orth	Cordon Ombilical. Anatomie		
 pb	426	0430	4514103
@@ -671,9 +711,11 @@ pb	427	0431	4514104
 pb	428	0432	4514105
 pb	429	0433	4514106
 entry	Pathologie	0	
+orth	Pathologie		
 ref	Oeuf		
 ref	Dystocie		
 entry	Médecine légale	0	
+orth	Médecine légale		
 ref	Infanticide		
 entry	Cordonniers (Hygiène industrielle) [E. Beaugrand]	3	
 orth	Cordonniers (Hygiène industrielle)		
@@ -686,6 +728,7 @@ pb	433	0437	4514110
 entry	Cordus (Le père et le fils) [E. Beaugrand] (bibliographie)	0	
 orth	Cordus (Le père et le fils)		
 entry	Cordyceps	0	
+orth	Cordyceps		
 ref	Sphériacés		
 entry	Cordyline [G. Planchon]	0	
 orth	Cordyline		
@@ -693,6 +736,7 @@ pb	434	0438	4514111
 entry	Cordylophore [P. Gervais]	0	
 orth	Cordylophore		
 entry	Corectomie	0	
+orth	Corectomie		
 ref	Iridectomie		
 entry	Corée [Alexandre Layet]	10	
 orth	Corée		
@@ -728,10 +772,12 @@ orth	Coreopsis Bidens
 entry	Corète [H. Baillon]	0	
 orth	Corète		
 entry	Coriaire, Coriaria	0	
+orth	Coriaire, Coriaria		
 ref	Redoul		
 entry	Coriamyrtine [Schützenberger] (bibliographie)	0	
 orth	Coriamyrtine		
 entry	Coriandre	0	
+orth	Coriandre		
 entry	Coriandre. Botanique [G. Planchon] (bibliographie)	1	
 orth	Coriandre. Botanique		
 pb	448	0452	4514125
@@ -747,6 +793,7 @@ pb	451	0455	4514128
 entry	Coris [G. Planchon] (bibliographie)	0	
 orth	Coris		
 entry	Corme	0	
+orth	Corme		
 ref	Cormé		
 ref	Sorbier		
 entry	Cormé [P. Coulier]	0	
@@ -761,6 +808,7 @@ pb	452	0456	4514129
 entry	Cornacchini (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Cornacchini (Les deux)		
 entry	Cornadore	0	
+orth	Cornadore		
 ref	Néctaire (Saint-)		
 entry	Cornage [Krishaber]	10	
 orth	Cornage		
@@ -775,6 +823,7 @@ pb	460	0464	4514137
 pb	461	0465	4514138
 pb	462	0466	4514139
 entry	Cornarius	0	
+orth	Cornarius		
 ref	Hagenbut		
 entry	Cornaro (Louis) [A. Chéreau] (bibliographie)	0	
 orth	Cornaro (Louis)		
@@ -795,23 +844,31 @@ entry	Corne [A. Kelsch] (bibliographie)	1
 orth	Corne		
 pb	470	0474	4514147
 entry	Corne de cerf	0	
+orth	Corne de cerf		
 entry	Corne de cerf. Pharmacologie [J. Delioux de Savignac]	1	
 orth	Corne de cerf. Pharmacologie		
 pb	471	0475	4514148
 entry	Corne de cerf	0	
+orth	Corne de cerf		
 entry	Botanique [G. Planchon]	0	
 orth	Botanique		
 entry	Cornes d'Ammon	0	
+orth	Cornes d'Ammon		
 ref	Cerveau		
 entry	Cornes hyoïdiennes	0	
+orth	Cornes hyoïdiennes		
 ref	Hyoïde		
 entry	Cornes thyroïdiennes	0	
+orth	Cornes thyroïdiennes		
 ref	Larynx		
 entry	Cornes de l'utérus	0	
+orth	Cornes de l'utérus		
 ref	Utérus		
 entry	Cornes du corps calleux	0	
+orth	Cornes du corps calleux		
 ref	Cerveau		
 entry	Cornée	0	
+orth	Cornée		
 entry	Cornée. Anatomie [Maurice Perrin]	7	
 orth	Cornée. Anatomie		
 pb	472	0476	4514149
@@ -954,6 +1011,7 @@ pb	594	0598	4514271
 pb	595	0599	4514272
 pb	596	0600	4514273
 entry	Cornet sphénoïdal	0	
+orth	Cornet sphénoïdal		
 ref	Crâne		
 ref	Sphénoïde		
 entry	Cornets nasaux [Amédée Dechambre]	0	
@@ -962,6 +1020,7 @@ entry	Cornichon [G. Planchon]	0
 orth	Cornichon		
 pb	597	0601	4514274
 entry	Cornier	0	
+orth	Cornier		
 ref	Cornouiller		
 entry	Cornine [Amédée Dechambre]	0	
 orth	Cornine		
@@ -973,6 +1032,7 @@ orth	Cornouiller
 entry	Cornue [T. Gobley]	0	
 orth	Cornue		
 entry	Cornus	0	
+orth	Cornus		
 ref	Cornier		
 entry	Cornutia [G. Planchon]	0	
 orth	Cornutia		
@@ -980,27 +1040,37 @@ pb	599	0603	4514276
 entry	Cornutia [G. Planchon] (bibliographie)	0	
 orth	Cornutia		
 entry	Coromandel (Côte de)	0	
+orth	Coromandel (Côte de)		
 ref	Hindoustan		
 entry	Corona imperialis	0	
+orth	Corona imperialis		
 ref	Fritillaire		
 entry	Corona solis	0	
+orth	Corona solis		
 ref	Hélianthe		
 entry	Corona terrestris	0	
+orth	Corona terrestris		
 ref	Glechoma		
 entry	Coronaire du coeur (Artère et Veine) [Amédée Dechambre]	0	
 orth	Coronaire du coeur (Artère et Veine)		
 entry	Coronaire labiale	0	
+orth	Coronaire labiale		
 ref	Maxillaire externe		
 ref	Lèvres		
 entry	Coronaire (Plexus)	0	
+orth	Coronaire (Plexus)		
 ref	Sympathique		
 entry	Coronaire stomachique	0	
+orth	Coronaire stomachique		
 ref	Coeliaque (Tronc)		
 entry	Coronal (Os)	0	
+orth	Coronal (Os)		
 ref	Crâne		
 entry	Coronde	0	
+orth	Coronde		
 ref	Cannelle		
 entry	Coronilla	0	
+orth	Coronilla		
 ref	Coronille		
 entry	Coronille [G. Planchon]	0	
 orth	Coronille		
@@ -1008,14 +1078,19 @@ pb	600	0604	4514277
 entry	Coronille [G. Planchon] (bibliographie)	0	
 orth	Coronille		
 entry	Coronoïde (Apophyse)	0	
+orth	Coronoïde (Apophyse)		
 ref	Maxillaire inférieur		
 entry	Coronoïde du cubitus	0	
+orth	Coronoïde du cubitus		
 ref	Cubitus		
 entry	Coronoïdienne (Fosse)	0	
+orth	Coronoïdienne (Fosse)		
 ref	Humérus		
 entry	Coronopus	0	
+orth	Coronopus		
 ref	Corne de cerf		
 entry	Corossolies, Corossols	0	
+orth	Corossolies, Corossols		
 ref	Anone		
 entry	Corporations [E. Beaugrand]	2	
 orth	Corporations		
@@ -1037,8 +1112,10 @@ pb	611	0615	4514288
 pb	612	0616	4514289
 pb	613	0617	4514290
 entry	Corps calleux	0	
+orth	Corps calleux		
 ref	Cerveau		
 entry	Corps caverneux	0	
+orth	Corps caverneux		
 ref	Urèthre		
 entry	Corps étrangers [Charles Monod]	66	
 orth	Corps étrangers		
@@ -1113,10 +1190,12 @@ entry	Corps étrangers [Charles Monod] (bibliographie)	0
 orth	Corps étrangers		
 pb	681	0685	4514358
 entry	Corps frangé	0	
+orth	Corps frangé		
 ref	Cerveau		
 entry	Corps genouillés [Amédée Dechambre]	0	
 orth	Corps genouillés		
 entry	Corps godronné	0	
+orth	Corps godronné		
 ref	Cerveau		
 entry	Corps gras (Substances grasses, Matières huileuses, Matières grasses, etc.) [T. Gobley]	3	
 orth	Corps gras (Substances grasses, Matières huileuses, Matières grasses, etc.)		
@@ -1124,15 +1203,20 @@ pb	682	0686	4514359
 pb	683	0687	4514360
 pb	684	0688	4514361
 entry	Corps de Highmore	0	
+orth	Corps de Highmore		
 ref	Testicules		
 entry	Corps innominé (Giraldès)	0	
+orth	Corps innominé (Giraldès)		
 ref	Corps de Wolff		
 entry	Corps jaune	0	
+orth	Corps jaune		
 ref	Fécondation		
 ref	Menstruation		
 entry	Corps myrtiforme	0	
+orth	Corps myrtiforme		
 ref	Vagin		
 entry	Corps opto-strié (Corps strié, Couche optique)	0	
+orth	Corps opto-strié (Corps strié, Couche optique)		
 entry	Corps opto-strié (Corps strié, Couche optique). Anatomie [Paul Berger]	31	
 orth	Corps opto-strié (Corps strié, Couche optique). Anatomie		
 pb	685	0689	4514362
@@ -1171,23 +1255,29 @@ entry	Corps opto-strié (Corps strié, Couche optique). Anatomie [Paul Berger] (
 orth	Corps opto-strié (Corps strié, Couche optique). Anatomie		
 pb	717	0721	4514394
 entry	Développement	0	
+orth	Développement		
 ref	Encéphale		
 entry	Physiologie et pathologie	0	
+orth	Physiologie et pathologie		
 ref	Cerveau		
 ref	Encéphale		
 ref	Nerveux (tissu)		
 entry	Corps oviformes [Amédée Dechambre]	0	
 orth	Corps oviformes		
 entry	Corps pituitaire	0	
+orth	Corps pituitaire		
 ref	Cerveau		
 entry	Corps restiforme	0	
+orth	Corps restiforme		
 ref	Cervelet		
 ref	Moelle		
 entry	Corps spongieux de l'urèthre	0	
+orth	Corps spongieux de l'urèthre		
 ref	Urèthre		
 entry	Corps strié [Amédée Dechambre]	0	
 orth	Corps strié		
 entry	Corps thyroïde	0	
+orth	Corps thyroïde		
 ref	Thyroïde		
 pb	718	0722	4514395
 entry	Corps vitré [Giraud-Teulon]	9	
@@ -1215,8 +1305,10 @@ pb	734	0738	4514411
 entry	Corps de Wolff [Campana] (bibliographie)	0	
 orth	Corps de Wolff		
 entry	Corpuscules amyloïdes	0	
+orth	Corpuscules amyloïdes		
 ref	Amyloïdes		
 entry	Corpuscules de Malpighi	0	
+orth	Corpuscules de Malpighi		
 ref	Reins		
 entry	Corpuscules de Meissner ou du Tact [Amédée Dechambre]	0	
 orth	Corpuscules de Meissner ou du Tact		
@@ -1234,10 +1326,12 @@ orth	Corroborants
 entry	Corrosif [Amédée Dechambre]	0	
 orth	Corrosif		
 entry	Corrosalier	0	
+orth	Corrosalier		
 ref	Anone		
 entry	Corroyère [H. Baillon]	0	
 orth	Corroyère		
 entry	Corroyeurs	0	
+orth	Corroyeurs		
 ref	Peaux		
 entry	Corruda [G. Planchon]	0	
 orth	Corruda		
@@ -1256,6 +1350,7 @@ pb	745	0749	4514422
 entry	Corse (Géographie médicale) [L. Laveran] (bibliographie)	0	
 orth	Corse (Géographie médicale)		
 entry	Corset	0	
+orth	Corset		
 entry	Corset. Hygiène [Bouvier, Pierre Bouland]	15	
 orth	Corset. Hygiène		
 pb	746	0750	4514423
@@ -1299,6 +1394,7 @@ orth	Corset. Orthopédie
 entry	Corte (Barthélemy) [A. Chéreau]	0	
 orth	Corte (Barthélemy)		
 entry	Corte de Pala	0	
+orth	Corte de Pala		
 ref	Conessi Bark		
 entry	Cortépinitannique (Acide) [L. Hahn]	0	
 orth	Cortépinitannique (Acide)		
@@ -1315,10 +1411,12 @@ pb	779	0783	4514456
 entry	Corti (Matteo) [E. Beaugrand] (bibliographie)	0	
 orth	Corti (Matteo)		
 entry	Corti (Rampe de)	0	
+orth	Corti (Rampe de)		
 ref	Oreille interne		
 entry	Corticine [L. Hahn]	0	
 orth	Corticine		
 entry	Corticium	0	
+orth	Corticium		
 ref	Théléphorés		
 entry	Cortinaire [J. de Seynes]	3	
 orth	Cortinaire		
@@ -1346,6 +1444,7 @@ entry	Corydaline [L. Hahn]	1
 orth	Corydaline		
 pb	786	0790	4514463
 entry	Corylus	0	
+orth	Corylus		
 ref	Coudrier		
 ref	Noisetier		
 entry	Corymbifères [G. Planchon]	0	
@@ -1358,6 +1457,7 @@ orth	Corypha
 pb	[s. pag.]	0792	4514465
 pb	789	0793	4514466
 entry	Articles contenus dans le vingtième volume (1re série)	2	
+orth	Articles contenus dans le vingtième volume (1re série)		
 pb	790	0794	4514467
 pb	791	0795	4514468
 pb	[s. pag.]	0796	4514469

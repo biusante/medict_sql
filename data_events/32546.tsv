@@ -14,27 +14,36 @@ pb	x	0010	1009611
 pb	xj	0011	1009612
 pb	xij	0012	1009613
 entry	Liste des auteurs consultés pour cet ouvrage	0	
+orth	Liste des auteurs consultés pour cet ouvrage		
 pb	1	0013	1009614
 entry	Dictionnaire du diagnostic. Abcès	0	
+orth	Dictionnaire du diagnostic. Abcès		
 pb	2	0014	1009615
 entry	Abcès	2	
+orth	Abcès		
 pb	3	0015	1009616
 pb	4	0016	1009617
 entry	Affection hypochondriaque	0	
+orth	Affection hypochondriaque		
 ref	mélancholie		
 entry	Affection histérique	0	
+orth	Affection histérique		
 ref	passion histérique		
 entry	Anasarque	0	
+orth	Anasarque		
 ref	hydropisie		
 entry	Anémie	2	
+orth	Anémie		
 pb	5	0017	1009618
 pb	6	0018	1009619
 pb	7	0019	1009620
 entry	Anévrisme	3	
+orth	Anévrisme		
 pb	8	0020	1009621
 pb	9	0021	1009622
 pb	10	0022	1009623
 entry	Angine	7	
+orth	Angine		
 pb	11	0023	1009624
 pb	12	0024	1009625
 pb	13	0025	1009626
@@ -43,9 +52,12 @@ pb	15	0027	1009628
 pb	16	0028	1009629
 pb	17	0029	1009630
 entry	Ankylose	1	
+orth	Ankylose		
 pb	18	0030	1009631
 entry	Aphtes	0	
+orth	Aphtes		
 entry	Apoplexie	6	
+orth	Apoplexie		
 pb	19	0031	1009632
 pb	20	0032	1009633
 pb	21	0033	1009634
@@ -53,30 +65,40 @@ pb	22	0034	1009635
 pb	23	0035	1009636
 pb	24	0036	1009637
 entry	Ascarides	1	
+orth	Ascarides		
 pb	25	0037	1009638
 entry	Ascite	0	
+orth	Ascite		
 ref	hydropisie		
 entry	Asthme	2	
+orth	Asthme		
 pb	26	0038	1009639
 pb	27	0039	1009640
 pb	28	0040	1009641
 entry	Avortement	3	
+orth	Avortement		
 pb	29	0041	1009642
 pb	30	0042	1009643
 pb	31	0043	1009644
 pb	32	0044	1009645
 entry	Bile noire	0	
+orth	Bile noire		
 entry	Bubon	0	
+orth	Bubon		
 ref	peste		
 ref	vérole		
 entry	Bubonocèle	0	
+orth	Bubonocèle		
 ref	hernie		
 pb	33	0045	1009646
 entry	Cachexie	0	
+orth	Cachexie		
 entry	Calcul	0	
+orth	Calcul		
 ref	pierre		
 pb	34	0046	1009647
 entry	Cancer	7	
+orth	Cancer		
 pb	35	0047	1009648
 pb	36	0048	1009649
 pb	37	0049	1009650
@@ -85,25 +107,35 @@ pb	39	0051	1009652
 pb	40	0052	1009653
 pb	41	0053	1009654
 entry	Cardialgie	0	
+orth	Cardialgie		
 entry	Carie	1	
+orth	Carie		
 pb	42	0054	1009655
 entry	Catalepsie	1	
+orth	Catalepsie		
 pb	43	0055	1009656
 entry	Cataracte	1	
+orth	Cataracte		
 pb	44	0056	1009657
 entry	Catarrhe	2	
+orth	Catarrhe		
 pb	45	0057	1009658
 pb	46	0058	1009659
 entry	Chancre	0	
+orth	Chancre		
 ref	cancer		
 entry	Chancre vénérien	1	
+orth	Chancre vénérien		
 pb	47	0059	1009660
 entry	Charbon	2	
+orth	Charbon		
 pb	48	0060	1009661
 pb	49	0061	1009662
 entry	Chaude-pisse	0	
+orth	Chaude-pisse		
 ref	gonorrhée		
 entry	Cholera-morbus	3	
+orth	Cholera-morbus		
 pb	50	0062	1009663
 pb	51	0063	1009664
 pb	52	0064	1009665
@@ -114,6 +146,7 @@ pb	53	0065	1009666
 pb	54	0066	1009667
 pb	55	0067	1009668
 entry	Colique	21	
+orth	Colique		
 pb	56	0068	1009669
 pb	57	0069	1009670
 pb	58	0070	1009671
@@ -136,11 +169,15 @@ pb	74	0086	1009687
 pb	75	0087	1009688
 pb	76	0088	1009689
 entry	Consomption	0	
+orth	Consomption		
 ref	phtysie		
 entry	Coqueluche	0	
+orth	Coqueluche		
 entry	Crachement de sang	0	
+orth	Crachement de sang		
 ref	hémophtysie		
 entry	Cucurbitains	0	
+orth	Cucurbitains		
 ref	vers		
 pb	77	0089	1009690
 entry	Danse S. Weit ou S. Guy	1	
@@ -148,21 +185,27 @@ orth	Danse S. Weit
 orth	S. Guy		
 pb	78	0090	1009691
 entry	Dartre	3	
+orth	Dartre		
 pb	79	0091	1009692
 pb	80	0092	1009693
 pb	81	0093	1009694
 pb	82	0094	1009695
 entry	Dentition	1	
+orth	Dentition		
 pb	83	0095	1009696
 entry	Dépôt	0	
+orth	Dépôt		
 ref	abcès		
 entry	Dépôt laiteux	2	
+orth	Dépôt laiteux		
 pb	84	0096	1009697
 pb	85	0097	1009698
 entry	Descente	0	
+orth	Descente		
 ref	hernie		
 pb	86	0098	1009699
 entry	Descente de la matrice	7	
+orth	Descente de la matrice		
 pb	87	0099	1009700
 pb	88	0100	1009701
 pb	89	0101	1009702
@@ -171,47 +214,64 @@ pb	91	0103	1009704
 pb	92	0104	1009705
 pb	93	0105	1009706
 entry	Dévoiement	0	
+orth	Dévoiement		
 ref	diarrhée		
 entry	Diarrhée	1	
+orth	Diarrhée		
 pb	94	0106	1009707
 entry	Dissenterie	4	
+orth	Dissenterie		
 pb	95	0107	1009708
 pb	96	0108	1009709
 pb	97	0109	1009710
 pb	98	0110	1009711
 entry	Ecrouelles	5	
+orth	Ecrouelles		
 pb	99	0111	1009712
 pb	100	0112	1009713
 pb	101	0113	1009714
 pb	102	0114	1009715
 pb	103	0115	1009716
 entry	Eléphantiasis	0	
+orth	Eléphantiasis		
 ref	lépre		
 entry	Emphyseme	1	
+orth	Emphyseme		
 pb	104	0116	1009717
 entry	Empyeme	3	
+orth	Empyeme		
 pb	105	0117	1009718
 pb	106	0118	1009719
 pb	107	0119	1009720
 entry	Engelure	1	
+orth	Engelure		
 pb	108	0120	1009721
 pb	109	0121	1009722
 entry	Epilepsie	1	
+orth	Epilepsie		
 pb	110	0122	1009723
 entry	Epuisement	0	
+orth	Epuisement		
 ref	foiblesse		
 entry	Erésipelle	2	
+orth	Erésipelle		
 pb	111	0123	1009724
 pb	112	0124	1009725
 entry	Exostose	1	
+orth	Exostose		
 pb	113	0125	1009726
 entry	Faim canine	1	
+orth	Faim canine		
 pb	114	0126	1009727
 entry	Feu persique	0	
+orth	Feu persique		
 entry	Feu sacré	0	
+orth	Feu sacré		
 pb	115	0127	1009728
 entry	Fic	0	
+orth	Fic		
 entry	Fiévre	41	
+orth	Fiévre		
 pb	116	0128	1009729
 pb	117	0129	1009730
 pb	118	0130	1009731
@@ -254,6 +314,7 @@ pb	154	0166	1009767
 pb	155	0167	1009768
 pb	156	0168	1009769
 entry	Fistule	5	
+orth	Fistule		
 pb	157	0169	1009770
 pb	158	0170	1009771
 pb	159	0171	1009772
@@ -261,8 +322,10 @@ pb	160	0172	1009773
 pb	161	0173	1009774
 pb	162	0174	1009775
 entry	Flatuosités	1	
+orth	Flatuosités		
 pb	163	0175	1009776
 entry	Fleurs blanches	14	
+orth	Fleurs blanches		
 pb	164	0176	1009777
 pb	165	0177	1009778
 pb	166	0178	1009779
@@ -279,24 +342,31 @@ pb	176	0188	1009789
 pb	177	0189	1009790
 pb	178	0190	1009791
 entry	Flux	1	
+orth	Flux		
 pb	179	0191	1009792
 entry	Fluxion	1	
+orth	Fluxion		
 pb	180	0192	1009793
 entry	Foiblesse	0	
+orth	Foiblesse		
 pb	181	0193	1009794
 entry	Folie	4	
+orth	Folie		
 pb	182	0194	1009795
 pb	183	0195	1009796
 pb	184	0196	1009797
 pb	185	0197	1009798
 entry	Fureur utérine	2	
+orth	Fureur utérine		
 pb	186	0198	1009799
 pb	187	0199	1009800
 pb	188	0200	1009801
 entry	Galle	1	
+orth	Galle		
 pb	189	0201	1009802
 pb	190	0202	1009803
 entry	Gangrene	6	
+orth	Gangrene		
 pb	191	0203	1009804
 pb	192	0204	1009805
 pb	193	0205	1009806
@@ -304,47 +374,59 @@ pb	194	0206	1009807
 pb	195	0207	1009808
 pb	196	0208	1009809
 entry	Gonorrhée	5	
+orth	Gonorrhée		
 pb	197	0209	1009810
 pb	198	0210	1009811
 pb	199	0211	1009812
 pb	200	0212	1009813
 pb	201	0213	1009814
 entry	Goutte	5	
+orth	Goutte		
 pb	202	0214	1009815
 pb	203	0215	1009816
 pb	204	0216	1009817
 pb	205	0217	1009818
 pb	206	0218	1009819
 entry	Goutte sereine	3	
+orth	Goutte sereine		
 pb	207	0219	1009820
 pb	208	0220	1009821
 pb	209	0221	1009822
 entry	Gravelle	0	
+orth	Gravelle		
 ref	colique		
 entry	Grossesse	2	
+orth	Grossesse		
 pb	210	0222	1009823
 pb	211	0223	1009824
 entry	Hémiplégie	0	
+orth	Hémiplégie		
 ref	paralysie		
 pb	212	0224	1009825
 entry	Hémophtysie	2	
+orth	Hémophtysie		
 pb	213	0225	1009826
 pb	214	0226	1009827
 entry	Hémorrhoides	2	
+orth	Hémorrhoides		
 pb	215	0227	1009828
 pb	216	0228	1009829
 entry	Hépatite	2	
+orth	Hépatite		
 pb	217	0229	1009830
 pb	218	0230	1009831
 entry	Hernie	5	
+orth	Hernie		
 pb	219	0231	1009832
 pb	220	0232	1009833
 pb	221	0233	1009834
 pb	222	0234	1009835
 pb	223	0235	1009836
 entry	Hydrophobie	0	
+orth	Hydrophobie		
 ref	rage		
 entry	Hydropisie	28	
+orth	Hydropisie		
 pb	224	0236	1009837
 pb	225	0237	1009838
 pb	226	0238	1009839
@@ -374,11 +456,14 @@ pb	249	0261	1009862
 pb	250	0262	1009863
 pb	251	0263	1009864
 entry	Hypochondrie	0	
+orth	Hypochondrie		
 ref	mélancholie		
 entry	Hystérie	0	
+orth	Hystérie		
 ref	vapeurs hystériques		
 pb	252	0264	1009865
 entry	Inflammation	7	
+orth	Inflammation		
 pb	253	0265	1009866
 pb	254	0266	1009867
 pb	255	0267	1009868
@@ -388,40 +473,53 @@ pb	258	0270	1009871
 pb	259	0271	1009872
 pb	260	0272	1009873
 entry	Jaunisse	1	
+orth	Jaunisse		
 pb	261	0273	1009874
 pb	262	0274	1009875
 entry	Ladrerie	0	
+orth	Ladrerie		
 ref	lépre		
 entry	Lépre	2	
+orth	Lépre		
 pb	263	0275	1009876
 pb	264	0276	1009877
 entry	Leucophlegmatie	0	
+orth	Leucophlegmatie		
 ref	hydropisie		
 entry	Lienterie	0	
+orth	Lienterie		
 ref	dyarrhée		
 entry	Lipothymie	0	
+orth	Lipothymie		
 ref	foiblesse		
 entry	Lycantropie	0	
+orth	Lycantropie		
 ref	mélancholie		
 pb	265	0277	1009878
 entry	Manie	3	
+orth	Manie		
 pb	266	0278	1009879
 pb	267	0279	1009880
 pb	268	0280	1009881
 entry	Marasme	4	
+orth	Marasme		
 pb	269	0281	1009882
 pb	270	0282	1009883
 pb	271	0283	1009884
 pb	272	0284	1009885
 entry	Mélancolie	2	
+orth	Mélancolie		
 pb	273	0285	1009886
 pb	274	0286	1009887
 entry	Migraine	1	
+orth	Migraine		
 pb	275	0287	1009888
 entry	Miserere	0	
+orth	Miserere		
 ref	passion iliaque		
 pb	276	0288	1009889
 entry	Mole	4	
+orth	Mole		
 pb	277	0289	1009890
 pb	278	0290	1009891
 pb	279	0291	1009892
@@ -433,47 +531,62 @@ pb	281	0293	1009894
 pb	282	0294	1009895
 pb	283	0295	1009896
 entry	Myopie	0	
+orth	Myopie		
 pb	284	0296	1009897
 entry	Néphrésie ou néphrétique	0	
 orth	Néphrésie		
 orth	néphrétique		
 ref	colique		
 entry	Nostalgie	1	
+orth	Nostalgie		
 pb	285	0297	1009898
 entry	Nyctalopie	0	
+orth	Nyctalopie		
 pb	286	0298	1009899
 entry	Obstruction	4	
+orth	Obstruction		
 pb	287	0299	1009900
 pb	288	0300	1009901
 pb	289	0301	1009902
 pb	290	0302	1009903
 entry	Oedeme	0	
+orth	Oedeme		
 entry	Onanisme	3	
+orth	Onanisme		
 pb	291	0303	1009904
 pb	292	0304	1009905
 pb	293	0305	1009906
 entry	Ophtalmie	3	
+orth	Ophtalmie		
 pb	294	0306	1009907
 pb	295	0307	1009908
 pb	296	0308	1009909
 entry	Opisthotonos	1	
+orth	Opisthotonos		
 pb	297	0309	1009910
 entry	Ozene	0	
+orth	Ozene		
 pb	298	0310	1009911
 entry	Pales couleurs	0	
+orth	Pales couleurs		
 ref	chlorosis		
 entry	Panaris	1	
+orth	Panaris		
 pb	299	0311	1009912
 pb	300	0312	1009913
 entry	Paralysie	2	
+orth	Paralysie		
 pb	301	0313	1009914
 pb	302	0314	1009915
 entry	Paraphrénésie	1	
+orth	Paraphrénésie		
 pb	303	0315	1009916
 pb	304	0316	1009917
 entry	Passion iliaque	1	
+orth	Passion iliaque		
 pb	305	0317	1009918
 entry	Passion hystérique	11	
+orth	Passion hystérique		
 pb	306	0318	1009919
 pb	307	0319	1009920
 pb	308	0320	1009921
@@ -487,10 +600,13 @@ pb	315	0327	1009928
 pb	316	0328	1009929
 pb	317	0329	1009930
 entry	Péripneumonie	1	
+orth	Péripneumonie		
 pb	318	0330	1009931
 entry	Péripneumonie fausse	1	
+orth	Péripneumonie fausse		
 pb	319	0331	1009932
 entry	Perte de sang	7	
+orth	Perte de sang		
 pb	320	0332	1009933
 pb	321	0333	1009934
 pb	322	0334	1009935
@@ -499,10 +615,12 @@ pb	324	0336	1009937
 pb	325	0337	1009938
 pb	326	0338	1009939
 entry	Peste	3	
+orth	Peste		
 pb	327	0339	1009940
 pb	328	0340	1009941
 pb	329	0341	1009942
 entry	Petite vérole	8	
+orth	Petite vérole		
 pb	330	0342	1009943
 pb	331	0343	1009944
 pb	332	0344	1009945
@@ -512,15 +630,19 @@ pb	335	0347	1009948
 pb	336	0348	1009949
 pb	337	0349	1009950
 entry	Phlegmon	2	
+orth	Phlegmon		
 pb	338	0350	1009951
 pb	339	0351	1009952
 entry	Phrénésie	1	
+orth	Phrénésie		
 pb	340	0352	1009953
 entry	Phtysie	3	
+orth	Phtysie		
 pb	341	0353	1009954
 pb	342	0354	1009955
 pb	343	0355	1009956
 entry	Pierre	6	
+orth	Pierre		
 pb	344	0356	1009957
 pb	345	0357	1009958
 pb	346	0358	1009959
@@ -528,27 +650,35 @@ pb	347	0359	1009960
 pb	348	0360	1009961
 pb	349	0361	1009962
 entry	Pleurésie	1	
+orth	Pleurésie		
 pb	350	0362	1009963
 pb	351	0363	1009964
 entry	Poil	1	
+orth	Poil		
 pb	352	0364	1009965
 entry	Poisons	3	
+orth	Poisons		
 pb	353	0365	1009966
 pb	354	0366	1009967
 pb	355	0367	1009968
 entry	Poulain	0	
+orth	Poulain		
 ref	bubon		
 entry	Pulmonie	0	
+orth	Pulmonie		
 ref	phtysie		
 pb	356	0368	1009969
 entry	Rachitis	0	
+orth	Rachitis		
 pb	357	0369	1009970
 entry	Rage	4	
+orth	Rage		
 pb	358	0370	1009971
 pb	359	0371	1009972
 pb	360	0372	1009973
 pb	361	0373	1009974
 entry	Régles	12	
+orth	Régles		
 pb	362	0374	1009975
 pb	363	0375	1009976
 pb	364	0376	1009977
@@ -562,25 +692,33 @@ pb	371	0383	1009984
 pb	372	0384	1009985
 pb	373	0385	1009986
 entry	Renversement de la matrice	2	
+orth	Renversement de la matrice		
 pb	374	0386	1009987
 pb	375	0387	1009988
 entry	Rétention d'urine	1	
+orth	Rétention d'urine		
 pb	376	0388	1009989
 entry	Rhumatisme	2	
+orth	Rhumatisme		
 pb	377	0389	1009990
 pb	378	0390	1009991
 entry	Rhume	0	
+orth	Rhume		
 pb	379	0391	1009992
 entry	Scorbut	4	
+orth	Scorbut		
 pb	380	0392	1009993
 pb	381	0393	1009994
 pb	382	0394	1009995
 pb	383	0395	1009996
 entry	Spina ventosa	1	
+orth	Spina ventosa		
 pb	384	0396	1009997
 entry	Squinancie	0	
+orth	Squinancie		
 ref	angine		
 entry	Squirrhe	10	
+orth	Squirrhe		
 pb	385	0397	1009998
 pb	386	0398	1009999
 pb	387	0399	1010000
@@ -592,17 +730,21 @@ pb	392	0404	1010005
 pb	393	0405	1010006
 pb	394	0406	1010007
 entry	Suette	2	
+orth	Suette		
 pb	395	0407	1010008
 pb	396	0408	1010009
 pb	397	0409	1010010
 entry	Toenia	0	
+orth	Toenia		
 ref	vers		
 entry	Tympanite	3	
+orth	Tympanite		
 pb	398	0410	1010011
 pb	399	0411	1010012
 pb	400	0412	1010013
 pb	401	0413	1010014
 entry	Ulceres	17	
+orth	Ulceres		
 pb	402	0414	1010015
 pb	403	0415	1010016
 pb	404	0416	1010017
@@ -622,10 +764,13 @@ pb	417	0429	1010030
 pb	418	0430	1010031
 pb	419	0431	1010032
 entry	Vapeurs histériques	0	
+orth	Vapeurs histériques		
 ref	passion hystérique		
 entry	Vents	0	
+orth	Vents		
 ref	flatuosités		
 entry	Vérole	13	
+orth	Vérole		
 pb	420	0432	1010033
 pb	421	0433	1010034
 pb	422	0434	1010035
@@ -640,6 +785,7 @@ pb	430	0442	1010043
 pb	431	0443	1010044
 pb	432	0444	1010045
 entry	Vers	6	
+orth	Vers		
 pb	433	0445	1010046
 pb	434	0446	1010047
 pb	435	0447	1010048
@@ -647,12 +793,16 @@ pb	436	0448	1010049
 pb	437	0449	1010050
 pb	438	0450	1010051
 entry	Volvulus	0	
+orth	Volvulus		
 ref	passion iliaque		
 entry	Vomique	2	
+orth	Vomique		
 pb	439	0451	1010052
 pb	440	0452	1010053
 pb	[s. pag.]	0453	1010054
 entry	Approbation du censeur royal. Privilège du Roi	0	
+orth	Approbation du censeur royal. Privilège du Roi		
 pb	[s. pag.]	0454	1010055
 entry	Privilège du Roi	1	
+orth	Privilège du Roi		
 pb	[s. pag.]	0455	1010056

@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	5584500
 pb	[s. pag.]	0005	5584501
 entry	Avertissement	2	
+orth	Avertissement		
 pb	VI	0006	5584502
 pb	VII	0007	5584503
 pb	[s. pag.]	0008	5584504
@@ -16,88 +17,146 @@ orth	de pharmacologie
 orth	de toxicologie		
 orth	des eaux minérales. Abondance		
 entry	Abrest	0	
+orth	Abrest		
 entry	Abrunheira	0	
+orth	Abrunheira		
 entry	Acétals	0	
+orth	Acétals		
 entry	Acétoortholuide	1	
+orth	Acétoortholuide		
 pb	2	0010	5584506
 entry	Acétylamidosalol	0	
+orth	Acétylamidosalol		
 entry	Acéthyléthylène-Phénylhydrazine	0	
+orth	Acéthyléthylène-Phénylhydrazine		
 entry	Aconitine	3	
+orth	Aconitine		
 pb	3	0011	5584507
 pb	4	0012	5584508
 pb	5	0013	5584509
 entry	Acorine	0	
+orth	Acorine		
 entry	Acrocomia sclerocarpa	0	
+orth	Acrocomia sclerocarpa		
 entry	Actae racemosa	1	
+orth	Actae racemosa		
 pb	6	0014	5584510
 entry	Actinomeris helianthoides	0	
+orth	Actinomeris helianthoides		
 entry	Adonis Vernalis	1	
+orth	Adonis Vernalis		
 pb	7	0015	5584511
 entry	Agaric Blanc	2	
+orth	Agaric Blanc		
 pb	8	0016	5584512
 pb	9	0017	5584513
 entry	Agathine	0	
+orth	Agathine		
 entry	Aguas santas	0	
+orth	Aguas santas		
 entry	Aiguemont	1	
+orth	Aiguemont		
 pb	10	0018	5584514
 entry	Ail	0	
+orth	Ail		
 entry	Airelle	0	
+orth	Airelle		
 entry	Aizac	0	
+orth	Aizac		
 entry	Alafoes	0	
+orth	Alafoes		
 entry	Alandroal	0	
+orth	Alandroal		
 entry	Alangine	1	
+orth	Alangine		
 pb	11	0019	5584515
 entry	Alcaçarias de lisboa	0	
+orth	Alcaçarias de lisboa		
 entry	Alcafache	0	
+orth	Alcafache		
 entry	Alcalins	1	
+orth	Alcalins		
 pb	12	0020	5584516
 entry	Alcabaça	0	
+orth	Alcabaça		
 entry	Aldea nova	0	
+orth	Aldea nova		
 entry	Aletris Farinosa	0	
+orth	Aletris Farinosa		
 entry	Alexandrie	0	
+orth	Alexandrie		
 entry	Alfaiao	0	
+orth	Alfaiao		
 entry	Alferce	0	
+orth	Alferce		
 entry	Alhama de Almeria	1	
+orth	Alhama de Almeria		
 pb	13	0021	5584517
 entry	Alhama nuevo de granada	0	
+orth	Alhama nuevo de granada		
 entry	Alhandra	0	
+orth	Alhandra		
 entry	Almeida	0	
+orth	Almeida		
 entry	Almofala	0	
+orth	Almofala		
 entry	Almoinha	0	
+orth	Almoinha		
 entry	Aloès	0	
+orth	Aloès		
 entry	Alpedrinha	0	
+orth	Alpedrinha		
 entry	Alphol	1	
+orth	Alphol		
 pb	14	0022	5584518
 entry	Alt-Shol	0	
+orth	Alt-Shol		
 entry	Aluminium	0	
+orth	Aluminium		
 entry	Alumnol	1	
+orth	Alumnol		
 pb	15	0023	5584519
 pb	16	0024	5584520
 entry	Almunol	0	
+orth	Almunol		
 entry	Amieira	0	
+orth	Amieira		
 entry	Amiens	1	
+orth	Amiens		
 pb	17	0025	5584521
 entry	Amylène	1	
+orth	Amylène		
 pb	18	0026	5584522
 entry	Analgésiques	1	
+orth	Analgésiques		
 pb	19	0027	5584523
 entry	Analgène	1	
+orth	Analgène		
 pb	20	0028	5584524
 entry	Ananas	0	
+orth	Ananas		
 entry	Anémonine	1	
+orth	Anémonine		
 pb	21	0029	5584525
 entry	Anesthésiques	3	
+orth	Anesthésiques		
 pb	22	0030	5584526
 pb	23	0031	5584527
 pb	24	0032	5584528
 entry	Angusture vraie	1	
+orth	Angusture vraie		
 pb	25	0033	5584529
 entry	Anis	0	
+orth	Anis		
 entry	Anticolérine	0	
+orth	Anticolérine		
 entry	Antimoine	1	
+orth	Antimoine		
 pb	26	0034	5584530
 entry	Antinervine	0	
+orth	Antinervine		
 entry	Antypirine	10	
+orth	Antypirine		
 pb	27	0035	5584531
 pb	28	0036	5584532
 pb	29	0037	5584533
@@ -109,9 +168,13 @@ pb	34	0042	5584538
 pb	35	0043	5584539
 pb	36	0044	5584540
 entry	Antirhumatine	0	
+orth	Antirhumatine		
 entry	Antisana	0	
+orth	Antisana		
 entry	Antispetine	0	
+orth	Antispetine		
 entry	Antisepsie	46	
+orth	Antisepsie		
 pb	37	0045	5584541
 pb	38	0046	5584542
 pb	39	0047	5584543
@@ -159,181 +222,299 @@ pb	80	0088	5584584
 pb	81	0089	5584585
 pb	82	0090	5584586
 entry	Antiseptol	0	
+orth	Antiseptol		
 entry	Antispasmine	0	
+orth	Antispasmine		
 entry	Antithermine	1	
+orth	Antithermine		
 pb	83	0091	5584587
 entry	Apocynum cannabinum	0	
+orth	Apocynum cannabinum		
 entry	Arasa	0	
+orth	Arasa		
 entry	Arctostaphylos	0	
+orth	Arctostaphylos		
 entry	Aréal	0	
+orth	Aréal		
 entry	Arec (Noix d')	2	
+orth	Arec (Noix d')		
 pb	84	0092	5584588
 pb	85	0093	5584589
 entry	Aregos	1	
+orth	Aregos		
 pb	86	0094	5584590
 entry	Arenaria rubra	0	
+orth	Arenaria rubra		
 entry	Arez	0	
+orth	Arez		
 entry	Arganier	0	
+orth	Arganier		
 entry	Argentamine	1	
+orth	Argentamine		
 pb	87	0095	5584591
 entry	Argentière	0	
+orth	Argentière		
 entry	Argile	0	
+orth	Argile		
 entry	Aristol	4	
+orth	Aristol		
 pb	88	0096	5584592
 pb	89	0097	5584593
 pb	90	0098	5584594
 pb	91	0099	5584595
 entry	Aristolochia argentina	1	
+orth	Aristolochia argentina		
 pb	92	0100	5584596
 entry	Arlanzon	0	
+orth	Arlanzon		
 entry	Arnica montana	0	
+orth	Arnica montana		
 entry	Aromatiques	1	
+orth	Aromatiques		
 pb	93	0101	5584597
 entry	Arrabidos	0	
+orth	Arrabidos		
 entry	Arriola	0	
+orth	Arriola		
 entry	Arro	0	
+orth	Arro		
 entry	Arsenic	4	
+orth	Arsenic		
 pb	94	0102	5584598
 pb	95	0103	5584599
 pb	96	0104	5584600
 pb	97	0105	5584601
 entry	Artar-Root	0	
+orth	Artar-Root		
 entry	Artemisia Absinthium	1	
+orth	Artemisia Absinthium		
 pb	98	0106	5584602
 entry	Asaprol	3	
+orth	Asaprol		
 pb	99	0107	5584603
 pb	100	0108	5584604
 pb	101	0109	5584605
 entry	Asarum europaeum	1	
+orth	Asarum europaeum		
 pb	102	0110	5584606
 entry	Asepsine	1	
+orth	Asepsine		
 pb	103	0111	5584607
 entry	Aseptinique (Acide)	0	
+orth	Aseptinique (Acide)		
 entry	Asiminine	0	
+orth	Asiminine		
 entry	Asparagine	0	
+orth	Asparagine		
 entry	Asparagine hydrargyrique	1	
+orth	Asparagine hydrargyrique		
 pb	104	0112	5584608
 entry	Asperge	0	
+orth	Asperge		
 entry	Asperjoc	0	
+orth	Asperjoc		
 entry	Aspidium athamanticum	0	
+orth	Aspidium athamanticum		
 entry	Aspilia latifolia	0	
+orth	Aspilia latifolia		
 entry	Astragalus mollissimus	1	
+orth	Astragalus mollissimus		
 pb	105	0113	5584609
 entry	Ataboeira	0	
+orth	Ataboeira		
 entry	Ataun	0	
+orth	Ataun		
 entry	Atherosperma moschata	1	
+orth	Atherosperma moschata		
 pb	106	0114	5584610
 entry	Aunée	2	
+orth	Aunée		
 pb	107	0115	5584611
 pb	108	0116	5584612
 entry	Azéna	0	
+orth	Azéna		
 entry	Azote	1	
+orth	Azote		
 pb	109	0117	5584613
 entry	Bacellos	0	
+orth	Bacellos		
 entry	Bagniska	0	
+orth	Bagniska		
 entry	Bagno-a-carsena	0	
+orth	Bagno-a-carsena		
 entry	Bakou	0	
+orth	Bakou		
 entry	Baldon	0	
+orth	Baldon		
 entry	Banane	1	
+orth	Banane		
 pb	110	0118	5584614
 entry	Bania	0	
+orth	Bania		
 entry	Banialouka	0	
+orth	Banialouka		
 entry	Banolas	0	
+orth	Banolas		
 entry	Banos	1	
+orth	Banos		
 pb	111	0119	5584615
 entry	Banya (Kis-)	0	
+orth	Banya (Kis-)		
 entry	Barcellos	0	
+orth	Barcellos		
 entry	Barthalay	0	
+orth	Barthalay		
 entry	Baryum	1	
+orth	Baryum		
 pb	112	0120	5584616
 entry	Battaglia	1	
+orth	Battaglia		
 pb	113	0121	5584617
 entry	Baumes	0	
+orth	Baumes		
 entry	Beaulieu	0	
+orth	Beaulieu		
 entry	Belladone	3	
+orth	Belladone		
 pb	114	0122	5584618
 pb	115	0123	5584619
 pb	116	0124	5584620
 entry	Bégude	0	
+orth	Bégude		
 entry	Beira (Estrada da)	0	
+orth	Beira (Estrada da)		
 entry	Belascoain	0	
+orth	Belascoain		
 entry	Belver	0	
+orth	Belver		
 entry	Bem saude	0	
+orth	Bem saude		
 entry	Benzanilide	0	
+orth	Benzanilide		
 entry	Benzine	1	
+orth	Benzine		
 pb	117	0125	5584621
 entry	Benzoiques (Acide)	1	
+orth	Benzoiques (Acide)		
 pb	118	0126	5584622
 entry	Benzonaphtol	2	
+orth	Benzonaphtol		
 pb	119	0127	5584623
 pb	120	0128	5584624
 entry	Benzo-Paracrésol	0	
+orth	Benzo-Paracrésol		
 entry	Benzosol	1	
+orth	Benzosol		
 pb	121	0129	5584625
 entry	Benzoyleugénol	0	
+orth	Benzoyleugénol		
 entry	Berbérine	0	
+orth	Berbérine		
 entry	Berthemont	0	
+orth	Berthemont		
 pb	122	0130	5584626
 entry	Bétel	0	
+orth	Bétel		
 entry	Bételu	1	
+orth	Bételu		
 pb	123	0131	5584627
 entry	Bétol	0	
+orth	Bétol		
 entry	Biarritz	0	
+orth	Biarritz		
 entry	Bicanho	0	
+orth	Bicanho		
 entry	Biophène	0	
+orth	Biophène		
 entry	Bismuth	4	
+orth	Bismuth		
 pb	124	0132	5584628
 pb	125	0133	5584629
 pb	126	0134	5584630
 pb	127	0135	5584631
 entry	Boerhaavia decumbens	0	
+orth	Boerhaavia decumbens		
 entry	Bois-lantal	0	
+orth	Bois-lantal		
 entry	Boldine	0	
+orth	Boldine		
 entry	Bonnefont	0	
+orth	Bonnefont		
 entry	Bore	2	
+orth	Bore		
 pb	128	0136	5584632
 pb	129	0137	5584633
 entry	Borines	0	
+orth	Borines		
 entry	Bormio	1	
+orth	Bormio		
 pb	130	0138	5584634
 entry	Borosalicylate de soude	0	
+orth	Borosalicylate de soude		
 entry	Boucharade	0	
+orth	Boucharade		
 entry	Bouzas	0	
+orth	Bouzas		
 entry	Braga	0	
+orth	Braga		
 entry	Brancas	0	
+orth	Brancas		
 pb	131	0139	5584635
 entry	Bravas	0	
+orth	Bravas		
 entry	Bretonnière	0	
+orth	Bretonnière		
 entry	Bromal	0	
+orth	Bromal		
 entry	Bromamide	0	
+orth	Bromamide		
 entry	Brome	2	
+orth	Brome		
 pb	132	0140	5584636
 pb	133	0141	5584637
 entry	Brométhylformine	0	
+orth	Brométhylformine		
 entry	Bromoforme	1	
+orth	Bromoforme		
 pb	134	0142	5584638
 entry	Bromol	0	
+orth	Bromol		
 pb	135	0143	5584639
 entry	Bromo-Phénol	0	
+orth	Bromo-Phénol		
 entry	Bromopyrine	0	
+orth	Bromopyrine		
 entry	Bromure d'éthyle	3	
+orth	Bromure d'éthyle		
 pb	136	0144	5584640
 pb	137	0145	5584641
 pb	138	0146	5584642
 entry	Brucourt	0	
+orth	Brucourt		
 entry	Bruyères de Nava	0	
+orth	Bruyères de Nava		
 entry	Bryone	1	
+orth	Bryone		
 pb	139	0147	5584643
 entry	Bulicame	0	
+orth	Bulicame		
 entry	Bully-sur-Arbresle	0	
+orth	Bully-sur-Arbresle		
 entry	Burlada	0	
+orth	Burlada		
 entry	Bussaco	0	
+orth	Bussaco		
 entry	Butylhypnal	0	
+orth	Butylhypnal		
 entry	Cabo mondego	0	
+orth	Cabo mondego		
 entry	Cachopo	0	
+orth	Cachopo		
 pb	140	0148	5584644
 entry	Cactus grandiflora	0	
+orth	Cactus grandiflora		
 entry	Café	6	
+orth	Café		
 pb	141	0149	5584645
 pb	142	0150	5584646
 pb	143	0151	5584647
@@ -341,106 +522,171 @@ pb	144	0152	5584648
 pb	145	0153	5584649
 pb	146	0154	5584650
 entry	Caféinsulfonique (Acide)	0	
+orth	Caféinsulfonique (Acide)		
 entry	Cainça	1	
+orth	Cainça		
 pb	147	0155	5584651
 entry	Calabar (Fève de)	1	
+orth	Calabar (Fève de)		
 pb	148	0156	5584652
 entry	Calabor	0	
+orth	Calabor		
 entry	Calcium	2	
+orth	Calcium		
 pb	149	0157	5584653
 pb	150	0158	5584654
 entry	Caldane	0	
+orth	Caldane		
 entry	Caldanella de mosi	0	
+orth	Caldanella de mosi		
 pb	151	0159	5584655
 entry	Caldas	0	
+orth	Caldas		
 entry	Caldellas	0	
+orth	Caldellas		
 entry	Calophyllum inophyllum	1	
+orth	Calophyllum inophyllum		
 pb	152	0160	5584656
 entry	Calotropis gigantea	0	
+orth	Calotropis gigantea		
 pb	153	0161	5584657
 entry	Calotropis de gigantea	0	
+orth	Calotropis de gigantea		
 entry	Calzadilla Pel Campo	0	
+orth	Calzadilla Pel Campo		
 entry	Camara	0	
+orth	Camara		
 entry	Camphre	2	
+orth	Camphre		
 pb	154	0162	5584658
 pb	155	0163	5584659
 entry	Camphorique (Acide)	0	
+orth	Camphorique (Acide)		
 entry	Campilho	0	
+orth	Campilho		
 entry	Canavezes	0	
+orth	Canavezes		
 entry	Caneças	0	
+orth	Caneças		
 entry	Cangoura	1	
+orth	Cangoura		
 pb	156	0164	5584660
 entry	Cannabis indica	5	
+orth	Cannabis indica		
 pb	157	0165	5584661
 pb	158	0166	5584662
 pb	159	0167	5584663
 pb	160	0168	5584664
 pb	161	0169	5584665
 entry	Cannas de senhorim	0	
+orth	Cannas de senhorim		
 entry	Cannelle	0	
+orth	Cannelle		
 entry	Cantharides	1	
+orth	Cantharides		
 pb	162	0170	5584666
 entry	Cantharidine	0	
+orth	Cantharidine		
 entry	Cao de couche	0	
+orth	Cao de couche		
 entry	Carabana	1	
+orth	Carabana		
 pb	163	0171	5584667
 entry	Carapa gianensis	0	
+orth	Carapa gianensis		
 entry	Caratao	0	
+orth	Caratao		
 entry	Carbothialdine	1	
+orth	Carbothialdine		
 pb	164	0172	5584668
 entry	Cardo	0	
+orth	Cardo		
 entry	Carrisa xylopicron	0	
+orth	Carrisa xylopicron		
 entry	Carlao	0	
+orth	Carlao		
 entry	Carpaïne	1	
+orth	Carpaïne		
 pb	165	0173	5584669
 entry	Carvalhal	0	
+orth	Carvalhal		
 entry	Carvalhelhos	0	
+orth	Carvalhelhos		
 entry	Casas da ribeira	0	
+orth	Casas da ribeira		
 entry	Cascaes	0	
+orth	Cascaes		
 entry	Cascara sagrada	1	
+orth	Cascara sagrada		
 pb	166	0174	5584670
 entry	Casearia esculanta	1	
+orth	Casearia esculanta		
 pb	167	0175	5584671
 entry	Castanheirinho	0	
+orth	Castanheirinho		
 entry	Catha edulis	1	
+orth	Catha edulis		
 pb	168	0176	5584672
 entry	Celastrus	0	
+orth	Celastrus		
 entry	Cerbérine	1	
+orth	Cerbérine		
 pb	169	0177	5584673
 entry	Cervera-del-Rio Alhama	0	
+orth	Cervera-del-Rio Alhama		
 entry	Cévadille	0	
+orth	Cévadille		
 entry	Chafariz Do Rei	0	
+orth	Chafariz Do Rei		
 entry	Chaffaud	0	
+orth	Chaffaud		
 entry	Chaldette (la)	0	
+orth	Chaldette (la)		
 pb	170	0178	5584674
 entry	Charlieu	0	
+orth	Charlieu		
 entry	Chatel-Guyon	0	
+orth	Chatel-Guyon		
 entry	Chaulmoogra	0	
+orth	Chaulmoogra		
 entry	Chaussée (la)	0	
+orth	Chaussée (la)		
 entry	Chaves	0	
+orth	Chaves		
 entry	Chiclana	1	
+orth	Chiclana		
 pb	171	0179	5584675
 entry	Chimaphila umbellata	0	
+orth	Chimaphila umbellata		
 pb	172	0180	5584676
 entry	Chimaphilla umbellata	0	
+orth	Chimaphilla umbellata		
 entry	Chirols	0	
+orth	Chirols		
 entry	Chloralamide	3	
+orth	Chloralamide		
 pb	173	0181	5584677
 pb	174	0182	5584678
 pb	175	0183	5584679
 entry	Chloralammonium	1	
+orth	Chloralammonium		
 pb	176	0184	5584680
 entry	Chloralides	0	
+orth	Chloralides		
 entry	Chloralimide	1	
+orth	Chloralimide		
 pb	177	0185	5584681
 entry	Chloralose	5	
+orth	Chloralose		
 pb	178	0186	5584682
 pb	179	0187	5584683
 pb	180	0188	5584684
 pb	181	0189	5584685
 pb	182	0190	5584686
 entry	Chloranthus officinalis	0	
+orth	Chloranthus officinalis		
 entry	Chlorates	6	
+orth	Chlorates		
 pb	183	0191	5584687
 pb	184	0192	5584688
 pb	185	0193	5584689
@@ -448,6 +694,7 @@ pb	186	0194	5584690
 pb	187	0195	5584691
 pb	188	0196	5584692
 entry	Chlore	13	
+orth	Chlore		
 pb	189	0197	5584693
 pb	190	0198	5584694
 pb	191	0199	5584695
@@ -462,19 +709,29 @@ pb	199	0207	5584703
 pb	200	0208	5584704
 pb	201	0209	5584705
 entry	Chromique (Acide)	1	
+orth	Chromique (Acide)		
 pb	202	0210	5584706
 entry	Chrysarobine	1	
+orth	Chrysarobine		
 pb	203	0211	5584707
 entry	Chulilla	0	
+orth	Chulilla		
 entry	Clots (les)	0	
+orth	Clots (les)		
 entry	Ciguë	1	
+orth	Ciguë		
 pb	204	0212	5584708
 entry	Clerodendron heterophyllum	0	
+orth	Clerodendron heterophyllum		
 pb	205	0213	5584709
 entry	Clitorea terneata	0	
+orth	Clitorea terneata		
 entry	Clusia rosea	0	
+orth	Clusia rosea		
 entry	Cneorum Tricoccum	0	
+orth	Cneorum Tricoccum		
 entry	Coca	18	
+orth	Coca		
 pb	206	0214	5584710
 pb	207	0215	5584711
 pb	208	0216	5584712
@@ -494,46 +751,71 @@ pb	221	0229	5584725
 pb	222	0230	5584726
 pb	223	0231	5584727
 entry	Cocillana	3	
+orth	Cocillana		
 pb	224	0232	5584728
 pb	225	0233	5584729
 pb	226	0234	5584730
 entry	Coïmbra	0	
+orth	Coïmbra		
 entry	Colchicine	1	
+orth	Colchicine		
 pb	227	0235	5584731
 entry	Colocasia esculenta	1	
+orth	Colocasia esculenta		
 pb	228	0236	5584732
 entry	Colocynthine	0	
+orth	Colocynthine		
 entry	Colombo	2	
+orth	Colombo		
 pb	229	0237	5584733
 pb	230	0238	5584734
 entry	Combretum Raimbaultii	1	
+orth	Combretum Raimbaultii		
 pb	231	0239	5584735
 entry	Concombre	0	
+orth	Concombre		
 entry	Condorcet	0	
+orth	Condorcet		
 entry	Condurango	5	
+orth	Condurango		
 pb	232	0240	5584736
 pb	233	0241	5584737
 pb	234	0242	5584738
 pb	235	0243	5584739
 pb	236	0244	5584740
 entry	Corconte	0	
+orth	Corconte		
 entry	Cordelle	0	
+orth	Cordelle		
 pb	237	0245	5584741
 entry	Coronilla scorpioides	1	
+orth	Coronilla scorpioides		
 pb	238	0246	5584742
 entry	Cortézubi	0	
+orth	Cortézubi		
 entry	Corva Ceira	0	
+orth	Corva Ceira		
 entry	Corydalis Bulbosa	1	
+orth	Corydalis Bulbosa		
 pb	239	0247	5584743
 entry	Coscinium fenestratum	0	
+orth	Coscinium fenestratum		
 entry	Costancia	0	
+orth	Costancia		
 entry	Coto paracoto	0	
+orth	Coto paracoto		
 entry	Coulet (le)	0	
+orth	Coulet (le)		
 entry	Covelos	0	
+orth	Covelos		
 entry	Coxos	0	
+orth	Coxos		
 entry	Creixomil	0	
+orth	Creixomil		
 entry	Créoline	0	
+orth	Créoline		
 entry	Créosote	8	
+orth	Créosote		
 pb	240	0248	5584744
 pb	241	0249	5584745
 pb	242	0250	5584746
@@ -543,45 +825,72 @@ pb	245	0253	5584749
 pb	246	0254	5584750
 pb	247	0255	5584751
 entry	Crésine	0	
+orth	Crésine		
 entry	Crésolsaponate	0	
+orth	Crésolsaponate		
 entry	Crésylol	1	
+orth	Crésylol		
 pb	248	0256	5584752
 entry	Cristalline	0	
+orth	Cristalline		
 entry	Croton flaveux	0	
+orth	Croton flaveux		
 entry	Crotonolique (Acide)	1	
+orth	Crotonolique (Acide)		
 pb	249	0257	5584753
 entry	Crozardais	0	
+orth	Crozardais		
 entry	Cruzy	0	
+orth	Cruzy		
 entry	Cucho	0	
+orth	Cucho		
 entry	Cucos	0	
+orth	Cucos		
 entry	Cuivre	2	
+orth	Cuivre		
 pb	250	0258	5584754
 pb	251	0259	5584755
 entry	Curare	1	
+orth	Curare		
 pb	252	0260	5584756
 entry	Curarine	0	
+orth	Curarine		
 entry	Cyantriméthylpipéridine	0	
+orth	Cyantriméthylpipéridine		
 entry	Cynnamileugénol	0	
+orth	Cynnamileugénol		
 entry	Cynoglossum officinale	0	
+orth	Cynoglossum officinale		
 entry	Cypripedium pubescens	1	
+orth	Cypripedium pubescens		
 pb	253	0261	5584757
 entry	Cytisine	0	
+orth	Cytisine		
 entry	Dadi-gogo	0	
+orth	Dadi-gogo		
 entry	Damiana	1	
+orth	Damiana		
 pb	254	0262	5584758
 entry	Datura stramonium	0	
+orth	Datura stramonium		
 entry	Dermatol	3	
+orth	Dermatol		
 pb	255	0263	5584759
 pb	256	0264	5584760
 pb	257	0265	5584761
 entry	Derris elliptica	1	
+orth	Derris elliptica		
 pb	258	0266	5584762
 entry	Désinfectol	0	
+orth	Désinfectol		
 entry	Diaphtérine	1	
+orth	Diaphtérine		
 pb	259	0267	5584763
 entry	Diaphtol	1	
+orth	Diaphtol		
 pb	260	0268	5584764
 entry	Digitale	8	
+orth	Digitale		
 pb	261	0269	5584765
 pb	262	0270	5584766
 pb	263	0271	5584767
@@ -591,31 +900,46 @@ pb	266	0274	5584770
 pb	267	0275	5584771
 pb	268	0276	5584772
 entry	Dihydrométhylphénylpipérazine	1	
+orth	Dihydrométhylphénylpipérazine		
 pb	269	0277	5584773
 entry	Diodoforme	0	
+orth	Diodoforme		
 entry	Diiodosalicylique (Acide)	0	
+orth	Diiodosalicylique (Acide)		
 entry	Dioxynapthalène	0	
+orth	Dioxynapthalène		
 entry	Dithiocarbonate de potassium	1	
+orth	Dithiocarbonate de potassium		
 pb	270	0278	5584774
 entry	Dithiosalicylique (Acide)	0	
+orth	Dithiosalicylique (Acide)		
 entry	Diurétine	4	
+orth	Diurétine		
 pb	271	0279	5584775
 pb	272	0280	5584776
 pb	273	0281	5584777
 pb	274	0282	5584778
 entry	Dolincourt	0	
+orth	Dolincourt		
 entry	Dorstenia contrayerva	1	
+orth	Dorstenia contrayerva		
 pb	275	0283	5584779
 entry	Doubaou de germ	0	
+orth	Doubaou de germ		
 entry	Duboisia Myoporoides	0	
+orth	Duboisia Myoporoides		
 pb	276	0284	5584780
 entry	Duboisine	2	
+orth	Duboisine		
 pb	277	0285	5584781
 pb	278	0286	5584782
 entry	Dulcine	0	
+orth	Dulcine		
 entry	Dun-Le-Poelier	0	
+orth	Dun-Le-Poelier		
 pb	279	0287	5584783
 entry	Eaux potables	14	
+orth	Eaux potables		
 pb	280	0288	5584784
 pb	281	0289	5584785
 pb	282	0290	5584786
@@ -631,25 +955,36 @@ pb	291	0299	5584795
 pb	292	0300	5584796
 pb	293	0301	5584797
 entry	Echano	0	
+orth	Echano		
 entry	Elejabeitia	0	
+orth	Elejabeitia		
 entry	Ellébore blanc	3	
+orth	Ellébore blanc		
 pb	294	0302	5584798
 pb	295	0303	5584799
 pb	296	0304	5584800
 entry	Elorrio	0	
+orth	Elorrio		
 entry	Elvas	0	
+orth	Elvas		
 entry	Embelia Ribes	4	
+orth	Embelia Ribes		
 pb	297	0305	5584801
 pb	298	0306	5584802
 pb	299	0307	5584803
 pb	300	0308	5584804
 pb	301	0309	5584805
 entry	Enguistein	0	
+orth	Enguistein		
 entry	Entre os rios	0	
+orth	Entre os rios		
 entry	Enval	0	
+orth	Enval		
 entry	Ephedra Vulgaris	1	
+orth	Ephedra Vulgaris		
 pb	302	0310	5584806
 entry	Ergot de Seigle	9	
+orth	Ergot de Seigle		
 pb	303	0311	5584807
 pb	304	0312	5584808
 pb	305	0313	5584809
@@ -660,19 +995,30 @@ pb	309	0317	5584813
 pb	310	0318	5584814
 pb	311	0319	5584815
 entry	Erythrina corollodendron	1	
+orth	Erythrina corollodendron		
 pb	312	0320	5584816
 entry	Erythrophléine	0	
+orth	Erythrophléine		
 entry	Eschscholltzia californica	1	
+orth	Eschscholltzia californica		
 pb	313	0321	5584817
 entry	Escorcine	0	
+orth	Escorcine		
 entry	Escoriazza	1	
+orth	Escoriazza		
 pb	314	0322	5584818
 entry	Esérine	0	
+orth	Esérine		
 entry	Espigao	0	
+orth	Espigao		
 entry	Estadilla	0	
+orth	Estadilla		
 entry	Estoril	0	
+orth	Estoril		
 entry	Estrada da beira	0	
+orth	Estrada da beira		
 entry	Ether	6	
+orth	Ether		
 pb	315	0323	5584819
 pb	316	0324	5584820
 pb	317	0325	5584821
@@ -680,23 +1026,32 @@ pb	318	0326	5584822
 pb	319	0327	5584823
 pb	320	0328	5584824
 entry	Eucalyptus	3	
+orth	Eucalyptus		
 pb	321	0329	5584825
 pb	322	0330	5584826
 pb	323	0331	5584827
 pb	324	0332	5584828
 entry	Eugénolacétamide	0	
+orth	Eugénolacétamide		
 entry	Eulyptol	0	
+orth	Eulyptol		
 entry	Eupatorium purpureum	0	
+orth	Eupatorium purpureum		
 entry	Euphorine	3	
+orth	Euphorine		
 pb	325	0333	5584829
 pb	326	0334	5584830
 pb	327	0335	5584831
 entry	Euphrasia officinalis	0	
+orth	Euphrasia officinalis		
 entry	Europhène	2	
+orth	Europhène		
 pb	328	0336	5584832
 pb	329	0337	5584833
 entry	Eurybine	0	
+orth	Eurybine		
 entry	Exalgine	8	
+orth	Exalgine		
 pb	330	0338	5584834
 pb	331	0339	5584835
 pb	332	0340	5584836
@@ -706,10 +1061,15 @@ pb	335	0343	5584839
 pb	336	0344	5584840
 pb	337	0345	5584841
 entry	Exodyne	0	
+orth	Exodyne		
 entry	Fadagoza	0	
+orth	Fadagoza		
 entry	Falla	0	
+orth	Falla		
 entry	Felgueira	0	
+orth	Felgueira		
 entry	Fer	6	
+orth	Fer		
 pb	338	0346	5584842
 pb	339	0347	5584843
 pb	340	0348	5584844
@@ -717,45 +1077,72 @@ pb	341	0349	5584845
 pb	342	0350	5584846
 pb	343	0351	5584847
 entry	Fervença	0	
+orth	Fervença		
 entry	Fève des marais	1	
+orth	Fève des marais		
 pb	344	0352	5584848
 entry	Fevillea trilobata	0	
+orth	Fevillea trilobata		
 entry	Figuier	0	
+orth	Figuier		
 entry	Flacourtia cataphracta	1	
+orth	Flacourtia cataphracta		
 pb	345	0353	5584849
 entry	Fluor	3	
+orth	Fluor		
 pb	346	0354	5584850
 pb	347	0355	5584851
 pb	348	0356	5584852
 entry	Fonte das virtudes	0	
+orth	Fonte das virtudes		
 entry	Fonte dos amores	0	
+orth	Fonte dos amores		
 entry	Fontellas	0	
+orth	Fontellas		
 entry	Fonte santa	0	
+orth	Fonte santa		
 entry	Formanilide	0	
+orth	Formanilide		
 entry	Formol	4	
+orth	Formol		
 pb	349	0357	5584853
 pb	350	0358	5584854
 pb	351	0359	5584855
 pb	352	0360	5584856
 entry	Fornalha	0	
+orth	Fornalha		
 entry	Fougère male	1	
+orth	Fougère male		
 pb	353	0361	5584857
 entry	Foz da certa	0	
+orth	Foz da certa		
 entry	Fraiao	0	
+orth	Fraiao		
 entry	Frasera Walteri	1	
+orth	Frasera Walteri		
 pb	354	0362	5584858
 entry	Freixialinho	0	
+orth	Freixialinho		
 entry	Freixo	0	
+orth	Freixo		
 entry	Fritillaire	0	
+orth	Fritillaire		
 entry	Fromentine	2	
+orth	Fromentine		
 pb	355	0363	5584859
 pb	356	0364	5584860
 entry	Fuchsine	0	
+orth	Fuchsine		
 entry	Fucus Vesiculosus	0	
+orth	Fucus Vesiculosus		
 entry	Fuente agria devillaharta	0	
+orth	Fuente agria devillaharta		
 entry	Furadoiro	0	
+orth	Furadoiro		
 entry	Gafete	0	
+orth	Gafete		
 entry	Gaïac	10	
+orth	Gaïac		
 pb	357	0365	5584861
 pb	358	0366	5584862
 pb	359	0367	5584863
@@ -767,122 +1154,193 @@ pb	364	0372	5584868
 pb	365	0373	5584869
 pb	366	0374	5584870
 entry	Galega officinalis	2	
+orth	Galega officinalis		
 pb	367	0375	5584871
 pb	368	0376	5584872
 entry	Gallacétophénone	0	
+orth	Gallacétophénone		
 entry	Gallanol	1	
+orth	Gallanol		
 pb	369	0377	5584873
 entry	Gallegos	1	
+orth	Gallegos		
 pb	370	0378	5584874
 entry	Gallobromol	1	
+orth	Gallobromol		
 pb	371	0379	5584875
 entry	Galloparatoluide	0	
+orth	Galloparatoluide		
 entry	Galos	0	
+orth	Galos		
 entry	Garcinia collina	0	
+orth	Garcinia collina		
 entry	Gardenia	1	
+orth	Gardenia		
 pb	372	0380	5584876
 entry	Gaulthéria	1	
+orth	Gaulthéria		
 pb	373	0381	5584877
 entry	Gaviao	0	
+orth	Gaviao		
 entry	Gayeiras	0	
+orth	Gayeiras		
 entry	Gelsemium sempervirens	2	
+orth	Gelsemium sempervirens		
 pb	374	0382	5584878
 pb	375	0383	5584879
 pb	376	0384	5584880
 entry	Gentiane	0	
+orth	Gentiane		
 entry	Geoffroya Jamaicensis	0	
+orth	Geoffroya Jamaicensis		
 entry	Géranium maculatum	1	
+orth	Géranium maculatum		
 pb	377	0385	5584881
 entry	Gerez	0	
+orth	Gerez		
 entry	Gillenia trifoliata	0	
+orth	Gillenia trifoliata		
 pb	378	0386	5584882
 entry	Glucozone	0	
+orth	Glucozone		
 entry	Glycérine	4	
+orth	Glycérine		
 pb	379	0387	5584883
 pb	380	0388	5584884
 pb	381	0389	5584885
 pb	382	0390	5584886
 entry	Glycérophosphates	0	
+orth	Glycérophosphates		
 entry	Gracileria lichenoides	0	
+orth	Gracileria lichenoides		
 entry	Grajal	0	
+orth	Grajal		
 entry	Grangea madraspatana	0	
+orth	Grangea madraspatana		
 entry	Granjao	0	
+orth	Granjao		
 entry	Grenadier	1	
+orth	Grenadier		
 pb	383	0391	5584887
 entry	Grindelia robusta	2	
+orth	Grindelia robusta		
 pb	384	0392	5584888
 pb	385	0393	5584889
 entry	Guaco	1	
+orth	Guaco		
 pb	386	0394	5584890
 entry	Guesala	0	
+orth	Guesala		
 entry	Gurjun	0	
+orth	Gurjun		
 entry	Gymnema Sylvestre	1	
+orth	Gymnema Sylvestre		
 pb	387	0395	5584891
 entry	Gynocardia odorata	1	
+orth	Gynocardia odorata		
 pb	388	0396	5584892
 entry	Hagécourt	0	
+orth	Hagécourt		
 entry	Halviva angustifolia	1	
+orth	Halviva angustifolia		
 pb	389	0397	5584893
 entry	Hamamelis virginica	0	
+orth	Hamamelis virginica		
 entry	Hammam-bou-hadjav	1	
+orth	Hammam-bou-hadjav		
 pb	390	0398	5584894
 entry	Hammam-bou-hallouf	0	
+orth	Hammam-bou-hallouf		
 entry	Hammam-bou-hanefia	0	
+orth	Hammam-bou-hanefia		
 entry	Hammam-bou-sellam	0	
+orth	Hammam-bou-sellam		
 entry	Hammam-bou-thaleb	0	
+orth	Hammam-bou-thaleb		
 entry	Hammam-cheniour	0	
+orth	Hammam-cheniour		
 entry	Hammam-des-biban	0	
+orth	Hammam-des-biban		
 entry	Hammam-el-hout	0	
+orth	Hammam-el-hout		
 entry	Hammam-el-lif	0	
+orth	Hammam-el-lif		
 entry	Hammam-korbès	0	
+orth	Hammam-korbès		
 entry	Hauterive	0	
+orth	Hauterive		
 entry	Hedychium spicatum	1	
+orth	Hedychium spicatum		
 pb	391	0399	5584895
 entry	Helianthus annuus	0	
+orth	Helianthus annuus		
 entry	Helionias dioica	1	
+orth	Helionias dioica		
 pb	392	0400	5584896
 entry	Héliotrope	0	
+orth	Héliotrope		
 entry	Helleborus teeta	0	
+orth	Helleborus teeta		
 entry	Hémogallol	1	
+orth	Hémogallol		
 pb	393	0401	5584897
 entry	Henné	3	
+orth	Henné		
 pb	394	0402	5584898
 pb	395	0403	5584899
 pb	396	0404	5584900
 entry	Heritiera Littoralis	0	
+orth	Heritiera Littoralis		
 entry	Herniaria glabra	1	
+orth	Herniaria glabra		
 pb	397	0405	5584901
 entry	Hevea guianesis	1	
+orth	Hevea guianesis		
 pb	398	0406	5584902
 entry	Hoang-nan	0	
+orth	Hoang-nan		
 pb	399	0407	5584903
 pb	400	0408	5584904
 entry	Hura crepitans	0	
+orth	Hura crepitans		
 entry	Hybanthus ipecacuanha	0	
+orth	Hybanthus ipecacuanha		
 entry	Hydnocarpus inebrians	0	
+orth	Hydnocarpus inebrians		
 entry	Hydrastis canadensis	5	
+orth	Hydrastis canadensis		
 pb	401	0409	5584905
 pb	402	0410	5584906
 pb	403	0411	5584907
 pb	404	0412	5584908
 pb	405	0413	5584909
 entry	Hydrazine	2	
+orth	Hydrazine		
 pb	406	0414	5584910
 pb	407	0415	5584911
 entry	Hydrocotarnine	0	
+orth	Hydrocotarnine		
 entry	Hydronaphtol	0	
+orth	Hydronaphtol		
 entry	Hydronaphtylamine	0	
+orth	Hydronaphtylamine		
 entry	Hydroquinone	1	
+orth	Hydroquinone		
 pb	408	0416	5584912
 entry	Hydroxylamine	1	
+orth	Hydroxylamine		
 pb	409	0417	5584913
 entry	Hypnal	2	
+orth	Hypnal		
 pb	410	0418	5584914
 pb	411	0419	5584915
 entry	Hypophorine	0	
+orth	Hypophorine		
 entry	Hysterionica baylahuen	1	
+orth	Hysterionica baylahuen		
 pb	412	0420	5584916
 entry	Ichtyol	6	
+orth	Ichtyol		
 pb	413	0421	5584917
 pb	414	0422	5584918
 pb	415	0423	5584919
@@ -890,10 +1348,14 @@ pb	416	0424	5584920
 pb	417	0425	5584921
 pb	418	0426	5584922
 entry	Ilex verticillata	0	
+orth	Ilex verticillata		
 entry	Indigo	0	
+orth	Indigo		
 entry	Iodantifébrine	0	
+orth	Iodantifébrine		
 pb	419	0427	5584923
 entry	Iode	16	
+orth	Iode		
 pb	420	0428	5584924
 pb	421	0429	5584925
 pb	422	0430	5584926
@@ -911,58 +1373,86 @@ pb	433	0441	5584937
 pb	434	0442	5584938
 pb	435	0443	5584939
 entry	Ipéca	2	
+orth	Ipéca		
 pb	436	0444	5584940
 pb	437	0445	5584941
 entry	Ipomoea pandurata	0	
+orth	Ipomoea pandurata		
 entry	Iridin	1	
+orth	Iridin		
 pb	438	0446	5584942
 entry	Irvingia gabonensis	0	
+orth	Irvingia gabonensis		
 entry	Ivraie	1	
+orth	Ivraie		
 pb	439	0447	5584943
 entry	Izai	0	
+orth	Izai		
 entry	Jalap	1	
+orth	Jalap		
 pb	440	0448	5584944
 entry	Jambul	2	
+orth	Jambul		
 pb	441	0449	5584945
 pb	442	0450	5584946
 entry	Jaujac	1	
+orth	Jaujac		
 pb	443	0451	5584947
 entry	Junqueira	0	
+orth	Junqueira		
 entry	Jusquiame	3	
+orth	Jusquiame		
 pb	444	0452	5584948
 pb	445	0453	5584949
 pb	446	0454	5584950
 entry	Juvinas	1	
+orth	Juvinas		
 pb	447	0455	5584951
 entry	Kaori	2	
+orth	Kaori		
 pb	448	0456	5584952
 pb	449	0457	5584953
 entry	Kava-Kava	1	
+orth	Kava-Kava		
 pb	450	0458	5584954
 entry	Kaya senegalensis	1	
+orth	Kaya senegalensis		
 pb	451	0459	5584955
 entry	Képhyr	0	
+orth	Képhyr		
 entry	Kola	5	
+orth	Kola		
 pb	452	0460	5584956
 pb	453	0461	5584957
 pb	454	0462	5584958
 pb	455	0463	5584959
 pb	456	0464	5584960
 entry	Kousso	0	
+orth	Kousso		
 entry	Lactique (Acide)	3	
+orth	Lactique (Acide)		
 pb	457	0465	5584961
 pb	458	0466	5584962
 pb	459	0467	5584963
 entry	Lactol	0	
+orth	Lactol		
 entry	Lactopeptine	0	
+orth	Lactopeptine		
 entry	Lactophénine	1	
+orth	Lactophénine		
 pb	460	0468	5584964
 entry	Lagares	0	
+orth	Lagares		
 entry	La Garriga	0	
+orth	La Garriga		
 entry	Lagiosa	0	
+orth	Lagiosa		
 entry	Lagoaça	0	
+orth	Lagoaça		
 entry	Lainesperada	0	
+orth	Lainesperada		
 entry	Lait stérilisé	11	
+orth	Lait stérilisé		
 pb	461	0469	5584965
 pb	462	0470	5584966
 pb	463	0471	5584967
@@ -975,33 +1465,55 @@ pb	469	0477	5584973
 pb	470	0478	5584974
 pb	471	0479	5584975
 entry	Laitue	0	
+orth	Laitue		
 entry	Lalizolle	0	
+orth	Lalizolle		
 entry	Lamaçaes	0	
+orth	Lamaçaes		
 entry	Lamium album	1	
+orth	Lamium album		
 pb	472	0480	5584976
 entry	La muera des Arbieto	0	
+orth	La muera des Arbieto		
 entry	Langsdorfia hypogoea	0	
+orth	Langsdorfia hypogoea		
 entry	Lanjaron	0	
+orth	Lanjaron		
 entry	Laplaine Saint-Joseph	1	
+orth	Laplaine Saint-Joseph		
 pb	473	0481	5584977
 entry	La Ribera	0	
+orth	La Ribera		
 entry	Larivière-sous-Aigremont	0	
+orth	Larivière-sous-Aigremont		
 entry	Larrauri	0	
+orth	Larrauri		
 entry	Laurier-rose	2	
+orth	Laurier-rose		
 pb	474	0482	5584978
 pb	475	0483	5584979
 entry	Lauris giganteus	0	
+orth	Lauris giganteus		
 entry	Laval-atger	0	
+orth	Laval-atger		
 entry	Ledebouria hyacinthina	1	
+orth	Ledebouria hyacinthina		
 pb	476	0484	5584980
 entry	Leiria	0	
+orth	Leiria		
 entry	Leonotis Nepetaefolia	0	
+orth	Leonotis Nepetaefolia		
 entry	Leptospermum flavescens	0	
+orth	Leptospermum flavescens		
 entry	Lichen d'Islande	1	
+orth	Lichen d'Islande		
 pb	477	0485	5584981
 entry	Lilas	0	
+orth	Lilas		
 entry	Lin	0	
+orth	Lin		
 entry	Liquides organiques	14	
+orth	Liquides organiques		
 pb	478	0486	5584982
 pb	479	0487	5584983
 pb	480	0488	5584984
@@ -1017,61 +1529,100 @@ pb	489	0497	5584993
 pb	490	0498	5584994
 pb	491	0499	5584995
 entry	Lithine (Formiate de)	0	
+orth	Lithine (Formiate de)		
 entry	Lithospermum officinale	0	
+orth	Lithospermum officinale		
 entry	Livèche	0	
+orth	Livèche		
 entry	Livry	1	
+orth	Livry		
 pb	492	0500	5584996
 entry	Lobelia inflata	1	
+orth	Lobelia inflata		
 pb	493	0501	5584997
 entry	Lodocs	0	
+orth	Lodocs		
 entry	Longroiva	0	
+orth	Longroiva		
 entry	Lorétine	1	
+orth	Lorétine		
 pb	494	0502	5584998
 entry	Lorjaillier	0	
+orth	Lorjaillier		
 entry	Losophane	1	
+orth	Losophane		
 pb	495	0503	5584999
 entry	Louc'h-an-dreff	0	
+orth	Louc'h-an-dreff		
 entry	Loureiro	0	
+orth	Loureiro		
 entry	Luc-en-Provence	0	
+orth	Luc-en-Provence		
 entry	Luso	1	
+orth	Luso		
 pb	496	0504	5585000
 entry	Lycétol	0	
+orth	Lycétol		
 entry	Lysol	2	
+orth	Lysol		
 pb	497	0505	5585001
 pb	498	0506	5585002
 entry	Macaranga tomentosa	0	
+orth	Macaranga tomentosa		
 pb	499	0507	5585003
 entry	Macleya cordata	0	
+orth	Macleya cordata		
 entry	Mafra	0	
+orth	Mafra		
 entry	Maizières	0	
+orth	Maizières		
 entry	Malacine	1	
+orth	Malacine		
 pb	500	0508	5585004
 entry	Malhada Quente	0	
+orth	Malhada Quente		
 entry	Malouetia nitida	0	
+orth	Malouetia nitida		
 entry	Mancenillier	1	
+orth	Mancenillier		
 pb	501	0509	5585005
 entry	Mandragore	0	
+orth	Mandragore		
 entry	Manganèse	2	
+orth	Manganèse		
 pb	502	0510	5585006
 pb	503	0511	5585007
 entry	Manihot	0	
+orth	Manihot		
 entry	Manteigas	1	
+orth	Manteigas		
 pb	504	0512	5585008
 entry	Maria Viegas	0	
+orth	Maria Viegas		
 entry	Marrube blanc	0	
+orth	Marrube blanc		
 entry	Mata-Peixes	0	
+orth	Mata-Peixes		
 entry	Mautour	0	
+orth	Mautour		
 entry	Mayres	0	
+orth	Mayres		
 entry	Mélany (Saint-)	1	
+orth	Mélany (Saint-)		
 pb	505	0513	5585009
 entry	Mélèzes	0	
+orth	Mélèzes		
 entry	Melgaço	0	
+orth	Melgaço		
 entry	Menthe	3	
+orth	Menthe		
 pb	506	0514	5585010
 pb	507	0515	5585011
 pb	508	0516	5585012
 entry	Menthylate de chloral	0	
+orth	Menthylate de chloral		
 entry	Mercure	20	
+orth	Mercure		
 pb	509	0517	5585013
 pb	510	0518	5585014
 pb	511	0519	5585015
@@ -1093,10 +1644,14 @@ pb	526	0534	5585030
 pb	527	0535	5585031
 pb	528	0536	5585032
 entry	Mertola	0	
+orth	Mertola		
 entry	Mesnil-sur-l'Estrée	0	
+orth	Mesnil-sur-l'Estrée		
 entry	Méthacétine	1	
+orth	Méthacétine		
 pb	529	0537	5585033
 entry	Méthyle	9	
+orth	Méthyle		
 pb	530	0538	5585034
 pb	531	0539	5585035
 pb	532	0540	5585036
@@ -1108,85 +1663,142 @@ pb	537	0545	5585041
 pb	538	0546	5585042
 pb	539	0547	5585043
 entry	Meurchin	0	
+orth	Meurchin		
 entry	Microcidine	0	
+orth	Microcidine		
 entry	Migrainine	0	
+orth	Migrainine		
 entry	Mimusops elengi	1	
+orth	Mimusops elengi		
 pb	540	0548	5585044
 entry	Mina Nova	0	
+orth	Mina Nova		
 entry	Moimenta	0	
+orth	Moimenta		
 entry	Moledo	0	
+orth	Moledo		
 entry	Molinell	0	
+orth	Molinell		
 entry	Monasterio de Piedra	0	
+orth	Monasterio de Piedra		
 entry	Mondaris	1	
+orth	Mondaris		
 pb	541	0549	5585045
 entry	Monfortinho	0	
+orth	Monfortinho		
 entry	Montalegre	0	
+orth	Montalegre		
 entry	Montanejos	0	
+orth	Montanejos		
 entry	Montedapreda	0	
+orth	Montedapreda		
 entry	Monte Dastoucas	0	
+orth	Monte Dastoucas		
 entry	Montedelage	0	
+orth	Montedelage		
 entry	Monte de S. Luiz	0	
+orth	Monte de S. Luiz		
 entry	Montemor-o-Velho	0	
+orth	Montemor-o-Velho		
 entry	Montereal	0	
+orth	Montereal		
 entry	Montjaux	0	
+orth	Montjaux		
 entry	Montpezat-sous-Bauzon	0	
+orth	Montpezat-sous-Bauzon		
 entry	Montsalut	0	
+orth	Montsalut		
 entry	Morrenia brachystephana	1	
+orth	Morrenia brachystephana		
 pb	542	0550	5585046
 entry	Morue (Huile de foie de)	3	
+orth	Morue (Huile de foie de)		
 pb	543	0551	5585047
 pb	544	0552	5585048
 pb	545	0553	5585049
 entry	Moura	0	
+orth	Moura		
 entry	Moyrapuama	1	
+orth	Moyrapuama		
 pb	546	0554	5585050
 entry	Muavine	0	
+orth	Muavine		
 entry	Muguet	1	
+orth	Muguet		
 pb	547	0555	5585051
 entry	Mururé	0	
+orth	Mururé		
 entry	Mycrorhyncus sarmentosus	0	
+orth	Mycrorhyncus sarmentosus		
 entry	Myrcia acris	1	
+orth	Myrcia acris		
 pb	548	0556	5585052
 entry	Myriogyne minuta	0	
+orth	Myriogyne minuta		
 entry	Myrrhe	0	
+orth	Myrrhe		
 entry	Myrrholine	1	
+orth	Myrrholine		
 pb	549	0557	5585053
 entry	Myrtille	0	
+orth	Myrtille		
 entry	Myrtol	0	
+orth	Myrtol		
 entry	Nanclares de la Oca	1	
+orth	Nanclares de la Oca		
 pb	550	0558	5585054
 entry	Naphtaline	2	
+orth	Naphtaline		
 pb	551	0559	5585055
 pb	552	0560	5585056
 entry	Naphtocrésol	0	
+orth	Naphtocrésol		
 entry	Naphtol	4	
+orth	Naphtol		
 pb	553	0561	5585057
 pb	554	0562	5585058
 pb	555	0563	5585059
 pb	556	0564	5585060
 entry	Nauclea inermis	0	
+orth	Nauclea inermis		
 entry	Neubourg	1	
+orth	Neubourg		
 pb	557	0565	5585061
 entry	Neurodine	0	
+orth	Neurodine		
 entry	Newboldia Levis	0	
+orth	Newboldia Levis		
 entry	Nickel (Carbonmonoxide de)	0	
+orth	Nickel (Carbonmonoxide de)		
 entry	Nigella damascoena	1	
+orth	Nigella damascoena		
 pb	558	0566	5585062
 entry	Nitroglycérine	3	
+orth	Nitroglycérine		
 pb	559	0567	5585063
 pb	560	0568	5585064
 pb	561	0569	5585065
 entry	Nuestra Senora de Abella	0	
+orth	Nuestra Senora de Abella		
 entry	Nuestra Senora de Las Mercedes	0	
+orth	Nuestra Senora de Las Mercedes		
 entry	Nuestra Senora Del Carmen	0	
+orth	Nuestra Senora Del Carmen		
 entry	Nuestra Senora de Orito	0	
+orth	Nuestra Senora de Orito		
 entry	Obidos	1	
+orth	Obidos		
 pb	562	0570	5585066
 entry	Octea guanensis	0	
+orth	Octea guanensis		
 entry	Oléo-créosote	0	
+orth	Oléo-créosote		
 entry	Olheiros	0	
+orth	Olheiros		
 entry	Oliveto	0	
+orth	Oliveto		
 entry	Opium (Et ses alcaloïdes)	13	
+orth	Opium (Et ses alcaloïdes)		
 pb	563	0571	5585067
 pb	564	0572	5585068
 pb	565	0573	5585069
@@ -1201,102 +1813,163 @@ pb	573	0581	5585077
 pb	574	0582	5585078
 pb	575	0583	5585079
 entry	Or	2	
+orth	Or		
 pb	576	0584	5585080
 pb	577	0585	5585081
 entry	Orexine	4	
+orth	Orexine		
 pb	578	0586	5585082
 pb	579	0587	5585083
 pb	580	0588	5585084
 pb	581	0589	5585085
 entry	Ornolac	0	
+orth	Ornolac		
 entry	Orthine	1	
+orth	Orthine		
 pb	582	0590	5585086
 entry	Ortho-Amido-Salicylique (Acide)	0	
+orth	Ortho-Amido-Salicylique (Acide)		
 entry	Ortho-Oxéthyl-Ana-Mono-Acétylamido-Chinoline	0	
+orth	Ortho-Oxéthyl-Ana-Mono-Acétylamido-Chinoline		
 entry	Orthosyphon stamineus	0	
+orth	Orthosyphon stamineus		
 entry	Orthoxy-Diphényl-Carbonique (Acide)	0	
+orth	Orthoxy-Diphényl-Carbonique (Acide)		
 pb	583	0591	5585087
 entry	Orthoxy-Diphényl-Carbonique	0	
+orth	Orthoxy-Diphényl-Carbonique		
 entry	Ortie	0	
+orth	Ortie		
 entry	Osmique (Acide hyperosmique)	1	
+orth	Osmique (Acide hyperosmique)		
 pb	584	0592	5585088
 entry	Otaba	0	
+orth	Otaba		
 entry	Otalora	0	
+orth	Otalora		
 entry	Ouabaïo	1	
+orth	Ouabaïo		
 pb	585	0593	5585089
 entry	Ouguella	0	
+orth	Ouguella		
 entry	Oura	0	
+orth	Oura		
 entry	Ouratea angustifolia	0	
+orth	Ouratea angustifolia		
 entry	Ourives	0	
+orth	Ourives		
 entry	Oxalique (Acide)	2	
+orth	Oxalique (Acide)		
 pb	586	0594	5585090
 pb	587	0595	5585091
 entry	Oxygène	0	
+orth	Oxygène		
 entry	Oxyspartéine	0	
+orth	Oxyspartéine		
 entry	Oxystelma esculentum	0	
+orth	Oxystelma esculentum		
 entry	Ozone	3	
+orth	Ozone		
 pb	588	0596	5585092
 pb	589	0597	5585093
 pb	590	0598	5585094
 entry	Padreiro	0	
+orth	Padreiro		
 entry	Paico	0	
+orth	Paico		
 entry	Palavaz	0	
+orth	Palavaz		
 entry	Pambotano	1	
+orth	Pambotano		
 pb	591	0599	5585095
 entry	Pangium edule	0	
+orth	Pangium edule		
 entry	Papaïne	2	
+orth	Papaïne		
 pb	592	0600	5585096
 pb	593	0601	5585097
 entry	Paracrésotique (Acide)	1	
+orth	Paracrésotique (Acide)		
 pb	594	0602	5585098
 entry	Paraforme	0	
+orth	Paraforme		
 entry	Paraldéhyde	1	
+orth	Paraldéhyde		
 pb	595	0603	5585099
 entry	Pardina	1	
+orth	Pardina		
 pb	596	0604	5585100
 entry	Parisette	0	
+orth	Parisette		
 entry	Pau	0	
+orth	Pau		
 entry	Paullinia pinnata	0	
+orth	Paullinia pinnata		
 entry	Paulowilhelmia speciosa	0	
+orth	Paulowilhelmia speciosa		
 entry	Pedicularis palustris	1	
+orth	Pedicularis palustris		
 pb	597	0605	5585101
 entry	Pedilanthus tithymaloides	0	
+orth	Pedilanthus tithymaloides		
 entry	Pedras Salgadas	1	
+orth	Pedras Salgadas		
 pb	598	0606	5585102
 entry	Peganum harmala	0	
+orth	Peganum harmala		
 entry	Pego de S. Domingos	0	
+orth	Pego de S. Domingos		
 entry	Peltodon radicans	1	
+orth	Peltodon radicans		
 pb	599	0607	5585103
 entry	Penaguiao	0	
+orth	Penaguiao		
 entry	Penamacor	0	
+orth	Penamacor		
 entry	Penghawaar-Djambo	1	
+orth	Penghawaar-Djambo		
 pb	600	0608	5585104
 entry	Penhagarcia	0	
+orth	Penhagarcia		
 entry	Penso	0	
+orth	Penso		
 entry	Pensylvanie (Sources de)	0	
+orth	Pensylvanie (Sources de)		
 entry	Pental	2	
+orth	Pental		
 pb	601	0609	5585105
 pb	602	0610	5585106
 entry	Pentaptera arjuna	0	
+orth	Pentaptera arjuna		
 entry	Pepsine	1	
+orth	Pepsine		
 pb	603	0611	5585107
 entry	Pereiro	0	
+orth	Pereiro		
 entry	Peretti	0	
+orth	Peretti		
 entry	Perianthopodus globulatus	0	
+orth	Perianthopodus globulatus		
 entry	Permanganate de potasse	0	
+orth	Permanganate de potasse		
 entry	Pero Moniz	0	
+orth	Pero Moniz		
 entry	Pétrole	4	
+orth	Pétrole		
 pb	604	0612	5585108
 pb	605	0613	5585109
 pb	606	0614	5585110
 pb	607	0615	5585111
 entry	Pezo de Melgaço	0	
+orth	Pezo de Melgaço		
 entry	Phénacétine	4	
+orth	Phénacétine		
 pb	608	0616	5585112
 pb	609	0617	5585113
 pb	610	0618	5585114
 pb	611	0619	5585115
 entry	Phénique (Acide)	8	
+orth	Phénique (Acide)		
 pb	612	0620	5585116
 pb	613	0621	5585117
 pb	614	0622	5585118
@@ -1306,23 +1979,34 @@ pb	617	0625	5585121
 pb	618	0626	5585122
 pb	619	0627	5585123
 entry	Phénocolle	2	
+orth	Phénocolle		
 pb	620	0628	5585124
 pb	621	0629	5585125
 entry	Phénol camphré	1	
+orth	Phénol camphré		
 pb	622	0630	5585126
 entry	Phénosasyl	1	
+orth	Phénosasyl		
 pb	623	0631	5585127
 entry	Phénylborique (Acide)	1	
+orth	Phénylborique (Acide)		
 pb	624	0632	5585128
 entry	Phénylènes diamines	1	
+orth	Phénylènes diamines		
 pb	625	0633	5585129
 entry	Phéylpropionique (Acide)	0	
+orth	Phéylpropionique (Acide)		
 entry	Phénylsalicylique (Acide)	0	
+orth	Phénylsalicylique (Acide)		
 entry	Philippia abietina	0	
+orth	Philippia abietina		
 entry	Phosphite de gaïacol	1	
+orth	Phosphite de gaïacol		
 pb	626	0634	5585130
 entry	Phosphoglycérates	0	
+orth	Phosphoglycérates		
 entry	Phosphore	11	
+orth	Phosphore		
 pb	627	0635	5585131
 pb	628	0636	5585132
 pb	629	0637	5585133
@@ -1335,70 +2019,116 @@ pb	635	0643	5585139
 pb	636	0644	5585140
 pb	637	0645	5585141
 entry	Phtalate de morphine	0	
+orth	Phtalate de morphine		
 entry	Phytolacca decandra	1	
+orth	Phytolacca decandra		
 pb	638	0646	5585142
 entry	Piar	0	
+orth	Piar		
 entry	Pichi	0	
+orth	Pichi		
 entry	Picrique (Acide)	1	
+orth	Picrique (Acide)		
 pb	639	0647	5585143
 entry	Picrol	0	
+orth	Picrol		
 entry	Picrotoxine	0	
+orth	Picrotoxine		
 entry	Piedade	0	
+orth	Piedade		
 entry	Piedicroce	0	
+orth	Piedicroce		
 pb	640	0648	5585144
 entry	Pilocarpine	5	
+orth	Pilocarpine		
 pb	641	0649	5585145
 pb	642	0650	5585146
 pb	643	0651	5585147
 pb	644	0652	5585148
 pb	645	0653	5585149
 entry	Pimenta officinalis	0	
+orth	Pimenta officinalis		
 entry	Pinguicula vulgaris	0	
+orth	Pinguicula vulgaris		
 entry	Pinhel	0	
+orth	Pinhel		
 entry	Pipérazidine	2	
+orth	Pipérazidine		
 pb	646	0654	5585150
 pb	647	0655	5585151
 entry	Piptostegia gomesii	1	
+orth	Piptostegia gomesii		
 pb	648	0656	5585152
 entry	Piratinera guianensis	0	
+orth	Piratinera guianensis		
 entry	Pisonia brumomana	0	
+orth	Pisonia brumomana		
 entry	Pissenlit	1	
+orth	Pissenlit		
 pb	649	0657	5585153
 entry	Pithiviers	0	
+orth	Pithiviers		
 entry	Platycodon grandiflorum	0	
+orth	Platycodon grandiflorum		
 entry	Plumeira alba	1	
+orth	Plumeira alba		
 pb	650	0658	5585154
 entry	Podophylline	1	
+orth	Podophylline		
 pb	651	0659	5585155
 entry	Poio	0	
+orth	Poio		
 entry	Polygona homeri	0	
+orth	Polygona homeri		
 entry	Pomaderris zizyphoides	0	
+orth	Pomaderris zizyphoides		
 entry	Pombal de Anciaes	0	
+orth	Pombal de Anciaes		
 entry	Pongamia glabra	1	
+orth	Pongamia glabra		
 pb	652	0660	5585156
 entry	Ponte de Cavaez	0	
+orth	Ponte de Cavaez		
 entry	Porraes	0	
+orth	Porraes		
 entry	Portalègre	0	
+orth	Portalègre		
 entry	Portlandia grandiflora	0	
+orth	Portlandia grandiflora		
 entry	Porto	0	
+orth	Porto		
 entry	Porvenir de Miranda	0	
+orth	Porvenir de Miranda		
 entry	Potalia amara	0	
+orth	Potalia amara		
 entry	Potassium (Et sels de potasse)	2	
+orth	Potassium (Et sels de potasse)		
 pb	653	0661	5585157
 pb	654	0662	5585158
 entry	Pougues-Les-Eaux	0	
+orth	Pougues-Les-Eaux		
 entry	Povoa de Coz	0	
+orth	Povoa de Coz		
 entry	Pradel (le)	0	
+orth	Pradel (le)		
 entry	Pranto	0	
+orth	Pranto		
 entry	Présure	0	
+orth	Présure		
 entry	Priest (Saint-)	0	
+orth	Priest (Saint-)		
 pb	655	0663	5585159
 entry	Prompsat	0	
+orth	Prompsat		
 entry	Protopine	0	
+orth	Protopine		
 entry	Psidium pomiferum	1	
+orth	Psidium pomiferum		
 pb	656	0664	5585160
 entry	Puig de Las Animas	0	
+orth	Puig de Las Animas		
 entry	Pyoktanins	7	
+orth	Pyoktanins		
 pb	657	0665	5585161
 pb	658	0666	5585162
 pb	659	0667	5585163
@@ -1407,17 +2137,23 @@ pb	661	0669	5585165
 pb	662	0670	5585166
 pb	663	0671	5585167
 entry	Pyrène	0	
+orth	Pyrène		
 entry	Pyrèthre	0	
+orth	Pyrèthre		
 entry	Pyridine	1	
+orth	Pyridine		
 pb	664	0672	5585168
 entry	Pyrodine	5	
+orth	Pyrodine		
 pb	665	0673	5585169
 pb	666	0674	5585170
 pb	667	0675	5585171
 pb	668	0676	5585172
 pb	669	0677	5585173
 entry	Quyere (la)	0	
+orth	Quyere (la)		
 entry	Quinine	11	
+orth	Quinine		
 pb	670	0678	5585174
 pb	671	0679	5585175
 pb	672	0680	5585176
@@ -1430,76 +2166,128 @@ pb	678	0686	5585182
 pb	679	0687	5585183
 pb	680	0688	5585184
 entry	Quinoiodine	0	
+orth	Quinoiodine		
 entry	Quinoline	1	
+orth	Quinoline		
 pb	681	0689	5585185
 entry	Ramouzens	0	
+orth	Ramouzens		
 entry	Ranhados	0	
+orth	Ranhados		
 entry	Rapaita	0	
+orth	Rapaita		
 entry	Rauwolfia canescens	0	
+orth	Rauwolfia canescens		
 entry	Rebodera	0	
+orth	Rebodera		
 entry	Rede	0	
+orth	Rede		
 entry	Redon	0	
+orth	Redon		
 entry	Remijia vellozii	1	
+orth	Remijia vellozii		
 pb	682	0690	5585186
 entry	Remoncourt	0	
+orth	Remoncourt		
 entry	Rendufe	0	
+orth	Rendufe		
 entry	Résalgine	0	
+orth	Résalgine		
 entry	Résopyrine	0	
+orth	Résopyrine		
 entry	Résorbine	0	
+orth	Résorbine		
 entry	Résorcine	2	
+orth	Résorcine		
 pb	683	0691	5585187
 pb	684	0692	5585188
 entry	Résorcinol	0	
+orth	Résorcinol		
 entry	Rhizophora mangle	0	
+orth	Rhizophora mangle		
 entry	Rhus	3	
+orth	Rhus		
 pb	685	0693	5585189
 pb	686	0694	5585190
 pb	687	0695	5585191
 entry	Riaille	0	
+orth	Riaille		
 entry	Riba Los Banos	0	
+orth	Riba Los Banos		
 entry	Ribeira de Bir	0	
+orth	Ribeira de Bir		
 entry	Ribeira de Vide	0	
+orth	Ribeira de Vide		
 entry	Ribeira Dos Minohos	0	
+orth	Ribeira Dos Minohos		
 entry	Ribeiro Grande	0	
+orth	Ribeiro Grande		
 entry	Ricin	1	
+orth	Ricin		
 pb	688	0696	5585192
 entry	Rio Real	0	
+orth	Rio Real		
 pb	689	0697	5585193
 entry	Roches-Santeuil	0	
+orth	Roches-Santeuil		
 entry	Rocouyer	0	
+orth	Rocouyer		
 entry	Rondeletia Febrifuga	0	
+orth	Rondeletia Febrifuga		
 entry	Roquecourbe	1	
+orth	Roquecourbe		
 pb	690	0698	5585194
 entry	Rubidium	0	
+orth	Rubidium		
 entry	Rubus chamoerorus	0	
+orth	Rubus chamoerorus		
 entry	Sabattia angularis	1	
+orth	Sabattia angularis		
 pb	691	0699	5585195
 entry	Sabrozo	0	
+orth	Sabrozo		
 entry	Saccharine	1	
+orth	Saccharine		
 pb	692	0700	5585196
 entry	Safran	2	
+orth	Safran		
 pb	693	0701	5585197
 pb	694	0702	5585198
 entry	Sagapénum	0	
+orth	Sagapénum		
 entry	Sagoutiers	1	
+orth	Sagoutiers		
 pb	695	0703	5585199
 entry	Saint-Andéol-De-Bourlenc	0	
+orth	Saint-Andéol-De-Bourlenc		
 entry	Saint-Galmier	0	
+orth	Saint-Galmier		
 entry	Saint-Hérent	0	
+orth	Saint-Hérent		
 entry	Saint-Marcel-de-Crussol	0	
+orth	Saint-Marcel-de-Crussol		
 entry	Saint-Martin-Lantosque	0	
+orth	Saint-Martin-Lantosque		
 pb	696	0704	5585200
 entry	Saint-Martin-Le-Redon	0	
+orth	Saint-Martin-Le-Redon		
 entry	Saint-Sauveur-De-Montagut	0	
+orth	Saint-Sauveur-De-Montagut		
 entry	Saint-Yorre	1	
+orth	Saint-Yorre		
 pb	697	0705	5585201
 entry	Salacétol	1	
+orth	Salacétol		
 pb	698	0706	5585202
 entry	Salicylacétique	0	
+orth	Salicylacétique		
 entry	Salicylamide	1	
+orth	Salicylamide		
 pb	699	0707	5585203
 entry	Salicylate de crésols	0	
+orth	Salicylate de crésols		
 entry	Salicylique (Acide)	9	
+orth	Salicylique (Acide)		
 pb	700	0708	5585204
 pb	701	0709	5585205
 pb	702	0710	5585206
@@ -1510,16 +2298,23 @@ pb	706	0714	5585210
 pb	707	0715	5585211
 pb	708	0716	5585212
 entry	Salinas de Rosio	0	
+orth	Salinas de Rosio		
 entry	Salinillas de Buradon	0	
+orth	Salinillas de Buradon		
 entry	Salins de Biarritz	1	
+orth	Salins de Biarritz		
 pb	709	0717	5585213
 entry	Salins de la Mouillère	1	
+orth	Salins de la Mouillère		
 pb	710	0718	5585214
 entry	Salipyrine	2	
+orth	Salipyrine		
 pb	711	0719	5585215
 pb	712	0720	5585216
 entry	Salocolle	0	
+orth	Salocolle		
 entry	Salol	7	
+orth	Salol		
 pb	713	0721	5585217
 pb	714	0722	5585218
 pb	715	0723	5585219
@@ -1528,56 +2323,97 @@ pb	717	0725	5585221
 pb	718	0726	5585222
 pb	719	0727	5585223
 entry	Salophène	2	
+orth	Salophène		
 pb	720	0728	5585224
 pb	721	0729	5585225
 entry	Salsepareille	0	
+orth	Salsepareille		
 pb	722	0730	5585226
 entry	Salumine	0	
+orth	Salumine		
 entry	Salvadora persica	0	
+orth	Salvadora persica		
 entry	Samanduraindica	0	
+orth	Samanduraindica		
 entry	San Bartolome de la Cuadra	0	
+orth	San Bartolome de la Cuadra		
 entry	Sandoricum indicum	1	
+orth	Sandoricum indicum		
 pb	723	0731	5585227
 entry	San Grégorio de Rrozas	0	
+orth	San Grégorio de Rrozas		
 entry	Sanguinaire du Canada	1	
+orth	Sanguinaire du Canada		
 pb	724	0732	5585228
 entry	Sanguisorba officinalis	0	
+orth	Sanguisorba officinalis		
 entry	San Hilario	0	
+orth	San Hilario		
 pb	725	0733	5585229
 entry	Sanicula europaea	0	
+orth	Sanicula europaea		
 entry	San Joa Do Deserto	0	
+orth	San Joa Do Deserto		
 entry	San Jorge	0	
+orth	San Jorge		
 entry	San Lourenço	0	
+orth	San Lourenço		
 entry	San Mamède	0	
+orth	San Mamède		
 entry	San Miguel	1	
+orth	San Miguel		
 pb	726	0734	5585230
 entry	San Miguel Das Aves	0	
+orth	San Miguel Das Aves		
 entry	San Paulo	0	
+orth	San Paulo		
 entry	San Pedro Da Torre	0	
+orth	San Pedro Da Torre		
 entry	San Pedro Do Rio	0	
+orth	San Pedro Do Rio		
 entry	San Pedro Do Sul	0	
+orth	San Pedro Do Sul		
 entry	Santa Ana	0	
+orth	Santa Ana		
 entry	Santa Coloma de Farnès	0	
+orth	Santa Coloma de Farnès		
 entry	Santa Comba Dao	0	
+orth	Santa Comba Dao		
 entry	Santa Cruz	0	
+orth	Santa Cruz		
 entry	Santal	0	
+orth	Santal		
 pb	727	0735	5585231
 entry	Santa Maria De Gallegos	0	
+orth	Santa Maria De Gallegos		
 entry	Santenay	0	
+orth	Santenay		
 entry	San Thiago De Fraiao	0	
+orth	San Thiago De Fraiao		
 entry	San Thomé De Caldillas	0	
+orth	San Thomé De Caldillas		
 entry	Santo Amaro	0	
+orth	Santo Amaro		
 entry	Santo Antonio	0	
+orth	Santo Antonio		
 entry	Santo Braz De Alportel	0	
+orth	Santo Braz De Alportel		
 entry	Santo Juan de Ugarte	0	
+orth	Santo Juan de Ugarte		
 entry	Santonine	1	
+orth	Santonine		
 pb	728	0736	5585232
 entry	Santoninoxyme	1	
+orth	Santoninoxyme		
 pb	729	0737	5585233
 entry	Santo Tomas De Valencia	0	
+orth	Santo Tomas De Valencia		
 entry	San Vicens	0	
+orth	San Vicens		
 entry	Sao Gemil	0	
+orth	Sao Gemil		
 entry	Sapins	6	
+orth	Sapins		
 pb	730	0738	5585234
 pb	731	0739	5585235
 pb	732	0740	5585236
@@ -1585,30 +2421,49 @@ pb	733	0741	5585237
 pb	734	0742	5585238
 pb	735	0743	5585239
 entry	Sapota achras	1	
+orth	Sapota achras		
 pb	736	0744	5585240
 entry	Saprol	0	
+orth	Saprol		
 entry	Sardoal	0	
+orth	Sardoal		
 entry	Sausses	0	
+orth	Sausses		
 pb	737	0745	5585241
 entry	Scay	0	
+orth	Scay		
 entry	Schleichera trijuga	0	
+orth	Schleichera trijuga		
 entry	Scoevola lobelia	0	
+orth	Scoevola lobelia		
 entry	Scopolia carniolica	2	
+orth	Scopolia carniolica		
 pb	738	0746	5585242
 pb	739	0747	5585243
 entry	Scutellaria lateriflora	0	
+orth	Scutellaria lateriflora		
 entry	Sedum acre	1	
+orth	Sedum acre		
 pb	740	0748	5585244
 entry	Segalès	0	
+orth	Segalès		
 entry	Sélénieux (Acide)	0	
+orth	Sélénieux (Acide)		
 entry	Selinum Palustre	0	
+orth	Selinum Palustre		
 entry	Séné	1	
+orth	Séné		
 pb	741	0749	5585245
 entry	Senecio jacoboea	0	
+orth	Senecio jacoboea		
 entry	Senecio koempferi	0	
+orth	Senecio koempferi		
 entry	Serissa foetida	0	
+orth	Serissa foetida		
 entry	Sermanho	0	
+orth	Sermanho		
 entry	Sérothérapie	16	
+orth	Sérothérapie		
 pb	742	0750	5585246
 pb	743	0751	5585247
 pb	744	0752	5585248
@@ -1626,20 +2481,31 @@ pb	755	0763	5585259
 pb	756	0764	5585260
 pb	757	0765	5585261
 entry	Serpentaire	0	
+orth	Serpentaire		
 entry	Sesamum indicum	1	
+orth	Sesamum indicum		
 pb	758	0766	5585262
 entry	Sicopira	1	
+orth	Sicopira		
 pb	759	0767	5585263
 entry	Sida cordifolia	1	
+orth	Sida cordifolia		
 pb	760	0768	5585264
 entry	Sierra alhamilla	0	
+orth	Sierra alhamilla		
 entry	Sierra elvira	0	
+orth	Sierra elvira		
 entry	Siete aguas	0	
+orth	Siete aguas		
 entry	Simulo	0	
+orth	Simulo		
 entry	Sium latifolium	1	
+orth	Sium latifolium		
 pb	761	0769	5585265
 entry	Sobron	0	
+orth	Sobron		
 entry	Soja hispida	6	
+orth	Soja hispida		
 pb	762	0770	5585266
 pb	763	0771	5585267
 pb	764	0772	5585268
@@ -1647,25 +2513,37 @@ pb	765	0773	5585269
 pb	766	0774	5585270
 pb	767	0775	5585271
 entry	Solanine	1	
+orth	Solanine		
 pb	768	0776	5585272
 entry	Solanum tuberosum	3	
+orth	Solanum tuberosum		
 pb	769	0777	5585273
 pb	770	0778	5585274
 pb	771	0779	5585275
 entry	Soldanelle	0	
+orth	Soldanelle		
 entry	Solidago virga aurea	0	
+orth	Solidago virga aurea		
 entry	Solphinol	0	
+orth	Solphinol		
 entry	Solutol	1	
+orth	Solutol		
 pb	772	0780	5585276
 entry	Somnal	1	
+orth	Somnal		
 pb	773	0781	5585277
 entry	Sophora speciosa	1	
+orth	Sophora speciosa		
 pb	774	0782	5585278
 entry	Soportilla	0	
+orth	Soportilla		
 entry	Sorgho vulgare	0	
+orth	Sorgho vulgare		
 entry	Souchet rond	1	
+orth	Souchet rond		
 pb	775	0783	5585279
 entry	Soude	6	
+orth	Soude		
 pb	776	0784	5585280
 pb	777	0785	5585281
 pb	778	0786	5585282
@@ -1673,32 +2551,49 @@ pb	779	0787	5585283
 pb	780	0788	5585284
 pb	781	0789	5585285
 entry	Soufre	5	
+orth	Soufre		
 pb	782	0790	5585286
 pb	783	0791	5585287
 pb	784	0792	5585288
 pb	785	0793	5585289
 pb	786	0794	5585290
 entry	Soulamea amara	0	
+orth	Soulamea amara		
 entry	Soure	0	
+orth	Soure		
 entry	Souto do Bispo	0	
+orth	Souto do Bispo		
 entry	Souza	0	
+orth	Souza		
 entry	Souzel	0	
+orth	Souzel		
 entry	Soymide febrifuga	1	
+orth	Soymide febrifuga		
 pb	787	0795	5585291
 entry	Sozal	0	
+orth	Sozal		
 entry	Spartèine	2	
+orth	Spartèine		
 pb	788	0796	5585292
 pb	789	0797	5585293
 entry	Sphoeranthus indicus	0	
+orth	Sphoeranthus indicus		
 entry	Staphysaigre	0	
+orth	Staphysaigre		
 entry	Statice caroliniana	1	
+orth	Statice caroliniana		
 pb	790	0798	5585294
 entry	Stazzona	0	
+orth	Stazzona		
 entry	Sterculia urens	1	
+orth	Sterculia urens		
 pb	791	0799	5585295
 entry	Stereospermum chelenoides	0	
+orth	Stereospermum chelenoides		
 entry	Stérésol	0	
+orth	Stérésol		
 entry	Strontium (Sels de)	8	
+orth	Strontium (Sels de)		
 pb	792	0800	5585296
 pb	793	0801	5585297
 pb	794	0802	5585298
@@ -1708,6 +2603,7 @@ pb	797	0805	5585301
 pb	798	0806	5585302
 pb	799	0807	5585303
 entry	Strophantus	6	
+orth	Strophantus		
 pb	800	0808	5585304
 pb	801	0809	5585305
 pb	802	0810	5585306
@@ -1715,210 +2611,340 @@ pb	803	0811	5585307
 pb	804	0812	5585308
 pb	805	0813	5585309
 entry	Styracol	1	
+orth	Styracol		
 pb	806	0814	5585310
 entry	Sucres	3	
+orth	Sucres		
 pb	807	0815	5585311
 pb	808	0816	5585312
 pb	809	0817	5585313
 entry	Sulfaldéhyde	0	
+orth	Sulfaldéhyde		
 entry	Sulfaminol	0	
+orth	Sulfaminol		
 entry	Sulfonal	5	
+orth	Sulfonal		
 pb	810	0818	5585314
 pb	811	0819	5585315
 pb	812	0820	5585316
 pb	813	0821	5585317
 pb	814	0822	5585318
 entry	Sulforicinique (Acide)	1	
+orth	Sulforicinique (Acide)		
 pb	815	0823	5585319
 entry	Sureau	2	
+orth	Sureau		
 pb	816	0824	5585320
 pb	817	0825	5585321
 entry	Swietenia mahogoni	1	
+orth	Swietenia mahogoni		
 pb	818	0826	5585322
 entry	Symphonia globulifera	0	
+orth	Symphonia globulifera		
 entry	Symphoricarpos vulgaris	0	
+orth	Symphoricarpos vulgaris		
 entry	Symplocos racemosa	1	
+orth	Symplocos racemosa		
 pb	819	0827	5585323
 entry	Tabac	2	
+orth	Tabac		
 pb	820	0828	5585324
 pb	821	0829	5585325
 entry	Tagetes patula	0	
+orth	Tagetes patula		
 entry	Taipas	0	
+orth	Taipas		
 entry	Talauma plumieri	0	
+orth	Talauma plumieri		
 entry	Tallahatta-Springs	0	
+orth	Tallahatta-Springs		
 entry	Tamaris gallica	1	
+orth	Tamaris gallica		
 pb	822	0830	5585326
 entry	Tambourissa quadrifida	0	
+orth	Tambourissa quadrifida		
 entry	Tanguin	1	
+orth	Tanguin		
 pb	823	0831	5585327
 entry	Taussac	0	
+orth	Taussac		
 entry	Tavira	0	
+orth	Tavira		
 entry	Tellurates de potasse et de soude	1	
 orth	Tellurates de potasse		
 orth	de soude		
 pb	824	0832	5585328
 entry	Tephrosia toxicaria	0	
+orth	Tephrosia toxicaria		
 entry	Terminalia	1	
+orth	Terminalia		
 pb	825	0833	5585329
 entry	Tessières-Les-Bouliès	0	
+orth	Tessières-Les-Bouliès		
 entry	Tétrachlorure de carbone	2	
+orth	Tétrachlorure de carbone		
 pb	826	0834	5585330
 pb	827	0835	5585331
 entry	Tétraiododichlorodisalicylique	0	
+orth	Tétraiododichlorodisalicylique		
 entry	Tetranthera laurifolia	0	
+orth	Tetranthera laurifolia		
 entry	Tétronal	0	
+orth	Tétronal		
 entry	Teucrine	1	
+orth	Teucrine		
 pb	828	0836	5585332
 entry	Thalictrum flavum	0	
+orth	Thalictrum flavum		
 entry	Thapsia garganica	1	
+orth	Thapsia garganica		
 pb	829	0837	5585333
 entry	Thé	2	
+orth	Thé		
 pb	830	0838	5585334
 pb	831	0839	5585335
 entry	Théine	1	
+orth	Théine		
 pb	832	0840	5585336
 entry	Théobromine	1	
+orth	Théobromine		
 pb	833	0841	5585337
 entry	Thermodine	2	
+orth	Thermodine		
 pb	834	0842	5585338
 pb	835	0843	5585339
 entry	Thialdine	0	
+orth	Thialdine		
 entry	Thilanine	1	
+orth	Thilanine		
 pb	836	0844	5585340
 entry	Thioforme	0	
+orth	Thioforme		
 entry	Thiol	1	
+orth	Thiol		
 pb	837	0845	5585341
 entry	Thiophène	1	
+orth	Thiophène		
 pb	838	0846	5585342
 entry	Thiorésorcine	0	
+orth	Thiorésorcine		
 entry	Thiosinamine	1	
+orth	Thiosinamine		
 pb	839	0847	5585343
 entry	Thio-urée	1	
+orth	Thio-urée		
 pb	840	0848	5585344
 entry	Thiuret	0	
+orth	Thiuret		
 entry	Thouarcé	0	
+orth	Thouarcé		
 pb	841	0849	5585345
 entry	Thymacétine	1	
+orth	Thymacétine		
 pb	842	0850	5585346
 entry	Thymol	0	
+orth	Thymol		
 entry	Timor	0	
+orth	Timor		
 entry	Toddalia asiatica	1	
+orth	Toddalia asiatica		
 pb	843	0851	5585347
 entry	Toluifera balsamum	2	
+orth	Toluifera balsamum		
 pb	844	0852	5585348
 pb	845	0853	5585349
 entry	Tolypyrine	0	
+orth	Tolypyrine		
 pb	846	0854	5585350
 entry	Tolypirine	0	
+orth	Tolypirine		
 entry	Tolysal	1	
+orth	Tolysal		
 pb	847	0855	5585351
 entry	Tona	0	
+orth	Tona		
 entry	Tonga	1	
+orth	Tonga		
 pb	848	0856	5585352
 entry	Torenia diffusa	0	
+orth	Torenia diffusa		
 entry	Torres	0	
+orth	Torres		
 entry	Torres vedras	1	
+orth	Torres vedras		
 pb	849	0857	5585353
 entry	Tragopogon porrifolium	0	
+orth	Tragopogon porrifolium		
 entry	Trapa natans	0	
+orth	Trapa natans		
 entry	Traverseres	0	
+orth	Traverseres		
 entry	Trichlorure d'iode	1	
+orth	Trichlorure d'iode		
 pb	850	0858	5585354
 entry	Triméthylamine	0	
+orth	Triméthylamine		
 entry	Trional	1	
+orth	Trional		
 pb	861	0859	5585355
 entry	Vals	1	
+orth	Vals		
 pb	852	0860	5585356
 entry	Tumélos	0	
+orth	Tumélos		
 entry	Turbith végétal	1	
+orth	Turbith végétal		
 pb	853	0861	5585357
 entry	Tylophora asthmatica	1	
+orth	Tylophora asthmatica		
 pb	854	0862	5585358
 entry	Ubloea schimperi	0	
+orth	Ubloea schimperi		
 entry	Ukambine	0	
+orth	Ukambine		
 entry	Unhaes Da Serra	0	
+orth	Unhaes Da Serra		
 entry	Upas-antiar	1	
+orth	Upas-antiar		
 pb	855	0863	5585359
 entry	Ural	2	
+orth	Ural		
 pb	856	0864	5585360
 pb	857	0865	5585361
 entry	Uranium	0	
+orth	Uranium		
 entry	Urban-vacqueyras	0	
+orth	Urban-vacqueyras		
 entry	Urberuaga de Ubilla	1	
+orth	Urberuaga de Ubilla		
 pb	858	0866	5585362
 entry	Urechites suberecta	1	
+orth	Urechites suberecta		
 pb	859	0867	5585363
 entry	Urostigma dolarium	0	
+orth	Urostigma dolarium		
 entry	Valdeganga	0	
+orth	Valdeganga		
 entry	Valdelateja	0	
+orth	Valdelateja		
 entry	Valdivia	1	
+orth	Valdivia		
 pb	860	0868	5585364
 entry	Valle de Torre	0	
+orth	Valle de Torre		
 entry	Valle Da Ursa	0	
+orth	Valle Da Ursa		
 entry	Valle de Lobos	0	
+orth	Valle de Lobos		
 entry	Valle de Ribas	1	
+orth	Valle de Ribas		
 pb	861	0869	5585365
 entry	Vals	1	
+orth	Vals		
 pb	862	0870	5585366
 entry	Vaour	0	
+orth	Vaour		
 entry	Venda Secca	0	
+orth	Venda Secca		
 entry	Vératrine	1	
+orth	Vératrine		
 pb	863	0871	5585367
 pb	864	0872	5585368
 entry	Vergèse	0	
+orth	Vergèse		
 entry	Verride	0	
+orth	Verride		
 entry	Versoie (le)	0	
+orth	Versoie (le)		
 entry	Vidago	1	
+orth	Vidago		
 pb	865	0873	5585369
 entry	Villacabras	0	
+orth	Villacabras		
 entry	Villa Flor	0	
+orth	Villa Flor		
 entry	Villa Pouga de Aguiar	0	
+orth	Villa Pouga de Aguiar		
 entry	Villar Del Pozzo	0	
+orth	Villar Del Pozzo		
 entry	Villarelho Da Raia	1	
+orth	Villarelho Da Raia		
 pb	866	0874	5585370
 entry	Villaro	0	
+orth	Villaro		
 entry	Villa Verde	0	
+orth	Villa Verde		
 entry	Villelongue	0	
+orth	Villelongue		
 entry	Villeneuve	0	
+orth	Villeneuve		
 entry	Vilo	0	
+orth	Vilo		
 entry	Vimeiro	0	
+orth	Vimeiro		
 entry	Vincetoxium	0	
+orth	Vincetoxium		
 pb	867	0875	5585371
 entry	Vismia guianensis	0	
+orth	Vismia guianensis		
 entry	Vitex negundo	0	
+orth	Vitex negundo		
 entry	Vitis idoea	1	
+orth	Vitis idoea		
 pb	868	0876	5585372
 entry	Vizella	0	
+orth	Vizella		
 entry	Voandzaia subterranea	0	
+orth	Voandzaia subterranea		
 entry	Volutarella divaricata	1	
+orth	Volutarella divaricata		
 pb	869	0877	5585373
 entry	Vouzella	0	
+orth	Vouzella		
 entry	Wayika	0	
+orth	Wayika		
 entry	Wendladia lawsonlae	0	
+orth	Wendladia lawsonlae		
 entry	Wistaria chinensis	0	
+orth	Wistaria chinensis		
 entry	Withania sommifera	1	
+orth	Withania sommifera		
 pb	870	0878	5585374
 entry	Xanthium spinosum	1	
+orth	Xanthium spinosum		
 pb	871	0879	5585375
 entry	Xanthorhiza aphfolia	0	
+orth	Xanthorhiza aphfolia		
 entry	Xylénosalols	1	
+orth	Xylénosalols		
 pb	872	0880	5585376
 entry	Xylopia aethiopica	0	
+orth	Xylopia aethiopica		
 entry	Yéméda	0	
+orth	Yéméda		
 entry	Yerba mansa	1	
+orth	Yerba mansa		
 pb	873	0881	5585377
 entry	Zanonia indica	0	
+orth	Zanonia indica		
 entry	Zanthoxylum fraxineum	2	
+orth	Zanthoxylum fraxineum		
 pb	874	0882	5585378
 pb	875	0883	5585379
 entry	Zataria multiflora	0	
+orth	Zataria multiflora		
 entry	Zebras	0	
+orth	Zebras		
 entry	Zenheria umbellata	0	
+orth	Zenheria umbellata		
 entry	Zinc	4	
+orth	Zinc		
 pb	876	0884	5585380
 pb	877	0885	5585381
 pb	878	0886	5585382
 pb	879	0887	5585383
 entry	Zuazo	1	
+orth	Zuazo		
 pb	880	0888	5585384
 entry	Zygophyllum fabago	0	
+orth	Zygophyllum fabago		

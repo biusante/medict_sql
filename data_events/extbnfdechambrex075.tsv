@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4576380
 pb	1	0005	4576381
 entry	Péricarde	0	
+orth	Péricarde		
 entry	Péricarde. Anatomie [H. Bernheim]	6	
 orth	Péricarde. Anatomie		
 pb	2	0006	4576382
@@ -108,6 +109,7 @@ entry	Péricarpe [G. Planchon]	1
 orth	Péricarpe		
 pb	94	0098	4576474
 entry	Périchondre	0	
+orth	Périchondre		
 ref	Périoste		
 entry	Periclymenum (Diosc.) [H. Baillon]	0	
 orth	Periclymenum (Diosc.)		
@@ -120,6 +122,7 @@ pb	96	0100	4576476
 entry	Péridiniens [F. Henneguy] (bibliographie)	0	
 orth	Péridiniens		
 entry	Pérididyme	0	
+orth	Pérididyme		
 ref	Testicule		
 entry	Périer (Les) [A. Dureau]	0	
 orth	Périer (Les)		
@@ -128,6 +131,7 @@ entry	Périer (Les) [A. Dureau] (bibliographie)	1
 orth	Périer (Les)		
 pb	98	0102	4576478
 entry	Périlymphe	0	
+orth	Périlymphe		
 ref	Oreille interne		
 entry	Périm-Aram [Ed. Lefèvre]	0	
 orth	Périm-Aram		
@@ -138,8 +142,10 @@ orth	Périm-kara
 entry	Perin-panel [G. Planchon]	0	
 orth	Perin-panel		
 entry	Périnéale (Artère)	0	
+orth	Périnéale (Artère)		
 ref	Honteuse interne		
 entry	Périnée	0	
+orth	Périnée		
 entry	Périnée. Anatomie [C. Coÿne]	11	
 orth	Périnée. Anatomie		
 pb	99	0103	4576479
@@ -183,19 +189,23 @@ entry	Périnéorrhaphie [E. Kirmisson] (bibliographie)	1
 orth	Périnéorrhaphie		
 pb	130	0134	4576510
 entry	Périnéphrite	0	
+orth	Périnéphrite		
 ref	Rein		
 entry	Périnèvre	0	
+orth	Périnèvre		
 ref	Nerfs		
 entry	Périodicité [B. Brochin]	2	
 orth	Périodicité		
 pb	131	0135	4576511
 pb	132	0136	4576512
 entry	Periodique (Acide)	0	
+orth	Periodique (Acide)		
 ref	Iodique		
 entry	Périops [H.-E. Sauvage] (bibliographie)	0	
 orth	Périops		
 pb	133	0137	4576513
 entry	Périoste	0	
+orth	Périoste		
 entry	Périoste. Anatomie [Ed. Retterer]	22	
 orth	Périoste. Anatomie		
 pb	134	0138	4576514
@@ -332,6 +342,7 @@ orth	Perisporium
 entry	Périssodactyles [E. Oustalet]	0	
 orth	Périssodactyles		
 entry	Péristaltiques (Mouvements)	0	
+orth	Péristaltiques (Mouvements)		
 ref	Intestin		
 entry	Péristaphylins externe et interne [J. Aubry]	0	
 orth	Péristaphylins externe et interne		
@@ -341,6 +352,7 @@ entry	Péristerona [G. Planchon]	0
 orth	Péristerona		
 pb	235	0239	4576615
 entry	Péritoine	0	
+orth	Péritoine		
 entry	Péritoine. Anatomie descriptive [Baraban]	24	
 orth	Péritoine. Anatomie descriptive		
 pb	236	0240	4576616
@@ -384,6 +396,7 @@ pb	271	0275	4576651
 pb	272	0276	4576652
 pb	273	0277	4576653
 entry	Péritoine	0	
+orth	Péritoine		
 entry	Péritoine. Développement [Baraban]	7	
 orth	Péritoine. Développement		
 pb	274	0278	4576654
@@ -409,6 +422,7 @@ entry	Pathologie [L. Hahn]	0
 orth	Pathologie		
 pb	289	0293	4576669
 entry	Péritonites	0	
+orth	Péritonites		
 entry	Péritonites. Historique général [Paul Spillmann, Ganzinotty]	1	
 orth	Péritonites. Historique général		
 pb	290	0294	4576670
@@ -587,11 +601,14 @@ entry	Péritonites. Tumeurs du péritoine [Paul Spillmann, Ganzinotty] (bibliogr
 orth	Péritonites. Tumeurs du péritoine		
 pb	444	0448	4576824
 entry	Pérityphlite	0	
+orth	Pérityphlite		
 ref	Coecum		
 ref	Péritonite		
 entry	Péri-utérin (Phlegmon)	0	
+orth	Péri-utérin (Phlegmon)		
 ref	Utérus		
 entry	Perkinisme	0	
+orth	Perkinisme		
 ref	Perkins		
 entry	Perkins (Les deux) [L. Hahn]	0	
 orth	Perkins (Les deux)		
@@ -610,6 +627,7 @@ orth	Perlitzi (Johannes-Dan)
 entry	Perls (Max) [L. Hahn]	0	
 orth	Perls (Max)		
 entry	Perméaks (Les)	0	
+orth	Perméaks (Les)		
 ref	Russie		
 entry	Permenton [G. Planchon]	0	
 orth	Permenton		
@@ -644,6 +662,7 @@ orth	Péromèles (Tératologie)
 entry	Péron (François) [L. Hahn]	0	
 orth	Péron (François)		
 entry	Péroné	0	
+orth	Péroné		
 entry	Péroné. Anatomie [Albert Heydenreich]	3	
 orth	Péroné. Anatomie		
 pb	453	0457	4576833
@@ -681,8 +700,10 @@ orth	Péronéo-tibiales (Articulations)
 pb	473	0477	4576853
 pb	474	0478	4576854
 entry	Péronier (Tronc)	0	
+orth	Péronier (Tronc)		
 ref	Tibio-péronier (Tronc)		
 entry	Péronière (Artère)	0	
+orth	Péronière (Artère)		
 ref	Tibio-péronier (Tronc)		
 entry	Péroniers (Muscles) [L. Testut]	9	
 orth	Péroniers (Muscles)		
@@ -699,6 +720,7 @@ pb	484	0488	4576864
 entry	Péroniers (Muscles) [L. Testut] (bibliographie)	0	
 orth	Péroniers (Muscles)		
 entry	Péronière (Artère)	0	
+orth	Péronière (Artère)		
 ref	Tibio-péronier (tronc)		
 entry	Peronospora [Ed. Lefèvre]	1	
 orth	Peronospora		
@@ -745,6 +767,7 @@ entry	Perrève (Pierre-Ed.-Ulysse-Victor) [L. Hahn]	1
 orth	Perrève (Pierre-Ed.-Ulysse-Victor)		
 pb	514	0518	4576894
 entry	Perrolle	0	
+orth	Perrolle		
 ref	Pérolle		
 entry	Perrone (Pietro) [L. Hahn]	0	
 orth	Perrone (Pietro)		
@@ -760,11 +783,13 @@ orth	Perrottet (G.-Samuel)
 entry	Perruchés (Eau minérale de) [A. Rotureau]	0	
 orth	Perruchés (Eau minérale de)		
 entry	Perruques	0	
+orth	Perruques		
 ref	Cheveux		
 ref	Postiches		
 entry	Per se (Précipité) [L. Hahn]	0	
 orth	Per se (Précipité)		
 entry	Perse	0	
+orth	Perse		
 entry	Perse. Géographie médicale [G. Liétard]	10	
 orth	Perse. Géographie médicale		
 pb	518	0522	4576898
@@ -869,6 +894,7 @@ orth	Persica
 entry	Persicaire [Ed. Lefèvre]	0	
 orth	Persicaire		
 entry	Persil	0	
+orth	Persil		
 entry	Persil. Botanique [H. Baillon] (bibliographie)	1	
 orth	Persil. Botanique		
 pb	601	0605	4576981
@@ -890,6 +916,7 @@ orth	Persoon (Christian-Hendeck)
 entry	Persoz (Jean-François) [L. Hahn]	0	
 orth	Persoz (Jean-François)		
 entry	Perspiration	0	
+orth	Perspiration		
 ref	Respiration		
 entry	Pertes [L. Hahn]	0	
 orth	Pertes		
@@ -903,11 +930,13 @@ orth	Perusse
 entry	Peruviana [Ed. Lefèvre]	0	
 orth	Peruviana		
 entry	Péruviens (Les)	0	
+orth	Péruviens (Les)		
 ref	Amérique		
 ref	Pérou		
 entry	Péruvine [L. Hahn]	0	
 orth	Péruvine		
 entry	Pervenche	0	
+orth	Pervenche		
 entry	Pervenche. Botanique [H. Baillon]	1	
 orth	Pervenche. Botanique		
 pb	606	0610	4576986
@@ -976,6 +1005,7 @@ orth	Pesse
 entry	Pesse d'eau [Ed. Lefèvre]	0	
 orth	Pesse d'eau		
 entry	Pest (Eaux minérales de)	0	
+orth	Pest (Eaux minérales de)		
 ref	Ofen		
 entry	Pestalozzi (Les deux) [A. Chéreau]	0	
 orth	Pestalozzi (Les deux)		
@@ -1175,8 +1205,10 @@ entry	Petronius (Alessandro-Trajano) [L. Hahn] (bibliographie)	1
 orth	Petronius (Alessandro-Trajano)		
 pb	771	0775	4577151
 entry	Pétro-salpingo-staphylin (Muscle)	0	
+orth	Pétro-salpingo-staphylin (Muscle)		
 ref	Oreille externe		
 entry	Petroselinum	0	
+orth	Petroselinum		
 ref	Persil		
 entry	Pétroz (Les deux) [L. Hahn]	0	
 orth	Pétroz (Les deux)		
@@ -1206,12 +1238,15 @@ pb	776	0780	4577156
 entry	Peucer (Gaspard) [A. Dureau] (bibliographie)	0	
 orth	Peucer (Gaspard)		
 entry	Peuls	0	
+orth	Peuls		
 ref	Foulahs		
 ref	Sénégambie		
 entry	Peulvans	0	
+orth	Peulvans		
 ref	Dolmen		
 ref	Celtes		
 entry	Peumus (Mol.)	0	
+orth	Peumus (Mol.)		
 entry	Peumus (Mol.). Botanique [H. Baillon] (bibliographie)	1	
 orth	Peumus (Mol.). Botanique		
 pb	777	0781	4577157
@@ -1221,6 +1256,7 @@ pb	778	0782	4577158
 pb	779	0783	4577159
 pb	780	0784	4577160
 entry	Peuplier	0	
+orth	Peuplier		
 entry	Peuplier. Botanique [H. Baillon]	1	
 orth	Peuplier. Botanique		
 pb	781	0785	4577161
@@ -1239,6 +1275,7 @@ orth	Peutheron
 entry	Pevette [H. Baillon]	0	
 orth	Pevette		
 entry	Peyer (Glandes ou Plaques de)	0	
+orth	Peyer (Glandes ou Plaques de)		
 ref	Intestin		
 entry	Peyer (Johann-Conrad) [L. Hahn]	0	
 orth	Peyer (Johann-Conrad)		
@@ -1299,6 +1336,7 @@ orth	Pfingsten (Johann-Derrmann)
 entry	Pfolspeundt (Heinrich von) [L. Hahn]	0	
 orth	Pfolspeundt (Heinrich von)		
 entry	Phacas	0	
+orth	Phacas		
 ref	Dioscoride		
 entry	Phace [Ed. Lefèvre]	0	
 orth	Phace		
@@ -1311,15 +1349,18 @@ entry	Phagédénisme [L. Lereboullet]	1
 orth	Phagédénisme		
 pb	799	0803	4577179
 entry	Phalanges	0	
+orth	Phalanges		
 ref	Doigts		
 ref	Orteils		
 entry	Phalangiens	0	
+orth	Phalangiens		
 ref	Arachnides		
 ref	Faucheurs		
 entry	Phalangium [Ed. Lefèvre] (bibliographie)	0	
 orth	Phalangium		
 pb	800	0804	4577180
 entry	Phalangose	0	
+orth	Phalangose		
 ref	Trichiasis		
 entry	Phalaris [Ed. Lefèvre]	0	
 orth	Phalaris		
@@ -1329,6 +1370,7 @@ entry	Phallus [Ed. Lefèvre]	0
 orth	Phallus		
 pb	801	0805	4577181
 entry	Articles contenus dans le vingt-troisième volume (2e série.)	2	
+orth	Articles contenus dans le vingt-troisième volume (2e série.)		
 pb	802	0806	4577182
 pb	803	0807	4577183
 pb	[s. pag.]	0808	4577184

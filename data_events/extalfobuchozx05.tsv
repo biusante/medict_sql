@@ -16,6 +16,7 @@ orth	Dictionnaire Vétérinaire
 orth	des animaux domestiques. PLA - Plantes indigènes		
 pb	2	0010	7320207
 entry	Plantes indigènes	28	
+orth	Plantes indigènes		
 pb	3	0011	7320208
 pb	4	0012	7320209
 pb	5	0013	7320210
@@ -45,6 +46,7 @@ pb	28	0036	7320233
 pb	29	0037	7320234
 pb	30	0038	7320235
 entry	Pluvier	16	
+orth	Pluvier		
 pb	31	0039	7320236
 pb	32	0040	7320237
 pb	33	0041	7320238
@@ -62,11 +64,16 @@ pb	44	0052	7320249
 pb	45	0053	7320250
 pb	46	0054	7320251
 entry	Plye	1	
+orth	Plye		
 pb	47	0055	7320252
 entry	Poche	0	
+orth	Poche		
 entry	Poignard	0	
+orth	Poignard		
 entry	Poils	0	
+orth	Poils		
 entry	Poisson	25	
+orth	Poisson		
 pb	48	0056	7320253
 pb	49	0057	7320254
 pb	50	0058	7320255
@@ -93,12 +100,19 @@ pb	70	0078	7320275
 pb	71	0079	7320276
 pb	72	0080	7320277
 entry	Poitrail	0	
+orth	Poitrail		
 entry	Ponte	0	
+orth	Ponte		
 entry	Porc	0	
+orth	Porc		
 entry	Portée	0	
+orth	Portée		
 entry	Posées	0	
+orth	Posées		
 entry	Pottée	0	
+orth	Pottée		
 entry	Pou	18	
+orth	Pou		
 pb	73	0081	7320278
 pb	74	0082	7320279
 pb	75	0083	7320280
@@ -118,13 +132,19 @@ pb	88	0096	7320293
 pb	89	0097	7320294
 pb	90	0098	7320295
 entry	Poudrer	0	
+orth	Poudrer		
 entry	Poulaille	0	
+orth	Poulaille		
 entry	Poulailler	2	
+orth	Poulailler		
 pb	91	0099	7320296
 pb	92	0100	7320297
 entry	Poulain	0	
+orth	Poulain		
 entry	Poularde	0	
+orth	Poularde		
 entry	Poule	24	
+orth	Poule		
 pb	93	0101	7320298
 pb	94	0102	7320299
 pb	95	0103	7320300
@@ -150,8 +170,10 @@ pb	114	0122	7320319
 pb	115	0123	7320320
 pb	116	0124	7320321
 entry	Poule d'eau	1	
+orth	Poule d'eau		
 pb	117	0125	7320322
 entry	Poulets	9	
+orth	Poulets		
 pb	118	0126	7320323
 pb	119	0127	7320324
 pb	120	0128	7320325
@@ -162,28 +184,35 @@ pb	124	0132	7320329
 pb	125	0133	7320330
 pb	126	0134	7320331
 entry	Pouppe	0	
+orth	Pouppe		
 entry	Pourchasser	0	
+orth	Pourchasser		
 entry	Pourpre	5	
+orth	Pourpre		
 pb	127	0135	7320332
 pb	128	0136	7320333
 pb	129	0137	7320334
 pb	130	0138	7320335
 pb	131	0139	7320336
 entry	Prendre le vent	1	
+orth	Prendre le vent		
 pb	132	0140	7320337
 entry	Puce	5	
+orth	Puce		
 pb	133	0141	7320338
 pb	134	0142	7320339
 pb	135	0143	7320340
 pb	136	0144	7320341
 pb	137	0145	7320342
 entry	Puceron	5	
+orth	Puceron		
 pb	138	0146	7320343
 pb	139	0147	7320344
 pb	140	0148	7320345
 pb	141	0149	7320346
 pb	142	0150	7320347
 entry	Punaise	11	
+orth	Punaise		
 pb	143	0151	7320348
 pb	144	0152	7320349
 pb	145	0153	7320350
@@ -196,10 +225,13 @@ pb	151	0159	7320356
 pb	152	0160	7320357
 pb	153	0161	7320358
 entry	Putois	1	
+orth	Putois		
 pb	154	0162	7320359
 pb	155	0163	7320360
 entry	Quacquescendre	0	
+orth	Quacquescendre		
 entry	Quadrupedes	46	
+orth	Quadrupedes		
 pb	156	0164	7320361
 pb	157	0165	7320362
 pb	158	0166	7320363
@@ -247,23 +279,39 @@ pb	199	0207	7320404
 pb	200	0208	7320405
 pb	201	0209	7320406
 entry	Quartan	0	
+orth	Quartan		
 entry	Quartiers	0	
+orth	Quartiers		
 entry	Quatrouille	0	
+orth	Quatrouille		
 entry	Quenouille	0	
+orth	Quenouille		
 entry	Querelleur	0	
+orth	Querelleur		
 entry	Quêter	0	
+orth	Quêter		
 entry	Quêteur	0	
+orth	Quêteur		
 entry	Queue	0	
+orth	Queue		
 entry	Queue de cheval	1	
+orth	Queue de cheval		
 pb	202	0210	7320407
 entry	Quinqueporte	0	
+orth	Quinqueporte		
 pb	203	0211	7320408
 entry	Rabattre	0	
+orth	Rabattre		
 entry	Rable	0	
+orth	Rable		
 entry	Rabouillieres	0	
+orth	Rabouillieres		
 entry	Raccoupler	0	
+orth	Raccoupler		
 entry	Racer	0	
+orth	Racer		
 entry	Rafle	8	
+orth	Rafle		
 pb	204	0212	7320409
 pb	205	0213	7320410
 pb	206	0214	7320411
@@ -273,21 +321,32 @@ pb	209	0217	7320414
 pb	210	0218	7320415
 pb	211	0219	7320416
 entry	Raie	2	
+orth	Raie		
 pb	212	0220	7320417
 pb	213	0221	7320418
 entry	Raire	0	
+orth	Raire		
 entry	Râle	2	
+orth	Râle		
 pb	214	0222	7320419
 pb	215	0223	7320420
 entry	Raller	0	
+orth	Raller		
 entry	Ramage	0	
+orth	Ramage		
 entry	Ramure	0	
+orth	Ramure		
 entry	Randonnée	0	
+orth	Randonnée		
 entry	Rapport	0	
+orth	Rapport		
 entry	Rapprocher	0	
+orth	Rapprocher		
 pb	216	0224	7320421
 entry	Raser	0	
+orth	Raser		
 entry	Rat	16	
+orth	Rat		
 pb	217	0225	7320422
 pb	218	0226	7320423
 pb	219	0227	7320424
@@ -305,36 +364,61 @@ pb	230	0238	7320435
 pb	231	0239	7320436
 pb	232	0240	7320437
 entry	Rayer	0	
+orth	Rayer		
 entry	Razer	0	
+orth	Razer		
 entry	Rebondir	0	
+orth	Rebondir		
 entry	Rebuté	0	
+orth	Rebuté		
 entry	Receler	0	
+orth	Receler		
 entry	Rechasser	0	
+orth	Rechasser		
 pb	233	0241	7320438
 entry	Réclamer	0	
+orth	Réclamer		
 entry	Redonner	0	
+orth	Redonner		
 entry	Réer, ou rayer	0	
 orth	Réer		
 orth	rayer		
 entry	Refait	0	
+orth	Refait		
 entry	Refuir	0	
+orth	Refuir		
 entry	Refuitte	0	
+orth	Refuitte		
 entry	Refus	0	
+orth	Refus		
 entry	Reguinder	0	
+orth	Reguinder		
 entry	Rejets	0	
+orth	Rejets		
 entry	Reins	1	
+orth	Reins		
 pb	234	0242	7320439
 entry	Reinter	0	
+orth	Reinter		
 entry	Relais	0	
+orth	Relais		
 entry	Relaisser	0	
+orth	Relaisser		
 entry	Relancer	0	
+orth	Relancer		
 entry	Relever	0	
+orth	Relever		
 entry	Remarque	0	
+orth	Remarque		
 entry	Remarquer	0	
+orth	Remarquer		
 entry	Rembuchement	1	
+orth	Rembuchement		
 pb	235	0243	7320440
 entry	Rembucher	0	
+orth	Rembucher		
 entry	Remede	62	
+orth	Remede		
 pb	236	0244	7320441
 pb	237	0245	7320442
 pb	238	0246	7320443
@@ -398,11 +482,16 @@ pb	295	0303	7320500
 pb	296	0304	7320501
 pb	297	0305	7320502
 entry	Remise	0	
+orth	Remise		
 entry	Remolade	1	
+orth	Remolade		
 pb	298	0306	7320503
 entry	Remonter	0	
+orth	Remonter		
 entry	Remontrer	0	
+orth	Remontrer		
 entry	Renard	14	
+orth	Renard		
 pb	299	0307	7320504
 pb	300	0308	7320505
 pb	301	0309	7320506
@@ -418,24 +507,40 @@ pb	310	0318	7320515
 pb	311	0319	7320516
 pb	312	0320	7320517
 entry	Rentrée	0	
+orth	Rentrée		
 entry	Reposée	1	
+orth	Reposée		
 pb	313	0321	7320518
 entry	Reprise	0	
+orth	Reprise		
 entry	Requêtée	0	
+orth	Requêtée		
 entry	Réservoirs	0	
+orth	Réservoirs		
 entry	Ressuy	1	
+orth	Ressuy		
 pb	314	0322	7320519
 entry	Retour	0	
+orth	Retour		
 entry	Retraite	0	
+orth	Retraite		
 entry	Revenu	0	
+orth	Revenu		
 entry	Revoir	0	
+orth	Revoir		
 entry	Ridées	0	
+orth	Ridées		
 entry	Rogne	0	
+orth	Rogne		
 entry	Rognons	0	
+orth	Rognons		
 entry	Roitelet	1	
+orth	Roitelet		
 pb	315	0323	7320520
 entry	Rosse	0	
+orth	Rosse		
 entry	Rossignol	15	
+orth	Rossignol		
 pb	316	0324	7320521
 pb	317	0325	7320522
 pb	318	0326	7320523
@@ -452,17 +557,26 @@ pb	328	0336	7320533
 pb	329	0337	7320534
 pb	330	0338	7320535
 entry	Rotele	0	
+orth	Rotele		
 pb	331	0339	7320536
 entry	Rouget	0	
+orth	Rouget		
 entry	Ruche	0	
+orth	Ruche		
 entry	Ruse	0	
+orth	Ruse		
 entry	Ruser	0	
+orth	Ruser		
 entry	Rut	1	
+orth	Rut		
 pb	332	0340	7320537
 pb	333	0341	7320538
 entry	Sac	0	
+orth	Sac		
 entry	Sages (chiens)	0	
+orth	Sages (chiens)		
 entry	Sanglier	13	
+orth	Sanglier		
 pb	334	0342	7320539
 pb	335	0343	7320540
 pb	336	0344	7320541
@@ -477,6 +591,7 @@ pb	344	0352	7320549
 pb	345	0353	7320550
 pb	346	0354	7320551
 entry	Sangsue	9	
+orth	Sangsue		
 pb	347	0355	7320552
 pb	348	0356	7320553
 pb	349	0357	7320554
@@ -487,8 +602,11 @@ pb	353	0361	7320558
 pb	354	0362	7320559
 pb	355	0363	7320560
 entry	Sarcelle	0	
+orth	Sarcelle		
 entry	Sardine	0	
+orth	Sardine		
 entry	Saumon	6	
+orth	Saumon		
 pb	356	0364	7320561
 pb	357	0365	7320562
 pb	358	0366	7320563
@@ -496,6 +614,7 @@ pb	359	0367	7320564
 pb	360	0368	7320565
 pb	361	0369	7320566
 entry	Sauterelles	10	
+orth	Sauterelles		
 pb	362	0370	7320567
 pb	363	0371	7320568
 pb	364	0372	7320569
@@ -507,6 +626,7 @@ pb	369	0377	7320574
 pb	370	0378	7320575
 pb	371	0379	7320576
 entry	Scorpion	9	
+orth	Scorpion		
 pb	372	0380	7320577
 pb	373	0381	7320578
 pb	374	0382	7320579
@@ -517,6 +637,7 @@ pb	378	0386	7320583
 pb	379	0387	7320584
 pb	380	0388	7320585
 entry	Serin	36	
+orth	Serin		
 pb	381	0389	7320586
 pb	382	0390	7320587
 pb	383	0391	7320588
@@ -554,41 +675,62 @@ pb	414	0422	7320619
 pb	415	0423	7320620
 pb	416	0424	7320621
 entry	Serres	0	
+orth	Serres		
 entry	Serrot	0	
+orth	Serrot		
 entry	Sole	0	
+orth	Sole		
 entry	Solle	0	
+orth	Solle		
 entry	Sonner	0	
+orth	Sonner		
 entry	Sortir	0	
+orth	Sortir		
 pb	417	0425	7320622
 entry	Souffler	0	
+orth	Souffler		
 entry	Souil ou Souille	0	
 orth	Souil		
 orth	Souille		
 entry	Souris	3	
+orth	Souris		
 pb	418	0426	7320623
 pb	419	0427	7320624
 pb	420	0428	7320625
 entry	Suif	0	
+orth	Suif		
 entry	Suite	0	
+orth	Suite		
 entry	Suivre	0	
+orth	Suivre		
 entry	Sur-aller	0	
+orth	Sur-aller		
 entry	Sur-andouiller	0	
+orth	Sur-andouiller		
 entry	Sur-neigées	0	
+orth	Sur-neigées		
 pb	421	0429	7320626
 entry	Tac	0	
+orth	Tac		
 entry	Taise	0	
+orth	Taise		
 entry	Tanche	4	
+orth	Tanche		
 pb	422	0430	7320627
 pb	423	0431	7320628
 pb	424	0432	7320629
 pb	425	0433	7320630
 entry	Taon	1	
+orth	Taon		
 pb	426	0434	7320631
 entry	Tarier	0	
+orth	Tarier		
 entry	Tarin	2	
+orth	Tarin		
 pb	427	0435	7320632
 pb	428	0436	7320633
 entry	Taupe	16	
+orth	Taupe		
 pb	[s. pag.]	0437	7320634
 pb	[s. pag.]	0438	7320635
 pb	429	0439	7320636
@@ -615,12 +757,15 @@ pb	446	0456	7320653
 pb	447	0457	7320654
 pb	448	0458	7320655
 entry	Taureau	4	
+orth	Taureau		
 pb	[s. pag.]	0459	7320656
 pb	[s. pag.]	0460	7320657
 pb	[s. pag.]	0461	7320658
 pb	449	0462	7320659
 entry	Tayaut	0	
+orth	Tayaut		
 entry	Teigne	7	
+orth	Teigne		
 pb	450	0463	7320660
 pb	451	0464	7320661
 pb	452	0465	7320662
@@ -629,62 +774,101 @@ pb	454	0467	7320664
 pb	455	0468	7320665
 pb	456	0469	7320666
 entry	Tenderie	0	
+orth	Tenderie		
 entry	Tendeurs	0	
+orth	Tendeurs		
 pb	457	0470	7320667
 entry	Tente	0	
+orth	Tente		
 entry	Terrier	0	
+orth	Terrier		
 entry	Tête	0	
+orth	Tête		
 entry	Thon	1	
+orth	Thon		
 pb	458	0471	7320668
 pb	459	0472	7320669
 entry	Tieran	0	
+orth	Tieran		
 entry	Tigre	0	
+orth	Tigre		
 entry	Tique	0	
+orth	Tique		
 entry	Tirasse	1	
+orth	Tirasse		
 pb	460	0473	7320670
 entry	Tirer-de-longue	0	
+orth	Tirer-de-longue		
 entry	Toiles	0	
+orth	Toiles		
 entry	Tonnelle	0	
+orth	Tonnelle		
 entry	Tons	0	
+orth	Tons		
 entry	Tortue	4	
+orth	Tortue		
 pb	461	0474	7320671
 pb	462	0475	7320672
 pb	463	0476	7320673
 pb	464	0477	7320674
 entry	Toucher	0	
+orth	Toucher		
 entry	Tourner	0	
+orth	Tourner		
 entry	Tourterelle	3	
+orth	Tourterelle		
 pb	465	0478	7320675
 pb	466	0479	7320676
 pb	467	0480	7320677
 entry	Tourtoire	0	
+orth	Tourtoire		
 entry	Trace	0	
+orth	Trace		
 entry	Trainée	0	
+orth	Trainée		
 entry	Trainer	0	
+orth	Trainer		
 entry	Trait	0	
+orth	Trait		
 entry	Tramail	2	
+orth	Tramail		
 pb	468	0481	7320678
 pb	469	0482	7320679
 entry	Trancer	0	
+orth	Trancer		
 entry	Trape	0	
+orth	Trape		
 entry	Traquenard	1	
+orth	Traquenard		
 pb	470	0483	7320680
 entry	Traquer	0	
+orth	Traquer		
 entry	Traquet	0	
+orth	Traquet		
 entry	Trébuchet	2	
+orth	Trébuchet		
 pb	471	0484	7320681
 pb	472	0485	7320682
 entry	Troches	0	
+orth	Troches		
 entry	Trolle	0	
+orth	Trolle		
 entry	Trot	0	
+orth	Trot		
 entry	Trot de chasse	0	
+orth	Trot de chasse		
 entry	Trotter	0	
+orth	Trotter		
 entry	Troupeau	2	
+orth	Troupeau		
 pb	473	0486	7320683
 pb	474	0487	7320684
 entry	Trouveur	0	
+orth	Trouveur		
 entry	Truble	0	
+orth	Truble		
 entry	Truite	8	
+orth	Truite		
 pb	475	0488	7320685
 pb	476	0489	7320686
 pb	477	0490	7320687
@@ -694,8 +878,10 @@ pb	480	0493	7320690
 pb	481	0494	7320691
 pb	482	0495	7320692
 entry	Turbot	0	
+orth	Turbot		
 pb	[s. pag.]	0496	7320693
 entry	Vache	127	
+orth	Vache		
 pb	[s. pag.]	0497	7320694
 pb	483	0498	7320695
 pb	484	0499	7320696
@@ -825,14 +1011,18 @@ pb	605	0622	7320819
 pb	606	0623	7320820
 pb	607	0624	7320821
 entry	Vacher	0	
+orth	Vacher		
 entry	Vaines ou Fumées	0	
 orth	Vaines		
 orth	Fumées		
 entry	Vanneau	2	
+orth	Vanneau		
 pb	608	0625	7320822
 pb	609	0626	7320823
 entry	Vaoutre	0	
+orth	Vaoutre		
 entry	Veau	27	
+orth	Veau		
 pb	610	0627	7320824
 pb	611	0628	7320825
 pb	612	0629	7320826
@@ -861,6 +1051,7 @@ pb	634	0651	7320848
 pb	635	0652	7320849
 pb	636	0653	7320850
 entry	Venaison	0	
+orth	Venaison		
 pb	[s. pag.]	0654	7320851
 pb	[s. pag.]	0655	7320852
 pb	[s. pag.]	0656	7320853

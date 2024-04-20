@@ -8,6 +8,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0006	4575592
 pb	1	0007	4575593
 entry	Peau	0	
+orth	Peau		
 entry	Peau. Anatomie [Ch. Robin, Ed. Retterer]	77	
 orth	Peau. Anatomie		
 pb	2	0008	4575594
@@ -96,6 +97,7 @@ pb	82	0088	4575674
 pb	83	0089	4575675
 pb	84	0090	4575676
 entry	Peau	0	
+orth	Peau		
 entry	Peau. Développement [E. Masse]	9	
 orth	Peau. Développement		
 pb	85	0091	4575677
@@ -246,12 +248,14 @@ entry	Pech (Ernest-August) [L. Hahn]	0
 orth	Pech (Ernest-August)		
 pb	197	0203	4575789
 entry	Pêcher	0	
+orth	Pêcher		
 entry	Botanique [H. Baillon] (bibliographie)	0	
 orth	Botanique		
 entry	Emploi médical [Ernest Labbée]	0	
 orth	Emploi médical		
 pb	198	0204	4575790
 entry	Pêcher	0	
+orth	Pêcher		
 entry	Pêcher. Emploi médical [Ernest Labbée]	1	
 orth	Pêcher. Emploi médical		
 pb	199	0205	4575791
@@ -260,11 +264,13 @@ entry	Pêcher. Emploi médical [Ernest Labbée] (bibliographie)	0
 orth	Pêcher. Emploi médical		
 pb	201	0207	4575793
 entry	Pecherais (Les)	0	
+orth	Pecherais (Les)		
 ref	Fuégiens		
 ref	Amérique		
 entry	Pechlin (Jean-Nicolas) [L. Hahn] (bibliographie)	0	
 orth	Pechlin (Jean-Nicolas)		
 entry	Péchurim	0	
+orth	Péchurim		
 ref	Pitchurim (Fève)		
 entry	Pécilopodes [Amédée Dechambre]	0	
 orth	Pécilopodes		
@@ -376,6 +382,7 @@ pb	260	0266	4575852
 entry	Pedicino (Nicolao-Antonio) [L. Hahn] (bibliographie)	0	
 orth	Pedicino (Nicolao-Antonio)		
 entry	Pédiculaires (Maladies)	0	
+orth	Pédiculaires (Maladies)		
 ref	Phthiriase		
 entry	Pédiculaire [G. Planchon]	0	
 orth	Pédiculaire		
@@ -451,6 +458,7 @@ orth	Pégase
 entry	Pegrina [G. Planchon]	0	
 orth	Pegrina		
 entry	Pehuanches (Les)	0	
+orth	Pehuanches (Les)		
 ref	Chili		
 entry	Peice [G. Planchon]	0	
 orth	Peice		
@@ -528,6 +536,7 @@ orth	Pélargyle
 entry	Pelarino (Jacob) [L. Hahn]	0	
 orth	Pelarino (Jacob)		
 entry	Pélasges	0	
+orth	Pélasges		
 ref	Grèce		
 entry	Pélegrine [G. Planchon]	0	
 orth	Pélegrine		
@@ -659,6 +668,7 @@ pb	397	0403	4575989
 entry	Pelletier (Les) [L. Hahn]	0	
 orth	Pelletier (Les)		
 entry	Pelletiérine	0	
+orth	Pelletiérine		
 entry	Pelletiérine. Chimie [C. Lutz]	1	
 orth	Pelletiérine. Chimie		
 pb	398	0404	4575990
@@ -666,6 +676,7 @@ entry	Emploi médical [Ernest Labbée]	0
 orth	Emploi médical		
 pb	399	0405	4575991
 entry	Pelletiérine	0	
+orth	Pelletiérine		
 entry	Pelletiérine. Emploi médical [Ernest Labbée]	2	
 orth	Pelletiérine. Emploi médical		
 pb	400	0406	4575992
@@ -676,6 +687,7 @@ orth	Pelletiérine. Emploi médical
 entry	Pellicer (Gaspar de) [L. Hahn]	0	
 orth	Pellicer (Gaspar de)		
 entry	Pellicule	0	
+orth	Pellicule		
 ref	Furfur		
 entry	Pellier de Quengsy (Guillaume) [L. Hahn]	0	
 orth	Pellier de Quengsy (Guillaume)		
@@ -692,6 +704,7 @@ pb	404	0410	4575996
 entry	Pélodyte [H.-E. Sauvage] (bibliographie)	0	
 orth	Pélodyte		
 entry	Pélopium	0	
+orth	Pélopium		
 ref	Niobium		
 entry	Pélops [L. Hahn]	0	
 orth	Pélops		
@@ -722,8 +735,10 @@ orth	Pelvimétrie
 pb	409	0415	4576001
 pb	410	0416	4576002
 entry	Pelvipéritonite	0	
+orth	Pelvipéritonite		
 ref	Péritonite		
 entry	Pelvitomie	0	
+orth	Pelvitomie		
 ref	Pulistomie		
 entry	Pemberton (Les deux) [L. Hahn] (bibliographie)	0	
 orth	Pemberton (Les deux)		
@@ -780,6 +795,7 @@ orth	Pemphigus
 pb	457	0463	4576049
 pb	458	0464	4576050
 entry	Pemphis	0	
+orth	Pemphis		
 ref	Salicaire		
 entry	Péna (Lazare) [A. Chéreau]	0	
 orth	Péna (Lazare)		
@@ -886,9 +902,11 @@ entry	Pénicillium [Ed. Lefèvre]	1
 orth	Pénicillium		
 pb	530	0536	4576122
 entry	Pénide	0	
+orth	Pénide		
 ref	Sucre médicamenteux		
 pb	531	0537	4576123
 entry	Pénis	0	
+orth	Pénis		
 entry	Pénis. Anatomie [Charles Monod, F. Brun]	14	
 orth	Pénis. Anatomie		
 pb	532	0538	4576124
@@ -1094,8 +1112,10 @@ orth	Penot (Bernard-Georges)
 entry	Pensée [G. Planchon]	0	
 orth	Pensée		
 entry	Pensionnats	0	
+orth	Pensionnats		
 ref	Écoles		
 entry	Pentacarbures	0	
+orth	Pentacarbures		
 ref	Hydrocarbures		
 entry	Pentadactylon [G. Planchon]	0	
 orth	Pentadactylon		
@@ -1111,6 +1131,7 @@ entry	Pentaphyllon [G. Planchon]	0
 orth	Pentaphyllon		
 pb	704	0710	4576296
 entry	Pentastome ou Linguatule	0	
+orth	Pentastome ou Linguatule		
 entry	Pentastome ou Linguatule. Hist. natur. [L. Hahn, Éd. Lefèvre]	4	
 orth	Pentastome ou Linguatule. Hist. natur.		
 pb	705	0711	4576297
@@ -1125,6 +1146,7 @@ pb	711	0717	4576303
 entry	Pentastome ou Linguatule. Pathologie [L. Hahn, Éd. Lefèvre] (bibliographie)	0	
 orth	Pentastome ou Linguatule. Pathologie		
 entry	Pentasulfures ou Quintisulfures	0	
+orth	Pentasulfures ou Quintisulfures		
 ref	Sulfures métalliques		
 entry	Pentathionates [C. Lutz]	0	
 orth	Pentathionates		
@@ -1143,10 +1165,12 @@ orth	Pentzlin (Friedrich)
 entry	Penwar-Pait [Amédée Dechambre]	0	
 orth	Penwar-Pait		
 entry	Péonine	0	
+orth	Péonine		
 ref	Coralline (Chimie)		
 entry	Péonion [Amédée Dechambre]	0	
 orth	Péonion		
 entry	Pepagomenus	0	
+orth	Pepagomenus		
 ref	Demetrius		
 entry	Pépastiques [Amédée Dechambre]	0	
 orth	Pépastiques		
@@ -1205,6 +1229,7 @@ orth	Percaline
 entry	Perce-Bosse [G. Planchon]	0	
 orth	Perce-Bosse		
 entry	Perce-Crâne	0	
+orth	Perce-Crâne		
 ref	Craniotomie		
 entry	Perce-feuille [G. Planchon]	0	
 orth	Perce-feuille		
@@ -1303,8 +1328,10 @@ entry	Pereira (Les) [L. Hahn] (bibliographie)	1
 orth	Pereira (Les)		
 pb	767	0773	4576359
 entry	Pereira (Pao-)	0	
+orth	Pereira (Pao-)		
 ref	Geissospermum		
 entry	Pereirine	0	
+orth	Pereirine		
 ref	Geissospermum		
 entry	Perelle [G. Planchon]	0	
 orth	Perelle		
@@ -1352,10 +1379,12 @@ orth	Pergalia
 entry	Pergularia [G. Planchon] (bibliographie)	0	
 orth	Pergularia		
 entry	Périartérite	0	
+orth	Périartérite		
 ref	Artères		
 entry	Pérical [L. Hahn]	0	
 orth	Pérical		
 entry	Addenda	0	
+orth	Addenda		
 entry	Pekea [H. Baillon]	0	
 orth	Pekea		
 entry	Addenda. Pellagre [Jules Arnould]	2	
@@ -1366,7 +1395,9 @@ pb	781	0787	4576373
 entry	Pellagre [Jules Arnould]	0	
 orth	Pellagre		
 entry	Addenda	0	
+orth	Addenda		
 pb	[s. pag.]	0788	4576374
 pb	783	0789	4576375
 entry	Articles contenus dans le vingt-deuxième volume (2e série)	1	
+orth	Articles contenus dans le vingt-deuxième volume (2e série)		
 pb	784	0790	4576376

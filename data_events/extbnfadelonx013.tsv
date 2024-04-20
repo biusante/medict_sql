@@ -13,6 +13,7 @@ pb	2	0006	4813993
 pb	3	0007	4813994
 pb	4	0008	4813995
 entry	Lancinant	0	
+orth	Lancinant		
 entry	Langage [Adelon]	7	
 orth	Langage		
 pb	5	0009	4813996
@@ -41,21 +42,28 @@ pb	25	0029	4814016
 pb	26	0030	4814017
 pb	27	0031	4814018
 entry	Langueur	0	
+orth	Langueur		
 entry	Laniaire	0	
+orth	Laniaire		
 entry	Laque ou Lacque [A. Richard]	0	
 orth	Laque		
 orth	Lacque		
 entry	Lardacé	0	
+orth	Lardacé		
 entry	Large	1	
+orth	Large		
 pb	28	0032	4814019
 entry	Larmes [Adelon]	0	
 orth	Larmes		
 entry	Larmoiement	0	
+orth	Larmoiement		
 entry	Larvé	0	
+orth	Larvé		
 entry	Laryngé [Marjolin]	1	
 orth	Laryngé		
 pb	29	0033	4814020
 entry	Laryngotomie	0	
+orth	Laryngotomie		
 entry	Larynx [Marjolin]	10	
 orth	Larynx		
 pb	30	0034	4814021
@@ -69,6 +77,7 @@ pb	37	0041	4814028
 pb	38	0042	4814029
 pb	39	0043	4814030
 entry	Latent	0	
+orth	Latent		
 entry	Latrines [Marc]	4	
 orth	Latrines		
 pb	40	0044	4814031
@@ -98,9 +107,13 @@ orth	Lavande
 pb	52	0056	4814043
 pb	53	0057	4814044
 entry	Lavement	0	
+orth	Lavement		
 entry	Laxatif	0	
+orth	Laxatif		
 entry	Légal	0	
+orth	Légal		
 entry	Légitime	1	
+orth	Légitime		
 pb	54	0058	4814045
 entry	Légumineuses [A. Richard]	3	
 orth	Légumineuses		
@@ -108,8 +121,11 @@ pb	55	0059	4814046
 pb	56	0060	4814047
 pb	57	0061	4814048
 entry	Lénitif	0	
+orth	Lénitif		
 entry	Lent	0	
+orth	Lent		
 entry	Lenticulaire	1	
+orth	Lenticulaire		
 pb	58	0062	4814049
 entry	Lentille [A. Richard]	0	
 orth	Lentille		
@@ -169,6 +185,7 @@ pb	97	0101	4814088
 entry	Léthargie [Raige Delorme]	0	
 orth	Léthargie		
 entry	Léthargique	0	
+orth	Léthargique		
 entry	Leucé [P. Rayer]	1	
 orth	Leucé		
 pb	98	0102	4814089
@@ -178,8 +195,10 @@ pb	99	0103	4814090
 entry	Léucoma [Jules Cloquet]	0	
 orth	Léucoma		
 entry	Leucophlegmatie	1	
+orth	Leucophlegmatie		
 pb	100	0104	4814091
 entry	Leucorrhée [L	17	
+orth	Leucorrhée [L		
 ref	Lagneau]		
 pb	101	0105	4814092
 pb	102	0106	4814093
@@ -250,6 +269,7 @@ entry	Liège [A. Richard]	1
 orth	Liège		
 pb	152	0156	4814143
 entry	Lienterie	0	
+orth	Lienterie		
 entry	Lierre [A. Richard]	2	
 orth	Lierre		
 pb	153	0157	4814144
@@ -279,12 +299,15 @@ pb	170	0174	4814161
 entry	Ligne [Marjolin]	0	
 orth	Ligne		
 entry	Ligneux	1	
+orth	Ligneux		
 pb	171	0175	4814162
 entry	Liliacées [A. Richard]	1	
 orth	Liliacées		
 pb	172	0176	4814163
 entry	Lilium de paracelse	0	
+orth	Lilium de paracelse		
 entry	Limacien	0	
+orth	Limacien		
 entry	Limaçon [Marjolin]	0	
 orth	Limaçon		
 entry	Limaçon [Hippol. Cloquet]	2	
@@ -297,6 +320,7 @@ entry	Limon et Limonier [A. Richard]	0
 orth	Limon		
 orth	Limonier		
 entry	Limonade	2	
+orth	Limonade		
 pb	175	0179	4814166
 pb	176	0180	4814167
 entry	Lin [A. Richard]	1	
@@ -315,9 +339,13 @@ orth	Liniment
 pb	180	0184	4814171
 pb	181	0185	4814172
 entry	Liparocèle	0	
+orth	Liparocèle		
 entry	Lipome	0	
+orth	Lipome		
 entry	Lipothymie	0	
+orth	Lipothymie		
 entry	Lippitude	0	
+orth	Lippitude		
 entry	Liqueur fumante de boyle [Orfila]	1	
 orth	Liqueur fumante de boyle		
 pb	182	0186	4814173
@@ -330,15 +358,22 @@ pb	184	0188	4814175
 entry	Liseron [A. Richard]	0	
 orth	Liseron		
 entry	Lithagogue	1	
+orth	Lithagogue		
 pb	185	0189	4814176
 entry	Litharge [Orfila]	0	
 orth	Litharge		
 entry	Lithiate	0	
+orth	Lithiate		
 entry	Lithine	0	
+orth	Lithine		
 entry	Lithique (acide)	0	
+orth	Lithique (acide)		
 entry	Lithium	0	
+orth	Lithium		
 entry	Litholabe	0	
+orth	Litholabe		
 entry	Lithontriptique	0	
+orth	Lithontriptique		
 entry	Lithotome [Murat]	7	
 orth	Lithotome		
 pb	186	0190	4814177
@@ -407,11 +442,14 @@ entry	Livèche [A. Richard]	1
 orth	Livèche		
 pb	246	0250	4814237
 entry	Lobe	0	
+orth	Lobe		
 entry	Lobélie [A. Richard]	1	
 orth	Lobélie		
 pb	247	0251	4814238
 entry	Lobule	0	
+orth	Lobule		
 entry	Local	1	
+orth	Local		
 pb	248	0252	4814239
 entry	Lochies [Desormeaux]	5	
 orth	Lochies		
@@ -443,6 +481,7 @@ pb	269	0273	4814260
 pb	270	0274	4814261
 pb	271	0275	4814262
 entry	Lombaires	3	
+orth	Lombaires		
 pb	272	0276	4814263
 pb	273	0277	4814264
 pb	274	0278	4814265
@@ -477,16 +516,20 @@ pb	289	0293	4814280
 pb	290	0294	4814281
 pb	291	0295	4814282
 entry	Looch	3	
+orth	Looch		
 pb	292	0296	4814283
 pb	293	0297	4814284
 pb	294	0298	4814285
 entry	Loquacité	0	
+orth	Loquacité		
 entry	Lotion [Guersent]	2	
 orth	Lotion		
 pb	295	0299	4814286
 pb	296	0300	4814287
 entry	Louche	0	
+orth	Louche		
 entry	Loup	0	
+orth	Loup		
 entry	Loupe [Marjolin]	5	
 orth	Loupe		
 pb	297	0301	4814288
@@ -497,6 +540,7 @@ pb	301	0305	4814292
 entry	Luette [Marjolin]	0	
 orth	Luette		
 entry	Lumbago	0	
+orth	Lumbago		
 entry	Lumière [L. Rostan]	24	
 orth	Lumière		
 pb	302	0306	4814293
@@ -524,7 +568,9 @@ pb	323	0327	4814314
 pb	324	0328	4814315
 pb	325	0329	4814316
 entry	Lunatique	0	
+orth	Lunatique		
 entry	Lunette	1	
+orth	Lunette		
 pb	326	0330	4814317
 entry	Lupin [A. Richard]	1	
 orth	Lupin		
@@ -593,6 +639,7 @@ pb	384	0388	4814375
 pb	385	0389	4814376
 pb	386	0390	4814377
 entry	Lycanthropie	0	
+orth	Lycanthropie		
 entry	Lycopode [A. Richard]	0	
 orth	Lycopode		
 pb	387	0391	4814378
@@ -633,21 +680,30 @@ entry	Lymphe [Adelon]	1
 orth	Lymphe		
 pb	415	0419	4814406
 entry	Lypémanie	0	
+orth	Lypémanie		
 entry	Lyre	0	
+orth	Lyre		
 entry	Lysses	0	
+orth	Lysses		
 pb	416	0420	4814407
 entry	Mâchoire	0	
+orth	Mâchoire		
 entry	Macis [A. Richard]	0	
 orth	Macis		
 entry	Macrobiotique	0	
+orth	Macrobiotique		
 entry	Macrocéphale	0	
+orth	Macrocéphale		
 entry	Macrophysocéphale	0	
+orth	Macrophysocéphale		
 entry	Madarose, Madarosis [Jules Cloquet]	1	
 orth	Madarose		
 orth	Madarosis		
 pb	417	0421	4814408
 entry	Magistral	0	
+orth	Magistral		
 entry	Magnésie	3	
+orth	Magnésie		
 pb	418	0422	4814409
 pb	419	0423	4814410
 pb	420	0424	4814411
@@ -655,7 +711,9 @@ entry	Magnésium [Orfila]	0
 orth	Magnésium		
 pb	421	0425	4814412
 entry	Magnétique	0	
+orth	Magnétique		
 entry	Magnétisme	0	
+orth	Magnétisme		
 entry	Magnétisme animal [L. Rostan]	48	
 orth	Magnétisme animal		
 pb	422	0426	4814413
@@ -710,10 +768,12 @@ entry	Magnoliacées [A. Richard]	1
 orth	Magnoliacées		
 pb	470	0474	4814461
 entry	Maigreur	0	
+orth	Maigreur		
 entry	Maillet [Murat]	1	
 orth	Maillet		
 pb	471	0475	4814462
 entry	Maillot	0	
+orth	Maillot		
 entry	Main [Adelon]	24	
 orth	Main		
 pb	472	0476	4814463
@@ -746,6 +806,7 @@ pb	496	0500	4814487
 pb	497	0501	4814488
 pb	498	0502	4814489
 entry	Mal	0	
+orth	Mal		
 entry	Malacia, Malacie	0	
 orth	Malacia		
 orth	Malacie		
@@ -763,16 +824,21 @@ orth	Malaire
 pb	506	0510	4814497
 pb	507	0511	4814498
 entry	Malaise	0	
+orth	Malaise		
 entry	Malates [J. Pelletier]	0	
 orth	Malates		
 entry	Maligne (fièvre)	0	
+orth	Maligne (fièvre)		
 entry	Malignité	0	
+orth	Malignité		
 entry	Malique (acide) [J. Pelletier]	1	
 orth	Malique (acide)		
 pb	508	0512	4814499
 entry	Malléolaire	0	
+orth	Malléolaire		
 pb	509	0513	4814500
 entry	Malleole	0	
+orth	Malleole		
 entry	Malvacées [A. Richard]	1	
 orth	Malvacées		
 pb	510	0514	4814501
@@ -783,6 +849,7 @@ pb	512	0516	4814503
 pb	513	0517	4814504
 pb	514	0518	4814505
 entry	Mamelon	0	
+orth	Mamelon		
 entry	Mamelonné, ée [Marjolin]	0	
 orth	Mamelonné		
 entry	Mamillaire [Marjolin]	1	
@@ -799,6 +866,7 @@ orth	Manganèse
 pb	518	0522	4814509
 pb	519	0523	4814510
 entry	Manie	0	
+orth	Manie		
 entry	Manioc [A. Richard]	0	
 orth	Manioc		
 entry	Manne [A. Richard]	3	
@@ -807,10 +875,12 @@ pb	520	0524	4814511
 pb	521	0525	4814512
 pb	522	0526	4814513
 entry	Mannequin	0	
+orth	Mannequin		
 entry	Mannite [J. Pelletier]	1	
 orth	Mannite		
 pb	523	0527	4814514
 entry	Manoeuvre	0	
+orth	Manoeuvre		
 entry	Manufacture [Raige Delorme]	3	
 orth	Manufacture		
 pb	524	0528	4814515
@@ -832,6 +902,7 @@ pb	535	0539	4814526
 pb	536	0540	4814527
 pb	537	0541	4814528
 entry	Marasme	0	
+orth	Marasme		
 entry	Marche [Adelon]	0	
 orth	Marche		
 entry	Marche des maladies [Chomel]	5	
@@ -843,6 +914,7 @@ pb	541	0545	4814532
 pb	542	0546	4814533
 pb	543	0547	4814534
 entry	Margarine	0	
+orth	Margarine		
 entry	Margarique (acide) [Orfila]	0	
 orth	Margarique (acide)		
 pb	544	0548	4814535
@@ -875,7 +947,9 @@ pb	566	0570	4814557
 pb	567	0571	4814558
 pb	568	0572	4814559
 entry	Marisque	0	
+orth	Marisque		
 entry	Marmelade	1	
+orth	Marmelade		
 pb	569	0573	4814560
 entry	Marronier-d'Inde [A. Richard]	1	
 orth	Marronier-d'Inde		
@@ -884,12 +958,17 @@ entry	Marrube [A. Richard]	1
 orth	Marrube		
 pb	571	0575	4814562
 entry	Mars	0	
+orth	Mars		
 entry	Marteau	0	
+orth	Marteau		
 entry	Martial	0	
+orth	Martial		
 entry	Marum [A. Richard]	1	
 orth	Marum		
 pb	572	0576	4814563
 pb	573	0577	4814564
 entry	Table des principaux articles contenus dans le treizième volume	0	
+orth	Table des principaux articles contenus dans le treizième volume		
 pb	574	0578	4814565
 entry	Distribution des matières	0	
+orth	Distribution des matières		

@@ -6,14 +6,18 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	5556724
 pb	[s. pag.]	0005	420503
 entry	Publicité : Bibliothèque latine	0	
+orth	Publicité : Bibliothèque latine		
 pb	[s. pag.]	0006	420504
 pb	[s. pag.]	0007	420505
 entry	Publicité : Correspondance inédite de Bonaparte	0	
+orth	Publicité : Correspondance inédite de Bonaparte		
 pb	[s. pag.]	0008	420506
 pb	1	0009	420507
 entry	médian	1	
+orth	médian		
 pb	2	0010	420508
 entry	médiastin	9	
+orth	médiastin		
 pb	3	0011	420509
 pb	4	0012	420510
 pb	5	0013	420511
@@ -24,7 +28,9 @@ pb	9	0017	420515
 pb	10	0018	420516
 pb	11	0019	420517
 entry	médical	0	
+orth	médical		
 entry	médicale (instruction)	100	
+orth	médicale (instruction)		
 pb	12	0020	420518
 pb	13	0021	420519
 pb	14	0022	420520
@@ -126,6 +132,7 @@ pb	109	0117	420615
 pb	110	0118	420616
 pb	111	0119	420617
 entry	médicament	12	
+orth	médicament		
 pb	112	0120	420618
 pb	113	0121	420619
 pb	114	0122	420620
@@ -139,26 +146,36 @@ pb	121	0129	420627
 pb	122	0130	420628
 pb	123	0131	420629
 entry	médicamentaire	1	
+orth	médicamentaire		
 pb	124	0132	420630
 entry	médicamenteux	0	
+orth	médicamenteux		
 entry	médicastre	0	
+orth	médicastre		
 entry	médication	2	
+orth	médication		
 pb	125	0133	420631
 pb	126	0134	420632
 entry	médicinal	0	
+orth	médicinal		
 entry	médicinier	4	
+orth	médicinier		
 pb	127	0135	420633
 pb	128	0136	420634
 pb	129	0137	420635
 pb	130	0138	420636
 entry	méditrine	0	
+orth	méditrine		
 entry	médius	0	
+orth	médius		
 entry	médullaire	4	
+orth	médullaire		
 pb	131	0139	420637
 pb	132	0140	420638
 pb	133	0141	420639
 pb	134	0142	420640
 entry	mégalanthropogénésie	10	
+orth	mégalanthropogénésie		
 pb	135	0143	420641
 pb	136	0144	420642
 pb	137	0145	420643
@@ -170,17 +187,26 @@ pb	142	0150	420648
 pb	143	0151	420649
 pb	144	0152	420650
 entry	mégalocèle	0	
+orth	mégalocèle		
 pb	145	0153	420651
 entry	mégalophonie	0	
+orth	mégalophonie		
 entry	mégalosplanchnie	0	
+orth	mégalosplanchnie		
 entry	mégalosplénie	0	
+orth	mégalosplénie		
 entry	mégasclépiades	0	
+orth	mégasclépiades		
 entry	melambo	1	
+orth	melambo		
 pb	146	0154	420652
 entry	mélanagogue	1	
+orth	mélanagogue		
 pb	147	0155	420653
 entry	mélanchlorose	0	
+orth	mélanchlorose		
 entry	mélancolie	36	
+orth	mélancolie		
 pb	148	0156	420654
 pb	149	0157	420655
 pb	150	0158	420656
@@ -218,47 +244,64 @@ pb	181	0189	420687
 pb	182	0190	420688
 pb	183	0191	420689
 entry	mélancolique	0	
+orth	mélancolique		
 entry	mélanose	5	
+orth	mélanose		
 pb	184	0192	420690
 pb	185	0193	420691
 pb	186	0194	420692
 pb	187	0195	420693
 pb	188	0196	420694
 entry	mélantère	0	
+orth	mélantère		
 entry	mélas	0	
+orth	mélas		
 entry	mélasme	1	
+orth	mélasme		
 pb	189	0197	420695
 entry	méléna	2	
+orth	méléna		
 pb	190	0198	420696
 pb	191	0199	420697
 pb	192	0200	420698
 entry	mélèze	3	
+orth	mélèze		
 pb	193	0201	420699
 pb	194	0202	420700
 pb	195	0203	420701
 entry	méliacées	1	
+orth	méliacées		
 pb	196	0204	420702
 entry	mélicéris	0	
+orth	mélicéris		
 entry	mélilot	2	
+orth	mélilot		
 pb	197	0205	420703
 pb	198	0206	420704
 entry	mélisse	4	
+orth	mélisse		
 pb	199	0207	420705
 pb	200	0208	420706
 pb	201	0209	420707
 pb	202	0210	420708
 entry	mellitates	0	
+orth	mellitates		
 entry	mellitique (acide)	1	
+orth	mellitique (acide)		
 pb	203	0211	420709
 entry	meloe	1	
+orth	meloe		
 pb	204	0212	420710
 entry	melon	2	
+orth	melon		
 pb	205	0213	420711
 pb	206	0214	420712
 pb	207	0215	420713
 entry	mélongène	1	
+orth	mélongène		
 pb	208	0216	420714
 entry	membrane	63	
+orth	membrane		
 pb	209	0217	420715
 pb	210	0218	420716
 pb	211	0219	420717
@@ -323,8 +366,11 @@ pb	269	0277	420775
 pb	270	0278	420776
 pb	271	0279	420777
 entry	membraneux	0	
+orth	membraneux		
 entry	membraniforme	0	
+orth	membraniforme		
 entry	membre	7	
+orth	membre		
 pb	272	0280	420778
 pb	273	0281	420779
 pb	274	0282	420780
@@ -333,6 +379,7 @@ pb	276	0284	420782
 pb	277	0285	420783
 pb	278	0286	420784
 entry	mémoire	52	
+orth	mémoire		
 pb	279	0287	420785
 pb	280	0288	420786
 pb	281	0289	420787
@@ -386,7 +433,9 @@ pb	328	0336	420834
 pb	329	0337	420835
 pb	330	0338	420836
 entry	ménagogue	0	
+orth	ménagogue		
 entry	mendicité	32	
+orth	mendicité		
 pb	331	0339	420837
 pb	332	0340	420838
 pb	333	0341	420839
@@ -420,29 +469,40 @@ pb	360	0368	420866
 pb	361	0369	420867
 pb	362	0370	420868
 entry	ménespausie	0	
+orth	ménespausie		
 entry	ménianthe	3	
+orth	ménianthe		
 pb	363	0371	420869
 pb	364	0372	420870
 pb	365	0373	420871
 entry	méningée	0	
+orth	méningée		
 entry	méninge	0	
+orth	méninge		
 pb	366	0374	420872
 entry	méningés (vaisseaux)	0	
+orth	méningés (vaisseaux)		
 entry	méningo-gastrique	3	
+orth	méningo-gastrique		
 pb	367	0375	420873
 pb	368	0376	420874
 pb	369	0377	420875
 entry	méningo-phylax	0	
+orth	méningo-phylax		
 entry	ménispermées	5	
+orth	ménispermées		
 pb	370	0378	420876
 pb	371	0379	420877
 pb	372	0380	420878
 pb	373	0381	420879
 pb	374	0382	420880
 entry	ménorrhagie	0	
+orth	ménorrhagie		
 entry	ménostasie	0	
+orth	ménostasie		
 pb	375	0383	420881
 entry	menstruation	21	
+orth	menstruation		
 pb	376	0384	420882
 pb	377	0385	420883
 pb	378	0386	420884
@@ -465,13 +525,19 @@ pb	394	0402	420900
 pb	395	0403	420901
 pb	396	0404	420902
 entry	menstrue (chimie)	0	
+orth	menstrue (chimie)		
 entry	menstruel	0	
+orth	menstruel		
 entry	menstrues	0	
+orth	menstrues		
 entry	mentagre	2	
+orth	mentagre		
 pb	397	0405	420903
 pb	398	0406	420904
 entry	mental	0	
+orth	mental		
 entry	menthe	10	
+orth	menthe		
 pb	399	0407	420905
 pb	400	0408	420906
 pb	401	0409	420907
@@ -483,17 +549,26 @@ pb	406	0414	420912
 pb	407	0415	420913
 pb	408	0416	420914
 entry	mentisme	0	
+orth	mentisme		
 entry	mento-labial	0	
+orth	mento-labial		
 entry	menton	2	
+orth	menton		
 pb	409	0417	420915
 pb	410	0418	420916
 entry	mentonnier	1	
+orth	mentonnier		
 pb	411	0419	420917
 entry	mentonnière (bandage)	0	
+orth	mentonnière (bandage)		
 entry	mentulagre	0	
+orth	mentulagre		
 entry	méphite	0	
+orth	méphite		
 entry	méphitique	0	
+orth	méphitique		
 entry	méphitisme (hygiène publique)	42	
+orth	méphitisme (hygiène publique)		
 pb	412	0420	420918
 pb	413	0421	420919
 pb	414	0422	420920
@@ -537,6 +612,7 @@ pb	451	0459	420957
 pb	452	0460	420958
 pb	453	0461	420959
 entry	mercure	36	
+orth	mercure		
 pb	454	0462	420960
 pb	455	0463	420961
 pb	456	0464	420962
@@ -574,22 +650,30 @@ pb	487	0495	420993
 pb	488	0496	420994
 pb	489	0497	420995
 entry	mercuriale	3	
+orth	mercuriale		
 pb	490	0498	420996
 pb	491	0499	420997
 pb	492	0500	420998
 entry	mercuriaux	0	
+orth	mercuriaux		
 entry	mercuriel	0	
+orth	mercuriel		
 entry	méridienne	2	
+orth	méridienne		
 pb	493	0501	420999
 pb	494	0502	421000
 entry	mérindol (eaux minérales de)	0	
+orth	mérindol (eaux minérales de)		
 entry	merlange (eaux minérales de)	1	
+orth	merlange (eaux minérales de)		
 pb	495	0503	421001
 entry	merisier	3	
+orth	merisier		
 pb	496	0504	421002
 pb	497	0505	421003
 pb	498	0506	421004
 entry	merocèle	28	
+orth	merocèle		
 pb	499	0507	421005
 pb	500	0508	421006
 pb	501	0509	421007
@@ -619,6 +703,7 @@ pb	524	0532	421030
 pb	525	0533	421031
 pb	526	0534	421032
 entry	mérycisme	14	
+orth	mérycisme		
 pb	527	0535	421033
 pb	528	0536	421034
 pb	529	0537	421035
@@ -634,9 +719,13 @@ pb	538	0546	421044
 pb	539	0547	421045
 pb	540	0548	421046
 entry	mérycologie	0	
+orth	mérycologie		
 entry	mésaraique	0	
+orth	mésaraique		
 entry	mésentéramphraxis	0	
+orth	mésentéramphraxis		
 entry	mésentère	36	
+orth	mésentère		
 pb	541	0549	421047
 pb	542	0550	421048
 pb	543	0551	421049
@@ -674,22 +763,35 @@ pb	574	0582	421080
 pb	575	0583	421081
 pb	576	0584	421082
 entry	mésentérique	1	
+orth	mésentérique		
 pb	577	0585	421083
 entry	mésentérite	0	
+orth	mésentérite		
 entry	mesmérisme	0	
+orth	mesmérisme		
 entry	mésochondriaque	0	
+orth	mésochondriaque		
 entry	mésocéphale	1	
+orth	mésocéphale		
 pb	578	0586	421084
 entry	mésocolon	1	
+orth	mésocolon		
 pb	579	0587	421085
 entry	mésocoecum	0	
+orth	mésocoecum		
 entry	mésocrane	0	
+orth	mésocrane		
 entry	mésoglosse	0	
+orth	mésoglosse		
 entry	mésolobe	4	
+orth	mésolobe		
 pb	580	0588	421086
 pb	581	0589	421087
 pb	582	0590	421088
 pb	583	0591	421089
 entry	mésomérie	0	
+orth	mésomérie		
 entry	mésorectum	0	
+orth	mésorectum		
 entry	mésothénar	0	
+orth	mésothénar		

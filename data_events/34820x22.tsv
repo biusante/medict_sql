@@ -6,6 +6,7 @@ pb	[s. pag.]	0003	473979
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	473980
 entry	Olfaction	21	
+orth	Olfaction		
 pb	2	0005	473981
 pb	3	0006	473982
 pb	4	0007	473983
@@ -28,10 +29,12 @@ pb	20	0023	473999
 pb	21	0024	474000
 pb	22	0025	474001
 entry	Ombelliferes	2	
+orth	Ombelliferes		
 pb	23	0026	474002
 pb	24	0027	474003
 pb	25	0028	474004
 entry	Ombilic	43	
+orth	Ombilic		
 pb	26	0029	474005
 pb	27	0030	474006
 pb	28	0031	474007
@@ -76,6 +79,7 @@ pb	66	0069	474045
 pb	67	0070	474046
 pb	68	0071	474047
 entry	Omoplate	8	
+orth	Omoplate		
 pb	69	0072	474048
 pb	70	0073	474049
 pb	71	0074	474050
@@ -86,10 +90,12 @@ pb	75	0078	474054
 pb	76	0079	474055
 pb	77	0080	474056
 entry	Onanisme	3	
+orth	Onanisme		
 pb	78	0081	474057
 pb	79	0082	474058
 pb	80	0083	474059
 entry	Ongles	17	
+orth	Ongles		
 pb	81	0084	474060
 pb	82	0085	474061
 pb	83	0086	474062
@@ -108,9 +114,11 @@ pb	95	0098	474074
 pb	96	0099	474075
 pb	97	0100	474076
 entry	Onguent	2	
+orth	Onguent		
 pb	98	0101	474077
 pb	99	0102	474078
 entry	Operations	8	
+orth	Operations		
 pb	100	0103	474079
 pb	101	0104	474080
 pb	102	0105	474081
@@ -120,6 +128,7 @@ pb	105	0108	474084
 pb	106	0109	474085
 pb	107	0110	474086
 entry	Ophthalmie	88	
+orth	Ophthalmie		
 pb	108	0111	474087
 pb	109	0112	474088
 pb	110	0113	474089
@@ -209,6 +218,7 @@ pb	193	0196	474172
 pb	194	0197	474173
 pb	195	0198	474174
 entry	Ophthalmologie	16	
+orth	Ophthalmologie		
 pb	196	0199	474175
 pb	197	0200	474176
 pb	198	0201	474177
@@ -226,7 +236,9 @@ pb	209	0212	474188
 pb	210	0213	474189
 pb	211	0214	474190
 entry	Opiat	0	
+orth	Opiat		
 entry	Opium	79	
+orth	Opium		
 pb	212	0215	474191
 pb	213	0216	474192
 pb	214	0217	474193
@@ -307,7 +319,9 @@ pb	288	0291	474267
 pb	289	0292	474268
 pb	290	0293	474269
 entry	Opodeldoch	0	
+orth	Opodeldoch		
 entry	Or	7	
+orth	Or		
 pb	291	0294	474270
 pb	292	0295	474271
 pb	293	0296	474272
@@ -316,8 +330,10 @@ pb	295	0298	474274
 pb	296	0299	474275
 pb	297	0300	474276
 entry	Orangers	1	
+orth	Orangers		
 pb	298	0301	474277
 entry	Orbite	26	
+orth	Orbite		
 pb	299	0302	474278
 pb	300	0303	474279
 pb	301	0304	474280
@@ -345,9 +361,12 @@ pb	322	0325	474301
 pb	323	0326	474302
 pb	324	0327	474303
 entry	Orchidées	1	
+orth	Orchidées		
 pb	325	0328	474304
 entry	Orchite	0	
+orth	Orchite		
 entry	Oreille	101	
+orth	Oreille		
 pb	326	0329	474305
 pb	327	0330	474306
 pb	328	0331	474307
@@ -450,6 +469,7 @@ pb	424	0427	474403
 pb	425	0428	474404
 pb	426	0429	474405
 entry	Oreillons	2	
+orth	Oreillons		
 pb	427	0430	474406
 pb	428	0431	474407
 entry	Organisation, Organisme, Organises	24	
@@ -481,15 +501,19 @@ pb	450	0453	474429
 pb	451	0454	474430
 pb	452	0455	474431
 entry	Orge	1	
+orth	Orge		
 pb	453	0456	474432
 entry	Orgeat	0	
+orth	Orgeat		
 entry	Orgeolet, Orgelet	2	
 orth	Orgeolet		
 orth	Orgelet		
 pb	454	0457	474433
 pb	455	0458	474434
 entry	Origan	0	
+orth	Origan		
 entry	Orthopedie	11	
+orth	Orthopedie		
 pb	456	0459	474435
 pb	457	0460	474436
 pb	458	0461	474437
@@ -580,14 +604,19 @@ pb	539	0542	474518
 pb	540	0543	474519
 pb	541	0544	474520
 entry	Ossification	0	
+orth	Ossification		
 entry	Osteite	0	
+orth	Osteite		
 entry	Osteomalacie	0	
+orth	Osteomalacie		
 entry	Ostéosarcome	0	
+orth	Ostéosarcome		
 entry	Otalgie, Otite, Otorrhée	0	
 orth	Otalgie		
 orth	Otite		
 orth	Otorrhée		
 entry	Ouïe	17	
+orth	Ouïe		
 pb	542	0545	474521
 pb	543	0546	474522
 pb	544	0547	474523
@@ -606,6 +635,7 @@ pb	556	0559	474535
 pb	557	0560	474536
 pb	558	0561	474537
 entry	Ovaires	43	
+orth	Ovaires		
 pb	559	0562	474538
 pb	560	0563	474539
 pb	561	0564	474540
@@ -650,6 +680,7 @@ pb	599	0602	474578
 pb	600	0603	474579
 pb	601	0604	474580
 entry	Oxalique	8	
+orth	Oxalique		
 pb	602	0605	474581
 pb	603	0606	474582
 pb	604	0607	474583
@@ -659,6 +690,7 @@ pb	607	0610	474586
 pb	608	0611	474587
 pb	609	0612	474588
 entry	Ozène	8	
+orth	Ozène		
 pb	610	0613	474589
 pb	611	0614	474590
 pb	612	0615	474591
@@ -669,6 +701,8 @@ pb	616	0619	474595
 pb	617	0620	474596
 pb	[s. pag.]	0621	474597
 entry	Table des principaux articles contenus dans ce volume	0	
+orth	Table des principaux articles contenus dans ce volume		
 pb	[s. pag.]	0622	474598
 entry	Table alphabétique des matières	0	
+orth	Table alphabétique des matières		
 pb	620	0623	474599

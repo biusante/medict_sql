@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4584612
 pb	1	0005	4584613
 entry	iliaque	0	
+orth	iliaque		
 ref	Colon		
 entry	Saade [G. Planchon] (bibliographie)	0	
 orth	Saade		
@@ -19,6 +20,7 @@ orth	Saamouna
 entry	Saavedra (Juan de) [L. Hahn]	0	
 orth	Saavedra (Juan de)		
 entry	Sabadilla	0	
+orth	Sabadilla		
 ref	Cévadille		
 entry	Sabadilline [Amédée Dechambre]	1	
 orth	Sabadilline		
@@ -31,6 +33,7 @@ pb	4	0008	4584616
 entry	Sabatier (Les deux) [A. Chéreau] (bibliographie)	0	
 orth	Sabatier (Les deux)		
 entry	Sabatrine	0	
+orth	Sabatrine		
 ref	Sabadilline		
 entry	Sabbatia [G. Planchon]	0	
 orth	Sabbatia		
@@ -40,7 +43,9 @@ orth	Sabbatia
 entry	Sabelles [Paul Gervais]	0	
 orth	Sabelles		
 entry	Sabine	0	
+orth	Sabine		
 entry	Botanique	0	
+orth	Botanique		
 ref	Genévrier		
 entry	Sabine. Emploi médical [E. Hamelin]	16	
 orth	Sabine. Emploi médical		
@@ -68,8 +73,10 @@ orth	Sablairolles (J.)
 entry	Sabler (Guillaume-Thomas) [L. Hahn]	0	
 orth	Sabler (Guillaume-Thomas)		
 entry	Sables d'Olonne (Les) (Station marine)	0	
+orth	Sables d'Olonne (Les) (Station marine)		
 ref	Les Sables d'Olonne		
 entry	Sablier élastique	0	
+orth	Sablier élastique		
 ref	Hura		
 entry	Sabucus [G. Planchon]	0	
 orth	Sabucus		
@@ -79,6 +86,7 @@ entry	Sac [Amédée Dechambre]	1
 orth	Sac		
 pb	23	0027	4584635
 entry	Sacatapèques (Les)	0	
+orth	Sacatapèques (Les)		
 ref	Centre (Amérique)		
 entry	Saccharamide [C. Lutz]	0	
 orth	Saccharamide		
@@ -86,6 +94,7 @@ entry	Saccharides [C. Lutz]	1
 orth	Saccharides		
 pb	24	0028	4584636
 entry	Saccharimètre	0	
+orth	Saccharimètre		
 ref	Polarimètre		
 entry	Saccharique (Acide) ou Oxalhydrique [C. Lutz]	1	
 orth	Saccharique (Acide) ou Oxalhydrique		
@@ -102,12 +111,15 @@ pb	30	0034	4584642
 entry	Saccharomyces [J. de Seynes] (bibliographie)	0	
 orth	Saccharomyces		
 entry	Saccharose	0	
+orth	Saccharose		
 ref	Sucre		
 entry	Saccharum	0	
+orth	Saccharum		
 entry	Saccharum. Botanique [G. Planchon] (bibliographie)	1	
 orth	Saccharum. Botanique		
 pb	31	0035	4584643
 entry	Emploi médical	0	
+orth	Emploi médical		
 ref	Canne		
 ref	Sucre		
 entry	Saccharures (Pharmacie) [C. Lutz]	0	
@@ -130,6 +142,7 @@ pb	34	0038	4584646
 entry	Sacco (Luigi) [L. Hahn] (bibliographie)	0	
 orth	Sacco (Luigi)		
 entry	Saccule	0	
+orth	Saccule		
 ref	Oreille moyenne		
 entry	Sacedon (Eaux minérales de) [A. Rotureau]	1	
 orth	Sacedon (Eaux minérales de)		
@@ -174,6 +187,7 @@ pb	44	0048	4584656
 pb	45	0049	4584657
 pb	46	0050	4584658
 entry	Sacrée (Région)	0	
+orth	Sacrée (Région)		
 ref	Sacro-coccygienne (Région)		
 pb	47	0051	4584659
 entry	Sacrées (Artères et veines) [J. Chauvel]	1	
@@ -225,6 +239,7 @@ entry	Sacro-coccygienne (Région) [J. Chauvel] (bibliographie)	1
 orth	Sacro-coccygienne (Région)		
 pb	87	0091	4584699
 entry	Sacro-épineux (Ligament)	0	
+orth	Sacro-épineux (Ligament)		
 ref	Bassin		
 entry	Sacro-iliaque (Articulation) [J. Chauvel]	9	
 orth	Sacro-iliaque (Articulation)		
@@ -244,18 +259,23 @@ entry	Sacro-lombaire (Muscle) [J. Chauvel]	1
 orth	Sacro-lombaire (Muscle)		
 pb	98	0102	4584710
 entry	Sacro-sciatiques (Ligaments)	0	
+orth	Sacro-sciatiques (Ligaments)		
 ref	Bassin		
 entry	Sacro-vertébrale (Articulation) [J. Chauvel]	2	
 orth	Sacro-vertébrale (Articulation)		
 pb	99	0103	4584711
 pb	100	0104	4584712
 entry	Sacrum	0	
+orth	Sacrum		
 entry	Anatomie	0	
+orth	Anatomie		
 ref	Bassin		
 ref	Rachis		
 entry	Pathologie	0	
+orth	Pathologie		
 ref	Sacro-coccygienne (Région)		
 entry	Safran	0	
+orth	Safran		
 entry	Safran. Botanique [G. Planchon] (bibliographie)	1	
 orth	Safran. Botanique		
 pb	101	0105	4584713
@@ -275,6 +295,7 @@ orth	Safranine
 entry	Safranum [G. Planchon]	0	
 orth	Safranum		
 entry	Sagapenum	0	
+orth	Sagapenum		
 entry	Pharmacologie [J. Regnault]	0	
 orth	Pharmacologie		
 entry	Sagapenum. Emploi médical [Amédée Dechambre]	1	
@@ -312,8 +333,10 @@ pb	130	0134	4584742
 entry	Sages-femmes [A. Lutaud] (bibliographie)	0	
 orth	Sages-femmes		
 entry	Sagesse des chirurgiens	0	
+orth	Sagesse des chirurgiens		
 ref	Sisymbrium		
 entry	Sagette	0	
+orth	Sagette		
 ref	Sagittaire		
 entry	Sagina [G. Planchon]	0	
 orth	Sagina		
@@ -323,6 +346,7 @@ pb	131	0135	4584743
 entry	Sagittaire [G. Planchon] (bibliographie)	0	
 orth	Sagittaire		
 entry	Sagittale (Suture)	0	
+orth	Sagittale (Suture)		
 ref	Crâne		
 entry	Sagittelle ou Flèche [Paul Gervais]	0	
 orth	Sagittelle ou Flèche		
@@ -340,6 +364,7 @@ orth	Sagoutier
 entry	Saguinalis herba [G. Planchon]	0	
 orth	Saguinalis herba		
 entry	Sagus	0	
+orth	Sagus		
 ref	Sagoutier		
 pb	135	0139	4584747
 entry	Sahara (Géographie médicale) [L. Laveran]	7	
@@ -424,6 +449,7 @@ orth	Saillant (Charles-Jacques)
 entry	Saïmiri [Paul Gervais]	0	
 orth	Saïmiri		
 entry	Sain-bois	0	
+orth	Sain-bois		
 ref	Daphne		
 ref	Garou		
 entry	Sainfoin [G. Planchon]	0	
@@ -432,14 +458,19 @@ pb	185	0189	4584797
 entry	Sainfoin [G. Planchon] (bibliographie)	0	
 orth	Sainfoin		
 entry	Saint-Alban (Eaux minérales de)	0	
+orth	Saint-Alban (Eaux minérales de)		
 ref	Alban (Saint-)		
 entry	Saint-Alyre (Eaux minérales de)	0	
+orth	Saint-Alyre (Eaux minérales de)		
 ref	Clermont-Ferrand		
 entry	Saint-Amand (Eaux minérales de)	0	
+orth	Saint-Amand (Eaux minérales de)		
 ref	Amand (Saint-)		
 entry	Saint-Amand (Biographie)	0	
+orth	Saint-Amand (Biographie)		
 ref	Amand (Jean de Saint-)		
 entry	Saint-Amand-Roche-Savine (Eaux minérales de)	0	
+orth	Saint-Amand-Roche-Savine (Eaux minérales de)		
 ref	Roche-Savine		
 entry	Saint-André (François de) [A. Chéreau]	0	
 orth	Saint-André (François de)		
@@ -451,55 +482,79 @@ orth	Saint-Aubin (Jean de)
 entry	Saint-Barthélemy (Eau minérale de) [A. Rotureau]	0	
 orth	Saint-Barthélemy (Eau minérale de)		
 entry	Saint-Bonnet (Eaux minérales de)	0	
+orth	Saint-Bonnet (Eaux minérales de)		
 ref	Bonnet (Saint-)		
 entry	Saint-Christau (Eaux minérales de)	0	
+orth	Saint-Christau (Eaux minérales de)		
 ref	Christau (Saint-)		
 entry	Saint-Christophe-en-Brionnais (Eaux minérales de)	0	
+orth	Saint-Christophe-en-Brionnais (Eaux minérales de)		
 ref	Christophe-en-Brionnais (Saint-)		
 pb	187	0191	4584799
 entry	Saint-Denys-lez-Blois (Eaux minérales de)	0	
+orth	Saint-Denys-lez-Blois (Eaux minérales de)		
 ref	Denys-lez-Blois (Saint-)		
 entry	Saint-Dié (Eau minérale de)	0	
+orth	Saint-Dié (Eau minérale de)		
 ref	Dié (Saint-)		
 entry	Saint-Diéry (Eaux minérales de)	0	
+orth	Saint-Diéry (Eaux minérales de)		
 ref	Diéry (Saint-)		
 entry	Saint-Dizier (Eaux minérales de)	0	
+orth	Saint-Dizier (Eaux minérales de)		
 ref	Dizier (Saint-)		
 entry	Saint-Donat (Eaux minérales de)	0	
+orth	Saint-Donat (Eaux minérales de)		
 ref	Donat (Saint-)		
 entry	Saint-Félix-des-Pallières (Eaux minérales de)	0	
+orth	Saint-Félix-des-Pallières (Eaux minérales de)		
 ref	Félix-des-Pallières (Saint-)		
 entry	Saint-Floret (Eaux minérales de)	0	
+orth	Saint-Floret (Eaux minérales de)		
 ref	Floret (Saint-)		
 entry	Saint-Galmier (Eaux minérales de)	0	
+orth	Saint-Galmier (Eaux minérales de)		
 ref	Galmier (Saint-)		
 entry	Saint-Georges (Eaux minérales de)	0	
+orth	Saint-Georges (Eaux minérales de)		
 ref	Georges (Saint-)		
 entry	Saint-Géraud (Eaux minérales de)	0	
+orth	Saint-Géraud (Eaux minérales de)		
 ref	Géraud (Saint-)		
 entry	Saint-Gervais (Eaux minérales de)	0	
+orth	Saint-Gervais (Eaux minérales de)		
 ref	Gervais (Saint-)		
 entry	Saint-Gildas (Station marine)	0	
+orth	Saint-Gildas (Station marine)		
 ref	Gildas (Saint-)		
 entry	Saint-Hilaire (Geoffroy)	0	
+orth	Saint-Hilaire (Geoffroy)		
 ref	Geoffroy-Saint-Hilaire		
 entry	Saint-Hillier (Jean-Simon de) [L. Hahn] (bibliographie)	0	
 orth	Saint-Hillier (Jean-Simon de)		
 entry	Saint-Hippolyte-d'Enval (Eaux minérales de)	0	
+orth	Saint-Hippolyte-d'Enval (Eaux minérales de)		
 ref	Hippolyte-d'Enval (Saint-)		
 entry	Saint-Honoré (Eaux minérales de)	0	
+orth	Saint-Honoré (Eaux minérales de)		
 ref	Honoré (Saint-)		
 entry	Saint-Jean-de-Luz (Station marine)	0	
+orth	Saint-Jean-de-Luz (Station marine)		
 ref	Jean-de-Luz (Saint-)		
 entry	Saint-Julien (Eaux minérales de)	0	
+orth	Saint-Julien (Eaux minérales de)		
 ref	Julien (Saint-)		
 entry	Saint-Laurent-les-Bains (Eaux minérales de)	0	
+orth	Saint-Laurent-les-Bains (Eaux minérales de)		
 ref	Laurent-les-Bains (Saint-)		
 entry	Saint-Loubouer (Eaux minérales de)	0	
+orth	Saint-Loubouer (Eaux minérales de)		
 ref	Loubouer (Saint-)		
 entry	Saint-Malo (Station marine)	0	
+orth	Saint-Malo (Station marine)		
 ref	Malo (Saint-)		
 entry	Saint-Martin-Valmeroux (Eaux minérales de)	0	
+orth	Saint-Martin-Valmeroux (Eaux minérales de)		
 ref	Martin-Valmeroux (Saint-)		
 entry	Saint-Martin (Les) [A. Chéreau]	0	
 orth	Saint-Martin (Les)		
@@ -507,52 +562,74 @@ pb	188	0192	4584800
 entry	Saint-Martin (Les) [A. Chéreau] (bibliographie)	0	
 orth	Saint-Martin (Les)		
 entry	Saint-Maurice (Eaux minérales de)	0	
+orth	Saint-Maurice (Eaux minérales de)		
 ref	Maurice (Saint-)		
 entry	Saint-Moriz (Eaux minérales de)	0	
+orth	Saint-Moriz (Eaux minérales de)		
 ref	Moriz (Saint-)		
 entry	Saint-Myon (Eaux minérales de)	0	
+orth	Saint-Myon (Eaux minérales de)		
 ref	Myon (Saint-)		
 entry	Saint-Nectaire (Eaux minérales de)	0	
+orth	Saint-Nectaire (Eaux minérales de)		
 ref	Nectaire (Saint-)		
 entry	Saint-Ours (Eaux minérales de)	0	
+orth	Saint-Ours (Eaux minérales de)		
 ref	Ours (Saint-)		
 entry	Saint-Pair (Station marine)	0	
+orth	Saint-Pair (Station marine)		
 ref	Pair (Saint-)		
 entry	Saint-Pardoux (Eaux minérales de)	0	
+orth	Saint-Pardoux (Eaux minérales de)		
 ref	Pardoux (Saint-)		
 entry	Saint-Parize (Eaux minérales de)	0	
+orth	Saint-Parize (Eaux minérales de)		
 ref	Parize (Saint-)		
 pb	189	0193	4584801
 entry	Saint-Pierre-d'Argenson (Eaux minérales de)	0	
+orth	Saint-Pierre-d'Argenson (Eaux minérales de)		
 ref	Pierre-d'Argenson (Saint-)		
 entry	Saint-Priest-la-Roche (Eaux minérales de)	0	
+orth	Saint-Priest-la-Roche (Eaux minérales de)		
 ref	Priest-la-Roche (Saint-)		
 entry	Saint-Quentin (Eaux minérales de)	0	
+orth	Saint-Quentin (Eaux minérales de)		
 ref	Quentin (Saint-)		
 entry	Saint-Remy-la-Varenne (Eaux minérales de)	0	
+orth	Saint-Remy-la-Varenne (Eaux minérales de)		
 ref	Remy-la-Varenne (Saint-)		
 entry	Saint-Romain-le-Puy (Eaux minérales de)	0	
+orth	Saint-Romain-le-Puy (Eaux minérales de)		
 ref	Romain-le-Puy (Saint-)		
 entry	Saint-Sauveur (Eaux minérales de)	0	
+orth	Saint-Sauveur (Eaux minérales de)		
 ref	Sauveur (Saint-)		
 entry	Saint-Sébastien (Station marine)	0	
+orth	Saint-Sébastien (Station marine)		
 ref	Sébastien (Saint-)		
 entry	Saint-Seine-l'Abbaye (Station hydrothérapique)	0	
+orth	Saint-Seine-l'Abbaye (Station hydrothérapique)		
 ref	Seine-l'Abbaye (Saint-)		
 entry	Saint-Simon (Eaux minérales de)	0	
+orth	Saint-Simon (Eaux minérales de)		
 ref	Aix-en-Savoie		
 ref	Aix-les-Bains		
 entry	Saint-Thomas (Eaux minérales de)	0	
+orth	Saint-Thomas (Eaux minérales de)		
 ref	Thomas (Saint-)		
 entry	Saint-Ulrich (Eau minérale de)	0	
+orth	Saint-Ulrich (Eau minérale de)		
 ref	Ulrich (Saint-)		
 entry	Saint-Ursin (Marie de) [A. Chéreau] (bibliographie)	0	
 orth	Saint-Ursin (Marie de)		
 entry	Saint-Valery-en-Caux (Station marine)	0	
+orth	Saint-Valery-en-Caux (Station marine)		
 ref	Valery-en-Caux (Saint-)		
 entry	Saint-Valery-sur-Somme (Station marine)	0	
+orth	Saint-Valery-sur-Somme (Station marine)		
 ref	Valery-sur-Somme (Saint-)		
 entry	Saint-Vallier (Eau minérale de)	0	
+orth	Saint-Vallier (Eau minérale de)		
 ref	Vallier (Saint-)		
 entry	Saint-Vertunien (François de), dit Lavau [L. Hahn]	0	
 orth	Saint-Vertunien (François de), dit Lavau		
@@ -560,8 +637,10 @@ pb	190	0194	4584802
 entry	Saint-Vertunien (François de), dit Lavau [L. Hahn] (bibliographie)	0	
 orth	Saint-Vertunien (François de), dit Lavau		
 entry	Saint-Waast	0	
+orth	Saint-Waast		
 ref	Waast		
 entry	Saint-Yorre (Eau minérale de)	0	
+orth	Saint-Yorre (Eau minérale de)		
 ref	Vichy		
 entry	Saint-Yves (Charles de) [A. Chéreau]	1	
 orth	Saint-Yves (Charles de)		
@@ -569,10 +648,13 @@ pb	191	0195	4584803
 entry	Sainte-Adresse (Station marine) [A. Rotureau]	0	
 orth	Sainte-Adresse (Station marine)		
 entry	Sainte-Lucie (Écorce de)	0	
+orth	Sainte-Lucie (Écorce de)		
 ref	Quinquina		
 entry	Sainte-Magdeleine-de-Flourens (Eau minérale de)	0	
+orth	Sainte-Magdeleine-de-Flourens (Eau minérale de)		
 ref	Magdeleine-de-Flourens (Sainte-)		
 entry	Sainte-Marie (Eaux minérales de)	0	
+orth	Sainte-Marie (Eaux minérales de)		
 ref	Marie (Sainte-)		
 entry	Sainte-Marie (Étienne) [A. Chéreau]	0	
 orth	Sainte-Marie (Étienne)		
@@ -580,6 +662,7 @@ pb	192	0196	4584804
 entry	Sainte-Marie (Étienne) [A. Chéreau] (bibliographie)	0	
 orth	Sainte-Marie (Étienne)		
 entry	Sainte-Marthe (Gaucher de)	0	
+orth	Sainte-Marthe (Gaucher de)		
 entry	Sainte-Quiterie-de-Tarascon (Eau minérale de) [A. Rotureau]	0	
 orth	Sainte-Quiterie-de-Tarascon (Eau minérale de)		
 pb	193	0197	4584805
@@ -665,12 +748,14 @@ entry	Sala (Eau minérale de) [A. Rotureau]	1
 orth	Sala (Eau minérale de)		
 pb	256	0260	4584868
 entry	Salab	0	
+orth	Salab		
 ref	Orchis		
 entry	Salac [G. Planchon] (bibliographie)	0	
 orth	Salac		
 entry	Salackal [G. Planchon]	0	
 orth	Salackal		
 entry	Salade	0	
+orth	Salade		
 entry	Botanique [G. Planchon]	0	
 orth	Botanique		
 entry	Salade. Bromatologie [P. Coulier]	1	
@@ -682,6 +767,7 @@ pb	258	0262	4584870
 entry	Salah-Bey (Eaux minérales de) [A. Rotureau]	0	
 orth	Salah-Bey (Eaux minérales de)		
 entry	Salaisons	0	
+orth	Salaisons		
 ref	Conserves alimentaires		
 entry	Salajet [Amédée Dechambre]	0	
 orth	Salajet		
@@ -703,6 +789,7 @@ orth	Salandus (Les)
 entry	Salangane [Paul Gervais]	0	
 orth	Salangane		
 entry	Salans (Marais)	0	
+orth	Salans (Marais)		
 ref	Marais		
 ref	Saline		
 ref	Saunier		
@@ -724,12 +811,15 @@ entry	Saléon (Eau minérale de) [A. Rotureau]	1
 orth	Saléon (Eau minérale de)		
 pb	266	0270	4584878
 entry	Salep	0	
+orth	Salep		
 entry	Botanique	0	
+orth	Botanique		
 ref	Orchis		
 entry	Salep. Bromatologie [P. Coulier]	1	
 orth	Salep. Bromatologie		
 pb	267	0271	4584879
 entry	Salerne (École de)	0	
+orth	Salerne (École de)		
 ref	Médecine (Histoire de la)		
 entry	Salerne (François) [L. Hahn] (bibliographie)	0	
 orth	Salerne (François)		
@@ -751,6 +841,7 @@ orth	Salicastrum
 entry	Saliceto (Guillaume de) [A. Dureau]	0	
 orth	Saliceto (Guillaume de)		
 entry	Salicine	0	
+orth	Salicine		
 entry	Salicine. Chimie [J. Regnault]	2	
 orth	Salicine. Chimie		
 pb	271	0275	4584883
@@ -780,16 +871,20 @@ orth	Salicylamide
 entry	Salicylanilide [J. Regnault]	0	
 orth	Salicylanilide		
 entry	Salicylates	0	
+orth	Salicylates		
 entry	Salicylates. Chimie [Malaguti]	1	
 orth	Salicylates. Chimie		
 pb	277	0281	4584889
 pb	278	0282	4584890
 entry	Salicylates	0	
+orth	Salicylates		
 entry	Emploi médical	0	
+orth	Emploi médical		
 ref	Salicylique		
 entry	Salicyle (Hydrure de) [J. Regnault]	0	
 orth	Salicyle (Hydrure de)		
 entry	Salicylique (Acide)	0	
+orth	Salicylique (Acide)		
 entry	Salicylique (Acide). Chimie [Malaguti]	1	
 orth	Salicylique (Acide). Chimie		
 pb	279	0283	4584891
@@ -835,6 +930,7 @@ pb	314	0318	4584926
 pb	315	0319	4584927
 pb	316	0320	4584928
 entry	Salicylique (Éther)	0	
+orth	Salicylique (Éther)		
 ref	Éthers		
 entry	Salicylonitrile [J. Regnault]	0	
 orth	Salicylonitrile		
@@ -904,6 +1000,7 @@ orth	Salirétine
 entry	Saliunca [G. Planchon]	0	
 orth	Saliunca		
 entry	Salivaire	0	
+orth	Salivaire		
 ref	Pirèthre		
 pb	344	0348	4584956
 entry	Salivaires (Glandes) et Salive [Villemin]	29	
@@ -941,12 +1038,16 @@ pb	374	0378	4584986
 entry	Salivaires (Glandes) et Salive [Villemin] (bibliographie)	0	
 orth	Salivaires (Glandes) et Salive		
 entry	Salivalis	0	
+orth	Salivalis		
 ref	Impératoire		
 entry	Salivation	0	
+orth	Salivation		
 ref	Salivaires (Glandes)		
 entry	Salive	0	
+orth	Salive		
 ref	Salivaires (Glandes)		
 entry	Salix	0	
+orth	Salix		
 ref	Saule		
 entry	Sallaba (Matthias von) [L. Hahn]	0	
 orth	Sallaba (Matthias von)		
@@ -981,6 +1082,7 @@ pb	380	0384	4584992
 entry	Salmuth (Les) [L. Hahn] (bibliographie)	0	
 orth	Salmuth (Les)		
 entry	Salomon (Iles de)	0	
+orth	Salomon (Iles de)		
 ref	Mélanésie		
 entry	Salomon. (Les) [L. Hahn]	0	
 orth	Salomon. (Les)		
@@ -988,6 +1090,7 @@ pb	381	0385	4584993
 entry	Salomon. (Les) [L. Hahn] (bibliographie)	0	
 orth	Salomon. (Les)		
 entry	Salomonis Sigillum	0	
+orth	Salomonis Sigillum		
 ref	Convallaire		
 entry	Salpêtre (Sel de pierre) [Amédée Dechambre]	0	
 orth	Salpêtre (Sel de pierre)		
@@ -1001,8 +1104,10 @@ pb	384	0388	4584996
 entry	Salsa de Praya [G. Planchon] (bibliographie)	0	
 orth	Salsa de Praya		
 entry	Salsedine	0	
+orth	Salsedine		
 ref	Pellagre		
 entry	Salsepareille	0	
+orth	Salsepareille		
 entry	Salsepareille. Botanique [G. Planchon]	5	
 orth	Salsepareille. Botanique		
 pb	385	0389	4584997
@@ -1040,19 +1145,23 @@ pb	408	0412	4585020
 pb	409	0413	4585021
 pb	410	0414	4585022
 entry	Salseparine	0	
+orth	Salseparine		
 entry	Chimie [J. Regnault]	0	
 orth	Chimie		
 entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
 entry	Salsifis	0	
+orth	Salsifis		
 entry	Salsifis. Botanique [H. Baillon]	1	
 orth	Salsifis. Botanique		
 pb	411	0415	4585023
 entry	Emploi [Amédée Dechambre]	0	
 orth	Emploi		
 entry	Salsola	0	
+orth	Salsola		
 ref	Soude		
 entry	Salsolacées	0	
+orth	Salsolacées		
 ref	Chénopodées		
 entry	Salt-en-Douzy (Eau minérale de) [A. Rotureau]	0	
 orth	Salt-en-Douzy (Eau minérale de)		
@@ -1063,16 +1172,22 @@ pb	413	0417	4585025
 entry	Salter (Les deux) [L. Hahn]	0	
 orth	Salter (Les deux)		
 entry	Saltz (Eaux minérales)	0	
+orth	Saltz (Eaux minérales)		
 ref	Salz		
 entry	Saltzbronn	0	
+orth	Saltzbronn		
 ref	Salzbronn		
 entry	Saltzbrunn	0	
+orth	Saltzbrunn		
 ref	Salzbrunn		
 entry	Saltzhausen	0	
+orth	Saltzhausen		
 ref	Salzhausen		
 entry	Saltzmann	0	
+orth	Saltzmann		
 ref	Salzmann		
 entry	Saltzungen	0	
+orth	Saltzungen		
 ref	Salzungen		
 entry	Salubrité [Amédée Dechambre]	1	
 orth	Salubrité		
@@ -1081,6 +1196,7 @@ entry	Salva y Campillo (Francisco) [L. Hahn] (bibliographie)	1
 orth	Salva y Campillo (Francisco)		
 pb	415	0419	4585027
 entry	Salvador (San)	0	
+orth	Salvador (San)		
 ref	Centre-Amérique		
 entry	Salvadora [H. Baillon]	0	
 orth	Salvadora		
@@ -1093,8 +1209,10 @@ pb	417	0421	4585029
 entry	Salvage (Jean-Galbert) [L. Hahn] (bibliographie)	0	
 orth	Salvage (Jean-Galbert)		
 entry	Salvatelle (Veine)	0	
+orth	Salvatelle (Veine)		
 ref	Main		
 entry	Salvia	0	
+orth	Salvia		
 ref	Sauge		
 entry	Salvia Vitae [G. Planchon]	0	
 orth	Salvia Vitae		
@@ -1144,20 +1262,24 @@ orth	Samandura
 entry	Samara [G. Planchon]	0	
 orth	Samara		
 entry	Sambac	0	
+orth	Sambac		
 ref	Mogori		
 entry	Sambarana [G. Planchon]	0	
 orth	Sambarana		
 entry	Sambaya [G. Planchon]	0	
 orth	Sambaya		
 entry	Sambola, Sambula	0	
+orth	Sambola, Sambula		
 ref	Sumbul		
 entry	Sambos (Les)	0	
+orth	Sambos (Les)		
 ref	Centre-Amérique		
 entry	Sambouc [G. Planchon]	0	
 orth	Sambouc		
 entry	Sambresnobar [G. Planchon]	0	
 orth	Sambresnobar		
 entry	Sambuc, Sambucus	0	
+orth	Sambuc, Sambucus		
 ref	Sureau		
 pb	427	0431	4585039
 entry	Sambucine [J. Regnault]	0	
@@ -1188,6 +1310,7 @@ pb	430	0434	4585042
 entry	Samolus [H. Baillon] (bibliographie)	0	
 orth	Samolus		
 entry	Samoyèdes	0	
+orth	Samoyèdes		
 ref	Asie		
 ref	Sibérie		
 entry	Sampacca [G. Planchon]	0	
@@ -1202,14 +1325,17 @@ orth	Samponts (Les deux)
 entry	Sampsuchon, Sampsuchus, Sampsucus [G. Planchon]	0	
 orth	Sampsuchon, Sampsuchus, Sampsucus		
 entry	Samucus (Les)	0	
+orth	Samucus (Les)		
 ref	Amérique		
 entry	Samutra Pullum [G. Planchon]	0	
 orth	Samutra Pullum		
 entry	Samyda [H. Baillon]	0	
 orth	Samyda		
 entry	San Antonio de Guagno (Eaux minérales de)	0	
+orth	San Antonio de Guagno (Eaux minérales de)		
 ref	Guagno		
 entry	San Giuliano (Eaux minérales de)	0	
+orth	San Giuliano (Eaux minérales de)		
 ref	Giuliano		
 entry	Sanamunda [G. Planchon]	0	
 orth	Sanamunda		
@@ -1229,11 +1355,13 @@ pb	434	0438	4585046
 entry	Sanctorius (Sanctorius), Santorio (Santorio) [A. Chéreau] (bibliographie)	0	
 orth	Sanctorius (Sanctorius), Santorio (Santorio)		
 entry	Sanctum Lignum	0	
+orth	Sanctum Lignum		
 ref	Gayac		
 entry	Sandabour [G. Planchon]	0	
 orth	Sandabour		
 pb	435	0439	4585047
 entry	Sandal	0	
+orth	Sandal		
 ref	Santal		
 entry	Sandaraque [A. Vidau]	0	
 orth	Sandaraque		
@@ -1277,6 +1405,7 @@ orth	Sandras (Claude-Marie-Stanislas)
 entry	Sandri (Jacques) [L. Hahn]	0	
 orth	Sandri (Jacques)		
 entry	Sandwich (Iles)	0	
+orth	Sandwich (Iles)		
 ref	Polynésie		
 entry	Sandwith (Les) [L. Hahn]	0	
 orth	Sandwith (Les)		
@@ -1284,6 +1413,7 @@ pb	443	0447	4585055
 entry	Sandwith (Les) [L. Hahn] (bibliographie)	0	
 orth	Sandwith (Les)		
 entry	Sang	0	
+orth	Sang		
 entry	Sang. Anatomie et physiologie [G. Carlet]	18	
 orth	Sang. Anatomie et physiologie		
 pb	444	0448	4585056
@@ -1526,6 +1656,7 @@ orth	Sanghia
 entry	Sangins [G. Planchon]	0	
 orth	Sangins		
 entry	Sanglier (Sus)	0	
+orth	Sanglier (Sus)		
 entry	Sanglier (Sus). Zoologie [Paul Gervais]	2	
 orth	Sanglier (Sus). Zoologie		
 pb	659	0663	4585271
@@ -1535,8 +1666,10 @@ orth	Bromatologie
 entry	Sanglot [Amédée Dechambre]	0	
 orth	Sanglot		
 entry	Sangsorbe	0	
+orth	Sangsorbe		
 ref	Sanguisorbe		
 entry	Sangsue	0	
+orth	Sangsue		
 entry	Sangsue. Zoologie [G. Carlet]	7	
 orth	Sangsue. Zoologie		
 pb	661	0665	4585273
@@ -1565,10 +1698,12 @@ entry	Sangsue. Emploi médical [Émile Bertin] (bibliographie)	1
 orth	Sangsue. Emploi médical		
 pb	681	0685	4585293
 entry	Sangsues artificielles	0	
+orth	Sangsues artificielles		
 ref	Ventouses		
 entry	Sanguenie, Sanguenita [G. Planchon]	0	
 orth	Sanguenie, Sanguenita		
 entry	Sanguinaire	0	
+orth	Sanguinaire		
 entry	Sanguinaire. Botanique [H. Baillon] (bibliographie)	1	
 orth	Sanguinaire. Botanique		
 pb	682	0686	4585294
@@ -1582,6 +1717,7 @@ entry	Sanguinarine [Malaguti]	1
 orth	Sanguinarine		
 pb	685	0689	4585297
 entry	Sanguins (Vaisseaux)	0	
+orth	Sanguins (Vaisseaux)		
 ref	Artères		
 ref	Veines		
 ref	Capillaires		
@@ -1610,12 +1746,15 @@ entry	Sanson (Les deux frères) [A. Chéreau] (bibliographie)	1
 orth	Sanson (Les deux frères)		
 pb	691	0695	4585303
 entry	Sant	0	
+orth	Sant		
 ref	Acacia		
 entry	Santa agueda (Eaux minérales de)	0	
+orth	Santa agueda (Eaux minérales de)		
 ref	Agueda		
 entry	Santa-Cruz (Les deux) [L. Hahn]	0	
 orth	Santa-Cruz (Les deux)		
 entry	Santal	0	
+orth	Santal		
 entry	Santal. Botanique [H. Baillon]	5	
 orth	Santal. Botanique		
 pb	692	0696	4585304
@@ -1642,6 +1781,7 @@ pb	702	0706	4585314
 entry	Santalacées, Santalées [H. Baillon] (bibliographie)	0	
 orth	Santalacées, Santalées		
 entry	Santaline	0	
+orth	Santaline		
 ref	Santal		
 entry	Santarelli (Michel) [L. Hahn]	0	
 orth	Santarelli (Michel)		
@@ -1667,6 +1807,7 @@ pb	705	0709	4585317
 entry	Santoline [G. Planchon] (bibliographie)	0	
 orth	Santoline		
 entry	Santonine (Acide santonique)	0	
+orth	Santonine (Acide santonique)		
 entry	Santonine. Chimie [Malaguti]	1	
 orth	Santonine. Chimie		
 pb	706	0710	4585318
@@ -1691,6 +1832,7 @@ entry	Santonicum Semen [G. Planchon]	1
 orth	Santonicum Semen		
 pb	720	0724	4585332
 entry	Santonique	0	
+orth	Santonique		
 ref	Semen-Contra		
 entry	Santorelli (Antonio) [L. Hahn] (bibliographie)	0	
 orth	Santorelli (Antonio)		
@@ -1700,28 +1842,35 @@ pb	721	0725	4585333
 entry	Santorini (Jean-Dominique) [A. Dureau] (bibliographie)	0	
 orth	Santorini (Jean-Dominique)		
 entry	Santorio	0	
+orth	Santorio		
 ref	Sanctorius		
 entry	San-Tsi [G. Planchon]	0	
 orth	San-Tsi		
 entry	Sanve	0	
+orth	Sanve		
 ref	Moutarde		
 entry	Sanz (Juan-Gil) [L. Hahn]	0	
 orth	Sanz (Juan-Gil)		
 entry	Sanzenelahé, Sanzenévaué [G. Planchon]	0	
 orth	Sanzenelahé, Sanzenévaué		
 entry	Saoria	0	
+orth	Saoria		
 ref	Soaria		
 entry	Saouari [G. Planchon]	0	
 orth	Saouari		
 entry	Sapajous [Paul Gervais]	0	
 orth	Sapajous		
 entry	Saphène interne (Nerf)	0	
+orth	Saphène interne (Nerf)		
 ref	Crural		
 entry	Saphène externe	0	
+orth	Saphène externe		
 ref	Poplité interne		
 entry	Saphène péronier	0	
+orth	Saphène péronier		
 ref	Poplité externe		
 entry	Saphènes (Veines)	0	
+orth	Saphènes (Veines)		
 entry	Saphènes (Veines). Anatomie et Physiologie [Henri Chrétien]	10	
 orth	Saphènes (Veines). Anatomie et Physiologie		
 pb	722	0726	4585334
@@ -1736,6 +1885,7 @@ pb	730	0734	4585342
 pb	731	0735	4585343
 pb	732	0736	4585344
 entry	Saphènes (Veines)	0	
+orth	Saphènes (Veines)		
 entry	Saphènes (Veines). Physiologie [Henri Chrétien]	4	
 orth	Saphènes (Veines). Physiologie		
 pb	733	0737	4585345
@@ -1750,6 +1900,7 @@ pb	739	0743	4585351
 entry	Saphènes (Veines). Pathologie [Henri Chrétien] (bibliographie)	0	
 orth	Saphènes (Veines). Pathologie		
 entry	Sapin	0	
+orth	Sapin		
 entry	Sapin. Botanique [H. Baillon]	1	
 orth	Sapin. Botanique		
 pb	740	0744	4585352
@@ -1769,18 +1920,22 @@ pb	747	0751	4585359
 entry	Sapindacées [H. Baillon] (bibliographie)	0	
 orth	Sapindacées		
 entry	Sapindus	0	
+orth	Sapindus		
 ref	Savonniers		
 entry	Sapinette (Botanique) [H. Baillon]	0	
 orth	Sapinette (Botanique)		
 entry	Sapinette (Bière)	0	
+orth	Sapinette (Bière)		
 ref	Bière		
 ref	Sapin		
 entry	Sapium [G. Planchon]	0	
 orth	Sapium		
 entry	Sapogénine	0	
+orth	Sapogénine		
 ref	Saponine		
 pb	748	0752	4585360
 entry	Saponaire	0	
+orth	Saponaire		
 entry	Botanique [G. Planchon] (bibliographie)	0	
 orth	Botanique		
 entry	Saponaire. Emploi médical [Ernest Labbée]	7	
@@ -1800,23 +1955,30 @@ orth	Saponés, Saponulés, Saponures
 pb	757	0761	4585369
 pb	758	0762	4585370
 entry	Saponification	0	
+orth	Saponification		
 ref	Savon		
 entry	Saponine	0	
+orth	Saponine		
 entry	Saponine. Chimie [Malaguti]	1	
 orth	Saponine. Chimie		
 pb	759	0763	4585371
 entry	Emploi médical	0	
+orth	Emploi médical		
 ref	Saponaire		
 entry	Saponique (Acide) (Esculique) [A. Vidau]	0	
 orth	Saponique (Acide) (Esculique)		
 entry	Saponule	0	
+orth	Saponule		
 ref	Savonule		
 entry	Saponulés	0	
+orth	Saponulés		
 ref	Saponés		
 pb	760	0764	4585372
 entry	Saponures	0	
+orth	Saponures		
 ref	Saponés		
 entry	Saporétine	0	
+orth	Saporétine		
 ref	Saponine		
 ref	Saponique (Acide)		
 entry	Saporta (Les) [A. Dureau]	0	
@@ -1840,6 +2002,7 @@ orth	Sappal
 entry	Sappan [G. Planchon]	0	
 orth	Sappan		
 entry	Saprolegnia	0	
+orth	Saprolegnia		
 ref	Saprolegniés		
 entry	Saprolegniés [J. de Seynes]	0	
 orth	Saprolegniés		
@@ -1847,6 +2010,7 @@ pb	763	0767	4585375
 entry	Saprolegniés [J. de Seynes] (bibliographie)	0	
 orth	Saprolegniés		
 entry	Saracha	0	
+orth	Saracha		
 ref	Saraquier		
 entry	Sarai-Parapeo [G. Planchon]	0	
 orth	Sarai-Parapeo		
@@ -1858,6 +2022,7 @@ pb	764	0768	4585376
 entry	Saraquier [G. Planchon] (bibliographie)	0	
 orth	Saraquier		
 entry	Saravecas (Les)	0	
+orth	Saravecas (Les)		
 ref	Amérique		
 entry	Sarazin (Jean) [A. Chéreau]	1	
 orth	Sarazin (Jean)		
@@ -1867,11 +2032,13 @@ orth	Sarcelle
 entry	Sarcey (Eau minérale de) [A. Rotureau]	0	
 orth	Sarcey (Eau minérale de)		
 entry	Sarcine	0	
+orth	Sarcine		
 entry	Sarcine. Chimie [C. Lutz]	2	
 orth	Sarcine. Chimie		
 pb	766	0770	4585378
 pb	767	0771	4585379
 entry	Sarcine	0	
+orth	Sarcine		
 entry	Sarcine. Botanique [J. de Seynes]	1	
 orth	Sarcine. Botanique		
 pb	768	0772	4585380
@@ -1881,6 +2048,7 @@ orth	Sarcine. Botanique
 entry	Sarcocarpe [G. Planchon]	0	
 orth	Sarcocarpe		
 entry	Sarcocèle	0	
+orth	Sarcocèle		
 ref	Testicule		
 entry	Sarcocolle, Sarcocolline [Amédée Dechambre]	0	
 orth	Sarcocolle, Sarcocolline		
@@ -1914,16 +2082,21 @@ pb	790	0794	4585402
 entry	Sarcode, Sarcodiques (Mouvements) [Ch. Robin] (bibliographie)	0	
 orth	Sarcode, Sarcodiques (Mouvements)		
 entry	Sarcodés	0	
+orth	Sarcodés		
 ref	Champignons		
 entry	Sarcolactique (Acide) [C. Lutz]	0	
 orth	Sarcolactique (Acide)		
 entry	Sarcolemme	0	
+orth	Sarcolemme		
 ref	Musculaire (Tissu)		
 entry	Addendum	0	
+orth	Addendum		
 entry	Samadera	0	
+orth	Samadera		
 ref	Samandura		
 pb	791	0795	4585403
 entry	Articles contenus dans le sixième volume (3e série)	4	
+orth	Articles contenus dans le sixième volume (3e série)		
 pb	792	0796	4585404
 pb	793	0797	4585405
 pb	794	0798	4585406

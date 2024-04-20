@@ -4,6 +4,7 @@ pb	2	0002	4815171
 entry	Naevus maternus [G. Breschet]	0	
 orth	Naevus maternus		
 entry	Naissance	0	
+orth	Naissance		
 pb	[s. pag.]	0003	4815172
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4815173
@@ -12,9 +13,12 @@ entry	Naevus maternus [G. Breschet]	1
 orth	Naevus maternus		
 pb	2	0006	4815175
 entry	Naissance	1	
+orth	Naissance		
 pb	3	0007	4815176
 entry	Nancéate	0	
+orth	Nancéate		
 entry	Nancéique (acide)	0	
+orth	Nancéique (acide)		
 entry	Napel [A. Richard]	0	
 orth	Napel		
 entry	Naphte [A. Richard]	1	
@@ -32,6 +36,7 @@ orth	Narcotique
 pb	8	0012	4815181
 pb	9	0013	4815182
 entry	Narcotisme	0	
+orth	Narcotisme		
 entry	Nards [A. Richard]	2	
 orth	Nards		
 pb	10	0014	4815183
@@ -47,6 +52,7 @@ entry	Naso-palatin [Marjolin]	1
 orth	Naso-palatin		
 pb	15	0019	4815188
 entry	Natation	0	
+orth	Natation		
 entry	Nates [Marjolin]	0	
 orth	Nates		
 entry	Natrum ou Natron [Orfila]	0	
@@ -59,6 +65,7 @@ pb	17	0021	4815190
 pb	18	0022	4815191
 pb	19	0023	4815192
 entry	Naturel	0	
+orth	Naturel		
 entry	Naturisme [Coutanceau]	2	
 orth	Naturisme		
 pb	20	0024	4815193
@@ -67,6 +74,7 @@ entry	Nauséabond, Nauséeux	0
 orth	Nauséabond		
 orth	Nauséeux		
 entry	Nausée	0	
+orth	Nausée		
 entry	Navet [A. Richard]	1	
 orth	Navet		
 pb	22	0026	4815195
@@ -103,8 +111,10 @@ entry	Néphélion [Jules Cloquet]	1
 orth	Néphélion		
 pb	42	0046	4815215
 entry	Néphralgie	1	
+orth	Néphralgie		
 pb	43	0047	4815216
 entry	Néphrétique	0	
+orth	Néphrétique		
 entry	Néphrite [G. Ferrus]	9	
 orth	Néphrite		
 pb	44	0048	4815217
@@ -160,6 +170,7 @@ pb	83	0087	4815256
 pb	84	0088	4815257
 pb	85	0089	4815258
 entry	Nervin	0	
+orth	Nervin		
 entry	Névralgie [C. P. Ollivier]	21	
 orth	Névralgie		
 pb	86	0090	4815259
@@ -184,6 +195,7 @@ pb	104	0108	4815277
 pb	105	0109	4815278
 pb	106	0110	4815279
 entry	Névrilème	0	
+orth	Névrilème		
 entry	Névrologie [Marjolin]	0	
 orth	Névrologie		
 entry	Névrose [Georget]	11	
@@ -200,6 +212,7 @@ pb	115	0119	4815288
 pb	116	0120	4815289
 pb	117	0121	4815290
 entry	Névrotome	0	
+orth	Névrotome		
 entry	Névrotomie [Marjolin]	1	
 orth	Névrotomie		
 pb	118	0122	4815291
@@ -211,14 +224,20 @@ entry	Nickel [Orfila]	1
 orth	Nickel		
 pb	121	0125	4815294
 entry	Nicotiane	0	
+orth	Nicotiane		
 entry	Nictation	0	
+orth	Nictation		
 entry	Nidoreux	0	
+orth	Nidoreux		
 entry	Nigelle [A. Richard]	1	
 orth	Nigelle		
 pb	122	0126	4815295
 entry	Nitrate	0	
+orth	Nitrate		
 entry	Nitre	0	
+orth	Nitre		
 entry	Nitreux (acide)	1	
+orth	Nitreux (acide)		
 pb	123	0127	4815296
 entry	Nitrique (acide) [Orfila]	1	
 orth	Nitrique (acide)		
@@ -227,6 +246,7 @@ pb	125	0129	4815298
 entry	Nitrite [Orfila]	0	
 orth	Nitrite		
 entry	Nodosité	0	
+orth	Nodosité		
 entry	Nodus [G. Ferrus]	1	
 orth	Nodus		
 pb	126	0130	4815299
@@ -246,10 +266,14 @@ orth	Noix vomique
 pb	129	0133	4815302
 pb	130	0134	4815303
 entry	Noli me tangere (ne me touche pas)	0	
+orth	Noli me tangere (ne me touche pas)		
 entry	Nombril	0	
+orth	Nombril		
 entry	Nosocomial	1	
+orth	Nosocomial		
 pb	131	0135	4815304
 entry	Nosographie	0	
+orth	Nosographie		
 entry	Nosologie [Coutanceau]	4	
 orth	Nosologie		
 pb	132	0136	4815305
@@ -259,6 +283,7 @@ pb	135	0139	4815308
 entry	Nostalgie [Georget]	0	
 orth	Nostalgie		
 entry	Noueure	0	
+orth	Noueure		
 entry	Nourricier ou Nutricier [Marjolin]	1	
 orth	Nourricier		
 orth	Nutricier		
@@ -270,6 +295,7 @@ pb	138	0142	4815311
 pb	139	0143	4815312
 pb	140	0144	4815313
 entry	Nourriture	0	
+orth	Nourriture		
 pb	141	0145	4815314
 entry	Nouveau-né [Desormeaux]	18	
 orth	Nouveau-né		
@@ -292,13 +318,17 @@ pb	157	0161	4815330
 pb	158	0162	4815331
 pb	159	0163	4815332
 entry	Noyé	0	
+orth	Noyé		
 entry	Noyer [A. Richard]	2	
 orth	Noyer		
 pb	160	0164	4815333
 pb	161	0165	4815334
 entry	Nuage	0	
+orth	Nuage		
 entry	Nuque	0	
+orth	Nuque		
 entry	Nutritif	0	
+orth	Nutritif		
 entry	Nutrition [Rullier, G. Ferrus]	13	
 orth	Nutrition		
 pb	162	0166	4815335
@@ -334,6 +364,7 @@ pb	179	0183	4815352
 pb	180	0184	4815353
 pb	181	0185	4815354
 entry	Obésité	0	
+orth	Obésité		
 entry	Oblique [Marjolin]	4	
 orth	Oblique		
 pb	182	0186	4815355
@@ -352,8 +383,10 @@ pb	192	0196	4815365
 pb	193	0197	4815366
 pb	194	0198	4815367
 entry	Oblitération	1	
+orth	Oblitération		
 pb	195	0199	4815368
 entry	Obscurcissement	0	
+orth	Obscurcissement		
 entry	Observation [Raige Delorme]	5	
 orth	Observation		
 pb	196	0200	4815369
@@ -365,7 +398,9 @@ entry	Obstruction [Raige Delorme]	1
 orth	Obstruction		
 pb	201	0205	4815374
 entry	Obtondant	0	
+orth	Obtondant		
 entry	Obturateur [L	5	
+orth	Obturateur [L		
 ref	Lagneau]		
 pb	202	0206	4815375
 pb	203	0207	4815376
@@ -378,6 +413,7 @@ pb	207	0211	4815380
 pb	208	0212	4815381
 pb	209	0213	4815382
 entry	Occasionel	0	
+orth	Occasionel		
 entry	Occipital [Marjolin]	4	
 orth	Occipital		
 pb	210	0214	4815383
@@ -385,14 +421,19 @@ pb	211	0215	4815384
 pb	212	0216	4815385
 pb	213	0217	4815386
 entry	Occipito-atloïdien	0	
+orth	Occipito-atloïdien		
 pb	214	0218	4815387
 entry	Occipito-axoïdien	0	
+orth	Occipito-axoïdien		
 entry	Occipito-frontal [Marjolin]	1	
 orth	Occipito-frontal		
 pb	215	0219	4815388
 entry	Occipito-pariétal	0	
+orth	Occipito-pariétal		
 entry	Occipito-pétreux	0	
+orth	Occipito-pétreux		
 entry	Occiput	0	
+orth	Occiput		
 entry	Ocre [Orfila]	0	
 orth	Ocre		
 entry	Oculaire [Marjolin]	0	
@@ -402,6 +443,7 @@ entry	Oculiste [Raige Delorme]	1
 orth	Oculiste		
 pb	217	0221	4815390
 entry	Oculo-musculaire	0	
+orth	Oculo-musculaire		
 entry	Odeur [L. Rostan]	5	
 orth	Odeur		
 pb	218	0222	4815391
@@ -416,14 +458,19 @@ pb	224	0228	4815397
 pb	225	0229	4815398
 pb	226	0230	4815399
 entry	Odontiase	0	
+orth	Odontiase		
 entry	Odontogénie	0	
+orth	Odontogénie		
 entry	Odontoïde	0	
+orth	Odontoïde		
 entry	Odontoïdien, nne [Marjolin]	1	
 orth	Odontoïdien		
 orth	nne		
 pb	227	0231	4815400
 entry	Odontolithe	0	
+orth	Odontolithe		
 entry	Odontotechnie	0	
+orth	Odontotechnie		
 entry	Odorat [Adelon, Raige Delorme]	12	
 orth	Odorat		
 pb	228	0232	4815401
@@ -439,7 +486,9 @@ pb	237	0241	4815410
 pb	238	0242	4815411
 pb	239	0243	4815412
 entry	Oedémateux	0	
+orth	Oedémateux		
 entry	Oedématie	0	
+orth	Oedématie		
 entry	Oedème [P. Rayer]	27	
 orth	Oedème		
 pb	240	0244	4815413
@@ -494,6 +543,7 @@ entry	Oeil artificiel [Jules Cloquet]	1
 orth	Oeil artificiel		
 pb	286	0290	4815459
 entry	Oeillères	0	
+orth	Oeillères		
 entry	Oeillet [A. Richard]	1	
 orth	Oeillet		
 pb	287	0291	4815460
@@ -501,6 +551,7 @@ entry	Oenanthe [A. Richard]	1
 orth	Oenanthe		
 pb	288	0292	4815461
 entry	Oesophage	1	
+orth	Oesophage		
 pb	289	0293	4815462
 entry	Oesophagien, enne [Marjolin]	0	
 orth	Oesophagien		
@@ -629,30 +680,38 @@ pb	405	0409	4815578
 pb	406	0410	4815579
 pb	407	0411	4815580
 entry	Oeuf de poule	2	
+orth	Oeuf de poule		
 pb	408	0412	4815581
 pb	409	0413	4815582
 entry	Officinal	0	
+orth	Officinal		
 entry	Ognon ou Oignon	2	
 orth	Ognon		
 orth	Oignon		
 pb	410	0414	4815583
 pb	411	0415	4815584
 entry	Ognon de lys	0	
+orth	Ognon de lys		
 entry	Ognon de scille [A. Richard]	0	
 orth	Ognon de scille		
 entry	Oléate	0	
+orth	Oléate		
 entry	Olécrane	0	
+orth	Olécrane		
 entry	Olécranien [Marjolin]	0	
 orth	Olécranien		
 entry	Oléine	0	
+orth	Oléine		
 entry	Oléique [Orfila]	1	
 orth	Oléique		
 pb	412	0416	4815585
 entry	Oléo-saccharum	0	
+orth	Oléo-saccharum		
 entry	Olfactif, ive [Marjolin]	1	
 orth	Olfactif		
 pb	413	0417	4815586
 entry	Olfaction	0	
+orth	Olfaction		
 entry	Oliban [A. Richard]	2	
 orth	Oliban		
 pb	414	0418	4815587
@@ -673,21 +732,27 @@ pb	418	0422	4815591
 pb	419	0423	4815592
 pb	420	0424	4815593
 entry	Ombilic	0	
+orth	Ombilic		
 entry	Ombilical [Marjolin]	1	
 orth	Ombilical		
 pb	421	0425	4815594
 entry	Omentite [Chomel]	0	
 orth	Omentite		
 entry	Omo-claviculaire	0	
+orth	Omo-claviculaire		
 entry	Omoplat-hyoïdien	1	
+orth	Omoplat-hyoïdien		
 pb	422	0426	4815595
 entry	Omoplate [Marjolin]	2	
 orth	Omoplate		
 pb	423	0427	4815596
 pb	424	0428	4815597
 entry	Omphalocèle	0	
+orth	Omphalocèle		
 entry	Omphalomancie	0	
+orth	Omphalomancie		
 entry	Omphalo-mésentériques (vaisseaux)	0	
+orth	Omphalo-mésentériques (vaisseaux)		
 entry	Omphalorrhagie [Desormeaux]	1	
 orth	Omphalorrhagie		
 pb	425	0429	4815598
@@ -700,22 +765,29 @@ pb	427	0431	4815600
 pb	428	0432	4815601
 pb	429	0433	4815602
 entry	Onction	0	
+orth	Onction		
 entry	Ondulant, Ondoyant	0	
 orth	Ondulant		
 orth	Ondoyant		
 entry	Ondulation	0	
+orth	Ondulation		
 entry	Oneirodynie	0	
+orth	Oneirodynie		
 entry	Ongle [C. P. Ollivier]	3	
 orth	Ongle		
 pb	430	0434	4815603
 pb	431	0435	4815604
 pb	432	0436	4815605
 entry	Onglet	0	
+orth	Onglet		
 entry	Onguent	2	
+orth	Onguent		
 pb	433	0437	4815606
 pb	434	0438	4815607
 entry	Ononis	0	
+orth	Ononis		
 entry	Opacité	0	
+orth	Opacité		
 entry	Opération [Murat]	15	
 orth	Opération		
 pb	435	0439	4815608
@@ -734,6 +806,7 @@ pb	447	0451	4815620
 pb	448	0452	4815621
 pb	449	0453	4815622
 entry	Ophiasis [L	0	
+orth	Ophiasis [L		
 ref	Lagneau]		
 entry	Ophiostome [Hippol. Cloquet]	0	
 orth	Ophiostome		
@@ -787,8 +860,11 @@ pb	480	0484	4815653
 entry	Ophthalmoxystre [Jules Cloquet]	0	
 orth	Ophthalmoxystre		
 entry	Opiacé	0	
+orth	Opiacé		
 entry	Opiat	0	
+orth	Opiat		
 entry	Opisthotonos	0	
+orth	Opisthotonos		
 entry	Opium [Guersent]	19	
 orth	Opium		
 pb	481	0485	4815654
@@ -813,6 +889,7 @@ pb	499	0503	4815672
 entry	Opobalsamum [A. Richard]	0	
 orth	Opobalsamum		
 entry	Opodeledoch	0	
+orth	Opodeledoch		
 entry	Opoponax et Opopanax [A. Richard]	1	
 orth	Opoponax		
 orth	Opopanax		
@@ -821,7 +898,9 @@ entry	Opposant [Marjolin]	1
 orth	Opposant		
 pb	501	0505	4815674
 entry	Oppression	0	
+orth	Oppression		
 entry	Optique	0	
+orth	Optique		
 entry	Optique [Marjolin]	1	
 orth	Optique		
 pb	502	0506	4815675
@@ -834,6 +913,7 @@ pb	506	0510	4815679
 entry	Orange [A. Richard]	0	
 orth	Orange		
 entry	Orangeade	0	
+orth	Orangeade		
 entry	Oranger [A. Richard]	2	
 orth	Oranger		
 pb	507	0511	4815680
@@ -845,6 +925,7 @@ entry	Orbiculaire [Marjolin]	1
 orth	Orbiculaire		
 pb	510	0514	4815683
 entry	Orbitaire	1	
+orth	Orbitaire		
 pb	511	0515	4815684
 entry	Orbite [Marjolin]	0	
 orth	Orbite		
@@ -854,9 +935,11 @@ entry	Orchidées [A. Richard]	1
 orth	Orchidées		
 pb	512	0516	4815685
 entry	Orchiocèle	0	
+orth	Orchiocèle		
 entry	Orchis [A. Richard]	0	
 orth	Orchis		
 entry	Ordonnance	0	
+orth	Ordonnance		
 entry	Oreille [Hippol. Cloquet]	19	
 orth	Oreille		
 pb	513	0517	4815686
@@ -879,6 +962,7 @@ pb	529	0533	4815702
 pb	530	0534	4815703
 pb	531	0535	4815704
 entry	Oreillette	0	
+orth	Oreillette		
 entry	Oreillons ou bien Ourles [Rochoux]	1	
 orth	Oreillons		
 orth	bien Ourles		
@@ -891,6 +975,7 @@ entry	Organicisme [Coutanceau]	1
 orth	Organicisme		
 pb	535	0539	4815708
 entry	Organique	0	
+orth	Organique		
 entry	Organisation [Adelon]	3	
 orth	Organisation		
 pb	536	0540	4815709
@@ -907,6 +992,7 @@ pb	544	0548	4815717
 pb	545	0549	4815718
 pb	546	0550	4815719
 entry	Organisme	6	
+orth	Organisme		
 pb	547	0551	4815720
 pb	548	0552	4815721
 pb	549	0553	4815722
@@ -914,18 +1000,22 @@ pb	550	0554	4815723
 pb	551	0555	4815724
 pb	552	0556	4815725
 entry	Orgasme	0	
+orth	Orgasme		
 entry	Orge [A. Richard]	2	
 orth	Orge		
 pb	553	0557	4815726
 pb	554	0558	4815727
 entry	Orgeat	0	
+orth	Orgeat		
 entry	Orgeolet, Orgelet [Jules Cloquet]	2	
 orth	Orgeolet		
 orth	Orgelet		
 pb	555	0559	4815728
 pb	556	0560	4815729
 entry	Oricule	0	
+orth	Oricule		
 entry	Orifice	0	
+orth	Orifice		
 entry	Origan [A. Richard]	1	
 orth	Origan		
 pb	557	0561	4815730
@@ -940,5 +1030,7 @@ entry	Orpin [A. Richard]	0
 orth	Orpin		
 pb	[s. pag.]	0563	4815732
 entry	Table des principaux articles contenus dans le quinzième volume	0	
+orth	Table des principaux articles contenus dans le quinzième volume		
 pb	[s. pag.]	0564	4815733
 entry	Distribution des matières	0	
+orth	Distribution des matières		

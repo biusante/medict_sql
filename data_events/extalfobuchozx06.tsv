@@ -16,6 +16,7 @@ orth	Dictionnaire Vétérinaire
 orth	des animaux domestiques. Ven - Vénerie		
 pb	vj	0010	7320864
 entry	Vénerie	28	
+orth	Vénerie		
 pb	vij	0011	7320865
 pb	viij	0012	7320866
 pb	ix	0013	7320867
@@ -45,6 +46,7 @@ pb	xxxij	0036	7320890
 pb	xxxiij	0037	7320891
 pb	xxxiv	0038	7320892
 entry	Vénéneux	28	
+orth	Vénéneux		
 pb	xxxv	0039	7320893
 pb	xxxvj	0040	7320894
 pb	xxxvij	0041	7320895
@@ -74,16 +76,23 @@ pb	lx	0064	7320918
 pb	lxj	0065	7320919
 pb	lxij	0066	7320920
 entry	Veneur	0	
+orth	Veneur		
 pb	lxiij	0067	7320921
 entry	Vent	0	
+orth	Vent		
 entry	Verdier	1	
+orth	Verdier		
 pb	lxiv	0068	7320922
 entry	Vermiller	0	
+orth	Vermiller		
 entry	Vermillonner	0	
+orth	Vermillonner		
 entry	Verminiere	2	
+orth	Verminiere		
 pb	lxv	0069	7320923
 pb	lxvj	0070	7320924
 entry	Ver	8	
+orth	Ver		
 pb	lxvij	0071	7320925
 pb	lxviij	0072	7320926
 pb	lxix	0073	7320927
@@ -93,6 +102,7 @@ pb	lxxii	0076	7320930
 pb	lxxiii	0077	7320931
 pb	lxxiv	0078	7320932
 entry	Ver-à-soie	44	
+orth	Ver-à-soie		
 pb	lxxv	0079	7320933
 pb	lxxvj	0080	7320934
 pb	lxxvij	0081	7320935
@@ -138,10 +148,13 @@ pb	cxvj	0120	7320974
 pb	cxvij	0121	7320975
 pb	cxviij	0122	7320976
 entry	Verveux	0	
+orth	Verveux		
 entry	Vespertilion	2	
+orth	Vespertilion		
 pb	cxix	0123	7320977
 pb	cxx	0124	7320978
 entry	Vétérinaire	45	
+orth	Vétérinaire		
 pb	cxxj	0125	7320979
 pb	cxxij	0126	7320980
 pb	cxxiij	0127	7320981
@@ -188,6 +201,7 @@ pb	clxiij	0167	7321021
 pb	clxiv	0168	7321022
 pb	clxv	0169	7321023
 entry	Vipère	6	
+orth	Vipère		
 pb	clxvj	0170	7321024
 pb	clxvij	0171	7321025
 pb	clxviij	0172	7321026
@@ -195,4 +209,6 @@ pb	clxix	0173	7321027
 pb	clxx	0174	7321028
 pb	clxxj	0175	7321029
 entry	Vivier	0	
+orth	Vivier		
 entry	Volaille	0	
+orth	Volaille		

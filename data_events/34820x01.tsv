@@ -6,6 +6,7 @@ pb	[s. pag.]	0003	459466
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	459467
 entry	Prospectus	0	
+orth	Prospectus		
 pb	ij	0005	459468
 pb	iij	0006	459469
 pb	iv	0007	459470
@@ -14,6 +15,7 @@ pb	vj	0009	459472
 pb	vij	0010	459473
 pb	[s. pag.]	0011	459474
 entry	Distribution des matières	0	
+orth	Distribution des matières		
 pb	[s. pag.]	0012	459475
 entry	[Préface]	0	
 pb	x	0013	459476
@@ -33,16 +35,22 @@ pb	xxiij	0026	459489
 pb	xxiv	0027	459490
 pb	[s. pag.]	0028	459491
 entry	Lettre A	0	
+orth	Lettre A		
 entry	Abano	2	
+orth	Abano		
 pb	2	0029	459492
 pb	3	0030	459493
 entry	Abattoir	2	
+orth	Abattoir		
 pb	4	0031	459494
 pb	5	0032	459495
 entry	Abbécourt	0	
+orth	Abbécourt		
 pb	6	0033	459496
 entry	Abbeville	0	
+orth	Abbeville		
 entry	Abcès	80	
+orth	Abcès		
 pb	7	0034	459497
 pb	8	0035	459498
 pb	9	0036	459499
@@ -124,6 +132,7 @@ pb	84	0111	459574
 pb	85	0112	459575
 pb	86	0113	459576
 entry	Abcès métastatiques	16	
+orth	Abcès métastatiques		
 pb	87	0114	459577
 pb	88	0115	459578
 pb	89	0116	459579
@@ -141,6 +150,7 @@ pb	100	0127	459590
 pb	101	0128	459591
 pb	102	0129	459592
 entry	Abdomen	49	
+orth	Abdomen		
 pb	103	0130	459593
 pb	104	0131	459594
 pb	105	0132	459595
@@ -191,6 +201,7 @@ pb	149	0176	459639
 pb	150	0177	459640
 pb	151	0178	459641
 entry	Abdomen (pathologie spéciale)	76	
+orth	Abdomen (pathologie spéciale)		
 pb	152	0179	459642
 pb	153	0180	459643
 pb	154	0181	459644
@@ -268,10 +279,14 @@ pb	225	0252	459715
 pb	226	0253	459716
 pb	227	0254	459717
 entry	Abdomen (thérapeutique)	1	
+orth	Abdomen (thérapeutique)		
 pb	228	0255	459718
 entry	Abeille	0	
+orth	Abeille		
 entry	Abortifs	0	
+orth	Abortifs		
 entry	Absinthe	6	
+orth	Absinthe		
 pb	229	0256	459719
 pb	230	0257	459720
 pb	231	0258	459721
@@ -280,12 +295,15 @@ pb	233	0260	459723
 pb	234	0261	459724
 pb	235	0262	459725
 entry	Absorbans	3	
+orth	Absorbans		
 pb	236	0263	459726
 pb	237	0264	459727
 pb	238	0265	459728
 entry	Absorbans (vaisseaux)	0	
+orth	Absorbans (vaisseaux)		
 pb	239	0266	459729
 entry	Absorption	44	
+orth	Absorption		
 pb	240	0267	459730
 pb	241	0268	459731
 pb	242	0269	459732
@@ -331,6 +349,7 @@ pb	281	0308	459771
 pb	282	0309	459772
 pb	283	0310	459773
 entry	Abstinence	25	
+orth	Abstinence		
 pb	284	0311	459774
 pb	285	0312	459775
 pb	286	0313	459776
@@ -357,10 +376,13 @@ pb	306	0333	459796
 pb	307	0334	459797
 pb	308	0335	459798
 entry	Absus	1	
+orth	Absus		
 pb	309	0336	459799
 entry	Accès	1	
+orth	Accès		
 pb	310	0337	459800
 entry	Acclimatement	12	
+orth	Acclimatement		
 pb	311	0338	459801
 pb	312	0339	459802
 pb	313	0340	459803
@@ -374,7 +396,9 @@ pb	320	0347	459810
 pb	321	0348	459811
 pb	322	0349	459812
 entry	Accouchemens	0	
+orth	Accouchemens		
 entry	Accouchement	79	
+orth	Accouchement		
 pb	323	0350	459813
 pb	324	0351	459814
 pb	325	0352	459815
@@ -455,6 +479,7 @@ pb	399	0426	459889
 pb	400	0427	459890
 pb	401	0428	459891
 entry	Accouchement (hygiène publique)	11	
+orth	Accouchement (hygiène publique)		
 pb	402	0429	459892
 pb	403	0430	459893
 pb	404	0431	459894
@@ -467,12 +492,14 @@ pb	410	0437	459900
 pb	411	0438	459901
 pb	412	0439	459902
 entry	Accouchement (médecine légale)	5	
+orth	Accouchement (médecine légale)		
 pb	413	0440	459903
 pb	414	0441	459904
 pb	415	0442	459905
 pb	416	0443	459906
 pb	417	0444	459907
 entry	Accouchement prématuré artificiel	23	
+orth	Accouchement prématuré artificiel		
 pb	418	0445	459908
 pb	419	0446	459909
 pb	420	0447	459910
@@ -497,7 +524,9 @@ pb	438	0465	459928
 pb	439	0466	459929
 pb	440	0467	459930
 entry	Accroissement	0	
+orth	Accroissement		
 entry	Acéphalie	25	
+orth	Acéphalie		
 pb	441	0468	459931
 pb	442	0469	459932
 pb	443	0470	459933
@@ -524,20 +553,27 @@ pb	463	0490	459953
 pb	464	0491	459954
 pb	465	0492	459955
 entry	Acéphalocyste	0	
+orth	Acéphalocyste		
 pb	466	0493	459956
 entry	Acerbe	0	
+orth	Acerbe		
 entry	Acétates	1	
+orth	Acétates		
 pb	467	0494	459957
 entry	Acétique	5	
+orth	Acétique		
 pb	468	0495	459958
 pb	469	0496	459959
 pb	470	0497	459960
 pb	471	0498	459961
 pb	472	0499	459962
 entry	Ache	0	
+orth	Ache		
 entry	Achores	1	
+orth	Achores		
 pb	473	0500	459963
 entry	Acides	6	
+orth	Acides		
 pb	474	0501	459964
 pb	475	0502	459965
 pb	476	0503	459966
@@ -545,9 +581,12 @@ pb	477	0504	459967
 pb	478	0505	459968
 pb	479	0506	459969
 entry	Acides alcoolisés	1	
+orth	Acides alcoolisés		
 pb	480	0507	459970
 entry	Acidité	0	
+orth	Acidité		
 entry	Acidules	7	
+orth	Acidules		
 pb	481	0508	459971
 pb	482	0509	459972
 pb	483	0510	459973
@@ -556,7 +595,9 @@ pb	485	0512	459975
 pb	486	0513	459976
 pb	487	0514	459977
 entry	Acier	0	
+orth	Acier		
 entry	Acné	13	
+orth	Acné		
 pb	488	0515	459978
 pb	489	0516	459979
 pb	490	0517	459980
@@ -571,6 +612,7 @@ pb	498	0525	459988
 pb	499	0526	459989
 pb	500	0527	459990
 entry	Aconit	8	
+orth	Aconit		
 pb	501	0528	459991
 pb	502	0529	459992
 pb	503	0530	459993
@@ -580,7 +622,9 @@ pb	506	0533	459996
 pb	507	0534	459997
 pb	508	0535	459998
 entry	Acore vrai	0	
+orth	Acore vrai		
 entry	Acoustiques	6	
+orth	Acoustiques		
 pb	509	0536	459999
 pb	510	0537	460000
 pb	511	0538	460001
@@ -588,10 +632,14 @@ pb	512	0539	460002
 pb	513	0540	460003
 pb	514	0541	460004
 entry	Acqui	1	
+orth	Acqui		
 pb	515	0542	460005
 entry	Acres	0	
+orth	Acres		
 entry	Acreté-acrimonie	0	
+orth	Acreté-acrimonie		
 entry	Acrodynie	11	
+orth	Acrodynie		
 pb	516	0543	460006
 pb	517	0544	460007
 pb	518	0545	460008
@@ -604,9 +652,11 @@ pb	524	0551	460014
 pb	525	0552	460015
 pb	526	0553	460016
 entry	Actif	2	
+orth	Actif		
 pb	527	0554	460017
 pb	528	0555	460018
 entry	Acupuncture	14	
+orth	Acupuncture		
 pb	529	0556	460019
 pb	530	0557	460020
 pb	531	0558	460021
@@ -622,6 +672,7 @@ pb	540	0567	460030
 pb	541	0568	460031
 pb	542	0569	460032
 entry	Adhérence	10	
+orth	Adhérence		
 pb	543	0570	460033
 pb	544	0571	460034
 pb	545	0572	460035
@@ -634,27 +685,35 @@ pb	551	0578	460041
 pb	552	0579	460042
 pb	553	0580	460043
 entry	Adipeux	4	
+orth	Adipeux		
 pb	554	0581	460044
 pb	555	0582	460045
 pb	556	0583	460046
 pb	557	0584	460047
 entry	Adolescence	0	
+orth	Adolescence		
 entry	Adoucissant	0	
+orth	Adoucissant		
 pb	558	0585	460048
 entry	Adragant, Adraganthe ou adragante	0	
 orth	Adragant		
 orth	Adraganthe		
 orth	adragante		
 entry	Adulte	0	
+orth	Adulte		
 entry	Adultération	0	
+orth	Adultération		
 entry	Adynamie, Adynamique	1	
 orth	Adynamie		
 orth	Adynamique		
 pb	559	0586	460049
 entry	Affection	0	
+orth	Affection		
 pb	560	0587	460050
 entry	Affections de l'ame	0	
+orth	Affections de l'ame		
 entry	Affusion	10	
+orth	Affusion		
 pb	561	0588	460051
 pb	562	0589	460052
 pb	563	0590	460053
@@ -666,8 +725,10 @@ pb	568	0595	460058
 pb	569	0596	460059
 pb	570	0597	460060
 entry	Agacement	1	
+orth	Agacement		
 pb	571	0598	460061
 entry	Agaric	2	
+orth	Agaric		
 pb	572	0599	460062
 pb	573	0600	460063
 entry	Agaric blanc ou du méleze	1	
@@ -679,6 +740,7 @@ orth	Agarics comestibles
 orth	vénéneux		
 pb	575	0602	460065
 entry	Ages	48	
+orth	Ages		
 pb	576	0603	460066
 pb	577	0604	460067
 pb	578	0605	460068
@@ -728,19 +790,25 @@ pb	621	0648	460111
 pb	622	0649	460112
 pb	623	0650	460113
 entry	Agénésie	1	
+orth	Agénésie		
 pb	624	0651	460114
 entry	Agglutinatif	3	
+orth	Agglutinatif		
 pb	625	0652	460115
 pb	626	0653	460116
 pb	627	0654	460117
 pb	628	0655	460118
 entry	Agnus-castus	0	
+orth	Agnus-castus		
 entry	Agonie	3	
+orth	Agonie		
 pb	629	0656	460119
 pb	630	0657	460120
 pb	631	0658	460121
 pb	[s. pag.]	0659	460122
 entry	Table des principaux articles contenus dans ce volume	0	
+orth	Table des principaux articles contenus dans ce volume		
 pb	[s. pag.]	0660	460123
 entry	Table alphabétique des matières	0	
+orth	Table alphabétique des matières		
 pb	634	0661	460124

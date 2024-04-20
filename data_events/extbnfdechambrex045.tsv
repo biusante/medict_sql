@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4532841
 pb	1	0005	4532842
 entry	Glandes	0	
+orth	Glandes		
 entry	Glandes. Anatomie descriptive [H. Chrétien]	9	
 orth	Glandes. Anatomie descriptive		
 pb	2	0006	4532843
@@ -162,6 +163,7 @@ pb	124	0128	4532965
 entry	Glaucias [A. Chéreau]	0	
 orth	Glaucias		
 entry	Glaucier, Glauciaire	0	
+orth	Glaucier, Glauciaire		
 ref	Glaucium		
 entry	Glaucine [L. Hahn]	1	
 orth	Glaucine		
@@ -304,6 +306,7 @@ orth	Glaux
 entry	Glawnig (Ernst-Gottlieb) [L. Hahn]	0	
 orth	Glawnig (Ernst-Gottlieb)		
 entry	Glayeul	0	
+orth	Glayeul		
 ref	Glaïeul		
 entry	Gléba [Ed. Lefèvre]	0	
 orth	Gléba		
@@ -317,6 +320,7 @@ entry	Gleditsch (Johann-Gottlieb) [L. Hahn] (bibliographie)	1
 orth	Gleditsch (Johann-Gottlieb)		
 pb	241	0245	4533082
 entry	Gleditschia	0	
+orth	Gleditschia		
 ref	Févier		
 entry	Gleichen (Friedrich-Wilhelm von) [L. Hahn]	0	
 orth	Gleichen (Friedrich-Wilhelm von)		
@@ -331,6 +335,7 @@ pb	245	0249	4533086
 entry	Gleichenberg (Eaux minérales de) [A. Rotureau] (bibliographie)	0	
 orth	Gleichenberg (Eaux minérales de)		
 entry	Gleichéniacées	0	
+orth	Gleichéniacées		
 ref	Fougères		
 entry	Gleissen (Eaux minérales, cures de petit-lait et bains de Boues de) [A. Rotureau]	0	
 orth	Gleissen (Eaux minérales, cures de petit-lait et bains de Boues de)		
@@ -348,15 +353,20 @@ entry	Gleizes (Jean-Antoine) [L. Hahn]	1
 orth	Gleizes (Jean-Antoine)		
 pb	248	0252	4533089
 entry	Glénoïde (Cavité)	0	
+orth	Glénoïde (Cavité)		
 ref	Omoplate		
 ref	Crane (temporal)		
 entry	Glénoïdien (Ligament)	0	
+orth	Glénoïdien (Ligament)		
 ref	Omoplate		
 entry	Gliadine	0	
+orth	Gliadine		
 ref	Gluten		
 entry	Glicyphages	0	
+orth	Glicyphages		
 ref	Sarcoptides		
 entry	Gliome	0	
+orth	Gliome		
 ref	Colloïdes		
 entry	Gliridés [E. Oustalet]	1	
 orth	Gliridés		
@@ -379,6 +389,7 @@ orth	Globbée
 entry	Globicéphale [E. Oustalet]	0	
 orth	Globicéphale		
 entry	Globulaire	0	
+orth	Globulaire		
 entry	Globulaire. Botanique [Edouard Heckel]	4	
 orth	Globulaire. Botanique		
 pb	253	0257	4533094
@@ -416,6 +427,7 @@ entry	Globule [Ch. Robin]	1
 orth	Globule		
 pb	272	0276	4533113
 entry	Globuline	0	
+orth	Globuline		
 ref	Globules		
 ref	Sang		
 entry	Glodenstede (Hermoldus) [L. Hahn]	0	
@@ -430,16 +442,21 @@ entry	Gloriosa [G. Planchon]	0
 orth	Gloriosa		
 pb	273	0277	4533114
 entry	Glossine	0	
+orth	Glossine		
 ref	Hirudinées		
 entry	Glossite	0	
+orth	Glossite		
 ref	Langue		
 entry	Glosso-épiglottiques (Muscles)	0	
+orth	Glosso-épiglottiques (Muscles)		
 ref	Langue		
 entry	Glossophages [E. Oustalet] (bibliographie)	0	
 orth	Glossophages		
 entry	Glosso-pharyngien (Muscle)	0	
+orth	Glosso-pharyngien (Muscle)		
 ref	Langue		
 entry	Glosso-Pharyngien (Nerf)	0	
+orth	Glosso-Pharyngien (Nerf)		
 entry	Glosso-Pharyngien (Nerf). Anatomie [Coyne]	8	
 orth	Glosso-Pharyngien (Nerf). Anatomie		
 pb	274	0278	4533115
@@ -460,8 +477,10 @@ entry	Glosso-Pharyngien (Nerf). Physiologie [Coyne] (bibliographie)	1
 orth	Glosso-Pharyngien (Nerf). Physiologie		
 pb	286	0290	4533127
 entry	Glosso-staphylin (Muscle)	0	
+orth	Glosso-staphylin (Muscle)		
 ref	Langue		
 entry	Glotte	0	
+orth	Glotte		
 entry	Glotte. Généralités [Maurice Krishaber]	1	
 orth	Glotte. Généralités		
 pb	287	0291	4533128
@@ -516,10 +535,13 @@ pb	309	0313	4533150
 entry	Glück (Friedrich-Gottfried) [L. Hahn] (bibliographie)	0	
 orth	Glück (Friedrich-Gottfried)		
 entry	Glucosane	0	
+orth	Glucosane		
 ref	Glycosane		
 entry	Glucose	0	
+orth	Glucose		
 ref	Glycose		
 entry	Glucosides	0	
+orth	Glucosides		
 ref	Glycosides		
 entry	Gluta [H. Baillon]	0	
 orth	Gluta		
@@ -530,6 +552,7 @@ entry	Glutamique ou Glutaminique (Acide) [L. Hahn]	1
 orth	Glutamique ou Glutaminique (Acide)		
 pb	311	0315	4533152
 entry	Glutanique (Acide)	0	
+orth	Glutanique (Acide)		
 ref	Glutamique		
 entry	Gluten [L. Hahn]	2	
 orth	Gluten		
@@ -544,10 +567,12 @@ orth	Glutineux
 entry	Gluttier [G. Planchon]	0	
 orth	Gluttier		
 entry	Gluvia	0	
+orth	Gluvia		
 ref	Galéodes		
 entry	Glycaraton [G. Planchon]	0	
 orth	Glycaraton		
 entry	Glycémie	0	
+orth	Glycémie		
 ref	Glycohémie		
 entry	Glycérals [Amédée Dechambre]	0	
 orth	Glycérals		
@@ -565,8 +590,10 @@ pb	316	0320	4533157
 pb	317	0321	4533158
 pb	318	0322	4533159
 entry	Glycémie	0	
+orth	Glycémie		
 ref	Glycohémie		
 entry	Glycérine	0	
+orth	Glycérine		
 entry	Glycérine. Chimie [Ed. Willm]	5	
 orth	Glycérine. Chimie		
 pb	319	0323	4533160
@@ -621,27 +648,35 @@ entry	Glycérique (Acide) [Ed. Willm]	1
 orth	Glycérique (Acide)		
 pb	363	0367	4533204
 entry	Glycérolés	0	
+orth	Glycérolés		
 ref	Glycérine		
 entry	Glycide [Ed. Willm]	1	
 orth	Glycide		
 pb	364	0368	4533205
 entry	Glycine	0	
+orth	Glycine		
 entry	Glycine. Botanique [G. Planchon] (bibliographie)	1	
 orth	Glycine. Botanique		
 pb	365	0369	4533206
 entry	Glycine	0	
+orth	Glycine		
 entry	Chimie	0	
+orth	Chimie		
 ref	Glycocolle		
 entry	Glycinium	0	
+orth	Glycinium		
 ref	Glucinium		
 entry	Glyciphages	0	
+orth	Glyciphages		
 ref	Sarcoptides		
 entry	Glycique	0	
+orth	Glycique		
 ref	Glucique		
 entry	Glycocholates [Ed. Willm]	1	
 orth	Glycocholates		
 pb	366	0370	4533207
 entry	Glycocholique (Acide)	0	
+orth	Glycocholique (Acide)		
 ref	Bile		
 entry	Glycocolle [Ed. Willm]	4	
 orth	Glycocolle		
@@ -653,6 +688,7 @@ entry	Glycocyamine [Ed. Willm]	1
 orth	Glycocyamine		
 pb	371	0375	4533212
 entry	Glycogène (Matière), Glycogénie	0	
+orth	Glycogène (Matière), Glycogénie		
 ref	Foie		
 ref	Diabète		
 ref	Digestion		
@@ -709,6 +745,7 @@ orth	Glycolamide
 entry	Glycolide [Ed. Willm]	0	
 orth	Glycolide		
 entry	Glycolilurée	0	
+orth	Glycolilurée		
 ref	Hydantoïne		
 entry	Glycolique (Acide) [Ed. Willm]	2	
 orth	Glycolique (Acide)		
@@ -730,6 +767,7 @@ entry	Glycosane [C. Lutz]	1
 orth	Glycosane		
 pb	416	0420	4533257
 entry	Glycose, Glucose	0	
+orth	Glycose, Glucose		
 entry	Glycose, Glucose. Chimie [C. Lutz]	3	
 orth	Glycose, Glucose. Chimie		
 pb	417	0421	4533258
@@ -781,6 +819,7 @@ orth	Glycosurie
 pb	453	0457	4533294
 pb	454	0458	4533295
 entry	Glycyrrhiza	0	
+orth	Glycyrrhiza		
 ref	Réglisse		
 entry	Glycyrrhizine [Ed. Willm]	0	
 orth	Glycyrrhizine		
@@ -908,6 +947,7 @@ orth	Godoy (Les)
 entry	Godronné (Canal) [Amédée Dechambre]	0	
 orth	Godronné (Canal)		
 entry	Goebel	0	
+orth	Goebel		
 ref	Göbel		
 entry	Goedart (Jean) [L. Hahn]	0	
 orth	Goedart (Jean)		
@@ -926,6 +966,7 @@ orth	Goemoery (David)
 entry	Goerce (Les) [L. Hahn]	0	
 orth	Goerce (Les)		
 entry	Goethe	0	
+orth	Goethe		
 ref	Göthe		
 entry	Goeutot (Jean) [L. Hahn]	0	
 orth	Goeutot (Jean)		
@@ -1160,6 +1201,7 @@ orth	Gomez Miedes (Bernardin)
 entry	Gomez (Les) [L. Hahn]	0	
 orth	Gomez (Les)		
 entry	Gomme-Gutte	0	
+orth	Gomme-Gutte		
 entry	Gomme-Gutte. Matière médicale [L. Hahn]	2	
 orth	Gomme-Gutte. Matière médicale		
 pb	638	0642	4533479
@@ -1168,6 +1210,7 @@ entry	Gomme-Gutte. Emploi [L. Hahn]	1
 orth	Gomme-Gutte. Emploi		
 pb	640	0644	4533481
 entry	Gommes	0	
+orth	Gommes		
 entry	Gommes. Matière médicale et chimie [L. Hahn, E. Lefèvre]	15	
 orth	Gommes. Matière médicale et chimie		
 pb	641	0645	4533482
@@ -1192,6 +1235,7 @@ pb	657	0661	4533498
 pb	658	0662	4533499
 pb	659	0663	4533500
 entry	Gommes, Tumeurs Gommeuses	0	
+orth	Gommes, Tumeurs Gommeuses		
 entry	Gommes, Tumeurs Gommeuses. En général [Ernest Besnier]	10	
 orth	Gommes, Tumeurs Gommeuses. En général		
 pb	660	0664	4533501
@@ -1244,6 +1288,7 @@ pb	700	0704	4533541
 entry	Gommiers [L. Hahn]	0	
 orth	Gommiers		
 entry	Gomphia	0	
+orth	Gomphia		
 ref	Ochna		
 ref	Ochnacées		
 entry	Gomphide [Ed. Lefèvre]	0	
@@ -1261,6 +1306,7 @@ entry	Gomphrena [G. Planchon]	0
 orth	Gomphrena		
 pb	702	0706	4533543
 entry	Gonaké ou Gonakié	0	
+orth	Gonaké ou Gonakié		
 ref	Gommes		
 entry	Gonalgie [Amédée Dechambre]	0	
 orth	Gonalgie		
@@ -1274,6 +1320,7 @@ orth	Gondran (Eau de)
 entry	Gondret (Louis-François) [A. Chéreau] (bibliographie)	0	
 orth	Gondret (Louis-François)		
 entry	Gonds (Les)	0	
+orth	Gonds (Les)		
 ref	Gounds		
 entry	Goniatite [Ed. Lefèvre]	1	
 orth	Goniatite		
@@ -1350,6 +1397,7 @@ entry	Gordiacés [Ed. Lefèvre]	1
 orth	Gordiacés		
 pb	719	0723	4533560
 entry	Gordius	0	
+orth	Gordius		
 ref	Gordiacés		
 entry	Gordon (Les) [A. Chéreau]	1	
 orth	Gordon (Les)		
@@ -1425,6 +1473,7 @@ orth	Gosselet (Auguste-Napoléon)
 entry	Gosset [L. Hahn]	0	
 orth	Gosset		
 entry	Gossypium	0	
+orth	Gossypium		
 ref	Cotonnier		
 entry	Göthe (Johann-Wolfgang) [L. Hahn]	5	
 orth	Göthe (Johann-Wolfgang)		
@@ -1477,6 +1526,7 @@ pb	750	0754	4533591
 entry	Goubelly (Claude-André) [A. Chéreau] (bibliographie)	0	
 orth	Goubelly (Claude-André)		
 entry	Goudron	0	
+orth	Goudron		
 entry	Goudron. Chimie [L. Hahn]	4	
 orth	Goudron. Chimie		
 pb	751	0755	4533592
@@ -1567,6 +1617,7 @@ pb	775	0779	4533616
 entry	Gourde [G. Planchon] (bibliographie)	0	
 orth	Gourde		
 entry	Gouriens	0	
+orth	Gouriens		
 ref	Caucasique		
 entry	Gourlay (William) [A. Dureau]	0	
 orth	Gourlay (William)		
@@ -1575,5 +1626,6 @@ orth	Gourmelin (Étienne)
 pb	[s. pag.]	0780	4533617
 pb	777	0781	4533618
 entry	Articles contenus dans la neuvième volume (4e série)	2	
+orth	Articles contenus dans la neuvième volume (4e série)		
 pb	778	0782	4533619
 pb	779	0783	4533620

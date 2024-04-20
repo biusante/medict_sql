@@ -14,6 +14,7 @@ pb	5	0009	4588585
 pb	6	0010	4588586
 pb	7	0011	4588587
 entry	Spectroscopie, Analyse spectrale	0	
+orth	Spectroscopie, Analyse spectrale		
 entry	Spectroscopie, Analyse spectrale. Physique [C.-M. Gariel]	8	
 orth	Spectroscopie, Analyse spectrale. Physique		
 pb	8	0012	4588588
@@ -86,6 +87,7 @@ pb	64	0068	4588644
 entry	Spedalieri (Archangelo) [L. Hahn] (bibliographie)	0	
 orth	Spedalieri (Archangelo)		
 entry	Spedalsked	0	
+orth	Spedalsked		
 ref	Radesyge		
 entry	Speer (Les) [L. Hahn]	0	
 orth	Speer (Les)		
@@ -109,6 +111,7 @@ pb	67	0071	4588647
 entry	Speranza (Carlo) [L. Hahn] (bibliographie)	0	
 orth	Speranza (Carlo)		
 entry	Spergula	0	
+orth	Spergula		
 ref	Spargoute		
 entry	Spergulaire [G. Planchon]	0	
 orth	Spergulaire		
@@ -119,6 +122,7 @@ entry	Sperling (Les) [L. Hahn] (bibliographie)	1
 orth	Sperling (Les)		
 pb	69	0073	4588649
 entry	Spermaceti	0	
+orth	Spermaceti		
 ref	Cétine		
 entry	Spermacoce [G. Planchon]	0	
 orth	Spermacoce		
@@ -129,13 +133,16 @@ pb	71	0075	4588651
 pb	72	0076	4588652
 pb	73	0077	4588653
 entry	Spermatique (Cordon)	0	
+orth	Spermatique (Cordon)		
 ref	Spermatiques (Artères)		
 ref	Spermatiques (Voies)		
 ref	Sympathique (Grand)		
 ref	Testicule		
 entry	Spermatiques (Nerfs)	0	
+orth	Spermatiques (Nerfs)		
 ref	Sympathique (Grand)		
 entry	Spermatiques (Voies)	0	
+orth	Spermatiques (Voies)		
 entry	Spermatiques (Voies). Anatomie [Daniel Mollière]	9	
 orth	Spermatiques (Voies). Anatomie		
 pb	74	0078	4588654
@@ -148,6 +155,7 @@ pb	80	0084	4588660
 pb	81	0085	4588661
 pb	82	0086	4588662
 entry	Pathologie chirurgicale	0	
+orth	Pathologie chirurgicale		
 entry	Spermatiques (Voies). Pathologie chirurgicale. Cordon spermatique [Daniel Mollière]	16	
 orth	Spermatiques (Voies). Pathologie chirurgicale. Cordon spermatique		
 pb	83	0087	4588663
@@ -172,9 +180,11 @@ pb	99	0103	4588679
 pb	100	0104	4588680
 pb	101	0105	4588681
 entry	Médecine légale	0	
+orth	Médecine légale		
 ref	Impuissance		
 ref	Stérilité		
 entry	Spermatogénie	0	
+orth	Spermatogénie		
 ref	Sperme		
 entry	Spermatorrhée [Daniel Mollière]	11	
 orth	Spermatorrhée		
@@ -190,6 +200,7 @@ pb	110	0114	4588690
 pb	111	0115	4588691
 pb	112	0116	4588692
 entry	Spermatozoïdes	0	
+orth	Spermatozoïdes		
 ref	Sperme		
 entry	Sperme [Ch. Robin]	78	
 orth	Sperme		
@@ -296,14 +307,17 @@ pb	196	0200	4588776
 entry	Sphargis [E. Oustalet] (bibliographie)	0	
 orth	Sphargis		
 entry	Sphase	0	
+orth	Sphase		
 ref	Araignée		
 entry	Sphénencéphales	0	
+orth	Sphénencéphales		
 ref	Anomocéphales		
 ref	Sphénocéphales		
 pb	197	0201	4588777
 entry	Sphénocéphales [O. Larcher]	0	
 orth	Sphénocéphales		
 entry	Sphéno-épineuse (Artère)	0	
+orth	Sphéno-épineuse (Artère)		
 ref	Méningés (vaisseaux)		
 entry	Sphénoïde [Amédée Dechambre]	0	
 orth	Sphénoïde		
@@ -316,6 +330,7 @@ pb	199	0203	4588779
 entry	Sphénotrésie [Amédée Dechambre]	0	
 orth	Sphénotrésie		
 entry	Sphéno-salpingo-staphylin (Muscle)	0	
+orth	Sphéno-salpingo-staphylin (Muscle)		
 ref	Péristaphylin externe		
 entry	Sphérelle [Ed. Lefèvre]	0	
 orth	Sphérelle		
@@ -339,6 +354,7 @@ orth	Sphincter
 entry	Sphinx [Amédée Dechambre]	0	
 orth	Sphinx		
 entry	Sphodros	0	
+orth	Sphodros		
 ref	Araignée		
 entry	Sphondylium [G. Planchon]	0	
 orth	Sphondylium		
@@ -358,8 +374,10 @@ orth	Spic
 entry	Spica (Bot.) [G. Planchon]	0	
 orth	Spica (Bot.)		
 entry	Spica	0	
+orth	Spica		
 ref	Bandages		
 entry	Spicanard, Spikenard	0	
+orth	Spicanard, Spikenard		
 ref	Nard		
 entry	Spiegelberg (Otto) [L. Hahn]	0	
 orth	Spiegelberg (Otto)		
@@ -389,9 +407,11 @@ orth	Spies (Johann-Carl)
 entry	Spiess (Gustav-Adolph) [L. Hahn]	0	
 orth	Spiess (Gustav-Adolph)		
 entry	Spigel	0	
+orth	Spigel		
 ref	Spieghel		
 pb	219	0223	4588799
 entry	Spigélie	0	
+orth	Spigélie		
 entry	Spigélie. Botanique [H. Baillon] (bibliographie)	1	
 orth	Spigélie. Botanique		
 pb	220	0224	4588800
@@ -407,12 +427,15 @@ entry	Spigélie. Emploi médical [Ernest Labbée] (bibliographie)	1
 orth	Spigélie. Emploi médical		
 pb	227	0231	4588807
 entry	Spigéline	0	
+orth	Spigéline		
 ref	Spigélie		
 entry	Spilanthe	0	
+orth	Spilanthe		
 entry	Spilanthe. Botanique [G. Planchon] (bibliographie)	1	
 orth	Spilanthe. Botanique		
 pb	228	0232	4588808
 entry	Emploi médical	0	
+orth	Emploi médical		
 ref	Cresson de Para		
 entry	Spilanthine [L. Hahn]	0	
 orth	Spilanthine		
@@ -429,6 +452,7 @@ orth	Spina-bifida
 entry	Spina Cervina [G. Planchon]	0	
 orth	Spina Cervina		
 entry	Spinacia	0	
+orth	Spinacia		
 ref	Épinard		
 pb	229	0233	4588809
 entry	Spina domestica [G. Planchon]	0	
@@ -446,12 +470,14 @@ pb	231	0235	4588811
 pb	232	0236	4588812
 pb	233	0237	4588813
 entry	Spinal (Nerf)	0	
+orth	Spinal (Nerf)		
 entry	Anatomie [J. Aubry]	0	
 orth	Anatomie		
 entry	Physiologie [S. Arloing]	0	
 orth	Physiologie		
 pb	234	0238	4588814
 entry	Spinal (Nerf)	0	
+orth	Spinal (Nerf)		
 entry	Spinal (Nerf). Physiologie [S. Arloing]	16	
 orth	Spinal (Nerf). Physiologie		
 pb	235	0239	4588815
@@ -505,8 +531,10 @@ pb	270	0274	4588850
 entry	Spinola (Werner-Theodor-Joseph) [L. Hahn] (bibliographie)	0	
 orth	Spinola (Werner-Theodor-Joseph)		
 entry	Spiral (Canal)	0	
+orth	Spiral (Canal)		
 ref	Oreille interne		
 entry	Spirée	0	
+orth	Spirée		
 entry	Spirée. Botanique [H. Baillon]	2	
 orth	Spirée. Botanique		
 pb	271	0275	4588851
@@ -614,12 +642,15 @@ entry	Spix (Johann-Baptist von) [L. Hahn]	0
 orth	Spix (Johann-Baptist von)		
 pb	326	0330	4588906
 entry	Splanchniques (Grand et petit nerfs)	0	
+orth	Splanchniques (Grand et petit nerfs)		
 ref	Sympathique		
 entry	Splénique (Plexus)	0	
+orth	Splénique (Plexus)		
 ref	Sympathique (Grand)		
 entry	Spléniques (Vaisseaux) [Amédée Dechambre]	0	
 orth	Spléniques (Vaisseaux)		
 entry	Splénite	0	
+orth	Splénite		
 ref	Rate		
 entry	Splénius (Muscle) [J. Aubry]	1	
 orth	Splénius (Muscle)		
@@ -670,6 +701,7 @@ pb	350	0354	4588930
 entry	Spondias [H. Baillon] (bibliographie)	0	
 orth	Spondias		
 entry	Spondilium	0	
+orth	Spondilium		
 ref	Sphondylium		
 entry	Spöndli (Johann-Conrad) [L. Hahn]	1	
 orth	Spöndli (Johann-Conrad)		
@@ -764,6 +796,7 @@ pb	384	0388	4588964
 entry	Sputation [Amédée Dechambre]	0	
 orth	Sputation		
 entry	Squale	0	
+orth	Squale		
 entry	Squale. Zoologie [E. Oustalet]	3	
 orth	Squale. Zoologie		
 pb	385	0389	4588965
@@ -825,7 +858,9 @@ pb	424	0428	4589004
 entry	Squille [Ed. Lefèvre]	0	
 orth	Squille		
 entry	Squine	0	
+orth	Squine		
 entry	Botanique	0	
+orth	Botanique		
 ref	Salsepareille		
 entry	Squine. Emploi médical [Amédée Dechambre]	1	
 orth	Squine. Emploi médical		
@@ -841,6 +876,7 @@ entry	Stachelberg (Eau minérale de) [A. Rotureau]	1
 orth	Stachelberg (Eau minérale de)		
 pb	427	0431	4589007
 entry	Stachys	0	
+orth	Stachys		
 ref	Épiaire		
 entry	Stacté [H. Baillon]	0	
 orth	Stacté		
@@ -850,6 +886,7 @@ entry	Stadmania [H. Baillon]	0
 orth	Stadmania		
 pb	428	0432	4589008
 entry	Staechas	0	
+orth	Staechas		
 ref	Stoechas		
 entry	Stafford (Richard-Anthony) [L. Hahn] (bibliographie)	0	
 orth	Stafford (Richard-Anthony)		
@@ -864,6 +901,7 @@ pb	430	0434	4589010
 entry	Stahl (Georges-Ernest) [A. Chéreau] (bibliographie)	0	
 orth	Stahl (Georges-Ernest)		
 entry	Stahlianisme	0	
+orth	Stahlianisme		
 ref	Animisme		
 entry	Stahmann (Johann-Friedrich-Heinrich) [L. Hahn]	0	
 orth	Stahmann (Johann-Friedrich-Heinrich)		
@@ -909,6 +947,7 @@ pb	437	0441	4589017
 entry	Stapélie [G. Planchon] (bibliographie)	0	
 orth	Stapélie		
 entry	Staphisagrine	0	
+orth	Staphisagrine		
 entry	Staphisagrine. Chimie [L. Hahn]	2	
 orth	Staphisagrine. Chimie		
 pb	438	0442	4589018
@@ -920,6 +959,7 @@ pb	441	0445	4589021
 entry	Staphisagrine. Action physiologique [L. Hahn] (bibliographie)	0	
 orth	Staphisagrine. Action physiologique		
 entry	Staphisaigre	0	
+orth	Staphisaigre		
 entry	Staphisaigre. Botanique [H. Baillon] (bibliographie)	1	
 orth	Staphisaigre. Botanique		
 pb	442	0446	4589022
@@ -1053,6 +1093,7 @@ pb	529	0533	4589109
 pb	530	0534	4589110
 pb	531	0535	4589111
 entry	Statistique	0	
+orth	Statistique		
 entry	Statistique. Statistique générale [A. Legoyt]	69	
 orth	Statistique. Statistique générale		
 pb	532	0536	4589112
@@ -1173,6 +1214,7 @@ entry	Stéarine [C. Lutz]	1
 orth	Stéarine		
 pb	622	0626	4589202
 entry	Stéarique (Acide)	0	
+orth	Stéarique (Acide)		
 entry	Stéarique (Acide). Chimie [C. Lutz]	2	
 orth	Stéarique (Acide). Chimie		
 pb	623	0627	4589203
@@ -1180,6 +1222,7 @@ pb	624	0628	4589204
 entry	Emploi médical [Amédée Dechambre]	0	
 orth	Emploi médical		
 entry	Stéarique (Éther)	0	
+orth	Stéarique (Éther)		
 ref	Éthers		
 pb	625	0629	4589205
 entry	Stearns (John) [L. Hahn] (bibliographie)	0	
@@ -1251,6 +1294,7 @@ pb	667	0671	4589247
 entry	Steber (Bartholomaeus) [L. Hahn]	0	
 orth	Steber (Bartholomaeus)		
 entry	Stechas	0	
+orth	Stechas		
 ref	Stoechas		
 entry	Stecher von sebenitz (Ferdinand) [L. Hahn]	0	
 orth	Stecher von sebenitz (Ferdinand)		
@@ -1301,6 +1345,7 @@ entry	Stein (Les) [A. Dureau] (bibliographie)	1
 orth	Stein (Les)		
 pb	675	0679	4589255
 entry	Steinberg (Karl)	0	
+orth	Steinberg (Karl)		
 pb	676	0680	4589256
 entry	Steinberg (Karl) (bibliographie)	0	
 orth	Steinberg (Karl)		
@@ -1418,6 +1463,7 @@ orth	Stéphanure
 entry	Stephenson (Les) [L. Hahn]	0	
 orth	Stephenson (Les)		
 entry	Steppes (Géographie médicale)	0	
+orth	Steppes (Géographie médicale)		
 ref	Géographie		
 entry	Stercoraire [E. Oustalet]	0	
 orth	Stercoraire		
@@ -1431,6 +1477,7 @@ pb	698	0702	4589278
 pb	699	0703	4589279
 pb	700	0704	4589280
 entry	Stercorales (Tumeurs)	0	
+orth	Stercorales (Tumeurs)		
 ref	Côlon		
 ref	Constipation		
 ref	Intestin		
@@ -1439,6 +1486,7 @@ entry	Stercorine [L. Hahn]	0
 orth	Stercorine		
 pb	701	0705	4589281
 entry	Sterculia (L.)	0	
+orth	Sterculia (L.)		
 entry	Sterculia (L.). Botanique [H. Baillon] (bibliographie)	1	
 orth	Sterculia (L.). Botanique		
 pb	702	0706	4589282
@@ -1462,6 +1510,7 @@ orth	Stereospermum
 entry	Stéréum [Ed. Lefèvre]	0	
 orth	Stéréum		
 entry	Stérilité	0	
+orth	Stérilité		
 entry	Stérilité. Pathologie [Sinéty]	53	
 orth	Stérilité. Pathologie		
 pb	710	0714	4589290
@@ -1521,6 +1570,7 @@ pb	763	0767	4589343
 entry	Stérilité. Pathologie [Sinéty] (bibliographie)	0	
 orth	Stérilité. Pathologie		
 entry	Médecine légale	0	
+orth	Médecine légale		
 ref	Impuissance		
 pb	764	0768	4589344
 entry	Stérilité. Pathologie [Sinéty] (bibliographie)	2	
@@ -1549,6 +1599,7 @@ pb	773	0777	4589353
 entry	Sterne [E. Oustalet] (bibliographie)	0	
 orth	Sterne		
 entry	Sterno-Claviculaire (Articulation)	0	
+orth	Sterno-Claviculaire (Articulation)		
 ref	Clavicule		
 ref	Sternum		
 entry	Sterno-cléido-hyoïdien [A. Le Double]	2	
@@ -1564,9 +1615,11 @@ pb	779	0783	4589359
 pb	780	0784	4589360
 pb	781	0785	4589361
 entry	Sterno-costales (Articulations)	0	
+orth	Sterno-costales (Articulations)		
 ref	Côtes		
 ref	Sternum		
 entry	Sterno-mastoidienne (Artère)	0	
+orth	Sterno-mastoidienne (Artère)		
 ref	Thyroidienne (Artère)		
 entry	Sternopages [O. Larcher]	1	
 orth	Sternopages		
@@ -1576,9 +1629,12 @@ entry	Sternopages [O. Larcher] (bibliographie)	1
 orth	Sternopages		
 pb	784	0788	4589364
 entry	Erratum	0	
+orth	Erratum		
 entry	Spectroscopie (biologie)	0	
+orth	Spectroscopie (biologie)		
 pb	785	0789	4589365
 entry	Articles contenus dans le onzième volume (3e serie)	3	
+orth	Articles contenus dans le onzième volume (3e serie)		
 pb	786	0790	4589366
 pb	787	0791	4589367
 pb	788	0792	4589368

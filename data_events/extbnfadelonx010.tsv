@@ -89,6 +89,7 @@ pb	70	0074	4812325
 pb	71	0075	4812326
 pb	72	0076	4812327
 entry	Gangréneux	0	
+orth	Gangréneux		
 entry	Gantelet [Murat]	0	
 orth	Gantelet		
 entry	Garance [A. Richard]	2	
@@ -100,12 +101,14 @@ orth	Gargarisme
 pb	75	0079	4812330
 pb	76	0080	4812331
 entry	Gargouillement	0	
+orth	Gargouillement		
 entry	Garou [A. Richard]	3	
 orth	Garou		
 pb	77	0081	4812332
 pb	78	0082	4812333
 pb	79	0083	4812334
 entry	Garrot	0	
+orth	Garrot		
 entry	Gastralgie [Georget]	6	
 orth	Gastralgie		
 pb	80	0084	4812335
@@ -115,6 +118,7 @@ pb	83	0087	4812338
 pb	84	0088	4812339
 pb	85	0089	4812340
 entry	Gastricité	0	
+orth	Gastricité		
 entry	Gastrique [Hippol. Cloquet]	0	
 orth	Gastrique		
 entry	Gastrite [Chomel]	22	
@@ -142,10 +146,12 @@ pb	105	0109	4812360
 pb	106	0110	4812361
 pb	107	0111	4812362
 entry	Gastrocèle	0	
+orth	Gastrocèle		
 entry	Gastrocnémiens [Hippol. Cloquet]	0	
 orth	Gastrocnémiens		
 pb	108	0112	4812363
 entry	Gastro-colique	0	
+orth	Gastro-colique		
 entry	Gastrodynie [Raige Delorme]	0	
 orth	Gastrodynie		
 entry	Gastro-entérite [P. Rayer]	62	
@@ -213,6 +219,7 @@ pb	168	0172	4812423
 pb	169	0173	4812424
 pb	170	0174	4812425
 entry	Gastro-épiploïque	0	
+orth	Gastro-épiploïque		
 entry	Gastro-hépatique [A. Béclard]	0	
 orth	Gastro-hépatique		
 entry	Gastroraphie [Murat]	1	
@@ -226,6 +233,7 @@ pb	172	0176	4812427
 pb	173	0177	4812428
 pb	174	0178	4812429
 entry	Gateau	0	
+orth	Gateau		
 entry	Gaz [Orfila]	1	
 orth	Gaz		
 pb	175	0179	4812430
@@ -236,6 +244,7 @@ pb	177	0181	4812432
 pb	178	0182	4812433
 pb	179	0183	4812434
 entry	Gelée	1	
+orth	Gelée		
 pb	180	0184	4812435
 entry	Gencive [A. Béclard]	0	
 orth	Gencive		
@@ -311,6 +320,7 @@ orth	Génio-hyoïdien
 entry	Génio-pharyngien [Hippol. Cloquet]	0	
 orth	Génio-pharyngien		
 entry	Génital	0	
+orth	Génital		
 entry	Genou [A. Béclard]	6	
 orth	Genou		
 pb	230	0234	4812485
@@ -320,6 +330,7 @@ pb	233	0237	4812488
 pb	234	0238	4812489
 pb	235	0239	4812490
 entry	Genre	0	
+orth	Genre		
 entry	Gentiane [A. Richard]	3	
 orth	Gentiane		
 pb	236	0240	4812491
@@ -334,6 +345,7 @@ entry	Géranion [A. Richard]	0
 orth	Géranion		
 pb	240	0244	4812495
 entry	Gerçure [L	2	
+orth	Gerçure [L		
 ref	Lagneau]		
 pb	241	0245	4812496
 pb	242	0246	4812497
@@ -352,7 +364,9 @@ entry	Gestation [Desormeaux]	1
 orth	Gestation		
 pb	246	0250	4812501
 entry	Geste	0	
+orth	Geste		
 entry	Gibbosité	0	
+orth	Gibbosité		
 entry	Gingembre [A. Richard]	2	
 orth	Gingembre		
 pb	247	0251	4812502
@@ -376,6 +390,7 @@ pb	255	0259	4812510
 entry	Glaire [Raige Delorme]	0	
 orth	Glaire		
 entry	Gland	0	
+orth	Gland		
 entry	Gland [A. Béclard]	0	
 orth	Gland		
 pb	256	0260	4812511
@@ -405,6 +420,7 @@ orth	Glénoide
 entry	Gliadine [Orfila]	0	
 orth	Gliadine		
 entry	Globe	1	
+orth	Globe		
 pb	266	0270	4812521
 entry	Globulaire [A. Richard]	1	
 orth	Globulaire		
@@ -412,7 +428,9 @@ pb	267	0271	4812522
 entry	Globulariées [A. Richard]	0	
 orth	Globulariées		
 entry	Glossanthrax	0	
+orth	Glossanthrax		
 entry	Glossien	0	
+orth	Glossien		
 entry	Glossite [Marjolin]	5	
 orth	Glossite		
 pb	268	0272	4812523
@@ -422,6 +440,7 @@ pb	271	0275	4812526
 pb	272	0276	4812527
 pb	273	0277	4812528
 entry	Glossocèle	0	
+orth	Glossocèle		
 entry	Glossocome [Jules Cloquet]	0	
 orth	Glossocome		
 entry	Glosso-épiglottique [Hippol. Cloquet]	0	
@@ -466,6 +485,7 @@ pb	288	0292	4812543
 entry	Golfe [A. Béclard]	0	
 orth	Golfe		
 entry	Gomme [L	2	
+orth	Gomme [L		
 ref	Lagneau]		
 pb	289	0293	4812544
 pb	290	0294	4812545
@@ -481,10 +501,14 @@ orth	Gommes-résines
 entry	Gomphose [A. Béclard]	0	
 orth	Gomphose		
 entry	Gonagre	0	
+orth	Gonagre		
 pb	296	0300	4812551
 entry	Gonflement	0	
+orth	Gonflement		
 entry	Gonocèle	0	
+orth	Gonocèle		
 entry	Gonorrhée [L	0	
+orth	Gonorrhée [L		
 ref	Lagneau]		
 pb	297	0301	4812552
 entry	Gorge [A. Béclard]	0	
@@ -501,6 +525,7 @@ entry	Goudron [A. Richard]	1
 orth	Goudron		
 pb	302	0306	4812557
 entry	Gourme	0	
+orth	Gourme		
 entry	Gouet [A. Richard]	0	
 orth	Gouet		
 pb	303	0307	4812558
@@ -545,14 +570,19 @@ pb	337	0341	4812592
 pb	338	0342	4812593
 pb	339	0343	4812594
 entry	Goutte	1	
+orth	Goutte		
 pb	340	0344	4812595
 entry	Goutte-rose	0	
+orth	Goutte-rose		
 entry	Goutte sereine	0	
+orth	Goutte sereine		
 entry	Goutteux	1	
+orth	Goutteux		
 pb	341	0345	4812596
 entry	Gouttière [A. Béclard]	0	
 orth	Gouttière		
 entry	Grain	0	
+orth	Grain		
 entry	Graisses [Orfila]	2	
 orth	Graisses		
 pb	342	0346	4812597
@@ -571,6 +601,7 @@ pb	350	0354	4812605
 entry	Granulation [A. Béclard]	0	
 orth	Granulation		
 entry	Granuleux	0	
+orth	Granuleux		
 entry	Gras (corps) [Orfila]	1	
 orth	Gras (corps)		
 pb	351	0355	4812606
@@ -581,10 +612,12 @@ entry	Grasseyement [Rullier]	1
 orth	Grasseyement		
 pb	353	0357	4812608
 entry	Gratelle	0	
+orth	Gratelle		
 entry	Gratiole [A. Richard]	1	
 orth	Gratiole		
 pb	354	0358	4812609
 entry	Gravatif	0	
+orth	Gravatif		
 entry	Gravelle [G. Ferrus]	10	
 orth	Gravelle		
 pb	355	0359	4812610
@@ -598,7 +631,9 @@ pb	362	0366	4812617
 pb	363	0367	4812618
 pb	364	0368	4812619
 entry	Gravier	0	
+orth	Gravier		
 entry	Grèle	0	
+orth	Grèle		
 entry	Grêle [Jules Cloquet]	1	
 orth	Grêle		
 pb	365	0369	4812620
@@ -619,9 +654,13 @@ pb	371	0375	4812626
 pb	372	0376	4812627
 pb	373	0377	4812628
 entry	Grippe	0	
+orth	Grippe		
 entry	Grippé	0	
+orth	Grippé		
 entry	Gros	0	
+orth	Gros		
 entry	Groseille	0	
+orth	Groseille		
 entry	Groseiller [A. Richard]	1	
 orth	Groseiller		
 pb	374	0378	4812629
@@ -726,11 +765,13 @@ pb	468	0472	4812723
 pb	469	0473	4812724
 pb	470	0474	4812725
 entry	Gruau	0	
+orth	Gruau		
 entry	Guêpe [Hippol. Cloquet]	2	
 orth	Guêpe		
 pb	471	0475	4812726
 pb	472	0476	4812727
 entry	Guérison	0	
+orth	Guérison		
 entry	Gui [A. Richard]	1	
 orth	Gui		
 pb	473	0477	4812728
@@ -820,6 +861,7 @@ orth	Haleine
 pb	535	0539	4812790
 pb	536	0540	4812791
 entry	Halitueux	0	
+orth	Halitueux		
 entry	Hallucination et Allucination [Georget]	0	
 orth	Hallucination		
 orth	Allucination		
@@ -841,6 +883,7 @@ entry	Harmonie [A. Béclard]	1
 orth	Harmonie		
 pb	547	0551	4812802
 entry	Haut-mal	0	
+orth	Haut-mal		
 entry	Hectique [Coutanceau]	6	
 orth	Hectique		
 pb	548	0552	4812803
@@ -855,6 +898,7 @@ entry	Helminthagogue, Helminthique	0
 orth	Helminthagogue		
 orth	Helminthique		
 entry	Helminthiase	0	
+orth	Helminthiase		
 entry	Hématémèse [Chomel]	11	
 orth	Hématémèse		
 pb	554	0558	4812809
@@ -898,7 +942,9 @@ pb	579	0583	4812834
 pb	[s. pag.]	0584	4812835
 pb	[s. pag.]	0585	4812836
 entry	Table des principaux articles contenus dans le dixième volume	0	
+orth	Table des principaux articles contenus dans le dixième volume		
 pb	[s. pag.]	0586	4812837
 pb	[s. pag.]	0587	4812838
 entry	Distribution des matières	0	
+orth	Distribution des matières		
 pb	[s. pag.]	0588	4812839

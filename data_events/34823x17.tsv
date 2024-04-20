@@ -2,10 +2,12 @@ pb	[s. pag.]	0001	4801602
 entry	[Page de faux-titre]	0	
 pb	[s. pag.]	0002	4801603
 entry	Liste des collaborateurs du dix-septième volume	0	
+orth	Liste des collaborateurs du dix-septième volume		
 pb	[s. pag.]	0003	4801604
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	4801605
 entry	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles	0	
+orth	Liste des auteurs qui ont collaboré à ce volume avec indication de leurs articles		
 pb	1	0005	4801606
 entry	Peste bovine [F. Peuch]	51	
 orth	Peste bovine		
@@ -73,11 +75,17 @@ pb	60	0064	4801665
 entry	Pétéchies [L. Trasbot]. Pharyngite	0	
 orth	Pétéchies. Pharyngite		
 entry	Phimosis	0	
+orth	Phimosis		
 entry	Plhébite	0	
+orth	Plhébite		
 entry	Phlegmasie	0	
+orth	Phlegmasie		
 entry	Phlegmon	0	
+orth	Phlegmon		
 entry	Phlyctène	0	
+orth	Phlyctène		
 entry	Photophobie	0	
+orth	Photophobie		
 entry	Phtiriase. – Poux [A. Railliet]	31	
 orth	Phtiriase. – Poux		
 pb	61	0065	4801666
@@ -225,8 +233,11 @@ pb	192	0196	4801797
 entry	Piétin [F. Peuch]. Pinçard	0	
 orth	Piétin. Pinçard		
 entry	Piqûre	0	
+orth	Piqûre		
 entry	Pisse	0	
+orth	Pisse		
 entry	Pissement de sang	0	
+orth	Pissement de sang		
 entry	Plaies [C. Cadéac]	72	
 orth	Plaies		
 pb	193	0197	4801798
@@ -325,7 +336,9 @@ pb	279	0283	4801884
 entry	Pléthore [A. Labat]. Pleurésie	0	
 orth	Pléthore. Pleurésie		
 entry	Pleurodynie	0	
+orth	Pleurodynie		
 entry	Pleuropneumonie	0	
+orth	Pleuropneumonie		
 entry	Plèvres (Anatomie) [G. Moussu]	0	
 orth	Plèvres (Anatomie)		
 pb	280	0284	4801885
@@ -457,8 +470,11 @@ pb	387	0391	4801992
 pb	388	0392	4801993
 pb	389	0393	4801994
 entry	Tumeurs et parasites de la plèvre	0	
+orth	Tumeurs et parasites de la plèvre		
 entry	Pneumatocèle	0	
+orth	Pneumatocèle		
 entry	Pneumocèle	0	
+orth	Pneumocèle		
 entry	Pneumogastrique [E. Leclainche]	11	
 orth	Pneumogastrique		
 pb	390	0394	4801995
@@ -476,9 +492,13 @@ pb	401	0405	4802006
 entry	Pneumogastrique [E. Leclainche]. Pneumonie	0	
 orth	Pneumogastrique. Pneumonie		
 entry	Pneumomycosis	0	
+orth	Pneumomycosis		
 entry	Pneumopéricarde	0	
+orth	Pneumopéricarde		
 entry	Pneumorrhagie	0	
+orth	Pneumorrhagie		
 entry	Pneumothorax	0	
+orth	Pneumothorax		
 entry	Poches gutturales (Pathologie) [P. J. Cadiot]	7	
 orth	Poches gutturales (Pathologie)		
 pb	402	0406	4802007
@@ -611,6 +631,7 @@ pb	510	0514	4802115
 pb	511	0515	4802116
 pb	512	0516	4802117
 entry	Pommelière	0	
+orth	Pommelière		
 entry	Ponction [P. J. Cadiot]	33	
 orth	Ponction		
 pb	513	0517	4802118
@@ -650,6 +671,7 @@ pb	546	0550	4802151
 entry	Ponction [P. J. Cadiot]. Porc	0	
 orth	Ponction. Porc		
 entry	Pou	0	
+orth	Pou		
 entry	Poulinière [A. Sanson]	12	
 orth	Poulinière		
 pb	547	0551	4802152
@@ -708,5 +730,6 @@ pb	597	0601	4802202
 pb	598	0602	4802203
 pb	599	0603	4802204
 entry	Table générale par ordre alphabétique	2	
+orth	Table générale par ordre alphabétique		
 pb	600	0604	4802205
 pb	601	0605	4802206

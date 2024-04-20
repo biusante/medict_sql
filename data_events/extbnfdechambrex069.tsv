@@ -6,6 +6,7 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0004	4571670
 pb	1	0005	4571671
 entry	Oreille	0	
+orth	Oreille		
 entry	Oreille. Anatomie [C. Coÿne]	113	
 orth	Oreille. Anatomie		
 pb	2	0006	4571672
@@ -165,6 +166,7 @@ pb	149	0153	4571819
 pb	150	0154	4571820
 pb	151	0155	4571821
 entry	Pathologie	0	
+orth	Pathologie		
 entry	Oreille. Pathologie. Généralités [Ladreit de Lacharrière]	4	
 orth	Oreille. Pathologie. Généralités		
 pb	152	0156	4571822
@@ -337,8 +339,10 @@ entry	Oreille. Pathologie. Otalgie [Ladreit de Lacharrière]	1
 orth	Oreille. Pathologie. Otalgie		
 pb	296	0300	4571966
 entry	Surdité nerveuse	0	
+orth	Surdité nerveuse		
 ref	Surdité		
 entry	Fractures et lésions organiques du Rocher	0	
+orth	Fractures et lésions organiques du Rocher		
 ref	Crâne		
 entry	Oreille. Pathologie. Bibliographie [L. Hahn]	13	
 orth	Oreille. Pathologie. Bibliographie		
@@ -433,6 +437,7 @@ orth	Oreomalia
 entry	Oreoselinum [G. Planchon]	0	
 orth	Oreoselinum		
 entry	Oréosélone	0	
+orth	Oréosélone		
 ref	Orosélone		
 entry	Orestion [G. Planchon]	0	
 orth	Orestion		
@@ -622,28 +627,34 @@ orth	Organe, Organique, Organisés (État, Corps et Matière). Organisation, Org
 pb	534	0538	4572204
 pb	535	0539	4572205
 entry	Organe de Corti	0	
+orth	Organe de Corti		
 ref	Oreille interne		
 entry	Organe de Jacobson [Amédée Dechambre]	0	
 orth	Organe de Jacobson		
 entry	Organe de Rosenmüller	0	
+orth	Organe de Rosenmüller		
 ref	Corps de Wolff		
 pb	536	0540	4572206
 entry	Organes (Changement de volume des) [François-Frank]	1	
 orth	Organes (Changement de volume des)		
 pb	537	0541	4572207
 entry	Organicisme	0	
+orth	Organicisme		
 ref	Organe		
 entry	Organisation	0	
+orth	Organisation		
 ref	Organe		
 entry	Organisation médicale [Amédée Dechambre]	0	
 orth	Organisation médicale		
 entry	Organisme	0	
+orth	Organisme		
 ref	Organe		
 entry	Organogénie [Amédée Dechambre]	0	
 orth	Organogénie		
 entry	Organoleptique (Propriété) [Amédée Dechambre]	0	
 orth	Organoleptique (Propriété)		
 entry	Organologie, Organographie	0	
+orth	Organologie, Organographie		
 ref	Organe		
 entry	Organo-métalliques (Composés ou radicaux) [L. Hahn]	2	
 orth	Organo-métalliques (Composés ou radicaux)		
@@ -652,6 +663,7 @@ pb	539	0543	4572209
 entry	Orgasme [Amédée Dechambre]	0	
 orth	Orgasme		
 entry	Orge	0	
+orth	Orge		
 entry	Orge. Botanique [G. Planchon] (bibliographie)	1	
 orth	Orge. Botanique		
 pb	540	0544	4572210
@@ -664,8 +676,10 @@ entry	Orgeat (Sirop d') [Amédée Dechambre]	1
 orth	Orgeat (Sirop d')		
 pb	542	0546	4572212
 entry	Orgelet	0	
+orth	Orgelet		
 ref	Paupières		
 entry	Orgueil (Monomanie de l')	0	
+orth	Orgueil (Monomanie de l')		
 ref	Monomanie		
 ref	paralysie générale		
 entry	Oriachloe [G. Planchon] (bibliographie)	0	
@@ -679,8 +693,10 @@ orth	Oribate
 entry	Oricia [G. Planchon]	0	
 orth	Oricia		
 entry	Orient (Écoles médicales d')	0	
+orth	Orient (Écoles médicales d')		
 ref	Écoles		
 entry	Origan	0	
+orth	Origan		
 entry	Origan. Botanique [G. Planchon]	1	
 orth	Origan. Botanique		
 pb	545	0549	4572215
@@ -708,6 +724,7 @@ pb	550	0554	4572220
 entry	Orlovius (Andreas-Johann) [L. Hahn] (bibliographie)	0	
 orth	Orlovius (Andreas-Johann)		
 entry	Orme	0	
+orth	Orme		
 entry	Orme. Botanique [H. Baillon]	2	
 orth	Orme. Botanique		
 pb	551	0555	4572221
@@ -770,6 +787,7 @@ pb	567	0571	4572237
 entry	Orobanche [G. Planchon] (bibliographie)	0	
 orth	Orobanche		
 entry	Orobe	0	
+orth	Orobe		
 entry	Botanique [G. Planchon]	0	
 orth	Botanique		
 entry	Orobe. Emploi médical [Ernest Labbée] (bibliographie)	1	
@@ -785,6 +803,7 @@ pb	569	0573	4572239
 entry	Oropesa (Francisco-Sanchez de) [L. Hahn] (bibliographie)	0	
 orth	Oropesa (Francisco-Sanchez de)		
 entry	Oroséline	0	
+orth	Oroséline		
 ref	Orosélone		
 entry	Orosélone [L. Hahn]	1	
 orth	Orosélone		
@@ -853,6 +872,7 @@ pb	603	0607	4572273
 entry	Orseilles [G. Planchon] (bibliographie)	0	
 orth	Orseilles		
 entry	Orsellinique (Acide)	0	
+orth	Orsellinique (Acide)		
 ref	Orsellique		
 entry	Orsellique (Acide) [L. Hahn]	5	
 orth	Orsellique (Acide)		
@@ -880,6 +900,7 @@ pb	612	0616	4572282
 entry	Ortega (Les) [L. Hahn] (bibliographie)	0	
 orth	Ortega (Les)		
 entry	Orteils	0	
+orth	Orteils		
 entry	Orteils. Anatomie [V. Paulet]	7	
 orth	Orteils. Anatomie		
 pb	613	0617	4572283
@@ -890,6 +911,7 @@ pb	617	0621	4572287
 pb	618	0622	4572288
 pb	619	0623	4572289
 entry	Pathologie chirurgicale	0	
+orth	Pathologie chirurgicale		
 entry	Orteils. Pathologie chirurgicale. Anomalies et difformités [V. Paulet]	20	
 orth	Orteils. Pathologie chirurgicale. Anomalies et difformités		
 pb	620	0624	4572290
@@ -1082,6 +1104,7 @@ entry	Orthoscope [Amédée Dechambre]	1
 orth	Orthoscope		
 pb	746	0750	4572416
 entry	Ortie	0	
+orth	Ortie		
 entry	Ortie. Botanique [H. Baillon]	2	
 orth	Ortie. Botanique		
 pb	747	0751	4572417
@@ -1130,8 +1153,10 @@ pb	759	0763	4572429
 entry	Oryctérope [E. Oustalet] (bibliographie)	0	
 orth	Oryctérope		
 entry	Oryza	0	
+orth	Oryza		
 ref	Ris		
 pb	[s. pag.]	0764	4572430
 pb	761	0765	4572431
 entry	Articles contenus dans le dix-septième volume (2e série)	1	
+orth	Articles contenus dans le dix-septième volume (2e série)		
 pb	762	0766	4572432

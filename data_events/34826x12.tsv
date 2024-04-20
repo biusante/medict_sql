@@ -5,7 +5,9 @@ pb	[s. pag.]	0003	454713
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	454714
 entry	Néphralgie	0	
+orth	Néphralgie		
 entry	Néphrite	7	
+orth	Néphrite		
 pb	2	0005	454715
 pb	3	0006	454716
 pb	4	0007	454717
@@ -14,9 +16,11 @@ pb	6	0009	454719
 pb	7	0010	454720
 pb	8	0011	454721
 entry	Néphrotomie	2	
+orth	Néphrotomie		
 pb	9	0012	454722
 pb	10	0013	454723
 entry	Nerf	7	
+orth	Nerf		
 pb	11	0014	454724
 pb	12	0015	454725
 pb	13	0016	454726
@@ -25,10 +29,13 @@ pb	15	0018	454728
 pb	16	0019	454729
 pb	17	0020	454730
 entry	Néroli	0	
+orth	Néroli		
 entry	Nerprun	2	
+orth	Nerprun		
 pb	18	0021	454731
 pb	19	0022	454732
 entry	Névralgie	34	
+orth	Névralgie		
 pb	20	0023	454733
 pb	21	0024	454734
 pb	22	0025	454735
@@ -64,10 +71,13 @@ pb	51	0054	454764
 pb	52	0055	454765
 pb	53	0056	454766
 entry	Névrilémite	0	
+orth	Névrilémite		
 entry	Névrite	2	
+orth	Névrite		
 pb	54	0057	454767
 pb	55	0058	454768
 entry	Névrose	8	
+orth	Névrose		
 pb	56	0059	454769
 pb	57	0060	454770
 pb	58	0061	454771
@@ -77,13 +87,19 @@ pb	61	0064	454774
 pb	62	0065	454775
 pb	63	0066	454776
 entry	Nicotiane	0	
+orth	Nicotiane		
 entry	Nitrates	1	
+orth	Nitrates		
 pb	64	0067	454777
 entry	Nitre	0	
+orth	Nitre		
 entry	Nitreux	1	
+orth	Nitreux		
 pb	65	0068	454778
 entry	Nitrate	0	
+orth	Nitrate		
 entry	Nitrique	6	
+orth	Nitrique		
 pb	66	0069	454779
 pb	67	0070	454780
 pb	68	0071	454781
@@ -91,14 +107,18 @@ pb	69	0072	454782
 pb	70	0073	454783
 pb	71	0074	454784
 entry	Noeud d'emballeur	0	
+orth	Noeud d'emballeur		
 entry	Noix de galle	1	
+orth	Noix de galle		
 pb	72	0075	454785
 entry	Noix de vomique	4	
+orth	Noix de vomique		
 pb	73	0076	454786
 pb	74	0077	454787
 pb	75	0078	454788
 pb	76	0079	454789
 entry	Nostalgie	8	
+orth	Nostalgie		
 pb	77	0080	454790
 pb	78	0081	454791
 pb	79	0082	454792
@@ -108,40 +128,54 @@ pb	82	0085	454795
 pb	83	0086	454796
 pb	84	0087	454797
 entry	Nourrice	4	
+orth	Nourrice		
 pb	85	0088	454798
 pb	86	0089	454799
 pb	87	0090	454800
 pb	88	0091	454801
 entry	Noyés	0	
+orth	Noyés		
 entry	Nyctalopie	2	
+orth	Nyctalopie		
 pb	89	0092	454802
 pb	90	0093	454803
 entry	Nymphes	3	
+orth	Nymphes		
 pb	91	0094	454804
 pb	92	0095	454805
 pb	93	0096	454806
 entry	Nymphomanie	4	
+orth	Nymphomanie		
 pb	94	0097	454807
 pb	95	0098	454808
 pb	96	0099	454809
 pb	97	0100	454810
 entry	Lettre O	0	
+orth	Lettre O		
 entry	Obésité	1	
+orth	Obésité		
 pb	98	0101	454811
 entry	Obliquite	0	
+orth	Obliquite		
 entry	Oblitération	5	
+orth	Oblitération		
 pb	99	0102	454812
 pb	100	0103	454813
 pb	101	0104	454814
 pb	102	0105	454815
 pb	103	0106	454816
 entry	Obstacles	0	
+orth	Obstacles		
 entry	Obstipité	0	
+orth	Obstipité		
 entry	Obstruction	0	
+orth	Obstruction		
 entry	Obturateur	2	
+orth	Obturateur		
 pb	104	0107	454817
 pb	105	0108	454818
 entry	Occlusion	7	
+orth	Occlusion		
 pb	106	0109	454819
 pb	107	0110	454820
 pb	108	0111	454821
@@ -150,7 +184,9 @@ pb	110	0113	454823
 pb	111	0114	454824
 pb	112	0115	454825
 entry	Odontalgie	0	
+orth	Odontalgie		
 entry	Oedème	17	
+orth	Oedème		
 pb	113	0116	454826
 pb	114	0117	454827
 pb	115	0118	454828
@@ -172,6 +208,7 @@ pb	130	0133	454843
 pb	131	0134	454844
 pb	132	0135	454845
 entry	Oeil	9	
+orth	Oeil		
 pb	133	0136	454846
 pb	134	0137	454847
 pb	135	0138	454848
@@ -182,18 +219,22 @@ pb	139	0142	454852
 pb	140	0143	454853
 pb	141	0144	454854
 entry	Oesophage	4	
+orth	Oesophage		
 pb	142	0145	454855
 pb	143	0146	454856
 pb	144	0147	454857
 pb	145	0148	454858
 entry	Oesophagisme	1	
+orth	Oesophagisme		
 pb	146	0149	454859
 entry	Oesophagite	4	
+orth	Oesophagite		
 pb	147	0150	454860
 pb	148	0151	454861
 pb	149	0152	454862
 pb	150	0153	454863
 entry	Oesophagotomie	6	
+orth	Oesophagotomie		
 pb	151	0154	454864
 pb	152	0155	454865
 pb	153	0156	454866
@@ -201,6 +242,7 @@ pb	154	0157	454867
 pb	155	0158	454868
 pb	156	0159	454869
 entry	Oléate	0	
+orth	Oléate		
 entry	Oleosaccharum ou Elaeosaccharum	0	
 orth	Oleosaccharum		
 orth	Elaeosaccharum		
@@ -209,23 +251,31 @@ orth	Oliban
 orth	Encens		
 pb	157	0160	454870
 entry	Ombilic	3	
+orth	Ombilic		
 pb	158	0161	454871
 pb	159	0162	454872
 pb	160	0163	454873
 entry	Ombilical	0	
+orth	Ombilical		
 entry	Omphalocèle	0	
+orth	Omphalocèle		
 entry	Onction	1	
+orth	Onction		
 pb	161	0164	454874
 entry	Ongle	4	
+orth	Ongle		
 pb	162	0165	454875
 pb	163	0166	454876
 pb	164	0167	454877
 pb	165	0168	454878
 entry	Onglet	0	
+orth	Onglet		
 entry	Onguent	2	
+orth	Onguent		
 pb	166	0169	454879
 pb	167	0170	454880
 entry	Onyxis	9	
+orth	Onyxis		
 pb	168	0171	454881
 pb	169	0172	454882
 pb	170	0173	454883
@@ -236,6 +286,7 @@ pb	174	0177	454887
 pb	175	0178	454888
 pb	176	0179	454889
 entry	Ophthalmie	37	
+orth	Ophthalmie		
 pb	177	0180	454890
 pb	178	0181	454891
 pb	179	0182	454892
@@ -274,9 +325,13 @@ pb	211	0214	454924
 pb	212	0215	454925
 pb	213	0216	454926
 entry	Ophthalmodynie	0	
+orth	Ophthalmodynie		
 entry	Opiat	0	
+orth	Opiat		
 entry	Opistothonos	0	
+orth	Opistothonos		
 entry	Opium	37	
+orth	Opium		
 pb	214	0217	454927
 pb	215	0218	454928
 pb	216	0219	454929
@@ -315,8 +370,10 @@ pb	248	0251	454961
 pb	249	0252	454962
 pb	250	0253	454963
 entry	Opopanax	1	
+orth	Opopanax		
 pb	251	0254	454964
 entry	Or	14	
+orth	Or		
 pb	252	0255	454965
 pb	253	0256	454966
 pb	254	0257	454967
@@ -332,8 +389,10 @@ pb	263	0266	454976
 pb	264	0267	454977
 pb	265	0268	454978
 entry	Oranger	1	
+orth	Oranger		
 pb	266	0269	454979
 entry	Orchite	8	
+orth	Orchite		
 pb	267	0270	454980
 pb	268	0271	454981
 pb	269	0272	454982
@@ -343,6 +402,7 @@ pb	272	0275	454985
 pb	273	0276	454986
 pb	274	0277	454987
 entry	Oreille	7	
+orth	Oreille		
 pb	275	0278	454988
 pb	276	0279	454989
 pb	277	0280	454990
@@ -351,18 +411,22 @@ pb	279	0282	454992
 pb	280	0283	454993
 pb	281	0284	454994
 entry	Oreillon	5	
+orth	Oreillon		
 pb	282	0285	454995
 pb	283	0286	454996
 pb	284	0287	454997
 pb	285	0288	454998
 pb	286	0289	454999
 entry	Orge	0	
+orth	Orge		
 entry	Orgelet ou Orgeolet	1	
 orth	Orgelet		
 orth	Orgeolet		
 pb	287	0290	455000
 entry	Orpiment	0	
+orth	Orpiment		
 entry	Orthopédie	16	
+orth	Orthopédie		
 pb	288	0291	455001
 pb	289	0292	455002
 pb	290	0293	455003
@@ -380,21 +444,29 @@ pb	301	0304	455014
 pb	302	0305	455015
 pb	303	0306	455016
 entry	Ortie	2	
+orth	Ortie		
 pb	304	0307	455017
 pb	305	0308	455018
 entry	Ortiée	0	
+orth	Ortiée		
 entry	Os	3	
+orth	Os		
 pb	306	0309	455019
 pb	307	0310	455020
 pb	308	0311	455021
 entry	Oschéocèle	0	
+orth	Oschéocèle		
 entry	Oseille	1	
+orth	Oseille		
 pb	309	0312	455022
 entry	Osmazome	1	
+orth	Osmazome		
 pb	310	0313	455023
 entry	Ossifications	1	
+orth	Ossifications		
 pb	311	0314	455024
 entry	Ostéite	70	
+orth	Ostéite		
 pb	312	0315	455025
 pb	313	0316	455026
 pb	314	0317	455027
@@ -466,6 +538,7 @@ pb	379	0382	455092
 pb	380	0383	455093
 pb	381	0384	455094
 entry	Ostéocope	4	
+orth	Ostéocope		
 pb	382	0385	455095
 pb	383	0386	455096
 pb	384	0387	455097
@@ -476,11 +549,14 @@ orth	Ostéoealacie
 pb	386	0389	455099
 pb	387	0390	455100
 entry	Ostéosarcome	3	
+orth	Ostéosarcome		
 pb	388	0391	455101
 pb	389	0392	455102
 pb	390	0393	455103
 entry	Otalgie	0	
+orth	Otalgie		
 entry	Otite	13	
+orth	Otite		
 pb	391	0394	455104
 pb	392	0395	455105
 pb	393	0396	455106
@@ -495,7 +571,9 @@ pb	401	0404	455114
 pb	402	0405	455115
 pb	403	0406	455116
 entry	Otorrhée	0	
+orth	Otorrhée		
 entry	Ouverture juridique des corps	6	
+orth	Ouverture juridique des corps		
 pb	404	0407	455117
 pb	405	0408	455118
 pb	406	0409	455119
@@ -503,21 +581,25 @@ pb	407	0410	455120
 pb	408	0411	455121
 pb	409	0412	455122
 entry	Ovaires	5	
+orth	Ovaires		
 pb	410	0413	455123
 pb	411	0414	455124
 pb	412	0415	455125
 pb	413	0416	455126
 pb	414	0417	455127
 entry	Ovarite	5	
+orth	Ovarite		
 pb	415	0418	455128
 pb	416	0419	455129
 pb	417	0420	455130
 pb	418	0421	455131
 pb	419	0422	455132
 entry	Oxalique	2	
+orth	Oxalique		
 pb	420	0423	455133
 pb	421	0424	455134
 entry	Oxigène	7	
+orth	Oxigène		
 pb	422	0425	455135
 pb	423	0426	455136
 pb	424	0427	455137
@@ -529,19 +611,25 @@ entry	Oximel ou Oximellite	0
 orth	Oximel		
 orth	Oximellite		
 entry	Oxyures	0	
+orth	Oxyures		
 entry	Ozène	3	
+orth	Ozène		
 pb	429	0432	455142
 pb	430	0433	455143
 pb	431	0434	455144
 entry	Lettre P	0	
+orth	Lettre P		
 entry	Pain	0	
+orth	Pain		
 entry	Palatite	5	
+orth	Palatite		
 pb	432	0435	455145
 pb	433	0436	455146
 pb	434	0437	455147
 pb	435	0438	455148
 pb	436	0439	455149
 entry	Palpitations	6	
+orth	Palpitations		
 pb	437	0440	455150
 pb	438	0441	455151
 pb	439	0442	455152
@@ -549,6 +637,7 @@ pb	440	0443	455153
 pb	441	0444	455154
 pb	442	0445	455155
 entry	Panaris	10	
+orth	Panaris		
 pb	443	0446	455156
 pb	444	0447	455157
 pb	445	0448	455158
@@ -565,9 +654,12 @@ orth	Pancréatite
 pb	453	0456	455166
 pb	454	0457	455167
 entry	Pansement	0	
+orth	Pansement		
 entry	Papulé	1	
+orth	Papulé		
 pb	455	0458	455168
 entry	Paracentèse	8	
+orth	Paracentèse		
 pb	456	0459	455169
 pb	457	0460	455170
 pb	458	0461	455171
@@ -581,22 +673,29 @@ orth	Paracousie
 orth	Paracuse		
 pb	464	0467	455177
 entry	Paralysie	3	
+orth	Paralysie		
 pb	465	0468	455178
 pb	466	0469	455179
 pb	467	0470	455180
 entry	Paraphimosis	5	
+orth	Paraphimosis		
 pb	468	0471	455181
 pb	469	0472	455182
 pb	470	0473	455183
 pb	471	0474	455184
 pb	472	0475	455185
 entry	Paraphrenésie	1	
+orth	Paraphrenésie		
 pb	473	0476	455186
 entry	Paraplégie	0	
+orth	Paraplégie		
 entry	Pareira-brava	0	
+orth	Pareira-brava		
 pb	474	0477	455187
 entry	Paracephalocèle	0	
+orth	Paracephalocèle		
 entry	Pariétaire	0	
+orth	Pariétaire		
 entry	Parotide et Parotidite	5	
 orth	Parotide		
 orth	Parotidite		
@@ -606,22 +705,32 @@ pb	477	0480	455190
 pb	478	0481	455191
 pb	479	0482	455192
 entry	Paroxysme	0	
+orth	Paroxysme		
 entry	Part	5	
+orth	Part		
 pb	480	0483	455193
 pb	481	0484	455194
 pb	482	0485	455195
 pb	483	0486	455196
 pb	484	0487	455197
 entry	Parturition	0	
+orth	Parturition		
 entry	Parulie	1	
+orth	Parulie		
 pb	485	0488	455198
 entry	Pas d'ane	0	
+orth	Pas d'ane		
 entry	Pastilles	0	
+orth	Pastilles		
 entry	Pates	1	
+orth	Pates		
 pb	486	0489	455199
 entry	Pate arsenicale	0	
+orth	Pate arsenicale		
 entry	Patience	0	
+orth	Patience		
 entry	Paupières	6	
+orth	Paupières		
 pb	487	0490	455200
 pb	488	0491	455201
 pb	489	0492	455202
@@ -629,7 +738,9 @@ pb	490	0493	455203
 pb	491	0494	455204
 pb	492	0495	455205
 entry	Pavot	0	
+orth	Pavot		
 entry	Peau	8	
+orth	Peau		
 pb	493	0496	455206
 pb	494	0497	455207
 pb	495	0498	455208
@@ -639,15 +750,20 @@ pb	498	0501	455211
 pb	499	0502	455212
 pb	500	0503	455213
 entry	Pêcher	1	
+orth	Pêcher		
 pb	501	0504	455214
 entry	Pectorales, Pectoraux	1	
 orth	Pectorales		
 orth	Pectoraux		
 pb	502	0505	455215
 entry	Pectoriloquie	0	
+orth	Pectoriloquie		
 entry	Pediluves	0	
+orth	Pediluves		
 entry	Pelican	0	
+orth	Pelican		
 entry	Pellagre	13	
+orth	Pellagre		
 pb	503	0506	455216
 pb	504	0507	455217
 pb	505	0508	455218
@@ -662,7 +778,9 @@ pb	513	0516	455226
 pb	514	0517	455227
 pb	515	0518	455228
 entry	Pelvimètre	0	
+orth	Pelvimètre		
 entry	Pemphigus	11	
+orth	Pemphigus		
 pb	516	0519	455229
 pb	517	0520	455230
 pb	518	0521	455231
@@ -675,6 +793,7 @@ pb	524	0527	455237
 pb	525	0528	455238
 pb	526	0529	455239
 entry	Pendaison	16	
+orth	Pendaison		
 pb	527	0530	455240
 pb	528	0531	455241
 pb	529	0532	455242
@@ -692,9 +811,12 @@ pb	540	0543	455253
 pb	541	0544	455254
 pb	542	0545	455255
 entry	Pensée sauvage	1	
+orth	Pensée sauvage		
 pb	543	0546	455256
 entry	Perce-crane	0	
+orth	Perce-crane		
 entry	Percussion	11	
+orth	Percussion		
 pb	544	0547	455257
 pb	545	0548	455258
 pb	546	0549	455259
@@ -707,10 +829,12 @@ pb	552	0555	455265
 pb	553	0556	455266
 pb	554	0557	455267
 entry	Perforations spontanées	3	
+orth	Perforations spontanées		
 pb	555	0558	455268
 pb	556	0559	455269
 pb	557	0560	455270
 entry	Péricardite	22	
+orth	Péricardite		
 pb	558	0561	455271
 pb	559	0562	455272
 pb	560	0563	455273
@@ -734,17 +858,21 @@ pb	577	0580	455290
 pb	578	0581	455291
 pb	579	0582	455292
 entry	Périostite	3	
+orth	Périostite		
 pb	580	0583	455293
 pb	581	0584	455294
 pb	582	0585	455295
 entry	Péripneumonie	0	
+orth	Péripneumonie		
 entry	Péritoine	5	
+orth	Péritoine		
 pb	583	0586	455296
 pb	584	0587	455297
 pb	585	0588	455298
 pb	586	0589	455299
 pb	587	0590	455300
 entry	Péritonite	11	
+orth	Péritonite		
 pb	588	0591	455301
 pb	589	0592	455302
 pb	590	0593	455303
@@ -757,13 +885,19 @@ pb	596	0599	455309
 pb	597	0600	455310
 pb	598	0601	455311
 entry	Perméabilité	1	
+orth	Perméabilité		
 pb	599	0602	455312
 entry	Pernicieuses	0	
+orth	Pernicieuses		
 entry	Pertes	0	
+orth	Pertes		
 entry	Pervenche	1	
+orth	Pervenche		
 pb	600	0603	455313
 entry	Pessaires	0	
+orth	Pessaires		
 entry	Peste	20	
+orth	Peste		
 pb	601	0604	455314
 pb	602	0605	455315
 pb	603	0606	455316
@@ -785,25 +919,34 @@ pb	618	0621	455331
 pb	619	0622	455332
 pb	620	0623	455333
 entry	Pétéchie	0	
+orth	Pétéchie		
 entry	Petit chène	0	
+orth	Petit chène		
 entry	Petit lait	1	
+orth	Petit lait		
 pb	621	0624	455334
 entry	Pétrole	0	
+orth	Pétrole		
 entry	Pharyngite	5	
+orth	Pharyngite		
 pb	622	0625	455335
 pb	623	0626	455336
 pb	624	0627	455337
 pb	625	0628	455338
 pb	626	0629	455339
 entry	Pharyngotome	2	
+orth	Pharyngotome		
 pb	627	0630	455340
 pb	628	0631	455341
 entry	Pharynx	2	
+orth	Pharynx		
 pb	629	0632	455342
 pb	630	0633	455343
 entry	Phellandrie aquatique	1	
+orth	Phellandrie aquatique		
 pb	631	0634	455344
 entry	Phimosis	6	
+orth	Phimosis		
 pb	632	0635	455345
 pb	633	0636	455346
 pb	634	0637	455347
@@ -811,6 +954,7 @@ pb	635	0638	455348
 pb	636	0639	455349
 pb	637	0640	455350
 entry	Phlébite	44	
+orth	Phlébite		
 pb	638	0641	455351
 pb	639	0642	455352
 pb	640	0643	455353
@@ -856,8 +1000,11 @@ pb	679	0682	455392
 pb	680	0683	455393
 pb	681	0684	455394
 entry	Phlébotomie	0	
+orth	Phlébotomie		
 entry	Phlegmasie	0	
+orth	Phlegmasie		
 entry	Phlegmasia alba dolens	7	
+orth	Phlegmasia alba dolens		
 pb	682	0685	455395
 pb	683	0686	455396
 pb	684	0687	455397
@@ -866,6 +1013,7 @@ pb	686	0689	455399
 pb	687	0690	455400
 pb	688	0691	455401
 entry	Phlegmon	8	
+orth	Phlegmon		
 pb	689	0692	455402
 pb	690	0693	455403
 pb	691	0694	455404
@@ -875,12 +1023,18 @@ pb	694	0697	455407
 pb	695	0698	455408
 pb	696	0699	455409
 entry	Phlyctènes	0	
+orth	Phlyctènes		
 entry	Phlycténoide	1	
+orth	Phlycténoide		
 pb	697	0700	455410
 entry	Phlyzacium	0	
+orth	Phlyzacium		
 entry	Phosphate	0	
+orth	Phosphate		
 entry	Phosphatique	0	
+orth	Phosphatique		
 entry	Phosphore	13	
+orth	Phosphore		
 pb	698	0701	455411
 pb	699	0702	455412
 pb	700	0703	455413
@@ -895,12 +1049,17 @@ pb	708	0711	455421
 pb	709	0712	455422
 pb	710	0713	455423
 entry	Phosphoreux	0	
+orth	Phosphoreux		
 entry	Phosphorique	1	
+orth	Phosphorique		
 pb	711	0714	455424
 entry	Phosphorique (thérapeutique)	1	
+orth	Phosphorique (thérapeutique)		
 pb	712	0715	455425
 entry	Phrénésie	0	
+orth	Phrénésie		
 entry	Phthiriase	7	
+orth	Phthiriase		
 pb	713	0716	455426
 pb	714	0717	455427
 pb	715	0718	455428

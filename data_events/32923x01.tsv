@@ -6,9 +6,11 @@ pb	[s. pag.]	0003	7282998
 entry	[Page de titre]	0	
 pb	[s. pag.]	0004	7282999
 entry	Distribution des matières	0	
+orth	Distribution des matières		
 pb	VI	0005	7283000
 pb	[s. pag.]	0006	7283001
 entry	Introduction	0	
+orth	Introduction		
 pb	VIII	0007	7283002
 pb	IX	0008	7283003
 pb	X	0009	7283004
@@ -16,7 +18,9 @@ pb	XI	0010	7283005
 pb	XII	0011	7283006
 pb	[s. pag.]	0012	7283007
 entry	Lettre A	0	
+orth	Lettre A		
 entry	Abcès	34	
+orth	Abcès		
 pb	2	0013	7283008
 pb	3	0014	7283009
 pb	4	0015	7283010
@@ -53,6 +57,7 @@ pb	34	0045	7283040
 pb	35	0046	7283041
 pb	36	0047	7283042
 entry	Abdomen	97	
+orth	Abdomen		
 pb	37	0048	7283043
 pb	38	0049	7283044
 pb	39	0050	7283045
@@ -151,15 +156,18 @@ pb	131	0142	7283137
 pb	132	0143	7283138
 pb	133	0144	7283139
 entry	Absinthe	3	
+orth	Absinthe		
 pb	134	0145	7283140
 pb	135	0146	7283141
 pb	136	0147	7283142
 entry	Absorbants	4	
+orth	Absorbants		
 pb	137	0148	7283143
 pb	138	0149	7283144
 pb	139	0150	7283145
 pb	140	0151	7283146
 entry	Absorption	43	
+orth	Absorption		
 pb	141	0152	7283147
 pb	142	0153	7283148
 pb	143	0154	7283149
@@ -204,8 +212,11 @@ pb	181	0192	7283187
 pb	182	0193	7283188
 pb	183	0194	7283189
 entry	Abstinence	0	
+orth	Abstinence		
 entry	Acarus	0	
+orth	Acarus		
 entry	Acclimatement	25	
+orth	Acclimatement		
 pb	184	0195	7283190
 pb	185	0196	7283191
 pb	186	0197	7283192
@@ -232,6 +243,7 @@ pb	206	0217	7283212
 pb	207	0218	7283213
 pb	208	0219	7283214
 entry	Accommodation	17	
+orth	Accommodation		
 pb	209	0220	7283215
 pb	210	0221	7283216
 pb	211	0222	7283217
@@ -251,9 +263,11 @@ pb	224	0235	7283230
 pb	225	0236	7283231
 pb	226	0237	7283232
 entry	Accouchement	2	
+orth	Accouchement		
 pb	227	0238	7283233
 pb	228	0239	7283234
 entry	Accouchement naturel	58	
+orth	Accouchement naturel		
 pb	229	0240	7283235
 pb	230	0241	7283236
 pb	231	0242	7283237
@@ -313,6 +327,7 @@ pb	284	0295	7283290
 pb	285	0296	7283291
 pb	286	0297	7283292
 entry	Accouchement prématuré	24	
+orth	Accouchement prématuré		
 pb	287	0298	7283293
 pb	288	0299	7283294
 pb	289	0300	7283295
@@ -338,6 +353,7 @@ pb	308	0319	7283314
 pb	309	0320	7283315
 pb	310	0321	7283316
 entry	Accouchement	10	
+orth	Accouchement		
 pb	311	0322	7283317
 pb	312	0323	7283318
 pb	313	0324	7283319
@@ -349,10 +365,14 @@ pb	318	0329	7283324
 pb	319	0330	7283325
 pb	320	0331	7283326
 entry	Acéphalie	0	
+orth	Acéphalie		
 entry	Acéphalocystes	0	
+orth	Acéphalocystes		
 entry	Acétates	1	
+orth	Acétates		
 pb	321	0332	7283327
 entry	Acétique (Acide)	6	
+orth	Acétique (Acide)		
 pb	322	0333	7283328
 pb	323	0334	7283329
 pb	324	0335	7283330
@@ -360,6 +380,7 @@ pb	325	0336	7283331
 pb	326	0337	7283332
 pb	327	0338	7283333
 entry	Ache	1	
+orth	Ache		
 pb	328	0339	7283334
 pb	329	0340	7283335
 entry	Acides et acidules	7	
@@ -373,6 +394,7 @@ pb	334	0345	7283340
 pb	335	0346	7283341
 pb	336	0347	7283342
 entry	Acné	26	
+orth	Acné		
 pb	337	0348	7283343
 pb	338	0349	7283344
 pb	339	0350	7283345
@@ -400,6 +422,7 @@ pb	360	0371	7283366
 pb	361	0372	7283367
 pb	362	0373	7283368
 entry	Aconit	1	
+orth	Aconit		
 pb	363	0374	7283369
 entry	Aconit, aconitine	12	
 orth	Aconit		
@@ -417,8 +440,11 @@ pb	373	0384	7283379
 pb	374	0385	7283380
 pb	375	0386	7283381
 entry	Acorie	0	
+orth	Acorie		
 entry	Acoustiques (appareils)	0	
+orth	Acoustiques (appareils)		
 entry	Acrodynie	12	
+orth	Acrodynie		
 pb	376	0387	7283382
 pb	377	0388	7283383
 pb	378	0389	7283384
@@ -432,19 +458,25 @@ pb	385	0396	7283391
 pb	386	0397	7283392
 pb	387	0398	7283393
 entry	Acupressure	5	
+orth	Acupressure		
 pb	388	0399	7283394
 pb	389	0400	7283395
 pb	390	0401	7283396
 pb	391	0402	7283397
 pb	392	0403	7283398
 entry	Acupuncture	2	
+orth	Acupuncture		
 pb	393	0404	7283399
 pb	394	0405	7283400
 entry	Adaptation	0	
+orth	Adaptation		
 entry	Addison (maladie d')	0	
+orth	Addison (maladie d')		
 entry	Adénite	1	
+orth	Adénite		
 pb	395	0406	7283401
 entry	Adhérence	9	
+orth	Adhérence		
 pb	396	0407	7283402
 pb	397	0408	7283403
 pb	398	0409	7283404
@@ -455,18 +487,29 @@ pb	402	0413	7283408
 pb	403	0414	7283409
 pb	404	0415	7283410
 entry	Adhésifs	0	
+orth	Adhésifs		
 entry	Adolescence	0	
+orth	Adolescence		
 entry	Adoucissants	0	
+orth	Adoucissants		
 entry	Adragant	0	
+orth	Adragant		
 entry	Adulte	0	
+orth	Adulte		
 entry	Adynamie	0	
+orth	Adynamie		
 entry	Aegagropile	0	
+orth	Aegagropile		
 entry	Affection	0	
+orth	Affection		
 entry	Affusion	0	
+orth	Affusion		
 entry	Agaric	2	
+orth	Agaric		
 pb	405	0416	7283411
 pb	406	0417	7283412
 entry	Ages	20	
+orth	Ages		
 pb	407	0418	7283413
 pb	408	0419	7283414
 pb	409	0420	7283415
@@ -489,7 +532,9 @@ pb	425	0436	7283431
 pb	426	0437	7283432
 pb	427	0438	7283433
 entry	Agénesie	0	
+orth	Agénesie		
 entry	Agglutinatifs	7	
+orth	Agglutinatifs		
 pb	428	0439	7283434
 pb	429	0440	7283435
 pb	430	0441	7283436
@@ -498,6 +543,7 @@ pb	432	0443	7283438
 pb	433	0444	7283439
 pb	434	0445	7283440
 entry	Agonie	8	
+orth	Agonie		
 pb	435	0446	7283441
 pb	436	0447	7283442
 pb	437	0448	7283443
@@ -507,13 +553,18 @@ pb	440	0451	7283446
 pb	441	0452	7283447
 pb	442	0453	7283448
 entry	Aï	0	
+orth	Aï		
 entry	Aigreurs	0	
+orth	Aigreurs		
 entry	Aiguille	3	
+orth	Aiguille		
 pb	443	0454	7283449
 pb	444	0455	7283450
 pb	445	0456	7283451
 entry	Aimant	0	
+orth	Aimant		
 entry	Aine	10	
+orth	Aine		
 pb	446	0457	7283452
 pb	447	0458	7283453
 pb	448	0459	7283454
@@ -525,6 +576,7 @@ pb	453	0464	7283459
 pb	454	0465	7283460
 pb	455	0466	7283461
 entry	Air	19	
+orth	Air		
 pb	456	0467	7283462
 pb	457	0468	7283463
 pb	458	0469	7283464
@@ -545,6 +597,7 @@ pb	472	0483	7283478
 pb	473	0484	7283479
 pb	474	0485	7283480
 entry	Air marin	8	
+orth	Air marin		
 pb	475	0486	7283481
 pb	476	0487	7283482
 pb	477	0488	7283483
@@ -554,8 +607,10 @@ pb	480	0491	7283486
 pb	481	0492	7283487
 pb	482	0493	7283488
 entry	Airigne érigne	1	
+orth	Airigne érigne		
 pb	483	0494	7283489
 entry	Aisselle	12	
+orth	Aisselle		
 pb	484	0495	7283490
 pb	485	0496	7283491
 pb	486	0497	7283492
@@ -569,6 +624,7 @@ pb	493	0504	7283499
 pb	494	0505	7283500
 pb	495	0506	7283501
 entry	Aix en Provence	1	
+orth	Aix en Provence		
 pb	496	0507	7283502
 entry	Aix en Savoie ou Aix-Les-Bains	4	
 orth	Aix en Savoie		
@@ -585,6 +641,7 @@ pb	502	0513	7283508
 pb	503	0514	7283509
 pb	504	0515	7283510
 entry	Akidopéirastique	2	
+orth	Akidopéirastique		
 pb	505	0516	7283511
 pb	506	0517	7283512
 entry	Albinie, Albinisme, Albinos	8	
@@ -600,11 +657,14 @@ pb	512	0523	7283518
 pb	513	0524	7283519
 pb	514	0525	7283520
 entry	Albugo	0	
+orth	Albugo		
 entry	Albumine	3	
+orth	Albumine		
 pb	515	0526	7283521
 pb	516	0527	7283522
 pb	517	0528	7283523
 entry	Albuminurie	75	
+orth	Albuminurie		
 pb	518	0529	7283524
 pb	519	0530	7283525
 pb	520	0531	7283526
@@ -681,9 +741,11 @@ pb	590	0601	7283596
 pb	591	0602	7283597
 pb	592	0603	7283598
 entry	Alcali	2	
+orth	Alcali		
 pb	593	0604	7283599
 pb	594	0605	7283600
 entry	Alcalins	8	
+orth	Alcalins		
 pb	595	0606	7283601
 pb	596	0607	7283602
 pb	597	0608	7283603
@@ -694,6 +756,7 @@ pb	601	0612	7283607
 pb	602	0613	7283608
 pb	603	0614	7283609
 entry	Alcool	11	
+orth	Alcool		
 pb	604	0615	7283610
 pb	605	0616	7283611
 pb	606	0617	7283612
@@ -707,12 +770,17 @@ pb	613	0624	7283619
 pb	614	0625	7283620
 pb	615	0626	7283621
 entry	Alcalins	0	
+orth	Alcalins		
 entry	Alcoolats	1	
+orth	Alcoolats		
 pb	616	0627	7283622
 entry	Alcoolatures	0	
+orth	Alcoolatures		
 entry	Alcoolés	1	
+orth	Alcoolés		
 pb	617	0628	7283623
 entry	Alcoolisme	72	
+orth	Alcoolisme		
 pb	618	0629	7283624
 pb	619	0630	7283625
 pb	620	0631	7283626
@@ -790,7 +858,9 @@ orth	Alèze
 orth	Alèse		
 orth	Alaise		
 entry	Algalie	0	
+orth	Algalie		
 entry	Aliénation mentale	0	
+orth	Aliénation mentale		
 entry	Aliments, Alimentation	33	
 orth	Aliments		
 orth	Alimentation		
@@ -828,6 +898,7 @@ pb	720	0731	7283726
 pb	721	0732	7283727
 pb	722	0733	7283728
 entry	Allaitement	19	
+orth	Allaitement		
 pb	723	0734	7283729
 pb	724	0735	7283730
 pb	725	0736	7283731
@@ -848,12 +919,16 @@ pb	739	0750	7283745
 pb	740	0751	7283746
 pb	741	0752	7283747
 entry	Allantoide	0	
+orth	Allantoide		
 entry	Allevard	3	
+orth	Allevard		
 pb	742	0753	7283748
 pb	743	0754	7283749
 pb	744	0755	7283750
 entry	Allumettes	0	
+orth	Allumettes		
 entry	Aloès	8	
+orth	Aloès		
 pb	745	0756	7283751
 pb	746	0757	7283752
 pb	747	0758	7283753
@@ -863,6 +938,7 @@ pb	750	0761	7283756
 pb	751	0762	7283757
 pb	752	0763	7283758
 entry	Alopécie	7	
+orth	Alopécie		
 pb	753	0764	7283759
 pb	754	0765	7283760
 pb	755	0766	7283761
@@ -871,6 +947,7 @@ pb	757	0768	7283763
 pb	758	0769	7283764
 pb	759	0770	7283765
 entry	Altérants	8	
+orth	Altérants		
 pb	760	0771	7283766
 pb	761	0772	7283767
 pb	762	0773	7283768
@@ -880,9 +957,11 @@ pb	765	0776	7283771
 pb	766	0777	7283772
 pb	767	0778	7283773
 entry	Alumine	2	
+orth	Alumine		
 pb	768	0779	7283774
 pb	769	0780	7283775
 entry	Alun	13	
+orth	Alun		
 pb	770	0781	7283776
 pb	771	0782	7283777
 pb	772	0783	7283778
@@ -897,10 +976,12 @@ pb	780	0791	7283786
 pb	781	0792	7283787
 pb	782	0793	7283788
 entry	Amandes	3	
+orth	Amandes		
 pb	783	0794	7283789
 pb	784	0795	7283790
 pb	785	0796	7283791
 entry	Amaurose	6	
+orth	Amaurose		
 pb	786	0797	7283792
 pb	787	0798	7283793
 pb	788	0799	7283794
@@ -908,6 +989,7 @@ pb	789	0800	7283795
 pb	790	0801	7283796
 pb	791	0802	7283797
 entry	Amblyopie	7	
+orth	Amblyopie		
 pb	792	0803	7283798
 pb	793	0804	7283799
 pb	794	0805	7283800
@@ -916,9 +998,12 @@ pb	796	0807	7283802
 pb	797	0808	7283803
 pb	798	0809	7283804
 entry	Ambre gris	1	
+orth	Ambre gris		
 pb	799	0810	7283805
 entry	Ambre jaune	0	
+orth	Ambre jaune		
 entry	Ambulances	12	
+orth	Ambulances		
 pb	800	0811	7283806
 pb	801	0812	7283807
 pb	802	0813	7283808
@@ -933,3 +1018,4 @@ pb	810	0821	7283816
 pb	811	0822	7283817
 pb	[s. pag.]	0823	7283818
 entry	Table des auteurs	0	
+orth	Table des auteurs		

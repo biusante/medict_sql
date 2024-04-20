@@ -3,8 +3,10 @@ entry	[Page de titre]	0
 pb	[s. pag.]	0002	5556955
 pb	1	0003	402283
 entry	amulette	1	
+orth	amulette		
 pb	2	0004	402284
 entry	amygdales	10	
+orth	amygdales		
 pb	3	0005	402285
 pb	4	0006	402286
 pb	5	0007	402287
@@ -16,24 +18,36 @@ pb	10	0012	402292
 pb	11	0013	402293
 pb	12	0014	402294
 entry	ana	0	
+orth	ana		
 entry	anabrochisme	0	
+orth	anabrochisme		
 entry	anabrose	0	
+orth	anabrose		
 entry	anacardier	2	
+orth	anacardier		
 pb	13	0015	402295
 pb	14	0016	402296
 entry	anacatharsie	0	
+orth	anacatharsie		
 entry	anacollemate	0	
+orth	anacollemate		
 entry	anadrome	0	
+orth	anadrome		
 entry	anagyre	0	
+orth	anagyre		
 entry	analepsie	0	
+orth	analepsie		
 pb	15	0017	402297
 entry	analeptique	1	
+orth	analeptique		
 pb	16	0018	402298
 entry	analogie	3	
+orth	analogie		
 pb	17	0019	402299
 pb	18	0020	402300
 pb	19	0021	402301
 entry	analyse	11	
+orth	analyse		
 pb	20	0022	402302
 pb	21	0023	402303
 pb	22	0024	402304
@@ -46,22 +60,32 @@ pb	28	0030	402310
 pb	29	0031	402311
 pb	30	0032	402312
 entry	anamnestique	0	
+orth	anamnestique		
 entry	ananas	1	
+orth	ananas		
 pb	31	0033	402313
 entry	anapétie	0	
+orth	anapétie		
 entry	anaphrodisie	1	
+orth	anaphrodisie		
 pb	32	0034	402314
 entry	anaplérotique	0	
+orth	anaplérotique		
 entry	anasarque	4	
+orth	anasarque		
 pb	33	0035	402315
 pb	34	0036	402316
 pb	35	0037	402317
 pb	36	0038	402318
 entry	anastaltique	0	
+orth	anastaltique		
 entry	anastomose	0	
+orth	anastomose		
 entry	anastomotique	0	
+orth	anastomotique		
 pb	37	0039	402319
 entry	anatomie	9	
+orth	anatomie		
 pb	38	0040	402320
 pb	39	0041	402321
 pb	40	0042	402322
@@ -72,6 +96,7 @@ pb	44	0046	402326
 pb	45	0047	402327
 pb	46	0048	402328
 entry	anatomie pathologique	33	
+orth	anatomie pathologique		
 pb	47	0049	402329
 pb	48	0050	402330
 pb	49	0051	402331
@@ -106,17 +131,27 @@ pb	77	0079	402359
 pb	78	0080	402360
 pb	79	0081	402361
 entry	anatripsologie	0	
+orth	anatripsologie		
 pb	80	0082	402362
 entry	anchilops	0	
+orth	anchilops		
 entry	ancolie	0	
+orth	ancolie		
 entry	anconé	0	
+orth	anconé		
 entry	ancylotome	0	
+orth	ancylotome		
 pb	81	0083	402363
 entry	ancyroide	0	
+orth	ancyroide		
 entry	androgyne	0	
+orth	androgyne		
 entry	androtomie	0	
+orth	androtomie		
 entry	andrum	0	
+orth	andrum		
 entry	anémie	5	
+orth	anémie		
 pb	82	0084	402364
 pb	83	0085	402365
 pb	84	0086	402366
@@ -124,11 +159,16 @@ pb	85	0087	402367
 pb	86	0088	402368
 pb	87	0089	402369
 entry	anémomètre	0	
+orth	anémomètre		
 entry	anémone	0	
+orth	anémone		
 entry	anesthésie	1	
+orth	anesthésie		
 pb	88	0090	402370
 entry	aneth	0	
+orth	aneth		
 entry	anévrysme	25	
+orth	anévrysme		
 pb	89	0091	402371
 pb	90	0092	402372
 pb	91	0093	402373
@@ -155,11 +195,15 @@ pb	111	0113	402393
 pb	112	0114	402394
 pb	113	0115	402395
 entry	anfractuosité	0	
+orth	anfractuosité		
 entry	angelique	1	
+orth	angelique		
 pb	114	0116	402396
 entry	angiectasie	0	
+orth	angiectasie		
 pb	115	0117	402397
 entry	angine	21	
+orth	angine		
 pb	116	0118	402398
 pb	117	0119	402399
 pb	118	0120	402400
@@ -183,21 +227,32 @@ pb	135	0137	402417
 pb	136	0138	402418
 pb	137	0139	402419
 entry	angioténique	0	
+orth	angioténique		
 entry	angle	0	
+orth	angle		
 entry	angoisse	1	
+orth	angoisse		
 pb	138	0140	402420
 entry	angone	0	
+orth	angone		
 entry	anguille	1	
+orth	anguille		
 pb	139	0141	402421
 entry	angulaire	0	
+orth	angulaire		
 entry	angurie	0	
+orth	angurie		
 entry	angustie	0	
+orth	angustie		
 entry	angusture	3	
+orth	angusture		
 pb	140	0142	402422
 pb	141	0143	402423
 pb	142	0144	402424
 entry	anhelation	0	
+orth	anhelation		
 entry	animal	19	
+orth	animal		
 pb	143	0145	402425
 pb	144	0146	402426
 pb	145	0147	402427
@@ -218,79 +273,120 @@ pb	159	0161	402441
 pb	160	0162	402442
 pb	161	0163	402443
 entry	animalisation	0	
+orth	animalisation		
 entry	animalité	5	
+orth	animalité		
 pb	162	0164	402444
 pb	163	0165	402445
 pb	164	0166	402446
 pb	165	0167	402447
 pb	166	0168	402448
 entry	anis	1	
+orth	anis		
 pb	167	0169	402449
 entry	ankyloblépharon	1	
+orth	ankyloblépharon		
 pb	168	0170	402450
 entry	ankyloglosse	1	
+orth	ankyloglosse		
 pb	169	0171	402451
 entry	ankylomérisme	0	
+orth	ankylomérisme		
 entry	ankylose	2	
+orth	ankylose		
 pb	170	0172	402452
 pb	171	0173	402453
 entry	anneau	3	
+orth	anneau		
 pb	172	0174	402454
 pb	173	0175	402455
 pb	174	0176	402456
 entry	annulaire	0	
+orth	annulaire		
 entry	anodin	2	
+orth	anodin		
 pb	175	0177	402457
 pb	176	0178	402458
 entry	anodinie	0	
+orth	anodinie		
 entry	anomal	0	
+orth	anomal		
 entry	anomalie	1	
+orth	anomalie		
 pb	177	0179	402459
 entry	anorexie	1	
+orth	anorexie		
 pb	178	0180	402460
 entry	anosmie	0	
+orth	anosmie		
 pb	179	0181	402461
 entry	anse	0	
+orth	anse		
 entry	anserine anthelminthique	0	
+orth	anserine anthelminthique		
 entry	antagoniste	0	
+orth	antagoniste		
 entry	antaphrodisiaque	1	
+orth	antaphrodisiaque		
 pb	180	0182	402462
 entry	antemétique	0	
+orth	antemétique		
 entry	antephialtique	0	
+orth	antephialtique		
 pb	181	0183	402463
 entry	antépileptique	0	
+orth	antépileptique		
 entry	antérieur	0	
+orth	antérieur		
 entry	anthectique	1	
+orth	anthectique		
 pb	182	0184	402464
 entry	anthelix	0	
+orth	anthelix		
 entry	anthelminthique	0	
+orth	anthelminthique		
 entry	anthémorragique	0	
+orth	anthémorragique		
 entry	anthore	0	
+orth	anthore		
 entry	anthracose	1	
+orth	anthracose		
 pb	183	0185	402465
 entry	anthrax	2	
+orth	anthrax		
 pb	184	0186	402466
 pb	185	0187	402467
 entry	anthropogénie	0	
+orth	anthropogénie		
 entry	anthropologie	0	
+orth	anthropologie		
 pb	186	0188	402468
 entry	anthropophage	2	
+orth	anthropophage		
 pb	187	0189	402469
 pb	188	0190	402470
 entry	anthypnotique	1	
+orth	anthypnotique		
 pb	189	0191	402471
 entry	anti	0	
+orth	anti		
 entry	antidote	0	
+orth	antidote		
 entry	antidysentérique	0	
+orth	antidysentérique		
 pb	190	0192	402472
 entry	antiémétique	0	
+orth	antiémétique		
 entry	antifébrile	0	
+orth	antifébrile		
 entry	antilaiteux	4	
+orth	antilaiteux		
 pb	191	0193	402473
 pb	192	0194	402474
 pb	193	0195	402475
 pb	194	0196	402476
 entry	antimoine	6	
+orth	antimoine		
 pb	195	0197	402477
 pb	196	0198	402478
 pb	197	0199	402479
@@ -298,6 +394,7 @@ pb	198	0200	402480
 pb	199	0201	402481
 pb	200	0202	402482
 entry	antipathie	6	
+orth	antipathie		
 pb	201	0203	402483
 pb	202	0204	402484
 pb	203	0205	402485
@@ -305,51 +402,75 @@ pb	204	0206	402486
 pb	205	0207	402487
 pb	206	0208	402488
 entry	antiphlogistique	0	
+orth	antiphlogistique		
 entry	antiphthisique	1	
+orth	antiphthisique		
 pb	207	0209	402489
 entry	antipéristaltique	0	
+orth	antipéristaltique		
 entry	antipodagrique	0	
+orth	antipodagrique		
 entry	antiscorbutique	2	
+orth	antiscorbutique		
 pb	208	0210	402490
 pb	209	0211	402491
 entry	antiseptique	2	
+orth	antiseptique		
 pb	210	0212	402492
 pb	211	0213	402493
 entry	antispasmodique	1	
+orth	antispasmodique		
 pb	212	0214	402494
 pb	213	0215	402495
 entry	antisyphilitique	1	
+orth	antisyphilitique		
 pb	214	0216	402496
 entry	antitragus	0	
+orth	antitragus		
 entry	antivénérien	0	
+orth	antivénérien		
 entry	antodontalgique	1	
+orth	antodontalgique		
 pb	215	0217	402497
 entry	antre	0	
+orth	antre		
 entry	anus	1	
+orth	anus		
 pb	216	0218	402498
 entry	anxiété	1	
+orth	anxiété		
 pb	217	0219	402499
 entry	aorte	1	
+orth	aorte		
 pb	218	0220	402500
 entry	apalachine	0	
+orth	apalachine		
 entry	apathie	0	
+orth	apathie		
 entry	apepsie	1	
+orth	apepsie		
 pb	219	0221	402501
 entry	apéritif	2	
+orth	apéritif		
 pb	220	0222	402502
 pb	221	0223	402503
 pb	222	0224	402504
 entry	aphérèse	0	
+orth	aphérèse		
 entry	aphonie	2	
+orth	aphonie		
 pb	223	0225	402505
 pb	224	0226	402506
 entry	aphorisme	1	
+orth	aphorisme		
 pb	225	0227	402507
 entry	aphrodisiaque	3	
+orth	aphrodisiaque		
 pb	226	0228	402508
 pb	227	0229	402509
 pb	228	0230	402510
 entry	aphte	6	
+orth	aphte		
 pb	229	0231	402511
 pb	230	0232	402512
 pb	231	0233	402513
@@ -357,20 +478,30 @@ pb	232	0234	402514
 pb	233	0235	402515
 pb	234	0236	402516
 entry	apnée	0	
+orth	apnée		
 entry	apocénose	0	
+orth	apocénose		
 entry	apocin	0	
+orth	apocin		
 entry	apocope	0	
+orth	apocope		
 entry	apomytose	0	
+orth	apomytose		
 entry	aponeurose	3	
+orth	aponeurose		
 pb	235	0237	402517
 pb	236	0238	402518
 pb	237	0239	402519
 entry	aponeurotique	0	
+orth	aponeurotique		
 entry	apophyse	1	
+orth	apophyse		
 pb	238	0240	402520
 entry	apoplegmatisme	1	
+orth	apoplegmatisme		
 pb	239	0241	402521
 entry	apoplexie	7	
+orth	apoplexie		
 pb	240	0242	402522
 pb	241	0243	402523
 pb	242	0244	402524
@@ -379,19 +510,28 @@ pb	244	0246	402526
 pb	245	0247	402527
 pb	246	0248	402528
 entry	apoplectique	0	
+orth	apoplectique		
 entry	aposkeparnismos	0	
+orth	aposkeparnismos		
 entry	apostase	1	
+orth	apostase		
 pb	247	0249	402529
 entry	apostaxis	0	
+orth	apostaxis		
 entry	apostème	1	
+orth	apostème		
 pb	248	0250	402530
 entry	aposyrme	0	
+orth	aposyrme		
 entry	apothicaire	2	
+orth	apothicaire		
 pb	249	0251	402531
 pb	250	0252	402532
 entry	apozème	0	
+orth	apozème		
 pb	251	0253	402533
 entry	appareil	5	
+orth	appareil		
 pb	252	0254	402534
 pb	253	0255	402535
 pb	254	0256	402536
@@ -400,83 +540,127 @@ pb	256	0258	402538
 pb	[s. pag.]	0259	5556956
 pb	[s. pag.]	0260	402539
 entry	appareil : explication de la planche	0	
+orth	appareil : explication de la planche		
 pb	[s. pag.]	0261	402540
 entry	appareil : planche	0	
+orth	appareil : planche		
 pb	[s. pag.]	0262	5556957
 pb	257	0263	402541
 entry	appareil	0	
+orth	appareil		
 entry	appauvri	0	
+orth	appauvri		
 pb	258	0264	402542
 entry	appelle	0	
+orth	appelle		
 entry	appendice	0	
+orth	appendice		
 entry	appétence	0	
+orth	appétence		
 entry	appétit	2	
+orth	appétit		
 pb	259	0265	402543
 pb	260	0266	402544
 entry	applicata	0	
+orth	applicata		
 entry	application	0	
+orth	application		
 entry	appui	1	
+orth	appui		
 pb	261	0267	402545
 entry	apyrexie	1	
+orth	apyrexie		
 pb	262	0268	402546
 entry	aqueduc	0	
+orth	aqueduc		
 entry	aqueux	1	
+orth	aqueux		
 pb	263	0269	402547
 entry	aquila alba	0	
+orth	aquila alba		
 entry	arachide	0	
+orth	arachide		
 entry	arachnoide	2	
+orth	arachnoide		
 pb	264	0270	402548
 pb	265	0271	402549
 entry	arachnoidité	0	
+orth	arachnoidité		
 entry	araignée	1	
+orth	araignée		
 pb	266	0272	402550
 entry	arbousier	1	
+orth	arbousier		
 pb	267	0273	402551
 entry	arbre	3	
+orth	arbre		
 pb	268	0274	402552
 pb	269	0275	402553
 pb	270	0276	402554
 entry	arc	0	
+orth	arc		
 entry	arcade	0	
+orth	arcade		
 entry	arcane	1	
+orth	arcane		
 pb	271	0277	402555
 entry	arceau	1	
+orth	arceau		
 pb	272	0278	402556
 entry	archée	4	
+orth	archée		
 pb	273	0279	402557
 pb	274	0280	402558
 pb	275	0281	402559
 pb	276	0282	402560
 entry	archiatre	4	
+orth	archiatre		
 pb	277	0283	402561
 pb	278	0284	402562
 pb	279	0285	402563
 pb	280	0286	402564
 entry	arcture	0	
+orth	arcture		
 pb	281	0287	402565
 entry	ardeur	0	
+orth	ardeur		
 entry	area	0	
+orth	area		
 entry	arec	1	
+orth	arec		
 pb	282	0288	402566
 entry	arefaction	0	
+orth	arefaction		
 entry	arénation	1	
+orth	arénation		
 pb	283	0289	402567
 entry	aréole	1	
+orth	aréole		
 pb	284	0290	402568
 pb	285	0291	402569
 entry	aréomètre	1	
+orth	aréomètre		
 pb	286	0292	402570
 entry	argema	0	
+orth	argema		
 entry	argent	0	
+orth	argent		
 entry	argentine	0	
+orth	argentine		
 entry	argile	0	
+orth	argile		
 entry	arguel	1	
+orth	arguel		
 pb	287	0293	402571
 entry	aridité	0	
+orth	aridité		
 entry	aridure	0	
+orth	aridure		
 entry	aristoloche	1	
+orth	aristoloche		
 pb	288	0294	402572
 entry	armée	13	
+orth	armée		
 pb	289	0295	402573
 pb	290	0296	402574
 pb	291	0297	402575
@@ -491,57 +675,86 @@ pb	299	0305	402583
 pb	300	0306	402584
 pb	301	0307	402585
 entry	armoise	1	
+orth	armoise		
 pb	302	0308	402586
 entry	arnaldie	0	
+orth	arnaldie		
 entry	arnique	3	
+orth	arnique		
 pb	303	0309	402587
 pb	304	0310	402588
 pb	305	0311	402589
 entry	aromates	1	
+orth	aromates		
 pb	306	0312	402590
 entry	aromatique	0	
+orth	aromatique		
 entry	arome	1	
+orth	arome		
 pb	307	0313	402591
 entry	arrete-boeuf	0	
+orth	arrete-boeuf		
 entry	arrière-bouche	0	
+orth	arrière-bouche		
 entry	arrière-faix	0	
+orth	arrière-faix		
 entry	arrières-narines	0	
+orth	arrières-narines		
 entry	arsenic	5	
+orth	arsenic		
 pb	308	0314	402592
 pb	309	0315	402593
 pb	310	0316	402594
 pb	311	0317	402595
 pb	312	0318	402596
 entry	art	3	
+orth	art		
 pb	313	0319	402597
 pb	314	0320	402598
 pb	315	0321	402599
 entry	artère	5	
+orth	artère		
 pb	316	0322	402600
 pb	317	0323	402601
 pb	318	0324	402602
 pb	319	0325	402603
 pb	320	0326	402604
 entry	artériaque	0	
+orth	artériaque		
 pb	321	0327	402605
 entry	artériel	0	
+orth	artériel		
 entry	artériole	0	
+orth	artériole		
 entry	artériotomie	0	
+orth	artériotomie		
 entry	artétisque	0	
+orth	artétisque		
 entry	arthanita	1	
+orth	arthanita		
 pb	322	0328	402606
 entry	arthritis	0	
+orth	arthritis		
 entry	arthrocace	0	
+orth	arthrocace		
 entry	arthrodie	0	
+orth	arthrodie		
 entry	arthrodynie	0	
+orth	arthrodynie		
 entry	arthrombole	0	
+orth	arthrombole		
 entry	arthropuose	1	
+orth	arthropuose		
 pb	323	0329	402607
 entry	artichaut commun	0	
+orth	artichaut commun		
 entry	article	0	
+orth	article		
 entry	articulaire	1	
+orth	articulaire		
 pb	324	0330	402608
 entry	articulation	11	
+orth	articulation		
 pb	325	0331	402609
 pb	326	0332	402610
 pb	327	0333	402611
@@ -554,17 +767,25 @@ pb	333	0339	402617
 pb	334	0340	402618
 pb	335	0341	402619
 entry	artificiel	0	
+orth	artificiel		
 entry	artisans	0	
+orth	artisans		
 entry	arum tacheté	1	
+orth	arum tacheté		
 pb	336	0342	402620
 entry	aryténoide	0	
+orth	aryténoide		
 entry	aryténoidien	0	
+orth	aryténoidien		
 entry	asa foetida	1	
+orth	asa foetida		
 pb	337	0343	402621
 entry	asaret	2	
+orth	asaret		
 pb	338	0344	402622
 pb	339	0345	402623
 entry	ascaride	13	
+orth	ascaride		
 pb	340	0346	402624
 pb	341	0347	402625
 pb	342	0348	402626
@@ -579,6 +800,7 @@ pb	350	0356	402634
 pb	351	0357	402635
 pb	352	0358	402636
 entry	ascite	8	
+orth	ascite		
 pb	353	0359	402637
 pb	354	0360	402638
 pb	355	0361	402639
@@ -588,15 +810,22 @@ pb	358	0364	402642
 pb	359	0365	402643
 pb	360	0366	402644
 entry	asclépiade	0	
+orth	asclépiade		
 entry	asode	0	
+orth	asode		
 entry	asperge	2	
+orth	asperge		
 pb	361	0367	402645
 pb	362	0368	402646
 entry	aspersion	0	
+orth	aspersion		
 entry	aspérule	0	
+orth	aspérule		
 pb	363	0369	402647
 entry	asphalte	0	
+orth	asphalte		
 entry	asphyxie	31	
+orth	asphyxie		
 pb	364	0370	402648
 pb	365	0371	402649
 pb	366	0372	402650
@@ -629,32 +858,43 @@ pb	392	0398	402676
 pb	393	0399	402677
 pb	394	0400	402678
 entry	aspic	0	
+orth	aspic		
 pb	[s. pag.]	0401	5556958
 pb	[s. pag.]	0402	402679
 entry	asphyxie : explication de la planche	0	
+orth	asphyxie : explication de la planche		
 pb	[s. pag.]	0403	402680
 entry	asphyxie : planche	0	
+orth	asphyxie : planche		
 pb	[s. pag.]	0404	5556959
 pb	395	0405	402681
 entry	aspic	1	
+orth	aspic		
 pb	396	0406	402682
 entry	aspiration	1	
+orth	aspiration		
 pb	397	0407	402683
 entry	assimilation	0	
+orth	assimilation		
 pb	398	0408	402684
 entry	assode	0	
+orth	assode		
 entry	assoupissant	0	
+orth	assoupissant		
 entry	assoupissement	3	
+orth	assoupissement		
 pb	399	0409	402685
 pb	400	0410	402686
 pb	401	0411	402687
 entry	asthénie	5	
+orth	asthénie		
 pb	402	0412	402688
 pb	403	0413	402689
 pb	404	0414	402690
 pb	405	0415	402691
 pb	406	0416	402692
 entry	asthme	6	
+orth	asthme		
 pb	407	0417	402693
 pb	408	0418	402694
 pb	409	0419	402695
@@ -662,50 +902,70 @@ pb	410	0420	402696
 pb	411	0421	402697
 pb	412	0422	402698
 entry	astragale	2	
+orth	astragale		
 pb	413	0423	402699
 pb	414	0424	402700
 entry	astriction	0	
+orth	astriction		
 entry	astringens	2	
+orth	astringens		
 pb	415	0425	402701
 pb	416	0426	402702
 pb	417	0427	402703
 entry	astrologie	2	
+orth	astrologie		
 pb	418	0428	402704
 pb	419	0429	402705
 entry	ataxie	3	
+orth	ataxie		
 pb	420	0430	402706
 pb	421	0431	402707
 pb	422	0432	402708
 entry	ataxique	0	
+orth	ataxique		
 entry	atecnie	0	
+orth	atecnie		
 entry	athérome	1	
+orth	athérome		
 pb	423	0433	402709
 entry	athlète	4	
+orth	athlète		
 pb	424	0434	402710
 pb	425	0435	402711
 pb	426	0436	402712
 pb	427	0437	402713
 pb	428	0438	402714
 entry	athlétique	0	
+orth	athlétique		
 entry	athymie	0	
+orth	athymie		
 entry	atlas	1	
+orth	atlas		
 pb	429	0439	402715
 pb	430	0440	402716
 entry	atloide	0	
+orth	atloide		
 entry	atmosphère	4	
+orth	atmosphère		
 pb	431	0441	402717
 pb	432	0442	402718
 pb	433	0443	402719
 pb	434	0444	402720
 entry	atocie	0	
+orth	atocie		
 entry	atonie	0	
+orth	atonie		
 entry	atrabilaire	0	
+orth	atrabilaire		
 pb	435	0445	402721
 entry	atrabile	1	
+orth	atrabile		
 pb	436	0446	402722
 entry	atrétisme	0	
+orth	atrétisme		
 pb	437	0447	402723
 entry	atrophie	13	
+orth	atrophie		
 pb	438	0448	402724
 pb	439	0449	402725
 pb	440	0450	402726
@@ -720,58 +980,89 @@ pb	448	0458	402734
 pb	449	0459	402735
 pb	450	0460	402736
 entry	attelle	0	
+orth	attelle		
 entry	atténuant	1	
+orth	atténuant		
 pb	451	0461	402737
 entry	attouchement	0	
+orth	attouchement		
 entry	attractif	0	
+orth	attractif		
 entry	attraction	2	
+orth	attraction		
 pb	452	0462	402738
 pb	453	0463	402739
 entry	attrition	0	
+orth	attrition		
 entry	aubépine	1	
+orth	aubépine		
 pb	454	0464	402740
 entry	auditif	0	
+orth	auditif		
 entry	audition	3	
+orth	audition		
 pb	455	0465	402741
 pb	456	0466	402742
 pb	457	0467	402743
 entry	aune	1	
+orth	aune		
 pb	458	0468	402744
 entry	aunée	0	
+orth	aunée		
 pb	459	0469	402745
 entry	aura	0	
+orth	aura		
 entry	auréole	1	
+orth	auréole		
 pb	460	0470	402746
 entry	auricule	0	
+orth	auricule		
 entry	aurigineux	0	
+orth	aurigineux		
 entry	aurigo	0	
+orth	aurigo		
 entry	aurone	0	
+orth	aurone		
 entry	auscultation	0	
+orth	auscultation		
 entry	austère	0	
+orth	austère		
 entry	autocratie	2	
+orth	autocratie		
 pb	461	0471	402747
 pb	462	0472	402748
 pb	463	0473	402749
 entry	automatique	0	
+orth	automatique		
 entry	automne	0	
+orth	automne		
 entry	autophie	0	
+orth	autophie		
 entry	autopsie	1	
+orth	autopsie		
 pb	464	0474	402750
 entry	auxiliaire	0	
+orth	auxiliaire		
 entry	avant-bras	5	
+orth	avant-bras		
 pb	465	0475	402751
 pb	466	0476	402752
 pb	467	0477	402753
 pb	468	0478	402754
 pb	469	0479	402755
 entry	aversion	0	
+orth	aversion		
 entry	aveugle	3	
+orth	aveugle		
 pb	470	0480	402756
 pb	471	0481	402757
 pb	472	0482	402758
 entry	aveuglement	0	
+orth	aveuglement		
 entry	avoine	0	
+orth	avoine		
 entry	avortement	31	
+orth	avortement		
 pb	473	0483	402759
 pb	474	0484	402760
 pb	475	0485	402761
@@ -804,41 +1095,61 @@ pb	501	0511	402787
 pb	502	0512	402788
 pb	503	0513	402789
 entry	avorton	0	
+orth	avorton		
 entry	axillaire	1	
+orth	axillaire		
 pb	504	0514	402790
 entry	axis	2	
+orth	axis		
 pb	505	0515	402791
 pb	506	0516	402792
 entry	axoide	0	
+orth	axoide		
 entry	axoido-atloidien	0	
+orth	axoido-atloidien		
 entry	axoido - occipital	0	
+orth	axoido - occipital		
 entry	aya - pana	1	
+orth	aya - pana		
 pb	507	0517	402793
 entry	azaphie	0	
+orth	azaphie		
 entry	azédarach	2	
+orth	azédarach		
 pb	508	0518	402794
 pb	509	0519	402795
 entry	azerolier	0	
+orth	azerolier		
 entry	azoch	0	
+orth	azoch		
 entry	azote	5	
+orth	azote		
 pb	510	0520	402796
 pb	511	0521	402797
 pb	512	0522	402798
 pb	513	0523	402799
 pb	514	0524	402800
 entry	azoodynamie	1	
+orth	azoodynamie		
 pb	515	0525	402801
 entry	azygos	1	
+orth	azygos		
 pb	516	0526	402802
 pb	517	0527	402803
 entry	badiane	0	
+orth	badiane		
 entry	baguenaudier	1	
+orth	baguenaudier		
 pb	518	0528	402804
 entry	baignoire	0	
+orth	baignoire		
 entry	baillement	1	
+orth	baillement		
 pb	519	0529	402805
 entry	baillon	0	
+orth	baillon		
 entry	bain	17	
+orth	bain		
 pb	520	0530	402806
 pb	521	0531	402807
 pb	522	0532	402808
@@ -859,9 +1170,11 @@ pb	536	0546	402822
 pb	[s. pag.]	0547	5556960
 pb	[s. pag.]	0548	402823
 entry	bain : tableau	0	
+orth	bain : tableau		
 pb	[s. pag.]	0549	5556961
 pb	537	0550	402824
 entry	bain	44	
+orth	bain		
 pb	538	0551	402825
 pb	539	0552	402826
 pb	540	0553	402827
@@ -907,21 +1220,34 @@ pb	579	0592	402866
 pb	580	0593	402867
 pb	581	0594	402868
 entry	balance	0	
+orth	balance		
 entry	balançoire	0	
+orth	balançoire		
 entry	balauste	0	
+orth	balauste		
 entry	balbutiement	0	
+orth	balbutiement		
 entry	balisier	1	
+orth	balisier		
 pb	582	0595	402869
 entry	balle	0	
+orth	balle		
 entry	ballon	0	
+orth	ballon		
 entry	balsamier	1	
+orth	balsamier		
 pb	583	0596	402870
 entry	balsamique	0	
+orth	balsamique		
 entry	bananier	0	
+orth	bananier		
 entry	bancal	1	
+orth	bancal		
 pb	584	0597	402871
 entry	banc d'hippocrate	0	
+orth	banc d'hippocrate		
 entry	bandage	4	
+orth	bandage		
 pb	585	0598	402872
 pb	586	0599	402873
 pb	587	0600	402874
@@ -929,20 +1255,28 @@ pb	588	0601	402875
 pb	[s. pag.]	0602	5556962
 pb	[s. pag.]	0603	402876
 entry	Bandage : explication de la planche première	0	
+orth	Bandage : explication de la planche première		
 pb	[s. pag.]	0604	402877
 entry	Bandage : planche première	0	
+orth	Bandage : planche première		
 pb	[s. pag.]	0605	5556963
 pb	[s. pag.]	0606	5556964
 pb	[s. pag.]	0607	402878
 entry	bandage : explication de la planche seconde	0	
+orth	bandage : explication de la planche seconde		
 pb	[s. pag.]	0608	402879
 entry	bandage : planche seconde	0	
+orth	bandage : planche seconde		
 pb	[s. pag.]	0609	5556965
 pb	589	0610	402880
 entry	bandage	0	
+orth	bandage		
 entry	bande	2	
+orth	bande		
 pb	590	0611	402881
 pb	591	0612	402882
 entry	bandeau	0	
+orth	bandeau		
 entry	bandelette	0	
+orth	bandelette		
 pb	[s. pag.]	0613	402883

@@ -6,8 +6,6 @@ entry	Avertissement du libraire	1
 orth	Avertissement du libraire		
 pb	[s. pag.]	0004	4822028
 pb	[s. pag.]	0005	4822029
-entry	Table des matières du dictionnaire oeconomique	7	
-orth	Table des matières du dictionnaire oeconomique		
 pb	[s. pag.]	0006	4822030
 pb	[s. pag.]	0007	4822031
 pb	[s. pag.]	0008	4822032
@@ -16,10 +14,6 @@ pb	[s. pag.]	0010	4822034
 pb	[s. pag.]	0011	4822035
 pb	[s. pag.]	0012	4822036
 pb	1	0013	4822037
-entry	Dictionnaire oeconomique contenant les moyens d'augmenter et conserver son bien et même sa santé	0	
-orth	Dictionnaire oeconomique contenant les moyens d'augmenter		
-orth	Conserver son bien		
-orth	Même sa santé		
 entry	Aage	3	
 orth	Aage		
 pb	2	0014	4822038
@@ -580,7 +574,7 @@ orth	Col
 entry	Colchique	0	
 orth	Colchique		
 entry	De la Colique	4	
-orth	De la Colique		
+orth	Colique		
 pb	59	0239	4822263
 pb	60	0240	4822264
 pb	61	0241	4822265
@@ -637,7 +631,7 @@ pb	85	0265	4822289
 entry	Coquelourde	0	
 orth	Coquelourde		
 entry	De la Coqueluche	0	
-orth	De la Coqueluche		
+orth	Coqueluche		
 entry	Coquelicoq	0	
 orth	Coquelicoq		
 entry	Corail	0	
@@ -1146,7 +1140,7 @@ orth	Grillets blancs
 entry	Gonorée	0	
 orth	Gonorée		
 entry	De la Goute	3	
-orth	De la Goute		
+orth	Goute		
 pb	12	0472	4822496
 pb	13	0473	4822497
 pb	14	0474	4822498
@@ -1565,7 +1559,7 @@ orth	Melon
 pb	29	0619	4822643
 pb	30	0620	4822644
 entry	De la Memoire	1	
-orth	De la Memoire		
+orth	Memoire		
 pb	31	0621	4822645
 entry	Mendicite	6	
 orth	Mendicite		
@@ -1669,7 +1663,7 @@ pb	92	0684	4822708
 pb	93	0685	4822709
 pb	94	0686	4822710
 entry	De la Mole	0	
-orth	De la Mole		
+orth	Mole		
 entry	Moly-Bulbeux	1	
 orth	Moly-Bulbeux		
 pb	[s. pag.]	0687	4822711
@@ -2359,7 +2353,7 @@ pb	Deuxieme planche	0980	4823004
 pb	7	0981	4823005
 pb	8	0982	4823006
 entry	De la Rage	1	
-orth	De la Rage		
+orth	Rage		
 pb	9	0983	4823007
 entry	Raisin de mer	0	
 orth	Raisin de mer		
@@ -2374,7 +2368,7 @@ entry	Rataphia	1
 orth	Rataphia		
 pb	11	0985	4823009
 entry	De la Rate	2	
-orth	De la Rate		
+orth	Rate		
 pb	12	0986	4823010
 pb	13	0987	4823011
 entry	Des Raves	3	
@@ -2765,7 +2759,7 @@ orth	Tournesol
 pb	110	1138	4823162
 entry	Toux-seche ou de brebis	1	
 orth	Toux-seche		
-orth	De brebis		
+orth	Toux de brebis		
 pb	[s. pag.]	1139	4823163
 pb	Sixieme planche	1140	4823164
 pb	111	1141	4823165

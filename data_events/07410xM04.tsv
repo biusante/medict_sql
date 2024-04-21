@@ -79,13 +79,13 @@ entry	Bois	1
 orth	Bois		
 pb	25	0028	440380
 entry	Bois de buis, de coudrier, de frêne, de genièvre, de lentisque, de quassie, de tilleul, &c	0	
-orth	Bois de buis		
-orth	De coudrier		
-orth	De frêne		
-orth	De genièvre		
-orth	De lentisque		
-orth	De quassie		
-orth	De tilleul		
+orth	Buis		
+orth	Coudrier		
+orth	Frêne		
+orth	Genièvre		
+orth	Lentisque		
+orth	Quassie		
+orth	Tilleul		
 orth	&c		
 entry	Bois	2	
 orth	Bois		
@@ -93,7 +93,7 @@ pb	26	0029	440381
 pb	27	0030	440382
 entry	Bois d'aloes, ou d'aigle	1	
 orth	Bois d'aloes		
-orth	D'aigle		
+orth	Bois d'aigle		
 pb	28	0031	440383
 entry	Bois de Brésil	1	
 orth	Bois de Brésil		
@@ -1313,7 +1313,7 @@ pb	290	0293	440645
 pb	291	0294	440646
 entry	Calculs des reins & de la vessie	19	
 orth	Calculs des reins		
-orth	De la vessie		
+orth	Calculs de la vessie		
 pb	292	0295	440647
 pb	293	0296	440648
 pb	294	0297	440649
@@ -1334,9 +1334,6 @@ pb	308	0311	440663
 pb	309	0312	440664
 pb	310	0313	440665
 pb	311	0314	440666
-entry	Calcul des reins & de la vessie	0	
-orth	Calcul des reins		
-orth	De la vessie		
 entry	Calculifrages	0	
 orth	Calculifrages		
 entry	Caldas, ou Escaldas	0	
@@ -3502,7 +3499,7 @@ entry	Chute de l'oeil	0
 orth	Chute de l'oeil		
 entry	Chute du fondement, ou de l'anus	1	
 orth	Chute du fondement		
-orth	De l'anus		
+orth	Chute de l'anus		
 pb	844	0847	441199
 entry	Chute du membre	2	
 orth	Chute du membre		

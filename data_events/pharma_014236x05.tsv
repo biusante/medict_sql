@@ -7,17 +7,17 @@ pb	5	0004	5591748
 entry	Connaissance des Marchandises	0	
 orth	Connaissance des Marchandises		
 entry	Vins blancs de Bordeaux. Commune de Sauternes	0	
-orth	Vins blancs de Bordeaux. Commune de Sauternes		
+orth	Vins blancs de Sauternes (Bordeaux)		
 pb	6	0005	5591749
 entry	Vins blancs de Bordeaux. Commune de Bommes	0	
-orth	Vins blancs de Bordeaux. Commune de Bommes		
+orth	Vins blancs de Bommes (Bordeaux)		
 entry	Commune de Barsac	0	
-orth	Commune de Barsac		
+orth	Vins blancs de de Barsac (Bordeaux)		
 entry	Vins blancs de Bordeaux. Commune de Villenave-d'Ornon	1	
-orth	Vins blancs de Bordeaux. Commune de Villenave-d'Ornon		
+orth	Vins blancs de Villenave-d'Ornon (Bordeaux)		
 pb	7	0006	5591750
 entry	Vins blancs de Bordeaux. Commune de Cérons	1	
-orth	Vins blancs de Bordeaux. Commune de Cérons		
+orth	Vins blancs de Cérons (Bordeaux)		
 pb	8	0007	5591751
 entry	Commune de Preignac	0	
 orth	Commune de Preignac		
@@ -1019,10 +1019,7 @@ orth	Beaujolais
 orth	Champagne		
 pb	111	0110	5591854
 entry	Classification Générale des vins de France. Vins rouges de deuxième et de troisième classe	0	
-orth	Classification Générale des vins de France. Vins rouges de deuxième		
-orth	De troisième classe		
 entry	Classification Générale des vins de France. Vins rouges de quatrième classe	1	
-orth	Classification Générale des vins de France. Vins rouges de quatrième classe		
 pb	112	0111	5591855
 entry	Vins blancs supérieurs. Bordelais	0	
 orth	Vins blancs supérieurs. Bordelais		
@@ -1037,9 +1034,8 @@ orth	Le Forez
 entry	Alsace	0	
 orth	Alsace		
 pb	113	0112	5591856
-entry	Classification Générale des vins de France. Vins blancs de première et de seconde classe. Bordelais	0	
-orth	Classification Générale des vins de France. Vins blancs de première		
-orth	De seconde classe. Bordelais		
+entry	Classification Générale des vins de France. Vins blancs de première et de seconde classe	0	
+entry	Bordelais	0	
 entry	Champagne	0	
 orth	Champagne		
 entry	Bourgogne	0	
@@ -1053,9 +1049,8 @@ orth	Lyonnais
 entry	Agenais	0	
 orth	Agenais		
 pb	114	0113	5591857
-entry	Classification Générale des vins de France. Vins blancs de première et de seconde classe. Languedoc	0	
-orth	Classification Générale des vins de France. Vins blancs de première		
-orth	De seconde classe. Languedoc		
+entry	Classification Générale des vins de France. Vins blancs de première et de seconde classe	0	
+entry	Languedoc	0	
 entry	Alsace	0	
 orth	Alsace		
 entry	Vins blancs de troisième classe	0	
@@ -1089,9 +1084,6 @@ orth	Comtat d'Avignon
 entry	Provence	0	
 orth	Provence		
 entry	Vins de liqueur de deuxième, de troisième et de quatrième classe	0	
-orth	Vins de liqueur de deuxième		
-orth	De troisième		
-orth	De quatrième classe		
 pb	117	0116	5591860
 entry	Classification Générale des vins étrangers. Vins rouges supérieurs non liquoreux. Portugal	0	
 orth	Classification Générale des vins étrangers. Vins rouges supérieurs non liquoreux. Portugal		
@@ -1112,16 +1104,12 @@ entry	Asie	0
 orth	Asie		
 entry	Afrique	0	
 orth	Afrique		
-entry	Vins rouges de deuxièmes, de troisième et de quatrième classe. Allemagne	0	
-orth	Vins rouges de deuxièmes		
-orth	De troisième		
-orth	De quatrième classe. Allemagne		
+entry	Vins rouges de deuxièmes, de troisième et de quatrième classe	0	
+entry	Allemagne	0	
 entry	Hongrie	0	
 orth	Hongrie		
-entry	Classification Générale des vins étrangers. Vins rouges de deuxièmes, de troisième et de quatrième classe. Italie	1	
-orth	Classification Générale des vins étrangers. Vins rouges de deuxièmes		
-orth	De troisième		
-orth	De quatrième classe. Italie		
+entry	Classification Générale des vins étrangers. Vins rouges de deuxièmes, de troisième et de quatrième classe	1	
+entry	Italie	1	
 pb	119	0118	5591862
 entry	Espagne	0	
 orth	Espagne		
@@ -1132,10 +1120,8 @@ orth	Turquie
 entry	Russie	0	
 orth	Russie		
 pb	120	0119	5591863
-entry	Classification Générale des vins étrangers. Vins rouges de deuxièmes, de troisième et de quatrième classe. Grèce	0	
-orth	Classification Générale des vins étrangers. Vins rouges de deuxièmes		
-orth	De troisième		
-orth	De quatrième classe. Grèce		
+entry	Classification Générale des vins étrangers. Vins rouges de deuxièmes, de troisième et de quatrième classe	0	
+entry	Grèce	0	
 entry	Suisse	0	
 orth	Suisse		
 entry	Afrique	0	
@@ -1171,9 +1157,6 @@ orth	Perse
 entry	Océan Atlantique	0	
 orth	Océan Atlantique		
 entry	Vins blancs de deuxième, de troisième et de quatrième classe	0	
-orth	Vins blancs de deuxième		
-orth	De troisième		
-orth	De quatrième classe		
 entry	Vins de liqueur supérieurs. Comté de Zemplin	0	
 orth	Vins de liqueur supérieurs. Comté de Zemplin		
 entry	Italie	0	

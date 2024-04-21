@@ -6,26 +6,93 @@
  */
 
 declare(strict_types=1);
+
+
 foreach(glob($argv[1]) as $file) {
-    insert_orth($file);
+    Events::orthCap($file);
 }
 
-
-function insert_orth($file)
+/**
+ * Classe d'outils pour améliorer les données.
+ */
+class Events
 {
-    echo "$file\n";
-    $lines = file($file);
-    $count = count($lines);
-    $lines[] = ''; // ensure line +1
-    $tsv = "";
-    for ($l=0; $l<$count; $l++) {
-        $line = $lines[$l];
-        $tsv .= $line;
-        if (!str_starts_with($line, 'entry')) continue;
-        if (str_starts_with($lines[$l+1], 'orth')) continue;
-        $row = str_getcsv($line, "\t");
-        if (str_starts_with($row[1], '[')) continue;
-        $tsv .= "orth\t" . $row[1] . "\t\t\n";
+    static $dic = [];
+
+    static function orthCap($file)
+    {
+        echo "$file\n";
+        $lines = file($file);
+        $count = count($lines);
+        $lines[] = ''; // ensure line +1
+        $tsv = "";
+        for ($l=0; $l<$count; $l++) {
+            $line = $lines[$l];
+            if (!str_starts_with($line, 'orth')) {
+                $tsv .= $line;
+                continue;
+            }
+            $row = str_getcsv($line, "\t");
+            $orth = $row[1];
+            $initial = mb_substr($orth, 0, 1);
+            $capital = mb_strtoupper($initial);
+            if ($initial == $capital) {
+                $tsv .= $line;
+                continue;
+            }
+            $tsv .= "orth\t" . $capital .  mb_substr($orth, 1) . "\t\t\n";
+        }
+        file_put_contents($file, $tsv);
     }
-    file_put_contents($file, $tsv);
+
+    static function printDic() {
+        arsort(self::$dic);
+        $count = count(self::$dic);
+        $l = 0;
+        foreach (self::$dic as $key=>$count) {
+            echo ++$l . "\t" . $key . "\t" . $count . "\n";
+        }
+    }
+
+    static function parenthesis($file)
+    {
+        $lines = file($file);
+        $count = count($lines);
+        for ($l=0; $l<$count; $l++) {
+            $line = $lines[$l];
+            if (!str_starts_with($line, 'orth')) continue;
+            $row = str_getcsv($line, "\t");
+            if (!preg_match_all('/\([^\t\)]*\)/', $line, $matches)) continue;
+            foreach ($matches[0] as $m) {
+                if (isset(self::$dic[$m])) {
+                    self::$dic[$m]++;
+                }
+                else {
+                    self::$dic[$m] = 1;
+                }
+            }
+        }
+    }
+
+    static function insert_orth($file)
+    {
+        echo "ALREADY DONE\n";
+        return;
+        echo "$file\n";
+        $lines = file($file);
+        $count = count($lines);
+        $lines[] = ''; // ensure line +1
+        $tsv = "";
+        for ($l=0; $l<$count; $l++) {
+            $line = $lines[$l];
+            $tsv .= $line;
+            if (!str_starts_with($line, 'entry')) continue;
+            if (str_starts_with($lines[$l+1], 'orth')) continue;
+            $row = str_getcsv($line, "\t");
+            if (str_starts_with($row[1], '[')) continue;
+            $tsv .= "orth\t" . $row[1] . "\t\t\n";
+        }
+        file_put_contents($file, $tsv);
+    }
+
 }

@@ -182,9 +182,8 @@ entry	Ader	0
 orth	Ader	deu	
 foreign	veine	fra	
 entry	Ader, die goldene	0	
-orth	Ader	deu	
-orth	Die goldene		
-foreign	hémorrhoule	fra	
+orth	Ader, die goldene	deu	
+foreign	hémorrhoïde	fra	
 entry	Aederchen	0	
 orth	Aederchen	deu	
 foreign	vénule	fra	
@@ -206,7 +205,7 @@ foreign	saignée	fra
 foreign	phlébotomie	fra	
 entry	Aderlassbecken	0	
 orth	Aderlassbecken	deu	
-foreign	poélette	fra	
+foreign	poêlette	fra	
 entry	Aderlasseisen	0	
 orth	Aderlasseisen	deu	
 foreign	lancette	fra	
@@ -218,15 +217,14 @@ orth	Aderlasschnäpper	deu
 foreign	phlébotome	fra	
 entry	Aderlaszeug	0	
 orth	Aderlaszeug	deu	
-foreign	étui à lancettes	fra	
 entry	Aderpresse	0	
 orth	Aderpresse	deu	
 foreign	tourniquet	fra	
 entry	Aderschlag	0	
 orth	Aderschlag	deu	
-foreign	Pouls	fra	
-entry	Adler stein	0	
-orth	Adler stein	deu	
+foreign	pouls	fra	
+entry	Adlerstein	0	
+orth	Adlerstein	deu	
 foreign	aétite	fra	
 entry	Aehre	0	
 orth	Aehre	deu	
@@ -239,7 +237,7 @@ orth	Afterblutung	deu
 foreign	proctorrhagie	fra	
 entry	Afterentzündung	0	
 orth	Afterentzündung	deu	
-foreign	prodite	fra	
+foreign	proctite	fra	
 foreign	rectite	fra	
 entry	Afterbruch	0	
 orth	Afterbruch	deu	
@@ -270,7 +268,7 @@ orth	Afterkronenblatt	deu
 foreign	parapétale	fra	
 entry	Afterschmerz	0	
 orth	Afterschmerz	deu	
-foreign	prcctalgie	fra	
+foreign	proctalgie	fra	
 entry	Aftervorfall	0	
 orth	Aftervorfall	deu	
 foreign	exance	fra	
@@ -361,7 +359,7 @@ orth	Aneurysma	deu
 foreign	anévrysme	fra	
 entry	Anfächeln	0	
 orth	Anfächeln	deu	
-foreign	ftabellation	fra	
+foreign	flabellation	fra	
 entry	Anfall	0	
 orth	Anfall	deu	
 foreign	accès	fra	
@@ -381,7 +379,7 @@ orth	Angeboren	deu
 foreign	inné	fra	
 entry	Angelhakig	0	
 orth	Angelhakig	deu	
-foreign	hameconné	fra	
+foreign	hameçonné	fra	
 entry	Angewachsen	0	
 orth	Angewachsen	deu	
 foreign	adné	fra	
@@ -398,12 +396,12 @@ foreign	annexe	fra
 entry	Anhänglichkeit	0	
 orth	Anhänglichkeit	deu	
 foreign	attachement	fra	
-entry	Animalisirung	0	
-orth	Animalisirung	deu	
+entry	AnimalisirungAnimalisierung	0	
+orth	Animalisierung	deu	
 foreign	animalisation	fra	
 entry	Anklebend	0	
 orth	Anklebend	deu	
-foreign	agglutinaüf	fra	
+foreign	agglutinatif	fra	
 entry	Anlage	0	
 orth	Anlage	deu	
 foreign	aptitude	fra	
@@ -481,7 +479,6 @@ orth	Armbein	deu
 foreign	humérus	fra	
 entry	Armbeuge	0	
 orth	Armbeuge	deu	
-foreign	pli du bras	fra	
 entry	Armblutader	0	
 orth	Armblutader	deu	
 foreign	veine brachiale	fra	
@@ -515,7 +512,7 @@ foreign	arséniate	fra
 entry	Arseniksäure	0	
 orth	Arseniksäure	deu	
 foreign	acide arsénieux	fra	
-foreign	mrsénique	fra	
+foreign	acide arsénique	fra	
 entry	Art	0	
 orth	Art	deu	
 foreign	espèce	fra	
@@ -528,8 +525,8 @@ foreign	médicament	fra
 entry	Arzneibier	0	
 orth	Arzneibier	deu	
 foreign	brytolé	fra	
-entry	Arzneigäbe	0	
-orth	Arzneigäbe	deu	
+entry	Arzneigabe	0	
+orth	Arzneigabe	deu	
 foreign	dose	fra	
 entry	Azneihändler	0	
 orth	Azneihändler	deu	
@@ -549,9 +546,9 @@ foreign	médecin	fra
 entry	Asant	0	
 orth	Asant	deu	
 foreign	asa	fra	
-entry	Asbest, asbeste	0	
+entry	Asbest, Asbeste	0	
 orth	Asbest	deu	
-orth	Asbeste		
+orth	Asbeste	deu	
 foreign	amiante	fra	
 entry	Asche	0	
 orth	Asche	deu	
@@ -591,12 +588,12 @@ entry	Aetzmittel	0
 orth	Aetzmittel	deu	
 foreign	caustique	fra	
 foreign	corrosif	fra	
-foreign	escharoUque	fra	
+foreign	escharotique	fra	
 entry	Aufblähung	0	
 orth	Aufblähung	deu	
 foreign	inflation	fra	
-entry	Auf brausen	0	
-orth	Auf brausen	deu	
+entry	Aufbrausen	0	
+orth	Aufbrausen	deu	
 foreign	effervescence	fra	
 entry	Aufbrechen	0	
 orth	Aufbrechen	deu	
@@ -610,8 +607,8 @@ foreign	agitation	fra
 entry	Aufguss	0	
 orth	Aufguss	deu	
 foreign	infusion	fra	
-entry	Aufliegen sich	0	
-orth	Aufliegen sich	deu	
+entry	Aufliegen, sich	0	
+orth	Aufliegen, sich	deu	
 entry	Aufliegend	0	
 orth	Aufliegend	deu	
 foreign	incombant	fra	
@@ -623,9 +620,13 @@ orth	Auflösbarkeit	deu
 foreign	solubilité	fra	
 entry	Auflösen	0	
 orth	Auflösen	deu	
-foreign	fondre une tumeur	fra	
+foreign	fondre	fra	
 entry	Auflösend	0	
 orth	Auflösend	deu	
+foreign	résolutif	fra	
+foreign	fondant	fra	
+foreign	apéritif	fra	
+foreign	dissolvant	fra	
 entry	Auflösung	0	
 orth	Auflösung	deu	
 foreign	dissolution	fra	
@@ -667,10 +668,10 @@ orth	Auftreibung	deu
 foreign	inflation	fra	
 entry	Aufziehen	0	
 orth	Aufziehen	deu	
-foreign	attirer à maturation	fra	
+foreign	attirer	fra	
 entry	Augapfel	0	
 orth	Augapfel	deu	
-foreign	globe de l’œil	fra	
+foreign	globe	fra	
 foreign	pupille	fra	
 entry	Augapfelhäutchen	0	
 orth	Augapfelhäutchen	deu	
@@ -683,7 +684,7 @@ orth	Auge	deu
 foreign	œil	fra	
 entry	Augenader	0	
 orth	Augenader	deu	
-foreign	veine	fra	
+foreign	veine ophthalmique	fra	
 foreign	artère ophthalmique	fra	
 entry	Augenarzt	0	
 orth	Augenarzt	deu	
@@ -696,7 +697,6 @@ orth	Augenblutunterlaufung	deu
 foreign	héméralopie	fra	
 entry	Augenbogen	0	
 orth	Augenbogen	deu	
-foreign	cercle irien	fra	
 entry	Augenbraue	0	
 orth	Augenbraue	deu	
 foreign	sourcil	fra	
@@ -736,7 +736,7 @@ orth	Augenknorpel	deu
 foreign	cartilage tarse	fra	
 entry	Augenkrebs	0	
 orth	Augenkrebs	deu	
-foreign	scirrho· phthalmie	fra	
+foreign	scirrhophthalmie	fra	
 entry	Augenlid	0	
 orth	Augenlid	deu	
 foreign	paupière	fra	
@@ -758,9 +758,12 @@ orth	Augenlidschwiele	deu
 foreign	pachyblépharon	fra	
 entry	Augenmittel	0	
 orth	Augenmittel	deu	
-foreign	remède pour les yeux	fra	
 entry	Augennagel	0	
 orth	Augennagel	deu	
+foreign	onglet	fra	
+foreign	onys	fra	
+foreign	unguis	fra	
+foreign	onglée	fra	
 entry	Augenrinnen	0	
 orth	Augenrinnen	deu	
 foreign	épiphora	fra	
@@ -769,7 +772,6 @@ orth	Augenröthe	deu
 foreign	xérophthalmie	fra	
 entry	Augensalbe	0	
 orth	Augensalbe	deu	
-foreign	onguent pour les yeux	fra	
 entry	Augenschlagader	0	
 orth	Augenschlagader	deu	
 foreign	artère ophthalmique	fra	
@@ -817,7 +819,7 @@ orth	Augenwinkel	deu
 foreign	canthus	fra	
 entry	Augenwinkelgeschwulst	0	
 orth	Augenwinkelgeschwulst	deu	
-foreign	andhilops	fra	
+foreign	anchilops	fra	
 entry	Augenzahn	0	
 orth	Augenzahn	deu	
 foreign	dent œillère	fra	
@@ -826,6 +828,9 @@ orth	Ausarbeitung	deu
 foreign	élaboration	fra	
 entry	Ausartung	0	
 orth	Ausartung	deu	
+foreign	perversion	fra	
+foreign	dégénérescence	fra	
+foreign	abâtardissement	fra	
 entry	Ausdehnbarkeit	0	
 orth	Ausdehnbarkeit	deu	
 foreign	dilatabilité	fra	
@@ -839,6 +844,9 @@ orth	Ausdrocknung	deu
 foreign	dessiccation	fra	
 entry	Ausdünstung	0	
 orth	Ausdünstung	deu	
+foreign	exhalation	fra	
+foreign	transpiration	fra	
+foreign	perspiration	fra	
 entry	Ausfallen	0	
 orth	Ausfallen	deu	
 foreign	chute	fra	
@@ -864,7 +872,8 @@ foreign	lixiviation	fra
 entry	Ausleerung	0	
 orth	Ausleerung	deu	
 foreign	déjection	fra	
-foreign	déplétion évacuation	fra	
+foreign	déplétion	fra	
+foreign	évacuation	fra	
 entry	Auslöschung	0	
 orth	Auslöschung	deu	
 foreign	extinction	fra	
@@ -887,8 +896,8 @@ entry	Aussatz	0
 orth	Aussatz	deu	
 foreign	éléphantiasis	fra	
 foreign	lèpre	fra	
-entry	Aussâtzug	0	
-orth	Aussâtzug	deu	
+entry	Aussätzug	0	
+orth	Aussätzug	deu	
 foreign	lépreux	fra	
 entry	Ausschälung	0	
 orth	Ausschälung	deu	
@@ -903,15 +912,14 @@ foreign	farcin	fra
 entry	Ausschneiden	0	
 orth	Ausschneiden	deu	
 foreign	extirper	fra	
-entry	Ausscbneitelung	0	
-orth	Ausscbneitelung	deu	
+entry	Ausschneitelung	0	
+orth	Ausschneitelung	deu	
 foreign	émondation	fra	
-entry	Auschnitt	0	
-orth	Auschnitt	deu	
+entry	AuschnittAusschnitt	0	
+orth	Ausschnitt	deu	
 foreign	eccopé	fra	
 entry	Ausschwären	0	
 orth	Ausschwären	deu	
-foreign	fonte purulente	fra	
 entry	Ausschwitzen	0	
 orth	Ausschwitzen	deu	
 foreign	exsudation	fra	
@@ -935,7 +943,6 @@ orth	Aussprache	deu
 foreign	prononciation	fra	
 entry	Ausspritzen	0	
 orth	Ausspritzen	deu	
-foreign	abster g er par injection	fra	
 entry	Ausspritzung	0	
 orth	Ausspritzung	deu	
 foreign	éjaculation	fra	
@@ -959,7 +966,6 @@ foreign	huître	fra
 entry	Austreten	0	
 orth	Austreten	deu	
 foreign	descendre	fra	
-foreign	former hernie	fra	
 entry	Austretende Gefässe	0	
 orth	Austretende Gefässe	deu	
 foreign	vaisseaux efférents	fra	
@@ -968,7 +974,7 @@ orth	Austrocknend	deu
 foreign	siccatif	fra	
 entry	Auswachsen	0	
 orth	Auswachsen	deu	
-foreign	pousser des végétations	fra	
+foreign	pousser	fra	
 foreign	déformation	fra	
 entry	Auswaschen	0	
 orth	Auswaschen	deu	
@@ -994,7 +1000,6 @@ foreign	extraction	fra
 entry	Backe	0	
 orth	Backe	deu	
 foreign	joue	fra	
-foreign	en parlant du cheval	fra	
 foreign	fesses	fra	
 entry	Backenbein	0	
 orth	Backenbein	deu	
@@ -1015,7 +1020,7 @@ foreign	glande buccale	fra
 pb	1739	1753	
 entry	Backenknochen	0	
 orth	Backenknochen	deu	
-foreign	os de la hanche chez le cheval	fra	
+foreign	os de la hanche	fra	
 entry	Backenmuskel	0	
 orth	Backenmuskel	deu	
 foreign	buccinateur	fra	
@@ -1033,7 +1038,7 @@ orth	Bad	deu
 foreign	bain	fra	
 entry	Badekur	0	
 orth	Badekur	deu	
-foreign	cure Par les bains	fra	
+foreign	cure par les bains	fra	
 entry	Badestube	0	
 orth	Badestube	deu	
 foreign	étuve	fra	
@@ -1087,13 +1092,13 @@ orth	Bandförmig	deu
 foreign	ligulé	fra	
 entry	Bandgelenk	0	
 orth	Bandgelenk	deu	
-foreign	syn desmose	fra	
+foreign	syndesmose	fra	
 entry	Bandverlängerung	0	
 orth	Bandverlängerung	deu	
 foreign	élongation des ligaments	fra	
 entry	Bandwurm	0	
 orth	Bandwurm	deu	
-foreign	tœnia	fra	
+foreign	tænia	fra	
 entry	Bandwurmmittel	0	
 orth	Bandwurmmittel	deu	
 foreign	ténifuge	fra	
@@ -1117,7 +1122,7 @@ orth	Barometer	deu
 foreign	baromètre	fra	
 entry	Barsch	0	
 orth	Barsch	deu	
-foreign	Perche	fra	
+foreign	perche	fra	
 entry	Bart	0	
 orth	Bart	deu	
 foreign	barbe	fra	
@@ -1146,13 +1151,14 @@ foreign	hernie ventrale	fra
 foreign	laparocèle	fra	
 entry	Bauchdeckenschlagader	0	
 orth	Bauchdeckenschlagader	deu	
-foreign	artère tégumentaire abdominale	fra	
+foreign	artère tégumentaire	fra	
+foreign	artère abdominale	fra	
 entry	Bauchfell	0	
 orth	Bauchfell	deu	
-foreign	Péritoine	fra	
+foreign	péritoine	fra	
 entry	Bauchfellentzündung	0	
 orth	Bauchfellentzündung	deu	
-foreign	Péritonite	fra	
+foreign	péritonite	fra	
 foreign	métropéritonite	fra	
 entry	Bauchfluss	0	
 orth	Bauchfluss	deu	
@@ -1162,7 +1168,6 @@ orth	Bauchfüssler	deu
 foreign	gastéropodes	fra	
 entry	Bauchgegend	0	
 orth	Bauchgegend	deu	
-foreign	région abdominale	fra	
 entry	Bauchgrimmen	0	
 orth	Bauchgrimmen	deu	
 foreign	colique	fra	
@@ -1171,7 +1176,6 @@ orth	Bauchhöhle	deu
 foreign	cavité abdominale	fra	
 entry	Bauchlinie	0	
 orth	Bauchlinie	deu	
-foreign	ligne blanche	fra	
 entry	Bauchnaht	0	
 orth	Bauchnaht	deu	
 foreign	gastrorrhaphie	fra	
@@ -1190,15 +1194,15 @@ foreign	pancréas	fra
 entry	Bauchspeicheldrüsenschmerz	0	
 orth	Bauchspeicheldrüsenschmerz	deu	
 foreign	pancréatalgie	fra	
-entry	Bauchspeicheldrüsen Verstopfung	0	
-orth	Bauchspeicheldrüsen Verstopfung	deu	
-foreign	pancréatémphraxis	fra	
+entry	Bauchspeicheldrüsen-Verstopfung	0	
+orth	Bauchspeicheldrüsen-Verstopfung	deu	
+foreign	pancréatemphraxis	fra	
 entry	Bauchstecher	0	
 orth	Bauchstecher	deu	
 foreign	trocart	fra	
 entry	Bauchstich	0	
 orth	Bauchstich	deu	
-foreign	Ponction abdominale	fra	
+foreign	ponction abdominale	fra	
 entry	Bauchwassersucht	0	
 orth	Bauchwassersucht	deu	
 foreign	ascite	fra	
@@ -1234,7 +1238,7 @@ orth	Beckengeflecht	deu
 foreign	plexus hypogastrique	fra	
 entry	Beckenmesser	0	
 orth	Beckenmesser	deu	
-foreign	Pelvimètre	fra	
+foreign	pelvimètre	fra	
 entry	Beckenring	0	
 orth	Beckenring	deu	
 foreign	détroit	fra	
@@ -1288,7 +1292,6 @@ foreign	armoise	fra
 entry	Bein	0	
 orth	Bein	deu	
 foreign	os	fra	
-foreign	membre inférieur	fra	
 foreign	jambe	fra	
 entry	Beinbeule	0	
 orth	Beinbeule	deu	
@@ -1319,7 +1322,7 @@ orth	Beingeschwulst	deu
 foreign	exostose	fra	
 entry	Beingewächs	0	
 orth	Beingewächs	deu	
-foreign	Periostose	fra	
+foreign	périostose	fra	
 entry	Beinhaut	0	
 orth	Beinhaut	deu	
 foreign	périoste	fra	
@@ -1334,7 +1337,6 @@ orth	Beinhöhle	deu
 foreign	cavité articulaire	fra	
 entry	Beinkehle	0	
 orth	Beinkehle	deu	
-foreign	Pli Poplité	fra	
 entry	Beinknopf	0	
 orth	Beinknopf	deu	
 foreign	condyle	fra	
@@ -1414,8 +1416,8 @@ foreign	acide benzoïque	fra
 entry	Beobachtung	0	
 orth	Beobachtung	deu	
 foreign	observation	fra	
-entry	Berathung	0	
-orth	Berathung	deu	
+entry	BerathungBeratung	0	
+orth	Beratung	deu	
 foreign	consultation	fra	
 entry	Beräucherung	0	
 orth	Beräucherung	deu	
@@ -1470,16 +1472,16 @@ orth	Beseelung	deu
 foreign	animation	fra	
 entry	Besessen	0	
 orth	Besessen	deu	
-foreign	Possédé	fra	
+foreign	possédé	fra	
 entry	Besessensein	0	
 orth	Besessensein	deu	
-foreign	Possession par le démon	fra	
+foreign	possession	fra	
 entry	Bestandtheil	0	
 orth	Bestandtheil	deu	
 foreign	ingrédient	fra	
 entry	Betastung	0	
 orth	Betastung	deu	
-foreign	Palpation	fra	
+foreign	palpation	fra	
 entry	Betäubung	0	
 orth	Betäubung	deu	
 foreign	stupeur	fra	
@@ -1502,7 +1504,7 @@ orth	Beutel	deu
 foreign	bourse	fra	
 entry	Bevölkerung	0	
 orth	Bevölkerung	deu	
-foreign	Population	fra	
+foreign	population	fra	
 entry	Bewegend	0	
 orth	Bewegend	deu	
 foreign	moteur	fra	
@@ -1514,8 +1516,8 @@ entry	Bewegung	0
 orth	Bewegung	deu	
 foreign	mouvement	fra	
 foreign	locomotion	fra	
-entry	Bewustlosigkeit	0	
-orth	Bewustlosigkeit	deu	
+entry	BewustlosigkeitBewusstlosigkeit	0	
+orth	Bewusstlosigkeit	deu	
 foreign	apsychie	fra	
 entry	Bewusstsein	0	
 orth	Bewusstsein	deu	
@@ -1525,7 +1527,7 @@ orth	Beziehung	deu
 foreign	relation	fra	
 entry	Bibergeil	0	
 orth	Bibergeil	deu	
-foreign	castoreum	fra	
+foreign	castoréum	fra	
 entry	Bibernell	0	
 orth	Bibernell	deu	
 foreign	boucage	fra	
@@ -1549,7 +1551,7 @@ orth	Bild	deu
 foreign	image	fra	
 entry	Bildend	0	
 orth	Bildend	deu	
-foreign	Plastique	fra	
+foreign	plastique	fra	
 entry	Bildung	0	
 orth	Bildung	deu	
 foreign	conformation	fra	
@@ -1559,7 +1561,7 @@ orth	Bildungsflüssigkeit	deu
 foreign	cytoblastème	fra	
 entry	Bildungskraft	0	
 orth	Bildungskraft	deu	
-foreign	force Plastique	fra	
+foreign	force plastique	fra	
 entry	Bildungssaft	0	
 orth	Bildungssaft	deu	
 foreign	cambium	fra	
@@ -1577,7 +1579,6 @@ foreign	conjonctive	fra
 entry	Bindestoff	0	
 orth	Bindestoff	deu	
 foreign	gluten	fra	
-foreign	matière unissante	fra	
 entry	Bindwurm	0	
 orth	Bindwurm	deu	
 foreign	douve	fra	
@@ -1586,13 +1587,13 @@ orth	Birke	deu
 foreign	bouleau	fra	
 entry	Birnbaum	0	
 orth	Birnbaum	deu	
-foreign	Poirier	fra	
+foreign	poirier	fra	
 entry	Birne	0	
 orth	Birne	deu	
-foreign	Poire	fra	
+foreign	poire	fra	
 entry	Birnförmig	0	
 orth	Birnförmig	deu	
-foreign	Pyriforme	fra	
+foreign	pyriforme	fra	
 entry	Birnmost	0	
 orth	Birnmost	deu	
 foreign	poiré	fra	
@@ -1610,7 +1611,7 @@ orth	Bitter	deu
 foreign	amer	fra	
 entry	Bittererde	0	
 orth	Bittererde	deu	
-foreign	sel d’EPsom	fra	
+foreign	sel d’Epsom	fra	
 entry	Bitterholz	0	
 orth	Bitterholz	deu	
 foreign	racine de quassia	fra	
@@ -1622,8 +1623,7 @@ orth	Bitterschlangenholz	deu
 foreign	serpentine	fra	
 entry	Bitterstoff	0	
 orth	Bitterstoff	deu	
-foreign	amariné	fra	
-foreign	principe extractif amer	fra	
+foreign	amarine	fra	
 entry	Bittersüss	0	
 orth	Bittersüss	deu	
 foreign	douce-amère	fra	
@@ -1655,16 +1655,16 @@ foreign	vessie	fra
 entry	Blasenartig	0	
 orth	Blasenartig	deu	
 foreign	bulleux	fra	
-foreign	phlycténdide	fra	
-entry	Blasenaussclilag	0	
-orth	Blasenaussclilag	deu	
+foreign	phlycténoïde	fra	
+entry	Blasenausschlag	0	
+orth	Blasenausschlag	deu	
 foreign	pemphigus	fra	
 entry	Blasenband	0	
 orth	Blasenband	deu	
 foreign	ouraque	fra	
 entry	Blasenbruch	0	
 orth	Blasenbruch	deu	
-foreign	cystocele	fra	
+foreign	cystocèle	fra	
 entry	Blasenkatarrh	0	
 orth	Blasenkatarrh	deu	
 foreign	catarrhe vésical	fra	
@@ -1675,8 +1675,8 @@ foreign	entéro-cystocèle	fra
 entry	Blasenentzündung	0	
 orth	Blasenentzündung	deu	
 foreign	cystite	fra	
-entry	Blasencrweiterun g	0	
-orth	Blasencrweiterun g	deu	
+entry	Blasenerweiterung	0	
+orth	Blasenerweiterung	deu	
 foreign	cystectasie	fra	
 entry	Blasenfieber	0	
 orth	Blasenfieber	deu	
@@ -1710,7 +1710,6 @@ orth	Blasenpflaster	deu
 foreign	vésicatoire	fra	
 entry	Blasensalbe	0	
 orth	Blasensalbe	deu	
-foreign	onguent épispastique	fra	
 entry	Blasensand	0	
 orth	Blasensand	deu	
 foreign	gravelle	fra	
@@ -1782,19 +1781,19 @@ orth	Blätterarm	deu
 foreign	oligophylle	fra	
 entry	Blättererde	0	
 orth	Blättererde	deu	
-foreign	terre foliée de tartre	fra	
 entry	Blätterig	0	
 orth	Blätterig	deu	
 foreign	foliacé	fra	
 foreign	lamellé	fra	
 entry	Blätterlos	0	
 orth	Blätterlos	deu	
-foreign	aphylie	fra	
+foreign	aphylle	fra	
 entry	Blättermagen	0	
 orth	Blättermagen	deu	
+foreign	feuillet	fra	
 entry	Blättern	0	
 orth	Blättern	deu	
-foreign	s’exfolier	fra	
+foreign	exfolier (s')	fra	
 entry	Blätterschwamm	0	
 orth	Blätterschwamm	deu	
 foreign	agaric	fra	
@@ -1804,7 +1803,7 @@ foreign	feuillage	fra
 foreign	foliaiion	fra	
 entry	Blattgelb	0	
 orth	Blattgelb	deu	
-foreign	phylloxanthëine	fra	
+foreign	phylloxanthéine	fra	
 entry	Blatthäutchen	0	
 orth	Blatthäutchen	deu	
 foreign	ligule	fra	
@@ -1813,10 +1812,9 @@ orth	Blattknospenstand	deu
 foreign	préfoliation	fra	
 entry	Blattlahm (vétér.)	0	
 orth	Blattlahm (vétér.)	deu	
-foreign	qui a l’épaule disloquée	fra	
 entry	Blattlaus	0	
 orth	Blattlaus	deu	
-foreign	ophidiens	fra	
+foreign	aphidiens	fra	
 entry	Blattlauskäfer	0	
 orth	Blattlauskäfer	deu	
 foreign	coccinelle	fra	
@@ -1829,8 +1827,8 @@ foreign	pétiole	fra
 entry	Blatter	0	
 orth	Blatter	deu	
 foreign	bouton	fra	
-entry	Blattern	0	
-orth	Blattern	deu	
+entry	Blattern (Die)	0	
+orth	Blattern (Die)	deu	
 foreign	petite vérole	fra	
 entry	Blattergrube	0	
 orth	Blattergrube	deu	
@@ -1947,7 +1945,7 @@ orth	Blumenkrone	deu
 foreign	corolle	fra	
 entry	Blumenroth	0	
 orth	Blumenroth	deu	
-foreign	antérylhrine	fra	
+foreign	antérythrine	fra	
 entry	Blumenscheide	0	
 orth	Blumenscheide	deu	
 foreign	spathe	fra	
@@ -2003,7 +2001,7 @@ entry	Blutegelzucht	0
 orth	Blutegelzucht	deu	
 foreign	hirudiniculture	fra	
 entry	Bluterkrankheit 	0	
-orth	Bluterkrankheit 	deu	
+orth	Bluterkrankheit	deu	
 foreign	hémophilie	fra	
 entry	Bluterzeugung	0	
 orth	Bluterzeugung	deu	
@@ -2057,7 +2055,7 @@ orth	Blutkuchen	deu
 foreign	caillot	fra	
 entry	Blutkügelchen	0	
 orth	Blutkügelchen	deu	
-foreign	globules du sang	fra	
+foreign	globules	fra	
 foreign	hématie	fra	
 entry	Blutlassen	0	
 orth	Blutlassen	deu	
@@ -2071,9 +2069,8 @@ foreign	exsangue	fra
 entry	Blutlehre	0	
 orth	Blutlehre	deu	
 foreign	hématologie	fra	
-entry	Blutnabel- 	0	
-orth	Blutnabel- 	deu	
-foreign	'brach	fra	
+entry	Blutnabelbruch	0	
+orth	Blutnabelbruch	deu	
 foreign	hématomphale	fra	
 entry	Blutnäpfchen	0	
 orth	Blutnäpfchen	deu	
@@ -2091,9 +2088,9 @@ entry	Blutschwamm	0
 orth	Blutschwamm	deu	
 foreign	agaric hémostatique	fra	
 foreign	fongus hématode	fra	
-entry	Blutschwitzeu	0	
-orth	Blutschwitzeu	deu	
-foreign	exhalation du sang par la peau	fra	
+entry	BlutschwitzeuBlutschwitzen	0	
+orth	Blutschwitzen	deu	
+foreign	exhalation du sang	fra	
 entry	Blutspeien	0	
 orth	Blutspeien	deu	
 foreign	hémoptysie	fra	
@@ -2112,7 +2109,6 @@ orth	Blutstrieme	deu
 foreign	vergeture	fra	
 entry	Blutsturz	0	
 orth	Blutsturz	deu	
-foreign	perte foudroyante	fra	
 entry	Blutsverwandtschaft	0	
 orth	Blutsverwandtschaft	deu	
 foreign	consanguinité	fra	
@@ -2120,7 +2116,7 @@ entry	Blutthierchen	0
 orth	Blutthierchen	deu	
 foreign	hématozoaire	fra	
 entry	Blutüberfüllung 	0	
-orth	Blutüberfüllung 	deu	
+orth	Blutüberfüllung	deu	
 foreign	hypérémie	fra	
 entry	Blutumlauf	0	
 orth	Blutumlauf	deu	
@@ -2173,7 +2169,7 @@ entry	Bodenständigkeit	0
 orth	Bodenständigkeit	deu	
 foreign	hypogynie	fra	
 entry	Bogen 	0	
-orth	Bogen 	deu	
+orth	Bogen	deu	
 foreign	arcade	fra	
 foreign	arc	fra	
 entry	Bogengänge des innern Ohres	0	
@@ -2187,7 +2183,7 @@ orth	Bohnen baumbitter	deu
 foreign	cytisine	fra	
 entry	Bohrend	0	
 orth	Bohrend	deu	
-foreign	periérébrant	fra	
+foreign	pertérébrant	fra	
 foreign	térébrant	fra	
 entry	Boraxsäure	0	
 orth	Boraxsäure	deu	
@@ -2210,7 +2206,6 @@ orth	Borstig	deu
 foreign	hérissé	fra	
 entry	Bösartig	0	
 orth	Bösartig	deu	
-foreign	de mauvaise nature	fra	
 foreign	malin	fra	
 entry	Bösartigkeit	0	
 orth	Bösartigkeit	deu	
@@ -2229,16 +2224,16 @@ orth	Brandader	deu
 foreign	veine crurale	fra	
 entry	Brandblase	0	
 orth	Brandblase	deu	
-foreign	phlyctène par brûlure	fra	
+foreign	phlyctène	fra	
 entry	Brandblatter	0	
 orth	Brandblatter	deu	
 foreign	pustule maligne	fra	
 entry	Brandgeruch	0	
 orth	Brandgeruch	deu	
 foreign	empyreume	fra	
-entry	Brandicht, brandig	0	
+entry	Brandicht, Brandig	0	
 orth	Brandicht	deu	
-orth	Brandig		
+orth	Brandig	deu	
 foreign	gangréneux	fra	
 entry	Brandsäure	0	
 orth	Brandsäure	deu	
@@ -2276,7 +2271,7 @@ foreign	asode	fra
 entry	Brechmittel	0	
 orth	Brechmittel	deu	
 foreign	émétique	fra	
-foreign	un vomitif	fra	
+foreign	vomitif (un)	fra	
 entry	Brechnuss	0	
 orth	Brechnuss	deu	
 foreign	noix vomique	fra	
@@ -2327,7 +2322,7 @@ foreign	inflammable	fra
 foreign	combustible	fra	
 entry	Brenneisen	0	
 orth	Brenneisen	deu	
-foreign	cautère actuel	fra	
+foreign	cautère	fra	
 entry	Brennen	0	
 orth	Brennen	deu	
 foreign	ardeur	fra	
@@ -2390,20 +2385,18 @@ orth	Bruchsack	deu
 foreign	sac herniaire	fra	
 entry	Bruchschnitt	0	
 orth	Bruchschnitt	deu	
-foreign	incision du sac herniaire	fra	
 foreign	kélotomie	fra	
 entry	Bruchstück	0	
 orth	Bruchstück	deu	
-foreign	fragmen t	fra	
+foreign	fragment	fra	
 entry	Bruchwassersucht	0	
 orth	Bruchwassersucht	deu	
 foreign	ascite	fra	
 entry	Brücke	0	
 orth	Brücke	deu	
-foreign	pont de Varole	fra	
+foreign	pont	fra	
 entry	Brunnenkur	0	
 orth	Brunnenkur	deu	
-foreign	usage des eaux minérales	fra	
 entry	Brunst	0	
 orth	Brunst	deu	
 foreign	chaleur	fra	
@@ -2420,13 +2413,13 @@ foreign	veine mammaire	fra
 entry	Brustbeere	0	
 orth	Brustbeere	deu	
 foreign	jujube	fra	
-foreign	sebesie	fra	
+foreign	sebeste	fra	
 entry	Brustbein	0	
 orth	Brustbein	deu	
 foreign	sternum	fra	
 entry	Brustbeinschildmuskel	0	
 orth	Brustbeinschildmuskel	deu	
-foreign	muscle sterno-thyrdidien	fra	
+foreign	muscle sterno-thyroïdien	fra	
 entry	Brustbeinschmerz	0	
 orth	Brustbeinschmerz	deu	
 foreign	sternalgie	fra	
@@ -2457,6 +2450,9 @@ orth	Brustfellbruch	deu
 foreign	pleurocèle	fra	
 entry	Brustfieber	0	
 orth	Brustfieber	deu	
+foreign	fièvre asthmatique	fra	
+foreign	péricardite	fra	
+foreign	cardite	fra	
 entry	Brustgang	0	
 orth	Brustgang	deu	
 foreign	canal thoracique	fra	
@@ -2477,14 +2473,13 @@ orth	Brustkrankheit	deu
 foreign	maladie de poitrine	fra	
 entry	Brustmuskel	0	
 orth	Brustmuskel	deu	
-foreign	muscle pector ad	fra	
+foreign	muscle pectoral	fra	
 entry	Brustnerv	0	
 orth	Brustnerv	deu	
 foreign	nerf thoracique	fra	
 entry	Brustschild	0	
 orth	Brustschild	deu	
-foreign	plastron. riques	fra	
-foreign	pousse des chevaux	fra	
+foreign	plastron	fra	
 entry	Brustschlagader	0	
 orth	Brustschlagader	deu	
 foreign	artère mammaire	fra	
@@ -2515,8 +2510,8 @@ foreign	buis	fra
 entry	Büchse	0	
 orth	Büchse	deu	
 foreign	urne	fra	
-entry	Büchseafrucht	0	
-orth	Büchseafrucht	deu	
+entry	Büchsenfrucht	0	
+orth	Büchsenfrucht	deu	
 foreign	pyxide	fra	
 entry	Buckel	0	
 orth	Buckel	deu	
@@ -2530,12 +2525,13 @@ foreign	faisceau	fra
 foreign	fascicule	fra	
 entry	Bündelförmig	0	
 orth	Bündelförmig	deu	
-foreign	fascicule	fra	
-entry	Bijrste	0	
-orth	Bijrste	deu	
+foreign	fasciculé	fra	
+entry	Bürste	0	
+orth	Bürste	deu	
 foreign	brosse	fra	
 entry	Busch	0	
 orth	Busch	deu	
+foreign	feuillet	fra	
 entry	Büschelchen	0	
 orth	Büschelchen	deu	
 foreign	houppe	fra	
@@ -2605,8 +2601,8 @@ foreign	hydrochlorique	fra
 entry	Cholsäure	0	
 orth	Cholsäure	deu	
 foreign	acide cholique	fra	
-entry	Choroidenfläche	0	
-orth	Choroidenfläche	deu	
+entry	Choroïdenfläche	0	
+orth	Choroïdenfläche	deu	
 foreign	tapis	fra	
 entry	Chrom	0	
 orth	Chrom	deu	
@@ -2639,7 +2635,7 @@ foreign	cure	fra
 foreign	traitement	fra	
 entry	Curmethode	0	
 orth	Curmethode	deu	
-foreign	médicodion	fra	
+foreign	médication	fra	
 entry	Cyan	0	
 orth	Cyan	deu	
 foreign	cyanogène	fra	
@@ -2663,8 +2659,8 @@ orth	Dammschlagader	deu
 foreign	artère périnéale	fra	
 entry	Dampf	0	
 orth	Dampf	deu	
-foreign	vapeurs des femmes	fra	
-foreign	hystérie	fra	
+foreign	vapeurs	fra	
+foreign	pousse	fra	
 entry	Dampfbad	0	
 orth	Dampfbad	deu	
 foreign	bain de vapeur	fra	
@@ -2683,7 +2679,6 @@ foreign	intestin	fra
 foreign	boyau	fra	
 entry	Darmanhänge	0	
 orth	Darmanhänge	deu	
-foreign	appendices de l’intestin	fra	
 entry	Darmbein	0	
 orth	Darmbein	deu	
 foreign	os iliaque	fra	
@@ -2699,12 +2694,13 @@ orth	Darmbruch	deu
 foreign	entéroeèle	fra	
 entry	Darmdrüsen	0	
 orth	Darmdrüsen	deu	
-foreign	glandes intesti nales	fra	
+foreign	glandes intestinales	fra	
 entry	Darmeinklemmung	0	
 orth	Darmeinklemmung	deu	
 foreign	étranglement intestinal	fra	
 entry	Darmeinschiebung	0	
 orth	Darmeinschiebung	deu	
+foreign	intussusception	fra	
 entry	Darmentzündung	0	
 orth	Darmentzündung	deu	
 foreign	entérite	fra	
@@ -2713,13 +2709,11 @@ orth	Darmfäule	deu
 foreign	dysentérie	fra	
 entry	Darmfell	0	
 orth	Darmfell	deu	
-foreign	feuillet intestinal du péritoine	fra	
 entry	Darmfistel	0	
 orth	Darmfistel	deu	
 foreign	fistule intestinale	fra	
 entry	Darmflüssigkeiten	0	
 orth	Darmflüssigkeiten	deu	
-foreign	liquides intestinaux	fra	
 entry	Darmgang	0	
 orth	Darmgang	deu	
 foreign	canal intestinal	fra	
@@ -2737,7 +2731,6 @@ orth	Darmhöhle	deu
 foreign	cavité intestinale	fra	
 entry	Darmkrampf	0	
 orth	Darmkrampf	deu	
-foreign	colique nerveuse	fra	
 entry	Darmnaht	0	
 orth	Darmnaht	deu	
 foreign	entérorrhaphie	fra	
@@ -2750,7 +2743,6 @@ foreign	dysentérie	fra
 foreign	lientérie	fra	
 entry	Darmsaugadern	0	
 orth	Darmsaugadern	deu	
-foreign	vaisseaux absorbants de l’intestin	fra	
 entry	Darmschleim	0	
 orth	Darmschleim	deu	
 foreign	mucosité intestinale	fra	
@@ -2763,8 +2755,8 @@ foreign	entérotomie	fra
 entry	Darmstein	0	
 orth	Darmstein	deu	
 foreign	entérolithe	fra	
-entry	Damverschlingung	0	
-orth	Damverschlingung	deu	
+entry	DamverschlingungDarmverschlingung	0	
+orth	Darmverschlingung	deu	
 foreign	volvulus	fra	
 entry	Darmverstopfung	0	
 orth	Darmverstopfung	deu	
@@ -2830,15 +2822,15 @@ foreign	alambic	fra
 entry	Destillirkolben	0	
 orth	Destillirkolben	deu	
 foreign	cucurbite	fra	
-entry	Destillirung	0	
-orth	Destillirung	deu	
+entry	DestillirungDestillierung	0	
+orth	Destillierung	deu	
 foreign	distillation	fra	
 entry	Diät	0	
 orth	Diät	deu	
 foreign	régime	fra	
 entry	Diätetik	0	
 orth	Diätetik	deu	
-foreign	la diététique	fra	
+foreign	diététique (la)	fra	
 entry	Dicht	0	
 orth	Dicht	deu	
 foreign	compacte	fra	
@@ -2851,7 +2843,7 @@ entry	Dichtigkeitsgrad	0
 orth	Dichtigkeitsgrad	deu	
 foreign	consistance	fra	
 entry	Dickblätterig 	0	
-orth	Dickblätterig 	deu	
+orth	Dickblätterig	deu	
 foreign	pachyphylle	fra	
 entry	Dickhäuter	0	
 orth	Dickhäuter	deu	
@@ -2922,10 +2914,8 @@ orth	Dotter	deu
 foreign	vitellus	fra	
 entry	Dottergang	0	
 orth	Dottergang	deu	
-foreign	conduit vitellin	fra	
 entry	Dotterhaut	0	
 orth	Dotterhaut	deu	
-foreign	membrane vitelline	fra	
 entry	Drachenblut	0	
 orth	Drachenblut	deu	
 foreign	sang-dragon	fra	
@@ -2949,7 +2939,7 @@ orth	Dreitägiges Fieber	deu
 foreign	fièvre tierce	fra	
 entry	Dreizählig	0	
 orth	Dreizählig	deu	
-foreign	terne	fra	
+foreign	terné	fra	
 entry	Drohne	0	
 orth	Drohne	deu	
 foreign	bourdon	fra	
@@ -2970,7 +2960,6 @@ orth	Drüse	deu
 foreign	glande	fra	
 entry	Drüsenanschwellung	0	
 orth	Drüsenanschwellung	deu	
-foreign	gonflement d’une glande	fra	
 entry	Drüsenartig	0	
 orth	Drüsenartig	deu	
 foreign	glandulaire	fra	
@@ -2988,20 +2977,18 @@ orth	Drüsenentzündung	deu
 foreign	adénite	fra	
 entry	Drüsengeschwulst	0	
 orth	Drüsengeschwulst	deu	
-foreign	tumeur glanduleuse	fra	
 foreign	bubonocèle	fra	
 foreign	bubon	fra	
 entry	Drüsenhöhle	0	
 orth	Drüsenhöhle	deu	
 foreign	crypte	fra	
 foreign	follicule	fra	
-entry	Drüsicht, drüsig	0	
+entry	Drüsicht, Drüsig	0	
 orth	Drüsicht	deu	
-orth	Drüsig		
+orth	Drüsig	deu	
 foreign	glanduleux	fra	
 entry	Duftig	0	
 orth	Duftig	deu	
-foreign	en moiteur	fra	
 entry	Dumpf	0	
 orth	Dumpf	deu	
 foreign	mat	fra	
@@ -3047,8 +3034,8 @@ foreign	javart	fra
 entry	Durchlöchert	0	
 orth	Durchlöchert	deu	
 foreign	criblé	fra	
-entry	Durchmesse?	0	
-orth	Durchmesse?	deu	
+entry	Durchmesser	0	
+orth	Durchmesser	deu	
 foreign	diamètre	fra	
 entry	Durchschneidung	0	
 orth	Durchschneidung	deu	
@@ -3108,8 +3095,7 @@ orth	Dyspnöe	deu
 foreign	dyspnée	fra	
 entry	Eben	0	
 orth	Eben	deu	
-foreign	plan	fra	
-foreign	plane	fra	
+foreign	plan, plane	fra	
 entry	Ebenmaass	0	
 orth	Ebenmaass	deu	
 foreign	proportion	fra	
@@ -3123,7 +3109,7 @@ orth	Eber	deu
 foreign	verrat	fra	
 entry	Eberwurzel	0	
 orth	Eberwurzel	deu	
-foreign	car line	fra	
+foreign	carline	fra	
 entry	Eckig	0	
 orth	Eckig	deu	
 foreign	anguleux	fra	
@@ -3133,7 +3119,7 @@ foreign	effervescence	fra
 entry	Egel	0	
 orth	Egel	deu	
 foreign	sangsue	fra	
-foreign	douve du foie	fra	
+foreign	douve	fra	
 entry	Ehe	0	
 orth	Ehe	deu	
 foreign	mariage	fra	
@@ -3154,7 +3140,6 @@ orth	Eichen	deu
 foreign	ovule	fra	
 entry	Eidotter	0	
 orth	Eidotter	deu	
-foreign	jaune d’œuf	fra	
 foreign	vitellus	fra	
 entry	Eidotterfett	0	
 orth	Eidotterfett	deu	
@@ -3239,7 +3224,7 @@ orth	Eigenschaft	deu
 foreign	propriété	fra	
 entry	Einarten	0	
 orth	Einarten	deu	
-foreign	s’acclimater	fra	
+foreign	acclimater (s')	fra	
 entry	Einäscherung	0	
 orth	Einäscherung	deu	
 foreign	incinération	fra	
@@ -3289,9 +3274,20 @@ orth	Einhufig	deu
 foreign	solipède	fra	
 entry	Einlappig	0	
 orth	Einlappig	deu	
-foreign	qui n’a qu’un lobe	fra	
-entry	Einbalsamirung	0	
-orth	Einbalsamirung	deu	
+entry	EnmännerigEinmännerig	0	
+orth	Einmännerig	deu	
+foreign	monandre	fra	
+entry	EinmännerigkreitEinmännerigkeit	0	
+orth	Einmännerigkeit	deu	
+foreign	monandrie	fra	
+entry	Einsamig	0	
+orth	Einsamig	deu	
+foreign	monosperme	fra	
+entry	Eintägig	0	
+orth	Eintägig	deu	
+foreign	éphémère	fra	
+entry	EinbalsamirungEinbalsamierung	0	
+orth	Einbalsamierung	deu	
 foreign	embaumement	fra	
 entry	Einbildung	0	
 orth	Einbildung	deu	
@@ -3338,12 +3334,12 @@ orth	Eingedrückt	deu
 foreign	rétus	fra	
 entry	Eingerollt	0	
 orth	Eingerollt	deu	
-foreign	involute	fra	
+foreign	involuté	fra	
 entry	Eingeschlossen	0	
 orth	Eingeschlossen	deu	
 foreign	inclus	fra	
-entry	Ein geschnitten	0	
-orth	Ein geschnitten	deu	
+entry	Eingeschnitten	0	
+orth	Eingeschnitten	deu	
 foreign	dentelé	fra	
 foreign	incisé	fra	
 entry	Eingewachsen	0	
@@ -3366,10 +3362,9 @@ foreign	indigène	fra
 entry	Einimpfung	0	
 orth	Einimpfung	deu	
 foreign	inoculation	fra	
-entry	Einkeilen sich	0	
-orth	Einkeilen sich	deu	
-foreign	s’enclaver	fra	
-foreign	s’articuler par gomphose	fra	
+entry	Einkeilen, sich	0	
+orth	Einkeilen, sich	deu	
+foreign	enclaver (s')	fra	
 entry	Einkeilung	0	
 orth	Einkeilung	deu	
 foreign	enclavement	fra	
@@ -3383,9 +3378,9 @@ foreign	incarcération	fra
 entry	Einkochung	0	
 orth	Einkochung	deu	
 foreign	coction	fra	
-entry	Einlenken sich	0	
-orth	Einlenken sich	deu	
-foreign	s’articuler	fra	
+entry	Einlenken, sich	0	
+orth	Einlenken, sich	deu	
+foreign	articuler (s')	fra	
 entry	Einlenkung	0	
 orth	Einlenkung	deu	
 foreign	articulation	fra	
@@ -3395,24 +3390,21 @@ foreign	abouchement	fra
 entry	Einpflanzen	0	
 orth	Einpflanzen	deu	
 foreign	implantation	fra	
-entry	Einpuppen sich	0	
-orth	Einpuppen sich	deu	
-foreign	se métamorphoser en chrysalide	fra	
+entry	Einpuppen, sich	0	
+orth	Einpuppen, sich	deu	
 entry	Einrenkung	0	
 orth	Einrenkung	deu	
 foreign	réduction	fra	
 entry	Einrichten	0	
 orth	Einrichten	deu	
-foreign	réduire un os	fra	
+foreign	réduire	fra	
 entry	Einrichtung	0	
 orth	Einrichtung	deu	
 foreign	réduction	fra	
 entry	Einsaugeader	0	
 orth	Einsaugeader	deu	
-foreign	vaisseau absorbant	fra	
 entry	Einsaugemittel	0	
 orth	Einsaugemittel	deu	
-foreign	remède absorbant	fra	
 entry	Einsaugung	0	
 orth	Einsaugung	deu	
 foreign	absorption	fra	
@@ -3431,6 +3423,7 @@ orth	Einschmierung	deu
 foreign	illition	fra	
 entry	Einschneiden	0	
 orth	Einschneiden	deu	
+foreign	scarifier	fra	
 entry	Einschnitt	0	
 orth	Einschnitt	deu	
 foreign	incision	fra	
@@ -3463,12 +3456,10 @@ orth	Einverleibung	deu
 foreign	incorporation	fra	
 entry	Einwachsen	0	
 orth	Einwachsen	deu	
-foreign	s’incarner	fra	
-foreign	en parlant de l’ongle	fra	
+foreign	incarner (s')	fra	
 pb	1743	1757	
 entry	Einwärtskehrung	0	
 orth	Einwärtskehrung	deu	
-foreign	renversement en dedans	fra	
 entry	Einwärtsziehung	0	
 orth	Einwärtsziehung	deu	
 foreign	adduction	fra	
@@ -3492,7 +3483,6 @@ orth	Eisen	deu
 foreign	fer	fra	
 entry	Eisenarznei	0	
 orth	Eisenarznei	deu	
-foreign	remède ferrugineux	fra	
 entry	Eisenhaltig	0	
 orth	Eisenhaltig	deu	
 foreign	ferrugineux	fra	
@@ -3513,7 +3503,6 @@ entry	Eisenöl	0
 orth	Eisenöl	deu	
 entry	Eisentinctur	0	
 orth	Eisentinctur	deu	
-foreign	teinture de fer	fra	
 entry	Eisenwasser	0	
 orth	Eisenwasser	deu	
 foreign	eau ferrugineuse	fra	
@@ -3522,7 +3511,6 @@ orth	Eiter	deu
 foreign	pus	fra	
 entry	Eiterabgang	0	
 orth	Eiterabgang	deu	
-foreign	évacuation de pus par les selles	fra	
 entry	Eiterartig	0	
 orth	Eiterartig	deu	
 foreign	purulent	fra	
@@ -3538,14 +3526,12 @@ orth	Eiterbefördernd	deu
 foreign	suppuratif	fra	
 entry	Eiterbeule	0	
 orth	Eiterbeule	deu	
-foreign	collection purulente	fra	
 foreign	pustule	fra	
 entry	Eiterbeulig	0	
 orth	Eiterbeulig	deu	
 foreign	pustuleux	fra	
 entry	Eiterbildung	0	
 orth	Eiterbildung	deu	
-foreign	formation du pus	fra	
 entry	Eiterblatter	0	
 orth	Eiterblatter	deu	
 foreign	pustule	fra	
@@ -3557,7 +3543,6 @@ orth	Eiterbrust	deu
 foreign	empyème	fra	
 entry	Eitererzeugung	0	
 orth	Eitererzeugung	deu	
-foreign	production du pus	fra	
 entry	Eiterfasern	0	
 orth	Eiterfasern	deu	
 foreign	filandre	fra	
@@ -3567,13 +3552,10 @@ foreign	impétigo	fra
 entry	Eiterfluss	0	
 orth	Eiterfluss	deu	
 foreign	flux de pus	fra	
-foreign	pus qui fuse	fra	
 entry	Eiterfrass	0	
 orth	Eiterfrass	deu	
-foreign	corrosion par le pus	fra	
 entry	Eitergang	0	
 orth	Eitergang	deu	
-foreign	fusée purulente	fra	
 entry	Eitergeschwulst	0	
 orth	Eitergeschwulst	deu	
 foreign	abcès	fra	
@@ -3588,10 +3570,9 @@ orth	Eiterhöhle	deu
 foreign	caverne	fra	
 entry	Eiterhusten	0	
 orth	Eiterhusten	deu	
-foreign	toux purulente	fra	
-entry	Eitericht, eiterig	0	
+entry	Eitericht, Eiterig	0	
 orth	Eitericht	deu	
-orth	Eiterig		
+orth	Eiterig	deu	
 foreign	purulent	fra	
 entry	Eitern	0	
 orth	Eitern	deu	
@@ -3607,7 +3588,6 @@ orth	Eiterpfropf	deu
 foreign	bourbillon	fra	
 entry	Eitersack	0	
 orth	Eitersack	deu	
-foreign	poche d’un abcès	fra	
 foreign	vomique	fra	
 entry	Eiterstock	0	
 orth	Eiterstock	deu	
@@ -3625,8 +3605,8 @@ entry	Ekel	0
 orth	Ekel	deu	
 foreign	nausée	fra	
 foreign	dégoût	fra	
-entry	Elasticitât	0	
-orth	Elasticitât	deu	
+entry	Elasticität	0	
+orth	Elasticität	deu	
 foreign	élasticité	fra	
 entry	Elastisch	0	
 orth	Elastisch	deu	
@@ -3637,18 +3617,18 @@ foreign	électricité	fra
 entry	Elektrisch	0	
 orth	Elektrisch	deu	
 foreign	électrique	fra	
-entry	Elektrisirung	0	
-orth	Elektrisirung	deu	
+entry	ElektrisirungElektrisierung	0	
+orth	Elektrisierung	deu	
 foreign	électrisation	fra	
 entry	Elementar	0	
 orth	Elementar	deu	
 foreign	élémentaire	fra	
 entry	Elephantenaussatz	0	
 orth	Elephantenaussatz	deu	
-foreign	éléphantiasis des Grecs	fra	
+foreign	éléphantiasis	fra	
 entry	Elephantenbein	0	
 orth	Elephantenbein	deu	
-foreign	elephantiasis des Arabes	fra	
+foreign	éléphantiasis	fra	
 entry	Elephantenlaus	0	
 orth	Elephantenlaus	deu	
 foreign	anacarde	fra	
@@ -3661,7 +3641,7 @@ foreign	coude	fra
 entry	Ellenbogenbein	0	
 orth	Ellenbogenbein	deu	
 foreign	cubitus	fra	
-foreign	facile	fra	
+foreign	focile	fra	
 entry	Ellenbogenblutader	0	
 orth	Ellenbogenblutader	deu	
 foreign	veine cubitale	fra	
@@ -3695,8 +3675,8 @@ foreign	embryon	fra
 entry	Empfänglichkeit	0	
 orth	Empfänglichkeit	deu	
 foreign	susceptibilité	fra	
-entry	Empfângniss	0	
-orth	Empfângniss	deu	
+entry	Empfängniss	0	
+orth	Empfängniss	deu	
 foreign	conception	fra	
 entry	Empfindend	0	
 orth	Empfindend	deu	
@@ -3713,18 +3693,6 @@ foreign	sensibilité	fra
 entry	Empiriker	0	
 orth	Empiriker	deu	
 foreign	empirique	fra	
-entry	Enmännerig	0	
-orth	Enmännerig	deu	
-foreign	monandre	fra	
-entry	Ein. männerigkreit	0	
-orth	Ein. männerigkreit	deu	
-foreign	monandrie	fra	
-entry	Einsamig	0	
-orth	Einsamig	deu	
-foreign	mono sperme	fra	
-entry	Eintägig	0	
-orth	Eintägig	deu	
-foreign	éphémère	fra	
 entry	Ende	0	
 orth	Ende	deu	
 foreign	terminaison	fra	
@@ -3733,8 +3701,6 @@ orth	Endemisch	deu
 foreign	endémique	fra	
 entry	Engbrüstig	0	
 orth	Engbrüstig	deu	
-foreign	poitrine étroite	fra	
-foreign	respiration gênée	fra	
 entry	Engbrüstigkeit	0	
 orth	Engbrüstigkeit	deu	
 foreign	dyspnée	fra	
@@ -3748,19 +3714,18 @@ foreign	abâtardissement	fra
 foreign	dégradation	fra	
 entry	Entbinden	0	
 orth	Entbinden	deu	
-foreign	accoucher une femme	fra	
+foreign	accoucher	fra	
 entry	Entbindung	0	
 orth	Entbindung	deu	
 foreign	accouchement	fra	
 entry	Entbindungsanstalt	0	
 orth	Entbindungsanstalt	deu	
-foreign	maison d’accouchement	fra	
 entry	Entbindungskunst	0	
 orth	Entbindungskunst	deu	
 foreign	obstétrique	fra	
-entry	Entblössen sich	0	
-orth	Entblössen sich	deu	
-foreign	se dénuder	fra	
+entry	Entblössen, sich	0	
+orth	Entblössen, sich	deu	
+foreign	dénuder (se)	fra	
 entry	Entblössung	0	
 orth	Entblössung	deu	
 foreign	dénudation	fra	
@@ -3781,9 +3746,13 @@ orth	Entkräften	deu
 foreign	débiliter	fra	
 entry	Entkräftung	0	
 orth	Entkräftung	deu	
+foreign	épuisement	fra	
+foreign	affaiblissement	fra	
+foreign	prostration	fra	
+foreign	exténuation	fra	
 entry	Entleeren	0	
 orth	Entleeren	deu	
-foreign	évacuer'	fra	
+foreign	évacuer	fra	
 foreign	dégorger	fra	
 entry	Entleerung	0	
 orth	Entleerung	deu	
@@ -3793,7 +3762,6 @@ orth	Entnervung	deu
 foreign	énervation	fra	
 entry	Entsäuren	0	
 orth	Entsäuren	deu	
-foreign	ôter les propriétés acides	fra	
 entry	Entscheidend	0	
 orth	Entscheidend	deu	
 foreign	critique	fra	
@@ -3806,7 +3774,6 @@ orth	Entstehend	deu
 foreign	naissant	fra	
 entry	Entwässern	0	
 orth	Entwässern	deu	
-foreign	priver d’eau	fra	
 foreign	rectifier	fra	
 entry	Entwässerung	0	
 orth	Entwässerung	deu	
@@ -3817,7 +3784,6 @@ foreign	développement	fra
 foreign	évolution	fra	
 entry	Entwickelungsröhre	0	
 orth	Entwickelungsröhre	deu	
-foreign	tube de sûreté	fra	
 entry	Entwöhnung	0	
 orth	Entwöhnung	deu	
 foreign	sevrage	fra	
@@ -3831,13 +3797,12 @@ foreign	inflammatoire	fra
 entry	Entzündung	0	
 orth	Entzündung	deu	
 foreign	inflammation	fra	
-entry	Entzündungssfieber	0	
-orth	Entzündungssfieber	deu	
+entry	EntzündungssfieberEntzündungsfieber	0	
+orth	Entzündungsfieber	deu	
 foreign	fièvre inflammatoire	fra	
-foreign	angioténique	fra	
+foreign	fièvre angioténique	fra	
 entry	Entzündungshaut	0	
 orth	Entzündungshaut	deu	
-foreign	couenne inflammatoire	fra	
 entry	Entzündungswidrig	0	
 orth	Entzündungswidrig	deu	
 foreign	antiphlogistique	fra	
@@ -3868,8 +3833,8 @@ foreign	héréditaire	fra
 entry	Erblichkeit	0	
 orth	Erblichkeit	deu	
 foreign	hérédité	fra	
-entry	Erbrechen sich	0	
-orth	Erbrechen sich	deu	
+entry	Erbrechen, sich	0	
+orth	Erbrechen, sich	deu	
 foreign	vomir	fra	
 entry	Erbrechen	0	
 orth	Erbrechen	deu	
@@ -3879,7 +3844,6 @@ orth	Erbse	deu
 foreign	pois	fra	
 entry	Erbsenbein	0	
 orth	Erbsenbein	deu	
-foreign	os pisiforme	fra	
 entry	Erbsenförmig	0	
 orth	Erbsenförmig	deu	
 foreign	pisiforme	fra	
@@ -3906,7 +3870,7 @@ orth	Erdfahl	deu
 foreign	lurideux	fra	
 entry	Erdnuss	0	
 orth	Erdnuss	deu	
-foreign	terrenoix	fra	
+foreign	terre-noix	fra	
 entry	Erdpech	0	
 orth	Erdpech	deu	
 foreign	naphte	fra	
@@ -3927,7 +3891,6 @@ orth	Erectiles Gewebe	deu
 foreign	tissu érectile	fra	
 entry	Erethistisch	0	
 orth	Erethistisch	deu	
-foreign	qui tient à la surexcitation	fra	
 entry	Erfahrung	0	
 orth	Erfahrung	deu	
 foreign	expérience	fra	
@@ -3966,9 +3929,8 @@ foreign	pendaison	fra
 entry	Erhitzung	0	
 orth	Erhitzung	deu	
 foreign	échauffement	fra	
-entry	Erkälten sich	0	
-orth	Erkälten sich	deu	
-foreign	prendre froid	fra	
+entry	Erkälten, sich	0	
+orth	Erkälten, sich	deu	
 entry	Erkältend	0	
 orth	Erkältend	deu	
 foreign	réfrigérant	fra	
@@ -3980,7 +3942,6 @@ orth	Erkennungszeichen	deu
 foreign	caractère	fra	
 entry	Erkranken	0	
 orth	Erkranken	deu	
-foreign	tomber malade	fra	
 entry	Erlenbaum	0	
 orth	Erlenbaum	deu	
 foreign	aune	fra	
@@ -4052,8 +4013,8 @@ foreign	clarification	fra
 entry	Erweichen	0	
 orth	Erweichen	deu	
 foreign	ramollir	fra	
-entry	Erw eichend	0	
-orth	Erw eichend	deu	
+entry	Erweichend	0	
+orth	Erweichend	deu	
 foreign	émollient	fra	
 foreign	malactique	fra	
 entry	Erweichung	0	
@@ -4121,7 +4082,7 @@ orth	Essigauflösung	deu
 foreign	acétolé	fra	
 entry	Essigauszug	0	
 orth	Essigauszug	deu	
-foreign	acélolature	fra	
+foreign	acétolature	fra	
 entry	Essiggährung	0	
 orth	Essiggährung	deu	
 foreign	fermentation acétique	fra	
@@ -4148,7 +4109,6 @@ orth	Extract	deu
 foreign	extrait	fra	
 entry	Extractivstoff	0	
 orth	Extractivstoff	deu	
-foreign	principe extractif	fra	
 entry	Fach	0	
 orth	Fach	deu	
 foreign	cellule	fra	
@@ -4174,7 +4134,7 @@ orth	Fadennudeln	deu
 foreign	vermicelle	fra	
 entry	Fadenwurm	0	
 orth	Fadenwurm	deu	
-foreign	flaire	fra	
+foreign	filaire	fra	
 entry	Fähigkeit	0	
 orth	Fähigkeit	deu	
 foreign	faculté	fra	
@@ -4184,13 +4144,12 @@ orth	Fährte	deu
 foreign	piste	fra	
 entry	Fall (vétér.)	0	
 orth	Fall (vétér.)	deu	
-foreign	mortalité sur les bêtes	fra	
+foreign	mortalité	fra	
 entry	Fällen	0	
 orth	Fällen	deu	
 foreign	précipiter (un sel)	fra	
 entry	Fallend, fallende Sucht	0	
-orth	Fallend	deu	
-orth	Fallende Sucht		
+orth	Fallend, fallende Sucht	deu	
 foreign	mal caduc	fra	
 entry	Fallsucht	0	
 orth	Fallsucht	deu	
@@ -4207,11 +4166,12 @@ foreign	paracousie	fra
 entry	Falsettstimme	0	
 orth	Falsettstimme	deu	
 foreign	voix de fausset	fra	
-entry	Faite	0	
-orth	Faite	deu	
+entry	Falte	0	
+orth	Falte	deu	
 foreign	pli	fra	
 entry	Faltenmagen	0	
 orth	Faltenmagen	deu	
+foreign	feuillet	fra	
 entry	Farbe	0	
 orth	Farbe	deu	
 foreign	couleur	fra	
@@ -4223,7 +4183,6 @@ orth	Farbenblindheit	deu
 foreign	dyschromatopsie	fra	
 entry	Farbestoff	0	
 orth	Farbestoff	deu	
-foreign	principe colorant	fra	
 entry	Farbewechselnd	0	
 orth	Farbewechselnd	deu	
 foreign	versicolore	fra	
@@ -4261,15 +4220,15 @@ orth	Faserkrebs	deu
 foreign	squirrhe	fra	
 entry	Fasernzelle	0	
 orth	Fasernzelle	deu	
-foreign	fibrecellule	fra	
+foreign	fibre-cellule	fra	
 entry	Faserstoff	0	
 orth	Faserstoff	deu	
 foreign	fibrine	fra	
 entry	Fasten	0	
 orth	Fasten	deu	
 foreign	asitie	fra	
-entry	Faüle	0	
-orth	Faüle	deu	
+entry	FaüleFäule	0	
+orth	Fäule	deu	
 foreign	putrilage	fra	
 foreign	pourriture	fra	
 entry	Faulfieber	0	
@@ -4315,7 +4274,6 @@ foreign	vice	fra
 foreign	lésion organique	fra	
 entry	Fehlgeburt	0	
 orth	Fehlgeburt	deu	
-foreign	fausse couche	fra	
 foreign	avortement	fra	
 entry	Feifel	0	
 orth	Feifel	deu	
@@ -4348,7 +4306,6 @@ entry	Fell	0
 orth	Fell	deu	
 foreign	peau	fra	
 foreign	enveloppe	fra	
-foreign	fausse membrane	fra	
 entry	Fels	0	
 orth	Fels	deu	
 foreign	rocher	fra	
@@ -4368,8 +4325,8 @@ foreign	suture pétro-occipitale	fra
 entry	Felsenschlundmuskel	0	
 orth	Felsenschlundmuskel	deu	
 foreign	muscle pétro-pharyngien	fra	
-entry	Felsen Trompetenschlundmuskel	0	
-orth	Felsen Trompetenschlundmuskel	deu	
+entry	Felsen-Trompetenschlundmuskel	0	
+orth	Felsen-Trompetenschlundmuskel	deu	
 foreign	muscle stylo-pharyngien	fra	
 entry	Fenchel	0	
 orth	Fenchel	deu	
@@ -4406,7 +4363,7 @@ orth	Fessel	deu
 foreign	paturon	fra	
 entry	Fesselgeschwür	0	
 orth	Fesselgeschwür	deu	
-foreign	j avari	fra	
+foreign	javart	fra	
 entry	Fett	0	
 orth	Fett	deu	
 foreign	gras	fra	
@@ -4423,14 +4380,14 @@ orth	Fettgeschwulst	deu
 foreign	stéatome	fra	
 entry	Fetthaut	0	
 orth	Fetthaut	deu	
-foreign	tunique adipeuse	fra	
 foreign	pannicule	fra	
-entry	Fettig, fettich	0	
+entry	Fettig, Fettich	0	
 orth	Fettig	deu	
-orth	Fettich		
+orth	Fettich	deu	
 foreign	adipeux	fra	
 entry	Fettmagen	0	
 orth	Fettmagen	deu	
+foreign	caillette	fra	
 entry	Fettsäure	0	
 orth	Fettsäure	deu	
 foreign	acide sébacique	fra	
@@ -4472,7 +4429,7 @@ entry	Feuergradmesser	0
 orth	Feuergradmesser	deu	
 foreign	pyromètre	fra	
 entry	Feuermasern 	0	
-orth	Feuermasern 	deu	
+orth	Feuermasern	deu	
 foreign	roséole	fra	
 entry	Feuersbrunst	0	
 orth	Feuersbrunst	deu	
@@ -4489,7 +4446,6 @@ orth	Fieber	deu
 foreign	fièvre	fra	
 entry	Fieberanfall	0	
 orth	Fieberanfall	deu	
-foreign	accès de fièvre	fra	
 entry	Fieberbläschen	0	
 orth	Fieberbläschen	deu	
 foreign	herpès labial	fra	
@@ -4507,7 +4463,6 @@ orth	Fieberkrank	deu
 foreign	fébricitant	fra	
 entry	Fieberkuchen	0	
 orth	Fieberkuchen	deu	
-foreign	gâteau fébrile	fra	
 entry	Fieberlehre	0	
 orth	Fieberlehre	deu	
 foreign	pyrétologie	fra	
@@ -4519,16 +4474,13 @@ orth	Fiebermittel	deu
 foreign	fébrifuge	fra	
 entry	Fieberrinde	0	
 orth	Fieberrinde	deu	
-foreign	écorce du Pérou	fra	
 entry	Fieberschauer	0	
 orth	Fieberschauer	deu	
 foreign	thrill	fra	
 entry	Fieberstoff	0	
 orth	Fieberstoff	deu	
-foreign	matière fébrile	fra	
-entry	Fieber tag	0	
-orth	Fieber tag	deu	
-foreign	jour de l’accès fébrile	fra	
+entry	Fiebertag	0	
+orth	Fiebertag	deu	
 entry	Fiebertraum	0	
 orth	Fiebertraum	deu	
 foreign	rêvasserie	fra	
@@ -4537,9 +4489,8 @@ orth	Fieberwahn	deu
 foreign	transport	fra	
 entry	Filtrirsack	0	
 orth	Filtrirsack	deu	
-foreign	manche d’Hippocrate	fra	
-entry	Filtrirung	0	
-orth	Filtrirung	deu	
+entry	FiltrirungFiltrierung	0	
+orth	Filtrierung	deu	
 foreign	filtrage	fra	
 entry	Filzlaus	0	
 orth	Filzlaus	deu	
@@ -4552,10 +4503,8 @@ orth	Fingerbein	deu
 foreign	phalange	fra	
 entry	Fingerbeuger	0	
 orth	Fingerbeuger	deu	
-foreign	fléchisseur des doigts	fra	
 entry	Fingerblutadern	0	
 orth	Fingerblutadern	deu	
-foreign	veines collatérales des doigts	fra	
 entry	Fingerförmig	0	
 orth	Fingerförmig	deu	
 foreign	digitiforme	fra	
@@ -4564,7 +4513,6 @@ orth	Fingergelenk	deu
 foreign	articulation des doigts	fra	
 entry	Fingergeschwür	0	
 orth	Fingergeschwür	deu	
-foreign	ulcère au doigt	fra	
 foreign	panaris	fra	
 entry	Fingerhut	0	
 orth	Fingerhut	deu	
@@ -4575,16 +4523,15 @@ foreign	phalange	fra
 entry	Fingerkraut	0	
 orth	Fingerkraut	deu	
 foreign	potentille	fra	
-foreign	tormdntille	fra	
+foreign	tormentille	fra	
 entry	Fingerling	0	
 orth	Fingerling	deu	
-foreign	doigiier	fra	
+foreign	doigtier	fra	
 entry	Fingernerven	0	
 orth	Fingernerven	deu	
 foreign	nerfs des doigts	fra	
 entry	Fingerpulsadern	0	
 orth	Fingerpulsadern	deu	
-foreign	artères collatérales des doigts	fra	
 entry	Fingirt	0	
 orth	Fingirt	deu	
 foreign	simulé	fra	
@@ -4593,10 +4540,9 @@ orth	Finne	deu
 foreign	bouton	fra	
 entry	Finnen der Schweine	0	
 orth	Finnen der Schweine	deu	
-foreign	grains de ladrerie	fra	
 foreign	nageoire	fra	
-entry	Finnenauschlag	0	
-orth	Finnenauschlag	deu	
+entry	FinnenauschlagFinnenausschlag	0	
+orth	Finnenausschlag	deu	
 foreign	acné	fra	
 entry	Firniss	0	
 orth	Firniss	deu	
@@ -4606,24 +4552,24 @@ orth	Fisch	deu
 foreign	poisson	fra	
 entry	Fischbein	0	
 orth	Fischbein	deu	
-foreign	barbe de baleine	fra	
-entry	Fischleim	0	
-orth	Fischleim	deu	
+foreign	barbe	fra	
+entry	Fischhaut	0	
+orth	Fischhaut	deu	
 foreign	ichthyose	fra	
-entry	Fischkundë	0	
-orth	Fischkundë	deu	
-foreign	Ichthyologie	fra	
+entry	Fischkunde	0	
+orth	Fischkunde	deu	
+foreign	ichthyologie	fra	
 entry	Fischleim	0	
 orth	Fischleim	deu	
-foreign	icldhyocolle	fra	
+foreign	ichthyocolle	fra	
 entry	Fischmilch	0	
 orth	Fischmilch	deu	
 foreign	laitance	fra	
 entry	Fischschuppenaussatz	0	
 orth	Fischschuppenaussatz	deu	
 foreign	ichthyose	fra	
-entry	Fischzücht	0	
-orth	Fischzücht	deu	
+entry	Fischzucht	0	
+orth	Fischzucht	deu	
 foreign	pisciculture	fra	
 entry	Fistel	0	
 orth	Fistel	deu	
@@ -4674,8 +4620,7 @@ orth	Flechsig	deu
 foreign	tendineux	fra	
 entry	Flechte	0	
 orth	Flechte	deu	
-foreign	liehen	fra	
-foreign	plante	fra	
+foreign	lichen, plante	fra	
 foreign	herpès	fra	
 entry	Flechtenartig	0	
 orth	Flechtenartig	deu	
@@ -4686,10 +4631,10 @@ orth	Flechtengrind	deu
 foreign	teigne	fra	
 entry	Flechtenlaub	0	
 orth	Flechtenlaub	deu	
-foreign	squame darireuse	fra	
+foreign	squame dartreuse	fra	
 entry	Flechtensäure	0	
 orth	Flechtensäure	deu	
-foreign	acide lichéniqae	fra	
+foreign	acide lichénique	fra	
 entry	Fleck	0	
 orth	Fleck	deu	
 foreign	tache	fra	
@@ -4740,7 +4685,6 @@ orth	Fleischgewächs	deu
 foreign	sarcome	fra	
 entry	Fleischhaut	0	
 orth	Fleischhaut	deu	
-foreign	plan musculaire	fra	
 foreign	sarcoderme	fra	
 foreign	pannicule	fra	
 entry	Fleischig	0	
@@ -4760,7 +4704,6 @@ orth	Fliegenkopf	deu
 foreign	myiocéphale	fra	
 entry	Fliegenpflaster	0	
 orth	Fliegenpflaster	deu	
-foreign	emplâtre de cantharides	fra	
 entry	Fliessblattern	0	
 orth	Fliessblattern	deu	
 foreign	variole confluente	fra	
@@ -4807,7 +4750,7 @@ orth	Flügelförmig	deu
 foreign	ptérygoïde	fra	
 entry	Flügelfrucht	0	
 orth	Flügelfrucht	deu	
-foreign	s amare	fra	
+foreign	samare	fra	
 entry	Flügelfüssler	0	
 orth	Flügelfüssler	deu	
 foreign	ptéropodes	fra	
@@ -4823,8 +4766,8 @@ foreign	flux	fra
 entry	Flussartig	0	
 orth	Flussartig	deu	
 foreign	rhumatismal	fra	
-entry	Flussfleber	0	
-orth	Flussfleber	deu	
+entry	Flussfieber	0	
+orth	Flussfieber	deu	
 foreign	fièvre rhumatismale	fra	
 entry	Flussgalle	0	
 orth	Flussgalle	deu	
@@ -4832,8 +4775,8 @@ foreign	vessigon	fra
 entry	Flussharz	0	
 orth	Flussharz	deu	
 foreign	animé	fra	
-entry	Flusschildkröte	0	
-orth	Flusschildkröte	deu	
+entry	FlusschildkröteFlussschildkröte	0	
+orth	Flussschildkröte	deu	
 foreign	émyde	fra	
 entry	Flüssig	0	
 orth	Flüssig	deu	
@@ -4876,7 +4819,7 @@ orth	Franze	deu
 foreign	frange	fra	
 entry	Franzosenholz	0	
 orth	Franzosenholz	deu	
-foreign	gdiac	fra	
+foreign	gaïac	fra	
 entry	Frass	0	
 orth	Frass	deu	
 foreign	croscon	fra	
@@ -4908,17 +4851,16 @@ foreign	phagédénique	fra
 entry	Fressrehe (vétér.)	0	
 orth	Fressrehe (vétér.)	deu	
 foreign	cardialgie	fra	
-entry	Fresstein	0	
-orth	Fresstein	deu	
-foreign	pierre infernale	fra	
-entry	Fressucht	0	
-orth	Fressucht	deu	
+entry	FressteinFressstein	0	
+orth	Fressstein	deu	
+entry	FressuchtFresssucht	0	
+orth	Fresssucht	deu	
 foreign	boulimie	fra	
 entry	Friesel	0	
 orth	Friesel	deu	
 foreign	miliaire	fra	
-entry	Frieseikrätze	0	
-orth	Frieseikrätze	deu	
+entry	Frieselkrätze	0	
+orth	Frieselkrätze	deu	
 foreign	grattelle	fra	
 entry	Frosch	0	
 orth	Frosch	deu	
@@ -4927,7 +4869,7 @@ foreign	grenouillette	fra
 foreign	lympas	fra	
 entry	Froschader	0	
 orth	Froschader	deu	
-foreign	veine ramne	fra	
+foreign	veine ranine	fra	
 entry	Froschlaich	0	
 orth	Froschlaich	deu	
 foreign	spermiole	fra	
@@ -4961,8 +4903,7 @@ entry	Fruchtboden	0
 orth	Fruchtboden	deu	
 foreign	torus	fra	
 entry	Fruchtboden, gemeinschaftlicher	0	
-orth	Fruchtboden	deu	
-orth	Gemeinschaftlicher		
+orth	Fruchtboden, gemeinschaftlicher	deu	
 foreign	clinanthe	fra	
 entry	Fruchtfleisch	0	
 orth	Fruchtfleisch	deu	
@@ -4991,10 +4932,9 @@ orth	Fruchttragend	deu
 foreign	fructifère	fra	
 entry	Fruchtwasser	0	
 orth	Fruchtwasser	deu	
-foreign	eau de ΐamnios	fra	
+foreign	eau	fra	
 entry	Frühgeburt	0	
 orth	Frühgeburt	deu	
-foreign	accouchement avant terme	fra	
 entry	Frühling	0	
 orth	Frühling	deu	
 foreign	printemps	fra	
@@ -5013,7 +4953,6 @@ foreign	coulisse	fra
 entry	Fugengelenk	0	
 orth	Fugengelenk	deu	
 foreign	synarthrose	fra	
-foreign	articulation en charnière	fra	
 entry	Fügung	0	
 orth	Fügung	deu	
 foreign	jointure	fra	
@@ -5046,7 +4985,7 @@ entry	Fünfblätterig	0
 orth	Fünfblätterig	deu	
 foreign	pentaphylle	fra	
 entry	Fünffingerkraut 	0	
-orth	Fünffingerkraut 	deu	
+orth	Fünffingerkraut	deu	
 foreign	quintefeuille	fra	
 entry	Fünfmännerig	0	
 orth	Fünfmännerig	deu	
@@ -5080,25 +5019,25 @@ orth	Fussbeuge	deu
 foreign	cou-de-pied	fra	
 entry	Fussblatt	0	
 orth	Fussblatt	deu	
-foreign	plante du picd	fra	
+foreign	plante	fra	
 entry	Fussgelenk	0	
 orth	Fussgelenk	deu	
-foreign	articulation du pied	fra	
 entry	Fussgicht	0	
 orth	Fussgicht	deu	
 foreign	podagre	fra	
-entry	Fussknöchel Fussknorren	0	
-orth	Fussknöchel Fussknorren	deu	
-foreign	cheville du pied	fra	
+entry	Fussknöchel, Fussknorren	0	
+orth	Fussknöchel	deu	
+orth	Fussknorren	deu	
+foreign	cheville	fra	
 entry	Fussmuskel	0	
 orth	Fussmuskel	deu	
 foreign	muscle pédieux	fra	
 entry	Fussrücken	0	
 orth	Fussrücken	deu	
-foreign	dos du pied	fra	
+foreign	dos	fra	
 entry	Fussohle	0	
 orth	Fussohle	deu	
-foreign	plante du pied	fra	
+foreign	plante	fra	
 entry	Fussohlenmuskel	0	
 orth	Fussohlenmuskel	deu	
 foreign	muscle plantaire grêle	fra	
@@ -5126,8 +5065,8 @@ foreign	fermentation	fra
 entry	Gährungsstoff	0	
 orth	Gährungsstoff	deu	
 foreign	ferment	fra	
-entry	Gaigant	0	
-orth	Gaigant	deu	
+entry	Galgant	0	
+orth	Galgant	deu	
 foreign	galanga	fra	
 entry	Gallapfel	0	
 orth	Gallapfel	deu	
@@ -5164,7 +5103,7 @@ entry	Gallengrün	0
 orth	Gallengrün	deu	
 foreign	biliverdine	fra	
 entry	Gallenruhr 	0	
-orth	Gallenruhr 	deu	
+orth	Gallenruhr	deu	
 foreign	choléra-morbus	fra	
 entry	Gallenstein	0	
 orth	Gallenstein	deu	
@@ -5182,9 +5121,9 @@ foreign	picromel	fra
 entry	Gallerbsäure	0	
 orth	Gallerbsäure	deu	
 foreign	tannin	fra	
-entry	Gallicht, gallig	0	
+entry	Gallicht, Gallig	0	
 orth	Gallicht	deu	
-orth	Gallig		
+orth	Gallig	deu	
 foreign	bilieux	fra	
 entry	Gallnuss	0	
 orth	Gallnuss	deu	
@@ -5222,17 +5161,15 @@ orth	Gans	deu
 foreign	oie	fra	
 entry	Gänsedistel	0	
 orth	Gänsedistel	deu	
-foreign	lalteron	fra	
+foreign	laiteron	fra	
 entry	Gänsefuss	0	
 orth	Gänsefuss	deu	
 foreign	ansérine	fra	
 entry	Gänsehaut	0	
 orth	Gänsehaut	deu	
-foreign	peau ansérine	fra	
 entry	Garn	0	
 orth	Garn	deu	
 foreign	bonnet	fra	
-foreign	deuxième estomac des ruminants	fra	
 entry	Gartencypresse	0	
 orth	Gartencypresse	deu	
 foreign	santoline	fra	
@@ -5274,7 +5211,7 @@ orth	Gaumenpulsader	deu
 foreign	artère palatine	fra	
 entry	Gaumensegel	0	
 orth	Gaumensegel	deu	
-foreign	voile du palais	fra	
+foreign	voile	fra	
 entry	Geballt	0	
 orth	Geballt	deu	
 foreign	conglobé	fra	
@@ -5287,14 +5224,12 @@ orth	Gebärende	deu
 foreign	accouchée	fra	
 entry	Gebärhaus	0	
 orth	Gebärhaus	deu	
-foreign	maison d’accouchement	fra	
 foreign	maternité	fra	
 entry	Gebärmutter	0	
 orth	Gebärmutter	deu	
 foreign	matrice	fra	
 entry	Gebärmutterabweichung	0	
 orth	Gebärmutterabweichung	deu	
-foreign	déviation de la matrice	fra	
 entry	Gebärmutterblutung	0	
 orth	Gebärmutterblutung	deu	
 foreign	métroptose	fra	
@@ -5307,15 +5242,14 @@ orth	Gebärmutterentzündung	deu
 foreign	métrite	fra	
 entry	Gebärmuterfluss	0	
 orth	Gebärmuterfluss	deu	
-foreign	perte utérine	fra	
 entry	Gebärmuttermesser	0	
 orth	Gebärmuttermesser	deu	
 foreign	hystérotome	fra	
 entry	Gebärmutterpolyp	0	
 orth	Gebärmutterpolyp	deu	
 foreign	métropolype	fra	
-entry	Gebärmätterschmerz	0	
-orth	Gebärmätterschmerz	deu	
+entry	GebärmätterschmerzGebärmutterschmerz	0	
+orth	Gebärmutterschmerz	deu	
 foreign	hystéralgie	fra	
 foreign	métralgie	fra	
 entry	Gebärmutterschnitt	0	
@@ -5329,8 +5263,8 @@ foreign	spéculum	fra
 entry	Gebärmutterspritze	0	
 orth	Gebärmutterspritze	deu	
 foreign	métrenchyte	fra	
-entry	Gobärmuttervorfall	0	
-orth	Gobärmuttervorfall	deu	
+entry	Gebärmuttervorfall	0	
+orth	Gebärmuttervorfall	deu	
 foreign	hystéroptose	fra	
 foreign	métroptose	fra	
 entry	Gebärmutterwassersucht	0	
@@ -5338,10 +5272,8 @@ orth	Gebärmutterwassersucht	deu
 foreign	hydromètre	fra	
 entry	Gebärstuhl	0	
 orth	Gebärstuhl	deu	
-foreign	chaise à accoucher	fra	
 entry	Gebärwehen	0	
 orth	Gebärwehen	deu	
-foreign	douleurs de l’enfantement	fra	
 entry	Gebein	0	
 orth	Gebein	deu	
 foreign	squelette	fra	
@@ -5355,25 +5287,22 @@ entry	Gebiss	0
 orth	Gebiss	deu	
 foreign	mors	fra	
 entry	Gebiss, künstliches	0	
-orth	Gebiss	deu	
-orth	Künstliches		
+orth	Gebiss, künstliches	deu	
 foreign	dentier	fra	
 entry	Geburt	0	
 orth	Geburt	deu	
 foreign	naissance	fra	
 entry	Geburt, schwere	0	
-orth	Geburt	deu	
-orth	Schwere		
+orth	Geburt, schwere	deu	
 foreign	dystocie	fra	
 entry	Geburtshelfer	0	
 orth	Geburtshelfer	deu	
 foreign	accoucheur	fra	
 entry	Geburtsmaal	0	
 orth	Geburtsmaal	deu	
-foreign	. tache de naissance	fra	
+foreign	tache de naissance	fra	
 entry	Geburtstheile	0	
 orth	Geburtstheile	deu	
-foreign	parties génitales chez la femme	fra	
 entry	Geburtszange	0	
 orth	Geburtszange	deu	
 foreign	forceps	fra	
@@ -5410,17 +5339,15 @@ orth	Gefässeinmündung	deu
 foreign	inosculation	fra	
 entry	Gefässentzündung	0	
 orth	Gefässentzündung	deu	
-foreign	inflammation des vaisseaux	fra	
 entry	Gefässfieber	0	
 orth	Gefässfieber	deu	
 foreign	fièvre vasculaire	fra	
 entry	Gefässhäute	0	
 orth	Gefässhäute	deu	
-foreign	tuniques des vaisseaux	fra	
 foreign	choroïde	fra	
 entry	Gefässhautentzündung	0	
 orth	Gefässhautentzündung	deu	
-foreign	choroidite	fra	
+foreign	choroïdite	fra	
 entry	Gefässhof	0	
 orth	Gefässhof	deu	
 foreign	aréole	fra	
@@ -5430,8 +5357,8 @@ foreign	angiologie	fra
 entry	Gefässreichthum	0	
 orth	Gefässreichthum	deu	
 foreign	vascularité	fra	
-entry	Gefässystem	0	
-orth	Gefässystem	deu	
+entry	GefässystemGefässsystem	0	
+orth	Gefässsystem	deu	
 foreign	système vasculaire	fra	
 entry	Gefässverengerung	0	
 orth	Gefässverengerung	deu	
@@ -5487,14 +5414,15 @@ orth	Gegenöffnung	deu
 foreign	contre-ouverture	fra	
 entry	Gegenreiz	0	
 orth	Gegenreiz	deu	
+foreign	contre-stimulant	fra	
 entry	Gegensatz	0	
 orth	Gegensatz	deu	
 foreign	contraste	fra	
 entry	Gegenständig	0	
 orth	Gegenständig	deu	
 foreign	opposé	fra	
-entry	Get end	0	
-orth	Get end	deu	
+entry	Gegend	0	
+orth	Gegend	deu	
 foreign	région	fra	
 entry	Geheim	0	
 orth	Geheim	deu	
@@ -5514,7 +5442,7 @@ orth	Gehirnanhang	deu
 foreign	glande pituitaire	fra	
 entry	Gehirnartig	0	
 orth	Gehirnartig	deu	
-foreign	encéphaldide	fra	
+foreign	encéphaloïde	fra	
 entry	Gehirnbalken	0	
 orth	Gehirnbalken	deu	
 foreign	corps calleux	fra	
@@ -5526,25 +5454,22 @@ orth	Gehirnbrücke	deu
 foreign	pont de Varole	fra	
 entry	Gehirneinschnitt	0	
 orth	Gehirneinschnitt	deu	
-foreign	scissure interlobaire du cerveau	fra	
-entry	Gehirnentzündung 	0	
-orth	Gehirnentzündung 	deu	
+entry	Gehirnentzündung	0	
+orth	Gehirnentzündung	deu	
 foreign	encéphalite	fra	
 entry	Gehirnfalten	0	
 orth	Gehirnfalten	deu	
+foreign	petit hippocampe	fra	
 entry	Gehirnfett	0	
 orth	Gehirnfett	deu	
 foreign	cérébrine	fra	
 entry	Gehirngewölbe	0	
 orth	Gehirngewölbe	deu	
-foreign	voûte àtrois piliers	fra	
 entry	Gehirngrund	0	
 orth	Gehirngrund	deu	
-foreign	base du cerveau	fra	
 entry	Gehirnhaut	0	
 orth	Gehirnhaut	deu	
 foreign	méninge	fra	
-foreign	membrane du cerveau	fra	
 entry	Gehirnhautschlagader	0	
 orth	Gehirnhautschlagader	deu	
 foreign	artère méningée	fra	
@@ -5554,13 +5479,11 @@ orth	Gehirnkammern	deu
 foreign	ventricules du cerveau	fra	
 entry	Gehirnkern	0	
 orth	Gehirnkern	deu	
-foreign	corps calleux	fra	
 entry	Gehirnklappe	0	
 orth	Gehirnklappe	deu	
 foreign	valvule de Vieussens	fra	
 entry	Gehirnknoten	0	
 orth	Gehirnknoten	deu	
-foreign	Protubérance annulaire	fra	
 entry	Gehirnkrümmungen	0	
 orth	Gehirnkrümmungen	deu	
 entry	Gehirnlappen	0	
@@ -5568,41 +5491,39 @@ orth	Gehirnlappen	deu
 foreign	lobes du cerveau	fra	
 entry	Gehirnleben	0	
 orth	Gehirnleben	deu	
-foreign	vie cérébrale	fra	
 entry	Gehirnlehre	0	
 orth	Gehirnlehre	deu	
-foreign	Phrénologie	fra	
+foreign	phrénologie	fra	
 entry	Gehirnleiden	0	
 orth	Gehirnleiden	deu	
 foreign	encéphalopathie	fra	
-entry	Gehinmark	0	
-orth	Gehinmark	deu	
+entry	GehinmarkGehirnmark	0	
+orth	Gehirnmark	deu	
 foreign	pulpe cérébrale	fra	
 entry	Gehirnmarkstaub	0	
 orth	Gehirnmarkstaub	deu	
 foreign	myélocone	fra	
 entry	Gehirnsaum	0	
 orth	Gehirnsaum	deu	
-foreign	bandelette demi-circulaire	fra	
 entry	Gehirnscheidewand	0	
 orth	Gehirnscheidewand	deu	
-foreign	cloisons des ventricules du cerveau	fra	
 entry	Gehirnschenkel	0	
 orth	Gehirnschenkel	deu	
-foreign	cuisses du cerveau	fra	
+foreign	cuisses	fra	
 entry	Gehirnschlagader	0	
 orth	Gehirnschlagader	deu	
 foreign	artère cérébrale	fra	
 entry	Gehirnschwiele	0	
 orth	Gehirnschwiele	deu	
-foreign	corps calleux	fra	
 entry	Gehirnspalte	0	
 orth	Gehirnspalte	deu	
+foreign	canal de Bichat	fra	
 entry	Gehirntrichter	0	
 orth	Gehirntrichter	deu	
-foreign	infundibulum du cerveau	fra	
+foreign	infundibulum	fra	
 entry	Gehirnwulst	0	
 orth	Gehirnwulst	deu	
+foreign	dorne d’Ammon	fra	
 entry	Gehör	0	
 orth	Gehör	deu	
 foreign	ouïe	fra	
@@ -5621,16 +5542,14 @@ orth	Gehörnerv	deu
 foreign	nerf acoustique	fra	
 entry	Gehörschnecke	0	
 orth	Gehörschnecke	deu	
-foreign	limaçon de l’oreille	fra	
+foreign	limaçon	fra	
 entry	Gehörtrommel	0	
 orth	Gehörtrommel	deu	
 foreign	tympan	fra	
 entry	Gehörwerkzeuge	0	
 orth	Gehörwerkzeuge	deu	
-foreign	organes de l’ouïe	fra	
 entry	Gehörn	0	
 orth	Gehörn	deu	
-foreign	excroissances cornées	fra	
 entry	Gehuft	0	
 orth	Gehuft	deu	
 foreign	ongulé	fra	
@@ -5689,8 +5608,8 @@ foreign	mésentère	fra
 entry	Gekrösentzündung	0	
 orth	Gekrösentzündung	deu	
 foreign	mésentérite	fra	
-entry	Gekröspulsadem	0	
-orth	Gekröspulsadem	deu	
+entry	Gekröspulsadern	0	
+orth	Gekröspulsadern	deu	
 foreign	artères mésentériques	fra	
 entry	Gekrösschwindsucht	0	
 orth	Gekrösschwindsucht	deu	
@@ -5706,7 +5625,7 @@ orth	Gelb	deu
 foreign	jaune	fra	
 entry	Gelbes Fieber	0	
 orth	Gelbes Fieber	deu	
-foreign	la fièvre jaune	fra	
+foreign	fièvre jaune (la)	fra	
 entry	Gelbholz	0	
 orth	Gelbholz	deu	
 foreign	fustet	fra	
@@ -5733,6 +5652,8 @@ orth	Gelenkentzündung	deu
 foreign	arthrite	fra	
 entry	Gelenkfortsatz	0	
 orth	Gelenkfortsatz	deu	
+foreign	apophyse articulaire	fra	
+foreign	apophyse cubitale	fra	
 entry	Gelenkhöhle	0	
 orth	Gelenkhöhle	deu	
 foreign	cavité articulaire	fra	
@@ -5754,19 +5675,17 @@ orth	Gelenkleim	deu
 foreign	synovie	fra	
 entry	Gelenkschmerz	0	
 orth	Gelenkschmerz	deu	
-foreign	arthr algie	fra	
+foreign	arthralgie	fra	
 entry	Gelenkschmiere	0	
 orth	Gelenkschmiere	deu	
 foreign	synovie	fra	
 entry	Gelenkschwamm	0	
 orth	Gelenkschwamm	deu	
-foreign	tumeur blanche	fra	
 entry	Gelenkvereiterung	0	
 orth	Gelenkvereiterung	deu	
 foreign	arthropyose	fra	
 entry	Gelenkverwachsung	0	
 orth	Gelenkverwachsung	deu	
-foreign	soudure des surfaces articulaires	fra	
 entry	Gelenkwasser	0	
 orth	Gelenkwasser	deu	
 foreign	synovie	fra	
@@ -5797,21 +5716,20 @@ foreign	légume	fra
 entry	Gemüseartig	0	
 orth	Gemüseartig	deu	
 foreign	oléracé	fra	
-entry	Gemüthsbewegung	0	
-orth	Gemüthsbewegung	deu	
+entry	GemüthsbewegungGemütsbewegung	0	
+orth	Gemütsbewegung	deu	
 foreign	émotion	fra	
-entry	Gemüthskrankheit	0	
-orth	Gemüthskrankheit	deu	
+entry	GemüthskrankheitGemütskrankheit	0	
+orth	Gemütskrankheit	deu	
 foreign	lypémanie	fra	
-entry	Gemüthsstimmung	0	
-orth	Gemüthsstimmung	deu	
+entry	GemüthsstimmungGemütsstimmung	0	
+orth	Gemütsstimmung	deu	
 foreign	moral	fra	
 entry	Genesung	0	
 orth	Genesung	deu	
 foreign	convalescence	fra	
 entry	Genick	0	
 orth	Genick	deu	
-foreign	articulation atloïdo-axodienne	fra	
 foreign	nuque	fra	
 entry	Geradblumig	0	
 orth	Geradblumig	deu	
@@ -5821,7 +5739,7 @@ orth	Gerade	deu
 foreign	droit	fra	
 entry	Geradflügler	0	
 orth	Geradflügler	deu	
-foreign	orihopt res	fra	
+foreign	orthoptères	fra	
 entry	Geräusch	0	
 orth	Geräusch	deu	
 foreign	bruit	fra	
@@ -5833,7 +5751,7 @@ orth	Gerbersäure	deu
 foreign	acide tannique	fra	
 entry	Gerberstrauch	0	
 orth	Gerberstrauch	deu	
-foreign	redouh	fra	
+foreign	redoul	fra	
 entry	Gerbestoff	0	
 orth	Gerbestoff	deu	
 foreign	tannin	fra	
@@ -5863,7 +5781,7 @@ orth	Gerste	deu
 foreign	orge	fra	
 entry	Gerstenkorn	0	
 orth	Gerstenkorn	deu	
-foreign	orgeolet	fra	
+foreign	orgelet	fra	
 entry	Gerstenwasser	0	
 orth	Gerstenwasser	deu	
 foreign	orgeat	fra	
@@ -5872,9 +5790,8 @@ orth	Geruch	deu
 foreign	odorat	fra	
 entry	Geruchshaut	0	
 orth	Geruchshaut	deu	
-foreign	membrane pituitaire	fra	
-entry	Geruchssinn	0	
-orth	Geruchssinn	deu	
+entry	Geruchsinn	0	
+orth	Geruchsinn	deu	
 foreign	odorat	fra	
 entry	Geruchsknochen	0	
 orth	Geruchsknochen	deu	
@@ -5888,7 +5805,6 @@ orth	Geruchsinn	deu
 foreign	odorat	fra	
 entry	Geruchswerkzeuge	0	
 orth	Geruchswerkzeuge	deu	
-foreign	organes de l’olfaction	fra	
 entry	Gesalzen	0	
 orth	Gesalzen	deu	
 foreign	salé	fra	
@@ -5905,18 +5821,17 @@ orth	Gesässbein	deu
 foreign	ischion	fra	
 entry	Gesässbruch	0	
 orth	Gesässbruch	deu	
-foreign	ischiacèle	fra	
+foreign	ischiocèle	fra	
 entry	Gesässknorren	0	
 orth	Gesässknorren	deu	
-foreign	tubérosité ischiatique	fra	
 entry	Gesässmuskeln	0	
 orth	Gesässmuskeln	deu	
 foreign	muscles fessiers	fra	
 entry	Gesässnerv	0	
 orth	Gesässnerv	deu	
 foreign	nerf fessier	fra	
-entry	Gesässchlagader	0	
-orth	Gesässchlagader	deu	
+entry	GesässchlagaderGesässschlagader	0	
+orth	Gesässschlagader	deu	
 foreign	artère fessière	fra	
 entry	Gesässwirbel	0	
 orth	Gesässwirbel	deu	
@@ -5935,7 +5850,6 @@ orth	Geschlechtsabneigung	deu
 foreign	anaphrodisie	fra	
 entry	Geschlechtsglied	0	
 orth	Geschlechtsglied	deu	
-foreign	organe sexuel	fra	
 entry	Geschlechtslos	0	
 orth	Geschlechtslos	deu	
 foreign	insexué	fra	
@@ -5950,7 +5864,6 @@ orth	Geschlechtsreizend	deu
 foreign	aphrodisiaque	fra	
 entry	Geschlechtstrieb	0	
 orth	Geschlechtstrieb	deu	
-foreign	instinct sexuel	fra	
 entry	Geschmack	0	
 orth	Geschmack	deu	
 foreign	goût	fra	
@@ -5960,13 +5873,11 @@ orth	Geschmacklos	deu
 foreign	insipide	fra	
 entry	Geschmacksnerven	0	
 orth	Geschmacksnerven	deu	
-foreign	nerfs du goût	fra	
-entry	Geschmackswârzchcn 	0	
-orth	Geschmackswârzchcn 	deu	
-foreign	papilles de la langue	fra	
+entry	Geschmackswärzchen 	0	
+orth	Geschmackswärzchen	deu	
+foreign	papilles	fra	
 entry	Geschmackswerkzeuge	0	
 orth	Geschmackswerkzeuge	deu	
-foreign	organes gustatifs	fra	
 entry	Geschmeiss	0	
 orth	Geschmeiss	deu	
 foreign	issues	fra	
@@ -5984,7 +5895,8 @@ orth	Geschwulst	deu
 foreign	tumeur	fra	
 entry	Geschwür	0	
 orth	Geschwür	deu	
-foreign	abcès ulcère	fra	
+foreign	abcès	fra	
+foreign	ulcère	fra	
 entry	Geschwürbildung	0	
 orth	Geschwürbildung	deu	
 foreign	héliose	fra	
@@ -5999,7 +5911,6 @@ orth	Gesetz	deu
 foreign	loi	fra	
 entry	Gesicht	0	
 orth	Gesicht	deu	
-foreign	sens de la vue	fra	
 foreign	vision	fra	
 foreign	face	fra	
 entry	Gesichtsblödigkeit	0	
@@ -6010,14 +5921,12 @@ orth	Gesichtsblutadern	deu
 foreign	veines faciales	fra	
 entry	Gesichtsschmerz	0	
 orth	Gesichtsschmerz	deu	
-foreign	tic douloureux	fra	
 foreign	prosopalgie	fra	
 entry	Gesichtsgrind	0	
 orth	Gesichtsgrind	deu	
 foreign	teigne de la face	fra	
 entry	Gesichtshügel	0	
 orth	Gesichtshügel	deu	
-foreign	couche optique	fra	
 entry	Gesichtskreis	0	
 orth	Gesichtskreis	deu	
 foreign	horizon	fra	
@@ -6030,11 +5939,8 @@ orth	Gesichtspulsader	deu
 foreign	artère faciale	fra	
 entry	Gesichtswerkzeuge	0	
 orth	Gesichtswerkzeuge	deu	
-foreign	organe de la vision	fra	
 entry	Gesichtswinkel	0	
 orth	Gesichtswinkel	deu	
-foreign	angle facial	fra	
-foreign	angle visuel	fra	
 entry	Gespannt	0	
 orth	Gespannt	deu	
 foreign	surexcité	fra	
@@ -6070,6 +5976,9 @@ foreign	boisson	fra
 entry	Getreide	0	
 orth	Getreide	deu	
 foreign	grains	fra	
+entry	Getüpfelt	0	
+orth	Getüpfelt	deu	
+foreign	moucheté	fra	
 entry	Gewächs	0	
 orth	Gewächs	deu	
 foreign	végétal	fra	
@@ -6085,7 +5994,7 @@ orth	Gewebelehre	deu
 foreign	histologie	fra	
 entry	Geweih	0	
 orth	Geweih	deu	
-foreign	bois du cerf	fra	
+foreign	bois	fra	
 entry	Gewicht	0	
 orth	Gewicht	deu	
 foreign	poids	fra	
@@ -6113,8 +6022,9 @@ foreign	girofle	fra
 entry	Gewürzstoff	0	
 orth	Gewürzstoff	deu	
 foreign	aromate	fra	
-entry	Gezähnelt. gezahnt	0	
-orth	Gezähnelt. gezahnt	deu	
+entry	Gezähnelt, Gezahnt	0	
+orth	Gezähnelt	deu	
+orth	Gezahnt	deu	
 foreign	dentelé	fra	
 entry	Gicht	0	
 orth	Gicht	deu	
@@ -6122,7 +6032,6 @@ foreign	goutte	fra
 foreign	arthrite	fra	
 entry	Gichtablagerungen	0	
 orth	Gichtablagerungen	deu	
-foreign	concrétions tophacées	fra	
 entry	Gichtartig	0	
 orth	Gichtartig	deu	
 foreign	goutteux	fra	
@@ -6138,14 +6047,11 @@ foreign	goutteux	fra
 foreign	arthritique	fra	
 entry	Gichtknoten	0	
 orth	Gichtknoten	deu	
-foreign	nodosités goutteuses	fra	
 entry	Gichtrose	0	
 orth	Gichtrose	deu	
 foreign	pivoine	fra	
 entry	Gichtstoff	0	
 orth	Gichtstoff	deu	
-foreign	matière goutteuse	fra	
-foreign	principe goutteux	fra	
 entry	Giessbad	0	
 orth	Giessbad	deu	
 foreign	douche	fra	
@@ -6201,16 +6107,14 @@ foreign	verre	fra
 entry	Glasartig	0	
 orth	Glasartig	deu	
 foreign	vitré	fra	
-foreign	hyaldide	fra	
+foreign	hyaloïde	fra	
 entry	Glasauge (vétér.)	0	
 orth	Glasauge (vétér.)	deu	
 foreign	cataracte	fra	
 entry	Glashaut	0	
 orth	Glashaut	deu	
-foreign	membrane hyaldide	fra	
 entry	Glaskörper	0	
 orth	Glaskörper	deu	
-foreign	corps vitré	fra	
 entry	Glaskörperverflüssigung	0	
 orth	Glaskörperverflüssigung	deu	
 foreign	synchysis	fra	
@@ -6219,7 +6123,7 @@ orth	Glaskraut	deu
 foreign	pariétaire	fra	
 entry	Glasur	0	
 orth	Glasur	deu	
-foreign	émail des dents	fra	
+foreign	émail	fra	
 entry	Glätte	0	
 orth	Glätte	deu	
 foreign	litharge	fra	
@@ -6275,9 +6179,6 @@ foreign	hydarthrose	fra
 entry	Glocke	0	
 orth	Glocke	deu	
 foreign	cloche	fra	
-entry	Getüpfelt	0	
-orth	Getüpfelt	deu	
-foreign	moucheté	fra	
 entry	Gold	0	
 orth	Gold	deu	
 foreign	or	fra	
@@ -6294,8 +6195,8 @@ foreign	dorade	fra
 entry	Goldhaltig	0	
 orth	Goldhaltig	deu	
 foreign	aurifique	fra	
-entry	Goldschiaegerhäutchen	0	
-orth	Goldschiaegerhäutchen	deu	
+entry	Goldschlaegerhäutchen	0	
+orth	Goldschlaegerhäutchen	deu	
 foreign	baudruche	fra	
 entry	Goldschlagader	0	
 orth	Goldschlagader	deu	
@@ -6354,13 +6255,13 @@ orth	Griffel	deu
 foreign	style	fra	
 entry	Griffelförmig	0	
 orth	Griffelförmig	deu	
-foreign	styloide	fra	
+foreign	styloïde	fra	
 entry	Griffelfortsatz	0	
 orth	Griffelfortsatz	deu	
-foreign	apophyse styloide	fra	
+foreign	apophyse styloïde	fra	
 entry	Griffelhornzungenbeinmuskel	0	
 orth	Griffelhornzungenbeinmuskel	deu	
-foreign	muscle stylo-cératohydidien	fra	
+foreign	muscle stylo-cératohyoïdien	fra	
 entry	Griffelschlundmuskel	0	
 orth	Griffelschlundmuskel	deu	
 foreign	muscle stylo-pharyngien	fra	
@@ -6386,9 +6287,9 @@ entry	Grind	0
 orth	Grind	deu	
 foreign	croûte	fra	
 foreign	teigne	fra	
-entry	Grindicht, grindig	0	
+entry	Grindicht, Grindig	0	
 orth	Grindicht	deu	
-orth	Grindig		
+orth	Grindig	deu	
 foreign	teigneux	fra	
 foreign	impétigineux	fra	
 entry	Grindkraut	0	
@@ -6419,22 +6320,19 @@ entry	Grundbein	0
 orth	Grundbein	deu	
 foreign	os basilaire	fra	
 entry	Grundfaser 	0	
-orth	Grundfaser 	deu	
-foreign	fibre élémentaire	fra	
+orth	Grundfaser	deu	
 entry	Grundfeuchtigkeit	0	
 orth	Grundfeuchtigkeit	deu	
-foreign	humide radical	fra	
 entry	Grundheil	0	
 orth	Grundheil	deu	
 foreign	sélin	fra	
 entry	Grundstoff	0	
 orth	Grundstoff	deu	
-foreign	matière première	fra	
 foreign	radical	fra	
 foreign	archyde	fra	
 entry	Grundzungenmuskel	0	
 orth	Grundzungenmuskel	deu	
-foreign	muscle basioglosse	fra	
+foreign	muscle basio-glosse	fra	
 entry	Gründling	0	
 orth	Gründling	deu	
 foreign	goujon	fra	
@@ -6452,9 +6350,9 @@ orth	Gummiartig	deu
 foreign	gommeux	fra	
 entry	Gummibaum	0	
 orth	Gummibaum	deu	
-foreign	gommant	fra	
-entry	Gummigurt, Gummigutta	0	
-orth	Gummigurt	deu	
+foreign	gommart	fra	
+entry	Gummigutt, Gummigutta	0	
+orth	Gummigutt	deu	
 orth	Gummigutta	deu	
 foreign	gomme-gutte	fra	
 entry	Gummiharz	0	
@@ -6465,7 +6363,7 @@ orth	Gummistoff	deu
 foreign	gommite	fra	
 entry	Günsel	0	
 orth	Günsel	deu	
-foreign	bügle	fra	
+foreign	bugle	fra	
 entry	Gurgel	0	
 orth	Gurgel	deu	
 foreign	pharynx	fra	
@@ -6475,13 +6373,12 @@ orth	Gurgelader	deu
 foreign	veine jugulaire	fra	
 entry	Gurgelbein	0	
 orth	Gurgelbein	deu	
-foreign	angle tranchant du cartilage thyréoïde	fra	
 entry	Gurgelnd	0	
 orth	Gurgelnd	deu	
 foreign	gargouillant	fra	
 pb	1748	1762	
-entry	Gurgel wasser	0	
-orth	Gurgel wasser	deu	
+entry	Gurgelwasser	0	
+orth	Gurgelwasser	deu	
 foreign	gargarisme	fra	
 entry	Gurke	0	
 orth	Gurke	deu	
@@ -6503,21 +6400,18 @@ orth	Gutartigkeit	deu
 foreign	bénignité	fra	
 entry	Gypsverband	0	
 orth	Gypsverband	deu	
-foreign	bandage plâtre	fra	
 entry	Haar	0	
 orth	Haar	deu	
-foreign	Poil	fra	
+foreign	poil	fra	
 foreign	cheveu	fra	
 entry	Haarbeitze	0	
 orth	Haarbeitze	deu	
 foreign	dépilatoire	fra	
 entry	Haarbekleidung	0	
 orth	Haarbekleidung	deu	
-foreign	système pileux	fra	
 foreign	pubescence	fra	
 entry	Haarbruch	0	
 orth	Haarbruch	deu	
-foreign	fracture capillaire	fra	
 entry	Haarförmig	0	
 orth	Haarförmig	deu	
 foreign	capillaire	fra	
@@ -6530,11 +6424,10 @@ orth	Haarharnen	deu
 foreign	pilimiction	fra	
 entry	Haarkopfwurm	0	
 orth	Haarkopfwurm	deu	
-foreign	trichocéph	fra	
-foreign	ale	fra	
+foreign	trichocéphale	fra	
 entry	Haarkrankheit	0	
 orth	Haarkrankheit	deu	
-foreign	Plique	fra	
+foreign	plique	fra	
 entry	Haarlosigkeit	0	
 orth	Haarlosigkeit	deu	
 foreign	calvitie	fra	
@@ -6546,7 +6439,6 @@ orth	Haarseil	deu
 foreign	séton	fra	
 entry	Haarspalt	0	
 orth	Haarspalt	deu	
-foreign	fracture capillaire	fra	
 foreign	trichisme	fra	
 entry	Haarstrang	0	
 orth	Haarstrang	deu	
@@ -6558,13 +6450,13 @@ orth	Haarwurm	deu
 foreign	filaire	fra	
 entry	Haarwurzel	0	
 orth	Haarwurzel	deu	
-foreign	bulbe d’un poil	fra	
+foreign	bulbe	fra	
 entry	Habicht	0	
 orth	Habicht	deu	
 foreign	autour	fra	
 entry	Habichtskraut	0	
 orth	Habichtskraut	deu	
-foreign	Piloselle	fra	
+foreign	piloselle	fra	
 entry	Hafer	0	
 orth	Hafer	deu	
 foreign	avoine	fra	
@@ -6585,7 +6477,7 @@ orth	Hagel	deu
 foreign	grêle	fra	
 entry	Hagelfleck	0	
 orth	Hagelfleck	deu	
-foreign	Chalaze	fra	
+foreign	chalaze	fra	
 entry	Hagelkorn	0	
 orth	Hagelkorn	deu	
 foreign	chalazion	fra	
@@ -6594,6 +6486,9 @@ orth	Hahn	deu
 foreign	coq	fra	
 entry	Hahnenkamm	0	
 orth	Hahnenkamm	deu	
+foreign	apophyse cristagalli	fra	
+foreign	végétation	fra	
+foreign	crête	fra	
 entry	Hahnentritt	0	
 orth	Hahnentritt	deu	
 foreign	chalaze	fra	
@@ -6611,7 +6506,6 @@ orth	Hakenband	deu
 foreign	ligament coracoïdien	fra	
 entry	Hakenbein	0	
 orth	Hakenbein	deu	
-foreign	os crochu	fra	
 entry	Hakenförmig	0	
 orth	Hakenförmig	deu	
 foreign	unciforme	fra	
@@ -6621,7 +6515,6 @@ foreign	apophyse unciforme	fra
 foreign	coracoïde	fra	
 entry	Hakenknochen	0	
 orth	Hakenknochen	deu	
-foreign	os unciforme	fra	
 foreign	apophyse coracoïde	fra	
 entry	Hakenwurm	0	
 orth	Hakenwurm	deu	
@@ -6634,7 +6527,7 @@ orth	Halbdornmuskel	deu
 foreign	muscle semi-spinal	fra	
 entry	Halbeirundes Fenster	0	
 orth	Halbeirundes Fenster	deu	
-foreign	fenêtre ovale de l’oreille moyenne	fra	
+foreign	fenêtre ovale	fra	
 entry	Halbflechsig	0	
 orth	Halbflechsig	deu	
 foreign	demi-tendineux	fra	
@@ -6658,7 +6551,7 @@ orth	Halbpass	deu
 foreign	traquenard	fra	
 entry	Halbschatten	0	
 orth	Halbschatten	deu	
-foreign	Pénombre	fra	
+foreign	pénombre	fra	
 entry	Halbschlag	0	
 orth	Halbschlag	deu	
 foreign	hémiplégie	fra	
@@ -6675,8 +6568,8 @@ foreign	moitié	fra
 entry	Halfter	0	
 orth	Halfter	deu	
 foreign	mentonnière	fra	
-entry	Hais	0	
-orth	Hais	deu	
+entry	Hals	0	
+orth	Hals	deu	
 foreign	col	fra	
 foreign	cou	fra	
 foreign	encolure	fra	
@@ -6689,17 +6582,16 @@ foreign	angine	fra
 entry	Halsdrüsen	0	
 orth	Halsdrüsen	deu	
 foreign	amygdales	fra	
-foreign	(vétér.) avives	fra	
+foreign	avives (vétér.)	fra	
 entry	Halsentzündung	0	
 orth	Halsentzündung	deu	
-foreign	inflammation de la gorge	fra	
 entry	Halsgeflecht	0	
 orth	Halsgeflecht	deu	
 foreign	plexus cervical	fra	
 entry	Halsgeschwulst	0	
 orth	Halsgeschwulst	deu	
-foreign	tumeur cervicale (vétér.)	fra	
-foreign	étranguillon	fra	
+foreign	tumeur cervicale	fra	
+foreign	étranguillon (vétér.)	fra	
 entry	Halsgicht	0	
 orth	Halsgicht	deu	
 foreign	trachélagre	fra	
@@ -6744,14 +6636,11 @@ orth	Hammer	deu
 foreign	marteau	fra	
 entry	Hämorrhoidalbeschwerden	0	
 orth	Hämorrhoidalbeschwerden	deu	
-foreign	affection hémorrhoïdale	fra	
 entry	Hämorrhoidalknoten	0	
 orth	Hämorrhoidalknoten	deu	
-foreign	tumeurs hémorrhoidales	fra	
 foreign	marisque	fra	
 entry	Hämorrhoidalsäcke	0	
 orth	Hämorrhoidalsäcke	deu	
-foreign	hémorrhoïdes fongueuses	fra	
 entry	Hämorrhoiden	0	
 orth	Hämorrhoiden	deu	
 foreign	hémorrhoïdes	fra	
@@ -6769,9 +6658,9 @@ orth	Handballen	deu
 foreign	thénar	fra	
 entry	Handband	0	
 orth	Handband	deu	
-foreign	ligament de la main	fra	
 entry	Handgelenk	0	
 orth	Handgelenk	deu	
+foreign	poignet	fra	
 entry	Handmuskel	0	
 orth	Handmuskel	deu	
 foreign	muscle palmaire	fra	
@@ -6804,9 +6693,8 @@ orth	Harnartig	deu
 foreign	urineux	fra	
 entry	Harnarzt	0	
 orth	Harnarzt	deu	
-foreign	médecin des urines	fra	
-entry	Harnbenzoësâure	0	
-orth	Harnbenzoësâure	deu	
+entry	Harnbenzoësäure	0	
+orth	Harnbenzoësäure	deu	
 foreign	acide hippurique	fra	
 entry	Harnbeschwerde	0	
 orth	Harnbeschwerde	deu	
@@ -6822,16 +6710,13 @@ orth	Harnblasensonde	deu
 foreign	algalie	fra	
 entry	Harnblasenstein	0	
 orth	Harnblasenstein	deu	
-foreign	pierre vésicale	fra	
 entry	Harnbrennen	0	
 orth	Harnbrennen	deu	
-foreign	cuisson en urinant	fra	
 entry	Harnbruch	0	
 orth	Harnbruch	deu	
 foreign	cystocèle	fra	
 entry	Harnfluss	0	
 orth	Harnfluss	deu	
-foreign	incontinence d’urine	fra	
 foreign	diabète	fra	
 entry	Harngang, Harnleiter	0	
 orth	Harngang	deu	
@@ -6842,20 +6727,16 @@ orth	Harngefäss	deu
 foreign	vaisseaux urinaires	fra	
 entry	Harngries	0	
 orth	Harngries	deu	
-foreign	dépôt graveleux	fra	
 entry	Harnhaut	0	
 orth	Harnhaut	deu	
-foreign	crémor de l’urine	fra	
 foreign	allantoïde	fra	
 entry	Harnkraukheiten	0	
 orth	Harnkraukheiten	deu	
 foreign	maladies des voies urinaires	fra	
 entry	Harnkrise	0	
 orth	Harnkrise	deu	
-foreign	crise par les urines	fra	
 entry	Harnlassen	0	
 orth	Harnlassen	deu	
-foreign	émission de l’urine	fra	
 foreign	miction	fra	
 entry	Harnröhre	0	
 orth	Harnröhre	deu	
@@ -6865,7 +6746,6 @@ orth	Harnruhr	deu
 foreign	diabète	fra	
 entry	Harnsatz	0	
 orth	Harnsatz	deu	
-foreign	dépôt de l’urine	fra	
 entry	Harnsäure	0	
 orth	Harnsäure	deu	
 foreign	acide urique	fra	
@@ -6890,22 +6770,20 @@ orth	Harntreibend	deu
 foreign	diurétique	fra	
 entry	Harnverhaltung	0	
 orth	Harnverhaltung	deu	
-foreign	rétention d’urine	fra	
 foreign	ischurie	fra	
 entry	Harnwege	0	
 orth	Harnwege	deu	
-foreign	voies urinaires	fra	
 entry	Harnwinde	0	
 orth	Harnwinde	deu	
 foreign	strangurie	fra	
 entry	Harnwolke	0	
 orth	Harnwolke	deu	
-foreign	nuage dans l’urine	fra	
 entry	Harnzapfer	0	
 orth	Harnzapfer	deu	
 foreign	cathéter	fra	
 entry	Harschen	0	
 orth	Harschen	deu	
+foreign	cicatriser (se)	fra	
 entry	Hart	0	
 orth	Hart	deu	
 foreign	dur	fra	
@@ -6943,9 +6821,10 @@ foreign	bec-de-lièvre	fra
 foreign	lagostome	fra	
 entry	Hasenschartennaht	0	
 orth	Hasenschartennaht	deu	
-foreign	suture entortillée	fra	
 entry	Haube	0	
 orth	Haube	deu	
+foreign	bonnet	fra	
+foreign	coiffe	fra	
 entry	Haufendrüsen	0	
 orth	Haufendrüsen	deu	
 foreign	glandes conglomérées	fra	
@@ -6957,7 +6836,6 @@ orth	Hauptader	deu
 foreign	veine céphalique	fra	
 entry	Hauptmittel	0	
 orth	Hauptmittel	deu	
-foreign	remède céphalique	fra	
 entry	Hauptschlagader	0	
 orth	Hauptschlagader	deu	
 foreign	aorte	fra	
@@ -6985,37 +6863,35 @@ orth	Hautausschlag	deu
 foreign	éruption à la peau	fra	
 entry	Häutchen	0	
 orth	Häutchen	deu	
-foreign	Pellicule	fra	
+foreign	pellicule	fra	
 foreign	épiderme	fra	
 entry	Hautdrüse	0	
 orth	Hautdrüse	deu	
-foreign	follicule sébacé	fra	
+foreign	follicule	fra	
 entry	Hautentzündung	0	
 orth	Hautentzündung	deu	
-foreign	inflammation du derme	fra	
 entry	Hautfinne	0	
 orth	Hautfinne	deu	
 foreign	tanne	fra	
 entry	Hautflügler	0	
 orth	Hautflügler	deu	
 foreign	hyménoptères	fra	
-entry	Häuticht, häutig	0	
+entry	Häuticht, Häutig	0	
 orth	Häuticht	deu	
-orth	Häutig		
+orth	Häutig	deu	
 foreign	membraneux	fra	
 foreign	couenneux	fra	
 entry	Hautjucken	0	
 orth	Hautjucken	deu	
-foreign	Prurit	fra	
+foreign	prurit	fra	
 foreign	prurigo	fra	
 entry	Hautkleie	0	
 orth	Hautkleie	deu	
-foreign	dar tre furfuracée	fra	
 foreign	pityriasis	fra	
 foreign	porrigo	fra	
 entry	Hautlappen	0	
 orth	Hautlappen	deu	
-foreign	lambeau de Peau	fra	
+foreign	lambeau de peau	fra	
 entry	Hautlos	0	
 orth	Hautlos	deu	
 foreign	dénudé	fra	
@@ -7024,7 +6900,6 @@ orth	Hautröthe	deu
 foreign	érythème	fra	
 entry	Hautschmiere	0	
 orth	Hautschmiere	deu	
-foreign	matière sébacée de la peau	fra	
 entry	Hautwassersucht	0	
 orth	Hautwassersucht	deu	
 foreign	anasarque	fra	
@@ -7040,7 +6915,7 @@ foreign	sage-femme	fra
 foreign	accoucheuse	fra	
 entry	Hebammenkunst	0	
 orth	Hebammenkunst	deu	
-foreign	iocologie	fra	
+foreign	tocologie	fra	
 entry	Hebel	0	
 orth	Hebel	deu	
 foreign	levier	fra	
@@ -7123,7 +6998,7 @@ orth	Heilverfahren	deu
 foreign	traitement	fra	
 entry	Heiligenbein	0	
 orth	Heiligenbein	deu	
-foreign	le sacrum	fra	
+foreign	sacrum (le)	fra	
 entry	Heimweh	0	
 orth	Heimweh	deu	
 foreign	nostalgie	fra	
@@ -7156,8 +7031,8 @@ foreign	hépatique	fra
 entry	Heraufsteigend	0	
 orth	Heraufsteigend	deu	
 foreign	montant	fra	
-entry	Herausgebran ter Theil	0	
-orth	Herausgebran ter Theil	deu	
+entry	Herausgebranter Theil	0	
+orth	Herausgebranter Theil	deu	
 foreign	eschare	fra	
 entry	Herausgedrungen	0	
 orth	Herausgedrungen	deu	
@@ -7177,8 +7052,8 @@ foreign	acerbe	fra
 entry	Herbst	0	
 orth	Herbst	deu	
 foreign	automne	fra	
-entry	Herbstzeit- • lose	0	
-orth	Herbstzeit- • lose	deu	
+entry	Herbstzeitlose	0	
+orth	Herbstzeitlose	deu	
 foreign	colchique	fra	
 entry	Hermetisch	0	
 orth	Hermetisch	deu	
@@ -7201,7 +7076,6 @@ orth	Herz	deu
 foreign	cœur	fra	
 entry	Herzbalken	0	
 orth	Herzbalken	deu	
-foreign	colonnes charnues du cœur	fra	
 entry	Herzbeklemmung	0	
 orth	Herzbeklemmung	deu	
 foreign	oppression	fra	
@@ -7222,7 +7096,6 @@ orth	Herzentzündung	deu
 foreign	cardite	fra	
 entry	Herzerweiterung	0	
 orth	Herzerweiterung	deu	
-foreign	dilatation du cœur	fra	
 foreign	cardiectasie	fra	
 entry	Herzfieber	0	
 orth	Herzfieber	deu	
@@ -7236,8 +7109,8 @@ foreign	scrobicule	fra
 entry	Herzhaut	0	
 orth	Herzhaut	deu	
 foreign	péricarde	fra	
-entry	Herhohlen	0	
-orth	Herhohlen	deu	
+entry	HerhöhlenHerzhöhlen	0	
+orth	Herzhöhlen	deu	
 foreign	cavités du cœur	fra	
 entry	Herzkammer	0	
 orth	Herzkammer	deu	
@@ -7263,7 +7136,6 @@ orth	Herzmangel	deu
 foreign	acardie	fra	
 entry	Herzmuskel	0	
 orth	Herzmuskel	deu	
-foreign	muscle creux qui constitue le cœur	fra	
 entry	Herzmuskelentzündung	0	
 orth	Herzmuskelentzündung	deu	
 foreign	myocardite	fra	
@@ -7278,7 +7150,6 @@ orth	Herzpolyp	deu
 foreign	polype du cœur	fra	
 entry	Herzsäulen	0	
 orth	Herzsäulen	deu	
-foreign	colonnes charnues du cœur	fra	
 entry	Herzschlag	0	
 orth	Herzschlag	deu	
 foreign	battement du cœur	fra	
@@ -7342,8 +7213,8 @@ foreign	encéphalocèle	fra
 entry	Hirnfett	0	
 orth	Hirnfett	deu	
 foreign	cérébrine	fra	
-entry	Hirnhaut harte	0	
-orth	Hirnhaut harte	deu	
+entry	Hirnhaut, harte	0	
+orth	Hirnhaut, harte	deu	
 foreign	dure-mère	fra	
 entry	Hirnhautentzündung	0	
 orth	Hirnhautentzündung	deu	
@@ -7386,7 +7257,6 @@ foreign	eczéma	fra
 entry	Hitzblatter	0	
 orth	Hitzblatter	deu	
 foreign	échauboulure	fra	
-foreign	pustule d’ecthyma	fra	
 entry	Hitze	0	
 orth	Hitze	deu	
 foreign	ardeur	fra	
@@ -7397,7 +7267,6 @@ foreign	aigu	fra
 foreign	inflammatoire	fra	
 entry	Hobelförmig	0	
 orth	Hobelförmig	deu	
-foreign	en forme de doloire	fra	
 entry	Höcker	0	
 orth	Höcker	deu	
 foreign	tubérosité	fra	
@@ -7415,7 +7284,6 @@ foreign	épididymite	fra
 foreign	orchite	fra	
 entry	Hodenhaut	0	
 orth	Hodenhaut	deu	
-foreign	membrane qui.enveloppe les testicules	fra	
 entry	Hodenkern	0	
 orth	Hodenkern	deu	
 foreign	corps d’Highmore	fra	
@@ -7434,15 +7302,15 @@ foreign	orchéocèle	fra
 foreign	scrotocèle	fra	
 entry	Hodensackerweiterung	0	
 orth	Hodensackerweiterung	deu	
-foreign	orckéochalazie	fra	
+foreign	orchéochalazie	fra	
 entry	Hodenschlagader	0	
 orth	Hodenschlagader	deu	
 foreign	artère testiculaire	fra	
 entry	Hodenschnitt	0	
 orth	Hodenschnitt	deu	
 foreign	orchotomie	fra	
-entry	Hodenspeçkgeschwulst	0	
-orth	Hodenspeçkgeschwulst	deu	
+entry	Hodenspeckgeschwulst	0	
+orth	Hodenspeckgeschwulst	deu	
 foreign	scirrhocèle	fra	
 entry	Hodenwassergeschwulst	0	
 orth	Hodenwassergeschwulst	deu	
@@ -7466,7 +7334,6 @@ orth	Hohldrüsen	deu
 foreign	cryptes	fra	
 entry	Hohlgeschwür	0	
 orth	Hohlgeschwür	deu	
-foreign	ulcère fistuleux	fra	
 foreign	hypophore	fra	
 entry	Höhlig	0	
 orth	Höhlig	deu	
@@ -7491,7 +7358,6 @@ orth	Holzicht	deu
 foreign	ligneux	fra	
 entry	Holztrank	0	
 orth	Holztrank	deu	
-foreign	décoction de bois sudorifique	fra	
 entry	Honig	0	
 orth	Honig	deu	
 foreign	miel	fra	
@@ -7533,13 +7399,12 @@ orth	Horngewächs	deu
 foreign	kératome	fra	
 entry	Hornhaut	0	
 orth	Hornhaut	deu	
-foreign	la cornée	fra	
+foreign	cornée (la)	fra	
 entry	Hornhautblatter	0	
 orth	Hornhautblatter	deu	
-foreign	abcès de la cornée	fra	
 entry	Hornhautbruch	0	
 orth	Hornhautbruch	deu	
-foreign	Îtératocèle	fra	
+foreign	kératocèle	fra	
 entry	Hornhautdurchstechung	0	
 orth	Hornhautdurchstechung	deu	
 foreign	kératonyxis	fra	
@@ -7569,17 +7434,14 @@ orth	Hornhautstich	deu
 foreign	kératonyxis	fra	
 entry	Hornhautverwachsung	0	
 orth	Hornhautverwachsung	deu	
-foreign	adhérence de la cornée avec l’iris	fra	
 entry	Hornhautvorfall	0	
 orth	Hornhautvorfall	deu	
-foreign	procidence de la cornée	fra	
 foreign	staphylôme	fra	
 entry	Hornkluft	0	
 orth	Hornkluft	deu	
 foreign	seime	fra	
 entry	Hornpocke	0	
 orth	Hornpocke	deu	
-foreign	pustule verrugueuse dans la varicelle	fra	
 entry	Hornstrauch	0	
 orth	Hornstrauch	deu	
 foreign	cornouiller	fra	
@@ -7630,7 +7492,6 @@ orth	Hüfte	deu
 foreign	hanche	fra	
 entry	Hüftgabel	0	
 orth	Hüftgabel	deu	
-foreign	bifurcation de la veine cave inférieure	fra	
 entry	Hüftgelenk	0	
 orth	Hüftgelenk	deu	
 foreign	articulation coxofémorale	fra	
@@ -7642,7 +7503,6 @@ orth	Hüftlochmuskel	deu
 foreign	muscle obturateur	fra	
 entry	Hüftlochskerbe	0	
 orth	Hüftlochskerbe	deu	
-foreign	gouttière du trou sous-pubien	fra	
 entry	Hüftmuskel	0	
 orth	Hüftmuskel	deu	
 foreign	muscle iliaque	fra	
@@ -7663,18 +7523,17 @@ orth	Hügel	deu
 foreign	éminence	fra	
 entry	Hühnerauge	0	
 orth	Hühnerauge	deu	
-foreign	cor au pied	fra	
+foreign	cor	fra	
 entry	Hühnerpocken	0	
 orth	Hühnerpocken	deu	
 foreign	varicelle	fra	
 entry	Hühnerweh	0	
 orth	Hühnerweh	deu	
-foreign	angine couenneuse	fra	
-entry	Hülfe	0	
-orth	Hülfe	deu	
+entry	HülfeHilfe	0	
+orth	Hilfe	deu	
 foreign	secours	fra	
-entry	Hülfsmittel	0	
-orth	Hülfsmittel	deu	
+entry	HülfsmittelHilfsmittel	0	
+orth	Hilfsmittel	deu	
 foreign	adjuvant	fra	
 entry	Hülle	0	
 orth	Hülle	deu	
@@ -7716,7 +7575,7 @@ orth	Hungertod	deu
 foreign	inanition	fra	
 entry	Hunter’sche Haut (die)	0	
 orth	Hunter’sche Haut (die)	deu	
-foreign	la membrane caduque	fra	
+foreign	membrane caduque (la)	fra	
 entry	Husten	0	
 orth	Husten	deu	
 foreign	toux	fra	
@@ -7740,11 +7599,11 @@ foreign	vacciner	fra
 entry	Impotenz	0	
 orth	Impotenz	deu	
 foreign	impuissance	fra	
-entry	Inficirung	0	
-orth	Inficirung	deu	
+entry	InficirungInfizierung	0	
+orth	Infizierung	deu	
 foreign	infection	fra	
-entry	Infiltrirt	0	
-orth	Infiltrirt	deu	
+entry	InfiltrirtInfiltriert	0	
+orth	Infiltriert	deu	
 foreign	infiltré	fra	
 entry	Infusionsthierchen	0	
 orth	Infusionsthierchen	deu	
@@ -7758,17 +7617,17 @@ foreign	membrane interne	fra
 entry	Innerlich	0	
 orth	Innerlich	deu	
 foreign	interne	fra	
-entry	Inokulirung	0	
-orth	Inokulirung	deu	
+entry	InokulirungInokulierung	0	
+orth	Inokulierung	deu	
 foreign	inoculation	fra	
 entry	Insektenpulver	0	
 orth	Insektenpulver	deu	
 foreign	insecticide	fra	
-entry	Integrirend	0	
-orth	Integrirend	deu	
+entry	IntegrirendIntegrierend	0	
+orth	Integrierend	deu	
 foreign	intégrant	fra	
-entry	Intermittirend	0	
-orth	Intermittirend	deu	
+entry	IntermittirendIntermittierend	0	
+orth	Intermittierend	deu	
 foreign	intermittent	fra	
 entry	Iod, Iodine	0	
 orth	Iod	deu	
@@ -7776,7 +7635,7 @@ orth	Iodine	deu
 foreign	iode	fra	
 entry	Iodhaltig	0	
 orth	Iodhaltig	deu	
-foreign	iode	fra	
+foreign	iodé	fra	
 entry	Iriseinschneidung	0	
 orth	Iriseinschneidung	deu	
 foreign	iridotomie	fra	
@@ -7792,21 +7651,20 @@ foreign	aliéné	fra
 foreign	fou	fra	
 entry	Irrenhaus	0	
 orth	Irrenhaus	deu	
-foreign	maison d’aliénés	fra	
 entry	Irrsinn	0	
 orth	Irrsinn	deu	
 foreign	folie	fra	
 entry	Irrgang	0	
 orth	Irrgang	deu	
-foreign	le labyrinthe	fra	
-entry	Isolirend	0	
-orth	Isolirend	deu	
+foreign	labyrinthe (le)	fra	
+entry	IsolirendIsolierend	0	
+orth	Isolierend	deu	
 foreign	isolant	fra	
 entry	Isop	0	
 orth	Isop	deu	
 foreign	hysope	fra	
-entry	Jalapwnrzel	0	
-orth	Jalapwnrzel	deu	
+entry	Jalapwurzel	0	
+orth	Jalapwurzel	deu	
 foreign	jalap	fra	
 entry	Jauche	0	
 orth	Jauche	deu	
@@ -7818,8 +7676,8 @@ foreign	sanieux	fra
 entry	Jährig	0	
 orth	Jährig	deu	
 foreign	annuel	fra	
-entry	JerusalemsartischoKe	0	
-orth	JerusalemsartischoKe	deu	
+entry	Jerusalemsartischoke	0	
+orth	Jerusalemsartischoke	deu	
 foreign	topinambour	fra	
 entry	Jochbein	0	
 orth	Jochbein	deu	
@@ -7877,7 +7735,6 @@ orth	Kahl	deu
 foreign	chauve	fra	
 entry	Kahlgrind	0	
 orth	Kahlgrind	deu	
-foreign	teigne qui cause l’alopécie	fra	
 entry	Kahlheit	0	
 orth	Kahlheit	deu	
 foreign	calvitie	fra	
@@ -7912,13 +7769,11 @@ orth	Kalkablagerungen	deu
 foreign	concrétions calcaires	fra	
 entry	Kalkbeule	0	
 orth	Kalkbeule	deu	
-foreign	concrétion arthritique calcaire	fra	
 entry	Kälte	0	
 orth	Kälte	deu	
 foreign	froid	fra	
 entry	Kaltblütig	0	
 orth	Kaltblütig	deu	
-foreign	à sang froid	fra	
 entry	Kältend	0	
 orth	Kältend	deu	
 foreign	frigorifique	fra	
@@ -7949,7 +7804,7 @@ entry	Kammer	0
 orth	Kammer	deu	
 foreign	chambre	fra	
 foreign	ventricule	fra	
-foreign	chambre de l’œil	fra	
+foreign	chambre	fra	
 entry	Kampher	0	
 orth	Kampher	deu	
 foreign	camphre	fra	
@@ -7976,7 +7831,6 @@ orth	Karbunkel	deu
 foreign	anthrax	fra	
 entry	Karbunkelkrankheit	0	
 orth	Karbunkelkrankheit	deu	
-foreign	pustule maligne	fra	
 entry	Kartoffel	0	
 orth	Kartoffel	deu	
 foreign	pomme de terre	fra	
@@ -8049,21 +7903,20 @@ foreign	phthisie laryngée	fra
 entry	Kehlkopfspiegel	0	
 orth	Kehlkopfspiegel	deu	
 foreign	laryngoscope	fra	
-entry	Kehlschwin dsucht	0	
-orth	Kehlschwin dsucht	deu	
+entry	Kehlschwindsucht	0	
+orth	Kehlschwindsucht	deu	
 foreign	phthisie laryngée	fra	
-entry	Kehlsucht	0	
-orth	Kehlsucht	deu	
-foreign	(vétér.) étranguillon	fra	
-entry	Reichend	0	
-orth	Reichend	deu	
+entry	Kehlsucht (vétér.)	0	
+orth	Kehlsucht (vétér.)	deu	
+foreign	étranguillon	fra	
+entry	Keichend	0	
+orth	Keichend	deu	
 foreign	poussif	fra	
 entry	Keichhusten	0	
 orth	Keichhusten	deu	
 foreign	coqueluche	fra	
 entry	Keilbein 	0	
-orth	Keilbein 	deu	
-foreign	os cunéiforme	fra	
+orth	Keilbein	deu	
 foreign	sphénoïde	fra	
 entry	Keilförmig	0	
 orth	Keilförmig	deu	
@@ -8084,12 +7937,12 @@ orth	Keimfrucht	deu
 foreign	sporocarpe	fra	
 entry	Keimgang	0	
 orth	Keimgang	deu	
-foreign	funi· cule	fra	
+foreign	funicule	fra	
 entry	Keimgrube	0	
 orth	Keimgrube	deu	
 foreign	hile	fra	
 entry	Keimhäufchen 	0	
-orth	Keimhäufchen 	deu	
+orth	Keimhäufchen	deu	
 foreign	sorédion	fra	
 entry	Keimhaut	0	
 orth	Keimhaut	deu	
@@ -8100,8 +7953,8 @@ foreign	pêrisperme	fra
 entry	Keimkorn	0	
 orth	Keimkorn	deu	
 foreign	spore	fra	
-entry	Keilmager	0	
-orth	Keilmager	deu	
+entry	KeilmagerKeimlager	0	
+orth	Keimlager	deu	
 foreign	stroma	fra	
 entry	Keimloch	0	
 orth	Keimloch	deu	
@@ -8235,7 +8088,6 @@ orth	Kinnbinde	deu
 foreign	mentonnière	fra	
 entry	Kinnbüschel	0	
 orth	Kinnbüschel	deu	
-foreign	houppe du menton	fra	
 entry	Kinnflechte	0	
 orth	Kinnflechte	deu	
 foreign	mentagre	fra	
@@ -8245,15 +8097,15 @@ foreign	mâchoire	fra
 entry	Kinnloch	0	
 orth	Kinnloch	deu	
 foreign	trou mentonnier	fra	
-entry	Kinnaht	0	
-orth	Kinnaht	deu	
+entry	KinnahtKinnnaht	0	
+orth	Kinnnaht	deu	
 foreign	symphyse du menton	fra	
 entry	Kinnpulsader	0	
 orth	Kinnpulsader	deu	
 foreign	artère mentonnière	fra	
 entry	Kinnzungenbeinmuskel	0	
 orth	Kinnzungenbeinmuskel	deu	
-foreign	muscle génio-hydidien	fra	
+foreign	muscle génio-hyoïdien	fra	
 entry	Kinnzungenmuskel	0	
 orth	Kinnzungenmuskel	deu	
 foreign	muscle génio-glosse	fra	
@@ -8301,7 +8153,7 @@ foreign	crotale	fra
 foreign	serpent à sonnettes	fra	
 entry	Klar	0	
 orth	Klar	deu	
-foreign	claire	fra	
+foreign	clair	fra	
 foreign	limpide	fra	
 entry	Klärung	0	
 orth	Klärung	deu	
@@ -8314,7 +8166,6 @@ orth	Klatschrose	deu
 foreign	coquelicot	fra	
 entry	Klebepflaster	0	
 orth	Klebepflaster	deu	
-foreign	emplâtre adhésif	fra	
 entry	Kleber	0	
 orth	Kleber	deu	
 foreign	gluten	fra	
@@ -8329,7 +8180,6 @@ orth	Klee	deu
 foreign	trèfle	fra	
 entry	Kleie	0	
 orth	Kleie	deu	
-foreign	écailles furfuracées	fra	
 foreign	son	fra	
 entry	Kleienartig	0	
 orth	Kleienartig	deu	
@@ -8375,7 +8225,7 @@ orth	Klystier	deu
 foreign	lavement	fra	
 entry	Klystierschlauch	0	
 orth	Klystierschlauch	deu	
-foreign	ciysoir	fra	
+foreign	clysoir	fra	
 entry	Knabenkraut	0	
 orth	Knabenkraut	deu	
 foreign	orchis	fra	
@@ -8415,8 +8265,8 @@ foreign	jarret	fra
 entry	Kniekehlenblutader	0	
 orth	Kniekehlenblutader	deu	
 foreign	veine poplitée	fra	
-entry	Kniekehlen· muskel	0	
-orth	Kniekehlen· muskel	deu	
+entry	Kniekehlenmuskel	0	
+orth	Kniekehlenmuskel	deu	
 foreign	muscle poplité	fra	
 entry	Kniescheibe	0	
 orth	Kniescheibe	deu	
@@ -8424,7 +8274,6 @@ foreign	rotule	fra
 entry	Knistern	0	
 orth	Knistern	deu	
 foreign	crépitation	fra	
-foreign	râle crépitant	fra	
 entry	Knoblauch	0	
 orth	Knoblauch	deu	
 foreign	ail	fra	
@@ -8473,8 +8322,8 @@ foreign	ostéomalacie	fra
 entry	Knochenerzeugend	0	
 orth	Knochenerzeugend	deu	
 foreign	ostéogénique	fra	
-entry	Knochenfeile	0	
-orth	Knochenfeile	deu	
+entry	Knochenfelle	0	
+orth	Knochenfelle	deu	
 foreign	rugine	fra	
 entry	Knochenfortsatz	0	
 orth	Knochenfortsatz	deu	
@@ -8496,7 +8345,6 @@ orth	Knochenhautentzündung	deu
 foreign	périostéite	fra	
 entry	Knochenkern	0	
 orth	Knochenkern	deu	
-foreign	point d’ossification	fra	
 entry	Knochenkrebs (fleischiger)	0	
 orth	Knochenkrebs (fleischiger)	deu	
 foreign	ostéosarcome	fra	
@@ -8540,8 +8388,8 @@ foreign	spina-ventosa	fra
 entry	Knochenzange	0	
 orth	Knochenzange	deu	
 foreign	ostagre	fra	
-entry	Knoch enzelle	0	
-orth	Knoch enzelle	deu	
+entry	Knochenzelle	0	
+orth	Knochenzelle	deu	
 foreign	ostéoplaste	fra	
 entry	Knöchern	0	
 orth	Knöchern	deu	
@@ -8554,7 +8402,6 @@ orth	Knolle	deu
 foreign	bulbe	fra	
 entry	Knollbein	0	
 orth	Knollbein	deu	
-foreign	jambe des Barbades	fra	
 entry	Knollfuss	0	
 orth	Knollfuss	deu	
 entry	Knopf	0	
@@ -8562,7 +8409,7 @@ orth	Knopf	deu
 foreign	condyle	fra	
 entry	Knopfförmig	0	
 orth	Knopfförmig	deu	
-foreign	condyldide	fra	
+foreign	condyloïde	fra	
 entry	Knorpel	0	
 orth	Knorpel	deu	
 foreign	cartilage	fra	
@@ -8592,7 +8439,7 @@ orth	Knorpelleim	deu
 foreign	chondrine	fra	
 entry	Knorpelring	0	
 orth	Knorpelring	deu	
-foreign	anneau car' tilagineux	fra	
+foreign	anneau cartilagineux	fra	
 entry	Knorren	0	
 orth	Knorren	deu	
 foreign	tubérosité	fra	
@@ -8671,7 +8518,6 @@ orth	Kopfarmpulsader	deu
 foreign	tronc brachio-céphalique	fra	
 entry	Kopfbein	0	
 orth	Kopfbein	deu	
-foreign	grand os du carpe	fra	
 entry	Köpfchen	0	
 orth	Köpfchen	deu	
 foreign	capitule	fra	
@@ -8692,7 +8538,6 @@ orth	Kopflos	deu
 foreign	acéphale	fra	
 entry	Kopfnaht	0	
 orth	Kopfnaht	deu	
-foreign	suture des os du crâne	fra	
 entry	Kopfnicker	0	
 orth	Kopfnicker	deu	
 foreign	muscle sterno-cléido-mastoïdien	fra	
@@ -8747,7 +8592,7 @@ orth	Körperbau	deu
 foreign	constitution	fra	
 entry	Körperbeschaffenheit	0	
 orth	Körperbeschaffenheit	deu	
-foreign	complèxion	fra	
+foreign	complexion	fra	
 foreign	habitus	fra	
 entry	Körperchen	0	
 orth	Körperchen	deu	
@@ -8755,7 +8600,7 @@ foreign	corpuscule	fra
 entry	Körperfülle	0	
 orth	Körperfülle	deu	
 foreign	plérose	fra	
-entry	Körpergrösse	0	
+entry	KorpergrösseKörpergrösse	0	
 orth	Körpergrösse	deu	
 foreign	taille	fra	
 entry	Koth	0	
@@ -8785,7 +8630,7 @@ foreign	prostration	fra
 foreign	adynamie	fra	
 entry	Kragen	0	
 orth	Kragen	deu	
-foreign	collet d’une dent	fra	
+foreign	collet	fra	
 entry	Krähenaugenbaum	0	
 orth	Krähenaugenbaum	deu	
 foreign	titan-cotte	fra	
@@ -8818,7 +8663,7 @@ foreign	rire sardonique	fra
 entry	Krampfstillend	0	
 orth	Krampfstillend	deu	
 foreign	sédatif	fra	
-foreign	anti­spasmodique	fra	
+foreign	antispasmodique	fra	
 entry	Krampfsucht	0	
 orth	Krampfsucht	deu	
 foreign	ergotisme spasmodique	fra	
@@ -8857,7 +8702,7 @@ orth	Kranzbein	deu
 foreign	os coronal	fra	
 entry	Kranzblutader	0	
 orth	Kranzblutader	deu	
-foreign	veine coronaire du cœur	fra	
+foreign	veine coronaire	fra	
 entry	Kranzförmig	0	
 orth	Kranzförmig	deu	
 foreign	coronaire	fra	
@@ -8917,8 +8762,6 @@ orth	Kreide	deu
 foreign	craie	fra	
 entry	Kreisen	0	
 orth	Kreisen	deu	
-foreign	être en mal di enfant	fra	
-foreign	en travail	fra	
 entry	Kreisförmig	0	
 orth	Kreisförmig	deu	
 foreign	circulaire	fra	
@@ -8931,7 +8774,6 @@ orth	Kresse	deu
 foreign	cresson	fra	
 entry	Kreuz	0	
 orth	Kreuz	deu	
-foreign	région sacrée	fra	
 entry	Kreuzband	0	
 orth	Kreuzband	deu	
 foreign	ligament croisé	fra	
@@ -8961,7 +8803,6 @@ orth	Kreuzschmerzen	deu
 foreign	douleurs lombaires	fra	
 entry	Kreuzschnitt	0	
 orth	Kreuzschnitt	deu	
-foreign	incision cruciale	fra	
 entry	Kreuzung	0	
 orth	Kreuzung	deu	
 foreign	croisement	fra	
@@ -8974,6 +8815,8 @@ orth	Kribeln	deu
 foreign	formication	fra	
 entry	Kriebelkrankheit	0	
 orth	Kriebelkrankheit	deu	
+foreign	raphanie	fra	
+foreign	ergotisme	fra	
 entry	Kriechen	0	
 orth	Kriechen	deu	
 foreign	reptation	fra	
@@ -8982,7 +8825,6 @@ orth	Kriechend	deu
 foreign	rampant	fra	
 entry	Krimm’sche Krankheit	0	
 orth	Krimm’sche Krankheit	deu	
-foreign	lèpre de la Crimée	fra	
 entry	Kristallbläschen	0	
 orth	Kristallbläschen	deu	
 foreign	cristalline	fra	
@@ -8994,7 +8836,7 @@ orth	Kritisch	deu
 foreign	critique	fra	
 entry	Kronbohrer	0	
 orth	Kronbohrer	deu	
-foreign	couronne de trépan	fra	
+foreign	couronne	fra	
 entry	Krone	0	
 orth	Krone	deu	
 foreign	corolle	fra	
@@ -9052,7 +8894,7 @@ foreign	pastille	fra
 foreign	globule	fra	
 entry	Kugelförmig	0	
 orth	Kugelförmig	deu	
-foreign	sphéroidal	fra	
+foreign	sphéroïdal	fra	
 entry	Kugelgelenk	0	
 orth	Kugelgelenk	deu	
 foreign	arthrodie	fra	
@@ -9064,11 +8906,10 @@ orth	Kühlend	deu
 foreign	rafraîchissant	fra	
 entry	Kuhpocke	0	
 orth	Kuhpocke	deu	
-foreign	coWpox	fra	
+foreign	cowpox	fra	
 foreign	vaccine	fra	
 entry	Kuhpockengift	0	
 orth	Kuhpockengift	deu	
-foreign	virus vaccin	fra	
 entry	Kümmel	0	
 orth	Kümmel	deu	
 foreign	carvi	fra	
@@ -9088,7 +8929,7 @@ orth	Kürbis	deu
 foreign	courge	fra	
 entry	Kürbiswurm	0	
 orth	Kürbiswurm	deu	
-foreign	tœnia cucurbitin	fra	
+foreign	tænia cucurbitin	fra	
 entry	Kurz	0	
 orth	Kurz	deu	
 foreign	court	fra	
@@ -9118,13 +8959,11 @@ orth	Lachen	deu
 foreign	rire	fra	
 entry	Lachkrampf	0	
 orth	Lachkrampf	deu	
-foreign	rire spasmodique	fra	
 entry	Lack	0	
 orth	Lack	deu	
 foreign	laque	fra	
 entry	Lackmus	0	
 orth	Lackmus	deu	
-foreign	teinture de tournesol	fra	
 entry	Lackmusflechte	0	
 orth	Lackmusflechte	deu	
 foreign	orseille	fra	
@@ -9210,7 +9049,6 @@ orth	Laufkäfer	deu
 foreign	carabe	fra	
 entry	Lauge	0	
 orth	Lauge	deu	
-foreign	potasse liquide	fra	
 foreign	lessive	fra	
 entry	Laugen	0	
 orth	Laugen	deu	
@@ -9253,26 +9091,22 @@ orth	Lebendiggebährend	deu
 foreign	vivipare	fra	
 entry	Lebensbaum	0	
 orth	Lebensbaum	deu	
-foreign	thuia	fra	
+foreign	thuya	fra	
 entry	Lebensfähig	0	
 orth	Lebensfähig	deu	
 foreign	viable	fra	
 entry	Lebensgeister	0	
 orth	Lebensgeister	deu	
-foreign	esprits vitaux	fra	
 entry	Lebenskraft	0	
 orth	Lebenskraft	deu	
 foreign	vitalité	fra	
 entry	Lebensprozess	0	
 orth	Lebensprozess	deu	
-foreign	phénomènes vitaux	fra	
 entry	Lebenssaft	0	
 orth	Lebenssaft	deu	
 foreign	latex	fra	
-foreign	humide radical	fra	
 entry	Lebenswärme	0	
 orth	Lebenswärme	deu	
-foreign	chaleur vitale	fra	
 entry	Lebensweise	0	
 orth	Lebensweise	deu	
 foreign	régime	fra	
@@ -9296,11 +9130,9 @@ orth	Leberentzündung	deu
 foreign	hépatite	fra	
 entry	Leberflecken	0	
 orth	Leberflecken	deu	
-foreign	taches hépatiques	fra	
 foreign	lentigo	fra	
 entry	Leberfluss	0	
 orth	Leberfluss	deu	
-foreign	flux hépatique	fra	
 foreign	hépatirrhée	fra	
 entry	Lebergallenblasengang	0	
 orth	Lebergallenblasengang	deu	
@@ -9310,7 +9142,7 @@ orth	Lebergang	deu
 foreign	conduit hépatique	fra	
 entry	Lebergeflecht	0	
 orth	Lebergeflecht	deu	
-foreign	Plexus hépatique	fra	
+foreign	plexus hépatique	fra	
 entry	Leberhaut	0	
 orth	Leberhaut	deu	
 foreign	capsule de Glisson	fra	
@@ -9322,7 +9154,7 @@ orth	Leberkraut	deu
 foreign	hépatique	fra	
 entry	Leberlappen	0	
 orth	Leberlappen	deu	
-foreign	lobe du foie	fra	
+foreign	lobe	fra	
 entry	Lebermoos	0	
 orth	Lebermoos	deu	
 foreign	hépatiques	fra	
@@ -9331,7 +9163,6 @@ orth	Lebernabelbruch	deu
 foreign	hépatomphale	fra	
 entry	Leberrinne	0	
 orth	Leberrinne	deu	
-foreign	sillon du foie	fra	
 entry	Leberschlagader	0	
 orth	Leberschlagader	deu	
 foreign	artère hépatique	fra	
@@ -9343,18 +9174,16 @@ orth	Leberstein	deu
 foreign	calcul hépatique	fra	
 entry	Leberthran	0	
 orth	Leberthran	deu	
-foreign	huile de foie de morue	fra	
 entry	Leberverhärtung	0	
 orth	Leberverhärtung	deu	
 foreign	cirrhose du foie	fra	
 entry	Leberverstopfung	0	
 orth	Leberverstopfung	deu	
-foreign	obstruction du foie	fra	
-foreign	hépatem-phraxis	fra	
+foreign	hépatemphraxis	fra	
 entry	Leberwurm	0	
 orth	Leberwurm	deu	
 foreign	distome	fra	
-foreign	douve du foie	fra	
+foreign	douve	fra	
 entry	Lecksaft	0	
 orth	Lecksaft	deu	
 foreign	éclegme	fra	
@@ -9365,7 +9194,7 @@ entry	Lederhaut	0
 orth	Lederhaut	deu	
 foreign	cuir	fra	
 foreign	chorion	fra	
-foreign	terrine	fra	
+foreign	tercine	fra	
 entry	Lederhautentzündung	0	
 orth	Lederhautentzündung	deu	
 foreign	chorionitis	fra	
@@ -9389,19 +9218,17 @@ orth	Leibbinde	deu
 foreign	bandage de corps	fra	
 entry	Leibesbeschaffenheit	0	
 orth	Leibesbeschaffenheit	deu	
-foreign	habitude extérieure du corps	fra	
 entry	Leibesgrösse	0	
 orth	Leibesgrösse	deu	
 foreign	stature	fra	
 entry	Leibfluss	0	
 orth	Leibfluss	deu	
-foreign	flux de ventre	fra	
 entry	Leibschneiden	0	
 orth	Leibschneiden	deu	
 foreign	tranchées	fra	
 entry	Leichdorn	0	
 orth	Leichdorn	deu	
-foreign	cor aux pieds	fra	
+foreign	cor	fra	
 entry	Leichenausgrabung	0	
 orth	Leichenausgrabung	deu	
 foreign	exhumation	fra	
@@ -9411,7 +9238,7 @@ foreign	nécropsie	fra
 foreign	autopsie	fra	
 entry	Leichenschau	0	
 orth	Leichenschau	deu	
-foreign	nécrop- · sie	fra	
+foreign	nécropsie	fra	
 entry	Leichenverbrennung	0	
 orth	Leichenverbrennung	deu	
 foreign	crémation	fra	
@@ -9426,7 +9253,6 @@ orth	Leidenschaft	deu
 foreign	passion	fra	
 entry	Leimpflaster	0	
 orth	Leimpflaster	deu	
-foreign	taffetas d’Angleterre	fra	
 entry	Leimsüss	0	
 orth	Leimsüss	deu	
 foreign	glycocolle	fra	
@@ -9445,8 +9271,8 @@ foreign	aine	fra
 entry	Leistenband	0	
 orth	Leistenband	deu	
 foreign	ligament de Fallope	fra	
-entry	Leistenbeüle	0	
-orth	Leistenbeüle	deu	
+entry	Leistenbeule	0	
+orth	Leistenbeule	deu	
 foreign	bubon	fra	
 foreign	poulain	fra	
 entry	Leistenbruch	0	
@@ -9470,7 +9296,6 @@ orth	Lendenblutadern	deu
 foreign	veines lombaires	fra	
 entry	Lendenknochen	0	
 orth	Lendenknochen	deu	
-foreign	os de la hanche	fra	
 entry	Lendenlahm	0	
 orth	Lendenlahm	deu	
 foreign	épointé	fra	
@@ -9487,8 +9312,8 @@ foreign	artères lombaires	fra
 entry	Lendenschmerz	0	
 orth	Lendenschmerz	deu	
 foreign	lumbago	fra	
-entry	Leucâthiopie	0	
-orth	Leucâthiopie	deu	
+entry	Leucäthiopie	0	
+orth	Leucäthiopie	deu	
 foreign	albinisme	fra	
 entry	Leuchten	0	
 orth	Leuchten	deu	
@@ -9549,13 +9374,13 @@ orth	Linse	deu
 foreign	lentille	fra	
 entry	Linsenartig	0	
 orth	Linsenartig	deu	
-foreign	phacoide	fra	
+foreign	phacoïde	fra	
 entry	Linsenförmig	0	
 orth	Linsenförmig	deu	
 foreign	lenticulaire	fra	
 entry	Linsenglas	0	
 orth	Linsenglas	deu	
-foreign	lentille	fra	
+foreign	lentille (optique)	fra	
 foreign	loupe (optique)	fra	
 entry	Lippe	0	
 orth	Lippe	deu	
@@ -9754,7 +9579,6 @@ orth	Magen	deu
 foreign	estomac	fra	
 entry	Magenadern	0	
 orth	Magenadern	deu	
-foreign	vaisseaux coronaires de ΐ estomac	fra	
 entry	Magenbeschwerde	0	
 orth	Magenbeschwerde	deu	
 foreign	embarras gastrique	fra	
@@ -9782,17 +9606,16 @@ foreign	gastromalacie	fra
 entry	Magenfieber	0	
 orth	Magenfieber	deu	
 foreign	fièvre gastrique	fra	
-entry	Magen gegend	0	
-orth	Magen gegend	deu	
+entry	Magengegend	0	
+orth	Magengegend	deu	
 foreign	épigastre	fra	
 entry	Magengrund	0	
 orth	Magengrund	deu	
-foreign	bas-fond de l’estomac	fra	
 entry	Magenkrampf	0	
 orth	Magenkrampf	deu	
 foreign	cardialgie	fra	
 entry	Magenmittel 	0	
-orth	Magenmittel 	deu	
+orth	Magenmittel	deu	
 foreign	stomachique	fra	
 entry	Magenmund	0	
 orth	Magenmund	deu	
@@ -9811,13 +9634,11 @@ orth	Magensaft	deu
 foreign	suc gastrique	fra	
 entry	Magensäure	0	
 orth	Magensäure	deu	
-foreign	acidités des premières voies	fra	
 entry	Magenschleimfluss	0	
 orth	Magenschleimfluss	deu	
 foreign	gastrorrhée	fra	
 entry	Magenschmerz	0	
 orth	Magenschmerz	deu	
-foreign	mal d’estomac	fra	
 foreign	gastralgie	fra	
 foreign	gastrodynie	fra	
 entry	Magerkeit	0	
@@ -9857,7 +9678,6 @@ foreign	malt	fra
 entry	Malzmagen	0	
 orth	Malzmagen	deu	
 foreign	bonnet	fra	
-foreign	deuxième estomac des ruminants	fra	
 entry	Mandel	0	
 orth	Mandel	deu	
 foreign	amande	fra	
@@ -9893,7 +9713,7 @@ foreign	mâle	fra
 entry	Männlich	0	
 orth	Männlich	deu	
 foreign	mâle	fra	
-foreign	virile	fra	
+foreign	viril	fra	
 entry	Mannsstreu	0	
 orth	Mannsstreu	deu	
 foreign	panicaut	fra	
@@ -9905,13 +9725,13 @@ orth	Mannweib	deu
 foreign	androgyne	fra	
 entry	Mannastoff	0	
 orth	Mannastoff	deu	
-foreign	marmite	fra	
+foreign	mannite	fra	
 entry	Mantel	0	
 orth	Mantel	deu	
 foreign	manteau	fra	
 entry	Margarin	0	
 orth	Margarin	deu	
-foreign	palntitine	fra	
+foreign	palmitine	fra	
 entry	Margarinfett	0	
 orth	Margarinfett	deu	
 foreign	margarine	fra	
@@ -9927,13 +9747,12 @@ foreign	moelle	fra
 foreign	médulle	fra	
 entry	Markhaut	0	
 orth	Markhaut	deu	
-foreign	membrane médullaire	fra	
 entry	Markig	0	
 orth	Markig	deu	
 foreign	médullaire	fra	
 entry	Marksarkom	0	
 orth	Marksarkom	deu	
-foreign	encéphaldide	fra	
+foreign	encéphaloïde	fra	
 foreign	sarcome médullaire	fra	
 entry	Markschwamm	0	
 orth	Markschwamm	deu	
@@ -9952,8 +9771,8 @@ orth	Masslieb	deu
 foreign	marguerite	fra	
 entry	Mastader	0	
 orth	Mastader	deu	
-foreign	veine hémorrhoidale	fra	
-foreign	flux hémorrhoidal	fra	
+foreign	veine hémorrhoïdale	fra	
+foreign	flux hémorrhoïdal	fra	
 entry	Mastdarm	0	
 orth	Mastdarm	deu	
 foreign	rectum	fra	
@@ -9962,7 +9781,7 @@ orth	Mastdarmbruch	deu
 foreign	archoptose	fra	
 entry	Mastdarmentzündung	0	
 orth	Mastdarmentzündung	deu	
-foreign	redite	fra	
+foreign	rectite	fra	
 entry	Mastdarmgekröse	0	
 orth	Mastdarmgekröse	deu	
 foreign	mésorectum	fra	
@@ -9986,7 +9805,6 @@ orth	Mauerpfeffer	deu
 foreign	vermiculaire	fra	
 entry	Mauke	0	
 orth	Mauke	deu	
-foreign	eaux aux jambes	fra	
 foreign	malandre	fra	
 entry	Maul	0	
 orth	Maul	deu	
@@ -10000,8 +9818,7 @@ orth	Maulbeere	deu
 foreign	mûre	fra	
 entry	Maulbeerförmig	0	
 orth	Maulbeerförmig	deu	
-foreign	mûri	fra	
-foreign	forme	fra	
+foreign	mûriforme	fra	
 entry	Maulesel	0	
 orth	Maulesel	deu	
 foreign	mulet	fra	
@@ -10013,11 +9830,11 @@ orth	Maulseuche	deu
 foreign	aphthe	fra	
 entry	Maus	0	
 orth	Maus	deu	
-foreign	le thénar	fra	
+foreign	thénar (le)	fra	
 foreign	souris	fra	
 entry	Mäusedorn	0	
 orth	Mäusedorn	deu	
-foreign	fr agon	fra	
+foreign	fragon	fra	
 entry	Mauserung	0	
 orth	Mauserung	deu	
 foreign	mue	fra	
@@ -10084,9 +9901,9 @@ foreign	misanthropie	fra
 entry	Menstrualschweiss	0	
 orth	Menstrualschweiss	deu	
 foreign	ménidrose	fra	
-entry	Menstruationsbeforderend	0	
-orth	Menstruationsbeforderend	deu	
-foreign	em· ménagogue	fra	
+entry	Menstruationsbeförderend	0	
+orth	Menstruationsbeförderend	deu	
+foreign	emménagogue	fra	
 entry	Mergel	0	
 orth	Mergel	deu	
 foreign	marne	fra	
@@ -10139,14 +9956,15 @@ foreign	glande mammaire	fra
 entry	Milchfieber	0	
 orth	Milchfieber	deu	
 foreign	fièvre de lait	fra	
-entry	Milch führend	0	
-orth	Milch führend	deu	
+entry	Milchführend	0	
+orth	Milchführend	deu	
 foreign	lactifère	fra	
 entry	Milchgefässe	0	
 orth	Milchgefässe	deu	
+foreign	vaisseaux galactophores	fra	
+foreign	vaisseaux chylifères	fra	
 entry	Milchgeschwulst	0	
 orth	Milchgeschwulst	deu	
-foreign	tuméfaction de la mamelle	fra	
 entry	Milchicht	0	
 orth	Milchicht	deu	
 foreign	lactescent	fra	
@@ -10155,7 +9973,6 @@ orth	Milchig	deu
 foreign	lacté	fra	
 entry	Milchknoten	0	
 orth	Milchknoten	deu	
-foreign	nodosités au sein	fra	
 foreign	poil	fra	
 entry	Milchkur	0	
 orth	Milchkur	deu	
@@ -10236,9 +10053,8 @@ foreign	rateleux	fra
 entry	Mineralog	0	
 orth	Mineralog	deu	
 foreign	minéralogiste	fra	
-entry	Misch 	0	
-orth	Misch 	deu	
-foreign	Vorn	fra	
+entry	Mischkorn	0	
+orth	Mischkorn	deu	
 foreign	provende	fra	
 entry	Mischung	0	
 orth	Mischung	deu	
@@ -10250,7 +10066,6 @@ orth	Mispelbaum	deu
 foreign	néflier	fra	
 entry	Missbildung	0	
 orth	Missbildung	deu	
-foreign	vice de conformation	fra	
 foreign	difformité	fra	
 entry	Missgeburt	0	
 orth	Missgeburt	deu	
@@ -10314,7 +10129,7 @@ orth	Mohnsaft	deu
 foreign	opium	fra	
 entry	Mohnstoff	0	
 orth	Mohnstoff	deu	
-foreign	nàrcotine	fra	
+foreign	narcotine	fra	
 entry	Möhre	0	
 orth	Möhre	deu	
 foreign	carotte	fra	
@@ -10436,12 +10251,12 @@ orth	Mündung	deu
 foreign	orifice	fra	
 entry	Mundwasser	0	
 orth	Mundwasser	deu	
-foreign	stomatiquè	fra	
+foreign	stomatique	fra	
 entry	Münze	0	
 orth	Münze	deu	
 foreign	menthe	fra	
-entry	Musch el	0	
-orth	Musch el	deu	
+entry	Muschel	0	
+orth	Muschel	deu	
 foreign	coquille	fra	
 entry	Muschelkunde	0	
 orth	Muschelkunde	deu	
@@ -10449,8 +10264,8 @@ foreign	conchyliologie	fra
 entry	Muskatblüthe	0	
 orth	Muskatblüthe	deu	
 foreign	macis	fra	
-entry	Muskatnussleber 	0	
-orth	Muskatnussleber 	deu	
+entry	Muskatnussleber	0	
+orth	Muskatnussleber	deu	
 foreign	cirrhose	fra	
 foreign	myristication	fra	
 entry	Muskatnuss	0	
@@ -10473,7 +10288,7 @@ orth	Muskelfaser	deu
 foreign	fibre musculaire	fra	
 entry	Muskelfibrin	0	
 orth	Muskelfibrin	deu	
-foreign	syntomné	fra	
+foreign	syntonine	fra	
 entry	Muskellehre	0	
 orth	Muskellehre	deu	
 foreign	myologie	fra	
@@ -10537,10 +10352,10 @@ orth	Mutterkuchen	deu
 foreign	placenta	fra	
 entry	Muttermal	0	
 orth	Muttermal	deu	
-foreign	naevus	fra	
+foreign	nævus	fra	
 foreign	envie	fra	
-entry	Muttermilch erste	0	
-orth	Muttermilch erste	deu	
+entry	Muttermilch, erste	0	
+orth	Muttermilch, erste	deu	
 foreign	colostrum	fra	
 entry	Muttermund	0	
 orth	Muttermund	deu	
@@ -10562,7 +10377,6 @@ orth	Muttertrompeten	deu
 foreign	trompes utérines	fra	
 entry	Muttervorfall	0	
 orth	Muttervorfall	deu	
-foreign	chute de matrice	fra	
 entry	Mutterwassersucht	0	
 orth	Mutterwassersucht	deu	
 foreign	hydromètre	fra	
@@ -10576,7 +10390,7 @@ entry	Mutterwurz	0
 orth	Mutterwurz	deu	
 foreign	méum	fra	
 entry	Mutterwuth 	0	
-orth	Mutterwuth 	deu	
+orth	Mutterwuth	deu	
 foreign	hystéromanie	fra	
 entry	Mutterzäpfchen	0	
 orth	Mutterzäpfchen	deu	
@@ -10605,7 +10419,7 @@ orth	Nabelblutbruch	deu
 foreign	hématomphale	fra	
 entry	Nabelblutung	0	
 orth	Nabelblutung	deu	
-foreign	omphalorrhayie	fra	
+foreign	omphalorrhagie	fra	
 entry	Nabelbruch	0	
 orth	Nabelbruch	deu	
 foreign	exomphale	fra	
@@ -10636,7 +10450,6 @@ orth	Nachahmung	deu
 foreign	imitation	fra	
 entry	Nachcur	0	
 orth	Nachcur	deu	
-foreign	soins donnés après la cure	fra	
 foreign	apothérapie	fra	
 entry	Nachgeburt	0	
 orth	Nachgeburt	deu	
@@ -10645,8 +10458,8 @@ foreign	délivre	fra
 entry	Nachstaar	0	
 orth	Nachstaar	deu	
 foreign	cataracte secondaire	fra	
-entry	Nach- · tripper	0	
-orth	Nach- · tripper	deu	
+entry	Nachtripper	0	
+orth	Nachtripper	deu	
 foreign	blennorrhée	fra	
 foreign	gonorrhée chronique	fra	
 entry	Nacht	0	
@@ -10694,9 +10507,10 @@ foreign	nu	fra
 entry	Nadel	0	
 orth	Nadel	deu	
 foreign	aiguille	fra	
-entry	Nadelformig	0	
-orth	Nadelformig	deu	
-foreign	acéré} aciculaire	fra	
+entry	Nadelförmig	0	
+orth	Nadelförmig	deu	
+foreign	acéré	fra	
+foreign	aciculaire	fra	
 foreign	onguiforme	fra	
 entry	Nadelhalter	0	
 orth	Nadelhalter	deu	
@@ -10719,7 +10533,7 @@ orth	Nagelfügung	deu
 foreign	gomphose	fra	
 entry	Nagelgeschwür	0	
 orth	Nagelgeschwür	deu	
-foreign	tourmole	fra	
+foreign	tourniole	fra	
 foreign	panaris	fra	
 entry	Nagelräude	0	
 orth	Nagelräude	deu	
@@ -10766,7 +10580,7 @@ orth	Nase	deu
 foreign	nez	fra	
 entry	Näseln	0	
 orth	Näseln	deu	
-foreign	nasormement	fra	
+foreign	nasonnement	fra	
 entry	Näselnd	0	
 orth	Näselnd	deu	
 foreign	nasonné	fra	
@@ -10788,7 +10602,6 @@ orth	Nasengewächs	deu
 foreign	polype du nez	fra	
 entry	Nasenhaut	0	
 orth	Nasenhaut	deu	
-foreign	membrane pituitaire	fra	
 entry	Nasenknorpel	0	
 orth	Nasenknorpel	deu	
 foreign	cartilage du nez	fra	
@@ -10797,12 +10610,11 @@ orth	Nasenloch	deu
 foreign	narine	fra	
 entry	Nasenscheidewand	0	
 orth	Nasenscheidewand	deu	
-foreign	cloison des fosses nasales	fra	
 entry	Nasenschleim	0	
 orth	Nasenschleim	deu	
 foreign	mucus nasal	fra	
-entry	Nässendei· Grind	0	
-orth	Nässendei· Grind	deu	
+entry	Nässender Grind	0	
+orth	Nässender Grind	deu	
 foreign	impétigo	fra	
 entry	Natron	0	
 orth	Natron	deu	
@@ -10837,7 +10649,7 @@ orth	Nebenblatt	deu
 foreign	bractée	fra	
 entry	Nebenblumenkrone	0	
 orth	Nebenblumenkrone	deu	
-foreign	paro.corolle	fra	
+foreign	paracorolle	fra	
 entry	Nebenblutader	0	
 orth	Nebenblutader	deu	
 foreign	veine satellite	fra	
@@ -10864,7 +10676,6 @@ orth	Nerv	deu
 foreign	nerf	fra	
 entry	Nervenbau	0	
 orth	Nervenbau	deu	
-foreign	système nerveux	fra	
 entry	Nervenentzündung	0	
 orth	Nervenentzündung	deu	
 foreign	névrite	fra	
@@ -10882,7 +10693,7 @@ orth	Nervenknoten	deu
 foreign	ganglion	fra	
 entry	Nervenlehre	0	
 orth	Nervenlehre	deu	
-foreign	nécrologie	fra	
+foreign	névrologie	fra	
 entry	Nervenmittel	0	
 orth	Nervenmittel	deu	
 foreign	nervin	fra	
@@ -10913,8 +10724,8 @@ foreign	phthisie nerveuse	fra
 entry	Nervenstärkend	0	
 orth	Nervenstärkend	deu	
 foreign	nervin	fra	
-entry	Nerventhâtigkeit	0	
-orth	Nerventhâtigkeit	deu	
+entry	Nerventhätigkeit	0	
+orth	Nerventhätigkeit	deu	
 foreign	action nerveuse	fra	
 entry	Nervenübel	0	
 orth	Nervenübel	deu	
@@ -11000,9 +10811,9 @@ entry	Niedergebogen	0
 orth	Niedergebogen	deu	
 foreign	réfléchi	fra	
 entry	Niedergeschlagenheit 	0	
-orth	Niedergeschlagenheit 	deu	
+orth	Niedergeschlagenheit	deu	
 foreign	abattement	fra	
-foreign	- accablement	fra	
+foreign	accablement	fra	
 entry	Niederkunft	0	
 orth	Niederkunft	deu	
 foreign	accouchement	fra	
@@ -11038,7 +10849,7 @@ orth	Nierenblutader	deu
 foreign	veine émulgente	fra	
 entry	Nierenblutung	0	
 orth	Nierenblutung	deu	
-foreign	néphrorfhagie	fra	
+foreign	néphrorrhagie	fra	
 entry	Nierenbruch	0	
 orth	Nierenbruch	deu	
 foreign	néphrocèle	fra	
@@ -11097,8 +10908,8 @@ foreign	noix	fra
 entry	Nussbaum	0	
 orth	Nussbaum	deu	
 foreign	noyer	fra	
-entry	Nusschale	0	
-orth	Nusschale	deu	
+entry	NusschaleNussschale	0	
+orth	Nussschale	deu	
 foreign	brou	fra	
 entry	Nüster	0	
 orth	Nüster	deu	
@@ -11108,7 +10919,7 @@ orth	Ober	deu
 foreign	supérieur	fra	
 entry	Oberarzt	0	
 orth	Oberarzt	deu	
-foreign	archriatre	fra	
+foreign	archiatre	fra	
 entry	Oberbacken	0	
 orth	Oberbacken	deu	
 foreign	pommette	fra	
@@ -11141,7 +10952,7 @@ orth	Ochse	deu
 foreign	bœuf	fra	
 entry	Ochsenzunge	0	
 orth	Ochsenzunge	deu	
-foreign	or canette	fra	
+foreign	orcanette	fra	
 foreign	buglosse	fra	
 entry	Odermennig	0	
 orth	Odermennig	deu	
@@ -11155,6 +10966,10 @@ orth	Ofenbruch	deu
 foreign	cadmée	fra	
 entry	Ohnmacht	0	
 orth	Ohnmacht	deu	
+foreign	défaillance	fra	
+foreign	évanouissement	fra	
+foreign	pâmoison	fra	
+foreign	syncope	fra	
 entry	Ohr	0	
 orth	Ohr	deu	
 foreign	oreille	fra	
@@ -11184,7 +10999,6 @@ orth	Ohrenkatarrh	deu
 foreign	blennotorrhée	fra	
 entry	Ohrenklingen	0	
 orth	Ohrenklingen	deu	
-foreign	tintement d’oreille	fra	
 entry	Ohrenlaufen	0	
 orth	Ohrenlaufen	deu	
 foreign	otorrhée	fra	
@@ -11221,11 +11035,11 @@ foreign	cartilage de l’oreille	fra
 entry	Ohrläppchen	0	
 orth	Ohrläppchen	deu	
 foreign	lobule de l’oreille	fra	
-entry	Ohrleiste äussere	0	
-orth	Ohrleiste äussere	deu	
+entry	Ohrleiste, äussere	0	
+orth	Ohrleiste, äussere	deu	
 foreign	hélix	fra	
-entry	Ohrleiste innere	0	
-orth	Ohrleiste innere	deu	
+entry	Ohrleiste, innere	0	
+orth	Ohrleiste, innere	deu	
 foreign	anthélix	fra	
 entry	Ohrlöffel	0	
 orth	Ohrlöffel	deu	
@@ -11250,19 +11064,18 @@ orth	Ohrwassersucht	deu
 foreign	hydrotite	fra	
 entry	Ohrzehe	0	
 orth	Ohrzehe	deu	
-foreign	petit orteil	fra	
-entry	Ôl	0	
-orth	Ôl	deu	
+entry	Öl	0	
+orth	Öl	deu	
 foreign	huile	fra	
-entry	Ôlbildend	0	
-orth	Ôlbildend	deu	
+entry	Ölbildend	0	
+orth	Ölbildend	deu	
 foreign	oléfiant	fra	
-entry	Ôlzucker	0	
-orth	Ôlzucker	deu	
+entry	Ölzucker	0	
+orth	Ölzucker	deu	
 foreign	glycérine	fra	
 foreign	oléosucre	fra	
-entry	Oliven farbig	0	
-orth	Oliven farbig	deu	
+entry	Olivenfarbig	0	
+orth	Olivenfarbig	deu	
 foreign	olivacé	fra	
 entry	Olivenförmig	0	
 orth	Olivenförmig	deu	
@@ -11291,8 +11104,8 @@ foreign	orange	fra
 entry	Organisch	0	
 orth	Organisch	deu	
 foreign	organique	fra	
-entry	Organisirt	0	
-orth	Organisirt	deu	
+entry	OrganisirtOrganisiert	0	
+orth	Organisiert	deu	
 foreign	organisé	fra	
 entry	Orkan	0	
 orth	Orkan	deu	
@@ -11345,10 +11158,10 @@ orth	Pappel	deu
 foreign	peuplier	fra	
 entry	Pappelsalbe	0	
 orth	Pappelsalbe	deu	
-foreign	populëum	fra	
-entry	Paramorpbin	0	
-orth	Paramorpbin	deu	
-foreign	thébdine	fra	
+foreign	populéum	fra	
+entry	Paramorphin	0	
+orth	Paramorphin	deu	
+foreign	thébaïne	fra	
 entry	Pardiesfeigenbaum	0	
 orth	Pardiesfeigenbaum	deu	
 foreign	bananier	fra	
@@ -11366,7 +11179,6 @@ orth	Pauke	deu
 foreign	tympan	fra	
 entry	Paukenfell	0	
 orth	Paukenfell	deu	
-foreign	membrane du tympan	fra	
 entry	Paukenfellentzündung	0	
 orth	Paukenfellentzündung	deu	
 foreign	myringite	fra	
@@ -11379,16 +11191,13 @@ foreign	poix	fra
 entry	Pechpflaster	0	
 orth	Pechpflaster	deu	
 foreign	dropax	fra	
-foreign	emplâtre de poix de Bourgogne	fra	
 entry	Pergament	0	
 orth	Pergament	deu	
 foreign	parchemin	fra	
 entry	Pergamentband	0	
 orth	Pergamentband	deu	
-foreign	ligament fibreux	fra	
-entry	Pergamenthàut	0	
-orth	Pergamenthàut	deu	
-foreign	membrane fibreuse	fra	
+entry	Pergamenthaut	0	
+orth	Pergamenthaut	deu	
 entry	Periodisch	0	
 orth	Periodisch	deu	
 foreign	périodique	fra	
@@ -11465,7 +11274,7 @@ orth	Pfetzzange	deu
 foreign	morailles	fra	
 entry	Pfirsichbaum	0	
 orth	Pfirsichbaum	deu	
-foreign	pécher	fra	
+foreign	pêcher	fra	
 entry	Pflanze	0	
 orth	Pflanze	deu	
 foreign	plante	fra	
@@ -11477,14 +11286,12 @@ orth	Pflanzenchimie	deu
 foreign	phytochimie	fra	
 entry	Pflanzeneiweiss	0	
 orth	Pflanzeneiweiss	deu	
-foreign	albumine végétale	fra	
 foreign	glutine	fra	
 entry	Pflanzenfressend	0	
 orth	Pflanzenfressend	deu	
 foreign	herbivore	fra	
 entry	Pflanzenleben	0	
 orth	Pflanzenleben	deu	
-foreign	vie végétative	fra	
 entry	Pflanzenleim	0	
 orth	Pflanzenleim	deu	
 foreign	gluten	fra	
@@ -11571,13 +11378,13 @@ orth	Pocken	deu
 foreign	variole	fra	
 entry	Pockenartig	0	
 orth	Pockenartig	deu	
-foreign	varioldide	fra	
-entry	Pocken gift	0	
-orth	Pocken gift	deu	
+foreign	varioloïde	fra	
+entry	Pockengift	0	
+orth	Pockengift	deu	
 foreign	virus variolique	fra	
 entry	Pockenholz	0	
 orth	Pockenholz	deu	
-foreign	gdiac	fra	
+foreign	gaïac	fra	
 entry	Pol	0	
 orth	Pol	deu	
 foreign	pâle	fra	
@@ -11610,7 +11417,7 @@ orth	Pottwall	deu
 foreign	cachalot	fra	
 entry	Praktischer Arzt	0	
 orth	Praktischer Arzt	deu	
-foreign	médecinpraticien	fra	
+foreign	médecin praticien	fra	
 entry	Praktiker	0	
 orth	Praktiker	deu	
 foreign	praticien	fra	
@@ -11638,8 +11445,8 @@ foreign	produit	fra
 entry	Prozess	0	
 orth	Prozess	deu	
 foreign	procédé	fra	
-entry	Puis	0	
-orth	Puis	deu	
+entry	Puls	0	
+orth	Puls	deu	
 foreign	pouls	fra	
 entry	Pulsader	0	
 orth	Pulsader	deu	
@@ -11657,7 +11464,6 @@ foreign	pulsimètre	fra
 foreign	sphygmographe	fra	
 entry	Pulsschlag	0	
 orth	Pulsschlag	deu	
-foreign	battement artériel	fra	
 foreign	pulsation	fra	
 entry	Pulsatillenkampher	0	
 orth	Pulsatillenkampher	deu	
@@ -11671,18 +11477,17 @@ foreign	pompe	fra
 entry	Punkt	0	
 orth	Punkt	deu	
 foreign	point	fra	
-entry	Puncktirnadel	0	
-orth	Puncktirnadel	deu	
+entry	PuncktirnadelPunktirnadel	0	
+orth	Punktirnadel	deu	
 foreign	aiguille d’acupuncture	fra	
-entry	Punktirt	0	
-orth	Punktirt	deu	
+entry	PunktirtPunktiert	0	
+orth	Punktiert	deu	
 foreign	ponctué	fra	
 entry	Pupille	0	
 orth	Pupille	deu	
 foreign	pupille	fra	
 entry	Pupillenhaut	0	
 orth	Pupillenhaut	deu	
-foreign	membrane pupillaire	fra	
 entry	Pupillenerweiterung	0	
 orth	Pupillenerweiterung	deu	
 foreign	mydriase	fra	
@@ -11725,10 +11530,8 @@ orth	Quecksilberausschlag	deu
 foreign	hydrargyrie	fra	
 entry	Quecksilberkrankheit	0	
 orth	Quecksilberkrankheit	deu	
-foreign	maladie mercurielle	fra	
 entry	Quecksilbersalbe	0	
 orth	Quecksilbersalbe	deu	
-foreign	onguent mercuriel	fra	
 entry	Quendel	0	
 orth	Quendel	deu	
 foreign	serpolet	fra	
@@ -11737,10 +11540,10 @@ orth	Quer	deu
 foreign	transverse	fra	
 entry	Querband	0	
 orth	Querband	deu	
-foreign	ligament transversal des côtes	fra	
+foreign	ligament transversal	fra	
 entry	Querbauchmuskel	0	
 orth	Querbauchmuskel	deu	
-foreign	muscle transverse de l’abdomen	fra	
+foreign	muscle transverse	fra	
 entry	Querbrüchig	0	
 orth	Querbrüchig	deu	
 foreign	caulédon	fra	
@@ -11884,7 +11687,7 @@ orth	Regelwidrigkeit	deu
 foreign	anomalie	fra	
 entry	Regenbogenhaut	0	
 orth	Regenbogenhaut	deu	
-foreign	la membrane iris	fra	
+foreign	membrane iris (la)	fra	
 entry	Regenbogenhautbruch	0	
 orth	Regenbogenhautbruch	deu	
 foreign	iridocèle	fra	
@@ -11985,7 +11788,6 @@ orth	Riechend	deu
 foreign	odorant	fra	
 entry	Riechhaut	0	
 orth	Riechhaut	deu	
-foreign	membrane olfactive	fra	
 entry	Riedgras	0	
 orth	Riedgras	deu	
 foreign	carex	fra	
@@ -12000,7 +11802,7 @@ orth	Rinde	deu
 foreign	écorce	fra	
 entry	Rindenartige Substanz	0	
 orth	Rindenartige Substanz	deu	
-foreign	substance corticale du cerveau	fra	
+foreign	substance corticale	fra	
 entry	Ring	0	
 orth	Ring	deu	
 foreign	anneau	fra	
@@ -12021,16 +11823,16 @@ orth	Ringförmig	deu
 foreign	annulaire	fra	
 entry	Ringgiessbeckenmuskel	0	
 orth	Ringgiessbeckenmuskel	deu	
-foreign	muscle crico-aryténdidien	fra	
+foreign	muscle crico-aryténoïdien	fra	
 entry	Ringknorpel	0	
 orth	Ringknorpel	deu	
 foreign	cartilage cricoïde	fra	
 entry	Ringschildband	0	
 orth	Ringschildband	deu	
-foreign	ligament crico-thyrédidien	fra	
+foreign	ligament crico-thyréoïdien	fra	
 entry	Ringschildmuskel	0	
 orth	Ringschildmuskel	deu	
-foreign	muscle crico-thyrédidien	fra	
+foreign	muscle crico-thyréoïdien	fra	
 entry	Rinne	0	
 orth	Rinne	deu	
 foreign	gouttière	fra	
@@ -12042,7 +11844,6 @@ foreign	côte	fra
 foreign	nervure	fra	
 entry	Rippenbruch	0	
 orth	Rippenbruch	deu	
-foreign	fracture des côtes	fra	
 entry	Rippenfellentzündung	0	
 orth	Rippenfellentzündung	deu	
 foreign	pleurésie	fra	
@@ -12063,7 +11864,6 @@ orth	Rippenweh	deu
 foreign	pleurodynie	fra	
 entry	Rippenwirbel	0	
 orth	Rippenwirbel	deu	
-foreign	angle des côtes	fra	
 entry	Rispenförmig	0	
 orth	Rispenförmig	deu	
 foreign	panniculé	fra	
@@ -12151,17 +11951,17 @@ foreign	torréfaction	fra
 entry	Roth	0	
 orth	Roth	deu	
 foreign	rouge	fra	
-entry	Rothblûtig	0	
-orth	Rothblûtig	deu	
-foreign	à sàng rouge	fra	
+entry	Rothblütig	0	
+orth	Rothblütig	deu	
+foreign	à sang rouge	fra	
 entry	Rothbraun	0	
 orth	Rothbraun	deu	
 foreign	bai	fra	
 entry	Röthe	0	
 orth	Röthe	deu	
 foreign	rougeur	fra	
-entry	Rôtheln	0	
-orth	Rôtheln	deu	
+entry	Rötheln	0	
+orth	Rötheln	deu	
 foreign	rougeole	fra	
 entry	Rothgerbsäure	0	
 orth	Rothgerbsäure	deu	
@@ -12187,7 +11987,7 @@ orth	Rübenartig	deu
 foreign	napiforme	fra	
 entry	Rübenförmig	0	
 orth	Rübenförmig	deu	
-foreign	napaee	fra	
+foreign	napacé	fra	
 entry	Rubinschwefel	0	
 orth	Rubinschwefel	deu	
 foreign	réalgar	fra	
@@ -12293,10 +12093,9 @@ orth	Runzeligkeit	deu
 foreign	rugosité	fra	
 entry	Runzeln	0	
 orth	Runzeln	deu	
-foreign	comigation	fra	
+foreign	corrugation	fra	
 entry	Runzler	0	
 orth	Runzler	deu	
-foreign	muscle qui fronce	fra	
 entry	Russ	0	
 orth	Russ	deu	
 foreign	nielle	fra	
@@ -12343,7 +12142,7 @@ orth	Sackig	deu
 foreign	enkysté	fra	
 entry	Saflor	0	
 orth	Saflor	deu	
-foreign	carihame	fra	
+foreign	carthame	fra	
 entry	Saflorroth	0	
 orth	Saflorroth	deu	
 foreign	carthaméine	fra	
@@ -12361,13 +12160,10 @@ orth	Säfteverderbniss	deu
 foreign	dyscrasie	fra	
 entry	Saftig	0	
 orth	Saftig	deu	
-foreign	plein de suc	fra	
 entry	Sägmuskel	0	
 orth	Sägmuskel	deu	
-foreign	muscle dentelé	fra	
 entry	Sägspanbinde	0	
 orth	Sägspanbinde	deu	
-foreign	bandage en doloire	fra	
 entry	Saite	0	
 orth	Saite	deu	
 foreign	corde	fra	
@@ -12393,8 +12189,7 @@ entry	Salmiak	0
 orth	Salmiak	deu	
 foreign	sel ammoniac	fra	
 entry	Salmiakblumen 	0	
-orth	Salmiakblumen 	deu	
-foreign	hydrochlorate d’ammoniaque purifié	fra	
+orth	Salmiakblumen	deu	
 entry	Salmiakgeist	0	
 orth	Salmiakgeist	deu	
 foreign	ammoniaque	fra	
@@ -12403,7 +12198,7 @@ orth	Salpeter	deu
 foreign	salpêtre	fra	
 foreign	nitre	fra	
 entry	Salpeterhütte 	0	
-orth	Salpeterhütte 	deu	
+orth	Salpeterhütte	deu	
 foreign	nitrière	fra	
 entry	Salpetersäure	0	
 orth	Salpetersäure	deu	
@@ -12416,7 +12211,6 @@ orth	Salzbildend	deu
 foreign	halogène	fra	
 entry	Salzermittelung	0	
 orth	Salzermittelung	deu	
-foreign	essai halimétrique	fra	
 entry	Salzfleisch	0	
 orth	Salzfleisch	deu	
 foreign	salaison	fra	
@@ -12431,7 +12225,6 @@ orth	Salzsäure	deu
 foreign	acide chlorhydrique	fra	
 entry	Same	0	
 orth	Same	deu	
-foreign	corpuscule reproducteur	fra	
 foreign	sperme	fra	
 entry	Samen	0	
 orth	Samen	deu	
@@ -12452,11 +12245,11 @@ foreign	spermatocèie	fra
 entry	Samendecke	0	
 orth	Samendecke	deu	
 foreign	épisperme	fra	
-entry	Samenentleerung ercshwerte	0	
-orth	Samenentleerung ercshwerte	deu	
+entry	Samenentleerung ercshwerteerschwerte	0	
+orth	Samenentleerung erschwerte	deu	
 foreign	dyspermatisme	fra	
-entry	Samen drüse	0	
-orth	Samen drüse	deu	
+entry	Samendrüse	0	
+orth	Samendrüse	deu	
 foreign	testicule	fra	
 entry	Samendunst	0	
 orth	Samendunst	deu	
@@ -12466,16 +12259,15 @@ orth	Samenergiessung	deu
 foreign	éjaculation	fra	
 entry	Samenfeuchtigkeit	0	
 orth	Samenfeuchtigkeit	deu	
-foreign	liqueur séminale	fra	
 foreign	dyspermatisme	fra	
 entry	Samenfluss	0	
 orth	Samenfluss	deu	
-foreign	perte séminale	fra	
 entry	Samenfuss	0	
 orth	Samenfuss	deu	
 foreign	podosperme	fra	
-entry	Samen gang	0	
-orth	Samen gang	deu	
+entry	Samengang	0	
+orth	Samengang	deu	
+foreign	canal déférent	fra	
 entry	Samengeflecht	0	
 orth	Samengeflecht	deu	
 foreign	plexus spermatique	fra	
@@ -12514,7 +12306,6 @@ orth	Samenverlüst	deu
 foreign	spermatorrhée	fra	
 entry	Samenwerkzeuge	0	
 orth	Samenwerkzeuge	deu	
-foreign	organes de la spermatose	fra	
 entry	Sammlung	0	
 orth	Sammlung	deu	
 foreign	collection	fra	
@@ -12529,20 +12320,19 @@ orth	Sandfloh	deu
 foreign	chique	fra	
 entry	Sandelholz	0	
 orth	Sandelholz	deu	
-foreign	sahtal	fra	
+foreign	santal	fra	
 entry	Sanität	0	
 orth	Sanität	deu	
-foreign	hygiène publique	fra	
 entry	Sardelle	0	
 orth	Sardelle	deu	
 foreign	sardine	fra	
 entry	Sattel, Sattelbein	0	
 orth	Sattel	deu	
 orth	Sattelbein	deu	
-foreign	selle turrique	fra	
+foreign	selle turcique	fra	
 entry	Sattelfortsatz	0	
 orth	Sattelfortsatz	deu	
-foreign	apophyse Minoide	fra	
+foreign	apophyse clinoïde	fra	
 entry	Sattheit	0	
 orth	Sattheit	deu	
 foreign	satiété	fra	
@@ -12558,7 +12348,7 @@ orth	Säubern	deu
 foreign	monder	fra	
 entry	Sauer	0	
 orth	Sauer	deu	
-foreign	acide	fra	
+foreign	acide, adj.	fra	
 foreign	aigre	fra	
 entry	Sauerampfer	0	
 orth	Sauerampfer	deu	
@@ -12602,7 +12392,7 @@ orth	Sauerzucker	deu
 foreign	oxysaccharum	fra	
 entry	Säure	0	
 orth	Säure	deu	
-foreign	un acide	fra	
+foreign	acide (un)	fra	
 foreign	acidité	fra	
 foreign	aigreur	fra	
 entry	Säurung	0	
@@ -12660,7 +12450,7 @@ orth	Sausen	deu
 foreign	susurrus	fra	
 entry	Scale	0	
 orth	Scale	deu	
-foreign	rampe du limaçon	fra	
+foreign	rampe	fra	
 entry	Schabe	0	
 orth	Schabe	deu	
 foreign	blatte	fra	
@@ -12683,12 +12473,12 @@ foreign	impaction	fra
 entry	Schädeleindruck	0	
 orth	Schädeleindruck	deu	
 foreign	embarrure	fra	
-entry	Schädelerwëichung	0	
-orth	Schädelerwëichung	deu	
+entry	Schädelerweichung	0	
+orth	Schädelerweichung	deu	
 foreign	craniotubes	fra	
 entry	Schädelhaut	0	
 orth	Schädelhaut	deu	
-foreign	piricrâne	fra	
+foreign	péricrâne	fra	
 entry	Schädellehre	0	
 orth	Schädellehre	deu	
 foreign	crâniologie	fra	
@@ -12701,7 +12491,7 @@ orth	Schafblatter	deu
 foreign	clavelée	fra	
 entry	Schafgarbe	0	
 orth	Schafgarbe	deu	
-foreign	mille feuille	fra	
+foreign	millefeuille	fra	
 entry	Schafhäutchen	0	
 orth	Schafhäutchen	deu	
 foreign	amnios	fra	
@@ -12710,7 +12500,6 @@ orth	Schafpocken	deu
 foreign	varicelle	fra	
 entry	Schafwasser	0	
 orth	Schafwasser	deu	
-foreign	eaux de ΐamnios	fra	
 entry	Schale	0	
 orth	Schale	deu	
 foreign	coque	fra	
@@ -12735,10 +12524,8 @@ orth	Schallwellenlinie	deu
 foreign	concamération	fra	
 entry	Scham	0	
 orth	Scham	deu	
-foreign	organes sexuels	fra	
 entry	Schamgegend	0	
 orth	Schamgegend	deu	
-foreign	région pubienne	fra	
 entry	Schamhügel	0	
 orth	Schamhügel	deu	
 foreign	pubis	fra	
@@ -12756,16 +12543,14 @@ orth	Schampulsader	deu
 foreign	artère honteuse	fra	
 entry	Schamseite	0	
 orth	Schamseite	deu	
-foreign	région inguinale	fra	
 entry	Schamtheile	0	
 orth	Schamtheile	deu	
-foreign	parties génitales	fra	
 entry	Schamritze	0	
 orth	Schamritze	deu	
 foreign	vulve	fra	
 entry	Schamritzenentzündung	0	
 orth	Schamritzenentzündung	deu	
-foreign	vulvite. cèle	fra	
+foreign	vulvite	fra	
 entry	Schanker	0	
 orth	Schanker	deu	
 foreign	chancre	fra	
@@ -12774,7 +12559,6 @@ orth	Scharbock	deu
 foreign	scorbut	fra	
 entry	Scharf	0	
 orth	Scharf	deu	
-foreign	à pic	fra	
 foreign	âcre	fra	
 entry	Schärfe	0	
 orth	Schärfe	deu	
@@ -12794,13 +12578,12 @@ orth	Schauer	deu
 foreign	frisson	fra	
 entry	Schäuerchen	0	
 orth	Schäuerchen	deu	
-foreign	convulsion chez les enfants	fra	
+foreign	convulsion	fra	
 entry	Schauerfieber	0	
 orth	Schauerfieber	deu	
-foreign	fièvre avec frissons fréquents	fra	
 entry	Schaufelbein	0	
 orth	Schaufelbein	deu	
-foreign	os. innommé	fra	
+foreign	os innominé	fra	
 entry	Schaum	0	
 orth	Schaum	deu	
 foreign	spume	fra	
@@ -12833,7 +12616,6 @@ foreign	vaginite	fra
 foreign	vulvite	fra	
 entry	Scheidenhaut	0	
 orth	Scheidenhaut	deu	
-foreign	tunique vaginale	fra	
 entry	Scheidenpulsader	0	
 orth	Scheidenpulsader	deu	
 foreign	artère vaginale	fra	
@@ -12845,7 +12627,6 @@ orth	Scheidebein	deu
 foreign	vomer	fra	
 entry	Scheidehaut	0	
 orth	Scheidehaut	deu	
-foreign	cloison membraneuse	fra	
 entry	Scheidewand	0	
 orth	Scheidewand	deu	
 foreign	septum	fra	
@@ -12856,10 +12637,8 @@ foreign	séparation	fra
 foreign	ségrégation	fra	
 entry	Scheinschwangerschaft	0	
 orth	Scheinschwangerschaft	deu	
-foreign	fausse grossesse	fra	
 entry	Scheintod	0	
 orth	Scheintod	deu	
-foreign	mort apparente	fra	
 entry	Scheitel	0	
 orth	Scheitel	deu	
 foreign	vertex	fra	
@@ -12870,7 +12649,6 @@ foreign	os pariétal	fra
 entry	Schenkel	0	
 orth	Schenkel	deu	
 foreign	cuisse	fra	
-foreign	membre inférieur	fra	
 foreign	pédoncule	fra	
 entry	Schenkelader	0	
 orth	Schenkelader	deu	
@@ -12885,8 +12663,8 @@ entry	Schenkelbruch	0
 orth	Schenkelbruch	deu	
 foreign	hernie crurale	fra	
 foreign	mérocèle	fra	
-entry	Schenkelgeschwulst weisse	0	
-orth	Schenkelgeschwulst weisse	deu	
+entry	Schenkelgeschwulst, weisse	0	
+orth	Schenkelgeschwulst, weisse	deu	
 foreign	phlegmatia alba dolens	fra	
 entry	Schenkelhals	0	
 orth	Schenkelhals	deu	
@@ -12938,7 +12716,7 @@ orth	Schienbein	deu
 foreign	tibia	fra	
 entry	Schiene	0	
 orth	Schiene	deu	
-foreign	oitelle	fra	
+foreign	attelle	fra	
 entry	Schierling	0	
 orth	Schierling	deu	
 foreign	ciguë	fra	
@@ -12951,16 +12729,16 @@ orth	Schiffchen	deu
 foreign	nacelle	fra	
 entry	Schilddrüse	0	
 orth	Schilddrüse	deu	
-foreign	glande thyrédide	fra	
+foreign	glande thyréoïde	fra	
 entry	Schilddrüsengeschwulst	0	
 orth	Schilddrüsengeschwulst	deu	
-foreign	thyréo	fra	
+foreign	thyréocèle	fra	
 entry	Schildförmig	0	
 orth	Schildförmig	deu	
-foreign	petté	fra	
+foreign	pelté	fra	
 entry	Schildknorpel	0	
 orth	Schildknorpel	deu	
-foreign	cartilagethyrédvie	fra	
+foreign	cartilage thyréoïde	fra	
 entry	Schildkröte	0	
 orth	Schildkröte	deu	
 foreign	tortue	fra	
@@ -12994,7 +12772,7 @@ orth	Schlaffieber	deu
 foreign	fièvre soporeuse	fra	
 entry	Schlaflosigkeit	0	
 orth	Schlaflosigkeit	deu	
-foreign	insomme	fra	
+foreign	insomnie	fra	
 foreign	agrypnie	fra	
 entry	Schlafmachend	0	
 orth	Schlafmachend	deu	
@@ -13009,7 +12787,6 @@ foreign	coma	fra
 foreign	léthargie	fra	
 entry	Schlafwachender Zustand	0	
 orth	Schlafwachender Zustand	deu	
-foreign	somnambulisme magnétique	fra	
 entry	Schlafwandler	0	
 orth	Schlafwandler	deu	
 foreign	somnambule	fra	
@@ -13018,7 +12795,7 @@ orth	Schläfe	deu
 foreign	tempe	fra	
 foreign	larmiers	fra	
 entry	Schläfenader 	0	
-orth	Schläfenader 	deu	
+orth	Schläfenader	deu	
 foreign	veine temporale	fra	
 entry	Schläfenbein	0	
 orth	Schläfenbein	deu	
@@ -13031,7 +12808,7 @@ orth	Schlâfenmuskel	deu
 foreign	muscle crotaphite	fra	
 entry	Schläfenpulsader	0	
 orth	Schläfenpulsader	deu	
-foreign	ar- . tère temporale	fra	
+foreign	artère temporale	fra	
 entry	Schlaffheit	0	
 orth	Schlaffheit	deu	
 foreign	laxité	fra	
@@ -13040,11 +12817,10 @@ orth	Schlag	deu
 foreign	apoplexie	fra	
 foreign	coup	fra	
 entry	Schlagader 	0	
-orth	Schlagader 	deu	
+orth	Schlagader	deu	
 foreign	artère	fra	
 entry	Schlagaderbruch	0	
 orth	Schlagaderbruch	deu	
-foreign	anévrysme faux	fra	
 entry	Schlagaderentzündung	0	
 orth	Schlagaderentzündung	deu	
 foreign	artérite	fra	
@@ -13108,8 +12884,6 @@ foreign	apophlegmatisant	fra
 foreign	phlegmagogue	fra	
 entry	Schleimbeutel	0	
 orth	Schleimbeutel	deu	
-foreign	bourse muqueuse	fra	
-foreign	capsule synoviale	fra	
 entry	Schleimbildend	0	
 orth	Schleimbildend	deu	
 foreign	mucipare	fra	
@@ -13118,7 +12892,6 @@ orth	Schleimerzeugend	deu
 foreign	blennogène	fra	
 entry	Schleimdrüse	0	
 orth	Schleimdrüse	deu	
-foreign	follicule mucipare	fra	
 entry	Schleimdrüsenentzündung	0	
 orth	Schleimdrüsenentzündung	deu	
 foreign	blennadénite	fra	
@@ -13129,37 +12902,33 @@ entry	Schleimfluss	0
 orth	Schleimfluss	deu	
 foreign	catarrhe	fra	
 foreign	bronchorrhée	fra	
-entry	Schlei mgewebe	0	
-orth	Schlei mgewebe	deu	
-foreign	tissu muqueux	fra	
+entry	Schleimgewebe	0	
+orth	Schleimgewebe	deu	
 entry	Schleimharz	0	
 orth	Schleimharz	deu	
 foreign	gomme-résine	fra	
 entry	Schleimhaut	0	
 orth	Schleimhaut	deu	
-foreign	membrane muqueuse	fra	
 foreign	membrane séreuse	fra	
 entry	Schleimhöhle	0	
 orth	Schleimhöhle	deu	
-foreign	sinus muqueux	fra	
-entry	Schleimicht, schleimig	0	
+entry	Schleimicht, Schleimig	0	
 orth	Schleimicht	deu	
-orth	Schleimig		
+orth	Schleimig	deu	
 foreign	muqueux	fra	
 foreign	mucilagineux	fra	
 entry	Schleimnetz	0	
 orth	Schleimnetz	deu	
-foreign	corps réticulaire de Malpighi	fra	
 pb	1759	1773	
 entry	Schleimpolyp	0	
 orth	Schleimpolyp	deu	
 foreign	polype muqueux	fra	
 entry	Schleimsäure	0	
 orth	Schleimsäure	deu	
-foreign	aride mucique	fra	
+foreign	acide mucique	fra	
 entry	Schleimzucker	0	
 orth	Schleimzucker	deu	
-foreign	mucososucre	fra	
+foreign	mucoso-sucre	fra	
 entry	Schliessmuskel	0	
 orth	Schliessmuskel	deu	
 foreign	sphincter	fra	
@@ -13186,7 +12955,7 @@ foreign	assoupissement	fra
 entry	Schlund	0	
 orth	Schlund	deu	
 foreign	pharynx	fra	
-foreign	‘œsophage	fra	
+foreign	œsophage	fra	
 foreign	gosier	fra	
 entry	Schlundentzündung	0	
 orth	Schlundentzündung	deu	
@@ -13214,7 +12983,6 @@ orth	Schlundschnitt	deu
 foreign	pharyngotomie	fra	
 entry	Schlundschnürer	0	
 orth	Schlundschnürer	deu	
-foreign	muscles constricteurs du pharynx	fra	
 entry	Schlüssel	0	
 orth	Schlüssel	deu	
 foreign	clef	fra	
@@ -13228,8 +12996,8 @@ entry	Schmackhaft	0
 orth	Schmackhaft	deu	
 foreign	sapide	fra	
 foreign	savoureux	fra	
-entry	Schmajz	0	
-orth	Schmajz	deu	
+entry	Schmalz	0	
+orth	Schmalz	deu	
 foreign	axonge	fra	
 entry	Schmarotzer	0	
 orth	Schmarotzer	deu	
@@ -13310,19 +13078,18 @@ foreign	mufle	fra
 foreign	museau	fra	
 entry	Schnecke	0	
 orth	Schnecke	deu	
-foreign	limaçon de l’oreille	fra	
+foreign	limaçon	fra	
 entry	Schneckenförmig	0	
 orth	Schneckenförmig	deu	
 foreign	hélicin	fra	
 entry	Schneckengang	0	
 orth	Schneckengang	deu	
-foreign	rampe du limaçon	fra	
+foreign	rampe	fra	
 entry	Schneckenkopf	0	
 orth	Schneckenkopf	deu	
-foreign	veru-montanum	fra	
+foreign	verumontanum	fra	
 entry	Schneckenscheidewand	0	
 orth	Schneckenscheidewand	deu	
-foreign	lame spirale du limaçon	fra	
 entry	Schneckenwindung	0	
 orth	Schneckenwindung	deu	
 foreign	spire	fra	
@@ -13343,9 +13110,12 @@ orth	Schnelligkeit	deu
 foreign	vitesse	fra	
 entry	Schnepfknorpel	0	
 orth	Schnepfknorpel	deu	
-foreign	cartilage aryténoide	fra	
+foreign	cartilage aryténoïde	fra	
 entry	Schnitt	0	
 orth	Schnitt	deu	
+foreign	coupure	fra	
+foreign	incision	fra	
+foreign	taille	fra	
 entry	Schnittmesser	0	
 orth	Schnittmesser	deu	
 foreign	bistouri	fra	
@@ -13382,7 +13152,6 @@ orth	Schöllkraut	deu
 foreign	chélidoine	fra	
 entry	Schooss	0	
 orth	Schooss	deu	
-foreign	parties génitales de la femme	fra	
 entry	Schorf	0	
 orth	Schorf	deu	
 foreign	croûte	fra	
@@ -13401,7 +13170,6 @@ orth	Schreibfeder	deu
 foreign	calamus scriptorius	fra	
 entry	Schreibkrampf	0	
 orth	Schreibkrampf	deu	
-foreign	crampe des écrivains	fra	
 entry	Schritt	0	
 orth	Schritt	deu	
 foreign	pas	fra	
@@ -13424,8 +13192,8 @@ orth	Schrunde	deu
 foreign	fissure	fra	
 foreign	gerçure	fra	
 foreign	rhagade	fra	
-entry	Schüle	0	
-orth	Schüle	deu	
+entry	Schule	0	
+orth	Schule	deu	
 foreign	école	fra	
 entry	Schulter	0	
 orth	Schulter	deu	
@@ -13445,7 +13213,7 @@ orth	Schultergicht	deu
 foreign	omagre	fra	
 entry	Schulterheber	0	
 orth	Schulterheber	deu	
-foreign	muscle élévateur de l’épaule	fra	
+foreign	muscle élévateur	fra	
 entry	Schulterhöhe	0	
 orth	Schulterhöhe	deu	
 foreign	acromion	fra	
@@ -13460,10 +13228,9 @@ orth	Schulterverrenkung	deu
 foreign	entr’ouverture	fra	
 entry	Schulterwinkel	0	
 orth	Schulterwinkel	deu	
-foreign	angle de l’omoplate	fra	
 entry	Schulterzungenbeinmuskel	0	
 orth	Schulterzungenbeinmuskel	deu	
-foreign	muscle omoplathydidien	fra	
+foreign	muscle omoplat-hyoïdien	fra	
 entry	Schuppe	0	
 orth	Schuppe	deu	
 foreign	écaille	fra	
@@ -13474,7 +13241,7 @@ foreign	herpès squameux	fra
 foreign	psoriaris	fra	
 entry	Schuppenförmig	0	
 orth	Schuppenförmig	deu	
-foreign	lépiddide	fra	
+foreign	lépidoïde	fra	
 foreign	squammiforme	fra	
 entry	Schuppengrind	0	
 orth	Schuppengrind	deu	
@@ -13519,7 +13286,6 @@ orth	Schwächung	deu
 foreign	défloration	fra	
 entry	Schwächungsmittel	0	
 orth	Schwächungsmittel	deu	
-foreign	moyen débilitant	fra	
 entry	Schwaden	0	
 orth	Schwaden	deu	
 foreign	mofette	fra	
@@ -13564,7 +13330,6 @@ orth	Schwappen	deu
 foreign	fluctuation	fra	
 entry	Schwarte	0	
 orth	Schwarte	deu	
-foreign	couenne inflammatoire	fra	
 entry	Schwarz	0	
 orth	Schwarz	deu	
 foreign	noir	fra	
@@ -13634,7 +13399,7 @@ orth	Schweissfieber	deu
 foreign	suette	fra	
 entry	Schweisstreibend	0	
 orth	Schweisstreibend	deu	
-foreign	diaphorétiqué	fra	
+foreign	diaphorétique	fra	
 entry	Schwer	0	
 orth	Schwer	deu	
 foreign	grave	fra	
@@ -13648,12 +13413,12 @@ orth	Schweremesser	deu
 foreign	gravimètre	fra	
 entry	Schwerhörigkeit	0	
 orth	Schwerhörigkeit	deu	
-foreign	baryécdie	fra	
+foreign	baryécoïe	fra	
 foreign	dysécée	fra	
 foreign	cophose	fra	
 entry	Schwerkraft	0	
 orth	Schwerkraft	deu	
-foreign	gravita- ' tion	fra	
+foreign	gravitation	fra	
 entry	Schwermuth	0	
 orth	Schwermuth	deu	
 foreign	mélancolie	fra	
@@ -13663,7 +13428,7 @@ foreign	ensiforme	fra
 foreign	gladié	fra	
 entry	Schwertfortsatz	0	
 orth	Schwertfortsatz	deu	
-foreign	appendice xiphdide	fra	
+foreign	appendice xiphoïde	fra	
 entry	Schwertlilie	0	
 orth	Schwertlilie	deu	
 foreign	iris	fra	
@@ -13708,8 +13473,8 @@ entry	Schwingung	0
 orth	Schwingung	deu	
 foreign	oscillation	fra	
 foreign	vibration	fra	
-entry	Schwingungs ver mögen	0	
-orth	Schwingungs ver mögen	deu	
+entry	Schwingungsvermögen	0	
+orth	Schwingungsvermögen	deu	
 foreign	vibratilité	fra	
 entry	Schwingungfeder	0	
 orth	Schwingungfeder	deu	
@@ -13726,7 +13491,7 @@ orth	Scrofeln	deu
 foreign	scrofules	fra	
 entry	Sedum	0	
 orth	Sedum	deu	
-foreign	or pin	fra	
+foreign	orpin	fra	
 entry	Seebars	0	
 orth	Seebars	deu	
 foreign	bar	fra	
@@ -13751,7 +13516,6 @@ orth	Seele	deu
 foreign	âme	fra	
 entry	Seelenleiden	0	
 orth	Seelenleiden	deu	
-foreign	affection mentale	fra	
 entry	Seelenruhe	0	
 orth	Seelenruhe	deu	
 foreign	ataraxie	fra	
@@ -13785,7 +13549,6 @@ orth	Sehnenhaut	deu
 foreign	aponévrose	fra	
 entry	Sehnenhüpfen	0	
 orth	Sehnenhüpfen	deu	
-foreign	soubresauts des tendons	fra	
 entry	Sehnenknöchelchen	0	
 orth	Sehnenknöchelchen	deu	
 foreign	os sésamoïde	fra	
@@ -13815,7 +13578,7 @@ orth	Seifenartig	deu
 foreign	saponacé	fra	
 entry	Seifenbaum	0	
 orth	Seifenbaum	deu	
-foreign	.savonnier	fra	
+foreign	savonnier	fra	
 entry	Seifenbildung	0	
 orth	Seifenbildung	deu	
 foreign	saponification	fra	
@@ -13827,7 +13590,6 @@ orth	Seifenspiritus	deu
 foreign	opodeldoch	fra	
 entry	Seifenzäpfchen	0	
 orth	Seifenzäpfchen	deu	
-foreign	suppositoire savonneux	fra	
 entry	Seihetuch	0	
 orth	Seihetuch	deu	
 foreign	blanchet	fra	
@@ -13841,7 +13603,6 @@ orth	Seitenschmerz	deu
 foreign	pleurodynie	fra	
 entry	Seitenschnitt	0	
 orth	Seitenschnitt	deu	
-foreign	taille latérale	fra	
 entry	Seitenständig	0	
 orth	Seitenständig	deu	
 foreign	latéral	fra	
@@ -13857,7 +13618,6 @@ foreign	masturbation	fra
 foreign	onanisme	fra	
 entry	Selbstentzündung	0	
 orth	Selbstentzündung	deu	
-foreign	inflammation idiopathique	fra	
 entry	Selbstleiden	0	
 orth	Selbstleiden	deu	
 foreign	idiopathie	fra	
@@ -13891,7 +13651,7 @@ orth	Sepiaschwarz	deu
 foreign	mélanine	fra	
 entry	Sesambeinchen	0	
 orth	Sesambeinchen	deu	
-foreign	os sésamdides	fra	
+foreign	os sésamoïdes	fra	
 entry	Seuche	0	
 orth	Seuche	deu	
 foreign	épidémie	fra	
@@ -13901,13 +13661,12 @@ orth	Seuchen	deu
 foreign	lues	fra	
 entry	Seuchenstoff	0	
 orth	Seuchenstoff	deu	
-foreign	matière contagieuse	fra	
 entry	Sevenbaum	0	
 orth	Sevenbaum	deu	
 foreign	sabine	fra	
 entry	Sichel	0	
 orth	Sichel	deu	
-foreign	la faux cérébrale	fra	
+foreign	faux (la)	fra	
 entry	Sichelblutleiter	0	
 orth	Sichelblutleiter	deu	
 foreign	sinus longitudinal	fra	
@@ -13916,7 +13675,7 @@ orth	Sichelförmig	deu
 foreign	falciforme	fra	
 entry	Siebbein	0	
 orth	Siebbein	deu	
-foreign	l’ethmdide	fra	
+foreign	ethmoïde (l')	fra	
 entry	Siebförmig	0	
 orth	Siebförmig	deu	
 foreign	cribriforme	fra	
@@ -13932,10 +13691,15 @@ orth	Sieden	deu
 foreign	ébullition	fra	
 entry	Siegelerde	0	
 orth	Siegelerde	deu	
-foreign	terre sigillée	fra	
 entry	Siegwurzel	0	
 orth	Siegwurzel	deu	
 foreign	glaïeul	fra	
+entry	Silber	0	
+orth	Silber	deu	
+foreign	argent	fra	
+entry	Silberglätte	0	
+orth	Silberglätte	deu	
+foreign	litharge	fra	
 entry	Sinn	0	
 orth	Sinn	deu	
 foreign	sens	fra	
@@ -13991,18 +13755,17 @@ entry	Sommersprossen	0
 orth	Sommersprossen	deu	
 foreign	éphélides	fra	
 foreign	lentigo	fra	
-entry	Sondiren	0	
-orth	Sondiren	deu	
+entry	SondirenSondieren	0	
+orth	Sondieren	deu	
 foreign	sonder	fra	
-entry	Sondirnadel	0	
-orth	Sondirnadel	deu	
+entry	SondirnadelSondiernadel	0	
+orth	Sondiernadel	deu	
 foreign	stylet	fra	
 entry	Sonne	0	
 orth	Sonne	deu	
 foreign	soleil	fra	
 entry	Sonnenbrand	0	
 orth	Sonnenbrand	deu	
-foreign	érythème causé par le soleil	fra	
 entry	Sonnenglanz	0	
 orth	Sonnenglanz	deu	
 foreign	photophobie	fra	
@@ -14011,7 +13774,6 @@ orth	Sonnengluth	deu
 foreign	hâle	fra	
 entry	Sonnenkoller (vétér.)	0	
 orth	Sonnenkoller (vétér.)	deu	
-foreign	vertigo causé par l’insolation	fra	
 entry	Sonnenstich	0	
 orth	Sonnenstich	deu	
 foreign	coup de soleil	fra	
@@ -14024,7 +13786,6 @@ foreign	héliotrope	fra
 entry	Soor	0	
 orth	Soor	deu	
 foreign	muguet	fra	
-foreign	stomatite pultacée	fra	
 entry	Spalt	0	
 orth	Spalt	deu	
 foreign	fente	fra	
@@ -14069,7 +13830,6 @@ foreign	courbe	fra
 foreign	éparvin	fra	
 entry	Species	0	
 orth	Species	deu	
-foreign	drogues simples	fra	
 entry	Speck	0	
 orth	Speck	deu	
 foreign	lard	fra	
@@ -14079,7 +13839,6 @@ foreign	lipome	fra
 foreign	loupe	fra	
 entry	Speckhaut	0	
 orth	Speckhaut	deu	
-foreign	couenne inflammatoire	fra	
 entry	Speckicht	0	
 orth	Speckicht	deu	
 foreign	lardacé	fra	
@@ -14094,7 +13853,6 @@ orth	Speichelausleerend	deu
 foreign	sialagogue	fra	
 entry	Speichelkur	0	
 orth	Speichelkur	deu	
-foreign	. traitement par la salivation	fra	
 entry	Speicheldrüse	0	
 orth	Speicheldrüse	deu	
 foreign	glande salivaire	fra	
@@ -14114,7 +13872,6 @@ orth	Speichelmittel	deu
 foreign	sialagogue	fra	
 entry	Speichelstein	0	
 orth	Speichelstein	deu	
-foreign	concrétion salivaire	fra	
 entry	Speichelstoff	0	
 orth	Speichelstoff	deu	
 foreign	ptyaline	fra	
@@ -14150,12 +13907,6 @@ foreign	miroir	fra
 entry	Spierstaude	0	
 orth	Spierstaude	deu	
 foreign	filipendule	fra	
-entry	Silber	0	
-orth	Silber	deu	
-foreign	argent	fra	
-entry	Silberglätte	0	
-orth	Silberglätte	deu	
-foreign	litharge	fra	
 entry	Spiessförmig	0	
 orth	Spiessförmig	deu	
 foreign	hasté	fra	
@@ -14177,7 +13928,6 @@ orth	Spinne	deu
 foreign	araignée	fra	
 entry	Spinnen	0	
 orth	Spinnen	deu	
-foreign	frémissement cataire	fra	
 entry	Spinnwebenhaut	0	
 orth	Spinnwebenhaut	deu	
 foreign	arachnoïde	fra	
@@ -14196,9 +13946,8 @@ foreign	monocotylédone	fra
 entry	Spitzsäulendrüsen	0	
 orth	Spitzsäulendrüsen	deu	
 foreign	glandes aryténoïdes	fra	
-entry	Spitzsäulenfortsàtz	0	
-orth	Spitzsäulenfortsàtz	deu	
-foreign	tubérosité de l’os palatin	fra	
+entry	Spitzsäulenfortsatz	0	
+orth	Spitzsäulenfortsatz	deu	
 entry	Spitzsäulenkörper	0	
 orth	Spitzsäulenkörper	deu	
 entry	Spitzsäulenmuskel	0	
@@ -14216,7 +13965,6 @@ foreign	écharde	fra
 foreign	esquille	fra	
 entry	Splittern	0	
 orth	Splittern	deu	
-foreign	fracture comminutive	fra	
 entry	Sporadisch	0	
 orth	Sporadisch	deu	
 foreign	sporadique	fra	
@@ -14247,7 +13995,6 @@ orth	Spritzmuskel	deu
 foreign	muscle accélérateur	fra	
 entry	Spritzröhre	0	
 orth	Spritzröhre	deu	
-foreign	conduit éjaculateur	fra	
 entry	Sprossenbildung	0	
 orth	Sprossenbildung	deu	
 foreign	prolifération	fra	
@@ -14275,15 +14022,14 @@ foreign	piste	fra
 entry	Staar	0	
 orth	Staar	deu	
 foreign	cataracte	fra	
-entry	Staar schwarzer	0	
-orth	Staar schwarzer	deu	
+entry	Staar, schwarzer	0	
+orth	Staar, schwarzer	deu	
 foreign	amaurose	fra	
 entry	Staarstechen	0	
 orth	Staarstechen	deu	
-foreign	opération de la cataracte	fra	
 entry	Stabförmig	0	
 orth	Stabförmig	deu	
-foreign	rhabdo'ide	fra	
+foreign	rhabdoïde	fra	
 entry	Stachel	0	
 orth	Stachel	deu	
 foreign	dard	fra	
@@ -14297,6 +14043,8 @@ orth	Stachelkopf	deu
 foreign	acanthocéphale	fra	
 entry	Stachelkreutzband	0	
 orth	Stachelkreutzband	deu	
+foreign	ligament sacro-épineux	fra	
+foreign	sacro-iliaque inférieur	fra	
 entry	Stachelloch	0	
 orth	Stachelloch	deu	
 foreign	trou sphéno-épineux	fra	
@@ -14311,7 +14059,6 @@ orth	Stahlkugeln	deu
 foreign	boules de Mars	fra	
 entry	Stahlmittel	0	
 orth	Stahlmittel	deu	
-foreign	préparation ferrugineuse	fra	
 entry	Stamm	0	
 orth	Stamm	deu	
 foreign	tronc	fra	
@@ -14396,7 +14143,7 @@ orth	Stehenbleiben	deu
 foreign	stase	fra	
 entry	Steif	0	
 orth	Steif	deu	
-foreign	1 oide	fra	
+foreign	roide	fra	
 entry	Steife	0	
 orth	Steife	deu	
 foreign	contracture	fra	
@@ -14427,7 +14174,6 @@ orth	Steinabtreibend	deu
 foreign	lithagogue	fra	
 entry	Steinbeschwerde	0	
 orth	Steinbeschwerde	deu	
-foreign	affection calculense	fra	
 entry	Steinbeschwerden	0	
 orth	Steinbeschwerden	deu	
 foreign	néphrolithiase	fra	
@@ -14467,7 +14213,7 @@ orth	Steinoperation	deu
 foreign	lithotomie	fra	
 entry	Steinsamen	0	
 orth	Steinsamen	deu	
-foreign	grémU	fra	
+foreign	grémil	fra	
 entry	Steinschneider	0	
 orth	Steinschneider	deu	
 foreign	lithotomiste	fra	
@@ -14477,7 +14223,7 @@ foreign	cystotomie	fra
 entry	Steinzange	0	
 orth	Steinzange	deu	
 foreign	tenettes	fra	
-foreign	liteolabe	fra	
+foreign	litholabe	fra	
 entry	Steinzermalmung	0	
 orth	Steinzermalmung	deu	
 foreign	lithotritie	fra	
@@ -14486,7 +14232,7 @@ orth	Steinzerreiber	deu
 foreign	lithotriteur	fra	
 entry	Steinzerreibung	0	
 orth	Steinzerreibung	deu	
-foreign	lithotritie par écrasement	fra	
+foreign	lithotritie	fra	
 entry	Steiss	0	
 orth	Steiss	deu	
 foreign	croupion	fra	
@@ -14530,10 +14276,9 @@ foreign	fièvre pernicieuse	fra
 foreign	suffocation	fra	
 entry	Stickfluss	0	
 orth	Stickfluss	deu	
-foreign	catarrhe suffocant	fra	
 entry	Stickluft	0	
 orth	Stickluft	deu	
-foreign	méplate	fra	
+foreign	méphite	fra	
 entry	Stickstoff	0	
 orth	Stickstoff	deu	
 foreign	azote	fra	
@@ -14549,7 +14294,7 @@ foreign	pédicule	fra
 foreign	hampe	fra	
 entry	Stielhirn	0	
 orth	Stielhirn	deu	
-foreign	podeneéphale	fra	
+foreign	podencéphale	fra	
 entry	Stielständig	0	
 orth	Stielständig	deu	
 foreign	pédonculaire	fra	
@@ -14605,14 +14350,14 @@ foreign	éperlan	fra
 entry	Stirn	0	
 orth	Stirn	deu	
 foreign	front	fra	
-entry	Stimader	0	
-orth	Stimader	deu	
+entry	Stirnader	0	
+orth	Stirnader	deu	
 foreign	préparate	fra	
 entry	Stirnbein	0	
 orth	Stirnbein	deu	
 foreign	os frontal	fra	
-entry	Stirn binde	0	
-orth	Stirn binde	deu	
+entry	Stirnbinde	0	
+orth	Stirnbinde	deu	
 foreign	bandeau	fra	
 entry	Stirnecke	0	
 orth	Stirnecke	deu	
@@ -14627,7 +14372,6 @@ orth	Stirnmuskel	deu
 foreign	muscle frontal	fra	
 entry	Stirnstachel	0	
 orth	Stirnstachel	deu	
-foreign	crête du coronal	fra	
 entry	Stockfisch	0	
 orth	Stockfisch	deu	
 foreign	merluche	fra	
@@ -14651,7 +14395,6 @@ orth	Stoffmenge	deu
 foreign	masse	fra	
 entry	Stöhnen	0	
 orth	Stöhnen	deu	
-foreign	respiration suspirieuse	fra	
 entry	Stöhnend	0	
 orth	Stöhnend	deu	
 foreign	suspirieux	fra	
@@ -14664,8 +14407,8 @@ foreign	esturgeon	fra
 entry	Storaxbaum	0	
 orth	Storaxbaum	deu	
 foreign	aliboufier	fra	
-entry	Störri g	0	
-orth	Störri g	deu	
+entry	Störrig	0	
+orth	Störrig	deu	
 foreign	quinteux	fra	
 entry	Störung	0	
 orth	Störung	deu	
@@ -14681,7 +14424,6 @@ orth	Stössel	deu
 foreign	pilon	fra	
 entry	Stossäge	0	
 orth	Stossäge	deu	
-foreign	scie a amputation	fra	
 entry	Stottern	0	
 orth	Stottern	deu	
 foreign	bégayer	fra	
@@ -14694,7 +14436,6 @@ orth	Strahl	deu
 foreign	rayon	fra	
 entry	Strahlen	0	
 orth	Strahlen	deu	
-foreign	procès ciliaires	fra	
 entry	Strahlenbrechend	0	
 orth	Strahlenbrechend	deu	
 foreign	réfractif	fra	
@@ -14707,9 +14448,8 @@ foreign	radieux	fra
 foreign	rayonnant	fra	
 entry	Strahlenkörper	0	
 orth	Strahlenkörper	deu	
-foreign	corps ciliaires	fra	
-entry	Strahlen thier	0	
-orth	Strahlen thier	deu	
+entry	Strahlenthier	0	
+orth	Strahlenthier	deu	
 foreign	radiaire	fra	
 entry	Strang	0	
 orth	Strang	deu	
@@ -14738,14 +14478,14 @@ orth	Streng	deu
 foreign	austère	fra	
 entry	Strenge	0	
 orth	Strenge	deu	
-foreign	morfonaure	fra	
+foreign	morfondure	fra	
 entry	Streupulver	0	
 orth	Streupulver	deu	
 foreign	diapasme	fra	
 foreign	empasme	fra	
 entry	Striegelförmig	0	
 orth	Striegelförmig	deu	
-foreign	strigili forme	fra	
+foreign	strigiliforme	fra	
 entry	Strieme	0	
 orth	Strieme	deu	
 foreign	sugillation	fra	
@@ -14772,7 +14512,7 @@ orth	Strunk	deu
 foreign	moignon	fra	
 entry	Strunkförmig	0	
 orth	Strunkförmig	deu	
-foreign	stipi forme	fra	
+foreign	stipiforme	fra	
 entry	Struppig	0	
 orth	Struppig	deu	
 foreign	hirsute	fra	
@@ -14784,7 +14524,6 @@ orth	Stufe	deu
 foreign	degré	fra	
 entry	Stufenjahr	0	
 orth	Stufenjahr	deu	
-foreign	année climatérique	fra	
 entry	Stuhldrang, Stuhlzwang	0	
 orth	Stuhldrang	deu	
 orth	Stuhlzwang	deu	
@@ -14816,7 +14555,6 @@ foreign	stupeur	fra
 entry	Stumpfwerden	0	
 orth	Stumpfwerden	deu	
 foreign	agacement	fra	
-foreign	en parlant des dents	fra	
 entry	Stumpfwinkelig	0	
 orth	Stumpfwinkelig	deu	
 foreign	obtusangulé	fra	
@@ -14825,14 +14563,14 @@ orth	Stuterei	deu
 foreign	haras	fra	
 entry	Stützpunkt	0	
 orth	Stützpunkt	deu	
-foreign	point dappui	fra	
-entry	Sublimirt	0	
-orth	Sublimirt	deu	
+foreign	point d'appui	fra	
+entry	SublimirtSublimiert	0	
+orth	Sublimiert	deu	
 foreign	sublimé	fra	
-entry	Sublimirgefass	0	
-orth	Sublimirgefass	deu	
+entry	SublimirgefassSublimiergefass	0	
+orth	Sublimiergefass	deu	
 foreign	aludel	fra	
-foreign	sub limat oire	fra	
+foreign	sublimatoire	fra	
 entry	Substanz	0	
 orth	Substanz	deu	
 foreign	substance	fra	
@@ -14841,7 +14579,6 @@ orth	Suchnadel	deu
 foreign	stylet	fra	
 entry	Suchröhrchen	0	
 orth	Suchröhrchen	deu	
-foreign	sonde creuse	fra	
 entry	Sucht	0	
 orth	Sucht	deu	
 foreign	cachexie	fra	
@@ -14860,7 +14597,6 @@ orth	Sumpfig	deu
 foreign	paludéen	fra	
 entry	Sumpfluft	0	
 orth	Sumpfluft	deu	
-foreign	effluve marécageux	fra	
 foreign	miasme	fra	
 entry	Sündfluhtlich	0	
 orth	Sündfluhtlich	deu	
@@ -14939,11 +14675,9 @@ orth	Täschelkraut	deu
 foreign	thlaspi	fra	
 entry	Tastsinn	0	
 orth	Tastsinn	deu	
-foreign	sens du toucher	fra	
 foreign	tact	fra	
 entry	Tastwerkzeuge	0	
 orth	Tastwerkzeuge	deu	
-foreign	organes du toucher	fra	
 entry	Tâtowiren	0	
 orth	Tâtowiren	deu	
 foreign	tatouage	fra	
@@ -14958,7 +14692,7 @@ orth	Taubstumm	deu
 foreign	sourd-muet	fra	
 entry	Taubstummheit	0	
 orth	Taubstummheit	deu	
-foreign	surdimutité	fra	
+foreign	surdi-mutité	fra	
 entry	Taube	0	
 orth	Taube	deu	
 foreign	pigeon	fra	
@@ -14983,7 +14717,7 @@ orth	Teigig	deu
 foreign	pâteux	fra	
 entry	Teller	0	
 orth	Teller	deu	
-foreign	paume de la main	fra	
+foreign	paume	fra	
 entry	Terpentin	0	
 orth	Terpentin	deu	
 foreign	térébenthine	fra	
@@ -15002,8 +14736,8 @@ foreign	fait	fra
 entry	Thau	0	
 orth	Thau	deu	
 foreign	rosée	fra	
-entry	Theumesser	0	
-orth	Theumesser	deu	
+entry	Thaumesser	0	
+orth	Thaumesser	deu	
 foreign	drosomètre	fra	
 entry	Theer	0	
 orth	Theer	deu	
@@ -15042,16 +14776,14 @@ foreign	orviétan	fra
 entry	Thier	0	
 orth	Thier	deu	
 foreign	animal	fra	
-foreign	béte	fra	
+foreign	bête	fra	
 entry	Thierärztlich	0	
 orth	Thierärztlich	deu	
 foreign	vétérinaire	fra	
 entry	Thierarznei	0	
 orth	Thierarznei	deu	
-foreign	remède de médecine vétérinaire	fra	
 entry	Thierarzneikunde	0	
 orth	Thierarzneikunde	deu	
-foreign	médecine vétérinaire	fra	
 foreign	hippiatrique	fra	
 entry	Thierarzt	0	
 orth	Thierarzt	deu	
@@ -15064,7 +14796,6 @@ orth	Thierheit	deu
 foreign	animalité	fra	
 entry	Thieröl	0	
 orth	Thieröl	deu	
-foreign	huile volatile de corne de cerf	fra	
 entry	Thierzergliederung	0	
 orth	Thierzergliederung	deu	
 foreign	zootomie	fra	
@@ -15091,28 +14822,22 @@ orth	Thränenfluss	deu
 foreign	épiphora	fra	
 entry	Thränengang	0	
 orth	Thränengang	deu	
-foreign	conduit lacrymal	fra	
 entry	Thränengefässe	0	
 orth	Thränengefässe	deu	
-foreign	volés lacrymales	fra	
-entry	Thrânengrùbe	0	
-orth	Thrânengrùbe	deu	
+entry	Thrânengrube	0	
+orth	Thrânengrube	deu	
 foreign	larmier	fra	
 entry	Thränenkamm	0	
 orth	Thränenkamm	deu	
-foreign	crête de l’os lacrymal	fra	
 entry	Thränenkarbunkel	0	
 orth	Thränenkarbunkel	deu	
 foreign	caroncule lacrymale	fra	
 entry	Thränenpunkt	0	
 orth	Thränenpunkt	deu	
-foreign	point lacrymal	fra	
 entry	Thränenrinne	0	
 orth	Thränenrinne	deu	
-foreign	gouttière lacrymale	fra	
 entry	Thränensack	0	
 orth	Thränensack	deu	
-foreign	sac lacrymal	fra	
 entry	Thränenstein	0	
 orth	Thränenstein	deu	
 foreign	dacryolithe	fra	
@@ -15121,7 +14846,7 @@ orth	Thunfisch	deu
 foreign	thon	fra	
 entry	Thürangelartig	0	
 orth	Thürangelartig	deu	
-foreign	ginglymdide	fra	
+foreign	ginglymoïde	fra	
 entry	Thymian	0	
 orth	Thymian	deu	
 foreign	thym	fra	
@@ -15149,7 +14874,6 @@ orth	Tisane	deu
 foreign	tisane	fra	
 entry	Tobsucht	0	
 orth	Tobsucht	deu	
-foreign	délire furieux	fra	
 foreign	frénésie	fra	
 foreign	manie	fra	
 foreign	rage	fra	
@@ -15163,11 +14887,10 @@ entry	Todeskampf	0
 orth	Todeskampf	deu	
 foreign	agonie	fra	
 entry	Todtenfieber 	0	
-orth	Todtenfieber 	deu	
+orth	Todtenfieber	deu	
 foreign	fièvre pernicieuse	fra	
 entry	Todtenfriesel	0	
 orth	Todtenfriesel	deu	
-foreign	miliaire maligne	fra	
 entry	Todtenregister	0	
 orth	Todtenregister	deu	
 foreign	obituaire	fra	
@@ -15179,7 +14902,7 @@ orth	Todtenschlaf	deu
 foreign	carus	fra	
 entry	Todtgeboren	0	
 orth	Todtgeboren	deu	
-foreign	mortné	fra	
+foreign	mort-né	fra	
 entry	Tödtlichkeit	0	
 orth	Tödtlichkeit	deu	
 foreign	léthalité	fra	
@@ -15201,8 +14924,8 @@ foreign	tonique	fra
 entry	Torquiren	0	
 orth	Torquiren	deu	
 foreign	torsion	fra	
-entry	Traber	0	
-orth	Traber	deu	
+entry	Träber	0	
+orth	Träber	deu	
 foreign	marc	fra	
 entry	Tracht	0	
 orth	Tracht	deu	
@@ -15215,13 +14938,11 @@ orth	Trächtigkeit	deu
 foreign	gestation	fra	
 entry	Tragant	0	
 orth	Tragant	deu	
-foreign	gomme adragant	fra	
 entry	Träge	0	
 orth	Träge	deu	
 foreign	inerte	fra	
 entry	Trägermuskel	0	
 orth	Trägermuskel	deu	
-foreign	muscle qui s’insère à l’atlas	fra	
 entry	Trank	0	
 orth	Trank	deu	
 foreign	breuvage	fra	
@@ -15271,7 +14992,7 @@ entry	Trieb	0
 orth	Trieb	deu	
 foreign	molimen	fra	
 foreign	instinct	fra	
-foreign	impul­sion	fra	
+foreign	impulsion	fra	
 entry	Triefauge	0	
 orth	Triefauge	deu	
 foreign	épiphora	fra	
@@ -15292,7 +15013,6 @@ orth	Trommelbauch	deu
 foreign	météorisme	fra	
 entry	Trommelhöhle	0	
 orth	Trommelhöhle	deu	
-foreign	cavité du tympan	fra	
 foreign	caisse	fra	
 entry	Trompete	0	
 orth	Trompete	deu	
@@ -15305,7 +15025,6 @@ orth	Trompetenschlundkopf Muskel	deu
 foreign	muscle salpingo-pharyngien	fra	
 entry	Tropfbad	0	
 orth	Tropfbad	deu	
-foreign	douche descendante	fra	
 entry	Tropfen	0	
 orth	Tropfen	deu	
 foreign	goutte	fra	
@@ -15350,7 +15069,6 @@ foreign	gymnastique	fra
 entry	Uebelkeit	0	
 orth	Uebelkeit	deu	
 foreign	nausée	fra	
-foreign	mal de cœur	fra	
 entry	Ueberbein	0	
 orth	Ueberbein	deu	
 foreign	suros (vétér.)	fra	
@@ -15363,7 +15081,7 @@ orth	Uebergiessung	deu
 foreign	embrocation	fra	
 entry	Ueberkötkend	0	
 orth	Ueberkötkend	deu	
-foreign	j uché	fra	
+foreign	juché	fra	
 entry	Uebernähren	0	
 orth	Uebernähren	deu	
 foreign	hypertrophie	fra	
@@ -15382,21 +15100,21 @@ foreign	superfétation	fra
 entry	Ueberzahn	0	
 orth	Ueberzahn	deu	
 foreign	surdent	fra	
-entry	Ülme	0	
-orth	Ülme	deu	
+entry	Ulme	0	
+orth	Ulme	deu	
 foreign	orme	fra	
 entry	Umberfisch	0	
 orth	Umberfisch	deu	
 foreign	ombre	fra	
 entry	Umbildung	0	
 orth	Umbildung	deu	
-foreign	tran formation	fra	
+foreign	transformation	fra	
 entry	Umdreher	0	
 orth	Umdreher	deu	
-foreign	l’axis	fra	
+foreign	axis (l')	fra	
 entry	Umdrehung	0	
 orth	Umdrehung	deu	
-foreign	• rotation	fra	
+foreign	rotation	fra	
 entry	Umgestaltung	0	
 orth	Umgestaltung	deu	
 foreign	transformation	fra	
@@ -15426,7 +15144,7 @@ orth	Unbedeckt	deu
 foreign	nu	fra	
 entry	Unbenannt	0	
 orth	Unbenannt	deu	
-foreign	innommé	fra	
+foreign	innominé	fra	
 entry	Unbeständig	0	
 orth	Unbeständig	deu	
 foreign	instable	fra	
@@ -15445,8 +15163,8 @@ foreign	impénétrabilité	fra
 entry	Undurchsichtig	0	
 orth	Undurchsichtig	deu	
 foreign	opaque	fra	
-entry	Undurch· sichtigkeit	0	
-orth	Undurch· sichtigkeit	deu	
+entry	Undurchsichtigkeit	0	
+orth	Undurchsichtigkeit	deu	
 foreign	opacité	fra	
 entry	Unehelich	0	
 orth	Unehelich	deu	
@@ -15479,10 +15197,10 @@ orth	Ungedeihen	deu
 foreign	carreau	fra	
 entry	Ungenannt	0	
 orth	Ungenannt	deu	
-foreign	anonymer	fra	
+foreign	anonyme	fra	
 entry	Ungepaarte Blutader die	0	
 orth	Ungepaarte Blutader die	deu	
-foreign	la veine azygos	fra	
+foreign	veine azygos (la)	fra	
 entry	Ungesund	0	
 orth	Ungesund	deu	
 foreign	insalubre	fra	
@@ -15492,8 +15210,8 @@ foreign	inégal	fra
 entry	Ungegliedert	0	
 orth	Ungegliedert	deu	
 foreign	inarticulé	fra	
-entry	Un gezahnt	0	
-orth	Un gezahnt	deu	
+entry	Ungezahnt	0	
+orth	Ungezahnt	deu	
 foreign	indenté	fra	
 entry	Unheilbar	0	
 orth	Unheilbar	deu	
@@ -15522,8 +15240,8 @@ foreign	infusible	fra
 entry	Unschmerzhaft	0	
 orth	Unschmerzhaft	deu	
 foreign	indolent	fra	
-entry	Un verbrennlich	0	
-orth	Un verbrennlich	deu	
+entry	Unverbrennlich	0	
+orth	Unverbrennlich	deu	
 foreign	incombustible	fra	
 entry	Unverdaulich	0	
 orth	Unverdaulich	deu	
@@ -15548,25 +15266,22 @@ orth	Unzulänglichkeit	deu
 foreign	insuffisance	fra	
 entry	Unteraugenhöhlencanal	0	
 orth	Unteraugenhöhlencanal	deu	
-foreign	canal	fra	
+foreign	canal sous-orbitaire	fra	
 entry	Unteraugenhöhlenloch	0	
 orth	Unteraugenhöhlenloch	deu	
-foreign	trou	fra	
 entry	Unteraugenhöhlennerv	0	
 orth	Unteraugenhöhlennerv	deu	
-foreign	nerf	fra	
+foreign	nerf sous-orbitaire	fra	
 entry	Unteraugenhöhlenrinne	0	
 orth	Unteraugenhöhlenrinne	deu	
-foreign	gouttière sous-orbitaires	fra	
+foreign	gouttière sous-orbitaire	fra	
 entry	Unteraugenlid	0	
 orth	Unteraugenlid	deu	
-foreign	paupière inférieure	fra	
 entry	Unterbauch	0	
 orth	Unterbauch	deu	
 foreign	hypogastre	fra	
 entry	Unterkiefer	0	
 orth	Unterkiefer	deu	
-foreign	mâchoire inférieure	fra	
 entry	Unterleib	0	
 orth	Unterleib	deu	
 foreign	abdomen	fra	
@@ -15581,7 +15296,6 @@ orth	Unterzungendrüse	deu
 foreign	glande sublinguale	fra	
 entry	Unterbinden	0	
 orth	Unterbinden	deu	
-foreign	opération de la ligature d’un vaisseau	fra	
 entry	Unterbindung	0	
 orth	Unterbindung	deu	
 foreign	ligature	fra	
@@ -15599,7 +15313,6 @@ orth	Untersuchung	deu
 foreign	exploration	fra	
 entry	Uranlage	0	
 orth	Uranlage	deu	
-foreign	disposition innée	fra	
 pb	1763	1777	
 entry	Urbewohner	0	
 orth	Urbewohner	deu	
@@ -15625,7 +15338,7 @@ orth	Urtheil	deu
 foreign	jugement	fra	
 entry	Uterusinfarkt	0	
 orth	Uterusinfarkt	deu	
-foreign	mélremPhraxis	fra	
+foreign	métremphraxis	fra	
 entry	Vehikel	0	
 orth	Vehikel	deu	
 foreign	véhicule	fra	
@@ -15701,8 +15414,8 @@ foreign	condensation	fra
 entry	Verdickend	0	
 orth	Verdickend	deu	
 foreign	incrassant	fra	
-entry	Nevdrehung	0	
-orth	Nevdrehung	deu	
+entry	Verdrehung	0	
+orth	Verdrehung	deu	
 foreign	distorsion	fra	
 foreign	strabisme	fra	
 entry	Verdünnend	0	
@@ -15713,7 +15426,6 @@ orth	Verdünnung	deu
 foreign	dilution	fra	
 entry	Verdünnungsmittel	0	
 orth	Verdünnungsmittel	deu	
-foreign	moyen délayant	fra	
 entry	Verdünstung	0	
 orth	Verdünstung	deu	
 foreign	crapaudine	fra	
@@ -15733,7 +15445,7 @@ foreign	falsification	fra
 foreign	adultération	fra	
 entry	Verfärbung	0	
 orth	Verfärbung	deu	
-foreign	méta­chromatisme	fra	
+foreign	métachromatisme	fra	
 entry	Verflüchtigung	0	
 orth	Verflüchtigung	deu	
 foreign	volatilisation	fra	
@@ -15814,7 +15526,6 @@ orth	Verscharren	deu
 foreign	enfouir	fra	
 entry	Verschleimung	0	
 orth	Verschleimung	deu	
-foreign	état muqueux	fra	
 entry	Verschliessend	0	
 orth	Verschliessend	deu	
 foreign	obturateur	fra	
@@ -15825,7 +15536,7 @@ foreign	occlusion	fra
 entry	Verschlucken	0	
 orth	Verschlucken	deu	
 foreign	avaler	fra	
-foreign	de'glutition	fra	
+foreign	déglutition	fra	
 entry	Verschnitten	0	
 orth	Verschnitten	deu	
 foreign	châtré	fra	
@@ -15893,7 +15604,6 @@ orth	Verzinnen	deu
 foreign	étamer	fra	
 entry	Verdaulich	0	
 orth	Verdaulich	deu	
-foreign	facile à digérer	fra	
 entry	Verdauung	0	
 orth	Verdauung	deu	
 foreign	digestion	fra	
@@ -15908,7 +15618,6 @@ orth	Verdauungsprodukt	deu
 foreign	peptone	fra	
 entry	Verdauungswerkzeuge	0	
 orth	Verdauungswerkzeuge	deu	
-foreign	organes digestifs	fra	
 entry	Verderbniss	0	
 orth	Verderbniss	deu	
 foreign	perversion	fra	
@@ -15948,7 +15657,6 @@ orth	Versuch	deu
 foreign	essai	fra	
 entry	Vieharznei	0	
 orth	Vieharznei	deu	
-foreign	médecine vétérinaire	fra	
 entry	Viehfliege	0	
 orth	Viehfliege	deu	
 foreign	taon	fra	
@@ -15992,15 +15700,15 @@ orth	Vielstengelig	deu
 foreign	multicaule	fra	
 entry	Vieltheilig	0	
 orth	Vieltheilig	deu	
-foreign	multiparii	fra	
+foreign	multiparti	fra	
 entry	Vierblätterig	0	
 orth	Vierblätterig	deu	
 foreign	tétraphylle	fra	
-entry	Veireckig	0	
-orth	Veireckig	deu	
+entry	VeireckigViereckig	0	
+orth	Viereckig	deu	
 foreign	carré	fra	
 entry	Vierflügelig 	0	
-orth	Vierflügelig 	deu	
+orth	Vierflügelig	deu	
 foreign	tétraptère	fra	
 entry	Vierfüssig	0	
 orth	Vierfüssig	deu	
@@ -16013,7 +15721,6 @@ orth	Vierhänder	deu
 foreign	quadumane	fra	
 entry	Vierhügel	0	
 orth	Vierhügel	deu	
-foreign	tubercules quadrijumeaux	fra	
 entry	Vierkronenblätterig	0	
 orth	Vierkronenblätterig	deu	
 foreign	tétrapétale	fra	
@@ -16023,8 +15730,8 @@ foreign	tétradyname	fra
 entry	Viermännerig	0	
 orth	Viermännerig	deu	
 foreign	tétrandre	fra	
-entry	Viertäg iges Fieber	0	
-orth	Viertäg iges Fieber	deu	
+entry	Viertägiges Fieber	0	
+orth	Viertägiges Fieber	deu	
 foreign	fièvre quarte	fra	
 entry	Vierweiberig	0	
 orth	Vierweiberig	deu	
@@ -16126,12 +15833,14 @@ orth	Vorhaut	deu
 foreign	prépuce	fra	
 entry	Vorhautband	0	
 orth	Vorhautband	deu	
-foreign	frein du prépuce	fra	
+foreign	frein	fra	
 entry	Vorhautentzündung	0	
 orth	Vorhautentzündung	deu	
 foreign	posthite	fra	
 entry	Vorhof	0	
 orth	Vorhof	deu	
+foreign	vestibule	fra	
+foreign	oreillette	fra	
 entry	Vorkammer	0	
 orth	Vorkammer	deu	
 foreign	oreillette	fra	
@@ -16188,8 +15897,8 @@ foreign	favus	fra
 entry	Wachsröhrchen	0	
 orth	Wachsröhrchen	deu	
 foreign	bougie de cire	fra	
-entry	Wechssalbe	0	
-orth	Wechssalbe	deu	
+entry	Wachssalbe	0	
+orth	Wachssalbe	deu	
 foreign	cérat	fra	
 entry	Wachsthum	0	
 orth	Wachsthum	deu	
@@ -16203,27 +15912,26 @@ orth	Wadenbein	deu
 foreign	péroné	fra	
 entry	Wadenmuskel	0	
 orth	Wadenmuskel	deu	
-foreign	muscle péro nier	fra	
+foreign	muscle péronier	fra	
 pb	1764	1778	
 entry	Wägbar	0	
 orth	Wägbar	deu	
-foreign	Pondérable	fra	
+foreign	pondérable	fra	
 entry	Wage	0	
 orth	Wage	deu	
 foreign	balance	fra	
 entry	Wägen	0	
 orth	Wägen	deu	
-foreign	Pesaye	fra	
+foreign	pesage	fra	
 entry	Wahlverwandschaft	0	
 orth	Wahlverwandschaft	deu	
 foreign	affinité	fra	
 entry	Wahnsinn	0	
 orth	Wahnsinn	deu	
-foreign	aliénation mentale	fra	
 foreign	vésanie	fra	
 entry	Wahrnehmung	0	
 orth	Wahrnehmung	deu	
-foreign	Perception	fra	
+foreign	perception	fra	
 entry	Wahrsagen	0	
 orth	Wahrsagen	deu	
 foreign	sortilège	fra	
@@ -16244,20 +15952,18 @@ orth	Wallfisch	deu
 foreign	baleine	fra	
 entry	Wallrath	0	
 orth	Wallrath	deu	
-foreign	blanc de baleine	fra	
 foreign	spermaceti	fra	
 entry	Walzenförmig	0	
 orth	Walzenförmig	deu	
 foreign	cylindrique	fra	
 entry	Wand	0	
 orth	Wand	deu	
-foreign	Paroi	fra	
+foreign	paroi	fra	
 entry	Wandbein	0	
 orth	Wandbein	deu	
 foreign	os pariétal	fra	
 entry	Wanderflechte	0	
 orth	Wanderflechte	deu	
-foreign	dartre serpigineuse	fra	
 entry	Wandernd	0	
 orth	Wandernd	deu	
 foreign	serpigineux	fra	
@@ -16266,7 +15972,6 @@ orth	Wanderung	deu
 foreign	migration	fra	
 entry	Wange	0	
 orth	Wange	deu	
-foreign	région malaire	fra	
 foreign	joue	fra	
 entry	Wangenbein	0	
 orth	Wangenbein	deu	
@@ -16312,15 +16017,15 @@ orth	Warzenförmig	deu
 foreign	mamillaire	fra	
 entry	Warzenfortsatz	0	
 orth	Warzenfortsatz	deu	
+foreign	lobe de Spiegel	fra	
 entry	Warzengewebe	0	
 orth	Warzengewebe	deu	
-foreign	tissu papillaire	fra	
 entry	Warzenpocke	0	
 orth	Warzenpocke	deu	
 foreign	varicelle verruqueuse	fra	
-entry	Warzicht, warzig	0	
+entry	Warzicht, Warzig	0	
 orth	Warzicht	deu	
-orth	Warzig		
+orth	Warzig	deu	
 foreign	mamelonné	fra	
 foreign	verruqueux	fra	
 entry	Waschung	0	
@@ -16373,7 +16078,7 @@ entry	Wässerig	0
 orth	Wässerig	deu	
 foreign	aqueux	fra	
 foreign	séreux	fra	
-foreign	hydatdide	fra	
+foreign	hydatoïde	fra	
 entry	Wasserkopf	0	
 orth	Wasserkopf	deu	
 foreign	hydrocéphale	fra	
@@ -16438,7 +16143,8 @@ orth	Wechselfieber	deu
 foreign	fièvre intermittente	fra	
 entry	Wechselgelenk	0	
 orth	Wechselgelenk	deu	
-foreign	diarthrose alternative ou en charnière	fra	
+foreign	diarthrose alternative	fra	
+foreign	diarthrose en charnière	fra	
 entry	Weg	0	
 orth	Weg	deu	
 foreign	voie	fra	
@@ -16456,7 +16162,6 @@ orth	Wegwarte	deu
 foreign	chicorée	fra	
 entry	Wegweiser	0	
 orth	Wegweiser	deu	
-foreign	sonde cannelée	fra	
 foreign	gorgeret	fra	
 entry	Wegschaffung	0	
 orth	Wegschaffung	deu	
@@ -16470,7 +16175,6 @@ orth	Weh	deu
 foreign	mal	fra	
 entry	Wehe	0	
 orth	Wehe	deu	
-foreign	douleur de ^enfantement	fra	
 entry	Wehen	0	
 orth	Wehen	deu	
 foreign	travail	fra	
@@ -16490,7 +16194,6 @@ orth	Weibertripper	deu
 foreign	vaginite blennorrhagique	fra	
 entry	Weiberzeit	0	
 orth	Weiberzeit	deu	
-foreign	époque des règles	fra	
 entry	Weiblich	0	
 orth	Weiblich	deu	
 foreign	féminin	fra	
@@ -16530,16 +16233,15 @@ foreign	encens	fra
 foreign	oliban	fra	
 entry	Wein	0	
 orth	Wein	deu	
-foreign	mn	fra	
+foreign	vin	fra	
 entry	Weingeist	0	
 orth	Weingeist	deu	
 foreign	alcool	fra	
-entry	Wein geistseife	0	
-orth	Wein geistseife	deu	
+entry	Weingeistseife	0	
+orth	Weingeistseife	deu	
 foreign	saponule	fra	
 entry	Weinkrankheit	0	
 orth	Weinkrankheit	deu	
-foreign	colique du Poitou	fra	
 entry	Weinöl	0	
 orth	Weinöl	deu	
 foreign	œnéléon	fra	
@@ -16554,7 +16256,7 @@ orth	Weinrebe	deu
 foreign	vigne	fra	
 entry	Weinsäure	0	
 orth	Weinsäure	deu	
-foreign	acide taririque	fra	
+foreign	acide tartrique	fra	
 entry	Weinschwefelsäure	0	
 orth	Weinschwefelsäure	deu	
 foreign	acide sulfovinique	fra	
@@ -16563,7 +16265,7 @@ orth	Weinstein	deu
 foreign	tartre	fra	
 entry	Weinsteinsäure	0	
 orth	Weinsteinsäure	deu	
-foreign	acide tat trique	fra	
+foreign	acide tartrique	fra	
 entry	Weintraube	0	
 orth	Weintraube	deu	
 foreign	raisin	fra	
@@ -16582,7 +16284,7 @@ foreign	lèpre blanche	fra
 entry	Weisser Fluss	0	
 orth	Weisser Fluss	deu	
 foreign	flueurs	fra	
-foreign	leucor. rhée	fra	
+foreign	leucorrhée	fra	
 entry	Weissfisch	0	
 orth	Weissfisch	deu	
 foreign	merlan	fra	
@@ -16660,7 +16362,6 @@ orth	Wiederkehrend	deu
 foreign	récurrent	fra	
 entry	Wiederkehrzweig	0	
 orth	Wiederkehrzweig	deu	
-foreign	branche récurrente	fra	
 entry	Wiedervereinigung	0	
 orth	Wiedervereinigung	deu	
 foreign	réunion	fra	
@@ -16681,13 +16382,12 @@ orth	Wiesenkönigin	deu
 foreign	reine-des-prés	fra	
 entry	Wiesenknöterich	0	
 orth	Wiesenknöterich	deu	
-foreign	historié	fra	
+foreign	bistorte	fra	
 entry	Wille	0	
 orth	Wille	deu	
 foreign	volonté	fra	
 entry	Willenlosigkeit	0	
 orth	Willenlosigkeit	deu	
-foreign	manque de volonté	fra	
 entry	Willensäusserung	0	
 orth	Willensäusserung	deu	
 foreign	volition	fra	
@@ -16696,7 +16396,6 @@ orth	Wimper	deu
 foreign	cil	fra	
 entry	Wimperrand	0	
 orth	Wimperrand	deu	
-foreign	bord ciliaire	fra	
 entry	Wind	0	
 orth	Wind	deu	
 foreign	vent	fra	
@@ -16712,7 +16411,6 @@ foreign	physocèle	fra
 foreign	pneumatocèle	fra	
 entry	Windcolik	0	
 orth	Windcolik	deu	
-foreign	colique venteuse	fra	
 entry	Winddarm	0	
 orth	Winddarm	deu	
 foreign	côlon	fra	
@@ -16731,13 +16429,11 @@ orth	Windmesser	deu
 foreign	anémomètre	fra	
 entry	Windpocke	0	
 orth	Windpocke	deu	
-foreign	Petite vérole volante	fra	
 entry	Windpulver	0	
 orth	Windpulver	deu	
-foreign	poudre carminative	fra	
 entry	Windsucht	0	
 orth	Windsucht	deu	
-foreign	Pneumatose	fra	
+foreign	pneumatose	fra	
 entry	Winde	0	
 orth	Winde	deu	
 foreign	liseron	fra	
@@ -16752,7 +16448,6 @@ orth	Winkelgeschwulst	deu
 foreign	anchilops	fra	
 entry	Winkelnaht	0	
 orth	Winkelnaht	deu	
-foreign	suture lambddide	fra	
 entry	Winter	0	
 orth	Winter	deu	
 foreign	hiver	fra	
@@ -16772,7 +16467,7 @@ entry	Wirbel	0
 orth	Wirbel	deu	
 foreign	vertèbre	fra	
 foreign	vertex	fra	
-foreign	voriex	fra	
+foreign	vortex	fra	
 entry	Wirbelbeinband	0	
 orth	Wirbelbeinband	deu	
 foreign	ligament vertébral	fra	
@@ -16781,7 +16476,6 @@ orth	Wirbelentzündung	deu
 foreign	ostéite vertébrale	fra	
 entry	Wirbelgang	0	
 orth	Wirbelgang	deu	
-foreign	canal vertébral	fra	
 entry	Wirbelgelenk	0	
 orth	Wirbelgelenk	deu	
 foreign	articulation vertébrale	fra	
@@ -16796,7 +16490,7 @@ orth	Wirbelsäule	deu
 foreign	colonne vertébrale	fra	
 entry	Wirbelthiere	0	
 orth	Wirbelthiere	deu	
-foreign	animaux veriébr és	fra	
+foreign	animaux vertébrés	fra	
 pb	1765	1779	
 entry	Wirksam	0	
 orth	Wirksam	deu	
@@ -16864,13 +16558,12 @@ orth	Wolverlei	deu
 foreign	arnica	fra	
 entry	Wuchernd	0	
 orth	Wuchernd	deu	
-foreign	qui pullule	fra	
-entry	Wucherung. 	0	
-orth	Wucherung. 	deu	
+entry	Wucherung	0	
+orth	Wucherung	deu	
 foreign	végétations	fra	
-entry	Wulst der gerollte	0	
-orth	Wulst der gerollte	deu	
-foreign	la corne d’Ammon	fra	
+entry	Wulst, der gerollte	0	
+orth	Wulst, der gerollte	deu	
+foreign	corne d’Ammon (la)	fra	
 entry	Wundarzt	0	
 orth	Wundarzt	deu	
 foreign	chirurgien	fra	
@@ -16889,7 +16582,6 @@ orth	Wundsein	deu
 foreign	intertrigo	fra	
 entry	Wundernetz	0	
 orth	Wundernetz	deu	
-foreign	réseau admirable	fra	
 entry	Wurf	0	
 orth	Wurf	deu	
 foreign	portée	fra	
@@ -16908,7 +16600,6 @@ orth	Wurmabtreibend	deu
 foreign	helminthagogue	fra	
 entry	Wurmartige Bewegung	0	
 orth	Wurmartige Bewegung	deu	
-foreign	mouvement vermiculaire	fra	
 entry	Wurmerzeugung	0	
 orth	Wurmerzeugung	deu	
 foreign	vermination	fra	
@@ -16919,7 +16610,7 @@ foreign	vermiculaire	fra
 foreign	vermiforme	fra	
 entry	Wurmfortsatz	0	
 orth	Wurmfortsatz	deu	
-foreign	l’appendice vermiculaire du cæcum	fra	
+foreign	appendice vermiculaire (l')	fra	
 entry	Wurmgeschwür	0	
 orth	Wurmgeschwür	deu	
 foreign	bouton de farcin	fra	
@@ -16931,7 +16622,7 @@ orth	Wurmmittel	deu
 foreign	vermifuge	fra	
 entry	Wurmmuskeln	0	
 orth	Wurmmuskeln	deu	
-foreign	muscles lombric aux	fra	
+foreign	muscles lombricaux	fra	
 entry	Wurmtod	0	
 orth	Wurmtod	deu	
 foreign	absinthe	fra	
@@ -16983,7 +16674,6 @@ orth	Zahn	deu
 foreign	dent	fra	
 entry	Zahnarznei	0	
 orth	Zahnarznei	deu	
-foreign	médicament odontalgique	fra	
 entry	Zahnarzt	0	
 orth	Zahnarzt	deu	
 foreign	dentiste	fra	
@@ -17009,7 +16699,7 @@ orth	Zahnfach	deu
 foreign	alvéole dentaire	fra	
 entry	Zahnfäule	0	
 orth	Zahnfäule	deu	
-foreign	carie des dents	fra	
+foreign	carie	fra	
 entry	Zahnfieber	0	
 orth	Zahnfieber	deu	
 foreign	fièvre de dentition	fra	
@@ -17022,15 +16712,14 @@ foreign	parodontis	fra
 entry	Zahnfleischschwamm	0	
 orth	Zahnfleischschwamm	deu	
 foreign	épulide	fra	
-entry	Zahnformig	0	
-orth	Zahnformig	deu	
+entry	Zahnförmig	0	
+orth	Zahnförmig	deu	
 foreign	odontoïde	fra	
 entry	Zahnförmiger Fortsatz	0	
 orth	Zahnförmiger Fortsatz	deu	
 foreign	apophyse odontoïde	fra	
-entry	Zahn Muskel	0	
-orth	Zahn Muskel	deu	
-foreign	muscle dentelé	fra	
+entry	Zahnförmiger Muskel	0	
+orth	Zahnförmiger Muskel	deu	
 entry	Zahngeschwür	0	
 orth	Zahngeschwür	deu	
 foreign	parulie	fra	
@@ -17052,7 +16741,7 @@ foreign	germe d’une dent	fra
 foreign	bulbe dentaire	fra	
 entry	Zahnkröne	0	
 orth	Zahnkröne	deu	
-foreign	couronne d’une dent	fra	
+foreign	couronne	fra	
 entry	Zahnkunde	0	
 orth	Zahnkunde	deu	
 foreign	odontologie	fra	
@@ -17064,7 +16753,6 @@ orth	Zahnnerv	deu
 foreign	nerf dentaire	fra	
 entry	Zahnschmerz	0	
 orth	Zahnschmerz	deu	
-foreign	mal de dent	fra	
 entry	Zahnstrunck	0	
 orth	Zahnstrunck	deu	
 foreign	chicot	fra	
@@ -17088,7 +16776,6 @@ orth	Zäpflein	deu
 foreign	luette	fra	
 entry	Zapfenrand	0	
 orth	Zapfenrand	deu	
-foreign	bord de l’apophyse basilaire	fra	
 entry	Zapfentheil	0	
 orth	Zapfentheil	deu	
 foreign	apophyse basilaire	fra	
@@ -17112,8 +16799,6 @@ orth	Zehe	deu
 foreign	orteil	fra	
 entry	Zehenbeuger	0	
 orth	Zehenbeuger	deu	
-foreign	fié-	fra	
-foreign	chisseur des orteils	fra	
 entry	Zehenknochen	0	
 orth	Zehenknochen	deu	
 foreign	phalange	fra	
@@ -17138,7 +16823,7 @@ orth	Zeitigend	deu
 foreign	maturatif	fra	
 entry	Zeitlose	0	
 orth	Zeitlose	deu	
-foreign	coichique	fra	
+foreign	colchique	fra	
 entry	Zelle	0	
 orth	Zelle	deu	
 foreign	cellule	fra	
@@ -17147,13 +16832,11 @@ orth	Zellenfaser	deu
 foreign	fibre-cellule	fra	
 entry	Zellengewebe	0	
 orth	Zellengewebe	deu	
-foreign	tissu cellulaire	fra	
-entry	Zëllenkern	0	
-orth	Zëllenkern	deu	
+entry	Zellenkern	0	
+orth	Zellenkern	deu	
 foreign	cystoblaste	fra	
 entry	Zellenkörper	0	
 orth	Zellenkörper	deu	
-foreign	corps caverneux	fra	
 entry	Zerfetzt	0	
 orth	Zerfetzt	deu	
 foreign	déchiré	fra	
@@ -17186,12 +16869,11 @@ entry	Zerquetschung	0
 orth	Zerquetschung	deu	
 foreign	écrasement	fra	
 foreign	quassation	fra	
-foreign	plaie contuse	fra	
 entry	Zerreibbar	0	
 orth	Zerreibbar	deu	
 foreign	friable	fra	
-entry	Zerreib un g	0	
-orth	Zerreib un g	deu	
+entry	Zerreibung	0	
+orth	Zerreibung	deu	
 foreign	lévigation	fra	
 foreign	porphyrisation	fra	
 entry	Zerreissung	0	
@@ -17207,7 +16889,6 @@ orth	Zersetzung	deu
 foreign	décomposition	fra	
 entry	Zersplittern	0	
 orth	Zersplittern	deu	
-foreign	fracture comminutîve	fra	
 entry	Zerstossen	0	
 orth	Zerstossen	deu	
 foreign	concasser	fra	
@@ -17233,12 +16914,11 @@ orth	Zeugung	deu
 foreign	génération	fra	
 entry	Zeugungsglieder	0	
 orth	Zeugungsglieder	deu	
-foreign	parties de la génération	fra	
 entry	Zeugungsvermögen	0	
 orth	Zeugungsvermögen	deu	
 foreign	productivité	fra	
-entry	Ziehel	0	
-orth	Ziehel	deu	
+entry	Ziebel	0	
+orth	Ziebel	deu	
 foreign	civette	fra	
 entry	Ziege	0	
 orth	Ziege	deu	
@@ -17251,7 +16931,6 @@ orth	Ziegenstimme	deu
 foreign	égophonie	fra	
 entry	Ziehkraft	0	
 orth	Ziehkraft	deu	
-foreign	vertu épipastique	fra	
 entry	Zimmt	0	
 orth	Zimmt	deu	
 foreign	cannelle	fra	
@@ -17269,7 +16948,7 @@ orth	Zinnsäure	deu
 foreign	acide stannique	fra	
 entry	Zinnverbindung	0	
 orth	Zinnverbindung	deu	
-foreign	Stannate	fra	
+foreign	stannate	fra	
 entry	Zinnober	0	
 orth	Zinnober	deu	
 foreign	cinabre	fra	
@@ -17285,13 +16964,12 @@ orth	Zirkel	deu
 foreign	cercle	fra	
 entry	Zirkelbinde	0	
 orth	Zirkelbinde	deu	
-foreign	bandage circulaire	fra	
 entry	Zischend	0	
 orth	Zischend	deu	
 foreign	sibilant	fra	
 foreign	striduleux	fra	
-entry	Zitrcnenbaum	0	
-orth	Zitrcnenbaum	deu	
+entry	Zitronenbaum	0	
+orth	Zitronenbaum	deu	
 foreign	limonier	fra	
 entry	Zittern	0	
 orth	Zittern	deu	
@@ -17311,13 +16989,12 @@ orth	Zitzenförmig	deu
 foreign	mamelonné	fra	
 entry	Zitzenfortsatz	0	
 orth	Zitzenfortsatz	deu	
-foreign	apophyse mastoïde de l’os temporal	fra	
+foreign	apophyse mastoïde	fra	
 entry	Zitzennaht	0	
 orth	Zitzennaht	deu	
 foreign	suture mastoïdienne	fra	
 entry	Zoochemischer Process	0	
 orth	Zoochemischer Process	deu	
-foreign	phénomènes zoochimiques	fra	
 entry	Zopf	0	
 orth	Zopf	deu	
 foreign	plique	fra	
@@ -17332,7 +17009,7 @@ orth	Zottig	deu
 foreign	villeux	fra	
 entry	Zuchtstute	0	
 orth	Zuchtstute	deu	
-foreign	Poulinière	fra	
+foreign	poulinière	fra	
 entry	Zucker	0	
 orth	Zucker	deu	
 foreign	sucre	fra	
@@ -17348,16 +17025,15 @@ orth	Zuckerbranntwein	deu
 foreign	tafia	fra	
 entry	Zuckerhaltig	0	
 orth	Zuckerhaltig	deu	
-foreign	Saccharin	fra	
+foreign	saccharin	fra	
 entry	Zuckerharnen	0	
 orth	Zuckerharnen	deu	
 foreign	glycosurie	fra	
 entry	Zuckerharnruhr	0	
 orth	Zuckerharnruhr	deu	
-foreign	diabète sucré	fra	
 entry	Zuckerrübe	0	
 orth	Zuckerrübe	deu	
-foreign	cherri	fra	
+foreign	chervi	fra	
 entry	Zuckersyrup	0	
 orth	Zuckersyrup	deu	
 foreign	mélasse	fra	
@@ -17388,7 +17064,6 @@ orth	Zugpferd	deu
 foreign	chevaux de trait	fra	
 entry	Zugpflaster	0	
 orth	Zugpflaster	deu	
-foreign	emplâtre épipastique	fra	
 foreign	vésicatoire	fra	
 entry	Zündschwamm	0	
 orth	Zündschwamm	deu	
@@ -17407,8 +17082,8 @@ pb	1766	1780
 entry	Zungenbein	0	
 orth	Zungenbein	deu	
 foreign	os hyoïde	fra	
-entry	Zungen blätter	0	
-orth	Zungen blätter	deu	
+entry	ZungenblatterZungenblätter	0	
+orth	Zungenblätter	deu	
 foreign	glossanthrax	fra	
 entry	Zungenbruch	0	
 orth	Zungenbruch	deu	
@@ -17436,19 +17111,17 @@ orth	Zungenkarbunkel	deu
 foreign	glossanthrax	fra	
 entry	Zungenkehldeckelband	0	
 orth	Zungenkehldeckelband	deu	
-foreign	repli glosso-épiglottique	fra	
 entry	Zungenkrebs	0	
 orth	Zungenkrebs	deu	
 foreign	cancer de la langue	fra	
 entry	Zungenloch	0	
 orth	Zungenloch	deu	
-foreign	trou borgne de la langue	fra	
 entry	Zungenbeleg	0	
 orth	Zungenbeleg	deu	
 foreign	fuliginosité	fra	
 foreign	fuligo	fra	
 entry	Zungenmuskel 	0	
-orth	Zungenmuskel 	deu	
+orth	Zungenmuskel	deu	
 foreign	muscle lingual	fra	
 entry	Zungennaht	0	
 orth	Zungennaht	deu	
@@ -17461,12 +17134,13 @@ orth	Zungenspitze	deu
 foreign	proglossis	fra	
 entry	Zungenvorfall	0	
 orth	Zungenvorfall	deu	
+foreign	glossocèle	fra	
+foreign	macroglosse	fra	
 entry	Zungenwarzen 	0	
-orth	Zungenwarzen 	deu	
+orth	Zungenwarzen	deu	
 foreign	papilles de la langue	fra	
 entry	Zungenwurzel	0	
 orth	Zungenwurzel	deu	
-foreign	base de la langue	fra	
 entry	Zungenzäpfchenmuskel	0	
 orth	Zungenzäpfchenmuskel	deu	
 foreign	muscle glosso-staphylin	fra	
@@ -17519,8 +17193,8 @@ foreign	trismus	fra
 entry	Zusammendrehen	0	
 orth	Zusammendrehen	deu	
 foreign	torsion	fra	
-entry	Zusammen drücker	0	
-orth	Zusammen drücker	deu	
+entry	Zusammendrücker	0	
+orth	Zusammendrücker	deu	
 foreign	muscle compresseur	fra	
 entry	Zusammendrückung	0	
 orth	Zusammendrückung	deu	
@@ -17545,7 +17219,7 @@ entry	Zusammenmündung	0
 orth	Zusammenmündung	deu	
 foreign	anastomose	fra	
 entry	Zusammenschnürung 	0	
-orth	Zusammenschnürung 	deu	
+orth	Zusammenschnürung	deu	
 foreign	constriction	fra	
 entry	Zusammensetzung	0	
 orth	Zusammensetzung	deu	
@@ -17568,7 +17242,6 @@ orth	Zwang	deu
 foreign	ténesme	fra	
 entry	Zwangsjacke	0	
 orth	Zwangsjacke	deu	
-foreign	camisole de force	fra	
 entry	Zweiflügelig	0	
 orth	Zweiflügelig	deu	
 foreign	diptère	fra	
@@ -17587,8 +17260,8 @@ foreign	dichotome	fra
 entry	Zweiwuchs	0	
 orth	Zweiwuchs	deu	
 foreign	rachitisme	fra	
-entry	Zweiwüclisig	0	
-orth	Zweiwüclisig	deu	
+entry	Zweiwüchsig	0	
+orth	Zweiwüchsig	deu	
 foreign	rachitique	fra	
 entry	Zweig	0	
 orth	Zweig	deu	
@@ -17598,13 +17271,13 @@ foreign	embranchement	fra
 entry	Zwerchfell	0	
 orth	Zwerchfell	deu	
 foreign	diaphragme	fra	
-entry	Zwerehfellbruch	0	
-orth	Zwerehfellbruch	deu	
+entry	Zwerchfellbruch	0	
+orth	Zwerchfellbruch	deu	
 foreign	diaphragmatocèle	fra	
 entry	Zwerchfellentzündung	0	
 orth	Zwerchfellentzündung	deu	
 foreign	phrénite	fra	
-foreign	diaphragmante	fra	
+foreign	diaphragmatite	fra	
 entry	Zwerg	0	
 orth	Zwerg	deu	
 foreign	nain	fra	
@@ -17629,29 +17302,23 @@ orth	Zwilling	deu
 foreign	jumeau	fra	
 entry	Zwischenband	0	
 orth	Zwischenband	deu	
-foreign	ligament interosseux	fra	
 entry	Zwischenwirbelbänder	0	
 orth	Zwischenwirbelbänder	deu	
-foreign	fibrocarülages intervertébraux	fra	
 entry	Zwischenknochen	0	
 orth	Zwischenknochen	deu	
 foreign	os wormien	fra	
 entry	Zwischenmuskel	0	
 orth	Zwischenmuskel	deu	
-foreign	muscle interosseux	fra	
 entry	Zwischenquermuskeln	0	
 orth	Zwischenquermuskeln	deu	
-foreign	muscles inter­transversaires de l’épine	fra	
 entry	Zwischenraum	0	
 orth	Zwischenraum	deu	
 foreign	interstice	fra	
 foreign	vacuole	fra	
 entry	Zwischenrippenmuskeln	0	
 orth	Zwischenrippenmuskeln	deu	
-foreign	muscles intercostaux	fra	
 entry	Zwischenstachelmuskeln	0	
 orth	Zwischenstachelmuskeln	deu	
-foreign	muscles interépineux	fra	
 entry	Zwitter	0	
 orth	Zwitter	deu	
 foreign	hybride	fra	
@@ -17662,7 +17329,7 @@ foreign	hermaphrodisme	fra
 foreign	hybridation	fra	
 entry	Zwitterwesen	0	
 orth	Zwitterwesen	deu	
-foreign	hybridtté	fra	
+foreign	hybridité	fra	
 entry	Zwölffingerdarm	0	
 orth	Zwölffingerdarm	deu	
 foreign	duodénum	fra	

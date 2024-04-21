@@ -19,15 +19,14 @@ foreign	abortif	fra
 entry	Abscess	0	
 orth	Abscess	eng	
 foreign	abcès	fra	
-entry	Absinthie acid	0	
-orth	Absinthie acid	eng	
-foreign	acide absinlhique	fra	
+entry	Absinthic acid	0	
+orth	Absinthic acid	eng	
+foreign	acide absinthique	fra	
 entry	Absorbent	0	
 orth	Absorbent	eng	
 foreign	absorbant	fra	
-entry	Abçorptivity	0	
-orth	Abçorptivity	eng	
-foreign	pouvoir d’absorber	fra	
+entry	Absorptivity	0	
+orth	Absorptivity	eng	
 entry	Abstemious	0	
 orth	Abstemious	eng	
 foreign	abstème	fra	
@@ -54,7 +53,7 @@ orth	Acidity	eng
 foreign	acidité	fra	
 entry	Acidulous	0	
 orth	Acidulous	eng	
-foreign	acidule	fra	
+foreign	acidulé	fra	
 entry	Acology	0	
 orth	Acology	eng	
 foreign	acologie	fra	
@@ -66,19 +65,17 @@ orth	Acoustic	eng
 foreign	acoustique	fra	
 entry	Acoustics	0	
 orth	Acoustics	eng	
-foreign	l’acoustique	fra	
+foreign	acoustique (l')	fra	
 entry	Acquired diseases	0	
 orth	Acquired diseases	eng	
 foreign	maladies acquises	fra	
 entry	Acrid	0	
 orth	Acrid	eng	
-foreign	qui a un goût piquant et âcre	fra	
 entry	Active	0	
 orth	Active	eng	
 foreign	actif	fra	
 entry	Acuition	0	
 orth	Acuition	eng	
-foreign	action d’aiguiser une liqueur	fra	
 entry	Acute	0	
 orth	Acute	eng	
 foreign	aigu	fra	
@@ -100,9 +97,9 @@ foreign	adulte	fra
 entry	Adventitious	0	
 orth	Adventitious	eng	
 foreign	adventice	fra	
-entry	Adynamie	0	
-orth	Adynamie	eng	
-foreign	a dynamique	fra	
+entry	Adynamic	0	
+orth	Adynamic	eng	
+foreign	adynamique	fra	
 entry	Ægophony	0	
 orth	Ægophony	eng	
 foreign	égophonie	fra	
@@ -126,12 +123,10 @@ orth	Agony	eng
 foreign	agonie	fra	
 entry	Ague	0	
 orth	Ague	eng	
-foreign	fièvre intermittente	fra	
 entry	Ague cake 	0	
-orth	Ague cake 	eng	
+orth	Ague cake	eng	
 entry	Ague (dead)	0	
 orth	Ague (dead)	eng	
-foreign	fièvre larvée	fra	
 entry	Air-passages	0	
 orth	Air-passages	eng	
 foreign	voies aériennes	fra	
@@ -151,8 +146,8 @@ entry	Alkalinity	0
 orth	Alkalinity	eng	
 foreign	alcalinité	fra	
 entry	Allantoid membrane 	0	
-orth	Allantoid membrane 	eng	
-foreign	l’allantoïde	fra	
+orth	Allantoid membrane	eng	
+foreign	allantoïde (l')	fra	
 entry	Allopathy	0	
 orth	Allopathy	eng	
 foreign	allopathie	fra	
@@ -161,10 +156,10 @@ orth	Almond	eng
 foreign	amande	fra	
 entry	Almonds of the ear	0	
 orth	Almonds of the ear	eng	
-foreign	les parotides	fra	
+foreign	parotides (les)	fra	
 entry	Almonds of the throat	0	
 orth	Almonds of the throat	eng	
-foreign	les amygdales	fra	
+foreign	amygdales (les)	fra	
 entry	Aloetic	0	
 orth	Aloetic	eng	
 foreign	aloétique	fra	
@@ -198,8 +193,8 @@ foreign	amylacé	fra
 entry	Analeptic	0	
 orth	Analeptic	eng	
 foreign	analeptique	fra	
-entry	Anatqmy	0	
-orth	Anatqmy	eng	
+entry	Anatomy	0	
+orth	Anatomy	eng	
 foreign	anatomie	fra	
 entry	Aneurism	0	
 orth	Aneurism	eng	
@@ -242,7 +237,6 @@ orth	Anthropogeny	eng
 foreign	anthropogénie	fra	
 entry	Anthypnotic	0	
 orth	Anthypnotic	eng	
-foreign	qui chasse le sommeil	fra	
 entry	Anthysteric	0	
 orth	Anthysteric	eng	
 foreign	antihystérique	fra	
@@ -258,8 +252,8 @@ foreign	antipathie	fra
 entry	Antiphlogistic	0	
 orth	Antiphlogistic	eng	
 foreign	antiphlogistique	fra	
-entry	Antiseptie	0	
-orth	Antiseptie	eng	
+entry	Antiseptic	0	
+orth	Antiseptic	eng	
 foreign	antiseptique	fra	
 entry	Antispasmodic	0	
 orth	Antispasmodic	eng	
@@ -296,7 +290,7 @@ orth	Apyretic	eng
 foreign	apyrétique	fra	
 entry	Aqueous humour	0	
 orth	Aqueous humour	eng	
-foreign	humeur aqueux	fra	
+foreign	humeur aqueuse	fra	
 entry	Arachnoid	0	
 orth	Arachnoid	eng	
 foreign	arachnoïde	fra	
@@ -324,8 +318,8 @@ foreign	artériotomie	fra
 entry	Artery	0	
 orth	Artery	eng	
 foreign	artère	fra	
-entry	Artieular	0	
-orth	Artieular	eng	
+entry	Articular	0	
+orth	Articular	eng	
 foreign	articulaire	fra	
 entry	Ascending	0	
 orth	Ascending	eng	
@@ -333,14 +327,14 @@ foreign	montant	fra
 entry	Associated	0	
 orth	Associated	eng	
 foreign	associé	fra	
-entry	Asthenie	0	
-orth	Asthenie	eng	
+entry	Asthenic	0	
+orth	Asthenic	eng	
 foreign	asthénique	fra	
 entry	Atavism	0	
 orth	Atavism	eng	
 foreign	atavisme	fra	
-entry	Ataxie	0	
-orth	Ataxie	eng	
+entry	Ataxic	0	
+orth	Ataxic	eng	
 foreign	ataxique	fra	
 entry	Athletic	0	
 orth	Athletic	eng	
@@ -348,8 +342,8 @@ foreign	athlétique	fra
 entry	Atom	0	
 orth	Atom	eng	
 foreign	atome	fra	
-entry	Atonie	0	
-orth	Atonie	eng	
+entry	Atonic	0	
+orth	Atonic	eng	
 foreign	atonique	fra	
 entry	Atony	0	
 orth	Atony	eng	
@@ -380,163 +374,15 @@ orth	Autumnal fever	eng
 entry	Auxiliary	0	
 orth	Auxiliary	eng	
 foreign	auxiliaire	fra	
-entry	Axillar y	0	
-orth	Axillar y	eng	
+entry	Axillary	0	
+orth	Axillary	eng	
 foreign	axillaire	fra	
-entry	Brain	0	
-orth	Brain	eng	
-foreign	cerveau	fra	
-entry	Brandy	0	
-orth	Brandy	eng	
-foreign	eau-de-vie	fra	
-entry	Brass	0	
-orth	Brass	eng	
-foreign	cuivre	fra	
-entry	Brcast	0	
-orth	Brcast	eng	
-foreign	poitrine	fra	
-foreign	mamelle	fra	
-entry	Breast glass	0	
-orth	Breast glass	eng	
-entry	Breath	0	
-orth	Breath	eng	
-foreign	haleine	fra	
-entry	Bright’s disease	0	
-orth	Bright’s disease	eng	
-foreign	maladie de Bright	fra	
-entry	Bronchophony	0	
-orth	Bronchophony	eng	
-foreign	bronchophonie	fra	
-entry	Brownian System 	0	
-orth	Brownian System 	eng	
-foreign	système de Brown	fra	
-entry	Buffy coat	0	
-orth	Buffy coat	eng	
-foreign	couenne inflammatoire	fra	
-entry	Bulb	0	
-orth	Bulb	eng	
-foreign	bulbe	fra	
-entry	Bundle	0	
-orth	Bundle	eng	
-foreign	faisceau	fra	
-entry	Burn	0	
-orth	Burn	eng	
-foreign	brûlure	fra	
-entry	Butter	0	
-orth	Butter	eng	
-foreign	beurre	fra	
-entry	Butter-milk	0	
-orth	Butter-milk	eng	
-foreign	lait de beurre	fra	
-entry	Butyric acid	0	
-orth	Butyric acid	eng	
-foreign	acide butyrique	fra	
-entry	Cabbage	0	
-orth	Cabbage	eng	
-foreign	chou	fra	
-entry	Cachinnation	0	
-orth	Cachinnation	eng	
-foreign	rire immodéré	fra	
-entry	Cæsarian operation	0	
-orth	Cæsarian operation	eng	
-foreign	opération césarienne	fra	
-entry	Caffein	0	
-orth	Caffein	eng	
-foreign	caféine	fra	
-entry	Calcarate	0	
-orth	Calcarate	eng	
-foreign	armé d’un éperon	fra	
-entry	Calcareous	0	
-orth	Calcareous	eng	
-foreign	calcaire	fra	
-entry	Calcigerous	0	
-orth	Calcigerous	eng	
-foreign	contenant des matières calcaires	fra	
-entry	Calefacient	0	
-orth	Calefacient	eng	
-foreign	échauffant	fra	
-entry	Callosity	0	
-orth	Callosity	eng	
-foreign	callosité	fra	
-entry	Callous	0	
-orth	Callous	eng	
-foreign	calleux	fra	
-entry	Calmet	0	
-orth	Calmet	eng	
-foreign	antimoine	fra	
-entry	Calorie	0	
-orth	Calorie	eng	
-foreign	calorique	fra	
-entry	Camphor	0	
-orth	Camphor	eng	
-foreign	camphre	fra	
-entry	Cancroid	0	
-orth	Cancroid	eng	
-foreign	cancroide	fra	
-entry	Cannon bone	0	
-orth	Cannon bone	eng	
-foreign	le canon chez le cheval	fra	
-entry	Capillary	0	
-orth	Capillary	eng	
-foreign	capillaire	fra	
-entry	Capsular	0	
-orth	Capsular	eng	
-foreign	capsulaire	fra	
-entry	Capsule ofClisson	0	
-orth	Capsule ofClisson	eng	
-foreign	capsule de Glisson	fra	
-entry	Carbon	0	
-orth	Carbon	eng	
-foreign	carbone	fra	
-entry	Carbonic acid	0	
-orth	Carbonic acid	eng	
-foreign	acide carbonique	fra	
-entry	Carbuncle	0	
-orth	Carbuncle	eng	
-foreign	anthrax	fra	
-entry	Carbuncular exanthem	0	
-orth	Carbuncular exanthem	eng	
-foreign	exanthème charbonneux	fra	
-entry	Carburet	0	
-orth	Carburet	eng	
-foreign	carbure	fra	
-entry	Cardiac	0	
-orth	Cardiac	eng	
-foreign	cardiaque	fra	
-entry	Cardinal humors	0	
-orth	Cardinal humors	eng	
-entry	Carious	0	
-orth	Carious	eng	
-foreign	affecté de carie	fra	
-entry	Carminative	0	
-orth	Carminative	eng	
-foreign	carminatif	fra	
-entry	Carneous	0	
-orth	Carneous	eng	
-foreign	charnu	fra	
-entry	Carotid	0	
-orth	Carotid	eng	
-foreign	carotide	fra	
-entry	Carpel	0	
-orth	Carpel	eng	
-foreign	carpelle	fra	
-entry	Carpopedal spasm	0	
-orth	Carpopedal spasm	eng	
-entry	Cartilaginous	0	
-orth	Cartilaginous	eng	
-foreign	carlilagineux	fra	
-entry	Cataleptic	0	
-orth	Cataleptic	eng	
-foreign	cataleptique	fra	
-entry	Catalysis	0	
-orth	Catalysis	eng	
-foreign	catalyse	fra	
 pb	1768	1782	
 entry	Axunge	0	
 orth	Axunge	eng	
 foreign	axonge	fra	
-entry	Azolic acid	0	
-orth	Azolic acid	eng	
+entry	Azotic acid	0	
+orth	Azotic acid	eng	
 foreign	acide azotique	fra	
 entry	Azotized bodies	0	
 orth	Azotized bodies	eng	
@@ -555,10 +401,9 @@ orth	Balsamic	eng
 foreign	balsamique	fra	
 entry	Bandy leg	0	
 orth	Bandy leg	eng	
-foreign	jambecourbée endehors	fra	
 entry	Barbadoc’s leg	0	
 orth	Barbadoc’s leg	eng	
-foreign	éléphantiasis des Arabes	fra	
+foreign	éléphantiasis	fra	
 entry	Bark	0	
 orth	Bark	eng	
 foreign	écorce	fra	
@@ -570,7 +415,6 @@ orth	Barometer	eng
 foreign	baromètre	fra	
 entry	Bastard pleurisy	0	
 orth	Bastard pleurisy	eng	
-foreign	fausse pleurésie	fra	
 entry	Bath	0	
 orth	Bath	eng	
 foreign	bain	fra	
@@ -595,12 +439,12 @@ foreign	stupéfiants	fra
 entry	Benzoic acid	0	
 orth	Benzoic acid	eng	
 foreign	acide benzoïque	fra	
-entry	Bicuspid, bicuspidale	0	
+entry	Bicuspid, Bicuspidate	0	
 orth	Bicuspid	eng	
-orth	Bicuspidale		
+orth	Bicuspidate	eng	
 foreign	bicuspide	fra	
-entry	Bieslings	0	
-orth	Bieslings	eng	
+entry	Biestings	0	
+orth	Biestings	eng	
 foreign	colostrum	fra	
 entry	Bile	0	
 orth	Bile	eng	
@@ -634,10 +478,8 @@ orth	Biventer	eng
 foreign	digastrique	fra	
 entry	Black draught	0	
 orth	Black draught	eng	
-foreign	infusion an séné avec des sels	fra	
 entry	Black tongue 	0	
-orth	Black tongue 	eng	
-foreign	affection typhoïde épidémique	fra	
+orth	Black tongue	eng	
 entry	Black vomit	0	
 orth	Black vomit	eng	
 foreign	fièvre jaune	fra	
@@ -661,7 +503,6 @@ orth	Bleb	eng
 foreign	ampoule	fra	
 entry	Bleeding	0	
 orth	Bleeding	eng	
-foreign	perte de sang	fra	
 foreign	saignée	fra	
 entry	Blindness	0	
 orth	Blindness	eng	
@@ -669,15 +510,14 @@ foreign	cécité	fra
 entry	Blister	0	
 orth	Blister	eng	
 foreign	vésicatoire	fra	
-entry	Blisler-fly	0	
-orth	Blisler-fly	eng	
+entry	Blister-fly	0	
+orth	Blister-fly	eng	
 foreign	cantharide	fra	
 entry	Blood	0	
 orth	Blood	eng	
 foreign	sang	fra	
 entry	Blood-letting	0	
 orth	Blood-letting	eng	
-foreign	émission sanguine	fra	
 entry	Blood-shot	0	
 orth	Blood-shot	eng	
 entry	Blotch	0	
@@ -691,7 +531,6 @@ orth	Body	eng
 foreign	corps	fra	
 entry	Body (coming down of)	0	
 orth	Body (coming down of)	eng	
-foreign	chute du rectum	fra	
 entry	Boil	0	
 orth	Boil	eng	
 foreign	furoncle	fra	
@@ -707,8 +546,151 @@ foreign	botanique	fra
 entry	Bract	0	
 orth	Bract	eng	
 foreign	bractée	fra	
-entry	Ca tara et	0	
-orth	Ca tara et	eng	
+entry	Brain	0	
+orth	Brain	eng	
+foreign	cerveau	fra	
+entry	Brandy	0	
+orth	Brandy	eng	
+foreign	eau-de-vie	fra	
+entry	Brass	0	
+orth	Brass	eng	
+foreign	cuivre	fra	
+entry	Breast	0	
+orth	Breast	eng	
+foreign	poitrine	fra	
+foreign	mamelle	fra	
+entry	Breast glass	0	
+orth	Breast glass	eng	
+entry	Breath	0	
+orth	Breath	eng	
+foreign	haleine	fra	
+entry	Bright’s disease	0	
+orth	Bright’s disease	eng	
+foreign	maladie de Bright	fra	
+entry	Bronchophony	0	
+orth	Bronchophony	eng	
+foreign	bronchophonie	fra	
+entry	Brownian System 	0	
+orth	Brownian System	eng	
+foreign	système de Brown	fra	
+entry	Buffy coat	0	
+orth	Buffy coat	eng	
+entry	Bulb	0	
+orth	Bulb	eng	
+foreign	bulbe	fra	
+entry	Bundle	0	
+orth	Bundle	eng	
+foreign	faisceau	fra	
+entry	Burn	0	
+orth	Burn	eng	
+foreign	brûlure	fra	
+entry	Butter	0	
+orth	Butter	eng	
+foreign	beurre	fra	
+entry	Butter-milk	0	
+orth	Butter-milk	eng	
+foreign	lait de beurre	fra	
+entry	Butyric acid	0	
+orth	Butyric acid	eng	
+foreign	acide butyrique	fra	
+entry	Cabbage	0	
+orth	Cabbage	eng	
+foreign	chou	fra	
+entry	Cachinnation	0	
+orth	Cachinnation	eng	
+entry	Cæsarian operation	0	
+orth	Cæsarian operation	eng	
+foreign	opération césarienne	fra	
+entry	Caffein	0	
+orth	Caffein	eng	
+foreign	caféine	fra	
+entry	Calcarate	0	
+orth	Calcarate	eng	
+entry	Calcareous	0	
+orth	Calcareous	eng	
+foreign	calcaire	fra	
+entry	Calcigerous	0	
+orth	Calcigerous	eng	
+entry	Calefacient	0	
+orth	Calefacient	eng	
+foreign	échauffant	fra	
+entry	Callosity	0	
+orth	Callosity	eng	
+foreign	callosité	fra	
+entry	Callous	0	
+orth	Callous	eng	
+foreign	calleux	fra	
+entry	Calmet	0	
+orth	Calmet	eng	
+foreign	antimoine	fra	
+entry	Caloric	0	
+orth	Caloric	eng	
+foreign	calorique	fra	
+entry	Camphor	0	
+orth	Camphor	eng	
+foreign	camphre	fra	
+entry	Cancroid	0	
+orth	Cancroid	eng	
+foreign	cancroïde	fra	
+entry	Cannon bone	0	
+orth	Cannon bone	eng	
+foreign	canon (le)	fra	
+entry	Capillary	0	
+orth	Capillary	eng	
+foreign	capillaire	fra	
+entry	Capsular	0	
+orth	Capsular	eng	
+foreign	capsulaire	fra	
+entry	Capsule of Glisson	0	
+orth	Capsule of Glisson	eng	
+foreign	capsule de Glisson	fra	
+entry	Carbon	0	
+orth	Carbon	eng	
+foreign	carbone	fra	
+entry	Carbonic acid	0	
+orth	Carbonic acid	eng	
+foreign	acide carbonique	fra	
+entry	Carbuncle	0	
+orth	Carbuncle	eng	
+foreign	anthrax	fra	
+entry	Carbuncular exanthem	0	
+orth	Carbuncular exanthem	eng	
+foreign	exanthème charbonneux	fra	
+entry	Carburet	0	
+orth	Carburet	eng	
+foreign	carbure	fra	
+entry	Cardiac	0	
+orth	Cardiac	eng	
+foreign	cardiaque	fra	
+entry	Cardinal humors	0	
+orth	Cardinal humors	eng	
+entry	Carious	0	
+orth	Carious	eng	
+entry	Carminative	0	
+orth	Carminative	eng	
+foreign	carminatif	fra	
+entry	Carneous	0	
+orth	Carneous	eng	
+foreign	charnu	fra	
+entry	Carotid	0	
+orth	Carotid	eng	
+foreign	carotide	fra	
+entry	Carpel	0	
+orth	Carpel	eng	
+foreign	carpelle	fra	
+entry	Carpopedal spasm	0	
+orth	Carpopedal spasm	eng	
+entry	Cartilaginous	0	
+orth	Cartilaginous	eng	
+foreign	cartilagineux	fra	
+entry	Cataleptic	0	
+orth	Cataleptic	eng	
+foreign	cataleptique	fra	
+entry	Catalysis	0	
+orth	Catalysis	eng	
+foreign	catalyse	fra	
+entry	Cataract	0	
+orth	Cataract	eng	
 foreign	cataracte	fra	
 entry	Catarrh	0	
 orth	Catarrh	eng	
@@ -718,19 +700,19 @@ orth	Cathartic	eng
 foreign	cathartique	fra	
 entry	Catling	0	
 orth	Catling	eng	
-foreign	couteau à amputation	fra	
 entry	Catoptric	0	
 orth	Catoptric	eng	
 foreign	catoptrique	fra	
 entry	Catoptrics	0	
 orth	Catoptrics	eng	
-foreign	la catoptrique	fra	
+foreign	catoptrique (la)	fra	
 entry	Caul	0	
 orth	Caul	eng	
-foreign	l’épiploon	fra	
-entry	Caulillowerexcrescence	0	
-orth	Caulillowerexcrescence	eng	
-foreign	chou-fleur^ ' condy lome	fra	
+foreign	épiploon (l')	fra	
+entry	Cauliflower excrescence	0	
+orth	Cauliflower excrescence	eng	
+foreign	chou-fleur	fra	
+foreign	condylome	fra	
 entry	Caustic	0	
 orth	Caustic	eng	
 foreign	caustique	fra	
@@ -757,13 +739,12 @@ orth	Cephalic	eng
 foreign	céphalique	fra	
 entry	Cephalometer	0	
 orth	Cephalometer	eng	
-foreign	céphalomètrs	fra	
+foreign	céphalomètre	fra	
 entry	Cephalotomy	0	
 orth	Cephalotomy	eng	
 foreign	céphalotomie	fra	
 entry	Cephalotripsy	0	
 orth	Cephalotripsy	eng	
-foreign	écrasement àe la tête du fœtus	fra	
 entry	Cerate	0	
 orth	Cerate	eng	
 foreign	cérat	fra	
@@ -772,13 +753,13 @@ orth	Cerebellous	eng
 foreign	cérébelleux	fra	
 entry	Cerebriform	0	
 orth	Cerebriform	eng	
-foreign	cérébriformc	fra	
+foreign	cérébriforme	fra	
 entry	Ceruminous	0	
 orth	Ceruminous	eng	
 foreign	cérumineux	fra	
-entry	Cesloideans	0	
-orth	Cesloideans	eng	
-foreign	les cestoides	fra	
+entry	Cestoideans	0	
+orth	Cestoideans	eng	
+foreign	cestoïdes (les)	fra	
 entry	Chain-saw	0	
 orth	Chain-saw	eng	
 foreign	scie en chaîne	fra	
@@ -848,17 +829,17 @@ foreign	croup	fra
 entry	Chocolate	0	
 orth	Chocolate	eng	
 foreign	chocolat	fra	
-entry	Choiera (malignant)	0	
-orth	Choiera (malignant)	eng	
+entry	Cholera (malignant)	0	
+orth	Cholera (malignant)	eng	
 foreign	choléra asiatique	fra	
 entry	Choleric	0	
 orth	Choleric	eng	
 foreign	cholérique	fra	
 entry	Chord (testicular)	0	
 orth	Chord (testicular)	eng	
-foreign	le cordon spermatique	fra	
-entry	Chordee	0	
-orth	Chordee	eng	
+foreign	cordon spermatique (le)	fra	
+entry	Chordée	0	
+orth	Chordée	eng	
 foreign	chaudepisse cordée	fra	
 entry	Choroid	0	
 orth	Choroid	eng	
@@ -866,8 +847,8 @@ foreign	choroïde	fra
 entry	Chromatogenous	0	
 orth	Chromatogenous	eng	
 foreign	chromatogène	fra	
-entry	Chronie	0	
-orth	Chronie	eng	
+entry	Chronic	0	
+orth	Chronic	eng	
 foreign	chronique	fra	
 entry	Chyliferous	0	
 orth	Chyliferous	eng	
@@ -883,13 +864,12 @@ orth	Ciliary	eng
 foreign	ciliaire	fra	
 entry	Cineritious	0	
 orth	Cineritious	eng	
-foreign	couleur de cendre	fra	
 entry	Cineritious tubercle 	0	
-orth	Cineritious tubercle 	eng	
-foreign	le tubercule cendré	fra	
+orth	Cineritious tubercle	eng	
+foreign	tubercule cendré (le)	fra	
 entry	Cinnabar	0	
 orth	Cinnabar	eng	
-foreign	cinnabrc	fra	
+foreign	cinnabre	fra	
 entry	Citric acid	0	
 orth	Citric acid	eng	
 foreign	acide citrique	fra	
@@ -900,11 +880,11 @@ foreign	citrin	fra
 entry	Clap	0	
 orth	Clap	eng	
 foreign	blennorrhagie	fra	
-entry	Ciass	0	
-orth	Ciass	eng	
+entry	Class	0	
+orth	Class	eng	
 foreign	classe	fra	
-entry	Cia vicie	0	
-orth	Cia vicie	eng	
+entry	Clavicle	0	
+orth	Clavicle	eng	
 foreign	clavicule	fra	
 entry	Cleavage	0	
 orth	Cleavage	eng	
@@ -921,8 +901,8 @@ foreign	clinique	fra
 entry	Clinoid	0	
 orth	Clinoid	eng	
 foreign	clinoïde	fra	
-entry	Clonie	0	
-orth	Clonie	eng	
+entry	Clonic	0	
+orth	Clonic	eng	
 foreign	clonique	fra	
 entry	Club-foot	0	
 orth	Club-foot	eng	
@@ -939,8 +919,8 @@ foreign	café	fra
 entry	Cold	0	
 orth	Cold	eng	
 foreign	froid	fra	
-entry	Colie	0	
-orth	Colie	eng	
+entry	Colic	0	
+orth	Colic	eng	
 foreign	colique	fra	
 entry	Collapse	0	
 orth	Collapse	eng	
@@ -962,7 +942,6 @@ orth	Coloring matters	eng
 foreign	matières colorantes	fra	
 entry	Comminuted	0	
 orth	Comminuted	eng	
-foreign	brisé en éclats	fra	
 entry	Comparative anatomy	0	
 orth	Comparative anatomy	eng	
 foreign	anatomie comparée	fra	
@@ -992,8 +971,8 @@ foreign	congloméré	fra
 entry	Consumption	0	
 orth	Consumption	eng	
 foreign	consomption	fra	
-entry	Contagions	0	
-orth	Contagions	eng	
+entry	Contagious	0	
+orth	Contagious	eng	
 foreign	contagieux	fra	
 entry	Continued fever	0	
 orth	Continued fever	eng	
@@ -1011,7 +990,7 @@ entry	Contra-fissure	0
 orth	Contra-fissure	eng	
 foreign	contre-fissure	fra	
 entry	Contra-indication 	0	
-orth	Contra-indication 	eng	
+orth	Contra-indication	eng	
 foreign	contre-indication	fra	
 entry	Convulsive	0	
 orth	Convulsive	eng	
@@ -1050,8 +1029,8 @@ foreign	coronoïde	fra
 entry	Corpulency	0	
 orth	Corpulency	eng	
 foreign	corpulence	fra	
-entry	Corpusele	0	
-orth	Corpusele	eng	
+entry	Corpuscle	0	
+orth	Corpuscle	eng	
 foreign	corpuscule	fra	
 entry	Corrigent	0	
 orth	Corrigent	eng	
@@ -1071,8 +1050,8 @@ foreign	constipation	fra
 entry	Cotton	0	
 orth	Cotton	eng	
 foreign	coton	fra	
-entry	Couehing	0	
-orth	Couehing	eng	
+entry	Couching	0	
+orth	Couching	eng	
 entry	Cough	0	
 orth	Cough	eng	
 foreign	toux	fra	
@@ -1080,28 +1059,27 @@ entry	Counter-extension	0
 orth	Counter-extension	eng	
 foreign	contre-extension	fra	
 entry	Counter-irritation 	0	
-orth	Counter-irritation 	eng	
+orth	Counter-irritation	eng	
 foreign	contre-irritation	fra	
 entry	Counter-opening	0	
 orth	Counter-opening	eng	
 foreign	contre-ouverture	fra	
 entry	Courses	0	
 orth	Courses	eng	
-foreign	les règles	fra	
+foreign	règles (les)	fra	
 entry	Cowpox	0	
 orth	Cowpox	eng	
 foreign	vaccin	fra	
 entry	Crab-yaws	0	
 orth	Crab-yaws	eng	
-foreign	nom d’un ulcère endémique à la Jamaïque	fra	
 entry	Cramp	0	
 orth	Cramp	eng	
 foreign	crampe	fra	
 entry	Cranioscopy	0	
 orth	Cranioscopy	eng	
 foreign	cranioscopie	fra	
-entry	Cream’	0	
-orth	Cream’	eng	
+entry	Cream	0	
+orth	Cream	eng	
 foreign	crème	fra	
 entry	Cream of tartar	0	
 orth	Cream of tartar	eng	
@@ -1114,7 +1092,6 @@ orth	Crest	eng
 foreign	crête	fra	
 entry	Crested	0	
 orth	Crested	eng	
-foreign	qui a une crête	fra	
 entry	Cretaceous	0	
 orth	Cretaceous	eng	
 foreign	crétacé	fra	
@@ -1129,12 +1106,12 @@ orth	Cricoid	eng
 foreign	cricoïde	fra	
 entry	Crim evil	0	
 orth	Crim evil	eng	
+foreign	mal de Crimée (sorte d’élépliantiasis tuberculeux)	fra	
 entry	Critical	0	
 orth	Critical	eng	
 foreign	critique	fra	
 entry	Cross birth	0	
 orth	Cross birth	eng	
-foreign	accouchement contre nature	fra	
 entry	Crotchet	0	
 orth	Crotchet	eng	
 foreign	crochet	fra	
@@ -1146,7 +1123,6 @@ orth	Croup (false)	eng
 foreign	faux croup	fra	
 entry	Croup-like	0	
 orth	Croup-like	eng	
-foreign	semblable au croup	fra	
 entry	Crown	0	
 orth	Crown	eng	
 foreign	couronne	fra	
@@ -1162,7 +1138,7 @@ orth	Crustaceous	eng
 foreign	crustacé	fra	
 entry	Crystalline lens	0	
 orth	Crystalline lens	eng	
-foreign	le cristallin	fra	
+foreign	cristallin (le)	fra	
 entry	Crystalloid	0	
 orth	Crystalloid	eng	
 foreign	cristallin	fra	
@@ -1174,16 +1150,13 @@ orth	Culm	eng
 foreign	chaume	fra	
 entry	Cultrate	0	
 orth	Cultrate	eng	
-foreign	en forme de couteau	fra	
 entry	Cuneiform	0	
 orth	Cuneiform	eng	
 foreign	cunéiforme	fra	
 entry	Cupping	0	
 orth	Cupping	eng	
-foreign	action de ventouser	fra	
 entry	Curd	0	
 orth	Curd	eng	
-foreign	lait caillé	fra	
 entry	Curvature	0	
 orth	Curvature	eng	
 foreign	courbure	fra	
@@ -1199,16 +1172,16 @@ foreign	lithotomie	fra
 entry	Cyanogen	0	
 orth	Cyanogen	eng	
 foreign	cyanogène	fra	
-entry	Cyanuret, cyanide	0	
+entry	Cyanuret, Cyanide	0	
 orth	Cyanuret	eng	
-orth	Cyanide		
+orth	Cyanide	eng	
 foreign	cyanure	fra	
 entry	Cylinder	0	
 orth	Cylinder	eng	
 foreign	cylindre	fra	
-entry	Cyst, kyst	0	
+entry	Cyst, Kyst	0	
 orth	Cyst	eng	
-orth	Kyst		
+orth	Kyst	eng	
 foreign	kyste	fra	
 entry	Cystic	0	
 orth	Cystic	eng	
@@ -1245,7 +1218,6 @@ orth	Decrement	eng
 foreign	déclin	fra	
 entry	Defensives	0	
 orth	Defensives	eng	
-foreign	appareils mis sur les plaies	fra	
 foreign	cordiaux	fra	
 entry	Defluxion	0	
 orth	Defluxion	eng	
@@ -1258,10 +1230,8 @@ orth	Deleterious	eng
 foreign	délétère	fra	
 entry	Delirifacients	0	
 orth	Delirifacients	eng	
-foreign	préparations qui causent le délire	fra	
-entry	Delirions	0	
-orth	Delirions	eng	
-foreign	en délire	fra	
+entry	Delirious	0	
+orth	Delirious	eng	
 entry	Delivery	0	
 orth	Delivery	eng	
 foreign	accouchement	fra	
@@ -1276,7 +1246,6 @@ orth	Demented	eng
 foreign	aliéné	fra	
 entry	Demulcent	0	
 orth	Demulcent	eng	
-foreign	remède qui adoucit les âcretès	fra	
 entry	Density	0	
 orth	Density	eng	
 foreign	densité	fra	
@@ -1300,23 +1269,19 @@ orth	Depilatory	eng
 foreign	épilatoire	fra	
 entry	Depletory means	0	
 orth	Depletory means	eng	
-foreign	moyens qui procurent la déplétion	fra	
 entry	Deposit	0	
 orth	Deposit	eng	
 foreign	déposition	fra	
 foreign	dépôt	fra	
 entry	Depressants	0	
 orth	Depressants	eng	
-foreign	remèdes qui réduisent l’énergie vitale	fra	
 entry	Depressed	0	
 orth	Depressed	eng	
 foreign	abaissé	fra	
 entry	Derivatives	0	
 orth	Derivatives	eng	
-foreign	moyens dérivatifs	fra	
 entry	Dermatoid	0	
 orth	Dermatoid	eng	
-foreign	qui ressemble à la peau	fra	
 entry	Dermatology	0	
 orth	Dermatology	eng	
 foreign	dermatologie	fra	
@@ -1339,7 +1304,6 @@ orth	Development	eng
 foreign	développement	fra	
 entry	Devonshire colic	0	
 orth	Devonshire colic	eng	
-foreign	colique des peintres	fra	
 entry	Dew	0	
 orth	Dew	eng	
 foreign	rosée	fra	
@@ -1376,18 +1340,17 @@ orth	Dietetic	eng
 foreign	diététique	fra	
 entry	Dietetics	0	
 orth	Dietetics	eng	
-foreign	la diététique	fra	
+foreign	diététique (la)	fra	
 entry	Diffuse	0	
 orth	Diffuse	eng	
 foreign	diffus	fra	
 entry	Digastric groove	0	
 orth	Digastric groove	eng	
-entry	Digerents, digestives	0	
+entry	Digerents, Digestives	0	
 orth	Digerents	eng	
-orth	Digestives		
+orth	Digestives	eng	
 entry	Digester	0	
 orth	Digester	eng	
-foreign	marmite de Papin	fra	
 entry	Digestive	0	
 orth	Digestive	eng	
 foreign	digestif	fra	
@@ -1397,14 +1360,13 @@ orth	Dimorphism	eng
 foreign	dimorphisme	fra	
 entry	Dioptrics	0	
 orth	Dioptrics	eng	
-foreign	la dioptrique	fra	
+foreign	dioptrique (la)	fra	
 entry	Dirigent	0	
 orth	Dirigent	eng	
 entry	Dirt-eating	0	
 orth	Dirt-eating	eng	
 entry	Discharge	0	
 orth	Discharge	eng	
-foreign	écoulement morbide	fra	
 entry	Discoid	0	
 orth	Discoid	eng	
 foreign	discoïde	fra	
@@ -1452,7 +1414,6 @@ orth	Displacement	eng
 foreign	déplacement	fra	
 entry	Dissecting	0	
 orth	Dissecting	eng	
-foreign	qui dissèque	fra	
 entry	Dissection wound	0	
 orth	Dissection wound	eng	
 foreign	blessure anatomique	fra	
@@ -1461,16 +1422,13 @@ orth	Dissepiment	eng
 foreign	cloison	fra	
 entry	Dissilient	0	
 orth	Dissilient	eng	
-foreign	qui s’ouvre soudainement	fra	
 entry	Dissolvent	0	
 orth	Dissolvent	eng	
 foreign	dissolvant	fra	
 entry	Distemper	0	
 orth	Distemper	eng	
-foreign	la maladie des chiens	fra	
 entry	Distichous	0	
 orth	Distichous	eng	
-foreign	à deux rangées	fra	
 entry	Distilled	0	
 orth	Distilled	eng	
 foreign	distillé	fra	
@@ -1479,7 +1437,6 @@ orth	Diuretic	eng
 foreign	diurétique	fra	
 entry	Divaricate	0	
 orth	Divaricate	eng	
-foreign	écarté l’un de l’autre	fra	
 entry	Dividing bandage	0	
 orth	Dividing bandage	eng	
 foreign	bandage séparant	fra	
@@ -1497,25 +1454,21 @@ orth	Drastic	eng
 foreign	drastique	fra	
 entry	Draught	0	
 orth	Draught	eng	
-foreign	une once d’un médicament liquide	fra	
 entry	Drench	0	
 orth	Drench	eng	
-foreign	une médecine purgative pour un cheval	fra	
 entry	Dresser	0	
 orth	Dresser	eng	
-foreign	chirurgien qui panse	fra	
 entry	Dressing	0	
 orth	Dressing	eng	
 foreign	pansement	fra	
 entry	Drivelling	0	
 orth	Drivelling	eng	
-foreign	l’action de baver	fra	
 entry	Drooping	0	
 orth	Drooping	eng	
-foreign	s’inclinant	fra	
+foreign	inclinant (s')	fra	
 entry	Drop	0	
 orth	Drop	eng	
-foreign	une goutte	fra	
+foreign	goutte (une)	fra	
 entry	Dropsical	0	
 orth	Dropsical	eng	
 foreign	hydropique	fra	
@@ -1524,22 +1477,20 @@ orth	Dropsy	eng
 foreign	hydropisie	fra	
 entry	Drosometer	0	
 orth	Drosometer	eng	
-foreign	instrument pour mesurer la rosée	fra	
 entry	Drowning	0	
 orth	Drowning	eng	
-foreign	asphyxie par submersion	fra	
 entry	Drug	0	
 orth	Drug	eng	
-foreign	une drogue	fra	
+foreign	drogue (une)	fra	
 entry	Drum of the ear	0	
 orth	Drum of the ear	eng	
-foreign	le tympan	fra	
+foreign	tympan (le)	fra	
 entry	Drunkeness	0	
 orth	Drunkeness	eng	
 foreign	ivrognerie	fra	
 entry	Dry pile	0	
 orth	Dry pile	eng	
-foreign	lapile sèche	fra	
+foreign	pile sèche (la)	fra	
 entry	Ductility	0	
 orth	Ductility	eng	
 foreign	ductilité	fra	
@@ -1551,7 +1502,7 @@ orth	Dynamic	eng
 foreign	dynamique	fra	
 entry	Dynamics	0	
 orth	Dynamics	eng	
-foreign	la dynamique	fra	
+foreign	dynamique (la)	fra	
 entry	Dynamometer	0	
 orth	Dynamometer	eng	
 foreign	dynamomètre	fra	
@@ -1560,7 +1511,6 @@ orth	Dysentery	eng
 foreign	dysenterie	fra	
 entry	Dysepulotic	0	
 orth	Dysepulotic	eng	
-foreign	difficile à cicatriser	fra	
 entry	Eagle stone	0	
 orth	Eagle stone	eng	
 foreign	aétite	fra	
@@ -1590,13 +1540,10 @@ orth	Ecbolic	eng
 foreign	abortif	fra	
 entry	Eccathartic	0	
 orth	Eccathartic	eng	
-foreign	qui purge	fra	
 entry	Eccoprotic	0	
 orth	Eccoprotic	eng	
-foreign	qui expulse les matières fécales	fra	
 entry	Eccrinology	0	
 orth	Eccrinology	eng	
-foreign	la doctrine des excrétions	fra	
 entry	Economy	0	
 orth	Economy	eng	
 foreign	économie	fra	
@@ -1609,8 +1556,8 @@ foreign	suppuratif	fra
 entry	Ecstasy	0	
 orth	Ecstasy	eng	
 foreign	extase	fra	
-entry	Erstatte trance	0	
-orth	Erstatte trance	eng	
+entry	Ecstatic trance	0	
+orth	Ecstatic trance	eng	
 foreign	catalepsie	fra	
 entry	Ectrotic	0	
 orth	Ectrotic	eng	
@@ -1644,9 +1591,9 @@ foreign	élastique	fra
 entry	Elasticity	0	
 orth	Elasticity	eng	
 foreign	élasticité	fra	
-entry	Electric, electrical	0	
+entry	Electric, Electrical	0	
 orth	Electric	eng	
-orth	Electrical		
+orth	Electrical	eng	
 foreign	électrique	fra	
 entry	Electricity	0	
 orth	Electricity	eng	
@@ -1659,7 +1606,6 @@ orth	Elytroid	eng
 foreign	élytroïde	fra	
 entry	Elytrorrhaphy	0	
 orth	Elytrorrhaphy	eng	
-foreign	suture du vagin	fra	
 entry	Emasculate	0	
 orth	Emasculate	eng	
 foreign	châtré	fra	
@@ -1681,8 +1627,8 @@ foreign	éméto-cathartique	fra
 entry	Emphractic	0	
 orth	Emphractic	eng	
 foreign	obstruant	fra	
-entry	Empirie	0	
-orth	Empirie	eng	
+entry	Empiric	0	
+orth	Empiric	eng	
 foreign	empirique	fra	
 entry	Empirism	0	
 orth	Empirism	eng	
@@ -1701,12 +1647,12 @@ orth	Encephalic	eng
 foreign	encéphalique	fra	
 entry	Encephaloid	0	
 orth	Encephaloid	eng	
-foreign	encéphdloïde	fra	
+foreign	encéphaloïde	fra	
 entry	Encysted	0	
 orth	Encysted	eng	
 foreign	enkysté	fra	
-entry	Endemie	0	
-orth	Endemie	eng	
+entry	Endemic	0	
+orth	Endemic	eng	
 foreign	endémique	fra	
 entry	Endermatic	0	
 orth	Endermatic	eng	
@@ -1736,7 +1682,7 @@ orth	Entero-mesenteric fever	eng
 foreign	fièvre entéro-mésentérique	fra	
 entry	Enterorrhaphy	0	
 orth	Enterorrhaphy	eng	
-foreign	enter orrhaphie	fra	
+foreign	entérorrhaphie	fra	
 entry	Entomology	0	
 orth	Entomology	eng	
 foreign	entomologie	fra	
@@ -1745,9 +1691,8 @@ orth	Entrails	eng
 foreign	entrailles	fra	
 entry	Epicolic	0	
 orth	Epicolic	eng	
-foreign	qui est situé au-devant dn côlon	fra	
-entry	Epidemie	0	
-orth	Epidemie	eng	
+entry	Epidemic	0	
+orth	Epidemic	eng	
 foreign	épidémique	fra	
 entry	Epidemy	0	
 orth	Epidemy	eng	
@@ -1757,7 +1702,6 @@ orth	Epidermic	eng
 foreign	épidermique	fra	
 entry	Epidermoid	0	
 orth	Epidermoid	eng	
-foreign	qui ressemble à l’épiderme	fra	
 entry	Epigastric	0	
 orth	Epigastric	eng	
 foreign	épigastrique	fra	
@@ -1781,8 +1725,8 @@ orth	Epispastic	eng
 foreign	épispastique	fra	
 entry	Episternal bones	0	
 orth	Episternal bones	eng	
-entry	Epizootie	0	
-orth	Epizootie	eng	
+entry	Epizootic	0	
+orth	Epizootic	eng	
 foreign	épizootique	fra	
 entry	Epizooty	0	
 orth	Epizooty	eng	
@@ -1808,8 +1752,8 @@ foreign	érysipélateux	fra
 entry	Erythroid	0	
 orth	Erythroid	eng	
 foreign	érythroïde	fra	
-entry	Eryfhroprotid	0	
-orth	Eryfhroprotid	eng	
+entry	Erythroprotid	0	
+orth	Erythroprotid	eng	
 entry	Eschar	0	
 orth	Eschar	eng	
 foreign	eschare	fra	
@@ -1830,7 +1774,6 @@ orth	Ethmoid	eng
 foreign	ethmoïde	fra	
 entry	Ethmoidal	0	
 orth	Ethmoidal	eng	
-foreign	appartenant à l’ethmoïde	fra	
 entry	Eudiometer	0	
 orth	Eudiometer	eng	
 foreign	eudiomètre	fra	
@@ -1839,16 +1782,13 @@ orth	Eudiometry	eng
 foreign	eudiométrie	fra	
 entry	Eupeptic	0	
 orth	Eupeptic	eng	
-foreign	de digestion facile	fra	
 entry	Euplastic	0	
 orth	Euplastic	eng	
-foreign	favorable aux forces formatives	fra	
 entry	Eustachian tube 	0	
-orth	Eustachian tube 	eng	
+orth	Eustachian tube	eng	
 foreign	trompe d’Eustache	fra	
 entry	Evomition	0	
 orth	Evomition	eng	
-foreign	rejet par le vomissement	fra	
 entry	Exanguinous	0	
 orth	Exanguinous	eng	
 foreign	exsangue	fra	
@@ -1864,9 +1804,9 @@ foreign	excitabilité	fra
 entry	Excito-motory system	0	
 orth	Excito-motory system	eng	
 foreign	système excito-moteur	fra	
-entry	Excrementilious	0	
-orth	Excrementilious	eng	
-foreign	excrémentiticl	fra	
+entry	Excrementitious	0	
+orth	Excrementitious	eng	
+foreign	excrémentitiel	fra	
 entry	Excrescence	0	
 orth	Excrescence	eng	
 foreign	excroissance	fra	
@@ -1879,8 +1819,8 @@ foreign	exercice	fra
 entry	Exercitation	0	
 orth	Exercitation	eng	
 foreign	gymnastique	fra	
-entry	Exkaustion	0	
-orth	Exkaustion	eng	
+entry	Exhaustion	0	
+orth	Exhaustion	eng	
 foreign	épuisement	fra	
 entry	Exogenous	0	
 orth	Exogenous	eng	
@@ -1889,19 +1829,17 @@ pb	1771	1784
 entry	Exotic	0	
 orth	Exotic	eng	
 foreign	exotique	fra	
-entry	Expellant, expellent	0	
+entry	Expellant, Expellent	0	
 orth	Expellant	eng	
-orth	Expellent		
-foreign	qui expulse	fra	
+orth	Expellent	eng	
 entry	Experiment	0	
 orth	Experiment	eng	
-foreign	une expérience	fra	
+foreign	expérience (une)	fra	
 entry	Expiratory	0	
 orth	Expiratory	eng	
 foreign	expirateur	fra	
-entry	Expressed cd	0	
-orth	Expressed cd	eng	
-foreign	huile obtenue par expression	fra	
+entry	Expressed oid	0	
+orth	Expressed oid	eng	
 entry	Expulsive	0	
 orth	Expulsive	eng	
 foreign	expulsif	fra	
@@ -1919,7 +1857,6 @@ orth	Extractive	eng
 foreign	extractif	fra	
 entry	Extra-naturals	0	
 orth	Extra-naturals	eng	
-foreign	les choses non naturelles	fra	
 entry	Extraneous bodies	0	
 orth	Extraneous bodies	eng	
 foreign	corps etrangers	fra	
@@ -1939,7 +1876,7 @@ entry	Eye-glass	0
 orth	Eye-glass	eng	
 entry	Eye teeth	0	
 orth	Eye teeth	eng	
-foreign	les dents œillères	fra	
+foreign	dents œillères (les)	fra	
 entry	Eye (watery)	0	
 orth	Eye (watery)	eng	
 foreign	épiphora	fra	
@@ -1970,7 +1907,6 @@ foreign	trompe de Fallope	fra
 entry	False	0	
 orth	False	eng	
 foreign	faux	fra	
-foreign	qui n’est pas vrai	fra	
 entry	False joint	0	
 orth	False joint	eng	
 foreign	fausse articulation	fra	
@@ -1985,7 +1921,7 @@ orth	False waters	eng
 foreign	fausses eaux (dans la grossesse)	fra	
 entry	Fancy mark	0	
 orth	Fancy mark	eng	
-foreign	nœvus	fra	
+foreign	nævus	fra	
 entry	Farcy	0	
 orth	Farcy	eng	
 foreign	farcin	fra	
@@ -2075,7 +2011,7 @@ orth	Flax	eng
 foreign	lin	fra	
 entry	Fleam	0	
 orth	Fleam	eng	
-foreign	phlebotome	fra	
+foreign	phlébotome	fra	
 foreign	flamme	fra	
 entry	Flesh	0	
 orth	Flesh	eng	
@@ -2091,7 +2027,6 @@ orth	Floccilation	eng
 foreign	carphologie	fra	
 entry	Flooding	0	
 orth	Flooding	eng	
-foreign	perte utérine	fra	
 entry	Fluid	0	
 orth	Fluid	eng	
 foreign	fluide	fra	
@@ -2101,17 +2036,16 @@ foreign	fluidité	fra
 entry	Fly	0	
 orth	Fly	eng	
 foreign	mouche	fra	
-entry	Eodder	0	
-orth	Eodder	eng	
+entry	Fodder	0	
+orth	Fodder	eng	
 foreign	fourrage	fra	
 entry	Fœticid	0	
 orth	Fœticid	eng	
-foreign	avortement criminel	fra	
 entry	Foliaceous	0	
 orth	Foliaceous	eng	
 foreign	foliacé	fra	
-entry	Fontanei	0	
-orth	Fontanei	eng	
+entry	Fontanel	0	
+orth	Fontanel	eng	
 foreign	fontanelle	fra	
 entry	Food	0	
 orth	Food	eng	
@@ -2146,12 +2080,11 @@ foreign	friabilité	fra
 entry	Frigidity	0	
 orth	Frigidity	eng	
 foreign	frigidité	fra	
-entry	Frigorifie	0	
-orth	Frigorifie	eng	
+entry	Frigorific	0	
+orth	Frigorific	eng	
 foreign	frigorifique	fra	
 entry	Frost-bite	0	
 orth	Frost-bite	eng	
-foreign	engourdissement causé par le froid	fra	
 entry	Fugacious	0	
 orth	Fugacious	eng	
 foreign	fugace	fra	
@@ -2196,7 +2129,6 @@ orth	Fusiform	eng
 foreign	fusiforme	fra	
 entry	Galeate	0	
 orth	Galeate	eng	
-foreign	fait en forme de casque	fra	
 entry	Galenical	0	
 orth	Galenical	eng	
 foreign	galénique	fra	
@@ -2223,7 +2155,7 @@ orth	Galvanometer	eng
 foreign	galvanomètre	fra	
 entry	Gangliform	0	
 orth	Gangliform	eng	
-foreign	gangaforme	fra	
+foreign	gangliforme	fra	
 entry	Gargle	0	
 orth	Gargle	eng	
 foreign	gargarisme	fra	
@@ -2280,7 +2212,7 @@ orth	Germ	eng
 foreign	germe	fra	
 entry	Germinal cell	0	
 orth	Germinal cell	eng	
-foreign	un cytoblaste	fra	
+foreign	cytoblaste (un)	fra	
 entry	Giddiness	0	
 orth	Giddiness	eng	
 foreign	vertige	fra	
@@ -2298,7 +2230,6 @@ orth	Gland	eng
 foreign	glande	fra	
 entry	Glanders	0	
 orth	Glanders	eng	
-foreign	morve chevaline	fra	
 entry	Glandiform	0	
 orth	Glandiform	eng	
 foreign	glandiforme	fra	
@@ -2346,7 +2277,7 @@ orth	Gorget	eng
 foreign	gorgeret	fra	
 entry	Gout	0	
 orth	Gout	eng	
-foreign	la goutte	fra	
+foreign	goutte (la)	fra	
 entry	Gout (diaphragmatic)	0	
 orth	Gout (diaphragmatic)	eng	
 foreign	angine de· poitrine	fra	
@@ -2370,7 +2301,7 @@ orth	Gravity	eng
 foreign	pesanteur	fra	
 entry	Gripes	0	
 orth	Gripes	eng	
-foreign	la colique	fra	
+foreign	colique (la)	fra	
 entry	Groats	0	
 orth	Groats	eng	
 foreign	orge mondé	fra	
@@ -2381,6 +2312,7 @@ orth	Grog blotch	eng
 foreign	acme rosacea	fra	
 entry	Grub	0	
 orth	Grub	eng	
+foreign	ver (un)	fra	
 entry	Grumous	0	
 orth	Grumous	eng	
 foreign	grumeux	fra	
@@ -2404,7 +2336,6 @@ orth	Gurgling sound	eng
 foreign	râle muqueux	fra	
 entry	Gustatory	0	
 orth	Gustatory	eng	
-foreign	qui se rapporte à la gustation	fra	
 entry	Gut	0	
 orth	Gut	eng	
 foreign	intestin	fra	
@@ -2413,7 +2344,8 @@ orth	Gymnastic	eng
 foreign	gymnastique	fra	
 entry	Habit of body	0	
 orth	Habit of body	eng	
-foreign	constitution et tempérament	fra	
+foreign	constitution	fra	
+foreign	tempérament	fra	
 entry	Hæmatology	0	
 orth	Hæmatology	eng	
 foreign	hématologie	fra	
@@ -2428,13 +2360,12 @@ orth	Hæmostatic	eng
 foreign	hémostatique	fra	
 entry	Hæmotrophy	0	
 orth	Hæmotrophy	eng	
-foreign	excès de nutrition sanguine	fra	
 entry	Hair	0	
 orth	Hair	eng	
 foreign	cheveu	fra	
 entry	Hair (platted or matted)	0	
 orth	Hair (platted or matted)	eng	
-foreign	la plique	fra	
+foreign	plique (la)	fra	
 entry	Halberd-shaped	0	
 orth	Halberd-shaped	eng	
 foreign	hasté	fra	
@@ -2449,11 +2380,9 @@ orth	Handbath	eng
 foreign	manuluve	fra	
 entry	Hanging	0	
 orth	Hanging	eng	
-foreign	action de pendre	fra	
 foreign	suspension	fra	
 entry	Harebrained passion	0	
 orth	Harebrained passion	eng	
-foreign	violente émotion de l’esprit	fra	
 entry	Hare-eye	0	
 orth	Hare-eye	eng	
 foreign	lagophthalmie	fra	
@@ -2552,10 +2481,10 @@ orth	Heteropathy	eng
 foreign	hétéropathie	fra	
 entry	Hip	0	
 orth	Hip	eng	
-foreign	la hanche	fra	
+foreign	hanche (la)	fra	
 entry	Hip bone	0	
 orth	Hip bone	eng	
-foreign	l’ischion	fra	
+foreign	ischion (l')	fra	
 entry	Hippocrates’ sleeve	0	
 orth	Hippocrates’ sleeve	eng	
 foreign	manche d’Hippocrate	fra	
@@ -2570,16 +2499,16 @@ orth	Histology	eng
 foreign	histologie	fra	
 entry	Hives	0	
 orth	Hives	eng	
-foreign	le chicken-pox	fra	
-foreign	le croup	fra	
+foreign	chicken-pox (le)	fra	
+foreign	croup (le)	fra	
 entry	Hoarseness	0	
 orth	Hoarseness	eng	
 foreign	raucité	fra	
 entry	Homœopath	0	
 orth	Homœopath	eng	
 foreign	homœopathe	fra	
-entry	Homœopatby	0	
-orth	Homœopatby	eng	
+entry	Homœopathy	0	
+orth	Homœopathy	eng	
 foreign	homœopathie	fra	
 entry	Homogenous	0	
 orth	Homogenous	eng	
@@ -2636,7 +2565,7 @@ orth	Hydrated	eng
 foreign	hydraté	fra	
 entry	Hydraulics	0	
 orth	Hydraulics	eng	
-foreign	l’hydraulique	fra	
+foreign	hydraulique (l')	fra	
 entry	Hydrencephaloid	0	
 orth	Hydrencephaloid	eng	
 foreign	hydrencéphaloïde	fra	
@@ -2651,7 +2580,7 @@ orth	Hydrocyanic	eng
 foreign	hydrocyanique	fra	
 entry	Hydrodynamics	0	
 orth	Hydrodynamics	eng	
-foreign	l’hydrodynamique	fra	
+foreign	hydrodynamique (l')	fra	
 entry	Hydrogen	0	
 orth	Hydrogen	eng	
 foreign	hydrogène	fra	
@@ -2666,13 +2595,12 @@ orth	Hydropic	eng
 foreign	hydropique	fra	
 entry	Hydrostatics	0	
 orth	Hydrostatics	eng	
-foreign	l’hydrostatique	fra	
+foreign	hydrostatique (l')	fra	
 entry	Hydrotic	0	
 orth	Hydrotic	eng	
 foreign	hydragogue	fra	
 entry	Hydrous	0	
 orth	Hydrous	eng	
-foreign	contenant de l’eau	fra	
 entry	Hydruret	0	
 orth	Hydruret	eng	
 foreign	hydrure	fra	
@@ -2684,10 +2612,9 @@ orth	Hygrometer	eng
 foreign	hygromètre	fra	
 entry	Hymenology	0	
 orth	Hymenology	eng	
-foreign	hyménologic	fra	
+foreign	hyménologie	fra	
 entry	Hymenotomy	0	
 orth	Hymenotomy	eng	
-foreign	dissection des membranes	fra	
 entry	Hyo-epiglottic	0	
 orth	Hyo-epiglottic	eng	
 foreign	hyo-épiglottique	fra	
@@ -2705,7 +2632,6 @@ orth	Hypochondriac	eng
 foreign	hypochondriaque	fra	
 entry	Hypodermatomy	0	
 orth	Hypodermatomy	eng	
-foreign	l’incision sous-cutanée	fra	
 entry	Hypogastric	0	
 orth	Hypogastric	eng	
 foreign	hypogastrique	fra	
@@ -2714,7 +2640,7 @@ orth	Hypogeous	eng
 foreign	hypogée	fra	
 entry	Hypsiloid	0	
 orth	Hypsiloid	eng	
-foreign	hypsildide	fra	
+foreign	hypsiloïde	fra	
 entry	Hysterics	0	
 orth	Hysterics	eng	
 foreign	hystérie	fra	
@@ -2746,7 +2672,7 @@ orth	Idiotism	eng
 foreign	idiotisme	fra	
 entry	Ileac passion	0	
 orth	Ileac passion	eng	
-foreign	le volvulus	fra	
+foreign	volvulus (le)	fra	
 entry	Ileo-colic	0	
 orth	Ileo-colic	eng	
 foreign	iléo-colique	fra	
@@ -2760,11 +2686,11 @@ entry	Imbricate	0
 orth	Imbricate	eng	
 foreign	imbriqué	fra	
 entry	Immovable apparatus 	0	
-orth	Immovable apparatus 	eng	
+orth	Immovable apparatus	eng	
 foreign	appareil inamovible	fra	
 entry	Impenetrability	0	
 orth	Impenetrability	eng	
-foreign	impénétrabilités	fra	
+foreign	impénétrabilité	fra	
 entry	Imperfect	0	
 orth	Imperfect	eng	
 foreign	imparfait	fra	
@@ -2788,7 +2714,6 @@ orth	Incompressibility	eng
 foreign	incompressibilité	fra	
 entry	Indicant	0	
 orth	Indicant	eng	
-foreign	relatif à l’indication	fra	
 entry	Indicating days	0	
 orth	Indicating days	eng	
 foreign	jours critiques	fra	
@@ -2801,7 +2726,7 @@ foreign	enfance	fra
 entry	Infarction	0	
 orth	Infarction	eng	
 foreign	constipation	fra	
-foreign	infarctus)	fra	
+foreign	infarctus	fra	
 entry	Inferior strait	0	
 orth	Inferior strait	eng	
 foreign	détroit inférieur	fra	
@@ -2813,10 +2738,10 @@ orth	Inflammatory	eng
 foreign	inflammatoire	fra	
 entry	Inflammatory crust	0	
 orth	Inflammatory crust	eng	
-foreign	la couenne inflammatoire	fra	
+foreign	couenne inflammatoire (la)	fra	
 entry	Infundibuliform	0	
 orth	Infundibuliform	eng	
-foreign	in fundibuli forme	fra	
+foreign	infundibuliforme	fra	
 entry	Inorganic	0	
 orth	Inorganic	eng	
 foreign	inorganique	fra	
@@ -2837,7 +2762,7 @@ orth	Instinctive	eng
 foreign	instinctif	fra	
 entry	Institutes of medicine	0	
 orth	Institutes of medicine	eng	
-foreign	la théorie de la médecine	fra	
+foreign	théorie de la médecine (la)	fra	
 entry	Integument	0	
 orth	Integument	eng	
 foreign	tégument	fra	
@@ -2849,10 +2774,10 @@ entry	Intercalary days	0
 orth	Intercalary days	eng	
 entry	Intercellular	0	
 orth	Intercellular	eng	
-foreign	inter cellulaire	fra	
-entry	I nterclavicular	0	
-orth	I nterclavicular	eng	
-foreign	interclavic ulaire	fra	
+foreign	intercellulaire	fra	
+entry	Interclavicular	0	
+orth	Interclavicular	eng	
+foreign	interclaviculaire	fra	
 entry	Intermaxillary	0	
 orth	Intermaxillary	eng	
 foreign	intermaxillaire	fra	
@@ -2867,7 +2792,7 @@ orth	Interstitial	eng
 foreign	interstitiel	fra	
 entry	Intestine	0	
 orth	Intestine	eng	
-foreign	l’intestin	fra	
+foreign	intestin (l')	fra	
 entry	Intoxicants	0	
 orth	Intoxicants	eng	
 entry	Intoxication	0	
@@ -2878,7 +2803,7 @@ orth	Intrinsic	eng
 foreign	intrinsèque	fra	
 entry	Intumesce (to)	0	
 orth	Intumesce (to)	eng	
-foreign	se tuméfier	fra	
+foreign	tuméfier (se)	fra	
 entry	Invaginated	0	
 orth	Invaginated	eng	
 foreign	invaginé	fra	
@@ -2887,13 +2812,13 @@ orth	Invermination	eng
 foreign	helminthiase	fra	
 entry	Inward fits	0	
 orth	Inward fits	eng	
-foreign	convulsions croupalcs	fra	
+foreign	convulsions croupales	fra	
 entry	Iodic 	0	
-orth	Iodic 	eng	
+orth	Iodic	eng	
 foreign	iodique	fra	
-entry	Iodide, ioduret	0	
+entry	Iodide, Ioduret	0	
 orth	Iodide	eng	
-orth	Ioduret		
+orth	Ioduret	eng	
 foreign	iodure	fra	
 entry	Iodine	0	
 orth	Iodine	eng	
@@ -2919,9 +2844,8 @@ orth	Ischiadic	eng
 foreign	ischiatique	fra	
 entry	Ischuretic	0	
 orth	Ischuretic	eng	
-foreign	remède pour l’ischurie	fra	
-entry	Isomerie	0	
-orth	Isomerie	eng	
+entry	Isomeric	0	
+orth	Isomeric	eng	
 foreign	isomérique	fra	
 entry	Isomerism	0	
 orth	Isomerism	eng	
@@ -2941,9 +2865,9 @@ foreign	fonticule	fra
 entry	Itch	0	
 orth	Itch	eng	
 foreign	gale	fra	
-entry	Iteh insect	0	
-orth	Iteh insect	eng	
-foreign	l’acarus de la gale	fra	
+entry	Itch insect	0	
+orth	Itch insect	eng	
+foreign	acarus de la gale (l')	fra	
 entry	Ivory	0	
 orth	Ivory	eng	
 foreign	ivoire	fra	
@@ -2952,10 +2876,10 @@ orth	Jaundice	eng
 foreign	jaunisse	fra	
 entry	Jaw-bone	0	
 orth	Jaw-bone	eng	
-foreign	l’os maxillaire	fra	
+foreign	os maxillaire (l')	fra	
 entry	Jaw (fallen)	0	
 orth	Jaw (fallen)	eng	
-foreign	trismus des enfants	fra	
+foreign	trismus	fra	
 entry	Jelly	0	
 orth	Jelly	eng	
 foreign	gélatine	fra	
@@ -2967,7 +2891,7 @@ orth	Joint	eng
 foreign	articulation	fra	
 entry	Joint (stiff)	0	
 orth	Joint (stiff)	eng	
-foreign	ankylosé	fra	
+foreign	ankylose	fra	
 entry	Jointed	0	
 orth	Jointed	eng	
 foreign	articulé	fra	
@@ -2976,10 +2900,9 @@ orth	Jugular	eng
 foreign	jugulaire	fra	
 entry	Jungle fever	0	
 orth	Jungle fever	eng	
-foreign	fièvre rémittente de l’Inde	fra	
 entry	Kali	0	
 orth	Kali	eng	
-foreign	la potasse	fra	
+foreign	potasse (la)	fra	
 entry	Kibes	0	
 orth	Kibes	eng	
 foreign	engelures	fra	
@@ -2994,16 +2917,15 @@ orth	Kinic	eng
 foreign	quinique	fra	
 entry	Knee	0	
 orth	Knee	eng	
-foreign	le genou	fra	
-entry	Knee-housemaids 	0	
-orth	Knee-housemaids 	eng	
-foreign	hygroma du genou	fra	
+foreign	genou (le)	fra	
+entry	Knee-housemaids	0	
+orth	Knee-housemaids	eng	
 entry	Knee-jointed	0	
 orth	Knee-jointed	eng	
 foreign	géniculé	fra	
 entry	Knee-pan	0	
 orth	Knee-pan	eng	
-foreign	la rotule	fra	
+foreign	rotule (la)	fra	
 entry	Knife	0	
 orth	Knife	eng	
 foreign	couteau	fra	
@@ -3018,7 +2940,7 @@ orth	Laboratory	eng
 foreign	laboratoire	fra	
 entry	Labour	0	
 orth	Labour	eng	
-foreign	travail de l’accouchement	fra	
+foreign	travail	fra	
 entry	Labyrinth	0	
 orth	Labyrinth	eng	
 foreign	labyrinthe	fra	
@@ -3042,7 +2964,6 @@ orth	Lactiferous	eng
 foreign	lactifère	fra	
 entry	Lactifuge	0	
 orth	Lactifuge	eng	
-foreign	qui fait passer le lait	fra	
 entry	Lancet	0	
 orth	Lancet	eng	
 foreign	lancette	fra	
@@ -3059,10 +2980,9 @@ entry	Laryngophony	0
 orth	Laryngophony	eng	
 entry	Laryngotomy	0	
 orth	Laryngotomy	eng	
-foreign	laryngotoTÿie	fra	
+foreign	laryngotomie	fra	
 entry	Lateritious	0	
 orth	Lateritious	eng	
-foreign	qui ressemble à de la brique en poudre	fra	
 entry	Laugh	0	
 orth	Laugh	eng	
 foreign	rire	fra	
@@ -3089,12 +3009,12 @@ orth	Leaf	eng
 foreign	feuille	fra	
 entry	Leaf stalk	0	
 orth	Leaf stalk	eng	
-foreign	le pétiole	fra	
+foreign	pétiole (le)	fra	
 entry	Leanness	0	
 orth	Leanness	eng	
 foreign	maigreur	fra	
 entry	Leaping ague 	0	
-orth	Leaping ague 	eng	
+orth	Leaping ague	eng	
 entry	Leather	0	
 orth	Leather	eng	
 foreign	cuir	fra	
@@ -3125,8 +3045,8 @@ foreign	lépreux	fra
 entry	Lethal	0	
 orth	Lethal	eng	
 foreign	mortel	fra	
-entry	Lethargie	0	
-orth	Lethargie	eng	
+entry	Lethargic	0	
+orth	Lethargic	eng	
 foreign	léthargique	fra	
 entry	Lethargy	0	
 orth	Lethargy	eng	
@@ -3160,7 +3080,6 @@ orth	Linear	eng
 foreign	linéaire	fra	
 entry	Lingulate	0	
 orth	Lingulate	eng	
-foreign	en forme de langue	fra	
 entry	Lin seed	0	
 orth	Lin seed	eng	
 foreign	graine de lin	fra	
@@ -3196,8 +3115,8 @@ foreign	lithotomie	fra
 entry	Lithotripsy	0	
 orth	Lithotripsy	eng	
 foreign	lithotripsie	fra	
-entry	Litbotrity	0	
-orth	Litbotrity	eng	
+entry	Lithotrity	0	
+orth	Lithotrity	eng	
 foreign	lithotritie	fra	
 entry	Liver	0	
 orth	Liver	eng	
@@ -3216,7 +3135,7 @@ orth	Loimic	eng
 foreign	pestilentiel	fra	
 entry	Loins	0	
 orth	Loins	eng	
-foreign	les lombes	fra	
+foreign	lombes (les)	fra	
 entry	Lomentaceous	0	
 orth	Lomentaceous	eng	
 foreign	lomentacé	fra	
@@ -3225,7 +3144,6 @@ orth	Longevity	eng
 foreign	longévité	fra	
 entry	Longing	0	
 orth	Longing	eng	
-foreign	caprice d’appétit	fra	
 entry	Loquacity	0	
 orth	Loquacity	eng	
 foreign	loquacité	fra	
@@ -3249,13 +3167,11 @@ orth	Lumbo-sacral	eng
 foreign	lombo-sacré	fra	
 entry	Lunar caustic	0	
 orth	Lunar caustic	eng	
-foreign	la pierre infernale	fra	
 entry	Lunatic	0	
 orth	Lunatic	eng	
 foreign	lunatique	fra	
 entry	Lunatic eyes	0	
 orth	Lunatic eyes	eng	
-foreign	ophlhalmie périodique	fra	
 entry	Lung	0	
 orth	Lung	eng	
 foreign	poumon	fra	
@@ -3267,19 +3183,16 @@ orth	Lymph	eng
 foreign	lymphe	fra	
 entry	Lymph cataract	0	
 orth	Lymph cataract	eng	
-foreign	fausse cataracte	fra	
 entry	Lymphatic	0	
 orth	Lymphatic	eng	
 foreign	lymphatique	fra	
 entry	Lymphatics	0	
 orth	Lymphatics	eng	
-foreign	les lymphatiques	fra	
+foreign	lymphatiques (les)	fra	
 entry	Lymphization	0	
 orth	Lymphization	eng	
-foreign	épanchement de lymphe coagulable	fra	
 entry	Lyrate	0	
 orth	Lyrate	eng	
-foreign	en forme de lyre	fra	
 entry	Macrobiotic	0	
 orth	Macrobiotic	eng	
 foreign	macrobiotique	fra	
@@ -3309,20 +3222,17 @@ orth	Malar	eng
 foreign	malaire	fra	
 entry	Malformation	0	
 orth	Malformation	eng	
-foreign	vice de conformation	fra	
 entry	Malic acid	0	
 orth	Malic acid	eng	
 foreign	acide malique	fra	
 entry	Malignant	0	
 orth	Malignant	eng	
 foreign	malin	fra	
-foreign	de mauvaise nature	fra	
 entry	Malingerer	0	
 orth	Malingerer	eng	
-foreign	soldat feignant une maladie	fra	
 entry	Malleability	0	
 orth	Malleability	eng	
-foreign	maléabililé	fra	
+foreign	malléabililé	fra	
 entry	Malleolar	0	
 orth	Malleolar	eng	
 foreign	malléolaire	fra	
@@ -3331,7 +3241,7 @@ orth	Mammary	eng
 foreign	mammaire	fra	
 entry	Mammiform	0	
 orth	Mammiform	eng	
-foreign	mammi forme	fra	
+foreign	mammiforme	fra	
 entry	Mammillary	0	
 orth	Mammillary	eng	
 foreign	mamillaire	fra	
@@ -3380,7 +3290,7 @@ orth	Mechanical	eng
 foreign	mécanique	fra	
 entry	Mechanics	0	
 orth	Mechanics	eng	
-foreign	la mécanique	fra	
+foreign	mécanique (la)	fra	
 entry	Mechanism	0	
 orth	Mechanism	eng	
 foreign	mécanisme	fra	
@@ -3389,7 +3299,6 @@ orth	Mediate	eng
 foreign	médiat	fra	
 entry	Medicated	0	
 orth	Medicated	eng	
-foreign	imprégné d’un médicament	fra	
 entry	Medicinal days	0	
 orth	Medicinal days	eng	
 foreign	jours critiques	fra	
@@ -3421,7 +3330,7 @@ orth	Mercury	eng
 foreign	mercure	fra	
 entry	Mesaraic	0	
 orth	Mesaraic	eng	
-foreign	mésardique	fra	
+foreign	mésaraïque	fra	
 entry	Mesenteric	0	
 orth	Mesenteric	eng	
 foreign	mésentérique	fra	
@@ -3431,8 +3340,8 @@ foreign	mésentère	fra
 entry	Mesmerism	0	
 orth	Mesmerism	eng	
 foreign	mesmérisme	fra	
-entry	Metabolie	0	
-orth	Metabolie	eng	
+entry	Metabolic	0	
+orth	Metabolic	eng	
 foreign	métabolique	fra	
 entry	Metacarpal	0	
 orth	Metacarpal	eng	
@@ -3463,7 +3372,6 @@ orth	Methodic	eng
 foreign	méthodique	fra	
 entry	Metoposcopy	0	
 orth	Metoposcopy	eng	
-foreign	examen de la physionomie	fra	
 entry	Miasm	0	
 orth	Miasm	eng	
 foreign	miasme	fra	
@@ -3478,10 +3386,9 @@ orth	Midwife	eng
 foreign	sage-femme	fra	
 entry	Midwifery	0	
 orth	Midwifery	eng	
-foreign	l’obstétrique	fra	
+foreign	obstétrique (l')	fra	
 entry	Mildew	0	
 orth	Mildew	eng	
-foreign	champignons parasites	fra	
 entry	Mildew mortification	0	
 orth	Mildew mortification	eng	
 entry	Miliary	0	
@@ -3509,7 +3416,7 @@ orth	Miscarriage	eng
 foreign	avortement	fra	
 entry	Mnemonics	0	
 orth	Mnemonics	eng	
-foreign	la mnémonique	fra	
+foreign	mnémonique (la)	fra	
 entry	Mobility	0	
 orth	Mobility	eng	
 foreign	mobilité	fra	
@@ -3522,27 +3429,25 @@ foreign	moléculaire	fra
 entry	Monad	0	
 orth	Monad	eng	
 foreign	monade	fra	
-entry	Monopetaious	0	
-orth	Monopetaious	eng	
+entry	Monopetalous	0	
+orth	Monopetalous	eng	
 foreign	monopétale	fra	
 entry	Monophyllous	0	
 orth	Monophyllous	eng	
 foreign	monophylle	fra	
 entry	Monoplastic	0	
 orth	Monoplastic	eng	
-foreign	qui ne change pas de forme	fra	
 entry	Monster	0	
 orth	Monster	eng	
 foreign	monstre	fra	
 entry	Monthly courses	0	
 orth	Monthly courses	eng	
-foreign	les règles	fra	
+foreign	règles (les)	fra	
 entry	Moon	0	
 orth	Moon	eng	
-foreign	la lune	fra	
+foreign	lune (la)	fra	
 entry	Moonblindness	0	
 orth	Moonblindness	eng	
-foreign	ophthalmie périodique	fra	
 entry	Morbid	0	
 orth	Morbid	eng	
 foreign	morbide	fra	
@@ -3625,7 +3530,7 @@ entry	Muscular	0
 orth	Muscular	eng	
 foreign	musculaire	fra	
 entry	Musculo-cutaneous 	0	
-orth	Musculo-cutaneous 	eng	
+orth	Musculo-cutaneous	eng	
 foreign	musculo-cutané	fra	
 entry	Musculo-rachidian	0	
 orth	Musculo-rachidian	eng	
@@ -3677,7 +3582,7 @@ orth	Natural	eng
 foreign	naturel	fra	
 entry	Natural philosophy	0	
 orth	Natural philosophy	eng	
-foreign	la physique	fra	
+foreign	physique (la)	fra	
 entry	Nauseant	0	
 orth	Nauseant	eng	
 foreign	nauséeux	fra	
@@ -3716,7 +3621,6 @@ orth	Nerve	eng
 foreign	nerf	fra	
 entry	Nerveless	0	
 orth	Nerveless	eng	
-foreign	sans nerf	fra	
 entry	Nervine	0	
 orth	Nervine	eng	
 foreign	nervin	fra	
@@ -3724,41 +3628,39 @@ entry	Nervous	0
 orth	Nervous	eng	
 foreign	nerveux	fra	
 entry	Nervous quinsy 	0	
-orth	Nervous quinsy 	eng	
-foreign	le globe hystérique	fra	
-entry	Netlle-rash	0	
-orth	Netlle-rash	eng	
+orth	Nervous quinsy	eng	
+foreign	globe hystérique (le)	fra	
+entry	Nettle-rash	0	
+orth	Nettle-rash	eng	
 foreign	urticaire	fra	
 entry	Neurography	0	
 orth	Neurography	eng	
 foreign	névrographie	fra	
 entry	Neurology	0	
 orth	Neurology	eng	
-foreign	nécrologie	fra	
-entry	Neuropathie	0	
-orth	Neuropathie	eng	
+foreign	névrologie	fra	
+entry	Neuropathic	0	
+orth	Neuropathic	eng	
 foreign	névropathique	fra	
 entry	Neurotomy	0	
 orth	Neurotomy	eng	
 foreign	névrotomie	fra	
-entry	Neurypnology	0	
-orth	Neurypnology	eng	
+entry	Neur-ypnology	0	
+orth	Neur-ypnology	eng	
 foreign	hypnotisme	fra	
 entry	Neutral	0	
 orth	Neutral	eng	
 foreign	neutre	fra	
 entry	New disease	0	
 orth	New disease	eng	
-foreign	péripneumonie dans l’espèce bovine	fra	
-entry	New leather Sound	0	
-orth	New leather Sound	eng	
+entry	New leather sound	0	
+orth	New leather sound	eng	
 foreign	bruit de cuir neuf	fra	
 entry	Nicotin	0	
 orth	Nicotin	eng	
 foreign	nicotine	fra	
 entry	Nidulate	0	
 orth	Nidulate	eng	
-foreign	caché comme dans un nid	fra	
 entry	Niger	0	
 orth	Niger	eng	
 foreign	nègre	fra	
@@ -3775,7 +3677,6 @@ entry	Nipple shield	0
 orth	Nipple shield	eng	
 entry	Nirles	0	
 orth	Nirles	eng	
-foreign	herpès phlycténoïde	fra	
 entry	Nitric	0	
 orth	Nitric	eng	
 foreign	nitrique	fra	
@@ -3802,13 +3703,11 @@ orth	Nodose	eng
 foreign	noueux	fra	
 entry	Non-naturals	0	
 orth	Non-naturals	eng	
-foreign	choses non naturelles	fra	
 entry	Nose	0	
 orth	Nose	eng	
 foreign	nez	fra	
 entry	Nosogeny	0	
 orth	Nosogeny	eng	
-foreign	origine des maladies	fra	
 entry	Nosography	0	
 orth	Nosography	eng	
 foreign	nosographie	fra	
@@ -3823,7 +3722,7 @@ orth	Nostrum	eng
 foreign	arcane	fra	
 entry	Notch	0	
 orth	Notch	eng	
-foreign	une dépression	fra	
+foreign	dépression (une)	fra	
 entry	Notched	0	
 orth	Notched	eng	
 foreign	déprimé	fra	
@@ -3833,8 +3732,8 @@ foreign	cellule à noyau	fra
 entry	Nut	0	
 orth	Nut	eng	
 foreign	noix	fra	
-entry	Nutritions	0	
-orth	Nutritions	eng	
+entry	Nutritious	0	
+orth	Nutritious	eng	
 foreign	nourricier	fra	
 entry	Nutritive	0	
 orth	Nutritive	eng	
@@ -3852,13 +3751,13 @@ orth	Oat	eng
 foreign	orge	fra	
 entry	Obcordate	0	
 orth	Obcordate	eng	
-foreign	obeordé	fra	
+foreign	obcordé	fra	
 entry	Obesity	0	
 orth	Obesity	eng	
 foreign	obésité	fra	
 entry	Object glass	0	
 orth	Object glass	eng	
-foreign	l’objectif dans une lunette	fra	
+foreign	objectif (l')	fra	
 entry	Oblivion	0	
 orth	Oblivion	eng	
 foreign	amnésie	fra	
@@ -3867,19 +3766,17 @@ orth	Obovate	eng
 foreign	obové	fra	
 entry	Obsolete	0	
 orth	Obsolete	eng	
-foreign	(en botan.) imparfaitement développé	fra	
 entry	Obstetric	0	
 orth	Obstetric	eng	
 foreign	obstétrique	fra	
 entry	Obstetrics	0	
 orth	Obstetrics	eng	
-foreign	l’obstétrique	fra	
+foreign	obstétrique (l')	fra	
 entry	Obstipation	0	
 orth	Obstipation	eng	
 foreign	constipation	fra	
 entry	Obtundents	0	
 orth	Obtundents	eng	
-foreign	qui a la propriété d’amortir	fra	
 entry	Obtuse	0	
 orth	Obtuse	eng	
 foreign	obtus	fra	
@@ -3903,7 +3800,6 @@ foreign	oculiste	fra
 pb	1775	1789	
 entry	Ocytocic	0	
 orth	Ocytocic	eng	
-foreign	qui accélère l’accouchement	fra	
 entry	Odontalgic	0	
 orth	Odontalgic	eng	
 foreign	odontalgique	fra	
@@ -3924,7 +3820,6 @@ orth	Œsophageal	eng
 foreign	œsophagien	fra	
 entry	Œsophagismus	0	
 orth	Œsophagismus	eng	
-foreign	spasme de l’œsophage	fra	
 entry	Œsophagotomy	0	
 orth	Œsophagotomy	eng	
 foreign	œsophagotomie	fra	
@@ -3949,18 +3844,16 @@ foreign	oléo-résines	fra
 entry	Oleraceous	0	
 orth	Oleraceous	eng	
 foreign	légumineux	fra	
-entry	Oifactory	0	
-orth	Oifactory	eng	
-foreign	quiserapporte à l’odorat	fra	
+entry	Olfactory	0	
+orth	Olfactory	eng	
 entry	Olivaceous	0	
 orth	Olivaceous	eng	
-foreign	de couleur olive	fra	
 entry	Omnivorous	0	
 orth	Omnivorous	eng	
 foreign	omnivore	fra	
 entry	Omphalo-mesenteric	0	
 orth	Omphalo-mesenteric	eng	
-foreign	omphalo- mésentérique	fra	
+foreign	omphalo-mésentérique	fra	
 entry	Omphalotomy	0	
 orth	Omphalotomy	eng	
 foreign	omphalotomie	fra	
@@ -3975,8 +3868,8 @@ foreign	opacité	fra
 entry	Operculate	0	
 orth	Operculate	eng	
 foreign	operculé	fra	
-entry	Ophthalmie	0	
-orth	Ophthalmie	eng	
+entry	Ophthalmic	0	
+orth	Ophthalmic	eng	
 foreign	ophthalmique	fra	
 entry	Ophthalmography	0	
 orth	Ophthalmography	eng	
@@ -3993,9 +3886,9 @@ foreign	obstruction	fra
 entry	Optic	0	
 orth	Optic	eng	
 foreign	optique	fra	
-entry	0ptics	0	
-orth	0ptics	eng	
-foreign	l’optique	fra	
+entry	Optics	0	
+orth	Optics	eng	
+foreign	optique (l')	fra	
 entry	Orbicular	0	
 orth	Orbicular	eng	
 foreign	orbiculaire	fra	
@@ -4005,9 +3898,9 @@ foreign	orbite	fra
 entry	Orbital	0	
 orth	Orbital	eng	
 foreign	orbitaire	fra	
-entry	Orbitar, orbitary	0	
+entry	Orbitar, Orbitary	0	
 orth	Orbitar	eng	
-orth	Orbitary		
+orth	Orbitary	eng	
 foreign	orbitaire	fra	
 entry	Orcheotomy	0	
 orth	Orcheotomy	eng	
@@ -4039,8 +3932,8 @@ foreign	origine	fra
 entry	Ornithology	0	
 orth	Ornithology	eng	
 foreign	ornithologie	fra	
-entry	Orthopedie	0	
-orth	Orthopedie	eng	
+entry	Orthopedic	0	
+orth	Orthopedic	eng	
 foreign	orthopédique	fra	
 entry	Oscheal	0	
 orth	Oscheal	eng	
@@ -4067,26 +3960,22 @@ entry	Osteotomist	0
 orth	Osteotomist	eng	
 entry	Osteotomy	0	
 orth	Osteotomy	eng	
-foreign	section d’un os	fra	
 entry	Otacoustic	0	
 orth	Otacoustic	eng	
 foreign	acoustique	fra	
 entry	Otic	0	
 orth	Otic	eng	
 foreign	otique	fra	
-entry	Otography, otology	0	
+entry	Otography, Otology	0	
 orth	Otography	eng	
-orth	Otology		
-foreign	description de l’oreille	fra	
+orth	Otology	eng	
 entry	Otolith	0	
 orth	Otolith	eng	
 foreign	otolithe	fra	
 entry	Otoplasty	0	
 orth	Otoplasty	eng	
-foreign	restauration de l’oreille externe	fra	
 entry	Ototomy	0	
 orth	Ototomy	eng	
-foreign	dissection de f oreille	fra	
 entry	Ounce	0	
 orth	Ounce	eng	
 foreign	once	fra	
@@ -4111,8 +4000,8 @@ foreign	ovo-vivipare	fra
 entry	Oxacid	0	
 orth	Oxacid	eng	
 foreign	oxacide	fra	
-entry	Oxalie acid	0	
-orth	Oxalie acid	eng	
+entry	Oxalic acid	0	
+orth	Oxalic acid	eng	
 foreign	acide oxalique	fra	
 entry	Oxygen	0	
 orth	Oxygen	eng	
@@ -4131,19 +4020,16 @@ orth	Packing-stick	eng
 foreign	garrot	fra	
 entry	Pad	0	
 orth	Pad	eng	
-foreign	coussin pour les fractures	fra	
 entry	Pædo-nosology	0	
 orth	Pædo-nosology	eng	
-foreign	étude des maladies des enfants	fra	
 entry	Pain	0	
 orth	Pain	eng	
 foreign	douleur	fra	
 entry	Pains	0	
 orth	Pains	eng	
-foreign	douleurs de l’enfantement	fra	
+foreign	douleurs	fra	
 entry	Pains (after)	0	
 orth	Pains (after)	eng	
-foreign	tranchées qui suivent l’accouchement	fra	
 entry	Paint	0	
 orth	Paint	eng	
 foreign	fard	fra	
@@ -4164,7 +4050,7 @@ orth	Palmar	eng
 foreign	palmaire	fra	
 entry	Palmar arch	0	
 orth	Palmar arch	eng	
-foreign	l’arcade palmaire	fra	
+foreign	arcade palmaire (l')	fra	
 entry	Palmate	0	
 orth	Palmate	eng	
 foreign	palmé	fra	
@@ -4182,22 +4068,20 @@ orth	Pancreatic	eng
 foreign	pancréatique	fra	
 entry	Pancreatoid	0	
 orth	Pancreatoid	eng	
-foreign	pancréatoide	fra	
-entry	Pandemie	0	
-orth	Pandemie	eng	
+foreign	pancréatoïde	fra	
+entry	Pandemic	0	
+orth	Pandemic	eng	
 foreign	pandémique	fra	
 entry	Panduriform	0	
 orth	Panduriform	eng	
-foreign	en forme de violon	fra	
 entry	Panicle	0	
 orth	Panicle	eng	
 foreign	panicule	fra	
-entry	Panicula te	0	
-orth	Panicula te	eng	
+entry	Paniculate	0	
+orth	Paniculate	eng	
 foreign	paniculé	fra	
 entry	Pantagogue	0	
 orth	Pantagogue	eng	
-foreign	qui évacue toutes les humeurs	fra	
 entry	Panting	0	
 orth	Panting	eng	
 foreign	essoufflement	fra	
@@ -4220,7 +4104,7 @@ orth	Paregoric	eng
 foreign	parégorique	fra	
 entry	Parotid gland	0	
 orth	Parotid gland	eng	
-foreign	laparotïde	fra	
+foreign	parotide (la)	fra	
 entry	Paroxysm	0	
 orth	Paroxysm	eng	
 foreign	paroxysme	fra	
@@ -4229,10 +4113,8 @@ orth	Partite	eng
 foreign	divisé	fra	
 entry	Parturient	0	
 orth	Parturient	eng	
-foreign	en parturition	fra	
 entry	Parturifacient	0	
 orth	Parturifacient	eng	
-foreign	qui active l’accouchement	fra	
 entry	Passive	0	
 orth	Passive	eng	
 foreign	passif	fra	
@@ -4265,13 +4147,11 @@ orth	Pearl	eng
 foreign	perle	fra	
 entry	Pearlash	0	
 orth	Pearlash	eng	
-foreign	un carbonate impur de potasse	fra	
 entry	Pearl white	0	
 orth	Pearl white	eng	
-foreign	le sous-nitrate de bismuth	fra	
 entry	Pectic acid	0	
 orth	Pectic acid	eng	
-foreign	acide pectiquc	fra	
+foreign	acide pectique	fra	
 entry	Pectinate	0	
 orth	Pectinate	eng	
 foreign	pectine	fra	
@@ -4292,13 +4172,12 @@ orth	Peduncle	eng
 foreign	pédoncule	fra	
 entry	Pedunculate	0	
 orth	Pedunculate	eng	
-foreign	pédoncule	fra	
+foreign	pédonculé	fra	
 entry	Pellicie	0	
 orth	Pellicie	eng	
 foreign	pellicule	fra	
 entry	Pelvic	0	
 orth	Pelvic	eng	
-foreign	qui appartient au bassin	fra	
 entry	Pelvi-trochanteric	0	
 orth	Pelvi-trochanteric	eng	
 entry	Pelvimeter	0	
@@ -4312,7 +4191,7 @@ orth	Penetrating	eng
 foreign	pénétrant	fra	
 entry	Penicilliform	0	
 orth	Penicilliform	eng	
-foreign	pénicilli forme	fra	
+foreign	pénicilliforme	fra	
 entry	Penniform	0	
 orth	Penniform	eng	
 foreign	penniforme	fra	
@@ -4327,7 +4206,6 @@ orth	Peracute	eng
 foreign	suraigu	fra	
 entry	Percolation	0	
 orth	Percolation	eng	
-foreign	sécrétion animale	fra	
 entry	Perennial	0	
 orth	Perennial	eng	
 foreign	vivace	fra	
@@ -4389,7 +4267,7 @@ orth	Pertussis	eng
 foreign	coqueluche	fra	
 entry	Peruvian bark	0	
 orth	Peruvian bark	eng	
-foreign	écorce pér uvienne	fra	
+foreign	écorce péruvienne	fra	
 entry	Pessary	0	
 orth	Pessary	eng	
 foreign	pessaire	fra	
@@ -4414,19 +4292,18 @@ orth	Petrous ganglion	eng
 foreign	ganglion pétreux	fra	
 entry	Pewter	0	
 orth	Pewter	eng	
-foreign	alliage d’antimoine et d’étain	fra	
 entry	Peyer’s glands	0	
 orth	Peyer’s glands	eng	
 foreign	glande de Peyer	fra	
-entry	Plianerogamous	0	
-orth	Plianerogamous	eng	
+entry	Phanerogamous	0	
+orth	Phanerogamous	eng	
 foreign	phanérogame	fra	
 entry	Pharmaceutic	0	
 orth	Pharmaceutic	eng	
 foreign	pharmaceutique	fra	
 entry	Pharmacodynamics	0	
 orth	Pharmacodynamics	eng	
-foreign	la pharmaco­dynamique	fra	
+foreign	pharmaco­dynamique (la)	fra	
 entry	Pharmacology	0	
 orth	Pharmacology	eng	
 foreign	pharmacologie	fra	
@@ -4444,7 +4321,7 @@ orth	Phenomena	eng
 foreign	phénomènes	fra	
 entry	Phlebolite	0	
 orth	Phlebolite	eng	
-foreign	phlêbolilh'e	fra	
+foreign	phlébolithe	fra	
 entry	Phlebotomy	0	
 orth	Phlebotomy	eng	
 foreign	phlébotomie	fra	
@@ -4453,7 +4330,6 @@ orth	Phlegm	eng
 foreign	phlegme	fra	
 entry	Phlegmonoid	0	
 orth	Phlegmonoid	eng	
-foreign	ressemblant auphleg- ' mon	fra	
 entry	Phlegmonous	0	
 orth	Phlegmonous	eng	
 foreign	phlegmoneux	fra	
@@ -4502,22 +4378,21 @@ foreign	phthisiologie	fra
 entry	Phylactery	0	
 orth	Phylactery	eng	
 foreign	amulette	fra	
-entry	Physic, physical	0	
+entry	Physic, Physical	0	
 orth	Physic	eng	
-orth	Physical		
+orth	Physical	eng	
 foreign	physique	fra	
 entry	Physician	0	
 orth	Physician	eng	
 foreign	médecin	fra	
 entry	Physics	0	
 orth	Physics	eng	
-foreign	la physique	fra	
-entry	Physiognomj	0	
-orth	Physiognomj	eng	
+foreign	physique (la)	fra	
+entry	Physiognomy	0	
+orth	Physiognomy	eng	
 foreign	physionomie	fra	
 entry	Phytography	0	
 orth	Phytography	eng	
-foreign	description des plantes	fra	
 entry	Phytology	0	
 orth	Phytology	eng	
 foreign	phytologie	fra	
@@ -4526,13 +4401,13 @@ orth	Phytotomy	eng
 foreign	phytotomie	fra	
 entry	Picric acid	0	
 orth	Picric acid	eng	
-foreign	l’acide picrique	fra	
+foreign	acide picrique (l')	fra	
 entry	Picrin	0	
 orth	Picrin	eng	
 foreign	picrine	fra	
 entry	Picrotoxin	0	
 orth	Picrotoxin	eng	
-foreign	picro toxine	fra	
+foreign	picrotoxine	fra	
 entry	Pigment cells	0	
 orth	Pigment cells	eng	
 foreign	cellules du pigment	fra	
@@ -4574,17 +4449,16 @@ orth	Pisiform	eng
 foreign	pisiforme	fra	
 entry	Pistilliferous	0	
 orth	Pistilliferous	eng	
-foreign	qui porte un pistil	fra	
-entry	Pitof thestomach	0	
-orth	Pitof thestomach	eng	
-foreign	l’épigastre	fra	
+entry	Pit of the stomach	0	
+orth	Pit of the stomach	eng	
+foreign	épigastre (l')	fra	
 entry	Pituitary	0	
 orth	Pituitary	eng	
 foreign	pituitaire	fra	
-entry	Pituitary body, pituitary gland	0	
+entry	Pituitary body, Pituitary gland	0	
 orth	Pituitary body	eng	
-orth	Pituitary gland		
-foreign	la glande pituitaire	fra	
+orth	Pituitary gland	eng	
+foreign	glande pituitaire (la)	fra	
 entry	Placebo	0	
 orth	Placebo	eng	
 entry	Plague	0	
@@ -4601,8 +4475,8 @@ foreign	plante	fra
 entry	Plantar	0	
 orth	Plantar	eng	
 foreign	plantaire	fra	
-entry	Piaster	0	
-orth	Piaster	eng	
+entry	Plaster	0	
+orth	Plaster	eng	
 foreign	emplâtre	fra	
 entry	Plastic	0	
 orth	Plastic	eng	
@@ -4613,8 +4487,8 @@ foreign	plumasseau	fra
 entry	Pleurisy	0	
 orth	Pleurisy	eng	
 foreign	pleurésie	fra	
-entry	Pleximeler	0	
-orth	Pleximeler	eng	
+entry	Pleximeter	0	
+orth	Pleximeter	eng	
 foreign	plessimètre	fra	
 entry	Plicated	0	
 orth	Plicated	eng	
@@ -4636,25 +4510,20 @@ orth	Pneumatic trough	eng
 foreign	cuve pneumatique	fra	
 entry	Pneumatics	0	
 orth	Pneumatics	eng	
-foreign	la théorie des fluides élastiques	fra	
 entry	Pneumogastric	0	
 orth	Pneumogastric	eng	
 foreign	pneumogastrique	fra	
 entry	Pneumography	0	
 orth	Pneumography	eng	
-foreign	description des poumons	fra	
 entry	Pneumology	0	
 orth	Pneumology	eng	
-foreign	traité sur les poumons	fra	
-entry	Pneumonie	0	
-orth	Pneumonie	eng	
+entry	Pneumonic	0	
+orth	Pneumonic	eng	
 foreign	pneumonique	fra	
 entry	Pneumonitic	0	
 orth	Pneumonitic	eng	
-foreign	se rapportant à la pneumonie	fra	
 entry	Pneumotomy	0	
 orth	Pneumotomy	eng	
-foreign	dissection des poumons	fra	
 entry	Pod	0	
 orth	Pod	eng	
 foreign	silique	fra	
@@ -4667,12 +4536,11 @@ foreign	polarité	fra
 entry	Polarized	0	
 orth	Polarized	eng	
 foreign	polarisé	fra	
-entry	Polymerie	0	
-orth	Polymerie	eng	
+entry	Polymeric	0	
+orth	Polymeric	eng	
 foreign	polymérique	fra	
 entry	Polyplastic	0	
 orth	Polyplastic	eng	
-foreign	passant par plusieurs formes	fra	
 entry	Polypoid	0	
 orth	Polypoid	eng	
 foreign	polypoïde	fra	
@@ -4687,15 +4555,14 @@ orth	Porcate	eng
 foreign	sillonné	fra	
 entry	Porcelainous	0	
 orth	Porcelainous	eng	
-foreign	ayant l’aspect de la porcelaine	fra	
 entry	Porosity	0	
 orth	Porosity	eng	
 foreign	porosité	fra	
 entry	Porotic	0	
 orth	Porotic	eng	
 foreign	porotique	fra	
-entry	Portai blood 	0	
-orth	Portai blood 	eng	
+entry	Portal blood 	0	
+orth	Portal blood	eng	
 foreign	sang de la veine porte	fra	
 entry	Positive	0	
 orth	Positive	eng	
@@ -4705,7 +4572,6 @@ orth	Posology	eng
 foreign	posologie	fra	
 entry	Posset	0	
 orth	Posset	eng	
-foreign	lait avec du vin	fra	
 entry	Potash	0	
 orth	Potash	eng	
 foreign	potasse	fra	
@@ -4726,8 +4592,8 @@ foreign	cataplasme	fra
 entry	Powder	0	
 orth	Powder	eng	
 foreign	poudre	fra	
-entry	Power (tonie)	0	
-orth	Power (tonie)	eng	
+entry	Power (tonic)	0	
+orth	Power (tonic)	eng	
 foreign	irritabilité	fra	
 entry	Pox (French)	0	
 orth	Pox (French)	eng	
@@ -4752,7 +4618,6 @@ orth	Pregnancy	eng
 foreign	grossesse	fra	
 entry	Prehensile	0	
 orth	Prehensile	eng	
-foreign	adapté pour saisir	fra	
 entry	Prelumbar	0	
 orth	Prelumbar	eng	
 foreign	prélombaire	fra	
@@ -4770,7 +4635,6 @@ orth	Prickle	eng
 foreign	aiguillon	fra	
 entry	Prickly	0	
 orth	Prickly	eng	
-foreign	garni d’un aiguillon	fra	
 entry	Prickly heat	0	
 orth	Prickly heat	eng	
 foreign	lichen tropicus	fra	
@@ -4785,7 +4649,7 @@ orth	Prism	eng
 foreign	prisme	fra	
 entry	Probang	0	
 orth	Probang	eng	
-foreign	baleine qu’on introduit dans l’œsophage	fra	
+foreign	baleine	fra	
 entry	Probe	0	
 orth	Probe	eng	
 foreign	sonde	fra	
@@ -4831,7 +4695,6 @@ orth	Prostrate	eng
 foreign	déprimé	fra	
 entry	Proteinous	0	
 orth	Proteinous	eng	
-foreign	qui tient à la protéine	fra	
 entry	Protid	0	
 orth	Protid	eng	
 entry	Protopathic	0	
@@ -4842,7 +4705,6 @@ orth	Protosalt	eng
 foreign	protosel	fra	
 entry	Proximate	0	
 orth	Proximate	eng	
-foreign	le plus prochain en ordre	fra	
 entry	Proximate cause	0	
 orth	Proximate cause	eng	
 foreign	cause prochaine	fra	
@@ -4863,7 +4725,6 @@ orth	Psoric	eng
 foreign	psorique	fra	
 entry	Psychagogues	0	
 orth	Psychagogues	eng	
-foreign	médicaments qui rappellent les sens	fra	
 entry	Psychical	0	
 orth	Psychical	eng	
 foreign	psychique	fra	
@@ -4882,12 +4743,11 @@ foreign	ptyalisme	fra
 entry	Puberty	0	
 orth	Puberty	eng	
 foreign	puberté	fra	
-entry	P ubic	0	
-orth	P ubic	eng	
+entry	Pubic	0	
+orth	Pubic	eng	
 foreign	pubien	fra	
 entry	Pudic	0	
 orth	Pudic	eng	
-foreign	qui se rapporte au pudendum	fra	
 entry	Puffiness	0	
 orth	Puffiness	eng	
 foreign	boursouflement	fra	
@@ -4906,12 +4766,11 @@ foreign	pulpeux	fra
 entry	Pulsative	0	
 orth	Pulsative	eng	
 foreign	pulsatif	fra	
-entry	Puise	0	
-orth	Puise	eng	
+entry	Pulse	0	
+orth	Pulse	eng	
 foreign	pouls	fra	
 entry	Pulselessness	0	
 orth	Pulselessness	eng	
-foreign	absence de pouls	fra	
 entry	Pultaceous	0	
 orth	Pultaceous	eng	
 foreign	pultacé	fra	
@@ -4929,7 +4788,7 @@ orth	Pungent	eng
 foreign	piquant	fra	
 entry	Pupil	0	
 orth	Pupil	eng	
-foreign	la pupille	fra	
+foreign	pupille (la)	fra	
 pb	1777	1791	
 entry	Purblindness	0	
 orth	Purblindness	eng	
@@ -4939,10 +4798,9 @@ orth	Purgative	eng
 foreign	purgatif	fra	
 entry	Purge	0	
 orth	Purge	eng	
-foreign	un purgatif	fra	
+foreign	purgatif (un)	fra	
 entry	Purging	0	
 orth	Purging	eng	
-foreign	qui purge	fra	
 entry	Puriform	0	
 orth	Puriform	eng	
 foreign	puriforme	fra	
@@ -4951,7 +4809,7 @@ orth	Purple	eng
 foreign	pourpre	fra	
 entry	Purples	0	
 orth	Purples	eng	
-foreign	le pourpre	fra	
+foreign	pourpre (le)	fra	
 foreign	purpura hœmorrhagica	fra	
 entry	Purring tremor	0	
 orth	Purring tremor	eng	
@@ -4967,9 +4825,9 @@ orth	Putrid	eng
 foreign	putride	fra	
 entry	Pyloric	0	
 orth	Pyloric	eng	
-foreign	pylori que	fra	
-entry	Pyogenie	0	
-orth	Pyogenie	eng	
+foreign	pylorique	fra	
+entry	Pyogenic	0	
+orth	Pyogenic	eng	
 foreign	pyogénique	fra	
 entry	Pyopoietic	0	
 orth	Pyopoietic	eng	
@@ -5062,8 +4920,8 @@ foreign	rameux	fra
 entry	Rancidity	0	
 orth	Rancidity	eng	
 foreign	rancidité	fra	
-entry	Râpe	0	
-orth	Râpe	eng	
+entry	Rape	0	
+orth	Rape	eng	
 foreign	viol	fra	
 entry	Rash	0	
 orth	Rash	eng	
@@ -5073,7 +4931,6 @@ orth	Raspberry	eng
 foreign	framboisier	fra	
 entry	Raspsound	0	
 orth	Raspsound	eng	
-foreign	bruit de râpe	fra	
 entry	Rational treatment	0	
 orth	Rational treatment	eng	
 foreign	traitement rationnel	fra	
@@ -5082,7 +4939,7 @@ orth	Rattle	eng
 foreign	râle	fra	
 entry	Rattles	0	
 orth	Rattles	eng	
-foreign	râle des agonisants	fra	
+foreign	râle	fra	
 entry	Rattlesnake	0	
 orth	Rattlesnake	eng	
 foreign	serpent à sonnettes	fra	
@@ -5097,7 +4954,6 @@ orth	Receiver	eng
 foreign	récipient	fra	
 entry	Reclination	0	
 orth	Reclination	eng	
-foreign	abaissement de la cataracte	fra	
 entry	Recrementitial	0	
 orth	Recrementitial	eng	
 foreign	recrémentitiel	fra	
@@ -5115,7 +4971,7 @@ orth	Reflexed	eng
 foreign	réfléchi	fra	
 entry	Refrigeratory	0	
 orth	Refrigeratory	eng	
-foreign	le réfrigérant	fra	
+foreign	réfrigérant (le)	fra	
 entry	Regular	0	
 orth	Regular	eng	
 foreign	régulier	fra	
@@ -5124,7 +4980,6 @@ orth	Relapse	eng
 foreign	rechute	fra	
 entry	Relaxation	0	
 orth	Relaxation	eng	
-foreign	diminution de la tonicité	fra	
 entry	Remedy	0	
 orth	Remedy	eng	
 foreign	remède	fra	
@@ -5134,15 +4989,14 @@ foreign	fièvre rémittente	fra
 entry	Remote	0	
 orth	Remote	eng	
 foreign	éloigné	fra	
-foreign	en parlant des causes	fra	
 entry	Repellent	0	
 orth	Repellent	eng	
 foreign	répercussif	fra	
 entry	Replicate	0	
 orth	Replicate	eng	
 foreign	replié	fra	
-entry	Resm	0	
-orth	Resm	eng	
+entry	Resin	0	
+orth	Resin	eng	
 foreign	résine	fra	
 entry	Resolvent	0	
 orth	Resolvent	eng	
@@ -5157,7 +5011,6 @@ entry	Resuscitation	0
 orth	Resuscitation	eng	
 entry	Retching	0	
 orth	Retching	eng	
-foreign	effort pour vomir non suivi d’effet	fra	
 entry	Reticular	0	
 orth	Reticular	eng	
 foreign	réticulaire	fra	
@@ -5169,7 +5022,6 @@ orth	Retort	eng
 foreign	cornue	fra	
 entry	Retrocedent	0	
 orth	Retrocedent	eng	
-foreign	qui rentre en dedans	fra	
 entry	Revellent	0	
 orth	Revellent	eng	
 foreign	révulsif	fra	
@@ -5188,9 +5040,8 @@ foreign	rhumatisme	fra
 entry	Rhinoplastic	0	
 orth	Rhinoplastic	eng	
 foreign	rhinoplastique	fra	
-entry	Rhinorrbaphy	0	
-orth	Rhinorrbaphy	eng	
-foreign	suture du nez	fra	
+entry	Rhinorrhaphy	0	
+orth	Rhinorrhaphy	eng	
 entry	Rhomb	0	
 orth	Rhomb	eng	
 foreign	rhombe	fra	
@@ -5208,7 +5059,6 @@ orth	Rib	eng
 foreign	côte	fra	
 entry	Ribless	0	
 orth	Ribless	eng	
-foreign	sans force	fra	
 entry	Rice	0	
 orth	Rice	eng	
 foreign	riz	fra	
@@ -5226,10 +5076,8 @@ orth	Roborant	eng
 foreign	fortifiant	fra	
 entry	Rod-shaped	0	
 orth	Rod-shaped	eng	
-foreign	en forme de verge	fra	
 entry	Roller	0	
 orth	Roller	eng	
-foreign	bande roulée	fra	
 entry	Root	0	
 orth	Root	eng	
 foreign	racine	fra	
@@ -5253,7 +5101,6 @@ orth	Rosy-drop	eng
 foreign	acme rosacea	fra	
 entry	Rotaceous	0	
 orth	Rotaceous	eng	
-foreign	en forme de roue	fra	
 entry	Round	0	
 orth	Round	eng	
 foreign	rond	fra	
@@ -5299,7 +5146,7 @@ orth	Sacro-ischiatic	eng
 foreign	sacro-ischiatique	fra	
 entry	Sacro-sciatic ligaments	0	
 orth	Sacro-sciatic ligaments	eng	
-foreign	ligament» sacro-sciatiques	fra	
+foreign	ligaments sacro-sciatiques	fra	
 entry	Saffron	0	
 orth	Saffron	eng	
 foreign	safran	fra	
@@ -5318,14 +5165,14 @@ foreign	chorée	fra
 entry	Saline	0	
 orth	Saline	eng	
 foreign	salin	fra	
-entry	Salivai	0	
-orth	Salivai	eng	
+entry	Salival	0	
+orth	Salival	eng	
 foreign	salivaire	fra	
 entry	Salivary	0	
 orth	Salivary	eng	
 foreign	salivaire	fra	
-entry	Sait	0	
-orth	Sait	eng	
+entry	Salt	0	
+orth	Salt	eng	
 foreign	sel	fra	
 entry	Saltpetre	0	
 orth	Saltpetre	eng	
@@ -5342,8 +5189,8 @@ foreign	hypocratériforme	fra
 entry	Sanable	0	
 orth	Sanable	eng	
 foreign	curable	fra	
-entry	Sa native	0	
-orth	Sa native	eng	
+entry	Sanative	0	
+orth	Sanative	eng	
 foreign	curatif	fra	
 entry	Sand-bath	0	
 orth	Sand-bath	eng	
@@ -5383,7 +5230,6 @@ orth	Saw	eng
 foreign	scie	fra	
 entry	Scab	0	
 orth	Scab	eng	
-foreign	croûte qui recouvre les ulcères	fra	
 entry	Scabious	0	
 orth	Scabious	eng	
 foreign	scabieux	fra	
@@ -5417,7 +5263,7 @@ foreign	scapulaire	fra
 pb	1778	1792	
 entry	Scapulary	0	
 orth	Scapulary	eng	
-foreign	un scapulaire	fra	
+foreign	scapulaire (un)	fra	
 entry	Scar	0	
 orth	Scar	eng	
 foreign	cicatrice	fra	
@@ -5426,7 +5272,6 @@ orth	Scarlet fever	eng
 foreign	scarlatine	fra	
 entry	Scarred	0	
 orth	Scarred	eng	
-foreign	marqué de cicatrices	fra	
 entry	Sciatic	0	
 orth	Sciatic	eng	
 foreign	sciatique	fra	
@@ -5441,7 +5286,7 @@ orth	Sclerotic	eng
 foreign	sclérotique	fra	
 entry	Sclerotic coat	0	
 orth	Sclerotic coat	eng	
-foreign	la sclérotique	fra	
+foreign	sclérotique (la)	fra	
 entry	Scoop	0	
 orth	Scoop	eng	
 entry	Scorbutic	0	
@@ -5449,14 +5294,11 @@ orth	Scorbutic	eng
 foreign	scorbutique	fra	
 entry	Scrobiculate	0	
 orth	Scrobiculate	eng	
-foreign	qui a des creux	fra	
-foreign	des pertuis	fra	
 entry	Scrofulous	0	
 orth	Scrofulous	eng	
 foreign	scrofuleux	fra	
 entry	Scrotiform	0	
 orth	Scrotiform	eng	
-foreign	en forme de scrotum	fra	
 entry	Scurf	0	
 orth	Scurf	eng	
 foreign	furfur	fra	
@@ -5472,19 +5314,16 @@ orth	Scutiform	eng
 foreign	scutiforme	fra	
 entry	Scymetar-shape	0	
 orth	Scymetar-shape	eng	
-foreign	en forme de cimeterre	fra	
 entry	Scyphiform	0	
 orth	Scyphiform	eng	
-foreign	en forme de gobelet	fra	
 entry	Sea	0	
 orth	Sea	eng	
-foreign	la mer	fra	
+foreign	mer (la)	fra	
 entry	Sealed earth	0	
 orth	Sealed earth	eng	
 foreign	terre sigillée	fra	
 entry	Searching	0	
 orth	Searching	eng	
-foreign	action de sonder	fra	
 entry	Sebaceous	0	
 orth	Sebaceous	eng	
 foreign	sébacé	fra	
@@ -5501,13 +5340,12 @@ orth	Secundines	eng
 foreign	secondines	fra	
 entry	Securiform	0	
 orth	Securiform	eng	
-foreign	en forme de hache	fra	
 entry	Sedative	0	
 orth	Sedative	eng	
 foreign	sédatif	fra	
 entry	Sedative sait	0	
 orth	Sedative sait	eng	
-foreign	l’acide boracique	fra	
+foreign	acide boracique (l')	fra	
 entry	Seed	0	
 orth	Seed	eng	
 foreign	graine	fra	
@@ -5522,16 +5360,16 @@ orth	Seed-vessel	eng
 foreign	péricarpe	fra	
 entry	Seeds (cold)	0	
 orth	Seeds (cold)	eng	
-foreign	les semences froides	fra	
+foreign	semences froides (les)	fra	
 entry	Seeds (hot)	0	
 orth	Seeds (hot)	eng	
-foreign	les semences chaudes	fra	
+foreign	semences chaudes (les)	fra	
 entry	Segmoid valves	0	
 orth	Segmoid valves	eng	
 foreign	valvules de l’artère pulmonaire	fra	
 entry	Semeiotics	0	
 orth	Semeiotics	eng	
-foreign	la sémiotique	fra	
+foreign	sémiotique (la)	fra	
 entry	Semi-amplexicaul	0	
 orth	Semi-amplexicaul	eng	
 foreign	semi-amplexicaule	fra	
@@ -5552,7 +5390,7 @@ orth	Semi-orbicular	eng
 foreign	semi-orbiculaire	fra	
 entry	Senses	0	
 orth	Senses	eng	
-foreign	les sens	fra	
+foreign	sens (les)	fra	
 entry	Sensibility	0	
 orth	Sensibility	eng	
 foreign	sensibilité	fra	
@@ -5579,7 +5417,6 @@ orth	Serous	eng
 foreign	séreux	fra	
 entry	Serrate	0	
 orth	Serrate	eng	
-foreign	en scie	fra	
 entry	Sesamoid	0	
 orth	Sesamoid	eng	
 foreign	sésamoïde	fra	
@@ -5588,7 +5425,6 @@ orth	Setaceous	eng
 foreign	sétacé	fra	
 entry	Setiform	0	
 orth	Setiform	eng	
-foreign	en forme de soie	fra	
 entry	Setous	0	
 orth	Setous	eng	
 foreign	soyeux	fra	
@@ -5632,7 +5468,6 @@ orth	Sherbet	eng
 foreign	sorbet	fra	
 entry	Shin	0	
 orth	Shin	eng	
-foreign	la partie antérieure du tibia	fra	
 entry	Shingles	0	
 orth	Shingles	eng	
 foreign	herpès zoster	fra	
@@ -5645,10 +5480,11 @@ orth	Shortsightedness	eng
 foreign	myopie	fra	
 entry	Shoulder-blade	0	
 orth	Shoulder-blade	eng	
-foreign	l’omoplate	fra	
-entry	Show, shows	0	
+foreign	omoplate (l')	fra	
+entry	Show, Shows	0	
 orth	Show	eng	
-orth	Shows		
+orth	Shows	eng	
+foreign	marquer	fra	
 entry	Shower-bath	0	
 orth	Shower-bath	eng	
 foreign	douche	fra	
@@ -5685,7 +5521,6 @@ foreign	nyctalopie	fra
 entry	Sight (lateral)	0	
 orth	Sight (lateral)	eng	
 foreign	dysopie	fra	
-foreign	difficulté de voir	fra	
 entry	Sigmoid	0	
 orth	Sigmoid	eng	
 foreign	sigmoïde	fra	
@@ -5712,24 +5547,22 @@ orth	Sinus	eng
 foreign	sinus	fra	
 entry	Sitiology	0	
 orth	Sitiology	eng	
-foreign	théorie des aliments	fra	
 entry	Size	0	
 orth	Size	eng	
 foreign	colle	fra	
-foreign	couenne du sang	fra	
+foreign	couenne	fra	
 entry	Skeleton	0	
 orth	Skeleton	eng	
 foreign	squelette	fra	
 entry	Skin	0	
 orth	Skin	eng	
 foreign	peau	fra	
-entry	Skin, scarf	0	
+entry	Skin, Scarf	0	
 orth	Skin	eng	
-orth	Scarf		
+orth	Scarf	eng	
 foreign	épiderme	fra	
 entry	Skin-bound disease	0	
 orth	Skin-bound disease	eng	
-foreign	endurcissement du tissu cellulaire	fra	
 entry	Skull	0	
 orth	Skull	eng	
 foreign	crâne	fra	
@@ -5750,7 +5583,6 @@ orth	Sloe	eng
 foreign	prunier sauvage	fra	
 entry	Slough	0	
 orth	Slough	eng	
-foreign	eschare humide	fra	
 entry	Small-pox	0	
 orth	Small-pox	eng	
 foreign	variole	fra	
@@ -5786,10 +5618,9 @@ orth	Soft	eng
 foreign	mou	fra	
 entry	Soft palate	0	
 orth	Soft palate	eng	
-foreign	le voile du palais	fra	
+foreign	voile (le)	fra	
 entry	Soft soap	0	
 orth	Soft soap	eng	
-foreign	savon dont la potasse est la base	fra	
 entry	Softening	0	
 orth	Softening	eng	
 foreign	ramollissement	fra	
@@ -5798,10 +5629,10 @@ orth	Solar	eng
 foreign	solaire	fra	
 entry	Sole	0	
 orth	Sole	eng	
-foreign	la plante du pied	fra	
+foreign	plante (la)	fra	
 entry	Solid	0	
 orth	Solid	eng	
-foreign	un solide	fra	
+foreign	solide (un)	fra	
 entry	Solidism	0	
 orth	Solidism	eng	
 foreign	solidisme	fra	
@@ -5810,9 +5641,9 @@ orth	Solutive	eng
 foreign	laxatif	fra	
 entry	Solvent	0	
 orth	Solvent	eng	
-foreign	un menstrue	fra	
-entry	Somalie	0	
-orth	Somalie	eng	
+foreign	menstrue (un)	fra	
+entry	Somatic	0	
+orth	Somatic	eng	
 foreign	somatique	fra	
 entry	Somatology	0	
 orth	Somatology	eng	
@@ -5841,22 +5672,20 @@ foreign	ulcère	fra
 foreign	excoriation	fra	
 entry	Sore mouth	0	
 orth	Sore mouth	eng	
-foreign	gangrènedelabouche	fra	
+foreign	gangrène de la bouche	fra	
 entry	Sore throat	0	
 orth	Sore throat	eng	
 foreign	angine	fra	
 entry	Soreness	0	
 orth	Soreness	eng	
-foreign	sensibilité douloureuse d’une partie	fra	
 entry	Sound	0	
 orth	Sound	eng	
 foreign	sonde	fra	
 entry	Sound	0	
 orth	Sound	eng	
-foreign	un son	fra	
+foreign	son (un)	fra	
 entry	Sounding	0	
 orth	Sounding	eng	
-foreign	action de sonder	fra	
 entry	Sow	0	
 orth	Sow	eng	
 foreign	truie	fra	
@@ -5871,7 +5700,6 @@ orth	Spasmodic	eng
 foreign	spasmodique	fra	
 entry	Spasmology	0	
 orth	Spasmology	eng	
-foreign	théorie des connut sions	fra	
 entry	Spastic	0	
 orth	Spastic	eng	
 foreign	spasmodique	fra	
@@ -5881,8 +5709,8 @@ foreign	spatulé	fra
 entry	Species	0	
 orth	Species	eng	
 foreign	espèce	fra	
-entry	Specifie	0	
-orth	Specifie	eng	
+entry	Specific	0	
+orth	Specific	eng	
 foreign	spécifique	fra	
 entry	Spectacles	0	
 orth	Spectacles	eng	
@@ -5890,19 +5718,18 @@ foreign	lunettes	fra
 entry	Speech	0	
 orth	Speech	eng	
 foreign	parole	fra	
-entry	SpeechlessnesS	0	
-orth	SpeechlessnesS	eng	
+entry	Speechlessness	0	
+orth	Speechlessness	eng	
 foreign	aphonie	fra	
-entry	Speltre, spelter	0	
+entry	Speltre, Spelter	0	
 orth	Speltre	eng	
-orth	Spelter		
+orth	Spelter	eng	
 foreign	zinc	fra	
 entry	Spermatic	0	
 orth	Spermatic	eng	
 foreign	spermatique	fra	
 entry	Spermatopoietic	0	
 orth	Spermatopoietic	eng	
-foreign	qui fait le sperme	fra	
 entry	Spermatozoon	0	
 orth	Spermatozoon	eng	
 foreign	spermatozoaire	fra	
@@ -5923,16 +5750,16 @@ orth	Spices	eng
 foreign	épices	fra	
 entry	Spikelet	0	
 orth	Spikelet	eng	
-foreign	un épillet	fra	
+foreign	épillet (un)	fra	
 entry	Spike-stalk	0	
 orth	Spike-stalk	eng	
 foreign	rachis	fra	
 entry	Spinal cord	0	
 orth	Spinal cord	eng	
-foreign	la moelle épinière	fra	
+foreign	moelle épinière (la)	fra	
 entry	Spine	0	
 orth	Spine	eng	
-foreign	l’épine (vertébrale)	fra	
+foreign	épine (vertébrale) (l')	fra	
 entry	Spinous	0	
 orth	Spinous	eng	
 foreign	épineux	fra	
@@ -5948,7 +5775,6 @@ orth	Spirit (rectified)	eng
 foreign	alcool	fra	
 entry	Spirit of bone	0	
 orth	Spirit of bone	eng	
-foreign	liqueur volatile di corne de cerf	fra	
 entry	Spiroid canal	0	
 orth	Spiroid canal	eng	
 foreign	aqueduc de Fallope	fra	
@@ -5958,15 +5784,15 @@ foreign	spiromètre	fra
 entry	Spit	0	
 orth	Spit	eng	
 foreign	crachat	fra	
-entry	Spitting ofblood	0	
-orth	Spitting ofblood	eng	
+entry	Spitting of blood	0	
+orth	Spitting of blood	eng	
 foreign	hémoptysie	fra	
 pb	1779	1793	
 entry	Spittle	0	
 orth	Spittle	eng	
 foreign	salive	fra	
-entry	Splanclinic	0	
-orth	Splanclinic	eng	
+entry	Splanchnic	0	
+orth	Splanchnic	eng	
 foreign	splanchnique	fra	
 entry	Splanchnography	0	
 orth	Splanchnography	eng	
@@ -5976,29 +5802,26 @@ orth	Splanchnology	eng
 foreign	splanchnologie	fra	
 entry	Splanchnopathy	0	
 orth	Splanchnopathy	eng	
-foreign	affection des intestins	fra	
 entry	Spleen	0	
 orth	Spleen	eng	
 foreign	rate	fra	
 foreign	hypochondrie	fra	
-entry	Splenetie	0	
-orth	Splenetie	eng	
+entry	Splenetic	0	
+orth	Splenetic	eng	
 foreign	splénétique	fra	
-entry	Splenie	0	
-orth	Splenie	eng	
+entry	Splenic	0	
+orth	Splenic	eng	
 foreign	splénique	fra	
 entry	Splint	0	
 orth	Splint	eng	
 foreign	attelle	fra	
 entry	Splint-bone	0	
 orth	Splint-bone	eng	
-foreign	le péroné	fra	
+foreign	péroné (le)	fra	
 entry	Split-cloth	0	
 orth	Split-cloth	eng	
-foreign	bandage à six ou huit chefs	fra	
 entry	Sponge-tent	0	
 orth	Sponge-tent	eng	
-foreign	éponge préparée	fra	
 entry	Spongoid	0	
 orth	Spongoid	eng	
 foreign	spongoïde	fra	
@@ -6034,7 +5857,6 @@ orth	Spurious	eng
 foreign	faux	fra	
 entry	Spurred	0	
 orth	Spurred	eng	
-foreign	qui a un éperon	fra	
 entry	Spurred rye	0	
 orth	Spurred rye	eng	
 foreign	seigle ergoté	fra	
@@ -6057,31 +5879,29 @@ entry	Staff	0
 orth	Staff	eng	
 entry	Stage	0	
 orth	Stage	eng	
-foreign	période d’une maladie	fra	
+foreign	période	fra	
 entry	Staphylorrhaphy	0	
 orth	Staphylorrhaphy	eng	
 foreign	staphylorrhaphie	fra	
 entry	Sternutatory	0	
 orth	Sternutatory	eng	
 foreign	sternutatoire	fra	
-entry	Sthenie	0	
-orth	Sthenie	eng	
+entry	Sthenic	0	
+orth	Sthenic	eng	
 foreign	sthénique	fra	
 entry	Stibious	0	
 orth	Stibious	eng	
 foreign	antimonial	fra	
 entry	Still	0	
 orth	Still	eng	
-foreign	appareil de distillation	fra	
 entry	Stillate	0	
 orth	Stillate	eng	
-foreign	un liquide distillé	fra	
 entry	Stipular	0	
 orth	Stipular	eng	
 foreign	stipulaire	fra	
 entry	Stitch	0	
 orth	Stitch	eng	
-foreign	point de côté	fra	
+foreign	point	fra	
 entry	Stocking (laced)	0	
 orth	Stocking (laced)	eng	
 foreign	bas lacé	fra	
@@ -6110,7 +5930,6 @@ orth	Strangury	eng
 foreign	strangurie	fra	
 entry	Strap-shaped	0	
 orth	Strap-shaped	eng	
-foreign	en forme de ligule	fra	
 entry	Straw	0	
 orth	Straw	eng	
 foreign	paille	fra	
@@ -6132,15 +5951,14 @@ orth	Stump	eng
 foreign	moignon	fra	
 entry	Stunned	0	
 orth	Stunned	eng	
-foreign	qui a éprouvé une commotion au cerveau	fra	
 entry	Stupefacient	0	
 orth	Stupefacient	eng	
 foreign	stupéfiant	fra	
 entry	Stuttering	0	
 orth	Stuttering	eng	
-foreign	bégaiement	fra	
-entry	Stylifonn	0	
-orth	Stylifonn	eng	
+foreign	bégayement	fra	
+entry	Styliform	0	
+orth	Styliform	eng	
 foreign	styliforme	fra	
 entry	Stylo-mastoid	0	
 orth	Stylo-mastoid	eng	
@@ -6150,13 +5968,12 @@ orth	Stylo-maxillary	eng
 foreign	stylo-maxillaire	fra	
 entry	Styloid	0	
 orth	Styloid	eng	
-foreign	styloide	fra	
+foreign	styloïde	fra	
 entry	Styptic	0	
 orth	Styptic	eng	
 foreign	styptique	fra	
 entry	Subcartilaginous	0	
 orth	Subcartilaginous	eng	
-foreign	presque cartilagineux	fra	
 entry	Subclavian	0	
 orth	Subclavian	eng	
 foreign	sous-clavière	fra	
@@ -6270,7 +6087,6 @@ orth	Suppository	eng
 foreign	suppositoire	fra	
 entry	Suppressed menses	0	
 orth	Suppressed menses	eng	
-foreign	suppression des menstrues	fra	
 entry	Suppuratives	0	
 orth	Suppuratives	eng	
 foreign	suppuratifs	fra	
@@ -6287,7 +6103,6 @@ orth	Suspended animation	eng
 foreign	asphyxie	fra	
 entry	Suspensory	0	
 orth	Suspensory	eng	
-foreign	ce qui suspend	fra	
 foreign	suspensoire	fra	
 entry	Sweat	0	
 orth	Sweat	eng	
@@ -6345,10 +6160,8 @@ orth	Syndesmology	eng
 foreign	syndesmologie	fra	
 entry	Synosteology	0	
 orth	Synosteology	eng	
-foreign	traité des articulations	fra	
-entry	Synpsteotomy	0	
-orth	Synpsteotomy	eng	
-foreign	dissection des articulations	fra	
+entry	Synosteotomy	0	
+orth	Synosteotomy	eng	
 entry	Syphiloid	0	
 orth	Syphiloid	eng	
 foreign	syphiloïde	fra	
@@ -6357,14 +6170,15 @@ orth	Syrup	eng
 foreign	sirop	fra	
 entry	Systatic	0	
 orth	Systatic	eng	
+foreign	associé	fra	
 entry	System	0	
 orth	System	eng	
 foreign	système	fra	
 entry	Systemic circulation	0	
 orth	Systemic circulation	eng	
+foreign	circulation	fra	
 entry	Tabid	0	
 orth	Tabid	eng	
-foreign	qui est en consomption	fra	
 entry	Taciturnity	0	
 orth	Taciturnity	eng	
 foreign	taciturnité	fra	
@@ -6387,7 +6201,6 @@ orth	Tar	eng
 foreign	goudron	fra	
 entry	Target-shaped	0	
 orth	Target-shaped	eng	
-foreign	en forme de bouclier	fra	
 entry	Tarsal	0	
 orth	Tarsal	eng	
 foreign	tarsien	fra	
@@ -6411,7 +6224,7 @@ orth	Tear	eng
 foreign	larme	fra	
 entry	Teat	0	
 orth	Teat	eng	
-foreign	le mamelon	fra	
+foreign	mamelon (le)	fra	
 entry	Teeth, Tooth	0	
 orth	Teeth	eng	
 orth	Tooth	eng	
@@ -6442,15 +6255,14 @@ orth	Tent	eng
 foreign	tente	fra	
 entry	Tent-sponge	0	
 orth	Tent-sponge	eng	
-foreign	éponge préparée	fra	
 entry	Teratology	0	
 orth	Teratology	eng	
 foreign	tératologie	fra	
 entry	Ternary	0	
 orth	Ternary	eng	
 foreign	ternaire	fra	
-entry	Tefnate	0	
-orth	Tefnate	eng	
+entry	Ternate	0	
+orth	Ternate	eng	
 foreign	terné	fra	
 entry	Tertian ague	0	
 orth	Tertian ague	eng	
@@ -6470,8 +6282,8 @@ foreign	testacé	fra
 entry	Testicle	0	
 orth	Testicle	eng	
 foreign	testile	fra	
-entry	Tetanie	0	
-orth	Tetanie	eng	
+entry	Tetanic	0	
+orth	Tetanic	eng	
 foreign	tétanique	fra	
 entry	Tetanine	0	
 orth	Tetanine	eng	
@@ -6485,8 +6297,8 @@ foreign	psoriasis	fra
 entry	Tetter (humid)	0	
 orth	Tetter (humid)	eng	
 foreign	impétigo	fra	
-entry	Thea	0	
-orth	Thea	eng	
+entry	TheaTea	0	
+orth	Tea	eng	
 foreign	thé	fra	
 entry	Theory	0	
 orth	Theory	eng	
@@ -6499,7 +6311,6 @@ orth	Thermometer	eng
 foreign	thermomètre	fra	
 entry	Thieves’ vinegar	0	
 orth	Thieves’ vinegar	eng	
-foreign	vinaigre des quatre voleurs	fra	
 entry	Thigh	0	
 orth	Thigh	eng	
 foreign	cuisse	fra	
@@ -6536,13 +6347,12 @@ foreign	bruissement	fra
 foreign	frémissement	fra	
 entry	Throat	0	
 orth	Throat	eng	
-foreign	la partie anterieure du cou	fra	
 entry	Thrush	0	
 orth	Thrush	eng	
 foreign	aphthes	fra	
-entry	Thyroid, thyreoid	0	
+entry	Thyroid, Thyreoid	0	
 orth	Thyroid	eng	
-orth	Thyreoid		
+orth	Thyreoid	lat	
 foreign	thyréoïde	fra	
 entry	Tickling	0	
 orth	Tickling	eng	
@@ -6580,16 +6390,15 @@ entry	Tongue (black)	0
 orth	Tongue (black)	eng	
 entry	Tongue-shaped	0	
 orth	Tongue-shaped	eng	
-foreign	en forme de langue	fra	
-entry	Tonie	0	
-orth	Tonie	eng	
+entry	Tonic	0	
+orth	Tonic	eng	
 foreign	tonique	fra	
 entry	Tonicity	0	
 orth	Tonicity	eng	
 foreign	tonicité	fra	
 entry	Tonics	0	
 orth	Tonics	eng	
-foreign	les toniques	fra	
+foreign	toniques (les)	fra	
 entry	Tonsil	0	
 orth	Tonsil	eng	
 foreign	amygdale	fra	
@@ -6601,7 +6410,6 @@ orth	Tooth-rash	eng
 foreign	strophulus	fra	
 entry	Tooth-shaped	0	
 orth	Tooth-shaped	eng	
-foreign	en forme de dent	fra	
 entry	Tophaceous	0	
 orth	Tophaceous	eng	
 foreign	tophacé	fra	
@@ -6610,11 +6418,11 @@ orth	Topical	eng
 foreign	topique	fra	
 entry	Touch	0	
 orth	Touch	eng	
-foreign	le toucher	fra	
-foreign	le tact	fra	
+foreign	toucher (le)	fra	
+foreign	tact (le)	fra	
 entry	Touch-me-not	0	
 orth	Touch-me-not	eng	
-foreign	noli me tangere	fra	
+foreign	noli me tangere	lat	
 entry	Touchwood	0	
 orth	Touchwood	eng	
 foreign	amadou	fra	
@@ -6644,13 +6452,10 @@ orth	Trefoil	eng
 foreign	trèfle	fra	
 entry	Trembles	0	
 orth	Trembles	eng	
-foreign	le milk sickness	fra	
 entry	Trepanning	0	
 orth	Trepanning	eng	
-foreign	action de trépaner	fra	
 entry	Trephining	0	
 orth	Trephining	eng	
-foreign	emploi de la tréphme	fra	
 entry	Trial	0	
 orth	Trial	eng	
 foreign	essai	fra	
@@ -6672,8 +6477,8 @@ foreign	trocart	fra
 entry	Trochanterian	0	
 orth	Trochanterian	eng	
 foreign	trochantérien	fra	
-entry	True. 	0	
-orth	True. 	eng	
+entry	True	0	
+orth	True	eng	
 foreign	vrai	fra	
 entry	Truffle	0	
 orth	Truffle	eng	
@@ -6692,7 +6497,7 @@ orth	Tubular	eng
 foreign	tubulaire	fra	
 entry	Tubulated	0	
 orth	Tubulated	eng	
-foreign	tubulè	fra	
+foreign	tubulé	fra	
 entry	Tunic	0	
 orth	Tunic	eng	
 foreign	tunique	fra	
@@ -6735,8 +6540,8 @@ foreign	ulmine	fra
 entry	Ulnar	0	
 orth	Ulnar	eng	
 foreign	cubital	fra	
-entry	Ulotie	0	
-orth	Ulotie	eng	
+entry	Ulotic	0	
+orth	Ulotic	eng	
 foreign	cicatrisant	fra	
 entry	Umbel	0	
 orth	Umbel	eng	
@@ -6767,7 +6572,6 @@ orth	United	eng
 foreign	uni	fra	
 entry	Uraniscoplasty	0	
 orth	Uraniscoplasty	eng	
-foreign	restauration du voile du palais	fra	
 entry	Uraniscorrhaphy	0	
 orth	Uraniscorrhaphy	eng	
 foreign	staphylorrhaphie	fra	
@@ -6776,12 +6580,11 @@ orth	Urceolate	eng
 foreign	urcéolé	fra	
 entry	Urethroplasty	0	
 orth	Urethroplasty	eng	
-foreign	restauration de l’urèthre	fra	
 entry	Uric acid	0	
 orth	Uric acid	eng	
 foreign	acide urique	fra	
-entry	Urinai	0	
-orth	Urinai	eng	
+entry	Urinal	0	
+orth	Urinal	eng	
 foreign	urinoir	fra	
 entry	Urinary	0	
 orth	Urinary	eng	
@@ -6797,7 +6600,6 @@ orth	Urolith	eng
 foreign	calcul urinaire	fra	
 entry	Uropoietic	0	
 orth	Uropoietic	eng	
-foreign	qui fait l’urine	fra	
 entry	Urous acid	0	
 orth	Urous acid	eng	
 foreign	oxyde urique	fra	
@@ -6818,7 +6620,6 @@ orth	Vaccinic acid	eng
 foreign	acide vaccinique	fra	
 entry	Vagino-hysterotomy	0	
 orth	Vagino-hysterotomy	eng	
-foreign	incision du vagin et de l’utérus	fra	
 entry	Valerian	0	
 orth	Valerian	eng	
 foreign	valériane	fra	
@@ -6836,11 +6637,10 @@ orth	Vaporisation	eng
 foreign	vaporisation	fra	
 entry	Vapors	0	
 orth	Vapors	eng	
-foreign	les vapeurs	fra	
-foreign	hypochon? drie	fra	
+foreign	vapeurs (les)	fra	
+foreign	hypochondrie	fra	
 entry	Variciform	0	
 orth	Variciform	eng	
-foreign	ressemblant à une varice	fra	
 entry	Varicose	0	
 orth	Varicose	eng	
 foreign	variqueux	fra	
@@ -6858,7 +6658,6 @@ orth	Vault	eng
 foreign	voûte	fra	
 entry	Vaulted	0	
 orth	Vaulted	eng	
-foreign	en voûte	fra	
 entry	Veal skin	0	
 orth	Veal skin	eng	
 foreign	vitiligo	fra	
@@ -6892,9 +6691,8 @@ foreign	saignée	fra
 entry	Venom	0	
 orth	Venom	eng	
 foreign	poison	fra	
-entry	Venons hum	0	
-orth	Venons hum	eng	
-foreign	bruit de diable	fra	
+entry	Venous hum	0	
+orth	Venous hum	eng	
 entry	Ventricle	0	
 orth	Ventricle	eng	
 foreign	ventricule	fra	
@@ -6951,7 +6749,6 @@ orth	Vidian nerve	eng
 foreign	nerf vidien	fra	
 entry	Vigilance	0	
 orth	Vigilance	eng	
-foreign	état de veille prolongée	fra	
 entry	Villous	0	
 orth	Villous	eng	
 foreign	villeux	fra	
@@ -6993,7 +6790,7 @@ orth	Voltaic pile	eng
 foreign	pile de Volta	fra	
 entry	Voltaism	0	
 orth	Voltaism	eng	
-foreign	voltaisme	fra	
+foreign	voltaïsme	fra	
 entry	Voluntary	0	
 orth	Voluntary	eng	
 foreign	volontaire	fra	
@@ -7006,13 +6803,13 @@ foreign	vulnéraire	fra
 entry	Vulvo-uterine canal	0	
 orth	Vulvo-uterine canal	eng	
 foreign	vagin	fra	
+pb	1781	1795	
 entry	Waistcoat (strait)	0	
 orth	Waistcoat (strait)	eng	
 foreign	gilet de force	fra	
 entry	Wakefulness	0	
 orth	Wakefulness	eng	
 foreign	insomnie	fra	
-pb	1781	1795	
 entry	Wart	0	
 orth	Wart	eng	
 foreign	verrue	fra	
@@ -7024,7 +6821,6 @@ orth	Wash	eng
 foreign	lotion	fra	
 entry	Washerwoman’s scale	0	
 orth	Washerwoman’s scale	eng	
-foreign	variété de psoriasis diffus	fra	
 entry	Wasting	0	
 orth	Wasting	eng	
 foreign	dépérissement	fra	
@@ -7067,21 +6863,18 @@ orth	Web-eye	eng
 foreign	caligo	fra	
 entry	Wen	0	
 orth	Wen	eng	
-entry	Wharton’sduct	0	
-orth	Wharton’sduct	eng	
+foreign	tanne	fra	
+entry	Wharton’s duct	0	
+orth	Wharton’s duct	eng	
 foreign	canal de Wharton	fra	
 entry	Wheal	0	
 orth	Wheal	eng	
-foreign	élevure à la peau	fra	
 entry	Wheel-shaped	0	
 orth	Wheel-shaped	eng	
-foreign	en forme de roue	fra	
 entry	Wheezing	0	
 orth	Wheezing	eng	
-foreign	respiration sifflante	fra	
 entry	Whelk	0	
 orth	Whelk	eng	
-foreign	petit tubercule qui ne suppure pas	fra	
 entry	Whey	0	
 orth	Whey	eng	
 foreign	petit-lait	fra	
@@ -7090,7 +6883,6 @@ orth	White gum	eng
 foreign	strophulus	fra	
 entry	White leg	0	
 orth	White leg	eng	
-foreign	phlegmatia alba dolens	fra	
 entry	White of the eye	0	
 orth	White of the eye	eng	
 foreign	blanc de l’œil	fra	
@@ -7143,7 +6935,6 @@ orth	Wood	eng
 foreign	bois	fra	
 entry	Woods	0	
 orth	Woods	eng	
-foreign	les bois sudorifiques	fra	
 entry	Woolly	0	
 orth	Woolly	eng	
 foreign	laineux	fra	
@@ -7196,7 +6987,7 @@ orth	Xanthophyll	eng
 foreign	xanthophylle	fra	
 entry	Xipboid	0	
 orth	Xipboid	eng	
-foreign	xiphoide	fra	
+foreign	xiphoïde	fra	
 entry	Yawning	0	
 orth	Yawning	eng	
 foreign	bâillement	fra	
@@ -7211,7 +7002,6 @@ orth	Yellow fever	eng
 foreign	fièvre jaune	fra	
 entry	Yellow-wash	0	
 orth	Yellow-wash	eng	
-foreign	lotion où entre le sublimé corrosif	fra	
 entry	Yoked	0	
 orth	Yoked	eng	
 foreign	conjugué	fra	

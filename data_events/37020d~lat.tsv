@@ -42,9 +42,9 @@ foreign	avortement	fra
 entry	Abrasio	0	
 orth	Abrasio	lat	
 foreign	abrasion	fra	
-entry	Abrotonum, abrotonus	0	
+entry	Abrotonum, Abrotonus	0	
 orth	Abrotonum	lat	
-orth	Abrotonus		
+orth	Abrotonus	lat	
 foreign	aurone	fra	
 entry	Abruptio	0	
 orth	Abruptio	lat	
@@ -90,7 +90,6 @@ orth	Acarus subcutaneus	lat
 foreign	ciron de la gale	fra	
 entry	Acataposis	0	
 orth	Acataposis	lat	
-foreign	impossibilité d’avaler	fra	
 entry	Acceleratio	0	
 orth	Acceleratio	lat	
 foreign	accélération	fra	
@@ -118,9 +117,9 @@ foreign	érable	fra
 entry	Acer	0	
 orth	Acer	lat	
 foreign	âcre	fra	
-entry	Acerbitas, acerbitudo	0	
+entry	Acerbitas, Acerbitudo	0	
 orth	Acerbitas	lat	
-orth	Acerbitudo		
+orth	Acerbitudo	lat	
 foreign	âcreté	fra	
 entry	Acerbus	0	
 orth	Acerbus	lat	
@@ -132,7 +131,7 @@ orth	Acescens	lat
 foreign	acescent	fra	
 entry	Acetabulum	0	
 orth	Acetabulum	lat	
-foreign	cotyle [mesure)	fra	
+foreign	cotyle (mesure)	fra	
 foreign	cavité	fra	
 entry	Acetum	0	
 orth	Acetum	lat	
@@ -157,13 +156,12 @@ orth	Acies vespertina (Fel. Plater)	lat
 foreign	nyctalopie	fra	
 entry	Acinaciformis	0	
 orth	Acinaciformis	lat	
-foreign	en forme de cimeterre	fra	
 entry	Acinesia	0	
 orth	Acinesia	lat	
 foreign	acinésie	fra	
 entry	Acinosa tunica	0	
 orth	Acinosa tunica	lat	
-foreign	l’uvée	fra	
+foreign	uvée (l')	fra	
 entry	Acinus	0	
 orth	Acinus	lat	
 foreign	grain	fra	
@@ -176,7 +174,7 @@ orth	Acmastica febris	lat
 foreign	fièvre synoque	fra	
 entry	Acme	0	
 orth	Acme	lat	
-foreign	summum d’une maladie	fra	
+foreign	summum	fra	
 entry	Acologia	0	
 orth	Acologia	lat	
 foreign	doctrine des remèdes	fra	
@@ -185,7 +183,6 @@ orth	Aconitum	lat
 foreign	aconit	fra	
 entry	Acopa	0	
 orth	Acopa	lat	
-foreign	remèdes qui raniment les forces	fra	
 entry	Acor	0	
 orth	Acor	lat	
 foreign	aigreur	fra	
@@ -242,9 +239,8 @@ foreign	acoustique	fra
 entry	Acutus	0	
 orth	Acutus	lat	
 foreign	aigu	fra	
-entry	Ayesis	0	
-orth	Ayesis	lat	
-foreign	stérilité chez la femme	fra	
+entry	Acyesis	0	
+orth	Acyesis	lat	
 entry	Adamas	0	
 orth	Adamas	lat	
 foreign	aimant	fra	
@@ -285,7 +281,7 @@ foreign	os adjuteur	fra
 foreign	humérus	fra	
 entry	Adnata tunica	0	
 orth	Adnata tunica	lat	
-foreign	la conjonctive	fra	
+foreign	conjonctive (la)	fra	
 entry	Adolescentia	0	
 orth	Adolescentia	lat	
 foreign	adolescence	fra	
@@ -312,23 +308,23 @@ orth	Adynamia	lat
 foreign	adynamie	fra	
 entry	Ædœographia	0	
 orth	Ædœographia	lat	
-foreign	œdœographie	fra	
+foreign	ædœographie	fra	
 entry	Ædœologia	0	
 orth	Ædœologia	lat	
-foreign	œdœologie	fra	
+foreign	ædœologie	fra	
 entry	Æger	0	
 orth	Æger	lat	
 foreign	malade	fra	
-entry	Ægias, ægis	0	
+entry	Ægias, Ægis	0	
 orth	Ægias	lat	
-orth	Ægis		
+orth	Ægis	lat	
 foreign	taie	fra	
 entry	Ægilops	0	
 orth	Ægilops	lat	
-foreign	œgilops	fra	
+foreign	ægilops	fra	
 entry	Ægoceros	0	
 orth	Ægoceros	lat	
-foreign	fenugreç	fra	
+foreign	fenugrec	fra	
 entry	Ægritudo	0	
 orth	Ægritudo	lat	
 foreign	maladie	fra	
@@ -350,19 +346,20 @@ orth	Aeromeli	lat
 entry	Aerophobia	0	
 orth	Aerophobia	lat	
 foreign	aérophobie	fra	
-entry	Ærugineus, æruginosus	0	
+entry	Ærugineus, Æruginosus	0	
 orth	Ærugineus	lat	
-orth	Æruginosus		
+orth	Æruginosus	lat	
 foreign	érugineux	fra	
 entry	Ærugo	0	
 orth	Ærugo	lat	
 foreign	rouille de cuivre	fra	
 foreign	verdet	fra	
-foreign	V. cuivre	fra	
+entry	Æs	0	
+orth	Æs	lat	
+foreign	cuivre	fra	
 pb	1708	1722	
 entry	Æsculus	0	
 orth	Æsculus	lat	
-foreign	sorte de chêne	fra	
 entry	Æstheterium	0	
 orth	Æstheterium	lat	
 foreign	sens	fra	
@@ -384,7 +381,6 @@ orth	Æther	lat
 foreign	éther	fra	
 entry	Æthiops	0	
 orth	Æthiops	lat	
-foreign	poudre noi^e	fra	
 entry	Æthusa	0	
 orth	Æthusa	lat	
 foreign	petite ciguë	fra	
@@ -393,10 +389,10 @@ orth	Ætiologia	lat
 foreign	étiologie	fra	
 entry	Aetites	0	
 orth	Aetites	lat	
-foreign	aélite	fra	
-entry	Affectio, affectus	0	
+foreign	aétite	fra	
+entry	Affectio, Affectus	0	
 orth	Affectio	lat	
-orth	Affectus		
+orth	Affectus	lat	
 foreign	affection	fra	
 entry	Affinitas	0	
 orth	Affinitas	lat	
@@ -442,9 +438,9 @@ foreign	stérilité	fra
 entry	Agonus	0	
 orth	Agonus	lat	
 foreign	stérile	fra	
-entry	Agrifolium, aquifolium	0	
+entry	Agrifolium, Aquifolium	0	
 orth	Agrifolium	lat	
-orth	Aquifolium		
+orth	Aquifolium	spa	
 foreign	houx	fra	
 entry	Agrimonia	0	
 orth	Agrimonia	lat	
@@ -476,22 +472,22 @@ entry	Ala	0
 orth	Ala	lat	
 foreign	aisselle	fra	
 foreign	aile	fra	
-entry	Alabastrum, alabastrites	0	
+entry	Alabastrum, Alabastrites	0	
 orth	Alabastrum	lat	
-orth	Alabastrites		
+orth	Alabastrites	lat	
 foreign	albâtre	fra	
 entry	Alares musculi	0	
 orth	Alares musculi	lat	
-foreign	ptéry gordiens	fra	
+foreign	ptérygoïdiens	fra	
 entry	Alaria ossa	0	
 orth	Alaria ossa	lat	
-foreign	apophyses ptéry g dides	fra	
+foreign	apophyses ptérygoïdes	fra	
 entry	Alatus	0	
 orth	Alatus	lat	
 foreign	ailé	fra	
 entry	Albugineus	0	
 orth	Albugineus	lat	
-foreign	albugine	fra	
+foreign	albuginé	fra	
 entry	Album canis	0	
 orth	Album canis	lat	
 foreign	excrément de chien	fra	
@@ -501,7 +497,6 @@ foreign	blanc de l’œil	fra
 entry	Album Rhasis	0	
 orth	Album Rhasis	lat	
 foreign	blanc de Rhazès	fra	
-foreign	sorte d’onguent	fra	
 entry	Albumen	0	
 orth	Albumen	lat	
 foreign	albumine	fra	
@@ -510,7 +505,7 @@ orth	Alburnum	lat
 foreign	aubier	fra	
 entry	Alcea	0	
 orth	Alcea	lat	
-foreign	dlcée	fra	
+foreign	alcée	fra	
 entry	Alectorius lapis	0	
 orth	Alectorius lapis	lat	
 entry	Alectorolophis	0	
@@ -525,13 +520,13 @@ foreign	amulette	fra
 entry	Alexipharmacus	0	
 orth	Alexipharmacus	lat	
 foreign	alexipharmaque	fra	
-entry	Alexipyreticus, alexipyretus	0	
+entry	Alexipyreticus, Alexipyretus	0	
 orth	Alexipyreticus	lat	
-orth	Alexipyretus		
+orth	Alexipyretus	lat	
 foreign	alexipyrétique	fra	
-entry	Aiga	0	
-orth	Aiga	lat	
-foreign	aigue	fra	
+entry	Alga	0	
+orth	Alga	lat	
+foreign	algue	fra	
 entry	Algida febris	0	
 orth	Algida febris	lat	
 foreign	fièvre algide	fra	
@@ -544,14 +539,13 @@ foreign	alibile	fra
 foreign	nutritif	fra	
 entry	Alica	0	
 orth	Alica	lat	
-foreign	sorte de gruau	fra	
-entry	Alienatio mentis^	0	
-orth	Alienatio mentis^	lat	
+entry	Alienatio mentis	0	
+orth	Alienatio mentis	lat	
 foreign	aliénation	fra	
 foreign	manie	fra	
 entry	Aliformes musculi	0	
 orth	Aliformes musculi	lat	
-foreign	ptéry goïdiens	fra	
+foreign	ptérygoïdiens	fra	
 entry	Alimentum	0	
 orth	Alimentum	lat	
 foreign	aliment	fra	
@@ -559,11 +553,9 @@ entry	Alindesis	0
 orth	Alindesis	lat	
 entry	Alipta	0	
 orth	Alipta	lat	
-foreign	celui qui fait des onctions	fra	
 entry	Alisma	0	
 orth	Alisma	lat	
 foreign	flûteau	fra	
-foreign	plante	fra	
 entry	Alites	0	
 orth	Alites	lat	
 foreign	oiseaux	fra	
@@ -582,7 +574,6 @@ foreign	allotriophagie	fra
 entry	Alnus	0	
 orth	Alnus	lat	
 foreign	aune	fra	
-foreign	arbre	fra	
 entry	Aloe	0	
 orth	Aloe	lat	
 foreign	aloès	fra	
@@ -592,21 +583,19 @@ foreign	alogotrophie	fra
 entry	Alopecia	0	
 orth	Alopecia	lat	
 foreign	alopécie	fra	
-entry	Alosa, alausa	0	
+entry	Alosa, Alausa	0	
 orth	Alosa	lat	
-orth	Alausa		
+orth	Alausa	lat	
 foreign	alose	fra	
 entry	Alphitedon	0	
 orth	Alphitedon	lat	
 foreign	alphitédon	fra	
-foreign	se dit d’une fracture comminutive	fra	
 entry	Alphus	0	
 orth	Alphus	lat	
 foreign	alphos	fra	
 entry	Alsine	0	
 orth	Alsine	lat	
 foreign	morgeline	fra	
-foreign	plante	fra	
 entry	Alterans	0	
 orth	Alterans	lat	
 foreign	altérant	fra	
@@ -635,12 +624,12 @@ entry	Alveus ampullascens	0
 orth	Alveus ampullascens	lat	
 entry	Alviduca	0	
 orth	Alviduca	lat	
-foreign	les purgatifs	fra	
+foreign	purgatifs (les)	fra	
 entry	Alvinus	0	
 orth	Alvinus	lat	
 foreign	alvin	fra	
-entry	Al vi profluvium	0	
-orth	Al vi profluvium	lat	
+entry	Alvi profluvium	0	
+orth	Alvi profluvium	lat	
 foreign	cours de ventre	fra	
 entry	Alvus	0	
 orth	Alvus	lat	
@@ -650,13 +639,12 @@ orth	Alysmus	lat
 foreign	anxiété	fra	
 entry	Amaracum	0	
 orth	Amaracum	lat	
-foreign	espèce de marjolaine	fra	
 entry	Amarantus	0	
 orth	Amarantus	lat	
 foreign	amarante	fra	
-entry	Amaritudo, amaror	0	
+entry	Amaritudo, Amaror	0	
 orth	Amaritudo	lat	
-orth	Amaror		
+orth	Amaror	lat	
 foreign	amertume	fra	
 entry	Amarus	0	
 orth	Amarus	lat	
@@ -664,8 +652,8 @@ foreign	amer	fra
 entry	Amatoria febris	0	
 orth	Amatoria febris	lat	
 foreign	chlorose	fra	
-entry	Amatorii musculi (Casserius)	0	
-orth	Amatorii musculi (Casserius)	lat	
+entry	Amatorii musculi (Cassérius)	0	
+orth	Amatorii musculi (Cassérius)	lat	
 foreign	muscles obliques de l’œil	fra	
 entry	Amaurosis	0	
 orth	Amaurosis	lat	
@@ -689,8 +677,8 @@ orth	Ambulo, onis	lat
 entry	Ambustio	0	
 orth	Ambustio	lat	
 foreign	brûlure	fra	
-entry	Amenorrhoea	0	
-orth	Amenorrhoea	lat	
+entry	Amenorrhœa	0	
+orth	Amenorrhœa	lat	
 foreign	aménorrhée	fra	
 entry	Amentia	0	
 orth	Amentia	lat	
@@ -700,8 +688,6 @@ orth	Amentum	lat
 foreign	chaton	fra	
 entry	Amethysta	0	
 orth	Amethysta	lat	
-foreign	médicaments	fra	
-foreign	remèdes contre l’ivresse	fra	
 entry	Amiantus	0	
 orth	Amiantus	lat	
 foreign	amiante	fra	
@@ -735,7 +721,6 @@ orth	Amphiblestroides	lat
 foreign	amphiblestroïde	fra	
 entry	Amphibranchia	0	
 orth	Amphibranchia	lat	
-foreign	les parties autour des amygdales	fra	
 entry	Amphismile	0	
 orth	Amphismile	lat	
 foreign	couteau à deux tranchants	fra	
@@ -744,7 +729,7 @@ orth	Amphora	lat
 foreign	vase à deux anses	fra	
 entry	Amplexicaulis	0	
 orth	Amplexicaulis	lat	
-foreign	amplexicaulc	fra	
+foreign	amplexicaule	fra	
 entry	Ampulla	0	
 orth	Ampulla	lat	
 foreign	fiole	fra	
@@ -757,8 +742,9 @@ foreign	amulette	fra
 entry	Amurca	0	
 orth	Amurca	lat	
 foreign	marc d’huile	fra	
-entry	Amygdala et amygdalum	0	
-orth	Amygdala et amygdalum	lat	
+entry	Amygdala, Amygdalum	0	
+orth	Amygdala	lat	
+orth	Amygdalum	lat	
 foreign	amande	fra	
 entry	Amygdalæ	0	
 orth	Amygdalæ	lat	
@@ -781,14 +767,13 @@ foreign	anabrose	fra
 entry	Anacatharsis	0	
 orth	Anacatharsis	lat	
 foreign	expectoration	fra	
-foreign	évacuation par le haut	fra	
 entry	Anacatharticus	0	
 orth	Anacatharticus	lat	
 foreign	anacathartique	fra	
 entry	Anacollema	0	
 orth	Anacollema	lat	
-entry	Anâctorion	0	
-orth	Anâctorion	lat	
+entry	Anactorion	0	
+orth	Anactorion	lat	
 foreign	glaïeul	fra	
 entry	Anadiplosis	0	
 orth	Anadiplosis	lat	
@@ -803,7 +788,7 @@ orth	Anagallis	lat
 foreign	mouron	fra	
 entry	Analeptica	0	
 orth	Analeptica	lat	
-foreign	les analeptiquue	fra	
+foreign	analeptiques (les)	fra	
 entry	Analogismus	0	
 orth	Analogismus	lat	
 foreign	raisonnement par analogie	fra	
@@ -825,7 +810,6 @@ orth	Anaplerosis	lat
 foreign	réplétion	fra	
 entry	Anarrhopia	0	
 orth	Anarrhopia	lat	
-foreign	fluxion vers le haut	fra	
 entry	Anas	0	
 orth	Anas	lat	
 foreign	canard	fra	
@@ -837,13 +821,12 @@ orth	Anastomosis	lat
 foreign	anastomose	fra	
 entry	Anastomotica	0	
 orth	Anastomotica	lat	
-foreign	médicaments qui ouvrent lespores	fra	
 entry	Anastrophe	0	
 orth	Anastrophe	lat	
 foreign	inversion	fra	
-entry	Anatome, anatomia	0	
+entry	Anatome, Anatomia	0	
 orth	Anatome	lat	
-orth	Anatomia		
+orth	Anatomia	lat	
 foreign	anatomie	fra	
 entry	Anaudia	0	
 orth	Anaudia	lat	
@@ -860,12 +843,12 @@ foreign	buglosse	fra
 entry	Ancon	0	
 orth	Ancon	lat	
 foreign	coude	fra	
-entry	Anderes	0	
-orth	Anderes	lat	
+entry	Ancteres	0	
+orth	Ancteres	lat	
 foreign	boucles	fra	
 entry	Ancyle	0	
 orth	Ancyle	lat	
-foreign	ankylosé	fra	
+foreign	ankylose	fra	
 entry	Ancyloblepharum	0	
 orth	Ancyloblepharum	lat	
 foreign	occlusion des paupières	fra	
@@ -875,13 +858,13 @@ foreign	difficulté de parler	fra
 pb	1709	1723	
 entry	Ancylosis	0	
 orth	Ancylosis	lat	
-foreign	ankylosé	fra	
+foreign	ankylose	fra	
 entry	Ancylotomus	0	
 orth	Ancylotomus	lat	
-foreign	an cy latome	fra	
+foreign	ancylotome	fra	
 entry	Ancyroides	0	
 orth	Ancyroides	lat	
-foreign	ancyrdide	fra	
+foreign	ancyroïde	fra	
 entry	Androgynus	0	
 orth	Androgynus	lat	
 foreign	androgyne	fra	
@@ -901,7 +884,6 @@ orth	Anethum	lat
 foreign	fenouil	fra	
 entry	Aneticus	0	
 orth	Aneticus	lat	
-foreign	où il y a rémission	fra	
 entry	Aneurysma	0	
 orth	Aneurysma	lat	
 foreign	anévrysme	fra	
@@ -922,7 +904,7 @@ orth	Angiotomia	lat
 foreign	angiotomie	fra	
 entry	Anglicus sudor	0	
 orth	Anglicus sudor	lat	
-foreign	suetle	fra	
+foreign	suette	fra	
 entry	Angor	0	
 orth	Angor	lat	
 foreign	angoisse	fra	
@@ -937,9 +919,9 @@ entry	Angulus	0
 orth	Angulus	lat	
 foreign	coin	fra	
 foreign	angle	fra	
-entry	Angustatio, angustia	0	
+entry	Angustatio, Angustia	0	
 orth	Angustatio	lat	
-orth	Angustia		
+orth	Angustia	lat	
 foreign	angustie	fra	
 entry	Anhelatio	0	
 orth	Anhelatio	lat	
@@ -963,10 +945,10 @@ foreign	animation	fra
 entry	Animi deliquium	0	
 orth	Animi deliquium	lat	
 foreign	lipothymie	fra	
-entry	Ani scalptor musculus, Ani scalptorlatissimus	0	
+entry	Ani scalptor musculus, Ani scalptor latissimus	0	
 orth	Ani scalptor musculus	lat	
-orth	Ani scalptorlatissimus	lat	
-foreign	le grand dorsal	fra	
+orth	Ani scalptor latissimus	lat	
+foreign	grand dorsal (le)	fra	
 entry	Anisum	0	
 orth	Anisum	lat	
 foreign	anis	fra	
@@ -983,7 +965,7 @@ entry	Annulus osseus	0
 orth	Annulus osseus	lat	
 entry	Annus climactericus	0	
 orth	Annus climactericus	lat	
-foreign	année clima- - térique	fra	
+foreign	année climatérique	fra	
 entry	Anodynus	0	
 orth	Anodynus	lat	
 foreign	anodin	fra	
@@ -1008,10 +990,9 @@ orth	Anosmia	lat
 foreign	anosmie	fra	
 entry	Anosphresia	0	
 orth	Anosphresia	lat	
-foreign	perte de l’olfaction	fra	
 entry	Ansa capitis	0	
 orth	Ansa capitis	lat	
-foreign	l’apophyse zygomatique	fra	
+foreign	apophyse zygomatique (l')	fra	
 entry	Anser	0	
 orth	Anser	lat	
 foreign	oie	fra	
@@ -1032,7 +1013,7 @@ orth	Antecedens	lat
 foreign	antécédent	fra	
 entry	Antemeticus	0	
 orth	Antemeticus	lat	
-foreign	antémé tique	fra	
+foreign	antémétique	fra	
 entry	Anteponens febris	0	
 orth	Anteponens febris	lat	
 foreign	fièvre anticipante	fra	
@@ -1045,17 +1026,17 @@ foreign	anthelminthique	fra
 entry	Anthemis	0	
 orth	Anthemis	lat	
 foreign	camomille	fra	
-entry	Anlhera medicamenta	0	
-orth	Anlhera medicamenta	lat	
+entry	Anthera medicamenta	0	
+orth	Anthera medicamenta	lat	
 entry	Anthologia	0	
 orth	Anthologia	lat	
 foreign	anthologie	fra	
 entry	Anthracodes	0	
 orth	Anthracodes	lat	
 foreign	charbonneux	fra	
-entry	Anthracosis , anthrax	0	
-orth	Anthracosis 	lat	
-orth	Anthrax		
+entry	Anthracosis , Anthrax	0	
+orth	Anthracosis	lat	
+orth	Anthrax	lat	
 foreign	anthrax	fra	
 foreign	charbon	fra	
 entry	Anthropogenia	0	
@@ -1069,8 +1050,8 @@ orth	Anthropologia	lat
 foreign	anthropologie	fra	
 entry	Anthropomorpha animalia	0	
 orth	Anthropomorpha animalia	lat	
-entry	Anthronophagus	0	
-orth	Anthronophagus	lat	
+entry	Anthropophagus	0	
+orth	Anthropophagus	lat	
 foreign	anthropophage	fra	
 entry	Anthropotomia	0	
 orth	Anthropotomia	lat	
@@ -1086,7 +1067,6 @@ orth	Antibrachium	lat
 foreign	avant-bras	fra	
 entry	Anticardium	0	
 orth	Anticardium	lat	
-foreign	le creux de l’estomac	fra	
 entry	Antichir	0	
 orth	Antichir	lat	
 foreign	pouce	fra	
@@ -1095,7 +1075,7 @@ orth	Anticipans	lat
 foreign	anticipant	fra	
 entry	Antidotarium	0	
 orth	Antidotarium	lat	
-foreign	antidoiaire	fra	
+foreign	antidotaire	fra	
 entry	Antidotum	0	
 orth	Antidotum	lat	
 foreign	antidote	fra	
@@ -1132,6 +1112,7 @@ orth	Anuria	lat
 foreign	anurie	fra	
 entry	Anus	0	
 orth	Anus	lat	
+foreign	anus (l')	fra	
 entry	Anxietas	0	
 orth	Anxietas	lat	
 foreign	anxiété	fra	
@@ -1141,8 +1122,8 @@ foreign	aorte	fra
 entry	Apanthropia	0	
 orth	Apanthropia	lat	
 foreign	apanthropie	fra	
-entry	Aparin^	0	
-orth	Aparin^	lat	
+entry	Aparine	0	
+orth	Aparine	lat	
 foreign	grateron	fra	
 entry	Apathia	0	
 orth	Apathia	lat	
@@ -1157,9 +1138,9 @@ entry	Apepsia	0
 orth	Apepsia	lat	
 foreign	apepsie	fra	
 foreign	indigestion	fra	
-entry	Aperiens, aperitivus	0	
+entry	Aperiens, Aperitivus	0	
 orth	Aperiens	lat	
-orth	Aperitivus		
+orth	Aperitivus	lat	
 foreign	apéritif	fra	
 entry	Apertorium	0	
 orth	Apertorium	lat	
@@ -1180,7 +1161,7 @@ orth	Aphorismus	lat
 foreign	aphorisme	fra	
 entry	Aphrodisiacus	0	
 orth	Aphrodisiacus	lat	
-foreign	aprodisiaque	fra	
+foreign	aphrodisiaque	fra	
 entry	Aphrodisiasmus	0	
 orth	Aphrodisiasmus	lat	
 foreign	aphrodisiasme	fra	
@@ -1199,7 +1180,6 @@ orth	Aphyllus	lat
 foreign	aphylle	fra	
 entry	Apios	0	
 orth	Apios	lat	
-foreign	espèce de tithymale	fra	
 entry	Apis	0	
 orth	Apis	lat	
 foreign	abeille	fra	
@@ -1220,16 +1200,14 @@ orth	Apocope	lat
 foreign	apocope	fra	
 entry	Apocrusticus	0	
 orth	Apocrusticus	lat	
-foreign	qui repousse les humeurs	fra	
 entry	Apocynum	0	
 orth	Apocynum	lat	
 foreign	apocyn	fra	
 entry	Apodacryticus	0	
 orth	Apodacryticus	lat	
-foreign	qui excite les larmes	fra	
 entry	Apomeli	0	
 orth	Apomeli	lat	
-foreign	hydromel étendu d’eau	fra	
+foreign	hydromel	fra	
 entry	Aponeurosis	0	
 orth	Aponeurosis	lat	
 foreign	aponévrose	fra	
@@ -1261,7 +1239,8 @@ orth	Apostasis	lat
 foreign	dépôt	fra	
 entry	Apostema	0	
 orth	Apostema	lat	
-foreign	abcès ou dépôt	fra	
+foreign	abcès	fra	
+foreign	dépôt	fra	
 entry	Aposyrma	0	
 orth	Aposyrma	lat	
 foreign	excoriation	fra	
@@ -1272,7 +1251,6 @@ entry	Apotherapia	0
 orth	Apotherapia	lat	
 entry	Apothermon	0	
 orth	Apothermon	lat	
-foreign	sorte de boisson	fra	
 entry	Apozema	0	
 orth	Apozema	lat	
 foreign	apozème	fra	
@@ -1280,7 +1258,7 @@ entry	Apparatus	0
 orth	Apparatus	lat	
 foreign	appareil	fra	
 entry	Appendicula vermiformis 	0	
-orth	Appendicula vermiformis 	lat	
+orth	Appendicula vermiformis	lat	
 foreign	appendice vermiculaire	fra	
 entry	Appendix	0	
 orth	Appendix	lat	
@@ -1288,13 +1266,13 @@ foreign	appendice	fra
 entry	Appetere	0	
 orth	Appetere	lat	
 foreign	appéter	fra	
-entry	Appetitus, appetentia 	0	
+entry	Appetitus, Appetentia 	0	
 orth	Appetitus	lat	
-orth	Appetentia 		
+orth	Appetentia	lat	
 foreign	appétit	fra	
 entry	Applicata	0	
 orth	Applicata	lat	
-foreign	les applicata	fra	
+foreign	applicata (les)	fra	
 entry	Apprehensio	0	
 orth	Apprehensio	lat	
 foreign	catalepsie	fra	
@@ -1339,20 +1317,20 @@ orth	Aquositas	lat
 foreign	aquosité	fra	
 entry	Aquula	0	
 orth	Aquula	lat	
-foreign	hydatidé	fra	
+foreign	hydatide	fra	
 entry	Aquula acustica	0	
 orth	Aquula acustica	lat	
 foreign	humeur de Cotugno	fra	
 entry	Arabicum gummi	0	
 orth	Arabicum gummi	lat	
-foreign	gomme ara· bique	fra	
-entry	Arachnoïdes, arachnoideus	0	
-orth	Arachnoïdes	lat	
-orth	Arachnoideus		
+foreign	gomme arabique	fra	
+entry	Arachnoides, Arachnoideus	0	
+orth	Arachnoides	lat	
+orth	Arachnoideus	lat	
 foreign	arachnoïdien	fra	
 entry	Arachnois	0	
 orth	Arachnois	lat	
-foreign	l’arachnoïde	fra	
+foreign	arachnoïde (l')	fra	
 entry	Aranea	0	
 orth	Aranea	lat	
 foreign	araignée	fra	
@@ -1371,12 +1349,12 @@ foreign	archée	fra
 entry	Archiater	0	
 orth	Archiater	lat	
 foreign	archiatre	fra	
-entry	Arenalia ossa	0	
-orth	Arenalia ossa	lat	
+entry	Arcualia ossa	0	
+orth	Arcualia ossa	lat	
 foreign	os du sinciput	fra	
 foreign	os temporaux	fra	
-entry	Arcuatis sutura	0	
-orth	Arcuatis sutura	lat	
+entry	Arcualis sutura	0	
+orth	Arcualis sutura	lat	
 foreign	suture coronale	fra	
 entry	Arcuatus morbus	0	
 orth	Arcuatus morbus	lat	
@@ -1388,23 +1366,22 @@ pb	1710	1724
 entry	Ardor	0	
 orth	Ardor	lat	
 foreign	ardeur	fra	
-foreign	sentiment de chaleur	fra	
 entry	Area	0	
 orth	Area	lat	
 foreign	ophiase	fra	
 foreign	alopécie	fra	
 entry	Arefactio	0	
 orth	Arefactio	lat	
-foreign	aréfaetion	fra	
+foreign	aréfaction	fra	
 entry	Arenatio	0	
 orth	Arenatio	lat	
 foreign	arénation	fra	
 entry	Areola	0	
 orth	Areola	lat	
 foreign	aréole	fra	
-entry	Argemo, argemon	0	
+entry	Argemo, Argemon	0	
 orth	Argemo	lat	
-orth	Argemon		
+orth	Argemon	lat	
 foreign	argémon	fra	
 entry	Argentum	0	
 orth	Argentum	lat	
@@ -1414,7 +1391,6 @@ orth	Argilla	lat
 foreign	argile	fra	
 entry	Argyropœia	0	
 orth	Argyropœia	lat	
-foreign	transmutation des métaux vils en argent	fra	
 entry	Arista	0	
 orth	Arista	lat	
 foreign	barbe d’épi	fra	
@@ -1429,7 +1405,7 @@ orth	Armilla membranosa	lat
 foreign	ligament circulaire du poignet	fra	
 entry	Aroma	0	
 orth	Aroma	lat	
-foreign	arôme	fra	
+foreign	arome	fra	
 foreign	aromate	fra	
 entry	Aromaticus	0	
 orth	Aromaticus	lat	
@@ -1496,16 +1472,16 @@ foreign	arum	fra
 entry	Arundo	0	
 orth	Arundo	lat	
 foreign	roseau	fra	
-entry	Aryarytænoideus (Morgagni, Santorini)	0	
-orth	Aryarytænoideus (Morgagni, Santorini)	lat	
-foreign	aryténoidifin transverse	fra	
-entry	Arytænoepiglotticus ( Winslow )	0	
-orth	Arytænoepiglotticus ( Winslow )	lat	
+entry	Ary-arytænoideus (Morgagni, Santorini)	0	
+orth	Ary-arytænoideus (Morgagni, Santorini)	lat	
+foreign	aryténoïdien transverse	fra	
+entry	Arytæno-epiglotticus ( Winslow )	0	
+orth	Arytæno-epiglotticus ( Winslow )	lat	
 foreign	aryténo-épiglottique	fra	
-entry	Arytænoides, arytænoideus	0	
+entry	Arytænoides, Arytænoideus	0	
 orth	Arytænoides	lat	
-orth	Arytænoideus		
-foreign	aryténoidien	fra	
+orth	Arytænoideus	lat	
+foreign	aryténoïdien	fra	
 entry	Asaphia	0	
 orth	Asaphia	lat	
 foreign	asaphie	fra	
@@ -1566,9 +1542,9 @@ foreign	assident	fra
 entry	Assimilatio	0	
 orth	Assimilatio	lat	
 foreign	assimilation	fra	
-entry	Assula, astula	0	
+entry	Assula, Astula	0	
 orth	Assula	lat	
-orth	Astula		
+orth	Astula	lat	
 foreign	esquille	fra	
 foreign	attelle	fra	
 entry	Asthenia	0	
@@ -1590,9 +1566,9 @@ foreign	astragale (plante)	fra
 entry	Astrictio	0	
 orth	Astrictio	lat	
 foreign	astriction	fra	
-entry	Astrictorius, astringens	0	
+entry	Astrictorius, Astringens	0	
 orth	Astrictorius	lat	
-orth	Astringens		
+orth	Astringens	lat	
 foreign	astringent	fra	
 entry	Astrobolismus	0	
 orth	Astrobolismus	lat	
@@ -1656,16 +1632,15 @@ foreign	apoplexie	fra
 entry	Attractio	0	
 orth	Attractio	lat	
 foreign	attraction	fra	
-entry	Attractivus, attrahens	0	
+entry	Attractivus, Attrahens	0	
 orth	Attractivus	lat	
-orth	Attrahens		
+orth	Attrahens	lat	
 foreign	attractif	fra	
 entry	Attritio	0	
 orth	Attritio	lat	
 foreign	attrition	fra	
 entry	Atypus	0	
 orth	Atypus	lat	
-foreign	sans type	fra	
 entry	Auctio	0	
 orth	Auctio	lat	
 foreign	accroissement	fra	
@@ -1675,13 +1650,12 @@ orth	Auditorius	lat
 foreign	auditif	fra	
 entry	Auditus	0	
 orth	Auditus	lat	
-foreign	ouie	fra	
+foreign	ouïe	fra	
 entry	Augmentum	0	
 orth	Augmentum	lat	
 foreign	augment	fra	
 entry	Aura seminalis	0	
 orth	Aura seminalis	lat	
-foreign	vapeur supposée s’exhalant du sperme	fra	
 entry	Auricula	0	
 orth	Auricula	lat	
 foreign	oreillette	fra	
@@ -1709,7 +1683,7 @@ orth	Austerus	lat
 foreign	de goût astringent	fra	
 entry	Autopsia	0	
 orth	Autopsia	lat	
-foreign	autopsié	fra	
+foreign	autopsie	fra	
 entry	Autumnus	0	
 orth	Autumnus	lat	
 foreign	automne	fra	
@@ -1771,7 +1745,7 @@ orth	Balneum	lat
 foreign	bain	fra	
 entry	Balneum laconicum	0	
 orth	Balneum laconicum	lat	
-foreign	bain de var peur	fra	
+foreign	bain de vapeur	fra	
 entry	Balsamum	0	
 orth	Balsamum	lat	
 foreign	baume	fra	
@@ -1786,11 +1760,9 @@ orth	Baryecoia	lat
 foreign	baryécoïe	fra	
 entry	Basilica	0	
 orth	Basilica	lat	
-foreign	la veine basilique	fra	
+foreign	veine basilique (la)	fra	
 entry	Basilicon	0	
 orth	Basilicon	lat	
-foreign	espèce de collyre	fra	
-foreign	espèce d’emplâtre	fra	
 entry	Bathrum	0	
 orth	Bathrum	lat	
 entry	Batrachus	0	
@@ -1822,7 +1794,7 @@ orth	Bicornis	lat
 foreign	bicorne	fra	
 entry	Bidentatus	0	
 orth	Bidentatus	lat	
-foreign	bidcnté	fra	
+foreign	bidenté	fra	
 entry	Biennis	0	
 orth	Biennis	lat	
 foreign	bisannuel	fra	
@@ -1849,7 +1821,7 @@ orth	Bipes	lat
 foreign	bipède	fra	
 entry	Bisulcus	0	
 orth	Bisulcus	lat	
-foreign	flssipède	fra	
+foreign	fissipède	fra	
 entry	Bitumen	0	
 orth	Bitumen	lat	
 foreign	bitume	fra	
@@ -1883,7 +1855,6 @@ foreign	bol	fra
 entry	Bombus	0	
 orth	Bombus	lat	
 foreign	bourdonnement	fra	
-foreign	tinte· ment d’oreille	fra	
 entry	Borborygmus	0	
 orth	Borborygmus	lat	
 foreign	borborygme	fra	
@@ -1916,7 +1887,6 @@ orth	Bregma	lat
 foreign	bregma	fra	
 entry	Brochitas	0	
 orth	Brochitas	lat	
-foreign	saillie des dents	fra	
 entry	Bronchocele	0	
 orth	Bronchocele	lat	
 foreign	bronchocèle	fra	
@@ -2006,19 +1976,18 @@ orth	Cæsio	lat
 foreign	incision	fra	
 entry	Cæso	0	
 orth	Cæso	lat	
-foreign	né par l’opération césarienne	fra	
 entry	Cæsura	0	
 orth	Cæsura	lat	
 foreign	coupure	fra	
 entry	Calamintha	0	
 orth	Calamintha	lat	
-foreign	cal ament	fra	
+foreign	calament	fra	
 entry	Calamus aromaticus 	0	
-orth	Calamus aromaticus 	lat	
+orth	Calamus aromaticus	lat	
 foreign	canne aromatique	fra	
 entry	Calcaneum	0	
 orth	Calcaneum	lat	
-foreign	le calcanéum	fra	
+foreign	calcanéum (le)	fra	
 entry	Calcarius	0	
 orth	Calcarius	lat	
 foreign	calcaire	fra	
@@ -2053,9 +2022,9 @@ foreign	chaleur	fra
 entry	Calvaria	0	
 orth	Calvaria	lat	
 foreign	crâne	fra	
-entry	Calvities, calvitium	0	
+entry	Calvities, Calvitium	0	
 orth	Calvities	lat	
-orth	Calvitium		
+orth	Calvitium	lat	
 foreign	calvitie	fra	
 entry	Calvus	0	
 orth	Calvus	lat	
@@ -2071,10 +2040,10 @@ orth	Calyx	lat
 foreign	calice	fra	
 entry	Camarosis	0	
 orth	Camarosis	lat	
-foreign	camarosis [fracturé)	fra	
+foreign	camarosis (fracture)	fra	
 entry	Canaliculus renum	0	
 orth	Canaliculus renum	lat	
-foreign	le bassinet des reins	fra	
+foreign	bassinet des reins (le)	fra	
 foreign	gouttière	fra	
 entry	Canalis	0	
 orth	Canalis	lat	
@@ -2086,7 +2055,7 @@ foreign	cancer	fra
 foreign	chancre	fra	
 entry	Canna gutturis	0	
 orth	Canna gutturis	lat	
-foreign	la trachée-artère	fra	
+foreign	trachée-artère (la)	fra	
 entry	Cannabis	0	
 orth	Cannabis	lat	
 foreign	chanvre	fra	
@@ -2096,9 +2065,9 @@ foreign	cantharide	fra
 entry	Capillaceus	0	
 orth	Capillaceus	lat	
 foreign	capillacé	fra	
-entry	Capillamentum, capillitium	0	
+entry	Capillamentum, Capillitium	0	
 orth	Capillamentum	lat	
-orth	Capillitium		
+orth	Capillitium	lat	
 foreign	chevelure	fra	
 foreign	chevelu	fra	
 entry	Capillaris	0	
@@ -2118,7 +2087,7 @@ orth	Capparis	lat
 foreign	câprier	fra	
 entry	Capreolus	0	
 orth	Capreolus	lat	
-foreign	vrille des plantes sarmenteuses	fra	
+foreign	vrille	fra	
 entry	Caput	0	
 orth	Caput	lat	
 foreign	tête	fra	
@@ -2138,7 +2107,6 @@ foreign	carcinomateux	fra
 entry	Carcinoma	0	
 orth	Carcinoma	lat	
 foreign	carcinome	fra	
-foreign	ulcère cancéreux	fra	
 entry	Cardiace	0	
 orth	Cardiace	lat	
 foreign	cardialgie	fra	
@@ -2195,7 +2163,7 @@ orth	Carus	lat
 foreign	carus	fra	
 entry	Castor	0	
 orth	Castor	lat	
-foreign	le castor	fra	
+foreign	castor (le)	fra	
 entry	Castoreum	0	
 orth	Castoreum	lat	
 foreign	castoréum	fra	
@@ -2240,12 +2208,12 @@ foreign	coryza	fra
 entry	Catarrhus ad pectus	0	
 orth	Catarrhus ad pectus	lat	
 foreign	rhume	fra	
-entry	Catastaltieus	0	
-orth	Catastaltieus	lat	
+entry	Catastalticus	0	
+orth	Catastalticus	lat	
 foreign	catastaltique	fra	
 entry	Catastasis	0	
 orth	Catastasis	lat	
-foreign	l’habitude du corps	fra	
+foreign	habitude du corps (l')	fra	
 entry	Cathæresis	0	
 orth	Cathæresis	lat	
 foreign	cathérèse	fra	
@@ -2329,7 +2297,6 @@ orth	Cerasus	lat
 foreign	cerisier	fra	
 entry	Ceratoides	0	
 orth	Ceratoides	lat	
-foreign	en forme de corne	fra	
 entry	Ceratum	0	
 orth	Ceratum	lat	
 foreign	cérat	fra	
@@ -2395,7 +2362,6 @@ orth	Chemosis	lat
 foreign	chémosis	fra	
 entry	Chilon	0	
 orth	Chilon	lat	
-foreign	qui a de grosses lèvres	fra	
 entry	Chiragra	0	
 orth	Chiragra	lat	
 foreign	chiragre	fra	
@@ -2423,15 +2389,14 @@ foreign	cholagogue	fra
 entry	Choledochus	0	
 orth	Choledochus	lat	
 foreign	cholédoque	fra	
-entry	Choiera	0	
-orth	Choiera	lat	
+entry	Cholera	0	
+orth	Cholera	lat	
 foreign	choléra	fra	
 entry	Cholericus	0	
 orth	Cholericus	lat	
 foreign	cholérique	fra	
 entry	Cholopœeticus	0	
 orth	Cholopœeticus	lat	
-foreign	qui forme la bile	fra	
 entry	Chondrographia	0	
 orth	Chondrographia	lat	
 foreign	chondrographie	fra	
@@ -2447,6 +2412,9 @@ foreign	chordapse	fra
 foreign	iléus	fra	
 entry	Chorea	0	
 orth	Chorea	lat	
+foreign	chorée	fra	
+foreign	danse de Saint-Weith	fra	
+foreign	danse de Saint-Guy	fra	
 entry	Chorion	0	
 orth	Chorion	lat	
 foreign	chorion	fra	
@@ -2502,20 +2470,20 @@ orth	Cinnabaris	lat
 foreign	cinnabre	fra	
 entry	Cinnamomum	0	
 orth	Cinnamomum	lat	
-foreign	cannéllier	fra	
+foreign	cannellier	fra	
 entry	Circuitus	0	
 orth	Circuitus	lat	
 foreign	période	fra	
 entry	Circulatio	0	
 orth	Circulatio	lat	
 foreign	circulation	fra	
-entry	Circulator, circumforaneus	0	
+entry	Circulator, Circumforaneus	0	
 orth	Circulator	lat	
-orth	Circumforaneus		
+orth	Circumforaneus	lat	
 foreign	charlatan	fra	
 entry	Circumfusa	0	
 orth	Circumfusa	lat	
-foreign	les circumfusa	fra	
+foreign	circumfusa (les)	fra	
 entry	Cirratus	0	
 orth	Cirratus	lat	
 foreign	cirré	fra	
@@ -2536,20 +2504,20 @@ foreign	cirsoïde	fra
 foreign	variqueux	fra	
 entry	Cirsomphalus	0	
 orth	Cirsomphalus	lat	
-foreign	cirsomphate	fra	
+foreign	cirsomphale	fra	
 entry	Cisterna	0	
 orth	Cisterna	lat	
 foreign	réservoir	fra	
 entry	Cisterna lumbaris	0	
 orth	Cisterna lumbaris	lat	
 foreign	citerne lombaire	fra	
-foreign	réservoir de Pecquel	fra	
+foreign	réservoir de Pecquet	fra	
 entry	Citrus medica	0	
 orth	Citrus medica	lat	
 foreign	citronnier	fra	
 entry	Citta	0	
 orth	Citta	lat	
-foreign	lepica	fra	
+foreign	pica (le)	fra	
 entry	Clarificatio	0	
 orth	Clarificatio	lat	
 foreign	clarification	fra	
@@ -2558,6 +2526,8 @@ orth	Claudicatio	lat
 foreign	claudication	fra	
 entry	Clavicula	0	
 orth	Clavicula	lat	
+foreign	clavicule	fra	
+foreign	Vrille	fra	
 entry	Clavus	0	
 orth	Clavus	lat	
 foreign	clou	fra	
@@ -2570,9 +2540,9 @@ foreign	clepsydre	fra
 entry	Clima	0	
 orth	Clima	lat	
 foreign	climat	fra	
-entry	Climacter, climactericus	0	
+entry	Climacter, Climactericus	0	
 orth	Climacter	lat	
-orth	Climactericus		
+orth	Climactericus	lat	
 foreign	climatérique	fra	
 entry	Clinicus	0	
 orth	Clinicus	lat	
@@ -2580,10 +2550,10 @@ foreign	clinique	fra
 entry	Clitoris	0	
 orth	Clitoris	lat	
 foreign	clitoris	fra	
-entry	Clyster, clysterium	0	
+entry	Clyster, Clysterium	0	
 orth	Clyster	lat	
-orth	Clysterium		
-foreign	clystere	fra	
+orth	Clysterium	lat	
+foreign	clystère	fra	
 entry	Coagulans	0	
 orth	Coagulans	lat	
 foreign	coagulant	fra	
@@ -2618,16 +2588,16 @@ orth	Cochlea	lat
 foreign	limaçon	fra	
 entry	Cochleare	0	
 orth	Cochleare	lat	
-foreign	une curette	fra	
+foreign	curette (une)	fra	
 entry	Coctio	0	
 orth	Coctio	lat	
 foreign	coction	fra	
 foreign	digestion	fra	
-entry	Coeliacus	0	
-orth	Coeliacus	lat	
+entry	Cœliacus	0	
+orth	Cœliacus	lat	
 foreign	cœliaque	fra	
-entry	Coeliacus morbus	0	
-orth	Coeliacus morbus	lat	
+entry	Cœliacus morbus	0	
+orth	Cœliacus morbus	lat	
 foreign	flux cœliaque	fra	
 entry	Cœna	0	
 orth	Cœna	lat	
@@ -2637,7 +2607,7 @@ orth	Cogitatio	lat
 foreign	pensée	fra	
 entry	Coitus	0	
 orth	Coitus	lat	
-foreign	coit	fra	
+foreign	coït	fra	
 entry	Colatura	0	
 orth	Colatura	lat	
 foreign	colature	fra	
@@ -2658,12 +2628,11 @@ orth	Collapsus	lat
 foreign	collapsus	fra	
 entry	Colleticus	0	
 orth	Colleticus	lat	
-foreign	qui agglutine	fra	
-entry	Colliquans, colliquativus, colliquefaciens, colliquescens	0	
+entry	Colliquans, Colliquativus, Colliquefaciens, Colliquescens	0	
 orth	Colliquans	lat	
-orth	Colliquativus		
-orth	Colliquefaciens		
-orth	Colliquescens		
+orth	Colliquativus	lat	
+orth	Colliquefaciens	lat	
+orth	Colliquescens	lat	
 foreign	colliquatif	fra	
 entry	Colliquatio	0	
 orth	Colliquatio	lat	
@@ -2712,21 +2681,20 @@ orth	Combustio	lat
 foreign	combustion	fra	
 entry	Compernis	0	
 orth	Compernis	lat	
-foreign	qui a les genoux tournés en dedans	fra	
 entry	Complexio	0	
 orth	Complexio	lat	
 foreign	complexion	fra	
-foreign	. tempérament	fra	
+foreign	tempérament	fra	
 entry	Conarium	0	
 orth	Conarium	lat	
-foreign	conarium	fra	
-foreign	glande pinéale	fra	
+foreign	conarium (le)	fra	
+foreign	glande pinéale (la)	fra	
 entry	Conceptio	0	
 orth	Conceptio	lat	
 foreign	conception	fra	
 entry	Concha	0	
 orth	Concha	lat	
-foreign	conque	fra	
+foreign	conque (la)	fra	
 foreign	pavillon de l’oreille	fra	
 entry	Conchyliologia	0	
 orth	Conchyliologia	lat	
@@ -2819,9 +2787,9 @@ foreign	constricteur	fra
 entry	Consumptio	0	
 orth	Consumptio	lat	
 foreign	consomption	fra	
-entry	Contagio, contagium	0	
+entry	Contagio, Contagium	0	
 orth	Contagio	lat	
-orth	Contagium		
+orth	Contagium	lat	
 foreign	contagion	fra	
 entry	Contagiosus	0	
 orth	Contagiosus	lat	
@@ -2882,7 +2850,7 @@ foreign	cœur	fra
 entry	Coracoideus	0	
 orth	Coracoideus	lat	
 foreign	coracoïde	fra	
-foreign	coracoidien	fra	
+foreign	coracoïdien	fra	
 entry	Corallium	0	
 orth	Corallium	lat	
 foreign	corail	fra	
@@ -2911,7 +2879,7 @@ orth	Coronarius	lat
 foreign	coronaire	fra	
 entry	Coronoideus	0	
 orth	Coronoideus	lat	
-foreign	corondide	fra	
+foreign	coronoïde	fra	
 entry	Corpulentia	0	
 orth	Corpulentia	lat	
 foreign	corpulence	fra	
@@ -2924,9 +2892,9 @@ foreign	corpuscule	fra
 entry	Corroborans	0	
 orth	Corroborans	lat	
 foreign	confortatif	fra	
-entry	Corrodens, corrosivus	0	
+entry	Corrodens, Corrosivus	0	
 orth	Corrodens	lat	
-orth	Corrosivus		
+orth	Corrosivus	lat	
 foreign	corrosif	fra	
 entry	Corrugare	0	
 orth	Corrugare	lat	
@@ -2940,13 +2908,12 @@ orth	Cortex	lat
 foreign	écorce	fra	
 entry	Corticeus	0	
 orth	Corticeus	lat	
-foreign	qui appartient à l’écorce	fra	
 entry	Corybantiasmus	0	
 orth	Corybantiasmus	lat	
 foreign	corybantiasme	fra	
 entry	Corymbifer	0	
 orth	Corymbifer	lat	
-foreign	corymbifero	fra	
+foreign	corymbifère	fra	
 entry	Corymbus	0	
 orth	Corymbus	lat	
 foreign	corymbe	fra	
@@ -2965,41 +2932,40 @@ foreign	costal	fra
 entry	Costus	0	
 orth	Costus	lat	
 foreign	costus	fra	
-entry	Cotyla, cotyle	0	
+entry	Cotyla, Cotyle	0	
 orth	Cotyla	lat	
-orth	Cotyle		
+orth	Cotyle	lat	
 foreign	cotyle	fra	
 entry	Cotyledo	0	
 orth	Cotyledo	lat	
 foreign	cotylédon	fra	
 entry	Cotyloides	0	
 orth	Cotyloides	lat	
-foreign	cotyloiide	fra	
-entry	Coxa, coxendix	0	
+foreign	cotyloïde	fra	
+entry	Coxa, Coxendix	0	
 orth	Coxa	lat	
-orth	Coxendix		
+orth	Coxendix	lat	
 foreign	hanche	fra	
 entry	Cranium	0	
 orth	Cranium	lat	
 foreign	crâne	fra	
 entry	Crasis	0	
 orth	Crasis	lat	
-foreign	erase	fra	
+foreign	crase	fra	
 entry	Crassa meninx	0	
 orth	Crassa meninx	lat	
-foreign	la dure-mère	fra	
+foreign	dure-mère (la)	fra	
 entry	Crassamentum	0	
 orth	Crassamentum	lat	
 foreign	sédiment	fra	
 entry	Cratægus	0	
 orth	Cratægus	lat	
-foreign	aligier	fra	
+foreign	alisier	fra	
 entry	Cremaster	0	
 orth	Cremaster	lat	
-foreign	le crémaster	fra	
+foreign	crémaster (le)	fra	
 entry	Crematio	0	
 orth	Crematio	lat	
-foreign	action de brûler	fra	
 entry	Cremor	0	
 orth	Cremor	lat	
 foreign	crème	fra	
@@ -3012,9 +2978,9 @@ foreign	craie	fra
 entry	Cribrare	0	
 orth	Cribrare	lat	
 foreign	cribler	fra	
-entry	Cricoides, cricoideus	0	
+entry	Cricoides, Cricoideus	0	
 orth	Cricoides	lat	
-orth	Cricoideus		
+orth	Cricoideus	lat	
 foreign	cricoïde	fra	
 entry	Crinale	0	
 orth	Crinale	lat	
@@ -3042,7 +3008,7 @@ orth	Crocus	lat
 foreign	safran	fra	
 entry	Crotaphites	0	
 orth	Crotaphites	lat	
-foreign	le muscle crotaphite	fra	
+foreign	muscle crotaphite (le)	fra	
 entry	Croton	0	
 orth	Croton	lat	
 foreign	croton	fra	
@@ -3062,7 +3028,7 @@ foreign	cru	fra
 foreign	indigeste	fra	
 entry	Cruor	0	
 orth	Cruor	lat	
-foreign	le sang	fra	
+foreign	sang (le)	fra	
 entry	Cruralis	0	
 orth	Cruralis	lat	
 foreign	crural	fra	
@@ -3074,7 +3040,7 @@ orth	Crusta	lat
 foreign	croûte	fra	
 entry	Crusta pleuretica sanguinis	0	
 orth	Crusta pleuretica sanguinis	lat	
-foreign	la couenne inflammatoire du sang	fra	
+foreign	couenne inflammatoire du sang (la)	fra	
 entry	Crypta	0	
 orth	Crypta	lat	
 foreign	crypte	fra	
@@ -3089,23 +3055,24 @@ orth	Crystallum	lat
 foreign	cristal	fra	
 entry	Cubitus	0	
 orth	Cubitus	lat	
-foreign	le coude	fra	
-foreign	le cubitus	fra	
-foreign	l’olécrane	fra	
+foreign	coude (le)	fra	
+foreign	cubitus (le)	fra	
+foreign	olécrane (l')	fra	
+foreign	coucher (Le)	fra	
 entry	Cubitus pronus	0	
 orth	Cubitus pronus	lat	
-foreign	le coucher sur le ventre	fra	
-entry	Cubitus resupinus, supinus	0	
+foreign	coucher sur le ventre (le)	fra	
+entry	Cubitus resupinus, Cubitus supinus	0	
 orth	Cubitus resupinus	lat	
-orth	Supinus		
-foreign	le coucher sur le dos	fra	
-entry	Cuboïdes, cubiformis	0	
-orth	Cuboïdes	lat	
-orth	Cubiformis		
+orth	Cubitus supinus	lat	
+foreign	coucher sur le dos (le)	fra	
+entry	Cuboides, Cubiformis	0	
+orth	Cuboides	lat	
+orth	Cubiformis	lat	
 foreign	cuboïde	fra	
 entry	Os cubiforme	0	
 orth	Os cubiforme	lat	
-foreign	l’os cuboïde	fra	
+foreign	os cuboïde (l')	fra	
 entry	Cucullatus	0	
 orth	Cucullatus	lat	
 foreign	capuchonné	fra	
@@ -3157,7 +3124,7 @@ foreign	cuticule	fra
 foreign	épiderme	fra	
 entry	Cuticularis musculus	0	
 orth	Cuticularis musculus	lat	
-foreign	le peaucier	fra	
+foreign	peaucier (le)	fra	
 entry	Cutis	0	
 orth	Cutis	lat	
 foreign	peau	fra	
@@ -3172,13 +3139,13 @@ orth	Cyclus	lat
 foreign	cycle	fra	
 entry	Cydonia arbor	0	
 orth	Cydonia arbor	lat	
-foreign	le cognassier	fra	
+foreign	cognassier (le)	fra	
 entry	Cylindraceus	0	
 orth	Cylindraceus	lat	
 foreign	cylindracé	fra	
 entry	Cylindroides	0	
 orth	Cylindroides	lat	
-foreign	cylindroide	fra	
+foreign	cylindroïde	fra	
 entry	Cylindrus	0	
 orth	Cylindrus	lat	
 foreign	cylindre	fra	
@@ -3207,9 +3174,9 @@ foreign	cynorrhodon	fra
 entry	Cyperus	0	
 orth	Cyperus	lat	
 foreign	souchet	fra	
-entry	Cyphoma, cypbosis	0	
+entry	Cyphoma, Cypbosis	0	
 orth	Cyphoma	lat	
-orth	Cypbosis		
+orth	Cypbosis	lat	
 foreign	cyphose	fra	
 entry	Cystalgia	0	
 orth	Cystalgia	lat	
@@ -3234,7 +3201,7 @@ orth	Cystitomus	lat
 foreign	cystitome	fra	
 entry	Cystocele	0	
 orth	Cystocele	lat	
-foreign	cystocele	fra	
+foreign	cystocèle	fra	
 entry	Cystodynia	0	
 orth	Cystodynia	lat	
 foreign	cystodynie	fra	
@@ -3252,7 +3219,6 @@ orth	Cystotomus	lat
 foreign	cystotome	fra	
 entry	Dacryopœus	0	
 orth	Dacryopœus	lat	
-foreign	qui produit des larmes	fra	
 entry	Dactylus	0	
 orth	Dactylus	lat	
 foreign	datte	fra	
@@ -3286,11 +3252,12 @@ foreign	déclive	fra
 entry	Declivitas	0	
 orth	Declivitas	lat	
 foreign	déclivité	fra	
-entry	Decoetio	0	
-orth	Decoetio	lat	
+entry	Decoctio	0	
+orth	Decoctio	lat	
 foreign	décoction	fra	
 entry	Decoctum	0	
 orth	Decoctum	lat	
+foreign	décoction	fra	
 entry	Decorticatio	0	
 orth	Decorticatio	lat	
 foreign	décortication	fra	
@@ -3303,12 +3270,12 @@ foreign	décrétoire	fra
 foreign	critique	fra	
 entry	Decurrens	0	
 orth	Decurrens	lat	
-foreign	decurrent	fra	
+foreign	décurrent	fra	
 entry	Decussatio	0	
 orth	Decussatio	lat	
 foreign	décussation	fra	
-entry	Defecatio	0	
-orth	Defecatio	lat	
+entry	Defæcatio	0	
+orth	Defæcatio	lat	
 foreign	dépuration	fra	
 entry	Defæcatus	0	
 orth	Defæcatus	lat	
@@ -3334,6 +3301,9 @@ foreign	dérivation	fra
 entry	Defluxio	0	
 orth	Defluxio	lat	
 foreign	défluxion	fra	
+entry	Defluxio (Cæl. Au­rel.)	0	
+orth	Defluxio (Cæl. Au­rel.)	lat	
+foreign	diarrhée	fra	
 entry	Defoliatio	0	
 orth	Defoliatio	lat	
 foreign	défeuillaison	fra	
@@ -3349,7 +3319,7 @@ foreign	épiphora	fra
 foreign	larmoiement	fra	
 entry	Deligare	0	
 orth	Deligare	lat	
-foreign	bander.une plaie	fra	
+foreign	bander une plaie	fra	
 entry	Deliquium	0	
 orth	Deliquium	lat	
 foreign	défaillance	fra	
@@ -3360,8 +3330,8 @@ foreign	délire	fra
 entry	Delocatio	0	
 orth	Delocatio	lat	
 foreign	dislocation	fra	
-entry	Deltoïdes	0	
-orth	Deltoïdes	lat	
+entry	Deltoides	0	
+orth	Deltoides	lat	
 foreign	deltoïde	fra	
 entry	Dementia	0	
 orth	Dementia	lat	
@@ -3383,7 +3353,7 @@ orth	Dentarius	lat
 foreign	dentaire	fra	
 entry	Dentaria herba	0	
 orth	Dentaria herba	lat	
-foreign	la dentaire	fra	
+foreign	dentaire (la)	fra	
 entry	Dentatus	0	
 orth	Dentatus	lat	
 foreign	denté	fra	
@@ -3409,9 +3379,9 @@ foreign	dérivation	fra
 entry	Derma	0	
 orth	Derma	lat	
 foreign	peau	fra	
-entry	Derma toides	0	
-orth	Derma toides	lat	
-foreign	der ma toi de	fra	
+entry	Dermatoides	0	
+orth	Dermatoides	lat	
+foreign	dermatoïde	fra	
 entry	Desiccativus	0	
 orth	Desiccativus	lat	
 foreign	dessiccatif	fra	
@@ -3466,10 +3436,10 @@ orth	Diæta	lat
 foreign	diète	fra	
 entry	Diætetica	0	
 orth	Diætetica	lat	
-foreign	la diététique	fra	
+foreign	diététique (la)	fra	
 entry	Diagnosis	0	
 orth	Diagnosis	lat	
-foreign	le diagnostic	fra	
+foreign	diagnostic (le)	fra	
 entry	Diagnosticus	0	
 orth	Diagnosticus	lat	
 foreign	diagnostique	fra	
@@ -3492,8 +3462,8 @@ foreign	diaphragmatique	fra
 entry	Diaphysis	0	
 orth	Diaphysis	lat	
 foreign	diaphyse	fra	
-entry	Diarrhoea	0	
-orth	Diarrhoea	lat	
+entry	Diarrhœa	0	
+orth	Diarrhœa	lat	
 foreign	diarrhée	fra	
 entry	Diastasis	0	
 orth	Diastasis	lat	
@@ -3501,15 +3471,14 @@ foreign	diastase	fra
 entry	Diastole	0	
 orth	Diastole	lat	
 foreign	diastole	fra	
-entry	Dia thesis	0	
-orth	Dia thesis	lat	
+entry	Diathesis	0	
+orth	Diathesis	lat	
 foreign	diathèse	fra	
 entry	Dichotomus	0	
 orth	Dichotomus	lat	
 foreign	dichotome	fra	
 entry	Dicondyli	0	
 orth	Dicondyli	lat	
-foreign	doigts réunis par une membrane	fra	
 entry	Dictamnus	0	
 orth	Dictamnus	lat	
 foreign	dictamne	fra	
@@ -3528,9 +3497,9 @@ foreign	testicule	fra
 entry	Didynamia	0	
 orth	Didynamia	lat	
 foreign	didynamie	fra	
-entry	Digerens, digestivus	0	
+entry	Digerens, Digestivus	0	
 orth	Digerens	lat	
-orth	Digestivus		
+orth	Digestivus	lat	
 foreign	digestif	fra	
 entry	Digestio	0	
 orth	Digestio	lat	
@@ -3562,11 +3531,11 @@ orth	Diradiatio	lat
 foreign	irradiation	fra	
 entry	Disciforme os	0	
 orth	Disciforme os	lat	
-foreign	la rotule	fra	
+foreign	rotule (la)	fra	
 entry	Discoides	0	
 orth	Discoides	lat	
 foreign	discoïde	fra	
-foreign	le cristallin (Albinus)	fra	
+foreign	cristallin (Albinus) (le)	fra	
 entry	Discretus	0	
 orth	Discretus	lat	
 foreign	discret	fra	
@@ -3574,9 +3543,9 @@ entry	Discus	0
 orth	Discus	lat	
 foreign	plateau	fra	
 foreign	disque	fra	
-entry	Discussorius, discutiens	0	
+entry	Discussorius, Discutiens	0	
 orth	Discussorius	lat	
-orth	Discutiens		
+orth	Discutiens	lat	
 foreign	discussif	fra	
 entry	Dissectio	0	
 orth	Dissectio	lat	
@@ -3595,7 +3564,7 @@ orth	Distensio	lat
 foreign	distension	fra	
 entry	Distichiasis	0	
 orth	Distichiasis	lat	
-foreign	distichasis	fra	
+foreign	distichiasis	fra	
 entry	Distorsio	0	
 orth	Distorsio	lat	
 foreign	distorsion	fra	
@@ -3620,7 +3589,7 @@ foreign	docimastique	fra
 entry	Dogmatica medicina	0	
 orth	Dogmatica medicina	lat	
 foreign	médecine dogmatique	fra	
-foreign	rationnelle	fra	
+foreign	médecine rationnelle	fra	
 entry	Dolor	0	
 orth	Dolor	lat	
 foreign	douleur	fra	
@@ -3644,7 +3613,6 @@ orth	Dropax	lat
 foreign	dépilatoire	fra	
 entry	Drupa	0	
 orth	Drupa	lat	
-foreign	olive qui commence à mûrir	fra	
 entry	Ductilis	0	
 orth	Ductilis	lat	
 foreign	ductile	fra	
@@ -3668,12 +3636,12 @@ orth	Dysecœa	lat
 foreign	dysécée	fra	
 entry	Dysenteria	0	
 orth	Dysenteria	lat	
-foreign	dysenterie	fra	
+foreign	dysentérie	fra	
 entry	Dysentericus	0	
 orth	Dysentericus	lat	
 foreign	dysentérique	fra	
-entry	Dysmenorrhoea	0	
-orth	Dysmenorrhoea	lat	
+entry	Dysmenorrhœa	0	
+orth	Dysmenorrhœa	lat	
 foreign	dysménorrhée	fra	
 entry	Dyspepsia	0	
 orth	Dyspepsia	lat	
@@ -3703,9 +3671,9 @@ foreign	ecbolique	fra
 entry	Eccatharticus	0	
 orth	Eccatharticus	lat	
 foreign	eccathartique	fra	
-entry	Ecchymosis, ecchymoma	0	
+entry	Ecchymosis, Ecchymoma	0	
 orth	Ecchymosis	lat	
-orth	Ecchymoma		
+orth	Ecchymoma	lat	
 foreign	ecchymose	fra	
 entry	Eccope	0	
 orth	Eccope	lat	
@@ -3721,7 +3689,7 @@ orth	Eclecticus	lat
 foreign	éclectique	fra	
 entry	Eclegma	0	
 orth	Eclegma	lat	
-foreign	èclegme	fra	
+foreign	éclegme	fra	
 foreign	looch	fra	
 entry	Ecphysis	0	
 orth	Ecphysis	lat	
@@ -3773,9 +3741,9 @@ entry	Elephantiacus	0
 orth	Elephantiacus	lat	
 foreign	ladre	fra	
 foreign	lépreux	fra	
-entry	Elephantiasis, elephas	0	
+entry	Elephantiasis, Elephas	0	
 orth	Elephantiasis	lat	
-orth	Elephas		
+orth	Elephas	lat	
 foreign	éléphantiasis	fra	
 entry	Elixare	0	
 orth	Elixare	lat	
@@ -3873,7 +3841,6 @@ orth	Engastrimythus	lat
 foreign	engastrimythe	fra	
 entry	Enodis	0	
 orth	Enodis	lat	
-foreign	sans nœuds	fra	
 entry	Ensiformis	0	
 orth	Ensiformis	lat	
 foreign	ensiforme	fra	
@@ -3881,15 +3848,14 @@ foreign	xiphoïde	fra
 entry	Enterocele	0	
 orth	Enterocele	lat	
 foreign	entérocèle	fra	
-entry	Eritomologia	0	
-orth	Eritomologia	lat	
+entry	Entomologia	0	
+orth	Entomologia	lat	
 foreign	entomologie	fra	
 entry	Enucleare	0	
 orth	Enucleare	lat	
 foreign	énucléer	fra	
 entry	Enuresis	0	
 orth	Enuresis	lat	
-foreign	incontinence d’urine	fra	
 entry	Ephelis	0	
 orth	Ephelis	lat	
 foreign	éphélide	fra	
@@ -3902,7 +3868,7 @@ foreign	éphialte	fra
 foreign	cauchemar	fra	
 entry	Ephippium	0	
 orth	Ephippium	lat	
-foreign	'selle (turcique du sphénoïde)	fra	
+foreign	selle (turcique du sphénoïde)	fra	
 entry	Epicrisis	0	
 orth	Epicrisis	lat	
 foreign	épicrise	fra	
@@ -3935,7 +3901,7 @@ orth	Epilepticus	lat
 foreign	épileptique	fra	
 entry	Epinyctis	0	
 orth	Epinyctis	lat	
-foreign	épinydide	fra	
+foreign	épinyctide	fra	
 entry	Epiphora	0	
 orth	Epiphora	lat	
 foreign	épiphora	fra	
@@ -4060,7 +4026,6 @@ orth	Excisio	lat
 foreign	excision	fra	
 entry	Excisorius	0	
 orth	Excisorius	lat	
-foreign	qui sert à couper	fra	
 entry	Excoriatio	0	
 orth	Excoriatio	lat	
 foreign	excoriation	fra	
@@ -4072,7 +4037,7 @@ orth	Excrescentia	lat
 foreign	excroissance	fra	
 entry	Excreta	0	
 orth	Excreta	lat	
-foreign	les excreta	fra	
+foreign	excreta (les)	fra	
 entry	Excretio	0	
 orth	Excretio	lat	
 foreign	excrétion	fra	
@@ -4154,6 +4119,7 @@ orth	Exunctio	lat
 foreign	onction	fra	
 entry	Exungulare	0	
 orth	Exungulare	lat	
+foreign	perdre ses soles	fra	
 entry	Facies	0	
 orth	Facies	lat	
 foreign	face	fra	
@@ -4200,8 +4166,8 @@ orth	Fatuitas	lat
 foreign	démence	fra	
 entry	Fauces	0	
 orth	Fauces	lat	
-foreign	le gosier	fra	
-foreign	le pharynx	fra	
+foreign	gosier (le)	fra	
+foreign	pharynx (le)	fra	
 entry	Febricitans	0	
 orth	Febricitans	lat	
 foreign	fébricitant	fra	
@@ -4223,6 +4189,8 @@ foreign	bile	fra
 foreign	fiel	fra	
 entry	Femen	0	
 orth	Femen	lat	
+foreign	cuisse	fra	
+foreign	fémur (le)	fra	
 entry	Femina	0	
 orth	Femina	lat	
 foreign	femme	fra	
@@ -4231,10 +4199,11 @@ orth	Femoralis	lat
 foreign	fémoral	fra	
 entry	Femur	0	
 orth	Femur	lat	
-foreign	l’os fémur	fra	
-foreign	.la cuisse	fra	
+foreign	os fémur (l')	fra	
+foreign	cuisse (la)	fra	
 entry	Fendicæ	0	
 orth	Fendicæ	lat	
+foreign	feuillet (le)	fra	
 entry	Fermentescere	0	
 orth	Fermentescere	lat	
 foreign	fermenter	fra	
@@ -4243,7 +4212,6 @@ orth	Fermentum	lat
 foreign	ferment	fra	
 entry	Ferramentum	0	
 orth	Ferramentum	lat	
-foreign	instrument de chirurgie	fra	
 entry	Ferraria aqua	0	
 orth	Ferraria aqua	lat	
 foreign	eau de forge	fra	
@@ -4260,7 +4228,7 @@ foreign	fer	fra
 entry	Ferula	0	
 orth	Ferula	lat	
 foreign	éclisse	fra	
-foreign	la férule (plante)	fra	
+foreign	férule (la) (plante)	fra	
 entry	Fibra	0	
 orth	Fibra	lat	
 foreign	fibre	fra	
@@ -4274,10 +4242,10 @@ orth	Fibulatio	lat
 foreign	fibulation	fra	
 entry	Ficosus	0	
 orth	Ficosus	lat	
-foreign	couvert de fies	fra	
+foreign	couvert de fics	fra	
 entry	Ficus	0	
 orth	Ficus	lat	
-foreign	fie	fra	
+foreign	fic	fra	
 entry	Filix	0	
 orth	Filix	lat	
 foreign	fougère	fra	
@@ -4321,7 +4289,7 @@ orth	Fluxus	lat
 foreign	flux	fra	
 entry	Fœniculum	0	
 orth	Fœniculum	lat	
-foreign	le fenouil	fra	
+foreign	fenouil	fra	
 entry	Fœnum	0	
 orth	Fœnum	lat	
 foreign	foin	fra	
@@ -4340,9 +4308,9 @@ foreign	feuille	fra
 entry	Folliculus	0	
 orth	Folliculus	lat	
 foreign	follicule	fra	
-entry	Fomentatio, fomentum	0	
+entry	Fomentatio, Fomentum	0	
 orth	Fomentatio	lat	
-orth	Fomentum		
+orth	Fomentum	lat	
 foreign	fomentation	fra	
 entry	Forceps	0	
 orth	Forceps	lat	
@@ -4384,7 +4352,7 @@ orth	Fricamentum	lat
 foreign	friction	fra	
 entry	Fricatorium	0	
 orth	Fricatorium	lat	
-foreign	Uniment	fra	
+foreign	liniment	fra	
 entry	Frictio	0	
 orth	Frictio	lat	
 foreign	friction	fra	
@@ -4452,7 +4420,7 @@ foreign	corde du tympan	fra
 entry	Furfur	0	
 orth	Furfur	lat	
 foreign	son	fra	
-foreign	squames de la tête	fra	
+foreign	squames	fra	
 entry	Furfuraceus	0	
 orth	Furfuraceus	lat	
 foreign	furfuracé	fra	
@@ -4476,8 +4444,8 @@ foreign	galbanum	fra
 entry	Galena	0	
 orth	Galena	lat	
 foreign	galène	fra	
-entry	Galeniçus	0	
-orth	Galeniçus	lat	
+entry	Galenicus	0	
+orth	Galenicus	lat	
 foreign	galénique	fra	
 entry	Galla	0	
 orth	Galla	lat	
@@ -4488,8 +4456,8 @@ foreign	poule	fra
 entry	Ganglion	0	
 orth	Ganglion	lat	
 foreign	ganglion	fra	
-entry	Gangraena	0	
-orth	Gangraena	lat	
+entry	Gangræna	0	
+orth	Gangræna	lat	
 foreign	gangrène	fra	
 entry	Gargarisma	0	
 orth	Gargarisma	lat	
@@ -4506,16 +4474,16 @@ orth	Gastricus	lat
 foreign	gastrique	fra	
 entry	Gelasinus	0	
 orth	Gelasinus	lat	
-foreign	la fossette des joues	fra	
+foreign	fossette (la)	fra	
 entry	Gelatum jus	0	
 orth	Gelatum jus	lat	
 foreign	gelée	fra	
-entry	Gemell us	0	
-orth	Gemell us	lat	
+entry	Gemellus	0	
+orth	Gemellus	lat	
 foreign	jumeau	fra	
 entry	Gemma	0	
 orth	Gemma	lat	
-foreign	bourgeon des plantes	fra	
+foreign	bourgeon	fra	
 entry	Gemmatio	0	
 orth	Gemmatio	lat	
 foreign	gemmation	fra	
@@ -4603,9 +4571,9 @@ entry	Gluma	0
 orth	Gluma	lat	
 foreign	balle	fra	
 foreign	glume	fra	
-entry	Glus, gluten	0	
+entry	Glus, Gluten	0	
 orth	Glus	lat	
-orth	Gluten		
+orth	Gluten	lat	
 foreign	colle	fra	
 foreign	glu	fra	
 entry	Glutinans	0	
@@ -4634,14 +4602,14 @@ orth	Gramiosus	lat
 foreign	chassieux	fra	
 entry	Grando	0	
 orth	Grando	lat	
-foreign	grêle	fra	
+foreign	grêle (s.f.)	fra	
 entry	Granum	0	
 orth	Granum	lat	
 foreign	grain	fra	
 foreign	graine	fra	
 entry	Gravatio	0	
 orth	Gravatio	lat	
-foreign	appesantissement du corps	fra	
+foreign	appesantissement	fra	
 entry	Gravedo	0	
 orth	Gravedo	lat	
 foreign	coryza	fra	
@@ -4675,7 +4643,7 @@ orth	Gustatio	lat
 foreign	gustation	fra	
 entry	Gustus	0	
 orth	Gustus	lat	
-foreign	le goût	fra	
+foreign	goût (le)	fra	
 entry	Gutta	0	
 orth	Gutta	lat	
 foreign	goutte	fra	
@@ -4689,10 +4657,10 @@ foreign	gypse	fra
 entry	Habenula	0	
 orth	Habenula	lat	
 foreign	lambeau étroit de chair	fra	
-entry	Habitus, habitudo	0	
+entry	Habitus, Habitudo	0	
 orth	Habitus	lat	
-orth	Habitudo		
-foreign	l’habitude dû corps	fra	
+orth	Habitudo	lat	
+foreign	habitude du corps (l')	fra	
 entry	Hæmatites	0	
 orth	Hæmatites	lat	
 foreign	hématite	fra	
@@ -4702,14 +4670,13 @@ foreign	hémoptyique	fra
 entry	Hæmoptysis	0	
 orth	Hæmoptysis	lat	
 foreign	hémoptysie	fra	
-entry	Haemorrhagia	0	
-orth	Haemorrhagia	lat	
+entry	Hæmorrhagia	0	
+orth	Hæmorrhagia	lat	
 foreign	hémorrhagie	fra	
 entry	Hæmorrhoicus	0	
 orth	Hæmorrhoicus	lat	
-foreign	qui a des hémorrhoides	fra	
-entry	Haemorrhoides	0	
-orth	Haemorrhoides	lat	
+entry	Hæmorrhoides	0	
+orth	Hæmorrhoides	lat	
 foreign	hémorrhoïdes	fra	
 entry	Hæmostaticus	0	
 orth	Hæmostaticus	lat	
@@ -4723,9 +4690,9 @@ foreign	haleine	fra
 entry	Hallucinatio	0	
 orth	Hallucinatio	lat	
 foreign	hallucination	fra	
-entry	Hallus, allus	0	
+entry	Hallus, Allus	0	
 orth	Hallus	lat	
-orth	Allus		
+orth	Allus	lat	
 foreign	premier orteil	fra	
 entry	Halter	0	
 orth	Halter	lat	
@@ -4737,16 +4704,16 @@ orth	Harmonia	lat
 foreign	harmonie	fra	
 entry	Hastatus	0	
 orth	Hastatus	lat	
-foreign	haslé	fra	
+foreign	hasté	fra	
 entry	Hebetudo visus	0	
 orth	Hebetudo visus	lat	
 foreign	amblyopie	fra	
 entry	Hedera	0	
 orth	Hedera	lat	
-foreign	le lierre	fra	
+foreign	lierre (le)	fra	
 entry	Hedysma	0	
 orth	Hedysma	lat	
-foreign	essence de fleurs	fra	
+foreign	essence	fra	
 entry	Helix	0	
 orth	Helix	lat	
 foreign	hélix	fra	
@@ -4755,7 +4722,7 @@ orth	Helleborare	lat
 foreign	purger avec l’ellébore	fra	
 entry	Helleborus	0	
 orth	Helleborus	lat	
-foreign	l’ellébore	fra	
+foreign	ellébore	fra	
 entry	Hemerobius	0	
 orth	Hemerobius	lat	
 foreign	éphémère	fra	
@@ -4771,14 +4738,13 @@ orth	Hepar	lat
 foreign	foie	fra	
 entry	Hepatia	0	
 orth	Hepatia	lat	
-foreign	les intestins	fra	
+foreign	intestins (les)	fra	
 entry	Hepatice	0	
 orth	Hepatice	lat	
 foreign	affection du foie	fra	
 entry	Hepaticus	0	
 orth	Hepaticus	lat	
 foreign	hépatique	fra	
-foreign	qui a unê hépatite	fra	
 entry	Hepatitis	0	
 orth	Hepatitis	lat	
 foreign	hépatite	fra	
@@ -4831,10 +4797,10 @@ foreign	verveine	fra
 entry	Hilum	0	
 orth	Hilum	lat	
 foreign	hile	fra	
-foreign	ombilic d’une graine	fra	
+foreign	ombilic	fra	
 entry	Hippuris	0	
 orth	Hippuris	lat	
-foreign	prèle	fra	
+foreign	prêle	fra	
 entry	Hirudo	0	
 orth	Hirudo	lat	
 foreign	sangsue	fra	
@@ -4844,8 +4810,8 @@ foreign	hispide	fra
 entry	Homo	0	
 orth	Homo	lat	
 foreign	homme	fra	
-entry	Homoeomeria	0	
-orth	Homoeomeria	lat	
+entry	Homœomeria	0	
+orth	Homœomeria	lat	
 foreign	homœomérie	fra	
 entry	Honorarium	0	
 orth	Honorarium	lat	
@@ -4861,7 +4827,7 @@ orth	Horripilatio	lat
 foreign	horripilation	fra	
 entry	Horror	0	
 orth	Horror	lat	
-foreign	le frissonnement	fra	
+foreign	frissonnement (le)	fra	
 entry	Humectans	0	
 orth	Humectans	lat	
 foreign	humectant	fra	
@@ -4897,13 +4863,12 @@ orth	Hydrargyrus	lat
 foreign	mercure	fra	
 entry	Hydrenterocele	0	
 orth	Hydrenterocele	lat	
-foreign	hydr entérocèle	fra	
+foreign	hydrentérocèle	fra	
 entry	Hydrocele	0	
 orth	Hydrocele	lat	
 foreign	hydrocèle	fra	
 entry	Hydrocelicus	0	
 orth	Hydrocelicus	lat	
-foreign	qui a une hydrocèle	fra	
 entry	Hydromeli	0	
 orth	Hydromeli	lat	
 foreign	hydromel	fra	
@@ -4916,9 +4881,9 @@ foreign	d’hydrophobie	fra
 entry	Hydropicus	0	
 orth	Hydropicus	lat	
 foreign	hydropique	fra	
-entry	Hydropisis, hydropismus	0	
+entry	Hydropisis, Hydropismus	0	
 orth	Hydropisis	lat	
-orth	Hydropismus		
+orth	Hydropismus	lat	
 foreign	hydropisie	fra	
 entry	Hydropota	0	
 orth	Hydropota	lat	
@@ -4928,10 +4893,8 @@ orth	Hydrops	lat
 foreign	hydropisie	fra	
 entry	Hygra	0	
 orth	Hygra	lat	
-foreign	sorte de collyre	fra	
 entry	Hygrophobia	0	
 orth	Hygrophobia	lat	
-foreign	horreur pour les liquides	fra	
 entry	Hymen	0	
 orth	Hymen	lat	
 foreign	hymen (membrane)	fra	
@@ -4947,20 +4910,20 @@ foreign	hypercrise	fra
 entry	Hypersarcosis	0	
 orth	Hypersarcosis	lat	
 foreign	hypersarcose	fra	
-foreign	ex­croissance	fra	
+foreign	excroissance	fra	
 entry	Hypnobates	0	
 orth	Hypnobates	lat	
 foreign	hypnobate	fra	
-foreign	somnam­bule	fra	
+foreign	somnambule	fra	
 entry	Hypnoticus	0	
 orth	Hypnoticus	lat	
 foreign	hypnotique	fra	
 entry	Hypochondrium	0	
 orth	Hypochondrium	lat	
 foreign	hypochondre	fra	
-entry	Hypochyma, hypochisis	0	
+entry	Hypochyma, Hypochisis	0	
 orth	Hypochyma	lat	
-orth	Hypochisis		
+orth	Hypochisis	lat	
 foreign	cataracte	fra	
 entry	Hypogastricus	0	
 orth	Hypogastricus	lat	
@@ -4997,13 +4960,13 @@ orth	Iatraliptice	lat
 foreign	iatraliptique	fra	
 entry	Iatrice	0	
 orth	Iatrice	lat	
-foreign	la médecine	fra	
+foreign	médecine (la)	fra	
 entry	Iatricus	0	
 orth	Iatricus	lat	
 foreign	iatrique	fra	
 entry	Iatrus	0	
 orth	Iatrus	lat	
-foreign	le doigt annulaire	fra	
+foreign	doigt annulaire (le)	fra	
 entry	Ichor	0	
 orth	Ichor	lat	
 foreign	ichor	fra	
@@ -5012,7 +4975,7 @@ orth	Ichthyocolla	lat
 foreign	ichthyocolle	fra	
 entry	Ichthyophagus	0	
 orth	Ichthyophagus	lat	
-foreign	Ichthyophage	fra	
+foreign	ichthyophage	fra	
 entry	Icterus	0	
 orth	Icterus	lat	
 foreign	ictère	fra	
@@ -5025,9 +4988,9 @@ foreign	coup de soleil	fra
 entry	Idea	0	
 orth	Idea	lat	
 foreign	idée	fra	
-entry	Idiopalhia	0	
-orth	Idiopalhia	lat	
-foreign	idiopalhie	fra	
+entry	Idiopathia	0	
+orth	Idiopathia	lat	
+foreign	idiopathie	fra	
 entry	Idiotismus	0	
 orth	Idiotismus	lat	
 foreign	idiotisme	fra	
@@ -5041,19 +5004,18 @@ foreign	érysipèle	fra
 foreign	calvitie	fra	
 entry	Ileon	0	
 orth	Ileon	lat	
-foreign	l’iléon	fra	
+foreign	iléon (l')	fra	
 entry	Ileosus	0	
 orth	Ileosus	lat	
-foreign	sujet aux coliques	fra	
 entry	Ileus	0	
 orth	Ileus	lat	
-foreign	l’iléus	fra	
+foreign	iléus (l')	fra	
 entry	Ilex	0	
 orth	Ilex	lat	
-foreign	le houx	fra	
+foreign	houx (le)	fra	
 entry	Ilia	0	
 orth	Ilia	lat	
-foreign	les flancs	fra	
+foreign	flancs (les)	fra	
 entry	Illacrymatio	0	
 orth	Illacrymatio	lat	
 foreign	épiphora	fra	
@@ -5077,12 +5039,11 @@ entry	Impetigo	0
 orth	Impetigo	lat	
 foreign	gale	fra	
 foreign	dartre	fra	
-entry	Impraeputiatus	0	
-orth	Impraeputiatus	lat	
+entry	Impræputiatus	0	
+orth	Impræputiatus	lat	
 foreign	circoncis	fra	
 entry	Impubes	0	
 orth	Impubes	lat	
-foreign	qui n’a pas de poils	fra	
 entry	Inania	0	
 orth	Inania	lat	
 foreign	inanition	fra	
@@ -5109,7 +5070,6 @@ orth	Incoctio	lat
 foreign	décoction	fra	
 entry	Incontinens	0	
 orth	Incontinens	lat	
-foreign	qui ne retient pas	fra	
 entry	Incontinentia	0	
 orth	Incontinentia	lat	
 foreign	incontinence	fra	
@@ -5119,38 +5079,38 @@ foreign	incrassant	fra
 entry	Incrustatio	0	
 orth	Incrustatio	lat	
 foreign	incrustation	fra	
-entry	Incubatio, incubitus	0	
+entry	Incubatio, Incubitus	0	
 orth	Incubatio	lat	
-orth	Incubitus		
+orth	Incubitus	lat	
 foreign	incubation	fra	
-entry	Incubus, incubo	0	
+entry	Incubus, Incubo	0	
 orth	Incubus	lat	
-orth	Incubo		
+orth	Incubo	lat	
 foreign	incube	fra	
 foreign	cauchemar	fra	
 entry	Incumbens	0	
 orth	Incumbens	lat	
 foreign	incombant	fra	
-entry	Incus, os incudis	0	
+entry	Incus, Os incudis	0	
 orth	Incus	lat	
-orth	Os incudis		
-foreign	l’enclume	fra	
+orth	Os incudis	lat	
+foreign	enclume (l')	fra	
 entry	Index	0	
 orth	Index	lat	
-foreign	l’index	fra	
+foreign	index (l')	fra	
 entry	Indicans	0	
 orth	Indicans	lat	
 foreign	indicant	fra	
 entry	Indicatio	0	
 orth	Indicatio	lat	
-foreign	l’indication	fra	
+foreign	indication (l')	fra	
 entry	Indicatura	0	
 orth	Indicatura	lat	
 foreign	indice	fra	
 foreign	symptôme	fra	
-entry	Indigena, indigenus	0	
+entry	Indigena, Indigenus	0	
 orth	Indigena	lat	
-orth	Indigenus		
+orth	Indigenus	lat	
 foreign	indigène	fra	
 entry	Indigestibilis	0	
 orth	Indigestibilis	lat	
@@ -5169,7 +5129,6 @@ orth	Induratus	lat
 foreign	induré	fra	
 entry	Inedia	0	
 orth	Inedia	lat	
-foreign	privation de nourriture	fra	
 foreign	diète	fra	
 entry	Inertia	0	
 orth	Inertia	lat	
@@ -5182,7 +5141,6 @@ orth	Infanticida	lat
 foreign	infanticide	fra	
 entry	Infanticidium	0	
 orth	Infanticidium	lat	
-foreign	meurtre d’un enfant	fra	
 entry	Infibulatio	0	
 orth	Infibulatio	lat	
 foreign	bouclement	fra	
@@ -5199,7 +5157,7 @@ foreign	enflure	fra
 foreign	gonflement	fra	
 entry	Inflexus	0	
 orth	Inflexus	lat	
-foreign	inflexion de la voix	fra	
+foreign	inflexion	fra	
 entry	Infundibuliformis	0	
 orth	Infundibuliformis	lat	
 foreign	infundibuliforme	fra	
@@ -5213,7 +5171,7 @@ orth	Ingluvies	lat
 foreign	jabot	fra	
 entry	Ingesta	0	
 orth	Ingesta	lat	
-foreign	les ingesta	fra	
+foreign	ingesta (les)	fra	
 entry	Inguen	0	
 orth	Inguen	lat	
 foreign	aine	fra	
@@ -5228,7 +5186,7 @@ orth	Innominatus	lat
 foreign	innominé	fra	
 entry	Inoculatio	0	
 orth	Inoculatio	lat	
-foreign	ente en écusson	fra	
+foreign	ente	fra	
 entry	Inquietudo	0	
 orth	Inquietudo	lat	
 foreign	anxiété	fra	
@@ -5239,9 +5197,9 @@ foreign	insalubre	fra
 entry	Insanabilis	0	
 orth	Insanabilis	lat	
 foreign	incurable	fra	
-entry	Insania, insanitas	0	
+entry	Insania, Insanitas	0	
 orth	Insania	lat	
-orth	Insanitas		
+orth	Insanitas	lat	
 foreign	démence	fra	
 foreign	manie	fra	
 entry	Insecabilia corpora	0	
@@ -5270,9 +5228,9 @@ foreign	greffe	fra
 entry	Insolatio	0	
 orth	Insolatio	lat	
 foreign	insolation	fra	
-entry	Insomnietas, insomnia	0	
+entry	Insomnietas, Insomnia	0	
 orth	Insomnietas	lat	
-orth	Insomnia		
+orth	Insomnia	lat	
 foreign	insomnie	fra	
 entry	Insomnium	0	
 orth	Insomnium	lat	
@@ -5312,7 +5270,7 @@ orth	Intellectualis	lat
 foreign	intellectuel	fra	
 entry	Intellectualitas	0	
 orth	Intellectualitas	lat	
-foreign	intellectüalité	fra	
+foreign	intellectualité	fra	
 entry	Intellectus	0	
 orth	Intellectus	lat	
 foreign	intellect	fra	
@@ -5327,7 +5285,6 @@ orth	Intercidentia	lat
 foreign	intercadence	fra	
 entry	Intercilium	0	
 orth	Intercilium	lat	
-foreign	entre-deux des sourcils	fra	
 entry	Intercurrens	0	
 orth	Intercurrens	lat	
 foreign	intercurrent	fra	
@@ -5366,10 +5323,10 @@ orth	Intumescentia	lat
 foreign	intumescence	fra	
 entry	Inula	0	
 orth	Inula	lat	
-foreign	année	fra	
+foreign	aunée	fra	
 entry	Inunctio	0	
 orth	Inunctio	lat	
-foreign	Uniment	fra	
+foreign	liniment	fra	
 entry	Involucrum	0	
 orth	Involucrum	lat	
 foreign	involucre	fra	
@@ -5390,14 +5347,14 @@ orth	Ischiadicus	lat
 foreign	ischiadique	fra	
 entry	Ischias	0	
 orth	Ischias	lat	
-foreign	la sciatique	fra	
+foreign	sciatique (la)	fra	
 entry	Ischuria	0	
 orth	Ischuria	lat	
 foreign	ischurie	fra	
 pb	1717	1731	
 entry	Isthmus gutturis	0	
 orth	Isthmus gutturis	lat	
-foreign	l’isthme du pharynx	fra	
+foreign	isthme du pharynx (l')	fra	
 entry	Iulus	0	
 orth	Iulus	lat	
 foreign	chaton	fra	
@@ -5406,7 +5363,6 @@ orth	Jactatio	lat
 foreign	jactation	fra	
 entry	Jecinorosus	0	
 orth	Jecinorosus	lat	
-foreign	qui a te foie malade	fra	
 entry	Jecoralis	0	
 orth	Jecoralis	lat	
 foreign	de foie	fra	
@@ -5424,7 +5380,7 @@ orth	Jugale os	lat
 foreign	os de la pommette	fra	
 entry	Juglans	0	
 orth	Juglans	lat	
-foreign	le noyer	fra	
+foreign	noyer (le)	fra	
 entry	Jugulum	0	
 orth	Jugulum	lat	
 foreign	gorge	fra	
@@ -5442,10 +5398,9 @@ orth	Juxtapositus	lat
 foreign	juxtaposé	fra	
 entry	Labiosus	0	
 orth	Labiosus	lat	
-foreign	qui a de grosses lèvres	fra	
-entry	Labium, labrum	0	
+entry	Labium, Labrum	0	
 orth	Labium	lat	
-orth	Labrum		
+orth	Labrum	lat	
 foreign	lèvre	fra	
 entry	Labyrinthus	0	
 orth	Labyrinthus	lat	
@@ -5455,9 +5410,8 @@ orth	Lac	lat
 foreign	lait	fra	
 entry	Lacertus	0	
 orth	Lacertus	lat	
-foreign	la partie supérieure du bras	fra	
-entry	Lacini'atus	0	
-orth	Lacini'atus	lat	
+entry	Laciniatus	0	
+orth	Laciniatus	lat	
 foreign	lacinié	fra	
 entry	Lacryma	0	
 orth	Lacryma	lat	
@@ -5514,7 +5468,7 @@ orth	Lambdacismus	lat
 foreign	lambdacisme	fra	
 entry	Lambdoides	0	
 orth	Lambdoides	lat	
-foreign	lambdoide	fra	
+foreign	lambdoïde	fra	
 entry	Lanceolatus	0	
 orth	Lanceolatus	lat	
 foreign	lancéolé	fra	
@@ -5529,13 +5483,13 @@ orth	Lapidosus	lat
 foreign	pierreux	fra	
 entry	Lapidosum os	0	
 orth	Lapidosum os	lat	
-foreign	le rocher	fra	
+foreign	rocher (le)	fra	
 entry	Lapis	0	
 orth	Lapis	lat	
 foreign	pierre	fra	
 entry	Lappa	0	
 orth	Lappa	lat	
-foreign	bar dane	fra	
+foreign	bardane	fra	
 entry	Lassitudo	0	
 orth	Lassitudo	lat	
 foreign	lassitude	fra	
@@ -5559,9 +5513,9 @@ entry	Lavatio	0
 orth	Lavatio	lat	
 foreign	bain	fra	
 foreign	lotion	fra	
-entry	Laxans, laxativus	0	
+entry	Laxans, Laxativus	0	
 orth	Laxans	lat	
-orth	Laxativus		
+orth	Laxativus	lat	
 foreign	laxatif	fra	
 entry	Legumen	0	
 orth	Legumen	lat	
@@ -5580,7 +5534,6 @@ orth	Lenticularis	lat
 foreign	lenticulaire	fra	
 entry	Lentiginosus	0	
 orth	Lentiginosus	lat	
-foreign	couvert de taches de rousseur	fra	
 entry	Lentigines	0	
 orth	Lentigines	lat	
 foreign	taches de rousseur	fra	
@@ -5602,10 +5555,9 @@ foreign	atténuant	fra
 entry	Lethalis	0	
 orth	Lethalis	lat	
 foreign	mortel	fra	
-foreign	qui donne la mort	fra	
-entry	Lethargia, lethargus	0	
+entry	Lethargia, Lethargus	0	
 orth	Lethargia	lat	
-orth	Lethargus		
+orth	Lethargus	lat	
 foreign	léthargie	fra	
 entry	Lethargicus	0	
 orth	Lethargicus	lat	
@@ -5624,14 +5576,12 @@ orth	Lexipyrexia	lat
 foreign	apyrexie	fra	
 entry	Liber	0	
 orth	Liber	lat	
-foreign	le liber	fra	
-entry	Lichen 	0	
-orth	Lichen 	lat	
-foreign	(planté)	fra	
+foreign	liber (le)	fra	
+entry	Lichen	0	
+orth	Lichen	lat	
 foreign	lichen	fra	
 entry	Lichen	0	
 orth	Lichen	lat	
-foreign	maladie de la peau	fra	
 entry	Lien	0	
 orth	Lien	lat	
 foreign	rate	fra	
@@ -5686,7 +5636,7 @@ orth	Lingualis	lat
 foreign	lingual	fra	
 entry	Linimen	0	
 orth	Linimen	lat	
-foreign	Uniment	fra	
+foreign	liniment	fra	
 entry	Linteamen	0	
 orth	Linteamen	lat	
 foreign	plumasseau	fra	
@@ -5713,9 +5663,9 @@ foreign	lippitude	fra
 entry	Lippus	0	
 orth	Lippus	lat	
 foreign	chassieux	fra	
-entry	Liquatio, liquefactio 	0	
+entry	Liquatio, Liquefactio 	0	
 orth	Liquatio	lat	
-orth	Liquefactio 		
+orth	Liquefactio	lat	
 foreign	liquéfaction	fra	
 entry	Liquefaciens	0	
 orth	Liquefaciens	lat	
@@ -5734,7 +5684,7 @@ orth	Lithargyrus	lat
 foreign	litharge	fra	
 entry	Litus	0	
 orth	Litus	lat	
-foreign	Uniment	fra	
+foreign	liniment	fra	
 entry	Livor	0	
 orth	Livor	lat	
 foreign	contusion	fra	
@@ -5745,9 +5695,9 @@ foreign	lixiviation	fra
 entry	Lochia	0	
 orth	Lochia	lat	
 foreign	lochies	fra	
-entry	Loci, loca	0	
+entry	Loci, Loca	0	
 orth	Loci	lat	
-orth	Loca		
+orth	Loca	lat	
 foreign	utérus	fra	
 entry	Loculamentum	0	
 orth	Loculamentum	lat	
@@ -5756,10 +5706,10 @@ foreign	loge	fra
 foreign	alvéole	fra	
 entry	Logica medicina	0	
 orth	Logica medicina	lat	
-foreign	la médecine théorique	fra	
+foreign	médecine théorique (la)	fra	
 entry	Longano	0	
 orth	Longano	lat	
-foreign	le rectum	fra	
+foreign	rectum (le)	fra	
 entry	Loquacitas	0	
 orth	Loquacitas	lat	
 foreign	loquacité	fra	
@@ -5783,7 +5733,6 @@ orth	Lumbi	lat
 foreign	lombes	fra	
 entry	Lumbricosus	0	
 orth	Lumbricosus	lat	
-foreign	qui a des lombrics	fra	
 entry	Lumbricus	0	
 orth	Lumbricus	lat	
 foreign	lombric	fra	
@@ -5802,7 +5751,6 @@ orth	Luscus	lat
 foreign	borgne	fra	
 entry	Lutamentum	0	
 orth	Lutamentum	lat	
-foreign	action de luter	fra	
 entry	Lutum	0	
 orth	Lutum	lat	
 foreign	lut	fra	
@@ -5814,7 +5762,6 @@ orth	Lympha	lat
 foreign	eau	fra	
 entry	Lymphaticus	0	
 orth	Lymphaticus	lat	
-foreign	qui a le délire	fra	
 entry	Lymphationes	0	
 orth	Lymphationes	lat	
 foreign	visions	fra	
@@ -5823,7 +5770,6 @@ orth	Lyra	lat
 foreign	lyre	fra	
 entry	Lysis	0	
 orth	Lysis	lat	
-foreign	crise sans phénomènes sensibles	fra	
 entry	Lytta	0	
 orth	Lytta	lat	
 entry	Maceratio	0	
@@ -5831,10 +5777,9 @@ orth	Maceratio	lat
 foreign	macération	fra	
 entry	Machinamentum	0	
 orth	Machinamentum	lat	
-foreign	appareil de chirurgie	fra	
-entry	Macies, macritudo	0	
+entry	Macies, Macritudo	0	
 orth	Macies	lat	
-orth	Macritudo		
+orth	Macritudo	lat	
 foreign	amaigrissement	fra	
 foreign	consomption	fra	
 entry	Macula	0	
@@ -5843,9 +5788,9 @@ foreign	tache	fra
 entry	Mador	0	
 orth	Mador	lat	
 foreign	moiteur	fra	
-entry	Magdaleum, magdalis	0	
+entry	Magdaleum, Magdalis	0	
 orth	Magdaleum	lat	
-orth	Magdalis		
+orth	Magdalis	lat	
 foreign	magdaléon	fra	
 entry	Magisterium	0	
 orth	Magisterium	lat	
@@ -5871,20 +5816,18 @@ orth	Mala	lat
 foreign	mâchoire inférieure	fra	
 entry	Malabathrum	0	
 orth	Malabathrum	lat	
-foreign	malobathrum	fra	
-entry	Malache, maloche	0	
+foreign	malabathrum	fra	
+entry	Malache, Maloche	0	
 orth	Malache	lat	
-orth	Maloche		
-foreign	espèce demauve	fra	
+orth	Maloche	lat	
 entry	Malacia	0	
 orth	Malacia	lat	
-foreign	malade	fra	
+foreign	malacie	fra	
 entry	Malacticus	0	
 orth	Malacticus	lat	
 foreign	émollient	fra	
 entry	Malagma	0	
 orth	Malagma	lat	
-foreign	cataplasme émollient	fra	
 entry	Malandria	0	
 orth	Malandria	lat	
 foreign	malandrie	fra	
@@ -5893,14 +5836,12 @@ orth	Malandria, orum	lat
 foreign	rouvieux	fra	
 entry	Malandriosus	0	
 orth	Malandriosus	lat	
-foreign	atteint de malandrie	fra	
 entry	Malaxare	0	
 orth	Malaxare	lat	
 foreign	malaxer	fra	
 foreign	amollir	fra	
 entry	Malaxatio	0	
 orth	Malaxatio	lat	
-foreign	action de malaxer	fra	
 entry	Malleolus	0	
 orth	Malleolus	lat	
 foreign	marcotte	fra	
@@ -5958,7 +5899,6 @@ orth	Manna	lat
 foreign	manne	fra	
 entry	Mantile	0	
 orth	Mantile	lat	
-foreign	bandage de corps	fra	
 entry	Manua	0	
 orth	Manua	lat	
 foreign	poignée	fra	
@@ -5967,13 +5907,13 @@ orth	Manus	lat
 foreign	main	fra	
 entry	Marcor	0	
 orth	Marcor	lat	
-foreign	le carus	fra	
+foreign	carus (le)	fra	
 entry	Margarita	0	
 orth	Margarita	lat	
 foreign	perle	fra	
 entry	Marisca	0	
 orth	Marisca	lat	
-foreign	fie	fra	
+foreign	fic	fra	
 entry	Marrubium	0	
 orth	Marrubium	lat	
 foreign	marrube	fra	
@@ -6027,9 +5967,9 @@ entry	Medica	0
 orth	Medica	lat	
 foreign	garde-malade	fra	
 foreign	sage-femme	fra	
-entry	Medicamen, medicamentum	0	
+entry	Medicamen, Medicamentum	0	
 orth	Medicamen	lat	
-orth	Medicamentum		
+orth	Medicamentum	lat	
 foreign	médicament	fra	
 entry	Medicamentosus	0	
 orth	Medicamentosus	lat	
@@ -6064,7 +6004,7 @@ orth	Melancholia	lat
 foreign	mélancolie	fra	
 entry	Melania	0	
 orth	Melania	lat	
-foreign	tache noire à la peau	fra	
+foreign	tache noire	fra	
 entry	Meliceris	0	
 orth	Meliceris	lat	
 foreign	mélicéris	fra	
@@ -6089,9 +6029,9 @@ foreign	membre	fra
 entry	Mens	0	
 orth	Mens	lat	
 foreign	esprit	fra	
-entry	Menses, menstrua	0	
+entry	Menses, Menstrua	0	
 orth	Menses	lat	
-orth	Menstrua		
+orth	Menstrua	lat	
 foreign	menstrues	fra	
 entry	Menstrualis	0	
 orth	Menstrualis	lat	
@@ -6116,7 +6056,7 @@ orth	Mephitis	lat
 foreign	mofette	fra	
 entry	Mercurialis	0	
 orth	Mercurialis	lat	
-foreign	la mercuriale (plante)	fra	
+foreign	mercuriale (plante) (la)	fra	
 entry	Mergus	0	
 orth	Mergus	lat	
 foreign	marcotte	fra	
@@ -6129,8 +6069,8 @@ foreign	métal	fra
 entry	Metamorphosis	0	
 orth	Metamorphosis	lat	
 foreign	métamorphose	fra	
-entry	Meiathesis	0	
-orth	Meiathesis	lat	
+entry	Metathesis	0	
+orth	Metathesis	lat	
 foreign	métathèse	fra	
 entry	Microcosmus	0	
 orth	Microcosmus	lat	
@@ -6146,7 +6086,7 @@ orth	Mitella	lat
 foreign	écharpe	fra	
 entry	Mithridatium	0	
 orth	Mithridatium	lat	
-foreign	le mithridate	fra	
+foreign	mithridate (le)	fra	
 entry	Mitigatorius	0	
 orth	Mitigatorius	lat	
 foreign	adoucissant	fra	
@@ -6168,7 +6108,6 @@ orth	Molybdæna	lat
 foreign	molybdène	fra	
 entry	Monoculus	0	
 orth	Monoculus	lat	
-foreign	qui n’a qu’un œil	fra	
 entry	Monstrum	0	
 orth	Monstrum	lat	
 foreign	monstre	fra	
@@ -6186,7 +6125,7 @@ entry	Morbus comitialis	0
 orth	Morbus comitialis	lat	
 foreign	épilepsie	fra	
 entry	Morbus costalis 	0	
-orth	Morbus costalis 	lat	
+orth	Morbus costalis	lat	
 foreign	pleurésie	fra	
 entry	Mordicans	0	
 orth	Mordicans	lat	
@@ -6207,7 +6146,6 @@ foreign	cardialgie	fra
 entry	Mortalis	0	
 orth	Mortalis	lat	
 foreign	mortel	fra	
-foreign	sujet à la mort	fra	
 entry	Mortalitas	0	
 orth	Mortalitas	lat	
 foreign	mortalité	fra	
@@ -6223,10 +6161,8 @@ orth	Morus	lat
 foreign	mûrier	fra	
 entry	Motio	0	
 orth	Motio	lat	
-foreign	accès de fièvre	fra	
 entry	Motiuncula	0	
 orth	Motiuncula	lat	
-foreign	léger accès de fièvre	fra	
 entry	Motor	0	
 orth	Motor	lat	
 foreign	moteur	fra	
@@ -6242,9 +6178,10 @@ foreign	mucus	fra
 foreign	morve	fra	
 entry	Muliebria	0	
 orth	Muliebria	lat	
+foreign	menstrues	fra	
 entry	Mulomedicina	0	
 orth	Mulomedicina	lat	
-foreign	l’hippiatrique	fra	
+foreign	hippiatrique (l')	fra	
 entry	Mulomedicus	0	
 orth	Mulomedicus	lat	
 foreign	hippiatre	fra	
@@ -6266,14 +6203,14 @@ foreign	multiparti	fra
 entry	Mulus	0	
 orth	Mulus	lat	
 foreign	mulet	fra	
-entry	Mundare, mundificare	0	
+entry	Mundare, Mundificare	0	
 orth	Mundare	lat	
-orth	Mundificare		
+orth	Mundificare	lat	
 foreign	monder	fra	
 foreign	mondifier	fra	
 entry	Mundificativus	0	
 orth	Mundificativus	lat	
-foreign	mondiflcatif	fra	
+foreign	mondificatif	fra	
 entry	Muria	0	
 orth	Muria	lat	
 foreign	saumure	fra	
@@ -6315,7 +6252,7 @@ orth	Mutus	lat
 foreign	muet	fra	
 entry	Myagros	0	
 orth	Myagros	lat	
-foreign	la caméline	fra	
+foreign	caméline (la)	fra	
 entry	Mydriasis	0	
 orth	Mydriasis	lat	
 foreign	mydriase	fra	
@@ -6348,7 +6285,7 @@ orth	Myxa	lat
 foreign	sébestier	fra	
 entry	Nævus	0	
 orth	Nævus	lat	
-foreign	nœvus	fra	
+foreign	nævus	fra	
 foreign	envie	fra	
 entry	Nanus	0	
 orth	Nanus	lat	
@@ -6359,8 +6296,8 @@ foreign	naphte	fra
 entry	Napus	0	
 orth	Napus	lat	
 foreign	navet	fra	
-entry	Narçe	0	
-orth	Narçe	lat	
+entry	Narce	0	
+orth	Narce	lat	
 foreign	engourdissement	fra	
 entry	Narcissus	0	
 orth	Narcissus	lat	
@@ -6370,7 +6307,6 @@ orth	Nares	lat
 foreign	narines	fra	
 entry	Narthecium	0	
 orth	Narthecium	lat	
-foreign	boite à serrer les médicaments	fra	
 entry	Nasalis	0	
 orth	Nasalis	lat	
 foreign	nasal	fra	
@@ -6390,7 +6326,7 @@ foreign	nature	fra
 foreign	parties sexuelles	fra	
 entry	Naturalia	0	
 orth	Naturalia	lat	
-foreign	les parties naturelles	fra	
+foreign	parties naturelles (les)	fra	
 entry	Nausea	0	
 orth	Nausea	lat	
 foreign	nausée	fra	
@@ -6410,15 +6346,14 @@ foreign	néphélion	fra
 entry	Nephriticus	0	
 orth	Nephriticus	lat	
 foreign	néphrétique	fra	
-entry	Nephritis; 	0	
-orth	Nephritis; 	lat	
+entry	Nephritis	0	
+orth	Nephritis	lat	
 foreign	néphrite	fra	
 entry	Nerion	0	
 orth	Nerion	lat	
 foreign	laurier-rose	fra	
 entry	Nervicus	0	
 orth	Nervicus	lat	
-foreign	qui soufre de la goutte	fra	
 entry	Nervinus	0	
 orth	Nervinus	lat	
 foreign	nervin	fra	
@@ -6502,7 +6437,6 @@ orth	Nutritio	lat
 foreign	nutrition	fra	
 entry	Nutritura	0	
 orth	Nutritura	lat	
-foreign	action d’élever un enfant	fra	
 entry	Nutrix	0	
 orth	Nutrix	lat	
 foreign	nourrice	fra	
@@ -6517,11 +6451,10 @@ orth	Nyctalops	lat
 foreign	nyctalope	fra	
 entry	Nymphæa	0	
 orth	Nymphæa	lat	
-foreign	le nénuphar	fra	
+foreign	nénuphar (le)	fra	
 pb	1719	1733	
 entry	Obductio	0	
 orth	Obductio	lat	
-foreign	action de fermer une plaie	fra	
 entry	Obdulcare	0	
 orth	Obdulcare	lat	
 foreign	édulcorer	fra	
@@ -6533,13 +6466,11 @@ orth	Obliquus	lat
 foreign	oblique	fra	
 entry	Obstetricia	0	
 orth	Obstetricia	lat	
-foreign	soins donnés par une sage-femme	fra	
 entry	Obstetrix	0	
 orth	Obstetrix	lat	
 foreign	sage-femme	fra	
 entry	Obstipus	0	
 orth	Obstipus	lat	
-foreign	qui a le torticolis	fra	
 entry	Obstructio	0	
 orth	Obstructio	lat	
 foreign	obstruction	fra	
@@ -6550,9 +6481,9 @@ foreign	obstruction	fra
 entry	Obturator	0	
 orth	Obturator	lat	
 foreign	obturateur	fra	
-entry	Occipitium, occiput	0	
+entry	Occipitium, Occiput	0	
 orth	Occipitium	lat	
-orth	Occiput		
+orth	Occiput	lat	
 foreign	occiput	fra	
 entry	Occultus	0	
 orth	Occultus	lat	
@@ -6562,7 +6493,7 @@ orth	Ochra	lat
 foreign	ochre	fra	
 entry	Ocimum	0	
 orth	Ocimum	lat	
-foreign	le basilic	fra	
+foreign	basilic (le)	fra	
 entry	Ocularis	0	
 orth	Ocularis	lat	
 foreign	oculaire	fra	
@@ -6577,30 +6508,29 @@ orth	Odor	lat
 foreign	odeur	fra	
 entry	Odoratio	0	
 orth	Odoratio	lat	
-foreign	action de flairer	fra	
 entry	Odoratus	0	
 orth	Odoratus	lat	
 foreign	odorat	fra	
 entry	Œconomia	0	
 orth	Œconomia	lat	
 foreign	économie	fra	
-entry	Œdema. 	0	
-orth	Œdema. 	lat	
+entry	Œdema	0	
+orth	Œdema	lat	
 foreign	œdème	fra	
 entry	Œnanthe	0	
 orth	Œnanthe	lat	
 foreign	fleur de la vigne vierge	fra	
-entry	Œstrum, œstrus	0	
+entry	Œstrum, Œstrus	0	
 orth	Œstrum	lat	
-orth	Œstrus		
+orth	Œstrus	lat	
 foreign	œstre	fra	
 entry	Œsypum	0	
 orth	Œsypum	lat	
 foreign	suint	fra	
 foreign	laine grasse	fra	
-entry	Oleaceus, oleagineus	0	
+entry	Oleaceus, Oleagineus	0	
 orth	Oleaceus	lat	
-orth	Oleagineus		
+orth	Oleagineus	lat	
 foreign	oléagineux	fra	
 entry	Oleosus	0	
 orth	Oleosus	lat	
@@ -6625,7 +6555,6 @@ orth	Omentum	lat
 foreign	épiploon	fra	
 entry	Omnivorus	0	
 orth	Omnivorus	lat	
-foreign	qui mange de tout	fra	
 entry	Omphalus	0	
 orth	Omphalus	lat	
 foreign	ombilic	fra	
@@ -6657,7 +6586,7 @@ foreign	accablement	fra
 foreign	suffocation	fra	
 entry	Orbiculus	0	
 orth	Orbiculus	lat	
-foreign	orbite de l’œil	fra	
+foreign	orbite	fra	
 entry	Orexis	0	
 orth	Orexis	lat	
 foreign	appétit	fra	
@@ -6689,20 +6618,18 @@ entry	Oryza	0
 orth	Oryza	lat	
 foreign	riz	fra	
 entry	Os, oris	0	
-orth	Os	lat	
-orth	Oris		
+orth	Os, oris	lat	
 foreign	bouche	fra	
 entry	Os, ossis	0	
-orth	Os	lat	
-orth	Ossis		
+orth	Os, ossis	lat	
 foreign	os	fra	
-entry	Oscedo, oscitatio	0	
+entry	Oscedo, Oscitatio	0	
 orth	Oscedo	lat	
-orth	Oscitatio		
+orth	Oscitatio	lat	
 foreign	bâillement	fra	
 entry	Osculatio	0	
 orth	Osculatio	lat	
-foreign	ouverture d’une veine	fra	
+foreign	ouverture	fra	
 entry	Osseus	0	
 orth	Osseus	lat	
 foreign	osseux	fra	
@@ -6726,7 +6653,6 @@ orth	Oxymel	lat
 foreign	oxymel	fra	
 entry	Oxyporum	0	
 orth	Oxyporum	lat	
-foreign	breuvage digestif	fra	
 entry	Ozæna	0	
 orth	Ozæna	lat	
 foreign	ozène	fra	
@@ -6735,7 +6661,7 @@ orth	Pæonia	lat
 foreign	pivoine	fra	
 entry	Palæstrica	0	
 orth	Palæstrica	lat	
-foreign	la gymnastique	fra	
+foreign	gymnastique (la)	fra	
 entry	Palatum	0	
 orth	Palatum	lat	
 foreign	palais	fra	
@@ -6753,7 +6679,7 @@ orth	Palmipes	lat
 foreign	palmipède	fra	
 entry	Palmula	0	
 orth	Palmula	lat	
-foreign	paume de la main	fra	
+foreign	paume	fra	
 foreign	datte	fra	
 entry	Palmularis	0	
 orth	Palmularis	lat	
@@ -6797,7 +6723,7 @@ orth	Panicum	lat
 foreign	panic	fra	
 entry	Pannositas	0	
 orth	Pannositas	lat	
-foreign	rugosité de la peau	fra	
+foreign	rugosité	fra	
 entry	Pannus	0	
 orth	Pannus	lat	
 foreign	compresse	fra	
@@ -6807,7 +6733,6 @@ orth	Pantex	lat
 foreign	abdomen	fra	
 entry	Panus	0	
 orth	Panus	lat	
-foreign	sorte de tumeur	fra	
 entry	Papaver	0	
 orth	Papaver	lat	
 foreign	pavot	fra	
@@ -6823,7 +6748,7 @@ orth	Papula	lat
 foreign	bouton	fra	
 entry	Papyraceus	0	
 orth	Papyraceus	lat	
-foreign	papy racé	fra	
+foreign	papyracé	fra	
 entry	Parabolani	0	
 orth	Parabolani	lat	
 foreign	infirmiers	fra	
@@ -6850,7 +6775,7 @@ orth	Parietalis	lat
 foreign	pariétal	fra	
 entry	Parietaria	0	
 orth	Parietaria	lat	
-foreign	la pariétaire	fra	
+foreign	pariétaire (la)	fra	
 entry	Paronychia	0	
 orth	Paronychia	lat	
 foreign	panaris	fra	
@@ -6859,26 +6784,24 @@ orth	Parotis	lat
 foreign	parotide	fra	
 entry	Partibilis	0	
 orth	Partibilis	lat	
-foreign	partiale	fra	
+foreign	partible	fra	
 entry	Partitus	0	
 orth	Partitus	lat	
 foreign	parti	fra	
 entry	Parturitio	0	
 orth	Parturitio	lat	
 foreign	parturition	fra	
-entry	Partus, partio	0	
+entry	Partus, Partio	0	
 orth	Partus	lat	
-orth	Partio		
+orth	Partio	lat	
 foreign	accouchement	fra	
 entry	Parulis	0	
 orth	Parulis	lat	
 foreign	parulie	fra	
 entry	Parvibibulus	0	
 orth	Parvibibulus	lat	
-foreign	qui boit peu	fra	
 entry	Parvicollis	0	
 orth	Parvicollis	lat	
-foreign	qui a le cou court	fra	
 entry	Passio	0	
 orth	Passio	lat	
 foreign	passion	fra	
@@ -6898,8 +6821,8 @@ foreign	pathétique	fra
 entry	Pator narium	0	
 orth	Pator narium	lat	
 foreign	ouverture des narines	fra	
-entry	Pavot aquæ	0	
-orth	Pavot aquæ	lat	
+entry	Pavor aquæ	0	
+orth	Pavor aquæ	lat	
 foreign	hydrophobie	fra	
 entry	Peccans	0	
 orth	Peccans	lat	
@@ -6940,7 +6863,7 @@ orth	Pellucidus	lat
 foreign	transparent	fra	
 entry	Pelvis	0	
 orth	Pelvis	lat	
-foreign	le bassin	fra	
+foreign	bassin (le)	fra	
 entry	Penicillum	0	
 orth	Penicillum	lat	
 foreign	plumasseau	fra	
@@ -6955,7 +6878,7 @@ orth	Pepo	lat
 foreign	melon	fra	
 entry	Pepticus	0	
 orth	Pepticus	lat	
-foreign	peplique	fra	
+foreign	peptique	fra	
 entry	Perculsus	0	
 orth	Perculsus	lat	
 foreign	coup	fra	
@@ -6997,8 +6920,8 @@ foreign	péripneumonique	fra
 entry	Periscelis	0	
 orth	Periscelis	lat	
 foreign	jarretière	fra	
-entry	Peritonaeum	0	
-orth	Peritonaeum	lat	
+entry	Peritonæum	0	
+orth	Peritonæum	lat	
 foreign	péritoine	fra	
 entry	Perizoma	0	
 orth	Perizoma	lat	
@@ -7055,9 +6978,9 @@ orth	Petrosus	lat
 foreign	pétreux	fra	
 entry	Phænomena	0	
 orth	Phænomena	lat	
-foreign	les phénomènes	fra	
-entry	Phagedaena	0	
-orth	Phagedaena	lat	
+foreign	phénomènes (les)	fra	
+entry	Phagedæna	0	
+orth	Phagedæna	lat	
 foreign	phagédène	fra	
 entry	Phagedænicus	0	
 orth	Phagedænicus	lat	
@@ -7157,7 +7080,7 @@ foreign	tumeur	fra
 foreign	abcès	fra	
 entry	Physice	0	
 orth	Physice	lat	
-foreign	la physique	fra	
+foreign	physique (la)	fra	
 entry	Physiognomon	0	
 orth	Physiognomon	lat	
 foreign	physionomiste	fra	
@@ -7166,7 +7089,6 @@ orth	Physiologia	lat
 foreign	physiologie	fra	
 entry	Picra	0	
 orth	Picra	lat	
-foreign	médicament fait d’aloès	fra	
 entry	Pigmenta	0	
 orth	Pigmenta	lat	
 foreign	drogues	fra	
@@ -7185,9 +7107,9 @@ foreign	pilon	fra
 entry	Pilus	0	
 orth	Pilus	lat	
 foreign	poil	fra	
-entry	Pingue, pinguia	0	
+entry	Pingue, Pinguia	0	
 orth	Pingue	lat	
-orth	Pinguia		
+orth	Pinguia	lat	
 foreign	graisse	fra	
 entry	Pinna	0	
 orth	Pinna	lat	
@@ -7212,7 +7134,7 @@ orth	Pistacium	lat
 foreign	pistache	fra	
 entry	Pistatio	0	
 orth	Pistatio	lat	
-foreign	pislatipn	fra	
+foreign	pistation	fra	
 entry	Pistillum	0	
 orth	Pistillum	lat	
 foreign	pilon	fra	
@@ -7240,7 +7162,7 @@ foreign	plaie	fra
 entry	Planta	0	
 orth	Planta	lat	
 foreign	plante	fra	
-foreign	plante du pied	fra	
+foreign	plante	fra	
 entry	Plantago	0	
 orth	Plantago	lat	
 foreign	plantain	fra	
@@ -7259,9 +7181,9 @@ foreign	pléthore	fra
 entry	Pleuricus	0	
 orth	Pleuricus	lat	
 foreign	latéral	fra	
-entry	Pleurisis, pleuritis	0	
+entry	Pleurisis, Pleuritis	0	
 orth	Pleurisis	lat	
-orth	Pleuritis		
+orth	Pleuritis	lat	
 foreign	pleurésie	fra	
 entry	Pleuriticus	0	
 orth	Pleuriticus	lat	
@@ -7271,7 +7193,7 @@ orth	Plexus	lat
 foreign	plexus	fra	
 entry	Plicatilis	0	
 orth	Plicatilis	lat	
-foreign	plicàtile	fra	
+foreign	plicatile	fra	
 entry	Pluma	0	
 orth	Pluma	lat	
 foreign	plume	fra	
@@ -7292,7 +7214,7 @@ orth	Pneumaticus	lat
 foreign	pneumatique	fra	
 entry	Podagra	0	
 orth	Podagra	lat	
-foreign	goutte aux pieds	fra	
+foreign	goutte	fra	
 entry	Podagricus	0	
 orth	Podagricus	lat	
 foreign	goutteux	fra	
@@ -7301,7 +7223,7 @@ orth	Podagrosus	lat
 foreign	goutteux	fra	
 entry	Podex	0	
 orth	Podex	lat	
-foreign	l’anus	fra	
+foreign	anus (l')	fra	
 entry	Pollen	0	
 orth	Pollen	lat	
 foreign	farine	fra	
@@ -7321,7 +7243,6 @@ orth	Polypus	lat
 foreign	polype	fra	
 entry	Polyrrhizos	0	
 orth	Polyrrhizos	lat	
-foreign	qui a beaucoup de racines	fra	
 entry	Polyspaston	0	
 orth	Polyspaston	lat	
 foreign	moufle	fra	
@@ -7345,7 +7266,7 @@ orth	Porcus	lat
 foreign	porc	fra	
 entry	Porraceus	0	
 orth	Porraceus	lat	
-foreign	pornacé	fra	
+foreign	porracé	fra	
 entry	Porrigo	0	
 orth	Porrigo	lat	
 foreign	teigne	fra	
@@ -7401,15 +7322,14 @@ foreign	prépuce	fra
 entry	Præscriptio	0	
 orth	Præscriptio	lat	
 foreign	prescription	fra	
-entry	Praeulceratus	0	
-orth	Praeulceratus	lat	
+entry	Præulceratus	0	
+orth	Præulceratus	lat	
 foreign	déjà ulcéré	fra	
 entry	Praevitiatus	0	
 orth	Praevitiatus	lat	
 foreign	déjà altéré	fra	
 entry	Pravus	0	
 orth	Pravus	lat	
-foreign	qui n’est pas droit	fra	
 foreign	tortu	fra	
 entry	Prehensio	0	
 orth	Prehensio	lat	
@@ -7420,7 +7340,7 @@ orth	Pressio	lat
 foreign	pression	fra	
 entry	Pressura	0	
 orth	Pressura	lat	
-foreign	le carus	fra	
+foreign	carus (le)	fra	
 entry	Priapismus	0	
 orth	Priapismus	lat	
 foreign	priapisme	fra	
@@ -7473,9 +7393,9 @@ foreign	pronostique	fra
 entry	Progressus	0	
 orth	Progressus	lat	
 foreign	progression	fra	
-entry	Projectio, projectura	0	
+entry	Projectio, Projectura	0	
 orth	Projectio	lat	
-orth	Projectura		
+orth	Projectura	lat	
 foreign	projection	fra	
 entry	Projectorius	0	
 orth	Projectorius	lat	
@@ -7513,9 +7433,9 @@ foreign	être protubérant	fra
 entry	Prunus	0	
 orth	Prunus	lat	
 foreign	prunier	fra	
-entry	Prurigo, pruritus	0	
+entry	Prurigo, Pruritus	0	
 orth	Prurigo	lat	
-orth	Pruritus		
+orth	Pruritus	lat	
 foreign	prurit	fra	
 foreign	démangeaison	fra	
 entry	Psilothrum	0	
@@ -7523,10 +7443,9 @@ orth	Psilothrum	lat
 foreign	dépilatoire	fra	
 entry	Psoadicus	0	
 orth	Psoadicus	lat	
-foreign	qui a mal aux lombes	fra	
 entry	Psoæ	0	
 orth	Psoæ	lat	
-foreign	les lombes	fra	
+foreign	lombes (les)	fra	
 entry	Psora	0	
 orth	Psora	lat	
 foreign	gale	fra	
@@ -7535,7 +7454,6 @@ orth	Psoricus	lat
 foreign	psorique	fra	
 entry	Psychroluta	0	
 orth	Psychroluta	lat	
-foreign	qui se baigne à l’eau froide	fra	
 entry	Pterygium	0	
 orth	Pterygium	lat	
 foreign	ptérygion	fra	
@@ -7561,7 +7479,7 @@ orth	Pueritia	lat
 foreign	enfance	fra	
 entry	Puerpera	0	
 orth	Puerpera	lat	
-foreign	une accouchée	fra	
+foreign	accouchée (une)	fra	
 entry	Puerperium	0	
 orth	Puerperium	lat	
 foreign	accouchement	fra	
@@ -7583,7 +7501,7 @@ orth	Pulmo	lat
 foreign	poumon	fra	
 entry	Pulmonaria	0	
 orth	Pulmonaria	lat	
-foreign	la pulmonaire	fra	
+foreign	pulmonaire (la)	fra	
 entry	Pulmonarius	0	
 orth	Pulmonarius	lat	
 foreign	pulmonique	fra	
@@ -7593,9 +7511,9 @@ foreign	pulmonaire	fra
 entry	Pulmonia	0	
 orth	Pulmonia	lat	
 foreign	pulmonie	fra	
-entry	Pulpa, pulpamen	0	
+entry	Pulpa, Pulpamen	0	
 orth	Pulpa	lat	
-orth	Pulpamen		
+orth	Pulpamen	lat	
 foreign	pulpe	fra	
 entry	Pulposus	0	
 orth	Pulposus	lat	
@@ -7645,8 +7563,8 @@ entry	Purgatio	0
 orth	Purgatio	lat	
 foreign	purgation	fra	
 entry	Purgationes menstruæ 	0	
-orth	Purgationes menstruæ 	lat	
-foreign	mens· trues	fra	
+orth	Purgationes menstruæ	lat	
+foreign	menstrues	fra	
 entry	Purgativus	0	
 orth	Purgativus	lat	
 foreign	purgatif	fra	
@@ -7662,9 +7580,9 @@ foreign	purulent	fra
 entry	Pus	0	
 orth	Pus	lat	
 foreign	pus	fra	
-entry	Pustula, pusula	0	
+entry	Pustula, Pusula	0	
 orth	Pustula	lat	
-orth	Pusula		
+orth	Pusula	lat	
 foreign	pustule	fra	
 entry	Pustulatio	0	
 orth	Pustulatio	lat	
@@ -7705,7 +7623,7 @@ orth	Quadrijugus	lat
 foreign	quadrijugué	fra	
 entry	Quadripartitus	0	
 orth	Quadripartitus	lat	
-foreign	quadripartite	fra	
+foreign	quadriparti	fra	
 entry	Quadrumanus	0	
 orth	Quadrumanus	lat	
 foreign	quadrumane	fra	
@@ -7720,7 +7638,6 @@ orth	Quartana febris	lat
 foreign	fièvre quarte	fra	
 entry	Quartanarius	0	
 orth	Quartanarius	lat	
-foreign	qui a une fièvre quarte	fra	
 entry	Quassatura	0	
 orth	Quassatura	lat	
 foreign	contusion	fra	
@@ -7758,7 +7675,7 @@ foreign	radicule	fra
 entry	Radius	0	
 orth	Radius	lat	
 foreign	rayon	fra	
-foreign	le radius	fra	
+foreign	radius (le)	fra	
 entry	Radix	0	
 orth	Radix	lat	
 foreign	racine	fra	
@@ -7774,12 +7691,11 @@ orth	Ramex	lat
 foreign	hernie	fra	
 entry	Ramicosus	0	
 orth	Ramicosus	lat	
-foreign	qui a une hernie	fra	
 entry	Ramosus	0	
 orth	Ramosus	lat	
 foreign	rameux	fra	
-entry	Rarnulus	0	
-orth	Rarnulus	lat	
+entry	Ramulus	0	
+orth	Ramulus	lat	
 foreign	ramille	fra	
 entry	Ramus	0	
 orth	Ramus	lat	
@@ -7807,13 +7723,12 @@ orth	Raphanus	lat
 foreign	raifort	fra	
 entry	Rarefaciens	0	
 orth	Rarefaciens	lat	
-foreign	rarefiant	fra	
+foreign	raréfiant	fra	
 entry	Rarefactio	0	
 orth	Rarefactio	lat	
 foreign	raréfaction	fra	
 entry	Raritas	0	
 orth	Raritas	lat	
-foreign	le peu de densité	fra	
 entry	Rasura	0	
 orth	Rasura	lat	
 foreign	érosion	fra	
@@ -7858,7 +7773,6 @@ orth	Recurrens	lat
 foreign	récurrent	fra	
 entry	Recutitus	0	
 orth	Recutitus	lat	
-foreign	dont la peau est enlevée	fra	
 foreign	circoncis	fra	
 entry	Reductio	0	
 orth	Reductio	lat	
@@ -7871,7 +7785,7 @@ orth	Redundantia	lat
 foreign	redondance	fra	
 entry	Reduvia	0	
 orth	Reduvia	lat	
-foreign	envie aux doigts	fra	
+foreign	envie	fra	
 entry	Refectio	0	
 orth	Refectio	lat	
 foreign	analepsie	fra	
@@ -7894,7 +7808,7 @@ entry	Refrigeratio	0
 orth	Refrigeratio	lat	
 foreign	réfrigération	fra	
 entry	Refrigeratorius 	0	
-orth	Refrigeratorius 	lat	
+orth	Refrigeratorius	lat	
 foreign	réfrigérant	fra	
 entry	Refringens	0	
 orth	Refringens	lat	
@@ -7944,22 +7858,21 @@ orth	Repugnantia	lat
 foreign	antipathie	fra	
 entry	Repullulare	0	
 orth	Repullulare	lat	
-foreign	t épuîluler	fra	
+foreign	répulluler	fra	
 entry	Repulsio	0	
 orth	Repulsio	lat	
 foreign	répulsion	fra	
 entry	Repulsorius	0	
 orth	Repulsorius	lat	
-foreign	qui repousse	fra	
 entry	Residuum	0	
 orth	Residuum	lat	
 foreign	résidu	fra	
 entry	Resina	0	
 orth	Resina	lat	
 foreign	résine	fra	
-entry	Resolutio ventris, stomachi	0	
+entry	Resolutio ventris, Resolutio stomachi	0	
 orth	Resolutio ventris	lat	
-orth	Stomachi		
+orth	Resolutio stomachi	lat	
 foreign	flux de ventre	fra	
 entry	Resolvens	0	
 orth	Resolvens	lat	
@@ -7982,7 +7895,6 @@ foreign	rétraction	fra
 entry	Retrocessus	0	
 orth	Retrocessus	lat	
 foreign	rétrocession	fra	
-foreign	mouvement rétrograde	fra	
 entry	Revellens	0	
 orth	Revellens	lat	
 foreign	révulsif	fra	
@@ -8004,18 +7916,18 @@ foreign	révulsion	fra
 entry	Rhacoma	0	
 orth	Rhacoma	lat	
 foreign	rhubarbe	fra	
-entry	Rhagas, rhagades, rhagadia, orum	0	
+entry	Rhagas, Rhagades, Rhagadia, orum	0	
 orth	Rhagas	lat	
-orth	Rhagades		
-orth	Rhagadia, orum		
+orth	Rhagades	lat	
+orth	Rhagadia, orum	lat	
 foreign	rhagade	fra	
 foreign	gerçure	fra	
 entry	Rhamnus	0	
 orth	Rhamnus	lat	
 foreign	nerprun	fra	
-entry	Rheum barbarum, rhea ponticum	0	
+entry	Rheum barbarum, Rhea ponticum	0	
 orth	Rheum barbarum	lat	
-orth	Rhea ponticum		
+orth	Rhea ponticum	lat	
 foreign	rhubarbe	fra	
 entry	Rheuma	0	
 orth	Rheuma	lat	
@@ -8033,12 +7945,11 @@ orth	Rhinenchytes	lat
 foreign	rhinenchyte	fra	
 entry	Rhinion	0	
 orth	Rhinion	lat	
-foreign	sorte de collyre	fra	
 entry	Rhododendrum	0	
 orth	Rhododendrum	lat	
 foreign	laurier-rose	fra	
-entry	Rhomboïdes	0	
-orth	Rhomboïdes	lat	
+entry	Rhomboides	0	
+orth	Rhomboides	lat	
 foreign	rhomboïde	fra	
 entry	Rhombus	0	
 orth	Rhombus	lat	
@@ -8055,8 +7966,7 @@ foreign	rhythme	fra
 entry	Ricinus	0	
 orth	Ricinus	lat	
 foreign	ricin (plante)	fra	
-foreign	tique	fra	
-foreign	insecte	fra	
+foreign	tique, insecte	fra	
 entry	Rigiditas	0	
 orth	Rigiditas	lat	
 foreign	rigidité	fra	
@@ -8071,10 +7981,9 @@ orth	Roborans	lat
 foreign	fortifiant	fra	
 entry	Roborosus	0	
 orth	Roborosus	lat	
-foreign	qui a le tétanos	fra	
-entry	Robur, roborosa passio	0	
+entry	Robur, Roborosa passio	0	
 orth	Robur	lat	
-orth	Roborosa passio		
+orth	Roborosa passio	lat	
 foreign	tétanos	fra	
 entry	Ros	0	
 orth	Ros	lat	
@@ -8116,6 +8025,8 @@ orth	Rubia	lat
 foreign	garance	fra	
 entry	Rubigo	0	
 orth	Rubigo	lat	
+foreign	rouille	fra	
+foreign	nielle	fra	
 entry	Rubor	0	
 orth	Rubor	lat	
 foreign	rougeur	fra	
@@ -8144,10 +8055,9 @@ foreign	ride	fra
 entry	Rugosus	0	
 orth	Rugosus	lat	
 foreign	rugueux	fra	
-entry	Ruma, rumen	0	
+entry	Ruma, Rumen	0	
 orth	Ruma	lat	
-orth	Rumen		
-foreign	premier estomac des ruminants	fra	
+orth	Rumen	lat	
 entry	Rumex	0	
 orth	Rumex	lat	
 foreign	petite oseille	fra	
@@ -8169,7 +8079,7 @@ foreign	fracture	fra
 foreign	rupture	fra	
 entry	Ruscus	0	
 orth	Ruscus	lat	
-foreign	frag on	fra	
+foreign	fragon	fra	
 entry	Sabina	0	
 orth	Sabina	lat	
 foreign	sabine	fra	
@@ -8208,7 +8118,6 @@ orth	Salivatio	lat
 foreign	salivation	fra	
 entry	Salivosus	0	
 orth	Salivosus	lat	
-foreign	qui salive beaucoup	fra	
 entry	Salix	0	
 orth	Salix	lat	
 foreign	saule	fra	
@@ -8286,7 +8195,7 @@ foreign	sarcophage	fra
 entry	Sarcosis	0	
 orth	Sarcosis	lat	
 foreign	sarcose	fra	
-foreign	enflure des bêtes de somme	fra	
+foreign	enflure	fra	
 entry	Sardonius	0	
 orth	Sardonius	lat	
 foreign	sardonien	fra	
@@ -8343,10 +8252,10 @@ foreign	scalpel	fra
 entry	Scalprum	0	
 orth	Scalprum	lat	
 foreign	rugine	fra	
-entry	Seammoneum, scammonea, scammonia	0	
-orth	Seammoneum	lat	
-orth	Scammonea		
-orth	Scammonia		
+entry	Scammoneum, Scammonea, Scammonia	0	
+orth	Scammoneum	lat	
+orth	Scammonea	lat	
+orth	Scammonia	lat	
 foreign	scammonée	fra	
 entry	Scandix	0	
 orth	Scandix	lat	
@@ -8366,24 +8275,24 @@ foreign	scarificateur	fra
 entry	Sceletus	0	
 orth	Sceletus	lat	
 foreign	squelette	fra	
-entry	Sceletyrbe , scelotyrbe 	0	
-orth	Sceletyrbe 	lat	
-orth	Scelotyrbe 		
+entry	Sceletyrbe , Scelotyrbe 	0	
+orth	Sceletyrbe	lat	
+orth	Scelotyrbe	lat	
 foreign	scélotyrbe	fra	
 entry	Sciaticus	0	
 orth	Sciaticus	lat	
-foreign	qui a la sciatique	fra	
 entry	Scientia	0	
 orth	Scientia	lat	
 foreign	science	fra	
 entry	Scilla	0	
 orth	Scilla	lat	
-foreign	stille	fra	
-entry	Scillites vinum, acetum	0	
+foreign	scille	fra	
+entry	Scillites vinum	0	
 orth	Scillites vinum	lat	
-orth	Acetum		
-foreign	vin	fra	
-foreign	vinaigre de stille	fra	
+foreign	vin de scille	fra	
+entry	Scillites acetum	0	
+orth	Scillites acetum	lat	
+foreign	vinaigre de scille	fra	
 entry	Scirrhoma	0	
 orth	Scirrhoma	lat	
 foreign	squirrhe	fra	
@@ -8395,10 +8304,10 @@ orth	Scissura	lat
 foreign	scissure	fra	
 entry	Scobina	0	
 orth	Scobina	lat	
-foreign	rape	fra	
+foreign	râpe	fra	
 entry	Scobis	0	
 orth	Scobis	lat	
-foreign	r apure	fra	
+foreign	râpure	fra	
 foreign	limaille	fra	
 entry	Scoria	0	
 orth	Scoria	lat	
@@ -8411,7 +8320,6 @@ orth	Scotoma	lat
 foreign	vertige	fra	
 entry	Scotomaticus	0	
 orth	Scotomaticus	lat	
-foreign	qui a des vertiges	fra	
 entry	Screatus	0	
 orth	Screatus	lat	
 foreign	exscréation	fra	
@@ -8421,8 +8329,8 @@ foreign	scrobicule	fra
 entry	Scrofa	0	
 orth	Scrofa	lat	
 foreign	truie	fra	
-entry	Scrofulae	0	
-orth	Scrofulae	lat	
+entry	Scrofulæ	0	
+orth	Scrofulæ	lat	
 foreign	scrofules	fra	
 entry	Scrotum	0	
 orth	Scrotum	lat	
@@ -8438,7 +8346,7 @@ orth	Scutula operta	lat
 foreign	omoplates	fra	
 entry	Scybala	0	
 orth	Scybala	lat	
-foreign	scy bales	fra	
+foreign	scybales	fra	
 entry	Sebaceus	0	
 orth	Sebaceus	lat	
 foreign	sébacé	fra	
@@ -8475,7 +8383,6 @@ orth	Sensibilis	lat
 foreign	sensible	fra	
 entry	Sensualis	0	
 orth	Sensualis	lat	
-foreign	relatif aux sens	fra	
 entry	Sensus	0	
 orth	Sensus	lat	
 foreign	sentiment	fra	
@@ -8499,7 +8406,6 @@ orth	Serra	lat
 foreign	scie	fra	
 entry	Serratus	0	
 orth	Serratus	lat	
-foreign	en scie	fra	
 entry	Sertulum	0	
 orth	Sertulum	lat	
 foreign	sertule	fra	
@@ -8509,7 +8415,7 @@ foreign	petit-lait	fra
 foreign	sérosité	fra	
 entry	Sesamoides	0	
 orth	Sesamoides	lat	
-foreign	sésamoide	fra	
+foreign	sésamoïde	fra	
 entry	Sesamum	0	
 orth	Sesamum	lat	
 foreign	sésame	fra	
@@ -8521,17 +8427,15 @@ orth	Seta	lat
 foreign	soie	fra	
 entry	Setosus	0	
 orth	Setosus	lat	
-foreign	hérissé de.soies	fra	
 entry	Sexualis	0	
 orth	Sexualis	lat	
 foreign	sexuel	fra	
 entry	Sexus	0	
 orth	Sexus	lat	
 foreign	sexe	fra	
-entry	Siagones, siagonitæ	0	
+entry	Siagones, Siagonitæ	0	
 orth	Siagones	lat	
-orth	Siagonitæ		
-foreign	muscles des tempes et des mâchoires	fra	
+orth	Siagonitæ	lat	
 entry	Sibilus	0	
 orth	Sibilus	lat	
 foreign	sifflement	fra	
@@ -8561,14 +8465,14 @@ orth	Silex	lat
 foreign	silex	fra	
 entry	Silicula	0	
 orth	Silicula	lat	
-foreign	sïlicule	fra	
+foreign	silicule	fra	
 entry	Siliqua	0	
 orth	Siliqua	lat	
 foreign	silique	fra	
 foreign	gousse	fra	
-entry	Silphion, silphium	0	
+entry	Silphion, Silphium	0	
 orth	Silphion	lat	
-orth	Silphium		
+orth	Silphium	lat	
 foreign	laser	fra	
 entry	Simus	0	
 orth	Simus	lat	
@@ -8604,9 +8508,8 @@ orth	Sisymbrium	lat
 foreign	cresson	fra	
 entry	Siticulosus	0	
 orth	Siticulosus	lat	
-foreign	qui altère	fra	
-entry	Skis	0	
-orth	Skis	lat	
+entry	Sitis	0	
+orth	Sitis	lat	
 foreign	soif	fra	
 foreign	altération	fra	
 entry	Smegma	0	
@@ -8633,10 +8536,11 @@ foreign	solution	fra
 entry	Solvens	0	
 orth	Solvens	lat	
 foreign	fondant	fra	
-entry	Somnifer , somnificus	0	
-orth	Somnifer 	lat	
-orth	Somnificus		
-foreign	somnifère hypnotique	fra	
+entry	Somnifer , Somnificus	0	
+orth	Somnifer	lat	
+orth	Somnificus	lat	
+foreign	somnifère	fra	
+foreign	hypnotique	fra	
 entry	Somnium	0	
 orth	Somnium	lat	
 foreign	songe	fra	
@@ -8663,7 +8567,7 @@ orth	Sopor	lat
 foreign	assoupissement	fra	
 entry	Sorbitio	0	
 orth	Sorbitio	lat	
-foreign	tisane d’orge	fra	
+foreign	tisane	fra	
 entry	Spadix	0	
 orth	Spadix	lat	
 foreign	spadice	fra	
@@ -8675,7 +8579,6 @@ orth	Spasmus	lat
 foreign	spasme	fra	
 entry	Spasticus	0	
 orth	Spasticus	lat	
-foreign	sujet aux spasmes	fra	
 entry	Spatha	0	
 orth	Spatha	lat	
 foreign	spathe	fra	
@@ -8714,7 +8617,7 @@ orth	Spiraculum	lat
 foreign	pore	fra	
 entry	Spiræa	0	
 orth	Spiræa	lat	
-foreign	la spirée	fra	
+foreign	spirée (la)	fra	
 entry	Spiritalis arteria	0	
 orth	Spiritalis arteria	lat	
 foreign	trachée-artère	fra	
@@ -8771,7 +8674,6 @@ foreign	écailleux	fra
 entry	Squarrosus	0	
 orth	Squarrosus	lat	
 foreign	squarreux	fra	
-foreign	couvert de boutons	fra	
 entry	Stadium	0	
 orth	Stadium	lat	
 foreign	stade	fra	
@@ -8794,7 +8696,6 @@ orth	Steatoma	lat
 foreign	stéatome	fra	
 entry	Stegnus	0	
 orth	Stegnus	lat	
-foreign	qui arrête la transpiration	fra	
 entry	Stercora	0	
 orth	Stercora	lat	
 foreign	matières fécales	fra	
@@ -8809,7 +8710,7 @@ orth	Stertor	lat
 foreign	sterteur	fra	
 entry	Stibinus	0	
 orth	Stibinus	lat	
-foreign	slibié	fra	
+foreign	stibié	fra	
 entry	Stibium	0	
 orth	Stibium	lat	
 foreign	antimoine	fra	
@@ -8825,7 +8726,8 @@ foreign	distillation	fra
 foreign	stillation	fra	
 entry	Stillicidium urinæ	0	
 orth	Stillicidium urinæ	lat	
-foreign	strangurie énurésie	fra	
+foreign	strangurie	fra	
+foreign	énurésie	fra	
 entry	Stimulans	0	
 orth	Stimulans	lat	
 foreign	stimulant	fra	
@@ -8845,26 +8747,22 @@ orth	Stomacace	lat
 foreign	stomacace	fra	
 entry	Stomachicus	0	
 orth	Stomachicus	lat	
-foreign	qui souffre de l’estomac	fra	
 entry	Stomachus	0	
 orth	Stomachus	lat	
 foreign	œsophage	fra	
 foreign	estomac	fra	
 entry	Stomatice	0	
 orth	Stomatice	lat	
-foreign	préparation bonne pour la bouche	fra	
 entry	Stomaticus	0	
 orth	Stomaticus	lat	
-foreign	qui a mal à la bouche	fra	
 entry	Storax	0	
 orth	Storax	lat	
 foreign	storax	fra	
 entry	Strabo	0	
 orth	Strabo	lat	
-foreign	qui est affecté de strabisme	fra	
-entry	Strangulatio, strangulatus	0	
+entry	Strangulatio, Strangulatus	0	
 orth	Strangulatio	lat	
-orth	Strangulatus		
+orth	Strangulatus	lat	
 foreign	strangulation	fra	
 entry	Stranguria	0	
 orth	Stranguria	lat	
@@ -8883,9 +8781,9 @@ entry	Strobilus	0
 orth	Strobilus	lat	
 foreign	strobile	fra	
 foreign	pomme de pin	fra	
-entry	Strophoma, strophus	0	
+entry	Strophoma, Strophus	0	
 orth	Strophoma	lat	
-orth	Strophus		
+orth	Strophus	lat	
 foreign	colique	fra	
 entry	Strumae	0	
 orth	Strumae	lat	
@@ -8899,7 +8797,7 @@ foreign	écrouelleux	fra
 foreign	scrofuleux	fra	
 entry	Strychnos	0	
 orth	Strychnos	lat	
-foreign	morelle à fruits noirs	fra	
+foreign	morelle	fra	
 entry	Stupefaciens	0	
 orth	Stupefaciens	lat	
 foreign	stupéfiant	fra	
@@ -8911,13 +8809,13 @@ orth	Stylus	lat
 foreign	stylet	fra	
 entry	Stymma	0	
 orth	Stymma	lat	
-foreign	un astringent	fra	
+foreign	astringent (un)	fra	
 entry	Stypticus	0	
 orth	Stypticus	lat	
 foreign	styptique	fra	
 entry	Styrax	0	
 orth	Styrax	lat	
-foreign	le styrax	fra	
+foreign	styrax (le)	fra	
 entry	Subcutaneus	0	
 orth	Subcutaneus	lat	
 foreign	sous-cutané	fra	
@@ -8926,7 +8824,6 @@ orth	Suber	lat
 foreign	liège	fra	
 entry	Subereus	0	
 orth	Subereus	lat	
-foreign	de liège	fra	
 entry	Subgrundatio	0	
 orth	Subgrundatio	lat	
 foreign	subgrondation	fra	
@@ -8945,13 +8842,12 @@ foreign	sublime	fra
 entry	Sublinguium	0	
 orth	Sublinguium	lat	
 foreign	luette	fra	
-entry	Subluvies, subluvium	0	
+entry	Subluvies, Subluvium	0	
 orth	Subluvies	lat	
-orth	Subluvium		
+orth	Subluvium	lat	
 foreign	plaie en suppuration	fra	
 entry	Submejulus	0	
 orth	Submejulus	lat	
-foreign	enfant qui pisse au lit	fra	
 entry	Submersio	0	
 orth	Submersio	lat	
 foreign	submersion	fra	
@@ -8966,13 +8862,13 @@ orth	Substillum	lat
 foreign	strangurie	fra	
 entry	Subventrile	0	
 orth	Subventrile	lat	
-foreign	le bas-ventre	fra	
+foreign	bas-ventre (le)	fra	
 entry	Succedaneus	0	
 orth	Succedaneus	lat	
 foreign	succédané	fra	
 entry	Succenturiati	0	
 orth	Succenturiati	lat	
-foreign	succeuturiaux	fra	
+foreign	succenturiaux	fra	
 entry	Succida lana	0	
 orth	Succida lana	lat	
 foreign	laine en suint	fra	
@@ -9001,9 +8897,9 @@ foreign	étuve	fra
 entry	Sudor	0	
 orth	Sudor	lat	
 foreign	sueur	fra	
-entry	Suffimentum, suffitio	0	
+entry	Suffimentum, Suffitio	0	
 orth	Suffimentum	lat	
-orth	Suffitio		
+orth	Suffitio	lat	
 foreign	fumigation	fra	
 entry	Sufflatio	0	
 orth	Sufflatio	lat	
@@ -9013,7 +8909,7 @@ orth	Suffocatio	lat
 foreign	suffocation	fra	
 entry	Suffocationes	0	
 orth	Suffocationes	lat	
-foreign	attaques d’hystérie	fra	
+foreign	attaques	fra	
 entry	Suffusio	0	
 orth	Suffusio	lat	
 foreign	suffusion	fra	
@@ -9022,7 +8918,7 @@ foreign	berlue	fra
 entry	Sugillatio	0	
 orth	Sugillatio	lat	
 foreign	sugillation	fra	
-foreign	meurtris” sure	fra	
+foreign	meurtrissure	fra	
 entry	Sulfur	0	
 orth	Sulfur	lat	
 foreign	soufre	fra	
@@ -9044,7 +8940,7 @@ foreign	supère	fra
 entry	Supinatio	0	
 orth	Supinatio	lat	
 foreign	supination	fra	
-foreign	dérangement d’estomac	fra	
+foreign	dérangement	fra	
 entry	Suppositorium	0	
 orth	Suppositorium	lat	
 foreign	suppositoire	fra	
@@ -9063,10 +8959,9 @@ foreign	mollet	fra
 foreign	os péroné	fra	
 entry	Suræ radius	0	
 orth	Suræ radius	lat	
-foreign	le péroné	fra	
+foreign	péroné (le)	fra	
 entry	Surdaster	0	
 orth	Surdaster	lat	
-foreign	qui a l’oreille dure	fra	
 entry	Surditas	0	
 orth	Surditas	lat	
 foreign	surdité	fra	
@@ -9094,7 +8989,7 @@ orth	Symmetria	lat
 foreign	symétrie	fra	
 entry	Sympasma	0	
 orth	Sympasma	lat	
-foreign	topique en poudre	fra	
+foreign	topique	fra	
 entry	Sympathia	0	
 orth	Sympathia	lat	
 foreign	sympathie	fra	
@@ -9109,10 +9004,8 @@ orth	Synanche	lat
 foreign	angine	fra	
 entry	Synanchicus	0	
 orth	Synanchicus	lat	
-foreign	d’angine	fra	
 entry	Synchrisma	0	
 orth	Synchrisma	lat	
-foreign	frictions avec un liniment	fra	
 entry	Synchronus	0	
 orth	Synchronus	lat	
 foreign	synchrone	fra	
@@ -9127,7 +9020,6 @@ orth	Syncrisis	lat
 foreign	syncrise	fra	
 entry	Syntecticus	0	
 orth	Syntecticus	lat	
-foreign	qui dépérit	fra	
 entry	Syntexis	0	
 orth	Syntexis	lat	
 foreign	colliquation	fra	
@@ -9166,13 +9058,13 @@ foreign	tabifique	fra
 entry	Tactilis	0	
 orth	Tactilis	lat	
 foreign	tactile	fra	
-entry	Tactio, tactus	0	
+entry	Tactio, Tactus	0	
 orth	Tactio	lat	
-orth	Tactus		
+orth	Tactus	lat	
 foreign	tact	fra	
 entry	Tænia	0	
 orth	Tænia	lat	
-foreign	le ténia	fra	
+foreign	ténia (le)	fra	
 entry	Tænia	0	
 orth	Tænia	lat	
 foreign	bande	fra	
@@ -9193,13 +9085,13 @@ orth	Tamariscus	lat
 foreign	tamarisc	fra	
 entry	Tecolithos	0	
 orth	Tecolithos	lat	
-entry	Tegumen, tegumentum	0	
+entry	Tegumen, Tegumentum	0	
 orth	Tegumen	lat	
-orth	Tegumentum		
+orth	Tegumentum	lat	
 foreign	tégument	fra	
 entry	Telum (Serenus Sammonicus)	0	
 orth	Telum (Serenus Sammonicus)	lat	
-foreign	la pleurésie	fra	
+foreign	pleurésie (la)	fra	
 entry	Temperamentum	0	
 orth	Temperamentum	lat	
 foreign	tempérament	fra	
@@ -9211,7 +9103,7 @@ orth	Temperies	lat
 foreign	température	fra	
 entry	Tempora	0	
 orth	Tempora	lat	
-foreign	les tempes	fra	
+foreign	tempes (les)	fra	
 entry	Temporalis	0	
 orth	Temporalis	lat	
 foreign	temporal	fra	
@@ -9227,16 +9119,14 @@ foreign	ténesme	fra
 entry	Tensio	0	
 orth	Tensio	lat	
 foreign	tension	fra	
-foreign	maladie des nerfs	fra	
 entry	Tentatio	0	
 orth	Tentatio	lat	
-foreign	-atteinte	fra	
+foreign	atteinte	fra	
 entry	Tentigo	0	
 orth	Tentigo	lat	
 foreign	nymphomanie	fra	
 entry	Tentipellium	0	
 orth	Tentipellium	lat	
-foreign	cosmétique contre les rides	fra	
 entry	Terebellum	0	
 orth	Terebellum	lat	
 foreign	trépan	fra	
@@ -9284,10 +9174,8 @@ orth	Tetanus	lat
 foreign	tétanos	fra	
 entry	Tethalassomenon	0	
 orth	Tethalassomenon	lat	
-foreign	vin mélangé . d’eau de mer	fra	
 entry	Tetrapharmacum	0	
 orth	Tetrapharmacum	lat	
-foreign	emplâtre fait de quatre ingrédients	fra	
 entry	Teucrion	0	
 orth	Teucrion	lat	
 foreign	germandrée	fra	
@@ -9299,7 +9187,6 @@ orth	Textus	lat
 foreign	tissu	fra	
 entry	Thalictrum	0	
 orth	Thalictrum	lat	
-foreign	sorte de renonculacée	fra	
 entry	Theoria	0	
 orth	Theoria	lat	
 foreign	théorie	fra	
@@ -9315,9 +9202,9 @@ foreign	thermes	fra
 entry	Thermanticus	0	
 orth	Thermanticus	lat	
 foreign	échauffant	fra	
-entry	Thladias, thlibias	0	
+entry	Thladias, Thlibias	0	
 orth	Thladias	lat	
-orth	Thlibias		
+orth	Thlibias	lat	
 foreign	eunuque	fra	
 entry	Thlaspi	0	
 orth	Thlaspi	lat	
@@ -9327,14 +9214,12 @@ orth	Thorax	lat
 foreign	poitrine	fra	
 entry	Thridax	0	
 orth	Thridax	lat	
-foreign	sorte de laitue	fra	
 entry	Thymatica	0	
 orth	Thymatica	lat	
-foreign	pastilles à brûler	fra	
-foreign	'parfum	fra	
+foreign	pastilles	fra	
+foreign	parfum	fra	
 entry	Thymium	0	
 orth	Thymium	lat	
-foreign	sorte de verrue	fra	
 entry	Thymum	0	
 orth	Thymum	lat	
 foreign	thym	fra	
@@ -9357,14 +9242,13 @@ orth	Tinctura	lat
 foreign	teinture	fra	
 entry	Tinea	0	
 orth	Tinea	lat	
-foreign	teigne	fra	
-foreign	insecte	fra	
+foreign	teigne, insecte	fra	
 entry	Tinnitus aurium	0	
 orth	Tinnitus aurium	lat	
 foreign	tintouin	fra	
-entry	Titillatio, titillatus	0	
+entry	Titillatio, Titillatus	0	
 orth	Titillatio	lat	
-orth	Titillatus		
+orth	Titillatus	lat	
 foreign	chatouillement	fra	
 foreign	titillation	fra	
 entry	Tomentum	0	
@@ -9375,11 +9259,11 @@ orth	Tonoticus	lat
 foreign	fortifiant	fra	
 entry	Tonsillae	0	
 orth	Tonsillae	lat	
-foreign	amygdalei	fra	
+foreign	amygdales	fra	
 pb	1724	1738	
 entry	Tonus	0	
 orth	Tonus	lat	
-foreign	Ion	fra	
+foreign	ton	fra	
 entry	Tophus	0	
 orth	Tophus	lat	
 foreign	tophus	fra	
@@ -9411,17 +9295,16 @@ entry	Torulus	0
 orth	Torulus	lat	
 foreign	petit muscle	fra	
 entry	Torus 	0	
-orth	Torus 	lat	
+orth	Torus	lat	
 foreign	muscle	fra	
 entry	Toxicum	0	
 orth	Toxicum	lat	
 foreign	toxique	fra	
 entry	Trachia	0	
 orth	Trachia	lat	
-foreign	la trachée	fra	
+foreign	trachée (la)	fra	
 entry	Trachomaticus	0	
 orth	Trachomaticus	lat	
-foreign	qui fait disparaître les rugosités	fra	
 entry	Tragacantha	0	
 orth	Tragacantha	lat	
 foreign	adragant	fra	
@@ -9473,7 +9356,7 @@ orth	Tripartitus	lat
 foreign	tripartite	fra	
 entry	Triquetrus	0	
 orth	Triquetrus	lat	
-foreign	triquetre	fra	
+foreign	triquètre	fra	
 entry	Triticum	0	
 orth	Triticum	lat	
 foreign	froment	fra	
@@ -9482,7 +9365,7 @@ orth	Trituratio	lat
 foreign	trituration	fra	
 entry	Trochiscus	0	
 orth	Trochiscus	lat	
-foreign	trochisquc	fra	
+foreign	trochisque	fra	
 entry	Trochlea	0	
 orth	Trochlea	lat	
 foreign	trochlée	fra	
@@ -9539,7 +9422,6 @@ orth	Tympanites	lat
 foreign	tympanite	fra	
 entry	Tympaniticus	0	
 orth	Tympaniticus	lat	
-foreign	atteint de tympanite	fra	
 entry	Typus	0	
 orth	Typus	lat	
 foreign	type	fra	
@@ -9551,7 +9433,6 @@ orth	Ulceratio	lat
 foreign	ulcération	fra	
 entry	Ulcerosus	0	
 orth	Ulcerosus	lat	
-foreign	plein d’ulcères	fra	
 entry	Ulcus	0	
 orth	Ulcus	lat	
 foreign	plaie	fra	
@@ -9585,15 +9466,15 @@ orth	Unctio	lat
 foreign	onction	fra	
 entry	Uncus	0	
 orth	Uncus	lat	
-entry	Uxlguentum	0	
-orth	Uxlguentum	lat	
+entry	Unguentum	0	
+orth	Unguentum	lat	
 foreign	onguent	fra	
 entry	Unguis	0	
 orth	Unguis	lat	
 foreign	ongle	fra	
-entry	Unguia	0	
-orth	Unguia	lat	
-foreign	sabot de cheval	fra	
+entry	Ungula	0	
+orth	Ungula	lat	
+foreign	sabot	fra	
 entry	Uniens	0	
 orth	Uniens	lat	
 foreign	unissant	fra	
@@ -9605,20 +9486,18 @@ orth	Univocus	lat
 foreign	univoque	fra	
 entry	Uredo	0	
 orth	Uredo	lat	
-foreign	nielle	fra	
-foreign	maladie des plantes	fra	
+foreign	nielle, maladie des plantes	fra	
 entry	Ureticus	0	
 orth	Ureticus	lat	
 foreign	urinaire	fra	
 entry	Urina	0	
 orth	Urina	lat	
 foreign	urine	fra	
-entry	Urinai	0	
-orth	Urinai	lat	
-foreign	pot de nuit	fra	
+entry	Urinal	0	
+orth	Urinal	lat	
 entry	Urinales viæ	0	
 orth	Urinales viæ	lat	
-foreign	les voies urinaires	fra	
+foreign	voies urinaires (les)	fra	
 entry	Urna	0	
 orth	Urna	lat	
 foreign	urne	fra	
@@ -9634,7 +9513,6 @@ foreign	ustion	fra
 entry	Ustulatio	0	
 orth	Ustulatio	lat	
 foreign	ustulation	fra	
-foreign	légère brûlure	fra	
 entry	Uter	0	
 orth	Uter	lat	
 foreign	outre	fra	
@@ -9665,11 +9543,11 @@ entry	Vagitus	0
 orth	Vagitus	lat	
 foreign	vagissement	fra	
 entry	Valetudinarium 	0	
-orth	Valetudinarium 	lat	
+orth	Valetudinarium	lat	
 foreign	hôpital	fra	
 foreign	hôpital militaire	fra	
 entry	Optio valetudinarii 	0	
-orth	Optio valetudinarii 	lat	
+orth	Optio valetudinarii	lat	
 foreign	aide-infirmier	fra	
 entry	Valetudinarius	0	
 orth	Valetudinarius	lat	
@@ -9679,7 +9557,6 @@ orth	Valetudo	lat
 foreign	santé	fra	
 entry	Valgus	0	
 orth	Valgus	lat	
-foreign	qui a les jambes tournées en dehors	fra	
 entry	Valvula	0	
 orth	Valvula	lat	
 foreign	valvule	fra	
@@ -9719,8 +9596,8 @@ foreign	veine	fra
 entry	Venæ sectio	0	
 orth	Venæ sectio	lat	
 foreign	saignée	fra	
-entry	Venelicium	0	
-orth	Venelicium	lat	
+entry	Veneficium	0	
+orth	Veneficium	lat	
 foreign	empoisonnement	fra	
 entry	Venenatus	0	
 orth	Venenatus	lat	
@@ -9754,9 +9631,8 @@ orth	Ventriculatio	lat
 foreign	mal de ventre	fra	
 entry	Ventriculus	0	
 orth	Ventriculus	lat	
-foreign	l’estomac	fra	
-foreign	le ventri	fra	
-foreign	cule	fra	
+foreign	estomac (l')	fra	
+foreign	ventricule (le)	fra	
 entry	Ventus	0	
 orth	Ventus	lat	
 foreign	vent	fra	
@@ -9766,7 +9642,7 @@ orth	Ver	lat
 foreign	printemps	fra	
 entry	Veratrum	0	
 orth	Veratrum	lat	
-foreign	le veratrum	fra	
+foreign	veratrum (le)	fra	
 entry	Verbascum	0	
 orth	Verbascum	lat	
 foreign	bouillon-blanc	fra	
@@ -9775,7 +9651,7 @@ orth	Verbena	lat
 foreign	verveine	fra	
 entry	Veretrum	0	
 orth	Veretrum	lat	
-foreign	le pénis	fra	
+foreign	pénis (le)	fra	
 entry	Vermicularis	0	
 orth	Vermicularis	lat	
 foreign	vermiculaire	fra	
@@ -9824,7 +9700,6 @@ orth	Vestibulum	lat
 foreign	vestibule	fra	
 entry	Veterinarium	0	
 orth	Veterinarium	lat	
-foreign	infirmerie pour les bêtes de trait	fra	
 entry	Veterinarius	0	
 orth	Veterinarius	lat	
 foreign	vétérinaire	fra	
@@ -9845,7 +9720,7 @@ orth	Vibrissæ	lat
 foreign	poils au nez	fra	
 entry	Vicia	0	
 orth	Vicia	lat	
-foreign	la vesce	fra	
+foreign	vesce (la)	fra	
 entry	Victus ratio	0	
 orth	Victus ratio	lat	
 foreign	diète	fra	
@@ -9855,7 +9730,7 @@ foreign	veilles	fra
 foreign	insomnie	fra	
 entry	Vinca pervinca	0	
 orth	Vinca pervinca	lat	
-foreign	la pervenche	fra	
+foreign	pervenche (la)	fra	
 entry	Vinculum	0	
 orth	Vinculum	lat	
 foreign	ligament	fra	
@@ -9919,10 +9794,9 @@ orth	Vita	lat
 foreign	vie	fra	
 entry	Vitalia	0	
 orth	Vitalia	lat	
-foreign	les organes essentiels à l vie	fra	
 entry	Vitex	0	
 orth	Vitex	lat	
-foreign	agnus-caslus	fra	
+foreign	agnus-castus	fra	
 entry	Viticula	0	
 orth	Viticula	lat	
 foreign	tige grimpante	fra	
@@ -9953,7 +9827,7 @@ orth	Viviparus	lat
 foreign	vivipare	fra	
 entry	Vola	0	
 orth	Vola	lat	
-foreign	paume de la main	fra	
+foreign	paume	fra	
 entry	Volatilis	0	
 orth	Volatilis	lat	
 foreign	volatil	fra	
@@ -9969,17 +9843,16 @@ orth	Vomica	lat
 foreign	vomique	fra	
 entry	Vomicosus	0	
 orth	Vomicosus	lat	
-foreign	qui a une vomique	fra	
 entry	Vomitio	0	
 orth	Vomitio	lat	
 foreign	vomissement	fra	
-entry	Vomitorius, vomificus	0	
+entry	Vomitorius, Vomificus	0	
 orth	Vomitorius	lat	
-orth	Vomificus		
+orth	Vomificus	lat	
 foreign	vomitif	fra	
 entry	Vomitus	0	
 orth	Vomitus	lat	
-foreign	vomissements	fra	
+foreign	vomissement	fra	
 entry	Voracitas	0	
 orth	Voracitas	lat	
 foreign	voracité	fra	
@@ -10003,8 +9876,9 @@ entry	Vultus	0
 orth	Vultus	lat	
 foreign	face	fra	
 foreign	visage	fra	
-entry	Vulva et volva	0	
-orth	Vulva et volva	lat	
+entry	Vulva, Volva	0	
+orth	Vulva	lat	
+orth	Volva	lat	
 foreign	vulve	fra	
 foreign	volva	fra	
 entry	Vulvæ excidium	0	
@@ -10018,7 +9892,6 @@ orth	Xerocollyrium	lat
 foreign	collyre sec	fra	
 entry	Xerophagia	0	
 orth	Xerophagia	lat	
-foreign	usage des aliments secs	fra	
 entry	Xerophthalmia	0	
 orth	Xerophthalmia	lat	
 foreign	xérophthalmie	fra	
@@ -10036,5 +9909,5 @@ orth	Zona	lat
 foreign	zona	fra	
 entry	Zoster	0	
 orth	Zoster	lat	
-foreign	le zoster	fra	
+foreign	zoster (le)	fra	
 foreign	zona	fra	

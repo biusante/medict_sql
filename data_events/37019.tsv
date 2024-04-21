@@ -79,7 +79,7 @@ foreign	absorptio	lat
 entry	Abstème	0	
 orth	Abstème		
 foreign	abstemius	lat	
-entry	Abstergent, abstersif, abstersive	0	
+entry	Abstergent, Abstersif, Abstersive	0	
 orth	Abstergent		
 orth	Abstersif		
 orth	Abstersive		
@@ -212,7 +212,7 @@ orth	Achée
 entry	Achores	0	
 orth	Achores		
 foreign	achores	lat	
-foreign	ἀκὼρ	grc	
+foreign	ἀχὼρ	grc	
 entry	Achromatique	1	
 orth	Achromatique		
 pb	5	0021	
@@ -290,7 +290,7 @@ orth	Acromion
 entry	Acrotériasme	0	
 orth	Acrotériasme		
 foreign	acroteriasmus	lat	
-foreign	ἀκρωτηριασμὸ	grc	
+foreign	ἀκρωτηριασμὸς	grc	
 entry	Acte	0	
 orth	Acte		
 foreign	actus	lat	
@@ -368,7 +368,7 @@ foreign	ἀδίαντον	grc
 entry	Adiaphore	0	
 orth	Adiaphore		
 foreign	adiaphorus	lat	
-foreign	ἀδίαφορος	grc	
+foreign	ἀδιάφορος	grc	
 entry	Adiapneustie	0	
 orth	Adiapneustie		
 foreign	adiapneustia	lat	
@@ -979,7 +979,7 @@ clique	Fécule
 entry	Ammoniac	0	
 orth	Ammoniac		
 foreign	sal ammoniacum	lat	
-foreign	ἄλς ἀμμωνιακὸς	grc	
+foreign	ἅλς ἀμμωνιακὸς	grc	
 entry	Ammoniaque	0	
 orth	Ammoniaque		
 foreign	ammoniacum	lat	
@@ -1810,7 +1810,7 @@ orth	Aposképarnismos
 foreign	ἀποσκεπαρνίσμος	grc	
 entry	Apostème	0	
 orth	Apostème		
-foreign	ἀποστήμα	grc	
+foreign	ἀπόστημα	grc	
 entry	Apostume	0	
 orth	Apostume		
 clique	Apostème		
@@ -15503,7 +15503,8 @@ orth	Pivotante
 foreign	Radix perpendicularis	lat	
 entry	Placenta	0	
 orth	Placenta		
-foreign	placenta, receptaculum seminis	lat	
+foreign	placenta	lat	
+foreign	receptaculum seminis	lat	
 entry	Plaie	0	
 orth	Plaie		
 foreign	vulnus	lat	

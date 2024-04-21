@@ -35,13 +35,19 @@ class Events
             $row = str_getcsv($line, "\t");
             $orth = $row[1];
             $initial = mb_substr($orth, 0, 1);
-            $capital = mb_strtoupper($initial);
-            if ($initial == $capital) {
-                $tsv .= $line;
+            // tout cap
+            if ($orth == mb_strtoupper($orth)) {
+                $tsv .= "orth\t" . $initial .  mb_strtolower(mb_substr($orth, 1)) . "\t" . $row[2] . "\t\n";
                 continue;
             }
-            $tsv .= "orth\t" . $capital .  mb_substr($orth, 1) . "\t\t\n";
-        }
+            // minuscule au début
+            if ($initial != mb_strtoupper($initial)) {
+                $tsv .= "orth\t" . mb_strtoupper($initial) .  mb_substr($orth, 1) . "\t" . $row[2] . "\t\n";
+                continue;
+            }
+            $tsv .= $line;
+            continue;
+    }
         file_put_contents($file, $tsv);
     }
 

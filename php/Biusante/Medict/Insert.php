@@ -334,7 +334,7 @@ class Insert extends Util
             self::$dico_terme[C::_DELOC] = substr($deforme, $pos + 1);
         }
         self::$dico_terme[C::_BETACODE] = null;
-        if (preg_match('/[\u0370-\u03ff\u1f00-\u1fff]+/u', $deforme)) {
+        if (preg_match('/[\x{0370}-\x{03ff}\x{1f00}-\x{1fff}]+/u', $deforme)) {
             // betacode
             self::$dico_terme[C::_BETACODE] = strtr($deforme, self::$grc_lat);
         }

@@ -5,13 +5,12 @@ require_once(__DIR__ . '/php/autoload.php');
 use Biusante\Medict\{Insert, Tei, Util};
 
 tout();
-// dev();
 
 function tout()
 {
     $time_start = microtime(true);
     $pars = Util::pars();
-        // regénérer les données des sources xml
+    // regénérer les données des sources xml
     foreach (glob(dirname(__DIR__) . '/medict_xml/xml/*.xml') as $xml_file) {
         $name = pathinfo($xml_file, PATHINFO_FILENAME);
         // pour l’instant le James Anglais n’est pas assez balisé

@@ -50,6 +50,7 @@ class Insert extends Util
         C::_CLIQUE => -1,
         C::_DICO_TERME => -1,
         C::_ORTH => null,
+        C::_FORME => null,
     );
     /** Cache de clique */
     private static $clique = null;
@@ -479,13 +480,14 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
      * Insérer une vedette.
      * La page de cette relation est celle de l’entrée courante
      */
-    private static function insert_orth($terme_id)
+    private static function insert_orth($terme_id, $forme = null)
     {
         self::$dico_rel[C::_RELTYPE] = C::RELTYPE_ORTH;
         self::$dico_rel[C::_PAGE] = self::$dico_entree[C::_PAGE];
         self::$dico_rel[C::_REFIMG] = self::$dico_entree[C::_REFIMG];
         self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
         self::$dico_rel[C::_DICO_TERME] = $terme_id;
+        self::$dico_rel[C::_FORME] = $forme; // graphie initiale
         self::$dico_rel[C::_ORTH] = true;
         try {
             self::$q[C::DICO_REL]->execute(self::$dico_rel);
@@ -500,15 +502,19 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
      * Insérer une relation mots associés liée par l’article
      * Ne sert qu’aux traductions
      */
-    private static function insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
+    private static function insert_rel($reltype, $page, $refimg, $dico_terme, $forme=null, $orth=null)
     {
         self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
         self::$dico_rel[C::_RELTYPE] = $reltype;
         self::$dico_rel[C::_PAGE] = $page;
         self::$dico_rel[C::_REFIMG] = $refimg;
-        self::$dico_rel[C::_ORTH] = $orth;
         self::$dico_rel[C::_DICO_TERME] = $dico_terme;
+        self::$dico_rel[C::_ORTH] = $orth;
+        self::$dico_rel[C::_FORME] = $forme;
         self::$q[C::DICO_REL]->execute(self::$dico_rel);
+        self::$dico_rel[C::_ORTH] = null;
+        self::$dico_rel[C::_FORME] = null;
+        self::$dico_rel[C::_DICO_TERME] = null;
     }
 
     /**
@@ -530,6 +536,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
      */
     private static function insert_clique($page, $refimg, $orth_ids, $forme_liste, $langue)
     {
+        self::$dico_rel[C::_FORME] = null;
         // collecter les termmes à lier
         $terme_ids = [];
         foreach(preg_split("/ *\| */", trim($forme_liste)) as $forme) {
@@ -685,6 +692,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                     self::$dico_rel[C::_ORTH] = true;
                     foreach ($orths as $dico_terme => $forme) {
                         self::$dico_rel[C::_DICO_TERME] = $dico_terme;
+                        self::$dico_rel[C::_FORME] = $forme;
                         self::$q[C::DICO_REL]->execute(self::$dico_rel);
                     }
                 }
@@ -775,12 +783,12 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
             // vedette
             if ($row[0] == C::ORTH) {
-                self::insert_orth($forme_id); // ajouter la relation vedette
+                self::insert_orth($forme_id, $forme); // ajouter la relation vedette
                 // enregistrer la vedette, peut servir pour les renvois et les traductions, le no de page sera celle de l’entrée
                 $orths[$forme_id] = $forme;
                 continue;
             }
-            // si pas vu de <orth> jusqu’ici, prendre la vedette
+            // si pas vu de <orth> jusqu’ici, prendre <entry>
             if (
                 $row[0] == C::TERM 
              || $row[0] == C::FOREIGN 
@@ -807,7 +815,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
                 // si on veut dans la nomenclature
                 // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
-                self::insert_rel(C::RELTYPE_TERM, $page, $refimg, $forme_id);
+                self::insert_rel(C::RELTYPE_TERM, $page, $refimg, $forme_id, $forme);
                 // Peupler des renvois avec les membres de la locution ?
                 /*
                 $words[] = $forme;
@@ -828,14 +836,15 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             if ($row[0] == C::FOREIGN) {
                 // 1e traduction, envoyer les vedettes pour la clique de trad
                 if (!count($foreigns)) {
-                    foreach ($orths as $dico_terme => $forme) {
+                    foreach ($orths as $orth_id => $orth_forme) {
                         // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
                         self::insert_rel(
                             C::RELTYPE_TRANSLATE,
                             // page de l’entrée
                             self::$dico_entree[C::_PAGE],
                             self::$dico_entree[C::_REFIMG],
-                            $dico_terme,
+                            $orth_id,
+                            null,
                             true,
                         );
                     }
@@ -846,7 +855,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 }
                 $foreigns[$forme_id] = $forme;
                 // mot cherchable
-                self::insert_rel(C::RELTYPE_FOREIGN, $page, $refimg, $forme_id);
+                self::insert_rel(C::RELTYPE_FOREIGN, $page, $refimg, $forme_id, $forme);
                 // clique de traduction
                 self::insert_rel(C::RELTYPE_TRANSLATE, $page, $refimg, $forme_id);
                 continue;

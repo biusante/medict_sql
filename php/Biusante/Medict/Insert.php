@@ -474,8 +474,6 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         
     }
 
-
-
     /**
      * Insérer une vedette.
      * La page de cette relation est celle de l’entrée courante
@@ -488,7 +486,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
         self::$dico_rel[C::_DICO_TERME] = $terme_id;
         self::$dico_rel[C::_FORME] = $forme; // graphie initiale
-        self::$dico_rel[C::_ORTH] = true;
+        self::$dico_rel[C::_ORTH] = true; // est une vedette
         try {
             self::$q[C::DICO_REL]->execute(self::$dico_rel);
         } catch (Exception $e) {
@@ -563,13 +561,13 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
         foreach($orth_ids as $dico_terme => $forme) {
             // id clique
             self::$dico_rel[C::_CLIQUE] = self::clique();
-            self::$dico_rel[C::_ORTH] = true;
+            self::$dico_rel[C::_ORTH] = true; // vedette dans la clique
             self::$dico_rel[C::_DICO_TERME] = $dico_terme;
             self::$q[C::DICO_REL]->execute(self::$dico_rel);
             // 
         }
         foreach($terme_ids as $dico_terme) {
-            self::$dico_rel[C::_ORTH] = null;
+            self::$dico_rel[C::_ORTH] = null; // pas vedette dans la clique
             self::$dico_rel[C::_DICO_TERME] = $dico_terme;
             self::$q[C::DICO_REL]->execute(self::$dico_rel);
         }
@@ -689,7 +687,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                     self::$dico_rel[C::_PAGE] = self::$dico_entree[C::_PAGE];
                     self::$dico_rel[C::_REFIMG] = self::$dico_entree[C::_REFIMG];
                     self::$dico_rel[C::_CLIQUE] = self::clique();
-                    self::$dico_rel[C::_ORTH] = true;
+                    self::$dico_rel[C::_ORTH] = true; // vedette en clique
                     foreach ($orths as $dico_terme => $forme) {
                         self::$dico_rel[C::_DICO_TERME] = $dico_terme;
                         self::$dico_rel[C::_FORME] = $forme;
@@ -697,7 +695,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                     }
                 }
                 // si pas d’événement orth depuis la dernière entrée
-                // envoyer la vedette
+                // envoyer entry
                 if (!count($orths) && self::$dico_entree[C::_VEDETTE]) {
                     $terme_id = self::terme_id(self::$dico_entree[C::_VEDETTE], $orth_langue);
                     self::insert_orth($terme_id);

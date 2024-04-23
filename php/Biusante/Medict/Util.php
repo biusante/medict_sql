@@ -34,7 +34,7 @@ class Util
     /** Table de correspondances betacode */
     static $grc_lat;
     /** Code int des langues en ordre de priorité pour la base Medict */
-    static $langs = array(
+    static $langs = [
         'fra' => 1,
         'lat' => 2,
         'grc' => 3,
@@ -42,7 +42,9 @@ class Util
         'deu' => 5,
         'spa' => 6,
         'ita' => 7,
-    );
+        'heb' => 110,
+        'ara' => 111,
+    ];
 
     /**
      * Intialize des champs statiques

@@ -9,7 +9,7 @@ declare(strict_types=1);
 
 
 foreach(glob($argv[1]) as $file) {
-    Events::orthCap($file);
+    Events::entryCaps($file);
 }
 
 /**
@@ -18,6 +18,33 @@ foreach(glob($argv[1]) as $file) {
 class Events
 {
     static $dic = [];
+
+    /**
+     * CAUTION !
+     * Entry, capitalize
+     */
+    static function entryCaps($file)
+    {
+        $tsv = "";
+        $lines = file($file);
+        $lines_count = count($lines);
+        for ($l=0; $l<$lines_count; $l++) {
+            $line = $lines[$l];
+            if (!str_starts_with($line, 'entry')) {
+                $tsv .= $line;
+                continue;
+            }
+            $row = str_getcsv($line, "\t");
+            $terms = preg_split('/ *, */', $row[1]);
+            for ($i = 0, $terms_count = count($terms); $i < $terms_count; $i++) {
+                $t = $terms[$i];
+                $terms[$i] = mb_substr($t, 0, 1) .   mb_strtolower(mb_substr($t, 1));
+            }
+            $row[1] = implode(', ', $terms);
+            $tsv .= implode("\t", $row) . "\n";
+        }
+        file_put_contents($file, $tsv);
+    }
 
     static function orthCap($file)
     {
@@ -47,7 +74,7 @@ class Events
             }
             $tsv .= $line;
             continue;
-    }
+        }
         file_put_contents($file, $tsv);
     }
 

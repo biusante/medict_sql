@@ -10,6 +10,7 @@ function tout()
 {
     $time_start = microtime(true);
     $pars = Util::pars();
+    /*
     // regénérer les données des sources xml
     foreach (glob(dirname(__DIR__) . '/medict_xml/xml/*.xml') as $xml_file) {
         $name = pathinfo($xml_file, PATHINFO_FILENAME);
@@ -17,6 +18,7 @@ function tout()
         if (strpos($name, "medict01686") === 0) continue;
         Tei::tei_events($xml_file);
     }
+    */
     // table des titres
     Insert::dico_titre(__DIR__ . '/dico_titre.tsv');
     // table des volumes

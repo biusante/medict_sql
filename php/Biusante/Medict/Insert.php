@@ -51,6 +51,7 @@ class Insert extends Util
         C::_DICO_TERME => -1,
         C::_ORTH => null,
         C::_FORME => null,
+        C::_LANGUE => null,
     );
     /** Cache de clique */
     private static $clique = null;
@@ -291,7 +292,10 @@ class Insert extends Util
         }
         $deforme = self::deforme($forme);
         // passer la langue en nombre
-        $langue_no = self::$langs[$langue_iso] ?? NULL;
+        $langue_no = NULL;
+        if (isset(self::$langs[$langue_iso])) {
+            $langue_no = self::$langs[$langue_iso];
+        }
         // tester cache mémoire
         $key = $langue_no . '_' . $deforme;
         if (isset(self::$terme_id[$key])) {
@@ -500,18 +504,20 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
      * Insérer une relation mots associés liée par l’article
      * Ne sert qu’aux traductions
      */
-    private static function insert_rel($reltype, $page, $refimg, $dico_terme, $forme=null, $orth=null)
+    private static function insert_rel($reltype, $page, $refimg, $dico_terme, $opts=[])
     {
         self::$dico_rel[C::_CLIQUE] = 0; // pas d’info de clique
         self::$dico_rel[C::_RELTYPE] = $reltype;
         self::$dico_rel[C::_PAGE] = $page;
         self::$dico_rel[C::_REFIMG] = $refimg;
         self::$dico_rel[C::_DICO_TERME] = $dico_terme;
-        self::$dico_rel[C::_ORTH] = $orth;
-        self::$dico_rel[C::_FORME] = $forme;
+        if (isset($opts[C::_ORTH])) self::$dico_rel[C::_ORTH] = $opts[C::_ORTH];
+        if (isset($opts[C::_FORME])) self::$dico_rel[C::_FORME] = $opts[C::_FORME];
+        if (isset($opts[C::_LANGUE])) self::$dico_rel[C::_LANGUE] = $opts[C::_LANGUE];
         self::$q[C::DICO_REL]->execute(self::$dico_rel);
         self::$dico_rel[C::_ORTH] = null;
         self::$dico_rel[C::_FORME] = null;
+        self::$dico_rel[C::_LANGUE] = null;
         self::$dico_rel[C::_DICO_TERME] = null;
     }
 
@@ -773,9 +779,19 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
             if (!$forme) continue;
             // langue locale ?
             $forme_langue = null;
-            if(isset($row[2])) $forme_langue = $row[2];
+            $forme_langueno = null;
+            if(isset($row[2])) {
+                $forme_langue = $row[2];
+            }
             // défaut, langue des vedettes
-            if (!$forme_langue) $forme_langue = $orth_langue; 
+            if (!$forme_langue) {
+                $forme_langue = $orth_langue;
+            }
+            if (isset(self::$langs[$forme_langue])) {
+                $forme_langueno = self::$langs[$forme_langue];
+            }
+
+
             $forme_id = self::terme_id($forme, $forme_langue);
 
 
@@ -813,7 +829,9 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
 
                 // si on veut dans la nomenclature
                 // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
-                self::insert_rel(C::RELTYPE_TERM, $page, $refimg, $forme_id, $forme);
+                self::insert_rel(C::RELTYPE_TERM, $page, $refimg, $forme_id, 
+                    [C::_FORME =>$forme]
+                );
                 // Peupler des renvois avec les membres de la locution ?
                 /*
                 $words[] = $forme;
@@ -842,8 +860,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                             self::$dico_entree[C::_PAGE],
                             self::$dico_entree[C::_REFIMG],
                             $orth_id,
-                            null,
-                            true,
+                            [C::_ORTH => true]
                         );
                     }
                 }
@@ -853,7 +870,9 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 }
                 $foreigns[$forme_id] = $forme;
                 // mot cherchable
-                self::insert_rel(C::RELTYPE_FOREIGN, $page, $refimg, $forme_id, $forme);
+                self::insert_rel(C::RELTYPE_FOREIGN, $page, $refimg, $forme_id, 
+                    [C::_FORME =>$forme, C::_LANGUE =>$forme_langueno]
+                );
                 // clique de traduction
                 self::insert_rel(C::RELTYPE_TRANSLATE, $page, $refimg, $forme_id);
                 continue;

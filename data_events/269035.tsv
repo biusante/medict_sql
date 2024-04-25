@@ -8680,9 +8680,9 @@ entry	Oesophage	2
 orth	Oesophage		
 pb	850	0913	4828347
 pb	851	0914	4828348
-entry	Oesophagoscopie et Bronchoscopie (V. tabl. XXXI)	3	
+entry	Oesophagoscopie et Bronchoscopie	3	
 orth	Oesophagoscopie		
-orth	Bronchoscopie (V. tabl. XXXI)		
+orth	Bronchoscopie		
 pb	Tableau XXXI	0915	4828349
 pb	853	0916	4828350
 pb	854	0917	4828351
@@ -9223,9 +9223,9 @@ entry	Pastèque (melon d'eau)	0
 orth	Pastèque (melon d'eau)		
 entry	Pasteur	0	
 orth	Pasteur		
-entry	Pasteurisation (V. (fig. 1665) et à vin)	0	
-orth	Pasteurisation (V. (fig. 1665)		
-orth	À vin)		
+entry	Pasteurisation	0	
+orth	Pasteurisation		
+clique	Vin		
 entry	Pastilles	0	
 orth	Pastilles		
 entry	Patate	0	
@@ -10007,8 +10007,9 @@ pb	979	1048	4828482
 pb	980	1049	4828483
 entry	Pou	0	
 orth	Pou		
-entry	Pouce (V. figure, à Mains)	0	
-orth	Pouce (V. figure, à Mains)		
+entry	Pouce	0	
+orth	Pouce		
+clique	Mains		
 entry	Poudres	0	
 orth	Poudres		
 entry	Pougues (Nièvre)	0	

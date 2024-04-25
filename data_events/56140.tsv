@@ -349,7 +349,8 @@ orth	Bouvier Louis
 pb	63	0069	7898318
 pb	64	0070	7898319
 entry	Boysson. (Voir Boisson)	0	
-orth	Boysson. (Voir Boisson)		
+orth	Boysson		
+orth	Boisson		
 entry	Brachet Claude	0	
 orth	Brachet Claude		
 entry	Brachet Fabien	0	
@@ -815,8 +816,9 @@ entry	Fabri Honoré	0
 orth	Fabri Honoré		
 entry	Falcoz Jean-Baptiste	0	
 orth	Falcoz Jean-Baptiste		
-entry	Fallon (voir Fattoud)	0	
-orth	Fallon (voir Fattoud)		
+entry	Fallon	0	
+orth	Fallon		
+clique	Fattoud		
 entry	Fantin Jean-Louis	0	
 orth	Fantin Jean-Louis		
 pb	132	0138	7898387
@@ -938,9 +940,9 @@ entry	Ganivet Jean	0
 orth	Ganivet Jean		
 entry	Gantin Georges	0	
 orth	Gantin Georges		
-entry	Garcin, voir Grillet	1	
+entry	Garcin	1	
 orth	Garcin		
-orth	Voir Grillet		
+clique	Grillet		
 pb	150	0156	7898405
 entry	Garin Maurice	0	
 orth	Garin Maurice		
@@ -1906,12 +1908,14 @@ entry	Vouttier François	0
 orth	Vouttier François		
 entry	Vulliel François	0	
 orth	Vulliel François		
-entry	Vulliet (voir Caffe)	0	
-orth	Vulliet (voir Caffe)		
+entry	Vulliet	0	
+orth	Vulliet		
+clique	Caffe		
 entry	Vulliez Louis	0	
 orth	Vulliez Louis		
-entry	Werner de Lachenal (voy. Lachenal)	0	
-orth	Werner de Lachenal (voy. Lachenal)		
+entry	Werner de Lachenal	0	
+orth	Werner de Lachenal		
+clique	Lachenal		
 entry	Isaac (Jacot)	0	
 orth	Isaac (Jacot)		
 pb	259	0265	7898514

@@ -4,7 +4,7 @@ pb	763	0771
 entry	Abdomen	0	
 orth	Abdomen	lat	
 foreign	Tenur	ara	
-foreign	Miracle	ara	
+foreign	Mirach	ara	
 foreign	Beten	heb	
 foreign	Gahon	heb	
 foreign	Kerebh	heb	
@@ -12,15 +12,12 @@ foreign	ἦτρον	grc
 foreign	γαστὴρ	grc	
 foreign	ὑπόκοιλον	grc	
 foreign	Ventre	fra	
-foreign	bas ventre	fra	
-foreign	ventre inférieur	fra	
-foreign	Grasso ventre	ita	
 entry	Ablactatio	0	
 orth	Ablactatio	lat	
 foreign	Nacal	ara	
-foreign	Higgarnel	heb	
+foreign	Higgamel	heb	
 foreign	ἀπογαλακτισμὸς	grc	
-foreign	Sévrement d’enfant	fra	
+foreign	Sévrement	fra	
 foreign	Slattazione	ita	
 foreign	Dislattazione	ita	
 entry	Ablatio	0	
@@ -44,9 +41,10 @@ foreign	Lavamento	ita
 entry	Abortus	0	
 orth	Abortus	lat	
 foreign	Sict	ara	
-foreign	Selt	ara	
+foreign	Sest	ara	
 foreign	Nephel	heb	
-foreign	ἄμβλωσις ἀποφθορά	grc	
+foreign	ἄμβλωσις	grc	
+foreign	ἀποφθορὰ	grc	
 foreign	Avortement	fra	
 foreign	Parto acerbo	ita	
 foreign	Dispersione	ita	
@@ -66,7 +64,7 @@ orth	Accidens	lat
 foreign	Varid	ara	
 foreign	Ica	ara	
 foreign	Vacaah	ara	
-foreign	Trun	heb	
+foreign	Irun	heb	
 foreign	Gedischa	heb	
 foreign	Hovah	heb	
 foreign	Meara	heb	
@@ -86,11 +84,12 @@ foreign	revêche	fra
 foreign	aigre	fra	
 foreign	Acerbo	ita	
 foreign	Aspro	ita	
-entry	Acetum	0	
+entry	Acetum, Acetum stiliticum	0	
 orth	Acetum	lat	
 foreign	Humida	ara	
 foreign	Chal	ara	
 foreign	Mesus	ara	
+orth	Acetum stiliticum	lat	
 foreign	Choilolohaceb	ara	
 foreign	Chamez	heb	
 foreign	ὄξος	grc	
@@ -114,8 +113,8 @@ foreign	Sirengi	ara
 foreign	Sehedie	ara	
 foreign	ἀχὼρ	grc	
 foreign	ἀχῶρες	grc	
-entry	aCIDITAS, Acidus	0	
-orth	aCIDITAS	lat	
+entry	Aciditas, Acidus	0	
+orth	Aciditas	lat	
 orth	Acidus	lat	
 foreign	Athaib	ara	
 foreign	Muchallal	ara	
@@ -130,22 +129,20 @@ foreign	Aigre	fra
 foreign	Agrezza	ita	
 foreign	Agro	ita	
 foreign	Acetoso	ita	
-entry	Acrochordon	0	
+entry	Acrochordon, Verrucam	0	
 orth	Acrochordon	lat	
 foreign	Acruharad	ara	
 foreign	Aforcan	ara	
 foreign	Afrochon	ara	
 foreign	Afrochoon	ara	
 foreign	Jabbeleth	heb	
-foreign	Verrucam	heb	
+orth	Verrucam	lat	
 foreign	ἀκροχόρδων	grc	
-foreign	Verrue	fra	
 foreign	Acrochordon	fra	
-foreign	Porro delle mani	ita	
 foreign	Acrocordone	ita	
 entry	Actio	0	
 orth	Actio	lat	
-foreign	Hetifati	ara	
+foreign	Hetisati	ara	
 foreign	Ketf	ara	
 foreign	Faal	ara	
 foreign	Katef	heb	
@@ -155,7 +152,7 @@ foreign	Acte	fra
 foreign	Action	fra	
 foreign	Besogne	fra	
 foreign	Azzione	ita	
-entry	Acus	0	
+entry	Acus, Acus	0	
 orth	Acus	lat	
 foreign	Ibra	ara	
 foreign	Chiac	ara	
@@ -163,6 +160,7 @@ foreign	Magac	heb
 foreign	βελόνη	grc	
 foreign	Aiguille	fra	
 foreign	Ago	ita	
+orth	Acus	lat	
 foreign	Almuhe	ara	
 foreign	Alechidu	ara	
 entry	Acutus	0	
@@ -192,7 +190,7 @@ foreign	Diamant	fra
 foreign	Diamante	ita	
 entry	Additio	0	
 orth	Additio	lat	
-foreign	Zieda.	ara	
+foreign	Zieda	ara	
 foreign	Tosephad	heb	
 foreign	Tosephdad	heb	
 foreign	πρόσθεσις	grc	
@@ -205,7 +203,7 @@ foreign	Saham	ara
 foreign	Sacham	ara	
 foreign	Gilla	ara	
 foreign	Vadaq	ara	
-foreign	Cheles	heb	
+foreign	Chelef	heb	
 foreign	στέαρ	grc	
 foreign	πιμελὴ	grc	
 foreign	ἀξούγγιον	grc	
@@ -216,10 +214,10 @@ entry	Adolescentia, Adolescens	0
 orth	Adolescentia	lat	
 orth	Adolescens	lat	
 foreign	Hadathe	ara	
-foreign	Gtilam	ara	
+foreign	Giilam	ara	
 foreign	Naar	heb	
 foreign	Near	heb	
-foreign	Eleni	heb	
+foreign	Elem	heb	
 foreign	μειράκιον	grc	
 foreign	Adolescence	fra	
 foreign	Jeunesse	fra	
@@ -243,18 +241,18 @@ foreign	Strettura	ita
 entry	Adustio	0	
 orth	Adustio	lat	
 foreign	Aufume	ara	
-foreign	Alficutne	ara	
+foreign	Alficume	ara	
 foreign	Charchür	heb	
 foreign	Mochdah	heb	
 foreign	ἐπίκαυμα	grc	
-foreign	Brillare	fra	
+foreign	Brûlure	fra	
 foreign	Brusciamento	ita	
-entry	Aeger, Aegrotus	0	
-orth	Aeger	lat	
-orth	Aegrotus	lat	
+entry	Æger, Ægrotus	0	
+orth	Æger	lat	
+orth	Ægrotus	lat	
 foreign	Alcuttab	ara	
-foreign	Alii	ara	
-foreign	Alena	ara	
+foreign	Alil	ara	
+foreign	Alem	ara	
 foreign	Alaleme	ara	
 foreign	Cheri	heb	
 foreign	Anusch	heb	
@@ -263,75 +261,71 @@ foreign	νοσώδης	grc
 foreign	Malade	fra	
 foreign	Ammalato	ita	
 foreign	Infermo	ita	
-entry	Aegilops	0	
-orth	Aegilops	lat	
+entry	Ægilops	0	
+orth	Ægilops	lat	
 foreign	Garabe	ara	
-foreign	Hafcilus	ara	
+foreign	Hascilus	ara	
 foreign	αἰγίλωψ	grc	
 foreign	Egilope	ita	
-entry	Aegritudo, Morbus	0	
-orth	Aegritudo	lat	
-orth	Morbus	lat	
+entry	Ægritudo	0	
+orth	Ægritudo	lat	
+clique	MORBUS		
 entry	Aer	0	
 orth	Aer	lat	
 foreign	Hevah	ara	
-foreign	Nasini	ara	
+foreign	Nasim	ara	
 foreign	Schachak	heb	
 foreign	Ripion	heb	
 foreign	ἀὴρ	grc	
 foreign	Air	fra	
 foreign	Aëre	ita	
 foreign	Aria	ita	
-entry	Aerugo	0	
-orth	Aerugo	lat	
+entry	Ærugo	0	
+orth	Ærugo	lat	
 foreign	Zenziar	ara	
 foreign	Ziniar	ara	
-foreign	Sada alhadid	ara	
 foreign	Nechustah	heb	
-foreign	ἰὸς χαλκοῦ	grc	
 foreign	Rouillure	fra	
 foreign	Ruggine	ita	
-entry	Aes. cuprum	0	
-orth	Aes. cuprum	lat	
-foreign	Abas	ara	
+entry	Æs. cuprum	0	
+orth	Æs. cuprum	lat	
+foreign	Ahas	ara	
 foreign	Achabruse	ara	
-foreign	Nechaleth	heb	
+foreign	Nechaseth	heb	
 foreign	χαλκὸς	grc	
 foreign	Cuivre	fra	
 foreign	Airain	fra	
 foreign	Rame	ita	
-entry	Aes ustum	0	
-orth	Aes ustum	lat	
-foreign	Rusustechi Nucham mucharak	ara	
+entry	Æs ustum	0	
+orth	Æs ustum	lat	
+foreign	Rusustech	ara	
+foreign	Nucham mucharak	ara	
 foreign	χαλκὸς κεκαυμένος	grc	
 foreign	Cuivre brûlé	fra	
 foreign	Rame bracciato	ita	
-entry	Aestas	0	
-orth	Aestas	lat	
+entry	Æstas	0	
+orth	Æstas	lat	
 foreign	Kaid	ara	
 foreign	Kaiz	heb	
-foreign	Chorn	heb	
+foreign	Chom	heb	
 foreign	θέρος	grc	
 foreign	Eté	fra	
 foreign	Estate	ita	
-entry	Aestus	0	
-orth	Aestus	lat	
+entry	Æstus	0	
+orth	Æstus	lat	
 foreign	Umed	ara	
 foreign	Hur	ara	
 foreign	Chom	heb	
-foreign	Chari Sehareth	heb	
 foreign	καῦμα	grc	
 foreign	Ardeur	fra	
 foreign	Ferveur	fra	
-foreign	Grande Chaleur	fra	
-foreign	Calore estremo	ita	
 foreign	Ardore	ita	
 foreign	Fervore	ita	
-entry	Aetas	0	
-orth	Aetas	lat	
+entry	Ætas	0	
+orth	Ætas	lat	
 foreign	San	ara	
 foreign	Asnan	ara	
-foreign	Dot	heb	
+foreign	Dor	heb	
 foreign	Cheled	heb	
 foreign	ἡλικία	grc	
 foreign	Age	fra	
@@ -350,9 +344,9 @@ foreign	Affetto	ita
 foreign	Affezzione	ita	
 entry	Agallochum	0	
 orth	Agallochum	lat	
-foreign	Agalugen Agalugi	ara	
+foreign	Agalugen	ara	
+foreign	Agalugi	ara	
 foreign	ἀγάλλοχον	grc	
-foreign	Bois d’Aloës	fra	
 foreign	Agallocho	ita	
 entry	Agaricum	0	
 orth	Agaricum	lat	
@@ -389,7 +383,7 @@ foreign	Ascella	ita
 entry	Alabastrum	0	
 orth	Alabastrum	lat	
 foreign	Karurah	ara	
-foreign	Schetophal	heb	
+foreign	Schetopha	heb	
 foreign	ἀλάβαστρος	grc	
 foreign	Albâtre	fra	
 foreign	Alabastro	ita	
@@ -398,16 +392,15 @@ orth	Albugo	lat
 foreign	Coloma	ara	
 foreign	λεύκωμα	grc	
 pb	764	0772	
-entry	Albumen, Ovi	0	
+entry	Albumen	0	
 orth	Albumen	lat	
-orth	Ovi	lat	
 foreign	Buini Zenbach	ara	
 foreign	Rachich	ara	
 foreign	Chalbaz	heb	
 foreign	λευκὸν ᾠοῦ	grc	
-foreign	Blanc d’œuf	fra	
+foreign	Blanc	fra	
 foreign	Albume	ita	
-foreign	Chiaro d’ovo	ita	
+foreign	Chiaro	ita	
 entry	Albus, Albedo	0	
 orth	Albus	lat	
 orth	Albedo	lat	
@@ -465,8 +458,8 @@ orth	Alphus	lat
 foreign	Guada	ara	
 foreign	Grada	ara	
 foreign	ἀλφὸς	grc	
-entry	aLTERATIO	0	
-orth	aLTERATIO	lat	
+entry	Alteratio	0	
+orth	Alteratio	lat	
 foreign	Tahvil	ara	
 foreign	Hischtannuth	heb	
 foreign	ἀλλοίωσις	grc	
@@ -484,16 +477,16 @@ foreign	Nutritore	ita
 foreign	Nutrice	ita	
 entry	Altus	0	
 orth	Altus	lat	
-foreign	SimmalI	ara	
+foreign	Simmah	ara	
 foreign	Gabhah	heb	
-foreign	Gebhall	heb	
-foreign	ὐψηλὸς	grc	
+foreign	Gebhah	heb	
+foreign	ὑψηλὸς	grc	
 foreign	Haut	fra	
 foreign	Sublime	fra	
 foreign	Alto	ita	
 entry	Alumen	0	
 orth	Alumen	lat	
-foreign	Alums	ara	
+foreign	Alume	ara	
 foreign	Altalch	ara	
 foreign	Cales	ara	
 foreign	Seba	ara	
@@ -525,7 +518,8 @@ foreign	Ambre	fra
 foreign	Ambra	ita	
 entry	Ambulatio	0	
 orth	Ambulatio	lat	
-foreign	Gaib Meschia	ara	
+foreign	Gaib	ara	
+foreign	Meschia	ara	
 foreign	Hica	heb	
 foreign	Helech	heb	
 foreign	Halicha	heb	
@@ -539,7 +533,7 @@ foreign	Ahtarac	ara
 foreign	Jikedah	heb	
 foreign	Serephah	heb	
 foreign	πυρίκαυμα	grc	
-foreign	πυρίκαυσος	grc	
+foreign	πυρίκαυστος	grc	
 foreign	Brûlure	fra	
 foreign	Embrasement	fra	
 foreign	Scottatura	ita	
@@ -558,7 +552,8 @@ foreign	Fou	fra
 foreign	Forcénement	fra	
 foreign	Forcené	fra	
 foreign	Sot	fra	
-foreign	Pazzia Pazzo	ita	
+foreign	Pazzia	ita	
+foreign	Pazzo	ita	
 entry	Aμmoνiacuμ	0	
 orth	Aμmoνiacuμ	lat	
 foreign	Assach	ara	
@@ -578,9 +573,9 @@ entry	Amor	0
 orth	Amor	lat	
 foreign	Hub	ara	
 foreign	Hubba	ara	
-foreign	Ifchqua	ara	
+foreign	Ischqua	ara	
 foreign	Acheb	heb	
-foreign	Aclrabhah	heb	
+foreign	Achabhah	heb	
 foreign	Jediduth	heb	
 foreign	Dod	heb	
 foreign	Amour	fra	
@@ -589,8 +584,7 @@ entry	Amphora	0
 orth	Amphora	lat	
 foreign	Fagdun	ara	
 foreign	ἄμφορα	grc	
-foreign	Un Seau	fra	
-foreign	Un vaisseau à vin	fra	
+foreign	Seau (un)	fra	
 foreign	Anfora	ita	
 entry	Amuletum	0	
 orth	Amuletum	lat	
@@ -607,8 +601,9 @@ foreign	Schekedim	heb
 foreign	ἀμύγδαλα	grc	
 foreign	Amande	fra	
 foreign	Mandola	ita	
-entry	Amygdalae gulae	0	
-orth	Amygdalae gulae	lat	
+entry	Amygdalæ gulæ, Tonsillæ	0	
+orth	Amygdalæ gulæ	lat	
+orth	Tonsillæ	lat	
 foreign	Gavoni	ara	
 foreign	Geuze	ara	
 foreign	ἀντιάδες	grc	
@@ -657,7 +652,7 @@ foreign	Schinuck	heb
 foreign	Taschnik	heb	
 foreign	Machanak	heb	
 foreign	συνάγχη	grc	
-foreign	κυνάγκη	grc	
+foreign	κυνάγχη	grc	
 foreign	Squinancie	fra	
 foreign	Squinancia	ita	
 entry	Angor	0	
@@ -684,7 +679,7 @@ foreign	καντὶς	grc
 foreign	καντὸς	grc	
 foreign	Angle	fra	
 foreign	Coin	fra	
-foreign	Coins de l’œil	fra	
+foreign	Coins	fra	
 foreign	Cantone	ita	
 foreign	Angolo	ita	
 entry	Angustia	0	
@@ -709,8 +704,6 @@ foreign	Nacata	ara
 foreign	Nesama	heb	
 foreign	δύσπνοια	grc	
 foreign	Haleine	fra	
-foreign	Difficulté de respirer	fra	
-foreign	Respirazione con difficoltà	ita	
 entry	Anima	0	
 orth	Anima	lat	
 foreign	Nasima	ara	
@@ -719,7 +712,7 @@ foreign	Nefesch	heb
 foreign	Hazomechet	heb	
 foreign	Brutalis Habachamit	heb	
 foreign	Hachacmah	heb	
-foreign	Maskeler	heb	
+foreign	Maskelet	heb	
 foreign	Hasaklit	heb	
 foreign	ψυχὴ	grc	
 foreign	φυσικὴ	grc	
@@ -731,7 +724,7 @@ entry	Animal	0
 orth	Animal	lat	
 foreign	Haivan	ara	
 foreign	Chajah	heb	
-foreign	Ζῶον	grc	
+foreign	Ζῷον	grc	
 foreign	Animal	fra	
 foreign	Bête	fra	
 foreign	Animale	ita	
@@ -739,12 +732,9 @@ entry	Animalis facultas	0
 orth	Animalis facultas	lat	
 foreign	Alcessenie	ara	
 foreign	Nafsani	ara	
-foreign	δύναμις ψυχικὴ, αἰσθητικὴ καὶ κινητική	grc	
-foreign	Faculté de sentir, de te mouvoir	fra	
-foreign	Facoltà di sentire, e moversi	ita	
-entry	Animus, Mens	0	
+entry	Animus	0	
 orth	Animus	lat	
-orth	Mens	lat	
+clique	Mens		
 foreign	Dsamir	ara	
 foreign	Nafs	ara	
 foreign	Nefesch Levavh	heb	
@@ -755,8 +745,6 @@ foreign	Animo	ita
 entry	Annularis	0	
 orth	Annularis	lat	
 foreign	κρικοειδὴς	fra	
-foreign	Fait en anneau	fra	
-foreign	Sembiante d’anello	ita	
 entry	Annulus	0	
 orth	Annulus	lat	
 foreign	Tabi	ara	
@@ -766,7 +754,8 @@ foreign	Anneau	fra
 foreign	Anello	ita	
 entry	Annus	0	
 orth	Annus	lat	
-foreign	Sanah Ohm	ara	
+foreign	Sanah	ara	
+foreign	Ohm	ara	
 foreign	Jamim	heb	
 foreign	Schanah	heb	
 foreign	ἔτος	grc	
@@ -827,15 +816,13 @@ foreign	Dubar	ara
 foreign	Charc	ara	
 foreign	Parschedonah	heb	
 foreign	ἀρχὸς	grc	
-foreign	Trou du Cul	fra	
 foreign	Culo	ita	
-entry	Anus	0	
-orth	Anus	lat	
+entry	Anus foeminafemina	0	
+orth	Anus femina	lat	
 foreign	Kehel	ara	
 foreign	Scheabh	ara	
 foreign	Dsekenah	heb	
 foreign	γραῦς	grc	
-foreign	Vieille femme	fra	
 foreign	Vecchia	ita	
 entry	Aorta arteria	0	
 orth	Aorta arteria	lat	
@@ -848,13 +835,11 @@ entry	Aperiens, Apertio	0
 orth	Aperiens	lat	
 orth	Apertio	lat	
 foreign	Fataha	ara	
-foreign	Fatah	ara	
 foreign	Fagar	ara	
 foreign	Pitahon	heb	
 foreign	Miphtach	heb	
 foreign	ἀναστομωτικὸν	grc	
 foreign	ἀναστόμωσις	grc	
-foreign	Qui ouvre	fra	
 foreign	Ouverture	fra	
 foreign	Apertura	ita	
 foreign	Apriente	ita	
@@ -899,16 +884,17 @@ entry	Appetitus	0
 orth	Appetitus	lat	
 foreign	Temeni	ara	
 foreign	Chemed	heb	
-foreign	Chemedah Teschucah	heb	
+foreign	Chemedah	heb	
+foreign	Teschucah	heb	
 foreign	Taapvah	heb	
 foreign	ὄρεξις	grc	
 foreign	Appetit	fra	
 foreign	Convoitise	fra	
 foreign	Appetito	ita	
 foreign	Brama	ita	
-entry	Appositio, Additio	0	
+entry	Appositio	0	
 orth	Appositio	lat	
-orth	Additio	lat	
+clique	Additio		
 entry	Apprehensio	0	
 orth	Apprehensio	lat	
 foreign	Achdah	ara	
@@ -944,7 +930,6 @@ foreign	Mai	ara
 foreign	Mamavi	ara	
 foreign	Memi	heb	
 foreign	ὑδάτινος	grc	
-foreign	Plein d’eau	fra	
 foreign	Acquoso	ita	
 entry	Araneus	0	
 orth	Araneus	lat	
@@ -963,29 +948,26 @@ entry	Arcanum secretum	0
 orth	Arcanum secretum	lat	
 foreign	Chafi	ara	
 foreign	Chafiat	ara	
-foreign	Sir	ara	
+foreign	Sirr	ara	
 foreign	Sarra	ara	
 foreign	Raz	heb	
 foreign	Sod	heb	
 foreign	Lot	heb	
 foreign	Laot	heb	
-foreign	ἀπίῤῥητον μυστήριον	grc	
+foreign	ἀπόῤῥητον μυστήριον	grc	
 foreign	Secret	fra	
 foreign	Secreto	ita	
 entry	Archiater	0	
 orth	Archiater	lat	
-foreign	Mudevi rajs	ara	
 foreign	Mutequadim	ara	
-foreign	Rabb	heb	
-foreign	Ase	heb	
+foreign	Rabb Ase	heb	
 foreign	Measse	heb	
 foreign	ἀρχίατρος	grc	
-foreign	Premier Médecin	fra	
 foreign	Archiatro	ita	
-foreign	Prencipe di Medici	ita	
 entry	Ardor	0	
 orth	Ardor	lat	
-foreign	Hammi Vaed	ara	
+foreign	Vaed	ara	
+foreign	Vaed	ara	
 foreign	Taucad	ara	
 foreign	Jecod	heb	
 foreign	Chari	heb	
@@ -994,7 +976,6 @@ foreign	καῦμα	grc
 foreign	Ardeur	fra	
 foreign	Ferveur	fra	
 foreign	Ardore	ita	
-foreign	Caldo grande	ita	
 entry	Area	0	
 orth	Area	lat	
 foreign	Tyria	ara	
@@ -1019,7 +1000,8 @@ foreign	Sabbia	ita
 entry	Argentum	0	
 orth	Argentum	lat	
 foreign	Fada	ara	
-foreign	Kesef Syma	heb	
+foreign	Kesef	heb	
+foreign	Syma	heb	
 foreign	ἄργυρος	grc	
 foreign	Argent	fra	
 foreign	Argento	ita	
@@ -1051,6 +1033,7 @@ foreign	Fonsmos	ara
 foreign	Dimbelez	ara	
 foreign	Jubs	ara	
 foreign	Jubisa	ara	
+foreign	Jabesch	heb	
 foreign	Jibbascha	heb	
 foreign	ξηρότης	grc	
 foreign	Aridité	fra	
@@ -1102,7 +1085,7 @@ foreign	Art	fra
 foreign	Arte	ita	
 entry	Arsenicum	0	
 orth	Arsenicum	lat	
-foreign	Zarnleh	ara	
+foreign	Zarnich	ara	
 foreign	ἀρσένικον	grc	
 foreign	Arsenic	fra	
 foreign	Arsenico	ita	
@@ -1118,16 +1101,13 @@ entry	Arteria aspera	0
 orth	Arteria aspera	lat	
 foreign	Zumara	ara	
 foreign	Mazamar	ara	
-foreign	Halci	ara	
+foreign	Halc	ara	
 foreign	Gargeret	heb	
 foreign	ἀρτηρία τραχεῖα	grc	
-foreign	Artére du poulmon	fra	
 foreign	Artére aspre	fra	
 foreign	Arteria aspra	ita	
-foreign	arteria del polmone	ita	
 entry	Arthritis	0	
 orth	Arthritis	lat	
-foreign	Vaga aluqued	ara	
 foreign	Beebh	heb	
 foreign	Happerakim	heb	
 foreign	ἀρθρίτις	grc	
@@ -1145,8 +1125,10 @@ foreign	Arteuil	fra
 foreign	Articulo	ita	
 entry	Artifex	0	
 orth	Artifex	lat	
-foreign	Hacim Muallim	ara	
-foreign	Charasebh Choschebh	heb	
+foreign	Hacim	ara	
+foreign	Muallim	ara	
+foreign	Charaseb	heb	
+foreign	Choschebh	heb	
 foreign	Ammon	heb	
 foreign	Amian	heb	
 foreign	Sicli	heb	
@@ -1181,7 +1163,6 @@ foreign	Air	heb
 foreign	ὄνισκος	grc	
 foreign	ὄνος	grc	
 foreign	Ane	fra	
-foreign	Petit Ane	fra	
 foreign	Asino	ita	
 foreign	Asinello	ita	
 entry	Aspersio	0	
@@ -1199,9 +1180,7 @@ foreign	Sbroffamento	ita
 entry	Asphaltum, Bitumen	0	
 orth	Asphaltum	lat	
 orth	Bitumen	lat	
-foreign	Cheser aliheud	ara	
 foreign	Cafra	ara	
-foreign	Cafra alheud	ara	
 foreign	Chamor	heb	
 foreign	Chofer	heb	
 foreign	ἄσφαλτον	grc	
@@ -1246,10 +1225,8 @@ orth	Asthma	lat
 orth	Difficilis respiratio	lat	
 foreign	Bahar	ara	
 foreign	Genichah	heb	
-foreign	ἄσθμα	grc	
-foreign	Difficulté d’haleine	fra	
+foreign	ἆσθμα	grc	
 foreign	Asthme	fra	
-foreign	Respirazione con difficoltà	ita	
 entry	Astragalus, Talus	0	
 orth	Astragalus	lat	
 orth	Talus	lat	
@@ -1269,7 +1246,6 @@ foreign	ἄστρον	grc
 foreign	Astre	fra	
 foreign	Etoile	fra	
 foreign	Astro	ita	
-foreign	Segno celeste	ita	
 entry	Atheroma	0	
 orth	Atheroma	lat	
 foreign	ἀθέρωμα	grc	
@@ -1299,9 +1275,9 @@ foreign	μελαντηρία	grc
 foreign	Encre	fra	
 foreign	lnchiostro	ita	
 foreign	Tinta	ita	
-entry	Atrοphia., Macies	0	
+entry	Atrοphia.	0	
 orth	Atrοphia.	lat	
-orth	Macies	lat	
+clique	Macies		
 entry	Attenuatio	0	
 orth	Attenuatio	lat	
 foreign	Kozra	ara	
@@ -1332,7 +1308,7 @@ orth	Augmentum	lat
 foreign	Zieda	ara	
 foreign	Tacrir	ara	
 foreign	Marbit	heb	
-foreign	ἄυξησις	grc	
+foreign	αὔξησις	grc	
 foreign	ἐπακμὴ	grc	
 foreign	Augmentation	fra	
 foreign	Accroissement	fra	
@@ -1352,8 +1328,6 @@ orth	Aura	lat
 foreign	Hebhel	heb	
 foreign	πνεῦμα	grc	
 foreign	Vapeur	fra	
-foreign	Petit vent	fra	
-foreign	Venticello piacevole	ita	
 foreign	Aura	ita	
 entry	Aures	0	
 orth	Aures	lat	
@@ -1366,13 +1340,12 @@ foreign	οὔατα	grc
 foreign	οὖς	grc	
 foreign	Oreilles	fra	
 foreign	Orecchii	ita	
-entry	Auripigmentum, Arsenicum	0	
+entry	Auripigmentum	0	
 orth	Auripigmentum	lat	
-orth	Arsenicum	lat	
+clique	Arsenicum		
 foreign	Orpiment	fra	
 entry	Auriscalpium	0	
 orth	Auriscalpium	lat	
-foreign	Munacca aludnei	ara	
 foreign	ὠτογλυφὶς	grc	
 foreign	Cure-oreille	fra	
 foreign	Cura-orecchie	ita	
@@ -1395,12 +1368,12 @@ foreign	βοήθημα	grc
 foreign	Secours	fra	
 foreign	Aide	fra	
 foreign	Ajuto	ita	
-entry	Axilla, Ala	0	
+entry	Axilla	0	
 orth	Axilla	lat	
-orth	Ala	lat	
-entry	Axungia, Adeps	0	
+clique	Ala		
+entry	Axungia	0	
 orth	Axungia	lat	
-orth	Adeps	lat	
+clique	Adeps		
 entry	Baculus	0	
 orth	Baculus	lat	
 foreign	Sabt	ara	
@@ -1461,7 +1434,6 @@ foreign	Mudemada	ara
 foreign	Bedolah	heb	
 foreign	βδέλλιον	grc	
 foreign	Bdellium	fra	
-foreign	Gomme Bdellion	fra	
 foreign	Bdellio	ita	
 entry	Bellaria	0	
 orth	Bellaria	lat	
@@ -1470,7 +1442,6 @@ foreign	Kinnuach	heb
 foreign	Segudah	heb	
 foreign	τραγήματα	grc	
 foreign	Dessert	fra	
-foreign	Confezzoni	ita	
 entry	Benedictum	0	
 orth	Benedictum	lat	
 foreign	Mubaraca	ara	
@@ -1518,27 +1489,22 @@ foreign	Fiel	fra
 foreign	Colére	fra	
 foreign	Bile	ita	
 foreign	Colera	ita	
-entry	Bilis flava, bilis NIGRA	0	
-orth	Bilis flava	lat	
-orth	bilis NIGRA	lat	
-foreign	Marra Zafra	ara	
-foreign	Marra Seudi	ara	
+entry	Bilis flava et bilis nigra	0	
+orth	Bilis flava et bilis nigra	lat	
+foreign	Marra Zafra & Seudi	ara	
 foreign	Merara	ara	
-foreign	χολὴ ξανθὴ	grc	
-foreign	χολὴ μέλαινα	grc	
-foreign	Bile jaune	fra	
-foreign	Bile noire	fra	
-foreign	Bile gialla	ita	
-foreign	Bile nera	ita	
+foreign	χολὴ ξανθὴ καὶ μέλαινα	grc	
+foreign	Bile jaune & noire	fra	
+foreign	Bile gialla e nera	ita	
 entry	Biscoctum	0	
 orth	Biscoctum	lat	
 foreign	Tortellæ	ara	
 foreign	δίσεφθον	grc	
 foreign	Biscuit	fra	
 foreign	Biscotto	ita	
-entry	Bitumen, Asphaltum	0	
+entry	Bitumen	0	
 orth	Bitumen	lat	
-orth	Asphaltum	lat	
+clique	Asphaltum		
 entry	Blatta, Tinea	0	
 orth	Blatta	lat	
 orth	Tinea	lat	
@@ -1552,6 +1518,7 @@ entry	Bolus	0
 orth	Bolus	lat	
 foreign	Lezma	ara	
 foreign	Lacma	ara	
+foreign	Cuthaira	ara	
 foreign	Patbag	heb	
 foreign	Pat	heb	
 foreign	βῶλος	grc	
@@ -1559,10 +1526,10 @@ foreign	Bouchée	fra
 foreign	Morceau	fra	
 foreign	Boccone	ita	
 foreign	Bolo	ita	
-entry	Bolus, Lutum, Argilla	0	
+entry	Bolus	0	
 orth	Bolus	lat	
-orth	Lutum	lat	
-orth	Argilla	lat	
+clique	Lutum		
+clique	Argilla		
 entry	Bolus armena	0	
 orth	Bolus armena	lat	
 foreign	Albin	ara	
@@ -1588,7 +1555,7 @@ foreign	Borraca	ara
 foreign	Luzara	ara	
 foreign	Aldeheb	ara	
 foreign	χρυσσοκόλλα	grc	
-foreign	Borax de Venise	fra	
+foreign	Borax	fra	
 foreign	Borras	fra	
 foreign	Borace	ita	
 entry	Brachium	0	
@@ -1613,8 +1580,6 @@ foreign	Zafaha	ara
 foreign	Ziz	heb	
 foreign	Tas	heb	
 foreign	ἐλασμὸς	grc	
-foreign	Feuille de métal	fra	
-foreign	Foglio di metallo	ita	
 entry	Brevitas, Brevis	0	
 orth	Brevitas	lat	
 orth	Brevis	lat	
@@ -1647,7 +1612,6 @@ foreign	Burules	ara
 foreign	Thaun	ara	
 foreign	Barachien	ara	
 foreign	βούβων	grc	
-foreign	Bosse chancreuse	fra	
 foreign	Tartufalo	ita	
 entry	Bucca	0	
 orth	Bucca	lat	
@@ -1672,7 +1636,6 @@ orth	Bufonites	lat
 foreign	Hagiar alnaraqua	ara	
 foreign	μυοξονίτης λίθος	grc	
 foreign	Crapaudine	fra	
-foreign	Pietra che nasce nel rospo	ita	
 entry	Bulimus, Fames nimia	0	
 orth	Bulimus	lat	
 orth	Fames nimia	lat	
@@ -1681,8 +1644,6 @@ foreign	Ulzana	heb
 foreign	Cafan	heb	
 foreign	Raabh	heb	
 foreign	βούλιμος	grc	
-foreign	Faim grande	fra	
-foreign	Gran fame	ita	
 entry	Bulla	0	
 orth	Bulla	lat	
 foreign	Malchabara	ara	
@@ -1717,13 +1678,12 @@ foreign	Marcheseth	heb
 foreign	Patur	heb	
 foreign	κάκκαβος	grc	
 foreign	Chauderon	fra	
-foreign	Caldaia	ita	
+foreign	Caldaja	ita	
 entry	Cαcαtio	0	
 orth	Cαcαtio	lat	
 foreign	Charia	ara	
 foreign	Chari	heb	
 foreign	ἀφόδευσις	grc	
-foreign	Action de chier	fra	
 foreign	Cacazione	ita	
 foreign	Cacarella	ita	
 entry	Cachexia	0	
@@ -1734,15 +1694,11 @@ foreign	Terbel	ara
 foreign	Nepichah	heb	
 foreign	καχεξία	grc	
 foreign	Cachexie	fra	
-entry	cACOCHYMIA	0	
-orth	cACOCHYMIA	lat	
+entry	Cacochymia	0	
+orth	Cacochymia	lat	
 foreign	Chiltradi	ara	
-foreign	Laschad rai	heb	
-foreign	Laschad merah	heb	
 foreign	κακοχυμία	grc	
 foreign	Cacochymie	fra	
-foreign	Mauvaise humeur	fra	
-foreign	Humore cattivo	ita	
 entry	Cadaver	0	
 orth	Cadaver	lat	
 foreign	Gism	ara	
@@ -1750,10 +1706,7 @@ foreign	Guttah	ara
 foreign	Nephelah	heb	
 foreign	Mappelah	heb	
 foreign	Pegar	heb	
-foreign	νεκρόν σῶμα	grc	
-foreign	πεσὸν σῶμα	grc	
 foreign	Cadavre	fra	
-foreign	Corpo morto	ita	
 entry	Cadmia	0	
 orth	Cadmia	lat	
 foreign	Climia	ara	
@@ -1787,8 +1740,6 @@ foreign	Calcinazione	ita
 entry	Calculus	0	
 orth	Calculus	lat	
 foreign	Dil	ara	
-foreign	Hasa al celia	ara	
-foreign	Hasa almethene	ara	
 foreign	Chazaz	heb	
 foreign	λιθίασις	grc	
 foreign	λίθος	grc	
@@ -1800,15 +1751,15 @@ orth	Calefactio	lat
 orth	Calefaciens	lat	
 foreign	Dafia	ara	
 foreign	Dafi	ara	
-foreign	Mischan Suchanna	ara	
+foreign	Mischan	ara	
+foreign	Suchanna	ara	
 foreign	Hammi	ara	
-foreign	Michammem Chom	heb	
 foreign	Habluth	heb	
 foreign	θερμαίνων	grc	
 foreign	θέρμανσις	grc	
 foreign	Chauffant	fra	
 foreign	Echauffant	fra	
-foreign	Chauffemcnt	fra	
+foreign	Chauffement	fra	
 foreign	Riscaldamento	ita	
 foreign	Riscaldante	ita	
 entry	Calidus	0	
@@ -1826,7 +1777,7 @@ foreign	Ophel	heb
 foreign	Aphela	heb	
 foreign	Araphel	heb	
 foreign	Habhirah	heb	
-foreign	ζόφος	grc	
+foreign	Ζόφος	grc	
 foreign	Obscurité	fra	
 foreign	Eblouïssement	fra	
 foreign	Caligine	ita	
@@ -1854,7 +1805,6 @@ foreign	πῶρος	grc
 foreign	Cal	fra	
 foreign	Durillon	fra	
 foreign	Callo	ita	
-foreign	Durezza	ita	
 entry	Calor, Caliditas	0	
 orth	Calor	lat	
 orth	Caliditas	lat	
@@ -1879,7 +1829,6 @@ foreign	Tekhambach	heb
 foreign	κράνιον	grc	
 foreign	Crane	fra	
 foreign	Test	fra	
-foreign	Osso della testa	ita	
 entry	Calvities, Calvus	0	
 orth	Calvities	lat	
 orth	Calvus	lat	
@@ -1902,6 +1851,7 @@ foreign	Shearagi	ara
 foreign	Sehergi	ara	
 foreign	Mura	ara	
 foreign	Almora	ara	
+foreign	Al mura	ara	
 foreign	Gir	heb	
 foreign	Schid	heb	
 foreign	τίτανος	grc	
@@ -1930,8 +1880,8 @@ foreign	Canal	fra
 foreign	Canale	ita	
 entry	Cancer	0	
 orth	Cancer	lat	
-foreign	lkila	ara	
-foreign	lkal	heb	
+foreign	Ikila	ara	
+foreign	Ikul	heb	
 foreign	καρκίνωμα	grc	
 foreign	Chancre	fra	
 foreign	Cancaro	ita	
@@ -1939,7 +1889,7 @@ foreign	Canchero	ita
 entry	Cancer	0	
 orth	Cancer	lat	
 foreign	Acrabb	ara	
-foreign	καρκίνος	grc	
+foreign	καρκῖνος	grc	
 foreign	Ecrevice	fra	
 foreign	Cancro	ita	
 entry	Canini	0	
@@ -1947,7 +1897,6 @@ orth	Canini	lat
 foreign	Kelbiin	ara	
 foreign	Calibim	heb	
 foreign	Κυνικοὶ	grc	
-foreign	de Chien	fra	
 foreign	Canini	ita	
 entry	Canis	0	
 orth	Canis	lat	
@@ -1967,7 +1916,7 @@ foreign	Schebh	heb
 foreign	Schabh	heb	
 foreign	πολιὰ	grc	
 foreign	πολιὸς	grc	
-foreign	Blanchissure des Cheveux	fra	
+foreign	Blanchissure	fra	
 foreign	Chenu	fra	
 foreign	Gris	fra	
 foreign	Blanc	fra	
@@ -1980,7 +1929,6 @@ foreign	Dararich	ara
 foreign	Daruch	ara	
 foreign	κανθαρίδες	grc	
 foreign	Cantharide	fra	
-foreign	Verme Cantarella	ita	
 entry	Capillus	0	
 orth	Capillus	lat	
 foreign	Saar	ara	
@@ -1989,7 +1937,7 @@ foreign	Samaf	ara
 foreign	Sear	heb	
 foreign	Cenath	heb	
 foreign	Revüzoth	heb	
-foreign	θρὶξ	grc	
+foreign	θρὶξ, τριχὸς	grc	
 foreign	Cheveu	fra	
 foreign	Cheveux	fra	
 foreign	Capello	ita	
@@ -2025,16 +1973,14 @@ foreign	κεφαλὴ	grc
 foreign	Tête	fra	
 foreign	Testa	ita	
 foreign	Capo	ita	
-entry	Carbunculus, Gemma	0	
+entry	Carbunculus	0	
 orth	Carbunculus	lat	
-orth	Gemma	lat	
 foreign	Baric	ara	
 foreign	Barketh	heb	
 foreign	Puk	heb	
 foreign	Gemur	heb	
 foreign	ἄνθραξ	grc	
 foreign	Escarboucle	fra	
-foreign	Gros rubis	fra	
 foreign	Carbonchio	ita	
 pb	768	0776	
 entry	Carbunculus	0	
@@ -2052,9 +1998,9 @@ orth	Cardialgia	lat
 foreign	Naquia	ara	
 foreign	Ζischa	heb	
 foreign	delibba	heb	
-foreign	καρδιακὴ καρδιανλγία	grc	
+foreign	καρδιακὴ	grc	
+foreign	καρδιαλγία	grc	
 foreign	Cardialgie	fra	
-foreign	Mal de cœur	fra	
 foreign	Cardiaca	ita	
 foreign	Cardialgia	ita	
 entry	Caricae	0	
@@ -2063,17 +2009,13 @@ foreign	Dibal	ara
 foreign	Armenisi	ara	
 foreign	Debelah	heb	
 foreign	ἰσχάδες	grc	
-foreign	Figues séches	fra	
-foreign	Figues de cabas	fra	
-foreign	Fichi secchi	ita	
 entry	Caries	0	
 orth	Caries	lat	
 foreign	Susa	ara	
 foreign	Racabh	heb	
 foreign	Schabas	heb	
 foreign	τερηδὼν	grc	
-foreign	ἐυρὼς	grc	
-foreign	Pourriture d’os	fra	
+foreign	εὐρὼς	grc	
 foreign	Caruolo	ita	
 foreign	Tarlo	ita	
 entry	Cαrminativus	0	
@@ -2088,7 +2030,7 @@ entry	Caro	0
 orth	Caro	lat	
 foreign	Gism	ara	
 foreign	Laham	ara	
-foreign	Basam	heb	
+foreign	Basar	heb	
 foreign	Scheer	heb	
 foreign	σὰρξ	grc	
 foreign	κρέας	grc	
@@ -2105,7 +2047,7 @@ orth	Carpus	lat
 foreign	Alkef	ara	
 foreign	Rasech	heb	
 foreign	κάρπος	grc	
-foreign	Poignet	fra	
+foreign	Poignet (le)	fra	
 foreign	Bracciale	ita	
 entry	Cartilago	0	
 orth	Cartilago	lat	
@@ -2133,7 +2075,8 @@ foreign	Giaben	ara
 foreign	Gabna	ara	
 foreign	Acad.	ara	
 foreign	Gebinah	heb	
-foreign	Schephoth. Cherizim	heb	
+foreign	Schephoth	heb	
+foreign	Cherizim	heb	
 foreign	τυρὸς	grc	
 foreign	Fromage	fra	
 foreign	Formaggio	ita	
@@ -2170,9 +2113,9 @@ foreign	Mochz	ara
 foreign	Mucappan	ara	
 foreign	Saris	heb	
 foreign	Mesoras	heb	
-foreign	Ganchin	heb	
-foreign	ἐυνουχισμὸς	grc	
-foreign	ἐυνοῦχος	grc	
+foreign	Ganchin (Castrati)	heb	
+foreign	εὐνουχισμὸς	grc	
+foreign	εὐνοῦχος	grc	
 foreign	Châtrement	fra	
 foreign	Châtré	fra	
 foreign	Eunuque	fra	
@@ -2192,10 +2135,8 @@ foreign	Ruine	fra
 foreign	Chute	fra	
 foreign	Caduta	ita	
 foreign	Rouina	ita	
-entry	Casus, Contingens, Ηistorial	0	
+entry	Casus	0	
 orth	Casus	lat	
-orth	Contingens	lat	
-orth	Ηistorial	lat	
 foreign	Ica	ara	
 foreign	Kareh	heb	
 foreign	Keri	heb	
@@ -2211,7 +2152,7 @@ entry	Catarrhus	0
 orth	Catarrhus	lat	
 foreign	Nazla	ara	
 foreign	Nezilah	heb	
-foreign	κάταῤῥος	grc	
+foreign	κατάῤῥους	grc	
 foreign	Catarre	fra	
 foreign	Défluxion	fra	
 foreign	Catarro	ita	
@@ -2276,9 +2217,8 @@ foreign	Micva	heb
 foreign	καυστικὸν	grc	
 foreign	Caustique	fra	
 foreign	Caustico	ita	
-entry	Causus, Febris ardens	0	
+entry	Causus	0	
 orth	Causus	lat	
-orth	Febris ardens	lat	
 foreign	Faricos	ara	
 foreign	Harca	ara	
 foreign	Hamia	ara	
@@ -2287,12 +2227,11 @@ foreign	Charchür	heb
 foreign	Kaddachat	heb	
 foreign	Dhalkelet	heb	
 foreign	καῦσος	grc	
-foreign	Fiévre chaude	fra	
-foreign	Febre ardente	ita	
-entry	Cauterium	0	
+entry	Cauterium, Cauterizatus	0	
 orth	Cauterium	lat	
 foreign	Ki	ara	
 foreign	Mucauvi	ara	
+orth	Cauterizatus	lat	
 foreign	Charac	heb	
 foreign	καυτήριον	grc	
 foreign	Cautére	fra	
@@ -2325,13 +2264,11 @@ entry	Cephalalgia	0
 orth	Cephalalgia	lat	
 foreign	Soda	ara	
 foreign	Vaga	ara	
-foreign	Alras	ara	
+foreign	alras	ara	
 foreign	Alchude	ara	
 foreign	Azbah	heb	
 foreign	κεφαλαλγία	grc	
-foreign	Douleur de tête	fra	
 foreign	Cefalalgia	ita	
-foreign	Dolore del capo	ita	
 entry	Cephalicum medic	0	
 orth	Cephalicum medic	lat	
 foreign	Altesum	ara	
@@ -2345,14 +2282,14 @@ orth	Cera	lat
 foreign	Mum	ara	
 foreign	Kir	ara	
 foreign	Donnag	heb	
-foreign	κῆρος	grc	
+foreign	κηρὸς	grc	
 foreign	Cire	fra	
 foreign	Cera	ita	
 entry	Ceratum, Cerotum	0	
 orth	Ceratum	lat	
 orth	Cerotum	lat	
 foreign	Zeft	ara	
-foreign	κηρωτὸν	fra	
+foreign	κηρωτὸν	grc	
 foreign	Cerot	fra	
 foreign	Cerato	ita	
 entry	Cerebellum, Cerebrum	0	
@@ -2363,11 +2300,10 @@ foreign	Dimaga	ara
 foreign	Demag	ara	
 foreign	Much	ara	
 foreign	Michach	ara	
-foreign	ἐγκεφαλὶς	heb	
-foreign	ἐγκέφαλος	heb	
+foreign	ἐγκεφαλὶς	grc	
+foreign	ἐγκέφαλος	grc	
 foreign	Cervelle	fra	
 foreign	Cerveau	fra	
-foreign	Cervello picciolo	ita	
 foreign	Cervello	ita	
 entry	Cerevisia.	0	
 orth	Cerevisia.	lat	
@@ -2436,7 +2372,6 @@ entry	Chirurgia, Chirurgus	0
 orth	Chirurgia	lat	
 orth	Chirurgus	lat	
 foreign	Gartachis	ara	
-foreign	Raphuat hajad Chobesch	heb	
 foreign	χειρουργία	grc	
 foreign	χειρουργὸς	grc	
 foreign	Chirurgie	fra	
@@ -2460,9 +2395,8 @@ foreign	Chabas	ara
 foreign	χόριον	grc	
 foreign	Chorion	fra	
 foreign	Chorion	ita	
-entry	Choroides, Retiformis	0	
+entry	Choroides	0	
 orth	Choroides	lat	
-orth	Retiformis	lat	
 foreign	Sarag	heb	
 foreign	Rescher	heb	
 foreign	χοροειδὴς	grc	
@@ -2494,7 +2428,8 @@ foreign	Macal	ara
 foreign	Makela	ara	
 foreign	Matam	ara	
 foreign	Dabhah	ara	
-foreign	Okel Makeleth	heb	
+foreign	Okel	heb	
+foreign	Makeleth	heb	
 foreign	Bag	heb	
 foreign	Birjah	heb	
 foreign	Barut	heb	
@@ -2523,7 +2458,6 @@ foreign	Keridsin	heb
 foreign	βλεφαρίδες	grc	
 foreign	ὄφρυες	grc	
 foreign	Sourcils	fra	
-foreign	Ciglii	ita	
 entry	Cingulum	0	
 orth	Cingulum	lat	
 foreign	Gabbid	ara	
@@ -2575,7 +2509,6 @@ foreign	Tahlica	ara
 foreign	Kasef	heb	
 foreign	κύκλωσις	grc	
 foreign	Circulation	fra	
-foreign	Circuit du Sang	fra	
 foreign	Giramento	ita	
 foreign	Ravolgimento	ita	
 entry	Circulus	0	
@@ -2591,7 +2524,7 @@ entry	Clamor	0
 orth	Clamor	lat	
 foreign	Nida	ara	
 foreign	Zajah	ara	
-foreign	Diaca	heb	
+foreign	Dsaca	heb	
 foreign	Zevachah	heb	
 foreign	Schua	heb	
 foreign	Srhevah	heb	
@@ -2611,11 +2544,11 @@ foreign	Pisscagh	heb
 foreign	Zela	heb	
 foreign	Zolah	heb	
 foreign	χαλασμὸς	grc	
-foreign	χολὸς	grc	
+foreign	χωλὸς	grc	
 foreign	Boiteux	fra	
 foreign	Boitement	fra	
 foreign	Clochement	fra	
-foreign	Clochepied	fra	
+foreign	Cloche-pied	fra	
 foreign	Zoppicamento	ita	
 foreign	Zoppo	ita	
 entry	Clavicula	0	
@@ -2626,7 +2559,6 @@ foreign	Caab	ara
 foreign	Scechem	heb	
 foreign	κλειδίον	grc	
 foreign	κλεὶς	grc	
-foreign	Petite Clé	fra	
 foreign	Chiavicina	ita	
 entry	Clavus	0	
 orth	Clavus	lat	
@@ -2635,7 +2567,7 @@ foreign	Vatad	ara
 foreign	Masmar	ara	
 foreign	Racar	heb	
 foreign	γόμφος	grc	
-foreign	ἧλος	grc	
+foreign	ἦλος	grc	
 foreign	Clou	fra	
 foreign	Chiodo	ita	
 entry	Cloaca	0	
@@ -2680,9 +2612,9 @@ foreign	δοίδυξ	grc
 foreign	Cuillier	fra	
 foreign	Cocchiaro	ita	
 foreign	Cucchiaro	ita	
-entry	Coecitas, Coecus	0	
-orth	Coecitas	lat	
-orth	Coecus	lat	
+entry	COECITASCAECITAS, COECUSCAECUS	0	
+orth	CAECITAS	lat	
+orth	CAECUS	lat	
 foreign	Avar	ara	
 foreign	Umi	ara	
 foreign	lwaron	heb	
@@ -2694,21 +2626,21 @@ foreign	Aveuglement	fra
 foreign	Aveugle	fra	
 foreign	Cecità	ita	
 foreign	Cieco	ita	
-entry	Coelestis	0	
-orth	Coelestis	lat	
+entry	COELESTISCAELESTIS	0	
+orth	CAELESTIS	lat	
 foreign	Schemine	heb	
 foreign	οὐράνιος	grc	
 foreign	Céleste	fra	
-foreign	Du ciel	fra	
 foreign	Celeste	ita	
-entry	Coelum	0	
-orth	Coelum	lat	
+entry	COELUMCAELUM	0	
+orth	CAELUM	lat	
 foreign	Elzama	ara	
+foreign	Schammaim	heb	
 foreign	οὐρανὸς	grc	
 foreign	Ciel	fra	
 foreign	Cielo	ita	
-entry	Coenα	0	
-orth	Coenα	lat	
+entry	COENΑCENΑ	0	
+orth	CENΑ	lat	
 foreign	Aschi	ara	
 foreign	Achschemu	heb	
 foreign	δεῖπνον	grc	
@@ -2720,7 +2652,6 @@ foreign	Mischgal	heb
 foreign	Mischgâla	heb	
 foreign	συνουσία	grc	
 foreign	ὀχεία	grc	
-foreign	Action vénérienne	fra	
 foreign	Coito carnale	ita	
 entry	Colica	0	
 orth	Colica	lat	
@@ -2753,8 +2684,7 @@ entry	Colon	0
 orth	Colon	lat	
 foreign	Chazira	ara	
 foreign	κῶλον	grc	
-foreign	intestin	fra	
-foreign	grand boyau	fra	
+foreign	intestin (L')	fra	
 foreign	Coio	ita	
 entry	Color	0	
 orth	Color	lat	
@@ -2780,18 +2710,17 @@ orth	Uvula	lat
 foreign	Halc	ara	
 foreign	σταφύλη	grc	
 foreign	Luette	fra	
-foreign	Colonelle	ita	
+foreign	Colonella	ita	
 foreign	Campanella	ita	
 foreign	Ugola	ita	
-entry	Coma	0	
+entry	Coma, Coma vigil	0	
 orth	Coma	lat	
 foreign	Subet	ara	
-foreign	Coma vigil	ara	
+orth	Coma vigil	lat	
 foreign	Subet asari	ara	
 foreign	κῶμα	grc	
 foreign	Léthargie	fra	
 foreign	Sonnolenza	ita	
-foreign	Sonno profondo	ita	
 entry	Commissura	0	
 orth	Commissura	lat	
 foreign	Seren	ara	
@@ -2807,9 +2736,8 @@ foreign	Jointure	fra
 foreign	Conjonction	fra	
 foreign	Incastramento	ita	
 foreign	Giuntura	ita	
-entry	Complexio, Dispositio et natura	0	
+entry	Complexio	0	
 orth	Complexio	lat	
-orth	Dispositio et natura	lat	
 foreign	Tabi	ara	
 foreign	Mizig	ara	
 foreign	Mezeg	heb	
@@ -2845,7 +2773,7 @@ foreign	Herajon	heb
 foreign	Maadit	heb	
 foreign	Batna	heb	
 foreign	κύησις	grc	
-foreign	κύαμα	grc	
+foreign	κύημα	grc	
 foreign	Conception	fra	
 foreign	Conçu	fra	
 foreign	Concezzione	ita	
@@ -2915,7 +2843,7 @@ orth	Consuetudo	lat
 orth	Consuetus	lat	
 foreign	Manhag	ara	
 foreign	Ada	ara	
-foreign	Mastaaved	ara	
+foreign	Massaaved	ara	
 foreign	Ajada	heb	
 foreign	Davasch	heb	
 foreign	Derec	heb	
@@ -2923,7 +2851,7 @@ foreign	Chalaca	heb
 foreign	ἔθος	grc	
 foreign	ἐθισμὸς	grc	
 foreign	ἠθισμένος	grc	
-foreign	Coûtume	fra	
+foreign	Coutume	fra	
 foreign	Consuetudine	ita	
 entry	Contagium	0	
 orth	Contagium	lat	
@@ -2932,7 +2860,6 @@ foreign	ἀπόῤῥοια	grc
 foreign	μίασμα	grc	
 foreign	συνάφεια	grc	
 foreign	Contagion	fra	
-foreign	Maladie contagieuse	fra	
 foreign	Contagio	ita	
 entry	Contentum	0	
 orth	Contentum	lat	
@@ -2964,7 +2891,6 @@ foreign	Kehab	heb
 foreign	Kalut	heb	
 foreign	συστολὴ	grc	
 foreign	Contraction	fra	
-foreign	Contract de nerfs	fra	
 foreign	Accourcissement	fra	
 foreign	lncortazione	ita	
 foreign	Incortato	ita	
@@ -2975,17 +2901,18 @@ foreign	Murad	ara
 foreign	Sadach	ara	
 foreign	Holem	heb	
 foreign	Mekicha	heb	
-foreign	θλᾶσις	grc	
-foreign	θλᾶσμα	grc	
+foreign	θλάσις	grc	
+foreign	θλάσμα	grc	
 foreign	Contusion	fra	
 foreign	Pilement	fra	
 foreign	Pistamento	ita	
-entry	Convulsio, Spasmus	0	
+entry	Convulsio, Spasmus, Spasmus cynicus	0	
 orth	Convulsio	lat	
 orth	Spasmus	lat	
 foreign	Chalda	ara	
 foreign	Machlud	ara	
 foreign	Tasnag	ara	
+orth	Spasmus cynicus	lat	
 foreign	Chadr	ara	
 foreign	Kephiah	heb	
 foreign	σπασμὸς	grc	
@@ -3039,7 +2966,8 @@ orth	Corpulentus	lat
 foreign	Galal	ara	
 foreign	Galil	ara	
 foreign	Gabh	heb	
-foreign	παχὺς μεγαλοσώματος	grc	
+foreign	παχὺς	grc	
+foreign	μεγαλοσώματος	grc	
 foreign	Corpulent	fra	
 foreign	Charnu	fra	
 foreign	Corpulence	fra	
@@ -3070,7 +2998,7 @@ foreign	Rosicazione	ita
 entry	Corruptio	0	
 orth	Corruptio	lat	
 foreign	Tacharic	ara	
-foreign	Taffed	ara	
+foreign	Tassed	ara	
 foreign	Fisad	ara	
 foreign	Fasuda	ara	
 foreign	Chebhel	heb	
@@ -3081,7 +3009,7 @@ foreign	Corruption	fra
 foreign	Corruzzione	ita	
 entry	Cortex	0	
 orth	Cortex	lat	
-foreign	Gieft	ara	
+foreign	Giefr	ara	
 foreign	Cocior	ara	
 foreign	Kerfe	ara	
 foreign	Quischschara	ara	
@@ -3101,7 +3029,6 @@ foreign	Tarcam	ara
 foreign	κόρυζα	grc	
 foreign	Rhume	fra	
 foreign	Catarrhe	fra	
-foreign	Défluxion du cerveau	fra	
 foreign	Catarro	ita	
 entry	Cos	0	
 orth	Cos	lat	
@@ -3111,8 +3038,6 @@ foreign	Almesen	ara
 foreign	Mischachan	heb	
 foreign	ἀκόνη	grc	
 foreign	Queux	fra	
-foreign	Pierre à aiguiser	fra	
-foreign	Pietra d’agguzzare	ita	
 foreign	Cote	ita	
 entry	Costa	0	
 orth	Costa	lat	
@@ -3141,8 +3066,6 @@ foreign	Quahaf	ara
 foreign	Gülgoleth	heb	
 foreign	κράνιον	grc	
 foreign	Crane	fra	
-foreign	os de la tête	fra	
-foreign	Osso della testa	ita	
 entry	Crassities, Crassus	0	
 orth	Crassities	lat	
 orth	Crassus	lat	
@@ -3174,13 +3097,11 @@ orth	Creta	lat
 foreign	Tafla	ara	
 foreign	Torab	ara	
 foreign	Tarab	ara	
-foreign	κιμώλια γῆ	grc	
-foreign	de la Craye	fra	
 foreign	Creta	ita	
 entry	Cribrum	0	
 orth	Cribrum	lat	
 foreign	Crib	ara	
-foreign	Κebharah	heb	
+foreign	Rebharah	heb	
 foreign	Mibhar	heb	
 foreign	κόσκινον	grc	
 foreign	Crible	fra	
@@ -3199,7 +3120,6 @@ foreign	κριτικὸς	grc
 foreign	Jugement	fra	
 foreign	Judicature	fra	
 foreign	Jugé	fra	
-foreign	Jour de crise dans les maladies	fra	
 foreign	Giudicio	ita	
 foreign	Giudicatura	ita	
 foreign	Giudicante	ita	
@@ -3270,7 +3190,8 @@ entry	Cucurbitula	0
 orth	Cucurbitula	lat	
 foreign	Oabel	ara	
 foreign	akara	ara	
-foreign	Chaelie Hagama	ara	
+foreign	Chaelie	ara	
+foreign	Hagama	ara	
 foreign	Higema	ara	
 foreign	Carna	heb	
 foreign	Kefil	heb	
@@ -3283,7 +3204,7 @@ orth	Cucurbita destillatoria	lat
 foreign	Cara	ara	
 foreign	Chara	ara	
 foreign	Harahah	ara	
-foreign	σικόα	grc	
+foreign	σικύα	grc	
 foreign	Alembic	fra	
 foreign	Zucca	ita	
 entry	Culter	0	
@@ -3298,10 +3219,7 @@ foreign	Coltello	ita
 foreign	Coltellino	ita	
 entry	Cuneiformis	0	
 orth	Cuneiformis	lat	
-foreign	Massil alliziz	ara	
 foreign	σφηνοειδὴς	grc	
-foreign	Fait en ferme de coin	fra	
-foreign	Conforme a cugno	ita	
 pb	771	0779	
 entry	Cuneus	0	
 orth	Cuneus	lat	
@@ -3377,7 +3295,7 @@ foreign	Piegato	ita
 entry	Cuspis	0	
 orth	Cuspis	lat	
 foreign	Malchas	ara	
-foreign	lbhchah	heb	
+foreign	Ibhchah	heb	
 foreign	αἰχμὴ	grc	
 foreign	Pointe	fra	
 foreign	Punta	ita	
@@ -3385,8 +3303,6 @@ entry	Cuticula	0
 orth	Cuticula	lat	
 foreign	Gulcida	ara	
 foreign	ἐπιδερμὶς	grc	
-foreign	Petite peau	fra	
-foreign	Pelle picciola	ita	
 foreign	Coticella	ita	
 entry	Cutis	0	
 orth	Cutis	lat	
@@ -3441,12 +3357,12 @@ foreign	Nacs	ara
 foreign	Nekida	ara	
 foreign	Alruie	ara	
 foreign	Mefetet	ara	
-foreign	leridah	heb	
+foreign	Ieridah	heb	
 foreign	παρακμὴ	grc	
 foreign	Déclin	fra	
 foreign	Déchet des maladies	fra	
 foreign	Amoindrissement	fra	
-foreign	DeclinaZione	ita	
+foreign	Declinazione	ita	
 entry	Decoctio, Decoctum	0	
 orth	Decoctio	lat	
 orth	Decoctum	lat	
@@ -3469,18 +3385,19 @@ foreign	μελασμὸς	grc
 foreign	Noircissure	fra	
 foreign	Noirceur	fra	
 foreign	Annegramento	ita	
-entry	Dens, Dentes	0	
+entry	Dens, Dentes, Dens incisorius, Dens anterior	0	
 orth	Dens	lat	
 orth	Dentes	lat	
 foreign	Dars	ara	
 foreign	Adras	ara	
 foreign	Adaris	ara	
 foreign	Dars cudumi	ara	
-foreign	Dens incisorius	ara	
+orth	Dens incisorius	lat	
+orth	Dens anterior	lat	
 foreign	Schen	heb	
 foreign	Schinaim	heb	
 foreign	ὀδὼν	grc	
-foreign	ὀδόντες	grc	
+foreign	ὀδόντες	grc	
 foreign	Dent	fra	
 foreign	Dents	fra	
 foreign	Dente	ita	
@@ -3518,10 +3435,9 @@ foreign	Scalza denti	ita
 entry	Dentitio	0	
 orth	Dentitio	lat	
 foreign	Nubit	ara	
-foreign	Alamanan	ara	
+foreign	alamanan	ara	
 foreign	ὀδαξιρμὸς	grc	
 foreign	ὀδοντίασις	grc	
-foreign	La venue des dents	fra	
 foreign	Dentigazione	ita	
 entry	Depilatiο, Depilatorium	0	
 orth	Depilatiο	lat	
@@ -3533,7 +3449,6 @@ foreign	Carcha	heb
 foreign	Merut	heb	
 foreign	ψίλωθρον	grc	
 foreign	Dépilatoire	fra	
-foreign	Pelamento rimedio	ita	
 entry	Depressio	0	
 orth	Depressio	lat	
 foreign	Alchafad	ara	
@@ -3549,13 +3464,11 @@ entry	Despumatio	0
 orth	Despumatio	lat	
 foreign	Tazfia	ara	
 foreign	ἀπαφρισμὸς	grc	
-foreign	Action d’écumer	fra	
 foreign	Despumazione	ita	
 entry	Desquammatio	0	
 orth	Desquammatio	lat	
 foreign	Taqschira	ara	
 foreign	ἀπολέπισις	grc	
-foreign	Action d’écailler	fra	
 foreign	Scagliazione	ita	
 foreign	Scagliamento	ita	
 entry	Destillatio	0	
@@ -3585,7 +3498,6 @@ foreign	Tartib	ara
 foreign	Nehagah	heb	
 foreign	δίαιτα	grc	
 foreign	Diéte	fra	
-foreign	Régime de vivre	fra	
 foreign	Dieta	ita	
 entry	Diaphragma	0	
 orth	Diaphragma	lat	
@@ -3597,12 +3509,9 @@ foreign	Diaphragme	fra
 foreign	Diaframma	ita	
 entry	Diarrhoea	0	
 orth	Diarrhoea	lat	
-foreign	Guri bikai	ara	
 foreign	Darab	ara	
 foreign	Dabaren	ara	
 foreign	διάῤῥοια	grc	
-foreign	Flux de ventre	fra	
-foreign	Flusso di ventre	ita	
 entry	Diastole	0	
 orth	Diastole	lat	
 foreign	Halpaschtor	heb	
@@ -3706,7 +3615,6 @@ foreign	Doglia	ita
 entry	Dormitorium	0	
 orth	Dormitorium	lat	
 foreign	Marcad	ara	
-foreign	Beth madmecah	heb	
 foreign	Mischabh	heb	
 foreign	Cheder	heb	
 foreign	Aliiah	heb	
@@ -3784,8 +3692,6 @@ foreign	Albehar	ara
 foreign	Alrabu	ara	
 foreign	δύσπνοια	grc	
 foreign	Asthme	fra	
-foreign	Difficulté d’haleine	fra	
-foreign	Difficultà di respirazione	ita	
 entry	Ecstasis	0	
 orth	Ecstasis	lat	
 foreign	Tamanina	ara	
@@ -3798,8 +3704,6 @@ orth	Ectropion	lat
 foreign	Alsathere	ara	
 foreign	Xatrati	ara	
 foreign	ἐκτρόπιον	grc	
-foreign	Inversion des paupiéres	fra	
-foreign	Riversamento delle palpebre	ita	
 entry	Effectus	0	
 orth	Effectus	lat	
 foreign	Maaseh	heb	
@@ -3817,7 +3721,7 @@ foreign	Galajen	ara
 foreign	Rahs	ara	
 foreign	Diceul	heb	
 foreign	Nabhuga	heb	
-foreign	ζέσις	grc	
+foreign	Ζέσις	grc	
 foreign	Echaufement	fra	
 foreign	Bouillonnement	fra	
 foreign	Bollimento	ita	
@@ -3845,7 +3749,7 @@ foreign	Herq	ara
 foreign	Ihtiraq	ara	
 foreign	Zabb	ara	
 foreign	Inzabib	ara	
-foreign	Schesek	heb	
+foreign	Schefek	heb	
 foreign	Esched	heb	
 foreign	Meschad	heb	
 foreign	ἔκχυσις	grc	
@@ -3869,7 +3773,7 @@ foreign	Electuaire	fra
 foreign	Elettuario	ita	
 entry	Elementum	0	
 orth	Elementum	lat	
-foreign	Ustaafis	ara	
+foreign	Ustaasis	ara	
 foreign	Recan	ara	
 foreign	Arcan	ara	
 foreign	Iesod	heb	
@@ -3879,9 +3783,8 @@ foreign	Elément	fra
 foreign	Elemento	ita	
 entry	Elephantiasis	0	
 orth	Elephantiasis	lat	
-foreign	Hali alphil	ara	
 foreign	Dialphil	ara	
-foreign	ἐλεφατίασις	grc	
+foreign	ἐλεφαντίασις	grc	
 foreign	Lépre	fra	
 foreign	Ladrerie	fra	
 foreign	Lepra	ita	
@@ -3892,7 +3795,6 @@ foreign	Rahs	ara
 foreign	Bischul	heb	
 foreign	Baschel	heb	
 foreign	ἕψησις	grc	
-foreign	Action de bouillir	fra	
 foreign	Alessazione	ita	
 foreign	Lessazione	ita	
 entry	Elixir	0	
@@ -3917,9 +3819,7 @@ orth	Embrocha	lat
 orth	Embrocatio	lat	
 foreign	Natula	ara	
 foreign	Tantil	ara	
-foreign	Non hilec	ara	
 foreign	ἐμβροχὴ	grc	
-foreign	Découlement goutte à goutte	fra	
 foreign	Gocciamento	ita	
 entry	Emolliens, Emollitiο	0	
 orth	Emolliens	lat	
@@ -3943,30 +3843,26 @@ foreign	Expérience	fra
 foreign	Empirique	fra	
 foreign	Esperimento	ita	
 foreign	Empirico	ita	
-foreign	Experientia	ita	
+clique	Experientia		
 entry	Emplastrum	0	
 orth	Emplastrum	lat	
 foreign	Maran	ara	
 foreign	Dichen	ara	
-foreign	Malzan	ara	
+foreign	Malzam	ara	
 foreign	Admada	ara	
 foreign	Tealah	heb	
 foreign	Tachboschet	heb	
 foreign	ἔμπλαστρος	grc	
 foreign	Emplâtre	fra	
-foreign	Emplastro	ita	
+foreign	Empiastro	ita	
 entry	Empyema	0	
 orth	Empyema	lat	
 foreign	Taquia	ara	
 foreign	ἐμπύημα	grc	
-foreign	Postume intérieure	fra	
-foreign	Postema intrinseco	ita	
 entry	Enterocele	0	
 orth	Enterocele	lat	
 foreign	Odra alama	ara	
 foreign	ἐντεροκήλη	grc	
-foreign	hernie intestinal	fra	
-foreign	Crepatura intestinale	ita	
 entry	Epiala febris	0	
 orth	Epiala febris	lat	
 foreign	ἠπίαλος	grc	
@@ -3983,7 +3879,6 @@ entry	Epidemius	0
 orth	Epidemius	lat	
 foreign	ἐπιδήμιος	grc	
 foreign	Epidémique	fra	
-foreign	Maladie populaire	fra	
 foreign	Epidemio	ita	
 entry	Epiglottis	0	
 orth	Epiglottis	lat	
@@ -4002,12 +3897,8 @@ foreign	Zara	ara
 foreign	Mazru	ara	
 foreign	Cafia	heb	
 foreign	Tiful	heb	
-foreign	Choli hannusel	heb	
 foreign	ἐπιληψία	grc	
 foreign	Epilepsie	fra	
-foreign	Mal caduc	fra	
-foreign	Haut mal	fra	
-foreign	Mal caduco	ita	
 entry	Epithema	0	
 orth	Epithema	lat	
 foreign	Lahale	ara	
@@ -4042,7 +3933,6 @@ foreign	Geben	ara
 foreign	Gasa	ara	
 foreign	ἐρυγὴ	grc	
 foreign	Rot	fra	
-foreign	Action de roter	fra	
 foreign	Rotto	ita	
 foreign	Rottamento	ita	
 entry	Erysipelas	0	
@@ -4051,10 +3941,7 @@ foreign	Masere	ara
 foreign	Messire	ara	
 foreign	Gedem	ara	
 foreign	Hamra	ara	
-foreign	Feu S. Antoine	fra	
-foreign	Feu volant	fra	
-foreign	Feu sacré	fra	
-foreign	Fuoco di S. Antonio	ita	
+foreign	ἐρυσίπελας	grc	
 entry	Essentia	0	
 orth	Essentia	lat	
 foreign	Schai	ara	
@@ -4090,14 +3977,10 @@ orth	Euexia	lat
 foreign	Tabi	ara	
 foreign	Tibh	ara	
 foreign	εὐεξία	grc	
-foreign	Bon état du corps	fra	
-foreign	Corps de bonne complexion	fra	
-foreign	Buona costituzione	ita	
-foreign	Buono habito	ita	
 entry	Euphorbium	0	
 orth	Euphorbium	lat	
 foreign	Farbum	ara	
-foreign	ἐυφόρβιον	grc	
+foreign	εὐφόρβιον	grc	
 foreign	Euphorbe	fra	
 foreign	Euforbio	ita	
 entry	Evulsio	0	
@@ -4112,15 +3995,14 @@ foreign	Estirpazione	ita
 entry	Excrementum	0	
 orth	Excrementum	lat	
 foreign	Codora	ara	
-foreign	Codora agesed	ara	
 foreign	Galal	heb	
 foreign	Gelel	heb	
-foreign	Zeh Tseah	heb	
+foreign	Zeh	heb	
+foreign	Tseah	heb	
 foreign	Zefiah	heb	
 foreign	Peresch	heb	
 foreign	περίττωμα	grc	
-foreign	Excrement	fra	
-foreign	Ordure du corps	fra	
+foreign	Excrément	fra	
 foreign	Escremento	ita	
 pb	773	0781	
 entry	Exhalatio	0	
@@ -4151,12 +4033,9 @@ foreign	Esperimento	ita
 foreign	Prova	ita	
 entry	Exsanguis	0	
 orth	Exsanguis	lat	
-foreign	Naquis aldem	ara	
 foreign	Chasardam	heb	
 foreign	ἄναιμος	grc	
 foreign	λείφαιμος	grc	
-foreign	Sans sang	fra	
-foreign	Qui n’a point de sang	fra	
 foreign	Essangue	ita	
 entry	Exsiccans	0	
 orth	Exsiccans	lat	
@@ -4165,7 +4044,6 @@ foreign	Manschat	ara
 foreign	Iabesch	heb	
 foreign	ξηραντικὸς	grc	
 foreign	Séchant	fra	
-foreign	Qui fait sécher	fra	
 foreign	Seccante	ita	
 entry	Exsiccatio	0	
 orth	Exsiccatio	lat	
@@ -4248,7 +4126,6 @@ foreign	Tacra	ara
 foreign	ἕλκωσις	grc	
 foreign	Exulcération	fra	
 foreign	Blessure	fra	
-foreign	Entamure de peau	fra	
 foreign	Impiaghatura	ita	
 entry	Facultas, Potentia	0	
 orth	Facultas	lat	
@@ -4281,7 +4158,7 @@ entry	Far	0
 orth	Far	lat	
 foreign	Catnia	ara	
 foreign	χόνδρος	grc	
-foreign	Ζεία	grc	
+foreign	Ζειὰ	grc	
 foreign	Epautre	fra	
 foreign	Farra	ita	
 entry	Farina, Polenta	0	
@@ -4305,7 +4182,8 @@ foreign	Faiga	ara
 foreign	Chitul	heb	
 foreign	Chetulah	heb	
 foreign	Misgereth	heb	
-foreign	δεσμὸς σπάργανον	grc	
+foreign	δεσμὸς	grc	
+foreign	σπάργανον	grc	
 foreign	Bande	fra	
 foreign	Bandelette	fra	
 foreign	Fascia	ita	
@@ -4349,7 +4227,6 @@ foreign	Cheth	heb
 foreign	φαρύγξ	grc	
 foreign	Gorge	fra	
 foreign	Foce	ita	
-foreign	canna della gola	ita	
 entry	Favilla	0	
 orth	Favilla	lat	
 foreign	Ramad	ara	
@@ -4358,7 +4235,6 @@ foreign	Kidod	heb
 foreign	Zick	heb	
 foreign	αἰθάλη	grc	
 foreign	Flaméche	fra	
-foreign	Cendre chaude	fra	
 foreign	Favilla	ita	
 entry	Favus	0	
 orth	Favus	lat	
@@ -4368,7 +4244,6 @@ foreign	Sirengi	ara
 foreign	Suf	heb	
 foreign	Nofet	heb	
 foreign	κηρίον	grc	
-foreign	Rayon de miel	fra	
 foreign	Favo	ita	
 entry	Febris	0	
 orth	Febris	lat	
@@ -4388,13 +4263,12 @@ foreign	Pachad	ara
 foreign	Jarch	heb	
 foreign	μηρὸς	grc	
 foreign	Cuisse	fra	
-foreign	Parte fuor della coccia	ita	
 entry	Fermentatio	0	
 orth	Fermentatio	lat	
 foreign	Chamar	ara	
 foreign	Bezeket	heb	
 foreign	Chümzach	heb	
-foreign	ζύμωσις	grc	
+foreign	Ζύμωσις	grc	
 foreign	Fermentation	fra	
 foreign	Levitamento	ita	
 foreign	Levitazione	ita	
@@ -4403,7 +4277,7 @@ orth	Fermentum	lat
 foreign	Chamir	ara	
 foreign	Chlamita	ara	
 foreign	Seor	heb	
-foreign	ζύμη	grc	
+foreign	Ζύμη	grc	
 foreign	Levain	fra	
 foreign	Levito	ita	
 foreign	Lievito	ita	
@@ -4415,11 +4289,10 @@ foreign	Gali	ara
 foreign	Diceul	heb	
 foreign	Retach	heb	
 foreign	Ratach	heb	
-foreign	καῖμα	grc	
+foreign	καῦμα	grc	
 foreign	ζέσις	grc	
 foreign	θερμὸς	grc	
 foreign	Ferveur	fra	
-foreign	Fort ardent	fra	
 foreign	Fervore	ita	
 foreign	Bollente	ita	
 foreign	Fervente	ita	
@@ -4428,23 +4301,24 @@ orth	Fex	lat
 orth	Fecula	lat	
 foreign	Dar	ara	
 foreign	Dardi	ara	
+foreign	Thefal	ara	
+foreign	Taluch	ara	
 foreign	Schemer	heb	
 foreign	τρὺξ	grc	
 foreign	ὑποστάθμη	grc	
 foreign	Lie	fra	
 foreign	Fondrile	fra	
 foreign	Feccia	ita	
-entry	Fibra, Fibrae	0	
+entry	Fibra, Fibræ	0	
 orth	Fibra	lat	
-orth	Fibrae	lat	
+orth	Fibræ	lat	
 foreign	Arac	ara	
 foreign	Uruc	ara	
 foreign	Pethillim	heb	
 foreign	Maphthilim	heb	
 foreign	ἲν	grc	
 foreign	ἴνες	grc	
-foreign	Petits filets des nerfs	fra	
-foreign	Fili dei nervi	ita	
+foreign	nervosi	ita	
 entry	Fibula	0	
 orth	Fibula	lat	
 foreign	Bizim	ara	
@@ -4453,16 +4327,13 @@ foreign	Cabal	ara
 foreign	Arbal	ara	
 foreign	Chach	heb	
 foreign	Cahat	heb	
-foreign	Cane hagaton	heb	
 foreign	περόνη	grc	
 foreign	Boucle	fra	
 foreign	agraffe	fra	
-foreign	Os de la Jambe	fra	
 foreign	Fibbia	ita	
 foreign	Fibula	ita	
-entry	Ficus, Morbus	0	
+entry	Ficus	0	
 orth	Ficus	lat	
-orth	Morbus	lat	
 foreign	Albir	ara	
 foreign	σύκωσις	grc	
 foreign	σῦκον	grc	
@@ -4479,7 +4350,7 @@ foreign	Zahid	ara
 foreign	Vataca	ara	
 foreign	Amana	heb	
 foreign	Emuna	heb	
-foreign	Naeeman	heb	
+foreign	Næeman	heb	
 foreign	Chezac	heb	
 foreign	Jazuc	heb	
 foreign	βεβαιότης	grc	
@@ -4564,7 +4435,6 @@ foreign	Bekah	heb
 foreign	Demah	heb	
 foreign	κλαυθμὸς	grc	
 foreign	Pleur	fra	
-foreign	Action de pleurer	fra	
 foreign	Pianto	ita	
 pb	774	0782	
 entry	Flos, Flores	0	
@@ -4577,7 +4447,7 @@ foreign	Nizanim	heb
 foreign	Perach	heb	
 foreign	Ziz	heb	
 foreign	ἄνθος	grc	
-foreign	ἄνθια	grc	
+foreign	ἄνθεα	grc	
 foreign	Fleur	fra	
 foreign	Fleurs	fra	
 foreign	Fiore	ita	
@@ -4592,7 +4462,8 @@ foreign	Mauga	ara
 foreign	Tamuig	ara	
 foreign	Gal	heb	
 foreign	Mischbar	heb	
-foreign	κλυδὼν κύμανσις	grc	
+foreign	κλυδὼν	grc	
+foreign	κύμανσις	grc	
 foreign	Flot	fra	
 foreign	Vague	fra	
 foreign	Flottement	fra	
@@ -4647,14 +4518,12 @@ foreign	Scheger	heb
 foreign	Ober	heb	
 foreign	τόκος	grc	
 foreign	γονὴ	grc	
-foreign	Fruit et portée d’une femme	fra	
 foreign	Parto	ita	
 entry	Fomes	0	
 orth	Fomes	lat	
 foreign	Locscha	ara	
 foreign	Schüal	heb	
-foreign	ζώπυρον	grc	
-foreign	Drapeau du fusil	fra	
+foreign	Ζώπυρον	grc	
 foreign	Allumette	fra	
 foreign	Esca	ita	
 entry	Forceps	0	
@@ -4681,7 +4550,6 @@ foreign	Forfice	ita
 entry	Forma	0	
 orth	Forma	lat	
 foreign	Zora	ara	
-foreign	Sebeb alzori	ara	
 foreign	Nava	ara	
 foreign	Zura	heb	
 foreign	Toar	heb	
@@ -4742,7 +4610,7 @@ foreign	Cor	heb
 foreign	Cara	heb	
 foreign	Car	heb	
 foreign	Kerir	heb	
-foreign	Dsunna	heb	
+foreign	Dsinna	heb	
 foreign	ψύχος	grc	
 foreign	ψυχρὸς	grc	
 foreign	Froidure	fra	
@@ -4758,7 +4626,7 @@ foreign	Fronte	ita
 entry	Frontale	0	
 orth	Frontale	lat	
 foreign	Mitscha	heb	
-foreign	ὑπερμετῶπιον	grc	
+foreign	ὑπερμετώπιον	grc	
 foreign	Fronteau	fra	
 foreign	Frontale	ita	
 entry	Fructus	0	
@@ -4823,16 +4691,15 @@ foreign	Dsarid	heb
 foreign	πίτυρον	grc	
 foreign	πιτυρίασις	grc	
 foreign	Son	fra	
-foreign	Bran de farine	fra	
 foreign	Crusca	ita	
 foreign	Semola	ita	
-entry	Furor, Mania	0	
+entry	Furor, Mania, Maniacus	0	
 orth	Furor	lat	
 orth	Mania	lat	
 foreign	Gienum	ara	
 foreign	Gin	ara	
 foreign	Magnun	ara	
-foreign	Maniacus	ara	
+orth	Maniacus	lat	
 foreign	Gadab	ara	
 foreign	Zahaph	heb	
 foreign	Hebrah	heb	
@@ -4857,7 +4724,7 @@ foreign	Adronaccio	ita
 entry	Fusio, Liquatio	0	
 orth	Fusio	lat	
 orth	Liquatio	lat	
-foreign	lhtiraq	ara	
+foreign	Ihtiraq	ara	
 foreign	Herq	ara	
 foreign	Muzaket	heb	
 foreign	Muzak	heb	
@@ -4868,7 +4735,6 @@ foreign	Hindica	heb
 foreign	χύσις	grc	
 foreign	Fusion	fra	
 foreign	Fonderie	fra	
-foreign	Action de fondre	fra	
 foreign	Liquefazzione	ita	
 foreign	Fusione	ita	
 entry	Gagates	0	
@@ -4881,11 +4747,8 @@ foreign	Gagat	fra
 foreign	Gagate	ita	
 entry	Galactites	0	
 orth	Galactites	lat	
-foreign	Alazar almeres	ara	
-foreign	Hagiar lebenic	ara	
 foreign	Lebeni	ara	
 foreign	γαλακτίτης	grc	
-foreign	Pierre blanche comme lait	fra	
 foreign	Galattite	ita	
 entry	Galbanum	0	
 orth	Galbanum	lat	
@@ -4918,15 +4781,12 @@ entry	Ganglion	0
 orth	Ganglion	lat	
 foreign	γάγγλιον	grc	
 foreign	Ganglion	fra	
-foreign	Ganglio	fra	
-foreign	Ganglion	ita	
 foreign	Ganglio	ita	
 entry	Gangraena	0	
 orth	Gangraena	lat	
 foreign	Ganaga	ara	
 foreign	γάγγραινα	grc	
 foreign	Gangréne	fra	
-foreign	Carne morta di una piaga	ita	
 entry	Gargarismus	0	
 orth	Gargarismus	lat	
 foreign	γαργαρισμὸς	grc	
@@ -4936,9 +4796,7 @@ entry	Garum	0
 orth	Garum	lat	
 foreign	Muri	ara	
 foreign	Scenem	ara	
-foreign	Marc almalah	ara	
 foreign	γάρον	grc	
-foreign	Saumure de poissons	fra	
 foreign	Salamaja	ita	
 entry	Gaudium	0	
 orth	Gaudium	lat	
@@ -4962,7 +4820,6 @@ foreign	Gavahir	ara
 foreign	Jacuta	ara	
 foreign	Jacut	ara	
 foreign	μαργαρίτης	grc	
-foreign	Pierre précieuse	fra	
 foreign	Gemma	ita	
 entry	Gena, Mala, Maxilla	0	
 orth	Gena	lat	
@@ -4992,7 +4849,7 @@ foreign	Chavijah	heb
 foreign	Toleda	heb	
 foreign	γένεσις	grc	
 foreign	Generation	fra	
-foreign	Genetazione	ita	
+foreign	Generazione	ita	
 entry	Genitalia, Pudenda	0	
 orth	Genitalia	lat	
 orth	Pudenda	lat	
@@ -5004,9 +4861,6 @@ foreign	Ervah	heb
 foreign	Mebuschim	heb	
 foreign	Pot	heb	
 foreign	αἰδοῖα	grc	
-foreign	Parties génitoires	fra	
-foreign	Parti naturali	ita	
-foreign	genitali	ita	
 pb	775	0783	
 entry	Genu	0	
 orth	Genu	lat	
@@ -5078,16 +4932,11 @@ foreign	Bolota	ara
 foreign	ἀδὴν	grc	
 foreign	βάλανος	grc	
 foreign	Gland	fra	
-foreign	Petite glande	fra	
 foreign	Ghianda	ita	
-foreign	Ghianda picciola	ita	
 entry	Glans penis	0	
 orth	Glans penis	lat	
-foreign	Rosch hagevijah	heb	
 foreign	βάλανος	grc	
 foreign	κύτταρος	grc	
-foreign	Tête de la Queue	fra	
-foreign	Capezzolo della Coda	ita	
 entry	Glarea, Glarealis	0	
 orth	Glarea	lat	
 orth	Glarealis	lat	
@@ -5095,11 +4944,9 @@ foreign	Mahgara	ara
 foreign	Muhagar	ara	
 foreign	ψηφὶς	grc	
 foreign	ψάμμος	grc	
-foreign	ψηφίδων ἔμπλεως	grc	
 foreign	ψαμμώδης	grc	
 foreign	Gravier	fra	
 foreign	Gravois	fra	
-foreign	Plein de gravois	fra	
 foreign	Ghiara	ita	
 foreign	Ghiorosa	ita	
 entry	Glaucoma	0	
@@ -5107,7 +4954,6 @@ orth	Glaucoma	lat
 foreign	Zarca	ara	
 foreign	γλαύκωμα	grc	
 foreign	Aveuglement	fra	
-foreign	Tache en l’œil	fra	
 foreign	Accecamento	ita	
 entry	Gluten	0	
 orth	Gluten	lat	
@@ -5123,12 +4969,7 @@ foreign	Glu	fra
 foreign	Colla	ita	
 entry	Gonagra	0	
 orth	Gonagra	lat	
-foreign	Vaga al rocba	ara	
-foreign	Alm. Arocbatin	ara	
-foreign	Chebel haberec	heb	
 foreign	γόναγρα	grc	
-foreign	La Goutte au genou	fra	
-foreign	Gotta del ginocchio	ita	
 entry	Gonorrηoea	0	
 orth	Gonorrηoea	lat	
 foreign	Aludi	ara	
@@ -5138,7 +4979,6 @@ foreign	Zob	heb
 foreign	Mikkerchlajelab	heb	
 foreign	γοννόῤῥοια	grc	
 foreign	Gonorrée	fra	
-foreign	Flux de semence	fra	
 foreign	Gonorrea	ita	
 entry	Gossypium	0	
 orth	Gossypium	lat	
@@ -5167,16 +5007,13 @@ foreign	Tsachanah	heb
 foreign	Namac	heb	
 foreign	δυσωδία	grc	
 foreign	δυσώδης	grc	
-foreign	Mauvaise odeur	fra	
 foreign	Puzza	ita	
-foreign	Cattivo odore	ita	
 entry	Gravida	0	
 orth	Gravida	lat	
 foreign	Harah	heb	
 foreign	Battana	heb	
 foreign	Meadjah	heb	
 foreign	ἐγκύμων	grc	
-foreign	Femme grosse	fra	
 foreign	enceinte	fra	
 foreign	Gravida	ita	
 entry	Grumus, Grumescentia	0	
@@ -5195,10 +5032,7 @@ entry	Guaiacum	0
 orth	Guaiacum	lat	
 foreign	Guajacan	ind	
 foreign	ἀγιόξυλον	grc	
-foreign	Bois de Gayac	fra	
-foreign	Bois saint	fra	
 foreign	Guajaco	ita	
-foreign	Legno santo	ita	
 entry	Gula, Œsophagus	0	
 orth	Gula	lat	
 orth	Œsophagus	lat	
@@ -5245,36 +5079,27 @@ foreign	Gips	fra
 foreign	Plâtre	fra	
 foreign	Gesso	ita	
 foreign	Gipso	ita	
-entry	Haematites	0	
-orth	Haematites	lat	
+entry	Hæmatites	0	
+orth	Hæmatites	lat	
 foreign	Sedenegi	ara	
 foreign	Sedine	ara	
 foreign	αἱματίτης	grc	
 foreign	Hematite	fra	
-foreign	Pierre sanguinaire	fra	
 foreign	Hematite	ita	
-entry	Haemoptysis	0	
-orth	Haemoptysis	lat	
-foreign	Nafth aldam	ara	
-foreign	Nazaf aldam	ara	
-foreign	Roc dam	heb	
+entry	Hæmoptysis	0	
+orth	Hæmoptysis	lat	
 foreign	αἱμόπτυσις	grc	
-foreign	Crachement de sang	fra	
-foreign	Sputo di sangue	ita	
-entry	Haemorrhagia	0	
-orth	Haemorrhagia	lat	
-foreign	Guri dem Nazalaldem	ara	
+entry	Hæmorrhagia	0	
+orth	Hæmorrhagia	lat	
 foreign	Dabh	heb	
 foreign	Zobhdam	heb	
 foreign	αἱμοῤῥαγία	grc	
-foreign	Flux de sang	fra	
-foreign	Fluore del sangue	ita	
-entry	Haemorrhoides	0	
-orth	Haemorrhoides	lat	
+entry	Hæmorrhoides	0	
+orth	Hæmorrhoides	lat	
 foreign	Apholim	heb	
 foreign	Techorim	heb	
 foreign	αἱμοῤῥόïδες	grc	
-foreign	Hëmorrhoïdes	fra	
+foreign	Hémorrhoïdes	fra	
 foreign	Hemorroide	ita	
 entry	Halitus	0	
 orth	Halitus	lat	
@@ -5292,9 +5117,8 @@ orth	Hebetudo visus	lat
 foreign	Alsedar	ara	
 foreign	Atabalbazar	ara	
 foreign	ἀμβλυωπία	grc	
-foreign	Foiblesse	fra	
-foreign	Debilité de vûe	fra	
-foreign	Vûe trouble	fra	
+foreign	Foiblesse de vûe	fra	
+foreign	Débilité de vûe	fra	
 foreign	Debilità del viso	ita	
 entry	Hectica	0	
 orth	Hectica	lat	
@@ -5313,7 +5137,7 @@ orth	Jecur	lat
 foreign	Kebd	ara	
 foreign	Bebib	ara	
 foreign	Cabed	heb	
-foreign	ἥπαρ	grc	
+foreign	ἧπαρ	grc	
 foreign	Foye	fra	
 foreign	Fegato	ita	
 entry	Hepaticus	0	
@@ -5323,17 +5147,13 @@ foreign	Alorsingen	ara
 foreign	Siagemalsce	ara	
 foreign	ἡπατικὸς	grc	
 foreign	Hépatique	fra	
-foreign	Mal de foye	fra	
 foreign	Fegatoso	ita	
-foreign	Mal di Fegato	ita	
 entry	Hermaphroditus	0	
 orth	Hermaphroditus	lat	
 foreign	Chunte	ara	
 foreign	ἑρμαφρόδιτος	grc	
 foreign	ἀνδρόγυνος	grc	
 foreign	Hermaphrodite	fra	
-foreign	Garçon fille	fra	
-foreign	qui est mâle et femelle	fra	
 foreign	Ermafrodito	ita	
 entry	Hernia, Ramex	0	
 orth	Hernia	lat	
@@ -5350,16 +5170,15 @@ foreign	Crevure	fra
 foreign	Crepatura	ita	
 foreign	Rottura	ita	
 foreign	Ernia	ita	
-entry	Herpes	0	
+entry	Herpes, Herpes miliaris	0	
 orth	Herpes	lat	
 foreign	Alchaichaluf	ara	
 foreign	Jecul	heb	
 foreign	ἕρπης	grc	
-foreign	ἐσθιόμενος	grc	
-foreign	ἕρπης κεγτρίας	grc	
+foreign	ἐσθιόμενος ἕρπης	grc	
+foreign	ἕρπης κεγχρίας	grc	
+orth	Herpes miliaris	lat	
 foreign	Herpete	fra	
-foreign	Loup des Allemans	fra	
-foreign	Male dartre	fra	
 foreign	Herpete	ita	
 foreign	Lupo	ita	
 entry	Hirudo, Sanguisuga	0	
@@ -5394,14 +5213,15 @@ entry	Humectatio	0
 orth	Humectatio	lat	
 foreign	Bal	ara	
 foreign	Abtlal	ara	
-foreign	Tartibh Ratbot	heb	
+foreign	Tartibh	heb	
+foreign	Ratbot	heb	
 foreign	ὕγρανσις	grc	
 foreign	ὑγρασμὸς	grc	
 foreign	Humectation	fra	
 foreign	Mouillure	fra	
 foreign	Moiteur	fra	
 foreign	Bagnamento	ita	
-foreign	Inhumidita	ita	
+foreign	Inhumidità	ita	
 entry	Humerus	0	
 orth	Humerus	lat	
 foreign	Ketf	ara	
@@ -5447,9 +5267,7 @@ foreign	Schernac	ara
 foreign	Aximath	ara	
 foreign	ὕδατις	grc	
 foreign	Bourgeon	fra	
-foreign	Ampoule d’eau	fra	
 foreign	Acquetta	ita	
-foreign	Broffola piena di aqua.	ita	
 entry	Hydrops, Hydropicus	0	
 orth	Hydrops	lat	
 orth	Hydropicus	lat	
@@ -5457,7 +5275,6 @@ foreign	Jarcan	ara
 foreign	Muallal	ara	
 foreign	Baliarcan	ara	
 foreign	Haben	ara	
-foreign	Nasch albatan	ara	
 foreign	Manfuch	ara	
 foreign	Nodi	heb	
 foreign	Schiccu	heb	
@@ -5472,7 +5289,7 @@ orth	Hyems	lat
 foreign	Schiti	ara	
 foreign	Schetva	ara	
 foreign	Kon	heb	
-foreign	χειμών	grc	
+foreign	χειμὼν	grc	
 foreign	Hyver	fra	
 foreign	Inverno	ita	
 entry	Hypochondria	0	
@@ -5481,7 +5298,6 @@ foreign	Mesemen	ara
 foreign	Chomesch	heb	
 foreign	ὑποχόνδρια	grc	
 foreign	Hypochondres	fra	
-foreign	Tela, che sta intorno al cuore	ita	
 entry	Hypochondriacus	0	
 orth	Hypochondriacus	lat	
 foreign	Serafif	ara	
@@ -5496,7 +5312,6 @@ foreign	Jaspe	ara
 foreign	Jaschpe	heb	
 foreign	ἴασπις	grc	
 foreign	Jaspe	fra	
-foreign	Pietra Jaspe	ita	
 foreign	Jaspide	ita	
 entry	Icterus, Icteritia	0	
 orth	Icterus	lat	
@@ -5518,7 +5333,6 @@ foreign	πλῆξις	grc
 foreign	πληγὴ	grc	
 foreign	Coup	fra	
 foreign	Frappement	fra	
-foreign	Action de frapper	fra	
 foreign	Colpo	ita	
 foreign	Percossa	ita	
 foreign	Ferita	ita	
@@ -5540,10 +5354,8 @@ foreign	Fianchi	ita
 entry	Iliaca, Ileus	0	
 orth	Iliaca	lat	
 orth	Ileus	lat	
-foreign	Vaga almaa	ara	
 foreign	εἰλεὸς	grc	
 foreign	εἰλιακὴ	grc	
-foreign	Iliaque passion	fra	
 foreign	Iliaca	ita	
 entry	Impetigo, Lichen	0	
 orth	Impetigo	lat	
@@ -5558,13 +5370,12 @@ foreign	Jallephet	heb
 foreign	λειχὴν	grc	
 foreign	Galle	fra	
 foreign	Gratelle	fra	
-foreign	Feu volage	fra	
 foreign	Volatica	ita	
-entry	Impraegnatio	0	
-orth	Impraegnatio	lat	
+entry	Imprægnatio	0	
+orth	Imprægnatio	lat	
 foreign	Haml	ara	
 foreign	ἑγκυμοσύνη	grc	
-foreign	Engrossement des femelles	fra	
+foreign	Engrossement	fra	
 foreign	Ingravidazione	ita	
 foreign	Impregnazione	ita	
 entry	Impuritas, Impurus	0	
@@ -5576,7 +5387,7 @@ foreign	Tame	heb
 foreign	Tinufa	heb	
 foreign	Tanuf	heb	
 foreign	ἀκαθαρσία	grc	
-foreign	ἀκαθαρτὸς	grc	
+foreign	ἀκάθαρτος	grc	
 foreign	Ordure	fra	
 foreign	Sâleté	fra	
 foreign	Sâle	fra	
@@ -5621,7 +5432,6 @@ entry	Inedia	0
 orth	Inedia	lat	
 foreign	Goi	ara	
 foreign	νηστείη	grc	
-foreign	Faute de boire et de manger	fra	
 foreign	Astinenza	ita	
 foreign	Dieta	ita	
 entry	Infantia, Infans	0	
@@ -5692,7 +5502,7 @@ foreign	Haskel	heb
 foreign	Binad	heb	
 foreign	νοῦς	grc	
 foreign	διάνοια	grc	
-foreign	εὐφυΐα	grc	
+foreign	εὐφυΐα	grc	
 foreign	Naturel	fra	
 foreign	Ingegno	ita	
 entry	Ingredientiα	0	
@@ -5734,7 +5544,6 @@ foreign	ἐμμανὴς	grc
 foreign	Furie	fra	
 foreign	Rage	fra	
 foreign	lnsensé	fra	
-foreign	Hors de sens	fra	
 foreign	Pazzia	ita	
 foreign	Pazzo	ita	
 entry	Insipidus, Insipiditas	0	
@@ -5749,7 +5558,6 @@ foreign	Nabal	heb
 foreign	Evil	heb	
 foreign	ἄποιος	grc	
 foreign	ἀποιότης	grc	
-foreign	Senza sapore	ita	
 entry	Inspiratio	0	
 orth	Inspiratio	lat	
 foreign	Taufas	ara	
@@ -5810,8 +5618,8 @@ foreign	lnteriori	ita
 entry	Inunctio	0	
 orth	Inunctio	lat	
 foreign	Tamarich	ara	
-foreign	χρίσμα	grc	
-foreign	χρίσις	grc	
+foreign	χρῖσμα	grc	
+foreign	χρῖσις	grc	
 foreign	ἄλειμμα	grc	
 foreign	Onction	fra	
 foreign	Onzione	ita	
@@ -5840,17 +5648,13 @@ foreign	Irritazione	ita
 entry	Ischiatica, Ischias	0	
 orth	Ischiatica	lat	
 orth	Ischias	lat	
-foreign	ltq aluisa	ara	
 foreign	Beebh	heb	
 foreign	jajerek	heb	
-foreign	Gid hannaseh	heb	
 foreign	ἰσχιὰς	grc	
-foreign	ἰσχιαδικὸς νόσος	grc	
-foreign	Goutte sciatique	fra	
 foreign	Sciatica	ita	
-entry	Ischion, Coxa	0	
+entry	Ischion	0	
 orth	Ischion	lat	
-orth	Coxa	lat	
+clique	COXA		
 foreign	Nesaa	ara	
 foreign	Naseh	heb	
 foreign	Jerek	heb	
@@ -5861,12 +5665,6 @@ foreign	Coscia	ita
 foreign	Anca	ita	
 entry	Ischuria	0	
 orth	Ischuria	lat	
-foreign	Zeiba albeule	ara	
-foreign	Achia alhiraca	ara	
-foreign	lhtibes albeule	ara	
-foreign	Ihtecin albeule	ara	
-foreign	Achjut haschtana	heb	
-foreign	Azira haschenim	heb	
 foreign	ἰσχυρία	grc	
 foreign	Ischurie	fra	
 foreign	Iscuria	ita	
@@ -5874,8 +5672,6 @@ entry	Jugularis vena	0
 orth	Jugularis vena	lat	
 foreign	Guidem	ara	
 foreign	σφαγῖτις φλὲψ	grc	
-foreign	Veine de la gorge	fra	
-foreign	Vena del gozzo	ita	
 entry	Jugulum	0	
 orth	Jugulum	lat	
 foreign	Lebe	ara	
@@ -5886,7 +5682,6 @@ foreign	δειρὴ	grc
 foreign	Gosier	fra	
 foreign	Gorge	fra	
 foreign	Gola	ita	
-foreign	Gozzo della gola	ita	
 entry	Julep.	0	
 orth	Julep.	lat	
 foreign	Julep	ara	
@@ -5902,7 +5697,6 @@ foreign	Beir	heb
 foreign	Cudna	heb	
 foreign	κτῆνος	grc	
 foreign	Bestiame	ita	
-foreign	Bestia da soma	ita	
 foreign	Giumenta	ita	
 entry	Jus, Jusculum	0	
 orth	Jus	lat	
@@ -5942,7 +5736,6 @@ foreign	Dar	ara
 foreign	Zinaa	ara	
 foreign	Hanut	ara	
 foreign	ἐργαστήριον	grc	
-foreign	Ouvroir d’un Apoticaire	fra	
 foreign	Bottega	ita	
 entry	Lac	0	
 orth	Lac	lat	
@@ -5960,11 +5753,7 @@ foreign	Mast	ara
 foreign	Mest	ara	
 foreign	Machid	ara	
 foreign	ὀξύγαλα	grc	
-foreign	γάλα πεπηγὸς	grc	
-foreign	Lait aigre	fra	
-foreign	Lait caillé	fra	
 foreign	Caillebote	fra	
-foreign	Latte acetoso	ita	
 entry	Lacca	0	
 orth	Lacca	lat	
 foreign	Luch	ara	
@@ -5989,11 +5778,10 @@ foreign	Allaitant	fra
 foreign	Lattante	ita	
 entry	Lacteus	0	
 orth	Lacteus	lat	
+foreign	Mulabban	ara	
+foreign	Labani	ara	
 foreign	γαλακτικὸς	grc	
-foreign	γαλακτώδης	grc	
-foreign	Blanc comme lait	fra	
-foreign	De lait	fra	
-foreign	Di latte	ita	
+foreign	γαλακτώδης	grc	
 entry	Ladanum	0	
 orth	Ladanum	lat	
 foreign	Laden	ara	
@@ -6013,15 +5801,14 @@ foreign	βλάβη	grc
 foreign	Blessure	fra	
 foreign	Offesa	ita	
 foreign	Nocumento	ita	
-entry	Lamina, Bractea	0	
+entry	Lamina	0	
 orth	Lamina	lat	
-orth	Bractea	lat	
-entry	Lana	0	
+clique	Bractea		
+entry	Lana, Lana succida	0	
 orth	Lana	lat	
 foreign	Suf	ara	
 foreign	Zuf	ara	
-foreign	Lana succida	ara	
-foreign	Zuf hilo mavil	ara	
+orth	Lana succida	lat	
 foreign	Itsemer	heb	
 foreign	ἔριον	grc	
 foreign	Laine	fra	
@@ -6040,7 +5827,7 @@ foreign	Hagiar	ara
 foreign	Hagar	ara	
 foreign	Alazar	ara	
 foreign	Ebhen	heb	
-foreign	Chatfaz	heb	
+foreign	Chatsaz	heb	
 foreign	Keph	heb	
 foreign	λίθος	grc	
 foreign	Pierre	fra	
@@ -6070,8 +5857,6 @@ orth	Lardum	lat
 foreign	Sadif	ara	
 foreign	alchanzir	ara	
 foreign	Semen	ara	
-foreign	ὕειον	grc	
-foreign	στέαρ	grc	
 foreign	λίτος	grc	
 foreign	Lard	fra	
 foreign	Lardo	ita	
@@ -6080,7 +5865,6 @@ orth	Larynx	lat
 foreign	Natq	ara	
 foreign	λάρυγξ	grc	
 foreign	Gorge	fra	
-foreign	Gozzo della gola	ita	
 entry	Lassitudo	0	
 orth	Lassitudo	lat	
 foreign	Ajoch	ara	
@@ -6090,8 +5874,8 @@ foreign	Jagia	heb
 foreign	κόπος	grc	
 foreign	Lâcheté	fra	
 foreign	Stanchezza	ita	
-entry	Latus	0	
-orth	Latus	lat	
+entry	Latus Substant.	0	
+orth	Latus Substant.	lat	
 foreign	Gunb	ara	
 foreign	Agnab	ara	
 foreign	Det	ara	
@@ -6111,15 +5895,14 @@ orth	Laxativum	lat
 foreign	Melin	ara	
 foreign	Marpa	heb	
 foreign	ἐκκωπρωτικὸν	grc	
+foreign	ὑπήλατον	grc	
 foreign	Laxatif	fra	
-foreign	Solutivo	ita	
 entry	Lentigo	0	
 orth	Lentigo	lat	
 foreign	Alhadesiab	ara	
 foreign	Namascha	ara	
 foreign	φάκος	grc	
 foreign	Lentille	fra	
-foreign	Tache roussâtre au visage	fra	
 foreign	Lentigine	ita	
 entry	Lepra, Leprosus	0	
 orth	Lepra	lat	
@@ -6137,7 +5920,6 @@ foreign	λέπρα	grc
 foreign	Lépre	fra	
 foreign	Ladrerie	fra	
 foreign	Lepra	ita	
-foreign	Mal di S. Lazaro	ita	
 entry	Lethargus	0	
 orth	Lethargus	lat	
 foreign	Nusien	ara	
@@ -6151,11 +5933,8 @@ foreign	Zin	ara
 foreign	Techavil	ara	
 foreign	Zenuth	heb	
 foreign	Agbah	heb	
-foreign	λαγνεία ὁρμὴ	grc	
-foreign	Volupté desordonnée	fra	
-foreign	Palliardise	fra	
+foreign	Paillardise	fra	
 foreign	Libidine	ita	
-foreign	Voglia frenata	ita	
 foreign	Lussuria	ita	
 entry	Libra	0	
 orth	Libra	lat	
@@ -6167,7 +5946,6 @@ foreign	Mané	heb
 foreign	Tecal	heb	
 foreign	λίτρα	grc	
 foreign	Livre	fra	
-foreign	poids	fra	
 foreign	Libra	ita	
 pb	778	0786	
 entry	Lien, Splen	0	
@@ -6179,11 +5957,8 @@ foreign	Râte	fra
 foreign	Milza	ita	
 entry	Lienteria	0	
 orth	Lienteria	lat	
-foreign	Zalik almazarin	ara	
 foreign	Chalaclacoth	heb	
-foreign	Chalek hameaim	heb	
 foreign	λειεντερία	grc	
-foreign	Flux de ventre	fra	
 foreign	Lienteria	ita	
 entry	Ligamentum, Ligatura	0	
 orth	Ligamentum	lat	
@@ -6238,8 +6013,6 @@ foreign	Istifrag	ara
 foreign	λειποθυμία	grc	
 foreign	Pamoison	fra	
 foreign	Evanouïssement	fra	
-foreign	Défaillance de cœur	fra	
-foreign	Mancamento di cuore	ita	
 foreign	Ecclisse	ita	
 foreign	Difetto	ita	
 entry	Lippitudo, Ophthalmia	0	
@@ -6251,8 +6024,6 @@ foreign	Guardenegi	ara
 foreign	ὀφθαλμία	grc	
 foreign	λήμη	grc	
 foreign	Chassie	fra	
-foreign	Débilité de vûe	fra	
-foreign	Mal des yeux	fra	
 foreign	Lippitudine	ita	
 entry	Liquefactio, Liquatio	0	
 orth	Liquefactio	lat	
@@ -6271,9 +6042,7 @@ foreign	Liquefazzione	ita
 entry	Liquidambra, Storax liquida	0	
 orth	Liquidambra	lat	
 orth	Storax liquida	lat	
-foreign	Miha saila	ara	
 foreign	στόραξ	grc	
-foreign	Styrax liquide	fra	
 foreign	Liquidambre	fra	
 foreign	Liquidambra	ita	
 entry	Lithargyrium	0	
@@ -6282,7 +6051,6 @@ foreign	Merdasengi	ara
 foreign	Martech	heb	
 foreign	Badil	heb	
 foreign	λιθαργύριον	grc	
-foreign	Litharge d’or	fra	
 foreign	Litargirio	ita	
 entry	Lubricitas, Lubricus	0	
 orth	Lubricitas	lat	
@@ -6320,11 +6088,6 @@ foreign	Lotta	ita
 foreign	Combattimento	ita	
 entry	Lumbago	0	
 orth	Lumbago	lat	
-foreign	Vaga alchatin	ara	
-foreign	Chebel hachalazim	heb	
-foreign	ὀσφύος ἄλγαμα	grc	
-foreign	Douleur de reins	fra	
-foreign	Dolore de’ lombi	ita	
 entry	Lumbi	0	
 orth	Lumbi	lat	
 foreign	Chatim	ara	
@@ -6351,9 +6114,7 @@ foreign	Ahval	ara
 foreign	Avar	ara	
 foreign	Over	heb	
 foreign	μύωψ	grc	
-foreign	Qui a la vûe courte	fra	
 foreign	Losco	ita	
-foreign	Di corta vista	ita	
 entry	Luxatio	0	
 orth	Luxatio	lat	
 foreign	Algaacnu	ara	
@@ -6364,7 +6125,6 @@ foreign	Nacal	heb
 foreign	Nafeh	heb	
 foreign	ἐξάρθρωσις	grc	
 foreign	ὀλίσθημα	grc	
-foreign	Dislocation de membre	fra	
 foreign	Snodazione	ita	
 foreign	Snodato	ita	
 entry	Maceratio	0	
@@ -6393,7 +6153,7 @@ foreign	Dalla	heb
 foreign	Dal	heb	
 foreign	Patran	heb	
 foreign	Patranot	heb	
-foreign	ἰσχνότες	grc	
+foreign	ἰσχνότης	grc	
 foreign	ἰσχνὸς	grc	
 foreign	Maigreur	fra	
 foreign	Maigre	fra	
@@ -6407,7 +6167,6 @@ foreign	Besbesi	ara
 foreign	Talisafar	ara	
 foreign	μάκερ	grc	
 foreign	Macis	fra	
-foreign	Fleur de Muscade	fra	
 foreign	Macis	ita	
 entry	Magnes	0	
 orth	Magnes	lat	
@@ -6432,7 +6191,7 @@ foreign	Arzob	heb
 foreign	Mappets	heb	
 foreign	Pattisch	heb	
 foreign	Mepiz	heb	
-foreign	σφόρα	grc	
+foreign	σφῦρα	grc	
 foreign	Maillet	fra	
 foreign	Marteau	fra	
 foreign	Martello	ita	
@@ -6503,7 +6262,7 @@ foreign	Man	ara
 foreign	Terniabin	ara	
 foreign	Man	heb	
 foreign	μάννα	grc	
-foreign	Manne de Calabre	fra	
+foreign	Manne	fra	
 foreign	Manna	ita	
 entry	Marchasita	0	
 orth	Marchasita	lat	
@@ -6523,7 +6282,7 @@ foreign	Madbul	ara
 foreign	Kemat	heb	
 foreign	Kemit	heb	
 foreign	μαρασμὸς	grc	
-foreign	μαρασμώδες	grc	
+foreign	μαρασμώδης	grc	
 foreign	Maigreur	fra	
 foreign	Maigre	fra	
 foreign	Magrezza	ita	
@@ -6686,6 +6445,7 @@ orth	Mel	lat
 foreign	Asel	ara	
 foreign	Karatan	ara	
 foreign	Alces	ara	
+foreign	Debhasch	syr	
 foreign	Debhasch	heb	
 foreign	μέλι	grc	
 foreign	Miel	fra	
@@ -6709,7 +6469,6 @@ foreign	Race	ara
 foreign	Keleph	heb	
 foreign	ὑμὴν	grc	
 foreign	Membrane	fra	
-foreign	Petite peau	fra	
 foreign	Membrana	ita	
 entry	Membrum	0	
 orth	Membrum	lat	
@@ -6743,10 +6502,7 @@ foreign	Subhan	heb
 foreign	ἐμμήνια	grc	
 foreign	καταμήνια	grc	
 foreign	Menstrue	fra	
-foreign	Fleurs	fra	
-foreign	Mois des femmes	fra	
 foreign	Menstruo	ita	
-foreign	flusso di sangue delle donne	ita	
 entry	Mensura	0	
 orth	Mensura	lat	
 foreign	Kil	ara	
@@ -6761,7 +6517,6 @@ foreign	Mesure	fra
 foreign	Misura	ita	
 entry	Mentagra	0	
 orth	Mentagra	lat	
-foreign	Haziza sal lahia	ara	
 foreign	Hazaz	heb	
 foreign	μεντάγρα	grc	
 foreign	Dartre	fra	
@@ -6776,9 +6531,9 @@ foreign	γένειον	grc
 foreign	Menton	fra	
 foreign	Mento	ita	
 foreign	Barboccio	ita	
-entry	Mercurius, Argentum vivum	0	
+entry	Mercurius	0	
 orth	Mercurius	lat	
-orth	Argentum vivum	lat	
+clique	ARGENTUM VIVUM		
 foreign	Cattab	ara	
 foreign	Cocabh	heb	
 foreign	ἑρμῆς	grc	
@@ -6787,7 +6542,6 @@ foreign	Mercurio	ita
 entry	Meridies	0	
 orth	Meridies	lat	
 foreign	Vasit	ara	
-foreign	al nahar	ara	
 foreign	Tzahoraim	heb	
 foreign	μεσημβρία	grc	
 foreign	Midi	fra	
@@ -6803,11 +6557,7 @@ foreign	Mesenterio	ita
 entry	Metacarpus	0	
 orth	Metacarpus	lat	
 foreign	Alselanaut	ara	
-foreign	Masrech caph hajad	heb	
 foreign	μετακάρπιον	grc	
-foreign	στῆθος χειρὸς	grc	
-foreign	Dos de la main	fra	
-foreign	Dosso della mano	ita	
 entry	Minium	0	
 orth	Minium	lat	
 foreign	Afrengi	ara	
@@ -6822,7 +6572,6 @@ foreign	Algidra	ara
 foreign	Alhasba	ara	
 foreign	Forest	ara	
 foreign	Chazabim	heb	
-foreign	ἐξαυθήματα ἐρυθρὰ	grc	
 foreign	Rougeole	fra	
 foreign	Rossettoli	ita	
 entry	Morbus	0	
@@ -6913,10 +6662,7 @@ foreign	Muffa	ita
 entry	Mucronatus	0	
 orth	Mucronatus	lat	
 foreign	Alchangiri	ara	
-foreign	Exem bedelii rachaibh	heb	
 foreign	ξιφοειδὴς	grc	
-foreign	formé comme une épée	fra	
-foreign	Come una spada	ita	
 entry	Mucus	0	
 orth	Mucus	lat	
 foreign	Maihta	ara	
@@ -6925,7 +6671,6 @@ foreign	Nija	heb
 foreign	Rir	heb	
 foreign	μύξα	grc	
 foreign	Morve	fra	
-foreign	Excrément sortant du nez	fra	
 foreign	Moccolo	ita	
 entry	Mulier, Mulieris	0	
 orth	Mulier	lat	
@@ -6934,19 +6679,15 @@ foreign	Nisivi	ara
 foreign	Nisi	ara	
 foreign	Ischa	heb	
 foreign	γυνὴ	grc	
-foreign	γυνακεῖος	grc	
+foreign	γυναικεῖος	grc	
 foreign	Femme	fra	
-foreign	De femme	fra	
 foreign	Femina	ita	
 foreign	Donna	ita	
-foreign	Di femina	ita	
 entry	Mulsum	0	
 orth	Mulsum	lat	
 foreign	Antabad	ara	
-foreign	ὑδρομέλι	grc	
+foreign	ὑδρόμελι	grc	
 foreign	οἰνόμελι	grc	
-foreign	Vin miellé	fra	
-foreign	Acqua melata	ita	
 foreign	Vino melato	ita	
 entry	Mumia	0	
 orth	Mumia	lat	
@@ -6957,11 +6698,9 @@ foreign	Mumia	ita
 entry	Muria	0	
 orth	Muria	lat	
 foreign	Muri	ara	
-foreign	Marc almalah	ara	
 foreign	ἅλμη	grc	
 foreign	Saumure	fra	
 foreign	Muria	ita	
-foreign	Sala mora	ita	
 entry	Musculus	0	
 orth	Musculus	lat	
 foreign	Mulch	ara	
@@ -7008,7 +6747,6 @@ entry	Mystax	0
 orth	Mystax	lat	
 foreign	Dacan	ara	
 foreign	Sapam	heb	
-foreign	μύσταξ προσοπογώνιον	grc	
 foreign	Moustache	fra	
 foreign	Basetto	ita	
 foreign	Barbocci	ita	
@@ -7046,7 +6784,7 @@ foreign	Aijatin	ara
 foreign	Liatin	ara	
 foreign	Maciada	ara	
 foreign	Schet	heb	
-foreign	lggabhot	heb	
+foreign	Iggabhot	heb	
 foreign	γλουτοὶ	grc	
 foreign	Fesses	fra	
 foreign	Natiche	ita	
@@ -7054,7 +6792,7 @@ entry	Natura	0
 orth	Natura	lat	
 foreign	Geuhar	ara	
 foreign	Tabi	ara	
-foreign	GariZa	ara	
+foreign	Gariza	ara	
 foreign	φύσις	grc	
 foreign	Nature	fra	
 foreign	Natura	ita	
@@ -7077,16 +6815,11 @@ foreign	Mazor	heb
 foreign	Baschem	heb	
 foreign	Deraon	heb	
 foreign	ναυτία	grc	
-foreign	Envie de vomir	fra	
 foreign	Dégoût	fra	
 foreign	Nausea	ita	
-foreign	Inclinazione a vomito	ita	
 entry	Nephritis	0	
 orth	Nephritis	lat	
-foreign	Vaga alkelitin	ara	
 foreign	νεφρῖτις	grc	
-foreign	douleur des reins	fra	
-foreign	Dolore di reni	ita	
 foreign	Nefritide	ita	
 entry	Nervus	0	
 orth	Nervus	lat	
@@ -7105,9 +6838,7 @@ orth	Neutrum	lat
 orth	Neuter	lat	
 foreign	Lazmum	ara	
 foreign	οὐδέτερος	grc	
-foreign	Ni l’un ni l’autre	fra	
 foreign	Neutrale	ita	
-foreign	Ne l’uno ne l’altro	ita	
 entry	Nitrum	0	
 orth	Nitrum	lat	
 foreign	Baurach	ara	
@@ -7187,7 +6918,6 @@ foreign	Mudellibira	ara
 foreign	κατάστυψις	grc	
 foreign	Courbure	fra	
 foreign	Courbé	fra	
-foreign	Scorto di collo	ita	
 entry	Obstructio, Oppilatio	0	
 orth	Obstructio	lat	
 orth	Oppilatio	lat	
@@ -7203,10 +6933,8 @@ orth	Occiput	lat
 foreign	Alchafa	ara	
 foreign	Cnamudue	ara	
 foreign	Oreph	heb	
-foreign	Os occipitis	heb	
 foreign	Ezemhaoreth	heb	
 foreign	ἴνιον	grc	
-foreign	Le derriére de la tête	fra	
 foreign	Occipitio	ita	
 entry	Oculus	0	
 orth	Oculus	lat	
@@ -7252,8 +6980,6 @@ orth	Oedema	lat
 foreign	Undimia	ara	
 foreign	Trehel	ara	
 foreign	οἴδημα	grc	
-foreign	Enflure phlegmatique	fra	
-foreign	Enfiatura flemmatica	ita	
 entry	Oleum	0	
 orth	Oleum	lat	
 foreign	Dun	ara	
@@ -7271,7 +6997,6 @@ foreign	Zorab	ara
 foreign	Chelebh	heb	
 foreign	Mecasse	heb	
 foreign	ἐπίπλοον	grc	
-foreign	Coife qui couvre les intestins	fra	
 foreign	Zirbo	ita	
 entry	Ophthalmia	0	
 orth	Ophthalmia	lat	
@@ -7280,28 +7005,26 @@ foreign	Guardenigi	ara
 foreign	Ramad	ara	
 foreign	Kezira	heb	
 foreign	ὀφθαλμία	grc	
-foreign	Maladie des yeux	fra	
 foreign	Lippitudine	ita	
 entry	Opium	0	
 orth	Opium	lat	
-foreign	Ossien	ara	
-foreign	Asiun	ara	
+foreign	Offien	ara	
+foreign	Afiun	ara	
 foreign	Marcad	ara	
 foreign	Ofi	heb	
 foreign	ὄπιον	grc	
 foreign	μηκώνειον	grc	
-foreign	Suc de pavot	fra	
 foreign	Opio	ita	
 entry	Opobalsamum	0	
 orth	Opobalsamum	lat	
 foreign	Zeri	heb	
-foreign	Zarahs	heb	
+foreign	Zarah	heb	
 foreign	ὀποβάλσαμον	grc	
 foreign	Opobalsame	fra	
-foreign	Suc du Baume	fra	
 foreign	Opobalsamo	ita	
-entry	Orificium	0	
+entry	Orificium, Os, oris	0	
 orth	Orificium	lat	
+orth	Os, oris	lat	
 foreign	Ducm	ara	
 foreign	Ducam	ara	
 foreign	Fe	ara	
@@ -7324,9 +7047,8 @@ foreign	στόμαχος	grc
 foreign	πυλῶρος	grc	
 foreign	Orifice de l’estomac	fra	
 foreign	Bocca dello stomacho	ita	
-entry	Os, Ossis	0	
-orth	Os	lat	
-orth	Ossis	lat	
+entry	Os, ossis	0	
+orth	Os, ossis	lat	
 foreign	Anamel	ara	
 foreign	Anemel	ara	
 foreign	Adam	ara	
@@ -7341,6 +7063,7 @@ foreign	Hadam alhagiazi	ara
 foreign	Alhavis	ara	
 foreign	ὀστέον ἱερὸν	grc	
 foreign	Os sacré	fra	
+foreign	Os saint	fra	
 foreign	Osso sacro	ita	
 entry	Ovum	0	
 orth	Ovum	lat	
@@ -7349,7 +7072,7 @@ foreign	Baid	ara
 foreign	Alde	ara	
 foreign	Betsa	heb	
 foreign	Betsim	heb	
-foreign	ὠὸν	grc	
+foreign	ᾠὸν	grc	
 foreign	Oeuf	fra	
 foreign	Ovo	ita	
 entry	Oxymel	0	
@@ -7363,18 +7086,17 @@ orth	Palatum	lat
 foreign	Chanq	ara	
 foreign	Halc	ara	
 foreign	Natque	ara	
-foreign	Chelc	heb	
+foreign	Chek	heb	
 foreign	Malcochaim	heb	
 foreign	Magier	heb	
-foreign	ὑπερῶον	grc	
-foreign	Palais de la bouche	fra	
-foreign	Palato della bocca	ita	
+foreign	ὑπερῷον	grc	
+foreign	Palais	fra	
+foreign	Palato	ita	
 entry	Palindromia	0	
 orth	Palindromia	lat	
 foreign	παλινδρομία	grc	
 foreign	Palindromie	fra	
 foreign	Palindromia	ita	
-foreign	Ritorno degli umori	ita	
 entry	Pallor, Pallidus	0	
 orth	Pallor	lat	
 orth	Pallidus	lat	
@@ -7388,8 +7110,8 @@ foreign	Pâle	fra
 foreign	Pallidezza	ita	
 foreign	Pallido	ita	
 pb	781	0789	
-entry	Palpebrae	0	
-orth	Palpebrae	lat	
+entry	Palpebræ	0	
+orth	Palpebræ	lat	
 foreign	Agfin	ara	
 foreign	Aphaphaim	heb	
 foreign	Ichemüroth	heb	
@@ -7402,7 +7124,6 @@ foreign	Alucbe	ara
 foreign	Ichtelig	ara	
 foreign	παλμὸς	grc	
 foreign	Palpitation	fra	
-foreign	Tressaillement du cœur	fra	
 foreign	Palpitazione	ita	
 entry	Panaritium, Reduvia	0	
 orth	Panaritium	lat	
@@ -7425,9 +7146,8 @@ entry	Pandiculatio	0
 orth	Pandiculatio	lat	
 foreign	Gichuk	heb	
 foreign	σκορδινιασμὸς	grc	
-foreign	Baaillement	fra	
-foreign	Distirarti	ita	
-foreign	Distenderti	ita	
+foreign	Distirarsi	ita	
+foreign	Distendersi	ita	
 entry	Papilla	0	
 orth	Papilla	lat	
 foreign	Muchaicha	ara	
@@ -7435,8 +7155,6 @@ foreign	Dharah	ara
 foreign	Pitmu	heb	
 foreign	Patmat	heb	
 foreign	θήλη	grc	
-foreign	Bout de la mammelle	fra	
-foreign	Cappezzuelo della poccia	ita	
 foreign	mammella	ita	
 entry	Paracentesis, Perforatio	0	
 orth	Paracentesis	lat	
@@ -7463,7 +7181,6 @@ foreign	Paralysie	fra
 foreign	Paralisia	ita	
 entry	Parotis	0	
 orth	Parotis	lat	
-foreign	Vaga albadani	ara	
 foreign	Fugille	ara	
 foreign	παρῶτις	grc	
 entry	Paroxysmus	0	
@@ -7471,7 +7188,6 @@ orth	Paroxysmus	lat
 foreign	Neuba	ara	
 foreign	Onah	heb	
 foreign	παροξυσμὸς	grc	
-foreign	Accès de maladie	fra	
 foreign	Paroxisme	fra	
 foreign	Parossismo	ita	
 foreign	Accrescimento	ita	
@@ -7482,13 +7198,14 @@ foreign	Gihe	ara
 foreign	Chelc	heb	
 foreign	Chelca	heb	
 foreign	μέρος	grc	
-foreign	μορίον	grc	
+foreign	μόριον	grc	
 foreign	Part	fra	
 foreign	Parte	ita	
 entry	Partus	0	
 orth	Partus	lat	
 foreign	Tavalid	ara	
-foreign	Mavlad Muchuzah	ara	
+foreign	Mavlad	ara	
+foreign	Muchuzah	ara	
 foreign	Nafas	ara	
 foreign	Ledah	heb	
 foreign	τόκος	grc	
@@ -7497,24 +7214,23 @@ foreign	Parto	ita
 entry	Passio	0	
 orth	Passio	lat	
 foreign	Alm	ara	
-foreign	Infial	ara	
+foreign	Insial	ara	
 foreign	Hiphaalut	heb	
 foreign	Chaschascha	heb	
 foreign	πάθος	grc	
 foreign	πάθημα	grc	
 foreign	Passion	fra	
 foreign	Passione	ita	
-entry	Passulae	0	
-orth	Passulae	lat	
+entry	Passulæ	0	
+orth	Passulæ	lat	
 foreign	Zibib	ara	
 foreign	σταφίδες	grc	
 foreign	Passules	fra	
-foreign	Uva passa	ita	
 foreign	Zibibo	ita	
 entry	Pastillus, Trochiscus	0	
 orth	Pastillus	lat	
 orth	Trochiscus	lat	
-foreign	Areffatu	ara	
+foreign	Aressatu	ara	
 foreign	Caraz	ara	
 foreign	τρόχισμος	grc	
 foreign	Trochisque	fra	
@@ -7526,9 +7242,8 @@ foreign	Alrasafe	ara
 foreign	Alresfatu	ara	
 foreign	Rasga	ara	
 foreign	Radafah	ara	
-foreign	Heyn au maghen haharcuba	heb	
 foreign	μύλη	grc	
-foreign	Palette du genou	fra	
+foreign	Palette	fra	
 foreign	Padella	ita	
 entry	Pectus	0	
 orth	Pectus	lat	
@@ -7567,22 +7282,20 @@ foreign	Ammah	heb
 foreign	Schapheca	heb	
 foreign	Zanah	heb	
 foreign	κέρκος	grc	
-foreign	Verge de l’homme	fra	
+foreign	Verge	fra	
 foreign	Coda	ita	
 foreign	Cazzo	ita	
 entry	Peripneumonia	0	
 orth	Peripneumonia	lat	
-foreign	Det alriah	ara	
 foreign	Itrif	ara	
 foreign	Sosati	ara	
 foreign	Birsen	ara	
 foreign	Ghajana	ara	
 foreign	περιπνευμονία	grc	
 foreign	Péripneumonie	fra	
-foreign	Inflammation des poulmons	fra	
 foreign	Peripneumonia	ita	
-entry	Peritonaeum	0	
-orth	Peritonaeum	lat	
+entry	Peritonæum	0	
+orth	Peritonæum	lat	
 foreign	Siphac	ara	
 foreign	Berbetinem	ara	
 foreign	Beriteron	ara	
@@ -7643,25 +7356,20 @@ foreign	Dibri	heb
 foreign	λοιμώδης	grc	
 foreign	Pestilentieux	fra	
 foreign	Pestilente	ita	
-entry	Petechiae	0	
-orth	Petechiae	lat	
+entry	Petechiæ	0	
+orth	Petechiæ	lat	
 foreign	Aluteschin	ara	
-foreign	ἐξανθήματα λοιμώδεα	grc	
-foreign	Macules Pestilentielles	fra	
 foreign	Petechie	ita	
-foreign	Macchie pestilentiali	ita	
 entry	Petroleum	0	
 orth	Petroleum	lat	
 foreign	Nafth	ara	
 foreign	πετρόλαιον	grc	
-foreign	Huile de pierre	fra	
 foreign	Petroglio	ita	
-entry	Phagedaena	0	
-orth	Phagedaena	lat	
-foreign	lkila	ara	
+entry	Phagedæna	0	
+orth	Phagedæna	lat	
+foreign	Ikila	ara	
 foreign	Icul	heb	
 foreign	φαγέδαινα	grc	
-foreign	Sorte d’ulcére	fra	
 foreign	Farsin	fra	
 foreign	Fagedena	ita	
 entry	Pharmacopoeum, Pharmacopolium	0	
@@ -7669,9 +7377,7 @@ orth	Pharmacopoeum	lat
 orth	Pharmacopolium	lat	
 foreign	Maagena	ara	
 foreign	Maagin	ara	
-foreign	φαρμακοπώειον	grc	
-foreign	Boutique d’Apoticaire	fra	
-foreign	Bottega di Speciale	ita	
+foreign	φαρμακοπώλειον	grc	
 entry	Pharmacopola	0	
 orth	Pharmacopola	lat	
 foreign	Aggin	ara	
@@ -7684,12 +7390,9 @@ foreign	Sihr	ara
 foreign	Sahara	ara	
 foreign	φίλτρον	grc	
 foreign	Philtre	fra	
-foreign	Poison pour faire aimer	fra	
-foreign	Breuvage d’amour	fra	
-foreign	Veleno per farsi amare	ita	
-entry	Phlebotomia, Venaesectio	0	
+entry	Phlebotomia, Venæsectio	0	
 orth	Phlebotomia	lat	
-orth	Venaesectio	lat	
+orth	Venæsectio	lat	
 foreign	Bazag	ara	
 foreign	Fazd	ara	
 foreign	Hecazah	heb	
@@ -7712,8 +7415,8 @@ foreign	Lebhanah	heb
 foreign	φλέγμα	grc	
 foreign	Phlegme	fra	
 foreign	Flemma	ita	
-entry	Phlegmagooum	0	
-orth	Phlegmagooum	lat	
+entry	Phlegmagogum	0	
+orth	Phlegmagogum	lat	
 foreign	φλεγμαγωγὸν	grc	
 foreign	Phlegmagogue	fra	
 foreign	Flemmagogo	ita	
@@ -7721,8 +7424,6 @@ entry	Phoenigmus	0
 orth	Phoenigmus	lat	
 foreign	Ahmar	ara	
 foreign	φοινιγμὸς	grc	
-foreign	Faire rouge	fra	
-foreign	Fare rosso	ita	
 entry	Phrenitis	0	
 orth	Phrenitis	lat	
 foreign	Birsen	ara	
@@ -7731,14 +7432,12 @@ foreign	Carabitus	ara
 foreign	φρενῖτις	grc	
 foreign	Phrénésie	fra	
 foreign	Frenesia	ita	
-entry	Phthiriasis, Morbus pedicularis	0	
+entry	Phthiriasis	0	
 orth	Phthiriasis	lat	
-orth	Morbus pedicularis	lat	
 foreign	Camla	ara	
 foreign	Mucammal	ara	
 foreign	Kimlin	ara	
 foreign	φθειρίασις	grc	
-foreign	Maladie pédiculaire	fra	
 foreign	Pidocchiosità	ita	
 entry	Phthisis, Phthisicus	0	
 orth	Phthisis	lat	
@@ -7747,13 +7446,10 @@ foreign	Zell	ara
 foreign	Mazlul	ara	
 foreign	Sall	ara	
 foreign	Massul	ara	
-foreign	lllat assel	ara	
-foreign	Alil assel	ara	
 foreign	Tsimuc	heb	
 foreign	Schachaphi	heb	
 foreign	φθίσις	grc	
 foreign	Phthisie	fra	
-foreign	Ulcération des poulmons	fra	
 foreign	Tisichezza	ita	
 foreign	Tisico	ita	
 pb	782	0790	
@@ -7761,10 +7457,9 @@ entry	Pia mater	0
 orth	Pia mater	lat	
 foreign	Maschimi	ara	
 foreign	ὑμὴν λεπτὸς	grc	
-foreign	Membrane mince du cerveau	fra	
 foreign	Pia Madre	ita	
-entry	Pilulae	0	
-orth	Pilulae	lat	
+entry	Pilulæ	0	
+orth	Pilulæ	lat	
 foreign	Habbat	ara	
 foreign	καταπότια	grc	
 foreign	Pilules	fra	
@@ -7806,16 +7501,17 @@ entry	Pistillum	0
 orth	Pistillum	lat	
 foreign	Marzaba	ara	
 foreign	Mudacca	ara	
-foreign	Jed. almaharas	ara	
+foreign	Jed	ara	
+foreign	almaharas	ara	
 foreign	Gras	ara	
 foreign	Madoc	heb	
 foreign	ὕπερος	grc	
 foreign	ὕπερον	grc	
-foreign	Pilon de mortier	fra	
-foreign	Pistello da mortajo	ita	
-entry	Pituita, Phlegma	0	
+foreign	Pilon	fra	
+foreign	Pistello	ita	
+entry	Pituita	0	
 orth	Pituita	lat	
-orth	Phlegma	lat	
+clique	Phlegma		
 entry	Pix	0	
 orth	Pix	lat	
 foreign	Char	ara	
@@ -7858,11 +7554,10 @@ entry	Planta pedis	0
 orth	Planta pedis	lat	
 foreign	Alselament	ara	
 foreign	Caph	heb	
-foreign	Masrek haregel	heb	
 foreign	πέλμα	grc	
 foreign	πεδίον	grc	
-foreign	Plante du pié	fra	
-foreign	Pianta del Piede	ita	
+foreign	Plante	fra	
+foreign	Pianta	ita	
 entry	Plenitudo, Plenus	0	
 orth	Plenitudo	lat	
 orth	Plenus	lat	
@@ -7871,7 +7566,7 @@ foreign	Mali	ara
 foreign	Melo	heb	
 foreign	Male	heb	
 foreign	πλῆθος	grc	
-foreign	πληθῶρα	grc	
+foreign	πληθώρα	grc	
 foreign	Plénitude	fra	
 foreign	Plein	fra	
 foreign	Pienezza	ita	
@@ -7879,22 +7574,20 @@ foreign	Pieno	ita
 entry	Pleuritis, Pleuriticus	0	
 orth	Pleuritis	lat	
 orth	Pleuriticus	lat	
-foreign	Birsen Sosati	ara	
-foreign	Vaga algenb	ara	
-foreign	Hubivaga algenb	ara	
+foreign	Birsen	ara	
+foreign	Sosati	ara	
 foreign	Schafzaa	ara	
 foreign	Ghebel	heb	
 foreign	Hazad	heb	
 foreign	πλευρῖτις	grc	
 foreign	πλευριτικὸς	grc	
 foreign	Pleurésie	fra	
-foreign	Pontura di fianchi	ita	
 entry	Plica	0	
 orth	Plica	lat	
 foreign	Farda	ara	
 foreign	Taja	ara	
 foreign	Tachbil	ara	
-foreign	Alschaar	ara	
+foreign	alschaar	ara	
 foreign	πλοκὴ	grc	
 foreign	Pli	fra	
 foreign	Pliement	fra	
@@ -7907,12 +7600,12 @@ foreign	Merdesengi	ara
 foreign	μόλυβδος κεκαυμένος	grc	
 foreign	Plomb brûlé	fra	
 foreign	Piombo brusciato	ita	
-entry	Podagra, Arthritis	0	
+entry	Podagra	0	
 orth	Podagra	lat	
-orth	Arthritis	lat	
-foreign	Salaa	ara	
+clique	ARTHRITIS		
+foreign	Salaâ	ara	
 foreign	πόδαγρα	grc	
-foreign	Goutte aux piés	fra	
+foreign	Goutte	fra	
 foreign	Podagra	ita	
 foreign	Gotta	ita	
 entry	Pollex	0	
@@ -7922,29 +7615,26 @@ foreign	Bohen	heb
 foreign	Alion	heb	
 foreign	Gudal	heb	
 foreign	Zecapha	heb	
-foreign	Ezebba hagam	heb	
 foreign	ἀντίχειρ	grc	
 foreign	Pouce	fra	
-foreign	Dito grasso	ita	
 foreign	Pollice	ita	
 entry	Pollutio nocturna	0	
 orth	Pollutio nocturna	lat	
-foreign	Heis lhtelem	ara	
+foreign	Heis	ara	
+foreign	Ihtelem	ara	
 foreign	ἐξονείρωσις	grc	
-foreign	Flux de semence de nuit	fra	
-foreign	Flusso del seme notturno	ita	
 entry	Polypus	0	
 orth	Polypus	lat	
 foreign	Alarhab	ara	
 foreign	Arbiam	ara	
 foreign	Cassanum	ara	
 foreign	Arnaban	ara	
-foreign	πόλυπος	grc	
+foreign	πολύπους	grc	
 foreign	Polpe	fra	
 foreign	Poupe	fra	
 foreign	Polype	fra	
 foreign	Polpo	ita	
-foreign	Polpa del naso	ita	
+foreign	Polpa	ita	
 entry	Pondus	0	
 orth	Pondus	lat	
 foreign	Alsacrugia	ara	
@@ -7972,13 +7662,13 @@ foreign	ἰγνύη	grc
 foreign	κώληψ	grc	
 foreign	Jarret	fra	
 foreign	Garleto	ita	
-foreign	Piegattura della gamba	ita	
 entry	Porphyrites lapis	0	
 orth	Porphyrites lapis	lat	
 foreign	Rachâma ahmar	ara	
 foreign	Bahat	heb	
 foreign	πορφυρίτης	grc	
 foreign	Marbre rouge	fra	
+foreign	Marbre rougeâtre	fra	
 foreign	Porfido	ita	
 entry	Potus	0	
 orth	Potus	lat	
@@ -7988,9 +7678,8 @@ foreign	Schikkni	heb
 foreign	πόμα	grc	
 foreign	Boire	fra	
 foreign	Boisson	fra	
-foreign	Cosa da bere	ita	
-entry	Praefocatio matricis	0	
-orth	Praefocatio matricis	lat	
+entry	Præfocatio matricis	0	
+orth	Præfocatio matricis	lat	
 foreign	Comac	ara	
 foreign	Ichtinac alraham	ara	
 foreign	Machnaca alzifac	ara	
@@ -7998,8 +7687,8 @@ foreign	Machanac harechem	heb
 foreign	πνὶξ ὑστερικὴ	grc	
 foreign	Suffocation de la matrice	fra	
 foreign	Affocamento della matrice	ita	
-entry	Praeputium	0	
-orth	Praeputium	lat	
+entry	Præputium	0	
+orth	Præputium	lat	
 foreign	Arla	ara	
 foreign	Calfa	ara	
 foreign	Arelatah	heb	
@@ -8007,11 +7696,12 @@ foreign	Merachak	heb
 foreign	πόσθη	grc	
 foreign	Prépuce	fra	
 foreign	Prepuzio	ita	
-entry	Praeservatio	0	
-orth	Praeservatio	lat	
+entry	Præservatio	0	
+orth	Præservatio	lat	
 foreign	Charaz	ara	
 foreign	Tichraz	ara	
 foreign	Ahtiras	ara	
+foreign	προφυλαπὴ	grc	
 foreign	Préservation	fra	
 foreign	Preservazione	ita	
 entry	Priapismus, Satyriasis	0	
@@ -8046,19 +7736,18 @@ foreign	Ukil	ara
 foreign	κνησμὸς	grc	
 foreign	Démangeaison	fra	
 foreign	Pizzicore	ita	
-foreign	Voglia di grattarsi	ita	
 entry	Ptisana hordei	0	
 orth	Ptisana hordei	lat	
 foreign	Kisch	ara	
 foreign	Akescen	ara	
-foreign	Dischischmin. Seheir	ara	
+foreign	Dischischmin	ara	
+foreign	Seheir	ara	
 foreign	Gesire	heb	
 foreign	Scheorim	heb	
 foreign	πτισσάνη	grc	
 foreign	Ptisane	fra	
 foreign	Tisane d’orge	fra	
 foreign	Ptisana	ita	
-foreign	Sugo d’orzo colla scorza	ita	
 entry	Pubes, Os pubis	0	
 orth	Pubes	lat	
 orth	Os pubis	lat	
@@ -8075,8 +7764,6 @@ foreign	Mebusohim	heb
 foreign	Erevah	heb	
 foreign	Bachatin	heb	
 foreign	αἰδοῖα	grc	
-foreign	Parties honteuses	fra	
-foreign	Parti vergognose	ita	
 entry	Pudor, Verecundia	0	
 orth	Pudor	lat	
 orth	Verecundia	lat	
@@ -8096,13 +7783,12 @@ foreign	Veleda	ara
 foreign	Joida	heb	
 foreign	λεχὼ	grc	
 foreign	Accouchée	fra	
-foreign	Donna di parto	ita	
 entry	Pulmo	0	
 orth	Pulmo	lat	
 foreign	Rihe	ara	
 foreign	Ria	ara	
 foreign	Kich	ara	
-foreign	πνεύμον	grc	
+foreign	πνεύμων	grc	
 foreign	Poulmon	fra	
 foreign	Polmone	ita	
 entry	Puls, Pulmentum	0	
@@ -8113,9 +7799,8 @@ foreign	Harisa	ara
 foreign	Tabich	ara	
 foreign	Sahina	ara	
 foreign	Nazid	heb	
-foreign	κρίμνος	grc	
+foreign	κρίμνον	grc	
 foreign	ἀθαίρα	grc	
-foreign	Fait de Farine	fra	
 foreign	Bouillie	fra	
 foreign	Pulte	ita	
 foreign	Menestra	ita	
@@ -8149,25 +7834,21 @@ foreign	Chaisur	ara
 foreign	Fanec	ara	
 foreign	Hagaralhamin	ara	
 foreign	κισσηρὶς	grc	
-foreign	Pierre ponce	fra	
 foreign	Pumice	ita	
 entry	Pupilla	0	
 orth	Pupilla	lat	
-foreign	Hadac alain	ara	
 foreign	Bavah	heb	
 foreign	Charuds	heb	
 foreign	Gilgul	heb	
 foreign	Ischon	heb	
 foreign	κόρη	grc	
-foreign	Prunelle de l’œil	fra	
-foreign	Pupilla dell’occhio	ita	
+foreign	Prunelle	fra	
+foreign	Pupilla	ita	
 entry	Purgans	0	
 orth	Purgans	lat	
 foreign	Munaqui	ara	
 foreign	καθαρκτικὸν	grc	
 foreign	Purgeant	fra	
-foreign	Médicament qui purge	fra	
-foreign	Medicamento purgante	ita	
 entry	Purgatio	0	
 orth	Purgatio	lat	
 foreign	Mushil	ara	
@@ -8230,7 +7911,7 @@ entry	Putrefactio	0
 orth	Putrefactio	lat	
 foreign	Chamg	ara	
 foreign	Taafin	ara	
-foreign	lphusch	heb	
+foreign	Iphusch	heb	
 foreign	κατάσηψις	grc	
 foreign	Putréfaction	fra	
 foreign	Putrefazzione	ita	
@@ -8267,9 +7948,9 @@ foreign	Reposo	ita
 entry	Quotidiana febris	0	
 orth	Quotidiana febris	lat	
 foreign	Humi aljaum	ara	
+foreign	Humi jaum	ara	
 foreign	Antar telhos	ara	
 foreign	ἀμφημερινὸς πυρετὸς	grc	
-foreign	Fiévre qui prend tous les jours	fra	
 foreign	Quotidiana	ita	
 foreign	Cotidiana	ita	
 entry	Rabies	0	
@@ -8331,9 +8012,8 @@ foreign	Raucità	ita
 foreign	Rauco	ita	
 entry	Recidiva	0	
 orth	Recidiva	lat	
-foreign	ὑποστραφὴ	grc	
-foreign	Recidive	fra	
-foreign	Rechute de maladie	fra	
+foreign	ὑποστροφὴ	grc	
+foreign	Récidive	fra	
 foreign	Ritirata	ita	
 entry	Remedium	0	
 orth	Remedium	lat	
@@ -8352,6 +8032,8 @@ foreign	βοήθημα	grc
 foreign	ἄκος	grc	
 foreign	Reméde	fra	
 foreign	Remedio	ita	
+clique	Auxilium		
+clique	Medicina		
 entry	Renes	0	
 orth	Renes	lat	
 foreign	Kulie	ara	
@@ -8405,7 +8087,7 @@ foreign	Mokesch	heb
 foreign	Leked	heb	
 foreign	Malcodath	heb	
 foreign	Cherem	heb	
-foreign	Nascbubh	heb	
+foreign	Naschubh	heb	
 foreign	δίκτυον	grc	
 foreign	Rets	fra	
 foreign	Filets	fra	
@@ -8416,7 +8098,6 @@ orth	Retiformis	lat
 foreign	Rescheth	ara	
 foreign	δικτυοειδὴς	grc	
 foreign	χοροειδὴς	grc	
-foreign	Fait en façon de rets	fra	
 foreign	Retiforme	ita	
 entry	Rhabarbarum	0	
 orth	Rhabarbarum	lat	
@@ -8425,16 +8106,15 @@ foreign	Ravedseni	ara
 foreign	ῥαβάρβαρον	grc	
 foreign	Rhubarbe	fra	
 foreign	Rabarbaro	ita	
-entry	Rheumatismus, Destillatio	0	
+entry	Rheumatismus	0	
 orth	Rheumatismus	lat	
-orth	Destillatio	lat	
+clique	DESTILLATIO		
 foreign	ῥευματισμὸς	grc	
 foreign	Rhume	fra	
 foreign	Flusso	ita	
 foreign	Catarro	ita	
 entry	Rubinus	0	
 orth	Rubinus	lat	
-foreign	Jacuta hamar	ara	
 foreign	Jahar	heb	
 foreign	Cadcod	heb	
 foreign	Samcan	heb	
@@ -8449,11 +8129,9 @@ foreign	Migra	heb
 foreign	Sammanim	heb	
 foreign	μίλτος	grc	
 foreign	σινωπὶς	grc	
-foreign	Terre rouge	fra	
 foreign	Rubrica	ita	
-foreign	Terra rossa	ita	
-entry	Rugae	0	
-orth	Rugae	lat	
+entry	Rugæ	0	
+orth	Rugæ	lat	
 foreign	Abagdan	ara	
 foreign	Tacmisch	ara	
 foreign	Tacmischa	ara	
@@ -8495,8 +8173,9 @@ foreign	Melach	heb
 foreign	ἅλς	grc	
 foreign	Sel	fra	
 foreign	Sale	ita	
-entry	Salacitas salax	0	
-orth	Salacitas salax	lat	
+entry	Salacitas, Salax	0	
+orth	Salacitas	lat	
+orth	Salax	lat	
 foreign	Liab	ara	
 foreign	Laib	ara	
 foreign	Hogebh	heb	
@@ -8522,16 +8201,14 @@ foreign	Almuri	ara
 foreign	Barachia	ara	
 foreign	Scenem	ara	
 foreign	Melichud	heb	
-foreign	ἁλμρότης	grc	
-foreign	Goût du sel	fra	
-foreign	Liqueur salée	fra	
+foreign	ἁλμυρότης	grc	
 foreign	Salatura	ita	
 pb	784	0792	
 entry	Salsus	0	
 orth	Salsus	lat	
 foreign	Mumallah	ara	
 foreign	Maloch	heb	
-foreign	ἀλμυρός	grc	
+foreign	ἁλμυρὸς	grc	
 foreign	Salé	fra	
 foreign	Salato	ita	
 foreign	Salso	ita	
@@ -8540,7 +8217,7 @@ orth	Saltus	lat
 foreign	Quafza	ara	
 foreign	Dilug	heb	
 foreign	Raph	heb	
-foreign	Ruph	heb	
+foreign	ruph	heb	
 foreign	πήδησις	grc	
 foreign	Saut	fra	
 foreign	Salto	ita	
@@ -8587,12 +8264,9 @@ foreign	Sain	fra
 foreign	Sano	ita	
 entry	Sapa	0	
 orth	Sapa	lat	
-foreign	Schulila alasal	ara	
 foreign	Tille	ara	
 foreign	ἕψημα	grc	
 foreign	σείραιον	grc	
-foreign	Vin cuit	fra	
-foreign	Vino cotto	ita	
 entry	Sapo, Smegma	0	
 orth	Sapo	lat	
 orth	Smegma	lat	
@@ -8611,9 +8285,10 @@ foreign	Anzarut	ara
 foreign	σαρκοκόλλα	grc	
 foreign	Sarcocolle	fra	
 foreign	Sarcocolla	ita	
-entry	Scabies	0	
+entry	Scabies, Scabies exulcerata	0	
 orth	Scabies	lat	
 foreign	Garab	ara	
+orth	Scabies exulcerata	lat	
 foreign	Alkenebi	ara	
 foreign	Serap	ara	
 foreign	Garab	heb	
@@ -8632,14 +8307,13 @@ foreign	Taar	heb
 foreign	Darban	heb	
 foreign	μαχαιρίδιον	grc	
 foreign	Canif	fra	
-foreign	Petit burin	fra	
 foreign	Scarpello	ita	
 entry	Scalprum	0	
 orth	Scalprum	lat	
 foreign	Magrad	ara	
 foreign	Cherebh	heb	
 foreign	Tsipporen	heb	
-foreign	ξυστήρ	grc	
+foreign	ξυστὴρ	grc	
 foreign	Burin	fra	
 foreign	Racloir	fra	
 foreign	Rasparola	ita	
@@ -8650,8 +8324,8 @@ foreign	Mahmuda	ara
 foreign	δακρύδιον	grc	
 foreign	Scammonée	fra	
 foreign	Scammonea	ita	
-entry	Scapulae	0	
-orth	Scapulae	lat	
+entry	Scapulæ	0	
+orth	Scapulæ	lat	
 foreign	Ketf	ara	
 foreign	Actaf	ara	
 foreign	Koteph	heb	
@@ -8659,7 +8333,6 @@ foreign	Kephot	heb
 foreign	Ketephim	heb	
 foreign	ὠμοπλάται	grc	
 foreign	Palerons	fra	
-foreign	Derriére des épaules	fra	
 foreign	Pallette	ita	
 entry	Scarificatio	0	
 orth	Scarificatio	lat	
@@ -8668,15 +8341,12 @@ foreign	Garda	heb
 foreign	Rabhda	heb	
 foreign	σχασμὸς	grc	
 foreign	Scarification	fra	
-foreign	Fare i tagli o picchi	ita	
 entry	Scirrhus	0	
 orth	Scirrhus	lat	
 foreign	Sephiros	ara	
 foreign	Futratiz	ara	
 foreign	σκιῤῥὸς	grc	
-foreign	Enflure dure	fra	
 foreign	Scirro	ita	
-foreign	Durezza senza dolore	ita	
 entry	Scorbutus	0	
 orth	Scorbutus	lat	
 foreign	σκορβοῦτος	grc	
@@ -8689,8 +8359,6 @@ foreign	Chabt	ara
 foreign	Chabat	ara	
 foreign	Sig	heb	
 foreign	σκωρία	grc	
-foreign	Ecume et ordure des métaux	fra	
-foreign	Sciuma di metallo	ita	
 entry	Scorpius, Scorpio	0	
 orth	Scorpius	lat	
 orth	Scorpio	lat	
@@ -8719,11 +8387,11 @@ foreign	Chaticah	heb
 foreign	Natuah	heb	
 foreign	Perek	heb	
 foreign	τομὴ	grc	
-foreign	Coupure.Taillure	fra	
+foreign	Coupure	fra	
+foreign	Taillure	fra	
 foreign	Segamento	ita	
-foreign	lntacco di taglia	ita	
-entry	Secundinae	0	
-orth	Secundinae	lat	
+entry	Secundinæ	0	
+orth	Secundinæ	lat	
 foreign	Chalas	ara	
 foreign	Abras	ara	
 foreign	Maschima	ara	
@@ -8732,7 +8400,6 @@ foreign	Schiljah	heb
 foreign	δευτεραῖα	grc	
 foreign	ὕστερα	grc	
 foreign	Arriére-faix	fra	
-foreign	Pelli di fanciulli	ita	
 entry	Sedes	0	
 orth	Sedes	lat	
 foreign	Maglas	ara	
@@ -8749,7 +8416,6 @@ foreign	Mischcah	ara
 foreign	Rasubh	heb	
 foreign	Mischcah	heb	
 foreign	ὑπόστασις	grc	
-foreign	Affaissement	fra	
 foreign	Ordure d’urine	fra	
 foreign	Sedimento	ita	
 entry	Semen	0	
@@ -8798,9 +8464,6 @@ orth	Serum	lat
 foreign	Masal	ara	
 foreign	Magra	ara	
 foreign	ὀῤῥὸς	grc	
-foreign	Lait clair	fra	
-foreign	Petit Lait	fra	
-foreign	Scolo di latte	ita	
 entry	Sesamoidea ossa	0	
 orth	Sesamoidea ossa	lat	
 foreign	Alsemsemanie	ara	
@@ -8839,7 +8502,6 @@ entry	Silex	0
 orth	Silex	lat	
 foreign	Serax	ara	
 foreign	Serachs	ara	
-foreign	Hagar alzenet	ara	
 foreign	Chalamish	heb	
 foreign	πυρίτης	grc	
 foreign	Caillou	fra	
@@ -8852,8 +8514,6 @@ foreign	Aseleth	ara
 foreign	Samid	ara	
 foreign	Salet	heb	
 foreign	σεμίδαλις	grc	
-foreign	Sorte de froment	fra	
-foreign	Fleur de farine	fra	
 foreign	Amito	ita	
 foreign	Amido	ita	
 entry	Simitas, Simus	0	
@@ -8863,8 +8523,6 @@ foreign	Charum	heb
 foreign	σιμότης	grc	
 foreign	σιμὸς	grc	
 foreign	Camus	fra	
-foreign	Nez tortu	fra	
-foreign	Schiacciato naso	ita	
 entry	Singultus	0	
 orth	Singultus	lat	
 foreign	Faah	ara	
@@ -8915,7 +8573,6 @@ foreign	Smaraldo	ita
 entry	Smiris	0	
 orth	Smiris	lat	
 foreign	Mesu	ara	
-foreign	Hagar sumbidig	ara	
 foreign	Sumbedegi	ara	
 foreign	σμύρις	grc	
 foreign	Emeril	fra	
@@ -8938,9 +8595,7 @@ entry	Somniferum	0
 orth	Somniferum	lat	
 foreign	Almaneumat	ara	
 foreign	ὑπνωτικὸν	grc	
-foreign	Qui fait dormir	fra	
-foreign	Che fà dormire	ita	
-foreign	Narcorticum	ita	
+clique	Narcorticum		
 pb	785	0793	
 entry	Sopor	0	
 orth	Sopor	lat	
@@ -8954,18 +8609,14 @@ foreign	Tagria	ara
 foreign	Haschua	ara	
 foreign	Bela	heb	
 foreign	ῥόφημα	grc	
-foreign	Action d’humer, d’avaler	fra	
 foreign	Sorbimento	ita	
 entry	Specillum	0	
 orth	Specillum	lat	
 foreign	Tarsusa	ara	
-foreign	Munefid	ara	
+foreign	Munesid	ara	
 foreign	Targis	ara	
 foreign	μηλωτὶς	grc	
 foreign	μήλη	grc	
-foreign	Eprouvette de Chirurgien	fra	
-foreign	Touche Chirurgique	fra	
-foreign	Tasta per curar piaghe	ita	
 entry	Sphacelus	0	
 orth	Sphacelus	lat	
 foreign	Aschachilos	ara	
@@ -8993,7 +8644,6 @@ foreign	Spodio	ita
 entry	Spongia	0	
 orth	Spongia	lat	
 foreign	Sefengi	ara	
-foreign	Asfengi alchar	ara	
 foreign	Gafisa	ara	
 foreign	Ekebbah	heb	
 foreign	σπόγγος	grc	
@@ -9005,7 +8655,7 @@ foreign	Cossore	ara
 foreign	Zabd	ara	
 foreign	Zebed	ara	
 foreign	Chelcah	heb	
-foreign	Kesteph	heb	
+foreign	Ketseph	heb	
 foreign	ἀφρὸς	grc	
 foreign	Ecume	fra	
 foreign	Schiuma	ita	
@@ -9034,8 +8684,7 @@ orth	Staphyloma	lat
 foreign	Musaragi	ara	
 foreign	Sacaruli	ara	
 foreign	Debani	ara	
-foreign	σταφύλαμα	grc	
-foreign	Maladie de la luette	fra	
+foreign	σταφύλωμα	grc	
 foreign	Stafiloma	ita	
 entry	Stercus	0	
 orth	Stercus	lat	
@@ -9074,11 +8723,8 @@ foreign	Sterile	ita
 entry	Sternum	0	
 orth	Sternum	lat	
 foreign	Caffi	ara	
-foreign	Ezem hehace	heb	
 foreign	στέρνον	grc	
 foreign	στῆθος	grc	
-foreign	Os de la Poitrine	fra	
-foreign	Cartilagine di petto	ita	
 entry	Sternutatio	0	
 orth	Sternutatio	lat	
 foreign	Nachara	ara	
@@ -9092,8 +8738,7 @@ foreign	Starnuto	ita
 entry	Sternutatorium	0	
 orth	Sternutatorium	lat	
 foreign	Mutattis	ara	
-foreign	σταρμικὸν	grc	
-foreign	Qui fait éternuer	fra	
+foreign	πταρμικὸν	grc	
 foreign	Chi fa starnutare	ita	
 entry	Stigma	0	
 orth	Stigma	lat	
@@ -9101,7 +8746,6 @@ foreign	Alguassem	ara
 foreign	Garha	ara	
 foreign	Chatta	ara	
 foreign	στίγμα	grc	
-foreign	marque d’une playe	fra	
 foreign	Segno	ita	
 foreign	Bollatura	ita	
 entry	Stilla, Stillicidium	0	
@@ -9130,7 +8774,6 @@ orth	Storax	lat
 foreign	Miah	ara	
 foreign	Micha	ara	
 foreign	Lebeni	ara	
-foreign	Miah stelle	ara	
 foreign	στύραξ	grc	
 foreign	Styrax	fra	
 foreign	Stirace	ita	
@@ -9139,14 +8782,14 @@ orth	Strabismus	lat
 orth	Strabo	lat	
 foreign	Astarac	ara	
 foreign	στραβισμὸς	grc	
-foreign	στραβὼν	grc	
+foreign	στράβων	grc	
 foreign	Bigle	fra	
 foreign	Loûche	fra	
 foreign	Losco	ita	
 foreign	Guercio	ita	
 entry	Strangulatio	0	
 orth	Strangulatio	lat	
-foreign	Ifa	ara	
+foreign	Itfa	ara	
 foreign	Intifa	ara	
 foreign	Chanca	ara	
 foreign	Schanuk	ara	
@@ -9163,8 +8806,6 @@ orth	Stranguria	lat
 foreign	Hataphah	heb	
 foreign	Haschetem	heb	
 foreign	στραγγουρία	grc	
-foreign	Difficulté d’uriner	fra	
-foreign	Difficultà d’urinar	ita	
 entry	Struma	0	
 orth	Struma	lat	
 foreign	Chanzira	ara	
@@ -9172,19 +8813,18 @@ foreign	βρογχοκήλη	grc
 foreign	χοιρὰς	grc	
 foreign	Ecrouelle	fra	
 foreign	Scrofola	ita	
-foreign	Gonfiazione della gola	ita	
 entry	Stupa	0	
 orth	Stupa	lat	
 foreign	Neoreth	heb	
 foreign	στυπεῖον	grc	
-foreign	Etoupes de lin ou de chanvre	fra	
-foreign	Scoppa di lino ò di canape	ita	
+foreign	Etoupes	fra	
+foreign	Scoppa	ita	
 entry	Stupor	0	
 orth	Stupor	lat	
 foreign	Chauf	ara	
 foreign	Chaufa	ara	
 foreign	Chadr	ara	
-foreign	Schammah	heb	
+foreign	Schamah	heb	
 foreign	Meschammah	heb	
 foreign	Timmahon	heb	
 foreign	νάρκη	grc	
@@ -9199,10 +8839,10 @@ foreign	Karabe	ara
 foreign	ἤλεκτρον	grc	
 foreign	Ambre	fra	
 foreign	Succino	ita	
-entry	Succus, Liquor, Humor	0	
+entry	Succus	0	
 orth	Succus	lat	
-orth	Liquor	lat	
-orth	Humor	lat	
+clique	LIQUOR		
+clique	HUMOR		
 foreign	Rob	ara	
 foreign	Halliq	ara	
 foreign	Asis	heb	
@@ -9227,7 +8867,6 @@ orth	Sudamina	lat
 foreign	Nazef	ara	
 foreign	ἱδρῶα	grc	
 foreign	Echaubouillures	fra	
-foreign	Broggie da sudore	ita	
 entry	Sudor	0	
 orth	Sudor	lat	
 foreign	Arac	ara	
@@ -9255,15 +8894,14 @@ foreign	Anusmuma	ara
 foreign	Gubisch	ara	
 foreign	Umuscha	ara	
 foreign	Teballul	heb	
-foreign	ὑποχυμα	grc	
-foreign	Cataracte en l’œil	fra	
+foreign	ὑπόχυμα	grc	
+foreign	Cataracte	fra	
 foreign	Cataratta	ita	
 entry	Sugillatio	0	
 orth	Sugillatio	lat	
 foreign	Tardid	ara	
 foreign	Alfac	ara	
 foreign	ἐκχύμωμα	grc	
-foreign	Tache noire	fra	
 foreign	meurtrissure	fra	
 entry	Sulphur	0	
 orth	Sulphur	lat	
@@ -9271,16 +8909,15 @@ foreign	Kabric	ara
 foreign	Quibrit	ara	
 foreign	Cribtit	ara	
 foreign	Albaphat	ara	
-foreign	Ser	ara	
 foreign	Gapherit	heb	
 foreign	θεῖον	grc	
-foreign	Scuphre	fra	
+foreign	Souphre	fra	
 foreign	Zolfo	ita	
 foreign	Zolfore	ita	
 entry	Supercilium	0	
 orth	Supercilium	lat	
 foreign	Gesn	ara	
-foreign	Agfin	ara	
+foreign	Agsin	ara	
 foreign	Hagib	ara	
 foreign	Hagivib	ara	
 foreign	Gabh	heb	
@@ -9310,8 +8947,6 @@ entry	Sura	0
 orth	Sura	lat	
 foreign	Cabak	heb	
 foreign	γαστροκνήμιον	grc	
-foreign	Gras de la jambe	fra	
-foreign	Polpa della gamba	ita	
 entry	Surditas, Surdus	0	
 orth	Surditas	lat	
 orth	Surdus	lat	
@@ -9351,16 +8986,14 @@ foreign	Sympatie	fra
 foreign	Compassione	ita	
 entry	Synciput	0	
 orth	Synciput	lat	
-foreign	lfce	ara	
-foreign	lafuc	ara	
+foreign	Ifce	ara	
+foreign	Iafuc	ara	
 foreign	βρέγμα	grc	
-foreign	Devant de la tête	fra	
-foreign	Parte dinanzi de la testa	ita	
 entry	Tabes	0	
 orth	Tabes	lat	
 foreign	Ebdul	ara	
 foreign	Impedul	ara	
-foreign	Daabhack	heb	
+foreign	Daabhach	heb	
 foreign	Daabhon	heb	
 foreign	φθίσις	grc	
 entry	Tactus	0	
@@ -9385,7 +9018,7 @@ foreign	Calcagno	ita
 entry	Tamarindi	0	
 orth	Tamarindi	lat	
 foreign	Tamarindi	ara	
-foreign	φινικοβάλανοι	grc	
+foreign	φοινικοβάλανοι	grc	
 foreign	Tamarinde	fra	
 foreign	Tamarindi	ita	
 entry	Tarsus	0	
@@ -9394,21 +9027,21 @@ foreign	Rasegh	ara
 foreign	Rasegh	heb	
 foreign	ταρσὸς	grc	
 foreign	Talon	fra	
-foreign	Tarlo	ita	
+foreign	Tarso	ita	
 entry	Tartarus, Tartarum	0	
 orth	Tartarus	lat	
 orth	Tartarum	lat	
 foreign	τάρταρον	grc	
 foreign	Tartare	fra	
-foreign	Pepins qui sont au marc du vin	fra	
 foreign	Tartaro	ita	
 entry	Telephium ulcus	0	
 orth	Telephium ulcus	lat	
 foreign	Balchie	ara	
-foreign	lcul	heb	
+foreign	Icul	heb	
 foreign	τελέφιον	grc	
 foreign	Ulcére corrosif	fra	
-foreign	Piaga Telesia maligna	ita	
+foreign	Piaga maligna	ita	
+foreign	Telesia maligna	ita	
 entry	Temperamentum, Temperies	0	
 orth	Temperamentum	lat	
 orth	Temperies	lat	
@@ -9422,7 +9055,7 @@ entry	Tenasmus, Tenesmus	0
 orth	Tenasmus	lat	
 orth	Tenesmus	lat	
 foreign	τεινασμὸς	grc	
-foreign	τενασμὸς	grc	
+foreign	τενασμὸν	grc	
 foreign	Ténesme	fra	
 foreign	Tinesmo	ita	
 entry	Terebella, Trepanum	0	
@@ -9443,15 +9076,13 @@ foreign	Chalambat	ara
 foreign	Ucalambat	ara	
 foreign	Halchalambat	ara	
 foreign	Albotin	ara	
-foreign	ῥητίνη τερεβινθίνη	grc	
-foreign	λαρικίνη	grc	
 foreign	Térébentine	fra	
 foreign	Tormentine	fra	
 foreign	Terebintina	ita	
 entry	Terra sigillata	0	
 orth	Terra sigillata	lat	
 foreign	Tin machtun	ara	
-foreign	γῆ σφραγίτις	grc	
+foreign	γῆ σφραγῖτις	grc	
 foreign	Terre sigillée	fra	
 foreign	Terra sigillata	ita	
 entry	Tertiana febris	0	
@@ -9478,9 +9109,7 @@ foreign	Camfeties	ara
 foreign	Gaugiel	ara	
 foreign	Guadam	ara	
 foreign	ὀστρακόδερμον	grc	
-foreign	Poisson à coquille, ou à écailles	fra	
 foreign	Moule	fra	
-foreign	Pesce con guscio	ita	
 entry	Testiculus, Testes	0	
 orth	Testiculus	lat	
 orth	Testes	lat	
@@ -9499,9 +9128,9 @@ foreign	Testicule	fra
 foreign	Testicolo	ita	
 foreign	Testicoli	ita	
 foreign	Coglioni	ita	
-entry	Tetanus, Spasmus	0	
+entry	Tetanus	0	
 orth	Tetanus	lat	
-orth	Spasmus	lat	
+clique	SPASMUS		
 foreign	Cuzez	ara	
 foreign	Cuzem	ara	
 foreign	τέτανος	grc	
@@ -9513,28 +9142,23 @@ foreign	Tsori	heb
 foreign	θηριακὴ	grc	
 foreign	Thériaque	fra	
 foreign	Teriaca	ita	
-entry	Thermae	0	
-orth	Thermae	lat	
+entry	Thermæ	0	
+orth	Thermæ	lat	
 foreign	Hammat	ara	
 foreign	Hammiah	ara	
 foreign	Machararah	ara	
 foreign	Dimsiu	heb	
 foreign	Mukin	heb	
 foreign	Udna	heb	
-foreign	θερμὸς	grc	
+foreign	θερμαὶ	grc	
 foreign	Thermes	fra	
-foreign	Bains chauds	fra	
 foreign	Etuves	fra	
 foreign	Stuffe	ita	
 foreign	Bagno	ita	
 entry	Thrombus	0	
 orth	Thrombus	lat	
-foreign	Dam gamid	ara	
 foreign	Alca	ara	
-foreign	Dam hacaphah	heb	
 foreign	θρόμβος	grc	
-foreign	Sang figé	fra	
-foreign	Sangue grosso	ita	
 entry	Thymus	0	
 orth	Thymus	lat	
 foreign	Hasce	ara	
@@ -9546,10 +9170,7 @@ orth	Tibia	lat
 foreign	Zumara	ara	
 foreign	Chaill	heb	
 foreign	Schok	heb	
-foreign	Cane hagadol	heb	
 foreign	κνέμη	grc	
-foreign	L’Os de la jambe	fra	
-foreign	Osso della gamba	ita	
 foreign	Tibia	ita	
 entry	Tincturα	0	
 orth	Tincturα	lat	
@@ -9574,7 +9195,6 @@ foreign	Ten	ara
 foreign	Tsalil	heb	
 foreign	ἦχος	grc	
 foreign	Tintement	fra	
-foreign	Risonanza nell’orecchie	ita	
 entry	Titillatio	0	
 orth	Titillatio	lat	
 foreign	Dagdaga	ara	
@@ -9582,9 +9202,8 @@ foreign	Tacaluc	ara
 foreign	γαργαλισμὸς	grc	
 foreign	Chatouillement	fra	
 foreign	Μovimento	ita	
-foreign	Far gatticiole	ita	
-entry	Tonsillae	0	
-orth	Tonsillae	lat	
+entry	Tonsillæ	0	
+orth	Tonsillæ	lat	
 foreign	Gavoni	ara	
 foreign	Geuze	ara	
 foreign	παρίσθμια	grc	
@@ -9600,7 +9219,6 @@ foreign	Topaze	fra
 foreign	Topazzio	ita	
 entry	Tophus	0	
 orth	Tophus	lat	
-foreign	Hagar muramal	ara	
 foreign	πῶρος	grc	
 foreign	Tuf	fra	
 foreign	Tufeau	fra	
@@ -9610,27 +9228,23 @@ entry	Topicum medicamentum	0
 orth	Topicum medicamentum	lat	
 foreign	Devi barrani	ara	
 foreign	τοπικὸν	grc	
-foreign	Reméde extérieur	fra	
 foreign	Topico	ita	
 entry	Tormina	0	
 orth	Tormina	lat	
 foreign	Vaga	ara	
 foreign	στρόφος	grc	
-foreign	Trenchée de ventre	fra	
-foreign	Tormento di ventre	ita	
 entry	Toxicum venenum	0	
 orth	Toxicum venenum	lat	
 foreign	Tusom	ara	
 foreign	Zachari	ara	
 foreign	τοξικὸν	grc	
 foreign	Poison	fra	
-foreign	Venin fort promt	fra	
 foreign	Tossico	ita	
 entry	Tractio	0	
 orth	Tractio	lat	
 foreign	Garra	ara	
-foreign	ὁλκή	grc	
-foreign	ἑλκυσμός	grc	
+foreign	ὁλκὴ	grc	
+foreign	ἑλκυσμὸς	grc	
 foreign	Tirade	fra	
 foreign	Tirement	fra	
 foreign	Trainement	fra	
@@ -9675,7 +9289,6 @@ foreign	Feruca	ara
 foreign	Farazegi	ara	
 foreign	κυάνειος	grc	
 foreign	Turquoise	fra	
-foreign	Turchina gemma	ita	
 entry	Tussis	0	
 orth	Tussis	lat	
 foreign	Tabahboth	ara	
@@ -9699,6 +9312,11 @@ foreign	Tympanite	fra
 foreign	Tympanita	ita	
 entry	Vacuatio	0	
 orth	Vacuatio	lat	
+foreign	Chala	ara	
+foreign	Characah	heb	
+foreign	κένωσις	grc	
+foreign	Vacuation	fra	
+foreign	Vacuazione	ita	
 entry	Vacuitas, Vacuus	0	
 orth	Vacuitas	lat	
 orth	Vacuus	lat	
@@ -9750,7 +9368,6 @@ foreign	Dovali	ara
 foreign	Kiljah	heb	
 foreign	Delijah	heb	
 foreign	κιρσὸς	grc	
-foreign	Veine pleine de sang épais, ou sang mélancholique	fra	
 foreign	Varice	ita	
 entry	Vas, Vasculum	0	
 orth	Vas	lat	
@@ -9774,12 +9391,10 @@ foreign	Daddim	heb
 foreign	μαστοὶ	grc	
 foreign	οὖθαρ	grc	
 foreign	Mammelle	fra	
-foreign	Tetins d’une bête	fra	
 foreign	Poccie	ita	
 foreign	Mamelle	ita	
 entry	Vena	0	
 orth	Vena	lat	
-foreign	Magari aldem	ara	
 foreign	Varid	ara	
 foreign	Varid	heb	
 foreign	φλὲψ	grc	
@@ -9870,14 +9485,14 @@ foreign	Atnal	ara
 foreign	Kalim	ara	
 foreign	Luteesula	ara	
 foreign	Borruca	ara	
-foreign	labbeleth	heb	
+foreign	Iabbeleth	heb	
 foreign	ἀκροχόρδων	grc	
 foreign	μορμήκια	grc	
 foreign	Verrue	fra	
 foreign	Verruca	ita	
-entry	Vertebra, Vertebrae	0	
+entry	Vertebra, Vertebræ	0	
 orth	Vertebra	lat	
-orth	Vertebrae	lat	
+orth	Vertebræ	lat	
 foreign	Charaz	ara	
 foreign	Charza	ara	
 foreign	Chamukim	heb	
@@ -9885,7 +9500,6 @@ foreign	Choljoth	heb
 foreign	σπόνδυλος	grc	
 foreign	σπόνδυλοι	grc	
 foreign	Vertébre	fra	
-foreign	Ossi delle spalle	ita	
 entry	Vertex	0	
 orth	Vertex	lat	
 foreign	Alema	ara	
@@ -9894,19 +9508,14 @@ foreign	Hic	ara
 foreign	Kadcod	heb	
 foreign	Rosch	heb	
 foreign	κορυφὴ	grc	
-foreign	Sommet de la tête	fra	
-foreign	Sommità della testa	ita	
 entry	Vertigo	0	
 orth	Vertigo	lat	
 foreign	Sedere	ara	
 foreign	Duar	ara	
-foreign	Sibub harosch	heb	
-foreign	δίνος	grc	
+foreign	δῖνος	grc	
 foreign	ἴλιγγος	grc	
 foreign	σκοτόδινος	grc	
 foreign	Vertige	fra	
-foreign	Tournement de tête	fra	
-foreign	Stornimento di testa	ita	
 foreign	Vertigine	ita	
 entry	Vesica	0	
 orth	Vesica	lat	
@@ -9916,14 +9525,14 @@ foreign	Mabuela	ara
 foreign	Ziphac	ara	
 foreign	Zephec	heb	
 foreign	Murcah	heb	
-foreign	κῦστις	grc	
+foreign	κύστις	grc	
 foreign	Vessie	fra	
 foreign	Vesica	ita	
 entry	Vesica fellis	0	
 orth	Vesica fellis	lat	
 foreign	Kis almarra	ara	
 foreign	Kis hamara	heb	
-foreign	κῦστις χοληδίχος	grc	
+foreign	κύστις χοληδόχος	grc	
 foreign	Vessie du fiel	fra	
 foreign	Vesica della colera	ita	
 entry	Vesicatio, Vesicatorium	0	
@@ -9947,7 +9556,7 @@ foreign	Alfahai	ara
 foreign	Tsehoah	heb	
 foreign	Epheah	heb	
 foreign	ἔχις	grc	
-foreign	ἐχίδνα	grc	
+foreign	ἔχιδνα	grc	
 foreign	Vipére	fra	
 foreign	Vipera	ita	
 entry	Vires	0	
@@ -9956,13 +9565,13 @@ foreign	On	heb
 foreign	Chail	heb	
 foreign	Toaphoth	heb	
 foreign	σθένος	grc	
-foreign	δυνάμις	grc	
+foreign	δύναμις	grc	
 foreign	ἰσχὺς	grc	
 foreign	Vertu	fra	
 foreign	Forces	fra	
 foreign	Forze	ita	
-entry	Viride aeris	0	
-orth	Viride aeris	lat	
+entry	Viride æris	0	
+orth	Viride æris	lat	
 foreign	Zimar	ara	
 foreign	Ziniar	ara	
 foreign	Zar alnhas	ara	
@@ -10009,18 +9618,15 @@ foreign	Muchalbaiz	ara
 foreign	Fas	ara	
 foreign	Chalamuth	heb	
 foreign	λέκυθος	grc	
-foreign	χλωρὸν τοῦ ὠοῦ	grc	
 foreign	Jaune	fra	
-foreign	Moyeu d’œuf	fra	
+foreign	Moyeu	fra	
 foreign	Torlo	ita	
-foreign	Rosso d’ovo	ita	
+foreign	Rosso	ita	
 entry	Vitiligo	0	
 orth	Vitiligo	lat	
 foreign	Baras	ara	
 foreign	ἀλφὸς	grc	
-foreign	Alphus	grc	
-foreign	Tache blanche sur le corps	fra	
-foreign	Macchie bianche	ita	
+clique	Alphus		
 pb	788	0796	
 entry	Vitriolum	0	
 orth	Vitriolum	lat	
@@ -10071,7 +9677,7 @@ orth	Uncus	lat
 foreign	Vav	ara	
 foreign	Mazlag	ara	
 foreign	Machtaf	ara	
-foreign	Zannare	ara	
+foreign	Zannara	ara	
 foreign	Vav	heb	
 foreign	Choach	heb	
 foreign	Mazileg	heb	
@@ -10107,7 +9713,6 @@ foreign	Unghia	ita
 entry	Unicornu	0	
 orth	Unicornu	lat	
 foreign	Dison	ara	
-foreign	Vahid alcara	ara	
 foreign	Alchercheden	ara	
 foreign	Reem	heb	
 foreign	Rem	heb	
@@ -10125,8 +9730,7 @@ foreign	Exeph	heb
 foreign	Choven	heb	
 foreign	Schaal	heb	
 foreign	θέναρ	grc	
-foreign	κοῖλον χειρὸς καὶ ποδὸς	grc	
-foreign	Paume de la main	fra	
+foreign	Paume	fra	
 foreign	Palma	ita	
 entry	Volatilia	0	
 orth	Volatilia	lat	
@@ -10155,9 +9759,8 @@ foreign	Vomito	ita
 entry	Ureteres, Urethra	0	
 orth	Ureteres	lat	
 orth	Urethra	lat	
+foreign	Haloen	ara	
 foreign	οὐρητῆρες	grc	
-foreign	Canal de l’urine	fra	
-foreign	Canale dell’orina	ita	
 entry	Urina	0	
 orth	Urina	lat	
 foreign	Baul	ara	

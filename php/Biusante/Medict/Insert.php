@@ -853,7 +853,6 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                 // 1e traduction, envoyer les vedettes pour la clique de trad
                 if (!count($foreigns)) {
                     foreach ($orths as $orth_id => $orth_forme) {
-                        // insert_rel($reltype, $page, $refimg, $dico_terme, $orth=null)
                         self::insert_rel(
                             C::RELTYPE_TRANSLATE,
                             // page de l’entrée
@@ -869,7 +868,7 @@ WHERE CONCAT('1', dst_sort) IN (SELECT orth_sort FROM dico_index) AND CONCAT('1'
                     continue;
                 }
                 $foreigns[$forme_id] = $forme;
-                // mot cherchable
+                // ref entrée cherchable
                 self::insert_rel(C::RELTYPE_FOREIGN, $page, $refimg, $forme_id, 
                     [C::_FORME =>$forme, C::_LANGUE =>$forme_langueno]
                 );

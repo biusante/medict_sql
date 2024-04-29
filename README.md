@@ -2,6 +2,20 @@
 
 Cet entrepôt contient le code et les données qui alimentent la base de données (MySQ)L du Métadictionnaire Medica. La génération est séparée de l’application web publique [medict](https://github.com/biusante/medict#readme) qui sert ces données. Il en résulte pour la sécurité que l’application ouverte sur l’extérieur est en lecture seule, qu’elle ne produit aucune données, et que ces données peuvent être produites en SSH sur le serveur, ou bien sur une autre machine, par exemple celle d’un administrateur.
 
+## Arbre des fichiers
+
+* [build_sql/](data_sql/) — GÉNÉRÉ, données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
+* [pars.php](pars.php) — MODIFIABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
+* [build.php](build.php) — script de génération de la totalité des données.
+* [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copié dans la base de données, utilisé dans l’application.
+* [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
+* [src_tsv/](src_tsv/) — GÉNÉRÉ (pour les sources xml/tei), MODIFIABLE (pour les données anciennes). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Medica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
+* [views/](views/) — GÉNÉRÉ, différentes vues partielles sur les données pour interrogations scientifiques.
+* [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source du code SQL.
+* [doc/](doc/) — documentation.
+* .gitattributes, .gitignore — fichiers git.
+* README.md — vous êtes ici.
+
 ## Requis
 
 Un serveur MySQL **5.7**. Attention, très gros problème de performances avec **MySQL 8** (requêtes en timeout), cf. https://dev.mysql.com/doc/refman/8.0/en/known-issues.html. Aucun contournement n’a encore été trouvé.
@@ -16,7 +30,6 @@ Modules PHP
   * mbstring — traitement de chaînes unicode
   * xsl — xsltproc, pour transformations XML/TEI
   * zip — livraison finale, zipper les fichiers SQL
-
 
 
 ## Chargement rapide
@@ -151,25 +164,21 @@ Les extensions php xml et xsl ne sont pas installées.
 ubuntu 22.04$ sudo apt-get install php-xml
 ```
 
-## Arbre des fichiers
-
-* [build_sql/](data_sql/) — GÉNÉRÉ, données SQL directement importable dans une base de données MySQL, par exemple avec PhpMySql.
-* [pars.php](pars.php) — MODIFIABLE, fichier obligatoire à créer avec les paramètre de connexion et des chemins, sur le modèle de [_pars.php](_pars.php).
-* [build.php](build.php) — script de génération de la totalité des données.
-* [dico_titre.tsv](dico_titre.tsv) — MODIFIABLE, données bibliographiques par titre, copier dans la base de données, utilisé dans l’application.
-* [dico_volume.tsv](dico_volume.tsv) — MODIFIABLE, données bibliographiques pour titres de plus d’un volume.
-* [src_tsv/](src_tsv/) — MODIFIABLE et GÉNÉRÉ (pour les sources xml/tei). Ces fichiers partagent un même format, qu’ils proviennent de l’ancienne base Medica, ou des dictionnaires indexés finement en XML/TEI [medict-xml/xml](https://github.com/biusante/medict-xml/tree/main/xml). Les données anciennes peuvent être corrigées dans ces fichiers. De nouvelles données peuvent être produites dans ce format.
-* [views/](views/) — GÉNÉRÉ, différentes vues partielles sur les données pour interrogations scientifiques.
-* [medict.mwb](medict.mwb), schéma de la base de données au format [MySQL Workbench](https://www.mysql.com/products/workbench/) utilisé comme source du code SQL.
-* [doc/](doc/) — documentation, documents de l’équipe et de recherche, et surtout.
-* .gitattributes, .gitignore, README.md — fichiers git
 
 
 ## Schéma de la base de données
 
 Le schéma peut être éclairé par le format de fichier qui y rentre, cf. [data_events/](data_events#readme)
 
-La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est enregistré de manière unique dans la table `dico_terme`, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé `dico_terme.deforme` (lettres minuscules sans accents, traitements particuliers selon les langues pour : œ, æ, -, i/j, u/v…). Une vedette est une relation (table `dico_rel`) entre un _mot_ (`dico_term`) et un _article_ (`dico_entree`) de type _orth_ (`<orth>` selon la nomenclature TEI, `dico_rel.reltype = 1`). Une traduction est une relation de type _foreign_, le regroupement des traductions avec les vedettes se fait sur tout l’article (`dico_rel.dico_entreee`). Un renvoi est une relation de type _clique_, le regroupement des mots d’une clique se fait sur un identifiant spécifique (`dico_rel.clique`) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupées selon les balises `<sense>`). Les tables `dico_volume` et `dico_titre` portent les informations bibliographiques renseignées par l’équipe scientifique dans les fichiers [dico_titre.tsv](dico_titre.tsv) et [dico_volume.tsv](dico_volume.tsv).
+La partie délicate du modèle de données concerne les relations de traductions et surtout de mots liés, aussi va-t-on décrire ce schéma en commençant par les plus petits éléments, les mots. Tout _mot_ (vedette, locution, traduction, renvoi…) est enregistré de manière unique dans la table `dico_terme`, avec sa forme graphique et sa langue. Les termes sont dédoublonnés selon une clé `dico_terme.deforme` (lettres minuscules sans accents, traitements particuliers selon les langues pour : œ, æ, -, i/j, u/v…).
+
+Une vedette est une relation (table `dico_rel`) entre un _mot_ (`dico_term`) et un _article_ (`dico_entree`) de type _orth_ (`<orth>` selon la nomenclature TEI, `dico_rel.reltype = 1`).
+
+Une “traduction” n'est pas ici une relation orientée d'une langue source vers une langue cible selon l'usage linguistique le mieux accepté, car les dictionnaires étant disparates dans le temps et l'orientation des auteurs, il n'était pas possible de renseigner de manière fiable tout le polygone des relations possibles (LAT→FRA et donc FRA→LAT, GRC→FRA et FRA→GRC, et donc LAT→GRC et GRC → LAT… rajouter ENG, DEU, SPA, ITA, HEB, ARA dans le réseau). Afin de ne pas présumer des directions, tout en gardant toutes les inductions possibles, les relations de traductions sont enregistrées selon le modèle de la clique, ou plus précisément un [graphe complet](https://fr.wikipedia.org/wiki/Graphe_complet). Concrètement, cela signifie que toutes les traductions déclarées dans un article sont reliées aux vedettes dans tous les sens possibles, par exemple (lat:Febris, ara:Humi, ara:Humia, heb:Dalleket, heb:Chaschur, heb:Caddachat : [Febris. Castelli Bruno, 1746, p. 333-334](https://fictif.org/medict/?selection=9v_____z_18T&q=febris&t=febris&cote=07399&p=0341)). Cette solution allège la quantité de données et permet des requêtes avec une performance acceptable. Une traduction est une relation (table `dico_rel`) entre un _mot_ (`dico_term`), un _article_ (`dico_entree`), et un identifiant de clique pour faire le regroupement.
+
+Renvois et locutions sont attachés aux vedettes avec de même une relation de type _clique_. Toutefois , qui relie  mais qui peut être enre c'est-à-dire un ou plusieurs  le regroupement des mots d’une clique se fait sur un identifiant spécifique (`dico_rel.clique`) permettant à un même article de contenir plusieurs _cliques_ sémantiques (par exemple groupées selon les balises `<sense>`).
+
+Les tables `dico_volume` et `dico_titre` portent les informations bibliographiques renseignées par l’équipe scientifique dans les fichiers [dico_titre.tsv](dico_titre.tsv) et [dico_volume.tsv](dico_volume.tsv).
 
 Dans un scénario habituel de requête, l’utilisateur cherche des lettres (dans `dico_terme.deforme`), les vedettes proposées sont tirées des relations _orth_ et _term_ (pour vedettes principales et secondaires, `dico_rel.reltype`) et sont filtrées par titres d’ouvrages (`dico_rel.dico_titre`). Les filtrages par dates ou type d’ouvrages (médecine, vétérinaire, pharmacie, glossaire…) sont ramenés à une liste d’identifiants de titre. Quand une vedette est sélectionnée (`dico_terme.id`), sont affichées les entrées qui ont cette vedette, avec les informations bibliographiques nécessaires (`dico_rel.dico_terme` -> `dico_rel.dico_entree` -> `dico_entree.id` -> `dico_entree.dico_volume` -> `dico_volume.id`). Pour afficher les traductions d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les entrées (`dico_rel.dico_entree`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de traduction (`dico_rel.reltype`) ; reprendre cette liste d’entrées, et afficher la liste des traductions qu’elles contiennent en ordre alphabétique. Le principe des _mots liés_ est similaire, à la réserve que la clé de regroupement n’est plus l’_entrée_, mais la _clique_ (`dico_rel.clique`). Pour afficher les mots liés d’un mot sélectionné (`dico_terme.id`) ; sélectionner toutes les cliques (`dico_rel.clique`) qui contiennent ce mot (`dico_rel.dico_terme`) dans une relation de _clique_ (`dico_rel.reltype`) ; lister ensuite les mots de ces cliques.
 
